@@ -72,8 +72,8 @@ ELPC represents NGO environmental infrastructure controlled by foundation fundin
 
 ### Sources
 
-- [IRS Form 990: ELPC nonprofit financials](https://projects.propublica.org/nonprofits/organizations/521544430) (Tier 1)
-- [Inside Philanthropy: Environmental foundation funding](https://www.insidephilanthropy.com/environmental-nonprofits/) (Tier 2)
+- ~~[IRS Form 990: ELPC nonprofit financials](https://projects.propublica.org/nonprofits/organizations/521544430)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Inside Philanthropy: Environmental foundation funding](https://www.insidephilanthropy.com/environmental-nonprofits/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ### Financial Overview (990 Filing — 2023)
 <!-- auto:propublica-990 start -->
@@ -87,8 +87,8 @@ ELPC represents NGO environmental infrastructure controlled by foundation fundin
 | Net Assets | $38.0M |
 | Officer Compensation | $914K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 363866530](https://projects.propublica.org/nonprofits/organizations/363866530) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F363866530_202306_990_2024061122523505.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 363866530](https://projects.propublica.org/nonprofits/organizations/363866530) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F363866530_202306_990_2024061122523505.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Tax Filings (IRS 990)
@@ -106,14 +106,14 @@ ELPC represents NGO environmental infrastructure controlled by foundation fundin
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/911687883/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/911687883/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/911687883/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/911687883/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/911687883/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/911687883/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/911687883/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/911687883/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/911687883/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/911687883/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/911687883) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/911687883) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Foreign Agent Activity (FARA)
@@ -130,7 +130,7 @@ ELPC represents NGO environmental infrastructure controlled by foundation fundin
 - Norwegian Agency for Development Cooperation (Mekong Project) (NORWAY)
 - Norwegian Agency for Development Cooperation (Latin America Project) (NORWAY)
 
-- [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Environmental%20Law%20%26%20Policy%20Center) (Tier 1)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Environmental%20Law%20%26%20Policy%20Center)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:fara-foreign-agents end -->
 
 ### Lobbying Activity
@@ -149,7 +149,7 @@ ELPC represents NGO environmental infrastructure controlled by foundation fundin
 
 **Agencies contacted:** Agriculture, Dept of (USDA), Army, Dept of (Corps of Engineers), Army, Dept of (Other), Bureau of Reclamation, Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Council on Environmental Quality (CEQ), Defense, Dept of (DOD), Energy, Dept of, Environmental Protection Agency (EPA) +21 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Environmental%20Law%20%26%20Policy%20Center) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Environmental%20Law%20%26%20Policy%20Center) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)
@@ -182,5 +182,5 @@ ELPC represents NGO environmental infrastructure controlled by foundation fundin
 - State of Minnesota v. Chris Wright (2025) — Court of Appeals for the D.C. Circuit
 - The People of the State of Michigan v. DOE (2025) — Court of Appeals for the D.C. Circuit
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Environmental%20Law%20%26%20Policy%20Center%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Environmental%20Law%20%26%20Policy%20Center%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->

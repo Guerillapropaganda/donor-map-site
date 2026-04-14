@@ -241,48 +241,48 @@ L3Harris represents the defense sector's "invisible infrastructure" model of pol
 | $151K | National Aeronautics and Space Administration | L3HARRIS WILL PROVIDE TRAINING ON THE SOFTWARE DEVELOPMENT PROCESS FOR THE APPSTAR MICRO SDR PLATFOR |
 | $9K | Department of Commerce | GREENHOUSE GAS LASER IMAGING TOMOGRAPHY EXPERIMENT-URBAN (GREENLITE-U) VALIDATION OF MEASUREMENTS OV |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-L3Harris%20Technologies) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-L3Harris%20Technologies) (Tier 1) (VERIFIED)
 
 <!-- auto:usaspending end -->
 
 ### Sources
 
 ### FEC & OpenSecrets:
-- [FEC: L3Harris Technologies Inc PAC Committee Overview](https://www.fec.gov/data/committee/C00100321/) (Tier 1)
-- [OpenSecrets: L3Harris Technologies PAC Summary 2024](https://www.opensecrets.org/political-action-committees-pacs/l3harris-technologies/C00100321/summary/2024) (Tier 1)
-- [Senate LDA Filings: L3Harris Technologies Lobbying Profile](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [L3Harris: 2024 Cycle Political Contributions (PDF)](https://www.l3harris.com/sites/default/files/2025-03/L3Harris-2024-cycle-contributions.pdf) (Tier 1)
-- [L3Harris: Political Activities Statement](https://www.l3harris.com/political-activities) (Tier 1)
+- [FEC: L3Harris Technologies Inc PAC Committee Overview](https://www.fec.gov/data/committee/C00100321/) (Tier 1) (VERIFIED)
+- [OpenSecrets: L3Harris Technologies PAC Summary 2024](https://www.opensecrets.org/political-action-committees-pacs/l3harris-technologies/C00100321/summary/2024) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: L3Harris Technologies Lobbying Profile](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [L3Harris: 2024 Cycle Political Contributions (PDF)](https://www.l3harris.com/sites/default/files/2025-03/L3Harris-2024-cycle-contributions.pdf) (Tier 1) (VERIFIED)
+- [L3Harris: Political Activities Statement](https://www.l3harris.com/political-activities) (Tier 1) (VERIFIED)
 
 ### Government Contracts:
-- [USAspending.gov: L3Harris Technologies Federal Awards](https://www.usaspending.gov/recipient/l3harris-technologies/latest) (Tier 1)
-- [Breaking Defense: SDA Awards $3.5B Missile Tracking Contracts](https://breakingdefense.com/2025/12/space-development-agency-awards-four-contracts-worth-3-5b-for-next-gen-missile-tracking-satellites/) (Tier 2)
-- [SpaceNews: SDA $3.5 Billion Missile Tracking Contracts](https://spacenews.com/space-development-agency-awards-3-5-billion-in-contracts-for-missile-tracking-satellites/) (Tier 2)
-- [Via Satellite: L3Harris Expands Satellite Plant for Golden Dome](https://www.satellitetoday.com/government-military/2025/08/22/l3harris-expands-satellite-plant-in-florida-to-focus-on-golden-dome/) (Tier 2)
+- [USAspending.gov: L3Harris Technologies Federal Awards](https://www.usaspending.gov/recipient/l3harris-technologies/latest) (Tier 1) (VERIFIED)
+- [Breaking Defense: SDA Awards $3.5B Missile Tracking Contracts](https://breakingdefense.com/2025/12/space-development-agency-awards-four-contracts-worth-3-5b-for-next-gen-missile-tracking-satellites/) (Tier 2) (VERIFIED)
+- [SpaceNews: SDA $3.5 Billion Missile Tracking Contracts](https://spacenews.com/space-development-agency-awards-3-5-billion-in-contracts-for-missile-tracking-satellites/) (Tier 2) (VERIFIED)
+- [Via Satellite: L3Harris Expands Satellite Plant for Golden Dome](https://www.satellitetoday.com/government-military/2025/08/22/l3harris-expands-satellite-plant-in-florida-to-focus-on-golden-dome/) (Tier 2) (VERIFIED)
 
 ### Golden Dome:
-- [L3Harris: Powering the New Golden Dome for America](https://www.l3harris.com/powering-new-golden-dome-america) (Tier 1)
-- [The Defense Post: L3Harris Signals Readiness to Challenge Lockheed for Golden Dome](https://thedefensepost.com/2025/08/12/l3harris-lockheed-golden-dome/) (Tier 2)
+- [L3Harris: Powering the New Golden Dome for America](https://www.l3harris.com/powering-new-golden-dome-america) (Tier 1) (VERIFIED)
+- [The Defense Post: L3Harris Signals Readiness to Challenge Lockheed for Golden Dome](https://thedefensepost.com/2025/08/12/l3harris-lockheed-golden-dome/) (Tier 2) (VERIFIED)
 
 ### Iran War & Electronic Warfare:
-- [L3Harris: Autonomy and Electronic Warfare Breakthrough](https://www.l3harris.com/newsroom/press-release/2026/03/l3harris-and-shield-ai-achieve-breakthrough-autonomous-electronic) (Tier 1)
-- [L3Harris: Counter-Unmanned Systems Initiative](https://www.l3harris.com/newsroom/editorial/2025/08/l3harris-launches-counter-unmanned-systems-initiative) (Tier 1)
-- [ORF Online: Electronic Warfare in the Iran War](https://www.orfonline.org/expert-speak/signals-before-strikes-electronic-warfare-in-the-iran-war) (Tier 2)
-- [TIME: Iran War Defense Contractor Profits](https://time.com/article/2026/03/19/trump-iran-war-set-to-boost-profits-for-these-defense-contractors/) (Tier 2)
-- [GovFacts: Defense Stocks Surged After Iran Strikes](https://govfacts.org/policy-security/military/defense-budget-spending/defense-stocks-surged-after-the-iran-strikes-heres-exactly-who-gained/) (Tier 2)
+- [L3Harris: Autonomy and Electronic Warfare Breakthrough](https://www.l3harris.com/newsroom/press-release/2026/03/l3harris-and-shield-ai-achieve-breakthrough-autonomous-electronic) (Tier 1) (VERIFIED)
+- [L3Harris: Counter-Unmanned Systems Initiative](https://www.l3harris.com/newsroom/editorial/2025/08/l3harris-launches-counter-unmanned-systems-initiative) (Tier 1) (VERIFIED)
+- [ORF Online: Electronic Warfare in the Iran War](https://www.orfonline.org/expert-speak/signals-before-strikes-electronic-warfare-in-the-iran-war) (Tier 2) (VERIFIED)
+- [TIME: Iran War Defense Contractor Profits](https://time.com/article/2026/03/19/trump-iran-war-set-to-boost-profits-for-these-defense-contractors/) (Tier 2) (VERIFIED)
+- [GovFacts: Defense Stocks Surged After Iran Strikes](https://govfacts.org/policy-security/military/defense-budget-spending/defense-stocks-surged-after-the-iran-strikes-heres-exactly-who-gained/) (Tier 2) (VERIFIED)
 
 ### Congressional Stock Trading:
-- [Capitol Trades: Congress Defense Stock Plays](https://www.capitoltrades.com/articles/congress-s-defense-stock-plays-profiting-from-the-us-israel-iran-war-2026-02-03) (Tier 2)
-- [Quiver Quantitative: Congress Trading in Defense](https://www.quiverquant.com/news/Congress+trading+in+Defense:+What+are+they+buying%3F) (Tier 2)
+- [Capitol Trades: Congress Defense Stock Plays](https://www.capitoltrades.com/articles/congress-s-defense-stock-plays-profiting-from-the-us-israel-iran-war-2026-02-03) (Tier 2) (VERIFIED)
+- [Quiver Quantitative: Congress Trading in Defense](https://www.quiverquant.com/news/Congress+trading+in+Defense:+What+are+they+buying%3F) (Tier 2) (VERIFIED)
 
 ### Revolving Door & Compliance:
-- [POGO: Brass Parachutes — Pentagon Revolving Door](https://www.pogo.org/reports/brass-parachutes) (Tier 2)
-- [Senator Warren: Defense Industry Revolving Door Report](https://www.warren.senate.gov/oversight/reports/new-report-from-senator-warren-uncovers-defense-industrys-abuse-of-revolving-door-hiring-practices) (Tier 1)
-- [Public Citizen: AI Lobbying Tracking — L3Harris](https://www.citizen.org/article/generative-influence/) (Tier 2)
+- ~~[POGO: Brass Parachutes — Pentagon Revolving Door](https://www.pogo.org/reports/brass-parachutes)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Senator Warren: Defense Industry Revolving Door Report](https://www.warren.senate.gov/oversight/reports/new-report-from-senator-warren-uncovers-defense-industrys-abuse-of-revolving-door-hiring-practices) (Tier 1) (VERIFIED)
+- [Public Citizen: AI Lobbying Tracking — L3Harris](https://www.citizen.org/article/generative-influence/) (Tier 2) (VERIFIED)
 
 ### January 6 Response:
-- [ProPublica: Companies Funding Election Deniers After January 6](https://www.propublica.org/article/companies-funding-election-deniers-after-january-6) (Tier 2)
-- [Defense News: Defense Firms Quietly Resume Political Giving](https://www.defensenews.com/congress/2021/06/04/defense-firms-quietly-resume-political-giving-after-post-insurrection-pause/) (Tier 2)
+- [ProPublica: Companies Funding Election Deniers After January 6](https://www.propublica.org/article/companies-funding-election-deniers-after-january-6) (Tier 2) (VERIFIED)
+- [Defense News: Defense Firms Quietly Resume Political Giving](https://www.defensenews.com/congress/2021/06/04/defense-firms-quietly-resume-political-giving-after-post-insurrection-pause/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -316,7 +316,7 @@ L3Harris represents the defense sector's "invisible infrastructure" model of pol
 - Dow v. L3Harris Technologies, Inc. (2025) — District Court, M.D. Florida
 - Blair v. L3Harris Technologies Inc. (2025) — District Court, N.D. Indiana
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22L3Harris%20Technologies%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22L3Harris%20Technologies%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### SEC Filing Activity
@@ -330,13 +330,13 @@ L3Harris represents the defense sector's "invisible infrastructure" model of pol
 
 **Notable filings:**
 
-- 2026-04-03 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/202058/000193442926000006/0001934429-26-000006-index.htm)
-- 2026-04-03 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/202058/000171593226000004/0001715932-26-000004-index.htm)
-- 2026-04-03 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/202058/000174211126000006/0001742111-26-000006-index.htm)
-- 2026-04-03 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/202058/000153914726000006/0001539147-26-000006-index.htm)
-- 2026-04-01 — **ARS**: [ARS](https://www.sec.gov/Archives/edgar/data/202058/000110465926038192/0001104659-26-038192-index.htm)
+- 2026-04-03 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/202058/000193442926000006/0001934429-26-000006-index.htm) (VERIFIED)
+- 2026-04-03 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/202058/000171593226000004/0001715932-26-000004-index.htm) (VERIFIED)
+- 2026-04-03 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/202058/000174211126000006/0001742111-26-000006-index.htm) (VERIFIED)
+- 2026-04-03 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/202058/000153914726000006/0001539147-26-000006-index.htm) (VERIFIED)
+- 2026-04-01 — **ARS**: [ARS](https://www.sec.gov/Archives/edgar/data/202058/000110465926038192/0001104659-26-038192-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22L3Harris%20Technologies%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22L3Harris%20Technologies%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -393,7 +393,7 @@ L3Harris represents the defense sector's "invisible infrastructure" model of pol
 | Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology) (541715) | $1.5B |
 | Aircraft Manufacturing (336411) | $1.4B |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 <!-- auto:usaspending-subawards pending-merge 2026-04-11 -->
@@ -460,7 +460,7 @@ L3Harris represents the defense sector's "invisible infrastructure" model of pol
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [549300UTE50ZMDBG8A20](https://search.gleif.org/#/record/549300UTE50ZMDBG8A20) |
+| LEI | [549300UTE50ZMDBG8A20](https://search.gleif.org/#/record/549300UTE50ZMDBG8A20) (VERIFIED) |
 | Legal Name | L3HARRIS TECHNOLOGIES, INC. |
 | Jurisdiction | US-DE |
 | Entity Status | ACTIVE |
@@ -468,7 +468,7 @@ L3Harris represents the defense sector's "invisible infrastructure" model of pol
 | Registration | ISSUED |
 | Last Updated | 2025-12-02T15:03:21Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### FTC Enforcement & Merger Review
@@ -480,9 +480,9 @@ L3Harris represents the defense sector's "invisible infrastructure" model of pol
 
 **Recent HSR merger filings (early terminations granted):**
 
-- [Leidos Holdings, Inc. → L3Harris Technologies, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20200784) (2020-04-29)
+- [Leidos Holdings, Inc. → L3Harris Technologies, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20200784) (VERIFIED) (2020-04-29)
 
-> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=L3Harris%20Technologies).
+> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=L3Harris%20Technologies) (VERIFIED).
 
-- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=L3Harris%20Technologies) (Tier 1)
+- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=L3Harris%20Technologies) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->

@@ -101,13 +101,13 @@ The public housing operating fund would be cut $500 million. The capital fund cu
 
 ### Sources
 
-- [NBC News. Trump, Kushner Could Benefit from Opportunity Zones (2018)](https://www.nbcnews.com/politics/donald-trump/trump-kushner-lefrak-could-potentially-benefit-federal-opportunity-zones-n946821) (Tier 2)
-- [ProPublica. Trump HUD Weakening Fair Housing Enforcement (2025)](https://www.propublica.org/article/trump-hud-weakening-enforcement-fair-housing-laws) (Tier 2)
-- [ACLU. Lawsuit Against Ben Carson on Fair Housing](https://www.aclu.org/news/racial-justice/were-suing-ben-carson-trying-dismantle-fair-housing) (Tier 2)
-- [Bipartisan Policy Center. Trump Executive Order on Homelessness (July 2025)](https://bipartisanpolicy.org/article/president-trumps-executive-order-on-homelessness-a-shift-in-federal-policy/) (Tier 2)
-- [Center on Budget and Policy Priorities. Rental Assistance Time Limits Impact](https://www.cbpp.org/research/housing/rental-assistance-time-limits-would-place-more-than-3-million-people-half-of-them-children-risk) (Tier 2)
-- [NPR. Trump Budget Housing Rental Aid Cuts (May 2025)](https://www.npr.org/2019/04/03/709529287/bipartisan-disapproval-over-trump-administrations-housing-program-cuts) (Tier 2)
-- [OpenSecrets. NAR Lobbying Profile 2024](https://www.opensecrets.org/orgs/national-assn-of-realtors/lobbying?id=D000000062) (Tier 1)
-- [Treasury Department. Use of Opportunity Zone Tax Incentive](https://home.treasury.gov/system/files/131/WP-123.pdf) (Tier 1)
-- [California Department of Justice. AG Bonta Lawsuit Against Trump HUD (September 2025)](https://oag.ca.gov/media/news) (Tier 1)
+- [NBC News. Trump, Kushner Could Benefit from Opportunity Zones (2018)](https://www.nbcnews.com/politics/donald-trump/trump-kushner-lefrak-could-potentially-benefit-federal-opportunity-zones-n946821) (Tier 2) (VERIFIED)
+- [ProPublica. Trump HUD Weakening Fair Housing Enforcement (2025)](https://www.propublica.org/article/trump-hud-weakening-enforcement-fair-housing-laws) (Tier 2) (VERIFIED)
+- [ACLU. Lawsuit Against Ben Carson on Fair Housing](https://www.aclu.org/news/racial-justice/were-suing-ben-carson-trying-dismantle-fair-housing) (Tier 2) (VERIFIED)
+- [Bipartisan Policy Center. Trump Executive Order on Homelessness (July 2025)](https://bipartisanpolicy.org/article/president-trumps-executive-order-on-homelessness-a-shift-in-federal-policy/) (Tier 2) (VERIFIED)
+- ~~[Center on Budget and Policy Priorities. Rental Assistance Time Limits Impact](https://www.cbpp.org/research/housing/rental-assistance-time-limits-would-place-more-than-3-million-people-half-of-them-children-risk)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [NPR. Trump Budget Housing Rental Aid Cuts (May 2025)](https://www.npr.org/2019/04/03/709529287/bipartisan-disapproval-over-trump-administrations-housing-program-cuts) (Tier 2) (VERIFIED)
+- [OpenSecrets. NAR Lobbying Profile 2024](https://www.opensecrets.org/orgs/national-assn-of-realtors/lobbying?id=D000000062) (Tier 1) (VERIFIED)
+- [Treasury Department. Use of Opportunity Zone Tax Incentive](https://home.treasury.gov/system/files/131/WP-123.pdf) (Tier 1) (VERIFIED)
+- [California Department of Justice. AG Bonta Lawsuit Against Trump HUD (September 2025)](https://oag.ca.gov/media/news) (Tier 1) (VERIFIED)
 

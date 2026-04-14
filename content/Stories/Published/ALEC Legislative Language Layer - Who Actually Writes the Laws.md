@@ -110,38 +110,38 @@ For the donor class, ALEC solves the scaling problem of traditional lobbying. In
 ### Sources
 
 ### Primary Documents & Databases (Tier 1):
-- [ALEC Exposed: The Model Bills Database](https://www.alecexposed.org/wiki/ALEC_Exposedwiki/ALEC_Bills) (Tier 1, leaked 850 ALEC model bills, 2011-present archive) (Tier 2)
-- [Center for Media and Democracy: ALEC Exposed](https://www.alecexposed.org/wiki/ALEC_Exposedwiki/ALEC_Exposed) (Tier 1, primary research database on ALEC) (Tier 2)
-- [Wikipedia: List of Members of the American Legislative Exchange Council](https://en.wikipedia.org/wiki/List_of_members_of_the_American_Legislative_Exchange_Council) (Tier 2, compiled corporate member list) (Tier 3)
+- ~~[ALEC Exposed: The Model Bills Database](https://www.alecexposed.org/wiki/ALEC_Exposedwiki/ALEC_Bills)~~ (URL broken, archived by Ops) (Tier 1, leaked 850 ALEC model bills, 2011-present archive) (Tier 2)
+- ~~[Center for Media and Democracy: ALEC Exposed](https://www.alecexposed.org/wiki/ALEC_Exposedwiki/ALEC_Exposed)~~ (URL broken, archived by Ops) (Tier 1, primary research database on ALEC) (Tier 2)
+- [Wikipedia: List of Members of the American Legislative Exchange Council](https://en.wikipedia.org/wiki/List_of_members_of_the_American_Legislative_Exchange_Council) (VERIFIED) (Tier 2, compiled corporate member list) (Tier 3)
 
 ### Research & Analysis (Tier 2):
-- [ProPublica: "Our Step-By-Step Guide to Understanding ALEC's Influence on Your State Laws"](https://www.propublica.org/article/our-step-by-step-guide-to-understanding-alecs-influence-on-your-state-laws) (Tier 2, 132 bills with ALEC language in 2011-12, quantified matching analysis) (Tier 2)
-- [Brookings Institution: "ALEC's Influence over Lawmaking in State Legislatures"](https://www.brookings.edu/articles/alecs-influence-over-lawmaking-in-state-legislatures/) (Tier 2, peer-reviewed policy analysis) (Tier 3)
-- [The Intercept: Charles Koch Doubles Down on ALEC as Others Flee](https://theintercept.com/2018/11/29/alec-corporate-funders-charles-koch/) (Tier 2. Koch funding documentation, $779K 2017)
-- [The Nation: "ALEC Exposed: The Koch Connection"](https://www.thenation.com/article/archive/alec-exposed-koch-connection/) (Tier 2. Koch pipeline to ALEC documented) (Tier 2)
-- [Center for Constitutional Rights: "New Report Details Impact of Secretive ALEC on Communities of Color"](https://ccrjustice.org/sites/default/files/attach/2017/09/Ag-Gag%20Across%20America%20-%20Fact%20Sheet%20.pdf) (Tier 2, ag-gag, SYG, voter ID, critical infrastructure case studies) (Tier 2)
-- [Common Cause: "Who Still Funds ALEC?"](https://www.commoncause.org/articles/who-still-funds-alec/) (Tier 2, current corporate member tracking) (Tier 2)
-- [Center for Media and Democracy: "ALEC's Funding Revealed"](https://www.exposedbycmd.org/2023/07/25/alecs-funding-revealed/) (Tier 2, $41.7M contributions 2017-2021 breakdown) (Tier 2)
+- [ProPublica: "Our Step-By-Step Guide to Understanding ALEC's Influence on Your State Laws"](https://www.propublica.org/article/our-step-by-step-guide-to-understanding-alecs-influence-on-your-state-laws) (VERIFIED) (Tier 2, 132 bills with ALEC language in 2011-12, quantified matching analysis) (Tier 2)
+- [Brookings Institution: "ALEC's Influence over Lawmaking in State Legislatures"](https://www.brookings.edu/articles/alecs-influence-over-lawmaking-in-state-legislatures/) (VERIFIED) (Tier 2, peer-reviewed policy analysis) (Tier 3)
+- [The Intercept: Charles Koch Doubles Down on ALEC as Others Flee](https://theintercept.com/2018/11/29/alec-corporate-funders-charles-koch/) (VERIFIED) (Tier 2. Koch funding documentation, $779K 2017)
+- [The Nation: "ALEC Exposed: The Koch Connection"](https://www.thenation.com/article/archive/alec-exposed-koch-connection/) (VERIFIED) (Tier 2. Koch pipeline to ALEC documented) (Tier 2)
+- [Center for Constitutional Rights: "New Report Details Impact of Secretive ALEC on Communities of Color"](https://ccrjustice.org/sites/default/files/attach/2017/09/Ag-Gag%20Across%20America%20-%20Fact%20Sheet%20.pdf) (VERIFIED) (Tier 2, ag-gag, SYG, voter ID, critical infrastructure case studies) (Tier 2)
+- [Common Cause: "Who Still Funds ALEC?"](https://www.commoncause.org/articles/who-still-funds-alec/) (VERIFIED) (Tier 2, current corporate member tracking) (Tier 2)
+- ~~[Center for Media and Democracy: "ALEC's Funding Revealed"](https://www.exposedbycmd.org/2023/07/25/alecs-funding-revealed/)~~ (URL broken, archived by Ops) (Tier 2, $41.7M contributions 2017-2021 breakdown) (Tier 2)
 
 ### Issue-Specific Research (Tier 2):
-- [Jackson Free Press / ProPublica: Stand Your Ground matching analysis](https://www.jacksonfreepress.com/news/2013/jan/16/alec-pushes-stand-your-ground-bills/) (Tier 2. SYG model bill adoption, 25-30 state passage rate) (Tier 2)
-- [NBC News: "Flurry of Voter ID Laws Tied to ALEC"](https://www.nbcnews.com/news/investigations/flurry-voter-id-laws-tied-conservative-group-alec-flna955652) (Tier 2, voter ID model legislation, 62+ bills in 2011-12) (Tier 2)
-- [Wikipedia: "Ag-gag Laws"](https://en.wikipedia.org/wiki/Ag-gag) (Tier 2, ag-gag model legislation history, ALEC's 2002 Animal & Ecological Terrorism Act) (Tier 3)
-- [DeSmog: "ALEC Model Bill Pipeline Protest Criminalization"](https://www.desmog.com/2017/12/11/alec-model-bill-pipeline-protesters/) (Tier 2, critical infrastructure model bill, post-Standing Rock) (Tier 2)
-- [Brennan Center for Justice: "Anti-Protest Laws Threaten Indigenous and Climate Movements"](https://www.brennancenter.org/our-work/analysis-opinion/anti-protest-laws-threaten-indigenous-and-climate-movements) (Tier 2, critical infrastructure bills in 8+ states) (Tier 2)
-- [Sierra Club: "States Criminalizing Environmental Activists"](https://www.sierraclub.org/sierra/2023-3-fall/notes-here-there/states-are-criminalizing-environmental-activist) (Tier 2. ALEC critical infrastructure adoption) (Tier 2)
-- [Exposed by CMD: "ALEC Pushes Power Grid Stability Bills"](https://www.exposedbycmd.org/2025/11/12/alec-pushes-power-grid-stability-bills-to-favor-fossil-fuels-over-renewables) (Tier 2, 15+ grid stability bills 2024-2025) (Tier 2)
-- [CleanTechnica: "ALEC Anti-Renewable Legislation Ohio"](https://cleantechnica.com/2026/02/24/alec-pushes-idiotic-anti-renewable-legislation-in-ohio/amp) (Tier 2. HB 1286 and model energy bills) (Tier 2)
-- [Energy & Policy Institute: "ALEC Attacks on Renewable Energy"](https://energyandpolicy.org/american-legislative-exchange-council/) (Tier 2, task force composition, fossil fuel dominance) (Tier 2)
+- [Jackson Free Press / ProPublica: Stand Your Ground matching analysis](https://www.jacksonfreepress.com/news/2013/jan/16/alec-pushes-stand-your-ground-bills/) (VERIFIED) (Tier 2. SYG model bill adoption, 25-30 state passage rate) (Tier 2)
+- [NBC News: "Flurry of Voter ID Laws Tied to ALEC"](https://www.nbcnews.com/news/investigations/flurry-voter-id-laws-tied-conservative-group-alec-flna955652) (VERIFIED) (Tier 2, voter ID model legislation, 62+ bills in 2011-12) (Tier 2)
+- [Wikipedia: "Ag-gag Laws"](https://en.wikipedia.org/wiki/Ag-gag) (VERIFIED) (Tier 2, ag-gag model legislation history, ALEC's 2002 Animal & Ecological Terrorism Act) (Tier 3)
+- [DeSmog: "ALEC Model Bill Pipeline Protest Criminalization"](https://www.desmog.com/2017/12/11/alec-model-bill-pipeline-protesters/) (VERIFIED) (Tier 2, critical infrastructure model bill, post-Standing Rock) (Tier 2)
+- [Brennan Center for Justice: "Anti-Protest Laws Threaten Indigenous and Climate Movements"](https://www.brennancenter.org/our-work/analysis-opinion/anti-protest-laws-threaten-indigenous-and-climate-movements) (VERIFIED) (Tier 2, critical infrastructure bills in 8+ states) (Tier 2)
+- ~~[Sierra Club: "States Criminalizing Environmental Activists"](https://www.sierraclub.org/sierra/2023-3-fall/notes-here-there/states-are-criminalizing-environmental-activist)~~ (URL broken, archived by Ops) (Tier 2. ALEC critical infrastructure adoption) (Tier 2)
+- ~~[Exposed by CMD: "ALEC Pushes Power Grid Stability Bills"](https://www.exposedbycmd.org/2025/11/12/alec-pushes-power-grid-stability-bills-to-favor-fossil-fuels-over-renewables)~~ (URL broken, archived by Ops) (Tier 2, 15+ grid stability bills 2024-2025) (Tier 2)
+- [CleanTechnica: "ALEC Anti-Renewable Legislation Ohio"](https://cleantechnica.com/2026/02/24/alec-pushes-idiotic-anti-renewable-legislation-in-ohio/amp) (Tier 2. HB 1286 and model energy bills) (NEEDS REVIEW) (Tier 2)
+- [Energy & Policy Institute: "ALEC Attacks on Renewable Energy"](https://energyandpolicy.org/american-legislative-exchange-council/) (VERIFIED) (Tier 2, task force composition, fossil fuel dominance) (Tier 2)
 
 ### Politician Connections (Tier 2–3):
-- [ALEC: "Policy Champions" Feature on Glenn Youngkin](https://alec.org/article/alec-policy-champions-governor-glenn-youngkin-secretary-travis-voyles-senator-richard-stuart-senator-ryan-mcdougle-and-delegate-tony-wilt-remove-virginia-from-california-ev-mandate/) (Tier 2. Youngkin's formal ALEC Policy Champion designation) (Tier 2)
-- [Common Cause: ALEC in Texas Report](https://www.commoncause.org/wp-content/uploads/2019/08/ALEC-Report-Texas_FINAL_WEB.pdf) (Tier 2. Texas legislators, Chris Paddie, Jane Nelson, Phil King documented) (Tier 2)
-- [Wikipedia: American Legislative Exchange Council](https://en.wikipedia.org/wiki/American_Legislative_Exchange_Council) (Tier 2. Bill Seitz, Lance Kinzer examples) (Tier 3)
+- [ALEC: "Policy Champions" Feature on Glenn Youngkin](https://alec.org/article/alec-policy-champions-governor-glenn-youngkin-secretary-travis-voyles-senator-richard-stuart-senator-ryan-mcdougle-and-delegate-tony-wilt-remove-virginia-from-california-ev-mandate/) (VERIFIED) (Tier 2. Youngkin's formal ALEC Policy Champion designation) (Tier 2)
+- [Common Cause: ALEC in Texas Report](https://www.commoncause.org/wp-content/uploads/2019/08/ALEC-Report-Texas_FINAL_WEB.pdf) (VERIFIED) (Tier 2. Texas legislators, Chris Paddie, Jane Nelson, Phil King documented) (Tier 2)
+- [Wikipedia: American Legislative Exchange Council](https://en.wikipedia.org/wiki/American_Legislative_Exchange_Council) (VERIFIED) (Tier 2. Bill Seitz, Lance Kinzer examples) (Tier 3)
 
 ### Think Tank Pipeline (Tier 2–3):
-- [Heritage Foundation: Project 2025 Documentation](https://www.aclu.org/project-2025-explained) (Tier 2, federal model legislation, Trump administration implementation) (Tier 2)
-- [PBS: "Tracking Project 2025 Trump Administration Achievement"](https://www.pbs.org/newshour/politics/tracking-how-much-of-project-2025-the-trump-administration-achieved-this-year) (Tier 2, federal policy model bill adoption rate) (Tier 2)
+- [Heritage Foundation: Project 2025 Documentation](https://www.aclu.org/project-2025-explained) (VERIFIED) (Tier 2, federal model legislation, Trump administration implementation) (Tier 2)
+- [PBS: "Tracking Project 2025 Trump Administration Achievement"](https://www.pbs.org/newshour/politics/tracking-how-much-of-project-2025-the-trump-administration-achieved-this-year) (VERIFIED) (Tier 2, federal policy model bill adoption rate) (Tier 2)
 
 [!money]
 > **The Money Trail:** ALEC dues ($25K corporate membership) translate into 600+ laws passed per decade. Cost per law: ~$42. The donor class's ROI on legislative authorship is incalculable.

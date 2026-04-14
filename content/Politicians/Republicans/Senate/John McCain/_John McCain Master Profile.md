@@ -77,12 +77,12 @@ His opposition to Trump's tariffs on China (2018) and defense budget cuts (2017)
 
 ## Sources
 
-- [FEC Candidate: John McCain donor profile](https://www.fec.gov/data/candidate/H2AZ01024/) (Tier 1)
-- [FEC campaign finance records: McCain presidential 2008](https://www.fec.gov) (Tier 1)
-- [Defense Industry Donations to John McCain](https://publicintegrity.org) (Tier 2)
-- [Keating Five scandal: Senate Ethics Committee investigation](https://www.senate.gov) (Tier 1)
-- [McCain-Feingold Campaign Finance Reform Act of 2002](https://www.congress.gov) (Tier 1)
-- [McCain family business: Hensley & Co beer distribution](https://ballotpedia.org/John_McCain) (Tier 3)
+- [FEC Candidate: John McCain donor profile](https://www.fec.gov/data/candidate/H2AZ01024/) (Tier 1) (VERIFIED)
+- [FEC campaign finance records: McCain presidential 2008](https://www.fec.gov) (Tier 1) (VERIFIED)
+- [Defense Industry Donations to John McCain](https://publicintegrity.org) (Tier 2) (VERIFIED)
+- [Keating Five scandal: Senate Ethics Committee investigation](https://www.senate.gov) (Tier 1) (VERIFIED)
+- ~~[McCain-Feingold Campaign Finance Reform Act of 2002](https://www.congress.gov)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [McCain family business: Hensley & Co beer distribution](https://ballotpedia.org/John_McCain) (Tier 3) (VERIFIED)
 
 ---
 
@@ -94,7 +94,7 @@ His opposition to Trump's tariffs on China (2018) and defense budget cuts (2017)
 | Bills Cosponsored | 0 |
 | Total Votes Cast | 12,179 |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/300071) (Tier 1)
+- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/300071)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:govtrack end -->
 
 ### Campaign Finance (FEC)
@@ -118,7 +118,7 @@ His opposition to Trump's tariffs on China (2018) and defense budget cuts (2017)
 |-----------|---------|--------|
 | NRA POLITICAL VICTORY FUND | $0 | $77 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2AZ01024/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2AZ01024/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Voting Record

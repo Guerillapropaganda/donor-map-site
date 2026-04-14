@@ -139,8 +139,8 @@ Total political spending: $4,943,324
 > Two-thirds of Palantir's lobbyists previously held government jobs. This revolving door isn't incidental — it's the business model. Former intelligence officials, Pentagon procurement staff, and congressional defense aides cycle into Palantir's lobbying operation, leveraging the relationships and institutional knowledge they built on the public payroll to sell surveillance technology back to their former employers. The 2013 lobbying peak ($796K) coincides precisely with the year Palantir launched its DCGS-A procurement fight — the lawsuit that broke open Army contracting for tech companies and ultimately led to the $10B enterprise agreement in 2025. The pre-IPO quiet period (2019: $180K) and the post-IPO explosion (2023: $5.09M) confirm the pattern: lobbying scaled with Palantir's political power, not just its revenue.
 
 - [OpenSecrets: Palantir Technologies PAC candidate recipients 2024](https://www.opensecrets.org/political-action-committees-pacs/palantir-technologies/C00498691/candidate-recipients/2024) (Tier 1) (VERIFIED)
-- ~~[Senate LDA Filings: Palantir Technologies lobbying profile](https://lda.gov/filings/public/filing/search/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- [Senate LDA Filings: Palantir Technologies lobbyists — revolving door data](https://lda.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: Palantir Technologies lobbying profile](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: Palantir Technologies lobbyists — revolving door data](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
 
 ---
 
@@ -239,7 +239,7 @@ The deeper structural pattern: Palantir's entire business model depends on probl
 - [OpenSecrets: Palantir Technologies summary](https://www.opensecrets.org/orgs/palantir-technologies/summary?id=D000055177) (Tier 1)
 - [Senate LDA Filings: Palantir Technologies lobbying profile](https://lda.gov/filings/public/filing/search/) (Tier 1)
 - [OpenSecrets: Palantir Technologies PAC candidate recipients 2024](https://www.opensecrets.org/political-action-committees-pacs/palantir-technologies/C00498691/candidate-recipients/2024) (Tier 1)
-- [Senate LDA Filings: Palantir Technologies lobbyists — revolving door](https://lda.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: Palantir Technologies lobbyists — revolving door](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
 - ~~[Senate LDA API: Palantir Technologies lobbying filings 2006–2025 (489 filings)](https://lda.gov/filings/public/filing/search/?client_name=PALANTIR+TECHNOLOGIES)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [USAspending.gov: Palantir ICE contract record](https://www.usaspending.gov/award/CONT_AWD_70CTD022FR0000170_7012_GS35F0086U_4730) (Tier 1)
 - [CNBC: Palantir lands $10 billion Army contract](https://www.cnbc.com/2025/08/01/palantir-lands-10-billion-army-software-and-data-contract.html) (Tier 2)
@@ -249,7 +249,7 @@ The deeper structural pattern: Palantir's entire business model depends on probl
 - [The Nation: How US Intelligence and an American Company Feed Israel's Killing Machine in Gaza](https://www.thenation.com/article/world/nsa-palantir-israel-gaza-ai/) (Tier 2)
 - [Brennan Center: Palantir Contract Dispute Exposes NYPD's Lack of Transparency](https://www.brennancenter.org/our-work/analysis-opinion/palantir-contract-dispute-exposes-nypds-lack-transparency) (Tier 2)
 - [BuzzFeed News: Documents Show How The LAPD Was Trained To Use Palantir](https://www.buzzfeednews.com/article/carolinehaskins1/training-documents-palantir-lapd) (Tier 2)
-- [AFSC Investigate: Palantir Technologies company profile](https://investigate.afsc.org/company/palantir) (Tier 3)
+- [AFSC Investigate: Palantir Technologies company profile](https://investigate.afsc.org/company/palantir) (Tier 3) (VERIFIED)
 
 ---
 
@@ -287,7 +287,7 @@ The deeper structural pattern: Palantir's entire business model depends on probl
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Palantir%20Technologies) (Tier 1) (NEEDS REVIEW: Currently shows search results with no results; interesting that this was tagged though investigate)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Palantir%20Technologies) (Tier 1) (VERIFIED) (NEEDS REVIEW: Currently shows search results with no results; interesting that this was tagged though investigate)
 <!-- auto:nhtsa-recalls end -->
 
 ### Federal Register Activity
@@ -299,15 +299,15 @@ The deeper structural pattern: Palantir's entire business model depends on probl
 | Agencies | Antitrust Division, Federal Communications Commission, Federal Trade Commission, Justice Department, Securities and Exchange Commission |
 
 **Recent regulatory activity:**
-- [Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Order Approving a Proposed Rule Change, as Modified by Amendment No. 2, To Allow Companies To List in Connection With a Direct Listing With a Primary Offering in Which the Company Will Sell Shares Itself in the Opening Auction on the First Day of Trading on Nasdaq and To Explain How the Opening Transaction for Such a Listing Will Be Effected](https://www.federalregister.gov/documents/2021/05/25/2021-10968/self-regulatory-organizations-the-nasdaq-stock-market-llc-order-approving-a-proposed-rule-change-as) (VERIFIED: Redirects to https://unblock.federalregister.gov/ ; has a scraper defense) (2021-05-25) — Securities and Exchange Commission
-- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2021/02/24/2021-03751/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (VERIFIED: Redirects to https://unblock.federalregister.gov/) (2021-02-24) — Federal Trade Commission
-- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2021/02/18/2021-03183/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (VERIFIED: Redirects to https://unblock.federalregister.gov/) (2021-02-18) — Federal Trade Commission
-- [Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Allow Companies To List in Connection With a Direct Listing With a Primary Offering In Which the Company Will Sell Shares Itself In the Opening Auction on the First Day of Trading on Nasdaq and To Explain How the Opening Transaction for Such a Listing Will Be Effected](https://www.federalregister.gov/documents/2020/12/23/2020-28319/self-regulatory-organizations-the-nasdaq-stock-market-llc-order-instituting-proceedings-to-determine) (VERIFIED: Redirects to https://unblock.federalregister.gov/) (2020-12-23) — Securities and Exchange Commission
-- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2020/10/16/2020-22944/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (VERIFIED: Redirects to https://unblock.federalregister.gov/) (2020-10-16) — Federal Trade Commission
-- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2020/10/16/2020-22943/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (VERIFIED: Redirects to https://unblock.federalregister.gov/) (2020-10-16) — Federal Trade Commission
+- [Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Order Approving a Proposed Rule Change, as Modified by Amendment No. 2, To Allow Companies To List in Connection With a Direct Listing With a Primary Offering in Which the Company Will Sell Shares Itself in the Opening Auction on the First Day of Trading on Nasdaq and To Explain How the Opening Transaction for Such a Listing Will Be Effected](https://www.federalregister.gov/documents/2021/05/25/2021-10968/self-regulatory-organizations-the-nasdaq-stock-market-llc-order-approving-a-proposed-rule-change-as) (VERIFIED) (2021-05-25) — Securities and Exchange Commission
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2021/02/24/2021-03751/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (VERIFIED) (2021-02-24) — Federal Trade Commission
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2021/02/18/2021-03183/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (VERIFIED) (2021-02-18) — Federal Trade Commission
+- [Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Allow Companies To List in Connection With a Direct Listing With a Primary Offering In Which the Company Will Sell Shares Itself In the Opening Auction on the First Day of Trading on Nasdaq and To Explain How the Opening Transaction for Such a Listing Will Be Effected](https://www.federalregister.gov/documents/2020/12/23/2020-28319/self-regulatory-organizations-the-nasdaq-stock-market-llc-order-instituting-proceedings-to-determine) (VERIFIED) (2020-12-23) — Securities and Exchange Commission
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2020/10/16/2020-22944/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (VERIFIED) (2020-10-16) — Federal Trade Commission
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2020/10/16/2020-22943/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (VERIFIED) (2020-10-16) — Federal Trade Commission
 - ... and 2 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Palantir%20Technologies%22) (Tier 1) (VERIFIED: Redirects to https://unblock.federalregister.gov/)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Palantir%20Technologies%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -397,7 +397,7 @@ The deeper structural pattern: Palantir's entire business model depends on probl
 | $150.7M | Department of Homeland Security | INVESTIGATIVE CASE MANAGEMENT (ICM) OPERATIONS AND MAINTENANCE (O&M) SUPPORT SERVICES AND CUSTOM ENH |
 | $130.0M | Department of Defense | ESTABLISH BASIC LETTER CONTRACT FOR COMMERCIAL DATA AS A SERVE PLATFORM. |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/1ea8a9a4-3726-3491-9040-66950bb67606-P/latest) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/1ea8a9a4-3726-3491-9040-66950bb67606-P/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Wikipedia
@@ -406,12 +406,12 @@ Palantir Technologies Inc. is an American publicly traded company that develops 
 
 | Fact | Value |
 |------|-------|
-| Wikidata ID | [Q2047336](https://www.wikidata.org/wiki/Q2047336) |
+| Wikidata ID | [Q2047336](https://www.wikidata.org/wiki/Q2047336) (VERIFIED) |
 | Description | American software and services company, specializing in data analysis |
 | Founded | 2003-00-00 |
-| Website | [https://www.palantir.com/](https://www.palantir.com/) |
-| X/Twitter | [@PalantirTech](https://x.com/PalantirTech) |
+| Website | [https://www.palantir.com/](https://www.palantir.com/) (VERIFIED) |
+| X/Twitter | [@PalantirTech](https://x.com/PalantirTech) (VERIFIED) |
 
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/Palantir) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q2047336) (Tier 2)
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Palantir) (Tier 3) (VERIFIED)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q2047336) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->

@@ -68,8 +68,8 @@ TYT is a privately held media company and does not make political contributions 
 > [!money]
 > The FEC employee data reveals a structural contrast with the Daily Wire: where Daily Wire employees donated 48% Democratic despite a conservative editorial line (suggesting institutional political culture diverges from content), TYT employees donate 100% progressive but in overwhelmingly small-dollar amounts, $5 to $35 per transaction across 411 contributions (suggesting institutional political culture aligns with content but the workforce can't afford meaningful political participation). Both patterns expose the labor economics underlying media ideology factories.
 
-- [FEC: Cenk Uygur individual contributions](https://www.fec.gov/data/receipts/?contributor_name=cenk+uygur) (Tier 1)
-- [FEC: TYT employee contributions (411 results)](https://www.fec.gov/data/receipts/?contributor_employer=the+young+turks) (Tier 1)
+- [FEC: Cenk Uygur individual contributions](https://www.fec.gov/data/receipts/?contributor_name=cenk+uygur) (Tier 1) (VERIFIED)
+- [FEC: TYT employee contributions (411 results)](https://www.fec.gov/data/receipts/?contributor_employer=the+young+turks) (Tier 1) (VERIFIED)
 
 ---
 
@@ -193,29 +193,29 @@ Patterns present: **Independence Theater** (VC-funded "independent" media), **Au
 
 ### Sources
 
-- [Tubefilter: The Young Turks Secures $4 Million Investment From Buddy Roemer](https://www.tubefilter.com/2014/04/16/the-young-turks-4-million-funding-buddy-roemer/) (Tier 3)
-- [Digiday: With cash from Katzenberg, The Young Turks look to grow paid subscribers](https://digiday.com/media/with-cash-from-katzenberg-the-young-turks-look-to-grow-paid-subscribers/) (Tier 3)
-- [Digiday: The Young Turks now has 27K paying subscribers accounting for half of its revenue](https://digiday.com/media/young-turks-now-27k-paying-subscribers-accounting-half-revenue/) (Tier 3)
-- [Variety: Jeffrey Katzenberg's WndrCo Invests in TYT Network as Part of $20 Million Round](https://variety.com/2017/digital/news/young-turks-jeffrey-katzenberg-wndrco-funding-1202518938/) (Tier 2)
-- [Hollywood Reporter: The Young Turks Raises $20 Million in Latest Funding Round](https://www.hollywoodreporter.com/news/general-news/left-leaning-political-video-network-young-turks-raises-20-million-1027360/) (Tier 2)
-- [Axios: How The Young Turks will spend its $20 million](https://www.axios.com/2017/12/15/how-the-young-turks-will-spend-its-20-million-1513304718) (Tier 2)
-- [The New Republic: The Myth of the Progressive Boss](https://newrepublic.com/article/156757/myth-progressive-boss) (Tier 2)
-- [In These Times: The Young Turks Union Fight Gets Nastier](https://inthesetimes.com/article/the-young-turks-union-cenk-uygur-labor-organizing) (Tier 2)
-- [HuffPost: The Young Turks' Progressive Founder Urged His Staff Not To Unionize](https://www.huffpost.com/entry/the-young-turks-progressive-founder-urged-his-staff-not-to-unionize_n_5e540686c5b6ad3de3823a32) (Tier 2)
-- [Deadline: IATSE Launches Drive To Unionize The Young Turks Online News Site](https://deadline.com/2020/02/iatse-launches-drive-to-unionize-the-young-turks-news-site-1202858884/) (Tier 2)
-- [The Hill: Democratic presidential candidate Cenk Uygur raises more than $250K](https://thehill.com/homenews/campaign/4327418-democratic-presidential-candidate-cenk-uygur-raises-250k/) (Tier 2)
-- [The Hill: Cenk Uygur signals optimism after Donald Trump election win](https://thehill.com/homenews/campaign/5015727-cenk-uygur-donald-trump-optimism-2024-election/) (Tier 2)
-- [Variety: The Young Turks CEO Cenk Uygur Touts Political News Strategy](https://variety.com/2024/digital/news/cenk-uygur-young-turks-election-1236192092/) (Tier 2)
-- [vidIQ: The Young Turks YouTube Channel Statistics](https://vidiq.com/youtube-stats/channel/UC1yBKRuGpC1tSM73A0ZjYjQ/) (Tier 3)
-- [Wikipedia: The Young Turks](https://en.wikipedia.org/wiki/The_Young_Turks) (Tier 3)
-- [Wikipedia: Cenk Uygur](https://en.wikipedia.org/wiki/Cenk_Uygur) (Tier 3)
-- [Wikipedia: Ana Kasparian](https://en.wikipedia.org/wiki/Ana_Kasparian) (Tier 3)
-- [Ballotpedia: Cenk Uygur](https://ballotpedia.org/Cenk_Uygur) (Tier 3)
-- [Justice Democrats: Official Site](https://justicedemocrats.com/) (Tier 3)
+- [Tubefilter: The Young Turks Secures $4 Million Investment From Buddy Roemer](https://www.tubefilter.com/2014/04/16/the-young-turks-4-million-funding-buddy-roemer/) (Tier 3) (VERIFIED)
+- [Digiday: With cash from Katzenberg, The Young Turks look to grow paid subscribers](https://digiday.com/media/with-cash-from-katzenberg-the-young-turks-look-to-grow-paid-subscribers/) (Tier 3) (VERIFIED)
+- [Digiday: The Young Turks now has 27K paying subscribers accounting for half of its revenue](https://digiday.com/media/young-turks-now-27k-paying-subscribers-accounting-half-revenue/) (Tier 3) (VERIFIED)
+- [Variety: Jeffrey Katzenberg's WndrCo Invests in TYT Network as Part of $20 Million Round](https://variety.com/2017/digital/news/young-turks-jeffrey-katzenberg-wndrco-funding-1202518938/) (Tier 2) (VERIFIED)
+- [Hollywood Reporter: The Young Turks Raises $20 Million in Latest Funding Round](https://www.hollywoodreporter.com/news/general-news/left-leaning-political-video-network-young-turks-raises-20-million-1027360/) (Tier 2) (VERIFIED)
+- ~~[Axios: How The Young Turks will spend its $20 million](https://www.axios.com/2017/12/15/how-the-young-turks-will-spend-its-20-million-1513304718)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [The New Republic: The Myth of the Progressive Boss](https://newrepublic.com/article/156757/myth-progressive-boss) (Tier 2) (VERIFIED)
+- [In These Times: The Young Turks Union Fight Gets Nastier](https://inthesetimes.com/article/the-young-turks-union-cenk-uygur-labor-organizing) (Tier 2) (VERIFIED)
+- [HuffPost: The Young Turks' Progressive Founder Urged His Staff Not To Unionize](https://www.huffpost.com/entry/the-young-turks-progressive-founder-urged-his-staff-not-to-unionize_n_5e540686c5b6ad3de3823a32) (Tier 2) (VERIFIED)
+- [Deadline: IATSE Launches Drive To Unionize The Young Turks Online News Site](https://deadline.com/2020/02/iatse-launches-drive-to-unionize-the-young-turks-news-site-1202858884/) (Tier 2) (VERIFIED)
+- ~~[The Hill: Democratic presidential candidate Cenk Uygur raises more than $250K](https://thehill.com/homenews/campaign/4327418-democratic-presidential-candidate-cenk-uygur-raises-250k/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Cenk Uygur signals optimism after Donald Trump election win](https://thehill.com/homenews/campaign/5015727-cenk-uygur-donald-trump-optimism-2024-election/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Variety: The Young Turks CEO Cenk Uygur Touts Political News Strategy](https://variety.com/2024/digital/news/cenk-uygur-young-turks-election-1236192092/) (Tier 2) (VERIFIED)
+- [vidIQ: The Young Turks YouTube Channel Statistics](https://vidiq.com/youtube-stats/channel/UC1yBKRuGpC1tSM73A0ZjYjQ/) (Tier 3) (VERIFIED)
+- [Wikipedia: The Young Turks](https://en.wikipedia.org/wiki/The_Young_Turks) (Tier 3) (VERIFIED)
+- [Wikipedia: Cenk Uygur](https://en.wikipedia.org/wiki/Cenk_Uygur) (Tier 3) (VERIFIED)
+- [Wikipedia: Ana Kasparian](https://en.wikipedia.org/wiki/Ana_Kasparian) (Tier 3) (VERIFIED)
+- [Ballotpedia: Cenk Uygur](https://ballotpedia.org/Cenk_Uygur) (Tier 3) (VERIFIED)
+- [Justice Democrats: Official Site](https://justicedemocrats.com/) (Tier 3) (VERIFIED)
 - [FEC: Cenk Uygur individual contributions](https://www.fec.gov/data/receipts/?contributor_name=cenk+uygur) (Tier 1)
 - [FEC: TYT employee contributions (411 results)](https://www.fec.gov/data/receipts/?contributor_employer=the+young+turks) (Tier 1)
-- [Hollywood Reporter: Jeffrey Katzenberg's Email to Harvey Weinstein](https://www.hollywoodreporter.com/news/general-news/jeffrey-katzenbergs-email-harvey-weinstein-youve-done-terrible-things-1047524/) (Tier 2)
-- [Medium (Robbie Jaeger): The Ideological Failure of The Young Turks](https://medium.com/@RobletoFire/the-ideological-failure-of-the-young-turks-90c15ddde408) (Tier 4)
+- [Hollywood Reporter: Jeffrey Katzenberg's Email to Harvey Weinstein](https://www.hollywoodreporter.com/news/general-news/jeffrey-katzenbergs-email-harvey-weinstein-youve-done-terrible-things-1047524/) (Tier 2) (VERIFIED)
+- ~~[Medium (Robbie Jaeger): The Ideological Failure of The Young Turks](https://medium.com/@RobletoFire/the-ideological-failure-of-the-young-turks-90c15ddde408)~~ (was Tier 4 — URL broken, archived by Ops) (Tier 4)
 
 ---
 

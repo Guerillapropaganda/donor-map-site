@@ -115,14 +115,14 @@ The pattern: energy sector → government → academia. At each stage, Rice's po
 
 ## Sources
 
-- [FEC: Condoleezza Rice campaign finance (if applicable)](https://www.fec.gov/data/candidate/) (Tier 1)
-- [Stanford University: Condoleezza Rice bio - CISAC Director](https://cisac.stanford.edu/about/director) (Tier 1)
-- [ProPublica: Condoleezza Rice Revolving Door](https://projects.propublica.org/revolving-door-searchable-database/) (Tier 2)
-- [Wikipedia: Condoleezza Rice - Chevron board service](https://en.wikipedia.org/wiki/Condoleezza_Rice) (Tier 3)
-- [The Guardian: The MV Condoleezza Rice - Chevron oil tanker](https://www.theguardian.com/world/2008/jan/20/usa.chevron) (Tier 2)
+- ~~[FEC: Condoleezza Rice campaign finance (if applicable)](https://www.fec.gov/data/candidate/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Stanford University: Condoleezza Rice bio - CISAC Director](https://cisac.stanford.edu/about/director)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[ProPublica: Condoleezza Rice Revolving Door](https://projects.propublica.org/revolving-door-searchable-database/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Wikipedia: Condoleezza Rice - Chevron board service](https://en.wikipedia.org/wiki/Condoleezza_Rice) (Tier 3) (VERIFIED)
+- ~~[The Guardian: The MV Condoleezza Rice - Chevron oil tanker](https://www.theguardian.com/world/2008/jan/20/usa.chevron)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - ProPublica: Condoleezza Rice on Lockheed Martin connections (Tier 2) (URL NEEDED — fabricated slug; no ProPublica article found on Rice/private equity/Lockheed connections)
-- [Council on Foreign Relations: Condoleezza Rice biography](https://www.cfr.org/experts/condoleezza-rice) (Tier 2)
-- [Hoover Institution: Condoleezza Rice - Senior Fellow](https://www.hoover.org/profiles/condoleezza-rice) (Tier 1)
+- ~~[Council on Foreign Relations: Condoleezza Rice biography](https://www.cfr.org/experts/condoleezza-rice)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Hoover Institution: Condoleezza Rice - Senior Fellow](https://www.hoover.org/profiles/condoleezza-rice) (Tier 1) (VERIFIED)
 
 ### Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

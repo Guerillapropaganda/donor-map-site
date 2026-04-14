@@ -42,7 +42,7 @@ The Real Estate Industry Bloc. The combined political operation of America's rea
 
 Total real estate industry political spending: $150-200 million per cycle in PAC contributions and lobbying — making real estate one of the top 5 political spending industries. NAR alone spends $40-80 million per cycle across PAC contributions, independent expenditures, and lobbying.
 
-- [FEC Receipts: Real estate industry spending](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
+- [FEC Receipts: Real estate industry spending](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
 
 ---
 
@@ -66,9 +66,9 @@ Total real estate industry political spending: $150-200 million per cycle in PAC
 ### Sources
 
 - [FEC Receipts: Real estate industry spending](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- [JCT: 1031 exchange revenue estimates](https://www.jct.gov/publications/?search_term=Real%20Estate%20Industry%20Bloc) (Tier 1)
-- [NAR: Political advocacy](https://www.nar.realtor/advocacy) (Tier 1)
-- [Ballotpedia: Real estate industry](https://ballotpedia.org/Real_Estate_Industry_Bloc) (Tier 3)
+- ~~[JCT: 1031 exchange revenue estimates](https://www.jct.gov/publications/?search_term=Real%20Estate%20Industry%20Bloc)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [NAR: Political advocacy](https://www.nar.realtor/advocacy) (Tier 1) (VERIFIED)
+- [Ballotpedia: Real estate industry](https://ballotpedia.org/Real_Estate_Industry_Bloc) (Tier 3) (VERIFIED)
 
 ### OFAC Sanctions Screening
 <!-- auto:ofac-sdn start -->
@@ -92,7 +92,7 @@ Total real estate industry political spending: $150-200 million per cycle in PAC
 - LIMITED LIABILITY COMPANY SBERBANK REAL ESTATE CENTER (-0-) [RUSSIA-EO14024]
   - Remarks: Secondary sanctions risk: See Section 11 of Executive Order 14024.; Tax ID No. 7736249247 (Russia); Registration Number 1157746652150 (Russia); a.k.a. 'SREC LLC'; Linked To: PUBLIC JOINT STOCK COMPANY...
 
-- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
 ### Lobbying Activity
@@ -111,5 +111,5 @@ Total real estate industry political spending: $150-200 million per cycle in PAC
 
 **Agencies contacted:** AMTRAK - Natl Railroad Passenger Corporation, Agriculture, Dept of (USDA), Army, Dept of (Corps of Engineers), Bureau of Indian Affairs (BIA), Bureau of Land Management (BLM), Bureau of Reclamation, Commodity Futures Trading Commission (CFTC), Consumer Financial Protection Bureau (CFPB), Director of National Intelligence (ODNI), Energy, Dept of +38 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Real%20Estate%20Industry%20Bloc) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Real%20Estate%20Industry%20Bloc) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->

@@ -230,18 +230,18 @@ Biden's career trajectory confirms the class reading. MBNA senator (1989-2005). 
 
 ## Sources
 
-- [ProPublica: Biden's Cozy Relations With Bank Industry](https://www.propublica.org/article/bidens-cozy-relations-with-bank-industry-825) (Tier 2)
-- [NPR: Biden's Link To Credit-Card Firm Questioned](https://www.npr.org/2008/08/25/93954519/bidens-link-to-credit-card-firm-questioned) (Tier 2)
-- [The Intercept: Biden Administration Adds Insulin to Drug Price Negotiation List](https://theintercept.com/2023/08/29/insulin-medicare-drug-price-negotiation/) (Tier 2)
-- [CNBC: Wall Street spent over $74 million to back Joe Biden](https://www.cnbc.com/2020/10/28/wall-street-spends-74-million-to-support-joe-biden.html) (Tier 2)
-- [CNBC: Joe Biden's fundraiser list includes more than 30 executives with Wall Street ties](https://www.cnbc.com/2020/11/01/joe-biden-turned-to-over-30-executives-with-ties-to-wall-street-for-he.html) (Tier 2)
-- [OpenSecrets: Joe Biden 2020 Top Contributors](https://www.opensecrets.org/2020-presidential-race?id=N00001669) (Tier 1)
-- [KFF: Explaining the Prescription Drug Provisions in the Inflation Reduction Act](https://www.kff.org/medicare/explaining-the-prescription-drug-provisions-in-the-inflation-reduction-act/) (Tier 2)
-- [Union Leader: Biden wants $886 billion defense budget](https://www.unionleader.com/news/politics/national/biden-wants-886-billion-defense-budget-with-eyes-on-ukraine-and-future-wars/article_8c271a04-506c-5f24-9cf0-74b4bf114d88.html) (Tier 2)
-- [The Intercept: Vaccine Makers Funneled Undisclosed Campaign Cash](https://theintercept.com/2021/12/14/pfizer-moderna-covid-vaccines-2020-dark-money/) (Tier 2)
-- [Ways and Means Committee: Bombshell Documents Revealing Hunter Biden Selling Access](https://waysandmeans.house.gov/2023/09/27/bombshell-ways-and-means-releases-new-documents-revealing-hunter-biden-selling-access-to-white-house-investigators-blocked-from-pursuing-evidence-related-to-president-biden/) (Tier 3 — partisan source) (Tier 1)
-- [Congress.gov: U.S. Security Assistance to Ukraine](https://www.congress.gov/crs-product/IF12040) (Tier 1)
-- [PolitiFact: Biden did not receive millions from drug industry members](https://www.politifact.com/factchecks/2022/jan/28/viral-image/biden-did-not-receive-millions-drug-industry-membe/) (Tier 2)
+- [ProPublica: Biden's Cozy Relations With Bank Industry](https://www.propublica.org/article/bidens-cozy-relations-with-bank-industry-825) (Tier 2) (VERIFIED)
+- [NPR: Biden's Link To Credit-Card Firm Questioned](https://www.npr.org/2008/08/25/93954519/bidens-link-to-credit-card-firm-questioned) (Tier 2) (VERIFIED)
+- [The Intercept: Biden Administration Adds Insulin to Drug Price Negotiation List](https://theintercept.com/2023/08/29/insulin-medicare-drug-price-negotiation/) (Tier 2) (VERIFIED)
+- [CNBC: Wall Street spent over $74 million to back Joe Biden](https://www.cnbc.com/2020/10/28/wall-street-spends-74-million-to-support-joe-biden.html) (Tier 2) (VERIFIED)
+- [CNBC: Joe Biden's fundraiser list includes more than 30 executives with Wall Street ties](https://www.cnbc.com/2020/11/01/joe-biden-turned-to-over-30-executives-with-ties-to-wall-street-for-he.html) (Tier 2) (VERIFIED)
+- [OpenSecrets: Joe Biden 2020 Top Contributors](https://www.opensecrets.org/2020-presidential-race?id=N00001669) (Tier 1) (VERIFIED)
+- [KFF: Explaining the Prescription Drug Provisions in the Inflation Reduction Act](https://www.kff.org/medicare/explaining-the-prescription-drug-provisions-in-the-inflation-reduction-act/) (Tier 2) (VERIFIED)
+- [Union Leader: Biden wants $886 billion defense budget](https://www.unionleader.com/news/politics/national/biden-wants-886-billion-defense-budget-with-eyes-on-ukraine-and-future-wars/article_8c271a04-506c-5f24-9cf0-74b4bf114d88.html) (Tier 2) (VERIFIED)
+- [The Intercept: Vaccine Makers Funneled Undisclosed Campaign Cash](https://theintercept.com/2021/12/14/pfizer-moderna-covid-vaccines-2020-dark-money/) (Tier 2) (VERIFIED)
+- [Ways and Means Committee: Bombshell Documents Revealing Hunter Biden Selling Access](https://waysandmeans.house.gov/2023/09/27/bombshell-ways-and-means-releases-new-documents-revealing-hunter-biden-selling-access-to-white-house-investigators-blocked-from-pursuing-evidence-related-to-president-biden/) (VERIFIED) (Tier 3 — partisan source) (Tier 1)
+- ~~[Congress.gov: U.S. Security Assistance to Ukraine](https://www.congress.gov/crs-product/IF12040)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [PolitiFact: Biden did not receive millions from drug industry members](https://www.politifact.com/factchecks/2022/jan/28/viral-image/biden-did-not-receive-millions-drug-industry-membe/) (Tier 2) (VERIFIED)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -262,7 +262,7 @@ Biden's career trajectory confirms the class reading. MBNA senator (1989-2005). 
 | AMERICAS PAC | $0 | $1,573,351 |
 | LIVING UNITED FOR CHANGE IN ARIZONA | $1,214,021 | $135,590 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/P60012143/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/P60012143/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Influence Network (Cross-Reference)
@@ -319,12 +319,12 @@ Biden's career trajectory confirms the class reading. MBNA senator (1989-2005). 
 - Extending and Expanding Eligibility for Deferred Enforced Departure for Certain Hong Kong Residents (2025-01-15)
 - Withdrawal of Certain Areas of the United States Outer Continental Shelf From Oil and Natural Gas Leasing (2025-01-06)
 
-- [Source: Federal Register — Presidential Documents](https://www.federalregister.gov/presidential-documents/executive-orders/joe-biden) (Tier 1)
+- ~~[Source: Federal Register — Presidential Documents](https://www.federalregister.gov/presidential-documents/executive-orders/joe-biden)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:executive-orders end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Joe Biden](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: Joe Biden](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->

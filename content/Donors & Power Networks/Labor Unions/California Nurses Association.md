@@ -76,16 +76,16 @@ CNA's political operation spends $10-20M per cycle on California and federal cam
 | Net Assets | $464.3M |
 | Officer Compensation | $6.1M |
 
-- [Source: ProPublica Nonprofit Explorer - EIN 940362060](https://projects.propublica.org/nonprofits/organizations/940362060) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F940362060_202306_990O_2024061822539914.pdf) (Tier 1)
+- ~~[Source: ProPublica Nonprofit Explorer - EIN 940362060](https://projects.propublica.org/nonprofits/organizations/940362060)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F940362060_202306_990O_2024061822539914.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 <!-- auto:propublica-990 end -->
 
 ### Sources
 
-- [FPPC: CNA political expenditures](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1)
-- [National Nurses United: Healthcare research and advocacy](https://www.nationalnursesunited.org/) (Tier 1)
-- [Ballotpedia: California Nurses Association](https://ballotpedia.org/California_Nurses_Association) (Tier 3)
+- [FPPC: CNA political expenditures](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1) (VERIFIED)
+- [National Nurses United: Healthcare research and advocacy](https://www.nationalnursesunited.org/) (Tier 1) (VERIFIED)
+- [Ballotpedia: California Nurses Association](https://ballotpedia.org/California_Nurses_Association) (Tier 3) (VERIFIED)
 
 ---
 
@@ -117,7 +117,7 @@ CNA's political operation spends $10-20M per cycle on California and federal cam
 
 **Agencies contacted:** AMTRAK - Natl Railroad Passenger Corporation, Administration for Children & Families (ACF), Agriculture, Dept of (USDA), Army, Dept of (Corps of Engineers), Bureau of Reclamation, Centers For Disease Control & Prevention (CDC), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Consumer Financial Protection Bureau (CFPB), Council on Environmental Quality (CEQ) +49 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=California%20Nurses%20Association) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=California%20Nurses%20Association) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Campaign Finance (FEC)
@@ -142,7 +142,7 @@ CNA's political operation spends $10-20M per cycle on California and federal cam
 | CALIFORNIA DEMOCRATIC PARTY | $10,130 | DEM |
 | JEFF MERKLEY FOR OREGON | $7,500 | DEM |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=California%20Nurses%20Association) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=California%20Nurses%20Association) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### Influence Network (Cross-Reference)
@@ -212,10 +212,10 @@ CNA's political operation spends $10-20M per cycle on California and federal cam
 | Agencies | National Labor Relations Board |
 
 **Recent regulatory activity:**
-- [Representation-Case Procedures: Voter List Contact Information; Absentee Ballots for Employees on Military Leave](https://www.federalregister.gov/documents/2020/07/29/2020-15596/representation-case-procedures-voter-list-contact-information-absentee-ballots-for-employees-on) (2020-07-29) - National Labor Relations Board ★
-- [Representation-Case Procedures](https://www.federalregister.gov/documents/2014/12/15/2014-28777/representation-case-procedures) (2014-12-15) - National Labor Relations Board ★
+- [Representation-Case Procedures: Voter List Contact Information; Absentee Ballots for Employees on Military Leave](https://www.federalregister.gov/documents/2020/07/29/2020-15596/representation-case-procedures-voter-list-contact-information-absentee-ballots-for-employees-on) (VERIFIED) (2020-07-29) - National Labor Relations Board ★
+- [Representation-Case Procedures](https://www.federalregister.gov/documents/2014/12/15/2014-28777/representation-case-procedures) (VERIFIED) (2014-12-15) - National Labor Relations Board ★
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22California%20Nurses%20Association%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22California%20Nurses%20Association%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### SEC Filing Activity
@@ -233,5 +233,5 @@ CNA's political operation spends $10-20M per cycle on California and federal cam
 - 2004-06-14 - **EX-99.1**: EXHIBIT 99.1
 - 2004-09-02 - **EX-99.1**: EXHIBIT 99.1
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22California%20Nurses%20Association%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22California%20Nurses%20Association%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->

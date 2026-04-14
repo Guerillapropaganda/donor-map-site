@@ -100,11 +100,11 @@ The political class that benefits from government dysfunction has found its perf
 
 ### Sources
 
-- [FEC Candidate: MTG campaign finance summary](https://www.fec.gov/data/candidate/H0GA06192/) (Tier 1)
-- [OpenSecrets: MTG controversy-fueled fundraising trail](https://www.opensecrets.org/news/2025/12/marjorie-taylor-greene-heads-for-the-exit-having-blazed-a-controversy-fueled-fundraising-trail/) (Tier 1)
-- [ProPublica: How MTG juiced her fundraising numbers](https://www.propublica.org/article/how-josh-hawley-and-marjorie-taylor-greene-juiced-their-fundraising-numbers) (Tier 2)
-- [NOTUS: MTG was bleeding cash, then went after Mike Johnson](https://www.notus.org/georgia/marjorie-taylor-greene-fundraising) (Tier 2)
-- [AJC: More controversial the better for Greene's fundraising](https://www.ajc.com/politics/the-more-controversial-the-better-for-greene-fundraising-and-her-opponent/5CKFDDY6P5DQDKLFTKLID4ACN4/) (Tier 2)
-- [Capitol Beat: MTG Georgia's top congressional fundraiser](https://capitol-beat.org/2024/04/marjorie-taylor-greene-georgias-top-congressional-fundraiser/) (Tier 2)
-- [Newsweek: MTG raising more money than ever](https://www.newsweek.com/marjorie-taylor-greene-georgia-election-campaign-funding-1968927) (Tier 2)
-- [ProPublica: MTG in super PAC ad, possible FEC violation](https://www.propublica.org/article/marjorie-taylor-greene-appeared-in-a-super-pac-ad-asking-for-money-that-might-break-the-rules) (Tier 2)
+- [FEC Candidate: MTG campaign finance summary](https://www.fec.gov/data/candidate/H0GA06192/) (Tier 1) (VERIFIED)
+- [OpenSecrets: MTG controversy-fueled fundraising trail](https://www.opensecrets.org/news/2025/12/marjorie-taylor-greene-heads-for-the-exit-having-blazed-a-controversy-fueled-fundraising-trail/) (Tier 1) (VERIFIED)
+- [ProPublica: How MTG juiced her fundraising numbers](https://www.propublica.org/article/how-josh-hawley-and-marjorie-taylor-greene-juiced-their-fundraising-numbers) (Tier 2) (VERIFIED)
+- [NOTUS: MTG was bleeding cash, then went after Mike Johnson](https://www.notus.org/georgia/marjorie-taylor-greene-fundraising) (Tier 2) (VERIFIED)
+- [AJC: More controversial the better for Greene's fundraising](https://www.ajc.com/politics/the-more-controversial-the-better-for-greene-fundraising-and-her-opponent/5CKFDDY6P5DQDKLFTKLID4ACN4/) (Tier 2) (VERIFIED)
+- [Capitol Beat: MTG Georgia's top congressional fundraiser](https://capitol-beat.org/2024/04/marjorie-taylor-greene-georgias-top-congressional-fundraiser/) (Tier 2) (VERIFIED)
+- [Newsweek: MTG raising more money than ever](https://www.newsweek.com/marjorie-taylor-greene-georgia-election-campaign-funding-1968927) (Tier 2) (VERIFIED)
+- [ProPublica: MTG in super PAC ad, possible FEC violation](https://www.propublica.org/article/marjorie-taylor-greene-appeared-in-a-super-pac-ad-asking-for-money-that-might-break-the-rules) (Tier 2) (VERIFIED)

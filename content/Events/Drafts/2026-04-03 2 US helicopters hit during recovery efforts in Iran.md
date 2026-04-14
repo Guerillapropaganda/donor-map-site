@@ -13,7 +13,7 @@ profiles:
 
 ## 2 US helicopters hit during recovery efforts in Iran
 
-**Source:** [The Hill](https://thehill.com/policy/defense/5815839-us-military-helicopters-iranian-fire/)
+**Source:** ~~[The Hill](https://thehill.com/policy/defense/5815839-us-military-helicopters-iranian-fire/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-03
 
 Two U.S. military helicopters were hit by Iranian fire on Friday while engaging in a search-and-rescue mission for the crew of a downed fighter jet. A U.S. Air Force UH-60 Black Hawk helicopter and a second search-and-rescue helicopter were struck but were able to escape, a source familiar with the matter, speaking on condition of anonymity…

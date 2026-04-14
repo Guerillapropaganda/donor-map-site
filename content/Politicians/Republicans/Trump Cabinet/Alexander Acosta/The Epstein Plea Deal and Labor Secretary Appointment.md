@@ -32,9 +32,9 @@ Acosta resigned in July 2019 after the Miami Herald's investigative series on th
 
 ### Sources
 
-- [Miami Herald: Perversion of Justice investigation](https://www.miamiherald.com/topics/jeffrey-epstein) (Tier 2)
-- [SDFL: Epstein Non-Prosecution Agreement](https://www.justice.gov/archives/usao-sdfl/jeffrey-epstein) (Tier 1)
-- [Senate: Acosta confirmation vote](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00173.htm) (Tier 1)
-- [DOJ OPR: Review of Acosta's handling of Epstein case](https://www.justice.gov/archives/opa/pr/statement-doj-office-professional-responsibility-report-jeffrey-epstein-2006-2008) (Tier 1)
-- [Ballotpedia: Alexander Acosta](https://ballotpedia.org/Alexander_Acosta) (Tier 3)
+- [Miami Herald: Perversion of Justice investigation](https://www.miamiherald.com/topics/jeffrey-epstein) (Tier 2) (NEEDS REVIEW)
+- ~~[SDFL: Epstein Non-Prosecution Agreement](https://www.justice.gov/archives/usao-sdfl/jeffrey-epstein)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Senate: Acosta confirmation vote](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00173.htm) (Tier 1) (VERIFIED)
+- [DOJ OPR: Review of Acosta's handling of Epstein case](https://www.justice.gov/archives/opa/pr/statement-doj-office-professional-responsibility-report-jeffrey-epstein-2006-2008) (Tier 1) (VERIFIED)
+- [Ballotpedia: Alexander Acosta](https://ballotpedia.org/Alexander_Acosta) (Tier 3) (VERIFIED)
 

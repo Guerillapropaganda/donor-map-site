@@ -83,11 +83,11 @@ The IBEW national PAC ($13.45M raised in 2024 cycle) places Local 440 within a l
 
 ### Sources
 
-- [Transparency USA: IBEW Local 440 PAC Fund — California Committee](https://www.transparencyusa.org/ca/committee/ibew-local-440-pac-fund-1302490-rcp) (Tier 1)
-- [OpenSecrets: IBEW National PAC Profile, 2023–2024 cycle](https://www.opensecrets.org/political-action-committees-pacs/international-brotherhood-of-electrical-workers/C00027342/summary/2024) (Tier 1)
-- [FEC: International Brotherhood of Electrical Workers PAC (C00027342)](https://www.fec.gov/data/committee/C00027342/) (Tier 1)
-- [DOL OLMS: IBEW Local 440 LM-2 Filing](https://olmsapps.dol.gov/query/orgReport.do?rptForm=LM2Form&rptId=783264) (Tier 1)
-- [ZoomInfo: IBEW Local 440 company overview](https://www.zoominfo.com/c/ibew-local-440/118867136) (Tier 3)
+- [Transparency USA: IBEW Local 440 PAC Fund — California Committee](https://www.transparencyusa.org/ca/committee/ibew-local-440-pac-fund-1302490-rcp) (Tier 1) (VERIFIED)
+- [OpenSecrets: IBEW National PAC Profile, 2023–2024 cycle](https://www.opensecrets.org/political-action-committees-pacs/international-brotherhood-of-electrical-workers/C00027342/summary/2024) (Tier 1) (VERIFIED)
+- [FEC: International Brotherhood of Electrical Workers PAC (C00027342)](https://www.fec.gov/data/committee/C00027342/) (Tier 1) (VERIFIED)
+- [DOL OLMS: IBEW Local 440 LM-2 Filing](https://olmsapps.dol.gov/query/orgReport.do?rptForm=LM2Form&rptId=783264) (Tier 1) (VERIFIED)
+- ~~[ZoomInfo: IBEW Local 440 company overview](https://www.zoominfo.com/c/ibew-local-440/118867136)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->

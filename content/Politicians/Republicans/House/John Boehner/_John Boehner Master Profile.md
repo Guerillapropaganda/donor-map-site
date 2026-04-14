@@ -152,14 +152,14 @@ The post-House career confirms the pattern. Boehner left Congress in 2015 and be
 
 ## Sources
 
-- [FEC Candidate: John Boehner donor profile](https://www.fec.gov/data/candidate/H0OH08029/) (Tier 1)
-- [FEC: John Boehner campaign finance (CID: N00003675)](https://www.fec.gov/data/candidate/H2OH08055/) (Tier 1)
-- [Mother Jones: John Boehner tobacco check distribution - House floor photograph](https://www.motherjones.com/politics/2011/06/boehner-tobacco-checks) (Tier 2)
-- [The Atlantic: John Boehner's tobacco industry career](https://www.theatlantic.com/politics/archive/2011/11/video-of-the-day-sen-vitters-honey-badger-analogy-for-lsu-bama/247837/) (Tier 2)
+- [FEC Candidate: John Boehner donor profile](https://www.fec.gov/data/candidate/H0OH08029/) (Tier 1) (VERIFIED)
+- ~~[FEC: John Boehner campaign finance (CID: N00003675)](https://www.fec.gov/data/candidate/H2OH08055/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Mother Jones: John Boehner tobacco check distribution - House floor photograph](https://www.motherjones.com/politics/2011/06/boehner-tobacco-checks)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [The Atlantic: John Boehner's tobacco industry career](https://www.theatlantic.com/politics/archive/2011/11/video-of-the-day-sen-vitters-honey-badger-analogy-for-lsu-bama/247837/) (Tier 2) (VERIFIED)
 - ProPublica: John Boehner tobacco lobby protection record (Tier 2) (URL NEEDED — fabricated slug; original ProPublica article not found; tobacco record covered by Mother Jones and Atlantic citations above)
-- [Reuters: John Boehner joins cannabis company board](https://www.reuters.com/article/john-boehner-cannabis-legalization-idUSKBN1YA1X5/) (Tier 2)
-- [Congress.gov: John Boehner voting record](https://www.congress.gov/member/john-boehner/B000589) (Tier 1)
-- [Wikipedia: John Boehner - tobacco industry and post-House career](https://en.wikipedia.org/wiki/John_Boehner) (Tier 3)
+- ~~[Reuters: John Boehner joins cannabis company board](https://www.reuters.com/article/john-boehner-cannabis-legalization-idUSKBN1YA1X5/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Congress.gov: John Boehner voting record](https://www.congress.gov/member/john-boehner/B000589)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Wikipedia: John Boehner - tobacco industry and post-House career](https://en.wikipedia.org/wiki/John_Boehner) (Tier 3) (VERIFIED)
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
@@ -210,7 +210,7 @@ The post-House career confirms the pattern. Boehner left Congress in 2015 and be
 | MOVEON.ORG POLITICAL ACTION | $0 | $75,194 |
 | BLUE AMERICA PAC | $0 | $19,200 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0OH08029/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0OH08029/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (GovTrack)
@@ -242,5 +242,5 @@ The post-House career confirms the pattern. Boehner left Congress in 2015 and be
 | 2015-06-12 | Concurring in portion of senate amendment preceding title II: H R 1314 Trade Act… | Aye | Passed |
 | 2015-06-12 | Concurring in portion of Senate Amdt comprising title II (except section 212): H… | No | Failed |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400036) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400036) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->

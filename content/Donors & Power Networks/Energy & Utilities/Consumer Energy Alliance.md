@@ -85,8 +85,8 @@ The CEA reveals how fossil fuel industries use dark money astroturf organization
 
 ### Sources
 
-- [Center for Responsive Politics: CEA lobbying spending](https://www.opensecrets.org/organizations/consumer-energy-alliance) (Tier 1)
-- [DeSmog: Consumer Energy Alliance (CEA) — fossil fuel industry front group profile](https://www.desmog.com/consumer-energy-alliance-cea/) (Tier 2)
+- ~~[Center for Responsive Politics: CEA lobbying spending](https://www.opensecrets.org/organizations/consumer-energy-alliance)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [DeSmog: Consumer Energy Alliance (CEA) — fossil fuel industry front group profile](https://www.desmog.com/consumer-energy-alliance-cea/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -114,7 +114,7 @@ The CEA reveals how fossil fuel industries use dark money astroturf organization
 - ALLIANCE ENERGY PVT. LIMITED (-0-) [IRAN-EO13846]
   - Remarks: Website allianceenergy.pk/; Organization Established Date 19 Dec 2016; Registration Number 0104304 (Pakistan); a.k.a. 'ALLIANCE ENERGY CO.'; Linked To: PERSIAN GULF PETROCHEMICAL INDUSTRY COMMERCIAL C...
 
-- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
 ### Federal Court Records (CourtListener)
@@ -132,7 +132,7 @@ The CEA reveals how fossil fuel industries use dark money astroturf organization
 - The Transport Project v. EPA (2024) — Court of Appeals for the D.C. Circuit
 - Clean Fuels Alliance America v. EPA (2024) — Court of Appeals for the D.C. Circuit
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Consumer%20Energy%20Alliance%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Consumer%20Energy%20Alliance%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Tax Filings (IRS 990)
@@ -150,14 +150,14 @@ The CEA reveals how fossil fuel industries use dark money astroturf organization
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/261658339/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/261658339/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/261658339/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/261658339/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/261658339/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/261658339/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/261658339/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/261658339/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/261658339/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/261658339/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/261658339) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/261658339) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Federal Register Activity
@@ -171,15 +171,15 @@ The CEA reveals how fossil fuel industries use dark money astroturf organization
 | Agencies | Commerce Department, Energy Department, Environmental Protection Agency, Federal Energy Regulatory Commission, National Oceanic and Atmospheric Administration |
 
 **Recent regulatory activity:**
-- [Arizona Underground Injection Control (UIC) Program; Class I-VI Primacy](https://www.federalregister.gov/documents/2025/09/15/2025-17769/arizona-underground-injection-control-uic-program-class-i-vi-primacy) (2025-09-15) — Environmental Protection Agency
-- [Energy Conservation Program: Energy Conservation Standards for Consumer Gas-fired Instantaneous Water Heaters](https://www.federalregister.gov/documents/2024/12/26/2024-30369/energy-conservation-program-energy-conservation-standards-for-consumer-gas-fired-instantaneous-water) (2024-12-26) — Energy Department
-- [Energy Conservation Program: Energy Conservation Standards for Consumer Furnaces](https://www.federalregister.gov/documents/2023/12/18/2023-25514/energy-conservation-program-energy-conservation-standards-for-consumer-furnaces) (2023-12-18) — Energy Department
-- [Taking and Importing Marine Mammals; Taking Marine Mammals Incidental to Geophysical Surveys Related to Oil and Gas Activities in the Gulf of Mexico](https://www.federalregister.gov/documents/2021/01/19/2020-27252/taking-and-importing-marine-mammals-taking-marine-mammals-incidental-to-geophysical-surveys-related) (2021-01-19) — Commerce Department ★
-- [Qualifying Facility Rates and Requirements Implementation Issues Under the Public Utility Regulatory Policies Act of 1978](https://www.federalregister.gov/documents/2020/09/02/2020-15902/qualifying-facility-rates-and-requirements-implementation-issues-under-the-public-utility-regulatory) (2020-09-02) — Energy Department
-- [Assistance to Foreign Atomic Energy Activities](https://www.federalregister.gov/documents/2013/08/02/2013-18691/assistance-to-foreign-atomic-energy-activities) (2013-08-02) — Energy Department ★
+- [Arizona Underground Injection Control (UIC) Program; Class I-VI Primacy](https://www.federalregister.gov/documents/2025/09/15/2025-17769/arizona-underground-injection-control-uic-program-class-i-vi-primacy) (VERIFIED) (2025-09-15) — Environmental Protection Agency
+- [Energy Conservation Program: Energy Conservation Standards for Consumer Gas-fired Instantaneous Water Heaters](https://www.federalregister.gov/documents/2024/12/26/2024-30369/energy-conservation-program-energy-conservation-standards-for-consumer-gas-fired-instantaneous-water) (VERIFIED) (2024-12-26) — Energy Department
+- ~~[Energy Conservation Program: Energy Conservation Standards for Consumer Furnaces](https://www.federalregister.gov/documents/2023/12/18/2023-25514/energy-conservation-program-energy-conservation-standards-for-consumer-furnaces)~~ (URL broken, archived by Ops) (2023-12-18) — Energy Department
+- ~~[Taking and Importing Marine Mammals; Taking Marine Mammals Incidental to Geophysical Surveys Related to Oil and Gas Activities in the Gulf of Mexico](https://www.federalregister.gov/documents/2021/01/19/2020-27252/taking-and-importing-marine-mammals-taking-marine-mammals-incidental-to-geophysical-surveys-related)~~ (URL broken, archived by Ops) (2021-01-19) — Commerce Department ★
+- [Qualifying Facility Rates and Requirements Implementation Issues Under the Public Utility Regulatory Policies Act of 1978](https://www.federalregister.gov/documents/2020/09/02/2020-15902/qualifying-facility-rates-and-requirements-implementation-issues-under-the-public-utility-regulatory) (VERIFIED) (2020-09-02) — Energy Department
+- [Assistance to Foreign Atomic Energy Activities](https://www.federalregister.gov/documents/2013/08/02/2013-18691/assistance-to-foreign-atomic-energy-activities) (VERIFIED) (2013-08-02) — Energy Department ★
 - ... and 2 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Consumer%20Energy%20Alliance%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Consumer%20Energy%20Alliance%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### SEC Filing Activity
@@ -197,5 +197,5 @@ The CEA reveals how fossil fuel industries use dark money astroturf organization
 - 2020-04-30 — **PX14A6G**: PX14A6G
 - 2021-04-29 — **PX14A6G**: PX14A6G
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Consumer%20Energy%20Alliance%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Consumer%20Energy%20Alliance%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->

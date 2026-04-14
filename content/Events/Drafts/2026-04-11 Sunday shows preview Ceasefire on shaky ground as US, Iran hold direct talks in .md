@@ -15,7 +15,7 @@ profiles:
 
 ## Sunday shows preview: Ceasefire on shaky ground as US, Iran hold direct talks in Pakistan
 
-**Source:** [The Hill](https://thehill.com/homenews/sunday-talk-shows/5827398-sunday-shows-preview-ceasefire-on-shaky-ground-as-us-iran-hold-direct-talks-in-pakistan/)
+**Source:** ~~[The Hill](https://thehill.com/homenews/sunday-talk-shows/5827398-sunday-shows-preview-ceasefire-on-shaky-ground-as-us-iran-hold-direct-talks-in-pakistan/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-11
 
 Senior delegations from the U.S. and Iran arrived in Islamabad this week, where Pakistan hosted a high-stakes meeting between the countries just days after announcing a temporary ceasefire had been reached in the Middle East conflict. Vice President JD Vance, special envoy Steve Witkoff and President Trump’s son-in-law, Jared Kushner, landed in Pakistan on Saturday…

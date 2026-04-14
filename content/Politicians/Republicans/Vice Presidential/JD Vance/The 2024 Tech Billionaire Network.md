@@ -183,24 +183,24 @@ The tech billionaire network is not investing in Trump anymore. Trump is aging, 
 ### Sources
 
 ### Tier 1 (Primary/Government):
-- [FEC: 2024 election cycle filings and contributions](https://www.fec.gov/data/candidates/?search=2024%20Tech%20Billionaire%20Network) (Tier 1)
-- [OpenSecrets.org: Sen. J D Vance Financial Disclosures](https://www.fec.gov/data/candidate/S2OH00436/) (Tier 1)
-- [ProPublica: Peter Thiel Donor Lookup](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=peter%20thiel) (Tier 1)
+- [FEC: 2024 election cycle filings and contributions](https://www.fec.gov/data/candidates/?search=2024%20Tech%20Billionaire%20Network) (Tier 1) (VERIFIED)
+- [OpenSecrets.org: Sen. J D Vance Financial Disclosures](https://www.fec.gov/data/candidate/S2OH00436/) (Tier 1) (VERIFIED)
+- [ProPublica: Peter Thiel Donor Lookup](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=peter%20thiel) (Tier 1) (VERIFIED)
 
 ### Tier 2 (Major Journalism):
-- [Washington Post: Inside the powerful Peter Thiel tech network that launched JD Vance](https://www.washingtonpost.com/technology/2024/07/28/jd-vance-peter-thiel-donors-big-tech-trump-vp/) (Tier 2)
-- [NPR: Five things to know about J.D. Vance's ties to tech billionaires](https://www.npr.org/2024/07/17/g-s1-11654/five-things-to-know-about-jd-vances-connections-to-tech-billionaires) (Tier 2)
-- [CBS News: The billionaire who fueled JD Vance's rapid rise to the Trump VP spot](https://www.cbsnews.com/news/jd-vance-trump-vp-peter-thiel-billionaire/) (Tier 2)
+- [Washington Post: Inside the powerful Peter Thiel tech network that launched JD Vance](https://www.washingtonpost.com/technology/2024/07/28/jd-vance-peter-thiel-donors-big-tech-trump-vp/) (Tier 2) (VERIFIED)
+- [NPR: Five things to know about J.D. Vance's ties to tech billionaires](https://www.npr.org/2024/07/17/g-s1-11654/five-things-to-know-about-jd-vances-connections-to-tech-billionaires) (Tier 2) (VERIFIED)
+- [CBS News: The billionaire who fueled JD Vance's rapid rise to the Trump VP spot](https://www.cbsnews.com/news/jd-vance-trump-vp-peter-thiel-billionaire/) (Tier 2) (VERIFIED)
 
 ### Tier 3 (Aggregators & Government Records):
-- [OpenSecrets.org: 2024 election cycle billionaire donations](https://www.opensecrets.org/news/2024/07/tech-billionaires-signal-support-for-trump-vice-president-jd-vance/) (Tier 3)
-- [Ballotpedia: J.D. Vance profile and 2024 VP selection](https://ballotpedia.org/J.D._Vance) (Tier 3)
-- [ProPublica FEC Itemizer: Campaign finance tracking](https://projects.propublica.org/itemizer/committee/C00830174/2024) (Tier 3)
+- [OpenSecrets.org: 2024 election cycle billionaire donations](https://www.opensecrets.org/news/2024/07/tech-billionaires-signal-support-for-trump-vice-president-jd-vance/) (Tier 3) (VERIFIED)
+- [Ballotpedia: J.D. Vance profile and 2024 VP selection](https://ballotpedia.org/J.D._Vance) (Tier 3) (VERIFIED)
+- [ProPublica FEC Itemizer: Campaign finance tracking](https://projects.propublica.org/itemizer/committee/C00830174/2024) (Tier 3) (VERIFIED)
 
 ### Tier 4 (Investigative Analysis):
-- [Fortune: How Peter Thiel's network of right-wing techies is infiltrating Trump's White House](https://fortune.com/2024/12/07/peter-thiel-network-trump-white-house-elon-musk-david-sacks/) (Tier 4)
-- [The Conversation: Peter Thiel helped make JD Vance - The Republican kingmaker's influence is growing](https://theconversation.com/friday-essay-libertarian-tech-titan-peter-thiel-helped-make-jd-vance-the-republican-kingmakers-influence-is-growing-261856) (Tier 4)
-- [Revolving Door Project: Oligarchs and the Trump Admin - Peter Thiel](https://therevolvingdoorproject.org/billionaires-and-the-trump-admin-peter-thiel/) (Tier 4)
+- [Fortune: How Peter Thiel's network of right-wing techies is infiltrating Trump's White House](https://fortune.com/2024/12/07/peter-thiel-network-trump-white-house-elon-musk-david-sacks/) (Tier 4) (VERIFIED)
+- [The Conversation: Peter Thiel helped make JD Vance - The Republican kingmaker's influence is growing](https://theconversation.com/friday-essay-libertarian-tech-titan-peter-thiel-helped-make-jd-vance-the-republican-kingmakers-influence-is-growing-261856) (Tier 4) (VERIFIED)
+- [Revolving Door Project: Oligarchs and the Trump Admin - Peter Thiel](https://therevolvingdoorproject.org/billionaires-and-the-trump-admin-peter-thiel/) (Tier 4) (VERIFIED)
 
 ---
 

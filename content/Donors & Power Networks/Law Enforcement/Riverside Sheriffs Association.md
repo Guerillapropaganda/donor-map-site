@@ -149,21 +149,21 @@ justice system — structural parallel to CCPOA as law enforcement union blockin
 
 ### Sources
 
-- [Press Enterprise: 95% RSA funding of Bianco 2018](https://www.pressenterprise.com/2018/05/01/95-of-chad-biancos-campaign-donations-come-from-a-single-public-sector-union/) (Tier 2)
-- [Press Enterprise: RSA $554,000 to Bianco](https://www.pressenterprise.com/2018/02/19/riverside-county-sheriff-candidate-chad-bianco-gets-554000-from-union/) (Tier 2)
-- [Press Enterprise: RSA rips into Sniff](https://www.pressenterprise.com/2015/08/14/riverside-county-union-rips-into-sheriff/) (Tier 2)
-- [Press Enterprise: RSA body camera lawsuit](https://web.archive.org/web/2015/https:/www.pe.com/2015/01/28/riverside-county-sheriff8217s-union-sues-to-stop-body-camera-use/) (Tier 2)
-- [Press Enterprise: supervisor donor data](https://www.pressenterprise.com/2024/02/21/whos-giving-the-most-money-to-riverside-county-supervisor-candidates/) (Tier 2)
-- [Press Enterprise: RSA supervisor donations 2016–2024](https://www.pressenterprise.com/2025/09/05/how-much-is-this-union-giving-to-riverside-county-supervisors/) (Tier 2)
-- [RSA official site: civilian oversight opposition](https://www.rcdsa.org/about/rcdsa-news/response-to-call-for-riverside-county-police-review-commission) (Tier 4 — union's own statement) (Tier 2)
-- [SB Sun: civilian oversight ballot initiative](https://www.sbsun.com/2025/11/12/riverside-county-social-justice-groups-will-take-sheriffs-oversight-proposal-to-voters/) (Tier 2)
-- [ProPublica: RSA nonprofit filings](https://projects.propublica.org/nonprofits/organizations/956203844) (Tier 1)
-- [KESQ: $77M in misconduct settlements](https://kesq.com/news/2022/03/11/riverside-county-paid-77m-in-settlements-for-police-misconduct-report/) (Tier 2)
-- [KESQ: Bianco 2026 fundraising](https://kesq.com/news/2025/07/31/sheriff-bianco-raises-more-than-1-6-million-in-first-fundraising-period/) (Tier 2)
-- [Uken Report: RSA endorses Bianco for governor](https://ukenreport.com/rsa-endorses-sheriff-bianco-for-governor/) (Tier 3)
-- [Prison Legal News: Zumwalt $7.5M settlement](https://www.prisonlegalnews.org/news/2024/aug/15/75-million-settlement-suit-over-california-jail-death/) (Tier 2)
-- [Press Enterprise: 10-year jail death trends](https://www.pressenterprise.com/2025/09/14/10-year-spike-in-riverside-county-jail-deaths-begins-to-show-signs-of-decline-report-says/) (Tier 2)
-- [FPPC: campaign finance records](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1)
+- [Press Enterprise: 95% RSA funding of Bianco 2018](https://www.pressenterprise.com/2018/05/01/95-of-chad-biancos-campaign-donations-come-from-a-single-public-sector-union/) (Tier 2) (VERIFIED)
+- [Press Enterprise: RSA $554,000 to Bianco](https://www.pressenterprise.com/2018/02/19/riverside-county-sheriff-candidate-chad-bianco-gets-554000-from-union/) (Tier 2) (VERIFIED)
+- [Press Enterprise: RSA rips into Sniff](https://www.pressenterprise.com/2015/08/14/riverside-county-union-rips-into-sheriff/) (Tier 2) (VERIFIED)
+- [Press Enterprise: RSA body camera lawsuit](https://web.archive.org/web/2015/https:/www.pe.com/2015/01/28/riverside-county-sheriff8217s-union-sues-to-stop-body-camera-use/) (Tier 2) (NEEDS REVIEW)
+- [Press Enterprise: supervisor donor data](https://www.pressenterprise.com/2024/02/21/whos-giving-the-most-money-to-riverside-county-supervisor-candidates/) (Tier 2) (VERIFIED)
+- [Press Enterprise: RSA supervisor donations 2016–2024](https://www.pressenterprise.com/2025/09/05/how-much-is-this-union-giving-to-riverside-county-supervisors/) (Tier 2) (VERIFIED)
+- [RSA official site: civilian oversight opposition](https://www.rcdsa.org/about/rcdsa-news/response-to-call-for-riverside-county-police-review-commission) (VERIFIED) (Tier 4 — union's own statement) (Tier 2)
+- [SB Sun: civilian oversight ballot initiative](https://www.sbsun.com/2025/11/12/riverside-county-social-justice-groups-will-take-sheriffs-oversight-proposal-to-voters/) (Tier 2) (VERIFIED)
+- [ProPublica: RSA nonprofit filings](https://projects.propublica.org/nonprofits/organizations/956203844) (Tier 1) (VERIFIED)
+- [KESQ: $77M in misconduct settlements](https://kesq.com/news/2022/03/11/riverside-county-paid-77m-in-settlements-for-police-misconduct-report/) (Tier 2) (VERIFIED)
+- [KESQ: Bianco 2026 fundraising](https://kesq.com/news/2025/07/31/sheriff-bianco-raises-more-than-1-6-million-in-first-fundraising-period/) (Tier 2) (VERIFIED)
+- [Uken Report: RSA endorses Bianco for governor](https://ukenreport.com/rsa-endorses-sheriff-bianco-for-governor/) (Tier 3) (VERIFIED)
+- [Prison Legal News: Zumwalt $7.5M settlement](https://www.prisonlegalnews.org/news/2024/aug/15/75-million-settlement-suit-over-california-jail-death/) (Tier 2) (VERIFIED)
+- [Press Enterprise: 10-year jail death trends](https://www.pressenterprise.com/2025/09/14/10-year-spike-in-riverside-county-jail-deaths-begins-to-show-signs-of-decline-report-says/) (Tier 2) (VERIFIED)
+- [FPPC: campaign finance records](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1) (VERIFIED)
 
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->
@@ -181,7 +181,7 @@ justice system — structural parallel to CCPOA as law enforcement union blockin
 
 **Agencies contacted:** Advisory Council on Historic Preservation (ACHP), Agriculture, Dept of (USDA), Army, Dept of (Corps of Engineers), Defense, Dept of (DOD), Education, Dept of, Energy, Dept of, Environmental Protection Agency (EPA), Federal Aviation Administration (FAA), Federal Railroad Administration, HOUSE OF REPRESENTATIVES +7 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Riverside%20Sheriffs%20Association) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Riverside%20Sheriffs%20Association) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)
@@ -215,7 +215,7 @@ justice system — structural parallel to CCPOA as law enforcement union blockin
 - In Re: Senate Bill 2 Litigation (2023) — District Court, C.D. California
 - Bolbol v. Rowell Ranch Rodeo, Inc. (2023) — District Court, N.D. California
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Riverside%20Sheriffs%20Association%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Riverside%20Sheriffs%20Association%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -230,7 +230,7 @@ justice system — structural parallel to CCPOA as law enforcement union blockin
 | Net Assets | $5.8M |
 | Officer Compensation | $565K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 956203844](https://projects.propublica.org/nonprofits/organizations/956203844) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 956203844](https://projects.propublica.org/nonprofits/organizations/956203844) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### SEC Filing Activity
@@ -248,7 +248,7 @@ justice system — structural parallel to CCPOA as law enforcement union blockin
 - 2013-03-12 — **424B3**: 424B3
 - 2013-03-12 — **424B3**: 424B3
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Riverside%20Sheriffs%20Association%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Riverside%20Sheriffs%20Association%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Tax Filings (IRS 990)
@@ -266,12 +266,12 @@ justice system — structural parallel to CCPOA as law enforcement union blockin
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/956203844/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/956203844/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/956203844/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/956203844/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/956203844/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/956203844/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/956203844/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/956203844/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/956203844/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/956203844/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/956203844) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/956203844) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->

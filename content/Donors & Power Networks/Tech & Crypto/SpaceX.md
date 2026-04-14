@@ -78,10 +78,10 @@ Favorable FAA launch licensing (SpaceX has clashed repeatedly with the FAA over 
 
 ### Sources
 
-- [NASA: SpaceX commercial crew contract](https://www.nasa.gov/humans-in-space/commercial-space/spacex/) (Tier 1)
-- [DoD: SpaceX launch services contracts](https://www.defense.gov/News/Contracts/) (Tier 1)
-- [FAA: SpaceX launch licenses](https://www.faa.gov/space/licenses) (Tier 1)
-- [Ballotpedia: SpaceX](https://ballotpedia.org/SpaceX) (Tier 3)
+- ~~[NASA: SpaceX commercial crew contract](https://www.nasa.gov/humans-in-space/commercial-space/spacex/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [DoD: SpaceX launch services contracts](https://www.defense.gov/News/Contracts/) (Tier 1) (NEEDS REVIEW)
+- [FAA: SpaceX launch licenses](https://www.faa.gov/space/licenses) (Tier 1) (VERIFIED)
+- [Ballotpedia: SpaceX](https://ballotpedia.org/SpaceX) (Tier 3) (VERIFIED)
 
 ### Financial Overview (990 Filing — 2023)
 <!-- auto:propublica-990 start -->
@@ -92,8 +92,8 @@ Favorable FAA launch licensing (SpaceX has clashed repeatedly with the FAA over 
 | Total Expenses | $46K |
 | Net Assets | $13K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 873059688](https://projects.propublica.org/nonprofits/organizations/873059688) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_05_2024_prefixes_86-88%2F873059688_202312_990EZ_2024052322427085.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 873059688](https://projects.propublica.org/nonprofits/organizations/873059688) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_05_2024_prefixes_86-88%2F873059688_202312_990EZ_2024052322427085.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Federal Register Activity
@@ -107,22 +107,22 @@ Favorable FAA launch licensing (SpaceX has clashed repeatedly with the FAA over 
 | Agencies | Air Force Department, Coast Guard, Defense Department, Environmental Protection Agency, Federal Aviation Administration, Federal Communications Commission, Homeland Security Department, Pipeline and Hazardous Materials Safety Administration +1 more |
 
 **Recent regulatory activity:**
-- [Hazardous Materials: Notice of Actions on Special Permits](https://www.federalregister.gov/documents/2026/03/18/2026-05279/hazardous-materials-notice-of-actions-on-special-permits) (2026-03-18) — Transportation Department
-- [Notice of Availability of the Final Tiered Environmental Assessment and Finding of No Significant Impact/Record of Decision for Updates to Airspace Closures for Additional Launch Trajectories and Starship Boca Chica Landings of the SpaceX Starship-Super Heavy Vehicle at the SpaceX Boca Chica Launch Site in Cameron County, Texas (Final Tiered EA and FONSI/ROD)](https://www.federalregister.gov/documents/2026/02/19/2026-03291/notice-of-availability-of-the-final-tiered-environmental-assessment-and-finding-of-no-significant) (2026-02-19) — Transportation Department
-- [Environmental Impact Statements; Notice of Availability](https://www.federalregister.gov/documents/2026/02/06/2026-02362/environmental-impact-statements-notice-of-availability) (2026-02-06) — Environmental Protection Agency
-- [Notice of Availability of the Final Environmental Impact Statement and Record of Decision for SpaceX Starship-Super Heavy Vehicle at Launch Complex 39A at Kennedy Space Center in Merritt Island, Florida](https://www.federalregister.gov/documents/2026/02/03/2026-02108/notice-of-availability-of-the-final-environmental-impact-statement-and-record-of-decision-for-spacex) (2026-02-03) — Transportation Department
-- [Safety Zone; Rocket Test Site, Rio Grande River, Boca Chica, TX](https://www.federalregister.gov/documents/2026/01/22/2026-01168/safety-zone-rocket-test-site-rio-grande-river-boca-chica-tx) (2026-01-22) — Homeland Security Department
-- [Safety Zone; Rocket Test Site, Rio Grande River, Boca Chica, TX](https://www.federalregister.gov/documents/2025/12/30/2025-23976/safety-zone-rocket-test-site-rio-grande-river-boca-chica-tx) (2025-12-30) — Homeland Security Department
+- [Hazardous Materials: Notice of Actions on Special Permits](https://www.federalregister.gov/documents/2026/03/18/2026-05279/hazardous-materials-notice-of-actions-on-special-permits) (VERIFIED) (2026-03-18) — Transportation Department
+- [Notice of Availability of the Final Tiered Environmental Assessment and Finding of No Significant Impact/Record of Decision for Updates to Airspace Closures for Additional Launch Trajectories and Starship Boca Chica Landings of the SpaceX Starship-Super Heavy Vehicle at the SpaceX Boca Chica Launch Site in Cameron County, Texas (Final Tiered EA and FONSI/ROD)](https://www.federalregister.gov/documents/2026/02/19/2026-03291/notice-of-availability-of-the-final-tiered-environmental-assessment-and-finding-of-no-significant) (VERIFIED) (2026-02-19) — Transportation Department
+- [Environmental Impact Statements; Notice of Availability](https://www.federalregister.gov/documents/2026/02/06/2026-02362/environmental-impact-statements-notice-of-availability) (VERIFIED) (2026-02-06) — Environmental Protection Agency
+- ~~[Notice of Availability of the Final Environmental Impact Statement and Record of Decision for SpaceX Starship-Super Heavy Vehicle at Launch Complex 39A at Kennedy Space Center in Merritt Island, Florida](https://www.federalregister.gov/documents/2026/02/03/2026-02108/notice-of-availability-of-the-final-environmental-impact-statement-and-record-of-decision-for-spacex)~~ (URL broken, archived by Ops) (2026-02-03) — Transportation Department
+- [Safety Zone; Rocket Test Site, Rio Grande River, Boca Chica, TX](https://www.federalregister.gov/documents/2026/01/22/2026-01168/safety-zone-rocket-test-site-rio-grande-river-boca-chica-tx) (VERIFIED) (2026-01-22) — Homeland Security Department
+- [Safety Zone; Rocket Test Site, Rio Grande River, Boca Chica, TX](https://www.federalregister.gov/documents/2025/12/30/2025-23976/safety-zone-rocket-test-site-rio-grande-river-boca-chica-tx) (VERIFIED) (2025-12-30) — Homeland Security Department
 - ... and 160 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22SpaceX%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22SpaceX%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [984500AB57A3B7E9AF80](https://search.gleif.org/#/record/984500AB57A3B7E9AF80) |
+| LEI | [984500AB57A3B7E9AF80](https://search.gleif.org/#/record/984500AB57A3B7E9AF80) (VERIFIED) |
 | Legal Name | SpaceX |
 | Jurisdiction | BE |
 | Entity Status | ACTIVE |
@@ -130,7 +130,7 @@ Favorable FAA launch licensing (SpaceX has clashed repeatedly with the FAA over 
 | Registration | ISSUED |
 | Last Updated | 2025-07-07T15:18:15Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Federal Court Records (CourtListener)
@@ -149,5 +149,5 @@ Favorable FAA launch licensing (SpaceX has clashed repeatedly with the FAA over 
 - Adrian Moon v. Satan (2026) — Court of Appeals for the D.C. Circuit
 - Goddard v. 1910 N. Main Street Apartments Capital, LLC. (2026) — District Court, N.D. California
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22SpaceX%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22SpaceX%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->

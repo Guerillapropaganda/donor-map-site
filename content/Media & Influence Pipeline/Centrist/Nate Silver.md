@@ -31,7 +31,7 @@ The founding of FiveThirtyEight itself traces to poker politics: the Unlawful In
 
 No FEC individual contributions found. FEC API returns 9 results for "Nate Silver", all belong to other individuals: SILVERMAN, NATE (ClickUp Inc. OR); SILVER, NATE (Adonis, NY / Deloitte, NY); SILVERI, NATE (TPG Tuning, PA); SILVERBLATT, NATE (Accenture, TX-VA); SILVER, NATE (National Student Leadership Conference, IL). None match the statistician. Zero political donations from a man who has built his career analyzing elections, the most complete separation of analytical engagement from political participation in the vault.
 
-- [FEC: Nate Silver individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=silver%2C+nate) (Tier 1)
+- [FEC: Nate Silver individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=silver%2C+nate) (Tier 1) (VERIFIED)
 
 > **Disambiguation note:** The FEC API returns 9 results for "Silver, Nate", none are the statistician. The absence of any FEC record from a career election analyst who has created models used by millions of voters and by political campaigns themselves is structurally significant. Silver's analytical method (probabilistic, not class-based) and his funding model (via Disney, Substack, and Polymarket) create no requirement for personal political participation. His influence operates through predictions and credibility, not through campaign support. The zero FEC record documents the complete dematerialization of political participation into platform authority: Silver doesn't need to donate to shape how people think about elections, his models do that automatically.
 
@@ -156,16 +156,16 @@ Nate Silver represents **quantitative centrism as class function**, the mechanis
 
 ### Sources
 
-- [FEC Individual Contributions: Nate Silver (9 results, none confirmed as the statistician)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=nate+silver&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1)
-- [Variety: "FiveThirtyEight Founder Nate Silver Leaving ABC News as Disney Layoffs Continue" (Apr 25, 2023)](https://variety.com/2023/digital/news/fivethirtyeight-nate-silver-leaves-abc-news-disney-layoffs-1235594060/) (Tier 2)
-- [Deadline: "Nate Silver To Depart ABC News As Disney Layoffs Continue" (Apr 25, 2023)](https://deadline.com/2023/04/abc-news-nate-silver-disney-layoffs-1235336747/) (Tier 2)
-- [Semafor: "FiveThirtyEight's Nate Silver Says He's Leaving ABC News Amid Disney Layoffs" (Apr 25, 2023)](https://www.semafor.com/article/04/25/2023/fivethirtyeights-nate-silver-says-hes-leaving-abc-news-amid-disney-layoffs) (Tier 2)
-- [Washington Post: "Nate Silver Will Soon Be Out at FiveThirtyEight. Here's His History" (Apr 25, 2023)](https://www.washingtonpost.com/media/2023/04/25/nate-silver-fivethirtyeight-abc-layoffs/) (Tier 2)
-- [Nieman Lab: "Disney Is Shrinking FiveThirtyEight, and Nate Silver (and His Models) Are Leaving" (Apr 2023)](https://www.niemanlab.org/2023/04/disney-is-shrinking-fivethirtyeight-and-nate-silver-and-his-models-are-leaving/) (Tier 2)
-- [Axios: "Nate Silver Joins Prediction Market Startup Polymarket" (Jul 16, 2024)](https://www.axios.com/2024/07/16/nate-silver-polymarket) (Tier 2)
-- [Newsweek: "How Accurate Was Nate Silver?" (Nov 2024)](https://www.newsweek.com/2024-election-polling-nate-silver-1981876) (Tier 2)
-- [Britannica Money: "Polymarket. Founding, Growth, Investors, & Top Prediction Markets"](https://www.britannica.com/money/Polymarket) (Tier 3)
-- [Wikipedia: Nate Silver](https://en.wikipedia.org/wiki/Nate_Silver) (Tier 3)
+- [FEC Individual Contributions: Nate Silver (9 results, none confirmed as the statistician)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=nate+silver&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1) (VERIFIED)
+- [Variety: "FiveThirtyEight Founder Nate Silver Leaving ABC News as Disney Layoffs Continue" (Apr 25, 2023)](https://variety.com/2023/digital/news/fivethirtyeight-nate-silver-leaves-abc-news-disney-layoffs-1235594060/) (Tier 2) (VERIFIED)
+- [Deadline: "Nate Silver To Depart ABC News As Disney Layoffs Continue" (Apr 25, 2023)](https://deadline.com/2023/04/abc-news-nate-silver-disney-layoffs-1235336747/) (Tier 2) (VERIFIED)
+- [Semafor: "FiveThirtyEight's Nate Silver Says He's Leaving ABC News Amid Disney Layoffs" (Apr 25, 2023)](https://www.semafor.com/article/04/25/2023/fivethirtyeights-nate-silver-says-hes-leaving-abc-news-amid-disney-layoffs) (Tier 2) (VERIFIED)
+- [Washington Post: "Nate Silver Will Soon Be Out at FiveThirtyEight. Here's His History" (Apr 25, 2023)](https://www.washingtonpost.com/media/2023/04/25/nate-silver-fivethirtyeight-abc-layoffs/) (Tier 2) (VERIFIED)
+- [Nieman Lab: "Disney Is Shrinking FiveThirtyEight, and Nate Silver (and His Models) Are Leaving" (Apr 2023)](https://www.niemanlab.org/2023/04/disney-is-shrinking-fivethirtyeight-and-nate-silver-and-his-models-are-leaving/) (Tier 2) (VERIFIED)
+- ~~[Axios: "Nate Silver Joins Prediction Market Startup Polymarket" (Jul 16, 2024)](https://www.axios.com/2024/07/16/nate-silver-polymarket)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Newsweek: "How Accurate Was Nate Silver?" (Nov 2024)](https://www.newsweek.com/2024-election-polling-nate-silver-1981876) (Tier 2) (VERIFIED)
+- [Britannica Money: "Polymarket. Founding, Growth, Investors, & Top Prediction Markets"](https://www.britannica.com/money/Polymarket) (Tier 3) (VERIFIED)
+- [Wikipedia: Nate Silver](https://en.wikipedia.org/wiki/Nate_Silver) (Tier 3) (VERIFIED)
 
 ---
 

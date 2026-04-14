@@ -156,20 +156,20 @@ During the global COVID vaccine crisis, Coons invoked Red Scare rhetoric and the
 
 ## Sources
 
-- [FEC Candidate: Chris Coons Campaign Finance Summary](https://www.fec.gov/data/candidate/S0DE00092/) (Tier 1)
-- [FEC: Chris Coons for Delaware (C00475392)](https://www.fec.gov/data/committee/C00475392/) (Tier 1)
-- [Jacobin: Chris Coons Is Big Pharma's Man in Washington](https://jacobin.com/2020/09/chris-coons-big-pharma-joe-biden) (Tier 2)
-- [Jacobin: Sen. Chris Coons's Defense of Vaccine Apartheid Is Obscene](https://jacobin.com/2021/05/senator-chris-coons-vaccine-patent-remarks-csis-cold-war-red-scare) (Tier 2)
-- [OpenSecrets: Coons holds massive financial advantage over progressive challenger](https://www.opensecrets.org/news/2020/09/chris-coons-2020-progressive-challenger/) (Tier 1)
-- [Revolving Door Project: Revolver Spotlight — Chris Coons](https://therevolvingdoorproject.org/revolver-spotlight-chris-coons/) (Tier 2)
-- [The American Prospect: Where's the Congressional Champion on Pharma Patent Abuses?](https://prospect.org/2022/04/25/wheres-congressional-champion-on-pharma-patent-abuses/) (Tier 2)
-- [Techdirt: Senator Chris Coons Says No One Who Has Ever Criticized IP Can Head the Patent Office](https://www.techdirt.com/2021/05/27/senator-chris-coons-says-no-one-who-has-ever-criticized-intellectual-property-can-head-patent-office/) (Tier 2)
-- [ProPublica: Biden's Cozy Relations With Bank Industry](https://www.propublica.org/article/bidens-cozy-relations-with-bank-industry-825) (Tier 2)
-- [TrackAIPAC: Chris Coons — $258,166 from pro-Israel groups](https://www.trackaipac.com/congress) (Tier 2)
-- [Senator Coons: Coons-Rubio bill enhances U.S. security assistance to Israel](https://www.coons.senate.gov/news/press-releases/senate-passes-coons-rubio-bill-to-enhance-us-security-assistance-to-israel/) (Tier 1)
-- [Wikipedia: Chris Coons](https://en.wikipedia.org/wiki/Chris_Coons) (Tier 3)
-- [Ballotpedia: Chris Coons](https://ballotpedia.org/Chris_Coons) (Tier 3)
-- [GovTrack: Senator Chris Coons](https://www.govtrack.us/congress/members/christopher_coons/412390) (Tier 3)
+- [FEC Candidate: Chris Coons Campaign Finance Summary](https://www.fec.gov/data/candidate/S0DE00092/) (Tier 1) (VERIFIED)
+- [FEC: Chris Coons for Delaware (C00475392)](https://www.fec.gov/data/committee/C00475392/) (Tier 1) (VERIFIED)
+- [Jacobin: Chris Coons Is Big Pharma's Man in Washington](https://jacobin.com/2020/09/chris-coons-big-pharma-joe-biden) (Tier 2) (VERIFIED)
+- [Jacobin: Sen. Chris Coons's Defense of Vaccine Apartheid Is Obscene](https://jacobin.com/2021/05/senator-chris-coons-vaccine-patent-remarks-csis-cold-war-red-scare) (Tier 2) (VERIFIED)
+- [OpenSecrets: Coons holds massive financial advantage over progressive challenger](https://www.opensecrets.org/news/2020/09/chris-coons-2020-progressive-challenger/) (Tier 1) (VERIFIED)
+- [Revolving Door Project: Revolver Spotlight — Chris Coons](https://therevolvingdoorproject.org/revolver-spotlight-chris-coons/) (Tier 2) (VERIFIED)
+- [The American Prospect: Where's the Congressional Champion on Pharma Patent Abuses?](https://prospect.org/2022/04/25/wheres-congressional-champion-on-pharma-patent-abuses/) (Tier 2) (VERIFIED)
+- [Techdirt: Senator Chris Coons Says No One Who Has Ever Criticized IP Can Head the Patent Office](https://www.techdirt.com/2021/05/27/senator-chris-coons-says-no-one-who-has-ever-criticized-intellectual-property-can-head-patent-office/) (Tier 2) (VERIFIED)
+- [ProPublica: Biden's Cozy Relations With Bank Industry](https://www.propublica.org/article/bidens-cozy-relations-with-bank-industry-825) (Tier 2) (VERIFIED)
+- [TrackAIPAC: Chris Coons — $258,166 from pro-Israel groups](https://www.trackaipac.com/congress) (Tier 2) (VERIFIED)
+- [Senator Coons: Coons-Rubio bill enhances U.S. security assistance to Israel](https://www.coons.senate.gov/news/press-releases/senate-passes-coons-rubio-bill-to-enhance-us-security-assistance-to-israel/) (Tier 1) (VERIFIED)
+- [Wikipedia: Chris Coons](https://en.wikipedia.org/wiki/Chris_Coons) (Tier 3) (VERIFIED)
+- [Ballotpedia: Chris Coons](https://ballotpedia.org/Chris_Coons) (Tier 3) (VERIFIED)
+- [GovTrack: Senator Chris Coons](https://www.govtrack.us/congress/members/christopher_coons/412390) (Tier 3) (VERIFIED)
 
 ---
 
@@ -201,7 +201,7 @@ party:: Democrat
 | 08/23/2018 | NFLX | Purchase | $1,001 - $15,000 | Child |
 | 07/31/2020 | -- | Sale | $50,001 - $100,000 | Child |
 
-- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
 ### Campaign Finance (FEC)
@@ -235,7 +235,7 @@ party:: Democrat
 | AMERICAN WORKER INC, THE | $7,540 | $0 |
 | THE NATIONAL REPUBLICAN TRUST PAC | $0 | $6,615 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S0DE00092/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S0DE00092/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Committee Assignments (Congress.gov)
@@ -270,7 +270,7 @@ party:: Democrat
 - State, Foreign Operations, and Related Programs
 - Transportation, Housing and Urban Development, and Related Agencies
 
-- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 ### Legislative Activity (Congress.gov)
@@ -299,12 +299,12 @@ party:: Democrat
 | — |  | — |
 | — |  | — |
 
-- [Source: Congress.gov](https://www.congress.gov/member/C001088) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001088)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Chris Coons](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: Chris Coons](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->

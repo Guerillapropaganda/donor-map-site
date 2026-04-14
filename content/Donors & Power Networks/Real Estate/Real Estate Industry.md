@@ -87,9 +87,9 @@ The industry's political priorities are bipartisan by structural necessity: mort
 
 ### Sources
 
-- [FEC Receipts: Real estate industry contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- [JCT: Tax expenditure estimates for real estate provisions](https://www.jct.gov/publications/?search_term=Real%20Estate%20Industry) (Tier 1)
-- [Ballotpedia: Real estate industry lobbying](https://ballotpedia.org/Real_Estate_Industry) (Tier 3)
+- [FEC Receipts: Real estate industry contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
+- ~~[JCT: Tax expenditure estimates for real estate provisions](https://www.jct.gov/publications/?search_term=Real%20Estate%20Industry)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Ballotpedia: Real estate industry lobbying](https://ballotpedia.org/Real_Estate_Industry) (Tier 3) (VERIFIED)
 
 ---
 
@@ -125,7 +125,7 @@ The industry's political priorities are bipartisan by structural necessity: mort
 - LIMITED LIABILITY COMPANY SBERBANK REAL ESTATE CENTER (-0-) [RUSSIA-EO14024]
   - Remarks: Secondary sanctions risk: See Section 11 of Executive Order 14024.; Tax ID No. 7736249247 (Russia); Registration Number 1157746652150 (Russia); a.k.a. 'SREC LLC'; Linked To: PUBLIC JOINT STOCK COMPANY...
 
-- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
 ### Federal Register Activity
@@ -139,22 +139,22 @@ The industry's political priorities are bipartisan by structural necessity: mort
 | Agencies | Agriculture Department, Antitrust Division, Consumer Financial Protection Bureau, Employee Benefits Security Administration, Environmental Protection Agency, Federal Trade Commission, Financial Crimes Enforcement Network, General Services Administration +5 more |
 
 **Recent regulatory activity:**
-- [United States of America et al. v. RealPage, Inc. et al. Proposed Final Judgment and Competitive Impact Statement](https://www.federalregister.gov/documents/2026/01/21/2026-01009/united-states-of-america-et-al-v-realpage-inc-et-al-proposed-final-judgment-and-competitive-impact) (2026-01-21) — Justice Department
-- [United States of America et al. v. RealPage, Inc. et al.; Proposed Final Judgment and Competitive Impact Statement](https://www.federalregister.gov/documents/2025/12/05/2025-21966/united-states-of-america-et-al-v-realpage-inc-et-al-proposed-final-judgment-and-competitive-impact) (2025-12-05) — Justice Department
-- [Changes in Mortgage Insurance Premiums Applicable to FHA Multifamily Insurance Programs](https://www.federalregister.gov/documents/2025/09/23/2025-18379/changes-in-mortgage-insurance-premiums-applicable-to-fha-multifamily-insurance-programs) (2025-09-23) — Housing and Urban Development Department
-- [United States of America et al. v. RealPage, Inc. et al. Proposed Final Judgment and Competitive Impact Statement](https://www.federalregister.gov/documents/2025/09/05/2025-17086/united-states-of-america-et-al-v-realpage-inc-et-al-proposed-final-judgment-and-competitive-impact) (2025-09-05) — Justice Department
-- [United States of America et al. v. RealPage, Inc. et al.; Proposed Final Judgment and Competitive Impact Statement](https://www.federalregister.gov/documents/2025/01/30/2025-01886/united-states-of-america-et-al-v-realpage-inc-et-al-proposed-final-judgment-and-competitive-impact) (2025-01-30) — Justice Department
-- [Phasedown of Hydrofluorocarbons: Restrictions on the Use of HFCs Under the AIM Act in Variable Refrigerant Flow Air Conditioning Subsector](https://www.federalregister.gov/documents/2024/12/12/2024-29243/phasedown-of-hydrofluorocarbons-restrictions-on-the-use-of-hfcs-under-the-aim-act-in-variable) (2024-12-12) — Environmental Protection Agency
+- [United States of America et al. v. RealPage, Inc. et al. Proposed Final Judgment and Competitive Impact Statement](https://www.federalregister.gov/documents/2026/01/21/2026-01009/united-states-of-america-et-al-v-realpage-inc-et-al-proposed-final-judgment-and-competitive-impact) (VERIFIED) (2026-01-21) — Justice Department
+- [United States of America et al. v. RealPage, Inc. et al.; Proposed Final Judgment and Competitive Impact Statement](https://www.federalregister.gov/documents/2025/12/05/2025-21966/united-states-of-america-et-al-v-realpage-inc-et-al-proposed-final-judgment-and-competitive-impact) (VERIFIED) (2025-12-05) — Justice Department
+- [Changes in Mortgage Insurance Premiums Applicable to FHA Multifamily Insurance Programs](https://www.federalregister.gov/documents/2025/09/23/2025-18379/changes-in-mortgage-insurance-premiums-applicable-to-fha-multifamily-insurance-programs) (VERIFIED) (2025-09-23) — Housing and Urban Development Department
+- [United States of America et al. v. RealPage, Inc. et al. Proposed Final Judgment and Competitive Impact Statement](https://www.federalregister.gov/documents/2025/09/05/2025-17086/united-states-of-america-et-al-v-realpage-inc-et-al-proposed-final-judgment-and-competitive-impact) (VERIFIED) (2025-09-05) — Justice Department
+- [United States of America et al. v. RealPage, Inc. et al.; Proposed Final Judgment and Competitive Impact Statement](https://www.federalregister.gov/documents/2025/01/30/2025-01886/united-states-of-america-et-al-v-realpage-inc-et-al-proposed-final-judgment-and-competitive-impact) (VERIFIED) (2025-01-30) — Justice Department
+- [Phasedown of Hydrofluorocarbons: Restrictions on the Use of HFCs Under the AIM Act in Variable Refrigerant Flow Air Conditioning Subsector](https://www.federalregister.gov/documents/2024/12/12/2024-29243/phasedown-of-hydrofluorocarbons-restrictions-on-the-use-of-hfcs-under-the-aim-act-in-variable) (VERIFIED) (2024-12-12) — Environmental Protection Agency
 - ... and 135 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Real%20Estate%20Industry%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Real%20Estate%20Industry%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [254900I73YTKE7MJ8E15](https://search.gleif.org/#/record/254900I73YTKE7MJ8E15) |
+| LEI | [254900I73YTKE7MJ8E15](https://search.gleif.org/#/record/254900I73YTKE7MJ8E15) (VERIFIED) |
 | Legal Name | Electrical Industry Real Estate Fund, LLC |
 | Jurisdiction | US-NY |
 | Entity Status | ACTIVE |
@@ -162,7 +162,7 @@ The industry's political priorities are bipartisan by structural necessity: mort
 | Registration | ISSUED |
 | Last Updated | 2026-03-23T16:39:29Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Tax Filings (IRS 990)
@@ -174,7 +174,7 @@ The industry's political priorities are bipartisan by structural necessity: mort
 | IRS Ruling Date | 2024-10-01 |
 | Filings on Record | 0 |
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/991696593) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/991696593) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### DOJ Press Releases
@@ -193,7 +193,7 @@ The industry's political priorities are bipartisan by structural necessity: mort
 |-----------|--------|-------|
 | DNC SERVICES CORPORATION/DEMOCRATIC NATIONAL COMMITTEE | $15,000 | DEM |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Real%20Estate%20Industry) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Real%20Estate%20Industry) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### SEC Filing Activity
@@ -207,13 +207,13 @@ The industry's political priorities are bipartisan by structural necessity: mort
 
 **Notable filings:**
 
-- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1035443/000210774226000010/0002107742-26-000010-index.htm)
-- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1035443/000181809026000009/0001818090-26-000009-index.htm)
-- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1035443/000191919826000009/0001919198-26-000009-index.htm)
-- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1035443/000177886126000009/0001778861-26-000009-index.htm)
-- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1035443/000210780226000010/0002107802-26-000010-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1035443/000210774226000010/0002107742-26-000010-index.htm) (VERIFIED)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1035443/000181809026000009/0001818090-26-000009-index.htm) (VERIFIED)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1035443/000191919826000009/0001919198-26-000009-index.htm) (VERIFIED)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1035443/000177886126000009/0001778861-26-000009-index.htm) (VERIFIED)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1035443/000210780226000010/0002107802-26-000010-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Real%20Estate%20Industry%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Real%20Estate%20Industry%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Lobbying Activity
@@ -232,7 +232,7 @@ The industry's political priorities are bipartisan by structural necessity: mort
 
 **Agencies contacted:** AMTRAK - Natl Railroad Passenger Corporation, Agriculture, Dept of (USDA), Army, Dept of (Corps of Engineers), Bureau of Indian Affairs (BIA), Bureau of Land Management (BLM), Bureau of Reclamation, Commodity Futures Trading Commission (CFTC), Consumer Financial Protection Bureau (CFPB), Director of National Intelligence (ODNI), Energy, Dept of +39 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Real%20Estate%20Industry) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Real%20Estate%20Industry) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)
@@ -276,5 +276,5 @@ The industry's political priorities are bipartisan by structural necessity: mort
 - VSI Aerials, LLC v. Drone Ops Solutions of New York, Corp. (2026) — District Court, E.D. New York
 - Real Estate Board of New York v. City of New York (2026) — District Court, S.D. New York
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Real%20Estate%20Industry%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Real%20Estate%20Industry%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->

@@ -214,22 +214,22 @@ But the class function is more nuanced than it appears:
 
 ### Sources
 
-- [ProPublica Nonprofit Explorer: The Roosevelt Institute (EIN 23-7213592)](https://projects.propublica.org/nonprofits/organizations/237213592) (Tier 1)
-- [Roosevelt Institute: Rewriting the Rules of the American Economy (Stiglitz, 2015)](https://rooseveltinstitute.org/publications/rewriting-the-rules-of-the-american-economy/) (Tier 3)
-- [Roosevelt Institute: Joseph Stiglitz. Chief Economist](https://rooseveltinstitute.org/authors/joseph-stiglitz/) (Tier 3)
-- [InfluenceWatch: Roosevelt Institute](https://www.influencewatch.org/non-profit/roosevelt-institute/) (Tier 3)
-- [Wikipedia: Roosevelt Institute](https://en.wikipedia.org/wiki/Roosevelt_Institute) (Tier 3)
-- [Federal Reserve Board: Lisa D. Cook Sworn In as Governor](https://www.federalreserve.gov/newsevents/pressreleases/other20220523c.htm) (Tier 1)
-- [The Fulcrum: Biden Taps K. Sabeel Rahman for OMB Post](https://thefulcrum.us/demos-k-sabeel-rahman) (Tier 2)
-- [Roosevelt Institute: Designing the Next Wave of Competition Policy](https://rooseveltinstitute.org/blog/next-wave-of-competition-policy/) (Tier 3)
-- [Roosevelt Institute: Building a More Effective, Responsive Government](https://rooseveltinstitute.org/publications/building-a-more-effective-responsive-government/) (Tier 3)
-- [Roosevelt Institute: Industrial Policy 2025](https://rooseveltinstitute.org/publications/industrial-policy-2025/) (Tier 3)
-- [Common Dreams: Progressive Contract with America Aims to 'Rewrite the Rules'](https://www.commondreams.org/news/2015/05/12/progressive-contract-america-aims-rewrite-rules-favor-99) (Tier 2)
-- [Roosevelt Institute: Sea Change. How a New Economics Went Mainstream (Wong, Kahn, Konczal, Hughes, Nov 2023)](https://rooseveltinstitute.org/publications/sea-change/) (Tier 3)
-- [Roosevelt Institute: President and CEO Felicia Wong to Transition to New Role (Jan 2025)](https://rooseveltinstitute.org/press-releases/roosevelt-institute-president-and-ceo-felicia-wong-to-transition-to-new-role-spearheading-growth-of-roosevelt-society/) (Tier 3)
-- [Roosevelt Institute: Celebrates Confirmation of Board Vice Chair Dr. Lisa Cook to Federal Reserve Board (May 2022)](https://rooseveltinstitute.org/press-releases/ri-congratulates-board-vice-chair-dr-lisa-cook-on-her-confirmation/) (Tier 3)
-- [NPR: Senate Approves Lisa Cook as First Black Woman on Federal Reserve Board of Governors (May 2022)](https://www.npr.org/2022/05/10/1098105334/lisa-cook-federal-reserve) (Tier 2)
-- [Roosevelt Institute: New Leadership at Roosevelt. Elizabeth Wilkins Named President and CEO (Feb 2025)](https://rooseveltinstitute.org/roosevelt-rundown/new-leadership-at-roosevelt/) (Tier 3)
+- [ProPublica Nonprofit Explorer: The Roosevelt Institute (EIN 23-7213592)](https://projects.propublica.org/nonprofits/organizations/237213592) (Tier 1) (VERIFIED)
+- [Roosevelt Institute: Rewriting the Rules of the American Economy (Stiglitz, 2015)](https://rooseveltinstitute.org/publications/rewriting-the-rules-of-the-american-economy/) (Tier 3) (VERIFIED)
+- [Roosevelt Institute: Joseph Stiglitz. Chief Economist](https://rooseveltinstitute.org/authors/joseph-stiglitz/) (Tier 3) (VERIFIED)
+- [InfluenceWatch: Roosevelt Institute](https://www.influencewatch.org/non-profit/roosevelt-institute/) (Tier 3) (VERIFIED)
+- [Wikipedia: Roosevelt Institute](https://en.wikipedia.org/wiki/Roosevelt_Institute) (Tier 3) (VERIFIED)
+- [Federal Reserve Board: Lisa D. Cook Sworn In as Governor](https://www.federalreserve.gov/newsevents/pressreleases/other20220523c.htm) (Tier 1) (VERIFIED)
+- [The Fulcrum: Biden Taps K. Sabeel Rahman for OMB Post](https://thefulcrum.us/demos-k-sabeel-rahman) (Tier 2) (VERIFIED)
+- [Roosevelt Institute: Designing the Next Wave of Competition Policy](https://rooseveltinstitute.org/blog/next-wave-of-competition-policy/) (Tier 3) (VERIFIED)
+- [Roosevelt Institute: Building a More Effective, Responsive Government](https://rooseveltinstitute.org/publications/building-a-more-effective-responsive-government/) (Tier 3) (VERIFIED)
+- [Roosevelt Institute: Industrial Policy 2025](https://rooseveltinstitute.org/publications/industrial-policy-2025/) (Tier 3) (VERIFIED)
+- [Common Dreams: Progressive Contract with America Aims to 'Rewrite the Rules'](https://www.commondreams.org/news/2015/05/12/progressive-contract-america-aims-rewrite-rules-favor-99) (Tier 2) (VERIFIED)
+- [Roosevelt Institute: Sea Change. How a New Economics Went Mainstream (Wong, Kahn, Konczal, Hughes, Nov 2023)](https://rooseveltinstitute.org/publications/sea-change/) (Tier 3) (VERIFIED)
+- [Roosevelt Institute: President and CEO Felicia Wong to Transition to New Role (Jan 2025)](https://rooseveltinstitute.org/press-releases/roosevelt-institute-president-and-ceo-felicia-wong-to-transition-to-new-role-spearheading-growth-of-roosevelt-society/) (Tier 3) (VERIFIED)
+- [Roosevelt Institute: Celebrates Confirmation of Board Vice Chair Dr. Lisa Cook to Federal Reserve Board (May 2022)](https://rooseveltinstitute.org/press-releases/ri-congratulates-board-vice-chair-dr-lisa-cook-on-her-confirmation/) (Tier 3) (VERIFIED)
+- [NPR: Senate Approves Lisa Cook as First Black Woman on Federal Reserve Board of Governors (May 2022)](https://www.npr.org/2022/05/10/1098105334/lisa-cook-federal-reserve) (Tier 2) (VERIFIED)
+- [Roosevelt Institute: New Leadership at Roosevelt. Elizabeth Wilkins Named President and CEO (Feb 2025)](https://rooseveltinstitute.org/roosevelt-rundown/new-leadership-at-roosevelt/) (Tier 3) (VERIFIED)
 
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->
@@ -247,7 +247,7 @@ But the class function is more nuanced than it appears:
 - Baske v. Jasper County (2025) — District Court, D. South Carolina
 - State of Iowa v. Council on Environmental Quality (2024) — District Court, D. North Dakota
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Roosevelt%20Institute%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Roosevelt%20Institute%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Tax Filings (IRS 990)
@@ -265,14 +265,14 @@ But the class function is more nuanced than it appears:
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/237213592/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/237213592/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/237213592/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/237213592/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/237213592/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/237213592/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/237213592/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/237213592/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/237213592/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/237213592/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/237213592) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/237213592) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Federal Register Activity
@@ -285,20 +285,20 @@ But the class function is more nuanced than it appears:
 | Agencies | Labor Department, Occupational Safety and Health Administration, Securities and Exchange Commission |
 
 **Recent regulatory activity:**
-- [Share Repurchase Disclosure Modernization](https://www.federalregister.gov/documents/2023/06/01/2023-09965/share-repurchase-disclosure-modernization) (2023-06-01) — Securities and Exchange Commission
-- [Share Repurchase Disclosure Modernization](https://www.federalregister.gov/documents/2022/02/15/2022-01068/share-repurchase-disclosure-modernization) (2022-02-15) — Securities and Exchange Commission
-- [Occupational Exposure to COVID-19; Emergency Temporary Standard](https://www.federalregister.gov/documents/2021/06/21/2021-12428/occupational-exposure-to-covid-19-emergency-temporary-standard) (2021-06-21) — Labor Department
-- [Asset-Backed Securities Disclosure and Registration](https://www.federalregister.gov/documents/2014/09/24/2014-21375/asset-backed-securities-disclosure-and-registration) (2014-09-24) — Securities and Exchange Commission
-- [Asset-Backed Securities](https://www.federalregister.gov/documents/2010/05/03/2010-8282/asset-backed-securities) (2010-05-03) — Securities and Exchange Commission
+- [Share Repurchase Disclosure Modernization](https://www.federalregister.gov/documents/2023/06/01/2023-09965/share-repurchase-disclosure-modernization) (VERIFIED) (2023-06-01) — Securities and Exchange Commission
+- [Share Repurchase Disclosure Modernization](https://www.federalregister.gov/documents/2022/02/15/2022-01068/share-repurchase-disclosure-modernization) (VERIFIED) (2022-02-15) — Securities and Exchange Commission
+- [Occupational Exposure to COVID-19; Emergency Temporary Standard](https://www.federalregister.gov/documents/2021/06/21/2021-12428/occupational-exposure-to-covid-19-emergency-temporary-standard) (VERIFIED) (2021-06-21) — Labor Department
+- [Asset-Backed Securities Disclosure and Registration](https://www.federalregister.gov/documents/2014/09/24/2014-21375/asset-backed-securities-disclosure-and-registration) (VERIFIED) (2014-09-24) — Securities and Exchange Commission
+- [Asset-Backed Securities](https://www.federalregister.gov/documents/2010/05/03/2010-8282/asset-backed-securities) (VERIFIED) (2010-05-03) — Securities and Exchange Commission
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Roosevelt%20Institute%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Roosevelt%20Institute%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [254900O5GENSMFU7HU90](https://search.gleif.org/#/record/254900O5GENSMFU7HU90) |
+| LEI | [254900O5GENSMFU7HU90](https://search.gleif.org/#/record/254900O5GENSMFU7HU90) (VERIFIED) |
 | Legal Name | NEW JERSEY INSTITUTE FOR DISABILITIES, INC. |
 | Jurisdiction | US-NJ |
 | Entity Status | ACTIVE |
@@ -306,5 +306,5 @@ But the class function is more nuanced than it appears:
 | Registration | ISSUED |
 | Last Updated | 2026-01-07T20:34:37Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->

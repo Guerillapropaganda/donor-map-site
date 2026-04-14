@@ -107,8 +107,8 @@ This is different from other veto patterns. The veto wasn't protected by an exte
 
 ### Sources
 
-- [CalMatters: Newsom relents, signs farmworker union bill after pressure from Biden and labor](https://calmatters.org/california-divide/2022/09/newsom-farmworker-union-bill/) (Tier 2)
-- [LA Times: UFW reaction to veto](https://www.latimes.com/california/story/2022-09-29/newsom-vetoes-farmworker-union-vote-bill) (Tier 2)
-- [CalMatters: California farmworkers ask Newsom to sign voting bill](https://calmatters.org/california-divide/2022/04/california-farmworkers-voting-bill/) (Tier 2)
-- [California Agricultural Relations Board: mail-ballot implementation data](https://www.dfeh.ca.gov/carb/) (Tier 1)
+- [CalMatters: Newsom relents, signs farmworker union bill after pressure from Biden and labor](https://calmatters.org/california-divide/2022/09/newsom-farmworker-union-bill/) (Tier 2) (VERIFIED)
+- ~~[LA Times: UFW reaction to veto](https://www.latimes.com/california/story/2022-09-29/newsom-vetoes-farmworker-union-vote-bill)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [CalMatters: California farmworkers ask Newsom to sign voting bill](https://calmatters.org/california-divide/2022/04/california-farmworkers-voting-bill/) (Tier 2) (VERIFIED)
+- ~~[California Agricultural Relations Board: mail-ballot implementation data](https://www.dfeh.ca.gov/carb/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 

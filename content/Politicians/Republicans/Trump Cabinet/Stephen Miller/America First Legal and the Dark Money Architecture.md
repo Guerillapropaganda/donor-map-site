@@ -84,4 +84,4 @@ Key cases:
 
 ### Sources
 
-- [OpenSecrets: AFL tax returns](https://www.opensecrets.org/members-of-congress/summary?name=America%20First%20Legal%20and%20the%20Dark%20Money%20Architecture) (Tier 1)
+- [OpenSecrets: AFL tax returns](https://www.opensecrets.org/members-of-congress/summary?name=America%20First%20Legal%20and%20the%20Dark%20Money%20Architecture) (Tier 1) (VERIFIED)

@@ -55,7 +55,7 @@ No FEC individual contributions found. The FEC API returns 0 results for "NEKRAS
 > [!money]
 > Dasha Nekrasova endorsed Trump in 2024 and hosted white nationalist Nick Fuentes in November 2025, yet has never cut a single federal campaign check. This is consistent with the Red Scare political aesthetic: anti-institutional nihilism that doesn't translate into material electoral engagement. The Trump support is aesthetic and cultural; the financial non-participation is structural.
 
-- [FEC: Dasha Nekrasova individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=NEKRASOVA%2C+DASHA) (Tier 1)
+- [FEC: Dasha Nekrasova individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=NEKRASOVA%2C+DASHA) (Tier 1) (VERIFIED)
 
 #### Anna Khachiyan
 
@@ -66,7 +66,7 @@ No FEC individual contributions found. The FEC API returns 0 results for "KHACHI
 > [!money]
 > Anna Khachiyan has said Red Scare has "always loved [Trump], even when we had to be down-low brothers about it" and met with Peter Thiel in 2022, yet has never donated to a federal campaign. The $0 FEC record maps onto the Red Scare political identity: audience-facing sympathy with the right-wing project combined with zero institutional electoral participation. The political positioning is personal and aesthetic, not financially committed.
 
-- [FEC: Anna Khachiyan individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=KHACHIYAN%2C+ANNA) (Tier 1)
+- [FEC: Anna Khachiyan individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=KHACHIYAN%2C+ANNA) (Tier 1) (VERIFIED)
 
 ### Who Funds Them
 
@@ -192,15 +192,15 @@ Chapo's subscriber capture constrained hosts toward left consistency. Red Scare'
 
 ### Sources
 
-- [Variety: Dasha Nekrasova Fired by Gersh Agency After Nick Fuentes Podcast](https://variety.com/2025/tv/news/dasha-nekrasova-fired-gersh-agency-nick-fuentes-podcast-1236582402/) (Tier 2) (WebFetch title-verified 2026-03-27)
-- [Deadline: Dasha Nekrasova Fired By Gersh Over Nick Fuentes Podcast Interview](https://deadline.com/2025/11/dasha-nekrasova-fired-gersh-nick-fuentes-podcast-interview-1236617927/) (Tier 2) (WebFetch title-verified 2026-03-27)
-- [Hollywood Reporter: Gersh Drops Dasha Nekrasova Following Nick Fuentes Podcast Interview](https://www.hollywoodreporter.com/movies/movie-news/gersh-drops-dasha-nekrasova-nick-fuentes-podcast-interview-1236427783/) (Tier 2) (WebFetch title-verified 2026-03-27)
-- [Graphtreon: Red Scare Patreon Earnings + Statistics + Graphs + Rank](https://graphtreon.com/creator/RedScare) (Tier 3) (WebFetch verified 2026-03-27, 8,652 paid, 24,820 total, $24K-$61K/month, #38 podcast, #124 overall)
-- [Vanity Fair: Inside the New Right, Where Peter Thiel Is Placing His Biggest Bets (April 2022)](https://www.vanityfair.com/news/2022/04/inside-the-new-right-where-peter-thiel-is-placing-his-biggest-bets) (Tier 2) (WebSearch verified 2026-03-27. Masters quotes on Thiel/Red Scare funding)
-- [ArtNews: What Do J.D. Vance, Dimes Square, and the Art World Have in Common? (April 2022)](https://www.artnews.com/art-news/news/j-d-vance-dimes-square-the-art-world-new-right-conservatism-1234716130/) (Tier 2) (WebSearch verified 2026-03-27)
-- [The American Mind: Soviet America's Sweethearts](https://americanmind.org/salvo/soviet-americas-sweethearts/) (Tier 3) (WebSearch verified 2026-03-27, identifies George Floyd protests as rightward turning point)
-- [Primetimer: Who is Dasha Nekrasova? Nick Fuentes podcast appearance reportedly leads to ousting from talent agency](https://www.primetimer.com/news/who-is-dasha-nekrasova-nick-fuentes-podcast-appearance-reportedly-leads-to-sucession-actress-s-ousting-from-talent-agency) (Tier 3) (WebSearch verified 2026-03-27)
-- [Reason: The creepy crusade to cancel Red Scare's Dasha (November 2025)](https://reason.com/2025/11/20/the-creepy-crusade-to-cancel-red-scares-dasha/) (Tier 3) (WebSearch verified 2026-03-27)
+- [Variety: Dasha Nekrasova Fired by Gersh Agency After Nick Fuentes Podcast](https://variety.com/2025/tv/news/dasha-nekrasova-fired-gersh-agency-nick-fuentes-podcast-1236582402/) (Tier 2) (VERIFIED) (WebFetch title-verified 2026-03-27)
+- [Deadline: Dasha Nekrasova Fired By Gersh Over Nick Fuentes Podcast Interview](https://deadline.com/2025/11/dasha-nekrasova-fired-gersh-nick-fuentes-podcast-interview-1236617927/) (Tier 2) (VERIFIED) (WebFetch title-verified 2026-03-27)
+- [Hollywood Reporter: Gersh Drops Dasha Nekrasova Following Nick Fuentes Podcast Interview](https://www.hollywoodreporter.com/movies/movie-news/gersh-drops-dasha-nekrasova-nick-fuentes-podcast-interview-1236427783/) (Tier 2) (VERIFIED) (WebFetch title-verified 2026-03-27)
+- [Graphtreon: Red Scare Patreon Earnings + Statistics + Graphs + Rank](https://graphtreon.com/creator/RedScare) (Tier 3) (VERIFIED) (WebFetch verified 2026-03-27, 8,652 paid, 24,820 total, $24K-$61K/month, #38 podcast, #124 overall)
+- [Vanity Fair: Inside the New Right, Where Peter Thiel Is Placing His Biggest Bets (April 2022)](https://www.vanityfair.com/news/2022/04/inside-the-new-right-where-peter-thiel-is-placing-his-biggest-bets) (Tier 2) (VERIFIED) (WebSearch verified 2026-03-27. Masters quotes on Thiel/Red Scare funding)
+- [ArtNews: What Do J.D. Vance, Dimes Square, and the Art World Have in Common? (April 2022)](https://www.artnews.com/art-news/news/j-d-vance-dimes-square-the-art-world-new-right-conservatism-1234716130/) (Tier 2) (VERIFIED) (WebSearch verified 2026-03-27)
+- [The American Mind: Soviet America's Sweethearts](https://americanmind.org/salvo/soviet-americas-sweethearts/) (Tier 3) (VERIFIED) (WebSearch verified 2026-03-27, identifies George Floyd protests as rightward turning point)
+- ~~[Primetimer: Who is Dasha Nekrasova? Nick Fuentes podcast appearance reportedly leads to ousting from talent agency](https://www.primetimer.com/news/who-is-dasha-nekrasova-nick-fuentes-podcast-appearance-reportedly-leads-to-sucession-actress-s-ousting-from-talent-agency)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3) (WebSearch verified 2026-03-27)
+- [Reason: The creepy crusade to cancel Red Scare's Dasha (November 2025)](https://reason.com/2025/11/20/the-creepy-crusade-to-cancel-red-scares-dasha/) (Tier 3) (VERIFIED) (WebSearch verified 2026-03-27)
 - [FEC: Dasha Nekrasova individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=NEKRASOVA%2C+DASHA) (Tier 1)
 - [FEC: Anna Khachiyan individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=KHACHIYAN%2C+ANNA) (Tier 1)
 

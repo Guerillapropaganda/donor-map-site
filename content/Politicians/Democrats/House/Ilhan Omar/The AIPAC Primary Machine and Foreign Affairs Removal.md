@@ -85,15 +85,15 @@ The precedent is structural: if a party controls the House, it can remove any me
 
 ### Sources
 
-- [Congress.gov: H.Res.76. Removing Omar from Foreign Affairs](https://www.congress.gov/bill/118th-congress/house-resolution/76) (Tier 1)
-- [Congress.gov: Ilhan Omar member page](https://www.congress.gov/member/ilhan-omar/O000173) (Tier 1)
-- [FEC Candidate: Ilhan Omar campaign finance summary](https://www.fec.gov/data/candidate/H8MN05239/) (Tier 1)
-- [OpenSecrets: Minnesota District 05 2022 race summary](https://www.opensecrets.org/races/summary?cycle=2022&id=MN05) (Tier 1)
-- [OpenSecrets: United Democracy Project PAC profile 2024](https://www.opensecrets.org/political-action-committees-pacs/united-democracy-project/C00799031/summary/2024) (Tier 1)
-- [OpenSecrets News: Pro-Israel PACs poised to spend big in 2024](https://www.opensecrets.org/news/2023/12/pro-israel-pacs-poised-to-spend-big-to-unseat-progressive-members-of-congress-in-2024-election-cycle/) (Tier 2)
-- [NPR: House GOP removes Ilhan Omar from Foreign Affairs Committee](https://www.npr.org/2023/02/02/1153472237/ilhan-omar-foreign-affairs-committee-vote-republicans-remove) (Tier 2)
-- [NPR: Pro-Israel group sits out Ilhan Omar's 2024 primary](https://www.npr.org/2024/08/14/nx-s1-5073957/democratic-rep-ilhan-omar-wins-primary-despite-spending-from-pro-israel-group) (Tier 2)
-- [Sludge: Here is all the money AIPAC spent on the 2024 elections](https://readsludge.com/2025/01/24/here-is-all-the-money-aipac-spent-on-the-2024-elections/) (Tier 2)
-- [Ballotpedia: Minnesota's 5th Congressional District election, 2022](https://ballotpedia.org/Minnesota's_5th_Congressional_District_election,_2022) (Tier 3)
-- [Ballotpedia: Ilhan Omar](https://ballotpedia.org/Ilhan_Omar) (Tier 3)
+- ~~[Congress.gov: H.Res.76. Removing Omar from Foreign Affairs](https://www.congress.gov/bill/118th-congress/house-resolution/76)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Ilhan Omar member page](https://www.congress.gov/member/ilhan-omar/O000173)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [FEC Candidate: Ilhan Omar campaign finance summary](https://www.fec.gov/data/candidate/H8MN05239/) (Tier 1) (VERIFIED)
+- [OpenSecrets: Minnesota District 05 2022 race summary](https://www.opensecrets.org/races/summary?cycle=2022&id=MN05) (Tier 1) (VERIFIED)
+- [OpenSecrets: United Democracy Project PAC profile 2024](https://www.opensecrets.org/political-action-committees-pacs/united-democracy-project/C00799031/summary/2024) (Tier 1) (VERIFIED)
+- [OpenSecrets News: Pro-Israel PACs poised to spend big in 2024](https://www.opensecrets.org/news/2023/12/pro-israel-pacs-poised-to-spend-big-to-unseat-progressive-members-of-congress-in-2024-election-cycle/) (Tier 2) (VERIFIED)
+- [NPR: House GOP removes Ilhan Omar from Foreign Affairs Committee](https://www.npr.org/2023/02/02/1153472237/ilhan-omar-foreign-affairs-committee-vote-republicans-remove) (Tier 2) (VERIFIED)
+- [NPR: Pro-Israel group sits out Ilhan Omar's 2024 primary](https://www.npr.org/2024/08/14/nx-s1-5073957/democratic-rep-ilhan-omar-wins-primary-despite-spending-from-pro-israel-group) (Tier 2) (VERIFIED)
+- [Sludge: Here is all the money AIPAC spent on the 2024 elections](https://readsludge.com/2025/01/24/here-is-all-the-money-aipac-spent-on-the-2024-elections/) (Tier 2) (VERIFIED)
+- [Ballotpedia: Minnesota's 5th Congressional District election, 2022](https://ballotpedia.org/Minnesota's_5th_Congressional_District_election,_2022) (Tier 3) (VERIFIED)
+- [Ballotpedia: Ilhan Omar](https://ballotpedia.org/Ilhan_Omar) (Tier 3) (VERIFIED)
 

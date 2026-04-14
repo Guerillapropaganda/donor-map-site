@@ -74,8 +74,8 @@ Matt Gaetz entered the Florida state legislature at 27. He ran for the seat vaca
 
 ### Sources
 
-- [Wikipedia: Don Gaetz biography](https://en.wikipedia.org/wiki/Don_Gaetz) (Tier 3)
-- [IBTimes: Matt Gaetz net worth, family ultra-rich](https://www.ibtimes.com/matt-gaetz-net-worth-lawmakers-parents-among-americas-ultra-rich-1-3255577) (Tier 2)
-- [Wikipedia: Matt Gaetz biography](https://en.wikipedia.org/wiki/Matt_Gaetz) (Tier 3)
-- [Distractify: Matt Gaetz net worth and family wealth](https://www.distractify.com/p/matt-gaetz-net-worth) (Tier 3)
-- [Celebrity Net Worth: Matt Gaetz](https://www.celebritynetworth.com/richest-politicians/republicans/matt-gaetz-net-worth/) (Tier 3)
+- [Wikipedia: Don Gaetz biography](https://en.wikipedia.org/wiki/Don_Gaetz) (Tier 3) (VERIFIED)
+- [IBTimes: Matt Gaetz net worth, family ultra-rich](https://www.ibtimes.com/matt-gaetz-net-worth-lawmakers-parents-among-americas-ultra-rich-1-3255577) (Tier 2) (VERIFIED)
+- [Wikipedia: Matt Gaetz biography](https://en.wikipedia.org/wiki/Matt_Gaetz) (Tier 3) (VERIFIED)
+- [Distractify: Matt Gaetz net worth and family wealth](https://www.distractify.com/p/matt-gaetz-net-worth) (Tier 3) (VERIFIED)
+- [Celebrity Net Worth: Matt Gaetz](https://www.celebritynetworth.com/richest-politicians/republicans/matt-gaetz-net-worth/) (Tier 3) (VERIFIED)

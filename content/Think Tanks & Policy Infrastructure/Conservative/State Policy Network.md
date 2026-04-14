@@ -111,15 +111,15 @@ SPN is the state-level arm of the conservative donor class's policy apparatus. T
 
 ### Sources
 
-- [SPN: About State Policy Network](https://spn.org/state-policy-network-about/) (Tier 3)
-- [SPN: Staff Directory](https://spn.org/staff/) (Tier 3)
-- [SPN: Annual Report](https://spn.org/spn-annual-report/) (Tier 3)
-- [SPN: Fall 2025 News](https://spn.org/spn-news-fall-2025/) (Tier 3)
-- [SPN: Chris Dauer assumes CEO role](https://spn.org/chris-dauer-officially-assumes-role-as-state-policy-network-president-and-ceo/) (Tier 3)
-- [ProPublica: SPN 990 filings](https://projects.propublica.org/nonprofits/organizations/570952531) (Tier 1)
-- [CMD: 100+ funders of State Policy Network revealed](https://www.exposedbycmd.org/2020/09/21/more-than-100-funders-state-policy-network-revealed/) (Tier 2)
-- [InfluenceWatch: State Policy Network](https://www.influencewatch.org/non-profit/state-policy-network/) (Tier 3)
-- [SourceWatch: State Policy Network](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/State_Policy_Network) (Tier 3)
+- [SPN: About State Policy Network](https://spn.org/state-policy-network-about/) (Tier 3) (VERIFIED)
+- [SPN: Staff Directory](https://spn.org/staff/) (Tier 3) (VERIFIED)
+- [SPN: Annual Report](https://spn.org/spn-annual-report/) (Tier 3) (VERIFIED)
+- [SPN: Fall 2025 News](https://spn.org/spn-news-fall-2025/) (Tier 3) (VERIFIED)
+- [SPN: Chris Dauer assumes CEO role](https://spn.org/chris-dauer-officially-assumes-role-as-state-policy-network-president-and-ceo/) (Tier 3) (VERIFIED)
+- [ProPublica: SPN 990 filings](https://projects.propublica.org/nonprofits/organizations/570952531) (Tier 1) (VERIFIED)
+- ~~[CMD: 100+ funders of State Policy Network revealed](https://www.exposedbycmd.org/2020/09/21/more-than-100-funders-state-policy-network-revealed/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [InfluenceWatch: State Policy Network](https://www.influencewatch.org/non-profit/state-policy-network/) (Tier 3) (VERIFIED)
+- ~~[SourceWatch: State Policy Network](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/State_Policy_Network)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
 
 ---
 
@@ -135,8 +135,8 @@ SPN is the state-level arm of the conservative donor class's policy apparatus. T
 | Net Assets | $20.7M |
 | Officer Compensation | $1.6M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 570952531](https://projects.propublica.org/nonprofits/organizations/570952531) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F570952531_202312_990_2024070522665761.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 570952531](https://projects.propublica.org/nonprofits/organizations/570952531) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F570952531_202312_990_2024070522665761.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### SEC Filing Activity
@@ -152,7 +152,7 @@ SPN is the state-level arm of the conservative donor class's policy apparatus. T
 - 2024-04-08 — **PX14A6G**: PX14A6G
 - 2006-03-10 — **N-CSR**: VARIABLE INSURANCE FUNDS/FREE ENTERPRISE ACTION FUND
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22State%20Policy%20Network%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22State%20Policy%20Network%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -181,7 +181,7 @@ SPN is the state-level arm of the conservative donor class's policy apparatus. T
 |------------------|--------|--------|
 | Unknown | $1009778941.6B | 50 |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-State%20Policy%20Network) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-State%20Policy%20Network) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Vehicle Safety (NHTSA)
@@ -199,7 +199,7 @@ SPN is the state-level arm of the conservative donor class's policy apparatus. T
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=State%20Policy%20Network) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=State%20Policy%20Network) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Tax Filings (IRS 990)
@@ -217,14 +217,14 @@ SPN is the state-level arm of the conservative donor class's policy apparatus. T
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/570952531/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/570952531/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/570952531/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/570952531/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/570952531/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/570952531/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/570952531/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/570952531/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/570952531/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/570952531/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/570952531) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/570952531) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Federal Court Records (CourtListener)
@@ -243,5 +243,5 @@ SPN is the state-level arm of the conservative donor class's policy apparatus. T
 - Commonwealth of Puerto Rico v. Exxon Mobil Corporation (2024) — District Court, D. Puerto Rico
 - The Center for Investigative Reporting, Inc. v. OpenAI, Inc. (2024) — District Court, S.D. New York
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22State%20Policy%20Network%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22State%20Policy%20Network%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->

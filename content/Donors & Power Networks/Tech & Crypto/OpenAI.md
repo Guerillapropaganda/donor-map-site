@@ -88,9 +88,9 @@ Favorable AI regulation (that permits continued scaling), federal preemption of 
 
 ### Sources
 
-- [OpenSecrets: OpenAI lobbying](https://www.opensecrets.org/orgs/openai/summary?id=D000084252) (Tier 1)
-- [SEC: Microsoft-OpenAI investment disclosures](https://www.sec.gov/cgi-bin/browse-edgar?company=OpenAI&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)
-- [Ballotpedia: AI regulation](https://ballotpedia.org/Artificial_intelligence_policy) (Tier 3)
+- [OpenSecrets: OpenAI lobbying](https://www.opensecrets.org/orgs/openai/summary?id=D000084252) (Tier 1) (VERIFIED)
+- [SEC: Microsoft-OpenAI investment disclosures](https://www.sec.gov/cgi-bin/browse-edgar?company=OpenAI&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1) (VERIFIED)
+- [Ballotpedia: AI regulation](https://ballotpedia.org/Artificial_intelligence_policy) (Tier 3) (VERIFIED)
 
 ### Vehicle Safety (NHTSA)
 <!-- auto:nhtsa-recalls start -->
@@ -107,7 +107,7 @@ Favorable AI regulation (that permits continued scaling), federal preemption of 
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=OpenAI) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=OpenAI) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -120,7 +120,7 @@ Favorable AI regulation (that permits continued scaling), federal preemption of 
 | Total Expenses | $2.9M |
 | Net Assets | $22.7M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 810861541](https://projects.propublica.org/nonprofits/organizations/810861541) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 810861541](https://projects.propublica.org/nonprofits/organizations/810861541) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Tax Filings (IRS 990)
@@ -138,14 +138,14 @@ Favorable AI regulation (that permits continued scaling), federal preemption of 
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/810861541/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/810861541/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/810861541/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/810861541/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/810861541/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/810861541/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/810861541/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/810861541/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/810861541/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/810861541/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/810861541) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/810861541) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -167,14 +167,14 @@ Favorable AI regulation (that permits continued scaling), federal preemption of 
 |------------------|--------|--------|
 | TRIAD NATIONAL SECURITY, LLC | $19.5M | 1 |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [9845004F11A8N695DD79](https://search.gleif.org/#/record/9845004F11A8N695DD79) |
+| LEI | [9845004F11A8N695DD79](https://search.gleif.org/#/record/9845004F11A8N695DD79) (VERIFIED) |
 | Legal Name | OPENAI IRELAND LIMITED |
 | Jurisdiction | IE |
 | Entity Status | ACTIVE |
@@ -182,7 +182,7 @@ Favorable AI regulation (that permits continued scaling), federal preemption of 
 | Registration | ISSUED |
 | Last Updated | 2026-03-19T17:04:26Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### SEC Filing Activity
@@ -200,7 +200,7 @@ Favorable AI regulation (that permits continued scaling), federal preemption of 
 - 2025-10-06 — **EX-99.1**: AMD AND OPENAI ANNOUNCE STRATEGIC PARTNERSHIP TO DEPLOY 6 GIGAWATTS OF AMD GPUS
 - 2026-02-27 — **EX-99.1**: EXHIBIT 99.1
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22OpenAI%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22OpenAI%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Federal Register Activity
@@ -214,10 +214,10 @@ Favorable AI regulation (that permits continued scaling), federal preemption of 
 | Agencies | Copyright Office, Library of Congress, Health and Human Services Department, Justice Department, Library of Congress |
 
 **Recent regulatory activity:**
-- [Provisions Pertaining to Preventing Access to U.S. Sensitive Personal Data and Government-Related Data by Countries of Concern or Covered Persons](https://www.federalregister.gov/documents/2024/10/29/2024-24582/provisions-pertaining-to-preventing-access-to-us-sensitive-personal-data-and-government-related-data) (2024-10-29) — Justice Department
-- [Artificial Intelligence and Copyright](https://www.federalregister.gov/documents/2023/08/30/2023-18624/artificial-intelligence-and-copyright) (2023-08-30) — Library of Congress
-- [Health Data, Technology, and Interoperability: Certification Program Updates, Algorithm Transparency, and Information Sharing](https://www.federalregister.gov/documents/2023/04/18/2023-07229/health-data-technology-and-interoperability-certification-program-updates-algorithm-transparency-and) (2023-04-18) — Health and Human Services Department
-- [Copyright Registration Guidance: Works Containing Material Generated by Artificial Intelligence](https://www.federalregister.gov/documents/2023/03/16/2023-05321/copyright-registration-guidance-works-containing-material-generated-by-artificial-intelligence) (2023-03-16) — Library of Congress
+- [Provisions Pertaining to Preventing Access to U.S. Sensitive Personal Data and Government-Related Data by Countries of Concern or Covered Persons](https://www.federalregister.gov/documents/2024/10/29/2024-24582/provisions-pertaining-to-preventing-access-to-us-sensitive-personal-data-and-government-related-data) (VERIFIED) (2024-10-29) — Justice Department
+- [Artificial Intelligence and Copyright](https://www.federalregister.gov/documents/2023/08/30/2023-18624/artificial-intelligence-and-copyright) (VERIFIED) (2023-08-30) — Library of Congress
+- [Health Data, Technology, and Interoperability: Certification Program Updates, Algorithm Transparency, and Information Sharing](https://www.federalregister.gov/documents/2023/04/18/2023-07229/health-data-technology-and-interoperability-certification-program-updates-algorithm-transparency-and) (VERIFIED) (2023-04-18) — Health and Human Services Department
+- [Copyright Registration Guidance: Works Containing Material Generated by Artificial Intelligence](https://www.federalregister.gov/documents/2023/03/16/2023-05321/copyright-registration-guidance-works-containing-material-generated-by-artificial-intelligence) (VERIFIED) (2023-03-16) — Library of Congress
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22OpenAI%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22OpenAI%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->

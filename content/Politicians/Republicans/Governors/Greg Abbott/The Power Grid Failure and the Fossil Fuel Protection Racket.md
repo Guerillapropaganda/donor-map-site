@@ -121,11 +121,11 @@ This is the actual function of the deregulated grid: it distributes the benefits
 
 ### Sources
 
-- [Wikipedia: 2021 Texas power crisis overview](https://en.wikipedia.org/wiki/2021_Texas_power_crisis) (Tier 1)
-- [PMC/NIH: The 2021 Texas Power Crisis: Distribution, Duration, and Disparities](https://pmc.ncbi.nlm.nih.gov/articles/PMC9851928/) (Tier 1)
-- [University of Texas Energy Institute: ERCOT Blackout 2021 analysis](https://energy.utexas.edu/research/ercot-blackout-2021) (Tier 1)
-- [Washington Post: Texas is rattled by the failure to keep electricity flowing](https://www.washingtonpost.com/business/2021/02/16/ercot-texas-electric-grid-failure/) (Tier 2)
-- [Texas Tribune: Power companies get what they want - how Texas failed to protect grid](https://www.texastribune.org/2021/02/22/texas-power-grid-extreme-weather/) (Tier 2)
-- [Texas Observer: Kelcy Warren Energy Transfer donation post-grid failure](https://www.texasobserver.org/after-kelcy-warrens-energy-transfer-partners-made-billions-from-the-deadly-texas-blackouts-he-gave-1-million-to-greg-abbott/) (Tier 2)
-- [Al Jazeera: Operation Lone Star border enforcement overview](https://www.aljazeera.com/economy/2025/2/26/washington-post-opinion-head-departs-as-jeff-bezos-shifts-focus-for-paper-about-latest-us-border-flashpoint) (Tier 2)
+- [Wikipedia: 2021 Texas power crisis overview](https://en.wikipedia.org/wiki/2021_Texas_power_crisis) (Tier 1) (VERIFIED)
+- [PMC/NIH: The 2021 Texas Power Crisis: Distribution, Duration, and Disparities](https://pmc.ncbi.nlm.nih.gov/articles/PMC9851928/) (Tier 1) (VERIFIED)
+- [University of Texas Energy Institute: ERCOT Blackout 2021 analysis](https://energy.utexas.edu/research/ercot-blackout-2021) (Tier 1) (VERIFIED)
+- [Washington Post: Texas is rattled by the failure to keep electricity flowing](https://www.washingtonpost.com/business/2021/02/16/ercot-texas-electric-grid-failure/) (Tier 2) (VERIFIED)
+- [Texas Tribune: Power companies get what they want - how Texas failed to protect grid](https://www.texastribune.org/2021/02/22/texas-power-grid-extreme-weather/) (Tier 2) (VERIFIED)
+- [Texas Observer: Kelcy Warren Energy Transfer donation post-grid failure](https://www.texasobserver.org/after-kelcy-warrens-energy-transfer-partners-made-billions-from-the-deadly-texas-blackouts-he-gave-1-million-to-greg-abbott/) (Tier 2) (VERIFIED)
+- ~~[Al Jazeera: Operation Lone Star border enforcement overview](https://www.aljazeera.com/economy/2025/2/26/washington-post-opinion-head-departs-as-jeff-bezos-shifts-focus-for-paper-about-latest-us-border-flashpoint)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 

@@ -235,16 +235,16 @@ The pilot model, demonstrate that an alternative is possible, then watch as the 
 
 ### Sources
 
-- [PBS NewsHour: Klobuchar, Buttigieg endorse Biden on eve of Super Tuesday](https://www.pbs.org/newshour/politics/klobuchar-buttigieg-endorse-biden-on-eve-of-super-tuesday) (Tier 2)
-- [CNN Politics: Elizabeth Warren Drops Out of 2020 Presidential Race](https://www.cnn.com/2020/03/05/politics/elizabeth-warren-drops-out) (Tier 2)
-- [OpenSecrets: Elizabeth Warren 2020 Cycle Funding](https://www.opensecrets.org/2020-presidential-race?id=N00033492) (Tier 1)
-- [FEC: Elizabeth Warren Presidential Campaign Filings](https://www.fec.gov/data/candidate/P00009621/) (Tier 1)
-- [FactCheck.org: Fairshake](https://www.factcheck.org/2024/04/fairshake/) (Tier 2)
-- [CoinDesk: Crypto PAC Fairshake Claims Another Win Against Elizabeth Warren Ally With Bush Loss](https://www.coindesk.com/policy2024/08/07/crypto-pac-fairshake-claims-another-win-against-elizabeth-warren-ally-with-bush-loss) (Tier 2)
-- [Boston Globe: As crypto industry looks to widen its influence in Washington, Elizabeth Warren emerges as a target](https://www.bostonglobe.com/2024/03/15/metro/elizabeth-warren-reelection-crypto-industry/) (Tier 2)
-- [Salon: "Rife with fraud": Crypto industry PAC raises $200+ million to fight regulations](https://www.salon.com/2024/09/13/rife-with-fraud-crypto-industry-pac-raises-200-million-to-fight-regulations/) (Tier 2)
-- [U.S. Senator Elizabeth Warren: Warren Expands Coalition of Banking Committee Support for Crypto Anti-Money Laundering Bill](https://www.warren.senate.gov/newsroom/press-releases/warren-expands-coalition-of-banking-committee-support-for-bill-cracking-down-on-cryptos-use-in-money-laundering-drug-trafficking-sanctions-evasion) (Tier 1)
-- [CNN Politics: Where Elizabeth Warren's supporters may go after she drops out of 2020 race](https://www.cnn.com/2020/03/06/politics/elizabeth-warren-supporters-next-where-to/) (Tier 2)
+- [PBS NewsHour: Klobuchar, Buttigieg endorse Biden on eve of Super Tuesday](https://www.pbs.org/newshour/politics/klobuchar-buttigieg-endorse-biden-on-eve-of-super-tuesday) (Tier 2) (VERIFIED)
+- [CNN Politics: Elizabeth Warren Drops Out of 2020 Presidential Race](https://www.cnn.com/2020/03/05/politics/elizabeth-warren-drops-out) (Tier 2) (VERIFIED)
+- [OpenSecrets: Elizabeth Warren 2020 Cycle Funding](https://www.opensecrets.org/2020-presidential-race?id=N00033492) (Tier 1) (VERIFIED)
+- [FEC: Elizabeth Warren Presidential Campaign Filings](https://www.fec.gov/data/candidate/P00009621/) (Tier 1) (VERIFIED)
+- [FactCheck.org: Fairshake](https://www.factcheck.org/2024/04/fairshake/) (Tier 2) (VERIFIED)
+- [CoinDesk: Crypto PAC Fairshake Claims Another Win Against Elizabeth Warren Ally With Bush Loss](https://www.coindesk.com/policy2024/08/07/crypto-pac-fairshake-claims-another-win-against-elizabeth-warren-ally-with-bush-loss) (Tier 2) (VERIFIED)
+- [Boston Globe: As crypto industry looks to widen its influence in Washington, Elizabeth Warren emerges as a target](https://www.bostonglobe.com/2024/03/15/metro/elizabeth-warren-reelection-crypto-industry/) (Tier 2) (VERIFIED)
+- [Salon: "Rife with fraud": Crypto industry PAC raises $200+ million to fight regulations](https://www.salon.com/2024/09/13/rife-with-fraud-crypto-industry-pac-raises-200-million-to-fight-regulations/) (Tier 2) (VERIFIED)
+- [U.S. Senator Elizabeth Warren: Warren Expands Coalition of Banking Committee Support for Crypto Anti-Money Laundering Bill](https://www.warren.senate.gov/newsroom/press-releases/warren-expands-coalition-of-banking-committee-support-for-bill-cracking-down-on-cryptos-use-in-money-laundering-drug-trafficking-sanctions-evasion) (Tier 1) (VERIFIED)
+- ~~[CNN Politics: Where Elizabeth Warren's supporters may go after she drops out of 2020 race](https://www.cnn.com/2020/03/06/politics/elizabeth-warren-supporters-next-where-to/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ---
 

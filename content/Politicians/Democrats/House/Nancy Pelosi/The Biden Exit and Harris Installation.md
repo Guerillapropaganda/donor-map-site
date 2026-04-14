@@ -57,8 +57,8 @@ See [[The Billion-Dollar Campaign - 2024 Finance]] for the full picture: Soros $
 
 ### Sources
 
-- [NBC News: Nancy Pelosi helped pressure Joe Biden to end his 2024 campaign](https://www.nbcnews.com/politics/2024-election/nancy-pelosi-helped-pressure-joe-biden-end-2024-campaign-rcna162943) (Tier 2)
-- [OpenSecrets: Kamala Harris drives record fundraising after Biden exit](https://www.opensecrets.org/news/2024/07/kamala-harris-drives-record-fundraising-after-biden-exit/) (Tier 1)
-- [Axios: Kamala Harris rakes in $81M in 24 hours after Biden's exit](https://www.axios.com/2024/07/22/kamala-harris-record-81-million-24-hours) (Tier 2)
-- [CNBC: Democratic donors push Biden to drop out as Kamala Harris events fill up](https://www.cnbc.com/2024/07/18/democratic-donors-biden-drop-out-kamala-harris.html) (Tier 2)
+- [NBC News: Nancy Pelosi helped pressure Joe Biden to end his 2024 campaign](https://www.nbcnews.com/politics/2024-election/nancy-pelosi-helped-pressure-joe-biden-end-2024-campaign-rcna162943) (Tier 2) (VERIFIED)
+- [OpenSecrets: Kamala Harris drives record fundraising after Biden exit](https://www.opensecrets.org/news/2024/07/kamala-harris-drives-record-fundraising-after-biden-exit/) (Tier 1) (VERIFIED)
+- ~~[Axios: Kamala Harris rakes in $81M in 24 hours after Biden's exit](https://www.axios.com/2024/07/22/kamala-harris-record-81-million-24-hours)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [CNBC: Democratic donors push Biden to drop out as Kamala Harris events fill up](https://www.cnbc.com/2024/07/18/democratic-donors-biden-drop-out-kamala-harris.html) (Tier 2) (VERIFIED)
 

@@ -91,12 +91,12 @@ The donor class cannot:
 
 ### Sources
 
-- [Orlando Sentinel: DeSantis and super PAC spent $158.5 million during presidential run in 2023](https://www.orlandosentinel.com/2024/02/01/desantis-super-pac-spent-158-5-million-during-presidential-run-in-2023/) (Tier 2)
-- [Washington Post: Inside the collapse of Ron DeSantis's campaign funding experiment](https://www.washingtonpost.com/politics/2023/12/16/desantis-super-pac-collapse/) (Tier 2)
-- [NBC News: How Ron DeSantis' super PAC took financial pressure off his campaign](https://www.nbcnews.com/politics/2024-election/ron-desantis-super-pac-taking-financial-pressure-campaign-rcna120160) (Tier 2)
-- [NBC News: Travel costs, staff, ads added after Ron DeSantis dropped out](https://www.nbcnews.com/politics/2024-election/travel-costs-staff-ads-added-ron-desantis-dropped-rcna136501) (Tier 2)
-- [CBS News: Never Back Down cancels $2.5 million in 2024 TV advertising](https://www.cbsnews.com/news/never-back-down-desantis-super-pac-backs-out-2-5-million-2024-tv-advertising/) (Tier 2)
-- [FactCheck.org: Never Back Down Inc.](https://www.factcheck.org/2024/01/never-back-down-inc/) (Tier 2)
-- [CNBC: Billionaire Ken Griffin, former DeSantis donor, sits out GOP primary](https://www.cnbc.com/2023/09/18/billionaire-ken-griffin-former-desantis-donor-sits-out-gop-primary.html) (Tier 2)
-- [OpenSecrets: Ron DeSantis 2024 Presidential Expenditures](https://www.opensecrets.org/2024-presidential-race/ron-desantis/expenditures?id=N00034746) (Tier 1)
-- [NPR: Nikki Haley Koch Brothers Iowa New Hampshire GOP primary](https://www.npr.org/2023/11/28/1215562976/nikki-haley-koch-brothers-iowa-new-hampshire-gop-primary) (Tier 2)
+- [Orlando Sentinel: DeSantis and super PAC spent $158.5 million during presidential run in 2023](https://www.orlandosentinel.com/2024/02/01/desantis-super-pac-spent-158-5-million-during-presidential-run-in-2023/) (Tier 2) (VERIFIED)
+- [Washington Post: Inside the collapse of Ron DeSantis's campaign funding experiment](https://www.washingtonpost.com/politics/2023/12/16/desantis-super-pac-collapse/) (Tier 2) (VERIFIED)
+- [NBC News: How Ron DeSantis' super PAC took financial pressure off his campaign](https://www.nbcnews.com/politics/2024-election/ron-desantis-super-pac-taking-financial-pressure-campaign-rcna120160) (Tier 2) (VERIFIED)
+- [NBC News: Travel costs, staff, ads added after Ron DeSantis dropped out](https://www.nbcnews.com/politics/2024-election/travel-costs-staff-ads-added-ron-desantis-dropped-rcna136501) (Tier 2) (VERIFIED)
+- [CBS News: Never Back Down cancels $2.5 million in 2024 TV advertising](https://www.cbsnews.com/news/never-back-down-desantis-super-pac-backs-out-2-5-million-2024-tv-advertising/) (Tier 2) (VERIFIED)
+- [FactCheck.org: Never Back Down Inc.](https://www.factcheck.org/2024/01/never-back-down-inc/) (Tier 2) (VERIFIED)
+- [CNBC: Billionaire Ken Griffin, former DeSantis donor, sits out GOP primary](https://www.cnbc.com/2023/09/18/billionaire-ken-griffin-former-desantis-donor-sits-out-gop-primary.html) (Tier 2) (VERIFIED)
+- [OpenSecrets: Ron DeSantis 2024 Presidential Expenditures](https://www.opensecrets.org/2024-presidential-race/ron-desantis/expenditures?id=N00034746) (Tier 1) (VERIFIED)
+- [NPR: Nikki Haley Koch Brothers Iowa New Hampshire GOP primary](https://www.npr.org/2023/11/28/1215562976/nikki-haley-koch-brothers-iowa-new-hampshire-gop-primary) (Tier 2) (VERIFIED)

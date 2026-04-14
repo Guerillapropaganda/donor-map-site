@@ -156,23 +156,23 @@ This is not evidence of legislative incompetence. It is evidence that Vance's Se
 ### Sources
 
 ### Tier 1 (Primary/Government):
-- [Wikipedia: Hillbilly Elegy article with criticism section](https://en.wikipedia.org/wiki/Hillbilly_Elegy) (Tier 1)
-- [Congress.gov: J. D. Vance Senate voting record](https://www.congress.gov/member/j-vance/V000137) (Tier 1)
+- [Wikipedia: Hillbilly Elegy article with criticism section](https://en.wikipedia.org/wiki/Hillbilly_Elegy) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: J. D. Vance Senate voting record](https://www.congress.gov/member/j-vance/V000137)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ### Tier 2 (Major Journalism):
-- [Washington Post: The radicalization of Hillbilly Elegy author J.D. Vance](https://www.washingtonpost.com/nation/2024/07/25/jd-vance-hillbilly-elegy-jackson-kentucky/) (Tier 2)
-- [The New Republic: J.D. Vance, the False Prophet of Blue America](https://newrepublic.com/article/138717/jd-vance-false-prophet-blue-america) (Tier 2)
-- [Global Comment: A mass of contradictions - Hillbilly Elegy review](https://globalcomment.com/a-mass-of-contradictions-hillbilly-elegy-by-j-d-vance-review/) (Tier 2)
+- ~~[Washington Post: The radicalization of Hillbilly Elegy author J.D. Vance](https://www.washingtonpost.com/nation/2024/07/25/jd-vance-hillbilly-elegy-jackson-kentucky/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [The New Republic: J.D. Vance, the False Prophet of Blue America](https://newrepublic.com/article/138717/jd-vance-false-prophet-blue-america) (Tier 2) (VERIFIED)
+- [Global Comment: A mass of contradictions - Hillbilly Elegy review](https://globalcomment.com/a-mass-of-contradictions-hillbilly-elegy-by-j-d-vance-review/) (Tier 2) (VERIFIED)
 
 ### Tier 3 (Aggregators & Academic Collections):
-- [Wikipedia: Appalachian Reckoning response anthology](https://en.wikipedia.org/wiki/Hillbilly_Elegy#Critical_reception) (Tier 3)
-- [West Virginia University Press: Appalachian Reckoning: A Region Responds to Hillbilly Elegy](https://wvupressonline.com/appalachian-reckoning) (Tier 3)
-- [NPR: Hillbilly Elegy is back in the spotlight - Appalachian responses](https://www.npr.org/2024/07/17/1196981016/nprs-book-of-the-day-jd-vance-hillbilly-elegy) (Tier 3)
+- [Wikipedia: Appalachian Reckoning response anthology](https://en.wikipedia.org/wiki/Hillbilly_Elegy#Critical_reception) (Tier 3) (VERIFIED)
+- [West Virginia University Press: Appalachian Reckoning: A Region Responds to Hillbilly Elegy](https://wvupressonline.com/appalachian-reckoning) (Tier 3) (VERIFIED)
+- [NPR: Hillbilly Elegy is back in the spotlight - Appalachian responses](https://www.npr.org/2024/07/17/1196981016/nprs-book-of-the-day-jd-vance-hillbilly-elegy) (Tier 3) (VERIFIED)
 
 ### Tier 4 (Analysis/Community Perspectives):
-- [The Bitter Southerner: Hillbillies Need No Elegy - Appalachian Reckoning](https://bittersoutherner.com/hillbillies-need-no-elegy-appalachian-reckoning) (Tier 4)
-- [Echoes of Appalachia: What J.D. Vance Got Wrong About Appalachia in Hillbilly Elegy](https://appalachianmemories.org/2025/08/28/what-j-d-vance-got-wrong-about-appalachia-in-hillbilly-elegy/) (Tier 4)
-- [Kentucky to the World: Netflix's Hillbilly Elegy is a Flop - The Book is Why](https://www.kentuckytotheworld.org/blog/netflixs-hillbilly-elegy-is-a-flop-the-book-is-why/) (Tier 4)
+- [The Bitter Southerner: Hillbillies Need No Elegy - Appalachian Reckoning](https://bittersoutherner.com/hillbillies-need-no-elegy-appalachian-reckoning) (Tier 4) (VERIFIED)
+- [Echoes of Appalachia: What J.D. Vance Got Wrong About Appalachia in Hillbilly Elegy](https://appalachianmemories.org/2025/08/28/what-j-d-vance-got-wrong-about-appalachia-in-hillbilly-elegy/) (Tier 4) (VERIFIED)
+- [Kentucky to the World: Netflix's Hillbilly Elegy is a Flop - The Book is Why](https://www.kentuckytotheworld.org/blog/netflixs-hillbilly-elegy-is-a-flop-the-book-is-why/) (Tier 4) (VERIFIED)
 
 ---
 

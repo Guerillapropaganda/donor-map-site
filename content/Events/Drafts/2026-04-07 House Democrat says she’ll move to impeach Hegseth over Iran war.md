@@ -13,7 +13,7 @@ profiles:
 
 ## House Democrat says she’ll move to impeach Hegseth over Iran war
 
-**Source:** [The Hill](https://thehill.com/homenews/house/5818835-ansari-introduces-articles-impeachment-hegseth/)
+**Source:** ~~[The Hill](https://thehill.com/homenews/house/5818835-ansari-introduces-articles-impeachment-hegseth/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-07
 
 Rep. Yassamin Ansari (D-Ariz.) on Monday said she will introduce articles of impeachment against Defense Secretary Pete Hegseth for war crimes following President Trump’s planned strikes on Iran’s bridges, desalination plants and power plants. “Trump is escalating a devastating, illegal war, threatening massive war crimes and targeting civilian infrastructure in Iran. In the last 48…

@@ -45,8 +45,8 @@ See [[Koch Network - Charles Koch]] for the complete donor node, and [[Koch - Ko
 
 ### Sources
 
-- [OpenSecrets: Koch network spending](https://www.opensecrets.org/outsidespending/donor_detail?cycle=2024&id=U0000003535&type=I&super=N&name=Koch+Industries) (Tier 1)
-- [Ballotpedia: Koch network](https://ballotpedia.org/Koch_network) (Tier 3)
+- ~~[OpenSecrets: Koch network spending](https://www.opensecrets.org/outsidespending/donor_detail?cycle=2024&id=U0000003535&type=I&super=N&name=Koch+Industries)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Ballotpedia: Koch network](https://ballotpedia.org/Koch_network) (Tier 3) (VERIFIED)
 
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->
@@ -64,14 +64,14 @@ See [[Koch Network - Charles Koch]] for the complete donor node, and [[Koch - Ko
 - United States v. NAVARRO (2022) — District Court, District of Columbia
 - LINK v. CORCORAN (2021) — District Court, N.D. Florida
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Koch%20network%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Koch%20network%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [391200KFDASVUTIYEP51](https://search.gleif.org/#/record/391200KFDASVUTIYEP51) |
+| LEI | [391200KFDASVUTIYEP51](https://search.gleif.org/#/record/391200KFDASVUTIYEP51) (VERIFIED) |
 | Legal Name | Global Asthma and Allergy European Network (GA²LEN) e.V. |
 | Jurisdiction | DE |
 | Entity Status | ACTIVE |
@@ -79,5 +79,5 @@ See [[Koch Network - Charles Koch]] for the complete donor node, and [[Koch - Ko
 | Registration | ISSUED |
 | Last Updated | 2025-05-19T09:26:52Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->

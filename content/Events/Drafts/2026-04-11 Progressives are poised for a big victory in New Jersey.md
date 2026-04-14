@@ -13,7 +13,7 @@ profiles:
 
 ## Progressives are poised for a big victory in New Jersey
 
-**Source:** [The Hill](https://thehill.com/homenews/campaign/5826519-anelilia-mejia-expected-win/)
+**Source:** ~~[The Hill](https://thehill.com/homenews/campaign/5826519-anelilia-mejia-expected-win/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-11
 
 If Democrat Analilia Mejia wins next week’s election to fill New Jersey Gov. Mikie Sherrill’s (D) former House seat, it will offer just the latest boost for progressives, who have notched a number of wins as the party debates its direction heading into the midterms. Mejia, a top aide to Sen. Bernie Sanders’s (I-Vt.) 2020…

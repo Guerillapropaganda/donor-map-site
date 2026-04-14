@@ -207,10 +207,10 @@ The labor endorsement pattern reveals something: the industrial unions (Teamster
 ## Sources
 
 ### Verified
-- [FEC: Katie Porter candidate page (House campaigns)](https://www.fec.gov/data/candidate/H8CA45076/) (Tier 1)
-- [Congress.gov: Katie Porter member profile](https://www.congress.gov/member/katie-porter/P000618) (Tier 1)
-- [GovTrack: Katie Porter voting record](https://www.govtrack.us/congress/members/412758) (Tier 1)
-- [CalMatters: California Governor Race Fundraising Reports](https://calmatters.org/politics/2026/02/governors-race-fundraising-reports/) (Tier 2)
+- ~~[FEC: Katie Porter candidate page (House campaigns)](https://www.fec.gov/data/candidate/H8CA45076/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Katie Porter member profile](https://www.congress.gov/member/katie-porter/P000618)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [GovTrack: Katie Porter voting record](https://www.govtrack.us/congress/members/412758) (Tier 1) (NEEDS REVIEW)
+- [CalMatters: California Governor Race Fundraising Reports](https://calmatters.org/politics/2026/02/governors-race-fundraising-reports/) (Tier 2) (VERIFIED)
 
 ### URL NEEDED (blocking verified promotion)
 - Emerson College polling, March 2026 (Tier 2)
@@ -250,7 +250,7 @@ The labor endorsement pattern reveals something: the industrial unions (Teamster
 | 2024-12-17 | H.R. 1101 (118th): Lumbee Fairness Act | Not Voting | Passed |
 | 2024-12-17 | S. 3448 (118th): Never Again Education Reauthorization Act of 2023 | Not Voting | Passed |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412758) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412758) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
 
 ### Sanctions & PEP Screening (OpenSanctions)
@@ -264,9 +264,9 @@ The labor endorsement pattern reveals something: the industrial unions (Teamster
 | Topics | role.pep, role.pol |
 
 **Matched records:**
-- [Katie Porter](https://www.opensanctions.org/entities/Q58754391/) — 100% match (wd_categories, ann_pep_positions, everypolitician)
+- [Katie Porter](https://www.opensanctions.org/entities/Q58754391/) (VERIFIED) — 100% match (wd_categories, ann_pep_positions, everypolitician)
 
-- [Source: OpenSanctions](https://www.opensanctions.org/search/?q=Katie%20Porter) (Tier 1)
+- [Source: OpenSanctions](https://www.opensanctions.org/search/?q=Katie%20Porter) (Tier 1) (VERIFIED)
 <!-- auto:opensanctions end -->
 
 ### Legislative Activity (Congress.gov)
@@ -295,7 +295,7 @@ The labor endorsement pattern reveals something: the industrial unions (Teamster
 | 9664 | Accurate Industrial Policy Budgeting Act of 2024 | Referred to the House Committee on Armed Services. |
 | 9507 | Expanding Security Assistance Notification Act | Referred to the Committee on Foreign Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
 
-- [Source: Congress.gov](https://www.congress.gov/member/P000618) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/P000618)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Voting Record
@@ -320,6 +320,6 @@ The labor endorsement pattern reveals something: the industrial unions (Teamster
 
 **Sources**
 
-- [Congress.gov: Katie Porter](https://www.congress.gov/member/c001091) (Tier 1)
-- [GovTrack: Katie Porter](https://www.govtrack.us/congress/members/412758) (Tier 1)
+- ~~[Congress.gov: Katie Porter](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [GovTrack: Katie Porter](https://www.govtrack.us/congress/members/412758) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->

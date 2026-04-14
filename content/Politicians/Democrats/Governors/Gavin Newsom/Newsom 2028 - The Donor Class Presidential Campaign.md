@@ -251,24 +251,24 @@ The new variable: AI. If labor's 2028 endorsement condition holds, regulate AI o
 ### Sources
 
 ### Campaign Activity:
-- [CNN: Gavin Newsom discusses a potential 2028 matchup with Kamala Harris](https://www.cnn.com/2026/02/22/politics/gavin-newsom-book-tour) (Tier 2)
-- [Fox News: Gavin Newsom New Hampshire book tour stop fuels 2028 presidential speculation](https://www.foxnews.com/politics/newsom-stop-key-presidential-primary-state-sparks-more-2028-speculation) (Tier 2)
-- [The Hill: Newsom fundraising campaign targets everywhere except California](https://thehill.com/?s=Newsom%202028%20-%20The%20Donor%20Class%20Presidential%20Campaign) (Tier 2)
-- [NPR: Kentucky election results: Gov. Andy Beshear wins reelection](https://www.npr.org/2023/11/07/1209090515/2023-results-key-kentucky-elections) (Tier 2)
+- [CNN: Gavin Newsom discusses a potential 2028 matchup with Kamala Harris](https://www.cnn.com/2026/02/22/politics/gavin-newsom-book-tour) (Tier 2) (VERIFIED)
+- [Fox News: Gavin Newsom New Hampshire book tour stop fuels 2028 presidential speculation](https://www.foxnews.com/politics/newsom-stop-key-presidential-primary-state-sparks-more-2028-speculation) (Tier 2) (VERIFIED)
+- ~~[The Hill: Newsom fundraising campaign targets everywhere except California](https://thehill.com/?s=Newsom%202028%20-%20The%20Donor%20Class%20Presidential%20Campaign)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [NPR: Kentucky election results: Gov. Andy Beshear wins reelection](https://www.npr.org/2023/11/07/1209090515/2023-results-key-kentucky-elections) (Tier 2) (VERIFIED)
 
 ### Campaign for Democracy PAC:
-- [OpenSecrets: PAC Profile Campaign for Democracy PAC](https://www.opensecrets.org/political-action-committees-pacs/campaign-for-democracy-pac/C00836320/summary/2024) (Tier 1)
-- [FEC: Browse campaign finance data filings](https://www.fec.gov/data/filings/) (Tier 1)
+- [OpenSecrets: PAC Profile Campaign for Democracy PAC](https://www.opensecrets.org/political-action-committees-pacs/campaign-for-democracy-pac/C00836320/summary/2024) (Tier 1) (VERIFIED)
+- [FEC: Browse campaign finance data filings](https://www.fec.gov/data/filings/) (Tier 1) (VERIFIED)
 
 ### Donor Network:
-- [Silicon Valley Business Journal: Newsom tech relationship](https://www.bizjournals.com/sanjose/) (Tier 2)
+- ~~[Silicon Valley Business Journal: Newsom tech relationship](https://www.bizjournals.com/sanjose/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ### Polling:
-- [UNH Survey Center: Polling research](https://cola.unh.edu/unh-survey-center) (Tier 2)
+- [UNH Survey Center: Polling research](https://cola.unh.edu/unh-survey-center) (Tier 2) (VERIFIED)
 
 ### Litigation:
-- [Governor of California: Official announcements](https://www.gov.ca.gov/) (Tier 1)
-- [Governor of California: News releases](https://www.gov.ca.gov/2024/04/26/news-template/) (Tier 1)
+- [Governor of California: Official announcements](https://www.gov.ca.gov/) (Tier 1) (VERIFIED)
+- [Governor of California: News releases](https://www.gov.ca.gov/2024/04/26/news-template/) (Tier 1) (VERIFIED)
 
 ### Labor/AI:
 
@@ -277,10 +277,10 @@ The new variable: AI. If labor's 2028 endorsement condition holds, regulate AI o
 ### Harris Rivalry:
 
 ### Personal Finances:
-- [The Hill: Washington political news](https://thehill.com/?s=Newsom%202028%20-%20The%20Donor%20Class%20Presidential%20Campaign) (Tier 2)
+- ~~[The Hill: Washington political news](https://thehill.com/?s=Newsom%202028%20-%20The%20Donor%20Class%20Presidential%20Campaign)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ### Competition:
-- [OpenSecrets: Campaign finance analysis](https://www.opensecrets.org/members-of-congress/summary?name=Newsom%202028) (Tier 2)
+- ~~[OpenSecrets: Campaign finance analysis](https://www.opensecrets.org/members-of-congress/summary?name=Newsom%202028)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ---
 
@@ -294,9 +294,9 @@ The new variable: AI. If labor's 2028 endorsement condition holds, regulate AI o
 
 **SXSW:** Newsom appeared at SXSW 2026, a national media and tech-industry audience, consistent with donor-class presidential positioning.
 
-- [CBS News: Newsom says he will consider White House run after 2026 elections](https://www.cbsnews.com/news/newsom-says-he-will-consider-white-house-run-after-2026-elections/) (Tier 2)
-- [Newsweek: Newsom surges as Democratic 2028 front-runner](https://www.newsweek.com/newsom-surges-poll-democratic-primary-frontrunner-2124888) (Tier 2)
-- [TheGrio: Newsom leads Harris in 2028 poll, can he win Black voters?](https://thegrio.com/2026/03/12/newsom-leads-kamala-harris-2028-presidential-poll-can-he-win-over-black-voters/) (Tier 2)
+- [CBS News: Newsom says he will consider White House run after 2026 elections](https://www.cbsnews.com/news/newsom-says-he-will-consider-white-house-run-after-2026-elections/) (Tier 2) (VERIFIED)
+- [Newsweek: Newsom surges as Democratic 2028 front-runner](https://www.newsweek.com/newsom-surges-poll-democratic-primary-frontrunner-2124888) (Tier 2) (VERIFIED)
+- [TheGrio: Newsom leads Harris in 2028 poll, can he win Black voters?](https://thegrio.com/2026/03/12/newsom-leads-kamala-harris-2028-presidential-poll-can-he-win-over-black-voters/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -313,6 +313,6 @@ The new variable: AI. If labor's 2028 endorsement condition holds, regulate AI o
 
 **Timeline:** Newsom told allies he likely wouldn't announce a presidential campaign until after he **leaves office in January 2027**, consistent with the standard post-governorship presidential launch pattern.
 
-- [The Hill. Gavin Newsom gains 100,000 new contributors amid battles with Trump](https://thehill.com/homenews/campaign/5641006-gavin-newsom-presidential-run-2028/) (Tier 2)
-- [Yahoo News. Newsom's redistricting campaign unlocks a new donor army ahead of 2028](https://www.yahoo.com/news/articles/newsom-redistricting-campaign-unlocks-donor-130000910.html) (Tier 2)
-- [OpenSecrets. Democratic presidential contenders test the waters during midterm 'shadow campaign'](https://www.opensecrets.org/news/2026/01/democratic-presidential-contenders-test-the-waters-during-midterm-shadow-campaign/) (Tier 1)
+- ~~[The Hill. Gavin Newsom gains 100,000 new contributors amid battles with Trump](https://thehill.com/homenews/campaign/5641006-gavin-newsom-presidential-run-2028/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Yahoo News. Newsom's redistricting campaign unlocks a new donor army ahead of 2028](https://www.yahoo.com/news/articles/newsom-redistricting-campaign-unlocks-donor-130000910.html) (Tier 2) (VERIFIED)
+- [OpenSecrets. Democratic presidential contenders test the waters during midterm 'shadow campaign'](https://www.opensecrets.org/news/2026/01/democratic-presidential-contenders-test-the-waters-during-midterm-shadow-campaign/) (Tier 1) (VERIFIED)

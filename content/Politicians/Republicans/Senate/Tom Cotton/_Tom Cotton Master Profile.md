@@ -136,13 +136,13 @@ Cotton's Armed Services Committee position completes the donor-to-policy circuit
 
 ## Sources
 
-- [Congress.gov: Cotton 2014 Senate fundraising](https://www.congress.gov/search?q=Tom%20Cotton&searchResultViewType=expanded) (Tier 1)
-- [FEC.gov: Cotton campaign filings](https://www.fec.gov/data/candidate/S4AR00103/) (Tier 1)
-- [LobeLog: Emergency Committee for Israel spending](https://lobelog.com/exclusive-emergency-committee-for-israel-spends-big-on-rep-tom-cotton/) (Tier 2)
-- [NPR: Freshman senator behind Iran letter](https://www.npr.org/2015/03/13/392845709/tom-cotton-the-freshman-senator-behind-the-iran-letter) (Tier 2)
-- [Snopes: Army Ranger claim fact check](https://www.snopes.com/fact-check/tom-cotton-army-ranger/) (Tier 2)
-- [Washington Post: NYT editorial page editor resigns after uproar over Cotton op-ed](https://www.washingtonpost.com/lifestyle/media/new-york-times-editorial-page-editor-resigns-after-uproar-over-cotton-op-ed/2020/06/07/bca09606-a8fd-11ea-9063-e69bd6520940_story.html) (Tier 2)
-- [Daily Beast: Cotton as neocon darling](https://www.thedailybeast.com/cruz-trashed-trump-and-vance-in-secret-recordings-f-you-ted/) (Tier 2)
+- ~~[Congress.gov: Cotton 2014 Senate fundraising](https://www.congress.gov/search?q=Tom%20Cotton&searchResultViewType=expanded)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [FEC.gov: Cotton campaign filings](https://www.fec.gov/data/candidate/S4AR00103/) (Tier 1) (VERIFIED)
+- [LobeLog: Emergency Committee for Israel spending](https://lobelog.com/exclusive-emergency-committee-for-israel-spends-big-on-rep-tom-cotton/) (Tier 2) (VERIFIED)
+- [NPR: Freshman senator behind Iran letter](https://www.npr.org/2015/03/13/392845709/tom-cotton-the-freshman-senator-behind-the-iran-letter) (Tier 2) (VERIFIED)
+- [Snopes: Army Ranger claim fact check](https://www.snopes.com/fact-check/tom-cotton-army-ranger/) (Tier 2) (VERIFIED)
+- [Washington Post: NYT editorial page editor resigns after uproar over Cotton op-ed](https://www.washingtonpost.com/lifestyle/media/new-york-times-editorial-page-editor-resigns-after-uproar-over-cotton-op-ed/2020/06/07/bca09606-a8fd-11ea-9063-e69bd6520940_story.html) (Tier 2) (VERIFIED)
+- [Daily Beast: Cotton as neocon darling](https://www.thedailybeast.com/cruz-trashed-trump-and-vance-in-secret-recordings-f-you-ted/) (Tier 2) (VERIFIED)
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->
@@ -161,7 +161,7 @@ Cotton's Armed Services Committee position completes the donor-to-policy circuit
 - S. 4158: A bill to temporarily suspend the clean electricity production credit to support the Strategic Petroleum Reserve. — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 20, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 - S. 4106: Rx ACCESS Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 17, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412508) (Tier 1)
+- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/412508)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:govtrack end -->
 
 ## Influence Network (Cross-Reference)
@@ -207,5 +207,5 @@ Cotton's Armed Services Committee position completes the donor-to-policy circuit
 | 4077 | Trucking Security and CCP Disclosure Act of 2026 | Read twice and referred to the Committee on Armed Services. |
 | — |  | — |
 
-- [Source: Congress.gov](https://www.congress.gov/member/C001095) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001095)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->

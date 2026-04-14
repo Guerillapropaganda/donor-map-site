@@ -195,11 +195,11 @@ Sanders governs an impoverished state while implementing privatization policies 
 
 ### Sources
 
-- [Encyclopedia of Arkansas: LEARNS Act overview](https://encyclopediaofarkansas.net/entries/learns-act-18586/) (Tier 2)
-- [Arkansas Advocate: Arkansas governor marks start of year two for voucher applications](https://arkansasadvocate.com/2024/04/02/arkansas-governor-marks-start-of-year-two-for-voucher-applications/) (Tier 2)
-- [Arkansas Advocate: Private school participation grows in voucher program's second year](https://www.yahoo.com/news/private-school-participation-grows-arkansas-133000528.html) (Tier 2)
-- [Arkansas Times: Jim Walton gives $500K to defend Arkansas school vouchers from ballot measure](https://arktimes.com/arkansas-blog/2024/05/16/jim-walton-gives-500k-to-defend-arkansas-school-vouchers-from-ballot-measure) (Tier 2)
-- [In These Times: Arkansas Teachers went on strike against corporate school privatizers](https://inthesetimes.com/article/little-rock-arkansas-strike-teachers-waltons-walmart) (Tier 2)
-- [NEA Arkansas: Inside the web of Arkansas's school privatization empire](https://www.aeaonline.org/resource-library/inside-web-arkansass-school-privatization-empire) (Tier 2)
-- [Common Dreams: The Walton Family Plot to Privatize Arkansas public schools](https://www.commondreams.org/views/2019/09/05/walton-family-plot-privatize-public-schools-of-arkansas) (Tier 3)
+- [Encyclopedia of Arkansas: LEARNS Act overview](https://encyclopediaofarkansas.net/entries/learns-act-18586/) (Tier 2) (VERIFIED)
+- [Arkansas Advocate: Arkansas governor marks start of year two for voucher applications](https://arkansasadvocate.com/2024/04/02/arkansas-governor-marks-start-of-year-two-for-voucher-applications/) (Tier 2) (VERIFIED)
+- [Arkansas Advocate: Private school participation grows in voucher program's second year](https://www.yahoo.com/news/private-school-participation-grows-arkansas-133000528.html) (Tier 2) (VERIFIED)
+- [Arkansas Times: Jim Walton gives $500K to defend Arkansas school vouchers from ballot measure](https://arktimes.com/arkansas-blog/2024/05/16/jim-walton-gives-500k-to-defend-arkansas-school-vouchers-from-ballot-measure) (Tier 2) (VERIFIED)
+- [In These Times: Arkansas Teachers went on strike against corporate school privatizers](https://inthesetimes.com/article/little-rock-arkansas-strike-teachers-waltons-walmart) (Tier 2) (VERIFIED)
+- [NEA Arkansas: Inside the web of Arkansas's school privatization empire](https://www.aeaonline.org/resource-library/inside-web-arkansass-school-privatization-empire) (Tier 2) (VERIFIED)
+- ~~[Common Dreams: The Walton Family Plot to Privatize Arkansas public schools](https://www.commondreams.org/views/2019/09/05/walton-family-plot-privatize-public-schools-of-arkansas)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
 

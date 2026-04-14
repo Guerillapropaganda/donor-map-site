@@ -31,13 +31,13 @@ audit-a-plus-passed: "2026-04-11"
 
 ### Who They Are
 
-[[Mithril Capital|Mithril Capital]] Management is a growth-stage venture capital fund founded in 2012 by Ajay Royan with [[Peter Thiel|Peter Thiel]] as co-founder. The fund raised $402 million at launch with Thiel investing $100 million personally. Headquartered in Austin, Texas, Mithril operates as a long-term venture vehicle focused on companies "building valuable and lasting businesses" across sectors "long overdue for change." Thiel serves as chair of the investment committee while Royan functions as managing general partner, providing operational leadership. The fund has made approximately 79 investments across its lifecycle. [Mithril Capital - Wikipedia](https://en.wikipedia.org/wiki/Mithril_Capital) (Tier 2)
+[[Mithril Capital|Mithril Capital]] Management is a growth-stage venture capital fund founded in 2012 by Ajay Royan with [[Peter Thiel|Peter Thiel]] as co-founder. The fund raised $402 million at launch with Thiel investing $100 million personally. Headquartered in Austin, Texas, Mithril operates as a long-term venture vehicle focused on companies "building valuable and lasting businesses" across sectors "long overdue for change." Thiel serves as chair of the investment committee while Royan functions as managing general partner, providing operational leadership. The fund has made approximately 79 investments across its lifecycle. [Mithril Capital - Wikipedia](https://en.wikipedia.org/wiki/Mithril_Capital) (Tier 2) (VERIFIED)
 
 ---
 
 ### What They Want
 
-Mithril's explicitly stated thesis combines three layers: dual-use technologies serving defense and 16 critical infrastructure sectors; technology transfer from university research teams; and revenue clarity from federal marketplace procurement pathways. The fund targets companies at scale-up stage, beyond startup phase but before public markets. Portfolio construction prioritizes federal government as anchor customer, making defense contracts and intelligence agency relationships primary value drivers. [Mithril Capital - Building to Last](https://www.mithril.com/) (Tier 3)
+Mithril's explicitly stated thesis combines three layers: dual-use technologies serving defense and 16 critical infrastructure sectors; technology transfer from university research teams; and revenue clarity from federal marketplace procurement pathways. The fund targets companies at scale-up stage, beyond startup phase but before public markets. Portfolio construction prioritizes federal government as anchor customer, making defense contracts and intelligence agency relationships primary value drivers. [Mithril Capital - Building to Last](https://www.mithril.com/) (Tier 3) (VERIFIED)
 
 > [!money]
 > **The Federal Pathway:** Mithril's dual-use thesis explicitly chains academic innovation → federal procurement → commercial scale. This is technology pipeline design with government contracts as the guaranteed customer. Companies backed by Thiel's ideology, capitalized at scale, and positioned to bid for classified work.
@@ -51,10 +51,10 @@ Mithril's explicitly stated thesis combines three layers: dual-use technologies 
 - Helion Energy: Advanced nuclear/energy technology with defense applications. [Mithril Capital - Building to Last](https://www.mithril.com/) (Tier 3)
 
 ### Biotech & Medical Devices:
-- Auris Health: Surgical robotics. Acquired by Johnson & Johnson for $3.4 billion in 2019, generating $500+ million return for fund. [Mithril Capital Management – Info, Investments & Portfolio](https://vc-mapping.gilion.com/vc-firms/mithril-capital-management) (Tier 3)
-- Invivyd: Monoclonal antibody developer (Pemivibart). Royan rejoined board March 2025. [Invivyd Appoints Ajay Royan, Founder of Mithril Capital, to its Board of Directors](https://investors.adagiotx.com/news-releases/news-release-details/invivyd-appoints-ajay-royan-founder-mithril-capital-its-board/) (Tier 2)
-- Fractyl Health: Healthcare innovation. [Ajay Royan | Fractyl Health](https://www.fractyl.com/team/ajay-royan/) (Tier 3)
-- Adagio Therapeutics: Biotech company with dual-use potential. [Mithril Capital Management Portfolio Investments](https://www.cbinsights.com/investor/mithril-capital-management) (Tier 3)
+- Auris Health: Surgical robotics. Acquired by Johnson & Johnson for $3.4 billion in 2019, generating $500+ million return for fund. [Mithril Capital Management – Info, Investments & Portfolio](https://vc-mapping.gilion.com/vc-firms/mithril-capital-management) (Tier 3) (VERIFIED)
+- Invivyd: Monoclonal antibody developer (Pemivibart). Royan rejoined board March 2025. [Invivyd Appoints Ajay Royan, Founder of Mithril Capital, to its Board of Directors](https://investors.adagiotx.com/news-releases/news-release-details/invivyd-appoints-ajay-royan-founder-mithril-capital-its-board/) (Tier 2) (VERIFIED)
+- Fractyl Health: Healthcare innovation. [Ajay Royan | Fractyl Health](https://www.fractyl.com/team/ajay-royan/) (Tier 3) (VERIFIED)
+- Adagio Therapeutics: Biotech company with dual-use potential. [Mithril Capital Management Portfolio Investments](https://www.cbinsights.com/investor/mithril-capital-management) (Tier 3) (VERIFIED)
 
 ### Enterprise & Critical Infrastructure:
 - AppDirect: Software-as-a-service platform for service providers. [Mithril Capital Management – Info, Investments & Portfolio](https://vc-mapping.gilion.com/vc-firms/mithril-capital-management) (Tier 3)
@@ -99,14 +99,14 @@ Mithril sits within the broader Thiel venture ecosystem alongside [[Founders Fun
 
 - [Mithril Capital - Wikipedia](https://en.wikipedia.org/wiki/Mithril_Capital) (Tier 2)
 - [Mithril Capital - Building to Last](https://www.mithril.com/) (Tier 3)
-- [Peter Thiel - Mithril](https://www.mithril.com/our-founders/peter-thiel/) (Tier 3)
-- [Ajay Royan - Mithril](https://www.mithril.com/our-founders/ajay-royan/) (Tier 3)
-- [Mithril Capital – Info, Investments & Portfolio](https://vc-mapping.gilion.com/vc-firms/mithril-capital-management) (Tier 3)
-- [Mithril Capital Management - Crunchbase Company Profile & Funding](https://www.crunchbase.com/organization/mithril-capital-management) (Tier 3)
-- [Mithril Capital Management Portfolio Investments - CB Insights](https://www.cbinsights.com/investor/mithril-capital-management) (Tier 3)
+- [Peter Thiel - Mithril](https://www.mithril.com/our-founders/peter-thiel/) (Tier 3) (VERIFIED)
+- [Ajay Royan - Mithril](https://www.mithril.com/our-founders/ajay-royan/) (Tier 3) (VERIFIED)
+- [Mithril Capital – Info, Investments & Portfolio](https://vc-mapping.gilion.com/vc-firms/mithril-capital-management) (Tier 3) (VERIFIED)
+- ~~[Mithril Capital Management - Crunchbase Company Profile & Funding](https://www.crunchbase.com/organization/mithril-capital-management)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [Mithril Capital Management Portfolio Investments - CB Insights](https://www.cbinsights.com/investor/mithril-capital-management) (Tier 3) (VERIFIED)
 - [Invivyd Appoints Ajay Royan, Founder of Mithril Capital, to its Board of Directors](https://investors.adagiotx.com/news-releases/news-release-details/invivyd-appoints-ajay-royan-founder-mithril-capital-its-board/) (Tier 2)
 - [Ajay Royan | Fractyl Health](https://www.fractyl.com/team/ajay-royan/) (Tier 3)
-- [Mithril Capital's Ajay Royan Talks Auris, Peter Thiel and the VC Space - Fortune](https://fortune.com/2019/02/28/mithril-capital-ajay-royan-auris-health-peter-thiel/) (Tier 2)
+- [Mithril Capital's Ajay Royan Talks Auris, Peter Thiel and the VC Space - Fortune](https://fortune.com/2019/02/28/mithril-capital-ajay-royan-auris-health-peter-thiel/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -117,7 +117,7 @@ Mithril sits within the broader Thiel venture ecosystem alongside [[Founders Fun
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [254900QJNNCR8JK6LC36](https://search.gleif.org/#/record/254900QJNNCR8JK6LC36) |
+| LEI | [254900QJNNCR8JK6LC36](https://search.gleif.org/#/record/254900QJNNCR8JK6LC36) (VERIFIED) |
 | Legal Name | Mithril Capital s.r.o. |
 | Jurisdiction | CZ |
 | Entity Status | ACTIVE |
@@ -125,7 +125,7 @@ Mithril sits within the broader Thiel venture ecosystem alongside [[Founders Fun
 | Registration | ISSUED |
 | Last Updated | 2025-07-18T04:36:40Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Lobbying Activity
@@ -144,7 +144,7 @@ Mithril sits within the broader Thiel venture ecosystem alongside [[Founders Fun
 
 **Agencies contacted:** HOUSE OF REPRESENTATIVES, SENATE
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Mithril%20Capital) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Mithril%20Capital) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)
@@ -178,5 +178,5 @@ Mithril sits within the broader Thiel venture ecosystem alongside [[Founders Fun
 - Mithril Capital Management LLC v. McKellar (2019) — District Court, W.D. Texas
 - McKellar v. Mithril Capital Management LLC (2019) — District Court, N.D. California
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Mithril%20Capital%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Mithril%20Capital%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->

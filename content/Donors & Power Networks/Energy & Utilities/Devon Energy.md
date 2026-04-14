@@ -53,7 +53,7 @@ Devon Energy Corporation. One of the largest independent oil and gas producers i
 
 Devon PAC contributes $500,000-$1 million per cycle, with individual employee contributions and lobbying spending of $2-4 million annually. Devon's political significance is concentrated in Oklahoma, where the company is a major employer, taxpayer, and political donor, shaping the state's energy policy ecosystem.
 
-- [OpenSecrets: Devon Energy organizational profile](https://www.opensecrets.org/orgs/devon-energy/summary?id=D000021818) (Tier 1)
+- ~~[OpenSecrets: Devon Energy organizational profile](https://www.opensecrets.org/orgs/devon-energy/summary?id=D000021818)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -91,14 +91,14 @@ Favorable federal land leasing policies (expedited permitting, reduced royalty r
 
 **Agencies contacted:** HOUSE OF REPRESENTATIVES, Interior, Dept of (DOI), SENATE
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Devon%20Energy) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Devon%20Energy) (Tier 1) (VERIFIED)
 
 <!-- auto:lda-lobbying end -->
 
 ### Sources
 
 - [OpenSecrets: Devon Energy organizational profile](https://www.opensecrets.org/orgs/devon-energy/summary?id=D000021818) (Tier 1)
-- [Ballotpedia: Devon Energy](https://ballotpedia.org/Devon_Energy) (Tier 3)
+- [Ballotpedia: Devon Energy](https://ballotpedia.org/Devon_Energy) (Tier 3) (VERIFIED)
 
 ---
 
@@ -115,12 +115,12 @@ Favorable federal land leasing policies (expedited permitting, reduced royalty r
 
 The confirmation vote (54-45) included two Democratic crossovers: [[_John Fetterman Master Profile|Fetterman]] and Heinrich. The sole Republican no vote was Rand Paul.
 
-- [OpenSecrets: Trump Administration Profile - Markwayne Mullin](https://www.opensecrets.org/news/2026/03/trump-administration-profile-markwayne-mullin) (Tier 1)
-- [NPR: Markwayne Mullin Confirmed as DHS Secretary](https://www.npr.org/2026/03/23/g-s1-114813/markwayne-mullin-confirmed-homeland-security) (Tier 2)
-- [Newsweek: Mullin's Stock Portfolio Sparks Conflict of Interest Concerns](https://www.newsweek.com/markwayne-mullin-dhs-stock-trading-defense-11644758) (Tier 2)
-- [Benzinga: DHS Nominee Mullin Makes New Stock Trades](https://www.benzinga.com/news/politics/26/03/51176514/trump-ally-new-dhs-leader-nominee-markwayne-mullin-makes-new-stock-trades-heres-what-he-bought-sold) (Tier 2)
-- [OU Daily: Mullin Violates STOCK Act](https://www.oudaily.com/news/sen-markwayne-mullin-violates-stock-act-by-failing-to-report-years-of-stocks-trades/article_4b70eb4c-7b0f-48bf-b0ab-39bbdb2f6233.html) (Tier 2)
-- [CISA: Pipeline Cybersecurity](https://www.cisa.gov/resources-tools/programs/pipeline-cybersecurity) (Tier 1)
+- [OpenSecrets: Trump Administration Profile - Markwayne Mullin](https://www.opensecrets.org/news/2026/03/trump-administration-profile-markwayne-mullin) (Tier 1) (VERIFIED)
+- [NPR: Markwayne Mullin Confirmed as DHS Secretary](https://www.npr.org/2026/03/23/g-s1-114813/markwayne-mullin-confirmed-homeland-security) (Tier 2) (VERIFIED)
+- [Newsweek: Mullin's Stock Portfolio Sparks Conflict of Interest Concerns](https://www.newsweek.com/markwayne-mullin-dhs-stock-trading-defense-11644758) (Tier 2) (VERIFIED)
+- [Benzinga: DHS Nominee Mullin Makes New Stock Trades](https://www.benzinga.com/news/politics/26/03/51176514/trump-ally-new-dhs-leader-nominee-markwayne-mullin-makes-new-stock-trades-heres-what-he-bought-sold) (Tier 2) (VERIFIED)
+- [OU Daily: Mullin Violates STOCK Act](https://www.oudaily.com/news/sen-markwayne-mullin-violates-stock-act-by-failing-to-report-years-of-stocks-trades/article_4b70eb4c-7b0f-48bf-b0ab-39bbdb2f6233.html) (Tier 2) (VERIFIED)
+- [CISA: Pipeline Cybersecurity](https://www.cisa.gov/resources-tools/programs/pipeline-cybersecurity) (Tier 1) (VERIFIED)
 
 ---
 
@@ -185,7 +185,7 @@ The confirmation vote (54-45) included two Democratic crossovers: [[_John Fetter
 | Total Expenses | $0 |
 | Net Assets | $1 |
 
-- [Source: ProPublica Nonprofit Explorer - EIN 365040938](https://projects.propublica.org/nonprofits/organizations/365040938) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer - EIN 365040938](https://projects.propublica.org/nonprofits/organizations/365040938) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Vehicle Safety (NHTSA)
@@ -203,7 +203,7 @@ The confirmation vote (54-45) included two Democratic crossovers: [[_John Fetter
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Devon%20Energy) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Devon%20Energy) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Tax Filings (IRS 990)
@@ -221,10 +221,10 @@ The confirmation vote (54-45) included two Democratic crossovers: [[_John Fetter
 **Filing history:** 2023, 2022
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/365040938/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/365040938/2022)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/365040938/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/365040938/2022)~~ (URL broken, archived by Ops)
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/365040938) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/365040938) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Federal Register Activity
@@ -238,22 +238,22 @@ The confirmation vote (54-45) included two Democratic crossovers: [[_John Fetter
 | Agencies | Antitrust Division, Energy Department, Environmental Protection Agency, Federal Energy Regulatory Commission, Federal Trade Commission, Interior Department, Justice Department, Land Management Bureau +2 more |
 
 **Recent regulatory activity:**
-- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2026/02/19/2026-03244/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2026-02-19) - Federal Trade Commission
-- [Combined Notice of Filings #1](https://www.federalregister.gov/documents/2024/06/13/2024-12987/combined-notice-of-filings-1) (2024-06-13) - Energy Department
-- [Combined Notice of Filings #1](https://www.federalregister.gov/documents/2024/04/10/2024-07599/combined-notice-of-filings-1) (2024-04-10) - Energy Department
-- [The Enhancement and Standardization of Climate-Related Disclosures for Investors](https://www.federalregister.gov/documents/2024/03/28/2024-05137/the-enhancement-and-standardization-of-climate-related-disclosures-for-investors) (2024-03-28) - Securities and Exchange Commission
-- [Combined Notice of Filings #1](https://www.federalregister.gov/documents/2024/02/12/2024-02817/combined-notice-of-filings-1) (2024-02-12) - Energy Department
-- [Devon Energy Production Company, LP; Supplemental Notice That Initial Market-Based Rate Filing Includes Request for Blanket Section 204 Authorization](https://www.federalregister.gov/documents/2023/11/20/2023-25589/devon-energy-production-company-lp-supplemental-notice-that-initial-market-based-rate-filing) (2023-11-20) - Energy Department
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2026/02/19/2026-03244/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (VERIFIED) (2026-02-19) - Federal Trade Commission
+- [Combined Notice of Filings #1](https://www.federalregister.gov/documents/2024/06/13/2024-12987/combined-notice-of-filings-1) (VERIFIED) (2024-06-13) - Energy Department
+- [Combined Notice of Filings #1](https://www.federalregister.gov/documents/2024/04/10/2024-07599/combined-notice-of-filings-1) (VERIFIED) (2024-04-10) - Energy Department
+- [The Enhancement and Standardization of Climate-Related Disclosures for Investors](https://www.federalregister.gov/documents/2024/03/28/2024-05137/the-enhancement-and-standardization-of-climate-related-disclosures-for-investors) (VERIFIED) (2024-03-28) - Securities and Exchange Commission
+- [Combined Notice of Filings #1](https://www.federalregister.gov/documents/2024/02/12/2024-02817/combined-notice-of-filings-1) (VERIFIED) (2024-02-12) - Energy Department
+- [Devon Energy Production Company, LP; Supplemental Notice That Initial Market-Based Rate Filing Includes Request for Blanket Section 204 Authorization](https://www.federalregister.gov/documents/2023/11/20/2023-25589/devon-energy-production-company-lp-supplemental-notice-that-initial-market-based-rate-filing) (VERIFIED) (2023-11-20) - Energy Department
 - ... and 104 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Devon%20Energy%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Devon%20Energy%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [54930042348RKR3ZPN35](https://search.gleif.org/#/record/54930042348RKR3ZPN35) |
+| LEI | [54930042348RKR3ZPN35](https://search.gleif.org/#/record/54930042348RKR3ZPN35) (VERIFIED) |
 | Legal Name | DEVON ENERGY CORPORATION |
 | Jurisdiction | US-DE |
 | Entity Status | ACTIVE |
@@ -261,5 +261,5 @@ The confirmation vote (54-45) included two Democratic crossovers: [[_John Fetter
 | Registration | ISSUED |
 | Last Updated | 2026-03-11T18:07:58Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->

@@ -75,7 +75,7 @@ General Dynamics Corporation. The fifth-largest U.S. defense contractor by reven
 
 General Dynamics PAC contributes $2-3 million per cycle and the company spends $10-12 million annually on lobbying. CEO Phebe Novakovic earned $23.6 million in 2024 compensation.
 
-- [OpenSecrets: General Dynamics organizational profile](https://www.opensecrets.org/orgs/general-dynamics/summary?id=D000000165) (Tier 1)
+- [OpenSecrets: General Dynamics organizational profile](https://www.opensecrets.org/orgs/general-dynamics/summary?id=D000000165) (Tier 1) (VERIFIED)
 
 ---
 
@@ -117,10 +117,10 @@ The defense industrial base argument is the political cover. General Dynamics po
 ### Sources
 
 - [OpenSecrets: General Dynamics organizational profile](https://www.opensecrets.org/orgs/general-dynamics/summary?id=D000000165) (Tier 1)
-- [OpenSecrets: General Dynamics lobbying expenditures](https://www.opensecrets.org/orgs/general-dynamics/lobbying?id=D000000165) (Tier 1)
-- [Department of Defense: Columbia-class submarine program](https://www.navy.mil/Resources/Fact-Files/Display-FactFiles/Article/2169795/columbia-class-submarine/) (Tier 1)
-- [Defense News: General Dynamics submarine production and Navy budgets](https://www.defensenews.com/general-dynamics/) *(source unavailable)* (Tier 2)
-- [Ballotpedia: General Dynamics political spending](https://ballotpedia.org/General_Dynamics) (Tier 3)
+- [OpenSecrets: General Dynamics lobbying expenditures](https://www.opensecrets.org/orgs/general-dynamics/lobbying?id=D000000165) (Tier 1) (VERIFIED)
+- [Department of Defense: Columbia-class submarine program](https://www.navy.mil/Resources/Fact-Files/Display-FactFiles/Article/2169795/columbia-class-submarine/) (Tier 1) (NEEDS REVIEW)
+- ~~[Defense News: General Dynamics submarine production and Navy budgets](https://www.defensenews.com/general-dynamics/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+- [Ballotpedia: General Dynamics political spending](https://ballotpedia.org/General_Dynamics) (Tier 3) (VERIFIED)
 
 ---
 
@@ -141,10 +141,10 @@ The final FY2026 bill included **$58.8 million for 4 tanks** — reduced from th
 | 2024 | Cornerstone Gov Affairs (GD lobbying) to Britt | $43,000+ | Same earmark push — combined with PAC: $59K+ | Concurrent | Manufacturing at GD Anniston facility |
 | 2026-03 | $200B Iran supplemental requested | — | Expanded munitions and combat vehicle procurement expected | Pending | GD combat systems positioned for increased orders |
 
-- [Responsible Statecraft: Despite ban, pernicious military 'earmarks' are back in the billions](https://responsiblestatecraft.org/backdoor-earmarks-pentagon/) (Tier 2)
-- [Sen. Katie Britt: Advances key funding for Alabama in FY2026 defense bill](https://www.britt.senate.gov/news/press-releases/u-s-senator-katie-britt-advances-key-funding-for-alabama-in-senate-appropriations-committees-fiscal-year-2026-defense-bill/) (Tier 1)
-- [Calhoun Journal: Anniston to receive $219.8 million for Abrams tanks](https://calhounjournal.com/anniston-to-receive-219-8-million-for-abrams-tanks-in-defense-appropriations-bill/) (Tier 3)
-- [Breaking Defense: Pentagon FY27 budget request unclear if hitting $1.5 trillion](https://breakingdefense.com/2026/03/with-the-pentagons-fy27-budget-request-forthcoming-its-unclear-if-it-will-hit-1-5-trillion/) (Tier 2)
+- [Responsible Statecraft: Despite ban, pernicious military 'earmarks' are back in the billions](https://responsiblestatecraft.org/backdoor-earmarks-pentagon/) (Tier 2) (VERIFIED)
+- [Sen. Katie Britt: Advances key funding for Alabama in FY2026 defense bill](https://www.britt.senate.gov/news/press-releases/u-s-senator-katie-britt-advances-key-funding-for-alabama-in-senate-appropriations-committees-fiscal-year-2026-defense-bill/) (Tier 1) (VERIFIED)
+- [Calhoun Journal: Anniston to receive $219.8 million for Abrams tanks](https://calhounjournal.com/anniston-to-receive-219-8-million-for-abrams-tanks-in-defense-appropriations-bill/) (Tier 3) (VERIFIED)
+- [Breaking Defense: Pentagon FY27 budget request unclear if hitting $1.5 trillion](https://breakingdefense.com/2026/03/with-the-pentagons-fy27-budget-request-forthcoming-its-unclear-if-it-will-hit-1-5-trillion/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -170,8 +170,8 @@ The final FY2026 bill included **$58.8 million for 4 tanks** — reduced from th
 | Total Expenses | $209K |
 | Net Assets | $11K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 382421395](https://projects.propublica.org/nonprofits/organizations/382421395) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=03_2021_prefixes_37-42%2F382421395_201912_990O_2021031217796032.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 382421395](https://projects.propublica.org/nonprofits/organizations/382421395) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=03_2021_prefixes_37-42%2F382421395_201912_990O_2021031217796032.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Influence Network (Cross-Reference)
@@ -236,7 +236,7 @@ The final FY2026 bill included **$58.8 million for 4 tanks** — reduced from th
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=General%20Dynamics) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=General%20Dynamics) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -295,7 +295,7 @@ The final FY2026 bill included **$58.8 million for 4 tanks** — reduced from th
 | Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing (334511) | $1.6B |
 | Facilities Support Services (561210) | $1.5B |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 <!-- auto:usaspending-subawards pending-merge 2026-04-11 -->
@@ -389,7 +389,7 @@ The final FY2026 bill included **$58.8 million for 4 tanks** — reduced from th
 | $1.8M | Department of Defense | VALIDATION OF COGNITIVE ENHANCEMENT TECHNIQUES FOR MILD TRAUMATIC BRAIN INJURY (VOCET-MTBI). |
 | $1.2M | Department of Defense | TREATMENT INTERVENTIONS FOR THE MENTAL HEALTH NEEDS OF WARFIGHTERS WITH TRAUMATIC BRAIN INJURY (TIME |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/455555be-773d-eab1-1e6b-7b94400b757e-C/latest) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/455555be-773d-eab1-1e6b-7b94400b757e-C/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Federal Register Activity
@@ -403,15 +403,15 @@ The final FY2026 bill included **$58.8 million for 4 tanks** — reduced from th
 | Agencies | Antitrust Division, Coast Guard, Defense Department, Environmental Protection Agency, Homeland Security Department, Justice Department, Labor Department, Veterans Employment and Training Service |
 
 **Recent regulatory activity:**
-- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/03/17/2026-05141/arms-sales-notification) (2026-03-17) — Defense Department
-- [HIRE Vets Medallion Program-Announcement of HIRE Vets Medallion Award Recipients](https://www.federalregister.gov/documents/2026/03/10/2026-04653/hire-vets-medallion-program-announcement-of-hire-vets-medallion-award-recipients) (2026-03-10) — Labor Department
-- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Undersea Technology Innovation Consortium](https://www.federalregister.gov/documents/2026/02/23/2026-03544/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-undersea-technology) (2026-02-23) — Justice Department
-- [Air Plan Approval; Connecticut; Revised Format for Materials Incorporated by Reference](https://www.federalregister.gov/documents/2026/02/09/2026-02477/air-plan-approval-connecticut-revised-format-for-materials-incorporated-by-reference) (2026-02-09) — Environmental Protection Agency
-- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/02/02/2026-02077/arms-sales-notification) (2026-02-02) — Defense Department
-- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/01/26/2026-01337/arms-sales-notification) (2026-01-26) — Defense Department
+- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/03/17/2026-05141/arms-sales-notification) (VERIFIED) (2026-03-17) — Defense Department
+- [HIRE Vets Medallion Program-Announcement of HIRE Vets Medallion Award Recipients](https://www.federalregister.gov/documents/2026/03/10/2026-04653/hire-vets-medallion-program-announcement-of-hire-vets-medallion-award-recipients) (VERIFIED) (2026-03-10) — Labor Department
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Undersea Technology Innovation Consortium](https://www.federalregister.gov/documents/2026/02/23/2026-03544/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-undersea-technology) (VERIFIED) (2026-02-23) — Justice Department
+- [Air Plan Approval; Connecticut; Revised Format for Materials Incorporated by Reference](https://www.federalregister.gov/documents/2026/02/09/2026-02477/air-plan-approval-connecticut-revised-format-for-materials-incorporated-by-reference) (VERIFIED) (2026-02-09) — Environmental Protection Agency
+- ~~[Arms Sales Notification](https://www.federalregister.gov/documents/2026/02/02/2026-02077/arms-sales-notification)~~ (URL broken, archived by Ops) (2026-02-02) — Defense Department
+- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/01/26/2026-01337/arms-sales-notification) (VERIFIED) (2026-01-26) — Defense Department
 - ... and 380 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22General%20Dynamics%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22General%20Dynamics%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### SEC Filing Activity
@@ -425,13 +425,13 @@ The final FY2026 bill included **$58.8 million for 4 tanks** — reduced from th
 
 **Notable filings:**
 
-- 2026-03-27 — **ARS**: [ANNUAL REPORT TO SECURITY HOLDERS](https://www.sec.gov/Archives/edgar/data/40533/000130817926000173/0001308179-26-000173-index.htm)
-- 2026-03-27 — **DEFA14A**: [DEFINITIVE ADDITIONAL PROXY SOLICITING MATERIALS](https://www.sec.gov/Archives/edgar/data/40533/000130817926000170/0001308179-26-000170-index.htm)
-- 2026-03-27 — **DEF 14A**: [DEFINITIVE PROXY STATEMENT](https://www.sec.gov/Archives/edgar/data/40533/000130817926000168/0001308179-26-000168-index.htm)
-- 2026-03-26 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/40533/000010290926001320/0000102909-26-001320-index.htm)
-- 2026-03-19 — **4**: [4](https://www.sec.gov/Archives/edgar/data/40533/000138526226000008/0001385262-26-000008-index.htm)
+- 2026-03-27 — **ARS**: [ANNUAL REPORT TO SECURITY HOLDERS](https://www.sec.gov/Archives/edgar/data/40533/000130817926000173/0001308179-26-000173-index.htm) (VERIFIED)
+- 2026-03-27 — **DEFA14A**: [DEFINITIVE ADDITIONAL PROXY SOLICITING MATERIALS](https://www.sec.gov/Archives/edgar/data/40533/000130817926000170/0001308179-26-000170-index.htm) (VERIFIED)
+- 2026-03-27 — **DEF 14A**: [DEFINITIVE PROXY STATEMENT](https://www.sec.gov/Archives/edgar/data/40533/000130817926000168/0001308179-26-000168-index.htm) (VERIFIED)
+- 2026-03-26 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/40533/000010290926001320/0000102909-26-001320-index.htm) (VERIFIED)
+- 2026-03-19 — **4**: [4](https://www.sec.gov/Archives/edgar/data/40533/000138526226000008/0001385262-26-000008-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22General%20Dynamics%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22General%20Dynamics%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### FTC Enforcement & Merger Review
@@ -448,17 +448,17 @@ The final FY2026 bill included **$58.8 million for 4 tanks** — reduced from th
 
 **Recent enforcement actions (historical):**
 
-- [General Dynamics OTS (Aerospace), inc. / SNC Technologies Inc.](http://www.ftc.gov/os/caselist/0610150/index.shtm) (2006-12-28) — Defense � Ammunitions
+- ~~[General Dynamics OTS (Aerospace), inc. / SNC Technologies Inc.](http://www.ftc.gov/os/caselist/0610150/index.shtm)~~ (URL broken, archived by Ops) (2006-12-28) — Defense � Ammunitions
 
 **Recent HSR merger filings (early terminations granted):**
 
-- [General Dynamics Corporation → Medico Industries, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20201190) (2020-07-13)
-- [Odyssey Investment Partners Fund V, LP → General Dynamics Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20191792) (2020-06-04)
-- [CACI International Inc. → General Dynamics Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20181671) (2018-08-06)
-- [Marlin Equity IV, L.P. → General Dynamics Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20150824) (2015-04-13)
-- [General Dynamics Corporation → Jerrold L. Miller](https://www.ftc.gov/legal-library/browse/early-termination-notices/20120995) (2012-06-27)
+- [General Dynamics Corporation → Medico Industries, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20201190) (VERIFIED) (2020-07-13)
+- [Odyssey Investment Partners Fund V, LP → General Dynamics Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20191792) (VERIFIED) (2020-06-04)
+- [CACI International Inc. → General Dynamics Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20181671) (VERIFIED) (2018-08-06)
+- [Marlin Equity IV, L.P. → General Dynamics Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20150824) (VERIFIED) (2015-04-13)
+- [General Dynamics Corporation → Jerrold L. Miller](https://www.ftc.gov/legal-library/browse/early-termination-notices/20120995) (VERIFIED) (2012-06-27)
 
-> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=General%20Dynamics).
+> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=General%20Dynamics) (VERIFIED).
 
-- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=General%20Dynamics) (Tier 1)
+- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=General%20Dynamics) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->

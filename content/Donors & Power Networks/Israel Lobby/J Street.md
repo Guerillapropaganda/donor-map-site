@@ -128,13 +128,13 @@ Domestic — campus free speech, antisemitism definition debates (opposes confla
 
 ### Sources
 
-- [OpenSecrets: J Street organization profile](https://www.opensecrets.org/orgs/j-street/summary?id=D000052457) (Tier 1)
-- [OpenSecrets: JStreetPAC 2024 profile](https://www.opensecrets.org/political-action-committees-pacs/jstreetpac/C00441949/summary/2024) (Tier 1)
-- [JStreetPAC: Our Work in 2024](https://jstreetpac.org/our-work-2024/) (Tier 3)
-- [Forward: J Street seeks elusive middle ground in 2026 primaries](https://forward.com/news/812101/j-street-aipac-israel-congress-2026/) (Tier 2)
-- [InfluenceWatch: J Street profile](https://www.influencewatch.org/non-profit/j-street/) (Tier 3)
-- [The Intercept: The wax and wane of J Street's influence](https://theintercept.com/2019/12/14/j-street-israel-jeremy-ben-ami/) (Tier 2)
-- [Wikipedia: J Street](https://en.wikipedia.org/wiki/J_Street) (Tier 3)
+- ~~[OpenSecrets: J Street organization profile](https://www.opensecrets.org/orgs/j-street/summary?id=D000052457)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: JStreetPAC 2024 profile](https://www.opensecrets.org/political-action-committees-pacs/jstreetpac/C00441949/summary/2024)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [JStreetPAC: Our Work in 2024](https://jstreetpac.org/our-work-2024/) (Tier 3) (VERIFIED)
+- [Forward: J Street seeks elusive middle ground in 2026 primaries](https://forward.com/news/812101/j-street-aipac-israel-congress-2026/) (Tier 2) (VERIFIED)
+- [InfluenceWatch: J Street profile](https://www.influencewatch.org/non-profit/j-street/) (Tier 3) (VERIFIED)
+- [The Intercept: The wax and wane of J Street's influence](https://theintercept.com/2019/12/14/j-street-israel-jeremy-ben-ami/) (Tier 2) (VERIFIED)
+- [Wikipedia: J Street](https://en.wikipedia.org/wiki/J_Street) (Tier 3) (VERIFIED)
 
 ---
 
@@ -149,7 +149,7 @@ Domestic — campus free speech, antisemitism definition debates (opposes confla
 | Net Assets | $4.5M |
 | Officer Compensation | $139K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 261507828](https://projects.propublica.org/nonprofits/organizations/261507828) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 261507828](https://projects.propublica.org/nonprofits/organizations/261507828) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### DOJ Press Releases

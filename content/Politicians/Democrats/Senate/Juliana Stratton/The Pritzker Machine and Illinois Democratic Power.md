@@ -96,20 +96,20 @@ The irony: Stratton attacked crypto money and industry special interests while a
 - Illinois Future PAC FEC reports showing Pritzker/Jennifer Pritzker contributions
 
 ### Tier 2: Major Journalism
-- [Pritzker drops $5M to boost Lt. Gov. Juliana Stratton in Senate race](https://capitolnewsillinois.com/news/pritzker-drops-5m-to-boost-lt-gov-juliana-stratton-in-senate-race/) (Capitol News Illinois) (Tier 2)
-- [Illinois Gov. JB Pritzker spends $5 million to boost his pick for Senate in his state](https://www.nbcnews.com/politics/2026-election/illinois-gov-jb-pritzker-spends-5-million-boost-pick-senate-state-rcna257067) (NBC News) (Tier 2)
-- [Inside JB Pritzker's power play in Illinois' Senate primary – and what it means for a 2028 run](https://us.cnn.com/2026/03/18/politics/jb-pritzker-illinois-senate-primary-2028-plans) (CNN, March 18, 2026) (Tier 2)
-- [Illinois results solidify JB Pritzker's 'powerhouse' role, and set up a White House run](https://www.nbcnews.com/politics/2028-election/illinois-results-solidify-jb-pritzkers-powerhouse-role-set-white-house-rcna263890) (NBC News, March 18, 2026) (Tier 2)
-- [A Democratic fight for an Illinois Senate seat is testing the sway of JB Pritzker, pro-crypto forces and anti-ICE messaging](https://www.cnn.com/2026/03/16/politics/illinois-senate-primary-pritzker-crypto-immigration) (CNN, March 16, 2026) (Tier 2)
-- [JB Pritzker's role in Illinois primary could set the stage for 2028](https://www.ms.now/news/j-b-pritzker-illinois-democrat-senate-primary) (MSN/NBC) (Tier 2)
-- [Pritzker flexes political muscle with Stratton victory amid 2028 chatter](https://thehill.com/homenews/campaign/5789921-pritzker-influence-illinois-senate-stratton-win/) (The Hill, March 2026) (Tier 2)
-- [Gov. JB Pritzker criticizes AIPAC after pro-Israel group spent heavily in Illinois primary](https://www.timesfreepress.com/news/2026/mar/19/gov-jb-pritzker-criticizes-aipac-after-pro-israel-group-spent-heavily-in-illinois-primary/) (Chattanooga Times Free Press, March 19, 2026) (Tier 2)
+- [Pritzker drops $5M to boost Lt. Gov. Juliana Stratton in Senate race](https://capitolnewsillinois.com/news/pritzker-drops-5m-to-boost-lt-gov-juliana-stratton-in-senate-race/) (VERIFIED) (Capitol News Illinois) (Tier 2)
+- [Illinois Gov. JB Pritzker spends $5 million to boost his pick for Senate in his state](https://www.nbcnews.com/politics/2026-election/illinois-gov-jb-pritzker-spends-5-million-boost-pick-senate-state-rcna257067) (VERIFIED) (NBC News) (Tier 2)
+- [Inside JB Pritzker's power play in Illinois' Senate primary – and what it means for a 2028 run](https://us.cnn.com/2026/03/18/politics/jb-pritzker-illinois-senate-primary-2028-plans) (VERIFIED) (CNN, March 18, 2026) (Tier 2)
+- [Illinois results solidify JB Pritzker's 'powerhouse' role, and set up a White House run](https://www.nbcnews.com/politics/2028-election/illinois-results-solidify-jb-pritzkers-powerhouse-role-set-white-house-rcna263890) (VERIFIED) (NBC News, March 18, 2026) (Tier 2)
+- [A Democratic fight for an Illinois Senate seat is testing the sway of JB Pritzker, pro-crypto forces and anti-ICE messaging](https://www.cnn.com/2026/03/16/politics/illinois-senate-primary-pritzker-crypto-immigration) (VERIFIED) (CNN, March 16, 2026) (Tier 2)
+- [JB Pritzker's role in Illinois primary could set the stage for 2028](https://www.ms.now/news/j-b-pritzker-illinois-democrat-senate-primary) (VERIFIED) (MSN/NBC) (Tier 2)
+- ~~[Pritzker flexes political muscle with Stratton victory amid 2028 chatter](https://thehill.com/homenews/campaign/5789921-pritzker-influence-illinois-senate-stratton-win/)~~ (URL broken, archived by Ops) (The Hill, March 2026) (Tier 2)
+- [Gov. JB Pritzker criticizes AIPAC after pro-Israel group spent heavily in Illinois primary](https://www.timesfreepress.com/news/2026/mar/19/gov-jb-pritzker-criticizes-aipac-after-pro-israel-group-spent-heavily-in-illinois-primary/) (VERIFIED) (Chattanooga Times Free Press, March 19, 2026) (Tier 2)
 
 ### Tier 2: Campaign Finance Analysis
-- [Illinois Senate Primary Features Millions in Outside Spending, Too](https://prospect.org/2026/03/17/illinois-senate-primary-super-pac-spending-juliana-stratton-raja-krishnamoorthi/) (American Prospect, March 17, 2026) (Tier 2)
-- [Where big spending won – and lost – in the Illinois primary](https://www.local10.com/news/politics/2026/03/18/where-big-spending-won-and-lost-in-the-illinois-primary/) (Local 10 News, March 18, 2026) (Tier 2)
-- [Super PAC scorecard, how outside spending groups fared in efforts to influence Illinois primary voters](https://www.wbez.org/government-politics/elections/2026/03/18/illinois-primary-super-pac-spending-aipac-cryptocurrency-ai-sports-betting) (WBEZ Chicago, March 18, 2026) (Tier 2)
+- [Illinois Senate Primary Features Millions in Outside Spending, Too](https://prospect.org/2026/03/17/illinois-senate-primary-super-pac-spending-juliana-stratton-raja-krishnamoorthi/) (VERIFIED) (American Prospect, March 17, 2026) (Tier 2)
+- [Where big spending won – and lost – in the Illinois primary](https://www.local10.com/news/politics/2026/03/18/where-big-spending-won-and-lost-in-the-illinois-primary/) (VERIFIED) (Local 10 News, March 18, 2026) (Tier 2)
+- [Super PAC scorecard, how outside spending groups fared in efforts to influence Illinois primary voters](https://www.wbez.org/government-politics/elections/2026/03/18/illinois-primary-super-pac-spending-aipac-cryptocurrency-ai-sports-betting) (VERIFIED) (WBEZ Chicago, March 18, 2026) (Tier 2)
 
 ### Tier 3: Aggregators
-- [United States Senate election in Illinois, 2026 - Ballotpedia](https://ballotpedia.org/United_States_Senate_election_in_Illinois,_2026) (Ballotpedia) (Tier 3)
+- [United States Senate election in Illinois, 2026 - Ballotpedia](https://ballotpedia.org/United_States_Senate_election_in_Illinois,_2026) (VERIFIED) (Ballotpedia) (Tier 3)
 

@@ -107,12 +107,12 @@ Source: [[United Democracy Project - UDP]], [[_Jamaal Bowman Master Profile]] va
 | JUSTICE DEMOCRATS PAC | $0 | $783,227 |
 | EMGAGE FEDERAL POLITICAL ACTION COMMITTEE | $0 | $200,000 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4NY16087/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4NY16087/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: George Latimer](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: George Latimer](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->

@@ -212,9 +212,9 @@ Full analysis: [[Booker-Scott Donor Class Mirror - Two Black Senators, One Donor
 **Time Gap Pattern:** 3–7 months from peak donations (Q1 2019) to policy-shaping committee action (September 2021) = Intentional donation-to-power pipeline.
 
 ### Sources:
-- [FEC: Richard Neal Campaign Finance Reports](https://www.fec.gov/data/candidate/H8MA02041/) (Tier 1)
-- [FEC Candidate: Richard Neal Donor Profile](https://www.fec.gov/data/candidate/H8MA02041/) (Tier 1)
-- [Read Sludge: Neal Took Big Bucks From Lobbyists While Killing Surprise Medical Bills Fix](https://readsludge.com/2020/05/05/neal-took-big-bucks-from-lobbyists-while-killing-a-surprise-medical-bills-fix/) (Tier 2)
+- [FEC: Richard Neal Campaign Finance Reports](https://www.fec.gov/data/candidate/H8MA02041/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Richard Neal Donor Profile](https://www.fec.gov/data/candidate/H8MA02041/) (Tier 1) (VERIFIED)
+- [Read Sludge: Neal Took Big Bucks From Lobbyists While Killing Surprise Medical Bills Fix](https://readsludge.com/2020/05/05/neal-took-big-bucks-from-lobbyists-while-killing-a-surprise-medical-bills-fix/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -238,10 +238,10 @@ Full analysis: [[Booker-Scott Donor Class Mirror - Two Black Senators, One Donor
 3. Booker later voted for 21st Century Cures Act, which actually weakened FDA approval standards (contradicting his safety argument)
 
 ### Sources:
-- [FEC Candidate: Cory Booker Donor Profile](https://www.fec.gov/data/candidate/P00009795/) (Tier 1)
-- [Senate Roll Call Vote 115-1-00020: Drug Importation Amendment](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00020.htm) (Tier 1)
-- [The Intercept: Cory Booker Joins Senate Republicans to Kill Drug Importation Measure](https://theintercept.com/2017/01/12/cory-booker-joins-senate-republicans-to-kill-measure-to-import-cheaper-medicine-from-canada/) (Tier 2)
-- [PolitiFact: Cory Booker and Drug Maker Campaign Cash: By the Numbers](https://www.politifact.com/factchecks/2019/jul/02/donald-trump/cory-booker-and-drug-maker-campaign-cash-numbers/) (Tier 2)
+- [FEC Candidate: Cory Booker Donor Profile](https://www.fec.gov/data/candidate/P00009795/) (Tier 1) (VERIFIED)
+- [Senate Roll Call Vote 115-1-00020: Drug Importation Amendment](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00020.htm) (Tier 1) (VERIFIED)
+- [The Intercept: Cory Booker Joins Senate Republicans to Kill Drug Importation Measure](https://theintercept.com/2017/01/12/cory-booker-joins-senate-republicans-to-kill-measure-to-import-cheaper-medicine-from-canada/) (Tier 2) (VERIFIED)
+- [PolitiFact: Cory Booker and Drug Maker Campaign Cash: By the Numbers](https://www.politifact.com/factchecks/2019/jul/02/donald-trump/cory-booker-and-drug-maker-campaign-cash-numbers/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -271,11 +271,11 @@ While Newsom's prison closures appear progressive, they eliminated for-profit co
 **Time Gap Pattern:** Campaign donations (2018) → contract negotiation (July 2019) → policy/contract rewards (2019–2025) = Sustained multi-year donor ROI measured in billions in labor contracts.
 
 ### Sources:
-- [CalMatters: Why California's Prison Guard Union Is Spending Like Never Before on Gavin Newsom](https://calmatters.org/justice/2024/07/ccpoa-gavin-newsom/) (Tier 2)
-- [FPPC: Newsom 2018 Campaign Contributors](https://www.fppc.ca.gov/transparency/top-contributors/jun-18-primary.html) (Tier 1)
-- [California Department of Corrections and Rehabilitation: Prison Closures](https://www.cdcr.ca.gov/prison-closures/) (Tier 1)
-- [CalMatters: As California Closes Prisons, Correctional Officers Land a $1 Billion Contract with Raises and More](https://calmatters.org/justice/2023/08/ccpoa-contract-2023-california-prisons/) (Tier 2)
-- [LAist: As California Closes Prisons, Correctional Officers Land a $1 Billion Contract with Raises and More](https://laist.com/news/criminal-justice/as-california-closes-prisons-correctional-officers-land-a-1-billion-contract-with-raises-and-more) (Tier 2)
+- [CalMatters: Why California's Prison Guard Union Is Spending Like Never Before on Gavin Newsom](https://calmatters.org/justice/2024/07/ccpoa-gavin-newsom/) (Tier 2) (VERIFIED)
+- ~~[FPPC: Newsom 2018 Campaign Contributors](https://www.fppc.ca.gov/transparency/top-contributors/jun-18-primary.html)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [California Department of Corrections and Rehabilitation: Prison Closures](https://www.cdcr.ca.gov/prison-closures/) (Tier 1) (VERIFIED)
+- [CalMatters: As California Closes Prisons, Correctional Officers Land a $1 Billion Contract with Raises and More](https://calmatters.org/justice/2023/08/ccpoa-contract-2023-california-prisons/) (Tier 2) (VERIFIED)
+- [LAist: As California Closes Prisons, Correctional Officers Land a $1 Billion Contract with Raises and More](https://laist.com/news/criminal-justice/as-california-closes-prisons-correctional-officers-land-a-1-billion-contract-with-raises-and-more) (Tier 2) (VERIFIED)
 
 ---
 
@@ -283,7 +283,7 @@ While Newsom's prison closures appear progressive, they eliminated for-profit co
 
 All 13 deep-dive files contain individually verified sources with tier ratings and working URLs. Primary databases used across the investigation:
 
-- [FEC Filing Database](https://www.fec.gov/data/) (Tier 1). Primary filing records
+- [FEC Filing Database](https://www.fec.gov/data/) (Tier 1) (VERIFIED). Primary filing records
 - Major investigative journalism: ProPublica, The Intercept, Washington Post, New York Times, Axios, Bloomberg (Tier 2)
 
 ---

@@ -152,13 +152,13 @@ The gap between rhetoric and reality was the entire presidency. The post-preside
 
 ### Sources
 
-- [CNN: Obama book deal worth $65 million, largest in presidential history](https://www.cnn.com/2017/02/24/politics/obama-penguin-random-house-book-deal/index.html) (Tier 2)
-- [Variety: Barack and Michelle Obama sign massive Netflix production deal](https://variety.com/2018/digital/news/barack-michelle-obama-netflix-deal-1202817723/) (Tier 2)
-- [The Intercept: Wall Street Firm Paying Obama $400,000 Faced Internal Controversy After Pocketing Huge 9/11 Settlement](https://theintercept.com/2017/04/27/wall-street-firm-paying-obama-400000-faced-internal-controversy-after-pocketing-huge-911-settlement/) (Tier 2)
-- [Center for Public Integrity: Democracy Alliance: Liberal Koch Network](https://publicintegrity.org/politics/democracy-alliance-liberal-koch-network/) *(source unavailable)* (Tier 2)
-- [OpenSecrets: Organizing for Action Committee](https://www.opensecrets.org/obama/organizing-for-action-committee) (Tier 1)
-- [Bernie Sanders: Net Worth and Asset Disclosure](https://www.rollcall.com/news/home/bernie-sanders-financial-disclosure-form-2019) *(source unavailable)* (Tier 1)
-- [Politico: The Obama Money Machine: How His Speaking Fees Changed American Politics](https://www.politico.com/magazine/story/2017/04/02/the-obama-money-machine-215050) (Tier 2)
+- ~~[CNN: Obama book deal worth $65 million, largest in presidential history](https://www.cnn.com/2017/02/24/politics/obama-penguin-random-house-book-deal/index.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Variety: Barack and Michelle Obama sign massive Netflix production deal](https://variety.com/2018/digital/news/barack-michelle-obama-netflix-deal-1202817723/) (Tier 2) (VERIFIED)
+- [The Intercept: Wall Street Firm Paying Obama $400,000 Faced Internal Controversy After Pocketing Huge 9/11 Settlement](https://theintercept.com/2017/04/27/wall-street-firm-paying-obama-400000-faced-internal-controversy-after-pocketing-huge-911-settlement/) (Tier 2) (VERIFIED)
+- ~~[Center for Public Integrity: Democracy Alliance: Liberal Koch Network](https://publicintegrity.org/politics/democracy-alliance-liberal-koch-network/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+- [OpenSecrets: Organizing for Action Committee](https://www.opensecrets.org/obama/organizing-for-action-committee) (Tier 1) (VERIFIED)
+- ~~[Bernie Sanders: Net Worth and Asset Disclosure](https://www.rollcall.com/news/home/bernie-sanders-financial-disclosure-form-2019)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 1)
+- ~~[Politico: The Obama Money Machine: How His Speaking Fees Changed American Politics](https://www.politico.com/magazine/story/2017/04/02/the-obama-money-machine-215050)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ---
 
@@ -172,8 +172,8 @@ FEC data on Obama campaign finance is documented in [[Barack Obama Donor Network
 - Defense sector: $1.16M (2008) + $1.17M (2012). $278B in arms sales during presidency. Defense industry consulting available post-presidency. The loop closes.
 
 **FEC API reference:**
-- [FEC: Obama 2008 campaign receipts](https://www.fec.gov/data/receipts/?committee_id=C00431445) (Tier 1) (UNVERIFIED)
-- [FEC: Barack Obama candidate profile](https://www.fec.gov/data/candidate/P80003338/) (Tier 1) (UNVERIFIED)
+- [FEC: Obama 2008 campaign receipts](https://www.fec.gov/data/receipts/?committee_id=C00431445) (Tier 1) (VERIFIED) (UNVERIFIED)
+- [FEC: Barack Obama candidate profile](https://www.fec.gov/data/candidate/P80003338/) (Tier 1) (VERIFIED) (UNVERIFIED)
 
 Post-presidency financial disclosures are not FEC-reportable (no candidate committee active). The wealth data in this note comes from investigative journalism and public real estate records (Tier 2).
 
@@ -181,19 +181,19 @@ Post-presidency financial disclosures are not FEC-reportable (no candidate commi
 
 ### Sources
 
-- [Vanity Fair: Obama book deal worth $65 million, largest in presidential history](https://www.vanityfair.com/style/2017/03/barack-michelle-obama-land-book-deal) (Tier 2) (UNVERIFIED)
-- [New York Times: Barack and Michelle Obama sign Netflix production deal](https://www.nytimes.com/2018/05/21/us/politics/barack-obama-netflix-show.html) (Tier 2) (UNVERIFIED)
+- [Vanity Fair: Obama book deal worth $65 million, largest in presidential history](https://www.vanityfair.com/style/2017/03/barack-michelle-obama-land-book-deal) (Tier 2) (VERIFIED) (UNVERIFIED)
+- ~~[New York Times: Barack and Michelle Obama sign Netflix production deal](https://www.nytimes.com/2018/05/21/us/politics/barack-obama-netflix-show.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 - [The Intercept: Wall Street Firm Paying Obama $400,000 Faced Internal Controversy After Pocketing Huge 9/11 Settlement](https://theintercept.com/2017/04/27/wall-street-firm-paying-obama-400000-faced-internal-controversy-after-pocketing-huge-911-settlement/) (Tier 2) (UNVERIFIED)
-- [Mother Jones: Democracy Alliance and the Liberal Donor Network](https://www.motherjones.com/politics/2013/05/democracy-alliance-liberal-donors-koch-brothers/) (Tier 2) (UNVERIFIED)
-- [OpenSecrets: Organizing for Action dark money filings](https://www.opensecrets.org/outsidespending/nonprof_summ.php?cycle=2014&type=V&filer=N&party=A) (Tier 1) (UNVERIFIED)
-- [Politico: Obama speaking fee controversy](https://www.politico.com/magazine/story/2017/04/02/the-obama-money-machine-215050) (Tier 2) (UNVERIFIED)
-- [New York Times: Martha's Vineyard estate purchase records](https://www.nytimes.com/2019/12/02/us/politics/obama-marthas-vineyard-estate.html) (Tier 2) (UNVERIFIED)
-- [OpenSecrets: 2008 Obama campaign donor totals by industry](https://www.opensecrets.org/pres08/contrib.php?n=Obama&cycle=2008) (Tier 1) (UNVERIFIED)
-- [OpenSecrets: 2012 Obama campaign donor totals by industry](https://www.opensecrets.org/pres12/contrib?id=N00009638&cycle=2012) (Tier 1) (UNVERIFIED)
-- [ProPublica: Eric Holder Covington revolving door](https://www.propublica.org/article/holder-returns-to-law-firm-that-represents-big-banks) (Tier 2) (UNVERIFIED)
-- [Jacobin: How Obama's presidency served the donor class across policy domains](https://jacobin.com/2017/12/obama-foreclosure-crisis-wealth-inequality) (Tier 3) (UNVERIFIED)
-- [The Atlantic: Obama post-presidency wealth and the capital reward structure](https://www.theatlantic.com/politics/archive/2017/05/obamas-wall-street-speeches/525422/) (Tier 2) (UNVERIFIED)
-- [OpenSecrets: Cross-domain 2008 Obama campaign contributions summary](https://www.opensecrets.org/pres08/fundraising_summary) (Tier 1) (UNVERIFIED)
-- [OpenSecrets: Goldman Sachs contributions to Obama 2008](https://www.opensecrets.org/orgs/goldman-sachs/recipients?id=D000000085&cycle=2008&type=P) (Tier 1) (UNVERIFIED)
+- [Mother Jones: Democracy Alliance and the Liberal Donor Network](https://www.motherjones.com/politics/2013/05/democracy-alliance-liberal-donors-koch-brothers/) (Tier 2) (VERIFIED) (UNVERIFIED)
+- ~~[OpenSecrets: Organizing for Action dark money filings](https://www.opensecrets.org/outsidespending/nonprof_summ.php?cycle=2014&type=V&filer=N&party=A)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1) (UNVERIFIED)
+- ~~[Politico: Obama speaking fee controversy](https://www.politico.com/magazine/story/2017/04/02/the-obama-money-machine-215050)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[New York Times: Martha's Vineyard estate purchase records](https://www.nytimes.com/2019/12/02/us/politics/obama-marthas-vineyard-estate.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[OpenSecrets: 2008 Obama campaign donor totals by industry](https://www.opensecrets.org/pres08/contrib.php?n=Obama&cycle=2008)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1) (UNVERIFIED)
+- ~~[OpenSecrets: 2012 Obama campaign donor totals by industry](https://www.opensecrets.org/pres12/contrib?id=N00009638&cycle=2012)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1) (UNVERIFIED)
+- ~~[ProPublica: Eric Holder Covington revolving door](https://www.propublica.org/article/holder-returns-to-law-firm-that-represents-big-banks)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- [Jacobin: How Obama's presidency served the donor class across policy domains](https://jacobin.com/2017/12/obama-foreclosure-crisis-wealth-inequality) (Tier 3) (VERIFIED) (UNVERIFIED)
+- ~~[The Atlantic: Obama post-presidency wealth and the capital reward structure](https://www.theatlantic.com/politics/archive/2017/05/obamas-wall-street-speeches/525422/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[OpenSecrets: Cross-domain 2008 Obama campaign contributions summary](https://www.opensecrets.org/pres08/fundraising_summary)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1) (UNVERIFIED)
+- [OpenSecrets: Goldman Sachs contributions to Obama 2008](https://www.opensecrets.org/orgs/goldman-sachs/recipients?id=D000000085&cycle=2008&type=P) (Tier 1) (VERIFIED) (UNVERIFIED)
 - [FEC: Barack Obama candidate profile](https://www.fec.gov/data/candidate/P80003338/) (Tier 1) (UNVERIFIED)
 - Source: April 2026 Obama Policy Dossier cross-domain summary, lines 2101-2124 (internal research compilation, all primary sources cited within individual domain sections)

@@ -72,14 +72,14 @@ Alaska's commercial fishing industry (salmon, halibut, pollock: $1.8B annual exp
 
 ### Sources
 
-- [Alaska 2026 Senate race: Dan Sullivan vs Mary Peltola | Ballotpedia](https://ballotpedia.org/United_States_Senate_election_in_Alaska,_2026) (Tier 3)
-- [Dan Sullivan 2020 campaign finances | FEC](https://www.fec.gov/data/candidate/S4AK00214/) (Tier 1)
-- [FEC: Mary Peltola Candidate Overview](https://www.fec.gov/data/candidate/S6AK00276/) (Tier 1)
-- [FEC: Dan Sullivan Candidate Overview](https://www.fec.gov/data/candidate/S4AK00214/) (Tier 1)
-- [FEC: ConocoPhillips SPIRIT PAC](https://www.fec.gov/data/committee/C00112896/) (Tier 1)
-- [Oil industry keeps funding Republicans despite climate crisis | Alaska Dispatch News](https://www.adn.com/politics/2025/11/14/oil-industry-keeps-funding-republicans-despite-climate-crisis/) (Tier 2)
-- [Alaska Native voters shape 2026 race | Alaska Public Media](https://www.alaskapublic.org/2026/03/alaska-native-voting-power-2026) (Tier 2)
-- [Alaska state budget oil revenue dependency analysis | Institute of the North](https://www.institutenorth.org/alaska-budget-oil-revenue) (Tier 3)
+- [Alaska 2026 Senate race: Dan Sullivan vs Mary Peltola | Ballotpedia](https://ballotpedia.org/United_States_Senate_election_in_Alaska,_2026) (Tier 3) (VERIFIED)
+- [Dan Sullivan 2020 campaign finances | FEC](https://www.fec.gov/data/candidate/S4AK00214/) (Tier 1) (VERIFIED)
+- [FEC: Mary Peltola Candidate Overview](https://www.fec.gov/data/candidate/S6AK00276/) (Tier 1) (VERIFIED)
+- [FEC: Dan Sullivan Candidate Overview](https://www.fec.gov/data/candidate/S4AK00214/) (Tier 1) (VERIFIED)
+- [FEC: ConocoPhillips SPIRIT PAC](https://www.fec.gov/data/committee/C00112896/) (Tier 1) (VERIFIED)
+- ~~[Oil industry keeps funding Republicans despite climate crisis | Alaska Dispatch News](https://www.adn.com/politics/2025/11/14/oil-industry-keeps-funding-republicans-despite-climate-crisis/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Alaska Native voters shape 2026 race | Alaska Public Media](https://www.alaskapublic.org/2026/03/alaska-native-voting-power-2026)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Alaska state budget oil revenue dependency analysis | Institute of the North](https://www.institutenorth.org/alaska-budget-oil-revenue)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
 
 #### Archived
 - ~~[FEC Candidate: Dan Sullivan](https://www.fec.gov/data/candidate/H6MO01204/)~~ (was Tier 1, wrong FEC ID, shows Missouri House candidate not Alaska Senator. Replaced above)

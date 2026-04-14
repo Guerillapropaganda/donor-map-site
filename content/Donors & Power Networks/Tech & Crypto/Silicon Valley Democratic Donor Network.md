@@ -149,12 +149,12 @@ The 2024-2025 fracture exposed the network's contingent nature. The unified anti
 
 ### Sources
 
-- [OpenSecrets: Dustin Moskovitz donor profile](https://www.opensecrets.org/donor-lookup/results?name=Dustin+Moskovitz) (Tier 1)
-- [Fortune: "From Elon Musk to Reid Hoffman, where Silicon Valley is spending its millions"](https://fortune.com/2024/09/25/silicon-valley-political-donations-elon-musk-peter-thiel-reid-hoffman/) (Tier 2)
-- [NBC News: "Billionaires poured millions of dollars into presidential super PACs in August"](https://www.nbcnews.com/politics/2024-election/billionaires-millions-dollars-super-pac-august-fec-filings-rcna172097) (Tier 2)
-- [Brennan Center for Justice: "Megadonors Playing Larger Role in Presidential Race"](https://www.brennancenter.org/our-work/analysis-opinion/megadonors-playing-larger-role-presidential-race-fec-data-shows) (Tier 2)
-- [SF Standard: "Major Silicon Valley Democratic donors have kept wallets closed"](https://sfstandard.com/2025/08/08/major-silicon-valley-democratic-donors-have-kept-their-wallets-closed-year/) (Tier 2)
-- [American Immigration Council: "H-1B Visa Program Overview"](https://www.americanimmigrationcouncil.org/research/h-1b-visa-program-overview) (Tier 2)
+- [OpenSecrets: Dustin Moskovitz donor profile](https://www.opensecrets.org/donor-lookup/results?name=Dustin+Moskovitz) (Tier 1) (VERIFIED)
+- [Fortune: "From Elon Musk to Reid Hoffman, where Silicon Valley is spending its millions"](https://fortune.com/2024/09/25/silicon-valley-political-donations-elon-musk-peter-thiel-reid-hoffman/) (Tier 2) (VERIFIED)
+- [NBC News: "Billionaires poured millions of dollars into presidential super PACs in August"](https://www.nbcnews.com/politics/2024-election/billionaires-millions-dollars-super-pac-august-fec-filings-rcna172097) (Tier 2) (VERIFIED)
+- [Brennan Center for Justice: "Megadonors Playing Larger Role in Presidential Race"](https://www.brennancenter.org/our-work/analysis-opinion/megadonors-playing-larger-role-presidential-race-fec-data-shows) (Tier 2) (VERIFIED)
+- [SF Standard: "Major Silicon Valley Democratic donors have kept wallets closed"](https://sfstandard.com/2025/08/08/major-silicon-valley-democratic-donors-have-kept-their-wallets-closed-year/) (Tier 2) (VERIFIED)
+- ~~[American Immigration Council: "H-1B Visa Program Overview"](https://www.americanimmigrationcouncil.org/research/h-1b-visa-program-overview)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ---
 
@@ -174,7 +174,7 @@ The 2024-2025 fracture exposed the network's contingent nature. The unified anti
 
 **Agencies contacted:** Air Force, Dept of, Commerce, Dept of (DOC), Defense, Dept of (DOD), Executive Office of the President (EOP), HOUSE OF REPRESENTATIVES, SENATE
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Silicon%20Valley%20Democratic%20Donor%20Network) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Silicon%20Valley%20Democratic%20Donor%20Network) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

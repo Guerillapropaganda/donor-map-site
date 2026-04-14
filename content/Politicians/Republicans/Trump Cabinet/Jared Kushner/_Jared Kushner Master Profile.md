@@ -152,11 +152,11 @@ For the vault's class analysis: Kushner is the purest case of government-as-inve
 
 ### March 2026 Updates — The Iran War and the $5 Billion Ask
 
-**Kushner helped convince Trump to launch strikes on Iran.** At a press conference, Trump stated that "Steve and Jared and Pete and others" convinced him to authorize Operation Epic Fury ([Popular Info](https://popular.info/p/update-trump-says-kushner-helped), Tier 2). Kushner holds no formal government title in the second term. He pledged in December 2024 not to be involved in foreign policy. He violated that pledge ([Common Dreams](https://www.commondreams.org/news/jared-kushner-iran-private-equity), Tier 2).
+**Kushner helped convince Trump to launch strikes on Iran.** At a press conference, Trump stated that "Steve and Jared and Pete and others" convinced him to authorize Operation Epic Fury ([Popular Info](https://popular.info/p/update-trump-says-kushner-helped) (VERIFIED), Tier 2). Kushner holds no formal government title in the second term. He pledged in December 2024 not to be involved in foreign policy. He violated that pledge ([Common Dreams](https://www.commondreams.org/news/jared-kushner-iran-private-equity) (VERIFIED), Tier 2).
 
-**Simultaneously: raising $5B+ from Middle Eastern governments.** Kushner is actively soliciting over $5 billion from Saudi PIF, UAE, and Qatar sovereign wealth funds for Affinity Partners — the same governments that reportedly lobbied Trump to attack Iran ([Wyden/Garcia letter to Affinity Partners](https://oversightdemocrats.house.gov/imo/media/doc/2026-03-19garciawydenlettertoaffinitypartnersrekushnerfundraisingfinal.pdf), Tier 1; [Popular Info](https://popular.info/p/kushner-breaks-pledge-seeks-5-billion), Tier 2).
+**Simultaneously: raising $5B+ from Middle Eastern governments.** Kushner is actively soliciting over $5 billion from Saudi PIF, UAE, and Qatar sovereign wealth funds for Affinity Partners — the same governments that reportedly lobbied Trump to attack Iran ([Wyden/Garcia letter to Affinity Partners](https://oversightdemocrats.house.gov/imo/media/doc/2026-03-19garciawydenlettertoaffinitypartnersrekushnerfundraisingfinal.pdf) (VERIFIED), Tier 1; [Popular Info](https://popular.info/p/kushner-breaks-pledge-seeks-5-billion) (VERIFIED), Tier 2).
 
-**The intelligence didn't support it.** Trump administration officials told congressional staff in private briefings that U.S. intelligence did not suggest Iran was preparing a preemptive strike against U.S. interests. Iran was not planning to strike US forces unless Israel attacked first ([Responsible Statecraft](https://responsiblestatecraft.org/witkoff-iran-war/), Tier 2; [Arms Control Association](https://www.armscontrol.org/blog/2026-03-11/us-negotiators-were-ill-prepared-serious-nuclear-negotiations-iran), Tier 2).
+**The intelligence didn't support it.** Trump administration officials told congressional staff in private briefings that U.S. intelligence did not suggest Iran was preparing a preemptive strike against U.S. interests. Iran was not planning to strike US forces unless Israel attacked first ([Responsible Statecraft](https://responsiblestatecraft.org/witkoff-iran-war/) (VERIFIED), Tier 2; [Arms Control Association](https://www.armscontrol.org/blog/2026-03-11/us-negotiators-were-ill-prepared-serious-nuclear-negotiations-iran) (VERIFIED), Tier 2).
 
 > [!money] The Kushner loop, closed
 > **The full circuit as of March 2026:**
@@ -170,9 +170,9 @@ For the vault's class analysis: Kushner is the purest case of government-as-inve
 > 8. Breaks pledge — helps convince Trump to launch Iran war (February 2026)
 > 9. Raises $5B MORE from the same governments that lobbied for that war (March 2026)
 >
-> **Affinity AUM: $6.16 billion** (2025 filing) — up from $4.8B in 2024 and $3B in 2023. **99% of assets from non-US persons** — virtually all from the foreign governments whose policy he shapes ([NewTracs](https://newstracs.com/jared-kushners-affinity-partners-investment-firm-filed-a-disclosure-showing-over-six-billion-aum/2026/03/23/), Tier 2).
+> **Affinity AUM: $6.16 billion** (2025 filing) — up from $4.8B in 2024 and $3B in 2023. **99% of assets from non-US persons** — virtually all from the foreign governments whose policy he shapes ([NewTracs](https://newstracs.com/jared-kushners-affinity-partners-investment-firm-filed-a-disclosure-showing-over-six-billion-aum/2026/03/23/) (VERIFIED), Tier 2).
 
-**Congressional response (March 19, 2026):** Sen. Wyden and Rep. Garcia sent a formal letter to Affinity Partners demanding Kushner's detailed schedule for foreign country visits since January 20, 2025, and documentation of any overlap between Affinity business development and U.S. diplomatic activity ([Senate Finance Committee](https://www.finance.senate.gov/ranking-members-news/wyden-garcia-investigate-kushner-raising-billions-from-middle-east-governments-while-negotiating-us-foreign-policy), Tier 1).
+**Congressional response (March 19, 2026):** Sen. Wyden and Rep. Garcia sent a formal letter to Affinity Partners demanding Kushner's detailed schedule for foreign country visits since January 20, 2025, and documentation of any overlap between Affinity business development and U.S. diplomatic activity ([Senate Finance Committee](https://www.finance.senate.gov/ranking-members-news/wyden-garcia-investigate-kushner-raising-billions-from-middle-east-governments-while-negotiating-us-foreign-policy) (VERIFIED), Tier 1).
 
 > [!contradiction] The man with no title
 > Kushner holds no formal government position. He has no security clearance requirement, no financial disclosure obligation, no ethics review. He convinced the President to launch a war. He is raising billions from the governments that wanted that war. The absence of a title is the feature, not the bug — it exempts him from every oversight mechanism designed to prevent exactly this.
@@ -181,13 +181,13 @@ For the vault's class analysis: Kushner is the purest case of government-as-inve
 
 ## Sources
 
-- [Senate Finance Committee: Wyden investigation of Kushner firm](https://www.finance.senate.gov/chairmans-news/wyden-investigation-of-kushner-firm-continues-new-letter-outlines-affinity-partners-fee-structure-lack-of-return-to-investors-questionable-deals-with-foreign-governments) (Tier 1)
-- [CREW: Jared and Ivanka White House income investigation](https://www.citizensforethics.org/reports-investigations/crew-investigations/jared-and-ivanka-made-up-to-640-million-in-the-white-house/) (Tier 2)
-- [Just Security: Kushner-Qatar-666 Fifth Avenue timeline](https://www.justsecurity.org/69094/timeline-on-jared-kushner-qatar-666-fifth-avenue-and-white-house-policy/) (Tier 2)
-- [ProPublica: The Beleaguered Tenants of Kushnerville](https://www.propublica.org/article/the-beleaguered-tenants-of-kushnerville) (Tier 2)
-- [NPR: Kushner business ties and Middle East policy](https://www.npr.org/2025/10/23/nx-s1-5582806/jared-kushner-mideast-business-ceasefire) (Tier 2)
-- [CBS News: Kushner and Saudi investment, MBS relationship](https://www.cbsnews.com/news/jared-kushner-post-white-house-business-moves-saudis-wealth-fund-mohammed-bin-salman-jamal-khashoggi/) (Tier 2)
-- [House Oversight Committee: Kushner foreign investment investigation](https://oversight.house.gov/news/press-releases/committees-announce-investigation-into-trump-administrations-financial-dealings-saudi-arabia-and-other-foreign-governments) (Tier 1)
+- [Senate Finance Committee: Wyden investigation of Kushner firm](https://www.finance.senate.gov/chairmans-news/wyden-investigation-of-kushner-firm-continues-new-letter-outlines-affinity-partners-fee-structure-lack-of-return-to-investors-questionable-deals-with-foreign-governments) (Tier 1) (VERIFIED)
+- [CREW: Jared and Ivanka White House income investigation](https://www.citizensforethics.org/reports-investigations/crew-investigations/jared-and-ivanka-made-up-to-640-million-in-the-white-house/) (Tier 2) (VERIFIED)
+- [Just Security: Kushner-Qatar-666 Fifth Avenue timeline](https://www.justsecurity.org/69094/timeline-on-jared-kushner-qatar-666-fifth-avenue-and-white-house-policy/) (Tier 2) (VERIFIED)
+- [ProPublica: The Beleaguered Tenants of Kushnerville](https://www.propublica.org/article/the-beleaguered-tenants-of-kushnerville) (Tier 2) (VERIFIED)
+- [NPR: Kushner business ties and Middle East policy](https://www.npr.org/2025/10/23/nx-s1-5582806/jared-kushner-mideast-business-ceasefire) (Tier 2) (VERIFIED)
+- [CBS News: Kushner and Saudi investment, MBS relationship](https://www.cbsnews.com/news/jared-kushner-post-white-house-business-moves-saudis-wealth-fund-mohammed-bin-salman-jamal-khashoggi/) (Tier 2) (VERIFIED)
+- ~~[House Oversight Committee: Kushner foreign investment investigation](https://oversight.house.gov/news/press-releases/committees-announce-investigation-into-trump-administrations-financial-dealings-saudi-arabia-and-other-foreign-governments)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ### Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

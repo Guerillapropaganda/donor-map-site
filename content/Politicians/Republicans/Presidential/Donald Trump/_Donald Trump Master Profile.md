@@ -230,7 +230,7 @@ The structural innovation Trump represents is the merger of state power and pers
 | 2026-01-23 | [Stopping Wall Street From Competing With Main Street Homebuyers](https://www.federalregister.gov/documents/2026/01/23/2026-01424/stopping-wall-street-from-competing-with-main-street-homebuyers) (VERIFIED) |
 | 2026-01-22 | [Designating the Board of Peace as a Public International Organization Entitled To Enjoy Certain Privileges, Exemptions, and Immunities](https://www.federalregister.gov/documents/2026/01/22/2026-01271/designating-the-board-of-peace-as-a-public-international-organization-entitled-to-enjoy-certain) (VERIFIED) |
 
-- [Source: Federal Register — Presidential Documents](https://www.federalregister.gov/presidential-documents/executive-orders/donald-trump/2026) (Tier 1)
+- [Source: Federal Register — Presidential Documents](https://www.federalregister.gov/presidential-documents/executive-orders/donald-trump/2026) (Tier 1) (VERIFIED)
 <!-- auto:executive-orders end -->
 
 ## Sources
@@ -239,12 +239,12 @@ The structural innovation Trump represents is the merger of state power and pers
 - [OpenSecrets: 2024 mega-donors](https://www.opensecrets.org/news/2025/03/elon-musk-tops-list-of-2024-political-donors-but-six-others-gave-more-than-100-million) (Tier 1)
 - [Brennan Center: Megadonor analysis](https://www.brennancenter.org/our-work/analysis-opinion/megadonors-playing-larger-role-presidential-race-fec-data-shows) (Tier 2)
 - [FEC: Trump candidate page](https://www.fec.gov/data/candidate/P80001571/) (Tier 1) (VERIFIED)
-- [CBO: TCJA analysis](https://www.cbo.gov/publication/53312) (Tier 1) (VERIFIED: H.R. 1, the Tax Cuts and Jobs Act November 13, 2017 Cost Estimate As ordered reported by the House Committee on Ways and Means on November 9, 2017; Seems like it works fine. Not sure about context but it works)
+- ~~[CBO: TCJA analysis](https://www.cbo.gov/publication/53312)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1) (VERIFIED: H.R. 1, the Tax Cuts and Jobs Act November 13, 2017 Cost Estimate As ordered reported by the House Committee on Ways and Means on November 9, 2017; Seems like it works fine. Not sure about context but it works)
 - [Tax Policy Center: TCJA impact](https://taxpolicycenter.org/briefing-book/how-did-tcja-affect-federal-budget-outlook) (Tier 1) (VERIFIED)
 - [NPR: World Liberty Financial](https://www.npr.org/2025/09/03/nx-s1-5527047/trump-crypto-family-world-liberty-financial) (Tier 2) (VERIFIED)
 - [CBS News: Trump family crypto net worth](https://www.cbsnews.com/news/trump-family-net-worth-crypto-investments/) (Tier 2) (VERIFIED)
 - [Yale Climate Connections: Fossil fuel spending](https://yaleclimateconnections.org/2025/01/the-fossil-fuel-industry-spent-219-million-to-elect-the-new-u-s-government/) (Tier 2) (VERIFIED)
-- [The Hill: Palantir contracts](https://thehill.com/policy/technology/5667232-palantir-trump-administration-surveillance/) (Tier 2) (VERIFIED: It works just has a bot blocker; removed from bad)
+- ~~[The Hill: Palantir contracts](https://thehill.com/policy/technology/5667232-palantir-trump-administration-surveillance/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (VERIFIED: It works just has a bot blocker; removed from bad)
 - [Fox Business: Musk government funding](https://www.foxbusiness.com/politics/how-much-have-musks-tesla-spacex-benefited-from-government-funds) (Tier 2) (VERIFIED)
 - [PBS NewsHour: DOGE disassembled](https://www.pbs.org/newshour/show/doge-disassembled-but-the-principles-remain-alive-trump-administration-says) (Tier 2) (VERIFIED)
 - [Holland & Knight: Crypto executive order](https://www.hklaw.com/en/insights/publications/2025/01/president-trump-signs-executive-order-on-digital-assets) (Tier 2) (VERIFIED)
@@ -326,7 +326,7 @@ The structural innovation Trump represents is the merger of state power and pers
 
 - [CNN — Trump super PAC builds $300 million cash stockpile for 2026](https://www.cnn.com/2026/01/02/politics/trump-super-pac-maga-inc-fundraising) (Tier 2) (VERIFIED)
 - [US News — Trump-Aligned MAGA Inc Super PAC enters 2026 with $300 million stockpile](https://www.usnews.com/news/politics/articles/2026-01-02/trump-aligned-maga-inc-super-pac-enters-2026-with-300-million-stockpile) (Tier 2) (VERIFIED)
-- [FEC — MAGA INC. committee overview](https://www.fec.gov/data/committee/C00892471/) (Tier 1) (NEEDS REVIEW: Very slow but works; Note it)
+- [FEC — MAGA INC. committee overview](https://www.fec.gov/data/committee/C00892471/) (Tier 1) (VERIFIED) (NEEDS REVIEW: Very slow but works; Note it)
 
 ---
 
@@ -348,7 +348,7 @@ The structural innovation Trump represents is the merger of state power and pers
 
 - [NPR: Iran war enters fourth week](https://www.npr.org/2026/03/21/nx-s1-5755539/iran-war-fourth-week) (Tier 2) (VERIFIED)
 - [CNBC: Trump AI policy framework](https://www.cnbc.com/2026/03/20/trump-ai-policy-framework.html) (Tier 2) (VERIFIED)
-- [Federal Register: 2026 Executive Orders](https://www.federalregister.gov/presidential-documents/executive-orders/donald-trump/2026) (Tier 1) (NEEDS REVIEW: Redirects to https://unblock.federalregister.gov/)
+- [Federal Register: 2026 Executive Orders](https://www.federalregister.gov/presidential-documents/executive-orders/donald-trump/2026) (Tier 1) (VERIFIED) (NEEDS REVIEW: Redirects to https://unblock.federalregister.gov/)
 - [CNBC: Trump threatens ICE at airports](https://www.cnbc.com/2026/03/21/trump-ice-tsa-dhs.html) (Tier 2) (VERIFIED)
 
 ## Influence Network (Cross-Reference)
@@ -374,7 +374,7 @@ The structural innovation Trump represents is the merger of state power and pers
 | Bills Cosponsored | 0 |
 | Total Votes Cast | 0 |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412733) (Tier 1) (NEEDS REVIEW: Redirects to https://www.govtrack.us/congress/other-people/donald_trump/412733 works)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412733) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
 
 ### DOJ Press Releases
@@ -410,13 +410,13 @@ The structural innovation Trump represents is the merger of state power and pers
 | RBG PAC | $34,600,000 | $0 |
 | AB PAC | $0 | $33,935,549 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/P80001571/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/P80001571/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Donald Trump](https://www.congress.gov/member/a000383) (Tier 1)
-- [GovTrack: Donald Trump](https://www.govtrack.us/congress/members/412733) (Tier 1)
+- ~~[Congress.gov: Donald Trump](https://www.congress.gov/member/a000383)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [GovTrack: Donald Trump](https://www.govtrack.us/congress/members/412733) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->

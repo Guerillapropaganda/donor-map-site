@@ -177,24 +177,24 @@ The pro-Israel spending is the other major vector. Koum donated $2 million to AI
 ### Sources
 
 ### Net Worth & Background:
-- [Bloomberg Billionaires Index — Jan Koum](https://www.bloomberg.com/billionaires/profiles/jan-koum/) (Tier 1)
-- [Wikipedia — Jan Koum](https://en.wikipedia.org/wiki/Jan_Koum) (Tier 3)
-- [JTA — Jan Koum: Tale of Two Cities](https://www.jta.org/2014/02/21/culture/whatsapp-ceo-jan-koums-tale-of-two-cities) (Tier 2)
+- ~~[Bloomberg Billionaires Index — Jan Koum](https://www.bloomberg.com/billionaires/profiles/jan-koum/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Wikipedia — Jan Koum](https://en.wikipedia.org/wiki/Jan_Koum) (Tier 3) (VERIFIED)
+- [JTA — Jan Koum: Tale of Two Cities](https://www.jta.org/2014/02/21/culture/whatsapp-ceo-jan-koums-tale-of-two-cities) (Tier 2) (VERIFIED)
 
 ### 2022–2024 Political Donations:
-- [OpenSecrets — Jan Koum donor profile](https://www.fec.gov/data/independent-expenditures/?q=Jan%20Koum) (Tier 1)
-- [The Forward — Jewish Megadonors 2024 Republican Primary](https://forward.com/news/558039/revealed-who-the-big-jewish-donors-are-backing-in-the-2024-gop-presidential-primaries/) (Tier 2)
-- [The Forward — RJC and JDCA 2024 Spending](https://forward.com/news/669961/jdca-rjc-fundraising-2024-trump-harris/) (Tier 2)
-- [Times of Israel — Jan Koum AIPAC $2M Donation](https://www.timesofisrael.com/whatsapp-founder-jan-koum-donates-record-2-million-to-aipacs-campaign-efforts/) (Tier 2)
-- [Middle East Eye — Jan Koum AIPAC 2M Pro-Israel Super PAC](http://web.archive.org/web/20260203105558/https://www.middleeasteye.net/news/whatsapp-co-founder-donates-2m-pro-israel-super-pac) (Tier 2)
+- [OpenSecrets — Jan Koum donor profile](https://www.fec.gov/data/independent-expenditures/?q=Jan%20Koum) (Tier 1) (VERIFIED)
+- [The Forward — Jewish Megadonors 2024 Republican Primary](https://forward.com/news/558039/revealed-who-the-big-jewish-donors-are-backing-in-the-2024-gop-presidential-primaries/) (Tier 2) (VERIFIED)
+- [The Forward — RJC and JDCA 2024 Spending](https://forward.com/news/669961/jdca-rjc-fundraising-2024-trump-harris/) (Tier 2) (VERIFIED)
+- [Times of Israel — Jan Koum AIPAC $2M Donation](https://www.timesofisrael.com/whatsapp-founder-jan-koum-donates-record-2-million-to-aipacs-campaign-efforts/) (Tier 2) (VERIFIED)
+- [Middle East Eye — Jan Koum AIPAC 2M Pro-Israel Super PAC](http://web.archive.org/web/20260203105558/https://www.middleeasteye.net/news/whatsapp-co-founder-donates-2m-pro-israel-super-pac) (Tier 2) (VERIFIED)
 
 ### Philanthropic Donations (Jewish Causes):
-- [Inside Philanthropy — Jan Koum $1.5B Fund](https://www.insidephilanthropy.com/home/tech-philanthropy-watch-whatsapp-founder-jan-koum-has-a-new-1-5-billion-fund) (Tier 2)
-- [JTA — Koum Megadonor Jewish Causes](https://www.jta.org/2022/06/15/united-states/whatsapps-reclusive-founder-has-quietly-become-a-megadonor-to-jewish-causes) (Tier 2)
-- [Jerusalem Post — Jan Koum Megadonor Jewish Causes](https://www.jpost.com/j-spot/article-709517) (Tier 2)
+- [Inside Philanthropy — Jan Koum $1.5B Fund](https://www.insidephilanthropy.com/home/tech-philanthropy-watch-whatsapp-founder-jan-koum-has-a-new-1-5-billion-fund) (Tier 2) (VERIFIED)
+- [JTA — Koum Megadonor Jewish Causes](https://www.jta.org/2022/06/15/united-states/whatsapps-reclusive-founder-has-quietly-become-a-megadonor-to-jewish-causes) (Tier 2) (VERIFIED)
+- [Jerusalem Post — Jan Koum Megadonor Jewish Causes](https://www.jpost.com/j-spot/article-709517) (Tier 2) (VERIFIED)
 
 ### WhatsApp/Privacy Background:
-- [CNBC — Jan Koum Leaving Facebook Privacy](https://www.cnbc.com/2018/04/30/whatsapp-co-founder-jan-koum-leaving-facebook-report-says.html) (Tier 2)
+- [CNBC — Jan Koum Leaving Facebook Privacy](https://www.cnbc.com/2018/04/30/whatsapp-co-founder-jan-koum-leaving-facebook-report-says.html) (Tier 2) (VERIFIED)
 
 ---
 
@@ -230,7 +230,7 @@ The pro-Israel spending is the other major vector. Koum donated $2 million to AI
 - AbouYabis v. Emory University (2025) — District Court, N.D. Georgia
 - Yeyille v. Greenberg Traurig, P.A. (2025) — District Court, S.D. Florida
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Jan%20Koum%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Jan%20Koum%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Influence Network (Cross-Reference)
@@ -271,7 +271,7 @@ The pro-Israel spending is the other major vector. Koum donated $2 million to AI
 | NRSC VICTORY | $661,454 | — |
 | SECURITY IS STRENGTH PAC | $501,049 | — |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Jan%20Koum) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Jan%20Koum) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### SEC Filing Activity
@@ -289,5 +289,5 @@ The pro-Israel spending is the other major vector. Koum donated $2 million to AI
 - 2016-05-26 — **4**: PRIMARY DOCUMENT
 - 2015-05-01 — **4**: PRIMARY DOCUMENT
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Jan%20Koum%22) (Tier 1)
+- ~~[Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Jan%20Koum%22)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:sec-edgar end -->

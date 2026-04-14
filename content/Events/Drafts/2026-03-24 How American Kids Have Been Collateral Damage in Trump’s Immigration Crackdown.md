@@ -13,7 +13,7 @@ profiles:
 
 ## How American Kids Have Been Collateral Damage in Trump’s Immigration Crackdown
 
-**Source:** [ProPublica](https://www.propublica.org/article/american-kids-detained-trump-immigration-deportation-democrats-investigation)
+**Source:** [ProPublica](https://www.propublica.org/article/american-kids-detained-trump-immigration-deportation-democrats-investigation) (VERIFIED)
 **Date:** 2026-03-24
 
 The post How American Kids Have Been Collateral Damage in Trump’s Immigration Crackdown appeared first on ProPublica.

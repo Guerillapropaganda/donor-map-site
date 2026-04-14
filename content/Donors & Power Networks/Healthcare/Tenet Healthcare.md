@@ -189,16 +189,16 @@ The bipartisan contribution pattern confirms the structural analysis: Tenet fund
 
 ### Sources
 
-- [OpenSecrets: Tenet Healthcare organizational profile](https://www.opensecrets.org/orgs/tenet-healthcare/summary?id=D000000751) (Tier 1)
-- [OpenSecrets: Tenet Healthcare lobbying profile](https://www.opensecrets.org/orgs/tenet-healthcare/lobbying?id=D000000751) (Tier 1)
-- [FEC: Tenet Healthcare Corporation Political Action Committee (C00119354)](https://www.fec.gov/data/committee/C00119354/) (Tier 1)
-- [DOJ: Tenet Healthcare to Pay U.S. More Than $900 Million (2006)](https://www.justice.gov/archive/opa/pr/2006/June/06_civ_406.html) (Tier 1)
-- [DOJ: Hospital Chain Will Pay Over $513 Million for Defrauding the United States (2016)](https://www.justice.gov/archives/opa/pr/hospital-chain-will-pay-over-513-million-defrauding-united-states-and-making-illegal-payments) (Tier 1)
-- [Georgia AG: Landmark Kickback Settlement With Tenet Healthcare — Over $100 Million Returned](https://law.georgia.gov/press-releases/2016-10-03/georgia-reaches-landmark-kickback-settlement-tenet-healthcare-corp-over) (Tier 1)
-- [Congress.gov: H.R.972 — Outpatient Surgery Quality and Access Act of 2023](https://www.congress.gov/bill/118th-congress/house-bill/972) (Tier 1)
-- [Becker's Hospital Review: Tenet Spends $630K to Derail 'Medicare for All'](https://www.beckershospitalreview.com/hospital-management-administration/tenet-spends-630k-to-derail-medicare-for-all/) (Tier 2)
-- [Ballotpedia: Tenet Healthcare](https://ballotpedia.org/Tenet_Healthcare) (Tier 3)
-- [Tenet Healthcare: Disclosure of Political Expenditures](https://investor.tenethealth.com/governance/disclosure-of-political-expenditures/default.aspx) (Tier 1)
+- [OpenSecrets: Tenet Healthcare organizational profile](https://www.opensecrets.org/orgs/tenet-healthcare/summary?id=D000000751) (Tier 1) (VERIFIED)
+- [OpenSecrets: Tenet Healthcare lobbying profile](https://www.opensecrets.org/orgs/tenet-healthcare/lobbying?id=D000000751) (Tier 1) (VERIFIED)
+- [FEC: Tenet Healthcare Corporation Political Action Committee (C00119354)](https://www.fec.gov/data/committee/C00119354/) (Tier 1) (VERIFIED)
+- [DOJ: Tenet Healthcare to Pay U.S. More Than $900 Million (2006)](https://www.justice.gov/archive/opa/pr/2006/June/06_civ_406.html) (Tier 1) (VERIFIED)
+- [DOJ: Hospital Chain Will Pay Over $513 Million for Defrauding the United States (2016)](https://www.justice.gov/archives/opa/pr/hospital-chain-will-pay-over-513-million-defrauding-united-states-and-making-illegal-payments) (Tier 1) (VERIFIED)
+- [Georgia AG: Landmark Kickback Settlement With Tenet Healthcare — Over $100 Million Returned](https://law.georgia.gov/press-releases/2016-10-03/georgia-reaches-landmark-kickback-settlement-tenet-healthcare-corp-over) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: H.R.972 — Outpatient Surgery Quality and Access Act of 2023](https://www.congress.gov/bill/118th-congress/house-bill/972)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Becker's Hospital Review: Tenet Spends $630K to Derail 'Medicare for All'](https://www.beckershospitalreview.com/hospital-management-administration/tenet-spends-630k-to-derail-medicare-for-all/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Ballotpedia: Tenet Healthcare](https://ballotpedia.org/Tenet_Healthcare) (Tier 3) (VERIFIED)
+- [Tenet Healthcare: Disclosure of Political Expenditures](https://investor.tenethealth.com/governance/disclosure-of-political-expenditures/default.aspx) (Tier 1) (VERIFIED)
 
 ---
 
@@ -233,14 +233,14 @@ The bipartisan contribution pattern confirms the structural analysis: Tenet fund
 | $69K | Department of Defense | STEAM STERILIZATION |
 | $9K | Department of Defense | INSTRUMENT STERILIZATION |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Tenet%20Healthcare) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Tenet%20Healthcare) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [0W9AIBT6U6ADJ2I8HK17](https://search.gleif.org/#/record/0W9AIBT6U6ADJ2I8HK17) |
+| LEI | [0W9AIBT6U6ADJ2I8HK17](https://search.gleif.org/#/record/0W9AIBT6U6ADJ2I8HK17) (VERIFIED) |
 | Legal Name | Tenet Healthcare Corporation |
 | Jurisdiction | US-NV |
 | Entity Status | ACTIVE |
@@ -248,7 +248,7 @@ The bipartisan contribution pattern confirms the structural analysis: Tenet fund
 | Registration | LAPSED |
 | Last Updated | 2023-08-04T15:31:49Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Federal Register Activity
@@ -261,15 +261,15 @@ The bipartisan contribution pattern confirms the structural analysis: Tenet fund
 | Agencies | Antitrust Division, Employment and Training Administration, Environmental Protection Agency, Federal Trade Commission, Health and Human Services Department, Justice Department, Labor Department, National Labor Relations Board +1 more |
 
 **Recent regulatory activity:**
-- [Standard for Determining Joint Employer Status](https://www.federalregister.gov/documents/2023/10/27/2023-23573/standard-for-determining-joint-employer-status) (2023-10-27) — National Labor Relations Board ★
-- [Notice of Determinations Regarding Eligibility To Apply for Trade Adjustment Assistance](https://www.federalregister.gov/documents/2021/01/29/2021-01933/notice-of-determinations-regarding-eligibility-to-apply-for-trade-adjustment-assistance) (2021-01-29) — Labor Department
-- [United States et al. v. The Charlotte-Mecklenburg Hospital Authority, d/b/a Carolinas Healthcare System; Proposed Final Judgment and Competitive Impact Statement](https://www.federalregister.gov/documents/2018/12/11/2018-26755/united-states-et-al-v-the-charlotte-mecklenburg-hospital-authority-dba-carolinas-healthcare-system) (2018-12-11) — Justice Department
-- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2017/12/11/2017-26578/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2017-12-11) — Federal Trade Commission
-- [Casmalia Resources Superfund Site; Notice of Proposed CERCLA Administrative De Minimis Settlement](https://www.federalregister.gov/documents/2017/10/02/2017-21123/casmalia-resources-superfund-site-notice-of-proposed-cercla-administrative-de-minimis-settlement) (2017-10-02) — Environmental Protection Agency
-- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2017/07/19/2017-15093/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2017-07-19) — Federal Trade Commission
+- [Standard for Determining Joint Employer Status](https://www.federalregister.gov/documents/2023/10/27/2023-23573/standard-for-determining-joint-employer-status) (VERIFIED) (2023-10-27) — National Labor Relations Board ★
+- [Notice of Determinations Regarding Eligibility To Apply for Trade Adjustment Assistance](https://www.federalregister.gov/documents/2021/01/29/2021-01933/notice-of-determinations-regarding-eligibility-to-apply-for-trade-adjustment-assistance) (VERIFIED) (2021-01-29) — Labor Department
+- [United States et al. v. The Charlotte-Mecklenburg Hospital Authority, d/b/a Carolinas Healthcare System; Proposed Final Judgment and Competitive Impact Statement](https://www.federalregister.gov/documents/2018/12/11/2018-26755/united-states-et-al-v-the-charlotte-mecklenburg-hospital-authority-dba-carolinas-healthcare-system) (VERIFIED) (2018-12-11) — Justice Department
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2017/12/11/2017-26578/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (VERIFIED) (2017-12-11) — Federal Trade Commission
+- [Casmalia Resources Superfund Site; Notice of Proposed CERCLA Administrative De Minimis Settlement](https://www.federalregister.gov/documents/2017/10/02/2017-21123/casmalia-resources-superfund-site-notice-of-proposed-cercla-administrative-de-minimis-settlement) (VERIFIED) (2017-10-02) — Environmental Protection Agency
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2017/07/19/2017-15093/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (VERIFIED) (2017-07-19) — Federal Trade Commission
 - ... and 44 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Tenet%20Healthcare%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Tenet%20Healthcare%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Federal Court Records (CourtListener)
@@ -288,7 +288,7 @@ The bipartisan contribution pattern confirms the structural analysis: Tenet fund
 - M.C. 1 v. Curriculum Associates, LLC (2025) — District Court, D. Massachusetts
 - TENET HEALTHCARE CORPORATION v. SERVICE EMPLOYEES INTERNATIONAL UNION (2025) — District Court, District of Columbia
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Tenet%20Healthcare%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Tenet%20Healthcare%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -300,7 +300,7 @@ The bipartisan contribution pattern confirms the structural analysis: Tenet fund
 | Total Expenses | $841K |
 | Net Assets | $4.8M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 742873537](https://projects.propublica.org/nonprofits/organizations/742873537) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 742873537](https://projects.propublica.org/nonprofits/organizations/742873537) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### SEC Filing Activity
@@ -314,13 +314,13 @@ The bipartisan contribution pattern confirms the structural analysis: Tenet fund
 
 **Notable filings:**
 
-- 2026-03-30 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/70318/000007031826000015/0000070318-26-000015-index.htm)
-- 2026-03-27 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/70318/000010290926002471/0000102909-26-002471-index.htm)
-- 2026-03-13 — **4**: [4](https://www.sec.gov/Archives/edgar/data/70318/000119312526106696/0001193125-26-106696-index.htm)
-- 2026-03-11 — **144**: [144](https://www.sec.gov/Archives/edgar/data/70318/000195917326002196/0001959173-26-002196-index.htm)
-- 2026-03-10 — **4**: [4](https://www.sec.gov/Archives/edgar/data/70318/000119312526100724/0001193125-26-100724-index.htm)
+- 2026-03-30 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/70318/000007031826000015/0000070318-26-000015-index.htm) (VERIFIED)
+- 2026-03-27 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/70318/000010290926002471/0000102909-26-002471-index.htm) (VERIFIED)
+- 2026-03-13 — **4**: [4](https://www.sec.gov/Archives/edgar/data/70318/000119312526106696/0001193125-26-106696-index.htm) (VERIFIED)
+- 2026-03-11 — **144**: [144](https://www.sec.gov/Archives/edgar/data/70318/000195917326002196/0001959173-26-002196-index.htm) (VERIFIED)
+- 2026-03-10 — **4**: [4](https://www.sec.gov/Archives/edgar/data/70318/000119312526100724/0001193125-26-100724-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Tenet%20Healthcare%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Tenet%20Healthcare%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Tax Filings (IRS 990)
@@ -338,14 +338,14 @@ The bipartisan contribution pattern confirms the structural analysis: Tenet fund
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/742873537/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/742873537/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/742873537/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/742873537/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/742873537/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/742873537/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/742873537/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/742873537/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/742873537/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/742873537/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/742873537) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/742873537) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### DOJ Press Releases
@@ -374,7 +374,7 @@ The bipartisan contribution pattern confirms the structural analysis: Tenet fund
 | Medical Laboratories (621511) | $151K |
 | General Medical and Surgical Hospitals (622110) | $78K |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Vehicle Safety (NHTSA)
@@ -392,5 +392,5 @@ The bipartisan contribution pattern confirms the structural analysis: Tenet fund
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Tenet%20Healthcare) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Tenet%20Healthcare) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->

@@ -14,7 +14,7 @@ profiles:
 
 ## The Democrats Don’t Know Who They’ll Be in 2028. Michigan May Offer an Answer.
 
-**Source:** [The Intercept](https://theintercept.com/2026/04/09/michigan-senate-abdul-el-sayed-mallory-mcmorrow-hasan-piker/)
+**Source:** [The Intercept](https://theintercept.com/2026/04/09/michigan-senate-abdul-el-sayed-mallory-mcmorrow-hasan-piker/) (VERIFIED)
 **Date:** 2026-04-09
 
 The outrage over Abdul El-Sayed’s appearance with Hasan Piker reveals a schism that runs deeper than his Senate primary race against Mallory McMorrow. The post The Democrats Don’t Know Who They’ll Be in 2028. Michigan May Offer an Answer. appeared first on The Intercept.

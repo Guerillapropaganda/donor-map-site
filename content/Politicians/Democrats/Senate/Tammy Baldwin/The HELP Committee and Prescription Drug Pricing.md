@@ -102,20 +102,20 @@ The HELP Committee jurisdiction is not incidental to this analysis, it is the me
 
 ### Sources
 
-- [FEC Candidate: Tammy Baldwin career industries](https://www.fec.gov/data/candidate/H8WI00018/) (Tier 1)
-- [FEC Candidate: Tammy Baldwin 2024 cycle industries](https://www.fec.gov/data/candidate/H8WI00018/) (Tier 1)
-- [FEC Receipts: Pharmaceuticals/Health Products sector recipients (career)](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- [Congress.gov: Tammy Baldwin member profile](https://www.congress.gov/member/tammy-baldwin/B001230) (Tier 1)
-- [Baldwin.senate.gov: FAIR Drug Pricing Act 2021 introduction](https://www.baldwin.senate.gov/news/press-releases/fair-drug-pricing-act-2021) (Tier 1)
-- [Baldwin.senate.gov: FAIR Drug Pricing Act passes HELP Committee (2023)](https://www.baldwin.senate.gov/news/press-releases/fair-drug-pricing-act-passes-committee) (Tier 1)
-- [Baldwin.senate.gov: Baldwin supports bipartisan INSULIN Act](https://www.baldwin.senate.gov/news/press-releases/senator-baldwin-supports-bipartisan-bill-to-cut-insulin-costs-for-millions-more-americans) (Tier 1)
-- [Baldwin.senate.gov: Baldwin celebrates IRA prescription drug pricing](https://www.baldwin.senate.gov/news/press-releases/baldwin-celebrates-lower-prescription-drug-prices-for-seniors-under-inflation-reduction-act) (Tier 1)
-- [Baldwin.senate.gov: Baldwin grills Big Pharma CEOs on drug costs](https://www.baldwin.senate.gov/news/press-releases/baldwin-grills-big-pharma-ceos-on-high-cost-of-prescription-drugs) (Tier 1)
-- [CMS: Medicare Drug Price Negotiation Program](https://www.cms.gov/priorities/medicare-prescription-drug-affordability/overview/medicare-drug-price-negotiation-program) (Tier 1)
-- [CNN: Senate panel grills pharmaceutical CEOs on drug prices (Feb 8, 2024)](https://www.cnn.com/2024/02/08/health/senate-hearing-drug-prices/index.html) (Tier 2)
-- [NPR: Drug company CEOs grilled about high U.S. drug prices (Feb 8, 2024)](https://www.npr.org/sections/health-shots/2024/02/08/1230174586/high-us-drug-prices) (Tier 2)
-- [KFF Health News: Pharma Cash to Congress](https://kffhealthnews.org/news/campaign/) (Tier 2)
-- [Ballotpedia: Tammy Baldwin](https://ballotpedia.org/Tammy_Baldwin) (Tier 3)
+- [FEC Candidate: Tammy Baldwin career industries](https://www.fec.gov/data/candidate/H8WI00018/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Tammy Baldwin 2024 cycle industries](https://www.fec.gov/data/candidate/H8WI00018/) (Tier 1) (VERIFIED)
+- [FEC Receipts: Pharmaceuticals/Health Products sector recipients (career)](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: Tammy Baldwin member profile](https://www.congress.gov/member/tammy-baldwin/B001230)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Baldwin.senate.gov: FAIR Drug Pricing Act 2021 introduction](https://www.baldwin.senate.gov/news/press-releases/fair-drug-pricing-act-2021) (Tier 1) (VERIFIED)
+- [Baldwin.senate.gov: FAIR Drug Pricing Act passes HELP Committee (2023)](https://www.baldwin.senate.gov/news/press-releases/fair-drug-pricing-act-passes-committee) (Tier 1) (VERIFIED)
+- [Baldwin.senate.gov: Baldwin supports bipartisan INSULIN Act](https://www.baldwin.senate.gov/news/press-releases/senator-baldwin-supports-bipartisan-bill-to-cut-insulin-costs-for-millions-more-americans) (Tier 1) (VERIFIED)
+- [Baldwin.senate.gov: Baldwin celebrates IRA prescription drug pricing](https://www.baldwin.senate.gov/news/press-releases/baldwin-celebrates-lower-prescription-drug-prices-for-seniors-under-inflation-reduction-act) (Tier 1) (VERIFIED)
+- [Baldwin.senate.gov: Baldwin grills Big Pharma CEOs on drug costs](https://www.baldwin.senate.gov/news/press-releases/baldwin-grills-big-pharma-ceos-on-high-cost-of-prescription-drugs) (Tier 1) (VERIFIED)
+- [CMS: Medicare Drug Price Negotiation Program](https://www.cms.gov/priorities/medicare-prescription-drug-affordability/overview/medicare-drug-price-negotiation-program) (Tier 1) (VERIFIED)
+- [CNN: Senate panel grills pharmaceutical CEOs on drug prices (Feb 8, 2024)](https://www.cnn.com/2024/02/08/health/senate-hearing-drug-prices/index.html) (Tier 2) (VERIFIED)
+- [NPR: Drug company CEOs grilled about high U.S. drug prices (Feb 8, 2024)](https://www.npr.org/sections/health-shots/2024/02/08/1230174586/high-us-drug-prices) (Tier 2) (VERIFIED)
+- [KFF Health News: Pharma Cash to Congress](https://kffhealthnews.org/news/campaign/) (Tier 2) (VERIFIED)
+- [Ballotpedia: Tammy Baldwin](https://ballotpedia.org/Tammy_Baldwin) (Tier 3) (VERIFIED)
 
 ---
 

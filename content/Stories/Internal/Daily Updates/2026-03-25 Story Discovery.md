@@ -46,9 +46,9 @@ Post-election FEC filings confirm that [[AIPAC - American Israel Public Affairs 
 > [!money] The quarterly filing exploit as a weapon
 > The FEC's quarterly disclosure requirement creates a structural window where new PACs can raise and spend millions without revealing donors. AIPAC's UDP exploited this by funding shell PACs created in late January, spending through February and March with no public donor disclosure until after the March 18 primary. This is not hypothetical dark money. It is documented dark money with a specific mechanism, specific dollar amounts, and specific beneficiaries.
 
-- [Chicago Tribune: AIPAC funded secretive super PACs that hid contributors](https://www.chicagotribune.com/2026/03/23/aipac-behind-secretive-pacs-primaries/) (Tier 2)
-- [NBC News: AIPAC super PAC funded big-spending Illinois groups](https://www.nbcnews.com/politics/2026-election/aipac-super-pac-funded-illinois-groups-democratic-primaries-israel-rcna264379) (Tier 2)
-- [Evanston RoundTable: Filings confirm AIPAC funded millions in outside spending](https://evanstonroundtable.com/2026/03/21/filings-confirm-aipac-funded-millions-in-outside-spending-on-congressional-primary/) (Tier 3)
+- [Chicago Tribune: AIPAC funded secretive super PACs that hid contributors](https://www.chicagotribune.com/2026/03/23/aipac-behind-secretive-pacs-primaries/) (Tier 2) (VERIFIED)
+- [NBC News: AIPAC super PAC funded big-spending Illinois groups](https://www.nbcnews.com/politics/2026-election/aipac-super-pac-funded-illinois-groups-democratic-primaries-israel-rcna264379) (Tier 2) (VERIFIED)
+- [Evanston RoundTable: Filings confirm AIPAC funded millions in outside spending](https://evanstonroundtable.com/2026/03/21/filings-confirm-aipac-funded-millions-in-outside-spending-on-congressional-primary/) (Tier 3) (VERIFIED)
 
 ---
 
@@ -69,9 +69,9 @@ The FTC reached a proposed settlement on March 24 with CVS Caremark, one of the 
 > [!money] $7 billion in patient overcharges from a single PBM
 > The FTC's $7B estimate represents documented overcharges from CVS Caremark's insulin pricing practices alone. If similar patterns hold for Express Scripts and OptumRx, which control a combined ~50% additional market share, the total patient overcharge across all three PBMs could exceed $15-20 billion over a decade. These are not abstract market inefficiencies, they are quantified harm to diabetic patients, enforced by market concentration in an industry that lobbies Congress to preserve that concentration.
 
-- [STAT News: FTC strikes proposed deal with CVS over charges its PBM manipulated insulin prices](https://www.statnews.com/pharmalot/2026/03/24/ftc-proposed-deal-cvs-pbm-manipulated-insulin-prices/) (Tier 2)
-- [CNBC: CVS reaches insulin pricing settlement with FTC](https://www.cnbc.com/2026/03/24/cvs-reaches-insulin-pricing-settlement-with-ftc.html) (Tier 2)
-- [Boston Globe: CVS reaches FTC settlement over insulin pricing practices](https://www.bostonglobe.com/2026/03/25/metro/cvs-insulin-pricing-ftc-settlement-ri/) (Tier 2)
+- [STAT News: FTC strikes proposed deal with CVS over charges its PBM manipulated insulin prices](https://www.statnews.com/pharmalot/2026/03/24/ftc-proposed-deal-cvs-pbm-manipulated-insulin-prices/) (Tier 2) (VERIFIED)
+- [CNBC: CVS reaches insulin pricing settlement with FTC](https://www.cnbc.com/2026/03/24/cvs-reaches-insulin-pricing-settlement-with-ftc.html) (Tier 2) (VERIFIED)
+- [Boston Globe: CVS reaches FTC settlement over insulin pricing practices](https://www.bostonglobe.com/2026/03/25/metro/cvs-insulin-pricing-ftc-settlement-ri/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -98,10 +98,10 @@ Pro-crypto super PACs have amassed $221 million in cash on hand for the 2026 mid
 > [!money] $288M buys bipartisan immunity
 > The crypto industry spent $288M in one cycle, more than the NRA has spent in any cycle in its history. The difference: crypto spreads money across both parties simultaneously, making opposition politically expensive for any individual legislator. When an industry funds both MAGA Inc. and bipartisan PACs, it doesn't matter who wins. The industry wins either way. This is the structural logic of the Both-Sides Illusion applied with more money than any previous example in the vault.
 
-- [Citation Needed: Crypto super PACs have hundreds of millions ready to spend on the midterms](https://www.citationneeded.news/crypto-super-pacs-2026-midterms/) (Tier 3)
-- [NBC News: AI, crypto and Trump super PACs stash millions to spend on midterms](https://www.nbcnews.com/politics/2026-election/ai-crypto-trump-super-pacs-stash-millions-spend-midterms-rcna256622) (Tier 2)
-- [Cryptopolitan: Crypto exchanges pour $21M into Trump-backed PAC ahead of 2026 midterms](https://www.cryptopolitan.com/crypto-exchanges-pour-21m-into-pac/) (Tier 4)
-- [EXPOSEDbyCMD: Major right-wing super PACs disclose recent contributions](https://www.exposedbycmd.org/2026/02/18/major-right-wing-super-pacs-disclose-recent-contributions-and-endorsements/) (Tier 3)
+- [Citation Needed: Crypto super PACs have hundreds of millions ready to spend on the midterms](https://www.citationneeded.news/crypto-super-pacs-2026-midterms/) (Tier 3) (VERIFIED)
+- [NBC News: AI, crypto and Trump super PACs stash millions to spend on midterms](https://www.nbcnews.com/politics/2026-election/ai-crypto-trump-super-pacs-stash-millions-spend-midterms-rcna256622) (Tier 2) (VERIFIED)
+- [Cryptopolitan: Crypto exchanges pour $21M into Trump-backed PAC ahead of 2026 midterms](https://www.cryptopolitan.com/crypto-exchanges-pour-21m-into-pac/) (Tier 4) (VERIFIED)
+- ~~[EXPOSEDbyCMD: Major right-wing super PACs disclose recent contributions](https://www.exposedbycmd.org/2026/02/18/major-right-wing-super-pacs-disclose-recent-contributions-and-endorsements/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
 
 ---
 
@@ -123,8 +123,8 @@ A WBUR investigation published March 24 documents a boom in politically active 5
 
 **DraftKings connection:** DraftKings appears in this dark money story because gaming regulations required disclosure that campaign finance law did not. The vault tracks the [[Sports Betting Alliance]]. DraftKings' $50K to Healey's dark money group is a new data point connecting sports betting money to state-level governance.
 
-- [WBUR: Dark money pours into Massachusetts politics](https://www.wbur.org/news/2026/03/24/massachusetts-money-politics-healey-wu-ballot-501c4-nonprofits) (Tier 2)
-- [WBUR: What do DraftKings and this paving company have in common?](https://www.wbur.org/news/2026/03/24/one-commonwealth-healey-dark-money-501c4-draftkings-peckham) (Tier 2)
+- [WBUR: Dark money pours into Massachusetts politics](https://www.wbur.org/news/2026/03/24/massachusetts-money-politics-healey-wu-ballot-501c4-nonprofits) (Tier 2) (VERIFIED)
+- [WBUR: What do DraftKings and this paving company have in common?](https://www.wbur.org/news/2026/03/24/one-commonwealth-healey-dark-money-501c4-draftkings-peckham) (Tier 2) (VERIFIED)
 
 ---
 
@@ -142,8 +142,8 @@ Trump has now secured Most-Favored-Nation (MFN) drug pricing agreements with 16 
 
 **Vault connections:** Updates [[Eli Lilly]], [[Pfizer]], and the broader Pharma & Healthcare sector. The 3-year deal terms mean pharma is accepting short-term price reductions while likely lobbying for the tariff framework to expire or be weakened after 2028. Track whether pharma PAC spending shifts toward 2028 presidential candidates who might reverse MFN.
 
-- [STAT News: Most-favored nation drug prices divide Trump, Congress in health care talks](https://www.statnews.com/2026/03/17/mfn-drug-pricing-divide-trump-congress-talks/) (Tier 2)
-- [Pharmacy Times: Trump announces pricing deals with 9 drugmakers](https://www.pharmacytimes.com/view/trump-announces-pricing-deals-with-9-drugmakers-expanding-most-favored-nation-drug-pricing-strategy) (Tier 3)
+- [STAT News: Most-favored nation drug prices divide Trump, Congress in health care talks](https://www.statnews.com/2026/03/17/mfn-drug-pricing-divide-trump-congress-talks/) (Tier 2) (VERIFIED)
+- ~~[Pharmacy Times: Trump announces pricing deals with 9 drugmakers](https://www.pharmacytimes.com/view/trump-announces-pricing-deals-with-9-drugmakers-expanding-most-favored-nation-drug-pricing-strategy)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
 
 ---
 
@@ -159,7 +159,7 @@ Senator Sheldon Whitehouse and Rep. Chris Pappas led 182 colleagues in reintrodu
 
 **The structural irony:** The DISCLOSE Act is reintroduced every Congress. It has never passed. Its function is to create a public record of which party supports donor transparency and which does not, but it does nothing to stop the dark money it decries. Meanwhile, the Democratic senators who cosponsor the DISCLOSE Act continue to benefit from dark money operations on their own side (see: AIPAC's Illinois shell PACs, above; DNC-aligned 501(c)(4)s). This is the **Dark Money Symmetry** pattern: both parties run dark money operations while one party publicly opposes them.
 
-- [Sen. Whitehouse: Reintroduce Updated DISCLOSE Act](https://www.whitehouse.senate.gov/news/release/whitehouse-pappas-and-colleagues-reintroduce-updated-disclose-act-to-end-corrupting-influence-of-dark-money-in-american-elections/) (Tier 1, official Senate release)
+- [Sen. Whitehouse: Reintroduce Updated DISCLOSE Act](https://www.whitehouse.senate.gov/news/release/whitehouse-pappas-and-colleagues-reintroduce-updated-disclose-act-to-end-corrupting-influence-of-dark-money-in-american-elections/) (VERIFIED) (Tier 1, official Senate release)
 
 ---
 

@@ -151,19 +151,19 @@ Agriculture Committee jurisdiction maps directly to donor base: Farm Bill (crop 
 
 ## Sources
 
-- [FEC Candidate: Glenn Thompson donor profile](https://www.fec.gov/data/candidate/H8PA05071/) (Tier 1)
-- [FEC Candidate: Glenn Thompson industry donors](https://www.fec.gov/data/candidate/H8PA05071/) (Tier 1)
-- [Congress.gov: Glenn Thompson](https://www.congress.gov/member/glenn-thompson/T000467) (Tier 1)
-- [House Agriculture Committee: Chairman Thompson](https://agriculture.house.gov/about/chairman-thompson.htm) (Tier 1)
-- [CBPP: House Agriculture Committee Chairman Proposes Cut in SNAP Benefits](https://www.cbpp.org/blog/house-agriculture-committee-chairman-proposes-cut-in-snap-benefits-reversing-bipartisan) (Tier 2)
-- [Pittsburgh Post-Gazette: Thompson sees PAC money surge as Agriculture Committee chair](https://www.post-gazette.com/news/politics-state/2023/07/30/glenn-thompson-pac-donations-house-agriculture-committee/stories/202307300085) (Tier 2)
-- [The Hill: Sparks fly over SNAP at contentious markup of House farm bill](https://thehill.com/policy/healthcare/4683175-house-republican-farm-bill-snap-food-aid-partisan-markup/) (Tier 2)
-- [Pennsylvania Capital-Star: Thompson talks tariffs, SNAP, and immigration's impact on agriculture](https://penncapital-star.com/agriculture-pa-farms/qa-congressman-glenn-thompson-talks-tariffs-snap-and-immigrations-impact-on-agriculture/) (Tier 2)
-- [CNN: GOP congressman attends gay son's wedding after opposing marriage protections](https://www.cnn.com/2022/07/25/politics/glenn-thompson-attends-gay-sons-wedding-after-opposing-protections/index.html) (Tier 2)
-- [Common Dreams: GOP Farm Bill Full of Industry-Backed Poison Pills](https://www.commondreams.org/news/farm-bill-2026) (Tier 2)
-- [Food and Environment Reporting Network: Glenn Thompson](https://thefern.org/ag_tag/glenn-thompson/) (Tier 2)
-- [Ballotpedia: Glenn Thompson](https://ballotpedia.org/Glenn_Thompson_(Pennsylvania)) (Tier 3)
-- [Wikipedia: Glenn Thompson](https://en.wikipedia.org/wiki/Glenn_Thompson_%28politician%29) (Tier 3)
+- [FEC Candidate: Glenn Thompson donor profile](https://www.fec.gov/data/candidate/H8PA05071/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Glenn Thompson industry donors](https://www.fec.gov/data/candidate/H8PA05071/) (Tier 1) (VERIFIED)
+- [Congress.gov: Glenn Thompson](https://www.congress.gov/member/glenn-thompson/T000467) (Tier 1) (VERIFIED)
+- [House Agriculture Committee: Chairman Thompson](https://agriculture.house.gov/about/chairman-thompson.htm) (Tier 1) (VERIFIED)
+- ~~[CBPP: House Agriculture Committee Chairman Proposes Cut in SNAP Benefits](https://www.cbpp.org/blog/house-agriculture-committee-chairman-proposes-cut-in-snap-benefits-reversing-bipartisan)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Pittsburgh Post-Gazette: Thompson sees PAC money surge as Agriculture Committee chair](https://www.post-gazette.com/news/politics-state/2023/07/30/glenn-thompson-pac-donations-house-agriculture-committee/stories/202307300085) (Tier 2) (VERIFIED)
+- ~~[The Hill: Sparks fly over SNAP at contentious markup of House farm bill](https://thehill.com/policy/healthcare/4683175-house-republican-farm-bill-snap-food-aid-partisan-markup/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Pennsylvania Capital-Star: Thompson talks tariffs, SNAP, and immigration's impact on agriculture](https://penncapital-star.com/agriculture-pa-farms/qa-congressman-glenn-thompson-talks-tariffs-snap-and-immigrations-impact-on-agriculture/) (Tier 2) (VERIFIED)
+- [CNN: GOP congressman attends gay son's wedding after opposing marriage protections](https://www.cnn.com/2022/07/25/politics/glenn-thompson-attends-gay-sons-wedding-after-opposing-protections/index.html) (Tier 2) (VERIFIED)
+- [Common Dreams: GOP Farm Bill Full of Industry-Backed Poison Pills](https://www.commondreams.org/news/farm-bill-2026) (Tier 2) (VERIFIED)
+- [Food and Environment Reporting Network: Glenn Thompson](https://thefern.org/ag_tag/glenn-thompson/) (Tier 2) (VERIFIED)
+- [Ballotpedia: Glenn Thompson](https://ballotpedia.org/Glenn_Thompson_(Pennsylvania) (VERIFIED)) (Tier 3)
+- [Wikipedia: Glenn Thompson](https://en.wikipedia.org/wiki/Glenn_Thompson_%28politician%29) (Tier 3) (VERIFIED)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -197,7 +197,7 @@ Agriculture Committee jurisdiction maps directly to donor base: Farm Bill (crop 
 | PENNSYLVANIA PRO-LIFE FEDERATION PAC | $1,635 | $0 |
 | EVERYTOWN FOR GUN SAFETY ACTION FUND | $0 | $862 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8PA05071/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8PA05071/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Voting Record

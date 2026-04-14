@@ -184,15 +184,15 @@ The class position is swing-state progressive funded by professionals, serving w
 
 ## Sources
 
-- [FEC Candidate: Tammy Baldwin campaign finance summary](https://www.fec.gov/data/candidate/H8WI00018/) (Tier 1)
-- [FEC Candidate: Tammy Baldwin career industry breakdown](https://www.fec.gov/data/candidate/H8WI00018/) (Tier 1)
-- [OpenSecrets: Wisconsin Senate 2024 race summary](https://www.opensecrets.org/races/summary?cycle=2024&id=WIS1&special=N) (Tier 1)
-- [Congress.gov: Tammy Baldwin member profile](https://www.congress.gov/member/tammy-baldwin/B001230) (Tier 1)
-- [Baldwin.senate.gov: Made in America Act announcement](https://www.baldwin.senate.gov/news/press-releases/made-in-america-act) (Tier 1)
-- [The Hill: Baldwin edges Hovde in Wisconsin Senate race fundraising](https://thehill.com/homenews/campaign/4595683-baldwin-hovde-wisconsin-senate-race-fundraising/) (Tier 2)
-- [Wisconsin Independent: Big donors and fossil fuel industry flood airwaves for Hovde](https://wisconsinindependent.com/politics/2024-senate-election-hovde-baldwin-oil-gas-fossil-fuels-industry-donations-ads-pac-money/) (Tier 2)
-- [Free Beacon: Baldwin rakes in corporate PAC money while campaigning against corporations](https://freebeacon.com/democrats/baldwin-rakes-in-corporate-pac-money-while-campaigning-against-corporations/) (Tier 4)
-- [Ballotpedia: Tammy Baldwin](https://ballotpedia.org/Tammy_Baldwin) (Tier 3)
+- [FEC Candidate: Tammy Baldwin campaign finance summary](https://www.fec.gov/data/candidate/H8WI00018/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Tammy Baldwin career industry breakdown](https://www.fec.gov/data/candidate/H8WI00018/) (Tier 1) (VERIFIED)
+- [OpenSecrets: Wisconsin Senate 2024 race summary](https://www.opensecrets.org/races/summary?cycle=2024&id=WIS1&special=N) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: Tammy Baldwin member profile](https://www.congress.gov/member/tammy-baldwin/B001230)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Baldwin.senate.gov: Made in America Act announcement](https://www.baldwin.senate.gov/news/press-releases/made-in-america-act) (Tier 1) (VERIFIED)
+- ~~[The Hill: Baldwin edges Hovde in Wisconsin Senate race fundraising](https://thehill.com/homenews/campaign/4595683-baldwin-hovde-wisconsin-senate-race-fundraising/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Wisconsin Independent: Big donors and fossil fuel industry flood airwaves for Hovde](https://wisconsinindependent.com/politics/2024-senate-election-hovde-baldwin-oil-gas-fossil-fuels-industry-donations-ads-pac-money/) (Tier 2) (VERIFIED)
+- [Free Beacon: Baldwin rakes in corporate PAC money while campaigning against corporations](https://freebeacon.com/democrats/baldwin-rakes-in-corporate-pac-money-while-campaigning-against-corporations/) (Tier 4) (VERIFIED)
+- [Ballotpedia: Tammy Baldwin](https://ballotpedia.org/Tammy_Baldwin) (Tier 3) (VERIFIED)
 
 ---
 
@@ -225,7 +225,7 @@ The class position is swing-state progressive funded by professionals, serving w
 | LET AMERICA VOTE PAC | $8,884 | $0 |
 | PROTECT THE VOTE | $5,000 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8WI00018/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8WI00018/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (Congress.gov)
@@ -254,5 +254,5 @@ The class position is swing-state progressive funded by professionals, serving w
 | — |  | — |
 | — |  | — |
 
-- [Source: Congress.gov](https://www.congress.gov/member/B001230) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/B001230)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->

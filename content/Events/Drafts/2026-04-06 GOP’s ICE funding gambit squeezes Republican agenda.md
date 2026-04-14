@@ -14,7 +14,7 @@ profiles:
 
 ## GOP’s ICE funding gambit squeezes Republican agenda
 
-**Source:** [The Hill](https://thehill.com/homenews/house/5815556-ice-funding-dhs-reconciliation/)
+**Source:** ~~[The Hill](https://thehill.com/homenews/house/5815556-ice-funding-dhs-reconciliation/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-06
 
 Republicans’ plan to use the special budget reconciliation process to fund immigration enforcement without help from Democrats will complicate their hopes of using one of their few remaining shots at a GOP-only bill on priorities including voting reform, Pentagon funding due to the Iran war and cuts aimed at cracking down on fraud in federal…

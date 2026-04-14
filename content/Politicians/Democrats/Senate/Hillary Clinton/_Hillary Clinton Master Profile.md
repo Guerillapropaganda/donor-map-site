@@ -101,13 +101,13 @@ The Goldman Sachs speeches were not anomalous; they were the clearest articulati
 
 ## Sources
 
-- [FEC 2016 Presidential Campaign Finance](https://www.fec.gov/data/candidate/P00003392/) (Tier 1)
-- [Hillary Clinton Goldman Sachs Speeches Leaked, WikiLeaks](https://wikileaks.org/podesta-emails/emailid/927) (Tier 2)
-- [Open Secrets: Hillary Clinton Donor Profile](https://www.opensecrets.org/politicians/hillary-clinton) (Tier 1)
-- [CNN: Hillary Clinton and Wall Street](https://www.cnn.com/politics/hillary-clinton-wall-street) (Tier 2)
+- [FEC 2016 Presidential Campaign Finance](https://www.fec.gov/data/candidate/P00003392/) (Tier 1) (VERIFIED)
+- [Hillary Clinton Goldman Sachs Speeches Leaked, WikiLeaks](https://wikileaks.org/podesta-emails/emailid/927) (Tier 2) (VERIFIED)
+- ~~[Open Secrets: Hillary Clinton Donor Profile](https://www.opensecrets.org/politicians/hillary-clinton)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[CNN: Hillary Clinton and Wall Street](https://www.cnn.com/politics/hillary-clinton-wall-street)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - ProPublica: The Clintons' Bush Connection (Tier 2) (URL NEEDED — original article no longer exists, replacement not found)
-- [Senate Lobbying Disclosure: Haim Saban Donations](https://soprweb.senate.gov/) (Tier 1)
-- [Congressional Record: Clinton NAFTA Support 1993](https://congress.gov/) (Tier 1)
+- ~~[Senate Lobbying Disclosure: Haim Saban Donations](https://soprweb.senate.gov/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congressional Record: Clinton NAFTA Support 1993](https://congress.gov/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -141,7 +141,7 @@ The Goldman Sachs speeches were not anomalous; they were the clearest articulati
 | STOP UNION POLITICAL ABUSE (SUPA) | $0 | $202,500 |
 | CONSERVATIVE LEADERSHIP POLITICAL ACTION COMMITTEE | $0 | $163,990 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S0NY00188/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S0NY00188/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### DOJ Press Releases
@@ -151,7 +151,7 @@ The Goldman Sachs speeches were not anomalous; they were the clearest articulati
 <!-- auto:committee-assignments start -->
 _No committee data found._
 
-- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 ### Legislative Activity (Congress.gov)
@@ -179,12 +179,12 @@ _No committee data found._
 | 2916 | Unintended Pregnancy Reduction Act of 2006 | Read twice and referred to the Committee on Finance. |
 | 2415 | Protection Against Transmission of HIV for Women and Youth Act of 2007 | Read twice and referred to the Committee on Foreign Relations. |
 
-- [Source: Congress.gov](https://www.congress.gov/member/C001041) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001041)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Hillary Clinton](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: Hillary Clinton](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->

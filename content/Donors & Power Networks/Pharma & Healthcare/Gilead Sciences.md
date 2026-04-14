@@ -90,7 +90,7 @@ audit-a-plus-passed: "2026-04-11"
 
 Gilead Sciences Inc. A biopharmaceutical company ($27 billion revenue, 2024) headquartered in Foster City, California, specializing in antiviral drugs. Gilead's political significance stems from two products: Sovaldi/Harvoni (hepatitis C cure, $84,000 per course of treatment at launch) and Truvada/Descovy (HIV prevention drug developed with $50+ million in federal research funding, priced at $2,000/month). Gilead PAC contributes $1-2 million per cycle, with $5-8 million in annual lobbying.
 
-- [OpenSecrets: Gilead Sciences organizational profile](https://www.opensecrets.org/orgs/gilead-sciences/summary?id=D000000540) (Tier 1)
+- [OpenSecrets: Gilead Sciences organizational profile](https://www.opensecrets.org/orgs/gilead-sciences/summary?id=D000000540) (Tier 1) (VERIFIED)
 
 ---
 
@@ -114,7 +114,7 @@ Patent protection for antiviral portfolio, opposition to drug importation, favor
 ### Sources
 
 - [OpenSecrets: Gilead Sciences organizational profile](https://www.opensecrets.org/orgs/gilead-sciences/summary?id=D000000540) (Tier 1)
-- [Ballotpedia: Gilead Sciences](https://ballotpedia.org/Gilead_Sciences) (Tier 3)
+- [Ballotpedia: Gilead Sciences](https://ballotpedia.org/Gilead_Sciences) (Tier 3) (VERIFIED)
 
 ---
 
@@ -146,7 +146,7 @@ Patent protection for antiviral portfolio, opposition to drug importation, favor
 
 **Agencies contacted:** Centers For Disease Control & Prevention (CDC), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Executive Office of the President (EOP), Food & Drug Administration (FDA), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Natl Institutes of Health (NIH), Natl Security Council (NSC), Office of Management & Budget (OMB) +8 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Gilead%20Sciences) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Gilead%20Sciences) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Federal Court Records (CourtListener)
@@ -165,7 +165,7 @@ Patent protection for antiviral portfolio, opposition to drug importation, favor
 - Atmus Filtration, Inc. v. United States (2026) — United States Court of International Trade
 - KUDOS PHARMACEUTICALS LIMITED v. NATCO PHARMA LIMITED (2026) — District Court, D. New Jersey
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Gilead%20Sciences%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Gilead%20Sciences%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -177,7 +177,7 @@ Patent protection for antiviral portfolio, opposition to drug importation, favor
 | Total Expenses | $25.2M |
 | Net Assets | $162.5M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 201042419](https://projects.propublica.org/nonprofits/organizations/201042419) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 201042419](https://projects.propublica.org/nonprofits/organizations/201042419) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -187,14 +187,14 @@ Patent protection for antiviral portfolio, opposition to drug importation, favor
 | Top Federal Agency | Department of Veterans Affairs ($3.2M) |
 | Primary NAICS Sector | Pharmaceutical Preparation Manufacturing |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [549300WTZWR07K8MNV44](https://search.gleif.org/#/record/549300WTZWR07K8MNV44) |
+| LEI | [549300WTZWR07K8MNV44](https://search.gleif.org/#/record/549300WTZWR07K8MNV44) (VERIFIED) |
 | Legal Name | GILEAD SCIENCES, INC. |
 | Jurisdiction | US-DE |
 | Entity Status | ACTIVE |
@@ -202,7 +202,7 @@ Patent protection for antiviral portfolio, opposition to drug importation, favor
 | Registration | ISSUED |
 | Last Updated | 2026-03-03T10:10:30Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### SEC Filing Activity
@@ -216,13 +216,13 @@ Patent protection for antiviral portfolio, opposition to drug importation, favor
 
 **Notable filings:**
 
-- 2026-04-01 — **SC TO-T/A**: [SC TO-T/A](https://www.sec.gov/Archives/edgar/data/882095/000110465926038557/0001104659-26-038557-index.htm)
-- 2026-03-30 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/882095/000163864326000018/0001638643-26-000018-index.htm)
-- 2026-03-27 — **144**: [144](https://www.sec.gov/Archives/edgar/data/882095/000195004726003040/0001950047-26-003040-index.htm)
-- 2026-03-26 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/882095/000010290926001398/0000102909-26-001398-index.htm)
-- 2026-03-20 — **ARS**: [ANNUAL REPORT TO SECURITY HOLDERS](https://www.sec.gov/Archives/edgar/data/882095/000130817926000108/0001308179-26-000108-index.htm)
+- 2026-04-01 — **SC TO-T/A**: [SC TO-T/A](https://www.sec.gov/Archives/edgar/data/882095/000110465926038557/0001104659-26-038557-index.htm) (VERIFIED)
+- 2026-03-30 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/882095/000163864326000018/0001638643-26-000018-index.htm) (VERIFIED)
+- 2026-03-27 — **144**: [144](https://www.sec.gov/Archives/edgar/data/882095/000195004726003040/0001950047-26-003040-index.htm) (VERIFIED)
+- 2026-03-26 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/882095/000010290926001398/0000102909-26-001398-index.htm) (VERIFIED)
+- 2026-03-20 — **ARS**: [ANNUAL REPORT TO SECURITY HOLDERS](https://www.sec.gov/Archives/edgar/data/882095/000130817926000108/0001308179-26-000108-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Gilead%20Sciences%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Gilead%20Sciences%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### DOJ Press Releases
@@ -243,7 +243,7 @@ Patent protection for antiviral portfolio, opposition to drug importation, favor
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Gilead%20Sciences) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Gilead%20Sciences) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Tax Filings (IRS 990)
@@ -261,14 +261,14 @@ Patent protection for antiviral portfolio, opposition to drug importation, favor
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/201042419/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/201042419/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/201042419/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/201042419/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/201042419/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/201042419/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/201042419/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/201042419/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/201042419/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/201042419/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/201042419) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/201042419) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Federal Register Activity
@@ -282,13 +282,13 @@ Patent protection for antiviral portfolio, opposition to drug importation, favor
 | Agencies | Antitrust Division, Centers for Medicare & Medicaid Services, Commerce Department, Food and Drug Administration, Health and Human Services Department, Justice Department, National Institutes of Health, Patent and Trademark Office |
 
 **Recent regulatory activity:**
-- [Determination That DEMEROL (Meperidine Hydrochloride) Tablet, 100 Milligrams, and Other Drug Products Were Not Withdrawn From Sale for Reasons of Safety or Effectiveness](https://www.federalregister.gov/documents/2025/12/12/2025-22681/determination-that-demerol-meperidine-hydrochloride-tablet-100-milligrams-and-other-drug-products) (2025-12-12) — Health and Human Services Department
-- [Determination of Regulatory Review Period for Purposes of Patent Extension; LIVDELZI](https://www.federalregister.gov/documents/2025/07/02/2025-12345/determination-of-regulatory-review-period-for-purposes-of-patent-extension-livdelzi) (2025-07-02) — Health and Human Services Department
-- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Subcutaneous Drug Development & Delivery Consortium, Inc.](https://www.federalregister.gov/documents/2025/06/13/2025-10806/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-subcutaneous-drug) (2025-06-13) — Justice Department
-- [Determination of Regulatory Review Period for Purposes of Patent Extension; SUNLENCA](https://www.federalregister.gov/documents/2025/05/12/2025-08258/determination-of-regulatory-review-period-for-purposes-of-patent-extension-sunlenca) (2025-05-12) — Health and Human Services Department
-- [Teva Branded Pharmaceutical Products R&D, Inc., et al.; Withdrawal of Approval of 12 New Drug Applications](https://www.federalregister.gov/documents/2025/01/15/2025-00743/teva-branded-pharmaceutical-products-randd-inc-et-al-withdrawal-of-approval-of-12-new-drug) (2025-01-15) — Health and Human Services Department
-- [Setting and Adjusting Patent Fees During Fiscal Year 2025](https://www.federalregister.gov/documents/2024/11/20/2024-26821/setting-and-adjusting-patent-fees-during-fiscal-year-2025) (2024-11-20) — Commerce Department
+- [Determination That DEMEROL (Meperidine Hydrochloride) Tablet, 100 Milligrams, and Other Drug Products Were Not Withdrawn From Sale for Reasons of Safety or Effectiveness](https://www.federalregister.gov/documents/2025/12/12/2025-22681/determination-that-demerol-meperidine-hydrochloride-tablet-100-milligrams-and-other-drug-products) (VERIFIED) (2025-12-12) — Health and Human Services Department
+- [Determination of Regulatory Review Period for Purposes of Patent Extension; LIVDELZI](https://www.federalregister.gov/documents/2025/07/02/2025-12345/determination-of-regulatory-review-period-for-purposes-of-patent-extension-livdelzi) (VERIFIED) (2025-07-02) — Health and Human Services Department
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Subcutaneous Drug Development & Delivery Consortium, Inc.](https://www.federalregister.gov/documents/2025/06/13/2025-10806/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-subcutaneous-drug) (VERIFIED) (2025-06-13) — Justice Department
+- [Determination of Regulatory Review Period for Purposes of Patent Extension; SUNLENCA](https://www.federalregister.gov/documents/2025/05/12/2025-08258/determination-of-regulatory-review-period-for-purposes-of-patent-extension-sunlenca) (VERIFIED) (2025-05-12) — Health and Human Services Department
+- [Teva Branded Pharmaceutical Products R&D, Inc., et al.; Withdrawal of Approval of 12 New Drug Applications](https://www.federalregister.gov/documents/2025/01/15/2025-00743/teva-branded-pharmaceutical-products-randd-inc-et-al-withdrawal-of-approval-of-12-new-drug) (VERIFIED) (2025-01-15) — Health and Human Services Department
+- ~~[Setting and Adjusting Patent Fees During Fiscal Year 2025](https://www.federalregister.gov/documents/2024/11/20/2024-26821/setting-and-adjusting-patent-fees-during-fiscal-year-2025)~~ (URL broken, archived by Ops) (2024-11-20) — Commerce Department
 - ... and 66 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Gilead%20Sciences%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Gilead%20Sciences%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->

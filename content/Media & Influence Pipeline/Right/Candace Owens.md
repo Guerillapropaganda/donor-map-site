@@ -30,7 +30,7 @@ Married George Farmer (July 7, 1990, London) at Trump Winery in 2019, after an 1
 
 No FEC individual contributions found. Candace Owens has made zero federal political contributions despite her position as one of the most prominent voices in Republican media. The FEC API returned 63 results for "candace owens", all ActBlue/Democratic donors from different states. The self-funded independent media operation ($15-25M annual revenue) demonstrates that genuine audience funding creates different structural incentives than billionaire patronage, and Owens's $0 FEC record reflects this: her audience funds her directly, independent of the donor-aligned institutional constraints that bind other right-wing media figures.
 
-- [FEC: Candace Owens individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=owens%2C+candace) (Tier 1)
+- [FEC: Candace Owens individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=owens%2C+candace) (Tier 1) (VERIFIED)
 
 > **Disambiguation note:** FEC returns 63 results for "candace owens" and 222 results for "farmer, candace" (maiden name), all are Democratic donors from Tennessee and other states, none match the conservative media personality.
 
@@ -139,19 +139,19 @@ Candace Owens represents **the escape velocity problem**, what happens when a me
 
 ### Sources
 
-- [FEC Individual Contributions: Candace Owens (63 results, 2015-2026, none match media personality)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=candace+owens&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1)
-- [Variety: "Candace Owens Is Out at Daily Wire, CEO Says" (Mar 22, 2024)](https://variety.com/2024/digital/news/candace-owens-daily-wire-out-1235949509/) (Tier 2)
-- [CNN: "Candace Owen out at the Daily Wire" (Mar 22, 2024)](https://edition.cnn.com/2024/03/22/media/candace-owen-out-ben-shapiro-daily-wire-anti-semitism) (Tier 2)
-- [Deadline: "Candace Owens, Right Wing Firebrand, Parts Ways With The Daily Wire" (Mar 2024)](https://deadline.com/2024/03/candace-owens-daily-wire-1235865687/) (Tier 2)
-- [Slate: "Candace Owens vs. Ben Shapiro: The Daily Wire Feud" (Apr 2024)](https://slate.com/news-and-politics/2024/04/candace-owens-ben-shapiro-daily-wire-antisemitism-israel-jews.html) (Tier 2)
-- [NPR: "French President and First Lady Sue Candace Owens for Defamation" (Jul 24, 2025)](https://www.npr.org/2025/07/24/nx-s1-5477430/french-president-and-first-lady-sue-candace-owens-for-defamation) (Tier 2)
-- [Fortune: "Inside Candace Owens' Media Empire and the Macron Lawsuit" (Dec 2, 2025)](https://fortune.com/2025/12/02/candace-owens-brigitte-macron-lawsuit/) (Tier 2)
-- [Hollywood Reporter: "Inside Candace Owens' Crusade Against Erika Kirk" (2025)](https://www.hollywoodreporter.com/news/politics-news/candace-owens-bride-of-charlie-erika-kirk-1236522192/) (Tier 2)
-- [Barrett Media: "Candace Owens Lands in Top 10 New Podcasts of 2024" (Feb 13, 2025)](https://barrettmedia.com/2025/02/13/candace-owens-lands-in-top-10-new-podcasts-of-2024-from-edison-research/) (Tier 2)
-- [Times of Israel: "Study Shows 2025 Spike in Antisemitic Rhetoric from Carlson, Owens" (2025)](https://www.timesofisrael.com/study-shows-spike-in-right-wing-podcasters-anti-israel-antisemitic-rhetoric-in-2025/) (Tier 2)
-- [Daily Beast: "Blexit's Finances Are Slumping, But Its Paycheck to Candace Owens Keeps Coming"](https://www.thedailybeast.com/blexits-finances-are-slumpingbut-its-paycheck-to-candace-owens-keeps-coming/) (Tier 2)
-- [ADL: Candace Owens Backgrounder](https://www.adl.org/resources/backgrounder/candace-owens) (Tier 2)
-- [Wikipedia: Candace Owens](https://en.wikipedia.org/wiki/Candace_Owens) (Tier 3)
+- [FEC Individual Contributions: Candace Owens (63 results, 2015-2026, none match media personality)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=candace+owens&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1) (VERIFIED)
+- [Variety: "Candace Owens Is Out at Daily Wire, CEO Says" (Mar 22, 2024)](https://variety.com/2024/digital/news/candace-owens-daily-wire-out-1235949509/) (Tier 2) (VERIFIED)
+- [CNN: "Candace Owen out at the Daily Wire" (Mar 22, 2024)](https://edition.cnn.com/2024/03/22/media/candace-owen-out-ben-shapiro-daily-wire-anti-semitism) (Tier 2) (VERIFIED)
+- [Deadline: "Candace Owens, Right Wing Firebrand, Parts Ways With The Daily Wire" (Mar 2024)](https://deadline.com/2024/03/candace-owens-daily-wire-1235865687/) (Tier 2) (VERIFIED)
+- [Slate: "Candace Owens vs. Ben Shapiro: The Daily Wire Feud" (Apr 2024)](https://slate.com/news-and-politics/2024/04/candace-owens-ben-shapiro-daily-wire-antisemitism-israel-jews.html) (Tier 2) (VERIFIED)
+- [NPR: "French President and First Lady Sue Candace Owens for Defamation" (Jul 24, 2025)](https://www.npr.org/2025/07/24/nx-s1-5477430/french-president-and-first-lady-sue-candace-owens-for-defamation) (Tier 2) (VERIFIED)
+- [Fortune: "Inside Candace Owens' Media Empire and the Macron Lawsuit" (Dec 2, 2025)](https://fortune.com/2025/12/02/candace-owens-brigitte-macron-lawsuit/) (Tier 2) (VERIFIED)
+- [Hollywood Reporter: "Inside Candace Owens' Crusade Against Erika Kirk" (2025)](https://www.hollywoodreporter.com/news/politics-news/candace-owens-bride-of-charlie-erika-kirk-1236522192/) (Tier 2) (VERIFIED)
+- [Barrett Media: "Candace Owens Lands in Top 10 New Podcasts of 2024" (Feb 13, 2025)](https://barrettmedia.com/2025/02/13/candace-owens-lands-in-top-10-new-podcasts-of-2024-from-edison-research/) (Tier 2) (VERIFIED)
+- [Times of Israel: "Study Shows 2025 Spike in Antisemitic Rhetoric from Carlson, Owens" (2025)](https://www.timesofisrael.com/study-shows-spike-in-right-wing-podcasters-anti-israel-antisemitic-rhetoric-in-2025/) (Tier 2) (VERIFIED)
+- [Daily Beast: "Blexit's Finances Are Slumping, But Its Paycheck to Candace Owens Keeps Coming"](https://www.thedailybeast.com/blexits-finances-are-slumpingbut-its-paycheck-to-candace-owens-keeps-coming/) (Tier 2) (VERIFIED)
+- [ADL: Candace Owens Backgrounder](https://www.adl.org/resources/backgrounder/candace-owens) (Tier 2) (VERIFIED)
+- [Wikipedia: Candace Owens](https://en.wikipedia.org/wiki/Candace_Owens) (Tier 3) (VERIFIED)
 
 ---
 

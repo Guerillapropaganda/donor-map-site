@@ -138,18 +138,18 @@ Miller's political identity and the donor base that propelled her to Congress re
 
 **Professional Background:** Healthcare consultant specializing in pharmaceutical and biotech sales, training, development
 
-**Website:** [donnaforcongress.com](https://donnaforcongress.com/?q=Donna%20Miller) (URL pending confirmation)
+**Website:** [donnaforcongress.com](https://donnaforcongress.com/?q=Donna%20Miller) (VERIFIED) (URL pending confirmation)
 
 ## Sources
 
-- [FEC Candidate: Donna Miller 2026 Campaign Finance](https://www.fec.gov/data/candidate/H6IL02355/) (Tier 1)
-- [FEC: Illinois 2nd District 2026 Primary Results](https://www.fec.gov/data/elections/house/IL/02/2026/) (Tier 1)
-- [Cook County Commissioner Donna Miller wins Illinois' 2nd District over comeback effort by former Rep. Jesse Jackson Jr.: Chicago Tribune](https://www.chicagotribune.com/2026/03/17/illinois-2nd-democratic-primary/) (Tier 2)
-- [A voter's guide to the confusing world of super PACs influencing 2026 Illinois primary races: WBEZ](https://www.wbez.org/government-politics/elections/2026/03/13/super-pacs-influence-2026-illinois-primary-races-glossary) (Tier 2)
-- [AIPAC Coordinates Donors in Illinois House Primaries: The American Prospect](https://prospect.org/2026/02/06/aipac-coordinates-donors-in-illinois-house-primaries/) (Tier 2)
-- [Donna Miller projected to win Illinois 2nd District seat after campaign maimed by AIPAC spending: Heartland Signal](https://heartlandsignal.com/2026/03/18/donna-miller-projected-to-win-illinois-2nd-district-seat-after-campaign-maimed-by-aipac-spending/) (Tier 2)
-- [AIPAC Flops in Illinois, But Record Election Spending Called a 'Full-Spectrum Disaster for Democracy': Common Dreams](https://www.commondreams.org/news/aipac-spending-illinois) (Tier 3)
-- [Donna Miller - Wikipedia](https://en.wikipedia.org/wiki/Donna_Miller) (Tier 3)
+- [FEC Candidate: Donna Miller 2026 Campaign Finance](https://www.fec.gov/data/candidate/H6IL02355/) (Tier 1) (VERIFIED)
+- [FEC: Illinois 2nd District 2026 Primary Results](https://www.fec.gov/data/elections/house/IL/02/2026/) (Tier 1) (VERIFIED)
+- [Cook County Commissioner Donna Miller wins Illinois' 2nd District over comeback effort by former Rep. Jesse Jackson Jr.: Chicago Tribune](https://www.chicagotribune.com/2026/03/17/illinois-2nd-democratic-primary/) (Tier 2) (VERIFIED)
+- [A voter's guide to the confusing world of super PACs influencing 2026 Illinois primary races: WBEZ](https://www.wbez.org/government-politics/elections/2026/03/13/super-pacs-influence-2026-illinois-primary-races-glossary) (Tier 2) (VERIFIED)
+- [AIPAC Coordinates Donors in Illinois House Primaries: The American Prospect](https://prospect.org/2026/02/06/aipac-coordinates-donors-in-illinois-house-primaries/) (Tier 2) (VERIFIED)
+- [Donna Miller projected to win Illinois 2nd District seat after campaign maimed by AIPAC spending: Heartland Signal](https://heartlandsignal.com/2026/03/18/donna-miller-projected-to-win-illinois-2nd-district-seat-after-campaign-maimed-by-aipac-spending/) (Tier 2) (VERIFIED)
+- [AIPAC Flops in Illinois, But Record Election Spending Called a 'Full-Spectrum Disaster for Democracy': Common Dreams](https://www.commondreams.org/news/aipac-spending-illinois) (Tier 3) (VERIFIED)
+- [Donna Miller - Wikipedia](https://en.wikipedia.org/wiki/Donna_Miller) (Tier 3) (VERIFIED)
 
 ---
 
@@ -178,14 +178,14 @@ party:: Democrat
 | THE PEOPLE'S LOBBY | $0 | $3,843 |
 | DMFI PAC | $382 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6IL02355/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6IL02355/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
 _No committee data found for the 119th Congress._
 
-- [Source: Congress.gov](https://www.congress.gov/member/B001296) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/B001296)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 ### Wikipedia
@@ -194,11 +194,11 @@ Donna Lynne Miller is an American politician currently serving as a Cook County 
 
 | Fact | Value |
 |------|-------|
-| Wikidata ID | [Q101318343](https://www.wikidata.org/wiki/Q101318343) |
+| Wikidata ID | [Q101318343](https://www.wikidata.org/wiki/Q101318343) (VERIFIED) |
 | Description | American politician |
 | Born | 1965-09-07 |
-| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Cook_County_Commissioner_Donna_Miller_at_May_Day_2025.jpg?width=300) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Cook_County_Commissioner_Donna_Miller_at_May_Day_2025.jpg?width=300) (NEEDS REVIEW) |
 
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/Donna_Miller) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q101318343) (Tier 2)
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Donna_Miller) (Tier 3) (VERIFIED)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q101318343) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->

@@ -135,17 +135,17 @@ Palantir's various military contracts were presented as limited pilots: Project 
 ### Sources
 
 ### Tier 1 (Primary Government Data):
-- [USASpending.gov: Palantir Technologies Federal Award Data](https://www.usaspending.gov/recipient/1ea8a9a4-3726-3491-9040-66950bb67606-P/all) (Tier 1)
-- [U.S. Army: Army Awards Enterprise Service Agreement (Project Nexus $10B)](https://www.army.mil/article/287506/u_s_army_awards_enterprise_service_agreement_to_enhance_military_readiness_and_drive_operational_efficiency) (Tier 1)
-- [U.S. Department of War: Palantir Contracts Search](https://www.war.gov/News/Contracts/Search/palantir/) (Tier 1)
-- [OpenSecrets: Peter Thiel Donor Lookup](https://www.opensecrets.org/donor-lookup/results?name=peter+thiel) (Tier 1)
-- [U.S. Treasury Department: IT Modernization with Palantir](https://home.treasury.gov/news/press-releases/sb0260) (Tier 1)
+- [USASpending.gov: Palantir Technologies Federal Award Data](https://www.usaspending.gov/recipient/1ea8a9a4-3726-3491-9040-66950bb67606-P/all) (Tier 1) (VERIFIED)
+- [U.S. Army: Army Awards Enterprise Service Agreement (Project Nexus $10B)](https://www.army.mil/article/287506/u_s_army_awards_enterprise_service_agreement_to_enhance_military_readiness_and_drive_operational_efficiency) (Tier 1) (VERIFIED)
+- [U.S. Department of War: Palantir Contracts Search](https://www.war.gov/News/Contracts/Search/palantir/) (Tier 1) (VERIFIED)
+- [OpenSecrets: Peter Thiel Donor Lookup](https://www.opensecrets.org/donor-lookup/results?name=peter+thiel) (Tier 1) (VERIFIED)
+- [U.S. Treasury Department: IT Modernization with Palantir](https://home.treasury.gov/news/press-releases/sb0260) (Tier 1) (VERIFIED)
 
 ### Tier 2 (Major Journalism):
-- [CNBC: Palantir lands $10 billion Army software and data contract](https://www.cnbc.com/2025/08/01/palantir-lands-10-billion-army-software-and-data-contract.html) (Tier 2)
-- [The Hill: Palantir courts major federal contracts in Trump era](https://thehill.com/policy/technology/5667232-palantir-trump-administration-surveillance/) (Tier 2)
-- [Washington Post: Palantir gets $10 billion contract from U.S. Army](https://www.washingtonpost.com/technology/2025/07/31/palantir-army-contract-10bn/) (Tier 2)
-- [Breaking Defense: Army consolidates dozens of Palantir software contracts into $10B deal](https://breakingdefense.com/2025/08/army-consolidates-dozens-of-palantir-software-contracts-into-one-deal-worth-up-to-10-billion/) (Tier 2)
-- [NPR: How Palantir is rising in the Trump era](https://www.npr.org/2025/05/01/nx-s1-5372776/palantir-tech-contracts-trump) (Tier 2)
-- [Fortune: New contract shows Palantir is working on tech platform with ICE](https://fortune.com/2025/12/09/palantir-new-contract-uscis-ice/) (Tier 2)
+- [CNBC: Palantir lands $10 billion Army software and data contract](https://www.cnbc.com/2025/08/01/palantir-lands-10-billion-army-software-and-data-contract.html) (Tier 2) (VERIFIED)
+- ~~[The Hill: Palantir courts major federal contracts in Trump era](https://thehill.com/policy/technology/5667232-palantir-trump-administration-surveillance/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Washington Post: Palantir gets $10 billion contract from U.S. Army](https://www.washingtonpost.com/technology/2025/07/31/palantir-army-contract-10bn/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Breaking Defense: Army consolidates dozens of Palantir software contracts into $10B deal](https://breakingdefense.com/2025/08/army-consolidates-dozens-of-palantir-software-contracts-into-one-deal-worth-up-to-10-billion/) (Tier 2) (VERIFIED)
+- [NPR: How Palantir is rising in the Trump era](https://www.npr.org/2025/05/01/nx-s1-5372776/palantir-tech-contracts-trump) (Tier 2) (VERIFIED)
+- [Fortune: New contract shows Palantir is working on tech platform with ICE](https://fortune.com/2025/12/09/palantir-new-contract-uscis-ice/) (Tier 2) (VERIFIED)
 

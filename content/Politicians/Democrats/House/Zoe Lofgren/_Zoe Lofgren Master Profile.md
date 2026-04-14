@@ -163,17 +163,17 @@ The H-1B visa work completes the alignment. Lofgren, the former immigration atto
 
 ## Sources
 
-- [FEC Candidate: Zoe Lofgren donor profile](https://www.fec.gov/data/candidate/H4CA16049/) (Tier 1)
-- [Congress.gov: Zoe Lofgren](https://www.congress.gov/member/zoe-lofgren/L000397) (Tier 1)
-- [House.gov: Lofgren biography](https://lofgren.house.gov/about) (Tier 1)
-- [House Science Committee Democrats: RM Lofgren](https://democrats-science.house.gov/news/press-releases/ranking-member-lofgrens-statement-on-being-selected-to-continue-leading-science-committee-democrats) (Tier 1)
-- [American Prospect: Zoe Lofgren — The Democratic Holdout on Big Tech Legislation](https://prospect.org/2021/07/01/zoe-lofgren-democratic-holdout-big-tech-legislation/) (Tier 2)
-- [KQED: Silicon Valley lawmaker seeks to shorten path to citizenship for immigrant tech workers](https://www.kqed.org/news/11885260/silicon-valley-lawmaker-seeks-to-shorten-path-to-citizenship-for-immigrant-tech-workers) (Tier 2)
-- [CNN: Silicon Valley lawmaker introduces H-1B reform bill](https://money.cnn.com/2017/01/25/technology/h1b-visa-reform-bill-zoe-lofgren/index.html) (Tier 2)
-- [San Francisco Inquirer: Big Tech backs Lofgren to protect its monopoly](https://sfinquirer.com/2023/12/29/will-big-techs-backing-of-zoe-lofgren-secure-the-18th-district-or-will-latinos-turnout/) (Tier 2)
-- [Clerk.house.gov: Lofgren 119th Congress profile](https://clerk.house.gov/members/L000397) (Tier 1)
-- [Ballotpedia: Zoe Lofgren](https://ballotpedia.org/Zoe_Lofgren) (Tier 3)
-- [Wikipedia: Zoe Lofgren](https://en.wikipedia.org/wiki/Zoe_Lofgren) (Tier 3)
+- [FEC Candidate: Zoe Lofgren donor profile](https://www.fec.gov/data/candidate/H4CA16049/) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: Zoe Lofgren](https://www.congress.gov/member/zoe-lofgren/L000397)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [House.gov: Lofgren biography](https://lofgren.house.gov/about) (Tier 1) (VERIFIED)
+- [House Science Committee Democrats: RM Lofgren](https://democrats-science.house.gov/news/press-releases/ranking-member-lofgrens-statement-on-being-selected-to-continue-leading-science-committee-democrats) (Tier 1) (VERIFIED)
+- [American Prospect: Zoe Lofgren — The Democratic Holdout on Big Tech Legislation](https://prospect.org/2021/07/01/zoe-lofgren-democratic-holdout-big-tech-legislation/) (Tier 2) (VERIFIED)
+- [KQED: Silicon Valley lawmaker seeks to shorten path to citizenship for immigrant tech workers](https://www.kqed.org/news/11885260/silicon-valley-lawmaker-seeks-to-shorten-path-to-citizenship-for-immigrant-tech-workers) (Tier 2) (VERIFIED)
+- ~~[CNN: Silicon Valley lawmaker introduces H-1B reform bill](https://money.cnn.com/2017/01/25/technology/h1b-visa-reform-bill-zoe-lofgren/index.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [San Francisco Inquirer: Big Tech backs Lofgren to protect its monopoly](https://sfinquirer.com/2023/12/29/will-big-techs-backing-of-zoe-lofgren-secure-the-18th-district-or-will-latinos-turnout/) (Tier 2) (VERIFIED)
+- [Clerk.house.gov: Lofgren 119th Congress profile](https://clerk.house.gov/members/L000397) (Tier 1) (VERIFIED)
+- [Ballotpedia: Zoe Lofgren](https://ballotpedia.org/Zoe_Lofgren) (Tier 3) (VERIFIED)
+- [Wikipedia: Zoe Lofgren](https://en.wikipedia.org/wiki/Zoe_Lofgren) (Tier 3) (VERIFIED)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -206,7 +206,7 @@ The H-1B visa work completes the alignment. Lofgren, the former immigration atto
 | SAN BENITO COUNTY DEMOCRATIC CENTRAL COMMITTEE | $1,795 | $0 |
 | OPPORTUNITY PAC - A COALITION OF TEACHERS HEALTH CARE GIVERS FACULTY MEMBERS SCHOOL EMPLOYEES AND PUBLIC AND PR | $1,772 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4CA16049/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4CA16049/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (Congress.gov)
@@ -235,7 +235,7 @@ The H-1B visa work completes the alignment. Lofgren, the former immigration atto
 | 5449 | Redistricting Reform Act of 2025 | Referred to the House Committee on the Judiciary. |
 | 4999 | Fusion Workforce Act | Referred to the House Committee on Science, Space, and Technology. |
 
-- [Source: Congress.gov](https://www.congress.gov/member/L000397) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/L000397)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Committee Assignments (Congress.gov)
@@ -251,7 +251,7 @@ The H-1B visa work completes the alignment. Lofgren, the former immigration atto
 - Immigration Integrity, Security, and Enforcement
 - The Administrative State, Regulatory Reform, and Antitrust
 
-- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 ### Campaign Finance Summary (FEC)
@@ -286,7 +286,7 @@ The H-1B visa work completes the alignment. Lofgren, the former immigration atto
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Zoe Lofgren](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: Zoe Lofgren](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 
 ### Wikipedia
@@ -295,13 +295,13 @@ Susan Ellen "Zoe" Lofgren is an American politician and lawyer serving as a U.S.
 
 | Fact | Value |
 |------|-------|
-| Wikidata ID | [Q218217](https://www.wikidata.org/wiki/Q218217) |
+| Wikidata ID | [Q218217](https://www.wikidata.org/wiki/Q218217) (VERIFIED) |
 | Description | American politician |
 | Born | 1947-12-21 |
-| Website | [https://lofgren.house.gov](https://lofgren.house.gov) |
-| X/Twitter | [@RepZoeLofgren](https://x.com/RepZoeLofgren) |
-| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Zoe_Lofgren_headshot.jpg?width=300) |
+| Website | [https://lofgren.house.gov](https://lofgren.house.gov) (VERIFIED) |
+| X/Twitter | [@RepZoeLofgren](https://x.com/RepZoeLofgren) (VERIFIED) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Zoe_Lofgren_headshot.jpg?width=300) (NEEDS REVIEW) |
 
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/Zoe_Lofgren) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q218217) (Tier 2)
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Zoe_Lofgren) (Tier 3) (VERIFIED)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q218217) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->

@@ -88,10 +88,10 @@ The honest framing is that Paul's positions align with Russian strategic prefere
 
 ### Sources
 
-- [NBC News: Rand Paul blocks quick passage of $40 billion Ukraine aid package](https://www.nbcnews.com/politics/congress/rand-paul-blocks-quick-passage-40-billion-ukraine-aid-package-rcna28648) (Tier 2)
-- [CNN: Rand Paul blocks bipartisan effort to swiftly pass Ukraine aid](https://www.cnn.com/2022/05/12/politics/rand-paul-blocks-ukraine-aid/index.html) (Tier 2)
-- [CBS News: Rand Paul stalls $40 billion Ukraine aid by denying unanimous consent](https://www.cbsnews.com/news/rand-paul-ukraine-aid-senate-unanimous-consent/) (Tier 2)
-- [CNN: Rand Paul drags out Senate effort to pass $95 billion foreign aid package](https://www.cnn.com/2024/02/09/politics/rand-paul-senate-foreign-aid-package/index.html) (Tier 2)
-- [Newsweek: Rand Paul explains why he blocked $40bn Ukraine aid](https://www.newsweek.com/rand-paul-explains-why-single-handedly-blocked-40bn-ukraine-aid-russia-senate-1706288) (Tier 2)
-- [Washington Post: Rand Paul blocks Senate vote to advance Ukraine war aid bill](https://www.washingtonpost.com/world/2022/05/13/rand-paul-ukraine-aid-senate-vote/) (Tier 2)
-- [OpenSecrets: Rand Paul campaign finance summary](https://www.opensecrets.org/members-of-congress/summary?cid=N00030836) (Tier 1)
+- [NBC News: Rand Paul blocks quick passage of $40 billion Ukraine aid package](https://www.nbcnews.com/politics/congress/rand-paul-blocks-quick-passage-40-billion-ukraine-aid-package-rcna28648) (Tier 2) (VERIFIED)
+- [CNN: Rand Paul blocks bipartisan effort to swiftly pass Ukraine aid](https://www.cnn.com/2022/05/12/politics/rand-paul-blocks-ukraine-aid/index.html) (Tier 2) (VERIFIED)
+- [CBS News: Rand Paul stalls $40 billion Ukraine aid by denying unanimous consent](https://www.cbsnews.com/news/rand-paul-ukraine-aid-senate-unanimous-consent/) (Tier 2) (VERIFIED)
+- [CNN: Rand Paul drags out Senate effort to pass $95 billion foreign aid package](https://www.cnn.com/2024/02/09/politics/rand-paul-senate-foreign-aid-package/index.html) (Tier 2) (VERIFIED)
+- [Newsweek: Rand Paul explains why he blocked $40bn Ukraine aid](https://www.newsweek.com/rand-paul-explains-why-single-handedly-blocked-40bn-ukraine-aid-russia-senate-1706288) (Tier 2) (VERIFIED)
+- [Washington Post: Rand Paul blocks Senate vote to advance Ukraine war aid bill](https://www.washingtonpost.com/world/2022/05/13/rand-paul-ukraine-aid-senate-vote/) (Tier 2) (VERIFIED)
+- [OpenSecrets: Rand Paul campaign finance summary](https://www.opensecrets.org/members-of-congress/summary?cid=N00030836) (Tier 1) (VERIFIED)

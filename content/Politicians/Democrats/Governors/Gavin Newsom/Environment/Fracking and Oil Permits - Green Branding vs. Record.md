@@ -120,8 +120,8 @@ The SB 1137 setback law is real, but it is a single regulation in a complex perm
 
 ### Sources
 
-- [Capital & Main: drilling permits under Newsom](https://capitalandmain.com/push-to-make-big-oil-pay-for-climate-damage-losing-steam-in-california-legislature) (Tier 2)
-- [Center for Biological Diversity: permit tracking](https://www.biologicaldiversity.org/programs/energy-justice/california/) (Tier 2)
-- [CalGEM: drilling permit database](https://www.conservation.ca.gov/calgem) (Tier 1)
-- [CalMatters: Oil industry withdraws controversial oil well ballot measure](https://calmatters.org/category/environment/2024/06/oil-ballot-california/) (Tier 2)
+- [Capital & Main: drilling permits under Newsom](https://capitalandmain.com/push-to-make-big-oil-pay-for-climate-damage-losing-steam-in-california-legislature) (Tier 2) (VERIFIED)
+- ~~[Center for Biological Diversity: permit tracking](https://www.biologicaldiversity.org/programs/energy-justice/california/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [CalGEM: drilling permit database](https://www.conservation.ca.gov/calgem) (Tier 1) (VERIFIED)
+- ~~[CalMatters: Oil industry withdraws controversial oil well ballot measure](https://calmatters.org/category/environment/2024/06/oil-ballot-california/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 

@@ -187,15 +187,15 @@ This is not quid pro quo corruption in the legal sense. It is structural politic
 
 ### Sources
 
-- [Wikipedia: Tim Dunn (businessman)](https://en.wikipedia.org/wiki/Tim_Dunn_%28businessman%29) (Tier 3)
-- [FEC Independent Expenditures: Tim Dunn donor profile](https://www.fec.gov/data/independent-expenditures/?q=Tim%20Dunn) (Tier 1)
-- [Detroit News: Tim Dunn $5M to Great Lakes Conservatives Fund August 2025](https://www.detroitnews.com/story/news/politics/2025/08/01/crownquest-texas-oil-and-gas-tim-dunn-gives-5-million-to-mike-rogers-super-pac-michigan-senate/85472913007/?gnt-cfr=1&gca-cat=p) (Tier 2)
-- [Michigan Advance: Pro-Rogers Super PAC funded by Christian Nationalist August 2025](https://michiganadvance.com/2025/08/05/pro-rogers-super-pac-funded-by-ardent-christian-nationalist/) (Tier 2)
-- [CNN: Texas far-right politics Tim Dunn and Farris Wilks](https://www.cnn.com/2022/07/24/politics/texas-far-right-politics-invs) (Tier 2)
-- [Texas Tribune: Alex Fairly Texas GOP donor](https://www.texastribune.org/2025/05/08/alex-fairly-texas-republican-donor-tim-dunn-texas-house/) (Tier 2)
-- [Rolling Stone: Tim Dunn Texas oil billionaire backing Trump](https://www.rollingstone.com/politics/politics-features/tim-dunn-texas-oil-billionaire-trump-donor-1235033143/) (Tier 2)
-- [Climate Criminals: Timothy Dunn oil executive profile](https://www.climatecriminals.org/timothy-dunn) (Tier 3)
-- [Ballotpedia: Tim Dunn Texas donor](https://ballotpedia.org/Tim_Dunn_(Texas)) (Tier 3)
+- [Wikipedia: Tim Dunn (businessman)](https://en.wikipedia.org/wiki/Tim_Dunn_%28businessman%29) (Tier 3) (VERIFIED)
+- [FEC Independent Expenditures: Tim Dunn donor profile](https://www.fec.gov/data/independent-expenditures/?q=Tim%20Dunn) (Tier 1) (VERIFIED)
+- [Detroit News: Tim Dunn $5M to Great Lakes Conservatives Fund August 2025](https://www.detroitnews.com/story/news/politics/2025/08/01/crownquest-texas-oil-and-gas-tim-dunn-gives-5-million-to-mike-rogers-super-pac-michigan-senate/85472913007/?gnt-cfr=1&gca-cat=p) (Tier 2) (VERIFIED)
+- [Michigan Advance: Pro-Rogers Super PAC funded by Christian Nationalist August 2025](https://michiganadvance.com/2025/08/05/pro-rogers-super-pac-funded-by-ardent-christian-nationalist/) (Tier 2) (VERIFIED)
+- [CNN: Texas far-right politics Tim Dunn and Farris Wilks](https://www.cnn.com/2022/07/24/politics/texas-far-right-politics-invs) (Tier 2) (VERIFIED)
+- [Texas Tribune: Alex Fairly Texas GOP donor](https://www.texastribune.org/2025/05/08/alex-fairly-texas-republican-donor-tim-dunn-texas-house/) (Tier 2) (VERIFIED)
+- [Rolling Stone: Tim Dunn Texas oil billionaire backing Trump](https://www.rollingstone.com/politics/politics-features/tim-dunn-texas-oil-billionaire-trump-donor-1235033143/) (Tier 2) (VERIFIED)
+- [Climate Criminals: Timothy Dunn oil executive profile](https://www.climatecriminals.org/timothy-dunn) (Tier 3) (VERIFIED)
+- [Ballotpedia: Tim Dunn Texas donor](https://ballotpedia.org/Tim_Dunn_(Texas) (VERIFIED)) (Tier 3)
 
 ---
 
@@ -231,7 +231,7 @@ This is not quid pro quo corruption in the legal sense. It is structural politic
 - Upstate Jobs Party v. Kosinski (2021) — Court of Appeals for the Second Circuit
 - Charles v. Sacoolas (2020) — District Court, E.D. Virginia
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Tim%20Dunn%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Tim%20Dunn%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Campaign Finance (FEC)
@@ -256,7 +256,7 @@ This is not quid pro quo corruption in the legal sense. It is structural politic
 | WHATLEY VICTORY COMMITTEE | $12,000 | — |
 | FRIENDS OF MIKE LEE INC | $10,500 | REP |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Tim%20Dunn) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Tim%20Dunn) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### SEC Filing Activity
@@ -274,5 +274,5 @@ This is not quid pro quo corruption in the legal sense. It is structural politic
 - 2020-09-04 — **D**: D
 - 2005-03-31 — **EX-10.37**: EXHIBIT 10.37
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Tim%20Dunn%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Tim%20Dunn%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->

@@ -49,7 +49,7 @@ Walsh operates entirely within the Daily Wire's institutional infrastructure, th
 
 No FEC individual contributions found for Matt Walsh in Tennessee or other states. The FEC API search for "matt walsh" returns 2,465 results across all states due to the common name. Filtering to Tennessee (Walsh's state of residence) yields zero matches. The Daily Wire's culture war documentary producer has made zero federal political contributions, consistent with the pattern of Wilks-funded right-wing media figures (Shapiro $0, Owens $0, Walsh $0) who influence electoral outcomes through content distribution rather than campaign finance.
 
-- [FEC: Matt Walsh individual contributions (0 results, Tennessee)](https://www.fec.gov/data/receipts/?contributor_name=walsh%2C+matt&contributor_state=TN) (Tier 1)
+- [FEC: Matt Walsh individual contributions (0 results, Tennessee)](https://www.fec.gov/data/receipts/?contributor_name=walsh%2C+matt&contributor_state=TN) (Tier 1) (VERIFIED)
 
 > **Disambiguation note:** The name "Matt Walsh" appears 2,465 times in FEC records across all states. Filtering by Tennessee reveals zero contributions from the Daily Wire host, all other results are different individuals.
 
@@ -155,22 +155,22 @@ Matt Walsh represents **the culture war content factory**, the industrialization
 
 ### Sources
 
-- [FEC Individual Contributions: Matt Walsh (0 results in Tennessee, 2015-2026)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=matt+walsh&contributor_state=TN&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1)
-- [Washington Examiner: "Matt Walsh's Am I Racist? Becomes Highest Grossing Documentary of 2024"](https://www.washingtonexaminer.com/news/3162937/matt-walsh-highest-grossing-documentary-2024/) (Tier 2)
-- [Fordham Political Review: "How Is Right-Wing Media So Well Funded?"](https://fordhampoliticalreview.org/how-is-right-wing-media-so-well-funded/) (Tier 2)
-- [Media Matters: "The Daily Wire Is a Cesspool of Hatred and Bigotry"](https://www.mediamatters.org/daily-wire/daily-wire-cesspool-hatred-and-bigotry) (Tier 2)
-- [Wikipedia: What Is a Woman? (documentary)](https://en.wikipedia.org/wiki/What_Is_a_Woman%3F) (Tier 3)
-- [Wikipedia: Am I Racist? (documentary)](https://en.wikipedia.org/wiki/Am_I_Racist%3F) (Tier 3)
-- [Wikipedia: Matt Walsh (political commentator)](https://en.wikipedia.org/wiki/Matt_Walsh_(political_commentator)) (Tier 3)
-- [Wikipedia: Johnny the Walrus](https://en.wikipedia.org/wiki/Johnny_the_Walrus) (Tier 3)
-- [Wikipedia: The Daily Wire](https://en.wikipedia.org/wiki/The_Daily_Wire) (Tier 3)
-- [SPLC: Matt Walsh Extremist File](https://www.splcenter.org/resources/extremist-files/matt-walsh/) (Tier 2)
-- [HuffPost: "This State Tried To Pass Anti-Trans Laws For Years. Then A Right-Wing Media Star Got Involved."](https://www.huffpost.com/entry/matt-walsh-anti-trans-push-tennessee_n_653fd5e8e4b032ae1c9c0497) (Tier 2)
-- [Nashville Scene: "Anti-Trans Rally Led by Matt Walsh Brings Right-Wing Media Stars to Nashville"](https://www.nashvillescene.com/news/pithinthewind/anti-trans-rally-led-by-matt-walsh-brings-right-wing-media-stars-to-nashville/article_62c08340-5160-11ed-81bb-53478d4387aa.html) (Tier 2)
-- [NBC News: "Tennessee GOP urges pediatric clinic to stop providing gender-affirming surgeries"](https://www.nbcnews.com/nbc-out/out-politics-and-policy/tennessee-gop-urges-pediatric-clinic-stop-providing-gender-affirming-s-rcna50181) (Tier 2)
-- [Axios: "The Daily Wire eyes growth investment in 2025"](https://www.axios.com/2024/12/10/the-daily-wire-eyes-growth-investment-in-2025) (Tier 2)
-- [Inside Radio: "Matt Walsh's Podcast Is Again The Fastest Growing Among Conservatives"](https://www.insideradio.com/free/matt-walsh-s-podcast-is-again-the-fastest-growing-among-conservatives-analysis-shows/article_04ad9746-eb3a-11ee-b2f1-3b9ea599804f.html) (Tier 3)
-- [Media Matters: Matt Walsh Tag Page](https://www.mediamatters.org/matt-walsh) (Tier 2)
+- [FEC Individual Contributions: Matt Walsh (0 results in Tennessee, 2015-2026)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=matt+walsh&contributor_state=TN&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1) (VERIFIED)
+- [Washington Examiner: "Matt Walsh's Am I Racist? Becomes Highest Grossing Documentary of 2024"](https://www.washingtonexaminer.com/news/3162937/matt-walsh-highest-grossing-documentary-2024/) (Tier 2) (VERIFIED)
+- [Fordham Political Review: "How Is Right-Wing Media So Well Funded?"](https://fordhampoliticalreview.org/how-is-right-wing-media-so-well-funded/) (Tier 2) (VERIFIED)
+- [Media Matters: "The Daily Wire Is a Cesspool of Hatred and Bigotry"](https://www.mediamatters.org/daily-wire/daily-wire-cesspool-hatred-and-bigotry) (Tier 2) (VERIFIED)
+- [Wikipedia: What Is a Woman? (documentary)](https://en.wikipedia.org/wiki/What_Is_a_Woman%3F) (Tier 3) (VERIFIED)
+- [Wikipedia: Am I Racist? (documentary)](https://en.wikipedia.org/wiki/Am_I_Racist%3F) (Tier 3) (VERIFIED)
+- ~~[Wikipedia: Matt Walsh (political commentator)](https://en.wikipedia.org/wiki/Matt_Walsh_(political_commentator)~~ (URL broken, archived by Ops)) (Tier 3)
+- [Wikipedia: Johnny the Walrus](https://en.wikipedia.org/wiki/Johnny_the_Walrus) (Tier 3) (VERIFIED)
+- [Wikipedia: The Daily Wire](https://en.wikipedia.org/wiki/The_Daily_Wire) (Tier 3) (VERIFIED)
+- [SPLC: Matt Walsh Extremist File](https://www.splcenter.org/resources/extremist-files/matt-walsh/) (Tier 2) (VERIFIED)
+- [HuffPost: "This State Tried To Pass Anti-Trans Laws For Years. Then A Right-Wing Media Star Got Involved."](https://www.huffpost.com/entry/matt-walsh-anti-trans-push-tennessee_n_653fd5e8e4b032ae1c9c0497) (Tier 2) (VERIFIED)
+- [Nashville Scene: "Anti-Trans Rally Led by Matt Walsh Brings Right-Wing Media Stars to Nashville"](https://www.nashvillescene.com/news/pithinthewind/anti-trans-rally-led-by-matt-walsh-brings-right-wing-media-stars-to-nashville/article_62c08340-5160-11ed-81bb-53478d4387aa.html) (Tier 2) (VERIFIED)
+- [NBC News: "Tennessee GOP urges pediatric clinic to stop providing gender-affirming surgeries"](https://www.nbcnews.com/nbc-out/out-politics-and-policy/tennessee-gop-urges-pediatric-clinic-stop-providing-gender-affirming-s-rcna50181) (Tier 2) (VERIFIED)
+- ~~[Axios: "The Daily Wire eyes growth investment in 2025"](https://www.axios.com/2024/12/10/the-daily-wire-eyes-growth-investment-in-2025)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Inside Radio: "Matt Walsh's Podcast Is Again The Fastest Growing Among Conservatives"](https://www.insideradio.com/free/matt-walsh-s-podcast-is-again-the-fastest-growing-among-conservatives-analysis-shows/article_04ad9746-eb3a-11ee-b2f1-3b9ea599804f.html) (Tier 3) (VERIFIED)
+- [Media Matters: Matt Walsh Tag Page](https://www.mediamatters.org/matt-walsh) (Tier 2) (VERIFIED)
 
 ---
 

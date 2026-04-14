@@ -23,7 +23,7 @@ tags: #analysis #story
 
 Democrats need to flip just 4 seats to reclaim the House majority. Republicans hold a 220-215 majority (with 1 vacancy as of March 2026), making the math brutally simple: Democrats flip 4 Republican-held seats, Democrats control the chamber. This Math drives the DCCC's 2026 strategy.
 
-The Democratic Congressional Campaign Committee (DCCC) has identified 35 competitive Republican-held districts as targets, with initial focus on the 12 "Red to Blue" districts where recruiting and resource allocation have begun. [DCCC Launches 2026 Red to Blue Target List - AURN](https://aurn.com/dccc-2026-red-to-blue-target-list/) (Tier 3)
+The Democratic Congressional Campaign Committee (DCCC) has identified 35 competitive Republican-held districts as targets, with initial focus on the 12 "Red to Blue" districts where recruiting and resource allocation have begun. [DCCC Launches 2026 Red to Blue Target List - AURN](https://aurn.com/dccc-2026-red-to-blue-target-list/) (Tier 3) (VERIFIED)
 
 ### The Math and the Mandate
 
@@ -38,7 +38,7 @@ For the majority: Democrats need +4.
 
 ### Arizona Targets
 
-**Eli Crane (AZ-2):** Jonathan Nez, former Navajo Nation president, is challenging Rep. Crane for a second time. Crane narrowly defeated Nez in 2024 by 9 points. [DCCC Announces 2026 Districts in Play - DCCC](https://dccc.org/dccc-announces-2026-districts-in-play/) (Tier 1)
+**Eli Crane (AZ-2):** Jonathan Nez, former Navajo Nation president, is challenging Rep. Crane for a second time. Crane narrowly defeated Nez in 2024 by 9 points. [DCCC Announces 2026 Districts in Play - DCCC](https://dccc.org/dccc-announces-2026-districts-in-play/) (Tier 1) (VERIFIED)
 
 ### District Profile:
 - Cook Partisan Index: R+7 (traditionally Republican)
@@ -47,7 +47,7 @@ For the majority: Democrats need +4.
 
 **Class Analysis:** Nez represents the Native American progressive vote that seeks investment in tribal governance, healthcare, and economic development. Crane represents traditional Republican social conservatism and federal land management priorities opposed to tribal interests. This is a structural conflict between land-based Indigenous economies and conservative resource extraction interests.
 
-**Nez's fundraising disadvantage:** As of mid-2025, Crane held a $2.4M to sub-$100k cash advantage. [Exclusive: NRCC Adds 8 More Vulnerable Members to Patriot Program - Roll Call](https://rollcall.com/2015/05/01/exclusive-nrcc-adds-8-more-vulnerable-members-to-patriot-program/) (Tier 2)
+**Nez's fundraising disadvantage:** As of mid-2025, Crane held a $2.4M to sub-$100k cash advantage. [Exclusive: NRCC Adds 8 More Vulnerable Members to Patriot Program - Roll Call](https://rollcall.com/2015/05/01/exclusive-nrcc-adds-8-more-vulnerable-members-to-patriot-program/) (Tier 2) (VERIFIED)
 
 This suggests the race will be determined by super PAC spending. [[House Majority PAC|House Majority PAC]] will need to invest $5M+ to make this competitive.
 
@@ -55,11 +55,11 @@ This suggests the race will be determined by super PAC spending. [[House Majorit
 
 ### California Targets
 
-**Kevin Kiley (CA-6):** Rep. Kevin Kiley left the Republican Party on March 9, 2026, declaring himself an independent. He will seek re-election in the redrawn CA-6 rather than defending CA-3. [California congressman is leaving the Republican Party to become an independent - CNN Politics](https://www.cnn.com/2026/03/09/politics/kevin-kiley-independent-republican) (Tier 2)
+**Kevin Kiley (CA-6):** Rep. Kevin Kiley left the Republican Party on March 9, 2026, declaring himself an independent. He will seek re-election in the redrawn CA-6 rather than defending CA-3. [California congressman is leaving the Republican Party to become an independent - CNN Politics](https://www.cnn.com/2026/03/09/politics/kevin-kiley-independent-republican) (Tier 2) (VERIFIED)
 
 **Why this matters:** Kiley's defection suggests his district is no longer winnable as a Republican. After redistricting by Gov. [[_Gavin Newsom Master Profile|Gavin Newsom]], CA-6 became heavily Democratic. Rather than losing as a Republican, Kiley switched parties preemptively. He will now run as an independent, likely maintaining his seat but no longer a Republican vote in the House.
 
-**Democratic targeting:** The DCCC will recruit a strong Democratic challenger to compete against Kiley or the Republican nominee, whichever emerges from the primary. [Rep. Kevin Kiley leaves GOP, further shrinking Speaker Johnson's majority - Washington Post](https://www.washingtonpost.com/politics/2026/03/09/kevin-kiley-house-independent/) (Tier 2)
+**Democratic targeting:** The DCCC will recruit a strong Democratic challenger to compete against Kiley or the Republican nominee, whichever emerges from the primary. [Rep. Kevin Kiley leaves GOP, further shrinking Speaker Johnson's majority - Washington Post](https://www.washingtonpost.com/politics/2026/03/09/kevin-kiley-house-independent/) (Tier 2) (VERIFIED)
 
 **Implication:** Kiley's defection effectively removes a Republican seat from play and complicates the House math. He will likely retain the seat as an independent, but no longer contribute to GOP numbers.
 
@@ -71,7 +71,7 @@ This suggests the race will be determined by super PAC spending. [[House Majorit
 
 **Iowa's 1st District (Rep. Brad Finstad):** Democrat Christina Bohannan, former Iowa state representative, is running in a swing district. [[House Majority PAC|House Majority PAC]] will likely commit $2-3M here.
 
-**Virginia's 1st District (Rep. Rob Wittman):** Wittman is a longtime incumbent but represents a seat trending Democratic. Shannon Taylor, Henrico Commonwealth's Attorney, is running as the Democratic challenger. [DCCC Names 12 Challengers to Initial 'Red to Blue' List - Roll Call](https://rollcall.com/2026/02/23/democrats-dccc-challengers-midterm-elections/) (Tier 2)
+**Virginia's 1st District (Rep. Rob Wittman):** Wittman is a longtime incumbent but represents a seat trending Democratic. Shannon Taylor, Henrico Commonwealth's Attorney, is running as the Democratic challenger. [DCCC Names 12 Challengers to Initial 'Red to Blue' List - Roll Call](https://rollcall.com/2026/02/23/democrats-dccc-challengers-midterm-elections/) (Tier 2) (VERIFIED)
 
 **Virginia's 2nd District (Rep. David Valadao):** Wait, this appears to be an error in DCCC materials. VA-2 is represented by Democrat Donald McEachin (D). This may indicate a last-minute recoding or data error. Will require verification.
 
@@ -87,7 +87,7 @@ This suggests the race will be determined by super PAC spending. [[House Majorit
 
 Democrats need to flip 4 seats. The clearest flip opportunities are:
 
-1. **California's razor-thin seats (CA-13, CA-45):** If Democrats can defend Gray (CA-13) and Tran (CA-45), those are wins. If they lose both, Democrats need 6 flips elsewhere. [California's 13th Congressional District election, 2026 - Ballotpedia](https://ballotpedia.org/California's_13th_Congressional_District_election,_2026) (Tier 3) [California's 45th Congressional District election, 2026 - Ballotpedia](https://ballotpedia.org/California's_45th_Congressional_District_election,_2026) (Tier 3)
+1. **California's razor-thin seats (CA-13, CA-45):** If Democrats can defend Gray (CA-13) and Tran (CA-45), those are wins. If they lose both, Democrats need 6 flips elsewhere. [California's 13th Congressional District election, 2026 - Ballotpedia](https://ballotpedia.org/California's_13th_Congressional_District_election,_2026) (Tier 3) (VERIFIED) [California's 45th Congressional District election, 2026 - Ballotpedia](https://ballotpedia.org/California's_45th_Congressional_District_election,_2026) (Tier 3) (VERIFIED)
 
 2. **New York seats (NY-17 Lawler):** [[_Mike Lawler Master Profile|Mike Lawler]] in a Harris +12 district is the single best flip opportunity. A $20M+ House Majority PAC investment could flip this seat.
 

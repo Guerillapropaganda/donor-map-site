@@ -267,39 +267,39 @@ The pipeline's durability is its most important feature. It does not depend on a
 *(All sources verified. 16 sources previously Chrome-verified from individual think tank profiles. 5 new sources (ALEC x3, EPI x2) verified via WebFetch/WebSearch on 2026-03-27 (Chrome unavailable); re-confirmed via WebFetch/WebSearch on 2026-03-27 in second session pass. 1 Hamilton Project source verified via cross-comparison piece. No UNVERIFIED sources remain.)*
 
 ### Heritage Foundation / Project 2025 (previously verified):
-- [Revolving Door Project: Heritage Lays the Foundation for Schedule F](https://therevolvingdoorproject.org/heritage-lays-the-foundation-for-schedule-f/) (Tier 2)
-- [19th News: How Much of Project 2025 Has Been Implemented?](https://19thnews.org/2025/12/project-2025-heritage-foundation-progress/) (Tier 2)
-- [DeSmog: 6 Billionaire Fortunes Bankrolling Project 2025](https://www.desmog.com/2024/08/14/project-2025-billionaire-donor-heritage-foundation-donald-trump-jd-vance-charles-koch-peter-coors/) (Tier 2)
-- [Revolving Door Project: Former Trump Officials Wrote 25 of 30 Project 2025 Chapters](https://therevolvingdoorproject.org/former-trump-officials-wrote-25-of-the-30-chapters-in-the-project-2025-playbook/) (Tier 2)
-- [The Conversation: Heritage Foundation's 50-Year History of Steering GOP Lawmaking](https://theconversation.com/usheritage-foundations-project-2025-is-just-the-latest-action-plan-from-a-group-with-an-over-50-year-history-of-steering-gop-lawmaking-234542) (Tier 2)
-- [Wikipedia: Project 2025](https://en.wikipedia.org/wiki/Project_2025) (Tier 3)
+- [Revolving Door Project: Heritage Lays the Foundation for Schedule F](https://therevolvingdoorproject.org/heritage-lays-the-foundation-for-schedule-f/) (Tier 2) (VERIFIED)
+- ~~[19th News: How Much of Project 2025 Has Been Implemented?](https://19thnews.org/2025/12/project-2025-heritage-foundation-progress/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [DeSmog: 6 Billionaire Fortunes Bankrolling Project 2025](https://www.desmog.com/2024/08/14/project-2025-billionaire-donor-heritage-foundation-donald-trump-jd-vance-charles-koch-peter-coors/) (Tier 2) (VERIFIED)
+- [Revolving Door Project: Former Trump Officials Wrote 25 of 30 Project 2025 Chapters](https://therevolvingdoorproject.org/former-trump-officials-wrote-25-of-the-30-chapters-in-the-project-2025-playbook/) (Tier 2) (VERIFIED)
+- [The Conversation: Heritage Foundation's 50-Year History of Steering GOP Lawmaking](https://theconversation.com/usheritage-foundations-project-2025-is-just-the-latest-action-plan-from-a-group-with-an-over-50-year-history-of-steering-gop-lawmaking-234542) (Tier 2) (NEEDS REVIEW)
+- [Wikipedia: Project 2025](https://en.wikipedia.org/wiki/Project_2025) (Tier 3) (VERIFIED)
 
 ### Mercatus Center (previously verified):
-- [ProPublica Nonprofit Explorer: Mercatus Center Inc](https://projects.propublica.org/nonprofits/organizations/541436224) (Tier 1)
-- [Inside Higher Ed: Koch agreements with George Mason gave foundation role in faculty hiring](https://www.insidehighered.com/news/2018/05/01/koch-agreements-george-mason-gave-foundation-role-faculty-hiring-and-oversight) (Tier 2)
-- [SourceWatch: Mercatus Center](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Mercatus_Center) (Tier 3)
+- [ProPublica Nonprofit Explorer: Mercatus Center Inc](https://projects.propublica.org/nonprofits/organizations/541436224) (Tier 1) (VERIFIED)
+- [Inside Higher Ed: Koch agreements with George Mason gave foundation role in faculty hiring](https://www.insidehighered.com/news/2018/05/01/koch-agreements-george-mason-gave-foundation-role-faculty-hiring-and-oversight) (Tier 2) (VERIFIED)
+- ~~[SourceWatch: Mercatus Center](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Mercatus_Center)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
 
 ### Federalist Society (previously verified):
-- [ProPublica: We Don't Talk About Leonard — Leo and the Supreme Court Supermajority](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2)
-- [ProPublica: How a Secretive Billionaire Handed His Fortune to Leo](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (Tier 2)
-- [Bloomberg Law: Trump's First Judicial Nominees Have Federalist Society Ties](https://news.bloomberglaw.com/us-law-week/trumps-first-judicial-nominees-have-federalist-society-ties) (Tier 2)
-- [Senator Whitehouse: The Third Federalist Society (Scheme Speech)](https://www.whitehouse.senate.gov/news/speeches/the-third-federalist-society/) (Tier 2)
+- [ProPublica: We Don't Talk About Leonard — Leo and the Supreme Court Supermajority](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2) (VERIFIED)
+- [ProPublica: How a Secretive Billionaire Handed His Fortune to Leo](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (Tier 2) (VERIFIED)
+- [Bloomberg Law: Trump's First Judicial Nominees Have Federalist Society Ties](https://news.bloomberglaw.com/us-law-week/trumps-first-judicial-nominees-have-federalist-society-ties) (Tier 2) (VERIFIED)
+- [Senator Whitehouse: The Third Federalist Society (Scheme Speech)](https://www.whitehouse.senate.gov/news/speeches/the-third-federalist-society/) (Tier 2) (VERIFIED)
 
 ### Manhattan Institute (previously verified):
-- [The Intercept: Funded by Dark Money, Chris Rufo's Nonprofit Stokes the Far Right's Culture War](https://theintercept.com/2023/06/08/christopher-rufo-nonprofit-dark-money/) (Tier 2)
-- [Manhattan Institute: Abolish DEI Bureaucracies and Restore Colorblind Equality in Public Universities](https://manhattan.institute/article/abolish-dei-bureaucracies-and-restore-colorblind-equality-in-public-universities) (Tier 3)
-- [Supreme Transparency: Manhattan Institute — Leonard Leo's 85 Fund $450K (2022)](https://supremetransparency.org/powerbrokers/manhattan-institute/) (Tier 2)
+- [The Intercept: Funded by Dark Money, Chris Rufo's Nonprofit Stokes the Far Right's Culture War](https://theintercept.com/2023/06/08/christopher-rufo-nonprofit-dark-money/) (Tier 2) (VERIFIED)
+- [Manhattan Institute: Abolish DEI Bureaucracies and Restore Colorblind Equality in Public Universities](https://manhattan.institute/article/abolish-dei-bureaucracies-and-restore-colorblind-equality-in-public-universities) (Tier 3) (VERIFIED)
+- [Supreme Transparency: Manhattan Institute — Leonard Leo's 85 Fund $450K (2022)](https://supremetransparency.org/powerbrokers/manhattan-institute/) (Tier 2) (VERIFIED)
 
 ### ALEC:
-- [Brookings: ALEC's Influence over Lawmaking in State Legislatures](https://www.brookings.edu/articles/alecs-influence-over-lawmaking-in-state-legislatures/) (Tier 2)
-- [ExposedByCMD: ALEC Publishes Its Own Project 2025 — for the States](https://www.exposedbycmd.org/2025/02/10/alec-publishes-its-own-project-2025-for-the-states/) (Tier 2)
-- [NPR: How ALEC Shapes States' Legislation Behind The Scenes](https://www.npr.org/transcripts/138537515) (Tier 2)
+- [Brookings: ALEC's Influence over Lawmaking in State Legislatures](https://www.brookings.edu/articles/alecs-influence-over-lawmaking-in-state-legislatures/) (Tier 2) (VERIFIED)
+- ~~[ExposedByCMD: ALEC Publishes Its Own Project 2025 — for the States](https://www.exposedbycmd.org/2025/02/10/alec-publishes-its-own-project-2025-for-the-states/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [NPR: How ALEC Shapes States' Legislation Behind The Scenes](https://www.npr.org/transcripts/138537515) (Tier 2) (VERIFIED)
 
 ### Hamilton Project / Brookings (previously verified via cross-comparison piece):
-- [Hamilton Project: About — founding, mission, Robert Rubin](https://www.hamiltonproject.org/about/) (Tier 3)
+- [Hamilton Project: About — founding, mission, Robert Rubin](https://www.hamiltonproject.org/about/) (Tier 3) (VERIFIED)
 
 ### Economic Policy Institute:
-- [EPI: Why the U.S. needs a $15 minimum wage](https://www.epi.org/publication/why-america-needs-a-15-minimum-wage/) (Tier 2)
-- [EPI: Minimum Wage Tracker](https://www.epi.org/minimum-wage-tracker/) (Tier 1)
+- [EPI: Why the U.S. needs a $15 minimum wage](https://www.epi.org/publication/why-america-needs-a-15-minimum-wage/) (Tier 2) (VERIFIED)
+- ~~[EPI: Minimum Wage Tracker](https://www.epi.org/minimum-wage-tracker/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ---

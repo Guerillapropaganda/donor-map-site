@@ -32,7 +32,7 @@ The Defense Industry Bloc. The five largest defense contractors — Lockheed Mar
 
 The defense industry's political strategy is built on geographic dependency: every major weapons system distributes production across the maximum number of congressional districts. The F-35 has suppliers in 45 states. The Virginia-class submarine involves contractors in 48 states. This distribution is not incidental — it is the industry's primary political strategy, ensuring that cutting any weapons program threatens jobs in hundreds of districts.
 
-- [FEC Receipts: Defense industry spending](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
+- [FEC Receipts: Defense industry spending](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
 
 ---
 
@@ -60,8 +60,8 @@ The Pentagon has failed its financial audit every year since audits began in 201
 
 ### Sources
 
-- [FEC Receipts: Defense industry spending totals](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- [Congress.gov: National Defense Authorization Act for Fiscal Year 2024](https://www.congress.gov/bill/118th-congress/house-bill/2670) (Tier 1)
+- [FEC Receipts: Defense industry spending totals](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: National Defense Authorization Act for Fiscal Year 2024](https://www.congress.gov/bill/118th-congress/house-bill/2670)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->
@@ -79,7 +79,7 @@ The Pentagon has failed its financial audit every year since audits began in 201
 
 **Agencies contacted:** Air Force, Dept of, Army, Dept of (Other), Commerce, Dept of (DOC), Defense, Dept of (DOD), Energy, Dept of, Environmental Protection Agency (EPA), Export-Import Bank of the United States (EXIM Bank), Federal Aviation Administration (FAA), HOUSE OF REPRESENTATIVES, Justice, Dept of (DOJ) +5 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Defense%20Industry%20Bloc) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Defense%20Industry%20Bloc) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

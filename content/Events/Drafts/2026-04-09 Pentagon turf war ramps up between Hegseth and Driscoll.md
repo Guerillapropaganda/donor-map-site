@@ -13,7 +13,7 @@ profiles:
 
 ## Pentagon turf war ramps up between Hegseth and Driscoll
 
-**Source:** [The Hill](https://thehill.com/policy/defense/5822193-hegseth-driscoll-influence-struggle-pentagon/)
+**Source:** ~~[The Hill](https://thehill.com/policy/defense/5822193-hegseth-driscoll-influence-struggle-pentagon/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-09
 
 A simmering battle for influence between Pete Hegseth and the Army Secretary Dan Driscoll has reached new heights with the Defense secretary’s purge of senior Army officials last week. Tensions flared when Driscoll was picked last year by President Trump to negotiate with Ukrainian officials in hopes of ending the Russia-Ukraine war, according to two…

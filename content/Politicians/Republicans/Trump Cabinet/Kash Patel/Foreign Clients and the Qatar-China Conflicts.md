@@ -58,5 +58,5 @@ donors: Embassy of Qatar Elite Depot Ltd. Czechoslovak Group
 
 ### Sources
 
-- [PBS News: Patel foreign clients roster and FBI conflicts](https://www.pbs.org/newshour/) (Tier 2)
-- [Senate Judiciary Committee: undisclosed Qatar consulting](https://www.judiciary.senate.gov/committee-activity/hearings) (Tier 1)
+- [PBS News: Patel foreign clients roster and FBI conflicts](https://www.pbs.org/newshour/) (Tier 2) (VERIFIED)
+- [Senate Judiciary Committee: undisclosed Qatar consulting](https://www.judiciary.senate.gov/committee-activity/hearings) (Tier 1) (VERIFIED)

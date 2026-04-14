@@ -69,10 +69,10 @@ Relaxed television station ownership limits (allowing more station acquisitions)
 
 ### Sources
 
-- [OpenSecrets: Sinclair Broadcast Group](https://www.opensecrets.org/orgs/sinclair-broadcast-group/summary?id=D000029897) (Tier 1)
-- [FCC: Station ownership filings](https://www.fcc.gov/media/television/tv-station-profiles) (Tier 1)
-- [Deadspin: Sinclair script compilation](https://www.youtube.com?v=_fHfgU8oMSo) (Tier 2)
-- [Ballotpedia: Sinclair Broadcast Group](https://ballotpedia.org/Sinclair_Broadcast_Group) (Tier 3)
+- ~~[OpenSecrets: Sinclair Broadcast Group](https://www.opensecrets.org/orgs/sinclair-broadcast-group/summary?id=D000029897)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [FCC: Station ownership filings](https://www.fcc.gov/media/television/tv-station-profiles) (Tier 1) (NEEDS REVIEW)
+- [Deadspin: Sinclair script compilation](https://www.youtube.com?v=_fHfgU8oMSo) (Tier 2) (VERIFIED)
+- [Ballotpedia: Sinclair Broadcast Group](https://ballotpedia.org/Sinclair_Broadcast_Group) (Tier 3) (VERIFIED)
 
 ---
 
@@ -104,7 +104,7 @@ Relaxed television station ownership limits (allowing more station acquisitions)
 - American Signature, Inc. (2025) — United States Bankruptcy Court, D. Delaware
 - COBB v. ADVANCED TELEVISION SYSTEMS COMMITTEE (2025) — District Court, District of Columbia
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Sinclair%20Broadcast%20Group%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Sinclair%20Broadcast%20Group%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Spending (USASpending)
@@ -125,14 +125,14 @@ Relaxed television station ownership limits (allowing more station acquisitions)
 | $409K | Department of the Treasury | POLITICO PRO PLUS ENTERPRISE ELECTRONIC SUBSCRIPTION |
 | $287K | Department of Energy | POLITICO PRO RENEWAL 2023 |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Sinclair%20Broadcast%20Group) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Sinclair%20Broadcast%20Group) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [529900879GWQV880PQ28](https://search.gleif.org/#/record/529900879GWQV880PQ28) |
+| LEI | [529900879GWQV880PQ28](https://search.gleif.org/#/record/529900879GWQV880PQ28) (VERIFIED) |
 | Legal Name | SINCLAIR BROADCAST GROUP, INC. |
 | Jurisdiction | US |
 | Entity Status | ACTIVE |
@@ -140,7 +140,7 @@ Relaxed television station ownership limits (allowing more station acquisitions)
 | Registration | LAPSED |
 | Last Updated | 2021-07-15T05:09:24Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### DOJ Press Releases
@@ -161,7 +161,7 @@ Relaxed television station ownership limits (allowing more station acquisitions)
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Sinclair%20Broadcast%20Group) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Sinclair%20Broadcast%20Group) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Tax Filings (IRS 990)
@@ -178,14 +178,14 @@ Relaxed television station ownership limits (allowing more station acquisitions)
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2014, 2013, 2012
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/911500276/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/911500276/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/911500276/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/911500276/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/911500276/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/911500276/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/911500276/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/911500276/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/911500276/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/911500276/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/911500276) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/911500276) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Lobbying Activity
@@ -204,7 +204,7 @@ Relaxed television station ownership limits (allowing more station acquisitions)
 
 **Agencies contacted:** Army, Dept of (Corps of Engineers), Environmental Protection Agency (EPA), Executive Office of the President (EOP), Federal Communications Commission (FCC), HOUSE OF REPRESENTATIVES, SENATE, Treasury, Dept of, U.S. Trade Representative (USTR)
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Sinclair%20Broadcast%20Group) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Sinclair%20Broadcast%20Group) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Federal Contracts
@@ -228,7 +228,7 @@ Relaxed television station ownership limits (allowing more station acquisitions)
 | $6K | HOMELAND SECURITY, DEPARTMENT OF | 2008-05-28 |
 | $0 | HOMELAND SECURITY, DEPARTMENT OF | 2011-08-05 |
 
-- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Sinclair%20Broadcast%20Group&page=1&index=opp) (Tier 1)
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Sinclair%20Broadcast%20Group&page=1&index=opp) (Tier 1) (VERIFIED)
 <!-- auto:sam-contracts end -->
 
 ### FTC Enforcement & Merger Review
@@ -240,15 +240,15 @@ Relaxed television station ownership limits (allowing more station acquisitions)
 
 **Recent HSR merger filings (early terminations granted):**
 
-- [Sinclair Broadcast Group, Inc. → The Tennis Channel Holdings, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20160710) (2016-02-24)
-- [Sinclair Broadcast Group, Inc. → James E. Rogers Trust](https://www.ftc.gov/legal-library/browse/early-termination-notices/20141539) (2014-09-19)
-- [Mercury New Holdco Inc. → Sinclair Broadcast Group, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20141478) (2014-09-08)
-- [Sinclair Broadcast Group, Inc. → Perpetual Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20131165) (2014-07-21)
-- [Sinclair Broadcast Group, Inc. → Pilot Group LP](https://www.ftc.gov/legal-library/browse/early-termination-notices/20130692) (2013-11-06)
+- [Sinclair Broadcast Group, Inc. → The Tennis Channel Holdings, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20160710) (VERIFIED) (2016-02-24)
+- [Sinclair Broadcast Group, Inc. → James E. Rogers Trust](https://www.ftc.gov/legal-library/browse/early-termination-notices/20141539) (VERIFIED) (2014-09-19)
+- [Mercury New Holdco Inc. → Sinclair Broadcast Group, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20141478) (VERIFIED) (2014-09-08)
+- [Sinclair Broadcast Group, Inc. → Perpetual Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20131165) (VERIFIED) (2014-07-21)
+- [Sinclair Broadcast Group, Inc. → Pilot Group LP](https://www.ftc.gov/legal-library/browse/early-termination-notices/20130692) (VERIFIED) (2013-11-06)
 
-> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Sinclair%20Broadcast%20Group).
+> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Sinclair%20Broadcast%20Group) (VERIFIED).
 
-- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Sinclair%20Broadcast%20Group) (Tier 1)
+- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Sinclair%20Broadcast%20Group) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->
 
 ### SEC Filing Activity
@@ -262,11 +262,11 @@ Relaxed television station ownership limits (allowing more station acquisitions)
 
 **Notable filings:**
 
-- 2026-04-08 — **10-K**: [10-K](https://www.sec.gov/Archives/edgar/data/1099160/000119312526147594/0001193125-26-147594-index.htm)
-- 2026-04-08 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/1099160/000119312526146436/0001193125-26-146436-index.htm)
-- 2026-04-01 — **NT 10-K**: [NT 10-K](https://www.sec.gov/Archives/edgar/data/1099160/000119312526137920/0001193125-26-137920-index.htm)
-- 2026-03-20 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/1099160/000119312526117853/0001193125-26-117853-index.htm)
-- 2026-02-03 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/1099160/000119312526034347/0001193125-26-034347-index.htm)
+- 2026-04-08 — **10-K**: [10-K](https://www.sec.gov/Archives/edgar/data/1099160/000119312526147594/0001193125-26-147594-index.htm) (VERIFIED)
+- 2026-04-08 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/1099160/000119312526146436/0001193125-26-146436-index.htm) (VERIFIED)
+- 2026-04-01 — **NT 10-K**: [NT 10-K](https://www.sec.gov/Archives/edgar/data/1099160/000119312526137920/0001193125-26-137920-index.htm) (VERIFIED)
+- 2026-03-20 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/1099160/000119312526117853/0001193125-26-117853-index.htm) (VERIFIED)
+- 2026-02-03 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/1099160/000119312526034347/0001193125-26-034347-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Sinclair%20Broadcast%20Group%22) (Tier 1)
+- ~~[Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Sinclair%20Broadcast%20Group%22)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:sec-edgar end -->

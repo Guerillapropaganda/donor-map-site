@@ -168,18 +168,18 @@ Haley is the most likely donor-class vehicle for 2028 if Trump does not run and 
 
 ## Sources
 
-- [OpenSecrets: Nikki Haley 2024 presidential fundraising and contributors](https://www.opensecrets.org/news/2023/02/nikki-haley-launches-2024-presidential-campaign-after-years-of-raising-big-money/) (Tier 1)
-- [PBS NewsHour: Nikki Haley gains crucial endorsement from Koch network in bid to challenge Trump](https://www.pbs.org/newshour/politics/nikki-haley-gains-crucial-endorsement-from-koch-network-in-bid-to-challenge-trump) (Tier 2)
-- [NPR: Nikki Haley Koch Brothers Iowa New Hampshire GOP primary](https://www.npr.org/2023/11/28/1215562976/nikki-haley-koch-brothers-iowa-new-hampshire-gop-primary) (Tier 2)
-- [NBC News: Koch network faces internal scrutiny after Nikki Haley endorsement](https://www.nbcnews.com/politics/2024-election/koch-network-faces-internal-scrutiny-nikki-haley-endorsement-rcna127838) (Tier 2)
-- [CNBC: Wall Street opens wallets wide for 'Trump alternative' Nikki Haley at $500K fundraiser](https://www.cnbc.com/2023/12/05/nikki-haley-raises-over-500000-at-event-with-wall-street-execs.html) (Tier 2)
-- [CNBC: Nikki Haley gets early support from wealthy donors](https://www.cnbc.com/2023/04/17/nikki-haley-enjoys-early-billionaire-support-in-2024-race.html) (Tier 2)
-- [Bloomberg: Rich donors keep Haley's 2024 run afloat even if voters won't](https://www.bloomberg.com/news/articles/2024-01-24/rich-donors-keep-haley-s-2024-run-afloat-even-if-voters-won-t) (Tier 2)
-- [The Lever: Nikki Haley Helped Boeing Kill Dark Money Disclosure Initiative](https://www.levernews.com/nikki-haley-helped-boeing-kill-dark-money-disclosure-initiative/) (Tier 2)
-- [Jacobin: Nikki Haley Helped Boeing Hide Its Political Spending](https://jacobin.com/2024/01/nikki-haley-boeing-political-expenditures) (Tier 4 — flag: left-partisan publication) (Tier 2)
-- [Hollywood Life: Nikki Haley Endorses Trump, After Calling Him Unfit for Presidency](https://hollywoodlife.com/2024/07/17/nikki-haley-endorses-trump-after-calling-him-unfit-for-presidency/) (Tier 3)
-- [NBC News: Nikki Haley ends presidential campaign with 'no regrets'](https://www.nbcnews.com/politics/2024-election/nikki-haley-ends-presidential-campaign-trump-gop-primary-rcna134811) (Tier 2)
-- [Wikipedia: Nikki Haley](https://en.wikipedia.org/wiki/Nikki_Haley) (Tier 3)
+- [OpenSecrets: Nikki Haley 2024 presidential fundraising and contributors](https://www.opensecrets.org/news/2023/02/nikki-haley-launches-2024-presidential-campaign-after-years-of-raising-big-money/) (Tier 1) (VERIFIED)
+- [PBS NewsHour: Nikki Haley gains crucial endorsement from Koch network in bid to challenge Trump](https://www.pbs.org/newshour/politics/nikki-haley-gains-crucial-endorsement-from-koch-network-in-bid-to-challenge-trump) (Tier 2) (VERIFIED)
+- [NPR: Nikki Haley Koch Brothers Iowa New Hampshire GOP primary](https://www.npr.org/2023/11/28/1215562976/nikki-haley-koch-brothers-iowa-new-hampshire-gop-primary) (Tier 2) (VERIFIED)
+- [NBC News: Koch network faces internal scrutiny after Nikki Haley endorsement](https://www.nbcnews.com/politics/2024-election/koch-network-faces-internal-scrutiny-nikki-haley-endorsement-rcna127838) (Tier 2) (VERIFIED)
+- [CNBC: Wall Street opens wallets wide for 'Trump alternative' Nikki Haley at $500K fundraiser](https://www.cnbc.com/2023/12/05/nikki-haley-raises-over-500000-at-event-with-wall-street-execs.html) (Tier 2) (VERIFIED)
+- [CNBC: Nikki Haley gets early support from wealthy donors](https://www.cnbc.com/2023/04/17/nikki-haley-enjoys-early-billionaire-support-in-2024-race.html) (Tier 2) (VERIFIED)
+- ~~[Bloomberg: Rich donors keep Haley's 2024 run afloat even if voters won't](https://www.bloomberg.com/news/articles/2024-01-24/rich-donors-keep-haley-s-2024-run-afloat-even-if-voters-won-t)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [The Lever: Nikki Haley Helped Boeing Kill Dark Money Disclosure Initiative](https://www.levernews.com/nikki-haley-helped-boeing-kill-dark-money-disclosure-initiative/) (Tier 2) (VERIFIED)
+- [Jacobin: Nikki Haley Helped Boeing Hide Its Political Spending](https://jacobin.com/2024/01/nikki-haley-boeing-political-expenditures) (VERIFIED) (Tier 4 — flag: left-partisan publication) (Tier 2)
+- [Hollywood Life: Nikki Haley Endorses Trump, After Calling Him Unfit for Presidency](https://hollywoodlife.com/2024/07/17/nikki-haley-endorses-trump-after-calling-him-unfit-for-presidency/) (Tier 3) (VERIFIED)
+- [NBC News: Nikki Haley ends presidential campaign with 'no regrets'](https://www.nbcnews.com/politics/2024-election/nikki-haley-ends-presidential-campaign-trump-gop-primary-rcna134811) (Tier 2) (VERIFIED)
+- [Wikipedia: Nikki Haley](https://en.wikipedia.org/wiki/Nikki_Haley) (Tier 3) (VERIFIED)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -203,7 +203,7 @@ Haley is the most likely donor-class vehicle for 2028 if Trump does not run and 
 | MAKE AMERICA GREAT AGAIN INC. | $0 | $16,761,873 |
 | NEVER BACK DOWN INC. | $0 | $4,158,125 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/P40010977/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/P40010977/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### DOJ Press Releases

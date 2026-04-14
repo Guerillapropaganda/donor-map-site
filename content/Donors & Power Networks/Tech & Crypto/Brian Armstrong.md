@@ -89,13 +89,13 @@ Source: [[Fairshake PAC]], [[Coinbase]] vault entries.
 | Agencies | Antitrust Division, Commerce Department, Energy Department, Federal Aviation Administration, Justice Department, National Oceanic and Atmospheric Administration, Transportation Department |
 
 **Recent regulatory activity:**
-- [Marine Mammals and Endangered Species](https://www.federalregister.gov/documents/2020/01/13/2020-00316/marine-mammals-and-endangered-species) (2020-01-13) — Commerce Department
-- [Marine Mammals; File No. 23169](https://www.federalregister.gov/documents/2019/10/25/2019-23320/marine-mammals-file-no-23169) (2019-10-25) — Commerce Department
-- [Notice of Release From Federal Grant Assurance Obligations at Bob Hope Airport, Burbank, Los Angeles County, California](https://www.federalregister.gov/documents/2016/09/13/2016-21939/notice-of-release-from-federal-grant-assurance-obligations-at-bob-hope-airport-burbank-los-angeles) (2016-09-13) — Transportation Department
-- [Notice of Release From Quitclaim Deed and Federal Grant Assurance Obligations at Santa Maria Public Airport, Santa Maria, Santa Barbara County, California](https://www.federalregister.gov/documents/2016/01/21/2016-01207/notice-of-release-from-quitclaim-deed-and-federal-grant-assurance-obligations-at-santa-maria-public) (2016-01-21) — Transportation Department
-- [Notice of Release From Quitclaim Deed and Federal Grant Assurance Obligations at Oxnard Airport, Oxnard, Ventura County, California](https://www.federalregister.gov/documents/2016/01/21/2016-01205/notice-of-release-from-quitclaim-deed-and-federal-grant-assurance-obligations-at-oxnard-airport) (2016-01-21) — Transportation Department
-- [Notice of Release From Quitclaim Deed and Federal Grant Assurance Obligations for Delano Municipal Airport, Delano, CA](https://www.federalregister.gov/documents/2013/02/05/2013-02475/notice-of-release-from-quitclaim-deed-and-federal-grant-assurance-obligations-for-delano-municipal) (2013-02-05) — Transportation Department
+- [Marine Mammals and Endangered Species](https://www.federalregister.gov/documents/2020/01/13/2020-00316/marine-mammals-and-endangered-species) (VERIFIED) (2020-01-13) — Commerce Department
+- [Marine Mammals; File No. 23169](https://www.federalregister.gov/documents/2019/10/25/2019-23320/marine-mammals-file-no-23169) (VERIFIED) (2019-10-25) — Commerce Department
+- [Notice of Release From Federal Grant Assurance Obligations at Bob Hope Airport, Burbank, Los Angeles County, California](https://www.federalregister.gov/documents/2016/09/13/2016-21939/notice-of-release-from-federal-grant-assurance-obligations-at-bob-hope-airport-burbank-los-angeles) (VERIFIED) (2016-09-13) — Transportation Department
+- [Notice of Release From Quitclaim Deed and Federal Grant Assurance Obligations at Santa Maria Public Airport, Santa Maria, Santa Barbara County, California](https://www.federalregister.gov/documents/2016/01/21/2016-01207/notice-of-release-from-quitclaim-deed-and-federal-grant-assurance-obligations-at-santa-maria-public) (VERIFIED) (2016-01-21) — Transportation Department
+- [Notice of Release From Quitclaim Deed and Federal Grant Assurance Obligations at Oxnard Airport, Oxnard, Ventura County, California](https://www.federalregister.gov/documents/2016/01/21/2016-01205/notice-of-release-from-quitclaim-deed-and-federal-grant-assurance-obligations-at-oxnard-airport) (VERIFIED) (2016-01-21) — Transportation Department
+- [Notice of Release From Quitclaim Deed and Federal Grant Assurance Obligations for Delano Municipal Airport, Delano, CA](https://www.federalregister.gov/documents/2013/02/05/2013-02475/notice-of-release-from-quitclaim-deed-and-federal-grant-assurance-obligations-for-delano-municipal) (VERIFIED) (2013-02-05) — Transportation Department
 - ... and 25 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Brian%20Armstrong%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Brian%20Armstrong%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->

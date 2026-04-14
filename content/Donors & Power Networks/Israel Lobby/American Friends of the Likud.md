@@ -20,13 +20,13 @@ known-gaps:
 
 ### Who They Are
 
-[[American Friends of the Likud|American Friends of the Likud]] (AFL) is a 501(c)(3) tax-exempt educational nonprofit headquartered in New York, New York. The organization maintains formal independence from the Likud party while operating as a primary U.S. funding and political infrastructure conduit for Likud politicians and ideology. AFL is incorporated under EIN 13-3935945 and files annual Form 990 tax returns with the IRS. Despite claiming educational status, the organization's tax forms state it "maintains unparalleled access to Likud Ministers and Members of Knesset." Kenneth Abramowitz, millionaire healthcare venture capitalist (NGN Capital, $450 million fund), serves as national chairperson. [American Friends of Likud Inc. | Charity Navigator Profile](https://www.charitynavigator.org/ein/133935945) (Tier 2)
+[[American Friends of the Likud|American Friends of the Likud]] (AFL) is a 501(c)(3) tax-exempt educational nonprofit headquartered in New York, New York. The organization maintains formal independence from the Likud party while operating as a primary U.S. funding and political infrastructure conduit for Likud politicians and ideology. AFL is incorporated under EIN 13-3935945 and files annual Form 990 tax returns with the IRS. Despite claiming educational status, the organization's tax forms state it "maintains unparalleled access to Likud Ministers and Members of Knesset." Kenneth Abramowitz, millionaire healthcare venture capitalist (NGN Capital, $450 million fund), serves as national chairperson. [American Friends of Likud Inc. | Charity Navigator Profile](https://www.charitynavigator.org/ein/133935945) (Tier 2) (VERIFIED)
 
 ---
 
 ### What They Want
 
-AFL's stated mission is educational—to provide American supporters of the Likud party direct engagement with Israeli politicians and policy. In practice, the organization functions as a direct pipeline for U.S. capital to Likud party politicians and ideology. The 501(c)(3) structure provides donors tax deductibility on contributions while giving the organization plausible deniability about party funding. Tax forms state "all funds raised by AFL only go toward its educational programs and events and not the Likud party, its Ministers or MKs"—a technically accurate statement that obscures the function: AFL uses 501(c)(3) donations to fund trips, networking, and political meetings that directly benefit Likud politicians' fundraising and political positioning. [American Friends of Likud Inc - Nonprofit Explorer - ProPublica](https://projects.propublica.org/nonprofits/organizations/133935945) (Tier 2)
+AFL's stated mission is educational—to provide American supporters of the Likud party direct engagement with Israeli politicians and policy. In practice, the organization functions as a direct pipeline for U.S. capital to Likud party politicians and ideology. The 501(c)(3) structure provides donors tax deductibility on contributions while giving the organization plausible deniability about party funding. Tax forms state "all funds raised by AFL only go toward its educational programs and events and not the Likud party, its Ministers or MKs"—a technically accurate statement that obscures the function: AFL uses 501(c)(3) donations to fund trips, networking, and political meetings that directly benefit Likud politicians' fundraising and political positioning. [American Friends of Likud Inc - Nonprofit Explorer - ProPublica](https://projects.propublica.org/nonprofits/organizations/133935945) (Tier 2) (VERIFIED)
 
 > [!money]
 > **The Tax-Deductible Party Funding Model:** AFL exploits U.S. tax law to provide tax-deductible donations for Likud party support. U.S. donors give to AFL, deduct the contribution, and the nonprofit provides direct access and infrastructure for Likud politicians. The arrangement avoids direct campaign finance restrictions by framing party politics as "education." Donors get tax benefits. Likud politicians get American capital without legal campaign finance liability.
@@ -37,7 +37,7 @@ AFL's stated mission is educational—to provide American supporters of the Liku
 
 ### Direct Support Recipients (Implicit):
 - Likud party leadership and members of Knesset: AFL provides "unparalleled access" through U.S.-based fundraising trips and networking events. Specific Likud politicians to whom funds flow are not itemized publicly in available sources.
-- [[_Benjamin Netanyahu Master Profile|Benjamin Netanyahu]]: Netanyahu has "consistently received over 90% of his campaign contributions from the United States" across multiple election cycles. AFL functions as one infrastructure channel for this U.S.-Israel political finance nexus. [Over 90% of Netanyahu reelection funds from US donors | The Times of Israel](https://www.timesofisrael.com/over-90-of-netanyahu-reelection-funds-from-us-donors/) (Tier 2)
+- [[_Benjamin Netanyahu Master Profile|Benjamin Netanyahu]]: Netanyahu has "consistently received over 90% of his campaign contributions from the United States" across multiple election cycles. AFL functions as one infrastructure channel for this U.S.-Israel political finance nexus. [Over 90% of Netanyahu reelection funds from US donors | The Times of Israel](https://www.timesofisrael.com/over-90-of-netanyahu-reelection-funds-from-us-donors/) (Tier 2) (VERIFIED)
 
 ### Funding Mechanisms:
 - Educational Programs and Events: Tax-deductible donations fund trips for Likud politicians to Washington, D.C., where they meet with pro-Israel organizations, U.S. politicians, and major donors. These events function as fundraising infrastructure for Israeli politicians.
@@ -88,16 +88,16 @@ AFL sits within broader U.S.-Israel political finance ecosystem. Mega-donors (Ad
 
 - [American Friends of Likud Inc. | Charity Navigator Profile](https://www.charitynavigator.org/ein/133935945) (Tier 2)
 - [American Friends of Likud Inc - Nonprofit Explorer - ProPublica](https://projects.propublica.org/nonprofits/organizations/133935945) (Tier 2)
-- [American Friends of Likud - JNS.org](https://www.jns.org/organization/aflikud-org) (Tier 3)
-- [American Friends Of Likud Inc - GuideStar Profile](https://www.guidestar.org/profile/13-3935945) (Tier 3)
-- [American Friends of Likud Inc in New York, New York - GreatNonprofits](https://greatnonprofits.org/org/american-friends-of-likud-inc) (Tier 3)
-- [AFL- American Friends of Likud - Facebook](https://www.facebook.com/AmericanFriendsOfLikud/) (Tier 3)
-- [American Friends of Likud – Conference of Presidents](https://conferenceofpresidents.org/member_organization/american-friends-of-likud/) (Tier 3)
+- [American Friends of Likud - JNS.org](https://www.jns.org/organization/aflikud-org) (Tier 3) (VERIFIED)
+- [American Friends Of Likud Inc - GuideStar Profile](https://www.guidestar.org/profile/13-3935945) (Tier 3) (VERIFIED)
+- ~~[American Friends of Likud Inc in New York, New York - GreatNonprofits](https://greatnonprofits.org/org/american-friends-of-likud-inc)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [AFL- American Friends of Likud - Facebook](https://www.facebook.com/AmericanFriendsOfLikud/) (Tier 3) (VERIFIED)
+- [American Friends of Likud – Conference of Presidents](https://conferenceofpresidents.org/member_organization/american-friends-of-likud/) (Tier 3) (VERIFIED)
 - [Over 90% of Netanyahu reelection funds from US donors | The Times of Israel](https://www.timesofisrael.com/over-90-of-netanyahu-reelection-funds-from-us-donors/) (Tier 2)
-- [These Three American Families Are Funding Half Of Netanyahu's Re-Election Bid - BuzzFeed News](https://www.buzzfeednews.com/article/sheerafrenkel/meet-the-american-families-bankrolling-netanyahus) (Tier 2)
-- [Israeli Politicians Court American Donors – The Forward](https://forward.com/israel/156839/israeli-politicians-court-american-donors/) (Tier 2)
-- [US donors providing most of Netanyahu's reelection funds | The Jerusalem Post](https://www.jpost.com/israel-news/politics-and-diplomacy/us-donors-providing-most-of-netanyahus-reelection-funds-386919) (Tier 2)
-- [Israel lobby in the United States - Wikipedia](https://en.wikipedia.org/wiki/Israel_lobby_in_the_United_States) (Tier 3)
+- [These Three American Families Are Funding Half Of Netanyahu's Re-Election Bid - BuzzFeed News](https://www.buzzfeednews.com/article/sheerafrenkel/meet-the-american-families-bankrolling-netanyahus) (Tier 2) (VERIFIED)
+- [Israeli Politicians Court American Donors – The Forward](https://forward.com/israel/156839/israeli-politicians-court-american-donors/) (Tier 2) (VERIFIED)
+- [US donors providing most of Netanyahu's reelection funds | The Jerusalem Post](https://www.jpost.com/israel-news/politics-and-diplomacy/us-donors-providing-most-of-netanyahus-reelection-funds-386919) (Tier 2) (VERIFIED)
+- [Israel lobby in the United States - Wikipedia](https://en.wikipedia.org/wiki/Israel_lobby_in_the_United_States) (Tier 3) (VERIFIED)
 
 ---
 

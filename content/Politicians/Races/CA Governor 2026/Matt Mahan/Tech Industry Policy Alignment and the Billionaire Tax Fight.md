@@ -93,7 +93,7 @@ donors: (Silicon Valley tech billionaires, developer networks)
 
 ### Sources
 
-- [CNBC: Democratic mayor of San Jose Matt Mahan opposes billionaire tax](https://www.cnbc.com/2026/01/05/democratic-mayor-of-san-jose-matt-mahan-opposes-billionaire-tax.html) (Tier 2)
-- [CBS San Francisco: San Jose mayor calls California's proposed billionaire wealth tax an "incredible risk"](https://www.cbsnews.com/sanfrancisco/news/california-proposed-billionaire-wealth-tax-san-jose-mayor/) (Tier 2)
-- [Mercury News: Who's funding Mayor Mahan's gubernatorial campaign?](https://www.mercurynews.com/2026/02/11/whos-funding-mayor-mahans-gubernatorial-campaign-new-filings-point-to-tech-titans-and-billionaires/) (Tier 2)
-- [Mission Local: Y Combinator CEO Garry Tan launches dark-money group to influence California politics](https://missionlocal.org/2026/02/sf-garry-tan-california-politics-garrys-list/) (Tier 2)
+- [CNBC: Democratic mayor of San Jose Matt Mahan opposes billionaire tax](https://www.cnbc.com/2026/01/05/democratic-mayor-of-san-jose-matt-mahan-opposes-billionaire-tax.html) (Tier 2) (VERIFIED)
+- [CBS San Francisco: San Jose mayor calls California's proposed billionaire wealth tax an "incredible risk"](https://www.cbsnews.com/sanfrancisco/news/california-proposed-billionaire-wealth-tax-san-jose-mayor/) (Tier 2) (VERIFIED)
+- [Mercury News: Who's funding Mayor Mahan's gubernatorial campaign?](https://www.mercurynews.com/2026/02/11/whos-funding-mayor-mahans-gubernatorial-campaign-new-filings-point-to-tech-titans-and-billionaires/) (Tier 2) (VERIFIED)
+- [Mission Local: Y Combinator CEO Garry Tan launches dark-money group to influence California politics](https://missionlocal.org/2026/02/sf-garry-tan-california-politics-garrys-list/) (Tier 2) (VERIFIED)

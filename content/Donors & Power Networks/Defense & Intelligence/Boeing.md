@@ -218,46 +218,46 @@ The Starliner failure completes the picture. After stranding two astronauts and 
 ### Sources
 
 ### Federal Campaign Finance (Tier 1)
-- [OpenSecrets: Boeing Co PAC Summary 2024](https://www.opensecrets.org/political-action-committees-pacs/boeing-co/C00142711/summary/2024) (Tier 1)
-- [OpenSecrets: Boeing Co Recipients 2024](https://www.opensecrets.org/orgs/boeing-co/recipients?id=D000000100) (Tier 1)
-- [FEC: Boeing Co PAC Committee Overview](https://www.fec.gov/data/committee/C00142711/) (Tier 1)
+- [OpenSecrets: Boeing Co PAC Summary 2024](https://www.opensecrets.org/political-action-committees-pacs/boeing-co/C00142711/summary/2024) (Tier 1) (VERIFIED)
+- [OpenSecrets: Boeing Co Recipients 2024](https://www.opensecrets.org/orgs/boeing-co/recipients?id=D000000100) (Tier 1) (VERIFIED)
+- [FEC: Boeing Co PAC Committee Overview](https://www.fec.gov/data/committee/C00142711/) (Tier 1) (VERIFIED)
 
 ### Lobbying Data (Tier 1)
-- [OpenSecrets: Boeing Co Lobbying Profile](https://www.opensecrets.org/orgs/boeing-co/lobbying?id=D000000100) (Tier 1)
-- [OpenSecrets: Boeing Co Profile Summary](https://www.opensecrets.org/orgs/boeing-co/summary?id=D000000100) (Tier 1)
+- [OpenSecrets: Boeing Co Lobbying Profile](https://www.opensecrets.org/orgs/boeing-co/lobbying?id=D000000100) (Tier 1) (VERIFIED)
+- [OpenSecrets: Boeing Co Profile Summary](https://www.opensecrets.org/orgs/boeing-co/summary?id=D000000100) (Tier 1) (VERIFIED)
 
 ### 737 MAX Investigation & Deaths (Tier 2)
-- [NPR: Whistleblower Joshua Dean, who raised concerns about Boeing jets, dies at 45](https://www.npr.org/2024/05/02/1248693512/boeing-whistleblower-josh-dean-dead) (Tier 2)
-- [NPR: Whistleblower John Barnett's family files wrongful death suit against Boeing](https://www.npr.org/2024/03/12/1238033573/boeing-whistleblower-john-barnett-dead) (Tier 2)
-- [CBS News: Boeing whistleblower John Barnett died by suicide, police investigation concludes](https://www.cbsnews.com/news/boeing-whistleblower-john-barnett-suicide-police-investigation/) (Tier 2)
-- [Chicago Sun-Times: Boeing 737 MAX jetliner crashes and political donations](https://chicago.suntimes.com/2023/2/17/23599700/boeing-political-contributions-lion-air-indonesia-ethiopia-airliner-crashes-air-safety-faa) (Tier 2)
+- [NPR: Whistleblower Joshua Dean, who raised concerns about Boeing jets, dies at 45](https://www.npr.org/2024/05/02/1248693512/boeing-whistleblower-josh-dean-dead) (Tier 2) (VERIFIED)
+- [NPR: Whistleblower John Barnett's family files wrongful death suit against Boeing](https://www.npr.org/2024/03/12/1238033573/boeing-whistleblower-john-barnett-dead) (Tier 2) (VERIFIED)
+- [CBS News: Boeing whistleblower John Barnett died by suicide, police investigation concludes](https://www.cbsnews.com/news/boeing-whistleblower-john-barnett-suicide-police-investigation/) (Tier 2) (VERIFIED)
+- [Chicago Sun-Times: Boeing 737 MAX jetliner crashes and political donations](https://chicago.suntimes.com/2023/2/17/23599700/boeing-political-contributions-lion-air-indonesia-ethiopia-airliner-crashes-air-safety-faa) (Tier 2) (VERIFIED)
 
 ### Stock Buybacks & Safety Trade-off (Tier 2-3)
-- [Wolf Street: Boeing spent $43B on stock buybacks and SLS overruns](https://wolfstreet.com/2020/01/20/after-blowing-43-bn-on-share-buybacks-in-6-years-boeing-scrambles-to-borrow-10-bn-on-top-of-the-9-5-bn-credit-line-it-got-in-oct-to-fund-the-surging-costs-of-its-737-max-fiasco/) (Tier 2)
-- [Jacobin: Boeing's profit seeking puts passengers in danger](https://jacobin.com/2024/01/boeing-malfunction-ceo-pay-stock-buybacks) (Tier 3)
+- [Wolf Street: Boeing spent $43B on stock buybacks and SLS overruns](https://wolfstreet.com/2020/01/20/after-blowing-43-bn-on-share-buybacks-in-6-years-boeing-scrambles-to-borrow-10-bn-on-top-of-the-9-5-bn-credit-line-it-got-in-oct-to-fund-the-surging-costs-of-its-737-max-fiasco/) (Tier 2) (VERIFIED)
+- [Jacobin: Boeing's profit seeking puts passengers in danger](https://jacobin.com/2024/01/boeing-malfunction-ceo-pay-stock-buybacks) (Tier 3) (VERIFIED)
 
 ### Defense Contracts (Tier 1-2)
-- [Boeing Investor Relations: $2.7B PAC-3 contract](https://investors.boeing.com/investors/news/press-release-details/2025/Boeing-Awarded-Approximately-2-7-Billion-in-Multiyear-Contracts-for-PAC3-Seeker-Production/default.aspx) (Tier 1)
-- [Motley Fool: Boeing wins $12.8B defense contracts January 2026](https://www.fool.com/investing/2026/01/10/2026-boeing-wins-billion-defense-contract/) (Tier 2)
+- [Boeing Investor Relations: $2.7B PAC-3 contract](https://investors.boeing.com/investors/news/press-release-details/2025/Boeing-Awarded-Approximately-2-7-Billion-in-Multiyear-Contracts-for-PAC3-Seeker-Production/default.aspx) (Tier 1) (VERIFIED)
+- [Motley Fool: Boeing wins $12.8B defense contracts January 2026](https://www.fool.com/investing/2026/01/10/2026-boeing-wins-billion-defense-contract/) (Tier 2) (VERIFIED)
 
 ### Revolving Door (Tier 2)
-- [Project On Government Oversight: Pentagon's Revolving Door 2021 Review](https://www.pogo.org/analyses/the-pentagons-revolving-door-keeps-spinning-2021-in-review) (Tier 2)
-- [Seattle Times: How the revolving door at FAA spins Boeing's way](https://www.seattletimes.com/business/boeing-aerospace/how-the-revolving-door-at-faa-spins-boeings-way/) (Tier 2)
+- ~~[Project On Government Oversight: Pentagon's Revolving Door 2021 Review](https://www.pogo.org/analyses/the-pentagons-revolving-door-keeps-spinning-2021-in-review)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Seattle Times: How the revolving door at FAA spins Boeing's way](https://www.seattletimes.com/business/boeing-aerospace/how-the-revolving-door-at-faa-spins-boeings-way/) (Tier 2) (VERIFIED)
 
 ### Starliner Program Failure (Tier 2)
-- [NASA Press Release: Starliner Crewed Flight Test Investigation](https://www.nasa.gov/news-release/nasa-releases-report-on-starliner-crewed-flight-test-investigation/) (Tier 1)
-- [Scientific American: NASA says a litany of failures led to 2024 Boeing Starliner astronaut stranding](https://www.scientificamerican.com/article/nasa-says-a-litany-of-failures-led-to-2024-boeing-starliner/) (Tier 2)
-- [CNN: NASA designates Boeing Starliner test flight a 'Type A mishap'](https://www.cnn.com/2026/02/19/science/nasa-boeing-starliner-investigation-report) (Tier 2)
+- [NASA Press Release: Starliner Crewed Flight Test Investigation](https://www.nasa.gov/news-release/nasa-releases-report-on-starliner-crewed-flight-test-investigation/) (Tier 1) (VERIFIED)
+- ~~[Scientific American: NASA says a litany of failures led to 2024 Boeing Starliner astronaut stranding](https://www.scientificamerican.com/article/nasa-says-a-litany-of-failures-led-to-2024-boeing-starliner/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [CNN: NASA designates Boeing Starliner test flight a 'Type A mishap'](https://www.cnn.com/2026/02/19/science/nasa-boeing-starliner-investigation-report) (Tier 2) (VERIFIED)
 
 ### SLS/Artemis Cost Overruns (Tier 2)
-- [Gizmodo: Boeing's contribution to NASA's Moon Program just took a major hit](https://gizmodo.com/boeings-contribution-to-nasas-moon-program-just-took-a-major-hit-2000730082) (Tier 2)
-- [Space.com: Boeing needs to improve quality control on SLS moon rocket, NASA Inspector General finds](https://www.space.com/nasa-oig-report-space-launch-system-rocket) (Tier 2)
+- [Gizmodo: Boeing's contribution to NASA's Moon Program just took a major hit](https://gizmodo.com/boeings-contribution-to-nasas-moon-program-just-took-a-major-hit-2000730082) (Tier 2) (VERIFIED)
+- [Space.com: Boeing needs to improve quality control on SLS moon rocket, NASA Inspector General finds](https://www.space.com/nasa-oig-report-space-launch-system-rocket) (Tier 2) (VERIFIED)
 
 ### Armed Services Committee Donations (Tier 2)
-- [OpenSecrets News: Armed Services Committee members received $5.8 million from defense sector 2022 cycle](https://www.opensecrets.org/news/2023/03/armed-services-committee-members-received-5-8-million-from-defense-sector-during-2022-election-cycle) (Tier 2)
+- [OpenSecrets News: Armed Services Committee members received $5.8 million from defense sector 2022 cycle](https://www.opensecrets.org/news/2023/03/armed-services-committee-members-received-5-8-million-from-defense-sector-during-2022-election-cycle) (Tier 2) (VERIFIED)
 
 ### Bipartisan Pattern & Post-January 6 (Tier 2)
-- [Daily Beast: Boeing restarts donations to members of the 'Sedition Caucus'](https://www.thedailybeast.com/boeing-restarts-donations-to-members-of-the-so-called-sedition-caucus/) (Tier 2)
+- [Daily Beast: Boeing restarts donations to members of the 'Sedition Caucus'](https://www.thedailybeast.com/boeing-restarts-donations-to-members-of-the-so-called-sedition-caucus/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -280,10 +280,10 @@ Fischer's dual committee position (Appropriations + Armed Services with Strategi
 | 2025 | Boeing awarded PAC-3 seeker contract | $2.7B | Iran war munitions production | Concurrent | Positioned for supplemental expansion |
 | 2026-01 | Boeing wins major defense contracts | $12.8B | E-4B logistics ($4.2B) + F-15IA ($8.6B) | — | Largest single-month contract haul |
 
-- [Responsible Statecraft: Despite ban, pernicious military 'earmarks' are back in the billions](https://responsiblestatecraft.org/backdoor-earmarks-pentagon/) (Tier 2)
-- [Sen. Fischer: Advances over $200M for defense programs](https://www.fischer.senate.gov/public/index.cfm/news?ID=6FD233AD-6BDD-4AEE-800E-ED1CF97839D4) (Tier 1)
-- [Boeing: MH-139A Grey Wolf program](https://www.boeing.com/defense/military-rotorcraft/mh-139-grey-wolf) (Tier 1)
-- [Boeing: Contract for eight additional MH-139A helicopters](https://boeing.mediaroom.com/news-releases-statements?item=131590) (Tier 1)
+- [Responsible Statecraft: Despite ban, pernicious military 'earmarks' are back in the billions](https://responsiblestatecraft.org/backdoor-earmarks-pentagon/) (Tier 2) (VERIFIED)
+- [Sen. Fischer: Advances over $200M for defense programs](https://www.fischer.senate.gov/public/index.cfm/news?ID=6FD233AD-6BDD-4AEE-800E-ED1CF97839D4) (Tier 1) (NEEDS REVIEW)
+- [Boeing: MH-139A Grey Wolf program](https://www.boeing.com/defense/military-rotorcraft/mh-139-grey-wolf) (Tier 1) (VERIFIED)
+- [Boeing: Contract for eight additional MH-139A helicopters](https://boeing.mediaroom.com/news-releases-statements?item=131590) (Tier 1) (VERIFIED)
 
 ---
 
@@ -382,14 +382,14 @@ Fischer's dual committee position (Appropriations + Armed Services with Strategi
 - United States v. BROWN (2026) — District Court, District of Columbia
 - Miller v. Blue Cross and Blue Shield of Illinois (2026) — District Court, W.D. Washington
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Boeing%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Boeing%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [254900R0UACRM2XT9692](https://search.gleif.org/#/record/254900R0UACRM2XT9692) |
+| LEI | [254900R0UACRM2XT9692](https://search.gleif.org/#/record/254900R0UACRM2XT9692) (VERIFIED) |
 | Legal Name | Boeing Ventures, LLC |
 | Jurisdiction | US-NC |
 | Entity Status | ACTIVE |
@@ -397,7 +397,7 @@ Fischer's dual committee position (Appropriations + Armed Services with Strategi
 | Registration | ISSUED |
 | Last Updated | 2025-06-17T20:50:41Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -411,7 +411,7 @@ Fischer's dual committee position (Appropriations + Armed Services with Strategi
 | Total Expenses | $956K |
 | Net Assets | $468K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 916056255](https://projects.propublica.org/nonprofits/organizations/916056255) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 916056255](https://projects.propublica.org/nonprofits/organizations/916056255) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### SEC Filing Activity
@@ -425,13 +425,13 @@ Fischer's dual committee position (Appropriations + Armed Services with Strategi
 
 **Notable filings:**
 
-- 2026-04-03 — **4**: [4](https://www.sec.gov/Archives/edgar/data/12927/000122520826004386/0001225208-26-004386-index.htm)
-- 2026-04-03 — **4**: [4](https://www.sec.gov/Archives/edgar/data/12927/000122520826004385/0001225208-26-004385-index.htm)
-- 2026-04-03 — **4**: [4](https://www.sec.gov/Archives/edgar/data/12927/000122520826004384/0001225208-26-004384-index.htm)
-- 2026-04-03 — **4**: [4](https://www.sec.gov/Archives/edgar/data/12927/000122520826004383/0001225208-26-004383-index.htm)
-- 2026-04-03 — **4**: [4](https://www.sec.gov/Archives/edgar/data/12927/000122520826004382/0001225208-26-004382-index.htm)
+- 2026-04-03 — **4**: [4](https://www.sec.gov/Archives/edgar/data/12927/000122520826004386/0001225208-26-004386-index.htm) (VERIFIED)
+- 2026-04-03 — **4**: [4](https://www.sec.gov/Archives/edgar/data/12927/000122520826004385/0001225208-26-004385-index.htm) (VERIFIED)
+- 2026-04-03 — **4**: [4](https://www.sec.gov/Archives/edgar/data/12927/000122520826004384/0001225208-26-004384-index.htm) (VERIFIED)
+- 2026-04-03 — **4**: [4](https://www.sec.gov/Archives/edgar/data/12927/000122520826004383/0001225208-26-004383-index.htm) (VERIFIED)
+- 2026-04-03 — **4**: [4](https://www.sec.gov/Archives/edgar/data/12927/000122520826004382/0001225208-26-004382-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Boeing%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Boeing%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -485,7 +485,7 @@ Fischer's dual committee position (Appropriations + Armed Services with Strategi
 | Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing (334220) | $2.0B |
 | Other Support Activities for Air Transportation (488190) | $1.9B |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 <!-- auto:usaspending-subawards pending-merge 2026-04-11 -->
@@ -560,7 +560,7 @@ Fischer's dual committee position (Appropriations + Armed Services with Strategi
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Boeing) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Boeing) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Tax Filings (IRS 990)
@@ -577,14 +577,14 @@ Fischer's dual committee position (Appropriations + Armed Services with Strategi
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/916056255/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/916056255/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/916056255/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/916056255/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/916056255/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/916056255/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/916056255/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/916056255/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/916056255/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/916056255/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/916056255) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/916056255) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Wikipedia
@@ -593,15 +593,15 @@ The Boeing Company is an American multinational corporation that designs and man
 
 | Fact | Value |
 |------|-------|
-| Wikidata ID | [Q66](https://www.wikidata.org/wiki/Q66) |
+| Wikidata ID | [Q66](https://www.wikidata.org/wiki/Q66) (VERIFIED) |
 | Description | American global aerospace and defense corporation |
 | Founded | 1916-07-15 |
-| Website | [https://boeing.com/](https://boeing.com/) |
-| X/Twitter | [@Boeing](https://x.com/Boeing) |
-| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/2004-09-14_1680x3000_chicago_boeing_building.jpg?width=300) |
+| Website | [https://boeing.com/](https://boeing.com/) (NEEDS REVIEW) |
+| X/Twitter | [@Boeing](https://x.com/Boeing) (VERIFIED) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/2004-09-14_1680x3000_chicago_boeing_building.jpg?width=300) (NEEDS REVIEW) |
 
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/Boeing) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q66) (Tier 2)
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Boeing) (Tier 3) (VERIFIED)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q66) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
 ### FTC Enforcement & Merger Review
@@ -619,21 +619,21 @@ The Boeing Company is an American multinational corporation that designs and man
 
 **Recent enforcement actions (historical):**
 
-- [The Boeing Company / Lockheed Martin Corp](http://www.ftc.gov/os/caselist/0510165/0510165.shtm) (2006-10-03) — Defense � Equipment and Engineering Services
-- [Boeing Co / Hughes Electronics](http://www.ftc.gov/os/caselist/c3992.shtm) (2000-09-27) — Defense � Equipment and Engineering Services
-- [The Boeing Co](http://www.ftc.gov/os/caselist/c3723.shtm) (1996-12-06) — Defense � Equipment and Engineering Services
+- ~~[The Boeing Company / Lockheed Martin Corp](http://www.ftc.gov/os/caselist/0510165/0510165.shtm)~~ (URL broken, archived by Ops) (2006-10-03) — Defense � Equipment and Engineering Services
+- [Boeing Co / Hughes Electronics](http://www.ftc.gov/os/caselist/c3992.shtm) (NEEDS REVIEW) (2000-09-27) — Defense � Equipment and Engineering Services
+- [The Boeing Co](http://www.ftc.gov/os/caselist/c3723.shtm) (NEEDS REVIEW) (1996-12-06) — Defense � Equipment and Engineering Services
 
 **Recent HSR merger filings (early terminations granted):**
 
-- [Boeing Employees' Credit Union → SAFE Credit Union](https://www.ftc.gov/legal-library/browse/early-termination-notices/20260777) (2026-02-13)
-- [The Boeing Company → Argon ST, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20100883) (2010-07-19)
-- [The Boeing Company → United Launch Alliance, L.L.C.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20051491) (2006-10-06)
-- [Onex Partners L.P. → The Boeing Company](https://www.ftc.gov/legal-library/browse/early-termination-notices/20050684) (2005-03-18)
-- [L-3 Communications Holdings, Inc. → The Boeing Company](https://www.ftc.gov/legal-library/browse/early-termination-notices/20050339) (2005-02-11)
+- [Boeing Employees' Credit Union → SAFE Credit Union](https://www.ftc.gov/legal-library/browse/early-termination-notices/20260777) (VERIFIED) (2026-02-13)
+- [The Boeing Company → Argon ST, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20100883) (VERIFIED) (2010-07-19)
+- [The Boeing Company → United Launch Alliance, L.L.C.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20051491) (VERIFIED) (2006-10-06)
+- [Onex Partners L.P. → The Boeing Company](https://www.ftc.gov/legal-library/browse/early-termination-notices/20050684) (VERIFIED) (2005-03-18)
+- [L-3 Communications Holdings, Inc. → The Boeing Company](https://www.ftc.gov/legal-library/browse/early-termination-notices/20050339) (VERIFIED) (2005-02-11)
 
-> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Boeing).
+> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Boeing) (VERIFIED).
 
-- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Boeing) (Tier 1)
+- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Boeing) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->
 
 ### Federal Spending (USASpending)
@@ -665,5 +665,5 @@ The Boeing Company is an American multinational corporation that designs and man
 | $10.0M | National Aeronautics and Space Administration | SINGLE SOURCE: TRANSONIC TRUSS BRACED WING VISION VEHICLE TECHNOLOGY DEVELOPMENT (5 JULY 2023) |
 | $6.0M | Department of Defense | RESILIENT, VERSATILE SPACE PHOTOVOLTAIC FACTORY FOR CONTESTED SPACE ENVIRONMENTS AND AN EVOLVING MAR |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/419ccd27-d6f4-d363-aeaf-b9e2c3ae6f5d-P/latest) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/419ccd27-d6f4-d363-aeaf-b9e2c3ae6f5d-P/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->

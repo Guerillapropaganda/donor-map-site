@@ -50,5 +50,5 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 | 05/20/2013 | N/A | other | Unknown | N/A |
 | 03/07/2013 | N/A | other | Unknown | N/A |
 
-- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->

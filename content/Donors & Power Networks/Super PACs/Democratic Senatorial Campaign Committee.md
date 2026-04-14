@@ -87,9 +87,9 @@ DSCC fundraising relies on three channels:
 
 ### Sources
 
-- [OpenSecrets: DSCC spending data](https://www.opensecrets.org/parties/totals?cmte=DSCC) (Tier 1)
-- [FEC: DSCC filings](https://www.fec.gov/data/committee/C00042366/) (Tier 1)
-- [Ballotpedia: DSCC](https://ballotpedia.org/Democratic_Senatorial_Campaign_Committee) (Tier 3)
+- ~~[OpenSecrets: DSCC spending data](https://www.opensecrets.org/parties/totals?cmte=DSCC)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [FEC: DSCC filings](https://www.fec.gov/data/committee/C00042366/) (Tier 1) (VERIFIED)
+- [Ballotpedia: DSCC](https://ballotpedia.org/Democratic_Senatorial_Campaign_Committee) (Tier 3) (VERIFIED)
 
 ---
 
@@ -118,15 +118,15 @@ DSCC fundraising relies on three channels:
 | Agencies | Federal Election Commission, Postal Regulatory Commission, Securities and Exchange Commission |
 
 **Recent regulatory activity:**
-- [Use of Campaign Funds for Candidate and Officeholder Security](https://www.federalregister.gov/documents/2024/09/25/2024-21918/use-of-campaign-funds-for-candidate-and-officeholder-security) (2024-09-25) — Federal Election Commission
-- [Internet Communication Disclaimers and Definition of “Public Communication”](https://www.federalregister.gov/documents/2018/03/26/2018-06010/internet-communication-disclaimers-and-definition-of-public-communication) (2018-03-26) — Federal Election Commission
-- [Sunshine Act Meetings](https://www.federalregister.gov/documents/2013/08/20/2013-20344/sunshine-act-meetings) (2013-08-20) — Federal Election Commission
-- [Sunshine Act Meetings](https://www.federalregister.gov/documents/2013/07/23/2013-17733/sunshine-act-meetings) (2013-07-23) — Federal Election Commission
-- [Sunshine Act Notice](https://www.federalregister.gov/documents/2012/11/14/2012-27703/sunshine-act-notice) (2012-11-14) — Federal Election Commission
-- [Sunshine Act Meeting](https://www.federalregister.gov/documents/2011/07/18/2011-18154/sunshine-act-meeting) (2011-07-18) — Federal Election Commission
+- ~~[Use of Campaign Funds for Candidate and Officeholder Security](https://www.federalregister.gov/documents/2024/09/25/2024-21918/use-of-campaign-funds-for-candidate-and-officeholder-security)~~ (URL broken, archived by Ops) (2024-09-25) — Federal Election Commission
+- [Internet Communication Disclaimers and Definition of “Public Communication”](https://www.federalregister.gov/documents/2018/03/26/2018-06010/internet-communication-disclaimers-and-definition-of-public-communication) (VERIFIED) (2018-03-26) — Federal Election Commission
+- [Sunshine Act Meetings](https://www.federalregister.gov/documents/2013/08/20/2013-20344/sunshine-act-meetings) (VERIFIED) (2013-08-20) — Federal Election Commission
+- [Sunshine Act Meetings](https://www.federalregister.gov/documents/2013/07/23/2013-17733/sunshine-act-meetings) (VERIFIED) (2013-07-23) — Federal Election Commission
+- [Sunshine Act Notice](https://www.federalregister.gov/documents/2012/11/14/2012-27703/sunshine-act-notice) (VERIFIED) (2012-11-14) — Federal Election Commission
+- [Sunshine Act Meeting](https://www.federalregister.gov/documents/2011/07/18/2011-18154/sunshine-act-meeting) (VERIFIED) (2011-07-18) — Federal Election Commission
 - ... and 27 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Democratic%20Senatorial%20Campaign%20Committee%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Democratic%20Senatorial%20Campaign%20Committee%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### SEC Filing Activity
@@ -144,7 +144,7 @@ DSCC fundraising relies on three channels:
 - 2003-07-29 — **DEF 14A**: DEF 14A
 - 2002-06-17 — **DEF 14A**: DEF 14A
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Democratic%20Senatorial%20Campaign%20Committee%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Democratic%20Senatorial%20Campaign%20Committee%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Federal Court Records (CourtListener)
@@ -163,5 +163,5 @@ DSCC fundraising relies on three channels:
 - United States v. North Carolina State Board of Elections (2025) — District Court, E.D. North Carolina
 - Bette Eakin v. Adams County Board of Elections (2025) — Court of Appeals for the Third Circuit
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Democratic%20Senatorial%20Campaign%20Committee%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Democratic%20Senatorial%20Campaign%20Committee%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->

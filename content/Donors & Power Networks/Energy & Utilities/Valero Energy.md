@@ -129,12 +129,12 @@ Valero's PAC contributions flow to members of Congress on energy, commerce, and 
 
 ### Sources
 
-- [OpenSecrets: Valero Energy organization profile](https://www.opensecrets.org/orgs/valero-energy/summary?id=D000022303) (Tier 1)
-- [OpenSecrets: Valero Energy PAC 2024](https://www.opensecrets.org/political-action-committees-pacs/valero-energy/C00109546/summary/2024) (Tier 1)
-- [OpenSecrets: Valero Energy PAC candidate recipients 2024](https://www.opensecrets.org/political-action-committees-pacs/valero-energy/C00109546/candidate-recipients/2024) (Tier 1)
-- [Read Sludge: Oil and gas companies donate big to GOP super PACs](https://readsludge.com/2024/02/01/oil-and-gas-companies-donate-big-to-gop-super-pacs/) (Tier 2)
-- [Lever News: Campaign cash for climate denial](https://www.levernews.com/campaign-cash-for-climate-denial/) (Tier 2)
-- [Wikipedia: Valero Energy](https://en.wikipedia.org/wiki/Valero_Energy) (Tier 3)
+- [OpenSecrets: Valero Energy organization profile](https://www.opensecrets.org/orgs/valero-energy/summary?id=D000022303) (Tier 1) (VERIFIED)
+- [OpenSecrets: Valero Energy PAC 2024](https://www.opensecrets.org/political-action-committees-pacs/valero-energy/C00109546/summary/2024) (Tier 1) (VERIFIED)
+- [OpenSecrets: Valero Energy PAC candidate recipients 2024](https://www.opensecrets.org/political-action-committees-pacs/valero-energy/C00109546/candidate-recipients/2024) (Tier 1) (VERIFIED)
+- [Read Sludge: Oil and gas companies donate big to GOP super PACs](https://readsludge.com/2024/02/01/oil-and-gas-companies-donate-big-to-gop-super-pacs/) (Tier 2) (VERIFIED)
+- [Lever News: Campaign cash for climate denial](https://www.levernews.com/campaign-cash-for-climate-denial/) (Tier 2) (VERIFIED)
+- [Wikipedia: Valero Energy](https://en.wikipedia.org/wiki/Valero_Energy) (Tier 3) (VERIFIED)
 
 ---
 
@@ -161,8 +161,8 @@ Valero's PAC contributions flow to members of Congress on energy, commerce, and 
 | Total Expenses | $11.0M |
 | Net Assets | $18.1M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 742904514](https://projects.propublica.org/nonprofits/organizations/742904514) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F742904514_202309_990_2024120622937805.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 742904514](https://projects.propublica.org/nonprofits/organizations/742904514) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F742904514_202309_990_2024120622937805.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Lobbying Activity
@@ -181,7 +181,7 @@ Valero's PAC contributions flow to members of Congress on energy, commerce, and 
 
 **Agencies contacted:** Commerce, Dept of (DOC), Energy, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP), HOUSE OF REPRESENTATIVES, SENATE, State, Dept of (DOS), Treasury, Dept of, U.S. Trade Representative (USTR), Vice President of the U.S. +1 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Valero%20Energy) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Valero%20Energy) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)
@@ -210,15 +210,15 @@ Valero's PAC contributions flow to members of Congress on energy, commerce, and 
 | Agencies | Antitrust Division, Commerce Department, Energy Department, Environmental Protection Agency, Federal Energy Regulatory Commission, Federal Trade Commission, Foreign-Trade Zones Board, Justice Department +4 more |
 
 **Recent regulatory activity:**
-- [Foreign-Trade Zone (FTZ) 116, Notification of Proposed Production Activity; The Premcor Refining Group; (Renewable Fuels); Port Arthur, Texas](https://www.federalregister.gov/documents/2026/03/13/2026-04950/foreign-trade-zone-ftz-116-notification-of-proposed-production-activity-the-premcor-refining-group) (2026-03-13) — Commerce Department
-- [Foreign-Trade Zone (FTZ) 116; Authorization of Production Activity; The Premcor Refining Group, Inc.; (Sustainable Aviation Fuel); Port Arthur, Texas](https://www.federalregister.gov/documents/2026/03/10/2026-04671/foreign-trade-zone-ftz-116-authorization-of-production-activity-the-premcor-refining-group-inc) (2026-03-10) — Commerce Department
-- [Clean Air Act Operating Permit Program; Petition for Objection to State Operating Permit for Valero Energy Partners, L.P., Harris County, Texas](https://www.federalregister.gov/documents/2025/08/14/2025-15494/clean-air-act-operating-permit-program-petition-for-objection-to-state-operating-permit-for-valero) (2025-08-14) — Environmental Protection Agency
-- [Foreign-Trade Zone (FTZ) 116, Notification of Proposed Production Activity; The Premcor Refining Group, Inc.; (Sustainable Aviation Fuel); Port Arthur, Texas](https://www.federalregister.gov/documents/2025/07/01/2025-12253/foreign-trade-zone-ftz-116-notification-of-proposed-production-activity-the-premcor-refining-group) (2025-07-01) — Commerce Department
-- [Combined Notice of Filings](https://www.federalregister.gov/documents/2025/04/09/2025-06083/combined-notice-of-filings) (2025-04-09) — Energy Department
-- [Corporate Average Fuel Economy Standards for Model Years 2024-2026 Passenger Cars and Light Trucks](https://www.federalregister.gov/documents/2022/05/02/2022-07200/corporate-average-fuel-economy-standards-for-model-years-2024-2026-passenger-cars-and-light-trucks) (2022-05-02) — Transportation Department ★
+- [Foreign-Trade Zone (FTZ) 116, Notification of Proposed Production Activity; The Premcor Refining Group; (Renewable Fuels); Port Arthur, Texas](https://www.federalregister.gov/documents/2026/03/13/2026-04950/foreign-trade-zone-ftz-116-notification-of-proposed-production-activity-the-premcor-refining-group) (VERIFIED) (2026-03-13) — Commerce Department
+- [Foreign-Trade Zone (FTZ) 116; Authorization of Production Activity; The Premcor Refining Group, Inc.; (Sustainable Aviation Fuel); Port Arthur, Texas](https://www.federalregister.gov/documents/2026/03/10/2026-04671/foreign-trade-zone-ftz-116-authorization-of-production-activity-the-premcor-refining-group-inc) (VERIFIED) (2026-03-10) — Commerce Department
+- [Clean Air Act Operating Permit Program; Petition for Objection to State Operating Permit for Valero Energy Partners, L.P., Harris County, Texas](https://www.federalregister.gov/documents/2025/08/14/2025-15494/clean-air-act-operating-permit-program-petition-for-objection-to-state-operating-permit-for-valero) (VERIFIED) (2025-08-14) — Environmental Protection Agency
+- [Foreign-Trade Zone (FTZ) 116, Notification of Proposed Production Activity; The Premcor Refining Group, Inc.; (Sustainable Aviation Fuel); Port Arthur, Texas](https://www.federalregister.gov/documents/2025/07/01/2025-12253/foreign-trade-zone-ftz-116-notification-of-proposed-production-activity-the-premcor-refining-group) (VERIFIED) (2025-07-01) — Commerce Department
+- [Combined Notice of Filings](https://www.federalregister.gov/documents/2025/04/09/2025-06083/combined-notice-of-filings) (VERIFIED) (2025-04-09) — Energy Department
+- [Corporate Average Fuel Economy Standards for Model Years 2024-2026 Passenger Cars and Light Trucks](https://www.federalregister.gov/documents/2022/05/02/2022-07200/corporate-average-fuel-economy-standards-for-model-years-2024-2026-passenger-cars-and-light-trucks) (VERIFIED) (2022-05-02) — Transportation Department ★
 - ... and 73 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Valero%20Energy%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Valero%20Energy%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Federal Spending (USASpending)
@@ -240,7 +240,7 @@ Valero's PAC contributions flow to members of Congress on energy, commerce, and 
 | $70.6M | Department of Defense | CLIN 0007 14000000 USG OF TURBINE FUEL, AVIATION (JP8) FMS REQUIREMENT  FMS REQUIREMENT |
 | $64.7M | Department of Defense | CLIN 0008 9140-01-556-9156 DIESEL FUEL OIL (EN590)     14,000,000.00 USG UNIT PRICE $1.826260  AMOUN |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/1ad3783b-6219-ee2a-8de8-f116c8b3c799-P/latest) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/1ad3783b-6219-ee2a-8de8-f116c8b3c799-P/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -250,7 +250,7 @@ Valero's PAC contributions flow to members of Congress on energy, commerce, and 
 | Top Federal Agency | Department of Defense ($5.4B) |
 | Primary NAICS Sector | Petroleum Refineries |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Federal Court Records (CourtListener)
@@ -269,7 +269,7 @@ Valero's PAC contributions flow to members of Congress on energy, commerce, and 
 - Valero Marketing and Supply Company v. United States (2026) — United States Court of International Trade
 - In re: Charles Johnson (2025) — Court of Appeals for the Fifth Circuit
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Valero%20Energy%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Valero%20Energy%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### DOJ Press Releases
@@ -290,5 +290,5 @@ Valero's PAC contributions flow to members of Congress on energy, commerce, and 
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Valero%20Energy) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Valero%20Energy) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->

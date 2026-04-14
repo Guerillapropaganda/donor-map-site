@@ -40,8 +40,8 @@ The structural limit: Wyden's tax reform proposals generate media attention and 
 
 ### Sources
 
-- [FEC Candidate: Ron Wyden donor profile](https://www.fec.gov/data/candidate/H0OR03026/) (Tier 1)
-- [Congress.gov: Section 230](https://www.congress.gov/bill/104th-congress/senate-bill/652) (Tier 1)
-- [Senate Finance Committee hearings](https://www.finance.senate.gov/hearings) (Tier 1)
-- [Ballotpedia: Ron Wyden](https://ballotpedia.org/Ron_Wyden) (Tier 3)
+- [FEC Candidate: Ron Wyden donor profile](https://www.fec.gov/data/candidate/H0OR03026/) (Tier 1) (VERIFIED)
+- [Congress.gov: Section 230](https://www.congress.gov/bill/104th-congress/senate-bill/652) (Tier 1) (VERIFIED)
+- [Senate Finance Committee hearings](https://www.finance.senate.gov/hearings) (Tier 1) (VERIFIED)
+- [Ballotpedia: Ron Wyden](https://ballotpedia.org/Ron_Wyden) (Tier 3) (VERIFIED)
 

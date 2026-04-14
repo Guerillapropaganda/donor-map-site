@@ -38,8 +38,8 @@ OFT is significantly smaller than the Ohio Education Association (OEA), the NEA-
 
 OFT's most prominent locals are the Cincinnati Federation of Teachers, the Cleveland Teachers Union, and the Toledo Federation of Teachers — all in urban districts where the voucher expansion's financial impact is most severe. President Melissa Cropper, who also serves as secretary-treasurer of We Are Ohio (a state coalition preserving workers' rights) and chair of the Coalition for Public Education, has positioned OFT as the most vocal union opponent of Ohio's EdChoice voucher program.
 
-- [DOL: OFT LM-2 Annual Report (File 513-310), fiscal year ending 06/30/2024](https://olmsapps.dol.gov/query/orgReport.do?rptId=898218&rptForm=LM2Form) (Tier 1)
-- [InfluenceWatch: Ohio Federation of Teachers (OFT)](https://www.influencewatch.org/labor-union/ohio-federation-of-teachers-oft/) (Tier 3)
+- [DOL: OFT LM-2 Annual Report (File 513-310), fiscal year ending 06/30/2024](https://olmsapps.dol.gov/query/orgReport.do?rptId=898218&rptForm=LM2Form) (Tier 1) (VERIFIED)
+- [InfluenceWatch: Ohio Federation of Teachers (OFT)](https://www.influencewatch.org/labor-union/ohio-federation-of-teachers-oft/) (Tier 3) (VERIFIED)
 
 ---
 
@@ -81,9 +81,9 @@ OFT's political spending operates through a COPE (Committee on Political Educati
 
 OFT's endorsement pattern reveals the structural limitation: the union endorses Democrats who lose statewide (Whaley lost the 2022 governor's race; Tim Ryan lost the Senate race) while occasionally supporting winning candidates in safe Democratic urban districts (Beatty, Brown, Sykes). The union's political operation is effective at maintaining relationships with Democratic legislators but cannot generate the electoral outcomes needed to change state policy.
 
-- [DOL: OFT LM-2 Annual Report — Statement B (Receipts and Disbursements)](https://olmsapps.dol.gov/query/orgReport.do?rptId=898218&rptForm=LM2Form) (Tier 1)
-- [OFT: 2022 Endorsements](https://www.oft-aft.org/user/login?destination=/news/oft-votes-endorsements-and-voter-information-2022-election) (Tier 3)
-- [FEC Receipts: Teachers Unions industry summary 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
+- [DOL: OFT LM-2 Annual Report — Statement B (Receipts and Disbursements)](https://olmsapps.dol.gov/query/orgReport.do?rptId=898218&rptForm=LM2Form) (Tier 1) (VERIFIED)
+- [OFT: 2022 Endorsements](https://www.oft-aft.org/user/login?destination=/news/oft-votes-endorsements-and-voter-information-2022-election) (Tier 3) (VERIFIED)
+- [FEC Receipts: Teachers Unions industry summary 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
 
 ---
 
@@ -133,14 +133,14 @@ The deeper pattern: OFT represents workers who serve the public. The donor class
 
 - [DOL: OFT LM-2 Annual Report (File 513-310), fiscal year ending 06/30/2024](https://olmsapps.dol.gov/query/orgReport.do?rptId=898218&rptForm=LM2Form) (Tier 1)
 - [FEC Receipts: Teachers Unions industry summary 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- [OpenSecrets: American Federation of Teachers organizational profile](https://www.opensecrets.org/orgs/american-federation-of-teachers/summary?id=d000000083) (Tier 1)
-- [Ohio Capital Journal: Ohio spent more than a billion dollars on private school vouchers in fiscal year 2025](https://ohiocapitaljournal.com/2025/10/20/ohio-spent-more-than-a-billion-dollars-on-private-school-vouchers-in-fiscal-year-2025/) (Tier 2)
-- [Ohio Capital Journal: Education advocates say Ohio Issue 1 could significantly impact state lawmakers' priorities](https://ohiocapitaljournal.com/2024/10/10/education-advocates-say-ohio-issue-1-could-significantly-impact-state-lawmakers-priorities/) (Tier 2)
-- [Ohio Capital Journal: Ohio public education supporters look to 2024, lawsuit to hold private voucher system accountable](https://ohiocapitaljournal.com/2024/01/03/ohio-public-education-supporters-look-to-2024-lawsuit-to-hold-private-voucher-system-accountable/) (Tier 2)
-- [Ideastream: Ohio to spend almost $2.5B on vouchers in new two-year budget](https://www.ideastream.org/education/2025-06-27/ohio-could-spend-almost-2-5b-on-vouchers-in-next-two-year-budget) (Tier 2)
-- [The 74: Ohio Judge Rules State's $700 Million Voucher Program Is Unconstitutional](https://www.the74million.org/article/ohio-judge-rules-states-700-million-voucher-program-is-unconstitutional/) (Tier 2)
+- [OpenSecrets: American Federation of Teachers organizational profile](https://www.opensecrets.org/orgs/american-federation-of-teachers/summary?id=d000000083) (Tier 1) (VERIFIED)
+- [Ohio Capital Journal: Ohio spent more than a billion dollars on private school vouchers in fiscal year 2025](https://ohiocapitaljournal.com/2025/10/20/ohio-spent-more-than-a-billion-dollars-on-private-school-vouchers-in-fiscal-year-2025/) (Tier 2) (VERIFIED)
+- [Ohio Capital Journal: Education advocates say Ohio Issue 1 could significantly impact state lawmakers' priorities](https://ohiocapitaljournal.com/2024/10/10/education-advocates-say-ohio-issue-1-could-significantly-impact-state-lawmakers-priorities/) (Tier 2) (VERIFIED)
+- [Ohio Capital Journal: Ohio public education supporters look to 2024, lawsuit to hold private voucher system accountable](https://ohiocapitaljournal.com/2024/01/03/ohio-public-education-supporters-look-to-2024-lawsuit-to-hold-private-voucher-system-accountable/) (Tier 2) (VERIFIED)
+- [Ideastream: Ohio to spend almost $2.5B on vouchers in new two-year budget](https://www.ideastream.org/education/2025-06-27/ohio-could-spend-almost-2-5b-on-vouchers-in-next-two-year-budget) (Tier 2) (VERIFIED)
+- [The 74: Ohio Judge Rules State's $700 Million Voucher Program Is Unconstitutional](https://www.the74million.org/article/ohio-judge-rules-states-700-million-voucher-program-is-unconstitutional/) (Tier 2) (VERIFIED)
 - [InfluenceWatch: Ohio Federation of Teachers (OFT)](https://www.influencewatch.org/labor-union/ohio-federation-of-teachers-oft/) (Tier 3)
-- [Ballotpedia: Ohio Federation of Teachers](https://ballotpedia.org/Ohio_Federation_of_Teachers) (Tier 3)
+- [Ballotpedia: Ohio Federation of Teachers](https://ballotpedia.org/Ohio_Federation_of_Teachers) (Tier 3) (VERIFIED)
 - [OFT: 2022 Endorsements](https://www.oft-aft.org/user/login?destination=/news/oft-votes-endorsements-and-voter-information-2022-election) (Tier 3)
 
 ---
@@ -158,7 +158,7 @@ The deeper pattern: OFT represents workers who serve the public. The donor class
 
 - 2014-04-14 — **424B3**: 424B3
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Ohio%20Federation%20of%20Teachers%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Ohio%20Federation%20of%20Teachers%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Lobbying Activity
@@ -177,7 +177,7 @@ The deeper pattern: OFT represents workers who serve the public. The donor class
 
 **Agencies contacted:** Agriculture, Dept of (USDA), Army, Dept of (Corps of Engineers), Bureau of Alcohol Tobacco Firearms & Explosives, Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Commodity Futures Trading Commission (CFTC), Consumer Financial Protection Bureau (CFPB), Defense, Dept of (DOD), Education, Dept of, Energy, Dept of +23 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Ohio%20Federation%20of%20Teachers) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Ohio%20Federation%20of%20Teachers) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

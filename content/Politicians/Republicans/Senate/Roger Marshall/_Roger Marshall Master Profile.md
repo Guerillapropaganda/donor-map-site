@@ -136,16 +136,16 @@ Marshall's donor-class function is to serve as the agribusiness and healthcare i
 
 ## Sources
 
-- [FEC Candidate: Roger Marshall campaign finance summary](https://www.fec.gov/data/candidate/H6KS01179/) (Tier 1)
-- [FEC: Roger Marshall candidate overview](https://www.fec.gov/data/candidate/S0KS00315/) (Tier 1)
-- [Congress.gov: Roger Marshall](https://www.congress.gov/member/roger-marshall/M001198) (Tier 1)
-- [Marshall.senate.gov: 119th Congress committee assignments](https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-announces-committee-assignments-for-the-119th-congress/) (Tier 1)
-- [Marshall.senate.gov: COVID vaccine mandate op-ed](https://www.marshall.senate.gov/newsroom/op-eds/sen-marshall-op-ed-bidens-covid-vaccine-mandate-treats-our-heroes-like-felons-im-fighting-to-stop-it/) (Tier 1)
-- [KCUR: Kansas senator is a doctor but his COVID advice doesn't always sound like it](https://www.kcur.org/news/2021-08-26/kansas-senator-roger-marshall-is-a-doctor-but-his-covid-19-advice-doesnt-always-sound-like-it) (Tier 2)
-- [Farm Progress: Kansas Republican who voted against farm bill faces primary challenge](https://www.farmprogress.com/farm-operations/kansas-republican-incumbent-who-voted-against-farm-bill-faces-primary-challenge-144177) (Tier 2)
-- [KCLY Radio: Marshall's Finance Committee role](https://kclyradio.com/blog/senator-roger-marshall-announces-key-committee-assignments-for-119th-congress-including-senate-finance-committee-role/) (Tier 3)
-- [GovTrack: Roger Marshall](https://www.govtrack.us/congress/members/roger_marshall/412704) (Tier 3)
-- [Ballotpedia: Roger Marshall](https://ballotpedia.org/Roger_Marshall) (Tier 3)
+- [FEC Candidate: Roger Marshall campaign finance summary](https://www.fec.gov/data/candidate/H6KS01179/) (Tier 1) (VERIFIED)
+- [FEC: Roger Marshall candidate overview](https://www.fec.gov/data/candidate/S0KS00315/) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: Roger Marshall](https://www.congress.gov/member/roger-marshall/M001198)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Marshall.senate.gov: 119th Congress committee assignments](https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-announces-committee-assignments-for-the-119th-congress/) (Tier 1) (VERIFIED)
+- [Marshall.senate.gov: COVID vaccine mandate op-ed](https://www.marshall.senate.gov/newsroom/op-eds/sen-marshall-op-ed-bidens-covid-vaccine-mandate-treats-our-heroes-like-felons-im-fighting-to-stop-it/) (Tier 1) (VERIFIED)
+- [KCUR: Kansas senator is a doctor but his COVID advice doesn't always sound like it](https://www.kcur.org/news/2021-08-26/kansas-senator-roger-marshall-is-a-doctor-but-his-covid-19-advice-doesnt-always-sound-like-it) (Tier 2) (VERIFIED)
+- ~~[Farm Progress: Kansas Republican who voted against farm bill faces primary challenge](https://www.farmprogress.com/farm-operations/kansas-republican-incumbent-who-voted-against-farm-bill-faces-primary-challenge-144177)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [KCLY Radio: Marshall's Finance Committee role](https://kclyradio.com/blog/senator-roger-marshall-announces-key-committee-assignments-for-119th-congress-including-senate-finance-committee-role/) (Tier 3) (VERIFIED)
+- [GovTrack: Roger Marshall](https://www.govtrack.us/congress/members/roger_marshall/412704) (Tier 3) (VERIFIED)
+- [Ballotpedia: Roger Marshall](https://ballotpedia.org/Roger_Marshall) (Tier 3) (VERIFIED)
 
 ---
 
@@ -176,14 +176,14 @@ Marshall's donor-class function is to serve as the agribusiness and healthcare i
 | KANSAS FARMERS FUND | $0 | $374,565 |
 | KANSAS AG COMMUNITIES COALITION | $204,877 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6KS01179/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6KS01179/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Roger Marshall](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: Roger Marshall](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 
 
@@ -213,5 +213,5 @@ Marshall's donor-class function is to serve as the agribusiness and healthcare i
 | 3637 | ACE Agriculture Act of 2026 | Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry. |
 | 3623 | Credit Card Competition Act of 2026 | Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. |
 
-- [Source: Congress.gov](https://www.congress.gov/member/M001198) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/M001198)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->

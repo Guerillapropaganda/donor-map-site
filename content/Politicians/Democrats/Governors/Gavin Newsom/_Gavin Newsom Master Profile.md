@@ -44,7 +44,7 @@ donors: [[Elon Musk]], [[Michael Bloomberg]], [[Haim Saban]], [[SEIU - Service E
 
 Gavin Christopher Newsom. Born October 10, 1967, in San Francisco. Democrat. California's 40th Governor since January 2019. Prior: Lieutenant Governor of California (2011–2019), Mayor of San Francisco (2004–2011), member of the San Francisco Board of Supervisors (1997–2003).
 
-Born into the California donor class. His father was a close associate of the Getty family; Newsom grew up with direct access to California's old-money Democratic infrastructure. His business background before politics: PlumpJack Group (restaurants, wineries, hotels) — built with early capital connections to Gordon Getty. He is not a self-made politician who rose from the working class. He is a product of the California donor network that later came to fund his political career. [Source: [San Francisco Chronicle](https://www.sfchronicle.com/politics/) (Tier 2); [OpenSecrets: Gavin Newsom Campaign Finance](https://www.opensecrets.org/officeholders/gavin-newsom/summary?cycle=2021&id=312332) (Tier 1)]
+Born into the California donor class. His father was a close associate of the Getty family; Newsom grew up with direct access to California's old-money Democratic infrastructure. His business background before politics: PlumpJack Group (restaurants, wineries, hotels) — built with early capital connections to Gordon Getty. He is not a self-made politician who rose from the working class. He is a product of the California donor network that later came to fund his political career. [Source: [San Francisco Chronicle](https://www.sfchronicle.com/politics/) (Tier 2) (VERIFIED); [OpenSecrets: Gavin Newsom Campaign Finance](https://www.opensecrets.org/officeholders/gavin-newsom/summary?cycle=2021&id=312332) (Tier 1) (VERIFIED)]
 
 ---
 
@@ -170,7 +170,7 @@ These are the rhetorical patterns Newsom uses to manage the contradiction betwee
 
 ### The 2028 Positioning
 
-No longer speculation — it's infrastructure. Campaign for Democracy PAC ($7.7M cash on hand). Book tour through New Hampshire, Nevada, South Carolina. 100,000+ new out-of-state donors. Hollywood writing big checks. Litigation portfolio against Trump worth $168 billion in preserved federal funding. October 2025: "Yeah, I'd be lying otherwise." [Source: [CalMatters: California News and Politics](https://calmatters.org/category/politics/) (Tier 2); [FPPC: California Campaign Finance Records](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1)]
+No longer speculation — it's infrastructure. Campaign for Democracy PAC ($7.7M cash on hand). Book tour through New Hampshire, Nevada, South Carolina. 100,000+ new out-of-state donors. Hollywood writing big checks. Litigation portfolio against Trump worth $168 billion in preserved federal funding. October 2025: "Yeah, I'd be lying otherwise." [Source: [CalMatters: California News and Politics](https://calmatters.org/category/politics/) (Tier 2) (VERIFIED); [FPPC: California Campaign Finance Records](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1) (VERIFIED)]
 
 [See: [[Newsom 2028 - The Donor Class Presidential Campaign]]]
 
@@ -217,18 +217,18 @@ The genuine wins are real and should not be dismissed. Universal transitional ki
 
 | # | Title | Date | Link |
 |---|-------|------|------|
-| 1 | As Trump rolls back protections, Governor Newsom signs first-of-its-kind exec... | 2026-03-30 | [Link](https://www.gov.ca.gov/2026/03/30/as-trump-rolls-back-protections-governor-newsom-signs-first-of-its-kind-executive-order-to-strengthen-ai-protections-and-responsible-use/) |
-| 2 | Governor Newsom strengthens bans on insider betting by state officials, takes... | 2026-03-27 | [Link](https://www.gov.ca.gov/2026/03/27/governor-newsom-strengthens-bans-on-insider-betting-by-state-officials-takes-aim-at-corruption-fueled-by-trump/) |
-| 3 | Governor Newsom expands financial literacy in schools and wealth-building acc... | 2026-03-18 | [Link](https://www.gov.ca.gov/2026/03/18/governor-newsom-expands-financial-literacy-in-schools-and-wealth-building-access-for-women/) |
-| 4 | Governor Newsom signs Executive Order to assist Imperial County’s recovery fo... | 2026-02-05 | [Link](https://www.gov.ca.gov/2026/02/04/governor-newsom-signs-executive-order-to-assist-imperial-countys-recovery-following-2025-august-monsoon-storms/) |
-| 5 | Governor Newsom issues executive order expanding protections for survivors an... | 2026-01-06 | [Link](https://www.gov.ca.gov/2026/01/06/governor-newsom-issues-executive-order-expanding-protections-for-survivors-and-support-for-businesses/) |
-| 6 | Following LA fires, Governor Newsom extends key provision to fast‑track wildf... | 2025-12-31 | [Link](https://www.gov.ca.gov/2025/12/31/following-la-fires-governor-newsom-extends-key-provision-to-fast-track-wildfire-safety-window-protecting-more-communities-across-the-state/) |
-| 7 | While Trump turns his back on LA fire survivors, Governor Newsom issues order... | 2025-11-24 | [Link](https://www.gov.ca.gov/2025/11/24/while-trump-turns-his-back-on-la-fire-survivors-governor-newsom-issues-order-creating-more-flexibility-for-recovery-and-rebuilding/) |
-| 8 | Governor Newsom cuts red tape to help communities clean up and rebuild faster... | 2025-11-19 | [Link](https://www.gov.ca.gov/2025/11/19/governor-newsom-cuts-red-tape-to-help-communities-clean-up-and-rebuild-faster-following-the-tcu-lightning-complex-fires/) |
-| 9 | Governor Newsom signs executive order launching next phase of whole-of-govern... | 2025-09-30 | [Link](https://www.gov.ca.gov/2025/09/30/governor-newsom-signs-executive-order-launching-next-phase-of-whole-of-government-response-to-the-economic-and-insurance-consequences-of-climate-crisis/) |
-| 10 | Governor Newsom strengthens local control in Los Angeles burn scar areas | 2025-07-30 | [Link](https://www.gov.ca.gov/2025/07/30/governor-newsom-strengthens-local-control-in-los-angeles-burn-scar-areas/) |
+| 1 | As Trump rolls back protections, Governor Newsom signs first-of-its-kind exec... | 2026-03-30 | [Link](https://www.gov.ca.gov/2026/03/30/as-trump-rolls-back-protections-governor-newsom-signs-first-of-its-kind-executive-order-to-strengthen-ai-protections-and-responsible-use/) (VERIFIED) |
+| 2 | Governor Newsom strengthens bans on insider betting by state officials, takes... | 2026-03-27 | [Link](https://www.gov.ca.gov/2026/03/27/governor-newsom-strengthens-bans-on-insider-betting-by-state-officials-takes-aim-at-corruption-fueled-by-trump/) (VERIFIED) |
+| 3 | Governor Newsom expands financial literacy in schools and wealth-building acc... | 2026-03-18 | [Link](https://www.gov.ca.gov/2026/03/18/governor-newsom-expands-financial-literacy-in-schools-and-wealth-building-access-for-women/) (VERIFIED) |
+| 4 | Governor Newsom signs Executive Order to assist Imperial County’s recovery fo... | 2026-02-05 | [Link](https://www.gov.ca.gov/2026/02/04/governor-newsom-signs-executive-order-to-assist-imperial-countys-recovery-following-2025-august-monsoon-storms/) (VERIFIED) |
+| 5 | Governor Newsom issues executive order expanding protections for survivors an... | 2026-01-06 | [Link](https://www.gov.ca.gov/2026/01/06/governor-newsom-issues-executive-order-expanding-protections-for-survivors-and-support-for-businesses/) (VERIFIED) |
+| 6 | Following LA fires, Governor Newsom extends key provision to fast‑track wildf... | 2025-12-31 | [Link](https://www.gov.ca.gov/2025/12/31/following-la-fires-governor-newsom-extends-key-provision-to-fast-track-wildfire-safety-window-protecting-more-communities-across-the-state/) (VERIFIED) |
+| 7 | While Trump turns his back on LA fire survivors, Governor Newsom issues order... | 2025-11-24 | [Link](https://www.gov.ca.gov/2025/11/24/while-trump-turns-his-back-on-la-fire-survivors-governor-newsom-issues-order-creating-more-flexibility-for-recovery-and-rebuilding/) (VERIFIED) |
+| 8 | Governor Newsom cuts red tape to help communities clean up and rebuild faster... | 2025-11-19 | [Link](https://www.gov.ca.gov/2025/11/19/governor-newsom-cuts-red-tape-to-help-communities-clean-up-and-rebuild-faster-following-the-tcu-lightning-complex-fires/) (VERIFIED) |
+| 9 | Governor Newsom signs executive order launching next phase of whole-of-govern... | 2025-09-30 | [Link](https://www.gov.ca.gov/2025/09/30/governor-newsom-signs-executive-order-launching-next-phase-of-whole-of-government-response-to-the-economic-and-insurance-consequences-of-climate-crisis/) (VERIFIED) |
+| 10 | Governor Newsom strengthens local control in Los Angeles burn scar areas | 2025-07-30 | [Link](https://www.gov.ca.gov/2025/07/30/governor-newsom-strengthens-local-control-in-los-angeles-burn-scar-areas/) (VERIFIED) |
 
-- [Source: CA Governor's Office](https://www.gov.ca.gov/2026/03/30/as-trump-rolls-back-protections-governor-newsom-signs-first-of-its-kind-executive-order-to-strengthen-ai-protections-and-responsible-use/) (Tier 1)
+- [Source: CA Governor's Office](https://www.gov.ca.gov/2026/03/30/as-trump-rolls-back-protections-governor-newsom-signs-first-of-its-kind-executive-order-to-strengthen-ai-protections-and-responsible-use/) (Tier 1) (VERIFIED)
 <!-- auto:governor-exec-actions end -->
 
 ## Sources
@@ -256,5 +256,5 @@ The genuine wins are real and should not be dismissed. Universal transitional ki
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Gavin Newsom](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: Gavin Newsom](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->

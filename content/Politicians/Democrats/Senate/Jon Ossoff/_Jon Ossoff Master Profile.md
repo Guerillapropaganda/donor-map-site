@@ -109,7 +109,7 @@ The January 2021 Senate runoff between Ossoff and incumbent Republican David Per
 - Individual donors: 1.4+ million
 - Top donor states: California ($14.7M, largest single state), followed by New York, Texas, Massachusetts
 - Tech sector donors: Google, Amazon, Facebook, Twitter employees accounted for $1.3+ million
-- Entertainment donors: Leonardo DiCaprio, Jennifer Aniston, Tom Hanks, Pedro Pascal and others - [CNN: Democrats Ossoff and Warnock each raise more than $100 million](https://www.cnn.com/2020/12/24/politics/georgia-senate-runoffs-ossoff-warnock-fundraising) (Tier 2)
+- Entertainment donors: Leonardo DiCaprio, Jennifer Aniston, Tom Hanks, Pedro Pascal and others - [CNN: Democrats Ossoff and Warnock each raise more than $100 million](https://www.cnn.com/2020/12/24/politics/georgia-senate-runoffs-ossoff-warnock-fundraising) (Tier 2) (VERIFIED)
 
 **Result:** Ossoff won 50.6%–49.4%—a narrow margin. The $106.8 million translated to electoral victory in ways the 2017 $30 million did not.
 
@@ -266,17 +266,17 @@ Ossoff didn't invent this template, but he has executed it particularly effectiv
 
 ## Sources
 
-- [FEC Candidate: Jon Ossoff Campaign Finance Summary](https://www.fec.gov/data/candidate/H8GA06195/) (Tier 1)
-- [FEC: Jon Ossoff Candidate Profile](https://www.fec.gov/data/candidate/S8GA00180/) (Tier 1)
-- [CNN: Democrats Ossoff and Warnock each raise more than $100 million for Georgia Senate runoffs](https://www.cnn.com/2020/12/24/politics/georgia-senate-runoffs-ossoff-warnock-fundraising) (Tier 2)
-- [The Hill: Ossoff, Warnock each rake in over $100 million](https://thehill.com/homenews/campaign/531652-ossoff-warnock-each-rake-in-over-100-million-in-recent-months/) (Tier 2)
-- [NME: Jon Ossoff produced Stacey Dooley documentaries before Georgia Senate run](https://www.nme.com/news/tv/jon-ossoff-produced-stacey-dooley-documentaries-before-georgia-senate-run-2850342) (Tier 2)
-- [IMDb: Jonathan Ossoff Producer Profile](https://www.imdb.com/name/nm7344702/) (Tier 3)
-- [Georgia Recorder: Ossoff raises another $12 million as he fights for reelection](https://georgiarecorder.com/briefs/ossoff-raises-another-12-million-as-he-fights-for-reelection-in-closely-watched-2026-senate-race/) (Tier 2)
-- [Georgia Recorder: Ossoff's dominance in the U.S. Senate money race continues — $25M COH, Q4 2025 data](https://georgiarecorder.com/2026/02/03/ossoffs-dominance-in-the-u-s-senate-money-race-continues/) (Tier 2)
-- [CBS Atlanta: Jon Ossoff enters 2026 race with $25 million on hand](https://www.cbsnews.com/atlanta/news/jon-ossoff-enters-2026-race-with-25-million-on-hand-as-georgia-senate-battle-heats-up/) (Tier 2)
-- [The Hill: Ossoff starts 2026 midterm reelection effort with $25M in bank](https://thehill.com/homenews/campaign/5690552-jon-ossoff-war-chest-senate-race-2026/) (Tier 2)
-- [Newsweek: Jon Ossoff's Chances of Winning as His Fundraising Outpaces Republicans](https://www.newsweek.com/jon-ossoff-chances-winning-fundraising-outpaces-republicans-2100816) (Tier 2)
+- [FEC Candidate: Jon Ossoff Campaign Finance Summary](https://www.fec.gov/data/candidate/H8GA06195/) (Tier 1) (VERIFIED)
+- [FEC: Jon Ossoff Candidate Profile](https://www.fec.gov/data/candidate/S8GA00180/) (Tier 1) (VERIFIED)
+- [CNN: Democrats Ossoff and Warnock each raise more than $100 million for Georgia Senate runoffs](https://www.cnn.com/2020/12/24/politics/georgia-senate-runoffs-ossoff-warnock-fundraising) (Tier 2) (VERIFIED)
+- ~~[The Hill: Ossoff, Warnock each rake in over $100 million](https://thehill.com/homenews/campaign/531652-ossoff-warnock-each-rake-in-over-100-million-in-recent-months/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [NME: Jon Ossoff produced Stacey Dooley documentaries before Georgia Senate run](https://www.nme.com/news/tv/jon-ossoff-produced-stacey-dooley-documentaries-before-georgia-senate-run-2850342) (Tier 2) (VERIFIED)
+- [IMDb: Jonathan Ossoff Producer Profile](https://www.imdb.com/name/nm7344702/) (Tier 3) (VERIFIED)
+- [Georgia Recorder: Ossoff raises another $12 million as he fights for reelection](https://georgiarecorder.com/briefs/ossoff-raises-another-12-million-as-he-fights-for-reelection-in-closely-watched-2026-senate-race/) (Tier 2) (VERIFIED)
+- [Georgia Recorder: Ossoff's dominance in the U.S. Senate money race continues — $25M COH, Q4 2025 data](https://georgiarecorder.com/2026/02/03/ossoffs-dominance-in-the-u-s-senate-money-race-continues/) (Tier 2) (VERIFIED)
+- [CBS Atlanta: Jon Ossoff enters 2026 race with $25 million on hand](https://www.cbsnews.com/atlanta/news/jon-ossoff-enters-2026-race-with-25-million-on-hand-as-georgia-senate-battle-heats-up/) (Tier 2) (VERIFIED)
+- ~~[The Hill: Ossoff starts 2026 midterm reelection effort with $25M in bank](https://thehill.com/homenews/campaign/5690552-jon-ossoff-war-chest-senate-race-2026/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Newsweek: Jon Ossoff's Chances of Winning as His Fundraising Outpaces Republicans](https://www.newsweek.com/jon-ossoff-chances-winning-fundraising-outpaces-republicans-2100816) (Tier 2) (VERIFIED)
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
@@ -310,7 +310,7 @@ Ossoff didn't invent this template, but he has executed it particularly effectiv
 - S. 3459: Support Small Business Growth Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 11, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 - S. 2713: American Energy Security Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on September 4, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456857) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456857) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
 
 ### Campaign Finance (FEC)
@@ -335,7 +335,7 @@ Ossoff didn't invent this template, but he has executed it particularly effectiv
 | US CHAMBER OF COMMERCE | $0 | $500,000 |
 | PLANNED PARENTHOOD ACTION FUND INC | $495,427 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8GA06195/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8GA06195/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Voting Record
@@ -360,5 +360,5 @@ Ossoff didn't invent this template, but he has executed it particularly effectiv
 
 **Sources**
 
-- [GovTrack: Jon Ossoff](https://www.govtrack.us/congress/members/456857) (Tier 1)
+- [GovTrack: Jon Ossoff](https://www.govtrack.us/congress/members/456857) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->

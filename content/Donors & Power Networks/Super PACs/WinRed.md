@@ -39,7 +39,7 @@ WinRed. The Republican Party's official online fundraising platform, launched in
 
 WinRed's political significance extends beyond transaction processing. The platform has been criticized for using dark patterns — pre-checked recurring donation boxes, confusing opt-out language, and aggressive default settings — that resulted in millions of dollars in unwitting recurring charges to donors. The New York Times reported in 2021 that the Trump campaign refunded $122 million in donations that were charged through pre-checked recurring boxes donors did not intentionally authorize.
 
-- [FEC: WinRed filings](https://www.fec.gov/data/committee/C00694323/) (Tier 1)
+- [FEC: WinRed filings](https://www.fec.gov/data/committee/C00694323/) (Tier 1) (VERIFIED)
 
 ---
 
@@ -64,17 +64,17 @@ The Trump campaign's $122 million in refunds represents only the donors who succ
 | Total Expenses | $67K |
 | Net Assets | $41K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 451839927](https://projects.propublica.org/nonprofits/organizations/451839927) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=01_2018_prefixes_45-45%2F451839927_201612_990EZ_2018011115116268.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 451839927](https://projects.propublica.org/nonprofits/organizations/451839927) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=01_2018_prefixes_45-45%2F451839927_201612_990EZ_2018011115116268.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 <!-- auto:propublica-990 end -->
 
 ### Sources
 
-- [FEC: WinRed committee filings](https://www.fec.gov/data/committee/C00694323/) (Tier 1)
-- [New York Times: Trump's campaign refunded $122 million in recurring donations](https://www.nytimes.com/2021/04/03/us/politics/trump-donations.html) (Tier 2)
-- [Washington Post: Four states' AGs investigate pre-checked recurring donation boxes on WinRed and ActBlue](https://www.washingtonpost.com/local/md-politics/attorney-generals-donations-winred-actblue/2021/07/08/671a6af6-e045-11eb-ae31-6b7c5c34f0d6_story.html) (Tier 2)
-- [Ballotpedia: WinRed](https://ballotpedia.org/WinRed) (Tier 3)
+- [FEC: WinRed committee filings](https://www.fec.gov/data/committee/C00694323/) (Tier 1) (VERIFIED)
+- ~~[New York Times: Trump's campaign refunded $122 million in recurring donations](https://www.nytimes.com/2021/04/03/us/politics/trump-donations.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Washington Post: Four states' AGs investigate pre-checked recurring donation boxes on WinRed and ActBlue](https://www.washingtonpost.com/local/md-politics/attorney-generals-donations-winred-actblue/2021/07/08/671a6af6-e045-11eb-ae31-6b7c5c34f0d6_story.html) (Tier 2) (VERIFIED)
+- [Ballotpedia: WinRed](https://ballotpedia.org/WinRed) (Tier 3) (VERIFIED)
 
 ### Federal Register Activity
 <!-- auto:federal-register start -->
@@ -85,9 +85,9 @@ The Trump campaign's $122 million in refunds represents only the donors who succ
 | Agencies | Federal Election Commission |
 
 **Recent regulatory activity:**
-- [Rulemaking Petition: Conduit Reporting Threshold](https://www.federalregister.gov/documents/2022/10/28/2022-23362/rulemaking-petition-conduit-reporting-threshold) (2022-10-28) — Federal Election Commission
+- [Rulemaking Petition: Conduit Reporting Threshold](https://www.federalregister.gov/documents/2022/10/28/2022-23362/rulemaking-petition-conduit-reporting-threshold) (VERIFIED) (2022-10-28) — Federal Election Commission
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22WinRed%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22WinRed%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### SEC Filing Activity
@@ -102,5 +102,5 @@ The Trump campaign's $122 million in refunds represents only the donors who succ
 - 2005-07-01 — **EX-10**: GIANT INDUSTRIES, INC. FORM 8-K EXHIBIT 10.1
 - 2026-03-17 — **10-K**: 10-K
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22WinRed%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22WinRed%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->

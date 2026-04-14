@@ -72,9 +72,9 @@ Fox News mocked his tenure as lasting "three Scaramuccis." The comparison was ap
 
 ### Sources
 
-- [CNN. Before DOGE, Ramaswamy spent years attacking Musk for ties to China (December 2024)](https://www.cnn.com/2024/12/04/politics/ramaswamy-musk-china-doge-kfile/index.html) (Tier 2)
-- [Washington Post. DOGE revamp gives Musk more power as Ramaswamy departs (January 2025)](https://www.washingtonpost.com/business/2024/11/12/elon-musk-trump-doge-vivek-ramaswamy/) (Tier 2)
-- [NBC News. Vivek Ramaswamy to leave DOGE and launch a run for Ohio governor (January 2025)](https://www.nbcnews.com/politics/donald-trump/vivek-ramaswamy-doge-launch-run-ohio-governor-rcna188397) (Tier 2)
-- [Time. Here's what DOGE is doing across the federal government](https://time.com/7222251/doge-musk-federal-workers-government/) (Tier 2)
-- [PBS NewsHour. DOGE disassembled but the principles remain alive](https://www.pbs.org/newshour/show/doge-disassembled-but-the-principles-remain-alive-trump-administration-says) (Tier 2)
+- [CNN. Before DOGE, Ramaswamy spent years attacking Musk for ties to China (December 2024)](https://www.cnn.com/2024/12/04/politics/ramaswamy-musk-china-doge-kfile/index.html) (Tier 2) (VERIFIED)
+- [Washington Post. DOGE revamp gives Musk more power as Ramaswamy departs (January 2025)](https://www.washingtonpost.com/business/2024/11/12/elon-musk-trump-doge-vivek-ramaswamy/) (Tier 2) (VERIFIED)
+- [NBC News. Vivek Ramaswamy to leave DOGE and launch a run for Ohio governor (January 2025)](https://www.nbcnews.com/politics/donald-trump/vivek-ramaswamy-doge-launch-run-ohio-governor-rcna188397) (Tier 2) (VERIFIED)
+- [Time. Here's what DOGE is doing across the federal government](https://time.com/7222251/doge-musk-federal-workers-government/) (Tier 2) (VERIFIED)
+- [PBS NewsHour. DOGE disassembled but the principles remain alive](https://www.pbs.org/newshour/show/doge-disassembled-but-the-principles-remain-alive-trump-administration-says) (Tier 2) (VERIFIED)
 

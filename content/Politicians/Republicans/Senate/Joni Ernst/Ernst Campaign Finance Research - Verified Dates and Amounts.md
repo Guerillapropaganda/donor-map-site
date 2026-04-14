@@ -27,7 +27,7 @@ donors: [[Koch Network - Charles Koch]], [[Agribusiness Donor Bloc]], [[Ethanol 
 - **Event:** Koch brothers retreat, St. Regis Monarch Beach Resort, Dana Point, California
 - **Direct Quote:** Ernst stated she was "a little-known state senator from a very rural part of Iowa" but "the exposure to this group and to this network and the opportunity to meet so many of you, that really started my trajectory." She also said: "We are going to paint some very clear differences in this general election," and "this is the thing that we are going to take back -- that it started right here with all of your folks, this wonderful network."
 - **Source Context:** Recorded audio, later leaked to and published by The Huffington Post and The Nation
-- **Sources:** [The HuffPost: At Koch Retreat, Top GOP Senate Candidates Credited Koch Network For Their Rise](https://www.huffpost.com/entry/koch-brothers-ernst-cotton-gardner_n_5718773) (Tier 2); [Think Progress: Iowa Senate Nominee Says The Koch Network 'Started My Trajectory'](https://thinkprogress.org/iowa-senate-nominee-says-the-koch-network-started-my-trajectory-56712b88d7e/) (Tier 2); [TIME: Secret Koch Event Audio Could Be Gift for Senate Democrats](https://time.com/3194133/koch-brothers-mcconnell-ernst-cotton-gardner/) (Tier 2)
+- **Sources:** [The HuffPost: At Koch Retreat, Top GOP Senate Candidates Credited Koch Network For Their Rise](https://www.huffpost.com/entry/koch-brothers-ernst-cotton-gardner_n_5718773) (Tier 2) (VERIFIED); [Think Progress: Iowa Senate Nominee Says The Koch Network 'Started My Trajectory'](https://thinkprogress.org/iowa-senate-nominee-says-the-koch-network-started-my-trajectory-56712b88d7e/) (Tier 2) (VERIFIED); [TIME: Secret Koch Event Audio Could Be Gift for Senate Democrats](https://time.com/3194133/koch-brothers-mcconnell-ernst-cotton-gardner/) (Tier 2) (VERIFIED)
 
 ### Direct Koch Family Contributions
 
@@ -36,7 +36,7 @@ donors: [[Koch Network - Charles Koch]], [[Agribusiness Donor Bloc]], [[Ethanol 
 - **Recipients:** Ernst campaign (2014)
 - **Amount:** $2,600 each × 4 family members = $10,400 total
 - **Specifics:** Charles Koch, his wife, his son, and his daughter-in-law each maxed out contributions
-- **Sources:** [The Hill: Kochs max out for Iowa Republican](https://www.thehill.com/blogs/ballot-box/senate-races/212609-kochs-max-out-for-ernst-in-iowa/) (Tier 2)
+- **Sources:** ~~[The Hill: Kochs max out for Iowa Republican](https://www.thehill.com/blogs/ballot-box/senate-races/212609-kochs-max-out-for-ernst-in-iowa/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ### Koch Industries Direct Corporate Contribution
 - **Donor:** Koch Industries (corporate)
@@ -56,7 +56,7 @@ donors: [[Koch Network - Charles Koch]], [[Agribusiness Donor Bloc]], [[Ethanol 
 - **Amount:** $250,000+ (documented specific spending)
 - **Cycle:** 2014
 - **Note:** [[Americans for Prosperity|Americans for Prosperity]] was planning to spend $100 million nationally in the 2014 cycle. Iowa was a priority.
-- **Sources:** Web search compilation; [FactCheck.org: Americans for Prosperity](https://www.factcheck.org/2020/07/americans-for-prosperity-5/) (Tier 2)
+- **Sources:** Web search compilation; [FactCheck.org: Americans for Prosperity](https://www.factcheck.org/2020/07/americans-for-prosperity-5/) (Tier 2) (VERIFIED)
 
 ### Trees of Liberty (Koch-Backed Dark Money Group)
 - **Operator:** Karl Crow, Koch employee who created Trees of Liberty via Aegis Strategic in 2014
@@ -65,7 +65,7 @@ donors: [[Koch Network - Charles Koch]], [[Agribusiness Donor Bloc]], [[Ethanol 
 - **Total Group Spending (2014):** $412,006 (94% of total $438,084 budget went to advertising campaigns)
 - **Targets:** Primary campaign TV ads attacking Ernst's GOP rival Mark Jacobs (energy executive opposed to carbon limits)
 - **Legal Status:** Alleged to have broken law in aiding Ernst's primary win per complaint filed by Center for Media and Democracy (CMD) and Citizens for Responsibility and Ethics in Washington (CREW)
-- **Sources:** [PR Watch: CMD and CREW Allege Koch-Backed Group Broke the Law](https://www.prwatch.org/news/2016/01/13025/cmd-and-crew-broke-law) (Tier 2); [DeSmog: Trees of Liberty](https://www.desmog.com/trees-liberty/) (Tier 3); [Conservative Transparency: Trees of Liberty](http://conservativetransparency.org/org/trees-of-liberty/) (Tier 3); [Citizens for Ethics: Complaint Ernst-backing Koch group broke the law](https://www.citizensforethics.org/legal-action/legal-complaints/complaint-ernst-backing-koch-group-broke-law/) (Tier 2)
+- **Sources:** ~~[PR Watch: CMD and CREW Allege Koch-Backed Group Broke the Law](https://www.prwatch.org/news/2016/01/13025/cmd-and-crew-broke-law)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2); [DeSmog: Trees of Liberty](https://www.desmog.com/trees-liberty/) (Tier 3) (VERIFIED); ~~[Conservative Transparency: Trees of Liberty](http://conservativetransparency.org/org/trees-of-liberty/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3); [Citizens for Ethics: Complaint Ernst-backing Koch group broke the law](https://www.citizensforethics.org/legal-action/legal-complaints/complaint-ernst-backing-koch-group-broke-law/) (Tier 2) (VERIFIED)
 
 ### 60 Plus Association
 - **Amount:** $1-1.5 million
@@ -99,7 +99,7 @@ donors: [[Koch Network - Charles Koch]], [[Agribusiness Donor Bloc]], [[Ethanol 
 - **Note:** This was substantially less than the Koch Network outside spending supporting her
 - **Comparison:** Koch outside spending ($12M+) roughly equaled Ernst's own campaign fundraising
 - **FEC Fine:** Ernst's 2014 campaign committee ("Joni for Iowa") was fined $14,500 by the FEC for campaign finance violations
-- **Sources:** [Federal Election Commission: Ernst candidate overview](https://www.fec.gov/data/candidate/S4IA00129/) (Tier 1); [Iowa Starting Line: FEC Fine Against Ernst's 2014 Campaign Largest For Iowa Politician](https://iowastartingline.com/2019/12/10/fec-fine-against-ernsts-2014-campaign-largest-for-iowa-politician/) (Tier 2)
+- **Sources:** [Federal Election Commission: Ernst candidate overview](https://www.fec.gov/data/candidate/S4IA00129/) (Tier 1) (VERIFIED); [Iowa Starting Line: FEC Fine Against Ernst's 2014 Campaign Largest For Iowa Politician](https://iowastartingline.com/2019/12/10/fec-fine-against-ernsts-2014-campaign-largest-for-iowa-politician/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -111,7 +111,7 @@ donors: [[Koch Network - Charles Koch]], [[Agribusiness Donor Bloc]], [[Ethanol 
 - **Date:** 2017
 - **Action:** Ernst joined bipartisan letter with 38 other senators to EPA Administrator Scott Pruitt calling for strong Renewable Fuel Standard as EPA finalized 2018 biofuels volume requirements
 - **Co-signer:** Chuck Grassley (Iowa colleague)
-- **Sources:** [Senator Ernst press release: Grassley, Ernst, Bipartisan Group of 38 Senators, Urge Pruitt on RFS](https://www.ernst.senate.gov/news/press-releases/grassley-ernst-bipartisan-group-of-38-senators-urge-pruitt-on-rfs) (Tier 1)
+- **Sources:** [Senator Ernst press release: Grassley, Ernst, Bipartisan Group of 38 Senators, Urge Pruitt on RFS](https://www.ernst.senate.gov/news/press-releases/grassley-ernst-bipartisan-group-of-38-senators-urge-pruitt-on-rfs) (Tier 1) (VERIFIED)
 
 ### February 2019 EPA Nominee Confirmation Vote
 - **Date:** February 2019
@@ -124,7 +124,7 @@ donors: [[Koch Network - Charles Koch]], [[Agribusiness Donor Bloc]], [[Ethanol 
 - **Quote:** Ernst told CBS News that Pruitt "did lie" on ethanol pledge. She said: "He put his name to this letter and then did exactly the opposite."
 - **Specific Claim:** Pruitt "moved entirely away" from a commitment to not attach renewable identification numbers to ethanol exports
 - **Assessment:** Ernst said Pruitt's RFS handling was "undercutting" President Trump
-- **Sources:** [CBS News: GOP Sen. Ernst says Pruitt "did lie" on ethanol pledge, is "undercutting" Trump](https://www.cbsnews.com/news/ernst-says-pruitt-did-lie-on-ethanol-pledge-is-undercutting-trump/) (Tier 2); [Senator Ernst press release: Senator Ernst Receives Key Commitments for Iowa from EPA Administrator Pruitt](https://www.ernst.senate.gov/news/press-releases/senator-ernst-receives-key-commitments-for-iowa-from-epa-administrator-pruitt-to-support-the-spirit-and-the-letter-of-the-rfs) (Tier 1)
+- **Sources:** [CBS News: GOP Sen. Ernst says Pruitt "did lie" on ethanol pledge, is "undercutting" Trump](https://www.cbsnews.com/news/ernst-says-pruitt-did-lie-on-ethanol-pledge-is-undercutting-trump/) (Tier 2) (VERIFIED); [Senator Ernst press release: Senator Ernst Receives Key Commitments for Iowa from EPA Administrator Pruitt](https://www.ernst.senate.gov/news/press-releases/senator-ernst-receives-key-commitments-for-iowa-from-epa-administrator-pruitt-to-support-the-spirit-and-the-letter-of-the-rfs) (Tier 1) (VERIFIED)
 
 ### 2019 RFS Waiver Criticism
 - **Date:** June 2019
@@ -143,7 +143,7 @@ donors: [[Koch Network - Charles Koch]], [[Agribusiness Donor Bloc]], [[Ethanol 
 - **Ernst's Vote:** YES (supported bill)
 - **Ernst's Stated Position:** "Proud to support the 2018 Farm Bill" for strengthening conservation programs and mental health support through her FARMERS FIRST Act
 - **Grassley Contrast:** Ernst's Iowa Senate colleague Chuck Grassley diverged and did NOT vote for the 2018 farm bill
-- **Sources:** [U.S. Senate Committee on Agriculture: 2018 Farm Bill](https://www.agriculture.senate.gov/issues/farm-bill-2018) (Tier 1); [Senator Ernst press release: 2018 Farm Bill Signed Into Law](https://www.ernst.senate.gov/news/press-releases/2018-farm-bill-signed-into-law) (Tier 1); [Bleeding Heartland: Grassley, Ernst part ways on five-year Farm Bill](https://www.bleedingheartland.com/2018/12/11/grassley-ernst-part-ways-on-five-year-farm-bill/) (Tier 2)
+- **Sources:** [U.S. Senate Committee on Agriculture: 2018 Farm Bill](https://www.agriculture.senate.gov/issues/farm-bill-2018) (Tier 1) (VERIFIED); [Senator Ernst press release: 2018 Farm Bill Signed Into Law](https://www.ernst.senate.gov/news/press-releases/2018-farm-bill-signed-into-law) (Tier 1) (VERIFIED); [Bleeding Heartland: Grassley, Ernst part ways on five-year Farm Bill](https://www.bleedingheartland.com/2018/12/11/grassley-ernst-part-ways-on-five-year-farm-bill/) (Tier 2) (VERIFIED)
 
 ### 2024 Farm Bill
 - **Status:** Not completed in available sources. Congress typically updates farm bill every five years (2018 → 2023/2024 due).
@@ -161,7 +161,7 @@ donors: [[Koch Network - Charles Koch]], [[Agribusiness Donor Bloc]], [[Ethanol 
 - **Prop 12 Context:** California's Proposition 12 (2018) established minimum space requirements for livestock (pork, veal, eggs)
 - **Opposition Coalition:** Farm Action Fund argues EATS Act favors large corporate pork producers like JBS over smaller independent farmers
 - **Ernst Messaging:** 2025 press release "Banning Iowa Bacon? Ernst Says 'No Way'" and "Ernst Stands with Producers Against California's War on Iowa Ag"
-- **Sources:** [Senator Ernst press release: Ernst Stands with Producers Against California's War on Iowa Ag](https://www.ernst.senate.gov/news/press-releases/ernst-stands-with-producers-against-californias-war-on-iowa-ag-renews-eats-act) (Tier 1)
+- **Sources:** [Senator Ernst press release: Ernst Stands with Producers Against California's War on Iowa Ag](https://www.ernst.senate.gov/news/press-releases/ernst-stands-with-producers-against-californias-war-on-iowa-ag-renews-eats-act) (Tier 1) (VERIFIED)
 
 ### Historical CAFO Record:
 - Consistent voting record opposing CAFO regulation throughout Senate tenure (2015-2026)
@@ -178,7 +178,7 @@ donors: [[Koch Network - Charles Koch]], [[Agribusiness Donor Bloc]], [[Ethanol 
 **Total Agriculture PAC Donations:** $130,000 (2020 cycle)
 - **Ranking:** Agriculture was one of the two top PAC donor industries to Ernst
 - **Comparison:** Insurance PACs gave $145,000 (slightly higher)
-- **Sources:** [Senate Ernst OpenSecrets contributor profile, 2020 cycle data](https://www.fec.gov/data/candidate/S4IA00129/) (Tier 1)
+- **Sources:** [Senate Ernst OpenSecrets contributor profile, 2020 cycle data](https://www.fec.gov/data/candidate/S4IA00129/) (Tier 1) (VERIFIED)
 
 ### Overall PAC Funding Profile (Career)
 
@@ -208,7 +208,7 @@ donors: [[Koch Network - Charles Koch]], [[Agribusiness Donor Bloc]], [[Ethanol 
 - **Greenfield Vote Share:** Approximately 45%
 - **Margin:** 6.6 percentage points
 - **Context:** Despite Greenfield's significant fundraising advantage, Ernst won re-election. The Iowa Senate race was the second most expensive in U.S. history at the time.
-- **Sources:** [OpenSecrets: Greenfield outraises Ernst 4-1 in key Senate race](https://www.opensecrets.org/news/2020/10/ernst-outraised-by-greenfield-1020/) (Tier 1); [Sioux City Journal: [[_Joni Ernst Master Profile|Joni Ernst]] reports $2.8M cash for 2020 Senate reelection](https://siouxcityjournal.com/news/state-and-regional/joni-ernst-reports-m-cash-for-senate-reelection/article_c3530399-905e-5cd5-831e-41132f9cedd1.html) (Tier 2); [Wikipedia: 2020 United States Senate election in Iowa](https://en.wikipedia.org/wiki/2020_United_States_Senate_election_in_Iowa) (Tier 3)
+- **Sources:** [OpenSecrets: Greenfield outraises Ernst 4-1 in key Senate race](https://www.opensecrets.org/news/2020/10/ernst-outraised-by-greenfield-1020/) (Tier 1) (VERIFIED); [Sioux City Journal: [[_Joni Ernst Master Profile|Joni Ernst]] reports $2.8M cash for 2020 Senate reelection](https://siouxcityjournal.com/news/state-and-regional/joni-ernst-reports-m-cash-for-senate-reelection/article_c3530399-905e-5cd5-831e-41132f9cedd1.html) (Tier 2); [Wikipedia: 2020 United States Senate election in Iowa](https://en.wikipedia.org/wiki/2020_United_States_Senate_election_in_Iowa) (Tier 3) (VERIFIED)
 
 ---
 
@@ -228,7 +228,7 @@ General Pattern for Large Defense Contractors (2021-2022):
 ### Ernst's Specific Donations from Defense Contractors
 - No specific individual donation amounts from Raytheon, [[Lockheed Martin|Lockheed Martin]], or [[Boeing|Boeing]] located in search results
 - Direct FEC database query needed for itemized contributions
-- Sources: [Defense News: Largest defense firms donate millions to election-denying lawmakers](https://www.defensenews.com/congress/2022/11/02/largest-defense-firms-donate-millions-to-election-denying-lawmakers/) (Tier 2); [Defense News: Defense firms quietly resume political giving after post-insurrection pause](https://www.defensenews.com/congress/2021/06/04/defense-firms-quietly-resume-political-giving-after-post-insurrection-pause/) (Tier 2)
+- Sources: [Defense News: Largest defense firms donate millions to election-denying lawmakers](https://www.defensenews.com/congress/2022/11/02/largest-defense-firms-donate-millions-to-election-denying-lawmakers/) (Tier 2) (VERIFIED); [Defense News: Defense firms quietly resume political giving after post-insurrection pause](https://www.defensenews.com/congress/2021/06/04/defense-firms-quietly-resume-political-giving-after-post-insurrection-pause/) (Tier 2) (VERIFIED)
 
 ---
 

@@ -32,7 +32,7 @@ The Intercept departure was contentious. During early 2024, as The Intercept fac
 
 No FEC individual contributions found. The FEC API returns 0 results for "SCAHILL, JEREMY" — confirmed no contributions. Scahill's political influence operates through investigative journalism and media authority rather than campaign finance.
 
-- [FEC: Jeremy Scahill individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=SCAHILL%2C+JEREMY) (Tier 1)
+- [FEC: Jeremy Scahill individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=SCAHILL%2C+JEREMY) (Tier 1) (VERIFIED)
 
 ### Who Funds Them
 
@@ -91,10 +91,10 @@ The structural question is whether Scahill genuinely escaped capture by leaving 
 
 ### Sources
 
-- [Jeremy Scahill — Wikipedia](https://en.wikipedia.org/wiki/Jeremy_Scahill) (Tier 2)
-- [*Blackwater* — Amazon / Publishing Records](https://www.amazon.com/Blackwater-Rise-World-Most-Powerful/dp/0374530033) (Tier 2)
-- [Dirty Wars (film) — SXSW / IMDb](https://www.imdb.com/title/tt2490374/) (Tier 2)
-- [Semafor: Money woes and staff issues strain The Intercept](https://www.semafor.com/article/06/02/2024/money-woes-staff-issues-strain-the-intercept) (Tier 2)
-- [Washington Free Beacon: Soros bankrolling anti-Israel Drop Site News](https://freebeacon.com/media/exclusive-soros-bankrolling-anti-israel-drop-site-news/) (Tier 4)
-- [Drop Site News — Jeremy Scahill](https://www.dropsitenews.com/author/jeremy-scahill/) (Tier 2)
+- [Jeremy Scahill — Wikipedia](https://en.wikipedia.org/wiki/Jeremy_Scahill) (Tier 2) (VERIFIED)
+- [*Blackwater* — Amazon / Publishing Records](https://www.amazon.com/Blackwater-Rise-World-Most-Powerful/dp/0374530033) (Tier 2) (VERIFIED)
+- [Dirty Wars (film) — SXSW / IMDb](https://www.imdb.com/title/tt2490374/) (Tier 2) (VERIFIED)
+- [Semafor: Money woes and staff issues strain The Intercept](https://www.semafor.com/article/06/02/2024/money-woes-staff-issues-strain-the-intercept) (Tier 2) (VERIFIED)
+- [Washington Free Beacon: Soros bankrolling anti-Israel Drop Site News](https://freebeacon.com/media/exclusive-soros-bankrolling-anti-israel-drop-site-news/) (Tier 4) (VERIFIED)
+- ~~[Drop Site News — Jeremy Scahill](https://www.dropsitenews.com/author/jeremy-scahill/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 

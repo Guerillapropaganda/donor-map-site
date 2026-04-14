@@ -182,25 +182,25 @@ The KKR pop-up PAC is the most precisely documented pay-to-play sequence in the 
 
 ## Sources
 
-- [FEC Candidate: Gregory Meeks campaign finance summary](https://www.fec.gov/data/candidate/H8NY06048/) (Tier 1)
-- [FEC: Gregory Meeks candidate filings](https://www.fec.gov/data/candidate/H8NY06048/) (Tier 1)
-- [OpenSecrets: Meeks Victory Fund 2024 joint fundraising committee](https://www.opensecrets.org/joint-fundraising-committees-jfcs/meeks-victory-fund-2024/C00833319/2024/summary) (Tier 1)
-- [House Ethics Committee: Statement regarding Rep. Gregory Meeks](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-regarding-representative-gregory-meeks/) (Tier 1)
-- [Office of Congressional Ethics: Referral regarding Rep. Gregory Meeks](https://conduct.house.gov/reports/investigations/oce-referral-regarding-rep-gregory-meeks) (Tier 1)
-- [Congress.gov: Gregory Meeks voting record](https://www.congress.gov/member/gregory-meeks/M001137) (Tier 1)
-- [Track AIPAC: Gregory Meeks donor profile](https://www.trackaipac.com/congress) (Tier 2)
-- [Sludge: Dems cash in from private equity firms they defended at House hearing](https://readsludge.com/2020/01/27/dems-cash-in-from-private-equity-firms-they-defended-at-house-hearing/) (Tier 2)
-- [Sludge: Beatty and Gottheimer funnel private equity donations through pop-up PAC](https://readsludge.com/2022/02/03/beatty-and-gottheimer-funnel-private-equity-donations-through-pop-up-pac/) (Tier 2)
-- [Axios: Israeli assurances on F-15 sale and Meeks' response](https://www.axios.com/2024/04/12/gregory-meeks-democrat-israel-f-15) (Tier 2)
-- [House Foreign Affairs Committee Democrats: Meeks statement on Israel-only supplemental](https://democrats-foreignaffairs.house.gov/2024/2/meeks-issues-statement-announcing-no-vote-on-israel-only-supplemental) (Tier 1)
-- [CREW: Most Corrupt Members of Congress 2013 — Gregory Meeks](https://s3.amazonaws.com/storage.citizensforethics.org/wp-content/uploads/2016/07/20022654/Gregory_Meeks_CREW_Most_Corrupt_Members_Of_Congress_2013.pdf) (Tier 2)
-- [The Hill: Ethics office referral on Azerbaijan travel](https://thehill.com/business-a-lobbying/business-a-lobbying/241946-ethics-office-lawmakers-took-trip-secretly-paid-for/) (Tier 2)
-- [Washington Times: Lawmaker with corrupt ties to Chávez represents U.S. at funeral](https://www.washingtontimes.com/news/2013/mar/8/lawmaker-corrupt-ties-chavez-represents-us-funeral/) (Tier 3)
-- [Jewish Insider: AIPAC virtual gathering opens with Meeks](https://jewishinsider.com/2021/03/aipac-virtual-lobbying-conference/) (Tier 2)
-- [Times of Israel: Pro-Israel Democrat elected chair of key House Foreign Affairs panel](https://www.timesofisrael.com/pro-israel-democrat-gregory-meeks-voted-chair-of-key-house-foreign-affairs-panel/) (Tier 2)
-- [AJP Action: Gregory Meeks foreign policy scorecard](https://ajpaction.org/democratic-scorecard/gregory-meeks/) (Tier 2)
-- [Ballotpedia: Gregory Meeks](https://ballotpedia.org/Gregory_Meeks) (Tier 3)
-- [GovTrack: Gregory Meeks profile](https://www.govtrack.us/congress/members/gregory_meeks/400271) (Tier 3)
+- [FEC Candidate: Gregory Meeks campaign finance summary](https://www.fec.gov/data/candidate/H8NY06048/) (Tier 1) (VERIFIED)
+- [FEC: Gregory Meeks candidate filings](https://www.fec.gov/data/candidate/H8NY06048/) (Tier 1) (VERIFIED)
+- [OpenSecrets: Meeks Victory Fund 2024 joint fundraising committee](https://www.opensecrets.org/joint-fundraising-committees-jfcs/meeks-victory-fund-2024/C00833319/2024/summary) (Tier 1) (VERIFIED)
+- [House Ethics Committee: Statement regarding Rep. Gregory Meeks](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-regarding-representative-gregory-meeks/) (Tier 1) (VERIFIED)
+- [Office of Congressional Ethics: Referral regarding Rep. Gregory Meeks](https://conduct.house.gov/reports/investigations/oce-referral-regarding-rep-gregory-meeks) (Tier 1) (VERIFIED)
+- [Congress.gov: Gregory Meeks voting record](https://www.congress.gov/member/gregory-meeks/M001137) (Tier 1) (VERIFIED)
+- [Track AIPAC: Gregory Meeks donor profile](https://www.trackaipac.com/congress) (Tier 2) (VERIFIED)
+- [Sludge: Dems cash in from private equity firms they defended at House hearing](https://readsludge.com/2020/01/27/dems-cash-in-from-private-equity-firms-they-defended-at-house-hearing/) (Tier 2) (VERIFIED)
+- [Sludge: Beatty and Gottheimer funnel private equity donations through pop-up PAC](https://readsludge.com/2022/02/03/beatty-and-gottheimer-funnel-private-equity-donations-through-pop-up-pac/) (Tier 2) (VERIFIED)
+- ~~[Axios: Israeli assurances on F-15 sale and Meeks' response](https://www.axios.com/2024/04/12/gregory-meeks-democrat-israel-f-15)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [House Foreign Affairs Committee Democrats: Meeks statement on Israel-only supplemental](https://democrats-foreignaffairs.house.gov/2024/2/meeks-issues-statement-announcing-no-vote-on-israel-only-supplemental) (Tier 1) (VERIFIED)
+- [CREW: Most Corrupt Members of Congress 2013 — Gregory Meeks](https://s3.amazonaws.com/storage.citizensforethics.org/wp-content/uploads/2016/07/20022654/Gregory_Meeks_CREW_Most_Corrupt_Members_Of_Congress_2013.pdf) (Tier 2) (VERIFIED)
+- ~~[The Hill: Ethics office referral on Azerbaijan travel](https://thehill.com/business-a-lobbying/business-a-lobbying/241946-ethics-office-lawmakers-took-trip-secretly-paid-for/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Washington Times: Lawmaker with corrupt ties to Chávez represents U.S. at funeral](https://www.washingtontimes.com/news/2013/mar/8/lawmaker-corrupt-ties-chavez-represents-us-funeral/) (Tier 3) (VERIFIED)
+- [Jewish Insider: AIPAC virtual gathering opens with Meeks](https://jewishinsider.com/2021/03/aipac-virtual-lobbying-conference/) (Tier 2) (VERIFIED)
+- [Times of Israel: Pro-Israel Democrat elected chair of key House Foreign Affairs panel](https://www.timesofisrael.com/pro-israel-democrat-gregory-meeks-voted-chair-of-key-house-foreign-affairs-panel/) (Tier 2) (VERIFIED)
+- [AJP Action: Gregory Meeks foreign policy scorecard](https://ajpaction.org/democratic-scorecard/gregory-meeks/) (Tier 2) (VERIFIED)
+- [Ballotpedia: Gregory Meeks](https://ballotpedia.org/Gregory_Meeks) (Tier 3) (VERIFIED)
+- [GovTrack: Gregory Meeks profile](https://www.govtrack.us/congress/members/gregory_meeks/400271) (Tier 3) (NEEDS REVIEW)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -233,7 +233,7 @@ The KKR pop-up PAC is the most precisely documented pay-to-play sequence in the 
 | SIERRA CLUB POLITICAL COMMITTEE | $180 | $0 |
 | PLANNED PARENTHOOD VOTES | $124 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8NY06048/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8NY06048/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (GovTrack)
@@ -265,5 +265,5 @@ The KKR pop-up PAC is the most precisely documented pay-to-play sequence in the 
 | 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Nay | Passed |
 | 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Nay | Passed |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400271) (Tier 1)
+- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/400271)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:govtrack end -->

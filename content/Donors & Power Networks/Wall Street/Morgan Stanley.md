@@ -63,7 +63,7 @@ Morgan Stanley. The sixth-largest U.S. bank by assets ($1.2 trillion) and a domi
 
 Morgan Stanley PAC distributes $1.5-2.5 million per cycle to federal candidates, and the bank spends $5-7 million annually on lobbying. CEO James Gorman (2010-2024) and successor Ted Pick maintain the bank's political relationships through executive contributions and bundling networks concentrated in New York financial circles.
 
-- [OpenSecrets: Morgan Stanley organizational profile](https://www.opensecrets.org/orgs/morgan-stanley/summary?id=D000000106) (Tier 1)
+- [OpenSecrets: Morgan Stanley organizational profile](https://www.opensecrets.org/orgs/morgan-stanley/summary?id=D000000106) (Tier 1) (VERIFIED)
 
 ---
 
@@ -104,10 +104,10 @@ Morgan Stanley is the donor class's bank. Its wealth management division serves 
 ### Sources
 
 - [OpenSecrets: Morgan Stanley organizational profile](https://www.opensecrets.org/orgs/morgan-stanley/summary?id=D000000106) (Tier 1)
-- [OpenSecrets: Morgan Stanley lobbying expenditures](https://www.opensecrets.org/orgs/morgan-stanley/lobbying?id=D000000106) (Tier 1)
-- [FEC: Morgan Stanley PAC filings](https://www.fec.gov/data/committee/C00102657/) (Tier 1)
-- [Wall Street Journal: Morgan Stanley wealth management growth strategy](https://www.wsj.com/articles/morgan-stanley-wealth-management) (Tier 2)
-- [Ballotpedia: Morgan Stanley political spending](https://ballotpedia.org/Morgan_Stanley) (Tier 3)
+- [OpenSecrets: Morgan Stanley lobbying expenditures](https://www.opensecrets.org/orgs/morgan-stanley/lobbying?id=D000000106) (Tier 1) (VERIFIED)
+- [FEC: Morgan Stanley PAC filings](https://www.fec.gov/data/committee/C00102657/) (Tier 1) (VERIFIED)
+- ~~[Wall Street Journal: Morgan Stanley wealth management growth strategy](https://www.wsj.com/articles/morgan-stanley-wealth-management)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Ballotpedia: Morgan Stanley political spending](https://ballotpedia.org/Morgan_Stanley) (Tier 3) (VERIFIED)
 
 ### Federal Contracts
 <!-- auto:sam-contracts start -->
@@ -130,7 +130,7 @@ Morgan Stanley is the donor class's bank. Its wealth management division serves 
 | $12.1M | ENERGY, DEPARTMENT OF | 2007-10-16 |
 | $12.1M | ENERGY, DEPARTMENT OF | 2008-09-16 |
 
-- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Morgan%20Stanley&page=1&index=opp) (Tier 1)
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Morgan%20Stanley&page=1&index=opp) (Tier 1) (VERIFIED)
 <!-- auto:sam-contracts end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -142,7 +142,7 @@ Morgan Stanley is the donor class's bank. Its wealth management division serves 
 | Total Expenses | $147K |
 | Net Assets | $18.6M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 136155650](https://projects.propublica.org/nonprofits/organizations/136155650) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 136155650](https://projects.propublica.org/nonprofits/organizations/136155650) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Influence Network (Cross-Reference)
@@ -174,14 +174,14 @@ Morgan Stanley is the donor class's bank. Its wealth management division serves 
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/136155650/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/136155650/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/136155650/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/136155650/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/136155650/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/136155650/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/136155650/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/136155650/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/136155650/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/136155650/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/136155650) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/136155650) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Federal Court Records (CourtListener)
@@ -200,7 +200,7 @@ Morgan Stanley is the donor class's bank. Its wealth management division serves 
 - Norfolk County Retirement System v. PayPal Holdings, Inc. (2026) — District Court, N.D. California
 - Taboh v. Bondi (2026) — District Court, W.D. Texas
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Morgan%20Stanley%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Morgan%20Stanley%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Register Activity
@@ -214,22 +214,22 @@ Morgan Stanley is the donor class's bank. Its wealth management division serves 
 | Agencies | Antitrust Division, Comptroller of the Currency, Employee Benefits Security Administration, Energy Department, Federal Deposit Insurance Corporation, Federal Energy Regulatory Commission, Federal Reserve System, Federal Trade Commission +5 more |
 
 **Recent regulatory activity:**
-- [Deregistration Under Section 8(f) of the Investment Company Act of 1940](https://www.federalregister.gov/documents/2026/04/01/2026-06234/deregistration-under-section-8f-of-the-investment-company-act-of-1940) (2026-04-01) — Securities and Exchange Commission
-- [Fiduciary Duties in Selecting Designated Investment Alternatives](https://www.federalregister.gov/documents/2026/03/31/2026-06178/fiduciary-duties-in-selecting-designated-investment-alternatives) (2026-03-31) — Labor Department
-- [Regulatory Capital Rule: Category I and II Banking Organizations, Banking Organizations With Significant Trading Activity, and Optional Adoption for Other Banking Organizations](https://www.federalregister.gov/documents/2026/03/27/2026-05959/regulatory-capital-rule-category-i-and-ii-banking-organizations-banking-organizations-with) (2026-03-27) — Treasury Department ★
-- [Combined Notice of Filings #1](https://www.federalregister.gov/documents/2026/02/20/2026-03318/combined-notice-of-filings-1) (2026-02-20) — Energy Department
-- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2026/02/19/2026-03244/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2026-02-19) — Federal Trade Commission
-- [United States et al. v. RealPage, Inc.et al.; Response of the United States to Public Comments](https://www.federalregister.gov/documents/2026/02/09/2026-02483/united-states-et-al-v-realpage-incet-al-response-of-the-united-states-to-public-comments) (2026-02-09) — Justice Department
+- [Deregistration Under Section 8(f) of the Investment Company Act of 1940](https://www.federalregister.gov/documents/2026/04/01/2026-06234/deregistration-under-section-8f-of-the-investment-company-act-of-1940) (VERIFIED) (2026-04-01) — Securities and Exchange Commission
+- [Fiduciary Duties in Selecting Designated Investment Alternatives](https://www.federalregister.gov/documents/2026/03/31/2026-06178/fiduciary-duties-in-selecting-designated-investment-alternatives) (VERIFIED) (2026-03-31) — Labor Department
+- [Regulatory Capital Rule: Category I and II Banking Organizations, Banking Organizations With Significant Trading Activity, and Optional Adoption for Other Banking Organizations](https://www.federalregister.gov/documents/2026/03/27/2026-05959/regulatory-capital-rule-category-i-and-ii-banking-organizations-banking-organizations-with) (VERIFIED) (2026-03-27) — Treasury Department ★
+- [Combined Notice of Filings #1](https://www.federalregister.gov/documents/2026/02/20/2026-03318/combined-notice-of-filings-1) (VERIFIED) (2026-02-20) — Energy Department
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2026/02/19/2026-03244/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (VERIFIED) (2026-02-19) — Federal Trade Commission
+- ~~[United States et al. v. RealPage, Inc.et al.; Response of the United States to Public Comments](https://www.federalregister.gov/documents/2026/02/09/2026-02483/united-states-et-al-v-realpage-incet-al-response-of-the-united-states-to-public-comments)~~ (URL broken, archived by Ops) (2026-02-09) — Justice Department
 - ... and 1,488 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Morgan%20Stanley%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Morgan%20Stanley%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [IGJSJL3JD5P30I6NJZ34](https://search.gleif.org/#/record/IGJSJL3JD5P30I6NJZ34) |
+| LEI | [IGJSJL3JD5P30I6NJZ34](https://search.gleif.org/#/record/IGJSJL3JD5P30I6NJZ34) (VERIFIED) |
 | Legal Name | MORGAN STANLEY |
 | Jurisdiction | US-DE |
 | Entity Status | ACTIVE |
@@ -237,7 +237,7 @@ Morgan Stanley is the donor class's bank. Its wealth management division serves 
 | Registration | ISSUED |
 | Last Updated | 2025-10-15T13:29:44Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### OCC Enforcement Actions
@@ -260,10 +260,10 @@ Morgan Stanley is the donor class's bank. Its wealth management division serves 
 
 **Recent enforcement history:**
 
-- [AA-EC-20-66: Civil Money Penalty (CMP)](https://www.occ.gov/static/enforcement-actions/ea2020-058.pdf) (10/08/2020) — $60,000,000
-- [AA-EC-2019-50: Civil Money Penalty (CMP)](https://www.occ.gov/static/enforcement-actions/ea2019-061.pdf) (09/30/2019) — $7,500
+- [AA-EC-20-66: Civil Money Penalty (CMP)](https://www.occ.gov/static/enforcement-actions/ea2020-058.pdf) (VERIFIED) (10/08/2020) — $60,000,000
+- [AA-EC-2019-50: Civil Money Penalty (CMP)](https://www.occ.gov/static/enforcement-actions/ea2019-061.pdf) (VERIFIED) (09/30/2019) — $7,500
 
-- [Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=Morgan%20Stanley&srt=1&pg=1&pgsz=25&isAdv=false) (Tier 1)
+- ~~[Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=Morgan%20Stanley&srt=1&pg=1&pgsz=25&isAdv=false)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:occ-enforcement end -->
 
 ### FTC Enforcement & Merger Review
@@ -275,13 +275,13 @@ Morgan Stanley is the donor class's bank. Its wealth management division serves 
 
 **Recent HSR merger filings (early terminations granted):**
 
-- [Mr. Edward Pick → Morgan Stanley](https://www.ftc.gov/legal-library/browse/early-termination-notices/20260536) (2026-01-09)
-- [Morgan Stanley → Eaton Vance Corp.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20210192) (2020-11-10)
-- [Morgan Stanley → Solium Capital, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20190875) (2019-03-06)
-- [Energy Trading Innovations LLC → Morgan Stanley](https://www.ftc.gov/legal-library/browse/early-termination-notices/20151128) (2015-06-23)
-- [Morgan Stanley Infrastructure Partners II, LP → Eureka Hunter Holdings, LLC](https://www.ftc.gov/legal-library/browse/early-termination-notices/20150621) (2015-02-27)
+- [Mr. Edward Pick → Morgan Stanley](https://www.ftc.gov/legal-library/browse/early-termination-notices/20260536) (VERIFIED) (2026-01-09)
+- [Morgan Stanley → Eaton Vance Corp.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20210192) (VERIFIED) (2020-11-10)
+- [Morgan Stanley → Solium Capital, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20190875) (VERIFIED) (2019-03-06)
+- [Energy Trading Innovations LLC → Morgan Stanley](https://www.ftc.gov/legal-library/browse/early-termination-notices/20151128) (VERIFIED) (2015-06-23)
+- [Morgan Stanley Infrastructure Partners II, LP → Eureka Hunter Holdings, LLC](https://www.ftc.gov/legal-library/browse/early-termination-notices/20150621) (VERIFIED) (2015-02-27)
 
-> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Morgan%20Stanley).
+> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Morgan%20Stanley) (VERIFIED).
 
-- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Morgan%20Stanley) (Tier 1)
+- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Morgan%20Stanley) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->

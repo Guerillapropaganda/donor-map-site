@@ -87,8 +87,8 @@ The Chamber's political operation includes: direct lobbying ($746M+ since 2010),
 
 CEO: Suzanne Clark (since 2022). Previous CEO: Tom Donohue (1997–2022, 25 years). Annual revenue: approximately $200 million.
 
-- [OpenSecrets: US Chamber of Commerce lobbying profile](https://www.opensecrets.org/orgs/us-chamber-of-commerce/summary?id=D000019798) (Tier 1)
-- [OpenSecrets: US Chamber of Commerce outside spending](https://www.opensecrets.org/outsidespending/detail.php?cmte=US+Chamber+of+Commerce&cycle=2024) (Tier 1)
+- [OpenSecrets: US Chamber of Commerce lobbying profile](https://www.opensecrets.org/orgs/us-chamber-of-commerce/summary?id=D000019798) (Tier 1) (VERIFIED)
+- ~~[OpenSecrets: US Chamber of Commerce outside spending](https://www.opensecrets.org/outsidespending/detail.php?cmte=US+Chamber+of+Commerce&cycle=2024)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -114,7 +114,7 @@ CEO: Suzanne Clark (since 2022). Previous CEO: Tom Donohue (1997–2022, 25 year
 
 **Cumulative 2010–2024:** $746+ million in federal lobbying alone.
 
-- [OpenSecrets: US Chamber of Commerce lobbying expenditures](https://www.opensecrets.org/orgs/us-chamber-of-commerce/lobbying?id=D000019798) (Tier 1)
+- [OpenSecrets: US Chamber of Commerce lobbying expenditures](https://www.opensecrets.org/orgs/us-chamber-of-commerce/lobbying?id=D000019798) (Tier 1) (VERIFIED)
 
 ---
 
@@ -194,8 +194,8 @@ The Chamber's refusal to disclose donors serves a specific structural purpose: i
 > [!contradiction] The Free Market Champions Who Won't Show Their Books
 > The Chamber advocates for market transparency, corporate governance, and shareholder rights — for everyone except itself. The organization that lobbies against financial regulation refuses to disclose its own financial supporters. The organization that opposes dark money reform is the largest dark money spender in American politics. The Chamber's opacity is not incidental; it is the product — corporations pay the Chamber specifically because it launders their political spending into anonymous advocacy. A pharmaceutical company that funds Chamber lobbying against drug pricing reform can simultaneously market itself as supporting affordable healthcare. An oil company that funds Chamber opposition to emissions standards can simultaneously brand itself as climate-conscious. The Chamber is a reputation laundering service.
 
-- [Public Citizen: The Chamber's Dark Money Donors](https://www.citizen.org/article/chamber-of-secrets/) (Tier 2)
-- [Washington Post: Is the most powerful lobbyist in Washington losing its grip?](https://www.washingtonpost.com/business/economy/is-the-us-chamber-losing-its-grip/2017/07/14/f104d348-4f88-11e7-91eb-9611861a988f_story.html) (Tier 2)
+- ~~[Public Citizen: The Chamber's Dark Money Donors](https://www.citizen.org/article/chamber-of-secrets/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Washington Post: Is the most powerful lobbyist in Washington losing its grip?](https://www.washingtonpost.com/business/economy/is-the-us-chamber-losing-its-grip/2017/07/14/f104d348-4f88-11e7-91eb-9611861a988f_story.html) (Tier 2) (VERIFIED)
 
 ---
 
@@ -279,7 +279,7 @@ The Chamber does not represent "business." It represents the capital class's int
 ### Sources
 
 ### Lobbying & Political Spending:
-- [OpenSecrets: US Chamber of Commerce organizational profile](https://www.opensecrets.org/orgs/us-chamber-of-commerce/summary?id=D000019798) (Tier 1)
+- [OpenSecrets: US Chamber of Commerce organizational profile](https://www.opensecrets.org/orgs/us-chamber-of-commerce/summary?id=D000019798) (Tier 1) (VERIFIED)
 - [OpenSecrets: US Chamber of Commerce lobbying expenditures](https://www.opensecrets.org/orgs/us-chamber-of-commerce/lobbying?id=D000019798) (Tier 1)
 - [OpenSecrets: US Chamber of Commerce outside spending](https://www.opensecrets.org/outsidespending/detail.php?cmte=US+Chamber+of+Commerce&cycle=2024) (Tier 1)
 
@@ -288,19 +288,19 @@ The Chamber does not represent "business." It represents the capital class's int
 - [Washington Post: Is the most powerful lobbyist in Washington losing its grip?](https://www.washingtonpost.com/business/economy/is-the-us-chamber-losing-its-grip/2017/07/14/f104d348-4f88-11e7-91eb-9611861a988f_story.html) (Tier 2)
 
 ### Labor Opposition:
-- [The Intercept: Nancy Pelosi Is Sitting on a Bill That Would Strengthen Unions — Chamber opposition to PRO Act](https://theintercept.com/2019/12/02/nancy-pelosi-usmca-pro-act-unions/) (Tier 2)
+- [The Intercept: Nancy Pelosi Is Sitting on a Bill That Would Strengthen Unions — Chamber opposition to PRO Act](https://theintercept.com/2019/12/02/nancy-pelosi-usmca-pro-act-unions/) (Tier 2) (VERIFIED)
 
 ### Supreme Court Cases:
-- [SCOTUSblog: Citizens United v. FEC](https://www.scotusblog.com/cases/case-files/citizens-united-v-federal-election-commission/) (Tier 1)
-- [SCOTUSblog: Janus v. AFSCME](https://www.scotusblog.com/cases/case-files/janus-v-american-federation-state-county-municipal-employees-council-31/) (Tier 1)
-- [SCOTUSblog: Epic Systems Corp. v. Lewis](https://www.scotusblog.com/cases/case-files/epic-systems-corp-v-lewis/) (Tier 1)
+- [SCOTUSblog: Citizens United v. FEC](https://www.scotusblog.com/cases/case-files/citizens-united-v-federal-election-commission/) (Tier 1) (VERIFIED)
+- [SCOTUSblog: Janus v. AFSCME](https://www.scotusblog.com/cases/case-files/janus-v-american-federation-state-county-municipal-employees-council-31/) (Tier 1) (VERIFIED)
+- [SCOTUSblog: Epic Systems Corp. v. Lewis](https://www.scotusblog.com/cases/case-files/epic-systems-corp-v-lewis/) (Tier 1) (VERIFIED)
 
 ### Trump Relationship:
-- [Bloomberg: Chamber of Commerce congratulates Trump on 2024 victory](https://www.bloomberg.com/news/articles/2024-11-06/us-chamber-congratulates-trump-on-election-win) (Tier 2)
-- [NPR: Chamber of Commerce condemns January 6](https://www.npr.org/2021/01/07/954478011/u-s-chamber-of-commerce-condemns-violence-at-capitol) (Tier 2)
+- ~~[Bloomberg: Chamber of Commerce congratulates Trump on 2024 victory](https://www.bloomberg.com/news/articles/2024-11-06/us-chamber-congratulates-trump-on-election-win)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[NPR: Chamber of Commerce condemns January 6](https://www.npr.org/2021/01/07/954478011/u-s-chamber-of-commerce-condemns-violence-at-capitol)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ### General Reference:
-- [Ballotpedia: US Chamber of Commerce political spending](https://ballotpedia.org/United_States_Chamber_of_Commerce) (Tier 3)
+- [Ballotpedia: US Chamber of Commerce political spending](https://ballotpedia.org/United_States_Chamber_of_Commerce) (Tier 3) (VERIFIED)
 
 ---
 
@@ -332,7 +332,7 @@ The Chamber does not represent "business." It represents the capital class's int
 - Life Without Laundry, LLC v. Rinse, Inc. (2025) — District Court, D. Massachusetts
 - Zen JV, LLC (2025) — United States Bankruptcy Court, D. Delaware
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22US%20Chamber%20of%20Commerce%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22US%20Chamber%20of%20Commerce%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Lobbying Activity
@@ -351,7 +351,7 @@ The Chamber does not represent "business." It represents the capital class's int
 
 **Agencies contacted:** Administration for Children & Families (ACF), Agriculture, Dept of (USDA), Centers For Disease Control & Prevention (CDC), Commerce, Dept of (DOC), Defense, Dept of (DOD), Education, Dept of, Energy, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP), Export-Import Bank of the United States (EXIM Bank) +12 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=US%20Chamber%20of%20Commerce) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=US%20Chamber%20of%20Commerce) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)
@@ -413,7 +413,7 @@ The Chamber does not represent "business." It represents the capital class's int
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [558600L19F2GCYX6QZ15](https://search.gleif.org/#/record/558600L19F2GCYX6QZ15) |
+| LEI | [558600L19F2GCYX6QZ15](https://search.gleif.org/#/record/558600L19F2GCYX6QZ15) (VERIFIED) |
 | Legal Name | My First Choice Contracting Company |
 | Jurisdiction | SA |
 | Entity Status | ACTIVE |
@@ -421,7 +421,7 @@ The Chamber does not represent "business." It represents the capital class's int
 | Registration | LAPSED |
 | Last Updated | 2024-06-14T12:14:46Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### SEC Filing Activity
@@ -439,7 +439,7 @@ The Chamber does not represent "business." It represents the capital class's int
 - 2024-03-05 — **PX14A6G**: PX14A6G
 - 2020-04-14 — **PX14A6G**: PX14A6G
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22US%20Chamber%20of%20Commerce%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22US%20Chamber%20of%20Commerce%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -454,8 +454,8 @@ The Chamber does not represent "business." It represents the capital class's int
 | Net Assets | $61.1M |
 | Officer Compensation | $1.6M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 461561597](https://projects.propublica.org/nonprofits/organizations/461561597) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F461561597_202312_990_2025022623131785.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 461561597](https://projects.propublica.org/nonprofits/organizations/461561597) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F461561597_202312_990_2025022623131785.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Tax Filings (IRS 990)
@@ -473,14 +473,14 @@ The Chamber does not represent "business." It represents the capital class's int
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/141883061/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/141883061/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/141883061/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/141883061/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/141883061/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/141883061/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/141883061/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/141883061/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/141883061/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/141883061/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/141883061) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/141883061) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Federal Register Activity
@@ -494,13 +494,13 @@ The Chamber does not represent "business." It represents the capital class's int
 | Agencies | Commerce Department, Employee Benefits Security Administration, Energy Department, Environmental Protection Agency, Federal Energy Regulatory Commission, Federal Trade Commission, Labor Department, National Oceanic and Atmospheric Administration +5 more |
 
 **Recent regulatory activity:**
-- [Perchloroethylene (PCE); Regulation Under the Toxic Substances Control Act (TSCA)](https://www.federalregister.gov/documents/2024/12/18/2024-30117/perchloroethylene-pce-regulation-under-the-toxic-substances-control-act-tsca) (2024-12-18) — Environmental Protection Agency
-- [Carbon Tetrachloride (CTC); Regulation Under the Toxic Substances Control Act (TSCA)](https://www.federalregister.gov/documents/2024/12/18/2024-29517/carbon-tetrachloride-ctc-regulation-under-the-toxic-substances-control-act-tsca) (2024-12-18) — Environmental Protection Agency ★
-- [Trichloroethylene (TCE); Regulation Under the Toxic Substances Control Act (TSCA)](https://www.federalregister.gov/documents/2024/12/17/2024-29274/trichloroethylene-tce-regulation-under-the-toxic-substances-control-act-tsca) (2024-12-17) — Environmental Protection Agency ★
-- [Retirement Savings Lost and Found](https://www.federalregister.gov/documents/2024/11/20/2024-27098/retirement-savings-lost-and-found) (2024-11-20) — Labor Department
-- [Building for the Future Through Electric Regional Transmission Planning and Cost Allocation](https://www.federalregister.gov/documents/2024/06/11/2024-10872/building-for-the-future-through-electric-regional-transmission-planning-and-cost-allocation) (2024-06-11) — Energy Department
-- [Telemarketing Sales Rule](https://www.federalregister.gov/documents/2024/04/16/2024-07180/telemarketing-sales-rule) (2024-04-16) — Federal Trade Commission
+- [Perchloroethylene (PCE); Regulation Under the Toxic Substances Control Act (TSCA)](https://www.federalregister.gov/documents/2024/12/18/2024-30117/perchloroethylene-pce-regulation-under-the-toxic-substances-control-act-tsca) (VERIFIED) (2024-12-18) — Environmental Protection Agency
+- [Carbon Tetrachloride (CTC); Regulation Under the Toxic Substances Control Act (TSCA)](https://www.federalregister.gov/documents/2024/12/18/2024-29517/carbon-tetrachloride-ctc-regulation-under-the-toxic-substances-control-act-tsca) (VERIFIED) (2024-12-18) — Environmental Protection Agency ★
+- [Trichloroethylene (TCE); Regulation Under the Toxic Substances Control Act (TSCA)](https://www.federalregister.gov/documents/2024/12/17/2024-29274/trichloroethylene-tce-regulation-under-the-toxic-substances-control-act-tsca) (VERIFIED) (2024-12-17) — Environmental Protection Agency ★
+- [Retirement Savings Lost and Found](https://www.federalregister.gov/documents/2024/11/20/2024-27098/retirement-savings-lost-and-found) (VERIFIED) (2024-11-20) — Labor Department
+- [Building for the Future Through Electric Regional Transmission Planning and Cost Allocation](https://www.federalregister.gov/documents/2024/06/11/2024-10872/building-for-the-future-through-electric-regional-transmission-planning-and-cost-allocation) (VERIFIED) (2024-06-11) — Energy Department
+- [Telemarketing Sales Rule](https://www.federalregister.gov/documents/2024/04/16/2024-07180/telemarketing-sales-rule) (VERIFIED) (2024-04-16) — Federal Trade Commission
 - ... and 16 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22US%20Chamber%20of%20Commerce%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22US%20Chamber%20of%20Commerce%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->

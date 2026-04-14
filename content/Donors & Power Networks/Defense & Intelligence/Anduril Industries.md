@@ -133,20 +133,20 @@ Anduril represents a new model of defense-sector class power: Silicon Valley ven
 
 ### Sources
 
-- [Wikipedia: Anduril Industries](https://en.wikipedia.org/wiki/Anduril_Industries) (Tier 4)
-- [Anduril: Mission](https://www.anduril.com/mission) (Tier 3)
-- [Sacra: Anduril analysis](https://sacra.com/c/anduril/) (Tier 3)
-- [Reuters: Anduril pursuing $4B at $60B valuation](https://www.reuters.com/business/anduril-set-double-its-valuation-with-4-billion-funding-round-source-says-2026-03-03/) (Tier 2)
-- [DefenseScoop: Anduril $20B Army contract](https://defensescoop.com/2026/03/14/anduril-20-billion-dollar-army-contract/) (Tier 2)
-- [FNEX: Anduril $2.5B Series G](https://fnex.com/anduril-secures-2-5b-in-funding-doubling-valuation-to-30-5b/) (Tier 3)
-- [Contrary Research: Anduril](https://research.contrary.com/company/anduril) (Tier 3)
-- [Aviation Outlook: Anduril analysis](https://aviationoutlook.substack.com/p/anduril-company-analysis-outlook-report) (Tier 3)
-- [NYT: Pentagon and Anduril/Palmer Luckey](https://www.nytimes.com/2026/03/02/technology/pentagon-anduril-palmer-luckey.html) (Tier 2)
-- [OpenLobby: Anduril lobbying](https://www.openlobby.us/clients/anduril-industries-inc) (Tier 2)
-- [Senate LDA Filings: Anduril lobbying](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Reuters: Anduril pre-IPO fraud charges](https://www.reuters.com/legal/government/us-investment-manager-charged-with-anduril-pre-ipo-fraud-2025-12-18/) (Tier 2)
-- [Wikipedia: Palmer Luckey](https://en.wikipedia.org/wiki/Palmer_Luckey) (Tier 4)
-- [JPost: Anduril defense tech](https://www.jpost.com/defense-and-tech/article-876647) (Tier 3)
+- [Wikipedia: Anduril Industries](https://en.wikipedia.org/wiki/Anduril_Industries) (Tier 4) (VERIFIED)
+- [Anduril: Mission](https://www.anduril.com/mission) (Tier 3) (VERIFIED)
+- [Sacra: Anduril analysis](https://sacra.com/c/anduril/) (Tier 3) (VERIFIED)
+- ~~[Reuters: Anduril pursuing $4B at $60B valuation](https://www.reuters.com/business/anduril-set-double-its-valuation-with-4-billion-funding-round-source-says-2026-03-03/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [DefenseScoop: Anduril $20B Army contract](https://defensescoop.com/2026/03/14/anduril-20-billion-dollar-army-contract/) (Tier 2) (VERIFIED)
+- [FNEX: Anduril $2.5B Series G](https://fnex.com/anduril-secures-2-5b-in-funding-doubling-valuation-to-30-5b/) (Tier 3) (VERIFIED)
+- [Contrary Research: Anduril](https://research.contrary.com/company/anduril) (Tier 3) (VERIFIED)
+- [Aviation Outlook: Anduril analysis](https://aviationoutlook.substack.com/p/anduril-company-analysis-outlook-report) (Tier 3) (VERIFIED)
+- ~~[NYT: Pentagon and Anduril/Palmer Luckey](https://www.nytimes.com/2026/03/02/technology/pentagon-anduril-palmer-luckey.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [OpenLobby: Anduril lobbying](https://www.openlobby.us/clients/anduril-industries-inc) (Tier 2) (VERIFIED)
+- [Senate LDA Filings: Anduril lobbying](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- ~~[Reuters: Anduril pre-IPO fraud charges](https://www.reuters.com/legal/government/us-investment-manager-charged-with-anduril-pre-ipo-fraud-2025-12-18/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Wikipedia: Palmer Luckey](https://en.wikipedia.org/wiki/Palmer_Luckey) (Tier 4) (VERIFIED)
+- [JPost: Anduril defense tech](https://www.jpost.com/defense-and-tech/article-876647) (Tier 3) (VERIFIED)
 
 ---
 
@@ -179,7 +179,7 @@ Anduril represents a new model of defense-sector class power: Silicon Valley ven
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Anduril%20Industries) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Anduril%20Industries) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Federal Spending (USASpending)
@@ -201,14 +201,14 @@ Anduril represents a new model of defense-sector class power: Silicon Valley ven
 | $62.6M | Department of Defense | EFS-ROADRUNNER HARDWARE |
 | $50.7M | Department of Homeland Security | AWARD |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/1869c03a-77bb-b66c-469b-988719bbec4c-C/latest) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/1869c03a-77bb-b66c-469b-988719bbec4c-C/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [254900CIXLZUXXNYQW57](https://search.gleif.org/#/record/254900CIXLZUXXNYQW57) |
+| LEI | [254900CIXLZUXXNYQW57](https://search.gleif.org/#/record/254900CIXLZUXXNYQW57) (VERIFIED) |
 | Legal Name | ANDURIL INDUSTRIES, INC. |
 | Jurisdiction | US-DE |
 | Entity Status | ACTIVE |
@@ -216,7 +216,7 @@ Anduril represents a new model of defense-sector class power: Silicon Valley ven
 | Registration | LAPSED |
 | Last Updated | 2025-05-18T13:30:05Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### SEC Filing Activity
@@ -234,7 +234,7 @@ Anduril represents a new model of defense-sector class power: Silicon Valley ven
 - 2026-01-23 — **NPORT-P**: NPORT-P
 - 2025-12-23 — **NPORT-EX**: NPORT-EX
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Anduril%20Industries%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Anduril%20Industries%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -287,7 +287,7 @@ Anduril represents a new model of defense-sector class power: Silicon Valley ven
 | Engineering Services (541330) | $3.9M |
 | Security Systems Services (except Locksmiths) (561621) | $1.4M |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Federal Court Records (CourtListener)
@@ -306,7 +306,7 @@ Anduril represents a new model of defense-sector class power: Silicon Valley ven
 - Desktop Metal, Inc., Debtor (2025) — United States Bankruptcy Court, S.D. Texas
 - Matthew Guertin v. Tim Walz (2025) — Court of Appeals for the Eighth Circuit
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Anduril%20Industries%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Anduril%20Industries%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Register Activity
@@ -318,15 +318,15 @@ Anduril represents a new model of defense-sector class power: Silicon Valley ven
 | Agencies | Antitrust Division, Justice Department, Pipeline and Hazardous Materials Safety Administration, Transportation Department |
 
 **Recent regulatory activity:**
-- [Hazardous Materials: Notice of Actions on Special Permits](https://www.federalregister.gov/documents/2026/01/16/2026-00872/hazardous-materials-notice-of-actions-on-special-permits) (2026-01-16) — Transportation Department
-- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Training & Readiness Accelerator II](https://www.federalregister.gov/documents/2025/08/13/2025-15380/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-training-and) (2025-08-13) — Justice Department
-- [Hazardous Materials: Notice of Applications for Modification to Special Permits](https://www.federalregister.gov/documents/2025/02/24/2025-02971/hazardous-materials-notice-of-applications-for-modification-to-special-permits) (2025-02-24) — Transportation Department
-- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Defense Industrial Based Consortium](https://www.federalregister.gov/documents/2025/01/24/2025-01712/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-defense-industrial) (2025-01-24) — Justice Department
-- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Defense Industrial Based Consortium](https://www.federalregister.gov/documents/2024/09/16/2024-20965/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-defense-industrial) (2024-09-16) — Justice Department
-- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Expeditionary Missions Consortium-Crane](https://www.federalregister.gov/documents/2024/09/12/2024-20744/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-expeditionary) (2024-09-12) — Justice Department
+- [Hazardous Materials: Notice of Actions on Special Permits](https://www.federalregister.gov/documents/2026/01/16/2026-00872/hazardous-materials-notice-of-actions-on-special-permits) (VERIFIED) (2026-01-16) — Transportation Department
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Training & Readiness Accelerator II](https://www.federalregister.gov/documents/2025/08/13/2025-15380/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-training-and) (VERIFIED) (2025-08-13) — Justice Department
+- [Hazardous Materials: Notice of Applications for Modification to Special Permits](https://www.federalregister.gov/documents/2025/02/24/2025-02971/hazardous-materials-notice-of-applications-for-modification-to-special-permits) (VERIFIED) (2025-02-24) — Transportation Department
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Defense Industrial Based Consortium](https://www.federalregister.gov/documents/2025/01/24/2025-01712/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-defense-industrial) (VERIFIED) (2025-01-24) — Justice Department
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Defense Industrial Based Consortium](https://www.federalregister.gov/documents/2024/09/16/2024-20965/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-defense-industrial) (VERIFIED) (2024-09-16) — Justice Department
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Expeditionary Missions Consortium-Crane](https://www.federalregister.gov/documents/2024/09/12/2024-20744/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-expeditionary) (VERIFIED) (2024-09-12) — Justice Department
 - ... and 12 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Anduril%20Industries%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Anduril%20Industries%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Lobbying Activity
@@ -345,5 +345,5 @@ Anduril represents a new model of defense-sector class power: Silicon Valley ven
 
 **Agencies contacted:** Defense, Dept of (DOD), Executive Office of the President (EOP), HOUSE OF REPRESENTATIVES, Homeland Security, Dept of (DHS), Natl Security Council (NSC), Office of Management & Budget (OMB), SENATE, State, Dept of (DOS), Transportation, Dept of (DOT)
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Anduril%20Industries) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Anduril%20Industries) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->

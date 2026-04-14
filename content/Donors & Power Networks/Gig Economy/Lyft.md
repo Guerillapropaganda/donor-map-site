@@ -148,12 +148,12 @@ Climate/EV. Prop 30 ($8M spent, Newsom opposed)
 
 ### Sources
 
-- [Ballotpedia: Prop 22 campaign finance](https://ballotpedia.org/California_Proposition_22,_App-Based_Drivers_as_Contractors_and_Labor_Policies_Initiative_%282020%29) (Tier 1)
-- [LA Times: $205M spending total](https://www.latimes.com/business/story/2020-10-20/prop-22-gig-workers-uber-lyft-record-spending) (Tier 2)
-- [OpenSecrets: Lyft federal PAC and lobbying](https://www.opensecrets.org/orgs/lyft-inc/summary?id=D000067782) (Tier 1)
-- [CalMatters: California Proposition 22 and gig worker ballot measures](https://calmatters.org/election-2020-guide/proposition-22-gig-workers-ab-5/) (Tier 2)
-- [The Hill: Flex Association launch](https://thehill.com/business-a-lobbying/business-a-lobbying/597404-gig-companies-launch-lobbying-group-to-counter-pro/) (Tier 2)
-- [FPPC: Contribution filings](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1)
+- [Ballotpedia: Prop 22 campaign finance](https://ballotpedia.org/California_Proposition_22,_App-Based_Drivers_as_Contractors_and_Labor_Policies_Initiative_%282020%29) (Tier 1) (VERIFIED)
+- ~~[LA Times: $205M spending total](https://www.latimes.com/business/story/2020-10-20/prop-22-gig-workers-uber-lyft-record-spending)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [OpenSecrets: Lyft federal PAC and lobbying](https://www.opensecrets.org/orgs/lyft-inc/summary?id=D000067782) (Tier 1) (VERIFIED)
+- [CalMatters: California Proposition 22 and gig worker ballot measures](https://calmatters.org/election-2020-guide/proposition-22-gig-workers-ab-5/) (Tier 2) (VERIFIED)
+- ~~[The Hill: Flex Association launch](https://thehill.com/business-a-lobbying/business-a-lobbying/597404-gig-companies-launch-lobbying-group-to-counter-pro/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [FPPC: Contribution filings](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1) (VERIFIED)
 
 ---
 
@@ -186,7 +186,7 @@ Climate/EV. Prop 30 ($8M spent, Newsom opposed)
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Lyft) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Lyft) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -234,7 +234,7 @@ Climate/EV. Prop 30 ($8M spent, Newsom opposed)
 | All Other Travel Arrangement and Reservation Services (561599) | $177K |
 | Recreational Goods Rental (532284) | $28K |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Lyft) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Lyft) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Lobbying Activity
@@ -253,7 +253,7 @@ Climate/EV. Prop 30 ($8M spent, Newsom opposed)
 
 **Agencies contacted:** HOUSE OF REPRESENTATIVES, Homeland Security, Dept of (DHS), Labor, Dept of (DOL), Natl Highway Traffic Safety Administration (NHTSA), SENATE, Transportation, Dept of (DOT), Veterans Affairs, Dept of (VA), White House Office
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Lyft) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Lyft) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)
@@ -290,14 +290,14 @@ Climate/EV. Prop 30 ($8M spent, Newsom opposed)
 | $28K | Department of the Interior | PEACE CORPS BICYCLE SHARING PROGRAM |
 | $24K | Department of Veterans Affairs | VA EMPLOYEE RIDESHARE SERVICES |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/dd740621-7bb8-7375-766e-de19ead4b3f9-C/latest) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/dd740621-7bb8-7375-766e-de19ead4b3f9-C/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [549300H7I5VN334XVZ52](https://search.gleif.org/#/record/549300H7I5VN334XVZ52) |
+| LEI | [549300H7I5VN334XVZ52](https://search.gleif.org/#/record/549300H7I5VN334XVZ52) (VERIFIED) |
 | Legal Name | LYFT, INC. |
 | Jurisdiction | US-DE |
 | Entity Status | ACTIVE |
@@ -305,7 +305,7 @@ Climate/EV. Prop 30 ($8M spent, Newsom opposed)
 | Registration | ISSUED |
 | Last Updated | 2025-08-20T10:15:47Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Federal Court Records (CourtListener)
@@ -324,7 +324,7 @@ Climate/EV. Prop 30 ($8M spent, Newsom opposed)
 - A.T. v. Lyft, Inc. (2026) — District Court, N.D. California
 - CH.H. v. Lyft, Inc. (2026) — District Court, N.D. California
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Lyft%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Lyft%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### SEC Filing Activity
@@ -338,11 +338,11 @@ Climate/EV. Prop 30 ($8M spent, Newsom opposed)
 
 **Notable filings:**
 
-- 2026-04-07 — **SCHEDULE 13G**: [SCHEDULE 13G](https://www.sec.gov/Archives/edgar/data/1759509/000201238326001049/0002012383-26-001049-index.htm)
-- 2026-03-31 — **PRE 14A**: [PRE 14A](https://www.sec.gov/Archives/edgar/data/1759509/000162828026022374/0001628280-26-022374-index.htm)
-- 2026-03-27 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/1759509/000010290926001782/0000102909-26-001782-index.htm)
-- 2026-03-03 — **4**: [4](https://www.sec.gov/Archives/edgar/data/1759509/000203482626000003/0002034826-26-000003-index.htm)
-- 2026-03-03 — **4**: [4](https://www.sec.gov/Archives/edgar/data/1759509/000178022726000002/0001780227-26-000002-index.htm)
+- 2026-04-07 — **SCHEDULE 13G**: [SCHEDULE 13G](https://www.sec.gov/Archives/edgar/data/1759509/000201238326001049/0002012383-26-001049-index.htm) (VERIFIED)
+- 2026-03-31 — **PRE 14A**: [PRE 14A](https://www.sec.gov/Archives/edgar/data/1759509/000162828026022374/0001628280-26-022374-index.htm) (VERIFIED)
+- 2026-03-27 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/1759509/000010290926001782/0000102909-26-001782-index.htm) (VERIFIED)
+- 2026-03-03 — **4**: [4](https://www.sec.gov/Archives/edgar/data/1759509/000203482626000003/0002034826-26-000003-index.htm) (VERIFIED)
+- 2026-03-03 — **4**: [4](https://www.sec.gov/Archives/edgar/data/1759509/000178022726000002/0001780227-26-000002-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Lyft%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Lyft%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->

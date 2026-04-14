@@ -51,8 +51,8 @@ IACP's political significance: the organization provides an "expert" voice that 
 
 ### Sources
 
-- [IACP: Policy positions](https://www.theiacp.org/resources/policy-center) (Tier 1)
-- [Ballotpedia: Law enforcement policy](https://ballotpedia.org/International_Association_of_Chiefs_of_Police) (Tier 3)
+- ~~[IACP: Policy positions](https://www.theiacp.org/resources/policy-center)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Ballotpedia: Law enforcement policy](https://ballotpedia.org/International_Association_of_Chiefs_of_Police) (Tier 3) (VERIFIED)
 
 ### Federal Register Activity
 <!-- auto:federal-register start -->
@@ -65,15 +65,15 @@ IACP's political significance: the organization provides an "expert" voice that 
 | Agencies | Civil Rights Commission, Federal Bureau of Investigation, Federal Communications Commission, Federal Railroad Administration, Homeland Security Department, Justice Department, Justice Programs Office, National Highway Traffic Safety Administration +3 more |
 
 **Recent regulatory activity:**
-- [Notice of Charter Reestablishment](https://www.federalregister.gov/documents/2025/04/11/2025-06200/notice-of-charter-reestablishment) (2025-04-11) — Justice Department
-- [Speed Measuring Device Conformity-RADAR](https://www.federalregister.gov/documents/2024/11/21/2024-27130/speed-measuring-device-conformity-radar) (2024-11-21) — Transportation Department
-- [Advanced Impaired Driving Prevention Technology](https://www.federalregister.gov/documents/2024/01/05/2023-27665/advanced-impaired-driving-prevention-technology) (2024-01-05) — Transportation Department ★
-- [Notice of Charter Reestablishment](https://www.federalregister.gov/documents/2023/05/03/2023-09330/notice-of-charter-reestablishment) (2023-05-03) — Justice Department
-- [Uniform Procedures for State Highway Safety Grant Programs](https://www.federalregister.gov/documents/2023/02/06/2023-01819/uniform-procedures-for-state-highway-safety-grant-programs) (2023-02-06) — Transportation Department
-- [Uniform Procedures for State Highway Safety Grant Programs](https://www.federalregister.gov/documents/2022/09/15/2022-18995/uniform-procedures-for-state-highway-safety-grant-programs) (2022-09-15) — Transportation Department
+- [Notice of Charter Reestablishment](https://www.federalregister.gov/documents/2025/04/11/2025-06200/notice-of-charter-reestablishment) (VERIFIED) (2025-04-11) — Justice Department
+- [Speed Measuring Device Conformity-RADAR](https://www.federalregister.gov/documents/2024/11/21/2024-27130/speed-measuring-device-conformity-radar) (VERIFIED) (2024-11-21) — Transportation Department
+- [Advanced Impaired Driving Prevention Technology](https://www.federalregister.gov/documents/2024/01/05/2023-27665/advanced-impaired-driving-prevention-technology) (VERIFIED) (2024-01-05) — Transportation Department ★
+- [Notice of Charter Reestablishment](https://www.federalregister.gov/documents/2023/05/03/2023-09330/notice-of-charter-reestablishment) (VERIFIED) (2023-05-03) — Justice Department
+- [Uniform Procedures for State Highway Safety Grant Programs](https://www.federalregister.gov/documents/2023/02/06/2023-01819/uniform-procedures-for-state-highway-safety-grant-programs) (VERIFIED) (2023-02-06) — Transportation Department
+- [Uniform Procedures for State Highway Safety Grant Programs](https://www.federalregister.gov/documents/2022/09/15/2022-18995/uniform-procedures-for-state-highway-safety-grant-programs) (VERIFIED) (2022-09-15) — Transportation Department
 - ... and 80 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22International%20Association%20of%20Chiefs%20of%20Police%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22International%20Association%20of%20Chiefs%20of%20Police%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Tax Filings (IRS 990)
@@ -90,14 +90,14 @@ IACP's political significance: the organization provides an "expert" voice that 
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/530227813/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/530227813/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/530227813/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/530227813/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/530227813/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/530227813/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/530227813/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/530227813/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/530227813/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/530227813/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/530227813) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/530227813) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Lobbying Activity
@@ -116,5 +116,5 @@ IACP's political significance: the organization provides an "expert" voice that 
 
 **Agencies contacted:** Bureau of Alcohol Tobacco Firearms & Explosives, Bureau of Justice Assistance, Bureau of Justice Statistics, Commerce, Dept of (DOC), Energy, Dept of, Executive Office of the President (EOP), Export-Import Bank of the United States (EXIM Bank), Federal Bureau of Investigation (FBI), Federal Deposit Insurance Corporation (FDIC), Federal Reserve System +29 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=International%20Association%20of%20Chiefs%20of%20Police) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=International%20Association%20of%20Chiefs%20of%20Police) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->

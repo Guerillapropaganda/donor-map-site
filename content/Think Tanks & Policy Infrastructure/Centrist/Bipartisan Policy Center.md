@@ -230,21 +230,21 @@ The Bipartisan Policy Center is the most structurally revealing think tank in th
 
 ### Sources
 
-- [ProPublica Nonprofit Explorer: Bipartisan Policy Center Inc (EIN 73-1628382)](https://projects.propublica.org/nonprofits/organizations/731628382) (Tier 1)
-- [Wikipedia: Bipartisan Policy Center](https://en.wikipedia.org/wiki/Bipartisan_Policy_Center) (Tier 3)
-- [InfluenceWatch: Bipartisan Policy Center](https://www.influencewatch.org/non-profit/bipartisan-policy-center/) (Tier 3)
-- [DeSmog: Bipartisan Policy Center](https://www.desmog.com/bipartisan-policy-center/) (Tier 2)
-- [OpenSecrets: Bipartisan Policy Center Profile](https://www.opensecrets.org/orgs/bipartisan-policy-center/summary?id=D000047798) (Tier 1)
-- [Bipartisan Policy Center: FAQ. How BPC Is Funded](https://bipartisanpolicy.org/support-bpc/faq/) (Tier 3)
-- [Renewable Energy World: Grumet Tapped to Lead American Clean Power Association](https://www.renewableenergyworld.com/solar/grumet-tapped-to-lead-american-clean-power-association/) (Tier 3)
-- [American Clean Power Association: Jason Grumet Named CEO](https://cleanpower.org/news/american-clean-power-association-names-jason-grumet-as-new-ceo/) (Tier 3)
-- [MacArthur Foundation: Bipartisan Policy Center Grant](https://www.macfound.org/grantee/bipartisan-policy-center-43864/) (Tier 1)
-- [Media Bias/Fact Check: Bipartisan Policy Center](https://mediabiasfactcheck.com/bipartisan-policy-center/) (Tier 3)
-- [Bipartisan Policy Center: Corporate Council, current corporate sponsors](https://bipartisanpolicy.org/support-bpc/corporate-council/) (Tier 3)
-- [Harvard Safra Center for Ethics: Lab Dispatches Vol. 3, think tank funding and funder interests analysis (PDF)](https://www.ethics.harvard.edu/sites/g/files/omnuum9911/files/lab_dispatches_vol3.pdf) (Tier 2)
-- [SourceWatch: National Commission on Energy Policy. BPC's energy industry origin](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/National_Commission_on_Energy_Policy) (Tier 3)
-- [Quincy Institute: Big Ideas and Big Money. Think Tank Funding in America (includes BPC analysis)](https://quincyinst.org/research/big-ideas-and-big-money-think-tank-funding-in-america/) (Tier 2)
-- [Responsible Statecraft: Weapons makers, foreign states lavish $32 million on US think tanks (includes BPC data)](https://responsiblestatecraft.org/think-tank-funding-tracker/) (Tier 2)
+- [ProPublica Nonprofit Explorer: Bipartisan Policy Center Inc (EIN 73-1628382)](https://projects.propublica.org/nonprofits/organizations/731628382) (Tier 1) (VERIFIED)
+- [Wikipedia: Bipartisan Policy Center](https://en.wikipedia.org/wiki/Bipartisan_Policy_Center) (Tier 3) (VERIFIED)
+- [InfluenceWatch: Bipartisan Policy Center](https://www.influencewatch.org/non-profit/bipartisan-policy-center/) (Tier 3) (VERIFIED)
+- [DeSmog: Bipartisan Policy Center](https://www.desmog.com/bipartisan-policy-center/) (Tier 2) (VERIFIED)
+- [OpenSecrets: Bipartisan Policy Center Profile](https://www.opensecrets.org/orgs/bipartisan-policy-center/summary?id=D000047798) (Tier 1) (VERIFIED)
+- [Bipartisan Policy Center: FAQ. How BPC Is Funded](https://bipartisanpolicy.org/support-bpc/faq/) (Tier 3) (VERIFIED)
+- [Renewable Energy World: Grumet Tapped to Lead American Clean Power Association](https://www.renewableenergyworld.com/solar/grumet-tapped-to-lead-american-clean-power-association/) (Tier 3) (VERIFIED)
+- [American Clean Power Association: Jason Grumet Named CEO](https://cleanpower.org/news/american-clean-power-association-names-jason-grumet-as-new-ceo/) (Tier 3) (VERIFIED)
+- [MacArthur Foundation: Bipartisan Policy Center Grant](https://www.macfound.org/grantee/bipartisan-policy-center-43864/) (Tier 1) (VERIFIED)
+- [Media Bias/Fact Check: Bipartisan Policy Center](https://mediabiasfactcheck.com/bipartisan-policy-center/) (Tier 3) (VERIFIED)
+- [Bipartisan Policy Center: Corporate Council, current corporate sponsors](https://bipartisanpolicy.org/support-bpc/corporate-council/) (Tier 3) (VERIFIED)
+- [Harvard Safra Center for Ethics: Lab Dispatches Vol. 3, think tank funding and funder interests analysis (PDF)](https://www.ethics.harvard.edu/sites/g/files/omnuum9911/files/lab_dispatches_vol3.pdf) (Tier 2) (VERIFIED)
+- ~~[SourceWatch: National Commission on Energy Policy. BPC's energy industry origin](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/National_Commission_on_Energy_Policy)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [Quincy Institute: Big Ideas and Big Money. Think Tank Funding in America (includes BPC analysis)](https://quincyinst.org/research/big-ideas-and-big-money-think-tank-funding-in-america/) (Tier 2) (VERIFIED)
+- [Responsible Statecraft: Weapons makers, foreign states lavish $32 million on US think tanks (includes BPC data)](https://responsiblestatecraft.org/think-tank-funding-tracker/) (Tier 2) (VERIFIED)
 
 ### Federal Register Activity
 <!-- auto:federal-register start -->
@@ -257,15 +257,15 @@ The Bipartisan Policy Center is the most structurally revealing think tank in th
 | Agencies | Centers for Medicare & Medicaid Services, Children and Families Administration, Commodity Futures Trading Commission, Education Department, Employment and Training Administration, Energy Department, Federal Energy Regulatory Commission, Health and Human Services Department +6 more |
 
 **Recent regulatory activity:**
-- [Improving Wage Protections for the Temporary and Permanent Employment of Certain Foreign Nationals in the United States](https://www.federalregister.gov/documents/2026/03/27/2026-06017/improving-wage-protections-for-the-temporary-and-permanent-employment-of-certain-foreign-nationals) (2026-03-27) — Labor Department
-- [Committee and Quarterly Board Meetings](https://www.federalregister.gov/documents/2026/02/09/2026-02515/committee-and-quarterly-board-meetings) (2026-02-09) — Education Department
-- [Weighted Selection Process for Registrants and Petitioners Seeking To File Cap-Subject H-1B Petitions](https://www.federalregister.gov/documents/2025/12/29/2025-23853/weighted-selection-process-for-registrants-and-petitioners-seeking-to-file-cap-subject-h-1b) (2025-12-29) — Homeland Security Department ★
-- [Weighted Selection Process for Registrants and Petitioners Seeking To File Cap-Subject H-1B Petitions](https://www.federalregister.gov/documents/2025/09/24/2025-18473/weighted-selection-process-for-registrants-and-petitioners-seeking-to-file-cap-subject-h-1b) (2025-09-24) — Homeland Security Department ★
-- [Commission Guidance Regarding the Listing of Voluntary Carbon Credit Derivative Contracts](https://www.federalregister.gov/documents/2024/10/15/2024-23105/commission-guidance-regarding-the-listing-of-voluntary-carbon-credit-derivative-contracts) (2024-10-15) — Commodity Futures Trading Commission
-- [Supporting the Head Start Workforce and Consistent Quality Programming](https://www.federalregister.gov/documents/2024/08/21/2024-18279/supporting-the-head-start-workforce-and-consistent-quality-programming) (2024-08-21) — Health and Human Services Department
+- [Improving Wage Protections for the Temporary and Permanent Employment of Certain Foreign Nationals in the United States](https://www.federalregister.gov/documents/2026/03/27/2026-06017/improving-wage-protections-for-the-temporary-and-permanent-employment-of-certain-foreign-nationals) (VERIFIED) (2026-03-27) — Labor Department
+- [Committee and Quarterly Board Meetings](https://www.federalregister.gov/documents/2026/02/09/2026-02515/committee-and-quarterly-board-meetings) (VERIFIED) (2026-02-09) — Education Department
+- [Weighted Selection Process for Registrants and Petitioners Seeking To File Cap-Subject H-1B Petitions](https://www.federalregister.gov/documents/2025/12/29/2025-23853/weighted-selection-process-for-registrants-and-petitioners-seeking-to-file-cap-subject-h-1b) (VERIFIED) (2025-12-29) — Homeland Security Department ★
+- [Weighted Selection Process for Registrants and Petitioners Seeking To File Cap-Subject H-1B Petitions](https://www.federalregister.gov/documents/2025/09/24/2025-18473/weighted-selection-process-for-registrants-and-petitioners-seeking-to-file-cap-subject-h-1b) (VERIFIED) (2025-09-24) — Homeland Security Department ★
+- ~~[Commission Guidance Regarding the Listing of Voluntary Carbon Credit Derivative Contracts](https://www.federalregister.gov/documents/2024/10/15/2024-23105/commission-guidance-regarding-the-listing-of-voluntary-carbon-credit-derivative-contracts)~~ (URL broken, archived by Ops) (2024-10-15) — Commodity Futures Trading Commission
+- [Supporting the Head Start Workforce and Consistent Quality Programming](https://www.federalregister.gov/documents/2024/08/21/2024-18279/supporting-the-head-start-workforce-and-consistent-quality-programming) (VERIFIED) (2024-08-21) — Health and Human Services Department
 - ... and 21 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Bipartisan%20Policy%20Center%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Bipartisan%20Policy%20Center%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Tax Filings (IRS 990)
@@ -283,14 +283,14 @@ The Bipartisan Policy Center is the most structurally revealing think tank in th
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/731628382/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/731628382/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/731628382/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/731628382/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/731628382/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/731628382/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/731628382/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/731628382/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/731628382/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/731628382/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/731628382) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/731628382) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Federal Court Records (CourtListener)
@@ -309,7 +309,7 @@ The Bipartisan Policy Center is the most structurally revealing think tank in th
 - United States v. Comey (2025) — District Court, E.D. Virginia
 - Relentless Inc. v. US Dep't of Commerce (2025) — Court of Appeals for the First Circuit
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Bipartisan%20Policy%20Center%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Bipartisan%20Policy%20Center%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Foreign Agent Activity (FARA)
@@ -326,5 +326,5 @@ The Bipartisan Policy Center is the most structurally revealing think tank in th
 - Norwegian Agency for Development Cooperation (Mekong Project) (NORWAY)
 - Norwegian Agency for Development Cooperation (Latin America Project) (NORWAY)
 
-- [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Bipartisan%20Policy%20Center) (Tier 1)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Bipartisan%20Policy%20Center)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:fara-foreign-agents end -->

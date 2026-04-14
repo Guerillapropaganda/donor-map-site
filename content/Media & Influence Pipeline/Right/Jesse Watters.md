@@ -56,7 +56,7 @@ Watters is a pure Fox Corp institutional product. Unlike digital-native media fi
 > [!money]
 > Watters's FEC record is a single $1,000 Obama 2012 contribution made while employed at Fox News / News Corp. This represents his only documented federal political contribution on record. The contribution predates his transformation into a pro-Trump primetime host and reveals the classic Two-Audience Problem: personal politics diverge sharply from on-air positioning. Watters personally supported Barack Obama. Fox News paid him to position Trump as the solution to Obama's legacy. The $1,000 is the only paper trail of his actual political conviction.
 
-- [FEC: Jesse Watters individual contributions (1 result, $1,000, News Corp employer)](https://www.fec.gov/data/receipts/?contributor_name=watters%2C+jesse) (Tier 1)
+- [FEC: Jesse Watters individual contributions (1 result, $1,000, News Corp employer)](https://www.fec.gov/data/receipts/?contributor_name=watters%2C+jesse) (Tier 1) (VERIFIED)
 
 > **Note on API results:** The FEC API search for "watters, jesse" returns a single result: $1,000 to Obama for America (2012), with employer listed as "NEWS CORP" and address matching the Long Island area. This matches the Fox News host's profile (News Corp employer, timing in his career). The single contribution is verified as belonging to the media personality.
 
@@ -167,16 +167,16 @@ Jesse Watters represents **the institutional media product**, the host who was m
 
 ### Sources
 
-- [Wikipedia: Jesse Watters](https://en.wikipedia.org/wiki/Jesse_Watters) (Tier 3)
-- [Wikipedia: Jesse Watters Primetime](https://en.wikipedia.org/wiki/Jesse_Watters_Primetime) (Tier 3)
-- [FEC: "WATTERS, JESSE" individual contributions, $1,000 to Obama for America/Obama Victory Fund 2012 (News Corp, Huntington NY)](https://www.fec.gov/data/receipts/?contributor_name=WATTERS%2C+JESSE) (Tier 1)
-- [CNN: "Fox News taps Jesse Watters to replace Tucker Carlson in prime time shuffle after ratings plunge" (Jun 2023)](https://www.cnn.com/2023/06/26/business/fox-news-prime-time-tucker-carlson) (Tier 2)
-- [Variety: "Jesse Watters, Fox News Host, Apologizes for Chinatown Segment" (Oct 2016)](https://variety.com/2016/tv/news/jesse-watters-chinatown-fox-news-racism-apology-1201879165/) (Tier 3)
-- [Wikipedia: Fox News controversies](https://en.wikipedia.org/wiki/Fox_News_controversies) (Tier 3)
-- [NPR: Fauci calls for Fox News to fire Jesse Watters over 'kill shot' comments](https://www.npr.org/2021/12/22/1066956407/anthony-fauci-jesse-watters-fox-news-kill-shot-ambush-interviews) (Tier 2)
-- [Washington Post: Fauci says Fox News host Jesse Watters should be fired for 'ambush' and 'kill shot' comments](https://www.washingtonpost.com/media/2021/12/21/jesse-watters-fox-fauci-kill-shot/) (Tier 2)
-- [Deadline: Anthony Fauci Says Fox's Jesse Watters Should Be "Fired On The Spot"](https://deadline.com/2021/12/anthony-fauci-jesse-watters-kill-shot-rhetoric-fox-news-1234900055/) (Tier 3)
-- [The Wrap: Jesse Watters Says His Wife, Who He Had an Affair With, Voting for Kamala Would Be Like 'Having an Affair'](https://www.thewrap.com/jesse-watters-the-five-rant-wife-voting-kamala-cheating/) (Tier 3)
+- [Wikipedia: Jesse Watters](https://en.wikipedia.org/wiki/Jesse_Watters) (Tier 3) (VERIFIED)
+- [Wikipedia: Jesse Watters Primetime](https://en.wikipedia.org/wiki/Jesse_Watters_Primetime) (Tier 3) (VERIFIED)
+- [FEC: "WATTERS, JESSE" individual contributions, $1,000 to Obama for America/Obama Victory Fund 2012 (News Corp, Huntington NY)](https://www.fec.gov/data/receipts/?contributor_name=WATTERS%2C+JESSE) (Tier 1) (VERIFIED)
+- [CNN: "Fox News taps Jesse Watters to replace Tucker Carlson in prime time shuffle after ratings plunge" (Jun 2023)](https://www.cnn.com/2023/06/26/business/fox-news-prime-time-tucker-carlson) (Tier 2) (VERIFIED)
+- [Variety: "Jesse Watters, Fox News Host, Apologizes for Chinatown Segment" (Oct 2016)](https://variety.com/2016/tv/news/jesse-watters-chinatown-fox-news-racism-apology-1201879165/) (Tier 3) (VERIFIED)
+- [Wikipedia: Fox News controversies](https://en.wikipedia.org/wiki/Fox_News_controversies) (Tier 3) (VERIFIED)
+- [NPR: Fauci calls for Fox News to fire Jesse Watters over 'kill shot' comments](https://www.npr.org/2021/12/22/1066956407/anthony-fauci-jesse-watters-fox-news-kill-shot-ambush-interviews) (Tier 2) (VERIFIED)
+- [Washington Post: Fauci says Fox News host Jesse Watters should be fired for 'ambush' and 'kill shot' comments](https://www.washingtonpost.com/media/2021/12/21/jesse-watters-fox-fauci-kill-shot/) (Tier 2) (VERIFIED)
+- [Deadline: Anthony Fauci Says Fox's Jesse Watters Should Be "Fired On The Spot"](https://deadline.com/2021/12/anthony-fauci-jesse-watters-kill-shot-rhetoric-fox-news-1234900055/) (Tier 3) (VERIFIED)
+- [The Wrap: Jesse Watters Says His Wife, Who He Had an Affair With, Voting for Kamala Would Be Like 'Having an Affair'](https://www.thewrap.com/jesse-watters-the-five-rant-wife-voting-kamala-cheating/) (Tier 3) (VERIFIED)
 
 ---
 

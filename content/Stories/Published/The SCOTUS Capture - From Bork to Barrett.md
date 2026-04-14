@@ -63,6 +63,6 @@ The 6-3 conservative supermajority has delivered:
 
 ### Sources
 
-- [Supreme Court: All cited decisions](https://www.supremecourt.gov/search.aspx?Search=The%20SCOTUS%20Capture%20-%20From%20Bork%20to%20Barrett) (Tier 1)
-- [Ballotpedia: Supreme Court nominations](https://ballotpedia.org/The_SCOTUS_Capture_-_From_Bork_to_Barrett) (Tier 3)
+- [Supreme Court: All cited decisions](https://www.supremecourt.gov/search.aspx?Search=The%20SCOTUS%20Capture%20-%20From%20Bork%20to%20Barrett) (Tier 1) (VERIFIED)
+- [Ballotpedia: Supreme Court nominations](https://ballotpedia.org/The_SCOTUS_Capture_-_From_Bork_to_Barrett) (Tier 3) (VERIFIED)
 

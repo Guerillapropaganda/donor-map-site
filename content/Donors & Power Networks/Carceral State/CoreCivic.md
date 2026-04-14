@@ -175,7 +175,7 @@ SCOTUS — Al Otro Lado asylum arrival doctrine
 | $103.7M | Department of Homeland Security | FUNDS FOR NEW TASK ORDER FOR CDF SAN DIEGO, CA. |
 | $87.9M | Department of Homeland Security | NEW TASK ORDER FOR DETENTION SERVICES AT THE OTAY MESA DETENTION CENTER |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-CoreCivic) (Tier 1) (NEEDS REVIEW: Results page lands with no results)
+- ~~[Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-CoreCivic)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1) (NEEDS REVIEW: Results page lands with no results)
 <!-- auto:usaspending end -->
 
 <!-- auto:usaspending pending-merge 2026-04-11 -->
@@ -199,7 +199,7 @@ SCOTUS — Al Otro Lado asylum arrival doctrine
 | $103.7M | Department of Homeland Security | FUNDS FOR NEW TASK ORDER FOR CDF SAN DIEGO, CA. |
 | $87.9M | Department of Homeland Security | NEW TASK ORDER FOR DETENTION SERVICES AT THE OTAY MESA DETENTION CENTER |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/b7ab6cd4-f511-cfe7-c92f-b20d45921e9c-P/latest) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/b7ab6cd4-f511-cfe7-c92f-b20d45921e9c-P/latest) (Tier 1) (VERIFIED)
 
 <!-- auto:usaspending pending-merge end -->
 
@@ -219,7 +219,7 @@ SCOTUS — Al Otro Lado asylum arrival doctrine
 - (HC) Perez Reyes v. Chestnut (2026) — District Court, E.D. California
 - DEMOCRACY DEFENDERS FUND v. DEPARTMENT OF HOMELAND SECURITY (2026) — District Court, District of Columbia
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22CoreCivic%22&type=r) (Tier 1) (NEEDS REVIEW: bout 3,000 Cases and 27,000 Docket Entries  311ms Sanford v. CoreCivic (W.D. Tenn. 2019) Docket Number: 1:19-cv-01139 Date Filed: July 9th, 2019 Date Terminated: September 23rd, 2021 Nature of Suit: Prisoner: Civil Rights Cause: 42:1983 Prisoner Civil Rights Jury Demand: Plaintiff Assigned To: James Dale Todd Referred To: Charmiane Griffin Claxton Parties: CoreCivic, Gerald A. Sanford, Sr., Aaron Ivey Attorneys: Gerald A. Sanford, Sr. Document #1  Date Filed: June 28th, 2019 Description: COMPLAINT against CoreCivic, Aaron Ivey, filed by Gerald A. Sanford, Sr. (Attachment: # 1 Cover Letter)(as) [Transferred from Tennessee Middle on 7/9/2019.] (Entered: 07/01/2019) …  Document #17 (11 pages) Date Filed: November 18th, 2019 Description: ORDER SEVERING CLAIMS, PARTIALLY DISMISSING COMPLAINT AND DIRECTING CLERK TO ISSUE A THIRD-PARTY SUBPOENA. Signed by Judge James D. Todd on 11/18/19. (mbm) … ) CORECIVIC, ET AL., ) …  Order — Document #36 (3 pages) Date Filed: September 23rd, 2021 Description: ORDER DISMISSING CASE WITHOUT PREJUDICE, CERTIFYING AN APPEAL WOULD NOT BE TAKEN IN GOOD FAITH, AND DENYING LEAVE TO APPEAL IN FORMA PAUPERIS. Signed by Judge James D. Todd on 9/23/2021. (mbm) … ) CORECIVIC and AARON IVEY, ) …    Kirk v. CoreCivic (M.D. Tenn. 2017) Docket Number: 1:17-cv-00041 Date Filed: May 3rd, 2017 Date Terminated: May 24th, 2018 Nature of Suit: 550 Prisoner: Civil Rights Cause: 42:1983 Prisoner Civil Rights Jury Demand: Plaintiff Assigned To: Waverly David Crenshaw Jr. Referred To: Joe B. Brown Parties: Damon Hininger, Rebecca Rich, f/n/u White, f/n/u Deathridge, f/n/u Roberts, Leigh Staggs, Cherry …  Attorneys: Jason W. Kirk Document #1  Date Filed: May 3rd, 2017 Description: COMPLAINT against William Bryant, Kristen Buttram, CoreCivic, f/n/u Deathridge, Daniel Dodd, Damon Hininger, Cherry Lindamood, Shane McClain, Scott Peeler, Rebecca Rich, f/n/u Roberts, Leigh Staggs, f/n/u White, filed by Jason W. Kirk. (Attachments: # 1 Exhibits 1 - 9 - Supporting Documents, # 2 Attachment envelope)(eh) (Entered: 05/04/2017) …  Document #4 (7 pages) Date Filed: May 25th, 2017 Description: MEMORANDUM OPINION OF THE COURT. Signed by Chief Judge Waverly D. Crenshaw, Jr on 5/25/2017. (xc:Pro se party by regular mail. ) (DOCKET TEXT SUMMARY ONLY-ATTORNEYS MUST OPEN THE PDF AND READ THE ORDER.)(jw) … ) CHIEF JUDGE CRENSHAW CORECIVIC, et al., ) …  Document #2  Date Filed: May 3rd, 2017 Description: APPLICATION for Leave to Proceed In Forma Pauperis by Jason W. Kirk. (eh) (Entered: 05/04/2017) … DOes this relate???)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22CoreCivic%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1) (NEEDS REVIEW: bout 3,000 Cases and 27,000 Docket Entries  311ms Sanford v. CoreCivic (W.D. Tenn. 2019) Docket Number: 1:19-cv-01139 Date Filed: July 9th, 2019 Date Terminated: September 23rd, 2021 Nature of Suit: Prisoner: Civil Rights Cause: 42:1983 Prisoner Civil Rights Jury Demand: Plaintiff Assigned To: James Dale Todd Referred To: Charmiane Griffin Claxton Parties: CoreCivic, Gerald A. Sanford, Sr., Aaron Ivey Attorneys: Gerald A. Sanford, Sr. Document #1  Date Filed: June 28th, 2019 Description: COMPLAINT against CoreCivic, Aaron Ivey, filed by Gerald A. Sanford, Sr. (Attachment: # 1 Cover Letter)(as) [Transferred from Tennessee Middle on 7/9/2019.] (Entered: 07/01/2019) …  Document #17 (11 pages) Date Filed: November 18th, 2019 Description: ORDER SEVERING CLAIMS, PARTIALLY DISMISSING COMPLAINT AND DIRECTING CLERK TO ISSUE A THIRD-PARTY SUBPOENA. Signed by Judge James D. Todd on 11/18/19. (mbm) … ) CORECIVIC, ET AL., ) …  Order — Document #36 (3 pages) Date Filed: September 23rd, 2021 Description: ORDER DISMISSING CASE WITHOUT PREJUDICE, CERTIFYING AN APPEAL WOULD NOT BE TAKEN IN GOOD FAITH, AND DENYING LEAVE TO APPEAL IN FORMA PAUPERIS. Signed by Judge James D. Todd on 9/23/2021. (mbm) … ) CORECIVIC and AARON IVEY, ) …    Kirk v. CoreCivic (M.D. Tenn. 2017) Docket Number: 1:17-cv-00041 Date Filed: May 3rd, 2017 Date Terminated: May 24th, 2018 Nature of Suit: 550 Prisoner: Civil Rights Cause: 42:1983 Prisoner Civil Rights Jury Demand: Plaintiff Assigned To: Waverly David Crenshaw Jr. Referred To: Joe B. Brown Parties: Damon Hininger, Rebecca Rich, f/n/u White, f/n/u Deathridge, f/n/u Roberts, Leigh Staggs, Cherry …  Attorneys: Jason W. Kirk Document #1  Date Filed: May 3rd, 2017 Description: COMPLAINT against William Bryant, Kristen Buttram, CoreCivic, f/n/u Deathridge, Daniel Dodd, Damon Hininger, Cherry Lindamood, Shane McClain, Scott Peeler, Rebecca Rich, f/n/u Roberts, Leigh Staggs, f/n/u White, filed by Jason W. Kirk. (Attachments: # 1 Exhibits 1 - 9 - Supporting Documents, # 2 Attachment envelope)(eh) (Entered: 05/04/2017) …  Document #4 (7 pages) Date Filed: May 25th, 2017 Description: MEMORANDUM OPINION OF THE COURT. Signed by Chief Judge Waverly D. Crenshaw, Jr on 5/25/2017. (xc:Pro se party by regular mail. ) (DOCKET TEXT SUMMARY ONLY-ATTORNEYS MUST OPEN THE PDF AND READ THE ORDER.)(jw) … ) CHIEF JUDGE CRENSHAW CORECIVIC, et al., ) …  Document #2  Date Filed: May 3rd, 2017 Description: APPLICATION for Leave to Proceed In Forma Pauperis by Jason W. Kirk. (eh) (Entered: 05/04/2017) … DOes this relate???)
 <!-- auto:courtlistener-cases end -->
 
 <!-- auto:courtlistener-cases pending-merge 2026-04-11 -->
@@ -292,7 +292,7 @@ SCOTUS — Al Otro Lado asylum arrival doctrine
 | $0 | HOMELAND SECURITY, DEPARTMENT OF | 2023-03-21 |
 | $0 | HOMELAND SECURITY, DEPARTMENT OF | 2024-12-18 |
 
-- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=CoreCivic&page=1&index=opp) (Tier 1) (NEEDS REVIEW: Lands on search page with no results)
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=CoreCivic&page=1&index=opp) (Tier 1) (VERIFIED) (NEEDS REVIEW: Lands on search page with no results)
 <!-- auto:sam-contracts end -->
 
 ### Influence Network (Cross-Reference)
@@ -355,7 +355,7 @@ SCOTUS — Al Otro Lado asylum arrival doctrine
 | Furniture Merchant Wholesalers (423210) | $500K |
 | Painting and Wall Covering Contractors (238320) | $27K |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED: Lands on search page with no results)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 <!-- auto:usaspending-subawards pending-merge 2026-04-11 -->
@@ -457,14 +457,14 @@ SCOTUS — Al Otro Lado asylum arrival doctrine
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=CoreCivic) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=CoreCivic) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [529900JFA3K6PTLT8B15](https://search.gleif.org/#/record/529900JFA3K6PTLT8B15) |
+| LEI | [529900JFA3K6PTLT8B15](https://search.gleif.org/#/record/529900JFA3K6PTLT8B15) (VERIFIED) |
 | Legal Name | CORECIVIC, INC. |
 | Jurisdiction | US-MD |
 | Entity Status | ACTIVE |
@@ -472,7 +472,7 @@ SCOTUS — Al Otro Lado asylum arrival doctrine
 | Registration | LAPSED |
 | Last Updated | 2021-07-16T05:04:45Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### SEC Filing Activity
@@ -486,13 +486,13 @@ SCOTUS — Al Otro Lado asylum arrival doctrine
 
 **Notable filings:**
 
-- 2026-04-10 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/1070985/000119312526151239/0001193125-26-151239-index.htm)
-- 2026-04-01 — **4**: [4](https://www.sec.gov/Archives/edgar/data/1070985/000119312526138138/0001193125-26-138138-index.htm)
-- 2026-03-31 — **144**: [144](https://www.sec.gov/Archives/edgar/data/1070985/000199652726000004/0001996527-26-000004-index.htm)
-- 2026-03-31 — **ARS**: [ARS](https://www.sec.gov/Archives/edgar/data/1070985/000114036126012102/0001140361-26-012102-index.htm)
-- 2026-03-31 — **DEFA14A**: [DEFA14A](https://www.sec.gov/Archives/edgar/data/1070985/000114036126012101/0001140361-26-012101-index.htm)
+- 2026-04-10 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/1070985/000119312526151239/0001193125-26-151239-index.htm) (VERIFIED)
+- 2026-04-01 — **4**: [4](https://www.sec.gov/Archives/edgar/data/1070985/000119312526138138/0001193125-26-138138-index.htm) (VERIFIED)
+- 2026-03-31 — **144**: [144](https://www.sec.gov/Archives/edgar/data/1070985/000199652726000004/0001996527-26-000004-index.htm) (VERIFIED)
+- 2026-03-31 — **ARS**: [ARS](https://www.sec.gov/Archives/edgar/data/1070985/000114036126012102/0001140361-26-012102-index.htm) (VERIFIED)
+- 2026-03-31 — **DEFA14A**: [DEFA14A](https://www.sec.gov/Archives/edgar/data/1070985/000114036126012101/0001140361-26-012101-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22CoreCivic%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22CoreCivic%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Wikipedia
@@ -501,13 +501,13 @@ CoreCivic, Inc. is an American private prison operator and one of the largest fo
 
 | Fact | Value |
 |------|-------|
-| Wikidata ID | [Q1135278](https://www.wikidata.org/wiki/Q1135278) |
+| Wikidata ID | [Q1135278](https://www.wikidata.org/wiki/Q1135278) (VERIFIED) |
 | Description | US prison-operating company |
 | Founded | 1983-01-01 |
-| Website | [https://www.corecivic.com/](https://www.corecivic.com/) |
-| X/Twitter | [@corecivic](https://x.com/corecivic) |
-| Image | [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/EdenDetCenterEdenTX.JPG/330px-EdenDetCenterEdenTX.JPG) |
+| Website | [https://www.corecivic.com/](https://www.corecivic.com/) (VERIFIED) |
+| X/Twitter | [@corecivic](https://x.com/corecivic) (VERIFIED) |
+| Image | [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/EdenDetCenterEdenTX.JPG/330px-EdenDetCenterEdenTX.JPG) (VERIFIED) |
 
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/CoreCivic) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q1135278) (Tier 2)
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/CoreCivic) (Tier 3) (VERIFIED)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q1135278) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->

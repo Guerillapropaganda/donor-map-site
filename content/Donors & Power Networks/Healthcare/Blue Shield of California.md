@@ -107,10 +107,10 @@ Healthcare. Single-payer, COVID contracts, PBM regulation
 
 ### Sources
 
-- [CapRadio: Blue Shield / UnitedHealth no-bid contracts investigation](https://www.capradio.org/articles/2021/02/16/investigation-big-newsom-donors-including-blue-shield-received-no-bid-contracts-during-covid-19-response/) (Tier 2)
-- [KTLA: $226M corporate donations 2020](https://ktla.com/news/california/corporate-giants-flooded-newsom-with-record-226-million-in-charity-donations-in-2020/) (Tier 2)
-- [National Institute on Money in Politics: contribution data](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=Blue%20Shield%20of%20California#[%7B1%7Cgro=d-id) (Tier 1)
-- [FPPC: behested payment database / Form 803](https://www.fppc.ca.gov/transparency/behested-payments.html) (Tier 1)
+- [CapRadio: Blue Shield / UnitedHealth no-bid contracts investigation](https://www.capradio.org/articles/2021/02/16/investigation-big-newsom-donors-including-blue-shield-received-no-bid-contracts-during-covid-19-response/) (Tier 2) (VERIFIED)
+- ~~[KTLA: $226M corporate donations 2020](https://ktla.com/news/california/corporate-giants-flooded-newsom-with-record-226-million-in-charity-donations-in-2020/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [National Institute on Money in Politics: contribution data](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=Blue%20Shield%20of%20California#[%7B1%7Cgro=d-id) (Tier 1) (VERIFIED)
+- ~~[FPPC: behested payment database / Form 803](https://www.fppc.ca.gov/transparency/behested-payments.html)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -148,7 +148,7 @@ Healthcare. Single-payer, COVID contracts, PBM regulation
 | SCOTT PETERS FOR CONGRESS | $29,000 | DEM |
 | MIKE THOMPSON FOR CONGRESS | $29,000 | DEM |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Blue%20Shield%20of%20California) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Blue%20Shield%20of%20California) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### Financial Overview (990 Filing - 2023)
@@ -160,7 +160,7 @@ Healthcare. Single-payer, COVID contracts, PBM regulation
 | Total Expenses | $23.7M |
 | Net Assets | $77.4M |
 
-- [Source: ProPublica Nonprofit Explorer - EIN 942822302](https://projects.propublica.org/nonprofits/organizations/942822302) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer - EIN 942822302](https://projects.propublica.org/nonprofits/organizations/942822302) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Federal Register Activity
@@ -172,12 +172,12 @@ Healthcare. Single-payer, COVID contracts, PBM regulation
 | Agencies | Antitrust Division, Employment and Training Administration, Federal Trade Commission, Health Care Finance Administration, Health and Human Services Department, Justice Department, Labor Department |
 
 **Recent regulatory activity:**
-- [Notice of Determinations Regarding Eligibility To Apply for Trade Adjustment Assistance](https://www.federalregister.gov/documents/2020/10/26/2020-23622/notice-of-determinations-regarding-eligibility-to-apply-for-trade-adjustment-assistance) (2020-10-26) - Labor Department
-- [United States v. UnitedHealth Group Incorporated & PacifiCare Health Systems, Inc.; Propoosed Final Judgment and Competitive Impact Statement](https://www.federalregister.gov/documents/2006/03/20/06-2591/united-states-v-unitedhealth-group-incorporated-and-pacificare-health-systems-inc-propoosed-final) (2006-03-20) - Justice Department
-- [North Lake Tahoe Medical Group, Inc.; Analysis To Aid Public Comment](https://www.federalregister.gov/documents/1999/03/26/99-7404/north-lake-tahoe-medical-group-inc-analysis-to-aid-public-comment) (1999-03-26) - Federal Trade Commission
-- [Medicare Program; Schedule of Limits on Home Health Agency Costs Per Visit](https://www.federalregister.gov/documents/1995/02/14/95-3526/medicare-program-schedule-of-limits-on-home-health-agency-costs-per-visit) (1995-02-14) - Health and Human Services Department ★
+- [Notice of Determinations Regarding Eligibility To Apply for Trade Adjustment Assistance](https://www.federalregister.gov/documents/2020/10/26/2020-23622/notice-of-determinations-regarding-eligibility-to-apply-for-trade-adjustment-assistance) (VERIFIED) (2020-10-26) - Labor Department
+- [United States v. UnitedHealth Group Incorporated & PacifiCare Health Systems, Inc.; Propoosed Final Judgment and Competitive Impact Statement](https://www.federalregister.gov/documents/2006/03/20/06-2591/united-states-v-unitedhealth-group-incorporated-and-pacificare-health-systems-inc-propoosed-final) (VERIFIED) (2006-03-20) - Justice Department
+- [North Lake Tahoe Medical Group, Inc.; Analysis To Aid Public Comment](https://www.federalregister.gov/documents/1999/03/26/99-7404/north-lake-tahoe-medical-group-inc-analysis-to-aid-public-comment) (VERIFIED) (1999-03-26) - Federal Trade Commission
+- ~~[Medicare Program; Schedule of Limits on Home Health Agency Costs Per Visit](https://www.federalregister.gov/documents/1995/02/14/95-3526/medicare-program-schedule-of-limits-on-home-health-agency-costs-per-visit)~~ (URL broken, archived by Ops) (1995-02-14) - Health and Human Services Department ★
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Blue%20Shield%20of%20California%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Blue%20Shield%20of%20California%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Lobbying Activity
@@ -196,7 +196,7 @@ Healthcare. Single-payer, COVID contracts, PBM regulation
 
 **Agencies contacted:** Agriculture, Dept of (USDA), Bureau of Land Management (BLM), Bureau of the Census, Centers For Disease Control & Prevention (CDC), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Defense Advanced Research Projects Agency (DARPA), Defense Security Cooperation Agency (DSCA), Defense, Dept of (DOD), Energy, Dept of +16 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Blue%20Shield%20of%20California) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Blue%20Shield%20of%20California) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)
@@ -286,5 +286,5 @@ Healthcare. Single-payer, COVID contracts, PBM regulation
 - Allstate Lending Group, Inc. (2026) - United States Bankruptcy Court, C.D. California
 - Anderson v. Blue Shield of California (2026) - District Court, S.D. California
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Blue%20Shield%20of%20California%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Blue%20Shield%20of%20California%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->

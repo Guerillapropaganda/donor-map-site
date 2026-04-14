@@ -40,7 +40,7 @@ Author of Drift: The Unmooring of American Military Power (2012), Blowout: Corru
 > [!money]
 > Correction from initial profile data: $100 total in two ActBlue contributions, both from 2005–2006, both from PIQUANT LLC (Maddow's media production company). This is pre-MSNBC career, made during her Air America Radio years (2004–2010). Since joining MSNBC in 2008, zero documented federal political contributions across 18 years and a $25–30M/year salary. The analytical significance: the highest-paid progressive media figure in America made $100 in political donations during her pre-MSNBC independent media phase, then zero in the 18 years of corporate MSNBC employment. The $0 contribution rate while earning $25–30M/year is the story, the silence itself demonstrates how corporate media salaries eliminate the need for political engagement at the individual level. MSNBC is her political engagement vehicle.
 
-- [FEC: Rachel Maddow individual contributions (2 results, $100)](https://www.fec.gov/data/receipts/?contributor_name=rachel+maddow) (Tier 1)
+- [FEC: Rachel Maddow individual contributions (2 results, $100)](https://www.fec.gov/data/receipts/?contributor_name=rachel+maddow) (Tier 1) (VERIFIED)
 
 > **Note on API results:** The FEC API search for "rachel maddow" returns 2 results ($100 total), both from PIQUANT LLC (Maddow's media production company), 2005-2006 (Air America Radio era). All contributions verified as belonging to the MSNBC host. No disambiguation needed.
 
@@ -164,15 +164,15 @@ Rachel Maddow represents **the corporate progressive media model**, the highest-
 
 ### Sources
 
-- [FEC Individual Contributions: Rachel Maddow (0 results, 2015-2026)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=rachel+maddow&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1)
-- [Wikipedia: The Rachel Maddow Show](https://en.wikipedia.org/wiki/The_Rachel_Maddow_Show) (Tier 3)
-- [The Daily Beast: "Inside the Massive MSNBC Deal Paying Rachel Maddow to Work Less"](https://www.thedailybeast.com/inside-the-massive-msnbc-deal-paying-rachel-maddow-to-work-less/) (Tier 2)
-- [TheWrap: "Rachel Maddow Nets $30 Million Annually in New MSNBC Deal" (2024)](https://www.thewrap.com/maddow-deal-30-million-2024/) (Tier 2)
-- [Variety: "MSNBC Faces Potential for Big Changes in Comcast Cable Spin-Off" (Nov 2024)](https://variety.com/2024/tv/news/msnbc-faces-big-changes-comcast-cable-spin-off-rachel-maddow-mark-lazarus-1236215502/) (Tier 2)
-- [Slate: "Rachel Maddow's Post-Mueller Investigation Wall of Crazy" (Mar 2019)](https://slate.com/culture/2019/03/rachel-maddow-mueller-report-trump-barr.html) (Tier 2)
-- [FAIR: "After 25 Years, There's a Reason MSNBC Can't Look Back"](https://fair.org/home/after-25-years-theres-a-reason-msnbc-cant-look-back/) (Tier 2)
-- [Wikipedia: MS NOW (formerly MSNBC)](https://en.wikipedia.org/wiki/MS_NOW) (Tier 3)
-- [New York Sun: "Defiant Rachel Maddow Returns to One-Day-a-Week Work Schedule Despite $25 Million Salary, MSNBC Layoffs"](https://www.nysun.com/article/defiant-rachel-maddow-returns-to-one-day-a-week-work-schedule-despite-25-million-salary-msnbc-lay-offs) (Tier 2)
-- [Philadelphia Inquirer: "MSNBC is getting a new name ahead of NBC split" (Aug 2025)](https://www.inquirer.com/entertainment/tv/msnbc-new-name-msnow-rachel-maddow-20250818.html) (Tier 2)
+- [FEC Individual Contributions: Rachel Maddow (0 results, 2015-2026)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=rachel+maddow&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1) (VERIFIED)
+- [Wikipedia: The Rachel Maddow Show](https://en.wikipedia.org/wiki/The_Rachel_Maddow_Show) (Tier 3) (VERIFIED)
+- [The Daily Beast: "Inside the Massive MSNBC Deal Paying Rachel Maddow to Work Less"](https://www.thedailybeast.com/inside-the-massive-msnbc-deal-paying-rachel-maddow-to-work-less/) (Tier 2) (VERIFIED)
+- [TheWrap: "Rachel Maddow Nets $30 Million Annually in New MSNBC Deal" (2024)](https://www.thewrap.com/maddow-deal-30-million-2024/) (Tier 2) (VERIFIED)
+- [Variety: "MSNBC Faces Potential for Big Changes in Comcast Cable Spin-Off" (Nov 2024)](https://variety.com/2024/tv/news/msnbc-faces-big-changes-comcast-cable-spin-off-rachel-maddow-mark-lazarus-1236215502/) (Tier 2) (VERIFIED)
+- [Slate: "Rachel Maddow's Post-Mueller Investigation Wall of Crazy" (Mar 2019)](https://slate.com/culture/2019/03/rachel-maddow-mueller-report-trump-barr.html) (Tier 2) (VERIFIED)
+- [FAIR: "After 25 Years, There's a Reason MSNBC Can't Look Back"](https://fair.org/home/after-25-years-theres-a-reason-msnbc-cant-look-back/) (Tier 2) (VERIFIED)
+- [Wikipedia: MS NOW (formerly MSNBC)](https://en.wikipedia.org/wiki/MS_NOW) (Tier 3) (VERIFIED)
+- [New York Sun: "Defiant Rachel Maddow Returns to One-Day-a-Week Work Schedule Despite $25 Million Salary, MSNBC Layoffs"](https://www.nysun.com/article/defiant-rachel-maddow-returns-to-one-day-a-week-work-schedule-despite-25-million-salary-msnbc-lay-offs) (Tier 2) (VERIFIED)
+- [Philadelphia Inquirer: "MSNBC is getting a new name ahead of NBC split" (Aug 2025)](https://www.inquirer.com/entertainment/tv/msnbc-new-name-msnow-rachel-maddow-20250818.html) (Tier 2) (VERIFIED)
 ---
 

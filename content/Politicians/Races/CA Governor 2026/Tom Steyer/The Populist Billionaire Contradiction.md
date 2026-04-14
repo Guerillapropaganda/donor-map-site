@@ -87,6 +87,6 @@ Steyer's 2020 presidential campaign tested this exact model at the national leve
 
 ### Sources
 
-- [National Nurses United: California Nurses Association endorses Tom Steyer for governor](https://www.nationalnursesunited.org/press/california-nurses-association-endorses-tom-steyer-for-governor-of-california) (Tier 1)
-- [KPBS: California's powerful labor forces are divided on who should be the state's next governor](https://www.kpbs.org/news/politics/2026/03/19/californias-powerful-labor-forces-are-divided-on-who-should-be-the-states-next-governor) (Tier 2)
-- [CapRadio: California's powerful labor forces are divided on who should be the state's next governor](https://www.capradio.org/articles/2026/03/18/californias-powerful-labor-forces-are-divided-on-who-should-be-the-states-next-governor) (Tier 2)
+- [National Nurses United: California Nurses Association endorses Tom Steyer for governor](https://www.nationalnursesunited.org/press/california-nurses-association-endorses-tom-steyer-for-governor-of-california) (Tier 1) (VERIFIED)
+- [KPBS: California's powerful labor forces are divided on who should be the state's next governor](https://www.kpbs.org/news/politics/2026/03/19/californias-powerful-labor-forces-are-divided-on-who-should-be-the-states-next-governor) (Tier 2) (VERIFIED)
+- [CapRadio: California's powerful labor forces are divided on who should be the state's next governor](https://www.capradio.org/articles/2026/03/18/californias-powerful-labor-forces-are-divided-on-who-should-be-the-states-next-governor) (Tier 2) (VERIFIED)

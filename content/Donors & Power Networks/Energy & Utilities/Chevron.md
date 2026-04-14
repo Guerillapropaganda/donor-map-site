@@ -218,19 +218,19 @@ Environment, oil production, refinery regulation, environmental justice, frackin
 
 ### Sources
 
-- [OpenSecrets: Chevron PAC contributions by cycle](https://www.opensecrets.org/orgs/chevron/totals?id=D000000015) (Tier 1)
-- [Senate LDA Filings: Chevron federal lobbying 2000–2024](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [OpenSecrets: Chevron 2024 recipients](https://www.opensecrets.org/orgs/chevron/recipients?id=D000000015) (Tier 1)
-- [East Bay Times: 2012 Richmond refinery fire and settlement](https://www.eastbaytimes.com/2013/02/14/chevron-agrees-to-pay-90-million-to-settle-richmond-refinery-fire-claims/) (Tier 2)
-- [ProPublica: Chevron California cap-and-trade lobbying and union quid pro quo](https://www.propublica.org/article/cap-and-trade-is-supposed-to-solve-climate-change-but-oil-and-gas-company-emissions-are-up) (Tier 2)
-- [Richmond Confidential: Chevron California spending since 2009](https://richmondconfidential.org/2016/11/23/new-report-criticizes-chevrons-spending-in-california-politics/) (Tier 2)
-- [Daily Kos/Climate Center: California oil lobbying 2025](https://www.dailykos.com/stories/2026/2/10/2368011/-Chevron-and-Big-Oil-spend-a-total-of-34-million-to-lobby-california-officials-in-2025) (Tier 2)
-- [ProPublica: CARE front group cap-and-trade lobbying](https://www.propublica.org/article/cap-and-trade-is-supposed-to-solve-climate-change-but-oil-and-gas-company-emissions-are-up) (Tier 2)
-- [New York Times: Chevron Myanmar sanctions lobbying](https://www.nytimes.com/2021/04/22/us/politics/chevron-myanmar-sanctions.html) (Tier 2)
-- [ICIJ: Chevron/ExxonMobil Cardin-Lugar anti-corruption rule opposition](https://www.icij.org/investigations/caspian-cabals/exxon-chevron-oil-lobbying-kazakhstan-pipelines/) (Tier 2)
-- [DeSmog: Chevron cultural sponsorship as lobbying tool](https://www.desmog.com/2025/05/20/revealed-now-theres-proof-that-the-fossil-fuel-industry-uses-cultural-sponsorships-to-block-climate-action/) (Tier 2)
-- [Yahoo Finance/Oilprice.com: Chevron 2026 letter to Newsom on cap-and-invest](https://finance.yahoo.com/news/chevron-warns-california-cap-invest-014859704.html) (Tier 2) (UNVERIFIED)
-- [FPPC: Chevron PAC filings](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1)
+- ~~[OpenSecrets: Chevron PAC contributions by cycle](https://www.opensecrets.org/orgs/chevron/totals?id=D000000015)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Senate LDA Filings: Chevron federal lobbying 2000–2024](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [OpenSecrets: Chevron 2024 recipients](https://www.opensecrets.org/orgs/chevron/recipients?id=D000000015) (Tier 1) (VERIFIED)
+- ~~[East Bay Times: 2012 Richmond refinery fire and settlement](https://www.eastbaytimes.com/2013/02/14/chevron-agrees-to-pay-90-million-to-settle-richmond-refinery-fire-claims/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [ProPublica: Chevron California cap-and-trade lobbying and union quid pro quo](https://www.propublica.org/article/cap-and-trade-is-supposed-to-solve-climate-change-but-oil-and-gas-company-emissions-are-up) (Tier 2) (VERIFIED)
+- [Richmond Confidential: Chevron California spending since 2009](https://richmondconfidential.org/2016/11/23/new-report-criticizes-chevrons-spending-in-california-politics/) (Tier 2) (VERIFIED)
+- [Daily Kos/Climate Center: California oil lobbying 2025](https://www.dailykos.com/stories/2026/2/10/2368011/-Chevron-and-Big-Oil-spend-a-total-of-34-million-to-lobby-california-officials-in-2025) (Tier 2) (VERIFIED)
+- [ProPublica: CARE front group cap-and-trade lobbying](https://www.propublica.org/article/cap-and-trade-is-supposed-to-solve-climate-change-but-oil-and-gas-company-emissions-are-up) (Tier 2) (VERIFIED)
+- ~~[New York Times: Chevron Myanmar sanctions lobbying](https://www.nytimes.com/2021/04/22/us/politics/chevron-myanmar-sanctions.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [ICIJ: Chevron/ExxonMobil Cardin-Lugar anti-corruption rule opposition](https://www.icij.org/investigations/caspian-cabals/exxon-chevron-oil-lobbying-kazakhstan-pipelines/) (Tier 2) (VERIFIED)
+- [DeSmog: Chevron cultural sponsorship as lobbying tool](https://www.desmog.com/2025/05/20/revealed-now-theres-proof-that-the-fossil-fuel-industry-uses-cultural-sponsorships-to-block-climate-action/) (Tier 2) (VERIFIED)
+- [Yahoo Finance/Oilprice.com: Chevron 2026 letter to Newsom on cap-and-invest](https://finance.yahoo.com/news/chevron-warns-california-cap-invest-014859704.html) (Tier 2) (VERIFIED) (UNVERIFIED)
+- [FPPC: Chevron PAC filings](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1) (VERIFIED)
 
 ---
 
@@ -264,7 +264,7 @@ Environment, oil production, refinery regulation, environmental justice, frackin
 - Moses v. Syngenta AG (2026) — District Court, S.D. Illinois
 - Clark v. Syngenta AG (2026) — District Court, S.D. Illinois
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Chevron%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Chevron%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Vehicle Safety (NHTSA)
@@ -282,7 +282,7 @@ Environment, oil production, refinery regulation, environmental justice, frackin
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Chevron) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Chevron) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -295,7 +295,7 @@ Environment, oil production, refinery regulation, environmental justice, frackin
 | Total Expenses | $184K |
 | Net Assets | $781K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 510189525](https://projects.propublica.org/nonprofits/organizations/510189525) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 510189525](https://projects.propublica.org/nonprofits/organizations/510189525) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -324,7 +324,7 @@ Environment, oil production, refinery regulation, environmental justice, frackin
 | Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals) (424720) | $78K |
 | Support Activities for Oil and Gas Operations (213112) | $54K |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 <!-- auto:usaspending-subawards pending-merge 2026-04-10 -->
@@ -394,7 +394,7 @@ THE OBJECTIVE  |
 | $158K | Department of Homeland Security | PORT SECURITY GRANT PROGRAM |
 | $0 | Department of Homeland Security | PORT SECURITY GRANT PROGRAM |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/deb1d465-49fc-877e-6f83-066c774fb2f5-C/latest) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/deb1d465-49fc-877e-6f83-066c774fb2f5-C/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Lobbying Activity
@@ -413,7 +413,7 @@ THE OBJECTIVE  |
 
 **Agencies contacted:** Agriculture, Dept of (USDA), Army, Dept of (Corps of Engineers), Bureau of Land Management (BLM), Commerce, Dept of (DOC), Defense, Dept of (DOD), Energy, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP), Federal Aviation Administration (FAA), Federal Energy Regulatory Commission (FERC) +13 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Chevron) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Chevron) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)
@@ -438,7 +438,7 @@ THE OBJECTIVE  |
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [254900JAIX71VO1NS489](https://search.gleif.org/#/record/254900JAIX71VO1NS489) |
+| LEI | [254900JAIX71VO1NS489](https://search.gleif.org/#/record/254900JAIX71VO1NS489) (VERIFIED) |
 | Legal Name | CHEVRON LIMITED |
 | Jurisdiction | MT |
 | Entity Status | ACTIVE |
@@ -446,7 +446,7 @@ THE OBJECTIVE  |
 | Registration | ISSUED |
 | Last Updated | 2026-01-08T13:57:38Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### FTC Enforcement & Merger Review
@@ -464,20 +464,20 @@ THE OBJECTIVE  |
 
 **Recent enforcement actions (historical):**
 
-- [Tesoro / Chevron](http://www.ftc.gov/os/caselist/1310052/index.shtm) (2013-06-17) — Energy � Petroleum
-- [Chevron Texaco Corporation / Unocal Corporation](http://www.ftc.gov/os/caselist/0510125/0510125.shtm) (2005-06-10) — Energy � Petroleum
-- [Chevron Corp. / Texaco, Inc.](http://www.ftc.gov/os/caselist/c4023.shtm) (2001-09-07) — Energy � Petroleum
-- [Chevron Corp. / NGC](http://www.ftc.gov/os/caselist/c3697.shtm) (1996-08-27) — Energy � Natural Gas
+- [Tesoro / Chevron](http://www.ftc.gov/os/caselist/1310052/index.shtm) (NEEDS REVIEW) (2013-06-17) — Energy � Petroleum
+- [Chevron Texaco Corporation / Unocal Corporation](http://www.ftc.gov/os/caselist/0510125/0510125.shtm) (NEEDS REVIEW) (2005-06-10) — Energy � Petroleum
+- [Chevron Corp. / Texaco, Inc.](http://www.ftc.gov/os/caselist/c4023.shtm) (NEEDS REVIEW) (2001-09-07) — Energy � Petroleum
+- [Chevron Corp. / NGC](http://www.ftc.gov/os/caselist/c3697.shtm) (NEEDS REVIEW) (1996-08-27) — Energy � Natural Gas
 
 **Recent HSR merger filings (early terminations granted):**
 
-- [EQT Corporation → Chevron Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20210197) (2020-11-12)
-- [Chevron Corporation → Noble Energy, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20201312) (2020-08-20)
-- [Chevron Corporation → Petroleo Brasileiro S.A.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20190817) (2019-02-15)
-- [Phillips 66 → Chevron Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20161696) (2016-09-23)
-- [One Rock Capital Partners, LP → Chevron Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20161137) (2016-05-24)
+- [EQT Corporation → Chevron Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20210197) (VERIFIED) (2020-11-12)
+- [Chevron Corporation → Noble Energy, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20201312) (VERIFIED) (2020-08-20)
+- [Chevron Corporation → Petroleo Brasileiro S.A.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20190817) (VERIFIED) (2019-02-15)
+- [Phillips 66 → Chevron Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20161696) (VERIFIED) (2016-09-23)
+- [One Rock Capital Partners, LP → Chevron Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20161137) (VERIFIED) (2016-05-24)
 
-> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Chevron).
+> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Chevron) (VERIFIED).
 
-- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Chevron) (Tier 1)
+- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Chevron) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->

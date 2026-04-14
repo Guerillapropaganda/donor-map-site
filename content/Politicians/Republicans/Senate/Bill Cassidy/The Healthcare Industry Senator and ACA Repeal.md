@@ -38,8 +38,8 @@ The structural irony: the petrochemical industry that funds Cassidy's campaigns 
 
 ### Sources
 
-- [Congress.gov: Bill Cassidy donor profile](https://www.congress.gov/search?q=Bill%20Cassidy&searchResultViewType=expanded) (Tier 1)
-- [Congress.gov: Graham-Cassidy-Heller-Johnson Proposal hearing](https://www.congress.gov/event/115th-congress/senate-event/LC60810) (Tier 1)
-- [Senate Finance Committee: Healthcare hearings](https://www.finance.senate.gov/hearings) (Tier 1)
-- [Ballotpedia: Bill Cassidy](https://ballotpedia.org/Bill_Cassidy) (Tier 3)
+- ~~[Congress.gov: Bill Cassidy donor profile](https://www.congress.gov/search?q=Bill%20Cassidy&searchResultViewType=expanded)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Graham-Cassidy-Heller-Johnson Proposal hearing](https://www.congress.gov/event/115th-congress/senate-event/LC60810)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Senate Finance Committee: Healthcare hearings](https://www.finance.senate.gov/hearings) (Tier 1) (VERIFIED)
+- [Ballotpedia: Bill Cassidy](https://ballotpedia.org/Bill_Cassidy) (Tier 3) (VERIFIED)
 

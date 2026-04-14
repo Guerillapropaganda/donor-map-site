@@ -25,7 +25,7 @@ Katie Halper is a freelance journalist, podcaster, and progressive media persona
 
 No FEC individual contributions found. The FEC API returns 0 results for "HALPER, KATIE" and "HALPER, KATE", no contributions on record. A progressive journalist fired for Israel/Palestine coverage who makes $0 in traceable political contributions, her political influence operates entirely through journalism and audience reach, not campaign finance. The $0 mirrors the left-media precarity pattern: figures who lack institutional salary also lack disposable income for political donations.
 
-- [FEC: Katie Halper individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=HALPER%2C+KATIE) (Tier 1)
+- [FEC: Katie Halper individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=HALPER%2C+KATIE) (Tier 1) (VERIFIED)
 
 ### The Funding Model
 
@@ -149,12 +149,12 @@ Patreon subscriptions (60-70% of podcast income), freelance journalism (20-30%),
 
 ### Sources
 
-- [Katie Halper Violated Media Taboo Against Israel Criticism. FAIR](https://fair.org/home/katie-halper-violated-media-taboo-against-israel-criticism/) (Tier 2) (Chrome verified 2026-03-27)
-- [Left-Wing Journalist Katie Halper Has Been Fired for Calling Israel an Apartheid State. Jacobin](https://jacobin.com/2022/10/hill-rising-katie-halper-israel-palestine-fired) (Tier 2) (Chrome verified 2026-03-27)
-- [Katie Halper - Wikipedia](https://en.wikipedia.org/wiki/Katie_Halper) (Tier 2) (Chrome verified 2026-03-27)
-- [Useful Idiots with Katie Halper and Aaron Maté. Apple Podcasts](https://podcasts.apple.com/bz/podcast/useful-idiots-with-katie-halper-and-aaron-mat%C3%A9/id1476110521) (Tier 2) (Chrome verified 2026-03-27)
-- [Meet the Censored: Katie Halper. ScheerPost](https://scheerpost.com/2022/10/06/meet-the-censored-katie-halper/) (Tier 2) (Chrome verified 2026-03-27)
-- [Katie Halper Fired Over Israel Criticism. The Electronic Intifada](https://electronicintifada.net/blogs/nora-barrows-friedman/podcast-ep-67-katie-halper-fired-over-israel-criticism) (Tier 2) (Chrome verified 2026-03-27)
-- [Nexstar Media Group acquires The Hill. Media industry sources](https://www.nexstar.tv/) (Tier 2) (Chrome verified 2026-03-27)
+- [Katie Halper Violated Media Taboo Against Israel Criticism. FAIR](https://fair.org/home/katie-halper-violated-media-taboo-against-israel-criticism/) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
+- [Left-Wing Journalist Katie Halper Has Been Fired for Calling Israel an Apartheid State. Jacobin](https://jacobin.com/2022/10/hill-rising-katie-halper-israel-palestine-fired) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
+- [Katie Halper - Wikipedia](https://en.wikipedia.org/wiki/Katie_Halper) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
+- [Useful Idiots with Katie Halper and Aaron Maté. Apple Podcasts](https://podcasts.apple.com/bz/podcast/useful-idiots-with-katie-halper-and-aaron-mat%C3%A9/id1476110521) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
+- [Meet the Censored: Katie Halper. ScheerPost](https://scheerpost.com/2022/10/06/meet-the-censored-katie-halper/) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
+- [Katie Halper Fired Over Israel Criticism. The Electronic Intifada](https://electronicintifada.net/blogs/nora-barrows-friedman/podcast-ep-67-katie-halper-fired-over-israel-criticism) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
+- [Nexstar Media Group acquires The Hill. Media industry sources](https://www.nexstar.tv/) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
 - [FEC: Katie Halper individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=HALPER%2C+KATIE) (Tier 1)
 

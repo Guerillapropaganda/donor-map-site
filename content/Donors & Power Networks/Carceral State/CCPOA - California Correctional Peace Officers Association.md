@@ -342,5 +342,5 @@ The return on $2.9 million in Newsom contributions is $1.6 billion in contracts 
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=CCPOA%20-%20California%20Correctional%20Peace%20Officers%20Association) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=CCPOA%20-%20California%20Correctional%20Peace%20Officers%20Association) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->

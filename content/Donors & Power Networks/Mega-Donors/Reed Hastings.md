@@ -141,10 +141,10 @@ The Hastings funding also shows **donor-class override of constituency interests
 
 ### Sources
 
-- [OpenSecrets: Reed Hastings donor profile](https://www.opensecrets.org/individuals/reed-hastings/summary) (Tier 1)
-- [Capital & Main: Reed Hastings. Netflix CEO Goes Nuclear on Public Schools](https://capitalandmain.com/reed-hastings-the-disrupter-1101) (Tier 2)
-- [CalMatters: Education foes fight to a draw in Sacramento](https://calmatters.org/category/education/2017/09/education-foes-fight-draw-sacramento/) (Tier 2)
-- [Ballotpedia: Charter school funding by mega-donors](https://ballotpedia.org/School_choice) (Tier 3)
+- ~~[OpenSecrets: Reed Hastings donor profile](https://www.opensecrets.org/individuals/reed-hastings/summary)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Capital & Main: Reed Hastings. Netflix CEO Goes Nuclear on Public Schools](https://capitalandmain.com/reed-hastings-the-disrupter-1101) (Tier 2) (VERIFIED)
+- ~~[CalMatters: Education foes fight to a draw in Sacramento](https://calmatters.org/category/education/2017/09/education-foes-fight-draw-sacramento/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Ballotpedia: Charter school funding by mega-donors](https://ballotpedia.org/School_choice) (Tier 3) (VERIFIED)
 
 ---
 
@@ -178,7 +178,7 @@ The Hastings funding also shows **donor-class override of constituency interests
 - Sun v. Bloomberg, L.P. (2025) — District Court, D. Delaware
 - In re: Kotevski (2025) — Court of Appeals for the Tenth Circuit
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Reed%20Hastings%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Reed%20Hastings%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### SEC Filing Activity
@@ -196,7 +196,7 @@ The Hastings funding also shows **donor-class override of constituency interests
 - 2018-04-23 — **DEF 14A**: DEF 14A
 - 2007-03-27 — **DEF 14A**: DEFINITIVE PROXY STATEMENT
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Reed%20Hastings%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Reed%20Hastings%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -211,10 +211,10 @@ The Hastings funding also shows **donor-class override of constituency interests
 | Agencies | Securities and Exchange Commission |
 
 **Recent regulatory activity:**
-- [Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Change Amending NYSE Arca Equities Rule 5.3(i)(3) To Amend the Requirements for the Dissemination of News in Compliance With the Exchange's Immediate Release Policy](https://www.federalregister.gov/documents/2016/08/31/2016-20881/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-and-immediate-effectiveness-of-proposed) (2016-08-31) — Securities and Exchange Commission
-- [Business and Financial Disclosure Required by Regulation S-K](https://www.federalregister.gov/documents/2016/04/22/2016-09056/business-and-financial-disclosure-required-by-regulation-s-k) (2016-04-22) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Change Amending NYSE Arca Equities Rule 5.3(i)(3) To Amend the Requirements for the Dissemination of News in Compliance With the Exchange's Immediate Release Policy](https://www.federalregister.gov/documents/2016/08/31/2016-20881/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-and-immediate-effectiveness-of-proposed) (VERIFIED) (2016-08-31) — Securities and Exchange Commission
+- [Business and Financial Disclosure Required by Regulation S-K](https://www.federalregister.gov/documents/2016/04/22/2016-09056/business-and-financial-disclosure-required-by-regulation-s-k) (VERIFIED) (2016-04-22) — Securities and Exchange Commission
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Reed%20Hastings%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Reed%20Hastings%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Campaign Finance (FEC)
@@ -239,5 +239,5 @@ The Hastings funding also shows **donor-class override of constituency interests
 | JEFFRIES VICTORY FUND | $550,000 | — |
 | HILLARY VICTORY FUND | $410,700 | — |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Reed%20Hastings) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Reed%20Hastings) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->

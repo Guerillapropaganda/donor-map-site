@@ -14,7 +14,7 @@ profiles:
 
 ## Bessent summons bank executives over Anthropic cyber risk
 
-**Source:** [The Hill](https://thehill.com/policy/technology/5826021-anthropic-mythos-model-risks/)
+**Source:** ~~[The Hill](https://thehill.com/policy/technology/5826021-anthropic-mythos-model-risks/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-10
 
 Treasury Secretary Scott Bessent and Federal Reserve Chair Jerome Powell brought together a group of bank executives this week to discuss cybersecurity concerns in the wake of Anthropic’s new Mythos model, multiple people familiar with the meeting told The Hill. The meeting, held at the Treasury Department on Tuesday, came as Anthropic announced its latest…

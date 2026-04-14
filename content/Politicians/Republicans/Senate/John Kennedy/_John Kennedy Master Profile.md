@@ -187,26 +187,26 @@ Kennedy's class position is the populist brand as capital shield. The folksy per
 | Bills Cosponsored | 0 |
 | Total Votes Cast | 1,836 |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/john_kennedy/406274) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/john_kennedy/406274) (Tier 1) (VERIFIED)
 
 <!-- auto:govtrack end -->
 
 ## Sources
 
-- [FEC Candidate: John Kennedy campaign finance summary](https://www.fec.gov/data/candidate/S0MD00069/) (Tier 1)
-- [FEC Candidate: John Kennedy industry breakdown 2024 cycle](https://www.fec.gov/data/candidate/S0MD00069/) (Tier 1)
-- [Congress.gov: John Kennedy member profile](https://www.congress.gov/member/john-kennedy/K000393) (Tier 1)
-- [Kennedy.senate.gov: Transparency in CFPB Cost-Benefit Analysis Act (2023)](https://www.kennedy.senate.gov/public/2023/5/kennedy-introduces-bill-to-protect-taxpayers-from-cfpb-bureaucracy) (Tier 1)
-- [Kennedy.senate.gov: Bill to repeal CFPB small business data rule (2025)](https://www.kennedy.senate.gov/public/2025/2/kennedy-champions-bill-to-repeal-woke-cfpb-rule-forcing-banks-to-collect-data-on-sex-ethnicity-from-small-businesses) (Tier 1)
-- [Kennedy.senate.gov: CFPB Pay Fairness Act (2025)](https://www.kennedy.senate.gov/public/2025/6/kennedy-champions-bill-to-end-the-cfpb-s-unfair-pay-advantage) (Tier 1)
-- [Human Rights Watch: US — Louisiana's Cancer Alley (2024)](https://www.hrw.org/news/2024/01/25/us-louisianas-cancer-alley) (Tier 2)
-- [NPR: EPA rule aims to cut cancer-causing air pollution from chemical plants (2024)](https://www.npr.org/2024/04/09/1243778467/for-communities-near-chemical-plants-epas-new-air-pollution-rule-spells-relief) (Tier 2)
-- [Inside Climate News: Cancer Alley — New Emissions Rules and Environmental Justice Legal Challenges (2024)](https://insideclimatenews.org/news/10052024/louisiana-cancer-alley-emission-rules-environmental-justice/) (Tier 2)
-- [ProPublica: EPA Finalizes New Standards for Cancer-Causing Chemicals](https://www.propublica.org/article/epa-finalizes-new-standards-for-cancer-causing-chemicals) (Tier 2)
-- [NCLC: Nearly Every GOP Senator Votes Against CFPB Overdraft Fee Rule](https://www.nclc.org/nearly-every-gop-senator-votes-to-saddle-struggling-families-with-excessive-overdraft-fees/) (Tier 2)
-- [Common Dreams: Senators requesting big oil bailouts received millions in oil donations (2020)](https://www.commondreams.org/newswire/2020/04/02/senators-requesting-big-oil-bailouts-received-millions-big-oil-donations) (Tier 2)
-- [ProPublica: Sacrifice Zones series (Cancer Alley)](https://www.propublica.org/series/sacrifice-zones) (Tier 2)
-- [Ballotpedia: John Kennedy (Louisiana)](https://ballotpedia.org/John_Kennedy_(Louisiana)) (Tier 3)
+- [FEC Candidate: John Kennedy campaign finance summary](https://www.fec.gov/data/candidate/S0MD00069/) (Tier 1) (VERIFIED)
+- [FEC Candidate: John Kennedy industry breakdown 2024 cycle](https://www.fec.gov/data/candidate/S0MD00069/) (Tier 1) (VERIFIED)
+- [Congress.gov: John Kennedy member profile](https://www.congress.gov/member/john-kennedy/K000393) (Tier 1) (VERIFIED)
+- [Kennedy.senate.gov: Transparency in CFPB Cost-Benefit Analysis Act (2023)](https://www.kennedy.senate.gov/public/2023/5/kennedy-introduces-bill-to-protect-taxpayers-from-cfpb-bureaucracy) (Tier 1) (VERIFIED)
+- [Kennedy.senate.gov: Bill to repeal CFPB small business data rule (2025)](https://www.kennedy.senate.gov/public/2025/2/kennedy-champions-bill-to-repeal-woke-cfpb-rule-forcing-banks-to-collect-data-on-sex-ethnicity-from-small-businesses) (Tier 1) (VERIFIED)
+- [Kennedy.senate.gov: CFPB Pay Fairness Act (2025)](https://www.kennedy.senate.gov/public/2025/6/kennedy-champions-bill-to-end-the-cfpb-s-unfair-pay-advantage) (Tier 1) (VERIFIED)
+- [Human Rights Watch: US — Louisiana's Cancer Alley (2024)](https://www.hrw.org/news/2024/01/25/us-louisianas-cancer-alley) (Tier 2) (VERIFIED)
+- [NPR: EPA rule aims to cut cancer-causing air pollution from chemical plants (2024)](https://www.npr.org/2024/04/09/1243778467/for-communities-near-chemical-plants-epas-new-air-pollution-rule-spells-relief) (Tier 2) (VERIFIED)
+- [Inside Climate News: Cancer Alley — New Emissions Rules and Environmental Justice Legal Challenges (2024)](https://insideclimatenews.org/news/10052024/louisiana-cancer-alley-emission-rules-environmental-justice/) (Tier 2) (VERIFIED)
+- [ProPublica: EPA Finalizes New Standards for Cancer-Causing Chemicals](https://www.propublica.org/article/epa-finalizes-new-standards-for-cancer-causing-chemicals) (Tier 2) (VERIFIED)
+- [NCLC: Nearly Every GOP Senator Votes Against CFPB Overdraft Fee Rule](https://www.nclc.org/nearly-every-gop-senator-votes-to-saddle-struggling-families-with-excessive-overdraft-fees/) (Tier 2) (VERIFIED)
+- [Common Dreams: Senators requesting big oil bailouts received millions in oil donations (2020)](https://www.commondreams.org/newswire/2020/04/02/senators-requesting-big-oil-bailouts-received-millions-big-oil-donations) (Tier 2) (VERIFIED)
+- [ProPublica: Sacrifice Zones series (Cancer Alley)](https://www.propublica.org/series/sacrifice-zones) (Tier 2) (VERIFIED)
+- [Ballotpedia: John Kennedy (Louisiana)](https://ballotpedia.org/John_Kennedy_(Louisiana) (VERIFIED)) (Tier 3)
 
 ### Congressional Stock Trades (STOCK Act)
 <!-- auto:stock-trades start -->
@@ -227,7 +227,7 @@ Kennedy's class position is the populist brand as capital shield. The folksy per
 | 10/11/2018 | MTUM | Purchase | $1,001 - $15,000 | Self |
 | 10/09/2018 | -- | exchange | $1,001 - $15,000 | Self |
 
-- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
 ### Campaign Finance (FEC)
@@ -237,7 +237,7 @@ Kennedy's class position is the populist brand as capital shield. The folksy per
 | Election Cycle | 1980 |
 | Cash on Hand | 0.00 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S0MD00069/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S0MD00069/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Influence Network (Cross-Reference)
@@ -280,7 +280,7 @@ Kennedy's class position is the populist brand as capital shield. The folksy per
 
 **Sources**
 
-- [GovTrack: John Kennedy](https://www.govtrack.us/congress/members/406274) (Tier 1)
+- [GovTrack: John Kennedy](https://www.govtrack.us/congress/members/406274) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-09 -->

@@ -93,13 +93,13 @@ He is not compromised in the transactional sense. He believes in progressive val
 
 ## Sources
 
-- [Minnesota Secretary of State Campaign Finance: Tim Walz](https://www.sos.state.mn.us/) (Tier 1)
-- [Open Secrets: Tim Walz Political Profile](https://www.opensecrets.org/politicians/tim-walz) (Tier 1)
-- [House Clerk: Tim Walz Congressional Voting Record](https://clerk.house.gov/) (Tier 1)
-- [Minnesota State Legislature: Tim Walz Bills](https://www.revisor.mn.gov/) (Tier 1)
-- [FEC 2024 Vice Presidential Campaign Finance](https://www.fec.gov/data/candidate/P00010802/) (Tier 1)
-- [CalMatters: Harris-Walz Ticket Donor Analysis](https://calmatters.org/) (Tier 2)
-- [Minnesota Public Radio: Walz Governorship Policy Record](https://www.mprnews.org/) (Tier 2)
+- [Minnesota Secretary of State Campaign Finance: Tim Walz](https://www.sos.state.mn.us/) (Tier 1) (NEEDS REVIEW)
+- ~~[Open Secrets: Tim Walz Political Profile](https://www.opensecrets.org/politicians/tim-walz)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [House Clerk: Tim Walz Congressional Voting Record](https://clerk.house.gov/) (Tier 1) (VERIFIED)
+- [Minnesota State Legislature: Tim Walz Bills](https://www.revisor.mn.gov/) (Tier 1) (VERIFIED)
+- ~~[FEC 2024 Vice Presidential Campaign Finance](https://www.fec.gov/data/candidate/P00010802/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [CalMatters: Harris-Walz Ticket Donor Analysis](https://calmatters.org/) (Tier 2) (VERIFIED)
+- [Minnesota Public Radio: Walz Governorship Policy Record](https://www.mprnews.org/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -123,7 +123,7 @@ He is not compromised in the transactional sense. He believes in progressive val
 | 2012 | $1,976,106 | $787,174 | $780,173 |
 | 2010 | $2,163,759 | $952,848 | $751,771 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6MN01174/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6MN01174/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 <!-- auto:fec-politician pending-merge 2026-04-13 -->
@@ -170,22 +170,22 @@ Timothy James Walz is an American politician, former educator, and Army National
 
 | Fact | Value |
 |------|-------|
-| Wikidata ID | [Q2434360](https://www.wikidata.org/wiki/Q2434360) |
+| Wikidata ID | [Q2434360](https://www.wikidata.org/wiki/Q2434360) (VERIFIED) |
 | Description | American politician (born 1964) |
 | Born | 1964-04-06 |
-| Website | [https://kamalaharris.com/meet-governor-tim-walz/](https://kamalaharris.com/meet-governor-tim-walz/) |
-| X/Twitter | [@GovTimWalz](https://x.com/GovTimWalz) |
-| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Tim_Walz_official_photo.jpg?width=300) |
+| Website | ~~[https://kamalaharris.com/meet-governor-tim-walz/](https://kamalaharris.com/meet-governor-tim-walz/)~~ (URL broken, archived by Ops) |
+| X/Twitter | [@GovTimWalz](https://x.com/GovTimWalz) (VERIFIED) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Tim_Walz_official_photo.jpg?width=300) (NEEDS REVIEW) |
 
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/Tim_Walz) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q2434360) (Tier 2)
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Tim_Walz) (Tier 3) (VERIFIED)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q2434360) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Tim Walz](https://www.congress.gov/member/e000179) (Tier 1)
+- ~~[Congress.gov: Tim Walz](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 
 ### Campaign Finance Summary (FEC)

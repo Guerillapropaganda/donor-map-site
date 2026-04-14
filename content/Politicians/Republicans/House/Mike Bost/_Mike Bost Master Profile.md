@@ -145,23 +145,23 @@ The class structure here is institutional, not financial. Bost's chairmanship de
 
 ## Sources
 
-- [Congress.gov: Mike Bost donor profile](https://www.congress.gov/search?q=Mike%20Bost&searchResultViewType=expanded) (Tier 1)
-- [Congress.gov: Mike Bost](https://www.congress.gov/member/mike-bost/B001295) (Tier 1)
-- [House Veterans' Affairs Committee: Chairman Bost](https://veterans.house.gov/about/chairman.htm) (Tier 1)
-- [Bost.house.gov: Biography](https://bost.house.gov/biography) (Tier 1)
-- [Bost.house.gov: Health Care for Burn Pits Veterans Act](https://bost.house.gov/press-releases?id=B63A32F9-4E66-4024-9956-358D638F53D9) (Tier 1)
-- [Stars and Stripes: Lawmakers consider 27 bills to modernize VA programs](https://www.stripes.com/veterans/2026-03-18/house-veterans-committee-considers-27-bills-21109076.html) (Tier 2)
-- [St. Louis Public Radio: Bost eyes modernizing VA as chairman](https://www.stlpr.org/government-politics-issues/2024-12-11/illinois-representative-mike-bost-veterans-affairs-house-chair-reelection) (Tier 2)
-- [Military.com: 83,000 VA employees slated to be fired by Musk's DOGE](https://www.military.com/daily-news/2025/03/05/va-plans-fire-83000-employees-musks-help-eliminating-pact-act-staffing-increase.html) (Tier 2)
-- [American Legion: 83,000 VA workers targeted for layoffs](https://www.legion.org/information-center/news/veterans-healthcare/2025/march/83000-va-workers-targeted-for-layoffs-by-august) (Tier 2)
-- [Federal News Network: VA on track to cut 30K jobs](https://federalnewsnetwork.com/workforce/2025/07/va-on-track-to-cut-nearly-30k-jobs-by-end-of-fiscal-2025-eliminating-need-for-rif/) (Tier 2)
-- [Ballotpedia: Mike Bost](https://ballotpedia.org/Mike_Bost) (Tier 3)
-- [Wikipedia: Mike Bost](https://en.wikipedia.org/wiki/Mike_Bost) (Tier 3)
+- ~~[Congress.gov: Mike Bost donor profile](https://www.congress.gov/search?q=Mike%20Bost&searchResultViewType=expanded)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Congress.gov: Mike Bost](https://www.congress.gov/member/mike-bost/B001295) (Tier 1) (VERIFIED)
+- [House Veterans' Affairs Committee: Chairman Bost](https://veterans.house.gov/about/chairman.htm) (Tier 1) (VERIFIED)
+- [Bost.house.gov: Biography](https://bost.house.gov/biography) (Tier 1) (VERIFIED)
+- [Bost.house.gov: Health Care for Burn Pits Veterans Act](https://bost.house.gov/press-releases?id=B63A32F9-4E66-4024-9956-358D638F53D9) (Tier 1) (VERIFIED)
+- [Stars and Stripes: Lawmakers consider 27 bills to modernize VA programs](https://www.stripes.com/veterans/2026-03-18/house-veterans-committee-considers-27-bills-21109076.html) (Tier 2) (VERIFIED)
+- [St. Louis Public Radio: Bost eyes modernizing VA as chairman](https://www.stlpr.org/government-politics-issues/2024-12-11/illinois-representative-mike-bost-veterans-affairs-house-chair-reelection) (Tier 2) (VERIFIED)
+- [Military.com: 83,000 VA employees slated to be fired by Musk's DOGE](https://www.military.com/daily-news/2025/03/05/va-plans-fire-83000-employees-musks-help-eliminating-pact-act-staffing-increase.html) (Tier 2) (VERIFIED)
+- [American Legion: 83,000 VA workers targeted for layoffs](https://www.legion.org/information-center/news/veterans-healthcare/2025/march/83000-va-workers-targeted-for-layoffs-by-august) (Tier 2) (VERIFIED)
+- [Federal News Network: VA on track to cut 30K jobs](https://federalnewsnetwork.com/workforce/2025/07/va-on-track-to-cut-nearly-30k-jobs-by-end-of-fiscal-2025-eliminating-need-for-rif/) (Tier 2) (VERIFIED)
+- [Ballotpedia: Mike Bost](https://ballotpedia.org/Mike_Bost) (Tier 3) (VERIFIED)
+- [Wikipedia: Mike Bost](https://en.wikipedia.org/wiki/Mike_Bost) (Tier 3) (VERIFIED)
 
 
 ### Voting Record
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Mike Bost](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: Mike Bost](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->

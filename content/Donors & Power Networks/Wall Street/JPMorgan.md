@@ -191,17 +191,17 @@ The $13 billion DOJ settlement in 2013, the largest with a single entity in Amer
 
 ### Sources
 
-- [OpenSecrets: JPMorgan Chase & Co organizational profile and contribution totals](https://www.opensecrets.org/orgs/jpmorgan-chase-co/summary?id=d000000103) (Tier 1)
-- [OpenSecrets: JPMorgan Chase lobbying profile 1998–2024](https://www.opensecrets.org/orgs/jpmorgan-chase-co/lobbying?id=D000000103) (Tier 1)
-- [OpenSecrets: JPMorgan Chase PAC profile, 2024 cycle](https://www.opensecrets.org/political-action-committees-pacs/jpmorgan-chase-co/C00104299/summary/2024) (Tier 1)
-- [FEC: JPMORGAN CHASE & CO. FEDERAL POLITICAL ACTION COMMITTEE, committee overview](https://www.fec.gov/data/committee/C00104299/) (Tier 1)
-- [NPR: JPMorgan Chase Will Pay $13 Billion In Record Settlement](https://www.npr.org/sections/thetwo-way/2013/11/19/246143595/j-p-morgan-chase-will-pay-13-billion-in-record-settlement) (Tier 2)
-- [Federal Reserve: Enforcement action against JPMorgan Chase, $98.2 million fine](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20240314a.htm) (Tier 1)
-- [Fortune: Jamie Dimon has been floated for Treasury role by both parties](https://fortune.com/2024/08/23/jamie-dimon-kamala-harris-donald-trump-campaigns-treasury-secretary-position/) (Tier 2)
-- [NPR: Obama Taps William Daley As Chief Of Staff](https://www.npr.org/2011/01/06/132713962/Obama-Taps-William-Daley-As-Chief-Of-Staff) (Tier 2)
-- [ProPublica: JPMorgan Chase Bank Wrongly Charged 170,000 Customers Overdraft Fees. Federal Regulators Refused to Penalize It](https://www.propublica.org/article/jpmorgan-chase-bank-wrongly-charged-170-000-customers-overdraft-fees-federal-regulators-refused-to-penalize-it) (Tier 2)
-- [ProPublica: Eye on the Bailout. JPMorgan Chase](https://projects.propublica.org/bailout/entities/282-jpmorgan-chase) (Tier 1)
-- [DOJ: $13 billion settlement press release](https://www.justice.gov/archives/opa/pr/justice-department-federal-and-state-partners-secure-record-13-billion-global-settlement) (Tier 1)
+- [OpenSecrets: JPMorgan Chase & Co organizational profile and contribution totals](https://www.opensecrets.org/orgs/jpmorgan-chase-co/summary?id=d000000103) (Tier 1) (VERIFIED)
+- [OpenSecrets: JPMorgan Chase lobbying profile 1998–2024](https://www.opensecrets.org/orgs/jpmorgan-chase-co/lobbying?id=D000000103) (Tier 1) (VERIFIED)
+- [OpenSecrets: JPMorgan Chase PAC profile, 2024 cycle](https://www.opensecrets.org/political-action-committees-pacs/jpmorgan-chase-co/C00104299/summary/2024) (Tier 1) (VERIFIED)
+- [FEC: JPMORGAN CHASE & CO. FEDERAL POLITICAL ACTION COMMITTEE, committee overview](https://www.fec.gov/data/committee/C00104299/) (Tier 1) (VERIFIED)
+- [NPR: JPMorgan Chase Will Pay $13 Billion In Record Settlement](https://www.npr.org/sections/thetwo-way/2013/11/19/246143595/j-p-morgan-chase-will-pay-13-billion-in-record-settlement) (Tier 2) (VERIFIED)
+- [Federal Reserve: Enforcement action against JPMorgan Chase, $98.2 million fine](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20240314a.htm) (Tier 1) (VERIFIED)
+- [Fortune: Jamie Dimon has been floated for Treasury role by both parties](https://fortune.com/2024/08/23/jamie-dimon-kamala-harris-donald-trump-campaigns-treasury-secretary-position/) (Tier 2) (VERIFIED)
+- [NPR: Obama Taps William Daley As Chief Of Staff](https://www.npr.org/2011/01/06/132713962/Obama-Taps-William-Daley-As-Chief-Of-Staff) (Tier 2) (VERIFIED)
+- [ProPublica: JPMorgan Chase Bank Wrongly Charged 170,000 Customers Overdraft Fees. Federal Regulators Refused to Penalize It](https://www.propublica.org/article/jpmorgan-chase-bank-wrongly-charged-170-000-customers-overdraft-fees-federal-regulators-refused-to-penalize-it) (Tier 2) (VERIFIED)
+- [ProPublica: Eye on the Bailout. JPMorgan Chase](https://projects.propublica.org/bailout/entities/282-jpmorgan-chase) (Tier 1) (VERIFIED)
+- [DOJ: $13 billion settlement press release](https://www.justice.gov/archives/opa/pr/justice-department-federal-and-state-partners-secure-record-13-billion-global-settlement) (Tier 1) (VERIFIED)
 
 ---
 
@@ -221,7 +221,7 @@ The $13 billion DOJ settlement in 2013, the largest with a single entity in Amer
 
 **Agencies contacted:** HOUSE OF REPRESENTATIVES, Natl Economic Council (NEC), SENATE, Treasury, Dept of, White House Office
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=JPMorgan%20Chase) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=JPMorgan%20Chase) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)
@@ -294,13 +294,13 @@ The $13 billion DOJ settlement in 2013, the largest with a single entity in Amer
 
 **Notable filings:**
 
-- 2026-04-06 - **424B2**: [PRELIMINARY PRICING SUPPLEMENT](https://www.sec.gov/Archives/edgar/data/19617/000121390026040551/0001213900-26-040551-index.htm)
-- 2026-04-06 - **424B2**: [PRICING SUPPLEMENT](https://www.sec.gov/Archives/edgar/data/19617/000121390026040550/0001213900-26-040550-index.htm)
-- 2026-04-06 - **424B2**: [AMENDED & RESTATED PRICING SUPPLEMENT](https://www.sec.gov/Archives/edgar/data/19617/000121390026040539/0001213900-26-040539-index.htm)
-- 2026-04-06 - **424B3**: [FORM 424B3](https://www.sec.gov/Archives/edgar/data/19617/000121390026040538/0001213900-26-040538-index.htm)
-- 2026-04-06 - **424B2**: [PRICING SUPPLEMENT](https://www.sec.gov/Archives/edgar/data/19617/000121390026040529/0001213900-26-040529-index.htm)
+- 2026-04-06 - **424B2**: [PRELIMINARY PRICING SUPPLEMENT](https://www.sec.gov/Archives/edgar/data/19617/000121390026040551/0001213900-26-040551-index.htm) (VERIFIED)
+- 2026-04-06 - **424B2**: [PRICING SUPPLEMENT](https://www.sec.gov/Archives/edgar/data/19617/000121390026040550/0001213900-26-040550-index.htm) (VERIFIED)
+- 2026-04-06 - **424B2**: [AMENDED & RESTATED PRICING SUPPLEMENT](https://www.sec.gov/Archives/edgar/data/19617/000121390026040539/0001213900-26-040539-index.htm) (VERIFIED)
+- 2026-04-06 - **424B3**: [FORM 424B3](https://www.sec.gov/Archives/edgar/data/19617/000121390026040538/0001213900-26-040538-index.htm) (VERIFIED)
+- 2026-04-06 - **424B2**: [PRICING SUPPLEMENT](https://www.sec.gov/Archives/edgar/data/19617/000121390026040529/0001213900-26-040529-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22JPMorgan%20Chase%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22JPMorgan%20Chase%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Financial Overview (990 Filing - 2023)
@@ -312,8 +312,8 @@ The $13 billion DOJ settlement in 2013, the largest with a single entity in Amer
 | Total Expenses | $195.0M |
 | Net Assets | $442.1M |
 
-- [Source: ProPublica Nonprofit Explorer - EIN 237049738](https://projects.propublica.org/nonprofits/organizations/237049738) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F237049738_202312_990PF_2024112522922928.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer - EIN 237049738](https://projects.propublica.org/nonprofits/organizations/237049738) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F237049738_202312_990PF_2024112522922928.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -366,7 +366,7 @@ The $13 billion DOJ settlement in 2013, the largest with a single entity in Amer
 | Packing and Crating (488991) | $12K |
 | Site Preparation Contractors (238910) | $10K |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-JPMorgan%20Chase) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-JPMorgan%20Chase) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Federal Register Activity
@@ -380,15 +380,15 @@ The $13 billion DOJ settlement in 2013, the largest with a single entity in Amer
 | Agencies | Comptroller of the Currency, Consumer Financial Protection Bureau, Employee Benefits Security Administration, Federal Deposit Insurance Corporation, Federal Reserve System, Federal Trade Commission, Labor Department, National Credit Union Administration +4 more |
 
 **Recent regulatory activity:**
-- [Regulatory Capital Rule: Category I and II Banking Organizations, Banking Organizations With Significant Trading Activity, and Optional Adoption for Other Banking Organizations](https://www.federalregister.gov/documents/2026/03/27/2026-05959/regulatory-capital-rule-category-i-and-ii-banking-organizations-banking-organizations-with) (2026-03-27) - Treasury Department ★
-- [Proposed Exemption From Certain Prohibited Transaction Restrictions Involving AT&T Inc. (Together With AT&T Inc.'s Affiliates, AT&T or the Applicant) Located in Dallas, Texas](https://www.federalregister.gov/documents/2026/03/17/2026-05165/proposed-exemption-from-certain-prohibited-transaction-restrictions-involving-atandt-inc-together) (2026-03-17) - Labor Department
-- [Employee or Independent Contractor Status Under the Fair Labor Standards Act, Family and Medical Leave Act, and Migrant and Seasonal Agricultural Worker Protection Act](https://www.federalregister.gov/documents/2026/02/27/2026-03962/employee-or-independent-contractor-status-under-the-fair-labor-standards-act-family-and-medical) (2026-02-27) - Labor Department ★
-- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2026/02/19/2026-03244/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2026-02-19) - Federal Trade Commission
-- [Real Estate Lending Escrow Accounts](https://www.federalregister.gov/documents/2025/12/30/2025-23988/real-estate-lending-escrow-accounts) (2025-12-30) - Treasury Department
-- [Preemption Determination: State Interest-on-Escrow Laws](https://www.federalregister.gov/documents/2025/12/30/2025-23987/preemption-determination-state-interest-on-escrow-laws) (2025-12-30) - Treasury Department
+- [Regulatory Capital Rule: Category I and II Banking Organizations, Banking Organizations With Significant Trading Activity, and Optional Adoption for Other Banking Organizations](https://www.federalregister.gov/documents/2026/03/27/2026-05959/regulatory-capital-rule-category-i-and-ii-banking-organizations-banking-organizations-with) (VERIFIED) (2026-03-27) - Treasury Department ★
+- [Proposed Exemption From Certain Prohibited Transaction Restrictions Involving AT&T Inc. (Together With AT&T Inc.'s Affiliates, AT&T or the Applicant) Located in Dallas, Texas](https://www.federalregister.gov/documents/2026/03/17/2026-05165/proposed-exemption-from-certain-prohibited-transaction-restrictions-involving-atandt-inc-together) (VERIFIED) (2026-03-17) - Labor Department
+- [Employee or Independent Contractor Status Under the Fair Labor Standards Act, Family and Medical Leave Act, and Migrant and Seasonal Agricultural Worker Protection Act](https://www.federalregister.gov/documents/2026/02/27/2026-03962/employee-or-independent-contractor-status-under-the-fair-labor-standards-act-family-and-medical) (VERIFIED) (2026-02-27) - Labor Department ★
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2026/02/19/2026-03244/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (VERIFIED) (2026-02-19) - Federal Trade Commission
+- [Real Estate Lending Escrow Accounts](https://www.federalregister.gov/documents/2025/12/30/2025-23988/real-estate-lending-escrow-accounts) (VERIFIED) (2025-12-30) - Treasury Department
+- [Preemption Determination: State Interest-on-Escrow Laws](https://www.federalregister.gov/documents/2025/12/30/2025-23987/preemption-determination-state-interest-on-escrow-laws) (VERIFIED) (2025-12-30) - Treasury Department
 - ... and 389 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22JPMorgan%20Chase%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22JPMorgan%20Chase%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Vehicle Safety (NHTSA)
@@ -406,14 +406,14 @@ The $13 billion DOJ settlement in 2013, the largest with a single entity in Amer
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=JPMorgan%20Chase) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=JPMorgan%20Chase) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [8I5DZWZKVSZI1NUHU748](https://search.gleif.org/#/record/8I5DZWZKVSZI1NUHU748) |
+| LEI | [8I5DZWZKVSZI1NUHU748](https://search.gleif.org/#/record/8I5DZWZKVSZI1NUHU748) (VERIFIED) |
 | Legal Name | JPMORGAN CHASE & CO. |
 | Jurisdiction | US-DE |
 | Entity Status | ACTIVE |
@@ -421,7 +421,7 @@ The $13 billion DOJ settlement in 2013, the largest with a single entity in Amer
 | Registration | ISSUED |
 | Last Updated | 2026-01-12T10:41:29Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Tax Filings (IRS 990)
@@ -438,14 +438,14 @@ The $13 billion DOJ settlement in 2013, the largest with a single entity in Amer
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/237049738/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/237049738/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/237049738/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/237049738/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/237049738/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/237049738/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/237049738/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/237049738/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/237049738/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/237049738/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/237049738) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/237049738) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Federal Court Records (CourtListener)
@@ -464,7 +464,7 @@ The $13 billion DOJ settlement in 2013, the largest with a single entity in Amer
 - Filardi v. USAA General Indemnity Company (2026) - District Court, E.D. Missouri
 - Westley Dane Rachko v. JPMorgan Chase Bank, N.A. (2026) - District Court, C.D. California
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22JPMorgan%20Chase%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22JPMorgan%20Chase%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### DOJ Press Releases
@@ -496,11 +496,11 @@ The $13 billion DOJ settlement in 2013, the largest with a single entity in Amer
 
 **Still-active enforcement actions:**
 
-- [: 1829 Prohibition Notification](https://www.occ.gov/static/enforcement-actions/ea2025-17.pdf) (12/15/2025)
-- [AA-ENF-2022-57: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2022-064.pdf) (12/07/2022)
-- [AA-EC-09-03: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2009-226.pdf) (12/01/2009)
-- [AA-EC-10-78: Cease-and-Desist Order (C&D) or Personal Cease-and-Desist Order (PC&D)](https://www.occ.gov/static/enforcement-actions/ea2010-249.pdf) (11/29/2010)
-- [AA-ENF-2024-92: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/eaAA-ENF-2024-92.pdf) (11/20/2024)
+- [: 1829 Prohibition Notification](https://www.occ.gov/static/enforcement-actions/ea2025-17.pdf) (VERIFIED) (12/15/2025)
+- [AA-ENF-2022-57: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2022-064.pdf) (VERIFIED) (12/07/2022)
+- [AA-EC-09-03: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2009-226.pdf) (VERIFIED) (12/01/2009)
+- [AA-EC-10-78: Cease-and-Desist Order (C&D) or Personal Cease-and-Desist Order (PC&D)](https://www.occ.gov/static/enforcement-actions/ea2010-249.pdf) (VERIFIED) (11/29/2010)
+- [AA-ENF-2024-92: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/eaAA-ENF-2024-92.pdf) (VERIFIED) (11/20/2024)
 
 **Recent enforcement history:**
 
@@ -508,9 +508,9 @@ The $13 billion DOJ settlement in 2013, the largest with a single entity in Amer
 - [AA-ENF-2022-57: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2022-064.pdf) (12/07/2022)
 - [AA-EC-09-03: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2009-226.pdf) (12/01/2009)
 - [AA-EC-10-78: Cease-and-Desist Order (C&D) or Personal Cease-and-Desist Order (PC&D)](https://www.occ.gov/static/enforcement-actions/ea2010-249.pdf) (11/29/2010)
-- [AA-ENF-2020-70: Civil Money Penalty (CMP)](https://www.occ.gov/static/enforcement-actions/ea2020-067.pdf) (11/24/2020) - $250,000,000
+- [AA-ENF-2020-70: Civil Money Penalty (CMP)](https://www.occ.gov/static/enforcement-actions/ea2020-067.pdf) (VERIFIED) (11/24/2020) - $250,000,000
 - [AA-ENF-2024-92: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/eaAA-ENF-2024-92.pdf) (11/20/2024)
 - ... and 72 more
 
-- [Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=JPMorgan%20Chase&srt=1&pg=1&pgsz=25&isAdv=false) (Tier 1)
+- ~~[Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=JPMorgan%20Chase&srt=1&pg=1&pgsz=25&isAdv=false)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:occ-enforcement end -->

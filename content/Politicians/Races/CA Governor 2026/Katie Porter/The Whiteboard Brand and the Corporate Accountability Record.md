@@ -66,7 +66,7 @@ Each viral clip follows the same pattern:
 
 ### Sources
 
-- [NPR: Rep. Katie Porter is standing up to corporate America — one whiteboard at a time](https://www.npr.org/2023/04/11/1169318377/rep-katie-porter-is-standing-up-to-corporate-america-one-whiteboard-at-a-time) (Tier 2)
-- [Emerson College Polling: California 2026 Poll: Swalwell Takes Lead in Governor Primary](https://emersoncollegepolling.com/california-2026-poll-swalwell-takes-lead-in-governor-primary-25-undecided-election-for-la-mayor-wide-open/) (Tier 2)
-- [Washington Post: Katie Porter's bid for governor is getting noticed – but not how she wants](https://www.washingtonpost.com/politics/2025/10/09/katie-porter-california-governor-viral-videos/) (Tier 2)
-- [OpenSecrets: Truth to Power PAC](https://www.opensecrets.org/political-action-committees-pacs/truth-to-power/C00747766/summary/2020) (Tier 1)
+- [NPR: Rep. Katie Porter is standing up to corporate America — one whiteboard at a time](https://www.npr.org/2023/04/11/1169318377/rep-katie-porter-is-standing-up-to-corporate-america-one-whiteboard-at-a-time) (Tier 2) (VERIFIED)
+- [Emerson College Polling: California 2026 Poll: Swalwell Takes Lead in Governor Primary](https://emersoncollegepolling.com/california-2026-poll-swalwell-takes-lead-in-governor-primary-25-undecided-election-for-la-mayor-wide-open/) (Tier 2) (VERIFIED)
+- [Washington Post: Katie Porter's bid for governor is getting noticed – but not how she wants](https://www.washingtonpost.com/politics/2025/10/09/katie-porter-california-governor-viral-videos/) (Tier 2) (VERIFIED)
+- [OpenSecrets: Truth to Power PAC](https://www.opensecrets.org/political-action-committees-pacs/truth-to-power/C00747766/summary/2020) (Tier 1) (VERIFIED)

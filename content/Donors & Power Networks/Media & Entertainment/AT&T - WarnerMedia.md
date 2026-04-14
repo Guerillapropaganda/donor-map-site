@@ -54,7 +54,7 @@ AT&T Inc. One of the largest telecommunications companies in the world ($122 bil
 
 AT&T's political operation is one of the largest in corporate America: $4-6 million per cycle in PAC contributions, $12-16 million annually in lobbying, and contributions to virtually every member of Congress who touches telecommunications policy. AT&T PAC consistently ranks among the top 5 corporate PACs in total political spending.
 
-- [OpenSecrets: AT&T organizational profile](https://www.opensecrets.org/orgs/at-t-inc/summary?id=D000000076) (Tier 1)
+- [OpenSecrets: AT&T organizational profile](https://www.opensecrets.org/orgs/at-t-inc/summary?id=D000000076) (Tier 1) (VERIFIED)
 
 ---
 
@@ -80,9 +80,9 @@ Elimination of net neutrality rules (achieved under Trump FCC in 2017, partially
 ### Sources
 
 - [OpenSecrets: AT&T organizational profile](https://www.opensecrets.org/orgs/at-t-inc/summary?id=D000000076) (Tier 1)
-- [FCC: Net neutrality rulemaking docket](https://www.fcc.gov/restoring-internet-freedom) (Tier 1)
-- [SEC: AT&T 10-K filing](https://www.sec.gov/cgi-bin/browse-edgar?company=AT%26T%20-%20WarnerMedia&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)
-- [Ballotpedia: AT&T](https://ballotpedia.org/AT&T) (Tier 3)
+- ~~[FCC: Net neutrality rulemaking docket](https://www.fcc.gov/restoring-internet-freedom)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [SEC: AT&T 10-K filing](https://www.sec.gov/cgi-bin/browse-edgar?company=AT%26T%20-%20WarnerMedia&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1) (VERIFIED)
+- [Ballotpedia: AT&T](https://ballotpedia.org/AT&T) (Tier 3) (VERIFIED)
 
 ### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
@@ -93,8 +93,8 @@ Elimination of net neutrality rules (achieved under Trump FCC in 2017, partially
 | Total Expenses | $87K |
 | Net Assets | $253K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 593397155](https://projects.propublica.org/nonprofits/organizations/593397155) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_05_2024_prefixes_58-62%2F593397155_202312_990EZ_2024052822438682.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 593397155](https://projects.propublica.org/nonprofits/organizations/593397155) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_05_2024_prefixes_58-62%2F593397155_202312_990EZ_2024052822438682.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Product Recalls (CPSC)
@@ -107,16 +107,16 @@ Elimination of net neutrality rules (achieved under Trump FCC in 2017, partially
 
 **Recent recalls:**
 
-- [Cellular Phone Charger Recalled by Mascot Electronic A.S.](https://www.cpsc.gov/Recalls/96043) (1995-12-18) — Electrocution/Electric Shock
+- ~~[Cellular Phone Charger Recalled by Mascot Electronic A.S.](https://www.cpsc.gov/Recalls/96043)~~ (URL broken, archived by Ops) (1995-12-18) — Electrocution/Electric Shock
 
-- [Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=AT%26T) (Tier 1)
+- ~~[Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=AT%26T)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:cpsc-recalls end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [81560046090960AF7A65](https://search.gleif.org/#/record/81560046090960AF7A65) |
+| LEI | [81560046090960AF7A65](https://search.gleif.org/#/record/81560046090960AF7A65) (VERIFIED) |
 | Legal Name | AT & T S.R.L. * |
 | Jurisdiction | IT |
 | Entity Status | ACTIVE |
@@ -124,7 +124,7 @@ Elimination of net neutrality rules (achieved under Trump FCC in 2017, partially
 | Registration | ISSUED |
 | Last Updated | 2025-07-10T08:04:55Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -178,7 +178,7 @@ Elimination of net neutrality rules (achieved under Trump FCC in 2017, partially
 | Computer Systems Design Services (541512) | $55.2M |
 | Engineering Services (541330) | $47.8M |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Lobbying Activity
@@ -197,7 +197,7 @@ Elimination of net neutrality rules (achieved under Trump FCC in 2017, partially
 
 **Agencies contacted:** Commerce, Dept of (DOC), Executive Office of the President (EOP), Federal Aviation Administration (FAA), Federal Communications Commission (FCC), HOUSE OF REPRESENTATIVES, Homeland Security, Dept of (DHS), Natl Economic Council (NEC), Natl Security Council (NSC), Natl Telecommunications & Information Administration (NTIA), Office of Administration +7 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=AT%26T) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=AT%26T) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Vehicle Safety (NHTSA)
@@ -215,7 +215,7 @@ Elimination of net neutrality rules (achieved under Trump FCC in 2017, partially
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=AT%26T) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=AT%26T) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Tax Filings (IRS 990)
@@ -233,14 +233,14 @@ Elimination of net neutrality rules (achieved under Trump FCC in 2017, partially
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/593397155/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/593397155/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/593397155/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/593397155/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/593397155/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/593397155/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/593397155/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/593397155/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/593397155/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/593397155/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/593397155) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/593397155) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Federal Court Records (CourtListener)
@@ -259,7 +259,7 @@ Elimination of net neutrality rules (achieved under Trump FCC in 2017, partially
 - Peninsula Technologies, LLC v. AT&T Mobility LLC (2026) — District Court, E.D. Texas
 - Dasilva v. AT&T Corporation (2026) — District Court, D. Rhode Island
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22AT%26T%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22AT%26T%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Register Activity
@@ -273,13 +273,13 @@ Elimination of net neutrality rules (achieved under Trump FCC in 2017, partially
 | Agencies | Employee Benefits Security Administration, Employment and Training Administration, Energy Department, Environmental Protection Agency, Federal Communications Commission, Federal Energy Regulatory Commission, Internal Revenue Service, Labor Department +4 more |
 
 **Recent regulatory activity:**
-- [Joint Industry Plan; Order Approving an Amendment to the National Market System Plan Governing the Consolidated Audit Trail, as Modified by the Commission, To Further Reduce the Costs of the Consolidated Audit Trail](https://www.federalregister.gov/documents/2026/04/01/2026-06255/joint-industry-plan-order-approving-an-amendment-to-the-national-market-system-plan-governing-the) (2026-04-01) — Securities and Exchange Commission
-- [Improving Wage Protections for the Temporary and Permanent Employment of Certain Foreign Nationals in the United States](https://www.federalregister.gov/documents/2026/03/27/2026-06017/improving-wage-protections-for-the-temporary-and-permanent-employment-of-certain-foreign-nationals) (2026-03-27) — Labor Department
-- [Proposed Exemption From Certain Prohibited Transaction Restrictions Involving AT&T Inc. (Together With AT&T Inc.'s Affiliates, AT&T or the Applicant) Located in Dallas, Texas](https://www.federalregister.gov/documents/2026/03/17/2026-05165/proposed-exemption-from-certain-prohibited-transaction-restrictions-involving-atandt-inc-together) (2026-03-17) — Labor Department
-- [Joint Industry Plan; Notice of Filing of Amendment to the National Market System Plan Governing the Consolidated Audit Trail To Further Reduce the Costs of the Consolidated Audit Trail](https://www.federalregister.gov/documents/2025/12/31/2025-24050/joint-industry-plan-notice-of-filing-of-amendment-to-the-national-market-system-plan-governing-the) (2025-12-31) — Securities and Exchange Commission
-- [Order Granting Conditional Exemptive Relief, Pursuant to Section 36(a)(1) of the Securities Exchange Act of 1934 (“Exchange Act”) and Rule 608(e) of Regulation NMS Thereunder, From Certain Requirements of the National Market System Plan Governing the Consolidated Audit Trail, Rule 613 of Regulation NMS, and Rule 17a-1 Under the Exchange Act](https://www.federalregister.gov/documents/2025/10/02/2025-19315/order-granting-conditional-exemptive-relief-pursuant-to-section-36a1-of-the-securities-exchange-act) (2025-10-02) — Securities and Exchange Commission
-- [Marlow Hydro LLC; Notice Soliciting Scoping Comments](https://www.federalregister.gov/documents/2025/03/25/2025-04966/marlow-hydro-llc-notice-soliciting-scoping-comments) (2025-03-25) — Energy Department
+- [Joint Industry Plan; Order Approving an Amendment to the National Market System Plan Governing the Consolidated Audit Trail, as Modified by the Commission, To Further Reduce the Costs of the Consolidated Audit Trail](https://www.federalregister.gov/documents/2026/04/01/2026-06255/joint-industry-plan-order-approving-an-amendment-to-the-national-market-system-plan-governing-the) (VERIFIED) (2026-04-01) — Securities and Exchange Commission
+- [Improving Wage Protections for the Temporary and Permanent Employment of Certain Foreign Nationals in the United States](https://www.federalregister.gov/documents/2026/03/27/2026-06017/improving-wage-protections-for-the-temporary-and-permanent-employment-of-certain-foreign-nationals) (VERIFIED) (2026-03-27) — Labor Department
+- [Proposed Exemption From Certain Prohibited Transaction Restrictions Involving AT&T Inc. (Together With AT&T Inc.'s Affiliates, AT&T or the Applicant) Located in Dallas, Texas](https://www.federalregister.gov/documents/2026/03/17/2026-05165/proposed-exemption-from-certain-prohibited-transaction-restrictions-involving-atandt-inc-together) (VERIFIED) (2026-03-17) — Labor Department
+- ~~[Joint Industry Plan; Notice of Filing of Amendment to the National Market System Plan Governing the Consolidated Audit Trail To Further Reduce the Costs of the Consolidated Audit Trail](https://www.federalregister.gov/documents/2025/12/31/2025-24050/joint-industry-plan-notice-of-filing-of-amendment-to-the-national-market-system-plan-governing-the)~~ (URL broken, archived by Ops) (2025-12-31) — Securities and Exchange Commission
+- [Order Granting Conditional Exemptive Relief, Pursuant to Section 36(a)(1) of the Securities Exchange Act of 1934 (“Exchange Act”) and Rule 608(e) of Regulation NMS Thereunder, From Certain Requirements of the National Market System Plan Governing the Consolidated Audit Trail, Rule 613 of Regulation NMS, and Rule 17a-1 Under the Exchange Act](https://www.federalregister.gov/documents/2025/10/02/2025-19315/order-granting-conditional-exemptive-relief-pursuant-to-section-36a1-of-the-securities-exchange-act) (VERIFIED) (2025-10-02) — Securities and Exchange Commission
+- [Marlow Hydro LLC; Notice Soliciting Scoping Comments](https://www.federalregister.gov/documents/2025/03/25/2025-04966/marlow-hydro-llc-notice-soliciting-scoping-comments) (VERIFIED) (2025-03-25) — Energy Department
 - ... and 692 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22AT%26T%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22AT%26T%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->

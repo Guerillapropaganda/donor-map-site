@@ -49,8 +49,8 @@ One Israel Fund exemplifies how U.S. tax law is weaponized to support foreign oc
 
 ### Sources
 
-- [ProPublica: U.S. Nonprofits Funding West Bank Settlements](https://projects.propublica.org/nonprofits/organizations/113195338) (Tier 2)
-- [IRS Form 990: One Israel Fund Tax Filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=One%20Israel%20Fund&city=&state=All+States&country=US) (Tier 1)
+- [ProPublica: U.S. Nonprofits Funding West Bank Settlements](https://projects.propublica.org/nonprofits/organizations/113195338) (Tier 2) (VERIFIED)
+- ~~[IRS Form 990: One Israel Fund Tax Filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=One%20Israel%20Fund&city=&state=All+States&country=US)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -64,7 +64,7 @@ One Israel Fund exemplifies how U.S. tax law is weaponized to support foreign oc
 | Total Expenses | $5.2M |
 | Net Assets | $3.2M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 113195338](https://projects.propublica.org/nonprofits/organizations/113195338) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 113195338](https://projects.propublica.org/nonprofits/organizations/113195338) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Lobbying Activity
@@ -83,7 +83,7 @@ One Israel Fund exemplifies how U.S. tax law is weaponized to support foreign oc
 
 **Agencies contacted:** Agriculture, Dept of (USDA), Centers For Disease Control & Prevention (CDC), Defense, Dept of (DOD), Energy, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP), Federal Emergency Management Agency (FEMA), Federal Highway Administration (FHA), Federal Housing Finance Agency (FHFA), HOUSE OF REPRESENTATIVES +16 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=One%20Israel%20Fund) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=One%20Israel%20Fund) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### DOJ Press Releases

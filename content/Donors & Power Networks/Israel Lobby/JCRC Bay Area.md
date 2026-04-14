@@ -82,7 +82,7 @@ Israel — community relationship management, post-October 7 response, ethnic st
 
 ### Sources
 
-- [J Weekly: Newsom staff Zoom with Jewish leaders after "apartheid" comment](https://jweekly.com/2026/03/06/newsom-apartheid-israel/) (Tier 2)
+- [J Weekly: Newsom staff Zoom with Jewish leaders after "apartheid" comment](https://jweekly.com/2026/03/06/newsom-apartheid-israel/) (Tier 2) (VERIFIED)
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->
@@ -99,12 +99,12 @@ Israel — community relationship management, post-October 7 response, ethnic st
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/510647928/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/510647928/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/510647928/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/510647928/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/510647928/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/510647928/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/510647928/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/510647928/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/510647928/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/510647928/2019)~~ (URL broken, archived by Ops)
 - ... and 1 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/510647928) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/510647928) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->

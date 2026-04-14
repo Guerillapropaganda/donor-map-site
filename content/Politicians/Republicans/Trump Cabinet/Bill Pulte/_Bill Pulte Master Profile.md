@@ -104,13 +104,13 @@ Pulte uses populist framing — "fighting misconduct," "protecting taxpayers" �
 
 ## Sources
 
-- [Wikipedia: Bill Pulte](https://en.wikipedia.org/wiki/Bill_Pulte) (Tier 4)
-- [Detroit Chamber: Bill Pulte bio](https://www.detroitchamber.com/bios/bill-pulte/) (Tier 3)
-- [Mother Jones: Pulte charity mystery, Trump J6 defendants](https://www.motherjones.com/politics/2026/02/bill-pulte-donald-trump-jan-6-defendants-donation-charity-mystery/) (Tier 2)
-- [Yahoo Finance: Pulte net worth](https://finance.yahoo.com/news/bill-pulte-net-worth-2025-035242434.html) (Tier 3)
-- [Axios: Pulte GAO probe over mortgage fraud referrals](https://www.axios.com/2025/12/04/pulte-trump-gao-probe-mortgage-fraud) (Tier 2)
-- [Axios: Pulte Jerome Powell DOJ referral](https://www.axios.com/2026/01/12/bill-pulte-housing-regulator-jerome-powell-doj) (Tier 2)
-- [CNN: GAO investigation into Pulte mortgage referrals](https://www.cnn.com/2025/12/04/business/government-accountability-office-investigation-bill-pulte-mortgage-referrals) (Tier 2)
+- [Wikipedia: Bill Pulte](https://en.wikipedia.org/wiki/Bill_Pulte) (Tier 4) (VERIFIED)
+- [Detroit Chamber: Bill Pulte bio](https://www.detroitchamber.com/bios/bill-pulte/) (Tier 3) (VERIFIED)
+- [Mother Jones: Pulte charity mystery, Trump J6 defendants](https://www.motherjones.com/politics/2026/02/bill-pulte-donald-trump-jan-6-defendants-donation-charity-mystery/) (Tier 2) (VERIFIED)
+- [Yahoo Finance: Pulte net worth](https://finance.yahoo.com/news/bill-pulte-net-worth-2025-035242434.html) (Tier 3) (VERIFIED)
+- [Axios: Pulte GAO probe over mortgage fraud referrals](https://www.axios.com/2025/12/04/pulte-trump-gao-probe-mortgage-fraud) (Tier 2) (VERIFIED)
+- ~~[Axios: Pulte Jerome Powell DOJ referral](https://www.axios.com/2026/01/12/bill-pulte-housing-regulator-jerome-powell-doj)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [CNN: GAO investigation into Pulte mortgage referrals](https://www.cnn.com/2025/12/04/business/government-accountability-office-investigation-bill-pulte-mortgage-referrals) (Tier 2) (VERIFIED)
 
 ---
 

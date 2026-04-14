@@ -181,20 +181,20 @@ The analytical pattern here is **Revolving Door** + **Both-Sides Illusion** + **
 
 ### Sources
 
-- [OpenSecrets: Carlyle Group organizational profile](https://www.opensecrets.org/orgs/carlyle-group/summary?id=D000000810) (Tier 1)
-- [OpenSecrets: Carlyle Group contribution totals](https://www.opensecrets.org/orgs/carlyle-group/totals?id=D000000810) (Tier 1)
-- [OpenSecrets: Carlyle Group lobbying profile](https://www.opensecrets.org/orgs/carlyle-group/lobbying?id=D000000810) (Tier 1)
-- [ProPublica: How David Rubenstein Helped Save the Carried Interest Tax Loophole](https://www.propublica.org/article/how-david-rubenstein-helped-save-the-carried-interest-tax-loophole) (Tier 2)
-- [Center for Public Integrity: Investing in War](https://publicintegrity.org/national-security/investing-in-war/) (Tier 2)
-- [Revolving Door Project: Powell's Carlyle Past Meets the Fed's Ethics Scandal Present](https://therevolvingdoorproject.org/powells-carlyle-past-meets-the-feds-ethics-scandal-present/) (Tier 2)
-- [Revolving Door Project: Jerome Powell Spent Years at Union-Busting Private Equity Giant](https://therevolvingdoorproject.org/jerome-powell-spent-years-at-union-busting-private-equity-giant/) (Tier 2)
-- [Fortune: Politicians Have Gone Silent Over Finance Industry's Favorite Tax Loophole](https://fortune.com/2024/09/17/private-equity-carried-interest-trump-taxes-kamala-harris-barack-obama-bain-deals-profit/) (Tier 2)
-- [Fox Business: Private Equity Executives Funnel Campaign Contributions to Senate Finance Committee](https://www.foxbusiness.com/politics/private-equity-executives-funnel-campaign-contributions-to-senate-finance-committee-reps-as-carried-interest-survives) (Tier 2)
-- [Defense News: Carlyle to Buy ManTech in $4.2B Deal](https://www.defensenews.com/industry/2022/05/16/investment-firm-carlyle-to-buy-mantech-in-42b-deal/) (Tier 2)
-- [Carlyle: ManTech Acquisition Press Release](https://www.carlyle.com/media-room/news-release-archive/carlyle-acquire-mantech-all-cash-transaction-valued-approximately-4-2-billion) (Tier 1)
-- [Common Dreams: Meet the 11 Private Equity Donors Trying to Buy the 2024 Election](https://www.commondreams.org/opinion/private-equity-2024-election) (Tier 4)
-- [Wikipedia: The Carlyle Group](https://en.wikipedia.org/wiki/The_Carlyle_Group) (Tier 3)
-- [Ballotpedia: The Carlyle Group](https://ballotpedia.org/The_Carlyle_Group) (Tier 3)
+- [OpenSecrets: Carlyle Group organizational profile](https://www.opensecrets.org/orgs/carlyle-group/summary?id=D000000810) (Tier 1) (VERIFIED)
+- [OpenSecrets: Carlyle Group contribution totals](https://www.opensecrets.org/orgs/carlyle-group/totals?id=D000000810) (Tier 1) (VERIFIED)
+- [OpenSecrets: Carlyle Group lobbying profile](https://www.opensecrets.org/orgs/carlyle-group/lobbying?id=D000000810) (Tier 1) (VERIFIED)
+- [ProPublica: How David Rubenstein Helped Save the Carried Interest Tax Loophole](https://www.propublica.org/article/how-david-rubenstein-helped-save-the-carried-interest-tax-loophole) (Tier 2) (VERIFIED)
+- [Center for Public Integrity: Investing in War](https://publicintegrity.org/national-security/investing-in-war/) (Tier 2) (VERIFIED)
+- [Revolving Door Project: Powell's Carlyle Past Meets the Fed's Ethics Scandal Present](https://therevolvingdoorproject.org/powells-carlyle-past-meets-the-feds-ethics-scandal-present/) (Tier 2) (VERIFIED)
+- [Revolving Door Project: Jerome Powell Spent Years at Union-Busting Private Equity Giant](https://therevolvingdoorproject.org/jerome-powell-spent-years-at-union-busting-private-equity-giant/) (Tier 2) (VERIFIED)
+- [Fortune: Politicians Have Gone Silent Over Finance Industry's Favorite Tax Loophole](https://fortune.com/2024/09/17/private-equity-carried-interest-trump-taxes-kamala-harris-barack-obama-bain-deals-profit/) (Tier 2) (VERIFIED)
+- [Fox Business: Private Equity Executives Funnel Campaign Contributions to Senate Finance Committee](https://www.foxbusiness.com/politics/private-equity-executives-funnel-campaign-contributions-to-senate-finance-committee-reps-as-carried-interest-survives) (Tier 2) (VERIFIED)
+- [Defense News: Carlyle to Buy ManTech in $4.2B Deal](https://www.defensenews.com/industry/2022/05/16/investment-firm-carlyle-to-buy-mantech-in-42b-deal/) (Tier 2) (VERIFIED)
+- [Carlyle: ManTech Acquisition Press Release](https://www.carlyle.com/media-room/news-release-archive/carlyle-acquire-mantech-all-cash-transaction-valued-approximately-4-2-billion) (Tier 1) (VERIFIED)
+- [Common Dreams: Meet the 11 Private Equity Donors Trying to Buy the 2024 Election](https://www.commondreams.org/opinion/private-equity-2024-election) (Tier 4) (VERIFIED)
+- [Wikipedia: The Carlyle Group](https://en.wikipedia.org/wiki/The_Carlyle_Group) (Tier 3) (VERIFIED)
+- [Ballotpedia: The Carlyle Group](https://ballotpedia.org/The_Carlyle_Group) (Tier 3) (VERIFIED)
 
 ### Vehicle Safety (NHTSA)
 <!-- auto:nhtsa-recalls start -->
@@ -211,7 +211,7 @@ The analytical pattern here is **Revolving Door** + **Both-Sides Illusion** + **
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Carlyle%20Group) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Carlyle%20Group) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -225,7 +225,7 @@ The analytical pattern here is **Revolving Door** + **Both-Sides Illusion** + **
 | Net Assets | $8.9M |
 | Officer Compensation | $4.4M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 850703768](https://projects.propublica.org/nonprofits/organizations/850703768) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 850703768](https://projects.propublica.org/nonprofits/organizations/850703768) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### SEC Filing Activity
@@ -239,13 +239,13 @@ The analytical pattern here is **Revolving Door** + **Both-Sides Illusion** + **
 
 **Notable filings:**
 
-- 2026-03-26 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/1527166/000010290926000894/0000102909-26-000894-index.htm)
-- 2026-03-20 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1527166/000154389526000002/0001543895-26-000002-index.htm)
-- 2026-03-19 — **144**: [144](https://www.sec.gov/Archives/edgar/data/1527166/000196858226000304/0001968582-26-000304-index.htm)
-- 2026-03-12 — **4**: [4](https://www.sec.gov/Archives/edgar/data/1527166/000149315226009870/0001493152-26-009870-index.htm)
-- 2026-03-06 — **4**: [4](https://www.sec.gov/Archives/edgar/data/1527166/000149315226009232/0001493152-26-009232-index.htm)
+- 2026-03-26 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/1527166/000010290926000894/0000102909-26-000894-index.htm) (VERIFIED)
+- 2026-03-20 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1527166/000154389526000002/0001543895-26-000002-index.htm) (VERIFIED)
+- 2026-03-19 — **144**: [144](https://www.sec.gov/Archives/edgar/data/1527166/000196858226000304/0001968582-26-000304-index.htm) (VERIFIED)
+- 2026-03-12 — **4**: [4](https://www.sec.gov/Archives/edgar/data/1527166/000149315226009870/0001493152-26-009870-index.htm) (VERIFIED)
+- 2026-03-06 — **4**: [4](https://www.sec.gov/Archives/edgar/data/1527166/000149315226009232/0001493152-26-009232-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Carlyle%20Group%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Carlyle%20Group%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -281,14 +281,14 @@ The analytical pattern here is **Revolving Door** + **Both-Sides Illusion** + **
 | Computer and Software Stores (443120) | $13.4M |
 | Other Computer Related Services (541519) | $5.2M |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [529900NGGVF94UK6PG95](https://search.gleif.org/#/record/529900NGGVF94UK6PG95) |
+| LEI | [529900NGGVF94UK6PG95](https://search.gleif.org/#/record/529900NGGVF94UK6PG95) (VERIFIED) |
 | Legal Name | THE CARLYLE GROUP INC. |
 | Jurisdiction | US-DE |
 | Entity Status | ACTIVE |
@@ -296,7 +296,7 @@ The analytical pattern here is **Revolving Door** + **Both-Sides Illusion** + **
 | Registration | ISSUED |
 | Last Updated | 2026-01-20T17:34:25Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Federal Court Records (CourtListener)
@@ -315,7 +315,7 @@ The analytical pattern here is **Revolving Door** + **Both-Sides Illusion** + **
 - RIEGER v. EPIQ SYSTEMS, INC. (2025) — District Court, District of Columbia
 - IN RE STUBHUB HOLDINGS, INC. DERIVATIVE LITIGATION (2025) — District Court, S.D. New York
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Carlyle%20Group%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Carlyle%20Group%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### OCC Enforcement Actions
@@ -337,12 +337,12 @@ The analytical pattern here is **Revolving Door** + **Both-Sides Illusion** + **
 
 **Still-active enforcement actions:**
 
-- [: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea860.pdf) (11/10/1992)
+- [: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea860.pdf) (NEEDS REVIEW) (11/10/1992)
 
 **Recent enforcement history:**
 
 - [: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea860.pdf) (11/10/1992)
-- [: Civil Money Penalty (CMP)](https://www.occ.gov/static/enforcement-actions/ea826.pdf) (11/10/1992) — $3,000
+- [: Civil Money Penalty (CMP)](https://www.occ.gov/static/enforcement-actions/ea826.pdf) (NEEDS REVIEW) (11/10/1992) — $3,000
 
-- [Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=Carlyle%20Group&srt=1&pg=1&pgsz=25&isAdv=false) (Tier 1)
+- ~~[Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=Carlyle%20Group&srt=1&pg=1&pgsz=25&isAdv=false)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:occ-enforcement end -->

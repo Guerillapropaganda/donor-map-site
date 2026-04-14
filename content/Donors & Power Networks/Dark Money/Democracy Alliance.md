@@ -30,7 +30,7 @@ internal-notes: "[CODE @ 2026-04-11] Pipeline: lda completed for Democracy Allia
 
 ### Who They Are
 
-The [[Democracy Alliance|Democracy Alliance]] is a secretive donor consortium founded in 2005 by philanthropists alarmed at conservative dominance in policy infrastructure, particularly think tanks, media, and litigation networks. Operating as a 501(c)(6) nonprofit (trade association / membership organization), it functions as a coordination mechanism for ultra-wealthy Democrats to pool resources into strategic giving. Membership requires a minimum $200,000/year commitment, and the organization explicitly restricts public access to member names, donor allocations, and decision-making meetings. [InfluenceWatch: Democracy Alliance](https://www.influencewatch.org/organization/democracy-alliance-conferences/) (Tier 3) The Alliance manages approximately $1B+ in deployed capital since founding (2005-2026), distributed through a deliberate grantmaking strategy coordinated at private convenings only accessible to members and approved grantee organizations. Unlike dark money 501(c)(4)s, Democracy Alliance's structure allows tax-deductibility of donations (members claim them as charitable contributions), but the secrecy of member names and internal deliberations creates functional opacity equivalent to dark money infrastructure.
+The [[Democracy Alliance|Democracy Alliance]] is a secretive donor consortium founded in 2005 by philanthropists alarmed at conservative dominance in policy infrastructure, particularly think tanks, media, and litigation networks. Operating as a 501(c)(6) nonprofit (trade association / membership organization), it functions as a coordination mechanism for ultra-wealthy Democrats to pool resources into strategic giving. Membership requires a minimum $200,000/year commitment, and the organization explicitly restricts public access to member names, donor allocations, and decision-making meetings. [InfluenceWatch: Democracy Alliance](https://www.influencewatch.org/organization/democracy-alliance-conferences/) (Tier 3) (VERIFIED) The Alliance manages approximately $1B+ in deployed capital since founding (2005-2026), distributed through a deliberate grantmaking strategy coordinated at private convenings only accessible to members and approved grantee organizations. Unlike dark money 501(c)(4)s, Democracy Alliance's structure allows tax-deductibility of donations (members claim them as charitable contributions), but the secrecy of member names and internal deliberations creates functional opacity equivalent to dark money infrastructure.
 
 ### What They Want
 
@@ -56,7 +56,7 @@ The function: converting billionaire wealth into Democratic Party governance pow
 | **Hansjörg Wyss** | Wyoming Conservation Foundation (outdoor industry) | $300K-$500K | Climate, conservation, environmental justice |
 | **Other members (identified via reporting)** | Various | $200K minimum each | Rotating strategies |
 
-**Total estimated membership:** ~110 members (reported range $200K-$1M+/year minimum). [InfluenceWatch: Democracy Alliance profile](https://www.influencewatch.org/organization/democracy-alliance-da/) (Tier 3)
+**Total estimated membership:** ~110 members (reported range $200K-$1M+/year minimum). [InfluenceWatch: Democracy Alliance profile](https://www.influencewatch.org/organization/democracy-alliance-da/) (Tier 3) (VERIFIED)
 
 **Governance structure:** Steering committee (elected by members), quarterly coordination meetings, annual strategy summit, grantee evaluation processes. Members vote on strategic priorities; the Alliance staff then identifies and funds organizations aligned with those priorities.
 
@@ -76,7 +76,7 @@ The function: converting billionaire wealth into Democratic Party governance pow
 
 ### Total Deployed Capital Since Founding (2005-2026)
 
-**Rough estimate:** $1.2B-$1.5B over 21 years. [Carnegie Corporation: The Democracy Alliance](https://carnegieendowment.org/articles/democracy-alliance-progressives-koch-network) (Tier 3)
+**Rough estimate:** $1.2B-$1.5B over 21 years. [Carnegie Corporation: The Democracy Alliance](https://carnegieendowment.org/articles/democracy-alliance-progressives-koch-network) (Tier 3) (VERIFIED)
 
 The temporal pattern:
 - **2005-2008:** Founding phase, $50-75M/year annual deployment (pre-crisis foundation building)
@@ -90,7 +90,7 @@ The trajectory: consistent growth with surge spending during existential Democra
 ### Key Donor Profiles
 
 ### [[George Soros|George Soros]]. The Institutional Founder
-[[Open Society Foundations|Open Society Foundations]] ($32B+ endowment) channels $125M+ into Democracy Alliance strategies annually. Soros represents the original donor-class anxiety that founded the Alliance: conservative infrastructure had decades of head start, and progressive donors needed coordinated power to compete. Unlike Bloomberg (who funds specific issues), Soros funds infrastructure that builds Democratic Party capacity. His Democracy Alliance coordination has funded voting rights litigation, immigrant rights organizations, and criminal justice reform initiatives that structure Democratic platform positions. The 2024 cycle: Soros contributed $60M directly to Harris campaign + $125M+ through institutional channels coordinated via Democracy Alliance, representing the most significant single individual Democratic giving in the cycle. [InfluenceWatch: Democracy Alliance. George Soros](https://www.influencewatch.org/organization/democracy-alliance-da/) (Tier 3)
+[[Open Society Foundations|Open Society Foundations]] ($32B+ endowment) channels $125M+ into Democracy Alliance strategies annually. Soros represents the original donor-class anxiety that founded the Alliance: conservative infrastructure had decades of head start, and progressive donors needed coordinated power to compete. Unlike Bloomberg (who funds specific issues), Soros funds infrastructure that builds Democratic Party capacity. His Democracy Alliance coordination has funded voting rights litigation, immigrant rights organizations, and criminal justice reform initiatives that structure Democratic platform positions. The 2024 cycle: Soros contributed $60M directly to Harris campaign + $125M+ through institutional channels coordinated via Democracy Alliance, representing the most significant single individual Democratic giving in the cycle. [InfluenceWatch: Democracy Alliance. George Soros](https://www.influencewatch.org/organization/democracy-alliance-da/) (Tier 3) (VERIFIED)
 
 ### [[_Tom Steyer Master Profile|Tom Steyer]]. The Climate Billionaire
 TomKats Climate Action partner ($1B+ committed) uses Democracy Alliance to coordinate climate giving. Unlike single-issue mega-donors (Bloomberg on guns), Steyer positions climate as systemic, which means funding voting rights, immigrant rights, and community organizing that amplifies Democratic political power on climate issues. His 2020 presidential campaign ($250M) operated outside Democracy Alliance structure but shares membership base overlap. Current focus: $1B climate transition funding coordinated with broader Democracy Alliance strategy ($30M+ annually through Alliance mechanisms).
@@ -169,11 +169,11 @@ The tell is the secrecy. If the Democracy Alliance's work were genuinely aligned
 ### Sources
 
 - [InfluenceWatch: Democracy Alliance](https://www.influencewatch.org/organization/democracy-alliance-conferences/) (Tier 3)
-- [Center for Public Integrity: Mystery donors pumped millions into liberal dark money group](https://publicintegrity.org/politics/mystery-donors-pumped-millions-into-liberal-dark-money-group/) (Tier 2)
-- [The American Prospect: The Democratic Dilemma on Dark Money](https://prospect.org/2021/12/02/democratic-dilemma-on-dark-money/) (Tier 2)
+- [Center for Public Integrity: Mystery donors pumped millions into liberal dark money group](https://publicintegrity.org/politics/mystery-donors-pumped-millions-into-liberal-dark-money-group/) (Tier 2) (VERIFIED)
+- [The American Prospect: The Democratic Dilemma on Dark Money](https://prospect.org/2021/12/02/democratic-dilemma-on-dark-money/) (Tier 2) (VERIFIED)
 - [Carnegie Corporation: The Democracy Alliance](https://carnegieendowment.org/articles/democracy-alliance-progressives-koch-network) (Tier 3)
-- [NPR: How Liberal Donors Are Organizing](https://www.npr.org/2019/05/07/720050070/democrats-want-to-end-dark-money-but-first-they-want-to-use-it) (Tier 2)
-- [Center for American Progress. History and Democracy Alliance Funding](https://www.americanprogress.org/?s=Democracy%20Alliance) (Tier 3)
+- [NPR: How Liberal Donors Are Organizing](https://www.npr.org/2019/05/07/720050070/democrats-want-to-end-dark-money-but-first-they-want-to-use-it) (Tier 2) (VERIFIED)
+- [Center for American Progress. History and Democracy Alliance Funding](https://www.americanprogress.org/?s=Democracy%20Alliance) (Tier 3) (VERIFIED)
 
 ---
 
@@ -213,7 +213,7 @@ The tell is the secrecy. If the Democracy Alliance's work were genuinely aligned
 | TRIVEDI FOR CONGRESS | $2,000 | DEM |
 | LEAHY FOR U.S. SENATOR COMMITTEE | $2,000 | — |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Democracy%20Alliance) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Democracy%20Alliance) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### Tax Filings (IRS 990)
@@ -228,7 +228,7 @@ The tell is the secrecy. If the Democracy Alliance's work were genuinely aligned
 | IRS Ruling Date | 2025-05-01 |
 | Filings on Record | 0 |
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/204366413) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/204366413) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### DOJ Press Releases

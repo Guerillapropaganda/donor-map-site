@@ -13,7 +13,7 @@ profiles:
 
 ## Susan Collins knocks funding cuts in White House budget proposal
 
-**Source:** [The Hill](https://thehill.com/homenews/senate/5815864-collins-criticizes-trump-budget/)
+**Source:** ~~[The Hill](https://thehill.com/homenews/senate/5815864-collins-criticizes-trump-budget/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-04
 
 Senate Appropriations Chair Susan Collins (R-Maine) on Friday knocked proposed eliminations and reductions to domestic program spending in the White House’s fiscal 2027 budget, a sign she may not be eager to sign off on President Trump’s request. “While the Administration proposes a budget, Congress holds the power of the purse,” Collins wrote in a…

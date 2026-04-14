@@ -265,33 +265,33 @@ Northrop Grumman represents the defense sector's most refined form of structural
 | $0 | DEPT OF DEFENSE | 2010-09-10 |
 | $0 | DEPT OF DEFENSE | 2009-11-24 |
 
-- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Northrop%20Grumman&page=1&index=opp) (Tier 1)
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Northrop%20Grumman&page=1&index=opp) (Tier 1) (VERIFIED)
 
 <!-- auto:sam-contracts end -->
 
 ### Sources
 
-- [OpenSecrets: Northrop Grumman Profile Summary](https://www.opensecrets.org/orgs/northrop-grumman/summary?id=D000000170) (Tier 1)
-- [OpenSecrets: Northrop Grumman PAC Profile 2024](https://www.opensecrets.org/political-action-committees-pacs/northrop-grumman/C00088591/summary/2024) (Tier 1)
-- [OpenSecrets: Northrop Grumman PAC Candidate Recipients](https://www.opensecrets.org/political-action-committees-pacs/northrop-grumman/C00088591/candidate-recipients/2024) (Tier 1)
-- [OpenSecrets: Northrop Grumman Lobbying Profile](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=D000000170) (Tier 1)
-- [USAspending.gov: Northrop Grumman Federal Award Profile](https://www.usaspending.gov/recipient/fbe19298-837a-c0c2-9e1d-ff4c0a5ad25a-P/latest) (Tier 1)
-- [Northrop Grumman: Political Contributions Statement](https://www.northropgrumman.com/investor-relations/political-contributions) (Tier 1)
-- [Pentagon OIG: Report of Investigation Concerning Dr. James G. Roche (PDF)](https://media.defense.gov/2018/Aug/29/2001959973/-1/-1/1/H04L94024201-ROCHE.PDF) (Tier 1)
-- [Breaking Defense: Pentagon $152B Reconciliation Burn Rate](https://breakingdefense.com/2026/02/reconciliation-revealed-how-the-pentagon-plans-to-spend-all-152-billion-in-fy26/) (Tier 2)
-- [Breaking Defense: Air Force Ramps Up B-21 Raider Production](https://breakingdefense.com/2026/02/air-force-ramps-up-b-21-raider-production-capacity-aims-for-2027-delivery/) (Tier 2)
-- [Federal News Network: DoD Plans to Spend Entire $152B in One Year](https://federalnewsnetwork.com/defense-main/2026/02/dod-plans-to-spend-entire-152-billion-from-reconciliation-bill-in-one-year/) (Tier 2)
-- [The War Zone: Troubled Sentinel ICBM Program Still Being Restructured](https://www.twz.com/nuclear/troubled-sentinel-icbm-program-still-being-restructured-nearly-two-years-after-cost-breach) (Tier 2)
-- [Federation of American Scientists: The Two-Hundred Billion Dollar Boondoggle](https://fas.org/publication/the-two-hundred-billion-dollar-boondoggle/) (Tier 2)
-- [POGO: Brass Parachutes — The Pentagon Revolving Door](https://www.pogo.org/reports/brass-parachutes) (Tier 2)
-- [POGO: Northrop Grumman Uses B-21 to Push Inflation Bailout](https://www.pogo.org/analyses/northrop-grumman-uses-b-21-program-to-push-unproven-inflation-bailout) (Tier 2)
-- [Military.com: Former Air Force Chief of Staff Joins Northrop Board](https://www.military.com/dodbuzz/2016/12/09/revolving-door-air-force-chief-northrop) (Tier 2)
-- [Defense News: Defense Firms Donate Millions to Election-Denying Lawmakers](https://www.defensenews.com/congress/2022/11/02/largest-defense-firms-donate-millions-to-election-denying-lawmakers/) (Tier 2)
-- [Defense News: Defense Firms Quietly Resume Political Giving Post-Insurrection](https://www.defensenews.com/congress/2021/06/04/defense-firms-quietly-resume-political-giving-after-post-insurrection-pause/) (Tier 2)
-- [GovFacts: Defense Stocks Surged After Iran Strikes](https://govfacts.org/policy-security/military/defense-budget-spending/defense-stocks-surged-after-the-iran-strikes-heres-exactly-who-gained/) (Tier 2)
-- [Al Jazeera: US and Israeli Military Companies Profiting from Iran War](https://www.aljazeera.com/news/2026/3/9/which-us-and-israeli-military-companies-are-profiting-from-the-iran-war) (Tier 2)
-- [Arms Control Association: US Nuclear Modernization Programs](https://www.armscontrol.org/factsheets/us-modernization-2024-update) (Tier 2)
-- [Via Satellite: SDA Awards $3.5B Tracking Layer Tranche 3](https://www.satellitetoday.com/government-military/2025/12/19/sda-awards-over-3-5-billion-for-tracking-layer-of-tranche-3/) (Tier 2)
+- [OpenSecrets: Northrop Grumman Profile Summary](https://www.opensecrets.org/orgs/northrop-grumman/summary?id=D000000170) (Tier 1) (VERIFIED)
+- [OpenSecrets: Northrop Grumman PAC Profile 2024](https://www.opensecrets.org/political-action-committees-pacs/northrop-grumman/C00088591/summary/2024) (Tier 1) (VERIFIED)
+- [OpenSecrets: Northrop Grumman PAC Candidate Recipients](https://www.opensecrets.org/political-action-committees-pacs/northrop-grumman/C00088591/candidate-recipients/2024) (Tier 1) (VERIFIED)
+- [OpenSecrets: Northrop Grumman Lobbying Profile](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=D000000170) (Tier 1) (VERIFIED)
+- [USAspending.gov: Northrop Grumman Federal Award Profile](https://www.usaspending.gov/recipient/fbe19298-837a-c0c2-9e1d-ff4c0a5ad25a-P/latest) (Tier 1) (VERIFIED)
+- [Northrop Grumman: Political Contributions Statement](https://www.northropgrumman.com/investor-relations/political-contributions) (Tier 1) (VERIFIED)
+- [Pentagon OIG: Report of Investigation Concerning Dr. James G. Roche (PDF)](https://media.defense.gov/2018/Aug/29/2001959973/-1/-1/1/H04L94024201-ROCHE.PDF) (Tier 1) (VERIFIED)
+- [Breaking Defense: Pentagon $152B Reconciliation Burn Rate](https://breakingdefense.com/2026/02/reconciliation-revealed-how-the-pentagon-plans-to-spend-all-152-billion-in-fy26/) (Tier 2) (VERIFIED)
+- [Breaking Defense: Air Force Ramps Up B-21 Raider Production](https://breakingdefense.com/2026/02/air-force-ramps-up-b-21-raider-production-capacity-aims-for-2027-delivery/) (Tier 2) (VERIFIED)
+- [Federal News Network: DoD Plans to Spend Entire $152B in One Year](https://federalnewsnetwork.com/defense-main/2026/02/dod-plans-to-spend-entire-152-billion-from-reconciliation-bill-in-one-year/) (Tier 2) (VERIFIED)
+- [The War Zone: Troubled Sentinel ICBM Program Still Being Restructured](https://www.twz.com/nuclear/troubled-sentinel-icbm-program-still-being-restructured-nearly-two-years-after-cost-breach) (Tier 2) (VERIFIED)
+- [Federation of American Scientists: The Two-Hundred Billion Dollar Boondoggle](https://fas.org/publication/the-two-hundred-billion-dollar-boondoggle/) (Tier 2) (VERIFIED)
+- ~~[POGO: Brass Parachutes — The Pentagon Revolving Door](https://www.pogo.org/reports/brass-parachutes)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [POGO: Northrop Grumman Uses B-21 to Push Inflation Bailout](https://www.pogo.org/analyses/northrop-grumman-uses-b-21-program-to-push-unproven-inflation-bailout) (Tier 2) (VERIFIED)
+- [Military.com: Former Air Force Chief of Staff Joins Northrop Board](https://www.military.com/dodbuzz/2016/12/09/revolving-door-air-force-chief-northrop) (Tier 2) (VERIFIED)
+- [Defense News: Defense Firms Donate Millions to Election-Denying Lawmakers](https://www.defensenews.com/congress/2022/11/02/largest-defense-firms-donate-millions-to-election-denying-lawmakers/) (Tier 2) (VERIFIED)
+- [Defense News: Defense Firms Quietly Resume Political Giving Post-Insurrection](https://www.defensenews.com/congress/2021/06/04/defense-firms-quietly-resume-political-giving-after-post-insurrection-pause/) (Tier 2) (VERIFIED)
+- [GovFacts: Defense Stocks Surged After Iran Strikes](https://govfacts.org/policy-security/military/defense-budget-spending/defense-stocks-surged-after-the-iran-strikes-heres-exactly-who-gained/) (Tier 2) (VERIFIED)
+- [Al Jazeera: US and Israeli Military Companies Profiting from Iran War](https://www.aljazeera.com/news/2026/3/9/which-us-and-israeli-military-companies-are-profiting-from-the-iran-war) (Tier 2) (VERIFIED)
+- [Arms Control Association: US Nuclear Modernization Programs](https://www.armscontrol.org/factsheets/us-modernization-2024-update) (Tier 2) (VERIFIED)
+- [Via Satellite: SDA Awards $3.5B Tracking Layer Tranche 3](https://www.satellitetoday.com/government-military/2025/12/19/sda-awards-over-3-5-billion-for-tracking-layer-of-tranche-3/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -308,9 +308,9 @@ Northrop Grumman represents the defense sector's most refined form of structural
 
 **Pattern flags:** Donor-Class Override (war spending continues despite no congressional authorization), Both-Sides Illusion (bipartisan defense spending consensus maintained while performative opposition votes fail).
 
-- [UPI: Senate Republicans again block Democrats' effort to stop Trump's Iran war](https://www.upi.com/Top_News/US/2026/03/25/Senate-Republicans-war-powers-vote/5791774418726/) (Tier 2)
-- [The Hill: Senate shoots down Iran war powers measure; Fetterman, Paul cross aisle](https://thehill.com/homenews/senate/5799286-iran-war-powers-resolution-defeated/) (Tier 2)
-- [TIME: Iran War May Give Defense Contractors $200 Billion Windfall](https://time.com/article/2026/03/19/trump-iran-war-set-to-boost-profits-for-these-defense-contractors/) (Tier 2)
+- [UPI: Senate Republicans again block Democrats' effort to stop Trump's Iran war](https://www.upi.com/Top_News/US/2026/03/25/Senate-Republicans-war-powers-vote/5791774418726/) (Tier 2) (VERIFIED)
+- ~~[The Hill: Senate shoots down Iran war powers measure; Fetterman, Paul cross aisle](https://thehill.com/homenews/senate/5799286-iran-war-powers-resolution-defeated/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [TIME: Iran War May Give Defense Contractors $200 Billion Windfall](https://time.com/article/2026/03/19/trump-iran-war-set-to-boost-profits-for-these-defense-contractors/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -337,7 +337,7 @@ Northrop Grumman represents the defense sector's most refined form of structural
 | Total Expenses | $14.1M |
 | Net Assets | $31.0M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 956095343](https://projects.propublica.org/nonprofits/organizations/956095343) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 956095343](https://projects.propublica.org/nonprofits/organizations/956095343) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Influence Network (Cross-Reference)
@@ -408,13 +408,13 @@ Northrop Grumman represents the defense sector's most refined form of structural
 
 **Notable filings:**
 
-- 2026-04-03 — **ARS**: [ARS](https://www.sec.gov/Archives/edgar/data/1133421/000113342126000008/0001133421-26-000008-index.htm)
-- 2026-04-03 — **DEF 14A**: [DEF 14A](https://www.sec.gov/Archives/edgar/data/1133421/000113342126000007/0001133421-26-000007-index.htm)
-- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1133421/000162828026022976/0001628280-26-022976-index.htm)
-- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1133421/000162828026022974/0001628280-26-022974-index.htm)
-- 2026-03-27 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/1133421/000010290926001945/0000102909-26-001945-index.htm)
+- 2026-04-03 — **ARS**: [ARS](https://www.sec.gov/Archives/edgar/data/1133421/000113342126000008/0001133421-26-000008-index.htm) (VERIFIED)
+- 2026-04-03 — **DEF 14A**: [DEF 14A](https://www.sec.gov/Archives/edgar/data/1133421/000113342126000007/0001133421-26-000007-index.htm) (VERIFIED)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1133421/000162828026022976/0001628280-26-022976-index.htm) (VERIFIED)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1133421/000162828026022974/0001628280-26-022974-index.htm) (VERIFIED)
+- 2026-03-27 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/1133421/000010290926001945/0000102909-26-001945-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Northrop%20Grumman%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Northrop%20Grumman%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Federal Spending (USASpending)
@@ -446,7 +446,7 @@ Northrop Grumman represents the defense sector's most refined form of structural
 | $4.3M | National Aeronautics and Space Administration | PARTICIPATION IN THE NASA HIGH-RATE COMPOSITES AIRCRAFT MANUFACTURING (HICAM) PROJECT PHASE 1  PERFO |
 | $4.0M | Department of Defense | THIS EFFORT WILL ACCELERATE THE 70 NM ADVANCED INP HEMT TECHNOLOGY MATURATIONY TRANSITION AND INCREA |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/fbe19298-837a-c0c2-9e1d-ff4c0a5ad25a-P/latest) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/fbe19298-837a-c0c2-9e1d-ff4c0a5ad25a-P/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -501,7 +501,7 @@ Northrop Grumman represents the defense sector's most refined form of structural
 | Research and Development in the Physical, Engineering, and Life Sciences (except Biotechnology) (541712) | $1.6B |
 | Other Electronic Component Manufacturing (334419) | $1.2B |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 <!-- auto:usaspending-subawards pending-merge 2026-04-11 -->
@@ -573,22 +573,22 @@ Northrop Grumman represents the defense sector's most refined form of structural
 | Agencies | Antitrust Division, Defense Department, Environmental Protection Agency, Federal Communications Commission, Federal Trade Commission, Health and Human Services Department, Justice Department, Pipeline and Hazardous Materials Safety Administration +1 more |
 
 **Recent regulatory activity:**
-- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-The National Advanced Mobility Consortium, Inc. (Formerly Known as the Robotics Technology Consortium)](https://www.federalregister.gov/documents/2026/03/26/2026-05925/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-the-national) (2026-03-26) — Justice Department
-- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/02/09/2026-02528/arms-sales-notification) (2026-02-09) — Defense Department
-- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/01/27/2026-01491/arms-sales-notification) (2026-01-27) — Defense Department
-- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/01/13/2026-00445/arms-sales-notification) (2026-01-13) — Defense Department
-- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/01/12/2026-00363/arms-sales-notification) (2026-01-12) — Defense Department
-- [Nondiscrimination on the Basis of Disability in Programs or Activities Receiving Federal Financial Assistance](https://www.federalregister.gov/documents/2025/12/19/2025-23484/nondiscrimination-on-the-basis-of-disability-in-programs-or-activities-receiving-federal-financial) (2025-12-19) — Health and Human Services Department
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-The National Advanced Mobility Consortium, Inc. (Formerly Known as the Robotics Technology Consortium)](https://www.federalregister.gov/documents/2026/03/26/2026-05925/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-the-national) (VERIFIED) (2026-03-26) — Justice Department
+- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/02/09/2026-02528/arms-sales-notification) (VERIFIED) (2026-02-09) — Defense Department
+- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/01/27/2026-01491/arms-sales-notification) (VERIFIED) (2026-01-27) — Defense Department
+- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/01/13/2026-00445/arms-sales-notification) (VERIFIED) (2026-01-13) — Defense Department
+- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/01/12/2026-00363/arms-sales-notification) (VERIFIED) (2026-01-12) — Defense Department
+- [Nondiscrimination on the Basis of Disability in Programs or Activities Receiving Federal Financial Assistance](https://www.federalregister.gov/documents/2025/12/19/2025-23484/nondiscrimination-on-the-basis-of-disability-in-programs-or-activities-receiving-federal-financial) (VERIFIED) (2025-12-19) — Health and Human Services Department
 - ... and 348 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Northrop%20Grumman%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Northrop%20Grumman%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [RIMU48P07456QXSO0R61](https://search.gleif.org/#/record/RIMU48P07456QXSO0R61) |
+| LEI | [RIMU48P07456QXSO0R61](https://search.gleif.org/#/record/RIMU48P07456QXSO0R61) (VERIFIED) |
 | Legal Name | NORTHROP GRUMMAN CORPORATION |
 | Jurisdiction | US-DE |
 | Entity Status | ACTIVE |
@@ -596,7 +596,7 @@ Northrop Grumman represents the defense sector's most refined form of structural
 | Registration | LAPSED |
 | Last Updated | 2024-01-27T13:30:04Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Tax Filings (IRS 990)
@@ -613,14 +613,14 @@ Northrop Grumman represents the defense sector's most refined form of structural
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/956095343/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/956095343/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/956095343/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/956095343/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/956095343/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/956095343/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/956095343/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/956095343/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/956095343/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/956095343/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/956095343) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/956095343) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### FTC Enforcement & Merger Review
@@ -637,17 +637,17 @@ Northrop Grumman represents the defense sector's most refined form of structural
 
 **Recent enforcement actions (historical):**
 
-- [Northrop Grumman/Orbital](https://www.ftc.gov/news-events/press-releases/2018/06/ftc-imposes-conditions-northrop-grummans-acquisition-solid-rocket) (2018-06-05) — Defense � Ammunitions
+- [Northrop Grumman/Orbital](https://www.ftc.gov/news-events/press-releases/2018/06/ftc-imposes-conditions-northrop-grummans-acquisition-solid-rocket) (NEEDS REVIEW) (2018-06-05) — Defense � Ammunitions
 
 **Recent HSR merger filings (early terminations granted):**
 
-- [The Veritas Capital Fund VII, L.P. → Northrop Grumman Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20210728) (2021-01-12)
-- [Northrop Grumman Corporation → Orbital ATK, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20180022) (2018-06-05)
-- [Birch Holdco, LP → Northrop Grumman Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20100129) (2009-12-11)
-- [Northrop Grumman Corporation → SAIC, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20071542) (2007-07-11)
-- [Northrop Grumman Corporation → Essex Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20070377) (2007-01-23)
+- [The Veritas Capital Fund VII, L.P. → Northrop Grumman Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20210728) (VERIFIED) (2021-01-12)
+- [Northrop Grumman Corporation → Orbital ATK, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20180022) (VERIFIED) (2018-06-05)
+- [Birch Holdco, LP → Northrop Grumman Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20100129) (VERIFIED) (2009-12-11)
+- [Northrop Grumman Corporation → SAIC, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20071542) (VERIFIED) (2007-07-11)
+- [Northrop Grumman Corporation → Essex Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20070377) (VERIFIED) (2007-01-23)
 
-> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Northrop%20Grumman).
+> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Northrop%20Grumman) (VERIFIED).
 
-- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Northrop%20Grumman) (Tier 1)
+- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Northrop%20Grumman) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->

@@ -112,21 +112,21 @@ The 2026 cycle reveals the scale. Torres has raised $5,052,480 with $1,616,453 f
 
 ### Sources
 
-- [FEC Candidate: Ritchie Torres campaign finance summary](https://www.fec.gov/data/candidate/H0NY15160/) (Tier 1)
-- [FEC Candidate: Ritchie Torres industry breakdown 2024](https://www.fec.gov/data/candidate/H0NY15160/) (Tier 1)
-- [AIPAC Tracker on X: Torres AIPAC donations $683,006](https://x.com/TrackAIPAC/status/1892365341709279628?lang=en) (Tier 3 — activist tracking) (Tier 2)
-- [AIPAC Tracker on X: Torres Israel lobby total $1.5M+](https://x.com/TrackAIPAC/status/1793830657472471181) (Tier 3)
-- [Jewish Currents: Ritchie Torres is the Future of Pro-Israel Politics](https://jewishcurrents.org/ritchie-torres-is-the-future-of-pro-israel-politics) (Tier 2)
-- [City & State New York: The evolution of Ritchie Torres](https://www.cityandstateny.com/personality/2024/06/evolution-ritchie-torres/397205/) (Tier 2)
-- [Jewish Telegraphic Agency: Ritchie Torres' challengers test how Israel plays in the Bronx](https://www.jta.org/2026/01/30/politics/ritchie-torres-challengers-are-testing-how-israel-plays-in-the-bronx-and-testing-aim-at-zionists-in-a-jewish-neighborhood) (Tier 2)
-- [Times of Israel: Ritchie Torres's primary challengers criticize pro-Israel views](https://www.timesofisrael.com/ritchie-torress-primary-challengers-criticize-his-pro-israel-views-take-aim-at-rich-zios/) (Tier 2)
-- [CNBC: Crypto super PAC Fairshake has $116 million on hand for 2026 election](https://www.cnbc.com/2025/01/30/crypto-pac-fairshake-has-116-million-on-hand-for-2026-elections.html) (Tier 2)
-- [City & State New York: Deep-pocketed crypto super PAC eyes New York House races 2026](https://www.cityandstateny.com/politics/2026/03/deep-pocketed-crypto-super-pac-eyes-new-york-house-races-2026/412198/) (Tier 2)
-- [Fortune: Ritchie Torres went from crypto newbie to key ally in Washington](https://fortune.com/crypto/2023/01/26/ritchie-torres-cryptocurrency-blockchain-web3-financial-inclusion/) (Tier 2)
-- [Data Commons: Congressional District 15, NY median household income](https://datacommons.org/place/geoId/36061) (Tier 1)
-- [Data USA: Congressional District 15, NY demographics](https://datausa.io/profile/geo/congressional-district-15-ny) (Tier 1)
-- [Census Bureau QuickFacts: Bronx County poverty](https://www.census.gov/quickfacts/fact/table/bronxcountynewyork/PST045223) (Tier 1)
-- [Wikipedia: Ritchie Torres](https://en.wikipedia.org/wiki/Ritchie_Torres) (Tier 3)
+- [FEC Candidate: Ritchie Torres campaign finance summary](https://www.fec.gov/data/candidate/H0NY15160/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Ritchie Torres industry breakdown 2024](https://www.fec.gov/data/candidate/H0NY15160/) (Tier 1) (VERIFIED)
+- [AIPAC Tracker on X: Torres AIPAC donations $683,006](https://x.com/TrackAIPAC/status/1892365341709279628?lang=en) (VERIFIED) (Tier 3 — activist tracking) (Tier 2)
+- [AIPAC Tracker on X: Torres Israel lobby total $1.5M+](https://x.com/TrackAIPAC/status/1793830657472471181) (Tier 3) (VERIFIED)
+- [Jewish Currents: Ritchie Torres is the Future of Pro-Israel Politics](https://jewishcurrents.org/ritchie-torres-is-the-future-of-pro-israel-politics) (Tier 2) (VERIFIED)
+- [City & State New York: The evolution of Ritchie Torres](https://www.cityandstateny.com/personality/2024/06/evolution-ritchie-torres/397205/) (Tier 2) (VERIFIED)
+- ~~[Jewish Telegraphic Agency: Ritchie Torres' challengers test how Israel plays in the Bronx](https://www.jta.org/2026/01/30/politics/ritchie-torres-challengers-are-testing-how-israel-plays-in-the-bronx-and-testing-aim-at-zionists-in-a-jewish-neighborhood)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Times of Israel: Ritchie Torres's primary challengers criticize pro-Israel views](https://www.timesofisrael.com/ritchie-torress-primary-challengers-criticize-his-pro-israel-views-take-aim-at-rich-zios/) (Tier 2) (VERIFIED)
+- [CNBC: Crypto super PAC Fairshake has $116 million on hand for 2026 election](https://www.cnbc.com/2025/01/30/crypto-pac-fairshake-has-116-million-on-hand-for-2026-elections.html) (Tier 2) (VERIFIED)
+- [City & State New York: Deep-pocketed crypto super PAC eyes New York House races 2026](https://www.cityandstateny.com/politics/2026/03/deep-pocketed-crypto-super-pac-eyes-new-york-house-races-2026/412198/) (Tier 2) (VERIFIED)
+- [Fortune: Ritchie Torres went from crypto newbie to key ally in Washington](https://fortune.com/crypto/2023/01/26/ritchie-torres-cryptocurrency-blockchain-web3-financial-inclusion/) (Tier 2) (VERIFIED)
+- [Data Commons: Congressional District 15, NY median household income](https://datacommons.org/place/geoId/36061) (Tier 1) (VERIFIED)
+- [Data USA: Congressional District 15, NY demographics](https://datausa.io/profile/geo/congressional-district-15-ny) (Tier 1) (VERIFIED)
+- [Census Bureau QuickFacts: Bronx County poverty](https://www.census.gov/quickfacts/fact/table/bronxcountynewyork/PST045223) (Tier 1) (VERIFIED)
+- [Wikipedia: Ritchie Torres](https://en.wikipedia.org/wiki/Ritchie_Torres) (Tier 3) (VERIFIED)
 
 ---
 
@@ -160,14 +160,14 @@ The 2026 cycle reveals the scale. Torres has raised $5,052,480 with $1,616,453 f
 | PROTECT PROGRESS | $220,295 | $0 |
 | FAIRSHAKE | $126,168 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0NY15160/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0NY15160/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Ritchie Torres](https://www.congress.gov/member/e000179) (Tier 1)
+- ~~[Congress.gov: Ritchie Torres](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 
 ### Legislative Activity (Congress.gov)
@@ -195,5 +195,5 @@ The 2026 cycle reveals the scale. Torres has raised $5,052,480 with $1,616,453 f
 | 6727 | Repealing the IMD Exclusion Act | Referred to the House Committee on Energy and Commerce. |
 | 6677 | Professional Degree Access Restoration Act | Referred to the House Committee on Education and Workforce. |
 
-- [Source: Congress.gov](https://www.congress.gov/member/T000486) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/T000486)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->

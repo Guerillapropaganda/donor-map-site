@@ -123,14 +123,14 @@ Iowa farmers received approximately $893 million in Farm Bureau Association prog
 
 ### Sources
 
-- [EWG. Farm Subsidies 40 Years Database Update](https://www.ewg.org/news-insights/news/2025/05/almost-10000-farmers-have-received-subsidies-40-straight-years) (Tier 2)
-- [Council on Foreign Relations. Tariff Proceeds Farm Bailout Analysis](https://www.cfr.org/articles/92-percent-trumps-china-tariff-proceeds-has-gone-bail-out-angry-farmers) (Tier 2)
-- [EWG. USDA Bailout Goes to Biggest Richest Farmers](https://www.ewg.org/news-insights/news/usda-bailout-impact-trumps-tariffs-goes-biggest-richest-farmers) (Tier 2)
-- [Center on Budget and Policy Priorities. Republican SNAP Proposals](https://www.cbpp.org/research/food-assistance/republican-snap-proposals-could-take-food-away-from-millions-of-low-income) (Tier 2)
-- [NPR Illinois. How Meatpacking Industry Skirted COVID Safety with White House Help (August 2022)](https://www.nprillinois.org/2022-08-11/how-the-meatpacking-industry-skirted-covid-safety-regulations-with-the-help-of-the-white-house/) (Tier 2)
-- [OpenSecrets. Agribusiness Sector Summary 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- [USDA. Farm Bill Overview](https://www.usda.gov/farming-and-ranching/farm-bill) (Tier 1)
-- [Food Safety News. Trump Aided by RFK Jr. Dismantling Food Safety Network (September 2025)](https://www.foodsafetynews.com/2025/09/trump-aided-by-rfk-jr-is-dismantling-the-u-s-food-safety-network/) (Tier 2)
+- [EWG. Farm Subsidies 40 Years Database Update](https://www.ewg.org/news-insights/news/2025/05/almost-10000-farmers-have-received-subsidies-40-straight-years) (Tier 2) (VERIFIED)
+- [Council on Foreign Relations. Tariff Proceeds Farm Bailout Analysis](https://www.cfr.org/articles/92-percent-trumps-china-tariff-proceeds-has-gone-bail-out-angry-farmers) (Tier 2) (VERIFIED)
+- [EWG. USDA Bailout Goes to Biggest Richest Farmers](https://www.ewg.org/news-insights/news/usda-bailout-impact-trumps-tariffs-goes-biggest-richest-farmers) (Tier 2) (VERIFIED)
+- ~~[Center on Budget and Policy Priorities. Republican SNAP Proposals](https://www.cbpp.org/research/food-assistance/republican-snap-proposals-could-take-food-away-from-millions-of-low-income)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [NPR Illinois. How Meatpacking Industry Skirted COVID Safety with White House Help (August 2022)](https://www.nprillinois.org/2022-08-11/how-the-meatpacking-industry-skirted-covid-safety-regulations-with-the-help-of-the-white-house/) (Tier 2) (VERIFIED)
+- [OpenSecrets. Agribusiness Sector Summary 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
+- [USDA. Farm Bill Overview](https://www.usda.gov/farming-and-ranching/farm-bill) (Tier 1) (VERIFIED)
+- [Food Safety News. Trump Aided by RFK Jr. Dismantling Food Safety Network (September 2025)](https://www.foodsafetynews.com/2025/09/trump-aided-by-rfk-jr-is-dismantling-the-u-s-food-safety-network/) (Tier 2) (VERIFIED)
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
@@ -139,5 +139,5 @@ Iowa farmers received approximately $893 million in Farm Bureau Association prog
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Farm Subsidies, SNAP Cuts, and the Tariff Bailout - Who Actually Got Paid](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: Farm Subsidies, SNAP Cuts, and the Tariff Bailout - Who Actually Got Paid](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->

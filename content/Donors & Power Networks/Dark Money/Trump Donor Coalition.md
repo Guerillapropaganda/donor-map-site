@@ -155,16 +155,16 @@ The transactional clarity is the defining feature. Traditional Republican fundra
 
 ### Sources
 
-- [OpenSecrets: Make America Great Again Inc. PAC summary — $410.5M raised (C00825851)](https://www.opensecrets.org/political-action-committees-pacs/make-america-great-again-inc/C00825851/summary/2024) (Tier 1)
-- [OpenSecrets: MAGA Inc. top donors — Mellon $151.5M, Yass $16M, crypto (C00825851)](https://www.opensecrets.org/outside-spending/detail/2024?cmte=C00825851&tab=donors) (Tier 1)
-- [FEC: Donald J. Trump candidate overview (P80001571)](https://www.fec.gov/data/candidate/P80001571/) (Tier 1)
-- [CNN: Elon Musk spent $290M+ on 2024 election — year-end FEC filings](https://www.cnn.com/2025/02/01/politics/elon-musk-2024-election-spending-millions) (Tier 2)
-- [Brennan Center: Unprecedented big money surge for super PAC tied to Trump](https://www.brennancenter.org/our-work/analysis-opinion/unprecedented-big-money-surge-super-pac-tied-trump) (Tier 2)
-- [Brennan Center: Trump's use of campaign funds to pay legal bills — $100M+](https://www.brennancenter.org/our-work/research-reports/trumps-use-campaign-funds-pay-legal-bills) (Tier 2)
-- [Brennan Center: Million-dollar donors flooded Trump's second inauguration — $245M record](https://www.brennancenter.org/our-work/research-reports/million-dollar-donors-flooded-trumps-second-inauguration) (Tier 2)
-- [Public Citizen: Corporations and billionaires funnel millions into Trump inauguration](https://www.citizen.org/article/corporations-and-billionaires-funnel-millions-into-trump-inauguration-committee/) (Tier 2)
-- [Rolling Stone: Trump's inauguration donors — Big Oil, Big Pharma, Big Tech, Crypto](https://www.rollingstone.com/politics/politics-features/trump-inauguration-donors-big-oil-big-pharma-big-tech-crypto-1235252214/) (Tier 2)
-- [Read Sludge: Elon Musk spent over a quarter billion to elect Trump](https://readsludge.com/2024/12/06/elon-musk-spent-over-a-quarter-billion-to-elect-trump/) (Tier 2)
+- [OpenSecrets: Make America Great Again Inc. PAC summary — $410.5M raised (C00825851)](https://www.opensecrets.org/political-action-committees-pacs/make-america-great-again-inc/C00825851/summary/2024) (Tier 1) (VERIFIED)
+- [OpenSecrets: MAGA Inc. top donors — Mellon $151.5M, Yass $16M, crypto (C00825851)](https://www.opensecrets.org/outside-spending/detail/2024?cmte=C00825851&tab=donors) (Tier 1) (VERIFIED)
+- [FEC: Donald J. Trump candidate overview (P80001571)](https://www.fec.gov/data/candidate/P80001571/) (Tier 1) (VERIFIED)
+- [CNN: Elon Musk spent $290M+ on 2024 election — year-end FEC filings](https://www.cnn.com/2025/02/01/politics/elon-musk-2024-election-spending-millions) (Tier 2) (VERIFIED)
+- [Brennan Center: Unprecedented big money surge for super PAC tied to Trump](https://www.brennancenter.org/our-work/analysis-opinion/unprecedented-big-money-surge-super-pac-tied-trump) (Tier 2) (VERIFIED)
+- [Brennan Center: Trump's use of campaign funds to pay legal bills — $100M+](https://www.brennancenter.org/our-work/research-reports/trumps-use-campaign-funds-pay-legal-bills) (Tier 2) (VERIFIED)
+- [Brennan Center: Million-dollar donors flooded Trump's second inauguration — $245M record](https://www.brennancenter.org/our-work/research-reports/million-dollar-donors-flooded-trumps-second-inauguration) (Tier 2) (VERIFIED)
+- [Public Citizen: Corporations and billionaires funnel millions into Trump inauguration](https://www.citizen.org/article/corporations-and-billionaires-funnel-millions-into-trump-inauguration-committee/) (Tier 2) (VERIFIED)
+- [Rolling Stone: Trump's inauguration donors — Big Oil, Big Pharma, Big Tech, Crypto](https://www.rollingstone.com/politics/politics-features/trump-inauguration-donors-big-oil-big-pharma-big-tech-crypto-1235252214/) (Tier 2) (VERIFIED)
+- [Read Sludge: Elon Musk spent over a quarter billion to elect Trump](https://readsludge.com/2024/12/06/elon-musk-spent-over-a-quarter-billion-to-elect-trump/) (Tier 2) (VERIFIED)
 
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->
@@ -182,7 +182,7 @@ The transactional clarity is the defining feature. Traditional Republican fundra
 
 **Agencies contacted:** HOUSE OF REPRESENTATIVES, Intl Trade Administration (ITA), SENATE
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Trump%20Donor%20Coalition) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Trump%20Donor%20Coalition) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)
@@ -213,12 +213,12 @@ The transactional clarity is the defining feature. Traditional Republican fundra
 **Filing history:** 2018, 2018, 2017, 2016, 2015, 2014, 2013, 2012
 
 **View 990 filings:**
+- ~~[2018 Filing](https://projects.propublica.org/nonprofits/organizations/363550786/2018)~~ (URL broken, archived by Ops)
 - [2018 Filing](https://projects.propublica.org/nonprofits/organizations/363550786/2018)
-- [2018 Filing](https://projects.propublica.org/nonprofits/organizations/363550786/2018)
-- [2017 Filing](https://projects.propublica.org/nonprofits/organizations/363550786/2017)
-- [2016 Filing](https://projects.propublica.org/nonprofits/organizations/363550786/2016)
-- [2015 Filing](https://projects.propublica.org/nonprofits/organizations/363550786/2015)
+- ~~[2017 Filing](https://projects.propublica.org/nonprofits/organizations/363550786/2017)~~ (URL broken, archived by Ops)
+- ~~[2016 Filing](https://projects.propublica.org/nonprofits/organizations/363550786/2016)~~ (URL broken, archived by Ops)
+- ~~[2015 Filing](https://projects.propublica.org/nonprofits/organizations/363550786/2015)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/363550786) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/363550786) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->

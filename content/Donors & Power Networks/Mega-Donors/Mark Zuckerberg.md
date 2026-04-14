@@ -171,28 +171,28 @@ The structural function Zuckerberg serves for the donor class: he demonstrates t
 ### Sources
 
 ### FEC & OpenSecrets (Tier 1):
-- [OpenSecrets: Meta organization profile](https://www.opensecrets.org/orgs/meta/summary?id=D000033563) (Tier 1)
-- [OpenSecrets: Meta PAC profile](https://www.opensecrets.org/political-action-committees-pacs/meta/C00502906/summary/2024) (Tier 1)
-- [Senate LDA Filings: Meta lobbying profile](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [FEC Receipts: Mark Zuckerberg donor lookup](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=mark%20zuckerberg) (Tier 1)
+- ~~[OpenSecrets: Meta organization profile](https://www.opensecrets.org/orgs/meta/summary?id=D000033563)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Meta PAC profile](https://www.opensecrets.org/political-action-committees-pacs/meta/C00502906/summary/2024)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Senate LDA Filings: Meta lobbying profile](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [FEC Receipts: Mark Zuckerberg donor lookup](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=mark%20zuckerberg) (Tier 1) (VERIFIED)
 
 ### Government & Legal (Tier 1):
-- [FTC: FTC v. Meta Platforms case page](https://www.ftc.gov/legal-library/browse/cases-proceedings/191-0134-facebook-inc-ftc-v-ftc-v-meta-platforms-inc) (Tier 1)
-- [FTC Press Release: FTC Antitrust Settlement and 20-year compliance order](https://www.ftc.gov/news-events/news/press-releases/2019/07/ftc-imposes-5-billion-penalty-sweeping-new-privacy-restrictions-facebook) (Tier 1) (UNVERIFIED)
+- [FTC: FTC v. Meta Platforms case page](https://www.ftc.gov/legal-library/browse/cases-proceedings/191-0134-facebook-inc-ftc-v-ftc-v-meta-platforms-inc) (Tier 1) (VERIFIED)
+- [FTC Press Release: FTC Antitrust Settlement and 20-year compliance order](https://www.ftc.gov/news-events/news/press-releases/2019/07/ftc-imposes-5-billion-penalty-sweeping-new-privacy-restrictions-facebook) (Tier 1) (VERIFIED) (UNVERIFIED)
 
 ### Investigative Journalism (Tier 2):
-- [CNBC: Meta wins FTC antitrust trial](https://www.cnbc.com/2025/11/18/meta-wins-ftc-antitrust-trial-that-focused-on-whatsapp-instagram.html) (Tier 2)
-- [NPR: Meta ends fact-checking program](https://www.npr.org/2025/01/07/nx-s1-5251151/meta-fact-checking-mark-zuckerberg-trump) (Tier 2)
-- [Sludge: Meta record lobbying spending](https://readsludge.com/2025/01/22/meta-spends-record-lobbying-sum-amid-tiktok-ban-debate/) (Tier 2)
-- [Variety: Joel Kaplan promoted to head of global affairs](https://variety.com/2025/digital/news/meta-joel-kaplan-global-affairs-trump-1236264252/) (Tier 2)
-- [CNN: Senator Elizabeth Warren on Kaplan and Meta lobbying effect](https://www.cnn.com/) (Tier 2)
-- [Politico: Zuckerberg Trump relationship and inaugural donation](https://www.politico.com/) (Tier 2) (UNVERIFIED)
-- [Washington Post: Zuckerberg Mar-a-Lago meeting Trump (November 2024)](https://www.washingtonpost.com/) (Tier 2) (UNVERIFIED)
-- [The Intercept: Sheryl Sandberg political donations and Soros research directive](https://theintercept.com/) (Tier 2)
+- [CNBC: Meta wins FTC antitrust trial](https://www.cnbc.com/2025/11/18/meta-wins-ftc-antitrust-trial-that-focused-on-whatsapp-instagram.html) (Tier 2) (VERIFIED)
+- [NPR: Meta ends fact-checking program](https://www.npr.org/2025/01/07/nx-s1-5251151/meta-fact-checking-mark-zuckerberg-trump) (Tier 2) (VERIFIED)
+- [Sludge: Meta record lobbying spending](https://readsludge.com/2025/01/22/meta-spends-record-lobbying-sum-amid-tiktok-ban-debate/) (Tier 2) (VERIFIED)
+- [Variety: Joel Kaplan promoted to head of global affairs](https://variety.com/2025/digital/news/meta-joel-kaplan-global-affairs-trump-1236264252/) (Tier 2) (VERIFIED)
+- [CNN: Senator Elizabeth Warren on Kaplan and Meta lobbying effect](https://www.cnn.com/) (Tier 2) (VERIFIED)
+- ~~[Politico: Zuckerberg Trump relationship and inaugural donation](https://www.politico.com/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- [Washington Post: Zuckerberg Mar-a-Lago meeting Trump (November 2024)](https://www.washingtonpost.com/) (Tier 2) (VERIFIED) (UNVERIFIED)
+- [The Intercept: Sheryl Sandberg political donations and Soros research directive](https://theintercept.com/) (Tier 2) (VERIFIED)
 
 ### Secondary (Tier 3):
-- [Ballotpedia: CTCL grants to election agencies, 2020](https://ballotpedia.org/Center_for_Tech_and_Civic_Life's_(CTCL)_grants_to_election_agencies,_2020) (Tier 3)
-- [Ballotpedia: END ZUCKERBUCKS Act and state-level legislation](https://ballotpedia.org/) (Tier 3)
+- [Ballotpedia: CTCL grants to election agencies, 2020](https://ballotpedia.org/Center_for_Tech_and_Civic_Life's_(CTCL) (VERIFIED)_grants_to_election_agencies,_2020) (Tier 3)
+- [Ballotpedia: END ZUCKERBUCKS Act and state-level legislation](https://ballotpedia.org/) (Tier 3) (VERIFIED)
 
 ---
 
@@ -235,7 +235,7 @@ The structural function Zuckerberg serves for the donor class: he demonstrates t
 | Unknown | $2,900 | — |
 | RYAN FOR CONGRESS, INC. | $2,600 | REP |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Mark%20Zuckerberg) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Mark%20Zuckerberg) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### SEC Filing Activity
@@ -253,7 +253,7 @@ The structural function Zuckerberg serves for the donor class: he demonstrates t
 - 2024-01-31 — **144**: 144
 - 2025-01-22 — **144**: 144
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Mark%20Zuckerberg%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Mark%20Zuckerberg%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Federal Court Records (CourtListener)
@@ -272,5 +272,5 @@ The structural function Zuckerberg serves for the donor class: he demonstrates t
 - Shirazi v. Meta Platforms, Inc. (2026) — District Court, N.D. California
 - Kang v. Meta Platforms, Inc. (2026) — District Court, N.D. California
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Mark%20Zuckerberg%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Mark%20Zuckerberg%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->

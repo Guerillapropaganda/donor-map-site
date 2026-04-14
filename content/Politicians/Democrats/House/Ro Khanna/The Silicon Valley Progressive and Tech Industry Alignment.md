@@ -59,8 +59,8 @@ The strategy: Khanna's Silicon Valley fundraising base gives him access to the D
 
 ### Sources
 
-- [FEC Candidate: Ro Khanna donor profile](https://www.fec.gov/data/candidate/H4CA12055/) (Tier 1)
-- [FEC: Khanna campaign finance filings](https://www.fec.gov/data/candidate/H4CA12055/) (Tier 1)
-- [Congress.gov: Ro Khanna member page](https://www.congress.gov/member/ro-khanna/K000389) (Tier 1)
-- [Ballotpedia: Ro Khanna](https://ballotpedia.org/Ro_Khanna) (Tier 3)
+- [FEC Candidate: Ro Khanna donor profile](https://www.fec.gov/data/candidate/H4CA12055/) (Tier 1) (VERIFIED)
+- [FEC: Khanna campaign finance filings](https://www.fec.gov/data/candidate/H4CA12055/) (Tier 1) (VERIFIED)
+- [Congress.gov: Ro Khanna member page](https://www.congress.gov/member/ro-khanna/K000389) (Tier 1) (VERIFIED)
+- [Ballotpedia: Ro Khanna](https://ballotpedia.org/Ro_Khanna) (Tier 3) (VERIFIED)
 

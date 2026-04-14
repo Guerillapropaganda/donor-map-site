@@ -191,11 +191,11 @@ The tax-exempt structure is the foundation of the foundation: every dollar Gates
 
 ### Sources
 
-- [ProPublica Nonprofit Explorer: Bill & Melinda Gates Foundation (EIN 56-2618866)](https://projects.propublica.org/nonprofits/organizations/562618866) (Tier 1) — 990-PF filings, financial data, grant recipients
-- [Wikipedia: Gates Foundation](https://en.wikipedia.org/wiki/Gates_Foundation) (Tier 3) — Comprehensive overview: $86B assets, education programs, Common Core, criticism, financials, trust investments
-- [Gates Foundation: Annual Report / Financials](https://www.gatesfoundation.org/about/financials) (Tier 1) — Official financial disclosures, grant totals, 990-PF filings
-- [Gates Foundation: What We Do](https://www.gatesfoundation.org/our-work) (Tier 1) — Program areas, strategic priorities
-- [GAVI: Gates Foundation donor profile](https://www.gavi.org/investing-gavi/funding/donor-profiles/gates-foundation) (Tier 1) — Foundation as GAVI's largest funder
+- [ProPublica Nonprofit Explorer: Bill & Melinda Gates Foundation (EIN 56-2618866)](https://projects.propublica.org/nonprofits/organizations/562618866) (Tier 1) (VERIFIED) — 990-PF filings, financial data, grant recipients
+- [Wikipedia: Gates Foundation](https://en.wikipedia.org/wiki/Gates_Foundation) (Tier 3) (VERIFIED) — Comprehensive overview: $86B assets, education programs, Common Core, criticism, financials, trust investments
+- [Gates Foundation: Annual Report / Financials](https://www.gatesfoundation.org/about/financials) (Tier 1) (VERIFIED) — Official financial disclosures, grant totals, 990-PF filings
+- [Gates Foundation: What We Do](https://www.gatesfoundation.org/our-work) (Tier 1) (VERIFIED) — Program areas, strategic priorities
+- [GAVI: Gates Foundation donor profile](https://www.gavi.org/investing-gavi/funding/donor-profiles/gates-foundation) (Tier 1) (VERIFIED) — Foundation as GAVI's largest funder
 
 ---
 
@@ -214,14 +214,14 @@ The tax-exempt structure is the foundation of the foundation: every dollar Gates
 - 2019-01-04 — **8-K**: 8-K GATES REMPTION
 - 2016-05-13 — **8-K**: FORM 8-K
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Gates%20Foundation%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Gates%20Foundation%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [335800ELY8A4QWLXQW56](https://search.gleif.org/#/record/335800ELY8A4QWLXQW56) |
+| LEI | [335800ELY8A4QWLXQW56](https://search.gleif.org/#/record/335800ELY8A4QWLXQW56) (VERIFIED) |
 | Legal Name | GATES FOUNDATION |
 | Jurisdiction | US-WA |
 | Entity Status | ACTIVE |
@@ -229,7 +229,7 @@ The tax-exempt structure is the foundation of the foundation: every dollar Gates
 | Registration | ISSUED |
 | Last Updated | 2025-11-26T07:22:21Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -241,7 +241,7 @@ The tax-exempt structure is the foundation of the foundation: every dollar Gates
 | Total Expenses | $8.8B |
 | Net Assets | $77.0B |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 562618866](https://projects.propublica.org/nonprofits/organizations/562618866) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 562618866](https://projects.propublica.org/nonprofits/organizations/562618866) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Federal Register Activity
@@ -255,15 +255,15 @@ The tax-exempt structure is the foundation of the foundation: every dollar Gates
 | Agencies | Agency for International Development, Antitrust Division, Centers for Disease Control and Prevention, Education Department, Employment and Training Administration, Environmental Protection Agency, Federal Communications Commission, Health and Human Services Department +7 more |
 
 **Recent regulatory activity:**
-- [Expanding Employment, Training, and Apprenticeship Opportunities for 16- and 17-Year-Olds in Health Care Occupations Under the Fair Labor Standards Act](https://www.federalregister.gov/documents/2018/09/27/2018-20996/expanding-employment-training-and-apprenticeship-opportunities-for-16--and-17-year-olds-in-health) (2018-09-27) — Labor Department ★
-- [Open Licensing Requirement for Competitive Grant Programs](https://www.federalregister.gov/documents/2017/01/19/2017-00910/open-licensing-requirement-for-competitive-grant-programs) (2017-01-19) — Education Department ★
-- [Board for International Food and Agricultural Development; Notice of Meeting](https://www.federalregister.gov/documents/2016/09/29/2016-23648/board-for-international-food-and-agricultural-development-notice-of-meeting) (2016-09-29) — Agency for International Development
-- [Disclosure of Payments by Resource Extraction Issuers](https://www.federalregister.gov/documents/2015/12/23/2015-31702/disclosure-of-payments-by-resource-extraction-issuers) (2015-12-23) — Securities and Exchange Commission
-- [Nominations to the FIFRA Scientific Advisory Panel; Request for Comments](https://www.federalregister.gov/documents/2015/08/12/2015-19828/nominations-to-the-fifra-scientific-advisory-panel-request-for-comments) (2015-08-12) — Environmental Protection Agency
-- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-IMS Global Learning Consortium, Inc.](https://www.federalregister.gov/documents/2015/04/22/2015-09316/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-ims-global-learning) (2015-04-22) — Justice Department
+- [Expanding Employment, Training, and Apprenticeship Opportunities for 16- and 17-Year-Olds in Health Care Occupations Under the Fair Labor Standards Act](https://www.federalregister.gov/documents/2018/09/27/2018-20996/expanding-employment-training-and-apprenticeship-opportunities-for-16--and-17-year-olds-in-health) (VERIFIED) (2018-09-27) — Labor Department ★
+- [Open Licensing Requirement for Competitive Grant Programs](https://www.federalregister.gov/documents/2017/01/19/2017-00910/open-licensing-requirement-for-competitive-grant-programs) (VERIFIED) (2017-01-19) — Education Department ★
+- [Board for International Food and Agricultural Development; Notice of Meeting](https://www.federalregister.gov/documents/2016/09/29/2016-23648/board-for-international-food-and-agricultural-development-notice-of-meeting) (VERIFIED) (2016-09-29) — Agency for International Development
+- [Disclosure of Payments by Resource Extraction Issuers](https://www.federalregister.gov/documents/2015/12/23/2015-31702/disclosure-of-payments-by-resource-extraction-issuers) (VERIFIED) (2015-12-23) — Securities and Exchange Commission
+- [Nominations to the FIFRA Scientific Advisory Panel; Request for Comments](https://www.federalregister.gov/documents/2015/08/12/2015-19828/nominations-to-the-fifra-scientific-advisory-panel-request-for-comments) (VERIFIED) (2015-08-12) — Environmental Protection Agency
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-IMS Global Learning Consortium, Inc.](https://www.federalregister.gov/documents/2015/04/22/2015-09316/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-ims-global-learning) (VERIFIED) (2015-04-22) — Justice Department
 - ... and 12 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Gates%20Foundation%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Gates%20Foundation%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Federal Court Records (CourtListener)
@@ -282,7 +282,7 @@ The tax-exempt structure is the foundation of the foundation: every dollar Gates
 - Anthropic PBC v. U.S. Department of War (2026) — District Court, N.D. California
 - Emrit v. Gates, et al. (2026) — Court of Appeals for the Ninth Circuit
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Gates%20Foundation%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Gates%20Foundation%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Tax Filings (IRS 990)
@@ -300,12 +300,12 @@ The tax-exempt structure is the foundation of the foundation: every dollar Gates
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/562618866/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/562618866/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/562618866/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/562618866/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/562618866/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/562618866/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/562618866/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/562618866/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/562618866/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/562618866/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/562618866) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/562618866) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->

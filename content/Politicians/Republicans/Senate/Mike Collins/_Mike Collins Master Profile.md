@@ -139,18 +139,18 @@ The class function is clear: Collins provides a Trump-aligned, working-class fac
 
 ## Sources
 
-- [Beincrypto: Crypto and AIPAC targeting Georgia Senate seat](https://beincrypto.com/crypto-lobby-and-aipac-targets-georgia-senate/) (Tier 2)
-- [Cryptonews: Crypto Industry and AIPAC Back Mike Collins Georgia 2026](https://cryptonews.net/news/legal/31673812/) (Tier 2)
-- [Phemex News: Crypto Industry and AIPAC Support Mike Collins Georgia Senate](https://phemex.com/news/article/crypto-industry-and-aipac-support-mike-collins-in-georgia-senate-race-20593) (Tier 3)
-- [Georgia Recorder: GOP Senate hopefuls fundraising report](https://georgiarecorder.com/briefs/u-s-senate-gop-hopefuls-say-they-raised-nearly-2m-each-in-fight-for-georgia-seat/) (Tier 2)
-- [Georgia Recorder: Ossoff fundraising $12M Q3 2025](https://georgiarecorder.com/briefs/ossoff-raises-another-12-million-as-he-fights-for-reelection-in-closely-watched-2026-senate-race/) (Tier 2)
-- [Congress.gov: Mike Collins campaign finance summary](https://www.congress.gov/search?q=Mike%20Collins&searchResultViewType=expanded) (Tier 1)
-- [Congress.gov: Mike Collins expenditure records](https://www.congress.gov/search?q=Mike%20Collins&searchResultViewType=expanded) (Tier 1)
-- [Ballotpedia: Mike Collins Georgia politician profile](https://ballotpedia.org/Mike_Collins_(Georgia)) (Tier 3)
-- [Wikipedia: Mike Collins Georgia politician](https://en.wikipedia.org/wiki/Mike_Collins_%28politician%29) (Tier 3)
-- [Georgia Recorder: Mike Collins ethics investigation](https://georgiarecorder.com/briefs/more-details-released-about-ethics-investigation-into-congressman-mike-collins-and-former-top-aide/) (Tier 2)
-- [CNBC: Fairshake PAC $193M+ cash on hand 2026](https://www.cnbc.com/2025/01/30/crypto-pac-fairshake-has-116-million-on-hand-for-2026-elections.html) (Tier 2)
-- [Track AIPAC: Georgia congressional delegation AIPAC tracking](https://www.trackaipac.com/states/georgia) (Tier 3)
+- ~~[Beincrypto: Crypto and AIPAC targeting Georgia Senate seat](https://beincrypto.com/crypto-lobby-and-aipac-targets-georgia-senate/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Cryptonews: Crypto Industry and AIPAC Back Mike Collins Georgia 2026](https://cryptonews.net/news/legal/31673812/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Phemex News: Crypto Industry and AIPAC Support Mike Collins Georgia Senate](https://phemex.com/news/article/crypto-industry-and-aipac-support-mike-collins-in-georgia-senate-race-20593) (Tier 3) (VERIFIED)
+- [Georgia Recorder: GOP Senate hopefuls fundraising report](https://georgiarecorder.com/briefs/u-s-senate-gop-hopefuls-say-they-raised-nearly-2m-each-in-fight-for-georgia-seat/) (Tier 2) (VERIFIED)
+- [Georgia Recorder: Ossoff fundraising $12M Q3 2025](https://georgiarecorder.com/briefs/ossoff-raises-another-12-million-as-he-fights-for-reelection-in-closely-watched-2026-senate-race/) (Tier 2) (VERIFIED)
+- ~~[Congress.gov: Mike Collins campaign finance summary](https://www.congress.gov/search?q=Mike%20Collins&searchResultViewType=expanded)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Mike Collins expenditure records](https://www.congress.gov/search?q=Mike%20Collins&searchResultViewType=expanded)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Ballotpedia: Mike Collins Georgia politician profile](https://ballotpedia.org/Mike_Collins_(Georgia) (VERIFIED)) (Tier 3)
+- [Wikipedia: Mike Collins Georgia politician](https://en.wikipedia.org/wiki/Mike_Collins_%28politician%29) (Tier 3) (VERIFIED)
+- [Georgia Recorder: Mike Collins ethics investigation](https://georgiarecorder.com/briefs/more-details-released-about-ethics-investigation-into-congressman-mike-collins-and-former-top-aide/) (Tier 2) (VERIFIED)
+- [CNBC: Fairshake PAC $193M+ cash on hand 2026](https://www.cnbc.com/2025/01/30/crypto-pac-fairshake-has-116-million-on-hand-for-2026-elections.html) (Tier 2) (VERIFIED)
+- [Track AIPAC: Georgia congressional delegation AIPAC tracking](https://www.trackaipac.com/states/georgia) (Tier 3) (VERIFIED)
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->
@@ -168,7 +168,7 @@ The class function is clear: Collins provides a Trump-aligned, working-class fac
 - H.R. 5258: Lawsuit Abuse Reduction Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on September 10, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 - H.R. 4068: Streamlining NEPA for Coal Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on June 23, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456895) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456895) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
 
 ### Voting Record

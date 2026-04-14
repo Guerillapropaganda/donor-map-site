@@ -226,14 +226,14 @@ The pharmaceutical industry's political operation reveals the most complete exam
 
 ### Sources
 
-- [FEC Receipts: Pharmaceuticals/Health Products industry summary](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- [Senate LDA Filings: Pharmaceuticals/Health Products lobbying profile](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Congress.gov CRS: Medicare Drug Price Negotiation Under the IRA — Industry Responses](https://www.congress.gov/crs-product/R47872) (Tier 1)
-- [Fierce Pharma: Big Pharma greets hundreds of ex-federal workers at the revolving door](https://www.fiercepharma.com/pharma/big-pharma-greets-hundreds-ex-federal-workers-at-revolving-door) (Tier 2)
-- [The Hill: For Big Pharma, the revolving door keeps spinning](https://thehill.com/blogs/congress-blog/politics/452654-for-big-pharma-the-revolving-door-keeps-spinning/) (Tier 2)
-- [OpenLobby: Big Pharma's Lobbying Machine — $452 Million and Counting](https://www.openlobby.us/investigations/big-pharma-lobbying) (Tier 2)
-- [Ballotpedia: Pharmaceutical industry political spending](https://ballotpedia.org/Pharmaceutical_industry_in_the_United_States) (Tier 3)
-- [Wikipedia: Pharmaceutical lobby](https://en.wikipedia.org/wiki/Pharmaceutical_lobby) (Tier 3)
+- [FEC Receipts: Pharmaceuticals/Health Products industry summary](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: Pharmaceuticals/Health Products lobbying profile](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Congress.gov CRS: Medicare Drug Price Negotiation Under the IRA — Industry Responses](https://www.congress.gov/crs-product/R47872) (Tier 1) (VERIFIED)
+- [Fierce Pharma: Big Pharma greets hundreds of ex-federal workers at the revolving door](https://www.fiercepharma.com/pharma/big-pharma-greets-hundreds-ex-federal-workers-at-revolving-door) (Tier 2) (VERIFIED)
+- ~~[The Hill: For Big Pharma, the revolving door keeps spinning](https://thehill.com/blogs/congress-blog/politics/452654-for-big-pharma-the-revolving-door-keeps-spinning/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [OpenLobby: Big Pharma's Lobbying Machine — $452 Million and Counting](https://www.openlobby.us/investigations/big-pharma-lobbying) (Tier 2) (VERIFIED)
+- [Ballotpedia: Pharmaceutical industry political spending](https://ballotpedia.org/Pharmaceutical_industry_in_the_United_States) (Tier 3) (VERIFIED)
+- [Wikipedia: Pharmaceutical lobby](https://en.wikipedia.org/wiki/Pharmaceutical_lobby) (Tier 3) (VERIFIED)
 
 ---
 
@@ -258,7 +258,7 @@ The pharmaceutical industry's political operation reveals the most complete exam
 | Total Expenses | $4.1M |
 | Net Assets | $615K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 431985339](https://projects.propublica.org/nonprofits/organizations/431985339) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 431985339](https://projects.propublica.org/nonprofits/organizations/431985339) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### SEC Filing Activity
@@ -276,7 +276,7 @@ The pharmaceutical industry's political operation reveals the most complete exam
 - 2016-09-22 — **FWP**: BASKET OF THREE PHARMACEUTICAL INDUSTRY STOCKS 14M ARN
 - 2016-10-07 — **424B2**: BASKET OF THREE PHARMACEUTICAL INDUSTRY STOCKS 14M ARN
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Pharmaceutical%20Industry%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Pharmaceutical%20Industry%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Federal Register Activity
@@ -291,15 +291,15 @@ The pharmaceutical industry's political operation reveals the most complete exam
 | Agencies | Centers for Medicare & Medicaid Services, Commerce Department, Drug Enforcement Administration, Environmental Protection Agency, Food and Drug Administration, Health and Human Services Department, Industry and Security Bureau, Justice Department +1 more |
 
 **Recent regulatory activity:**
-- [Medicare Program; Contract Year 2027 and Certain Contract Year 2026 Policy and Technical Changes to the Medicare Advantage Program, Medicare Prescription Drug Benefit Program, and Medicare Cost Plan Program](https://www.federalregister.gov/documents/2026/04/06/2026-06600/medicare-program-contract-year-2027-and-certain-contract-year-2026-policy-and-technical-changes-to) (2026-04-06) — Health and Human Services Department ★
-- [Office of the Director, Notice of Charter Renewal](https://www.federalregister.gov/documents/2026/03/24/2026-05694/office-of-the-director-notice-of-charter-renewal) (2026-03-24) — Health and Human Services Department
-- [Designation of Propionyl Chloride as a List I Chemical](https://www.federalregister.gov/documents/2026/03/10/2026-04657/designation-of-propionyl-chloride-as-a-list-i-chemical) (2026-03-10) — Justice Department
-- [Revising the National Drug Code Format and Drug Label Barcode Requirements](https://www.federalregister.gov/documents/2026/03/05/2026-04368/revising-the-national-drug-code-format-and-drug-label-barcode-requirements) (2026-03-05) — Health and Human Services Department
-- [New Clinical Investigation Exclusivity (3-Year Exclusivity) for Drug Products: Questions and Answers; Draft Guidance for Industry; Availability; Agency Information Collection Activities; Proposed Collection; Comment Request](https://www.federalregister.gov/documents/2026/03/04/2026-04291/new-clinical-investigation-exclusivity-3-year-exclusivity-for-drug-products-questions-and-answers) (2026-03-04) — Health and Human Services Department
-- [Agency Information Collection Activities; Submission for Office of Management and Budget Review; Comment Request; Emerging Drug Safety Technology Program](https://www.federalregister.gov/documents/2026/02/18/2026-03093/agency-information-collection-activities-submission-for-office-of-management-and-budget-review) (2026-02-18) — Health and Human Services Department
+- [Medicare Program; Contract Year 2027 and Certain Contract Year 2026 Policy and Technical Changes to the Medicare Advantage Program, Medicare Prescription Drug Benefit Program, and Medicare Cost Plan Program](https://www.federalregister.gov/documents/2026/04/06/2026-06600/medicare-program-contract-year-2027-and-certain-contract-year-2026-policy-and-technical-changes-to) (VERIFIED) (2026-04-06) — Health and Human Services Department ★
+- [Office of the Director, Notice of Charter Renewal](https://www.federalregister.gov/documents/2026/03/24/2026-05694/office-of-the-director-notice-of-charter-renewal) (VERIFIED) (2026-03-24) — Health and Human Services Department
+- [Designation of Propionyl Chloride as a List I Chemical](https://www.federalregister.gov/documents/2026/03/10/2026-04657/designation-of-propionyl-chloride-as-a-list-i-chemical) (VERIFIED) (2026-03-10) — Justice Department
+- [Revising the National Drug Code Format and Drug Label Barcode Requirements](https://www.federalregister.gov/documents/2026/03/05/2026-04368/revising-the-national-drug-code-format-and-drug-label-barcode-requirements) (VERIFIED) (2026-03-05) — Health and Human Services Department
+- [New Clinical Investigation Exclusivity (3-Year Exclusivity) for Drug Products: Questions and Answers; Draft Guidance for Industry; Availability; Agency Information Collection Activities; Proposed Collection; Comment Request](https://www.federalregister.gov/documents/2026/03/04/2026-04291/new-clinical-investigation-exclusivity-3-year-exclusivity-for-drug-products-questions-and-answers) (VERIFIED) (2026-03-04) — Health and Human Services Department
+- [Agency Information Collection Activities; Submission for Office of Management and Budget Review; Comment Request; Emerging Drug Safety Technology Program](https://www.federalregister.gov/documents/2026/02/18/2026-03093/agency-information-collection-activities-submission-for-office-of-management-and-budget-review) (VERIFIED) (2026-02-18) — Health and Human Services Department
 - ... and 617 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Pharmaceutical%20Industry%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Pharmaceutical%20Industry%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Federal Court Records (CourtListener)
@@ -318,14 +318,14 @@ The pharmaceutical industry's political operation reveals the most complete exam
 - AbbVie Inc v. Brown (2026) — District Court, W.D. Washington
 - Praznik v. Consumer Safety Technology, LLC (2026) — District Court, S.D. Iowa
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Pharmaceutical%20Industry%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Pharmaceutical%20Industry%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [558600DGUQYRUVIRPA94](https://search.gleif.org/#/record/558600DGUQYRUVIRPA94) |
+| LEI | [558600DGUQYRUVIRPA94](https://search.gleif.org/#/record/558600DGUQYRUVIRPA94) (VERIFIED) |
 | Legal Name | PHARMACEUTICAL SOLUTIONS INDUSTRY LIMITED |
 | Jurisdiction | SA |
 | Entity Status | ACTIVE |
@@ -333,5 +333,5 @@ The pharmaceutical industry's political operation reveals the most complete exam
 | Registration | LAPSED |
 | Last Updated | 2026-02-13T13:46:59Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->

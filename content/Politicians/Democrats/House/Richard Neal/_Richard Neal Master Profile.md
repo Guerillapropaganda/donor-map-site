@@ -190,7 +190,7 @@ In 2018, Massachusetts held a non-binding referendum on "Medicare for All." In R
 
 ## Sources
 
-- [OpenSecrets: Richard Neal Campaign Finance](https://www.opensecrets.org/members-of-congress/summary?cid=N00007222) (Tier 1)
+- [OpenSecrets: Richard Neal Campaign Finance](https://www.opensecrets.org/members-of-congress/summary?cid=N00007222) (Tier 1) (VERIFIED)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -224,7 +224,7 @@ In 2018, Massachusetts held a non-binding referendum on "Medicare for All." In R
 | INDIVISIBLE ACTION | $0 | $302,147 |
 | NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE | $126,197 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8MA02041/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8MA02041/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (GovTrack)
@@ -254,7 +254,7 @@ In 2018, Massachusetts held a non-binding referendum on "Medicare for All." In R
 | 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Nay | Passed |
 | 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Nay | Passed |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400291) (Tier 1)
+- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/400291)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:govtrack end -->
 
 ## Voting Record

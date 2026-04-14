@@ -79,7 +79,7 @@ Moinian Group exemplifies how individual developers can exercise substantial pol
 
 ### Sources
 
-- [New York Times: Developer contributions to Hochul](https://www.nytimes.com/2022/06/developer-hochul.html) (Tier 2)
+- ~~[New York Times: Developer contributions to Hochul](https://www.nytimes.com/2022/06/developer-hochul.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->
@@ -95,14 +95,14 @@ Moinian Group exemplifies how individual developers can exercise substantial pol
 
 **Lobbying firms:** HOLLAND & KNIGHT LLP
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Moinian%20Group) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Moinian%20Group) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [549300SIM2H13POBGQ56](https://search.gleif.org/#/record/549300SIM2H13POBGQ56) |
+| LEI | [549300SIM2H13POBGQ56](https://search.gleif.org/#/record/549300SIM2H13POBGQ56) (VERIFIED) |
 | Legal Name | 900 Eighth Avenue Condominium LLC |
 | Jurisdiction | US-NY |
 | Entity Status | ACTIVE |
@@ -110,7 +110,7 @@ Moinian Group exemplifies how individual developers can exercise substantial pol
 | Registration | LAPSED |
 | Last Updated | 2025-11-25T18:37:40Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### SEC Filing Activity
@@ -128,5 +128,5 @@ Moinian Group exemplifies how individual developers can exercise substantial pol
 - 2012-01-31 — **EX-99.1**: EX-99.1
 - 2016-02-03 — **8-K**: FORM 8-K
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Moinian%20Group%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Moinian%20Group%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->

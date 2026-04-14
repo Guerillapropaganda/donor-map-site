@@ -91,12 +91,12 @@ The pattern spans Thomas's entire tenure on the Court. Every year. Every trip. E
 
 ### Sources
 
-- [Senate Judiciary Committee. Ethical Crisis at the Supreme Court (December 2024)](https://www.judiciary.senate.gov/press/releases/senate-judiciary-committee-releases-revealing-investigative-report-on-ethical-crisis-at-the-supreme-court) (Tier 1)
-- [Chatham County Superior Court Clerk. Real Estate Records](https://superiorcourtclerk.chathamcountyga.gov/Superior/RealEstate) (Tier 1)
-- [ProPublica. Clarence Thomas Secretly Accepted Luxury Trips From GOP Donor (April 6 2023)](https://www.propublica.org/article/clarence-thomas-scotus-undisclosed-luxury-travel-gifts-crow) (Tier 2)
-- [ProPublica. Clarence Thomas Didn't Disclose Harlan Crow Real Estate Deal (April 13 2023)](https://www.propublica.org/article/clarence-thomas-harlan-crow-real-estate-scotus) (Tier 2)
-- [ProPublica. Thomas Acknowledges He Should Have Disclosed Free Trips (August 2023)](https://www.propublica.org/article/clarence-thomas-gift-disclosures-harlan-crow) (Tier 2)
-- [ProPublica. Harlan Crow Provided at Least 3 Previously Undisclosed Private Jet Trips (June 2024)](https://www.propublica.org/article/clarence-thomas-harlan-crow-private-jet-flights-senate-investigation-scotus) (Tier 2)
-- [ProPublica. Clarence Thomas Friend Acknowledges Harlan Crow Paid Child's Tuition](https://www.propublica.org/article/clarence-thomas-harlan-crow-tuition-martin-school) (Tier 2)
-- [Accountable US. Crow Set to Benefit From At Least Four SCOTUS Cases](https://accountable.us/crow-set-to-benefit-from-at-least-four-scotus-cases/) (Tier 2)
-- [CNN. Harlan Crow Company Had Business Before Supreme Court (April 2023)](https://www.cnn.com/2023/04/25/politics/clarence-thomas-harlan-crow-supreme-court/index.html) (Tier 2)
+- [Senate Judiciary Committee. Ethical Crisis at the Supreme Court (December 2024)](https://www.judiciary.senate.gov/press/releases/senate-judiciary-committee-releases-revealing-investigative-report-on-ethical-crisis-at-the-supreme-court) (Tier 1) (VERIFIED)
+- [Chatham County Superior Court Clerk. Real Estate Records](https://superiorcourtclerk.chathamcountyga.gov/Superior/RealEstate) (Tier 1) (VERIFIED)
+- [ProPublica. Clarence Thomas Secretly Accepted Luxury Trips From GOP Donor (April 6 2023)](https://www.propublica.org/article/clarence-thomas-scotus-undisclosed-luxury-travel-gifts-crow) (Tier 2) (VERIFIED)
+- [ProPublica. Clarence Thomas Didn't Disclose Harlan Crow Real Estate Deal (April 13 2023)](https://www.propublica.org/article/clarence-thomas-harlan-crow-real-estate-scotus) (Tier 2) (VERIFIED)
+- [ProPublica. Thomas Acknowledges He Should Have Disclosed Free Trips (August 2023)](https://www.propublica.org/article/clarence-thomas-gift-disclosures-harlan-crow) (Tier 2) (VERIFIED)
+- [ProPublica. Harlan Crow Provided at Least 3 Previously Undisclosed Private Jet Trips (June 2024)](https://www.propublica.org/article/clarence-thomas-harlan-crow-private-jet-flights-senate-investigation-scotus) (Tier 2) (VERIFIED)
+- [ProPublica. Clarence Thomas Friend Acknowledges Harlan Crow Paid Child's Tuition](https://www.propublica.org/article/clarence-thomas-harlan-crow-tuition-martin-school) (Tier 2) (VERIFIED)
+- [Accountable US. Crow Set to Benefit From At Least Four SCOTUS Cases](https://accountable.us/crow-set-to-benefit-from-at-least-four-scotus-cases/) (Tier 2) (NEEDS REVIEW)
+- [CNN. Harlan Crow Company Had Business Before Supreme Court (April 2023)](https://www.cnn.com/2023/04/25/politics/clarence-thomas-harlan-crow-supreme-court/index.html) (Tier 2) (VERIFIED)

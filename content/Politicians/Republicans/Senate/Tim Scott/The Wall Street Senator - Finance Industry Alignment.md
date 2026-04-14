@@ -42,11 +42,11 @@ The diversity brand serves the financial donor class by providing a messenger wh
 
 ### Sources
 
-- [Congress.gov: Tim Scott member profile](https://www.congress.gov/member/tim-scott/S001184) (Tier 1)
-- [FEC Candidate: Tim Scott campaign finance summary](https://www.fec.gov/data/candidate/P80008063/) (Tier 1)
-- [FEC Candidate: Tim Scott top industries](https://www.fec.gov/data/candidate/P80008063/) (Tier 1)
-- [IRS: Opportunity Zone program regulations](https://www.irs.gov/credits-deductions/businesses/opportunity-zones) (Tier 1)
-- [ProPublica: Senate Finance Chair to Billionaire Developers: Explain How Opportunity Zone Tax Break Is Helping the Poor](https://www.propublica.org/article/senate-finance-chair-to-billionaire-developers-explain-how-opportunity-zone-tax-break-is-helping-the-poor) (Tier 2)
-- [Washington Post: Tim Scott raises $6 million for presidential campaign in second quarter](https://www.washingtonpost.com/politics/2023/07/12/tim-scott-fundraising/) (Tier 2)
-- [Ballotpedia: Tim Scott](https://ballotpedia.org/Tim_Scott) (Tier 3)
+- ~~[Congress.gov: Tim Scott member profile](https://www.congress.gov/member/tim-scott/S001184)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [FEC Candidate: Tim Scott campaign finance summary](https://www.fec.gov/data/candidate/P80008063/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Tim Scott top industries](https://www.fec.gov/data/candidate/P80008063/) (Tier 1) (VERIFIED)
+- [IRS: Opportunity Zone program regulations](https://www.irs.gov/credits-deductions/businesses/opportunity-zones) (Tier 1) (VERIFIED)
+- [ProPublica: Senate Finance Chair to Billionaire Developers: Explain How Opportunity Zone Tax Break Is Helping the Poor](https://www.propublica.org/article/senate-finance-chair-to-billionaire-developers-explain-how-opportunity-zone-tax-break-is-helping-the-poor) (Tier 2) (VERIFIED)
+- [Washington Post: Tim Scott raises $6 million for presidential campaign in second quarter](https://www.washingtonpost.com/politics/2023/07/12/tim-scott-fundraising/) (Tier 2) (VERIFIED)
+- [Ballotpedia: Tim Scott](https://ballotpedia.org/Tim_Scott) (Tier 3) (VERIFIED)
 

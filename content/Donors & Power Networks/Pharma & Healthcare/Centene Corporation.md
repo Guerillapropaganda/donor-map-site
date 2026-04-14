@@ -101,9 +101,9 @@ Centene's structural function in American healthcare is converting public health
 
 ### Sources
 
-- [OpenSecrets: Centene Corporation lobbying and PAC](https://www.opensecrets.org/orgs/centene-corp/summary?id=D000024795) (Tier 1)
-- [SEC: Centene 10-K filings](https://www.sec.gov/cgi-bin/browse-edgar?company=Centene%20Corporation&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)
-- [Ballotpedia: Healthcare industry lobbying](https://ballotpedia.org/Centene_Corporation) (Tier 3)
+- ~~[OpenSecrets: Centene Corporation lobbying and PAC](https://www.opensecrets.org/orgs/centene-corp/summary?id=D000024795)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [SEC: Centene 10-K filings](https://www.sec.gov/cgi-bin/browse-edgar?company=Centene%20Corporation&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1) (VERIFIED)
+- [Ballotpedia: Healthcare industry lobbying](https://ballotpedia.org/Centene_Corporation) (Tier 3) (VERIFIED)
 
 ---
 
@@ -138,7 +138,7 @@ Centene's structural function in American healthcare is converting public health
 | $44K | Department of Justice | B1 - PANTHERX JOENJA MEDICATION  SEE JOFOC FOR PANTHERX SPECIALTY PHARMACY THE CCM PROVIDING FUNDS F |
 | $44K | Department of Justice | B1 - PANTHERX - JOENJA - RP0377 |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Centene%20Corporation) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Centene%20Corporation) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Federal Register Activity
@@ -151,15 +151,15 @@ Centene's structural function in American healthcare is converting public health
 | Agencies | Employee Benefits Security Administration, Federal Trade Commission, Labor Department |
 
 **Recent regulatory activity:**
-- [Improving Transparency Into Pharmacy Benefit Manager Fee Disclosure](https://www.federalregister.gov/documents/2026/01/30/2026-01907/improving-transparency-into-pharmacy-benefit-manager-fee-disclosure) (2026-01-30) — Labor Department ★
-- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2021/02/18/2021-03183/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2021-02-18) — Federal Trade Commission
-- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2020/02/21/2020-03445/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2020-02-21) — Federal Trade Commission
-- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2019/04/18/2019-07735/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2019-04-18) — Federal Trade Commission
-- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2018/04/13/2018-07697/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2018-04-13) — Federal Trade Commission
-- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2017/11/14/2017-24589/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2017-11-14) — Federal Trade Commission
+- [Improving Transparency Into Pharmacy Benefit Manager Fee Disclosure](https://www.federalregister.gov/documents/2026/01/30/2026-01907/improving-transparency-into-pharmacy-benefit-manager-fee-disclosure) (VERIFIED) (2026-01-30) — Labor Department ★
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2021/02/18/2021-03183/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (VERIFIED) (2021-02-18) — Federal Trade Commission
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2020/02/21/2020-03445/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (VERIFIED) (2020-02-21) — Federal Trade Commission
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2019/04/18/2019-07735/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (VERIFIED) (2019-04-18) — Federal Trade Commission
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2018/04/13/2018-07697/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (VERIFIED) (2018-04-13) — Federal Trade Commission
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2017/11/14/2017-24589/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (VERIFIED) (2017-11-14) — Federal Trade Commission
 - ... and 7 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Centene%20Corporation%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Centene%20Corporation%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### SEC Filing Activity
@@ -173,13 +173,13 @@ Centene's structural function in American healthcare is converting public health
 
 **Notable filings:**
 
-- 2026-03-31 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1071739/000107173926000089/0001071739-26-000089-index.htm)
-- 2026-03-31 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1071739/000107173926000088/0001071739-26-000088-index.htm)
-- 2026-03-31 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1071739/000107173926000087/0001071739-26-000087-index.htm)
-- 2026-03-31 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1071739/000107173926000086/0001071739-26-000086-index.htm)
-- 2026-03-27 — **3**: [FORM 3](https://www.sec.gov/Archives/edgar/data/1071739/000107173926000081/0001071739-26-000081-index.htm)
+- 2026-03-31 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1071739/000107173926000089/0001071739-26-000089-index.htm) (VERIFIED)
+- 2026-03-31 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1071739/000107173926000088/0001071739-26-000088-index.htm) (VERIFIED)
+- 2026-03-31 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1071739/000107173926000087/0001071739-26-000087-index.htm) (VERIFIED)
+- 2026-03-31 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1071739/000107173926000086/0001071739-26-000086-index.htm) (VERIFIED)
+- 2026-03-27 — **3**: [FORM 3](https://www.sec.gov/Archives/edgar/data/1071739/000107173926000081/0001071739-26-000081-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Centene%20Corporation%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Centene%20Corporation%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Lobbying Activity
@@ -198,7 +198,7 @@ Centene's structural function in American healthcare is converting public health
 
 **Agencies contacted:** Centers For Medicare and Medicaid Services (CMS), Executive Office of the President (EOP), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Office of Management & Budget (OMB), SENATE, White House Office
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Centene%20Corporation) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Centene%20Corporation) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)
@@ -226,7 +226,7 @@ Centene's structural function in American healthcare is converting public health
 | Total Expenses | $8K |
 | Net Assets | $306 |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 851888769](https://projects.propublica.org/nonprofits/organizations/851888769) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 851888769](https://projects.propublica.org/nonprofits/organizations/851888769) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Federal Court Records (CourtListener)
@@ -245,7 +245,7 @@ Centene's structural function in American healthcare is converting public health
 - Carolina Neurosurgery and Orthopedics, Inc. v. Multiplan, Inc. (2026) — District Court, N.D. Illinois
 - Florida Spine and Orthopedics, Inc. v. Multiplan, Inc. (2026) — District Court, N.D. Illinois
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Centene%20Corporation%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Centene%20Corporation%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -279,14 +279,14 @@ Centene's structural function in American healthcare is converting public health
 | Offices of Mental Health Practitioners (except Physicians) (621330) | $450K |
 | Pharmacies and Drug Stores (446110) | $113K |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [549300Z7JJ4TQSQGT333](https://search.gleif.org/#/record/549300Z7JJ4TQSQGT333) |
+| LEI | [549300Z7JJ4TQSQGT333](https://search.gleif.org/#/record/549300Z7JJ4TQSQGT333) (VERIFIED) |
 | Legal Name | CENTENE CORPORATION |
 | Jurisdiction | US-DE |
 | Entity Status | ACTIVE |
@@ -294,7 +294,7 @@ Centene's structural function in American healthcare is converting public health
 | Registration | ISSUED |
 | Last Updated | 2026-03-24T16:29:17Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Vehicle Safety (NHTSA)
@@ -312,5 +312,5 @@ Centene's structural function in American healthcare is converting public health
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Centene%20Corporation) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Centene%20Corporation) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->

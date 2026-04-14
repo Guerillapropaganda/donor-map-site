@@ -40,8 +40,8 @@ The feuds are real. The mutual benefit is realer. Each uses the other. Trump get
 The relationship reached its full expression in 2024-2025. Murdoch appeared at Trump's January 2025 inauguration. Fox News provided the single largest media audience on election night 2024 with 10.3 million viewers. The network's coverage of Trump's legal jeopardy throughout 2023 sustained his political viability when prosecution and civil judgment could have sidelined him.
 
 Sources:
-- [The Washington Post: Rupert Murdoch hands control of Fox media empire to son Lachlan Murdoch](https://www.washingtonpost.com/style/media/2023/09/21/rupert-murdoch-steps-down-fox-news-corp/) (Tier 2)
-- [The Hill: Murdoch attended Trump inauguration](https://thehill.com/homenews/media/5300617-la-times-owner-meets-with-trump-in-saudi-arabia/) (Tier 2)
+- [The Washington Post: Rupert Murdoch hands control of Fox media empire to son Lachlan Murdoch](https://www.washingtonpost.com/style/media/2023/09/21/rupert-murdoch-steps-down-fox-news-corp/) (Tier 2) (VERIFIED)
+- ~~[The Hill: Murdoch attended Trump inauguration](https://thehill.com/homenews/media/5300617-la-times-owner-meets-with-trump-in-saudi-arabia/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ---
 
@@ -61,9 +61,9 @@ The dynamic is critical. The legal consequence of knowingly broadcasting false e
 This represents media capture through market dynamics rather than direct ownership. Fox News is not owned by Trump. It is controlled by Trump through his political power and audience demand. The network must serve its MAGA audience or lose them to competing outlets (Newsmax, OAN). That competition incentivizes extremism and alignment.
 
 Sources:
-- [Susman Godfrey: Fox News Dominion settlement](https://www.susmangodfrey.com/wins/fox-news-to-pay-787-5-million-to-defamations-claims-brought-by-susman-godfrey-client-dominion-voting-systems/) (Tier 1)
-- [NBC News: Fox News settles Dominion](https://www.nbcnews.com/media/fox-news-settles-dominion-defamation-lawsuit-rcna80285) (Tier 2)
-- [Washington Post: Fox News Dominion settlement](https://www.washingtonpost.com/media/2023/04/18/fox-news-dominion-settlement/) (Tier 2)
+- ~~[Susman Godfrey: Fox News Dominion settlement](https://www.susmangodfrey.com/wins/fox-news-to-pay-787-5-million-to-defamations-claims-brought-by-susman-godfrey-client-dominion-voting-systems/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [NBC News: Fox News settles Dominion](https://www.nbcnews.com/media/fox-news-settles-dominion-defamation-lawsuit-rcna80285) (Tier 2) (VERIFIED)
+- [Washington Post: Fox News Dominion settlement](https://www.washingtonpost.com/media/2023/04/18/fox-news-dominion-settlement/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -83,8 +83,8 @@ Fox's role in that fragmentation is structural. The network profits from polariz
 The business model is not compatible with neutrality. Fox's profitability depends on maximizing the emotional engagement of its MAGA audience. That requires Trump-favorable coverage, Trump-favorable commentary, and Trump-favorable editorial framing.
 
 Sources:
-- [Media Matters: Fox News coverage patterns 2024](https://www.mediamatters.org/fox-news/2024-expect-fox-news-return-form-trumps-personal-propaganda-outlet) (Tier 2)
-- [Variety: Fox News 2024 election coverage](https://variety.com/2024/tv/news/fox-news-2024-election-donald-trump-1236206449/) (Tier 2)
+- [Media Matters: Fox News coverage patterns 2024](https://www.mediamatters.org/fox-news/2024-expect-fox-news-return-form-trumps-personal-propaganda-outlet) (Tier 2) (VERIFIED)
+- [Variety: Fox News 2024 election coverage](https://variety.com/2024/tv/news/fox-news-2024-election-donald-trump-1236206449/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -102,8 +102,8 @@ The practice ended in December 2019, but the infrastructure remained. Sinclair's
 This represents media capture at a different scale. Fox operates as a single entity making editorial decisions for national impact. Sinclair operates as a federation of local stations executing centralized political directives. The effect is similar: media ownership translates into political control exercised through the medium of journalism.
 
 Sources:
-- [NBC News: Sinclair drops Epshteyn](https://www.nbcnews.com/business/business-news/sinclair-drops-boris-epshteyn-other-political-analysts-n1099796) (Tier 2)
-- [Media Matters: Sinclair must-run segments](https://www.mediamatters.org/boris-epshteyn/sinclair-broadcast-group-drops-boris-epshteyns-must-run-segments) (Tier 2)
+- [NBC News: Sinclair drops Epshteyn](https://www.nbcnews.com/business/business-news/sinclair-drops-boris-epshteyn-other-political-analysts-n1099796) (Tier 2) (VERIFIED)
+- [Media Matters: Sinclair must-run segments](https://www.mediamatters.org/boris-epshteyn/sinclair-broadcast-group-drops-boris-epshteyns-must-run-segments) (Tier 2) (VERIFIED)
 
 ---
 
@@ -125,8 +125,8 @@ This is the complete pipeline of extraction:
 The media created around Truth Social (coverage of the platform, stock price analysis, Trump's posts themselves) functions to sustain the stock price and the political narrative. The coverage appears to be financial journalism. It functions as political marketing. The effect is to reinforce the centrality of Trump to American politics while extracting capital from supporters.
 
 Sources:
-- [Variety: Trump Media Q1 2024 revenue and losses](https://variety.com/2024/digital/news/trump-truth-social-media-q1-2024-revenue-net-loss-1236010937/) (Tier 2)
-- [StockTitan: Trump Media 2025 results](https://www.stocktitan.net/news/DJT/trump-media-technology-group-reports-full-year-2025-4mvfx7xljcai.html) (Tier 3)
+- [Variety: Trump Media Q1 2024 revenue and losses](https://variety.com/2024/digital/news/trump-truth-social-media-q1-2024-revenue-net-loss-1236010937/) (Tier 2) (VERIFIED)
+- [StockTitan: Trump Media 2025 results](https://www.stocktitan.net/news/DJT/trump-media-technology-group-reports-full-year-2025-4mvfx7xljcai.html) (Tier 3) (VERIFIED)
 
 ---
 
@@ -142,8 +142,8 @@ Musk provided Trump with unrestricted distribution. Trump's posts reach millions
 The platform became a Trump campaign tool. Official messaging, policy announcements, candidate coordination all flowed through X with algorithmic amplification. The coverage appeared organic. It was engineered through code. The effect was to concentrate political communication in a single privately-controlled platform answerable only to its owner.
 
 Sources:
-- [NPR: Elon Musk turned X into a pro-Trump echo chamber](https://www.npr.org/2024/10/22/nx-s1-5156184/elon-musk-trump-election-x-twitter) (Tier 2)
-- [Election Law Blog: X algorithm changes July 2024](https://electionlawblog.org/?p=147321) (Tier 2)
+- [NPR: Elon Musk turned X into a pro-Trump echo chamber](https://www.npr.org/2024/10/22/nx-s1-5156184/elon-musk-trump-election-x-twitter) (Tier 2) (VERIFIED)
+- [Election Law Blog: X algorithm changes July 2024](https://electionlawblog.org/?p=147321) (Tier 2) (VERIFIED)
 
 ---
 

@@ -163,22 +163,22 @@ The vault's central insight applies directly: **Vance is not a politician with d
 ## Sources
 
 ### Tier 1 (Primary/Government):
-- [FEC: VANCE, J D - Candidate overview](https://www.fec.gov/data/candidate/S2OH00436/) (Tier 1)
-- [Congress.gov: J. D. Vance voting record and bills introduced](https://www.congress.gov/member/j-vance/V000137) (Tier 1)
+- [FEC: VANCE, J D - Candidate overview](https://www.fec.gov/data/candidate/S2OH00436/) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: J. D. Vance voting record and bills introduced](https://www.congress.gov/member/j-vance/V000137)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ### Tier 2 (Major Journalism):
-- [Washington Post: Inside the powerful Peter Thiel tech network that launched JD Vance](https://www.washingtonpost.com/technology/2024/07/28/jd-vance-peter-thiel-donors-big-tech-trump-vp/) (Tier 2)
-- [NPR: Five things to know about J.D. Vance's ties to tech billionaires](https://www.npr.org/2024/07/17/g-s1-11654/five-things-to-know-about-jd-vances-connections-to-tech-billionaires) (Tier 2)
-- [The Conversation: Peter Thiel helped make JD Vance. The Republican kingmaker's influence is growing](https://theconversation.com/friday-essay-libertarian-tech-titan-peter-thiel-helped-make-jd-vance-the-republican-kingmakers-influence-is-growing-261856) (Tier 2)
+- [Washington Post: Inside the powerful Peter Thiel tech network that launched JD Vance](https://www.washingtonpost.com/technology/2024/07/28/jd-vance-peter-thiel-donors-big-tech-trump-vp/) (Tier 2) (VERIFIED)
+- [NPR: Five things to know about J.D. Vance's ties to tech billionaires](https://www.npr.org/2024/07/17/g-s1-11654/five-things-to-know-about-jd-vances-connections-to-tech-billionaires) (Tier 2) (VERIFIED)
+- [The Conversation: Peter Thiel helped make JD Vance. The Republican kingmaker's influence is growing](https://theconversation.com/friday-essay-libertarian-tech-titan-peter-thiel-helped-make-jd-vance-the-republican-kingmakers-influence-is-growing-261856) (Tier 2) (VERIFIED)
 
 ### Tier 3 (Aggregators):
-- [OpenSecrets.org: Sen. J D Vance - Campaign Finance Summary](https://www.fec.gov/data/candidate/S2OH00436/) (Tier 3)
-- [Ballotpedia: J.D. Vance voting record and biography](https://ballotpedia.org/J.D._Vance) (Tier 3)
-- [ProPublica: Peter Thiel donor lookup and contributions](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=peter%20thiel) (Tier 3)
+- [OpenSecrets.org: Sen. J D Vance - Campaign Finance Summary](https://www.fec.gov/data/candidate/S2OH00436/) (Tier 3) (VERIFIED)
+- [Ballotpedia: J.D. Vance voting record and biography](https://ballotpedia.org/J.D._Vance) (Tier 3) (VERIFIED)
+- [ProPublica: Peter Thiel donor lookup and contributions](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=peter%20thiel) (Tier 3) (VERIFIED)
 
 ### Tier 4 (Analysis/Media):
-- [The New Republic: J.D. Vance, the False Prophet of Blue America](https://newrepublic.com/article/138717/jd-vance-false-prophet-blue-america) (Tier 4)
-- [Washington Post: The radicalization of Hillbilly Elegy author J.D. Vance](https://www.washingtonpost.com/nation/2024/07/25/jd-vance-hillbilly-elegy-jackson-kentucky/) (Tier 4)
+- [The New Republic: J.D. Vance, the False Prophet of Blue America](https://newrepublic.com/article/138717/jd-vance-false-prophet-blue-america) (Tier 4) (VERIFIED)
+- ~~[Washington Post: The radicalization of Hillbilly Elegy author J.D. Vance](https://www.washingtonpost.com/nation/2024/07/25/jd-vance-hillbilly-elegy-jackson-kentucky/)~~ (was Tier 4 — URL broken, archived by Ops) (Tier 4)
 
 ---
 
@@ -190,7 +190,7 @@ The vault's central insight applies directly: **Vance is not a politician with d
 | Bills Cosponsored | 2 |
 | Total Votes Cast | 700 |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456876) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456876) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
 
 ## Voting Record
@@ -215,5 +215,5 @@ The vault's central insight applies directly: **Vance is not a politician with d
 
 **Sources**
 
-- [GovTrack: JD Vance](https://www.govtrack.us/congress/members/456876) (Tier 1)
+- [GovTrack: JD Vance](https://www.govtrack.us/congress/members/456876) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->

@@ -46,5 +46,5 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 - ASHFIELD, Jeffrey John James (individual) [SDGT] [IFSR]
   - Remarks: DOB 11 Feb 1950; Additional Sanctions Information - Subject to Secondary Sanctions; Secondary sanctions risk: section 1(b) of Executive Order 13224, as amended by Executive Order 13886; Passport 30789...
 
-- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->

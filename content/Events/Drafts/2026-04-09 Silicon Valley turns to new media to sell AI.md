@@ -14,7 +14,7 @@ profiles:
 
 ## Silicon Valley turns to new media to sell AI
 
-**Source:** [The Hill](https://thehill.com/policy/technology/5822647-tech-leaders-turn-to-podcasts/)
+**Source:** ~~[The Hill](https://thehill.com/policy/technology/5822647-tech-leaders-turn-to-podcasts/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-09
 
 Silicon Valley is embracing nontraditional media to sell its vision of technology as concerns mount over artificial intelligence’s impact on the workforce, economy and environment. Tech and business leaders are turning to everything from podcasts to Substack blogs to avoid the traditional media and get more control over their preferred narratives on AI. OpenAI’s recent…

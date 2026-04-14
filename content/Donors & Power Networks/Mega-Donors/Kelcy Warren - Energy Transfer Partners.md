@@ -150,11 +150,11 @@ Warren's $1M Abbott donation after the 2021 Texas freeze is the most cynical tra
 
 ### Sources
 
-- [FEC: Individual contributions — Warren, Kelcy (2010–2026)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=warren%2C+kelcy&min_date=01%2F01%2F2010&max_date=12%2F31%2F2026) (Tier 1) — 984 contributions, 100% Republican, Energy Transfer Partners employer
-- [Wikipedia: Kelcy Warren](https://en.wikipedia.org/wiki/Kelcy_Warren) (Tier 3) — Political activity section: $6M Perry, $103K Trump 2016, $10M America First Action, $20M+ total Trump, $1M Abbott, "removed from the gene pool" quote
-- [Wikipedia: Dakota Access Pipeline](https://en.wikipedia.org/wiki/Dakota_Access_Pipeline) (Tier 3) — DAPL construction timeline, Standing Rock protests, Trump executive order
-- [Energy Transfer LP: Investor Relations](https://www.energytransfer.com/investors/) (Tier 1) — Company financials, pipeline network scope, revenue data
-- [White House: Presidential Memorandum on Construction of the Dakota Access Pipeline (Jan 24, 2017)](https://www.federalregister.gov/documents/2017/01/30/2017-02032/construction-of-the-dakota-access-pipeline) (Tier 1) — Executive order text directing Army Corps to expedite DAPL
+- [FEC: Individual contributions — Warren, Kelcy (2010–2026)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=warren%2C+kelcy&min_date=01%2F01%2F2010&max_date=12%2F31%2F2026) (Tier 1) (VERIFIED) — 984 contributions, 100% Republican, Energy Transfer Partners employer
+- [Wikipedia: Kelcy Warren](https://en.wikipedia.org/wiki/Kelcy_Warren) (Tier 3) (VERIFIED) — Political activity section: $6M Perry, $103K Trump 2016, $10M America First Action, $20M+ total Trump, $1M Abbott, "removed from the gene pool" quote
+- [Wikipedia: Dakota Access Pipeline](https://en.wikipedia.org/wiki/Dakota_Access_Pipeline) (Tier 3) (VERIFIED) — DAPL construction timeline, Standing Rock protests, Trump executive order
+- [Energy Transfer LP: Investor Relations](https://www.energytransfer.com/investors/) (Tier 1) (VERIFIED) — Company financials, pipeline network scope, revenue data
+- [White House: Presidential Memorandum on Construction of the Dakota Access Pipeline (Jan 24, 2017)](https://www.federalregister.gov/documents/2017/01/30/2017-02032/construction-of-the-dakota-access-pipeline) (Tier 1) (VERIFIED) — Executive order text directing Army Corps to expedite DAPL
 
 ---
 
@@ -169,11 +169,11 @@ Warren's $1M Abbott donation after the 2021 Texas freeze is the most cynical tra
 
 **Notable filings:**
 
-- 2026-03-13 — **144**: [144](https://www.sec.gov/Archives/edgar/data/1276187/000195917326002267/0001959173-26-002267-index.htm)
-- 2026-02-19 — **10-K**: [10-K](https://www.sec.gov/Archives/edgar/data/1276187/000127618726000013/0001276187-26-000013-index.htm)
-- 2026-02-17 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/1276187/000127618726000004/0001276187-26-000004-index.htm)
-- 2026-01-27 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/1276187/000119312526024378/0001193125-26-024378-index.htm)
-- 2026-01-14 — **424B2**: [424B2](https://www.sec.gov/Archives/edgar/data/1276187/000119312526012871/0001193125-26-012871-index.htm)
+- 2026-03-13 — **144**: [144](https://www.sec.gov/Archives/edgar/data/1276187/000195917326002267/0001959173-26-002267-index.htm) (VERIFIED)
+- 2026-02-19 — **10-K**: [10-K](https://www.sec.gov/Archives/edgar/data/1276187/000127618726000013/0001276187-26-000013-index.htm) (VERIFIED)
+- 2026-02-17 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/1276187/000127618726000004/0001276187-26-000004-index.htm) (VERIFIED)
+- 2026-01-27 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/1276187/000119312526024378/0001193125-26-024378-index.htm) (VERIFIED)
+- 2026-01-14 — **424B2**: [424B2](https://www.sec.gov/Archives/edgar/data/1276187/000119312526012871/0001193125-26-012871-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Kelcy%20Warren%20-%20Energy%20Transfer%20Partners%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Kelcy%20Warren%20-%20Energy%20Transfer%20Partners%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->

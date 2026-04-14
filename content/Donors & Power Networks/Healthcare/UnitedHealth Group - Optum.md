@@ -139,7 +139,7 @@ Healthcare. COVID contracts, PBM regulation, single-payer
 > [!money] The No-Bid Math
 > UnitedHealth contributed $231K+ to Newsom across campaigns, inaugural fund, and ballot measures. It received $544.2 million in state contracts during the same period, a 2,355-to-1 return measured in raw contract dollars. The no-bid COVID contracts ($459M) came after the $100K inaugural donation and before the $31K reelection contribution. The contributions after the contracts confirm this is an ongoing relationship, not a one-time transaction. Then in 2024, Newsom vetoed both PBM oversight and private equity healthcare acquisition bills, protecting UnitedHealth/OptumRx's core business model. The $231K purchased $544M in contracts and regulatory protection worth billions in preserved revenue.
 
-[Source: [CapRadio: no-bid contracts investigation](https://www.capradio.org/articles/2021/02/16/investigation-big-newsom-donors-including-blue-shield-received-no-bid-contracts-during-covid-19-response/) (Tier 2); [OpenSecrets: UnitedHealth Group PAC profile](https://www.opensecrets.org/orgs/unitedhealth-group/summary?id=D000000348) (Tier 1); [CA Secretary of State: Power Search](https://powersearch.sos.ca.gov/advanced.php) (Tier 1)]
+[Source: [CapRadio: no-bid contracts investigation](https://www.capradio.org/articles/2021/02/16/investigation-big-newsom-donors-including-blue-shield-received-no-bid-contracts-during-covid-19-response/) (Tier 2) (VERIFIED); [OpenSecrets: UnitedHealth Group PAC profile](https://www.opensecrets.org/orgs/unitedhealth-group/summary?id=D000000348) (Tier 1) (VERIFIED); [CA Secretary of State: Power Search](https://powersearch.sos.ca.gov/advanced.php) (Tier 1) (VERIFIED)]
 
 ---
 
@@ -160,7 +160,7 @@ Healthcare. COVID contracts, PBM regulation, single-payer
 
 **Agencies contacted:** Centers For Medicare and Medicaid Services (CMS), Executive Office of the President (EOP), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Labor, Dept of (DOL), Office of Management & Budget (OMB), SENATE, Veterans Affairs, Dept of (VA), White House Office
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=UnitedHealth%20Group%20-%20Optum) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=UnitedHealth%20Group%20-%20Optum) (Tier 1) (VERIFIED)
 
 <!-- auto:lda-lobbying end -->
 
@@ -174,11 +174,11 @@ The class dimension is the regulated monopoly structure itself. UnitedHealth's c
 
 ### Sources
 
-- [CapRadio: Blue Shield / UnitedHealth no-bid contracts](https://www.capradio.org/articles/2021/02/16/investigation-big-newsom-donors-including-blue-shield-received-no-bid-contracts-during-covid-19-response/) (Tier 2)
-- [CapRadio: Additional $282M UnitedHealth contracts](https://www.capradio.org/articles/2021/03/25/another-282m-in-no-bid-pandemic-contracts-to-major-newsom-contributor-unitedhealth/) (Tier 2)
-- [CalMatters: PBM veto](https://calmatters.org/health/2024/09/newsom-vetoes-health-care-bills/) (Tier 2)
+- [CapRadio: Blue Shield / UnitedHealth no-bid contracts](https://www.capradio.org/articles/2021/02/16/investigation-big-newsom-donors-including-blue-shield-received-no-bid-contracts-during-covid-19-response/) (Tier 2) (VERIFIED)
+- [CapRadio: Additional $282M UnitedHealth contracts](https://www.capradio.org/articles/2021/03/25/another-282m-in-no-bid-pandemic-contracts-to-major-newsom-contributor-unitedhealth/) (Tier 2) (VERIFIED)
+- [CalMatters: PBM veto](https://calmatters.org/health/2024/09/newsom-vetoes-health-care-bills/) (Tier 2) (VERIFIED)
 - [OpenSecrets: UnitedHealth Group PAC profile](https://www.opensecrets.org/orgs/unitedhealth-group/summary?id=D000000348) (Tier 1)
-- [CA Secretary of State: Power Search (contribution verification)](https://powersearch.sos.ca.gov/advanced.php) (Tier 1)
+- [CA Secretary of State: Power Search (contribution verification)](https://powersearch.sos.ca.gov/advanced.php) (Tier 1) (VERIFIED)
 
 ### Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
@@ -209,13 +209,13 @@ The class dimension is the regulated monopoly structure itself. UnitedHealth's c
 
 **Notable filings:**
 
-- 2026-04-06 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/731766/000073176626000119/0000731766-26-000119-index.htm)
-- 2026-04-06 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/731766/000073176626000118/0000731766-26-000118-index.htm)
-- 2026-04-06 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/731766/000073176626000117/0000731766-26-000117-index.htm)
-- 2026-04-06 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/731766/000073176626000116/0000731766-26-000116-index.htm)
-- 2026-04-06 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/731766/000073176626000115/0000731766-26-000115-index.htm)
+- 2026-04-06 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/731766/000073176626000119/0000731766-26-000119-index.htm) (VERIFIED)
+- 2026-04-06 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/731766/000073176626000118/0000731766-26-000118-index.htm) (VERIFIED)
+- 2026-04-06 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/731766/000073176626000117/0000731766-26-000117-index.htm) (VERIFIED)
+- 2026-04-06 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/731766/000073176626000116/0000731766-26-000116-index.htm) (VERIFIED)
+- 2026-04-06 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/731766/000073176626000115/0000731766-26-000115-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22UnitedHealth%20Group%20-%20Optum%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22UnitedHealth%20Group%20-%20Optum%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -244,7 +244,7 @@ The class dimension is the regulated monopoly structure itself. UnitedHealth's c
 |------------------|--------|--------|
 | Unknown | $1009778941.6B | 50 |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-UnitedHealth%20Group%20-%20Optum) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-UnitedHealth%20Group%20-%20Optum) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Federal Register Activity
@@ -256,10 +256,10 @@ The class dimension is the regulated monopoly structure itself. UnitedHealth's c
 | Agencies | Employment and Training Administration, Labor Department |
 
 **Recent regulatory activity:**
-- [Notice of Determinations Regarding Eligibility To Apply for Worker Adjustment Assistance](https://www.federalregister.gov/documents/2016/02/25/2016-04003/notice-of-determinations-regarding-eligibility-to-apply-for-worker-adjustment-assistance) (2016-02-25) — Labor Department
-- [Notice of Determinations Regarding Eligibility To Apply for Worker Adjustment Assistance](https://www.federalregister.gov/documents/2013/05/15/2013-11460/notice-of-determinations-regarding-eligibility-to-apply-for-worker-adjustment-assistance) (2013-05-15) — Labor Department
+- [Notice of Determinations Regarding Eligibility To Apply for Worker Adjustment Assistance](https://www.federalregister.gov/documents/2016/02/25/2016-04003/notice-of-determinations-regarding-eligibility-to-apply-for-worker-adjustment-assistance) (VERIFIED) (2016-02-25) — Labor Department
+- [Notice of Determinations Regarding Eligibility To Apply for Worker Adjustment Assistance](https://www.federalregister.gov/documents/2013/05/15/2013-11460/notice-of-determinations-regarding-eligibility-to-apply-for-worker-adjustment-assistance) (VERIFIED) (2013-05-15) — Labor Department
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22UnitedHealth%20Group%20-%20Optum%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22UnitedHealth%20Group%20-%20Optum%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Vehicle Safety (NHTSA)
@@ -277,5 +277,5 @@ The class dimension is the regulated monopoly structure itself. UnitedHealth's c
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=UnitedHealth%20Group%20-%20Optum) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=UnitedHealth%20Group%20-%20Optum) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->

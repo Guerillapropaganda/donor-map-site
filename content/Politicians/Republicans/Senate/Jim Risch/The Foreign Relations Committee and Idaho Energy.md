@@ -36,8 +36,8 @@ Risch sits on Energy and Small Business committees alongside Foreign Relations �
 
 ### Sources
 
-- [Congress.gov: Jim Risch member profile](https://www.congress.gov/member/james-risch/R000584) (Tier 1)
-- [Congress.gov: Jim Risch campaign finance summary](https://www.congress.gov/search?q=Jim%20Risch&searchResultViewType=expanded) (Tier 1)
-- [INL: Idaho National Laboratory overview](https://inl.gov/about-inl/) (Tier 1)
-- [Ballotpedia: Jim Risch](https://ballotpedia.org/Jim_Risch) (Tier 3)
+- ~~[Congress.gov: Jim Risch member profile](https://www.congress.gov/member/james-risch/R000584)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Jim Risch campaign finance summary](https://www.congress.gov/search?q=Jim%20Risch&searchResultViewType=expanded)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[INL: Idaho National Laboratory overview](https://inl.gov/about-inl/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Ballotpedia: Jim Risch](https://ballotpedia.org/Jim_Risch) (Tier 3) (VERIFIED)
 

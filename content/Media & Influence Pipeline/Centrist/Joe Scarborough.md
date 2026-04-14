@@ -41,8 +41,8 @@ No FEC individual contributions found. The FEC API returns 0 results for both "S
 > [!money]
 > A former four-term congressman who once raised millions in campaign funds now earns $8M/year telling 1 million viewers daily who to support, and gives $0 personally. The influence flows entirely through the platform, never through personal contributions. This is the purest case in the vault of political-class-to-media-class conversion: Scarborough traded the power to vote on legislation for the power to shape who gets elected, and the corporate salary is vastly more lucrative than a congressional one ever was.
 
-- [FEC: Joe Scarborough individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=SCARBOROUGH%2C+JOE) (Tier 1)
-- [FEC: Joseph Scarborough individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=SCARBOROUGH%2C+JOSEPH) (Tier 1)
+- [FEC: Joe Scarborough individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=SCARBOROUGH%2C+JOE) (Tier 1) (VERIFIED)
+- [FEC: Joseph Scarborough individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=SCARBOROUGH%2C+JOSEPH) (Tier 1) (VERIFIED)
 
 ### Who Funds Them
 
@@ -109,12 +109,12 @@ The Biden relationship reveals the structural function most clearly: the Preside
 
 ### Sources
 
-- [Deadline: Morning Joe co-hosts renew MS NOW deal through 2029](https://deadline.com/2026/03/morning-joe-scarborough-mika-brzezinski-contract-1236765234/) (Tier 2)
-- [Puck: Will MSNBC pay Joe Scarborough $31 million?](https://puck.news/will-msnbc-pay-joe-scarborough-31-million/) (Tier 2)
-- [CNN: Morning Joe pulled from air after Trump assassination attempt](https://www.cnn.com/2024/07/14/media/msnbc-morning-joe-pulled-trump-assassination) (Tier 2)
-- [Politico: Biden surrogates wake up to post-debate panic](https://www.politico.com/news/2024/06/28/biden-debate-democrats-00165722) (Tier 2)
-- [Ballotpedia: Joe Scarborough](https://ballotpedia.org/Joe_Scarborough) (Tier 3)
-- [Wikipedia: Joe Scarborough](https://en.wikipedia.org/wiki/Joe_Scarborough) (Tier 3)
+- [Deadline: Morning Joe co-hosts renew MS NOW deal through 2029](https://deadline.com/2026/03/morning-joe-scarborough-mika-brzezinski-contract-1236765234/) (Tier 2) (VERIFIED)
+- ~~[Puck: Will MSNBC pay Joe Scarborough $31 million?](https://puck.news/will-msnbc-pay-joe-scarborough-31-million/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [CNN: Morning Joe pulled from air after Trump assassination attempt](https://www.cnn.com/2024/07/14/media/msnbc-morning-joe-pulled-trump-assassination) (Tier 2) (VERIFIED)
+- [Politico: Biden surrogates wake up to post-debate panic](https://www.politico.com/news/2024/06/28/biden-debate-democrats-00165722) (Tier 2) (VERIFIED)
+- [Ballotpedia: Joe Scarborough](https://ballotpedia.org/Joe_Scarborough) (Tier 3) (VERIFIED)
+- [Wikipedia: Joe Scarborough](https://en.wikipedia.org/wiki/Joe_Scarborough) (Tier 3) (VERIFIED)
 - [FEC: Joe Scarborough individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=SCARBOROUGH%2C+JOE) (Tier 1)
 - [FEC: Joseph Scarborough individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=SCARBOROUGH%2C+JOSEPH) (Tier 1)
 

@@ -202,14 +202,14 @@ Retirement avoided the risk of a difficult 2026 campaign while preserving her ex
 
 ## Sources
 
-- [FEC Candidate: Sen. Joni Ernst campaign finance summary](https://www.fec.gov/data/candidate/S4IA00129/) (Tier 1)
-- [The Hill: Kochs max out for Iowa Republican](https://www.thehill.com/blogs/ballot-box/senate-races/212609-kochs-max-out-for-ernst-in-iowa/) (Tier 2)
-- [Real Koch Facts: More Koch Money for Top Crony Joni Ernst](http://realkochfacts.com/more-koch-money-for-top-crony-joni-ernst/) (Tier 3)
-- [Think Progress: Iowa Senate Nominee Says The Koch Network 'Started My Trajectory'](https://thinkprogress.org/iowa-senate-nominee-says-the-koch-network-started-my-trajectory-56712b88d7e/) (Tier 2)
-- [HuffPost: At Koch Retreat, Top GOP Senate Candidates Credited Koch Network For Their Rise](https://www.huffpost.com/entry/koch-brothers-ernst-cotton-gardner_n_5718773) (Tier 2)
-- [NBC News: Republican Sen. Joni Ernst won't seek re-election in Iowa in 2026](https://www.nbcnews.com/politics/2026-election/republican-sen-joni-ernst-wont-seek-re-election-iowa-2026-rcna228053) (Tier 2)
-- [CBS News: Sen. Ernst officially announces she won't seek reelection in 2026, opening Iowa Senate seat](https://www.cbsnews.com/news/joni-ernst-retiring-2026-iowa-senate/) (Tier 2)
-- [Wikipedia: 2026 United States Senate election in Iowa](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Iowa) (Tier 3)
+- [FEC Candidate: Sen. Joni Ernst campaign finance summary](https://www.fec.gov/data/candidate/S4IA00129/) (Tier 1) (VERIFIED)
+- ~~[The Hill: Kochs max out for Iowa Republican](https://www.thehill.com/blogs/ballot-box/senate-races/212609-kochs-max-out-for-ernst-in-iowa/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Real Koch Facts: More Koch Money for Top Crony Joni Ernst](http://realkochfacts.com/more-koch-money-for-top-crony-joni-ernst/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [Think Progress: Iowa Senate Nominee Says The Koch Network 'Started My Trajectory'](https://thinkprogress.org/iowa-senate-nominee-says-the-koch-network-started-my-trajectory-56712b88d7e/) (Tier 2) (VERIFIED)
+- [HuffPost: At Koch Retreat, Top GOP Senate Candidates Credited Koch Network For Their Rise](https://www.huffpost.com/entry/koch-brothers-ernst-cotton-gardner_n_5718773) (Tier 2) (VERIFIED)
+- [NBC News: Republican Sen. Joni Ernst won't seek re-election in Iowa in 2026](https://www.nbcnews.com/politics/2026-election/republican-sen-joni-ernst-wont-seek-re-election-iowa-2026-rcna228053) (Tier 2) (VERIFIED)
+- [CBS News: Sen. Ernst officially announces she won't seek reelection in 2026, opening Iowa Senate seat](https://www.cbsnews.com/news/joni-ernst-retiring-2026-iowa-senate/) (Tier 2) (VERIFIED)
+- [Wikipedia: 2026 United States Senate election in Iowa](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Iowa) (Tier 3) (VERIFIED)
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
@@ -283,7 +283,7 @@ Retirement avoided the risk of a difficult 2026 campaign while preserving her ex
 | 2026-03-24 | On the Motion to Table S. 1383 | Yea | Motion to Table Agreed to |
 | 2026-03-24 | On the Motion to Table S. 1383 | Yea | Motion to Table Agreed to |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412667) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412667) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
 
 ## Voting Record
@@ -310,7 +310,7 @@ Retirement avoided the risk of a difficult 2026 campaign while preserving her ex
 
 **Sources**
 
-- [GovTrack: Joni Ernst](https://www.govtrack.us/congress/members/412667) (Tier 1)
+- [GovTrack: Joni Ernst](https://www.govtrack.us/congress/members/412667) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-10 -->
@@ -337,7 +337,7 @@ Retirement avoided the risk of a difficult 2026 campaign while preserving her ex
 
 **Sources**
 
-- [Congress.gov: Joni Ernst](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: Joni Ernst](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [GovTrack: Joni Ernst](https://www.govtrack.us/congress/members/412667) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->

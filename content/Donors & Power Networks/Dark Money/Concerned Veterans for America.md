@@ -127,21 +127,21 @@ The circular logic: underfund VA → wait times increase → cite wait times as 
 
 ### Sources
 
-- [American Oversight: Documents Reveal Extent of Koch-Funded VA Privatization Group's Influence](https://americanoversight.org/documents-reveal-extent-of-koch-funded-va-privatization-groups-influence/) (Tier 1)
-- [OpenSecrets: How Money Is Driving the Push to Privatize Veterans' Health Care](https://www.opensecrets.org/news/2025/12/how-money-is-driving-the-push-to-privatize-veterans-health-care/) (Tier 1)
-- [Congress.gov: VA MISSION Act (S.2372)](https://www.congress.gov/bill/115th-congress/senate-bill/2372) (Tier 1)
-- [VA.gov: FY2026 Budget Request](https://department.va.gov/administrations-and-offices/management/budget/?redirect=1) (Tier 1)
-- [ProPublica Nonprofit Explorer: Freedom Partners Chamber of Commerce (990)](https://projects.propublica.org/nonprofits/organizations/271747501) *(source unavailable)* (Tier 1)
-- [DeSmog: Concerned Veterans for America](https://www.desmog.com/concerned-veterans-america/) (Tier 2)
-- [CBS News: GOP Insiders Sought Hegseth's Removal as CVA Leader](https://www.cbsnews.com/news/pete-hegseth-concerned-veterans-for-america-jessie-jane-duff/) (Tier 2)
-- [CNN: Hegseth and Collins Push Cutting Veterans' Health Benefits](https://www.cnn.com/2024/12/07/politics/pete-hegseth-doug-collins-veterans-health-care/index.html) (Tier 2)
-- [American Prospect: Gunning for More VA Privatization](https://prospect.org/2023/07/11/2023-07-11-gunning-for-more-va-privatization/) (Tier 2)
-- [Government Executive: House Republicans Set Stage for Expanding Private Care](https://www.govexec.com/management/2024/12/house-republicans-set-stage-expanding-private-care-veterans/401398/) (Tier 2)
-- [Newsweek: Is the VA Being Privatized? Koch-Backed Group Says It Just Wants Choice](https://www.newsweek.com/koch-brothers-backed-group-could-determine-future-va-870693) (Tier 2)
-- [AFGE: Koch-Funded CVA Wants to Dismantle VA](https://www.afge.org/article/report-koch-funded-concerned-veterans-for-america-wants-to-dismantle-va-cut-veterans-benefits/) (Tier 2)
-- [Washington Post: How a Koch-backed veterans group gained influence in Trump's Washington](https://www.washingtonpost.com/politics/how-a-koch-backed-veterans-group-gained-influence-in-trumps-washington/2018/04/07/398b67c4-3784-11e8-9c0a-85d477d9a226_story.html) (Tier 2)
-- [SourceWatch: Concerned Veterans for America](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Concerned_Veterans_for_America) (Tier 3)
-- [Common Dreams: Privatizer Pete Hegseth Is Bad for Military Families](https://www.commondreams.org/opinion/pete-hegseth-privatization-va) (Tier 3)
+- [American Oversight: Documents Reveal Extent of Koch-Funded VA Privatization Group's Influence](https://americanoversight.org/documents-reveal-extent-of-koch-funded-va-privatization-groups-influence/) (Tier 1) (VERIFIED)
+- [OpenSecrets: How Money Is Driving the Push to Privatize Veterans' Health Care](https://www.opensecrets.org/news/2025/12/how-money-is-driving-the-push-to-privatize-veterans-health-care/) (Tier 1) (VERIFIED)
+- [Congress.gov: VA MISSION Act (S.2372)](https://www.congress.gov/bill/115th-congress/senate-bill/2372) (Tier 1) (VERIFIED)
+- [VA.gov: FY2026 Budget Request](https://department.va.gov/administrations-and-offices/management/budget/?redirect=1) (Tier 1) (VERIFIED)
+- ~~[ProPublica Nonprofit Explorer: Freedom Partners Chamber of Commerce (990)](https://projects.propublica.org/nonprofits/organizations/271747501)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 1)
+- [DeSmog: Concerned Veterans for America](https://www.desmog.com/concerned-veterans-america/) (Tier 2) (VERIFIED)
+- [CBS News: GOP Insiders Sought Hegseth's Removal as CVA Leader](https://www.cbsnews.com/news/pete-hegseth-concerned-veterans-for-america-jessie-jane-duff/) (Tier 2) (VERIFIED)
+- [CNN: Hegseth and Collins Push Cutting Veterans' Health Benefits](https://www.cnn.com/2024/12/07/politics/pete-hegseth-doug-collins-veterans-health-care/index.html) (Tier 2) (VERIFIED)
+- [American Prospect: Gunning for More VA Privatization](https://prospect.org/2023/07/11/2023-07-11-gunning-for-more-va-privatization/) (Tier 2) (VERIFIED)
+- [Government Executive: House Republicans Set Stage for Expanding Private Care](https://www.govexec.com/management/2024/12/house-republicans-set-stage-expanding-private-care-veterans/401398/) (Tier 2) (VERIFIED)
+- [Newsweek: Is the VA Being Privatized? Koch-Backed Group Says It Just Wants Choice](https://www.newsweek.com/koch-brothers-backed-group-could-determine-future-va-870693) (Tier 2) (VERIFIED)
+- [AFGE: Koch-Funded CVA Wants to Dismantle VA](https://www.afge.org/article/report-koch-funded-concerned-veterans-for-america-wants-to-dismantle-va-cut-veterans-benefits/) (Tier 2) (VERIFIED)
+- [Washington Post: How a Koch-backed veterans group gained influence in Trump's Washington](https://www.washingtonpost.com/politics/how-a-koch-backed-veterans-group-gained-influence-in-trumps-washington/2018/04/07/398b67c4-3784-11e8-9c0a-85d477d9a226_story.html) (Tier 2) (VERIFIED)
+- ~~[SourceWatch: Concerned Veterans for America](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Concerned_Veterans_for_America)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [Common Dreams: Privatizer Pete Hegseth Is Bad for Military Families](https://www.commondreams.org/opinion/pete-hegseth-privatization-va) (Tier 3) (VERIFIED)
 
 ---
 
@@ -157,7 +157,7 @@ The circular logic: underfund VA → wait times increase → cite wait times as 
 | IRS Ruling Date | 2021-07-01 |
 | Filings on Record | 0 |
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/853318501) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/853318501) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Federal Court Records (CourtListener)
@@ -175,7 +175,7 @@ The circular logic: underfund VA → wait times increase → cite wait times as 
 - VOTEVETS ACTION FUND v. U.S. DEPARTMENT OF VETERANS AFFAIRS (2018) — District Court, District of Columbia
 - AVKO Educational Resource Foundation, Inc. v. Thomas A Morrow (2015) — District Court, N.D. Illinois
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Concerned%20Veterans%20for%20America%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Concerned%20Veterans%20for%20America%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### DOJ Press Releases

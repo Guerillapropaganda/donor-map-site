@@ -115,8 +115,8 @@ Education — charter schools, superintendent appointments, teacher accountabili
 
 ### Sources
 
-- [PR Watch: Billionaire Eli Broad Takes Public Education Private](https://www.prwatch.org/news/2018/12/13434/billionaire-eli-broad-takes-public-education-private) (Tier 3)
-- [LA Times: Broad Foundation and LAUSD](https://www.latimes.com/topic/education) (Tier 2)
+- ~~[PR Watch: Billionaire Eli Broad Takes Public Education Private](https://www.prwatch.org/news/2018/12/13434/billionaire-eli-broad-takes-public-education-private)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [LA Times: Broad Foundation and LAUSD](https://www.latimes.com/topic/education) (Tier 2) (VERIFIED)
 - Diane Ravitch, *Reign of Error* (2013) — Broad model analysis (Tier 2)
 
 ---
@@ -146,21 +146,21 @@ Education — charter schools, superintendent appointments, teacher accountabili
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/954686318/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/954686318/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/954686318/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/954686318/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/954686318/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/954686318/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/954686318/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/954686318/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/954686318/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/954686318/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/954686318) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/954686318) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [549300MEWH8MEHZXWM71](https://search.gleif.org/#/record/549300MEWH8MEHZXWM71) |
+| LEI | [549300MEWH8MEHZXWM71](https://search.gleif.org/#/record/549300MEWH8MEHZXWM71) (VERIFIED) |
 | Legal Name | The Eli and Edythe Broad Foundation |
 | Jurisdiction | US-CA |
 | Entity Status | ACTIVE |
@@ -168,7 +168,7 @@ Education — charter schools, superintendent appointments, teacher accountabili
 | Registration | LAPSED |
 | Last Updated | 2023-08-04T16:55:27Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Vehicle Safety (NHTSA)
@@ -186,7 +186,7 @@ Education — charter schools, superintendent appointments, teacher accountabili
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Eli%20Broad%20Foundation) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Eli%20Broad%20Foundation) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Lobbying Activity
@@ -205,7 +205,7 @@ Education — charter schools, superintendent appointments, teacher accountabili
 
 **Agencies contacted:** Agriculture, Dept of (USDA), Air Force, Dept of, Army, Dept of (Corps of Engineers), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Defense, Dept of (DOD), Education, Dept of, Energy, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP) +22 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Eli%20Broad%20Foundation) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Eli%20Broad%20Foundation) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

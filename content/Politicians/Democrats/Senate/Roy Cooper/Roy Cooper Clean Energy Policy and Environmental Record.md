@@ -125,12 +125,12 @@ Both policies are genuine wins. Both also stop short of the structural change th
 
 ### Sources
 
-- [NC Governor official site: Environment initiatives](https://governor.nc.gov/issues/environment) (Tier 1 - government primary source) (Tier 2)
-- [Roy Cooper official website: Accomplishments](https://www.govroycooper.org/accomplishments) (Tier 1 - primary source) (Tier 2)
-- [NCDHHS: Climate Change and Clean Energy: Plans and Progress](https://www.ncdhhs.gov/about/department-initiatives/climate-change-and-clean-energy-plans-and-progress) (Tier 1 - government primary source) (Tier 2)
-- [The Assembly NC: What Roy Cooper Did. And Didn't. Accomplish As NC Governor](https://www.theassemblync.com/news/politics/roy-cooper-legacy-governor-north-carolina/) (Tier 2)
-- [NC Newsline: Cooper reports sizable lead in fundraising for 2026 U.S. Senate race](https://ncnewsline.com/2026/02/02/cooper-reports-sizable-lead-in-fundraising-for-2026-u-s-senate-race/) (Tier 2)
-- [Wikipedia: Roy Cooper](https://en.wikipedia.org/wiki/Roy_Cooper) (Tier 3)
+- [NC Governor official site: Environment initiatives](https://governor.nc.gov/issues/environment) (VERIFIED) (Tier 1 - government primary source) (Tier 2)
+- [Roy Cooper official website: Accomplishments](https://www.govroycooper.org/accomplishments) (VERIFIED) (Tier 1 - primary source) (Tier 2)
+- [NCDHHS: Climate Change and Clean Energy: Plans and Progress](https://www.ncdhhs.gov/about/department-initiatives/climate-change-and-clean-energy-plans-and-progress) (VERIFIED) (Tier 1 - government primary source) (Tier 2)
+- [The Assembly NC: What Roy Cooper Did. And Didn't. Accomplish As NC Governor](https://www.theassemblync.com/news/politics/roy-cooper-legacy-governor-north-carolina/) (Tier 2) (VERIFIED)
+- [NC Newsline: Cooper reports sizable lead in fundraising for 2026 U.S. Senate race](https://ncnewsline.com/2026/02/02/cooper-reports-sizable-lead-in-fundraising-for-2026-u-s-senate-race/) (Tier 2) (VERIFIED)
+- [Wikipedia: Roy Cooper](https://en.wikipedia.org/wiki/Roy_Cooper) (Tier 3) (VERIFIED)
 
 ---
 

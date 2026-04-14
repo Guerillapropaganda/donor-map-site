@@ -520,14 +520,14 @@ DonorsTrust is not a unique outlier or loophole. It is the operating infrastruct
 
 #### Robert Brulle / Drexel University: Peer-Reviewed Climate Denial Study (2013)
 - **Publication:** *Climatic Change* journal, December 2013
-- **Summary by:** [Scientific American](https://www.scientificamerican.com/article/dark-money-funds-climate-change-denial-effort/) (Tier 2, UNVERIFIED)
+- **Summary by:** [Scientific American](https://www.scientificamerican.com/article/dark-money-funds-climate-change-denial-effort/) (VERIFIED) (Tier 2, UNVERIFIED)
 - **Key findings:** 118 climate denial orgs identified; 2003–2010: $558 million in 5,299 grants to 91 orgs by 140 foundations; 75% of funding untraceable; DonorsTrust = 25% of all traceable foundation funding to denial by 2010 (up from 3% in 2003); described DonorsTrust as "central component," "predominant funder," and "black box."
 
 #### Center for Media and Democracy: Annual Analyses (2022–2025)
-- [2024 analysis (Nov. 2025)](https://www.exposedbycmd.org/2025/11/21/dark-money-donor-conduit-funneled-195-million-to-right-wing-groups-in-2024/) (Tier 2, UNVERIFIED)
-- [2022 analysis (Nov. 2023)](https://www.exposedbycmd.org/2023/11/17/donorstrust-funneled-134-million-to-right-wing-groups-in-2022/) (Tier 2, UNVERIFIED)
-- [2021 analysis (Nov. 2022)](https://www.exposedbycmd.org/2022/11/18/dark-money-atm-injected-right-wing-groups-with-123-million-in-2021/) (Tier 2, UNVERIFIED)
-- [Dirty Dozen climate denial funders (Mar. 2022)](https://www.exposedbycmd.org/2022/03/21/the-dirty-dozen-the-biggest-nonprofit-funders-of-climate-denial/) (Tier 2, UNVERIFIED)
+- ~~[2024 analysis (Nov. 2025)](https://www.exposedbycmd.org/2025/11/21/dark-money-donor-conduit-funneled-195-million-to-right-wing-groups-in-2024/)~~ (URL broken, archived by Ops) (Tier 2, UNVERIFIED)
+- ~~[2022 analysis (Nov. 2023)](https://www.exposedbycmd.org/2023/11/17/donorstrust-funneled-134-million-to-right-wing-groups-in-2022/)~~ (URL broken, archived by Ops) (Tier 2, UNVERIFIED)
+- ~~[2021 analysis (Nov. 2022)](https://www.exposedbycmd.org/2022/11/18/dark-money-atm-injected-right-wing-groups-with-123-million-in-2021/)~~ (URL broken, archived by Ops) (Tier 2, UNVERIFIED)
+- ~~[Dirty Dozen climate denial funders (Mar. 2022)](https://www.exposedbycmd.org/2022/03/21/the-dirty-dozen-the-biggest-nonprofit-funders-of-climate-denial/)~~ (URL broken, archived by Ops) (Tier 2, UNVERIFIED)
 - **Key findings:** Annual breakdowns by category; $195.3M in 2024; recipient organization tracking.
 
 #### Politico: "Two Anonymous $425 Million Donations" (2022)
@@ -567,30 +567,30 @@ In November 2023, the IRS proposed new regulations for donor-advised funds, but 
 ### Sources
 
 #### Tier 1 (Government Records/API Data):
-- [ProPublica Nonprofit Explorer — DonorsTrust Inc (EIN 52-2166327)](https://projects.propublica.org/nonprofits/organizations/522166327) (Tier 1)
-- [ProPublica Nonprofit Explorer — Donors Capital Fund Inc (EIN 54-1934032)](https://projects.propublica.org/nonprofits/organizations/541934032) (Tier 1)
-- [SourceWatch — DonorsTrust and Donors Capital Fund Grant Recipients](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/DonorsTrust_and_Donors_Capital_Fund_Grant_Recipients) (Tier 3) (UNVERIFIED)
+- [ProPublica Nonprofit Explorer — DonorsTrust Inc (EIN 52-2166327)](https://projects.propublica.org/nonprofits/organizations/522166327) (Tier 1) (VERIFIED)
+- [ProPublica Nonprofit Explorer — Donors Capital Fund Inc (EIN 54-1934032)](https://projects.propublica.org/nonprofits/organizations/541934032) (Tier 1) (VERIFIED)
+- ~~[SourceWatch — DonorsTrust and Donors Capital Fund Grant Recipients](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/DonorsTrust_and_Donors_Capital_Fund_Grant_Recipients)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3) (UNVERIFIED)
 
 #### Tier 2 (Major Investigative Journalism):
-- [Mother Jones: "The Dark-Money ATM of the Conservative Movement"](https://www.motherjones.com/politics/2013/02/donors-trust-donor-capital-fund-dark-money-koch-bradley-devos/) — Andy Kroll, Feb. 5, 2013 (Tier 2)
-- [The Guardian: "Secret Funding Built Vast Network of Climate Denial Think Tanks"](https://www.theguardian.com/environment/2013/feb/14/funding-climate-change-denial-thinktanks-network) — Suzanne Goldenberg, Feb. 14, 2013 (Tier 2)
-- [Greenpeace USA: "Donors Trust: Laundering Climate Denial Funding"](https://www.greenpeace.org/global/usa/donors-trust-laundering-climate-denial-funding/) (Tier 2)
-- [Scientific American: Robert Brulle peer-reviewed study](https://www.scientificamerican.com/article/dark-money-funds-climate-change-denial-effort/) — Dec. 2013 (Tier 2)
-- [Center for Media and Democracy: 2024 Analysis](https://www.exposedbycmd.org/2025/11/21/dark-money-donor-conduit-funneled-195-million-to-right-wing-groups-in-2024/) (Tier 2)
-- [Center for Media and Democracy: 2022 Analysis](https://www.exposedbycmd.org/2023/11/17/donorstrust-funneled-134-million-to-right-wing-groups-in-2022/) (Tier 2)
-- [Center for Media and Democracy: 2021 Analysis](https://www.exposedbycmd.org/2022/11/18/dark-money-atm-injected-right-wing-groups-with-123-million-in-2021/) (Tier 2)
-- [Politico: "Two Anonymous $425 Million Donations"](https://www.politico.com/news/2022/11/16/two-anonymous-425-million-donations-gives-dark-money-conservative-group-a-massive-haul-00067493) — Nov. 16, 2022 (Tier 2) (UNVERIFIED)
-- [ProPublica: "Dark Money" — Barre Seid investigation](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) — Aug. 2022 (Tier 2)
+- [Mother Jones: "The Dark-Money ATM of the Conservative Movement"](https://www.motherjones.com/politics/2013/02/donors-trust-donor-capital-fund-dark-money-koch-bradley-devos/) (VERIFIED) — Andy Kroll, Feb. 5, 2013 (Tier 2)
+- [The Guardian: "Secret Funding Built Vast Network of Climate Denial Think Tanks"](https://www.theguardian.com/environment/2013/feb/14/funding-climate-change-denial-thinktanks-network) (VERIFIED) — Suzanne Goldenberg, Feb. 14, 2013 (Tier 2)
+- ~~[Greenpeace USA: "Donors Trust: Laundering Climate Denial Funding"](https://www.greenpeace.org/global/usa/donors-trust-laundering-climate-denial-funding/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Scientific American: Robert Brulle peer-reviewed study](https://www.scientificamerican.com/article/dark-money-funds-climate-change-denial-effort/) (VERIFIED) — Dec. 2013 (Tier 2)
+- ~~[Center for Media and Democracy: 2024 Analysis](https://www.exposedbycmd.org/2025/11/21/dark-money-donor-conduit-funneled-195-million-to-right-wing-groups-in-2024/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Center for Media and Democracy: 2022 Analysis](https://www.exposedbycmd.org/2023/11/17/donorstrust-funneled-134-million-to-right-wing-groups-in-2022/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Center for Media and Democracy: 2021 Analysis](https://www.exposedbycmd.org/2022/11/18/dark-money-atm-injected-right-wing-groups-with-123-million-in-2021/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Politico: "Two Anonymous $425 Million Donations"](https://www.politico.com/news/2022/11/16/two-anonymous-425-million-donations-gives-dark-money-conservative-group-a-massive-haul-00067493)~~ (URL broken, archived by Ops) — Nov. 16, 2022 (Tier 2) (UNVERIFIED)
+- [ProPublica: "Dark Money" — Barre Seid investigation](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (VERIFIED) — Aug. 2022 (Tier 2)
 
 #### Tier 3 (Secondary Reporting/Reference):
-- [DeSmog/DonorsTrust](https://www.desmog.com/who-donors-trust/) (Tier 2)
-- [DeSmog/Donors Capital Fund](https://www.desmog.com/donors-capital-fund/) (Tier 2)
-- [DeSmog/Knowledge and Progress Fund](https://www.desmog.com/knowledge-and-progress-fund/) (Tier 2)
-- [InfluenceWatch/DonorsTrust](https://www.influencewatch.org/non-profit/donorstrust/) (Tier 3)
-- [Wikipedia/DonorsTrust](https://en.wikipedia.org/wiki/DonorsTrust) (Tier 3)
-- [Global Energy Monitor/Knowledge and Progress Fund](https://www.gem.wiki/Knowledge_and_Progress_Fund) (Tier 3)
-- [OpenSecrets: The 85 Fund (2021)](https://www.opensecrets.org/news/2021/12/conservative-dark-money-group-raised-record-50m-in-2020-after-election-rebranding/) (Tier 2) (UNVERIFIED)
-- [Center for Public Integrity: Koch FEC Fine (2022)](https://publicintegrity.org/politics/koch-backed-dark-money-groups-fined-for-failing-to-disclose-donors/) (Tier 2)
+- [DeSmog/DonorsTrust](https://www.desmog.com/who-donors-trust/) (Tier 2) (VERIFIED)
+- [DeSmog/Donors Capital Fund](https://www.desmog.com/donors-capital-fund/) (Tier 2) (VERIFIED)
+- [DeSmog/Knowledge and Progress Fund](https://www.desmog.com/knowledge-and-progress-fund/) (Tier 2) (VERIFIED)
+- [InfluenceWatch/DonorsTrust](https://www.influencewatch.org/non-profit/donorstrust/) (Tier 3) (VERIFIED)
+- [Wikipedia/DonorsTrust](https://en.wikipedia.org/wiki/DonorsTrust) (Tier 3) (VERIFIED)
+- [Global Energy Monitor/Knowledge and Progress Fund](https://www.gem.wiki/Knowledge_and_Progress_Fund) (Tier 3) (VERIFIED)
+- [OpenSecrets: The 85 Fund (2021)](https://www.opensecrets.org/news/2021/12/conservative-dark-money-group-raised-record-50m-in-2020-after-election-rebranding/) (Tier 2) (VERIFIED) (UNVERIFIED)
+- [Center for Public Integrity: Koch FEC Fine (2022)](https://publicintegrity.org/politics/koch-backed-dark-money-groups-fined-for-failing-to-disclose-donors/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -603,6 +603,6 @@ In November 2023, the IRS proposed new regulations for donor-advised funds, but 
 | Total Expenses | $2K |
 | Net Assets | $57K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 473233646](https://projects.propublica.org/nonprofits/organizations/473233646) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F473233646_201612_990EZ_2017110314918196.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 473233646](https://projects.propublica.org/nonprofits/organizations/473233646) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F473233646_201612_990EZ_2017110314918196.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->

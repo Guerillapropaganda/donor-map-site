@@ -61,6 +61,6 @@ Federal law imposes "cooling-off" periods: one year for House members, two years
 
 ### Sources
 
-- [OpenSecrets: Revolving door database](https://www.opensecrets.org/revolving/) (Tier 1)
-- [Ballotpedia: Lobbying regulations](https://ballotpedia.org/Federal_policy_on_lobbying) (Tier 3)
+- ~~[OpenSecrets: Revolving door database](https://www.opensecrets.org/revolving/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Ballotpedia: Lobbying regulations](https://ballotpedia.org/Federal_policy_on_lobbying) (Tier 3) (VERIFIED)
 

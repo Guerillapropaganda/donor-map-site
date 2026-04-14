@@ -92,8 +92,8 @@ NAM's two political vehicles:
 
 Over the past two decades, NAM has spent **$150 million+** in federal lobbying, making it consistently among the top-20 lobbying organizations in the United States.
 
-- [OpenSecrets: National Association of Manufacturers lobbying profile](https://www.opensecrets.org/orgs/national-assn-of-manufacturers/lobbying?id=D000054156) (Tier 1)
-- [OpenSecrets: NAM PAC contributions and summary](https://www.opensecrets.org/orgs/national-assn-of-manufacturers/summary?id=D000054156) (Tier 1)
+- [OpenSecrets: National Association of Manufacturers lobbying profile](https://www.opensecrets.org/orgs/national-assn-of-manufacturers/lobbying?id=D000054156) (Tier 1) (VERIFIED)
+- [OpenSecrets: NAM PAC contributions and summary](https://www.opensecrets.org/orgs/national-assn-of-manufacturers/summary?id=D000054156) (Tier 1) (VERIFIED)
 
 ---
 
@@ -199,10 +199,10 @@ NAM is the permanent institutional voice of manufacturing capital, the organizat
 
 - [OpenSecrets: National Association of Manufacturers lobbying profile](https://www.opensecrets.org/orgs/national-assn-of-manufacturers/lobbying?id=D000054156) (Tier 1)
 - [OpenSecrets: NAM PAC contributions and summary](https://www.opensecrets.org/orgs/national-assn-of-manufacturers/summary?id=D000054156) (Tier 1)
-- [DeSmog: National Association of Manufacturers. Climate Science Denial profile](https://www.desmog.com/national-association-of-manufacturers/) (Tier 2)
-- [U.S. Senate: Whitehouse "Time to Wake Up" speech on NAM climate obstruction](https://www.whitehouse.senate.gov/news/speeches/time-to-wake-up-249-the-national-association-of-manufacturers/) (Tier 2)
-- [Ballotpedia: National Association of Manufacturers](https://ballotpedia.org/National_Association_of_Manufacturers) (Tier 3)
-- [NAM: Policy positions](https://nam.org/issues/) (Tier 3)
+- ~~[DeSmog: National Association of Manufacturers. Climate Science Denial profile](https://www.desmog.com/national-association-of-manufacturers/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[U.S. Senate: Whitehouse "Time to Wake Up" speech on NAM climate obstruction](https://www.whitehouse.senate.gov/news/speeches/time-to-wake-up-249-the-national-association-of-manufacturers/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Ballotpedia: National Association of Manufacturers](https://ballotpedia.org/National_Association_of_Manufacturers) (Tier 3) (VERIFIED)
+- [NAM: Policy positions](https://nam.org/issues/) (Tier 3) (VERIFIED)
 
 ---
 
@@ -232,7 +232,7 @@ NAM is the permanent institutional voice of manufacturing capital, the organizat
 | Net Assets | $69.6M |
 | Officer Compensation | $8.0M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 131084330](https://projects.propublica.org/nonprofits/organizations/131084330) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 131084330](https://projects.propublica.org/nonprofits/organizations/131084330) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Campaign Finance (FEC)
@@ -257,7 +257,7 @@ NAM is the permanent institutional voice of manufacturing capital, the organizat
 | ALAMO PAC | $16,000 | — |
 | ADRIAN SMITH FOR CONGRESS | $15,000 | REP |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=National%20Association%20of%20Manufacturers) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=National%20Association%20of%20Manufacturers) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### Tax Filings (IRS 990)
@@ -274,14 +274,14 @@ NAM is the permanent institutional voice of manufacturing capital, the organizat
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/742553304/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/742553304/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/742553304/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/742553304/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/742553304/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/742553304/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/742553304/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/742553304/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/742553304/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/742553304/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/742553304) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/742553304) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Federal Register Activity
@@ -295,15 +295,15 @@ NAM is the permanent institutional voice of manufacturing capital, the organizat
 | Agencies | Commerce Department, Consumer Product Safety Commission, Copyright Office, Library of Congress, Energy Department, Environmental Protection Agency, Federal Communications Commission, Federal Maritime Commission, Federal Motor Carrier Safety Administration +7 more |
 
 **Recent regulatory activity:**
-- [Perchloroethylene (PCE) and Carbon Tetrachloride (CTC); Regulation Under the Toxic Substances Control Act (TSCA); Compliance Date Extensions](https://www.federalregister.gov/documents/2026/03/27/2026-05977/perchloroethylene-pce-and-carbon-tetrachloride-ctc-regulation-under-the-toxic-substances-control-act) (2026-03-27) — Environmental Protection Agency
-- [Updating the Water Quality Certification Regulations](https://www.federalregister.gov/documents/2026/01/15/2026-00754/updating-the-water-quality-certification-regulations) (2026-01-15) — Environmental Protection Agency
-- [Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Domestic and International Client Export Services and Customized Forms Revision](https://www.federalregister.gov/documents/2025/09/26/2025-18765/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for) (2025-09-26) — Commerce Department
-- [Procedures for Chemical Risk Evaluation Under the Toxic Substances Control Act (TSCA)](https://www.federalregister.gov/documents/2025/09/23/2025-18431/procedures-for-chemical-risk-evaluation-under-the-toxic-substances-control-act-tsca) (2025-09-23) — Environmental Protection Agency ★
-- [Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Domestic and International Client Export Services and Customized Forms Renewal](https://www.federalregister.gov/documents/2025/07/16/2025-13320/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for) (2025-07-16) — Commerce Department
-- [Establishment of Public Docket and Listening Sessions on Implementation Challenges Associated With Clean Water Act Section 401](https://www.federalregister.gov/documents/2025/07/07/2025-12564/establishment-of-public-docket-and-listening-sessions-on-implementation-challenges-associated-with) (2025-07-07) — Environmental Protection Agency
+- ~~[Perchloroethylene (PCE) and Carbon Tetrachloride (CTC); Regulation Under the Toxic Substances Control Act (TSCA); Compliance Date Extensions](https://www.federalregister.gov/documents/2026/03/27/2026-05977/perchloroethylene-pce-and-carbon-tetrachloride-ctc-regulation-under-the-toxic-substances-control-act)~~ (URL broken, archived by Ops) (2026-03-27) — Environmental Protection Agency
+- [Updating the Water Quality Certification Regulations](https://www.federalregister.gov/documents/2026/01/15/2026-00754/updating-the-water-quality-certification-regulations) (VERIFIED) (2026-01-15) — Environmental Protection Agency
+- [Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Domestic and International Client Export Services and Customized Forms Revision](https://www.federalregister.gov/documents/2025/09/26/2025-18765/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for) (VERIFIED) (2025-09-26) — Commerce Department
+- [Procedures for Chemical Risk Evaluation Under the Toxic Substances Control Act (TSCA)](https://www.federalregister.gov/documents/2025/09/23/2025-18431/procedures-for-chemical-risk-evaluation-under-the-toxic-substances-control-act-tsca) (VERIFIED) (2025-09-23) — Environmental Protection Agency ★
+- [Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Domestic and International Client Export Services and Customized Forms Renewal](https://www.federalregister.gov/documents/2025/07/16/2025-13320/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for) (VERIFIED) (2025-07-16) — Commerce Department
+- [Establishment of Public Docket and Listening Sessions on Implementation Challenges Associated With Clean Water Act Section 401](https://www.federalregister.gov/documents/2025/07/07/2025-12564/establishment-of-public-docket-and-listening-sessions-on-implementation-challenges-associated-with) (VERIFIED) (2025-07-07) — Environmental Protection Agency
 - ... and 235 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22National%20Association%20of%20Manufacturers%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22National%20Association%20of%20Manufacturers%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### SEC Filing Activity
@@ -317,11 +317,11 @@ NAM is the permanent institutional voice of manufacturing capital, the organizat
 
 **Notable filings:**
 
-- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000170684326000001/0001706843-26-000001-index.htm)
-- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000201763326000001/0002017633-26-000001-index.htm)
-- 2026-04-01 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000162582426000002/0001625824-26-000002-index.htm)
-- 2026-04-01 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000181702526000001/0001817025-26-000001-index.htm)
-- 2026-04-01 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000173846026000002/0001738460-26-000002-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000170684326000001/0001706843-26-000001-index.htm) (VERIFIED)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000201763326000001/0002017633-26-000001-index.htm) (VERIFIED)
+- 2026-04-01 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000162582426000002/0001625824-26-000002-index.htm) (VERIFIED)
+- 2026-04-01 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000181702526000001/0001817025-26-000001-index.htm) (VERIFIED)
+- 2026-04-01 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000173846026000002/0001738460-26-000002-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22National%20Association%20of%20Manufacturers%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22National%20Association%20of%20Manufacturers%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->

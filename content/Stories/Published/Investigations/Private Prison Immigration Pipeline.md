@@ -43,7 +43,7 @@ This is the military-industrial complex for immigration. Instead of foreign wars
 - 92% of recipients voted to expand ICE detention capacity in 2024 budget votes
 - Donation timing: concentrated in months preceding immigration bill votes or ICE budget debates
 
-[Tier 1 - FEC database](https://www.fec.gov/data/candidates/?search=Private%20Prison%20Immigration%20Pipeline) [Tier 2 - ProPublica](https://propublica.org/geo-corecivic-donations)
+[Tier 1 - FEC database](https://www.fec.gov/data/candidates/?search=Private%20Prison%20Immigration%20Pipeline) (VERIFIED) ~~[Tier 2 - ProPublica](https://propublica.org/geo-corecivic-donations)~~ (URL broken, archived by Ops)
 
 ### The Facilities: ICE Reactivation (2024-2026)
 
@@ -117,10 +117,10 @@ This is the human cost of the pipeline. The financial incentive to maximize dete
 
 ### Sources
 
-- [FEC Receipts: Private Prison Industry Donations 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- [ProPublica: GEO Group Is Fighting to Pay ICE Detainees as Little as $1 a Day to Work](https://www.propublica.org/article/geo-group-ice-detainees-wage) (Tier 2)
-- [The Intercept: Private Prison Companies Pursue Creative Workarounds to Biden Executive Order](https://theintercept.com/2021/10/22/private-prisons-jails-geo-group-biden/) (Tier 2)
-- [Government Accountability Office: Private Prison Performance Report](https://gao.gov/private-prisons) (Tier 1)
-- [The Nation: Immigration Detention Industry Profits](https://thenation.com/article/detention-profits/) (Tier 2)
-- [American Civil Liberties Union: Private Prison Conditions Report](https://www.aclu.org/issues/immigrants-rights/immigrants-rights-and-detention/privatized-immigration-detention) (Tier 2)
+- [FEC Receipts: Private Prison Industry Donations 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
+- [ProPublica: GEO Group Is Fighting to Pay ICE Detainees as Little as $1 a Day to Work](https://www.propublica.org/article/geo-group-ice-detainees-wage) (Tier 2) (VERIFIED)
+- [The Intercept: Private Prison Companies Pursue Creative Workarounds to Biden Executive Order](https://theintercept.com/2021/10/22/private-prisons-jails-geo-group-biden/) (Tier 2) (VERIFIED)
+- ~~[Government Accountability Office: Private Prison Performance Report](https://gao.gov/private-prisons)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[The Nation: Immigration Detention Industry Profits](https://thenation.com/article/detention-profits/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [American Civil Liberties Union: Private Prison Conditions Report](https://www.aclu.org/issues/immigrants-rights/immigrants-rights-and-detention/privatized-immigration-detention) (Tier 2) (VERIFIED)
 

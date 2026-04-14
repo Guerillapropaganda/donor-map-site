@@ -30,9 +30,9 @@ Trump's small-dollar fundraising represents a structural shift in Republican fin
 
 The 2024 cycle revealed a significant shift, however: Trump's small-dollar percentage dropped to under 30% of total campaign funds (~$109.3M from sub-$200 donors), down from nearly 50% in 2020. This decline reflects both donor fatigue and the campaign's pivot toward mega-donor reliance (Miriam Adelson $100M+, Timothy Mellon $150M+, Elon Musk $277M through America PAC). The small-dollar base remains structurally important — it provides a floor of support independent of elite donors — but its relative share of total Trump fundraising has shrunk as the operation scaled into billion-dollar territory.
 
-- [OpenSecrets: Trump 2024 candidate summary](https://www.opensecrets.org/2024-presidential-race?id=N00023864) (Tier 1)
-- [OpenSecrets: 2024 presidential race small donors](https://www.opensecrets.org/2024-presidential-race/small-donors) (Tier 1)
-- [OpenSecrets: WinRed PAC profile 2024](https://www.opensecrets.org/political-action-committees-pacs/winred/C00694323/summary/2024) (Tier 1)
+- [OpenSecrets: Trump 2024 candidate summary](https://www.opensecrets.org/2024-presidential-race?id=N00023864) (Tier 1) (VERIFIED)
+- [OpenSecrets: 2024 presidential race small donors](https://www.opensecrets.org/2024-presidential-race/small-donors) (Tier 1) (VERIFIED)
+- [OpenSecrets: WinRed PAC profile 2024](https://www.opensecrets.org/political-action-committees-pacs/winred/C00694323/summary/2024) (Tier 1) (VERIFIED)
 
 ---
 
@@ -68,11 +68,11 @@ The MAGA small-dollar base funds Trump's political operation through a complex w
 > [!money]
 > The MAGA small-dollar base is simultaneously Trump's most powerful political asset and his most exploited constituency. The same donors who give $34 at a time to "fight the establishment" had $50M+ of their collective contributions redirected to Trump's personal legal defense in 2023 — more than the total Save America PAC raised in the second half of that year. The indictment fundraising cycle is a closed loop: Trump faces legal consequences, the base sends money to "fight back," the money pays Trump's lawyers, and the legal battles generate more fundraising appeals. The donors fund their own exploitation. Meanwhile, WinRed's pre-checked recurring donation boxes extracted $122M in unwanted charges during 2020 alone — money that had to be refunded after consumer complaints. The platform's design is predatory by architecture, not accident.
 
-- [FEC: Trump Save America Joint Fundraising Committee](https://www.fec.gov/data/committee/C00770941/) (Tier 1)
-- [OpenSecrets: Trump steers $130M in donor money to legal fees](https://www.opensecrets.org/news/2023/08/trump-political-operation-steers-130-million-in-donor-money-to-cover-legal-fees/) (Tier 1)
-- [ABC News: Trump spent $50M+ of PAC money on legal bills in 2023](https://abcnews.com/US/trump-spent-50m-pac-super-pac-money-legal/story?id=106843612?id=106843612) (Tier 2)
-- [CBS News: Trump raised $52.8M after guilty verdict](https://www.cbsnews.com/news/trump-fundraising-guilty-verdict-new-york-conviction/) (Tier 2)
-- [CNBC: Trump campaign nets $34.8M after verdict](https://www.cnbc.com/2024/05/31/trump-campaign-donations-record.html) (Tier 2)
+- [FEC: Trump Save America Joint Fundraising Committee](https://www.fec.gov/data/committee/C00770941/) (Tier 1) (VERIFIED)
+- [OpenSecrets: Trump steers $130M in donor money to legal fees](https://www.opensecrets.org/news/2023/08/trump-political-operation-steers-130-million-in-donor-money-to-cover-legal-fees/) (Tier 1) (VERIFIED)
+- [ABC News: Trump spent $50M+ of PAC money on legal bills in 2023](https://abcnews.com/US/trump-spent-50m-pac-super-pac-money-legal/story?id=106843612?id=106843612) (Tier 2) (VERIFIED)
+- [CBS News: Trump raised $52.8M after guilty verdict](https://www.cbsnews.com/news/trump-fundraising-guilty-verdict-new-york-conviction/) (Tier 2) (VERIFIED)
+- [CNBC: Trump campaign nets $34.8M after verdict](https://www.cnbc.com/2024/05/31/trump-campaign-donations-record.html) (Tier 2) (VERIFIED)
 
 ---
 
@@ -91,8 +91,8 @@ The structural returns for the small-dollar base:
 > [!contradiction]
 > The central contradiction of the MAGA small-dollar base: donors who believe they are funding a populist uprising against the billionaire class are simultaneously funding a political operation that delivers crypto deregulation for Silicon Valley billionaires (Andreessen, Sacks), unconditional Israel support for casino billionaires (Adelson), and tax policy that benefits the wealthiest Americans. The small-dollar base provides the democratic mass that makes the billionaire policy agenda electorally viable. The donors think they own Trump because they fund him; the mega-donors know they own policy because they fund it at 100x the scale. Both are right — but only one gets the returns that matter.
 
-- [Al Jazeera: WinRed misleads consumers into recurring donations](https://www.aljazeera.com/economy/2024/7/31/republican-pac-winred-misleads-us-consumers-into-recurring-donations) (Tier 2)
-- [CNN: Political fundraisers take millions from elderly dementia patients](https://www.cnn.com/interactive/2024/10/politics/political-fundraising-elderly-election-invs-dg/) (Tier 2)
+- [Al Jazeera: WinRed misleads consumers into recurring donations](https://www.aljazeera.com/economy/2024/7/31/republican-pac-winred-misleads-us-consumers-into-recurring-donations) (Tier 2) (VERIFIED)
+- [CNN: Political fundraisers take millions from elderly dementia patients](https://www.cnn.com/interactive/2024/10/politics/political-fundraising-elderly-election-invs-dg/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -117,10 +117,10 @@ The WinRed predatory extraction dimension adds a final layer: the very infrastru
 - [OpenSecrets: WinRed PAC profile 2024](https://www.opensecrets.org/political-action-committees-pacs/winred/C00694323/summary/2024) (Tier 1)
 - [FEC: Trump Save America Joint Fundraising Committee](https://www.fec.gov/data/committee/C00770941/) (Tier 1)
 - [OpenSecrets: Trump steers $130M in donor money to legal fees](https://www.opensecrets.org/news/2023/08/trump-political-operation-steers-130-million-in-donor-money-to-cover-legal-fees/) (Tier 1)
-- [OpenSecrets: 5 things about money in 2024 elections](https://www.opensecrets.org/news/2024/11/big-money-big-stakes-5-things-everyone-should-know-about-money-in-2024-election/) (Tier 1)
+- [OpenSecrets: 5 things about money in 2024 elections](https://www.opensecrets.org/news/2024/11/big-money-big-stakes-5-things-everyone-should-know-about-money-in-2024-election/) (Tier 1) (VERIFIED)
 - [ABC News: Trump spent $50M+ of PAC money on legal bills in 2023](https://abcnews.com/US/trump-spent-50m-pac-super-pac-money-legal/story?id=106843612?id=106843612) (Tier 2)
 - [CBS News: Trump raised $52.8M after guilty verdict](https://www.cbsnews.com/news/trump-fundraising-guilty-verdict-new-york-conviction/) (Tier 2)
-- [CNBC: Trump campaign nets $34.8M after verdict in small-dollar surge](https://www.cnbc.com/2024/05/31/trump-campaign-donations-record.html) (Tier 2)
+- [CNBC: Trump campaign nets $34.8M after verdict in small-dollar surge](https://www.cnbc.com/2024/05/31/trump-campaign-donations-record.html) (Tier 2) (VERIFIED)
 - [Al Jazeera: WinRed misleads consumers into recurring donations](https://www.aljazeera.com/economy/2024/7/31/republican-pac-winred-misleads-us-consumers-into-recurring-donations) (Tier 2)
 - [CNN: Political fundraisers take millions from elderly dementia patients](https://www.cnn.com/interactive/2024/10/politics/political-fundraising-elderly-election-invs-dg/) (Tier 2)
 

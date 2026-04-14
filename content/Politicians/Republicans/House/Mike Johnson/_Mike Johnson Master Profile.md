@@ -136,10 +136,10 @@ The AIPAC speaker preservation sequence is the clearest proof that donor priorit
 
 ## Sources
 
-- [Congress.gov: Johnson congressional fundraising](https://www.congress.gov/search?q=Mike%20Johnson&searchResultViewType=expanded) (Tier 1)
-- [The Intercept: AIPAC cash flow to Johnson post-Speaker](https://theintercept.com/2024/01/20/israel-aipac-house-mike-johnson/) (Tier 2)
-- [Rolling Stone: ADF employment history](https://www.rollingstone.com/politics/politics-features/mike-johnson-alliance-defending-freedom-anti-lgbtq-1234865340/) (Tier 2)
-- [CNBC: Louisiana donor base](https://www.cnbc.com/2023/10/31/mike-johnsons-donors-could-become-key-funders-for-house-gop.html) (Tier 2)
+- ~~[Congress.gov: Johnson congressional fundraising](https://www.congress.gov/search?q=Mike%20Johnson&searchResultViewType=expanded)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [The Intercept: AIPAC cash flow to Johnson post-Speaker](https://theintercept.com/2024/01/20/israel-aipac-house-mike-johnson/) (Tier 2) (VERIFIED)
+- [Rolling Stone: ADF employment history](https://www.rollingstone.com/politics/politics-features/mike-johnson-alliance-defending-freedom-anti-lgbtq-1234865340/) (Tier 2) (VERIFIED)
+- [CNBC: Louisiana donor base](https://www.cnbc.com/2023/10/31/mike-johnsons-donors-could-become-key-funders-for-house-gop.html) (Tier 2) (VERIFIED)
 - Marketplace: Financial disclosure analysis (Tier 2)
 - The Hill: Speaker fundraising records (Tier 2)
 - Democracy Docket: Election denier Speaker (Tier 2)
@@ -164,7 +164,7 @@ The AIPAC speaker preservation sequence is the clearest proof that donor priorit
 - H.R. 5: Reserved for the Speaker. — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 3, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 - H.R. 8: Reserved for the Speaker. — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 3, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412706) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412706) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
 
 ### DOJ Press Releases
@@ -174,7 +174,7 @@ The AIPAC speaker preservation sequence is the clearest proof that donor priorit
 <!-- auto:voting-record start -->
 **Sources**
 
-- [GovTrack: Mike Johnson](https://www.govtrack.us/congress/members/412706) (Tier 1)
+- [GovTrack: Mike Johnson](https://www.govtrack.us/congress/members/412706) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
 
 ### Influence Network (Cross-Reference)

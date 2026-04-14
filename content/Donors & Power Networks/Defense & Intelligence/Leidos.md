@@ -181,18 +181,18 @@ The Genuine Win + Structural Limit pattern appears in Leidos' VA healthcare work
 
 ### Sources
 
-- [OpenSecrets: Leidos Inc summary, contributions, lobbying, and revolving door overview](https://www.opensecrets.org/orgs/leidos-inc/summary?id=D000000369) (Tier 1)
-- [OpenSecrets: Leidos Inc lobbying profile, annual totals and bills lobbied](https://www.opensecrets.org/orgs/leidos-inc/lobbying?id=D000000369) (Tier 1)
-- [OpenSecrets: Leidos Inc PAC contributions to federal candidates 2024](https://www.opensecrets.org/political-action-committees-pacs/leidos-inc/C00546234/candidate-recipients/2024) (Tier 1)
-- [FEC: Leidos Inc Political Action Committee, committee overview and filings](https://www.fec.gov/data/committee/C00546234/?cycle=2024) (Tier 1)
-- [Leidos: Political Activities disclosure](https://www.leidos.com/company/responsibility-and-sustainability/political-activities) (Tier 1)
-- [Leidos Investor Relations: Three DISA awards for DoDNet modernization](https://investors.leidos.com/news-releases/news-release-details/leidos-receives-three-disa-awards-launch-next-phase-it) (Tier 1)
-- [PR Newswire: Leidos awarded $390M NSA signals intelligence contract](https://www.prnewswire.com/news-releases/leidos-awarded-390-million-nsa-signals-intelligence-contract-302417279.html) (Tier 2)
-- [FedScoop: ODNI awards Leidos $375M technology and analytical services contract](https://fedscoop.com/odni-awards-leidos-375m-technology-and-analytical-services-contract/) (Tier 2)
-- [Virginia Business: DHS cancels $2.4B Leidos contract](https://virginiabusiness.com/dhs-says-it-is-canceling-2-4b-leidos-contract/) (Tier 2)
-- [POGO: Brass Parachutes. The Problem of the Pentagon Revolving Door](https://www.pogo.org/reports/brass-parachutes) (Tier 2)
-- [POGO: From Battlefield to Boardroom. Facilitating the DoD Revolving Door](https://www.pogo.org/analyses/from-battlefield-to-boardroom-facilitating-dod-revolving-door) (Tier 2)
-- [Defense News: Leidos taps Rolls-Royce executive Bell as next CEO](https://www.defensenews.com/industry/2023/02/27/leidos-taps-rolls-royce-executive-bell-as-next-ceo/) (Tier 2)
+- [OpenSecrets: Leidos Inc summary, contributions, lobbying, and revolving door overview](https://www.opensecrets.org/orgs/leidos-inc/summary?id=D000000369) (Tier 1) (VERIFIED)
+- [OpenSecrets: Leidos Inc lobbying profile, annual totals and bills lobbied](https://www.opensecrets.org/orgs/leidos-inc/lobbying?id=D000000369) (Tier 1) (VERIFIED)
+- [OpenSecrets: Leidos Inc PAC contributions to federal candidates 2024](https://www.opensecrets.org/political-action-committees-pacs/leidos-inc/C00546234/candidate-recipients/2024) (Tier 1) (VERIFIED)
+- [FEC: Leidos Inc Political Action Committee, committee overview and filings](https://www.fec.gov/data/committee/C00546234/?cycle=2024) (Tier 1) (VERIFIED)
+- [Leidos: Political Activities disclosure](https://www.leidos.com/company/responsibility-and-sustainability/political-activities) (Tier 1) (VERIFIED)
+- [Leidos Investor Relations: Three DISA awards for DoDNet modernization](https://investors.leidos.com/news-releases/news-release-details/leidos-receives-three-disa-awards-launch-next-phase-it) (Tier 1) (VERIFIED)
+- [PR Newswire: Leidos awarded $390M NSA signals intelligence contract](https://www.prnewswire.com/news-releases/leidos-awarded-390-million-nsa-signals-intelligence-contract-302417279.html) (Tier 2) (VERIFIED)
+- [FedScoop: ODNI awards Leidos $375M technology and analytical services contract](https://fedscoop.com/odni-awards-leidos-375m-technology-and-analytical-services-contract/) (Tier 2) (VERIFIED)
+- [Virginia Business: DHS cancels $2.4B Leidos contract](https://virginiabusiness.com/dhs-says-it-is-canceling-2-4b-leidos-contract/) (Tier 2) (VERIFIED)
+- ~~[POGO: Brass Parachutes. The Problem of the Pentagon Revolving Door](https://www.pogo.org/reports/brass-parachutes)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [POGO: From Battlefield to Boardroom. Facilitating the DoD Revolving Door](https://www.pogo.org/analyses/from-battlefield-to-boardroom-facilitating-dod-revolving-door) (Tier 2) (VERIFIED)
+- [Defense News: Leidos taps Rolls-Royce executive Bell as next CEO](https://www.defensenews.com/industry/2023/02/27/leidos-taps-rolls-royce-executive-bell-as-next-ceo/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -219,13 +219,13 @@ The Genuine Win + Structural Limit pattern appears in Leidos' VA healthcare work
 
 **Notable filings:**
 
-- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1336920/000133692026000155/0001336920-26-000155-index.htm)
-- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1336920/000133692026000152/0001336920-26-000152-index.htm)
-- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1336920/000133692026000149/0001336920-26-000149-index.htm)
-- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1336920/000133692026000146/0001336920-26-000146-index.htm)
-- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1336920/000133692026000143/0001336920-26-000143-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1336920/000133692026000155/0001336920-26-000155-index.htm) (VERIFIED)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1336920/000133692026000152/0001336920-26-000152-index.htm) (VERIFIED)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1336920/000133692026000149/0001336920-26-000149-index.htm) (VERIFIED)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1336920/000133692026000146/0001336920-26-000146-index.htm) (VERIFIED)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1336920/000133692026000143/0001336920-26-000143-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Leidos%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Leidos%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Tax Filings (IRS 990)
@@ -243,14 +243,14 @@ The Genuine Win + Structural Limit pattern appears in Leidos' VA healthcare work
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/203922378/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/203922378/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/203922378/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/203922378/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/203922378/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/203922378/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/203922378/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/203922378/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/203922378/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/203922378/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/203922378) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/203922378) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Product Recalls (CPSC)
@@ -264,10 +264,10 @@ The Genuine Win + Structural Limit pattern appears in Leidos' VA healthcare work
 
 **Recent recalls:**
 
-- [Branded LLC Recalls Kaleidoscope Toy Due to Choking, Laceration Hazards; Offered Exclusively at H-E-B Stores in Texas](https://www.cpsc.gov/Recalls/15126) (2015-04-30) — The end caps of the kaleidoscope can be removed and expose small parts that can come loose and pose a choking hazard to small children and internal components that pose a risk of laceration.
-- [Kaleidoscope Necklaces Recalled As Choking Hazard](https://www.cpsc.gov/Recalls/92053) (1992-02-11) — Choking
+- ~~[Branded LLC Recalls Kaleidoscope Toy Due to Choking, Laceration Hazards; Offered Exclusively at H-E-B Stores in Texas](https://www.cpsc.gov/Recalls/15126)~~ (URL broken, archived by Ops) (2015-04-30) — The end caps of the kaleidoscope can be removed and expose small parts that can come loose and pose a choking hazard to small children and internal components that pose a risk of laceration.
+- ~~[Kaleidoscope Necklaces Recalled As Choking Hazard](https://www.cpsc.gov/Recalls/92053)~~ (URL broken, archived by Ops) (1992-02-11) — Choking
 
-- [Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Leidos) (Tier 1)
+- ~~[Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Leidos)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:cpsc-recalls end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -324,7 +324,7 @@ The Genuine Win + Structural Limit pattern appears in Leidos' VA healthcare work
 | Facilities Support Services (561210) | $1.5B |
 | Research and Development in the Physical, Engineering, and Life Sciences (except Biotechnology) (541712) | $1.3B |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Leidos) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Leidos) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Vehicle Safety (NHTSA)
@@ -342,7 +342,7 @@ The Genuine Win + Structural Limit pattern appears in Leidos' VA healthcare work
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Leidos) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Leidos) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Federal Register Activity
@@ -356,15 +356,15 @@ The Genuine Win + Structural Limit pattern appears in Leidos' VA healthcare work
 | Agencies | Antitrust Division, Commerce Department, Copyright Royalty Board, Defense Department, Energy Department, Federal Aviation Administration, Health and Human Services Department, International Trade Administration +7 more |
 
 **Recent regulatory activity:**
-- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-The National Advanced Mobility Consortium, Inc. (Formerly Known as the Robotics Technology Consortium)](https://www.federalregister.gov/documents/2026/03/26/2026-05925/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-the-national) (2026-03-26) — Justice Department
-- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/03/17/2026-05145/arms-sales-notification) (2026-03-17) — Defense Department
-- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/02/09/2026-02528/arms-sales-notification) (2026-02-09) — Defense Department
-- [Arms Sales Notification](https://www.federalregister.gov/documents/2025/12/15/2025-22720/arms-sales-notification) (2025-12-15) — Defense Department
-- [Notice of Permit Applications Received Under the Antarctic Conservation Act of 1978](https://www.federalregister.gov/documents/2025/11/19/2025-20322/notice-of-permit-applications-received-under-the-antarctic-conservation-act-of-1978) (2025-11-19) — National Science Foundation
-- [Notice of Extension of Public Comment Period on the Draft Environmental Impact Statement for the SpaceX Starship-Super Heavy Vehicle at Launch Complex 39A, at Kennedy Space Center in Merritt Island, Florida](https://www.federalregister.gov/documents/2025/09/24/2025-18523/notice-of-extension-of-public-comment-period-on-the-draft-environmental-impact-statement-for-the) (2025-09-24) — Transportation Department
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-The National Advanced Mobility Consortium, Inc. (Formerly Known as the Robotics Technology Consortium)](https://www.federalregister.gov/documents/2026/03/26/2026-05925/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-the-national) (VERIFIED) (2026-03-26) — Justice Department
+- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/03/17/2026-05145/arms-sales-notification) (VERIFIED) (2026-03-17) — Defense Department
+- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/02/09/2026-02528/arms-sales-notification) (VERIFIED) (2026-02-09) — Defense Department
+- ~~[Arms Sales Notification](https://www.federalregister.gov/documents/2025/12/15/2025-22720/arms-sales-notification)~~ (URL broken, archived by Ops) (2025-12-15) — Defense Department
+- [Notice of Permit Applications Received Under the Antarctic Conservation Act of 1978](https://www.federalregister.gov/documents/2025/11/19/2025-20322/notice-of-permit-applications-received-under-the-antarctic-conservation-act-of-1978) (VERIFIED) (2025-11-19) — National Science Foundation
+- [Notice of Extension of Public Comment Period on the Draft Environmental Impact Statement for the SpaceX Starship-Super Heavy Vehicle at Launch Complex 39A, at Kennedy Space Center in Merritt Island, Florida](https://www.federalregister.gov/documents/2025/09/24/2025-18523/notice-of-extension-of-public-comment-period-on-the-draft-environmental-impact-statement-for-the) (VERIFIED) (2025-09-24) — Transportation Department
 - ... and 101 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Leidos%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Leidos%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Federal Spending (USASpending)
@@ -396,7 +396,7 @@ The Genuine Win + Structural Limit pattern appears in Leidos' VA healthcare work
 | $50K | Department of Education | SMALL, RURAL SCHOOL ACHIEVEMENT PROGRAM |
 | $29K | Department of Housing and Urban Development | MOD UNIT INSPITA CON |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/3b1c9c58-1f9e-8125-7105-02f4ff2c5b8b-P/latest) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/3b1c9c58-1f9e-8125-7105-02f4ff2c5b8b-P/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Lobbying Activity
@@ -415,14 +415,14 @@ The Genuine Win + Structural Limit pattern appears in Leidos' VA healthcare work
 
 **Agencies contacted:** Defense, Dept of (DOD), Director of National Intelligence (ODNI), HOUSE OF REPRESENTATIVES, Homeland Security, Dept of (DHS), SENATE, Transportation, Dept of (DOT), Veterans Affairs, Dept of (VA)
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Leidos) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Leidos) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [5493006I78VIN6J1BQ95](https://search.gleif.org/#/record/5493006I78VIN6J1BQ95) |
+| LEI | [5493006I78VIN6J1BQ95](https://search.gleif.org/#/record/5493006I78VIN6J1BQ95) (VERIFIED) |
 | Legal Name | LEIDOS, INC. |
 | Jurisdiction | US-DE |
 | Entity Status | ACTIVE |
@@ -432,8 +432,8 @@ The Genuine Win + Structural Limit pattern appears in Leidos' VA healthcare work
 
 **Ownership chain:**
 
-- Ultimate Parent: [LEIDOS HOLDINGS, INC.](https://search.gleif.org/#/record/549300IUTGTP6EJP8124) (US-DE)
+- Ultimate Parent: [LEIDOS HOLDINGS, INC.](https://search.gleif.org/#/record/549300IUTGTP6EJP8124) (VERIFIED) (US-DE)
 - LEIDOS, INC. (this entity)
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->

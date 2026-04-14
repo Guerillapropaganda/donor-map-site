@@ -54,7 +54,7 @@ Johnson & Johnson (J&J). One of the largest pharmaceutical and medical device co
 
 J&J has faced extraordinary legal liability: $8.9 billion in proposed settlements for its talc/asbestos cancer cases (affecting 60,000+ plaintiffs) and participation in the $26 billion national opioid settlement. The company's legal strategy — including a controversial "Texas Two-Step" bankruptcy maneuver to limit talc liability — has drawn congressional scrutiny and judicial rejection.
 
-- [OpenSecrets: Johnson & Johnson organizational profile](https://www.opensecrets.org/orgs/johnson-johnson/summary?id=D000000385) (Tier 1)
+- ~~[OpenSecrets: Johnson & Johnson organizational profile](https://www.opensecrets.org/orgs/johnson-johnson/summary?id=D000000385)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -94,9 +94,9 @@ The liability strategy reveals the corporate class position with equal clarity. 
 ### Sources
 
 - [OpenSecrets: Johnson & Johnson organizational profile](https://www.opensecrets.org/orgs/johnson-johnson/summary?id=D000000385) (Tier 1)
-- [OpenSecrets: J&J lobbying expenditures](https://www.opensecrets.org/orgs/johnson-johnson/lobbying?id=D000000385) (Tier 1)
-- [Reuters: J&J talc settlement and bankruptcy strategy](https://www.reuters.com/business/healthcare-pharmaceuticals/jnj-talc-settlement/) *(source unavailable)* (Tier 2)
-- [Ballotpedia: Johnson & Johnson political spending](https://ballotpedia.org/Johnson_&_Johnson) (Tier 3)
+- ~~[OpenSecrets: J&J lobbying expenditures](https://www.opensecrets.org/orgs/johnson-johnson/lobbying?id=D000000385)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Reuters: J&J talc settlement and bankruptcy strategy](https://www.reuters.com/business/healthcare-pharmaceuticals/jnj-talc-settlement/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+- [Ballotpedia: Johnson & Johnson political spending](https://ballotpedia.org/Johnson_&_Johnson) (Tier 3) (VERIFIED)
 
 ### Financial Overview (990 Filing — 2023)
 <!-- auto:propublica-990 start -->
@@ -108,7 +108,7 @@ The liability strategy reveals the corporate class position with equal clarity. 
 | Net Assets | $1.3M |
 | Officer Compensation | $19K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 760552018](https://projects.propublica.org/nonprofits/organizations/760552018) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 760552018](https://projects.propublica.org/nonprofits/organizations/760552018) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### OFAC Sanctions Screening
@@ -129,7 +129,7 @@ The liability strategy reveals the corporate class position with equal clarity. 
 - BYABASHAIJA, Johnson (individual) [GLOMAG]
   - Remarks: DOB 27 Sep 1957; POB Kajure, Rukungiri District, Uganda; nationality Uganda; Gender Male.
 
-- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -178,7 +178,7 @@ The liability strategy reveals the corporate class position with equal clarity. 
 | In-Vitro Diagnostic Substance Manufacturing (325413) | $9.0M |
 | Pharmaceutical Preparation Manufacturing (325412) | $8.7M |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Federal Spending (USASpending)
@@ -206,7 +206,7 @@ The liability strategy reveals the corporate class position with equal clarity. 
 |--------|--------|-------------|
 | $319K | Department of Health and Human Services | DEVELOPMENT OF NOVEL METHODS TO ENABLE ROBUST COMPARISON OF REAL-WORLD PROGRESSION FREE SURVIVAL (RW |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/803dca7c-cdfb-9267-ab61-45f868860d81-C/latest) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/803dca7c-cdfb-9267-ab61-45f868860d81-C/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Product Recalls (CPSC)
@@ -220,11 +220,11 @@ The liability strategy reveals the corporate class position with equal clarity. 
 
 **Recent recalls:**
 
-- [Johnson & Johnson Recalls Spin-A-Sound Toy](https://www.cpsc.gov/Recalls/90007) (1989-11-02) — Laceration
-- [Johnson & Johnson Crib Toys Case Settled](https://www.cpsc.gov/Recalls/86065) (1986-10-23) — Strangulation
-- [Crib Toys Recalled by Johnson & Johnson](https://www.cpsc.gov/Recalls/86036) (1986-06-02) — Strangulation
+- ~~[Johnson & Johnson Recalls Spin-A-Sound Toy](https://www.cpsc.gov/Recalls/90007)~~ (URL broken, archived by Ops) (1989-11-02) — Laceration
+- ~~[Johnson & Johnson Crib Toys Case Settled](https://www.cpsc.gov/Recalls/86065)~~ (URL broken, archived by Ops) (1986-10-23) — Strangulation
+- ~~[Crib Toys Recalled by Johnson & Johnson](https://www.cpsc.gov/Recalls/86036)~~ (URL broken, archived by Ops) (1986-06-02) — Strangulation
 
-- [Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Johnson%20%26%20Johnson) (Tier 1)
+- ~~[Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Johnson%20%26%20Johnson)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:cpsc-recalls end -->
 
 ### SEC Filing Activity
@@ -238,13 +238,13 @@ The liability strategy reveals the corporate class position with equal clarity. 
 
 **Notable filings:**
 
-- 2026-03-26 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/200406/000010290926000380/0000102909-26-000380-index.htm)
-- 2026-03-18 — **13F-HR/A**: [13F-HR/A](https://www.sec.gov/Archives/edgar/data/200406/000090445426000192/0000904454-26-000192-index.htm)
-- 2026-03-18 — **13F-HR/A**: [13F-HR/A](https://www.sec.gov/Archives/edgar/data/200406/000090445426000190/0000904454-26-000190-index.htm)
-- 2026-03-12 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/200406/000020040626000070/0000200406-26-000070-index.htm)
-- 2026-03-12 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/200406/000020040626000069/0000200406-26-000069-index.htm)
+- 2026-03-26 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/200406/000010290926000380/0000102909-26-000380-index.htm) (VERIFIED)
+- 2026-03-18 — **13F-HR/A**: [13F-HR/A](https://www.sec.gov/Archives/edgar/data/200406/000090445426000192/0000904454-26-000192-index.htm) (VERIFIED)
+- 2026-03-18 — **13F-HR/A**: [13F-HR/A](https://www.sec.gov/Archives/edgar/data/200406/000090445426000190/0000904454-26-000190-index.htm) (VERIFIED)
+- 2026-03-12 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/200406/000020040626000070/0000200406-26-000070-index.htm) (VERIFIED)
+- 2026-03-12 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/200406/000020040626000069/0000200406-26-000069-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Johnson%20%26%20Johnson%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Johnson%20%26%20Johnson%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Tax Filings (IRS 990)
@@ -262,14 +262,14 @@ The liability strategy reveals the corporate class position with equal clarity. 
 **Filing history:** 2023, 2022, 2021, 2020, 2018, 2017, 2016, 2015
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/760552018/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/760552018/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/760552018/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/760552018/2020)
-- [2018 Filing](https://projects.propublica.org/nonprofits/organizations/760552018/2018)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/760552018/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/760552018/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/760552018/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/760552018/2020)~~ (URL broken, archived by Ops)
+- ~~[2018 Filing](https://projects.propublica.org/nonprofits/organizations/760552018/2018)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/760552018) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/760552018) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### DOJ Press Releases
@@ -290,7 +290,7 @@ The liability strategy reveals the corporate class position with equal clarity. 
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Johnson%20%26%20Johnson) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Johnson%20%26%20Johnson) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### FTC Enforcement & Merger Review
@@ -308,24 +308,24 @@ The liability strategy reveals the corporate class position with equal clarity. 
 
 **Recent enforcement actions (historical):**
 
-- [Johnson & Johnson/Integra LifeSciences](https://www.ftc.gov/news-events/press-releases/2017/09/ftc-requires-divestiture-5-medical-device-product-lines-condition) (2017-09-27) — Health Care � Medical Equipment/Devices
-- [Johnson & Johnson / Synthes](http://www.ftc.gov/os/caselist/1110160/index.shtm) (2012-06-11) — Health Care � Medical Equipment/Devices
-- [Johnson & Johnson / Pfizer](http://www.ftc.gov/os/caselist/0610220/0610220.shtm) (2006-12-12) — Health Care � OTC Drugs/Devices
-- [Johnson & Johnson / Guidant Corporation](http://www.ftc.gov/os/caselist/0510050/0510050.shtm) (2005-11-02) — Health Care � Medical Equipment/Devices
-- [S.C. Johnson & Son, Inc.](http://www.ftc.gov/os/caselist/c3802.shtm) (1998-01-22) — Manufacturing � Consumer Goods (non Food & Bev.)
+- [Johnson & Johnson/Integra LifeSciences](https://www.ftc.gov/news-events/press-releases/2017/09/ftc-requires-divestiture-5-medical-device-product-lines-condition) (NEEDS REVIEW) (2017-09-27) — Health Care � Medical Equipment/Devices
+- [Johnson & Johnson / Synthes](http://www.ftc.gov/os/caselist/1110160/index.shtm) (NEEDS REVIEW) (2012-06-11) — Health Care � Medical Equipment/Devices
+- [Johnson & Johnson / Pfizer](http://www.ftc.gov/os/caselist/0610220/0610220.shtm) (NEEDS REVIEW) (2006-12-12) — Health Care � OTC Drugs/Devices
+- [Johnson & Johnson / Guidant Corporation](http://www.ftc.gov/os/caselist/0510050/0510050.shtm) (NEEDS REVIEW) (2005-11-02) — Health Care � Medical Equipment/Devices
+- [S.C. Johnson & Son, Inc.](http://www.ftc.gov/os/caselist/c3802.shtm) (NEEDS REVIEW) (1998-01-22) — Manufacturing � Consumer Goods (non Food & Bev.)
 - Johnson & Johnson, Inc. (1995-12-19) — Health Care � Medical Equipment/Devices
 
 **Recent HSR merger filings (early terminations granted):**
 
-- [Johnson & Johnson → Fate Therapeutics, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20201131) (2020-06-22)
-- [Johnson & Johnson → MeiraGTx Holdings plc](https://www.ftc.gov/legal-library/browse/early-termination-notices/20190827) (2019-02-25)
-- [Gryphon Partners V, L.P. → Johnson & Johnson](https://www.ftc.gov/legal-library/browse/early-termination-notices/20190512) (2018-12-17)
-- [Johnson & Johnson → Arrowhead Pharmaceuticals, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20190039) (2018-10-26)
-- [Fortive Corporation → Johnson & Johnson](https://www.ftc.gov/legal-library/browse/early-termination-notices/20181508) (2018-07-02)
+- [Johnson & Johnson → Fate Therapeutics, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20201131) (VERIFIED) (2020-06-22)
+- [Johnson & Johnson → MeiraGTx Holdings plc](https://www.ftc.gov/legal-library/browse/early-termination-notices/20190827) (VERIFIED) (2019-02-25)
+- [Gryphon Partners V, L.P. → Johnson & Johnson](https://www.ftc.gov/legal-library/browse/early-termination-notices/20190512) (VERIFIED) (2018-12-17)
+- [Johnson & Johnson → Arrowhead Pharmaceuticals, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20190039) (VERIFIED) (2018-10-26)
+- [Fortive Corporation → Johnson & Johnson](https://www.ftc.gov/legal-library/browse/early-termination-notices/20181508) (VERIFIED) (2018-07-02)
 
-> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Johnson%20%26%20Johnson).
+> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Johnson%20%26%20Johnson) (VERIFIED).
 
-- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Johnson%20%26%20Johnson) (Tier 1)
+- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Johnson%20%26%20Johnson) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->
 
 ### FDA Enforcement (openFDA)
@@ -361,5 +361,5 @@ The liability strategy reveals the corporate class position with equal clarity. 
 
 _Variant firm names in FDA data: Johnson & Johnson Vision Care, Inc.; DePuy Mitek, Inc., a Johnson & Johnson Co.; Ethicon Sarl, a Johnson & Johnson Company; Johnson & Johnson Surgical Vision, Inc.; Johnson & Johnson Surgical Vision Inc_
 
-- [Source: openFDA / FDA Enforcement Reports](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?search_api_fulltext=Johnson%20%26%20Johnson) (Tier 1)
+- [Source: openFDA / FDA Enforcement Reports](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?search_api_fulltext=Johnson%20%26%20Johnson) (Tier 1) (VERIFIED)
 <!-- auto:fda-enforcement end -->

@@ -51,7 +51,7 @@ The sequence:
 
 ### Sources
 
-- [FEC Receipts: Health insurance industry lobbying](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- [Congress.gov: ACA legislative history](https://www.congress.gov/bill/111th-congress/house-bill/3590) (Tier 1)
-- [CBO: Public option cost estimates](https://www.cbo.gov/topics/health) (Tier 1)
+- [FEC Receipts: Health insurance industry lobbying](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: ACA legislative history](https://www.congress.gov/bill/111th-congress/house-bill/3590)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[CBO: Public option cost estimates](https://www.cbo.gov/topics/health)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 

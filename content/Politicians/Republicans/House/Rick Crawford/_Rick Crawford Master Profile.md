@@ -162,22 +162,22 @@ The Arkansas farm boy turned intelligence chairman is the point, not the irony. 
 
 ## Sources
 
-- [OpenSecrets: Rick Crawford donor profile](https://www.opensecrets.org/members-of-congress/summary?cid=N00030770) (Tier 1)
-- [Congress.gov: Eric A. "Rick" Crawford](https://www.congress.gov/member/eric-crawford/C001087) (Tier 1)
-- [House Intelligence Committee: Chairman Rick Crawford](https://intelligence.house.gov/chairman/) (Tier 1)
-- [House Intelligence Committee: Crawford opening statement, 2026 Worldwide Threats Assessment](https://intelligence.house.gov/2026/03/19/chairman-crawford-delivers-opening-statement-at-full-committee-hearing-on-2026-annual-worldwide-threats-assessment/) (Tier 1)
-- [House Intelligence Committee: Crawford-Himes on FY26 Intelligence Authorization Act](https://intelligence.house.gov/news/documentsingle.aspx?DocumentID=2639) (Tier 1)
-- [House.gov: Crawford biography](https://crawford.house.gov/about-rick) (Tier 1)
-- [Clerk.house.gov: Crawford 119th Congress profile](https://clerk.house.gov/members/C001087) (Tier 1)
-- [FEC: Crawford candidate overview](https://www.fec.gov/data/candidate/H0AR01083/) (Tier 1)
-- [NBC News: Mike Johnson picks Crawford to lead Intelligence after ousting Turner](https://www.nbcnews.com/politics/congress/speaker-johnson-rick-crawford-house-intelligence-committee-chair-rcna187950) (Tier 2)
-- [The Hill: Who is Rick Crawford, the new House Intelligence chair](https://thehill.com/homenews/house/5090034-rick-crawford-intelligence-committee-chair/) (Tier 2)
-- [Bloomberg: Ukraine aid critic to lead Intelligence panel](https://www.bloomberg.com/news/articles/2025-01-16/gop-s-johnson-taps-ukraine-aid-critic-to-lead-intelligence-panel) (Tier 2)
-- [Arkansas Times: Crawford picked after ouster of Republican who dared question Trump](https://arktimes.com/arkansas-blog/2025/01/16/crawford-picked-as-house-intelligence-chair-after-ouster-of-republican-who-dared-question-trump) (Tier 2)
-- [CNN: Johnson picks Crawford to be next intel chairman](https://www.cnn.com/2025/01/16/politics/rick-crawford-next-intel-chairman) (Tier 2)
-- [The Intercept: With Support From Nancy Pelosi, House Gives Trump Administration Broad Latitude to Spy on Americans](https://theintercept.com/2018/01/11/nsa-pelosi-democrats-spy-american-section-702/) (Tier 2)
-- [Encyclopedia of Arkansas: Rick Crawford](https://encyclopediaofarkansas.net/entries/rick-crawford-8438/) (Tier 3)
-- [Wikipedia: Rick Crawford](https://en.wikipedia.org/wiki/Rick_Crawford_%28politician%29) (Tier 3)
+- [OpenSecrets: Rick Crawford donor profile](https://www.opensecrets.org/members-of-congress/summary?cid=N00030770) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: Eric A. "Rick" Crawford](https://www.congress.gov/member/eric-crawford/C001087)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [House Intelligence Committee: Chairman Rick Crawford](https://intelligence.house.gov/chairman/) (Tier 1) (VERIFIED)
+- [House Intelligence Committee: Crawford opening statement, 2026 Worldwide Threats Assessment](https://intelligence.house.gov/2026/03/19/chairman-crawford-delivers-opening-statement-at-full-committee-hearing-on-2026-annual-worldwide-threats-assessment/) (Tier 1) (VERIFIED)
+- ~~[House Intelligence Committee: Crawford-Himes on FY26 Intelligence Authorization Act](https://intelligence.house.gov/news/documentsingle.aspx?DocumentID=2639)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [House.gov: Crawford biography](https://crawford.house.gov/about-rick) (Tier 1) (VERIFIED)
+- [Clerk.house.gov: Crawford 119th Congress profile](https://clerk.house.gov/members/C001087) (Tier 1) (VERIFIED)
+- [FEC: Crawford candidate overview](https://www.fec.gov/data/candidate/H0AR01083/) (Tier 1) (VERIFIED)
+- [NBC News: Mike Johnson picks Crawford to lead Intelligence after ousting Turner](https://www.nbcnews.com/politics/congress/speaker-johnson-rick-crawford-house-intelligence-committee-chair-rcna187950) (Tier 2) (VERIFIED)
+- ~~[The Hill: Who is Rick Crawford, the new House Intelligence chair](https://thehill.com/homenews/house/5090034-rick-crawford-intelligence-committee-chair/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Bloomberg: Ukraine aid critic to lead Intelligence panel](https://www.bloomberg.com/news/articles/2025-01-16/gop-s-johnson-taps-ukraine-aid-critic-to-lead-intelligence-panel)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Arkansas Times: Crawford picked after ouster of Republican who dared question Trump](https://arktimes.com/arkansas-blog/2025/01/16/crawford-picked-as-house-intelligence-chair-after-ouster-of-republican-who-dared-question-trump) (Tier 2) (VERIFIED)
+- [CNN: Johnson picks Crawford to be next intel chairman](https://www.cnn.com/2025/01/16/politics/rick-crawford-next-intel-chairman) (Tier 2) (VERIFIED)
+- [The Intercept: With Support From Nancy Pelosi, House Gives Trump Administration Broad Latitude to Spy on Americans](https://theintercept.com/2018/01/11/nsa-pelosi-democrats-spy-american-section-702/) (Tier 2) (VERIFIED)
+- [Encyclopedia of Arkansas: Rick Crawford](https://encyclopediaofarkansas.net/entries/rick-crawford-8438/) (Tier 3) (VERIFIED)
+- [Wikipedia: Rick Crawford](https://en.wikipedia.org/wiki/Rick_Crawford_%28politician%29) (Tier 3) (VERIFIED)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -211,7 +211,7 @@ The Arkansas farm boy turned intelligence chairman is the point, not the irony. 
 | REVERE AMERICA | $4,298 | $0 |
 | AMERICANS FOR JOB SECURITY | $3,227 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0AR01083/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0AR01083/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Voting Record
@@ -270,5 +270,5 @@ The Arkansas farm boy turned intelligence chairman is the point, not the irony. 
 | 5563 | DRIVE-SAFE Act | Referred to the Subcommittee on Highways and Transit. |
 | 5167 | Intelligence Authorization Act for Fiscal Year 2026 | Placed on the Union Calendar, Calendar No. 339. |
 
-- [Source: Congress.gov](https://www.congress.gov/member/C001087) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001087)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->

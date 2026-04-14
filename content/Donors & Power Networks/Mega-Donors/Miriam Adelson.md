@@ -53,14 +53,14 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 [[Miriam Adelson]]. Born October 10, 1945, Tel Aviv, Israel. Physician (internal medicine, addiction specialist). Widow of Sheldon Adelson (died January 11, 2021). Majority owner and chairwoman of Las Vegas Sands Corp. Owner of the Dallas Mavericks ($3.8 billion, December 2023). Owner of Israel Hayom newspaper and Las Vegas Review-Journal.
 
-Net worth: $34.6B (October 2025) to $45.1B (February 2026). Forbes estimates ~$40.5B (March 2026) ([Bloomberg Billionaires Index](https://www.bloomberg.com/billionaires/profiles/miriam-o-adelson/), Tier 1). Richest person in Nevada. Richest Israeli citizen. Trump quoted in October 2025 as saying Adelson has "$60 billion in her account."
+Net worth: $34.6B (October 2025) to $45.1B (February 2026). Forbes estimates ~$40.5B (March 2026) (~~[Bloomberg Billionaires Index](https://www.bloomberg.com/billionaires/profiles/miriam-o-adelson/)~~ (URL broken, archived by Ops), Tier 1). Richest person in Nevada. Richest Israeli citizen. Trump quoted in October 2025 as saying Adelson has "$60 billion in her account."
 
 ---
 
 ### The Political Spending
 
 > [!money] Follow the Money — The Adelson Dynasty
-> **Miriam 2024:** $106–140 million federal contributions ([OpenSecrets](https://www.fec.gov/data/independent-expenditures/?q=Miriam%20O.%20Adelson), Tier 1; [Times of Israel](https://www.timesofisrael.com/miriam-adelson-gives-100-million-to-trump-campaign-making-good-on-reported-pledge/), Tier 2)
+> **Miriam 2024:** $106–140 million federal contributions ([OpenSecrets](https://www.fec.gov/data/independent-expenditures/?q=Miriam%20O.%20Adelson) (VERIFIED), Tier 1; [Times of Israel](https://www.timesofisrael.com/miriam-adelson-gives-100-million-to-trump-campaign-making-good-on-reported-pledge/) (VERIFIED), Tier 2)
 > - **Preserve America PAC:** $106,000,000 (Pro-Trump super PAC; $25M/month July-Sept, plus $20M and $6M adds)
 > - **Senate Leadership Fund:** $15,000,000 ($10M May, $5M Sept)
 > - **Congressional Leadership Fund:** $10,000,000 ($5M May, $4M Sept, $1M Nov)
@@ -71,7 +71,7 @@ Net worth: $34.6B (October 2025) to $45.1B (February 2026). Forbes estimates ~$4
 > - **Win It Back PAC:** $250,000 (November)
 > - **Total 2024:** ~$140,000,000+
 >
-> Preserve America PAC advisor Andy Abboud confirmed Adelson had an open-ended commitment: "We're going to do whatever it takes" for Trump to win ([CNBC](https://www.cnbc.com/2024/08/16/donald-trump-miriam-adelson-campaign-funding.html), Tier 2). The PAC spent $92 million through September alone.
+> Preserve America PAC advisor Andy Abboud confirmed Adelson had an open-ended commitment: "We're going to do whatever it takes" for Trump to win ([CNBC](https://www.cnbc.com/2024/08/16/donald-trump-miriam-adelson-campaign-funding.html) (VERIFIED), Tier 2). The PAC spent $92 million through September alone.
 >
 > **Combined Adelson lifetime political giving:**
 > - Sheldon (lifetime): $273 million
@@ -214,9 +214,9 @@ The structural function: Adelson money ensures no Republican president deviates 
 > [!money] Iran war as donor return
 > The $106–120M Adelson invested in 2024 is producing: (1) direct US military strikes on Iran — 8,000+ targets, largest naval elimination since WWII; (2) accelerated West Bank settlement expansion; (3) campus speech crackdowns via Title VI enforcement. This is the clearest single-donor-to-war-policy pipeline in American history.
 
-- [ScheerPost: Trump White House plagiarized Iran war manifesto from Israel-aligned think tank](https://scheerpost.com/2026/03/21/trump-white-house-plagiarized-iran-war-manifesto-from-israel-aligned-think-tank/) (Tier 2)
-- [The Nation: How the Israeli tail wags the American dog](https://www.thenation.com/article/world/trump-iiran-war-israel-us-foreign-policy/) (Tier 2)
-- [Al Jazeera: Five problems the Iran war could solve for Netanyahu](https://www.aljazeera.com/news/2026/3/20/five-problems-the-iran-war-could-solve-for-israels-netanyahu) (Tier 2)
+- [ScheerPost: Trump White House plagiarized Iran war manifesto from Israel-aligned think tank](https://scheerpost.com/2026/03/21/trump-white-house-plagiarized-iran-war-manifesto-from-israel-aligned-think-tank/) (Tier 2) (VERIFIED)
+- [The Nation: How the Israeli tail wags the American dog](https://www.thenation.com/article/world/trump-iiran-war-israel-us-foreign-policy/) (Tier 2) (VERIFIED)
+- [Al Jazeera: Five problems the Iran war could solve for Netanyahu](https://www.aljazeera.com/news/2026/3/20/five-problems-the-iran-war-could-solve-for-israels-netanyahu) (Tier 2) (VERIFIED)
 
 The limit is also visible: $557M can't buy formal annexation because it threatens the Gulf normalization framework that Kushner monetized ($2B PIF) and defense contractors profit from ($23B in Abraham Accords weapons sales). Adelson's single-issue focus collides with the multi-issue donor ecosystem. She gets ambassadors, rhetoric, and now a war. The annexation question remains open — but de facto annexation through accelerated settlement expansion may be the functional substitute.
 
@@ -227,18 +227,18 @@ The class contradiction: the fortune funding West Bank maximalism is generated b
 ### Sources
 
 ### Political Spending:
-- [OpenSecrets — Adelson family giving](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Adelson) (Tier 1)
-- [OpenSecrets News — Adelsons set new donation record](https://www.opensecrets.org/news/2020/10/adelsons-set-new-donation-record/) (Tier 1)
-- [OpenSecrets — Miriam Adelson 2024 donor profile](https://www.fec.gov/data/independent-expenditures/?q=Miriam%20O.%20Adelson) (Tier 1)
-- [Times of Israel — Miriam Adelson $100M Trump donation](https://www.timesofisrael.com/miriam-adelson-gives-100-million-to-trump-campaign-making-good-on-reported-pledge/) (Tier 2)
-- [CNBC — Miriam Adelson PAC funding](https://www.cnbc.com/2024/08/16/donald-trump-miriam-adelson-campaign-funding.html) (Tier 2)
+- [OpenSecrets — Adelson family giving](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Adelson) (Tier 1) (VERIFIED)
+- [OpenSecrets News — Adelsons set new donation record](https://www.opensecrets.org/news/2020/10/adelsons-set-new-donation-record/) (Tier 1) (VERIFIED)
+- [OpenSecrets — Miriam Adelson 2024 donor profile](https://www.fec.gov/data/independent-expenditures/?q=Miriam%20O.%20Adelson) (Tier 1) (VERIFIED)
+- [Times of Israel — Miriam Adelson $100M Trump donation](https://www.timesofisrael.com/miriam-adelson-gives-100-million-to-trump-campaign-making-good-on-reported-pledge/) (Tier 2) (VERIFIED)
+- [CNBC — Miriam Adelson PAC funding](https://www.cnbc.com/2024/08/16/donald-trump-miriam-adelson-campaign-funding.html) (Tier 2) (VERIFIED)
 
 ### Las Vegas Sands:
-- [Wikipedia — Miriam Adelson](https://en.wikipedia.org/wiki/Miriam_Adelson) (Tier 3)
+- [Wikipedia — Miriam Adelson](https://en.wikipedia.org/wiki/Miriam_Adelson) (Tier 3) (VERIFIED)
 
 ### Net Worth:
-- [Bloomberg Billionaires Index — Miriam Adelson](https://www.bloomberg.com/billionaires/profiles/miriam-o-adelson/) (Tier 1)
-- [CasinoBeats — Miriam Adelson net worth](https://casinobeats.com/features/miriam-adelson-net-worth/) (Tier 2)
+- ~~[Bloomberg Billionaires Index — Miriam Adelson](https://www.bloomberg.com/billionaires/profiles/miriam-o-adelson/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [CasinoBeats — Miriam Adelson net worth](https://casinobeats.com/features/miriam-adelson-net-worth/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -263,7 +263,7 @@ The class contradiction: the fortune funding West Bank maximalism is generated b
 | Total Expenses | $756 |
 | Net Assets | $90K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 886063073](https://projects.propublica.org/nonprofits/organizations/886063073) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 886063073](https://projects.propublica.org/nonprofits/organizations/886063073) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Federal Court Records (CourtListener)
@@ -282,7 +282,7 @@ The class contradiction: the fortune funding West Bank maximalism is generated b
 - Kordia v. Noem (2025) — District Court, N.D. Texas
 - American Association of University Professors v. Rubio (2025) — District Court, D. Massachusetts
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Miriam%20Adelson%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Miriam%20Adelson%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### DOJ Press Releases
@@ -303,14 +303,14 @@ The class contradiction: the fortune funding West Bank maximalism is generated b
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/886063073/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/886063073/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/886063073/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/886063073/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/886063073/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/886063073/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/886063073/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/886063073/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/886063073/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/886063073/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/886063073) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/886063073) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### SEC Filing Activity
@@ -328,7 +328,7 @@ The class contradiction: the fortune funding West Bank maximalism is generated b
 - 2019-02-13 — **SC 13D/A**: AMENDMENT NO. 7
 - 2011-11-18 — **EX-99.2**: EXHIBIT 99.2
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Miriam%20Adelson%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Miriam%20Adelson%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Lobbying Activity
@@ -347,7 +347,7 @@ The class contradiction: the fortune funding West Bank maximalism is generated b
 
 **Agencies contacted:** Education, Dept of, HOUSE OF REPRESENTATIVES, SENATE
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Miriam%20Adelson) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Miriam%20Adelson) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

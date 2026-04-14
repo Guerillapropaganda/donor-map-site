@@ -95,8 +95,8 @@ Sheldon Adelson exemplifies the mega-donor as foreign policy architect: he used 
 
 ### Sources
 
-- [ProPublica: Inside the Investigation of Leading Republican Money Man Sheldon Adelson](https://www.propublica.org/article/inside-the-investigation-of-leading-republican-money-man-sheldon-adelson) (Tier 2)
-- [FEC Receipts: Sheldon & Miriam Adelson Political Giving](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=sheldon%20adelson) (Tier 1)
+- [ProPublica: Inside the Investigation of Leading Republican Money Man Sheldon Adelson](https://www.propublica.org/article/inside-the-investigation-of-leading-republican-money-man-sheldon-adelson) (Tier 2) (VERIFIED)
+- [FEC Receipts: Sheldon & Miriam Adelson Political Giving](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=sheldon%20adelson) (Tier 1) (VERIFIED)
 
 ---
 
@@ -140,7 +140,7 @@ Sheldon Adelson exemplifies the mega-donor as foreign policy architect: he used 
 |------------------|--------|--------|
 | Unknown | $1009778941.6B | 50 |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Las%20Vegas%20Sands) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Las%20Vegas%20Sands) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Federal Contracts
@@ -164,14 +164,14 @@ Sheldon Adelson exemplifies the mega-donor as foreign policy architect: he used 
 | $38 | DEPT OF DEFENSE | 2022-10-26 |
 | $32 | DEPT OF DEFENSE | 2023-04-13 |
 
-- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Las%20Vegas%20Sands&page=1&index=opp) (Tier 1)
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Las%20Vegas%20Sands&page=1&index=opp) (Tier 1) (VERIFIED)
 <!-- auto:sam-contracts end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [549300DUOO1KXOHPM605](https://search.gleif.org/#/record/549300DUOO1KXOHPM605) |
+| LEI | [549300DUOO1KXOHPM605](https://search.gleif.org/#/record/549300DUOO1KXOHPM605) (VERIFIED) |
 | Legal Name | LAS VEGAS SANDS CORP. |
 | Jurisdiction | US-NV |
 | Entity Status | ACTIVE |
@@ -179,7 +179,7 @@ Sheldon Adelson exemplifies the mega-donor as foreign policy architect: he used 
 | Registration | ISSUED |
 | Last Updated | 2025-08-29T16:42:27Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### SEC Filing Activity
@@ -193,13 +193,13 @@ Sheldon Adelson exemplifies the mega-donor as foreign policy architect: he used 
 
 **Notable filings:**
 
-- 2026-04-01 — **ARS**: [ARS](https://www.sec.gov/Archives/edgar/data/1300514/000130051426000035/0001300514-26-000035-index.htm)
-- 2026-04-01 — **DEFA14A**: [DEFA14A](https://www.sec.gov/Archives/edgar/data/1300514/000130051426000033/0001300514-26-000033-index.htm)
-- 2026-04-01 — **DEF 14A**: [DEF 14A](https://www.sec.gov/Archives/edgar/data/1300514/000130051426000031/0001300514-26-000031-index.htm)
-- 2026-03-27 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/1300514/000010290926001662/0000102909-26-001662-index.htm)
-- 2026-03-19 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1300514/000166799826000008/0001667998-26-000008-index.htm)
+- 2026-04-01 — **ARS**: [ARS](https://www.sec.gov/Archives/edgar/data/1300514/000130051426000035/0001300514-26-000035-index.htm) (VERIFIED)
+- 2026-04-01 — **DEFA14A**: [DEFA14A](https://www.sec.gov/Archives/edgar/data/1300514/000130051426000033/0001300514-26-000033-index.htm) (VERIFIED)
+- 2026-04-01 — **DEF 14A**: [DEF 14A](https://www.sec.gov/Archives/edgar/data/1300514/000130051426000031/0001300514-26-000031-index.htm) (VERIFIED)
+- 2026-03-27 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/1300514/000010290926001662/0000102909-26-001662-index.htm) (VERIFIED)
+- 2026-03-19 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1300514/000166799826000008/0001667998-26-000008-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Las%20Vegas%20Sands%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Las%20Vegas%20Sands%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Federal Court Records (CourtListener)
@@ -218,7 +218,7 @@ Sheldon Adelson exemplifies the mega-donor as foreign policy architect: he used 
 - Riskon International, Inc. v. Zest Labs Holdings, LLC (2025) — District Court, D. Nevada
 - CLEAR Clinic v. Noem (2025) — District Court, D. Oregon
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Las%20Vegas%20Sands%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Las%20Vegas%20Sands%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Register Activity
@@ -230,15 +230,15 @@ Sheldon Adelson exemplifies the mega-donor as foreign policy architect: he used 
 | Agencies | Securities and Exchange Commission |
 
 **Recent regulatory activity:**
-- [Self-Regulatory Organizations; NASDAQ OMX PHLX LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change Relating to Fees and Rebates for Adding and Removing Liquidity in Select Symbols](https://www.federalregister.gov/documents/2012/03/06/2012-5328/self-regulatory-organizations-nasdaq-omx-phlx-llc-notice-of-filing-and-immediate-effectiveness-of) (2012-03-06) — Securities and Exchange Commission
-- [Self-Regulatory Organizations; Notice of Filing and Immediate Effectiveness of Proposed Rule Change by NASDAQ OMX PHLX LLC Relating to Listing and Trading Various Russell Products](https://www.federalregister.gov/documents/2011/07/06/2011-16843/self-regulatory-organizations-notice-of-filing-and-immediate-effectiveness-of-proposed-rule-change) (2011-07-06) — Securities and Exchange Commission
-- [Self-Regulatory Organizations; International Securities Exchange, LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change Relating to Fees and Rebates for Adding and Removing Liquidity](https://www.federalregister.gov/documents/2010/09/08/2010-22290/self-regulatory-organizations-international-securities-exchange-llc-notice-of-filing-and-immediate) (2010-09-08) — Securities and Exchange Commission
-- [Self-Regulatory Organizations; International Securities Exchange, LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change Relating to Fees and Rebates for Adding and Removing Liquidity](https://www.federalregister.gov/documents/2010/08/16/2010-20147/self-regulatory-organizations-international-securities-exchange-llc-notice-of-filing-and-immediate) (2010-08-16) — Securities and Exchange Commission
-- [Self-Regulatory Organizations; International Securities Exchange, LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change Relating to Fees and Rebates for Adding and Removing Liquidity](https://www.federalregister.gov/documents/2010/07/22/2010-17929/self-regulatory-organizations-international-securities-exchange-llc-notice-of-filing-and-immediate) (2010-07-22) — Securities and Exchange Commission
-- [Self-Regulatory Organizations; The NASDAQ Stock Market LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change Relating to Pricing for Option Orders Routed to Away Markets](https://www.federalregister.gov/documents/2010/04/09/2010-8153/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-and-immediate) (2010-04-09) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; NASDAQ OMX PHLX LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change Relating to Fees and Rebates for Adding and Removing Liquidity in Select Symbols](https://www.federalregister.gov/documents/2012/03/06/2012-5328/self-regulatory-organizations-nasdaq-omx-phlx-llc-notice-of-filing-and-immediate-effectiveness-of) (VERIFIED) (2012-03-06) — Securities and Exchange Commission
+- ~~[Self-Regulatory Organizations; Notice of Filing and Immediate Effectiveness of Proposed Rule Change by NASDAQ OMX PHLX LLC Relating to Listing and Trading Various Russell Products](https://www.federalregister.gov/documents/2011/07/06/2011-16843/self-regulatory-organizations-notice-of-filing-and-immediate-effectiveness-of-proposed-rule-change)~~ (URL broken, archived by Ops) (2011-07-06) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; International Securities Exchange, LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change Relating to Fees and Rebates for Adding and Removing Liquidity](https://www.federalregister.gov/documents/2010/09/08/2010-22290/self-regulatory-organizations-international-securities-exchange-llc-notice-of-filing-and-immediate) (VERIFIED) (2010-09-08) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; International Securities Exchange, LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change Relating to Fees and Rebates for Adding and Removing Liquidity](https://www.federalregister.gov/documents/2010/08/16/2010-20147/self-regulatory-organizations-international-securities-exchange-llc-notice-of-filing-and-immediate) (VERIFIED) (2010-08-16) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; International Securities Exchange, LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change Relating to Fees and Rebates for Adding and Removing Liquidity](https://www.federalregister.gov/documents/2010/07/22/2010-17929/self-regulatory-organizations-international-securities-exchange-llc-notice-of-filing-and-immediate) (VERIFIED) (2010-07-22) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; The NASDAQ Stock Market LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change Relating to Pricing for Option Orders Routed to Away Markets](https://www.federalregister.gov/documents/2010/04/09/2010-8153/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-and-immediate) (VERIFIED) (2010-04-09) — Securities and Exchange Commission
 - ... and 8 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Las%20Vegas%20Sands%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Las%20Vegas%20Sands%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Vehicle Safety (NHTSA)
@@ -256,5 +256,5 @@ Sheldon Adelson exemplifies the mega-donor as foreign policy architect: he used 
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Las%20Vegas%20Sands) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Las%20Vegas%20Sands) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->

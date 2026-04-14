@@ -14,7 +14,7 @@ profiles:
 
 ## Tillis sets Jan. 6 red line on attorney general nominee
 
-**Source:** [The Hill](https://thehill.com/homenews/senate/5815671-tillis-jan6-riot-nominee/)
+**Source:** ~~[The Hill](https://thehill.com/homenews/senate/5815671-tillis-jan6-riot-nominee/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-03
 
 Sen. Thom Tillis (R-N.C.) said Thursday he will not support any nominee for attorney general if the candidate makes excuses for the Jan. 6 Capitol riot. President Trump dismissed Pam Bondi from the attorney general post before Tillis&#8217;s comments, which is expected to set up a confirmation battle on her successor later this year. “For&#8230;

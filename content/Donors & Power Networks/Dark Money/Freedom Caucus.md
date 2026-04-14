@@ -142,15 +142,15 @@ The counter-funding dynamic — where Chamber of Commerce, AIPAC, and Main Stree
 
 ### Sources
 
-- [OpenSecrets: House Freedom Fund profile](https://www.opensecrets.org/orgs/house-freedom-fund/summary?id=D000068902) (Tier 1)
-- [OpenSecrets: House Freedom Fund PAC profile, 2024 cycle](https://www.opensecrets.org/political-action-committees-pacs/house-freedom-fund/C00552851/summary/2024) (Tier 1)
-- [FEC: Freedom Caucus Fund committee overview (C00552851)](https://www.fec.gov/data/committee/C00552851/) (Tier 1)
-- [Ballotpedia: House Freedom Caucus](https://ballotpedia.org/House_Freedom_Caucus) (Tier 3)
-- [Wikipedia: Freedom Caucus](https://en.wikipedia.org/wiki/Freedom_Caucus) (Tier 3)
-- [NBC News: Hard-right Freedom Caucus could be gutted as key members run for new jobs in 2026](https://www.nbcnews.com/politics/congress/hard-right-freedom-caucus-gutted-key-members-run-new-jobs-2026-rcna227209) (Tier 2)
-- [NBC News: GOP megadonors finance major campaign against potential House rabble-rousers](https://www.nbcnews.com/politics/2024-election/gop-megadonors-house-freedom-caucus-primaries-rcna140792) (Tier 2)
-- [Axios: Wave of exits testing House Freedom Caucus' staying power](https://www.axios.com/2025/09/01/house-freedom-caucus-losing-clout-influence) (Tier 2)
-- [The Hill: Freedom Caucus urges top funding negotiators to lock in DOGE cuts](https://thehill.com/business/budget/5331509-house-freedom-caucus-demands-budget-cuts/) (Tier 2)
+- [OpenSecrets: House Freedom Fund profile](https://www.opensecrets.org/orgs/house-freedom-fund/summary?id=D000068902) (Tier 1) (VERIFIED)
+- [OpenSecrets: House Freedom Fund PAC profile, 2024 cycle](https://www.opensecrets.org/political-action-committees-pacs/house-freedom-fund/C00552851/summary/2024) (Tier 1) (VERIFIED)
+- [FEC: Freedom Caucus Fund committee overview (C00552851)](https://www.fec.gov/data/committee/C00552851/) (Tier 1) (VERIFIED)
+- [Ballotpedia: House Freedom Caucus](https://ballotpedia.org/House_Freedom_Caucus) (Tier 3) (VERIFIED)
+- [Wikipedia: Freedom Caucus](https://en.wikipedia.org/wiki/Freedom_Caucus) (Tier 3) (VERIFIED)
+- [NBC News: Hard-right Freedom Caucus could be gutted as key members run for new jobs in 2026](https://www.nbcnews.com/politics/congress/hard-right-freedom-caucus-gutted-key-members-run-new-jobs-2026-rcna227209) (Tier 2) (VERIFIED)
+- [NBC News: GOP megadonors finance major campaign against potential House rabble-rousers](https://www.nbcnews.com/politics/2024-election/gop-megadonors-house-freedom-caucus-primaries-rcna140792) (Tier 2) (VERIFIED)
+- [Axios: Wave of exits testing House Freedom Caucus' staying power](https://www.axios.com/2025/09/01/house-freedom-caucus-losing-clout-influence) (Tier 2) (VERIFIED)
+- ~~[The Hill: Freedom Caucus urges top funding negotiators to lock in DOGE cuts](https://thehill.com/business/budget/5331509-house-freedom-caucus-demands-budget-cuts/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->
@@ -164,7 +164,7 @@ The counter-funding dynamic — where Chamber of Commerce, AIPAC, and Main Stree
 | IRS Ruling Date | 2025-03-01 |
 | Filings on Record | 0 |
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/994082114) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/994082114) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Lobbying Activity
@@ -183,7 +183,7 @@ The counter-funding dynamic — where Chamber of Commerce, AIPAC, and Main Stree
 
 **Agencies contacted:** Administration for Children & Families (ACF), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Consumer Product Safety Commission (CPSC), Defense Logistics Agency, Education, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP), Federal Maritime Commission, HOUSE OF REPRESENTATIVES +13 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=House%20Freedom%20Caucus) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=House%20Freedom%20Caucus) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)
@@ -215,12 +215,12 @@ The Freedom Caucus, also known as the House Freedom Caucus, is a congressional c
 
 | Fact | Value |
 |------|-------|
-| Wikidata ID | [Q19881038](https://www.wikidata.org/wiki/Q19881038) |
+| Wikidata ID | [Q19881038](https://www.wikidata.org/wiki/Q19881038) (VERIFIED) |
 | Description | American congressional caucus |
 | Founded | 2015-01-26 |
-| X/Twitter | [@freedomcaucus](https://x.com/freedomcaucus) |
-| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/House_Freedom_Caucus_Membership.png?width=300) |
+| X/Twitter | [@freedomcaucus](https://x.com/freedomcaucus) (VERIFIED) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/House_Freedom_Caucus_Membership.png?width=300) (NEEDS REVIEW) |
 
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/Freedom_Caucus) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q19881038) (Tier 2)
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Freedom_Caucus) (Tier 3) (VERIFIED)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q19881038) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->

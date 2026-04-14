@@ -32,7 +32,7 @@ The 2026 primaries are where the vault's donor-policy analysis becomes predictiv
 
 ### Sources
 
-- [FEC: 2026 Senate candidate filings](https://www.fec.gov/data/candidates/?search=2026%20Senate%20Primary%20Races) (Tier 1)
-- [Cook Political Report: 2026 Senate ratings](https://www.cookpolitical.com/?q=2026%20Senate%20Primary%20Races) (Tier 3)
-- [Ballotpedia: 2026 Senate elections](https://ballotpedia.org/2026_Senate_Primary_Races) (Tier 3)
+- [FEC: 2026 Senate candidate filings](https://www.fec.gov/data/candidates/?search=2026%20Senate%20Primary%20Races) (Tier 1) (VERIFIED)
+- [Cook Political Report: 2026 Senate ratings](https://www.cookpolitical.com/?q=2026%20Senate%20Primary%20Races) (Tier 3) (VERIFIED)
+- [Ballotpedia: 2026 Senate elections](https://ballotpedia.org/2026_Senate_Primary_Races) (Tier 3) (VERIFIED)
 

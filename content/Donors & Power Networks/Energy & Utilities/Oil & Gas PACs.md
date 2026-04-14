@@ -49,8 +49,8 @@ Oil and gas PACs are targeted with precision: the largest contributions go to me
 
 ### Sources
 
-- [FEC Receipts: Oil and gas industry PAC contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- [Ballotpedia: Oil and gas political spending](https://ballotpedia.org/Oil_&_Gas_PACs) (Tier 3)
+- [FEC Receipts: Oil and gas industry PAC contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
+- [Ballotpedia: Oil and gas political spending](https://ballotpedia.org/Oil_&_Gas_PACs) (Tier 3) (VERIFIED)
 
 ### OFAC Sanctions Screening
 <!-- auto:ofac-sdn start -->
@@ -74,7 +74,7 @@ Oil and gas PACs are targeted with precision: the largest contributions go to me
 - PARSIAN OIL AND GAS DEVELOPMENT (-0-) [IRAN]
   - Remarks: Additional Sanctions Information - Subject to Secondary Sanctions; Linked To: GHADIR INVESTMENT COMPANY.
 
-- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
 ### Federal Court Records (CourtListener)
@@ -88,5 +88,5 @@ Oil and gas PACs are targeted with precision: the largest contributions go to me
 **Notable cases:**
 - FINANCIAL OVERSIGHT AND MANAGEMENT BOARD FOR PUERT v. Pierluisi Urrutia (2024) — United States Bankruptcy Court, D. Puerto Rico
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Oil%20%26%20Gas%20PACs%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Oil%20%26%20Gas%20PACs%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->

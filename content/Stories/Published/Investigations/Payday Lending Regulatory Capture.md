@@ -44,7 +44,7 @@ This is regulatory capture at its clearest: donations → deregulation → billi
 - Rep. Al Green (D-TX): $156,000 (lifetime)
 - Rep. Bill Posey (R-FL): $134,000 (lifetime)
 
-[Tier 1 - OpenSecrets](https://www.fec.gov/data/receipts/?data_type=processed)
+[Tier 1 - OpenSecrets](https://www.fec.gov/data/receipts/?data_type=processed) (VERIFIED)
 
 ### The Regulatory Gutting: CFPB Enforcement (March 2025)
 
@@ -65,7 +65,7 @@ In March 2025, the Trump administration ordered the CFPB to cease prioritizing p
 
 This is transparent regulatory rollback. The CFPB created the enforcement capacity because states had failed to regulate payday lending for 20 years. Now the federal government is claiming states will handle it, knowing full well they won't.
 
-[Tier 1 - CFPB Statement](https://www.consumerfinance.gov/complaint/?q=Payday%20Lending%20Regulatory%20Capture) [Tier 2 - ProPublica Coverage](https://propublica.org/cfpb-payday-lending) *(source unavailable)*
+[Tier 1 - CFPB Statement](https://www.consumerfinance.gov/complaint/?q=Payday%20Lending%20Regulatory%20Capture) (VERIFIED) ~~[Tier 2 - ProPublica Coverage](https://propublica.org/cfpb-payday-lending)~~ (URL broken, archived by Ops) *(source unavailable)*
 
 ### The Money Map: Donation-to-Regulation Timeline
 
@@ -103,9 +103,9 @@ This is predatory lending targeting the poor. The regulatory capture ensures it 
 
 ### Sources
 
-- [FEC Receipts: Payday Lending Industry Donations](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- [ProPublica: CFPB Payday Lending Enforcement Rollback](https://www.propublica.org/article/consumer-financial-protection-bureau-drops-investigation-of-high-cost-lender) (Tier 2)
-- [OpenSecrets: Members of Congress overseeing payday lending have taken over $3.4 million from the industry](https://www.opensecrets.org/news/2022/02/members-of-congress-overseeing-payday-lending-have-taken-over-3-4-million-from-the-industry/) (Tier 1)
-- [CFPB Public Database: Payday Lending Enforcement Actions](https://www.consumerfinance.gov/data/) (Tier 1)
-- [Consumer Finance Protection Bureau: Payday Lending Report 2024](https://www.consumerfinance.gov/data-research/) (Tier 1)
+- [FEC Receipts: Payday Lending Industry Donations](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
+- [ProPublica: CFPB Payday Lending Enforcement Rollback](https://www.propublica.org/article/consumer-financial-protection-bureau-drops-investigation-of-high-cost-lender) (Tier 2) (VERIFIED)
+- [OpenSecrets: Members of Congress overseeing payday lending have taken over $3.4 million from the industry](https://www.opensecrets.org/news/2022/02/members-of-congress-overseeing-payday-lending-have-taken-over-3-4-million-from-the-industry/) (Tier 1) (VERIFIED)
+- [CFPB Public Database: Payday Lending Enforcement Actions](https://www.consumerfinance.gov/data/) (Tier 1) (VERIFIED)
+- [Consumer Finance Protection Bureau: Payday Lending Report 2024](https://www.consumerfinance.gov/data-research/) (Tier 1) (VERIFIED)
 

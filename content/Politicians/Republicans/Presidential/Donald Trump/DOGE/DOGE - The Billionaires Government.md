@@ -143,17 +143,17 @@ DOGE was positioned as a temporary (9-month) audit and efficiency review. In pra
 ### Sources
 
 ### Tier 1 (Primary Government Data):
-- [Government Accountability Office: Indian Affairs Information on 2025 Workforce Reductions](https://www.gao.gov/assets/gao-26-108673.pdf) (Tier 1)
-- [Federal News Network: How staffing cuts in 2025 transformed the federal workforce](https://federalnewsnetwork.com/workforce/2026/01/how-staffing-cuts-in-2025-transformed-the-federal-workforce/) (Tier 1)
-- [Challenger, Gray & Christmas Job Cuts Report: Federal Cuts Dominate March 2025](https://www.challengergray.com/blog/federal-cuts-dominate-march-2025-total-275240-announced-job-cuts-216670-from-doge-actions/) (Tier 1)
-- [OpenSecrets: Elon Musk tops list of 2024 political donors](https://www.opensecrets.org/news/2025/03/elon-musk-tops-list-of-2024-political-donors-but-six-others-gave-more-than-100-million) (Tier 1)
-- [Office of Personnel Management: DOGE Workforce Data and Impact](https://www.war.gov/Portals/1/Spotlight/2025/Guidance_For_Federal_Policies/Implementing_DOGE_Workforce_Optimization/Implementing_DOGE_Workforce_Optimization_OPM_Guidance.pdf) (Tier 1)
+- [Government Accountability Office: Indian Affairs Information on 2025 Workforce Reductions](https://www.gao.gov/assets/gao-26-108673.pdf) (Tier 1) (VERIFIED)
+- [Federal News Network: How staffing cuts in 2025 transformed the federal workforce](https://federalnewsnetwork.com/workforce/2026/01/how-staffing-cuts-in-2025-transformed-the-federal-workforce/) (Tier 1) (VERIFIED)
+- [Challenger, Gray & Christmas Job Cuts Report: Federal Cuts Dominate March 2025](https://www.challengergray.com/blog/federal-cuts-dominate-march-2025-total-275240-announced-job-cuts-216670-from-doge-actions/) (Tier 1) (VERIFIED)
+- [OpenSecrets: Elon Musk tops list of 2024 political donors](https://www.opensecrets.org/news/2025/03/elon-musk-tops-list-of-2024-political-donors-but-six-others-gave-more-than-100-million) (Tier 1) (VERIFIED)
+- [Office of Personnel Management: DOGE Workforce Data and Impact](https://www.war.gov/Portals/1/Spotlight/2025/Guidance_For_Federal_Policies/Implementing_DOGE_Workforce_Optimization/Implementing_DOGE_Workforce_Optimization_OPM_Guidance.pdf) (Tier 1) (VERIFIED)
 
 ### Tier 2 (Major Journalism):
-- [PBS NewsHour: DOGE disassembled but the principles remain alive](https://www.pbs.org/newshour/show/doge-disassembled-but-the-principles-remain-alive-trump-administration-says) (Tier 2)
-- [Fox Business: How much have Musk's companies benefited from government funds](https://www.foxbusiness.com/politics/how-much-have-musks-tesla-spacex-benefited-from-government-funds) (Tier 2)
-- [Washington Post: DOGE agents removed from sensitive OPM systems after security fears](https://www.washingtonpost.com/nation/2025/02/08/doge-opm-musk/) (Tier 2)
-- [TIME: Why Musk's DOGE Began its Government Shake-Up at OPM](https://time.com/7213990/elon-musk-doge-opm/) (Tier 2)
+- [PBS NewsHour: DOGE disassembled but the principles remain alive](https://www.pbs.org/newshour/show/doge-disassembled-but-the-principles-remain-alive-trump-administration-says) (Tier 2) (VERIFIED)
+- [Fox Business: How much have Musk's companies benefited from government funds](https://www.foxbusiness.com/politics/how-much-have-musks-tesla-spacex-benefited-from-government-funds) (Tier 2) (VERIFIED)
+- [Washington Post: DOGE agents removed from sensitive OPM systems after security fears](https://www.washingtonpost.com/nation/2025/02/08/doge-opm-musk/) (Tier 2) (VERIFIED)
+- [TIME: Why Musk's DOGE Began its Government Shake-Up at OPM](https://time.com/7213990/elon-musk-doge-opm/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -167,11 +167,11 @@ DOGE was positioned as a temporary (9-month) audit and efficiency review. In pra
 
 **Legal:** A federal appeals court (4th Circuit, 2-1) blocked Musk's deposition in the USAID shutdown lawsuit. Bloomberg, March 4, 2026.
 
-- [PBS News: Musk says DOGE was "only somewhat successful"](https://www.pbs.org/newshour/politics/elon-musk-says-doge-was-only-somewhat-successful-and-he-wouldnt-do-it-again) (Tier 2)
-- [Fortune: Ex-DOGE staffer admits failure to lower deficit](https://fortune.com/2026/03/16/doge-employee-deposition-lawsuit-federal-deficit-elon-musk-spending/) (Tier 2)
-- [Fortune: DOGE cancelled HVAC grant after ChatGPT flagged it](https://fortune.com/2026/03/19/doge-cancelled-350000-hvac-grant-dei-lawsuit-elon-musk/) (Tier 2)
-- [Bloomberg: Musk deposition blocked](https://www.bloomberg.com/news/articles/2026-03-04/elon-musk-deposition-blocked-by-appeals-court-in-doge-fight) (Tier 2)
-- [CNN: DOGE cuts hamper US war readiness](https://www.cnn.com/2026/03/10/politics/doge-government-spending-cuts-iran-war) (Tier 2)
+- [PBS News: Musk says DOGE was "only somewhat successful"](https://www.pbs.org/newshour/politics/elon-musk-says-doge-was-only-somewhat-successful-and-he-wouldnt-do-it-again) (Tier 2) (VERIFIED)
+- [Fortune: Ex-DOGE staffer admits failure to lower deficit](https://fortune.com/2026/03/16/doge-employee-deposition-lawsuit-federal-deficit-elon-musk-spending/) (Tier 2) (VERIFIED)
+- [Fortune: DOGE cancelled HVAC grant after ChatGPT flagged it](https://fortune.com/2026/03/19/doge-cancelled-350000-hvac-grant-dei-lawsuit-elon-musk/) (Tier 2) (VERIFIED)
+- ~~[Bloomberg: Musk deposition blocked](https://www.bloomberg.com/news/articles/2026-03-04/elon-musk-deposition-blocked-by-appeals-court-in-doge-fight)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [CNN: DOGE cuts hamper US war readiness](https://www.cnn.com/2026/03/10/politics/doge-government-spending-cuts-iran-war) (Tier 2) (VERIFIED)
 
 ### Voting Record
 

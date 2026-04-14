@@ -62,7 +62,7 @@ Humana Inc. A major health insurance company ($106 billion revenue, 2024) headqu
 
 Humana PAC contributes $1-1.5 million per cycle with $5-7 million in annual lobbying. The company's political operation is laser-focused on a single policy area: protecting and expanding Medicare Advantage reimbursement rates and enrollment.
 
-- [OpenSecrets: Humana organizational profile](https://www.opensecrets.org/orgs/humana-inc/summary?id=D000000652) (Tier 1)
+- [OpenSecrets: Humana organizational profile](https://www.opensecrets.org/orgs/humana-inc/summary?id=D000000652) (Tier 1) (VERIFIED)
 
 ---
 
@@ -86,9 +86,9 @@ Medicare Advantage expansion and favorable reimbursement: Humana's entire busine
 ### Sources
 
 - [OpenSecrets: Humana organizational profile](https://www.opensecrets.org/orgs/humana-inc/summary?id=D000000652) (Tier 1)
-- [CMS: Medicare Advantage payment data](https://www.cms.gov/medicare/payment/medicare-advantage-rates-statistics) (Tier 1)
-- [STAT News: Medicare Advantage upcoding and overpayment](https://www.statnews.com/medicare-advantage-upcoding/) *(source unavailable)* (Tier 2)
-- [Ballotpedia: Humana political spending](https://ballotpedia.org/Humana) (Tier 3)
+- [CMS: Medicare Advantage payment data](https://www.cms.gov/medicare/payment/medicare-advantage-rates-statistics) (Tier 1) (VERIFIED)
+- ~~[STAT News: Medicare Advantage upcoding and overpayment](https://www.statnews.com/medicare-advantage-upcoding/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+- [Ballotpedia: Humana political spending](https://ballotpedia.org/Humana) (Tier 3) (VERIFIED)
 
 ---
 
@@ -113,8 +113,8 @@ Medicare Advantage expansion and favorable reimbursement: Humana's entire busine
 | Total Expenses | $8K |
 | Net Assets | $26K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 800487553](https://projects.propublica.org/nonprofits/organizations/800487553) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=08_2020_prefixes_74-81%2F800487553_201912_990EZ_2020083117270894.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 800487553](https://projects.propublica.org/nonprofits/organizations/800487553) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=08_2020_prefixes_74-81%2F800487553_201912_990EZ_2020083117270894.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Lobbying Activity
@@ -133,7 +133,7 @@ Medicare Advantage expansion and favorable reimbursement: Humana's entire busine
 
 **Agencies contacted:** Centers For Medicare and Medicaid Services (CMS), Defense, Dept of (DOD), Food & Drug Administration (FDA), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Office of Management & Budget (OMB), SENATE, Treasury, Dept of, Veterans Affairs, Dept of (VA), White House Office
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Humana) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Humana) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Federal Court Records (CourtListener)
@@ -152,7 +152,7 @@ Medicare Advantage expansion and favorable reimbursement: Humana's entire busine
 - Evolution Well Services Operating, LLC et, al v. Hill (2026) — District Court, S.D. Texas
 - Childers v. Humana, Inc. (2026) — District Court, W.D. Kentucky
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Humana%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Humana%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Spending (USASpending)
@@ -182,7 +182,7 @@ Medicare Advantage expansion and favorable reimbursement: Humana's entire busine
 | $4.5M | Department of Health and Human Services | TOTAL CONTROL OF THE EPIDEMIC TCE KINSHASA - LOCAL CONGOLESE NGO HUMANA PEOPLE TO PEOPLE CONGO (HPP- |
 | $474K | Inter-American Foundation | FOR FARMING COMMUNITIES IN THE SOUTHERN REGION OF THE FRANCISCO MORAZÁN DEPARTMENT, REPEATED DROUGHT |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/1068e466-707d-6b6f-367f-0255fab79b8c-C/latest) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/1068e466-707d-6b6f-367f-0255fab79b8c-C/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -213,7 +213,7 @@ Medicare Advantage expansion and favorable reimbursement: Humana's entire busine
 | All Other Outpatient Care Centers (621498) | $317.1M |
 | Office Administrative Services (561110) | $8.7M |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### DOJ Press Releases
@@ -230,15 +230,15 @@ Medicare Advantage expansion and favorable reimbursement: Humana's entire busine
 | Agencies | Antitrust Division, Centers for Medicare & Medicaid Services, Defense Department, Employee Benefits Security Administration, Executive Office for Immigration Review, Federal Election Commission, Federal Emergency Management Agency, Federal Trade Commission +7 more |
 
 **Recent regulatory activity:**
-- [United States, et al. v. UnitedHealth Group Incorporated, et al.; Proposed Final Judgment and Competitive Impact Statement](https://www.federalregister.gov/documents/2025/08/14/2025-15486/united-states-et-al-v-unitedhealth-group-incorporated-et-al-proposed-final-judgment-and-competitive) (2025-08-14) — Justice Department
-- [Hematology and Pathology Devices; Reclassification of In Situ Hybridization Test Systems for Use With a Corresponding Approved Oncology Therapeutic Product](https://www.federalregister.gov/documents/2025/06/11/2025-10549/hematology-and-pathology-devices-reclassification-of-in-situ-hybridization-test-systems-for-use-with) (2025-06-11) — Health and Human Services Department
-- [TRICARE: TRICARE Competitive Plans Demonstration (CPD)](https://www.federalregister.gov/documents/2025/04/28/2025-07258/tricare-tricare-competitive-plans-demonstration-cpd) (2025-04-28) — Defense Department
-- [Micro-Captive Listed Transactions and Micro-Captive Transactions of Interest](https://www.federalregister.gov/documents/2025/01/14/2025-00393/micro-captive-listed-transactions-and-micro-captive-transactions-of-interest) (2025-01-14) — Treasury Department
-- [TRICARE: Notice of TRICARE Plan Program Changes for Calendar Year 2025](https://www.federalregister.gov/documents/2024/11/08/2024-26066/tricare-notice-of-tricare-plan-program-changes-for-calendar-year-2025) (2024-11-08) — Defense Department
-- [National Flood Insurance Program Installment Payment Plan](https://www.federalregister.gov/documents/2024/11/01/2024-25213/national-flood-insurance-program-installment-payment-plan) (2024-11-01) — Homeland Security Department
+- [United States, et al. v. UnitedHealth Group Incorporated, et al.; Proposed Final Judgment and Competitive Impact Statement](https://www.federalregister.gov/documents/2025/08/14/2025-15486/united-states-et-al-v-unitedhealth-group-incorporated-et-al-proposed-final-judgment-and-competitive) (VERIFIED) (2025-08-14) — Justice Department
+- [Hematology and Pathology Devices; Reclassification of In Situ Hybridization Test Systems for Use With a Corresponding Approved Oncology Therapeutic Product](https://www.federalregister.gov/documents/2025/06/11/2025-10549/hematology-and-pathology-devices-reclassification-of-in-situ-hybridization-test-systems-for-use-with) (VERIFIED) (2025-06-11) — Health and Human Services Department
+- [TRICARE: TRICARE Competitive Plans Demonstration (CPD)](https://www.federalregister.gov/documents/2025/04/28/2025-07258/tricare-tricare-competitive-plans-demonstration-cpd) (VERIFIED) (2025-04-28) — Defense Department
+- [Micro-Captive Listed Transactions and Micro-Captive Transactions of Interest](https://www.federalregister.gov/documents/2025/01/14/2025-00393/micro-captive-listed-transactions-and-micro-captive-transactions-of-interest) (VERIFIED) (2025-01-14) — Treasury Department
+- [TRICARE: Notice of TRICARE Plan Program Changes for Calendar Year 2025](https://www.federalregister.gov/documents/2024/11/08/2024-26066/tricare-notice-of-tricare-plan-program-changes-for-calendar-year-2025) (VERIFIED) (2024-11-08) — Defense Department
+- [National Flood Insurance Program Installment Payment Plan](https://www.federalregister.gov/documents/2024/11/01/2024-25213/national-flood-insurance-program-installment-payment-plan) (VERIFIED) (2024-11-01) — Homeland Security Department
 - ... and 137 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Humana%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Humana%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### FTC Enforcement & Merger Review
@@ -250,13 +250,13 @@ Medicare Advantage expansion and favorable reimbursement: Humana's entire busine
 
 **Recent HSR merger filings (early terminations granted):**
 
-- [Humana Inc. → Rajendra K. Bansal](https://www.ftc.gov/legal-library/browse/early-termination-notices/20210701) (2021-01-04)
-- [Humana Inc. → Consonance Private Equity, L.P.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20200440) (2020-01-02)
-- [Select Medical Corporation → Humana Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20150798) (2015-05-19)
-- [Humana Inc. → Robert G. Schemel](https://www.ftc.gov/legal-library/browse/early-termination-notices/20131186) (2013-08-23)
-- [Humana Inc. → Metropolitan Health Networks, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20130181) (2012-11-28)
+- [Humana Inc. → Rajendra K. Bansal](https://www.ftc.gov/legal-library/browse/early-termination-notices/20210701) (VERIFIED) (2021-01-04)
+- [Humana Inc. → Consonance Private Equity, L.P.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20200440) (VERIFIED) (2020-01-02)
+- [Select Medical Corporation → Humana Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20150798) (VERIFIED) (2015-05-19)
+- [Humana Inc. → Robert G. Schemel](https://www.ftc.gov/legal-library/browse/early-termination-notices/20131186) (VERIFIED) (2013-08-23)
+- [Humana Inc. → Metropolitan Health Networks, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20130181) (VERIFIED) (2012-11-28)
 
-> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Humana).
+> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Humana) (VERIFIED).
 
-- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Humana) (Tier 1)
+- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Humana) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->

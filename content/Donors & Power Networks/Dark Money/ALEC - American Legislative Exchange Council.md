@@ -52,7 +52,7 @@ ALEC is organized into 9 policy task forces where corporations and state legisla
 8. Telecommunications & Information Technology
 9. Public Safety & Elections (reformed post-2012 after Stand Your Ground backlash)
 
-Corporate members sit directly alongside state legislators on these task forces — both vote on bills before they are approved. This corporate veto power is by design: per [NPR Fresh Air (2011)](https://www.npr.org/transcripts/138537515), "ALEC's task forces require both private-sector and legislative members to agree on any model bill before it becomes official ALEC policy — giving corporations an effective veto." A corporation can block any model bill it opposes.
+Corporate members sit directly alongside state legislators on these task forces — both vote on bills before they are approved. This corporate veto power is by design: per [NPR Fresh Air (2011)](https://www.npr.org/transcripts/138537515) (VERIFIED), "ALEC's task forces require both private-sector and legislative members to agree on any model bill before it becomes official ALEC policy — giving corporations an effective veto." A corporation can block any model bill it opposes.
 
 Task force seats cost $2,500–$10,000/year depending on priority. The Commerce task force (highest priority) commands $10,000. Lower-priority task forces cost $2,500–$5,000. Corporate members also hold seats on ALEC's Private Enterprise Advisory Council, reserved exclusively for Fortune 500 companies and major trade associations — historically including Koch Industries, ExxonMobil, Pfizer, AT&T, State Farm, and SAP.
 
@@ -83,10 +83,10 @@ Task force seats cost $2,500–$10,000/year depending on priority. The Commerce 
 
 > **Historical milestone:** In 1994, ALEC awarded Charles and David Koch the "Adam Smith Free Enterprise Award." Mike Morgan of Koch Industries has held a permanent seat on ALEC's corporate board/Private Enterprise Advisory Council for over 25 years (since early 1990s).
 
-- [ProPublica Nonprofit Explorer: ALEC Form 990 filings](https://projects.propublica.org/nonprofits/organizations/520140979) (Tier 1)
-- [Center for Media and Democracy: ALEC's Funding Revealed (July 2023)](https://www.exposedbycmd.org/2023/07/25/alecs-funding-revealed/) (Tier 2)
-- [Center for Public Integrity: Koch Brothers Pour More Cash into Think Tanks](https://publicintegrity.org/politics/koch-brothers-pour-more-cash-into-think-tanks-alec/) (Tier 2)
-- [EXPOSEDbyCMD: Who Funds ALEC?](https://www.exposedbycmd.org/2025/07/18/who-funds-alec/) (Tier 2)
+- [ProPublica Nonprofit Explorer: ALEC Form 990 filings](https://projects.propublica.org/nonprofits/organizations/520140979) (Tier 1) (VERIFIED)
+- ~~[Center for Media and Democracy: ALEC's Funding Revealed (July 2023)](https://www.exposedbycmd.org/2023/07/25/alecs-funding-revealed/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Center for Public Integrity: Koch Brothers Pour More Cash into Think Tanks](https://publicintegrity.org/politics/koch-brothers-pour-more-cash-into-think-tanks-alec/) (Tier 2) (VERIFIED)
+- ~~[EXPOSEDbyCMD: Who Funds ALEC?](https://www.exposedbycmd.org/2025/07/18/who-funds-alec/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ---
 
@@ -269,9 +269,9 @@ In 1995, Governor George W. Bush signed an ALEC model bill in Texas giving corpo
 > [!money] The Model Legislation Factory — ROI Beyond Calculation
 > ALEC's $10–15 million annual budget generates legislative output that would cost corporations billions to achieve through traditional lobbying in 50 state capitals. A single model bill — drafted by corporate lobbyists in a task force meeting, distributed to 2,000+ state legislators, introduced in dozens of states simultaneously — can reshape national policy without any federal legislation or public debate. Corporate members pay $7,000–$25,000 in dues and receive pre-drafted legislation, talking points, a legislator network, and anonymity. Right-to-work laws alone have reduced union membership and worker bargaining power across 27 states. Mandatory sentencing laws filled private prisons for two decades. The Critical Infrastructure Protection Act criminalized pipeline protest in 8+ states within two years of drafting. No other organization in American politics achieves this efficiency: corporate policy preferences converted to state law at industrial scale, with the corporate authorship invisible to the public.
 
-- [ProPublica: Step-by-Step Guide to Understanding ALEC's Influence on Your State Laws](https://www.propublica.org/article/our-step-by-step-guide-to-understanding-alecs-influence-on-your-state-laws) (Tier 2)
-- [ALEC Exposed: Model Bills Database](https://www.alecexposed.org/wiki/ALEC_Exposedwiki/ALEC_Bills) (Tier 2)
-- [Center for Media and Democracy: ALEC Exposed](https://www.alecexposed.org/wiki/ALEC_Exposedwiki/ALEC_Exposed) (Tier 2)
+- [ProPublica: Step-by-Step Guide to Understanding ALEC's Influence on Your State Laws](https://www.propublica.org/article/our-step-by-step-guide-to-understanding-alecs-influence-on-your-state-laws) (Tier 2) (VERIFIED)
+- ~~[ALEC Exposed: Model Bills Database](https://www.alecexposed.org/wiki/ALEC_Exposedwiki/ALEC_Bills)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Center for Media and Democracy: ALEC Exposed](https://www.alecexposed.org/wiki/ALEC_Exposedwiki/ALEC_Exposed)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ---
 
@@ -288,8 +288,8 @@ Total: 60+ corporations, 4 major nonprofits, 55 elected officials departed by Ju
 > [!contradiction] The Exodus That Proved the Model
 > The corporate exodus was brand damage, not structural threat. By 2014, ALEC's budget was fully restored through foundation deepening — the Bradley Foundation increased to $3.6M, Koch entities to $2.3M. The corporations that stayed (Koch Industries, ExxonMobil, Altria, AT&T, FedEx) increased their contributions. The exodus revealed ALEC's structural resilience: when public-facing corporations fled, dark money foundations filled the gap. ALEC's model legislation pipeline continued uninterrupted. The organization disbanded its Public Safety and Elections Task Force (which produced Stand Your Ground and voter ID) but created new task forces producing identical legislation under different names. The 2012 crisis made ALEC more dependent on dark money, not less powerful.
 
-- [NPR: Walmart Pulls Out of ALEC Over Stand Your Ground](https://www.npr.org/sections/thetwo-way/2012/05/31/154077536/wal-mart-pulls-out-of-group-that-advocates-stand-your-ground-laws) (Tier 2)
-- [Democracy Now!: Corporate Exodus from ALEC](https://www.democracynow.org/2012/4/12/outrage_over_stand_your_ground_laws) (Tier 2)
+- [NPR: Walmart Pulls Out of ALEC Over Stand Your Ground](https://www.npr.org/sections/thetwo-way/2012/05/31/154077536/wal-mart-pulls-out-of-group-that-advocates-stand-your-ground-laws) (Tier 2) (VERIFIED)
+- [Democracy Now!: Corporate Exodus from ALEC](https://www.democracynow.org/2012/4/12/outrage_over_stand_your_ground_laws) (Tier 2) (VERIFIED)
 
 ---
 
@@ -399,9 +399,9 @@ In April 2012, Common Cause filed a whistleblower complaint with the IRS allegin
 
 IRS status as of latest reporting: complaint remained "open" but no public action taken. ALEC's 501(c)(3) status remains intact, allowing corporate members to deduct their dues and task force payments as charitable contributions while receiving pre-drafted legislation in return. This tax treatment effectively subsidizes corporate lobbying through the tax code — the public pays for the tax deductions that fund the model legislation pipeline.
 
-- [Common Cause: ALEC Whistleblower Complaint to IRS](https://www.commoncause.org/resources/alec-whistleblower-complaint/) (Tier 1)
-- [Center for Public Integrity: ALEC Faces New Challenge to Tax-Exempt Status](https://publicintegrity.org/politics/alec-faces-new-challenge-to-tax-exempt-status/) (Tier 2)
-- [Wisconsin Examiner: Campaign Violations and Tax Status](https://wisconsinexaminer.com/2021/07/27/is-alec-helping-republicans-campaign-in-violation-of-its-tax-status/) (Tier 2)
+- [Common Cause: ALEC Whistleblower Complaint to IRS](https://www.commoncause.org/resources/alec-whistleblower-complaint/) (Tier 1) (VERIFIED)
+- [Center for Public Integrity: ALEC Faces New Challenge to Tax-Exempt Status](https://publicintegrity.org/politics/alec-faces-new-challenge-to-tax-exempt-status/) (Tier 2) (VERIFIED)
+- [Wisconsin Examiner: Campaign Violations and Tax Status](https://wisconsinexaminer.com/2021/07/27/is-alec-helping-republicans-campaign-in-violation-of-its-tax-status/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -415,9 +415,9 @@ IRS status as of latest reporting: complaint remained "open" but no public actio
 
 **2025 Announced Priorities:** Lawsuit reform (tort reform expansion), regulatory reform (deregulation framework), pension reform (anti-ESG), energy "reliability and affordability" (fossil fuel protection language), anti-carbon tax advocacy.
 
-- [ALEC: 2025 Policy Solutions](https://alec.org/article/exploring-alecs-essential-policy-solutions-for-2025/) (Tier 3)
-- [ALEC: State AI Policy Toolkit](https://alec.org/publication/state-ai-policy-toolkit-the-alec-guide-to-a-golden-age-of-artificial-intelligence-innovation/) (Tier 3)
-- [EXPOSEDbyCMD: ALEC Grid Stability Bills Favor Fossil Fuels](https://www.exposedbycmd.org/2025/11/12/alec-pushes-power-grid-stability-bills-to-favor-fossil-fuels-over-renewables) (Tier 2)
+- [ALEC: 2025 Policy Solutions](https://alec.org/article/exploring-alecs-essential-policy-solutions-for-2025/) (Tier 3) (VERIFIED)
+- [ALEC: State AI Policy Toolkit](https://alec.org/publication/state-ai-policy-toolkit-the-alec-guide-to-a-golden-age-of-artificial-intelligence-innovation/) (Tier 3) (VERIFIED)
+- ~~[EXPOSEDbyCMD: ALEC Grid Stability Bills Favor Fossil Fuels](https://www.exposedbycmd.org/2025/11/12/alec-pushes-power-grid-stability-bills-to-favor-fossil-fuels-over-renewables)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ---
 
@@ -467,71 +467,71 @@ The defining pattern is corporate policy preferences overriding constituency int
 - [Center for Media and Democracy: ALEC's Funding Revealed (July 2023)](https://www.exposedbycmd.org/2023/07/25/alecs-funding-revealed/) (Tier 2)
 - [EXPOSEDbyCMD: Who Funds ALEC?](https://www.exposedbycmd.org/2025/07/18/who-funds-alec/) (Tier 2)
 - [Center for Public Integrity: Koch Brothers Pour More Cash into Think Tanks](https://publicintegrity.org/politics/koch-brothers-pour-more-cash-into-think-tanks-alec/) (Tier 2)
-- [The Intercept: Charles Koch Doubles Down on ALEC as Others Flee](https://theintercept.com/2018/11/29/alec-corporate-funders-charles-koch/) (Tier 2)
-- [The Nation: ALEC Exposed — Koch Connection](https://www.thenation.com/article/archive/alec-exposed-koch-connection/) (Tier 2)
-- [PR Watch: ALEC Funders Flee](https://www.prwatch.org/news/2014/07/12552/alec-funders-flee-but-koch-tobacco-phrma-remain-loyal) (Tier 2) (UNVERIFIED)
+- [The Intercept: Charles Koch Doubles Down on ALEC as Others Flee](https://theintercept.com/2018/11/29/alec-corporate-funders-charles-koch/) (Tier 2) (VERIFIED)
+- [The Nation: ALEC Exposed — Koch Connection](https://www.thenation.com/article/archive/alec-exposed-koch-connection/) (Tier 2) (VERIFIED)
+- ~~[PR Watch: ALEC Funders Flee](https://www.prwatch.org/news/2014/07/12552/alec-funders-flee-but-koch-tobacco-phrma-remain-loyal)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 
 ### Model Legislation Pipeline & Statistics:
-- [Brookings Institution: ALEC's Influence over Lawmaking in State Legislatures (December 2013)](https://www.brookings.edu/articles/alecs-influence-over-lawmaking-in-state-legislatures/) (Tier 2)
-- [ProPublica: Step-by-Step Guide to ALEC's Influence](https://www.propublica.org/article/our-step-by-step-guide-to-understanding-alecs-influence-on-your-state-laws) (Tier 2)
-- [ALEC Exposed: Model Bills Database (CMD)](https://www.alecexposed.org/wiki/ALEC_Exposedwiki/ALEC_Bills) (Tier 2)
+- [Brookings Institution: ALEC's Influence over Lawmaking in State Legislatures (December 2013)](https://www.brookings.edu/articles/alecs-influence-over-lawmaking-in-state-legislatures/) (Tier 2) (VERIFIED)
+- [ProPublica: Step-by-Step Guide to ALEC's Influence](https://www.propublica.org/article/our-step-by-step-guide-to-understanding-alecs-influence-on-your-state-laws) (Tier 2) (VERIFIED)
+- ~~[ALEC Exposed: Model Bills Database (CMD)](https://www.alecexposed.org/wiki/ALEC_Exposedwiki/ALEC_Bills)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [Center for Media and Democracy: ALEC Exposed](https://www.alecexposed.org/wiki/ALEC_Exposedwiki/ALEC_Exposed) (Tier 2)
-- [Democracy Forward: Peoples Guide (April 2025)](https://democracyforward.org/wp-content/uploads/2025/04/DF-Peoples-Guide-April-2025-8-1.pdf) (Tier 2)
-- [Public Citizen: ALEC, Chamber of Commerce, and the Kochs](https://www.citizen.org/news/alec-the-chamber-of-commerce-and-the-kochs-inside-the-world-of-secret-money/) (Tier 2)
-- [NPR Fresh Air: ALEC Task Forces (2011)](https://www.npr.org/transcripts/138537515) (Tier 2)
-- [American Prospect: ALEC 50 Years Right-Wing Law Factory (2023)](https://prospect.org/2023/10/04/2023-10-04-alec-50-years-right-wing-law-factory/) (Tier 2)
-- [SourceWatch: ALEC](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/American_Legislative_Exchange_Council) (Tier 3)
+- [Democracy Forward: Peoples Guide (April 2025)](https://democracyforward.org/wp-content/uploads/2025/04/DF-Peoples-Guide-April-2025-8-1.pdf) (Tier 2) (VERIFIED)
+- [Public Citizen: ALEC, Chamber of Commerce, and the Kochs](https://www.citizen.org/news/alec-the-chamber-of-commerce-and-the-kochs-inside-the-world-of-secret-money/) (Tier 2) (VERIFIED)
+- [NPR Fresh Air: ALEC Task Forces (2011)](https://www.npr.org/transcripts/138537515) (Tier 2) (VERIFIED)
+- [American Prospect: ALEC 50 Years Right-Wing Law Factory (2023)](https://prospect.org/2023/10/04/2023-10-04-alec-50-years-right-wing-law-factory/) (Tier 2) (VERIFIED)
+- ~~[SourceWatch: ALEC](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/American_Legislative_Exchange_Council)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
 
 ### Corporate Exodus:
-- [NPR: Walmart Pulls Out of ALEC](https://www.npr.org/sections/thetwo-way/2012/05/31/154077536/wal-mart-pulls-out-of-group-that-advocates-stand-your-ground-laws) (Tier 2)
+- [NPR: Walmart Pulls Out of ALEC](https://www.npr.org/sections/thetwo-way/2012/05/31/154077536/wal-mart-pulls-out-of-group-that-advocates-stand-your-ground-laws) (Tier 2) (VERIFIED)
 - [Democracy Now!: Corporate Exodus from ALEC](https://www.democracynow.org/2012/4/12/outrage_over_stand_your_ground_laws) (Tier 2)
-- [Common Cause: ALEC Losing Clout Amid Controversy](https://www.commoncause.org/articles/alec-losing-clout-legitimacy-amid-ongoing-controversy-and-tax-fraud/) (Tier 2)
+- [Common Cause: ALEC Losing Clout Amid Controversy](https://www.commoncause.org/articles/alec-losing-clout-legitimacy-amid-ongoing-controversy-and-tax-fraud/) (Tier 2) (VERIFIED)
 
 ### Legal/Tax Status:
-- [Center for Public Integrity: ALEC Tax-Exempt Status Challenge](https://publicintegrity.org/politics/alec-faces-new-challenge-to-tax-exempt-status/) (Tier 2)
+- [Center for Public Integrity: ALEC Tax-Exempt Status Challenge](https://publicintegrity.org/politics/alec-faces-new-challenge-to-tax-exempt-status/) (Tier 2) (VERIFIED)
 
 ### Dark Money Network:
-- [EXPOSEDbyCMD: Koch $176M Stand Together Network](https://www.exposedbycmd.org/2023/12/20/charles-kochs-stand-together-donor-conduits-move-176-million/) (Tier 2)
-- [SourceWatch: SPN Ties to ALEC](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/SPN_Ties_to_ALEC) (Tier 3)
-- [EXPOSEDbyCMD: ALEC's Funding Revealed — $41.7M breakdown 2017-2021](https://www.exposedbycmd.org/2023/07/25/alecs-funding-revealed/) (Tier 2)
-- [EXPOSEDbyCMD: Bradley Foundation Bankrolls ALEC Voter Software](https://www.exposedbycmd.org/2021/08/20/bradley-foundation-bankrolls-controversial-alec-voter-software) (Tier 2)
+- [EXPOSEDbyCMD: Koch $176M Stand Together Network](https://www.exposedbycmd.org/2023/12/20/charles-kochs-stand-together-donor-conduits-move-176-million/) (Tier 2) (VERIFIED)
+- ~~[SourceWatch: SPN Ties to ALEC](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/SPN_Ties_to_ALEC)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[EXPOSEDbyCMD: ALEC's Funding Revealed — $41.7M breakdown 2017-2021](https://www.exposedbycmd.org/2023/07/25/alecs-funding-revealed/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[EXPOSEDbyCMD: Bradley Foundation Bankrolls ALEC Voter Software](https://www.exposedbycmd.org/2021/08/20/bradley-foundation-bankrolls-controversial-alec-voter-software)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ### Policy Areas — Right-to-Work, Voter ID, Renewable Energy:
-- [Center for Public Integrity: ALEC's Decades of Right-to-Work Effort Pay Off in Michigan](https://publicintegrity.org/politics/alecs-decades-of-right-to-work-effort-pay-off-in-michigan/) (Tier 2)
-- [In These Times: Kentucky Anti-Union Effort Ripped from Koch Playbook](https://inthesetimes.com/article/anti-union-effort-in-kentucky-is-ripped-straight-from-the-koch-playbook) (Tier 2) (UNVERIFIED)
-- [Wikipedia: American Legislative Exchange Council](https://en.wikipedia.org/wiki/American_Legislative_Exchange_Council) (Tier 3)
-- [Center for Public Integrity: ALEC Scraps Task Force Behind Stand Your Ground and Voter ID](https://publicintegrity.org/politics/alec-scraps-task-force-behind-support-for-voter-id-stand-your-ground-laws-nationwide/) (Tier 2)
-- [Earthjustice: Coming Clean in Ohio — How Fossil Fuel Interests Unraveled the State's Clean Energy Law](https://earthjustice.org/article/coming-clean-in-ohio-how-fossil-fuel-interests-unraveled-the-buckeye-state-s-renewable-energy-progress) (Tier 2)
-- [Energy and Policy Institute: ALEC Members' Repeated Effort to End Ohio's Clean Energy Law](https://energyandpolicy.org/the-repeated-effort-by-ohio-alec-members-to-end-the-states-clean-energy-law/) (Tier 2)
-- [Energy and Policy Institute: ALEC's New Tactics to Weaken Renewable Laws (Q&A with John Elsner)](https://energyandpolicy.org/qa-alecs-new-tactics-to-weaken-renewable-laws/) (Tier 2)
-- [NRDC: ALEC and Polluters Release New Schemes to Block Climate Action](https://www.nrdc.org/bio/aliya-haq/alec-and-polluters-release-new-uninspired-schemes-block-climate-action) (Tier 2) (UNVERIFIED)
-- [National Employment Law Project: Fighting Labor Policy Preemption](https://www.nelp.org/insights-research/fighting-labor-policy-preemption-that-undermines-local-power-and-the-democratic-process/) (Tier 2)
-- [PR Watch: ALEC Local Control (2016)](https://www.prwatch.org/news/2016/02/13029/2016-ALEC-local-control) (Tier 2) (UNVERIFIED)
-- [Local Solutions Support Center: ALEC Model Legislation and Preemption](https://www.supportdemocracy.org/the-latest/alec-model-legislation-and-preemption) (Tier 3)
-- [PR Watch: Arizona Ground Zero — Koch Attack on Public Education (2018)](https://www.prwatch.org/arizona-%E2%80%9Cground-zero%E2%80%9D-koch-attack-public-education/) *(source unavailable)* (Tier 2) (UNVERIFIED)
+- [Center for Public Integrity: ALEC's Decades of Right-to-Work Effort Pay Off in Michigan](https://publicintegrity.org/politics/alecs-decades-of-right-to-work-effort-pay-off-in-michigan/) (Tier 2) (VERIFIED)
+- [In These Times: Kentucky Anti-Union Effort Ripped from Koch Playbook](https://inthesetimes.com/article/anti-union-effort-in-kentucky-is-ripped-straight-from-the-koch-playbook) (Tier 2) (VERIFIED) (UNVERIFIED)
+- [Wikipedia: American Legislative Exchange Council](https://en.wikipedia.org/wiki/American_Legislative_Exchange_Council) (Tier 3) (VERIFIED)
+- [Center for Public Integrity: ALEC Scraps Task Force Behind Stand Your Ground and Voter ID](https://publicintegrity.org/politics/alec-scraps-task-force-behind-support-for-voter-id-stand-your-ground-laws-nationwide/) (Tier 2) (VERIFIED)
+- [Earthjustice: Coming Clean in Ohio — How Fossil Fuel Interests Unraveled the State's Clean Energy Law](https://earthjustice.org/article/coming-clean-in-ohio-how-fossil-fuel-interests-unraveled-the-buckeye-state-s-renewable-energy-progress) (Tier 2) (VERIFIED)
+- [Energy and Policy Institute: ALEC Members' Repeated Effort to End Ohio's Clean Energy Law](https://energyandpolicy.org/the-repeated-effort-by-ohio-alec-members-to-end-the-states-clean-energy-law/) (Tier 2) (VERIFIED)
+- [Energy and Policy Institute: ALEC's New Tactics to Weaken Renewable Laws (Q&A with John Elsner)](https://energyandpolicy.org/qa-alecs-new-tactics-to-weaken-renewable-laws/) (Tier 2) (VERIFIED)
+- [NRDC: ALEC and Polluters Release New Schemes to Block Climate Action](https://www.nrdc.org/bio/aliya-haq/alec-and-polluters-release-new-uninspired-schemes-block-climate-action) (Tier 2) (VERIFIED) (UNVERIFIED)
+- [National Employment Law Project: Fighting Labor Policy Preemption](https://www.nelp.org/insights-research/fighting-labor-policy-preemption-that-undermines-local-power-and-the-democratic-process/) (Tier 2) (VERIFIED)
+- ~~[PR Watch: ALEC Local Control (2016)](https://www.prwatch.org/news/2016/02/13029/2016-ALEC-local-control)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- [Local Solutions Support Center: ALEC Model Legislation and Preemption](https://www.supportdemocracy.org/the-latest/alec-model-legislation-and-preemption) (Tier 3) (VERIFIED)
+- ~~[PR Watch: Arizona Ground Zero — Koch Attack on Public Education (2018)](https://www.prwatch.org/arizona-%E2%80%9Cground-zero%E2%80%9D-koch-attack-public-education/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2) (UNVERIFIED)
 
 ### State Policy Network (SPN):
-- [Center for Public Integrity: Donors Use Charity to Push Free-Market Policies in States (2013)](https://publicintegrity.org/politics/donors-use-charity-to-push-free-market-policies-in-states/) (Tier 2)
-- [Center for Media and Democracy: SPN Raises $152 Million Annually to Push Right-Wing Policies (September 2022)](https://www.exposedbycmd.org/2022/09/30/state-policy-network-and-affiliates-raises-152-million-annually-to-push-right-wing-policies/) (Tier 2)
-- [SourceWatch: State Policy Network](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/State_Policy_Network) (Tier 3)
+- [Center for Public Integrity: Donors Use Charity to Push Free-Market Policies in States (2013)](https://publicintegrity.org/politics/donors-use-charity-to-push-free-market-policies-in-states/) (Tier 2) (VERIFIED)
+- ~~[Center for Media and Democracy: SPN Raises $152 Million Annually to Push Right-Wing Policies (September 2022)](https://www.exposedbycmd.org/2022/09/30/state-policy-network-and-affiliates-raises-152-million-annually-to-push-right-wing-policies/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[SourceWatch: State Policy Network](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/State_Policy_Network)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
 - [SourceWatch: SPN Ties to ALEC](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/SPN_Ties_to_ALEC) (Tier 3)
-- [Energy and Policy Institute: State Policy Network](https://energyandpolicy.org/category/front-groups/state-policy-network/) (Tier 2)
+- [Energy and Policy Institute: State Policy Network](https://energyandpolicy.org/category/front-groups/state-policy-network/) (Tier 2) (VERIFIED)
 - [EXPOSEDbyCMD: Koch $176M Stand Together Network](https://www.exposedbycmd.org/2023/12/20/charles-kochs-stand-together-donor-conduits-move-176-million/) (Tier 2)
-- [Center for Media and Democracy: SPN Right-Wing Think Tanks Pushing ALEC Agenda (2013)](https://www.exposedbycmd.org/2013/11/22/spn-right-wing-stink-tanks-pushing-alec-agenda-states/) (Tier 2)
-- [Texas Observer: Corporations and Billionaires That Fund TPPF (2012)](https://www.texasobserver.org/revealed-the-corporations-and-billionaires-that-fund-the-texas-public-policy-foundation/) (Tier 2) (UNVERIFIED)
-- [Global Energy Monitor: Mackinac Center for Public Policy](https://www.gem.wiki/Mackinac_Center_for_Public_Policy) (Tier 3)
+- ~~[Center for Media and Democracy: SPN Right-Wing Think Tanks Pushing ALEC Agenda (2013)](https://www.exposedbycmd.org/2013/11/22/spn-right-wing-stink-tanks-pushing-alec-agenda-states/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Texas Observer: Corporations and Billionaires That Fund TPPF (2012)](https://www.texasobserver.org/revealed-the-corporations-and-billionaires-that-fund-the-texas-public-policy-foundation/) (Tier 2) (VERIFIED) (UNVERIFIED)
+- [Global Energy Monitor: Mackinac Center for Public Policy](https://www.gem.wiki/Mackinac_Center_for_Public_Policy) (Tier 3) (VERIFIED)
 
 ### REDMAP and Redistricting:
-- [ProPublica: How Dark Money Helped Republicans Hold the House (2012)](https://www.propublica.org/article/how-dark-money-helped-republicans-hold-the-house-and-hurt-voters) (Tier 2)
-- [Bill Moyers: Gerrymandering Republicans and REDMAP (2016)](https://www.wbur.org/hereandnow/2016/07/19/gerrymandering-republicans-redmap) (Tier 2)
-- [NPR/Jane Mayer: Multimillionaire Helping Republicans Win North Carolina (2011)](https://www.npr.org/2011/10/06/141078608/the-multimillionaire-helping-republicans-win-n-c) (Tier 2)
-- [Economic Policy Institute: Corporate Power in State Legislatures and Gerrymandered Congress (2017)](https://www.epi.org/blog/corporate-power-in-state-legislatures-produces-a-gerrymandered-congress/) (Tier 2) (UNVERIFIED)
+- [ProPublica: How Dark Money Helped Republicans Hold the House (2012)](https://www.propublica.org/article/how-dark-money-helped-republicans-hold-the-house-and-hurt-voters) (Tier 2) (VERIFIED)
+- [Bill Moyers: Gerrymandering Republicans and REDMAP (2016)](https://www.wbur.org/hereandnow/2016/07/19/gerrymandering-republicans-redmap) (Tier 2) (VERIFIED)
+- [NPR/Jane Mayer: Multimillionaire Helping Republicans Win North Carolina (2011)](https://www.npr.org/2011/10/06/141078608/the-multimillionaire-helping-republicans-win-n-c) (Tier 2) (VERIFIED)
+- [Economic Policy Institute: Corporate Power in State Legislatures and Gerrymandered Congress (2017)](https://www.epi.org/blog/corporate-power-in-state-legislatures-produces-a-gerrymandered-congress/) (Tier 2) (VERIFIED) (UNVERIFIED)
 
 ### Recent Activity:
-- [ALEC: 2025 Essential Policy Solutions](https://alec.org/article/exploring-alecs-essential-policy-solutions-for-2025/) (Tier 3)
+- [ALEC: 2025 Essential Policy Solutions](https://alec.org/article/exploring-alecs-essential-policy-solutions-for-2025/) (Tier 3) (VERIFIED)
 - [ALEC: State AI Policy Toolkit](https://alec.org/publication/state-ai-policy-toolkit-the-alec-guide-to-a-golden-age-of-artificial-intelligence-innovation/) (Tier 3)
-- [EXPOSEDbyCMD: ALEC Grid Stability Bills](https://www.exposedbycmd.org/2025/11/12/alec-pushes-power-grid-stability-bills-to-favor-fossil-fuels-over-renewables) (Tier 2)
-- [Ballotpedia: ALEC](https://ballotpedia.org/American_Legislative_Exchange_Council) (Tier 3)
+- ~~[EXPOSEDbyCMD: ALEC Grid Stability Bills](https://www.exposedbycmd.org/2025/11/12/alec-pushes-power-grid-stability-bills-to-favor-fossil-fuels-over-renewables)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Ballotpedia: ALEC](https://ballotpedia.org/American_Legislative_Exchange_Council) (Tier 3) (VERIFIED)
 
 ### Federal Subawards & Spending Breakdown
 
@@ -550,5 +550,5 @@ The defining pattern is corporate policy preferences overriding constituency int
 - 2020-05-06 — **PX14A6G**: PX14A6G
 - 2020-04-27 — **PX14A6G**: PX14A6G
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22ALEC%20-%20American%20Legislative%20Exchange%20Council%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22ALEC%20-%20American%20Legislative%20Exchange%20Council%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->

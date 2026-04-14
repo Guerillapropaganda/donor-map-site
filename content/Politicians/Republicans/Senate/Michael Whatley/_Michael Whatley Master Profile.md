@@ -146,17 +146,17 @@ Susan B. Anthony Pro-Life America PAC's $4.5 million donation is the other half 
 ---
 
 ## Sources
-- [The Hill: Who is Michael Whatley, Trump's pick to lead RNC](https://thehill.com/homenews/campaign/4472379-who-is-michael-whatley-trump-s-pick-to-lead-rnc/) (Tier 2)
-- [E&E News by POLITICO: Republicans tap former oil lobbyist for national chair](https://www.eenews.net/articles/republicans-tap-former-oil-lobbyist-for-national-chair/) (Tier 2)
-- [E&E News by POLITICO: Republican's oil ties a focus in North Carolina Senate race](https://www.eenews.net/articles/republicans-oil-ties-a-focus-in-north-carolina-senate-race/) (Tier 2)
-- [Climate Power: Big Oil's Favorite Lobbyist Wants to Represent North Carolina](https://climatepower.us/news/big-oils-favorite-lobbyist-wants-to-represent-north-carolina/) (Tier 2)
-- [Wikipedia: Michael Whatley](https://en.wikipedia.org/wiki/Michael_Whatley) (Tier 3)
-- [Ballotpedia: Michael Whatley](https://ballotpedia.org/Michael_Whatley) (Tier 3)
-- [OpenSecrets: Michael D Whatley Revolving Door Profile](https://www.opensecrets.org/revolving-door/whatley-michael-d/summary?id=71168) (Tier 1 - government/lobbying database) (Tier 1)
-- [SourceWatch: Michael Whatley](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Michael_Whatley) (Tier 3)
-- [NBC News: RNC moves to give early backing to former chair running in key Senate race](https://www.nbcnews.com/politics/2026-election/rnc-moves-give-early-backing-former-chair-running-key-senate-race-rcna229160) (Tier 2)
-- [The Hill: Trump-backed GOP leader Michael Whatley launches North Carolina Senate bid](https://thehill.com/homenews/senate/5426353-rnc-chair-michael-whatley-nc-senate/) (Tier 2)
-- [CNN: Roy Cooper and Michael Whatley will advance to a marquee North Carolina matchup for US Senate](https://www.cnn.com/2026/03/03/politics/roy-cooper-michael-whatley-north-carolina-matchup-senate) (Tier 2)
+- ~~[The Hill: Who is Michael Whatley, Trump's pick to lead RNC](https://thehill.com/homenews/campaign/4472379-who-is-michael-whatley-trump-s-pick-to-lead-rnc/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [E&E News by POLITICO: Republicans tap former oil lobbyist for national chair](https://www.eenews.net/articles/republicans-tap-former-oil-lobbyist-for-national-chair/) (Tier 2) (VERIFIED)
+- [E&E News by POLITICO: Republican's oil ties a focus in North Carolina Senate race](https://www.eenews.net/articles/republicans-oil-ties-a-focus-in-north-carolina-senate-race/) (Tier 2) (VERIFIED)
+- [Climate Power: Big Oil's Favorite Lobbyist Wants to Represent North Carolina](https://climatepower.us/news/big-oils-favorite-lobbyist-wants-to-represent-north-carolina/) (Tier 2) (VERIFIED)
+- [Wikipedia: Michael Whatley](https://en.wikipedia.org/wiki/Michael_Whatley) (Tier 3) (VERIFIED)
+- [Ballotpedia: Michael Whatley](https://ballotpedia.org/Michael_Whatley) (Tier 3) (VERIFIED)
+- [OpenSecrets: Michael D Whatley Revolving Door Profile](https://www.opensecrets.org/revolving-door/whatley-michael-d/summary?id=71168) (VERIFIED) (Tier 1 - government/lobbying database) (Tier 1)
+- ~~[SourceWatch: Michael Whatley](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Michael_Whatley)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [NBC News: RNC moves to give early backing to former chair running in key Senate race](https://www.nbcnews.com/politics/2026-election/rnc-moves-give-early-backing-former-chair-running-key-senate-race-rcna229160) (Tier 2) (VERIFIED)
+- ~~[The Hill: Trump-backed GOP leader Michael Whatley launches North Carolina Senate bid](https://thehill.com/homenews/senate/5426353-rnc-chair-michael-whatley-nc-senate/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [CNN: Roy Cooper and Michael Whatley will advance to a marquee North Carolina matchup for US Senate](https://www.cnn.com/2026/03/03/politics/roy-cooper-michael-whatley-north-carolina-matchup-senate) (Tier 2) (VERIFIED)
 
 ---
 
@@ -178,7 +178,7 @@ Susan B. Anthony Pro-Life America PAC's $4.5 million donation is the other half 
 | AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION | $4,189,244 | $0 |
 | SLF PAC | $911,323 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6NC00415/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6NC00415/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Voting Record

@@ -120,14 +120,14 @@ IPO/corporate finance — Prop 22 as pre-IPO regulatory investment
 
 ### Sources
 
-- [Ballotpedia: Prop 22 campaign finance](https://ballotpedia.org/California_Proposition_22,_App-Based_Drivers_as_Contractors_and_Labor_Policies_Initiative_%282020%29) (Tier 1)
-- [California Secretary of State / Cal-Access: Prop 22 committee filings](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx) (Tier 1)
-- [LA Times: Prop 22 spending totals](https://www.latimes.com/business/story/2020-10-20/prop-22-gig-workers-uber-lyft-record-spending) (Tier 2)
-- [CNBC: Prop 22 and DoorDash IPO](https://www.cnbc.com/2020/11/05/california-prop-22-win-improves-doordash-instacart-ipo-prospects.html) (Tier 2)
-- [CalMatters: Newsom recall donors](https://calmatters.org/category/politics/2021/10/newsom-recall-big-donors/) (Tier 2)
-- [OpenSecrets: DoorDash PAC and lobbying](https://www.opensecrets.org/orgs/doordash-inc/summary?id=D000072628) (Tier 1)
-- [The Hill: DashPAC formation](https://thehill.com/lobbying/3550101-doordash-expands-political-footprint-with-new-pac/) (Tier 2)
-- [The Hill: Flex Association](https://thehill.com/business-a-lobbying/business-a-lobbying/597404-gig-companies-launch-lobbying-group-to-counter-pro/) (Tier 2)
+- [Ballotpedia: Prop 22 campaign finance](https://ballotpedia.org/California_Proposition_22,_App-Based_Drivers_as_Contractors_and_Labor_Policies_Initiative_%282020%29) (Tier 1) (VERIFIED)
+- [California Secretary of State / Cal-Access: Prop 22 committee filings](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx) (Tier 1) (VERIFIED)
+- ~~[LA Times: Prop 22 spending totals](https://www.latimes.com/business/story/2020-10-20/prop-22-gig-workers-uber-lyft-record-spending)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [CNBC: Prop 22 and DoorDash IPO](https://www.cnbc.com/2020/11/05/california-prop-22-win-improves-doordash-instacart-ipo-prospects.html) (Tier 2) (VERIFIED)
+- ~~[CalMatters: Newsom recall donors](https://calmatters.org/category/politics/2021/10/newsom-recall-big-donors/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [OpenSecrets: DoorDash PAC and lobbying](https://www.opensecrets.org/orgs/doordash-inc/summary?id=D000072628) (Tier 1) (VERIFIED)
+- ~~[The Hill: DashPAC formation](https://thehill.com/lobbying/3550101-doordash-expands-political-footprint-with-new-pac/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Flex Association](https://thehill.com/business-a-lobbying/business-a-lobbying/597404-gig-companies-launch-lobbying-group-to-counter-pro/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ---
 
@@ -149,7 +149,7 @@ IPO/corporate finance — Prop 22 as pre-IPO regulatory investment
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [549300NUQ43FGGSK5051](https://search.gleif.org/#/record/549300NUQ43FGGSK5051) |
+| LEI | [549300NUQ43FGGSK5051](https://search.gleif.org/#/record/549300NUQ43FGGSK5051) (VERIFIED) |
 | Legal Name | DOORDASH, INC. |
 | Jurisdiction | US-DE |
 | Entity Status | ACTIVE |
@@ -157,7 +157,7 @@ IPO/corporate finance — Prop 22 as pre-IPO regulatory investment
 | Registration | ISSUED |
 | Last Updated | 2025-04-17T11:06:21Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Vehicle Safety (NHTSA)
@@ -175,7 +175,7 @@ IPO/corporate finance — Prop 22 as pre-IPO regulatory investment
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=DoorDash) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=DoorDash) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Federal Register Activity
@@ -189,15 +189,15 @@ IPO/corporate finance — Prop 22 as pre-IPO regulatory investment
 | Agencies | Antitrust Division, Federal Trade Commission, Justice Department, Labor Department, Wage and Hour Division |
 
 **Recent regulatory activity:**
-- [United States v. Reddy Ice LLC, et al. Proposed Final Judgment and Competitive Impact Statement](https://www.federalregister.gov/documents/2026/02/18/2026-03102/united-states-v-reddy-ice-llc-et-al-proposed-final-judgment-and-competitive-impact-statement) (2026-02-18) — Justice Department
-- [Trade Regulation Rule on Unfair or Deceptive Fees](https://www.federalregister.gov/documents/2025/01/10/2024-30293/trade-regulation-rule-on-unfair-or-deceptive-fees) (2025-01-10) — Federal Trade Commission
-- [Employee or Independent Contractor Classification Under the Fair Labor Standards Act](https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act) (2024-01-10) — Labor Department
-- [Trade Regulation Rule on Unfair or Deceptive Fees](https://www.federalregister.gov/documents/2023/11/09/2023-24234/trade-regulation-rule-on-unfair-or-deceptive-fees) (2023-11-09) — Federal Trade Commission
-- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2021/02/18/2021-03184/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2021-02-18) — Federal Trade Commission
-- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2019/05/13/2019-09815/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2019-05-13) — Federal Trade Commission
+- ~~[United States v. Reddy Ice LLC, et al. Proposed Final Judgment and Competitive Impact Statement](https://www.federalregister.gov/documents/2026/02/18/2026-03102/united-states-v-reddy-ice-llc-et-al-proposed-final-judgment-and-competitive-impact-statement)~~ (URL broken, archived by Ops) (2026-02-18) — Justice Department
+- [Trade Regulation Rule on Unfair or Deceptive Fees](https://www.federalregister.gov/documents/2025/01/10/2024-30293/trade-regulation-rule-on-unfair-or-deceptive-fees) (VERIFIED) (2025-01-10) — Federal Trade Commission
+- [Employee or Independent Contractor Classification Under the Fair Labor Standards Act](https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act) (VERIFIED) (2024-01-10) — Labor Department
+- [Trade Regulation Rule on Unfair or Deceptive Fees](https://www.federalregister.gov/documents/2023/11/09/2023-24234/trade-regulation-rule-on-unfair-or-deceptive-fees) (VERIFIED) (2023-11-09) — Federal Trade Commission
+- ~~[Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2021/02/18/2021-03184/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification)~~ (URL broken, archived by Ops) (2021-02-18) — Federal Trade Commission
+- ~~[Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2019/05/13/2019-09815/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification)~~ (URL broken, archived by Ops) (2019-05-13) — Federal Trade Commission
 - ... and 1 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22DoorDash%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22DoorDash%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### DOJ Press Releases

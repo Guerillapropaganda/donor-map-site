@@ -157,19 +157,19 @@ Steil is Paul Ryan's protege and successor. He worked as Ryan's aide in 2003, sp
 
 ## Sources
 
-- [FEC Candidate: Bryan Steil donor profile](https://www.fec.gov/data/candidate/H8WI01156/) (Tier 1)
-- [FEC Candidate: Bryan Steil industry donors](https://www.fec.gov/data/candidate/H8WI01156/) (Tier 1)
-- [Congress.gov: Bryan Steil](https://www.congress.gov/member/bryan-steil/S001213) (Tier 1)
-- [House Administration Committee: Meet the Chairman](https://cha.house.gov/meet-the-chairman) (Tier 1)
-- [House.gov: Steil introduces MEGA Act election reform package](https://steil.house.gov/media/press-releases/steil-introduces-election-reform-package) (Tier 1)
-- [House Administration: American Confidence in Elections Act](https://cha.house.gov/press-releases?ContentRecord_id=5379E658-0B3B-4FB9-8B02-281F6A927D73) (Tier 1)
-- [House Administration: Steil launches ActBlue investigation](https://republicans-cha.house.gov/2024/8/chairman-steil-launches-expanded-investigation-into-online-political-donations-through-actblue) (Tier 1)
-- [The Badger Project: Top donors to Rep. Bryan Steil 2024](https://thebadgerproject.org/2024/08/12/top-donors-to-rep-bryan-steil-in-the-2024-election-cycle-so-far/) (Tier 2)
-- [Roll Call: Bryan Steil is not Paul Ryan, but he used to work for him](https://rollcall.com/2019/01/25/bryan-steil-is-not-paul-ryan-but-he-used-to-work-for-him/) (Tier 2)
-- [Washington Times: Steil wants dramatic election overhaul](https://www.washingtontimes.com/news/2026/feb/24/bryan-steil-wants-dramatic-election-overhaul-partys-popular-voter-id/) (Tier 2)
-- [Urban Milwaukee: Meet Paul Ryan's rookie replacement](https://urbanmilwaukee.com/2019/07/18/meet-paul-ryans-rookie-replacement/) (Tier 2)
-- [Ballotpedia: Bryan Steil](https://ballotpedia.org/Bryan_Steil) (Tier 3)
-- [Wikipedia: Bryan Steil](https://en.wikipedia.org/wiki/Bryan_Steil) (Tier 3)
+- [FEC Candidate: Bryan Steil donor profile](https://www.fec.gov/data/candidate/H8WI01156/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Bryan Steil industry donors](https://www.fec.gov/data/candidate/H8WI01156/) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: Bryan Steil](https://www.congress.gov/member/bryan-steil/S001213)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [House Administration Committee: Meet the Chairman](https://cha.house.gov/meet-the-chairman) (Tier 1) (VERIFIED)
+- [House.gov: Steil introduces MEGA Act election reform package](https://steil.house.gov/media/press-releases/steil-introduces-election-reform-package) (Tier 1) (VERIFIED)
+- [House Administration: American Confidence in Elections Act](https://cha.house.gov/press-releases?ContentRecord_id=5379E658-0B3B-4FB9-8B02-281F6A927D73) (Tier 1) (VERIFIED)
+- [House Administration: Steil launches ActBlue investigation](https://republicans-cha.house.gov/2024/8/chairman-steil-launches-expanded-investigation-into-online-political-donations-through-actblue) (Tier 1) (VERIFIED)
+- [The Badger Project: Top donors to Rep. Bryan Steil 2024](https://thebadgerproject.org/2024/08/12/top-donors-to-rep-bryan-steil-in-the-2024-election-cycle-so-far/) (Tier 2) (VERIFIED)
+- [Roll Call: Bryan Steil is not Paul Ryan, but he used to work for him](https://rollcall.com/2019/01/25/bryan-steil-is-not-paul-ryan-but-he-used-to-work-for-him/) (Tier 2) (VERIFIED)
+- [Washington Times: Steil wants dramatic election overhaul](https://www.washingtontimes.com/news/2026/feb/24/bryan-steil-wants-dramatic-election-overhaul-partys-popular-voter-id/) (Tier 2) (VERIFIED)
+- [Urban Milwaukee: Meet Paul Ryan's rookie replacement](https://urbanmilwaukee.com/2019/07/18/meet-paul-ryans-rookie-replacement/) (Tier 2) (VERIFIED)
+- [Ballotpedia: Bryan Steil](https://ballotpedia.org/Bryan_Steil) (Tier 3) (VERIFIED)
+- [Wikipedia: Bryan Steil](https://en.wikipedia.org/wiki/Bryan_Steil) (Tier 3) (VERIFIED)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -203,7 +203,7 @@ Steil is Paul Ryan's protege and successor. He worked as Ryan's aide in 2003, sp
 | NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE | $62,666 | $0 |
 | MIDWEST GROWTH PAC | $39,950 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8WI01156/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8WI01156/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### DOJ Press Releases
@@ -235,12 +235,12 @@ Steil is Paul Ryan's protege and successor. He worked as Ryan's aide in 2003, sp
 | 4735 | Business of Insurance Regulatory Reform Act of 2025 | Referred to the House Committee on Financial Services. |
 | 4430 | Expanding WKSI Eligibility Act | Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. |
 
-- [Source: Congress.gov](https://www.congress.gov/member/S001213) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/S001213)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Bryan Steil](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: Bryan Steil](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->

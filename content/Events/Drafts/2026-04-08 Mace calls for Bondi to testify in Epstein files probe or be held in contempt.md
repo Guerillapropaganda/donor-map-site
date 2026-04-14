@@ -15,7 +15,7 @@ profiles:
 
 ## Mace calls for Bondi to testify in Epstein files probe or be held in contempt
 
-**Source:** [The Hill](https://thehill.com/homenews/house/5822929-mace-bondi-epstein-files-contempt/)
+**Source:** ~~[The Hill](https://thehill.com/homenews/house/5822929-mace-bondi-epstein-files-contempt/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-08
 
 Rep. Nancy Mace (R-S.C.) on Wednesday echoed Democratic calls to hold former Attorney General Pam Bondi in contempt if she failed to comply with a subpoena to testify before the House Oversight and Government Reform Committee about the Jeffrey Epstein files. The Justice Department told House Oversight Committee Chair James Comer (R-Ky.) Wednesday that Bondi would…

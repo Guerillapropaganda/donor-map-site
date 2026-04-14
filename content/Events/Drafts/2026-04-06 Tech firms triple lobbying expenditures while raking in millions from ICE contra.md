@@ -13,7 +13,7 @@ profiles:
 
 ## Tech firms triple lobbying expenditures while raking in millions from ICE contracts
 
-**Source:** [OpenSecrets Blog](http://opensecrets.org/news/2026/04/palantir-axon-parsons-triple-lobbying-expenditures-while-raking-in-millions-from-ice-contracts)
+**Source:** ~~[OpenSecrets Blog](http://opensecrets.org/news/2026/04/palantir-axon-parsons-triple-lobbying-expenditures-while-raking-in-millions-from-ice-contracts)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-06
 
 <p>Technology and data analytics companies tied to Immigration and Customs Enforcement operations have sharply increased their federal lobbying as the&amp;hellip;</p>

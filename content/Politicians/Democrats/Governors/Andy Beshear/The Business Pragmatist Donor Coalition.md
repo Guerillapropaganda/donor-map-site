@@ -60,6 +60,6 @@ A separate 2019 investigation into Louisville attorney Sam Aguiar's suspected st
 
 ### Sources
 
-- [Kentucky Lantern: Real estate developer and gambling company among top donors to Beshear super PAC](https://kentuckylantern.com/2025/08/01/real-estate-developer-and-gambling-company-are-among-top-donors-to-beshear-super-pac/) (Tier 2)
-- [Kentucky Lantern: Beshear's super PAC steps up fundraising](https://kentuckylantern.com/2026/02/02/kentucky-democrat-andy-beshears-super-pac-steps-up-fundraising-in-its-second-year/) (Tier 2)
-- [Kentucky Lantern: Investigation of straw donations to Beshear](https://kentuckylantern.com/2025/03/20/rare-inside-view-of-money-race-revealed-by-investigation-of-straw-donations-to-boost-beshear/) (Tier 2)
+- [Kentucky Lantern: Real estate developer and gambling company among top donors to Beshear super PAC](https://kentuckylantern.com/2025/08/01/real-estate-developer-and-gambling-company-are-among-top-donors-to-beshear-super-pac/) (Tier 2) (VERIFIED)
+- [Kentucky Lantern: Beshear's super PAC steps up fundraising](https://kentuckylantern.com/2026/02/02/kentucky-democrat-andy-beshears-super-pac-steps-up-fundraising-in-its-second-year/) (Tier 2) (VERIFIED)
+- [Kentucky Lantern: Investigation of straw donations to Beshear](https://kentuckylantern.com/2025/03/20/rare-inside-view-of-money-race-revealed-by-investigation-of-straw-donations-to-boost-beshear/) (Tier 2) (VERIFIED)

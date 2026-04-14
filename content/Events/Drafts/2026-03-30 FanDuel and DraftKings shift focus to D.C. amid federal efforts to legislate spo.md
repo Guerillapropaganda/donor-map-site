@@ -13,7 +13,7 @@ profiles:
 
 ## FanDuel and DraftKings shift focus to D.C. amid federal efforts to legislate sports betting
 
-**Source:** [OpenSecrets Blog](https://www.opensecrets.org/news/2026/03/fanduel-and-draftkings-shift-focus-to-d-c-amid-federal-efforts-to-legislate-sports-betting)
+**Source:** [OpenSecrets Blog](https://www.opensecrets.org/news/2026/03/fanduel-and-draftkings-shift-focus-to-d-c-amid-federal-efforts-to-legislate-sports-betting) (VERIFIED)
 **Date:** 2026-03-30
 
 <p>(Photo generated with OpenAI) As Americans spend billions wagering on March Madness, FanDuel and DraftKings are hedging their bets in…</p>

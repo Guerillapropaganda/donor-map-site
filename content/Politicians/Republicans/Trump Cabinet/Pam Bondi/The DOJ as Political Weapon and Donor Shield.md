@@ -69,5 +69,5 @@ House Oversight Chair James Comer subpoenaed Bondi (March 2026) to testify on DO
 
 ### Sources
 
-- [Public Citizen: Conflicted Justice — Bondi lobbying conflicts report](https://www.citizen.org/article/conflicted-justice/) (Tier 2)
-- [Senator Warren: Demand Bondi recuse from Warner Bros. deal review](https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-demand-bondi-recuse-from-warner-bros-deal-review-amid-apparent-conflicts-of-interest-trump-doj-cloud-of-corruption) (Tier 1)
+- [Public Citizen: Conflicted Justice — Bondi lobbying conflicts report](https://www.citizen.org/article/conflicted-justice/) (Tier 2) (VERIFIED)
+- [Senator Warren: Demand Bondi recuse from Warner Bros. deal review](https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-demand-bondi-recuse-from-warner-bros-deal-review-amid-apparent-conflicts-of-interest-trump-doj-cloud-of-corruption) (Tier 1) (VERIFIED)

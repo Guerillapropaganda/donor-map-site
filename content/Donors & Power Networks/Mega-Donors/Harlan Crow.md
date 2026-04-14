@@ -32,7 +32,7 @@ audit-a-plus-passed: "2026-04-11"
 
 ### Who They Are
 
-[[Harlan Crow]]. Billionaire real estate developer (Crow Holdings). Heir to Trammell Crow Company fortune. Provider of the most extensively documented pattern of gifts to a sitting Supreme Court justice in modern American history: $4.75 million+ to [[_Clarence Thomas Master Profile|Clarence Thomas]] over 30+ years [Source: [Senate Judiciary Committee: Ethical Crisis at the Supreme Court](https://www.judiciary.senate.gov/supreme-court-ethics) *(source unavailable)* (Tier 1)]. Gifts include: superyacht cruises, private jet flights on Bombardier Global 5000, luxury resort access (Bohemian Grove, Adirondacks Camp Topridge, East Texas ranch), real estate purchases ($133K for Thomas's mother's home), boarding school tuition for Thomas's grand-nephew, a $19K Bible, a $15K Lincoln bust. Collector of Nazi memorabilia (signed "Mein Kampf," Hitler paintings, Nazi insignia linens). Seed funder of Liberty Central ($500K. Ginni Thomas/[[Leonard Leo|Leonard Leo]] organization). $100K+ to Leo's Teneo Network. Refused to comply with Senate Judiciary Committee subpoena [Source: [ProPublica: Senate investigation of Crow and Leo gifts](https://www.propublica.org/article/clarence-thomas-harlan-crow-private-jet-flights-senate-investigation-scotus) (Tier 2)].
+[[Harlan Crow]]. Billionaire real estate developer (Crow Holdings). Heir to Trammell Crow Company fortune. Provider of the most extensively documented pattern of gifts to a sitting Supreme Court justice in modern American history: $4.75 million+ to [[_Clarence Thomas Master Profile|Clarence Thomas]] over 30+ years ~~[Source: [Senate Judiciary Committee: Ethical Crisis at the Supreme Court](https://www.judiciary.senate.gov/supreme-court-ethics)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 1)]. Gifts include: superyacht cruises, private jet flights on Bombardier Global 5000, luxury resort access (Bohemian Grove, Adirondacks Camp Topridge, East Texas ranch), real estate purchases ($133K for Thomas's mother's home), boarding school tuition for Thomas's grand-nephew, a $19K Bible, a $15K Lincoln bust. Collector of Nazi memorabilia (signed "Mein Kampf," Hitler paintings, Nazi insignia linens). Seed funder of Liberty Central ($500K. Ginni Thomas/[[Leonard Leo|Leonard Leo]] organization). $100K+ to Leo's Teneo Network. Refused to comply with Senate Judiciary Committee subpoena [Source: [ProPublica: Senate investigation of Crow and Leo gifts](https://www.propublica.org/article/clarence-thomas-harlan-crow-private-jet-flights-senate-investigation-scotus) (Tier 2) (VERIFIED)].
 
 ---
 
@@ -88,7 +88,7 @@ Crow's influence extends well beyond gifts to a single justice. OpenSecrets docu
 
 The Cornel West donation is the tell. Crow funded a third-party candidate who would siphon votes from Biden/Democrats. This is not ideological; it's strategic disruption.
 
-[Source: [OpenSecrets: Crow Holdings summary](https://www.opensecrets.org/orgs/crow-holdings/summary?id=D000021943) (Tier 1); [CREW: Harlan Crow's dark money connections](https://www.citizensforethics.org/news/analysis/harlan-crows-deep-dark-money-connections/) (Tier 2); [OpenSecrets: Harlan Crow political ramping](https://www.opensecrets.org/news/2023/04/harlan-and-kathy-crow-ramped-up-political-contributions-over-the-decades-since-meeting-u-s-supreme-court-justice-clarence-thomas/) (Tier 2)]
+[Source: [OpenSecrets: Crow Holdings summary](https://www.opensecrets.org/orgs/crow-holdings/summary?id=D000021943) (Tier 1) (VERIFIED); [CREW: Harlan Crow's dark money connections](https://www.citizensforethics.org/news/analysis/harlan-crows-deep-dark-money-connections/) (Tier 2) (VERIFIED); [OpenSecrets: Harlan Crow political ramping](https://www.opensecrets.org/news/2023/04/harlan-and-kathy-crow-ramped-up-political-contributions-over-the-decades-since-meeting-u-s-supreme-court-justice-clarence-thomas/) (Tier 2) (VERIFIED)]
 
 ---
 
@@ -123,8 +123,8 @@ The Senate Judiciary Committee's December 2024 report found that Crow's gifts to
 
 ### Sources
 
-- [ProPublica: Clarence Thomas luxury travel investigation](https://www.propublica.org/article/clarence-thomas-scotus-undisclosed-luxury-travel-gifts-crow) (Tier 2)
-- [ProPublica: Billionaire Harlan Crow Bought Property From Clarence Thomas. The Justice Didn't Disclose the Deal.](https://www.propublica.org/article/clarence-thomas-harlan-crow-real-estate-scotus) (Tier 2)
+- [ProPublica: Clarence Thomas luxury travel investigation](https://www.propublica.org/article/clarence-thomas-scotus-undisclosed-luxury-travel-gifts-crow) (Tier 2) (VERIFIED)
+- [ProPublica: Billionaire Harlan Crow Bought Property From Clarence Thomas. The Justice Didn't Disclose the Deal.](https://www.propublica.org/article/clarence-thomas-harlan-crow-real-estate-scotus) (Tier 2) (VERIFIED)
 - [ProPublica: Senate investigation of Crow and Leo gifts](https://www.propublica.org/article/clarence-thomas-harlan-crow-private-jet-flights-senate-investigation-scotus) (Tier 2)
 ---
 
@@ -151,7 +151,7 @@ The Senate Judiciary Committee's December 2024 report found that Crow's gifts to
 | Total Expenses | $3K |
 | Net Assets | $4K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 463077371](https://projects.propublica.org/nonprofits/organizations/463077371) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 463077371](https://projects.propublica.org/nonprofits/organizations/463077371) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Campaign Finance (FEC)
@@ -176,7 +176,7 @@ The Senate Judiciary Committee's December 2024 report found that Crow's gifts to
 | BLACK BEAR PAC, INC. | $107,000 | — |
 | CORNYN LONESTAR VICTORY FUND | $100,000 | — |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Harlan%20Crow) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Harlan%20Crow) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### Lobbying Activity
@@ -195,7 +195,7 @@ The Senate Judiciary Committee's December 2024 report found that Crow's gifts to
 
 **Agencies contacted:** HOUSE OF REPRESENTATIVES, SENATE
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Harlan%20Crow) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Harlan%20Crow) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)
@@ -233,12 +233,12 @@ The Senate Judiciary Committee's December 2024 report found that Crow's gifts to
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/752805870/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/752805870/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/752805870/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/752805870/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/752805870/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/752805870/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/752805870/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/752805870/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/752805870/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/752805870/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/752805870) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/752805870) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->

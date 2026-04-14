@@ -146,14 +146,14 @@ The 2025 strategy shift from federal politics to state judicial elections reveal
 
 ### Sources
 
-- [FEC: George Soros individual contributions 2004-2024](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=soros) (Tier 1)
-- [OpenSecrets: Senate Majority PAC spending 2024](https://www.opensecrets.org/groups/240364) (Tier 1)
-- [OpenSecrets: George Soros donor profile](https://www.opensecrets.org/donor/top/soros-george) (Tier 2)
-- [ProPublica: "George Soros's Quiet Influence on U.S. justice system"](https://www.propublica.org/article/police-politicians-undermined-reform-prosecutors-chicago-philadelphia) (Tier 2)
-- [Wall Street Journal: "George Soros Is Done Trying to Change the World"](https://www.wsj.com/articles/george-soros-says-he-is-done-trying-to-change-the-world-11581961205) (Tier 2)
-- [New York Times: "George Soros Is Giving His Billions to Democrats. And They're Nervous."](https://www.nytimes.com/2023/10/17/us/politics/soros-donations-democrats.html) (Tier 2)
-- [Wisconsin State Journal: "Soros gives $2M to Wisconsin state court elections 2025"](https://madison.com/news/local/government-and-politics/elections) (Tier 3)
-- [Open Society Foundations: Annual reports and grant databases](https://www.opensocietyfoundations.org/publications) (Tier 1)
+- [FEC: George Soros individual contributions 2004-2024](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=soros) (Tier 1) (VERIFIED)
+- ~~[OpenSecrets: Senate Majority PAC spending 2024](https://www.opensecrets.org/groups/240364)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: George Soros donor profile](https://www.opensecrets.org/donor/top/soros-george)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [ProPublica: "George Soros's Quiet Influence on U.S. justice system"](https://www.propublica.org/article/police-politicians-undermined-reform-prosecutors-chicago-philadelphia) (Tier 2) (VERIFIED)
+- ~~[Wall Street Journal: "George Soros Is Done Trying to Change the World"](https://www.wsj.com/articles/george-soros-says-he-is-done-trying-to-change-the-world-11581961205)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[New York Times: "George Soros Is Giving His Billions to Democrats. And They're Nervous."](https://www.nytimes.com/2023/10/17/us/politics/soros-donations-democrats.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Wisconsin State Journal: "Soros gives $2M to Wisconsin state court elections 2025"](https://madison.com/news/local/government-and-politics/elections)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [Open Society Foundations: Annual reports and grant databases](https://www.opensocietyfoundations.org/publications) (Tier 1) (VERIFIED)
 
 ---
 
@@ -187,7 +187,7 @@ The 2025 strategy shift from federal politics to state judicial elections reveal
 - PROTECT DEMOCRACY PROJECT v. U.S. DEPARTMENT OF THE TREASURY (2025) — District Court, District of Columbia
 - Kotevski v. Bush (2025) — District Court, D. Nevada
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22George%20Soros%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22George%20Soros%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -199,7 +199,7 @@ The 2025 strategy shift from federal politics to state judicial elections reveal
 | Total Expenses | $906 |
 | Net Assets | $1K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 830650656](https://projects.propublica.org/nonprofits/organizations/830650656) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 830650656](https://projects.propublica.org/nonprofits/organizations/830650656) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Federal Register Activity
@@ -214,15 +214,15 @@ The 2025 strategy shift from federal politics to state judicial elections reveal
 | Agencies | Executive Office of the President, Federal Trade Commission, Securities and Exchange Commission |
 
 **Recent regulatory activity:**
-- [Addressing Risks From Perkins Coie LLP](https://www.federalregister.gov/documents/2025/03/11/2025-03989/addressing-risks-from-perkins-coie-llp) (2025-03-11) — Executive Office of the President
-- [Disclosure of Payments by Resource Extraction Issuers](https://www.federalregister.gov/documents/2016/07/27/2016-15676/disclosure-of-payments-by-resource-extraction-issuers) (2016-07-27) — Securities and Exchange Commission
-- [Disclosure of Payments by Resource Extraction Issuers](https://www.federalregister.gov/documents/2015/12/23/2015-31702/disclosure-of-payments-by-resource-extraction-issuers) (2015-12-23) — Securities and Exchange Commission
-- [Disclosure of Payments by Resource Extraction Issuers](https://www.federalregister.gov/documents/2012/09/12/2012-21155/disclosure-of-payments-by-resource-extraction-issuers) (2012-09-12) — Securities and Exchange Commission
-- [Amendments to Regulation SHO](https://www.federalregister.gov/documents/2010/03/10/2010-4409/amendments-to-regulation-sho) (2010-03-10) — Securities and Exchange Commission
-- [Amendments to Regulation SHO](https://www.federalregister.gov/documents/2009/04/20/E9-8730/amendments-to-regulation-sho) (2009-04-20) — Securities and Exchange Commission
+- [Addressing Risks From Perkins Coie LLP](https://www.federalregister.gov/documents/2025/03/11/2025-03989/addressing-risks-from-perkins-coie-llp) (VERIFIED) (2025-03-11) — Executive Office of the President
+- [Disclosure of Payments by Resource Extraction Issuers](https://www.federalregister.gov/documents/2016/07/27/2016-15676/disclosure-of-payments-by-resource-extraction-issuers) (VERIFIED) (2016-07-27) — Securities and Exchange Commission
+- [Disclosure of Payments by Resource Extraction Issuers](https://www.federalregister.gov/documents/2015/12/23/2015-31702/disclosure-of-payments-by-resource-extraction-issuers) (VERIFIED) (2015-12-23) — Securities and Exchange Commission
+- [Disclosure of Payments by Resource Extraction Issuers](https://www.federalregister.gov/documents/2012/09/12/2012-21155/disclosure-of-payments-by-resource-extraction-issuers) (VERIFIED) (2012-09-12) — Securities and Exchange Commission
+- [Amendments to Regulation SHO](https://www.federalregister.gov/documents/2010/03/10/2010-4409/amendments-to-regulation-sho) (VERIFIED) (2010-03-10) — Securities and Exchange Commission
+- [Amendments to Regulation SHO](https://www.federalregister.gov/documents/2009/04/20/E9-8730/amendments-to-regulation-sho) (VERIFIED) (2009-04-20) — Securities and Exchange Commission
 - ... and 4 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22George%20Soros%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22George%20Soros%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### SEC Filing Activity
@@ -240,7 +240,7 @@ The 2025 strategy shift from federal politics to state judicial elections reveal
 - 2013-02-14 — **SC 13G/A**: SC 13G/A
 - 2016-02-16 — **SC 13G/A**: SC 13G/A
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22George%20Soros%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22George%20Soros%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Tax Filings (IRS 990)
@@ -258,20 +258,20 @@ The 2025 strategy shift from federal politics to state judicial elections reveal
 **Filing history:** 2023, 2022, 2021, 2020, 2019
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/830650656/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/830650656/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/830650656/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/830650656/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/830650656/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/830650656/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/830650656/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/830650656/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/830650656/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/830650656/2019)~~ (URL broken, archived by Ops)
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/830650656) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/830650656) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [549300N08KWU11RFO340](https://search.gleif.org/#/record/549300N08KWU11RFO340) |
+| LEI | [549300N08KWU11RFO340](https://search.gleif.org/#/record/549300N08KWU11RFO340) (VERIFIED) |
 | Legal Name | QUANTUM INVESTMENTS LTD. |
 | Jurisdiction | KY |
 | Entity Status | ACTIVE |
@@ -281,10 +281,10 @@ The 2025 strategy shift from federal politics to state judicial elections reveal
 
 **Ownership chain:**
 
-- Ultimate Parent: [Quantum Partners LP](https://search.gleif.org/#/record/5493001O43804SXJTO88) (KY)
+- Ultimate Parent: [Quantum Partners LP](https://search.gleif.org/#/record/5493001O43804SXJTO88) (VERIFIED) (KY)
 - QUANTUM INVESTMENTS LTD. (this entity)
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Lobbying Activity
@@ -303,7 +303,7 @@ The 2025 strategy shift from federal politics to state judicial elections reveal
 
 **Agencies contacted:** Agriculture, Dept of (USDA), Army, Dept of (Corps of Engineers), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Economic Development Administration, Energy, Dept of, Executive Office of the President (EOP), Federal Aviation Administration (FAA), Federal Emergency Management Agency (FEMA), General Services Administration (GSA) +8 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=George%20Soros) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=George%20Soros) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

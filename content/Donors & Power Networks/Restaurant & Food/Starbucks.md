@@ -88,9 +88,9 @@ Reduced NLRB enforcement power, opposition to the PRO Act (which would strengthe
 
 ### Sources
 
-- [NLRB: Starbucks unfair labor practice complaints](https://www.nlrb.gov/case/02-CA-261884) (Tier 1)
-- [OpenSecrets: Starbucks lobbying](https://www.opensecrets.org/orgs/starbucks/summary?id=D000042571) (Tier 1)
-- [Ballotpedia: Starbucks labor practices](https://ballotpedia.org/Starbucks) (Tier 3)
+- [NLRB: Starbucks unfair labor practice complaints](https://www.nlrb.gov/case/02-CA-261884) (Tier 1) (VERIFIED)
+- ~~[OpenSecrets: Starbucks lobbying](https://www.opensecrets.org/orgs/starbucks/summary?id=D000042571)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Ballotpedia: Starbucks labor practices](https://ballotpedia.org/Starbucks) (Tier 3) (VERIFIED)
 
 ---
 
@@ -136,7 +136,7 @@ Reduced NLRB enforcement power, opposition to the PRO Act (which would strengthe
 |------------------|--------|--------|
 | Unknown | $1009778941.6B | 50 |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Starbucks) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Starbucks) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### SEC Filing Activity
@@ -150,13 +150,13 @@ Reduced NLRB enforcement power, opposition to the PRO Act (which would strengthe
 
 **Notable filings:**
 
-- 2026-04-06 — **144**: [144](https://www.sec.gov/Archives/edgar/data/829224/000195917326002781/0001959173-26-002781-index.htm)
-- 2026-04-02 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/829224/000082922426000064/0000829224-26-000064-index.htm)
-- 2026-03-31 — **PX14A6G**: [PX14A6G](https://www.sec.gov/Archives/edgar/data/829224/000121465926004126/0001214659-26-004126-index.htm)
-- 2026-03-30 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/829224/000082922426000058/0000829224-26-000058-index.htm)
-- 2026-03-27 — **4**: [PRIMARY DOCUMENT](https://www.sec.gov/Archives/edgar/data/829224/000082922426000056/0000829224-26-000056-index.htm)
+- 2026-04-06 — **144**: [144](https://www.sec.gov/Archives/edgar/data/829224/000195917326002781/0001959173-26-002781-index.htm) (VERIFIED)
+- 2026-04-02 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/829224/000082922426000064/0000829224-26-000064-index.htm) (VERIFIED)
+- 2026-03-31 — **PX14A6G**: [PX14A6G](https://www.sec.gov/Archives/edgar/data/829224/000121465926004126/0001214659-26-004126-index.htm) (VERIFIED)
+- 2026-03-30 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/829224/000082922426000058/0000829224-26-000058-index.htm) (VERIFIED)
+- 2026-03-27 — **4**: [PRIMARY DOCUMENT](https://www.sec.gov/Archives/edgar/data/829224/000082922426000056/0000829224-26-000056-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Starbucks%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Starbucks%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Product Recalls (CPSC)
@@ -170,15 +170,15 @@ Reduced NLRB enforcement power, opposition to the PRO Act (which would strengthe
 
 **Recent recalls:**
 
-- [Nestlé USA Recalls Metallic Mugs Sold with Starbucks-Branded Gift Sets Due to Burn and Laceration Hazards](https://www.cpsc.gov/Recalls/24171) (2024-03-21) — If microwaved or filled with extremely hot liquid, the mugs can overheat or break, posing burn and laceration hazards.
-- [Starbucks Recalls Bodum Recycled Coffee Presses Due to Laceration Hazard](https://www.cpsc.gov/Recalls/19114) (2019-05-01) — The coffee press' plunger knob can break and expose the metal rod, posing a laceration hazard.
-- [Laceration Injuries to Children Prompt Starbucks to Recall Stainless Steel Beverage Straws to Provide New Warnings](https://www.cpsc.gov/Recalls/16236) (2016-08-02) — The stainless steel straws are rigid and can poke children in the mouth, posing a risk of injury.
-- [Bodum USA Recalls Coffee Presses Sold Exclusively at Starbucks Due to Laceration and Burn Hazards](https://www.cpsc.gov/Recalls/14092) (2014-01-28) — The glass carafe can fall out of the metal frame and plastic base of the coffee press and break or shatter, posing laceration and burn hazards to consumers.
-- [Starbucks Recalls Glass Water Bottles Due to Laceration Hazard](https://www.cpsc.gov/Recalls/10125) (2010-01-28) — The glass water bottle and/or its stopper can shatter when the consumer is removing or inserting the stopper, posing a laceration hazard to consumers.
-- [Laceration Hazard Prompts Recall by Starbucks of Coffee Grinders; Made by Tsann Kuen](https://www.cpsc.gov/Recalls/09244) (2009-06-16) — The grinder can fail to turn off or can turn on unexpectedly, posing a laceration hazard to consumers.
+- ~~[Nestlé USA Recalls Metallic Mugs Sold with Starbucks-Branded Gift Sets Due to Burn and Laceration Hazards](https://www.cpsc.gov/Recalls/24171)~~ (URL broken, archived by Ops) (2024-03-21) — If microwaved or filled with extremely hot liquid, the mugs can overheat or break, posing burn and laceration hazards.
+- ~~[Starbucks Recalls Bodum Recycled Coffee Presses Due to Laceration Hazard](https://www.cpsc.gov/Recalls/19114)~~ (URL broken, archived by Ops) (2019-05-01) — The coffee press' plunger knob can break and expose the metal rod, posing a laceration hazard.
+- ~~[Laceration Injuries to Children Prompt Starbucks to Recall Stainless Steel Beverage Straws to Provide New Warnings](https://www.cpsc.gov/Recalls/16236)~~ (URL broken, archived by Ops) (2016-08-02) — The stainless steel straws are rigid and can poke children in the mouth, posing a risk of injury.
+- ~~[Bodum USA Recalls Coffee Presses Sold Exclusively at Starbucks Due to Laceration and Burn Hazards](https://www.cpsc.gov/Recalls/14092)~~ (URL broken, archived by Ops) (2014-01-28) — The glass carafe can fall out of the metal frame and plastic base of the coffee press and break or shatter, posing laceration and burn hazards to consumers.
+- ~~[Starbucks Recalls Glass Water Bottles Due to Laceration Hazard](https://www.cpsc.gov/Recalls/10125)~~ (URL broken, archived by Ops) (2010-01-28) — The glass water bottle and/or its stopper can shatter when the consumer is removing or inserting the stopper, posing a laceration hazard to consumers.
+- ~~[Laceration Hazard Prompts Recall by Starbucks of Coffee Grinders; Made by Tsann Kuen](https://www.cpsc.gov/Recalls/09244)~~ (URL broken, archived by Ops) (2009-06-16) — The grinder can fail to turn off or can turn on unexpectedly, posing a laceration hazard to consumers.
 - ... and 5 more
 
-- [Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Starbucks) (Tier 1)
+- ~~[Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Starbucks)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:cpsc-recalls end -->
 
 ### Vehicle Safety (NHTSA)
@@ -196,7 +196,7 @@ Reduced NLRB enforcement power, opposition to the PRO Act (which would strengthe
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Starbucks) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Starbucks) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Tax Filings (IRS 990)
@@ -214,14 +214,14 @@ Reduced NLRB enforcement power, opposition to the PRO Act (which would strengthe
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/911795425/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/911795425/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/911795425/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/911795425/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/911795425/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/911795425/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/911795425/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/911795425/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/911795425/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/911795425/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/911795425) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/911795425) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### DOJ Press Releases
@@ -243,7 +243,7 @@ Reduced NLRB enforcement power, opposition to the PRO Act (which would strengthe
 
 **Agencies contacted:** Agriculture, Dept of (USDA), Commerce, Dept of (DOC), Executive Office of the President (EOP), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Labor, Dept of (DOL), SENATE, Treasury, Dept of, U.S. Trade Representative (USTR), Veterans Affairs, Dept of (VA) +1 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Starbucks) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Starbucks) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Federal Court Records (CourtListener)
@@ -262,7 +262,7 @@ Reduced NLRB enforcement power, opposition to the PRO Act (which would strengthe
 - Quantion LLC v. The Coca-Cola Company (2026) — District Court, D. Delaware
 - Quantion LLC v. Six Continents Hotels, Inc. (2026) — District Court, D. Delaware
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Starbucks%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Starbucks%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Register Activity
@@ -276,13 +276,13 @@ Reduced NLRB enforcement power, opposition to the PRO Act (which would strengthe
 | Agencies | Antitrust Division, Defense Department, Drug Enforcement Administration, Environmental Protection Agency, Federal Communications Commission, Federal Trade Commission, Justice Department, National Highway Traffic Safety Administration +4 more |
 
 **Recent regulatory activity:**
-- [Preventing Access to U.S. Sensitive Personal Data and Government-Related Data by Countries of Concern or Covered Persons](https://www.federalregister.gov/documents/2025/01/08/2024-31486/preventing-access-to-us-sensitive-personal-data-and-government-related-data-by-countries-of-concern) (2025-01-08) — Justice Department
-- [Provisions Pertaining to Preventing Access to U.S. Sensitive Personal Data and Government-Related Data by Countries of Concern or Covered Persons](https://www.federalregister.gov/documents/2024/10/29/2024-24582/provisions-pertaining-to-preventing-access-to-us-sensitive-personal-data-and-government-related-data) (2024-10-29) — Justice Department
-- [Representation-Case Procedures: Election Bars; Proof of Majority Support in Construction Industry Collective-Bargaining Relationships](https://www.federalregister.gov/documents/2024/08/01/2024-16535/representation-case-procedures-election-bars-proof-of-majority-support-in-construction-industry) (2024-08-01) — National Labor Relations Board ★
-- [Multi-Pollutant Emissions Standards for Model Years 2027 and Later Light-Duty and Medium-Duty Vehicles](https://www.federalregister.gov/documents/2024/04/18/2024-06214/multi-pollutant-emissions-standards-for-model-years-2027-and-later-light-duty-and-medium-duty) (2024-04-18) — Environmental Protection Agency
-- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-TM Forum, A New Jersey Non-Profit Corporation](https://www.federalregister.gov/documents/2024/04/16/2024-07981/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-tm-forum-a-new) (2024-04-16) — Justice Department
-- [National Security Division; Provisions Regarding Access to Americans' Bulk Sensitive Personal Data and Government-Related Data by Countries of Concern](https://www.federalregister.gov/documents/2024/03/05/2024-04594/national-security-division-provisions-regarding-access-to-americans-bulk-sensitive-personal-data-and) (2024-03-05) — Justice Department
+- [Preventing Access to U.S. Sensitive Personal Data and Government-Related Data by Countries of Concern or Covered Persons](https://www.federalregister.gov/documents/2025/01/08/2024-31486/preventing-access-to-us-sensitive-personal-data-and-government-related-data-by-countries-of-concern) (VERIFIED) (2025-01-08) — Justice Department
+- [Provisions Pertaining to Preventing Access to U.S. Sensitive Personal Data and Government-Related Data by Countries of Concern or Covered Persons](https://www.federalregister.gov/documents/2024/10/29/2024-24582/provisions-pertaining-to-preventing-access-to-us-sensitive-personal-data-and-government-related-data) (VERIFIED) (2024-10-29) — Justice Department
+- [Representation-Case Procedures: Election Bars; Proof of Majority Support in Construction Industry Collective-Bargaining Relationships](https://www.federalregister.gov/documents/2024/08/01/2024-16535/representation-case-procedures-election-bars-proof-of-majority-support-in-construction-industry) (VERIFIED) (2024-08-01) — National Labor Relations Board ★
+- [Multi-Pollutant Emissions Standards for Model Years 2027 and Later Light-Duty and Medium-Duty Vehicles](https://www.federalregister.gov/documents/2024/04/18/2024-06214/multi-pollutant-emissions-standards-for-model-years-2027-and-later-light-duty-and-medium-duty) (VERIFIED) (2024-04-18) — Environmental Protection Agency
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-TM Forum, A New Jersey Non-Profit Corporation](https://www.federalregister.gov/documents/2024/04/16/2024-07981/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-tm-forum-a-new) (VERIFIED) (2024-04-16) — Justice Department
+- [National Security Division; Provisions Regarding Access to Americans' Bulk Sensitive Personal Data and Government-Related Data by Countries of Concern](https://www.federalregister.gov/documents/2024/03/05/2024-04594/national-security-division-provisions-regarding-access-to-americans-bulk-sensitive-personal-data-and) (VERIFIED) (2024-03-05) — Justice Department
 - ... and 36 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Starbucks%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Starbucks%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->

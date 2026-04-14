@@ -127,18 +127,18 @@ AFPM is the fossil fuel industry's collective action vehicle, a $61.4M trade ass
 
 ### Sources
 
-- [AFPM: About Us](https://afpm.org/about-us/about-us) (Tier 3)
-- [AFPM: History](https://afpm.org/about-afpm/our-history) (Tier 3)
-- [AFPM: CEO Chet Thompson](https://www.afpm.org/about-afpm/staff-directory/chet-thompson-president-and-ceo) (Tier 3)
-- [AFPM: Statement on Trump executive orders](https://www.afpm.org/newsroom/news/afpm-statement-president-trumps-executive-orders-unleashing-american-energy) (Tier 3) (URL NEEDED)
-- [Wikipedia: AFPM](https://en.wikipedia.org/wiki/American_Fuel_and_Petrochemical_Manufacturers) (Tier 4)
-- [ProPublica: AFPM 990 filings](https://projects.propublica.org/nonprofits/organizations/130433430) (Tier 1)
-- [OpenSecrets: AFPM contributions](https://www.opensecrets.org/orgs/american-fuel-petrochemical-manufacturers/summary?id=D000000481) (Tier 1)
-- [OpenSecrets: AFPM summary (alt ID)](https://www.opensecrets.org/orgs/american-fuel-petrochem-manufacturers/summary?id=D000027874) (Tier 1)
-- [Senate LDA Filings: AFPM lobbying](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA Filings: AFPM lobbying (alt ID)](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [DeSmog: AFPM profile](https://www.desmog.com/american-fuel-petrochemical-manufacturers-afpm/) (Tier 2)
-- [LinkedIn: AFPM](https://www.linkedin.com/company/american-fuel-&-petrochemical-manufacturers-afpm-) (Tier 4)
+- [AFPM: About Us](https://afpm.org/about-us/about-us) (Tier 3) (VERIFIED)
+- [AFPM: History](https://afpm.org/about-afpm/our-history) (Tier 3) (VERIFIED)
+- [AFPM: CEO Chet Thompson](https://www.afpm.org/about-afpm/staff-directory/chet-thompson-president-and-ceo) (Tier 3) (VERIFIED)
+- ~~[AFPM: Statement on Trump executive orders](https://www.afpm.org/newsroom/news/afpm-statement-president-trumps-executive-orders-unleashing-american-energy)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3) (URL NEEDED)
+- [Wikipedia: AFPM](https://en.wikipedia.org/wiki/American_Fuel_and_Petrochemical_Manufacturers) (Tier 4) (VERIFIED)
+- [ProPublica: AFPM 990 filings](https://projects.propublica.org/nonprofits/organizations/130433430) (Tier 1) (VERIFIED)
+- [OpenSecrets: AFPM contributions](https://www.opensecrets.org/orgs/american-fuel-petrochemical-manufacturers/summary?id=D000000481) (Tier 1) (VERIFIED)
+- [OpenSecrets: AFPM summary (alt ID)](https://www.opensecrets.org/orgs/american-fuel-petrochem-manufacturers/summary?id=D000027874) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: AFPM lobbying](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: AFPM lobbying (alt ID)](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [DeSmog: AFPM profile](https://www.desmog.com/american-fuel-petrochemical-manufacturers-afpm/) (Tier 2) (VERIFIED)
+- [LinkedIn: AFPM](https://www.linkedin.com/company/american-fuel-&-petrochemical-manufacturers-afpm-) (Tier 4) (VERIFIED)
 
 ---
 
@@ -170,7 +170,7 @@ AFPM is the fossil fuel industry's collective action vehicle, a $61.4M trade ass
 - FUTURE GATE FUEL AND PETROCHEMICAL TRADING L.L.C. (-0-) [IRAN-EO13846]
   - Remarks: Additional Sanctions Information - Subject to Secondary Sanctions; Organization Established Date 17 Mar 2020; Commercial Registry Number 11510153 (United Arab Emirates); License 885714 (United Arab Em...
 
-- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -185,7 +185,7 @@ AFPM is the fossil fuel industry's collective action vehicle, a $61.4M trade ass
 | Net Assets | $74.5M |
 | Officer Compensation | $7.3M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 530115970](https://projects.propublica.org/nonprofits/organizations/530115970) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 530115970](https://projects.propublica.org/nonprofits/organizations/530115970) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Vehicle Safety (NHTSA)
@@ -203,7 +203,7 @@ AFPM is the fossil fuel industry's collective action vehicle, a $61.4M trade ass
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=American%20Fuel%20and%20Petrochemical%20Manufacturers) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=American%20Fuel%20and%20Petrochemical%20Manufacturers) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Federal Court Records (CourtListener)
@@ -222,7 +222,7 @@ AFPM is the fossil fuel industry's collective action vehicle, a $61.4M trade ass
 - In Re: MCP 197 (2025) — Court of Appeals for the First Circuit
 - Center for Biological Diversity v. National Highway Traffic Safety Administration (2025) — Court of Appeals for the First Circuit
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22American%20Fuel%20and%20Petrochemical%20Manufacturers%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22American%20Fuel%20and%20Petrochemical%20Manufacturers%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Lobbying Activity
@@ -241,7 +241,7 @@ AFPM is the fossil fuel industry's collective action vehicle, a $61.4M trade ass
 
 **Agencies contacted:** Agriculture, Dept of (USDA), Army, Dept of (Corps of Engineers), Bureau of Land Management (BLM), Centers For Disease Control & Prevention (CDC), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Consumer Financial Protection Bureau (CFPB), Defense, Dept of (DOD), Education, Dept of, Energy, Dept of +35 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=American%20Fuel%20and%20Petrochemical%20Manufacturers) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=American%20Fuel%20and%20Petrochemical%20Manufacturers) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Tax Filings (IRS 990)
@@ -258,14 +258,14 @@ AFPM is the fossil fuel industry's collective action vehicle, a $61.4M trade ass
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2016, 2015
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/530115970/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/530115970/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/530115970/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/530115970/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/530115970/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/530115970/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/530115970/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/530115970/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/530115970/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/530115970/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/530115970) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/530115970) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### SEC Filing Activity
@@ -283,5 +283,5 @@ AFPM is the fossil fuel industry's collective action vehicle, a $61.4M trade ass
 - 2015-05-07 — **8-K**: FORM 8-K
 - 2021-04-14 — **PX14A6G**: PX14A6G
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22American%20Fuel%20and%20Petrochemical%20Manufacturers%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22American%20Fuel%20and%20Petrochemical%20Manufacturers%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->

@@ -131,15 +131,15 @@ The donor class gets exactly what it paid for. Leo's network invested decades in
 
 ## Sources
 
-- [Senate Judiciary Committee: Samuel Alito Confirmation Hearings (2006)](https://www.senate.gov/pagelayout/general/one_item_and_teasers/waf.htm) (Tier 1)
-- [Supreme Court: Justice Alito Official Financial Disclosure](https://www.supremecourt.gov/errors/PageNotFound.aspx?aspxerrorpath=/about/justices-associate-justices.aspx) (Tier 1)
-- [ProPublica: Alito Took Unreported Luxury Trip With GOP Donor Paul Singer](https://www.propublica.org/article/samuel-alito-luxury-fishing-trip-paul-singer-scotus-supreme-court) (Tier 2)
-- [PBS News: Supreme Court Justice Alito faces scrutiny over undisclosed luxury trip from GOP donor](https://www.pbs.org/newshour/show/supreme-court-justice-alito-faces-scrutiny-over-undisclosed-luxury-trip-from-gop-donor) (Tier 2)
-- [The Nation: Matchmaker Leonard Leo Helps Unite Billionaires With Supreme Court Justices](https://www.thenation.com/article/politics/leo-alito-court-curruption/) (Tier 2)
-- [Slate: Alito's Hobby Lobby leak: The real problem with SCOTUS ethics rules right now](https://slate.com/news-and-politics/2022/11/alito-leak-hobby-lobby-real-problem.html) (Tier 2)
-- [True North Research: Five Facts about Rob Arkley, Funder of Luxury Travel for Supreme Court Justices](https://truenorthresearch.org/2023/11/five-facts-about-rob-arkley-funder-of-luxury-travel-for-supreme-court-justices-and-groups-packing-the-court/) (Tier 2)
-- [E&E News/Politico: Supreme Court steps up recusal checks after Alito near-miss in Louisiana oil case](https://www.eenews.net/articles/supreme-court-steps-up-recusal-checks-after-alito-near-miss-in-louisiana-oil-case/) (Tier 2)
-- [Washington Post: Martha-Ann Alito told The Post in 2021 that flag was 'signal of distress'](https://www.washingtonpost.com/politics/2024/05/25/alito-flag-martha-ann-washington-post/) (Tier 2)
+- [Senate Judiciary Committee: Samuel Alito Confirmation Hearings (2006)](https://www.senate.gov/pagelayout/general/one_item_and_teasers/waf.htm) (Tier 1) (VERIFIED)
+- [Supreme Court: Justice Alito Official Financial Disclosure](https://www.supremecourt.gov/errors/PageNotFound.aspx?aspxerrorpath=/about/justices-associate-justices.aspx) (Tier 1) (VERIFIED)
+- [ProPublica: Alito Took Unreported Luxury Trip With GOP Donor Paul Singer](https://www.propublica.org/article/samuel-alito-luxury-fishing-trip-paul-singer-scotus-supreme-court) (Tier 2) (VERIFIED)
+- [PBS News: Supreme Court Justice Alito faces scrutiny over undisclosed luxury trip from GOP donor](https://www.pbs.org/newshour/show/supreme-court-justice-alito-faces-scrutiny-over-undisclosed-luxury-trip-from-gop-donor) (Tier 2) (VERIFIED)
+- [The Nation: Matchmaker Leonard Leo Helps Unite Billionaires With Supreme Court Justices](https://www.thenation.com/article/politics/leo-alito-court-curruption/) (Tier 2) (VERIFIED)
+- [Slate: Alito's Hobby Lobby leak: The real problem with SCOTUS ethics rules right now](https://slate.com/news-and-politics/2022/11/alito-leak-hobby-lobby-real-problem.html) (Tier 2) (VERIFIED)
+- [True North Research: Five Facts about Rob Arkley, Funder of Luxury Travel for Supreme Court Justices](https://truenorthresearch.org/2023/11/five-facts-about-rob-arkley-funder-of-luxury-travel-for-supreme-court-justices-and-groups-packing-the-court/) (Tier 2) (VERIFIED)
+- [E&E News/Politico: Supreme Court steps up recusal checks after Alito near-miss in Louisiana oil case](https://www.eenews.net/articles/supreme-court-steps-up-recusal-checks-after-alito-near-miss-in-louisiana-oil-case/) (Tier 2) (VERIFIED)
+- [Washington Post: Martha-Ann Alito told The Post in 2021 that flag was 'signal of distress'](https://www.washingtonpost.com/politics/2024/05/25/alito-flag-martha-ann-washington-post/) (Tier 2) (VERIFIED)
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
@@ -162,18 +162,18 @@ Samuel Anthony Alito Jr. is an American jurist who serves as an associate justic
 
 | Fact | Value |
 |------|-------|
-| Wikidata ID | [Q11138](https://www.wikidata.org/wiki/Q11138) |
+| Wikidata ID | [Q11138](https://www.wikidata.org/wiki/Q11138) (VERIFIED) |
 | Description | Associate Justice of the Supreme Court of the United States since 2006 |
 | Born | 1950-01-01 |
-| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Justice_Alito_official.jpg?width=300) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Justice_Alito_official.jpg?width=300) (NEEDS REVIEW) |
 
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/Samuel_Alito) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q11138) (Tier 2)
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Samuel_Alito) (Tier 3) (VERIFIED)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q11138) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Samuel Alito](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: Samuel Alito](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->

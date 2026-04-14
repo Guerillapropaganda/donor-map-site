@@ -82,7 +82,7 @@ For the Thiel network, a friendly California governor is the ultimate regulatory
 
 ### Sources
 
-- [Mercury News: Who's funding Mayor Mahan's gubernatorial campaign?](https://www.mercurynews.com/2026/02/11/whos-funding-mayor-mahans-gubernatorial-campaign-new-filings-point-to-tech-titans-and-billionaires/) (Tier 2)
-- [San José Spotlight: Billionaire techies back Matt Mahan's California governor campaign](https://sanjosespotlight.com/billionaire-techies-back-matt-mahans-california-governor-campaign/) (Tier 2)
-- [Cicero Institute: Joe Lonsdale Biography](https://ciceroinstitute.org/people/joe-lonsdale/) (Tier 3)
-- [OpenSecrets: Donor Lookup - Joe Lonsdale](https://www.opensecrets.org/donor-lookup/results?name=joe+lonsdale&order=desc&sort=D) (Tier 1)
+- [Mercury News: Who's funding Mayor Mahan's gubernatorial campaign?](https://www.mercurynews.com/2026/02/11/whos-funding-mayor-mahans-gubernatorial-campaign-new-filings-point-to-tech-titans-and-billionaires/) (Tier 2) (VERIFIED)
+- [San José Spotlight: Billionaire techies back Matt Mahan's California governor campaign](https://sanjosespotlight.com/billionaire-techies-back-matt-mahans-california-governor-campaign/) (Tier 2) (VERIFIED)
+- [Cicero Institute: Joe Lonsdale Biography](https://ciceroinstitute.org/people/joe-lonsdale/) (Tier 3) (VERIFIED)
+- [OpenSecrets: Donor Lookup - Joe Lonsdale](https://www.opensecrets.org/donor-lookup/results?name=joe+lonsdale&order=desc&sort=D) (Tier 1) (VERIFIED)

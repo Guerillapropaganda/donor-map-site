@@ -64,7 +64,7 @@ The Flex Association was created to prevent the need for another $205 million de
 
 ### Sources
 
-- [OpenSecrets. Uber, Lyft, DoorDash Political Contributions](https://lda.gov/filings/public/filing/search/) (Tier 1)
+- [OpenSecrets. Uber, Lyft, DoorDash Political Contributions](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
 
 ---
 
@@ -89,10 +89,10 @@ The Flex Association was created to prevent the need for another $205 million de
 | Agencies | Federal Trade Commission, Labor Department, Wage and Hour Division |
 
 **Recent regulatory activity:**
-- [Trade Regulation Rule on Unfair or Deceptive Fees](https://www.federalregister.gov/documents/2025/01/10/2024-30293/trade-regulation-rule-on-unfair-or-deceptive-fees) (2025-01-10) — Federal Trade Commission
-- [Employee or Independent Contractor Classification Under the Fair Labor Standards Act](https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act) (2024-01-10) — Labor Department
+- [Trade Regulation Rule on Unfair or Deceptive Fees](https://www.federalregister.gov/documents/2025/01/10/2024-30293/trade-regulation-rule-on-unfair-or-deceptive-fees) (VERIFIED) (2025-01-10) — Federal Trade Commission
+- [Employee or Independent Contractor Classification Under the Fair Labor Standards Act](https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act) (VERIFIED) (2024-01-10) — Labor Department
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Flex%20Association%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Flex%20Association%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -121,7 +121,7 @@ The Flex Association was created to prevent the need for another $205 million de
 |------------------|--------|--------|
 | Unknown | $1009778941.6B | 50 |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Flex%20Association) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Flex%20Association) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Federal Court Records (CourtListener)
@@ -136,7 +136,7 @@ The Flex Association was created to prevent the need for another $205 million de
 - Coalition for Workforce Innovation v. Walsh (2021) — District Court, E.D. Texas
 - Bruce S Hamilton (2013) — United States Bankruptcy Court, N.D. Illinois
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Flex%20Association%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Flex%20Association%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Tax Filings (IRS 990)
@@ -149,7 +149,7 @@ The Flex Association was created to prevent the need for another $205 million de
 | IRS Ruling Date | 2026-01-01 |
 | Filings on Record | 0 |
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/394827006) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/394827006) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### DOJ Press Releases

@@ -125,11 +125,11 @@ Her stated position: "Sanctions exist to deny economic support to the Cuban dict
 
 ## Sources
 
-- [FEC Candidate: Maria Elvira Salazar campaign finance summary](https://www.fec.gov/data/candidate/H0WA03203/) (Tier 1)
-- [WLRN: Rep. Salazar to return campaign cash from suspected Cuba spy](https://www.wlrn.org/government-politics/2023-12-06/rep-maria-elvira-salazar-to-return-campaign-cash-from-suspected-cuba-spy-politico-manuel-rocha) (Tier 2)
-- [Florida Politics: Salazar to return donations from ex-Ambassador accused of spying for Cuba](https://floridapolitics.com/archives/647659-maria-salazar-to-return-donations-from-ex-ambassador-accused-of-spying-for-cuba/) (Tier 2)
-- [Florida Politics: Dems bash Salazar for gift from lawyer linked to Maduro](https://floridapolitics.com/archives/455158-dems-bash-hypocritical-maria-elvira-salazar-for-gift-from-lawyer-linked-to-nicolas-maduro/) (Tier 2)
-- [Wikipedia: Maria Elvira Salazar](https://en.wikipedia.org/wiki/Maria_Elvira_Salazar) (Tier 3)
+- [FEC Candidate: Maria Elvira Salazar campaign finance summary](https://www.fec.gov/data/candidate/H0WA03203/) (Tier 1) (VERIFIED)
+- [WLRN: Rep. Salazar to return campaign cash from suspected Cuba spy](https://www.wlrn.org/government-politics/2023-12-06/rep-maria-elvira-salazar-to-return-campaign-cash-from-suspected-cuba-spy-politico-manuel-rocha) (Tier 2) (VERIFIED)
+- [Florida Politics: Salazar to return donations from ex-Ambassador accused of spying for Cuba](https://floridapolitics.com/archives/647659-maria-salazar-to-return-donations-from-ex-ambassador-accused-of-spying-for-cuba/) (Tier 2) (VERIFIED)
+- [Florida Politics: Dems bash Salazar for gift from lawyer linked to Maduro](https://floridapolitics.com/archives/455158-dems-bash-hypocritical-maria-elvira-salazar-for-gift-from-lawyer-linked-to-nicolas-maduro/) (Tier 2) (VERIFIED)
+- [Wikipedia: Maria Elvira Salazar](https://en.wikipedia.org/wiki/Maria_Elvira_Salazar) (Tier 3) (VERIFIED)
 
 ---
 
@@ -159,7 +159,7 @@ Her stated position: "Sanctions exist to deny economic support to the Cuban dict
 | 5246 | To provide for the political affairs authorities of the Department of State, and… | Ordered to be Reported (Amended) by the Yeas and Nays: 49 - 0. |
 | 4393 | DIGNIDAD (Dignity) Act of 2025 | Referred to the Committee on the Judiciary, and in addition to the Committees on Homeland Security, Ways and Means, Transportation and Infrastructure, Education and Workforce, Oversight and Government Reform, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
 
-- [Source: Congress.gov](https://www.congress.gov/member/S000168) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/S000168)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### OFAC Sanctions Screening
@@ -176,7 +176,7 @@ Her stated position: "Sanctions exist to deny economic support to the Cuban dict
 - SALAZAR HERNANDEZ, Maria Alejandrina (individual) [SDNTK]
   - Remarks: DOB 17 Jul 1958; POB Culiacan, Sinaloa, Mexico; Passport 140302262 (Mexico); R.F.C. SAHA580717AP6 (Mexico); C.U.R.P. SAHA580717MSLLRL07 (Mexico).
 
-- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
 ### Campaign Finance (FEC)
@@ -211,7 +211,7 @@ Her stated position: "Sanctions exist to deny economic support to the Cuban dict
 | LATINO VOTE FOR AMERICA PAC | $214,840 | $0 |
 | WOMEN VOTE! | $0 | $204,486 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8FL27185/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8FL27185/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Committee Assignments (Congress.gov)
@@ -232,12 +232,12 @@ Her stated position: "Sanctions exist to deny economic support to the Cuban dict
 - National Security, Illicit Finance, and International Financial Institutions
 - Western Hemisphere
 
-- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Maria Elvira Salazar](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: Maria Elvira Salazar](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->

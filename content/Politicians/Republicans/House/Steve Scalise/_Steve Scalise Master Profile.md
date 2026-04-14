@@ -148,20 +148,20 @@ The class contradiction hits hardest in Louisiana's Cancer Alley. Scalise's dist
 
 ## Sources
 
-- [FEC Candidate: Steve Scalise campaign finance summary](https://www.fec.gov/data/candidate/H0LA01087/) (Tier 1)
-- [FEC Candidate: Steve Scalise industry contributions 2020](https://www.fec.gov/data/candidate/H0LA01087/) (Tier 1)
-- [OpenSecrets: Team Scalise top donors 2024](https://www.opensecrets.org/joint-fundraising-committees-jfcs/team-scalise/C00750521/2024/donors) (Tier 1)
-- [GovTrack: Steve Scalise](https://www.govtrack.us/congress/members/steve_scalise/412261) (Tier 1)
-- [Congress.gov: Steve Scalise](https://www.congress.gov/member/steve-scalise/S001176) (Tier 1)
-- [Bloomberg Government: Oil, gas ties power House Speaker candidate Scalise fundraising](https://news.bgov.com/bloomberg-government-news/oil-gas-ties-power-house-speaker-candidate-scalise-fundraising) (Tier 2)
-- [Common Dreams: Scalise took $40K from PAC of CEO accused of oil price rigging](https://www.commondreams.org/news/big-oil-political-contributions) (Tier 2)
-- [Roll Call: Sweeping GOP energy bill would sweep away Biden's climate agenda](https://rollcall.com/2023/03/14/sweeping-gop-energy-bill-would-sweep-away-bidens-climate-agenda/) (Tier 2)
-- [NPR: Scalise says he's a unifier — the state of the GOP will test that](https://www.npr.org/2023/10/12/1205346289/scalise-says-hes-a-unifier-the-current-state-of-the-gop-will-test-that-skill) (Tier 2)
-- [Washington Post: The story behind Steve Scalise and David Duke](https://www.washingtonpost.com/politics/2023/10/12/steve-scalise-white-supremacy-david-duke-louisiana/) (Tier 2)
-- [OpenSecrets News: McCarthy's ouster spurs big money race for House leadership](https://www.opensecrets.org/news/2023/10/kevin-mccarthys-historic-ouster-spurs-big-money-race-for-house-leadership/) (Tier 2)
-- [Scalise.house.gov: Lower Energy Costs Act](https://scalise.house.gov/press-releases/Scalise-Makes-American-Energy-a-Priority,-Introduces-the-Lower-Energy-Costs-Acty,-Introduces-the-Lower-Energy-Costs-Act,-Introduces-the-Lower-Energy-Costs-Act) (Tier 1)
-- [Ballotpedia: Steve Scalise](https://ballotpedia.org/Steve_Scalise) (Tier 3)
-- [On the Issues: Steve Scalise on Energy & Oil](https://ontheissues.org/House/Steve_Scalise_Energy_+_Oil.htm) (Tier 3)
+- [FEC Candidate: Steve Scalise campaign finance summary](https://www.fec.gov/data/candidate/H0LA01087/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Steve Scalise industry contributions 2020](https://www.fec.gov/data/candidate/H0LA01087/) (Tier 1) (VERIFIED)
+- [OpenSecrets: Team Scalise top donors 2024](https://www.opensecrets.org/joint-fundraising-committees-jfcs/team-scalise/C00750521/2024/donors) (Tier 1) (VERIFIED)
+- [GovTrack: Steve Scalise](https://www.govtrack.us/congress/members/steve_scalise/412261) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: Steve Scalise](https://www.congress.gov/member/steve-scalise/S001176)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Bloomberg Government: Oil, gas ties power House Speaker candidate Scalise fundraising](https://news.bgov.com/bloomberg-government-news/oil-gas-ties-power-house-speaker-candidate-scalise-fundraising) (Tier 2) (VERIFIED)
+- [Common Dreams: Scalise took $40K from PAC of CEO accused of oil price rigging](https://www.commondreams.org/news/big-oil-political-contributions) (Tier 2) (VERIFIED)
+- [Roll Call: Sweeping GOP energy bill would sweep away Biden's climate agenda](https://rollcall.com/2023/03/14/sweeping-gop-energy-bill-would-sweep-away-bidens-climate-agenda/) (Tier 2) (VERIFIED)
+- [NPR: Scalise says he's a unifier — the state of the GOP will test that](https://www.npr.org/2023/10/12/1205346289/scalise-says-hes-a-unifier-the-current-state-of-the-gop-will-test-that-skill) (Tier 2) (VERIFIED)
+- [Washington Post: The story behind Steve Scalise and David Duke](https://www.washingtonpost.com/politics/2023/10/12/steve-scalise-white-supremacy-david-duke-louisiana/) (Tier 2) (VERIFIED)
+- [OpenSecrets News: McCarthy's ouster spurs big money race for House leadership](https://www.opensecrets.org/news/2023/10/kevin-mccarthys-historic-ouster-spurs-big-money-race-for-house-leadership/) (Tier 2) (VERIFIED)
+- ~~[Scalise.house.gov: Lower Energy Costs Act](https://scalise.house.gov/press-releases/Scalise-Makes-American-Energy-a-Priority,-Introduces-the-Lower-Energy-Costs-Acty,-Introduces-the-Lower-Energy-Costs-Act,-Introduces-the-Lower-Energy-Costs-Act)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Ballotpedia: Steve Scalise](https://ballotpedia.org/Steve_Scalise) (Tier 3) (VERIFIED)
+- [On the Issues: Steve Scalise on Energy & Oil](https://ontheissues.org/House/Steve_Scalise_Energy_+_Oil.htm) (Tier 3) (VERIFIED)
 
 ---
 
@@ -197,7 +197,7 @@ The class contradiction hits hardest in Louisiana's Cancer Alley. Scalise's dist
 | CLUB FOR GROWTH PAC | $4,035 | $0 |
 | HUNTER ACTION FUND (HAF) | $1,857 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0LA01087/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0LA01087/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### DOJ Press Releases
@@ -231,7 +231,7 @@ The class contradiction hits hardest in Louisiana's Cancer Alley. Scalise's dist
 | 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Yea | Passed |
 | 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Yea | Passed |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412261) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412261) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
 
 ### Wikipedia
@@ -240,13 +240,13 @@ Stephen Joseph Scalise is an American politician who has been the House majority
 
 | Fact | Value |
 |------|-------|
-| Wikidata ID | [Q1857141](https://www.wikidata.org/wiki/Q1857141) |
+| Wikidata ID | [Q1857141](https://www.wikidata.org/wiki/Q1857141) (VERIFIED) |
 | Description | American politician (born 1965) |
 | Born | 1965-10-06 |
-| Website | [http://scalise.house.gov](http://scalise.house.gov) |
-| X/Twitter | [@stevescalise](https://x.com/stevescalise) |
-| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Steve_Scalise.jpg?width=300) |
+| Website | [http://scalise.house.gov](http://scalise.house.gov) (NEEDS REVIEW) |
+| X/Twitter | [@stevescalise](https://x.com/stevescalise) (VERIFIED) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Steve_Scalise.jpg?width=300) (NEEDS REVIEW) |
 
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/Steve_Scalise) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q1857141) (Tier 2)
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Steve_Scalise) (Tier 3) (VERIFIED)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q1857141) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->

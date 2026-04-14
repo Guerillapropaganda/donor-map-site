@@ -62,8 +62,8 @@ Jordan's three-ballot Speaker failure revealed the caucus's structural limitatio
 
 ### Sources
 
-- [OpenSecrets: Rep. Jim Jordan - Campaign Finance Summary](https://www.opensecrets.org/members-of-congress/summary?cid=N00027894) (Tier 1)
-- [Club for Growth: Jim Jordan Scorecard](https://www.clubforgrowth.org/scorecards/legislator/J000289/Jim-Jordan/) (Tier 3)
-- [Heritage Action: Rep. Jim Jordan Scorecard](https://heritageaction.com/scorecard/members/J000289/118) (Tier 3)
-- [CNN: Jim Jordan scrambles for votes after 20 GOP defections imperil his speaker bid](https://www.cnn.com/2023/10/17/politics/jordan-speaker-vote-house-floor/) (Tier 2)
-- [FiveThirtyEight: The Hard-Line Republicans Who Pushed John Boehner Out](https://fivethirtyeight.com/features/the-hard-line-republicans-who-pushed-john-boehner-out/) (Tier 2)
+- [OpenSecrets: Rep. Jim Jordan - Campaign Finance Summary](https://www.opensecrets.org/members-of-congress/summary?cid=N00027894) (Tier 1) (VERIFIED)
+- [Club for Growth: Jim Jordan Scorecard](https://www.clubforgrowth.org/scorecards/legislator/J000289/Jim-Jordan/) (Tier 3) (VERIFIED)
+- [Heritage Action: Rep. Jim Jordan Scorecard](https://heritageaction.com/scorecard/members/J000289/118) (Tier 3) (VERIFIED)
+- [CNN: Jim Jordan scrambles for votes after 20 GOP defections imperil his speaker bid](https://www.cnn.com/2023/10/17/politics/jordan-speaker-vote-house-floor/) (Tier 2) (VERIFIED)
+- [FiveThirtyEight: The Hard-Line Republicans Who Pushed John Boehner Out](https://fivethirtyeight.com/features/the-hard-line-republicans-who-pushed-john-boehner-out/) (Tier 2) (VERIFIED)

@@ -117,12 +117,12 @@ Workers die when OSHA enforcement disappears. The penalty collapse and inspector
 
 ### Sources
 
-- [Economic Policy Institute. Unprecedented. The Trump NLRB's Attack on Workers' Rights](https://www.epi.org/publication/unprecedented-the-trump-nlrbs-attack-on-workers-rights/) (Tier 2)
-- [Economic Policy Institute. Trump Is the Biggest Union Buster in U.S. History (March 2025)](https://www.epi.org/blog/trump-is-the-biggest-union-buster-in-u-s-history-more-than-1-million-federal-workers-collective-bargaining-rights-are-at-risk/) (Tier 2)
-- [NPR. Supreme Court Allows Trump to Fire Members of Independent Agency Boards (May 2025)](https://www.npr.org/2025/05/22/nx-s1-5366714/supreme-court-nlrb-mspb) (Tier 2)
-- [NPR. Trump Fires EEOC and Labor Board Officials (January 28, 2025)](https://www.npr.org/2025/01/28/nx-s1-5277103/nlrb-trump-wilcox-abruzzo-democrats-labor) (Tier 2)
-- [Center for American Progress. NLRB Overseen Union Elections Fell in 2025](https://www.americanprogress.org/article/nlrb-overseen-union-elections-fell-in-2025-amid-trump-administration-attacks/) (Tier 2)
-- [Good Jobs First. Worker Protections in Freefall. Federal Labor Enforcement Collapse Under Second Trump Administration](https://goodjobsfirst.org/worker-protections-in-freefall-the-collapse-of-federal-labor-enforcement-under-the-second-trump-administration/) (Tier 2)
-- [Center for American Progress. Trump Administration Quietly Gutting Minimum Wage Protections (March 2025)](https://www.americanprogress.org/article/the-trump-administration-is-quietly-gutting-minimum-wage-protections-for-millions-of-workers/) (Tier 2)
-- [Bloomberg. Federal Workforce Toll After a Year of DOGE and Trump. 317,000 (December 2025)](https://www.bloomberg.com/news/articles/2025-12-10) (Tier 2)
+- ~~[Economic Policy Institute. Unprecedented. The Trump NLRB's Attack on Workers' Rights](https://www.epi.org/publication/unprecedented-the-trump-nlrbs-attack-on-workers-rights/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Economic Policy Institute. Trump Is the Biggest Union Buster in U.S. History (March 2025)](https://www.epi.org/blog/trump-is-the-biggest-union-buster-in-u-s-history-more-than-1-million-federal-workers-collective-bargaining-rights-are-at-risk/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [NPR. Supreme Court Allows Trump to Fire Members of Independent Agency Boards (May 2025)](https://www.npr.org/2025/05/22/nx-s1-5366714/supreme-court-nlrb-mspb) (Tier 2) (VERIFIED)
+- [NPR. Trump Fires EEOC and Labor Board Officials (January 28, 2025)](https://www.npr.org/2025/01/28/nx-s1-5277103/nlrb-trump-wilcox-abruzzo-democrats-labor) (Tier 2) (VERIFIED)
+- [Center for American Progress. NLRB Overseen Union Elections Fell in 2025](https://www.americanprogress.org/article/nlrb-overseen-union-elections-fell-in-2025-amid-trump-administration-attacks/) (Tier 2) (VERIFIED)
+- ~~[Good Jobs First. Worker Protections in Freefall. Federal Labor Enforcement Collapse Under Second Trump Administration](https://goodjobsfirst.org/worker-protections-in-freefall-the-collapse-of-federal-labor-enforcement-under-the-second-trump-administration/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Center for American Progress. Trump Administration Quietly Gutting Minimum Wage Protections (March 2025)](https://www.americanprogress.org/article/the-trump-administration-is-quietly-gutting-minimum-wage-protections-for-millions-of-workers/) (Tier 2) (VERIFIED)
+- ~~[Bloomberg. Federal Workforce Toll After a Year of DOGE and Trump. 317,000 (December 2025)](https://www.bloomberg.com/news/articles/2025-12-10)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 

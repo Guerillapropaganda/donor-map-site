@@ -25,7 +25,7 @@ Don Lemon (b. 1966, Baton Rouge, Louisiana) is a journalist and media personalit
 
 No FEC individual contributions found. The FEC API returns 0 results for "LEMON, DON", zero federal political contributions from the former CNN anchor who earned an estimated $4-6M/year at CNN and received a $24.5M separation settlement. The $0 FEC record follows the same pattern as other high-earning CNN alumni in this vault: [[Chris Cuomo]] ($0), [[Rachel Maddow]] ($100 total over 20 years). Corporate media anchors influence politics through coverage, not contributions.
 
-- [FEC: Don Lemon individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=LEMON%2C+DON) (Tier 1)
+- [FEC: Don Lemon individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=LEMON%2C+DON) (Tier 1) (VERIFIED)
 
 > [!money]
 > $0 FEC from a journalist who earned $4-6M/year at CNN, received a $24.5M exit settlement, and was offered $1.5M by Elon Musk for a single show deal. Lemon's political influence operates entirely through editorial positioning and, post-CNN, through activist visibility. The arrest at a Minnesota church protest represents a new mode of political engagement: direct action rather than campaign donations, something no other media figure in this vault has done.
@@ -117,14 +117,14 @@ The post-institutional phase is where Lemon becomes analytically interesting. Th
 
 ### Sources
 
-- [CNN: Don Lemon and CNN part ways](https://www.cnn.com/2023/04/24/media/don-lemon-cnn) (Tier 2) (Chrome verified 2026-03-26)
-- [Forbes: CNN Settles With Ex-Anchor Don Lemon, His Representative Confirms](https://www.forbes.com/sites/maryroeloffs/2024/02/28/cnn-settles-with-ex-anchor-don-lemon-his-representative-confirms/) (Tier 2) (Chrome verified 2026-03-26)
-- [Variety: CNN's Don Lemon Had History of Misogyny Before Nikki Haley Comment](https://variety.com/2023/tv/news/cnn-don-lemon-misogyny-history-nikki-haley-1235574286/) (Tier 2) (Chrome verified 2026-03-26)
-- [The Guardian: Don Lemon sues Elon Musk and X over terminated talkshow deal](https://www.theguardian.com/business/article/2024/aug/01/don-lemon-elon-musk-lawsuit) (Tier 2) (Chrome verified 2026-03-26)
-- [CNBC: Elon Musk sued by ex-CNN anchor Don Lemon over canceled X deal](https://www.cnbc.com/2024/08/01/elon-musk-don-lemon-lawsuit.html) (Tier 2) (Chrome verified 2026-03-26)
-- [BBC: Former CNN star Don Lemon sues Elon Musk over cancelled X show](https://www.bbc.com/news/articles/c28e87473x0o) (Tier 2) (Chrome verified 2026-03-26)
-- [The Guardian: Who is Don Lemon, the ex-CNN anchor arrested over a Minnesota church protest?](https://www.theguardian.com/us-news/2026/jan/30/who-is-don-lemon-arrested) (Tier 2) (Chrome verified 2026-03-26)
-- [Wikipedia: Don Lemon](https://en.wikipedia.org/wiki/Don_Lemon) (Tier 3) (Chrome verified 2026-03-26)
+- [CNN: Don Lemon and CNN part ways](https://www.cnn.com/2023/04/24/media/don-lemon-cnn) (Tier 2) (VERIFIED) (Chrome verified 2026-03-26)
+- ~~[Forbes: CNN Settles With Ex-Anchor Don Lemon, His Representative Confirms](https://www.forbes.com/sites/maryroeloffs/2024/02/28/cnn-settles-with-ex-anchor-don-lemon-his-representative-confirms/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (Chrome verified 2026-03-26)
+- [Variety: CNN's Don Lemon Had History of Misogyny Before Nikki Haley Comment](https://variety.com/2023/tv/news/cnn-don-lemon-misogyny-history-nikki-haley-1235574286/) (Tier 2) (VERIFIED) (Chrome verified 2026-03-26)
+- [The Guardian: Don Lemon sues Elon Musk and X over terminated talkshow deal](https://www.theguardian.com/business/article/2024/aug/01/don-lemon-elon-musk-lawsuit) (Tier 2) (VERIFIED) (Chrome verified 2026-03-26)
+- [CNBC: Elon Musk sued by ex-CNN anchor Don Lemon over canceled X deal](https://www.cnbc.com/2024/08/01/elon-musk-don-lemon-lawsuit.html) (Tier 2) (VERIFIED) (Chrome verified 2026-03-26)
+- [BBC: Former CNN star Don Lemon sues Elon Musk over cancelled X show](https://www.bbc.com/news/articles/c28e87473x0o) (Tier 2) (VERIFIED) (Chrome verified 2026-03-26)
+- [The Guardian: Who is Don Lemon, the ex-CNN anchor arrested over a Minnesota church protest?](https://www.theguardian.com/us-news/2026/jan/30/who-is-don-lemon-arrested) (Tier 2) (VERIFIED) (Chrome verified 2026-03-26)
+- [Wikipedia: Don Lemon](https://en.wikipedia.org/wiki/Don_Lemon) (Tier 3) (VERIFIED) (Chrome verified 2026-03-26)
 - [FEC: Don Lemon individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=LEMON%2C+DON) (Tier 1)
 
 > **Technical note:** The FEC API link returns raw JSON from the FEC government database. Don Lemon shows zero federal political contributions, a $0 FEC record from a journalist who received $24.5M in a CNN separation settlement and earned $4-6M/year during his primetime tenure.

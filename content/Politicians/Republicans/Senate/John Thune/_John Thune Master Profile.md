@@ -123,13 +123,13 @@ The Majority Leader position is the capstone of the donor-class capture model. M
 
 ## Sources
 
-- [FEC Candidate: Thune career fundraising and industry donors](https://www.fec.gov/data/candidate/H6SD00085/) (Tier 1)
-- [FEC.gov: Thune campaign filings](https://www.fec.gov/data/candidate/S2SD00068/) (Tier 1)
-- [STAT News: Pharma CEO donations February 2022](https://www.statnews.com/2022/05/10/pharma-showers-john-thune-with-campaign-cash/) (Tier 2)
-- [National Pulse: Corporate donor analysis](https://thenationalpulse.com/2024/11/13/john-thune-is-the-new-senate-leader-here-are-his-biggest-corporate-donors/) (Tier 3)
-- [NBC News: Senate Majority Leader election](https://www.nbcnews.com/politics/congress/senate-republicans-choose-new-leader-mitch-mcconnell-steps-rcna179670) (Tier 2)
-- [NPR: Thune-Trump relationship evolution](https://www.npr.org/2024/11/14/nx-s1-5186649/newly-elected-senate-majority-leader-john-thune-has-his-work-cut-out-for-him) (Tier 2)
-- [The Hill: Tariff resolution and Thune blocking](https://thehill.com/homenews/senate/5225742-thune-republicans-trump-tariffs/) (Tier 2)
+- [FEC Candidate: Thune career fundraising and industry donors](https://www.fec.gov/data/candidate/H6SD00085/) (Tier 1) (VERIFIED)
+- [FEC.gov: Thune campaign filings](https://www.fec.gov/data/candidate/S2SD00068/) (Tier 1) (VERIFIED)
+- [STAT News: Pharma CEO donations February 2022](https://www.statnews.com/2022/05/10/pharma-showers-john-thune-with-campaign-cash/) (Tier 2) (VERIFIED)
+- [National Pulse: Corporate donor analysis](https://thenationalpulse.com/2024/11/13/john-thune-is-the-new-senate-leader-here-are-his-biggest-corporate-donors/) (Tier 3) (VERIFIED)
+- [NBC News: Senate Majority Leader election](https://www.nbcnews.com/politics/congress/senate-republicans-choose-new-leader-mitch-mcconnell-steps-rcna179670) (Tier 2) (VERIFIED)
+- [NPR: Thune-Trump relationship evolution](https://www.npr.org/2024/11/14/nx-s1-5186649/newly-elected-senate-majority-leader-john-thune-has-his-work-cut-out-for-him) (Tier 2) (VERIFIED)
+- ~~[The Hill: Tariff resolution and Thune blocking](https://thehill.com/homenews/senate/5225742-thune-republicans-trump-tariffs/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
@@ -174,5 +174,5 @@ The Majority Leader position is the capstone of the donor-class capture model. M
 | LEAGUE OF CONSERVATION VOTERS | $0 | $203 |
 | NATIONAL RIGHT TO LIFE VICTORY FUND | $51 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6SD00085/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6SD00085/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->

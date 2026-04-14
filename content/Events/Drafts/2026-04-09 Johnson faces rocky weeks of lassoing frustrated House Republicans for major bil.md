@@ -13,7 +13,7 @@ profiles:
 
 ## Johnson faces rocky weeks of lassoing frustrated House Republicans for major bills
 
-**Source:** [The Hill](https://thehill.com/homenews/house/5822967-mike-johnson-republicans-fisa-dhs/)
+**Source:** ~~[The Hill](https://thehill.com/homenews/house/5822967-mike-johnson-republicans-fisa-dhs/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-09
 
 Speaker Mike Johnson (R-La.) faces a tough task in the coming weeks in trying to lasso House Republicans to pass two high-stakes bills that are dividing and enraging the conference. Johnson will aim to pass a “clean” reauthorization of the Foreign Intelligence Surveillance Act’s (FISA) foreign surveillance powers next week ahead of an April 20…

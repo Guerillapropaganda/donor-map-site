@@ -74,14 +74,14 @@ National Nurses United represents class analysis embedded within labor organizin
 | Total Expenses | $13.5M |
 | Net Assets | $52.0M |
 
-- [Source: ProPublica Nonprofit Explorer - EIN 271450491](https://projects.propublica.org/nonprofits/organizations/271450491) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer - EIN 271450491](https://projects.propublica.org/nonprofits/organizations/271450491) (Tier 1) (VERIFIED)
 
 <!-- auto:propublica-990 end -->
 
 ### Sources
 
-- [ProPublica: Nurses Union Medicare for All Advocacy](https://projects.propublica.org/nonprofits/organizations/271450491) (Tier 2)
-- [OpenSecrets: National Nurses United Contributions](https://www.opensecrets.org/orgs/national-nurses-united/summary?id=D000062602) (Tier 1)
+- [ProPublica: Nurses Union Medicare for All Advocacy](https://projects.propublica.org/nonprofits/organizations/271450491) (Tier 2) (VERIFIED)
+- [OpenSecrets: National Nurses United Contributions](https://www.opensecrets.org/orgs/national-nurses-united/summary?id=D000062602) (Tier 1) (VERIFIED)
 
 ---
 
@@ -123,7 +123,7 @@ National Nurses United represents class analysis embedded within labor organizin
 | COLOROFCHANGE PAC | $25,000 | - |
 | WORKING FAMILIES PARTY INDEPENDENT EXPENDITURE COMMITTEE | $25,000 | - |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=National%20Nurses%20United) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=National%20Nurses%20United) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### Federal Register Activity
@@ -137,15 +137,15 @@ National Nurses United represents class analysis embedded within labor organizin
 | Agencies | Antitrust Division, Consumer Financial Protection Bureau, Justice Department, Labor Department, National Labor Relations Board, Occupational Safety and Health Administration, Regulatory Information Service Center |
 
 **Recent regulatory activity:**
-- [United States, et al. v. UnitedHealth Group Incorporated, et al.; Response of Plaintiff United States to Public Comments on the Proposed Final Judgment](https://www.federalregister.gov/documents/2025/11/19/2025-20311/united-states-et-al-v-unitedhealth-group-incorporated-et-al-response-of-plaintiff-united-states-to) (2025-11-19) - Justice Department
-- [Semiannual Agenda of Regulations](https://www.federalregister.gov/documents/2025/09/22/2025-18336/semiannual-agenda-of-regulations) (2025-09-22) - Labor Department
-- [Occupational Exposure to COVID-19 in Healthcare Settings](https://www.federalregister.gov/documents/2025/01/15/2025-00632/occupational-exposure-to-covid-19-in-healthcare-settings) (2025-01-15) - Labor Department
-- [Debt Collection Practices (Regulation F); Deceptive and Unfair Collection of Medical Debt](https://www.federalregister.gov/documents/2024/10/04/2024-22962/debt-collection-practices-regulation-f-deceptive-and-unfair-collection-of-medical-debt) (2024-10-04) - Consumer Financial Protection Bureau
-- [Semiannual Agenda of Regulations](https://www.federalregister.gov/documents/2024/08/16/2024-16455/semiannual-agenda-of-regulations) (2024-08-16) - Labor Department
-- [Representation-Case Procedures: Election Bars; Proof of Majority Support in Construction Industry Collective-Bargaining Relationships](https://www.federalregister.gov/documents/2024/08/01/2024-16535/representation-case-procedures-election-bars-proof-of-majority-support-in-construction-industry) (2024-08-01) - National Labor Relations Board ★
+- [United States, et al. v. UnitedHealth Group Incorporated, et al.; Response of Plaintiff United States to Public Comments on the Proposed Final Judgment](https://www.federalregister.gov/documents/2025/11/19/2025-20311/united-states-et-al-v-unitedhealth-group-incorporated-et-al-response-of-plaintiff-united-states-to) (VERIFIED) (2025-11-19) - Justice Department
+- [Semiannual Agenda of Regulations](https://www.federalregister.gov/documents/2025/09/22/2025-18336/semiannual-agenda-of-regulations) (VERIFIED) (2025-09-22) - Labor Department
+- [Occupational Exposure to COVID-19 in Healthcare Settings](https://www.federalregister.gov/documents/2025/01/15/2025-00632/occupational-exposure-to-covid-19-in-healthcare-settings) (VERIFIED) (2025-01-15) - Labor Department
+- [Debt Collection Practices (Regulation F); Deceptive and Unfair Collection of Medical Debt](https://www.federalregister.gov/documents/2024/10/04/2024-22962/debt-collection-practices-regulation-f-deceptive-and-unfair-collection-of-medical-debt) (VERIFIED) (2024-10-04) - Consumer Financial Protection Bureau
+- [Semiannual Agenda of Regulations](https://www.federalregister.gov/documents/2024/08/16/2024-16455/semiannual-agenda-of-regulations) (VERIFIED) (2024-08-16) - Labor Department
+- [Representation-Case Procedures: Election Bars; Proof of Majority Support in Construction Industry Collective-Bargaining Relationships](https://www.federalregister.gov/documents/2024/08/01/2024-16535/representation-case-procedures-election-bars-proof-of-majority-support-in-construction-industry) (VERIFIED) (2024-08-01) - National Labor Relations Board ★
 - ... and 22 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22National%20Nurses%20United%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22National%20Nurses%20United%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Lobbying Activity
@@ -164,7 +164,7 @@ National Nurses United represents class analysis embedded within labor organizin
 
 **Agencies contacted:** Advisory Council on Historic Preservation (ACHP), Agriculture, Dept of (USDA), American Battle Monuments Commission, Army, Dept of (Corps of Engineers), Bureau of Land Management (BLM), Centers For Disease Control & Prevention (CDC), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Congressional Budget Office (CBO), Consumer Financial Protection Bureau (CFPB) +60 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=National%20Nurses%20United) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=National%20Nurses%20United) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

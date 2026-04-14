@@ -175,24 +175,24 @@ Trump Victory is the structural mechanism through which Trump converted the Repu
 
 ### Sources
 
-- [FEC: Trump Victory Committee Data](https://www.fec.gov/data/committee/C00618389/) (Tier 1)
-- [FEC: Trump 47 Committee Data](https://www.fec.gov/data/committee/C00867937/) (Tier 1)
-- [OpenSecrets: Trump Victory Summary 2020](https://www.opensecrets.org/jfc/summary.php?id=C00618389&cycle=2020) (Tier 1)
-- [OpenSecrets: Trump Victory Summary 2016](https://www.opensecrets.org/joint-fundraising-committees-jfcs/summary?name=Trump+Victory&id=C00618389&cycle=2016) (Tier 1)
-- [OpenSecrets: Trump 47 Committee Summary 2024](https://www.opensecrets.org/joint-fundraising-committees-jfcs/trump-47-cmte/C00867937/2024/summary) (Tier 1)
-- [OpenSecrets: Trump Raised Record Sums for State Parties — Then RNC Took It Back](https://www.opensecrets.org/news/2021/02/trump-raised-record-sums-for-state-parties-rnc/) (Tier 1)
-- [The Hill: Trump Fundraising Agreement Prioritizes Legal Fee PAC Before RNC](https://www.thehill.com/homenews/campaign/4548589-trump-fundraising-agreement-prioritizes-payments-to-pac-covering-legal-fees-before-rnc/) (Tier 2)
-- [CNN: PAC That Pays Trump's Legal Bills Gets Priority Over RNC Donations](https://www.cnn.com/2024/03/21/politics/save-america-pac-rnc-trump-donations/index.html) (Tier 2)
-- [CNN: Trump 2020 Campaign Refunds Millions After Aggressive Fundraising](https://www.cnn.com/2021/08/07/politics/trump-refunds-millions-2020-campaign-fundraising/index.html) (Tier 2)
-- [NPR: RNC Member Introduces Resolution to Prevent Trump Legal Bill Payments](https://www.npr.org/2019/01/04/681987077/rnc-members-want-to-block-a-primary-challenge-to-trump-but-the-rules-may-stop-th) (Tier 2)
-- [CBS News: RNC Votes to Install Trump's Handpicked Leaders](https://www.cbsnews.com/news/rnc-donald-trump-michael-whatley-lara-trump/) (Tier 2)
-- [NOTUS: Republican Political Spending at Trump Properties Tops $1 Million in 2025](https://www.notus.org/money/republican-political-spending-trump-tower-properties-bedminster-mar-a-lago) (Tier 2)
-- [CNBC: Trump Properties Made Over $17 Million from Campaign and RNC Since 2016](https://www.cnbc.com/2020/07/17/trump-properties-made-over-17-million-from-campaign-rnc-since-2016.html) (Tier 2)
-- [CREW: Political Spending Tops $1.8 Million at Trump Properties](https://www.citizensforethics.org/reports-investigations/crew-investigations/political-spending-tops-1-8-million-at-trump-properties-this-cycle/) (Tier 2)
-- [ProPublica: Trump Spawned a New Group of Mega-Donors Who Now Hold Sway Over the GOP's Future](https://www.propublica.org/article/trump-spawned-a-new-group-of-mega-donors-who-now-hold-sway-over-gops-future) (Tier 2)
-- [Brennan Center: Pro-Trump Super PAC Raises Record-Breaking $305 Million](https://www.brennancenter.org/our-work/analysis-opinion/pro-trump-super-pac-raises-record-breaking-305-million) (Tier 2)
-- [Slate: Trump Campaign Refunded $135 Million After Aggressive Tactics](https://slate.com/news-and-politics/2021/08/trump-campaign-republican-refunds-donations-fundraising.html) (Tier 2)
-- [TIME: Inside the GOP Fight Over Trump's Legal Costs](https://time.com/6836021/trump-legal-costs-rnc-gop/) (Tier 2)
+- ~~[FEC: Trump Victory Committee Data](https://www.fec.gov/data/committee/C00618389/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [FEC: Trump 47 Committee Data](https://www.fec.gov/data/committee/C00867937/) (Tier 1) (VERIFIED)
+- ~~[OpenSecrets: Trump Victory Summary 2020](https://www.opensecrets.org/jfc/summary.php?id=C00618389&cycle=2020)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Trump Victory Summary 2016](https://www.opensecrets.org/joint-fundraising-committees-jfcs/summary?name=Trump+Victory&id=C00618389&cycle=2016)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Trump 47 Committee Summary 2024](https://www.opensecrets.org/joint-fundraising-committees-jfcs/trump-47-cmte/C00867937/2024/summary)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Trump Raised Record Sums for State Parties — Then RNC Took It Back](https://www.opensecrets.org/news/2021/02/trump-raised-record-sums-for-state-parties-rnc/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[The Hill: Trump Fundraising Agreement Prioritizes Legal Fee PAC Before RNC](https://www.thehill.com/homenews/campaign/4548589-trump-fundraising-agreement-prioritizes-payments-to-pac-covering-legal-fees-before-rnc/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [CNN: PAC That Pays Trump's Legal Bills Gets Priority Over RNC Donations](https://www.cnn.com/2024/03/21/politics/save-america-pac-rnc-trump-donations/index.html) (Tier 2) (VERIFIED)
+- [CNN: Trump 2020 Campaign Refunds Millions After Aggressive Fundraising](https://www.cnn.com/2021/08/07/politics/trump-refunds-millions-2020-campaign-fundraising/index.html) (Tier 2) (VERIFIED)
+- [NPR: RNC Member Introduces Resolution to Prevent Trump Legal Bill Payments](https://www.npr.org/2019/01/04/681987077/rnc-members-want-to-block-a-primary-challenge-to-trump-but-the-rules-may-stop-th) (Tier 2) (VERIFIED)
+- [CBS News: RNC Votes to Install Trump's Handpicked Leaders](https://www.cbsnews.com/news/rnc-donald-trump-michael-whatley-lara-trump/) (Tier 2) (VERIFIED)
+- [NOTUS: Republican Political Spending at Trump Properties Tops $1 Million in 2025](https://www.notus.org/money/republican-political-spending-trump-tower-properties-bedminster-mar-a-lago) (Tier 2) (VERIFIED)
+- [CNBC: Trump Properties Made Over $17 Million from Campaign and RNC Since 2016](https://www.cnbc.com/2020/07/17/trump-properties-made-over-17-million-from-campaign-rnc-since-2016.html) (Tier 2) (VERIFIED)
+- [CREW: Political Spending Tops $1.8 Million at Trump Properties](https://www.citizensforethics.org/reports-investigations/crew-investigations/political-spending-tops-1-8-million-at-trump-properties-this-cycle/) (Tier 2) (VERIFIED)
+- [ProPublica: Trump Spawned a New Group of Mega-Donors Who Now Hold Sway Over the GOP's Future](https://www.propublica.org/article/trump-spawned-a-new-group-of-mega-donors-who-now-hold-sway-over-gops-future) (Tier 2) (VERIFIED)
+- [Brennan Center: Pro-Trump Super PAC Raises Record-Breaking $305 Million](https://www.brennancenter.org/our-work/analysis-opinion/pro-trump-super-pac-raises-record-breaking-305-million) (Tier 2) (VERIFIED)
+- [Slate: Trump Campaign Refunded $135 Million After Aggressive Tactics](https://slate.com/news-and-politics/2021/08/trump-campaign-republican-refunds-donations-fundraising.html) (Tier 2) (VERIFIED)
+- [TIME: Inside the GOP Fight Over Trump's Legal Costs](https://time.com/6836021/trump-legal-costs-rnc-gop/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -225,5 +225,5 @@ Trump Victory is the structural mechanism through which Trump converted the Repu
 - 2025-03-11 — **N-CSR**: N-CSR
 - 2016-11-09 — **425**: 425
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Trump%20Victory%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Trump%20Victory%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->

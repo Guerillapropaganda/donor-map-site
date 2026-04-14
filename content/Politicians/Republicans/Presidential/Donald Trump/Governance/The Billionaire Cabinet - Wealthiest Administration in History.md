@@ -119,20 +119,20 @@ The billionaire cabinet is presented as a temporary experiment in "business-styl
 ### Sources
 
 ### Tier 1 (Primary Government Data):
-- [OpenSecrets: 2024 Mega-Donors. Elon Musk and others](https://www.opensecrets.org/news/2025/03/elon-musk-tops-list-of-2024-political-donors-but-six-others-gave-more-than-100-million) (Tier 1)
-- [FEC: Trump 2024 Presidential Campaign. Contributions and Finance Data](https://www.fec.gov/data/candidate/P80001571/) (Tier 1)
-- [U.S. Senate: Committee Confirmation Hearing Records and Financial Disclosures](https://www.senate.gov/pagelayout/general/one_item_and_teasers/file_not_found.htm) (Tier 1)
-- [Senate Financial Disclosure Forms: Cabinet-level nominees (SFDF)](https://www.senate.gov/pagelayout/general/one_item_and_teasers/file_not_found.htm) (Tier 1)
-- [Office of Government Ethics: Executive Branch Financial Disclosures](https://www.oge.gov/web/278eGuide.nsf/Overview) (Tier 1)
+- [OpenSecrets: 2024 Mega-Donors. Elon Musk and others](https://www.opensecrets.org/news/2025/03/elon-musk-tops-list-of-2024-political-donors-but-six-others-gave-more-than-100-million) (Tier 1) (VERIFIED)
+- [FEC: Trump 2024 Presidential Campaign. Contributions and Finance Data](https://www.fec.gov/data/candidate/P80001571/) (Tier 1) (VERIFIED)
+- [U.S. Senate: Committee Confirmation Hearing Records and Financial Disclosures](https://www.senate.gov/pagelayout/general/one_item_and_teasers/file_not_found.htm) (Tier 1) (VERIFIED)
+- [Senate Financial Disclosure Forms: Cabinet-level nominees (SFDF)](https://www.senate.gov/pagelayout/general/one_item_and_teasers/file_not_found.htm) (Tier 1) (VERIFIED)
+- [Office of Government Ethics: Executive Branch Financial Disclosures](https://www.oge.gov/web/278eGuide.nsf/Overview) (Tier 1) (VERIFIED)
 
 ### Tier 2 (Major Journalism):
-- [Washington Post: Meet the Trump administration's 12 billionaires (Interactive)](https://www.washingtonpost.com/politics/interactive/2025/trump-white-house-billionaires-musk/) (Tier 2)
-- [U.S. News & World Report: How Many Billionaires Are in Trump's Administration?](https://www.usnews.com/news/national-news/articles/how-many-billionaires-are-in-trump-administration-what-is-their-worth) (Tier 2)
-- [Bloomberg: Trump Cabinet Picks. Confirmations Reveal Wealth of Appointees](https://www.bloomberg.com/graphics/2025-trump-cabinet-wealth/) (Tier 2)
-- [ABC News: Trump has tapped 13 billionaires for administration. Here's who they are](https://abcnews.com/US/trump-tapped-unprecedented-13-billionaires-top-administration-roles/story?id=116872968) (Tier 2)
-- [CNN: Trump's first 100 days. How Trump has altered federal government in ways that could benefit himself and inner circle](https://www.cnn.com/2025/04/24/politics/donald-trump-cabinet-policy-ethics/index.html) (Tier 2)
-- [Public Citizen: Trump's Billionaire Cabinet Represents the Top 0.0001%](https://www.citizen.org/article/trumps-billionaire-cabinet-represents-the-top-0001-percent/) (Tier 2)
-- [Nasdaq: Inside the Financial Profiles of Trump's Cabinet Members (Worth Almost $12 Billion)](https://www.nasdaq.com/articles/inside-financial-profiles-trumps-cabinet-members-worth-almost-12-billion) (Tier 2)
+- ~~[Washington Post: Meet the Trump administration's 12 billionaires (Interactive)](https://www.washingtonpost.com/politics/interactive/2025/trump-white-house-billionaires-musk/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[U.S. News & World Report: How Many Billionaires Are in Trump's Administration?](https://www.usnews.com/news/national-news/articles/how-many-billionaires-are-in-trump-administration-what-is-their-worth)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Bloomberg: Trump Cabinet Picks. Confirmations Reveal Wealth of Appointees](https://www.bloomberg.com/graphics/2025-trump-cabinet-wealth/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [ABC News: Trump has tapped 13 billionaires for administration. Here's who they are](https://abcnews.com/US/trump-tapped-unprecedented-13-billionaires-top-administration-roles/story?id=116872968) (Tier 2) (VERIFIED)
+- [CNN: Trump's first 100 days. How Trump has altered federal government in ways that could benefit himself and inner circle](https://www.cnn.com/2025/04/24/politics/donald-trump-cabinet-policy-ethics/index.html) (Tier 2) (VERIFIED)
+- [Public Citizen: Trump's Billionaire Cabinet Represents the Top 0.0001%](https://www.citizen.org/article/trumps-billionaire-cabinet-represents-the-top-0001-percent/) (Tier 2) (VERIFIED)
+- [Nasdaq: Inside the Financial Profiles of Trump's Cabinet Members (Worth Almost $12 Billion)](https://www.nasdaq.com/articles/inside-financial-profiles-trumps-cabinet-members-worth-almost-12-billion) (Tier 2) (VERIFIED)
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
@@ -141,5 +141,5 @@ The billionaire cabinet is presented as a temporary experiment in "business-styl
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: The Billionaire Cabinet - Wealthiest Administration in History](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: The Billionaire Cabinet - Wealthiest Administration in History](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->

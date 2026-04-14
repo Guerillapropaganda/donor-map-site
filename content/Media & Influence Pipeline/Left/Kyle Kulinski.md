@@ -56,7 +56,7 @@ Kulinski operates the purest audience-funded model in this vault, no billionaire
 > [!money]
 > This is the most analytically significant FEC finding in the media pipeline section: Kulinski is the **only media figure in this entire vault**, left or right, whose personal political contributions align with the positions they promote on air. Every right-wing media figure shows $0 (Shapiro, Walsh, Owens, Ingraham) or exclusively Trump-aligned donations (Bongino). Every centrist figure shows $0 (Silver, Klein, Greenwald, Weiss, Brand). Kulinski donates his own money to the specific progressive candidates and campaigns he promotes on his show. The contributions are small ($50/month to Bernie, $2,900 max to Nina Turner), appropriate to a YouTuber's income, not a Fox News salary, but they represent genuine financial commitment to the political positions he advocates. Nina Turner ($2,900 max contribution) ran against Shontel Brown in Ohio's 11th, a race where AIPAC-aligned Democratic Majority for Israel spent heavily against Turner. Rashid for VA was a progressive primary challenger. Every dollar went to progressive insurgent candidates challenging the Democratic establishment. Zero contributions to Democratic establishment candidates, party committees, or corporate-aligned PACs.
 
-- [FEC: Kyle Kulinski individual contributions (28 results, $4,038)](https://www.fec.gov/data/receipts/?contributor_name=kyle+kulinski) (Tier 1)
+- [FEC: Kyle Kulinski individual contributions (28 results, $4,038)](https://www.fec.gov/data/receipts/?contributor_name=kyle+kulinski) (Tier 1) (VERIFIED)
 
 > **Note on API results:** The FEC API search for "kyle kulinski" returns 28 results ($4,038 total), all confirmed to belong to the Secular Talk host. Employer/occupation: self-employed media personality from New York. All contributions to progressive candidates (Nina Turner, Bernie Sanders, etc.). No disambiguation required, all 28 results verified as the YouTuber.
 
@@ -154,16 +154,16 @@ Kyle Kulinski represents **the unfunded left**, the structural asymmetry between
 
 ### Sources
 
-- [FEC Individual Contributions: Kyle Kulinski (28 results, NY, self-employed, 2019-2022)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=kyle+kulinski&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1)
-- [FEC Committee Overview: Justice Democrats PAC (C00630665)](https://www.fec.gov/data/committee/C00630665/) (Tier 1)
-- [OpenSecrets: Justice Democrats PAC Profile (2018 cycle)](https://www.opensecrets.org/political-action-committees-pacs/justice-democrats/C00630665/summary/2018) (Tier 1)
-- [Jacobin: "Kyle Kulinski Speaks, the Bernie Bros Listen" (Connor Kilpatrick, Mar 2020)](https://jacobin.com/2020/03/kyle-kulinski-bernie-bros-secular-talk-joe-rogan-youtube) (Tier 2)
-- [Wikipedia: Kyle Kulinski](https://en.wikipedia.org/wiki/Kyle_Kulinski) (Tier 3)
-- [Wikipedia: Justice Democrats](https://en.wikipedia.org/wiki/Justice_Democrats) (Tier 3)
-- [Wikipedia: Breaking Points](https://en.wikipedia.org/wiki/Breaking_Points) (Tier 3)
-- [Wikipedia: Krystal Ball](https://en.wikipedia.org/wiki/Krystal_Ball) (Tier 3)
-- [InfluenceWatch: Kyle Kulinski](https://www.influencewatch.org/person/kyle-kulinski/) (Tier 3)
-- [Politicon: Kyle Kulinski Speaker Profile](https://www.politicon.com/speaker/kyle-kulinski/) (Tier 3)
+- [FEC Individual Contributions: Kyle Kulinski (28 results, NY, self-employed, 2019-2022)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=kyle+kulinski&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1) (VERIFIED)
+- [FEC Committee Overview: Justice Democrats PAC (C00630665)](https://www.fec.gov/data/committee/C00630665/) (Tier 1) (VERIFIED)
+- [OpenSecrets: Justice Democrats PAC Profile (2018 cycle)](https://www.opensecrets.org/political-action-committees-pacs/justice-democrats/C00630665/summary/2018) (Tier 1) (VERIFIED)
+- [Jacobin: "Kyle Kulinski Speaks, the Bernie Bros Listen" (Connor Kilpatrick, Mar 2020)](https://jacobin.com/2020/03/kyle-kulinski-bernie-bros-secular-talk-joe-rogan-youtube) (Tier 2) (VERIFIED)
+- [Wikipedia: Kyle Kulinski](https://en.wikipedia.org/wiki/Kyle_Kulinski) (Tier 3) (VERIFIED)
+- [Wikipedia: Justice Democrats](https://en.wikipedia.org/wiki/Justice_Democrats) (Tier 3) (VERIFIED)
+- [Wikipedia: Breaking Points](https://en.wikipedia.org/wiki/Breaking_Points) (Tier 3) (VERIFIED)
+- [Wikipedia: Krystal Ball](https://en.wikipedia.org/wiki/Krystal_Ball) (Tier 3) (VERIFIED)
+- [InfluenceWatch: Kyle Kulinski](https://www.influencewatch.org/person/kyle-kulinski/) (Tier 3) (VERIFIED)
+- [Politicon: Kyle Kulinski Speaker Profile](https://www.politicon.com/speaker/kyle-kulinski/) (Tier 3) (VERIFIED)
 
 ---
 

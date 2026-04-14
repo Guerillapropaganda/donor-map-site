@@ -51,7 +51,7 @@ Michigan's 2026 Senate race is an **open seat contest** following Sen. Gary Pete
 - **Individual donor profile:** Large-dollar bundlers from suburban Detroit (metro area wealth concentration), Jewish Federation bundlers (AIPAC ecosystem), finance professionals
 - **Notable individual donors:** Eliot Weinstein (Cards Against Humanity co-creator, $7.5K), Lynn Schusterman (billionaire philanthropist, $7K)
 - **Out-of-state money:** 93% of 2025 fundraising came from donors outside Michigan, reflects national establishment support, not Michigan grassroots base
-- [Source: Michigan Advance: Rogers, Stevens lead Michigan U.S. Senate fundraising with wealthy and corporate donors](https://michiganadvance.com/2026/01/05/rogers-stevens-lead-michigan-u-s-senate-fundraising-with-wealthy-and-corporate-donors/) (Tier 2)
+- [Source: Michigan Advance: Rogers, Stevens lead Michigan U.S. Senate fundraising with wealthy and corporate donors](https://michiganadvance.com/2026/01/05/rogers-stevens-lead-michigan-u-s-senate-fundraising-with-wealthy-and-corporate-donors/) (Tier 2) (VERIFIED)
 
 ### [[_Mallory McMorrow Master Profile|Mallory McMorrow]] (Progressive Primary Challenger). Small-Dollar Grassroots:
 - **Total raised (2025):** $1.74M; **Cash on hand (early 2026):** $1.5M
@@ -84,7 +84,7 @@ Michigan's 2026 Senate race is an **open seat contest** following Sen. Gary Pete
  - **Wall Street:** $75K+ ([[Goldman Sachs|Goldman Sachs]], Morgan Stanley associates)
 - **26,000 new donors across all 83 Michigan counties**, claims grassroots support but small-dollar base lags Stevens/McMorrow
 - **Trump alignment:** Direct Trump endorsement creates pipeline to MAGA billionaire network (still developing in 2026)
-- [Source: Bridge Michigan: In Michigan Senate race, Dems battle for bucks as Mike Rogers builds war chest](https://bridgemi.com/michigan-government/in-michigan-senate-race-dems-battle-for-bucks-as-mike-rogers-builds-war-chest/) (Tier 2)
+- [Source: Bridge Michigan: In Michigan Senate race, Dems battle for bucks as Mike Rogers builds war chest](https://bridgemi.com/michigan-government/in-michigan-senate-race-dems-battle-for-bucks-as-mike-rogers-builds-war-chest/) (Tier 2) (VERIFIED)
 
 ### Money Asymmetries:
 - **Democratic primary fragmentation:** Stevens vs. McMorrow vs. El-Sayed splits resources, allowing unified Republican to consolidate advantage (classic primary tax on Democrats)
@@ -148,12 +148,12 @@ If Rogers wins, oil + defense billionaires control Michigan Senate seat. If Stev
 
 ### Sources
 
-- [Rogers, Stevens lead Michigan U.S. Senate fundraising with wealthy and corporate donors | Michigan Advance](https://michiganadvance.com/2026/01/05/rogers-stevens-lead-michigan-u-s-senate-fundraising-with-wealthy-and-corporate-donors/) (Tier 2)
-- [Michigan's 'toss up' US Senate race draws donors from other states | Bridge Michigan](https://bridgemi.com/michigan-government/michigans-toss-up-us-senate-race-draws-donors-from-other-states/) (Tier 2)
-- [In Michigan Senate race, Dems battle for bucks as Mike Rogers builds war chest | Bridge Michigan](https://bridgemi.com/michigan-government/in-michigan-senate-race-dems-battle-for-bucks-as-mike-rogers-builds-war-chest/) (Tier 2)
-- [Rogers, Stevens lead fundraising in crowded Michigan U.S. Senate race, enter year flush with cash | Michigan Advance](https://michiganadvance.com/2026/02/03/rogers-stevens-lead-fundraising-in-crowded-michigan-u-s-senate-race-enter-year-flush-with-cash/) (Tier 2)
-- [The Most Interesting Primary of 2026 | The American Prospect](https://prospect.org/2026/01/06/michigan-primary-2026-democrats-senate-haley-stevens-mallory-mcmorrow-abdul-el-sayed/) (Tier 2)
-- [2026 United States Senate election in Michigan | Wikipedia](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Michigan) (Tier 3)
+- [Rogers, Stevens lead Michigan U.S. Senate fundraising with wealthy and corporate donors | Michigan Advance](https://michiganadvance.com/2026/01/05/rogers-stevens-lead-michigan-u-s-senate-fundraising-with-wealthy-and-corporate-donors/) (Tier 2) (VERIFIED)
+- [Michigan's 'toss up' US Senate race draws donors from other states | Bridge Michigan](https://bridgemi.com/michigan-government/michigans-toss-up-us-senate-race-draws-donors-from-other-states/) (Tier 2) (VERIFIED)
+- [In Michigan Senate race, Dems battle for bucks as Mike Rogers builds war chest | Bridge Michigan](https://bridgemi.com/michigan-government/in-michigan-senate-race-dems-battle-for-bucks-as-mike-rogers-builds-war-chest/) (Tier 2) (VERIFIED)
+- [Rogers, Stevens lead fundraising in crowded Michigan U.S. Senate race, enter year flush with cash | Michigan Advance](https://michiganadvance.com/2026/02/03/rogers-stevens-lead-fundraising-in-crowded-michigan-u-s-senate-race-enter-year-flush-with-cash/) (Tier 2) (VERIFIED)
+- [The Most Interesting Primary of 2026 | The American Prospect](https://prospect.org/2026/01/06/michigan-primary-2026-democrats-senate-haley-stevens-mallory-mcmorrow-abdul-el-sayed/) (Tier 2) (VERIFIED)
+- [2026 United States Senate election in Michigan | Wikipedia](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Michigan) (Tier 3) (VERIFIED)
 
 ---
 

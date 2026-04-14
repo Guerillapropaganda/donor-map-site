@@ -341,59 +341,59 @@ The revolving door completes the circuit: research produced → personnel traine
 
 ### IRS and Government Data:
 
-- [ProPublica Nonprofit Explorer: Cato Institute IRS 990 filings (FY2013–FY2025)](https://projects.propublica.org/nonprofits/organizations/237432162) (Tier 1)
-- [OpenSecrets: Cato Institute Profile](https://www.opensecrets.org/orgs/cato-institute/summary?id=D000060583) (Tier 1)
-- [FHFA: Dr. Mark Calabria Sworn In as Director of the Federal Housing Finance Agency](https://www.fhfa.gov/news/news-release/dr.-mark-calabria-sworn-in-as-director-of-the-federal-housing-finance-agency) (Tier 1)
-- [Cato Institute: Financial Information, Funding, and Independence](https://www.cato.org/about/financial-information-funding-independence) (Tier 3, self-reported, partial)
-- [Cato Institute: 2023 Annual Report. Financial Results](https://www.cato.org/cato-institute-2023-annual-report/financial-results) (Tier 3, self-reported)
+- [ProPublica Nonprofit Explorer: Cato Institute IRS 990 filings (FY2013–FY2025)](https://projects.propublica.org/nonprofits/organizations/237432162) (Tier 1) (VERIFIED)
+- [OpenSecrets: Cato Institute Profile](https://www.opensecrets.org/orgs/cato-institute/summary?id=D000060583) (Tier 1) (VERIFIED)
+- [FHFA: Dr. Mark Calabria Sworn In as Director of the Federal Housing Finance Agency](https://www.fhfa.gov/news/news-release/dr.-mark-calabria-sworn-in-as-director-of-the-federal-housing-finance-agency) (Tier 1) (VERIFIED)
+- [Cato Institute: Financial Information, Funding, and Independence](https://www.cato.org/about/financial-information-funding-independence) (VERIFIED) (Tier 3, self-reported, partial)
+- [Cato Institute: 2023 Annual Report. Financial Results](https://www.cato.org/cato-institute-2023-annual-report/financial-results) (VERIFIED) (Tier 3, self-reported)
 
 ### Policy Analysis and Publications:
 
-- [Cato Institute: Cato Handbook for Policymakers (9th Edition, 2022)](https://www.cato.org/cato-handbook-policymakers/cato-handbook-policymakers-9th-edition-2022) (Tier 3, institutional source)
-- [Cato Institute: Policy on Social Security Choice](https://www.cato.org/policy-report/september/october-1995/cato-launches-social-security-privatization-effort) (Tier 3)
-- [Cato Institute: Repealing Obamacare (Handbook chapter)](https://www.cato.org/cato-handbook-policymakers/cato-handbook-policymakers-9th-edition-2022/cato-handbook-policy-makers-8th-edition-2017/4-repealing-obamacare) (Tier 3)
-- [Cato Institute: King v. Burwell scholarship by Michael Cannon](https://www.cato-unbound.org/) (Tier 3)
-- [Cato Institute: Medicare for All Opposition Commentary](https://www.cato.org/commentary/medicare-all-would-mean-worse-care-all) (Tier 3)
-- [Cato Institute: TrumpRx Criticism (February 2026)](https://www.cato.org/blog/trumprx-when-government-tries-build-market) (Tier 3)
-- [Cato Institute: Climate and Energy Policy Analysis - Travis Fisher](https://www.cato.org/blog/how-inflation-reduction-act-bankrolls-epa-overreach) (Tier 3)
-- [Cato Institute: Minimum Wage Policy](https://www.cato.org/cato-handbook-policymakers/cato-handbook-policymakers-9th-edition-2022/cato-handbook-policymakers-9th-edition-2022/minimum-wage) (Tier 3)
-- [Cato Institute: Taxing Wealth and Capital Income (August 2019)](https://www.cato.org/tax-budget-bulletin/taxing-wealth-capital-income) (Tier 3)
-- [Cato Institute: Wealth and Taxes (February 2020)](https://www.cato.org/publications/tax-budget-bulletin/wealth-taxes) (Tier 3)
-- [Cato Institute: Fossil Fuel Subsidies Commentary (June 2025)](https://www.cato.org/blog/fossil-fuel-subsidies-are-mostly-fiction-real-energy-subsidies-should-go) (Tier 3)
-- [Cato Institute: Davis-Bacon Act Briefing Paper](https://www.cato.org/sites/cato.org/files/pubs/pdf/bp017.pdf) (Tier 3)
-- [Cato Institute: Occupational Licensing Reform](https://www.cato.org/briefing-paper/case-against-state-occupational-licensing-boards) (Tier 3)
+- [Cato Institute: Cato Handbook for Policymakers (9th Edition, 2022)](https://www.cato.org/cato-handbook-policymakers/cato-handbook-policymakers-9th-edition-2022) (VERIFIED) (Tier 3, institutional source)
+- [Cato Institute: Policy on Social Security Choice](https://www.cato.org/policy-report/september/october-1995/cato-launches-social-security-privatization-effort) (Tier 3) (VERIFIED)
+- ~~[Cato Institute: Repealing Obamacare (Handbook chapter)](https://www.cato.org/cato-handbook-policymakers/cato-handbook-policymakers-9th-edition-2022/cato-handbook-policy-makers-8th-edition-2017/4-repealing-obamacare)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [Cato Institute: King v. Burwell scholarship by Michael Cannon](https://www.cato-unbound.org/) (Tier 3) (VERIFIED)
+- [Cato Institute: Medicare for All Opposition Commentary](https://www.cato.org/commentary/medicare-all-would-mean-worse-care-all) (Tier 3) (VERIFIED)
+- [Cato Institute: TrumpRx Criticism (February 2026)](https://www.cato.org/blog/trumprx-when-government-tries-build-market) (Tier 3) (VERIFIED)
+- [Cato Institute: Climate and Energy Policy Analysis - Travis Fisher](https://www.cato.org/blog/how-inflation-reduction-act-bankrolls-epa-overreach) (Tier 3) (VERIFIED)
+- ~~[Cato Institute: Minimum Wage Policy](https://www.cato.org/cato-handbook-policymakers/cato-handbook-policymakers-9th-edition-2022/cato-handbook-policymakers-9th-edition-2022/minimum-wage)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [Cato Institute: Taxing Wealth and Capital Income (August 2019)](https://www.cato.org/tax-budget-bulletin/taxing-wealth-capital-income) (Tier 3) (VERIFIED)
+- [Cato Institute: Wealth and Taxes (February 2020)](https://www.cato.org/publications/tax-budget-bulletin/wealth-taxes) (Tier 3) (VERIFIED)
+- [Cato Institute: Fossil Fuel Subsidies Commentary (June 2025)](https://www.cato.org/blog/fossil-fuel-subsidies-are-mostly-fiction-real-energy-subsidies-should-go) (Tier 3) (VERIFIED)
+- [Cato Institute: Davis-Bacon Act Briefing Paper](https://www.cato.org/sites/cato.org/files/pubs/pdf/bp017.pdf) (Tier 3) (VERIFIED)
+- [Cato Institute: Occupational Licensing Reform](https://www.cato.org/briefing-paper/case-against-state-occupational-licensing-boards) (Tier 3) (VERIFIED)
 
 ### Investigative Reporting:
 
-- [ProPublica Trump Town: Cato Institute](https://projects.propublica.org/trump-town/organizations/cato-institute) (Tier 2)
-- [Science/AAAS: U.S. think tank shuts down prominent center that challenged climate science](https://www.science.org/content/article/us-think-tank-shuts-down-prominent-center-challenged-climate-science) (Tier 2)
-- [Center for Public Integrity: Behind the climate skepticism curtain. The Koch family and the Cato Institute](https://publicintegrity.org/environment/behind-the-climate-skepticism-curtain-the-koch-family-and-the-cato-institute/) (Tier 2)
-- [TIME: In DC Speech, Charles Koch Decries 'the Mess' Country Is In](https://time.com/7282130/charles-koch-speech-trump-tariffs/) (Tier 2)
-- [Fortune: Trump Tariffs Are 'a Recipe for Making Americans Worse Off,' Cato Institute Says](https://fortune.com/2025/03/26/trump-tariffs-kudlow-fox-recipe-making-americans-worse-off-cato-institute/) (Tier 2)
-- [Politico: Conservative realignment article on Koch-Trump fracture](https://www.politico.com/) (Tier 2)
-- [E&E News: Cato closes its climate shop after Patrick Michaels departure](https://www.eenews.net/articles/cato-closes-its-climate-shop-pat-michaels-is-out/) (Tier 2)
-- [The American Prospect: Biggest Deal. Lobbying Take Social Security Private](https://prospect.org/2001/12/19/biggest-deal-lobbying-take-social-security-private/) (Tier 2)
+- [ProPublica Trump Town: Cato Institute](https://projects.propublica.org/trump-town/organizations/cato-institute) (Tier 2) (VERIFIED)
+- ~~[Science/AAAS: U.S. think tank shuts down prominent center that challenged climate science](https://www.science.org/content/article/us-think-tank-shuts-down-prominent-center-challenged-climate-science)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Center for Public Integrity: Behind the climate skepticism curtain. The Koch family and the Cato Institute](https://publicintegrity.org/environment/behind-the-climate-skepticism-curtain-the-koch-family-and-the-cato-institute/) (Tier 2) (VERIFIED)
+- [TIME: In DC Speech, Charles Koch Decries 'the Mess' Country Is In](https://time.com/7282130/charles-koch-speech-trump-tariffs/) (Tier 2) (VERIFIED)
+- [Fortune: Trump Tariffs Are 'a Recipe for Making Americans Worse Off,' Cato Institute Says](https://fortune.com/2025/03/26/trump-tariffs-kudlow-fox-recipe-making-americans-worse-off-cato-institute/) (Tier 2) (VERIFIED)
+- ~~[Politico: Conservative realignment article on Koch-Trump fracture](https://www.politico.com/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [E&E News: Cato closes its climate shop after Patrick Michaels departure](https://www.eenews.net/articles/cato-closes-its-climate-shop-pat-michaels-is-out/) (Tier 2) (VERIFIED)
+- [The American Prospect: Biggest Deal. Lobbying Take Social Security Private](https://prospect.org/2001/12/19/biggest-deal-lobbying-take-social-security-private/) (Tier 2) (VERIFIED)
 
 ### Watchdog and Research Documentation:
 
-- [DeSmog: Cato Institute profile](https://www.desmog.com/cato-institute/) (Tier 2)
-- [Climate Investigations Center: Patrick Michaels fossil fuel funding timeline](https://climateinvestigations.org/patrick-michaels-climate-denial/) (Tier 2)
-- [SourceWatch: Cato Institute](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Cato_Institute) (Tier 2)
-- [InfluenceWatch: Cato Institute](https://www.influencewatch.org/non-profit/cato-institute/) (Tier 2)
-- [Think Tank Funding Tracker: Cato Institute](https://thinktankfundingtracker.org/think-tank/cato-institute/) (Tier 2)
-- [Greenpeace USA: Koch network funding to Cato (1986–2015 data)](https://www.greenpeace.org/global/) (Tier 2)
-- [Niskanen Center: Examining Cato's Case Against a Carbon Tax](https://www.niskanencenter.org/examining-catos-case-against-a-carbon-tax/) (Tier 2)
-- [Climate Investigations Center: Information Council for the Environment (ICE) campaign documentation](https://climateinvestigations.org/) (Tier 2)
+- [DeSmog: Cato Institute profile](https://www.desmog.com/cato-institute/) (Tier 2) (VERIFIED)
+- [Climate Investigations Center: Patrick Michaels fossil fuel funding timeline](https://climateinvestigations.org/patrick-michaels-climate-denial/) (Tier 2) (VERIFIED)
+- ~~[SourceWatch: Cato Institute](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Cato_Institute)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [InfluenceWatch: Cato Institute](https://www.influencewatch.org/non-profit/cato-institute/) (Tier 2) (VERIFIED)
+- [Think Tank Funding Tracker: Cato Institute](https://thinktankfundingtracker.org/think-tank/cato-institute/) (Tier 2) (VERIFIED)
+- [Greenpeace USA: Koch network funding to Cato (1986–2015 data)](https://www.greenpeace.org/global/) (Tier 2) (VERIFIED)
+- [Niskanen Center: Examining Cato's Case Against a Carbon Tax](https://www.niskanencenter.org/examining-catos-case-against-a-carbon-tax/) (Tier 2) (VERIFIED)
+- [Climate Investigations Center: Information Council for the Environment (ICE) campaign documentation](https://climateinvestigations.org/) (Tier 2) (VERIFIED)
 
 ### Secondary Sources and Reference:
 
-- [Wikipedia: Cato Institute](https://en.wikipedia.org/wiki/Cato_Institute) (Tier 3)
-- [Wikipedia: Mark A. Calabria](https://en.wikipedia.org/wiki/Mark_A._Calabria) (Tier 3)
-- [Wikipedia: Social Security debate in the United States](https://en.wikipedia.org/wiki/Social_Security_debate_in_the_United_States) (Tier 3)
-- [Ballotpedia: Cato Institute](https://ballotpedia.org/Cato_Institute) (Tier 3)
-- [Brookings Institution: Why the 2005 Social Security Initiative Failed](https://www.brookings.edu/articles/why-the-2005-social-security-initiative-failed-and-what-it-means-for-the-future/) (Tier 2)
-- [House Financial Services Committee: Calabria testimony on Dodd-Frank](https://financialservices.house.gov/) (Tier 1)
-- [Regulatory Transparency Project: Michael Cannon podcast interview](https://rtp.fedsoc.org/podcast/deep-dive-ep-133/) (Tier 3)
+- [Wikipedia: Cato Institute](https://en.wikipedia.org/wiki/Cato_Institute) (Tier 3) (VERIFIED)
+- [Wikipedia: Mark A. Calabria](https://en.wikipedia.org/wiki/Mark_A._Calabria) (Tier 3) (VERIFIED)
+- [Wikipedia: Social Security debate in the United States](https://en.wikipedia.org/wiki/Social_Security_debate_in_the_United_States) (Tier 3) (VERIFIED)
+- [Ballotpedia: Cato Institute](https://ballotpedia.org/Cato_Institute) (Tier 3) (VERIFIED)
+- [Brookings Institution: Why the 2005 Social Security Initiative Failed](https://www.brookings.edu/articles/why-the-2005-social-security-initiative-failed-and-what-it-means-for-the-future/) (Tier 2) (VERIFIED)
+- [House Financial Services Committee: Calabria testimony on Dodd-Frank](https://financialservices.house.gov/) (Tier 1) (VERIFIED)
+- [Regulatory Transparency Project: Michael Cannon podcast interview](https://rtp.fedsoc.org/podcast/deep-dive-ep-133/) (Tier 3) (VERIFIED)
 
 ---
 
@@ -413,7 +413,7 @@ The revolving door completes the circuit: research produced → personnel traine
 - Anthropic PBC v. United States Department of War (2026) — Court of Appeals for the D.C. Circuit
 - Anthropic PBC v. U.S. Department of War (2026) — District Court, N.D. California
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Cato%20Institute%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Cato%20Institute%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Register Activity
@@ -427,15 +427,15 @@ The revolving door completes the circuit: research produced → personnel traine
 | Agencies | Commodity Futures Trading Commission, Education Department, Employee Benefits Security Administration, Employment and Training Administration, Energy Department, Federal Energy Regulatory Commission, Federal Trade Commission, Health and Human Services Department +7 more |
 
 **Recent regulatory activity:**
-- [Reimagining and Improving Student Education](https://www.federalregister.gov/documents/2026/01/30/2026-01912/reimagining-and-improving-student-education) (2026-01-30) — Education Department
-- [Modernizing H-2 Program Requirements, Oversight, and Worker Protections](https://www.federalregister.gov/documents/2024/12/18/2024-29353/modernizing-h-2-program-requirements-oversight-and-worker-protections) (2024-12-18) — Homeland Security Department ★
-- [Building for the Future Through Electric Regional Transmission Planning and Cost Allocation](https://www.federalregister.gov/documents/2024/06/11/2024-10872/building-for-the-future-through-electric-regional-transmission-planning-and-cost-allocation) (2024-06-11) — Energy Department
-- [Event Contracts](https://www.federalregister.gov/documents/2024/06/10/2024-12125/event-contracts) (2024-06-10) — Commodity Futures Trading Commission ★
-- [Improving Protections for Workers in Temporary Agricultural Employment in the United States](https://www.federalregister.gov/documents/2024/04/29/2024-08333/improving-protections-for-workers-in-temporary-agricultural-employment-in-the-united-states) (2024-04-29) — Labor Department ★
-- [The Enhancement and Standardization of Climate-Related Disclosures for Investors](https://www.federalregister.gov/documents/2024/03/28/2024-05137/the-enhancement-and-standardization-of-climate-related-disclosures-for-investors) (2024-03-28) — Securities and Exchange Commission
+- [Reimagining and Improving Student Education](https://www.federalregister.gov/documents/2026/01/30/2026-01912/reimagining-and-improving-student-education) (VERIFIED) (2026-01-30) — Education Department
+- [Modernizing H-2 Program Requirements, Oversight, and Worker Protections](https://www.federalregister.gov/documents/2024/12/18/2024-29353/modernizing-h-2-program-requirements-oversight-and-worker-protections) (VERIFIED) (2024-12-18) — Homeland Security Department ★
+- [Building for the Future Through Electric Regional Transmission Planning and Cost Allocation](https://www.federalregister.gov/documents/2024/06/11/2024-10872/building-for-the-future-through-electric-regional-transmission-planning-and-cost-allocation) (VERIFIED) (2024-06-11) — Energy Department
+- [Event Contracts](https://www.federalregister.gov/documents/2024/06/10/2024-12125/event-contracts) (VERIFIED) (2024-06-10) — Commodity Futures Trading Commission ★
+- ~~[Improving Protections for Workers in Temporary Agricultural Employment in the United States](https://www.federalregister.gov/documents/2024/04/29/2024-08333/improving-protections-for-workers-in-temporary-agricultural-employment-in-the-united-states)~~ (URL broken, archived by Ops) (2024-04-29) — Labor Department ★
+- [The Enhancement and Standardization of Climate-Related Disclosures for Investors](https://www.federalregister.gov/documents/2024/03/28/2024-05137/the-enhancement-and-standardization-of-climate-related-disclosures-for-investors) (VERIFIED) (2024-03-28) — Securities and Exchange Commission
 - ... and 40 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Cato%20Institute%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Cato%20Institute%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Tax Filings (IRS 990)
@@ -453,12 +453,12 @@ The revolving door completes the circuit: research produced → personnel traine
 **Filing history:** 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017
 
 **View 990 filings:**
-- [2024 Filing](https://projects.propublica.org/nonprofits/organizations/237432162/2024)
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/237432162/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/237432162/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/237432162/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/237432162/2020)
+- ~~[2024 Filing](https://projects.propublica.org/nonprofits/organizations/237432162/2024)~~ (URL broken, archived by Ops)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/237432162/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/237432162/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/237432162/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/237432162/2020)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/237432162) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/237432162) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->

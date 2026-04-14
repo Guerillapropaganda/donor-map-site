@@ -135,7 +135,7 @@ See [[AIPAC - American Israel Public Affairs Committee]] for the national discip
 ### Sources
 
 ### Senate Race / Fundraising:
-- [OpenSecrets: Harris 2016 Senate race summary](https://www.opensecrets.org/races/summary?cycle=2016&id=CAS1) (Tier 1)
+- [OpenSecrets: Harris 2016 Senate race summary](https://www.opensecrets.org/races/summary?cycle=2016&id=CAS1) (Tier 1) (VERIFIED)
 
 ### Kavanaugh / Judiciary Committee:
 
@@ -144,7 +144,7 @@ See [[AIPAC - American Israel Public Affairs Committee]] for the national discip
 ### Medicare for All Evolution:
 
 ### 2020 Primary:
-- [OpenSecrets: Harris 2020 presidential race fundraising summary ($39.2M)](https://www.opensecrets.org/2020-presidential-race/kamala-harris/candidate?id=N00036915) (Tier 1)
+- [OpenSecrets: Harris 2020 presidential race fundraising summary ($39.2M)](https://www.opensecrets.org/2020-presidential-race/kamala-harris/candidate?id=N00036915) (Tier 1) (VERIFIED)
 
 ### VP Selection:
 

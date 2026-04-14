@@ -149,17 +149,17 @@ The broader structural pattern: billionaires contributed nearly 20% of all donat
 
 ### Sources
 
-- [OpenSecrets: Donald Trump 2024 summary — campaign and outside group fundraising totals](https://www.opensecrets.org/2024-presidential-race?id=N00023864) (Tier 1)
-- [OpenSecrets: Donald Trump 2024 top contributors](https://www.opensecrets.org/2024-presidential-race?id=N00023864) (Tier 1)
-- [OpenSecrets: Donald Trump 2024 top industries](https://www.opensecrets.org/2024-presidential-race?id=N00023864) (Tier 1)
-- [Brennan Center: Unprecedented Big Money Surge for Super PAC Tied to Trump](https://www.brennancenter.org/our-work/analysis-opinion/unprecedented-big-money-surge-super-pac-tied-trump) (Tier 2)
-- [Brennan Center: Megadonors Playing Larger Role in Presidential Race, FEC Data Shows](https://www.brennancenter.org/our-work/analysis-opinion/megadonors-playing-larger-role-presidential-race-fec-data-shows) (Tier 2)
-- [Sludge: The Final Pre-Election Reports Are In — Here Are Trump's 20 Largest Donors](https://readsludge.com/2024/10/25/the-final-pre-election-reports-are-in-here-are-trumps-20-largest-donors/) (Tier 2)
-- [NBC News: Some of the biggest pro-Trump donors of 2024 are lining up for administration jobs](https://www.nbcnews.com/politics/donald-trump/biggest-trump-donors-2024-are-lining-administration-jobs-rcna180645) (Tier 2)
-- [CBS News: The megadonors who fueled Trump and the Republican Party and what they may want](https://www.cbsnews.com/news/trump-megadonors-2024-election/) (Tier 2)
-- [Quartz: They gave Donald Trump millions — here's what they want](https://qz.com/donald-trump-campaign-donors-elon-musk-timothy-mellon-1851706388) (Tier 2)
-- [Common Dreams: Billionaires Gave Nearly 20% of Donations in 2024 US Federal Elections](https://www.commondreams.org/news/billionaire-political-donations-2024) (Tier 3)
-- [Campaign Legal Center: Trump is Illegally Using Soft Money to Run for President in 2024](https://campaignlegal.org/update/trump-illegally-using-soft-money-run-president-2024) (Tier 2)
+- [OpenSecrets: Donald Trump 2024 summary — campaign and outside group fundraising totals](https://www.opensecrets.org/2024-presidential-race?id=N00023864) (Tier 1) (VERIFIED)
+- [OpenSecrets: Donald Trump 2024 top contributors](https://www.opensecrets.org/2024-presidential-race?id=N00023864) (Tier 1) (VERIFIED)
+- [OpenSecrets: Donald Trump 2024 top industries](https://www.opensecrets.org/2024-presidential-race?id=N00023864) (Tier 1) (VERIFIED)
+- [Brennan Center: Unprecedented Big Money Surge for Super PAC Tied to Trump](https://www.brennancenter.org/our-work/analysis-opinion/unprecedented-big-money-surge-super-pac-tied-trump) (Tier 2) (VERIFIED)
+- [Brennan Center: Megadonors Playing Larger Role in Presidential Race, FEC Data Shows](https://www.brennancenter.org/our-work/analysis-opinion/megadonors-playing-larger-role-presidential-race-fec-data-shows) (Tier 2) (VERIFIED)
+- [Sludge: The Final Pre-Election Reports Are In — Here Are Trump's 20 Largest Donors](https://readsludge.com/2024/10/25/the-final-pre-election-reports-are-in-here-are-trumps-20-largest-donors/) (Tier 2) (VERIFIED)
+- [NBC News: Some of the biggest pro-Trump donors of 2024 are lining up for administration jobs](https://www.nbcnews.com/politics/donald-trump/biggest-trump-donors-2024-are-lining-administration-jobs-rcna180645) (Tier 2) (VERIFIED)
+- [CBS News: The megadonors who fueled Trump and the Republican Party and what they may want](https://www.cbsnews.com/news/trump-megadonors-2024-election/) (Tier 2) (VERIFIED)
+- [Quartz: They gave Donald Trump millions — here's what they want](https://qz.com/donald-trump-campaign-donors-elon-musk-timothy-mellon-1851706388) (Tier 2) (VERIFIED)
+- [Common Dreams: Billionaires Gave Nearly 20% of Donations in 2024 US Federal Elections](https://www.commondreams.org/news/billionaire-political-donations-2024) (Tier 3) (VERIFIED)
+- [Campaign Legal Center: Trump is Illegally Using Soft Money to Run for President in 2024](https://campaignlegal.org/update/trump-illegally-using-soft-money-run-president-2024) (Tier 2) (VERIFIED)
 
 ---
 
@@ -178,7 +178,7 @@ The broader structural pattern: billionaires contributed nearly 20% of all donat
 - The New York Times Company v. Microsoft Corporation (2023) — District Court, S.D. New York
 - Bragg v. Jordan (2023) — District Court, S.D. New York
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Trump%202024%20Campaign%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Trump%202024%20Campaign%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### SEC Filing Activity
@@ -196,5 +196,5 @@ The broader structural pattern: billionaires contributed nearly 20% of all donat
 - 2025-06-24 — **PRER14C**: PRELIMINARY INFORMATION STATEMENT
 - 2025-07-11 — **PRER14C**: REVISED PRELIMINARY INFORMATION STATEMENT
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Trump%202024%20Campaign%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Trump%202024%20Campaign%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->

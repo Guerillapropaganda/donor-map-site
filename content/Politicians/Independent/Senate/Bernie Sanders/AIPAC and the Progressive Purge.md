@@ -84,7 +84,7 @@ The donor class doesn't need to defeat Sanders directly. He's in a safe Vermont 
 
 ### Sources
 
-- [OpenSecrets: AIPAC United Democracy Project PAC spending and contributions](https://www.opensecrets.org/political-action-committees-pacs/united-democracy-project/C00799031/summary/2024) (Tier 1)
-- [FEC: United Democracy Project independent expenditure filings](https://www.fec.gov/data/filings/) (Tier 1)
-- [Sludge: AIPAC 2024 election spending totals](https://readsludge.com/2025/01/24/here-is-all-the-money-aipac-spent-on-the-2024-elections/) (Tier 2)
+- [OpenSecrets: AIPAC United Democracy Project PAC spending and contributions](https://www.opensecrets.org/political-action-committees-pacs/united-democracy-project/C00799031/summary/2024) (Tier 1) (VERIFIED)
+- [FEC: United Democracy Project independent expenditure filings](https://www.fec.gov/data/filings/) (Tier 1) (VERIFIED)
+- [Sludge: AIPAC 2024 election spending totals](https://readsludge.com/2025/01/24/here-is-all-the-money-aipac-spent-on-the-2024-elections/) (Tier 2) (VERIFIED)
 

@@ -204,17 +204,17 @@ AFL-CIO President Shuler's framing: tariffs "can be an effective tool" but must 
 
 ### Sources
 
-- [OpenSecrets: AFL-CIO organizational profile, $2.9M contributions, $12.2M outside spending (2024)](https://www.opensecrets.org/orgs/afl-cio/summary?id=d000000088) (Tier 1)
-- [Senate LDA Filings: AFL-CIO lobbying profile, $5.2M (2024), $6.3M (2025)](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [FEC Independent Expenditures: AFL-CIO outside spending detail (2024 cycle)](https://www.fec.gov/data/independent-expenditures/) (Tier 1)
-- [FEC: AFL-CIO COPE Political Contributions Committee (C00003806)](https://www.fec.gov/data/committee/C00003806/) (Tier 1)
-- [Congress.gov: H.R. 20. Richard L. Trumka PRO Act of 2023 (118th Congress)](https://www.congress.gov/bill/118th-congress/house-bill/20) (Tier 1)
-- [BLS: Union Membership Annual Report (2025 data)](https://www.bls.gov/news.release/union2.htm) (Tier 1)
-- [EPI: Unions raise wages, tariffs don't. Trump trade policy analysis](https://www.epi.org/publication/unions-raise-wages-tariffs-dont-why-trumps-trade-policy-wont-help-u-s-workers/) (Tier 2)
-- [Slate: America's labor unions are souring on Trump (May 2025)](https://slate.com/news-and-politics/2025/05/unions-donald-trump-2026-election-kilmar-abrego-garcia.html) (Tier 2)
-- [Newsweek: Teamsters back Trump's tariffs, labor movement split](https://www.newsweek.com/teamsters-labor-union-supports-tariffs-donald-trump-2057151) (Tier 2)
-- [AFL-CIO: President Shuler on tariff announcement](https://aflcio.org/press/releases/afl-cio-president-tariff-announcement) (Tier 3)
-- [Ballotpedia: AFL-CIO](https://ballotpedia.org/AFL-CIO) (Tier 3)
+- [OpenSecrets: AFL-CIO organizational profile, $2.9M contributions, $12.2M outside spending (2024)](https://www.opensecrets.org/orgs/afl-cio/summary?id=d000000088) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: AFL-CIO lobbying profile, $5.2M (2024), $6.3M (2025)](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [FEC Independent Expenditures: AFL-CIO outside spending detail (2024 cycle)](https://www.fec.gov/data/independent-expenditures/) (Tier 1) (NEEDS REVIEW)
+- [FEC: AFL-CIO COPE Political Contributions Committee (C00003806)](https://www.fec.gov/data/committee/C00003806/) (Tier 1) (VERIFIED)
+- [Congress.gov: H.R. 20. Richard L. Trumka PRO Act of 2023 (118th Congress)](https://www.congress.gov/bill/118th-congress/house-bill/20) (Tier 1) (VERIFIED)
+- [BLS: Union Membership Annual Report (2025 data)](https://www.bls.gov/news.release/union2.htm) (Tier 1) (VERIFIED)
+- [EPI: Unions raise wages, tariffs don't. Trump trade policy analysis](https://www.epi.org/publication/unions-raise-wages-tariffs-dont-why-trumps-trade-policy-wont-help-u-s-workers/) (Tier 2) (VERIFIED)
+- [Slate: America's labor unions are souring on Trump (May 2025)](https://slate.com/news-and-politics/2025/05/unions-donald-trump-2026-election-kilmar-abrego-garcia.html) (Tier 2) (VERIFIED)
+- [Newsweek: Teamsters back Trump's tariffs, labor movement split](https://www.newsweek.com/teamsters-labor-union-supports-tariffs-donald-trump-2057151) (Tier 2) (VERIFIED)
+- ~~[AFL-CIO: President Shuler on tariff announcement](https://aflcio.org/press/releases/afl-cio-president-tariff-announcement)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [Ballotpedia: AFL-CIO](https://ballotpedia.org/AFL-CIO) (Tier 3) (VERIFIED)
 
 ---
 
@@ -241,7 +241,7 @@ AFL-CIO President Shuler's framing: tariffs "can be an effective tool" but must 
 | Total Expenses | $78K |
 | Net Assets | $47K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 746062811](https://projects.propublica.org/nonprofits/organizations/746062811) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 746062811](https://projects.propublica.org/nonprofits/organizations/746062811) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Campaign Finance (FEC)
@@ -266,7 +266,7 @@ AFL-CIO President Shuler's framing: tariffs "can be an effective tool" but must 
 | IN UNION USA | $100,000 | — |
 | COMMUNITIES UNITED | $100,000 | — |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=AFL-CIO) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=AFL-CIO) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### Federal Court Records (CourtListener)
@@ -285,7 +285,7 @@ AFL-CIO President Shuler's framing: tariffs "can be an effective tool" but must 
 - Luma v. Mullin (2026) — District Court, E.D. New York
 - Moran Contreras v. Mullin (2026) — District Court, E.D. New York
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22AFL-CIO%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22AFL-CIO%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Register Activity
@@ -300,13 +300,13 @@ AFL-CIO President Shuler's framing: tariffs "can be an effective tool" but must 
 | Agencies | Agriculture Department, Commerce Department, Employment and Training Administration, Energy Department, Executive Office for Immigration Review, Federal Labor Relations Authority, Federal Motor Carrier Safety Administration, Financial Stability Oversight Council +7 more |
 
 **Recent regulatory activity:**
-- [Oil Country Tubular Goods From Austria, Taiwan, and United Arab Emirates; Institution of Antidumping and Countervailing Duty Investigations and Scheduling of Preliminary Phase Investigations](https://www.federalregister.gov/documents/2026/04/07/2026-06689/oil-country-tubular-goods-from-austria-taiwan-and-united-arab-emirates-institution-of-antidumping) (2026-04-07) — International Trade Commission
-- [Walking-Working Surfaces](https://www.federalregister.gov/documents/2026/04/06/2026-06578/walking-working-surfaces) (2026-04-06) — Labor Department
-- [Authority To Require Supervision and Regulation of Certain Nonbank Financial Companies](https://www.federalregister.gov/documents/2026/03/30/2026-06114/authority-to-require-supervision-and-regulation-of-certain-nonbank-financial-companies) (2026-03-30) — Financial Stability Oversight Council
-- [High Purity Dissolving Pulp From Brazil: Preliminary Affirmative Countervailing Duty Determination and Alignment of Final Determination With Final Antidumping Duty Determination](https://www.federalregister.gov/documents/2026/03/25/2026-05805/high-purity-dissolving-pulp-from-brazil-preliminary-affirmative-countervailing-duty-determination) (2026-03-25) — Commerce Department
-- [Passenger Vehicle and Light Truck Tires From Taiwan: Notice of Court Decision Not in Harmony With Final Scope Ruling; Notice of Amended Final Scope Ruling Pursuant to Court Decision](https://www.federalregister.gov/documents/2026/03/12/2026-04881/passenger-vehicle-and-light-truck-tires-from-taiwan-notice-of-court-decision-not-in-harmony-with) (2026-03-12) — Commerce Department
-- [Miscellaneous and General Requirements](https://www.federalregister.gov/documents/2026/03/05/2026-04396/miscellaneous-and-general-requirements) (2026-03-05) — Federal Labor Relations Authority
+- [Oil Country Tubular Goods From Austria, Taiwan, and United Arab Emirates; Institution of Antidumping and Countervailing Duty Investigations and Scheduling of Preliminary Phase Investigations](https://www.federalregister.gov/documents/2026/04/07/2026-06689/oil-country-tubular-goods-from-austria-taiwan-and-united-arab-emirates-institution-of-antidumping) (VERIFIED) (2026-04-07) — International Trade Commission
+- [Walking-Working Surfaces](https://www.federalregister.gov/documents/2026/04/06/2026-06578/walking-working-surfaces) (VERIFIED) (2026-04-06) — Labor Department
+- [Authority To Require Supervision and Regulation of Certain Nonbank Financial Companies](https://www.federalregister.gov/documents/2026/03/30/2026-06114/authority-to-require-supervision-and-regulation-of-certain-nonbank-financial-companies) (VERIFIED) (2026-03-30) — Financial Stability Oversight Council
+- [High Purity Dissolving Pulp From Brazil: Preliminary Affirmative Countervailing Duty Determination and Alignment of Final Determination With Final Antidumping Duty Determination](https://www.federalregister.gov/documents/2026/03/25/2026-05805/high-purity-dissolving-pulp-from-brazil-preliminary-affirmative-countervailing-duty-determination) (VERIFIED) (2026-03-25) — Commerce Department
+- [Passenger Vehicle and Light Truck Tires From Taiwan: Notice of Court Decision Not in Harmony With Final Scope Ruling; Notice of Amended Final Scope Ruling Pursuant to Court Decision](https://www.federalregister.gov/documents/2026/03/12/2026-04881/passenger-vehicle-and-light-truck-tires-from-taiwan-notice-of-court-decision-not-in-harmony-with) (VERIFIED) (2026-03-12) — Commerce Department
+- [Miscellaneous and General Requirements](https://www.federalregister.gov/documents/2026/03/05/2026-04396/miscellaneous-and-general-requirements) (VERIFIED) (2026-03-05) — Federal Labor Relations Authority
 - ... and 1,823 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22AFL-CIO%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22AFL-CIO%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->

@@ -56,7 +56,7 @@ The pivot was transactional, not ideological. Bessent identified that the Republ
 
 ### Sources
 
-- [Newsweek: Scott Bessent connection to George Soros explained](https://www.newsweek.com/scott-bessent-connection-george-soros-trump-treasury-secretary-1984669) (Tier 2)
-- [Britannica: Scott Bessent — Treasury Secretary, Soros CIO, Key Square Capital](https://www.britannica.com/biography/Scott-Bessent) (Tier 3)
-- [CNN: Scott Bessent Fast Facts — career timeline](https://www.cnn.com/politics/scott-bessent-fast-facts) (Tier 2)
+- [Newsweek: Scott Bessent connection to George Soros explained](https://www.newsweek.com/scott-bessent-connection-george-soros-trump-treasury-secretary-1984669) (Tier 2) (VERIFIED)
+- [Britannica: Scott Bessent — Treasury Secretary, Soros CIO, Key Square Capital](https://www.britannica.com/biography/Scott-Bessent) (Tier 3) (VERIFIED)
+- [CNN: Scott Bessent Fast Facts — career timeline](https://www.cnn.com/politics/scott-bessent-fast-facts) (Tier 2) (VERIFIED)
 

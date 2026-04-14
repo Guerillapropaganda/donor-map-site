@@ -13,7 +13,7 @@ profiles:
 
 ## 1 crew member rescued, 1 missing after Iran shoots down F-15 fighter jet
 
-**Source:** [The Hill](https://thehill.com/policy/defense/5814770-us-fighter-jet-f-15-downed-iran/)
+**Source:** ~~[The Hill](https://thehill.com/policy/defense/5814770-us-fighter-jet-f-15-downed-iran/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-03
 
 One of the two U.S. crew members of a U.S. fighter jet that was shot down over Iran was rescued by U.S. forces, a U.S. official, speaking on condition of anonymity, told The Hill on Friday.&#160; A search and rescue is underway for the other service member, whose status is unclear. Both crew members ejected&#8230;

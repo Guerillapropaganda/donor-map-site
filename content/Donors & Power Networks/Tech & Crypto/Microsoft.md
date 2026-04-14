@@ -68,7 +68,7 @@ Microsoft Corporation. The second-most valuable company in the world (~$3.1 tril
 
 Microsoft is one of the top corporate political spenders in America: $10.6 million in federal lobbying in 2024, $2+ million in PAC contributions per cycle, and one of the largest government contracting relationships of any tech company. Microsoft's JEDI and subsequent JWCC cloud contracts with the Pentagon position the company as a core defense technology provider.
 
-- [OpenSecrets: Microsoft Corp organizational profile](https://www.opensecrets.org/orgs/microsoft-corp/summary?id=D000000115) (Tier 1)
+- [OpenSecrets: Microsoft Corp organizational profile](https://www.opensecrets.org/orgs/microsoft-corp/summary?id=D000000115) (Tier 1) (VERIFIED)
 
 ---
 
@@ -111,12 +111,12 @@ Microsoft represents the corporate capture of government technology infrastructu
 ### Sources
 
 - [OpenSecrets: Microsoft Corp organizational profile](https://www.opensecrets.org/orgs/microsoft-corp/summary?id=D000000115) (Tier 1)
-- [OpenSecrets: Microsoft Corp lobbying expenditures](https://www.opensecrets.org/orgs/microsoft-corp/lobbying?id=D000000115) (Tier 1)
-- [Department of Defense: JWCC cloud contract award](https://www.defense.gov/News/Releases/Release/Article/3239378/) (Tier 1)
-- [SEC: Microsoft 10-K filing](https://www.sec.gov/cgi-bin/browse-edgar?company=microsoft&CIK=&type=10-K) (Tier 1)
-- [Washington Post: How Microsoft earned lawmakers trust in Silicon Valley battles](https://www.washingtonpost.com/technology/2022/01/19/microsoft-antitrust-lobbying-washington-reputation/) (Tier 2)
-- [The Verge: Microsoft Activision acquisition and antitrust fight](https://www.theverge.com/microsoft-activision-acquisition/) (Tier 2)
-- [Ballotpedia: Microsoft political spending](https://ballotpedia.org/Microsoft) (Tier 3)
+- [OpenSecrets: Microsoft Corp lobbying expenditures](https://www.opensecrets.org/orgs/microsoft-corp/lobbying?id=D000000115) (Tier 1) (VERIFIED)
+- [Department of Defense: JWCC cloud contract award](https://www.defense.gov/News/Releases/Release/Article/3239378/) (Tier 1) (NEEDS REVIEW)
+- [SEC: Microsoft 10-K filing](https://www.sec.gov/cgi-bin/browse-edgar?company=microsoft&CIK=&type=10-K) (Tier 1) (VERIFIED)
+- [Washington Post: How Microsoft earned lawmakers trust in Silicon Valley battles](https://www.washingtonpost.com/technology/2022/01/19/microsoft-antitrust-lobbying-washington-reputation/) (Tier 2) (VERIFIED)
+- ~~[The Verge: Microsoft Activision acquisition and antitrust fight](https://www.theverge.com/microsoft-activision-acquisition/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Ballotpedia: Microsoft political spending](https://ballotpedia.org/Microsoft) (Tier 3) (VERIFIED)
 
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->
@@ -134,7 +134,7 @@ Microsoft represents the corporate capture of government technology infrastructu
 
 **Agencies contacted:** Agriculture, Dept of (USDA), Commerce, Dept of (DOC), Defense, Dept of (DOD), Education, Dept of, Energy, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP), Federal Aviation Administration (FAA), Federal Communications Commission (FCC), Federal Railroad Administration +26 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Microsoft) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Microsoft) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)
@@ -194,8 +194,8 @@ Microsoft represents the corporate capture of government technology infrastructu
 | Total Expenses | $40K |
 | Net Assets | $2.8M |
 
-- [Source: ProPublica Nonprofit Explorer - EIN 916374992](https://projects.propublica.org/nonprofits/organizations/916374992) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F916374992_202206_990PF_2023030921056171.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer - EIN 916374992](https://projects.propublica.org/nonprofits/organizations/916374992) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F916374992_202206_990PF_2023030921056171.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Federal Court Records (CourtListener)
@@ -214,7 +214,7 @@ Microsoft represents the corporate capture of government technology infrastructu
 - Southeast Kansas Eye Care Associates, P.A. v. UnitedHealth Group Incorporated (2026) - District Court, D. Kansas
 - Shaw v. Kennedy (2026) - Court of Appeals for the First Circuit
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Microsoft%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Microsoft%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Product Recalls (CPSC)
@@ -227,9 +227,9 @@ Microsoft represents the corporate capture of government technology infrastructu
 
 **Recent recalls:**
 
-- [Microsoft Recalls AC Power Cords for Surface Pro Devices Due to Fire, Shock Hazards](https://www.cpsc.gov/Recalls/16089) (2016-02-02) - The power cords can overheat, posing fire or shock hazards.
+- ~~[Microsoft Recalls AC Power Cords for Surface Pro Devices Due to Fire, Shock Hazards](https://www.cpsc.gov/Recalls/16089)~~ (URL broken, archived by Ops) (2016-02-02) - The power cords can overheat, posing fire or shock hazards.
 
-- [Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Microsoft) (Tier 1)
+- ~~[Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Microsoft)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:cpsc-recalls end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -286,14 +286,14 @@ Microsoft represents the corporate capture of government technology infrastructu
 | Software Publishers (513210) | $732K |
 | Computer and Computer Peripheral Equipment and Software Merchant Wholesalers (423430) | $685K |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [967600DJA1Q8K13MZ845](https://search.gleif.org/#/record/967600DJA1Q8K13MZ845) |
+| LEI | [967600DJA1Q8K13MZ845](https://search.gleif.org/#/record/967600DJA1Q8K13MZ845) (VERIFIED) |
 | Legal Name | Microsoft |
 | Jurisdiction | BE |
 | Entity Status | ACTIVE |
@@ -301,7 +301,7 @@ Microsoft represents the corporate capture of government technology infrastructu
 | Registration | LAPSED |
 | Last Updated | 2019-01-09T23:16:45Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Federal Register Activity
@@ -315,15 +315,15 @@ Microsoft represents the corporate capture of government technology infrastructu
 | Agencies | Agriculture Department, Commerce Department, Defense Department, Education Department, Energy Department, Federal Communications Commission, Federal Energy Regulatory Commission, Food and Nutrition Service +4 more |
 
 **Recent regulatory activity:**
-- [Southern Star Central Gas Pipeline, Inc.; Notice of Application and Establishing Intervention Deadline](https://www.federalregister.gov/documents/2026/04/07/2026-06704/southern-star-central-gas-pipeline-inc-notice-of-application-and-establishing-intervention-deadline) (2026-04-07) - Energy Department
-- [Department of Defense Wage Committee (DoD Wage Committee); Notice of Federal Advisory Committee Meetings](https://www.federalregister.gov/documents/2026/04/06/2026-06645/department-of-defense-wage-committee-dod-wage-committee-notice-of-federal-advisory-committee) (2026-04-06) - Defense Department
-- [Privacy Act of 1974; System of Records](https://www.federalregister.gov/documents/2026/04/06/2026-06609/privacy-act-of-1974-system-of-records) (2026-04-06) - Housing and Urban Development Department
-- [Privacy Act of 1974; System of Records](https://www.federalregister.gov/documents/2026/04/06/2026-06606/privacy-act-of-1974-system-of-records) (2026-04-06) - Housing and Urban Development Department
-- [Village of Morrisville, Vermont; Notice of Meeting To Discuss Settlement Agreement](https://www.federalregister.gov/documents/2026/04/02/2026-06431/village-of-morrisville-vermont-notice-of-meeting-to-discuss-settlement-agreement) (2026-04-02) - Energy Department
-- [Proposed Collection; Comment Request](https://www.federalregister.gov/documents/2026/03/31/2026-06219/proposed-collection-comment-request) (2026-03-31) - Defense Department
+- [Southern Star Central Gas Pipeline, Inc.; Notice of Application and Establishing Intervention Deadline](https://www.federalregister.gov/documents/2026/04/07/2026-06704/southern-star-central-gas-pipeline-inc-notice-of-application-and-establishing-intervention-deadline) (VERIFIED) (2026-04-07) - Energy Department
+- [Department of Defense Wage Committee (DoD Wage Committee); Notice of Federal Advisory Committee Meetings](https://www.federalregister.gov/documents/2026/04/06/2026-06645/department-of-defense-wage-committee-dod-wage-committee-notice-of-federal-advisory-committee) (VERIFIED) (2026-04-06) - Defense Department
+- [Privacy Act of 1974; System of Records](https://www.federalregister.gov/documents/2026/04/06/2026-06609/privacy-act-of-1974-system-of-records) (VERIFIED) (2026-04-06) - Housing and Urban Development Department
+- [Privacy Act of 1974; System of Records](https://www.federalregister.gov/documents/2026/04/06/2026-06606/privacy-act-of-1974-system-of-records) (VERIFIED) (2026-04-06) - Housing and Urban Development Department
+- [Village of Morrisville, Vermont; Notice of Meeting To Discuss Settlement Agreement](https://www.federalregister.gov/documents/2026/04/02/2026-06431/village-of-morrisville-vermont-notice-of-meeting-to-discuss-settlement-agreement) (VERIFIED) (2026-04-02) - Energy Department
+- [Proposed Collection; Comment Request](https://www.federalregister.gov/documents/2026/03/31/2026-06219/proposed-collection-comment-request) (VERIFIED) (2026-03-31) - Defense Department
 - ... and 9,994 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Microsoft%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Microsoft%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Federal Spending (USASpending)
@@ -345,5 +345,5 @@ Microsoft represents the corporate capture of government technology infrastructu
 | $148.0M | Department of Defense | IGF::OT::IGF LABOR |
 | $119.5M | Department of Defense | MICROSOFT CONSULTING SERVICES (MCS) AND UNIFIED SUPPORT FOR THE U.S. NAVY / PROGRAM EXECUTIVE OFFICE |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/dd77b7c3-663e-cb91-229f-5766a50e9b7f-C/latest) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/dd77b7c3-663e-cb91-229f-5766a50e9b7f-C/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->

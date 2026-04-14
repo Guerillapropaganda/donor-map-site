@@ -44,8 +44,8 @@ The structural parallel to the Koch network is exact. Conservative donors coordi
 
 ### Sources
 
-- [IRS: Democracy Alliance-funded 990 filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=National%20Progressive%20Donor%20Networks&city=&state=All+States&country=US) (Tier 1)
-- [Ballotpedia: Progressive donor networks](https://ballotpedia.org/National_Progressive_Donor_Networks) (Tier 3)
+- ~~[IRS: Democracy Alliance-funded 990 filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=National%20Progressive%20Donor%20Networks&city=&state=All+States&country=US)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Ballotpedia: Progressive donor networks](https://ballotpedia.org/National_Progressive_Donor_Networks) (Tier 3) (VERIFIED)
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
@@ -66,7 +66,7 @@ The structural parallel to the Koch network is exact. Conservative donors coordi
 
 **Agencies contacted:** Advisory Council on Historic Preservation (ACHP), Agriculture, Dept of (USDA), American Battle Monuments Commission, Army, Dept of (Corps of Engineers), Bureau of Land Management (BLM), Centers For Disease Control & Prevention (CDC), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Congressional Budget Office (CBO), Consumer Financial Protection Bureau (CFPB) +60 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=National%20Progressive%20Donor%20Networks) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=National%20Progressive%20Donor%20Networks) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

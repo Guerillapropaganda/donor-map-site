@@ -37,8 +37,8 @@ See [[Financial Services Donors]], [[Securities & Investment Industry]], and [[G
 
 ### Sources
 
-- [FEC Receipts: Finance sector contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- [Ballotpedia: Wall Street political spending](https://ballotpedia.org/Wall_Street_Bloc) (Tier 3)
+- [FEC Receipts: Finance sector contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
+- [Ballotpedia: Wall Street political spending](https://ballotpedia.org/Wall_Street_Bloc) (Tier 3) (VERIFIED)
 
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->
@@ -56,7 +56,7 @@ See [[Financial Services Donors]], [[Securities & Investment Industry]], and [[G
 
 **Agencies contacted:** Agriculture, Dept of (USDA), Army, Dept of (Corps of Engineers), Commerce, Dept of (DOC), Federal Aviation Administration (FAA), Federal Trade Commission (FTC), HOUSE OF REPRESENTATIVES, Homeland Security, Dept of (DHS), Housing & Urban Development, Dept of (HUD), Interior, Dept of (DOI), Justice, Dept of (DOJ) +11 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Wall%20Street%20Bloc) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Wall%20Street%20Bloc) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

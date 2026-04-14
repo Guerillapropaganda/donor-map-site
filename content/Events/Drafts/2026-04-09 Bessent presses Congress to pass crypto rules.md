@@ -13,7 +13,7 @@ profiles:
 
 ## Bessent presses Congress to pass crypto rules
 
-**Source:** [The Hill](https://thehill.com/policy/technology/5823712-treasury-secretary-urges-crypto-bill/)
+**Source:** ~~[The Hill](https://thehill.com/policy/technology/5823712-treasury-secretary-urges-crypto-bill/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-09
 
 Treasury Secretary Scott Bessent pressed Congress on Wednesday to pass a cryptocurrency bill clarifying rules for the market, as the legislation remains stuck in the Senate after months of negotiations. In a Wall Street Journal op-ed, Bessent argued the U.S. risks forfeiting its role as a global financial leader and pushing the industry offshore if…

@@ -211,22 +211,22 @@ The "urban affairs" framing is particularly effective: MI presents itself as sol
 
 ### Sources
 
-- [ProPublica Nonprofit Explorer: Manhattan Institute for Policy Research, IRS Form 990 filings 2011–2024](https://projects.propublica.org/nonprofits/organizations/132912529) (Tier 1)
-- [ProPublica Trump Town: Manhattan Institute alumni in Trump administration](https://projects.propublica.org/trump-town/organizations/manhattan-institute) (Tier 2)
-- [The Intercept: As Paul Singer Donated Millions to Republican Governors Association, Public Funds Flowed Into His Hedge Funds](https://theintercept.com/2020/10/15/paul-singer-hedge-fund-republican-governors-association-rga/) (Tier 2)
-- [Inside Philanthropy: Why Wall Streeters Love The Manhattan Institute](https://www.insidephilanthropy.com/home/economic-policy-research-2015-6-1-why-wall-streeters-love-the-manhattan-institute-html) (Tier 2)
-- [DeSmog: Manhattan Institute for Policy Research, climate and energy research profile](https://www.desmog.com/manhattan-institute-policy-research/) (Tier 2)
-- [SourceWatch: Manhattan Institute for Policy Research, funding documentation](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Manhattan_Institute_for_Policy_Research) (Tier 3)
-- [InfluenceWatch: Manhattan Institute for Policy Research](https://www.influencewatch.org/non-profit/manhattan-institute-for-policy-research/) (Tier 3)
-- [Wikipedia: Manhattan Institute for Policy Research](https://en.wikipedia.org/wiki/Manhattan_Institute_for_Policy_Research) (Tier 3)
-- [Charity Navigator: Rating for Manhattan Institute for Policy Research (0/100 accountability)](https://www.charitynavigator.org/ein/132912529) (Tier 3)
-- [City Journal: Broken Windows Turns 25](https://www.city-journal.org/article/broken-windows-turns-25) (Tier 3)
-- [Manhattan Institute: Abolish DEI Bureaucracies and Restore Colorblind Equality in Public Universities (Rufo, 2023)](https://manhattan.institute/article/abolish-dei-bureaucracies-and-restore-colorblind-equality-in-public-universities) (Tier 3)
-- [Manhattan Institute: Critical Race Theory Is the New Segregation (Rufo, 2021)](https://manhattan.institute/article/critical-race-theory-is-the-new-segregation-across-schools-nationwide) (Tier 3)
-- [Wikipedia: Christopher Rufo, background and policy campaigns](https://en.wikipedia.org/wiki/Christopher_Rufo) (Tier 3)
-- [The Intercept: Funded by Dark Money, Chris Rufo's Nonprofit Stokes the Far Right's Culture War (2023)](https://theintercept.com/2023/06/08/christopher-rufo-nonprofit-dark-money/) (Tier 2)
-- [Supreme Transparency: Manhattan Institute, amicus briefs, dark money connections, Leonard Leo's 85 Fund $450K (2022)](https://supremetransparency.org/powerbrokers/manhattan-institute/) (Tier 2)
-- [City Journal: Trump Executive Order on DEI Is One to Celebrate (Rufo, Jan. 21, 2025)](https://www.city-journal.org/article/donald-trump-dei-executive-order) (Tier 3)
+- [ProPublica Nonprofit Explorer: Manhattan Institute for Policy Research, IRS Form 990 filings 2011–2024](https://projects.propublica.org/nonprofits/organizations/132912529) (Tier 1) (VERIFIED)
+- [ProPublica Trump Town: Manhattan Institute alumni in Trump administration](https://projects.propublica.org/trump-town/organizations/manhattan-institute) (Tier 2) (VERIFIED)
+- [The Intercept: As Paul Singer Donated Millions to Republican Governors Association, Public Funds Flowed Into His Hedge Funds](https://theintercept.com/2020/10/15/paul-singer-hedge-fund-republican-governors-association-rga/) (Tier 2) (VERIFIED)
+- [Inside Philanthropy: Why Wall Streeters Love The Manhattan Institute](https://www.insidephilanthropy.com/home/economic-policy-research-2015-6-1-why-wall-streeters-love-the-manhattan-institute-html) (Tier 2) (VERIFIED)
+- [DeSmog: Manhattan Institute for Policy Research, climate and energy research profile](https://www.desmog.com/manhattan-institute-policy-research/) (Tier 2) (VERIFIED)
+- ~~[SourceWatch: Manhattan Institute for Policy Research, funding documentation](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Manhattan_Institute_for_Policy_Research)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [InfluenceWatch: Manhattan Institute for Policy Research](https://www.influencewatch.org/non-profit/manhattan-institute-for-policy-research/) (Tier 3) (VERIFIED)
+- [Wikipedia: Manhattan Institute for Policy Research](https://en.wikipedia.org/wiki/Manhattan_Institute_for_Policy_Research) (Tier 3) (VERIFIED)
+- [Charity Navigator: Rating for Manhattan Institute for Policy Research (0/100 accountability)](https://www.charitynavigator.org/ein/132912529) (Tier 3) (VERIFIED)
+- [City Journal: Broken Windows Turns 25](https://www.city-journal.org/article/broken-windows-turns-25) (Tier 3) (VERIFIED)
+- [Manhattan Institute: Abolish DEI Bureaucracies and Restore Colorblind Equality in Public Universities (Rufo, 2023)](https://manhattan.institute/article/abolish-dei-bureaucracies-and-restore-colorblind-equality-in-public-universities) (Tier 3) (VERIFIED)
+- [Manhattan Institute: Critical Race Theory Is the New Segregation (Rufo, 2021)](https://manhattan.institute/article/critical-race-theory-is-the-new-segregation-across-schools-nationwide) (Tier 3) (VERIFIED)
+- [Wikipedia: Christopher Rufo, background and policy campaigns](https://en.wikipedia.org/wiki/Christopher_Rufo) (Tier 3) (VERIFIED)
+- [The Intercept: Funded by Dark Money, Chris Rufo's Nonprofit Stokes the Far Right's Culture War (2023)](https://theintercept.com/2023/06/08/christopher-rufo-nonprofit-dark-money/) (Tier 2) (VERIFIED)
+- [Supreme Transparency: Manhattan Institute, amicus briefs, dark money connections, Leonard Leo's 85 Fund $450K (2022)](https://supremetransparency.org/powerbrokers/manhattan-institute/) (Tier 2) (VERIFIED)
+- [City Journal: Trump Executive Order on DEI Is One to Celebrate (Rufo, Jan. 21, 2025)](https://www.city-journal.org/article/donald-trump-dei-executive-order) (Tier 3) (VERIFIED)
 
 ---
 
@@ -241,13 +241,13 @@ The "urban affairs" framing is particularly effective: MI presents itself as sol
 | Agencies | Commerce Department, Securities and Exchange Commission |
 
 **Recent regulatory activity:**
-- [Procedural Requirements and Resubmission Thresholds Under Exchange Act Rule 14a-8](https://www.federalregister.gov/documents/2020/11/04/2020-21580/procedural-requirements-and-resubmission-thresholds-under-exchange-act-rule-14a-8) (2020-11-04) — Securities and Exchange Commission
-- [Exemptions From the Proxy Rules for Proxy Voting Advice](https://www.federalregister.gov/documents/2020/09/03/2020-16337/exemptions-from-the-proxy-rules-for-proxy-voting-advice) (2020-09-03) — Securities and Exchange Commission
-- [Procedural Requirements and Resubmission Thresholds Under Exchange Act Rule 14a-8](https://www.federalregister.gov/documents/2019/12/04/2019-24476/procedural-requirements-and-resubmission-thresholds-under-exchange-act-rule-14a-8) (2019-12-04) — Securities and Exchange Commission
-- [Submission for OMB Review; Comment Request](https://www.federalregister.gov/documents/2012/01/13/2012-514/submission-for-omb-review-comment-request) (2012-01-13) — Commerce Department
-- [Submission for OMB Review; Comment Request](https://www.federalregister.gov/documents/2010/02/08/2010-2658/submission-for-omb-review-comment-request) (2010-02-08) — Commerce Department
+- [Procedural Requirements and Resubmission Thresholds Under Exchange Act Rule 14a-8](https://www.federalregister.gov/documents/2020/11/04/2020-21580/procedural-requirements-and-resubmission-thresholds-under-exchange-act-rule-14a-8) (VERIFIED) (2020-11-04) — Securities and Exchange Commission
+- [Exemptions From the Proxy Rules for Proxy Voting Advice](https://www.federalregister.gov/documents/2020/09/03/2020-16337/exemptions-from-the-proxy-rules-for-proxy-voting-advice) (VERIFIED) (2020-09-03) — Securities and Exchange Commission
+- [Procedural Requirements and Resubmission Thresholds Under Exchange Act Rule 14a-8](https://www.federalregister.gov/documents/2019/12/04/2019-24476/procedural-requirements-and-resubmission-thresholds-under-exchange-act-rule-14a-8) (VERIFIED) (2019-12-04) — Securities and Exchange Commission
+- [Submission for OMB Review; Comment Request](https://www.federalregister.gov/documents/2012/01/13/2012-514/submission-for-omb-review-comment-request) (VERIFIED) (2012-01-13) — Commerce Department
+- [Submission for OMB Review; Comment Request](https://www.federalregister.gov/documents/2010/02/08/2010-2658/submission-for-omb-review-comment-request) (VERIFIED) (2010-02-08) — Commerce Department
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Manhattan%20Institute%20for%20Policy%20Research%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Manhattan%20Institute%20for%20Policy%20Research%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### OFAC Sanctions Screening
@@ -272,7 +272,7 @@ The "urban affairs" framing is particularly effective: MI presents itself as sol
 - STATE RESEARCH CENTER OF THE RUSSIAN FEDERATION FGUP CENTRAL SCIENTIFIC RESEARCH INSTITUTE OF CHEMISTRY AND MECHANICS (-0-) [CAATSA - RUSSIA]
   - Remarks: Website http://cniihm.ru; Secondary sanctions risk: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201; Tax ID No. 7724073013 (Russia); Government Gazette Number 07521506 (Russia); Registra...
 
-- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
 ### Federal Court Records (CourtListener)
@@ -291,7 +291,7 @@ The "urban affairs" framing is particularly effective: MI presents itself as sol
 - FTX Recovery Trust v. Ryan Salame (2024) — United States Bankruptcy Court, D. Delaware
 - STANDING ROCK SIOUX TRIBE v. U.S. ARMY CORPS OF ENGINEERS (2024) — District Court, District of Columbia
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Manhattan%20Institute%20for%20Policy%20Research%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Manhattan%20Institute%20for%20Policy%20Research%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### SEC Filing Activity
@@ -305,11 +305,11 @@ The "urban affairs" framing is particularly effective: MI presents itself as sol
 
 **Notable filings:**
 
-- 2026-01-13 — **10-Q**: [10-Q](https://www.sec.gov/Archives/edgar/data/724445/000110465926003337/0001104659-26-003337-index.htm)
-- 2025-10-14 — **10-Q**: [10-Q](https://www.sec.gov/Archives/edgar/data/724445/000110465925099284/0001104659-25-099284-index.htm)
-- 2025-09-11 — **8-K/A**: [FORM 8-K/A](https://www.sec.gov/Archives/edgar/data/724445/000141057825002050/0001410578-25-002050-index.htm)
-- 2025-07-24 — **8-K**: [FORM 8-K](https://www.sec.gov/Archives/edgar/data/724445/000110465925070376/0001104659-25-070376-index.htm)
-- 2025-07-15 — **10-Q**: [10-Q](https://www.sec.gov/Archives/edgar/data/724445/000155837025009242/0001558370-25-009242-index.htm)
+- 2026-01-13 — **10-Q**: [10-Q](https://www.sec.gov/Archives/edgar/data/724445/000110465926003337/0001104659-26-003337-index.htm) (VERIFIED)
+- 2025-10-14 — **10-Q**: [10-Q](https://www.sec.gov/Archives/edgar/data/724445/000110465925099284/0001104659-25-099284-index.htm) (VERIFIED)
+- 2025-09-11 — **8-K/A**: [FORM 8-K/A](https://www.sec.gov/Archives/edgar/data/724445/000141057825002050/0001410578-25-002050-index.htm) (VERIFIED)
+- 2025-07-24 — **8-K**: [FORM 8-K](https://www.sec.gov/Archives/edgar/data/724445/000110465925070376/0001104659-25-070376-index.htm) (VERIFIED)
+- 2025-07-15 — **10-Q**: [10-Q](https://www.sec.gov/Archives/edgar/data/724445/000155837025009242/0001558370-25-009242-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Manhattan%20Institute%20for%20Policy%20Research%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Manhattan%20Institute%20for%20Policy%20Research%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->

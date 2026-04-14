@@ -72,8 +72,8 @@ The Daily Wire's revenue structure has three pillars: subscriptions, advertising
 > [!money]
 > The co-founder of the largest conservative media company in America — whose platform reaches 25 million monthly listeners and whose content directly shapes Republican electoral outcomes — has made exactly one federal contribution: $2,800 to a safe-seat Iowa Republican. This is not political engagement through donations; it is a token contribution from someone whose political influence operates through infrastructure, not campaign checks. The Daily Wire IS the political contribution.
 
-- [FEC: Ben Shapiro individual contributions (665 results, fuzzy-matched)](https://www.fec.gov/data/receipts/?contributor_name=shapiro%2C+ben) (Tier 1)
-- [MinistryWatch: Dust Up Between Christianity Today and Daily Wire](https://ministrywatch.com/dust-up-between-christianity-today-and-daily-wire-provides-a-teachable-moment/) (Tier 3) (WebFetch verified 2026-03-31 — confirms $2,800 to Feenstra as largest DW employee contribution)
+- [FEC: Ben Shapiro individual contributions (665 results, fuzzy-matched)](https://www.fec.gov/data/receipts/?contributor_name=shapiro%2C+ben) (Tier 1) (VERIFIED)
+- [MinistryWatch: Dust Up Between Christianity Today and Daily Wire](https://ministrywatch.com/dust-up-between-christianity-today-and-daily-wire-provides-a-teachable-moment/) (Tier 3) (VERIFIED) (WebFetch verified 2026-03-31 — confirms $2,800 to Feenstra as largest DW employee contribution)
 
 > **Disambiguation note:** The FEC API returns 665 results for "shapiro, ben" via fuzzy matching. The $2,800 Feenstra contribution was identified via MinistryWatch's analysis of Daily Wire employer-tagged FEC records — the API fuzzy match alone could not isolate it from 665 results. Previous "$0 confirmed" was based on employer filtering that missed this contribution. Corrected 2026-03-31.
 
@@ -203,23 +203,23 @@ The **Both-Sides Illusion** applies in reverse here: Shapiro's rhetorical pose a
 
 ### Sources
 
-- [Wikipedia: Ben Shapiro](https://en.wikipedia.org/wiki/Ben_Shapiro) (Tier 3)
-- [Wikipedia: The Daily Wire](https://en.wikipedia.org/wiki/The_Daily_Wire) (Tier 3)
-- [Wikipedia: Dan and Farris Wilks](https://en.wikipedia.org/wiki/Dan_and_Farris_Wilks) (Tier 3)
-- [Vice: How Fracking Billionaires, Ben Shapiro, and PragerU Built a Climate Crisis–Denial Empire](https://www.vice.com/en/article/fracking-farris-dan-wilks-prageru-climate-crisis-denial-shapiro/) (Tier 2)
-- [Axios: The Daily Wire made $22 million from commerce in 2023](https://www.axios.com/2024/05/28/daily-wire-commerce-revenue-2023) (Tier 2)
-- [Axios: The Daily Wire eyes growth investment in 2025](https://www.axios.com/2024/12/10/the-daily-wire-eyes-growth-investment-in-2025) (Tier 2)
-- [Axios: Daily Wire co-CEO Jeremy Boreing to step down](https://www.axios.com/2025/03/18/daily-wire-jeremy-boreing-steps-down) (Tier 2)
-- [Washington Post: Candace Owens departs Ben Shapiro's website after antisemitic commentary](https://www.washingtonpost.com/style/media/2024/03/22/candace-owens-antisemitism-daily-wire-shapiro/) (Tier 2)
-- [Rolling Stone: Candace Owens Out at Daily Wire Following Antisemitic Comments](https://www.rollingstone.com/culture/culture-news/candace-owens-leaves-daily-wire-ben-shapiro-anti-semitism-1234992811/) (Tier 2)
-- [Rolling Stone: Daily Wire's Ben Shapiro and Candace Owens Spar Over Israel-Hamas War](https://www.rollingstone.com/politics/politics-news/ben-shapiro-candace-owens-fighting-the-daily-wire-israel-hamas-war-1234880402/) (Tier 2)
-- [Hollywood Reporter: Candace Owens Exits Daily Wire Amid Fights With Ben Shapiro Over Israel](https://www.hollywoodreporter.com/business/business-news/candace-owens-out-daily-wire-ben-shapiro-1235858177/) (Tier 2)
-- [Variety: Candace Owens Is Out at Daily Wire, CEO Says](https://variety.com/2024/digital/news/candace-owens-daily-wire-out-1235949509/) (Tier 2)
-- [Slate: Candace Owens vs. Ben Shapiro — The Daily Wire feud over antisemitism and Israel](https://slate.com/news-and-politics/2024/04/candace-owens-ben-shapiro-daily-wire-antisemitism-israel-jews.html) (Tier 2)
-- [Semafor: Ben Shapiro solicits backers — or buyers — for a built-out Daily Wire](https://www.semafor.com/article/05/18/2025/ben-shapiro-solicits-backers-or-buyers-for-a-built-out-daily-wire) (Tier 2)
-- [The Bulwark: A Crack in Ben Shapiro's Daily Wire](https://www.thebulwark.com/p/mysterious-exit-daily-wire-ceo-jeremy-boreing-ben-shapiro) (Tier 2)
-- [Barrett Media: The Daily Wire Begins Round of Layoffs](https://barrettmedia.com/2025/04/01/the-daily-wire-begins-round-of-layoffs/) (Tier 3)
-- [New Arab: Calls for Ben Shapiro's Daily Wire to be renamed Israel Wire](https://www.newarab.com/news/calls-ben-shapiros-daily-wire-be-renamed-israel-wire) (Tier 3)
-- [Canada's National Observer: Danielle Smith and Ben Shapiro discuss Canada electing 'solid allies' to Trump at Florida PragerU event](https://www.nationalobserver.com/2025/03/27/news/danielle-smith-ben-shapiro-prageru-fundraiser) (Tier 2)
-- [Edison Research: The Top 50 U.S. Podcasts Q4 2024](https://www.edisonresearch.com/the-top-50-u-s-podcasts-q4-2024/) (Tier 2)
+- [Wikipedia: Ben Shapiro](https://en.wikipedia.org/wiki/Ben_Shapiro) (Tier 3) (VERIFIED)
+- [Wikipedia: The Daily Wire](https://en.wikipedia.org/wiki/The_Daily_Wire) (Tier 3) (VERIFIED)
+- [Wikipedia: Dan and Farris Wilks](https://en.wikipedia.org/wiki/Dan_and_Farris_Wilks) (Tier 3) (VERIFIED)
+- [Vice: How Fracking Billionaires, Ben Shapiro, and PragerU Built a Climate Crisis–Denial Empire](https://www.vice.com/en/article/fracking-farris-dan-wilks-prageru-climate-crisis-denial-shapiro/) (Tier 2) (VERIFIED)
+- ~~[Axios: The Daily Wire made $22 million from commerce in 2023](https://www.axios.com/2024/05/28/daily-wire-commerce-revenue-2023)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Axios: The Daily Wire eyes growth investment in 2025](https://www.axios.com/2024/12/10/the-daily-wire-eyes-growth-investment-in-2025)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Axios: Daily Wire co-CEO Jeremy Boreing to step down](https://www.axios.com/2025/03/18/daily-wire-jeremy-boreing-steps-down)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Washington Post: Candace Owens departs Ben Shapiro's website after antisemitic commentary](https://www.washingtonpost.com/style/media/2024/03/22/candace-owens-antisemitism-daily-wire-shapiro/) (Tier 2) (VERIFIED)
+- [Rolling Stone: Candace Owens Out at Daily Wire Following Antisemitic Comments](https://www.rollingstone.com/culture/culture-news/candace-owens-leaves-daily-wire-ben-shapiro-anti-semitism-1234992811/) (Tier 2) (VERIFIED)
+- [Rolling Stone: Daily Wire's Ben Shapiro and Candace Owens Spar Over Israel-Hamas War](https://www.rollingstone.com/politics/politics-news/ben-shapiro-candace-owens-fighting-the-daily-wire-israel-hamas-war-1234880402/) (Tier 2) (VERIFIED)
+- [Hollywood Reporter: Candace Owens Exits Daily Wire Amid Fights With Ben Shapiro Over Israel](https://www.hollywoodreporter.com/business/business-news/candace-owens-out-daily-wire-ben-shapiro-1235858177/) (Tier 2) (VERIFIED)
+- [Variety: Candace Owens Is Out at Daily Wire, CEO Says](https://variety.com/2024/digital/news/candace-owens-daily-wire-out-1235949509/) (Tier 2) (VERIFIED)
+- [Slate: Candace Owens vs. Ben Shapiro — The Daily Wire feud over antisemitism and Israel](https://slate.com/news-and-politics/2024/04/candace-owens-ben-shapiro-daily-wire-antisemitism-israel-jews.html) (Tier 2) (VERIFIED)
+- [Semafor: Ben Shapiro solicits backers — or buyers — for a built-out Daily Wire](https://www.semafor.com/article/05/18/2025/ben-shapiro-solicits-backers-or-buyers-for-a-built-out-daily-wire) (Tier 2) (VERIFIED)
+- [The Bulwark: A Crack in Ben Shapiro's Daily Wire](https://www.thebulwark.com/p/mysterious-exit-daily-wire-ceo-jeremy-boreing-ben-shapiro) (Tier 2) (VERIFIED)
+- [Barrett Media: The Daily Wire Begins Round of Layoffs](https://barrettmedia.com/2025/04/01/the-daily-wire-begins-round-of-layoffs/) (Tier 3) (VERIFIED)
+- [New Arab: Calls for Ben Shapiro's Daily Wire to be renamed Israel Wire](https://www.newarab.com/news/calls-ben-shapiros-daily-wire-be-renamed-israel-wire) (Tier 3) (VERIFIED)
+- ~~[Canada's National Observer: Danielle Smith and Ben Shapiro discuss Canada electing 'solid allies' to Trump at Florida PragerU event](https://www.nationalobserver.com/2025/03/27/news/danielle-smith-ben-shapiro-prageru-fundraiser)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Edison Research: The Top 50 U.S. Podcasts Q4 2024](https://www.edisonresearch.com/the-top-50-u-s-podcasts-q4-2024/) (Tier 2) (VERIFIED)
 

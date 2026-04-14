@@ -15,7 +15,7 @@ profiles:
 
 ## Senate Democrats press Treasury Department on decision to add Trump name to currency
 
-**Source:** [The Hill](https://thehill.com/homenews/administration/5815709-senators-question-trump-currency/)
+**Source:** ~~[The Hill](https://thehill.com/homenews/administration/5815709-senators-question-trump-currency/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-03
 
 Two Senate Democrats are seeking answers from the Treasury Department about a plan to add President Trump’s signature to newly minted U.S. paper currency. Sens. Elizabeth Warren (Mass.), the top Democrat on the Senate Banking Committee, and Jeff Merkley (D-Ore.) pressed Treasury Secretary Scott Bessent in a letter Thursday to explain how the decision “will…

@@ -52,6 +52,6 @@ Graham's pro-Israel positioning intersects with his defense donor base: Israel m
 
 ### Sources
 
-- [FEC Candidate: Sen. Lindsey Graham - Campaign Finance Summary](https://www.fec.gov/data/candidate/H4SC03087/) (Tier 1)
-- [The Intercept: Senator Lindsey Graham's Pro-War Super PAC Bankrolled by Defense Contractors](https://theintercept.com/2015/07/30/senator-lindsey-grahams-pro-war-super-pac-bankrolled-defense-contractors/) (Tier 2)
-- [Center for Public Integrity: Graham's campaign collects bundle from lobbyists](https://publicintegrity.org/politics/grahams-campaign-collects-bundle-from-lobbyists/) (Tier 2)
+- [FEC Candidate: Sen. Lindsey Graham - Campaign Finance Summary](https://www.fec.gov/data/candidate/H4SC03087/) (Tier 1) (VERIFIED)
+- [The Intercept: Senator Lindsey Graham's Pro-War Super PAC Bankrolled by Defense Contractors](https://theintercept.com/2015/07/30/senator-lindsey-grahams-pro-war-super-pac-bankrolled-defense-contractors/) (Tier 2) (VERIFIED)
+- [Center for Public Integrity: Graham's campaign collects bundle from lobbyists](https://publicintegrity.org/politics/grahams-campaign-collects-bundle-from-lobbyists/) (Tier 2) (VERIFIED)

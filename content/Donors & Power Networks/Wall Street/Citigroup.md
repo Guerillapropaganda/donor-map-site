@@ -70,8 +70,8 @@ Citigroup Inc. The third-largest U.S. bank by assets ($2.4 trillion). Citigroup 
 
 Citigroup PAC and its executives collectively contribute $3-5 million per cycle to federal candidates, with heavy concentration on banking committee members. The bank employs 50+ registered federal lobbyists and spends $8-10 million annually on lobbying.
 
-- [OpenSecrets: Citigroup Inc PAC and lobbying profile](https://www.opensecrets.org/orgs/citigroup-inc/summary?id=D000000071) (Tier 1)
-- [FEC: Citigroup PAC filings](https://www.fec.gov/data/committee/C00108092/) (Tier 1)
+- [OpenSecrets: Citigroup Inc PAC and lobbying profile](https://www.opensecrets.org/orgs/citigroup-inc/summary?id=D000000071) (Tier 1) (VERIFIED)
+- [FEC: Citigroup PAC filings](https://www.fec.gov/data/committee/C00108092/) (Tier 1) (VERIFIED)
 
 ---
 
@@ -130,13 +130,13 @@ Citigroup represents the purest form of Wall Street regulatory capture. The bank
 
 ### Sources
 
-- [OpenSecrets: Citigroup Inc organizational profile](https://www.opensecrets.org/orgs/citigroup-inc/summary?id=D000000071) (Tier 1)
+- [OpenSecrets: Citigroup Inc organizational profile](https://www.opensecrets.org/orgs/citigroup-inc/summary?id=D000000071) (Tier 1) (VERIFIED)
 - [FEC: Citigroup PAC filings](https://www.fec.gov/data/committee/C00108092/) (Tier 1)
-- [TARP: Citigroup bailout allocation records](https://home.treasury.gov/data/troubled-asset-relief-program) (Tier 1)
-- [New York Times: Citigroup lobbyists wrote derivatives provision in spending bill](https://dealbook.nytimes.com/2014/12/11/citigroup-and-other-big-banks-win-a-round-in-dodd-frank-rollback/) (Tier 2)
-- [ProPublica: Robert Rubin's role in Citigroup's risk-taking](https://www.propublica.org/article/how-citigroup-unraveled-under-geithners-watch) (Tier 2)
-- [Wall Street Journal: Citigroup's political spending and lobbying operation](https://www.wsj.com/articles/citigroup-lobbying) (Tier 2)
-- [Ballotpedia: Citigroup political spending](https://ballotpedia.org/Citigroup) (Tier 3)
+- [TARP: Citigroup bailout allocation records](https://home.treasury.gov/data/troubled-asset-relief-program) (Tier 1) (VERIFIED)
+- ~~[New York Times: Citigroup lobbyists wrote derivatives provision in spending bill](https://dealbook.nytimes.com/2014/12/11/citigroup-and-other-big-banks-win-a-round-in-dodd-frank-rollback/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [ProPublica: Robert Rubin's role in Citigroup's risk-taking](https://www.propublica.org/article/how-citigroup-unraveled-under-geithners-watch) (Tier 2) (VERIFIED)
+- ~~[Wall Street Journal: Citigroup's political spending and lobbying operation](https://www.wsj.com/articles/citigroup-lobbying)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Ballotpedia: Citigroup political spending](https://ballotpedia.org/Citigroup) (Tier 3) (VERIFIED)
 
 ### Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
@@ -198,8 +198,8 @@ Citigroup represents the purest form of Wall Street regulatory capture. The bank
 | Total Expenses | $191K |
 | Net Assets | $2.7M |
 
-- [Source: ProPublica Nonprofit Explorer - EIN 806098935](https://projects.propublica.org/nonprofits/organizations/806098935) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F806098935_202312_990PF_2025010222976934.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer - EIN 806098935](https://projects.propublica.org/nonprofits/organizations/806098935) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F806098935_202312_990PF_2025010222976934.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -256,7 +256,7 @@ Citigroup represents the purest form of Wall Street regulatory capture. The bank
 | Security Systems Services (except Locksmiths) (561621) | $120K |
 | Miscellaneous Intermediation (523910) | $100K |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Citigroup) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Citigroup) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Vehicle Safety (NHTSA)
@@ -274,7 +274,7 @@ Citigroup represents the purest form of Wall Street regulatory capture. The bank
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Citigroup) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Citigroup) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Lobbying Activity
@@ -293,7 +293,7 @@ Citigroup represents the purest form of Wall Street regulatory capture. The bank
 
 **Agencies contacted:** Commerce, Dept of (DOC), HOUSE OF REPRESENTATIVES, Natl Economic Council (NEC), SENATE, Treasury, Dept of, U.S. Trade Representative (USTR), White House Office
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Citigroup) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Citigroup) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Federal Spending (USASpending)
@@ -314,7 +314,7 @@ Citigroup represents the purest form of Wall Street regulatory capture. The bank
 | $51K | Consumer Financial Protection Bureau | 2023 CRA & FAIR LENDING COLLOQUIUM |
 | $41K | Social Security Administration | THIRD PARTY PAYMENT SYSTEM (TPPS) BANK SERVICES CONTRACT - TASK ORDER FOR TPPS SERVICES |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/8aa915fd-d3c6-9128-ff26-48aa35edd9e7-R/latest) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/8aa915fd-d3c6-9128-ff26-48aa35edd9e7-R/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### SEC Filing Activity
@@ -328,11 +328,11 @@ Citigroup represents the purest form of Wall Street regulatory capture. The bank
 
 **Notable filings:**
 
-- 2026-04-08 - **424B2**: [PRELIMINARY PRICING SUPPLEMENT](https://www.sec.gov/Archives/edgar/data/831001/000191870426009619/0001918704-26-009619-index.htm)
-- 2026-04-08 - **424B2**: [PRELIMINARY PRICING SUPPLEMENT](https://www.sec.gov/Archives/edgar/data/831001/000191870426009617/0001918704-26-009617-index.htm)
-- 2026-04-08 - **424B2**: [PRELIMINARY PRICING SUPPLEMENT](https://www.sec.gov/Archives/edgar/data/831001/000191870426009616/0001918704-26-009616-index.htm)
-- 2026-04-08 - **424B2**: [PRICING SUPPLEMENT](https://www.sec.gov/Archives/edgar/data/831001/000095010326005518/0000950103-26-005518-index.htm)
-- 2026-04-08 - **424B2**: [PRICING SUPPLEMENT](https://www.sec.gov/Archives/edgar/data/831001/000095010326005507/0000950103-26-005507-index.htm)
+- 2026-04-08 - **424B2**: [PRELIMINARY PRICING SUPPLEMENT](https://www.sec.gov/Archives/edgar/data/831001/000191870426009619/0001918704-26-009619-index.htm) (VERIFIED)
+- 2026-04-08 - **424B2**: [PRELIMINARY PRICING SUPPLEMENT](https://www.sec.gov/Archives/edgar/data/831001/000191870426009617/0001918704-26-009617-index.htm) (VERIFIED)
+- 2026-04-08 - **424B2**: [PRELIMINARY PRICING SUPPLEMENT](https://www.sec.gov/Archives/edgar/data/831001/000191870426009616/0001918704-26-009616-index.htm) (VERIFIED)
+- 2026-04-08 - **424B2**: [PRICING SUPPLEMENT](https://www.sec.gov/Archives/edgar/data/831001/000095010326005518/0000950103-26-005518-index.htm) (VERIFIED)
+- 2026-04-08 - **424B2**: [PRICING SUPPLEMENT](https://www.sec.gov/Archives/edgar/data/831001/000095010326005507/0000950103-26-005507-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Citigroup%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Citigroup%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->

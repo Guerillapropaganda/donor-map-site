@@ -147,26 +147,26 @@ The innovation: money doesn't flow directly from donors to Patel. It flows throu
 
 ## Sources
 
-- [Senate Judiciary Committee: Patel financial disclosures and ethics concerns](https://www.judiciary.senate.gov/press/rep/releases/grassley-opening-statement-at-executive-business-meeting-on-the-nomination-of-kash-patel-to-be-fbi-director) (Tier 1)
-- [ABC News: Kash Patel consulting income](https://abcnews.com/US/kash-patel-trumps-pick-fbi-director-made-26m/story?id=118447126?id=118447126) (Tier 2)
-- [PBS News: Kash Patel foreign clients and conflicts](https://www.pbs.org/newshour/politics/patels-roster-of-foreign-clients-draws-scrutiny-over-conflicting-interests-with-the-fbi) (Tier 2)
-- [TIME: Kash Patel's Trump loyalty trajectory](https://time.com/7211916/kash-patel-confirmation-hearing-loyalty-trump-essay/-essay/) (Tier 2)
-- [NPR: FBI purge and mission change under Patel](https://www.npr.org/2025/11/19/nx-s1-5613347/how-kash-patel-is-roiling-the-departme-and-changing-the-mission-of-the-fbi) (Tier 2)
-- [Lawfare: The Patel Dossier](https://www.lawfaremedia.org/article/the-patel-dossier) (Tier 2)
-- [Jewish Insider: Qatar security deals and conflicts](https://jewishinsider.com/2025/12/fbi-kash-patel-qatar-security-deals-lobbying-disclosure/) (Tier 2)
-- [FEC: Kash Patel contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=patel,+kash) (Tier 1)
+- [Senate Judiciary Committee: Patel financial disclosures and ethics concerns](https://www.judiciary.senate.gov/press/rep/releases/grassley-opening-statement-at-executive-business-meeting-on-the-nomination-of-kash-patel-to-be-fbi-director) (Tier 1) (VERIFIED)
+- [ABC News: Kash Patel consulting income](https://abcnews.com/US/kash-patel-trumps-pick-fbi-director-made-26m/story?id=118447126?id=118447126) (Tier 2) (VERIFIED)
+- [PBS News: Kash Patel foreign clients and conflicts](https://www.pbs.org/newshour/politics/patels-roster-of-foreign-clients-draws-scrutiny-over-conflicting-interests-with-the-fbi) (Tier 2) (VERIFIED)
+- ~~[TIME: Kash Patel's Trump loyalty trajectory](https://time.com/7211916/kash-patel-confirmation-hearing-loyalty-trump-essay/-essay/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [NPR: FBI purge and mission change under Patel](https://www.npr.org/2025/11/19/nx-s1-5613347/how-kash-patel-is-roiling-the-departme-and-changing-the-mission-of-the-fbi) (Tier 2) (VERIFIED)
+- [Lawfare: The Patel Dossier](https://www.lawfaremedia.org/article/the-patel-dossier) (Tier 2) (VERIFIED)
+- [Jewish Insider: Qatar security deals and conflicts](https://jewishinsider.com/2025/12/fbi-kash-patel-qatar-security-deals-lobbying-disclosure/) (Tier 2) (VERIFIED)
+- [FEC: Kash Patel contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=patel,+kash) (Tier 1) (VERIFIED)
 
 ---
 
 ### Recent Developments
 
 **March 2026 — Fired Agents Sue Over Unlawful Dismissals (Arctic Frost):** Former FBI special agents who worked the "Arctic Frost" investigation — the unlawful probe into efforts to overturn the 2020 election — filed suit against Patel and AG Pam Bondi, alleging their firings were unconstitutional political retaliation. CBS News separately reported that fired agents included **counterintelligence specialists who worked Iran cases** — Patel stripped the FBI of Iran expertise at the exact moment the US entered a shooting war with Iran. The pattern analysis found firings consistently occurred within hours or days of unflattering press coverage about Patel — retaliatory purges dressed as performance management.
-- [NBC News: Ex-FBI agents assigned to Trump cases sue Kash Patel over 'unlawful' firings](https://www.nbcnews.com/politics/justice-department/ex-fbi-agents-assigned-trump-cases-sue-kash-patel-unlawful-firings-rcna264462) (Tier 2)
-- [CBS News: FBI agents fired by Patel worked in counterintelligence, including on Iran cases](https://www.cbsnews.com/news/fbi-agents-patel-fired-counterintelligence-including-iran/) (Tier 2)
+- [NBC News: Ex-FBI agents assigned to Trump cases sue Kash Patel over 'unlawful' firings](https://www.nbcnews.com/politics/justice-department/ex-fbi-agents-assigned-trump-cases-sue-kash-patel-unlawful-firings-rcna264462) (Tier 2) (VERIFIED)
+- [CBS News: FBI agents fired by Patel worked in counterintelligence, including on Iran cases](https://www.cbsnews.com/news/fbi-agents-patel-fired-counterintelligence-including-iran/) (Tier 2) (VERIFIED)
 
 **March 2026 — FBI Buying Commercial Location Data:** Under questioning from Sen. Ron Wyden (D-OR), Patel admitted the FBI is purchasing commercial location data to track US citizens without warrants — and responded by bragging about the capability. This is an unconstitutional mass surveillance program that Patel refused to discontinue.
-- [TechCrunch: FBI is buying location data to track US citizens, director confirms](https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/) (Tier 2)
-- [The New Republic: Kash Patel Brags That the FBI Is Buying Your Location Data](https://newrepublic.com/post/207944/kash-patel-fbi-buying-location-data) (Tier 2)
+- [TechCrunch: FBI is buying location data to track US citizens, director confirms](https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/) (Tier 2) (VERIFIED)
+- [The New Republic: Kash Patel Brags That the FBI Is Buying Your Location Data](https://newrepublic.com/post/207944/kash-patel-fbi-buying-location-data) (Tier 2) (VERIFIED)
 
 ### Legislative Activity (Congress.gov)
 
@@ -177,5 +177,5 @@ The innovation: money doesn't flow directly from donors to Patel. It flows throu
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Kash Patel](https://www.congress.gov/member/a000383) (Tier 1)
+- ~~[Congress.gov: Kash Patel](https://www.congress.gov/member/a000383)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->

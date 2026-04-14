@@ -264,27 +264,27 @@ This is what $65 million per year buys. Not policies. Not legislation. Not outco
 
 ### Sources
 
-- [Senate LDA Filings: Akin Gump et al Lobbying Profile — Summary](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA Filings: Akin Gump et al Lobbyists 2024 — Revolving Door Data](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA Filings: Akin Gump et al Issues Lobbied 2024](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [OpenSecrets: Retired Reps. find new lobbying jobs with former campaign contributor](https://www.opensecrets.org/news/2019/01/retired-reps-find-new-lobbying-jobs-with-former-campaign-contributor/) (Tier 1)
-- [CREW: Former Reps. Shuster, Smith, Ros-Lehtinen chaired committees on issues they now lobby on](https://www.citizensforethics.org/reports-investigations/crew-investigations/former-reps-shuster-smith-ros-lehtinen-chaired-committees-on-issues-they-now-lobby-on/) (Tier 2)
-- [The Hill: Ex-GOP lawmakers Ros-Lehtinen, Lamar Smith join top lobbying firm](https://thehill.com/business-a-lobbying/business-a-lobbying/424130-ex-gop-lawmakers-ros-lehtinen-lamar-smith-join-akin/) (Tier 2)
-- [Akin Gump Press Release: Former U.S. Senator Joe Donnelly to Join Akin Gump](https://www.akingump.com/en/insights/press-releases/former-u-s-senator-joe-donnelly-to-join-akin-gump) (Tier 3)
-- [Senate LDA Filings: Akin Gump et al Client List 2024](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [OpenSecrets: Akin Gump Revolving Door Profile](https://www.opensecrets.org/revolving-door?id=D000000162) (Tier 1)
-- [Senate LDA: Akin Gump Lobbying Disclosure Filings](https://lda.gov/filings/public/filing/search/?registrant=Akin+Gump) (Tier 1)
-- [Wikipedia: Akin Gump Strauss Hauer & Feld](https://en.wikipedia.org/wiki/Akin_Gump_Strauss_Hauer_&_Feld) (Tier 3)
-- [Sludge: Trump Flip-Flopped on U.S. Steel Deal After Lobbying Blitz by His Top Bundlers — Verhoff $3.6M bundler, $5.5M total Akin Gump fees, deal closed June 2025](https://readsludge.com/2025/06/30/trump-flip-flopped-on-u-s-steel-deal-after-lobbying-blitz-by-his-top-bundlers/) (Tier 2)
-- [Washington Examiner: Inside the lobbying efforts driving the US Steel acquisition deal — Verhoff Q1 2025 billings, $1.7M Nippon Steel payment](https://www.washingtonexaminer.com/news/investigations/3422892/lobbying-efforts-driving-us-nippon-steel-deal-trump/) (Tier 2)
-- [Akin Gump: Akin Advises Nippon Steel Corporation in Its Historic Partnership with United States Steel Corporation — firm press release on deal closing](https://www.akingump.com/en/insights/press-releases/akin-advises-nippon-steel-corporation-in-its-historic-partnership-with-united-states-steel-corporation) (Tier 3)
-- [ABC News: Trump-aligned lobbyists flourish as companies flock to try to gain administration's favor — Verhoff $3.4M Q1 2025 billings, Trump access premium](https://abcnews.com/US/trump-aligned-lobbyists-flourish-companies-flock-gain-administrations/story?id=121098657?id=121098657) (Tier 2)
-- [White House: Presidential Action on Nippon Steel Acquisition — golden share terms, deal approval June 13, 2025](https://www.whitehouse.gov/presidential-actions/2025/06/regarding-the-proposed-acquisition-of-the-united-states-steel-corporation-by-nippon-steel-corporation/) (Tier 1)
-- [CNBC: Trump wields sweeping veto power over U.S. Steel with 'golden share' — veto structure, board appointment power](https://www.cnbc.com/2025/06/26/trump-golden-share-us-steel-nippon-merger.html) (Tier 2)
-- [Akin Gump: Geoffrey K. Verhoff — Senior Advisor, Lobbying & Public Policy](https://www.akingump.com/en/lawyers-advisors/geoffrey-k-verhoff) (Tier 3)
-- [Akin Gump: Akin Adds Former Top Appropriations Staffer Jen Becker-Pollet — Senate Appropriations Clerk/Subcommittee Staff Director, $30B annual funds, March 30 2026](https://www.akingump.com/en/insights/press-releases/akin-adds-former-top-appropriations-staffer-jen-becker-pollet-to-leading-lobbying-and-public-policy-practice-in-washington-dc) (Tier 3)
-- [LegiStorm: Jen Becker-Pollet biography — Senate Appropriations FSGG Subcommittee Clerk](https://www.legistorm.com/person/bio/202995/Jennifer_Anne_Amalia_Becker_Pollet.html) (Tier 3)
-- [Akin Gump: Akin Expands Health Policy Platform with Molly (Brimmer) Lolli — E&C Health Subcommittee Senior Counsel, March 2026](https://www.akingump.com/en/insights/press-releases/akin-expands-health-policy-platform-with-addition-of-leading-house-energy-and-commerce-committee-health-staffer-molly-brimmer-lolli) (Tier 3)
+- [Senate LDA Filings: Akin Gump et al Lobbying Profile — Summary](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: Akin Gump et al Lobbyists 2024 — Revolving Door Data](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: Akin Gump et al Issues Lobbied 2024](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [OpenSecrets: Retired Reps. find new lobbying jobs with former campaign contributor](https://www.opensecrets.org/news/2019/01/retired-reps-find-new-lobbying-jobs-with-former-campaign-contributor/) (Tier 1) (VERIFIED)
+- [CREW: Former Reps. Shuster, Smith, Ros-Lehtinen chaired committees on issues they now lobby on](https://www.citizensforethics.org/reports-investigations/crew-investigations/former-reps-shuster-smith-ros-lehtinen-chaired-committees-on-issues-they-now-lobby-on/) (Tier 2) (VERIFIED)
+- ~~[The Hill: Ex-GOP lawmakers Ros-Lehtinen, Lamar Smith join top lobbying firm](https://thehill.com/business-a-lobbying/business-a-lobbying/424130-ex-gop-lawmakers-ros-lehtinen-lamar-smith-join-akin/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Akin Gump Press Release: Former U.S. Senator Joe Donnelly to Join Akin Gump](https://www.akingump.com/en/insights/press-releases/former-u-s-senator-joe-donnelly-to-join-akin-gump) (Tier 3) (VERIFIED)
+- [Senate LDA Filings: Akin Gump et al Client List 2024](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [OpenSecrets: Akin Gump Revolving Door Profile](https://www.opensecrets.org/revolving-door?id=D000000162) (Tier 1) (VERIFIED)
+- [Senate LDA: Akin Gump Lobbying Disclosure Filings](https://lda.gov/filings/public/filing/search/?registrant=Akin+Gump) (Tier 1) (VERIFIED)
+- [Wikipedia: Akin Gump Strauss Hauer & Feld](https://en.wikipedia.org/wiki/Akin_Gump_Strauss_Hauer_&_Feld) (Tier 3) (VERIFIED)
+- [Sludge: Trump Flip-Flopped on U.S. Steel Deal After Lobbying Blitz by His Top Bundlers — Verhoff $3.6M bundler, $5.5M total Akin Gump fees, deal closed June 2025](https://readsludge.com/2025/06/30/trump-flip-flopped-on-u-s-steel-deal-after-lobbying-blitz-by-his-top-bundlers/) (Tier 2) (VERIFIED)
+- [Washington Examiner: Inside the lobbying efforts driving the US Steel acquisition deal — Verhoff Q1 2025 billings, $1.7M Nippon Steel payment](https://www.washingtonexaminer.com/news/investigations/3422892/lobbying-efforts-driving-us-nippon-steel-deal-trump/) (Tier 2) (VERIFIED)
+- [Akin Gump: Akin Advises Nippon Steel Corporation in Its Historic Partnership with United States Steel Corporation — firm press release on deal closing](https://www.akingump.com/en/insights/press-releases/akin-advises-nippon-steel-corporation-in-its-historic-partnership-with-united-states-steel-corporation) (Tier 3) (VERIFIED)
+- [ABC News: Trump-aligned lobbyists flourish as companies flock to try to gain administration's favor — Verhoff $3.4M Q1 2025 billings, Trump access premium](https://abcnews.com/US/trump-aligned-lobbyists-flourish-companies-flock-gain-administrations/story?id=121098657?id=121098657) (Tier 2) (VERIFIED)
+- [White House: Presidential Action on Nippon Steel Acquisition — golden share terms, deal approval June 13, 2025](https://www.whitehouse.gov/presidential-actions/2025/06/regarding-the-proposed-acquisition-of-the-united-states-steel-corporation-by-nippon-steel-corporation/) (Tier 1) (VERIFIED)
+- [CNBC: Trump wields sweeping veto power over U.S. Steel with 'golden share' — veto structure, board appointment power](https://www.cnbc.com/2025/06/26/trump-golden-share-us-steel-nippon-merger.html) (Tier 2) (VERIFIED)
+- [Akin Gump: Geoffrey K. Verhoff — Senior Advisor, Lobbying & Public Policy](https://www.akingump.com/en/lawyers-advisors/geoffrey-k-verhoff) (Tier 3) (VERIFIED)
+- [Akin Gump: Akin Adds Former Top Appropriations Staffer Jen Becker-Pollet — Senate Appropriations Clerk/Subcommittee Staff Director, $30B annual funds, March 30 2026](https://www.akingump.com/en/insights/press-releases/akin-adds-former-top-appropriations-staffer-jen-becker-pollet-to-leading-lobbying-and-public-policy-practice-in-washington-dc) (Tier 3) (VERIFIED)
+- [LegiStorm: Jen Becker-Pollet biography — Senate Appropriations FSGG Subcommittee Clerk](https://www.legistorm.com/person/bio/202995/Jennifer_Anne_Amalia_Becker_Pollet.html) (Tier 3) (VERIFIED)
+- [Akin Gump: Akin Expands Health Policy Platform with Molly (Brimmer) Lolli — E&C Health Subcommittee Senior Counsel, March 2026](https://www.akingump.com/en/insights/press-releases/akin-expands-health-policy-platform-with-addition-of-leading-house-energy-and-commerce-committee-health-staffer-molly-brimmer-lolli) (Tier 3) (VERIFIED)
 
 ### SEC Filing Activity
 <!-- auto:sec-edgar start -->
@@ -301,7 +301,7 @@ This is what $65 million per year buys. Not policies. Not legislation. Not outco
 - 2014-09-25 — **8-K**: 8-K
 - 2016-07-27 — **8-K**: FORM 8-K
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Akin%20Gump%20Strauss%20Hauer%20%26%20Feld%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Akin%20Gump%20Strauss%20Hauer%20%26%20Feld%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Foreign Agent Activity (FARA)
@@ -325,7 +325,7 @@ This is what $65 million per year buys. Not policies. Not legislation. Not outco
 - Embassy of Japan (JAPAN)
 - Embassy of the United Arab Emirates (UNITED ARAB EMIRATES)
 
-- [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Akin%20Gump%20Strauss%20Hauer%20%26%20Feld) (Tier 1)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Akin%20Gump%20Strauss%20Hauer%20%26%20Feld)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:fara-foreign-agents end -->
 
 ### Federal Register Activity
@@ -339,13 +339,13 @@ This is what $65 million per year buys. Not policies. Not legislation. Not outco
 | Agencies | Antitrust Division, Commerce Department, Energy Department, Export Administration Bureau, Federal Communications Commission, Justice Department, Nuclear Regulatory Commission |
 
 **Recent regulatory activity:**
-- [Commonwealth Edison Company and MidAmerican Energy Company, Quad Cities Nuclear Power Station, Units 1 and 2; Notice of Consideration of Approval of Application Regarding Proposed Change in Shareholders of MidAmerican Energy Holdings Company Opportunity for a Hearing](https://www.federalregister.gov/documents/1999/12/29/99-33680/commonwealth-edison-company-and-midamerican-energy-company-quad-cities-nuclear-power-station-units-1) (1999-12-29) — Nuclear Regulatory Commission
-- [Re: Aluminum Company of America](https://www.federalregister.gov/documents/1999/08/05/99-19095/re-aluminum-company-of-america) (1999-08-05) — Commerce Department
-- [Cleveland Electric Illuminating Company; Toledo Edison Company; Ohio Edison Company; OES Nuclear, Inc.; Pennsylvania Power Company; Duquesne Light Company and Firstenergy Nuclear Operating Company; Perry Nuclear Power Plant, Unit 1; Notice of Consideration of Approval of Transfer of Facility Operating License and Issuance of Conforming Amendment, and Opportunity for a Hearing](https://www.federalregister.gov/documents/1999/06/14/99-15022/cleveland-electric-illuminating-company-toledo-edison-company-ohio-edison-company-oes-nuclear-inc) (1999-06-14) — Nuclear Regulatory Commission
-- [Proposed Final Judgment and Competitive Impact Statement; United States of America v. Chancellor Media Corporation and Whiteco Industries, Inc.](https://www.federalregister.gov/documents/1999/01/15/99-826/proposed-final-judgment-and-competitive-impact-statement-united-states-of-america-v-chancellor-media) (1999-01-15) — Justice Department
-- [Antiflatulent Drug Products for Over-the-Counter Human use; Amendment of Monograph](https://www.federalregister.gov/documents/1996/03/05/96-5118/antiflatulent-drug-products-for-over-the-counter-human-use-amendment-of-monograph) (1996-03-05)
-- [Dominican Power Partners, LDC, et al.; Electric Rate and Corporate Regulation Filings](https://www.federalregister.gov/documents/1996/02/16/96-3529/dominican-power-partners-ldc-et-al-electric-rate-and-corporate-regulation-filings) (1996-02-16) — Energy Department
+- [Commonwealth Edison Company and MidAmerican Energy Company, Quad Cities Nuclear Power Station, Units 1 and 2; Notice of Consideration of Approval of Application Regarding Proposed Change in Shareholders of MidAmerican Energy Holdings Company Opportunity for a Hearing](https://www.federalregister.gov/documents/1999/12/29/99-33680/commonwealth-edison-company-and-midamerican-energy-company-quad-cities-nuclear-power-station-units-1) (VERIFIED) (1999-12-29) — Nuclear Regulatory Commission
+- [Re: Aluminum Company of America](https://www.federalregister.gov/documents/1999/08/05/99-19095/re-aluminum-company-of-america) (VERIFIED) (1999-08-05) — Commerce Department
+- [Cleveland Electric Illuminating Company; Toledo Edison Company; Ohio Edison Company; OES Nuclear, Inc.; Pennsylvania Power Company; Duquesne Light Company and Firstenergy Nuclear Operating Company; Perry Nuclear Power Plant, Unit 1; Notice of Consideration of Approval of Transfer of Facility Operating License and Issuance of Conforming Amendment, and Opportunity for a Hearing](https://www.federalregister.gov/documents/1999/06/14/99-15022/cleveland-electric-illuminating-company-toledo-edison-company-ohio-edison-company-oes-nuclear-inc) (VERIFIED) (1999-06-14) — Nuclear Regulatory Commission
+- [Proposed Final Judgment and Competitive Impact Statement; United States of America v. Chancellor Media Corporation and Whiteco Industries, Inc.](https://www.federalregister.gov/documents/1999/01/15/99-826/proposed-final-judgment-and-competitive-impact-statement-united-states-of-america-v-chancellor-media) (VERIFIED) (1999-01-15) — Justice Department
+- [Antiflatulent Drug Products for Over-the-Counter Human use; Amendment of Monograph](https://www.federalregister.gov/documents/1996/03/05/96-5118/antiflatulent-drug-products-for-over-the-counter-human-use-amendment-of-monograph) (VERIFIED) (1996-03-05)
+- [Dominican Power Partners, LDC, et al.; Electric Rate and Corporate Regulation Filings](https://www.federalregister.gov/documents/1996/02/16/96-3529/dominican-power-partners-ldc-et-al-electric-rate-and-corporate-regulation-filings) (VERIFIED) (1996-02-16) — Energy Department
 - ... and 1 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Akin%20Gump%20Strauss%20Hauer%20%26%20Feld%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Akin%20Gump%20Strauss%20Hauer%20%26%20Feld%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->

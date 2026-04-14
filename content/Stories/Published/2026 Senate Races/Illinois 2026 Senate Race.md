@@ -43,10 +43,10 @@ Donor networks:
 
 ### Sources
 
-- [Juliana Stratton wins Illinois Senate Democratic primary election race | NBC News](https://www.nbcnews.com/politics/2026-election/lt-gov-juliana-stratton-wins-democratic-senate-primary-illinois-rcna263528) (Tier 3)
-- [Lt. Gov. Juliana Stratton looking to make history in US Senate race against ex-Illinois GOP chair Don Tracy | Chicago Tribune](https://www.chicagotribune.com/2026/03/18/juliana-stratton-don-tracy-illinois-us-senate/) (Tier 2)
-- [Illinois Senate Primary Features Millions in Outside Spending | The American Prospect](https://prospect.org/2026/03/17/illinois-senate-primary-super-pac-spending-juliana-stratton-raja-krishnamoorthi/) (Tier 2)
-- [Pro-Israel groups see mixed record in money-fuelled Illinois primaries | Al Jazeera](https://www.aljazeera.com/news/2026/3/18/pro-israel-groups-see-mixed-record-in-money-fuelled-illinois-primaries) (Tier 2)
+- [Juliana Stratton wins Illinois Senate Democratic primary election race | NBC News](https://www.nbcnews.com/politics/2026-election/lt-gov-juliana-stratton-wins-democratic-senate-primary-illinois-rcna263528) (Tier 3) (VERIFIED)
+- [Lt. Gov. Juliana Stratton looking to make history in US Senate race against ex-Illinois GOP chair Don Tracy | Chicago Tribune](https://www.chicagotribune.com/2026/03/18/juliana-stratton-don-tracy-illinois-us-senate/) (Tier 2) (VERIFIED)
+- [Illinois Senate Primary Features Millions in Outside Spending | The American Prospect](https://prospect.org/2026/03/17/illinois-senate-primary-super-pac-spending-juliana-stratton-raja-krishnamoorthi/) (Tier 2) (VERIFIED)
+- [Pro-Israel groups see mixed record in money-fuelled Illinois primaries | Al Jazeera](https://www.aljazeera.com/news/2026/3/18/pro-israel-groups-see-mixed-record-in-money-fuelled-illinois-primaries) (Tier 2) (VERIFIED)
 
 ---
 

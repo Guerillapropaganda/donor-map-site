@@ -101,13 +101,13 @@ The dual-pipeline model becomes the template for future judicial captures. The F
 ### Sources
 
 ### Tier 1 (Primary Documents)
-- [Senate Judiciary Committee: Confirmation Hearing on the Nomination of Amy Coney Barrett - October 12-15, 2020](https://www.senate.gov/pagelayout/general/one_item_and_teasers/waf.htm) (Tier 1)
-- [Barrett, Amy Coney: Precedent and Jurisprudential Disagreement. Texas Law Review, Vol. 91, 2013](https://texaslawreview.org/wp-content/uploads/2015/08/Barrett.pdf) (Tier 1)
-- [7th Circuit Opinion: Kanter v. Barr, 919 F.3d 437 (7th Cir. 2019)](https://www.supremecourt.gov/opinions/21pdf/19-1392_6j37.pdf) (Tier 1)
-- [Supreme Court Opinion PDF: Dobbs v. Jackson Women's Health Organization, 142 S.Ct. 2228 (2022)](https://www.supremecourt.gov/opinions/21pdf/19-1392_6j37.pdf) (Tier 1)
-- [Federalist Society Speaker Directory: Amy Coney Barrett](https://fedsoc.org/justices/amy-coney-barrett) (Tier 1)
+- [Senate Judiciary Committee: Confirmation Hearing on the Nomination of Amy Coney Barrett - October 12-15, 2020](https://www.senate.gov/pagelayout/general/one_item_and_teasers/waf.htm) (Tier 1) (VERIFIED)
+- [Barrett, Amy Coney: Precedent and Jurisprudential Disagreement. Texas Law Review, Vol. 91, 2013](https://texaslawreview.org/wp-content/uploads/2015/08/Barrett.pdf) (Tier 1) (VERIFIED)
+- [7th Circuit Opinion: Kanter v. Barr, 919 F.3d 437 (7th Cir. 2019)](https://www.supremecourt.gov/opinions/21pdf/19-1392_6j37.pdf) (Tier 1) (VERIFIED)
+- [Supreme Court Opinion PDF: Dobbs v. Jackson Women's Health Organization, 142 S.Ct. 2228 (2022)](https://www.supremecourt.gov/opinions/21pdf/19-1392_6j37.pdf) (Tier 1) (VERIFIED)
+- [Federalist Society Speaker Directory: Amy Coney Barrett](https://fedsoc.org/justices/amy-coney-barrett) (Tier 1) (VERIFIED)
 
 ### Tier 2 (Investigative Journalism)
-- [Washington Post: With People of Praise, Barrett's affiliation highlights charismatic Christianity](https://www.washingtonpost.com/religion/2020/10/07/amy-coney-barretts-people-praise-ties-highlight-charismatic-christianity/) (Tier 2)
-- [The Guardian: Amy Coney Barrett - spotlight falls on secretive Catholic group People of Praise](https://www.theguardian.com/us-news/2020/sep/26/amy-coney-barrett-supreme-court-donald-trump-people-of-praise) (Tier 2)
-- [ProPublica: We Don't Talk About Leonard - The Man Behind the Right's Supreme Court Supermajority](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2)
+- [Washington Post: With People of Praise, Barrett's affiliation highlights charismatic Christianity](https://www.washingtonpost.com/religion/2020/10/07/amy-coney-barretts-people-praise-ties-highlight-charismatic-christianity/) (Tier 2) (VERIFIED)
+- [The Guardian: Amy Coney Barrett - spotlight falls on secretive Catholic group People of Praise](https://www.theguardian.com/us-news/2020/sep/26/amy-coney-barrett-supreme-court-donald-trump-people-of-praise) (Tier 2) (VERIFIED)
+- [ProPublica: We Don't Talk About Leonard - The Man Behind the Right's Supreme Court Supermajority](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2) (VERIFIED)

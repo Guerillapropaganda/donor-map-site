@@ -32,7 +32,7 @@ Nvidia Corporation. The world's most valuable semiconductor company ($130 billio
 
 Nvidia's political operation has grown alongside its market dominance. PAC contributions: $1-2 million per cycle. Lobbying spending: $10-15 million annually (up from $3 million in 2020). CEO Jensen Huang has become one of the most politically significant tech executives, meeting with heads of state and shaping AI policy through corporate influence rather than campaign contributions.
 
-- [OpenSecrets: Nvidia organizational profile](https://www.opensecrets.org/orgs/nvidia-corp/summary?id=D000054927) (Tier 1)
+- ~~[OpenSecrets: Nvidia organizational profile](https://www.opensecrets.org/orgs/nvidia-corp/summary?id=D000054927)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -56,14 +56,14 @@ Favorable AI regulation (avoiding restrictions on AI model development), continu
 ### Sources
 
 - [OpenSecrets: Nvidia organizational profile](https://www.opensecrets.org/orgs/nvidia-corp/summary?id=D000054927) (Tier 1)
-- [SEC: Nvidia 10-K filing](https://www.sec.gov/cgi-bin/browse-edgar?company=Nvidia&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)
-- [Ballotpedia: Nvidia](https://ballotpedia.org/Nvidia) (Tier 3)
+- [SEC: Nvidia 10-K filing](https://www.sec.gov/cgi-bin/browse-edgar?company=Nvidia&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1) (VERIFIED)
+- [Ballotpedia: Nvidia](https://ballotpedia.org/Nvidia) (Tier 3) (VERIFIED)
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [549300S4KLFTLO7GSQ80](https://search.gleif.org/#/record/549300S4KLFTLO7GSQ80) |
+| LEI | [549300S4KLFTLO7GSQ80](https://search.gleif.org/#/record/549300S4KLFTLO7GSQ80) (VERIFIED) |
 | Legal Name | NVIDIA CORPORATION |
 | Jurisdiction | US-DE |
 | Entity Status | ACTIVE |
@@ -71,7 +71,7 @@ Favorable AI regulation (avoiding restrictions on AI model development), continu
 | Registration | ISSUED |
 | Last Updated | 2026-01-07T01:29:18Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Product Recalls (CPSC)
@@ -85,8 +85,8 @@ Favorable AI regulation (avoiding restrictions on AI model development), continu
 
 **Recent recalls:**
 
-- [NVIDIA Recalls European Plug Heads Sold with Power Adaptors Due to Electric Shock Hazard](https://www.cpsc.gov/Recalls/17201) (2017-08-08) — The plug heads can break exposing metal prongs, posing an electric shock hazard.
-- [NVIDIA Recalls Tablet Computers Due to Fire Hazard](https://www.cpsc.gov/Recalls/15204) (2015-07-31) — The lithium-ion battery in the tablets can overheat, posing a fire hazard.
+- ~~[NVIDIA Recalls European Plug Heads Sold with Power Adaptors Due to Electric Shock Hazard](https://www.cpsc.gov/Recalls/17201)~~ (URL broken, archived by Ops) (2017-08-08) — The plug heads can break exposing metal prongs, posing an electric shock hazard.
+- ~~[NVIDIA Recalls Tablet Computers Due to Fire Hazard](https://www.cpsc.gov/Recalls/15204)~~ (URL broken, archived by Ops) (2015-07-31) — The lithium-ion battery in the tablets can overheat, posing a fire hazard.
 
-- [Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Nvidia) (Tier 1)
+- ~~[Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Nvidia)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:cpsc-recalls end -->

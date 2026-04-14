@@ -52,7 +52,7 @@ Collins received $500,000+ from the private equity industry in the 2020 cycle al
 
 ### Sources
 
-- [Common Dreams: Susan Collins Advanced Trump Tax Bill After Receiving $2 Million from Private Equity Billionaire](https://www.commondreams.org/news/collins-private-equity-donation-tax-bill) (Tier 2)
-- [Rolling Stone: Susan Collins Raked in Wall Street Cash Before Advancing Trump Tax Bill](https://www.rollingstone.com/politics/politics-features/susan-collins-trump-tax-bill-wall-street-private-equity-1235420525/) (Tier 2)
-- [ProPublica: Susan Collins Backed Down From a Fight With Private Equity. Now They're Underwriting Her Reelection.](https://www.propublica.org/article/susan-collins-backed-down-from-a-fight-with-private-equity-now-theyre-underwriting-her-reelection) (Tier 2)
-- [Jacobin: GOP Sen. Susan Collins Has a Close Friend in Billionaire Steve Schwarzman](https://jacobin.com/2020/10/susan-collins-blackstone-maine-senate-schwarzman) (Tier 2)
+- [Common Dreams: Susan Collins Advanced Trump Tax Bill After Receiving $2 Million from Private Equity Billionaire](https://www.commondreams.org/news/collins-private-equity-donation-tax-bill) (Tier 2) (VERIFIED)
+- [Rolling Stone: Susan Collins Raked in Wall Street Cash Before Advancing Trump Tax Bill](https://www.rollingstone.com/politics/politics-features/susan-collins-trump-tax-bill-wall-street-private-equity-1235420525/) (Tier 2) (VERIFIED)
+- [ProPublica: Susan Collins Backed Down From a Fight With Private Equity. Now They're Underwriting Her Reelection.](https://www.propublica.org/article/susan-collins-backed-down-from-a-fight-with-private-equity-now-theyre-underwriting-her-reelection) (Tier 2) (VERIFIED)
+- [Jacobin: GOP Sen. Susan Collins Has a Close Friend in Billionaire Steve Schwarzman](https://jacobin.com/2020/10/susan-collins-blackstone-maine-senate-schwarzman) (Tier 2) (VERIFIED)

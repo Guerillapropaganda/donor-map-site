@@ -173,7 +173,7 @@ The final-years cognitive decline exposes the class infrastructure beneath the i
 
 - [CBS News: Dianne Feinstein Net Worth at Death](https://www.cbsnews.com/news/dianne-feinstein-net-worth-richard-blum-children/) (Tier 2) (VERIFIED)
 - [FoundSF: Richard C. Blum and Dianne Feinstein](https://www.foundsf.org/Main_Page?title=Richard_C._Blum_and_Dianne_Feinstein:_The_Power_Couple_of_California) (Tier 3) (NEEDS REVIEW)
-- [Mercury News: Feinstein Under Fire Over Defense Ties](https://www.mercurynews.com/2007/04/14/feinstein-under-fire-over-defense-ties/) (Tier 2) (SLOW: paywall)
+- [Mercury News: Feinstein Under Fire Over Defense Ties](https://www.mercurynews.com/2007/04/14/feinstein-under-fire-over-defense-ties/) (Tier 2) (VERIFIED) (SLOW: paywall)
 - [Wikipedia: Richard C. Blum](https://en.wikipedia.org/wiki/Richard_C._Blum) (Tier 3) (VERIFIED)
 - ~~[RootsAction.org: Senator Profits from Wars and Post Office](https://act.rootsaction.org/p/dia/action/public/?action_KEY=7309)~~ (was Tier 4, URL broken, archived by Ops)
 - [The Real Deal: Feinstein's Pacific Heights Mansion Sales](https://therealdeal.com/san-francisco/2025/07/03/dianne-feinsteins-pacific-heights-mansion-sells/) (Tier 3) (VERIFIED)
@@ -328,7 +328,7 @@ The final-years cognitive decline exposes the class infrastructure beneath the i
 
 **Sources**
 
-- [Congress.gov: Dianne Feinstein](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: Dianne Feinstein](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [GovTrack: Dianne Feinstein](https://www.govtrack.us/congress/members/300043) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->
@@ -337,7 +337,7 @@ The final-years cognitive decline exposes the class infrastructure beneath the i
 <!-- auto:committee-assignments start -->
 _No committee data found._
 
-- [Source: Congress.gov](https://www.congress.gov/member/F000062) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/F000062)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 <!-- Committee data pending pipeline re-enrichment. bioguide-id F000062 added 2026-04-12. -->
 

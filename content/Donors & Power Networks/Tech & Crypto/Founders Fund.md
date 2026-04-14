@@ -73,8 +73,8 @@ Founders Fund's political significance extends far beyond Thiel's personal campa
 
 The firm's investment thesis and political agenda are inseparable. Founders Fund's portfolio companies — Palantir (government surveillance and military AI), SpaceX (defense contracts, military satellites, battlefield communications), Anduril (autonomous weapons systems, border surveillance), and crypto ventures — all benefit directly from the deregulatory, pro-defense, anti-regulatory agenda that the Thiel network's political spending pursues. Every dollar of political investment protects billions in portfolio value.
 
-- [OpenSecrets: Peter Thiel donor lookup](https://www.opensecrets.org/donor-lookup/results?name=peter+thiel&order=desc&sort=D) (Tier 1)
-- [Ballotpedia: Founders Fund](https://ballotpedia.org/Founders_Fund) (Tier 3)
+- [OpenSecrets: Peter Thiel donor lookup](https://www.opensecrets.org/donor-lookup/results?name=peter+thiel&order=desc&sort=D) (Tier 1) (VERIFIED)
+- [Ballotpedia: Founders Fund](https://ballotpedia.org/Founders_Fund) (Tier 3) (VERIFIED)
 
 ---
 
@@ -115,10 +115,10 @@ Founders Fund does not have a corporate PAC. The political spending flows throug
 
 **2025:** $3 million to the California Business Roundtable to fight a proposed 5% wealth tax on billionaires — Thiel's largest single political donation since 2022.
 
-- [OpenSecrets: Peter Thiel 2022 outside spending detail](https://www.opensecrets.org/outside-spending/donor_detail/2022?id=U0000004022&name=Thiel,+Peter&super=N&type=I) (Tier 1)
-- [OpenSecrets: Peter Thiel dark money group bankrolling 2022 super PACs](https://www.opensecrets.org/news/2022/02/peter-thiel-tied-dark-money-group-helping-bankroll-super-pac-spending-on-2022-election/) (Tier 1)
-- [The Hill: Thiel gives $10M to Vance super PAC](https://thehill.com/homenews/campaign/543242-billionaire-peter-thiel-gives-10-million-to-super-pac-backing-potential-jd/) (Tier 2)
-- [Inc: Thiel $3M donation to fight California billionaire tax](https://www.inc.com/leila-sheridan/peter-thiel-makes-his-biggest-political-donation-in-years-to-fight-californias-billionaire-tax/91286966) (Tier 2)
+- [OpenSecrets: Peter Thiel 2022 outside spending detail](https://www.opensecrets.org/outside-spending/donor_detail/2022?id=U0000004022&name=Thiel,+Peter&super=N&type=I) (Tier 1) (VERIFIED)
+- [OpenSecrets: Peter Thiel dark money group bankrolling 2022 super PACs](https://www.opensecrets.org/news/2022/02/peter-thiel-tied-dark-money-group-helping-bankroll-super-pac-spending-on-2022-election/) (Tier 1) (VERIFIED)
+- ~~[The Hill: Thiel gives $10M to Vance super PAC](https://thehill.com/homenews/campaign/543242-billionaire-peter-thiel-gives-10-million-to-super-pac-backing-potential-jd/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Inc: Thiel $3M donation to fight California billionaire tax](https://www.inc.com/leila-sheridan/peter-thiel-makes-his-biggest-political-donation-in-years-to-fight-californias-billionaire-tax/91286966)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ---
 
@@ -149,13 +149,13 @@ The Founders Fund network's political investments have produced extraordinary re
 > [!contradiction]
 > Thiel publicly announced he would not fund presidential candidates in 2024, framing himself as stepping back from politics. In reality, his 2022 investments had already installed the network: Vance on the ticket, Sacks positioned for a policy role, Musk aligned through shared PayPal history. By the time Thiel "stepped back," the infrastructure was self-sustaining. The 2024 pullback was not retreat — it was evidence that the investment had already paid off.
 
-- [CBS News: The billionaire who fueled JD Vance's rapid rise](https://www.cbsnews.com/news/jd-vance-trump-vp-peter-thiel-billionaire/) (Tier 2)
-- [Fortune: Peter Thiel's network infiltrating Trump White House](https://fortune.com/2024/12/07/peter-thiel-network-trump-white-house-elon-musk-david-sacks/) (Tier 2)
-- [Silicon Valley News: PayPal Mafia power trio in Trump White House](https://www.siliconvalley.com/2025/06/08/paypal-mafia-power-trio-musk-thiel-sacks-silicon-valley-startup-trump-white-house/) (Tier 2)
-- [CNBC: Palantir lands $10 billion Army contract](https://www.cnbc.com/2025/08/01/palantir-lands-10-billion-army-software-and-data-contract.html) (Tier 2)
-- [DefenseScoop: DOD raises Palantir Maven contract to $1.3B](https://defensescoop.com/2025/05/23/dod-palantir-maven-smart-system-contract-increase/) (Tier 2)
-- [Fortune: Anduril $2.5B round led by Founders Fund at $30.5B valuation](https://fortune.com/2025/06/05/anduril-palmer-luckey-funding-30-billion-valuation-founders-fund/) (Tier 2)
-- [Responsible Statecraft: VC tech's overthrow of defense primes](https://responsiblestatecraft.org/defense-tech-partnership/) (Tier 2)
+- [CBS News: The billionaire who fueled JD Vance's rapid rise](https://www.cbsnews.com/news/jd-vance-trump-vp-peter-thiel-billionaire/) (Tier 2) (VERIFIED)
+- [Fortune: Peter Thiel's network infiltrating Trump White House](https://fortune.com/2024/12/07/peter-thiel-network-trump-white-house-elon-musk-david-sacks/) (Tier 2) (VERIFIED)
+- [Silicon Valley News: PayPal Mafia power trio in Trump White House](https://www.siliconvalley.com/2025/06/08/paypal-mafia-power-trio-musk-thiel-sacks-silicon-valley-startup-trump-white-house/) (Tier 2) (VERIFIED)
+- [CNBC: Palantir lands $10 billion Army contract](https://www.cnbc.com/2025/08/01/palantir-lands-10-billion-army-software-and-data-contract.html) (Tier 2) (VERIFIED)
+- [DefenseScoop: DOD raises Palantir Maven contract to $1.3B](https://defensescoop.com/2025/05/23/dod-palantir-maven-smart-system-contract-increase/) (Tier 2) (VERIFIED)
+- [Fortune: Anduril $2.5B round led by Founders Fund at $30.5B valuation](https://fortune.com/2025/06/05/anduril-palmer-luckey-funding-30-billion-valuation-founders-fund/) (Tier 2) (VERIFIED)
+- [Responsible Statecraft: VC tech's overthrow of defense primes](https://responsiblestatecraft.org/defense-tech-partnership/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -169,8 +169,8 @@ The class position is unambiguous: Founders Fund extracts value from public budg
 
 What makes the Founders Fund model especially potent is its self-reinforcing nature. Political success (Vance as VP, Sacks as policy czar) increases portfolio value (Palantir contracts, crypto deregulation), which increases the capital available for future political investment. The 2022 midterm spending was a seed round. The 2025 government positions are the Series A.
 
-- [Revolving Door Project: Oligarchs and the Trump Admin — Peter Thiel](https://therevolvingdoorproject.org/billionaires-and-the-trump-admin-peter-thiel/) (Tier 2)
-- [Ballotpedia: Peter Thiel political profile](https://ballotpedia.org/Peter_Thiel) (Tier 3)
+- [Revolving Door Project: Oligarchs and the Trump Admin — Peter Thiel](https://therevolvingdoorproject.org/billionaires-and-the-trump-admin-peter-thiel/) (Tier 2) (VERIFIED)
+- [Ballotpedia: Peter Thiel political profile](https://ballotpedia.org/Peter_Thiel) (Tier 3) (VERIFIED)
 
 ---
 
@@ -181,7 +181,7 @@ What makes the Founders Fund model especially potent is its self-reinforcing nat
 - [OpenSecrets: Peter Thiel dark money group bankrolling 2022 super PACs](https://www.opensecrets.org/news/2022/02/peter-thiel-tied-dark-money-group-helping-bankroll-super-pac-spending-on-2022-election/) (Tier 1)
 - [CBS News: The billionaire who fueled JD Vance's rapid rise](https://www.cbsnews.com/news/jd-vance-trump-vp-peter-thiel-billionaire/) (Tier 2)
 - [Fortune: Peter Thiel's network infiltrating Trump White House](https://fortune.com/2024/12/07/peter-thiel-network-trump-white-house-elon-musk-david-sacks/) (Tier 2)
-- [Fortune: Anduril $2.5B round led by Founders Fund](https://fortune.com/2025/06/05/anduril-palmer-luckey-funding-30-billion-valuation-founders-fund/) (Tier 2)
+- [Fortune: Anduril $2.5B round led by Founders Fund](https://fortune.com/2025/06/05/anduril-palmer-luckey-funding-30-billion-valuation-founders-fund/) (Tier 2) (VERIFIED)
 - [Silicon Valley News: PayPal Mafia power trio in Trump White House](https://www.siliconvalley.com/2025/06/08/paypal-mafia-power-trio-musk-thiel-sacks-silicon-valley-startup-trump-white-house/) (Tier 2)
 - [CNBC: Palantir lands $10 billion Army contract](https://www.cnbc.com/2025/08/01/palantir-lands-10-billion-army-software-and-data-contract.html) (Tier 2)
 - [DefenseScoop: DOD raises Palantir Maven contract to $1.3B](https://defensescoop.com/2025/05/23/dod-palantir-maven-smart-system-contract-increase/) (Tier 2)
@@ -215,7 +215,7 @@ What makes the Founders Fund model especially potent is its self-reinforcing nat
 | $6K | COMMERCE, DEPARTMENT OF | 2008-03-18 |
 | $1K | ENVIRONMENTAL PROTECTION AGENCY | 2008-11-25 |
 
-- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Founders%20Fund&page=1&index=opp) (Tier 1)
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Founders%20Fund&page=1&index=opp) (Tier 1) (VERIFIED)
 <!-- auto:sam-contracts end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -228,7 +228,7 @@ What makes the Founders Fund model especially potent is its self-reinforcing nat
 | Total Expenses | $1.1M |
 | Net Assets | $421K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 863992946](https://projects.propublica.org/nonprofits/organizations/863992946) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 863992946](https://projects.propublica.org/nonprofits/organizations/863992946) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Influence Network (Cross-Reference)
@@ -252,7 +252,7 @@ What makes the Founders Fund model especially potent is its self-reinforcing nat
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [254900B4R5J7N0865R59](https://search.gleif.org/#/record/254900B4R5J7N0865R59) |
+| LEI | [254900B4R5J7N0865R59](https://search.gleif.org/#/record/254900B4R5J7N0865R59) (VERIFIED) |
 | Legal Name | Global Founders Fund |
 | Jurisdiction | LU |
 | Entity Status | ACTIVE |
@@ -260,7 +260,7 @@ What makes the Founders Fund model especially potent is its self-reinforcing nat
 | Registration | ISSUED |
 | Last Updated | 2026-01-19T14:15:43Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Federal Court Records (CourtListener)
@@ -279,7 +279,7 @@ What makes the Founders Fund model especially potent is its self-reinforcing nat
 - Point Bridge Capital v. Johnson (2025) — Court of Appeals for the Fifth Circuit
 - Crusoe Energy Systems LLC v. Upstream Data Inc. (2025) — District Court, E.D. Texas
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Founders%20Fund%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Founders%20Fund%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Tax Filings (IRS 990)
@@ -297,10 +297,10 @@ What makes the Founders Fund model especially potent is its self-reinforcing nat
 **Filing history:** 2023, 2022
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/863992946/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/863992946/2022)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/863992946/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/863992946/2022)~~ (URL broken, archived by Ops)
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/863992946) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/863992946) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### SEC Filing Activity
@@ -318,7 +318,7 @@ What makes the Founders Fund model especially potent is its self-reinforcing nat
 - 2021-06-03 — **EX-24.4_990308**: POA DOCUMENT
 - 2021-02-16 — **SC 13G**: PETER THIEL SCHEDULE 13G
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Founders%20Fund%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Founders%20Fund%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### DOJ Press Releases

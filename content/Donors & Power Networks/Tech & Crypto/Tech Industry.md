@@ -116,14 +116,14 @@ The industry's political priorities span both parties' agendas: Section 230 pres
 | Net Assets | $131K |
 | Officer Compensation | $125K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 954538000](https://projects.propublica.org/nonprofits/organizations/954538000) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 954538000](https://projects.propublica.org/nonprofits/organizations/954538000) (Tier 1) (VERIFIED)
 
 <!-- auto:propublica-990 end -->
 
 ### Sources
 
-- [FEC Receipts: Tech industry lobbying](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- [Ballotpedia: Technology industry political spending](https://ballotpedia.org/Tech_Industry) (Tier 3)
+- [FEC Receipts: Tech industry lobbying](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
+- [Ballotpedia: Technology industry political spending](https://ballotpedia.org/Tech_Industry) (Tier 3) (VERIFIED)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-donor start -->
@@ -147,7 +147,7 @@ The industry's political priorities span both parties' agendas: Section 230 pres
 | DELBENE FOR CONGRESS | $6,250 | DEM |
 | JEFFRIES FOR CONGRESS | $5,500 | DEM |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Tech%20Industry) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Tech%20Industry) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### Federal Register Activity
@@ -161,15 +161,15 @@ The industry's political priorities span both parties' agendas: Section 230 pres
 | Agencies | Commerce Department, Consumer Financial Protection Bureau, Education Department, Federal Communications Commission, Federal Trade Commission, Homeland Security Department, Industry and Security Bureau, International Trade Commission |
 
 **Recent regulatory activity:**
-- [Weighted Selection Process for Registrants and Petitioners Seeking To File Cap-Subject H-1B Petitions](https://www.federalregister.gov/documents/2025/12/29/2025-23853/weighted-selection-process-for-registrants-and-petitioners-seeking-to-file-cap-subject-h-1b) (2025-12-29) — Homeland Security Department ★
-- [Required Rulemaking on Personal Financial Data Rights](https://www.federalregister.gov/documents/2024/11/18/2024-25079/required-rulemaking-on-personal-financial-data-rights) (2024-11-18) — Consumer Financial Protection Bureau ★
-- [Premerger Notification; Reporting and Waiting Period Requirements](https://www.federalregister.gov/documents/2024/11/12/2024-25024/premerger-notification-reporting-and-waiting-period-requirements) (2024-11-12) — Federal Trade Commission
-- [Non-Compete Clause Rule](https://www.federalregister.gov/documents/2024/05/07/2024-09171/non-compete-clause-rule) (2024-05-07) — Federal Trade Commission
-- [Required Rulemaking on Personal Financial Data Rights](https://www.federalregister.gov/documents/2023/10/31/2023-23576/required-rulemaking-on-personal-financial-data-rights) (2023-10-31) — Consumer Financial Protection Bureau ★
-- [Authorization of Certain “Items” to Entities on the Entity List in the Context of Specific Standards Activities](https://www.federalregister.gov/documents/2022/09/09/2022-19415/authorization-of-certain-items-to-entities-on-the-entity-list-in-the-context-of-specific-standards) (2022-09-09) — Commerce Department ★
+- [Weighted Selection Process for Registrants and Petitioners Seeking To File Cap-Subject H-1B Petitions](https://www.federalregister.gov/documents/2025/12/29/2025-23853/weighted-selection-process-for-registrants-and-petitioners-seeking-to-file-cap-subject-h-1b) (VERIFIED) (2025-12-29) — Homeland Security Department ★
+- [Required Rulemaking on Personal Financial Data Rights](https://www.federalregister.gov/documents/2024/11/18/2024-25079/required-rulemaking-on-personal-financial-data-rights) (VERIFIED) (2024-11-18) — Consumer Financial Protection Bureau ★
+- [Premerger Notification; Reporting and Waiting Period Requirements](https://www.federalregister.gov/documents/2024/11/12/2024-25024/premerger-notification-reporting-and-waiting-period-requirements) (VERIFIED) (2024-11-12) — Federal Trade Commission
+- [Non-Compete Clause Rule](https://www.federalregister.gov/documents/2024/05/07/2024-09171/non-compete-clause-rule) (VERIFIED) (2024-05-07) — Federal Trade Commission
+- ~~[Required Rulemaking on Personal Financial Data Rights](https://www.federalregister.gov/documents/2023/10/31/2023-23576/required-rulemaking-on-personal-financial-data-rights)~~ (URL broken, archived by Ops) (2023-10-31) — Consumer Financial Protection Bureau ★
+- [Authorization of Certain “Items” to Entities on the Entity List in the Context of Specific Standards Activities](https://www.federalregister.gov/documents/2022/09/09/2022-19415/authorization-of-certain-items-to-entities-on-the-entity-list-in-the-context-of-specific-standards) (VERIFIED) (2022-09-09) — Commerce Department ★
 - ... and 47 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Tech%20Industry%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Tech%20Industry%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### SEC Filing Activity
@@ -187,7 +187,7 @@ The industry's political priorities span both parties' agendas: Section 230 pres
 - 2005-11-01 — **EX-4.6**: EX-4.6 AGREEMENT FOR THE TRANSFER AND ASSUMPTION
 - 2009-03-23 — **EX-99.1**: EX-99.1
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Tech%20Industry%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Tech%20Industry%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### DOJ Press Releases
@@ -209,5 +209,5 @@ The industry's political priorities span both parties' agendas: Section 230 pres
 - Tejada v. Meta Platforms, Inc. (2026) — District Court, N.D. California
 - Anthropic PBC v. United States Department of War (2026) — Court of Appeals for the D.C. Circuit
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Tech%20Industry%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Tech%20Industry%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->

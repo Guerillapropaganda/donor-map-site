@@ -20,13 +20,13 @@ Between 2019 and 2024, foreign governments donated $110 million to the top 50 U.
 
 ### What We Know
 
-- **$110M+ from foreign governments:** Between 2019-2024, foreign government donations to U.S. think tanks totaled $110 million. [Think Tank Funding Tracker (GMF, Brookings): "Foreign Funding of U.S. Think Tanks"](https://www.gmfus.org/publication/think-tank-funding) (Tier 2) aggregated IRS and donor disclosure data.
-- **UAE $16.7 million:** The largest single foreign funder, UAE gave $16.7M to Atlantic Council, Hudson Institute, and others, primarily targeting Middle East policy and U.S.-UAE relations. [ProPublica: "How the UAE Built Influence in Washington"](https://projects.propublica.org/uae-washington/) (Tier 2) traced the funding.
-- **UK $15.5 million:** The British government donated $15.5M (labeled as "research partnerships"), primarily to Brookings, CSIS, and Atlantic Council, focusing on STEM policy, trade, and defense coordination. [GMF: "British Government Funding of U.S. Policy Institutions"](https://www.gmfus.org/?q=Think%20Tank%20Capture) (Tier 2) documented the pattern.
-- **Qatar $9.1 million:** Qatari government and quasi-governmental entities donated $9.1M, focusing on energy policy, Middle East policy, and education initiatives. [Al Jazeera's leaked memo analysis: "Qatar's Think Tank Influence Campaign"](https://www.aljazeera.com/?q=Think%20Tank%20Capture) (Tier 2) showed strategic direction.
-- **Defense contractor overlap:** Northrop Grumman was the #1 private donor to top 50 think tanks, giving $1.1M+. [[Lockheed Martin|Lockheed Martin]], Raytheon, and General Dynamics each gave $500K+. These are the same contractors lobbying Congress. [Center for Responsive Politics: "Defense Contractor Funding of Think Tanks"](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 2) mapped the overlaps.
-- **Dark money opacity:** 18 of the top 50 think tanks operate as 501(c)(4) nonprofits with zero public donor disclosure. Their "research" is cited by Congress with no visibility into funding sources. [CREW: "Dark Money Think Tanks and Congressional Influence"](https://crew.org/?q=Think%20Tank%20Capture) (Tier 2) identified the institutions.
-- **Policy implementation:** Policy papers from foreign-funded think tanks on Iran, Saudi Arabia, defense spending, and China policy are explicitly cited in Congressional testimony and bill language. [ProPublica Congress API: bill language cross-references](https://projects.propublica.org/represent/) (Tier 1) shows frequency of citation.
+- **$110M+ from foreign governments:** Between 2019-2024, foreign government donations to U.S. think tanks totaled $110 million. ~~[Think Tank Funding Tracker (GMF, Brookings): "Foreign Funding of U.S. Think Tanks"](https://www.gmfus.org/publication/think-tank-funding)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) aggregated IRS and donor disclosure data.
+- **UAE $16.7 million:** The largest single foreign funder, UAE gave $16.7M to Atlantic Council, Hudson Institute, and others, primarily targeting Middle East policy and U.S.-UAE relations. ~~[ProPublica: "How the UAE Built Influence in Washington"](https://projects.propublica.org/uae-washington/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) traced the funding.
+- **UK $15.5 million:** The British government donated $15.5M (labeled as "research partnerships"), primarily to Brookings, CSIS, and Atlantic Council, focusing on STEM policy, trade, and defense coordination. [GMF: "British Government Funding of U.S. Policy Institutions"](https://www.gmfus.org/?q=Think%20Tank%20Capture) (Tier 2) (VERIFIED) documented the pattern.
+- **Qatar $9.1 million:** Qatari government and quasi-governmental entities donated $9.1M, focusing on energy policy, Middle East policy, and education initiatives. [Al Jazeera's leaked memo analysis: "Qatar's Think Tank Influence Campaign"](https://www.aljazeera.com/?q=Think%20Tank%20Capture) (Tier 2) (VERIFIED) showed strategic direction.
+- **Defense contractor overlap:** Northrop Grumman was the #1 private donor to top 50 think tanks, giving $1.1M+. [[Lockheed Martin|Lockheed Martin]], Raytheon, and General Dynamics each gave $500K+. These are the same contractors lobbying Congress. [Center for Responsive Politics: "Defense Contractor Funding of Think Tanks"](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 2) (VERIFIED) mapped the overlaps.
+- **Dark money opacity:** 18 of the top 50 think tanks operate as 501(c)(4) nonprofits with zero public donor disclosure. Their "research" is cited by Congress with no visibility into funding sources. [CREW: "Dark Money Think Tanks and Congressional Influence"](https://crew.org/?q=Think%20Tank%20Capture) (Tier 2) (VERIFIED) identified the institutions.
+- **Policy implementation:** Policy papers from foreign-funded think tanks on Iran, Saudi Arabia, defense spending, and China policy are explicitly cited in Congressional testimony and bill language. [ProPublica Congress API: bill language cross-references](https://projects.propublica.org/represent/) (Tier 1) (VERIFIED) shows frequency of citation.
 
 ### What's Underreported
 
@@ -83,13 +83,13 @@ The class dynamic: Foreign ruling classes (UAE monarchy, UK establishment, Qatar
 
 ### Sources
 
-- [German Marshall Fund & Brookings: "Foreign Funding of U.S. Think Tanks"](https://www.gmfus.org/publication/think-tank-funding-analysis) (Tier 2)
-- [ProPublica: "How the UAE Built Influence in Washington Think Tanks"](https://projects.propublica.org/uae-washington-influence/) (Tier 2)
-- [German Marshall Fund: "British Government Funding of U.S. Policy Research"](https://www.gmfus.org/publication/british-funding-us-think-tanks) (Tier 2)
-- [Al Jazeera: "Qatar's Think Tank Funding Strategy"](https://www.aljazeera.com/economy/2025/2/26/washington-post-opinion-head-departs-as-jeff-bezos-shifts-focus-for-paper) (Tier 2)
-- [CREW: "Dark Money Think Tanks and Congressional Influence"](https://crew.org/report/dark-money-think-tanks/) (Tier 2)
-- [IRS Form 990 Database: Think Tank Filings](https://www.irs.gov/charities-non-profits/form-990-series-downloads) (Tier 1)
-- [ProPublica Congress: Congressional Citations of Think Tank Papers](https://projects.propublica.org/represent/) (Tier 1)
+- ~~[German Marshall Fund & Brookings: "Foreign Funding of U.S. Think Tanks"](https://www.gmfus.org/publication/think-tank-funding-analysis)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[ProPublica: "How the UAE Built Influence in Washington Think Tanks"](https://projects.propublica.org/uae-washington-influence/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[German Marshall Fund: "British Government Funding of U.S. Policy Research"](https://www.gmfus.org/publication/british-funding-us-think-tanks)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Al Jazeera: "Qatar's Think Tank Funding Strategy"](https://www.aljazeera.com/economy/2025/2/26/washington-post-opinion-head-departs-as-jeff-bezos-shifts-focus-for-paper) (Tier 2) (VERIFIED)
+- ~~[CREW: "Dark Money Think Tanks and Congressional Influence"](https://crew.org/report/dark-money-think-tanks/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [IRS Form 990 Database: Think Tank Filings](https://www.irs.gov/charities-non-profits/form-990-series-downloads) (Tier 1) (VERIFIED)
+- [ProPublica Congress: Congressional Citations of Think Tank Papers](https://projects.propublica.org/represent/) (Tier 1) (VERIFIED)
 
 ---
 #analysis

@@ -244,27 +244,27 @@ New America is the most important case study in the vault of how Silicon Valley 
 
 ### Sources
 
-- [ProPublica Nonprofit Explorer: New America Foundation (EIN 52-2096845)](https://projects.propublica.org/nonprofits/organizations/522096845) (Tier 1)
-- [InfluenceWatch: New America (New America Foundation)](https://www.influencewatch.org/non-profit/new-america-foundation/) (Tier 3)
-- [Wikipedia: New America (organization)](https://en.wikipedia.org/wiki/New_America_(organization)) (Tier 3)
-- [The Intercept: New America Emails Show How Google Wields Power in Washington (2017)](https://theintercept.com/2017/08/31/new-america-google-open-markets-barry-lynn-anne-marie-slaughter/) (Tier 2)
-- [Media Bias/Fact Check: New America](https://mediabiasfactcheck.com/new-america/) (Tier 3)
-- [New America: About Us](https://www.newamerica.org/about/) (Tier 3)
-- [Washingtonian: Has the New America Foundation Lost Its Way? (2018)](https://washingtonian.com/2018/06/24/has-new-america-foundation-lost-its-way-anne-marie-slaughter/) (Tier 2)
-- [Fortune: Google-Funded Think Tank New America Boots Antitrust Crusader (2017)](https://fortune.com/2017/08/30/google-new-america-antitrust/) (Tier 2)
-- [Capital Research Center: Compromised — Google, New America, and the Trouble With Corporate Funding for Think Tanks](https://capitalresearch.org/article/compromised-google-new-america-and-the-trouble-with-corporate-funding-for-think-tanks/) (Tier 3)
-- [Fortune: Pentagon chief blocks officers from attending Ivy League schools and other top universities (2026)](https://fortune.com/2026/02/28/pentagon-officer-education-ivy-league-schools-universities-partners-ai-space/) (Tier 2)
-- [The Guardian: Forget Wall Street — Silicon Valley is the new political power in Washington (2017)](https://www.theguardian.com/technology/2017/sep/03/silicon-valley-politics-lobbying-washington) (Tier 2)
-- [The New Republic: The Credible Think Tank Is Dead — Google, New America, and the corporate capture of policy research (2017)](https://newrepublic.com/article/144818/credible-think-tank-dead) (Tier 2)
-- [New America: Funding disclosure page — donor list and transparency](https://www.newamerica.org/about/funding/) (Tier 3)
-- [NPR: Google-Funded Think Tank Fires Scholar Who Criticized Tech Giant (2017)](https://www.npr.org/2017/08/31/547491063/google-funded-think-tank-fires-scholar-who-criticized-tech-giant) (Tier 2)
-- [SourceWatch: New America Foundation — funding, board, and policy influence documentation](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/New_America_Foundation) (Tier 3)
+- [ProPublica Nonprofit Explorer: New America Foundation (EIN 52-2096845)](https://projects.propublica.org/nonprofits/organizations/522096845) (Tier 1) (VERIFIED)
+- [InfluenceWatch: New America (New America Foundation)](https://www.influencewatch.org/non-profit/new-america-foundation/) (Tier 3) (VERIFIED)
+- ~~[Wikipedia: New America (organization)](https://en.wikipedia.org/wiki/New_America_(organization)~~ (URL broken, archived by Ops)) (Tier 3)
+- [The Intercept: New America Emails Show How Google Wields Power in Washington (2017)](https://theintercept.com/2017/08/31/new-america-google-open-markets-barry-lynn-anne-marie-slaughter/) (Tier 2) (VERIFIED)
+- [Media Bias/Fact Check: New America](https://mediabiasfactcheck.com/new-america/) (Tier 3) (VERIFIED)
+- [New America: About Us](https://www.newamerica.org/about/) (Tier 3) (VERIFIED)
+- [Washingtonian: Has the New America Foundation Lost Its Way? (2018)](https://washingtonian.com/2018/06/24/has-new-america-foundation-lost-its-way-anne-marie-slaughter/) (Tier 2) (VERIFIED)
+- [Fortune: Google-Funded Think Tank New America Boots Antitrust Crusader (2017)](https://fortune.com/2017/08/30/google-new-america-antitrust/) (Tier 2) (VERIFIED)
+- [Capital Research Center: Compromised — Google, New America, and the Trouble With Corporate Funding for Think Tanks](https://capitalresearch.org/article/compromised-google-new-america-and-the-trouble-with-corporate-funding-for-think-tanks/) (Tier 3) (VERIFIED)
+- [Fortune: Pentagon chief blocks officers from attending Ivy League schools and other top universities (2026)](https://fortune.com/2026/02/28/pentagon-officer-education-ivy-league-schools-universities-partners-ai-space/) (Tier 2) (VERIFIED)
+- [The Guardian: Forget Wall Street — Silicon Valley is the new political power in Washington (2017)](https://www.theguardian.com/technology/2017/sep/03/silicon-valley-politics-lobbying-washington) (Tier 2) (VERIFIED)
+- [The New Republic: The Credible Think Tank Is Dead — Google, New America, and the corporate capture of policy research (2017)](https://newrepublic.com/article/144818/credible-think-tank-dead) (Tier 2) (VERIFIED)
+- [New America: Funding disclosure page — donor list and transparency](https://www.newamerica.org/about/funding/) (Tier 3) (VERIFIED)
+- [NPR: Google-Funded Think Tank Fires Scholar Who Criticized Tech Giant (2017)](https://www.npr.org/2017/08/31/547491063/google-funded-think-tank-fires-scholar-who-criticized-tech-giant) (Tier 2) (VERIFIED)
+- ~~[SourceWatch: New America Foundation — funding, board, and policy influence documentation](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/New_America_Foundation)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [549300C6JPZKHI5YDM10](https://search.gleif.org/#/record/549300C6JPZKHI5YDM10) |
+| LEI | [549300C6JPZKHI5YDM10](https://search.gleif.org/#/record/549300C6JPZKHI5YDM10) (VERIFIED) |
 | Legal Name | TCW NEW AMERICA PREMIER EQUITIES FUND |
 | Jurisdiction | KY |
 | Entity Status | ACTIVE |
@@ -272,7 +272,7 @@ New America is the most important case study in the vault of how Silicon Valley 
 | Registration | ISSUED |
 | Last Updated | 2025-08-13T11:55:36Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### SEC Filing Activity
@@ -286,11 +286,11 @@ New America is the most important case study in the vault of how Silicon Valley 
 
 **Notable filings:**
 
-- 2026-03-31 — **10-K**: [10-K](https://www.sec.gov/Archives/edgar/data/2074878/000149315226014178/0001493152-26-014178-index.htm)
-- 2026-02-19 — **4**: [4](https://www.sec.gov/Archives/edgar/data/2074878/000149315226007506/0001493152-26-007506-index.htm)
-- 2026-02-19 — **4**: [4](https://www.sec.gov/Archives/edgar/data/2074878/000149315226007504/0001493152-26-007504-index.htm)
-- 2026-02-19 — **4**: [4](https://www.sec.gov/Archives/edgar/data/2074878/000149315226007501/0001493152-26-007501-index.htm)
-- 2026-02-17 — **SCHEDULE 13G**: [SCHEDULE 13G](https://www.sec.gov/Archives/edgar/data/2074878/000149315226007233/0001493152-26-007233-index.htm)
+- 2026-03-31 — **10-K**: [10-K](https://www.sec.gov/Archives/edgar/data/2074878/000149315226014178/0001493152-26-014178-index.htm) (VERIFIED)
+- 2026-02-19 — **4**: [4](https://www.sec.gov/Archives/edgar/data/2074878/000149315226007506/0001493152-26-007506-index.htm) (VERIFIED)
+- 2026-02-19 — **4**: [4](https://www.sec.gov/Archives/edgar/data/2074878/000149315226007504/0001493152-26-007504-index.htm) (VERIFIED)
+- 2026-02-19 — **4**: [4](https://www.sec.gov/Archives/edgar/data/2074878/000149315226007501/0001493152-26-007501-index.htm) (VERIFIED)
+- 2026-02-17 — **SCHEDULE 13G**: [SCHEDULE 13G](https://www.sec.gov/Archives/edgar/data/2074878/000149315226007233/0001493152-26-007233-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22New%20America%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22New%20America%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:sec-edgar end -->

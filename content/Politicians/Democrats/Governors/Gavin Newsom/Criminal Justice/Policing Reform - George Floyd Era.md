@@ -101,9 +101,9 @@ Newsom has positioned criminal justice reform as a local/county function. This a
 
 ### Sources
 
-- [California Assembly Bill 1506: Independent investigation of officer-involved deaths](https://leginfo.legislature.ca.gov/faces/home.xhtml?bill_id=202020216AB1506) (Tier 1)
-- [CalMatters: California's moment of reckoning on police accountability](https://calmatters.org/justice/2020/08/californias-moment-of-reckoning-on-police-accountability/) (Tier 2)
-- [CalMatters: Two historic California reparations bills stall out](https://calmatters.org/california-divide/2024/08/california-reparations-bills-3/) (Tier 2)
-- [LA Times: Newsom signs policing reform package 2020](https://www.latimes.com/california/story/2020-09-30/newsom-police-reform-bills-california) (Tier 2)
-- [CalMatters: Prop 36 passes overwhelmingly](https://calmatters.org/category/politics/elections/2024/11/prop-36-california-election-result/) (Tier 2)
+- [California Assembly Bill 1506: Independent investigation of officer-involved deaths](https://leginfo.legislature.ca.gov/faces/home.xhtml?bill_id=202020216AB1506) (Tier 1) (VERIFIED)
+- [CalMatters: California's moment of reckoning on police accountability](https://calmatters.org/justice/2020/08/californias-moment-of-reckoning-on-police-accountability/) (Tier 2) (VERIFIED)
+- [CalMatters: Two historic California reparations bills stall out](https://calmatters.org/california-divide/2024/08/california-reparations-bills-3/) (Tier 2) (VERIFIED)
+- ~~[LA Times: Newsom signs policing reform package 2020](https://www.latimes.com/california/story/2020-09-30/newsom-police-reform-bills-california)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[CalMatters: Prop 36 passes overwhelmingly](https://calmatters.org/category/politics/elections/2024/11/prop-36-california-election-result/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 

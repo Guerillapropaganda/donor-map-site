@@ -42,5 +42,5 @@ Trump election (achieved 2024), favorable regulatory treatment for Musk's compan
 
 ### Sources
 
-- [Ballotpedia: America PAC](https://ballotpedia.org/America_PAC_-_Elon_Musk) (Tier 3)
+- [Ballotpedia: America PAC](https://ballotpedia.org/America_PAC_-_Elon_Musk) (Tier 3) (VERIFIED)
 

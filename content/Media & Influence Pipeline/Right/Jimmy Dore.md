@@ -56,7 +56,7 @@ Dore operates a multi-platform, audience-funded model with no single corporate d
 > [!money]
 > One $500 contribution to Pete Buttigieg's 2020 campaign, made in June 2017 before Buttigieg was a national political figure. Notable because Dore later became one of Buttigieg's most vocal left-wing critics during the 2020 primary, attacking him as a corporate-backed empty suit. The donation predates the feud, making it the only documented FEC evidence that Dore ever supported a Democratic politician who would later become the target of his fiercest criticism. The pattern is analytically revealing: give $500 to a candidate, then spend thousands of hours on YouTube attacking that candidate. The monetary commitment to electoral politics was transient; the media platform commitment to attacking electoral politics was sustained.
 
-- [FEC: Jimmy Dore individual contributions (1 result, $500)](https://www.fec.gov/data/receipts/?contributor_name=dore%2C+jimmy) (Tier 1)
+- [FEC: Jimmy Dore individual contributions (1 result, $500)](https://www.fec.gov/data/receipts/?contributor_name=dore%2C+jimmy) (Tier 1) (VERIFIED)
 
 > **Note on API results:** The FEC API search for "dore, jimmy" returns 1 result: $500 to Pete Buttigieg 2020 campaign, self-employed. Matches the comedian profile. No disambiguation required, single confirmed result is the media personality.
 
@@ -131,14 +131,14 @@ Jimmy Dore is the audience capture pipeline in its rawest form. Unlike Taibbi (w
 
 ### Sources
 
-- [FEC: Jimmy Dore individual contributions (1 result, $500 to Pete for Iowa)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=dore%2C+jimmy&min_date=01%2F01%2F2010&max_date=12%2F31%2F2026) (Tier 1)
-- [Bellingcat: Pro-Assad Lobby Group Rewards Bloggers On Both The Left And The Right](https://www.bellingcat.com/news/2019/09/30/pro-assad-lobby-group-rewards-bloggers-on-both-the-left-and-the-right/) (Tier 2)
-- [Newsweek: Jimmy Dore Boogaloo Boys Interview Sparks Outrage Among Critics](https://www.newsweek.com/jimmy-dore-boogaloo-bois-podcast-1564089) (Tier 2)
-- [Jacobin: Jimmy Dore Is Right About the Urgency of Medicare for All. But AOC Isn't the Problem.](https://jacobin.com/2020/12/jimmy-dore-aoc-medicare-for-all-pelosi-house-floor-vote-speaker) (Tier 2)
-- [Discourse Blog: A Medicare for All Vote Isn't Worth the Risk](https://www.discourseblog.com/p/medicare-for-all-vote-aoc-jimmy-dore) (Tier 3)
-- [Glenn Greenwald/Substack: An Ugly War Among Leftist YouTubers Shows Two Common, Toxic Pathologies](https://greenwald.substack.com/p/an-ugly-war-among-leftist-youtubers) (Tier 3)
-- [Wikipedia: Jimmy Dore](https://en.wikipedia.org/wiki/Jimmy_Dore) (Tier 3)
-- [Socialist Alternative: Jimmy Dore is Right. AOC Should Force a Floor Vote on Medicare for All](https://www.socialistalternative.org/2020/12/23/jimmy-dore-is-right-aoc-should-force-a-floor-vote-on-medicare-for-all/) (Tier 4)
-- [MEAWW: Jimmy Dore praises Boogaloo Boys. Internet slams 'politically confused' comedian](https://meaww.com/comedian-jimmy-dore-politically-confused-praises-boogaloo-boys-far-right-movement-black-lives-matter) (Tier 3)
-- [Laughfactory: Jimmy Dore biography](https://www.laughfactory.com/comedians/JimmyDore) *(source unavailable)* (Tier 3)
+- [FEC: Jimmy Dore individual contributions (1 result, $500 to Pete for Iowa)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=dore%2C+jimmy&min_date=01%2F01%2F2010&max_date=12%2F31%2F2026) (Tier 1) (VERIFIED)
+- [Bellingcat: Pro-Assad Lobby Group Rewards Bloggers On Both The Left And The Right](https://www.bellingcat.com/news/2019/09/30/pro-assad-lobby-group-rewards-bloggers-on-both-the-left-and-the-right/) (Tier 2) (VERIFIED)
+- [Newsweek: Jimmy Dore Boogaloo Boys Interview Sparks Outrage Among Critics](https://www.newsweek.com/jimmy-dore-boogaloo-bois-podcast-1564089) (Tier 2) (VERIFIED)
+- [Jacobin: Jimmy Dore Is Right About the Urgency of Medicare for All. But AOC Isn't the Problem.](https://jacobin.com/2020/12/jimmy-dore-aoc-medicare-for-all-pelosi-house-floor-vote-speaker) (Tier 2) (VERIFIED)
+- [Discourse Blog: A Medicare for All Vote Isn't Worth the Risk](https://www.discourseblog.com/p/medicare-for-all-vote-aoc-jimmy-dore) (Tier 3) (VERIFIED)
+- [Glenn Greenwald/Substack: An Ugly War Among Leftist YouTubers Shows Two Common, Toxic Pathologies](https://greenwald.substack.com/p/an-ugly-war-among-leftist-youtubers) (Tier 3) (VERIFIED)
+- [Wikipedia: Jimmy Dore](https://en.wikipedia.org/wiki/Jimmy_Dore) (Tier 3) (VERIFIED)
+- [Socialist Alternative: Jimmy Dore is Right. AOC Should Force a Floor Vote on Medicare for All](https://www.socialistalternative.org/2020/12/23/jimmy-dore-is-right-aoc-should-force-a-floor-vote-on-medicare-for-all/) (Tier 4) (VERIFIED)
+- [MEAWW: Jimmy Dore praises Boogaloo Boys. Internet slams 'politically confused' comedian](https://meaww.com/comedian-jimmy-dore-politically-confused-praises-boogaloo-boys-far-right-movement-black-lives-matter) (Tier 3) (VERIFIED)
+- ~~[Laughfactory: Jimmy Dore biography](https://www.laughfactory.com/comedians/JimmyDore)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 3)
 

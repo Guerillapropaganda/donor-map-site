@@ -28,7 +28,7 @@ The FEC API returns 0 results for "WILLIAMSON, MARIANNE" as a contributor to oth
 - **2020 campaign:** $8,403,835 total receipts (Nov 2018 - Dec 2020), ~70% small-dollar, 100K+ individual donors
 - **2024 campaign:** $5,404,966 total receipts (Jul 2022 - Dec 2024), weaker trajectory, no debate platform
 
-- [FEC: Marianne Williamson individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=WILLIAMSON%2C+MARIANNE) (Tier 1)
+- [FEC: Marianne Williamson individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=WILLIAMSON%2C+MARIANNE) (Tier 1) (VERIFIED)
 - Abandoned virtual roll call vote against Harris (July 2024); indicated base would not fund aggressive primary challenge
 
 Sources: FEC.gov candidate profile (P00009910), OpenSecrets, Ballotpedia 2024 data
@@ -171,12 +171,12 @@ Her campaigns expose Democratic Party gatekeeping: not through censorship (Willi
 
 ### Sources
 
-- [Marianne Williamson. Wikipedia](https://en.wikipedia.org/wiki/Marianne_Williamson) (Tier 2) (Chrome verified 2026-03-27)
-- [Marianne Williamson 2024 presidential campaign. Ballotpedia](https://ballotpedia.org/Marianne_Williamson_presidential_campaign,_2024) (Tier 1) (Chrome verified 2026-03-27)
-- [Marianne Williamson. FEC.gov candidate profile](https://www.fec.gov/data/candidate/P00009910/) (Tier 1) (Chrome verified 2026-03-27)
-- [Marianne Williamson brought in $1.5 million in the second quarter. CNN Politics](https://edition.cnn.com/politics/live-news/2020-election-campaign-fundraising) (Tier 2) (Chrome verified 2026-03-27)
-- [2024 hopeful Marianne Williamson blasts Biden, DNC for not holding debates. Fox News](https://www.foxnews.com/media/2024-hopeful-marianne-williamson-blasts-biden-dnc-not-holding-debates-candidate-suppression) (Tier 2) (Chrome verified 2026-03-27)
-- [Marianne Williamson knocks DNC over lack of debates as Biden campaign launch nears. Washington Examiner](https://www.washingtonexaminer.com/news/campaigns/bidens-primary-foes-try-not-ignored) (Tier 2) (Chrome verified 2026-03-27)
-- [Marianne Williamson: A Return to Love](https://marianne.com/a-return-to-love/) (Tier 2) (Chrome verified 2026-03-27)
-- [OpenSecrets: Marianne Williamson 2024 candidate data](https://www.opensecrets.org/2024-presidential-race?id=N00035565) (Tier 2) (Chrome verified 2026-03-27)
+- [Marianne Williamson. Wikipedia](https://en.wikipedia.org/wiki/Marianne_Williamson) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
+- [Marianne Williamson 2024 presidential campaign. Ballotpedia](https://ballotpedia.org/Marianne_Williamson_presidential_campaign,_2024) (Tier 1) (VERIFIED) (Chrome verified 2026-03-27)
+- ~~[Marianne Williamson. FEC.gov candidate profile](https://www.fec.gov/data/candidate/P00009910/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1) (Chrome verified 2026-03-27)
+- [Marianne Williamson brought in $1.5 million in the second quarter. CNN Politics](https://edition.cnn.com/politics/live-news/2020-election-campaign-fundraising) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
+- [2024 hopeful Marianne Williamson blasts Biden, DNC for not holding debates. Fox News](https://www.foxnews.com/media/2024-hopeful-marianne-williamson-blasts-biden-dnc-not-holding-debates-candidate-suppression) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
+- [Marianne Williamson knocks DNC over lack of debates as Biden campaign launch nears. Washington Examiner](https://www.washingtonexaminer.com/news/campaigns/bidens-primary-foes-try-not-ignored) (Tier 2) (NEEDS REVIEW) (Chrome verified 2026-03-27)
+- [Marianne Williamson: A Return to Love](https://marianne.com/a-return-to-love/) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
+- [OpenSecrets: Marianne Williamson 2024 candidate data](https://www.opensecrets.org/2024-presidential-race?id=N00035565) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
 

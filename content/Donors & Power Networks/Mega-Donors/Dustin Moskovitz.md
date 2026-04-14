@@ -131,14 +131,14 @@ The FTX connection exposed the movement's structural vulnerability. Sam Bankman-
 
 ### Sources
 
-- [OpenSecrets: Future Forward USA Action 2024 spending](https://www.opensecrets.org/groups/240400) (Tier 2)
-- [FEC: Dustin Moskovitz individual contributions 2024](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=dustin+moskovitz) (Tier 1)
-- [Open Philanthropy: Annual reports and strategic documents](https://coefficientgiving.org/research-and-news/) (Tier 1)
-- [Good Ventures Foundation: IRS Form 990 filings](https://www.guidestar.org/profile/26-1493236) (Tier 1)
-- [Fortune: Meet the millennial Meta cofounder and his wife who are giving away $20 billion](https://fortune.com/2025/11/10/meet-the-millennial-meta-cofounder-and-his-wife-who-are-giving-away-20-billion/) (Tier 2)
-- [Wall Street Journal: "Facebook's Dustin Moskovitz on Why He Gives Away His Billions"](https://www.wsj.com/articles/facebooks-dustin-moskovitz-on-why-he-gives-away-his-billions-11576079206) (Tier 2)
-- [Washington Post: Effective altruism helped FTX and Sam Bankman-Fried deflect scrutiny](https://www.washingtonpost.com/technology/2022/11/17/effective-altruism-sam-bankman-fried-ftx-crypto/) (Tier 2)
-- [OpenSecrets: 2024 Dark Money Political Spending Overview](https://www.opensecrets.org/dark-money) (Tier 2)
+- ~~[OpenSecrets: Future Forward USA Action 2024 spending](https://www.opensecrets.org/groups/240400)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [FEC: Dustin Moskovitz individual contributions 2024](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=dustin+moskovitz) (Tier 1) (VERIFIED)
+- [Open Philanthropy: Annual reports and strategic documents](https://coefficientgiving.org/research-and-news/) (Tier 1) (VERIFIED)
+- ~~[Good Ventures Foundation: IRS Form 990 filings](https://www.guidestar.org/profile/26-1493236)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Fortune: Meet the millennial Meta cofounder and his wife who are giving away $20 billion](https://fortune.com/2025/11/10/meet-the-millennial-meta-cofounder-and-his-wife-who-are-giving-away-20-billion/) (Tier 2) (VERIFIED)
+- ~~[Wall Street Journal: "Facebook's Dustin Moskovitz on Why He Gives Away His Billions"](https://www.wsj.com/articles/facebooks-dustin-moskovitz-on-why-he-gives-away-his-billions-11576079206)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Washington Post: Effective altruism helped FTX and Sam Bankman-Fried deflect scrutiny](https://www.washingtonpost.com/technology/2022/11/17/effective-altruism-sam-bankman-fried-ftx-crypto/) (Tier 2) (VERIFIED)
+- [OpenSecrets: 2024 Dark Money Political Spending Overview](https://www.opensecrets.org/dark-money) (Tier 2) (VERIFIED)
 
 ---
 
@@ -173,7 +173,7 @@ The FTX connection exposed the movement's structural vulnerability. Sam Bankman-
 - 2022-09-16 — **SC 13D/A**: SC 13D/A
 - 2020-09-09 — **EX-4.3**: EX-4.3
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Dustin%20Moskovitz%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Dustin%20Moskovitz%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Federal Court Records (CourtListener)
@@ -192,7 +192,7 @@ The FTX connection exposed the movement's structural vulnerability. Sam Bankman-
 - Dunbar v. Zuckerberg (2025) — District Court, S.D. New York
 - Bussard v. Bryan Health (2024) — District Court, D. Nebraska
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Dustin%20Moskovitz%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Dustin%20Moskovitz%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Register Activity
@@ -204,10 +204,10 @@ The FTX connection exposed the movement's structural vulnerability. Sam Bankman-
 | Agencies | Federal Trade Commission |
 
 **Recent regulatory activity:**
-- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2018/03/15/2018-05248/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2018-03-15) — Federal Trade Commission
-- [Granting of Request for Early Termination of the Waiting Period Under the Premerger](https://www.federalregister.gov/documents/2016/08/10/2016-18915/granting-of-request-for-early-termination-of-the-waiting-period-under-the-premerger) (2016-08-10) — Federal Trade Commission
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2018/03/15/2018-05248/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (VERIFIED) (2018-03-15) — Federal Trade Commission
+- [Granting of Request for Early Termination of the Waiting Period Under the Premerger](https://www.federalregister.gov/documents/2016/08/10/2016-18915/granting-of-request-for-early-termination-of-the-waiting-period-under-the-premerger) (VERIFIED) (2016-08-10) — Federal Trade Commission
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Dustin%20Moskovitz%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Dustin%20Moskovitz%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### DOJ Press Releases

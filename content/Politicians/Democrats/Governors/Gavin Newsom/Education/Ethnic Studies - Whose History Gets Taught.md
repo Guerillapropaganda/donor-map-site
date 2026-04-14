@@ -102,8 +102,8 @@ The ethnic studies fight is a pure class power story. Who decides what history g
 
 ### Sources
 
-- [Jewish News of Northern California: Newsom quotes on ethnic studies draft](https://jweekly.com/2019/08/16/newsom-ethnic-studies-draft-offensive/) (Tier 2)
-- [CalMatters: Ethnic studies required for California high school students](https://calmatters.org/category/education/k-12-education/2021/10/ethnic-studies-requirement/) (Tier 2)
-- [EdSource: Ethnic studies revision process](https://edsource.org/2020/california-revised-ethnic-studies-curriculum) (Tier 2)
-- [Arab American Institute: Palestinian American community response](https://www.aaiusa.org/) (Tier 2)
+- ~~[Jewish News of Northern California: Newsom quotes on ethnic studies draft](https://jweekly.com/2019/08/16/newsom-ethnic-studies-draft-offensive/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[CalMatters: Ethnic studies required for California high school students](https://calmatters.org/category/education/k-12-education/2021/10/ethnic-studies-requirement/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[EdSource: Ethnic studies revision process](https://edsource.org/2020/california-revised-ethnic-studies-curriculum)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Arab American Institute: Palestinian American community response](https://www.aaiusa.org/) (Tier 2) (VERIFIED)
 

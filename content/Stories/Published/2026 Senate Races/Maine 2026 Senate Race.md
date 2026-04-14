@@ -46,10 +46,10 @@ Dark money networks:
 
 ### Sources
 
-- [In Maine U.S. Senate race, Democrats burn cash while Sen. Susan Collins stockpiles it | Portland Press Herald](https://www.pressherald.com/2026/02/04/in-maine-u-s-senate-race-democrats-burn-cash-while-sen-susan-collins-stockpiles-it/) (Tier 2)
-- [Maine Senate battle between Platner and Mills heats up with release of first attack ad | NBC Boston](https://www.nbcboston.com/news/local/maine-senate-battle-between-platner-and-mills-heats-up-with-release-of-first-attack-ad/3916911/) (Tier 3)
+- [In Maine U.S. Senate race, Democrats burn cash while Sen. Susan Collins stockpiles it | Portland Press Herald](https://www.pressherald.com/2026/02/04/in-maine-u-s-senate-race-democrats-burn-cash-while-sen-susan-collins-stockpiles-it/) (Tier 2) (VERIFIED)
+- [Maine Senate battle between Platner and Mills heats up with release of first attack ad | NBC Boston](https://www.nbcboston.com/news/local/maine-senate-battle-between-platner-and-mills-heats-up-with-release-of-first-attack-ad/3916911/) (Tier 3) (VERIFIED)
 - [Graham Platner posts $4.6 million in fourth quarter fundraising, Gov. [[Janet Mills]] $2.7 million | Maine Public](https://www.mainepublic.org/politics/2026-02-02/graham-platner-posts-4-6-million-in-fourth-quarter-fundraising-gov-janet-mills-2-7-million) (Tier 2)
-- [Deep-pocketed groups are already spending on the Maine U.S. Senate race | Maine Public](https://www.mainepublic.org/politics/2025-12-12/deep-pocketed-groups-are-already-spending-on-the-maine-u-s-senate-race-heres-an-early-guide) (Tier 2)
+- [Deep-pocketed groups are already spending on the Maine U.S. Senate race | Maine Public](https://www.mainepublic.org/politics/2025-12-12/deep-pocketed-groups-are-already-spending-on-the-maine-u-s-senate-race-heres-an-early-guide) (Tier 2) (VERIFIED)
 
 ---
 

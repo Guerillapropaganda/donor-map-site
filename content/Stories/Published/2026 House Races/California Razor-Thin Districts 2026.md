@@ -33,7 +33,7 @@ In both districts, Republicans are heavily favored to rematch or mount strong ch
 
 **Demographics:** Agricultural heartland; high concentrations of farmworkers, agribusiness interests, and food processing workers
 
-**Performance:** 2024: Adam Gray (D) defeated incumbent Rep. John Duarte (R) by 187 votes out of 200,000+ cast, the closest House race in the nation. [California's 13th Congressional District election, 2026 - Ballotpedia](https://ballotpedia.org/California's_13th_Congressional_District_election,_2026) (Tier 3)
+**Performance:** 2024: Adam Gray (D) defeated incumbent Rep. John Duarte (R) by 187 votes out of 200,000+ cast, the closest House race in the nation. [California's 13th Congressional District election, 2026 - Ballotpedia](https://ballotpedia.org/California's_13th_Congressional_District_election,_2026) (Tier 3) (VERIFIED)
 
 **Cook Partisan Index:** R+1 (Republican-leaning, but won by Democrat in 2024)
 
@@ -41,9 +41,9 @@ In both districts, Republicans are heavily favored to rematch or mount strong ch
 
 Gray's 2024 victory was one of the most stunning upsets of the cycle. He flipped a traditionally Republican seat by fewer than 200 votes. His hold on the district is extremely tenuous.
 
-[Democratic challenger Adam Gray flips California's 13th Congressional District in nation's final House race - Fox News](https://www.foxnews.com/politics/democratic-challenger-adam-gray-flips-californias-13th-congressional-district-nations-final-house-race) (Tier 3)
+[Democratic challenger Adam Gray flips California's 13th Congressional District in nation's final House race - Fox News](https://www.foxnews.com/politics/democratic-challenger-adam-gray-flips-californias-13th-congressional-district-nations-final-house-race) (Tier 3) (VERIFIED)
 
-**Republican challenger:** Former Stockton Mayor Kevin Lincoln has filed for the Republican nomination, positioning himself as the establishment Republican challenger. Lincoln will likely face other Republicans in a primary before facing Gray in the general election. [Kevin Lincoln launches Congressional campaign for District 13 - ABC10](https://abc10.com/article/news/local/california/kevin-lincoln-congress-district-13-campaign/103-8342f4d1-6ab5-494e-81c0-7f46f8aedcda) (Tier 3)
+**Republican challenger:** Former Stockton Mayor Kevin Lincoln has filed for the Republican nomination, positioning himself as the establishment Republican challenger. Lincoln will likely face other Republicans in a primary before facing Gray in the general election. [Kevin Lincoln launches Congressional campaign for District 13 - ABC10](https://abc10.com/article/news/local/california/kevin-lincoln-congress-district-13-campaign/103-8342f4d1-6ab5-494e-81c0-7f46f8aedcda) (Tier 3) (NEEDS REVIEW)
 
 **Historical context:** Gray's ability to flip this seat came from split-ticket voting and candidate-specific factors. Without John Duarte's weaknesses, a traditional Republican should be favored in a district coded R+1.
 
@@ -72,13 +72,13 @@ Gray's 2024 win came despite the district's Republican lean. Replicating that wi
 
 **Demographics:** Historically Republican, strong Asian American community (Little Saigon), large immigrant population
 
-**Performance:** 2024: Derek Tran (D) defeated incumbent Rep. Michelle Steel (R) by 613 votes. Tran became the first Vietnamese American to represent Little Saigon in Congress. [Derek Tran defeats Michelle Steel in California's 45th congressional district - Orange County Register](https://www.ocregister.com/2024/11/27/rep-michelle-steel-appears-to-concede-to-derek-tran-in-the-45th-congressional-district-race/) (Tier 2)
+**Performance:** 2024: Derek Tran (D) defeated incumbent Rep. Michelle Steel (R) by 613 votes. Tran became the first Vietnamese American to represent Little Saigon in Congress. [Derek Tran defeats Michelle Steel in California's 45th congressional district - Orange County Register](https://www.ocregister.com/2024/11/27/rep-michelle-steel-appears-to-concede-to-derek-tran-in-the-45th-congressional-district-race/) (Tier 2) (VERIFIED)
 
 **Cook Partisan Index:** D+1 (Democratic-leaning by 1 point, first time Orange County district favors Democrats at presidential level)
 
 ### The Rematch
 
-Michelle Steel has already declared her candidacy to run again in 2026, guaranteeing an immediate rematch. [California's 45th Congressional District election, 2026 - Ballotpedia](https://ballotpedia.org/California's_45th_Congressional_District_election,_2026) (Tier 3)
+Michelle Steel has already declared her candidacy to run again in 2026, guaranteeing an immediate rematch. [California's 45th Congressional District election, 2026 - Ballotpedia](https://ballotpedia.org/California's_45th_Congressional_District_election,_2026) (Tier 3) (VERIFIED)
 
 This is unprecedented: the two closest House races in 2024 are now locked into 2026 rematches, both in California, both with vulnerable incumbents elected by fewer than 700 votes combined.
 
@@ -91,7 +91,7 @@ In 2026, the presidential context will be different. Trump is president. Immigra
 
 Derek Tran's election was culturally significant: the first Vietnamese American to represent Orange County's Vietnamese community in Congress. Tran broke a ceiling. In 2026, Steel will attempt to reclaim the seat, testing whether Tran's thin 2024 coalition can hold.
 
-[Derek Tran - Ballotpedia](https://ballotpedia.org/Derek_Tran) (Tier 3)
+[Derek Tran - Ballotpedia](https://ballotpedia.org/Derek_Tran) (Tier 3) (VERIFIED)
 
 ### Projected 2026 Spending
 

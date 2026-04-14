@@ -156,14 +156,14 @@ On healthcare, she leads with children and families — the child tax credit, sc
 
 ## Sources
 
-- [FEC Candidate: Rosa DeLauro donor profile](https://www.fec.gov/data/candidate/H0CT03072/) (Tier 1)
-- [FEC: Rosa DeLauro candidate profile](https://www.fec.gov/data/candidate/H0CT03072/) (Tier 1)
-- [House Appropriations Committee: Ranking Member DeLauro](https://democrats-appropriations.house.gov/about/ranking-member-rosa-l-delauro) (Tier 1)
-- [Track AIPAC: Rosa DeLauro Israel lobby contributions](https://www.trackaipac.com/congress) (Tier 2)
-- [Hartford Courant: Wall Street, lawyers, insurance and defense top donors to CT lawmakers](https://www.courant.com/2019/05/28/wall-street-lawyers-insurance-and-defense-top-donors-to-connecticut-lawmakers/) (Tier 2)
-- [CT Mirror: Rosa DeLauro child tax credit advocacy](https://ctmirror.org/2024/01/15/child-tax-credit-rosa-delauro/) (Tier 2)
-- [Science/AAAS: FDA revolving door analysis](https://www.science.org/content/article/fda-s-revolving-door-companies-often-hire-agency-staffers-who-managed-their-successful) (Tier 2)
-- [OpenSecrets: Rosa DeLauro net worth disclosures](https://www.opensecrets.org/personal-finances/rosa-delauro/net-worth?cid=N00000615) (Tier 1)
+- [FEC Candidate: Rosa DeLauro donor profile](https://www.fec.gov/data/candidate/H0CT03072/) (Tier 1) (VERIFIED)
+- [FEC: Rosa DeLauro candidate profile](https://www.fec.gov/data/candidate/H0CT03072/) (Tier 1) (VERIFIED)
+- [House Appropriations Committee: Ranking Member DeLauro](https://democrats-appropriations.house.gov/about/ranking-member-rosa-l-delauro) (Tier 1) (VERIFIED)
+- [Track AIPAC: Rosa DeLauro Israel lobby contributions](https://www.trackaipac.com/congress) (Tier 2) (VERIFIED)
+- [Hartford Courant: Wall Street, lawyers, insurance and defense top donors to CT lawmakers](https://www.courant.com/2019/05/28/wall-street-lawyers-insurance-and-defense-top-donors-to-connecticut-lawmakers/) (Tier 2) (VERIFIED)
+- [CT Mirror: Rosa DeLauro child tax credit advocacy](https://ctmirror.org/2024/01/15/child-tax-credit-rosa-delauro/) (Tier 2) (VERIFIED)
+- ~~[Science/AAAS: FDA revolving door analysis](https://www.science.org/content/article/fda-s-revolving-door-companies-often-hire-agency-staffers-who-managed-their-successful)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [OpenSecrets: Rosa DeLauro net worth disclosures](https://www.opensecrets.org/personal-finances/rosa-delauro/net-worth?cid=N00000615) (Tier 1) (VERIFIED)
 
 c
 
@@ -198,7 +198,7 @@ c
 | CT WORKING FAMILIES FEDERAL PAC D/B/A TAKE BACK CONGRESS CT | $5,075 | $0 |
 | MID-AMERICA CONSERVATIVE POLITICAL ACTION COMMITTEE | $0 | $4,496 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0CT03072/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0CT03072/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (GovTrack)
@@ -230,7 +230,7 @@ c
 | 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Nay | Passed |
 | 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Nay | Passed |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400103) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400103) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
 
 ### Legislative Activity (Congress.gov)
@@ -259,7 +259,7 @@ c
 | 6786 | Schedules That Work Act | Referred to the Committee on Education and Workforce, and in addition to the Committees on House Administration, Oversight and Government Reform, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
 | 6567 | Federal Food Administration Act of 2025 | Referred to the House Committee on Energy and Commerce. |
 
-- [Source: Congress.gov](https://www.congress.gov/member/D000216) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/D000216)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Committee Assignments (Congress.gov)
@@ -272,7 +272,7 @@ c
 
 - Labor, Health and Human Services, Education, and Related Agencies
 
-- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 ### Campaign Finance Summary (FEC)
@@ -324,8 +324,8 @@ c
 
 **Sources**
 
-- [Congress.gov: Rosa DeLauro](https://www.congress.gov/member/c001091) (Tier 1)
-- [GovTrack: Rosa DeLauro](https://www.govtrack.us/congress/members/400103) (Tier 1)
+- ~~[Congress.gov: Rosa DeLauro](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [GovTrack: Rosa DeLauro](https://www.govtrack.us/congress/members/400103) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
 
 ### Wikipedia
@@ -334,13 +334,13 @@ Rosa Luisa DeLauro is an American politician serving as the U.S. representative 
 
 | Fact | Value |
 |------|-------|
-| Wikidata ID | [Q434952](https://www.wikidata.org/wiki/Q434952) |
+| Wikidata ID | [Q434952](https://www.wikidata.org/wiki/Q434952) (VERIFIED) |
 | Description | U.S. Representative from Connecticut |
 | Born | 1943-03-02 |
-| Website | [http://delauro.house.gov](http://delauro.house.gov) |
-| X/Twitter | [@RosaDeLauro](https://x.com/RosaDeLauro) |
-| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Hq_DeLauro.jpg?width=300) |
+| Website | [http://delauro.house.gov](http://delauro.house.gov) (NEEDS REVIEW) |
+| X/Twitter | [@RosaDeLauro](https://x.com/RosaDeLauro) (VERIFIED) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Hq_DeLauro.jpg?width=300) (NEEDS REVIEW) |
 
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/Rosa_DeLauro) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q434952) (Tier 2)
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Rosa_DeLauro) (Tier 3) (VERIFIED)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q434952) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->

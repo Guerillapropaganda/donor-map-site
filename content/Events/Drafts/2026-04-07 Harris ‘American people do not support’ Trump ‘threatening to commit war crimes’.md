@@ -13,7 +13,7 @@ profiles:
 
 ## Harris: ‘American people do not support’ Trump ‘threatening to commit war crimes’
 
-**Source:** [The Hill](https://thehill.com/homenews/administration/5820204-harris-condemns-trump-iran-threat/)
+**Source:** ~~[The Hill](https://thehill.com/homenews/administration/5820204-harris-condemns-trump-iran-threat/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-07
 
 Former Vice President Kamala Harris spoke out against President Trump’s Tuesday threat to escalate military operations against Tehran. “The President of the United States is threatening to commit war crimes and wipe out a ‘whole civilization’ — all because he started a disastrous war of his own making and had no plan and no strategy…

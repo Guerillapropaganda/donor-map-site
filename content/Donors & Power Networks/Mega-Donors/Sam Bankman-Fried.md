@@ -79,10 +79,10 @@ The bipartisan dimension matters. SBF publicly gave to Democrats while secretly 
 
 ### Sources
 
-- [DOJ: United States v. Sam Bankman-Fried indictment](https://www.justice.gov/usao-sdny/united-states-v-samuel-bankman-fried-aka-sbf-22-cr-673-lak) (Tier 1)
-- [FEC Receipts: Sam Bankman-Fried political contributions](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=sam%20bankman-fried) (Tier 1)
-- [SEC: FTX enforcement action](https://www.sec.gov/litigation/complaints/2022/comp-pr2022-219.pdf) (Tier 1)
-- [Ballotpedia: Sam Bankman-Fried](https://ballotpedia.org/Sam_Bankman-Fried) (Tier 3)
+- [DOJ: United States v. Sam Bankman-Fried indictment](https://www.justice.gov/usao-sdny/united-states-v-samuel-bankman-fried-aka-sbf-22-cr-673-lak) (Tier 1) (VERIFIED)
+- [FEC Receipts: Sam Bankman-Fried political contributions](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=sam%20bankman-fried) (Tier 1) (VERIFIED)
+- [SEC: FTX enforcement action](https://www.sec.gov/litigation/complaints/2022/comp-pr2022-219.pdf) (Tier 1) (NEEDS REVIEW)
+- [Ballotpedia: Sam Bankman-Fried](https://ballotpedia.org/Sam_Bankman-Fried) (Tier 3) (VERIFIED)
 
 ---
 
@@ -122,7 +122,7 @@ The bipartisan dimension matters. SBF publicly gave to Democrats while secretly 
 | VOTE TRIPLING PAC | $350,000 | — |
 | OPPORTUNITY FOR TOMORROW | $300,000 | — |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Sam%20Bankman-Fried) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Sam%20Bankman-Fried) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### Federal Register Activity
@@ -134,9 +134,9 @@ The bipartisan dimension matters. SBF publicly gave to Democrats while secretly 
 | Agencies | Commodity Futures Trading Commission |
 
 **Recent regulatory activity:**
-- [Investment of Customer Funds by Futures Commission Merchants and Derivatives Clearing Organizations](https://www.federalregister.gov/documents/2023/11/21/2023-24774/investment-of-customer-funds-by-futures-commission-merchants-and-derivatives-clearing-organizations) (2023-11-21) — Commodity Futures Trading Commission ★
+- [Investment of Customer Funds by Futures Commission Merchants and Derivatives Clearing Organizations](https://www.federalregister.gov/documents/2023/11/21/2023-24774/investment-of-customer-funds-by-futures-commission-merchants-and-derivatives-clearing-organizations) (VERIFIED) (2023-11-21) — Commodity Futures Trading Commission ★
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Sam%20Bankman-Fried%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Sam%20Bankman-Fried%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Federal Court Records (CourtListener)
@@ -155,5 +155,5 @@ The bipartisan dimension matters. SBF publicly gave to Democrats while secretly 
 - United States v. Loftis (2025) — District Court, M.D. Florida
 - United States v. WANDER (2025) — District Court, S.D. New York
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Sam%20Bankman-Fried%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Sam%20Bankman-Fried%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->

@@ -144,18 +144,18 @@ Hinson's agricultural advocacy reveals the gap between brand and beneficiary. Sh
 ---
 
 ## Sources
-- [Ashley Hinson - Wikipedia](https://en.wikipedia.org/wiki/Ashley_Hinson) (Tier 3)
-- [Ashley Hinson - Ballotpedia](https://ballotpedia.org/Ashley_Hinson) (Tier 3)
-- [About | Representative Ashley Hinson](https://hinson.house.gov/about) (Tier 1 - primary) (Tier 1)
-- [Iowa Republican U.S. Rep. Ashley Hinson is running for Senate in 2026 | Iowa Public Radio](https://www.iowapublicradio.org/political-news/2025-09-02/iowa-republican-ashley-hinson-running-for-senate-2026) (Tier 2)
-- [GOP Rallies Behind Hinson in Iowa Senate Race | WJBC AM 1230](https://www.wjbc.com/2025/09/05/gop-rallies-behind-hinson-in-iowa-senate-race/) (Tier 3 - regional broadcast) (Tier 2)
-- [Ashley Hinson takes massive fundraising edge in Iowa's open-seat U.S. Senate campaign | The Gazette](https://www.thegazette.com/news/elections/ashley-hinson-takes-massive-fundraising-edge-in-iowa-s-open-seat-u-s-senate-campaign/article_220dafe1-f9b3-5451-9cbe-6bf8a25bf0a0.html) (Tier 2)
-- [Ashley Hinson secures key endorsement from super PAC supporting GOP women | Washington Examiner](https://www.washingtonexaminer.com/news/campaigns/congressional/3796883/ashley-hinson-senate-endorsement-winning-for-women-pac/) (Tier 2)
-- [Rep. Ashley Hinson - Campaign Finance Summary | OpenSecrets](https://www.fec.gov/data/candidate/H0IA01174/) (Tier 1)
-- [Hinson introduces E15 bill in House | Southeast Iowa Union](https://www.southeastiowaunion.com/se-iowa-union-hometown-current/hinson-introduces-e15-bill-in-house/) (Tier 3)
-- [Victory for Iowa Ag: Hinson's Bipartisan PRECISE Act & Major Biofuels Priorities Pass House | Representative Ashley Hinson](https://hinson.house.gov/media/press-releases/victory-iowa-ag-hinsons-bipartisan-precise-act-major-biofuels-priorities-pass) (Tier 1 - campaign source) (Tier 1)
-- [Iowa's Hinson says E15 certainty still within reach despite congressional setback | Brownfield Ag News](https://www.brownfieldagnews.com/news/iowas-hinson-says-e15-certainty-still-within-reach-despite-congressional-setback/) (Tier 3)
-- [Rep. Hinson seeks more congressional support for biofuels | Brownfield Ag News](https://www.brownfieldagnews.com/news/rep-hinson-seeks-more-congressional-support-for-biofuels/) (Tier 3)
+- [Ashley Hinson - Wikipedia](https://en.wikipedia.org/wiki/Ashley_Hinson) (Tier 3) (VERIFIED)
+- [Ashley Hinson - Ballotpedia](https://ballotpedia.org/Ashley_Hinson) (Tier 3) (VERIFIED)
+- [About | Representative Ashley Hinson](https://hinson.house.gov/about) (VERIFIED) (Tier 1 - primary) (Tier 1)
+- [Iowa Republican U.S. Rep. Ashley Hinson is running for Senate in 2026 | Iowa Public Radio](https://www.iowapublicradio.org/political-news/2025-09-02/iowa-republican-ashley-hinson-running-for-senate-2026) (Tier 2) (VERIFIED)
+- ~~[GOP Rallies Behind Hinson in Iowa Senate Race | WJBC AM 1230](https://www.wjbc.com/2025/09/05/gop-rallies-behind-hinson-in-iowa-senate-race/)~~ (URL broken, archived by Ops) (Tier 3 - regional broadcast) (Tier 2)
+- [Ashley Hinson takes massive fundraising edge in Iowa's open-seat U.S. Senate campaign | The Gazette](https://www.thegazette.com/news/elections/ashley-hinson-takes-massive-fundraising-edge-in-iowa-s-open-seat-u-s-senate-campaign/article_220dafe1-f9b3-5451-9cbe-6bf8a25bf0a0.html) (Tier 2) (VERIFIED)
+- [Ashley Hinson secures key endorsement from super PAC supporting GOP women | Washington Examiner](https://www.washingtonexaminer.com/news/campaigns/congressional/3796883/ashley-hinson-senate-endorsement-winning-for-women-pac/) (Tier 2) (VERIFIED)
+- [Rep. Ashley Hinson - Campaign Finance Summary | OpenSecrets](https://www.fec.gov/data/candidate/H0IA01174/) (Tier 1) (VERIFIED)
+- ~~[Hinson introduces E15 bill in House | Southeast Iowa Union](https://www.southeastiowaunion.com/se-iowa-union-hometown-current/hinson-introduces-e15-bill-in-house/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [Victory for Iowa Ag: Hinson's Bipartisan PRECISE Act & Major Biofuels Priorities Pass House | Representative Ashley Hinson](https://hinson.house.gov/media/press-releases/victory-iowa-ag-hinsons-bipartisan-precise-act-major-biofuels-priorities-pass) (VERIFIED) (Tier 1 - campaign source) (Tier 1)
+- [Iowa's Hinson says E15 certainty still within reach despite congressional setback | Brownfield Ag News](https://www.brownfieldagnews.com/news/iowas-hinson-says-e15-certainty-still-within-reach-despite-congressional-setback/) (Tier 3) (VERIFIED)
+- [Rep. Hinson seeks more congressional support for biofuels | Brownfield Ag News](https://www.brownfieldagnews.com/news/rep-hinson-seeks-more-congressional-support-for-biofuels/) (Tier 3) (VERIFIED)
 
 ---
 
@@ -192,7 +192,7 @@ party:: Republican
 | 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Yea | Passed |
 | 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Yea | Passed |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456816) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456816) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
 
 ## Voting Record
@@ -217,7 +217,7 @@ party:: Republican
 
 **Sources**
 
-- [GovTrack: Ashley Hinson](https://www.govtrack.us/congress/members/456816) (Tier 1)
+- [GovTrack: Ashley Hinson](https://www.govtrack.us/congress/members/456816) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-10 -->
@@ -244,7 +244,7 @@ party:: Republican
 
 **Sources**
 
-- [Congress.gov: Ashley Hinson](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: Ashley Hinson](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [GovTrack: Ashley Hinson](https://www.govtrack.us/congress/members/456816) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->
@@ -277,7 +277,7 @@ party:: Republican
 | UA UNION PLUMBERS & PIPEFITTERS VOTE! PAC (UNITED ASSOCIATION OF JOURNEYMEN AND APPRENTICES OF THE PLUMBING & PIPEFITTING INDUSTRY OF THE UNITED STATES AND CANADA) | $0 | $912,900 |
 | AMERICANS FOR PROSPERITY ACTION, INC.(AFP ACTION) | $368,348 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0IA01174/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0IA01174/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Campaign Finance Summary (FEC)
@@ -292,5 +292,5 @@ party:: Republican
 | PAC Contributions | $1,399,500 |
 | Coverage Through | 2025-12-31 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6IA00314/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6IA00314/) (Tier 1) (VERIFIED)
 <!-- auto:fec-summary end -->

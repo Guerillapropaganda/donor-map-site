@@ -54,12 +54,12 @@ Stephen Glenn Charles Hilton is a British-American conservative political commen
 
 | Date | Event | Amount | Policy Outcome | Source |
 |------|-------|--------|-----------------|--------|
-| 2014-2018 | Crowdpac founded; raises ~$16M VC; positions Hilton as tech disruptor | ~$16M | Libertarian tech ideology: deregulation, anti-bureaucracy platform |  [Crunchbase: Crowdpac Profile](https://tracxn.com/d/companies/crowdpac/) (Tier 3) |
-| 2017-2023 | "The Next Revolution" on Fox News reaches millions; builds national donor list | N/A | Media-to-politics pipeline; establishes national conservative donor base for 2026 |  [Wikipedia: Steve Hilton](https://en.wikipedia.org/wiki/Steve_Hilton) (Tier 3) |
-| 2023 | Golden Together initiative launched (deregulation research); ballot initiative drafted | N/A | CEQA-limiting measure (caps development impact fees, restricts private environmental lawsuits) |  [San Diego Voice: Q&A with Hilton](https://sdvoice.info/qa-with-california-gubernatorial-candidate-steve-hilton-california-can-be-golden-again/) (Tier 2) |
-| April 2025 | Campaign launch; targets housing, immigration, deregulation | $0 announced | Policy platform mirrors donor interests: housing (real estate), immigration enforcement, tax cuts, deregulation |  [Fox News: Hilton Enters Race](https://www.foxnews.com/politics/media-personality-steve-hilton-enters-california-gubernatorial-race) (Tier 2) |
-| H2 2025 | Raises $4.1M in six months (30,000 small-dollar donors) | $4.1M | Campaign expansion; consolidates Fox News audience into campaign cash |  [CalMatters: Fundraising Report](https://calmatters.org/category/politics/2026/02/governors-race-fundraising-reports/) (Tier 2) |
-| Feb-March 2026 | Total raised $5.7M; leads Republican field in fundraising | $5.7M | Campaign advertising, field operations; maintains polling lead (17% Emerson, March 2026) |  [Emerson: California 2026 Poll](https://emersoncollegepolling.com/california-2026-poll-hilton-swalwell-bianco-lead-nonpartisan-primary-for-governor/) (Tier 1) |
+| 2014-2018 | Crowdpac founded; raises ~$16M VC; positions Hilton as tech disruptor | ~$16M | Libertarian tech ideology: deregulation, anti-bureaucracy platform |  ~~[Crunchbase: Crowdpac Profile](https://tracxn.com/d/companies/crowdpac/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3) |
+| 2017-2023 | "The Next Revolution" on Fox News reaches millions; builds national donor list | N/A | Media-to-politics pipeline; establishes national conservative donor base for 2026 |  [Wikipedia: Steve Hilton](https://en.wikipedia.org/wiki/Steve_Hilton) (Tier 3) (VERIFIED) |
+| 2023 | Golden Together initiative launched (deregulation research); ballot initiative drafted | N/A | CEQA-limiting measure (caps development impact fees, restricts private environmental lawsuits) |  [San Diego Voice: Q&A with Hilton](https://sdvoice.info/qa-with-california-gubernatorial-candidate-steve-hilton-california-can-be-golden-again/) (Tier 2) (VERIFIED) |
+| April 2025 | Campaign launch; targets housing, immigration, deregulation | $0 announced | Policy platform mirrors donor interests: housing (real estate), immigration enforcement, tax cuts, deregulation |  [Fox News: Hilton Enters Race](https://www.foxnews.com/politics/media-personality-steve-hilton-enters-california-gubernatorial-race) (Tier 2) (VERIFIED) |
+| H2 2025 | Raises $4.1M in six months (30,000 small-dollar donors) | $4.1M | Campaign expansion; consolidates Fox News audience into campaign cash |  ~~[CalMatters: Fundraising Report](https://calmatters.org/category/politics/2026/02/governors-race-fundraising-reports/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) |
+| Feb-March 2026 | Total raised $5.7M; leads Republican field in fundraising | $5.7M | Campaign advertising, field operations; maintains polling lead (17% Emerson, March 2026) |  [Emerson: California 2026 Poll](https://emersoncollegepolling.com/california-2026-poll-hilton-swalwell-bianco-lead-nonpartisan-primary-for-governor/) (Tier 1) (VERIFIED) |
 
 ## Analytical Patterns
 
@@ -92,17 +92,17 @@ Hilton deploys populist rhetoric ("Make California Golden Again," attacks on "on
 
 ### Sources
 
-- [CalMatters: Republican Steve Hilton is winning the California governor fundraising race](https://calmatters.org/category/politics/2026/02/governors-race-fundraising-reports/) (Tier 2)
-- [Emerson College Polling: California 2026 Poll — Hilton, Swalwell, Bianco Lead](https://emersoncollegepolling.com/california-2026-poll-hilton-swalwell-bianco-lead-nonpartisan-primary-for-governor/) (Tier 1)
+- ~~[CalMatters: Republican Steve Hilton is winning the California governor fundraising race](https://calmatters.org/category/politics/2026/02/governors-race-fundraising-reports/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Emerson College Polling: California 2026 Poll — Hilton, Swalwell, Bianco Lead](https://emersoncollegepolling.com/california-2026-poll-hilton-swalwell-bianco-lead-nonpartisan-primary-for-governor/) (Tier 1) (VERIFIED)
 - [Wikipedia: Steve Hilton](https://en.wikipedia.org/wiki/Steve_Hilton) (Tier 3)
-- [Santa Barbara Independent: Republican Steve Hilton Campaigns for Governor, Promotes 'Califordable' Agenda](https://www.independent.com/2026/03/04/republican-steve-hilton-campaigns-for-governor-in-santa-barbara-promotes-califordable-agenda/ernor-promotes-califordable-agenda/) (Tier 2)
-- [ABC7 Los Angeles: California Governor's Race — No Love Lost Between Steve Hilton and Chad Bianco](https://abc7.com/post/california-governors-race-republican-candidates-no-love-lost-between-steve-hilton-riverside-county-sheriff-chad-bianco/18707696/) (Tier 2)
-- [Sacramento Observer: Q&A With California Gubernatorial Candidate Steve Hilton](https://www.theobserver.media/politics/qa-with-california-gubernatorial-candidate-steve-hilton-california-can-be-golden-again-88598397/) (Tier 2)
-- [San Diego Voice & Viewpoint: Q&A With Steve Hilton](https://sdvoice.info/qa-with-california-gubernatorial-candidate-steve-hilton-california-can-be-golden-again/) (Tier 2)
-- [Fox News: Former Fox News Host Hilton Enters California Governor Race](https://www.foxnews.com/politics/media-personality-steve-hilton-enters-california-gubernatorial-race) (Tier 2)
-- [Yahoo News/ABC7: CA Governor Candidate Steve Hilton Says 'Everybody Supports' Trump's Immigration Policies](https://www.yahoo.com/news/articles/ca-governor-candidate-steve-hilton-065850265.html) (Tier 2)
-- [Crunchbase: Crowdpac — Funding Profile](https://tracxn.com/d/companies/crowdpac/) (Tier 3)
-- [Fox News: Phil Mickelson Makes $39,200 Donation to GOP California Gubernatorial Bid](https://www.foxnews.com/politics/gop-gubernatorial-hopeful-hails-legendary-golfer-hefty-campaign-donation-honored) (Tier 2)
+- ~~[Santa Barbara Independent: Republican Steve Hilton Campaigns for Governor, Promotes 'Califordable' Agenda](https://www.independent.com/2026/03/04/republican-steve-hilton-campaigns-for-governor-in-santa-barbara-promotes-califordable-agenda/ernor-promotes-califordable-agenda/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [ABC7 Los Angeles: California Governor's Race — No Love Lost Between Steve Hilton and Chad Bianco](https://abc7.com/post/california-governors-race-republican-candidates-no-love-lost-between-steve-hilton-riverside-county-sheriff-chad-bianco/18707696/) (Tier 2) (VERIFIED)
+- ~~[Sacramento Observer: Q&A With California Gubernatorial Candidate Steve Hilton](https://www.theobserver.media/politics/qa-with-california-gubernatorial-candidate-steve-hilton-california-can-be-golden-again-88598397/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [San Diego Voice & Viewpoint: Q&A With Steve Hilton](https://sdvoice.info/qa-with-california-gubernatorial-candidate-steve-hilton-california-can-be-golden-again/) (Tier 2) (VERIFIED)
+- [Fox News: Former Fox News Host Hilton Enters California Governor Race](https://www.foxnews.com/politics/media-personality-steve-hilton-enters-california-gubernatorial-race) (Tier 2) (VERIFIED)
+- [Yahoo News/ABC7: CA Governor Candidate Steve Hilton Says 'Everybody Supports' Trump's Immigration Policies](https://www.yahoo.com/news/articles/ca-governor-candidate-steve-hilton-065850265.html) (Tier 2) (VERIFIED)
+- ~~[Crunchbase: Crowdpac — Funding Profile](https://tracxn.com/d/companies/crowdpac/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [Fox News: Phil Mickelson Makes $39,200 Donation to GOP California Gubernatorial Bid](https://www.foxnews.com/politics/gop-gubernatorial-hopeful-hails-legendary-golfer-hefty-campaign-donation-honored) (Tier 2) (VERIFIED)
 
 ---
 

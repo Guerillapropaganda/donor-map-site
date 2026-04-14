@@ -69,6 +69,6 @@ Jordan has never been subpoenaed to testify about his knowledge. He has never vo
 
 ### Sources
 
-- [NBC News: Former Ohio State University wrestlers say Jim Jordan betrayed them](https://www.nbcnews.com/politics/politics-news/former-osu-wrestlers-say-jim-jordan-betrayed-shouldnt-house-speaker-rcna119116) (Tier 2)
-- [Ohio State University: Settlement agreements reached for cases involving Strauss](https://news.osu.edu/settlement-agreements-reached-for-cases-involving-strauss/) (Tier 1)
-- [NBC News: Rep. Jim Jordan faces deposition about OSU sex abuse scandal](https://www.nbcnews.com/news/us-news/rep-jim-jordan-faces-deposition-osu-sex-abuse-scandal-rcna219186) (Tier 2)
+- [NBC News: Former Ohio State University wrestlers say Jim Jordan betrayed them](https://www.nbcnews.com/politics/politics-news/former-osu-wrestlers-say-jim-jordan-betrayed-shouldnt-house-speaker-rcna119116) (Tier 2) (VERIFIED)
+- [Ohio State University: Settlement agreements reached for cases involving Strauss](https://news.osu.edu/settlement-agreements-reached-for-cases-involving-strauss/) (Tier 1) (VERIFIED)
+- [NBC News: Rep. Jim Jordan faces deposition about OSU sex abuse scandal](https://www.nbcnews.com/news/us-news/rep-jim-jordan-faces-deposition-osu-sex-abuse-scandal-rcna219186) (Tier 2) (VERIFIED)

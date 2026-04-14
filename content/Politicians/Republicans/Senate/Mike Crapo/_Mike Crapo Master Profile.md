@@ -148,19 +148,19 @@ His nuclear energy advocacy is the most authentic throughline — it directly se
 
 ## Sources
 
-- [OpenSecrets: Mike Crapo Campaign Finance Summary](https://www.opensecrets.org/members-of-congress/summary?cid=N00006267) (Tier 1)
-- [FEC: Mike Crapo for US Senate (C00330886)](https://www.fec.gov/data/committee/C00330886/) (Tier 1)
-- [Senate Finance Committee: Chairman Crapo](https://www.finance.senate.gov/about/chairman) (Tier 1)
-- [Finance Committee: Crapo Releases Reconciliation Text](https://www.finance.senate.gov/chairmans-news/chairman-crapo-releases-finance-committee-reconciliation-text) (Tier 1)
-- [Finance Committee: Crapo Statement on Senate Passage of OBBB](https://www.finance.senate.gov/chairmans-news/chairman-crapo-statement-on-senate-passage-of-one-big-beautiful-bill-act) (Tier 1)
-- [Crapo.senate.gov: One Big Beautiful Bill Delivers Historic Tax Relief](https://www.crapo.senate.gov/media/newsreleases/crapo-one-big-beautiful-bill-delivers-historic-tax-relief-achieves-record-savings) (Tier 1)
-- [Idaho Capital Sun: Crapo Lauds Big Beautiful Bill and AFP at Private Event](https://idahocapitalsun.com/2025/08/22/sen-crapo-lauds-big-beautiful-bill-and-support-of-group-founded-by-koch-brothers-at-private-event/) (Tier 2)
-- [Spokesman-Review: Crapo Raises Record Re-Election Funds](https://www.spokesman.com/stories/2015/aug/01/idaho-senator-mike-crapo-raises-record-re/) (Tier 2)
-- [PwC: Crapo Releases Substitute for House-Passed Tax Package](https://www.pwc.com/us/en/services/tax/library/chairman-crapo-releases-substitute-house-passed-tax-package.html) (Tier 2)
-- [Campaign for Accountability: Ethics Complaint Against Crapo](https://campaignforaccountability.org/watchdog-files-ethics-complaint-against-senator-mike-crapo-for-failing-to-disclose-pac-payments-to-his-wife/) (Tier 2)
-- [CBS News: Sen. Crapo Pleads Guilty to DUI](https://www.cbsnews.com/news/sen-mike-crapo-pleads-guilty-to-dui-charge/) (Tier 2)
-- [Idaho Press: Crapo Staffer Told FBI About Campaign Investment](https://www.idahopress.com/news/local/crapo-staffer-told-fbi-the-senator-gave-permission-for-250k-campaign-investment-into-get-rich/) (Tier 2)
-- [Ballotpedia: Mike Crapo](https://ballotpedia.org/Mike_Crapo) (Tier 3)
+- [OpenSecrets: Mike Crapo Campaign Finance Summary](https://www.opensecrets.org/members-of-congress/summary?cid=N00006267) (Tier 1) (VERIFIED)
+- [FEC: Mike Crapo for US Senate (C00330886)](https://www.fec.gov/data/committee/C00330886/) (Tier 1) (VERIFIED)
+- [Senate Finance Committee: Chairman Crapo](https://www.finance.senate.gov/about/chairman) (Tier 1) (VERIFIED)
+- [Finance Committee: Crapo Releases Reconciliation Text](https://www.finance.senate.gov/chairmans-news/chairman-crapo-releases-finance-committee-reconciliation-text) (Tier 1) (VERIFIED)
+- [Finance Committee: Crapo Statement on Senate Passage of OBBB](https://www.finance.senate.gov/chairmans-news/chairman-crapo-statement-on-senate-passage-of-one-big-beautiful-bill-act) (Tier 1) (VERIFIED)
+- [Crapo.senate.gov: One Big Beautiful Bill Delivers Historic Tax Relief](https://www.crapo.senate.gov/media/newsreleases/crapo-one-big-beautiful-bill-delivers-historic-tax-relief-achieves-record-savings) (Tier 1) (VERIFIED)
+- [Idaho Capital Sun: Crapo Lauds Big Beautiful Bill and AFP at Private Event](https://idahocapitalsun.com/2025/08/22/sen-crapo-lauds-big-beautiful-bill-and-support-of-group-founded-by-koch-brothers-at-private-event/) (Tier 2) (VERIFIED)
+- [Spokesman-Review: Crapo Raises Record Re-Election Funds](https://www.spokesman.com/stories/2015/aug/01/idaho-senator-mike-crapo-raises-record-re/) (Tier 2) (VERIFIED)
+- [PwC: Crapo Releases Substitute for House-Passed Tax Package](https://www.pwc.com/us/en/services/tax/library/chairman-crapo-releases-substitute-house-passed-tax-package.html) (Tier 2) (VERIFIED)
+- [Campaign for Accountability: Ethics Complaint Against Crapo](https://campaignforaccountability.org/watchdog-files-ethics-complaint-against-senator-mike-crapo-for-failing-to-disclose-pac-payments-to-his-wife/) (Tier 2) (VERIFIED)
+- [CBS News: Sen. Crapo Pleads Guilty to DUI](https://www.cbsnews.com/news/sen-mike-crapo-pleads-guilty-to-dui-charge/) (Tier 2) (VERIFIED)
+- ~~[Idaho Press: Crapo Staffer Told FBI About Campaign Investment](https://www.idahopress.com/news/local/crapo-staffer-told-fbi-the-senator-gave-permission-for-250k-campaign-investment-into-get-rich/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Ballotpedia: Mike Crapo](https://ballotpedia.org/Mike_Crapo) (Tier 3) (VERIFIED)
 
 ---
 
@@ -193,7 +193,7 @@ His nuclear energy advocacy is the most authentic throughline — it directly se
 | 2026-03-24 | On the Motion to Table S. 1383 | Yea | Motion to Table Agreed to |
 | 2026-03-24 | On the Motion to Table S. 1383 | Yea | Motion to Table Agreed to |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/300030) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/300030) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
 
 ### Influence Network (Cross-Reference)

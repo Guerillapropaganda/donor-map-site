@@ -96,10 +96,10 @@ The result: building trades end up allied with developers on approving projects 
 
 ### Sources
 
-- [State Building and Construction Trades Council of California: Official website](https://cabuildingtrades.org/about/) (Tier 2)
-- [Governor's Office: SB 984 veto message](https://www.gov.ca.gov/wp-content/uploads/2024/09/SB-984-Veto-Message.pdf) (Tier 1)
-- [Bureau of Labor Statistics: Union membership in California 2024](https://www.bls.gov/regions/west/news-release/unionmembership_california.htm) (Tier 1)
-- [Bureau of Labor Statistics: California construction union density](https://www.constructionowners.com/news/california-construction-union-rates-hit-record-low) (Tier 1)
+- [State Building and Construction Trades Council of California: Official website](https://cabuildingtrades.org/about/) (Tier 2) (VERIFIED)
+- [Governor's Office: SB 984 veto message](https://www.gov.ca.gov/wp-content/uploads/2024/09/SB-984-Veto-Message.pdf) (Tier 1) (VERIFIED)
+- [Bureau of Labor Statistics: Union membership in California 2024](https://www.bls.gov/regions/west/news-release/unionmembership_california.htm) (Tier 1) (VERIFIED)
+- [Bureau of Labor Statistics: California construction union density](https://www.constructionowners.com/news/california-construction-union-rates-hit-record-low) (Tier 1) (VERIFIED)
 
 ---
 
@@ -131,7 +131,7 @@ The result: building trades end up allied with developers on approving projects 
 
 **Agencies contacted:** AMTRAK - Natl Railroad Passenger Corporation, Administration for Children & Families (ACF), Agriculture, Dept of (USDA), Army, Dept of (Corps of Engineers), Bureau of Reclamation, Centers For Disease Control & Prevention (CDC), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Consumer Financial Protection Bureau (CFPB), Council on Environmental Quality (CEQ) +49 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=California%20Building%20and%20Construction%20Trades%20Council) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=California%20Building%20and%20Construction%20Trades%20Council) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

@@ -61,8 +61,8 @@ Jodey Arrington. Republican, Texas's 19th District (Lubbock — one of the large
 
 His district produces nearly 70% of the world's cotton supply across 14+ million acres of farmland, and sits atop significant oil and gas reserves. Top donor industry: oil and gas ($186,128 in the 2019–2020 cycle alone).
 
-- [FEC Candidate: Jodey Arrington campaign finance summary](https://www.fec.gov/data/candidate/H6TX19099/) (Tier 1)
-- [FEC: Jodey Arrington candidate overview](https://www.fec.gov/data/candidate/H6TX19099/) (Tier 1)
+- [FEC Candidate: Jodey Arrington campaign finance summary](https://www.fec.gov/data/candidate/H6TX19099/) (Tier 1) (VERIFIED)
+- [FEC: Jodey Arrington candidate overview](https://www.fec.gov/data/candidate/H6TX19099/) (Tier 1) (VERIFIED)
 
 ---
 
@@ -93,7 +93,7 @@ Jodey Arrington's structural function is to translate corporate tax and energy p
 - 48.57% PAC contributions
 - Leadership PAC: Texans for Jodey Arrington (FEC ID: C00588657)
 
-- [FEC Candidate: Jodey Arrington contributors by industry](https://www.fec.gov/data/candidate/H6TX19099/) (Tier 1)
+- [FEC Candidate: Jodey Arrington contributors by industry](https://www.fec.gov/data/candidate/H6TX19099/) (Tier 1) (VERIFIED)
 
 **Industry Alignment:** Arrington's Budget Committee jurisdiction doesn't regulate specific industries — it sets the fiscal envelope that determines what's possible for every other committee. Oil and gas donors don't need him to write their deregulation bills. They need him to create budget reconciliation instructions that enable tax cuts and spending frameworks favorable to fossil fuel interests. Agriculture donors need him to protect farm subsidies from the cuts he applies to everything else. The Budget Committee is the meta-committee: it shapes the playing field.
 
@@ -113,8 +113,8 @@ Jodey Arrington's structural function is to translate corporate tax and energy p
 
 The FDIC experience at 28 gave Arrington insider knowledge of financial regulation. The Texas Tech role built federal relations networks. Scott Laboratories gave him healthcare industry ties. All three sectors — financial services, higher education, and healthcare — fall within the budget and tax jurisdiction he now controls.
 
-- [Official biography: U.S. Rep. Jodey Arrington](https://arrington.house.gov/about-jodey/) (Tier 1)
-- [Wikipedia: Jodey Arrington](https://en.wikipedia.org/wiki/Jodey_Arrington) (Tier 3)
+- [Official biography: U.S. Rep. Jodey Arrington](https://arrington.house.gov/about-jodey/) (Tier 1) (VERIFIED)
+- [Wikipedia: Jodey Arrington](https://en.wikipedia.org/wiki/Jodey_Arrington) (Tier 3) (VERIFIED)
 
 ---
 
@@ -141,24 +141,24 @@ The FDIC experience at 28 gave Arrington insider knowledge of financial regulati
 ### 2025–2026 Reconciliation Process:
 As Budget Committee chair, Arrington authored the budget resolution that unlocked reconciliation — the 51-vote Senate pathway that bypasses the filibuster. The package includes extended Trump-era tax cuts (preserving the 21% corporate rate), border and defense funding increases, energy deregulation provisions, and $1.5–$2 trillion in spending cuts targeting social programs. The Senate version contains $5.8 trillion in new costs against only $4 billion in enforceable savings — a massive net fiscal expansion framed as deficit reduction.
 
-- [Budget Committee: House unlocks reconciliation to deliver President Trump's full America First agenda](https://budget.house.gov/press-release/house-unlocks-reconciliation-to-deliver-president-trumps-full-america-first-agenda) (Tier 1)
-- [KSAT: Rep. Arrington retiring after carrying Trump's tax and spending bill](https://www.ksat.com/news/texas/2025/11/13/u-s-rep-jodey-arrington-who-carried-trump8217s-tax-and-spending-megabill-is-retiring/) (Tier 2)
+- [Budget Committee: House unlocks reconciliation to deliver President Trump's full America First agenda](https://budget.house.gov/press-release/house-unlocks-reconciliation-to-deliver-president-trumps-full-america-first-agenda) (Tier 1) (VERIFIED)
+- ~~[KSAT: Rep. Arrington retiring after carrying Trump's tax and spending bill](https://www.ksat.com/news/texas/2025/11/13/u-s-rep-jodey-arrington-who-carried-trump8217s-tax-and-spending-megabill-is-retiring/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ### Entitlement Reform Positioning:
 Arrington told Bloomberg Government in October 2022 that raising the retirement age for Social Security and Medicare eligibility age would be "commonsense changes." He proposed a bipartisan debt commission to address unfunded liabilities. When this position became politically toxic, he pivoted to "strengthen and save Social Security and Medicare" language — the same programs, reframed. The shift illustrates the Two-Audience Problem: donor-class priorities (entitlement cuts) must be presented in constituent-friendly packaging.
 
-- [Budget Committee: Chairman Arrington responds to 2025 Social Security and Medicare Trustees Reports](https://budget.house.gov/press-release/chairman-arrington-responds-to-2025-social-security-and-medicare-trustees-reports) (Tier 1)
+- [Budget Committee: Chairman Arrington responds to 2025 Social Security and Medicare Trustees Reports](https://budget.house.gov/press-release/chairman-arrington-responds-to-2025-social-security-and-medicare-trustees-reports) (Tier 1) (VERIFIED)
 
 ### Energy Deregulation:
 Arrington has issued multiple statements opposing EPA regulatory expansion on oil and gas, framing fossil fuel production as essential to district jobs. His district's economic dependence on energy production aligns with his donor base — oil and gas is both his top industry donor and his constituents' primary employer. This creates political cover: votes that serve Permian Basin energy companies can be framed as protecting Lubbock workers.
 
-- [House.gov: Arrington safeguards future of oil and gas production](https://arrington.house.gov/news/documentsingle.aspx?DocumentID=2600) (Tier 1)
-- [House.gov: Arrington — We cannot afford to destroy oil and gas industry](https://arrington.house.gov/news/documentsingle.aspx?DocumentID=828) (Tier 1)
+- [House.gov: Arrington safeguards future of oil and gas production](https://arrington.house.gov/news/documentsingle.aspx?DocumentID=2600) (Tier 1) (VERIFIED)
+- [House.gov: Arrington — We cannot afford to destroy oil and gas industry](https://arrington.house.gov/news/documentsingle.aspx?DocumentID=828) (Tier 1) (VERIFIED)
 
 ### January 6 Electoral Votes:
 Arrington voted to overturn Arizona and Pennsylvania electoral results on January 6–7, 2021. Vote miss rate: 4.4% (213 of 4,852 votes), worse than the 2.1% House median.
 
-- [GovTrack: Jodey Arrington voting record](https://www.govtrack.us/congress/members/jodey_arrington/412726) (Tier 3)
+- [GovTrack: Jodey Arrington voting record](https://www.govtrack.us/congress/members/jodey_arrington/412726) (Tier 3) (VERIFIED)
 
 ---
 
@@ -195,15 +195,15 @@ Arrington serves the oil and gas industry, corporate tax beneficiaries, and agri
 - [FEC Candidate: Jodey Arrington campaign finance summary](https://www.fec.gov/data/candidate/H6TX19099/) (Tier 1)
 - [FEC: Jodey Arrington candidate overview](https://www.fec.gov/data/candidate/H6TX19099/) (Tier 1)
 - [Official biography: U.S. Rep. Jodey Arrington](https://arrington.house.gov/about-jodey/) (Tier 1)
-- [Budget Committee: House unlocks reconciliation](https://budget.house.gov/press-release/house-unlocks-reconciliation-to-deliver-president-trumps-full-america-first-agenda) (Tier 1)
-- [Budget Committee: Chairman Arrington responds to Trustees Reports](https://budget.house.gov/press-release/chairman-arrington-responds-to-2025-social-security-and-medicare-trustees-reports) (Tier 1)
-- [Budget Committee: Chairman Arrington calls for Reconciliation 2.0](https://budget.house.gov/press-release/budget-chairman-calls-for-reconciliation-20) (Tier 1)
+- [Budget Committee: House unlocks reconciliation](https://budget.house.gov/press-release/house-unlocks-reconciliation-to-deliver-president-trumps-full-america-first-agenda) (Tier 1) (VERIFIED)
+- [Budget Committee: Chairman Arrington responds to Trustees Reports](https://budget.house.gov/press-release/chairman-arrington-responds-to-2025-social-security-and-medicare-trustees-reports) (Tier 1) (VERIFIED)
+- [Budget Committee: Chairman Arrington calls for Reconciliation 2.0](https://budget.house.gov/press-release/budget-chairman-calls-for-reconciliation-20) (Tier 1) (VERIFIED)
 - [House.gov: Arrington safeguards future of oil and gas production](https://arrington.house.gov/news/documentsingle.aspx?DocumentID=2600) (Tier 1)
-- [House.gov: Arrington celebrates extension of Trump tax cuts](https://arrington.house.gov/news/documentsingle.aspx?DocumentID=2744) (Tier 1)
-- [Texas Tribune: U.S. Rep. Jodey Arrington retirement announcement](https://www.texastribune.org/2025/11/11/texas-us-house-rep-jodey-arrington-retirement/) (Tier 2)
-- [KSAT: Rep. Arrington retiring after carrying Trump's tax and spending megabill](https://www.ksat.com/news/texas/2025/11/13/u-s-rep-jodey-arrington-who-carried-trump8217s-tax-and-spending-megabill-is-retiring/) (Tier 2)
+- [House.gov: Arrington celebrates extension of Trump tax cuts](https://arrington.house.gov/news/documentsingle.aspx?DocumentID=2744) (Tier 1) (VERIFIED)
+- [Texas Tribune: U.S. Rep. Jodey Arrington retirement announcement](https://www.texastribune.org/2025/11/11/texas-us-house-rep-jodey-arrington-retirement/) (Tier 2) (VERIFIED)
+- ~~[KSAT: Rep. Arrington retiring after carrying Trump's tax and spending megabill](https://www.ksat.com/news/texas/2025/11/13/u-s-rep-jodey-arrington-who-carried-trump8217s-tax-and-spending-megabill-is-retiring/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [GovTrack: Jodey Arrington voting record](https://www.govtrack.us/congress/members/jodey_arrington/412726) (Tier 3)
-- [Ballotpedia: Jodey Arrington](https://ballotpedia.org/Jodey_Arrington) (Tier 3)
+- [Ballotpedia: Jodey Arrington](https://ballotpedia.org/Jodey_Arrington) (Tier 3) (VERIFIED)
 - [Wikipedia: Jodey Arrington](https://en.wikipedia.org/wiki/Jodey_Arrington) (Tier 3)
 
 ### Legislative Activity (Congress.gov)
@@ -232,7 +232,7 @@ Arrington serves the oil and gas industry, corporate tax beneficiaries, and agri
 | 6248 | Healthy Competition for Better Care Act | Referred to the Committee on Energy and Commerce, and in addition to the Committees on Education and Workforce, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
 | 5926 | Mexican Energy Trade Enforcement Act | Referred to the House Committee on Ways and Means. |
 
-- [Source: Congress.gov](https://www.congress.gov/member/A000375) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/A000375)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Legislative Activity (GovTrack)
@@ -264,7 +264,7 @@ Arrington serves the oil and gas industry, corporate tax beneficiaries, and agri
 | 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Yea | Passed |
 | 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Yea | Passed |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412726) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412726) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
 
 ## Voting Record
@@ -289,7 +289,7 @@ Arrington serves the oil and gas industry, corporate tax beneficiaries, and agri
 
 **Sources**
 
-- [GovTrack: Jodey Arrington](https://www.govtrack.us/congress/members/412726) (Tier 1)
+- [GovTrack: Jodey Arrington](https://www.govtrack.us/congress/members/412726) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
 
 ### Influence Network (Cross-Reference)

@@ -46,5 +46,5 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 - VIBANCO GARCIA, Jesus Miguel (individual) [ILLICIT-DRUGS-EO14059]
   - Remarks: DOB 06 Oct 1995; POB Sinaloa, Mexico; nationality Mexico; citizen Mexico; Gender Male; C.U.R.P. VIGJ951006HSLBRS01 (Mexico); a.k.a. 'JASPER'.
 
-- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->

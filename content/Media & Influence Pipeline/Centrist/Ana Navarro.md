@@ -49,7 +49,7 @@ No FEC individual contributions found. The FEC API returns 0 results for "NAVARR
 > [!money]
 > Zero personal political donations despite 15+ years as a "Republican strategist" and vocal political commentator. The political identity is the product being sold to networks, not a set of positions backed by personal investment. Navarro is paid to be a Republican, not to give like one. When she departed the Republican Party functionally in 2016 and hosted a Democratic National Convention in 2024, the FEC record didn't change because it was never the point.
 
-- [FEC: Ana Navarro individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=NAVARRO%2C+ANA) (Tier 1)
+- [FEC: Ana Navarro individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=NAVARRO%2C+ANA) (Tier 1) (VERIFIED)
 
 ---
 
@@ -150,13 +150,13 @@ Ana Navarro's media career serves two structural functions for the donor class:
 
 ### Sources
 
-- [Wikipedia: Ana Navarro](https://en.wikipedia.org/wiki/Ana_Navarro) (Tier 3)
-- [Wikipedia: Al Cárdenas](https://en.wikipedia.org/wiki/Al_C%C3%A1rdenas) (Tier 3)
-- [Washington Post: CNN's Ana Navarro weds lobbyist Al Cardenas in star-studded Miami bash](https://www.washingtonpost.com/arts-entertainment/2019/03/04/cnns-ana-navarro-weds-lobbyist-al-cardenas-star-studded-miami-bash/) (Tier 2)
-- [Deadline: The View's Ana Navarro Shares Excitement Over Hosting Night Two Of DNC](https://deadline.com/2024/08/the-view-ana-navarro-hosting-night-two-dnc-fleeing-communism-1236043306/) (Tier 2)
-- [Mediaite: CNN Blows Off Contributor Ana Navarro's DNC Speech, Airs Gavin Newsom Interview Instead](https://www.mediaite.com/politics/election-2024/cnn-blows-off-contributor-ana-navarros-dnc-speech-airs-gavin-newsom-interview-instead/) (Tier 2)
-- [The Grayzone: Contra-supporting CNN pundit Ana Navarro lobbied for corrupt right-wing Latin American governments](https://thegrayzone.com/2020/03/01/contras-cnn-ana-navarro-lobbying-corruption/) (Tier 4, cites FARA primary documents; The Grayzone has documented geopolitical biases; FARA disclosures themselves are Tier 1 government records, independent verification recommended) (FARA documents: verify independently via https://efile.fara.gov)
-- [CNN Profile: Ana Navarro](https://www.cnn.com/profiles/ana-navarro) (Tier 3)
-- [TIME: Ana Navarro Is Engaging Across Party Lines. Latino Leaders 2024](https://time.com/collections/latino-leaders-2024/7012293/ana-navarro-latino-leaders/atino-leaders/) (Tier 2)
+- [Wikipedia: Ana Navarro](https://en.wikipedia.org/wiki/Ana_Navarro) (Tier 3) (VERIFIED)
+- [Wikipedia: Al Cárdenas](https://en.wikipedia.org/wiki/Al_C%C3%A1rdenas) (Tier 3) (VERIFIED)
+- [Washington Post: CNN's Ana Navarro weds lobbyist Al Cardenas in star-studded Miami bash](https://www.washingtonpost.com/arts-entertainment/2019/03/04/cnns-ana-navarro-weds-lobbyist-al-cardenas-star-studded-miami-bash/) (Tier 2) (VERIFIED)
+- [Deadline: The View's Ana Navarro Shares Excitement Over Hosting Night Two Of DNC](https://deadline.com/2024/08/the-view-ana-navarro-hosting-night-two-dnc-fleeing-communism-1236043306/) (Tier 2) (VERIFIED)
+- [Mediaite: CNN Blows Off Contributor Ana Navarro's DNC Speech, Airs Gavin Newsom Interview Instead](https://www.mediaite.com/politics/election-2024/cnn-blows-off-contributor-ana-navarros-dnc-speech-airs-gavin-newsom-interview-instead/) (Tier 2) (VERIFIED)
+- [The Grayzone: Contra-supporting CNN pundit Ana Navarro lobbied for corrupt right-wing Latin American governments](https://thegrayzone.com/2020/03/01/contras-cnn-ana-navarro-lobbying-corruption/) (VERIFIED) (Tier 4, cites FARA primary documents; The Grayzone has documented geopolitical biases; FARA disclosures themselves are Tier 1 government records, independent verification recommended) (FARA documents: verify independently via https://efile.fara.gov)
+- [CNN Profile: Ana Navarro](https://www.cnn.com/profiles/ana-navarro) (Tier 3) (VERIFIED)
+- ~~[TIME: Ana Navarro Is Engaging Across Party Lines. Latino Leaders 2024](https://time.com/collections/latino-leaders-2024/7012293/ana-navarro-latino-leaders/atino-leaders/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [FEC: Ana Navarro individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=NAVARRO%2C+ANA) (Tier 1)
 

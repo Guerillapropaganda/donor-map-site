@@ -232,32 +232,32 @@ The RFK Jr. disruption is structurally interesting because it represents the one
 |--------|--------|-------------|
 | $1.5M | Department of Health and Human Services | DEVELOPING A NOVEL ANTIFUNGAL TARGETING GWT1 FOR THE TREATMENT OF INVASIVE ASPERGILLOSIS AND RARE MO |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Pfizer%20Inc.) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Pfizer%20Inc.) (Tier 1) (VERIFIED)
 
 <!-- auto:usaspending end -->
 
 ### Sources
 
-- [OpenSecrets: Pfizer Inc Summary](https://www.opensecrets.org/orgs/pfizer-inc/summary?id=D000000138) (Tier 1)
-- [OpenSecrets: Pfizer Inc PAC Profile 2024](https://www.opensecrets.org/political-action-committees-pacs/pfizer-inc/C00016683/summary/2024) (Tier 1)
-- [OpenSecrets: Pfizer Inc PAC Candidate Recipients](https://www.opensecrets.org/political-action-committees-pacs/pfizer-inc/C00016683/candidate-recipients/2024) (Tier 1)
-- [Senate LDA Filings: Pfizer Inc Lobbying Profile](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [HHS: Pfizer COVID-19 Vaccine Contract (PDF)](https://www.hhs.gov/sites/default/files/pfizer-inc-covid-19-vaccine-contract.pdf) (Tier 1)
-- [HHS: BARDA mRNA Development Wind-Down](https://www.hhs.gov/press-room/hhs-winds-down-mrna-development-under-barda.html) (Tier 1)
-- [KFF: Key Facts About Medicare Drug Price Negotiation](https://www.kff.org/medicare/key-facts-about-medicare-drug-price-negotiation/) (Tier 1)
-- [NPR: Pfizer's Warp Speed Vaccine Supply Contract](https://www.npr.org/sections/health-shots/2020/11/24/938591815/pfizers-coronavirus-vaccine-supply-contract-excludes-many-taxpayer-protections) (Tier 2)
-- [NPR: RFK Jr. Pulls $500M in mRNA Vaccine Contracts](https://www.npr.org/2025/08/05/nx-s1-5493550/rfk-jr-funding-mrna-vaccine-development) (Tier 2)
-- [The Intercept: Pfizer CEO Complains About Lower Drug Prices Under IRA](https://theintercept.com/2022/08/03/pfizer-investors-drug-pricing/) (Tier 2)
-- [OpenSecrets: Despite Record Lobbying, Pharma Lost Biggest Legislative Bet](https://www.opensecrets.org/news/2023/02/despite-record-federal-lobbying-spending-the-pharmaceutical-and-health-product-industry-lost-their-biggest-legislative-bet-in-2022/) (Tier 2)
-- [STAT News: HHS Shuts Door on mRNA Vaccine Research](https://www.statnews.com/2025/08/05/mrna-vaccine-development-canceled-by-kennedy-hhs/) (Tier 2)
-- [Fortune: Germany Funded Pfizer's COVID Vaccine Development](https://fortune.com/2020/11/09/pfizer-vaccine-funding-warp-speed/) *(source unavailable)* (Tier 2)
-- [The Hill: Pfizer Doubles Paxlovid Price](https://thehill.com/homenews/4264609-pfizer-plans-to-more-than-double-price-of-covid-medication-paxlovid/) (Tier 2)
-- [Stanford Law: FDA's Revolving Door — Reckoning and Reform](https://law.stanford.edu/publications/fdas-revolving-door-reckoning-and-reform/) (Tier 2)
-- [Science: FDA's Revolving Door — Companies Often Hire Staffers Who Managed Reviews](https://www.science.org/content/article/fda-s-revolving-door-companies-often-hire-agency-staffers-who-managed-their-successful) (Tier 2)
-- [Quartz: Yet Another FDA Commissioner Joins Pharma](https://qz.com/1656529/yet-another-fda-commissioner-joins-the-pharmaceutical-industry) (Tier 2)
-- [Revolving Door Project: Big Pharma](https://therevolvingdoorproject.org/the-industry-agenda-big-pharma/) (Tier 2)
-- [BioPharma Dive: Pfizer, Amgen, Lilly Spent Most to Lobby Congress](https://www.biopharmadive.com/news/pharma-lobbying-congress-jama-study/573496/) (Tier 2)
-- [MSF: Response to Pfizer-MPP Paxlovid License](https://msfaccess.org/msf-response-license-between-pfizer-and-medicines-patent-pool-for-new-covid-19-treatment-paxlovid) (Tier 2)
+- [OpenSecrets: Pfizer Inc Summary](https://www.opensecrets.org/orgs/pfizer-inc/summary?id=D000000138) (Tier 1) (VERIFIED)
+- [OpenSecrets: Pfizer Inc PAC Profile 2024](https://www.opensecrets.org/political-action-committees-pacs/pfizer-inc/C00016683/summary/2024) (Tier 1) (VERIFIED)
+- [OpenSecrets: Pfizer Inc PAC Candidate Recipients](https://www.opensecrets.org/political-action-committees-pacs/pfizer-inc/C00016683/candidate-recipients/2024) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: Pfizer Inc Lobbying Profile](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [HHS: Pfizer COVID-19 Vaccine Contract (PDF)](https://www.hhs.gov/sites/default/files/pfizer-inc-covid-19-vaccine-contract.pdf) (Tier 1) (VERIFIED)
+- [HHS: BARDA mRNA Development Wind-Down](https://www.hhs.gov/press-room/hhs-winds-down-mrna-development-under-barda.html) (Tier 1) (VERIFIED)
+- [KFF: Key Facts About Medicare Drug Price Negotiation](https://www.kff.org/medicare/key-facts-about-medicare-drug-price-negotiation/) (Tier 1) (VERIFIED)
+- [NPR: Pfizer's Warp Speed Vaccine Supply Contract](https://www.npr.org/sections/health-shots/2020/11/24/938591815/pfizers-coronavirus-vaccine-supply-contract-excludes-many-taxpayer-protections) (Tier 2) (VERIFIED)
+- [NPR: RFK Jr. Pulls $500M in mRNA Vaccine Contracts](https://www.npr.org/2025/08/05/nx-s1-5493550/rfk-jr-funding-mrna-vaccine-development) (Tier 2) (VERIFIED)
+- [The Intercept: Pfizer CEO Complains About Lower Drug Prices Under IRA](https://theintercept.com/2022/08/03/pfizer-investors-drug-pricing/) (Tier 2) (VERIFIED)
+- [OpenSecrets: Despite Record Lobbying, Pharma Lost Biggest Legislative Bet](https://www.opensecrets.org/news/2023/02/despite-record-federal-lobbying-spending-the-pharmaceutical-and-health-product-industry-lost-their-biggest-legislative-bet-in-2022/) (Tier 2) (VERIFIED)
+- [STAT News: HHS Shuts Door on mRNA Vaccine Research](https://www.statnews.com/2025/08/05/mrna-vaccine-development-canceled-by-kennedy-hhs/) (Tier 2) (VERIFIED)
+- ~~[Fortune: Germany Funded Pfizer's COVID Vaccine Development](https://fortune.com/2020/11/09/pfizer-vaccine-funding-warp-speed/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+- ~~[The Hill: Pfizer Doubles Paxlovid Price](https://thehill.com/homenews/4264609-pfizer-plans-to-more-than-double-price-of-covid-medication-paxlovid/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Stanford Law: FDA's Revolving Door — Reckoning and Reform](https://law.stanford.edu/publications/fdas-revolving-door-reckoning-and-reform/) (Tier 2) (VERIFIED)
+- ~~[Science: FDA's Revolving Door — Companies Often Hire Staffers Who Managed Reviews](https://www.science.org/content/article/fda-s-revolving-door-companies-often-hire-agency-staffers-who-managed-their-successful)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Quartz: Yet Another FDA Commissioner Joins Pharma](https://qz.com/1656529/yet-another-fda-commissioner-joins-the-pharmaceutical-industry) (Tier 2) (VERIFIED)
+- [Revolving Door Project: Big Pharma](https://therevolvingdoorproject.org/the-industry-agenda-big-pharma/) (Tier 2) (VERIFIED)
+- [BioPharma Dive: Pfizer, Amgen, Lilly Spent Most to Lobby Congress](https://www.biopharmadive.com/news/pharma-lobbying-congress-jama-study/573496/) (Tier 2) (VERIFIED)
+- ~~[MSF: Response to Pfizer-MPP Paxlovid License](https://msfaccess.org/msf-response-license-between-pfizer-and-medicines-patent-pool-for-new-covid-19-treatment-paxlovid)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ---
 
@@ -285,9 +285,9 @@ The RFK Jr. disruption is structurally interesting because it represents the one
 
 **Recent recalls:**
 
-- [Pfizer Recalls Nurtec ODT Prescription Drugs Due to Failure to Meet Child Resistant Packaging Requirement; Risk of Poisoning](https://www.cpsc.gov/Recalls/23154) (2023-03-16) — The recalled prescription drugs must be in child resistant packaging as required by the Poison Prevention Packaging Act (PPPA). The packaging of the products is not child resistant, posing a risk of poisoning if the contents are swallowed by young children.
+- ~~[Pfizer Recalls Nurtec ODT Prescription Drugs Due to Failure to Meet Child Resistant Packaging Requirement; Risk of Poisoning](https://www.cpsc.gov/Recalls/23154)~~ (URL broken, archived by Ops) (2023-03-16) — The recalled prescription drugs must be in child resistant packaging as required by the Poison Prevention Packaging Act (PPPA). The packaging of the products is not child resistant, posing a risk of poisoning if the contents are swallowed by young children.
 
-- [Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Pfizer%20Inc.) (Tier 1)
+- ~~[Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Pfizer%20Inc.)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:cpsc-recalls end -->
 
 ### SEC Filing Activity
@@ -301,13 +301,13 @@ The RFK Jr. disruption is structurally interesting because it represents the one
 
 **Notable filings:**
 
-- 2026-04-01 — **4**: [4](https://www.sec.gov/Archives/edgar/data/78003/000122520826004140/0001225208-26-004140-index.htm)
-- 2026-03-30 — **4**: [4](https://www.sec.gov/Archives/edgar/data/78003/000122520826004089/0001225208-26-004089-index.htm)
-- 2026-03-30 — **4**: [4](https://www.sec.gov/Archives/edgar/data/78003/000122520826004088/0001225208-26-004088-index.htm)
-- 2026-03-30 — **4**: [4](https://www.sec.gov/Archives/edgar/data/78003/000122520826004087/0001225208-26-004087-index.htm)
-- 2026-03-30 — **4**: [4](https://www.sec.gov/Archives/edgar/data/78003/000122520826004086/0001225208-26-004086-index.htm)
+- 2026-04-01 — **4**: [4](https://www.sec.gov/Archives/edgar/data/78003/000122520826004140/0001225208-26-004140-index.htm) (VERIFIED)
+- 2026-03-30 — **4**: [4](https://www.sec.gov/Archives/edgar/data/78003/000122520826004089/0001225208-26-004089-index.htm) (VERIFIED)
+- 2026-03-30 — **4**: [4](https://www.sec.gov/Archives/edgar/data/78003/000122520826004088/0001225208-26-004088-index.htm) (VERIFIED)
+- 2026-03-30 — **4**: [4](https://www.sec.gov/Archives/edgar/data/78003/000122520826004087/0001225208-26-004087-index.htm) (VERIFIED)
+- 2026-03-30 — **4**: [4](https://www.sec.gov/Archives/edgar/data/78003/000122520826004086/0001225208-26-004086-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Pfizer%20Inc.%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Pfizer%20Inc.%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Federal Court Records (CourtListener)
@@ -325,7 +325,7 @@ The RFK Jr. disruption is structurally interesting because it represents the one
 - HYMES v. PFIZER INC (2026) — District Court, N.D. Florida
 - REUTER v. PFIZER INC (2026) — District Court, N.D. Florida
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Pfizer%20Inc.%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Pfizer%20Inc.%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Financial Overview (990 Filing — 2016)
@@ -339,8 +339,8 @@ The RFK Jr. disruption is structurally interesting because it represents the one
 | Total Expenses | $82.1M |
 | Net Assets | $1.4M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 132986156](https://projects.propublica.org/nonprofits/organizations/132986156) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=01_2018_prefixes_06-13%2F132986156_201612_990O_2018010315075922.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 132986156](https://projects.propublica.org/nonprofits/organizations/132986156) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=01_2018_prefixes_06-13%2F132986156_201612_990O_2018010315075922.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Federal Register Activity
@@ -354,15 +354,15 @@ The RFK Jr. disruption is structurally interesting because it represents the one
 | Agencies | Commerce Department, Energy Department, Environmental Protection Agency, Federal Energy Regulatory Commission, Federal Trade Commission, Food and Drug Administration, Foreign-Trade Zones Board, Health and Human Services Department |
 
 **Recent regulatory activity:**
-- [Determination of Regulatory Review Period for Purposes of Patent Extension; HYMPAVZI](https://www.federalregister.gov/documents/2026/04/03/2026-06481/determination-of-regulatory-review-period-for-purposes-of-patent-extension-hympavzi) (2026-04-03) — Health and Human Services Department
-- [Aspen Global Inc. c/o Lachman Consultant Services, Inc., et al.; Withdrawal of Approval of 46 New Drug Applications](https://www.federalregister.gov/documents/2026/03/09/2026-04546/aspen-global-inc-co-lachman-consultant-services-inc-et-al-withdrawal-of-approval-of-46-new-drug) (2026-03-09) — Health and Human Services Department
-- [Determination of Regulatory Review Period for Purposes of Patent Extension; ORLYNVAH](https://www.federalregister.gov/documents/2026/02/26/2026-03848/determination-of-regulatory-review-period-for-purposes-of-patent-extension-orlynvah) (2026-02-26) — Health and Human Services Department
-- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2026/02/19/2026-03244/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2026-02-19) — Federal Trade Commission
-- [Air Plan Approval; Connecticut; Revised Format for Materials Incorporated by Reference](https://www.federalregister.gov/documents/2026/02/09/2026-02477/air-plan-approval-connecticut-revised-format-for-materials-incorporated-by-reference) (2026-02-09) — Environmental Protection Agency
-- [Revocation of Two Authorizations of Emergency Use of In Vitro Diagnostic Devices for Detection and/or Diagnosis of COVID-19; Availability](https://www.federalregister.gov/documents/2026/01/02/2025-24155/revocation-of-two-authorizations-of-emergency-use-of-in-vitro-diagnostic-devices-for-detection-andor) (2026-01-02) — Health and Human Services Department
+- [Determination of Regulatory Review Period for Purposes of Patent Extension; HYMPAVZI](https://www.federalregister.gov/documents/2026/04/03/2026-06481/determination-of-regulatory-review-period-for-purposes-of-patent-extension-hympavzi) (VERIFIED) (2026-04-03) — Health and Human Services Department
+- [Aspen Global Inc. c/o Lachman Consultant Services, Inc., et al.; Withdrawal of Approval of 46 New Drug Applications](https://www.federalregister.gov/documents/2026/03/09/2026-04546/aspen-global-inc-co-lachman-consultant-services-inc-et-al-withdrawal-of-approval-of-46-new-drug) (VERIFIED) (2026-03-09) — Health and Human Services Department
+- [Determination of Regulatory Review Period for Purposes of Patent Extension; ORLYNVAH](https://www.federalregister.gov/documents/2026/02/26/2026-03848/determination-of-regulatory-review-period-for-purposes-of-patent-extension-orlynvah) (VERIFIED) (2026-02-26) — Health and Human Services Department
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2026/02/19/2026-03244/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (VERIFIED) (2026-02-19) — Federal Trade Commission
+- [Air Plan Approval; Connecticut; Revised Format for Materials Incorporated by Reference](https://www.federalregister.gov/documents/2026/02/09/2026-02477/air-plan-approval-connecticut-revised-format-for-materials-incorporated-by-reference) (VERIFIED) (2026-02-09) — Environmental Protection Agency
+- [Revocation of Two Authorizations of Emergency Use of In Vitro Diagnostic Devices for Detection and/or Diagnosis of COVID-19; Availability](https://www.federalregister.gov/documents/2026/01/02/2025-24155/revocation-of-two-authorizations-of-emergency-use-of-in-vitro-diagnostic-devices-for-detection-andor) (VERIFIED) (2026-01-02) — Health and Human Services Department
 - ... and 585 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Pfizer%20Inc.%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Pfizer%20Inc.%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Vehicle Safety (NHTSA)
@@ -380,7 +380,7 @@ The RFK Jr. disruption is structurally interesting because it represents the one
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Pfizer%20Inc.) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Pfizer%20Inc.) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### DOJ Press Releases
@@ -402,7 +402,7 @@ The RFK Jr. disruption is structurally interesting because it represents the one
 
 **Agencies contacted:** Centers For Disease Control & Prevention (CDC), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Executive Office of the President (EOP), Food & Drug Administration (FDA), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Natl Economic Council (NEC), Natl Institutes of Health (NIH), SENATE +4 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Pfizer%20Inc.) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Pfizer%20Inc.) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### FDA Enforcement (openFDA)
@@ -442,7 +442,7 @@ The RFK Jr. disruption is structurally interesting because it represents the one
 
 _Variant firm names in FDA data: PFIZER INC; Pfizer Inc.; PFIZER, INC; Pfizer Inc_
 
-- [Source: openFDA / FDA Enforcement Reports](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?search_api_fulltext=Pfizer%20Inc.) (Tier 1)
+- [Source: openFDA / FDA Enforcement Reports](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?search_api_fulltext=Pfizer%20Inc.) (Tier 1) (VERIFIED)
 <!-- auto:fda-enforcement end -->
 
 ### Tax Filings (IRS 990)
@@ -459,12 +459,12 @@ _Variant firm names in FDA data: PFIZER INC; Pfizer Inc.; PFIZER, INC; Pfizer In
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2013, 2012, 2011
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/136083839/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/136083839/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/136083839/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/136083839/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/136083839/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/136083839/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/136083839/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/136083839/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/136083839/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/136083839/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/136083839) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/136083839) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->

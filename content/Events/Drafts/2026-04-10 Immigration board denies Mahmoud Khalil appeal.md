@@ -13,7 +13,7 @@ profiles:
 
 ## Immigration board denies Mahmoud Khalil appeal
 
-**Source:** [The Hill](https://thehill.com/homenews/education/5825433-mahmoud-khalil-bia-removal-order/)
+**Source:** ~~[The Hill](https://thehill.com/homenews/education/5825433-mahmoud-khalil-bia-removal-order/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-10
 
 The Board of Immigration Appeals (BIA) issued a final order of removal for Mahmoud Khalil on Thursday after the board denied his bid for the deportation case to be thrown out, according to Khalil’s lawyers. While the rulings by the board are not public, his lawyers shared the news of what they allege is a politically motivated decision. “I…

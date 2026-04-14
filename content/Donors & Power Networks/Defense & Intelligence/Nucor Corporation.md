@@ -110,19 +110,19 @@ Nucor's policy agenda is inseparable from [[American Iron and Steel Institute|AI
 
 ### Sources
 
-- [SEC: Nucor Corporation 2018 10-K Annual Report](https://www.sec.gov/Archives/edgar/data/73309/000119312519057744/d691427dex13.htm) (Tier 1)
-- [FEC: Nucor Corporation PAC (C00379628)](https://www.fec.gov/data/committee/C00379628/) (Tier 1)
-- [OpenSecrets: Nucor Corp PAC 2024 Cycle](https://www.opensecrets.org/political-action-committees-pacs/nucor-corp/C00379628/summary/2024) (Tier 1)
-- [OpenSecrets: Nucor Corp Organization Profile](https://www.opensecrets.org/orgs/nucor-corp/summary?id=D000028057) (Tier 1)
-- [Nucor Investor Relations: Annual Reports](https://investors.nucor.com/financials/annual-reports/default.aspx) (Tier 1)
-- [Motley Fool: Nucor Corporation Just Had Its Most Profitable Year](https://www.fool.com/investing/2019/01/29/nucor-corporation-just-had-its-most-profitable-yea.html) (Tier 2)
-- [CNBC: Nucor CEO — Trump Tariffs Treating Countries How They Treat Us](https://www.cnbc.com/2018/03/05/nucor-ceo-trump-tariffs-are-treating-countries-how-they-treat-us.html) (Tier 2)
-- [CNBC: Nucor CEO — Tariffs Enabled Billion-Dollar New Plant](https://www.cnbc.com/2019/01/29/nucor-ceo-trump-tariffs-enabled-us-to-build-new-billion-dollar-plant.html) (Tier 2)
-- [OpenSecrets: Steel Producers Spend Big on Lobbying for Infrastructure](https://www.opensecrets.org/news/2021/11/steel-producers-eyeing-new-infrastructure-investment-spend-big-on-lobbying/) (Tier 2)
-- [American Democracy Scorecard: Nucor Political Spending](https://accountable.us/) (Tier 2)
-- [Violation Tracker: Nucor Corporation — $148.5M in Penalties Since 2000](https://violationtracker.goodjobsfirst.org/parent/nucor) (Tier 2)
-- [24/7 Wall St: If Trump Lowers Steel Tariffs, Is Nucor Still a Buy?](https://247wallst.com/investing/2026/02/13/if-trump-lowers-steel-tariffs-is-nucor-still-a-buy/) (Tier 3)
-- [Workforce.com: Nucor's 100% Bonuses — High Pay Plus Low Labor Costs](https://www.workforce.com/news/100-percent-bonuses-mean-high-pay-plus-low-labor-costs) (Tier 3)
+- [SEC: Nucor Corporation 2018 10-K Annual Report](https://www.sec.gov/Archives/edgar/data/73309/000119312519057744/d691427dex13.htm) (Tier 1) (VERIFIED)
+- [FEC: Nucor Corporation PAC (C00379628)](https://www.fec.gov/data/committee/C00379628/) (Tier 1) (VERIFIED)
+- [OpenSecrets: Nucor Corp PAC 2024 Cycle](https://www.opensecrets.org/political-action-committees-pacs/nucor-corp/C00379628/summary/2024) (Tier 1) (VERIFIED)
+- [OpenSecrets: Nucor Corp Organization Profile](https://www.opensecrets.org/orgs/nucor-corp/summary?id=D000028057) (Tier 1) (VERIFIED)
+- [Nucor Investor Relations: Annual Reports](https://investors.nucor.com/financials/annual-reports/default.aspx) (Tier 1) (VERIFIED)
+- ~~[Motley Fool: Nucor Corporation Just Had Its Most Profitable Year](https://www.fool.com/investing/2019/01/29/nucor-corporation-just-had-its-most-profitable-yea.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [CNBC: Nucor CEO — Trump Tariffs Treating Countries How They Treat Us](https://www.cnbc.com/2018/03/05/nucor-ceo-trump-tariffs-are-treating-countries-how-they-treat-us.html) (Tier 2) (VERIFIED)
+- [CNBC: Nucor CEO — Tariffs Enabled Billion-Dollar New Plant](https://www.cnbc.com/2019/01/29/nucor-ceo-trump-tariffs-enabled-us-to-build-new-billion-dollar-plant.html) (Tier 2) (VERIFIED)
+- [OpenSecrets: Steel Producers Spend Big on Lobbying for Infrastructure](https://www.opensecrets.org/news/2021/11/steel-producers-eyeing-new-infrastructure-investment-spend-big-on-lobbying/) (Tier 2) (VERIFIED)
+- [American Democracy Scorecard: Nucor Political Spending](https://accountable.us/) (Tier 2) (VERIFIED)
+- [Violation Tracker: Nucor Corporation — $148.5M in Penalties Since 2000](https://violationtracker.goodjobsfirst.org/parent/nucor) (Tier 2) (VERIFIED)
+- [24/7 Wall St: If Trump Lowers Steel Tariffs, Is Nucor Still a Buy?](https://247wallst.com/investing/2026/02/13/if-trump-lowers-steel-tariffs-is-nucor-still-a-buy/) (Tier 3) (VERIFIED)
+- [Workforce.com: Nucor's 100% Bonuses — High Pay Plus Low Labor Costs](https://www.workforce.com/news/100-percent-bonuses-mean-high-pay-plus-low-labor-costs) (Tier 3) (VERIFIED)
 
 ---
 
@@ -165,7 +165,7 @@ Nucor's policy agenda is inseparable from [[American Iron and Steel Institute|AI
 |------------------|--------|--------|
 | Unknown | $51.9B | 6 |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Vehicle Safety (NHTSA)
@@ -183,7 +183,7 @@ Nucor's policy agenda is inseparable from [[American Iron and Steel Institute|AI
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Nucor%20Corporation) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Nucor%20Corporation) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Federal Spending (USASpending)
@@ -206,7 +206,7 @@ Nucor's policy agenda is inseparable from [[American Iron and Steel Institute|AI
 |--------|--------|-------------|
 | $2.4M | Department of Transportation | BARGE SERVICES IN THE PORTS OF CINCINNATI AND NORTHERN KENTUCKY AND BEYOND NUCOR STEEL BRANDENBURG M |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/eadd9efc-3f8d-7748-9766-c07740e682f0-C/latest) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/eadd9efc-3f8d-7748-9766-c07740e682f0-C/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Federal Court Records (CourtListener)
@@ -224,7 +224,7 @@ Nucor's policy agenda is inseparable from [[American Iron and Steel Institute|AI
 - Kemper AIP Metals, LLC v. United States (2026) — United States Court of International Trade
 - Steel Dynamics, Inc. v. United States (2026) — United States Court of International Trade
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Nucor%20Corporation%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Nucor%20Corporation%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Register Activity
@@ -238,13 +238,13 @@ Nucor's policy agenda is inseparable from [[American Iron and Steel Institute|AI
 | Agencies | Commerce Department, Environmental Protection Agency, International Trade Administration, International Trade Commission |
 
 **Recent regulatory activity:**
-- [Certain Hot-Rolled Steel Flat Products From Japan: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2023-2024](https://www.federalregister.gov/documents/2026/04/10/2026-07008/certain-hot-rolled-steel-flat-products-from-japan-preliminary-results-and-rescission-in-part-of) (2026-04-10) — Commerce Department
-- [Certain Hot-Rolled Steel Flat Products From the Republic of Korea: Preliminary Results and Rescission, in Part, of Countervailing Duty Administrative Review; 2023](https://www.federalregister.gov/documents/2026/04/10/2026-07001/certain-hot-rolled-steel-flat-products-from-the-republic-of-korea-preliminary-results-and-rescission) (2026-04-10) — Commerce Department
-- [Certain Corrosion-Resistant Steel Products from the Republic of Korea: Initiation of Circumvention Inquiry on the Antidumping and Countervailing Duty Orders](https://www.federalregister.gov/documents/2026/04/02/2026-06449/certain-corrosion-resistant-steel-products-from-the-republic-of-korea-initiation-of-circumvention) (2026-04-02) — Commerce Department
-- [Certain Corrosion-Resistant Steel Products From the Socialist Republic of Vietnam: Initiation of Circumvention Inquiry on the Antidumping and Countervailing Duty Orders](https://www.federalregister.gov/documents/2026/03/25/2026-05808/certain-corrosion-resistant-steel-products-from-the-socialist-republic-of-vietnam-initiation-of) (2026-03-25) — Commerce Department
-- [Certain Corrosion-Resistant Steel Products From the People's Republic of China: Initiation of Circumvention Inquiry on the Antidumping and Countervailing Duty Orders](https://www.federalregister.gov/documents/2026/03/25/2026-05807/certain-corrosion-resistant-steel-products-from-the-peoples-republic-of-china-initiation-of) (2026-03-25) — Commerce Department
-- [Steel Concrete Reinforcing Bar From Mexico: Final Results of the Expedited Second Sunset Review of the Antidumping Duty Order](https://www.federalregister.gov/documents/2026/03/12/2026-04883/steel-concrete-reinforcing-bar-from-mexico-final-results-of-the-expedited-second-sunset-review-of) (2026-03-12) — Commerce Department
+- [Certain Hot-Rolled Steel Flat Products From Japan: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2023-2024](https://www.federalregister.gov/documents/2026/04/10/2026-07008/certain-hot-rolled-steel-flat-products-from-japan-preliminary-results-and-rescission-in-part-of) (VERIFIED) (2026-04-10) — Commerce Department
+- [Certain Hot-Rolled Steel Flat Products From the Republic of Korea: Preliminary Results and Rescission, in Part, of Countervailing Duty Administrative Review; 2023](https://www.federalregister.gov/documents/2026/04/10/2026-07001/certain-hot-rolled-steel-flat-products-from-the-republic-of-korea-preliminary-results-and-rescission) (VERIFIED) (2026-04-10) — Commerce Department
+- ~~[Certain Corrosion-Resistant Steel Products from the Republic of Korea: Initiation of Circumvention Inquiry on the Antidumping and Countervailing Duty Orders](https://www.federalregister.gov/documents/2026/04/02/2026-06449/certain-corrosion-resistant-steel-products-from-the-republic-of-korea-initiation-of-circumvention)~~ (URL broken, archived by Ops) (2026-04-02) — Commerce Department
+- ~~[Certain Corrosion-Resistant Steel Products From the Socialist Republic of Vietnam: Initiation of Circumvention Inquiry on the Antidumping and Countervailing Duty Orders](https://www.federalregister.gov/documents/2026/03/25/2026-05808/certain-corrosion-resistant-steel-products-from-the-socialist-republic-of-vietnam-initiation-of)~~ (URL broken, archived by Ops) (2026-03-25) — Commerce Department
+- [Certain Corrosion-Resistant Steel Products From the People's Republic of China: Initiation of Circumvention Inquiry on the Antidumping and Countervailing Duty Orders](https://www.federalregister.gov/documents/2026/03/25/2026-05807/certain-corrosion-resistant-steel-products-from-the-peoples-republic-of-china-initiation-of) (VERIFIED) (2026-03-25) — Commerce Department
+- [Steel Concrete Reinforcing Bar From Mexico: Final Results of the Expedited Second Sunset Review of the Antidumping Duty Order](https://www.federalregister.gov/documents/2026/03/12/2026-04883/steel-concrete-reinforcing-bar-from-mexico-final-results-of-the-expedited-second-sunset-review-of) (VERIFIED) (2026-03-12) — Commerce Department
 - ... and 769 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Nucor%20Corporation%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Nucor%20Corporation%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->

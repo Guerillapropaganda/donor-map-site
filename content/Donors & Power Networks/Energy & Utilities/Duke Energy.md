@@ -74,7 +74,7 @@ Duke Energy Corporation. One of the largest electric utilities in the United Sta
 
 Duke Energy PAC contributes $2-3 million per cycle, with lobbying spending of $5-8 million annually. Duke's political operation is most aggressive in North Carolina, where the company has systematically influenced the state legislature, the Utilities Commission (the state PSC equivalent), and state environmental regulation.
 
-- [OpenSecrets: Duke Energy organizational profile](https://www.opensecrets.org/orgs/duke-energy/summary?id=D000000477) (Tier 1)
+- [OpenSecrets: Duke Energy organizational profile](https://www.opensecrets.org/orgs/duke-energy/summary?id=D000000477) (Tier 1) (VERIFIED)
 
 ---
 
@@ -106,8 +106,8 @@ North Carolina's political system runs through Duke Energy's influence network. 
 ### Sources
 
 - [OpenSecrets: Duke Energy organizational profile](https://www.opensecrets.org/orgs/duke-energy/summary?id=D000000477) (Tier 1)
-- [NC DEQ: Coal ash management data](https://deq.nc.gov/about/divisions/waste-management/coal-ash-management) (Tier 1)
-- [Ballotpedia: Duke Energy](https://ballotpedia.org/Duke_Energy) (Tier 3)
+- ~~[NC DEQ: Coal ash management data](https://deq.nc.gov/about/divisions/waste-management/coal-ash-management)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Ballotpedia: Duke Energy](https://ballotpedia.org/Duke_Energy) (Tier 3) (VERIFIED)
 
 ---
 
@@ -151,14 +151,14 @@ North Carolina's political system runs through Duke Energy's influence network. 
 | $972K | Department of Energy | INTEGRATED METHANE MONITORING PLATFORM EXTENSION (IMMPE)
 THE OBJECTIVE OF THIS PROJECT IS TO EXPAND  |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Duke%20Energy) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Duke%20Energy) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [I1BZKREC126H0VB1BL91](https://search.gleif.org/#/record/I1BZKREC126H0VB1BL91) |
+| LEI | [I1BZKREC126H0VB1BL91](https://search.gleif.org/#/record/I1BZKREC126H0VB1BL91) (VERIFIED) |
 | Legal Name | DUKE ENERGY CORPORATION |
 | Jurisdiction | US-DE |
 | Entity Status | ACTIVE |
@@ -166,7 +166,7 @@ THE OBJECTIVE OF THIS PROJECT IS TO EXPAND  |
 | Registration | ISSUED |
 | Last Updated | 2026-01-13T17:32:48Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -223,7 +223,7 @@ THE OBJECTIVE OF THIS PROJECT IS TO EXPAND  |
 | Hydroelectric Power Generation (221111) | $229K |
 | Power and Communication Line and Related Structures Construction (237130) | $107K |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Duke%20Energy) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Duke%20Energy) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Vehicle Safety (NHTSA)
@@ -241,7 +241,7 @@ THE OBJECTIVE OF THIS PROJECT IS TO EXPAND  |
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Duke%20Energy) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Duke%20Energy) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### SEC Filing Activity
@@ -255,13 +255,13 @@ THE OBJECTIVE OF THIS PROJECT IS TO EXPAND  |
 
 **Notable filings:**
 
-- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1326160/000201796426000008/0002017964-26-000008-index.htm)
-- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1326160/000178977626000008/0001789776-26-000008-index.htm)
-- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1326160/000201796526000008/0002017965-26-000008-index.htm)
-- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1326160/000201792326000008/0002017923-26-000008-index.htm)
-- 2026-04-01 — **8-K**: [FORM 8-K](https://www.sec.gov/Archives/edgar/data/1326160/000110465926038007/0001104659-26-038007-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1326160/000201796426000008/0002017964-26-000008-index.htm) (VERIFIED)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1326160/000178977626000008/0001789776-26-000008-index.htm) (VERIFIED)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1326160/000201796526000008/0002017965-26-000008-index.htm) (VERIFIED)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1326160/000201792326000008/0002017923-26-000008-index.htm) (VERIFIED)
+- 2026-04-01 — **8-K**: [FORM 8-K](https://www.sec.gov/Archives/edgar/data/1326160/000110465926038007/0001104659-26-038007-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Duke%20Energy%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Duke%20Energy%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -273,8 +273,8 @@ THE OBJECTIVE OF THIS PROJECT IS TO EXPAND  |
 | Total Expenses | $29.7M |
 | Net Assets | $6.2M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 581586283](https://projects.propublica.org/nonprofits/organizations/581586283) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F581586283_202312_990PF_2024112522929234.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 581586283](https://projects.propublica.org/nonprofits/organizations/581586283) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F581586283_202312_990PF_2024112522929234.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Federal Register Activity
@@ -289,15 +289,15 @@ THE OBJECTIVE OF THIS PROJECT IS TO EXPAND  |
 | Agencies | Energy Department, Federal Energy Regulatory Commission, Nuclear Regulatory Commission |
 
 **Recent regulatory activity:**
-- [Combined Notice of Filings #1](https://www.federalregister.gov/documents/2026/04/07/2026-06702/combined-notice-of-filings-1) (2026-04-07) — Energy Department
-- [Combined Notice of Filings #1](https://www.federalregister.gov/documents/2026/04/03/2026-06503/combined-notice-of-filings-1) (2026-04-03) — Energy Department
-- [Combined Notice of Filings #1](https://www.federalregister.gov/documents/2026/03/27/2026-05979/combined-notice-of-filings-1) (2026-03-27) — Energy Department
-- [Duke Energy Progress, LLC; H.B. Robinson Steam Electric Plant, Unit No. 2; Exemption](https://www.federalregister.gov/documents/2026/03/24/2026-05658/duke-energy-progress-llc-hb-robinson-steam-electric-plant-unit-no-2-exemption) (2026-03-24) — Nuclear Regulatory Commission
-- [Duke Energy Progress, LLC; H.B. Robinson Steam Electric Plant, Unit No. 2; Final Environmental Impact Statement](https://www.federalregister.gov/documents/2026/03/20/2026-05489/duke-energy-progress-llc-hb-robinson-steam-electric-plant-unit-no-2-final-environmental-impact) (2026-03-20) — Nuclear Regulatory Commission
-- [Combined Notice of Filings #1](https://www.federalregister.gov/documents/2026/03/18/2026-05273/combined-notice-of-filings-1) (2026-03-18) — Energy Department
+- [Combined Notice of Filings #1](https://www.federalregister.gov/documents/2026/04/07/2026-06702/combined-notice-of-filings-1) (VERIFIED) (2026-04-07) — Energy Department
+- ~~[Combined Notice of Filings #1](https://www.federalregister.gov/documents/2026/04/03/2026-06503/combined-notice-of-filings-1)~~ (URL broken, archived by Ops) (2026-04-03) — Energy Department
+- ~~[Combined Notice of Filings #1](https://www.federalregister.gov/documents/2026/03/27/2026-05979/combined-notice-of-filings-1)~~ (URL broken, archived by Ops) (2026-03-27) — Energy Department
+- [Duke Energy Progress, LLC; H.B. Robinson Steam Electric Plant, Unit No. 2; Exemption](https://www.federalregister.gov/documents/2026/03/24/2026-05658/duke-energy-progress-llc-hb-robinson-steam-electric-plant-unit-no-2-exemption) (VERIFIED) (2026-03-24) — Nuclear Regulatory Commission
+- [Duke Energy Progress, LLC; H.B. Robinson Steam Electric Plant, Unit No. 2; Final Environmental Impact Statement](https://www.federalregister.gov/documents/2026/03/20/2026-05489/duke-energy-progress-llc-hb-robinson-steam-electric-plant-unit-no-2-final-environmental-impact) (VERIFIED) (2026-03-20) — Nuclear Regulatory Commission
+- [Combined Notice of Filings #1](https://www.federalregister.gov/documents/2026/03/18/2026-05273/combined-notice-of-filings-1) (VERIFIED) (2026-03-18) — Energy Department
 - ... and 4,096 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Duke%20Energy%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Duke%20Energy%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Tax Filings (IRS 990)
@@ -314,14 +314,14 @@ THE OBJECTIVE OF THIS PROJECT IS TO EXPAND  |
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/581586283/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/581586283/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/581586283/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/581586283/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/581586283/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/581586283/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/581586283/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/581586283/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/581586283/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/581586283/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/581586283) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/581586283) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### FTC Enforcement & Merger Review
@@ -333,13 +333,13 @@ THE OBJECTIVE OF THIS PROJECT IS TO EXPAND  |
 
 **Recent HSR merger filings (early terminations granted):**
 
-- [Duke Energy Corporation → Piedmont Natural Gas Company, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20160426) (2015-12-21)
-- [Duke Energy Corporation → Sumitomo Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20151205) (2015-06-30)
-- [Duke Energy Corporation → Calpine Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20150544) (2015-02-27)
-- [Dynegy Inc. → Duke Energy Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20141555) (2014-11-07)
-- [DTE Energy Company → Duke Energy Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20121155) (2012-08-01)
+- [Duke Energy Corporation → Piedmont Natural Gas Company, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20160426) (VERIFIED) (2015-12-21)
+- [Duke Energy Corporation → Sumitomo Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20151205) (VERIFIED) (2015-06-30)
+- [Duke Energy Corporation → Calpine Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20150544) (VERIFIED) (2015-02-27)
+- [Dynegy Inc. → Duke Energy Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20141555) (VERIFIED) (2014-11-07)
+- [DTE Energy Company → Duke Energy Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20121155) (VERIFIED) (2012-08-01)
 
-> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Duke%20Energy).
+> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Duke%20Energy) (VERIFIED).
 
-- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Duke%20Energy) (Tier 1)
+- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Duke%20Energy) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->

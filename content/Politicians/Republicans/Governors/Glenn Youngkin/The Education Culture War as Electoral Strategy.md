@@ -105,10 +105,10 @@ The education culture war served the donor class's interests in ways that purely
 
 ### Sources
 
-- [VPM / PolitiFact Virginia: Youngkin's CRT Claims Rated 'False'](https://www.vpm.org/news/2021-08-10/politifact-va-youngkins-crt-claims-rated-false) (Tier 2)
-- [Chalkbeat: How will fights about race and suburban schools change politics?](https://www.chalkbeat.org/2021/11/5/22766008/election-virginia-youngkin-schools-covid-critical-race-theory/) (Tier 2)
-- [Slate: What the polls really tell us about how critical race theory impacted the Virginia election](https://slate.com/news-and-politics/2021/11/polls-critical-race-theory-virginia-election.html) (Tier 2)
-- [NBC News: School board candidates who opposed critical race theory, mask mandates win](https://www.nbcnews.com/news/education/school-board-candidates-opposed-critical-race-theory-mask-mandates-win-rcna4420) (Tier 2)
-- [American Oversight: Virginia Governor Glenn Youngkin's Anti-Critical Race Theory Tip Line](https://americanoversight.org/investigation/virginia-governor-glenn-youngkins-anti-critical-race-theory-tip-line/) (Tier 2)
-- [Virginia Mercury: Can Youngkin really ban critical race theory in Virginia schools?](https://virginiamercury.com/2021/12/20/can-youngkin-really-ban-critical-race-theory-in-virginia-schools/) (Tier 2)
-- [The Daily Beast: Glenn Youngkin's Complicated History on Critical Race Theory](https://www.thedailybeast.com/glenn-youngkins-complicated-history-on-critical-race-theory/) (Tier 2)
+- [VPM / PolitiFact Virginia: Youngkin's CRT Claims Rated 'False'](https://www.vpm.org/news/2021-08-10/politifact-va-youngkins-crt-claims-rated-false) (Tier 2) (VERIFIED)
+- [Chalkbeat: How will fights about race and suburban schools change politics?](https://www.chalkbeat.org/2021/11/5/22766008/election-virginia-youngkin-schools-covid-critical-race-theory/) (Tier 2) (VERIFIED)
+- [Slate: What the polls really tell us about how critical race theory impacted the Virginia election](https://slate.com/news-and-politics/2021/11/polls-critical-race-theory-virginia-election.html) (Tier 2) (VERIFIED)
+- [NBC News: School board candidates who opposed critical race theory, mask mandates win](https://www.nbcnews.com/news/education/school-board-candidates-opposed-critical-race-theory-mask-mandates-win-rcna4420) (Tier 2) (VERIFIED)
+- [American Oversight: Virginia Governor Glenn Youngkin's Anti-Critical Race Theory Tip Line](https://americanoversight.org/investigation/virginia-governor-glenn-youngkins-anti-critical-race-theory-tip-line/) (Tier 2) (VERIFIED)
+- [Virginia Mercury: Can Youngkin really ban critical race theory in Virginia schools?](https://virginiamercury.com/2021/12/20/can-youngkin-really-ban-critical-race-theory-in-virginia-schools/) (Tier 2) (VERIFIED)
+- [The Daily Beast: Glenn Youngkin's Complicated History on Critical Race Theory](https://www.thedailybeast.com/glenn-youngkins-complicated-history-on-critical-race-theory/) (Tier 2) (VERIFIED)

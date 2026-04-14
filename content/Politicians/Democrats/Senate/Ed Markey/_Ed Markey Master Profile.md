@@ -153,19 +153,19 @@ The structural question is whether Markey's evolution is replicable or anomalous
 
 ## Sources
 
-- [FEC Candidate: Ed Markey donor profile](https://www.fec.gov/data/candidate/H6MA07101/) (Tier 1)
-- [Congress.gov: Edward J. Markey](https://www.congress.gov/member/edward-markey/M000133) (Tier 1)
-- [Senate.gov: About Ed Markey](https://www.markey.senate.gov/about) (Tier 1)
-- [Senate.gov: Markey committee assignments](https://www.markey.senate.gov/about/committee-assignments) (Tier 1)
-- [Senate.gov: Markey to lead as top Democrat on Small Business Committee](https://www.markey.senate.gov/news/press-releases/senator-markey-to-lead-as-top-democrat-on-small-business-and-entrepreneurship-committee) (Tier 1)
-- [Senate.gov: Markey and Ocasio-Cortez reintroduce Green New Deal resolution](https://www.markey.senate.gov/news/press-releases/markey-and-ocasio-cortez-reintroduce-green-new-deal-resolution) (Tier 1)
-- [Senate.gov: Markey and Cassidy reintroduce COPPA 2.0](https://www.markey.senate.gov/news/press-releases/senators-markey-and-cassidy-reintroduce-children-and-teens-online-privacy-protection-legislation) (Tier 1)
-- [Senate.gov: Markey telecom priorities](https://www.markey.senate.gov/priorities/telecommunications-the-internet-and-privacy) (Tier 1)
-- [Senate.gov: Markey children's online privacy priorities](https://www.markey.senate.gov/priorities/children-and-teen-online-privacy) (Tier 1)
-- [Boston Globe: Bills to protect kids online face tough path in House](https://www.bostonglobe.com/2026/03/23/nation/bills-protect-kids-online-face-tough-path-house/) (Tier 2)
-- [GovTrack: Ed Markey](https://www.govtrack.us/congress/members/edward_markey/400253) (Tier 3)
-- [Ballotpedia: Ed Markey](https://ballotpedia.org/Edward_Markey) (Tier 3)
-- [Wikipedia: Ed Markey](https://en.wikipedia.org/wiki/Ed_Markey) (Tier 3)
+- [FEC Candidate: Ed Markey donor profile](https://www.fec.gov/data/candidate/H6MA07101/) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: Edward J. Markey](https://www.congress.gov/member/edward-markey/M000133)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Senate.gov: About Ed Markey](https://www.markey.senate.gov/about) (Tier 1) (VERIFIED)
+- [Senate.gov: Markey committee assignments](https://www.markey.senate.gov/about/committee-assignments) (Tier 1) (VERIFIED)
+- [Senate.gov: Markey to lead as top Democrat on Small Business Committee](https://www.markey.senate.gov/news/press-releases/senator-markey-to-lead-as-top-democrat-on-small-business-and-entrepreneurship-committee) (Tier 1) (VERIFIED)
+- [Senate.gov: Markey and Ocasio-Cortez reintroduce Green New Deal resolution](https://www.markey.senate.gov/news/press-releases/markey-and-ocasio-cortez-reintroduce-green-new-deal-resolution) (Tier 1) (VERIFIED)
+- [Senate.gov: Markey and Cassidy reintroduce COPPA 2.0](https://www.markey.senate.gov/news/press-releases/senators-markey-and-cassidy-reintroduce-children-and-teens-online-privacy-protection-legislation) (Tier 1) (VERIFIED)
+- [Senate.gov: Markey telecom priorities](https://www.markey.senate.gov/priorities/telecommunications-the-internet-and-privacy) (Tier 1) (VERIFIED)
+- [Senate.gov: Markey children's online privacy priorities](https://www.markey.senate.gov/priorities/children-and-teen-online-privacy) (Tier 1) (VERIFIED)
+- [Boston Globe: Bills to protect kids online face tough path in House](https://www.bostonglobe.com/2026/03/23/nation/bills-protect-kids-online-face-tough-path-house/) (Tier 2) (VERIFIED)
+- [GovTrack: Ed Markey](https://www.govtrack.us/congress/members/edward_markey/400253) (Tier 3) (NEEDS REVIEW)
+- [Ballotpedia: Ed Markey](https://ballotpedia.org/Edward_Markey) (Tier 3) (VERIFIED)
+- [Wikipedia: Ed Markey](https://en.wikipedia.org/wiki/Ed_Markey) (Tier 3) (VERIFIED)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -195,7 +195,7 @@ The structural question is whether Markey's evolution is replicable or anomalous
 | SIERRA CLUB INDEPENDENT ACTION | $6,495 | $0 |
 | LEAGUE OF CONSERVATION VOTERS | $0 | $2,106 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6MA07101/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6MA07101/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (GovTrack)
@@ -227,5 +227,5 @@ The structural question is whether Markey's evolution is replicable or anomalous
 | 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
 | 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400253) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400253) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->

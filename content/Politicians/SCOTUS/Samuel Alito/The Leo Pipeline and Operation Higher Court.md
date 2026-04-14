@@ -98,10 +98,10 @@ Between the Seid donation and ongoing fundraising from Koch, Mercer, and other m
 
 ### Sources
 
-- [ProPublica. We Don't Talk About Leonard. The Man Behind the Right's Supreme Court Supermajority](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2)
-- [ProPublica. Dark Money. Barre Seid Donated $1.6 Billion to Marble Freedom Trust](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (Tier 2)
-- [The Nation. Matchmaker Leonard Leo Helps Unite Billionaires With Supreme Court Justices](https://www.thenation.com/article/politics/leo-alito-court-curruption/) (Tier 2)
-- [Slate. Alito's Hobby Lobby Leak. The Real Problem With SCOTUS Ethics Rules](https://slate.com/news-and-politics/2022/11/alito-leak-hobby-lobby-real-problem.html) (Tier 2)
-- [SCOTUSblog. Reverend Who Accused Alito of 2014 Leak in Hobby Lobby Speaks Before House Judiciary Committee (December 8 2022)](https://www.scotusblog.com/2022/12/reverend-who-accused-alito-of-2014-leak-in-hobby-lobby-speaks-before-house-judiciary-committee/) (Tier 2)
-- [NPR. A High Profile Leak Has Heightened Questions Around the Supreme Court (December 8 2022)](https://www.npr.org/2022/12/08/1141546218/supreme-court-leaks-reverend-rob-schenk-dobbs-hobby-lobby) (Tier 2)
-- [Senator Sheldon Whitehouse. Statement on ProPublica Report on Justice Alito](https://www.whitehouse.senate.gov/news/release/whitehouse-statement-on-explosive-propublica-report-on-justice-alitos-free-alaskan-fishing-trip-planned-by-leonard-leo-and-paid-for-by-billionaires/) (Tier 1)
+- [ProPublica. We Don't Talk About Leonard. The Man Behind the Right's Supreme Court Supermajority](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2) (VERIFIED)
+- [ProPublica. Dark Money. Barre Seid Donated $1.6 Billion to Marble Freedom Trust](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (Tier 2) (VERIFIED)
+- [The Nation. Matchmaker Leonard Leo Helps Unite Billionaires With Supreme Court Justices](https://www.thenation.com/article/politics/leo-alito-court-curruption/) (Tier 2) (VERIFIED)
+- [Slate. Alito's Hobby Lobby Leak. The Real Problem With SCOTUS Ethics Rules](https://slate.com/news-and-politics/2022/11/alito-leak-hobby-lobby-real-problem.html) (Tier 2) (VERIFIED)
+- [SCOTUSblog. Reverend Who Accused Alito of 2014 Leak in Hobby Lobby Speaks Before House Judiciary Committee (December 8 2022)](https://www.scotusblog.com/2022/12/reverend-who-accused-alito-of-2014-leak-in-hobby-lobby-speaks-before-house-judiciary-committee/) (Tier 2) (VERIFIED)
+- [NPR. A High Profile Leak Has Heightened Questions Around the Supreme Court (December 8 2022)](https://www.npr.org/2022/12/08/1141546218/supreme-court-leaks-reverend-rob-schenk-dobbs-hobby-lobby) (Tier 2) (VERIFIED)
+- [Senator Sheldon Whitehouse. Statement on ProPublica Report on Justice Alito](https://www.whitehouse.senate.gov/news/release/whitehouse-statement-on-explosive-propublica-report-on-justice-alitos-free-alaskan-fishing-trip-planned-by-leonard-leo-and-paid-for-by-billionaires/) (Tier 1) (VERIFIED)

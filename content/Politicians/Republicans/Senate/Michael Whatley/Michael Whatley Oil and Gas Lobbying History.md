@@ -141,14 +141,14 @@ These are not predictions based on speculative analysis; they are documented pos
 
 ### Sources
 
-- [E&E News by POLITICO: Republicans tap former oil lobbyist for national chair](https://www.eenews.net/articles/republicans-tap-former-oil-lobbyist-for-national-chair/) (Tier 2)
-- [E&E News by POLITICO: Republican's oil ties a focus in North Carolina Senate race](https://www.eenews.net/articles/republicans-oil-ties-a-focus-in-north-carolina-senate-race/) (Tier 2)
-- [Climate Power: Big Oil's Favorite Lobbyist Wants to Represent North Carolina](https://climatepower.us/news/big-oils-favorite-lobbyist-wants-to-represent-north-carolina/) (Tier 2)
-- [Wikipedia: Michael Whatley (Oil and Gas Lobbying section)](https://en.wikipedia.org/wiki/Michael_Whatley) (Tier 3)
-- [OpenSecrets: Michael D Whatley Revolving Door Profile](https://www.opensecrets.org/revolving-door/whatley-michael-d/summary?id=71168) (Tier 1 - government database) (Tier 1)
-- [SourceWatch: Michael Whatley](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Michael_Whatley) (Tier 3)
-- [HBW Resources official website: Federal Affairs](https://hbwlawllp.com/federal-affairs/) (Tier 1 - primary source) (Tier 2)
-- [Ballotpedia: Michael Whatley](https://ballotpedia.org/Michael_Whatley) (Tier 3)
+- [E&E News by POLITICO: Republicans tap former oil lobbyist for national chair](https://www.eenews.net/articles/republicans-tap-former-oil-lobbyist-for-national-chair/) (Tier 2) (VERIFIED)
+- [E&E News by POLITICO: Republican's oil ties a focus in North Carolina Senate race](https://www.eenews.net/articles/republicans-oil-ties-a-focus-in-north-carolina-senate-race/) (Tier 2) (VERIFIED)
+- [Climate Power: Big Oil's Favorite Lobbyist Wants to Represent North Carolina](https://climatepower.us/news/big-oils-favorite-lobbyist-wants-to-represent-north-carolina/) (Tier 2) (VERIFIED)
+- [Wikipedia: Michael Whatley (Oil and Gas Lobbying section)](https://en.wikipedia.org/wiki/Michael_Whatley) (Tier 3) (VERIFIED)
+- [OpenSecrets: Michael D Whatley Revolving Door Profile](https://www.opensecrets.org/revolving-door/whatley-michael-d/summary?id=71168) (VERIFIED) (Tier 1 - government database) (Tier 1)
+- ~~[SourceWatch: Michael Whatley](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Michael_Whatley)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [HBW Resources official website: Federal Affairs](https://hbwlawllp.com/federal-affairs/) (VERIFIED) (Tier 1 - primary source) (Tier 2)
+- [Ballotpedia: Michael Whatley](https://ballotpedia.org/Michael_Whatley) (Tier 3) (VERIFIED)
 
 ---
 

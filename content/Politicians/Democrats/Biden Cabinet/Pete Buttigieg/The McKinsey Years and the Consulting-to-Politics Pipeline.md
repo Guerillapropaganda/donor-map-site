@@ -93,11 +93,11 @@ Watching Buttigieg operate as Transportation Secretary and as a candidate reveal
 
 ### Sources
 
-- [NPR: Facing scrutiny, Buttigieg releases list of McKinsey clients](https://www.npr.org/2019/12/10/786912801/facing-scrutiny-pete-buttigieg-releases-list-of-mckinsey-clients) (Tier 2)
-- [CNN: Pete Buttigieg releases list of McKinsey clients](https://www.cnn.com/2019/12/10/politics/pete-buttigieg-mckinsey-clients) (Tier 2)
-- [ABC News: Buttigieg releases list of clients worked at McKinsey](https://abcnews.go.com/Politics/pete-buttigieg-releases-list-clients-worked-mckinsey-consulting/story?id=67643262) (Tier 2)
-- [The Week: Buttigieg's consulting clients included Best Buy, U.S. Postal Service](https://theweek.com/speedreads/883531/pete-buttigieg-reveals-consulting-clients-included-best-buy-postal-service) (Tier 2)
-- [BuzzFeed News: Buttigieg has finally released names of McKinsey clients](https://www.buzzfeednews.com/article/henrygomez/pete-buttigieg-mckinsey-clients) (Tier 2)
-- [The Hill: Buttigieg releases list of clients from McKinsey](https://thehill.com/homenews/campaign/473989-buttigieg-releases-list-of-clients-he-worked-with-at-mckinsey/) (Tier 2)
-- [CBS News: Buttigieg releases McKinsey client list](https://www.cbsnews.com/news/buttigieg-mckinskey-candidate-releases-list-of-clients-today-2019-12-10/) (Tier 2)
-- [CNBC: South Bend poor say Buttigieg left them behind](https://www.cnbc.com/2019/04/22/south-bend-poor-say-democrat-pete-buttigieg-left-them-behind.html) (Tier 2)
+- [NPR: Facing scrutiny, Buttigieg releases list of McKinsey clients](https://www.npr.org/2019/12/10/786912801/facing-scrutiny-pete-buttigieg-releases-list-of-mckinsey-clients) (Tier 2) (VERIFIED)
+- [CNN: Pete Buttigieg releases list of McKinsey clients](https://www.cnn.com/2019/12/10/politics/pete-buttigieg-mckinsey-clients) (Tier 2) (VERIFIED)
+- [ABC News: Buttigieg releases list of clients worked at McKinsey](https://abcnews.go.com/Politics/pete-buttigieg-releases-list-clients-worked-mckinsey-consulting/story?id=67643262) (Tier 2) (NEEDS REVIEW)
+- [The Week: Buttigieg's consulting clients included Best Buy, U.S. Postal Service](https://theweek.com/speedreads/883531/pete-buttigieg-reveals-consulting-clients-included-best-buy-postal-service) (Tier 2) (VERIFIED)
+- [BuzzFeed News: Buttigieg has finally released names of McKinsey clients](https://www.buzzfeednews.com/article/henrygomez/pete-buttigieg-mckinsey-clients) (Tier 2) (VERIFIED)
+- ~~[The Hill: Buttigieg releases list of clients from McKinsey](https://thehill.com/homenews/campaign/473989-buttigieg-releases-list-of-clients-he-worked-with-at-mckinsey/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [CBS News: Buttigieg releases McKinsey client list](https://www.cbsnews.com/news/buttigieg-mckinskey-candidate-releases-list-of-clients-today-2019-12-10/) (Tier 2) (VERIFIED)
+- [CNBC: South Bend poor say Buttigieg left them behind](https://www.cnbc.com/2019/04/22/south-bend-poor-say-democrat-pete-buttigieg-left-them-behind.html) (Tier 2) (VERIFIED)

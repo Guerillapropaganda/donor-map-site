@@ -62,8 +62,8 @@ The crypto industry's 2024 spending surge ($170M+) also flowed to Democratic-ali
 
 ### Sources
 
-- [OpenSecrets: Senate Majority PAC](https://www.opensecrets.org/political-action-committees-pacs/senate-majority-pac/C00494788/summary/2024) (Tier 1)
-- [InfluenceWatch: Majority Forward](https://www.influencewatch.org/non-profit/majority-forward/) (Tier 2)
-- [Fox News: Schumer-aligned group pulled in $270M from secret donors in recent years as he decried dark money](https://www.foxnews.com/politics/schumer-aligned-group-pulled-in-270m-from-secret-donors-in-recent-years-as-he-decried-dark-money) (Tier 2)
-- [Free Beacon: Schumer's Shell Game: Dark Money Group Disbands Then Resurfaces To Dump Cash into Swing States](https://freebeacon.com/democrats/schumers-shell-game-dark-money-group-disbands-then-resurfaces-to-dump-cash-into-swing-states/) (Tier 2)
-- [Campaign Legal Center: Dark Money Groups Are Pumping Millions Into the 2024 Election](https://campaignlegal.org/update/dark-money-groups-are-pumping-millions-2024-election) (Tier 2)
+- ~~[OpenSecrets: Senate Majority PAC](https://www.opensecrets.org/political-action-committees-pacs/senate-majority-pac/C00494788/summary/2024)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [InfluenceWatch: Majority Forward](https://www.influencewatch.org/non-profit/majority-forward/) (Tier 2) (VERIFIED)
+- [Fox News: Schumer-aligned group pulled in $270M from secret donors in recent years as he decried dark money](https://www.foxnews.com/politics/schumer-aligned-group-pulled-in-270m-from-secret-donors-in-recent-years-as-he-decried-dark-money) (Tier 2) (VERIFIED)
+- [Free Beacon: Schumer's Shell Game: Dark Money Group Disbands Then Resurfaces To Dump Cash into Swing States](https://freebeacon.com/democrats/schumers-shell-game-dark-money-group-disbands-then-resurfaces-to-dump-cash-into-swing-states/) (Tier 2) (VERIFIED)
+- [Campaign Legal Center: Dark Money Groups Are Pumping Millions Into the 2024 Election](https://campaignlegal.org/update/dark-money-groups-are-pumping-millions-2024-election) (Tier 2) (VERIFIED)

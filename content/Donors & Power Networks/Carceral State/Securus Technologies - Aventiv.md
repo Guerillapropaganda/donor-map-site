@@ -103,13 +103,13 @@ The $315M California contract is the countervailing force. Even as rates are reg
 
 ### Sources
 
-- [New York Times: Securus location tracking exposé (May 2018)](https://www.nytimes.com/2018/05/10/technology/securus-cell-tracking-fcc.html) (Tier 2)
-- [FCC: Martha Wright-Reed Act implementation and rate cap orders](https://www.fcc.gov/wireline-competition/commission-action-prior-martha-wright-reed-act) (Tier 1)
-- [California Department of Technology: Securus contract award (February 2025)](https://www.cdcr.ca.gov/family-resources/tablets/) (Tier 1)
-- [Prison Policy Initiative: Martha Wright-Reed Act analysis](https://www.prisonpolicy.org/blog/2024/07/18/fcc-vote/) (Tier 1)
-- [Prison Policy Initiative: Prison telecom research](https://www.prisonpolicy.org/phones/) (Tier 2)
-- [Senate LDA Filings: Aventiv Technologies lobbying data](https://lda.gov/filings/public/filing/search/) (Tier 2)
-- [Worth Rises: Prison Industry Mapping Project](https://worthrises.org/theprisonindustry) (Tier 3)
+- ~~[New York Times: Securus location tracking exposé (May 2018)](https://www.nytimes.com/2018/05/10/technology/securus-cell-tracking-fcc.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [FCC: Martha Wright-Reed Act implementation and rate cap orders](https://www.fcc.gov/wireline-competition/commission-action-prior-martha-wright-reed-act) (Tier 1) (VERIFIED)
+- [California Department of Technology: Securus contract award (February 2025)](https://www.cdcr.ca.gov/family-resources/tablets/) (Tier 1) (VERIFIED)
+- [Prison Policy Initiative: Martha Wright-Reed Act analysis](https://www.prisonpolicy.org/blog/2024/07/18/fcc-vote/) (Tier 1) (VERIFIED)
+- [Prison Policy Initiative: Prison telecom research](https://www.prisonpolicy.org/phones/) (Tier 2) (VERIFIED)
+- ~~[Senate LDA Filings: Aventiv Technologies lobbying data](https://lda.gov/filings/public/filing/search/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Worth Rises: Prison Industry Mapping Project](https://worthrises.org/theprisonindustry) (Tier 3) (VERIFIED)
 
 ### Federal Subawards & Spending Breakdown
 <!-- auto:usaspending-subawards start -->
@@ -134,7 +134,7 @@ The $315M California contract is the countervailing force. Even as rates are reg
 |------------------|--------|--------|
 | Unknown | $51.9B | 6 |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Vehicle Safety (NHTSA)
@@ -152,7 +152,7 @@ The $315M California contract is the countervailing force. Even as rates are reg
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Securus%20Technologies%20-%20Aventiv) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Securus%20Technologies%20-%20Aventiv) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### DOJ Press Releases
@@ -162,7 +162,7 @@ The $315M California contract is the countervailing force. Even as rates are reg
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [549300EBCNNXVCJ2FW66](https://search.gleif.org/#/record/549300EBCNNXVCJ2FW66) |
+| LEI | [549300EBCNNXVCJ2FW66](https://search.gleif.org/#/record/549300EBCNNXVCJ2FW66) (VERIFIED) |
 | Legal Name | Aventiv Technologies, LLC |
 | Jurisdiction | US-DE |
 | Entity Status | ACTIVE |
@@ -170,5 +170,5 @@ The $315M California contract is the countervailing force. Even as rates are reg
 | Registration | LAPSED |
 | Last Updated | 2023-12-22T13:30:05Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->

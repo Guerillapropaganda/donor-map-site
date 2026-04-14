@@ -76,8 +76,8 @@ HECO follows the same pattern as PG&E in California: a regulated monopoly that u
 
 ### Sources
 
-- [SEC: Hawaiian Electric Industries filings](https://www.sec.gov/cgi-bin/browse-edgar?company=Hawaiian%20Electric%20Company&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)
-- [Ballotpedia: Hawaii utility regulation](https://ballotpedia.org/Hawaiian_Electric_Company) (Tier 3)
+- [SEC: Hawaiian Electric Industries filings](https://www.sec.gov/cgi-bin/browse-edgar?company=Hawaiian%20Electric%20Company&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1) (VERIFIED)
+- [Ballotpedia: Hawaii utility regulation](https://ballotpedia.org/Hawaiian_Electric_Company) (Tier 3) (VERIFIED)
 
 ---
 
@@ -108,7 +108,7 @@ HECO follows the same pattern as PG&E in California: a regulated monopoly that u
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Hawaiian%20Electric%20Company) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Hawaiian%20Electric%20Company) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Tax Filings (IRS 990)
@@ -125,14 +125,14 @@ HECO follows the same pattern as PG&E in California: a regulated monopoly that u
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/990230697/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/990230697/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/990230697/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/990230697/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/990230697/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/990230697/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/990230697/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/990230697/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/990230697/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/990230697/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/990230697) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/990230697) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -159,14 +159,14 @@ HECO follows the same pattern as PG&E in California: a regulated monopoly that u
 | Electric Power Distribution (221122) | $24.5M |
 | Fossil Fuel Electric Power Generation (221112) | $19.2M |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [549300PQE8D806LWQV52](https://search.gleif.org/#/record/549300PQE8D806LWQV52) |
+| LEI | [549300PQE8D806LWQV52](https://search.gleif.org/#/record/549300PQE8D806LWQV52) (VERIFIED) |
 | Legal Name | HAWAIIAN ELECTRIC COMPANY, INC. |
 | Jurisdiction | US-HI |
 | Entity Status | ACTIVE |
@@ -176,10 +176,10 @@ HECO follows the same pattern as PG&E in California: a regulated monopoly that u
 
 **Ownership chain:**
 
-- Ultimate Parent: [HAWAIIAN ELECTRIC INDUSTRIES, INC.](https://search.gleif.org/#/record/JJ8FWOCWCV22X7GUPJ23) (US-HI)
+- Ultimate Parent: [HAWAIIAN ELECTRIC INDUSTRIES, INC.](https://search.gleif.org/#/record/JJ8FWOCWCV22X7GUPJ23) (VERIFIED) (US-HI)
 - HAWAIIAN ELECTRIC COMPANY, INC. (this entity)
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Federal Register Activity
@@ -193,15 +193,15 @@ HECO follows the same pattern as PG&E in California: a regulated monopoly that u
 | Agencies | Antitrust Division, Army Department, Coast Guard, Defense Department, Energy Department, Environmental Protection Agency, Federal Energy Regulatory Commission, Fish and Wildlife Service +5 more |
 
 **Recent regulatory activity:**
-- [Partial Approval and Partial Disapproval of Air Quality Implementation Plans; Hawaii; Regional Haze State Implementation Plan for the Second Implementation Period](https://www.federalregister.gov/documents/2026/02/17/2026-03072/partial-approval-and-partial-disapproval-of-air-quality-implementation-plans-hawaii-regional-haze) (2026-02-17) — Environmental Protection Agency
-- [National Emission Standards for Hazardous Air Pollutants: Coal- and Oil-Fired Electric Utility Steam Generating Units Review of the Residual Risk and Technology Review](https://www.federalregister.gov/documents/2023/04/24/2023-07383/national-emission-standards-for-hazardous-air-pollutants-coal--and-oil-fired-electric-utility-steam) (2023-04-24) — Environmental Protection Agency
-- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-The Open Group, L.L.C.](https://www.federalregister.gov/documents/2021/03/10/2021-04959/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-the-open-group-llc) (2021-03-10) — Justice Department
-- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-The Open Group, L.L.C.](https://www.federalregister.gov/documents/2020/02/27/2020-03979/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-the-open-group-llc) (2020-02-27) — Justice Department
-- [Pipeline Safety: Request for Special Permit-Hawaiian Electric Company, Inc.](https://www.federalregister.gov/documents/2018/05/25/2018-11333/pipeline-safety-request-for-special-permit-hawaiian-electric-company-inc) (2018-05-25) — Transportation Department
-- [Record of Decision for the Schofield Generating Station Project Final Environmental Impact Statement, United States Army Garrison-Hawaii](https://www.federalregister.gov/documents/2016/02/05/2016-02041/record-of-decision-for-the-schofield-generating-station-project-final-environmental-impact-statement) (2016-02-05) — Defense Department
+- [Partial Approval and Partial Disapproval of Air Quality Implementation Plans; Hawaii; Regional Haze State Implementation Plan for the Second Implementation Period](https://www.federalregister.gov/documents/2026/02/17/2026-03072/partial-approval-and-partial-disapproval-of-air-quality-implementation-plans-hawaii-regional-haze) (VERIFIED) (2026-02-17) — Environmental Protection Agency
+- [National Emission Standards for Hazardous Air Pollutants: Coal- and Oil-Fired Electric Utility Steam Generating Units Review of the Residual Risk and Technology Review](https://www.federalregister.gov/documents/2023/04/24/2023-07383/national-emission-standards-for-hazardous-air-pollutants-coal--and-oil-fired-electric-utility-steam) (VERIFIED) (2023-04-24) — Environmental Protection Agency
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-The Open Group, L.L.C.](https://www.federalregister.gov/documents/2021/03/10/2021-04959/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-the-open-group-llc) (VERIFIED) (2021-03-10) — Justice Department
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-The Open Group, L.L.C.](https://www.federalregister.gov/documents/2020/02/27/2020-03979/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-the-open-group-llc) (VERIFIED) (2020-02-27) — Justice Department
+- [Pipeline Safety: Request for Special Permit-Hawaiian Electric Company, Inc.](https://www.federalregister.gov/documents/2018/05/25/2018-11333/pipeline-safety-request-for-special-permit-hawaiian-electric-company-inc) (VERIFIED) (2018-05-25) — Transportation Department
+- [Record of Decision for the Schofield Generating Station Project Final Environmental Impact Statement, United States Army Garrison-Hawaii](https://www.federalregister.gov/documents/2016/02/05/2016-02041/record-of-decision-for-the-schofield-generating-station-project-final-environmental-impact-statement) (VERIFIED) (2016-02-05) — Defense Department
 - ... and 19 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Hawaiian%20Electric%20Company%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Hawaiian%20Electric%20Company%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Federal Court Records (CourtListener)
@@ -220,7 +220,7 @@ HECO follows the same pattern as PG&E in California: a regulated monopoly that u
 - Bash v. Bissen (2025) — District Court, D. Hawaii
 - Hu Honua Bioenergy, LLC v. Hawaiian Electric Industries, Inc., et al. (2025) — Court of Appeals for the Ninth Circuit
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Hawaiian%20Electric%20Company%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Hawaiian%20Electric%20Company%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Spending (USASpending)
@@ -250,5 +250,5 @@ HECO follows the same pattern as PG&E in California: a regulated monopoly that u
 
 CLIMATE ADAPTATION RESI |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/11a8a87d-63d8-cfaa-a9b6-ef53f7406edb-P/latest) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/11a8a87d-63d8-cfaa-a9b6-ef53f7406edb-P/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->

@@ -94,7 +94,7 @@ The Kentucky Distillers' Association honored McConnell with its "100 Proof" Awar
 
 ### Sources
 
-- [NPR: Tobacco's 'Special Friend': What Internal Documents Say About Mitch McConnell](https://www.npr.org/2019/06/17/730496066/tobaccos-special-friend-what-internal-documents-say-about-mitch-mcconnell) (Tier 2)
-- [Center for Public Integrity: Mitch McConnell: Fueled by tobacco and whiskey](https://publicintegrity.org/politics/mitch-mcconnell-fueled-by-tobacco-and-whiskey/) (Tier 2)
-- [OpenSecrets: Sen. Mitch McConnell - Campaign Finance Summary](https://www.opensecrets.org/members-of-congress/summary?cid=N00003389) (Tier 1)
+- [NPR: Tobacco's 'Special Friend': What Internal Documents Say About Mitch McConnell](https://www.npr.org/2019/06/17/730496066/tobaccos-special-friend-what-internal-documents-say-about-mitch-mcconnell) (Tier 2) (VERIFIED)
+- [Center for Public Integrity: Mitch McConnell: Fueled by tobacco and whiskey](https://publicintegrity.org/politics/mitch-mcconnell-fueled-by-tobacco-and-whiskey/) (Tier 2) (VERIFIED)
+- [OpenSecrets: Sen. Mitch McConnell - Campaign Finance Summary](https://www.opensecrets.org/members-of-congress/summary?cid=N00003389) (Tier 1) (VERIFIED)
 - OpenSecrets: McConnell Kentucky Distillers' Association Award (Tier 3)

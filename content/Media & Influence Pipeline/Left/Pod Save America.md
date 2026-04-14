@@ -24,8 +24,8 @@ related: "[[George Soros]] · [[Hollywood Democratic Donor Network]] · [[Democr
 
 The podcast hosts (Favreau, Vietor, Lovett, Pfeiffer) do not individually file FEC contributions; their political fundraising operates through the Vote Save America PAC as the structural vehicle. This is analytically distinct from other media figures in this vault: their personal campaign finance is not reportable as individual contributions, it is mobilized collectively through the PAC, which raises money from listeners and distributes it directly to Democratic candidates.
 
-- [FEC: Vote Save America PAC (C00835587). Committee Overview](https://www.fec.gov/data/committee/C00835587/) (Tier 1)
-- [OpenSecrets: Vote Save America PAC Profile](https://www.opensecrets.org/political-action-committees-pacs/vote-save-america/C00835587/summary/2024) (Tier 1)
+- [FEC: Vote Save America PAC (C00835587). Committee Overview](https://www.fec.gov/data/committee/C00835587/) (Tier 1) (VERIFIED)
+- [OpenSecrets: Vote Save America PAC Profile](https://www.opensecrets.org/political-action-committees-pacs/vote-save-america/C00835587/summary/2024) (Tier 1) (VERIFIED)
 
 > **Note on FEC structure:** Pod Save America is a media organization, not individual contributors. The hosts' political giving operates through their affiliated PAC (Vote Save America) rather than personal FEC filings. Individual host contributions are not separately reportable, they operate as a unified political entity through the PAC. No individual FEC records exist to disambiguate; the PAC itself is the organizational vehicle.
 
@@ -152,19 +152,19 @@ The union fight crystallizes the class analysis. A company that mobilizes millio
 
 ### Sources
 
-- [Variety: Crooked Media hires Lucinda Treat as CEO, receives Soros Fund Management investment](https://variety.com/2022/digital/news/crooked-media-lucinda-treat-ceo-george-soros-investment-1235388101/) (Tier 2)
-- [Variety: Crooked Media and SiriusXM ink multiyear ad and distribution deal](https://variety.com/2022/digital/news/crooked-media-siriusxm-podcast-deal-1235212034/) (Tier 2)
-- [Hollywood Reporter: Crooked Media strikes multi-year ad sales deal with SiriusXM](https://www.hollywoodreporter.com/business/digital/crooked-media-siriusxm-pod-save-america-1235117235/) (Tier 2)
-- [Hollywood Reporter: After the resistance, what's next for the Crooked Media podcasting empire?](https://www.hollywoodreporter.com/business/digital/after-the-resistance-whats-next-for-the-crooked-media-podcasting-empire-4114962/) (Tier 2)
-- [Semafor: Soros fund is building an audio empire](https://www.semafor.com/article/04/07/2024/soros-fund-is-building-an-audio-empire) (Tier 2)
-- [Yahoo News / Bloomberg: While Pod Save America tries to unite Democrats, its staff rebels](https://www.yahoo.com/news/while-pod-save-america-tries-120006656.html) (Tier 2)
-- [Variety: Union workers at Crooked Media stage walkout](https://variety.com/2024/digital/news/crooked-media-walkout-protest-union-1236095587/) (Tier 2)
-- [Deadline: Crooked Media writers stage walkout on contract negotiations](https://deadline.com/2024/08/crooked-media-writers-walkout-contract-negotiations-wgae-1236031576/) (Tier 2)
-- [WGA East: Members at Crooked Media walk out after more than a year of contract negotiations](https://www.wgaeast.org/26481-2/) (Tier 2)
-- [Hollywood Reporter: Crooked Media union members stage walkout over contract negotiations](https://www.hollywoodreporter.com/business/business-news/crooked-media-union-members-walkout-contract-negotiations-1235965973/) (Tier 2)
-- [OpenSecrets: PAC Profile. Vote Save America (C00835587)](https://www.opensecrets.org/political-action-committees-pacs/vote-save-america/C00835587/summary/2024) (Tier 1)
-- [FEC: VOTE SAVE AMERICA, committee overview (C00835587)](https://www.fec.gov/data/committee/C00835587/) (Tier 1)
-- [Wikipedia: Pod Save America](https://en.wikipedia.org/wiki/Pod_Save_America) (Tier 3)
-- [Wikipedia: Crooked Media](https://en.wikipedia.org/wiki/Crooked_Media) (Tier 3)
-- [Wikipedia: Jon Favreau (speechwriter)](https://en.wikipedia.org/wiki/Jon_Favreau_(speechwriter)) (Tier 3)
+- [Variety: Crooked Media hires Lucinda Treat as CEO, receives Soros Fund Management investment](https://variety.com/2022/digital/news/crooked-media-lucinda-treat-ceo-george-soros-investment-1235388101/) (Tier 2) (VERIFIED)
+- [Variety: Crooked Media and SiriusXM ink multiyear ad and distribution deal](https://variety.com/2022/digital/news/crooked-media-siriusxm-podcast-deal-1235212034/) (Tier 2) (VERIFIED)
+- [Hollywood Reporter: Crooked Media strikes multi-year ad sales deal with SiriusXM](https://www.hollywoodreporter.com/business/digital/crooked-media-siriusxm-pod-save-america-1235117235/) (Tier 2) (VERIFIED)
+- [Hollywood Reporter: After the resistance, what's next for the Crooked Media podcasting empire?](https://www.hollywoodreporter.com/business/digital/after-the-resistance-whats-next-for-the-crooked-media-podcasting-empire-4114962/) (Tier 2) (VERIFIED)
+- [Semafor: Soros fund is building an audio empire](https://www.semafor.com/article/04/07/2024/soros-fund-is-building-an-audio-empire) (Tier 2) (VERIFIED)
+- [Yahoo News / Bloomberg: While Pod Save America tries to unite Democrats, its staff rebels](https://www.yahoo.com/news/while-pod-save-america-tries-120006656.html) (Tier 2) (VERIFIED)
+- [Variety: Union workers at Crooked Media stage walkout](https://variety.com/2024/digital/news/crooked-media-walkout-protest-union-1236095587/) (Tier 2) (VERIFIED)
+- [Deadline: Crooked Media writers stage walkout on contract negotiations](https://deadline.com/2024/08/crooked-media-writers-walkout-contract-negotiations-wgae-1236031576/) (Tier 2) (VERIFIED)
+- [WGA East: Members at Crooked Media walk out after more than a year of contract negotiations](https://www.wgaeast.org/26481-2/) (Tier 2) (VERIFIED)
+- [Hollywood Reporter: Crooked Media union members stage walkout over contract negotiations](https://www.hollywoodreporter.com/business/business-news/crooked-media-union-members-walkout-contract-negotiations-1235965973/) (Tier 2) (VERIFIED)
+- [OpenSecrets: PAC Profile. Vote Save America (C00835587)](https://www.opensecrets.org/political-action-committees-pacs/vote-save-america/C00835587/summary/2024) (Tier 1) (VERIFIED)
+- [FEC: VOTE SAVE AMERICA, committee overview (C00835587)](https://www.fec.gov/data/committee/C00835587/) (Tier 1) (VERIFIED)
+- [Wikipedia: Pod Save America](https://en.wikipedia.org/wiki/Pod_Save_America) (Tier 3) (VERIFIED)
+- [Wikipedia: Crooked Media](https://en.wikipedia.org/wiki/Crooked_Media) (Tier 3) (VERIFIED)
+- ~~[Wikipedia: Jon Favreau (speechwriter)](https://en.wikipedia.org/wiki/Jon_Favreau_(speechwriter)~~ (URL broken, archived by Ops)) (Tier 3)
 

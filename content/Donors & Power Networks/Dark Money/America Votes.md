@@ -161,10 +161,10 @@ America Votes also reveals **structural inequality in progressive politics:**
 ### Sources
 
 - ~~[OpenSecrets: America Votes organizational profile](https://www.opensecrets.org/orgs/america-votes/summary)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- [IRS Form 990: America Votes (2022-2023)](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=America%20Votes&city=&state=All+States&country=US) (Tier 1)
-- [InfluenceWatch: America Votes — coordination hub and Democracy Alliance ties](https://www.influencewatch.org/non-profit/america-votes/) (Tier 3)
-- [Democracy Fund: Voter contact efficiency and coordination](https://democracyfund.org/grants/voter-contact-coordination-research/) (Tier 2)
-- [America Votes: About Us and Coordination](https://americavotes.org/about/) (Tier 2)
+- ~~[IRS Form 990: America Votes (2022-2023)](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=America%20Votes&city=&state=All+States&country=US)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [InfluenceWatch: America Votes — coordination hub and Democracy Alliance ties](https://www.influencewatch.org/non-profit/america-votes/) (Tier 3) (VERIFIED)
+- ~~[Democracy Fund: Voter contact efficiency and coordination](https://democracyfund.org/grants/voter-contact-coordination-research/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [America Votes: About Us and Coordination](https://americavotes.org/about/) (Tier 2) (VERIFIED)
 
 ### SEC Filing Activity
 <!-- auto:sec-edgar start -->
@@ -180,7 +180,7 @@ America Votes also reveals **structural inequality in progressive politics:**
 - 2022-03-11 — **424B3**: 424B3
 - 2022-03-11 — **10-K**: 10-K
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22America%20Votes%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22America%20Votes%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -194,8 +194,8 @@ America Votes also reveals **structural inequality in progressive politics:**
 | Net Assets | $24.3M |
 | Officer Compensation | $1.6M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 264568349](https://projects.propublica.org/nonprofits/organizations/264568349) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F264568349_202306_990O_2024061822541095.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 264568349](https://projects.propublica.org/nonprofits/organizations/264568349) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F264568349_202306_990O_2024061822541095.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Tax Filings (IRS 990)
@@ -213,14 +213,14 @@ America Votes also reveals **structural inequality in progressive politics:**
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/264568349/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/264568349/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/264568349/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/264568349/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/264568349/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/264568349/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/264568349/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/264568349/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/264568349/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/264568349/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/264568349) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/264568349) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Federal Register Activity
@@ -232,9 +232,9 @@ America Votes also reveals **structural inequality in progressive politics:**
 | Agencies | Election Assistance Commission |
 
 **Recent regulatory activity:**
-- [Sunshine Act Meetings](https://www.federalregister.gov/documents/2025/04/03/2025-05822/sunshine-act-meetings) (2025-04-03) — Election Assistance Commission
+- [Sunshine Act Meetings](https://www.federalregister.gov/documents/2025/04/03/2025-05822/sunshine-act-meetings) (VERIFIED) (2025-04-03) — Election Assistance Commission
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22America%20Votes%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22America%20Votes%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Federal Court Records (CourtListener)
@@ -253,7 +253,7 @@ America Votes also reveals **structural inequality in progressive politics:**
 - United States v. Town of Thornapple, Wisconsin (2024) — District Court, W.D. Wisconsin
 - New Hampshire Youth Movement v. Scanlan (2024) — District Court, D. New Hampshire
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22America%20Votes%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22America%20Votes%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Campaign Finance (FEC)
@@ -278,5 +278,5 @@ America Votes also reveals **structural inequality in progressive politics:**
 | AMERICA VOTES ACTION FUND | $6,360,159 | — |
 | TAKE BACK 2020 | $5,653,381 | — |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=America%20Votes) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=America%20Votes) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->

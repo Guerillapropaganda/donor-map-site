@@ -82,7 +82,7 @@ NextEra Energy, Inc. The world's largest utility company by market capitalizatio
 
 NextEra PAC contributes $3-5 million per cycle — one of the largest utility PACs — with lobbying spending of $8-12 million annually. The company's political operation is the most aggressive in the utility sector: NextEra's Florida lobbying operation has shaped the state's energy policy to protect FPL's monopoly while the company's federal lobbying promotes renewable energy tax credits that benefit NextEra Resources.
 
-- [OpenSecrets: NextEra Energy organizational profile](https://www.opensecrets.org/orgs/nextera-energy/summary?id=D000021981) (Tier 1)
+- ~~[OpenSecrets: NextEra Energy organizational profile](https://www.opensecrets.org/orgs/nextera-energy/summary?id=D000021981)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -106,7 +106,7 @@ Extension and expansion of renewable energy tax credits (Production Tax Credit, 
 ### Sources
 
 - [OpenSecrets: NextEra Energy organizational profile](https://www.opensecrets.org/orgs/nextera-energy/summary?id=D000021981) (Tier 1)
-- [Ballotpedia: NextEra Energy](https://ballotpedia.org/NextEra_Energy) (Tier 3)
+- [Ballotpedia: NextEra Energy](https://ballotpedia.org/NextEra_Energy) (Tier 3) (VERIFIED)
 
 ---
 
@@ -148,7 +148,7 @@ Extension and expansion of renewable energy tax credits (Production Tax Credit, 
 | $49.1M | Department of Energy | DEMONSTRATE THE VIABILITY OF A ZINC-BROMIDE BATTERY FOR 10+ HOUR ENERGY STORAGE. DEMONSTRATE THE COM |
 | $30.4M | Department of Energy | FLORIDA POWER LIGHT IS PROPOSING A SMART GRID MANHOLE AND VAULT MONITORING PROJECT (MVMP) TO ENHANCE |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-NextEra%20Energy) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-NextEra%20Energy) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Tax Filings (IRS 990)
@@ -165,14 +165,14 @@ Extension and expansion of renewable energy tax credits (Production Tax Credit, 
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/650031452/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/650031452/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/650031452/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/650031452/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/650031452/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/650031452/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/650031452/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/650031452/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/650031452/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/650031452/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/650031452) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/650031452) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Federal Register Activity
@@ -186,15 +186,15 @@ Extension and expansion of renewable energy tax credits (Production Tax Credit, 
 | Agencies | Energy Department, Federal Communications Commission, Federal Energy Regulatory Commission, Fish and Wildlife Service, Interior Department, Labor Department, Nuclear Regulatory Commission, Veterans Employment and Training Service |
 
 **Recent regulatory activity:**
-- [In the Matter of NextEra Energy Duane Arnold, LLC; Central Iowa Power Cooperative; Corn Belt Power Cooperative; Duane Arnold Energy Center; Direct Transfer of Licenses](https://www.federalregister.gov/documents/2026/04/03/2026-06498/in-the-matter-of-nextera-energy-duane-arnold-llc-central-iowa-power-cooperative-corn-belt-power) (2026-04-03) — Nuclear Regulatory Commission
-- [Combined Notice of Filings](https://www.federalregister.gov/documents/2026/04/02/2026-06381/combined-notice-of-filings) (2026-04-02) — Energy Department
-- [Review of the Commission's Rules Governing the 896-901/935-940 MHz Band](https://www.federalregister.gov/documents/2026/03/31/2026-06239/review-of-the-commissions-rules-governing-the-896-901935-940-mhz-band) (2026-03-31) — Federal Communications Commission
-- [Monthly Notice; Applications and Amendments to Facility Operating Licenses and Combined Licenses Involving No Significant Hazards Considerations](https://www.federalregister.gov/documents/2026/03/17/2026-05121/monthly-notice-applications-and-amendments-to-facility-operating-licenses-and-combined-licenses) (2026-03-17) — Nuclear Regulatory Commission
-- [Combined Notice of Filings #1](https://www.federalregister.gov/documents/2026/03/13/2026-04933/combined-notice-of-filings-1) (2026-03-13) — Energy Department
-- [HIRE Vets Medallion Program-Announcement of HIRE Vets Medallion Award Recipients](https://www.federalregister.gov/documents/2026/03/10/2026-04653/hire-vets-medallion-program-announcement-of-hire-vets-medallion-award-recipients) (2026-03-10) — Labor Department
+- [In the Matter of NextEra Energy Duane Arnold, LLC; Central Iowa Power Cooperative; Corn Belt Power Cooperative; Duane Arnold Energy Center; Direct Transfer of Licenses](https://www.federalregister.gov/documents/2026/04/03/2026-06498/in-the-matter-of-nextera-energy-duane-arnold-llc-central-iowa-power-cooperative-corn-belt-power) (VERIFIED) (2026-04-03) — Nuclear Regulatory Commission
+- [Combined Notice of Filings](https://www.federalregister.gov/documents/2026/04/02/2026-06381/combined-notice-of-filings) (VERIFIED) (2026-04-02) — Energy Department
+- [Review of the Commission's Rules Governing the 896-901/935-940 MHz Band](https://www.federalregister.gov/documents/2026/03/31/2026-06239/review-of-the-commissions-rules-governing-the-896-901935-940-mhz-band) (VERIFIED) (2026-03-31) — Federal Communications Commission
+- [Monthly Notice; Applications and Amendments to Facility Operating Licenses and Combined Licenses Involving No Significant Hazards Considerations](https://www.federalregister.gov/documents/2026/03/17/2026-05121/monthly-notice-applications-and-amendments-to-facility-operating-licenses-and-combined-licenses) (VERIFIED) (2026-03-17) — Nuclear Regulatory Commission
+- ~~[Combined Notice of Filings #1](https://www.federalregister.gov/documents/2026/03/13/2026-04933/combined-notice-of-filings-1)~~ (URL broken, archived by Ops) (2026-03-13) — Energy Department
+- [HIRE Vets Medallion Program-Announcement of HIRE Vets Medallion Award Recipients](https://www.federalregister.gov/documents/2026/03/10/2026-04653/hire-vets-medallion-program-announcement-of-hire-vets-medallion-award-recipients) (VERIFIED) (2026-03-10) — Labor Department
 - ... and 791 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22NextEra%20Energy%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22NextEra%20Energy%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Federal Court Records (CourtListener)
@@ -213,7 +213,7 @@ Extension and expansion of renewable energy tax credits (Production Tax Credit, 
 - Natural Resources Defense Council v. FERC (2026) — Court of Appeals for the D.C. Circuit
 - Avenger Flight Group, LLC (2026) — United States Bankruptcy Court, D. Delaware
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22NextEra%20Energy%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22NextEra%20Energy%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### SEC Filing Activity
@@ -227,13 +227,13 @@ Extension and expansion of renewable energy tax credits (Production Tax Credit, 
 
 **Notable filings:**
 
-- 2026-04-07 — **4**: [STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES](https://www.sec.gov/Archives/edgar/data/753308/000195003226000008/0001950032-26-000008-index.htm)
-- 2026-04-02 — **PX14A6G**: [PX14A6G](https://www.sec.gov/Archives/edgar/data/753308/000121465926004230/0001214659-26-004230-index.htm)
-- 2026-04-01 — **ARS**: [ARS](https://www.sec.gov/Archives/edgar/data/753308/000110465926038560/0001104659-26-038560-index.htm)
-- 2026-04-01 — **DEFA14A**: [DEFA14A](https://www.sec.gov/Archives/edgar/data/753308/000110465926038556/0001104659-26-038556-index.htm)
-- 2026-04-01 — **DEF 14A**: [DEF 14A](https://www.sec.gov/Archives/edgar/data/753308/000110465926038551/0001104659-26-038551-index.htm)
+- 2026-04-07 — **4**: [STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES](https://www.sec.gov/Archives/edgar/data/753308/000195003226000008/0001950032-26-000008-index.htm) (VERIFIED)
+- 2026-04-02 — **PX14A6G**: [PX14A6G](https://www.sec.gov/Archives/edgar/data/753308/000121465926004230/0001214659-26-004230-index.htm) (VERIFIED)
+- 2026-04-01 — **ARS**: [ARS](https://www.sec.gov/Archives/edgar/data/753308/000110465926038560/0001104659-26-038560-index.htm) (VERIFIED)
+- 2026-04-01 — **DEFA14A**: [DEFA14A](https://www.sec.gov/Archives/edgar/data/753308/000110465926038556/0001104659-26-038556-index.htm) (VERIFIED)
+- 2026-04-01 — **DEF 14A**: [DEF 14A](https://www.sec.gov/Archives/edgar/data/753308/000110465926038551/0001104659-26-038551-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22NextEra%20Energy%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22NextEra%20Energy%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -264,5 +264,5 @@ Extension and expansion of renewable energy tax credits (Production Tax Credit, 
 | Natural Gas Distribution (221210) | $1.1M |
 | Natural Gas Extraction (211130) | $631K |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->

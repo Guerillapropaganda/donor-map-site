@@ -67,7 +67,7 @@ Additional revenue: In November 2024, Carlson launched ALP nicotine pouches thro
 > [!money]
 > Carlson's FEC record maps his 30-year political evolution: Heritage Foundation staffer (1995) → Fox News personality (2021) → independent media mogul backing MTG (2025). The 2025 contribution burst, four separate checks to MTG entities totaling $15K on a single day, represents Carlson's only significant personal political investment of his entire career. The arc is revealing: Carlson's support for Marjorie Taylor Greene (the only politician he's backed substantially) coincides with his post-Fox independence and his deepest ideological alignment with the "American First" wing of the Republican party. His earlier contributions (Heritage Foundation 1995, Greene 2021) are minimal. The $15K to MTG in August 2025 is the clearest indicator of Carlson's current political commitment.
 
-- [FEC: Tucker Carlson individual contributions (6 results, $16,250)](https://www.fec.gov/data/receipts/?contributor_name=carlson%2C+tucker) (Tier 1)
+- [FEC: Tucker Carlson individual contributions (6 results, $16,250)](https://www.fec.gov/data/receipts/?contributor_name=carlson%2C+tucker) (Tier 1) (VERIFIED)
 
 > **Note on API results:** The FEC API search for "carlson, tucker" returns 30 results, but only 6 belong to the media personality (FOX NEWS employer 2021, SELF EMPLOYED 1995, 2025). The remaining 24 results are other individuals named Tucker Carlson or Carlson Tucker across different states and employers. All 6 confirmed results are documented in the table above. Disambiguation confirmed via employer and date matching.
 
@@ -182,18 +182,18 @@ The Putin interview represents the endpoint of this logic: Carlson's "anti-estab
 
 ### Sources
 
-- [NPR: Tucker Carlson ousted at Fox News amid Dominion lawsuit](https://www.npr.org/2023/04/24/1171641969/fox-news-fires-tucker-carlson-in-stunning-move-a-week-after-787-million-settleme) (Tier 2)
-- [Variety: Tucker Carlson's Fox News Exit Tied to Dominion Lawsuit](https://variety.com/2023/tv/news/tucker-carlson-fox-news-exit-dominion-lawsuit-twitter-show-1235613404/) (Tier 2)
-- [Fortune: Tucker Carlson's new media company gets seed funding, 1789 Capital $15M](https://fortune.com/2023/10/17/tucker-carlson-media-company-funding-1789-15-million-seed-capital/) (Tier 2)
-- [TheWrap: Tucker Carlson Courts GOP Megadonors Rebekah Mercer, Peter Thiel](https://www.thewrap.com/tucker-carlson-gop-donors-mercer-thiel-media-company/) (Tier 2)
-- [Axios: Tucker Carlson buys out investors in his media company (June 2025)](https://www.axios.com/2025/06/13/tucker-carlson-investors) (Tier 2)
-- [Axios: Tucker Carlson lands first major ad deal, investment interest for new media company](https://www.axios.com/2023/07/17/tucker-carlson-ad-deal-new-media-company) (Tier 2)
-- [Washington Post: Tucker Carlson said he hates Trump 'passionately'. Dominion lawsuit texts](https://www.washingtonpost.com/media/2023/03/07/fox-news-dominion-tucker-carlson-texts/) (Tier 1)
-- [NPR: How Tucker Carlson mainstreamed fringe conspiracy theories](https://www.npr.org/2023/04/25/1171800317/how-tucker-carlsons-extremist-narratives-shaped-fox-news-and-conservative-politi) (Tier 2)
-- [NPR: Has Tucker Carlson created the most racist show in the history of cable news?](https://www.npr.org/2022/05/12/1098488908/has-tucker-carlson-created-the-most-racist-show-in-the-history-of-cable-news) (Tier 2)
-- [ADL: White Supremacists Applaud Tucker Carlson's Promotion of Replacement Theory](https://www.adl.org/resources/article/white-supremacists-applaud-tucker-carlsons-promotion-replacement-theory) (Tier 2)
-- [NPR: Tucker Carlson's two-hour interview of Vladimir Putin](https://www.npr.org/2024/02/08/1230024588/tucker-carlson-putin-interview-video) (Tier 2)
-- [Ad Age: What Tucker Carlson's Fox News exit means for advertisers](https://adage.com/article/media/what-tucker-carlsons-fox-news-exit-means-advertisers/2490591/) (Tier 2)
-- [Nasdaq: Tucker Carlson Introduces ALP, A Revolutionary New Nicotine Pouch Company](https://www.nasdaq.com/press-release/tucker-carlson-introduces-alp-revolutionary-new-nicotine-pouch-company-2024-11-14) (Tier 3)
-- [NBC News: Far-right laments Tucker Carlson's ouster](https://www.nbcnews.com/tech/internet/far-right-laments-tucker-carlsons-ouster-rcna81595) (Tier 2)
+- [NPR: Tucker Carlson ousted at Fox News amid Dominion lawsuit](https://www.npr.org/2023/04/24/1171641969/fox-news-fires-tucker-carlson-in-stunning-move-a-week-after-787-million-settleme) (Tier 2) (VERIFIED)
+- [Variety: Tucker Carlson's Fox News Exit Tied to Dominion Lawsuit](https://variety.com/2023/tv/news/tucker-carlson-fox-news-exit-dominion-lawsuit-twitter-show-1235613404/) (Tier 2) (VERIFIED)
+- [Fortune: Tucker Carlson's new media company gets seed funding, 1789 Capital $15M](https://fortune.com/2023/10/17/tucker-carlson-media-company-funding-1789-15-million-seed-capital/) (Tier 2) (VERIFIED)
+- [TheWrap: Tucker Carlson Courts GOP Megadonors Rebekah Mercer, Peter Thiel](https://www.thewrap.com/tucker-carlson-gop-donors-mercer-thiel-media-company/) (Tier 2) (VERIFIED)
+- ~~[Axios: Tucker Carlson buys out investors in his media company (June 2025)](https://www.axios.com/2025/06/13/tucker-carlson-investors)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Axios: Tucker Carlson lands first major ad deal, investment interest for new media company](https://www.axios.com/2023/07/17/tucker-carlson-ad-deal-new-media-company) (Tier 2) (VERIFIED)
+- [Washington Post: Tucker Carlson said he hates Trump 'passionately'. Dominion lawsuit texts](https://www.washingtonpost.com/media/2023/03/07/fox-news-dominion-tucker-carlson-texts/) (Tier 1) (VERIFIED)
+- [NPR: How Tucker Carlson mainstreamed fringe conspiracy theories](https://www.npr.org/2023/04/25/1171800317/how-tucker-carlsons-extremist-narratives-shaped-fox-news-and-conservative-politi) (Tier 2) (VERIFIED)
+- [NPR: Has Tucker Carlson created the most racist show in the history of cable news?](https://www.npr.org/2022/05/12/1098488908/has-tucker-carlson-created-the-most-racist-show-in-the-history-of-cable-news) (Tier 2) (VERIFIED)
+- [ADL: White Supremacists Applaud Tucker Carlson's Promotion of Replacement Theory](https://www.adl.org/resources/article/white-supremacists-applaud-tucker-carlsons-promotion-replacement-theory) (Tier 2) (VERIFIED)
+- [NPR: Tucker Carlson's two-hour interview of Vladimir Putin](https://www.npr.org/2024/02/08/1230024588/tucker-carlson-putin-interview-video) (Tier 2) (VERIFIED)
+- [Ad Age: What Tucker Carlson's Fox News exit means for advertisers](https://adage.com/article/media/what-tucker-carlsons-fox-news-exit-means-advertisers/2490591/) (Tier 2) (VERIFIED)
+- [Nasdaq: Tucker Carlson Introduces ALP, A Revolutionary New Nicotine Pouch Company](https://www.nasdaq.com/press-release/tucker-carlson-introduces-alp-revolutionary-new-nicotine-pouch-company-2024-11-14) (Tier 3) (VERIFIED)
+- [NBC News: Far-right laments Tucker Carlson's ouster](https://www.nbcnews.com/tech/internet/far-right-laments-tucker-carlsons-ouster-rcna81595) (Tier 2) (VERIFIED)
 

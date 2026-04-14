@@ -107,22 +107,22 @@ Newsom's approach to corporate subsidies is straightforward: when corporations a
 ### Sources
 
 ### Tier 1. Primary Documents
-- [California Legislative Analyst's Office: Tax Expenditure Reports](https://lao.ca.gov/Publications/Report/4539) (Tier 1)
-- [California Film Commission: Tax Credit Program Official Details](https://film.ca.gov/tax-credit/) (Tier 1)
-- [California Air Resources Board: Clean Vehicle Rebate Project](https://ww2.arb.ca.gov/our-work/programs/clean-vehicle-rebate-project) (Tier 1)
-- [Governor of California: Assembly Bill 132 Signing. Film Tax Credit Expansion (June 2025)](https://www.gov.ca.gov/2025/07/02/governor-newsom-marks-historic-expansion-of-californias-film-and-television-tax-credit-program-announces-16-new-projects-to-film-in-the-golden-state/) (Tier 1)
+- [California Legislative Analyst's Office: Tax Expenditure Reports](https://lao.ca.gov/Publications/Report/4539) (Tier 1) (VERIFIED)
+- [California Film Commission: Tax Credit Program Official Details](https://film.ca.gov/tax-credit/) (Tier 1) (VERIFIED)
+- [California Air Resources Board: Clean Vehicle Rebate Project](https://ww2.arb.ca.gov/our-work/programs/clean-vehicle-rebate-project) (Tier 1) (VERIFIED)
+- [Governor of California: Assembly Bill 132 Signing. Film Tax Credit Expansion (June 2025)](https://www.gov.ca.gov/2025/07/02/governor-newsom-marks-historic-expansion-of-californias-film-and-television-tax-credit-program-announces-16-new-projects-to-film-in-the-golden-state/) (Tier 1) (VERIFIED)
 
 ### Tier 2. Major Journalism & Analysis
-- [CalMatters: Tax loopholes and rebates commentary (Sept 2025)](https://calmatters.org/commentary/2025/09/tax-loopholes-rebates-california/) (Tier 2)
-- [Entertainment Partners: California film tax incentive expansion to $750M (2025)](https://www.ep.com/blog/california-expands-film-tax-incentive-to-$750m-in-2025-to-keep-productions-at-home-in-hollywood/) (Tier 2)
+- [CalMatters: Tax loopholes and rebates commentary (Sept 2025)](https://calmatters.org/commentary/2025/09/tax-loopholes-rebates-california/) (Tier 2) (VERIFIED)
+- [Entertainment Partners: California film tax incentive expansion to $750M (2025)](https://www.ep.com/blog/california-expands-film-tax-incentive-to-$750m-in-2025-to-keep-productions-at-home-in-hollywood/) (Tier 2) (VERIFIED)
 
 ### Tier 3. Secondary Sources & Databases
-- [Good Jobs First: California corporate subsidy tracker](https://goodjobsfirst.org/?s=Corporate%20Subsidies%20and%20the%20Business%20Climate%20Argument) (Tier 2)
-- [National Law Review: California Expands Film and Television Tax Credit Program](https://natlawreview.com/article/california-expands-film-and-television-tax-credit-program) (Tier 3)
-- [Coltura: Electric Vehicle Rebate California 2026 analysis](https://coltura.org/electric-vehicle-rebate-california/) (Tier 3)
+- [Good Jobs First: California corporate subsidy tracker](https://goodjobsfirst.org/?s=Corporate%20Subsidies%20and%20the%20Business%20Climate%20Argument) (Tier 2) (VERIFIED)
+- [National Law Review: California Expands Film and Television Tax Credit Program](https://natlawreview.com/article/california-expands-film-and-television-tax-credit-program) (Tier 3) (VERIFIED)
+- [Coltura: Electric Vehicle Rebate California 2026 analysis](https://coltura.org/electric-vehicle-rebate-california/) (Tier 3) (VERIFIED)
 
-- [California Legislative Analyst's Office: tax expenditures](https://lao.ca.gov/Publications/Report/4539) (Tier 1)
-- [CalMatters: California's Hollywood subsidies, has the film tax credit been worth it?](https://calmatters.org/category/economy/2020/01/is-california-hollywood-tax-credit-worth-it/) (Tier 2)
-- [California Film Commission: tax credit program](https://film.ca.gov/tax-credit/) (Tier 1)
+- [California Legislative Analyst's Office: tax expenditures](https://lao.ca.gov/Publications/Report/4539) (Tier 1) (VERIFIED)
+- ~~[CalMatters: California's Hollywood subsidies, has the film tax credit been worth it?](https://calmatters.org/category/economy/2020/01/is-california-hollywood-tax-credit-worth-it/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [California Film Commission: tax credit program](https://film.ca.gov/tax-credit/) (Tier 1) (VERIFIED)
 - [Good Jobs First: California corporate subsidy tracker](https://goodjobsfirst.org/?s=Corporate%20Subsidies%20and%20the%20Business%20Climate%20Argument) (Tier 2)
 

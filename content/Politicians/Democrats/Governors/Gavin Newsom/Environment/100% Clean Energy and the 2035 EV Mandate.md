@@ -108,21 +108,21 @@ The framework for content: credit the wins, apply the class lens to distribution
 ### Sources
 
 ### Tier 1. Primary Documents
-- [CARB: Advanced Clean Cars II. ZEV mandate official text](https://ww2.arb.ca.gov/our-work/programs/drive-forward-light-duty-vehicle-program) (Tier 1)
-- [Governor Newsom Executive Order N-79-20: ZEV mandate announcement](https://www.gov.ca.gov/2020/09/23/governor-newsom-announces-california-will-phase-out-gasoline-powered-cars-drastically-reduce-demand-for-fossil-fuel-in-californias-fight-against-climate-change/) (Tier 1)
-- [California Energy Commission: SB 100 joint agency report and renewable energy data](https://www.energy.ca.gov/sb100) (Tier 1)
-- [California Legislature: SB 100 full text](https://leginfo.legislature.ca.gov/faces/home.xhtml?bill_id=201720180SB100) (Tier 1)
-- [California Energy Commission: Electricity data and renewable energy share 2024](https://www.energy.ca.gov/data-reports/energy-almanac/california-electricity-data) (Tier 1)
+- [CARB: Advanced Clean Cars II. ZEV mandate official text](https://ww2.arb.ca.gov/our-work/programs/drive-forward-light-duty-vehicle-program) (Tier 1) (VERIFIED)
+- [Governor Newsom Executive Order N-79-20: ZEV mandate announcement](https://www.gov.ca.gov/2020/09/23/governor-newsom-announces-california-will-phase-out-gasoline-powered-cars-drastically-reduce-demand-for-fossil-fuel-in-californias-fight-against-climate-change/) (Tier 1) (VERIFIED)
+- [California Energy Commission: SB 100 joint agency report and renewable energy data](https://www.energy.ca.gov/sb100) (Tier 1) (VERIFIED)
+- [California Legislature: SB 100 full text](https://leginfo.legislature.ca.gov/faces/home.xhtml?bill_id=201720180SB100) (Tier 1) (VERIFIED)
+- [California Energy Commission: Electricity data and renewable energy share 2024](https://www.energy.ca.gov/data-reports/energy-almanac/california-electricity-data) (Tier 1) (VERIFIED)
 
 ### Tier 2. Major Journalism & Investigative
-- [CalMatters: California's residential solar rules overhauled after highly charged debate](https://calmatters.org/category/environment/2022/12/california-solar-rules-overhauled/) (Tier 2)
-- [KQED: Newsom announces halt to new fracking permits by 2024](https://www.kqed.org/science/1974156/newsom-says-he-will-halt-new-california-fracking-permits-in-2024) (Tier 2)
-- [Washington Examiner: Newsom oil drilling permit approvals 2023](https://www.washingtonexaminer.com/policy/energy-and-environment/3820920/newsom-warms-oil-industry-high-costs-threaten-california/) (Tier 2)
-- [Governor of California: August 2022 ZEV mandate CARB approval announcement](https://www.gov.ca.gov/2022/08/25/california-enacts-world-leading-plan-to-achieve-100-percent-zero-emission-vehicles-by-2035-cut-pollution/) (Tier 2)
+- ~~[CalMatters: California's residential solar rules overhauled after highly charged debate](https://calmatters.org/category/environment/2022/12/california-solar-rules-overhauled/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [KQED: Newsom announces halt to new fracking permits by 2024](https://www.kqed.org/science/1974156/newsom-says-he-will-halt-new-california-fracking-permits-in-2024) (Tier 2) (VERIFIED)
+- [Washington Examiner: Newsom oil drilling permit approvals 2023](https://www.washingtonexaminer.com/policy/energy-and-environment/3820920/newsom-warms-oil-industry-high-costs-threaten-california/) (Tier 2) (VERIFIED)
+- [Governor of California: August 2022 ZEV mandate CARB approval announcement](https://www.gov.ca.gov/2022/08/25/california-enacts-world-leading-plan-to-achieve-100-percent-zero-emission-vehicles-by-2035-cut-pollution/) (Tier 2) (VERIFIED)
 
 ### Tier 3. Secondary Analysis
-- [Sacramento News & Review: Oil drilling permits approved under Newsom (14,623 through Q1 2023)](https://sacramento.newsreview.com/2023/04/28/oil-drilling-permits-approved-in-california-since-start-of-2019-rises-to-14623-as-neighborhood-feel-the-brunt/) (Tier 3)
-- [Consumer Watchdog: Newsom oil permits analysis and 2024 projections](https://consumerwatchdog.org/energy/newsom-oil-permits-at-standstill-but-new-administration-proposal-could-lead-to-approval-of-4700-more-oil-wells-next-year/) (Tier 3)
-- [Sierra Club California: cap-and-trade and refinery communities](https://www.sierraclub.org/california) (Tier 3)
-- [California Policy Center: Newsom concessions to oil industry analysis](https://californiapolicycenter.org/newsoms-concessions-to-oil-industry-will-not-save-it/) (Tier 3)
+- [Sacramento News & Review: Oil drilling permits approved under Newsom (14,623 through Q1 2023)](https://sacramento.newsreview.com/2023/04/28/oil-drilling-permits-approved-in-california-since-start-of-2019-rises-to-14623-as-neighborhood-feel-the-brunt/) (Tier 3) (VERIFIED)
+- [Consumer Watchdog: Newsom oil permits analysis and 2024 projections](https://consumerwatchdog.org/energy/newsom-oil-permits-at-standstill-but-new-administration-proposal-could-lead-to-approval-of-4700-more-oil-wells-next-year/) (Tier 3) (VERIFIED)
+- [Sierra Club California: cap-and-trade and refinery communities](https://www.sierraclub.org/california) (Tier 3) (VERIFIED)
+- [California Policy Center: Newsom concessions to oil industry analysis](https://californiapolicycenter.org/newsoms-concessions-to-oil-industry-will-not-save-it/) (Tier 3) (VERIFIED)
 

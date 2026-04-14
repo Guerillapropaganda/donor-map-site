@@ -176,18 +176,18 @@ On DOGE and government efficiency, Comer has adopted Musk's language wholesale â
 
 ## Sources
 
-- [FEC Candidate: James Comer Campaign Finance Summary](https://www.fec.gov/data/candidate/H6KY01110/) (Tier 1)
-- [FEC: Comer for Congress (C00588764)](https://www.fec.gov/data/candidate/H6KY01110/) (Tier 1)
-- [Congress.gov: James Comer Member Profile](https://www.congress.gov/member/james-comer/C001108) (Tier 1)
-- [Fortune: Comer's Kentucky Land Shell Company](https://fortune.com/2023/12/14/james-comer-kentucky-land-shell-company-hunter-biden-probe/) (Tier 2)
-- [NPR: FBI Informant Smirnov Charged with Lying About Bidens](https://www.npr.org/2024/02/20/1232789953/alexander-smirnov-fbi-informant-biden-hunter-ukraine) (Tier 2)
-- [PBS: Smirnov Guilty Plea](https://www.pbs.org/newshour/politics/former-fbi-informant-to-plead-guilty-to-lying-about-fake-bribery-scheme-involving-the-bidens) (Tier 2)
-- [CNN: House GOP Biden Impeachment Effort Collapses](https://www.cnn.com/2024/04/24/politics/house-gop-biden-impeachment-effort/index.html) (Tier 2)
-- [Congressional Integrity Project: Comer Family Financial Benefits](https://congressionalintegrity.org/) (Tier 2)
-- [Daily Beast: Comer Also Paid His Brother $200K](https://www.thedailybeast.com/james-comer-like-joe-biden-also-paid-his-brother-dollar200k/) (Tier 2)
-- [GovTrack: James Comer Legislative Statistics](https://www.govtrack.us/congress/members/james_comer/412676) (Tier 3)
-- [Ballotpedia: James Comer](https://ballotpedia.org/James_Comer_Jr.) (Tier 3)
-- [Data USA: Congressional District 1, KY Demographics](https://datausa.io/profile/geo/congressional-district-1-ky/) (Tier 3)
+- [FEC Candidate: James Comer Campaign Finance Summary](https://www.fec.gov/data/candidate/H6KY01110/) (Tier 1) (VERIFIED)
+- [FEC: Comer for Congress (C00588764)](https://www.fec.gov/data/candidate/H6KY01110/) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: James Comer Member Profile](https://www.congress.gov/member/james-comer/C001108)~~ (was Tier 1 â€” URL broken, archived by Ops) (Tier 1)
+- [Fortune: Comer's Kentucky Land Shell Company](https://fortune.com/2023/12/14/james-comer-kentucky-land-shell-company-hunter-biden-probe/) (Tier 2) (VERIFIED)
+- [NPR: FBI Informant Smirnov Charged with Lying About Bidens](https://www.npr.org/2024/02/20/1232789953/alexander-smirnov-fbi-informant-biden-hunter-ukraine) (Tier 2) (VERIFIED)
+- [PBS: Smirnov Guilty Plea](https://www.pbs.org/newshour/politics/former-fbi-informant-to-plead-guilty-to-lying-about-fake-bribery-scheme-involving-the-bidens) (Tier 2) (VERIFIED)
+- [CNN: House GOP Biden Impeachment Effort Collapses](https://www.cnn.com/2024/04/24/politics/house-gop-biden-impeachment-effort/index.html) (Tier 2) (VERIFIED)
+- [Congressional Integrity Project: Comer Family Financial Benefits](https://congressionalintegrity.org/) (Tier 2) (VERIFIED)
+- [Daily Beast: Comer Also Paid His Brother $200K](https://www.thedailybeast.com/james-comer-like-joe-biden-also-paid-his-brother-dollar200k/) (Tier 2) (VERIFIED)
+- [GovTrack: James Comer Legislative Statistics](https://www.govtrack.us/congress/members/james_comer/412676) (Tier 3) (VERIFIED)
+- [Ballotpedia: James Comer](https://ballotpedia.org/James_Comer_Jr.) (Tier 3) (VERIFIED)
+- [Data USA: Congressional District 1, KY Demographics](https://datausa.io/profile/geo/congressional-district-1-ky/) (Tier 3) (VERIFIED)
 
 ---
 
@@ -207,7 +207,7 @@ On DOGE and government efficiency, Comer has adopted Musk's language wholesale â
 - H.R. 1295: Reorganizing Government Act of 2025 â€” *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on March 25, 2025.*
 - H.R. 1515: GOOD Act â€” *This bill passed in the House on March 3, 2025 and goes to the Senate next for consideration.*
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412676) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412676) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
 
 ### Campaign Finance (FEC)
@@ -242,7 +242,7 @@ On DOGE and government efficiency, Comer has adopted Musk's language wholesale â
 | ALLIANCE COAL, LLC PAC | $69 | $0 |
 | NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE | $13 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6KY01110/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6KY01110/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Voting Record
@@ -267,8 +267,8 @@ On DOGE and government efficiency, Comer has adopted Musk's language wholesale â
 
 **Sources**
 
-- [Congress.gov: James Comer](https://www.congress.gov/member/c001091) (Tier 1)
-- [GovTrack: James Comer](https://www.govtrack.us/congress/members/412676) (Tier 1)
+- ~~[Congress.gov: James Comer](https://www.congress.gov/member/c001091)~~ (was Tier 1 â€” URL broken, archived by Ops) (Tier 1)
+- [GovTrack: James Comer](https://www.govtrack.us/congress/members/412676) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
 
 ### DOJ Press Releases
@@ -300,7 +300,7 @@ On DOGE and government efficiency, Comer has adopted Musk's language wholesale â
 | 473 | SHOW UP Act of 2025 | Referred to the House Committee on Oversight and Government Reform. |
 | 9812 | Health Care Workforce Investment Act | Referred to the Subcommittee on Health. |
 
-- [Source: Congress.gov](https://www.congress.gov/member/C001108) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001108)~~ (was Tier 1 â€” URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Wikipedia
@@ -309,13 +309,13 @@ James Richardson Comer Jr. is an American politician from Kentucky who represent
 
 | Fact | Value |
 |------|-------|
-| Wikidata ID | [Q6131602](https://www.wikidata.org/wiki/Q6131602) |
+| Wikidata ID | [Q6131602](https://www.wikidata.org/wiki/Q6131602) (VERIFIED) |
 | Description | American politician in Kentucky (born 1972) |
 | Born | 1972-08-19 |
-| Website | [https://comer.house.gov/](https://comer.house.gov/) |
-| X/Twitter | [@KYComer](https://x.com/KYComer) |
-| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/2025_James_Comer_(cropped).jpg?width=300) |
+| Website | [https://comer.house.gov/](https://comer.house.gov/) (VERIFIED) |
+| X/Twitter | [@KYComer](https://x.com/KYComer) (VERIFIED) |
+| Image | ~~[Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/2025_James_Comer_(cropped)~~ (URL broken, archived by Ops).jpg?width=300) |
 
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/James_Comer) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q6131602) (Tier 2)
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/James_Comer) (Tier 3) (VERIFIED)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q6131602) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->

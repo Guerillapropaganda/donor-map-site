@@ -37,11 +37,11 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 EMILY's List (Early Money Is Like Yeast — a fundraising metaphor) is the nation's largest bundling operation for Democratic pro-choice women candidates, founded in 1985. It operates both as a 501(c)(4) advocacy group and through Women Vote!, its affiliated super PAC.
 
-[EMILY's List — Wikipedia](https://en.wikipedia.org/wiki/All-In_(podcast)'s_List) (Tier 2)
+~~[EMILY's List — Wikipedia](https://en.wikipedia.org/wiki/All-In_(podcast)~~ (URL broken, archived by Ops)'s_List) (Tier 2)
 
-[EMILY's List — InfluenceWatch](https://www.influencewatch.org/organization/emilys-list/) (Tier 2)
+[EMILY's List — InfluenceWatch](https://www.influencewatch.org/organization/emilys-list/) (Tier 2) (VERIFIED)
 
-[EMILY's List — Ballotpedia](https://ballotpedia.org/EMILY's_List) (Tier 3)
+[EMILY's List — Ballotpedia](https://ballotpedia.org/EMILY's_List) (Tier 3) (VERIFIED)
 
 EMILY's List has raised approximately **$850 million** in its lifetime and spent over **$40 million per electoral cycle** in recent years. It functions as both a fundraising infrastructure (bundling individual donations) and a direct spender through Women Vote! PAC.
 
@@ -107,7 +107,7 @@ EMILY's List's funding comes from:
 
 A single New York financier donated $500,000 to Women Vote! in 2024. The [[United Democracy Project - UDP|United Democracy Project]] ([[AIPAC - American Israel Public Affairs Committee|AIPAC]] super PAC) gave $200,000 to Women Vote!, indicating coordination between EMILY's List and the Israel lobby.
 
-[Women Vote! — Ballotpedia](https://ballotpedia.org/Women_Vote!) (Tier 3)
+[Women Vote! — Ballotpedia](https://ballotpedia.org/Women_Vote!) (Tier 3) (VERIFIED)
 
 ### Donor Class Filter
 EMILY's List's endorsement process functions as a filter ensuring only donor-acceptable women candidates receive backing. This is not a conspiracy but a structural outcome: the organization is led by wealthy professionals, funded by wealthy professionals, and therefore naturally aligns with wealthy professionals' preferred candidates.
@@ -156,9 +156,9 @@ EMILY's List–backed women candidates proved Democratic women could win even as
 - House: Women won in Trump-carried districts (minority, but notable)
 - Women Vote! PAC spending: $6M+ in "Real Stories" ads targeting women under 40
 
-[This super PAC for pro-choice women is spending big to help get Karen Carter Peterson elected](https://emilyslist.org/in-the-press/this-super-pac-for-pro-choice-women-is-spending-big-to-help-get-karen-carte/) (Tier 2)
+[This super PAC for pro-choice women is spending big to help get Karen Carter Peterson elected](https://emilyslist.org/in-the-press/this-super-pac-for-pro-choice-women-is-spending-big-to-help-get-karen-carte/) (Tier 2) (VERIFIED)
 
-[EMILYs List and Future Forward Launch More Than $6M in "Real Stories" Ads to Women Under 40](https://emilyslist.org/news/emilys-list-and-future-forward-launch-more-than-6m-in-real-stories-ads-to-women-under-40/) (Tier 2)
+[EMILYs List and Future Forward Launch More Than $6M in "Real Stories" Ads to Women Under 40](https://emilyslist.org/news/emilys-list-and-future-forward-launch-more-than-6m-in-real-stories-ads-to-women-under-40/) (Tier 2) (VERIFIED)
 
 The strategic insight: EMILY's List demonstrated women candidates can be competitive, but only when aligned with donor preferences and concentrated in winnable races. The organization has not expanded the pool of viable women candidates; it has managed access for preferred women candidates.
 
@@ -196,9 +196,9 @@ The reproductive rights focus is strategically chosen because it mobilizes femal
 - [EMILY's List — Wikipedia](https://en.wikipedia.org/wiki/All-In_(podcast)'s_List) (Tier 2)
 - [EMILY's List — InfluenceWatch](https://www.influencewatch.org/organization/emilys-list/) (Tier 2)
 - [EMILY's List — Ballotpedia](https://ballotpedia.org/EMILY's_List) (Tier 3)
-- [This super PAC for pro-choice women is spending big to help get Karen Carter Peterson elected — EMILY's List](https://emilyslist.org/in-the-press/this-super-pac-for-pro-choice-women-is-spending-big-to-help-get-karen-carte/) (Tier 2)
+- [This super PAC for pro-choice women is spending big to help get Karen Carter Peterson elected — EMILY's List](https://emilyslist.org/in-the-press/this-super-pac-for-pro-choice-women-is-spending-big-to-help-get-karen-carte/) (Tier 2) (VERIFIED)
 - [Women Vote! — Ballotpedia](https://ballotpedia.org/Women_Vote!) (Tier 3)
-- [Abortion and 2024: How pro-choice PAC EMILY's List might actually be helping Republicans — Slate](https://slate.com/news-and-politics/2024/03/abortion-2024-campaign-emilys-list-super-tuesday-primary-california-weiss-min.html) (Tier 2)
+- [Abortion and 2024: How pro-choice PAC EMILY's List might actually be helping Republicans — Slate](https://slate.com/news-and-politics/2024/03/abortion-2024-campaign-emilys-list-super-tuesday-primary-california-weiss-min.html) (Tier 2) (VERIFIED)
 - [EMILYs List and Future Forward Launch More Than $6M in "Real Stories" Ads to Women Under 40](https://emilyslist.org/news/emilys-list-and-future-forward-launch-more-than-6m-in-real-stories-ads-to-women-under-40/) (Tier 2)
 
 ---
@@ -227,8 +227,8 @@ The reproductive rights focus is strategically chosen because it mobilizes femal
 | Net Assets | $173K |
 | Officer Compensation | $3K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 461067490](https://projects.propublica.org/nonprofits/organizations/461067490) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F461067490_202306_990O_2024040422334157.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 461067490](https://projects.propublica.org/nonprofits/organizations/461067490) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F461067490_202306_990O_2024040422334157.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Federal Court Records (CourtListener)
@@ -247,7 +247,7 @@ The reproductive rights focus is strategically chosen because it mobilizes femal
 - The New York Times Company v. Microsoft Corporation (2023) — District Court, S.D. New York
 - United States v. Alexander Sittenfeld (2023) — Court of Appeals for the Sixth Circuit
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Emilys%20List%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Emilys%20List%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Tax Filings (IRS 990)
@@ -265,12 +265,12 @@ The reproductive rights focus is strategically chosen because it mobilizes femal
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/461067490/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/461067490/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/461067490/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/461067490/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/461067490/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/461067490/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/461067490/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/461067490/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/461067490/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/461067490/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/461067490) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/461067490) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->

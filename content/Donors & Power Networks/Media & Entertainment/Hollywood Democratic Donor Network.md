@@ -153,16 +153,16 @@ The material policy agenda reveals what the progressive brand actually purchases
 
 ### Sources
 
-- [FEC Receipts: Jeffrey Katzenberg donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Jeffrey%20Katzenberg) (Tier 1)
-- [FEC Receipts: David Geffen donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=David%20Geffen) (Tier 1)
-- [FEC Receipts: Haim Saban donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Haim%20Saban) (Tier 1)
-- [Variety: "Hollywood Donors Feel 'Tremendous Enthusiasm' for Kamala Harris"](https://variety.com/2024/politics/news/hollywood-donors-kamala-harris-support-joe-biden-jeffrey-katzenberg-1236080773/) (Tier 2)
-- [Hollywood Reporter: "Jeffrey Katzenberg rescues Democratic fundraising in Hollywood"](https://www.hollywoodreporter.com/news/general-news/jeffrey-katzenberg-democrat-donations-fundraising-hollywood-strikes-4088888/) (Tier 2)
-- [The Ankler: "After Katzenberg: Hollywood Democrats Come Back To Life"](https://theankler.com/p/after-katzenberg-hollywood-democrats) (Tier 2)
-- [Writers Guild of America: 2023 Strike documentation and contract analysis](https://www.wga.org/news-events-press/news/archives-2023) (Tier 1)
-- [Bloomberg: "Hollywood Studios and Artificial Intelligence: The 2023 Negotiations"](https://www.bloomberg.com/news/articles/) (Tier 2)
-- [Federal Copyright Office: Copyright Office Director confirmation records](https://www.copyright.gov/about/) (Tier 1)
-- [CNBC: "Reed Hastings: Netflix backed Harris with $7 million"](https://www.cnbc.com/2024/07/reed-hastings-kamala-harris-donation/) (Tier 2)
+- [FEC Receipts: Jeffrey Katzenberg donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Jeffrey%20Katzenberg) (Tier 1) (VERIFIED)
+- [FEC Receipts: David Geffen donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=David%20Geffen) (Tier 1) (VERIFIED)
+- [FEC Receipts: Haim Saban donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Haim%20Saban) (Tier 1) (VERIFIED)
+- [Variety: "Hollywood Donors Feel 'Tremendous Enthusiasm' for Kamala Harris"](https://variety.com/2024/politics/news/hollywood-donors-kamala-harris-support-joe-biden-jeffrey-katzenberg-1236080773/) (Tier 2) (VERIFIED)
+- ~~[Hollywood Reporter: "Jeffrey Katzenberg rescues Democratic fundraising in Hollywood"](https://www.hollywoodreporter.com/news/general-news/jeffrey-katzenberg-democrat-donations-fundraising-hollywood-strikes-4088888/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [The Ankler: "After Katzenberg: Hollywood Democrats Come Back To Life"](https://theankler.com/p/after-katzenberg-hollywood-democrats) (Tier 2) (VERIFIED)
+- ~~[Writers Guild of America: 2023 Strike documentation and contract analysis](https://www.wga.org/news-events-press/news/archives-2023)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Bloomberg: "Hollywood Studios and Artificial Intelligence: The 2023 Negotiations"](https://www.bloomberg.com/news/articles/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Federal Copyright Office: Copyright Office Director confirmation records](https://www.copyright.gov/about/) (Tier 1) (VERIFIED)
+- ~~[CNBC: "Reed Hastings: Netflix backed Harris with $7 million"](https://www.cnbc.com/2024/07/reed-hastings-kamala-harris-donation/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ---
 
@@ -181,5 +181,5 @@ The material policy agenda reveals what the progressive brand actually purchases
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Hollywood%20Democratic%20Donor%20Network) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Hollywood%20Democratic%20Donor%20Network) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->

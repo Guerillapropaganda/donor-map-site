@@ -447,44 +447,44 @@ The December 2025 staff exodus, 12+ senior Heritage employees leaving over antis
 
 ### Sources
 
-- [ProPublica Nonprofit Explorer: Heritage Foundation 990 filings](https://projects.propublica.org/nonprofits/organizations/237327730) (Tier 1)
-- [ProPublica Nonprofit Explorer: Heritage Foundation 2023 Full Filing](https://projects.propublica.org/nonprofits/organizations/237327730/202311789349301501/full) (Tier 1)
-- [Heritage Foundation: Consolidated Financial Statement 2024](https://static.heritage.org/2024/Heritage%20Foundation_23%20FS.pdf) (Tier 1)
-- [Heritage Foundation: Financial Information page](https://www.heritage.org/financial) (Tier 1)
-- [OpenSecrets: Heritage Foundation organizational profile](https://www.opensecrets.org/orgs/heritage-foundation/summary?id=D000034435) (Tier 1)
-- [DeSmog: 6 Billionaire Fortunes Bankrolling Project 2025](https://www.desmog.com/2024/08/14/project-2025-billionaire-donor-heritage-foundation-donald-trump-jd-vance-charles-koch-peter-coors/) (Tier 2)
-- [DeSmog: Mapped. How 6 Billionaire Family Fortunes Fund Project 2025](https://www.desmog.com/2024/10/25/project-2025-trump-mapped-how-6-billionaire-family-fortunes-fund-climate-denial/) (Tier 2)
-- [DeSmog: MAPPED, 70 Percent of Trump's Cabinet Tied to Project 2025 Groups](https://www.desmog.com/2025/06/02/map-70-percent-trump-cabinet-tie-project-2025-heritage-afpi-convention-states-dunn-doge/ject-2025-heritage-afpi-convention-states-dunn-doge/) (Tier 2)
-- [ProPublica: Heritage Foundation Staffers Flood Federal Agencies With Thousands of Information Requests](https://www.propublica.org/article/have-government-employees-mentioned-climate-change-voting-or-gender-identity-the-heritage-foundation-wants-to-know) (Tier 2)
-- [Revolving Door Project: Former Trump Officials Wrote 25 of the 30 Chapters in the Project 2025 Playbook](https://therevolvingdoorproject.org/former-trump-officials-wrote-25-of-the-30-chapters-in-the-project-2025-playbook/) (Tier 2)
-- [Revolving Door Project: Heritage Lays the Foundation for Schedule F](https://therevolvingdoorproject.org/heritage-lays-the-foundation-for-schedule-f/) (Tier 2)
-- [NBC News: Donations Surged to Groups Linked to Conservative Project 2025](https://www.nbcnews.com/politics/2024-election/donations-surged-groups-linked-conservative-project-2025-rcna125638) (Tier 2)
-- [Media Matters: Project 2025 Organizer Heritage Foundation Gave $1 Million for Trump's Convention](https://www.mediamatters.org/project-2025/project-2025-organizer-heritage-foundation-gave-1-million-trumps-convention) (Tier 2)
-- [Campaign Legal Center: CLC Sues Heritage Action for Violating Disclosure Laws](https://campaignlegal.org/update/clc-sues-secret-money-group-heritage-action-violating-disclosure-laws) (Tier 2)
-- [19th News: How Much of Project 2025 Has Been Implemented?](https://19thnews.org/2025/12/project-2025-heritage-foundation-progress/) (Tier 2)
-- [Axios: Project 2025 Architects Lay Out 2026 Policy Vision](https://www.axios.com/2025/12/09/trump-china-project-2026-2025-policy-heritage-foundation-abortion) (Tier 2)
-- [Newsweek: Heritage Foundation Project 2026 Plan Released](https://www.newsweek.com/project-2026-heritage-foundation-document-11183162) (Tier 2)
-- [PR Watch: Koch, Bradley Money Fuels Trump's Right-Wing Echo Chamber](https://www.prwatch.org/news/2019/07/13482/koch-bradley-money-fuels-trumps-right-wing-echo-chamber) (Tier 2)
-- [The Conversation: Heritage Foundation's 50-Year History of Steering GOP Lawmaking](https://theconversation.com/usheritage-foundations-project-2025-is-just-the-latest-action-plan-from-a-group-with-an-over-50-year-history-of-steering-gop-lawmaking-234542) (Tier 2)
-- [Climate Investigations Center: Heritage Foundation climate funding](https://climateinvestigations.org/heritage-foundation/) (Tier 2)
-- [World Resources Institute: Heritage Foundation Analysis of Climate Policy](https://www.wri.org/insights/heritage-foundation-gets-it-wrong-costs-and-benefits-climate-action) (Tier 2)
-- [Jacobin/The Lever: Dark Money Donor-Advised Funds Analysis](https://jacobin.com/2024/07/dark-money-donor-advised-funds) (Tier 2)
-- [Inequality.org: Fossil Fuel Philanthropy](https://inequality.org/article/fossil-fuel-philanthropy/) (Tier 2)
-- [Mother Jones: DeVos Family Funding Analysis](https://www.motherjones.com/politics/2014/01/devos-family-foundations-heritage-americans-prosperity-blackwater/) (Tier 2)
-- [Mother Jones: DonorsTrust as Dark Money ATM](https://www.motherjones.com/politics/2013/02/donors-trust-donor-capital-fund-dark-money-koch-bradley-devos/) (Tier 2)
-- [Cato Institute: Heritage Antitrust Contradiction Review](https://www.cato.org/blog/all-roads-lead-big-government-heritage-takes-big-tech) (Tier 2)
-- [Brennan Center: Project 2025 Criminal Justice Analysis](https://www.brennancenter.org/our-work/analysis-opinion/project-2025s-plan-criminal-justice-under-trump) (Tier 2)
-- [Vipul Naik Donation Database: Bradley Foundation to Heritage](https://donations.vipulnaik.com/donor.php?donor=The+Lynde+and+Harry+Bradley+Foundation) (Tier 1)
-- [SourceWatch: Heritage Foundation donor profiles](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Heritage_Foundation) (Tier 2)
-- [InfluenceWatch: Sarah Scaife Foundation and Heritage](https://www.influencewatch.org/non-profit/sarah-scaife-foundation/) (Tier 2)
-- [InfluenceWatch: Lynde and Harry Bradley Foundation](https://www.influencewatch.org/non-profit/lynde-and-harry-bradley-foundation-inc/) (Tier 2)
-- [ACLU: Project 2025, Explained](https://www.aclu.org/project-2025-explained) (Tier 3)
-- [Wikipedia: The Heritage Foundation](https://en.wikipedia.org/wiki/The_Heritage_Foundation) (Tier 3)
-- [Wikipedia: Project 2025](https://en.wikipedia.org/wiki/Project_2025) (Tier 3)
-- [PolitiFact: Obama's Heritage Foundation claim](https://www.politifact.com/factchecks/2010/apr/01/barack-obama/obama-says-heritage-foundation-source-health-excha/) (Tier 2)
-- [Politico: Heritage Foundation's 50-year history](https://www.politico.com/news/magazine/2021/05/22/health-care-individual-mandate-policy-conservative-idea-history-489956) (Tier 2)
-- [Politico: DonorsTrust 2021 anonymous donations](https://www.politico.com/news/2022/11/16/two-anonymous-425-million-donations-gives-dark-money-conservative-group-a-massive-haul-00067493) (Tier 2)
-- [Politico: Koch Brothers and Heritage Action donation](https://www.politico.com/story/2013/10/koch-brothers-heritage-action-donation-098054) (Tier 2)
+- [ProPublica Nonprofit Explorer: Heritage Foundation 990 filings](https://projects.propublica.org/nonprofits/organizations/237327730) (Tier 1) (VERIFIED)
+- [ProPublica Nonprofit Explorer: Heritage Foundation 2023 Full Filing](https://projects.propublica.org/nonprofits/organizations/237327730/202311789349301501/full) (Tier 1) (VERIFIED)
+- [Heritage Foundation: Consolidated Financial Statement 2024](https://static.heritage.org/2024/Heritage%20Foundation_23%20FS.pdf) (Tier 1) (VERIFIED)
+- [Heritage Foundation: Financial Information page](https://www.heritage.org/financial) (Tier 1) (VERIFIED)
+- [OpenSecrets: Heritage Foundation organizational profile](https://www.opensecrets.org/orgs/heritage-foundation/summary?id=D000034435) (Tier 1) (VERIFIED)
+- [DeSmog: 6 Billionaire Fortunes Bankrolling Project 2025](https://www.desmog.com/2024/08/14/project-2025-billionaire-donor-heritage-foundation-donald-trump-jd-vance-charles-koch-peter-coors/) (Tier 2) (VERIFIED)
+- [DeSmog: Mapped. How 6 Billionaire Family Fortunes Fund Project 2025](https://www.desmog.com/2024/10/25/project-2025-trump-mapped-how-6-billionaire-family-fortunes-fund-climate-denial/) (Tier 2) (VERIFIED)
+- ~~[DeSmog: MAPPED, 70 Percent of Trump's Cabinet Tied to Project 2025 Groups](https://www.desmog.com/2025/06/02/map-70-percent-trump-cabinet-tie-project-2025-heritage-afpi-convention-states-dunn-doge/ject-2025-heritage-afpi-convention-states-dunn-doge/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [ProPublica: Heritage Foundation Staffers Flood Federal Agencies With Thousands of Information Requests](https://www.propublica.org/article/have-government-employees-mentioned-climate-change-voting-or-gender-identity-the-heritage-foundation-wants-to-know) (Tier 2) (VERIFIED)
+- [Revolving Door Project: Former Trump Officials Wrote 25 of the 30 Chapters in the Project 2025 Playbook](https://therevolvingdoorproject.org/former-trump-officials-wrote-25-of-the-30-chapters-in-the-project-2025-playbook/) (Tier 2) (VERIFIED)
+- [Revolving Door Project: Heritage Lays the Foundation for Schedule F](https://therevolvingdoorproject.org/heritage-lays-the-foundation-for-schedule-f/) (Tier 2) (VERIFIED)
+- [NBC News: Donations Surged to Groups Linked to Conservative Project 2025](https://www.nbcnews.com/politics/2024-election/donations-surged-groups-linked-conservative-project-2025-rcna125638) (Tier 2) (VERIFIED)
+- [Media Matters: Project 2025 Organizer Heritage Foundation Gave $1 Million for Trump's Convention](https://www.mediamatters.org/project-2025/project-2025-organizer-heritage-foundation-gave-1-million-trumps-convention) (Tier 2) (VERIFIED)
+- [Campaign Legal Center: CLC Sues Heritage Action for Violating Disclosure Laws](https://campaignlegal.org/update/clc-sues-secret-money-group-heritage-action-violating-disclosure-laws) (Tier 2) (VERIFIED)
+- [19th News: How Much of Project 2025 Has Been Implemented?](https://19thnews.org/2025/12/project-2025-heritage-foundation-progress/) (Tier 2) (VERIFIED)
+- ~~[Axios: Project 2025 Architects Lay Out 2026 Policy Vision](https://www.axios.com/2025/12/09/trump-china-project-2026-2025-policy-heritage-foundation-abortion)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Newsweek: Heritage Foundation Project 2026 Plan Released](https://www.newsweek.com/project-2026-heritage-foundation-document-11183162) (Tier 2) (VERIFIED)
+- ~~[PR Watch: Koch, Bradley Money Fuels Trump's Right-Wing Echo Chamber](https://www.prwatch.org/news/2019/07/13482/koch-bradley-money-fuels-trumps-right-wing-echo-chamber)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [The Conversation: Heritage Foundation's 50-Year History of Steering GOP Lawmaking](https://theconversation.com/usheritage-foundations-project-2025-is-just-the-latest-action-plan-from-a-group-with-an-over-50-year-history-of-steering-gop-lawmaking-234542) (Tier 2) (NEEDS REVIEW)
+- [Climate Investigations Center: Heritage Foundation climate funding](https://climateinvestigations.org/heritage-foundation/) (Tier 2) (VERIFIED)
+- [World Resources Institute: Heritage Foundation Analysis of Climate Policy](https://www.wri.org/insights/heritage-foundation-gets-it-wrong-costs-and-benefits-climate-action) (Tier 2) (VERIFIED)
+- [Jacobin/The Lever: Dark Money Donor-Advised Funds Analysis](https://jacobin.com/2024/07/dark-money-donor-advised-funds) (Tier 2) (VERIFIED)
+- [Inequality.org: Fossil Fuel Philanthropy](https://inequality.org/article/fossil-fuel-philanthropy/) (Tier 2) (VERIFIED)
+- [Mother Jones: DeVos Family Funding Analysis](https://www.motherjones.com/politics/2014/01/devos-family-foundations-heritage-americans-prosperity-blackwater/) (Tier 2) (VERIFIED)
+- [Mother Jones: DonorsTrust as Dark Money ATM](https://www.motherjones.com/politics/2013/02/donors-trust-donor-capital-fund-dark-money-koch-bradley-devos/) (Tier 2) (VERIFIED)
+- [Cato Institute: Heritage Antitrust Contradiction Review](https://www.cato.org/blog/all-roads-lead-big-government-heritage-takes-big-tech) (Tier 2) (VERIFIED)
+- [Brennan Center: Project 2025 Criminal Justice Analysis](https://www.brennancenter.org/our-work/analysis-opinion/project-2025s-plan-criminal-justice-under-trump) (Tier 2) (VERIFIED)
+- [Vipul Naik Donation Database: Bradley Foundation to Heritage](https://donations.vipulnaik.com/donor.php?donor=The+Lynde+and+Harry+Bradley+Foundation) (Tier 1) (VERIFIED)
+- ~~[SourceWatch: Heritage Foundation donor profiles](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Heritage_Foundation)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [InfluenceWatch: Sarah Scaife Foundation and Heritage](https://www.influencewatch.org/non-profit/sarah-scaife-foundation/) (Tier 2) (VERIFIED)
+- [InfluenceWatch: Lynde and Harry Bradley Foundation](https://www.influencewatch.org/non-profit/lynde-and-harry-bradley-foundation-inc/) (Tier 2) (VERIFIED)
+- [ACLU: Project 2025, Explained](https://www.aclu.org/project-2025-explained) (Tier 3) (VERIFIED)
+- [Wikipedia: The Heritage Foundation](https://en.wikipedia.org/wiki/The_Heritage_Foundation) (Tier 3) (VERIFIED)
+- [Wikipedia: Project 2025](https://en.wikipedia.org/wiki/Project_2025) (Tier 3) (VERIFIED)
+- [PolitiFact: Obama's Heritage Foundation claim](https://www.politifact.com/factchecks/2010/apr/01/barack-obama/obama-says-heritage-foundation-source-health-excha/) (Tier 2) (VERIFIED)
+- [Politico: Heritage Foundation's 50-year history](https://www.politico.com/news/magazine/2021/05/22/health-care-individual-mandate-policy-conservative-idea-history-489956) (Tier 2) (VERIFIED)
+- [Politico: DonorsTrust 2021 anonymous donations](https://www.politico.com/news/2022/11/16/two-anonymous-425-million-donations-gives-dark-money-conservative-group-a-massive-haul-00067493) (Tier 2) (VERIFIED)
+- [Politico: Koch Brothers and Heritage Action donation](https://www.politico.com/story/2013/10/koch-brothers-heritage-action-donation-098054) (Tier 2) (VERIFIED)
 
 ---
 
@@ -492,7 +492,7 @@ The December 2025 staff exodus, 12+ senior Heritage employees leaving over antis
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [5493006YU7R03XUJSX56](https://search.gleif.org/#/record/5493006YU7R03XUJSX56) |
+| LEI | [5493006YU7R03XUJSX56](https://search.gleif.org/#/record/5493006YU7R03XUJSX56) (VERIFIED) |
 | Legal Name | Heritage Foundation (The) |
 | Jurisdiction | US-DC |
 | Entity Status | ACTIVE |
@@ -500,7 +500,7 @@ The December 2025 staff exodus, 12+ senior Heritage employees leaving over antis
 | Registration | LAPSED |
 | Last Updated | 2023-08-04T15:54:36Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Foreign Agent Activity (FARA)
@@ -516,7 +516,7 @@ The December 2025 staff exodus, 12+ senior Heritage employees leaving over antis
 **Foreign principals:**
 - Korean Cultural Heritage Administration through the Overseas Korean Cultural Heritage Foundation (KOREA SOUTH)
 
-- [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Heritage%20Foundation) (Tier 1)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Heritage%20Foundation)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:fara-foreign-agents end -->
 
 ### Federal Register Activity
@@ -531,13 +531,13 @@ The December 2025 staff exodus, 12+ senior Heritage employees leaving over antis
 | Agencies | Commodity Futures Trading Commission, Education Department, Employment and Training Administration, Energy Department, Executive Office of the President, Federal Communications Commission, Federal Railroad Administration, Federal Trade Commission +7 more |
 
 **Recent regulatory activity:**
-- [Improving Wage Protections for the Temporary and Permanent Employment of Certain Foreign Nationals in the United States](https://www.federalregister.gov/documents/2026/03/27/2026-06017/improving-wage-protections-for-the-temporary-and-permanent-employment-of-certain-foreign-nationals) (2026-03-27) — Labor Department
-- [Protecting Against National Security Threats to the Communications Supply Chain Through the Equipment Authorization Program](https://www.federalregister.gov/documents/2025/11/25/2025-21001/protecting-against-national-security-threats-to-the-communications-supply-chain-through-the) (2025-11-25) — Federal Communications Commission
-- [Applications for New Awards; Fund for the Improvement of Postsecondary Education-Special Projects (FIPSE-SP)](https://www.federalregister.gov/documents/2025/11/12/2025-19843/applications-for-new-awards-fund-for-the-improvement-of-postsecondary-education-special-projects) (2025-11-12) — Education Department
-- [Removal of the Automatic Extension of Employment Authorization Documents](https://www.federalregister.gov/documents/2025/10/30/2025-19702/removal-of-the-automatic-extension-of-employment-authorization-documents) (2025-10-30) — Homeland Security Department
-- [Review of Submarine Cable Landing License Rules and Procedures To Assess Evolving National Security, Law Enforcement, Foreign Policy, and Trade Policy Risks](https://www.federalregister.gov/documents/2025/10/27/2025-19658/review-of-submarine-cable-landing-license-rules-and-procedures-to-assess-evolving-national-security) (2025-10-27) — Federal Communications Commission
-- [Promoting the Integrity and Security of Telecommunications Certification Bodies, Measurement Facilities, and the Equipment Authorization Program](https://www.federalregister.gov/documents/2025/08/07/2025-14970/promoting-the-integrity-and-security-of-telecommunications-certification-bodies-measurement) (2025-08-07) — Federal Communications Commission
+- ~~[Improving Wage Protections for the Temporary and Permanent Employment of Certain Foreign Nationals in the United States](https://www.federalregister.gov/documents/2026/03/27/2026-06017/improving-wage-protections-for-the-temporary-and-permanent-employment-of-certain-foreign-nationals)~~ (URL broken, archived by Ops) (2026-03-27) — Labor Department
+- [Protecting Against National Security Threats to the Communications Supply Chain Through the Equipment Authorization Program](https://www.federalregister.gov/documents/2025/11/25/2025-21001/protecting-against-national-security-threats-to-the-communications-supply-chain-through-the) (VERIFIED) (2025-11-25) — Federal Communications Commission
+- [Applications for New Awards; Fund for the Improvement of Postsecondary Education-Special Projects (FIPSE-SP)](https://www.federalregister.gov/documents/2025/11/12/2025-19843/applications-for-new-awards-fund-for-the-improvement-of-postsecondary-education-special-projects) (VERIFIED) (2025-11-12) — Education Department
+- [Removal of the Automatic Extension of Employment Authorization Documents](https://www.federalregister.gov/documents/2025/10/30/2025-19702/removal-of-the-automatic-extension-of-employment-authorization-documents) (VERIFIED) (2025-10-30) — Homeland Security Department
+- [Review of Submarine Cable Landing License Rules and Procedures To Assess Evolving National Security, Law Enforcement, Foreign Policy, and Trade Policy Risks](https://www.federalregister.gov/documents/2025/10/27/2025-19658/review-of-submarine-cable-landing-license-rules-and-procedures-to-assess-evolving-national-security) (VERIFIED) (2025-10-27) — Federal Communications Commission
+- [Promoting the Integrity and Security of Telecommunications Certification Bodies, Measurement Facilities, and the Equipment Authorization Program](https://www.federalregister.gov/documents/2025/08/07/2025-14970/promoting-the-integrity-and-security-of-telecommunications-certification-bodies-measurement) (VERIFIED) (2025-08-07) — Federal Communications Commission
 - ... and 133 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Heritage%20Foundation%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Heritage%20Foundation%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->

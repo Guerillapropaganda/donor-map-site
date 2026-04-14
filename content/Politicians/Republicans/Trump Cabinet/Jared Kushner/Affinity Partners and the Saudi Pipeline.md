@@ -74,5 +74,5 @@ Senator Ron Wyden's investigation found evidence that Kushner "acted as an unreg
 
 ### Sources
 
-- [Senate Finance Committee: Wyden investigation, fee projections, "foreign agent" finding](https://www.finance.senate.gov/chairmans-news) (Tier 1)
+- [Senate Finance Committee: Wyden investigation, fee projections, "foreign agent" finding](https://www.finance.senate.gov/chairmans-news) (Tier 1) (VERIFIED)
 

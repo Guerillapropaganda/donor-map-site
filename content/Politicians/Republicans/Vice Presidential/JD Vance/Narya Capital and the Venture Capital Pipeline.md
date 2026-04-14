@@ -147,22 +147,22 @@ Standard conflict-of-interest enforcement mechanisms fail in this scenario:
 ### Sources
 
 ### Tier 1 (Primary/Government):
-- [FEC: JD VANCE FOR SENATE INC. - committee overview](https://www.fec.gov/data/committee/C00783142/?cycle=2024) (Tier 1)
-- [OpenSecrets.org: Sen. J D Vance Financial Disclosures](https://www.fec.gov/data/candidate/S2OH00436/) (Tier 1)
-- [Congress.gov: J. D. Vance voting record](https://www.congress.gov/member/j-vance/V000137) (Tier 1)
+- [FEC: JD VANCE FOR SENATE INC. - committee overview](https://www.fec.gov/data/committee/C00783142/?cycle=2024) (Tier 1) (VERIFIED)
+- [OpenSecrets.org: Sen. J D Vance Financial Disclosures](https://www.fec.gov/data/candidate/S2OH00436/) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: J. D. Vance voting record](https://www.congress.gov/member/j-vance/V000137)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ### Tier 2 (Major Journalism):
-- [Accountable.US: VP Vance Retained Stake In Venture Capital Fund](https://accountable.us/report-vp-vance-retained-stake-in-venture-capital-fund-invested-in-multiple-defense-contractors-awarded-millions-by-the-trump-administration/) (Tier 2)
-- [Read Sludge: Vance Owns Investments in Companies Receiving Defense Contracts](https://readsludge.com/2025/07/10/vance-owns-investments-in-companies-receiving-defense-contracts/) (Tier 2)
-- [Washington Post: Inside the powerful Peter Thiel tech network that launched JD Vance](https://www.washingtonpost.com/technology/2024/07/28/jd-vance-peter-thiel-donors-big-tech-trump-vp/) (Tier 2)
+- [Accountable.US: VP Vance Retained Stake In Venture Capital Fund](https://accountable.us/report-vp-vance-retained-stake-in-venture-capital-fund-invested-in-multiple-defense-contractors-awarded-millions-by-the-trump-administration/) (Tier 2) (NEEDS REVIEW)
+- [Read Sludge: Vance Owns Investments in Companies Receiving Defense Contracts](https://readsludge.com/2025/07/10/vance-owns-investments-in-companies-receiving-defense-contracts/) (Tier 2) (VERIFIED)
+- [Washington Post: Inside the powerful Peter Thiel tech network that launched JD Vance](https://www.washingtonpost.com/technology/2024/07/28/jd-vance-peter-thiel-donors-big-tech-trump-vp/) (Tier 2) (VERIFIED)
 
 ### Tier 3 (Aggregators & Government Data):
-- [OpenSecrets.org: Vance financial disclosures and defense contractor donations](https://www.fec.gov/data/candidate/S2OH00436/) (Tier 3)
-- [Ballotpedia: J.D. Vance voting record](https://ballotpedia.org/J.D._Vance) (Tier 3)
+- [OpenSecrets.org: Vance financial disclosures and defense contractor donations](https://www.fec.gov/data/candidate/S2OH00436/) (Tier 3) (VERIFIED)
+- [Ballotpedia: J.D. Vance voting record](https://ballotpedia.org/J.D._Vance) (Tier 3) (VERIFIED)
 
 ### Tier 4 (Investigative Analysis):
-- [Revolving Door Project: Oligarchs and the Trump Admin - Peter Thiel](https://therevolvingdoorproject.org/billionaires-and-the-trump-admin-peter-thiel/) (Tier 4)
-- [Fortune: How Peter Thiel's network of right-wing techies is infiltrating Trump's White House](https://fortune.com/2024/12/07/peter-thiel-network-trump-white-house-elon-musk-david-sacks/) (Tier 4)
+- [Revolving Door Project: Oligarchs and the Trump Admin - Peter Thiel](https://therevolvingdoorproject.org/billionaires-and-the-trump-admin-peter-thiel/) (Tier 4) (VERIFIED)
+- [Fortune: How Peter Thiel's network of right-wing techies is infiltrating Trump's White House](https://fortune.com/2024/12/07/peter-thiel-network-trump-white-house-elon-musk-david-sacks/) (Tier 4) (VERIFIED)
 
 ---
 

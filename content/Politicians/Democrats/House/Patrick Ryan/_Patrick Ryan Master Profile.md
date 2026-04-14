@@ -46,5 +46,5 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 - RYAN, Damion Patrick John (individual) [IRAN-HR]
   - Remarks: DOB 14 Oct 1980; POB Canada; nationality Canada; Additional Sanctions Information - Subject to Secondary Sanctions; Gender Male; Passport WQ097521 (Canada); alt. Passport HK184430 (Canada) expires 15 ...
 
-- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->

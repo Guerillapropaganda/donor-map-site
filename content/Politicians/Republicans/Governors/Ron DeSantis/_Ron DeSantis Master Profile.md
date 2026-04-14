@@ -171,49 +171,49 @@ DeSantis's second gubernatorial term ends in January 2027. He is term-limited an
 
 | # | Title | Date | Link |
 |---|-------|------|------|
-| 1 | #2026-76 declares a vacancy on the Manatee County Board of County Commissioners | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-76.pdf) |
-| 2 | #2026-75 extends Executive Order 23-03 – Emergency Management – Illegal Immig... | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-75.pdf) |
-| 3 | #2026-74 extends Executive Order 24-214 – Emergency Management – Hurricane Mi... | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-74.pdf) |
-| 4 | #2026-73 extends Executive Order 25-80 re: Brett Duncan Arquette | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-73.pdf) |
-| 5 | #2026-72 extends Executive Order 25-84 re: Jerome Sanders | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-72.pdf) |
-| 6 | #2026-71 extends Executive Order 25-93 re: Ryan Michael Johnson | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-71.pdf) |
-| 7 | #2026-70 extends Executive Order 25-78 re: Jose Gonzalez | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-70.pdf) |
-| 8 | #2026-69 assigns the 11th circuit to the 17th circuit re: Henry Moya a.k.a. H... | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-69.pdf) |
-| 9 | #2026-68 assigns the 20th circuit to the 17th circuit re: Jedson Durosene | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-68.pdf) |
-| 10 | #2026-67 extends Executive Order 25-73 re: Richard L. Ellwood | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-67.pdf) |
-| 11 | #2026-66 extends Executive Order 25-165 re: Todd Watson | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-66.pdf) |
-| 12 | #2026-65 extends Executive Order 25-52 re: Samantha Rae Butler | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-65.pdf) |
-| 13 | #2026-64 extends Executive Order 25-35 re: Christopher Devon Butler | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-64.pdf) |
-| 14 | #2026-63 assigns the 17th circuit to the 11th circuit re: Mark Junior Williams | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-63.pdf) |
-| 15 | #2026-62 assigns the 17th circuit to the 15th circuit re: Joel Antonio Vega | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-62.pdf) |
-| 16 | #2026-61 assigns the 8th circuit to the 3rd circuit re: Travis Delvin Koon | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-61.pdf) |
-| 17 | #2026-59 extends Executive Order 24-156– Emergency Management – Hurricane Debby | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-59.pdf) |
-| 18 | #2026-58 extends Executive Order 24-208 – Emergency Management – Hurricane He... | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-58.pdf) |
-| 19 | #2026-57 extends Executive Order 25-101 – Emergency Management – Northwest Fl... | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-57.pdf) |
-| 20 | #2026-56 amends Executive Order 23-132 – Rural Area of Opportunity | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-56.pdf) |
-| 21 | #2026-55 extends Executive Order 25-64 re: Kenneth Robert Kelly | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-55.pdf) |
-| 22 | #2026-54 extends Executive Order 25-40 re: John S. Huggins | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-54.pdf) |
-| 23 | #2026-53 extends Executive Order 25-39 re: Dolan Darling a.k.a. Sean Hector S... | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-53.pdf) |
-| 24 | #2026-52 extends Executive Order 25-38 re: Dane Patrick Abdool | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-52.pdf) |
-| 25 | Executive Orders | N/A | [Link](https://www.flgov.com/eog/news/executive-orders) |
+| 1 | #2026-76 declares a vacancy on the Manatee County Board of County Commissioners | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-76.pdf) (VERIFIED) |
+| 2 | #2026-75 extends Executive Order 23-03 – Emergency Management – Illegal Immig... | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-75.pdf) (VERIFIED) |
+| 3 | #2026-74 extends Executive Order 24-214 – Emergency Management – Hurricane Mi... | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-74.pdf) (VERIFIED) |
+| 4 | #2026-73 extends Executive Order 25-80 re: Brett Duncan Arquette | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-73.pdf) (VERIFIED) |
+| 5 | #2026-72 extends Executive Order 25-84 re: Jerome Sanders | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-72.pdf) (VERIFIED) |
+| 6 | #2026-71 extends Executive Order 25-93 re: Ryan Michael Johnson | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-71.pdf) (VERIFIED) |
+| 7 | #2026-70 extends Executive Order 25-78 re: Jose Gonzalez | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-70.pdf) (VERIFIED) |
+| 8 | #2026-69 assigns the 11th circuit to the 17th circuit re: Henry Moya a.k.a. H... | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-69.pdf) (VERIFIED) |
+| 9 | #2026-68 assigns the 20th circuit to the 17th circuit re: Jedson Durosene | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-68.pdf) (VERIFIED) |
+| 10 | #2026-67 extends Executive Order 25-73 re: Richard L. Ellwood | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-67.pdf) (VERIFIED) |
+| 11 | #2026-66 extends Executive Order 25-165 re: Todd Watson | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-66.pdf) (VERIFIED) |
+| 12 | #2026-65 extends Executive Order 25-52 re: Samantha Rae Butler | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-65.pdf) (VERIFIED) |
+| 13 | #2026-64 extends Executive Order 25-35 re: Christopher Devon Butler | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-64.pdf) (VERIFIED) |
+| 14 | #2026-63 assigns the 17th circuit to the 11th circuit re: Mark Junior Williams | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-63.pdf) (VERIFIED) |
+| 15 | #2026-62 assigns the 17th circuit to the 15th circuit re: Joel Antonio Vega | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-62.pdf) (VERIFIED) |
+| 16 | #2026-61 assigns the 8th circuit to the 3rd circuit re: Travis Delvin Koon | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-61.pdf) (VERIFIED) |
+| 17 | #2026-59 extends Executive Order 24-156– Emergency Management – Hurricane Debby | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-59.pdf) (VERIFIED) |
+| 18 | #2026-58 extends Executive Order 24-208 – Emergency Management – Hurricane He... | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-58.pdf) (VERIFIED) |
+| 19 | #2026-57 extends Executive Order 25-101 – Emergency Management – Northwest Fl... | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-57.pdf) (VERIFIED) |
+| 20 | #2026-56 amends Executive Order 23-132 – Rural Area of Opportunity | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-56.pdf) (VERIFIED) |
+| 21 | #2026-55 extends Executive Order 25-64 re: Kenneth Robert Kelly | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-55.pdf) (VERIFIED) |
+| 22 | #2026-54 extends Executive Order 25-40 re: John S. Huggins | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-54.pdf) (VERIFIED) |
+| 23 | #2026-53 extends Executive Order 25-39 re: Dolan Darling a.k.a. Sean Hector S... | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-53.pdf) (VERIFIED) |
+| 24 | #2026-52 extends Executive Order 25-38 re: Dane Patrick Abdool | N/A | [Link](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-52.pdf) (VERIFIED) |
+| 25 | Executive Orders | N/A | [Link](https://www.flgov.com/eog/news/executive-orders) (VERIFIED) |
 
-- [Source: FL Governor's Office](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-76.pdf) (Tier 1)
+- [Source: FL Governor's Office](https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-76.pdf) (Tier 1) (VERIFIED)
 <!-- auto:governor-exec-actions end -->
 
 ## Sources
 
-- [OpenSecrets: Ron DeSantis 2024 Presidential Summary](https://www.opensecrets.org/2024-presidential-race/ron-desantis/candidate?id=N00034746) (Tier 1)
-- [OpenSecrets: DeSantis 2022 Contributors and Donors](https://www.opensecrets.org/2024-presidential-race/ron-desantis/contributors?id=N00034746) (Tier 1)
-- [FEC: Ron DeSantis Candidate Overview](https://www.fec.gov/data/candidate/P40013039/) (Tier 1)
-- [League of Conservation Voters: Ron DeSantis scorecard](https://www.lcv.org/moc/ron-desantis/) (Tier 1)
-- [Orlando Sentinel: DeSantis and super PAC spent $158.5 million during presidential run](https://www.orlandosentinel.com/2024/02/01/desantis-super-pac-spent-158-5-million-during-presidential-run-in-2023/) (Tier 2)
-- [Washington Post: Inside the collapse of Ron DeSantis's campaign funding experiment](https://www.washingtonpost.com/politics/2023/12/16/desantis-super-pac-collapse/) (Tier 2)
-- [CNBC: Billionaire Ken Griffin, former DeSantis donor, sits out GOP primary](https://www.cnbc.com/2023/09/18/billionaire-ken-griffin-former-desantis-donor-sits-out-gop-primary.html) (Tier 2)
-- [CNBC: Ken Griffin becomes GOP $100 million midterm megadonor](https://www.cnbc.com/2022/10/07/citadels-ceo-ken-griffin-becomes-gop-100-million-midterm-megadonor.html) (Tier 2)
-- [NBC News: Never Back Down super PAC details and campaign outsourcing](https://www.nbcnews.com/politics/2024-election/travel-costs-staff-ads-added-ron-desantis-dropped-rcna136501) (Tier 2)
-- [CNBC: Disney and Florida settle lawsuits over DeSantis special district fight](https://www.cnbc.com/2024/03/27/disney-and-florida-settle-lawsuits-over-desantis-special-district-fight-dont-say-gay-bill.html) (Tier 2)
-- [NBC News: Club for Growth post-Trump positioning](https://www.nbcnews.com/meet-the-press/meetthepressblog/eyes-2024-club-post-trump-growth-rcna69468) (Tier 2)
-- [FactCheck.org: Never Back Down Inc.](https://www.factcheck.org/2024/01/never-back-down-inc/) (Tier 2)
+- [OpenSecrets: Ron DeSantis 2024 Presidential Summary](https://www.opensecrets.org/2024-presidential-race/ron-desantis/candidate?id=N00034746) (Tier 1) (VERIFIED)
+- [OpenSecrets: DeSantis 2022 Contributors and Donors](https://www.opensecrets.org/2024-presidential-race/ron-desantis/contributors?id=N00034746) (Tier 1) (VERIFIED)
+- [FEC: Ron DeSantis Candidate Overview](https://www.fec.gov/data/candidate/P40013039/) (Tier 1) (VERIFIED)
+- [League of Conservation Voters: Ron DeSantis scorecard](https://www.lcv.org/moc/ron-desantis/) (Tier 1) (VERIFIED)
+- [Orlando Sentinel: DeSantis and super PAC spent $158.5 million during presidential run](https://www.orlandosentinel.com/2024/02/01/desantis-super-pac-spent-158-5-million-during-presidential-run-in-2023/) (Tier 2) (VERIFIED)
+- [Washington Post: Inside the collapse of Ron DeSantis's campaign funding experiment](https://www.washingtonpost.com/politics/2023/12/16/desantis-super-pac-collapse/) (Tier 2) (VERIFIED)
+- [CNBC: Billionaire Ken Griffin, former DeSantis donor, sits out GOP primary](https://www.cnbc.com/2023/09/18/billionaire-ken-griffin-former-desantis-donor-sits-out-gop-primary.html) (Tier 2) (VERIFIED)
+- [CNBC: Ken Griffin becomes GOP $100 million midterm megadonor](https://www.cnbc.com/2022/10/07/citadels-ceo-ken-griffin-becomes-gop-100-million-midterm-megadonor.html) (Tier 2) (VERIFIED)
+- [NBC News: Never Back Down super PAC details and campaign outsourcing](https://www.nbcnews.com/politics/2024-election/travel-costs-staff-ads-added-ron-desantis-dropped-rcna136501) (Tier 2) (VERIFIED)
+- [CNBC: Disney and Florida settle lawsuits over DeSantis special district fight](https://www.cnbc.com/2024/03/27/disney-and-florida-settle-lawsuits-over-desantis-special-district-fight-dont-say-gay-bill.html) (Tier 2) (VERIFIED)
+- [NBC News: Club for Growth post-Trump positioning](https://www.nbcnews.com/meet-the-press/meetthepressblog/eyes-2024-club-post-trump-growth-rcna69468) (Tier 2) (VERIFIED)
+- [FactCheck.org: Never Back Down Inc.](https://www.factcheck.org/2024/01/never-back-down-inc/) (Tier 2) (VERIFIED)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -236,7 +236,7 @@ DeSantis's second gubernatorial term ends in January 2027. He is term-limited an
 | GOOD FIGHT | $5,549,500 | $0 |
 | READY TO WIN | $1,000,000 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/P40013039/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/P40013039/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Sanctions & PEP Screening (OpenSanctions)
@@ -250,9 +250,9 @@ DeSantis's second gubernatorial term ends in January 2027. He is term-limited an
 | Topics | role.pep, poi, role.rca, role.pol |
 
 **Matched records:**
-- [Ron DeSantis](https://www.opensanctions.org/entities/Q3105215/) — 100% match (ann_pep_positions, wd_categories, everypolitician)
+- [Ron DeSantis](https://www.opensanctions.org/entities/Q3105215/) (VERIFIED) — 100% match (ann_pep_positions, wd_categories, everypolitician)
 
-- [Source: OpenSanctions](https://www.opensanctions.org/search/?q=Ron%20DeSantis) (Tier 1)
+- [Source: OpenSanctions](https://www.opensanctions.org/search/?q=Ron%20DeSantis) (Tier 1) (VERIFIED)
 <!-- auto:opensanctions end -->
 
 ### Campaign Finance Summary (FEC)

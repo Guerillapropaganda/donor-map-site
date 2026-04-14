@@ -48,8 +48,8 @@ TMTG's political significance is structural: the company gives Trump personal fi
 
 ### Sources
 
-- [SEC: Trump Media & Technology Group filings](https://www.sec.gov/cgi-bin/browse-edgar?company=Trump%20Media%20%26%20Technology%20Group&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)
-- [Ballotpedia: Trump Media](https://ballotpedia.org/Trump_Media_&_Technology_Group) (Tier 3)
+- [SEC: Trump Media & Technology Group filings](https://www.sec.gov/cgi-bin/browse-edgar?company=Trump%20Media%20%26%20Technology%20Group&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1) (VERIFIED)
+- [Ballotpedia: Trump Media](https://ballotpedia.org/Trump_Media_&_Technology_Group) (Tier 3) (VERIFIED)
 
 ### Federal Contracts
 <!-- auto:sam-contracts start -->
@@ -72,7 +72,7 @@ TMTG's political significance is structural: the company gives Trump personal fi
 | $12K | DEPT OF DEFENSE | 2008-08-09 |
 | $4K | DEPT OF DEFENSE | 2006-09-01 |
 
-- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Trump%20Media%20%26%20Technology%20Group&page=1&index=opp) (Tier 1)
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Trump%20Media%20%26%20Technology%20Group&page=1&index=opp) (Tier 1) (VERIFIED)
 <!-- auto:sam-contracts end -->
 
 ### Influence Network (Cross-Reference)
@@ -104,7 +104,7 @@ TMTG's political significance is structural: the company gives Trump personal fi
 - MEDIA LAND TECHNOLOGY LIMITED LIABILITY COMPANY (-0-) [CAATSA - RUSSIA] [CYBER4]
   - Remarks: Secondary sanctions risk: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201; Organization Established Date 14 Sep 2022; Tax ID No. 4727007790 (Russia); Registration Number 1224700016089 (R...
 
-- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
 ### DOJ Press Releases
@@ -126,14 +126,14 @@ TMTG's political significance is structural: the company gives Trump personal fi
 - Alexandra Marie Dean v. Donald J. Trump (2025) — District Court, C.D. California
 - Trump Media & Technology Group Corp. v. ARC Global Investments II LLC (2024) — District Court, M.D. Florida
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Trump%20Media%20%26%20Technology%20Group%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Trump%20Media%20%26%20Technology%20Group%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [6488S3A83U2SRQ48O215](https://search.gleif.org/#/record/6488S3A83U2SRQ48O215) |
+| LEI | [6488S3A83U2SRQ48O215](https://search.gleif.org/#/record/6488S3A83U2SRQ48O215) (VERIFIED) |
 | Legal Name | TRUMP MEDIA & TECHNOLOGY GROUP, CORP. |
 | Jurisdiction | US-DE |
 | Entity Status | ACTIVE |
@@ -141,5 +141,5 @@ TMTG's political significance is structural: the company gives Trump personal fi
 | Registration | ISSUED |
 | Last Updated | 2026-02-26T11:45:29Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->

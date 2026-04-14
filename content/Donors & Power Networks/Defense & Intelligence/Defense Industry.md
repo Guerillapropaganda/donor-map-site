@@ -73,15 +73,15 @@ See [[Defense Industry Bloc]], [[Defense Contractors]], and [[Defense Contractor
 | Total Expenses | $65K |
 | Net Assets | $202K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 42982768](https://projects.propublica.org/nonprofits/organizations/42982768) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 42982768](https://projects.propublica.org/nonprofits/organizations/42982768) (Tier 1) (VERIFIED)
 
 <!-- auto:propublica-990 end -->
 
 ### Sources
 
-- [FEC Receipts: Defense sector](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- [DOD: Budget data](https://comptroller.defense.gov/Budget-Materials/) (Tier 1)
-- [Ballotpedia: Defense industry](https://ballotpedia.org/Defense_Industry) (Tier 3)
+- [FEC Receipts: Defense sector](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
+- [DOD: Budget data](https://comptroller.defense.gov/Budget-Materials/) (Tier 1) (NEEDS REVIEW)
+- [Ballotpedia: Defense industry](https://ballotpedia.org/Defense_Industry) (Tier 3) (VERIFIED)
 
 ### Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
@@ -134,22 +134,22 @@ See [[Defense Industry Bloc]], [[Defense Contractors]], and [[Defense Contractor
 | Agencies | Air Force Department, Antitrust Division, Commerce Department, Defense Department, Environmental Protection Agency, Executive Office of the President, Federal Procurement Policy Office, General Services Administration +6 more |
 
 **Recent regulatory activity:**
-- [30-Day Notice of Proposed Information Collection: Request To Change End-User, End-Use and/or Destination of Hardware and Open General Licenses](https://www.federalregister.gov/documents/2026/03/31/2026-06209/30-day-notice-of-proposed-information-collection-request-to-change-end-user-end-use-andor) (2026-03-31) — State Department
-- [Defense Trade Advisory Group; Notice of Membership](https://www.federalregister.gov/documents/2026/03/19/2026-05408/defense-trade-advisory-group-notice-of-membership) (2026-03-19) — State Department
-- [Federal Acquisition Regulation: Prohibition on Certain Semiconductor Products and Services](https://www.federalregister.gov/documents/2026/02/17/2026-03065/federal-acquisition-regulation-prohibition-on-certain-semiconductor-products-and-services) (2026-02-17) — Management and Budget Office ★
-- [60-Day Notice of Proposed Information Collection: Request To Change End-User, End-Use and/or Destination of Hardware and Open General Licenses](https://www.federalregister.gov/documents/2026/01/21/2026-01018/60-day-notice-of-proposed-information-collection-request-to-change-end-user-end-use-andor) (2026-01-21) — State Department
-- [National Emission Standards for Hazardous Air Pollutants: Integrated Iron and Steel Manufacturing Facilities Technology Review](https://www.federalregister.gov/documents/2025/12/03/2025-21787/national-emission-standards-for-hazardous-air-pollutants-integrated-iron-and-steel-manufacturing) (2025-12-03) — Environmental Protection Agency
-- [Adjusting Imports of Medium- and Heavy-Duty Vehicles, Medium- and Heavy-Duty Vehicle Parts, and Buses Into the United States](https://www.federalregister.gov/documents/2025/10/22/2025-19639/adjusting-imports-of-medium--and-heavy-duty-vehicles-medium--and-heavy-duty-vehicle-parts-and-buses) (2025-10-22) — Executive Office of the President
+- [30-Day Notice of Proposed Information Collection: Request To Change End-User, End-Use and/or Destination of Hardware and Open General Licenses](https://www.federalregister.gov/documents/2026/03/31/2026-06209/30-day-notice-of-proposed-information-collection-request-to-change-end-user-end-use-andor) (VERIFIED) (2026-03-31) — State Department
+- ~~[Defense Trade Advisory Group; Notice of Membership](https://www.federalregister.gov/documents/2026/03/19/2026-05408/defense-trade-advisory-group-notice-of-membership)~~ (URL broken, archived by Ops) (2026-03-19) — State Department
+- [Federal Acquisition Regulation: Prohibition on Certain Semiconductor Products and Services](https://www.federalregister.gov/documents/2026/02/17/2026-03065/federal-acquisition-regulation-prohibition-on-certain-semiconductor-products-and-services) (VERIFIED) (2026-02-17) — Management and Budget Office ★
+- [60-Day Notice of Proposed Information Collection: Request To Change End-User, End-Use and/or Destination of Hardware and Open General Licenses](https://www.federalregister.gov/documents/2026/01/21/2026-01018/60-day-notice-of-proposed-information-collection-request-to-change-end-user-end-use-andor) (VERIFIED) (2026-01-21) — State Department
+- ~~[National Emission Standards for Hazardous Air Pollutants: Integrated Iron and Steel Manufacturing Facilities Technology Review](https://www.federalregister.gov/documents/2025/12/03/2025-21787/national-emission-standards-for-hazardous-air-pollutants-integrated-iron-and-steel-manufacturing)~~ (URL broken, archived by Ops) (2025-12-03) — Environmental Protection Agency
+- [Adjusting Imports of Medium- and Heavy-Duty Vehicles, Medium- and Heavy-Duty Vehicle Parts, and Buses Into the United States](https://www.federalregister.gov/documents/2025/10/22/2025-19639/adjusting-imports-of-medium--and-heavy-duty-vehicles-medium--and-heavy-duty-vehicle-parts-and-buses) (VERIFIED) (2025-10-22) — Executive Office of the President
 - ... and 194 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Defense%20Industry%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Defense%20Industry%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [5299006DUWIX3AEL2A58](https://search.gleif.org/#/record/5299006DUWIX3AEL2A58) |
+| LEI | [5299006DUWIX3AEL2A58](https://search.gleif.org/#/record/5299006DUWIX3AEL2A58) (VERIFIED) |
 | Legal Name | PLUS Korea Defense Industry Index ETF |
 | Jurisdiction | US-DE |
 | Entity Status | ACTIVE |
@@ -157,7 +157,7 @@ See [[Defense Industry Bloc]], [[Defense Contractors]], and [[Defense Contractor
 | Registration | ISSUED |
 | Last Updated | 2026-01-24T14:10:41Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Tax Filings (IRS 990)
@@ -175,14 +175,14 @@ See [[Defense Industry Bloc]], [[Defense Contractors]], and [[Defense Contractor
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/363929812/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/363929812/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/363929812/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/363929812/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/363929812/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/363929812/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/363929812/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/363929812/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/363929812/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/363929812/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/363929812) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/363929812) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Federal Court Records (CourtListener)
@@ -201,5 +201,5 @@ See [[Defense Industry Bloc]], [[Defense Contractors]], and [[Defense Contractor
 - PHILLYWINE LLC v. KSWCO LLC (2026) — District Court, E.D. Pennsylvania
 - United States v. BROWN (2026) — District Court, District of Columbia
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Defense%20Industry%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Defense%20Industry%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->

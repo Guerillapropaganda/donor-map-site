@@ -218,18 +218,18 @@ Lockheed Martin's PAC splits roughly 55% Republican, 45% Democrat. This is not a
 
 ### Sources
 
-- [Lockheed Martin Official Summary • OpenSecrets](https://www.opensecrets.org/orgs/lockheed-martin/summary?id=D000000104) (Tier 1)
-- [Lockheed Martin PAC Profile • OpenSecrets](https://www.opensecrets.org/political-action-committees-pacs/lockheed-martin/C00303024/summary/2024) (Tier 1)
-- [Lockheed Martin Lobbying Profile • OpenSecrets](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=D000000104) (Tier 1)
-- [Lockheed Martin 2024 PAC Disbursements (Official)](https://www.lockheedmartin.com/content/dam/lockheed-martin/eo/documents/governance/2024/LMEPAC-disbursements-2024.pdf) (Tier 1)
-- [F-35 Program Cost Estimates - Congressional Research Service](https://fas.org/publication/f-35-program-cost/) *(source unavailable)* (Tier 1)
-- [F-35 Lightning II: Background and Issues for Congress - CRS](https://sgp.fas.org/crs/weapons/RL33745.pdf) (Tier 1)
+- [Lockheed Martin Official Summary • OpenSecrets](https://www.opensecrets.org/orgs/lockheed-martin/summary?id=D000000104) (Tier 1) (VERIFIED)
+- [Lockheed Martin PAC Profile • OpenSecrets](https://www.opensecrets.org/political-action-committees-pacs/lockheed-martin/C00303024/summary/2024) (Tier 1) (VERIFIED)
+- [Lockheed Martin Lobbying Profile • OpenSecrets](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=D000000104) (Tier 1) (VERIFIED)
+- [Lockheed Martin 2024 PAC Disbursements (Official)](https://www.lockheedmartin.com/content/dam/lockheed-martin/eo/documents/governance/2024/LMEPAC-disbursements-2024.pdf) (Tier 1) (VERIFIED)
+- ~~[F-35 Program Cost Estimates - Congressional Research Service](https://fas.org/publication/f-35-program-cost/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 1)
+- [F-35 Lightning II: Background and Issues for Congress - CRS](https://sgp.fas.org/crs/weapons/RL33745.pdf) (Tier 1) (VERIFIED)
 
 ### Revolving Door — Tier 2:
-- [Project on Government Oversight: Brass Parachutes - The Problem of the Pentagon Revolving Door](https://www.pogo.org/reports/brass-parachutes) (Tier 2)
-- [Responsible Statecraft: When 80 percent of US generals go to work for arms makers](https://responsiblestatecraft.org/pentagon-revolving-door/) (Tier 2)
-- [Defense News: Lockheed adds Dunford, former top US military officer, to board](https://www.defensenews.com/industry/2020/01/25/lockheed-adds-dunford-former-top-us-military-officer-to-board/) (Tier 2)
-- [Costs of War: Profits of War - Top Beneficiaries of Pentagon Spending, 2020-2024](https://costsofwar.watson.brown.edu/papers/2025/MilitaryContractors) *(source unavailable)* (Tier 2)
+- ~~[Project on Government Oversight: Brass Parachutes - The Problem of the Pentagon Revolving Door](https://www.pogo.org/reports/brass-parachutes)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Responsible Statecraft: When 80 percent of US generals go to work for arms makers](https://responsiblestatecraft.org/pentagon-revolving-door/) (Tier 2) (VERIFIED)
+- [Defense News: Lockheed adds Dunford, former top US military officer, to board](https://www.defensenews.com/industry/2020/01/25/lockheed-adds-dunford-former-top-us-military-officer-to-board/) (Tier 2) (VERIFIED)
+- ~~[Costs of War: Profits of War - Top Beneficiaries of Pentagon Spending, 2020-2024](https://costsofwar.watson.brown.edu/papers/2025/MilitaryContractors)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
 
 ---
 
@@ -246,10 +246,10 @@ Lockheed Martin's PAC splits roughly 55% Republican, 45% Democrat. This is not a
 > [!money] The Iran War as Business Model
 > Lockheed Martin's stock jumped 3.4% the moment the bombs fell. THAAD production is being quadrupled at $12.77M/unit. Patriot and AMRAAM production scaling. The $200B supplemental arrives. The FY2026 budget already loaded munitions stockpiles. This is not coincidence — it is the operating logic of the military-industrial donor relationship made visible. Lockheed spent $13.5M lobbying in 2024. It is receiving **billions** in return. Track against Armed Services and Appropriations Committee members who vote yes on supplemental — cross-reference their donor maps.
 
-- [Time: Iran War Set to Boost Business For Defense Contractors](https://time.com/article/2026/03/19/trump-iran-war-set-to-boost-profits-for-these-defense-contractors/) (Tier 2)
-- [Jacobin: Defense Contractors Stand to Profit Off the Iran War](https://jacobin.com/2026/03/defense-contractors-military-iran-war) (Tier 2)
-- [Al Jazeera: Which US and Israeli military companies are profiting from the Iran war?](https://www.aljazeera.com/news/2026/3/9/which-us-and-israeli-military-companies-are-profiting-from-the-iran-war) (Tier 2)
-- [CNBC: Iran war — Trump meets with defense CEOs, Pete Hegseth](https://www.cnbc.com/2026/03/06/iran-war-trump-defense-companies-pete-hegseth.html) (Tier 2)
+- [Time: Iran War Set to Boost Business For Defense Contractors](https://time.com/article/2026/03/19/trump-iran-war-set-to-boost-profits-for-these-defense-contractors/) (Tier 2) (VERIFIED)
+- [Jacobin: Defense Contractors Stand to Profit Off the Iran War](https://jacobin.com/2026/03/defense-contractors-military-iran-war) (Tier 2) (VERIFIED)
+- [Al Jazeera: Which US and Israeli military companies are profiting from the Iran war?](https://www.aljazeera.com/news/2026/3/9/which-us-and-israeli-military-companies-are-profiting-from-the-iran-war) (Tier 2) (VERIFIED)
+- [CNBC: Iran war — Trump meets with defense CEOs, Pete Hegseth](https://www.cnbc.com/2026/03/06/iran-war-trump-defense-companies-pete-hegseth.html) (Tier 2) (VERIFIED)
 
 ### March 24, 2026 — Reconciliation Burn Rate + Hormuz Pause
 
@@ -257,8 +257,8 @@ Lockheed Martin's PAC splits roughly 55% Republican, 45% Democrat. This is not a
 
 **Hormuz pause does not affect revenue:** Trump's five-day pause on strikes against Iran's power plants (March 24) does not affect ongoing combat operations — CENTCOM reports 9,000+ targets struck, 9,000+ combat flights. Munitions expenditure (JASSM-ER, Patriot, THAAD) continues at wartime rates regardless of the diplomatic pause. The pause is political messaging; the procurement pipeline is unaffected.
 
-- [Breaking Defense: Pentagon plans to spend all $152B reconciliation in FY26](https://breakingdefense.com/2026/02/reconciliation-revealed-how-the-pentagon-plans-to-spend-all-152-billion-in-fy26/) (Tier 2)
-- [CBS News: Trump calls off Hormuz ultimatum](https://www.cbsnews.com/live-updates/iran-war-us-israel-trump-ultimatum-strait-of-hormuz/) (Tier 2)
+- [Breaking Defense: Pentagon plans to spend all $152B reconciliation in FY26](https://breakingdefense.com/2026/02/reconciliation-revealed-how-the-pentagon-plans-to-spend-all-152-billion-in-fy26/) (Tier 2) (VERIFIED)
+- [CBS News: Trump calls off Hormuz ultimatum](https://www.cbsnews.com/live-updates/iran-war-us-israel-trump-ultimatum-strait-of-hormuz/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -303,7 +303,7 @@ Lockheed Martin's PAC splits roughly 55% Republican, 45% Democrat. This is not a
 | $8.9M | Department of Defense | FUTURE ADVANCED ROTORCRAFT DRIVE SYSTEM |
 | $7.7M | Department of Defense | HIGH SPEED, HIGHLY EFFICIENT ROTOR PROGRAM |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Lockheed%20Martin) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Lockheed%20Martin) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Financial Overview (990 Filing — 2014)
@@ -315,8 +315,8 @@ Lockheed Martin's PAC splits roughly 55% Republican, 45% Democrat. This is not a
 | Total Expenses | $140K |
 | Net Assets | $74K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 946107683](https://projects.propublica.org/nonprofits/organizations/946107683) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=2014_09_EO%2F94-6107683_990EO_201406.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 946107683](https://projects.propublica.org/nonprofits/organizations/946107683) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=2014_09_EO%2F94-6107683_990EO_201406.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Influence Network (Cross-Reference)
@@ -394,7 +394,7 @@ Lockheed Martin's PAC splits roughly 55% Republican, 45% Democrat. This is not a
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [DPRBOZP0K5RM2YE8UU08](https://search.gleif.org/#/record/DPRBOZP0K5RM2YE8UU08) |
+| LEI | [DPRBOZP0K5RM2YE8UU08](https://search.gleif.org/#/record/DPRBOZP0K5RM2YE8UU08) (VERIFIED) |
 | Legal Name | LOCKHEED MARTIN CORPORATION |
 | Jurisdiction | US-MD |
 | Entity Status | ACTIVE |
@@ -402,7 +402,7 @@ Lockheed Martin's PAC splits roughly 55% Republican, 45% Democrat. This is not a
 | Registration | ISSUED |
 | Last Updated | 2025-05-29T11:09:20Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -458,7 +458,7 @@ Lockheed Martin's PAC splits roughly 55% Republican, 45% Democrat. This is not a
 | Research and Development in the Physical, Engineering, and Life Sciences (541710) | $2.3B |
 | Other Guided Missile and Space Vehicle Parts and Auxiliary Equipment Manufacturing (336419) | $2.3B |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 <!-- auto:usaspending-subawards pending-merge 2026-04-11 -->
@@ -536,7 +536,7 @@ Lockheed Martin's PAC splits roughly 55% Republican, 45% Democrat. This is not a
 - State of Texas v. Snap Inc. (2026) — District Court, E.D. Texas
 - Artis v. Sikorsky Aircraft Corporation (2026) — District Court, D. Connecticut
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Lockheed%20Martin%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Lockheed%20Martin%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Contracts
@@ -560,7 +560,7 @@ Lockheed Martin's PAC splits roughly 55% Republican, 45% Democrat. This is not a
 | $873K | DEPT OF DEFENSE | 2025-08-07 |
 | $772K | DEPT OF DEFENSE | 2025-12-11 |
 
-- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Lockheed%20Martin&page=1&index=opp) (Tier 1)
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Lockheed%20Martin&page=1&index=opp) (Tier 1) (VERIFIED)
 <!-- auto:sam-contracts end -->
 
 ### Federal Register Activity
@@ -574,15 +574,15 @@ Lockheed Martin's PAC splits roughly 55% Republican, 45% Democrat. This is not a
 | Agencies | Antitrust Division, Defense Department, Justice Department, Labor Department, Veterans Employment and Training Service |
 
 **Recent regulatory activity:**
-- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/03/17/2026-05145/arms-sales-notification) (2026-03-17) — Defense Department
-- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/03/17/2026-05142/arms-sales-notification) (2026-03-17) — Defense Department
-- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/03/17/2026-05141/arms-sales-notification) (2026-03-17) — Defense Department
-- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/03/17/2026-05140/arms-sales-notification) (2026-03-17) — Defense Department
-- [HIRE Vets Medallion Program-Announcement of HIRE Vets Medallion Award Recipients](https://www.federalregister.gov/documents/2026/03/10/2026-04653/hire-vets-medallion-program-announcement-of-hire-vets-medallion-award-recipients) (2026-03-10) — Labor Department
-- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/03/10/2026-04618/arms-sales-notification) (2026-03-10) — Defense Department
+- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/03/17/2026-05145/arms-sales-notification) (VERIFIED) (2026-03-17) — Defense Department
+- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/03/17/2026-05142/arms-sales-notification) (VERIFIED) (2026-03-17) — Defense Department
+- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/03/17/2026-05141/arms-sales-notification) (VERIFIED) (2026-03-17) — Defense Department
+- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/03/17/2026-05140/arms-sales-notification) (VERIFIED) (2026-03-17) — Defense Department
+- [HIRE Vets Medallion Program-Announcement of HIRE Vets Medallion Award Recipients](https://www.federalregister.gov/documents/2026/03/10/2026-04653/hire-vets-medallion-program-announcement-of-hire-vets-medallion-award-recipients) (VERIFIED) (2026-03-10) — Labor Department
+- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/03/10/2026-04618/arms-sales-notification) (VERIFIED) (2026-03-10) — Defense Department
 - ... and 1,159 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Lockheed%20Martin%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Lockheed%20Martin%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### FTC Enforcement & Merger Review
@@ -600,18 +600,18 @@ Lockheed Martin's PAC splits roughly 55% Republican, 45% Democrat. This is not a
 
 **Recent enforcement actions (historical):**
 
-- [The Boeing Company / Lockheed Martin Corp](http://www.ftc.gov/os/caselist/0510165/0510165.shtm) (2006-10-03) — Defense � Equipment and Engineering Services
-- [Lockheed Martin Corp.](http://www.ftc.gov/os/caselist/c3685.shtm) (1996-04-18) — Defense � Other
+- ~~[The Boeing Company / Lockheed Martin Corp](http://www.ftc.gov/os/caselist/0510165/0510165.shtm)~~ (URL broken, archived by Ops) (2006-10-03) — Defense � Equipment and Engineering Services
+- [Lockheed Martin Corp.](http://www.ftc.gov/os/caselist/c3685.shtm) (NEEDS REVIEW) (1996-04-18) — Defense � Other
 
 **Recent HSR merger filings (early terminations granted):**
 
-- [New Mountain Partners IV, L.P. → Lockheed Martin Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20200141) (2019-11-08)
-- [Lockheed Martin Corporation → Albert Nardslico](https://www.ftc.gov/legal-library/browse/early-termination-notices/20150158) (2014-11-21)
-- [Lockheed Martin Corporation → Marc Turtletaub](https://www.ftc.gov/legal-library/browse/early-termination-notices/20140697) (2014-04-01)
-- [Lockheed Martin Corporation → Spectrum Equity Investors IV, L.P.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20111344) (2011-09-12)
-- [Lindsay Goldberg III L.P. → Lockheed Martin Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20110609) (2011-03-11)
+- [New Mountain Partners IV, L.P. → Lockheed Martin Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20200141) (VERIFIED) (2019-11-08)
+- [Lockheed Martin Corporation → Albert Nardslico](https://www.ftc.gov/legal-library/browse/early-termination-notices/20150158) (VERIFIED) (2014-11-21)
+- [Lockheed Martin Corporation → Marc Turtletaub](https://www.ftc.gov/legal-library/browse/early-termination-notices/20140697) (VERIFIED) (2014-04-01)
+- [Lockheed Martin Corporation → Spectrum Equity Investors IV, L.P.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20111344) (VERIFIED) (2011-09-12)
+- [Lindsay Goldberg III L.P. → Lockheed Martin Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20110609) (VERIFIED) (2011-03-11)
 
-> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Lockheed%20Martin).
+> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Lockheed%20Martin) (VERIFIED).
 
-- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Lockheed%20Martin) (Tier 1)
+- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Lockheed%20Martin) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->

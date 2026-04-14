@@ -253,23 +253,23 @@ The analytical pattern this firm represents is **Bipartisan Access Machine** com
 
 ### Sources
 
-- [Senate LDA Filings: Cornerstone Government Affairs lobbying profile 2025](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA Filings: Cornerstone Government Affairs lobbying profile 2024](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA Filings: Cornerstone Government Affairs lobbyists 2025 — 100 total, 43 revolvers (43%)](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [OpenSecrets: Revolving Door employer search — Cornerstone Government Affairs](https://www.opensecrets.org/revolving-door/search_result?priv=Cornerstone+Government+Affairs) (Tier 1)
-- [Cornerstone Government Affairs: Firm History — founded 2002, 180+ professionals, 16 offices](https://cgagroup.com/firm-history/) (Tier 3)
-- [Cornerstone Government Affairs: People directory](https://cgagroup.com/people/) (Tier 3)
-- [Cornerstone Government Affairs Named Top Lobbying Firm by Bloomberg Government — 2024](https://cgagroup.com/cornerstone-top-lobbying-firm-2024/) (Tier 3)
-- [The Hill: Cornerstone snags DNC chief — Hyma Moore (Nov. 2023)](https://thehill.com/lobbying/4320772-lobbying-world-cornerstone-snags-dnc-chief/) (Tier 2)
-- [Cornerstone press release: DNC Chief of Staff Hyma Moore joins (Nov. 2023)](https://cgagroup.com/cornerstone-adds-dnc-chief-of-staff-hyma-moore-to-growing-public-affairs-team/) (Tier 3)
-- [Cornerstone press release: RNC Chief of Staff Mike Reed joins (Feb. 2024)](https://cgagroup.com/cornerstone-adds-rnc-chief-of-staff-mike-reed-to-growing-public-affairs-team/) (Tier 3)
-- [The Hill: DHS alum Lauren Tomlinson joins Cornerstone (Aug. 2024)](https://thehill.com/lobbying/4816663-lobbying-world-dhs-alum-joins-cornerstone/) (Tier 2)
-- [The Hill: Treasury appointee Ron Storhaug joins Cornerstone (Dec. 2024)](https://thehill.com/lobbying/4974606-lobbying-world-treasury-appointee-joins-cornerstone/) (Tier 2)
-- [Cornerstone press release: Former Treasury Tax Appointee Ron Storhaug joins (Dec. 2024)](https://cgagroup.com/former-treasury-tax-appointee-ron-storhaug-joins-cornerstone/) (Tier 3)
-- [Cornerstone press release: Michael Falencki, Former Deputy Staff Director House Transportation Committee, joins (Jan. 2024)](https://cgagroup.com/michael-falencki-former-deputy-staff-director-of-the-house-committee-on-transportation-and-infrastructure-joins-cornerstone-government-affairs/) (Tier 3)
-- [Sen. Wicker press release: Wicker Names Keast as Commerce Committee Staff Director (Dec. 2018)](https://www.wicker.senate.gov/2018/12/wicker-names-keast-as-commerce-committee-staff-director) (Tier 1)
-- [Cornerstone Government Affairs: Expansion of Appropriations Practice with Robin Juliano and Morgan Ulmer — House Approps Staff Director + Senate Approps Staff Director, March 17 2026](https://cgagroup.com/cornerstone-announces-addition-of-robin-juliano-and-morgan-ulmer/) (Tier 3)
-- [Cornerstone Government Affairs: House Appropriations Committee Staff Director Robin Juliano Joins Cornerstone — career background and prior Cornerstone tenure](https://cgagroup.com/house-appropriations-committee-staff-director-robin-juliano-joins-cornerstone-government-affairs/) (Tier 3)
+- [Senate LDA Filings: Cornerstone Government Affairs lobbying profile 2025](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: Cornerstone Government Affairs lobbying profile 2024](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: Cornerstone Government Affairs lobbyists 2025 — 100 total, 43 revolvers (43%)](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [OpenSecrets: Revolving Door employer search — Cornerstone Government Affairs](https://www.opensecrets.org/revolving-door/search_result?priv=Cornerstone+Government+Affairs) (Tier 1) (VERIFIED)
+- [Cornerstone Government Affairs: Firm History — founded 2002, 180+ professionals, 16 offices](https://cgagroup.com/firm-history/) (Tier 3) (VERIFIED)
+- [Cornerstone Government Affairs: People directory](https://cgagroup.com/people/) (Tier 3) (VERIFIED)
+- [Cornerstone Government Affairs Named Top Lobbying Firm by Bloomberg Government — 2024](https://cgagroup.com/cornerstone-top-lobbying-firm-2024/) (Tier 3) (VERIFIED)
+- ~~[The Hill: Cornerstone snags DNC chief — Hyma Moore (Nov. 2023)](https://thehill.com/lobbying/4320772-lobbying-world-cornerstone-snags-dnc-chief/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Cornerstone press release: DNC Chief of Staff Hyma Moore joins (Nov. 2023)](https://cgagroup.com/cornerstone-adds-dnc-chief-of-staff-hyma-moore-to-growing-public-affairs-team/) (Tier 3) (VERIFIED)
+- [Cornerstone press release: RNC Chief of Staff Mike Reed joins (Feb. 2024)](https://cgagroup.com/cornerstone-adds-rnc-chief-of-staff-mike-reed-to-growing-public-affairs-team/) (Tier 3) (VERIFIED)
+- ~~[The Hill: DHS alum Lauren Tomlinson joins Cornerstone (Aug. 2024)](https://thehill.com/lobbying/4816663-lobbying-world-dhs-alum-joins-cornerstone/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Treasury appointee Ron Storhaug joins Cornerstone (Dec. 2024)](https://thehill.com/lobbying/4974606-lobbying-world-treasury-appointee-joins-cornerstone/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Cornerstone press release: Former Treasury Tax Appointee Ron Storhaug joins (Dec. 2024)](https://cgagroup.com/former-treasury-tax-appointee-ron-storhaug-joins-cornerstone/) (Tier 3) (VERIFIED)
+- [Cornerstone press release: Michael Falencki, Former Deputy Staff Director House Transportation Committee, joins (Jan. 2024)](https://cgagroup.com/michael-falencki-former-deputy-staff-director-of-the-house-committee-on-transportation-and-infrastructure-joins-cornerstone-government-affairs/) (Tier 3) (VERIFIED)
+- [Sen. Wicker press release: Wicker Names Keast as Commerce Committee Staff Director (Dec. 2018)](https://www.wicker.senate.gov/2018/12/wicker-names-keast-as-commerce-committee-staff-director) (Tier 1) (VERIFIED)
+- [Cornerstone Government Affairs: Expansion of Appropriations Practice with Robin Juliano and Morgan Ulmer — House Approps Staff Director + Senate Approps Staff Director, March 17 2026](https://cgagroup.com/cornerstone-announces-addition-of-robin-juliano-and-morgan-ulmer/) (Tier 3) (VERIFIED)
+- [Cornerstone Government Affairs: House Appropriations Committee Staff Director Robin Juliano Joins Cornerstone — career background and prior Cornerstone tenure](https://cgagroup.com/house-appropriations-committee-staff-director-robin-juliano-joins-cornerstone-government-affairs/) (Tier 3) (VERIFIED)
 
 ---
 
@@ -296,7 +296,7 @@ The analytical pattern this firm represents is **Bipartisan Access Machine** com
 - Ministry of Foreign Affairs of Greece (GREECE)
 - ... and 10 more
 
-- [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME,P200_COUNTRY:Cornerstone%20Government%20Affairs,) (Tier 1)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME,P200_COUNTRY:Cornerstone%20Government%20Affairs,)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:fara-foreign-agents end -->
 
 ### Tax Filings (IRS 990)
@@ -314,14 +314,14 @@ The analytical pattern this firm represents is **Bipartisan Access Machine** com
 **Filing history:** 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017
 
 **View 990 filings:**
-- [2024 Filing](https://projects.propublica.org/nonprofits/organizations/521943698/2024)
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/521943698/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/521943698/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/521943698/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/521943698/2020)
+- ~~[2024 Filing](https://projects.propublica.org/nonprofits/organizations/521943698/2024)~~ (URL broken, archived by Ops)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/521943698/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/521943698/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/521943698/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/521943698/2020)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/521943698) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/521943698) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Federal Court Records (CourtListener)
@@ -340,7 +340,7 @@ The analytical pattern this firm represents is **Bipartisan Access Machine** com
 - Wellpath Holdings, Inc. (2024) — United States Bankruptcy Court, S.D. Texas
 - United States v. Owens, II (2024) — District Court, S.D. Mississippi
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Cornerstone%20Government%20Affairs%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Cornerstone%20Government%20Affairs%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Register Activity
@@ -352,10 +352,10 @@ The analytical pattern this firm represents is **Bipartisan Access Machine** com
 | Agencies | Antitrust Division, Justice Department |
 
 **Recent regulatory activity:**
-- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Biopharmaceutical Manufacturing Preparedness Consortium](https://www.federalregister.gov/documents/2024/10/11/2024-23597/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-biopharmaceutical) (2024-10-11) — Justice Department
-- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Rapid Response Partnership Vehicle](https://www.federalregister.gov/documents/2024/10/11/2024-23591/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-rapid-response) (2024-10-11) — Justice Department
-- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Consortium for Rare Earth Technologies](https://www.federalregister.gov/documents/2023/12/15/2023-27608/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-consortium-for-rare) (2023-12-15) — Justice Department
-- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Medical Technology Enterprise Consortium](https://www.federalregister.gov/documents/2018/11/02/2018-23989/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-medical-technology) (2018-11-02) — Justice Department
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Biopharmaceutical Manufacturing Preparedness Consortium](https://www.federalregister.gov/documents/2024/10/11/2024-23597/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-biopharmaceutical) (VERIFIED) (2024-10-11) — Justice Department
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Rapid Response Partnership Vehicle](https://www.federalregister.gov/documents/2024/10/11/2024-23591/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-rapid-response) (VERIFIED) (2024-10-11) — Justice Department
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Consortium for Rare Earth Technologies](https://www.federalregister.gov/documents/2023/12/15/2023-27608/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-consortium-for-rare) (VERIFIED) (2023-12-15) — Justice Department
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Medical Technology Enterprise Consortium](https://www.federalregister.gov/documents/2018/11/02/2018-23989/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-medical-technology) (VERIFIED) (2018-11-02) — Justice Department
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Cornerstone%20Government%20Affairs%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Cornerstone%20Government%20Affairs%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->

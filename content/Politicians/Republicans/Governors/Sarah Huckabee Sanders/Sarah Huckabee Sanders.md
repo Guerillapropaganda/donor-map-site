@@ -75,11 +75,11 @@ The Walton family (Walmart heirs, $250B+ wealth) has invested $1B+ to privatize 
 
 ### Sources
 
-- [Follow the Money: Sarah Huckabee Sanders Arkansas gubernatorial campaign finance](https://www.followthemoney.org/show-candidates?f-state=ar&f-office=Governor&f-cycle=2022) (Tier 1)
-- [Arkansas Financial Disclosure: Governor Office Filings](https://www.sos.arkansas.gov/elections/) (Tier 1)
-- [The Hill: Sarah Huckabee Sanders raises $12.8M since campaign launch](https://thehill.com/homenews/campaign/590408-sarah-huckabee-sanders-raises-128m-since-launch-of-arkansas-governor/) (Tier 2)
-- [Arkansas Online: Sarah Huckabee Sanders haul tops $13M; Chris Jones raises $1.9M](https://www.arkansasonline.com/news/2022/jul/02/sarah-huckabee-sanders-haul-for-arkansas/) (Tier 2)
-- [Exposed by CMD: Walmart Heirs, Freedom Foundation behind Arkansas teacher attacks](https://www.exposedbycmd.org/2023/06/29/walmart-heirs-freedom-foundation-behind-latest-attack-on-arkansas-teachers/) (Tier 2)
-- [Common Dreams: Walton Family Plot to Privatize Arkansas Public Schools](https://www.commondreams.org/views/2019/09/05/walton-family-plot-privatize-public-schools-arkansas) (Tier 3)
-- [Truthout: Right-Wing Think Tank, Walmart Heirs Behind Attack on Arkansas Teachers](https://truthout.org/articles/right-wing-think-tank-walmart-heirs-behind-latest-attack-on-arkansas-teachers/) (Tier 2)
+- ~~[Follow the Money: Sarah Huckabee Sanders Arkansas gubernatorial campaign finance](https://www.followthemoney.org/show-candidates?f-state=ar&f-office=Governor&f-cycle=2022)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Arkansas Financial Disclosure: Governor Office Filings](https://www.sos.arkansas.gov/elections/) (Tier 1) (VERIFIED)
+- ~~[The Hill: Sarah Huckabee Sanders raises $12.8M since campaign launch](https://thehill.com/homenews/campaign/590408-sarah-huckabee-sanders-raises-128m-since-launch-of-arkansas-governor/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Arkansas Online: Sarah Huckabee Sanders haul tops $13M; Chris Jones raises $1.9M](https://www.arkansasonline.com/news/2022/jul/02/sarah-huckabee-sanders-haul-for-arkansas/) (Tier 2) (VERIFIED)
+- ~~[Exposed by CMD: Walmart Heirs, Freedom Foundation behind Arkansas teacher attacks](https://www.exposedbycmd.org/2023/06/29/walmart-heirs-freedom-foundation-behind-latest-attack-on-arkansas-teachers/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Common Dreams: Walton Family Plot to Privatize Arkansas Public Schools](https://www.commondreams.org/views/2019/09/05/walton-family-plot-privatize-public-schools-arkansas) (Tier 3) (VERIFIED)
+- [Truthout: Right-Wing Think Tank, Walmart Heirs Behind Attack on Arkansas Teachers](https://truthout.org/articles/right-wing-think-tank-walmart-heirs-behind-latest-attack-on-arkansas-teachers/) (Tier 2) (VERIFIED)
 

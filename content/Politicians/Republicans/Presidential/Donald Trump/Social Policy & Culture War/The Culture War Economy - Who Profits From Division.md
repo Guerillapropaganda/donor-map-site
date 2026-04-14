@@ -17,12 +17,12 @@ donors: Leonard Leo (Marble Freedom Trust), National Christian Foundation, Herit
 
 Trump raised millions in small-dollar donations by leveraging culture war issues in 2024. The campaign spent more than $19 million on two television ads attacking Kamala Harris over gender-affirming care for incarcerated people and detained immigrants. The ads aired nearly 55,000 times starting in October 2024. Make America Great Again Inc. (Trump super PAC) spent an additional $1.1 million on similar ads, bringing the Trump operation's anti-trans advertising to over $40 million in the final five weeks of the 2024 cycle.
 
-- [Washington Post: How a grandma became the focus of a 'misinformed' Trump ad on trans athletes](https://www.washingtonpost.com/nation/2024/11/05/election-trans-sports-trump-campaign/) (Tier 2)
-- [CBS News: Trump Millions Spent on Anti-Trans Ads](https://www.cbsnews.com/news/trump-anti-trans-ads-spending/) (Tier 2)
+- ~~[Washington Post: How a grandma became the focus of a 'misinformed' Trump ad on trans athletes](https://www.washingtonpost.com/nation/2024/11/05/election-trans-sports-trump-campaign/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [CBS News: Trump Millions Spent on Anti-Trans Ads](https://www.cbsnews.com/news/trump-anti-trans-ads-spending/) (Tier 2) (VERIFIED)
 
 Across the entire Republican ecosystem, spending on anti-trans television advertising reached $215 million during the 2024 cycle, with Trump and allied super PACs accounting for about one-third of that total. The scale of advertising spending on a single culture war issue (trans rights) exceeds the entire Democratic media budget in six states.
 
-- [Truthout: $215 Million in Anti-Trans Advertising](https://truthout.org/articles/republicans-spent-nearly-215m-on-tv-ads-attacking-trans-rights-this-election/) (Tier 2)
+- [Truthout: $215 Million in Anti-Trans Advertising](https://truthout.org/articles/republicans-spent-nearly-215m-on-tv-ads-attacking-trans-rights-this-election/) (Tier 2) (VERIFIED)
 
 The ads are not persuasion infrastructure. They are small-dollar fundraising hooks. Each ad drop triggers email solicitations with subject lines like "Stop the woke agenda," "Defend women's sports," "Protect traditional values." The email copy demands immediate action and donation. The fundraising rate for culture war messaging outperforms all other Republican messaging by substantial margins. Immigration fear produces direct-mail fundraising spikes. Book ban activism generates event donations and recurring monthly contributions. DEI elimination rhetoric drives small-dollar appeals.
 
@@ -32,19 +32,19 @@ The donors who receive the most benefit from these policies (large employers avo
 
 [[Alliance Defending Freedom]] operates as the principal legal and legislative arm of the culture war apparatus. With $104 million in annual revenue as of 2022, ADF has grown to become one of the largest legal organizations in the United States. The organization maintains a staff of over 100 attorneys and legislative specialists. It has authored at least 130 bills across 34 states, with over 30 becoming law.
 
-- [Alliance Defending Freedom: Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/541660459) (Tier 1)
+- [Alliance Defending Freedom: Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/541660459) (Tier 1) (VERIFIED)
 
 ADF receives direct funding from the National Christian Foundation ($66 million since 2018) and from The Servant Foundation ($50 million between 2018 and 2020). The organization's model is template legislation: ADF drafts bill language, distributes it through a network of state legislators, defends the legislation in court, and then uses the legal victories in fundraising appeals. Each lawsuit generates legal fees. Each legislative victory generates press that boosts donations.
 
 [[Heritage Foundation]] functions as the strategic command center. With $101 million in annual revenue (2023), Heritage produces the intellectual framework for all downstream culture war activity. Project 2025 is a 900-page policy document that explicitly targets book removal, education censorship, DEI elimination, abortion restrictions, and trans rights removal. Heritage Action, the sister organization, translates policy into legislative and electoral action. Heritage's policy shop produces white papers, model legislation, talking points, and media strategies that filter down through ADF, state legislators, and allied organizations.
 
-- [Heritage Foundation: Financial Information](https://www.heritage.org/financial) (Tier 1)
+- [Heritage Foundation: Financial Information](https://www.heritage.org/financial) (Tier 1) (VERIFIED)
 
 Family Research Council operates without standard financial disclosure. The organization moved to a religious exemption from Form 990 filing and no longer publicly reports revenue or donor information. Pre-exemption filings documented donations from the Edgar and Elsa Prince Foundation ($1.4 million), which is Betsy DeVos's family foundation. FRC's stated focus is on "traditional values," but operational focus is legislative influence on abortion, education, and LGBTQ policy.
 
 Concerned Women for America is both a nonprofit advocacy organization and a political action committee. Financial records show contribution activity of $10,869 (2024 cycle) and lobbying spending of $45,000. The Koch network historically donated $8.15 million to CWA in 2012 through Freedom Partners. The organization focuses on the "sanctity of human life, pornography, education, national sovereignty, marriage and family, support of Israel, and religious freedom." In operational terms, CWA functions as the mobilization arm for evangelical women voters, translating culture war messaging into voter contact.
 
-- [OpenSecrets: Concerned Women for America](https://www.opensecrets.org/orgs/concerned-women-for-america/summary?id=D000025077) (Tier 1)
+- [OpenSecrets: Concerned Women for America](https://www.opensecrets.org/orgs/concerned-women-for-america/summary?id=D000025077) (Tier 1) (VERIFIED)
 
 The interconnection of these organizations creates a self-reinforcing feedback loop. Heritage Foundation produces policy framework and funds ADF's operations. ADF drafts and publishes bill templates based on that framework. State legislators introduce the bills to state legislatures. Concerned Women for America mobilizes grassroots evangelical support. Family Research Council directly lobbies state legislators individually. When bills pass, ADF then defends them in court, generating legal fees and validating the template for other states. When bills fail, the failure becomes content for fundraising appeals: "Support our legal fight against the liberal courts." The system produces organizational revenue, legal fees, and political momentum regardless of legislative outcome.
 
@@ -54,7 +54,7 @@ The business model is litigation-proof. If bills pass, litigation generates fees
 
 In a series of transactions in 2021 and 2022, Illinois manufacturing magnate Barre Seid donated $1.6 billion to the Marble Freedom Trust, a nonprofit organization controlled by [[Leonard Leo]]. The donation is the largest known contribution to a political advocacy group in U.S. history.
 
-- [ProPublica: Barre Seid $1.6 Billion Donation to Marble Freedom Trust](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (Tier 2)
+- [ProPublica: Barre Seid $1.6 Billion Donation to Marble Freedom Trust](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (Tier 2) (VERIFIED)
 
 Leo is co-chair of the Federalist Society, the organization that identifies and promotes judges aligned with conservative judicial positions. Leo orchestrated the appointment of Trump's three Supreme Court justices and the broader judicial reshaping that produced the Dobbs decision overturning Roe v. Wade. With the Marble Freedom Trust, Leo moved beyond the courts.
 
@@ -62,7 +62,7 @@ In a September 2024 interview with the Financial Times, Leo stated that the Marb
 
 The trust operates without donor disclosure. As a 501c4 dark money organization, Marble Freedom Trust can spend directly on elections, fund think tanks, support legal organizations, and run issue advocacy campaigns. The structure allows Seid's $1.6 billion to move with complete opacity. The public does not see where the money goes or how it is deployed.
 
-- [Citizens for Responsibility and Ethics: Leonard Leo's $200 Million War Chest](https://www.citizensforethics.org/reports-investigations/crew-investigations/leonard-leos-mysterious-200-million-dark-money-war-chest/) (Tier 2)
+- [Citizens for Responsibility and Ethics: Leonard Leo's $200 Million War Chest](https://www.citizensforethics.org/reports-investigations/crew-investigations/leonard-leos-mysterious-200-million-dark-money-war-chest/) (Tier 2) (VERIFIED)
 
 The cultural return on investment is measurable. From the Marble Freedom Trust's founding in 2021 to 2025, the trust funded the rapid acceleration of anti-DEI campaigns in Fortune 500 companies, state-level anti-trans legislation, book removal organizations, and litigation against diversity programs in higher education. The same money flows to "anti-woke" media operations and podcasts that amplify the culture war narrative.
 
@@ -72,7 +72,7 @@ On January 20, 2025, Trump signed "Ending Radical and Wasteful Government DEI Pr
 
 First, the orders direct federal agencies to close all DEI offices, place DEI employees on paid leave, and terminate all DEI contractors by January 22, 2025. The Office of Personnel Management extended enforcement across the entire federal government. Every agency must comply within 48 hours.
 
-- [White House: Ending Illegal Discrimination and Restoring Merit-Based Opportunity](https://www.whitehouse.gov/presidential-actions/2025/01/ending-illegal-discrimination-and-restoring-merit-based-opportunity/) (Tier 1)
+- [White House: Ending Illegal Discrimination and Restoring Merit-Based Opportunity](https://www.whitehouse.gov/presidential-actions/2025/01/ending-illegal-discrimination-and-restoring-merit-based-opportunity/) (Tier 1) (VERIFIED)
 
 Second, the orders direct the Attorney General to investigate and potentially litigate against private sector companies identified as having "egregious and discriminatory" DEI programs. The definition is intentionally vague, but the intent is to create legal exposure for any company maintaining diversity hiring, equity audits, or inclusion initiatives.
 
@@ -98,7 +98,7 @@ Funding sources for anti-trans operations are intentionally opaque. Many donatio
 
 Heritage Foundation's Project 2025 makes education censorship a federal policy priority. The document explicitly equates LGBTQ-affirming children's books with pornography and proposes criminal penalties (including sex offender registration) for librarians and educators who make such material available to minors. The proposal creates legal jeopardy for public employees and institutions that serve LGBTQ youth, driving skilled workers out of public service and making public libraries less able to serve vulnerable populations.
 
-- [PEN America: Project 2025 Report](https://pen.org/report/project-2025/) (Tier 2)
+- [PEN America: Project 2025 Report](https://pen.org/report/project-2025/) (Tier 2) (VERIFIED)
 
 The book ban movement operates through state legislatures and school boards. Twenty-eight states have passed bills restricting "critical race theory" and "divisive concepts" in schools. In the 2021-22 school year, 1,600 book titles were banned across the country, affecting works by over 1,200 different authors and illustrators. The pattern accelerated from 2022 to 2025 as Heritage Foundation and ADF expanded their template legislation distribution networks.
 
@@ -112,7 +112,7 @@ The economic mechanics are visible. Public librarians in Idaho earn $35,000-$45,
 
 Immigration rhetoric drives small-dollar Republican fundraising. The Republican Party of Texas reported "exponential increase in direct-mail donations" from supporters statewide due to their "principled stance against illegal immigration." Immigration fear generates email fundraising, TV advertising, and political contributions. The fundraising model is simple: deploy immigration fear messaging, harvest small-dollar donations from working class voters, spend the money on political operations, and return to the same donor base with intensified fear messaging.
 
-- [The Bulwark: Immigration Fundraising Analysis](https://www.thebulwark.com/p/immigration-groups-need-money-democratic-donors-too-scared-to-write-checks-funders-philanthropy) (Tier 2)
+- [The Bulwark: Immigration Fundraising Analysis](https://www.thebulwark.com/p/immigration-groups-need-money-democratic-donors-too-scared-to-write-checks-funders-philanthropy) (Tier 2) (VERIFIED)
 
 The actual policy outcome is simultaneously moving in the opposite direction: Republican-controlled states intentionally fail to enforce immigration law against employers. In Texas, lawmakers "go easy" on employers of undocumented workers. Across the South, state governments protect agricultural and construction employers who rely on undocumented labor. The gap between rhetoric and reality is the operation's entire structure.
 
@@ -121,7 +121,7 @@ The actual policy outcome is simultaneously moving in the opposite direction: Re
 
 Undocumented workers cannot unionize, cannot report wage theft, cannot report workplace safety violations, and cannot report employer abuse without deportation risk. An undocumented worker earning sub-minimum wage improves the competitive position of all employers in that labor market. Working class citizens' wages stay depressed. Undocumented workers stay vulnerable. The donor class that funds political campaigns captures the benefit of both suppressed citizen wages and vulnerable immigrant labor. The political operation that mobilizes on immigration fear simultaneously protects the employers who require that labor's vulnerability.
 
-- [ProPublica: Business Community and Immigration Reform](https://www.propublica.org/article/business-lobby-immigration-reform-trump) (Tier 2)
+- [ProPublica: Business Community and Immigration Reform](https://www.propublica.org/article/business-lobby-immigration-reform-trump) (Tier 2) (VERIFIED)
 
 The 2025 pattern shows this explicitly. Trump campaigns on immigration restriction with culture war intensity. His actual policy moves focus on workplace enforcement against individual workers, not against employer hiring. The political theater ("seal the border") operates independently from the economic outcome (continued reliance on exploitable labor). Business interests that donate to Republican campaigns continue to receive protection for their immigrant labor force. Culture war voters continue to receive messaging about border security while wages for working class citizens remain suppressed by the continued availability of undocumented workers who cannot report violations.
 

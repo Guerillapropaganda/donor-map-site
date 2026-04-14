@@ -89,25 +89,25 @@ InfluenceMap occupies a specific structural position in the political economy of
 | Total Expenses | $601K |
 | Net Assets | $90K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 852619691](https://projects.propublica.org/nonprofits/organizations/852619691) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_02_2024_prefixes_84-93%2F852619691_202303_990_2024022022297382.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 852619691](https://projects.propublica.org/nonprofits/organizations/852619691) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_02_2024_prefixes_84-93%2F852619691_202303_990_2024022022297382.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 <!-- auto:propublica-990 end -->
 
 ### Sources
 
-- [InfluenceMap: Mission](https://influencemap.org/mission) (Tier 3)
-- [InfluenceMap: Homepage](https://influencemap.org) (Tier 3)
-- [InfluenceMap: Our People](https://influencemap.org/multipage/Our-People-6599) (Tier 3)
-- [InfluenceMap: Carbon Majors 2024 Update](https://influencemap.org/pressrelease/Carbon-Majors-2024-Data-Update-35610) (Tier 2)
-- [InfluenceMap: Impact Report PDF](https://influencemap.org/site/data/000/033/ImpactReport.pdf) (Tier 3)
-- [LobbyMap: Methodology](https://lobbymap.org/briefing/LobbyMap-Methodology-24422) (Tier 3)
-- [UK Companies House: InfluenceMap CIC](https://find-and-update.company-information.service.gov.uk/company/09480976) (Tier 1)
-- [UK Companies House: Filing History](https://find-and-update.company-information.service.gov.uk/company/09480976/filing-history) (Tier 1)
-- [InfluenceWatch: InfluenceMap](https://www.influencewatch.org/non-profit/influence-map/) (Tier 3)
-- [Wikipedia: InfluenceMap](https://en.wikipedia.org/wiki/InfluenceMap) (Tier 4)
-- [Climate Action 100+: InfluenceMap Benchmark Methodology](https://www.climateaction100.org/wp-content/uploads/2021/10/InfluenceMap-CA100-Benchmark-Alignment-Indicators-Methodology_Sep21.pdf) (Tier 2)
-- [McConnell Foundation: InfluenceMap funding](https://www.mcconnellfoundation.ca/funding-database/influencemap/) (Tier 3)
+- [InfluenceMap: Mission](https://influencemap.org/mission) (Tier 3) (VERIFIED)
+- [InfluenceMap: Homepage](https://influencemap.org) (Tier 3) (VERIFIED)
+- [InfluenceMap: Our People](https://influencemap.org/multipage/Our-People-6599) (Tier 3) (VERIFIED)
+- [InfluenceMap: Carbon Majors 2024 Update](https://influencemap.org/pressrelease/Carbon-Majors-2024-Data-Update-35610) (Tier 2) (VERIFIED)
+- [InfluenceMap: Impact Report PDF](https://influencemap.org/site/data/000/033/ImpactReport.pdf) (Tier 3) (VERIFIED)
+- [LobbyMap: Methodology](https://lobbymap.org/briefing/LobbyMap-Methodology-24422) (Tier 3) (VERIFIED)
+- [UK Companies House: InfluenceMap CIC](https://find-and-update.company-information.service.gov.uk/company/09480976) (Tier 1) (VERIFIED)
+- [UK Companies House: Filing History](https://find-and-update.company-information.service.gov.uk/company/09480976/filing-history) (Tier 1) (VERIFIED)
+- [InfluenceWatch: InfluenceMap](https://www.influencewatch.org/non-profit/influence-map/) (Tier 3) (VERIFIED)
+- ~~[Wikipedia: InfluenceMap](https://en.wikipedia.org/wiki/InfluenceMap)~~ (was Tier 4 — URL broken, archived by Ops) (Tier 4)
+- [Climate Action 100+: InfluenceMap Benchmark Methodology](https://www.climateaction100.org/wp-content/uploads/2021/10/InfluenceMap-CA100-Benchmark-Alignment-Indicators-Methodology_Sep21.pdf) (Tier 2) (VERIFIED)
+- [McConnell Foundation: InfluenceMap funding](https://www.mcconnellfoundation.ca/funding-database/influencemap/) (Tier 3) (VERIFIED)
 
 ---
 
@@ -126,5 +126,5 @@ InfluenceMap occupies a specific structural position in the political economy of
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=InfluenceMap) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=InfluenceMap) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->

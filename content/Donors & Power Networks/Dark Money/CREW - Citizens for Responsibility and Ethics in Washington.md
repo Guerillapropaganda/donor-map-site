@@ -156,16 +156,16 @@ CREW occupies a specific structural position in the American political ecosystem
 
 ### Sources
 
-- [ProPublica Nonprofit Explorer: CREW 990 filings (2011-2024)](https://projects.propublica.org/nonprofits/organizations/30445391) (Tier 1)
-- [InfluenceWatch: Citizens for Responsibility and Ethics in Washington](https://www.influencewatch.org/non-profit/citizens-for-responsibility-and-ethics-in-washington/) (Tier 3)
-- [Wikipedia: Citizens for Responsibility and Ethics in Washington](https://en.wikipedia.org/wiki/Citizens_for_Responsibility_and_Ethics_in_Washington) (Tier 3)
-- [CNN: Watchdog group sues to block Trump from Colorado ballot](https://www.cnn.com/2023/09/06/politics/trump-14th-amendment-colorado/index.html) (Tier 2)
-- [Washingtonian: Can a DC Watchdog Group Keep Trump From Running?](https://washingtonian.com/2023/01/04/dc-watchdog-group-crew-trump/) (Tier 2)
-- [CREW: Lawsuit to block Trump's plan to fire government workers](https://www.citizensforethics.org/legal-action/lawsuits/trumps-plan-to-fire-government-workers-is-illegal/) (Tier 2)
-- [NPR: New lawsuit takes aim at Trump and DOGE's government overhaul](https://www.npr.org/2025/04/29/nx-s1-5380783/trump-doge-lawsuit-federal-workers-cities) (Tier 2)
-- [Ballotpedia: Citizens for Responsibility and Ethics in Washington](https://ballotpedia.org/Citizens_for_Responsibility_and_Ethics_in_Washington) (Tier 3)
-- [Charity Navigator: CREW rating](https://www.charitynavigator.org/ein/030445391) (Tier 3)
-- [CREW: Statement on SCOTUS 14th Amendment decision](https://www.citizensforethics.org/news/press-releases/crew-statement-on-scotus-14th-amendment-decision/) (Tier 2)
+- [ProPublica Nonprofit Explorer: CREW 990 filings (2011-2024)](https://projects.propublica.org/nonprofits/organizations/30445391) (Tier 1) (VERIFIED)
+- [InfluenceWatch: Citizens for Responsibility and Ethics in Washington](https://www.influencewatch.org/non-profit/citizens-for-responsibility-and-ethics-in-washington/) (Tier 3) (VERIFIED)
+- [Wikipedia: Citizens for Responsibility and Ethics in Washington](https://en.wikipedia.org/wiki/Citizens_for_Responsibility_and_Ethics_in_Washington) (Tier 3) (VERIFIED)
+- [CNN: Watchdog group sues to block Trump from Colorado ballot](https://www.cnn.com/2023/09/06/politics/trump-14th-amendment-colorado/index.html) (Tier 2) (VERIFIED)
+- [Washingtonian: Can a DC Watchdog Group Keep Trump From Running?](https://washingtonian.com/2023/01/04/dc-watchdog-group-crew-trump/) (Tier 2) (VERIFIED)
+- [CREW: Lawsuit to block Trump's plan to fire government workers](https://www.citizensforethics.org/legal-action/lawsuits/trumps-plan-to-fire-government-workers-is-illegal/) (Tier 2) (VERIFIED)
+- [NPR: New lawsuit takes aim at Trump and DOGE's government overhaul](https://www.npr.org/2025/04/29/nx-s1-5380783/trump-doge-lawsuit-federal-workers-cities) (Tier 2) (VERIFIED)
+- [Ballotpedia: Citizens for Responsibility and Ethics in Washington](https://ballotpedia.org/Citizens_for_Responsibility_and_Ethics_in_Washington) (Tier 3) (VERIFIED)
+- [Charity Navigator: CREW rating](https://www.charitynavigator.org/ein/030445391) (Tier 3) (VERIFIED)
+- [CREW: Statement on SCOTUS 14th Amendment decision](https://www.citizensforethics.org/news/press-releases/crew-statement-on-scotus-14th-amendment-decision/) (Tier 2) (VERIFIED)
 
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->
@@ -178,7 +178,7 @@ CREW occupies a specific structural position in the American political ecosystem
 **Notable cases:**
 - CITIZENS FOR RESPONSIBILITY AND ETHICS IN WASHINGTON v. U.S. DEPARTMENT OF EDUCATION (2007) — District Court, District of Columbia
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22CREW%20-%20Citizens%20for%20Responsibility%20and%20Ethics%20in%20Washington%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22CREW%20-%20Citizens%20for%20Responsibility%20and%20Ethics%20in%20Washington%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Tax Filings (IRS 990)
@@ -196,12 +196,12 @@ CREW occupies a specific structural position in the American political ecosystem
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/30445391/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/30445391/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/30445391/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/30445391/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/30445391/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/30445391/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/30445391/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/30445391/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/30445391/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/30445391/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/30445391) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/30445391) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->

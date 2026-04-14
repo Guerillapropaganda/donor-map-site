@@ -32,8 +32,8 @@ Elliott's business model is corporate coercion: take large stakes in companies, 
 
 Singer is one of the Republican Party's most consistent mega-donors over the past two decades. His total lifetime political giving exceeds $89 million since 2015 alone. But his most consequential influence may now be through the judiciary, specifically, through his undisclosed personal relationship with Supreme Court Justice Samuel Alito.
 
-- [OpenSecrets: Paul Singer donor profile](https://www.opensecrets.org/donor-lookup/results?name=paul+singer&order=desc&sort=D) (Tier 1)
-- [Wikipedia: Paul Singer (businessman)](https://en.wikipedia.org/wiki/Paul_Singer_(businessman)) (Tier 3)
+- [OpenSecrets: Paul Singer donor profile](https://www.opensecrets.org/donor-lookup/results?name=paul+singer&order=desc&sort=D) (Tier 1) (VERIFIED)
+- ~~[Wikipedia: Paul Singer (businessman)](https://en.wikipedia.org/wiki/Paul_Singer_(businessman)~~ (URL broken, archived by Ops)) (Tier 3)
 
 ---
 
@@ -71,9 +71,9 @@ Elliott's political interests are inseparable from its business model:
 
 Singer met with Trump in July 2024 about donating to his campaign, despite having previously been a vocal Trump critic who funded Marco Rubio's 2016 presidential campaign against Trump. The reconciliation tracks the same pattern as Ken Griffin: former Never-Trumpers who fell in line once Trump consolidated Republican power.
 
-- [OpenSecrets: Paul Singer 2024 outside spending](https://www.opensecrets.org/outside-spending/donor_detail/2024?id=U0000000066&name=Singer,+Paul&super_only=S&type=I) (Tier 1)
-- [Sludge: Alito Benefactor Paul Singer Donates $10 Million to GOP](https://readsludge.com/2024/07/19/facing-dem-scrutiny-alito-benefactor-paul-singer-donates-10-million-to-gop/) (Tier 2)
-- [Fortune: Ken Griffin and Paul Singer met with Trump about donating](https://fortune.com/2024/07/13/ken-griffin-citadel-paul-singer-elliott-donald-trump-campaign-donation-meetings/) (Tier 2)
+- [OpenSecrets: Paul Singer 2024 outside spending](https://www.opensecrets.org/outside-spending/donor_detail/2024?id=U0000000066&name=Singer,+Paul&super_only=S&type=I) (Tier 1) (VERIFIED)
+- [Sludge: Alito Benefactor Paul Singer Donates $10 Million to GOP](https://readsludge.com/2024/07/19/facing-dem-scrutiny-alito-benefactor-paul-singer-donates-10-million-to-gop/) (Tier 2) (VERIFIED)
+- [Fortune: Ken Griffin and Paul Singer met with Trump about donating](https://fortune.com/2024/07/13/ken-griffin-citadel-paul-singer-elliott-donald-trump-campaign-donation-meetings/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -92,8 +92,8 @@ Singer met with Trump in July 2024 about donating to his campaign, despite havin
 >
 > Alito claimed he was "unaware" of Singer's connection to the cases. He recalled speaking to Singer on "no more than a handful of occasions."
 
-- [ProPublica: Alito Took Unreported Luxury Trip With GOP Donor Paul Singer](https://www.propublica.org/article/samuel-alito-luxury-fishing-trip-paul-singer-scotus-supreme-court) (Tier 1)
-- [PBS: Supreme Court Justice Alito faces scrutiny over undisclosed luxury trip](https://www.pbs.org/newshour/show/supreme-court-justice-alito-faces-scrutiny-over-undisclosed-luxury-trip-from-gop-donor) (Tier 2)
+- [ProPublica: Alito Took Unreported Luxury Trip With GOP Donor Paul Singer](https://www.propublica.org/article/samuel-alito-luxury-fishing-trip-paul-singer-scotus-supreme-court) (Tier 1) (VERIFIED)
+- [PBS: Supreme Court Justice Alito faces scrutiny over undisclosed luxury trip](https://www.pbs.org/newshour/show/supreme-court-justice-alito-faces-scrutiny-over-undisclosed-luxury-trip-from-gop-donor) (Tier 2) (VERIFIED)
 
 ---
 
@@ -115,10 +115,10 @@ This is the most consequential Singer-Alito intersection to date.
 
 If the Supreme Court rules in Suncor's favor, the value of Elliott's $3 billion stake is protected. If state courts can hold oil companies liable for climate damages, that $3 billion position faces material risk. The justice who received an undisclosed luxury trip from the man with $3 billion riding on the outcome chose to participate in deciding that outcome.
 
-- [Slate: Sam Alito's Latest Reversal at the Supreme Court Is an Absolute Embarrassment](https://slate.com/news-and-politics/2026/03/sam-alito-supreme-court-embarrassment.html) (Tier 2)
-- [DeSmog: Supreme Court Will Hear Exxon's Effort to Crush Climate Lawsuits](https://www.desmog.com/2026/02/24/supreme-court-exxon-suncor-climate-lawsuits-alito-recusal/) (Tier 2)
-- [Columbia Climate Law Blog: Supreme Court agrees to hear Boulder climate case](https://blogs.law.columbia.edu/climatechange/2026/02/24/supreme-court-agrees-to-hear-fossil-fuel-companies-appeal-in-boulder-climate-case-but-asks-for-briefing-on-threshold-jurisdiction-questions/) (Tier 2)
-- [BOE Report: Elliott sees more upside at Suncor, nearly doubles stake to $3B](https://boereport.com/2024/10/22/elliott-sees-more-upside-at-suncor-almost-doubles-stake-to-nearly-3-bln/) (Tier 2)
+- [Slate: Sam Alito's Latest Reversal at the Supreme Court Is an Absolute Embarrassment](https://slate.com/news-and-politics/2026/03/sam-alito-supreme-court-embarrassment.html) (Tier 2) (VERIFIED)
+- [DeSmog: Supreme Court Will Hear Exxon's Effort to Crush Climate Lawsuits](https://www.desmog.com/2026/02/24/supreme-court-exxon-suncor-climate-lawsuits-alito-recusal/) (Tier 2) (VERIFIED)
+- [Columbia Climate Law Blog: Supreme Court agrees to hear Boulder climate case](https://blogs.law.columbia.edu/climatechange/2026/02/24/supreme-court-agrees-to-hear-fossil-fuel-companies-appeal-in-boulder-climate-case-but-asks-for-briefing-on-threshold-jurisdiction-questions/) (Tier 2) (VERIFIED)
+- [BOE Report: Elliott sees more upside at Suncor, nearly doubles stake to $3B](https://boereport.com/2024/10/22/elliott-sees-more-upside-at-suncor-almost-doubles-stake-to-nearly-3-bln/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -157,30 +157,30 @@ Pattern flags: **Donor-Class Override** (judicial recusal reversed to protect do
 ### Sources
 
 ### Political Spending:
-- [OpenSecrets: Paul Singer donor lookup](https://www.opensecrets.org/donor-lookup/results?name=paul+singer&order=desc&sort=D) (Tier 1)
+- [OpenSecrets: Paul Singer donor lookup](https://www.opensecrets.org/donor-lookup/results?name=paul+singer&order=desc&sort=D) (Tier 1) (VERIFIED)
 - [OpenSecrets: Paul Singer 2024 outside spending](https://www.opensecrets.org/outside-spending/donor_detail/2024?id=U0000000066&name=Singer,+Paul&super_only=S&type=I) (Tier 1)
-- [OpenSecrets: Elliott Management PAC contributions](https://www.opensecrets.org/political-action-committees-pacs/C00351658/summary) (Tier 1)
+- ~~[OpenSecrets: Elliott Management PAC contributions](https://www.opensecrets.org/political-action-committees-pacs/C00351658/summary)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ### Alito Connection:
 - [ProPublica: Alito Took Unreported Luxury Trip With GOP Donor Paul Singer](https://www.propublica.org/article/samuel-alito-luxury-fishing-trip-paul-singer-scotus-supreme-court) (Tier 1)
 - [PBS: Supreme Court Justice Alito faces scrutiny over undisclosed luxury trip](https://www.pbs.org/newshour/show/supreme-court-justice-alito-faces-scrutiny-over-undisclosed-luxury-trip-from-gop-donor) (Tier 2)
-- [NPR: Justice Alito disputes ProPublica report](https://www.npr.org/2023/06/21/1183456911/justice-alito-propublica-singer) (Tier 2)
+- [NPR: Justice Alito disputes ProPublica report](https://www.npr.org/2023/06/21/1183456911/justice-alito-propublica-singer) (Tier 2) (VERIFIED)
 
 ### Suncor/Climate Case:
-- [Slate: Sam Alito's Latest Reversal at the Supreme Court](https://slate.com/news-and-politics/2026/03/sam-alito-supreme-court-embarrassment.html) (Tier 2)
+- [Slate: Sam Alito's Latest Reversal at the Supreme Court](https://slate.com/news-and-politics/2026/03/sam-alito-supreme-court-embarrassment.html) (Tier 2) (VERIFIED)
 - [DeSmog: Supreme Court Will Hear Exxon's Effort to Crush Climate Lawsuits](https://www.desmog.com/2026/02/24/supreme-court-exxon-suncor-climate-lawsuits-alito-recusal/) (Tier 2)
 - [Columbia Climate Law Blog: Supreme Court agrees to hear Boulder climate case](https://blogs.law.columbia.edu/climatechange/2026/02/24/supreme-court-agrees-to-hear-fossil-fuel-companies-appeal-in-boulder-climate-case-but-asks-for-briefing-on-threshold-jurisdiction-questions/) (Tier 2)
-- [BOE Report: Elliott nearly doubles Suncor stake to $3B](https://boereport.com/2024/10/22/elliott-sees-more-upside-at-suncor-almost-doubles-stake-to-nearly-3-bln/) (Tier 2)
+- [BOE Report: Elliott nearly doubles Suncor stake to $3B](https://boereport.com/2024/10/22/elliott-sees-more-upside-at-suncor-almost-doubles-stake-to-nearly-3-bln/) (Tier 2) (VERIFIED)
 
 ### Israel/Think Tank Funding:
-- [InfluenceWatch: Paul E. Singer](https://www.influencewatch.org/person/paul-e-singer/) (Tier 3)
-- [Militarist Monitor: Paul Singer profile](https://militarist-monitor.org/profile/paul-singer/) (Tier 3)
+- [InfluenceWatch: Paul E. Singer](https://www.influencewatch.org/person/paul-e-singer/) (Tier 3) (VERIFIED)
+- [Militarist Monitor: Paul Singer profile](https://militarist-monitor.org/profile/paul-singer/) (Tier 3) (VERIFIED)
 - [Sludge: Alito Benefactor Paul Singer Donates $10 Million to GOP](https://readsludge.com/2024/07/19/facing-dem-scrutiny-alito-benefactor-paul-singer-donates-10-million-to-gop/) (Tier 2)
 
 ### Political Alignment:
 - [Fortune: Ken Griffin and Paul Singer met with Trump about donating](https://fortune.com/2024/07/13/ken-griffin-citadel-paul-singer-elliott-donald-trump-campaign-donation-meetings/) (Tier 2)
-- [Common Dreams: Paul Singer, Billionaire Trump Megadonor](https://www.commondreams.org/news/paul-singer-venezuela) (Tier 2)
-- [Corporate Knights: Meet the vulture capitalist working to prop up fossil fuels](https://corporateknights.com/issues/2025-06-best-50-issue/meet-the-vulture-capitalist-working-to-prop-up-fossil-fuels/) (Tier 2)
+- [Common Dreams: Paul Singer, Billionaire Trump Megadonor](https://www.commondreams.org/news/paul-singer-venezuela) (Tier 2) (VERIFIED)
+- [Corporate Knights: Meet the vulture capitalist working to prop up fossil fuels](https://corporateknights.com/issues/2025-06-best-50-issue/meet-the-vulture-capitalist-working-to-prop-up-fossil-fuels/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -198,14 +198,14 @@ Pattern flags: **Donor-Class Override** (judicial recusal reversed to protect do
 | ROMNEY FOR PRESIDENT INC. | $600 | REP |
 | RUDY GIULIANI PRESIDENTIAL COMMITTEE INC | $107 | REP |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Elliott%20Management) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Elliott%20Management) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [SUHPWJ4TBNAH1YMQM073](https://search.gleif.org/#/record/SUHPWJ4TBNAH1YMQM073) |
+| LEI | [SUHPWJ4TBNAH1YMQM073](https://search.gleif.org/#/record/SUHPWJ4TBNAH1YMQM073) (VERIFIED) |
 | Legal Name | ELLIOTT MANAGEMENT CORPORATION |
 | Jurisdiction | US-DE |
 | Entity Status | ACTIVE |
@@ -213,5 +213,5 @@ Pattern flags: **Donor-Class Override** (judicial recusal reversed to protect do
 | Registration | ISSUED |
 | Last Updated | 2025-04-09T18:28:18Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->

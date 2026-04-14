@@ -105,10 +105,10 @@ Brady represents issue-based donor infrastructure serving Democratic electoral p
 
 ### Sources
 
-- [OpenSecrets: Brady PAC political spending profile](https://www.opensecrets.org/orgs/brady-campaign-to-prevent-gun-violence/summary?id=D000031462) (Tier 1)
-- [OpenSecrets: Brady PAC electoral spending](https://www.opensecrets.org/pacs/brady-pac) (Tier 1)
-- [IRS Form 990: Brady Campaign nonprofit financials](https://projects.propublica.org/nonprofits/organizations/237321017) (Tier 1)
-- [Washington Post: After El Paso and Dayton shootings, gun-control groups seize momentum](https://www.washingtonpost.com/politics/2019/08/13/people-are-fed-up-after-el-paso-dayton-shootings-gun-control-groups-seize-momentum/) (Tier 2)
+- ~~[OpenSecrets: Brady PAC political spending profile](https://www.opensecrets.org/orgs/brady-campaign-to-prevent-gun-violence/summary?id=D000031462)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Brady PAC electoral spending](https://www.opensecrets.org/pacs/brady-pac)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [IRS Form 990: Brady Campaign nonprofit financials](https://projects.propublica.org/nonprofits/organizations/237321017) (Tier 1) (VERIFIED)
+- [Washington Post: After El Paso and Dayton shootings, gun-control groups seize momentum](https://www.washingtonpost.com/politics/2019/08/13/people-are-fed-up-after-el-paso-dayton-shootings-gun-control-groups-seize-momentum/) (Tier 2) (VERIFIED)
 
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->
@@ -126,7 +126,7 @@ Brady represents issue-based donor infrastructure serving Democratic electoral p
 - LEMMON v. TRUMP (2026) — District Court, District of Columbia
 - DC PRESERVATION LEAGUE v. DEPARTMENT OF INTERIOR (2026) — District Court, District of Columbia
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Brady%20Campaign%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Brady%20Campaign%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 <!-- auto:courtlistener-cases pending-merge 2026-04-11 -->
@@ -162,7 +162,7 @@ Brady represents issue-based donor infrastructure serving Democratic electoral p
 | Net Assets | $8.1M |
 | Officer Compensation | $30K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 237321017](https://projects.propublica.org/nonprofits/organizations/237321017) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 237321017](https://projects.propublica.org/nonprofits/organizations/237321017) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Lobbying Activity
@@ -181,7 +181,7 @@ Brady represents issue-based donor infrastructure serving Democratic electoral p
 
 **Agencies contacted:** Army, Dept of (Corps of Engineers), Bureau of Alcohol Tobacco Firearms & Explosives, Bureau of Indian Affairs (BIA), Executive Office of the President (EOP), Federal Emergency Management Agency (FEMA), HOUSE OF REPRESENTATIVES, Indian Health Service, Interior, Dept of (DOI), Justice, Dept of (DOJ), SENATE
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Brady%20Campaign) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Brady%20Campaign) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)
@@ -248,14 +248,14 @@ Brady represents issue-based donor infrastructure serving Democratic electoral p
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/237321017/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/237321017/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/237321017/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/237321017/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/237321017/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/237321017/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/237321017/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/237321017/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/237321017/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/237321017/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/237321017) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/237321017) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### SEC Filing Activity
@@ -273,7 +273,7 @@ Brady represents issue-based donor infrastructure serving Democratic electoral p
 - 2019-02-08 — **EX-99.1**: EX-99.1
 - 2019-04-30 — **DEFA14A**: DEFA14A
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Brady%20Campaign%22) (Tier 1)
+- ~~[Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Brady%20Campaign%22)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:sec-edgar end -->
 
 ### Campaign Finance (FEC)
@@ -298,7 +298,7 @@ Brady represents issue-based donor infrastructure serving Democratic electoral p
 | DARCY BURNER FOR CONGRESS | $2,500 | DEM |
 | DEMOCRATIC PARTY OF VIRGINIA | $2,000 | DEM |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Brady%20Campaign) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Brady%20Campaign) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### Wikipedia
@@ -307,15 +307,15 @@ Brady: United Against Gun Violence is an American nonprofit organization that ad
 
 | Fact | Value |
 |------|-------|
-| Wikidata ID | [Q4955170](https://www.wikidata.org/wiki/Q4955170) |
+| Wikidata ID | [Q4955170](https://www.wikidata.org/wiki/Q4955170) (VERIFIED) |
 | Description | American nonprofit organization that advocates for gun control |
 | Founded | 1974-00-00 |
-| Website | [http://www.bradycampaign.org/](http://www.bradycampaign.org/) |
-| X/Twitter | [@bradybuzz](https://x.com/bradybuzz) |
-| Image | [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Brady_Campaign_logo.svg/330px-Brady_Campaign_logo.svg.png) |
+| Website | [http://www.bradycampaign.org/](http://www.bradycampaign.org/) (VERIFIED) |
+| X/Twitter | [@bradybuzz](https://x.com/bradybuzz) (VERIFIED) |
+| Image | [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Brady_Campaign_logo.svg/330px-Brady_Campaign_logo.svg.png) (VERIFIED) |
 
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/Brady_Campaign) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q4955170) (Tier 2)
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Brady_Campaign) (Tier 3) (VERIFIED)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q4955170) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
 ### Federal Register Activity
@@ -327,7 +327,7 @@ Brady: United Against Gun Violence is an American nonprofit organization that ad
 | Agencies | Federal Election Commission |
 
 **Recent regulatory activity:**
-- [Sunshine Act Meetings](https://www.federalregister.gov/documents/2024/12/09/2024-28995/sunshine-act-meetings) (2024-12-09) — Federal Election Commission
+- [Sunshine Act Meetings](https://www.federalregister.gov/documents/2024/12/09/2024-28995/sunshine-act-meetings) (VERIFIED) (2024-12-09) — Federal Election Commission
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Brady%20Campaign%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Brady%20Campaign%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->

@@ -103,11 +103,11 @@ The post-government career is the return on the Koch investment, not direct paym
 
 ### Sources
 
-- [ThinkProgress: Pompeo, #1 all-time Koch money recipient](https://archive.thinkprogress.org/secretary-of-state-pick-pompeo-top-koch-money-recipient-e910ba9e14fd/) (Tier 2)
-- [The Nation: The Koch brothers get their own Secretary of State](https://www.thenation.com/article/archive/the-koch-brothers-get-their-very-own-secretary-of-state/) (Tier 2)
-- [Quartz: Pompeo owes his political career to the Koch brothers](https://qz.com/1227882/secretary-of-state-nominee-mike-pompeo-owes-his-political-career-to-the-koch-brothers) (Tier 2)
-- [Hudson Institute: Pompeo as Distinguished Fellow](https://www.hudson.org/experts/1357-michael-r-pompeo) (Tier 2)
-- [Fox News: Pompeo joins Hudson Institute](https://www.foxnews.com/politics/mike-pompeo-hudson-institute-washington-dc) (Tier 2)
-- [Wikipedia: Mike Pompeo, full biography](https://en.wikipedia.org/wiki/Mike_Pompeo) (Tier 3)
-- [SourceWatch: Mike Pompeo. Koch connections](https://sourcewatch.org/index.php/Mike_Pompeo) (Tier 3)
+- [ThinkProgress: Pompeo, #1 all-time Koch money recipient](https://archive.thinkprogress.org/secretary-of-state-pick-pompeo-top-koch-money-recipient-e910ba9e14fd/) (Tier 2) (VERIFIED)
+- [The Nation: The Koch brothers get their own Secretary of State](https://www.thenation.com/article/archive/the-koch-brothers-get-their-very-own-secretary-of-state/) (Tier 2) (VERIFIED)
+- [Quartz: Pompeo owes his political career to the Koch brothers](https://qz.com/1227882/secretary-of-state-nominee-mike-pompeo-owes-his-political-career-to-the-koch-brothers) (Tier 2) (VERIFIED)
+- [Hudson Institute: Pompeo as Distinguished Fellow](https://www.hudson.org/experts/1357-michael-r-pompeo) (Tier 2) (VERIFIED)
+- [Fox News: Pompeo joins Hudson Institute](https://www.foxnews.com/politics/mike-pompeo-hudson-institute-washington-dc) (Tier 2) (VERIFIED)
+- [Wikipedia: Mike Pompeo, full biography](https://en.wikipedia.org/wiki/Mike_Pompeo) (Tier 3) (VERIFIED)
+- ~~[SourceWatch: Mike Pompeo. Koch connections](https://sourcewatch.org/index.php/Mike_Pompeo)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
 

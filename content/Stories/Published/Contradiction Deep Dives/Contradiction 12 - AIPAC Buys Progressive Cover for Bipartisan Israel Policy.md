@@ -99,18 +99,18 @@ The donor class controls the policy (Gaza escalation) *and* the opposition (prog
 
 ---
 
-- [FEC Candidate: Ritchie Torres campaign finance summary](https://www.fec.gov/data/candidate/H0NY15160/) (Tier 1)
-- [AIPAC Tracker: Torres AIPAC donations $683,006 + Israel Lobby Total $1,528,002](https://x.com/TrackAIPAC/status/1892365341709279628?lang=en) (Tier 2)
-- [AIPAC Tracker: Torres cumulative Israel lobby $1.57M](https://x.com/TrackAIPAC/status/1786972327953285503?lang=en) (Tier 2)
-- [Factually: AIPAC funding congressional candidates 2024](https://factually.co/fact-checks/politics/largest-aipac-udp-donations-congressional-candidates-2024-by-state-c64777) (Tier 2)
-- [The Intercept: How Does AIPAC Shape Washington? We Tracked Every Dollar](https://theintercept.com/2024/10/24/aipac-spending-congress-elections-israel/) (Tier 2)
-- [ABC News/538: Pro-Israel groups spent big to oust Bowman and Bush](https://abcnews.com/538/pro-israel-groups-spent-big-oust-squad-members/story?id=113675889) (Tier 2)
-- [The Washington Post: AIPAC defeats Bush and Bowman in 2024 primaries](https://www.washingtonpost.com/politics/2024/08/08/aipiac-cori-bush-primary/) (Tier 2)
-- [Jewish Currents: Ritchie Torres Is the Future of Pro-Israel Politics](https://jewishcurrents.org/ritchie-torres-is-the-future-of-pro-israel-politics/) (Tier 2)
-- [Times of Israel: Ritchie Torres Israel activism controversy](https://www.timesofisrael.com/ritchie-torress-israel-activism-sparks-controversy-at-home-but-in-israel-hes-a-star/) (Tier 2)
-- [Newsweek: Torres voted against Hamas resolution by mistake](https://www.newsweek.com/ritchie-torres-democrat-voted-against-hamas-resolution-mistake-1840666) (Tier 2)
-- [Fortune: Torres went from crypto newbie to key ally in Washington](https://fortune.com/crypto/2023/01/26/ritchie-torres-cryptocurrency-blockchain-web3-financial-inclusion/) (Tier 2)
-- [Stand With Crypto: Ritchie Torres crypto policy stance](https://www.standwithcrypto.org/politicians/person/ritchie---torres) (Tier 2)
+- [FEC Candidate: Ritchie Torres campaign finance summary](https://www.fec.gov/data/candidate/H0NY15160/) (Tier 1) (VERIFIED)
+- [AIPAC Tracker: Torres AIPAC donations $683,006 + Israel Lobby Total $1,528,002](https://x.com/TrackAIPAC/status/1892365341709279628?lang=en) (Tier 2) (VERIFIED)
+- [AIPAC Tracker: Torres cumulative Israel lobby $1.57M](https://x.com/TrackAIPAC/status/1786972327953285503?lang=en) (Tier 2) (VERIFIED)
+- [Factually: AIPAC funding congressional candidates 2024](https://factually.co/fact-checks/politics/largest-aipac-udp-donations-congressional-candidates-2024-by-state-c64777) (Tier 2) (VERIFIED)
+- [The Intercept: How Does AIPAC Shape Washington? We Tracked Every Dollar](https://theintercept.com/2024/10/24/aipac-spending-congress-elections-israel/) (Tier 2) (VERIFIED)
+- [ABC News/538: Pro-Israel groups spent big to oust Bowman and Bush](https://abcnews.com/538/pro-israel-groups-spent-big-oust-squad-members/story?id=113675889) (Tier 2) (VERIFIED)
+- ~~[The Washington Post: AIPAC defeats Bush and Bowman in 2024 primaries](https://www.washingtonpost.com/politics/2024/08/08/aipiac-cori-bush-primary/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Jewish Currents: Ritchie Torres Is the Future of Pro-Israel Politics](https://jewishcurrents.org/ritchie-torres-is-the-future-of-pro-israel-politics/) (Tier 2) (VERIFIED)
+- [Times of Israel: Ritchie Torres Israel activism controversy](https://www.timesofisrael.com/ritchie-torress-israel-activism-sparks-controversy-at-home-but-in-israel-hes-a-star/) (Tier 2) (VERIFIED)
+- [Newsweek: Torres voted against Hamas resolution by mistake](https://www.newsweek.com/ritchie-torres-democrat-voted-against-hamas-resolution-mistake-1840666) (Tier 2) (VERIFIED)
+- [Fortune: Torres went from crypto newbie to key ally in Washington](https://fortune.com/crypto/2023/01/26/ritchie-torres-cryptocurrency-blockchain-web3-financial-inclusion/) (Tier 2) (VERIFIED)
+- [Stand With Crypto: Ritchie Torres crypto policy stance](https://www.standwithcrypto.org/politicians/person/ritchie---torres) (Tier 2) (VERIFIED)
 
 ---
 

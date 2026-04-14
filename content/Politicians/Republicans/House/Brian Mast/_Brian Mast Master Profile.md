@@ -150,19 +150,19 @@ Mast's committee also oversees foreign affairs broadly — China, Russia, Iran, 
 
 ## Sources
 
-- [FEC Candidate: Brian Mast donor profile](https://www.fec.gov/data/candidate/H6FL18097/) (Tier 1)
-- [FEC Candidate: Brian Mast contributors](https://www.fec.gov/data/candidate/H6FL18097/) (Tier 1)
-- [Congress.gov: Brian Mast](https://www.congress.gov/member/brian-mast/M001199) (Tier 1)
-- [House Foreign Affairs Committee: Chairman Mast](https://mast.house.gov/biography) (Tier 1)
-- [Jewish Insider: Pro-Israel firebrand Rep. Brian Mast to be next Foreign Affairs chair](https://jewishinsider.com/2024/12/brian-mast-foreign-affairs-chair-pro-israel-gop-florida-legislator/) (Tier 2)
-- [Al Jazeera: Brian Mast — pro-Israel hawk set to lead House foreign policy panel](https://www.aljazeera.com/news/2024/12/11/brian-mast-pro-israel-hawk-set-to-lead-us-house-foreign-policy-panel) (Tier 2)
-- [Jewish Telegraphic Agency: House elects Mast to lead Foreign Affairs Committee](https://www.jta.org/2024/12/10/politics/house-elects-brian-mast-u-s-army-veteran-who-assisted-israeli-soldiers-as-a-civilian-volunteer-to-lead-foreign-affairs-committee) (Tier 2)
-- [Truthout: Foreign Affairs Committee chair to staff — call West Bank "Judea and Samaria"](https://truthout.org/articles/foreign-affairs-committee-chair-to-staff-call-west-bank-judea-and-samaria/) (Tier 2)
-- [Responsible Statecraft: Mast forces staff to call West Bank "Judea & Samaria"](https://responsiblestatecraft.org/rep-mast-west-bank/) (Tier 2)
-- [Florida Politics: Brian Mast fudges promise to return sugar money](https://floridapolitics.com/archives/220282-brian-mast-fudges-promise-return-sugar-money-blasts-opponent-calls/) (Tier 2)
-- [Times of Israel: Pro-Israel US Army vet runs for Congress](https://www.timesofisrael.com/pro-israel-us-army-vet-runs-for-congress-on-prosthetic-legs/) (Tier 3)
-- [Ballotpedia: Brian Mast](https://ballotpedia.org/Brian_Mast) (Tier 3)
-- [Wikipedia: Brian Mast](https://en.wikipedia.org/wiki/Brian_Mast) (Tier 3)
+- [FEC Candidate: Brian Mast donor profile](https://www.fec.gov/data/candidate/H6FL18097/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Brian Mast contributors](https://www.fec.gov/data/candidate/H6FL18097/) (Tier 1) (VERIFIED)
+- [Congress.gov: Brian Mast](https://www.congress.gov/member/brian-mast/M001199) (Tier 1) (VERIFIED)
+- [House Foreign Affairs Committee: Chairman Mast](https://mast.house.gov/biography) (Tier 1) (VERIFIED)
+- [Jewish Insider: Pro-Israel firebrand Rep. Brian Mast to be next Foreign Affairs chair](https://jewishinsider.com/2024/12/brian-mast-foreign-affairs-chair-pro-israel-gop-florida-legislator/) (Tier 2) (VERIFIED)
+- [Al Jazeera: Brian Mast — pro-Israel hawk set to lead House foreign policy panel](https://www.aljazeera.com/news/2024/12/11/brian-mast-pro-israel-hawk-set-to-lead-us-house-foreign-policy-panel) (Tier 2) (VERIFIED)
+- [Jewish Telegraphic Agency: House elects Mast to lead Foreign Affairs Committee](https://www.jta.org/2024/12/10/politics/house-elects-brian-mast-u-s-army-veteran-who-assisted-israeli-soldiers-as-a-civilian-volunteer-to-lead-foreign-affairs-committee) (Tier 2) (VERIFIED)
+- [Truthout: Foreign Affairs Committee chair to staff — call West Bank "Judea and Samaria"](https://truthout.org/articles/foreign-affairs-committee-chair-to-staff-call-west-bank-judea-and-samaria/) (Tier 2) (VERIFIED)
+- [Responsible Statecraft: Mast forces staff to call West Bank "Judea & Samaria"](https://responsiblestatecraft.org/rep-mast-west-bank/) (Tier 2) (VERIFIED)
+- [Florida Politics: Brian Mast fudges promise to return sugar money](https://floridapolitics.com/archives/220282-brian-mast-fudges-promise-return-sugar-money-blasts-opponent-calls/) (Tier 2) (VERIFIED)
+- [Times of Israel: Pro-Israel US Army vet runs for Congress](https://www.timesofisrael.com/pro-israel-us-army-vet-runs-for-congress-on-prosthetic-legs/) (Tier 3) (VERIFIED)
+- [Ballotpedia: Brian Mast](https://ballotpedia.org/Brian_Mast) (Tier 3) (VERIFIED)
+- [Wikipedia: Brian Mast](https://en.wikipedia.org/wiki/Brian_Mast) (Tier 3) (VERIFIED)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -196,7 +196,7 @@ Mast's committee also oversees foreign affairs broadly — China, Russia, Iran, 
 | DCCC | $0 | $614,220 |
 | SPECIAL OPERATIONS FOR AMERICA | $411,772 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6FL18097/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6FL18097/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Sanctions & PEP Screening (OpenSanctions)
@@ -211,8 +211,8 @@ Mast's committee also oversees foreign affairs broadly — China, Russia, Iran, 
 | Topics | role.pep, role.pol, sanction.counter |
 
 **Matched records:**
-- [Brian Mast](https://www.opensanctions.org/entities/Q27733854/) — 100% match (wd_categories, ann_pep_positions, everypolitician)
-- [Brian Jeffery Mast](https://www.opensanctions.org/entities/ru-mfa-c245e7a7e83731e1eb236cf2f4e4ac4cf680ea8b/) — 95% match (ru_mfa_sanctions)
+- [Brian Mast](https://www.opensanctions.org/entities/Q27733854/) (VERIFIED) — 100% match (wd_categories, ann_pep_positions, everypolitician)
+- [Brian Jeffery Mast](https://www.opensanctions.org/entities/ru-mfa-c245e7a7e83731e1eb236cf2f4e4ac4cf680ea8b/) (VERIFIED) — 95% match (ru_mfa_sanctions)
 
-- [Source: OpenSanctions](https://www.opensanctions.org/search/?q=Brian%20Mast) (Tier 1)
+- [Source: OpenSanctions](https://www.opensanctions.org/search/?q=Brian%20Mast) (Tier 1) (VERIFIED)
 <!-- auto:opensanctions end -->

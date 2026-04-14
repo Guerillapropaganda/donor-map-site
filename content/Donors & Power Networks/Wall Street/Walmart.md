@@ -186,16 +186,16 @@ The Both-Sides Illusion is visible in the PAC's bipartisan giving: Walmart gives
 
 ### Sources
 
-- [OpenSecrets: Walmart Inc PAC and lobbying profile](https://www.opensecrets.org/orgs/walmart-inc/summary?id=D000000367) (Tier 1)
-- [FEC: Walmart Inc PAC for Responsible Government (C00093054)](https://www.fec.gov/data/committee/C00093054/) (Tier 1)
-- [OpenSecrets: Walmart PAC candidate recipients 2024](https://www.opensecrets.org/political-action-committees-pacs/walmart-inc/C00093054/candidate-recipients/2024) (Tier 1)
-- [OpenSecrets: Walmart lobbying profile](https://www.opensecrets.org/orgs/walmart-inc/lobbying?id=D000000367) (Tier 1)
-- [GAO/Sen. Sanders: Taxpayers subsidize poverty wages at Walmart, McDonald's](https://www.sanders.senate.gov/press-releases/taxpayers-subsidize-poverty-wages-at-walmart-mcdonalds-other-large-corporations-gao-finds/) (Tier 1)
-- [United for Respect: Walmart's 2024 Political Spending](https://united4respect.org/reports/walmart-political-spending-2024/) (Tier 2)
-- [CNBC: Walmart and McDonald's among top employers of Medicaid and food stamp beneficiaries](https://www.cnbc.com/2020/11/19/walmart-and-mcdonalds-among-top-employers-of-medicaid-and-food-stamp-beneficiaries.html) (Tier 2)
-- [Human Rights Watch: Discounting Rights. Walmart's violation of workers' freedom of association](https://www.hrw.org/report/2007/05/01/discounting-rights/wal-marts-violation-us-workers-right-freedom-association) (Tier 2)
-- [UFCW: Walmart's sharp turn to the right](https://www.ufcw.org/press-releases/new-report-on-political-contributions-underscores-walmarts-sharp-turn-to-the-right/) (Tier 3)
-- [Columbia Journalism Review: How billionaires get around the estate tax (Walton family)](https://www.cjr.org/the_audit/bloomberg_waltons_how_billionaires_get_around_estate_tax.php) (Tier 2)
+- [OpenSecrets: Walmart Inc PAC and lobbying profile](https://www.opensecrets.org/orgs/walmart-inc/summary?id=D000000367) (Tier 1) (VERIFIED)
+- [FEC: Walmart Inc PAC for Responsible Government (C00093054)](https://www.fec.gov/data/committee/C00093054/) (Tier 1) (VERIFIED)
+- [OpenSecrets: Walmart PAC candidate recipients 2024](https://www.opensecrets.org/political-action-committees-pacs/walmart-inc/C00093054/candidate-recipients/2024) (Tier 1) (VERIFIED)
+- [OpenSecrets: Walmart lobbying profile](https://www.opensecrets.org/orgs/walmart-inc/lobbying?id=D000000367) (Tier 1) (VERIFIED)
+- [GAO/Sen. Sanders: Taxpayers subsidize poverty wages at Walmart, McDonald's](https://www.sanders.senate.gov/press-releases/taxpayers-subsidize-poverty-wages-at-walmart-mcdonalds-other-large-corporations-gao-finds/) (Tier 1) (VERIFIED)
+- [United for Respect: Walmart's 2024 Political Spending](https://united4respect.org/reports/walmart-political-spending-2024/) (Tier 2) (VERIFIED)
+- [CNBC: Walmart and McDonald's among top employers of Medicaid and food stamp beneficiaries](https://www.cnbc.com/2020/11/19/walmart-and-mcdonalds-among-top-employers-of-medicaid-and-food-stamp-beneficiaries.html) (Tier 2) (VERIFIED)
+- [Human Rights Watch: Discounting Rights. Walmart's violation of workers' freedom of association](https://www.hrw.org/report/2007/05/01/discounting-rights/wal-marts-violation-us-workers-right-freedom-association) (Tier 2) (VERIFIED)
+- [UFCW: Walmart's sharp turn to the right](https://www.ufcw.org/press-releases/new-report-on-political-contributions-underscores-walmarts-sharp-turn-to-the-right/) (Tier 3) (VERIFIED)
+- [Columbia Journalism Review: How billionaires get around the estate tax (Walton family)](https://www.cjr.org/the_audit/bloomberg_waltons_how_billionaires_get_around_estate_tax.php) (Tier 2) (VERIFIED)
 
 ### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
@@ -208,7 +208,7 @@ The Both-Sides Illusion is visible in the PAC's bipartisan giving: Walmart gives
 | Total Expenses | $3.5B |
 | Net Assets | $890.1M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 710569421](https://projects.propublica.org/nonprofits/organizations/710569421) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 710569421](https://projects.propublica.org/nonprofits/organizations/710569421) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Federal Register Activity
@@ -222,15 +222,15 @@ The Both-Sides Illusion is visible in the PAC's bipartisan giving: Walmart gives
 | Agencies | Alcohol and Tobacco Tax and Trade Bureau, Antitrust Division, Centers for Medicare & Medicaid Services, Drug Enforcement Administration, Environmental Protection Agency, Federal Trade Commission, Food and Drug Administration, Health and Human Services Department +7 more |
 
 **Recent regulatory activity:**
-- [Medicare Program; Contract Year 2027 and Certain Contract Year 2026 Policy and Technical Changes to the Medicare Advantage Program, Medicare Prescription Drug Benefit Program, and Medicare Cost Plan Program](https://www.federalregister.gov/documents/2026/04/06/2026-06600/medicare-program-contract-year-2027-and-certain-contract-year-2026-policy-and-technical-changes-to) (2026-04-06) — Health and Human Services Department ★
-- [United States v. Reddy Ice LLC, et al. Proposed Final Judgment and Competitive Impact Statement](https://www.federalregister.gov/documents/2026/02/18/2026-03102/united-states-v-reddy-ice-llc-et-al-proposed-final-judgment-and-competitive-impact-statement) (2026-02-18) — Justice Department
-- [Hazardous Materials: Notice of Applications for New Special Permits](https://www.federalregister.gov/documents/2026/01/16/2026-00870/hazardous-materials-notice-of-applications-for-new-special-permits) (2026-01-16) — Transportation Department
-- [Phasedown of Hydrofluorocarbons: Notice of 2026 Allowance Allocations for Production and Consumption of Regulated Substances Under the American Innovation and Manufacturing Act of 2020, and Notice of Final Actions Establishing Administrative Consequences](https://www.federalregister.gov/documents/2025/11/20/2025-20439/phasedown-of-hydrofluorocarbons-notice-of-2026-allowance-allocations-for-production-and-consumption) (2025-11-20) — Environmental Protection Agency
-- [Hazardous Materials: Notice of Actions on Special Permits](https://www.federalregister.gov/documents/2025/09/05/2025-17018/hazardous-materials-notice-of-actions-on-special-permits) (2025-09-05) — Transportation Department
-- [Certain Artificial Eyelash Extension Systems, Products, and Components Thereof; Notice of Commission Determination To Grant a Joint Motion To Terminate the Investigation](https://www.federalregister.gov/documents/2025/09/03/2025-16799/certain-artificial-eyelash-extension-systems-products-and-components-thereof-notice-of-commission) (2025-09-03) — International Trade Commission
+- [Medicare Program; Contract Year 2027 and Certain Contract Year 2026 Policy and Technical Changes to the Medicare Advantage Program, Medicare Prescription Drug Benefit Program, and Medicare Cost Plan Program](https://www.federalregister.gov/documents/2026/04/06/2026-06600/medicare-program-contract-year-2027-and-certain-contract-year-2026-policy-and-technical-changes-to) (VERIFIED) (2026-04-06) — Health and Human Services Department ★
+- [United States v. Reddy Ice LLC, et al. Proposed Final Judgment and Competitive Impact Statement](https://www.federalregister.gov/documents/2026/02/18/2026-03102/united-states-v-reddy-ice-llc-et-al-proposed-final-judgment-and-competitive-impact-statement) (VERIFIED) (2026-02-18) — Justice Department
+- [Hazardous Materials: Notice of Applications for New Special Permits](https://www.federalregister.gov/documents/2026/01/16/2026-00870/hazardous-materials-notice-of-applications-for-new-special-permits) (VERIFIED) (2026-01-16) — Transportation Department
+- ~~[Phasedown of Hydrofluorocarbons: Notice of 2026 Allowance Allocations for Production and Consumption of Regulated Substances Under the American Innovation and Manufacturing Act of 2020, and Notice of Final Actions Establishing Administrative Consequences](https://www.federalregister.gov/documents/2025/11/20/2025-20439/phasedown-of-hydrofluorocarbons-notice-of-2026-allowance-allocations-for-production-and-consumption)~~ (URL broken, archived by Ops) (2025-11-20) — Environmental Protection Agency
+- [Hazardous Materials: Notice of Actions on Special Permits](https://www.federalregister.gov/documents/2025/09/05/2025-17018/hazardous-materials-notice-of-actions-on-special-permits) (VERIFIED) (2025-09-05) — Transportation Department
+- [Certain Artificial Eyelash Extension Systems, Products, and Components Thereof; Notice of Commission Determination To Grant a Joint Motion To Terminate the Investigation](https://www.federalregister.gov/documents/2025/09/03/2025-16799/certain-artificial-eyelash-extension-systems-products-and-components-thereof-notice-of-commission) (VERIFIED) (2025-09-03) — International Trade Commission
 - ... and 171 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Walmart%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Walmart%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Federal Court Records (CourtListener)
@@ -249,7 +249,7 @@ The Both-Sides Illusion is visible in the PAC's bipartisan giving: Walmart gives
 - Farr v. Walmart Inc (2026) — District Court, E.D. Arkansas
 - Roberts v. Walmart Inc. (2026) — District Court, N.D. Georgia
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Walmart%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Walmart%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Lobbying Activity
@@ -268,7 +268,7 @@ The Both-Sides Illusion is visible in the PAC's bipartisan giving: Walmart gives
 
 **Agencies contacted:** Administration for Children & Families (ACF), Agriculture, Dept of (USDA), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Consumer Product Safety Commission (CPSC), Council of Economic Advisers (CEA), Defense, Dept of (DOD), Education, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP) +21 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Walmart) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Walmart) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Tax Filings (IRS 990)
@@ -285,14 +285,14 @@ The Both-Sides Illusion is visible in the PAC's bipartisan giving: Walmart gives
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/710569421/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/710569421/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/710569421/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/710569421/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/710569421/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/710569421/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/710569421/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/710569421/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/710569421/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/710569421/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/710569421) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/710569421) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### SEC Filing Activity
@@ -306,11 +306,11 @@ The Both-Sides Illusion is visible in the PAC's bipartisan giving: Walmart gives
 
 **Notable filings:**
 
-- 2026-04-07 — **25-NSE**: [25-NSE](https://www.sec.gov/Archives/edgar/data/104169/000135445726000333/0001354457-26-000333-index.htm)
-- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/104169/000010416926000075/0000104169-26-000075-index.htm)
-- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/104169/000010416926000074/0000104169-26-000074-index.htm)
-- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/104169/000118342826000004/0001183428-26-000004-index.htm)
-- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/104169/000162858826000004/0001628588-26-000004-index.htm)
+- 2026-04-07 — **25-NSE**: [25-NSE](https://www.sec.gov/Archives/edgar/data/104169/000135445726000333/0001354457-26-000333-index.htm) (VERIFIED)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/104169/000010416926000075/0000104169-26-000075-index.htm) (VERIFIED)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/104169/000010416926000074/0000104169-26-000074-index.htm) (VERIFIED)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/104169/000118342826000004/0001183428-26-000004-index.htm) (VERIFIED)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/104169/000162858826000004/0001628588-26-000004-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Walmart%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Walmart%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->

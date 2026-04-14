@@ -155,19 +155,19 @@ On tax policy, he frames himself as the counterweight to Crapo — the progressi
 
 ## Sources
 
-- [FEC Candidate: Ron Wyden Campaign Finance Summary](https://www.fec.gov/data/candidate/H0OR03026/) (Tier 1)
-- [FEC: Ron Wyden Candidate Profile (S6OR00110)](https://www.fec.gov/data/candidate/S6OR00110/) (Tier 1)
-- [Senate Finance Committee: Ranking Member Wyden](https://www.finance.senate.gov/about/ranking-member) (Tier 1)
-- [Finance Committee: Wyden Introduces Billionaires Income Tax Act (2025)](https://www.finance.senate.gov/ranking-members-news/wyden-cohen-beyer-introduce-the-billionaires-income-tax-act) (Tier 1)
-- [Finance Committee: Wyden Unveils Billionaires Income Tax (2021)](https://www.finance.senate.gov/chairmans-news/wyden-unveils-billionaires-income-tax) (Tier 1)
-- [Wyden.senate.gov: Government Surveillance Reform Act](https://www.wyden.senate.gov/news/press-releases/wyden-lee-davidson-and-lofgren-introduce-bill-to-reform-fisa-section-702-protect-americans-constitutional-rights-and-plug-data-broker-surveillance-loophole) (Tier 1)
-- [Rolling Stone: Ron Wyden Champions Big Tech's Interests Despite Wife's Stock Holdings](https://www.rollingstone.com/politics/politics-features/ron-wyden-big-tech-wife-stocks-1234974940/) (Tier 2)
-- [Revolving Door Project: Wyden Unethically Champions Big Tech Anti-Regulatory Push](https://therevolvingdoorproject.org/release-wyden-unethically-champions-big-techs-anti-regulatory-push-despite-wifes-massive-investments-in-apple-microsoft-amazon-and-google/) (Tier 2)
-- [The Lund Report: Pharma Showers Key Oregon Lawmakers with Money](https://www.thelundreport.org/content/pharma-showers-key-oregon-lawmakers-money) (Tier 2)
-- [OPB: Intel Investment in Oregon Tied to Federal Funding](https://www.opb.org/article/2024/03/20/intel-investment-oregon-federal-funding/) (Tier 2)
-- [Tax Policy Center: Wyden's Billionaires Income Tax — Ambitious but Problematic](https://taxpolicycenter.org/taxvox/wydens-billionaire-income-tax-ambitious-problematic) (Tier 2)
-- [Brennan Center: Senate Vote Signals Hope for Surveillance Reform](https://www.brennancenter.org/our-work/analysis-opinion/surprising-senate-vote-signals-new-hope-surveillance-reform) (Tier 2)
-- [Ballotpedia: Ron Wyden](https://ballotpedia.org/Ron_Wyden) (Tier 3)
+- [FEC Candidate: Ron Wyden Campaign Finance Summary](https://www.fec.gov/data/candidate/H0OR03026/) (Tier 1) (VERIFIED)
+- [FEC: Ron Wyden Candidate Profile (S6OR00110)](https://www.fec.gov/data/candidate/S6OR00110/) (Tier 1) (VERIFIED)
+- [Senate Finance Committee: Ranking Member Wyden](https://www.finance.senate.gov/about/ranking-member) (Tier 1) (VERIFIED)
+- [Finance Committee: Wyden Introduces Billionaires Income Tax Act (2025)](https://www.finance.senate.gov/ranking-members-news/wyden-cohen-beyer-introduce-the-billionaires-income-tax-act) (Tier 1) (VERIFIED)
+- [Finance Committee: Wyden Unveils Billionaires Income Tax (2021)](https://www.finance.senate.gov/chairmans-news/wyden-unveils-billionaires-income-tax) (Tier 1) (VERIFIED)
+- [Wyden.senate.gov: Government Surveillance Reform Act](https://www.wyden.senate.gov/news/press-releases/wyden-lee-davidson-and-lofgren-introduce-bill-to-reform-fisa-section-702-protect-americans-constitutional-rights-and-plug-data-broker-surveillance-loophole) (Tier 1) (VERIFIED)
+- [Rolling Stone: Ron Wyden Champions Big Tech's Interests Despite Wife's Stock Holdings](https://www.rollingstone.com/politics/politics-features/ron-wyden-big-tech-wife-stocks-1234974940/) (Tier 2) (VERIFIED)
+- [Revolving Door Project: Wyden Unethically Champions Big Tech Anti-Regulatory Push](https://therevolvingdoorproject.org/release-wyden-unethically-champions-big-techs-anti-regulatory-push-despite-wifes-massive-investments-in-apple-microsoft-amazon-and-google/) (Tier 2) (VERIFIED)
+- [The Lund Report: Pharma Showers Key Oregon Lawmakers with Money](https://www.thelundreport.org/content/pharma-showers-key-oregon-lawmakers-money) (Tier 2) (VERIFIED)
+- [OPB: Intel Investment in Oregon Tied to Federal Funding](https://www.opb.org/article/2024/03/20/intel-investment-oregon-federal-funding/) (Tier 2) (VERIFIED)
+- [Tax Policy Center: Wyden's Billionaires Income Tax — Ambitious but Problematic](https://taxpolicycenter.org/taxvox/wydens-billionaire-income-tax-ambitious-problematic) (Tier 2) (VERIFIED)
+- [Brennan Center: Senate Vote Signals Hope for Surveillance Reform](https://www.brennancenter.org/our-work/analysis-opinion/surprising-senate-vote-signals-new-hope-surveillance-reform) (Tier 2) (VERIFIED)
+- [Ballotpedia: Ron Wyden](https://ballotpedia.org/Ron_Wyden) (Tier 3) (VERIFIED)
 
 ---
 
@@ -200,7 +200,7 @@ On tax policy, he frames himself as the counterweight to Crapo — the progressi
 | SENIOR POLITICAL ACTION COMMITTEE  (WASH D.C.) | $0 | $679 |
 | POLITICAL ACTION FOR LASTING SECURITY | $0 | $80 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0OR03026/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0OR03026/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Congressional Stock Trades (STOCK Act)
@@ -225,7 +225,7 @@ On tax policy, he frames himself as the counterweight to Crapo — the progressi
 | 01/03/2014 | -- | Purchase | $50,001 - $100,000 | Spouse |
 | 01/03/2014 | -- | Purchase | $15,001 - $50,000 | Spouse |
 
-- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
 ### DOJ Press Releases
@@ -257,5 +257,5 @@ On tax policy, he frames himself as the counterweight to Crapo — the progressi
 | — |  | — |
 | — |  | — |
 
-- [Source: Congress.gov](https://www.congress.gov/member/W000779) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/W000779)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->

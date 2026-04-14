@@ -50,10 +50,10 @@ This is the clearest MAGA-era donor-to-policy pipeline documented to date. The d
 - Energy sector donor nodes (Energy Transfer not yet profiled, candidate for NODE BUILD)
 
 ### Sources (UNVERIFIED. Chrome unavailable):
-- [Brennan Center: Pro-Trump Super PAC Raises Record-Breaking $305 Million](https://www.brennancenter.org/our-work/analysis-opinion/pro-trump-super-pac-raises-record-breaking-305-million) (Tier 2)
-- [NOTUS: A New Generation of MAGA Megadonors Is Emerging](https://www.notus.org/money/maga-megadonors-donald-trump-super-pac) (Tier 2)
-- [Common Dreams: Why Is His Super PAC Raising Record-Busting Sums?](https://www.commondreams.org/news/trump-super-pac-maga-inc) (Tier 2)
-- [NBC News: AI, crypto and Trump super PACs stash millions for midterms](https://www.nbcnews.com/politics/2026-election/ai-crypto-trump-super-pacs-stash-millions-spend-midterms-rcna256622) (Tier 2)
+- [Brennan Center: Pro-Trump Super PAC Raises Record-Breaking $305 Million](https://www.brennancenter.org/our-work/analysis-opinion/pro-trump-super-pac-raises-record-breaking-305-million) (Tier 2) (VERIFIED)
+- [NOTUS: A New Generation of MAGA Megadonors Is Emerging](https://www.notus.org/money/maga-megadonors-donald-trump-super-pac) (Tier 2) (VERIFIED)
+- [Common Dreams: Why Is His Super PAC Raising Record-Busting Sums?](https://www.commondreams.org/news/trump-super-pac-maga-inc) (Tier 2) (VERIFIED)
+- [NBC News: AI, crypto and Trump super PACs stash millions for midterms](https://www.nbcnews.com/politics/2026-election/ai-crypto-trump-super-pacs-stash-millions-spend-midterms-rcna256622) (Tier 2) (VERIFIED)
 
 ---
 
@@ -79,8 +79,8 @@ Tariff exemptions are a new donor-return mechanism not yet tracked in the vault.
 - Existing inauguration donor tracking (overlaps with enforcement cancellation story)
 
 ### Sources (UNVERIFIED. Chrome unavailable):
-- [NPR: Trump grants tariff breaks to 'politically connected' companies, Senate Dems say](https://www.npr.org/2026/02/04/nx-s1-5698264/trump-wyden-van-hollen-tariffs-politically-connected-companies) (Tier 2)
-- [OPB: Trump grants tariff breaks to 'politically connected' companies](https://www.opb.org/article/2026/02/04/tariff-break-trump-companies/) (Tier 2)
+- [NPR: Trump grants tariff breaks to 'politically connected' companies, Senate Dems say](https://www.npr.org/2026/02/04/nx-s1-5698264/trump-wyden-van-hollen-tariffs-politically-connected-companies) (Tier 2) (VERIFIED)
+- [OPB: Trump grants tariff breaks to 'politically connected' companies](https://www.opb.org/article/2026/02/04/tariff-break-trump-companies/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -108,9 +108,9 @@ The Israel Lobby vault section tracks AIPAC, UDP, DMFI, and J Street as the prim
 - Stories/Published/2026 House Races/ (primary spending coverage)
 
 ### Sources (UNVERIFIED. Chrome unavailable):
-- [NBC News: New super PAC launches to counter AIPAC spending in Democratic primaries](https://www.nbcnews.com/politics/2026-election/new-super-pac-launches-counter-aipac-spending-democratic-primaries-rcna259448) (Tier 2)
-- [American Prospect: Pro-Palestine Super PAC Brings Multimillion-Dollar War Chest to Midterms](https://prospect.org/2026/02/20/pro-palestine-super-pac-midterm-elections-aipac-israel-gaza/) (Tier 2)
-- [Semafor: The anti-AIPAC PAC talks about its 2026 strategy](https://www.semafor.com/article/03/11/2026/the-anti-aipac-pac-talks-about-its-2026-strategy) (Tier 2)
+- [NBC News: New super PAC launches to counter AIPAC spending in Democratic primaries](https://www.nbcnews.com/politics/2026-election/new-super-pac-launches-counter-aipac-spending-democratic-primaries-rcna259448) (Tier 2) (VERIFIED)
+- [American Prospect: Pro-Palestine Super PAC Brings Multimillion-Dollar War Chest to Midterms](https://prospect.org/2026/02/20/pro-palestine-super-pac-midterm-elections-aipac-israel-gaza/) (Tier 2) (VERIFIED)
+- [Semafor: The anti-AIPAC PAC talks about its 2026 strategy](https://www.semafor.com/article/03/11/2026/the-anti-aipac-pac-talks-about-its-2026-strategy) (Tier 2) (VERIFIED)
 
 ---
 
@@ -136,9 +136,9 @@ The April 1 discovery logged AIPAC's $22M Illinois spending as Gold. Today's fil
 - [[DMFI - Democratic Majority for Israel|DMFI]] (also confirmed as AIPAC-funded shell PAC operator)
 
 ### Sources (UNVERIFIED. Chrome unavailable):
-- [Evanston RoundTable: Filings confirm AIPAC funded millions in outside spending on congressional primary](https://evanstonroundtable.com/2026/03/21/filings-confirm-aipac-funded-millions-in-outside-spending-on-congressional-primary/) (Tier 2)
-- [WBEZ: Super PAC scorecard, outside spending in Illinois primaries](https://www.wbez.org/government-politics/elections/2026/03/18/illinois-primary-super-pac-spending-aipac-cryptocurrency-ai-sports-betting) (Tier 2)
-- [NBC News: AIPAC super PAC funded big-spending Illinois groups](https://www.nbcnews.com/politics/2026-election/aipac-super-pac-funded-illinois-groups-democratic-primaries-israel-rcna264379) (Tier 2)
+- [Evanston RoundTable: Filings confirm AIPAC funded millions in outside spending on congressional primary](https://evanstonroundtable.com/2026/03/21/filings-confirm-aipac-funded-millions-in-outside-spending-on-congressional-primary/) (Tier 2) (VERIFIED)
+- [WBEZ: Super PAC scorecard, outside spending in Illinois primaries](https://www.wbez.org/government-politics/elections/2026/03/18/illinois-primary-super-pac-spending-aipac-cryptocurrency-ai-sports-betting) (Tier 2) (VERIFIED)
+- [NBC News: AIPAC super PAC funded big-spending Illinois groups](https://www.nbcnews.com/politics/2026-election/aipac-super-pac-funded-illinois-groups-democratic-primaries-israel-rcna264379) (Tier 2) (VERIFIED)
 
 ---
 
@@ -169,8 +169,8 @@ The $3.1B figure and 55-company admin-ties breakdown add quantitative precision 
 - Existing inauguration donor tracking
 
 ### Sources (UNVERIFIED. Chrome unavailable):
-- [Public Citizen: Canceled Corporate Enforcement](https://www.citizen.org/article/canceled-corporate-enforcement-trump-first-year-second-term/) (Tier 2)
-- [Campaign Legal Center: Exposing Trump's Pay-to-Play Administration](https://campaignlegal.org/exposing-president-trumps-pay-to-play-administration) (Tier 2)
+- [Public Citizen: Canceled Corporate Enforcement](https://www.citizen.org/article/canceled-corporate-enforcement-trump-first-year-second-term/) (Tier 2) (VERIFIED)
+- [Campaign Legal Center: Exposing Trump's Pay-to-Play Administration](https://campaignlegal.org/exposing-president-trumps-pay-to-play-administration) (Tier 2) (VERIFIED)
 
 ---
 
@@ -190,7 +190,7 @@ The $3.1B figure and 55-company admin-ties breakdown add quantitative precision 
 - [[Coinbase]]
 
 ### Sources (UNVERIFIED. Chrome unavailable):
-- [citationneeded.news: Crypto super PACs have hundreds of millions ready to spend on midterms](https://www.citationneeded.news/crypto-super-pacs-2026-midterms/) (Tier 2)
+- [citationneeded.news: Crypto super PACs have hundreds of millions ready to spend on midterms](https://www.citationneeded.news/crypto-super-pacs-2026-midterms/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -208,7 +208,7 @@ The $3.1B figure and 55-company admin-ties breakdown add quantitative precision 
 - Stories/Published/, potential framing for structural analysis piece
 
 ### Sources (UNVERIFIED. Chrome unavailable):
-- [American Prospect: America, We Have a Super PAC Problem](https://prospect.org/2026/03/25/america-super-pac-problem-peoples-pledge-brad-lander/) (Tier 2)
+- [American Prospect: America, We Have a Super PAC Problem](https://prospect.org/2026/03/25/america-super-pac-problem-peoples-pledge-brad-lander/) (Tier 2) (VERIFIED)
 
 ---
 

@@ -201,31 +201,31 @@ Americans pay 3–4x what Germans, Canadians, Australians pay for identical drug
 ### Sources
 
 ### Tier 1. Government Records & Official Data
-- [Senate LDA Filings: PhRMA Lobbying Profile, 2024](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [FEC Candidate: Cory Booker Donor Profile](https://www.fec.gov/data/candidate/P00009795/) (Tier 1)
-- [FEC Candidate: Richard Neal Donor Profile](https://www.fec.gov/data/candidate/H8MA02041/) (Tier 1)
-- [FEC Candidate: Brett Guthrie Donor Profile](https://www.fec.gov/data/candidate/H8KY02031/) (Tier 1)
-- [RAND: U.S. Prescription Drug Prices 2.78x International Average](https://www.rand.org/news/press/2024/02/01.html) (Tier 1)
-- [HHS ASPE: Comparing Prescription Drugs in U.S. and Other Countries](https://aspe.hhs.gov/reports/comparing-prescription-drugs) (Tier 1)
-- [Medicare Drug Price Negotiation Program • CMS.gov](https://www.cms.gov/priorities/medicare-prescription-drug-affordability/overview/medicare-drug-price-negotiation-program) (Tier 1)
-- [IRA Drug Negotiation Implementation • Congressional Research Service](https://sgp.fas.org/crs/health/IF12447.pdf) (Tier 1)
-- [U.S. GAO: Inflation Reduction Act Implementation](https://www.gao.gov/products/gao-25-106996) (Tier 1)
+- [Senate LDA Filings: PhRMA Lobbying Profile, 2024](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Cory Booker Donor Profile](https://www.fec.gov/data/candidate/P00009795/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Richard Neal Donor Profile](https://www.fec.gov/data/candidate/H8MA02041/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Brett Guthrie Donor Profile](https://www.fec.gov/data/candidate/H8KY02031/) (Tier 1) (VERIFIED)
+- ~~[RAND: U.S. Prescription Drug Prices 2.78x International Average](https://www.rand.org/news/press/2024/02/01.html)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [HHS ASPE: Comparing Prescription Drugs in U.S. and Other Countries](https://aspe.hhs.gov/reports/comparing-prescription-drugs) (Tier 1) (VERIFIED)
+- [Medicare Drug Price Negotiation Program • CMS.gov](https://www.cms.gov/priorities/medicare-prescription-drug-affordability/overview/medicare-drug-price-negotiation-program) (Tier 1) (VERIFIED)
+- [IRA Drug Negotiation Implementation • Congressional Research Service](https://sgp.fas.org/crs/health/IF12447.pdf) (Tier 1) (VERIFIED)
+- [U.S. GAO: Inflation Reduction Act Implementation](https://www.gao.gov/products/gao-25-106996) (Tier 1) (VERIFIED)
 
 ### Tier 2. Investigative Journalism & Research
-- [The Intercept: Cory Booker Joins GOP to Kill Drug Importation Measure](https://theintercept.com/2017/01/12/cory-booker-joins-senate-republicans-to-kill-measure-to-import-cheaper-medicine-from-canada/) (Tier 2)
-- [The New Republic: Cory Booker's Explanation for Drug Import Vote Doesn't Track](https://newrepublic.com/article/139820/cory-bookers-explanation-voting-cheap-prescription-drugs-doesnt-track) (Tier 2)
-- [Read Sludge: Richard Neal and Healthcare Donor Contributions](https://readsludge.com/2020/05/05/neal-took-big-bucks-from-lobbyists-while-killing-a-surprise-medical-bills-fix/) (Tier 2)
-- [Roll Call: Progressives Outraged Over Booker Democrats Drug Vote](https://rollcall.com/2017/01/12/progressives-outraged-over-booker-democrats-vote-on-prescription-drugs-from-canada/) (Tier 2)
-- [OpenSecrets News: Senate Vote on Prescription Drug Price Legislation](https://www.opensecrets.org/news/2017/01/a-senate-vote-on-prescription-drug-price/) (Tier 2)
-- [Read Sludge: Top Pharma Cash Recipient Takes Key Oversight Job (Guthrie)](https://readsludge.com/2024/12/20/top-pharma-cash-recipient-takes-key-industry-oversight-job/) (Tier 2)
-- [Kentucky Lantern: PAC Donations Flow to New Committee Chairs, Especially Guthrie](https://kentuckylantern.com/2025/10/27/pac-donations-flow-to-new-committee-chairs-especially-us-rep-brett-guthrie-of-kentucky/) (Tier 2)
-- [STAT News: Big Pharma PAC Contributions to Sanders, Warren Overblown](https://www.statnews.com/2025/02/03/big-pharma-pac-contributions-to-bernie-sanders-elizabeth-warren-open-secrets-data/) *(source unavailable)* (Tier 2)
-- [Fierce Pharma: Record Pharma Lobbying Q1 2024 at $92M](https://www.fiercepharma.com/pharma/peddling-influence-d-c-cost-pharma-industry-a-record-92m-first-quarter) (Tier 2)
+- [The Intercept: Cory Booker Joins GOP to Kill Drug Importation Measure](https://theintercept.com/2017/01/12/cory-booker-joins-senate-republicans-to-kill-measure-to-import-cheaper-medicine-from-canada/) (Tier 2) (VERIFIED)
+- [The New Republic: Cory Booker's Explanation for Drug Import Vote Doesn't Track](https://newrepublic.com/article/139820/cory-bookers-explanation-voting-cheap-prescription-drugs-doesnt-track) (Tier 2) (VERIFIED)
+- [Read Sludge: Richard Neal and Healthcare Donor Contributions](https://readsludge.com/2020/05/05/neal-took-big-bucks-from-lobbyists-while-killing-a-surprise-medical-bills-fix/) (Tier 2) (VERIFIED)
+- [Roll Call: Progressives Outraged Over Booker Democrats Drug Vote](https://rollcall.com/2017/01/12/progressives-outraged-over-booker-democrats-vote-on-prescription-drugs-from-canada/) (Tier 2) (VERIFIED)
+- [OpenSecrets News: Senate Vote on Prescription Drug Price Legislation](https://www.opensecrets.org/news/2017/01/a-senate-vote-on-prescription-drug-price/) (Tier 2) (VERIFIED)
+- [Read Sludge: Top Pharma Cash Recipient Takes Key Oversight Job (Guthrie)](https://readsludge.com/2024/12/20/top-pharma-cash-recipient-takes-key-industry-oversight-job/) (Tier 2) (VERIFIED)
+- [Kentucky Lantern: PAC Donations Flow to New Committee Chairs, Especially Guthrie](https://kentuckylantern.com/2025/10/27/pac-donations-flow-to-new-committee-chairs-especially-us-rep-brett-guthrie-of-kentucky/) (Tier 2) (VERIFIED)
+- ~~[STAT News: Big Pharma PAC Contributions to Sanders, Warren Overblown](https://www.statnews.com/2025/02/03/big-pharma-pac-contributions-to-bernie-sanders-elizabeth-warren-open-secrets-data/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+- [Fierce Pharma: Record Pharma Lobbying Q1 2024 at $92M](https://www.fiercepharma.com/pharma/peddling-influence-d-c-cost-pharma-industry-a-record-92m-first-quarter) (Tier 2) (VERIFIED)
 
 ### Tier 2. Healthcare Policy & Analysis
-- [Kaiser Health News: Big Pharma Greets Hundreds of Ex-Federal Workers at Revolving Door](https://kffhealthnews.org/news/big-pharma-greets-hundreds-of-ex-federal-workers-at-the-revolving-door/at-the-revolving-door/) (Tier 2)
-- [The Hill: Booker Tries to Shake Doubts About Pharmaceutical Ties](https://thehill.com/homenews/campaign/424993-booker-tries-to-shake-doubts-about-pharmaceutical-ties-ahead-of-2020/) (Tier 2)
-- [ProPublica: Medicare Drug Planners Now Lobbyists, With Billions at Stake](https://www.propublica.org/article/medicare-drug-planners-now-lobbyists-with-billions-at-stake-1020) (Tier 2)
+- ~~[Kaiser Health News: Big Pharma Greets Hundreds of Ex-Federal Workers at Revolving Door](https://kffhealthnews.org/news/big-pharma-greets-hundreds-of-ex-federal-workers-at-the-revolving-door/at-the-revolving-door/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Booker Tries to Shake Doubts About Pharmaceutical Ties](https://thehill.com/homenews/campaign/424993-booker-tries-to-shake-doubts-about-pharmaceutical-ties-ahead-of-2020/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [ProPublica: Medicare Drug Planners Now Lobbyists, With Billions at Stake](https://www.propublica.org/article/medicare-drug-planners-now-lobbyists-with-billions-at-stake-1020) (Tier 2) (VERIFIED)
 
 ---
 

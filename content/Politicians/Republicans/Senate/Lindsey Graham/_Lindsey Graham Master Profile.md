@@ -191,14 +191,14 @@ South Carolina's population: 5.1 million. Graham's national donor base: millions
 
 ## Sources
 
-- [FEC Candidate: Lindsey Graham campaign finance summary](https://www.fec.gov/data/candidate/H4SC03087/) (Tier 1)
-- [FEC Candidate: Lindsey Graham career industries](https://www.fec.gov/data/candidate/H4SC03087/) (Tier 1)
-- [FEC Candidate: Lindsey Graham career contributors](https://www.fec.gov/data/candidate/H4SC03087/) (Tier 1)
-- [The Intercept: Defense contractors bankrolled Graham's pro-war super PAC](https://theintercept.com/2015/07/30/senator-lindsey-grahams-pro-war-super-pac-bankrolled-defense-contractors/) (Tier 2)
-- [Center for Public Integrity: Graham's campaign collects bundle from lobbyists](https://publicintegrity.org/politics/grahams-campaign-collects-bundle-from-lobbyists/) (Tier 2)
-- [CNN: Lindsey Graham may have single-handedly saved Kavanaugh's confirmation](https://www.cnn.com/2018/09/28/politics/lindsey-graham-donald-trump-brett-kavanaugh/index.html) (Tier 2)
-- [NPR: Lindsey Graham warmed to Trump, and some voters feel left in the cold](https://www.npr.org/2020/10/18/924466869/lindsey-graham-warmed-to-trump-and-some-republican-voters-feel-left-in-the-cold) (Tier 2)
-- [Post and Courier: Harrison spent $118 per vote, Graham $73 in SC's historically expensive Senate race](https://www.postandcourier.com/politics/harrison-spent-118-per-vote-graham-73-in-scs-historically-expensive-senate-race/article_8dd94928-1fb6-11eb-ba09-bf208756a2eb.html) (Tier 2)
-- [Defense News: Senate passes Ukraine, Israel, Taiwan aid amid Trump-fueled opposition](https://www.defensenews.com/congress/2024/02/13/senate-passes-ukraine-israel-taiwan-aid-amid-trump-fueled-opposition/) (Tier 2)
-- [Ballotpedia: Lindsey Graham](https://ballotpedia.org/Lindsey_Graham) (Tier 3)
+- [FEC Candidate: Lindsey Graham campaign finance summary](https://www.fec.gov/data/candidate/H4SC03087/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Lindsey Graham career industries](https://www.fec.gov/data/candidate/H4SC03087/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Lindsey Graham career contributors](https://www.fec.gov/data/candidate/H4SC03087/) (Tier 1) (VERIFIED)
+- [The Intercept: Defense contractors bankrolled Graham's pro-war super PAC](https://theintercept.com/2015/07/30/senator-lindsey-grahams-pro-war-super-pac-bankrolled-defense-contractors/) (Tier 2) (VERIFIED)
+- [Center for Public Integrity: Graham's campaign collects bundle from lobbyists](https://publicintegrity.org/politics/grahams-campaign-collects-bundle-from-lobbyists/) (Tier 2) (VERIFIED)
+- [CNN: Lindsey Graham may have single-handedly saved Kavanaugh's confirmation](https://www.cnn.com/2018/09/28/politics/lindsey-graham-donald-trump-brett-kavanaugh/index.html) (Tier 2) (VERIFIED)
+- [NPR: Lindsey Graham warmed to Trump, and some voters feel left in the cold](https://www.npr.org/2020/10/18/924466869/lindsey-graham-warmed-to-trump-and-some-republican-voters-feel-left-in-the-cold) (Tier 2) (VERIFIED)
+- [Post and Courier: Harrison spent $118 per vote, Graham $73 in SC's historically expensive Senate race](https://www.postandcourier.com/politics/harrison-spent-118-per-vote-graham-73-in-scs-historically-expensive-senate-race/article_8dd94928-1fb6-11eb-ba09-bf208756a2eb.html) (Tier 2) (VERIFIED)
+- [Defense News: Senate passes Ukraine, Israel, Taiwan aid amid Trump-fueled opposition](https://www.defensenews.com/congress/2024/02/13/senate-passes-ukraine-israel-taiwan-aid-amid-trump-fueled-opposition/) (Tier 2) (VERIFIED)
+- [Ballotpedia: Lindsey Graham](https://ballotpedia.org/Lindsey_Graham) (Tier 3) (VERIFIED)
 

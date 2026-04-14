@@ -184,17 +184,17 @@ This is not a one-time transaction. Warren's subsequent donations to Abbott (pos
 
 ### Sources
 
-- [Greenpeace: A Brief History of Kelcy Warren and Donald Trump](https://www.greenpeace.org/global/usa/a-brief-history-of-kelcy-warren-and-donald-trump/) (Tier 2)
-- [E&E News: Dakota Access CEO Gives $10M to Boost Trump](https://www.eenews.net/articles/dakota-access-ceo-gives-10m-to-boost-trump/) (Tier 2)
-- [Truthout: Dakota Access Pipeline Company Is Top Fossil Fuel Donor to Trump's War Chest](https://truthout.org/articles/dakota-access-pipeline-company-is-top-fossil-fuel-donor-to-trumps-war-chest/) (Tier 2)
-- [Wikipedia: Kelcy Warren](https://en.wikipedia.org/wiki/Kelcy_Warren) (Tier 3)
-- [Texas Observer: After Kelcy Warren's Energy Transfer Partners Made Billions from Deadly Texas Blackouts, He Gave $1 Million to Greg Abbott](https://www.texasobserver.org/after-kelcy-warrens-energy-transfer-partners-made-billions-from-the-deadly-texas-blackouts-he-gave-1-million-to-greg-abbott/) (Tier 2)
-- [Facing South: Meet the Texas Billionaire and GOP Donor Behind the North Dakota Pipeline Controversy](https://www.facingsouth.org/2016/09/meet-texas-billionaire-and-gop-donor-behind-north-dakota-pipeline-controversy) (Tier 2)
-- [E&E News: Billionaire Kelcy Warren Invests in Pipelines and Trump](https://www.eenews.net/articles/billionaire-kelcy-warren-invests-in-pipelines-and-trump/) (Tier 2)
-- [Salon: A Pipeline of Oil Money Fuels Texas Deregulators](https://www.salon.com/2021/03/02/a-pipeline-of-oil-money-fuels-texas-deregulators_partner/) (Tier 2)
-- [ProPublica: Energy Transfer Partners Texas PAC 527 Explorer](https://projects.propublica.org/527-explorer/orgs/261239573) (Tier 1)
-- [NPR: Greenpeace Faces $300 Million Lawsuit After Dakota Access Pipeline Protests](https://www.npr.org/2025/02/24/nx-s1-5292463/greenpeace-lawsuit-energy-transfer-dakota-access) (Tier 2)
-- [FEC Receipts: Kelcy Warren Donor Lookup](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=kelcy%20warren) (Tier 1)
+- ~~[Greenpeace: A Brief History of Kelcy Warren and Donald Trump](https://www.greenpeace.org/global/usa/a-brief-history-of-kelcy-warren-and-donald-trump/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [E&E News: Dakota Access CEO Gives $10M to Boost Trump](https://www.eenews.net/articles/dakota-access-ceo-gives-10m-to-boost-trump/) (Tier 2) (VERIFIED)
+- [Truthout: Dakota Access Pipeline Company Is Top Fossil Fuel Donor to Trump's War Chest](https://truthout.org/articles/dakota-access-pipeline-company-is-top-fossil-fuel-donor-to-trumps-war-chest/) (Tier 2) (VERIFIED)
+- [Wikipedia: Kelcy Warren](https://en.wikipedia.org/wiki/Kelcy_Warren) (Tier 3) (VERIFIED)
+- [Texas Observer: After Kelcy Warren's Energy Transfer Partners Made Billions from Deadly Texas Blackouts, He Gave $1 Million to Greg Abbott](https://www.texasobserver.org/after-kelcy-warrens-energy-transfer-partners-made-billions-from-the-deadly-texas-blackouts-he-gave-1-million-to-greg-abbott/) (Tier 2) (VERIFIED)
+- [Facing South: Meet the Texas Billionaire and GOP Donor Behind the North Dakota Pipeline Controversy](https://www.facingsouth.org/2016/09/meet-texas-billionaire-and-gop-donor-behind-north-dakota-pipeline-controversy) (Tier 2) (VERIFIED)
+- [E&E News: Billionaire Kelcy Warren Invests in Pipelines and Trump](https://www.eenews.net/articles/billionaire-kelcy-warren-invests-in-pipelines-and-trump/) (Tier 2) (VERIFIED)
+- [Salon: A Pipeline of Oil Money Fuels Texas Deregulators](https://www.salon.com/2021/03/02/a-pipeline-of-oil-money-fuels-texas-deregulators_partner/) (Tier 2) (VERIFIED)
+- [ProPublica: Energy Transfer Partners Texas PAC 527 Explorer](https://projects.propublica.org/527-explorer/orgs/261239573) (Tier 1) (VERIFIED)
+- [NPR: Greenpeace Faces $300 Million Lawsuit After Dakota Access Pipeline Protests](https://www.npr.org/2025/02/24/nx-s1-5292463/greenpeace-lawsuit-energy-transfer-dakota-access) (Tier 2) (VERIFIED)
+- [FEC Receipts: Kelcy Warren Donor Lookup](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=kelcy%20warren) (Tier 1) (VERIFIED)
 
 ---
 
@@ -228,7 +228,7 @@ This is not a one-time transaction. Warren's subsequent donations to Abbott (pos
 - Bruce Smith v. University of Texas At San Antonio (2023) — District Court, W.D. Texas
 - D'Augusta v. American Petroleum Institute (2022) — District Court, N.D. California
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Kelcy%20Warren%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Kelcy%20Warren%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -242,8 +242,8 @@ This is not a one-time transaction. Warren's subsequent donations to Abbott (pos
 | Total Expenses | $7K |
 | Net Assets | $94K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 367285069](https://projects.propublica.org/nonprofits/organizations/367285069) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=2016_06_PF%2F36-7285069_990PF_201512.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 367285069](https://projects.propublica.org/nonprofits/organizations/367285069) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=2016_06_PF%2F36-7285069_990PF_201512.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### DOJ Press Releases
@@ -264,5 +264,5 @@ This is not a one-time transaction. Warren's subsequent donations to Abbott (pos
 - 2025-11-20 — **4**: 4
 - 2023-05-23 — **4**: FORM 4 SUBMISSION
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Kelcy%20Warren%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Kelcy%20Warren%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->

@@ -130,17 +130,17 @@ Mills employs prosecutor-turned-executive pragmatism: she frames issues through 
 
 ## Sources
 
-- [Janet Mills - Wikipedia](https://en.wikipedia.org/wiki/Janet_Mills) (Tier 3)
-- [About the Governor | Office of Governor Janet T. Mills](https://www.maine.gov/governor/mills/about) (Tier 1 - primary source) (Tier 2)
-- [Janet Mills Is Flopping in the Fight for Maine Senate | DropSite News](https://www.dropsitenews.com/p/janet-mills-maine-senate-fec-million-dollars-small-donors) (Tier 2)
-- [Senator Susan Collins led Democratic challengers in fundraising entering 2026 | Maine News Center](https://www.newscentermaine.com/article/news/local/senator-susan-collins-led-democratic-challengers-in-fundraising-entering-2026/97-32582488-380f-48af-8827-8812275ad02a) (Tier 2)
-- [Maine Gov. Janet Mills enters Senate race against Susan Collins | Roll Call](https://rollcall.com/2025/10/14/maine-gov-janet-mills-officially-enters-senate-race/) (Tier 2)
-- [Deep-pocketed groups are already spending on the Maine U.S. Senate race | Maine Public](https://www.mainepublic.org/politics/2025-12-12/deep-pocketed-groups-are-already-spending-on-the-maine-u-s-senate-race-heres-an-early-guide) (Tier 2)
-- [Graham Platner posts $4.6 million in fourth quarter fundraising, Gov. Janet Mills $2.7 million | Maine Public](https://www.mainepublic.org/politics/2026-02-02/graham-platner-posts-4-6-million-in-fourth-quarter-fundraising-gov-janet-mills-2-7-million) (Tier 2)
-- [Janet T Mills Money Profile | OpenSecrets](https://www.opensecrets.org/officeholders/janet-t-mills/summary?cycle=2021&id=9941379) (Tier 1)
-- [8 months until election day and spending in Maine U.S. Senate race already tops $37 million | Maine Public](https://www.mainepublic.org/politics/2026-03-20/8-months-until-election-day-and-spending-in-maine-u-s-senate-race-already-tops-37-million) (Tier 2)
-- [Governor Mills Applauds Attorney General Frey for Opioid Settlement Funds Agreement | Office of Governor Janet T. Mills](https://www.maine.gov/governor/mills/news/governor-mills-applauds-attorney-general-frey-opioid-settlement-funds-agreement-2022-01-28) (Tier 1 - primary source) (Tier 2)
-- [Here's how the Maine AG's office is spending its share of the opioid settlement | Bangor Daily News](https://www.bangordailynews.com/2025/12/22/politics/state-politics/maine-ags-office-opioid-settlement/) (Tier 2)
+- [Janet Mills - Wikipedia](https://en.wikipedia.org/wiki/Janet_Mills) (Tier 3) (VERIFIED)
+- [About the Governor | Office of Governor Janet T. Mills](https://www.maine.gov/governor/mills/about) (VERIFIED) (Tier 1 - primary source) (Tier 2)
+- [Janet Mills Is Flopping in the Fight for Maine Senate | DropSite News](https://www.dropsitenews.com/p/janet-mills-maine-senate-fec-million-dollars-small-donors) (Tier 2) (VERIFIED)
+- [Senator Susan Collins led Democratic challengers in fundraising entering 2026 | Maine News Center](https://www.newscentermaine.com/article/news/local/senator-susan-collins-led-democratic-challengers-in-fundraising-entering-2026/97-32582488-380f-48af-8827-8812275ad02a) (Tier 2) (VERIFIED)
+- [Maine Gov. Janet Mills enters Senate race against Susan Collins | Roll Call](https://rollcall.com/2025/10/14/maine-gov-janet-mills-officially-enters-senate-race/) (Tier 2) (VERIFIED)
+- [Deep-pocketed groups are already spending on the Maine U.S. Senate race | Maine Public](https://www.mainepublic.org/politics/2025-12-12/deep-pocketed-groups-are-already-spending-on-the-maine-u-s-senate-race-heres-an-early-guide) (Tier 2) (VERIFIED)
+- [Graham Platner posts $4.6 million in fourth quarter fundraising, Gov. Janet Mills $2.7 million | Maine Public](https://www.mainepublic.org/politics/2026-02-02/graham-platner-posts-4-6-million-in-fourth-quarter-fundraising-gov-janet-mills-2-7-million) (Tier 2) (VERIFIED)
+- ~~[Janet T Mills Money Profile | OpenSecrets](https://www.opensecrets.org/officeholders/janet-t-mills/summary?cycle=2021&id=9941379)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [8 months until election day and spending in Maine U.S. Senate race already tops $37 million | Maine Public](https://www.mainepublic.org/politics/2026-03-20/8-months-until-election-day-and-spending-in-maine-u-s-senate-race-already-tops-37-million) (Tier 2) (VERIFIED)
+- [Governor Mills Applauds Attorney General Frey for Opioid Settlement Funds Agreement | Office of Governor Janet T. Mills](https://www.maine.gov/governor/mills/news/governor-mills-applauds-attorney-general-frey-opioid-settlement-funds-agreement-2022-01-28) (VERIFIED) (Tier 1 - primary source) (Tier 2)
+- [Here's how the Maine AG's office is spending its share of the opioid settlement | Bangor Daily News](https://www.bangordailynews.com/2025/12/22/politics/state-politics/maine-ags-office-opioid-settlement/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -157,7 +157,7 @@ party:: Democrat
 | PAC Contributions | $6,000 |
 | Cash on Hand | 162.00 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4ME02085/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4ME02085/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Committee Assignments (Congress.gov)

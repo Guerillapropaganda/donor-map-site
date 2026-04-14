@@ -51,10 +51,10 @@ Meanwhile, small businesses without lobbyist access face the full tariff burden.
 Tariffs are sold as populist economic nationalism, protecting American workers from foreign competition. In practice, they function as a regressive tax on small businesses and consumers, while the donor class purchases exemptions through lobbying access. The tariff exemption process is donor control at its most structural: the policy itself is designed to punish the unconnected while rewarding the connected. The absence of a formal application process in the second term makes this even more explicit, you don't apply for an exemption, you buy access to the people who grant them.
 
 ### Sources (all Chrome-verified VALID):
-- [ProPublica: Politically Connected Firms Benefit From Trump Tariff Exemptions Amid Secrecy, Confusion](https://www.propublica.org/article/trump-tariffs-exemptions-pet-lobbyists-asbestos-confusion-secrecy) (Tier 2)
-- [Public Citizen: Trump Loves Tariffs, Just Not for the Rich and Well-Connected](https://www.citizen.org/article/trump-loves-tariffs-just-not-for-the-rich-and-well-connected/) (Tier 2)
-- [Lehigh University: Politically Connected Corporations Received More Exemptions from U.S. Tariffs](https://news.lehigh.edu/politically-connected-corporations-received-more-exemptions-from-us-tariffs-on-chinese-imports) (Tier 2)
-- [The Dispatch: Businesses Scramble for Tariff Exemptions](https://thedispatch.com/article/donald-trump-tariffs-exemptions-lobbying/) (Tier 3)
+- [ProPublica: Politically Connected Firms Benefit From Trump Tariff Exemptions Amid Secrecy, Confusion](https://www.propublica.org/article/trump-tariffs-exemptions-pet-lobbyists-asbestos-confusion-secrecy) (Tier 2) (VERIFIED)
+- [Public Citizen: Trump Loves Tariffs, Just Not for the Rich and Well-Connected](https://www.citizen.org/article/trump-loves-tariffs-just-not-for-the-rich-and-well-connected/) (Tier 2) (VERIFIED)
+- [Lehigh University: Politically Connected Corporations Received More Exemptions from U.S. Tariffs](https://news.lehigh.edu/politically-connected-corporations-received-more-exemptions-from-us-tariffs-on-chinese-imports) (Tier 2) (VERIFIED)
+- [The Dispatch: Businesses Scramble for Tariff Exemptions](https://thedispatch.com/article/donald-trump-tariffs-exemptions-lobbying/) (Tier 3) (VERIFIED)
 
 > [!money]
 > A one standard deviation increase in Republican donations raised tariff exemption probability by 3.94 percentage points. PhRMA alone spent $387M lobbying in 2024. The February 2026 proclamation exempted every major donor-heavy industry. This is a quantified pay-to-play system with academic receipts.
@@ -91,10 +91,10 @@ The irony is structural: the crypto industry spent $193M (Fairshake) plus $265,5
 The crypto industry followed the standard donor-class playbook: spend $193M on elections, buy favorable legislation, install friendly regulators. It worked. SEC enforcement collapsed, GENIUS Act signed into law. But the CLARITY Act reveals a new dysfunction in the donor-capture model: when the politician you purchased also becomes a direct competitor in your industry, his personal corruption can sabotage the regulatory framework you paid for. Trump isn't just serving the crypto donor class; he's extracting personal profit that makes their legislative agenda unpassable. The donor class bought a tool and the tool started serving itself.
 
 ### Sources (all Chrome-verified VALID):
-- [CNBC: Trump Sides With Crypto Firms in Trillion-Dollar Battle With Banks Over Stablecoin Yield](https://www.cnbc.com/2026/03/04/trump-crypto-banks-stablecoin-yield.html) (Tier 2)
-- [Fortune: Landmark Crypto Bill Clears Senate Hurdle But Democrats Withhold Support Over 'Gryfto' Rules](https://fortune.com/2026/01/29/clarity-act-gryfto-crypto-senate-agriculture-committee-booker-trump-banking/) (Tier 2)
-- [FinTech Weekly: CLARITY Act Campaign Finance. Who Funds the Industry Deciding Its Own Fate](https://www.fintechweekly.com/news/clarity-act-senate-campaign-finance-fairshake-crypto-pac-fec-data-2026) (Tier 3)
-- [CNBC: Crypto PAC Fairshake Touts $193M War Chest as Regulatory Bill Faces First Vote](https://www.cnbc.com/2026/01/28/crypto-pac-fairshake-bill-vote.html) (Tier 2)
+- [CNBC: Trump Sides With Crypto Firms in Trillion-Dollar Battle With Banks Over Stablecoin Yield](https://www.cnbc.com/2026/03/04/trump-crypto-banks-stablecoin-yield.html) (Tier 2) (VERIFIED)
+- [Fortune: Landmark Crypto Bill Clears Senate Hurdle But Democrats Withhold Support Over 'Gryfto' Rules](https://fortune.com/2026/01/29/clarity-act-gryfto-crypto-senate-agriculture-committee-booker-trump-banking/) (Tier 2) (VERIFIED)
+- [FinTech Weekly: CLARITY Act Campaign Finance. Who Funds the Industry Deciding Its Own Fate](https://www.fintechweekly.com/news/clarity-act-senate-campaign-finance-fairshake-crypto-pac-fec-data-2026) (Tier 3) (VERIFIED)
+- [CNBC: Crypto PAC Fairshake Touts $193M War Chest as Regulatory Bill Faces First Vote](https://www.cnbc.com/2026/01/28/crypto-pac-fairshake-bill-vote.html) (Tier 2) (VERIFIED)
 
 > [!contradiction]
 > The crypto industry spent $193M to elect politicians who would pass favorable legislation. Then the president they helped elect started personally profiting from the same industry, creating conflicts of interest that are now blocking the legislation they paid for. The donor class bought a politician and the politician became a competitor.
@@ -125,9 +125,9 @@ NBC News reported that AI, crypto, and Trump-aligned super PACs have collectivel
 - Could anchor a cross-PAC analysis: `The $340M Convergence. How Three Industries Are Buying the 2026 Midterms.md`
 
 ### Sources (all Chrome-verified VALID):
-- [American Prospect: America, We Have a Super PAC Problem](https://prospect.org/2026/03/25/america-super-pac-problem-peoples-pledge-brad-lander/) (Tier 2)
-- [Washington Monthly: Crypto, AI, and AIPAC Are Corrupting Democratic Primaries](https://washingtonmonthly.com/2026/03/17/crypto-aipac-corrupting-democratic-primaries/) (Tier 2)
-- [NBC News: AI, Crypto and Trump Super PACs Stash Millions to Spend on the Midterms](https://www.nbcnews.com/politics/2026-election/ai-crypto-trump-super-pacs-stash-millions-spend-midterms-rcna256622) (Tier 2)
+- [American Prospect: America, We Have a Super PAC Problem](https://prospect.org/2026/03/25/america-super-pac-problem-peoples-pledge-brad-lander/) (Tier 2) (VERIFIED)
+- [Washington Monthly: Crypto, AI, and AIPAC Are Corrupting Democratic Primaries](https://washingtonmonthly.com/2026/03/17/crypto-aipac-corrupting-democratic-primaries/) (Tier 2) (VERIFIED)
+- [NBC News: AI, Crypto and Trump Super PACs Stash Millions to Spend on the Midterms](https://www.nbcnews.com/politics/2026-election/ai-crypto-trump-super-pacs-stash-millions-spend-midterms-rcna256622) (Tier 2) (VERIFIED)
 
 > [!money]
 > Combined identified war chests: Fairshake $193M + UDP $96M + Leading the Future $50M = $340M+ before the general election. Three different industries using identical super PAC capture strategies, converging on the same races. The structural function is identical: buy the caucus composition before voters choose.
@@ -153,8 +153,8 @@ The structural dynamic: Congress produced a scathing bipartisan report (rare bip
 - Potential connection to healthcare policy sub-notes under various politicians
 
 ### Sources (all Chrome-verified VALID):
-- [PESTAK: Private Equity Health Care Acquisitions. January 2026](https://pestakeholder.org/news/private-equity-health-care-acquisitions-january-2026/) (Tier 2)
-- [Chief Healthcare Executive: Hospitals and Private Equity. Scathing Senate Report Shows Concerns Cross Party Lines](https://www.chiefhealthcareexecutive.com/view/hospitals-and-private-equity-scathing-senate-report-shows-concerns-cross-party-lines) (Tier 2)
+- [PESTAK: Private Equity Health Care Acquisitions. January 2026](https://pestakeholder.org/news/private-equity-health-care-acquisitions-january-2026/) (Tier 2) (VERIFIED)
+- ~~[Chief Healthcare Executive: Hospitals and Private Equity. Scathing Senate Report Shows Concerns Cross Party Lines](https://www.chiefhealthcareexecutive.com/view/hospitals-and-private-equity-scathing-senate-report-shows-concerns-cross-party-lines)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 > [!contradiction]
 > The Senate produced a bipartisan report agreeing that PE-acquired hospitals deliver worse care at higher cost. Then Congress did nothing. Private equity donors fund both parties. The bipartisan agreement on the problem is exactly matched by bipartisan refusal to solve it.
@@ -174,7 +174,7 @@ The structural function: the "threats" to contractors are political theater for 
 **Why Bronze:** The defense-donor pipeline is well-documented in the vault already. This adds a current data point ($1.5T, 950 lobbyists) and the contradiction theater angle, but doesn't represent a new pattern, it's the existing donor-class override operating at larger scale.
 
 ### Sources (all Chrome-verified VALID):
-- [Quincy Institute: Profits of War. Top Beneficiaries of Pentagon Spending, 2020–2024](https://quincyinst.org/research/profits-of-war-top-beneficiaries-of-pentagon-spending-2020-2024/) (Tier 2)
+- [Quincy Institute: Profits of War. Top Beneficiaries of Pentagon Spending, 2020–2024](https://quincyinst.org/research/profits-of-war-top-beneficiaries-of-pentagon-spending-2020-2024/) (Tier 2) (VERIFIED)
 
 ---
 

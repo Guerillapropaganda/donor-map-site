@@ -13,7 +13,7 @@ profiles:
 
 ## Texas Board of Education to consider requiring Bible passage readings for public schools
 
-**Source:** [The Hill](https://thehill.com/homenews/education/5819365-texas-bible-school-reading-list/)
+**Source:** ~~[The Hill](https://thehill.com/homenews/education/5819365-texas-bible-school-reading-list/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-07
 
 Texas is considering changes to its required reading lists for public school classrooms that include the addition of passages and stories from the Bible. In the proposed list for the upcoming Texas State Board of Education meeting, obtained by The New York Times, seventh grade students would read the biblical story of Jonah and the whale and…

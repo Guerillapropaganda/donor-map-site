@@ -148,11 +148,11 @@ The class lesson Brown's defeat teaches is that labor movements cannot own polit
 ### Sources
 
 #### Verified
-- [FEC Candidate: Sherrod Brown campaign finance summary](https://www.fec.gov/data/candidate/H2OH13033/) (Tier 1)
-- [AFL-CIO Scorecard: Sherrod Brown labor voting record](https://aflcio.org/scorecard/legislators/sherrod-brown) (Tier 1)
-- [WOSU Public Media: Crypto spent millions to defeat Sherrod Brown and elect allies](https://www.wosu.org/politics-government/2025-10-13/crypto-spent-millions-to-defeat-sherrod-brown-and-elect-allies-its-ready-for-a-repeat-in-2026) (Tier 2)
-- [CNBC: Bitcoiners celebrate as Bernie Moreno ousts Sherrod Brown](https://www.cnbc.com/2024/11/05/bitcoiners-celebrate-as-bernie-moreno-ousts-sherrod-brown-ohio-upset.html) (Tier 2)
-- [Common Dreams: Crypto Industry's $40 Million Defeat of Pro-Worker Sherrod Brown](https://www.commondreams.org/news/sherrod-brown-crypto) (Tier 3)
+- [FEC Candidate: Sherrod Brown campaign finance summary](https://www.fec.gov/data/candidate/H2OH13033/) (Tier 1) (VERIFIED)
+- ~~[AFL-CIO Scorecard: Sherrod Brown labor voting record](https://aflcio.org/scorecard/legislators/sherrod-brown)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [WOSU Public Media: Crypto spent millions to defeat Sherrod Brown and elect allies](https://www.wosu.org/politics-government/2025-10-13/crypto-spent-millions-to-defeat-sherrod-brown-and-elect-allies-its-ready-for-a-repeat-in-2026) (Tier 2) (VERIFIED)
+- [CNBC: Bitcoiners celebrate as Bernie Moreno ousts Sherrod Brown](https://www.cnbc.com/2024/11/05/bitcoiners-celebrate-as-bernie-moreno-ousts-sherrod-brown-ohio-upset.html) (Tier 2) (VERIFIED)
+- [Common Dreams: Crypto Industry's $40 Million Defeat of Pro-Worker Sherrod Brown](https://www.commondreams.org/news/sherrod-brown-crypto) (Tier 3) (VERIFIED)
 
 #### Archived
 - ~~[OpenSecrets: Victory Now for Sherrod Brown donors 2024](https://www.opensecrets.org/joint-fundraising-committees-jfcs/victory-now-for-sherrod-brown/C00846196/2024/donors)~~ (was Tier 1 — OpenSecrets demoted, data preserved in FEC section)
@@ -186,7 +186,7 @@ The class lesson Brown's defeat teaches is that labor movements cannot own polit
 | GOOD JOBS AND STRONG COMMUNITIES PAC | $10,000 | $0 |
 | STARS AND STRIPES FOREVER PAC | $0 | $7,341 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2OH13033/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2OH13033/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 <!-- auto:fec-politician pending-merge 2026-04-13 -->
@@ -223,7 +223,7 @@ The class lesson Brown's defeat teaches is that labor movements cannot own polit
 | WINSENATE | $12,170,854 | $0 |
 | CROSSROADS GRASSROOTS POLICY STRATEGIES | $0 | $11,968,181 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6OH00163/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6OH00163/) (Tier 1) (VERIFIED)
 
 <!-- auto:fec-politician pending-merge end -->
 
@@ -235,7 +235,7 @@ The class lesson Brown's defeat teaches is that labor movements cannot own polit
 | Bills Cosponsored | 0 |
 | Total Votes Cast | 14,251 |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400050) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400050) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
 
 <!-- auto:govtrack pending-merge 2026-04-11 -->
@@ -285,10 +285,10 @@ The class lesson Brown's defeat teaches is that labor movements cannot own polit
 | Topics | role.pol, sanction.counter, role.pep, role.rca |
 
 **Matched records:**
-- [Sherrod Brown](https://www.opensanctions.org/entities/Q381880/) — 100% match (wd_categories, ann_pep_positions, everypolitician)
+- [Sherrod Brown](https://www.opensanctions.org/entities/Q381880/) (VERIFIED) — 100% match (wd_categories, ann_pep_positions, everypolitician)
 - [Sherrod Brown](https://www.opensanctions.org/entities/Q381880/) — 100% match (wd_categories, ann_pep_positions, everypolitician)
 
-- [Source: OpenSanctions](https://www.opensanctions.org/search/?q=Sherrod%20Brown) (Tier 1)
+- [Source: OpenSanctions](https://www.opensanctions.org/search/?q=Sherrod%20Brown) (Tier 1) (VERIFIED)
 <!-- auto:opensanctions end -->
 
 ### Campaign Finance Summary (FEC)
@@ -320,7 +320,7 @@ The class lesson Brown's defeat teaches is that labor movements cannot own polit
 <!-- auto:committee-assignments start -->
 _No committee data found._
 
-- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 ### Legislative Activity (Congress.gov)
@@ -349,7 +349,7 @@ _No committee data found._
 | 4635 | To designate the facility of the United States Postal Service located at 890 Eas… | Ordered to be Reported by the Yeas and Nays: 38 - 2. |
 | 4392 | Uterine Fibroid Intervention and Gynecological Health Treatment Act of 2025 | Referred to the House Committee on Energy and Commerce. |
 
-- [Source: Congress.gov](https://www.congress.gov/member/B001313) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/B001313)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Voting Record
@@ -374,8 +374,8 @@ _No committee data found._
 
 **Sources**
 
-- [Congress.gov: Sherrod Brown](https://www.congress.gov/member/e000179) (Tier 1)
-- [GovTrack: Sherrod Brown](https://www.govtrack.us/congress/members/400050) (Tier 1)
+- ~~[Congress.gov: Sherrod Brown](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [GovTrack: Sherrod Brown](https://www.govtrack.us/congress/members/400050) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
 
 ### Wikipedia
@@ -384,13 +384,13 @@ Sherrod Campbell Brown is an American politician who served from 2007 to 2025 as
 
 | Fact | Value |
 |------|-------|
-| Wikidata ID | [Q381880](https://www.wikidata.org/wiki/Q381880) |
+| Wikidata ID | [Q381880](https://www.wikidata.org/wiki/Q381880) (VERIFIED) |
 | Description | American politician and educator (born 1952) |
 | Born | 1952-11-09 |
-| Website | [https://www.brown.senate.gov/](https://www.brown.senate.gov/) |
-| X/Twitter | [@SenSherrodBrown](https://x.com/SenSherrodBrown) |
-| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Sherrod_Brown_official_photo_2009.jpg?width=300) |
+| Website | ~~[https://www.brown.senate.gov/](https://www.brown.senate.gov/)~~ (URL broken, archived by Ops) |
+| X/Twitter | [@SenSherrodBrown](https://x.com/SenSherrodBrown) (VERIFIED) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Sherrod_Brown_official_photo_2009.jpg?width=300) (NEEDS REVIEW) |
 
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/Sherrod_Brown) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q381880) (Tier 2)
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Sherrod_Brown) (Tier 3) (VERIFIED)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q381880) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->

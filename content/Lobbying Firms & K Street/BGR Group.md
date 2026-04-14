@@ -265,27 +265,27 @@ BGR's 58% revenue surge in Trump's first year of his second term is the monetary
 
 ### Sources
 
-- [Senate LDA Filings: BGR Group Lobbying Profile — $71.5M revenue (2025), 328 clients, firm summary](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA Filings: BGR Group Lobbyists 2024 — 36 lobbyists, 31 (86.1%) revolving door](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA Filings: BGR Group Issues Lobbied 2024 — issue area breakdown by client count](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [OpenSecrets: Sean P. Duffy Revolving Door Profile — congressman to BGR lobbyist to Transportation Secretary](https://www.opensecrets.org/revolving-door/duffy-sean-p/summary?id=82248) (Tier 1)
-- [OpenSecrets News: Lobbying firms took in a record $5 billion in 2025 — BGR ranked #3 nationally](https://www.opensecrets.org/news/2026/01/lobbying-firms-took-in-a-record-5-billion-in-2025/) (Tier 1)
-- [OpenSecrets News: As lobbying revenue grows at record pace, Trump-aligned firms reap the biggest rewards — BGR growth attributed to Urban/Trump ties](https://www.opensecrets.org/news/2025/11/as-lobbying-revenue-grows-at-record-pace-trump-aligned-firms-reap-the-biggest-rewards) (Tier 1)
-- [OpenSecrets News: Top firms rake in millions lobbying for foreign nations on U.S. defense budget — BGR FARA client analysis, Bahrain $1M+ in 2021](https://www.opensecrets.org/news/2023/12/top-firms-rake-in-millions-lobbying-for-foreign-nations-on-us-defense-budget/) (Tier 1)
-- [Responsible Statecraft: The spinning door — from U.S. government service to lobbying for dictators — BGR foreign government FARA analysis](https://responsiblestatecraft.org/2022/08/25/the-revolving-door-from-us-government-service-to-lobbying-for-dictators/) (Tier 2)
-- [Newsweek: Transport Nominee Sean Duffy Lobbied for Companies Against Trump's Positions — Duffy BGR lobbying record vs. Trump positions](https://www.newsweek.com/donald-trump-cabinet-sean-duffy-transportation-nominee-lobbied-against-1988062) (Tier 2)
-- [Media Matters: CNN's Sean Duffy joins leading lobbying firm, creating untold conflicts of interest for the network — Duffy simultaneous CNN/BGR conflict of interest](https://www.mediamatters.org/cnn/cnns-sean-duffy-joins-leading-lobbying-firm-creating-untold-conflicts-interest-network) (Tier 2)
-- [Jackson Free Press: Mississippi Lobbyists, Associates in Thick of Trump's Ukraine-Russia Web — Barbour/BGR Ukraine-Russia connections, 2019](https://www.jacksonfreepress.com/news/2019/oct/02/mississippi-lobbyists-associates-thick-trumps-ukra/) (Tier 2)
-- [Wikipedia: BGR Group — founding history, Barbour Griffith & Rogers, Fortune rankings, firm evolution](https://en.wikipedia.org/wiki/BGR_Group) (Tier 3)
-- [O'Dwyer's PR News: Panama Hires BGR as Trump Threatens Canal Takeover — $205K/month FARA contract, Urban/Seiden/Munson team, January 2025](https://www.odwyerpr.com/story/public/22429/2025-01-21/panama-hires-bgr-as-trump-threatens-canal-takeover.html) (Tier 2)
-- [O'Dwyer's PR News: Somalia Selects BGR for $600K Pact — $50K/month FARA, December 2024, Somaliland recognition context](https://www.odwyerpr.com/story/public/22300/2024-12-18/somalia-selects-bgr-for-600k-pact.html) (Tier 2)
-- [Global Witness: Trump-linked firms make millions from aid-deprived nations — BGR named in minerals-for-lobbying investigation, July 2025](https://globalwitness.org/en/campaigns/transition-minerals/revealed-trump-linked-firms-cash-in-on-mineral-lobbying-deals-as-us-cuts-aid/) (Tier 2)
-- [The Daily Pennsylvanian: Penn retains BGR Group with former Trump advisor amid federal funding dispute — Urban/Murphy/Brin/Wood team, May 2025](https://www.thedp.com/article/2025/06/penn-lobbying-efforts-bgr-group) (Tier 2)
-- [Columbia Spectator: Columbia tripled its federal lobbying spending to over $1 million in 2025 — BGR among retained firms post-$400M funding cancellation](https://www.columbiaspectator.com/news/2026/01/25/columbia-tripled-its-federal-lobbying-spending-to-over-1-million-in-2025/) (Tier 2)
-- [The Hill: Top universities ramp up lobbying amid Trump higher education crackdown — broader university lobbying spike context, BGR among firms benefiting](https://thehill.com/homenews/education/5574565-universities-lobbying-trump-crackdown/) (Tier 2)
-- [BGR Group: BGR Group Welcomes Lt. Gen. Keith Kellogg to Advisory Board — former Trump Ukraine-Russia envoy, January 2026](https://bgrdc.com/bgr-group-welcomes-lt-gen-keith-kellogg-u-s-army-ret-to-advisory-board/) (Tier 3)
-- [Fox Business: Keith Kellogg joins BGR Group's advisory board — ex-Trump special envoy Ukraine lands private sector role](https://www.foxbusiness.com/politics/ex-trump-special-envoy-ukraine-lands-new-job-private-sector) (Tier 3)
-- [BGR Group: Charlie Chapman Joins BGR Health and Life Sciences Practice as VP — former Trump HHS Policy Advisor, CMS counsel, March 30 2026](https://bgrdc.com/charlie-chapman-joins-bgr-health-and-life-sciences-practice-as-vp/) (Tier 3)
+- [Senate LDA Filings: BGR Group Lobbying Profile — $71.5M revenue (2025), 328 clients, firm summary](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: BGR Group Lobbyists 2024 — 36 lobbyists, 31 (86.1%) revolving door](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: BGR Group Issues Lobbied 2024 — issue area breakdown by client count](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [OpenSecrets: Sean P. Duffy Revolving Door Profile — congressman to BGR lobbyist to Transportation Secretary](https://www.opensecrets.org/revolving-door/duffy-sean-p/summary?id=82248) (Tier 1) (VERIFIED)
+- [OpenSecrets News: Lobbying firms took in a record $5 billion in 2025 — BGR ranked #3 nationally](https://www.opensecrets.org/news/2026/01/lobbying-firms-took-in-a-record-5-billion-in-2025/) (Tier 1) (VERIFIED)
+- [OpenSecrets News: As lobbying revenue grows at record pace, Trump-aligned firms reap the biggest rewards — BGR growth attributed to Urban/Trump ties](https://www.opensecrets.org/news/2025/11/as-lobbying-revenue-grows-at-record-pace-trump-aligned-firms-reap-the-biggest-rewards) (Tier 1) (VERIFIED)
+- [OpenSecrets News: Top firms rake in millions lobbying for foreign nations on U.S. defense budget — BGR FARA client analysis, Bahrain $1M+ in 2021](https://www.opensecrets.org/news/2023/12/top-firms-rake-in-millions-lobbying-for-foreign-nations-on-us-defense-budget/) (Tier 1) (VERIFIED)
+- [Responsible Statecraft: The spinning door — from U.S. government service to lobbying for dictators — BGR foreign government FARA analysis](https://responsiblestatecraft.org/2022/08/25/the-revolving-door-from-us-government-service-to-lobbying-for-dictators/) (Tier 2) (VERIFIED)
+- [Newsweek: Transport Nominee Sean Duffy Lobbied for Companies Against Trump's Positions — Duffy BGR lobbying record vs. Trump positions](https://www.newsweek.com/donald-trump-cabinet-sean-duffy-transportation-nominee-lobbied-against-1988062) (Tier 2) (VERIFIED)
+- [Media Matters: CNN's Sean Duffy joins leading lobbying firm, creating untold conflicts of interest for the network — Duffy simultaneous CNN/BGR conflict of interest](https://www.mediamatters.org/cnn/cnns-sean-duffy-joins-leading-lobbying-firm-creating-untold-conflicts-interest-network) (Tier 2) (VERIFIED)
+- [Jackson Free Press: Mississippi Lobbyists, Associates in Thick of Trump's Ukraine-Russia Web — Barbour/BGR Ukraine-Russia connections, 2019](https://www.jacksonfreepress.com/news/2019/oct/02/mississippi-lobbyists-associates-thick-trumps-ukra/) (Tier 2) (VERIFIED)
+- [Wikipedia: BGR Group — founding history, Barbour Griffith & Rogers, Fortune rankings, firm evolution](https://en.wikipedia.org/wiki/BGR_Group) (Tier 3) (VERIFIED)
+- [O'Dwyer's PR News: Panama Hires BGR as Trump Threatens Canal Takeover — $205K/month FARA contract, Urban/Seiden/Munson team, January 2025](https://www.odwyerpr.com/story/public/22429/2025-01-21/panama-hires-bgr-as-trump-threatens-canal-takeover.html) (Tier 2) (VERIFIED)
+- [O'Dwyer's PR News: Somalia Selects BGR for $600K Pact — $50K/month FARA, December 2024, Somaliland recognition context](https://www.odwyerpr.com/story/public/22300/2024-12-18/somalia-selects-bgr-for-600k-pact.html) (Tier 2) (VERIFIED)
+- [Global Witness: Trump-linked firms make millions from aid-deprived nations — BGR named in minerals-for-lobbying investigation, July 2025](https://globalwitness.org/en/campaigns/transition-minerals/revealed-trump-linked-firms-cash-in-on-mineral-lobbying-deals-as-us-cuts-aid/) (Tier 2) (VERIFIED)
+- [The Daily Pennsylvanian: Penn retains BGR Group with former Trump advisor amid federal funding dispute — Urban/Murphy/Brin/Wood team, May 2025](https://www.thedp.com/article/2025/06/penn-lobbying-efforts-bgr-group) (Tier 2) (VERIFIED)
+- [Columbia Spectator: Columbia tripled its federal lobbying spending to over $1 million in 2025 — BGR among retained firms post-$400M funding cancellation](https://www.columbiaspectator.com/news/2026/01/25/columbia-tripled-its-federal-lobbying-spending-to-over-1-million-in-2025/) (Tier 2) (VERIFIED)
+- ~~[The Hill: Top universities ramp up lobbying amid Trump higher education crackdown — broader university lobbying spike context, BGR among firms benefiting](https://thehill.com/homenews/education/5574565-universities-lobbying-trump-crackdown/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [BGR Group: BGR Group Welcomes Lt. Gen. Keith Kellogg to Advisory Board — former Trump Ukraine-Russia envoy, January 2026](https://bgrdc.com/bgr-group-welcomes-lt-gen-keith-kellogg-u-s-army-ret-to-advisory-board/) (Tier 3) (VERIFIED)
+- [Fox Business: Keith Kellogg joins BGR Group's advisory board — ex-Trump special envoy Ukraine lands private sector role](https://www.foxbusiness.com/politics/ex-trump-special-envoy-ukraine-lands-new-job-private-sector) (Tier 3) (VERIFIED)
+- [BGR Group: Charlie Chapman Joins BGR Health and Life Sciences Practice as VP — former Trump HHS Policy Advisor, CMS counsel, March 30 2026](https://bgrdc.com/charlie-chapman-joins-bgr-health-and-life-sciences-practice-as-vp/) (Tier 3) (VERIFIED)
 
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->
@@ -303,7 +303,7 @@ BGR's 58% revenue surge in Trump's first year of his second term is the monetary
 - FRIDMAN v. BEAN LLC (2017) — District Court, District of Columbia
 - Mayfield v. Butler Snow, LLP (2017) — District Court, S.D. Mississippi
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22BGR%20Group%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22BGR%20Group%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### DOJ Press Releases

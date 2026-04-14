@@ -53,8 +53,8 @@ Virginia Foxx. Republican, North Carolina's 5th District. Chair of the House Edu
 
 Net worth: $3.4–$10.5 million (2023 financial disclosure). Age 82 (born 1943). Ph.D. from UNC Greensboro. Now in her 11th term.
 
-- [FEC Candidate: Virginia Foxx campaign finance summary](https://www.fec.gov/data/candidate/H4NC05146/) (Tier 1)
-- [FEC: Virginia Ann Foxx candidate overview](https://www.fec.gov/data/candidate/H4NC05146/) (Tier 1)
+- [FEC Candidate: Virginia Foxx campaign finance summary](https://www.fec.gov/data/candidate/H4NC05146/) (Tier 1) (VERIFIED)
+- [FEC: Virginia Ann Foxx candidate overview](https://www.fec.gov/data/candidate/H4NC05146/) (Tier 1) (VERIFIED)
 
 ---
 
@@ -83,7 +83,7 @@ Foxx is Congress's top recipient of for-profit college money. The relationship i
 | Apollo Global Management | $52,700 | 2023–2024 | Private equity owner of University of Phoenix |
 | APSCU/CECU PAC | Top 3 donor | Multiple cycles | For-profit college trade association |
 
-- [Republic Report: As House Education Chair Probes For-Profit Colleges, Ranking Republican Foxx Takes Their Donations](https://www.republicreport.org/2022/as-house-education-chair-probes-for-profit-colleges-ranking-republican-foxx-takes-their-donations/) (Tier 2)
+- [Republic Report: As House Education Chair Probes For-Profit Colleges, Ranking Republican Foxx Takes Their Donations](https://www.republicreport.org/2022/as-house-education-chair-probes-for-profit-colleges-ranking-republican-foxx-takes-their-donations/) (Tier 2) (VERIFIED)
 
 ### Mega-Donor Individual Contributors:
 | Donor | Amount | Cycle | Connection |
@@ -102,7 +102,7 @@ McDonald's, Lowe's, Deere & Company, Discover Financial Services, Caterpillar, A
 - 36.72% PAC contributions
 - 2.23% small individual contributions
 
-- [FEC Candidate: Virginia Foxx contributors](https://www.fec.gov/data/candidate/H4NC05146/) (Tier 1)
+- [FEC Candidate: Virginia Foxx contributors](https://www.fec.gov/data/candidate/H4NC05146/) (Tier 1) (VERIFIED)
 
 ---
 
@@ -131,12 +131,12 @@ McDonald's, Lowe's, Deere & Company, Discover Financial Services, Caterpillar, A
 ### The PROSPER Act (2017):
 Foxx's flagship legislation as first-term chair would have reauthorized the Higher Education Act while gutting student protections: eliminating the "gainful employment" rule (requiring colleges to prove graduates can repay loans), dropping the "90/10 rule" (requiring for-profits to get 10% of revenue from non-federal sources), and weakening accountability standards across the board. The bill never passed the Senate but established Foxx's legislative priorities — a deregulation agenda written to for-profit college specifications.
 
-- [Inside Higher Ed: U.S. House committee leaks summary of broad plan for reauthorizing Higher Education Act](https://www.insidehighered.com/news/2017/11/30/us-house-committee-leaks-summary-broad-plan-reauthorizing-higher-education-act) (Tier 2)
+- [Inside Higher Ed: U.S. House committee leaks summary of broad plan for reauthorizing Higher Education Act](https://www.insidehighered.com/news/2017/11/30/us-house-committee-leaks-summary-broad-plan-reauthorizing-higher-education-act) (Tier 2) (VERIFIED)
 
 ### Student Loan Forgiveness Opposition (2023):
 As committee chair, Foxx was the primary architect and spokesperson of the House resolution overturning Biden's student debt relief plan, which passed 218–203. Her framing: "Two-thirds of this debt transfer plan would go to the top half of earners. It takes from those in the lower half and gives to the upper half." After the Supreme Court struck down Biden's plan, she celebrated: "Mr. President, good riddance to your illegal, economically disastrous taxpayer-funded bailout for the wealthy." The "regressive" framing selectively ignores that 91% of targeted borrowers earned under $75,000.
 
-- [The Hill: House passes measure overturning Biden's student debt forgiveness](https://thehill.com/homenews/education/4019425-house-passes-measure-overturning-bidens-student-debt-forgiveness-program/) (Tier 2)
+- ~~[The Hill: House passes measure overturning Biden's student debt forgiveness](https://thehill.com/homenews/education/4019425-house-passes-measure-overturning-bidens-student-debt-forgiveness-program/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ### College Cost Reduction Act (2024):
 Foxx's second attempt at the same deregulation agenda — rolling back Biden-era reinstatement of gainful employment and 90/10 rules. The pattern is persistent: the same donor-aligned deregulation reintroduced under different names across multiple sessions.
@@ -183,21 +183,21 @@ Virginia Foxx serves the for-profit education industry and its private equity ba
 
 - [FEC Candidate: Virginia Foxx campaign finance summary](https://www.fec.gov/data/candidate/H4NC05146/) (Tier 1)
 - [FEC: Virginia Ann Foxx candidate overview](https://www.fec.gov/data/candidate/H4NC05146/) (Tier 1)
-- [House Education and Workforce Committee: Full committee membership](https://edworkforce.house.gov/committee/fullcommittee.htm) (Tier 1)
-- [EdWorkforce Committee: Chair Foxx releases new report on student debt](https://edworkforce.house.gov/news/documentsingle.aspx?DocumentID=412129) (Tier 1)
+- [House Education and Workforce Committee: Full committee membership](https://edworkforce.house.gov/committee/fullcommittee.htm) (Tier 1) (VERIFIED)
+- [EdWorkforce Committee: Chair Foxx releases new report on student debt](https://edworkforce.house.gov/news/documentsingle.aspx?DocumentID=412129) (Tier 1) (VERIFIED)
 - [Republic Report: As House Education Chair Probes For-Profit Colleges, Ranking Republican Foxx Takes Their Donations](https://www.republicreport.org/2022/as-house-education-chair-probes-for-profit-colleges-ranking-republican-foxx-takes-their-donations/) (Tier 2)
-- [Truthout: Congresswoman Accepts Money Tied to For-Profit Colleges, Then Touts Schools' Efficiency](https://truthout.org/articles/congresswoman-accepts-money-tied-to-forprofit-colleges-then-touts-schools-efficiency/) (Tier 2)
-- [Truthout: Pro-Israel Billionaires Line Up Behind NC Republican Leading Campus Witch Hunt](https://truthout.org/articles/pro-israel-billionaires-line-up-behind-nc-republican-leading-campus-witch-hunt/) (Tier 2)
+- [Truthout: Congresswoman Accepts Money Tied to For-Profit Colleges, Then Touts Schools' Efficiency](https://truthout.org/articles/congresswoman-accepts-money-tied-to-forprofit-colleges-then-touts-schools-efficiency/) (Tier 2) (VERIFIED)
+- [Truthout: Pro-Israel Billionaires Line Up Behind NC Republican Leading Campus Witch Hunt](https://truthout.org/articles/pro-israel-billionaires-line-up-behind-nc-republican-leading-campus-witch-hunt/) (Tier 2) (VERIFIED)
 - [The Hill: House passes measure overturning Biden's student debt forgiveness](https://thehill.com/homenews/education/4019425-house-passes-measure-overturning-bidens-student-debt-forgiveness-program/) (Tier 2)
-- [Inside Higher Ed: Who's Afraid of Virginia Foxx?](https://www.insidehighered.com/news/government/2023/03/08/foxx-back-charge-pledges-oversight-stronger-accountability) (Tier 2)
-- [Higher Ed Dive: Virginia Foxx reclaims chair of House education committee](https://www.highereddive.com/news/virginia-foxx-reclaims-chair-of-house-education-committee/640004/) (Tier 2)
-- [Inside Higher Ed: House committee leaks plan for reauthorizing Higher Education Act](https://www.insidehighered.com/news/2017/11/30/us-house-committee-leaks-summary-broad-plan-reauthorizing-higher-education-act) (Tier 2)
-- [New America: How the G.O.P. Became For-Profit College Abuse Deniers](https://www.newamerica.org/insights/gop/) (Tier 2)
-- [New Republic: GOP Lawmaker Erases Maxwell Frost's Student Debt Argument From the Record](https://newrepublic.com/post/172968/gop-lawmaker-virginia-foxx-erases-maxwell-frost-student-debt-argument-record) (Tier 2)
-- [Wikipedia: Virginia Foxx](https://en.wikipedia.org/wiki/Virginia_Foxx) (Tier 3)
-- [Ballotpedia: Virginia Foxx](https://ballotpedia.org/Virginia_Foxx) (Tier 3)
-- [GovTrack: Virginia Foxx voting record](https://www.govtrack.us/congress/members/virginia_foxx/400643) (Tier 3)
-- [AFL-CIO: Virginia Foxx scorecard](https://aflcio.org/scorecard/legislators/virginia-foxx) (Tier 3)
+- [Inside Higher Ed: Who's Afraid of Virginia Foxx?](https://www.insidehighered.com/news/government/2023/03/08/foxx-back-charge-pledges-oversight-stronger-accountability) (Tier 2) (VERIFIED)
+- [Higher Ed Dive: Virginia Foxx reclaims chair of House education committee](https://www.highereddive.com/news/virginia-foxx-reclaims-chair-of-house-education-committee/640004/) (Tier 2) (VERIFIED)
+- [Inside Higher Ed: House committee leaks plan for reauthorizing Higher Education Act](https://www.insidehighered.com/news/2017/11/30/us-house-committee-leaks-summary-broad-plan-reauthorizing-higher-education-act) (Tier 2) (VERIFIED)
+- [New America: How the G.O.P. Became For-Profit College Abuse Deniers](https://www.newamerica.org/insights/gop/) (Tier 2) (VERIFIED)
+- [New Republic: GOP Lawmaker Erases Maxwell Frost's Student Debt Argument From the Record](https://newrepublic.com/post/172968/gop-lawmaker-virginia-foxx-erases-maxwell-frost-student-debt-argument-record) (Tier 2) (VERIFIED)
+- [Wikipedia: Virginia Foxx](https://en.wikipedia.org/wiki/Virginia_Foxx) (Tier 3) (VERIFIED)
+- [Ballotpedia: Virginia Foxx](https://ballotpedia.org/Virginia_Foxx) (Tier 3) (VERIFIED)
+- [GovTrack: Virginia Foxx voting record](https://www.govtrack.us/congress/members/virginia_foxx/400643) (Tier 3) (VERIFIED)
+- ~~[AFL-CIO: Virginia Foxx scorecard](https://aflcio.org/scorecard/legislators/virginia-foxx)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
 
 ### Legislative Activity (Congress.gov)
 <!-- auto:congress-legislation start -->
@@ -225,7 +225,7 @@ Virginia Foxx serves the for-profit education industry and its private equity ba
 | 6188 | To amend title 36, United States Code, to designate the composition known as "He… | Referred to the House Committee on the Judiciary. |
 | 6139 | Union Members Right to Know Act | Referred to the House Committee on Education and Workforce. |
 
-- [Source: Congress.gov](https://www.congress.gov/member/F000450) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/F000450)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ## Influence Network (Cross-Reference)

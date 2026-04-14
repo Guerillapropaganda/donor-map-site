@@ -120,8 +120,8 @@ MassMutual represents the regulatory capture of an industry built on information
 
 ### Sources
 
-- [OpenSecrets: MassMutual PAC Contributions](https://www.opensecrets.org/orgs/massachusetts-mutual-life-insurance/summary?id=D000000198) (Tier 1)
-- [SEC: Insurance Industry Regulation](https://www.sec.gov/cgi-bin/browse-edgar?company=MassMutual&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)
+- [OpenSecrets: MassMutual PAC Contributions](https://www.opensecrets.org/orgs/massachusetts-mutual-life-insurance/summary?id=D000000198) (Tier 1) (VERIFIED)
+- [SEC: Insurance Industry Regulation](https://www.sec.gov/cgi-bin/browse-edgar?company=MassMutual&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1) (VERIFIED)
 
 ---
 
@@ -134,7 +134,7 @@ MassMutual represents the regulatory capture of an industry built on information
 | Total Expenses | $27.6M |
 | Net Assets | $8.6M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 474967720](https://projects.propublica.org/nonprofits/organizations/474967720) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 474967720](https://projects.propublica.org/nonprofits/organizations/474967720) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -144,14 +144,14 @@ MassMutual represents the regulatory capture of an industry built on information
 | Top Federal Agency | Department of the Treasury ($1.3M) |
 | Primary NAICS Sector | Commercial Banking |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [549300AWJCCLBT2W8T68](https://search.gleif.org/#/record/549300AWJCCLBT2W8T68) |
+| LEI | [549300AWJCCLBT2W8T68](https://search.gleif.org/#/record/549300AWJCCLBT2W8T68) (VERIFIED) |
 | Legal Name | MassMutual Premier Funds - MassMutual Premier Value Fund |
 | Jurisdiction | US-MA |
 | Entity Status | ACTIVE |
@@ -161,11 +161,11 @@ MassMutual represents the regulatory capture of an industry built on information
 
 **Ownership chain:**
 
-- Ultimate Parent: [Massachusetts Mutual Life Insurance Company](https://search.gleif.org/#/record/R6ZXK5P01NP6HXSY1S07) (US)
-- Direct Parent: [MASSMUTUAL PREMIER FUNDS](https://search.gleif.org/#/record/E8MCNB0YZSDBDPFJ3093) (US)
+- Ultimate Parent: [Massachusetts Mutual Life Insurance Company](https://search.gleif.org/#/record/R6ZXK5P01NP6HXSY1S07) (VERIFIED) (US)
+- Direct Parent: [MASSMUTUAL PREMIER FUNDS](https://search.gleif.org/#/record/E8MCNB0YZSDBDPFJ3093) (VERIFIED) (US)
 - MassMutual Premier Funds - MassMutual Premier Value Fund (this entity)
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Tax Filings (IRS 990)
@@ -183,14 +183,14 @@ MassMutual represents the regulatory capture of an industry built on information
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/474967720/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/474967720/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/474967720/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/474967720/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/474967720/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/474967720/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/474967720/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/474967720/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/474967720/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/474967720/2019)~~ (URL broken, archived by Ops)
 - ... and 1 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/474967720) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/474967720) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### SEC Filing Activity
@@ -208,7 +208,7 @@ MassMutual represents the regulatory capture of an industry built on information
 - 2022-03-02 — **EX-99.(G)(10)**: SECOND AMENDMENT TO THE AMENDED, RESTATED AND CONSOLIDATED DELEGATION AGREEMENT BETWEEN THE TRUST AND STATE STREET
 - 2022-11-18 — **EX-99.(H)(15)**: FORM OF APPENDIX A TO SUB-ADMINISTRATION AGREEMENT
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22MassMutual%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22MassMutual%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Federal Spending (USASpending)
@@ -225,5 +225,5 @@ MassMutual represents the regulatory capture of an industry built on information
 |--------|--------|-------------|
 | $9.9M | Department of the Treasury | IGF::OT::IGF FOR OTHER FUNCTIONS - ENERGY CONSERVATION MEASURES PROJECT ANNUAL PAYMENT |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/88e28639-3b63-5a05-9403-1064360e44ea-R/latest) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/88e28639-3b63-5a05-9403-1064360e44ea-R/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->

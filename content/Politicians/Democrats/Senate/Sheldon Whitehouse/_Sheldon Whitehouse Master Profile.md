@@ -244,23 +244,23 @@ Then there is the wife's employer. Sandra Whitehouse has received $2,686,800 fro
 
 ## Sources
 
-- [FEC Candidate: Sheldon Whitehouse campaign finance summary](https://www.fec.gov/data/candidate/S6RI00221/) (Tier 1)
-- [FEC Candidate: Sheldon Whitehouse career industry breakdown](https://www.fec.gov/data/candidate/S6RI00221/) (Tier 1)
-- [FEC Candidate: Sheldon Whitehouse career top contributors](https://www.fec.gov/data/candidate/S6RI00221/) (Tier 1)
-- [FEC: Sheldon Whitehouse candidate profile](https://www.fec.gov/data/candidate/S6RI00221/) (Tier 1)
-- [Congress.gov: DISCLOSE Act of 2023 (S.512, 118th Congress)](https://www.congress.gov/bill/118th-congress/senate-bill/512) (Tier 1)
-- [Senator Whitehouse: The Scheme 30 — Update on Captured Supreme Court](https://www.whitehouse.senate.gov/news/speeches/the-scheme-30-an-update-on-the-captured-supreme-court/) (Tier 1)
-- [Senator Whitehouse: The Scheme 18 — Leonard Leo's $1.6 Billion Payday](https://www.whitehouse.senate.gov/news/speeches/scheme-18_leonard-leos-16-billion-payday/) (Tier 1)
-- [Senate Budget Committee: Committee members and leadership](https://www.budget.senate.gov/about/committee-members) (Tier 1)
-- [Senator Whitehouse: Statement on taking Senate Budget Committee gavel](https://www.whitehouse.senate.gov/news/release/whitehouse-to-take-on-senate-budget-committee-gavel-for-118th-congress/) (Tier 1)
-- [Washington Examiner: Democratic 'dark money' critic Sheldon Whitehouse has deep ties to secret donor world](https://www.washingtonexaminer.com/news/2583245/democratic-dark-money-critic-sheldon-whitehouse-has-deep-money-world) (Tier 2)
-- [National Review: Watchdog flags Sheldon Whitehouse for potential ethics violation in backing bill that enriched wife's employer](https://www.nationalreview.com/news/watchdog-flags-sheldon-whitehouse-for-potential-ethics-violation-in-backing-bill-that-enriched-wifes-employer/) (Tier 2)
-- [WPRI: Critics target Sen. Whitehouse over wife's work for environmental groups](https://www.wpri.com/news/politics/critics-again-target-sen-whitehouse-over-wifes-work-for-environmental-groups/) (Tier 2)
-- [Fox News: Ethics watchdog flags senator for helping make millions wife's green nonprofit](https://www.foxnews.com/politics/ethics-watchdog-flags-senator-helping-make-millions-wifes-green-nonprofit) (Tier 2)
-- [FACT: Calls for investigation into Sen. Whitehouse for conflict of interest](https://www.factdc.org/post/fact-calls-for-investigation-into-sen-whitehouse-for-conflict-of-interest-in-funding-wife-s-ocean-c) (Tier 4)
-- [InfluenceWatch: Ocean Wonks LLC](https://www.influencewatch.org/organization/ocean-wonks-llc/) (Tier 3)
-- [Alliance for Consumers: Shady Trial Lawyer Pipeline — The Shady Eight Revisited](https://allianceforconsumers.org/wp-content/uploads/2024/04/AFC-Shady-Eight-April-2024.pdf) (Tier 2)
-- [Ballotpedia: Sheldon Whitehouse](https://ballotpedia.org/Sheldon_Whitehouse) (Tier 3)
+- [FEC Candidate: Sheldon Whitehouse campaign finance summary](https://www.fec.gov/data/candidate/S6RI00221/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Sheldon Whitehouse career industry breakdown](https://www.fec.gov/data/candidate/S6RI00221/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Sheldon Whitehouse career top contributors](https://www.fec.gov/data/candidate/S6RI00221/) (Tier 1) (VERIFIED)
+- [FEC: Sheldon Whitehouse candidate profile](https://www.fec.gov/data/candidate/S6RI00221/) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: DISCLOSE Act of 2023 (S.512, 118th Congress)](https://www.congress.gov/bill/118th-congress/senate-bill/512)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Senator Whitehouse: The Scheme 30 — Update on Captured Supreme Court](https://www.whitehouse.senate.gov/news/speeches/the-scheme-30-an-update-on-the-captured-supreme-court/) (Tier 1) (VERIFIED)
+- [Senator Whitehouse: The Scheme 18 — Leonard Leo's $1.6 Billion Payday](https://www.whitehouse.senate.gov/news/speeches/scheme-18_leonard-leos-16-billion-payday/) (Tier 1) (VERIFIED)
+- [Senate Budget Committee: Committee members and leadership](https://www.budget.senate.gov/about/committee-members) (Tier 1) (VERIFIED)
+- [Senator Whitehouse: Statement on taking Senate Budget Committee gavel](https://www.whitehouse.senate.gov/news/release/whitehouse-to-take-on-senate-budget-committee-gavel-for-118th-congress/) (Tier 1) (VERIFIED)
+- [Washington Examiner: Democratic 'dark money' critic Sheldon Whitehouse has deep ties to secret donor world](https://www.washingtonexaminer.com/news/2583245/democratic-dark-money-critic-sheldon-whitehouse-has-deep-money-world) (Tier 2) (NEEDS REVIEW)
+- [National Review: Watchdog flags Sheldon Whitehouse for potential ethics violation in backing bill that enriched wife's employer](https://www.nationalreview.com/news/watchdog-flags-sheldon-whitehouse-for-potential-ethics-violation-in-backing-bill-that-enriched-wifes-employer/) (Tier 2) (VERIFIED)
+- ~~[WPRI: Critics target Sen. Whitehouse over wife's work for environmental groups](https://www.wpri.com/news/politics/critics-again-target-sen-whitehouse-over-wifes-work-for-environmental-groups/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Fox News: Ethics watchdog flags senator for helping make millions wife's green nonprofit](https://www.foxnews.com/politics/ethics-watchdog-flags-senator-helping-make-millions-wifes-green-nonprofit) (Tier 2) (VERIFIED)
+- [FACT: Calls for investigation into Sen. Whitehouse for conflict of interest](https://www.factdc.org/post/fact-calls-for-investigation-into-sen-whitehouse-for-conflict-of-interest-in-funding-wife-s-ocean-c) (Tier 4) (VERIFIED)
+- [InfluenceWatch: Ocean Wonks LLC](https://www.influencewatch.org/organization/ocean-wonks-llc/) (Tier 3) (VERIFIED)
+- [Alliance for Consumers: Shady Trial Lawyer Pipeline — The Shady Eight Revisited](https://allianceforconsumers.org/wp-content/uploads/2024/04/AFC-Shady-Eight-April-2024.pdf) (Tier 2) (VERIFIED)
+- [Ballotpedia: Sheldon Whitehouse](https://ballotpedia.org/Sheldon_Whitehouse) (Tier 3) (VERIFIED)
 
 ---
 
@@ -296,7 +296,7 @@ Then there is the wife's employer. Sandra Whitehouse has received $2,686,800 fro
 | ROOSEVELT SOCIETY ACTION | $0 | $159,783 |
 | MOVEON.ORG POLITICAL ACTION | $5,751 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6RI00221/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6RI00221/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Influence Network (Cross-Reference)
@@ -342,7 +342,7 @@ Then there is the wife's employer. Sandra Whitehouse has received $2,686,800 fro
 | 12/28/2018 | ILMN | Purchase | $1,001 - $15,000 | Self |
 | 12/28/2018 | F | Sale | $1,001 - $15,000 | Self |
 
-- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
 ### DOJ Press Releases
@@ -352,7 +352,7 @@ Then there is the wife's employer. Sandra Whitehouse has received $2,686,800 fro
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Sheldon Whitehouse](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: Sheldon Whitehouse](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 
 ### Sanctions & PEP Screening (OpenSanctions)
@@ -367,10 +367,10 @@ Then there is the wife's employer. Sandra Whitehouse has received $2,686,800 fro
 | Topics | role.pol, role.pep, role.judge, sanction.counter |
 
 **Matched records:**
-- [Sheldon Whitehouse](https://www.opensanctions.org/entities/Q652066/) — 100% match (wd_categories, ann_pep_positions, everypolitician)
-- [Sheldon Whitehouse](https://www.opensanctions.org/entities/ru-mfa-b55b27c764d96470e6c519cd41a71e34a2de1390/) — 100% match (ru_mfa_sanctions)
+- [Sheldon Whitehouse](https://www.opensanctions.org/entities/Q652066/) (VERIFIED) — 100% match (wd_categories, ann_pep_positions, everypolitician)
+- [Sheldon Whitehouse](https://www.opensanctions.org/entities/ru-mfa-b55b27c764d96470e6c519cd41a71e34a2de1390/) (VERIFIED) — 100% match (ru_mfa_sanctions)
 
-- [Source: OpenSanctions](https://www.opensanctions.org/search/?q=Sheldon%20Whitehouse) (Tier 1)
+- [Source: OpenSanctions](https://www.opensanctions.org/search/?q=Sheldon%20Whitehouse) (Tier 1) (VERIFIED)
 <!-- auto:opensanctions end -->
 
 ### Legislative Activity (Congress.gov)
@@ -399,5 +399,5 @@ Then there is the wife's employer. Sandra Whitehouse has received $2,686,800 fro
 | — |  | — |
 | — |  | — |
 
-- [Source: Congress.gov](https://www.congress.gov/member/W000802) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/W000802)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->

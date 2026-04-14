@@ -57,7 +57,7 @@ In Illinois 2026 House primaries, Think Big spent $1.4 million for Jesse Jackson
 ### [[MAGA Inc]]: $304M war chest, Trump-aligned House defense
 [[MAGA Inc|MAGA Inc]]. aligned with President [[_Donald Trump Master Profile|Donald Trump]], entered 2026 with more than $304 million in cash reserves. [Trump's super PAC builds $300 million cash stockpile, fueling unrivaled fundraising pace - CNN Politics](https://www.cnn.com/2026/01/02/politics/trump-super-pac-maga-inc-fundraising) (Tier 2) (VERIFIED)
 
-[[MAGA Inc|MAGA Inc]]. reported raising approximately $102 million between July 1 and December 22, 2025, with major contributions including a $25 million donation from OpenAI co-founder Greg Brockman. [MAGA Inc. super PAC enters 2026 with $300 million stockpile - Fox News](https://www.foxnews.com/politics/trump-aligned-super-pac-enters-2026-with-nearly-300m-war-chest.amp) *(source unavailable)* (Tier 2)
+[[MAGA Inc|MAGA Inc]]. reported raising approximately $102 million between July 1 and December 22, 2025, with major contributions including a $25 million donation from OpenAI co-founder Greg Brockman. ~~[MAGA Inc. super PAC enters 2026 with $300 million stockpile - Fox News](https://www.foxnews.com/politics/trump-aligned-super-pac-enters-2026-with-nearly-300m-war-chest.amp)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
 
 ### Other Major Players
 [[House Majority PAC|House Majority PAC]] (Democratic offensive), [[Senate Leadership Fund|Senate Leadership Fund]] (Republican crossover into House races), Digital Freedom Fund ($21M, new crypto PAC), and Fellowship PAC ($100M claimed, crypto-aligned) are also active in the 2026 House landscape. [How big money is setting up the midterms, from flush GOP groups to prolific Democratic candidates - NBC News](https://www.nbcnews.com/politics/2026-election/big-money-setting-midterms-flush-gop-groups-prolific-democratic-candid-rcna257117) (Tier 2) (VERIFIED)
@@ -69,7 +69,7 @@ In Illinois 2026 House primaries, Think Big spent $1.4 million for Jesse Jackson
 
 In the March 2026 Illinois Democratic House primaries, AIPAC funneled money through at least three shell PACs:
 
-**Elect Chicago Women:** Created in late January 2026 with an address listed as a co-working space in Chicago. UDP contributed $5.3 million of the $14.1 million the group raised. [AIPAC super PAC funded big-spending Illinois groups - NBC News](https://www.nbcnews.com/politics/2026-election/aipac-super-pac-funded-illinois-groups-democratic-primaries-israel-rcna264379) (Tier 2)
+**Elect Chicago Women:** Created in late January 2026 with an address listed as a co-working space in Chicago. UDP contributed $5.3 million of the $14.1 million the group raised. [AIPAC super PAC funded big-spending Illinois groups - NBC News](https://www.nbcnews.com/politics/2026-election/aipac-super-pac-funded-illinois-groups-democratic-primaries-israel-rcna264379) (Tier 2) (VERIFIED)
 
 Elect Chicago Women spent $5.8 million supporting Laura Fine and opposing [[_Daniel Biss Master Profile|Daniel Biss]] in the 9th Congressional District, plus $3.9 million supporting former U.S. Rep. [[_Melissa Bean Master Profile|Melissa Bean]] in the 8th Congressional District. [Pro-Israel groups see mixed record in money-fuelled Illinois primaries - Al Jazeera](https://www.aljazeera.com/news/2026/3/18/pro-israel-groups-see-mixed-record-in-money-fuelled-illinois-primaries) (Tier 2) (VERIFIED)
 

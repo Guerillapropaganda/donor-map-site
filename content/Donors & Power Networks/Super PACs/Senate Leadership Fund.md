@@ -191,15 +191,15 @@ McConnell built SLF as his personal power machine from 2015 to 2024. The organiz
 
 ### Sources
 
-- [OpenSecrets: Senate Leadership Fund PAC summary — $299M raised, 2024 cycle (C00571703)](https://www.opensecrets.org/political-action-committees-pacs/C00571703/summary/2024) (Tier 1)
-- [FEC: Senate Leadership Fund committee filings (C00571703)](https://www.fec.gov/data/committee/C00571703/?tab=summary) (Tier 1)
-- [OpenSecrets: Senate Leadership Fund organization profile](https://www.opensecrets.org/orgs/senate-leadership-fund/summary?id=D000068516) (Tier 1)
-- [FactCheck.org: Senate Leadership Fund — donors, spending, One Nation relationship](https://www.factcheck.org/2024/07/senate-leadership-fund-4/) (Tier 2)
-- [ArtNews: Kenneth Griffin donated $100M to 2024 election — SLF largest recipient](https://www.artnews.com/art-news/news/billionaire-collector-kenneth-griffin-donated-100-million-2024-election-senate-leadership-fund-1234724065/) (Tier 2)
-- [Free Beacon: Thune-aligned SLF sets off-year fundraising record — $180M haul](https://freebeacon.com/latest-news/thune-aligned-senate-leadership-fund-shatters-its-off-year-fundraising-record-with-180-million-haul/) (Tier 2)
-- [Axios: The 2026 midterms spending explosion has begun](https://www.axios.com/2026/02/03/2025-campaign-fundraising) (Tier 2)
-- [Ballotpedia: Senate Leadership Fund](https://ballotpedia.org/Senate_Leadership_Fund) (Tier 3)
-- [Ballotpedia: One Nation (One Mission) 501(c)(4)](https://ballotpedia.org/One_Mission) (Tier 3)
+- [OpenSecrets: Senate Leadership Fund PAC summary — $299M raised, 2024 cycle (C00571703)](https://www.opensecrets.org/political-action-committees-pacs/C00571703/summary/2024) (Tier 1) (VERIFIED)
+- [FEC: Senate Leadership Fund committee filings (C00571703)](https://www.fec.gov/data/committee/C00571703/?tab=summary) (Tier 1) (VERIFIED)
+- [OpenSecrets: Senate Leadership Fund organization profile](https://www.opensecrets.org/orgs/senate-leadership-fund/summary?id=D000068516) (Tier 1) (VERIFIED)
+- [FactCheck.org: Senate Leadership Fund — donors, spending, One Nation relationship](https://www.factcheck.org/2024/07/senate-leadership-fund-4/) (Tier 2) (VERIFIED)
+- [ArtNews: Kenneth Griffin donated $100M to 2024 election — SLF largest recipient](https://www.artnews.com/art-news/news/billionaire-collector-kenneth-griffin-donated-100-million-2024-election-senate-leadership-fund-1234724065/) (Tier 2) (VERIFIED)
+- [Free Beacon: Thune-aligned SLF sets off-year fundraising record — $180M haul](https://freebeacon.com/latest-news/thune-aligned-senate-leadership-fund-shatters-its-off-year-fundraising-record-with-180-million-haul/) (Tier 2) (VERIFIED)
+- ~~[Axios: The 2026 midterms spending explosion has begun](https://www.axios.com/2026/02/03/2025-campaign-fundraising)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Ballotpedia: Senate Leadership Fund](https://ballotpedia.org/Senate_Leadership_Fund) (Tier 3) (VERIFIED)
+- [Ballotpedia: One Nation (One Mission) 501(c)(4)](https://ballotpedia.org/One_Mission) (Tier 3) (VERIFIED)
 
 ---
 
@@ -230,7 +230,7 @@ McConnell built SLF as his personal power machine from 2015 to 2024. The organiz
 - FTX Recovery Trust v. Matthew Nass (2024) — United States Bankruptcy Court, D. Delaware
 - FTX Recovery Trust v. Prosperity Alliance, Inc. (2024) — United States Bankruptcy Court, D. Delaware
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Senate%20Leadership%20Fund%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Senate%20Leadership%20Fund%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### SEC Filing Activity
@@ -245,7 +245,7 @@ McConnell built SLF as his personal power machine from 2015 to 2024. The organiz
 - 2025-03-27 — **DEF 14A**: DEF 14A
 - 2025-03-27 — **ARS**: ARS
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Senate%20Leadership%20Fund%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Senate%20Leadership%20Fund%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Tax Filings (IRS 990)
@@ -256,5 +256,5 @@ McConnell built SLF as his personal power machine from 2015 to 2024. The organiz
 | Tax-Exempt Status | 501(c)(4) |
 | Filings on Record | 0 |
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/862883453) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/862883453) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->

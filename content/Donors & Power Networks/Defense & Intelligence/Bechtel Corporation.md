@@ -83,14 +83,14 @@ Bechtel exemplifies military-industrial complex dynamics: a major defense contra
 
 **Agencies contacted:** Commerce, Dept of (DOC), Defense, Dept of (DOD), Energy, Dept of, Executive Office of the President (EOP), Federal Energy Regulatory Commission (FERC), Federal Housing Finance Agency (FHFA), Federal Railroad Administration, Federal Transit Administration (FTA), HOUSE OF REPRESENTATIVES, Natl Aeronautics & Space Administration (NASA) +4 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Bechtel%20Corporation) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Bechtel%20Corporation) (Tier 1) (VERIFIED)
 
 <!-- auto:lda-lobbying end -->
 
 ### Sources
 
-- [OpenSecrets: Bechtel lobbying and contributions](https://www.opensecrets.org/orgs/bechtel-corp/summary) (Tier 1)
-- [ProPublica: Iraq War contracting and Bechtel](https://www.propublica.org/article/100-billion-to-contractors-in-iraq-812) (Tier 2)
+- ~~[OpenSecrets: Bechtel lobbying and contributions](https://www.opensecrets.org/orgs/bechtel-corp/summary)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [ProPublica: Iraq War contracting and Bechtel](https://www.propublica.org/article/100-billion-to-contractors-in-iraq-812) (Tier 2) (VERIFIED)
 
 ---
 
@@ -122,7 +122,7 @@ Bechtel exemplifies military-industrial complex dynamics: a major defense contra
 - Eton Park Capital Management L.P. v. Argentine Republic (2025) — Court of Appeals for the Second Circuit
 - Petersen Energia Inversora, S.A.U. v. Argentine Republic (2025) — Court of Appeals for the Second Circuit
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Bechtel%20Corporation%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Bechtel%20Corporation%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Vehicle Safety (NHTSA)
@@ -140,14 +140,14 @@ Bechtel exemplifies military-industrial complex dynamics: a major defense contra
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Bechtel%20Corporation) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Bechtel%20Corporation) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [A2351DQ25OUUH2Q6RR89](https://search.gleif.org/#/record/A2351DQ25OUUH2Q6RR89) |
+| LEI | [A2351DQ25OUUH2Q6RR89](https://search.gleif.org/#/record/A2351DQ25OUUH2Q6RR89) (VERIFIED) |
 | Legal Name | BECHTEL CORPORATION |
 | Jurisdiction | US-NV |
 | Entity Status | ACTIVE |
@@ -155,7 +155,7 @@ Bechtel exemplifies military-industrial complex dynamics: a major defense contra
 | Registration | ISSUED |
 | Last Updated | 2025-10-01T15:54:44Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### DOJ Press Releases

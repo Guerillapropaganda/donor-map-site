@@ -199,14 +199,14 @@ Every competitive district with energy-sector employers receives CLF ad spending
 
 ### Sources
 
-- [OpenSecrets: Congressional Leadership Fund PAC summary — $243M raised, 2024 cycle](https://www.opensecrets.org/political-action-committees-pacs/C00504530/summary/2024) (Tier 1)
-- [FEC: Congressional Leadership Fund committee filings (C00504530)](https://www.fec.gov/data/committee/C00504530/?tab=summary) (Tier 1)
-- [FactCheck.org: Congressional Leadership Fund — hybrid PAC, top donors, AAN relationship](https://www.factcheck.org/2024/04/congressional-leadership-fund-5/) (Tier 2)
-- [Ballotpedia: Congressional Leadership Fund — background, leadership, endorsements](https://ballotpedia.org/Congressional_Leadership_Fund) (Tier 3)
-- [Read Sludge: Fossil fuel donors give record amount to congressional GOP super PACs](https://readsludge.com/2024/10/17/fossil-fuel-donors-give-record-amount-to-congressional-gop-super-pacs/) (Tier 2)
-- [NBC News: Elon Musk gives millions to Republican super PACs ahead of midterms — $5M to CLF](https://www.nbcnews.com/politics/2026-election/elon-musk-gives-millions-republican-super-pacs-ahead-midterms-rcna222114) (Tier 2)
-- [Brennan Center: Ohio congressional races illustrate 2024 campaign finance trends](https://www.brennancenter.org/our-work/analysis-opinion/ohio-congressional-races-illustrate-2024-campaign-finance-trends) (Tier 2)
-- [OpenSecrets: Congressional Leadership Fund donors](https://www.opensecrets.org/political-action-committees-pacs/congressional-leadership-fund/C00504530/donors/2024) (Tier 1)
+- [OpenSecrets: Congressional Leadership Fund PAC summary — $243M raised, 2024 cycle](https://www.opensecrets.org/political-action-committees-pacs/C00504530/summary/2024) (Tier 1) (VERIFIED)
+- ~~[FEC: Congressional Leadership Fund committee filings (C00504530)](https://www.fec.gov/data/committee/C00504530/?tab=summary)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [FactCheck.org: Congressional Leadership Fund — hybrid PAC, top donors, AAN relationship](https://www.factcheck.org/2024/04/congressional-leadership-fund-5/) (Tier 2) (VERIFIED)
+- [Ballotpedia: Congressional Leadership Fund — background, leadership, endorsements](https://ballotpedia.org/Congressional_Leadership_Fund) (Tier 3) (VERIFIED)
+- [Read Sludge: Fossil fuel donors give record amount to congressional GOP super PACs](https://readsludge.com/2024/10/17/fossil-fuel-donors-give-record-amount-to-congressional-gop-super-pacs/) (Tier 2) (VERIFIED)
+- [NBC News: Elon Musk gives millions to Republican super PACs ahead of midterms — $5M to CLF](https://www.nbcnews.com/politics/2026-election/elon-musk-gives-millions-republican-super-pacs-ahead-midterms-rcna222114) (Tier 2) (VERIFIED)
+- [Brennan Center: Ohio congressional races illustrate 2024 campaign finance trends](https://www.brennancenter.org/our-work/analysis-opinion/ohio-congressional-races-illustrate-2024-campaign-finance-trends) (Tier 2) (VERIFIED)
+- [OpenSecrets: Congressional Leadership Fund donors](https://www.opensecrets.org/political-action-committees-pacs/congressional-leadership-fund/C00504530/donors/2024) (Tier 1) (VERIFIED)
 
 ---
 
@@ -238,7 +238,7 @@ Every competitive district with energy-sector employers receives CLF ad spending
 - FTX Recovery Trust v. Prosperity Alliance, Inc. (2024) — United States Bankruptcy Court, D. Delaware
 - FTX Recovery Trust v. [[American Action Network]], Inc. (2024) — United States Bankruptcy Court, D. Delaware
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Congressional%20Leadership%20Fund%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Congressional%20Leadership%20Fund%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Tax Filings (IRS 990)
@@ -256,10 +256,10 @@ Every competitive district with energy-sector employers receives CLF ad spending
 **Filing history:** 2023, 2022, 2021, 2021
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/852656340/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/852656340/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/852656340/2021)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/852656340/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/852656340/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/852656340/2021)~~ (URL broken, archived by Ops)
 - [2021 Filing](https://projects.propublica.org/nonprofits/organizations/852656340/2021)
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/852656340) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/852656340) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->

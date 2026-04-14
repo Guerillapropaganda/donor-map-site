@@ -77,6 +77,6 @@ donors: (Silicon Valley tech billionaires, venture capital networks)
 
 ### Sources
 
-- [San José Spotlight: Billionaire techies back Matt Mahan's California governor campaign](https://sanjosespotlight.com/billionaire-techies-back-matt-mahans-california-governor-campaign/) (Tier 2)
-- [Wikipedia: Matt Mahan](https://en.wikipedia.org/wiki/Matt_Mahan) (Tier 3)
-- [San Jose Inside: Silicon Valley Execs and Venture Capitalists Jump on Matt Mahan's Early Bandwagon](https://www.sanjoseinside.com/news/silicon-valley-execs-and-venture-capitalists-jump-on-matt-mahans-early-bandwagon/) (Tier 2)
+- [San José Spotlight: Billionaire techies back Matt Mahan's California governor campaign](https://sanjosespotlight.com/billionaire-techies-back-matt-mahans-california-governor-campaign/) (Tier 2) (VERIFIED)
+- [Wikipedia: Matt Mahan](https://en.wikipedia.org/wiki/Matt_Mahan) (Tier 3) (VERIFIED)
+- [San Jose Inside: Silicon Valley Execs and Venture Capitalists Jump on Matt Mahan's Early Bandwagon](https://www.sanjoseinside.com/news/silicon-valley-execs-and-venture-capitalists-jump-on-matt-mahans-early-bandwagon/) (Tier 2) (VERIFIED)

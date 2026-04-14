@@ -146,16 +146,16 @@ The northwest Arkansas connection locks the donor map into place. Boozman's form
 
 ## Sources
 
-- [FEC Candidate: John Boozman donor profile](https://www.fec.gov/data/candidate/H2AR03176/) (Tier 1)
-- [FEC Candidate: John Boozman contributors](https://www.fec.gov/data/candidate/H2AR03176/) (Tier 1)
-- [Senate.gov: John Boozman biography](https://www.boozman.senate.gov/public/index.cfm/biography) (Tier 1)
-- [Senate.gov: Boozman agriculture page](https://www.boozman.senate.gov/public/index.cfm/agriculture_1) (Tier 1)
-- [Congress.gov: John Boozman](https://www.congress.gov/member/john-boozman/B001236) (Tier 1)
-- [Investigate Midwest: New Senate agriculture committee leadership has extensive ties to industry heavyweights](https://investigatemidwest.org/2025/01/15/new-senate-agriculture-committee-leadership-has-extensive-ties-to-industry-heavyweights/) (Tier 2)
-- [Arkansas Advocate: Senate agriculture committee leadership ties to meat industry](https://arkansasadvocate.com/2025/01/16/new-senate-agriculture-committee-leadership-has-extensive-ties-to-industry-heavyweights/) (Tier 2)
-- [Sentient Media: Senate Agriculture Committee leadership ties to meat industry](https://sentientmedia.org/senate-agriculture-committee-meat-industry) (Tier 2)
-- [Ballotpedia: John Boozman](https://ballotpedia.org/John_Boozman) (Tier 3)
-- [Wikipedia: John Boozman](https://en.wikipedia.org/wiki/John_Boozman) (Tier 3)
+- [FEC Candidate: John Boozman donor profile](https://www.fec.gov/data/candidate/H2AR03176/) (Tier 1) (VERIFIED)
+- [FEC Candidate: John Boozman contributors](https://www.fec.gov/data/candidate/H2AR03176/) (Tier 1) (VERIFIED)
+- [Senate.gov: John Boozman biography](https://www.boozman.senate.gov/public/index.cfm/biography) (Tier 1) (VERIFIED)
+- [Senate.gov: Boozman agriculture page](https://www.boozman.senate.gov/public/index.cfm/agriculture_1) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: John Boozman](https://www.congress.gov/member/john-boozman/B001236)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Investigate Midwest: New Senate agriculture committee leadership has extensive ties to industry heavyweights](https://investigatemidwest.org/2025/01/15/new-senate-agriculture-committee-leadership-has-extensive-ties-to-industry-heavyweights/) (Tier 2) (VERIFIED)
+- [Arkansas Advocate: Senate agriculture committee leadership ties to meat industry](https://arkansasadvocate.com/2025/01/16/new-senate-agriculture-committee-leadership-has-extensive-ties-to-industry-heavyweights/) (Tier 2) (VERIFIED)
+- [Sentient Media: Senate Agriculture Committee leadership ties to meat industry](https://sentientmedia.org/senate-agriculture-committee-meat-industry) (Tier 2) (VERIFIED)
+- [Ballotpedia: John Boozman](https://ballotpedia.org/John_Boozman) (Tier 3) (VERIFIED)
+- [Wikipedia: John Boozman](https://en.wikipedia.org/wiki/John_Boozman) (Tier 3) (VERIFIED)
 
 ### Legislative Activity (Congress.gov)
 
@@ -181,7 +181,7 @@ The northwest Arkansas connection locks the donor map into place. Boozman's form
 | 10/28/2016 | N/A | other | Unknown | N/A |
 | 10/18/2017 | N/A | other | Unknown | N/A |
 
-- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
 ### Campaign Finance (FEC)
@@ -212,12 +212,12 @@ The northwest Arkansas connection locks the donor map into place. Boozman's form
 | NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE | $0 | $2,561 |
 | PLANNED PARENTHOOD ACTION FUND INC | $0 | $2 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2AR03176/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2AR03176/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: John Boozman](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: John Boozman](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->

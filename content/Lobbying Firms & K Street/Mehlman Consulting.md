@@ -214,20 +214,20 @@ The bipartisan structure serves a specific commercial function: it makes the fir
 
 ### Sources
 
-- [Senate LDA Filings: Mehlman Consulting Lobbying Firm Profile — Summary](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA Filings: Mehlman Consulting Lobbyists — Revolving Door Data](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA Filings: Mehlman Consulting Issues Lobbied](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Mehlman Consulting: Official Website — Bipartisan Team](https://mehlmanconsulting.com/bipartisan-team/) (Tier 4)
-- [Mehlman Consulting: Bruce P. Mehlman Bio](https://mehlmanconsulting.com/team-member/bruce-p-mehlman/) (Tier 4)
-- [Mehlman Consulting: Dean A. Rosen Bio](https://www.mehlmanconsulting.com/team-member/dean-a-rosen/) (Tier 4)
-- [Mehlman Consulting: Sage Eastman Bio](https://mehlmanconsulting.com/team-member/sage-eastman/) (Tier 4)
-- [Mehlman Consulting: Paul Thornell Bio](https://mehlmanconsulting.com/team-member/paul-thornell/) (Tier 4)
-- [Mehlman Consulting: Distefano and Thornell named Partners](https://mehlmanconsulting.com/news/mehlman-consulting-names-nichole-distefano-and-paul-thornell-as-partners/) (Tier 4)
-- [The Hill: Top firms raked in record profits lobbying to influence CHIPS Act, IRA](https://thehill.com/lobbying/3697714-top-firms-raked-in-record-profits-lobbying-to-influence-chips-act-ira/) (Tier 2)
-- [Washington Campus: Bruce P. Mehlman bio](https://washcampus.edu/personnel/the-honorable-bruce-p-mehlman/) (Tier 3)
-- [Holland & Knight / Bloomberg Government: AI Lobbying Soars in Washington, Among Big Firms and Upstarts](https://www.hklaw.com/en/news/intheheadlines/2025/12/ai-lobbying-soars-in-washington-among-big-firms-and-upstarts) (Tier 2) — reports $92M in AI lobbying revenue for firms in Q1-Q3 2025
-- [Bloomberg Law: AI Influence Spending Booms, Signaling Monumental Clashes Ahead](https://news.bloomberglaw.com/artificial-intelligence/ai-influence-spending-booms-signaling-monumental-clashes-ahead) (Tier 2) — Q4 2025: record $37.2M quarterly AI lobbying revenue (+38% YoY); full-year 2025 total ~$130M
-- [PR Newswire: Federal Lobbying Spending Reached New High in 2024 — Bloomberg Government 10th Annual Top-Performing Lobbying Firms Report](https://www.prnewswire.com/news-releases/federal-lobbying-spending-reached-new-high-in-2024-bloomberg-governments-10th-annual-top-performing-lobbying-firms-report-finds-302429060.html) (Tier 2)
+- [Senate LDA Filings: Mehlman Consulting Lobbying Firm Profile — Summary](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: Mehlman Consulting Lobbyists — Revolving Door Data](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: Mehlman Consulting Issues Lobbied](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Mehlman Consulting: Official Website — Bipartisan Team](https://mehlmanconsulting.com/bipartisan-team/) (Tier 4) (VERIFIED)
+- [Mehlman Consulting: Bruce P. Mehlman Bio](https://mehlmanconsulting.com/team-member/bruce-p-mehlman/) (Tier 4) (VERIFIED)
+- [Mehlman Consulting: Dean A. Rosen Bio](https://www.mehlmanconsulting.com/team-member/dean-a-rosen/) (Tier 4) (VERIFIED)
+- [Mehlman Consulting: Sage Eastman Bio](https://mehlmanconsulting.com/team-member/sage-eastman/) (Tier 4) (VERIFIED)
+- [Mehlman Consulting: Paul Thornell Bio](https://mehlmanconsulting.com/team-member/paul-thornell/) (Tier 4) (VERIFIED)
+- [Mehlman Consulting: Distefano and Thornell named Partners](https://mehlmanconsulting.com/news/mehlman-consulting-names-nichole-distefano-and-paul-thornell-as-partners/) (Tier 4) (VERIFIED)
+- ~~[The Hill: Top firms raked in record profits lobbying to influence CHIPS Act, IRA](https://thehill.com/lobbying/3697714-top-firms-raked-in-record-profits-lobbying-to-influence-chips-act-ira/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Washington Campus: Bruce P. Mehlman bio](https://washcampus.edu/personnel/the-honorable-bruce-p-mehlman/) (Tier 3) (VERIFIED)
+- [Holland & Knight / Bloomberg Government: AI Lobbying Soars in Washington, Among Big Firms and Upstarts](https://www.hklaw.com/en/news/intheheadlines/2025/12/ai-lobbying-soars-in-washington-among-big-firms-and-upstarts) (Tier 2) (VERIFIED) — reports $92M in AI lobbying revenue for firms in Q1-Q3 2025
+- [Bloomberg Law: AI Influence Spending Booms, Signaling Monumental Clashes Ahead](https://news.bloomberglaw.com/artificial-intelligence/ai-influence-spending-booms-signaling-monumental-clashes-ahead) (Tier 2) (VERIFIED) — Q4 2025: record $37.2M quarterly AI lobbying revenue (+38% YoY); full-year 2025 total ~$130M
+- [PR Newswire: Federal Lobbying Spending Reached New High in 2024 — Bloomberg Government 10th Annual Top-Performing Lobbying Firms Report](https://www.prnewswire.com/news-releases/federal-lobbying-spending-reached-new-high-in-2024-bloomberg-governments-10th-annual-top-performing-lobbying-firms-report-finds-302429060.html) (Tier 2) (VERIFIED)
 
 ### SEC Filing Activity
 <!-- auto:sec-edgar start -->
@@ -244,7 +244,7 @@ The bipartisan structure serves a specific commercial function: it makes the fir
 - 2025-06-06 — **DRS**: DRS
 - 2024-06-03 — **S-1**: REGISTRATION STATEMENT
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Mehlman%20Consulting%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Mehlman%20Consulting%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### DOJ Press Releases

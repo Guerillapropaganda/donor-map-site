@@ -126,21 +126,21 @@ Mellon's $504 million lifetime spend shows this is not corruption of the system.
 
 ### Sources
 
-- [Trump's biggest donor Timothy Mellon is a Gilded Age heir also backing RFK Jr.](https://www.washingtonpost.com/politics/2024/07/17/timothy-mellon-donor-trump-rfk/). Washington Post (Tier 2)
-- [Billionaire Timothy Mellon has poured $165 million into 2024 elections](https://www.opensecrets.org/news/2024/08/heir-to-andrew-mellons-fortune-spends-over-165-million-to-support-trumps-reelection/). OpenSecrets News (Tier 2)
-- [The Most Consequential Megadonor of 2024 Is Unlike Any Other](https://www.notus.org/2024-election/timothy-mellon-rfk-trump-donor). NOTUS (Tier 2)
-- [Meet Tim Mellon, the donor who gave millions to outside groups supporting Trump and RFK Jr.](https://www.bostonglobe.com/2024/03/03/nation/rfk-jr-trump-donor-who-gave-millions-timothy-mellon/). Boston Globe (Tier 2)
-- [Republican megadonor fuels pro-RFK Jr. super PAC](https://www.nbcnews.com/politics/2024-election/republican-megadonor-fuels-rfk-jr-super-pac-rcna97195). NBC News (Tier 2)
-- [Why Are Timothy Mellon's MAGA Millions Also Supporting RFK Jr.?](https://www.rollingstone.com/politics/politics-features/timothy-mellon-maga-millions-donor-trump-robert-kennedy-jr-1235058295/). Rolling Stone (Tier 2)
-- [RFK Jr. suspends his independent presidential campaign and backs Trump](https://www.npr.org/2024/08/23/nx-s1-5086838/robert-kennedy-future-plans-trump). NPR (Tier 2)
-- [RFK Jr. endorses Trump after weeks of back-channel courtship](https://www.nbcnews.com/politics/2024-election/rfk-jr-says-court-filing-endorsing-trump-ending-presidential-hopes-rcna165936). NBC News (Tier 2)
-- [Timothy Mellon, a major Trump donor, is funding the Texas border wall](https://www.texastribune.org/2021/10/06/timothy-mellon-texas-border-wall/). Texas Tribune (Tier 2)
-- [Timothy Mellon is Trump's $130 million mystery military donor](https://www.cnbc.com/2025/10/25/trump-timothy-mellon-military-donor-government-shutdown.html). CNBC (Tier 2)
-- [Meet Timothy Mellon, the reclusive Wyoming billionaire revealed as the $130 million donor funding military pay during the federal shutdown](https://www.fortune.com/2025/10/30/timothy-mellon-billionaire-wealth-the-reclusive-wyoming-billionaire-revealed-as-the-130-million-donor-funding-military-pay-during-the-federal-shutdown/). Fortune (Tier 2)
-- [American Values 2024 - FactCheck.org](https://www.factcheck.org/2024/01/american-values-2024/). FactCheck.org (Tier 2)
-- [RFK Jr. super PAC raises $11.3 Million after he launches independent 2024 run](https://www.bloomberg.com/news/articles/2023-10-10/kennedy-super-pac-raises-11-3-million-after-he-leaves-democrats). Bloomberg (Tier 2)
-- [Timothy Mellon - Wikipedia](https://en.wikipedia.org/wiki/Timothy_Mellon). Wikipedia (Tier 3)
-- [Reclusive billionaire heir Timothy Mellon gave $125 million to help elect Trump, even more than Elon Musk](https://www.fortune.com/2024/11/09/timothy-mellon-net-worth-top-donor-trump-campaign-elon-musk/). Fortune (Tier 2)
+- ~~[Trump's biggest donor Timothy Mellon is a Gilded Age heir also backing RFK Jr.](https://www.washingtonpost.com/politics/2024/07/17/timothy-mellon-donor-trump-rfk/)~~ (URL broken, archived by Ops). Washington Post (Tier 2)
+- [Billionaire Timothy Mellon has poured $165 million into 2024 elections](https://www.opensecrets.org/news/2024/08/heir-to-andrew-mellons-fortune-spends-over-165-million-to-support-trumps-reelection/) (VERIFIED). OpenSecrets News (Tier 2)
+- [The Most Consequential Megadonor of 2024 Is Unlike Any Other](https://www.notus.org/2024-election/timothy-mellon-rfk-trump-donor) (VERIFIED). NOTUS (Tier 2)
+- [Meet Tim Mellon, the donor who gave millions to outside groups supporting Trump and RFK Jr.](https://www.bostonglobe.com/2024/03/03/nation/rfk-jr-trump-donor-who-gave-millions-timothy-mellon/) (VERIFIED). Boston Globe (Tier 2)
+- [Republican megadonor fuels pro-RFK Jr. super PAC](https://www.nbcnews.com/politics/2024-election/republican-megadonor-fuels-rfk-jr-super-pac-rcna97195) (VERIFIED). NBC News (Tier 2)
+- [Why Are Timothy Mellon's MAGA Millions Also Supporting RFK Jr.?](https://www.rollingstone.com/politics/politics-features/timothy-mellon-maga-millions-donor-trump-robert-kennedy-jr-1235058295/) (VERIFIED). Rolling Stone (Tier 2)
+- [RFK Jr. suspends his independent presidential campaign and backs Trump](https://www.npr.org/2024/08/23/nx-s1-5086838/robert-kennedy-future-plans-trump) (VERIFIED). NPR (Tier 2)
+- [RFK Jr. endorses Trump after weeks of back-channel courtship](https://www.nbcnews.com/politics/2024-election/rfk-jr-says-court-filing-endorsing-trump-ending-presidential-hopes-rcna165936) (VERIFIED). NBC News (Tier 2)
+- [Timothy Mellon, a major Trump donor, is funding the Texas border wall](https://www.texastribune.org/2021/10/06/timothy-mellon-texas-border-wall/) (VERIFIED). Texas Tribune (Tier 2)
+- [Timothy Mellon is Trump's $130 million mystery military donor](https://www.cnbc.com/2025/10/25/trump-timothy-mellon-military-donor-government-shutdown.html) (VERIFIED). CNBC (Tier 2)
+- [Meet Timothy Mellon, the reclusive Wyoming billionaire revealed as the $130 million donor funding military pay during the federal shutdown](https://www.fortune.com/2025/10/30/timothy-mellon-billionaire-wealth-the-reclusive-wyoming-billionaire-revealed-as-the-130-million-donor-funding-military-pay-during-the-federal-shutdown/) (VERIFIED). Fortune (Tier 2)
+- [American Values 2024 - FactCheck.org](https://www.factcheck.org/2024/01/american-values-2024/) (VERIFIED). FactCheck.org (Tier 2)
+- ~~[RFK Jr. super PAC raises $11.3 Million after he launches independent 2024 run](https://www.bloomberg.com/news/articles/2023-10-10/kennedy-super-pac-raises-11-3-million-after-he-leaves-democrats)~~ (URL broken, archived by Ops). Bloomberg (Tier 2)
+- [Timothy Mellon - Wikipedia](https://en.wikipedia.org/wiki/Timothy_Mellon) (VERIFIED). Wikipedia (Tier 3)
+- [Reclusive billionaire heir Timothy Mellon gave $125 million to help elect Trump, even more than Elon Musk](https://www.fortune.com/2024/11/09/timothy-mellon-net-worth-top-donor-trump-campaign-elon-musk/) (VERIFIED). Fortune (Tier 2)
 
 ---
 

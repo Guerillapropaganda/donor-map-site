@@ -67,13 +67,13 @@ The PBM industry's bipartisan protection is the clearest example of donor class 
 
 ### Sources
 
-- [Federal Trade Commission. Interim Report on PBM Practices (2024)](https://www.ftc.gov/reports/pharmacy-benefit-managers-report) (Tier 1)
+- [Federal Trade Commission. Interim Report on PBM Practices (2024)](https://www.ftc.gov/reports/pharmacy-benefit-managers-report) (Tier 1) (VERIFIED)
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [549300TSZGTGDSCIPC02](https://search.gleif.org/#/record/549300TSZGTGDSCIPC02) |
+| LEI | [549300TSZGTGDSCIPC02](https://search.gleif.org/#/record/549300TSZGTGDSCIPC02) (VERIFIED) |
 | Legal Name | CVS Caremark Indemnity Ltd. |
 | Jurisdiction | BM |
 | Entity Status | ACTIVE |
@@ -83,10 +83,10 @@ The PBM industry's bipartisan protection is the clearest example of donor class 
 
 **Ownership chain:**
 
-- Ultimate Parent: [CVS HEALTH CORPORATION](https://search.gleif.org/#/record/549300EJG376EN5NQE29) (US-DE)
+- Ultimate Parent: [CVS HEALTH CORPORATION](https://search.gleif.org/#/record/549300EJG376EN5NQE29) (VERIFIED) (US-DE)
 - CVS Caremark Indemnity Ltd. (this entity)
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Vehicle Safety (NHTSA)
@@ -104,5 +104,5 @@ The PBM industry's bipartisan protection is the clearest example of donor class 
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=PBM%20Industry%20Bloc%20-%20OptumRx%2C%20CVS%20Caremark%2C%20Express%20Scripts) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=PBM%20Industry%20Bloc%20-%20OptumRx%2C%20CVS%20Caremark%2C%20Express%20Scripts) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->

@@ -64,14 +64,14 @@ Klobuchar herself acknowledged the structural reality in December 2024 after thr
 
 ### Sources
 
-- [Congress.gov: American Innovation and Choice Online Act (S.2992)](https://www.congress.gov/bill/117th-congress/senate-bill/2992) (Tier 1)
-- [FEC Candidate: Amy Klobuchar industries. Communications/Electronics career total](https://www.fec.gov/data/candidate/S6MN00267/) (Tier 1)
-- [FEC Candidate: Amy Klobuchar contributors 2022 cycle. Microsoft $39,467](https://www.fec.gov/data/candidate/S6MN00267/) (Tier 1)
-- [OpenSecrets: Google ramped up federal lobbying ahead of DOJ antitrust showdown](https://www.opensecrets.org/news/2023/10/google-ramped-up-federal-lobbying-ahead-of-doj-antitrust-showdown/) (Tier 1)
-- [eMarketer: Apple, Amazon, Meta, and Google spend $35M on antitrust lobbying](https://www.emarketer.com/content/apple-amazon-meta-google-spend-35m-on-antitrust-lobbying) (Tier 2)
-- [CNBC: Senate won't vote on tech antitrust bill before summer recess, Klobuchar says](https://www.cnbc.com/2022/08/01/senate-wont-vote-on-tech-antitrust-bill-before-summer-recess-klobuchar.html) (Tier 2)
-- [TIME: Vote on Big Tech Antitrust Bill Unlikely Before Election](https://time.com/6214028/tech-antitrust-bill-senate-vote/) (Tier 2)
-- [Klobuchar.senate.gov: Amy Klobuchar isn't done with antitrust reform (Dec 2024)](https://www.klobuchar.senate.gov/public/index.cfm/2024/12/amy-klobuchar-isn-t-done-with-antitrust-reform) (Tier 1)
-- [Wikipedia: American Innovation and Choice Online Act](https://en.wikipedia.org/wiki/American_Innovation_and_Choice_Online_Act) (Tier 3)
-- [Ballotpedia: Amy Klobuchar](https://ballotpedia.org/Amy_Klobuchar) (Tier 3)
+- ~~[Congress.gov: American Innovation and Choice Online Act (S.2992)](https://www.congress.gov/bill/117th-congress/senate-bill/2992)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [FEC Candidate: Amy Klobuchar industries. Communications/Electronics career total](https://www.fec.gov/data/candidate/S6MN00267/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Amy Klobuchar contributors 2022 cycle. Microsoft $39,467](https://www.fec.gov/data/candidate/S6MN00267/) (Tier 1) (VERIFIED)
+- [OpenSecrets: Google ramped up federal lobbying ahead of DOJ antitrust showdown](https://www.opensecrets.org/news/2023/10/google-ramped-up-federal-lobbying-ahead-of-doj-antitrust-showdown/) (Tier 1) (VERIFIED)
+- [eMarketer: Apple, Amazon, Meta, and Google spend $35M on antitrust lobbying](https://www.emarketer.com/content/apple-amazon-meta-google-spend-35m-on-antitrust-lobbying) (Tier 2) (VERIFIED)
+- [CNBC: Senate won't vote on tech antitrust bill before summer recess, Klobuchar says](https://www.cnbc.com/2022/08/01/senate-wont-vote-on-tech-antitrust-bill-before-summer-recess-klobuchar.html) (Tier 2) (VERIFIED)
+- [TIME: Vote on Big Tech Antitrust Bill Unlikely Before Election](https://time.com/6214028/tech-antitrust-bill-senate-vote/) (Tier 2) (VERIFIED)
+- [Klobuchar.senate.gov: Amy Klobuchar isn't done with antitrust reform (Dec 2024)](https://www.klobuchar.senate.gov/public/index.cfm/2024/12/amy-klobuchar-isn-t-done-with-antitrust-reform) (Tier 1) (VERIFIED)
+- [Wikipedia: American Innovation and Choice Online Act](https://en.wikipedia.org/wiki/American_Innovation_and_Choice_Online_Act) (Tier 3) (VERIFIED)
+- [Ballotpedia: Amy Klobuchar](https://ballotpedia.org/Amy_Klobuchar) (Tier 3) (VERIFIED)
 

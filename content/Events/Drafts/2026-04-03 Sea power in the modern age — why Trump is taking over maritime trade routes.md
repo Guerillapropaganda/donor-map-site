@@ -13,7 +13,7 @@ profiles:
 
 ## Sea power in the modern age — why Trump is taking over maritime trade routes
 
-**Source:** [The Hill](https://thehill.com/opinion/international/5809403-us-control-maritime-chokepoints/)
+**Source:** ~~[The Hill](https://thehill.com/opinion/international/5809403-us-control-maritime-chokepoints/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-03
 
 America's attacks on Iran reveal a deeper strategic logic behind Donald Trump’s “America First” doctrine: a renewed emphasis on controlling the maritime chokepoints that underpin economic and geopolitical power.

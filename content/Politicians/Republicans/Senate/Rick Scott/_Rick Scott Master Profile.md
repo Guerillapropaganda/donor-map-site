@@ -169,13 +169,13 @@ Scott's wife Ann holds a portfolio of 550+ investment items, including Cayman Is
 
 ## Sources
 
-- [PolitiFact: Columbia/HCA fraud](https://www.politifact.com/article/2010/jun/11/rick-scott-and-fraud-case-columbiahca/) (Tier 2)
-- [DOJ: Settlement records](https://www.justice.gov/archive/opa/pr/2003/June/03_civ_386.htm) (Tier 1)
-- [FEC Candidate: Scott campaign finance, net worth](https://www.fec.gov/data/candidate/S8FL00273/) (Tier 1)
-- [Roll Call: $64M self-funding](https://rollcall.com/2018/12/10/rick-scott-spent-record-64-million-of-his-own-money-in-florida-senate-race/) (Tier 2)
-- [New York Times: "blind in name only" trust](https://www.politifact.com/article/2010/jun/11/rick-scott-and-fraud-case-columbiahca/) (Tier 2)
-- [CNN: NRSC spending failure, McConnell feud](https://www.cnn.com/2022/09/06/politics/rick-scott-mitch-mcconnell-republican-senate-fundraising) (Tier 2)
-- [Florida Politics: Big Sugar donors, healthcare votes](https://www.wlrn.org/politics/2013-09-27/seminole-tribe-u-s-sugar-among-big-donors-to-gov-scott-re-election-committee) (Tier 2)
+- [PolitiFact: Columbia/HCA fraud](https://www.politifact.com/article/2010/jun/11/rick-scott-and-fraud-case-columbiahca/) (Tier 2) (VERIFIED)
+- [DOJ: Settlement records](https://www.justice.gov/archive/opa/pr/2003/June/03_civ_386.htm) (Tier 1) (VERIFIED)
+- [FEC Candidate: Scott campaign finance, net worth](https://www.fec.gov/data/candidate/S8FL00273/) (Tier 1) (VERIFIED)
+- [Roll Call: $64M self-funding](https://rollcall.com/2018/12/10/rick-scott-spent-record-64-million-of-his-own-money-in-florida-senate-race/) (Tier 2) (VERIFIED)
+- [New York Times: "blind in name only" trust](https://www.politifact.com/article/2010/jun/11/rick-scott-and-fraud-case-columbiahca/) (Tier 2) (VERIFIED)
+- [CNN: NRSC spending failure, McConnell feud](https://www.cnn.com/2022/09/06/politics/rick-scott-mitch-mcconnell-republican-senate-fundraising) (Tier 2) (VERIFIED)
+- [Florida Politics: Big Sugar donors, healthcare votes](https://www.wlrn.org/politics/2013-09-27/seminole-tribe-u-s-sugar-among-big-donors-to-gov-scott-re-election-committee) (Tier 2) (VERIFIED)
 
 ### Congressional Stock Trades (STOCK Act)
 <!-- auto:stock-trades start -->
@@ -200,7 +200,7 @@ Scott's wife Ann holds a portfolio of 550+ investment items, including Cayman Is
 | 12/17/2019 | -- | Purchase | $500,001 - $1,000,000 | Spouse |
 | 12/17/2019 | -- | Purchase | $250,001 - $500,000 | Spouse |
 
-- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
 ### Legislative Activity (GovTrack)
@@ -219,7 +219,7 @@ Scott's wife Ann holds a portfolio of 550+ investment items, including Cayman Is
 - S.Con.Res. 30: A concurrent resolution expressing the sense of Congress that the Ratepayer Protection Pledge announced on March 4, 2026 — *This resolution is in the first stage of the legislative process. It was introduced into Congress on March 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 - S. 4184: Senior Citizens’ Freedom to Work Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 24, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412838) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412838) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
 
 ### Legislative Activity (Congress.gov)
@@ -248,7 +248,7 @@ Scott's wife Ann holds a portfolio of 550+ investment items, including Cayman Is
 | — |  | — |
 | 4026 | American Dream Accounts Act of 2026 | Read twice and referred to the Committee on Finance. |
 
-- [Source: Congress.gov](https://www.congress.gov/member/S001217) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/S001217)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Committee Assignments (Congress.gov)
@@ -272,7 +272,7 @@ Scott's wife Ann holds a portfolio of 550+ investment items, including Cayman Is
 - State Department and USAID Management, International Operations, and Bilateral International Development
 - Western Hemisphere, Transnational Crime, Civilian Security, Democracy, Human Rights, and Global Women's Issues
 
-- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 ### Voting Record
@@ -297,6 +297,6 @@ Scott's wife Ann holds a portfolio of 550+ investment items, including Cayman Is
 
 **Sources**
 
-- [Congress.gov: Rick Scott](https://www.congress.gov/member/c001091) (Tier 1)
-- [GovTrack: Rick Scott](https://www.govtrack.us/congress/members/412838) (Tier 1)
+- ~~[Congress.gov: Rick Scott](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [GovTrack: Rick Scott](https://www.govtrack.us/congress/members/412838) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->

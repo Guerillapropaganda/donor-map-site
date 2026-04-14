@@ -43,7 +43,7 @@ No FEC individual contributions found. The FEC API returns 0 results for both "G
 > [!money]
 > Zero FEC at $7M/yr income is the Fox News institutional pattern. Gutfeld, like Hannity ($45M/yr, $0 FEC), Ingraham ($15M/yr, $0 FEC), and Shapiro ($0 FEC), exercises political influence through airtime, not donations. The donation IS the platform access. Fox Corp's advertising revenue structure IS the political economy.
 
-- [FEC: Greg Gutfeld individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=GUTFELD%2C+GREG) (Tier 1)
+- [FEC: Greg Gutfeld individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=GUTFELD%2C+GREG) (Tier 1) (VERIFIED)
 
 ### Who Funds Them
 
@@ -116,15 +116,15 @@ The zero-FEC pattern is revealing: Gutfeld's political influence is entirely cha
 
 ### Sources
 
-- [Fox News Media: Greg Gutfeld signs multi-year contract extension (press release)](https://press.foxnews.com/2024/04/greg-gutfeld-signs-multi-year-contract-extension-with-fox-news-media) (Tier 1)
-- [Deadline: Greg Gutfeld Extends Contract At Fox News ($9M/yr)](https://deadline.com/2024/04/greg-gutfeld-fox-news-contract-1235876017/) (Tier 2)
-- [Variety: Greg Gutfeld Extends Fox News Contract (exclusive)](https://variety.com/2024/tv/news/greg-gutfeld-extends-fox-news-contract-1235960330/) (Tier 2)
-- [ADWEEK: Fox News Media and Greg Gutfeld sign multi-year contract extension](https://www.adweek.com/tvnewser/fox-news-media-and-greg-gutfeld-sign-multi-year-contract-extension/) (Tier 2)
-- [NPR: Judge to decide whether Fox News will face Smartmatic at trial (Watters-Gutfeld texts)](https://www.npr.org/2025/12/02/nx-s1-5627506/fox-news-smartmatic-lawsuit-election-claims-trial) (Tier 2)
-- [OPB/AP: Fox News faces critical test in 2nd case over false 2020 election claims](https://www.opb.org/article/2025/12/02/judge-to-decide-whether-fox-news-will-face-smartmatic-at-trial/) (Tier 2)
-- [Media Matters: Pharmaceutical companies funding Fox News COVID misinformation](https://www.mediamatters.org/coronavirus-covid-19/these-pharmaceutical-companies-are-funding-spread-covid-misinformation-fox) (Tier 2)
-- [The Daily Beast: How Vaccine Companies Have Bankrolled Fox News' Anti-Vaxx Insanity](https://www.thedailybeast.com/how-vaccine-companies-have-bankrolled-fox-news-anti-vaxx-insanity/) (Tier 2)
-- [Wikipedia: Greg Gutfeld](https://en.wikipedia.org/wiki/Greg_Gutfeld) (Tier 3)
-- [Ballotpedia: Greg Gutfeld](https://ballotpedia.org/Greg_Gutfeld) (Tier 3)
+- [Fox News Media: Greg Gutfeld signs multi-year contract extension (press release)](https://press.foxnews.com/2024/04/greg-gutfeld-signs-multi-year-contract-extension-with-fox-news-media) (Tier 1) (VERIFIED)
+- [Deadline: Greg Gutfeld Extends Contract At Fox News ($9M/yr)](https://deadline.com/2024/04/greg-gutfeld-fox-news-contract-1235876017/) (Tier 2) (VERIFIED)
+- [Variety: Greg Gutfeld Extends Fox News Contract (exclusive)](https://variety.com/2024/tv/news/greg-gutfeld-extends-fox-news-contract-1235960330/) (Tier 2) (VERIFIED)
+- [ADWEEK: Fox News Media and Greg Gutfeld sign multi-year contract extension](https://www.adweek.com/tvnewser/fox-news-media-and-greg-gutfeld-sign-multi-year-contract-extension/) (Tier 2) (VERIFIED)
+- [NPR: Judge to decide whether Fox News will face Smartmatic at trial (Watters-Gutfeld texts)](https://www.npr.org/2025/12/02/nx-s1-5627506/fox-news-smartmatic-lawsuit-election-claims-trial) (Tier 2) (VERIFIED)
+- [OPB/AP: Fox News faces critical test in 2nd case over false 2020 election claims](https://www.opb.org/article/2025/12/02/judge-to-decide-whether-fox-news-will-face-smartmatic-at-trial/) (Tier 2) (VERIFIED)
+- [Media Matters: Pharmaceutical companies funding Fox News COVID misinformation](https://www.mediamatters.org/coronavirus-covid-19/these-pharmaceutical-companies-are-funding-spread-covid-misinformation-fox) (Tier 2) (VERIFIED)
+- [The Daily Beast: How Vaccine Companies Have Bankrolled Fox News' Anti-Vaxx Insanity](https://www.thedailybeast.com/how-vaccine-companies-have-bankrolled-fox-news-anti-vaxx-insanity/) (Tier 2) (VERIFIED)
+- [Wikipedia: Greg Gutfeld](https://en.wikipedia.org/wiki/Greg_Gutfeld) (Tier 3) (VERIFIED)
+- [Ballotpedia: Greg Gutfeld](https://ballotpedia.org/Greg_Gutfeld) (Tier 3) (VERIFIED)
 - [FEC: Greg Gutfeld individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=GUTFELD%2C+GREG) (Tier 1)
 

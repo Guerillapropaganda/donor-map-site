@@ -149,18 +149,18 @@ Then he left for the private sector, where the real money is.
 
 ## Sources
 
-- [FEC Candidate: Mark Green donor profile](https://www.fec.gov/data/candidate/H0CT05150/) (Tier 1)
-- [Congress.gov: Mark E. Green](https://www.congress.gov/member/mark-green/G000590) (Tier 1)
-- [House.gov: Mark Green biography](https://markgreen.house.gov/biography) (Tier 1)
-- [NBC News: Mark Green to resign from Congress for private-sector job](https://www.nbcnews.com/politics/congress/mark-green-tennessee-republican-resign-congress-homeland-security-rcna211953) (Tier 2)
-- [CNN: Mark Green to leave Congress after House votes on Trump agenda bill](https://www.cnn.com/2025/06/09/politics/mark-green-tennessee-congressman-to-resign) (Tier 2)
-- [Roll Call: Tennessee Rep. Mark Green will resign after next budget vote](https://rollcall.com/2025/06/09/mark-green-tennessee-resign-budget/) (Tier 2)
-- [CNBC: Rep. Mark Green resigns from Congress](https://www.cnbc.com/2025/07/05/rep-mark-green-announces-resignation.html) (Tier 2)
-- [Nashville Banner: Uncertainty Surrounds Mark Green's Departure](https://nashvillebanner.com/2025/07/08/congressman-mark-green-resigns-special-election/) (Tier 2)
-- [We Are The Mighty: Congressman was Special Forces doctor who interrogated Saddam](https://www.wearethemighty.com/mighty-moments/badass-congressman-interrogated-saddam-hussein/) (Tier 3)
-- [Ballotpedia: Mark Green](https://ballotpedia.org/Mark_Green_(Tennessee)) (Tier 3)
-- [Wikipedia: Mark Green (Tennessee politician)](https://en.wikipedia.org/wiki/Mark_Green_%28Tennessee_politician%29) (Tier 3)
-- [TriStar Daily: Former Tennessee Congressman Green Launches New Company](https://tristardaily.com/former-tennessee-congressman-mark-green-launches-new-company/) (Tier 3)
+- [FEC Candidate: Mark Green donor profile](https://www.fec.gov/data/candidate/H0CT05150/) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: Mark E. Green](https://www.congress.gov/member/mark-green/G000590)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[House.gov: Mark Green biography](https://markgreen.house.gov/biography)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [NBC News: Mark Green to resign from Congress for private-sector job](https://www.nbcnews.com/politics/congress/mark-green-tennessee-republican-resign-congress-homeland-security-rcna211953) (Tier 2) (VERIFIED)
+- [CNN: Mark Green to leave Congress after House votes on Trump agenda bill](https://www.cnn.com/2025/06/09/politics/mark-green-tennessee-congressman-to-resign) (Tier 2) (VERIFIED)
+- [Roll Call: Tennessee Rep. Mark Green will resign after next budget vote](https://rollcall.com/2025/06/09/mark-green-tennessee-resign-budget/) (Tier 2) (VERIFIED)
+- [CNBC: Rep. Mark Green resigns from Congress](https://www.cnbc.com/2025/07/05/rep-mark-green-announces-resignation.html) (Tier 2) (VERIFIED)
+- [Nashville Banner: Uncertainty Surrounds Mark Green's Departure](https://nashvillebanner.com/2025/07/08/congressman-mark-green-resigns-special-election/) (Tier 2) (VERIFIED)
+- [We Are The Mighty: Congressman was Special Forces doctor who interrogated Saddam](https://www.wearethemighty.com/mighty-moments/badass-congressman-interrogated-saddam-hussein/) (Tier 3) (VERIFIED)
+- [Ballotpedia: Mark Green](https://ballotpedia.org/Mark_Green_(Tennessee) (VERIFIED)) (Tier 3)
+- [Wikipedia: Mark Green (Tennessee politician)](https://en.wikipedia.org/wiki/Mark_Green_%28Tennessee_politician%29) (Tier 3) (VERIFIED)
+- [TriStar Daily: Former Tennessee Congressman Green Launches New Company](https://tristardaily.com/former-tennessee-congressman-mark-green-launches-new-company/) (Tier 3) (VERIFIED)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -191,7 +191,7 @@ Then he left for the private sector, where the real money is.
 | NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE | $4,882 | $0 |
 | NATIONAL RIGHT TO LIFE VICTORY FUND | $2,451 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0CT05150/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0CT05150/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (GovTrack)
@@ -215,5 +215,5 @@ Then he left for the private sector, where the real money is.
 | 2006-12-08 | H.R. 5948 (109th): Belarus Democracy Reauthorization Act of 2006 | Yea | Passed |
 | 2006-12-08 | H.Res. 1100 (109th): Providing for consideration of the bill (H.R. 6406) to modi… | Yea | Passed |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400159) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400159) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->

@@ -221,8 +221,8 @@ The DCCC blacklist, the dues system, the committee assignment leverage, the prog
 
 Detailed sourcing is in each sub-note. Key sources for the master profile:
 
-- [FEC Candidate: Nancy Pelosi Campaign Finance Summary](https://www.fec.gov/data/candidate/H8CA05035/) (Tier 1)
-- [Federal Election Commission: Candidate Filings](https://www.fec.gov/data/filings/) (Tier 1)
+- [FEC Candidate: Nancy Pelosi Campaign Finance Summary](https://www.fec.gov/data/candidate/H8CA05035/) (Tier 1) (VERIFIED)
+- [Federal Election Commission: Candidate Filings](https://www.fec.gov/data/filings/) (Tier 1) (VERIFIED)
 - Track AIPAC — Pelosi pro-Israel donations ($618K+) (Tier 1)
 - The Intercept — DCCC committee dues system, blacklist policy (Tier 2)
 - Washington Examiner — Paul Pelosi stock trades (Tier 2)
@@ -277,7 +277,7 @@ Detailed sourcing is in each sub-note. Key sources for the master profile:
 | POLICE OFFICERS DEFENSE ALLIANCE LLC | $0 | $100,000 |
 | CONGRESSIONAL LEADERSHIP FUND | $0 | $75,000 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8CA05035/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8CA05035/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### DOJ Press Releases
@@ -287,7 +287,7 @@ Detailed sourcing is in each sub-note. Key sources for the master profile:
 <!-- auto:committee-assignments start -->
 _No committee data found._
 
-- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 ### Wikipedia
@@ -296,15 +296,15 @@ Nancy Patricia Pelosi is an American politician who was the 52nd speaker of the 
 
 | Fact | Value |
 |------|-------|
-| Wikidata ID | [Q170581](https://www.wikidata.org/wiki/Q170581) |
+| Wikidata ID | [Q170581](https://www.wikidata.org/wiki/Q170581) (VERIFIED) |
 | Description | American politician (born 1940) |
 | Born | 1940-03-26 |
-| Website | [https://pelosi.house.gov](https://pelosi.house.gov) |
-| X/Twitter | [@SpeakerPelosi](https://x.com/SpeakerPelosi) |
-| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Official_photo_of_Speaker_Nancy_Pelosi_in_2019.jpg?width=300) |
+| Website | [https://pelosi.house.gov](https://pelosi.house.gov) (VERIFIED) |
+| X/Twitter | [@SpeakerPelosi](https://x.com/SpeakerPelosi) (VERIFIED) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Official_photo_of_Speaker_Nancy_Pelosi_in_2019.jpg?width=300) (NEEDS REVIEW) |
 
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/Nancy_Pelosi) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q170581) (Tier 2)
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Nancy_Pelosi) (Tier 3) (VERIFIED)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q170581) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
 ### Legislative Activity (Congress.gov)
@@ -333,7 +333,7 @@ Nancy Patricia Pelosi is an American politician who was the 52nd speaker of the 
 | 1085 | To award three congressional gold medals to the United States Capitol Police and… | Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. |
 | 111 | Electing Members to certain standing committees of the House of Representatives. | Motion to reconsider laid on the table Agreed to without objection. |
 
-- [Source: Congress.gov](https://www.congress.gov/member/P000197) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/P000197)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Campaign Finance Summary (FEC)
@@ -367,5 +367,5 @@ Nancy Patricia Pelosi is an American politician who was the 52nd speaker of the 
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Nancy Pelosi](https://www.congress.gov/member/e000179) (Tier 1)
+- ~~[Congress.gov: Nancy Pelosi](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->

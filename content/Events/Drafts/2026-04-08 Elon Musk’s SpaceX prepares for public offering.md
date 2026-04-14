@@ -14,7 +14,7 @@ profiles:
 
 ## Elon Musk’s SpaceX prepares for public offering
 
-**Source:** [The Hill](https://thehill.com/policy/technology/5823063-spacex-ipo-public-valuation/)
+**Source:** ~~[The Hill](https://thehill.com/policy/technology/5823063-spacex-ipo-public-valuation/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-08
 
 SpaceX, Elon Musk’s spacecraft and satellite communications company, is preparing to go public after reportedly filing paperwork with the Securities and Exchange Commission (SEC). After months of speculation, the company has confidentially filed for an initial public offering (IPO) and is aiming for a June listing, according to multiple outlets. Bloomberg reported that it is…

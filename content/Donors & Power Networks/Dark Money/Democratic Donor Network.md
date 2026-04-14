@@ -134,15 +134,15 @@ The network's internal contradiction is structural, not accidental. Labor delive
 
 ### Sources
 
-- [OpenSecrets: 2024 Outside Spending by Group](https://www.opensecrets.org/outside-spending/by_group) (Tier 1)
-- [OpenSecrets: 2024 Top Donors to Outside Spending Groups](https://www.opensecrets.org/outside-spending/top_donors) (Tier 1)
-- [OpenSecrets: ActBlue PAC Profile 2024](https://www.opensecrets.org/political-action-committees-pacs/actblue/C00401224/summary/2024) (Tier 1)
-- [OpenSecrets: ActBlue 2024 Outside Spending Detail](https://www.opensecrets.org/outside-spending/detail/2024?cmte=C00401224&tab=expenditures) (Tier 1)
-- [OpenSecrets: SEIU Summary Profile](https://www.opensecrets.org/orgs/service-employees-international-union/summary?id=D000000077) (Tier 1)
-- [Wikipedia: Sixteen Thirty Fund](https://en.wikipedia.org/wiki/Sixteen_Thirty_Fund) (Tier 3)
-- [Wikipedia: Future Forward PAC](https://en.wikipedia.org/wiki/Future_Forward_PAC) (Tier 3)
-- [Wikipedia: ActBlue](https://en.wikipedia.org/wiki/ActBlue) (Tier 3)
-- [The American Prospect: The Democratic Dilemma on Dark Money](https://prospect.org/2021/12/02/democratic-dilemma-on-dark-money/) (Tier 2)
+- [OpenSecrets: 2024 Outside Spending by Group](https://www.opensecrets.org/outside-spending/by_group) (Tier 1) (VERIFIED)
+- [OpenSecrets: 2024 Top Donors to Outside Spending Groups](https://www.opensecrets.org/outside-spending/top_donors) (Tier 1) (VERIFIED)
+- [OpenSecrets: ActBlue PAC Profile 2024](https://www.opensecrets.org/political-action-committees-pacs/actblue/C00401224/summary/2024) (Tier 1) (VERIFIED)
+- [OpenSecrets: ActBlue 2024 Outside Spending Detail](https://www.opensecrets.org/outside-spending/detail/2024?cmte=C00401224&tab=expenditures) (Tier 1) (VERIFIED)
+- [OpenSecrets: SEIU Summary Profile](https://www.opensecrets.org/orgs/service-employees-international-union/summary?id=D000000077) (Tier 1) (VERIFIED)
+- [Wikipedia: Sixteen Thirty Fund](https://en.wikipedia.org/wiki/Sixteen_Thirty_Fund) (Tier 3) (VERIFIED)
+- [Wikipedia: Future Forward PAC](https://en.wikipedia.org/wiki/Future_Forward_PAC) (Tier 3) (VERIFIED)
+- [Wikipedia: ActBlue](https://en.wikipedia.org/wiki/ActBlue) (Tier 3) (VERIFIED)
+- [The American Prospect: The Democratic Dilemma on Dark Money](https://prospect.org/2021/12/02/democratic-dilemma-on-dark-money/) (Tier 2) (VERIFIED)
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
@@ -161,12 +161,12 @@ The network's internal contradiction is structural, not accidental. Labor delive
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/943062436/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/943062436/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/943062436/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/943062436/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/943062436/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/943062436/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/943062436/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/943062436/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/943062436/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/943062436/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/943062436) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/943062436) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->

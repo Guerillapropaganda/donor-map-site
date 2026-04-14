@@ -168,16 +168,16 @@ The $30M+ annual Koch investment in criminal justice reform is not philanthropy,
 
 ### Sources
 
-- [EXPOSEDbyCMD: Charles Koch's "Stand Together" donor conduits move $176M, 2022 network mapping](https://www.exposedbycmd.org/2023/12/20/charles-kochs-stand-together-donor-conduits-move-176-million/) (Tier 2)
-- [EXPOSEDbyCMD: Koch super PAC shatters election spending record, 2024 cycle $548M](https://www.exposedbycmd.org/2024/11/05/koch-super-pac-shatters-its-election-spending-record/) (Tier 2)
-- [OpenSecrets: Koch network's flagship super PAC pours big money into 2024 elections](https://www.opensecrets.org/news/2024/08/koch-network-flagship-super-pac-pours-big-money-into-2024-elections/) (Tier 1)
-- [NBC News: Leo, Koch networks pour millions into Project 2025 groups, $55M+](https://www.nbcnews.com/politics/2024-election/leonard-leo-koch-networks-pour-millions-prep-potential-second-trump-ad-rcna144360) (Tier 2)
-- [Read Sludge: Koch network fuels Republican push to kill ACA subsidies](https://readsludge.com/2025/12/15/koch-network-fuels-republican-push-to-kill-aca-subsidies/) (Tier 2)
-- [InfluenceWatch: Stand Together, organizational profile](https://www.influencewatch.org/non-profit/stand-together/) (Tier 2)
-- [Wikipedia: Stand Together](https://en.wikipedia.org/wiki/Stand_Together) (Tier 3)
-- [Wikipedia: Koch network](https://en.wikipedia.org/wiki/Koch_network) (Tier 3)
-- [SourceWatch: Stand Together Foundation](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Stand_Together_Foundation) (Tier 3)
-- [Charles Koch Foundation. Learn & Work Ecosystem Library](https://learnworkecosystemlibrary.com/organizations/charles-koch-foundation/) (Tier 3)
+- ~~[EXPOSEDbyCMD: Charles Koch's "Stand Together" donor conduits move $176M, 2022 network mapping](https://www.exposedbycmd.org/2023/12/20/charles-kochs-stand-together-donor-conduits-move-176-million/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[EXPOSEDbyCMD: Koch super PAC shatters election spending record, 2024 cycle $548M](https://www.exposedbycmd.org/2024/11/05/koch-super-pac-shatters-its-election-spending-record/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [OpenSecrets: Koch network's flagship super PAC pours big money into 2024 elections](https://www.opensecrets.org/news/2024/08/koch-network-flagship-super-pac-pours-big-money-into-2024-elections/) (Tier 1) (VERIFIED)
+- [NBC News: Leo, Koch networks pour millions into Project 2025 groups, $55M+](https://www.nbcnews.com/politics/2024-election/leonard-leo-koch-networks-pour-millions-prep-potential-second-trump-ad-rcna144360) (Tier 2) (VERIFIED)
+- [Read Sludge: Koch network fuels Republican push to kill ACA subsidies](https://readsludge.com/2025/12/15/koch-network-fuels-republican-push-to-kill-aca-subsidies/) (Tier 2) (VERIFIED)
+- [InfluenceWatch: Stand Together, organizational profile](https://www.influencewatch.org/non-profit/stand-together/) (Tier 2) (VERIFIED)
+- [Wikipedia: Stand Together](https://en.wikipedia.org/wiki/Stand_Together) (Tier 3) (VERIFIED)
+- [Wikipedia: Koch network](https://en.wikipedia.org/wiki/Koch_network) (Tier 3) (VERIFIED)
+- ~~[SourceWatch: Stand Together Foundation](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Stand_Together_Foundation)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [Charles Koch Foundation. Learn & Work Ecosystem Library](https://learnworkecosystemlibrary.com/organizations/charles-koch-foundation/) (Tier 3) (VERIFIED)
 
 ---
 
@@ -205,8 +205,8 @@ The $30M+ annual Koch investment in criminal justice reform is not philanthropy,
 | Net Assets | $291K |
 | Officer Compensation | $178K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 912166417](https://projects.propublica.org/nonprofits/organizations/912166417) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F912166417_202112_990_2023051221218708.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 912166417](https://projects.propublica.org/nonprofits/organizations/912166417) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F912166417_202112_990_2023051221218708.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Federal Register Activity
@@ -221,15 +221,15 @@ The $30M+ annual Koch investment in criminal justice reform is not philanthropy,
 | Agencies | Alcohol, Tobacco, Firearms, and Explosives Bureau, Education Department, Executive Office of the President, Justice Department, Labor Department, Veterans Employment and Training Service |
 
 **Recent regulatory activity:**
-- [National Advisory Committee on Institutional Quality and Integrity](https://www.federalregister.gov/documents/2025/12/30/2025-24013/national-advisory-committee-on-institutional-quality-and-integrity) (2025-12-30) — Education Department
-- [HIRE Vets Medallion Program-Announcement of HIRE Vets Medallion Award Recipients](https://www.federalregister.gov/documents/2024/12/20/2024-30419/hire-vets-medallion-program-announcement-of-hire-vets-medallion-award-recipients) (2024-12-20) — Labor Department
-- [German-American Day, 2024](https://www.federalregister.gov/documents/2024/10/09/2024-23457/german-american-day-2024) (2024-10-09) — Executive Office of the President
-- [Overdose Awareness Week, 2024](https://www.federalregister.gov/documents/2024/08/28/2024-19441/overdose-awareness-week-2024) (2024-08-28) — Executive Office of the President
-- [Definition of “Engaged in the Business” as a Dealer in Firearms](https://www.federalregister.gov/documents/2024/04/19/2024-07838/definition-of-engaged-in-the-business-as-a-dealer-in-firearms) (2024-04-19) — Justice Department ★
-- [National Child Abuse Prevention Month, 2024](https://www.federalregister.gov/documents/2024/04/03/2024-07189/national-child-abuse-prevention-month-2024) (2024-04-03) — Executive Office of the President
+- [National Advisory Committee on Institutional Quality and Integrity](https://www.federalregister.gov/documents/2025/12/30/2025-24013/national-advisory-committee-on-institutional-quality-and-integrity) (VERIFIED) (2025-12-30) — Education Department
+- [HIRE Vets Medallion Program-Announcement of HIRE Vets Medallion Award Recipients](https://www.federalregister.gov/documents/2024/12/20/2024-30419/hire-vets-medallion-program-announcement-of-hire-vets-medallion-award-recipients) (VERIFIED) (2024-12-20) — Labor Department
+- [German-American Day, 2024](https://www.federalregister.gov/documents/2024/10/09/2024-23457/german-american-day-2024) (VERIFIED) (2024-10-09) — Executive Office of the President
+- [Overdose Awareness Week, 2024](https://www.federalregister.gov/documents/2024/08/28/2024-19441/overdose-awareness-week-2024) (VERIFIED) (2024-08-28) — Executive Office of the President
+- [Definition of “Engaged in the Business” as a Dealer in Firearms](https://www.federalregister.gov/documents/2024/04/19/2024-07838/definition-of-engaged-in-the-business-as-a-dealer-in-firearms) (VERIFIED) (2024-04-19) — Justice Department ★
+- [National Child Abuse Prevention Month, 2024](https://www.federalregister.gov/documents/2024/04/03/2024-07189/national-child-abuse-prevention-month-2024) (VERIFIED) (2024-04-03) — Executive Office of the President
 - ... and 29 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Stand%20Together%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Stand%20Together%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### SEC Filing Activity
@@ -247,7 +247,7 @@ The $30M+ annual Koch investment in criminal justice reform is not philanthropy,
 - 2001-03-29 — **EX-10.J**: SUPPLEMENTAL BENEFITS PLAN
 - 2002-02-28 — **EX-10.(L)**: EXHIBIT 10(L)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Stand%20Together%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Stand%20Together%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Lobbying Activity
@@ -266,7 +266,7 @@ The $30M+ annual Koch investment in criminal justice reform is not philanthropy,
 
 **Agencies contacted:** Army, Dept of (Corps of Engineers), Commerce, Dept of (DOC), Consumer Product Safety Commission (CPSC), Defense, Dept of (DOD), Energy, Dept of, Environmental Protection Agency (EPA), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Indian Health Service, Justice, Dept of (DOJ) +8 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Stand%20Together) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Stand%20Together) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Federal Court Records (CourtListener)
@@ -285,7 +285,7 @@ The $30M+ annual Koch investment in criminal justice reform is not philanthropy,
 - Christian and Jewish Alliance Inc. v. Brunner (2025) — District Court, S.D. California
 - CITY OF PHILADELPHIA v. CVS HEALTH CORPORATION (2025) — District Court, E.D. Pennsylvania
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Stand%20Together%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Stand%20Together%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Campaign Finance (FEC)
@@ -310,7 +310,7 @@ The $30M+ annual Koch investment in criminal justice reform is not philanthropy,
 | LANCE GOODEN FOR CONGRESS COMMITTEE | $651 | REP |
 | DR JEAN L ENRIGHT FOR CONGRESS | $500 | DEM |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Stand%20Together) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Stand%20Together) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### Influence Network (Cross-Reference)
@@ -343,12 +343,12 @@ The $30M+ annual Koch investment in criminal justice reform is not philanthropy,
 **Filing history:** 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014
 
 **View 990 filings:**
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/912166417/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/912166417/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/912166417/2019)
-- [2018 Filing](https://projects.propublica.org/nonprofits/organizations/912166417/2018)
-- [2017 Filing](https://projects.propublica.org/nonprofits/organizations/912166417/2017)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/912166417/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/912166417/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/912166417/2019)~~ (URL broken, archived by Ops)
+- ~~[2018 Filing](https://projects.propublica.org/nonprofits/organizations/912166417/2018)~~ (URL broken, archived by Ops)
+- ~~[2017 Filing](https://projects.propublica.org/nonprofits/organizations/912166417/2017)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/912166417) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/912166417) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->

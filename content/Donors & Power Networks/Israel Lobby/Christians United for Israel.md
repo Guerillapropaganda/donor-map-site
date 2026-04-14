@@ -57,8 +57,8 @@ Unconditional U.S. support for Israel, opposition to Palestinian statehood, Jeru
 
 ### Sources
 
-- [OpenSecrets: CUFI lobbying](https://www.opensecrets.org/orgs/christians-united-for-israel/summary?id=D000073926) (Tier 1)
-- [Ballotpedia: Christians United for Israel](https://ballotpedia.org/Christians_United_for_Israel) (Tier 3)
+- [OpenSecrets: CUFI lobbying](https://www.opensecrets.org/orgs/christians-united-for-israel/summary?id=D000073926) (Tier 1) (VERIFIED)
+- [Ballotpedia: Christians United for Israel](https://ballotpedia.org/Christians_United_for_Israel) (Tier 3) (VERIFIED)
 
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->
@@ -76,7 +76,7 @@ Unconditional U.S. support for Israel, opposition to Palestinian statehood, Jeru
 
 **Agencies contacted:** HOUSE OF REPRESENTATIVES, SENATE
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Christians%20United%20for%20Israel) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Christians%20United%20for%20Israel) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### DOJ Press Releases
@@ -97,5 +97,5 @@ Unconditional U.S. support for Israel, opposition to Palestinian statehood, Jeru
 - 2010-06-24 — **FWP**: FWP
 - 2010-06-24 — **EX-99.1**: EX-99.1
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Christians%20United%20for%20Israel%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Christians%20United%20for%20Israel%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:sec-edgar end -->

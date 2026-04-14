@@ -74,5 +74,5 @@ Each case served both the public interest and the political brand. The AG office
 
 ### Sources
 
-- [Washington Post: Pennsylvania grand jury report on child sex abuse lists hundreds of accused priests](https://www.washingtonpost.com/news/acts-of-faith/wp/2018/08/14/pennsylvania-grand-jury-report-on-sex-abuse-in-catholic-church-will-list-hundreds-of-accused-predator-priests/) (Tier 2)
-- [PBS: How the Pennsylvania report echoed around the U.S.](https://www.pbs.org/newshour/nation/how-a-catholic-sex-abuse-report-in-pennsylvania-echoed-around-the-u-s) (Tier 2)
+- [Washington Post: Pennsylvania grand jury report on child sex abuse lists hundreds of accused priests](https://www.washingtonpost.com/news/acts-of-faith/wp/2018/08/14/pennsylvania-grand-jury-report-on-sex-abuse-in-catholic-church-will-list-hundreds-of-accused-predator-priests/) (Tier 2) (VERIFIED)
+- [PBS: How the Pennsylvania report echoed around the U.S.](https://www.pbs.org/newshour/nation/how-a-catholic-sex-abuse-report-in-pennsylvania-echoed-around-the-u-s) (Tier 2) (VERIFIED)

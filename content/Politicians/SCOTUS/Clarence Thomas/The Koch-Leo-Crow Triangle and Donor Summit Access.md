@@ -98,10 +98,10 @@ The voluntary ethics code adopted by the Supreme Court in November 2023 contains
 
 ### Sources
 
-- [Senate Judiciary Committee. Votes to Authorize Subpoenas for Harlan Crow and Leonard Leo](https://www.judiciary.senate.gov/press/releases/senate-judiciary-committee-votes-to-authorize-subpoenas-for-harlan-crow-and-leonard-leo) (Tier 1)
-- [ProPublica. Clarence Thomas Secretly Participated in Koch Network Donor Events](https://www.propublica.org/article/clarence-thomas-secretly-attended-koch-brothers-donor-events-scotus) (Tier 2)
-- [ProPublica. We Don't Talk About Leonard. The Man Behind the Right's Supreme Court Supermajority](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2)
-- [ProPublica. Dark Money. Barre Seid Donated $1.6 Billion to Marble Freedom Trust](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (Tier 2)
-- [Washington Post. Leonard Leo Directed Fees to Clarence Thomas's Wife (May 2023)](https://www.washingtonpost.com/investigations/2023/05/04/leonard-leo-clarence-ginni-thomas-conway/) (Tier 2)
-- [The Hill. Who Is Barre Seid. The Billionaire Who Donated $1.6 Billion](https://thehill.com/homenews/campaign/3612396-who-is-barre-seid-the-billionaire-who-donated-record-1-6-billion-to-conservative-group/) (Tier 3)
-- [CNN. Massive Dark Money Donation. Conservative Group Got $1.6 Billion From Single Donor](https://www.cnn.com/2022/08/22/politics/dark-money-donation-conservative-group-invs) (Tier 3)
+- [Senate Judiciary Committee. Votes to Authorize Subpoenas for Harlan Crow and Leonard Leo](https://www.judiciary.senate.gov/press/releases/senate-judiciary-committee-votes-to-authorize-subpoenas-for-harlan-crow-and-leonard-leo) (Tier 1) (VERIFIED)
+- [ProPublica. Clarence Thomas Secretly Participated in Koch Network Donor Events](https://www.propublica.org/article/clarence-thomas-secretly-attended-koch-brothers-donor-events-scotus) (Tier 2) (VERIFIED)
+- [ProPublica. We Don't Talk About Leonard. The Man Behind the Right's Supreme Court Supermajority](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2) (VERIFIED)
+- [ProPublica. Dark Money. Barre Seid Donated $1.6 Billion to Marble Freedom Trust](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (Tier 2) (VERIFIED)
+- [Washington Post. Leonard Leo Directed Fees to Clarence Thomas's Wife (May 2023)](https://www.washingtonpost.com/investigations/2023/05/04/leonard-leo-clarence-ginni-thomas-conway/) (Tier 2) (VERIFIED)
+- ~~[The Hill. Who Is Barre Seid. The Billionaire Who Donated $1.6 Billion](https://thehill.com/homenews/campaign/3612396-who-is-barre-seid-the-billionaire-who-donated-record-1-6-billion-to-conservative-group/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [CNN. Massive Dark Money Donation. Conservative Group Got $1.6 Billion From Single Donor](https://www.cnn.com/2022/08/22/politics/dark-money-donation-conservative-group-invs) (Tier 3) (VERIFIED)

@@ -51,9 +51,9 @@ Blackstone Real Estate's political significance: the firm's massive housing port
 
 ### Sources
 
-- [OpenSecrets: Stephen Schwarzman political contributions](https://www.opensecrets.org/donor-lookup/results?name=schwarzman) (Tier 1)
-- [SEC: Blackstone 10-K filings](https://www.sec.gov/cgi-bin/browse-edgar?company=Blackstone%20Real%20Estate%20Political%20Operation&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)
-- [Ballotpedia: Private equity political spending](https://ballotpedia.org/Blackstone_Real_Estate_Political_Operation) (Tier 3)
+- [OpenSecrets: Stephen Schwarzman political contributions](https://www.opensecrets.org/donor-lookup/results?name=schwarzman) (Tier 1) (VERIFIED)
+- [SEC: Blackstone 10-K filings](https://www.sec.gov/cgi-bin/browse-edgar?company=Blackstone%20Real%20Estate%20Political%20Operation&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1) (VERIFIED)
+- [Ballotpedia: Private equity political spending](https://ballotpedia.org/Blackstone_Real_Estate_Political_Operation) (Tier 3) (VERIFIED)
 
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->
@@ -71,7 +71,7 @@ Blackstone Real Estate's political significance: the firm's massive housing port
 
 **Agencies contacted:** Commerce, Dept of (DOC), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Homeland Security, Dept of (DHS), Labor, Dept of (DOL), SENATE, Transportation, Dept of (DOT), Treasury, Dept of, U.S. Mint, White House Office
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Blackstone%20Real%20Estate%20Political%20Operation) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Blackstone%20Real%20Estate%20Political%20Operation) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### OFAC Sanctions Screening
@@ -96,7 +96,7 @@ Blackstone Real Estate's political significance: the firm's massive housing port
 - LIMITED LIABILITY COMPANY SBERBANK REAL ESTATE CENTER (-0-) [RUSSIA-EO14024]
   - Remarks: Secondary sanctions risk: See Section 11 of Executive Order 14024.; Tax ID No. 7736249247 (Russia); Registration Number 1157746652150 (Russia); a.k.a. 'SREC LLC'; Linked To: PUBLIC JOINT STOCK COMPANY...
 
-- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
 ### Federal Contracts
@@ -120,5 +120,5 @@ Blackstone Real Estate's political significance: the firm's massive housing port
 | $0 | AGRICULTURE, DEPARTMENT OF | 2009-06-30 |
 | $0 | AGRICULTURE, DEPARTMENT OF | 2012-03-05 |
 
-- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Blackstone%20Real%20Estate%20Political%20Operation&page=1&index=opp) (Tier 1)
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Blackstone%20Real%20Estate%20Political%20Operation&page=1&index=opp) (Tier 1) (VERIFIED)
 <!-- auto:sam-contracts end -->

@@ -142,12 +142,12 @@ The pattern: every policy creates regulatory certainty for tech industry investm
 ## Sources
 
 - ~~[FollowTheMoney.org: Matt Mahan 2026 Campaign Finance](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=Matt%20Mahan#[%7B1%7Cgro=d-id)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
-- [OpenSecrets: Matt Mahan campaign finance](https://www.opensecrets.org/members-of-congress/summary?displayname=Matt%20Mahan) (Tier 1)
+- [OpenSecrets: Matt Mahan campaign finance](https://www.opensecrets.org/members-of-congress/summary?displayname=Matt%20Mahan) (Tier 1) (VERIFIED)
 - ABC7 San Francisco: tech billionaire donor investigation (Tier 2)
-- [San José Spotlight: Billionaire techies back Matt Mahan campaign](https://sanjosespotlight.com/billionaire-techies-back-matt-mahans-california-governor-campaign/) (Tier 2)
+- [San José Spotlight: Billionaire techies back Matt Mahan campaign](https://sanjosespotlight.com/billionaire-techies-back-matt-mahans-california-governor-campaign/) (Tier 2) (VERIFIED)
 - Mercury News: campaign finance filings analysis (Tier 2)
 - CNBC: billionaire tax opposition (Tier 2)
-- [CalMatters: Governor race fundraising](https://calmatters.org/politics/2026/02/governors-race-fundraising-reports/) (Tier 2)
+- [CalMatters: Governor race fundraising](https://calmatters.org/politics/2026/02/governors-race-fundraising-reports/) (Tier 2) (VERIFIED)
 - San Jose Inside: VC donor bandwagon (Tier 2)
 
 ## Committee Assignments (Congress.gov)

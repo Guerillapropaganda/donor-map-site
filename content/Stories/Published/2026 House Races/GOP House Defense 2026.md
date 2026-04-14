@@ -24,7 +24,7 @@ Republicans control the House by 220-215 (with 1 independent, Kevin Kiley). This
 1. Defend all vulnerable Republican seats (no losses), or
 2. Flip enough Democratic seats to offset expected losses
 
-The National Republican Congressional Committee's (NRCC) 2026 strategy centers on defending vulnerable Republicans through the "Patriot Program" while simultaneously running an offensive program targeting Democratic seats. [NRCC Introduces "MAGA Majority" to Expand House GOP Majority in 2026 - NRCC](https://nrcc.org/2026/03/17/nrcc-introduces-maga-majority-to-expand-house-gop-majority-in-2026/) (Tier 1)
+The National Republican Congressional Committee's (NRCC) 2026 strategy centers on defending vulnerable Republicans through the "Patriot Program" while simultaneously running an offensive program targeting Democratic seats. [NRCC Introduces "MAGA Majority" to Expand House GOP Majority in 2026 - NRCC](https://nrcc.org/2026/03/17/nrcc-introduces-maga-majority-to-expand-house-gop-majority-in-2026/) (Tier 1) (VERIFIED)
 
 ### Vulnerable Republican Freshmen: The 2024 Class Under Siege
 
@@ -50,7 +50,7 @@ The NRCC's Patriot Program provides enhanced support to Republican members in hi
 - Coordination with super PACs
 - Early media buying reserves
 
-**Current Patriot Program members (as of March 2026):** 17 House Republicans have been designated for enhanced support through the Patriot Program. [NRCC Introduces "MAGA Majority" - NRCC](https://nrcc.org/2026/03/17/nrcc-introduces-maga-majority-to-expand-house-gop-majority-in-2026/) (Tier 1)
+**Current Patriot Program members (as of March 2026):** 17 House Republicans have been designated for enhanced support through the Patriot Program. [NRCC Introduces "MAGA Majority" - NRCC](https://nrcc.org/2026/03/17/nrcc-introduces-maga-majority-to-expand-house-gop-majority-in-2026/) (Tier 1) (VERIFIED)
 
 These members are expected to receive 60-70% of NRCC direct support, while non-vulnerable members receive minimal assistance.
 
@@ -63,7 +63,7 @@ The [[Congressional Leadership Fund|Congressional Leadership Fund]] (CLF), Repub
 - CLF held $32.7M in cash on hand at midyear
 - Combined CLF + affiliate (American Action Network) raised $60M+ in six months
 
-[How big money is setting up the midterms - NBC News](https://www.nbcnews.com/politics/2026-election/big-money-setting-midterms-flush-gop-groups-prolific-democratic-candid-rcna257117) (Tier 2)
+[How big money is setting up the midterms - NBC News](https://www.nbcnews.com/politics/2026-election/big-money-setting-midterms-flush-gop-groups-prolific-democratic-candid-rcna257117) (Tier 2) (VERIFIED)
 
 ### CLF's 2026 Priorities:
 1. Defend vulnerable Republican freshmen (priority #1)
@@ -97,7 +97,7 @@ The 2024 election produced a rare demographic: Republican representatives in dis
 2. **Brian Fitzpatrick (PA-1):** Harris won suburban Philadelphia, Fitzpatrick held seat. Margin: Harris +13, Fitzpatrick ~+3.
 3. **Don Bacon (NE-2):** Harris won Omaha, Bacon held seat. Margin: Harris +6.5, Bacon survived.
 
-[The 2024 Crossover House Seats - Sabato's Crystal Ball](https://centerforpolitics.org/crystalball/the-2024-crossover-house-seats-overall-number-remains-low-with-few-harris-district-republicans/) (Tier 2)
+[The 2024 Crossover House Seats - Sabato's Crystal Ball](https://centerforpolitics.org/crystalball/the-2024-crossover-house-seats-overall-number-remains-low-with-few-harris-district-republicans/) (Tier 2) (VERIFIED)
 
 These three seats are the Democratic party's most high-probability flip targets in 2026. If Democrats flip all three, they reach the 4-seat threshold for House control.
 
@@ -112,7 +112,7 @@ The NRCC targets 26+ House Democrats as part of an offensive strategy. These inc
 - **Democrats who broke party ranks on key votes**, targeting members who opposed party consensus on spending, border, or other issues
 - **Freshman Democrats elected by <5 points**, mirroring their defense strategy by targeting Democratic freshmen with narrow margins
 
-[NRCC Names 26 House Democrats to Initial Target List for 2026 - Roll Call](https://rollcall.com/2025/03/17/house-republicans-nrcc-targets-midterm-elections/) (Tier 2)
+[NRCC Names 26 House Democrats to Initial Target List for 2026 - Roll Call](https://rollcall.com/2025/03/17/house-republicans-nrcc-targets-midterm-elections/) (Tier 2) (VERIFIED)
 
 ### Most vulnerable Democrats (NRCC's Tier 1 targets):
 - Josh Harder (CA-13), actually this is Adam Gray; rank him as top pick

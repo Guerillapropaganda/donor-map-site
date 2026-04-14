@@ -150,17 +150,17 @@ This is the triple alignment: donor money from oil and gas ($184,000+ in a singl
 
 ## Sources
 
-- [FEC Candidate: Bruce Westerman donor profile](https://www.fec.gov/data/candidate/H4AR04048/) (Tier 1)
-- [FEC Candidate: Bruce Westerman industry donors](https://www.fec.gov/data/candidate/H4AR04048/) (Tier 1)
-- [Congress.gov: Bruce Westerman](https://www.congress.gov/member/bruce-westerman/W000821) (Tier 1)
-- [House Natural Resources Committee: Chairman Westerman](https://naturalresources.house.gov/about/chairman.htm) (Tier 1)
-- [Public Domain Media: House Natural Resources Chair's Oil Stock Purchases Were Unusual](https://www.publicdomain.media/p/bruce-westerman-stocks) (Tier 2)
-- [Arkansas Times: Democratic lawmaker rips Westerman for buying stock in oil companies overseen by his committee](https://arktimes.com/arkansas-blog/2025/05/09/democratic-lawmaker-rips-westerman-for-buying-stock-in-oil-companies-overseen-by-his-congressional-committee) (Tier 2)
-- [Stateline: Republicans target public lands protections in a new way](https://stateline.org/2026/03/09/republicans-target-public-lands-protections-in-a-new-way/) (Tier 2)
-- [Outdoor Life: House Committee Weighs Massive Mining, Drilling, and Logging Proposal](https://www.outdoorlife.com/conservation/house-natural-resources-bill-2025/) (Tier 2)
-- [Encyclopedia of Arkansas: Bruce Westerman](https://encyclopediaofarkansas.net/entries/bruce-eugene-westerman-8441/) (Tier 3)
-- [Ballotpedia: Bruce Westerman](https://ballotpedia.org/Bruce_Westerman) (Tier 3)
-- [Wikipedia: Bruce Westerman](https://en.wikipedia.org/wiki/Bruce_Westerman) (Tier 3)
+- [FEC Candidate: Bruce Westerman donor profile](https://www.fec.gov/data/candidate/H4AR04048/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Bruce Westerman industry donors](https://www.fec.gov/data/candidate/H4AR04048/) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: Bruce Westerman](https://www.congress.gov/member/bruce-westerman/W000821)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [House Natural Resources Committee: Chairman Westerman](https://naturalresources.house.gov/about/chairman.htm) (Tier 1) (VERIFIED)
+- [Public Domain Media: House Natural Resources Chair's Oil Stock Purchases Were Unusual](https://www.publicdomain.media/p/bruce-westerman-stocks) (Tier 2) (VERIFIED)
+- [Arkansas Times: Democratic lawmaker rips Westerman for buying stock in oil companies overseen by his committee](https://arktimes.com/arkansas-blog/2025/05/09/democratic-lawmaker-rips-westerman-for-buying-stock-in-oil-companies-overseen-by-his-congressional-committee) (Tier 2) (VERIFIED)
+- [Stateline: Republicans target public lands protections in a new way](https://stateline.org/2026/03/09/republicans-target-public-lands-protections-in-a-new-way/) (Tier 2) (VERIFIED)
+- [Outdoor Life: House Committee Weighs Massive Mining, Drilling, and Logging Proposal](https://www.outdoorlife.com/conservation/house-natural-resources-bill-2025/) (Tier 2) (VERIFIED)
+- [Encyclopedia of Arkansas: Bruce Westerman](https://encyclopediaofarkansas.net/entries/bruce-eugene-westerman-8441/) (Tier 3) (VERIFIED)
+- [Ballotpedia: Bruce Westerman](https://ballotpedia.org/Bruce_Westerman) (Tier 3) (VERIFIED)
+- [Wikipedia: Bruce Westerman](https://en.wikipedia.org/wiki/Bruce_Westerman) (Tier 3) (VERIFIED)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -194,7 +194,7 @@ This is the triple alignment: donor money from oil and gas ($184,000+ in a singl
 | CITIZENS FOR RESPONSIBLE ENERGY SOLUTIONS INC. | $36,000 | $0 |
 | NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE | $9,992 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4AR04048/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4AR04048/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (Congress.gov)
@@ -223,12 +223,12 @@ This is the triple alignment: donor money from oil and gas ($184,000+ in a singl
 | 289 | Expressing support for the designation of April 2025 as "Second Chance Month". | Referred to the House Committee on the Judiciary. |
 | 1897 | ESA Amendments Act of 2025 | Placed on the Union Calendar, Calendar No. 489. |
 
-- [Source: Congress.gov](https://www.congress.gov/member/W000821) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/W000821)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Bruce Westerman](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: Bruce Westerman](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->

@@ -90,7 +90,7 @@ Source: [[DMFI - Democratic Majority for Israel]] vault entry.
 | PEACE POLITICAL ACTION COMMITTEE | $250 | — |
 | YOUTH NATIONAL ORGANIZATION FOR TOMORROW | $250 | — |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Mark%20Mellman) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Mark%20Mellman) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### Financial Overview (990 Filing — 2024)
@@ -102,5 +102,5 @@ Source: [[DMFI - Democratic Majority for Israel]] vault entry.
 | Total Expenses | $5K |
 | Net Assets | $68K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 236224727](https://projects.propublica.org/nonprofits/organizations/236224727) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 236224727](https://projects.propublica.org/nonprofits/organizations/236224727) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->

@@ -116,15 +116,15 @@ The organization's spending does not target specific policy outcomes — it targ
 
 ### Sources
 
-- [OpenSecrets: Outside spending on 2024 elections shatters records](https://www.opensecrets.org/news/2024/11/outside-spending-on-2024-elections-shatters-records-fueled-by-billion-dollar-dark-money-infusion/) (Tier 1)
-- [OpenSecrets: Party-aligned groups funnel millions in dark money to super PACs](https://www.opensecrets.org/news/2023/08/party-aligned-groups-funnel-millions-in-dark-money-to-closely-tied-super-pacs-ahead-of-2024-election/) (Tier 1)
-- [IRS: Majority Forward 990 filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Majority%20Forward&city=&state=All+States&country=US) (Tier 1)
-- [FEC: Majority Forward contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=Majority+Forward&two_year_transaction_period=2020) (Tier 1)
-- [Brennan Center: Dark money hit record $1.9B in 2024 federal races](https://www.brennancenter.org/our-work/research-reports/dark-money-hit-record-high-19-billion-2024-federal-races) (Tier 2)
-- [Center for Public Integrity: Democratic super PAC aided by secret money](https://publicintegrity.org/politics/democratic-super-pac-aided-by-secret-money/) (Tier 2)
-- [NBC News: How Democrats use dark money — and win elections](https://www.nbcnews.com/politics/congress/how-democrats-use-dark-money-win-elections-n849391) (Tier 2)
-- [InfluenceWatch: Majority Forward profile](https://www.influencewatch.org/non-profit/majority-forward/) (Tier 3)
-- [Ballotpedia: Majority Forward](https://ballotpedia.org/Majority_Forward) (Tier 3)
+- [OpenSecrets: Outside spending on 2024 elections shatters records](https://www.opensecrets.org/news/2024/11/outside-spending-on-2024-elections-shatters-records-fueled-by-billion-dollar-dark-money-infusion/) (Tier 1) (VERIFIED)
+- [OpenSecrets: Party-aligned groups funnel millions in dark money to super PACs](https://www.opensecrets.org/news/2023/08/party-aligned-groups-funnel-millions-in-dark-money-to-closely-tied-super-pacs-ahead-of-2024-election/) (Tier 1) (VERIFIED)
+- ~~[IRS: Majority Forward 990 filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Majority%20Forward&city=&state=All+States&country=US)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [FEC: Majority Forward contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=Majority+Forward&two_year_transaction_period=2020) (Tier 1) (VERIFIED)
+- [Brennan Center: Dark money hit record $1.9B in 2024 federal races](https://www.brennancenter.org/our-work/research-reports/dark-money-hit-record-high-19-billion-2024-federal-races) (Tier 2) (VERIFIED)
+- [Center for Public Integrity: Democratic super PAC aided by secret money](https://publicintegrity.org/politics/democratic-super-pac-aided-by-secret-money/) (Tier 2) (VERIFIED)
+- [NBC News: How Democrats use dark money — and win elections](https://www.nbcnews.com/politics/congress/how-democrats-use-dark-money-win-elections-n849391) (Tier 2) (VERIFIED)
+- [InfluenceWatch: Majority Forward profile](https://www.influencewatch.org/non-profit/majority-forward/) (Tier 3) (VERIFIED)
+- [Ballotpedia: Majority Forward](https://ballotpedia.org/Majority_Forward) (Tier 3) (VERIFIED)
 
 ---
 
@@ -150,7 +150,7 @@ The organization's spending does not target specific policy outcomes — it targ
 | Tax-Exempt Status | 501(c)(4) |
 | Filings on Record | 0 |
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/833690373) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/833690373) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Federal Court Records (CourtListener)
@@ -169,5 +169,5 @@ The organization's spending does not target specific policy outcomes — it targ
 - Griffin v. North Carolina State Board of Elections (2024) — District Court, E.D. North Carolina
 - North Carolina Democratic Party v. North Carolina State Board of Elections <b><font color="red">Do not docket in this case - all docketing should be in the lead case 5:24-CV-731.</b></font> (2024) — District Court, E.D. North Carolina
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Majority%20Forward%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Majority%20Forward%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->

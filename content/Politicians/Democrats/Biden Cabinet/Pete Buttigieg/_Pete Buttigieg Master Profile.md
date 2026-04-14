@@ -153,16 +153,16 @@ South Bend is Buttigieg's biography — "Mayor Pete" is the entire brand. But So
 
 ## Sources
 
-- [OpenSecrets: Pete Buttigieg 2020 presidential campaign donors](https://www.opensecrets.org/2020-presidential-race/candidate?id=N00044183) (Tier 1)
-- [NPR: Buttigieg releases list of McKinsey clients under pressure](https://www.npr.org/2019/12/10/786912801/facing-scrutiny-pete-buttigieg-releases-list-of-mckinsey-clients) (Tier 2)
-- [CNN: Pete Buttigieg releases list of McKinsey clients](https://www.cnn.com/2019/12/10/politics/pete-buttigieg-mckinsey-clients) (Tier 2)
-- [NBC News: Wine cave — inside Buttigieg's high-priced underground fundraiser](https://www.nbcnews.com/politics/2020-election/wine-cave-inside-buttigieg-s-high-priced-underground-fundraiser-n1105626) (Tier 2)
-- [PBS News: Buttigieg and Warren spar over wine cave donors](https://www.pbs.org/newshour/politics/watch-buttigieg-warren-spar-over-big-dollar-donors-fundraisers-in-wine-caves) (Tier 2)
-- [CNBC: South Bend poor say Buttigieg left them behind](https://www.cnbc.com/2019/04/22/south-bend-poor-say-democrat-pete-buttigieg-left-them-behind.html) (Tier 2)
-- [BuzzFeed News: What happened when Buttigieg tore down houses in Black and Hispanic South Bend](https://www.buzzfeednews.com/article/henrygomez/mayor-pete-buttigieg-south-bend-gentrification) (Tier 2)
-- [ABC News: Buttigieg bundlers raised $550K for Warren's past campaigns](https://abcnews.go.com/Politics/buttigieg-bundlers-raised-550000-warrens-past-campaigns/story?id=68519640) (Tier 2)
-- [CNN: Pete Buttigieg starts to rethink role after East Palestine](https://www.cnn.com/2023/03/05/politics/pete-buttigieg-ohio-train-derailment/index.html) (Tier 2)
-- [Wikipedia: Pete Buttigieg](https://en.wikipedia.org/wiki/Pete_Buttigieg) (Tier 3)
+- [OpenSecrets: Pete Buttigieg 2020 presidential campaign donors](https://www.opensecrets.org/2020-presidential-race/candidate?id=N00044183) (Tier 1) (VERIFIED)
+- [NPR: Buttigieg releases list of McKinsey clients under pressure](https://www.npr.org/2019/12/10/786912801/facing-scrutiny-pete-buttigieg-releases-list-of-mckinsey-clients) (Tier 2) (VERIFIED)
+- [CNN: Pete Buttigieg releases list of McKinsey clients](https://www.cnn.com/2019/12/10/politics/pete-buttigieg-mckinsey-clients) (Tier 2) (VERIFIED)
+- [NBC News: Wine cave — inside Buttigieg's high-priced underground fundraiser](https://www.nbcnews.com/politics/2020-election/wine-cave-inside-buttigieg-s-high-priced-underground-fundraiser-n1105626) (Tier 2) (VERIFIED)
+- [PBS News: Buttigieg and Warren spar over wine cave donors](https://www.pbs.org/newshour/politics/watch-buttigieg-warren-spar-over-big-dollar-donors-fundraisers-in-wine-caves) (Tier 2) (VERIFIED)
+- [CNBC: South Bend poor say Buttigieg left them behind](https://www.cnbc.com/2019/04/22/south-bend-poor-say-democrat-pete-buttigieg-left-them-behind.html) (Tier 2) (VERIFIED)
+- [BuzzFeed News: What happened when Buttigieg tore down houses in Black and Hispanic South Bend](https://www.buzzfeednews.com/article/henrygomez/mayor-pete-buttigieg-south-bend-gentrification) (Tier 2) (VERIFIED)
+- [ABC News: Buttigieg bundlers raised $550K for Warren's past campaigns](https://abcnews.go.com/Politics/buttigieg-bundlers-raised-550000-warrens-past-campaigns/story?id=68519640) (Tier 2) (NEEDS REVIEW)
+- [CNN: Pete Buttigieg starts to rethink role after East Palestine](https://www.cnn.com/2023/03/05/politics/pete-buttigieg-ohio-train-derailment/index.html) (Tier 2) (VERIFIED)
+- [Wikipedia: Pete Buttigieg](https://en.wikipedia.org/wiki/Pete_Buttigieg) (Tier 3) (VERIFIED)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -183,7 +183,7 @@ South Bend is Buttigieg's biography — "Mayor Pete" is the entire brand. But So
 | WOMEN SPEAK OUT PAC | $0 | $9,200 |
 | DREAM DEFENDERS FIGHT PAC | $0 | $3,516 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/P00010298/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/P00010298/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Influence Network (Cross-Reference)

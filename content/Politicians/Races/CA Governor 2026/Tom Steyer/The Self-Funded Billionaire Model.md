@@ -91,8 +91,8 @@ Self-funded campaigns represent the donor class's final form:
 
 ### Sources
 
-- [SF Examiner: Tom Steyer self-funds, spends most for California governor](https://www.sfexaminer.com/news/politics/steyer-self-funding-spending-dwarfs-gubernatorial-rivals/article_111f9db5-5cb0-412b-b7bd-59825b45df7c.html) (Tier 2)
-- [CalMatters: Republican Steve Hilton leads California governor fundraising](https://calmatters.org/politics/2026/02/governors-race-fundraising-reports/) (Tier 2)
-- [OpenSecrets: 2020 Presidential Election Campaign Finance](https://www.opensecrets.org/elections-overview/2020-presidential-election) (Tier 1)
-- [TIME: Tom Steyer - Climate Action Good Business](https://time.com/7260407/tom-steyer-climate-action-good-business/) (Tier 2)
-- [Fortune: Billionaires Bloomberg, Steyer Using Cash to Win 2020 Democratic Nomination](https://fortune.com/2020/01/11/bloomberg-steyer-2020-billionaires-spending-democratic-nomination/) (Tier 2)
+- [SF Examiner: Tom Steyer self-funds, spends most for California governor](https://www.sfexaminer.com/news/politics/steyer-self-funding-spending-dwarfs-gubernatorial-rivals/article_111f9db5-5cb0-412b-b7bd-59825b45df7c.html) (Tier 2) (VERIFIED)
+- [CalMatters: Republican Steve Hilton leads California governor fundraising](https://calmatters.org/politics/2026/02/governors-race-fundraising-reports/) (Tier 2) (VERIFIED)
+- ~~[OpenSecrets: 2020 Presidential Election Campaign Finance](https://www.opensecrets.org/elections-overview/2020-presidential-election)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [TIME: Tom Steyer - Climate Action Good Business](https://time.com/7260407/tom-steyer-climate-action-good-business/) (Tier 2) (VERIFIED)
+- [Fortune: Billionaires Bloomberg, Steyer Using Cash to Win 2020 Democratic Nomination](https://fortune.com/2020/01/11/bloomberg-steyer-2020-billionaires-spending-democratic-nomination/) (Tier 2) (VERIFIED)

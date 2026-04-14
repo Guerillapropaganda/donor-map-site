@@ -201,27 +201,27 @@ Durbin's retirement in 2027 confirms the model's sustainability. Forty-four year
 
 ## Sources
 
-- [Congress.gov: Dick Durbin campaign finance summary](https://www.congress.gov/search?q=Dick%20Durbin&searchResultViewType=expanded) (Tier 1)
-- [Congress.gov: Dick Durbin career industries](https://www.congress.gov/search?q=Dick%20Durbin&searchResultViewType=expanded) (Tier 1)
-- [Congress.gov: Dick Durbin career contributors](https://www.congress.gov/search?q=Dick%20Durbin&searchResultViewType=expanded) (Tier 1)
-- [FEC: Richard J. Durbin candidate overview](https://www.fec.gov/data/candidate/S6IL00151/) (Tier 1)
-- [Senate Judiciary Committee: Durbin celebrates 235 federal judges confirmed during Biden administration](https://www.judiciary.senate.gov/press/dem/releases/durbin-celebrates-235-federal-judges-confirmed-during-the-biden-harris-administration) (Tier 1)
-- [PBS NewsHour: Senate confirms 235th federal judge under Biden](https://www.pbs.org/newshour/politics/senate-confirms-235th-judge-under-bidens-presidency-beating-trumps-first-term-tally) (Tier 2)
-- [Payments Dive: Durbin to reintroduce credit card competition bill (Jan 2026)](https://www.paymentsdive.com/news/durbin-marshall-senate-credit-card-competition-act-bill/740921/) (Tier 2)
-- [Payments Dive: Durbin gives credit card bill another Senate push (2024)](https://www.paymentsdive.com/news/congress-senate-dick-durbin-credit-card-network-competition-act/732956/) (Tier 2)
-- [Senate Judiciary Committee: Durbin opening statement on prescription drug prices hearing (May 2024)](https://www.judiciary.senate.gov/press/releases/durbin-delivers-opening-statement-during-senate-judiciary-committee-hearing-on-prescription-drug-prices-competition-and-innovation) (Tier 1)
-- [Senate Judiciary Committee: Durbin PBM hearing opening statement](https://www.judiciary.senate.gov/press/dem/releases/durbin-delivers-opening-statement-in-senate-judiciary-committee-hearing-on-pharmacy-benefit-managers) (Tier 1)
-- [The Intercept: Dick Durbin, AIPAC's first successful recruit, becomes first senator to call for Gaza ceasefire](https://theintercept.com/2023/11/02/dick-durbin-gaza-ceasefire-aipac/) (Tier 2)
-- [NPR: Sen. Dick Durbin says he will not seek reelection](https://www.npr.org/2025/04/23/nx-s1-5340683/dick-durbin-retire-senate) (Tier 2)
-- [CBS Chicago: Illinois Sen. Dick Durbin retiring](https://www.cbsnews.com/chicago/news/illinois-senator-dick-durbin-not-running-reelection-retirement/) (Tier 2)
-- [Ballotpedia: Dick Durbin](https://ballotpedia.org/Dick_Durbin) (Tier 3)
-- [U.S. Senator Dick Durbin official website — committee assignments](https://www.durbin.senate.gov/about/committees-assignments) (Tier 1)
+- ~~[Congress.gov: Dick Durbin campaign finance summary](https://www.congress.gov/search?q=Dick%20Durbin&searchResultViewType=expanded)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Dick Durbin career industries](https://www.congress.gov/search?q=Dick%20Durbin&searchResultViewType=expanded)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Dick Durbin career contributors](https://www.congress.gov/search?q=Dick%20Durbin&searchResultViewType=expanded)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [FEC: Richard J. Durbin candidate overview](https://www.fec.gov/data/candidate/S6IL00151/) (Tier 1) (VERIFIED)
+- [Senate Judiciary Committee: Durbin celebrates 235 federal judges confirmed during Biden administration](https://www.judiciary.senate.gov/press/dem/releases/durbin-celebrates-235-federal-judges-confirmed-during-the-biden-harris-administration) (Tier 1) (VERIFIED)
+- [PBS NewsHour: Senate confirms 235th federal judge under Biden](https://www.pbs.org/newshour/politics/senate-confirms-235th-judge-under-bidens-presidency-beating-trumps-first-term-tally) (Tier 2) (VERIFIED)
+- [Payments Dive: Durbin to reintroduce credit card competition bill (Jan 2026)](https://www.paymentsdive.com/news/durbin-marshall-senate-credit-card-competition-act-bill/740921/) (Tier 2) (VERIFIED)
+- [Payments Dive: Durbin gives credit card bill another Senate push (2024)](https://www.paymentsdive.com/news/congress-senate-dick-durbin-credit-card-network-competition-act/732956/) (Tier 2) (VERIFIED)
+- [Senate Judiciary Committee: Durbin opening statement on prescription drug prices hearing (May 2024)](https://www.judiciary.senate.gov/press/releases/durbin-delivers-opening-statement-during-senate-judiciary-committee-hearing-on-prescription-drug-prices-competition-and-innovation) (Tier 1) (VERIFIED)
+- [Senate Judiciary Committee: Durbin PBM hearing opening statement](https://www.judiciary.senate.gov/press/dem/releases/durbin-delivers-opening-statement-in-senate-judiciary-committee-hearing-on-pharmacy-benefit-managers) (Tier 1) (VERIFIED)
+- [The Intercept: Dick Durbin, AIPAC's first successful recruit, becomes first senator to call for Gaza ceasefire](https://theintercept.com/2023/11/02/dick-durbin-gaza-ceasefire-aipac/) (Tier 2) (VERIFIED)
+- [NPR: Sen. Dick Durbin says he will not seek reelection](https://www.npr.org/2025/04/23/nx-s1-5340683/dick-durbin-retire-senate) (Tier 2) (VERIFIED)
+- [CBS Chicago: Illinois Sen. Dick Durbin retiring](https://www.cbsnews.com/chicago/news/illinois-senator-dick-durbin-not-running-reelection-retirement/) (Tier 2) (VERIFIED)
+- [Ballotpedia: Dick Durbin](https://ballotpedia.org/Dick_Durbin) (Tier 3) (VERIFIED)
+- [U.S. Senator Dick Durbin official website — committee assignments](https://www.durbin.senate.gov/about/committees-assignments) (Tier 1) (VERIFIED)
 
 ### Voting Record
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Dick Durbin](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: Dick Durbin](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 
 

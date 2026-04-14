@@ -86,7 +86,7 @@ Israel — legislative advocacy, anti-protest legislation, ethnic studies, donor
 
 ### Sources
 
-- [WSWS: Protest suppression legislation analysis](https://www.wsws.org/en/articles/2024/10/22/uuxx-o22.html) (Tier 4 — flag: far-left outlet, legislative text verifiable independently) (Tier 2)
+- [WSWS: Protest suppression legislation analysis](https://www.wsws.org/en/articles/2024/10/22/uuxx-o22.html) (VERIFIED) (Tier 4 — flag: far-left outlet, legislative text verifiable independently) (Tier 2)
 
 ### OFAC Sanctions Screening
 <!-- auto:ofac-sdn start -->
@@ -108,7 +108,7 @@ Israel — legislative advocacy, anti-protest legislation, ethnic studies, donor
 - HOUTHI NATIONAL COMMITTEE FOR PRISONERS AFFAIRS (-0-) [GLOMAG]
   - Remarks: a.k.a. 'NCPA'.
 
-- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
 ### Tax Filings (IRS 990)
@@ -125,12 +125,12 @@ Israel — legislative advocacy, anti-protest legislation, ethnic studies, donor
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/680028695/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/680028695/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/680028695/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/680028695/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/680028695/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/680028695/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/680028695/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/680028695/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/680028695/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/680028695/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/680028695) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/680028695) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->

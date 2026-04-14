@@ -211,22 +211,22 @@ The structural function this serves for the donor class is risk management. A co
 
 ### Sources
 
-- [Senate LDA Filings: Fierce Government Relations Lobbying Firm Profile — Summary](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA Filings: Fierce Government Relations Lobbyists — Revolving Door Data](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA Filings: Fierce Government Relations Issues Lobbied](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Wikipedia: Fierce, Isakowitz and Blalock](https://en.wikipedia.org/wiki/Fierce,_Isakowitz_and_Blalock) (Tier 3)
-- [FierceGR: Official Website — Our Story](https://www.fiercegr.com/our-story/) (Tier 4)
-- [FierceGR: Official Website — Our Team](https://www.fiercegr.com/our-team/) (Tier 4)
-- [WAVE3 News: McConnell Announces Departure of Chief of Staff Billy Piper](https://www.wave3.com/story/13598174/mcconnell-announces-departure-of-chief-of-staff-billy-piper/) (Tier 3)
-- [Roll Call: Second Top McConnell Aide to Step Down This Year (Billy Piper)](https://rollcall.com/2010/12/01/second-top-mcconnell-aide-to-step-down-this-year/) (Tier 2)
-- [OpenSecrets: Fierce Government Relations Revolving Door Profile](https://www.opensecrets.org/revolving-door?id=D000021982) (Tier 1)
-- [Senate LDA: Fierce Government Relations Lobbying Disclosure Filings](https://lda.gov/filings/public/filing/search/?registrant=Fierce+Government+Relations) (Tier 1)
-- [Holland & Knight / Bloomberg Government: AI Lobbying Soars in Washington, Among Big Firms and Upstarts](https://www.hklaw.com/en/news/intheheadlines/2025/12/ai-lobbying-soars-in-washington-among-big-firms-and-upstarts) (Tier 2) — Q1-Q3 2025 AI lobbying revenue; Fierce listed among Republican boutiques handling AI regulatory work
-- [Bloomberg Law: AI Influence Spending Booms, Signaling Monumental Clashes Ahead](https://news.bloomberglaw.com/artificial-intelligence/ai-influence-spending-booms-signaling-monumental-clashes-ahead) (Tier 2) — Q4 2025 AI lobbying record $37.2M (+38% YoY); full year ~$130M across all firms
-- [O'Dwyer's: Top AI Start-Up Anthropic Gets Fierce (December 3, 2025)](https://www.odwyerpr.com/story/public/23973/2025-12-03/top-ai-start-up-anthropic-gets-fierce.html) (Tier 3) — Confirmed Fierce retained for AI Action Plan, safety/governance, national security, export controls, energy, infrastructure
-- [NPR: Hegseth threatens to blacklist Anthropic over 'woke AI' concerns (February 24, 2026)](https://www.npr.org/2026/02/24/nx-s1-5725327/pentagon-anthropic-hegseth-safety) (Tier 2)
-- [CNN: Judge blocks Pentagon's effort to 'punish' Anthropic by labeling it a supply chain risk (March 26, 2026)](https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk) (Tier 2)
-- [OpenSecrets: Anthropic's AI safety stance clashes with Pentagon — and reshapes spending on primaries (March 2026)](https://www.opensecrets.org/news/2026/03/anthropics-ai-safety-stance-clashes-with-pentagon-and-reshapes-spending-on-primaries/) (Tier 1)
+- [Senate LDA Filings: Fierce Government Relations Lobbying Firm Profile — Summary](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: Fierce Government Relations Lobbyists — Revolving Door Data](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: Fierce Government Relations Issues Lobbied](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Wikipedia: Fierce, Isakowitz and Blalock](https://en.wikipedia.org/wiki/Fierce,_Isakowitz_and_Blalock) (Tier 3) (VERIFIED)
+- [FierceGR: Official Website — Our Story](https://www.fiercegr.com/our-story/) (Tier 4) (VERIFIED)
+- [FierceGR: Official Website — Our Team](https://www.fiercegr.com/our-team/) (Tier 4) (VERIFIED)
+- [WAVE3 News: McConnell Announces Departure of Chief of Staff Billy Piper](https://www.wave3.com/story/13598174/mcconnell-announces-departure-of-chief-of-staff-billy-piper/) (Tier 3) (VERIFIED)
+- [Roll Call: Second Top McConnell Aide to Step Down This Year (Billy Piper)](https://rollcall.com/2010/12/01/second-top-mcconnell-aide-to-step-down-this-year/) (Tier 2) (VERIFIED)
+- [OpenSecrets: Fierce Government Relations Revolving Door Profile](https://www.opensecrets.org/revolving-door?id=D000021982) (Tier 1) (VERIFIED)
+- [Senate LDA: Fierce Government Relations Lobbying Disclosure Filings](https://lda.gov/filings/public/filing/search/?registrant=Fierce+Government+Relations) (Tier 1) (VERIFIED)
+- [Holland & Knight / Bloomberg Government: AI Lobbying Soars in Washington, Among Big Firms and Upstarts](https://www.hklaw.com/en/news/intheheadlines/2025/12/ai-lobbying-soars-in-washington-among-big-firms-and-upstarts) (Tier 2) (VERIFIED) — Q1-Q3 2025 AI lobbying revenue; Fierce listed among Republican boutiques handling AI regulatory work
+- [Bloomberg Law: AI Influence Spending Booms, Signaling Monumental Clashes Ahead](https://news.bloomberglaw.com/artificial-intelligence/ai-influence-spending-booms-signaling-monumental-clashes-ahead) (Tier 2) (VERIFIED) — Q4 2025 AI lobbying record $37.2M (+38% YoY); full year ~$130M across all firms
+- [O'Dwyer's: Top AI Start-Up Anthropic Gets Fierce (December 3, 2025)](https://www.odwyerpr.com/story/public/23973/2025-12-03/top-ai-start-up-anthropic-gets-fierce.html) (Tier 3) (VERIFIED) — Confirmed Fierce retained for AI Action Plan, safety/governance, national security, export controls, energy, infrastructure
+- [NPR: Hegseth threatens to blacklist Anthropic over 'woke AI' concerns (February 24, 2026)](https://www.npr.org/2026/02/24/nx-s1-5725327/pentagon-anthropic-hegseth-safety) (Tier 2) (VERIFIED)
+- [CNN: Judge blocks Pentagon's effort to 'punish' Anthropic by labeling it a supply chain risk (March 26, 2026)](https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk) (Tier 2) (VERIFIED)
+- [OpenSecrets: Anthropic's AI safety stance clashes with Pentagon — and reshapes spending on primaries (March 2026)](https://www.opensecrets.org/news/2026/03/anthropics-ai-safety-stance-clashes-with-pentagon-and-reshapes-spending-on-primaries/) (Tier 1) (VERIFIED)
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->
@@ -242,14 +242,14 @@ The structural function this serves for the donor class is risk management. A co
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/520852291/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/520852291/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/520852291/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/520852291/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/520852291/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/520852291/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/520852291/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/520852291/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/520852291/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/520852291/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/520852291) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/520852291) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Foreign Agent Activity (FARA)
@@ -270,5 +270,5 @@ The structural function this serves for the donor class is risk management. A co
 - Panama Maritime Authority (PANAMA)
 - Embassy of the State of Qatar (QATAR)
 
-- [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Fierce%20Government%20Relations) (Tier 1)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Fierce%20Government%20Relations)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:fara-foreign-agents end -->

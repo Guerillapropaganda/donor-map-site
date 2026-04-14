@@ -175,19 +175,19 @@ Scott proves that alignment with workers is possible and insufficient. The labor
 
 ## Sources
 
-- [FEC Candidate: Bobby Scott donor profile](https://www.fec.gov/data/candidate/H6GA02115/) (Tier 1)
-- [FEC Candidate: Bobby Scott industry donors](https://www.fec.gov/data/candidate/H6GA02115/) (Tier 1)
-- [FEC Candidate: Bobby Scott contributors](https://www.fec.gov/data/candidate/H6GA02115/) (Tier 1)
-- [Congress.gov: Every Student Succeeds Act](https://www.congress.gov/bill/114th-congress/senate-bill/1177) (Tier 1)
-- [Congress.gov: Raise the Wage Act](https://www.congress.gov/bill/118th-congress/house-bill/4889) (Tier 1)
-- [Congress.gov: PRO Act](https://www.congress.gov/bill/117th-congress/house-bill/842) (Tier 1)
-- [House.gov: Bobby Scott official biography](https://bobbyscott.house.gov/about) (Tier 1)
-- [NPR: $90 Billion Pension Rescue in American Rescue Plan (2021)](https://www.npr.org/2018/11/28/671675847/pension-plans-for-millions-of-americans-are-on-the-brink-of-collapse) (Tier 2)
-- [NPR: PRO Act Passes House, Stalls in Senate (2021)](https://www.npr.org/2021/03/09/975259434/house-democrats-pass-bill-that-would-protect-worker-organizing-efforts) (Tier 2)
-- [Education Week: Bobby Scott and ESSA Implementation](https://www.edweek.org/policy-politics/bobby-scott) (Tier 2)
-- [AFL-CIO Legislative Scorecard: Bobby Scott](https://aflcio.org/scorecard) (Tier 2)
-- [Ballotpedia: Bobby Scott](https://ballotpedia.org/Bobby_Scott) (Tier 3)
-- [Virginia Public Access Project: Bobby Scott funding](https://www.vpap.org/candidates/bobby-scott/) (Tier 3)
+- [FEC Candidate: Bobby Scott donor profile](https://www.fec.gov/data/candidate/H6GA02115/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Bobby Scott industry donors](https://www.fec.gov/data/candidate/H6GA02115/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Bobby Scott contributors](https://www.fec.gov/data/candidate/H6GA02115/) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: Every Student Succeeds Act](https://www.congress.gov/bill/114th-congress/senate-bill/1177)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Raise the Wage Act](https://www.congress.gov/bill/118th-congress/house-bill/4889)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Congress.gov: PRO Act](https://www.congress.gov/bill/117th-congress/house-bill/842) (Tier 1) (VERIFIED)
+- [House.gov: Bobby Scott official biography](https://bobbyscott.house.gov/about) (Tier 1) (VERIFIED)
+- [NPR: $90 Billion Pension Rescue in American Rescue Plan (2021)](https://www.npr.org/2018/11/28/671675847/pension-plans-for-millions-of-americans-are-on-the-brink-of-collapse) (Tier 2) (VERIFIED)
+- [NPR: PRO Act Passes House, Stalls in Senate (2021)](https://www.npr.org/2021/03/09/975259434/house-democrats-pass-bill-that-would-protect-worker-organizing-efforts) (Tier 2) (VERIFIED)
+- ~~[Education Week: Bobby Scott and ESSA Implementation](https://www.edweek.org/policy-politics/bobby-scott)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[AFL-CIO Legislative Scorecard: Bobby Scott](https://aflcio.org/scorecard)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Ballotpedia: Bobby Scott](https://ballotpedia.org/Bobby_Scott) (Tier 3) (VERIFIED)
+- ~~[Virginia Public Access Project: Bobby Scott funding](https://www.vpap.org/candidates/bobby-scott/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->
@@ -205,7 +205,7 @@ Scott proves that alignment with workers is possible and insufficient. The labor
 - H.R. 5740: WIC Benefits Protection Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on October 10, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 - H.R. 4862: LOAN Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on August 1, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400364) (Tier 1)
+- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/400364)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:govtrack end -->
 
 ### Campaign Finance (FEC)
@@ -224,7 +224,7 @@ Scott proves that alignment with workers is possible and insufficient. The labor
 |-----------|---------|--------|
 | SIERRA CLUB INDEPENDENT ACTION | $10 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6GA02115/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6GA02115/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 <!-- auto:fec-politician pending-merge 2026-04-13 -->
@@ -260,7 +260,7 @@ Scott proves that alignment with workers is possible and insufficient. The labor
 | SOUTHERN STATES POLICE BENEVOLENT ASSOC PAC FUND | $984 | $0 |
 | TOGETHER WE THRIVE | $750 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6VA01117/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6VA01117/) (Tier 1) (VERIFIED)
 
 <!-- auto:fec-politician pending-merge end -->
 
@@ -286,7 +286,7 @@ Scott proves that alignment with workers is possible and insufficient. The labor
 
 **Sources**
 
-- [GovTrack: Bobby Scott](https://www.govtrack.us/congress/members/400364) (Tier 1)
+- ~~[GovTrack: Bobby Scott](https://www.govtrack.us/congress/members/400364)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-13 -->
@@ -313,7 +313,7 @@ Scott proves that alignment with workers is possible and insufficient. The labor
 
 **Sources**
 
-- [Congress.gov: Bobby Scott](https://www.congress.gov/member/e000179) (Tier 1)
+- ~~[Congress.gov: Bobby Scott](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [GovTrack: Bobby Scott](https://www.govtrack.us/congress/members/400364) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->
@@ -329,9 +329,9 @@ Scott proves that alignment with workers is possible and insufficient. The labor
 | Topics | role.pep, role.pol |
 
 **Matched records:**
-- [Bobby Scott](https://www.opensanctions.org/entities/Q888668/) — 100% match (ann_pep_positions, wd_categories, everypolitician)
+- [Bobby Scott](https://www.opensanctions.org/entities/Q888668/) (VERIFIED) — 100% match (ann_pep_positions, wd_categories, everypolitician)
 
-- [Source: OpenSanctions](https://www.opensanctions.org/search/?q=Bobby%20Scott) (Tier 1)
+- [Source: OpenSanctions](https://www.opensanctions.org/search/?q=Bobby%20Scott) (Tier 1) (VERIFIED)
 <!-- auto:opensanctions end -->
 
 ### Legislative Activity (Congress.gov)
@@ -360,7 +360,7 @@ Scott proves that alignment with workers is possible and insufficient. The labor
 | 4418 | Child Care for Working Families Act | Referred to the House Committee on Education and Workforce. |
 | 3997 | Protecting Children Act | Referred to the House Committee on Education and Workforce. |
 
-- [Source: Congress.gov](https://www.congress.gov/member/S000185) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/S000185)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Committee Assignments (Congress.gov)

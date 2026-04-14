@@ -67,6 +67,6 @@ When questioned about the misconduct, Scott invoked the Fifth Amendment — the 
 
 ### Sources
 
-- [PolitiFact: Rick Scott and the misconduct case of Columbia/HCA](https://www.politifact.com/article/2010/jun/11/rick-scott-and-fraud-case-columbiahca/) (Tier 2)
-- [NPR: Once Scrutinized By The Government, Rick Scott Soon Will Govern](https://www.npr.org/sections/health-shots/2010/11/03/131044677/florida-governor-rick-scott-columbia-hca-fraud-justice-department) (Tier 2)
-- [DOJ: Largest Health Care misconduct case in U.S. History Settled - HCA Investigation Nets Record Total of $1.7 Billion](https://www.justice.gov/archive/opa/pr/2003/June/03_civ_386.htm) (Tier 1)
+- [PolitiFact: Rick Scott and the misconduct case of Columbia/HCA](https://www.politifact.com/article/2010/jun/11/rick-scott-and-fraud-case-columbiahca/) (Tier 2) (VERIFIED)
+- [NPR: Once Scrutinized By The Government, Rick Scott Soon Will Govern](https://www.npr.org/sections/health-shots/2010/11/03/131044677/florida-governor-rick-scott-columbia-hca-fraud-justice-department) (Tier 2) (VERIFIED)
+- [DOJ: Largest Health Care misconduct case in U.S. History Settled - HCA Investigation Nets Record Total of $1.7 Billion](https://www.justice.gov/archive/opa/pr/2003/June/03_civ_386.htm) (Tier 1) (VERIFIED)

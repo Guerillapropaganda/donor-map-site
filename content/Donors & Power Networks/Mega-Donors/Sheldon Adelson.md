@@ -75,8 +75,8 @@ The Adelsons' policy agenda is Israel-first, with secondary interests in protect
 
 **Lifetime total (2010-2021, Sheldon):** $500+ million federal spending
 **Giving since 2016 (Sheldon alone):** $424 million
-**Last 5 years of Sheldon's life (2016-2020):** $280 million to House and Senate Republicans' main super PACs alone — **over one-third of Congressional Leadership Fund, nearly one-quarter of Senate Leadership Fund** ([Politico](https://www.politico.com/news/2021/01/12/adelson-super-pac-gop-458380), Tier 2)
-**2024 (Miriam alone):** $140M+ total federal contributions; $106M to Preserve America PAC, which spent $92M through September alone ([OpenSecrets](https://www.opensecrets.org/outside-spending/donor_detail/2024?id=U0000000310&name=Adelson,+Miriam+O.&super_only=N&type=I), Tier 1)
+**Last 5 years of Sheldon's life (2016-2020):** $280 million to House and Senate Republicans' main super PACs alone — **over one-third of Congressional Leadership Fund, nearly one-quarter of Senate Leadership Fund** (~~[Politico](https://www.politico.com/news/2021/01/12/adelson-super-pac-gop-458380)~~ (URL broken, archived by Ops), Tier 2)
+**2024 (Miriam alone):** $140M+ total federal contributions; $106M to Preserve America PAC, which spent $92M through September alone ([OpenSecrets](https://www.opensecrets.org/outside-spending/donor_detail/2024?id=U0000000310&name=Adelson,+Miriam+O.&super_only=N&type=I) (VERIFIED), Tier 1)
 
 #### Key Recipients
 
@@ -164,25 +164,25 @@ The Adelson model's most dangerous innovation is its transparency. Most donor-to
 
 ### Sources
 
-- [OpenSecrets: Sheldon Adelson donor profile 2020](https://www.opensecrets.org/outside-spending/donor_detail/2020?id=U0000000310&name=Adelson,+Sheldon+G.&super=N&type=I) (Tier 1)
-- [OpenSecrets: Miriam Adelson donor profile 2024](https://www.opensecrets.org/outside-spending/donor_detail/2024?id=U0000000310&name=Adelson,+Miriam+O.&super_only=N&type=I) (Tier 1)
-- [OpenSecrets: Las Vegas Sands summary](https://www.opensecrets.org/orgs/las-vegas-sands/summary?id=D000032023) (Tier 1)
-- [OpenSecrets: Adelsons Set New Donation Record (2020)](https://www.opensecrets.org/news/2020/10/adelsons-set-new-donation-record/) (Tier 1)
-- [OpenSecrets: Adelson $30M to House Republicans (2018)](https://www.opensecrets.org/news/2018/07/sheldon-adelson-donates-30-million-for-house-republicans) (Tier 1)
-- [Center for Public Integrity: Sheldon Adelson Donor Profile](https://publicintegrity.org/politics/donor-profile-sheldon-adelson/) (Tier 2)
-- [Newsweek: Adelson Gave Trump and Republicans $424M Since 2016](https://www.newsweek.com/sheldon-adelson-donald-trump-republicans-donations-1560883) (Tier 2)
-- [Times of Israel: Miriam Adelson Gives $100M to Trump Campaign](https://www.timesofisrael.com/miriam-adelson-gives-100-million-to-trump-campaign-making-good-on-reported-pledge/) (Tier 2)
-- [CNBC: Miriam Adelson $100M PAC Spending](https://www.cnbc.com/2024/08/16/donald-trump-miriam-adelson-campaign-funding.html) (Tier 2)
-- [NPR: Sheldon Adelson Obituary](https://www.npr.org/2021/01/12/693679109/sheldon-adelson-conservative-donor-and-casino-titan-dies-at-87) (Tier 2)
-- [CNN Business: Adelson Death January 2021](https://www.cnn.com/2021/01/12/business/sheldon-adelson-death) (Tier 2)
-- [NBC News: The Adelson Primary Returns](https://www.nbcnews.com/politics/2024-election/miriam-adelson-primary-republicans-las-vegas-rcna169762) (Tier 2)
-- [Responsible Statecraft: Trump Book Cites Adelson's Embassy Funding](https://responsiblestatecraft.org/2022/10/07/new-book-highlights-how-campaign-money-influences-us-foreign-policy/) (Tier 2)
-- [The Intercept: Adelson Gets DOJ Gift Mid-Shutdown (Online Gambling)](https://theintercept.com/2019/02/08/sheldon-adelson-online-gambling/) (Tier 2)
-- [Haaretz: Trump Desperate for Adelson Cash — Conditions Reported](https://www.haaretz.com/us-news/2024-06-03/ty-article/.premium/trump-is-desperate-for-cash-but-donors-have-conditions/) (Tier 2)
-- [Las Vegas Sun: Miriam Adelson's Swing-State Blitz](https://lasvegassun.com/news/2024/sep/24/las-vegas-miriam-adelsons-super-pac-fuels-swing-st/) (Tier 2)
-- [Revolving Door Project: Adelson Oligarchs Analysis](https://therevolvingdoorproject.org/billionaires-and-the-trump-admin-sheldon-and-miriam-adelson/) (Tier 2)
-- [Times of Israel: Adelson's Unwavering Focus on Israel](https://www.timesofisrael.com/backed-by-deep-pockets-adelson-made-his-mark-with-an-unwavering-focus-on-israel/) (Tier 2)
-- [The Hill: Adelson Widow Cuts Back Donations (2022)](https://thehill.com/homenews/campaign/3626124-sheldon-adelsons-widow-cuts-back-on-gop-donations/) (Tier 2)
+- [OpenSecrets: Sheldon Adelson donor profile 2020](https://www.opensecrets.org/outside-spending/donor_detail/2020?id=U0000000310&name=Adelson,+Sheldon+G.&super=N&type=I) (Tier 1) (VERIFIED)
+- [OpenSecrets: Miriam Adelson donor profile 2024](https://www.opensecrets.org/outside-spending/donor_detail/2024?id=U0000000310&name=Adelson,+Miriam+O.&super_only=N&type=I) (Tier 1) (VERIFIED)
+- [OpenSecrets: Las Vegas Sands summary](https://www.opensecrets.org/orgs/las-vegas-sands/summary?id=D000032023) (Tier 1) (VERIFIED)
+- [OpenSecrets: Adelsons Set New Donation Record (2020)](https://www.opensecrets.org/news/2020/10/adelsons-set-new-donation-record/) (Tier 1) (VERIFIED)
+- [OpenSecrets: Adelson $30M to House Republicans (2018)](https://www.opensecrets.org/news/2018/07/sheldon-adelson-donates-30-million-for-house-republicans) (Tier 1) (VERIFIED)
+- [Center for Public Integrity: Sheldon Adelson Donor Profile](https://publicintegrity.org/politics/donor-profile-sheldon-adelson/) (Tier 2) (VERIFIED)
+- [Newsweek: Adelson Gave Trump and Republicans $424M Since 2016](https://www.newsweek.com/sheldon-adelson-donald-trump-republicans-donations-1560883) (Tier 2) (VERIFIED)
+- [Times of Israel: Miriam Adelson Gives $100M to Trump Campaign](https://www.timesofisrael.com/miriam-adelson-gives-100-million-to-trump-campaign-making-good-on-reported-pledge/) (Tier 2) (VERIFIED)
+- [CNBC: Miriam Adelson $100M PAC Spending](https://www.cnbc.com/2024/08/16/donald-trump-miriam-adelson-campaign-funding.html) (Tier 2) (VERIFIED)
+- [NPR: Sheldon Adelson Obituary](https://www.npr.org/2021/01/12/693679109/sheldon-adelson-conservative-donor-and-casino-titan-dies-at-87) (Tier 2) (VERIFIED)
+- [CNN Business: Adelson Death January 2021](https://www.cnn.com/2021/01/12/business/sheldon-adelson-death) (Tier 2) (VERIFIED)
+- [NBC News: The Adelson Primary Returns](https://www.nbcnews.com/politics/2024-election/miriam-adelson-primary-republicans-las-vegas-rcna169762) (Tier 2) (VERIFIED)
+- [Responsible Statecraft: Trump Book Cites Adelson's Embassy Funding](https://responsiblestatecraft.org/2022/10/07/new-book-highlights-how-campaign-money-influences-us-foreign-policy/) (Tier 2) (VERIFIED)
+- [The Intercept: Adelson Gets DOJ Gift Mid-Shutdown (Online Gambling)](https://theintercept.com/2019/02/08/sheldon-adelson-online-gambling/) (Tier 2) (VERIFIED)
+- ~~[Haaretz: Trump Desperate for Adelson Cash — Conditions Reported](https://www.haaretz.com/us-news/2024-06-03/ty-article/.premium/trump-is-desperate-for-cash-but-donors-have-conditions/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Las Vegas Sun: Miriam Adelson's Swing-State Blitz](https://lasvegassun.com/news/2024/sep/24/las-vegas-miriam-adelsons-super-pac-fuels-swing-st/) (Tier 2) (VERIFIED)
+- [Revolving Door Project: Adelson Oligarchs Analysis](https://therevolvingdoorproject.org/billionaires-and-the-trump-admin-sheldon-and-miriam-adelson/) (Tier 2) (VERIFIED)
+- ~~[Times of Israel: Adelson's Unwavering Focus on Israel](https://www.timesofisrael.com/backed-by-deep-pockets-adelson-made-his-mark-with-an-unwavering-focus-on-israel/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Adelson Widow Cuts Back Donations (2022)](https://thehill.com/homenews/campaign/3626124-sheldon-adelsons-widow-cuts-back-on-gop-donations/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ---
 
@@ -195,7 +195,7 @@ The Adelson model's most dangerous innovation is its transparency. Most donor-to
 | Total Expenses | $756 |
 | Net Assets | $90K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 886063073](https://projects.propublica.org/nonprofits/organizations/886063073) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 886063073](https://projects.propublica.org/nonprofits/organizations/886063073) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Tax Filings (IRS 990)
@@ -213,14 +213,14 @@ The Adelson model's most dangerous innovation is its transparency. Most donor-to
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/886063073/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/886063073/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/886063073/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/886063073/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/886063073/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/886063073/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/886063073/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/886063073/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/886063073/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/886063073/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/886063073) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/886063073) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Federal Court Records (CourtListener)
@@ -239,5 +239,5 @@ The Adelson model's most dangerous innovation is its transparency. Most donor-to
 - Al Otro Lado, Inc. v. McAleenan (2017) — District Court, S.D. California
 - MAGERMAN v. MERCER (2017) — District Court, E.D. Pennsylvania
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Sheldon%20%26%20Miriam%20Adelson%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Sheldon%20%26%20Miriam%20Adelson%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->

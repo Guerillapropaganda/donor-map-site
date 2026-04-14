@@ -13,7 +13,7 @@ profiles:
 
 ## Sunday shows preview: Trump ups threats on Iran after saying war ‘near completion’
 
-**Source:** [The Hill](https://thehill.com/homenews/sunday-talk-shows/5816638-sunday-shows-preview-trump-ups-threats-on-iran-after-saying-war-near-completion/)
+**Source:** ~~[The Hill](https://thehill.com/homenews/sunday-talk-shows/5816638-sunday-shows-preview-trump-ups-threats-on-iran-after-saying-war-near-completion/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-04
 
 President Trump escalated his warnings to Tehran on Saturday, threatening to rain “all hell” down on the country as the U.S. barrels toward a self-imposed Monday deadline for Iran to reopen the Strait of Hormuz. “Remember when I gave Iran ten days to MAKE A DEAL or OPEN UP THE HORMUZ STRAIT,” Trump wrote on Truth…

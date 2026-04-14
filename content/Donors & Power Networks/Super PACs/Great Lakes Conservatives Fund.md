@@ -209,14 +209,14 @@ Rogers lost. Why?
 
 ### Sources
 
-- [OpenSecrets: Great Lakes Conservatives Fund PAC profile](https://www.opensecrets.org/political-action-committees-pacs/great-lakes-conservatives-fund/C00853861/summary/2024) (Tier 1)
-- [FEC: Great Lakes Conservatives Fund committee filings](https://www.fec.gov/data/committee/C00853861/) (Tier 1)
-- [Detroit News: Blackstone CEO Schwarzman $2M to Rogers super PAC July 2024](https://www.detroitnews.com/story/news/politics/2024/07/15/blackstone-ceo-schwarzman-gives-2m-to-mike-rogers-super-pac/74407815007/) (Tier 2)
-- [Detroit News: Pro-Rogers super PAC $4M ad buy September 2024](https://www.detroitnews.com/story/news/politics/2024/09/13/pro-rogers-super-pac-puts-4m-behind-2-ads-in-senate-race/75208183007/) (Tier 2)
-- [The Hill: Pro-Mike Rogers super PAC raises $5M Michigan Senate 2025](https://thehill.com/homenews/campaign/5393334-pro-mike-rogers-super-pac-raises-5m-for-michigan-senate-bid/) (Tier 2)
-- [Michigan Advance: Pro-Rogers Super PAC funded by Christian Nationalist August 2025](https://michiganadvance.com/2025/08/05/pro-rogers-super-pac-funded-by-ardent-christian-nationalist/) (Tier 2)
-- [Detroit News: Tim Dunn $5M to Rogers super PAC August 2025](https://www.detroitnews.com/story/news/politics/2025/08/01/crownquest-texas-oil-and-gas-tim-dunn-gives-5-million-to-mike-rogers-super-pac-michigan-senate/85472913007/) (Tier 2)
-- [NBC News: Republican super PACs bank millions ahead of 2026 battles](https://www.nbcnews.com/politics/2026-election/republican-super-pacs-bank-millions-ahead-midterm-battles-rcna222115) (Tier 2)
+- [OpenSecrets: Great Lakes Conservatives Fund PAC profile](https://www.opensecrets.org/political-action-committees-pacs/great-lakes-conservatives-fund/C00853861/summary/2024) (Tier 1) (VERIFIED)
+- [FEC: Great Lakes Conservatives Fund committee filings](https://www.fec.gov/data/committee/C00853861/) (Tier 1) (VERIFIED)
+- [Detroit News: Blackstone CEO Schwarzman $2M to Rogers super PAC July 2024](https://www.detroitnews.com/story/news/politics/2024/07/15/blackstone-ceo-schwarzman-gives-2m-to-mike-rogers-super-pac/74407815007/) (Tier 2) (VERIFIED)
+- [Detroit News: Pro-Rogers super PAC $4M ad buy September 2024](https://www.detroitnews.com/story/news/politics/2024/09/13/pro-rogers-super-pac-puts-4m-behind-2-ads-in-senate-race/75208183007/) (Tier 2) (VERIFIED)
+- ~~[The Hill: Pro-Mike Rogers super PAC raises $5M Michigan Senate 2025](https://thehill.com/homenews/campaign/5393334-pro-mike-rogers-super-pac-raises-5m-for-michigan-senate-bid/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Michigan Advance: Pro-Rogers Super PAC funded by Christian Nationalist August 2025](https://michiganadvance.com/2025/08/05/pro-rogers-super-pac-funded-by-ardent-christian-nationalist/) (Tier 2) (VERIFIED)
+- ~~[Detroit News: Tim Dunn $5M to Rogers super PAC August 2025](https://www.detroitnews.com/story/news/politics/2025/08/01/crownquest-texas-oil-and-gas-tim-dunn-gives-5-million-to-mike-rogers-super-pac-michigan-senate/85472913007/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [NBC News: Republican super PACs bank millions ahead of 2026 battles](https://www.nbcnews.com/politics/2026-election/republican-super-pacs-bank-millions-ahead-midterm-battles-rcna222115) (Tier 2) (VERIFIED)
 
 ---
 
@@ -234,5 +234,5 @@ Rogers lost. Why?
 - GREAT LAKES BUSINESS COMPANY (-0-) [DRCONGO]
   - Remarks: -0-
 
-- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->

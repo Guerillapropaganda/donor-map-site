@@ -97,11 +97,11 @@ Hagerty's donor base is not Tennessee. His $13.8 million in total receipts flows
 
 ### Sources
 
-- [FEC Candidate: Bill Hagerty donor profile](https://www.fec.gov/data/candidate/S0TN00169/) (Tier 1)
-- [FEC Candidate: Hagerty 2024 industries](https://www.fec.gov/data/candidate/S0TN00169/) (Tier 1)
-- [FEC: Bill Hagerty candidate overview](https://www.fec.gov/data/candidate/S0TN00169/) (Tier 1)
-- [Tennessee Lookout: GOP Senate hopeful serves with donors on White House panel](https://tennesseelookout.com/2020/05/08/tenn-senate-campaign-lures-cash-from-gop-politicos-megadonors/) (Tier 2)
-- [Solana Compass: Senator Hagerty on Crypto Regulation](https://solanacompass.com/learn/Validated/the-2024-pro-crypto-election-w-senator-bill-hagerty-r-tn) (Tier 3)
+- [FEC Candidate: Bill Hagerty donor profile](https://www.fec.gov/data/candidate/S0TN00169/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Hagerty 2024 industries](https://www.fec.gov/data/candidate/S0TN00169/) (Tier 1) (VERIFIED)
+- [FEC: Bill Hagerty candidate overview](https://www.fec.gov/data/candidate/S0TN00169/) (Tier 1) (VERIFIED)
+- [Tennessee Lookout: GOP Senate hopeful serves with donors on White House panel](https://tennesseelookout.com/2020/05/08/tenn-senate-campaign-lures-cash-from-gop-politicos-megadonors/) (Tier 2) (VERIFIED)
+- [Solana Compass: Senator Hagerty on Crypto Regulation](https://solanacompass.com/learn/Validated/the-2024-pro-crypto-election-w-senator-bill-hagerty-r-tn) (Tier 3) (VERIFIED)
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->
@@ -119,7 +119,7 @@ Hagerty's donor base is not Tennessee. His $13.8 million in total receipts flows
 - S. 3290: Financial Services and General Government Appropriations Act, 2026 — *Provisions of this bill were incorporated into other bills which were enacted, so there will not likely be further activity on this bill.*
 - S. 3129: Preventing Foreign Interference in American Elections Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on November 6, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456798) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456798) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
 
 ### Legislative Activity (Congress.gov)
@@ -155,7 +155,7 @@ Hagerty's donor base is not Tennessee. His $13.8 million in total receipts flows
 | SENATE CONSERVATIVES FUND | $156,791 | $0 |
 | WINNING RIGHT PAC | $130,000 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S0TN00169/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S0TN00169/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Voting Record
@@ -180,5 +180,5 @@ Hagerty's donor base is not Tennessee. His $13.8 million in total receipts flows
 
 **Sources**
 
-- [GovTrack: Bill Hagerty](https://www.govtrack.us/congress/members/456798) (Tier 1)
+- [GovTrack: Bill Hagerty](https://www.govtrack.us/congress/members/456798) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->

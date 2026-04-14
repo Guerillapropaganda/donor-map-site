@@ -104,9 +104,9 @@ This isn't a genuine policy dilemma, it's managed political theater. Newsom coul
 
 ### Sources
 
-- [California Department of Education: Charter School Accountability Report](https://www.cde.ca.gov/cd/ci/charter/) (Tier 1)
-- [CalMatters: What 'Governor Dad' did this year for CA kids, charter school legislation](https://calmatters.org/category/education/k-12-education/2019/10/charter-schools-california-legislation-newsom-start-time-teacher-maternity-leave-bonds/) (Tier 2)
-- [LA Times: AB 1507 veto](https://www.latimes.com/california/story/2019-10-13/newsom-vetoes-charter-school-geographic-restriction-bill) (Tier 2)
-- [PR Watch: Billionaire Eli Broad Takes Public Education Private](https://www.prwatch.org/news/2018/12/13434/billionaire-eli-broad-takes-public-education-private) (Tier 3)
-- [Network for Public Education: charter school funding impact](https://networkforpubliceducation.org/?s=Charter%20Schools%20and%20the%20Billionaire%20Reform%20Movement) (Tier 2)
+- ~~[California Department of Education: Charter School Accountability Report](https://www.cde.ca.gov/cd/ci/charter/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[CalMatters: What 'Governor Dad' did this year for CA kids, charter school legislation](https://calmatters.org/category/education/k-12-education/2019/10/charter-schools-california-legislation-newsom-start-time-teacher-maternity-leave-bonds/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[LA Times: AB 1507 veto](https://www.latimes.com/california/story/2019-10-13/newsom-vetoes-charter-school-geographic-restriction-bill)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[PR Watch: Billionaire Eli Broad Takes Public Education Private](https://www.prwatch.org/news/2018/12/13434/billionaire-eli-broad-takes-public-education-private)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [Network for Public Education: charter school funding impact](https://networkforpubliceducation.org/?s=Charter%20Schools%20and%20the%20Billionaire%20Reform%20Movement) (Tier 2) (VERIFIED)
 

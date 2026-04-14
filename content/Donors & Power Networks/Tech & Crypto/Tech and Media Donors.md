@@ -38,8 +38,8 @@ The tech-media convergence creates shared political priorities: Section 230 prot
 
 ### Sources
 
-- [OpenSecrets: Tech and entertainment industry contributions](https://www.opensecrets.org/industries/) (Tier 1)
-- [Ballotpedia: Tech and media political spending](https://ballotpedia.org/Tech_and_Media_Donors) (Tier 3)
+- [OpenSecrets: Tech and entertainment industry contributions](https://www.opensecrets.org/industries/) (Tier 1) (VERIFIED)
+- [Ballotpedia: Tech and media political spending](https://ballotpedia.org/Tech_and_Media_Donors) (Tier 3) (VERIFIED)
 
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->
@@ -57,7 +57,7 @@ The tech-media convergence creates shared political priorities: Section 230 prot
 
 **Agencies contacted:** Army, Dept of (Other), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Consumer Financial Protection Bureau (CFPB), Defense Advanced Research Projects Agency (DARPA), Defense, Dept of (DOD), Economic Development Administration, Education, Dept of, Energy, Dept of, Environmental Protection Agency (EPA) +32 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Tech%20and%20Media%20Donors) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Tech%20and%20Media%20Donors) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

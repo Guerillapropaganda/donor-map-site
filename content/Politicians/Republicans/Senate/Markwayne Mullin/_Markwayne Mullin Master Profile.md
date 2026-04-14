@@ -155,20 +155,20 @@ The DHS nomination is the capstone. Mullin signed an ethics agreement pledging t
 
 ## Sources
 
-- [FEC Candidate: Markwayne Mullin donor profile](https://www.fec.gov/data/candidate/S2OK00186/) (Tier 1)
-- [FEC Candidate: Mullin industry donors (career)](https://www.fec.gov/data/candidate/S2OK00186/) (Tier 1)
-- [NOTUS: Mullin violated STOCK Act by failing to disclose trades](https://www.notus.org/oklahoma/markwayne-mullin-stock-act) (Tier 2)
-- [NOTUS: Mullin pledges to sell stock holdings if confirmed](https://www.notus.org/trump-white-house/markwayne-mullin-dhs-stock-holdings-sell) (Tier 2)
-- [NPR: Mullin confirmed as DHS secretary](https://www.npr.org/2026/03/23/g-s1-114813/markwayne-mullin-confirmed-homeland-security) (Tier 2)
-- [CNN: Mullin confirmed to lead DHS in turmoil](https://www.cnn.com/2026/03/23/politics/markwayne-mullin-dhs-secretary-confirmed) (Tier 2)
-- [High Country News: Cherokee congressman for Trump and Indian Country](https://www.hcn.org/issues/51-21-22/indigenous-affairs-this-cherokee-congressman-is-for-trump-and-indian-country/) (Tier 2)
-- [Ballotpedia: Markwayne Mullin](https://ballotpedia.org/Markwayne_Mullin) (Tier 3)
-- [Newsweek: Mullin stock portfolio conflict of interest concerns](https://www.newsweek.com/markwayne-mullin-dhs-stock-trading-defense-11644758) (Tier 3)
-- [The Oklahoma Post: Johnson called Mullin a stranger, campaign finance record says otherwise](https://theokpost.com/news/nationalnews/johnson-called-mullin-a-stranger-the-campaign-finance-record-tells-a-different-story/2026/03/18/) (Tier 3)
-- [CNBC: Senate confirms Markwayne Mullin as next DHS secretary](https://www.cnbc.com/2026/03/23/markwayne-mullin-trump-dhs-senate-confirmation.html) (Tier 2)
-- [Washington Post: Senate confirms Mullin as homeland security secretary](https://www.washingtonpost.com/immigration/2026/03/23/mullin-dhs-senate-confirmation/) (Tier 2)
-- [TIME: Markwayne Mullin confirmed as Homeland Security Secretary](https://time.com/article/2026/03/23/mullin-dhs-confirmed-senate-shutdown-noem-tsa-ice/wn-noem-tsa-ice/) (Tier 2)
-- [DHS: U.S. Senate Confirms Markwayne Mullin as Secretary](https://www.dhs.gov/news/2026/03/24/us-senate-confirms-markwayne-mullin-secretary-department-homeland-security) (Tier 1)
+- [FEC Candidate: Markwayne Mullin donor profile](https://www.fec.gov/data/candidate/S2OK00186/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Mullin industry donors (career)](https://www.fec.gov/data/candidate/S2OK00186/) (Tier 1) (VERIFIED)
+- [NOTUS: Mullin violated STOCK Act by failing to disclose trades](https://www.notus.org/oklahoma/markwayne-mullin-stock-act) (Tier 2) (VERIFIED)
+- [NOTUS: Mullin pledges to sell stock holdings if confirmed](https://www.notus.org/trump-white-house/markwayne-mullin-dhs-stock-holdings-sell) (Tier 2) (VERIFIED)
+- [NPR: Mullin confirmed as DHS secretary](https://www.npr.org/2026/03/23/g-s1-114813/markwayne-mullin-confirmed-homeland-security) (Tier 2) (VERIFIED)
+- [CNN: Mullin confirmed to lead DHS in turmoil](https://www.cnn.com/2026/03/23/politics/markwayne-mullin-dhs-secretary-confirmed) (Tier 2) (VERIFIED)
+- [High Country News: Cherokee congressman for Trump and Indian Country](https://www.hcn.org/issues/51-21-22/indigenous-affairs-this-cherokee-congressman-is-for-trump-and-indian-country/) (Tier 2) (VERIFIED)
+- [Ballotpedia: Markwayne Mullin](https://ballotpedia.org/Markwayne_Mullin) (Tier 3) (VERIFIED)
+- [Newsweek: Mullin stock portfolio conflict of interest concerns](https://www.newsweek.com/markwayne-mullin-dhs-stock-trading-defense-11644758) (Tier 3) (VERIFIED)
+- [The Oklahoma Post: Johnson called Mullin a stranger, campaign finance record says otherwise](https://theokpost.com/news/nationalnews/johnson-called-mullin-a-stranger-the-campaign-finance-record-tells-a-different-story/2026/03/18/) (Tier 3) (VERIFIED)
+- [CNBC: Senate confirms Markwayne Mullin as next DHS secretary](https://www.cnbc.com/2026/03/23/markwayne-mullin-trump-dhs-senate-confirmation.html) (Tier 2) (VERIFIED)
+- [Washington Post: Senate confirms Mullin as homeland security secretary](https://www.washingtonpost.com/immigration/2026/03/23/mullin-dhs-senate-confirmation/) (Tier 2) (VERIFIED)
+- ~~[TIME: Markwayne Mullin confirmed as Homeland Security Secretary](https://time.com/article/2026/03/23/mullin-dhs-confirmed-senate-shutdown-noem-tsa-ice/wn-noem-tsa-ice/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [DHS: U.S. Senate Confirms Markwayne Mullin as Secretary](https://www.dhs.gov/news/2026/03/24/us-senate-confirms-markwayne-mullin-secretary-department-homeland-security) (Tier 1) (VERIFIED)
 - ~~[FollowTheMoney: Markwayne Mullin](https://www.followthemoney.org/tools/election-overview?eid=12013169&default=candidate)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
 
 ---
@@ -200,7 +200,7 @@ The DHS nomination is the capstone. Mullin signed an ethics agreement pledging t
 | NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND | $1,474 | $0 |
 | PERFORMANCE RACING INC. | $500 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S2OK00186/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S2OK00186/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (GovTrack)
@@ -232,7 +232,7 @@ The DHS nomination is the capstone. Mullin signed an ethics agreement pledging t
 | 2026-03-18 | On the Motion to Discharge S.J.Res. 118 | Nay | Motion to Discharge Rejected |
 | 2026-03-17 | Motion to Proceed on S. 1383: Safeguard American Voter Eligibility Act / SAVE Am… | Yea | Motion to Proceed Agreed to |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412568) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412568) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
 
 ## Voting Record
@@ -257,5 +257,5 @@ The DHS nomination is the capstone. Mullin signed an ethics agreement pledging t
 
 **Sources**
 
-- [GovTrack: Markwayne Mullin](https://www.govtrack.us/congress/members/412568) (Tier 1)
+- [GovTrack: Markwayne Mullin](https://www.govtrack.us/congress/members/412568) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->

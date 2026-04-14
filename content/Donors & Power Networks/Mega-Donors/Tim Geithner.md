@@ -160,13 +160,13 @@ The analytical pattern: **Revolving Door** (complete cycle: regulator → crisis
 
 ### Sources
 
-- [FEC: Individual contributions. Geithner, Timothy (2000–2026)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=geithner%2C+timothy&min_date=01%2F01%2F2000&max_date=12%2F31%2F2026) (Tier 1), 31 contributions, $450K+, 100% Democratic, all from Warburg Pincus
-- [ProPublica: Bailout Tracker. Tracking Every Dollar and Every Recipient](https://projects.propublica.org/bailout/) (Tier 1), $634.8B outflows, $109B government profit
-- [Warburg Pincus: Timothy F. Geithner. Team page](https://warburgpincus.com/team/timothy-f-geithner/) (Tier 1). Chairman biography, $83B AUM
-- [Wikipedia: Timothy Geithner](https://en.wikipedia.org/wiki/Timothy_Geithner) (Tier 3). Biographical overview, career timeline, HAMP controversy
-- [OpenSecrets: Tim Geithner. Revolving Door summary](https://www.opensecrets.org/revolving/rev_summary.php?id=78265) (Tier 1). Revolving door profile (site temporarily 502 at time of verification; URL format confirmed valid)
-- [U.S. Department of the Treasury](https://home.treasury.gov/) (Tier 1). Historical reference, Secretary list
-- [Neil Barofsky: *Bailout* (2012)](https://www.simonandschuster.com/books/Bailout/Neil-Barofsky/9781451684933) (Tier 2). SIGTARP Inspector General memoir documenting Geithner's "foam the runway" statement and HAMP design as bank relief
+- [FEC: Individual contributions. Geithner, Timothy (2000–2026)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=geithner%2C+timothy&min_date=01%2F01%2F2000&max_date=12%2F31%2F2026) (Tier 1) (VERIFIED), 31 contributions, $450K+, 100% Democratic, all from Warburg Pincus
+- [ProPublica: Bailout Tracker. Tracking Every Dollar and Every Recipient](https://projects.propublica.org/bailout/) (Tier 1) (VERIFIED), $634.8B outflows, $109B government profit
+- [Warburg Pincus: Timothy F. Geithner. Team page](https://warburgpincus.com/team/timothy-f-geithner/) (Tier 1) (VERIFIED). Chairman biography, $83B AUM
+- [Wikipedia: Timothy Geithner](https://en.wikipedia.org/wiki/Timothy_Geithner) (Tier 3) (VERIFIED). Biographical overview, career timeline, HAMP controversy
+- ~~[OpenSecrets: Tim Geithner. Revolving Door summary](https://www.opensecrets.org/revolving/rev_summary.php?id=78265)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1). Revolving door profile (site temporarily 502 at time of verification; URL format confirmed valid)
+- [U.S. Department of the Treasury](https://home.treasury.gov/) (Tier 1) (VERIFIED). Historical reference, Secretary list
+- ~~[Neil Barofsky: *Bailout* (2012)](https://www.simonandschuster.com/books/Bailout/Neil-Barofsky/9781451684933)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2). SIGTARP Inspector General memoir documenting Geithner's "foam the runway" statement and HAMP design as bank relief
 
 ---
 
@@ -199,7 +199,7 @@ The analytical pattern: **Revolving Door** (complete cycle: regulator → crisis
 - 2011-02-01 — **8-K**: LIVE FILING
 - 2010-01-15 — **EX-99.1**: EX-99.1
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Tim%20Geithner%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Tim%20Geithner%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Campaign Finance (FEC)
@@ -224,7 +224,7 @@ The analytical pattern: **Revolving Door** (complete cycle: regulator → crisis
 | CHRIS DELUZIO FOR CONGRESS | $3,300 | DEM |
 | DON DAVIS FOR NC | $3,300 | DEM |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Tim%20Geithner) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Tim%20Geithner) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### Federal Court Records (CourtListener)
@@ -243,5 +243,5 @@ The analytical pattern: **Revolving Door** (complete cycle: regulator → crisis
 - Jenkins-Bey v. Deutsche Bank National Trust Company (2021) — District Court, S.D. Florida
 - Larry Golden v. Apple, Inc. (2021) — Court of Appeals for the Fourth Circuit
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Tim%20Geithner%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Tim%20Geithner%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->

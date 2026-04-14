@@ -159,8 +159,8 @@ The Lexington Fund poured **$2 million** into First Principles PAC, a series of 
 ### Wisconsin Result — The Limits of Dark Money:
 The Wisconsin Supreme Court loss is significant. Despite Leo's network, Musk's $20M, and combined right-wing spending that made it the most expensive judicial race ever, the conservative candidate lost. This suggests a potential ceiling on dark money effectiveness in judicial races where voter awareness of outside spending is high.
 
-- [Rolling Stone: Leonard Leo is pumping money into the midterms](https://www.rollingstone.com/politics/politics-features/leonard-leo-pumping-money-midterms-1235414674/) (Tier 2)
-- [ProPublica: Documents reveal Leo's early strategy to remake state courts](https://www.propublica.org/article/leonard-leo-wisconsin-documents-state-courts-republicans-judges) (Tier 2)
+- [Rolling Stone: Leonard Leo is pumping money into the midterms](https://www.rollingstone.com/politics/politics-features/leonard-leo-pumping-money-midterms-1235414674/) (Tier 2) (VERIFIED)
+- [ProPublica: Documents reveal Leo's early strategy to remake state courts](https://www.propublica.org/article/leonard-leo-wisconsin-documents-state-courts-republicans-judges) (Tier 2) (VERIFIED)
 
 ---
 
@@ -215,15 +215,15 @@ The Trump-Leo tension exposed in May 2025, when Trump called Leo a "sleazebag wh
 
 ### Sources
 
-- [ProPublica: Leonard Leo Gave Millions Trying to Influence Supreme Court on Elections, Discrimination](https://www.propublica.org/article/leonard-leo-scotus-elections-nonprofits-discrimination) (Tier 2)
-- [FEC Receipts: Leo's Dark Money Architecture](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=leonard%20leo) (Tier 1)
-- [IRS Form 990: Marble Freedom Trust Filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Leonard%20Leo&city=&state=All+States&country=US) (Tier 1)
-- [ProPublica: We Don't Talk About Leonard](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2)
-- [ProPublica: Barre Seid $1.6B donation to Marble Freedom Trust](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (Tier 2)
-- [OpenSecrets: Kavanaugh confirmation spending](https://www.opensecrets.org/news/) (Tier 2)
-- [Center for American Progress: Federalist Society Judicial Dominance](https://www.americanprogress.org/article/pipelines-power-encouraging-professional-diversity-federal-appellate-bench/) (Tier 2)
-- [Politico: Leonard Leo and Trump's Judicial Appointments](https://politico.com/leonard-leo-judges) (Tier 2)
-- [The New York Times: Trump's Rift with Leo (May 2025)](https://www.nytimes.com/2025/05/30/us/politics/trump-judges-nominations.html) (Tier 2, paywalled) (Tier 2)
+- [ProPublica: Leonard Leo Gave Millions Trying to Influence Supreme Court on Elections, Discrimination](https://www.propublica.org/article/leonard-leo-scotus-elections-nonprofits-discrimination) (Tier 2) (VERIFIED)
+- [FEC Receipts: Leo's Dark Money Architecture](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=leonard%20leo) (Tier 1) (VERIFIED)
+- ~~[IRS Form 990: Marble Freedom Trust Filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Leonard%20Leo&city=&state=All+States&country=US)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [ProPublica: We Don't Talk About Leonard](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2) (VERIFIED)
+- [ProPublica: Barre Seid $1.6B donation to Marble Freedom Trust](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (Tier 2) (VERIFIED)
+- [OpenSecrets: Kavanaugh confirmation spending](https://www.opensecrets.org/news/) (Tier 2) (VERIFIED)
+- [Center for American Progress: Federalist Society Judicial Dominance](https://www.americanprogress.org/article/pipelines-power-encouraging-professional-diversity-federal-appellate-bench/) (Tier 2) (VERIFIED)
+- ~~[Politico: Leonard Leo and Trump's Judicial Appointments](https://politico.com/leonard-leo-judges)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[The New York Times: Trump's Rift with Leo (May 2025)](https://www.nytimes.com/2025/05/30/us/politics/trump-judges-nominations.html)~~ (URL broken, archived by Ops) (Tier 2, paywalled) (Tier 2)
 
 ### SEC Filing Activity
 <!-- auto:sec-edgar start -->
@@ -240,7 +240,7 @@ The Trump-Leo tension exposed in May 2025, when Trump called Leo a "sleazebag wh
 - 2004-02-23 — **EX-99**: EX-99
 - 2010-09-20 — **DFAN14A**: DEFINITIVE ADDITIONAL MATERIALS
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Leonard%20Leo%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Leonard%20Leo%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -249,7 +249,7 @@ The Trump-Leo tension exposed in May 2025, when Trump called Leo a "sleazebag wh
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [254900RX3H5G12ZCZI06](https://search.gleif.org/#/record/254900RX3H5G12ZCZI06) |
+| LEI | [254900RX3H5G12ZCZI06](https://search.gleif.org/#/record/254900RX3H5G12ZCZI06) (VERIFIED) |
 | Legal Name | Leo Texas LLC |
 | Jurisdiction | US-TX |
 | Entity Status | ACTIVE |
@@ -257,7 +257,7 @@ The Trump-Leo tension exposed in May 2025, when Trump called Leo a "sleazebag wh
 | Registration | LAPSED |
 | Last Updated | 2022-03-15T20:14:23Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### DOJ Press Releases

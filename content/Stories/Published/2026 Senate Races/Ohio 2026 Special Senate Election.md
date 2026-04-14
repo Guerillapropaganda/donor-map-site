@@ -57,7 +57,7 @@ Ohio's 2026 Senate race is a **special election** (not a regular cycle race) to 
  - Concentrations in: Cleveland (UAW stronghold), Akron (rubber workers), Toledo (auto parts/manufacturing), Youngstown (steel legacy)
  - Limited tech/finance money (unlike GA, NC, MI Democratic races), this is distinctly labor-based, not tech billionaire-based
 - **National progressive money (emerging):** [[_Bernie Sanders Master Profile|Bernie Sanders]] network, [[_Elizabeth Warren Master Profile|Elizabeth Warren]] endorsers, progressive mega-donors beginning to mobilize (Soros family, Abrams donors), but this is secondary
-- [Source: Ohio Capital Journal: Democrat Sherrod Brown leads Ohio Republican U.S. Sen. Jon Husted in quarterly fundraising](https://ohiocapitaljournal.com/2026/02/04/democrat-sherrod-brown-leads-ohio-republican-u-s-sen-jon-husted-in-quarterly-fundraising/) (Tier 2)
+- [Source: Ohio Capital Journal: Democrat Sherrod Brown leads Ohio Republican U.S. Sen. Jon Husted in quarterly fundraising](https://ohiocapitaljournal.com/2026/02/04/democrat-sherrod-brown-leads-ohio-republican-u-s-sen-jon-husted-in-quarterly-fundraising/) (Tier 2) (VERIFIED)
 
 ### Jon Husted (Appointed Republican). Establishment Consolidation:
 - **Total raised (through Q4 2025):** $7.3M, significantly behind Brown despite party apparatus support
@@ -76,7 +76,7 @@ Ohio's 2026 Senate race is a **special election** (not a regular cycle race) to 
  - **Healthcare/pharma (Ohio companies):** Procter & Gamble connections ($150K+), hospital associations
 - **Trump alignment funding (emerging):** MAGA billionaire networks still mobilizing, estimated $3M+ to come
 - **Union defections (significant weakness for Brown):** Four unions (International Union of Operating Engineers Local 66, International Brotherhood of Boilermakers, others) have switched endorsements from Brown (2024) to Husted (2026), reflecting anxiety about manufacturing decline under Democratic policy
-- [Source: NBC4 WCMH-TV: Ohio's U.S. Senate race: Brown raises $8 million, Husted sets Republican record](https://www.nbc4i.com/news/your-local-election-hq/ohios-u-s-senate-race-brown-raises-8-million-husted-sets-republican-record/) (Tier 2)
+- ~~[Source: NBC4 WCMH-TV: Ohio's U.S. Senate race: Brown raises $8 million, Husted sets Republican record](https://www.nbc4i.com/news/your-local-election-hq/ohios-u-s-senate-race-brown-raises-8-million-husted-sets-republican-record/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ### Outside Money Landscape (Still Developing. Special Election Timing Unusual):
 - **Democratic side. Labor Super-PACs:**
@@ -160,14 +160,14 @@ This race reveals fundamental contradiction in Ohio working-class politics and w
 
 ### Sources
 
-- [Democrat Sherrod Brown leads Ohio Republican U.S. Sen. Jon Husted in quarterly fundraising | Ohio Capital Journal](https://ohiocapitaljournal.com/2026/02/04/democrat-sherrod-brown-leads-ohio-republican-u-s-sen-jon-husted-in-quarterly-fundraising/) (Tier 2)
-- [Ohio's U.S. Senate race: Brown raises $8 million, Husted sets Republican record | NBC4 WCMH-TV](https://www.nbc4i.com/news/your-local-election-hq/ohios-u-s-senate-race-brown-raises-8-million-husted-sets-republican-record/) (Tier 2)
-- [Sen. Sherrod Brown - Campaign Finance Summary | OpenSecrets](https://www.fec.gov/data/candidate/H2OH13033/) (Tier 1)
-- [Union workers welcome Sherrod Brown's 2026 Ohio comeback, but can he win? | Salon.com](https://www.salon.com/2025/08/27/union-workers-welcome-sherrod-browns-2026-ohio-comeback-but-can-he-win/) (Tier 2)
-- [Scoop: Jon Husted snatches third union endorsement from Sherrod Brown | Axios](https://www.axios.com/2025/10/15/senate-brown-husted-ohio-unions) (Tier 2)
-- [Poll shows the Ohio US Senate race is statistically tied | Ohio Capital Journal](https://ohiocapitaljournal.com/2026/03/18/poll-shows-the-ohio-us-senate-race-is-statistically-tied-and-that-health-insurance-is-a-big-concern/) (Tier 2)
-- [IBEW Endorses Sherrod Brown for 2026 Senate | International Brotherhood of Electrical Workers](https://ibew.org/press-release/ibew-endorses-sherrod-brown-for-2026-senate/) (Tier 2)
-- [2026 United States Senate special election in Ohio | Wikipedia](https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Ohio) (Tier 3)
+- [Democrat Sherrod Brown leads Ohio Republican U.S. Sen. Jon Husted in quarterly fundraising | Ohio Capital Journal](https://ohiocapitaljournal.com/2026/02/04/democrat-sherrod-brown-leads-ohio-republican-u-s-sen-jon-husted-in-quarterly-fundraising/) (Tier 2) (VERIFIED)
+- ~~[Ohio's U.S. Senate race: Brown raises $8 million, Husted sets Republican record | NBC4 WCMH-TV](https://www.nbc4i.com/news/your-local-election-hq/ohios-u-s-senate-race-brown-raises-8-million-husted-sets-republican-record/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Sen. Sherrod Brown - Campaign Finance Summary | OpenSecrets](https://www.fec.gov/data/candidate/H2OH13033/) (Tier 1) (VERIFIED)
+- [Union workers welcome Sherrod Brown's 2026 Ohio comeback, but can he win? | Salon.com](https://www.salon.com/2025/08/27/union-workers-welcome-sherrod-browns-2026-ohio-comeback-but-can-he-win/) (Tier 2) (VERIFIED)
+- [Scoop: Jon Husted snatches third union endorsement from Sherrod Brown | Axios](https://www.axios.com/2025/10/15/senate-brown-husted-ohio-unions) (Tier 2) (VERIFIED)
+- [Poll shows the Ohio US Senate race is statistically tied | Ohio Capital Journal](https://ohiocapitaljournal.com/2026/03/18/poll-shows-the-ohio-us-senate-race-is-statistically-tied-and-that-health-insurance-is-a-big-concern/) (Tier 2) (VERIFIED)
+- [IBEW Endorses Sherrod Brown for 2026 Senate | International Brotherhood of Electrical Workers](https://ibew.org/press-release/ibew-endorses-sherrod-brown-for-2026-senate/) (Tier 2) (VERIFIED)
+- [2026 United States Senate special election in Ohio | Wikipedia](https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Ohio) (Tier 3) (VERIFIED)
 
 ---
 

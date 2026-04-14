@@ -108,25 +108,25 @@ The class analysis: Both donors are funding the Republican Party's debate over *
 
 [Rolling Stone: [[_Susan Collins Master Profile|Susan Collins]] Raked in Wall Street Cash Before Advancing Trump Tax Bill](https://www.rollingstone.com/politics/politics-features/susan-collins-trump-tax-bill-wall-street-private-equity-1235420525/) (Tier 2)
 
-[Bloomberg: Schwarzman, OpenAI's Brockman Boost $102 Million Trump War Chest](https://www.bloomberg.com/news/articles/2026-01-02/schwarzman-openai-s-brockman-boost-102-million-trump-war-chest) (Tier 2)
+~~[Bloomberg: Schwarzman, OpenAI's Brockman Boost $102 Million Trump War Chest](https://www.bloomberg.com/news/articles/2026-01-02/schwarzman-openai-s-brockman-boost-102-million-trump-war-chest)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 [OpenSecrets: [[Paul Singer|Paul Singer]] donor profile 2024](https://www.opensecrets.org/outside-spending/donor_detail/2024?id=U0000000066&name=Singer,+Paul&super_only=S&type=I) (Tier 1)
 
-[OpenSecrets News: Here's why Paul Singer's endorsement of Rubio matters](https://www.opensecrets.org/news/2015/11/heres-why-paul-singers-endorsement-of-rubio-matters) (Tier 1)
+[OpenSecrets News: Here's why Paul Singer's endorsement of Rubio matters](https://www.opensecrets.org/news/2015/11/heres-why-paul-singers-endorsement-of-rubio-matters) (Tier 1) (VERIFIED)
 
 [Democracy Now: The Vulture. How Billionaire Rubio Backer [[Paul Singer|Paul Singer]] Made Billions off Argentina Debt Crisis](https://www.democracynow.org/2016/3/11/the_vulture-how_billionaire_rubio_backer) (Tier 2)
 
-[MercoPress: Paul Singer will have made a $2.4bn profit with the Argentine defaulted bonds](https://en.mercopress.com/2016/03/04/paul-singer-will-have-made-a-2.4bn-profit-with-the-argentine-defaulted-bonds) (Tier 3)
+[MercoPress: Paul Singer will have made a $2.4bn profit with the Argentine defaulted bonds](https://en.mercopress.com/2016/03/04/paul-singer-will-have-made-a-2.4bn-profit-with-the-argentine-defaulted-bonds) (Tier 3) (VERIFIED)
 
-[Fortune: Inside Elliott Management. How Paul Singer's Hedge Fund Always Wins](https://fortune.com/2017/12/07/elliott-management-hedge-fund-paul-singer/) (Tier 2)
+[Fortune: Inside Elliott Management. How Paul Singer's Hedge Fund Always Wins](https://fortune.com/2017/12/07/elliott-management-hedge-fund-paul-singer/) (Tier 2) (VERIFIED)
 
-[Capital & Main: How the Carried Interest Loophole Makes the Super-Rich Super-Richer](https://capitalandmain.com/how-the-carried-interest-loophole-makes-the-super-rich-super-richer-0621) (Tier 2)
+[Capital & Main: How the Carried Interest Loophole Makes the Super-Rich Super-Richer](https://capitalandmain.com/how-the-carried-interest-loophole-makes-the-super-rich-super-richer-0621) (Tier 2) (VERIFIED)
 
-[Bloomberg: Blackstone's Schwarzman Took Home a Near-Record $1.24 Billion in 2025](https://www.bloomberg.com/news/articles/2026-02-27/blackstone-s-schwarzman-reaped-near-record-1-24-billion-in-2025) (Tier 2)
+~~[Bloomberg: Blackstone's Schwarzman Took Home a Near-Record $1.24 Billion in 2025](https://www.bloomberg.com/news/articles/2026-02-27/blackstone-s-schwarzman-reaped-near-record-1-24-billion-in-2025)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
-[Axios: Blackstone CEO and GOP megadonor Steve Schwarzman says he won't help Trump during 2024 primary](https://www.axios.com/2022/11/16/trump-stephen-schwarzman-2024-presidential-race) (Tier 2)
+[Axios: Blackstone CEO and GOP megadonor Steve Schwarzman says he won't help Trump during 2024 primary](https://www.axios.com/2022/11/16/trump-stephen-schwarzman-2024-presidential-race) (Tier 2) (VERIFIED)
 
-[Fox News: Billionaire CEO Schwarzman changes course and backs Trump citing rising antisemitism as top concern](https://www.foxnews.com/politics/billionaire-ceo-schwarzman-changes-course-and-backs-trump-citing-rising-anti-semitism-as-top-concern) (Tier 2)
+[Fox News: Billionaire CEO Schwarzman changes course and backs Trump citing rising antisemitism as top concern](https://www.foxnews.com/politics/billionaire-ceo-schwarzman-changes-course-and-backs-trump-citing-rising-anti-semitism-as-top-concern) (Tier 2) (VERIFIED)
 
 ---
 

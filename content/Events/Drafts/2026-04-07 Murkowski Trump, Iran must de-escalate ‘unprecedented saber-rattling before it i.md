@@ -13,7 +13,7 @@ profiles:
 
 ## Murkowski: Trump, Iran must de-escalate ‘unprecedented saber-rattling before it is too late’
 
-**Source:** [The Hill](https://thehill.com/homenews/senate/5820531-trump-iran-threat-murkowski-criticism/)
+**Source:** ~~[The Hill](https://thehill.com/homenews/senate/5820531-trump-iran-threat-murkowski-criticism/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-07
 
 Sen. Lisa Murkowski (R-Alaska) on Tuesday called on President Trump and Iran to de-escalate from their “unprecedented saber-rattling before it is too late” after the president issued an ominous warning toward the Middle Eastern country. Trump threatened Tuesday morning that Iran’s “whole civilization will die tonight, never to be brought back again” unless “maybe something…

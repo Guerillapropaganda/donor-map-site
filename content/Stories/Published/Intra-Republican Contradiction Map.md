@@ -252,47 +252,47 @@ The clearest evidence: Koch Network + Club for Growth opposed Trump vigorously i
 ### Sources
 
 ### Primary Databases:
-- [FEC Filings Database](https://www.fec.gov/data/) (Tier 1)
+- [FEC Filings Database](https://www.fec.gov/data/) (Tier 1) (VERIFIED)
 
 ### [[Jeff Yass|Jeff Yass]] & ByteDance:
-- [Fortune: The biggest donor in the 2024 election holds a $15 billion stake in TikTok's parent company](https://fortune.com/2024/03/13/tiktok-billionaire-jeff-yass-biggest-donor-2024-election/) (Tier 2)
-- [Fast Company: Meet Jeff Yass, the billionaire ByteDance investor donating to Republicans who flipped against the TikTok ban](https://www.fastcompany.com/91058467/who-is-jeff-yass-billionaire-donating-to-republicans-who-flipped-on-bytedance-tiktok-ban) (Tier 2)
-- [Slate: Jeff Yass: Who is the powerful TikTok billionaire suddenly all over the news, and in Trump's corner?](https://slate.com/news-and-politics/2024/03/tiktok-trump-yass-truth-social-club-for-growth-republicans-megadonor.html) (Tier 2)
+- [Fortune: The biggest donor in the 2024 election holds a $15 billion stake in TikTok's parent company](https://fortune.com/2024/03/13/tiktok-billionaire-jeff-yass-biggest-donor-2024-election/) (Tier 2) (VERIFIED)
+- ~~[Fast Company: Meet Jeff Yass, the billionaire ByteDance investor donating to Republicans who flipped against the TikTok ban](https://www.fastcompany.com/91058467/who-is-jeff-yass-billionaire-donating-to-republicans-who-flipped-on-bytedance-tiktok-ban)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Slate: Jeff Yass: Who is the powerful TikTok billionaire suddenly all over the news, and in Trump's corner?](https://slate.com/news-and-politics/2024/03/tiktok-trump-yass-truth-social-club-for-growth-republicans-megadonor.html) (Tier 2) (VERIFIED)
 
 ### Kenneth Griffin & Citadel:
-- [ArtNews: Billionaire Collector Kenneth Griffin Donated $100 M. for 2024 Election, Fifth-Most for Individual Donors](https://www.artnews.com/art-news/news/billionaire-collector-kenneth-griffin-donated-100-million-2024-election-senate-leadership-fund-1234724065/) (Tier 2)
-- [CNBC: Billionaire Ken Griffin, former DeSantis donor, on sidelines for GOP presidential primary](https://www.cnbc.com/2023/09/18/billionaire-ken-griffin-former-desantis-donor-sits-out-gop-primary.html) (Tier 2)
-- [NASDAQ: Citadel's Ken Griffin opposes tariffs but backs Trump with inaugural $1M donation](https://www.nasdaq.com/articles/citadels-ken-griffin-opposes-tariffs-but-backs-trump-with-inaugural-1m-donation) (Tier 2)
+- [ArtNews: Billionaire Collector Kenneth Griffin Donated $100 M. for 2024 Election, Fifth-Most for Individual Donors](https://www.artnews.com/art-news/news/billionaire-collector-kenneth-griffin-donated-100-million-2024-election-senate-leadership-fund-1234724065/) (Tier 2) (VERIFIED)
+- [CNBC: Billionaire Ken Griffin, former DeSantis donor, on sidelines for GOP presidential primary](https://www.cnbc.com/2023/09/18/billionaire-ken-griffin-former-desantis-donor-sits-out-gop-primary.html) (Tier 2) (VERIFIED)
+- ~~[NASDAQ: Citadel's Ken Griffin opposes tariffs but backs Trump with inaugural $1M donation](https://www.nasdaq.com/articles/citadels-ken-griffin-opposes-tariffs-but-backs-trump-with-inaugural-1m-donation)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ### Koch Network & Project 2025:
-- [NBC News: Leonard Leo, Koch networks pour millions into groups prepping for potential second Trump administration](https://www.nbcnews.com/politics/2024-election/leonard-leo-koch-networks-pour-millions-prep-potential-second-trump-ad-rcna144360) (Tier 2)
-- [DeSmog: 6 Billionaire Fortunes Bankrolling Project 2025](https://www.desmog.com/2024/08/14/project-2025-billionaire-donor-heritage-foundation-donald-trump-jd-vance-charles-koch-peter-coors/) (Tier 2)
-- [Accountable US: Leo, Koch Networks Funnel $55M+ Into Project 2025 Groups](https://accountable.us/leo-koch-networks-funnel-55m-into-project-2025-groups/) (Tier 2)
-- [OpenSecrets: Koch network's flagship super PAC pours big money into 2024 elections](https://www.opensecrets.org/news/2024/08/koch-network-flagship-super-pac-pours-big-money-into-2024-elections/) (Tier 2)
+- [NBC News: Leonard Leo, Koch networks pour millions into groups prepping for potential second Trump administration](https://www.nbcnews.com/politics/2024-election/leonard-leo-koch-networks-pour-millions-prep-potential-second-trump-ad-rcna144360) (Tier 2) (VERIFIED)
+- [DeSmog: 6 Billionaire Fortunes Bankrolling Project 2025](https://www.desmog.com/2024/08/14/project-2025-billionaire-donor-heritage-foundation-donald-trump-jd-vance-charles-koch-peter-coors/) (Tier 2) (VERIFIED)
+- [Accountable US: Leo, Koch Networks Funnel $55M+ Into Project 2025 Groups](https://accountable.us/leo-koch-networks-funnel-55m-into-project-2025-groups/) (Tier 2) (NEEDS REVIEW)
+- [OpenSecrets: Koch network's flagship super PAC pours big money into 2024 elections](https://www.opensecrets.org/news/2024/08/koch-network-flagship-super-pac-pours-big-money-into-2024-elections/) (Tier 2) (VERIFIED)
 
 ### Club for Growth:
-- [The New Republic: How the Club for Growth Fell Out With Trump](https://newrepublic.com/article/176870/club-growth-fell-out-trump) (Tier 2)
-- [Axios: Club for Growth: Top conservative spenders plot new path after Trump](https://www.axios.com/2023/01/22/club-for-growth-republicans-conservatives-2024) (Tier 2)
+- [The New Republic: How the Club for Growth Fell Out With Trump](https://newrepublic.com/article/176870/club-growth-fell-out-trump) (Tier 2) (VERIFIED)
+- [Axios: Club for Growth: Top conservative spenders plot new path after Trump](https://www.axios.com/2023/01/22/club-for-growth-republicans-conservatives-2024) (Tier 2) (VERIFIED)
 
 ### Stephen Schwarzman & Blackstone:
-- [Bloomberg: Schwarzman, OpenAI's Brockman Boost $102 Million Trump War Chest](https://www.bloomberg.com/news/articles/2026-01-02/schwarzman-openai-s-brockman-boost-102-million-trump-war-chest) (Tier 2)
-- [CNN: Trump's super PAC builds $300 million cash stockpile, fueling unrivaled fundraising pace](https://www.cnn.com/2026/01/02/politics/trump-super-pac-maga-inc-fundraising) (Tier 2)
+- ~~[Bloomberg: Schwarzman, OpenAI's Brockman Boost $102 Million Trump War Chest](https://www.bloomberg.com/news/articles/2026-01-02/schwarzman-openai-s-brockman-boost-102-million-trump-war-chest)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [CNN: Trump's super PAC builds $300 million cash stockpile, fueling unrivaled fundraising pace](https://www.cnn.com/2026/01/02/politics/trump-super-pac-maga-inc-fundraising) (Tier 2) (VERIFIED)
 
 ### [[Miriam Adelson|Miriam Adelson]]:
-- [Times of Israel: Miriam Adelson gives $100 million to Trump campaign, making good on reported pledge](https://www.timesofisrael.com/miriam-adelson-gives-100-million-to-trump-campaign-making-good-on-reported-pledge/) (Tier 2)
-- [Al Jazeera: Who is Miriam Adelson, the pro-Israel donor Trump lauded at the Knesset?](https://www.aljazeera.com/news/2025/10/13/who-is-miriam-adelson-the-pro-israel-donor-trump-lauded-at-the-knesset) (Tier 2)
+- [Times of Israel: Miriam Adelson gives $100 million to Trump campaign, making good on reported pledge](https://www.timesofisrael.com/miriam-adelson-gives-100-million-to-trump-campaign-making-good-on-reported-pledge/) (Tier 2) (VERIFIED)
+- [Al Jazeera: Who is Miriam Adelson, the pro-Israel donor Trump lauded at the Knesset?](https://www.aljazeera.com/news/2025/10/13/who-is-miriam-adelson-the-pro-israel-donor-trump-lauded-at-the-knesset) (Tier 2) (VERIFIED)
 
 ### Richard Uihlein:
-- [OpenSecrets: Richard Uihlein donor profile](https://www.opensecrets.org/outside-spending/donor_detail/2024?id=U0000003690&name=Uihlein,+Richard+&+Elizabeth=&super_only=S&type=I) (Tier 1)
-- [Chicago Sun-Times: Powerful suburban Chicago political operation fueled by Uihlein money spends millions on far right causes](https://www.chicago.suntimes.com/columnists/2024/10/31/restoration-superpac-downers-grove-presidential-election-doug-truax-richard-uihlein) (Tier 2)
+- [OpenSecrets: Richard Uihlein donor profile](https://www.opensecrets.org/outside-spending/donor_detail/2024?id=U0000003690&name=Uihlein,+Richard+&+Elizabeth=&super_only=S&type=I) (Tier 1) (VERIFIED)
+- [Chicago Sun-Times: Powerful suburban Chicago political operation fueled by Uihlein money spends millions on far right causes](https://www.chicago.suntimes.com/columnists/2024/10/31/restoration-superpac-downers-grove-presidential-election-doug-truax-richard-uihlein) (Tier 2) (VERIFIED)
 
 ### Greg Brockman & OpenAI:
-- [The Decoder: OpenAI co-founder Greg Brockman donates $25 million to Trump's MAGA Inc. super PAC](https://the-decoder.com/openai-co-founder-greg-brockman-donates-25-million-to-trumps-maga-inc-super-pac/) (Tier 2)
-- [Yahoo Finance: OpenAI exec becomes top Trump donor with $25 million gift](https://finance.yahoo.com/news/openai-exec-becomes-top-trump-230342268.html) (Tier 2)
+- [The Decoder: OpenAI co-founder Greg Brockman donates $25 million to Trump's MAGA Inc. super PAC](https://the-decoder.com/openai-co-founder-greg-brockman-donates-25-million-to-trumps-maga-inc-super-pac/) (Tier 2) (VERIFIED)
+- [Yahoo Finance: OpenAI exec becomes top Trump donor with $25 million gift](https://finance.yahoo.com/news/openai-exec-becomes-top-trump-230342268.html) (Tier 2) (VERIFIED)
 
 ### MAGA Inc Fundraising:
-- [OpenSecrets: PAC Profile: MAGA Inc](https://www.opensecrets.org/political-action-committees-pacs/maga-inc/C00892471/summary/2024) (Tier 1)
-- [Brennan Center: Pro-Trump Super PAC Raises Record-Breaking $305 Million](https://www.brennancenter.org/our-work/analysis-opinion/pro-trump-super-pac-raises-record-breaking-305-million) (Tier 2)
+- [OpenSecrets: PAC Profile: MAGA Inc](https://www.opensecrets.org/political-action-committees-pacs/maga-inc/C00892471/summary/2024) (Tier 1) (VERIFIED)
+- [Brennan Center: Pro-Trump Super PAC Raises Record-Breaking $305 Million](https://www.brennancenter.org/our-work/analysis-opinion/pro-trump-super-pac-raises-record-breaking-305-million) (Tier 2) (VERIFIED)
 
 ---
 

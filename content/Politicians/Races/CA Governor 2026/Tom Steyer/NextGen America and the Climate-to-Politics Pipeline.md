@@ -104,7 +104,7 @@ Steyer and Bloomberg occupy the same structural position: progressive billionair
 
 ### Sources
 
-- [FactCheck.org: NextGen Climate Action/NextGen America](https://www.factcheck.org/2020/07/nextgen-climate-action-nextgen-america/) (Tier 2)
-- [OpenSecrets: Tom Steyer Archive](https://www.opensecrets.org/donor-lookup/results?name=tom+steyer&order=desc&sort=D) (Tier 1)
-- [Newsweek: Tom Steyer Will Spend $40 Million Trying to Impeach Donald Trump](https://www.newsweek.com/tom-steyer-impeach-donald-trump-2020-1285879) (Tier 2)
-- [PBS News: Does California's race for governor finally have a leader?](https://www.pbs.org/newshour/politics/swalwell-sees-attacks-from-left-and-right-as-californias-race-for-governor-heats-up) (Tier 2)
+- [FactCheck.org: NextGen Climate Action/NextGen America](https://www.factcheck.org/2020/07/nextgen-climate-action-nextgen-america/) (Tier 2) (VERIFIED)
+- [OpenSecrets: Tom Steyer Archive](https://www.opensecrets.org/donor-lookup/results?name=tom+steyer&order=desc&sort=D) (Tier 1) (VERIFIED)
+- [Newsweek: Tom Steyer Will Spend $40 Million Trying to Impeach Donald Trump](https://www.newsweek.com/tom-steyer-impeach-donald-trump-2020-1285879) (Tier 2) (VERIFIED)
+- [PBS News: Does California's race for governor finally have a leader?](https://www.pbs.org/newshour/politics/swalwell-sees-attacks-from-left-and-right-as-californias-race-for-governor-heats-up) (Tier 2) (VERIFIED)

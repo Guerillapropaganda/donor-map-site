@@ -83,12 +83,12 @@ The stolen seat didn't just add one conservative vote, it prevented a liberal ma
 
 ### Sources
 
-- [NPR: What Happened With Merrick Garland In 2016 And Why It Matters Now](https://www.npr.org/2018/06/29/624467256/what-happened-with-merrick-garland-in-2016-and-why-it-matters-now) (Tier 2)
-- [Constitution Center: Tracking the Controversy over Judge Garland's Nomination](https://constitutioncenter.org/blog/tracking-the-controversy-over-judge-garlands-nomination) (Tier 2)
-- [Senator Sheldon Whitehouse: The Scheme Speech 6. Judicial Crisis Network](https://www.whitehouse.senate.gov/news/speeches/the-scheme-speech-6-judicial-crisis-network/) (Tier 1)
-- [OpenSecrets: Secretive Conservative Legal Group Funded by $17M Mystery Donor](https://www.opensecrets.org/news/2019/05/dark-money-group-funded-by-17million-mystery-donor-before-kavanaugh/) (Tier 2)
-- [ProPublica: How a Secretive Billionaire Handed His Fortune to the Architect of the Right-Wing Takeover of the Courts](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (Tier 2)
-- [ProPublica: We Don't Talk About Leonard. The Man Behind the Right's Supreme Court Supermajority](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2)
-- [Senator Sheldon Whitehouse: Scheme 18. Leonard Leo's $1.6 Billion Payday](https://www.whitehouse.senate.gov/news/speeches/scheme-18_leonard-leos-16-billion-payday/) (Tier 1)
-- [U.S. Senate: Roll Call Vote. Gorsuch Confirmation 54-45](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00111.htm) (Tier 1)
-- [Congress.gov: Nomination of Neil M. Gorsuch (Official Record)](https://www.congress.gov/nomination/115th-congress/55) (Tier 1)
+- [NPR: What Happened With Merrick Garland In 2016 And Why It Matters Now](https://www.npr.org/2018/06/29/624467256/what-happened-with-merrick-garland-in-2016-and-why-it-matters-now) (Tier 2) (VERIFIED)
+- ~~[Constitution Center: Tracking the Controversy over Judge Garland's Nomination](https://constitutioncenter.org/blog/tracking-the-controversy-over-judge-garlands-nomination)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Senator Sheldon Whitehouse: The Scheme Speech 6. Judicial Crisis Network](https://www.whitehouse.senate.gov/news/speeches/the-scheme-speech-6-judicial-crisis-network/) (Tier 1) (VERIFIED)
+- [OpenSecrets: Secretive Conservative Legal Group Funded by $17M Mystery Donor](https://www.opensecrets.org/news/2019/05/dark-money-group-funded-by-17million-mystery-donor-before-kavanaugh/) (Tier 2) (VERIFIED)
+- [ProPublica: How a Secretive Billionaire Handed His Fortune to the Architect of the Right-Wing Takeover of the Courts](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (Tier 2) (VERIFIED)
+- [ProPublica: We Don't Talk About Leonard. The Man Behind the Right's Supreme Court Supermajority](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2) (VERIFIED)
+- [Senator Sheldon Whitehouse: Scheme 18. Leonard Leo's $1.6 Billion Payday](https://www.whitehouse.senate.gov/news/speeches/scheme-18_leonard-leos-16-billion-payday/) (Tier 1) (VERIFIED)
+- [U.S. Senate: Roll Call Vote. Gorsuch Confirmation 54-45](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00111.htm) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: Nomination of Neil M. Gorsuch (Official Record)](https://www.congress.gov/nomination/115th-congress/55)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)

@@ -128,14 +128,14 @@ Vivek Ramaswamy. DOGE co-lead (32 days, November 2024–January 2025). Now runni
 ## Sources
 
 ### Verified
-- [FEC: Vivek Ramaswamy 2024 Presidential Campaign](https://www.fec.gov/data/candidate/P40011082/) (Tier 1)
-- [SEC EDGAR: Roivant Sciences filings and ownership structure](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=roivant&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)
-- [Washington Post: Vivek Ramaswamy's push for FDA changes could boost his wealth](https://www.washingtonpost.com/business/2024/11/25/vivek-ramaswamy-conflicts-doge-fda/) (Tier 2)
-- [Fortune: DOGE departure and Musk conflict](https://fortune.com/2025/01/21/doge-elon-musk-vivek-ramaswamy-departure-donald-trump-presidency/) (Tier 2)
-- [Signal Ohio: Jeff Yass $10M super PAC contribution](https://signalohio.org/billionaire-makes-huge-contribution-to-political-group-backing-ohio-gop-candidate-vivek-ramaswamy/) (Tier 2)
-- [Axios: Roivant DEI contradiction](https://www.axios.com/2023/06/16/vivek-ramaswamy-dei-esg-company) (Tier 2)
-- [NBC News: Ohio governor race](https://www.nbcnews.com/politics/elections/doge-ohio-vivek-ramaswamy-enters-governors-race-pushing-cuts-merit-pay-rcna188980) (Tier 2)
-- [Forbes/Fortune: Ramaswamy net worth](https://fortune.com/2023/08/24/vivek-ramaswamy-gop-debate-republican-net-worth/) (Tier 2)
+- [FEC: Vivek Ramaswamy 2024 Presidential Campaign](https://www.fec.gov/data/candidate/P40011082/) (Tier 1) (VERIFIED)
+- [SEC EDGAR: Roivant Sciences filings and ownership structure](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=roivant&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1) (VERIFIED)
+- ~~[Washington Post: Vivek Ramaswamy's push for FDA changes could boost his wealth](https://www.washingtonpost.com/business/2024/11/25/vivek-ramaswamy-conflicts-doge-fda/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Fortune: DOGE departure and Musk conflict](https://fortune.com/2025/01/21/doge-elon-musk-vivek-ramaswamy-departure-donald-trump-presidency/) (Tier 2) (VERIFIED)
+- [Signal Ohio: Jeff Yass $10M super PAC contribution](https://signalohio.org/billionaire-makes-huge-contribution-to-political-group-backing-ohio-gop-candidate-vivek-ramaswamy/) (Tier 2) (VERIFIED)
+- ~~[Axios: Roivant DEI contradiction](https://www.axios.com/2023/06/16/vivek-ramaswamy-dei-esg-company)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [NBC News: Ohio governor race](https://www.nbcnews.com/politics/elections/doge-ohio-vivek-ramaswamy-enters-governors-race-pushing-cuts-merit-pay-rcna188980) (Tier 2) (VERIFIED)
+- [Forbes/Fortune: Ramaswamy net worth](https://fortune.com/2023/08/24/vivek-ramaswamy-gop-debate-republican-net-worth/) (Tier 2) (VERIFIED)
 
 ### Archived
 - ~~[OpenSecrets: Ramaswamy 2024 presidential fundraising](https://www.opensecrets.org/2024-presidential-race?id=N00052397)~~ (was Tier 1, OpenSecrets demoted, data preserved in FEC section above)
@@ -163,6 +163,6 @@ Vivek Ramaswamy. DOGE co-lead (32 days, November 2024–January 2025). Now runni
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Vivek Ramaswamy](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: Vivek Ramaswamy](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 

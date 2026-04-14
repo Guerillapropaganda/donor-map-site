@@ -13,7 +13,7 @@ profiles:
 
 ## &#8216;Good riddance&#8217;: Lawmakers sound off on Trump&#8217;s Bondi ouster
 
-**Source:** [The Hill](https://thehill.com/homenews/house/5813777-good-riddance-lawmakers-sound-off-on-trumps-bondi-ouster/)
+**Source:** ~~[The Hill](https://thehill.com/homenews/house/5813777-good-riddance-lawmakers-sound-off-on-trumps-bondi-ouster/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-02
 
 President Trump announced that he had fired Attorney General Pam Bondi on Thursday, a move that followed months of controversy surrounding the Justice Department’s handling of files linked to convicted sex offender Jeffrey Epstein. The ouster was welcomed by many lawmakers on both sides of the aisle and also comes shortly after the firing of&#8230;

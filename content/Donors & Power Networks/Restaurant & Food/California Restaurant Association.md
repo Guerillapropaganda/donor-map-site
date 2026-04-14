@@ -148,13 +148,13 @@ Labor. FAST Act, AB 1228, fast food minimum wage, joint liability
 
 ### Sources
 
-- [CalMatters: California fast food deal, wage hike, no referendum](https://calmatters.org/category/politics/2023/09/california-fast-food-deal/) (Tier 2)
-- [Ballotpedia: Fast food minimum wage referendum](https://ballotpedia.org/California_Fast_Food_Restaurant_Minimum_Wage_and_Labor_Regulations_Referendum_(2024)) (Tier 1)
-- [Transparency USA: CRA Issues PAC](https://www.transparencyusa.org/ca/committee/california-restaurant-association-issues-pac-901032-rcp) (Tier 1)
+- ~~[CalMatters: California fast food deal, wage hike, no referendum](https://calmatters.org/category/politics/2023/09/california-fast-food-deal/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Ballotpedia: Fast food minimum wage referendum](https://ballotpedia.org/California_Fast_Food_Restaurant_Minimum_Wage_and_Labor_Regulations_Referendum_(2024) (VERIFIED)) (Tier 1)
+- [Transparency USA: CRA Issues PAC](https://www.transparencyusa.org/ca/committee/california-restaurant-association-issues-pac-901032-rcp) (Tier 1) (VERIFIED)
 - ~~[FollowTheMoney.org: CRA contributions](https://www.followthemoney.org/tools/election-overview?eid=4463)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 1)
-- [Governing: Fast food spent $4M to stop accountability bill](https://www.governing.com/policy/fast-food-spent-4m-to-stop-california-accountability-bill) (Tier 2)
-- [OpenSecrets: National Restaurant Association](https://www.opensecrets.org/orgs/national-restaurant-assn/summary?id=D000000150) (Tier 1)
-- [FPPC: CRA-PAC contribution records](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1)
+- [Governing: Fast food spent $4M to stop accountability bill](https://www.governing.com/policy/fast-food-spent-4m-to-stop-california-accountability-bill) (Tier 2) (VERIFIED)
+- [OpenSecrets: National Restaurant Association](https://www.opensecrets.org/orgs/national-restaurant-assn/summary?id=D000000150) (Tier 1) (VERIFIED)
+- [FPPC: CRA-PAC contribution records](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1) (VERIFIED)
 
 ---
 
@@ -184,7 +184,7 @@ Labor. FAST Act, AB 1228, fast food minimum wage, joint liability
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=California%20Restaurant%20Association) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=California%20Restaurant%20Association) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### SEC Filing Activity
@@ -202,7 +202,7 @@ Labor. FAST Act, AB 1228, fast food minimum wage, joint liability
 - 2019-05-15 — **8-K**: 8-K
 - 2003-06-09 — **8-K**: FORM 8-K
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22California%20Restaurant%20Association%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22California%20Restaurant%20Association%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -231,7 +231,7 @@ Labor. FAST Act, AB 1228, fast food minimum wage, joint liability
 |------------------|--------|--------|
 | Unknown | $1009778941.6B | 50 |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-California%20Restaurant%20Association) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-California%20Restaurant%20Association) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -246,7 +246,7 @@ Labor. FAST Act, AB 1228, fast food minimum wage, joint liability
 | Net Assets | $20.8M |
 | Officer Compensation | $464K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 951241045](https://projects.propublica.org/nonprofits/organizations/951241045) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 951241045](https://projects.propublica.org/nonprofits/organizations/951241045) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Federal Court Records (CourtListener)
@@ -265,7 +265,7 @@ Labor. FAST Act, AB 1228, fast food minimum wage, joint liability
 - United States of America Chamber of Commerce, et al. v. Sanchez, et al. (2025) — Court of Appeals for the Ninth Circuit
 - Rinnai America Corporation, et al. v. South Coast Air Quality Management District, et al. (2025) — Court of Appeals for the Ninth Circuit
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22California%20Restaurant%20Association%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22California%20Restaurant%20Association%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Register Activity
@@ -278,10 +278,10 @@ Labor. FAST Act, AB 1228, fast food minimum wage, joint liability
 | Agencies | Energy Department, Environmental Protection Agency |
 
 **Recent regulatory activity:**
-- [Energy Conservation Program: Energy Conservation Standards for Consumer Conventional Cooking Products](https://www.federalregister.gov/documents/2024/02/14/2024-02008/energy-conservation-program-energy-conservation-standards-for-consumer-conventional-cooking-products) (2024-02-14) — Energy Department
-- [Air Quality State Implementation Plans; Approvals and Promulgations: California; 1997 Annual Fine Particulate Matter Serious and Clean Air Act Section 189(d) Nonattainment Area Requirements; San Joaquin Valley, CA](https://www.federalregister.gov/documents/2023/07/14/2023-14687/air-quality-state-implementation-plans-approvals-and-promulgations-california-1997-annual-fine) (2023-07-14) — Environmental Protection Agency
+- [Energy Conservation Program: Energy Conservation Standards for Consumer Conventional Cooking Products](https://www.federalregister.gov/documents/2024/02/14/2024-02008/energy-conservation-program-energy-conservation-standards-for-consumer-conventional-cooking-products) (VERIFIED) (2024-02-14) — Energy Department
+- [Air Quality State Implementation Plans; Approvals and Promulgations: California; 1997 Annual Fine Particulate Matter Serious and Clean Air Act Section 189(d) Nonattainment Area Requirements; San Joaquin Valley, CA](https://www.federalregister.gov/documents/2023/07/14/2023-14687/air-quality-state-implementation-plans-approvals-and-promulgations-california-1997-annual-fine) (VERIFIED) (2023-07-14) — Environmental Protection Agency
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22California%20Restaurant%20Association%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22California%20Restaurant%20Association%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Lobbying Activity
@@ -300,7 +300,7 @@ Labor. FAST Act, AB 1228, fast food minimum wage, joint liability
 
 **Agencies contacted:** AMTRAK - Natl Railroad Passenger Corporation, Administration for Children & Families (ACF), Agriculture, Dept of (USDA), Army, Dept of (Corps of Engineers), Bureau of Reclamation, Centers For Disease Control & Prevention (CDC), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Consumer Financial Protection Bureau (CFPB), Council on Environmental Quality (CEQ) +49 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=California%20Restaurant%20Association) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=California%20Restaurant%20Association) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

@@ -248,22 +248,22 @@ The 2025 policy return completes the circuit. Marathon spent years and tens of m
 
 ### Sources
 
-- [OpenSecrets: Marathon Petroleum PAC contributions by cycle](https://www.opensecrets.org/orgs/marathon-petroleum/totals?id=D000023121) (Tier 1)
-- [OpenSecrets: Marathon Petroleum federal lobbying 2012–2024](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?cycle=2024&id=D000023121) (Tier 1)
-- [OpenSecrets: Marathon Petroleum 2024 recipients](https://www.opensecrets.org/orgs/marathon-petroleum/recipients?id=D000023121) (Tier 1)
-- [OpenSecrets: Marathon PAC (C00496307) details](https://www.opensecrets.org/political-action-committees-pacs/marathon-petroleum/C00496307/summary/2024) (Tier 1)
-- [Business Insider: Marathon Petroleum FEC $85K fine for illegal $1M contribution](https://www.businessinsider.com/fec-marathon-oil-85000-fine-campaign-finance-violation-2022-3) (Tier 2)
-- [New York Times: Marathon Petroleum CAFE campaign and draft congressional letter](https://www.nytimes.com/2018/12/13/climate/cafe-emissions-rollback-oil-industry.html) (Tier 2)
-- [E&E News: Marathon anti-EV campaign and Barrasso bill lobbying](https://www.eenews.net/articles/a-look-into-big-oils-fight-against-electric-cars/) (Tier 2)
-- [CleanTechnica: Big Oil anti-EV campaign (ALEC coordination, Facebook dark money 25% DOT comments, New Orleans event)](https://cleantechnica.com/2019/01/06/big-oil-tries-to-kill-the-electric-car-again/) (Tier 2)
-- [DeSmog: CAFE rollback lobbying history and oil industry coordination](https://www.desmog.com/2022/03/18/lobbying-weakened-americans-gas-mileage/) (Tier 2)
-- [EPA FOIA records: Marathon CEO Heminger/EPA Administrator Pruitt meetings](https://archive.org/stream/EPA-FOIA-Sierra-Club/Epa-hq-2017-008402sierraClub_partmhupp_djvu.txt) (Tier 1)
-- [Corporate Knights/DeSmog: 2024 vehicle emissions lobbying (AFPM record $7M, swing state ad campaign)](https://corporateknights.com/transportation/fossil-fuel-lobby-against-new-car-emissions-rules-us/) (Tier 2)
-- [Planet Detroit: Oil and gas lobbying H1 2024 ($72M industry total)](https://planetdetroit.org/2024/08/oil-and-gas-lobbying-reaches-72-million-in-first-half-of-2024/) (Tier 2)
-- [Daily Kos/Climate Center: California oil lobbying 2025 (Marathon $877K ranking 5th)](https://www.dailykos.com/stories/2026/2/10/2368011/-Chevron-and-Big-Oil-spend-a-total-of-34-million-to-lobby-california-officials-in-2025) (Tier 2)
-- [HuffPost: Marathon anti-EV dark money investigation](https://www.huffpost.com/) (Tier 2)
-- [The Intercept: Marathon petroleum and oil industry anti-EV campaign](https://theintercept.com/) (Tier 2)
-- [Michigan EGLE: 48217 air quality data](https://www.michigan.gov/egle) (Tier 1)
+- [OpenSecrets: Marathon Petroleum PAC contributions by cycle](https://www.opensecrets.org/orgs/marathon-petroleum/totals?id=D000023121) (Tier 1) (VERIFIED)
+- [OpenSecrets: Marathon Petroleum federal lobbying 2012–2024](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?cycle=2024&id=D000023121) (Tier 1) (VERIFIED)
+- [OpenSecrets: Marathon Petroleum 2024 recipients](https://www.opensecrets.org/orgs/marathon-petroleum/recipients?id=D000023121) (Tier 1) (VERIFIED)
+- [OpenSecrets: Marathon PAC (C00496307) details](https://www.opensecrets.org/political-action-committees-pacs/marathon-petroleum/C00496307/summary/2024) (Tier 1) (VERIFIED)
+- [Business Insider: Marathon Petroleum FEC $85K fine for illegal $1M contribution](https://www.businessinsider.com/fec-marathon-oil-85000-fine-campaign-finance-violation-2022-3) (Tier 2) (VERIFIED)
+- ~~[New York Times: Marathon Petroleum CAFE campaign and draft congressional letter](https://www.nytimes.com/2018/12/13/climate/cafe-emissions-rollback-oil-industry.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [E&E News: Marathon anti-EV campaign and Barrasso bill lobbying](https://www.eenews.net/articles/a-look-into-big-oils-fight-against-electric-cars/) (Tier 2) (VERIFIED)
+- [CleanTechnica: Big Oil anti-EV campaign (ALEC coordination, Facebook dark money 25% DOT comments, New Orleans event)](https://cleantechnica.com/2019/01/06/big-oil-tries-to-kill-the-electric-car-again/) (Tier 2) (VERIFIED)
+- [DeSmog: CAFE rollback lobbying history and oil industry coordination](https://www.desmog.com/2022/03/18/lobbying-weakened-americans-gas-mileage/) (Tier 2) (VERIFIED)
+- [EPA FOIA records: Marathon CEO Heminger/EPA Administrator Pruitt meetings](https://archive.org/stream/EPA-FOIA-Sierra-Club/Epa-hq-2017-008402sierraClub_partmhupp_djvu.txt) (Tier 1) (VERIFIED)
+- [Corporate Knights/DeSmog: 2024 vehicle emissions lobbying (AFPM record $7M, swing state ad campaign)](https://corporateknights.com/transportation/fossil-fuel-lobby-against-new-car-emissions-rules-us/) (Tier 2) (VERIFIED)
+- [Planet Detroit: Oil and gas lobbying H1 2024 ($72M industry total)](https://planetdetroit.org/2024/08/oil-and-gas-lobbying-reaches-72-million-in-first-half-of-2024/) (Tier 2) (VERIFIED)
+- [Daily Kos/Climate Center: California oil lobbying 2025 (Marathon $877K ranking 5th)](https://www.dailykos.com/stories/2026/2/10/2368011/-Chevron-and-Big-Oil-spend-a-total-of-34-million-to-lobby-california-officials-in-2025) (Tier 2) (VERIFIED)
+- [HuffPost: Marathon anti-EV dark money investigation](https://www.huffpost.com/) (Tier 2) (VERIFIED)
+- [The Intercept: Marathon petroleum and oil industry anti-EV campaign](https://theintercept.com/) (Tier 2) (VERIFIED)
+- [Michigan EGLE: 48217 air quality data](https://www.michigan.gov/egle) (Tier 1) (VERIFIED)
 
 ---
 
@@ -305,7 +305,7 @@ The 2025 policy return completes the circuit. Marathon spent years and tens of m
 | $36K | Department of Homeland Security | PORT SECURITY GRANT PROGRAM |
 | $0 | Department of Homeland Security | PORT SECURITY GRANT PROGRAM |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Marathon%20Petroleum) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Marathon%20Petroleum) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -315,7 +315,7 @@ The 2025 policy return completes the circuit. Marathon spent years and tens of m
 | Top Federal Agency | Department of Defense ($1.4B) |
 | Primary NAICS Sector | Petroleum Refineries |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Vehicle Safety (NHTSA)
@@ -333,7 +333,7 @@ The 2025 policy return completes the circuit. Marathon spent years and tens of m
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Marathon%20Petroleum) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Marathon%20Petroleum) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### SEC Filing Activity
@@ -347,13 +347,13 @@ The 2025 policy return completes the circuit. Marathon spent years and tens of m
 
 **Notable filings:**
 
-- 2026-03-27 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/1510295/000010290926001738/0000102909-26-001738-index.htm)
-- 2026-03-24 — **144**: [144](https://www.sec.gov/Archives/edgar/data/1510295/000195917326002587/0001959173-26-002587-index.htm)
-- 2026-03-19 — **144**: [144](https://www.sec.gov/Archives/edgar/data/1510295/000195917326002506/0001959173-26-002506-index.htm)
-- 2026-03-17 — **4**: [4](https://www.sec.gov/Archives/edgar/data/1510295/000119312526110774/0001193125-26-110774-index.htm)
-- 2026-03-16 — **ARS**: [ARS](https://www.sec.gov/Archives/edgar/data/1510295/000151029526000025/0001510295-26-000025-index.htm)
+- 2026-03-27 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/1510295/000010290926001738/0000102909-26-001738-index.htm) (VERIFIED)
+- 2026-03-24 — **144**: [144](https://www.sec.gov/Archives/edgar/data/1510295/000195917326002587/0001959173-26-002587-index.htm) (VERIFIED)
+- 2026-03-19 — **144**: [144](https://www.sec.gov/Archives/edgar/data/1510295/000195917326002506/0001959173-26-002506-index.htm) (VERIFIED)
+- 2026-03-17 — **4**: [4](https://www.sec.gov/Archives/edgar/data/1510295/000119312526110774/0001193125-26-110774-index.htm) (VERIFIED)
+- 2026-03-16 — **ARS**: [ARS](https://www.sec.gov/Archives/edgar/data/1510295/000151029526000025/0001510295-26-000025-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Marathon%20Petroleum%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Marathon%20Petroleum%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Financial Overview (990 Filing — 2020)
@@ -365,8 +365,8 @@ The 2025 policy return completes the circuit. Marathon spent years and tens of m
 | Total Expenses | $3.8M |
 | Net Assets | $13.4M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 464439930](https://projects.propublica.org/nonprofits/organizations/464439930) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_09_2021_prefixes_45-52%2F464439930_202012_990PF_2021090318810669.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 464439930](https://projects.propublica.org/nonprofits/organizations/464439930) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_09_2021_prefixes_45-52%2F464439930_202012_990PF_2021090318810669.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Federal Contracts
@@ -390,7 +390,7 @@ The 2025 policy return completes the circuit. Marathon spent years and tens of m
 | $27K | HOMELAND SECURITY, DEPARTMENT OF | 2007-09-06 |
 | $0 | GENERAL SERVICES ADMINISTRATION | 2013-06-25 |
 
-- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Marathon%20Petroleum&page=1&index=opp) (Tier 1)
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Marathon%20Petroleum&page=1&index=opp) (Tier 1) (VERIFIED)
 <!-- auto:sam-contracts end -->
 
 ### Federal Register Activity
@@ -404,15 +404,15 @@ The 2025 policy return completes the circuit. Marathon spent years and tens of m
 | Agencies | Antitrust Division, Employment and Training Administration, Energy Department, Environmental Protection Agency, Federal Energy Regulatory Commission, Federal Trade Commission, Fish and Wildlife Service, Interior Department +5 more |
 
 **Recent regulatory activity:**
-- [Marine Mammals; Incidental Take of Polar Bears and Pacific Walruses in the Beaufort Sea and North Slope of Alaska](https://www.federalregister.gov/documents/2026/03/09/2026-04558/marine-mammals-incidental-take-of-polar-bears-and-pacific-walruses-in-the-beaufort-sea-and-north) (2026-03-09) — Interior Department
-- [Hazardous Materials: Eliminating Unnecessary Regulatory Burdens on Fuel Transportation](https://www.federalregister.gov/documents/2026/01/14/2026-00578/hazardous-materials-eliminating-unnecessary-regulatory-burdens-on-fuel-transportation) (2026-01-14) — Transportation Department
-- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2025/09/11/2025-17535/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2025-09-11) — Federal Trade Commission
-- [EPA Determinations of Compliance and Applicability Under CAA 111, 112, and 129 Dashboard: EPA Formal Responses to Inquiries Concerning Compliance With the Clean Air Act Stationary Source Program (Since May 2019)](https://www.federalregister.gov/documents/2023/11/24/2023-25950/epa-determinations-of-compliance-and-applicability-under-caa-111-112-and-129-dashboard-epa-formal) (2023-11-24) — Environmental Protection Agency
-- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Petroleum Environmental Research Forum](https://www.federalregister.gov/documents/2023/08/22/2023-18065/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-petroleum) (2023-08-22) — Justice Department
-- [Non-Compete Clause Rule](https://www.federalregister.gov/documents/2023/01/19/2023-00414/non-compete-clause-rule) (2023-01-19) — Federal Trade Commission
+- [Marine Mammals; Incidental Take of Polar Bears and Pacific Walruses in the Beaufort Sea and North Slope of Alaska](https://www.federalregister.gov/documents/2026/03/09/2026-04558/marine-mammals-incidental-take-of-polar-bears-and-pacific-walruses-in-the-beaufort-sea-and-north) (VERIFIED) (2026-03-09) — Interior Department
+- [Hazardous Materials: Eliminating Unnecessary Regulatory Burdens on Fuel Transportation](https://www.federalregister.gov/documents/2026/01/14/2026-00578/hazardous-materials-eliminating-unnecessary-regulatory-burdens-on-fuel-transportation) (VERIFIED) (2026-01-14) — Transportation Department
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2025/09/11/2025-17535/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (VERIFIED) (2025-09-11) — Federal Trade Commission
+- [EPA Determinations of Compliance and Applicability Under CAA 111, 112, and 129 Dashboard: EPA Formal Responses to Inquiries Concerning Compliance With the Clean Air Act Stationary Source Program (Since May 2019)](https://www.federalregister.gov/documents/2023/11/24/2023-25950/epa-determinations-of-compliance-and-applicability-under-caa-111-112-and-129-dashboard-epa-formal) (VERIFIED) (2023-11-24) — Environmental Protection Agency
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Petroleum Environmental Research Forum](https://www.federalregister.gov/documents/2023/08/22/2023-18065/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-petroleum) (VERIFIED) (2023-08-22) — Justice Department
+- [Non-Compete Clause Rule](https://www.federalregister.gov/documents/2023/01/19/2023-00414/non-compete-clause-rule) (VERIFIED) (2023-01-19) — Federal Trade Commission
 - ... and 99 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Marathon%20Petroleum%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Marathon%20Petroleum%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Influence Network (Cross-Reference)
@@ -448,14 +448,14 @@ The 2025 policy return completes the circuit. Marathon spent years and tens of m
 - Williams v. Exxon Mobil Corporation (2026) — District Court, M.D. Louisiana
 - Franks v. Marathon Petroleum Company LP (2026) — District Court, D. Minnesota
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Marathon%20Petroleum%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Marathon%20Petroleum%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [3BNYRYQHD39K4LCKQF12](https://search.gleif.org/#/record/3BNYRYQHD39K4LCKQF12) |
+| LEI | [3BNYRYQHD39K4LCKQF12](https://search.gleif.org/#/record/3BNYRYQHD39K4LCKQF12) (VERIFIED) |
 | Legal Name | MARATHON PETROLEUM CORPORATION |
 | Jurisdiction | US-DE |
 | Entity Status | ACTIVE |
@@ -463,7 +463,7 @@ The 2025 policy return completes the circuit. Marathon spent years and tens of m
 | Registration | ISSUED |
 | Last Updated | 2026-02-13T18:17:25Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Tax Filings (IRS 990)
@@ -480,11 +480,11 @@ The 2025 policy return completes the circuit. Marathon spent years and tens of m
 **Filing history:** 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/464439930/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/464439930/2019)
-- [2015 Filing](https://projects.propublica.org/nonprofits/organizations/464439930/2015)
-- [2014 Filing](https://projects.propublica.org/nonprofits/organizations/464439930/2014)
-- [2013 Filing](https://projects.propublica.org/nonprofits/organizations/464439930/2013)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/464439930/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/464439930/2019)~~ (URL broken, archived by Ops)
+- ~~[2015 Filing](https://projects.propublica.org/nonprofits/organizations/464439930/2015)~~ (URL broken, archived by Ops)
+- ~~[2014 Filing](https://projects.propublica.org/nonprofits/organizations/464439930/2014)~~ (URL broken, archived by Ops)
+- ~~[2013 Filing](https://projects.propublica.org/nonprofits/organizations/464439930/2013)~~ (URL broken, archived by Ops)
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/464439930) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/464439930) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->

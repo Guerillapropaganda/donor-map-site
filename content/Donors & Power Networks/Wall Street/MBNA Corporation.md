@@ -82,9 +82,9 @@ The MBNA-Biden relationship is the most documented donor-policy pipeline in Bide
 
 ### Sources
 
-- [FEC Candidate: Joe Biden career donors - MBNA](https://www.fec.gov/data/candidate/P60012143/) (Tier 1)
-- [Congress.gov: Bankruptcy Abuse Prevention Act S. 256](https://www.congress.gov/bill/109th-congress/senate-bill/256) (Tier 1)
-- [Ballotpedia: 2005 Bankruptcy Act](https://ballotpedia.org/MBNA_Corporation) (Tier 3)
+- [FEC Candidate: Joe Biden career donors - MBNA](https://www.fec.gov/data/candidate/P60012143/) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: Bankruptcy Abuse Prevention Act S. 256](https://www.congress.gov/bill/109th-congress/senate-bill/256)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Ballotpedia: 2005 Bankruptcy Act](https://ballotpedia.org/MBNA_Corporation) (Tier 3) (VERIFIED)
 
 ### Financial Overview (990 Filing — 2020)
 <!-- auto:propublica-990 start -->
@@ -95,15 +95,15 @@ The MBNA-Biden relationship is the most documented donor-policy pipeline in Bide
 | Total Expenses | $0 |
 | Net Assets | $344 |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 842588790](https://projects.propublica.org/nonprofits/organizations/842588790) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_05_2022_prefixes_81-99%2F842588790_202012_990EZ_2022052420133297.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 842588790](https://projects.propublica.org/nonprofits/organizations/842588790) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_05_2022_prefixes_81-99%2F842588790_202012_990EZ_2022052420133297.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [9SRTZ2L9ZJUILAT91D80](https://search.gleif.org/#/record/9SRTZ2L9ZJUILAT91D80) |
+| LEI | [9SRTZ2L9ZJUILAT91D80](https://search.gleif.org/#/record/9SRTZ2L9ZJUILAT91D80) (VERIFIED) |
 | Legal Name | MBNA Corporation Pension Plan |
 | Jurisdiction | US |
 | Entity Status | INACTIVE |
@@ -111,7 +111,7 @@ The MBNA-Biden relationship is the most documented donor-policy pipeline in Bide
 | Registration | RETIRED |
 | Last Updated | 2024-12-13T18:56:58Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Vehicle Safety (NHTSA)
@@ -129,7 +129,7 @@ The MBNA-Biden relationship is the most documented donor-policy pipeline in Bide
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=MBNA%20Corporation) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=MBNA%20Corporation) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### SEC Filing Activity
@@ -147,7 +147,7 @@ The MBNA-Biden relationship is the most documented donor-policy pipeline in Bide
 - 2004-04-22 — **EX-99**: EXHIBIT 99.1
 - 2006-06-29 — **11-K**: FORM 11-K
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22MBNA%20Corporation%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22MBNA%20Corporation%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### OCC Enforcement Actions
@@ -168,10 +168,10 @@ The MBNA-Biden relationship is the most documented donor-policy pipeline in Bide
 
 **Still-active enforcement actions:**
 
-- [AA-EC-06-40: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2006-132.pdf) (07/28/2006)
-- [: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2002-31.pdf) (04/08/2002)
-- [: C&D or PC&D Requiring Restitution](https://www.occ.gov/static/enforcement-actions/ea2002-31.pdf) (04/08/2002) — $11,305
-- [: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2000-35.pdf) (04/07/2000)
+- [AA-EC-06-40: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2006-132.pdf) (VERIFIED) (07/28/2006)
+- [: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2002-31.pdf) (VERIFIED) (04/08/2002)
+- [: C&D or PC&D Requiring Restitution](https://www.occ.gov/static/enforcement-actions/ea2002-31.pdf) (VERIFIED) (04/08/2002) — $11,305
+- [: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2000-35.pdf) (VERIFIED) (04/07/2000)
 
 **Recent enforcement history:**
 
@@ -180,5 +180,5 @@ The MBNA-Biden relationship is the most documented donor-policy pipeline in Bide
 - [: C&D or PC&D Requiring Restitution](https://www.occ.gov/static/enforcement-actions/ea2002-31.pdf) (04/08/2002) — $11,305
 - [: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2000-35.pdf) (04/07/2000)
 
-- [Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=MBNA%20Corporation&srt=1&pg=1&pgsz=25&isAdv=false) (Tier 1)
+- ~~[Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=MBNA%20Corporation&srt=1&pg=1&pgsz=25&isAdv=false)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:occ-enforcement end -->

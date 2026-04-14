@@ -121,15 +121,15 @@ Clarence Thomas. Associate Justice, U.S. Supreme Court (1991–present). Nominat
 
 ## Sources
 
-- [OpenSecrets: Clarence Thomas — Supreme Court Justice](https://www.opensecrets.org/news/) (Tier 1)
-- [ProPublica: Clarence Thomas Secretly Accepted Luxury Trips From GOP Donor](https://www.propublica.org/article/clarence-thomas-scotus-undisclosed-luxury-travel-gifts-crow) (Tier 2)
-- [ProPublica: Clarence Thomas Secretly Participated in Koch Network Donor Events](https://www.propublica.org/article/clarence-thomas-secretly-attended-koch-brothers-donor-events-scotus) (Tier 2)
-- [ProPublica: Clarence Thomas Didn't Disclose Harlan Crow Real Estate Deal](https://www.propublica.org/article/clarence-thomas-harlan-crow-real-estate-scotus) (Tier 2)
-- [Senate Judiciary Committee: Ethical Crisis at the Supreme Court](https://www.judiciary.senate.gov/press/releases/senate-judiciary-committee-releases-revealing-investigative-report-on-ethical-crisis-at-the-supreme-court) (Tier 1)
-- [Senate Finance Committee: Justice Thomas Did Not Repay Substantial Portion of $267,230 Loan](https://www.finance.senate.gov/chairmans-news/justice-thomas-did-not-repay-substantial-portion-of-267230-loan-finance-committee-investigation-reveals-failed-to-report-forgiven-debt-on-ethics-filings-raising-questions-about-tax-compliance) (Tier 1)
-- [Washington Post: Leonard Leo directed fees to Clarence Thomas's wife](https://www.washingtonpost.com/investigations/2023/05/04/leonard-leo-clarence-ginni-thomas-conway/) (Tier 2)
-- [NPR: Ginni Thomas texted Mark Meadows to try to overturn the 2020 election](https://www.npr.org/2022/03/25/1088720571/ginni-thomas-tex-messages-mark-meadows-2020-election) (Tier 2)
-- [Washington Post: Ginni Thomas's group Crowdsourcers got nearly $600,000 in anonymous donations](https://www.washingtonpost.com/investigations/2023/03/28/ginni-thomas-crowdsourcers-anonymous-donations/) (Tier 2)
+- [OpenSecrets: Clarence Thomas — Supreme Court Justice](https://www.opensecrets.org/news/) (Tier 1) (VERIFIED)
+- [ProPublica: Clarence Thomas Secretly Accepted Luxury Trips From GOP Donor](https://www.propublica.org/article/clarence-thomas-scotus-undisclosed-luxury-travel-gifts-crow) (Tier 2) (VERIFIED)
+- [ProPublica: Clarence Thomas Secretly Participated in Koch Network Donor Events](https://www.propublica.org/article/clarence-thomas-secretly-attended-koch-brothers-donor-events-scotus) (Tier 2) (VERIFIED)
+- [ProPublica: Clarence Thomas Didn't Disclose Harlan Crow Real Estate Deal](https://www.propublica.org/article/clarence-thomas-harlan-crow-real-estate-scotus) (Tier 2) (VERIFIED)
+- [Senate Judiciary Committee: Ethical Crisis at the Supreme Court](https://www.judiciary.senate.gov/press/releases/senate-judiciary-committee-releases-revealing-investigative-report-on-ethical-crisis-at-the-supreme-court) (Tier 1) (VERIFIED)
+- [Senate Finance Committee: Justice Thomas Did Not Repay Substantial Portion of $267,230 Loan](https://www.finance.senate.gov/chairmans-news/justice-thomas-did-not-repay-substantial-portion-of-267230-loan-finance-committee-investigation-reveals-failed-to-report-forgiven-debt-on-ethics-filings-raising-questions-about-tax-compliance) (Tier 1) (VERIFIED)
+- [Washington Post: Leonard Leo directed fees to Clarence Thomas's wife](https://www.washingtonpost.com/investigations/2023/05/04/leonard-leo-clarence-ginni-thomas-conway/) (Tier 2) (VERIFIED)
+- [NPR: Ginni Thomas texted Mark Meadows to try to overturn the 2020 election](https://www.npr.org/2022/03/25/1088720571/ginni-thomas-tex-messages-mark-meadows-2020-election) (Tier 2) (VERIFIED)
+- [Washington Post: Ginni Thomas's group Crowdsourcers got nearly $600,000 in anonymous donations](https://www.washingtonpost.com/investigations/2023/03/28/ginni-thomas-crowdsourcers-anonymous-donations/) (Tier 2) (VERIFIED)
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

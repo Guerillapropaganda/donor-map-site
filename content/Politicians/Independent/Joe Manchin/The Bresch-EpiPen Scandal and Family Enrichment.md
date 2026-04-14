@@ -60,8 +60,8 @@ Despite his daughter's pharmaceutical career, Manchin has never recused himself 
 
 ### Sources
 
-- [House Oversight Committee: Reviewing the Rising Price of EpiPens hearing](https://oversight.house.gov/hearing/reviewing-rising-price-epipens-2/) (Tier 1)
-- [Testimony of Mylan CEO Heather Bresch](https://oversight.house.gov/wp-content/uploads/2016/09/2016-09-21-Mylan-CEO-Bresch-Testimony.pdf) (Tier 1)
-- [Washington Post: CEO at center of EpiPen price hike controversy is Sen. Joe Manchin's daughter](https://www.washingtonpost.com/news/powerpost/wp/2016/08/24/ceo-at-center-of-epipen-price-hike-controversy-is-sen-joe-manchins-daughter/) (Tier 2)
-- [The Intercept: Heather Bresch played direct part in EpiPen price inflation](https://theintercept.com/2021/09/07/joe-manchin-epipen-price-heather-bresch/) (Tier 2)
-- [OpenSecrets: Manchin received large campaign contributions from daughter's company](https://www.opensecrets.org/news/2021/09/manchin-large-campaign-contributions-epipen-scandal/) (Tier 1)
+- [House Oversight Committee: Reviewing the Rising Price of EpiPens hearing](https://oversight.house.gov/hearing/reviewing-rising-price-epipens-2/) (Tier 1) (VERIFIED)
+- [Testimony of Mylan CEO Heather Bresch](https://oversight.house.gov/wp-content/uploads/2016/09/2016-09-21-Mylan-CEO-Bresch-Testimony.pdf) (Tier 1) (VERIFIED)
+- [Washington Post: CEO at center of EpiPen price hike controversy is Sen. Joe Manchin's daughter](https://www.washingtonpost.com/news/powerpost/wp/2016/08/24/ceo-at-center-of-epipen-price-hike-controversy-is-sen-joe-manchins-daughter/) (Tier 2) (VERIFIED)
+- [The Intercept: Heather Bresch played direct part in EpiPen price inflation](https://theintercept.com/2021/09/07/joe-manchin-epipen-price-heather-bresch/) (Tier 2) (VERIFIED)
+- [OpenSecrets: Manchin received large campaign contributions from daughter's company](https://www.opensecrets.org/news/2021/09/manchin-large-campaign-contributions-epipen-scandal/) (Tier 1) (VERIFIED)

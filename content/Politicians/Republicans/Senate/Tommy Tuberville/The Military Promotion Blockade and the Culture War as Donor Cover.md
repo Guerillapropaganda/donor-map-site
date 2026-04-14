@@ -87,10 +87,10 @@ The abortion issue was genuine in the sense that Tuberville believes what he say
 
 ### Sources
 
-- [NPR: Tuberville drops remaining holds on military promotions](https://www.npr.org/2023/12/19/1220492250/tuberville-drops-blockade-military-promotions) (Tier 1)
-- [NPR: How Tuberville is holding up military promotions over abortion policy](https://www.npr.org/2023/07/15/1187530846/tuberville-senate-rules-abortion-military) (Tier 1)
-- [PBS NewsHour: What Tuberville's blockade means for the Pentagon](https://www.pbs.org/newshour/politics/what-tubervilles-blockade-of-military-promotions-means-for-the-pentagon) (Tier 2)
-- [Al Jazeera: Senator stalls U.S. military promotions in anti-abortion standoff](https://www.aljazeera.com/news/2023/7/10/senator-stalls-us-military-promotions-in-anti-abortion-standoff) (Tier 2)
-- [Alabama Reporter: Defense contractors donated during promotions hold](https://www.alreporter.com/2023/10/11/report-tuberville-got-financial-support-from-defense-contractors-amid-confirmations-hold/) (Tier 2)
-- [Alabama Reflector: Tuberville relents on blockade, blames Democrats](https://alabamareflector.com/2023/12/05/tuberville-relents-on-months-long-blockade-of-most-military-nominees-blaming-democrats/) (Tier 2)
-- [Bloomberg: Tuberville demands Senate vote on Pentagon abortion policy](https://www.bloomberg.com/news/articles/2023-09-12/tuberville-demands-a-senate-vote-on-pentagon-abortion-policy) (Tier 2)
+- [NPR: Tuberville drops remaining holds on military promotions](https://www.npr.org/2023/12/19/1220492250/tuberville-drops-blockade-military-promotions) (Tier 1) (VERIFIED)
+- [NPR: How Tuberville is holding up military promotions over abortion policy](https://www.npr.org/2023/07/15/1187530846/tuberville-senate-rules-abortion-military) (Tier 1) (VERIFIED)
+- [PBS NewsHour: What Tuberville's blockade means for the Pentagon](https://www.pbs.org/newshour/politics/what-tubervilles-blockade-of-military-promotions-means-for-the-pentagon) (Tier 2) (VERIFIED)
+- [Al Jazeera: Senator stalls U.S. military promotions in anti-abortion standoff](https://www.aljazeera.com/news/2023/7/10/senator-stalls-us-military-promotions-in-anti-abortion-standoff) (Tier 2) (VERIFIED)
+- [Alabama Reporter: Defense contractors donated during promotions hold](https://www.alreporter.com/2023/10/11/report-tuberville-got-financial-support-from-defense-contractors-amid-confirmations-hold/) (Tier 2) (VERIFIED)
+- [Alabama Reflector: Tuberville relents on blockade, blames Democrats](https://alabamareflector.com/2023/12/05/tuberville-relents-on-months-long-blockade-of-most-military-nominees-blaming-democrats/) (Tier 2) (VERIFIED)
+- ~~[Bloomberg: Tuberville demands Senate vote on Pentagon abortion policy](https://www.bloomberg.com/news/articles/2023-09-12/tuberville-demands-a-senate-vote-on-pentagon-abortion-policy)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)

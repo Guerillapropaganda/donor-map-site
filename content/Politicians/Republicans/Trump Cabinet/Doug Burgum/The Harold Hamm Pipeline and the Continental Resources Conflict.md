@@ -61,4 +61,4 @@ Kathryn Burgum owns approximately $250,000 in fossil fuel company stock across n
 
 ### Sources
 
-- [E&E News: Oil and gas drilling permits surge 55% under Trump](https://www.eenews.net/articles/oil-and-gas-drilling-permits-surge-55-under-trump/) (Tier 2)
+- [E&E News: Oil and gas drilling permits surge 55% under Trump](https://www.eenews.net/articles/oil-and-gas-drilling-permits-surge-55-under-trump/) (Tier 2) (VERIFIED)

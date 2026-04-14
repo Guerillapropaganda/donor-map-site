@@ -80,7 +80,7 @@ Booz Allen PAC contributes $1-2 million per cycle, with lobbying spending of $3-
 
 Booz Allen gained public notoriety in 2013 when employee Edward Snowden leaked classified NSA surveillance documents, revealing mass domestic surveillance programs. Snowden was a Booz Allen contractor assigned to the NSA, illustrating the deep integration between private contractors and intelligence operations.
 
-- [OpenSecrets: Booz Allen Hamilton organizational profile](https://www.opensecrets.org/orgs/booz-allen-hamilton/summary?id=D000036824) (Tier 1)
+- [OpenSecrets: Booz Allen Hamilton organizational profile](https://www.opensecrets.org/orgs/booz-allen-hamilton/summary?id=D000036824) (Tier 1) (VERIFIED)
 
 ---
 
@@ -104,7 +104,7 @@ Sustained and increased federal IT spending, expanded cybersecurity contracts, f
 ### Sources
 
 - [OpenSecrets: Booz Allen Hamilton organizational profile](https://www.opensecrets.org/orgs/booz-allen-hamilton/summary?id=D000036824) (Tier 1)
-- [Ballotpedia: Booz Allen Hamilton](https://ballotpedia.org/Booz_Allen_Hamilton) (Tier 3)
+- [Ballotpedia: Booz Allen Hamilton](https://ballotpedia.org/Booz_Allen_Hamilton) (Tier 3) (VERIFIED)
 
 ---
 
@@ -136,7 +136,7 @@ Sustained and increased federal IT spending, expanded cybersecurity contracts, f
 
 **Agencies contacted:** Central Intelligence Agency (CIA), Defense, Dept of (DOD), Energy, Dept of, HOUSE OF REPRESENTATIVES, Homeland Security, Dept of (DHS), Interior, Dept of (DOI), Natl Institute of Standards & Technology (NIST), Office of Management & Budget (OMB), SENATE, Treasury, Dept of +2 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Booz%20Allen%20Hamilton) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Booz%20Allen%20Hamilton) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Federal Register Activity
@@ -150,15 +150,15 @@ Sustained and increased federal IT spending, expanded cybersecurity contracts, f
 | Agencies | Antitrust Division, Commerce Department, Copyright Office, Library of Congress, Executive Office for Immigration Review, Food and Drug Administration, Health and Human Services Department, Industry and Security Bureau, International Trade Administration +5 more |
 
 **Recent regulatory activity:**
-- [Copyright Office Fees](https://www.federalregister.gov/documents/2026/03/20/2026-05529/copyright-office-fees) (2026-03-20) — Library of Congress
-- [HIRE Vets Medallion Program-Announcement of HIRE Vets Medallion Award Recipients](https://www.federalregister.gov/documents/2026/03/10/2026-04653/hire-vets-medallion-program-announcement-of-hire-vets-medallion-award-recipients) (2026-03-10) — Labor Department
-- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Expeditionary Missions Consortium-Crane](https://www.federalregister.gov/documents/2025/04/23/2025-06924/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-expeditionary) (2025-04-23) — Justice Department
-- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-The Open Group, L.L.C.](https://www.federalregister.gov/documents/2025/01/27/2025-01727/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-the-open-group-llc) (2025-01-27) — Justice Department
-- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Defense Industrial Based Consortium](https://www.federalregister.gov/documents/2025/01/24/2025-01712/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-defense-industrial) (2025-01-24) — Justice Department
-- [Validation of Certain In Vitro Diagnostic Devices for Emerging Pathogens During a Section 564 Declared Emergency; Draft Guidance for Industry and Food and Drug Administration Staff; Availability](https://www.federalregister.gov/documents/2025/01/07/2024-31522/validation-of-certain-in-vitro-diagnostic-devices-for-emerging-pathogens-during-a-section-564) (2025-01-07) — Health and Human Services Department
+- [Copyright Office Fees](https://www.federalregister.gov/documents/2026/03/20/2026-05529/copyright-office-fees) (VERIFIED) (2026-03-20) — Library of Congress
+- [HIRE Vets Medallion Program-Announcement of HIRE Vets Medallion Award Recipients](https://www.federalregister.gov/documents/2026/03/10/2026-04653/hire-vets-medallion-program-announcement-of-hire-vets-medallion-award-recipients) (VERIFIED) (2026-03-10) — Labor Department
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Expeditionary Missions Consortium-Crane](https://www.federalregister.gov/documents/2025/04/23/2025-06924/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-expeditionary) (VERIFIED) (2025-04-23) — Justice Department
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-The Open Group, L.L.C.](https://www.federalregister.gov/documents/2025/01/27/2025-01727/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-the-open-group-llc) (VERIFIED) (2025-01-27) — Justice Department
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Defense Industrial Based Consortium](https://www.federalregister.gov/documents/2025/01/24/2025-01712/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-defense-industrial) (VERIFIED) (2025-01-24) — Justice Department
+- [Validation of Certain In Vitro Diagnostic Devices for Emerging Pathogens During a Section 564 Declared Emergency; Draft Guidance for Industry and Food and Drug Administration Staff; Availability](https://www.federalregister.gov/documents/2025/01/07/2024-31522/validation-of-certain-in-vitro-diagnostic-devices-for-emerging-pathogens-during-a-section-564) (VERIFIED) (2025-01-07) — Health and Human Services Department
 - ... and 133 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Booz%20Allen%20Hamilton%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Booz%20Allen%20Hamilton%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Influence Network (Cross-Reference)
@@ -187,13 +187,13 @@ Sustained and increased federal IT spending, expanded cybersecurity contracts, f
 
 **Notable filings:**
 
-- 2026-04-07 — **144**: [144](https://www.sec.gov/Archives/edgar/data/1443646/000195917326002809/0001959173-26-002809-index.htm)
-- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1443646/000193176626000003/0001931766-26-000003-index.htm)
-- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1443646/000205029926000003/0002050299-26-000003-index.htm)
-- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1443646/000194081226000003/0001940812-26-000003-index.htm)
-- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1443646/000158811026000004/0001588110-26-000004-index.htm)
+- 2026-04-07 — **144**: [144](https://www.sec.gov/Archives/edgar/data/1443646/000195917326002809/0001959173-26-002809-index.htm) (VERIFIED)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1443646/000193176626000003/0001931766-26-000003-index.htm) (VERIFIED)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1443646/000205029926000003/0002050299-26-000003-index.htm) (VERIFIED)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1443646/000194081226000003/0001940812-26-000003-index.htm) (VERIFIED)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1443646/000158811026000004/0001588110-26-000004-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Booz%20Allen%20Hamilton%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Booz%20Allen%20Hamilton%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Federal Spending (USASpending)
@@ -222,7 +222,7 @@ Sustained and increased federal IT spending, expanded cybersecurity contracts, f
 | $2.0M | Department of Commerce | PURPOSE: THE RESEARCH EFFORT SEEKS TO MATERIALLY ADVANCE THE STATE-OF-THE-ART SECURITY OF O-RAN ENAB |
 | $0 | Department of Commerce | PURPOSE: THE RESEARCH EFFORT SEEKS TO MATERIALLY ADVANCE THE STATE-OF-THE-ART SECURITY OF O-RAN ENAB |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/ed02855e-60d7-2540-e3d7-18fba1dd1316-P/latest) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/ed02855e-60d7-2540-e3d7-18fba1dd1316-P/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### DOJ Press Releases
@@ -284,5 +284,5 @@ Sustained and increased federal IT spending, expanded cybersecurity contracts, f
 | Wired Telecommunications Carriers (517110) | $407.8M |
 | Other Computer Related Services (541519) | $227.2M |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->

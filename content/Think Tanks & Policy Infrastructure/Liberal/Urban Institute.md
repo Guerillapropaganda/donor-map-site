@@ -195,27 +195,27 @@ The Urban Institute is the institutional embodiment of American liberalism's cor
 
 ### Sources
 
-- [ProPublica Nonprofit Explorer: Urban Institute (EIN 52-0880375)](https://projects.propublica.org/nonprofits/organizations/520880375) (Tier 1)
-- [Wikipedia: Urban Institute](https://en.wikipedia.org/wiki/Urban_Institute) (Tier 3)
-- [InfluenceWatch: Urban Institute](https://www.influencewatch.org/non-profit/urban-institute/) (Tier 3)
-- [Media Bias/Fact Check: Urban Institute](https://mediabiasfactcheck.com/urban-institute/) (Tier 3)
-- [MacArthur Foundation: Urban Institute Grant](https://www.macfound.org/grantee/urban-institute-23/) (Tier 1)
-- [Urban Institute: Organizational Principles](https://www.urban.org/about/organizational-principles) (Tier 3)
-- [Tax Policy Center: About](https://taxpolicycenter.org/about) (Tier 3)
-- [Urban Institute: The Transfer Income Model (TRIM)](https://www.urban.org/research/data-methods/data-analysis/quantitative-data-analysis/microsimulation/transfer-income-model-trim) (Tier 3)
-- [Urban Institute: Sarah Rosen Wartell biography](https://www.urban.org/author/sarah-rosen-wartell) (Tier 3)
-- [Wikipedia: Tax Policy Center](https://en.wikipedia.org/wiki/Tax_Policy_Center) (Tier 3)
-- [Urban Institute: 2024 Financial Report](https://www.urban.org/sites/default/files/2025-11/Urban-Institute-2024-Financials.pdf) (Tier 1)
-- [USAspending.gov: Urban Institute Federal Awards](https://www.usaspending.gov/search/?filters=%7B%22keyword%22%3A%22Urban+Institute%22%7D) (Tier 1)
-- [HigherGov: List of All Contracts Terminated by DOGE](https://www.highergov.com/news/list-of-all-contracts-terminated-by-doge-6287413) (Tier 2)
-- [Urban Institute: How Government Funding Disruptions Affected Nonprofits in Early 2025. Urban's own survey documenting federal funding crisis](https://www.urban.org/research/publication/how-government-funding-disruptions-affected-nonprofits-early-2025) (Tier 3)
-- [Brookings: The Fifth Estate. Think Tanks, Public Policy, and Governance, academic analysis of think tank government dependency](https://www.brookings.edu/wp-content/uploads/2016/06/chapter-one_-the-fifth-estate.pdf) (Tier 3)
+- [ProPublica Nonprofit Explorer: Urban Institute (EIN 52-0880375)](https://projects.propublica.org/nonprofits/organizations/520880375) (Tier 1) (VERIFIED)
+- [Wikipedia: Urban Institute](https://en.wikipedia.org/wiki/Urban_Institute) (Tier 3) (VERIFIED)
+- [InfluenceWatch: Urban Institute](https://www.influencewatch.org/non-profit/urban-institute/) (Tier 3) (VERIFIED)
+- [Media Bias/Fact Check: Urban Institute](https://mediabiasfactcheck.com/urban-institute/) (Tier 3) (VERIFIED)
+- [MacArthur Foundation: Urban Institute Grant](https://www.macfound.org/grantee/urban-institute-23/) (Tier 1) (VERIFIED)
+- ~~[Urban Institute: Organizational Principles](https://www.urban.org/about/organizational-principles)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[Tax Policy Center: About](https://taxpolicycenter.org/about)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [Urban Institute: The Transfer Income Model (TRIM)](https://www.urban.org/research/data-methods/data-analysis/quantitative-data-analysis/microsimulation/transfer-income-model-trim) (Tier 3) (VERIFIED)
+- ~~[Urban Institute: Sarah Rosen Wartell biography](https://www.urban.org/author/sarah-rosen-wartell)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [Wikipedia: Tax Policy Center](https://en.wikipedia.org/wiki/Tax_Policy_Center) (Tier 3) (VERIFIED)
+- [Urban Institute: 2024 Financial Report](https://www.urban.org/sites/default/files/2025-11/Urban-Institute-2024-Financials.pdf) (Tier 1) (VERIFIED)
+- [USAspending.gov: Urban Institute Federal Awards](https://www.usaspending.gov/search/?filters=%7B%22keyword%22%3A%22Urban+Institute%22%7D) (Tier 1) (VERIFIED)
+- [HigherGov: List of All Contracts Terminated by DOGE](https://www.highergov.com/news/list-of-all-contracts-terminated-by-doge-6287413) (Tier 2) (VERIFIED)
+- [Urban Institute: How Government Funding Disruptions Affected Nonprofits in Early 2025. Urban's own survey documenting federal funding crisis](https://www.urban.org/research/publication/how-government-funding-disruptions-affected-nonprofits-early-2025) (Tier 3) (VERIFIED)
+- [Brookings: The Fifth Estate. Think Tanks, Public Policy, and Governance, academic analysis of think tank government dependency](https://www.brookings.edu/wp-content/uploads/2016/06/chapter-one_-the-fifth-estate.pdf) (Tier 3) (VERIFIED)
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [984500C6P0VF15B8E658](https://search.gleif.org/#/record/984500C6P0VF15B8E658) |
+| LEI | [984500C6P0VF15B8E658](https://search.gleif.org/#/record/984500C6P0VF15B8E658) (VERIFIED) |
 | Legal Name | NATIONAL INSTITUTE OF URBAN AFFAIRS |
 | Jurisdiction | IN |
 | Entity Status | ACTIVE |
@@ -223,7 +223,7 @@ The Urban Institute is the institutional embodiment of American liberalism's cor
 | Registration | ISSUED |
 | Last Updated | 2026-01-06T12:17:23Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Tax Filings (IRS 990)
@@ -241,14 +241,14 @@ The Urban Institute is the institutional embodiment of American liberalism's cor
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/520880375/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/520880375/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/520880375/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/520880375/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/520880375/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/520880375/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/520880375/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/520880375/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/520880375/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/520880375/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/520880375) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/520880375) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Federal Register Activity
@@ -262,13 +262,13 @@ The Urban Institute is the institutional embodiment of American liberalism's cor
 | Agencies | Agriculture Department, Centers for Medicare & Medicaid Services, Children and Families Administration, Comptroller of the Currency, Consumer Financial Protection Bureau, Education Department, Employment and Training Administration, Energy Department +7 more |
 
 **Recent regulatory activity:**
-- [Regulatory Capital Rules: Regulatory Capital and Standardized Approach for Risk-Weighted Assets](https://www.federalregister.gov/documents/2026/03/27/2026-05960/regulatory-capital-rules-regulatory-capital-and-standardized-approach-for-risk-weighted-assets) (2026-03-27) — Treasury Department
-- [Regulatory Capital Rule: Category I and II Banking Organizations, Banking Organizations With Significant Trading Activity, and Optional Adoption for Other Banking Organizations](https://www.federalregister.gov/documents/2026/03/27/2026-05959/regulatory-capital-rule-category-i-and-ii-banking-organizations-banking-organizations-with) (2026-03-27) — Treasury Department ★
-- [Establishing Flexibility for Implementation of Work Requirements and Term Limits](https://www.federalregister.gov/documents/2026/03/02/2026-04095/establishing-flexibility-for-implementation-of-work-requirements-and-term-limits) (2026-03-02) — Housing and Urban Development Department ★
-- [Reimagining and Improving Student Education](https://www.federalregister.gov/documents/2026/01/30/2026-01912/reimagining-and-improving-student-education) (2026-01-30) — Education Department
-- [Section 108 Loan Guarantee Program: Announcement of Fee To Cover Credit Subsidy Costs for FY 2026](https://www.federalregister.gov/documents/2025/11/19/2025-20345/section-108-loan-guarantee-program-announcement-of-fee-to-cover-credit-subsidy-costs-for-fy-2026) (2025-11-19) — Housing and Urban Development Department
-- [Public Charge Ground of Inadmissibility](https://www.federalregister.gov/documents/2025/11/19/2025-20278/public-charge-ground-of-inadmissibility) (2025-11-19) — Homeland Security Department
+- [Regulatory Capital Rules: Regulatory Capital and Standardized Approach for Risk-Weighted Assets](https://www.federalregister.gov/documents/2026/03/27/2026-05960/regulatory-capital-rules-regulatory-capital-and-standardized-approach-for-risk-weighted-assets) (VERIFIED) (2026-03-27) — Treasury Department
+- [Regulatory Capital Rule: Category I and II Banking Organizations, Banking Organizations With Significant Trading Activity, and Optional Adoption for Other Banking Organizations](https://www.federalregister.gov/documents/2026/03/27/2026-05959/regulatory-capital-rule-category-i-and-ii-banking-organizations-banking-organizations-with) (VERIFIED) (2026-03-27) — Treasury Department ★
+- ~~[Establishing Flexibility for Implementation of Work Requirements and Term Limits](https://www.federalregister.gov/documents/2026/03/02/2026-04095/establishing-flexibility-for-implementation-of-work-requirements-and-term-limits)~~ (URL broken, archived by Ops) (2026-03-02) — Housing and Urban Development Department ★
+- [Reimagining and Improving Student Education](https://www.federalregister.gov/documents/2026/01/30/2026-01912/reimagining-and-improving-student-education) (VERIFIED) (2026-01-30) — Education Department
+- [Section 108 Loan Guarantee Program: Announcement of Fee To Cover Credit Subsidy Costs for FY 2026](https://www.federalregister.gov/documents/2025/11/19/2025-20345/section-108-loan-guarantee-program-announcement-of-fee-to-cover-credit-subsidy-costs-for-fy-2026) (VERIFIED) (2025-11-19) — Housing and Urban Development Department
+- [Public Charge Ground of Inadmissibility](https://www.federalregister.gov/documents/2025/11/19/2025-20278/public-charge-ground-of-inadmissibility) (VERIFIED) (2025-11-19) — Homeland Security Department
 - ... and 441 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Urban%20Institute%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Urban%20Institute%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->

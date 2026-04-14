@@ -30,8 +30,8 @@ Dickerson's connection to Singer is the organizational DNA. Singer — founder o
 
 The PAC claims a network of over 800,000 members who provide small-dollar and grassroots support. In its most recent full cycle, WFW and related entities raised approximately $17 million, directing nearly $4 million in hard dollars to endorsed candidates. The organization positions itself as the Republican counterpart to [[EMILY's List]], though it operates at a fraction of EMILY's List's scale ($17M vs. $1B+ cumulative).
 
-- [FEC: Winning for Women, Inc. PAC committee overview](https://www.fec.gov/data/committee/C00646703/) (Tier 1)
-- [OpenSecrets: Winning for Women PAC profile 2024](https://www.opensecrets.org/political-action-committees-pacs/winning-for-women/C00646703/summary/2024) (Tier 1)
+- [FEC: Winning for Women, Inc. PAC committee overview](https://www.fec.gov/data/committee/C00646703/) (Tier 1) (VERIFIED)
+- [OpenSecrets: Winning for Women PAC profile 2024](https://www.opensecrets.org/political-action-committees-pacs/winning-for-women/C00646703/summary/2024) (Tier 1) (VERIFIED)
 
 ---
 
@@ -65,7 +65,7 @@ WFW's donor profile reveals the organization's establishment Republican alignmen
 > [!money]
 > The donor list is a map of the Republican establishment's financial infrastructure. Citadel LLC (Ken Griffin) — the single largest donor at $1M — is one of the GOP's top mega-donors. The Congressional Leadership Fund ($700K) is the House Republican leadership's own super PAC, meaning the Republican leadership is directly funding WFW to shape its own caucus composition. Stephens Inc ($750K) is a Little Rock-based investment bank with deep Republican connections. The $775K self-transfer from Winning for Women's PAC arm to its super PAC arm is standard Carey committee plumbing. The donor class funding WFW wants predictable, business-friendly Republican women who will hold competitive seats — the PAC exists to convert Wall Street money into establishment Republican congressional representation.
 
-- [FEC Independent Expenditures: Winning for Women top donors 2024](https://www.fec.gov/data/independent-expenditures/) (Tier 1)
+- [FEC Independent Expenditures: Winning for Women top donors 2024](https://www.fec.gov/data/independent-expenditures/) (Tier 1) (NEEDS REVIEW)
 
 ---
 
@@ -81,8 +81,8 @@ WFW's endorsement and spending targets are concentrated in competitive House rac
 
 The pattern: WFW targets swing and competitive districts where a Republican woman is either defending a vulnerable seat or challenging a Democratic incumbent. The endorsement list reads as a roadmap of the House Republican majority's most endangered flanks.
 
-- [Fox News: Winning for Women endorses first round of 2024 candidates](https://www.foxnews.com/politics/republican-pac-winning-women-endorses-first-round-rising-star-candidates-2024-elections) (Tier 2)
-- [Ballotpedia: Endorsements by Winning for Women, Inc. PAC](https://ballotpedia.org/Endorsements_by_Winning_for_Women,_Inc._PAC) (Tier 3)
+- [Fox News: Winning for Women endorses first round of 2024 candidates](https://www.foxnews.com/politics/republican-pac-winning-women-endorses-first-round-rising-star-candidates-2024-elections) (Tier 2) (VERIFIED)
+- [Ballotpedia: Endorsements by Winning for Women, Inc. PAC](https://ballotpedia.org/Endorsements_by_Winning_for_Women,_Inc._PAC) (Tier 3) (VERIFIED)
 
 ---
 
@@ -118,9 +118,9 @@ WFW's track record reveals the organization's dual function: general election su
 | 2022 | $7,706,485 | $3,271,574 | $3,253,551 | $1,131,360 | 17% |
 | 2024 | $4,657,996 | $3,235,405 | $488,591 | $934,000 | 20% |
 
-- [FEC Independent Expenditures: Winning for Women outside spending 2024](https://www.fec.gov/data/independent-expenditures/) (Tier 1)
-- [FEC Independent Expenditures: Winning for Women outside spending 2022](https://www.fec.gov/data/independent-expenditures/) (Tier 1)
-- [FEC Independent Expenditures: Winning for Women outside spending 2020](https://www.fec.gov/data/independent-expenditures/) (Tier 1)
+- [FEC Independent Expenditures: Winning for Women outside spending 2024](https://www.fec.gov/data/independent-expenditures/) (Tier 1) (NEEDS REVIEW)
+- [FEC Independent Expenditures: Winning for Women outside spending 2022](https://www.fec.gov/data/independent-expenditures/) (Tier 1) (NEEDS REVIEW)
+- [FEC Independent Expenditures: Winning for Women outside spending 2020](https://www.fec.gov/data/independent-expenditures/) (Tier 1) (NEEDS REVIEW)
 
 ---
 
@@ -144,12 +144,12 @@ The pattern this reveals: **Self-Funding as Independence** inverted. WFW doesn't
 
 - [FEC: Winning for Women, Inc. PAC committee overview](https://www.fec.gov/data/committee/C00646703/) (Tier 1)
 - [OpenSecrets: Winning for Women PAC profile 2024](https://www.opensecrets.org/political-action-committees-pacs/winning-for-women/C00646703/summary/2024) (Tier 1)
-- [OpenSecrets: Winning for Women organization summary](https://www.opensecrets.org/orgs/winning-for-women/summary?id=D000070512) (Tier 1)
+- [OpenSecrets: Winning for Women organization summary](https://www.opensecrets.org/orgs/winning-for-women/summary?id=D000070512) (Tier 1) (VERIFIED)
 - [FEC Independent Expenditures: Winning for Women outside spending 2024](https://www.fec.gov/data/independent-expenditures/) (Tier 1)
 - [FEC Independent Expenditures: Winning for Women outside spending 2022](https://www.fec.gov/data/independent-expenditures/) (Tier 1)
 - [FEC Independent Expenditures: Winning for Women outside spending 2020](https://www.fec.gov/data/independent-expenditures/) (Tier 1)
 - [FEC Independent Expenditures: Winning for Women top donors 2024](https://www.fec.gov/data/independent-expenditures/) (Tier 1)
-- [CNN: Why there are more Republican women in Congress than ever before](https://edition.cnn.com/2023/01/14/politics/republican-women-congress/) (Tier 2)
+- [CNN: Why there are more Republican women in Congress than ever before](https://edition.cnn.com/2023/01/14/politics/republican-women-congress/) (Tier 2) (VERIFIED)
 - [Fox News: Winning for Women endorses first round of 2024 candidates](https://www.foxnews.com/politics/republican-pac-winning-women-endorses-first-round-rising-star-candidates-2024-elections) (Tier 2)
 - [Ballotpedia: Endorsements by Winning for Women, Inc. PAC](https://ballotpedia.org/Endorsements_by_Winning_for_Women,_Inc._PAC) (Tier 3)
 

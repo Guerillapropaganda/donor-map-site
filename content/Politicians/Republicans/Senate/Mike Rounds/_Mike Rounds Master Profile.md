@@ -50,5 +50,5 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 | 07/18/2017 | -- | Purchase | $50,001 - $100,000 | Joint |
 | 04/09/2018 | -- | Purchase | $50,001 - $100,000 | Joint |
 
-- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->

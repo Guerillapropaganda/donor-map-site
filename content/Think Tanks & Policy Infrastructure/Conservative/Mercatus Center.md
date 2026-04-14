@@ -361,53 +361,53 @@ The DOGE episode (2025) reveals an emerging tension within the conservative dere
 
 ### Sources
 
-- [Al-Ubaydli, Omar and McLaughlin, Patrick: "The Costs of Regulation" peer-reviewed publication](https://patrickamclaughlin.com/wp-content/uploads/2016/05/al-ubaydli_et_al-2015-regulation__governance.pdf) (Tier 1)
-- [AAUP: George Mason University's Donor Problem and the Fight for Transparency](https://www.aaup.org/academe/issues/spring-2019/george-mason-universitys-donor-problem-and-fight-transparency) (Tier 2)
-- [American Petroleum Institute: Koch subsidiary funding documentation](https://www.api.org) (Tier 1)
-- [BLS: Commissioner William Beach](https://www.bls.gov/bls/history/commissioners/beach.htm) (Tier 1)
-- [Brookings Institution: Accounting for Regulatory Reform under Executive Order 13771](https://www.brookings.edu/articles/accounting-for-regulatory-reform-under-executive-order-13771/) (Tier 2)
-- [Cato Institute: DOGE produced largest peacetime workforce cut with record spending](https://www.cato.org/blog/doge-produced-largest-peacetime-workforce-cut-record-spending-kept-rising-0) (Tier 2)
-- [Center for Progressive Reform: Critique of Mercatus OSHA report](https://progressivereform.org/cpr-blog/mercatus-center-osha-report-rehashes-discredited-free-market-nostrums/) (Tier 2)
-- [Center for Public Integrity: Koch's low profile belies political power](https://publicintegrity.org/environment/kochs-low-profile-belies-political-power/) (Tier 2)
-- [Cicero Institute: Blueprint for a State Department of Government Efficiency](https://ciceroinstitute.org/doge/) (Tier 3)
-- [Chronicle of Higher Education: Why George Mason's agreements with Koch Foundation raised red flags](https://www.chronicle.com/article/why-george-masons-agreements-with-the-koch-foundation-raised-red-flags/) (Tier 2) (UNVERIFIED)
-- [City Journal: DOGE and CBO collaboration on spending estimates](https://www.city-journal.org/article/doge-elon-musk-government-spending-gao-cbo) (Tier 3)
-- [Creators Syndicate: Veronique de Rugy "Don't Write Off DOGE"](https://www.creators.com/read/veronique-de-rugy/12/24/dont-write-off-doge) (Tier 3)
-- [Creators Syndicate: Veronique de Rugy "The Upside, Risks and Limits of DOGE"](https://www.creators.com/read/veronique-de-rugy/02/25/the-upside-risks-and-limits-of-doge) (Tier 3)
-- [DeSmog: Mercatus Center](https://www.desmog.com/mercatus-center/) (Tier 2)
-- [DeSmog: Koch and George Mason University](https://www.desmog.com/koch-and-george-mason-university/) (Tier 2)
-- [EXPOSEDbyCMD: Koch Industries amassed 150 penalties for environmental violations](https://www.exposedbycmd.org/2021/03/29/koch-industries-amassed-150-penalties-for-state-environmental-violations-in-20-states/) (Tier 2)
-- [EPA Archive: Executive Order 13771](https://19january2021snapshot.epa.gov/laws-regulations/executive-order-13771-reducing-regulation-and-controlling-regulatory-costs_.html) (Tier 1)
-- [EPA OIG: Regulatory Cost Savings Report FY2017-2018](https://www.epa.gov/sites/default/files/2019-08/documents/_epaoig_20190809-19-p-0267.pdf) (Tier 1)
-- [Fortune: Koch Industries Georgia-Pacific safety violations](https://fortune.com/longform/koch-industries-georgia-pacific-safety/) (Tier 2)
-- [Good Jobs First Violation Tracker: Koch Industries environmental and safety penalties](https://violationtracker.goodjobsfirst.org/parent/koch-industries) (Tier 1) (UNVERIFIED)
-- [Greenpeace: Mercatus Center](https://www.greenpeace.org/global/usa/climate/climate-deniers/front-groups/mercatus-center/) (Tier 4)
-- [House Budget Committee: Patrick McLaughlin Congressional Testimony, July 7, 2016](https://democrats-budget.house.gov/sites/evo-subsites/democrats-budget.house.gov/files/documents/McLaughlin%20Testimony.pdf) (Tier 1)
-- [InfluenceWatch: Mercatus Center, George Mason University](https://www.influencewatch.org/non-profit/mercatus-center-george-mason-university/) (Tier 4)
-- [Inside Higher Ed: Koch agreements with George Mason gave foundation role in faculty hiring and oversight](https://www.insidehighered.com/news/2018/05/01/koch-agreements-george-mason-gave-foundation-role-faculty-hiring-and-oversight) (Tier 2)
-- [International Business Times: Wendy Gramm-Enron connection and financial deregulation pipeline](https://www.ibtimes.com/political-capital/us-treasury-cites-koch-funded-research-critique-consumer-protections-2607138) (Tier 2)
-- [LA Times: Veronique de Rugy op-ed on DOGE spending claims](https://www.latimes.com/opinion/story/2025-04-17/trump-budget-republican-deficit-debt) (Tier 2)
-- [Mercatus Center: Regulatory Accumulation Problem and Solutions](https://www.mercatus.org/research/policy-spotlights/regulatory-accumulation-problem-and-solutions) (Tier 3)
-- [Mercatus Center: Streamlining Governance. Bold Ideas for Efficiency and Deregulation (DOGE resource hub)](https://www.mercatus.org/doge) (Tier 3)
-- [Minnesota AG Taskforce: Mercatus "Assessing the Impact of Worker Reclassification" report](https://www.ag.state.mn.us/Taskforce/Misclassification/Meetings/20241008/MercatusCenter_Report.pdf) (Tier 1) (UNVERIFIED)
-- [Patrick A. McLaughlin website: Congressional and other testimonies](https://patrickamclaughlin.com/congressional-and-other-testimonies/) (Tier 3)
-- [People's Policy Project: Mercatus study on Medicare for All](https://www.peoplespolicyproject.org/2018/07/30/mercatus-study-finds-medicare-for-all-saves-2-trillion/) (Tier 2)
-- [PNHP: Critique of Blahous M4A study](https://pnhp.org/news/lets-get-it-right-medicare-for-all-is-a-huge-bargain/) (Tier 2)
-- [Policy Archive: Susan Dudley OIRA analysis](https://www.policyarchive.org/download/11984) (Tier 1)
-- [PR Watch: Koch compliance and Georgia-Pacific health and safety record](https://www.prwatch.org/news/2018/03/13325/koch-compliance-georgia-pacific-plants-have-troubling-health-and-safety-record) (Tier 2) (UNVERIFIED)
-- [ProPublica Nonprofit Explorer: Mercatus Center Inc (EIN 54-1436224)](https://projects.propublica.org/nonprofits/organizations/541436224) (Tier 1)
-- [ProPublica Trump Town: Mercatus Center at George Mason University](https://projects.propublica.org/trump-town/organizations/mercatus-center-at-george-mason-university) (Tier 1)
-- [Public Citizen: The Back Door to Power. Susan Dudley's rise to OIRA Administrator](https://www.citizen.org/news/the-back-door-to-power-susan-dudleys-sneaky-rise-to-oira-administrator/) (Tier 2)
-- [RegInfo.gov: FY 2019 Report on Executive Order 13771](https://www.reginfo.gov/public/pdf/eo13771/EO_13771_Final_Accounting_for_Fiscal_Year_2019.pdf) (Tier 1)
-- [SEC.gov: Commissioner Hester M. Peirce](https://www.sec.gov/about/sec-commissioners/hester-m-peirce) (Tier 1)
-- [SEC: Press Release on Hester Peirce appointment](https://www.sec.gov/newsroom/press-releases/2018-5) (Tier 1) (UNVERIFIED)
-- [Senator Whitehouse: Whitehouse, Warren Air Concerns with BLS Nominee](https://www.whitehouse.senate.gov/news/release/whitehouse-warren-air-concerns-with-bls-nominee/) (Tier 1)
-- [SourceWatch: Mercatus Center](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Mercatus_Center) (Tier 3)
-- [The White House: Establishing and Implementing the President's Department of Government Efficiency](https://www.whitehouse.gov/presidential-actions/2025/01/establishing-and-implementing-the-presidents-department-of-government-efficiency/) (Tier 1)
-- [UnKoch My Campus: Donor Control at GMU Finally Exposed](http://www.unkochmycampus.org/charles-koch-foundation-george-mason-mercatus-donor-influence-exposed) (Tier 3)
-- [Wall Street Journal: Musk and Ramaswamy DOGE plan](https://www.wsj.com/opinion/musk-and-ramaswamy-the-doge-plan-to-reform-government-supreme-court-guidance-end-executive-power-grab-fa51c020) (Tier 2) (UNVERIFIED)
-- [Wikipedia: Mercatus Center](https://en.wikipedia.org/wiki/Mercatus_Center) (Tier 3)
-- [WTOP: DOGE spending claims and Veronique de Rugy interview](https://wtop.com/local/2025/02/how-much-money-is-doge-saving-the-federal-government/) (Tier 2)
+- [Al-Ubaydli, Omar and McLaughlin, Patrick: "The Costs of Regulation" peer-reviewed publication](https://patrickamclaughlin.com/wp-content/uploads/2016/05/al-ubaydli_et_al-2015-regulation__governance.pdf) (Tier 1) (VERIFIED)
+- [AAUP: George Mason University's Donor Problem and the Fight for Transparency](https://www.aaup.org/academe/issues/spring-2019/george-mason-universitys-donor-problem-and-fight-transparency) (Tier 2) (VERIFIED)
+- [American Petroleum Institute: Koch subsidiary funding documentation](https://www.api.org) (Tier 1) (VERIFIED)
+- [BLS: Commissioner William Beach](https://www.bls.gov/bls/history/commissioners/beach.htm) (Tier 1) (VERIFIED)
+- [Brookings Institution: Accounting for Regulatory Reform under Executive Order 13771](https://www.brookings.edu/articles/accounting-for-regulatory-reform-under-executive-order-13771/) (Tier 2) (VERIFIED)
+- [Cato Institute: DOGE produced largest peacetime workforce cut with record spending](https://www.cato.org/blog/doge-produced-largest-peacetime-workforce-cut-record-spending-kept-rising-0) (Tier 2) (VERIFIED)
+- [Center for Progressive Reform: Critique of Mercatus OSHA report](https://progressivereform.org/cpr-blog/mercatus-center-osha-report-rehashes-discredited-free-market-nostrums/) (Tier 2) (VERIFIED)
+- [Center for Public Integrity: Koch's low profile belies political power](https://publicintegrity.org/environment/kochs-low-profile-belies-political-power/) (Tier 2) (VERIFIED)
+- [Cicero Institute: Blueprint for a State Department of Government Efficiency](https://ciceroinstitute.org/doge/) (Tier 3) (VERIFIED)
+- [Chronicle of Higher Education: Why George Mason's agreements with Koch Foundation raised red flags](https://www.chronicle.com/article/why-george-masons-agreements-with-the-koch-foundation-raised-red-flags/) (Tier 2) (VERIFIED) (UNVERIFIED)
+- [City Journal: DOGE and CBO collaboration on spending estimates](https://www.city-journal.org/article/doge-elon-musk-government-spending-gao-cbo) (Tier 3) (VERIFIED)
+- [Creators Syndicate: Veronique de Rugy "Don't Write Off DOGE"](https://www.creators.com/read/veronique-de-rugy/12/24/dont-write-off-doge) (Tier 3) (VERIFIED)
+- [Creators Syndicate: Veronique de Rugy "The Upside, Risks and Limits of DOGE"](https://www.creators.com/read/veronique-de-rugy/02/25/the-upside-risks-and-limits-of-doge) (Tier 3) (VERIFIED)
+- [DeSmog: Mercatus Center](https://www.desmog.com/mercatus-center/) (Tier 2) (VERIFIED)
+- [DeSmog: Koch and George Mason University](https://www.desmog.com/koch-and-george-mason-university/) (Tier 2) (VERIFIED)
+- ~~[EXPOSEDbyCMD: Koch Industries amassed 150 penalties for environmental violations](https://www.exposedbycmd.org/2021/03/29/koch-industries-amassed-150-penalties-for-state-environmental-violations-in-20-states/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [EPA Archive: Executive Order 13771](https://19january2021snapshot.epa.gov/laws-regulations/executive-order-13771-reducing-regulation-and-controlling-regulatory-costs_.html) (Tier 1) (VERIFIED)
+- [EPA OIG: Regulatory Cost Savings Report FY2017-2018](https://www.epa.gov/sites/default/files/2019-08/documents/_epaoig_20190809-19-p-0267.pdf) (Tier 1) (VERIFIED)
+- [Fortune: Koch Industries Georgia-Pacific safety violations](https://fortune.com/longform/koch-industries-georgia-pacific-safety/) (Tier 2) (VERIFIED)
+- [Good Jobs First Violation Tracker: Koch Industries environmental and safety penalties](https://violationtracker.goodjobsfirst.org/parent/koch-industries) (Tier 1) (VERIFIED) (UNVERIFIED)
+- ~~[Greenpeace: Mercatus Center](https://www.greenpeace.org/global/usa/climate/climate-deniers/front-groups/mercatus-center/)~~ (was Tier 4 — URL broken, archived by Ops) (Tier 4)
+- [House Budget Committee: Patrick McLaughlin Congressional Testimony, July 7, 2016](https://democrats-budget.house.gov/sites/evo-subsites/democrats-budget.house.gov/files/documents/McLaughlin%20Testimony.pdf) (Tier 1) (VERIFIED)
+- [InfluenceWatch: Mercatus Center, George Mason University](https://www.influencewatch.org/non-profit/mercatus-center-george-mason-university/) (Tier 4) (VERIFIED)
+- [Inside Higher Ed: Koch agreements with George Mason gave foundation role in faculty hiring and oversight](https://www.insidehighered.com/news/2018/05/01/koch-agreements-george-mason-gave-foundation-role-faculty-hiring-and-oversight) (Tier 2) (VERIFIED)
+- [International Business Times: Wendy Gramm-Enron connection and financial deregulation pipeline](https://www.ibtimes.com/political-capital/us-treasury-cites-koch-funded-research-critique-consumer-protections-2607138) (Tier 2) (VERIFIED)
+- [LA Times: Veronique de Rugy op-ed on DOGE spending claims](https://www.latimes.com/opinion/story/2025-04-17/trump-budget-republican-deficit-debt) (Tier 2) (VERIFIED)
+- [Mercatus Center: Regulatory Accumulation Problem and Solutions](https://www.mercatus.org/research/policy-spotlights/regulatory-accumulation-problem-and-solutions) (Tier 3) (VERIFIED)
+- [Mercatus Center: Streamlining Governance. Bold Ideas for Efficiency and Deregulation (DOGE resource hub)](https://www.mercatus.org/doge) (Tier 3) (VERIFIED)
+- [Minnesota AG Taskforce: Mercatus "Assessing the Impact of Worker Reclassification" report](https://www.ag.state.mn.us/Taskforce/Misclassification/Meetings/20241008/MercatusCenter_Report.pdf) (Tier 1) (VERIFIED) (UNVERIFIED)
+- [Patrick A. McLaughlin website: Congressional and other testimonies](https://patrickamclaughlin.com/congressional-and-other-testimonies/) (Tier 3) (VERIFIED)
+- [People's Policy Project: Mercatus study on Medicare for All](https://www.peoplespolicyproject.org/2018/07/30/mercatus-study-finds-medicare-for-all-saves-2-trillion/) (Tier 2) (VERIFIED)
+- [PNHP: Critique of Blahous M4A study](https://pnhp.org/news/lets-get-it-right-medicare-for-all-is-a-huge-bargain/) (Tier 2) (VERIFIED)
+- [Policy Archive: Susan Dudley OIRA analysis](https://www.policyarchive.org/download/11984) (Tier 1) (VERIFIED)
+- ~~[PR Watch: Koch compliance and Georgia-Pacific health and safety record](https://www.prwatch.org/news/2018/03/13325/koch-compliance-georgia-pacific-plants-have-troubling-health-and-safety-record)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- [ProPublica Nonprofit Explorer: Mercatus Center Inc (EIN 54-1436224)](https://projects.propublica.org/nonprofits/organizations/541436224) (Tier 1) (VERIFIED)
+- [ProPublica Trump Town: Mercatus Center at George Mason University](https://projects.propublica.org/trump-town/organizations/mercatus-center-at-george-mason-university) (Tier 1) (VERIFIED)
+- [Public Citizen: The Back Door to Power. Susan Dudley's rise to OIRA Administrator](https://www.citizen.org/news/the-back-door-to-power-susan-dudleys-sneaky-rise-to-oira-administrator/) (Tier 2) (VERIFIED)
+- [RegInfo.gov: FY 2019 Report on Executive Order 13771](https://www.reginfo.gov/public/pdf/eo13771/EO_13771_Final_Accounting_for_Fiscal_Year_2019.pdf) (Tier 1) (VERIFIED)
+- [SEC.gov: Commissioner Hester M. Peirce](https://www.sec.gov/about/sec-commissioners/hester-m-peirce) (Tier 1) (VERIFIED)
+- [SEC: Press Release on Hester Peirce appointment](https://www.sec.gov/newsroom/press-releases/2018-5) (Tier 1) (VERIFIED) (UNVERIFIED)
+- [Senator Whitehouse: Whitehouse, Warren Air Concerns with BLS Nominee](https://www.whitehouse.senate.gov/news/release/whitehouse-warren-air-concerns-with-bls-nominee/) (Tier 1) (VERIFIED)
+- ~~[SourceWatch: Mercatus Center](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Mercatus_Center)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [The White House: Establishing and Implementing the President's Department of Government Efficiency](https://www.whitehouse.gov/presidential-actions/2025/01/establishing-and-implementing-the-presidents-department-of-government-efficiency/) (Tier 1) (VERIFIED)
+- [UnKoch My Campus: Donor Control at GMU Finally Exposed](http://www.unkochmycampus.org/charles-koch-foundation-george-mason-mercatus-donor-influence-exposed) (Tier 3) (VERIFIED)
+- ~~[Wall Street Journal: Musk and Ramaswamy DOGE plan](https://www.wsj.com/opinion/musk-and-ramaswamy-the-doge-plan-to-reform-government-supreme-court-guidance-end-executive-power-grab-fa51c020)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- [Wikipedia: Mercatus Center](https://en.wikipedia.org/wiki/Mercatus_Center) (Tier 3) (VERIFIED)
+- [WTOP: DOGE spending claims and Veronique de Rugy interview](https://wtop.com/local/2025/02/how-much-money-is-doge-saving-the-federal-government/) (Tier 2) (VERIFIED)
 
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->
@@ -425,7 +425,7 @@ The DOGE episode (2025) reveals an emerging tension within the conservative dere
 - Sierra Club v. United States Department of Interior (2025) — District Court, N.D. California
 - Sierra Club v. United States Department Of Energy (2025) — District Court, N.D. California
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Mercatus%20Center%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Mercatus%20Center%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Tax Filings (IRS 990)
@@ -443,14 +443,14 @@ The DOGE episode (2025) reveals an emerging tension within the conservative dere
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/541436224/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/541436224/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/541436224/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/541436224/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/541436224/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/541436224/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/541436224/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/541436224/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/541436224/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/541436224/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/541436224) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/541436224) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Federal Register Activity
@@ -464,13 +464,13 @@ The DOGE episode (2025) reveals an emerging tension within the conservative dere
 | Agencies | Antitrust Division, Centers for Medicare & Medicaid Services, Children and Families Administration, Employee Benefits Security Administration, Energy Department, Federal Aviation Administration, Food and Drug Administration, Health and Human Services Department +7 more |
 
 **Recent regulatory activity:**
-- [Employee or Independent Contractor Status Under the Fair Labor Standards Act, Family and Medical Leave Act, and Migrant and Seasonal Agricultural Worker Protection Act](https://www.federalregister.gov/documents/2026/02/27/2026-03962/employee-or-independent-contractor-status-under-the-fair-labor-standards-act-family-and-medical) (2026-02-27) — Labor Department ★
-- [Transparency in Coverage](https://www.federalregister.gov/documents/2025/12/23/2025-23693/transparency-in-coverage) (2025-12-23) — Treasury Department ★
-- [United States v. Hewlett Packard Enterprise Co. and Juniper Networks, Inc.; Response of the United States to Public Comments on the Proposed Final Judgments](https://www.federalregister.gov/documents/2025/11/19/2025-20260/united-states-v-hewlett-packard-enterprise-co-and-juniper-networks-inc-response-of-the-united-states) (2025-11-19) — Justice Department
-- [Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Order Approving a Proposed Rule Change, as Modified by Amendment No. 1, To Amend FINRA Rule 2210 (Communications with the Public) To Permit Projections of Performance in Institutional Communications and Specified Communications to Qualified Purchasers and Knowledgeable Employees](https://www.federalregister.gov/documents/2024/07/25/2024-16304/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-approving-a-proposed) (2024-07-25) — Securities and Exchange Commission
-- [Employee or Independent Contractor Classification Under the Fair Labor Standards Act](https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act) (2024-01-10) — Labor Department
-- [Supplemental Information and Reopening of Comment Period for Amendments Regarding the Definition of “Exchange”](https://www.federalregister.gov/documents/2023/05/05/2023-08544/supplemental-information-and-reopening-of-comment-period-for-amendments-regarding-the-definition-of) (2023-05-05) — Securities and Exchange Commission
+- [Employee or Independent Contractor Status Under the Fair Labor Standards Act, Family and Medical Leave Act, and Migrant and Seasonal Agricultural Worker Protection Act](https://www.federalregister.gov/documents/2026/02/27/2026-03962/employee-or-independent-contractor-status-under-the-fair-labor-standards-act-family-and-medical) (VERIFIED) (2026-02-27) — Labor Department ★
+- [Transparency in Coverage](https://www.federalregister.gov/documents/2025/12/23/2025-23693/transparency-in-coverage) (VERIFIED) (2025-12-23) — Treasury Department ★
+- [United States v. Hewlett Packard Enterprise Co. and Juniper Networks, Inc.; Response of the United States to Public Comments on the Proposed Final Judgments](https://www.federalregister.gov/documents/2025/11/19/2025-20260/united-states-v-hewlett-packard-enterprise-co-and-juniper-networks-inc-response-of-the-united-states) (VERIFIED) (2025-11-19) — Justice Department
+- [Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Order Approving a Proposed Rule Change, as Modified by Amendment No. 1, To Amend FINRA Rule 2210 (Communications with the Public) To Permit Projections of Performance in Institutional Communications and Specified Communications to Qualified Purchasers and Knowledgeable Employees](https://www.federalregister.gov/documents/2024/07/25/2024-16304/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-approving-a-proposed) (VERIFIED) (2024-07-25) — Securities and Exchange Commission
+- [Employee or Independent Contractor Classification Under the Fair Labor Standards Act](https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act) (VERIFIED) (2024-01-10) — Labor Department
+- [Supplemental Information and Reopening of Comment Period for Amendments Regarding the Definition of “Exchange”](https://www.federalregister.gov/documents/2023/05/05/2023-08544/supplemental-information-and-reopening-of-comment-period-for-amendments-regarding-the-definition-of) (VERIFIED) (2023-05-05) — Securities and Exchange Commission
 - ... and 75 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Mercatus%20Center%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Mercatus%20Center%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->

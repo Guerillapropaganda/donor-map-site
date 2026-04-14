@@ -45,7 +45,7 @@ Advanced U.S. weapons systems (F-35, drones, missile defense), diplomatic suppor
 
 ### Sources
 
-- [FARA: UAE foreign agent registrations](https://efile.fara.gov/ords/fara/f?p=185:1) (Tier 1)
-- [State Department: Abraham Accords](https://www.state.gov/the-abraham-accords/) (Tier 1)
-- [Ballotpedia: UAE-US relations](https://ballotpedia.org/United_Arab_Emirates_-_Influence_Operation) (Tier 3)
+- ~~[FARA: UAE foreign agent registrations](https://efile.fara.gov/ords/fara/f?p=185:1)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [State Department: Abraham Accords](https://www.state.gov/the-abraham-accords/) (Tier 1) (VERIFIED)
+- [Ballotpedia: UAE-US relations](https://ballotpedia.org/United_Arab_Emirates_-_Influence_Operation) (Tier 3) (VERIFIED)
 

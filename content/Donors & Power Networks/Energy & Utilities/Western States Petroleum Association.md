@@ -134,8 +134,8 @@ Environment — oil drilling permits, SB 1137, fracking, refinery communities
 
 ### Sources
 
-- [CalMatters: Oil industry withdraws controversial oil well ballot measure](https://calmatters.org/category/environment/2024/06/oil-ballot-california/) (Tier 2)
-- [FPPC: WSPA lobbying filings](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1)
+- ~~[CalMatters: Oil industry withdraws controversial oil well ballot measure](https://calmatters.org/category/environment/2024/06/oil-ballot-california/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [FPPC: WSPA lobbying filings](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1) (VERIFIED)
 
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->
@@ -153,7 +153,7 @@ Environment — oil drilling permits, SB 1137, fracking, refinery communities
 
 **Agencies contacted:** Agriculture, Dept of (USDA), Army, Dept of (Corps of Engineers), Bureau of Indian Affairs (BIA), Bureau of Land Management (BLM), Bureau of Reclamation, Commerce, Dept of (DOC), Consumer Financial Protection Bureau (CFPB), Defense, Dept of (DOD), Education, Dept of, Environmental Protection Agency (EPA) +22 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Western%20States%20Petroleum%20Association) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Western%20States%20Petroleum%20Association) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)
@@ -186,7 +186,7 @@ Environment — oil drilling permits, SB 1137, fracking, refinery communities
 - 2019-10-02 — **MA-I/A**: MA-I/A
 - 2025-07-24 — **MA-I/A**: MA-I/A
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Western%20States%20Petroleum%20Association%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Western%20States%20Petroleum%20Association%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -201,7 +201,7 @@ Environment — oil drilling permits, SB 1137, fracking, refinery communities
 | Net Assets | $13.1M |
 | Officer Compensation | $3.3M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 950596680](https://projects.propublica.org/nonprofits/organizations/950596680) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 950596680](https://projects.propublica.org/nonprofits/organizations/950596680) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Federal Register Activity
@@ -215,15 +215,15 @@ Environment — oil drilling permits, SB 1137, fracking, refinery communities
 | Agencies | Commerce Department, Environmental Protection Agency, National Oceanic and Atmospheric Administration, Pipeline and Hazardous Materials Safety Administration, Transportation Department |
 
 **Recent regulatory activity:**
-- [California State Nonroad Engine Pollution Control Standards; Ocean-Going Vessels At-Berth; Notice of Decision](https://www.federalregister.gov/documents/2023/10/20/2023-23261/california-state-nonroad-engine-pollution-control-standards-ocean-going-vessels-at-berth-notice-of) (2023-10-20) — Environmental Protection Agency
-- [California State Motor Vehicle and Engine Pollution Control Standards; Heavy-Duty Vehicle and Engine Emission Warranty and Maintenance Provisions; Advanced Clean Trucks; Zero Emission Airport Shuttle; Zero-Emission Power Train Certification; Waiver of Preemption; Notice of Decision](https://www.federalregister.gov/documents/2023/04/06/2023-07184/california-state-motor-vehicle-and-engine-pollution-control-standards-heavy-duty-vehicle-and-engine) (2023-04-06) — Environmental Protection Agency
-- [Hazardous Materials: The State of Washington Crude Oil by Rail Volatility Requirements](https://www.federalregister.gov/documents/2020/05/15/2020-10381/hazardous-materials-the-state-of-washington-crude-oil-by-rail-volatility-requirements) (2020-05-15) — Transportation Department
-- [Determination of Attainment of the 1-Hour Ozone National Ambient Air Quality Standard in the San Joaquin Valley Nonattainment Area in California](https://www.federalregister.gov/documents/2016/07/18/2016-16792/determination-of-attainment-of-the-1-hour-ozone-national-ambient-air-quality-standard-in-the-san) (2016-07-18) — Environmental Protection Agency
-- [Water Quality Standards; Establishment of Revised Numeric Criteria for Selenium for the San Francisco Bay and Delta, State of California](https://www.federalregister.gov/documents/2016/07/15/2016-16266/water-quality-standards-establishment-of-revised-numeric-criteria-for-selenium-for-the-san-francisco) (2016-07-15) — Environmental Protection Agency ★
-- [Notice of Availability of Proposed National Pollutant Discharge Elimination System (NPDES) General Permit for Offshore Oil and Gas Exploration, Development and Production Operations off Southern California](https://www.federalregister.gov/documents/2012/12/20/2012-30696/notice-of-availability-of-proposed-national-pollutant-discharge-elimination-system-npdes-general) (2012-12-20) — Environmental Protection Agency
+- [California State Nonroad Engine Pollution Control Standards; Ocean-Going Vessels At-Berth; Notice of Decision](https://www.federalregister.gov/documents/2023/10/20/2023-23261/california-state-nonroad-engine-pollution-control-standards-ocean-going-vessels-at-berth-notice-of) (VERIFIED) (2023-10-20) — Environmental Protection Agency
+- [California State Motor Vehicle and Engine Pollution Control Standards; Heavy-Duty Vehicle and Engine Emission Warranty and Maintenance Provisions; Advanced Clean Trucks; Zero Emission Airport Shuttle; Zero-Emission Power Train Certification; Waiver of Preemption; Notice of Decision](https://www.federalregister.gov/documents/2023/04/06/2023-07184/california-state-motor-vehicle-and-engine-pollution-control-standards-heavy-duty-vehicle-and-engine) (VERIFIED) (2023-04-06) — Environmental Protection Agency
+- [Hazardous Materials: The State of Washington Crude Oil by Rail Volatility Requirements](https://www.federalregister.gov/documents/2020/05/15/2020-10381/hazardous-materials-the-state-of-washington-crude-oil-by-rail-volatility-requirements) (VERIFIED) (2020-05-15) — Transportation Department
+- [Determination of Attainment of the 1-Hour Ozone National Ambient Air Quality Standard in the San Joaquin Valley Nonattainment Area in California](https://www.federalregister.gov/documents/2016/07/18/2016-16792/determination-of-attainment-of-the-1-hour-ozone-national-ambient-air-quality-standard-in-the-san) (VERIFIED) (2016-07-18) — Environmental Protection Agency
+- [Water Quality Standards; Establishment of Revised Numeric Criteria for Selenium for the San Francisco Bay and Delta, State of California](https://www.federalregister.gov/documents/2016/07/15/2016-16266/water-quality-standards-establishment-of-revised-numeric-criteria-for-selenium-for-the-san-francisco) (VERIFIED) (2016-07-15) — Environmental Protection Agency ★
+- [Notice of Availability of Proposed National Pollutant Discharge Elimination System (NPDES) General Permit for Offshore Oil and Gas Exploration, Development and Production Operations off Southern California](https://www.federalregister.gov/documents/2012/12/20/2012-30696/notice-of-availability-of-proposed-national-pollutant-discharge-elimination-system-npdes-general) (VERIFIED) (2012-12-20) — Environmental Protection Agency
 - ... and 70 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Western%20States%20Petroleum%20Association%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Western%20States%20Petroleum%20Association%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Tax Filings (IRS 990)
@@ -240,12 +240,12 @@ Environment — oil drilling permits, SB 1137, fracking, refinery communities
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/950596680/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/950596680/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/950596680/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/950596680/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/950596680/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/950596680/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/950596680/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/950596680/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/950596680/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/950596680/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/950596680) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/950596680) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->

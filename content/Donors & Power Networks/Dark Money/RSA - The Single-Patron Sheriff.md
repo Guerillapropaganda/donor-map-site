@@ -38,6 +38,6 @@ The single-patron model reveals the inverse relationship between political cost 
 
 ### Sources
 
-- [FPPC: California sheriff campaign finance](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1)
-- [Ballotpedia: Sheriff elections](https://ballotpedia.org/RSA_-_The_Single-Patron_Sheriff) (Tier 3)
+- [FPPC: California sheriff campaign finance](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1) (VERIFIED)
+- [Ballotpedia: Sheriff elections](https://ballotpedia.org/RSA_-_The_Single-Patron_Sheriff) (Tier 3) (VERIFIED)
 

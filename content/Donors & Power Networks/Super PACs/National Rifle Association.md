@@ -212,23 +212,23 @@ The NRA's decline doesn't reverse its victories. The gun industry is pivoting to
 
 ### Sources
 
-- [FEC Independent Expenditures: NRA Outside Spending 2024](https://www.fec.gov/data/independent-expenditures/) (Tier 1)
-- [OpenSecrets: NRA Profile Summary](https://www.opensecrets.org/orgs/national-rifle-assn/summary?id=D000000082) (Tier 1)
-- [OpenSecrets: NRA Recipients Profile](https://www.opensecrets.org/orgs/national-rifle-assn/recipients?id=D000000082) (Tier 1)
-- [FEC: NRA Political Victory Fund 2024](https://www.fec.gov/data/committee/C00053553/) (Tier 1)
-- [Senate Finance Committee: The NRA & Russia — How a Tax-Exempt Organization Became a Foreign Asset (PDF)](https://www.finance.senate.gov/imo/media/doc/The%20NRA%20%20Russia%20-%20How%20a%20Tax-Exempt%20Organization%20Became%20a%20Foreign%20Asset.pdf) (Tier 1)
-- [New York Attorney General: NRA Trial Victory — LaPierre Corruption Verdict](https://ag.ny.gov/press-release/2024/attorney-general-james-wins-trial-against-nra-and-wayne-lapierre) (Tier 1)
-- [NRA-PVF: Grades and Endorsements](https://www.nrapvf.org/grades/) (Tier 1)
-- [NPR: NRA Wayne LaPierre Corruption Trial Verdict](https://www.npr.org/2024/02/23/1232229060/nra-wayne-lapierre-corruption-trial-verdict-new-york) (Tier 2)
-- [NPR: NRA Was 'Foreign Asset' to Russia Ahead of 2016](https://www.npr.org/2019/09/27/764879242/nra-was-foreign-asset-to-russia-ahead-of-2016-new-senate-report-reveals) (Tier 2)
-- [CNN: NRA Officials Knew Russians Were Using Ties](https://www.cnn.com/2019/09/27/politics/nra-russians-ties-president-2016-election/index.html) (Tier 2)
-- [NRA Watch: Broken & Bankrupt — The Continued Decline of the NRA](https://nrawatch.org/report/the-continued-decline-of-the-nra/) (Tier 2)
-- [The Reload: NRA Membership Fell to 3.8 Million in 2023](https://thereload.com/nra-membership-fell-to-3-8-million-in-2023/) (Tier 2)
-- [Everytown: NRA Membership Hits 10-Year Low](https://www.everytown.org/press/new-report-nra-membership-hits-10-year-low-hemorrhaging-over-1-million-members-since-2019/) (Tier 2)
-- [Washington Post: Nobody knows how many members the NRA has, but its tax returns offer some clues](https://www.washingtonpost.com/news/wonk/wp/2018/02/26/nobody-knows-how-many-members-the-nra-has-but-its-tax-returns-offer-some-clues/) (Tier 2)
-- [Everytown Research: The Gun Industry's Power Broker — NSSF Report](https://everytownresearch.org/report/the-gun-industrys-power-broker-nssf/) (Tier 2)
-- [Center for American Progress: PLCAA — Gun Industry Immunity FAQ](https://www.americanprogress.org/article/frequently-asked-questions-gun-industry-immunity/) (Tier 2)
-- [NYSBA: The Bruen Decision and Its Impact](https://nysba.org/the-supreme-courts-bruen-decision-and-its-impact-what-comes-next/) (Tier 2)
+- [FEC Independent Expenditures: NRA Outside Spending 2024](https://www.fec.gov/data/independent-expenditures/) (Tier 1) (NEEDS REVIEW)
+- [OpenSecrets: NRA Profile Summary](https://www.opensecrets.org/orgs/national-rifle-assn/summary?id=D000000082) (Tier 1) (VERIFIED)
+- [OpenSecrets: NRA Recipients Profile](https://www.opensecrets.org/orgs/national-rifle-assn/recipients?id=D000000082) (Tier 1) (VERIFIED)
+- [FEC: NRA Political Victory Fund 2024](https://www.fec.gov/data/committee/C00053553/) (Tier 1) (VERIFIED)
+- [Senate Finance Committee: The NRA & Russia — How a Tax-Exempt Organization Became a Foreign Asset (PDF)](https://www.finance.senate.gov/imo/media/doc/The%20NRA%20%20Russia%20-%20How%20a%20Tax-Exempt%20Organization%20Became%20a%20Foreign%20Asset.pdf) (Tier 1) (VERIFIED)
+- [New York Attorney General: NRA Trial Victory — LaPierre Corruption Verdict](https://ag.ny.gov/press-release/2024/attorney-general-james-wins-trial-against-nra-and-wayne-lapierre) (Tier 1) (VERIFIED)
+- [NRA-PVF: Grades and Endorsements](https://www.nrapvf.org/grades/) (Tier 1) (VERIFIED)
+- [NPR: NRA Wayne LaPierre Corruption Trial Verdict](https://www.npr.org/2024/02/23/1232229060/nra-wayne-lapierre-corruption-trial-verdict-new-york) (Tier 2) (VERIFIED)
+- [NPR: NRA Was 'Foreign Asset' to Russia Ahead of 2016](https://www.npr.org/2019/09/27/764879242/nra-was-foreign-asset-to-russia-ahead-of-2016-new-senate-report-reveals) (Tier 2) (VERIFIED)
+- [CNN: NRA Officials Knew Russians Were Using Ties](https://www.cnn.com/2019/09/27/politics/nra-russians-ties-president-2016-election/index.html) (Tier 2) (VERIFIED)
+- [NRA Watch: Broken & Bankrupt — The Continued Decline of the NRA](https://nrawatch.org/report/the-continued-decline-of-the-nra/) (Tier 2) (VERIFIED)
+- [The Reload: NRA Membership Fell to 3.8 Million in 2023](https://thereload.com/nra-membership-fell-to-3-8-million-in-2023/) (Tier 2) (VERIFIED)
+- [Everytown: NRA Membership Hits 10-Year Low](https://www.everytown.org/press/new-report-nra-membership-hits-10-year-low-hemorrhaging-over-1-million-members-since-2019/) (Tier 2) (VERIFIED)
+- [Washington Post: Nobody knows how many members the NRA has, but its tax returns offer some clues](https://www.washingtonpost.com/news/wonk/wp/2018/02/26/nobody-knows-how-many-members-the-nra-has-but-its-tax-returns-offer-some-clues/) (Tier 2) (VERIFIED)
+- [Everytown Research: The Gun Industry's Power Broker — NSSF Report](https://everytownresearch.org/report/the-gun-industrys-power-broker-nssf/) (Tier 2) (VERIFIED)
+- [Center for American Progress: PLCAA — Gun Industry Immunity FAQ](https://www.americanprogress.org/article/frequently-asked-questions-gun-industry-immunity/) (Tier 2) (VERIFIED)
+- [NYSBA: The Bruen Decision and Its Impact](https://nysba.org/the-supreme-courts-bruen-decision-and-its-impact-what-comes-next/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -257,13 +257,13 @@ The NRA's decline doesn't reverse its victories. The gun industry is pivoting to
 
 **Notable filings:**
 
-- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000170684326000001/0001706843-26-000001-index.htm)
-- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000201763326000001/0002017633-26-000001-index.htm)
-- 2026-04-01 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000162582426000002/0001625824-26-000002-index.htm)
-- 2026-04-01 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000181702526000001/0001817025-26-000001-index.htm)
-- 2026-04-01 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000173846026000002/0001738460-26-000002-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000170684326000001/0001706843-26-000001-index.htm) (VERIFIED)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000201763326000001/0002017633-26-000001-index.htm) (VERIFIED)
+- 2026-04-01 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000162582426000002/0001625824-26-000002-index.htm) (VERIFIED)
+- 2026-04-01 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000181702526000001/0001817025-26-000001-index.htm) (VERIFIED)
+- 2026-04-01 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000173846026000002/0001738460-26-000002-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22National%20Rifle%20Association%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22National%20Rifle%20Association%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -278,7 +278,7 @@ The NRA's decline doesn't reverse its victories. The gun industry is pivoting to
 | Net Assets | $168.1M |
 | Officer Compensation | $5.6M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 530116130](https://projects.propublica.org/nonprofits/organizations/530116130) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 530116130](https://projects.propublica.org/nonprofits/organizations/530116130) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Tax Filings (IRS 990)
@@ -296,14 +296,14 @@ The NRA's decline doesn't reverse its victories. The gun industry is pivoting to
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/351046434/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/351046434/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/351046434/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/351046434/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/351046434/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/351046434/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/351046434/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/351046434/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/351046434/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/351046434/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/351046434) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/351046434) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Federal Register Activity
@@ -317,13 +317,13 @@ The NRA's decline doesn't reverse its victories. The gun industry is pivoting to
 | Agencies | Agriculture Department, Alcohol, Tobacco, Firearms, and Explosives Bureau, Commerce Department, Federal Election Commission, Fish and Wildlife Service, Forest Service, Industry and Security Bureau, Interior Department +4 more |
 
 **Recent regulatory activity:**
-- [Definition of “Engaged in the Business” as a Dealer in Firearms](https://www.federalregister.gov/documents/2024/04/19/2024-07838/definition-of-engaged-in-the-business-as-a-dealer-in-firearms) (2024-04-19) — Justice Department ★
-- [Control of Firearms, Guns, Ammunition and Related Articles the President Determines No Longer Warrant Control Under the United States Munitions List (USML)](https://www.federalregister.gov/documents/2020/01/23/2020-00573/control-of-firearms-guns-ammunition-and-related-articles-the-president-determines-no-longer-warrant) (2020-01-23) — Commerce Department ★
-- [Bump-Stock-Type Devices](https://www.federalregister.gov/documents/2018/12/26/2018-27763/bump-stock-type-devices) (2018-12-26) — Justice Department ★
-- [Stanislaus National Forest, CA; Notice of Intent To Prepare an Environmental Impact Statement for Candy Rock Quarry Management](https://www.federalregister.gov/documents/2012/02/28/2012-4608/stanislaus-national-forest-ca-notice-of-intent-to-prepare-an-environmental-impact-statement-for) (2012-02-28) — Agriculture Department
-- [Endangered and Threatened Wildlife and Plants; Revising the Listing of the Gray Wolf (Canis lupus) in the Western Great Lakes](https://www.federalregister.gov/documents/2011/12/28/2011-32825/endangered-and-threatened-wildlife-and-plants-revising-the-listing-of-the-gray-wolf-canis-lupus-in) (2011-12-28) — Interior Department
-- [Endangered and Threatened Wildlife and Plants; Proposed Rule To Revise the List of Endangered and Threatened Wildlife for the Gray Wolf (Canis lupus) in the Eastern United States, Initiation of Status Reviews for the Gray Wolf and for the Eastern Wolf (Canis lycaon)](https://www.federalregister.gov/documents/2011/05/05/2011-9557/endangered-and-threatened-wildlife-and-plants-proposed-rule-to-revise-the-list-of-endangered-and) (2011-05-05) — Interior Department
+- ~~[Definition of “Engaged in the Business” as a Dealer in Firearms](https://www.federalregister.gov/documents/2024/04/19/2024-07838/definition-of-engaged-in-the-business-as-a-dealer-in-firearms)~~ (URL broken, archived by Ops) (2024-04-19) — Justice Department ★
+- ~~[Control of Firearms, Guns, Ammunition and Related Articles the President Determines No Longer Warrant Control Under the United States Munitions List (USML)](https://www.federalregister.gov/documents/2020/01/23/2020-00573/control-of-firearms-guns-ammunition-and-related-articles-the-president-determines-no-longer-warrant)~~ (URL broken, archived by Ops) (2020-01-23) — Commerce Department ★
+- [Bump-Stock-Type Devices](https://www.federalregister.gov/documents/2018/12/26/2018-27763/bump-stock-type-devices) (VERIFIED) (2018-12-26) — Justice Department ★
+- [Stanislaus National Forest, CA; Notice of Intent To Prepare an Environmental Impact Statement for Candy Rock Quarry Management](https://www.federalregister.gov/documents/2012/02/28/2012-4608/stanislaus-national-forest-ca-notice-of-intent-to-prepare-an-environmental-impact-statement-for) (VERIFIED) (2012-02-28) — Agriculture Department
+- [Endangered and Threatened Wildlife and Plants; Revising the Listing of the Gray Wolf (Canis lupus) in the Western Great Lakes](https://www.federalregister.gov/documents/2011/12/28/2011-32825/endangered-and-threatened-wildlife-and-plants-revising-the-listing-of-the-gray-wolf-canis-lupus-in) (VERIFIED) (2011-12-28) — Interior Department
+- ~~[Endangered and Threatened Wildlife and Plants; Proposed Rule To Revise the List of Endangered and Threatened Wildlife for the Gray Wolf (Canis lupus) in the Eastern United States, Initiation of Status Reviews for the Gray Wolf and for the Eastern Wolf (Canis lycaon)](https://www.federalregister.gov/documents/2011/05/05/2011-9557/endangered-and-threatened-wildlife-and-plants-proposed-rule-to-revise-the-list-of-endangered-and)~~ (URL broken, archived by Ops) (2011-05-05) — Interior Department
 - ... and 19 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22National%20Rifle%20Association%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22National%20Rifle%20Association%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->

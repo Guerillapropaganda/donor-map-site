@@ -141,14 +141,14 @@ The post-Congress transition confirms the transaction. Ryan moved seamlessly fro
 
 ## Sources
 
-- [FEC Candidate: Paul Ryan donor profile](https://www.fec.gov/data/candidate/P80003353/) (Tier 1)
-- [FEC: Paul Ryan campaign finance (CID: N00004357)](https://www.fec.gov/data/candidate/H2WI01055/) (Tier 1)
-- [Center on Budget and Policy Priorities: Tax Cuts and Jobs Act deficit impact analysis](https://www.cbpp.org/sites/default/files/atoms/files/2020-10-14_tcja_deficit_impact_brief.pdf) (Tier 2)
-- [ProPublica: Paul Ryan Reading Guide — Koch network, budget policy, donor relationships](https://www.propublica.org/article/paul-ryan-reading-guide-the-best-reporting-on-the-vp-candidate) (Tier 2)
-- [The Guardian: Paul Ryan's 2017 tax bill - deficit impact](https://www.theguardian.com/us-news/2017/dec/20/republicans-tax-bill-paul-ryan-deficit) (Tier 2)
-- [Wikipedia: Tax Cuts and Jobs Act - Paul Ryan role](https://en.wikipedia.org/wiki/Tax_Cuts_and_Jobs_Act_of_2017) (Tier 3)
-- [Congress.gov: Paul Ryan voting record](https://www.congress.gov/member/paul-ryan/R000570) (Tier 1)
-- [CNN: Former House Speaker Paul Ryan joins board of Fox Corporation (Mar 2019)](https://www.cnn.com/2019/03/19/media/paul-ryan-fox-corporation/index.html) (Tier 2)
+- [FEC Candidate: Paul Ryan donor profile](https://www.fec.gov/data/candidate/P80003353/) (Tier 1) (VERIFIED)
+- ~~[FEC: Paul Ryan campaign finance (CID: N00004357)](https://www.fec.gov/data/candidate/H2WI01055/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Center on Budget and Policy Priorities: Tax Cuts and Jobs Act deficit impact analysis](https://www.cbpp.org/sites/default/files/atoms/files/2020-10-14_tcja_deficit_impact_brief.pdf)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [ProPublica: Paul Ryan Reading Guide — Koch network, budget policy, donor relationships](https://www.propublica.org/article/paul-ryan-reading-guide-the-best-reporting-on-the-vp-candidate) (Tier 2) (VERIFIED)
+- ~~[The Guardian: Paul Ryan's 2017 tax bill - deficit impact](https://www.theguardian.com/us-news/2017/dec/20/republicans-tax-bill-paul-ryan-deficit)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Wikipedia: Tax Cuts and Jobs Act - Paul Ryan role](https://en.wikipedia.org/wiki/Tax_Cuts_and_Jobs_Act_of_2017) (Tier 3) (VERIFIED)
+- ~~[Congress.gov: Paul Ryan voting record](https://www.congress.gov/member/paul-ryan/R000570)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [CNN: Former House Speaker Paul Ryan joins board of Fox Corporation (Mar 2019)](https://www.cnn.com/2019/03/19/media/paul-ryan-fox-corporation/index.html) (Tier 2) (VERIFIED)
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
@@ -191,7 +191,7 @@ The post-Congress transition confirms the transaction. Ryan moved seamlessly fro
 | 2018-03-22 | H.R. 1625: Consolidated Appropriations Act, 2018 | Yea | Passed |
 | 2018-03-22 | H.Res. 796: Providing for consideration of H.R. 1625: Consolidated  Appropriatio… | Aye | Passed |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400351) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400351) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
 
 ## Voting Record
@@ -216,7 +216,7 @@ The post-Congress transition confirms the transaction. Ryan moved seamlessly fro
 
 **Sources**
 
-- [GovTrack: Paul Ryan](https://www.govtrack.us/congress/members/400351) (Tier 1)
+- [GovTrack: Paul Ryan](https://www.govtrack.us/congress/members/400351) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-10 -->
@@ -243,7 +243,7 @@ The post-Congress transition confirms the transaction. Ryan moved seamlessly fro
 
 **Sources**
 
-- [Congress.gov: Paul Ryan](https://www.congress.gov/member/a000383) (Tier 1)
+- ~~[Congress.gov: Paul Ryan](https://www.congress.gov/member/a000383)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [GovTrack: Paul Ryan](https://www.govtrack.us/congress/members/400351) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->
@@ -277,5 +277,5 @@ The post-Congress transition confirms the transaction. Ryan moved seamlessly fro
 | AMERICAN CROSSROADS | $11,481,126 | $0 |
 | AMERICANS FOR RESPONSIBLE LEADERSHIP | $9,633,565 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/P80003353/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/P80003353/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->

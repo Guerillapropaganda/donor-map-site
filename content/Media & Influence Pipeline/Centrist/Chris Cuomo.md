@@ -47,7 +47,7 @@ The critical moment: during COVID-19 in 2020, Chris Cuomo conducted on-air inter
 
 No FEC individual contributions confirmed for Chris Cuomo the journalist. FEC API returns 2 small ActBlue donations attributed to "CUOMO, CHRISTOPHER" (NY, Westchester County employer), both belong to a different person (county government employee, not the CNN/NewsNation anchor). Disambiguation confirmed via employer and state filtering. Zero political donations from a journalist who earned $6M/year during the Trump era and has been a major media figure since 2001.
 
-- [FEC: Chris Cuomo individual contributions (0 results, 0 confirmed)](https://www.fec.gov/data/receipts/?contributor_name=cuomo%2C+chris) (Tier 1)
+- [FEC: Chris Cuomo individual contributions (0 results, 0 confirmed)](https://www.fec.gov/data/receipts/?contributor_name=cuomo%2C+chris) (Tier 1) (VERIFIED)
 
 > **Disambiguation note:** The FEC API returns 2 results for "CUOMO, CHRISTOPHER", both small ActBlue donations from a Westchester County, NY employer (likely a government employee). Neither matches Chris Cuomo the television journalist. The dynasty asset. Chris Cuomo's entire media career, was built on family political infrastructure, not personal political giving. The absence of any FEC record is structurally significant: a media figure who rose through a political dynasty leaves no trace of personal political participation.
 
@@ -147,16 +147,16 @@ Chris Cuomo represents the **corporate media carousel**, the mechanism by which 
 
 ### Sources
 
-- [FEC Individual Contributions: Christopher Cuomo, NY (2 results, likely different person, Westchester County employee)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=cuomo%2C+christopher&contributor_state=NY&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1)
-- [Wikipedia: Chris Cuomo](https://en.wikipedia.org/wiki/Chris_Cuomo) (Tier 3)
-- [CNN: "CNN Fires Chris Cuomo" (Dec 4, 2021)](https://www.cnn.com/2021/12/04/media/cnn-fires-chris-cuomo) (Tier 2)
-- [NPR: "Chris Cuomo, Newly Fired from CNN, Faces an Allegation of Sexual Misconduct" (Dec 5, 2021)](https://www.npr.org/2021/12/05/1061639233/chris-cuomo-newly-fired-from-cnn-faces-an-allegation-of-sexual-misconduct) (Tier 2)
-- [NPR: "Chris Cuomo Seeks $125 Million After Being Fired from CNN" (Mar 17, 2022)](https://www.npr.org/2022/03/17/1087167551/chris-cuomo-cnn-125-million) (Tier 2)
-- [Variety: "Chris Cuomo Inks Multiyear NewsNation Deal Renewal as Primetime Host" (Dec 16, 2024)](https://variety.com/2024/tv/news/chris-cuomo-newsnation-multiyear-renewal-1236250269/) (Tier 2)
-- [NewsNation: "NewsNation Finishes 2025 with Record Viewership, Ratings Gains"](https://www.newsnationnow.com/entertainment-news/media/newsnation-record-viewership-ratings/) (Tier 2)
-- [Washington Post: "Chris Cuomo Isn't Done with TV" (Jan 22, 2024)](https://www.washingtonpost.com/style/media/2024/01/22/chris-cuomo-interview-newsnation-cnn/) (Tier 2)
-- [Variety: "Chris Cuomo: I Was Going to Kill Myself After CNN Firing" (Feb 2023)](https://variety.com/2023/tv/news/chris-cuomo-kill-myself-cnn-firing-1235525559/) (Tier 2)
-- [NBC News: "CNN Fires Chris Cuomo for Aiding His Brother Against Sexual Misconduct Allegations" (Dec 4, 2021)](https://www.nbcnews.com/news/us-news/cnn-fires-chris-cuomo-suspension-rcna7245) (Tier 2)
+- [FEC Individual Contributions: Christopher Cuomo, NY (2 results, likely different person, Westchester County employee)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=cuomo%2C+christopher&contributor_state=NY&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1) (VERIFIED)
+- [Wikipedia: Chris Cuomo](https://en.wikipedia.org/wiki/Chris_Cuomo) (Tier 3) (VERIFIED)
+- [CNN: "CNN Fires Chris Cuomo" (Dec 4, 2021)](https://www.cnn.com/2021/12/04/media/cnn-fires-chris-cuomo) (Tier 2) (VERIFIED)
+- [NPR: "Chris Cuomo, Newly Fired from CNN, Faces an Allegation of Sexual Misconduct" (Dec 5, 2021)](https://www.npr.org/2021/12/05/1061639233/chris-cuomo-newly-fired-from-cnn-faces-an-allegation-of-sexual-misconduct) (Tier 2) (VERIFIED)
+- [NPR: "Chris Cuomo Seeks $125 Million After Being Fired from CNN" (Mar 17, 2022)](https://www.npr.org/2022/03/17/1087167551/chris-cuomo-cnn-125-million) (Tier 2) (VERIFIED)
+- [Variety: "Chris Cuomo Inks Multiyear NewsNation Deal Renewal as Primetime Host" (Dec 16, 2024)](https://variety.com/2024/tv/news/chris-cuomo-newsnation-multiyear-renewal-1236250269/) (Tier 2) (VERIFIED)
+- ~~[NewsNation: "NewsNation Finishes 2025 with Record Viewership, Ratings Gains"](https://www.newsnationnow.com/entertainment-news/media/newsnation-record-viewership-ratings/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Washington Post: "Chris Cuomo Isn't Done with TV" (Jan 22, 2024)](https://www.washingtonpost.com/style/media/2024/01/22/chris-cuomo-interview-newsnation-cnn/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Variety: "Chris Cuomo: I Was Going to Kill Myself After CNN Firing" (Feb 2023)](https://variety.com/2023/tv/news/chris-cuomo-kill-myself-cnn-firing-1235525559/) (Tier 2) (VERIFIED)
+- [NBC News: "CNN Fires Chris Cuomo for Aiding His Brother Against Sexual Misconduct Allegations" (Dec 4, 2021)](https://www.nbcnews.com/news/us-news/cnn-fires-chris-cuomo-suspension-rcna7245) (Tier 2) (VERIFIED)
 
 ---
 

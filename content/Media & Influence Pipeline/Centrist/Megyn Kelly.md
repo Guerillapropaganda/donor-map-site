@@ -46,7 +46,7 @@ Kelly's revenue architecture spans three layers: institutional contracts, platfo
 
 No FEC individual contributions found. FEC API returns zero results for "Megyn Kelly" across multiple state variations and employer filters. Zero political donations from a media figure who earned $15-20M/year at Fox, $23M/year at NBC, and who endorsed Donald Trump at a Pittsburgh rally on October 28, 2024, one day before the 2024 election.
 
-- [FEC: Megyn Kelly individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=kelly%2C+megyn) (Tier 1)
+- [FEC: Megyn Kelly individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=kelly%2C+megyn) (Tier 1) (VERIFIED)
 
 > **Note on API results:** The FEC API search for "kelly, megyn" returns zero results across multiple state variations and employer filters. No API matches for the media figure despite $15-20M annual salary at Fox and NBC. No results to disambiguate, zero contributions on record.
 
@@ -164,23 +164,23 @@ The Halperin partnership and Hicks hiring are not anomalies, they are the patter
 
 ### Sources
 
-- [NBCNews: Megyn Kelly walks away from NBC with the remainder of her $69M deal](https://www.nbcnews.com/news/all/megyn-kelly-walks-away-nbc-remainder-her-69m-deal-n930591) (Tier 2)
-- [Variety: Megyn Kelly, NBC News Near $30 Million Contract Settlement](https://variety.com/2018/tv/news/megyn-kelly-out-nbc-news-30-million-settlement-1202995044/) (Tier 2)
-- [NPR: Megyn Kelly Out At NBC's 'Today' Show](https://www.npr.org/2018/10/25/660644000/megyn-kelly-out-at-nbc-after-blackface-remarks) (Tier 2)
-- [PBS NewsHour: NBC cancels Megyn Kelly's morning show after blackface controversy](https://www.pbs.org/newshour/nation/megyn-kelly-remains-absent-from-show-nbc-future-in-doubt) (Tier 2)
-- [Variety: Megyn Kelly Launches Independent Media Company, Devil May Care Media](https://variety.com/2020/tv/news/megyn-kelly-launches-devil-may-care-podcast-1234765217/) (Tier 2)
-- [SiriusXM Press Release: Megyn Kelly Signs New Multi-Year Deal with SiriusXM (2023)](https://investor.siriusxm.com/news-events/press-releases/detail/1982/megyn-kelly-signs-new-multi-year-deal-with-siriusxm) (Tier 1)
-- [SiriusXM Press Release: Megyn Kelly to Headline Her Own SiriusXM Channel (2025)](https://investor.siriusxm.com/news-events/press-releases/detail/2216/megyn-kelly-to-headline-her-own-siriusxm-channel-as-part-of) (Tier 1)
-- [Hollywood Reporter: Megyn Kelly Channel on SiriusXM Launching in New Multiyear Deal](https://www.hollywoodreporter.com/business/business-news/megyn-kelly-channel-siriusxm-new-deal-1236396667/) (Tier 2)
-- [Variety: Fox Acquires Red Seat Ventures, Backer of Shows by Kelly, Carlson](https://variety.com/2025/tv/news/fox-acquires-red-seat-ventures-megyn-kelly-tucker-carlson-1236302452/) (Tier 2)
-- [Deadline: Hope Hicks To Join Megyn Kelly's Media Company As COO](https://deadline.com/2025/07/hope-hicks-megyn-kelly-coo-1236472126/) (Tier 2)
-- [The Hill: Megyn Kelly hires Hope Hicks as she expands media company](https://thehill.com/homenews/media/5423816-megyn-kelly-media-company-coo/) (Tier 2)
-- [Hollywood Reporter: Hope Hicks Joins Megyn Kelly Podcast Company Devil May Care Media](https://www.hollywoodreporter.com/business/business-news/hope-hicks-joins-megyn-kelly-media-podcast-company-1236330874/) (Tier 2)
-- [Hollywood Reporter: Megyn Kelly Podcast Network. Host Launches MK Media With Mark Halperin](https://www.hollywoodreporter.com/business/digital/megyn-kelly-launches-mk-media-podcast-network-1236171445/) (Tier 2)
-- [Variety: Megyn Kelly to Lead Her Own Sirius XM Channel in New Multi-Year Deal](https://variety.com/2025/tv/news/megyn-kelly-sirius-xm-channel-multi-year-deal-1236543962/) (Tier 2)
-- [Semafor: Inside Megyn Kelly's YouTube success](https://www.semafor.com/article/08/25/2024/inside-megyn-kellys-youtube-success) (Tier 2)
-- [ABC News: Megyn Kelly endorses Trump, calling him 'protector of women'](https://abcnews.com/Politics/megyn-kelly-endorses-trump-calling-protector-women/story?id=115508795?id=115508795) (Tier 2)
-- [Hollywood Reporter: Megyn Kelly Insists She's a Journalist While Explaining Trump Endorsement](https://www.hollywoodreporter.com/news/general-news/megyn-kelly-podcast-still-a-journalist-endorsement-donald-trump-1236177299/) (Tier 2)
-- [PBS Frontline: How Megyn Kelly Went from Fox News Star to Alt-Right Target](https://www.pbs.org/wgbh/frontline/article/cull-her-out-how-megyn-kelly-went-from-fox-news-star-to-alt-right-target/) (Tier 2)
-- [Wikipedia: Megyn Kelly](https://en.wikipedia.org/wiki/Megyn_Kelly) (Tier 3)
+- [NBCNews: Megyn Kelly walks away from NBC with the remainder of her $69M deal](https://www.nbcnews.com/news/all/megyn-kelly-walks-away-nbc-remainder-her-69m-deal-n930591) (Tier 2) (VERIFIED)
+- [Variety: Megyn Kelly, NBC News Near $30 Million Contract Settlement](https://variety.com/2018/tv/news/megyn-kelly-out-nbc-news-30-million-settlement-1202995044/) (Tier 2) (VERIFIED)
+- [NPR: Megyn Kelly Out At NBC's 'Today' Show](https://www.npr.org/2018/10/25/660644000/megyn-kelly-out-at-nbc-after-blackface-remarks) (Tier 2) (VERIFIED)
+- [PBS NewsHour: NBC cancels Megyn Kelly's morning show after blackface controversy](https://www.pbs.org/newshour/nation/megyn-kelly-remains-absent-from-show-nbc-future-in-doubt) (Tier 2) (VERIFIED)
+- [Variety: Megyn Kelly Launches Independent Media Company, Devil May Care Media](https://variety.com/2020/tv/news/megyn-kelly-launches-devil-may-care-podcast-1234765217/) (Tier 2) (VERIFIED)
+- [SiriusXM Press Release: Megyn Kelly Signs New Multi-Year Deal with SiriusXM (2023)](https://investor.siriusxm.com/news-events/press-releases/detail/1982/megyn-kelly-signs-new-multi-year-deal-with-siriusxm) (Tier 1) (VERIFIED)
+- [SiriusXM Press Release: Megyn Kelly to Headline Her Own SiriusXM Channel (2025)](https://investor.siriusxm.com/news-events/press-releases/detail/2216/megyn-kelly-to-headline-her-own-siriusxm-channel-as-part-of) (Tier 1) (VERIFIED)
+- [Hollywood Reporter: Megyn Kelly Channel on SiriusXM Launching in New Multiyear Deal](https://www.hollywoodreporter.com/business/business-news/megyn-kelly-channel-siriusxm-new-deal-1236396667/) (Tier 2) (VERIFIED)
+- [Variety: Fox Acquires Red Seat Ventures, Backer of Shows by Kelly, Carlson](https://variety.com/2025/tv/news/fox-acquires-red-seat-ventures-megyn-kelly-tucker-carlson-1236302452/) (Tier 2) (VERIFIED)
+- [Deadline: Hope Hicks To Join Megyn Kelly's Media Company As COO](https://deadline.com/2025/07/hope-hicks-megyn-kelly-coo-1236472126/) (Tier 2) (VERIFIED)
+- ~~[The Hill: Megyn Kelly hires Hope Hicks as she expands media company](https://thehill.com/homenews/media/5423816-megyn-kelly-media-company-coo/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Hollywood Reporter: Hope Hicks Joins Megyn Kelly Podcast Company Devil May Care Media](https://www.hollywoodreporter.com/business/business-news/hope-hicks-joins-megyn-kelly-media-podcast-company-1236330874/) (Tier 2) (VERIFIED)
+- [Hollywood Reporter: Megyn Kelly Podcast Network. Host Launches MK Media With Mark Halperin](https://www.hollywoodreporter.com/business/digital/megyn-kelly-launches-mk-media-podcast-network-1236171445/) (Tier 2) (VERIFIED)
+- [Variety: Megyn Kelly to Lead Her Own Sirius XM Channel in New Multi-Year Deal](https://variety.com/2025/tv/news/megyn-kelly-sirius-xm-channel-multi-year-deal-1236543962/) (Tier 2) (VERIFIED)
+- [Semafor: Inside Megyn Kelly's YouTube success](https://www.semafor.com/article/08/25/2024/inside-megyn-kellys-youtube-success) (Tier 2) (VERIFIED)
+- [ABC News: Megyn Kelly endorses Trump, calling him 'protector of women'](https://abcnews.com/Politics/megyn-kelly-endorses-trump-calling-protector-women/story?id=115508795?id=115508795) (Tier 2) (VERIFIED)
+- [Hollywood Reporter: Megyn Kelly Insists She's a Journalist While Explaining Trump Endorsement](https://www.hollywoodreporter.com/news/general-news/megyn-kelly-podcast-still-a-journalist-endorsement-donald-trump-1236177299/) (Tier 2) (VERIFIED)
+- [PBS Frontline: How Megyn Kelly Went from Fox News Star to Alt-Right Target](https://www.pbs.org/wgbh/frontline/article/cull-her-out-how-megyn-kelly-went-from-fox-news-star-to-alt-right-target/) (Tier 2) (VERIFIED)
+- [Wikipedia: Megyn Kelly](https://en.wikipedia.org/wiki/Megyn_Kelly) (Tier 3) (VERIFIED)
 

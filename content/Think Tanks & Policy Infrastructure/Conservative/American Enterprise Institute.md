@@ -323,64 +323,64 @@ AEI's role is to make that system invisible by making it look like scholarship.
 
 ### Sources
 
-- [ProPublica Nonprofit Explorer: AEI IRS Form 990 (FY2024)](https://projects.propublica.org/nonprofits/organizations/530218495) (Tier 1)
-- [OpenSecrets: American Enterprise Institute profile](https://www.opensecrets.org/orgs/american-enterprise-institute/summary?id=D000031480) (Tier 1)
-- [ProPublica Trump Town: AEI alumni in Trump administration](https://projects.propublica.org/trump-town/organizations/american-enterprise-institute) (Tier 1)
-- [ProPublica Supreme Connections: AEI and Supreme Court](https://projects.propublica.org/supreme-connections/organizations/american-enterprise-institute/) (Tier 1)
-- [ProPublica: Clarence Thomas Secretly Accepted Luxury Trips From GOP Donor (Harlan Crow)](https://www.propublica.org/article/clarence-thomas-scotus-undisclosed-luxury-travel-gifts-crow) (Tier 2)
-- [ProPublica: Clarence Thomas Raised Him, Harlan Crow Paid His Tuition](https://www.propublica.org/article/clarence-thomas-harlan-crow-private-school-tuition-scotus) (Tier 2)
-- [AEI Press Release: $20 Million Gift from Daniel A. D'Aniello](https://www.aei.org/press/american-enterprise-institute-announces-20-million-gift-from-daniel-a-daniello-in-support-of-free-enterprise/) (Tier 3)
-- [Washington Post: Carlyle Group co-founder gives $20 million to AEI (Feb 2014)](https://www.washingtonpost.com/news/wonk/wp/2014/02/24/exclusive-one-of-washingtons-wealthiest-is-giving-20-million-to-a-top-conservative-think-tank/) (Tier 2)
-- [DeSmog: American Enterprise Institute, climate denial profile](https://www.desmog.com/american-enterprise-institute/) (Tier 2)
-- [DeSmog: ExxonMobil funding to climate denial organizations (2016)](https://www.desmog.com/2016/07/08/exxonmobil-new-disclosures-show-oil-giant-still-funding-climate-science-denial-groups/) (Tier 2)
-- [Union of Concerned Scientists: ExxonMobil funding to climate science denier groups](https://blog.ucs.org/elliott-negin/exxonmobil-still-funding-climate-science-denier-groups/) (Tier 2)
-- [The Guardian: AEI offered $10K per article to critique IPCC (Feb 2007)](https://www.theguardian.com/environment/2007/feb/02/frontpagenews.internationalnewscomment) *(source unavailable)* (Tier 2)
-- [AEI: PDF defense of $10K IPCC offer controversy](https://www.aei.org/wp-content/uploads/2011/11/20070209_Guardiancontroversy.pdf) (Tier 3)
-- [Washington Post: AEI critiques of warming questioned (Feb 2007)](https://www.washingtonpost.com/archive/politics/2007/02/05/aei-critiques-of-warming-questioned-span-classbankheadthink-tank-defends-money-offers-to-challenge-climate-reportspan/b839bc0d-f562-4a20-bd23-623ee7b58532/) (Tier 2)
-- [Skeptical Science: Patrick Michaels funding disclosure](https://skepticalscience.com/patrick-michaels-history-getting-climate-wrong.html) (Tier 2)
-- [Mother Jones: Patrick Michaels fossil fuel funding (2010)](https://www.motherjones.com/politics/2010/02/pat-michaels-climate-skeptic/) (Tier 2)
-- [UCS: Benjamin Zycher climate denial research (2019)](https://blog.ucs.org/elliott-negin/exxonmobil-claims-shift-on-climate-continues-to-fund-climate-deniers/) (Tier 2)
-- [AEI: Benjamin Zycher on carbon tax ineffectiveness](https://www.aei.org/articles/would-a-carbon-dioxide-tax-be-efficient-2/) (Tier 3)
-- [AEI: EPA greenhouse gas standards criticism (2023)](https://www.aei.org/articles/the-epa-forges-ahead-toward-less-electricity-supply-and-greater-electricity-demand/) (Tier 3)
-- [AEI: Peter Wallison FCIC dissent](https://www.aei.org/economics/dissenting-views-at-the-financial-crisis-inquiry-commission/) (Tier 3)
-- [AEI: Edward Pinto Forensic Study on housing crisis](https://www.aei.org/articles/government-housing-policy-the-sine-qua-non-of-the-financial-crisis-2/) (Tier 3)
-- [New York Times: Peter Wallison "Hidden in Plain Sight" book review (2015)](https://www.nytimes.com/2015/03/12/business/dealbook/a-crusader-against-the-common-view-of-the-financial-crisis.html) (Tier 2)
-- [AEI: Adam White testimony on CFPB (2015)](https://democrats-financialservices.house.gov/uploadedfiles/11.19.2015_adam_j._white_testimony.pdf) (Tier 2)
-- [SourceWatch: American Enterprise Institute, funding and donor documentation](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/American_Enterprise_Institute) (Tier 3)
-- [AEI: Wealth Taxation overview (2019)](https://www.aei.org/wp-content/uploads/2019/08/Wealth-Taxation-An-Overview-of-the-Issues.pdf) (Tier 3)
-- [AEI: Joe Antos on ACA Medicaid expansion](https://www.aei.org/health-care/why-the-acas-medicaid-expansion-isnt-a-good-deal-for-the-poor/) (Tier 3)
-- [AEI: Pharmaceutical pricing and innovation](https://www.aei.org/press/prices-markets-and-the-pharmaceutical-revolution/) (Tier 3)
-- [AEI YouTube: Inflation Reduction Act drug price negotiation analysis](https://www.youtube.com?v=N-zKHmW3aFA) (Tier 3)
-- [AEI: Mark Perry minimum wage research summary](https://www.aei.org/carpe-diem/minimum-wage-updates/) (Tier 3)
-- [AEI via X/Twitter: Michael Strain on minimum wage hours (Feb 2026)](https://x.com/AEI/status/2024568010925555973) (Tier 3)
-- [AEI: Why unions advocate for minimum wage increases (2023 working paper)](https://www.aei.org/research-products/working-paper/why-do-labor-unions-advocate-for-minimum-wage-increases/) (Tier 3)
-- [AEI: Andrew Biggs Social Security reform analysis](https://www.aei.org/op-eds/social-security-reform-can-boost-the-economy-or-hold-it-back/) (Tier 3)
-- [Cato Institute: Critique of Social Security private savings proposal](https://www.cato.org/blog/case-against-raiding-private-savings-prop-social-security) (Tier 2)
-- [AEI: Personal Security Accounts testimony](https://www.aei.org/research-products/testimony/personal-security-accounts/) (Tier 3)
-- [Forbes: BlackRock CEO on Social Security private accounts (2025)](https://www.forbes.com/sites/shaharziv/2025/03/17/blackrock-ceo-social-security-reform-with-private-investment-accounts/) (Tier 2)
-- [Yahoo News/Daily Beast: DonorsTrust dark money ATM](https://www.yahoo.com/news/gop-dark-money-group-giving-095229471.html) (Tier 2)
-- [Wikipedia: American Enterprise Institute](https://en.wikipedia.org/wiki/American_Enterprise_Institute) (Tier 3)
-- [Trump White House Archives: Kevin Hassett Tax Policy Center speech (Oct 2017)](https://trumpwhitehouse.archives.gov/sites/whitehouse.gov/files/documents/TPC%20-%20Hassett%20Speech%20-%20FINAL%20FINAL.pdf) (Tier 1)
-- [Tax Policy Center: Critique of Hassett's corporate tax wage claims](https://taxpolicycenter.org/taxvox/will-corporate-tax-cuts-really-increase-worker-incomes-4000) (Tier 2)
-- [Economic Policy Institute: TCJA tax benefits distribution (83% to top 1%)](https://www.epi.org/blog/the-trump-administration-doubles-down-on-why-trickle-down-really-does-work-in-the-wall-street-journal/) (Tier 2)
-- [AEI: Kyle Pomerleau and Donald Schneider on TCJA extension (2024)](https://www.aei.org/economics/the-expiration-of-the-2017-tax-cuts-provides-a-chance-at-new-pro-growth-reform/) (Tier 3)
-- [Journal of Economic Perspectives: Chodorow-Reich, Zidar, and Zwick on TCJA investment impact (2024)](https://www.aeaweb.org/research/business-tax-cut-lessons) (Tier 1)
-- [Environmental Working Group: AEI climate denial and ExxonMobil funding](https://www.ewg.org/news-insights/news/american-enterprise-institute-all-they-have-left-suitcase-full-cash) (Tier 2)
-- [Think Tank Funding Tracker: AEI, 0/5 transparency](https://thinktankfundingtracker.org/think-tank/american-enterprise-institute/) (Tier 2)
-- [InfluenceWatch: American Enterprise Institute](https://www.influencewatch.org/non-profit/american-enterprise-institute/) (Tier 3)
-- [Militarist Monitor: AEI neoconservative foreign policy and defense](https://militarist-monitor.org/profile/american_enterprise_institute/) (Tier 2)
-- [Ballotpedia: American Enterprise Institute](https://ballotpedia.org/American_Enterprise_Institute) (Tier 3)
-- [Newsmax: Carlyle's D'Aniello $20M gift to AEI (2014)](https://www.newsmax.com/us/american-enterprise-institute-carlyle-group-daniel-daniello/2014/02/25/id/554626/) (Tier 3)
-- [Bloomberg via Investing.com: Carlyle defense fund and €14T gap (2026)](https://uk.investing.com/news/stock-market-news/carlyle-group-plans-defense-fund-amid-military-spending--bloomberg-93CH-4584545) (Tier 2)
-- [AInvest: Carlyle defense fund and StandardAero valuation](https://www.ainvest.com/news/carlyle-sees-14-trillion-defense-funding-gap-high-conviction-capital-deployment-play-hinges-nato-summit-geopolitical-stability-2603/) (Tier 2)
-- [Reuters: Harlan Crow and Crow Holdings overview](https://www.reuters.com/world/us/who-is-republican-donor-justice-clarence-thomas-friend-harlan-crow-2023-04-07/) (Tier 2)
-- [Maine Public: Harlan Crow biographical profile (2023)](https://www.mainepublic.org/2023-05-04/a-look-at-harlan-crow-the-billionaire-central-in-clarence-thomas-controversies) (Tier 2)
-- [OpenSecrets: Harlan Crow political contributions ($14.7M)](https://www.opensecrets.org/news/2023/04/harlan-and-kathy-crow-ramped-up-political-contributions-over-the-decades-since-meeting-u-s-supreme-court-justice-clarence-thomas/) (Tier 1)
-- [Common Dreams: Harlan Crow and Republican dark money](https://www.commondreams.org/news/harlan-crow-2661379280) (Tier 2)
-- [AEI: Mackenzie Eaglen defense spending analysis](https://www.aei.org/press/defense-what-we-spent-what-we-wasted-what-we-need/) (Tier 3)
-- [AEI: "How Much Is Too Much?" defense budget analysis (Jan 2025)](https://www.aei.org/articles/affording-defense-how-much-is-too-much/) (Tier 3)
-- [AEI: 2024 Annual Report financial summary](https://www.aei.org/wp-content/uploads/2025/02/01-2024-Annual-Report.pdf) (Tier 3)
-- [Carly Fiorina / AEI: Quote on corporate political organization (2016)](https://www.aei.org/articles/fiorinas-anti-cronyist-message-was-morally-and-politically-perfect/) (Tier 3)
+- [ProPublica Nonprofit Explorer: AEI IRS Form 990 (FY2024)](https://projects.propublica.org/nonprofits/organizations/530218495) (Tier 1) (VERIFIED)
+- [OpenSecrets: American Enterprise Institute profile](https://www.opensecrets.org/orgs/american-enterprise-institute/summary?id=D000031480) (Tier 1) (VERIFIED)
+- [ProPublica Trump Town: AEI alumni in Trump administration](https://projects.propublica.org/trump-town/organizations/american-enterprise-institute) (Tier 1) (VERIFIED)
+- [ProPublica Supreme Connections: AEI and Supreme Court](https://projects.propublica.org/supreme-connections/organizations/american-enterprise-institute/) (Tier 1) (VERIFIED)
+- [ProPublica: Clarence Thomas Secretly Accepted Luxury Trips From GOP Donor (Harlan Crow)](https://www.propublica.org/article/clarence-thomas-scotus-undisclosed-luxury-travel-gifts-crow) (Tier 2) (VERIFIED)
+- [ProPublica: Clarence Thomas Raised Him, Harlan Crow Paid His Tuition](https://www.propublica.org/article/clarence-thomas-harlan-crow-private-school-tuition-scotus) (Tier 2) (VERIFIED)
+- [AEI Press Release: $20 Million Gift from Daniel A. D'Aniello](https://www.aei.org/press/american-enterprise-institute-announces-20-million-gift-from-daniel-a-daniello-in-support-of-free-enterprise/) (Tier 3) (VERIFIED)
+- [Washington Post: Carlyle Group co-founder gives $20 million to AEI (Feb 2014)](https://www.washingtonpost.com/news/wonk/wp/2014/02/24/exclusive-one-of-washingtons-wealthiest-is-giving-20-million-to-a-top-conservative-think-tank/) (Tier 2) (VERIFIED)
+- [DeSmog: American Enterprise Institute, climate denial profile](https://www.desmog.com/american-enterprise-institute/) (Tier 2) (VERIFIED)
+- [DeSmog: ExxonMobil funding to climate denial organizations (2016)](https://www.desmog.com/2016/07/08/exxonmobil-new-disclosures-show-oil-giant-still-funding-climate-science-denial-groups/) (Tier 2) (NEEDS REVIEW)
+- [Union of Concerned Scientists: ExxonMobil funding to climate science denier groups](https://blog.ucs.org/elliott-negin/exxonmobil-still-funding-climate-science-denier-groups/) (Tier 2) (VERIFIED)
+- ~~[The Guardian: AEI offered $10K per article to critique IPCC (Feb 2007)](https://www.theguardian.com/environment/2007/feb/02/frontpagenews.internationalnewscomment)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+- [AEI: PDF defense of $10K IPCC offer controversy](https://www.aei.org/wp-content/uploads/2011/11/20070209_Guardiancontroversy.pdf) (Tier 3) (VERIFIED)
+- [Washington Post: AEI critiques of warming questioned (Feb 2007)](https://www.washingtonpost.com/archive/politics/2007/02/05/aei-critiques-of-warming-questioned-span-classbankheadthink-tank-defends-money-offers-to-challenge-climate-reportspan/b839bc0d-f562-4a20-bd23-623ee7b58532/) (Tier 2) (VERIFIED)
+- [Skeptical Science: Patrick Michaels funding disclosure](https://skepticalscience.com/patrick-michaels-history-getting-climate-wrong.html) (Tier 2) (VERIFIED)
+- [Mother Jones: Patrick Michaels fossil fuel funding (2010)](https://www.motherjones.com/politics/2010/02/pat-michaels-climate-skeptic/) (Tier 2) (VERIFIED)
+- [UCS: Benjamin Zycher climate denial research (2019)](https://blog.ucs.org/elliott-negin/exxonmobil-claims-shift-on-climate-continues-to-fund-climate-deniers/) (Tier 2) (VERIFIED)
+- [AEI: Benjamin Zycher on carbon tax ineffectiveness](https://www.aei.org/articles/would-a-carbon-dioxide-tax-be-efficient-2/) (Tier 3) (VERIFIED)
+- [AEI: EPA greenhouse gas standards criticism (2023)](https://www.aei.org/articles/the-epa-forges-ahead-toward-less-electricity-supply-and-greater-electricity-demand/) (Tier 3) (VERIFIED)
+- [AEI: Peter Wallison FCIC dissent](https://www.aei.org/economics/dissenting-views-at-the-financial-crisis-inquiry-commission/) (Tier 3) (VERIFIED)
+- [AEI: Edward Pinto Forensic Study on housing crisis](https://www.aei.org/articles/government-housing-policy-the-sine-qua-non-of-the-financial-crisis-2/) (Tier 3) (VERIFIED)
+- ~~[New York Times: Peter Wallison "Hidden in Plain Sight" book review (2015)](https://www.nytimes.com/2015/03/12/business/dealbook/a-crusader-against-the-common-view-of-the-financial-crisis.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [AEI: Adam White testimony on CFPB (2015)](https://democrats-financialservices.house.gov/uploadedfiles/11.19.2015_adam_j._white_testimony.pdf) (Tier 2) (VERIFIED)
+- ~~[SourceWatch: American Enterprise Institute, funding and donor documentation](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/American_Enterprise_Institute)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [AEI: Wealth Taxation overview (2019)](https://www.aei.org/wp-content/uploads/2019/08/Wealth-Taxation-An-Overview-of-the-Issues.pdf) (Tier 3) (VERIFIED)
+- [AEI: Joe Antos on ACA Medicaid expansion](https://www.aei.org/health-care/why-the-acas-medicaid-expansion-isnt-a-good-deal-for-the-poor/) (Tier 3) (VERIFIED)
+- [AEI: Pharmaceutical pricing and innovation](https://www.aei.org/press/prices-markets-and-the-pharmaceutical-revolution/) (Tier 3) (VERIFIED)
+- [AEI YouTube: Inflation Reduction Act drug price negotiation analysis](https://www.youtube.com?v=N-zKHmW3aFA) (Tier 3) (VERIFIED)
+- [AEI: Mark Perry minimum wage research summary](https://www.aei.org/carpe-diem/minimum-wage-updates/) (Tier 3) (VERIFIED)
+- [AEI via X/Twitter: Michael Strain on minimum wage hours (Feb 2026)](https://x.com/AEI/status/2024568010925555973) (Tier 3) (VERIFIED)
+- [AEI: Why unions advocate for minimum wage increases (2023 working paper)](https://www.aei.org/research-products/working-paper/why-do-labor-unions-advocate-for-minimum-wage-increases/) (Tier 3) (VERIFIED)
+- [AEI: Andrew Biggs Social Security reform analysis](https://www.aei.org/op-eds/social-security-reform-can-boost-the-economy-or-hold-it-back/) (Tier 3) (VERIFIED)
+- [Cato Institute: Critique of Social Security private savings proposal](https://www.cato.org/blog/case-against-raiding-private-savings-prop-social-security) (Tier 2) (VERIFIED)
+- [AEI: Personal Security Accounts testimony](https://www.aei.org/research-products/testimony/personal-security-accounts/) (Tier 3) (VERIFIED)
+- ~~[Forbes: BlackRock CEO on Social Security private accounts (2025)](https://www.forbes.com/sites/shaharziv/2025/03/17/blackrock-ceo-social-security-reform-with-private-investment-accounts/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Yahoo News/Daily Beast: DonorsTrust dark money ATM](https://www.yahoo.com/news/gop-dark-money-group-giving-095229471.html) (Tier 2) (VERIFIED)
+- [Wikipedia: American Enterprise Institute](https://en.wikipedia.org/wiki/American_Enterprise_Institute) (Tier 3) (VERIFIED)
+- [Trump White House Archives: Kevin Hassett Tax Policy Center speech (Oct 2017)](https://trumpwhitehouse.archives.gov/sites/whitehouse.gov/files/documents/TPC%20-%20Hassett%20Speech%20-%20FINAL%20FINAL.pdf) (Tier 1) (VERIFIED)
+- [Tax Policy Center: Critique of Hassett's corporate tax wage claims](https://taxpolicycenter.org/taxvox/will-corporate-tax-cuts-really-increase-worker-incomes-4000) (Tier 2) (VERIFIED)
+- [Economic Policy Institute: TCJA tax benefits distribution (83% to top 1%)](https://www.epi.org/blog/the-trump-administration-doubles-down-on-why-trickle-down-really-does-work-in-the-wall-street-journal/) (Tier 2) (VERIFIED)
+- [AEI: Kyle Pomerleau and Donald Schneider on TCJA extension (2024)](https://www.aei.org/economics/the-expiration-of-the-2017-tax-cuts-provides-a-chance-at-new-pro-growth-reform/) (Tier 3) (VERIFIED)
+- [Journal of Economic Perspectives: Chodorow-Reich, Zidar, and Zwick on TCJA investment impact (2024)](https://www.aeaweb.org/research/business-tax-cut-lessons) (Tier 1) (VERIFIED)
+- [Environmental Working Group: AEI climate denial and ExxonMobil funding](https://www.ewg.org/news-insights/news/american-enterprise-institute-all-they-have-left-suitcase-full-cash) (Tier 2) (VERIFIED)
+- [Think Tank Funding Tracker: AEI, 0/5 transparency](https://thinktankfundingtracker.org/think-tank/american-enterprise-institute/) (Tier 2) (VERIFIED)
+- [InfluenceWatch: American Enterprise Institute](https://www.influencewatch.org/non-profit/american-enterprise-institute/) (Tier 3) (VERIFIED)
+- [Militarist Monitor: AEI neoconservative foreign policy and defense](https://militarist-monitor.org/profile/american_enterprise_institute/) (Tier 2) (VERIFIED)
+- [Ballotpedia: American Enterprise Institute](https://ballotpedia.org/American_Enterprise_Institute) (Tier 3) (VERIFIED)
+- [Newsmax: Carlyle's D'Aniello $20M gift to AEI (2014)](https://www.newsmax.com/us/american-enterprise-institute-carlyle-group-daniel-daniello/2014/02/25/id/554626/) (Tier 3) (VERIFIED)
+- ~~[Bloomberg via Investing.com: Carlyle defense fund and €14T gap (2026)](https://uk.investing.com/news/stock-market-news/carlyle-group-plans-defense-fund-amid-military-spending--bloomberg-93CH-4584545)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [AInvest: Carlyle defense fund and StandardAero valuation](https://www.ainvest.com/news/carlyle-sees-14-trillion-defense-funding-gap-high-conviction-capital-deployment-play-hinges-nato-summit-geopolitical-stability-2603/) (Tier 2) (VERIFIED)
+- ~~[Reuters: Harlan Crow and Crow Holdings overview](https://www.reuters.com/world/us/who-is-republican-donor-justice-clarence-thomas-friend-harlan-crow-2023-04-07/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Maine Public: Harlan Crow biographical profile (2023)](https://www.mainepublic.org/2023-05-04/a-look-at-harlan-crow-the-billionaire-central-in-clarence-thomas-controversies) (Tier 2) (VERIFIED)
+- [OpenSecrets: Harlan Crow political contributions ($14.7M)](https://www.opensecrets.org/news/2023/04/harlan-and-kathy-crow-ramped-up-political-contributions-over-the-decades-since-meeting-u-s-supreme-court-justice-clarence-thomas/) (Tier 1) (VERIFIED)
+- [Common Dreams: Harlan Crow and Republican dark money](https://www.commondreams.org/news/harlan-crow-2661379280) (Tier 2) (VERIFIED)
+- [AEI: Mackenzie Eaglen defense spending analysis](https://www.aei.org/press/defense-what-we-spent-what-we-wasted-what-we-need/) (Tier 3) (VERIFIED)
+- [AEI: "How Much Is Too Much?" defense budget analysis (Jan 2025)](https://www.aei.org/articles/affording-defense-how-much-is-too-much/) (Tier 3) (VERIFIED)
+- [AEI: 2024 Annual Report financial summary](https://www.aei.org/wp-content/uploads/2025/02/01-2024-Annual-Report.pdf) (Tier 3) (VERIFIED)
+- [Carly Fiorina / AEI: Quote on corporate political organization (2016)](https://www.aei.org/articles/fiorinas-anti-cronyist-message-was-morally-and-politically-perfect/) (Tier 3) (VERIFIED)
 
 ### OFAC Sanctions Screening
 <!-- auto:ofac-sdn start -->
@@ -404,7 +404,7 @@ AEI's role is to make that system invisible by making it look like scholarship.
 - THE FEDERAL STATE UNITARY ENTERPRISE V.A. KARGIN SCIENTIFIC RESEARCH INSTITUTE OF CHEMISTRY AND TECHNOLOGY OF POLYMERS WITH A PILOT PRODUCTION PLANT (-0-) [RUSSIA-EO14024]
   - Remarks: Secondary sanctions risk: See Section 11 of Executive Order 14024.; Tax ID No. 5249164736 (Russia); Government Gazette Number 33947252 (Russia); Registration Number 1185275058044 (Russia).
 
-- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
 ### Federal Register Activity
@@ -418,15 +418,15 @@ AEI's role is to make that system invisible by making it look like scholarship.
 | Agencies | Comptroller of the Currency, Consumer Financial Protection Bureau, Consumer Product Safety Commission, Education Department, Employee Benefits Security Administration, Energy Department, Environmental Protection Agency, Federal Deposit Insurance Corporation +7 more |
 
 **Recent regulatory activity:**
-- [ACCOUNTABILITY IN HIGHER EDUCATION AND ACCESS THROUGH DEMAND-DRIVEN WORKFORCE PELL: PELL GRANT EXCLUSION RELATING TO OTHER GRANT AID; AND WORKFORCE PELL GRANTS](https://www.federalregister.gov/documents/2026/03/09/2026-04520/accountability-in-higher-education-and-access-through-demand-driven-workforce-pell-pell-grant) (2026-03-09) — Education Department
-- [Reimagining and Improving Student Education](https://www.federalregister.gov/documents/2026/01/30/2026-01912/reimagining-and-improving-student-education) (2026-01-30) — Education Department
-- [Safety Standard for Toys: Requirements for Water Beads](https://www.federalregister.gov/documents/2025/12/12/2025-22643/safety-standard-for-toys-requirements-for-water-beads) (2025-12-12) — Consumer Product Safety Commission
-- [Facilitating Earlier Filing of Certain Electronically Submitted H-2A Petitions](https://www.federalregister.gov/documents/2025/10/02/2025-19235/facilitating-earlier-filing-of-certain-electronically-submitted-h-2a-petitions) (2025-10-02) — Homeland Security Department
-- [Renewable Fuel Standard (RFS) Program: Standards for 2026 and 2027, Partial Waiver of 2025 Cellulosic Biofuel Volume Requirement, and Other Changes](https://www.federalregister.gov/documents/2025/06/17/2025-11128/renewable-fuel-standard-rfs-program-standards-for-2026-and-2027-partial-waiver-of-2025-cellulosic) (2025-06-17) — Environmental Protection Agency ★
-- [Energy Conservation Program: Energy Conservation Standards for Commercial Refrigerators, Freezers, and Refrigerator-Freezers](https://www.federalregister.gov/documents/2025/01/21/2024-31214/energy-conservation-program-energy-conservation-standards-for-commercial-refrigerators-freezers-and) (2025-01-21) — Energy Department
+- [ACCOUNTABILITY IN HIGHER EDUCATION AND ACCESS THROUGH DEMAND-DRIVEN WORKFORCE PELL: PELL GRANT EXCLUSION RELATING TO OTHER GRANT AID; AND WORKFORCE PELL GRANTS](https://www.federalregister.gov/documents/2026/03/09/2026-04520/accountability-in-higher-education-and-access-through-demand-driven-workforce-pell-pell-grant) (VERIFIED) (2026-03-09) — Education Department
+- [Reimagining and Improving Student Education](https://www.federalregister.gov/documents/2026/01/30/2026-01912/reimagining-and-improving-student-education) (VERIFIED) (2026-01-30) — Education Department
+- [Safety Standard for Toys: Requirements for Water Beads](https://www.federalregister.gov/documents/2025/12/12/2025-22643/safety-standard-for-toys-requirements-for-water-beads) (VERIFIED) (2025-12-12) — Consumer Product Safety Commission
+- [Facilitating Earlier Filing of Certain Electronically Submitted H-2A Petitions](https://www.federalregister.gov/documents/2025/10/02/2025-19235/facilitating-earlier-filing-of-certain-electronically-submitted-h-2a-petitions) (VERIFIED) (2025-10-02) — Homeland Security Department
+- [Renewable Fuel Standard (RFS) Program: Standards for 2026 and 2027, Partial Waiver of 2025 Cellulosic Biofuel Volume Requirement, and Other Changes](https://www.federalregister.gov/documents/2025/06/17/2025-11128/renewable-fuel-standard-rfs-program-standards-for-2026-and-2027-partial-waiver-of-2025-cellulosic) (VERIFIED) (2025-06-17) — Environmental Protection Agency ★
+- ~~[Energy Conservation Program: Energy Conservation Standards for Commercial Refrigerators, Freezers, and Refrigerator-Freezers](https://www.federalregister.gov/documents/2025/01/21/2024-31214/energy-conservation-program-energy-conservation-standards-for-commercial-refrigerators-freezers-and)~~ (URL broken, archived by Ops) (2025-01-21) — Energy Department
 - ... and 65 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22American%20Enterprise%20Institute%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22American%20Enterprise%20Institute%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Federal Court Records (CourtListener)
@@ -445,14 +445,14 @@ AEI's role is to make that system invisible by making it look like scholarship.
 - Powers Gardner v. Henderson (2026) — District Court, D. Utah
 - WILDERNESS SOCIETY v. U.S. DEPARTMENT OF INTERIOR (2026) — District Court, District of Columbia
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22American%20Enterprise%20Institute%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22American%20Enterprise%20Institute%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [549300H55I05SOXHZO50](https://search.gleif.org/#/record/549300H55I05SOXHZO50) |
+| LEI | [549300H55I05SOXHZO50](https://search.gleif.org/#/record/549300H55I05SOXHZO50) (VERIFIED) |
 | Legal Name | American Enterprise Institute for Public Policy Research |
 | Jurisdiction | US-DC |
 | Entity Status | ACTIVE |
@@ -460,5 +460,5 @@ AEI's role is to make that system invisible by making it look like scholarship.
 | Registration | LAPSED |
 | Last Updated | 2026-04-08T17:24:36Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->

@@ -181,18 +181,18 @@ Reed's net worth is among the lowest in the Senate, reported between negative $5
 
 ## Sources
 
-- [FEC Candidate: Jack Reed donor profile](https://www.fec.gov/data/candidate/P60023777/) (Tier 1)
-- [FEC Candidate: Jack Reed industry donors](https://www.fec.gov/data/candidate/P60023777/) (Tier 1)
-- [FEC Candidate: Jack Reed contributors](https://www.fec.gov/data/candidate/P60023777/) (Tier 1)
-- [Senate.gov: Jack Reed official biography](https://www.reed.senate.gov/about) (Tier 1)
-- [Congress.gov: National Defense Authorization Act](https://www.congress.gov/bill/118th-congress/house-bill/2670) (Tier 1)
-- [DOD: Rhode Island Defense Spending Report](https://oldcc.gov/state/rhode-island) (Tier 1)
-- [CBO: Columbia-Class Submarine Cost Estimates](https://www.cbo.gov/publication/57370) (Tier 1)
-- [OpenSecrets: Armed Services Committee members received $5.8M from defense sector during 2022 cycle](https://www.opensecrets.org/news/2023/03/armed-services-committee-members-received-5-8-million-from-defense-sector-during-2022-election-cycle/) (Tier 1)
-- [Washington Post: What's in and out of the $1.7 trillion omnibus spending bill — defense provisions](https://www.washingtonpost.com/us-policy/2022/12/22/spending-bill-omnibus-congress/) (Tier 2)
+- [FEC Candidate: Jack Reed donor profile](https://www.fec.gov/data/candidate/P60023777/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Jack Reed industry donors](https://www.fec.gov/data/candidate/P60023777/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Jack Reed contributors](https://www.fec.gov/data/candidate/P60023777/) (Tier 1) (VERIFIED)
+- ~~[Senate.gov: Jack Reed official biography](https://www.reed.senate.gov/about)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: National Defense Authorization Act](https://www.congress.gov/bill/118th-congress/house-bill/2670)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[DOD: Rhode Island Defense Spending Report](https://oldcc.gov/state/rhode-island)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[CBO: Columbia-Class Submarine Cost Estimates](https://www.cbo.gov/publication/57370)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [OpenSecrets: Armed Services Committee members received $5.8M from defense sector during 2022 cycle](https://www.opensecrets.org/news/2023/03/armed-services-committee-members-received-5-8-million-from-defense-sector-during-2022-election-cycle/) (Tier 1) (VERIFIED)
+- [Washington Post: What's in and out of the $1.7 trillion omnibus spending bill — defense provisions](https://www.washingtonpost.com/us-policy/2022/12/22/spending-bill-omnibus-congress/) (Tier 2) (VERIFIED)
 - [NPR: Rhode Island's Defense Economy](NOTFOUND_NPR) (Tier 2)
-- [Ballotpedia: Jack Reed](https://ballotpedia.org/Jack_Reed_(Rhode_Island)) (Tier 3)
-- [Wikipedia: Jack Reed (politician)](https://en.wikipedia.org/wiki/Jack_Reed_%28politician%29) (Tier 3)
+- [Ballotpedia: Jack Reed](https://ballotpedia.org/Jack_Reed_(Rhode_Island) (VERIFIED)) (Tier 3)
+- [Wikipedia: Jack Reed (politician)](https://en.wikipedia.org/wiki/Jack_Reed_%28politician%29) (Tier 3) (VERIFIED)
 
 ### Congressional Stock Trades (STOCK Act)
 <!-- auto:stock-trades start -->
@@ -209,7 +209,7 @@ Reed's net worth is among the lowest in the Senate, reported between negative $5
 |------|--------|------|--------|-------|
 | 01/06/2014 | N/A | other | Unknown | N/A |
 
-- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
 ### Campaign Finance (FEC)
@@ -219,7 +219,7 @@ Reed's net worth is among the lowest in the Senate, reported between negative $5
 | Election Cycle | 2036 |
 | Cash on Hand | 0.00 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/P60023777/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/P60023777/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 <!-- auto:fec-politician pending-merge 2026-04-11 -->
@@ -256,7 +256,7 @@ Reed's net worth is among the lowest in the Senate, reported between negative $5
 | CAMPAIGN FOR WORKING FAMILIES | $0 | $66 |
 | ENVIRONMENT AMERICA INC | $59 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6RI00163/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6RI00163/) (Tier 1) (VERIFIED)
 
 <!-- auto:fec-politician pending-merge end -->
 
@@ -289,7 +289,7 @@ Reed's net worth is among the lowest in the Senate, reported between negative $5
 | 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
 | 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/300081) (Tier 1)
+- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/300081)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:govtrack end -->
 
 ### Legislative Activity (Congress.gov)
@@ -318,7 +318,7 @@ Reed's net worth is among the lowest in the Senate, reported between negative $5
 | — |  | — |
 | — |  | — |
 
-- [Source: Congress.gov](https://www.congress.gov/member/R000122) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/R000122)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Voting Record
@@ -343,6 +343,6 @@ Reed's net worth is among the lowest in the Senate, reported between negative $5
 
 **Sources**
 
-- [Congress.gov: Jack Reed](https://www.congress.gov/member/c001091) (Tier 1)
-- [GovTrack: Jack Reed](https://www.govtrack.us/congress/members/300081) (Tier 1)
+- ~~[Congress.gov: Jack Reed](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[GovTrack: Jack Reed](https://www.govtrack.us/congress/members/300081)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->

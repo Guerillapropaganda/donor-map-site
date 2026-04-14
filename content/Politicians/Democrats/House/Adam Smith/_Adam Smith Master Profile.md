@@ -151,13 +151,13 @@ Smith publicly supports campaign finance reform, states "corporations are not pe
 - ~~[FEC Candidate: Adam Smith campaign finance summary](https://www.fec.gov/data/candidate/S0KS00216/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - ~~[FEC: Adam Smith candidate filings](https://www.fec.gov/data/candidate/H6WA09025/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [House Armed Services Committee Democrats: Ranking Member Adam Smith](https://democrats-armedservices.house.gov/ranking-member) (Tier 1) (VERIFIED)
-- [Congress.gov: Adam Smith voting record](https://www.congress.gov/member/adam-smith/S000510) (Tier 1) (VERIFIED: I see voting record. changed from bad)
+- ~~[Congress.gov: Adam Smith voting record](https://www.congress.gov/member/adam-smith/S000510)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1) (VERIFIED: I see voting record. changed from bad)
 - [KUOW: Mr. Smith stays in Washington — with help from military-industrial complex](https://www.kuow.org/stories/mr-smith-stays-washington-help-military-industrial-complex/) (Tier 2) (VERIFIED)
 - [Sludge: House Dem in charge of military budget opposes cuts favored by progressives](https://readsludge.com/2020/10/20/hawkish-dem-in-charge-of-military-budget-opposes-cuts-favored-by-progressives/) (Tier 2) (VERIFIED)
-- [Seattle Times: Rep. Adam Smith's campaign leans heavily on PAC money](https://www.seattletimes.com/seattle-news/rep-adam-smiths-campaign-leans-heavily-on-pac-money/) (Tier 2) (NEEDS REVIEW: 403)
+- [Seattle Times: Rep. Adam Smith's campaign leans heavily on PAC money](https://www.seattletimes.com/seattle-news/rep-adam-smiths-campaign-leans-heavily-on-pac-money/) (Tier 2) (VERIFIED) (NEEDS REVIEW: 403)
 - [Breaking Defense: Who's Who in Defense — Adam Smith, Ranking Member HASC](https://breakingdefense.com/2025/03/whos-who-in-defense-adam-smith-ranking-member-house-armed-services-committee-hasc/) (Tier 2) (VERIFIED)
 - [CSIS: Representative Adam Smith on the FY2020 NDAA](https://www.csis.org/analysis/representative-adam-smith-fy2020-national-defense-authorization-act) (Tier 2) (VERIFIED)
-- [Ballotpedia: Adam Smith (Washington)](https://ballotpedia.org/Adam_Smith_(Washington) (VERIFIED: Works; changed from bad)) (Tier 3)
+- [Ballotpedia: Adam Smith (Washington)](https://ballotpedia.org/Adam_Smith_(Washington) (VERIFIED)) (Tier 3)
 - [Washington State military & defense sector overview](https://choosewashingtonstate.com/why-washington/our-key-sectors/military-defense/) (Tier 3) (VERIFIED)
 
 ### Campaign Finance (FEC)
@@ -204,7 +204,7 @@ Smith publicly supports campaign finance reform, states "corporations are not pe
 | PUGET SOUND ENERGY INC PAC FOR GOOD GOVERNMENT | $6,577 | $0 |
 | THE 60 PLUS ASSOCIATION | $0 | $6,122 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6WA09025/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6WA09025/) (Tier 1) (VERIFIED)
 
 <!-- auto:fec-politician pending-merge end -->
 
@@ -234,7 +234,7 @@ Smith publicly supports campaign finance reform, states "corporations are not pe
 | 5531 | Career and Technical Education Access Act | Referred to the House Committee on Education and Workforce. |
 | 5492 | PAAF Act | Referred to the House Committee on the Judiciary. |
 
-- [Source: Congress.gov](https://www.congress.gov/member/S000510) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/S000510)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ## Influence Network (Cross-Reference)
@@ -299,7 +299,7 @@ Smith publicly supports campaign finance reform, states "corporations are not pe
 | 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Nay | Passed |
 | 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Nay | Passed |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400379) (Tier 1)
+- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/400379)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:govtrack end -->
 
 ### Committee Assignments (Congress.gov)
@@ -308,7 +308,7 @@ Smith publicly supports campaign finance reform, states "corporations are not pe
 
 - House Committee on Armed Services
 
-- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 ### Campaign Finance Summary (FEC)
@@ -360,6 +360,6 @@ Smith publicly supports campaign finance reform, states "corporations are not pe
 
 **Sources**
 
-- [Congress.gov: Adam Smith](https://www.congress.gov/member/e000179) (Tier 1)
-- [GovTrack: Adam Smith](https://www.govtrack.us/congress/members/400379) (Tier 1)
+- ~~[Congress.gov: Adam Smith](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [GovTrack: Adam Smith](https://www.govtrack.us/congress/members/400379) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->

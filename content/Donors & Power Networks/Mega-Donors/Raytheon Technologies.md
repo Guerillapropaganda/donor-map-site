@@ -65,15 +65,15 @@ Raytheon Technologies. A redirect node — the company is now RTX Corporation. S
 | Agencies | Antitrust Division, Commerce Department, Defense Department, Environmental Protection Agency, Federal Aviation Administration, Industry and Security Bureau, International Trade Administration, Justice Department +4 more |
 
 **Recent regulatory activity:**
-- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Consortium for NASGRO Development and Support, (NASGRO)](https://www.federalregister.gov/documents/2026/02/23/2026-03513/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-consortium-for) (2026-02-23) — Justice Department
-- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-The National Advanced Mobility Consortium, Inc.](https://www.federalregister.gov/documents/2025/01/21/2025-01249/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-the-national) (2025-01-21) — Justice Department
-- [Establishment of Reporting Requirements for the Development of Advanced Artificial Intelligence Models and Computing Clusters](https://www.federalregister.gov/documents/2024/09/11/2024-20529/establishment-of-reporting-requirements-for-the-development-of-advanced-artificial-intelligence) (2024-09-11) — Commerce Department ★
-- [Arms Sales Notification](https://www.federalregister.gov/documents/2024/06/28/2024-14188/arms-sales-notification) (2024-06-28) — Defense Department
-- [Arms Sales Notification](https://www.federalregister.gov/documents/2024/05/16/2024-10607/arms-sales-notification) (2024-05-16) — Defense Department
-- [Safety Management Systems](https://www.federalregister.gov/documents/2024/04/26/2024-08669/safety-management-systems) (2024-04-26) — Transportation Department ★
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Consortium for NASGRO Development and Support, (NASGRO)](https://www.federalregister.gov/documents/2026/02/23/2026-03513/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-consortium-for) (VERIFIED) (2026-02-23) — Justice Department
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-The National Advanced Mobility Consortium, Inc.](https://www.federalregister.gov/documents/2025/01/21/2025-01249/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-the-national) (VERIFIED) (2025-01-21) — Justice Department
+- [Establishment of Reporting Requirements for the Development of Advanced Artificial Intelligence Models and Computing Clusters](https://www.federalregister.gov/documents/2024/09/11/2024-20529/establishment-of-reporting-requirements-for-the-development-of-advanced-artificial-intelligence) (VERIFIED) (2024-09-11) — Commerce Department ★
+- [Arms Sales Notification](https://www.federalregister.gov/documents/2024/06/28/2024-14188/arms-sales-notification) (VERIFIED) (2024-06-28) — Defense Department
+- [Arms Sales Notification](https://www.federalregister.gov/documents/2024/05/16/2024-10607/arms-sales-notification) (VERIFIED) (2024-05-16) — Defense Department
+- [Safety Management Systems](https://www.federalregister.gov/documents/2024/04/26/2024-08669/safety-management-systems) (VERIFIED) (2024-04-26) — Transportation Department ★
 - ... and 22 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Raytheon%20Technologies%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Raytheon%20Technologies%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -96,14 +96,14 @@ Raytheon Technologies. A redirect node — the company is now RTX Corporation. S
 | BELL BOEING JOINT PROJECT OFFICE | $3.0M | 3 |
 | BELL TEXTRON INC. | $403K | 2 |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [5493000JIXZDTNYC2638](https://search.gleif.org/#/record/5493000JIXZDTNYC2638) |
+| LEI | [5493000JIXZDTNYC2638](https://search.gleif.org/#/record/5493000JIXZDTNYC2638) (VERIFIED) |
 | Legal Name | RAYTHEON GLOBAL TECHNOLOGIES INDIA PRIVATE LIMITED |
 | Jurisdiction | IN |
 | Entity Status | ACTIVE |
@@ -113,8 +113,8 @@ Raytheon Technologies. A redirect node — the company is now RTX Corporation. S
 
 **Ownership chain:**
 
-- Ultimate Parent: [RTX CORPORATION](https://search.gleif.org/#/record/I07WOS4YJ0N7YRFE7309) (US-DE)
+- Ultimate Parent: [RTX CORPORATION](https://search.gleif.org/#/record/I07WOS4YJ0N7YRFE7309) (VERIFIED) (US-DE)
 - RAYTHEON GLOBAL TECHNOLOGIES INDIA PRIVATE LIMITED (this entity)
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->

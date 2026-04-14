@@ -202,21 +202,21 @@ The Amazon contradiction is equally revealing. Elmendorf lobbied against worker 
 
 ### Sources
 
-- [Senate LDA Filings: Avoq LLC Lobbying Firm Profile — Summary](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA Filings: Avoq LLC Lobbyists — Revolving Door Data](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA Filings: Avoq LLC Issues Lobbied](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA Filings: Steven Elmendorf Lobbying Profile](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Wikipedia: Steve Elmendorf](https://en.wikipedia.org/wiki/Steve_Elmendorf) (Tier 3)
-- [Avoq: Official Website](https://teamavoq.com/) (Tier 4)
-- [Avoq: Subject Matter and Kivvit Combine to Create National Powerhouse](https://teamavoq.com/news/subject-matter-and-kivvit-combine-to-create-national-communications-and-advocacy-powerhouse/) (Tier 4)
-- [Avoq: Askew and Grant Government Relations Announcement](https://teamavoq.com/news/askew-and-grant-government-relations-announcement/) (Tier 4)
-- [Washington Examiner: Top DCCC fundraiser lobbied for Chinese military-tied company on Pentagon blacklist](https://www.washingtonexaminer.com/news/2869187/top-dccc-fundraiser-lobbied-chinese-military-tied-company/) (Tier 4)
-- [Sludge: Top Dem Bundler Lobbies Against Worker Protections for Amazon](https://readsludge.com/2024/12/27/top-dem-bundler-lobbies-against-worker-protections-for-amazon/) (Tier 2)
-- [Free Beacon: The Lobbying Firms Close to the White House Cashing In on the Biden Presidency](https://freebeacon.com/biden-administration/the-lobbying-firms-close-to-the-white-house-cashing-in-on-the-biden-presidency/) (Tier 4)
-- [Avoq: Avoq Names Kelli Parsons as Chief Executive Officer — announcement, effective February 2, 2026; Cornish succession](https://teamavoq.com/news/avoq-names-kelli-parsons-as-chief-executive-officer/) (Tier 3)
-- [O'Dwyer's PR News: H&K CEO Parsons Takes Helm at Avoq — Hill & Knowlton background, United Technologies/New York Life/Fannie Mae CCO history, January 2026](https://www.odwyerpr.com/story/public/24128/2026-01-13/hk-ceo-parsons-takes-helm-at-avoq.html) (Tier 2)
-- [O'Dwyer's PR News: Tax Pro Levey Joins Avoq — Jeff Levey hire, E&Y Washington Council background, IRS/Treasury/OECD advocacy history, September 2025](https://www.odwyerpr.com/story/public/23540/2025-09-04/tax-pro-levey-joins-avoq.html) (Tier 2)
-- [Empire Report New York: Subject Matter+Kivvit Becomes Avōq, Names New Partners — 14 partners elevated, full list including Cedric Grant, Stacey Alexander, Barry LaSala, Tom Meara](https://empirereportnewyork.com/subject-matterkivvit-becomes-avoq-names-new-partners/) (Tier 3)
+- [Senate LDA Filings: Avoq LLC Lobbying Firm Profile — Summary](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: Avoq LLC Lobbyists — Revolving Door Data](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: Avoq LLC Issues Lobbied](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: Steven Elmendorf Lobbying Profile](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Wikipedia: Steve Elmendorf](https://en.wikipedia.org/wiki/Steve_Elmendorf) (Tier 3) (VERIFIED)
+- [Avoq: Official Website](https://teamavoq.com/) (Tier 4) (VERIFIED)
+- [Avoq: Subject Matter and Kivvit Combine to Create National Powerhouse](https://teamavoq.com/news/subject-matter-and-kivvit-combine-to-create-national-communications-and-advocacy-powerhouse/) (Tier 4) (VERIFIED)
+- [Avoq: Askew and Grant Government Relations Announcement](https://teamavoq.com/news/askew-and-grant-government-relations-announcement/) (Tier 4) (VERIFIED)
+- [Washington Examiner: Top DCCC fundraiser lobbied for Chinese military-tied company on Pentagon blacklist](https://www.washingtonexaminer.com/news/2869187/top-dccc-fundraiser-lobbied-chinese-military-tied-company/) (Tier 4) (VERIFIED)
+- [Sludge: Top Dem Bundler Lobbies Against Worker Protections for Amazon](https://readsludge.com/2024/12/27/top-dem-bundler-lobbies-against-worker-protections-for-amazon/) (Tier 2) (VERIFIED)
+- [Free Beacon: The Lobbying Firms Close to the White House Cashing In on the Biden Presidency](https://freebeacon.com/biden-administration/the-lobbying-firms-close-to-the-white-house-cashing-in-on-the-biden-presidency/) (Tier 4) (VERIFIED)
+- [Avoq: Avoq Names Kelli Parsons as Chief Executive Officer — announcement, effective February 2, 2026; Cornish succession](https://teamavoq.com/news/avoq-names-kelli-parsons-as-chief-executive-officer/) (Tier 3) (VERIFIED)
+- [O'Dwyer's PR News: H&K CEO Parsons Takes Helm at Avoq — Hill & Knowlton background, United Technologies/New York Life/Fannie Mae CCO history, January 2026](https://www.odwyerpr.com/story/public/24128/2026-01-13/hk-ceo-parsons-takes-helm-at-avoq.html) (Tier 2) (VERIFIED)
+- [O'Dwyer's PR News: Tax Pro Levey Joins Avoq — Jeff Levey hire, E&Y Washington Council background, IRS/Treasury/OECD advocacy history, September 2025](https://www.odwyerpr.com/story/public/23540/2025-09-04/tax-pro-levey-joins-avoq.html) (Tier 2) (VERIFIED)
+- [Empire Report New York: Subject Matter+Kivvit Becomes Avōq, Names New Partners — 14 partners elevated, full list including Cedric Grant, Stacey Alexander, Barry LaSala, Tom Meara](https://empirereportnewyork.com/subject-matterkivvit-becomes-avoq-names-new-partners/) (Tier 3) (VERIFIED)
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->

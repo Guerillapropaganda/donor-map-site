@@ -176,18 +176,18 @@ Her contrast to [[_Vivek Ramaswamy Master Profile|Ramaswamy]] is particularly ef
 
 ## Sources
 
-- [Amy Acton - Wikipedia](https://en.wikipedia.org/wiki/Amy_Acton) (Tier 3)
-- [Amy Acton - Ballotpedia](https://ballotpedia.org/Amy_Acton) (Tier 3)
-- [Ohio Capital Journal: Dr. Amy Acton is running for Ohio governor](https://ohiocapitaljournal.com/2025/01/07/dr-amy-acton-is-running-for-ohio-governor/) (Tier 2)
-- [Acton for Governor: Record-Breaking $5.3 Million Raised](https://actonforgovernor.com/dr-amy-acton-announces-record-breaking-5-3-million-raised-to-date/) (Tier 4)
-- [Ohio Capital Journal: Ohio governor's race set to become most expensive in state history](https://ohiocapitaljournal.com/2026/02/04/ohio-governors-race-set-to-become-most-expensive-in-state-history/) (Tier 2)
-- [NOTUS: Ramaswamy's Deep Pockets Overshadow Democrat's Fundraising](https://www.notus.org/2026-election/vivek-ramaswamy-amy-acton-fundraising-in-ohios-governor-race) (Tier 2)
-- [NPR: Public Health Officials Discuss Why They Quit During COVID-19](https://www.npr.org/2020/08/06/899679894/public-health-officials-discuss-why-they-quit-during-the-covid-19-pandemic) (Tier 2)
-- [Washington Post: Ohio's Amy Acton inspires admiration, and a backlash](https://www.washingtonpost.com/national/a-white-coated-hero-or-a-medical-dictator-ohios-amy-acton-inspires-admiration-and-a-backlash-with-tough-coronavirus-response/2020/05/17/fa00cd1c-96d4-11ea-82b4-c8db161ff6e5_story.html) (Tier 2)
-- [DOJ: Former Ohio House Speaker Sentenced to 20 Years — Racketeering Conspiracy](https://www.justice.gov/usao-sdoh/pr/former-ohio-house-speaker-sentenced-20-years-prison-leading-racketeering-conspiracy) (Tier 1)
-- [Ohio Legislature: House Bill 442 — Limiting Health Director Emergency Powers](https://www.legislature.ohio.gov/legislation/133/hb442) (Tier 1)
-- [Cleveland Jewish News: Protesters gather outside Dr. Amy Acton's home](https://www.clevelandjewishnews.com/news/local_news/protesters-gather-outside-of-dr-amy-acton-s-home/article_fc0a516c-8d7b-11ea-b3ef-fbbfcd2244ef.html) (Tier 2)
-- [Ohio Secretary of State: Campaign Finance Filing & Compliance](https://www.ohiosos.gov/elections/campaign-finance) (Tier 1)
+- [Amy Acton - Wikipedia](https://en.wikipedia.org/wiki/Amy_Acton) (Tier 3) (VERIFIED)
+- [Amy Acton - Ballotpedia](https://ballotpedia.org/Amy_Acton) (Tier 3) (VERIFIED)
+- [Ohio Capital Journal: Dr. Amy Acton is running for Ohio governor](https://ohiocapitaljournal.com/2025/01/07/dr-amy-acton-is-running-for-ohio-governor/) (Tier 2) (VERIFIED)
+- [Acton for Governor: Record-Breaking $5.3 Million Raised](https://actonforgovernor.com/dr-amy-acton-announces-record-breaking-5-3-million-raised-to-date/) (Tier 4) (VERIFIED)
+- [Ohio Capital Journal: Ohio governor's race set to become most expensive in state history](https://ohiocapitaljournal.com/2026/02/04/ohio-governors-race-set-to-become-most-expensive-in-state-history/) (Tier 2) (VERIFIED)
+- [NOTUS: Ramaswamy's Deep Pockets Overshadow Democrat's Fundraising](https://www.notus.org/2026-election/vivek-ramaswamy-amy-acton-fundraising-in-ohios-governor-race) (Tier 2) (VERIFIED)
+- [NPR: Public Health Officials Discuss Why They Quit During COVID-19](https://www.npr.org/2020/08/06/899679894/public-health-officials-discuss-why-they-quit-during-the-covid-19-pandemic) (Tier 2) (VERIFIED)
+- [Washington Post: Ohio's Amy Acton inspires admiration, and a backlash](https://www.washingtonpost.com/national/a-white-coated-hero-or-a-medical-dictator-ohios-amy-acton-inspires-admiration-and-a-backlash-with-tough-coronavirus-response/2020/05/17/fa00cd1c-96d4-11ea-82b4-c8db161ff6e5_story.html) (Tier 2) (VERIFIED)
+- [DOJ: Former Ohio House Speaker Sentenced to 20 Years — Racketeering Conspiracy](https://www.justice.gov/usao-sdoh/pr/former-ohio-house-speaker-sentenced-20-years-prison-leading-racketeering-conspiracy) (Tier 1) (VERIFIED)
+- ~~[Ohio Legislature: House Bill 442 — Limiting Health Director Emergency Powers](https://www.legislature.ohio.gov/legislation/133/hb442)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Cleveland Jewish News: Protesters gather outside Dr. Amy Acton's home](https://www.clevelandjewishnews.com/news/local_news/protesters-gather-outside-of-dr-amy-acton-s-home/article_fc0a516c-8d7b-11ea-b3ef-fbbfcd2244ef.html) (Tier 2) (VERIFIED)
+- ~~[Ohio Secretary of State: Campaign Finance Filing & Compliance](https://www.ohiosos.gov/elections/campaign-finance)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ---
 

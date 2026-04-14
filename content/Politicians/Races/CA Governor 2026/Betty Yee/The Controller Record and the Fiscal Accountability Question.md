@@ -181,7 +181,7 @@ A fiscal watchdog who watches state spending but not corporate tax avoidance or 
 
 ### Sources
 
-- [California State Controller Official Press Releases](https://www.sco.ca.gov/eo_pressrel_17109.html) (Tier 1)
-- [Pensions & Investments: Controller Yee: 'More work' ahead for CalPERS board](https://www.pionline.com/governance/controller-yee-more-work-ahead-calpers-board) (Tier 2)
-- [Naked Capitalism: CalPERS, CalSTRS Board Member Betty Yee Asks the SEC to Rescue Public Pension Funds](https://www.nakedcapitalism.com/2016/02/calpers-calstrs-board-member-betty-yee-asks-the-sec-to-rescue-public-pension-funds-from-themselves.html) (Tier 3)
+- [California State Controller Official Press Releases](https://www.sco.ca.gov/eo_pressrel_17109.html) (Tier 1) (VERIFIED)
+- [Pensions & Investments: Controller Yee: 'More work' ahead for CalPERS board](https://www.pionline.com/governance/controller-yee-more-work-ahead-calpers-board) (Tier 2) (NEEDS REVIEW)
+- [Naked Capitalism: CalPERS, CalSTRS Board Member Betty Yee Asks the SEC to Rescue Public Pension Funds](https://www.nakedcapitalism.com/2016/02/calpers-calstrs-board-member-betty-yee-asks-the-sec-to-rescue-public-pension-funds-from-themselves.html) (Tier 3) (VERIFIED)
 

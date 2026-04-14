@@ -170,21 +170,21 @@ The Medicare Advantage program represents the endpoint of this strategy: a gover
 
 ### Sources
 
-- [FEC Receipts: Insurance industry summary, contributions and lobbying](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- [FEC Receipts: Insurance industry background](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- [Senate LDA Filings: Insurance lobbying profile](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [OpenSecrets: AHIP organizational profile](https://www.opensecrets.org/orgs/america-s-health-insurance-plans/summary?id=D000021819) (Tier 1)
-- [OpenSecrets: UnitedHealth Group organizational profile](https://www.opensecrets.org/orgs/unitedhealth-group/summary?id=D000000348) (Tier 1)
-- [OpenSecrets: The long, costly battle over Obamacare](https://www.opensecrets.org/news/2021/06/costly-battle-obamacare-over/) (Tier 1)
-- [Center for Public Integrity: Elimination of public option threw consumers to the insurance wolves](https://publicintegrity.org/health/elimination-of-public-option-threw-consumers-to-the-insurance-wolves/) (Tier 2)
-- [The Intercept: Lobbyist documents reveal health care industry battle plan against Medicare for All](https://theintercept.com/2018/11/20/medicare-for-all-healthcare-industry/) (Tier 2)
-- [The American Prospect: UnitedHealth's K Street Army](https://prospect.org/2025/01/16/2025-01-16-unitedhealths-k-street-army/) (Tier 2)
-- [The American Prospect: Insurance lobbyists force government to heel on Medicare Advantage](https://prospect.org/2023/04/11/2023-04-11-insurance-lobbyists-medicare-advantage/) (Tier 2)
-- [CBS News: Feds killed plan to curb Medicare Advantage overbilling after industry opposition](https://www.cbsnews.com/news/medicare-advantage-overbilling-feds-kill-bill-after-industry-opposition/) (Tier 2)
-- [NPR: Medicare Advantage plans overcharged taxpayers, dodged auditors](https://www.npr.org/sections/health-shots/2022/12/12/1141926550/medicare-advantage-plans-overcharged-taxpayers-dodged-auditors) (Tier 2)
-- [KFF Health News: UnitedHealth wins ruling over $2B in alleged Medicare Advantage overpayments](https://kffhealthnews.org/news/article/unitedhealth-special-master-ruling-medicare-advantage-overpayments/) (Tier 2)
-- [The Hill: Medicare Advantage overpayments cost seniors billions](https://thehill.com/policy/healthcare/5777186-medicare-advantage-overpayments-raise-premiums/) (Tier 2)
-- [Jacobin: UnitedHealthcare's decades-long fight to block reform](https://jacobin.com/2024/12/unitedhealthcare-reform-political-lobbying) (Tier 3)
+- [FEC Receipts: Insurance industry summary, contributions and lobbying](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
+- [FEC Receipts: Insurance industry background](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: Insurance lobbying profile](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [OpenSecrets: AHIP organizational profile](https://www.opensecrets.org/orgs/america-s-health-insurance-plans/summary?id=D000021819) (Tier 1) (VERIFIED)
+- [OpenSecrets: UnitedHealth Group organizational profile](https://www.opensecrets.org/orgs/unitedhealth-group/summary?id=D000000348) (Tier 1) (VERIFIED)
+- [OpenSecrets: The long, costly battle over Obamacare](https://www.opensecrets.org/news/2021/06/costly-battle-obamacare-over/) (Tier 1) (VERIFIED)
+- [Center for Public Integrity: Elimination of public option threw consumers to the insurance wolves](https://publicintegrity.org/health/elimination-of-public-option-threw-consumers-to-the-insurance-wolves/) (Tier 2) (VERIFIED)
+- [The Intercept: Lobbyist documents reveal health care industry battle plan against Medicare for All](https://theintercept.com/2018/11/20/medicare-for-all-healthcare-industry/) (Tier 2) (VERIFIED)
+- [The American Prospect: UnitedHealth's K Street Army](https://prospect.org/2025/01/16/2025-01-16-unitedhealths-k-street-army/) (Tier 2) (VERIFIED)
+- [The American Prospect: Insurance lobbyists force government to heel on Medicare Advantage](https://prospect.org/2023/04/11/2023-04-11-insurance-lobbyists-medicare-advantage/) (Tier 2) (VERIFIED)
+- [CBS News: Feds killed plan to curb Medicare Advantage overbilling after industry opposition](https://www.cbsnews.com/news/medicare-advantage-overbilling-feds-kill-bill-after-industry-opposition/) (Tier 2) (VERIFIED)
+- [NPR: Medicare Advantage plans overcharged taxpayers, dodged auditors](https://www.npr.org/sections/health-shots/2022/12/12/1141926550/medicare-advantage-plans-overcharged-taxpayers-dodged-auditors) (Tier 2) (VERIFIED)
+- [KFF Health News: UnitedHealth wins ruling over $2B in alleged Medicare Advantage overpayments](https://kffhealthnews.org/news/article/unitedhealth-special-master-ruling-medicare-advantage-overpayments/) (Tier 2) (VERIFIED)
+- ~~[The Hill: Medicare Advantage overpayments cost seniors billions](https://thehill.com/policy/healthcare/5777186-medicare-advantage-overpayments-raise-premiums/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Jacobin: UnitedHealthcare's decades-long fight to block reform](https://jacobin.com/2024/12/unitedhealthcare-reform-political-lobbying) (Tier 3) (VERIFIED)
 - ~~[FollowTheMoney: Health insurance companies give healthy donations to political campaigns](https://www.followthemoney.org/research/institute-reports/health-insurance-companies-give-healthy-donations-to-political-campaigns)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 1)
 
 ---
@@ -212,7 +212,7 @@ The Medicare Advantage program represents the endpoint of this strategy: a gover
 | Net Assets | $4.3M |
 | Officer Compensation | $1.6M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 201240972](https://projects.propublica.org/nonprofits/organizations/201240972) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 201240972](https://projects.propublica.org/nonprofits/organizations/201240972) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### OFAC Sanctions Screening
@@ -229,7 +229,7 @@ The Medicare Advantage program represents the endpoint of this strategy: a gover
 - GAS INDUSTRY INSURANCE COMPANY SOGAZ (-0-) [UKRAINE-EO13662] [RUSSIA-EO14024]
   - Remarks: Secondary sanctions risk: See Section 11 of Executive Order 14024.; alt. Secondary sanctions risk: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209; Tax ID No. 7736035485 (...
 
-- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
 ### Federal Contracts
@@ -253,7 +253,7 @@ The Medicare Advantage program represents the endpoint of this strategy: a gover
 | $0 | COMMERCE, DEPARTMENT OF | 2018-08-02 |
 | $0 | COMMERCE, DEPARTMENT OF | 2020-08-30 |
 
-- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Insurance%20Industry&page=1&index=opp) (Tier 1)
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Insurance%20Industry&page=1&index=opp) (Tier 1) (VERIFIED)
 <!-- auto:sam-contracts end -->
 
 ### Influence Network (Cross-Reference)
@@ -315,7 +315,7 @@ The Medicare Advantage program represents the endpoint of this strategy: a gover
 | FRIENDS OF MARK WARNER | $5,700 | DEM |
 | PETE SESSIONS FOR CONGRESS | $5,000 | REP |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Insurance%20Industry) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Insurance%20Industry) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### Federal Register Activity
@@ -330,15 +330,15 @@ The Medicare Advantage program represents the endpoint of this strategy: a gover
 | Agencies | Centers for Medicare & Medicaid Services, Federal Emergency Management Agency, Federal Reserve System, Federal Trade Commission, Financial Crimes Enforcement Network, Food and Drug Administration, Health and Human Services Department, Homeland Security Department +7 more |
 
 **Recent regulatory activity:**
-- [Request for Expressions of Interest in Membership on the Federal Insurance Office's Federal Advisory Committee on Insurance](https://www.federalregister.gov/documents/2026/03/25/2026-05811/request-for-expressions-of-interest-in-membership-on-the-federal-insurance-offices-federal-advisory) (2026-03-25) — Treasury Department
-- [Administrative Simplification; Adoption of Standards for Health Care Claims Attachments Transactions and Electronic Signatures](https://www.federalregister.gov/documents/2026/03/24/2026-05676/administrative-simplification-adoption-of-standards-for-health-care-claims-attachments-transactions) (2026-03-24) — Health and Human Services Department ★
-- [Reestablishment of the Federal Advisory Committee on Insurance](https://www.federalregister.gov/documents/2026/03/10/2026-04693/reestablishment-of-the-federal-advisory-committee-on-insurance) (2026-03-10) — Treasury Department
-- [Revising the National Drug Code Format and Drug Label Barcode Requirements](https://www.federalregister.gov/documents/2026/03/05/2026-04368/revising-the-national-drug-code-format-and-drug-label-barcode-requirements) (2026-03-05) — Health and Human Services Department
-- [Patient Protection and Affordable Care Act, HHS Notice of Benefit and Payment Parameters for 2027; and Basic Health Program](https://www.federalregister.gov/documents/2026/02/11/2026-02769/patient-protection-and-affordable-care-act-hhs-notice-of-benefit-and-payment-parameters-for-2027-and) (2026-02-11) — Health and Human Services Department ★
-- [HUD's Implementation of the Fair Housing Act's Disparate Impact Standard](https://www.federalregister.gov/documents/2026/01/14/2026-00590/huds-implementation-of-the-fair-housing-acts-disparate-impact-standard) (2026-01-14) — Housing and Urban Development Department ★
+- [Request for Expressions of Interest in Membership on the Federal Insurance Office's Federal Advisory Committee on Insurance](https://www.federalregister.gov/documents/2026/03/25/2026-05811/request-for-expressions-of-interest-in-membership-on-the-federal-insurance-offices-federal-advisory) (VERIFIED) (2026-03-25) — Treasury Department
+- [Administrative Simplification; Adoption of Standards for Health Care Claims Attachments Transactions and Electronic Signatures](https://www.federalregister.gov/documents/2026/03/24/2026-05676/administrative-simplification-adoption-of-standards-for-health-care-claims-attachments-transactions) (VERIFIED) (2026-03-24) — Health and Human Services Department ★
+- [Reestablishment of the Federal Advisory Committee on Insurance](https://www.federalregister.gov/documents/2026/03/10/2026-04693/reestablishment-of-the-federal-advisory-committee-on-insurance) (VERIFIED) (2026-03-10) — Treasury Department
+- [Revising the National Drug Code Format and Drug Label Barcode Requirements](https://www.federalregister.gov/documents/2026/03/05/2026-04368/revising-the-national-drug-code-format-and-drug-label-barcode-requirements) (VERIFIED) (2026-03-05) — Health and Human Services Department
+- [Patient Protection and Affordable Care Act, HHS Notice of Benefit and Payment Parameters for 2027; and Basic Health Program](https://www.federalregister.gov/documents/2026/02/11/2026-02769/patient-protection-and-affordable-care-act-hhs-notice-of-benefit-and-payment-parameters-for-2027-and) (VERIFIED) (2026-02-11) — Health and Human Services Department ★
+- ~~[HUD's Implementation of the Fair Housing Act's Disparate Impact Standard](https://www.federalregister.gov/documents/2026/01/14/2026-00590/huds-implementation-of-the-fair-housing-acts-disparate-impact-standard)~~ (URL broken, archived by Ops) (2026-01-14) — Housing and Urban Development Department ★
 - ... and 843 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Insurance%20Industry%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Insurance%20Industry%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### DOJ Press Releases
@@ -360,5 +360,5 @@ The Medicare Advantage program represents the endpoint of this strategy: a gover
 
 **Agencies contacted:** Agriculture, Dept of (USDA), Army, Dept of (Corps of Engineers), Centers For Disease Control & Prevention (CDC), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Commodity Futures Trading Commission (CFTC), Congressional Budget Office (CBO), Executive Office of the President (EOP), Federal Communications Commission (FCC), Federal Deposit Insurance Corporation (FDIC) +26 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Insurance%20Industry) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Insurance%20Industry) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->

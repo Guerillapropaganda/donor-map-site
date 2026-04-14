@@ -80,5 +80,5 @@ The $97M in failed campaigns demonstrates the limits of the democratic route for
 
 - Wrestlenomics: McMahon political donations breakdown (Tier 2)
 - Inside Philanthropy: AFPI funding and Trump administration ties (Tier 2)
-- [The Nation: AFPI and McMahon's education agenda](https://www.thenation.com/?q=50%20Million%20Dollar%20Pipeline%20from%20WWE%20to%20the%20Cabinet) (Tier 2)
-- [OpenSecrets: Trump administration profile — McMahon](https://www.opensecrets.org/members-of-congress/summary?name=50%20Million%20Dollar%20Pipeline%20from%20WWE%20to%20the%20Cabinet) (Tier 2)
+- [The Nation: AFPI and McMahon's education agenda](https://www.thenation.com/?q=50%20Million%20Dollar%20Pipeline%20from%20WWE%20to%20the%20Cabinet) (Tier 2) (VERIFIED)
+- [OpenSecrets: Trump administration profile — McMahon](https://www.opensecrets.org/members-of-congress/summary?name=50%20Million%20Dollar%20Pipeline%20from%20WWE%20to%20the%20Cabinet) (Tier 2) (VERIFIED)

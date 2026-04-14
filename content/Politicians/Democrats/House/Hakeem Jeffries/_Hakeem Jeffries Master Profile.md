@@ -195,13 +195,13 @@ The leadership PAC (Jobs, Education and Family First) and Team Blue PAC (co-foun
 ## Sources
 
 ### Verified
-- [FEC Candidate: Hakeem Jeffries campaign finance summary](https://www.fec.gov/data/candidate/H2NY10092/) (Tier 1)
-- [FEC: Jeffries for Congress committee (C00481488)](https://www.fec.gov/data/committee/C00481488/) (Tier 1)
-- [Sludge: Jeffries misleads on AIPAC PAC money](https://readsludge.com/2025/11/25/jeffries-misleads-on-aipac-pac-money/) (Tier 2)
-- [Sludge: House Democrats' anti-progressive PAC funded by corporate lobbyists](https://readsludge.com/2022/02/01/house-democrats-new-anti-progressive-pac-is-funded-by-corporate-lobbyists-and-pacs/) (Tier 2)
-- [The Real Deal: Jeffries on real estate and gentrification](https://therealdeal.com/magazine/national-july-2020/the-closing-hakeem-jeffries/) (Tier 2)
-- [Britannica: Hakeem Jeffries biography](https://www.britannica.com/biography/Hakeem-Jeffries) (Tier 3)
-- [Ballotpedia: Hakeem Jeffries](https://ballotpedia.org/Hakeem_Jeffries) (Tier 3)
+- [FEC Candidate: Hakeem Jeffries campaign finance summary](https://www.fec.gov/data/candidate/H2NY10092/) (Tier 1) (VERIFIED)
+- ~~[FEC: Jeffries for Congress committee (C00481488)](https://www.fec.gov/data/committee/C00481488/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Sludge: Jeffries misleads on AIPAC PAC money](https://readsludge.com/2025/11/25/jeffries-misleads-on-aipac-pac-money/) (Tier 2) (VERIFIED)
+- [Sludge: House Democrats' anti-progressive PAC funded by corporate lobbyists](https://readsludge.com/2022/02/01/house-democrats-new-anti-progressive-pac-is-funded-by-corporate-lobbyists-and-pacs/) (Tier 2) (VERIFIED)
+- [The Real Deal: Jeffries on real estate and gentrification](https://therealdeal.com/magazine/national-july-2020/the-closing-hakeem-jeffries/) (Tier 2) (VERIFIED)
+- [Britannica: Hakeem Jeffries biography](https://www.britannica.com/biography/Hakeem-Jeffries) (Tier 3) (VERIFIED)
+- [Ballotpedia: Hakeem Jeffries](https://ballotpedia.org/Hakeem_Jeffries) (Tier 3) (VERIFIED)
 
 ### Needed (blocking verified promotion)
 - Congress.gov member profile: `https://www.congress.gov/member/hakeem-jeffries/J000294` (needs verification per David)
@@ -319,7 +319,7 @@ The transition is the most visible evidence that Democratic leadership is a dono
 | HEROES UNITED PAC, DBA VOLUNTEER FIREFIGHTERS ASSOCIATION, DBA ASSOCIATION OF POLICE & FIRST RESPONDERS | $6,400 | $0 |
 | PLANNED PARENTHOOD VOTES | $195 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2NY10092/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2NY10092/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Sanctions & PEP Screening (OpenSanctions)
@@ -334,10 +334,10 @@ The transition is the most visible evidence that Democratic leadership is a dono
 | Topics | role.pep, sanction.counter, role.pol |
 
 **Matched records:**
-- [Hakeem Jeffries](https://www.opensanctions.org/entities/Q5640425/) — 100% match (ann_pep_positions, wd_categories, everypolitician)
+- [Hakeem Jeffries](https://www.opensanctions.org/entities/Q5640425/) (VERIFIED) — 100% match (ann_pep_positions, wd_categories, everypolitician)
 - [Hakeem Jeffries](https://www.opensanctions.org/entities/Q5640425/) — 100% match (ann_pep_positions, wd_categories, everypolitician)
 
-- [Source: OpenSanctions](https://www.opensanctions.org/search/?q=Hakeem%20Jeffries) (Tier 1)
+- [Source: OpenSanctions](https://www.opensanctions.org/search/?q=Hakeem%20Jeffries) (Tier 1) (VERIFIED)
 <!-- auto:opensanctions end -->
 
 ### Legislative Activity (Congress.gov)
@@ -366,7 +366,7 @@ The transition is the most visible evidence that Democratic leadership is a dono
 | 19 | Reserved for the Minority Leader. | Introduced in House |
 | 18 | Reserved for the Minority Leader. | Introduced in House |
 
-- [Source: Congress.gov](https://www.congress.gov/member/J000294) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/J000294)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Campaign Finance Summary (FEC)
@@ -400,14 +400,14 @@ The transition is the most visible evidence that Democratic leadership is a dono
 <!-- auto:committee-assignments start -->
 _No committee data found._
 
-- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Hakeem Jeffries](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: Hakeem Jeffries](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-13 -->
@@ -434,8 +434,8 @@ _No committee data found._
 
 **Sources**
 
-- [Congress.gov: Hakeem Jeffries](https://www.congress.gov/member/e000179) (Tier 1)
-- [GovTrack: Hakeem Jeffries](https://www.govtrack.us/congress/members/412561) (Tier 1)
+- ~~[Congress.gov: Hakeem Jeffries](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [GovTrack: Hakeem Jeffries](https://www.govtrack.us/congress/members/412561) (Tier 1) (NEEDS REVIEW)
 
 <!-- auto:voting-record pending-merge end -->
 
@@ -445,15 +445,15 @@ Hakeem Sekou Jeffries is an American politician and attorney who has served as H
 
 | Fact | Value |
 |------|-------|
-| Wikidata ID | [Q5640425](https://www.wikidata.org/wiki/Q5640425) |
+| Wikidata ID | [Q5640425](https://www.wikidata.org/wiki/Q5640425) (VERIFIED) |
 | Description | American politician (born 1970) |
 | Born | 1970-08-04 |
-| Website | [http://jeffries.house.gov](http://jeffries.house.gov) |
-| X/Twitter | [@RepJeffries](https://x.com/RepJeffries) |
-| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Hakeem_Jeffries_official_portrait.jpg?width=300) |
+| Website | [http://jeffries.house.gov](http://jeffries.house.gov) (NEEDS REVIEW) |
+| X/Twitter | [@RepJeffries](https://x.com/RepJeffries) (VERIFIED) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Hakeem_Jeffries_official_portrait.jpg?width=300) (NEEDS REVIEW) |
 
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/Hakeem_Jeffries) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q5640425) (Tier 2)
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Hakeem_Jeffries) (Tier 3) (VERIFIED)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q5640425) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
 ### Legislative Activity (GovTrack)
@@ -486,5 +486,5 @@ Hakeem Sekou Jeffries is an American politician and attorney who has served as H
 | 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Nay | Passed |
 | 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Nay | Passed |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412561) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412561) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->

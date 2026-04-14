@@ -65,6 +65,6 @@ Each stage served a different donor-class function: Koch money bought the policy
 
 ### Sources
 
-- [ABC News: Hegseth earned $4.6M in salary as Fox News host in past 2 years](https://abcnews.com/Politics/hegseth-earned-46m-salary-fox-news-host-past/story?id=117633347) (Tier 2)
-- [Time: Pete Hegseth's role in Trump's controversial pardons of men accused of war crimes](https://time.com/7176342/pete-hegseth-donald-trump-pardon-war-crimes-military/) (Tier 2)
-- [Media Matters: Fox's Pete Hegseth has been repeatedly advocating for looser accountability for war crimes](https://www.mediamatters.org/pete-hegseth/foxs-pete-hegseth-has-been-repeatedly-advocating-looser-accountability-war-crimes) (Tier 2)
+- [ABC News: Hegseth earned $4.6M in salary as Fox News host in past 2 years](https://abcnews.com/Politics/hegseth-earned-46m-salary-fox-news-host-past/story?id=117633347) (Tier 2) (VERIFIED)
+- [Time: Pete Hegseth's role in Trump's controversial pardons of men accused of war crimes](https://time.com/7176342/pete-hegseth-donald-trump-pardon-war-crimes-military/) (Tier 2) (VERIFIED)
+- [Media Matters: Fox's Pete Hegseth has been repeatedly advocating for looser accountability for war crimes](https://www.mediamatters.org/pete-hegseth/foxs-pete-hegseth-has-been-repeatedly-advocating-looser-accountability-war-crimes) (Tier 2) (VERIFIED)

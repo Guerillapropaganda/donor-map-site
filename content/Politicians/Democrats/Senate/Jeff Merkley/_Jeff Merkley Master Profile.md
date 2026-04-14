@@ -142,16 +142,16 @@ Merkley's existence in the Senate also creates a useful illusion for the Democra
 
 ## Sources
 
-- [FEC Candidate: Jeff Merkley Campaign Finance Summary](https://www.fec.gov/data/candidate/S8OR00207/) (Tier 1)
-- [FEC: Jeff Merkley for Oregon (C00437277)](https://www.fec.gov/data/committee/C00437277/) (Tier 1)
-- [OPB: Oregon Sen. Jeff Merkley Has Stopped Taking Corporate PAC Cash](https://www.opb.org/news/article/jeff-merkley-pac-cash-stop/) (Tier 2)
-- [Senator Merkley: Statement on Financial Reform Legislation](https://www.merkley.senate.gov/merkley-statement-on-financial-reform-legislation/) (Tier 1)
-- [Jeff Merkley Campaign: End Hedge Fund Control of American Homes Act](https://www.jeffmerkley.com/2024/02/02/end-hedge-fund-control-american-homes-act/) (Tier 1)
-- [Jeff Merkley Campaign: Billionaire Money Is Flooding Our Elections](https://www.jeffmerkley.com/2026/03/18/billionaire-money-flooding-our-elections/) (Tier 1)
-- [Bend Bulletin: Merkley Has Focused on Health, Energy and Consumer Protection](https://web.archive.org/web/2023/https:/www.bendbulletin.com/home/2286306-151/merkley-has-focused-on-health-energy-and-consumer) (Tier 2)
-- [GovTrack: Senator Jeff Merkley](https://www.govtrack.us/congress/members/jeff_merkley/412325) (Tier 3)
-- [Wikipedia: Jeff Merkley](https://en.wikipedia.org/wiki/Jeff_Merkley) (Tier 3)
-- [Ballotpedia: Jeff Merkley](https://ballotpedia.org/Jeff_Merkley) (Tier 3)
+- [FEC Candidate: Jeff Merkley Campaign Finance Summary](https://www.fec.gov/data/candidate/S8OR00207/) (Tier 1) (VERIFIED)
+- [FEC: Jeff Merkley for Oregon (C00437277)](https://www.fec.gov/data/committee/C00437277/) (Tier 1) (VERIFIED)
+- [OPB: Oregon Sen. Jeff Merkley Has Stopped Taking Corporate PAC Cash](https://www.opb.org/news/article/jeff-merkley-pac-cash-stop/) (Tier 2) (VERIFIED)
+- [Senator Merkley: Statement on Financial Reform Legislation](https://www.merkley.senate.gov/merkley-statement-on-financial-reform-legislation/) (Tier 1) (VERIFIED)
+- [Jeff Merkley Campaign: End Hedge Fund Control of American Homes Act](https://www.jeffmerkley.com/2024/02/02/end-hedge-fund-control-american-homes-act/) (Tier 1) (VERIFIED)
+- [Jeff Merkley Campaign: Billionaire Money Is Flooding Our Elections](https://www.jeffmerkley.com/2026/03/18/billionaire-money-flooding-our-elections/) (Tier 1) (VERIFIED)
+- ~~[Bend Bulletin: Merkley Has Focused on Health, Energy and Consumer Protection](https://web.archive.org/web/2023/https:/www.bendbulletin.com/home/2286306-151/merkley-has-focused-on-health-energy-and-consumer)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[GovTrack: Senator Jeff Merkley](https://www.govtrack.us/congress/members/jeff_merkley/412325)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [Wikipedia: Jeff Merkley](https://en.wikipedia.org/wiki/Jeff_Merkley) (Tier 3) (VERIFIED)
+- [Ballotpedia: Jeff Merkley](https://ballotpedia.org/Jeff_Merkley) (Tier 3) (VERIFIED)
 
 ---
 
@@ -190,7 +190,7 @@ party:: Democrat
 | League of Conservation Voters Inc | $591,357 | $0 |
 | AMERICAN FUTURE FUND POLITICAL ACTION | $0 | $330,000 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S8OR00207/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S8OR00207/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### DOJ Press Releases
@@ -222,5 +222,5 @@ party:: Democrat
 | — |  | — |
 | — |  | — |
 
-- [Source: Congress.gov](https://www.congress.gov/member/M001176) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/M001176)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->

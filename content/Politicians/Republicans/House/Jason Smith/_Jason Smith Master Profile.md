@@ -150,19 +150,19 @@ On trade, he adopts Trump's protectionist language — "treating countries how t
 
 ## Sources
 
-- [FEC Candidate: Jason Smith Campaign Finance Summary](https://www.fec.gov/data/candidate/P20005559/) (Tier 1)
-- [FEC: Jason Smith for Congress Committee (C00541862)](https://www.fec.gov/data/committee/C00541862/) (Tier 1)
-- [Congress.gov: Rep. Jason Smith Member Profile](https://www.congress.gov/member/jason-smith/S001195) (Tier 1)
-- [House Ways and Means Committee: Chairman Jason Smith](https://waysandmeans.house.gov/the-chairman/) (Tier 1)
-- [Tax Foundation: One Big Beautiful Bill Act Tax Changes](https://taxfoundation.org/research/all/federal/one-big-beautiful-bill-act-tax-changes/) (Tier 1)
-- [ProPublica: Secret IRS Files Reveal How the Ultrawealthy Gained by Shaping Trump's Tax Cut](https://www.propublica.org/article/secret-irs-files-reveal-how-much-the-ultrawealthy-gained-by-shaping-trumps-big-beautiful-tax-cut) (Tier 2)
-- [Bloomberg Tax: Top House GOP Taxwriter Rakes in Cash After Claiming Gavel](https://news.bloombergtax.com/daily-tax-report/top-house-gop-taxwriter-rakes-in-cash-after-claiming-gavel) (Tier 2)
-- [Healthcare Uncovered: Top 10 Recipients of Health Insurance PAC Contributions](https://healthcareuncovered.substack.com/p/the-top-10-recipients-of-campaign) (Tier 2)
-- [Kirkland & Ellis: Final One Big Beautiful Bill Act Analysis](https://www.kirkland.com/publications/kirkland-alert/2025/07/final-one-big-beautiful-bill-act) (Tier 2)
-- [Brownstein Hyatt: Ways & Means Chair Jason Smith's Potential Legislative Agenda](https://www.bhfs.com/insight/ways-and-means-chair-jason-smith-s-potential-legislative-agenda/) (Tier 2)
-- [Tax Foundation: Section 199A Permanence in the Big Beautiful Bill](https://taxfoundation.org/blog/199a-deduction-pass-through-business-big-beautiful-bill/) (Tier 2)
-- [Data USA: Congressional District 8, MO Demographics](https://datausa.io/profile/geo/congressional-district-8-mo/) (Tier 3)
-- [Ballotpedia: Jason Smith (Missouri)](https://ballotpedia.org/Jason_Smith_(Missouri_representative)) (Tier 3)
+- [FEC Candidate: Jason Smith Campaign Finance Summary](https://www.fec.gov/data/candidate/P20005559/) (Tier 1) (VERIFIED)
+- [FEC: Jason Smith for Congress Committee (C00541862)](https://www.fec.gov/data/committee/C00541862/) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: Rep. Jason Smith Member Profile](https://www.congress.gov/member/jason-smith/S001195)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [House Ways and Means Committee: Chairman Jason Smith](https://waysandmeans.house.gov/the-chairman/) (Tier 1) (VERIFIED)
+- [Tax Foundation: One Big Beautiful Bill Act Tax Changes](https://taxfoundation.org/research/all/federal/one-big-beautiful-bill-act-tax-changes/) (Tier 1) (VERIFIED)
+- [ProPublica: Secret IRS Files Reveal How the Ultrawealthy Gained by Shaping Trump's Tax Cut](https://www.propublica.org/article/secret-irs-files-reveal-how-much-the-ultrawealthy-gained-by-shaping-trumps-big-beautiful-tax-cut) (Tier 2) (VERIFIED)
+- [Bloomberg Tax: Top House GOP Taxwriter Rakes in Cash After Claiming Gavel](https://news.bloombergtax.com/daily-tax-report/top-house-gop-taxwriter-rakes-in-cash-after-claiming-gavel) (Tier 2) (VERIFIED)
+- [Healthcare Uncovered: Top 10 Recipients of Health Insurance PAC Contributions](https://healthcareuncovered.substack.com/p/the-top-10-recipients-of-campaign) (Tier 2) (VERIFIED)
+- [Kirkland & Ellis: Final One Big Beautiful Bill Act Analysis](https://www.kirkland.com/publications/kirkland-alert/2025/07/final-one-big-beautiful-bill-act) (Tier 2) (VERIFIED)
+- [Brownstein Hyatt: Ways & Means Chair Jason Smith's Potential Legislative Agenda](https://www.bhfs.com/insight/ways-and-means-chair-jason-smith-s-potential-legislative-agenda/) (Tier 2) (VERIFIED)
+- [Tax Foundation: Section 199A Permanence in the Big Beautiful Bill](https://taxfoundation.org/blog/199a-deduction-pass-through-business-big-beautiful-bill/) (Tier 2) (VERIFIED)
+- [Data USA: Congressional District 8, MO Demographics](https://datausa.io/profile/geo/congressional-district-8-mo/) (Tier 3) (VERIFIED)
+- [Ballotpedia: Jason Smith (Missouri)](https://ballotpedia.org/Jason_Smith_(Missouri_representative) (VERIFIED)) (Tier 3)
 
 ---
 
@@ -173,7 +173,7 @@ On trade, he adopts Trump's protectionist language — "treating countries how t
 | Election Cycle | 2032 |
 | Cash on Hand | 0.00 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/P20005559/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/P20005559/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### DOJ Press Releases
@@ -208,7 +208,7 @@ On trade, he adopts Trump's protectionist language — "treating countries how t
 | 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Yea | Passed |
 | 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Yea | Passed |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412596) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412596) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
 
 ## Voting Record
@@ -235,7 +235,7 @@ On trade, he adopts Trump's protectionist language — "treating countries how t
 
 **Sources**
 
-- [GovTrack: Jason Smith](https://www.govtrack.us/congress/members/412596) (Tier 1)
+- [GovTrack: Jason Smith](https://www.govtrack.us/congress/members/412596) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-11 -->
@@ -262,7 +262,7 @@ On trade, he adopts Trump's protectionist language — "treating countries how t
 
 **Sources**
 
-- [Congress.gov: Jason Smith](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: Jason Smith](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [GovTrack: Jason Smith](https://www.govtrack.us/congress/members/412596) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->
@@ -293,5 +293,5 @@ On trade, he adopts Trump's protectionist language — "treating countries how t
 | 33 | To amend the Internal Revenue Code of 1986 to provide special rules for the taxa… | Received in the Senate and Read twice and referred to the Committee on Finance. |
 | 8813 | Preventing Child Welfare Entry Caused by Poverty Act | Referred to the Subcommittee on Work and Welfare. |
 
-- [Source: Congress.gov](https://www.congress.gov/member/S001195) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/S001195)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->

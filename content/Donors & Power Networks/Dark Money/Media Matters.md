@@ -152,17 +152,17 @@ The Musk lawsuit reveals that this billionaire-funded model is strategically vul
 | Total Expenses | $1K |
 | Net Assets | $1K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 844239468](https://projects.propublica.org/nonprofits/organizations/844239468) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 844239468](https://projects.propublica.org/nonprofits/organizations/844239468) (Tier 1) (VERIFIED)
 
 <!-- auto:propublica-990 end -->
 
 ### Sources
 
-- [OpenSecrets: Media Matters organizational profile](https://www.opensecrets.org/orgs/media-matters-for-america/summary) (Tier 1)
-- [IRS Form 990: Media Matters (2022-2023)](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Media%20Matters&city=&state=All+States&country=US) (Tier 1)
-- [InfluenceWatch: Media Matters for America — funding and Democracy Alliance ties](https://www.influencewatch.org/non-profit/media-matters-for-america/) (Tier 3)
-- [CNN: Elon Musk sues Media Matters](https://www.cnn.com/technology/elon-musk-sues-media-matters/index.html) *(source unavailable)* (Tier 3)
-- [Media Matters: About Us and Research](https://www.mediamatters.org/about-us) (Tier 2)
+- ~~[OpenSecrets: Media Matters organizational profile](https://www.opensecrets.org/orgs/media-matters-for-america/summary)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[IRS Form 990: Media Matters (2022-2023)](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Media%20Matters&city=&state=All+States&country=US)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [InfluenceWatch: Media Matters for America — funding and Democracy Alliance ties](https://www.influencewatch.org/non-profit/media-matters-for-america/) (Tier 3) (VERIFIED)
+- ~~[CNN: Elon Musk sues Media Matters](https://www.cnn.com/technology/elon-musk-sues-media-matters/index.html)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 3)
+- [Media Matters: About Us and Research](https://www.mediamatters.org/about-us) (Tier 2) (VERIFIED)
 
 ---
 
@@ -193,14 +193,14 @@ The Musk lawsuit reveals that this billionaire-funded model is strategically vul
 **Filing history:** 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013
 
 **View 990 filings:**
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/453568592/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/453568592/2019)
-- [2018 Filing](https://projects.propublica.org/nonprofits/organizations/453568592/2018)
-- [2017 Filing](https://projects.propublica.org/nonprofits/organizations/453568592/2017)
-- [2016 Filing](https://projects.propublica.org/nonprofits/organizations/453568592/2016)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/453568592/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/453568592/2019)~~ (URL broken, archived by Ops)
+- ~~[2018 Filing](https://projects.propublica.org/nonprofits/organizations/453568592/2018)~~ (URL broken, archived by Ops)
+- ~~[2017 Filing](https://projects.propublica.org/nonprofits/organizations/453568592/2017)~~ (URL broken, archived by Ops)
+- ~~[2016 Filing](https://projects.propublica.org/nonprofits/organizations/453568592/2016)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/453568592) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/453568592) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Federal Register Activity
@@ -212,12 +212,12 @@ The Musk lawsuit reveals that this billionaire-funded model is strategically vul
 | Agencies | Food and Drug Administration, Health and Human Services Department |
 
 **Recent regulatory activity:**
-- [Office of the Commissioner Reorganization; Statement of Organizations, Functions, and Delegations of Authority](https://www.federalregister.gov/documents/2010/02/19/2010-3161/office-of-the-commissioner-reorganization-statement-of-organizations-functions-and-delegations-of) (2010-02-19) — Health and Human Services Department
-- [Office of the Commissioner Reorganization; Statement of Organizations, Functions, and Delegations of Authority](https://www.federalregister.gov/documents/2009/08/18/E9-19680/office-of-the-commissioner-reorganization-statement-of-organizations-functions-and-delegations-of) (2009-08-18) — Health and Human Services Department
-- [Statement of Organization, Functions, and Delegations of Authority](https://www.federalregister.gov/documents/1999/07/06/99-17019/statement-of-organization-functions-and-delegations-of-authority) (1999-07-06) — Health and Human Services Department
-- [Statement of Organization, Functions, and Delegations of Authority](https://www.federalregister.gov/documents/1995/02/28/95-4796/statement-of-organization-functions-and-delegations-of-authority) (1995-02-28) — Health and Human Services Department
+- [Office of the Commissioner Reorganization; Statement of Organizations, Functions, and Delegations of Authority](https://www.federalregister.gov/documents/2010/02/19/2010-3161/office-of-the-commissioner-reorganization-statement-of-organizations-functions-and-delegations-of) (VERIFIED) (2010-02-19) — Health and Human Services Department
+- [Office of the Commissioner Reorganization; Statement of Organizations, Functions, and Delegations of Authority](https://www.federalregister.gov/documents/2009/08/18/E9-19680/office-of-the-commissioner-reorganization-statement-of-organizations-functions-and-delegations-of) (VERIFIED) (2009-08-18) — Health and Human Services Department
+- ~~[Statement of Organization, Functions, and Delegations of Authority](https://www.federalregister.gov/documents/1999/07/06/99-17019/statement-of-organization-functions-and-delegations-of-authority)~~ (URL broken, archived by Ops) (1999-07-06) — Health and Human Services Department
+- [Statement of Organization, Functions, and Delegations of Authority](https://www.federalregister.gov/documents/1995/02/28/95-4796/statement-of-organization-functions-and-delegations-of-authority) (VERIFIED) (1995-02-28) — Health and Human Services Department
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Media%20Matters%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Media%20Matters%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Federal Court Records (CourtListener)
@@ -236,14 +236,14 @@ The Musk lawsuit reveals that this billionaire-funded model is strategically vul
 - COALITION FOR INDEPENDENT TECHNOLOGY RESEARCH v. RUBIO (2026) — District Court, District of Columbia
 - WESTALL v. GOOGLE (2026) — District Court, District of Columbia
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Media%20Matters%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Media%20Matters%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [2330006W7D3HYA5G4N42](https://search.gleif.org/#/record/2330006W7D3HYA5G4N42) |
+| LEI | [2330006W7D3HYA5G4N42](https://search.gleif.org/#/record/2330006W7D3HYA5G4N42) (VERIFIED) |
 | Legal Name | Media Matters Group Korlátolt Felelősségű Társaság |
 | Jurisdiction | HU |
 | Entity Status | ACTIVE |
@@ -251,7 +251,7 @@ The Musk lawsuit reveals that this billionaire-funded model is strategically vul
 | Registration | ISSUED |
 | Last Updated | 2025-11-11T14:14:10Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Lobbying Activity
@@ -270,7 +270,7 @@ The Musk lawsuit reveals that this billionaire-funded model is strategically vul
 
 **Agencies contacted:** Bureau of Industry and Security (BIS), Commerce, Dept of (DOC), Defense Advanced Research Projects Agency (DARPA), Defense, Dept of (DOD), Executive Office of the President (EOP), Federal Communications Commission (FCC), Federal Energy Regulatory Commission (FERC), Federal Highway Administration (FHA), Federal Reserve System, Federal Trade Commission (FTC) +15 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Media%20Matters) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Media%20Matters) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Campaign Finance (FEC)
@@ -289,7 +289,7 @@ The Musk lawsuit reveals that this billionaire-funded model is strategically vul
 | HILLARY CLINTON FOR PRESIDENT | $198,024 | DEM |
 | DECUIR FOR CONGRESS | $500 | DEM |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Media%20Matters) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Media%20Matters) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### Influence Network (Cross-Reference)

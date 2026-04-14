@@ -238,25 +238,25 @@ The revolving door at K&L Gates is not especially lurid — there are no Haley B
 
 ### Sources
 
-- [Senate LDA Filings: K&L Gates Lobbying Profile 2024](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA Filings: K&L Gates Lobbyists 2024](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [K&L Gates: Adds Recently Retired US Congressman Mike Doyle to Public Policy Practice (December 2022)](https://www.klgates.com/KL-Gates-Adds-Recently-Retired-US-Congressman-Mike-Doyle-to-Public-Policy-and-Law-Practice-12-27-2022) (Tier 3)
-- [K&L Gates: Strengthens Public Policy Practice With DC Additions — Jackson, Fulton, Bickwit (May 2023)](https://www.klgates.com/KL-Gates-Strengthens-Public-Policy-and-Law-Practice-with-Washington-DC-Additions-5-3-2023) (Tier 3)
-- [K&L Gates: Adds Joseph Trahern Of Counsel to Public Policy Practice (January 2024)](https://www.klgates.com/KL-Gates-Adds-Of-Counsel-to-Public-Policy-and-Law-Practice-in-Washington-DC-1-17-2024) (Tier 3)
-- [K&L Gates: Daniel F.C. Crowley Partner Profile](https://www.klgates.com/lawyers/Daniel-FC-Crowley) (Tier 3)
-- [K&L Gates: Public Policy and Law Practice Overview](https://www.klgates.com/Public-Policy-and-Law-Practices) (Tier 3)
-- [The Hill: Ex-GOP Rep. Denham Heads to Lobbying Firm (K&L Gates, 2019)](https://thehill.com/business-a-lobbying/442730-ex-gop-rep-denham-heads-to-lobbying-firm/) (Tier 2)
-- [Senate LDA Filings: K&L Gates Issues Lobbied 2024](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Wikipedia: K&L Gates](https://en.wikipedia.org/wiki/K&L_Gates) (Tier 3)
-- [Congress.gov: SHIPS for America Act of 2024 (H.R.10493)](https://www.congress.gov/bill/118th-congress/house-bill/10493) (Tier 1)
-- [American Maritime Partnership: Applauds SHIPS for America Act sponsors](https://www.americanmaritimepartnership.com/general/american-maritime-partnership-applauds-the-sponsors-of-the-ships-for-america-act-press-release/) (Tier 3)
-- [PBS NewsHour: What to know about the Jones Act as the Trump administration unveils 60-day waiver](https://www.pbs.org/newshour/politics/what-to-know-about-the-jones-act-as-the-trump-administration-unveils-a-60-day-waiver) (Tier 2)
-- [NPR: TikTok signs deal to give U.S. operations to Oracle-led investor group](https://www.npr.org/2025/12/18/nx-s1-5648844/tiktok-deal-oracle-trump) (Tier 2)
-- [NPR: Trump temporarily waives the Jones Act to try to lower gasoline prices](https://www.npr.org/2026/03/18/nx-s1-5751854/gas-prices-trump-jones-act-iran) (Tier 2)
-- [PBS NewsHour: What to know about the Jones Act as the Trump administration unveils a 60-day waiver](https://www.pbs.org/newshour/politics/what-to-know-about-the-jones-act-as-the-trump-administration-unveils-a-60-day-waiver) (Tier 2)
-- [K&L Gates: President Trump Takes Additional Actions on Reciprocal Tariffs, Shipping, and Digital Services Taxes (February 2025)](https://www.klgates.com/President-Trump-Takes-Additional-Actions-on-Reciprocal-Tariffs-Shipping-and-Digital-Services-Taxes-2-22-2025) (Tier 3)
-- [K&L Gates: US Government Announces Historic $80 Billion Nuclear Partnership with Westinghouse, Cameco, Brookfield (October 2025)](https://www.klgates.com/US-Government-Announces-Historic-80-Billion-Nuclear-Partnership-with-Westinghouse-Electric-Company-Cameco-Corporation-and-Brookfield-Asset-Management-to-Construct-AP1000-Reactor-Fleet-10-30-2025) (Tier 3)
-- [Utility Dive: US partners with Westinghouse, Cameco and Brookfield on $80B nuclear deployment (October 2025)](https://www.utilitydive.com/news/westinghouse-cameco-brookfield-nuclear/803999/) (Tier 2)
+- [Senate LDA Filings: K&L Gates Lobbying Profile 2024](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: K&L Gates Lobbyists 2024](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [K&L Gates: Adds Recently Retired US Congressman Mike Doyle to Public Policy Practice (December 2022)](https://www.klgates.com/KL-Gates-Adds-Recently-Retired-US-Congressman-Mike-Doyle-to-Public-Policy-and-Law-Practice-12-27-2022) (Tier 3) (VERIFIED)
+- [K&L Gates: Strengthens Public Policy Practice With DC Additions — Jackson, Fulton, Bickwit (May 2023)](https://www.klgates.com/KL-Gates-Strengthens-Public-Policy-and-Law-Practice-with-Washington-DC-Additions-5-3-2023) (Tier 3) (VERIFIED)
+- [K&L Gates: Adds Joseph Trahern Of Counsel to Public Policy Practice (January 2024)](https://www.klgates.com/KL-Gates-Adds-Of-Counsel-to-Public-Policy-and-Law-Practice-in-Washington-DC-1-17-2024) (Tier 3) (VERIFIED)
+- [K&L Gates: Daniel F.C. Crowley Partner Profile](https://www.klgates.com/lawyers/Daniel-FC-Crowley) (Tier 3) (VERIFIED)
+- [K&L Gates: Public Policy and Law Practice Overview](https://www.klgates.com/Public-Policy-and-Law-Practices) (Tier 3) (VERIFIED)
+- ~~[The Hill: Ex-GOP Rep. Denham Heads to Lobbying Firm (K&L Gates, 2019)](https://thehill.com/business-a-lobbying/442730-ex-gop-rep-denham-heads-to-lobbying-firm/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Senate LDA Filings: K&L Gates Issues Lobbied 2024](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Wikipedia: K&L Gates](https://en.wikipedia.org/wiki/K&L_Gates) (Tier 3) (VERIFIED)
+- ~~[Congress.gov: SHIPS for America Act of 2024 (H.R.10493)](https://www.congress.gov/bill/118th-congress/house-bill/10493)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [American Maritime Partnership: Applauds SHIPS for America Act sponsors](https://www.americanmaritimepartnership.com/general/american-maritime-partnership-applauds-the-sponsors-of-the-ships-for-america-act-press-release/) (Tier 3) (VERIFIED)
+- [PBS NewsHour: What to know about the Jones Act as the Trump administration unveils 60-day waiver](https://www.pbs.org/newshour/politics/what-to-know-about-the-jones-act-as-the-trump-administration-unveils-a-60-day-waiver) (Tier 2) (VERIFIED)
+- [NPR: TikTok signs deal to give U.S. operations to Oracle-led investor group](https://www.npr.org/2025/12/18/nx-s1-5648844/tiktok-deal-oracle-trump) (Tier 2) (VERIFIED)
+- [NPR: Trump temporarily waives the Jones Act to try to lower gasoline prices](https://www.npr.org/2026/03/18/nx-s1-5751854/gas-prices-trump-jones-act-iran) (Tier 2) (VERIFIED)
+- [PBS NewsHour: What to know about the Jones Act as the Trump administration unveils a 60-day waiver](https://www.pbs.org/newshour/politics/what-to-know-about-the-jones-act-as-the-trump-administration-unveils-a-60-day-waiver) (Tier 2) (VERIFIED)
+- [K&L Gates: President Trump Takes Additional Actions on Reciprocal Tariffs, Shipping, and Digital Services Taxes (February 2025)](https://www.klgates.com/President-Trump-Takes-Additional-Actions-on-Reciprocal-Tariffs-Shipping-and-Digital-Services-Taxes-2-22-2025) (Tier 3) (VERIFIED)
+- [K&L Gates: US Government Announces Historic $80 Billion Nuclear Partnership with Westinghouse, Cameco, Brookfield (October 2025)](https://www.klgates.com/US-Government-Announces-Historic-80-Billion-Nuclear-Partnership-with-Westinghouse-Electric-Company-Cameco-Corporation-and-Brookfield-Asset-Management-to-Construct-AP1000-Reactor-Fleet-10-30-2025) (Tier 3) (VERIFIED)
+- [Utility Dive: US partners with Westinghouse, Cameco and Brookfield on $80B nuclear deployment (October 2025)](https://www.utilitydive.com/news/westinghouse-cameco-brookfield-nuclear/803999/) (Tier 2) (VERIFIED)
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->
@@ -273,14 +273,14 @@ The revolving door at K&L Gates is not especially lurid — there are no Haley B
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/387169824/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/387169824/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/387169824/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/387169824/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/387169824/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/387169824/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/387169824/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/387169824/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/387169824/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/387169824/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/387169824) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/387169824) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Foreign Agent Activity (FARA)
@@ -297,14 +297,14 @@ The revolving door at K&L Gates is not especially lurid — there are no Haley B
 - Mr. Alexander Morgulchik (ISRAEL)
 - Ministry of Foreign Affairs of the Government of Japan (JAPAN)
 
-- [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME,P200_COUNTRY:K%26L%20Gates,) (Tier 1)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME,P200_COUNTRY:K%26L%20Gates,)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:fara-foreign-agents end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [984500BYEBE6DF7F5U39](https://search.gleif.org/#/record/984500BYEBE6DF7F5U39) |
+| LEI | [984500BYEBE6DF7F5U39](https://search.gleif.org/#/record/984500BYEBE6DF7F5U39) (VERIFIED) |
 | Legal Name | K&L GATES LLP |
 | Jurisdiction | GB |
 | Entity Status | ACTIVE |
@@ -312,7 +312,7 @@ The revolving door at K&L Gates is not especially lurid — there are no Haley B
 | Registration | ISSUED |
 | Last Updated | 2025-08-28T08:59:06Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### SEC Filing Activity
@@ -330,5 +330,5 @@ The revolving door at K&L Gates is not especially lurid — there are no Haley B
 - 2009-03-24 — **8-K**: FORM 8-K
 - 2024-02-16 — **EX-12**: EXHIBIT 12
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22K%26L%20Gates%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22K%26L%20Gates%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->

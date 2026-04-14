@@ -13,7 +13,7 @@ profiles:
 
 ## Iran &#8216;toll booth&#8217; on Strait of Hormuz underscores its leverage on Trump, US
 
-**Source:** [The Hill](https://thehill.com/policy/energy-environment/5814089-strait-hormuz-iran-trump-leverage/)
+**Source:** ~~[The Hill](https://thehill.com/policy/energy-environment/5814089-strait-hormuz-iran-trump-leverage/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-03
 
 Tehran’s control of the Strait of Hormuz is complicating President Trump’s exit strategy from the Iran war.&#160;&#160; Trump in a Wednesday night address to the nation dismissed concerns about the strait, asserting that the U.S. produces enough oil to sustain itself and that other countries more dependent on Middle Eastern oil should be responsible for&#8230;

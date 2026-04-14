@@ -115,17 +115,17 @@ The governance structure completes the capture. Gubernatorial appointees, electe
 
 ### Sources
 
-- [CalSTRS: CalSTRS at a Glance — fund overview and key statistics](https://www.calstrs.com/calstrs-at-a-glance) (Tier 1)
-- [CalSTRS: Investment Portfolio — asset allocation and investment strategy](https://www.calstrs.com/investment-portfolio) (Tier 1)
-- [CalSTRS: Private Equity Portfolio Performance — PE allocation data](https://www.calstrs.com/private-equity-portfolio-performance) (Tier 1)
-- [CalSTRS: Teachers' Retirement Board — governance structure and board composition](https://www.calstrs.com/teachers-retirement-board) (Tier 1)
-- [CalSTRS: Funding Plan Fact Sheet — contribution rate structure and projections](https://www.calstrs.com/funding-plan-fact-sheet) (Tier 1)
-- [CalSTRS: Perspective on Fossil Fuel Divestment — official position on divestment](https://www.calstrs.com/calstrs-perspective-on-fossil-fuel-divestment) (Tier 1)
-- [LAO: A Review of the CalSTRS Funding Plan — background and analysis](https://lao.ca.gov/Publications/Report/3332) (Tier 1)
-- [Brookings: California's pension debt is harming teachers and students — unfunded liability analysis](https://www.brookings.edu/articles/californias-pension-debt-is-harming-teachers-and-students-now-and-its-going-to-get-worse/) (Tier 2)
-- [CalMatters: Fossil fuel shares and California pension investment](https://calmatters.org/commentary/2024/04/fossil-fuel-company-investment-calpers-pension/) (Tier 2)
-- [PPIC: Public Pensions in California — statewide pension fund analysis](https://www.ppic.org/publication/public-pensions-in-california/) (Tier 2)
-- [InfluenceWatch: California State Teachers' Retirement System — political connections and influence](https://www.influencewatch.org/government-agency/california-state-teachers-retirement-system/) (Tier 3)
+- [CalSTRS: CalSTRS at a Glance — fund overview and key statistics](https://www.calstrs.com/calstrs-at-a-glance) (Tier 1) (VERIFIED)
+- [CalSTRS: Investment Portfolio — asset allocation and investment strategy](https://www.calstrs.com/investment-portfolio) (Tier 1) (VERIFIED)
+- [CalSTRS: Private Equity Portfolio Performance — PE allocation data](https://www.calstrs.com/private-equity-portfolio-performance) (Tier 1) (VERIFIED)
+- [CalSTRS: Teachers' Retirement Board — governance structure and board composition](https://www.calstrs.com/teachers-retirement-board) (Tier 1) (VERIFIED)
+- [CalSTRS: Funding Plan Fact Sheet — contribution rate structure and projections](https://www.calstrs.com/funding-plan-fact-sheet) (Tier 1) (NEEDS REVIEW)
+- [CalSTRS: Perspective on Fossil Fuel Divestment — official position on divestment](https://www.calstrs.com/calstrs-perspective-on-fossil-fuel-divestment) (Tier 1) (VERIFIED)
+- [LAO: A Review of the CalSTRS Funding Plan — background and analysis](https://lao.ca.gov/Publications/Report/3332) (Tier 1) (VERIFIED)
+- [Brookings: California's pension debt is harming teachers and students — unfunded liability analysis](https://www.brookings.edu/articles/californias-pension-debt-is-harming-teachers-and-students-now-and-its-going-to-get-worse/) (Tier 2) (VERIFIED)
+- [CalMatters: Fossil fuel shares and California pension investment](https://calmatters.org/commentary/2024/04/fossil-fuel-company-investment-calpers-pension/) (Tier 2) (VERIFIED)
+- [PPIC: Public Pensions in California — statewide pension fund analysis](https://www.ppic.org/publication/public-pensions-in-california/) (Tier 2) (VERIFIED)
+- [InfluenceWatch: California State Teachers' Retirement System — political connections and influence](https://www.influencewatch.org/government-agency/california-state-teachers-retirement-system/) (Tier 3) (VERIFIED)
 
 ### OFAC Sanctions Screening
 <!-- auto:ofac-sdn start -->
@@ -141,7 +141,7 @@ The governance structure completes the capture. Gubernatorial appointees, electe
 - FEDERAL STATE INSTITUTION FEDERAL SCIENTIFIC CENTER SCIENTIFIC RESEARCH INSTITUTE FOR SYSTEM ANALYSIS OF THE RUSSIAN ACADEMY OF SCIENCES (-0-) [RUSSIA-EO14024]
   - Remarks: Secondary sanctions risk: See Section 11 of Executive Order 14024.; Tax ID No. 7727086772 (Russia); Registration Number 1027700384909 (Russia).
 
-- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
 ### SEC Filing Activity
@@ -159,5 +159,5 @@ The governance structure completes the capture. Gubernatorial appointees, electe
 - 2011-05-06 — **N-MFP**: N-MFP
 - 2011-09-07 — **N-MFP**: N-MFP
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22CalSTRS%20-%20California%20State%20Teachers'%20Retirement%20System%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22CalSTRS%20-%20California%20State%20Teachers'%20Retirement%20System%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->

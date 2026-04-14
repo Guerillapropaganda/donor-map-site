@@ -13,7 +13,7 @@ profiles:
 
 ## US adds 178K jobs in March, far more than expected
 
-**Source:** [The Hill](https://thehill.com/business/5814598-us-adds-178k-jobs-in-march-far-more-than-expected/)
+**Source:** ~~[The Hill](https://thehill.com/business/5814598-us-adds-178k-jobs-in-march-far-more-than-expected/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-03
 
 The U.S. job market accelerated in March, adding far more jobs than expected after a major February decline. U.S. employment grew by 178,000 jobs last month, according to data released Friday by the Labor Department. The March job boost came in far higher than the gain of roughly 60,000 jobs expected by economists, according to&#8230;

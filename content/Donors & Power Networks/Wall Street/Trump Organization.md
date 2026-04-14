@@ -73,9 +73,9 @@ The Trump Organization's political operation is inseparable from Trump's persona
 
 ### Sources
 
-- [OpenSecrets: Trump Organization political spending](https://www.opensecrets.org/orgs/trump-organization/summary?id=D000030559) (Tier 1)
-- [SEC: Trump-related entity filings](https://www.sec.gov/cgi-bin/browse-edgar?company=Trump%20Organization&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)
-- [Ballotpedia: Trump Organization](https://ballotpedia.org/Trump_Organization) (Tier 3)
+- [OpenSecrets: Trump Organization political spending](https://www.opensecrets.org/orgs/trump-organization/summary?id=D000030559) (Tier 1) (VERIFIED)
+- [SEC: Trump-related entity filings](https://www.sec.gov/cgi-bin/browse-edgar?company=Trump%20Organization&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1) (VERIFIED)
+- [Ballotpedia: Trump Organization](https://ballotpedia.org/Trump_Organization) (Tier 3) (VERIFIED)
 
 ### SEC Filing Activity
 <!-- auto:sec-edgar start -->
@@ -92,5 +92,5 @@ The Trump Organization's political operation is inseparable from Trump's persona
 - 2012-12-06 — **8-K**: FORM 8-K
 - 2024-12-20 — **8-K**: CURRENT REPORT
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Trump%20Organization%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Trump%20Organization%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->

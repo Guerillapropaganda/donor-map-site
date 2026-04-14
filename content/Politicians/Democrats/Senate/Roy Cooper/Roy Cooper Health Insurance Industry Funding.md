@@ -102,11 +102,11 @@ Insurance PAC donations to Cooper spike during periods when he was most hostile 
 
 ### Sources
 
-- [NRSC: Hypocrite: Roy Cooper Attacks Health Insurers As Campaign Takes Industry Donations](https://www.nrsc.org/press-releases/hypocrite-roy-cooper-attacks-health-insurers-as-campaign-takes-industry-donations-2026-01-21/) (Tier 4 - partisan source, but documents verifiable donation data) (Tier 2)
-- [Greensboro.com: 'Washington is broken': Democratic U.S. Senate candidate Roy Cooper pledges to fight for affordable health insurance, Medicaid expansion](https://greensboro.com/news/local/article_59bbf56b-14cb-4f82-93e6-75886120b6d7.html) (Tier 2)
-- [The Assembly NC: What Roy Cooper Did. And Didn't. Accomplish As NC Governor](https://www.theassemblync.com/news/politics/roy-cooper-legacy-governor-north-carolina/) (Tier 2)
-- [NC Newsline: Cooper reports sizable lead in fundraising for 2026 U.S. Senate race](https://ncnewsline.com/2026/02/02/cooper-reports-sizable-lead-in-fundraising-for-2026-u-s-senate-race/) (Tier 2)
-- [Roy Cooper official campaign site: Get Involved](https://roycooper.com/get-involved/) (Tier 1 - primary source) (Tier 2)
+- [NRSC: Hypocrite: Roy Cooper Attacks Health Insurers As Campaign Takes Industry Donations](https://www.nrsc.org/press-releases/hypocrite-roy-cooper-attacks-health-insurers-as-campaign-takes-industry-donations-2026-01-21/) (VERIFIED) (Tier 4 - partisan source, but documents verifiable donation data) (Tier 2)
+- [Greensboro.com: 'Washington is broken': Democratic U.S. Senate candidate Roy Cooper pledges to fight for affordable health insurance, Medicaid expansion](https://greensboro.com/news/local/article_59bbf56b-14cb-4f82-93e6-75886120b6d7.html) (Tier 2) (VERIFIED)
+- [The Assembly NC: What Roy Cooper Did. And Didn't. Accomplish As NC Governor](https://www.theassemblync.com/news/politics/roy-cooper-legacy-governor-north-carolina/) (Tier 2) (VERIFIED)
+- [NC Newsline: Cooper reports sizable lead in fundraising for 2026 U.S. Senate race](https://ncnewsline.com/2026/02/02/cooper-reports-sizable-lead-in-fundraising-for-2026-u-s-senate-race/) (Tier 2) (VERIFIED)
+- [Roy Cooper official campaign site: Get Involved](https://roycooper.com/get-involved/) (VERIFIED) (Tier 1 - primary source) (Tier 2)
 
 ---
 

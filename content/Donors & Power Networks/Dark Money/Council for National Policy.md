@@ -87,14 +87,14 @@ Conservative judicial appointments (the Federalist Society pipeline feeds direct
 | Net Assets | $3.5M |
 | Officer Compensation | $612K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 720921017](https://projects.propublica.org/nonprofits/organizations/720921017) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 720921017](https://projects.propublica.org/nonprofits/organizations/720921017) (Tier 1) (VERIFIED)
 
 <!-- auto:propublica-990 end -->
 
 ### Sources
 
-- [IRS: CNP 990 filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Council%20for%20National%20Policy&city=&state=All+States&country=US) (Tier 1)
-- [Ballotpedia: Council for National Policy](https://ballotpedia.org/Council_for_National_Policy) (Tier 3)
+- ~~[IRS: CNP 990 filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Council%20for%20National%20Policy&city=&state=All+States&country=US)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Ballotpedia: Council for National Policy](https://ballotpedia.org/Council_for_National_Policy) (Tier 3) (VERIFIED)
 
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->
@@ -112,7 +112,7 @@ Conservative judicial appointments (the Federalist Society pipeline feeds direct
 - Eshelman v. True the Vote, Inc. (2020) — District Court, S.D. Texas
 - Klayman v. Infowars, LLC (2020) — District Court, S.D. Florida
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Council%20for%20National%20Policy%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Council%20for%20National%20Policy%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Tax Filings (IRS 990)
@@ -130,14 +130,14 @@ Conservative judicial appointments (the Federalist Society pipeline feeds direct
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/720921017/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/720921017/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/720921017/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/720921017/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/720921017/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/720921017/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/720921017/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/720921017/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/720921017/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/720921017/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/720921017) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/720921017) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Foreign Agent Activity (FARA)
@@ -154,7 +154,7 @@ Conservative judicial appointments (the Federalist Society pipeline feeds direct
 - National Representative Council of Eritrea - GIE (ERITREA)
 - National Council of Resistance of Iran (NCRI) (IRAN)
 
-- [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Council%20for%20National%20Policy) (Tier 1)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Council%20for%20National%20Policy)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:fara-foreign-agents end -->
 
 ### Wikipedia
@@ -163,14 +163,14 @@ The Council for National Policy (CNP) is an umbrella organization and networking
 
 | Fact | Value |
 |------|-------|
-| Wikidata ID | [Q1137011](https://www.wikidata.org/wiki/Q1137011) |
+| Wikidata ID | [Q1137011](https://www.wikidata.org/wiki/Q1137011) (VERIFIED) |
 | Description | nonprofit organization |
 | Founded | 1981-00-00 |
-| Website | [http://cfnp.org/](http://cfnp.org/) |
-| Image | [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/en/4/46/Council_for_National_Policy_%28logo%29.jpg) |
+| Website | [http://cfnp.org/](http://cfnp.org/) (NEEDS REVIEW) |
+| Image | [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/en/4/46/Council_for_National_Policy_%28logo%29.jpg) (VERIFIED) |
 
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/Council_for_National_Policy) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q1137011) (Tier 2)
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Council_for_National_Policy) (Tier 3) (VERIFIED)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q1137011) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
 ### Campaign Finance (FEC)
@@ -188,5 +188,5 @@ The Council for National Policy (CNP) is an umbrella organization and networking
 | FREEDOM'S DEFENSE FUND | $825 | — |
 | FRIENDS OF HEIDI ST. JOHN | $563 | REP |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Council%20for%20National%20Policy) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Council%20for%20National%20Policy) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->

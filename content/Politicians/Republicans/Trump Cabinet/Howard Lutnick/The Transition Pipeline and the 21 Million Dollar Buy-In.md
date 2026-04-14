@@ -44,4 +44,4 @@ As co-chair of the transition team (August 2024), Lutnick directed personnel sel
 
 ### Sources
 
-- [OpenSecrets: Howard Lutnick donor detail](https://www.opensecrets.org/members-of-congress/summary?name=Transition%20Pipeline%20and%20the%2021%20Million%20Dollar%20Buy-In) (Tier 1)
+- [OpenSecrets: Howard Lutnick donor detail](https://www.opensecrets.org/members-of-congress/summary?name=Transition%20Pipeline%20and%20the%2021%20Million%20Dollar%20Buy-In) (Tier 1) (VERIFIED)

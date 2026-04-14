@@ -95,13 +95,13 @@ The $970.5 million spent on Palantir's surveillance platforms. The $10 billion P
 
 ### Sources
 
-- [Pentagon Inspector General. Report on Hegseth's use of Signal](https://www.pbs.org/newshour/world/read-the-full-report-on-hegseths-use-of-signal-from-the-pentagon-inspector-general) (Tier 1)
-- [Congressional Oversight Request. Security assessment Signal chat (March 27, 2025)](https://oversightdemocrats.house.gov/imo/media/doc/2025-03-27-gec-to-igs-and-whc-re-security-assessment-signal-chat.pdf) (Tier 1)
-- [Washington Post. Trump officials shared war planning in unclassified chat with journalist (March 2025)](https://www.washingtonpost.com/national-security/2025/03/24/trump-leak-signal-jeffrey-goldberg-atlantic/) (Tier 2)
-- [ABC News. Messages with Yemen war plans inadvertently shared with reporter timeline](https://abcnews.com/Politics/messages-yemen-war-plans-inadvertently-shared-reporter-timeline/story?id=120128447) (Tier 2)
-- [PBS NewsHour. Hegseth had a second Signal chat where he shared details of Yemen strike](https://www.pbs.org/newshour/politics/hegseth-had-a-second-signal-chat-where-he-shared-details-of-yemen-strike-new-york-times-reports) (Tier 2)
-- [Axios. National security adviser Mike Waltz expected to depart (May 1, 2025)](https://www.axios.com/2025/05/01/waltz-resigns-trump-admin-signal-scandal) (Tier 2)
-- [Axios. Who was in the Trump administration's explosive Signal group chat](https://www.axios.com/2025/03/26/trump-signal-group-chat-members) (Tier 2)
+- [Pentagon Inspector General. Report on Hegseth's use of Signal](https://www.pbs.org/newshour/world/read-the-full-report-on-hegseths-use-of-signal-from-the-pentagon-inspector-general) (Tier 1) (VERIFIED)
+- [Congressional Oversight Request. Security assessment Signal chat (March 27, 2025)](https://oversightdemocrats.house.gov/imo/media/doc/2025-03-27-gec-to-igs-and-whc-re-security-assessment-signal-chat.pdf) (Tier 1) (VERIFIED)
+- ~~[Washington Post. Trump officials shared war planning in unclassified chat with journalist (March 2025)](https://www.washingtonpost.com/national-security/2025/03/24/trump-leak-signal-jeffrey-goldberg-atlantic/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [ABC News. Messages with Yemen war plans inadvertently shared with reporter timeline](https://abcnews.com/Politics/messages-yemen-war-plans-inadvertently-shared-reporter-timeline/story?id=120128447) (Tier 2) (VERIFIED)
+- [PBS NewsHour. Hegseth had a second Signal chat where he shared details of Yemen strike](https://www.pbs.org/newshour/politics/hegseth-had-a-second-signal-chat-where-he-shared-details-of-yemen-strike-new-york-times-reports) (Tier 2) (VERIFIED)
+- ~~[Axios. National security adviser Mike Waltz expected to depart (May 1, 2025)](https://www.axios.com/2025/05/01/waltz-resigns-trump-admin-signal-scandal)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Axios. Who was in the Trump administration's explosive Signal group chat](https://www.axios.com/2025/03/26/trump-signal-group-chat-members)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ### OFAC Sanctions Screening
 <!-- auto:ofac-sdn start -->
@@ -117,5 +117,5 @@ The $970.5 million spent on Palantir's surveillance platforms. The $10 billion P
 - YEMEN ARMORED COMPREHENSIVE SECURITY SERVICES AND EXHIBITIONS ORGANIZATION COMPANY LTD (-0-) [SDGT]
   - Remarks: Website www.yemenarmored.com; Secondary sanctions risk: section 1(b) of Executive Order 13224, as amended by Executive Order 13886; Organization Established Date 2013; Organization Type: Private secur...
 
-- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->

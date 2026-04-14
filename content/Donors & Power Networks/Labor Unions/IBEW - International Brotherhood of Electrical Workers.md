@@ -104,10 +104,10 @@ The 95% Democratic PAC split tells one story. The fact that IBEW members in many
 
 ### Sources
 
-- [Senate LDA Filings: IBEW organizational profile](https://lda.gov/filings/public/filing/search/) (Tier 2)
-- [FEC: IBEW PAC filings and campaign finance data](https://www.fec.gov/data/committee/C00027342/) (Tier 1)
-- [U.S. Department of Labor: Davis-Bacon prevailing wage](https://www.dol.gov/agencies/whd/government-contracts/prevailing-wage) (Tier 1)
-- [Congress.gov: Infrastructure Investment and Jobs Act (IIJA)](https://www.congress.gov/bill/117th-congress/house-bill/3684) (Tier 1)
+- [Senate LDA Filings: IBEW organizational profile](https://lda.gov/filings/public/filing/search/) (Tier 2) (VERIFIED)
+- [FEC: IBEW PAC filings and campaign finance data](https://www.fec.gov/data/committee/C00027342/) (Tier 1) (VERIFIED)
+- ~~[U.S. Department of Labor: Davis-Bacon prevailing wage](https://www.dol.gov/agencies/whd/government-contracts/prevailing-wage)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Infrastructure Investment and Jobs Act (IIJA)](https://www.congress.gov/bill/117th-congress/house-bill/3684)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -133,14 +133,14 @@ The 95% Democratic PAC split tells one story. The fact that IBEW members in many
 | Agencies | Federal Railroad Administration, Labor Department, Nuclear Regulatory Commission, Occupational Safety and Health Administration, Transportation Department |
 
 **Recent regulatory activity:**
-- [Certification of Signal Employees](https://www.federalregister.gov/documents/2024/05/21/2024-09958/certification-of-signal-employees) (2024-05-21) — Transportation Department
-- [July 22, 2024 Certification of Dispatchers](https://www.federalregister.gov/documents/2024/05/21/2024-09957/july-22-2024-certification-of-dispatchers) (2024-05-21) — Transportation Department
-- [Electric Power Generation, Transmission, and Distribution; Electrical Protective Equipment](https://www.federalregister.gov/documents/2014/04/11/2013-29579/electric-power-generation-transmission-and-distribution-electrical-protective-equipment) (2014-04-11) — Labor Department ★
-- [Fitness for Duty Programs](https://www.federalregister.gov/documents/2008/03/31/E8-4998/fitness-for-duty-programs) (2008-03-31) — Nuclear Regulatory Commission
-- [Fitness for Duty Programs](https://www.federalregister.gov/documents/2005/08/26/05-15576/fitness-for-duty-programs) (2005-08-26) — Nuclear Regulatory Commission
-- [Electric Power Generation, Transmission, and Distribution; Electrical Protective Equipment](https://www.federalregister.gov/documents/2005/06/15/05-11585/electric-power-generation-transmission-and-distribution-electrical-protective-equipment) (2005-06-15) — Labor Department ★
+- [Certification of Signal Employees](https://www.federalregister.gov/documents/2024/05/21/2024-09958/certification-of-signal-employees) (VERIFIED) (2024-05-21) — Transportation Department
+- [July 22, 2024 Certification of Dispatchers](https://www.federalregister.gov/documents/2024/05/21/2024-09957/july-22-2024-certification-of-dispatchers) (VERIFIED) (2024-05-21) — Transportation Department
+- [Electric Power Generation, Transmission, and Distribution; Electrical Protective Equipment](https://www.federalregister.gov/documents/2014/04/11/2013-29579/electric-power-generation-transmission-and-distribution-electrical-protective-equipment) (VERIFIED) (2014-04-11) — Labor Department ★
+- [Fitness for Duty Programs](https://www.federalregister.gov/documents/2008/03/31/E8-4998/fitness-for-duty-programs) (VERIFIED) (2008-03-31) — Nuclear Regulatory Commission
+- [Fitness for Duty Programs](https://www.federalregister.gov/documents/2005/08/26/05-15576/fitness-for-duty-programs) (VERIFIED) (2005-08-26) — Nuclear Regulatory Commission
+- [Electric Power Generation, Transmission, and Distribution; Electrical Protective Equipment](https://www.federalregister.gov/documents/2005/06/15/05-11585/electric-power-generation-transmission-and-distribution-electrical-protective-equipment) (VERIFIED) (2005-06-15) — Labor Department ★
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22IBEW%20-%20International%20Brotherhood%20of%20Electrical%20Workers%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22IBEW%20-%20International%20Brotherhood%20of%20Electrical%20Workers%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Tax Filings (IRS 990)
@@ -152,7 +152,7 @@ The 95% Democratic PAC split tells one story. The fact that IBEW members in many
 | IRS Ruling Date | 1940-08-01 |
 | Filings on Record | 0 |
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/611602482) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/611602482) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Campaign Finance (FEC)
@@ -177,14 +177,14 @@ The 95% Democratic PAC split tells one story. The fact that IBEW members in many
 | ALL FOR OUR COUNTRY LEADERSHIP PAC | $45,000 | — |
 | PAUL COOK FOR CONGRESS | $45,000 | REP |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=IBEW%20-%20International%20Brotherhood%20of%20Electrical%20Workers) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=IBEW%20-%20International%20Brotherhood%20of%20Electrical%20Workers) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [984500ACFC0ND2E37927](https://search.gleif.org/#/record/984500ACFC0ND2E37927) |
+| LEI | [984500ACFC0ND2E37927](https://search.gleif.org/#/record/984500ACFC0ND2E37927) (VERIFIED) |
 | Legal Name | International Brotherhood of Electrical Workers Local Union 2038 Pension Trust Fund |
 | Jurisdiction | CA |
 | Entity Status | ACTIVE |
@@ -192,5 +192,5 @@ The 95% Democratic PAC split tells one story. The fact that IBEW members in many
 | Registration | ISSUED |
 | Last Updated | 2025-12-02T13:03:54Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->

@@ -50,9 +50,9 @@ donors: [[Elon Musk]] · [[Peter Thiel]] · [[Leonard Leo]] · [[Koch Network - 
 
 ### Sources
 
-- [OpenSecrets. Elon Musk tops list of 2024 political donors](https://www.opensecrets.org/news/2025/03/elon-musk-tops-list-of-2024-political-donors-but-six-others-gave-more-than-100-million) (Tier 1)
-- [Fox Business. How much have Musk's companies benefited from government funds](https://www.foxbusiness.com/politics/how-much-have-musks-tesla-spacex-benefited-from-government-funds) (Tier 2)
-- [Senate Banking Committee. David Sacks conflicts of interest](https://www.banking.senate.gov/newsroom/minority/ahead-of-trump-crypto-fundraiser-warren-questions-government-ethics-agency-on-crypto-czar-david-sacks-conflicts-of-interest) (Tier 1)
-- [NPR. How Palantir is rising in the Trump era](https://www.npr.org/2025/05/01/nx-s1-5372776/palantir-tech-contracts-trump) (Tier 2)
-- [ProPublica. We Don't Talk About Leonard Leo](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2)
+- [OpenSecrets. Elon Musk tops list of 2024 political donors](https://www.opensecrets.org/news/2025/03/elon-musk-tops-list-of-2024-political-donors-but-six-others-gave-more-than-100-million) (Tier 1) (VERIFIED)
+- [Fox Business. How much have Musk's companies benefited from government funds](https://www.foxbusiness.com/politics/how-much-have-musks-tesla-spacex-benefited-from-government-funds) (Tier 2) (VERIFIED)
+- [Senate Banking Committee. David Sacks conflicts of interest](https://www.banking.senate.gov/newsroom/minority/ahead-of-trump-crypto-fundraiser-warren-questions-government-ethics-agency-on-crypto-czar-david-sacks-conflicts-of-interest) (Tier 1) (VERIFIED)
+- [NPR. How Palantir is rising in the Trump era](https://www.npr.org/2025/05/01/nx-s1-5372776/palantir-tech-contracts-trump) (Tier 2) (VERIFIED)
+- [ProPublica. We Don't Talk About Leonard Leo](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2) (VERIFIED)
 

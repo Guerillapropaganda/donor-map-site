@@ -50,7 +50,7 @@ North Carolina's 2026 Senate race is an **open seat contest** to replace retirin
  - **Labor union money (limited):** $85K+ (AFL-CIO, [[SEIU - Service Employees International Union|SEIU]], CNA endorsements but fundraising not primary base)
  - **Progressive grassroots:** $1.2M+ ([[ActBlue|ActBlue]] online fundraising model, critical to small-dollar base)
 - **National party infrastructure:** DNC + Senate Democrats' campaign committee (DSCC) supporting with strategic guidance and coordinated spending
-- [Source: NC Newsline: Cooper reports sizable lead in fundraising for 2026 U.S. Senate race](https://ncnewsline.com/2026/02/02/cooper-reports-sizable-lead-in-fundraising-for-2026-u-s-senate-race/) (Tier 2)
+- [Source: NC Newsline: Cooper reports sizable lead in fundraising for 2026 U.S. Senate race](https://ncnewsline.com/2026/02/02/cooper-reports-sizable-lead-in-fundraising-for-2026-u-s-senate-race/) (Tier 2) (VERIFIED)
 
 ### [[_Michael Whatley Master Profile|Michael Whatley]] (Republican Nominee). Party Apparatus + Outside Money:
 - **Direct campaign fundraising (through February 2026):** $6.3M
@@ -67,7 +67,7 @@ North Carolina's 2026 Senate race is an **open seat contest** to replace retirin
  - **Venture capital / private equity:** $65K+ (some interest from out-of-state Republican venture capital)
  - **Small-dollar Trump base:** 26,000 new donors (but smaller average donation than Democratic base, total contribution ~$800K)
 - **Trump endorsement pipeline:** Direct Trump backing creates access to Maga billionaire networks (still developing donor commitments in 2026)
-- [Source: Carolina Journal: Cooper jumps to early fundraising lead in Senate race](https://www.carolinajournal.com/cooper-jumps-to-early-fundraising-lead-in-senate-race/) (Tier 2)
+- [Source: Carolina Journal: Cooper jumps to early fundraising lead in Senate race](https://www.carolinajournal.com/cooper-jumps-to-early-fundraising-lead-in-senate-race/) (Tier 2) (VERIFIED)
 
 ### Outside Money Landscape (Critical to 2026 Outcome):
 - **Total spending projected:** $500M–$1B (Bloomberg March 2026 headline: "North Carolina Senate Race Set to Break $1 Billion Spending Record")
@@ -137,12 +137,12 @@ This race reveals two competing donor-class strategies at Senate level:
 
 ### Sources
 
-- [2026 United States Senate election in North Carolina | Wikipedia](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_North_Carolina) (Tier 3)
-- [NC's 2026 US Senate race could be the most expensive in history, experts say | WUNC News](https://www.wunc.org/politics/2025-08-04/ncs-2026-us-senate-race-could-be-the-most-expensive-in-history-experts-say) (Tier 2)
-- [Cooper reports sizable lead in fundraising for 2026 U.S. Senate race | NC Newsline](https://ncnewsline.com/2026/02/02/cooper-reports-sizable-lead-in-fundraising-for-2026-u-s-senate-race/) (Tier 2)
-- [North Carolina Senate Race Set to Break $1 Billion Spending Record | Bloomberg](https://www.bloomberg.com/news/articles/2026/03-08-fight-for-key-senate-seat-expected-to-unleash-record-1-billion) (Tier 2)
-- [Roy Cooper outpaces Michael Whatley in fundraising in North Carolina's Senate race | CBS17](https://www.cbs17.com/news/your-local-election-hq/roy-cooper-outpaces-michael-whatley-in-fundraising-in-north-carolinas-senate-race/) (Tier 2)
-- [North Carolina 2026 Poll: Cooper Starts US Senate Race with Six-Point Lead and Clear Name Recognition Advantage over Whatley | Emerson Polling](https://emersoncollegepolling.com/north-carolina-2026-poll-cooper-starts-us-senate-race-with-six-point-lead-and-clear-name-recognition-advantage-over-whatley/) (Tier 2)
+- [2026 United States Senate election in North Carolina | Wikipedia](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_North_Carolina) (Tier 3) (VERIFIED)
+- [NC's 2026 US Senate race could be the most expensive in history, experts say | WUNC News](https://www.wunc.org/politics/2025-08-04/ncs-2026-us-senate-race-could-be-the-most-expensive-in-history-experts-say) (Tier 2) (VERIFIED)
+- [Cooper reports sizable lead in fundraising for 2026 U.S. Senate race | NC Newsline](https://ncnewsline.com/2026/02/02/cooper-reports-sizable-lead-in-fundraising-for-2026-u-s-senate-race/) (Tier 2) (VERIFIED)
+- ~~[North Carolina Senate Race Set to Break $1 Billion Spending Record | Bloomberg](https://www.bloomberg.com/news/articles/2026/03-08-fight-for-key-senate-seat-expected-to-unleash-record-1-billion)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Roy Cooper outpaces Michael Whatley in fundraising in North Carolina's Senate race | CBS17](https://www.cbs17.com/news/your-local-election-hq/roy-cooper-outpaces-michael-whatley-in-fundraising-in-north-carolinas-senate-race/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [North Carolina 2026 Poll: Cooper Starts US Senate Race with Six-Point Lead and Clear Name Recognition Advantage over Whatley | Emerson Polling](https://emersoncollegepolling.com/north-carolina-2026-poll-cooper-starts-us-senate-race-with-six-point-lead-and-clear-name-recognition-advantage-over-whatley/) (Tier 2) (VERIFIED)
 
 ---
 

@@ -87,7 +87,7 @@ ConocoPhillips. The largest independent exploration and production company in th
 
 ConocoPhillips' most politically significant asset is the Willow Project, an $8 billion oil development on Alaska's North Slope approved in 2023 after intense lobbying, expected to produce 180,000 barrels per day over 30 years.
 
-- [OpenSecrets: ConocoPhillips organizational profile](https://www.opensecrets.org/orgs/conocophillips/summary?id=D000000438) (Tier 1)
+- [OpenSecrets: ConocoPhillips organizational profile](https://www.opensecrets.org/orgs/conocophillips/summary?id=D000000438) (Tier 1) (VERIFIED)
 
 ---
 
@@ -211,19 +211,19 @@ The Willow Project ($8 billion investment, 180,000 barrels per day at peak, 600 
 
 ### Sources
 
-- [OpenSecrets: ConocoPhillips PAC contributions by cycle](https://www.opensecrets.org/orgs/conocophillips/totals?id=D000000303) (Tier 1)
-- [Senate LDA Filings: ConocoPhillips federal lobbying 2002–2024](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [OpenSecrets: ConocoPhillips 2024 recipients](https://www.opensecrets.org/orgs/conocophillips/recipients?id=D000000303) (Tier 1)
-- [OpenSecrets: ConocoPhillips Willow Project lobbying blitz (Q1 2022: $4.6M, FY 2022: $8.68M)](https://www.opensecrets.org/news/2022/05/conocophillips-lobbying-fight-alaskan-oil-project/) (Tier 2)
-- [OpenSecrets: Oil and gas industry $124.4M lobbying 2022](https://www.opensecrets.org/news/2023/02/oil-and-gas-industry-spent-124-4-million-on-federal-lobbying-amid-record-profits-in-2022/) (Tier 2)
-- [ConocoPhillips: Willow Project Record of Decision (March 2023)](https://www.conocophillips.com/news-media/story/conocophillips-welcomes-record-of-decision-on-the-willow-project/) (Tier 1)
-- [ConocoPhillips: Final Investment Decision (December 2023)](https://www.conocophillips.com/news-media/story/conocophillips-makes-final-investment-decision-to-develop-the-willow-project/) (Tier 1)
-- [PBS NewsHour: Biden administration Willow approval](https://www.pbs.org/newshour/politics/biden-administration-approves-controversial-willow-oil-drilling-project-in-alaska) (Tier 2)
-- [New York Times: Biden Willow approval and Murkowski quote on bringing Biden "around"](https://www.nytimes.com/2023/03/13/climate/willow-biden-oil-climate.html) (Tier 2)
-- [ProPublica: ConocoPhillips Alaska revolving door (Andrew Lundquist)](https://www.propublica.org/article/conocophillips-lobbying-long-game-won-fight-drill-alaska-wilderness) (Tier 2)
-- [OpenSecrets: ConocoPhillips PAC SPIRIT PAC (C00112896) details](https://www.opensecrets.org/political-action-committees-pacs/conocophillips/C00112896/summary/2024) (Tier 1)
-- [E&E News: ConocoPhillips permitting reform lobbying (2026)](https://www.eenews.net/articles/conocophillips-hires-firm-to-lobby-on-permitting/) (Tier 2)
-- [Quiver Quantitative: ConocoPhillips Q4 2025 lobbying disclosure ($2.63M Willow/NPR-A/BLM 2024 rule)](https://www.quiverquant.com/news/Lobbying+Update:+$2,630,000+of+CONOCOPHILLIPS+lobbying+was+just+disclosed) (Tier 2)
+- [OpenSecrets: ConocoPhillips PAC contributions by cycle](https://www.opensecrets.org/orgs/conocophillips/totals?id=D000000303) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: ConocoPhillips federal lobbying 2002–2024](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [OpenSecrets: ConocoPhillips 2024 recipients](https://www.opensecrets.org/orgs/conocophillips/recipients?id=D000000303) (Tier 1) (VERIFIED)
+- [OpenSecrets: ConocoPhillips Willow Project lobbying blitz (Q1 2022: $4.6M, FY 2022: $8.68M)](https://www.opensecrets.org/news/2022/05/conocophillips-lobbying-fight-alaskan-oil-project/) (Tier 2) (VERIFIED)
+- [OpenSecrets: Oil and gas industry $124.4M lobbying 2022](https://www.opensecrets.org/news/2023/02/oil-and-gas-industry-spent-124-4-million-on-federal-lobbying-amid-record-profits-in-2022/) (Tier 2) (VERIFIED)
+- [ConocoPhillips: Willow Project Record of Decision (March 2023)](https://www.conocophillips.com/news-media/story/conocophillips-welcomes-record-of-decision-on-the-willow-project/) (Tier 1) (VERIFIED)
+- [ConocoPhillips: Final Investment Decision (December 2023)](https://www.conocophillips.com/news-media/story/conocophillips-makes-final-investment-decision-to-develop-the-willow-project/) (Tier 1) (VERIFIED)
+- [PBS NewsHour: Biden administration Willow approval](https://www.pbs.org/newshour/politics/biden-administration-approves-controversial-willow-oil-drilling-project-in-alaska) (Tier 2) (VERIFIED)
+- ~~[New York Times: Biden Willow approval and Murkowski quote on bringing Biden "around"](https://www.nytimes.com/2023/03/13/climate/willow-biden-oil-climate.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [ProPublica: ConocoPhillips Alaska revolving door (Andrew Lundquist)](https://www.propublica.org/article/conocophillips-lobbying-long-game-won-fight-drill-alaska-wilderness) (Tier 2) (VERIFIED)
+- [OpenSecrets: ConocoPhillips PAC SPIRIT PAC (C00112896) details](https://www.opensecrets.org/political-action-committees-pacs/conocophillips/C00112896/summary/2024) (Tier 1) (VERIFIED)
+- [E&E News: ConocoPhillips permitting reform lobbying (2026)](https://www.eenews.net/articles/conocophillips-hires-firm-to-lobby-on-permitting/) (Tier 2) (VERIFIED)
+- [Quiver Quantitative: ConocoPhillips Q4 2025 lobbying disclosure ($2.63M Willow/NPR-A/BLM 2024 rule)](https://www.quiverquant.com/news/Lobbying+Update:+$2,630,000+of+CONOCOPHILLIPS+lobbying+was+just+disclosed) (Tier 2) (VERIFIED)
 
 ---
 
@@ -250,13 +250,13 @@ The Willow Project ($8 billion investment, 180,000 barrels per day at peak, 600 
 
 **Notable filings:**
 
-- 2026-03-31 - **4**: [4](https://www.sec.gov/Archives/edgar/data/1163165/000119312526134713/0001193125-26-134713-index.htm)
-- 2026-03-31 - **144**: [144](https://www.sec.gov/Archives/edgar/data/1163165/000195824426000183/0001958244-26-000183-index.htm)
-- 2026-03-31 - **4**: [4](https://www.sec.gov/Archives/edgar/data/1163165/000119312526134453/0001193125-26-134453-index.htm)
-- 2026-03-30 - **ARS**: [ARS](https://www.sec.gov/Archives/edgar/data/1163165/000110465926036395/0001104659-26-036395-index.htm)
-- 2026-03-30 - **DEFA14A**: [DEFA14A](https://www.sec.gov/Archives/edgar/data/1163165/000110465926036377/0001104659-26-036377-index.htm)
+- 2026-03-31 - **4**: [4](https://www.sec.gov/Archives/edgar/data/1163165/000119312526134713/0001193125-26-134713-index.htm) (VERIFIED)
+- 2026-03-31 - **144**: [144](https://www.sec.gov/Archives/edgar/data/1163165/000195824426000183/0001958244-26-000183-index.htm) (VERIFIED)
+- 2026-03-31 - **4**: [4](https://www.sec.gov/Archives/edgar/data/1163165/000119312526134453/0001193125-26-134453-index.htm) (VERIFIED)
+- 2026-03-30 - **ARS**: [ARS](https://www.sec.gov/Archives/edgar/data/1163165/000110465926036395/0001104659-26-036395-index.htm) (VERIFIED)
+- 2026-03-30 - **DEFA14A**: [DEFA14A](https://www.sec.gov/Archives/edgar/data/1163165/000110465926036377/0001104659-26-036377-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22ConocoPhillips%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22ConocoPhillips%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Financial Overview (990 Filing - 2023)
@@ -268,7 +268,7 @@ The Willow Project ($8 billion investment, 180,000 barrels per day at peak, 600 
 | Total Expenses | $464K |
 | Net Assets | $5.8M |
 
-- [Source: ProPublica Nonprofit Explorer - EIN 202555951](https://projects.propublica.org/nonprofits/organizations/202555951) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer - EIN 202555951](https://projects.propublica.org/nonprofits/organizations/202555951) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Vehicle Safety (NHTSA)
@@ -286,14 +286,14 @@ The Willow Project ($8 billion investment, 180,000 barrels per day at peak, 600 
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=ConocoPhillips) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=ConocoPhillips) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [WPTL2Z3FIYTHSP5V2253](https://search.gleif.org/#/record/WPTL2Z3FIYTHSP5V2253) |
+| LEI | [WPTL2Z3FIYTHSP5V2253](https://search.gleif.org/#/record/WPTL2Z3FIYTHSP5V2253) (VERIFIED) |
 | Legal Name | CONOCOPHILLIPS |
 | Jurisdiction | US-DE |
 | Entity Status | ACTIVE |
@@ -301,7 +301,7 @@ The Willow Project ($8 billion investment, 180,000 barrels per day at peak, 600 
 | Registration | ISSUED |
 | Last Updated | 2025-12-19T16:05:25Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Federal Court Records (CourtListener)
@@ -320,7 +320,7 @@ The Willow Project ($8 billion investment, 180,000 barrels per day at peak, 600 
 - Stephenson v. East Binger Unit (2026) - District Court, W.D. Oklahoma
 - American Public Health Association v. EPA (2026) - Court of Appeals for the D.C. Circuit
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22ConocoPhillips%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22ConocoPhillips%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Lobbying Activity
@@ -339,7 +339,7 @@ The Willow Project ($8 billion investment, 180,000 barrels per day at peak, 600 
 
 **Agencies contacted:** Commerce, Dept of (DOC), Congressional Budget Office (CBO), Energy, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP), Federal Energy Regulatory Commission (FERC), HOUSE OF REPRESENTATIVES, Interior, Dept of (DOI), Natl Security Council (NSC), Nuclear Regulatory Commission (NRC) +6 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=ConocoPhillips) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=ConocoPhillips) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)
@@ -406,12 +406,12 @@ The Willow Project ($8 billion investment, 180,000 barrels per day at peak, 600 
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/202555951/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/202555951/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/202555951/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/202555951/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/202555951/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/202555951/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/202555951/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/202555951/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/202555951/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/202555951/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/202555951) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/202555951) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->

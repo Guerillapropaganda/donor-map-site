@@ -130,12 +130,12 @@ The resume inflation tells the whole story. Ratcliffe claimed "dozens" of terror
 
 ## Sources
 
-- [FEC Candidate: Ratcliffe congressional fundraising](https://www.fec.gov/data/candidate/H4TX04153/) (Tier 1)
-- [The Intercept: Ratcliffe AI advisory positions](https://theintercept.com/2025/01/23/cia-nominee-john-ratcliffe-ai/) (Tier 2)
-- [Rolling Stone: Ratcliffe defense contractor consulting](https://www.rollingstone.com/politics/politics-features/john-ratcliffe-trump-cia-clients-ai-defense-contractors-1235238009/) (Tier 2)
-- [CNN: Resume inflation and terrorism claims](https://edition.cnn.com/2019/08/01/politics/john-ratcliffe-democratic-strategy/index.html) (Tier 2)
-- [NPR: CIA Director confirmation](https://www.npr.org/2025/01/23/g-s1-44389/john-ratcliffe-cia-director) (Tier 2)
-- [FEC: John Ratcliffe contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=ratcliffe,+john) (Tier 1)
+- [FEC Candidate: Ratcliffe congressional fundraising](https://www.fec.gov/data/candidate/H4TX04153/) (Tier 1) (VERIFIED)
+- [The Intercept: Ratcliffe AI advisory positions](https://theintercept.com/2025/01/23/cia-nominee-john-ratcliffe-ai/) (Tier 2) (VERIFIED)
+- [Rolling Stone: Ratcliffe defense contractor consulting](https://www.rollingstone.com/politics/politics-features/john-ratcliffe-trump-cia-clients-ai-defense-contractors-1235238009/) (Tier 2) (VERIFIED)
+- [CNN: Resume inflation and terrorism claims](https://edition.cnn.com/2019/08/01/politics/john-ratcliffe-democratic-strategy/index.html) (Tier 2) (VERIFIED)
+- [NPR: CIA Director confirmation](https://www.npr.org/2025/01/23/g-s1-44389/john-ratcliffe-cia-director) (Tier 2) (VERIFIED)
+- [FEC: John Ratcliffe contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=ratcliffe,+john) (Tier 1) (VERIFIED)
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->
@@ -145,7 +145,7 @@ The resume inflation tells the whole story. Ratcliffe claimed "dozens" of terror
 | Bills Cosponsored | 0 |
 | Total Votes Cast | 3,345 |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412653) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412653) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
 
 ## Influence Network (Cross-Reference)
@@ -190,5 +190,5 @@ The resume inflation tells the whole story. Ratcliffe claimed "dozens" of terror
 | CLUB FOR GROWTH PAC | $5,083 | $0 |
 | THE COMMITTEE TO DEFEND THE PRESIDENT | $5,000 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4TX04153/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4TX04153/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->

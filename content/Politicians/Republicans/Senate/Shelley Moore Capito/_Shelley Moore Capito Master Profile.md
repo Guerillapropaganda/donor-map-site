@@ -175,19 +175,19 @@ The U.S. Chamber of Commerce spent $400,000 supporting Capito. TAKE ME HOME WV A
 
 ## Sources
 
-- [FEC Candidate: Shelley Moore Capito donor profile](https://www.fec.gov/data/candidate/S4WV00159/) (Tier 1)
-- [FEC Candidate: Shelley Moore Capito industry donors](https://www.fec.gov/data/candidate/S4WV00159/) (Tier 1)
-- [Senate EPW Committee: Chairman Capito](https://www.epw.senate.gov/public/public/index.cfm/chairman-capito) (Tier 1)
-- [Senate.gov: Shelley Moore Capito energy & environment](https://www.capito.senate.gov/about/issues/energy-and-environment) (Tier 1)
-- [Senate.gov: Capito commends Trump EPA repeal of Biden coal regulations](https://www.capito.senate.gov/news/press-releases/-capito-commends-trump-epas-repeal-of-biden-era-attacks-on-coal) (Tier 1)
-- [Type Investigations: The Fracking Candidate](https://www.typeinvestigations.org/investigation/2014/06/25/fracking-candidate/) (Tier 2)
-- [Republic Report: Natural gas industry hires family members of leading politicians](https://www.republicreport.org/2014/nat-gas-family/) (Tier 2)
-- [Roll Call: Shelley Moore Capito campaigns amid father's complicated legacy](https://rollcall.com/2014/07/09/shelley-moore-capito-campaigns-amid-fathers-complicated-legacy/) (Tier 2)
-- [E&E News: Capito follows father's footsteps](https://www.eenews.net/articles/capito-follows-fathers-footsteps-in-an-understated-way/) (Tier 2)
-- [Gas & Oil Association of WV: Endorses Capito for 2026 primary](https://gowv.com/go-wv-endorses-senator-shelley-moore-capito-for-may-2026-primary/) (Tier 2)
-- [Ballotpedia: Shelley Moore Capito](https://ballotpedia.org/Shelley_Moore_Capito) (Tier 3)
-- [Wikipedia: Shelley Moore Capito](https://en.wikipedia.org/wiki/Shelley_Moore_Capito) (Tier 3)
-- [WV Encyclopedia: Shelley Moore Capito](https://www.wvencyclopedia.org/entries/903) (Tier 3)
+- [FEC Candidate: Shelley Moore Capito donor profile](https://www.fec.gov/data/candidate/S4WV00159/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Shelley Moore Capito industry donors](https://www.fec.gov/data/candidate/S4WV00159/) (Tier 1) (VERIFIED)
+- ~~[Senate EPW Committee: Chairman Capito](https://www.epw.senate.gov/public/public/index.cfm/chairman-capito)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Senate.gov: Shelley Moore Capito energy & environment](https://www.capito.senate.gov/about/issues/energy-and-environment) (Tier 1) (VERIFIED)
+- [Senate.gov: Capito commends Trump EPA repeal of Biden coal regulations](https://www.capito.senate.gov/news/press-releases/-capito-commends-trump-epas-repeal-of-biden-era-attacks-on-coal) (Tier 1) (VERIFIED)
+- [Type Investigations: The Fracking Candidate](https://www.typeinvestigations.org/investigation/2014/06/25/fracking-candidate/) (Tier 2) (VERIFIED)
+- [Republic Report: Natural gas industry hires family members of leading politicians](https://www.republicreport.org/2014/nat-gas-family/) (Tier 2) (VERIFIED)
+- [Roll Call: Shelley Moore Capito campaigns amid father's complicated legacy](https://rollcall.com/2014/07/09/shelley-moore-capito-campaigns-amid-fathers-complicated-legacy/) (Tier 2) (VERIFIED)
+- [E&E News: Capito follows father's footsteps](https://www.eenews.net/articles/capito-follows-fathers-footsteps-in-an-understated-way/) (Tier 2) (VERIFIED)
+- [Gas & Oil Association of WV: Endorses Capito for 2026 primary](https://gowv.com/go-wv-endorses-senator-shelley-moore-capito-for-may-2026-primary/) (Tier 2) (VERIFIED)
+- [Ballotpedia: Shelley Moore Capito](https://ballotpedia.org/Shelley_Moore_Capito) (Tier 3) (VERIFIED)
+- [Wikipedia: Shelley Moore Capito](https://en.wikipedia.org/wiki/Shelley_Moore_Capito) (Tier 3) (VERIFIED)
+- [WV Encyclopedia: Shelley Moore Capito](https://www.wvencyclopedia.org/entries/903) (Tier 3) (VERIFIED)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -219,7 +219,7 @@ The U.S. Chamber of Commerce spent $400,000 supporting Capito. TAKE ME HOME WV A
 | DEFENDING MAIN STREET SUPERPAC INC | $98,000 | $0 |
 | NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND | $48,061 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S4WV00159/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S4WV00159/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Congressional Stock Trades (STOCK Act)
@@ -247,7 +247,7 @@ The U.S. Chamber of Commerce spent $400,000 supporting Capito. TAKE ME HOME WV A
 | 12/16/2019 | CMCSA | Purchase | $1,001 - $15,000 | Spouse |
 | 12/13/2018 | PG | Purchase | $1,001 - $15,000 | Spouse |
 
-- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
 ### Legislative Activity (GovTrack)
@@ -267,7 +267,7 @@ The U.S. Chamber of Commerce spent $400,000 supporting Capito. TAKE ME HOME WV A
 - S.Res. 537: A resolution honoring the service and sacrifice of United States Army Specialist Sarah Beckstrom and United States Air F — *This simple resolution was agreed to on December 9, 2025. That is the end of the legislative process for a simple resolution.*
 - S. 351: STEWARD Act of 2025 — *This bill passed in the Senate on November 20, 2025 and goes to the House next for consideration.*
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400061) (Tier 1)
+- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/400061)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:govtrack end -->
 
 ## Voting Record
@@ -292,7 +292,7 @@ The U.S. Chamber of Commerce spent $400,000 supporting Capito. TAKE ME HOME WV A
 
 **Sources**
 
-- [GovTrack: Shelley Moore Capito](https://www.govtrack.us/congress/members/400061) (Tier 1)
+- ~~[GovTrack: Shelley Moore Capito](https://www.govtrack.us/congress/members/400061)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-10 -->
@@ -319,7 +319,7 @@ The U.S. Chamber of Commerce spent $400,000 supporting Capito. TAKE ME HOME WV A
 
 **Sources**
 
-- [Congress.gov: Shelley Moore Capito](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: Shelley Moore Capito](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [GovTrack: Shelley Moore Capito](https://www.govtrack.us/congress/members/400061) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->

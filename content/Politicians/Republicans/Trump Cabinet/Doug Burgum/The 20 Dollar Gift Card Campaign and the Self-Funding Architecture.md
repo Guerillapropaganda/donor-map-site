@@ -66,6 +66,6 @@ Burgum was one of two finalists for Trump's VP pick alongside [[_JD Vance Master
 
 ### Sources
 
-- [OpenSecrets: Burgum 2024 presidential fundraising](https://www.opensecrets.org/members-of-congress/summary?name=20%20Dollar%20Gift%20Card%20Campaign%20and%20the%20Self-Funding%20Architecture) (Tier 1)
+- [OpenSecrets: Burgum 2024 presidential fundraising](https://www.opensecrets.org/members-of-congress/summary?name=20%20Dollar%20Gift%20Card%20Campaign%20and%20the%20Self-Funding%20Architecture) (Tier 1) (VERIFIED)
 - CBS News: Gift card legal questions (Tier 2)
-- [Axios: Burgum VP consideration](https://www.axios.com/results?q=20%20Dollar%20Gift%20Card%20Campaign%20and%20the%20Self-Funding%20Architecture) (Tier 2)
+- ~~[Axios: Burgum VP consideration](https://www.axios.com/results?q=20%20Dollar%20Gift%20Card%20Campaign%20and%20the%20Self-Funding%20Architecture)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)

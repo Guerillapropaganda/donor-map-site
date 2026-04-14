@@ -26,7 +26,7 @@ Chris Hedges is a Pulitzer Prize-winning journalist who spent 15 years as a fore
 
 No FEC individual contributions found. The FEC API returns 0 results for both "HEDGES, CHRIS" and "HEDGES, CHRISTOPHER" — no contributions on record for the Pulitzer Prize-winning journalist. A career spent critiquing both parties' subservience to corporate power reflected in zero financial engagement with the system he covers. The $0 is ideologically consistent: Hedges views electoral politics as a corporate managed spectacle.
 
-- [FEC: Chris Hedges individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=HEDGES%2C+CHRIS) (Tier 1)
+- [FEC: Chris Hedges individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=HEDGES%2C+CHRIS) (Tier 1) (VERIFIED)
 
 ### The Funding Model
 
@@ -188,12 +188,12 @@ Substack paid subscriptions (primary), book royalties (secondary), speaking enga
 
 ### Sources
 
-- [Chris Hedges - Wikipedia](https://en.wikipedia.org/wiki/Chris_Hedges) (Tier 2) (Chrome verified 2026-03-27)
-- [Chris Hedges — The Real News Network](https://therealnews.com/author/chris-hedges) (Tier 2) (Chrome verified 2026-03-27)
-- [Chris Hedges on His Canceled RT America Show & YouTube Censorship — Democracy Now!](https://www.democracynow.org/2022/4/1/on_contact_chris_hedges_youtube_russia) (Tier 2) (Chrome verified 2026-03-27)
-- [Six years of Chris Hedges' On Contact program erased by YouTube — World Socialist Web Site](https://www.wsws.org/en/articles/2022/03/31/hedg-m31.html) (Tier 2) (Chrome verified 2026-03-27)
-- [Q&A: Chris Hedges — What I'm Doing After Real News — ScheerPost](https://scheerpost.com/2024/06/06/qa-w-chris-hedges-what-im-doing-after-real-news/) (Tier 2) (Chrome verified 2026-03-27)
-- [Chris Hedges: Thank You For Your Support Following the Cancellation of My Show on The Real News — ScheerPost](https://scheerpost.com/2024/05/04/chris-hedges-thank-you-for-your-support-following-the-cancellation-of-my-show-on-the-real-news/) (Tier 2) (Chrome verified 2026-03-27)
-- [The Chris Hedges Report — The Real News Network](https://therealnews.com/chris-hedges-report) (Tier 2) (Chrome verified 2026-03-27)
-- [Chris Hedges — Substack](https://chrishedges.substack.com/) (Tier 2) (Chrome verified 2026-03-27)
+- [Chris Hedges - Wikipedia](https://en.wikipedia.org/wiki/Chris_Hedges) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
+- [Chris Hedges — The Real News Network](https://therealnews.com/author/chris-hedges) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
+- [Chris Hedges on His Canceled RT America Show & YouTube Censorship — Democracy Now!](https://www.democracynow.org/2022/4/1/on_contact_chris_hedges_youtube_russia) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
+- [Six years of Chris Hedges' On Contact program erased by YouTube — World Socialist Web Site](https://www.wsws.org/en/articles/2022/03/31/hedg-m31.html) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
+- [Q&A: Chris Hedges — What I'm Doing After Real News — ScheerPost](https://scheerpost.com/2024/06/06/qa-w-chris-hedges-what-im-doing-after-real-news/) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
+- [Chris Hedges: Thank You For Your Support Following the Cancellation of My Show on The Real News — ScheerPost](https://scheerpost.com/2024/05/04/chris-hedges-thank-you-for-your-support-following-the-cancellation-of-my-show-on-the-real-news/) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
+- [The Chris Hedges Report — The Real News Network](https://therealnews.com/chris-hedges-report) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
+- [Chris Hedges — Substack](https://chrishedges.substack.com/) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
 

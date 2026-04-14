@@ -140,12 +140,12 @@ By 2020, when Biden ran for president, his campaign website said: "We must provi
 
 ### Sources
 
-- [FEC Candidate: Joe Biden donor profile](https://www.fec.gov/data/candidate/P60012143/) (Tier 1)
-- [U.S. Courts: Bankruptcy filings statistics 2000–2010](https://www.uscourts.gov/news/2021/11/22/bankruptcy-filings-2021) (Tier 1)
-- [NPR: Biden's Link To Credit-Card Firm Questioned](https://www.npr.org/2008/08/25/93954519/bidens-link-to-credit-card-firm-questioned) (Tier 2)
-- [ProPublica: Biden's Cozy Relations With Bank Industry](https://www.propublica.org/article/bidens-cozy-relations-with-bank-industry-825) (Tier 2)
-- [Elizabeth Warren testimony: Bankruptcy reform 2001](https://www.senate.gov/pagelayout/general/one_item_and_teasers/file_not_found.htm) (Tier 1. Congressional testimony) (Tier 1)
-- [Harvard Law School: Warren bankruptcy research](https://www.law.harvard.edu/news/warren-elected-law-school-faculty-elected-fellows-american-academy) (Tier 2)
-- [MBNA/Bank of America merger announcement, 2005](https://investor.bankofamerica.com/news-and-events/news-releases/2005) (Tier 1)
-- [Federal Reserve report: Credit card industry profitability post-2005](https://www.federalreserve.gov/datadownload/) (Tier 1)
+- [FEC Candidate: Joe Biden donor profile](https://www.fec.gov/data/candidate/P60012143/) (Tier 1) (VERIFIED)
+- ~~[U.S. Courts: Bankruptcy filings statistics 2000–2010](https://www.uscourts.gov/news/2021/11/22/bankruptcy-filings-2021)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [NPR: Biden's Link To Credit-Card Firm Questioned](https://www.npr.org/2008/08/25/93954519/bidens-link-to-credit-card-firm-questioned) (Tier 2) (VERIFIED)
+- [ProPublica: Biden's Cozy Relations With Bank Industry](https://www.propublica.org/article/bidens-cozy-relations-with-bank-industry-825) (Tier 2) (VERIFIED)
+- [Elizabeth Warren testimony: Bankruptcy reform 2001](https://www.senate.gov/pagelayout/general/one_item_and_teasers/file_not_found.htm) (VERIFIED) (Tier 1. Congressional testimony) (Tier 1)
+- ~~[Harvard Law School: Warren bankruptcy research](https://www.law.harvard.edu/news/warren-elected-law-school-faculty-elected-fellows-american-academy)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[MBNA/Bank of America merger announcement, 2005](https://investor.bankofamerica.com/news-and-events/news-releases/2005)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Federal Reserve report: Credit card industry profitability post-2005](https://www.federalreserve.gov/datadownload/) (Tier 1) (VERIFIED)
 

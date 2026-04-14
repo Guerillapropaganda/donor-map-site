@@ -40,7 +40,7 @@ This spending occurred in a state Democrats control, with no competitive general
 
 **The Race:** Open seat (no incumbent). Cook County Commissioner [[_Donna Miller Master Profile|Donna Miller]] ran in a crowded Democratic primary.
 
-**AIPAC's Investment:** Affordable Chicago Now (shell PAC) spent $4.4 million supporting Miller. [Pro-Israel group AIPAC notches its first real 2026 Democratic primary wins in Illinois - Axios](https://www.axios.com/2026/03/18/aipac-illinois-primary-biss-abughazaleh-bean) (Tier 2)
+**AIPAC's Investment:** Affordable Chicago Now (shell PAC) spent $4.4 million supporting Miller. [Pro-Israel group AIPAC notches its first real 2026 Democratic primary wins in Illinois - Axios](https://www.axios.com/2026/03/18/aipac-illinois-primary-biss-abughazaleh-bean) (Tier 2) (VERIFIED)
 
 **Result:** Miller won the primary. [[Daniel Biss]], Donna Miller, [[_Melissa Bean Master Profile|Melissa Bean]] win House primaries as Democrats fight over Israel and four Illinois open seats - NBC News](https://www.nbcnews.com/politics/2026-election/illinois-primary-house-election-winners-races-ballots-midterms-rcna263607) (Tier 2)
 
@@ -55,7 +55,7 @@ This spending occurred in a state Democrats control, with no competitive general
 - [[Think Big AI|Think Big AI]] PAC: $1.1 million supporting Bean
 - Additional AI/tech alignment from leading Valley venture capitalists
 
-[AI and Crypto spent nearly $20 million to reshape Illinois's Democratic primaries - Fortune](https://fortune.com/2026/03/18/ai-crypto-illinois-primary-spending-fairshake-think-big-pac/) (Tier 2)
+[AI and Crypto spent nearly $20 million to reshape Illinois's Democratic primaries - Fortune](https://fortune.com/2026/03/18/ai-crypto-illinois-primary-spending-fairshake-think-big-pac/) (Tier 2) (VERIFIED)
 
 **Result:** Bean won the primary, becoming one of the rare candidates backed by a multi-donor coalition (Israel + AI + crypto interest convergence).
 
@@ -68,9 +68,9 @@ This spending occurred in a state Democrats control, with no competitive general
 
 **The Race:** Open seat (Congressman Jan Schakowsky retired). Evanston Mayor Daniel Biss, a progressive Jewish candidate who has criticized Israeli government policy, ran against AIPAC-backed state Sen. Laura Fine.
 
-**AIPAC's Strategy:** Elect Chicago Women (shell PAC) spent $5.8 million, first supporting Laura Fine, then attacking Daniel Biss. [AIPAC super PAC funded big-spending Illinois groups, as Democratic fights over Israel spread - NBC News](https://www.nbcnews.com/politics/2026-election/aipac-super-pac-funded-illinois-groups-democratic-primaries-israel-rcna264379) (Tier 2)
+**AIPAC's Strategy:** Elect Chicago Women (shell PAC) spent $5.8 million, first supporting Laura Fine, then attacking Daniel Biss. [AIPAC super PAC funded big-spending Illinois groups, as Democratic fights over Israel spread - NBC News](https://www.nbcnews.com/politics/2026-election/aipac-super-pac-funded-illinois-groups-democratic-primaries-israel-rcna264379) (Tier 2) (VERIFIED)
 
-**Result:** Biss won the primary despite AIPAC opposition. [Illinois Results: Daniel Biss Beats Kat Abughazaleh in Blow to Left and AIPAC Alike - The Intercept](https://theintercept.com/2026/03/17/illinois-house-senate-primary-results-biss-abughazaleh/) (Tier 2)
+**Result:** Biss won the primary despite AIPAC opposition. [Illinois Results: Daniel Biss Beats Kat Abughazaleh in Blow to Left and AIPAC Alike - The Intercept](https://theintercept.com/2026/03/17/illinois-house-senate-primary-results-biss-abughazaleh/) (Tier 2) (VERIFIED)
 
 > [!contradiction]
 > AIPAC spent $5.8 million attacking Daniel Biss, the single largest expenditure by AIPAC-linked PACs in any Illinois race. Despite this overwhelming spending advantage, Biss won. The result suggests that massive independent expenditure spending is not deterministic, especially in a race where the opposing candidate has strong local credibility (Biss as Evanston mayor) and an independent media narrative (progressive Jewish critique of Israeli government).
@@ -87,7 +87,7 @@ This spending occurred in a state Democrats control, with no competitive general
 
 Illinois was the perfect test case for donor dominance because:
 
-**Open seats:** Four open-seat races from retirements meant no incumbent advantage; purely donor-determined outcomes were possible. [Daniel Biss, Donna Miller, Melissa Bean win House primaries - NBC News](https://www.nbcnews.com/politics/2026-election/illinois-primary-house-election-winners-races-ballots-midterms-rcna263607) (Tier 2)
+**Open seats:** Four open-seat races from retirements meant no incumbent advantage; purely donor-determined outcomes were possible. [Daniel Biss, Donna Miller, Melissa Bean win House primaries - NBC News](https://www.nbcnews.com/politics/2026-election/illinois-primary-house-election-winners-races-ballots-midterms-rcna263607) (Tier 2) (VERIFIED)
 
 **Diverse districts:** IL-2 (south side Black), IL-8 (suburban Jewish), IL-9 (north shore progressive), ideologically diverse, low primary turnout, high susceptibility to TV spending
 
@@ -100,7 +100,7 @@ Illinois was the perfect test case for donor dominance because:
 The Illinois primaries introduced a major innovation in donor spending: shell PACs with anodyne names that obscure AIPAC's involvement.
 
 ### Three AIPAC-linked shell PACs:
-1. **Elect Chicago Women**. Created late January 2026 at a co-working space, designed to appear as a feminist organization. Spent $5.8M in IL-9 (attacking Biss) + $3.9M in IL-8 (supporting Bean) = $9.7M total. [AIPAC super PAC funded big-spending Illinois groups - NBC News](https://www.nbcnews.com/politics/2026-election/aipac-super-pac-funded-illinois-groups-democratic-primaries-israel-rcna264379) (Tier 2)
+1. **Elect Chicago Women**. Created late January 2026 at a co-working space, designed to appear as a feminist organization. Spent $5.8M in IL-9 (attacking Biss) + $3.9M in IL-8 (supporting Bean) = $9.7M total. [AIPAC super PAC funded big-spending Illinois groups - NBC News](https://www.nbcnews.com/politics/2026-election/aipac-super-pac-funded-illinois-groups-democratic-primaries-israel-rcna264379) (Tier 2) (VERIFIED)
 
 2. **Affordable Chicago Now**. Created at a mailbox rental facility, designed to appear as housing advocacy. Spent $4.4M supporting Donna Miller in IL-2.
 

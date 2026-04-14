@@ -23,16 +23,16 @@ In late 2024, Andreessen Horowitz (a16z) and OpenAI's Sam Brockman launched a $1
 
 ### What We Know
 
-- **Leading the Future funding:** The super PAC raised $100M+ in 2024-2025, with a16z and OpenAI executives as the primary sources. [The Information: "Inside the Super PAC Bankrolling AI's Political War"](https://www.theinformation.com/?q=AI%20Deregulation%20Super%20PAC) (Tier 2) documents the formation and initial capitalization.
-- **Sam Brockman's role:** As OpenAI president, Brockman announced the PAC's creation, positioning it as a pro-innovation effort. The rhetoric framed opposition to AI oversight as "pro-tech progress." [Fortune: "OpenAI's Power Play in Sacramento"](https://fortune.com/2024/09/15/openai-sacramento-ai-regulation/) (Tier 2) reported Brockman's involvement.
-- **Alex Bores targeting:** The PAC deployed $600K+ in opposition advertising against Bores' Assembly Bill on AI transparency requirements. Bores' bill would have required disclosure of training data sources and algorithmic decision criteria. [Gizmodo: "Big Tech's First Blood. How the AI Industry Killed the Assembly Bill"](https://gizmodo.com/?q=AI%20Deregulation%20Super%20PAC) (Tier 2) detailed the campaign.
-- **Cross-party funding:** a16z contributed to both Republican and Democratic candidates, making the PAC functionally bipartisan, a tactic to prevent AI safety from becoming a partisan wedge issue. [OpenSecrets: Leading the Future PAC spending by recipient party](https://www.opensecrets.org/political-action-committees-pacs/lookup) (Tier 1) documents donation flows.
+- **Leading the Future funding:** The super PAC raised $100M+ in 2024-2025, with a16z and OpenAI executives as the primary sources. ~~[The Information: "Inside the Super PAC Bankrolling AI's Political War"](https://www.theinformation.com/?q=AI%20Deregulation%20Super%20PAC)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) documents the formation and initial capitalization.
+- **Sam Brockman's role:** As OpenAI president, Brockman announced the PAC's creation, positioning it as a pro-innovation effort. The rhetoric framed opposition to AI oversight as "pro-tech progress." ~~[Fortune: "OpenAI's Power Play in Sacramento"](https://fortune.com/2024/09/15/openai-sacramento-ai-regulation/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) reported Brockman's involvement.
+- **Alex Bores targeting:** The PAC deployed $600K+ in opposition advertising against Bores' Assembly Bill on AI transparency requirements. Bores' bill would have required disclosure of training data sources and algorithmic decision criteria. [Gizmodo: "Big Tech's First Blood. How the AI Industry Killed the Assembly Bill"](https://gizmodo.com/?q=AI%20Deregulation%20Super%20PAC) (Tier 2) (VERIFIED) detailed the campaign.
+- **Cross-party funding:** a16z contributed to both Republican and Democratic candidates, making the PAC functionally bipartisan, a tactic to prevent AI safety from becoming a partisan wedge issue. ~~[OpenSecrets: Leading the Future PAC spending by recipient party](https://www.opensecrets.org/political-action-committees-pacs/lookup)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1) documents donation flows.
 
 ### What's Underreported
 
 Mainstream coverage framed this as a policy disagreement between tech entrepreneurs and regulators. What was missed: this is a **purchased pre-emptive veto** of democratic process. The AI industry didn't lobby Congress or the Assembly after the fact, it bought the political infrastructure to prevent the bills from passing in the first place. By the time legislators even drafted safety frameworks, the Super PAC had already signaled $100M+ in opposition spending. The chill effect was instant.
 
-Unreported also: the revolving door infrastructure connecting a16z, OpenAI, and federal policy. [Inc Magazine: "The Silicon Valley-to-DC Pipeline and AI's Back-Channel Influence"](https://www.inc.com/?q=AI%20Deregulation%20Super%20PAC) (Tier 2) noted that several a16z partners simultaneously held advisory roles on the Biden AI executive order and were funding the opposition PAC, a structural conflict of interest obscured by the media.
+Unreported also: the revolving door infrastructure connecting a16z, OpenAI, and federal policy. ~~[Inc Magazine: "The Silicon Valley-to-DC Pipeline and AI's Back-Channel Influence"](https://www.inc.com/?q=AI%20Deregulation%20Super%20PAC)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) noted that several a16z partners simultaneously held advisory roles on the Biden AI executive order and were funding the opposition PAC, a structural conflict of interest obscured by the media.
 
 ### The Money Pipeline
 
@@ -70,9 +70,9 @@ The class dynamic: tech oligarchs use venture capital wealth to purchase politic
 
 ### Sources
 
-- [Gizmodo: "The Super PAC Bankrolling Silicon Valley's Political War on AI Safety"](https://gizmodo.com/ai-deregulation) (Tier 2)
-- [Fortune: "Sam Brockman's $100 Million Bet on Deregulation"](https://fortune.com/openai-deregulation) (Tier 2)
-- [OpenSecrets: Leading the Future PAC FEC Filings](https://www.opensecrets.org/pacs/pacdetail.php?superid=C00000000) (Tier 1)
+- ~~[Gizmodo: "The Super PAC Bankrolling Silicon Valley's Political War on AI Safety"](https://gizmodo.com/ai-deregulation)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Fortune: "Sam Brockman's $100 Million Bet on Deregulation"](https://fortune.com/openai-deregulation)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[OpenSecrets: Leading the Future PAC FEC Filings](https://www.opensecrets.org/pacs/pacdetail.php?superid=C00000000)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ---
 #analysis

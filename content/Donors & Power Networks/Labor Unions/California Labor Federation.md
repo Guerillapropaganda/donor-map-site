@@ -111,13 +111,13 @@ For IBEW members: the Federation is the body through which IBEW's California pol
 | Net Assets | $19.5M |
 | Officer Compensation | $336K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 940362030](https://projects.propublica.org/nonprofits/organizations/940362030) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 940362030](https://projects.propublica.org/nonprofits/organizations/940362030) (Tier 1) (VERIFIED)
 
 <!-- auto:propublica-990 end -->
 
 ### Sources
 
-- [OpenSecrets: AFL-CIO COPE 2024 cycle data](https://www.opensecrets.org/political-action-committees-pacs/afl-cio-committee-on-political-education/C00000935/summary/2024) (Tier 1)
+- [OpenSecrets: AFL-CIO COPE 2024 cycle data](https://www.opensecrets.org/political-action-committees-pacs/afl-cio-committee-on-political-education/C00000935/summary/2024) (Tier 1) (VERIFIED)
 
 ---
 
@@ -153,7 +153,7 @@ For IBEW members: the Federation is the body through which IBEW's California pol
 | CALIFORNIA DEMOCRATIC PARTY | $10,000 | DEM |
 | DEMOCRATIC STATE CENTRAL COMMITTEE OF CA - FEDERAL | $10,000 | DEM |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=California%20Labor%20Federation) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=California%20Labor%20Federation) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### Federal Register Activity
@@ -166,11 +166,11 @@ For IBEW members: the Federation is the body through which IBEW's California pol
 | Agencies | Federal Motor Carrier Safety Administration, Federal Railroad Administration, Labor Department, Occupational Safety and Health Administration, Transportation Department |
 
 **Recent regulatory activity:**
-- [Train Crew Size Safety Requirements](https://www.federalregister.gov/documents/2024/04/09/2024-06625/train-crew-size-safety-requirements) (2024-04-09) — Transportation Department ★
-- [National Environmental Policy Act Implementing Procedures](https://www.federalregister.gov/documents/2004/03/01/04-4338/national-environmental-policy-act-implementing-procedures) (2004-03-01) — Transportation Department
-- [Supplement to California State Plan; Approval](https://www.federalregister.gov/documents/1997/06/06/97-14723/supplement-to-california-state-plan-approval) (1997-06-06) — Labor Department
+- [Train Crew Size Safety Requirements](https://www.federalregister.gov/documents/2024/04/09/2024-06625/train-crew-size-safety-requirements) (VERIFIED) (2024-04-09) — Transportation Department ★
+- [National Environmental Policy Act Implementing Procedures](https://www.federalregister.gov/documents/2004/03/01/04-4338/national-environmental-policy-act-implementing-procedures) (VERIFIED) (2004-03-01) — Transportation Department
+- [Supplement to California State Plan; Approval](https://www.federalregister.gov/documents/1997/06/06/97-14723/supplement-to-california-state-plan-approval) (VERIFIED) (1997-06-06) — Labor Department
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22California%20Labor%20Federation%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22California%20Labor%20Federation%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### DOJ Press Releases

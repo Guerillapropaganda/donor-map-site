@@ -26,7 +26,7 @@ Steven Bonnell II, known as "Destiny," is a Twitch/YouTube political debate stre
 
 No FEC individual contributions found. The FEC API returns 0 results for "BONNELL, STEVEN" — no contributions on record. Bonnell's political engagement operates through volunteer organizing (Georgia Senate runoffs 2020-2021, Sherrod Brown 2024 Ohio) rather than campaign donations. The $0 is analytically interesting: a streamer who organized canvassing operations for Democratic candidates made zero financial contributions to those same candidates — labor, not money, is his political currency.
 
-- [FEC: Steven Bonnell individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=BONNELL%2C+STEVEN) (Tier 1)
+- [FEC: Steven Bonnell individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=BONNELL%2C+STEVEN) (Tier 1) (VERIFIED)
 
 ### The Funding Model
 
@@ -146,11 +146,11 @@ Bonnell's format trains audiences to see political engagement as entertainment, 
 
 ### Sources
 
-- [Destiny (streamer) - Wikipedia](https://en.wikipedia.org/wiki/All-In_(podcast))) (Tier 3) (Chrome verified 2026-03-27)
-- [Steven Bonnell Net Worth: The Rise of a Controversial Streamer — SayWhatMagazine](https://saywhatmagazine.co.uk/steven-bonnell-net-worth/) (Tier 3) (Chrome verified 2026-03-27)
-- [How Much Is Destiny's Total Net Worth? — Sportskeeda](https://www.sportskeeda.com/esports/destiny-net-worth) (Tier 3) (Chrome verified 2026-03-27)
-- [Destiny Streamer Profile: Net Worth, Wife, Ban History — Spilled.gg](https://spilled.gg/streamer/destiny/) (Tier 3) (Chrome verified 2026-03-27)
-- [Why Is Destiny Considered a Controversial Personality? — Sportskeeda](https://www.sportskeeda.com/esports/why-destiny-considered-controversial-personality-exploring-former-twitch-streamer-s-career) (Tier 2) (Chrome verified 2026-03-27)
-- [Destiny Net Worth and Earnings — Net Worth Spot](https://www.networthspot.com/destiny/net-worth/) (Tier 3) (Chrome verified 2026-03-27)
-- [The Left Wants Nearly Nothing to Do With Destiny — Medium](https://richardlentrup-11161.medium.com/the-left-wants-nearly-nothing-to-do-with-destiny-so-where-can-he-go-from-here-a530ccb6ea4a) (Tier 3) (Chrome verified 2026-03-27)
+- ~~[Destiny (streamer) - Wikipedia](https://en.wikipedia.org/wiki/All-In_(podcast)~~ (URL broken, archived by Ops))) (Tier 3) (Chrome verified 2026-03-27)
+- [Steven Bonnell Net Worth: The Rise of a Controversial Streamer — SayWhatMagazine](https://saywhatmagazine.co.uk/steven-bonnell-net-worth/) (Tier 3) (VERIFIED) (Chrome verified 2026-03-27)
+- ~~[How Much Is Destiny's Total Net Worth? — Sportskeeda](https://www.sportskeeda.com/esports/destiny-net-worth)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3) (Chrome verified 2026-03-27)
+- [Destiny Streamer Profile: Net Worth, Wife, Ban History — Spilled.gg](https://spilled.gg/streamer/destiny/) (Tier 3) (VERIFIED) (Chrome verified 2026-03-27)
+- ~~[Why Is Destiny Considered a Controversial Personality? — Sportskeeda](https://www.sportskeeda.com/esports/why-destiny-considered-controversial-personality-exploring-former-twitch-streamer-s-career)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (Chrome verified 2026-03-27)
+- [Destiny Net Worth and Earnings — Net Worth Spot](https://www.networthspot.com/destiny/net-worth/) (Tier 3) (VERIFIED) (Chrome verified 2026-03-27)
+- ~~[The Left Wants Nearly Nothing to Do With Destiny — Medium](https://richardlentrup-11161.medium.com/the-left-wants-nearly-nothing-to-do-with-destiny-so-where-can-he-go-from-here-a530ccb6ea4a)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3) (Chrome verified 2026-03-27)
 

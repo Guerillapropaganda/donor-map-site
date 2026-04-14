@@ -206,5 +206,5 @@ Bianco's investigators claim citizen volunteers reviewing public records found 6
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Chad Bianco](https://www.congress.gov/member/a000383) (Tier 1)
+- ~~[Congress.gov: Chad Bianco](https://www.congress.gov/member/a000383)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->

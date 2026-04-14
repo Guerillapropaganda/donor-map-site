@@ -53,9 +53,9 @@ The industry's political priorities: spectrum allocation (the FCC auctions that 
 
 ### Sources
 
-- [FEC Receipts: Telecom industry lobbying](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- [FCC: Spectrum auction records](https://www.fcc.gov/auction) (Tier 1)
-- [Ballotpedia: Telecommunications regulation](https://ballotpedia.org/Telecom_Industry) (Tier 3)
+- [FEC Receipts: Telecom industry lobbying](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
+- [FCC: Spectrum auction records](https://www.fcc.gov/auction) (Tier 1) (NEEDS REVIEW)
+- [Ballotpedia: Telecommunications regulation](https://ballotpedia.org/Telecom_Industry) (Tier 3) (VERIFIED)
 
 ---
 
@@ -87,7 +87,7 @@ The industry's political priorities: spectrum allocation (the FCC auctions that 
 - Broadband Telecom, Inc. (2025) - United States Bankruptcy Court, E.D. New York
 - Lumen21, Inc. v. CenturyLink Communications, LLC (2025) - District Court, C.D. California
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Telecom%20Industry%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Telecom%20Industry%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Lobbying Activity
@@ -106,7 +106,7 @@ The industry's political priorities: spectrum allocation (the FCC auctions that 
 
 **Agencies contacted:** Agriculture, Dept of (USDA), Commerce, Dept of (DOC), Federal Communications Commission (FCC), HOUSE OF REPRESENTATIVES, Homeland Security, Dept of (DHS), Interior, Dept of (DOI), Natl Security Council (NSC), Natl Telecommunications & Information Administration (NTIA), Office of Management & Budget (OMB), SENATE +2 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Telecom%20Industry) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Telecom%20Industry) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)
@@ -172,14 +172,14 @@ The industry's political priorities: spectrum allocation (the FCC auctions that 
 | DCCCC NON-FEDERAL ACCOUNT #3 | $10,000 | - |
 | DCCC BUILDING FUND ACCOUNT #1 | $7,000 | - |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Telecom%20Industry) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Telecom%20Industry) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [549300D3EIDZJB62TR20](https://search.gleif.org/#/record/549300D3EIDZJB62TR20) |
+| LEI | [549300D3EIDZJB62TR20](https://search.gleif.org/#/record/549300D3EIDZJB62TR20) (VERIFIED) |
 | Legal Name | أريد ش.م,ق.ع |
 | Jurisdiction | QA |
 | Entity Status | ACTIVE |
@@ -187,7 +187,7 @@ The industry's political priorities: spectrum allocation (the FCC auctions that 
 | Registration | ISSUED |
 | Last Updated | 2025-09-17T14:47:00Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Federal Register Activity
@@ -201,13 +201,13 @@ The industry's political priorities: spectrum allocation (the FCC auctions that 
 | Agencies | Agriculture Department, Defense Department, Federal Communications Commission, Federal Deposit Insurance Corporation, Federal Reserve System, Rural Utilities Service, Securities and Exchange Commission |
 
 **Recent regulatory activity:**
-- [Cybersecurity Maturity Model Certification (CMMC) Program](https://www.federalregister.gov/documents/2023/12/26/2023-27280/cybersecurity-maturity-model-certification-cmmc-program) (2023-12-26) - Defense Department
-- [Unified Agenda of Federal Regulatory and Deregulatory Actions-Spring 2017](https://www.federalregister.gov/documents/2017/08/24/2017-16981/unified-agenda-of-federal-regulatory-and-deregulatory-actions-spring-2017) (2017-08-24) - Federal Communications Commission
-- [Unified Agenda of Federal Regulatory and Deregulatory Actions-Fall 2016](https://www.federalregister.gov/documents/2016/12/23/2016-29927/unified-agenda-of-federal-regulatory-and-deregulatory-actions-fall-2016) (2016-12-23) - Federal Communications Commission
-- [Unified Agenda of Federal Regulatory and Deregulatory Actions-Spring 2016](https://www.federalregister.gov/documents/2016/06/09/2016-12933/unified-agenda-of-federal-regulatory-and-deregulatory-actions-spring-2016) (2016-06-09) - Federal Communications Commission
-- [Unified Agenda of Federal Regulatory and Deregulatory Actions-Fall 2015](https://www.federalregister.gov/documents/2015/12/15/2015-30673/unified-agenda-of-federal-regulatory-and-deregulatory-actions-fall-2015) (2015-12-15) - Federal Communications Commission
-- [Unified Agenda of Federal Regulatory and Deregulatory Actions-Spring 2015](https://www.federalregister.gov/documents/2015/06/18/2015-14375/unified-agenda-of-federal-regulatory-and-deregulatory-actions-spring-2015) (2015-06-18) - Federal Communications Commission
+- [Cybersecurity Maturity Model Certification (CMMC) Program](https://www.federalregister.gov/documents/2023/12/26/2023-27280/cybersecurity-maturity-model-certification-cmmc-program) (VERIFIED) (2023-12-26) - Defense Department
+- [Unified Agenda of Federal Regulatory and Deregulatory Actions-Spring 2017](https://www.federalregister.gov/documents/2017/08/24/2017-16981/unified-agenda-of-federal-regulatory-and-deregulatory-actions-spring-2017) (VERIFIED) (2017-08-24) - Federal Communications Commission
+- [Unified Agenda of Federal Regulatory and Deregulatory Actions-Fall 2016](https://www.federalregister.gov/documents/2016/12/23/2016-29927/unified-agenda-of-federal-regulatory-and-deregulatory-actions-fall-2016) (VERIFIED) (2016-12-23) - Federal Communications Commission
+- [Unified Agenda of Federal Regulatory and Deregulatory Actions-Spring 2016](https://www.federalregister.gov/documents/2016/06/09/2016-12933/unified-agenda-of-federal-regulatory-and-deregulatory-actions-spring-2016) (VERIFIED) (2016-06-09) - Federal Communications Commission
+- [Unified Agenda of Federal Regulatory and Deregulatory Actions-Fall 2015](https://www.federalregister.gov/documents/2015/12/15/2015-30673/unified-agenda-of-federal-regulatory-and-deregulatory-actions-fall-2015) (VERIFIED) (2015-12-15) - Federal Communications Commission
+- [Unified Agenda of Federal Regulatory and Deregulatory Actions-Spring 2015](https://www.federalregister.gov/documents/2015/06/18/2015-14375/unified-agenda-of-federal-regulatory-and-deregulatory-actions-spring-2015) (VERIFIED) (2015-06-18) - Federal Communications Commission
 - ... and 7 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Telecom%20Industry%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Telecom%20Industry%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->

@@ -34,7 +34,7 @@ The Occupy livestreamer became the pipeline for Russian state media content. The
 
 The FEC API returns 1,231 results for "pool, tim", a demographic bottleneck. Filtering by known state of residence (Texas during podcast era) and employer (YouTube/Timcast, self-employed, media/commentary) reveals no confirmed contributions from the Timcast host. The most likely conclusion is $0 personal political giving, consistent with other right-wing media figures in this vault. However, the name frequency and lack of unique identifying information in FEC records prevents definitive confirmation.
 
-- [FEC: Tim Pool individual contributions (1,231 results, requires disambiguation)](https://www.fec.gov/data/receipts/?contributor_name=pool%2C+tim) (Tier 1)
+- [FEC: Tim Pool individual contributions (1,231 results, requires disambiguation)](https://www.fec.gov/data/receipts/?contributor_name=pool%2C+tim) (Tier 1) (VERIFIED)
 
 > **Disambiguation note:** The FEC API search for "pool, tim" returns 1,231 results, "Tim" and "Pool" are both extremely common names. Filtering by Texas (known state of residence during podcast era) and self-employed/media occupation yields no confirmed matches to the Timcast media personality. The volume of results (1,231) indicates the name is too common for definitive API matching without biographical data in the FEC records themselves. Best available evidence: $0 personal contributions from the media figure, though disambiguation cannot be conclusively established via API alone.
 
@@ -172,18 +172,18 @@ Who benefits from Tim Pool's platform existing?
 
 ### Sources
 
-- [DOJ / SDNY Press Release: Two RT Employees Indicted for Covertly Funding and Directing U.S. Company](https://www.justice.gov/usao-sdny/pr/two-rt-employees-indicted-covertly-funding-and-directing-us-company-published) (Tier 1)
-- [DOJ Indictment: U.S. v. Kalashnikov and Afanasyeva (PDF)](https://www.justice.gov/d9/2024-09/u.s._v._kalashnikov_and_afanasyeva_indictment_0.pdf) (Tier 1)
-- [CNN Politics: Tenet Media. DOJ alleges Russia funded US company linked to Tim Pool and Benny Johnson](https://www.cnn.com/2024/09/04/politics/doj-alleges-russia-funded-company-linked-social-media-stars) (Tier 2)
-- [CBS News: U.S. says Russia funded media company that paid right-wing influencers millions for videos](https://www.cbsnews.com/news/russia-tenet-media-right-wing-influencers-justice-department/) (Tier 2)
-- [Washington Post: Inside Tenet Media, the pro-Trump 'supergroup' allegedly funded by Russia](https://www.washingtonpost.com/style/media/2024/09/05/tenet-media-russia-rt-tim-pool/) (Tier 2)
-- [NPR: How Russian operatives covertly hired U.S. influencers to create viral videos](https://www.npr.org/2024/09/05/nx-s1-5100829/russia-election-influencers-youtube) (Tier 2)
-- [CNN Business: Right-wing influencers say they were dupes, they're keeping their millions, for now](https://www.cnn.com/2024/09/13/media/right-wing-media-influencers-tenet-russian-money) (Tier 2)
-- [PBS NewsHour: Well-known right-wing influencers duped to work for covert Russian operation](https://www.pbs.org/newshour/politics/well-known-right-wing-influencers-duped-to-work-for-covert-russian-operation-u-s-prosecutors-say) (Tier 2)
-- [The Daily Beast: Tim Pool Was Paid by Russia But Will Join White House Press Pool](https://www.thedailybeast.com/tim-pool-was-paid-by-russia-but-will-joins-white-house-press-pool/) (Tier 2)
-- [SPLC Hatewatch: YouTube Profiting From Timcast IRL, Study Finds](https://www.splcenter.org/resources/hatewatch/youtube-profiting-timcast-irl-study-finds/) (Tier 2)
-- [Media Matters: Right-wing YouTuber Tim Pool has raised over $1.3 million from Super Chat donations](https://www.mediamatters.org/google/right-wing-youtuber-tim-pool-has-raised-over-13-million-super-chat-donations-platform) (Tier 2)
-- [Nieman Journalism Lab: How Tim Pool went from covering Occupy Wall Street to "dangerously whitewashing the far right"](https://www.niemanlab.org/reading/how-tim-pool-went-from-covering-occupy-wall-street-to-dangerously-whitewashing-the-far-right/) (Tier 2)
-- [Wikipedia: Tim Pool](https://en.wikipedia.org/wiki/Tim_Pool) (Tier 3)
-- [Wikipedia: 2024 Tenet Media investigation](https://en.wikipedia.org/wiki/2024_Tenet_Media_investigation) (Tier 3)
+- [DOJ / SDNY Press Release: Two RT Employees Indicted for Covertly Funding and Directing U.S. Company](https://www.justice.gov/usao-sdny/pr/two-rt-employees-indicted-covertly-funding-and-directing-us-company-published) (Tier 1) (VERIFIED)
+- [DOJ Indictment: U.S. v. Kalashnikov and Afanasyeva (PDF)](https://www.justice.gov/d9/2024-09/u.s._v._kalashnikov_and_afanasyeva_indictment_0.pdf) (Tier 1) (VERIFIED)
+- [CNN Politics: Tenet Media. DOJ alleges Russia funded US company linked to Tim Pool and Benny Johnson](https://www.cnn.com/2024/09/04/politics/doj-alleges-russia-funded-company-linked-social-media-stars) (Tier 2) (VERIFIED)
+- [CBS News: U.S. says Russia funded media company that paid right-wing influencers millions for videos](https://www.cbsnews.com/news/russia-tenet-media-right-wing-influencers-justice-department/) (Tier 2) (VERIFIED)
+- ~~[Washington Post: Inside Tenet Media, the pro-Trump 'supergroup' allegedly funded by Russia](https://www.washingtonpost.com/style/media/2024/09/05/tenet-media-russia-rt-tim-pool/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [NPR: How Russian operatives covertly hired U.S. influencers to create viral videos](https://www.npr.org/2024/09/05/nx-s1-5100829/russia-election-influencers-youtube) (Tier 2) (VERIFIED)
+- [CNN Business: Right-wing influencers say they were dupes, they're keeping their millions, for now](https://www.cnn.com/2024/09/13/media/right-wing-media-influencers-tenet-russian-money) (Tier 2) (VERIFIED)
+- [PBS NewsHour: Well-known right-wing influencers duped to work for covert Russian operation](https://www.pbs.org/newshour/politics/well-known-right-wing-influencers-duped-to-work-for-covert-russian-operation-u-s-prosecutors-say) (Tier 2) (VERIFIED)
+- [The Daily Beast: Tim Pool Was Paid by Russia But Will Join White House Press Pool](https://www.thedailybeast.com/tim-pool-was-paid-by-russia-but-will-joins-white-house-press-pool/) (Tier 2) (VERIFIED)
+- [SPLC Hatewatch: YouTube Profiting From Timcast IRL, Study Finds](https://www.splcenter.org/resources/hatewatch/youtube-profiting-timcast-irl-study-finds/) (Tier 2) (VERIFIED)
+- [Media Matters: Right-wing YouTuber Tim Pool has raised over $1.3 million from Super Chat donations](https://www.mediamatters.org/google/right-wing-youtuber-tim-pool-has-raised-over-13-million-super-chat-donations-platform) (Tier 2) (VERIFIED)
+- [Nieman Journalism Lab: How Tim Pool went from covering Occupy Wall Street to "dangerously whitewashing the far right"](https://www.niemanlab.org/reading/how-tim-pool-went-from-covering-occupy-wall-street-to-dangerously-whitewashing-the-far-right/) (Tier 2) (VERIFIED)
+- [Wikipedia: Tim Pool](https://en.wikipedia.org/wiki/Tim_Pool) (Tier 3) (VERIFIED)
+- [Wikipedia: 2024 Tenet Media investigation](https://en.wikipedia.org/wiki/2024_Tenet_Media_investigation) (Tier 3) (VERIFIED)
 

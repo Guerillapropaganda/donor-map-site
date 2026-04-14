@@ -13,7 +13,7 @@ profiles:
 
 ## Sam Altman’s ‘New Deal’ for superintelligence
 
-**Source:** [The Hill](https://thehill.com/newsletters/technology/5818609-sam-altman-openai-superintelligence/)
+**Source:** ~~[The Hill](https://thehill.com/newsletters/technology/5818609-sam-altman-openai-superintelligence/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-06
 
 {beacon} Technology The Big Story Sam Altman’s ‘New Deal’ for superintelligence OpenAI unveiled a series of policy proposals Monday, with hopes the conversation will lead to a new “social contract” in a world with artificial intelligence. © AP Photo The policy blueprint, published Monday, suggests superintelligence, an AI that will surpass the smartest humans,…

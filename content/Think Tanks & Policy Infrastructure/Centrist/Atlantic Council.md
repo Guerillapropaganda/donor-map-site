@@ -221,21 +221,21 @@ The Burisma scandal reveals the corruption beneath the prestige. A Ukrainian ene
 
 ### Sources
 
-- [ProPublica Nonprofit Explorer: Atlantic Council of the U S Inc, Form 990 data (EIN 52-0742294)](https://projects.propublica.org/nonprofits/organizations/520742294) (Tier 1)
-- [Wikipedia: Atlantic Council](https://en.wikipedia.org/wiki/Atlantic_Council) (Tier 3)
-- [InfluenceWatch: Atlantic Council](https://www.influencewatch.org/non-profit/atlantic-council/) (Tier 3)
-- [Think Tank Funding Tracker: Atlantic Council](https://thinktankfundingtracker.org/think-tank/atlantic-council/) (Tier 1)
-- [Quincy Institute: Big Ideas and Big Money. Think Tank Funding in America](https://quincyinst.org/research/big-ideas-and-big-money-think-tank-funding-in-america/) (Tier 2)
-- [Responsible Statecraft: Weapons firms, donors tied to industry-friendly Atlantic Council report (2023)](https://responsiblestatecraft.org/2023/07/06/weapons-firms-have-ties-to-industry-friendly-think-tank-report/) (Tier 2)
-- [Responsible Statecraft: Think tank staffer stumped when asked about arms industry funding](https://responsiblestatecraft.org/atlantic-council-weapons-funding/) (Tier 2)
-- [Responsible Statecraft: Weapons makers, foreign states lavish $32 million on US think tanks](https://responsiblestatecraft.org/think-tank-funding-tracker/) (Tier 2)
-- [Washington Free Beacon: The UAE Has Donated Millions to the Atlantic Council. They Just Got a Glowing Op-Ed From the Think Tank's Chief](https://freebeacon.com/national-security/the-uae-has-donated-millions-to-the-atlantic-council-they-just-got-a-glowing-op-ed-from-the-think-tanks-chief/) (Tier 2)
-- [Consortium News: DC's Atlantic Council Raked in Funding from Hunter Biden's Corruption-Stained Ukrainian Employer While Courting His VP Father (2019)](https://consortiumnews.com/2019/10/14/dcs-atlantic-council-raked-in-funding-from-hunter-bidens-corruption-stained-ukrainian-employer-while-courting-his-vp-father/) (Tier 2)
-- [American Prospect: Corruption at the Fifth Estate (2023)](https://prospect.org/2023/02/24/2023-02-24-based-corruption-fifth-estate-think-tanks/) (Tier 2)
-- [Atlantic Council: 2024 Honor Roll of Contributors](https://www.atlanticcouncil.org/in-depth-research-reports/report/2024-annual-report-honor-roll/) (Tier 3)
-- [Atlantic Council: Digital Forensic Research Lab](https://www.atlanticcouncil.org/programs/digital-forensic-research-lab/) (Tier 3)
-- [Brownstone Institute: Atlantic Council Takes Up the Censorship Sword. DFRLab Virality Project analysis (2023)](https://brownstone.org/articles/atlantic-council-takes-up-censorship-sword/) (Tier 3)
-- [Racket News (Matt Taibbi): Twitter Files Extra. How the World's "No-Kidding Decision Makers" Got Organized. DFRLab censorship-industrial complex role](https://www.racket.news/p/twitter-files-extra-how-the-worlds) (Tier 2)
+- [ProPublica Nonprofit Explorer: Atlantic Council of the U S Inc, Form 990 data (EIN 52-0742294)](https://projects.propublica.org/nonprofits/organizations/520742294) (Tier 1) (VERIFIED)
+- [Wikipedia: Atlantic Council](https://en.wikipedia.org/wiki/Atlantic_Council) (Tier 3) (VERIFIED)
+- [InfluenceWatch: Atlantic Council](https://www.influencewatch.org/non-profit/atlantic-council/) (Tier 3) (VERIFIED)
+- [Think Tank Funding Tracker: Atlantic Council](https://thinktankfundingtracker.org/think-tank/atlantic-council/) (Tier 1) (VERIFIED)
+- [Quincy Institute: Big Ideas and Big Money. Think Tank Funding in America](https://quincyinst.org/research/big-ideas-and-big-money-think-tank-funding-in-america/) (Tier 2) (VERIFIED)
+- [Responsible Statecraft: Weapons firms, donors tied to industry-friendly Atlantic Council report (2023)](https://responsiblestatecraft.org/2023/07/06/weapons-firms-have-ties-to-industry-friendly-think-tank-report/) (Tier 2) (VERIFIED)
+- [Responsible Statecraft: Think tank staffer stumped when asked about arms industry funding](https://responsiblestatecraft.org/atlantic-council-weapons-funding/) (Tier 2) (VERIFIED)
+- [Responsible Statecraft: Weapons makers, foreign states lavish $32 million on US think tanks](https://responsiblestatecraft.org/think-tank-funding-tracker/) (Tier 2) (VERIFIED)
+- [Washington Free Beacon: The UAE Has Donated Millions to the Atlantic Council. They Just Got a Glowing Op-Ed From the Think Tank's Chief](https://freebeacon.com/national-security/the-uae-has-donated-millions-to-the-atlantic-council-they-just-got-a-glowing-op-ed-from-the-think-tanks-chief/) (Tier 2) (VERIFIED)
+- [Consortium News: DC's Atlantic Council Raked in Funding from Hunter Biden's Corruption-Stained Ukrainian Employer While Courting His VP Father (2019)](https://consortiumnews.com/2019/10/14/dcs-atlantic-council-raked-in-funding-from-hunter-bidens-corruption-stained-ukrainian-employer-while-courting-his-vp-father/) (Tier 2) (VERIFIED)
+- [American Prospect: Corruption at the Fifth Estate (2023)](https://prospect.org/2023/02/24/2023-02-24-based-corruption-fifth-estate-think-tanks/) (Tier 2) (VERIFIED)
+- [Atlantic Council: 2024 Honor Roll of Contributors](https://www.atlanticcouncil.org/in-depth-research-reports/report/2024-annual-report-honor-roll/) (Tier 3) (VERIFIED)
+- [Atlantic Council: Digital Forensic Research Lab](https://www.atlanticcouncil.org/programs/digital-forensic-research-lab/) (Tier 3) (VERIFIED)
+- [Brownstone Institute: Atlantic Council Takes Up the Censorship Sword. DFRLab Virality Project analysis (2023)](https://brownstone.org/articles/atlantic-council-takes-up-censorship-sword/) (Tier 3) (VERIFIED)
+- [Racket News (Matt Taibbi): Twitter Files Extra. How the World's "No-Kidding Decision Makers" Got Organized. DFRLab censorship-industrial complex role](https://www.racket.news/p/twitter-files-extra-how-the-worlds) (Tier 2) (VERIFIED)
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->
@@ -247,7 +247,7 @@ The Burisma scandal reveals the corruption beneath the prestige. A Ukrainian ene
 | IRS Ruling Date | 2016-12-01 |
 | Filings on Record | 0 |
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/813729813) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/813729813) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Federal Register Activity
@@ -261,22 +261,22 @@ The Burisma scandal reveals the corruption beneath the prestige. A Ukrainian ene
 | Agencies | Commerce Department, Industry and Security Bureau, Labor Department, National Oceanic and Atmospheric Administration, Occupational Safety and Health Administration |
 
 **Recent regulatory activity:**
-- [Fisheries of the Northeastern United States; Mid-Atlantic Blueline Tilefish and Golden Tilefish Fisheries; 2026 Specifications](https://www.federalregister.gov/documents/2026/03/30/2026-06102/fisheries-of-the-northeastern-united-states-mid-atlantic-blueline-tilefish-and-golden-tilefish) (2026-03-30) — Commerce Department
-- [Gulf Fishery Management Council; Public Meeting](https://www.federalregister.gov/documents/2026/03/10/2026-04699/gulf-fishery-management-council-public-meeting) (2026-03-10) — Commerce Department
-- [Electronic Logbook Reporting in Commercial Fisheries of the Gulf of America and Atlantic](https://www.federalregister.gov/documents/2025/11/20/2025-20491/electronic-logbook-reporting-in-commercial-fisheries-of-the-gulf-of-america-and-atlantic) (2025-11-20) — Commerce Department
-- [New England Fishery Management Council; Public Meeting](https://www.federalregister.gov/documents/2025/08/20/2025-15893/new-england-fishery-management-council-public-meeting) (2025-08-20) — Commerce Department
-- [Gulf Council Fishery Management Council; Public Meeting](https://www.federalregister.gov/documents/2025/08/13/2025-15367/gulf-council-fishery-management-council-public-meeting) (2025-08-13) — Commerce Department
-- [South Atlantic Fishery Management Council (Council); Public Meetings](https://www.federalregister.gov/documents/2025/07/28/2025-14178/south-atlantic-fishery-management-council-council-public-meetings) (2025-07-28) — Commerce Department
+- [Fisheries of the Northeastern United States; Mid-Atlantic Blueline Tilefish and Golden Tilefish Fisheries; 2026 Specifications](https://www.federalregister.gov/documents/2026/03/30/2026-06102/fisheries-of-the-northeastern-united-states-mid-atlantic-blueline-tilefish-and-golden-tilefish) (VERIFIED) (2026-03-30) — Commerce Department
+- [Gulf Fishery Management Council; Public Meeting](https://www.federalregister.gov/documents/2026/03/10/2026-04699/gulf-fishery-management-council-public-meeting) (VERIFIED) (2026-03-10) — Commerce Department
+- [Electronic Logbook Reporting in Commercial Fisheries of the Gulf of America and Atlantic](https://www.federalregister.gov/documents/2025/11/20/2025-20491/electronic-logbook-reporting-in-commercial-fisheries-of-the-gulf-of-america-and-atlantic) (VERIFIED) (2025-11-20) — Commerce Department
+- [New England Fishery Management Council; Public Meeting](https://www.federalregister.gov/documents/2025/08/20/2025-15893/new-england-fishery-management-council-public-meeting) (VERIFIED) (2025-08-20) — Commerce Department
+- ~~[Gulf Council Fishery Management Council; Public Meeting](https://www.federalregister.gov/documents/2025/08/13/2025-15367/gulf-council-fishery-management-council-public-meeting)~~ (URL broken, archived by Ops) (2025-08-13) — Commerce Department
+- [South Atlantic Fishery Management Council (Council); Public Meetings](https://www.federalregister.gov/documents/2025/07/28/2025-14178/south-atlantic-fishery-management-council-council-public-meetings) (VERIFIED) (2025-07-28) — Commerce Department
 - ... and 606 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Atlantic%20Council%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Atlantic%20Council%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [213800383E8Z6FGMAH59](https://search.gleif.org/#/record/213800383E8Z6FGMAH59) |
+| LEI | [213800383E8Z6FGMAH59](https://search.gleif.org/#/record/213800383E8Z6FGMAH59) (VERIFIED) |
 | Legal Name | THE COUNTY COUNCIL OF THE CITY AND COUNTY OF CARDIFF |
 | Jurisdiction | GB |
 | Entity Status | ACTIVE |
@@ -284,5 +284,5 @@ The Burisma scandal reveals the corruption beneath the prestige. A Ukrainian ene
 | Registration | LAPSED |
 | Last Updated | 2025-01-19T00:05:10Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->

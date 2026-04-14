@@ -49,8 +49,8 @@ The company's private ownership is politically decisive: unlike publicly traded 
 
 Koch Industries' political operation is inseparable from the [[Koch Network - Charles Koch|Koch Network]] — the $400+ million/cycle political infrastructure that includes [[Americans for Prosperity]], [[Stand Together]], [[DonorsTrust]], and dozens of subsidiary organizations. Koch Industries provides the revenue; the network provides the political machinery. Together, they represent the most extensive private political operation in American history.
 
-- [OpenSecrets: Koch Industries organizational profile](https://www.opensecrets.org/orgs/koch-industries/summary?id=D000000186) (Tier 1)
-- [Bloomberg Billionaires Index: Charles Koch](https://www.bloomberg.com/billionaires/profiles/charles-d-koch/) (Tier 1)
+- [OpenSecrets: Koch Industries organizational profile](https://www.opensecrets.org/orgs/koch-industries/summary?id=D000000186) (Tier 1) (VERIFIED)
+- ~~[Bloomberg Billionaires Index: Charles Koch](https://www.bloomberg.com/billionaires/profiles/charles-d-koch/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -124,13 +124,13 @@ Georgia-Pacific has been a consistent target of EPA regulation regarding formald
 Koch and Georgia-Pacific have fought EPA designations of formaldehyde as a human carcinogen (2007-present), opposed dioxin classification, and resisted PFAS restrictions. The company's resistance to chemical safety regulation is economically rational: stricter standards require equipment upgrades and process changes that cost billions.
 
 - Koch Industries Fossil Fuel Holdings (Tier 3) (URL NEEDED) (UNVERIFIED)
-- [Forbes: Wever Fertilizer plant acquired by Koch](https://www.forbes.com/sites/moesbachs/2024/08/07/koch-fertilizer-expands-with-36-billion-iowa-acquisition/) (Tier 2) (UNVERIFIED)
+- ~~[Forbes: Wever Fertilizer plant acquired by Koch](https://www.forbes.com/sites/moesbachs/2024/08/07/koch-fertilizer-expands-with-36-billion-iowa-acquisition/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 
 **2024-2025 priority:** Koch's public-sector lobbying arm (Koch Cos. Public Sector) boosted lobbying to $4.1 million specifically targeting California's ability to set vehicle emission standards. Koch is aggressively lobbying on Congressional Review Act resolutions to nullify EPA's waiver for California's Advanced Clean Trucks rule, California's Advanced Clean Cars II regulations, and California's Low NOx regulations for heavy-duty trucks. The goal: prevent any state from setting emission standards stricter than federal minimums, which effectively makes the most lenient federal standard the nationwide ceiling.
 
 Charles Koch's libertarian ideology provides the intellectual framework, but the policy agenda is economically self-interested at every point. Koch Industries benefits directly from every regulation it lobbies against.
 
-- [Legis1: Koch boosts lobbying to $4.1M against vehicle emission rules](https://legis1.com/news/koch-cos-public-sector-boosts-lobbying-to-4-1m-in-aggressive-push-against-vehicle-emission-rules/) (Tier 2)
+- [Legis1: Koch boosts lobbying to $4.1M against vehicle emission rules](https://legis1.com/news/koch-cos-public-sector-boosts-lobbying-to-4-1m-in-aggressive-push-against-vehicle-emission-rules/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -179,10 +179,10 @@ Koch Industries actively lobbied Congress to lift the 1975 crude oil export ban.
 
 Why Koch cared: Koch's Flint Hills refineries process heavy Canadian crude that would have been "stranded" domestically if the ban remained. More importantly, Koch's commodity trading arm (Koch Supply & Trading) positioned itself to profit from crude export arbitrage once the ban lifted. The network opposed renewable subsidies because they compete with fossil fuels for investor capital and create political constituencies opposing Koch's core business.
 
-- [Center for Public Integrity – Koch Web of Influence](https://publicintegrity.org/politics/kochs-web-of-influence/) (Tier 2)
-- [OpenSecrets – Koch Lobbying Detail 2023-2024](https://lda.gov/filings/public/filing/search/) (Tier 1) (UNVERIFIED)
-- [POLITICO – Former Koch official EPA chemicals](https://www.politico.com/story/2019/02/04/former-koch-official-runs-epa-chemical-research-1136230) (Tier 2) (UNVERIFIED)
-- [Energy and Policy Institute – AFP Leads Fossil Fuel Push](https://energyandpolicy.org/americans-for-prosperity-leads-fossil-fuel-front-group-push-for-crude-oil-exports-anti-renewables-lobbying/) (Tier 2)
+- [Center for Public Integrity – Koch Web of Influence](https://publicintegrity.org/politics/kochs-web-of-influence/) (Tier 2) (VERIFIED)
+- [OpenSecrets – Koch Lobbying Detail 2023-2024](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED) (UNVERIFIED)
+- [POLITICO – Former Koch official EPA chemicals](https://www.politico.com/story/2019/02/04/former-koch-official-runs-epa-chemical-research-1136230) (Tier 2) (VERIFIED) (UNVERIFIED)
+- [Energy and Policy Institute – AFP Leads Fossil Fuel Push](https://energyandpolicy.org/americans-for-prosperity-leads-fossil-fuel-front-group-push-for-crude-oil-exports-anti-renewables-lobbying/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -219,7 +219,7 @@ KochPAC (FEC ID: C00236489) has operated since 1995 with remarkable consistency:
 
 All were energy/agriculture district Democrats. By 2024, even these last three were eliminated. Individual Koch employee contributions to Kamala Harris in 2024 were $29,641 — but corporate PAC gave her zero.
 
-- [OpenSecrets: KochPAC summary 2024](https://www.opensecrets.org/political-action-committees-pacs/koch-inc/C00236489/summary/2024) (Tier 1) (UNVERIFIED)
+- [OpenSecrets: KochPAC summary 2024](https://www.opensecrets.org/political-action-committees-pacs/koch-inc/C00236489/summary/2024) (Tier 1) (VERIFIED) (UNVERIFIED)
 
 ---
 
@@ -251,8 +251,8 @@ Koch Inc. PAC raised $3.6 million in the 2023-2024 cycle and distributed $1.69 m
 
 2014 cycle total PAC contributions: $11,192,625, including $7 million to Freedom Partners Action Fund (dark money super PAC).
 
-- [OpenSecrets: Koch Industries PAC recipient breakdown 2024](https://www.opensecrets.org/political-action-committees-pacs/C00236489/candidate-recipients/2024) (Tier 1) (UNVERIFIED)
-- [OpenSecrets: Koch Industries PAC recipients 2014](https://www.opensecrets.org/orgs/summary?id=d000000186&cycle=2014) (Tier 1) (UNVERIFIED)
+- [OpenSecrets: Koch Industries PAC recipient breakdown 2024](https://www.opensecrets.org/political-action-committees-pacs/C00236489/candidate-recipients/2024) (Tier 1) (VERIFIED) (UNVERIFIED)
+- [OpenSecrets: Koch Industries PAC recipients 2014](https://www.opensecrets.org/orgs/summary?id=d000000186&cycle=2014) (Tier 1) (VERIFIED) (UNVERIFIED)
 
 ---
 
@@ -272,9 +272,9 @@ Koch Inc. PAC raised $3.6 million in the 2023-2024 cycle and distributed $1.69 m
 
 **Key staff-to-politics pipeline:** Americans for Prosperity's CEO Emily Seidel previously served as Koch Companies Public Sector's director of special projects. AFP Board Chair Mark Holden is a former Koch Industries senior vice president. The staff pipeline between Koch Industries and its political network is institutionalized.
 
-- [OpenSecrets: Koch Inc PAC 2024 contributions](https://www.opensecrets.org/political-action-committees-pacs/C00236489/candidate-recipients/2024) (Tier 1)
-- [OpenSecrets: Koch network super PAC pours big money into 2024 elections](https://www.opensecrets.org/news/2024/08/koch-network-flagship-super-pac-pours-big-money-into-2024-elections/) (Tier 1)
-- [OpenSecrets: Koch Industries summary (2024)](https://www.opensecrets.org/orgs/koch-industries/summary?id=D000000186) (Tier 1)
+- [OpenSecrets: Koch Inc PAC 2024 contributions](https://www.opensecrets.org/political-action-committees-pacs/C00236489/candidate-recipients/2024) (Tier 1) (VERIFIED)
+- [OpenSecrets: Koch network super PAC pours big money into 2024 elections](https://www.opensecrets.org/news/2024/08/koch-network-flagship-super-pac-pours-big-money-into-2024-elections/) (Tier 1) (VERIFIED)
+- [OpenSecrets: Koch Industries summary (2024)](https://www.opensecrets.org/orgs/koch-industries/summary?id=D000000186) (Tier 1) (VERIFIED)
 
 ---
 
@@ -314,12 +314,12 @@ Koch Industries' lobbying against environmental regulation exists alongside one 
 > [!contradiction] The Company That Wrote the Deregulation Playbook
 > Koch Industries has paid $800+ million in federal environmental penalties, pleaded guilty to criminal environmental violations, and accumulated 150 state environmental settlements. The same company funds the network — AFP, ALEC, Competitive Enterprise Institute, Federalist Society — that has successfully gutted the regulatory agencies responsible for enforcing environmental law. Koch doesn't just lobby against regulation; it funds the legal infrastructure that limits regulatory authority (West Virginia v. EPA), the state-level model legislation that preempts local environmental protections (ALEC), and the electoral campaigns that install politicians who defund enforcement agencies. The company most frequently penalized for environmental violations is the company most responsible for dismantling environmental enforcement.
 
-- [DOJ: Koch Industries indicted for environmental crimes at refinery (2000)](https://www.justice.gov/archive/opa/pr/2000/September/573enrd.htm) (Tier 1)
-- [DOJ: Koch pleads guilty to covering up environmental violations (2001)](https://www.justice.gov/archive/opa/pr/2001/April/153enrd.htm) (Tier 1)
-- [EPA: Koch Industries oil spills settlement](https://www.epa.gov/enforcement/koch-industries-inc-oil-spills-settlement) (Tier 1)
-- [EPA: Koch Petroleum Group refinery settlement](https://www.epa.gov/enforcement/koch-petroleum-group-lp-refinery-settlement) (Tier 1)
-- [CMD/EXPOSEDbyCMD: Koch Industries amassed 150 penalties in 20 states](https://www.exposedbycmd.org/2021/03/29/koch-industries-amassed-150-penalties-for-state-environmental-violations-in-20-states/) (Tier 2)
-- [Good Jobs First Violation Tracker: Koch Industries](https://violationtracker.goodjobsfirst.org/parent/koch-industries) (Tier 2)
+- [DOJ: Koch Industries indicted for environmental crimes at refinery (2000)](https://www.justice.gov/archive/opa/pr/2000/September/573enrd.htm) (Tier 1) (VERIFIED)
+- [DOJ: Koch pleads guilty to covering up environmental violations (2001)](https://www.justice.gov/archive/opa/pr/2001/April/153enrd.htm) (Tier 1) (VERIFIED)
+- [EPA: Koch Industries oil spills settlement](https://www.epa.gov/enforcement/koch-industries-inc-oil-spills-settlement) (Tier 1) (VERIFIED)
+- [EPA: Koch Petroleum Group refinery settlement](https://www.epa.gov/enforcement/koch-petroleum-group-lp-refinery-settlement) (Tier 1) (VERIFIED)
+- ~~[CMD/EXPOSEDbyCMD: Koch Industries amassed 150 penalties in 20 states](https://www.exposedbycmd.org/2021/03/29/koch-industries-amassed-150-penalties-for-state-environmental-violations-in-20-states/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Good Jobs First Violation Tracker: Koch Industries](https://violationtracker.goodjobsfirst.org/parent/koch-industries) (Tier 2) (VERIFIED)
 
 ---
 
@@ -381,9 +381,9 @@ Koch Industries' federal lobbying spending reveals the company's strategic prior
 > [!money] The Escalation Pattern
 > Koch's lobbying spending quadrupled from 1998-2005 ($200K to $1.2M annually). After 2005 reorganization, it expanded explosively: 2006-2008 saw a 4.3x spike during the cap-and-trade fight. The 2008 peak ($17.93M) represents Koch's maximum urgency moment — over 1% of annual revenue spent in a single year to defeat climate legislation. After climate bills died (2009-2010), spending stabilized at $8-13M annually, suggesting a sustainable level of regulatory maintenance spending. This is the cost of perpetual deregulation vigilance.
 
-- [Senate LDA Filings: Koch Industries lobbying expenditures](https://lda.gov/filings/public/filing/search/) (Tier 1) (UNVERIFIED)
-- [DeSmog: Koch Industries federal lobbying 1998-2017 total](https://www.desmog.com/koch-industries-inc-lobbying-activities/) (Tier 2)
-- [Greenpeace: Koch direct lobbying expenditures](https://www.greenpeace.org/global/usa/climate/climate-deniers/koch-industries/koch-federal-direct-lobbying-expenditures/) (Tier 2)
+- [Senate LDA Filings: Koch Industries lobbying expenditures](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED) (UNVERIFIED)
+- [DeSmog: Koch Industries federal lobbying 1998-2017 total](https://www.desmog.com/koch-industries-inc-lobbying-activities/) (Tier 2) (VERIFIED)
+- ~~[Greenpeace: Koch direct lobbying expenditures](https://www.greenpeace.org/global/usa/climate/climate-deniers/koch-industries/koch-federal-direct-lobbying-expenditures/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ---
 
@@ -413,7 +413,7 @@ Koch Industries' lobbying is concentrated in oil & gas (96% of 1998-2017 spendin
 
 **Subsidiary Consolidation Strategy:** In 2005, Koch reorganized subsidiary lobbying under Koch Companies Public Sector LLC, a single shell entity. This allowed the company to maintain the appearance of decentralized operations while consolidating reporting and coordination.
 
-- [Senate LDA Filings: Koch Industries lobbying by subsidiary](https://lda.gov/filings/public/filing/search/) (Tier 1) (UNVERIFIED)
+- [Senate LDA Filings: Koch Industries lobbying by subsidiary](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED) (UNVERIFIED)
 
 ---
 
@@ -430,9 +430,9 @@ Core objective: Oppose greenhouse gas regulation under Clean Air Act; block new 
 - West Virginia v. EPA (2022): 5 Koch-funded groups filed amicus briefs arguing EPA lacked authority to regulate greenhouse gases; Supreme Court ruled 6-3 for Koch's position
 - 2025: Lobbying Congressional Review Act resolutions (H.J.Res. 87, 88, 89) to nullify California's emission waivers for Advanced Clean Trucks and Advanced Clean Cars II rules
 
-- [Senate LDA filings: Koch Industries EPA regulation opposition](https://lda.gov/filings/public/filing/20a6dd56-a7e6-427f-8301-fd253f7bf1bc/print/) (Tier 1)
-- [Vice: Koch Industries EPA Supreme Court climate change](https://www.vice.com/en/article/koch-brothers-epa-supreme-court-climate-change/) (Tier 2)
-- [Jacobin: Charles Koch EPA carbon emissions Supreme Court](https://jacobin.com/2022/02/charles-koch-epa-carbon-emissions-supreme-court) (Tier 2)
+- [Senate LDA filings: Koch Industries EPA regulation opposition](https://lda.gov/filings/public/filing/20a6dd56-a7e6-427f-8301-fd253f7bf1bc/print/) (Tier 1) (VERIFIED)
+- [Vice: Koch Industries EPA Supreme Court climate change](https://www.vice.com/en/article/koch-brothers-epa-supreme-court-climate-change/) (Tier 2) (VERIFIED)
+- [Jacobin: Charles Koch EPA carbon emissions Supreme Court](https://jacobin.com/2022/02/charles-koch-epa-carbon-emissions-supreme-court) (Tier 2) (VERIFIED)
 
 ### B. Climate Policy — Cap-and-Trade, Paris Agreement, Green Deal
 
@@ -484,8 +484,8 @@ Beyond federal lobbying, [[Americans for Prosperity|AFP]] drove state-level righ
 - 2019-2021: Koch Industries lobbied against voting rights expansion provisions that could increase voter registration and participation — which polls show would increase Democratic electoral outcomes
 - Labor organizing provisions in H.R. 1: Koch Industries opposition to Protecting the Right to Organize (PRO) Act provisions that would strengthen union certification and reduce employer retaliation capacity
 
-- [EPI: NLRB Reinstates 2020 Joint Employer Rule](https://www.epi.org/policywatch/nlrb-reinstates-2020-joint-employer-rule-that-will-make-it-harder-for-workers-to-join-unions-and-bargain-contracts/) (Tier 2) (UNVERIFIED)
-- [New York Times: How Trump Betrays Forgotten Americans (Sep 2018)](https://www.nytimes.com/2018/09/03/opinion/trump-betrays-forgotten-americans-greenhouse.html) (Tier 2) (UNVERIFIED)
+- ~~[EPI: NLRB Reinstates 2020 Joint Employer Rule](https://www.epi.org/policywatch/nlrb-reinstates-2020-joint-employer-rule-that-will-make-it-harder-for-workers-to-join-unions-and-bargain-contracts/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[New York Times: How Trump Betrays Forgotten Americans (Sep 2018)](https://www.nytimes.com/2018/09/03/opinion/trump-betrays-forgotten-americans-greenhouse.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 
 ### F. Financial Regulation — Dodd-Frank and CFTC Transparency
 
@@ -544,15 +544,15 @@ While [[Koch Industries|Koch Industries]] publicly maintained that it had no dir
 > [!money] Keystone XL Corporate ROI
 > Koch Industries' interest in Keystone XL was not ideological deregulation or tax policy — it was direct refinery capacity expansion. Flint Hills/Pine Bend could process an additional 250,000+ barrels/day of tar sands crude, expanding refinery revenue by billions annually. The leaked Koch Seminar Network memo taking "credit" for Trump approval demonstrates the direct path from political network spending ($20M TCJA campaign, $400M+ 2016-2017 cycle) to specific corporate outcomes (pipeline permits). Koch doesn't just lobby for abstract libertarian principles; it converts political influence into refinery capacity and crude supply.
 
-- [Inside Climate News: Koch Brothers Positioned to Win from Keystone XL (Feb 2011)](https://insideclimatenews.org/news/10022011/koch-brothers-positioned-be-big-winners-if-keystone-xl-pipeline-approved/) (Tier 2)
-- [Columbia Journalism Review: The Kochs and Keystone XL](https://www.cjr.org/the_observatory/the_kochs_and_keystone_xl.php) (Tier 2)
-- [Yale E360: Koch Brothers Biggest Lease Holders in Alberta Tar Sands](https://e360.yale.edu/digest/koch_brothers_biggest_lease_holders_in_alberta_tar_sands_report_finds) (Tier 2)
-- [DeSmog: Koch Network Took Credit for Keystone XL, DAPL](https://www.desmog.com/2018/02/28/koch-seminar-network-dakota-access-keystone-xl-reins-act/) (Tier 2)
+- [Inside Climate News: Koch Brothers Positioned to Win from Keystone XL (Feb 2011)](https://insideclimatenews.org/news/10022011/koch-brothers-positioned-be-big-winners-if-keystone-xl-pipeline-approved/) (Tier 2) (VERIFIED)
+- [Columbia Journalism Review: The Kochs and Keystone XL](https://www.cjr.org/the_observatory/the_kochs_and_keystone_xl.php) (Tier 2) (VERIFIED)
+- [Yale E360: Koch Brothers Biggest Lease Holders in Alberta Tar Sands](https://e360.yale.edu/digest/koch_brothers_biggest_lease_holders_in_alberta_tar_sands_report_finds) (Tier 2) (VERIFIED)
+- [DeSmog: Koch Network Took Credit for Keystone XL, DAPL](https://www.desmog.com/2018/02/28/koch-seminar-network-dakota-access-keystone-xl-reins-act/) (Tier 2) (VERIFIED)
 
 ---
 
-- [Capitol Trades: Koch lobbying agenda 2025](https://legis1.com/news/koch-cos-public-sector-boosts-lobbying-to-4-1m-in-aggressive-push-against-vehicle-emission-rules/) (Tier 2) (UNVERIFIED)
-- [CMD/EXPOSEDbyCMD: Koch Industries federal lobbying rose 35 percent first quarter 2019](https://www.exposedbycmd.org/2019/05/09/koch-industries-federal-lobbying-rose-35-percent-first-quarter-2019/) (Tier 2)
+- [Capitol Trades: Koch lobbying agenda 2025](https://legis1.com/news/koch-cos-public-sector-boosts-lobbying-to-4-1m-in-aggressive-push-against-vehicle-emission-rules/) (Tier 2) (VERIFIED) (UNVERIFIED)
+- ~~[CMD/EXPOSEDbyCMD: Koch Industries federal lobbying rose 35 percent first quarter 2019](https://www.exposedbycmd.org/2019/05/09/koch-industries-federal-lobbying-rose-35-percent-first-quarter-2019/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ---
 
@@ -584,7 +584,7 @@ Koch Industries' lobbying operation combines in-house government affairs (Koch C
 > [!money] The Lobbying-Firm Ecosystem
 > Koch retains 8-10 firms simultaneously, each with distinct specialization and revolving-door access. Nickles Group provides ex-legislator credibility and social networks. Crossroads Strategies supplies broad federal relationships. Capitol Tax Partners focused exclusively on Section 199 and LIFO — issues worth $14+ billion to Koch. This distributed structure allows Koch to maintain continuous coverage across EPA, Treasury, CFTC, Congress, and the White House without exposing all relationships through a single firm. The retention pattern also serves as a hedge: if one firm loses access, three others maintain continuity.
 
-- [Senate LDA Filings: Koch Industries federal lobbying by firm 2024](https://lda.gov/filings/public/filing/search/) (Tier 1) (UNVERIFIED)
+- [Senate LDA Filings: Koch Industries federal lobbying by firm 2024](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED) (UNVERIFIED)
 
 ---
 
@@ -620,7 +620,7 @@ Koch Industries' lobbying operation relies heavily on rotating ex-government off
 > [!contradiction] Institutional Access Over Expertise
 > Koch's lobbyist roster is 83-87% revolving-door appointments — meaning the company prioritizes ex-government relationships over policy specialists. This strategy makes sense economically: a former House Financial Services staffer has standing to call the current committee staff director; a retired Senator can meet with sitting Senators without appointment. But it also reflects Koch's primary lobbying strategy: not building policy arguments, but maintaining networks and trading on personal relationships. The high turnover (2005: 55 lobbyists → 2010: 30 lobbyists) suggests aggressive consolidation around the highest-return relationships.
 
-- [Senate LDA Filings: Koch Industries federal lobbying by lobbyist 2024](https://lda.gov/filings/public/filing/search/) (Tier 1) (UNVERIFIED)
+- [Senate LDA Filings: Koch Industries federal lobbying by lobbyist 2024](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED) (UNVERIFIED)
 
 ---
 
@@ -639,37 +639,37 @@ What distinguishes Koch Industries from other corporate political actors is the 
 ### Sources
 
 - [OpenSecrets: Koch Industries organizational profile](https://www.opensecrets.org/orgs/koch-industries/summary?id=D000000186) (Tier 1)
-- [OpenSecrets: Koch Industries lobbying expenditures](https://www.opensecrets.org/orgs/koch-industries/lobbying?id=D000000186) (Tier 1)
+- [OpenSecrets: Koch Industries lobbying expenditures](https://www.opensecrets.org/orgs/koch-industries/lobbying?id=D000000186) (Tier 1) (VERIFIED)
 - [OpenSecrets: Koch Inc PAC 2024 contributions](https://www.opensecrets.org/political-action-committees-pacs/C00236489/candidate-recipients/2024) (Tier 1)
 - [OpenSecrets: KochPAC summary 2024](https://www.opensecrets.org/political-action-committees-pacs/koch-inc/C00236489/summary/2024) (Tier 1) (UNVERIFIED)
 - [OpenSecrets: Koch Industries PAC recipient breakdown 2024](https://www.opensecrets.org/political-action-committees-pacs/C00236489/candidate-recipients/2024) (Tier 1) (UNVERIFIED)
 - [OpenSecrets: Koch Industries PAC recipients 2014](https://www.opensecrets.org/orgs/summary?id=d000000186&cycle=2014) (Tier 1) (UNVERIFIED)
-- [OpenSecrets: Koch network super PAC spending 2024](https://www.opensecrets.org/news/2024/08/koch-network-flagship-super-pac-pours-big-money-into-2024-elections/) (Tier 1)
+- [OpenSecrets: Koch network super PAC spending 2024](https://www.opensecrets.org/news/2024/08/koch-network-flagship-super-pac-pours-big-money-into-2024-elections/) (Tier 1) (VERIFIED)
 - [Senate LDA Filings: Koch Industries lobbying by subsidiary](https://lda.gov/filings/public/filing/search/) (Tier 1) (UNVERIFIED)
 - [Senate LDA Filings: Koch Industries federal lobbying by firm 2024](https://lda.gov/filings/public/filing/search/) (Tier 1) (UNVERIFIED)
 - [Senate LDA Filings: Koch Industries federal lobbying by lobbyist 2024](https://lda.gov/filings/public/filing/search/) (Tier 1) (UNVERIFIED)
-- [DOJ: Koch Industries indicted for environmental crimes (2000)](https://www.justice.gov/archive/opa/pr/2000/September/573enrd.htm) (Tier 1)
-- [DOJ: Koch pleads guilty to benzene cover-up (2001)](https://www.justice.gov/archive/opa/pr/2001/April/153enrd.htm) (Tier 1)
-- [DOJ: Koch pays record fine for oil spills (2000)](https://www.justice.gov/archive/opa/pr/2000/January/019enrd.htm) (Tier 1)
+- [DOJ: Koch Industries indicted for environmental crimes (2000)](https://www.justice.gov/archive/opa/pr/2000/September/573enrd.htm) (Tier 1) (VERIFIED)
+- [DOJ: Koch pleads guilty to benzene cover-up (2001)](https://www.justice.gov/archive/opa/pr/2001/April/153enrd.htm) (Tier 1) (VERIFIED)
+- [DOJ: Koch pays record fine for oil spills (2000)](https://www.justice.gov/archive/opa/pr/2000/January/019enrd.htm) (Tier 1) (VERIFIED)
 - [EPA: Koch Industries oil spills settlement](https://www.epa.gov/enforcement/koch-industries-inc-oil-spills-settlement) (Tier 1)
 - [EPA: Koch Petroleum Group refinery settlement](https://www.epa.gov/enforcement/koch-petroleum-group-lp-refinery-settlement) (Tier 1)
 - [Bloomberg Billionaires Index: Charles Koch](https://www.bloomberg.com/billionaires/profiles/charles-d-koch/) (Tier 1)
 - [Senate LDA filings: Koch Industries EPA regulation opposition](https://lda.gov/filings/public/filing/20a6dd56-a7e6-427f-8301-fd253f7bf1bc/print/) (Tier 1)
-- [OpenSecrets: Supreme Court curbs EPA after Koch-tied groups' push](https://www.opensecrets.org/news/2022/07/supreme-court-curbs-epa-regulatory-power-after-koch-tied-groups-push/) (Tier 2)
+- [OpenSecrets: Supreme Court curbs EPA after Koch-tied groups' push](https://www.opensecrets.org/news/2022/07/supreme-court-curbs-epa-regulatory-power-after-koch-tied-groups-push/) (Tier 2) (VERIFIED)
 - [Senate LDA Filings: Koch Industries lobbying expenditures](https://lda.gov/filings/public/filing/search/) (Tier 1) (UNVERIFIED)
 - [DeSmog: Koch Industries federal lobbying 1998-2017 total](https://www.desmog.com/koch-industries-inc-lobbying-activities/) (Tier 2)
-- [Greenpeace: Koch federal direct lobbying expenditures](https://www.greenpeace.org/global/usa/climate/climate-deniers/koch-industries/koch-federal-direct-lobbying-expenditures/) (Tier 2)
-- [Legis1: Koch boosts lobbying to $4.1M against emission rules](https://legis1.com/news/koch-cos-public-sector-boosts-lobbying-to-4-1m-in-aggressive-push-against-vehicle-emission-rules/) (Tier 2) (UNVERIFIED)
+- ~~[Greenpeace: Koch federal direct lobbying expenditures](https://www.greenpeace.org/global/usa/climate/climate-deniers/koch-industries/koch-federal-direct-lobbying-expenditures/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Legis1: Koch boosts lobbying to $4.1M against emission rules](https://legis1.com/news/koch-cos-public-sector-boosts-lobbying-to-4-1m-in-aggressive-push-against-vehicle-emission-rules/) (Tier 2) (VERIFIED) (UNVERIFIED)
 - [CMD/EXPOSEDbyCMD: Koch Industries federal lobbying rose 35 percent first quarter 2019](https://www.exposedbycmd.org/2019/05/09/koch-industries-federal-lobbying-rose-35-percent-first-quarter-2019/) (Tier 2)
 - [Vice: Koch Industries EPA Supreme Court climate change](https://www.vice.com/en/article/koch-brothers-epa-supreme-court-climate-change/) (Tier 2)
 - [Jacobin: Charles Koch EPA carbon emissions Supreme Court](https://jacobin.com/2022/02/charles-koch-epa-carbon-emissions-supreme-court) (Tier 2)
 - [Capitol Trades: Koch lobbying agenda 2025](https://legis1.com/news/koch-cos-public-sector-boosts-lobbying-to-4-1m-in-aggressive-push-against-vehicle-emission-rules/) (Tier 2) (UNVERIFIED)
-- [CMD/EXPOSEDbyCMD: Koch Industries 150 penalties in 20 states](https://www.exposedbycmd.org/2021/03/29/koch-industries-amassed-150-penalties-for-state-environmental-violations-in-20-states/) (Tier 2)
-- [CMD/EXPOSEDbyCMD: Koch-controlled organization assets soar to $8.1B](https://www.exposedbycmd.org/2024/05/08/assets-of-koch-controlled-organizations-soar-to-over-8-1-billion/) (Tier 2)
+- ~~[CMD/EXPOSEDbyCMD: Koch Industries 150 penalties in 20 states](https://www.exposedbycmd.org/2021/03/29/koch-industries-amassed-150-penalties-for-state-environmental-violations-in-20-states/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[CMD/EXPOSEDbyCMD: Koch-controlled organization assets soar to $8.1B](https://www.exposedbycmd.org/2024/05/08/assets-of-koch-controlled-organizations-soar-to-over-8-1-billion/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [Good Jobs First Violation Tracker: Koch Industries](https://violationtracker.goodjobsfirst.org/parent/koch-industries) (Tier 2)
-- [Greenpeace: Koch Industries pollution](https://www.greenpeace.org/global/usa/climate/climate-deniers/koch-industries/koch-industries-pollution/) (Tier 2)
-- [Ballotpedia: Koch Industries political spending](https://ballotpedia.org/Koch_Industries) (Tier 3)
-- [Wikipedia: KochPAC](https://en.wikipedia.org/wiki/KochPAC) (Tier 3)
+- ~~[Greenpeace: Koch Industries pollution](https://www.greenpeace.org/global/usa/climate/climate-deniers/koch-industries/koch-industries-pollution/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Ballotpedia: Koch Industries political spending](https://ballotpedia.org/Koch_Industries) (Tier 3) (VERIFIED)
+- [Wikipedia: KochPAC](https://en.wikipedia.org/wiki/KochPAC) (Tier 3) (VERIFIED)
 
 ---
 
@@ -732,7 +732,7 @@ What distinguishes Koch Industries from other corporate political actors is the 
 | Bare Printed Circuit Board Manufacturing (334412) | $277K |
 | Software Publishers (511210) | $135K |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Koch%20Industries) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Koch%20Industries) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -746,8 +746,8 @@ What distinguishes Koch Industries from other corporate political actors is the 
 | Total Expenses | $290K |
 | Net Assets | $1.9M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 480834445](https://projects.propublica.org/nonprofits/organizations/480834445) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F480834445_202312_990O_2025032023241115.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 480834445](https://projects.propublica.org/nonprofits/organizations/480834445) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F480834445_202312_990O_2025032023241115.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Federal Spending (USASpending)
@@ -768,7 +768,7 @@ What distinguishes Koch Industries from other corporate political actors is the 
 | $36K | Department of Health and Human Services | HL7 SECURE SERVER RENEWAL |
 | $14K | Department of Health and Human Services | INFOR (US), INC:1222017 [23-010757] ANNUAL SOFTWARE LICENSE, |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/8cc00587-be89-6ad5-76c5-92c6a33ea5a2-R/latest) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/8cc00587-be89-6ad5-76c5-92c6a33ea5a2-R/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Tax Filings (IRS 990)
@@ -786,14 +786,14 @@ What distinguishes Koch Industries from other corporate political actors is the 
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/480834445/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/480834445/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/480834445/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/480834445/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/480834445/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/480834445/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/480834445/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/480834445/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/480834445/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/480834445/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/480834445) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/480834445) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### DOJ Press Releases

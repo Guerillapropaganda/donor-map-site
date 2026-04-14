@@ -102,9 +102,9 @@ Preservation of qualified immunity (which shields officers from personal liabili
 
 ### Sources
 
-- [OpenSecrets: FOP political spending](https://www.opensecrets.org/orgs/fraternal-order-of-police/summary?id=D000031728) (Tier 1)
-- [FOP: Legislative priorities](https://fop.net/government-and-media-affairs/legislation-we-support/) (Tier 2)
-- [Ballotpedia: Fraternal Order of Police](https://ballotpedia.org/Fraternal_Order_of_Police) (Tier 3)
+- [OpenSecrets: FOP political spending](https://www.opensecrets.org/orgs/fraternal-order-of-police/summary?id=D000031728) (Tier 1) (VERIFIED)
+- [FOP: Legislative priorities](https://fop.net/government-and-media-affairs/legislation-we-support/) (Tier 2) (VERIFIED)
+- [Ballotpedia: Fraternal Order of Police](https://ballotpedia.org/Fraternal_Order_of_Police) (Tier 3) (VERIFIED)
 
 ---
 
@@ -129,7 +129,7 @@ Preservation of qualified immunity (which shields officers from personal liabili
 | IRS Ruling Date | 1952-10-01 |
 | Filings on Record | 0 |
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/933414548) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/933414548) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Federal Court Records (CourtListener)
@@ -148,7 +148,7 @@ Preservation of qualified immunity (which shields officers from personal liabili
 - Kirby v. Perfection One Collision Center, Inc. (2026) — District Court, S.D. Ohio
 - Duff v. Yoder Building Solutions LLC (2026) — District Court, S.D. Ohio
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Fraternal%20Order%20of%20Police%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Fraternal%20Order%20of%20Police%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Lobbying Activity
@@ -167,7 +167,7 @@ Preservation of qualified immunity (which shields officers from personal liabili
 
 **Agencies contacted:** Education, Dept of, HOUSE OF REPRESENTATIVES, Homeland Security, Dept of (DHS), Interior, Dept of (DOI), Justice, Dept of (DOJ), Labor, Dept of (DOL), SENATE, Veterans Affairs, Dept of (VA), White House Office
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Fraternal%20Order%20of%20Police) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Fraternal%20Order%20of%20Police) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### SEC Filing Activity
@@ -185,7 +185,7 @@ Preservation of qualified immunity (which shields officers from personal liabili
 - 2011-06-23 — **EX-99**: EXHIBIT 99 - PRESS RELEASE
 - 2004-11-30 — **EX-99.1**: PRESS RELEASE - JOE PETERS
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Fraternal%20Order%20of%20Police%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Fraternal%20Order%20of%20Police%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Federal Register Activity
@@ -199,15 +199,15 @@ Preservation of qualified immunity (which shields officers from personal liabili
 | Agencies | Defense Department, Education Department, Employee Benefits Security Administration, Federal Communications Commission, Federal Contract Compliance Programs Office, Federal Election Commission, Federal Motor Carrier Safety Administration, Federal Reserve System +7 more |
 
 **Recent regulatory activity:**
-- [Parts and Accessories Necessary for Safe Operation; Application for an Exemption From Waymo LLC (USDOT #3000336) and Aurora Operations, Inc. (USDOT #3441156)](https://www.federalregister.gov/documents/2024/12/27/2024-30860/parts-and-accessories-necessary-for-safe-operation-application-for-an-exemption-from-waymo-llc-usdot) (2024-12-27) — Transportation Department
-- [Health and Human Services Grants Regulation](https://www.federalregister.gov/documents/2021/01/12/2021-00207/health-and-human-services-grants-regulation) (2021-01-12) — Health and Human Services Department ★
-- [Fiduciary Duties Regarding Proxy Voting and Shareholder Rights](https://www.federalregister.gov/documents/2020/12/16/2020-27465/fiduciary-duties-regarding-proxy-voting-and-shareholder-rights) (2020-12-16) — Labor Department ★
-- [Implementing Legal Requirements Regarding the Equal Opportunity Clause's Religious Exemption](https://www.federalregister.gov/documents/2020/12/09/2020-26418/implementing-legal-requirements-regarding-the-equal-opportunity-clauses-religious-exemption) (2020-12-09) — Labor Department ★
-- [Nondiscrimination on the Basis of Sex in Education Programs or Activities Receiving Federal Financial Assistance](https://www.federalregister.gov/documents/2020/05/19/2020-10512/nondiscrimination-on-the-basis-of-sex-in-education-programs-or-activities-receiving-federal) (2020-05-19) — Education Department ★
-- [Labor Organization Annual Financial Reports: Coverage of Intermediate Bodies](https://www.federalregister.gov/documents/2019/12/17/2019-26699/labor-organization-annual-financial-reports-coverage-of-intermediate-bodies) (2019-12-17) — Labor Department ★
+- [Parts and Accessories Necessary for Safe Operation; Application for an Exemption From Waymo LLC (USDOT #3000336) and Aurora Operations, Inc. (USDOT #3441156)](https://www.federalregister.gov/documents/2024/12/27/2024-30860/parts-and-accessories-necessary-for-safe-operation-application-for-an-exemption-from-waymo-llc-usdot) (VERIFIED) (2024-12-27) — Transportation Department
+- [Health and Human Services Grants Regulation](https://www.federalregister.gov/documents/2021/01/12/2021-00207/health-and-human-services-grants-regulation) (VERIFIED) (2021-01-12) — Health and Human Services Department ★
+- [Fiduciary Duties Regarding Proxy Voting and Shareholder Rights](https://www.federalregister.gov/documents/2020/12/16/2020-27465/fiduciary-duties-regarding-proxy-voting-and-shareholder-rights) (VERIFIED) (2020-12-16) — Labor Department ★
+- [Implementing Legal Requirements Regarding the Equal Opportunity Clause's Religious Exemption](https://www.federalregister.gov/documents/2020/12/09/2020-26418/implementing-legal-requirements-regarding-the-equal-opportunity-clauses-religious-exemption) (VERIFIED) (2020-12-09) — Labor Department ★
+- [Nondiscrimination on the Basis of Sex in Education Programs or Activities Receiving Federal Financial Assistance](https://www.federalregister.gov/documents/2020/05/19/2020-10512/nondiscrimination-on-the-basis-of-sex-in-education-programs-or-activities-receiving-federal) (VERIFIED) (2020-05-19) — Education Department ★
+- ~~[Labor Organization Annual Financial Reports: Coverage of Intermediate Bodies](https://www.federalregister.gov/documents/2019/12/17/2019-26699/labor-organization-annual-financial-reports-coverage-of-intermediate-bodies)~~ (URL broken, archived by Ops) (2019-12-17) — Labor Department ★
 - ... and 23 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Fraternal%20Order%20of%20Police%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Fraternal%20Order%20of%20Police%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Campaign Finance (FEC)
@@ -232,7 +232,7 @@ Preservation of qualified immunity (which shields officers from personal liabili
 | DEMOCRATIC PARTY OF ILLINOIS | $10,000 | DEM |
 | MIDDLE CLASS PAC | $10,000 | — |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Fraternal%20Order%20of%20Police) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Fraternal%20Order%20of%20Police) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### Influence Network (Cross-Reference)

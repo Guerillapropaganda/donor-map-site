@@ -148,16 +148,16 @@ Cheney's constitutional project — maximal executive secrecy, minimal accountab
 
 ## Sources
 
-- [Center for Public Integrity: Halliburton contracts balloon — $11.4B in Iraq/Afghanistan contracts](https://publicintegrity.org/national-security/halliburton-contracts-balloon/) (Tier 2)
-- [PolitiFact: Cheney's $34 million Halliburton compensation — True](https://www.politifact.com/factchecks/2010/may/24/chris-matthews/chris-matthews-says-cheney-got-34-million-payday-h/) (Tier 2)
-- [PolitiFact: Halliburton, KBR, and Iraq war contracting — $31B+ LOGCAP total](https://www.politifact.com/factchecks/2010/jun/09/arianna-huffington/halliburton-kbr-and-iraq-war-contracting-history-s/) (Tier 2)
-- [FactCheck.org: Kerry Ad Falsely Accuses Cheney on Halliburton — deferred comp $398,548, insurance policy details](https://www.factcheck.org/2004/09/kerry-ad-falsely-accuses-cheney-on-halliburton/) (Tier 2)
-- [Human Rights Watch: Getting Away with Torture — Cheney as "driving force" behind illegal detention and torture](https://www.hrw.org/report/2011/07/12/getting-away-torture/bush-administration-and-mistreatment-detainees) (Tier 2)
-- [NBC News: Document: Big oil met with Cheney task force — ExxonMobil, Conoco, Shell, BP, Enron meetings confirmed](https://www.nbcnews.com/id/wbna10045043) (Tier 2)
-- [Miller Center: Richard B. Cheney (1989–1993) Secretary of Defense — Gulf War, Panama, AEI appointment](https://millercenter.org/president/bush/essays/cheney-1989-secretary-of-defense) (Tier 3)
-- [OpenSecrets: Dick Cheney personal finances](https://www.opensecrets.org/personal-finances/dick-cheney/net-worth?cid=N00006237&year=2008) (Tier 1)
-- [OpenSecrets: Dick Cheney revolving door profile](https://www.opensecrets.org/revolving-door/cheney-dick/summary?id=78755) (Tier 1)
-- [Washington Post: Document says oil chiefs met with Cheney task force (Nov 16, 2005)](https://www.washingtonpost.com/archive/politics/2005/11/16/document-says-oil-chiefs-met-with-cheney-task-force/03ca6ee6-3754-447e-8a24-45b2bc700d4e/) (Tier 2)
+- [Center for Public Integrity: Halliburton contracts balloon — $11.4B in Iraq/Afghanistan contracts](https://publicintegrity.org/national-security/halliburton-contracts-balloon/) (Tier 2) (VERIFIED)
+- [PolitiFact: Cheney's $34 million Halliburton compensation — True](https://www.politifact.com/factchecks/2010/may/24/chris-matthews/chris-matthews-says-cheney-got-34-million-payday-h/) (Tier 2) (VERIFIED)
+- [PolitiFact: Halliburton, KBR, and Iraq war contracting — $31B+ LOGCAP total](https://www.politifact.com/factchecks/2010/jun/09/arianna-huffington/halliburton-kbr-and-iraq-war-contracting-history-s/) (Tier 2) (VERIFIED)
+- [FactCheck.org: Kerry Ad Falsely Accuses Cheney on Halliburton — deferred comp $398,548, insurance policy details](https://www.factcheck.org/2004/09/kerry-ad-falsely-accuses-cheney-on-halliburton/) (Tier 2) (VERIFIED)
+- [Human Rights Watch: Getting Away with Torture — Cheney as "driving force" behind illegal detention and torture](https://www.hrw.org/report/2011/07/12/getting-away-torture/bush-administration-and-mistreatment-detainees) (Tier 2) (VERIFIED)
+- [NBC News: Document: Big oil met with Cheney task force — ExxonMobil, Conoco, Shell, BP, Enron meetings confirmed](https://www.nbcnews.com/id/wbna10045043) (Tier 2) (VERIFIED)
+- [Miller Center: Richard B. Cheney (1989–1993) Secretary of Defense — Gulf War, Panama, AEI appointment](https://millercenter.org/president/bush/essays/cheney-1989-secretary-of-defense) (Tier 3) (VERIFIED)
+- [OpenSecrets: Dick Cheney personal finances](https://www.opensecrets.org/personal-finances/dick-cheney/net-worth?cid=N00006237&year=2008) (Tier 1) (VERIFIED)
+- [OpenSecrets: Dick Cheney revolving door profile](https://www.opensecrets.org/revolving-door/cheney-dick/summary?id=78755) (Tier 1) (VERIFIED)
+- [Washington Post: Document says oil chiefs met with Cheney task force (Nov 16, 2005)](https://www.washingtonpost.com/archive/politics/2005/11/16/document-says-oil-chiefs-met-with-cheney-task-force/03ca6ee6-3754-447e-8a24-45b2bc700d4e/) (Tier 2) (VERIFIED)
 
 ---
 

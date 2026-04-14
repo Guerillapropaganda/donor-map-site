@@ -158,22 +158,22 @@ Jordan Peterson represents **the academic-credentialed radicalization funnel** �
 
 ### Sources
 
-- [Wikipedia: Jordan Peterson](https://en.wikipedia.org/wiki/Jordan_Peterson) (Tier 3)
-- [Wikipedia: Alliance for Responsible Citizenship](https://en.wikipedia.org/wiki/Alliance_for_Responsible_Citizenship) (Tier 3)
-- [PR Newswire: "The Daily Wire Launches DailyWire+ with Addition of Jordan Peterson" (Jun 2022)](https://www.prnewswire.com/news-releases/the-daily-wire-launches-dailywire-with-addition-of-jordan-peterson-301579170.html) (Tier 1)
-- [Vice: "Controversial U of T Prof Now Making Over $500K a Year in Donations" (2017)](https://www.vice.com/en/article/controversial-u-of-t-prof-now-making-over-dollar500k-a-year-in-donations/) (Tier 2)
-- [The Varsity: "Controversial professor Jordan Peterson retires from tenured position at U of T" (Jan 2022)](https://thevarsity.ca/2022/01/23/jordan-peterson-resigns-u-of-t/) (Tier 2)
-- [The Globe and Mail: "How U of T's Jordan Peterson has made money from online notoriety" (2017)](https://www.theglobeandmail.com/news/national/education/jordan-peterson-university-of-toronto-free-speech-crowdfunding/article35174379/) (Tier 2)
-- [DeSmog: "Jordan Peterson's ARC Project Receives $500,000 from CEO of Disgraced Pharma Firm" (Jun 2025)](https://www.desmog.com/2025/06/11/jordan-peterson-paul-marshall-alliance-for-responsible-citizenship-arc-project-receives-500000-from-ceo-disgraced-pharma-firm/) (Tier 2)
-- [DeSmog: "LEAKED: Oil Execs and Trump Allies Attend Jordan Peterson's ARC Conference" (Feb 2025)](https://www.desmog.com/2025/02/16/leaked-oil-executives-donald-trump-allies-attend-jordan-peterson-alliance-for-responsible-citizenship-london-conference/) (Tier 2)
-- [DeSmog: "Inside the Anti-Climate Culture War Led by Jordan Peterson and Project 2025" (Sep 2024)](https://www.desmog.com/2024/09/09/inside-the-anti-climate-culture-war-led-by-jordan-peterson-and-project-2025/) (Tier 2)
-- [Vice: "How Fracking Billionaires, Ben Shapiro, and PragerU Built a Climate Crisis–Denial Empire"](https://www.vice.com/en/article/fracking-farris-dan-wilks-prageru-climate-crisis-denial-shapiro/) (Tier 2)
-- [CBC News: "Jordan Peterson seeks 'emergency' drug detox treatment in Russia" (Feb 2020)](https://www.cbc.ca/news/canada/jordan-peterson-treatment-russia-1.5456939) (Tier 2)
-- [CBC News: "Ontario court rules against Jordan Peterson, upholds social media training order" (Aug 2023)](https://www.cbc.ca/news/canada/toronto/jordan-peterson-court-case-decision-1.6943845) (Tier 2)
-- [CBC News: "Court dismisses Jordan Peterson's request to challenge order he undergo media training" (Jan 2024)](https://www.cbc.ca/news/canada/toronto/jordan-peterson-court-challenge-rejection-1.7086681) (Tier 2)
-- [Supreme Court of Canada: Case 41168 — Peterson v. College of Psychologists of Ontario (2024)](https://www.scc-csc.ca/cases-dossiers/search-recherche/41168/) (Tier 1)
-- [DeSmog: "Climate Science Denial Rife at Launch of Jordan Peterson's ARC Project" (Nov 2023)](https://www.desmog.com/2023/11/03/climate-science-denial-rife-at-launch-of-jordan-petersons-arc-project/) (Tier 2)
-- [DeSmog: "How Jordan Peterson Became a Global Anti-Net Zero Power Broker" (Mar 2025)](https://www.desmog.com/2025/03/24/how-jordan-peterson-became-a-global-anti-net-zero-power-broker/) (Tier 2)
+- [Wikipedia: Jordan Peterson](https://en.wikipedia.org/wiki/Jordan_Peterson) (Tier 3) (VERIFIED)
+- [Wikipedia: Alliance for Responsible Citizenship](https://en.wikipedia.org/wiki/Alliance_for_Responsible_Citizenship) (Tier 3) (VERIFIED)
+- [PR Newswire: "The Daily Wire Launches DailyWire+ with Addition of Jordan Peterson" (Jun 2022)](https://www.prnewswire.com/news-releases/the-daily-wire-launches-dailywire-with-addition-of-jordan-peterson-301579170.html) (Tier 1) (VERIFIED)
+- [Vice: "Controversial U of T Prof Now Making Over $500K a Year in Donations" (2017)](https://www.vice.com/en/article/controversial-u-of-t-prof-now-making-over-dollar500k-a-year-in-donations/) (Tier 2) (VERIFIED)
+- [The Varsity: "Controversial professor Jordan Peterson retires from tenured position at U of T" (Jan 2022)](https://thevarsity.ca/2022/01/23/jordan-peterson-resigns-u-of-t/) (Tier 2) (VERIFIED)
+- [The Globe and Mail: "How U of T's Jordan Peterson has made money from online notoriety" (2017)](https://www.theglobeandmail.com/news/national/education/jordan-peterson-university-of-toronto-free-speech-crowdfunding/article35174379/) (Tier 2) (VERIFIED)
+- [DeSmog: "Jordan Peterson's ARC Project Receives $500,000 from CEO of Disgraced Pharma Firm" (Jun 2025)](https://www.desmog.com/2025/06/11/jordan-peterson-paul-marshall-alliance-for-responsible-citizenship-arc-project-receives-500000-from-ceo-disgraced-pharma-firm/) (Tier 2) (VERIFIED)
+- [DeSmog: "LEAKED: Oil Execs and Trump Allies Attend Jordan Peterson's ARC Conference" (Feb 2025)](https://www.desmog.com/2025/02/16/leaked-oil-executives-donald-trump-allies-attend-jordan-peterson-alliance-for-responsible-citizenship-london-conference/) (Tier 2) (VERIFIED)
+- [DeSmog: "Inside the Anti-Climate Culture War Led by Jordan Peterson and Project 2025" (Sep 2024)](https://www.desmog.com/2024/09/09/inside-the-anti-climate-culture-war-led-by-jordan-peterson-and-project-2025/) (Tier 2) (VERIFIED)
+- [Vice: "How Fracking Billionaires, Ben Shapiro, and PragerU Built a Climate Crisis–Denial Empire"](https://www.vice.com/en/article/fracking-farris-dan-wilks-prageru-climate-crisis-denial-shapiro/) (Tier 2) (VERIFIED)
+- [CBC News: "Jordan Peterson seeks 'emergency' drug detox treatment in Russia" (Feb 2020)](https://www.cbc.ca/news/canada/jordan-peterson-treatment-russia-1.5456939) (Tier 2) (VERIFIED)
+- [CBC News: "Ontario court rules against Jordan Peterson, upholds social media training order" (Aug 2023)](https://www.cbc.ca/news/canada/toronto/jordan-peterson-court-case-decision-1.6943845) (Tier 2) (VERIFIED)
+- [CBC News: "Court dismisses Jordan Peterson's request to challenge order he undergo media training" (Jan 2024)](https://www.cbc.ca/news/canada/toronto/jordan-peterson-court-challenge-rejection-1.7086681) (Tier 2) (VERIFIED)
+- [Supreme Court of Canada: Case 41168 — Peterson v. College of Psychologists of Ontario (2024)](https://www.scc-csc.ca/cases-dossiers/search-recherche/41168/) (Tier 1) (VERIFIED)
+- [DeSmog: "Climate Science Denial Rife at Launch of Jordan Peterson's ARC Project" (Nov 2023)](https://www.desmog.com/2023/11/03/climate-science-denial-rife-at-launch-of-jordan-petersons-arc-project/) (Tier 2) (NEEDS REVIEW)
+- [DeSmog: "How Jordan Peterson Became a Global Anti-Net Zero Power Broker" (Mar 2025)](https://www.desmog.com/2025/03/24/how-jordan-peterson-became-a-global-anti-net-zero-power-broker/) (Tier 2) (VERIFIED)
 
 ---
 

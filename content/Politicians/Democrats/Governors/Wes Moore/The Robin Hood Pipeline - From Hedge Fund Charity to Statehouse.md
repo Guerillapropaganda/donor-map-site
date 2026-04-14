@@ -57,8 +57,8 @@ Robin Hood invested its charitable assets in hedge funds managed by its own boar
 
 ### Sources
 
-- [Robin Hood Foundation: Wes Moore to Step Down as CEO of Robin Hood Foundation](https://robinhood.org/news/wes-moore-to-step-down-as-ceo-of-robin-hood-foundation/) (Tier 2)
-- [Bloomberg: Robin Hood Head Wes Moore Is Departing Anti-Poverty Group](https://www.bloomberg.com/news/articles/2021-02-08/robin-hood-head-wes-moore-is-departing-anti-poverty-foundation) (Tier 2)
-- [Wikipedia: Robin Hood Foundation](https://en.wikipedia.org/wiki/Robin_Hood_Foundation) (Tier 2)
-- [CNBC: Robin Hood Foundation CEO Wes Moore: 'Have faith, not fear. I feel that has guided me'](https://www.cnbc.com/2021/02/16/robin-hood-foundation-ceo-wes-moore-on-achieving-success.html) (Tier 2)
-- [Johns Hopkins Alumni: Wes Moore, '01, joins Robin Hood foundation as CEO](https://alumni.jhu.edu/wes-moore-01-joins-robin-hood-foundation-as-ceo) (Tier 2)
+- [Robin Hood Foundation: Wes Moore to Step Down as CEO of Robin Hood Foundation](https://robinhood.org/news/wes-moore-to-step-down-as-ceo-of-robin-hood-foundation/) (Tier 2) (VERIFIED)
+- ~~[Bloomberg: Robin Hood Head Wes Moore Is Departing Anti-Poverty Group](https://www.bloomberg.com/news/articles/2021-02-08/robin-hood-head-wes-moore-is-departing-anti-poverty-foundation)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Wikipedia: Robin Hood Foundation](https://en.wikipedia.org/wiki/Robin_Hood_Foundation) (Tier 2) (VERIFIED)
+- [CNBC: Robin Hood Foundation CEO Wes Moore: 'Have faith, not fear. I feel that has guided me'](https://www.cnbc.com/2021/02/16/robin-hood-foundation-ceo-wes-moore-on-achieving-success.html) (Tier 2) (VERIFIED)
+- ~~[Johns Hopkins Alumni: Wes Moore, '01, joins Robin Hood foundation as CEO](https://alumni.jhu.edu/wes-moore-01-joins-robin-hood-foundation-as-ceo)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)

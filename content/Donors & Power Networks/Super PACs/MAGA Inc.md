@@ -117,24 +117,24 @@ The legal framework that enables this — *Citizens United* allowing unlimited s
 
 **Trump-aligned PAC ecosystem total:** Trump-aligned PACs collectively hold **$400 million+**, unmatched by any Democratic counterpart.
 
-- [CNN: Trump super PAC builds $300M cash stockpile](https://www.cnn.com/2026/01/02/politics/trump-super-pac-maga-inc-fundraising) (Tier 2)
-- [NBC News: New megadonors with government business back Trump PAC](https://www.nbcnews.com/politics/politics-news/new-megadonors-major-business-government-back-trumps-super-pac-rcna252867) (Tier 2)
-- [Brennan Center: Unprecedented big money surge for Trump super PAC](https://www.brennancenter.org/our-work/analysis-opinion/unprecedented-big-money-surge-super-pac-tied-trump) (Tier 2)
-- [Washington Post: Trump-aligned PACs have $400 million, unmatched by Democrats](https://www.washingtonpost.com/politics/2026/02/02/trump-pac-fundraising-midterms/) (Tier 2)
-- [NOTUS: New generation of MAGA megadonors emerging](https://www.notus.org/money/maga-megadonors-donald-trump-super-pac) (Tier 2)
-- [Public Citizen: MAGA Inc donor list littered with corporate influence buyers](https://www.citizen.org/news/trumps-maga-inc-superpac-donor-list-is-littered-with-corporate-and-billionaire-influence-buyers/) (Tier 2)
+- [CNN: Trump super PAC builds $300M cash stockpile](https://www.cnn.com/2026/01/02/politics/trump-super-pac-maga-inc-fundraising) (Tier 2) (VERIFIED)
+- [NBC News: New megadonors with government business back Trump PAC](https://www.nbcnews.com/politics/politics-news/new-megadonors-major-business-government-back-trumps-super-pac-rcna252867) (Tier 2) (VERIFIED)
+- [Brennan Center: Unprecedented big money surge for Trump super PAC](https://www.brennancenter.org/our-work/analysis-opinion/unprecedented-big-money-surge-super-pac-tied-trump) (Tier 2) (VERIFIED)
+- [Washington Post: Trump-aligned PACs have $400 million, unmatched by Democrats](https://www.washingtonpost.com/politics/2026/02/02/trump-pac-fundraising-midterms/) (Tier 2) (VERIFIED)
+- [NOTUS: New generation of MAGA megadonors emerging](https://www.notus.org/money/maga-megadonors-donald-trump-super-pac) (Tier 2) (VERIFIED)
+- [Public Citizen: MAGA Inc donor list littered with corporate influence buyers](https://www.citizen.org/news/trumps-maga-inc-superpac-donor-list-is-littered-with-corporate-and-billionaire-influence-buyers/) (Tier 2) (VERIFIED)
 
 ---
 
 ### Sources
 
-- [FEC: MAGA Inc independent expenditure reports](https://www.fec.gov/data/committee/C00892471/) (Tier 1)
-- [OpenSecrets: MAGA Inc donor and spending data](https://www.opensecrets.org/political-action-committees-pacs/maga-inc/C00892471/summary/2024) (Tier 1)
-- [OpenSecrets: Billionaire Timothy Mellon has poured $165 million into 2024 elections](https://www.opensecrets.org/news/2024/08/heir-to-andrew-mellons-fortune-spends-over-165-million-to-support-trumps-reelection/) (Tier 1)
-- [Fortune: TikTok might survive its U.S. ban thanks to Trump's cozy relationship with Jeff Yass](https://fortune.com/2024/12/09/trump-jeff-yass-tiktok-avoid-ban/) (Tier 2)
-- [Slate: Jeff Yass — The powerful TikTok billionaire suddenly all over the news](https://slate.com/news-and-politics/2024/03/tiktok-trump-yass-truth-social-club-for-growth-republicans-megadonor.html) (Tier 2)
-- [Campaign Legal Center: Straw donor scheme involving MAGA Inc contributions](https://campaignlegal.org/press-releases/campaign-legal-center-calls-fec-investigate-apparent-straw-donor-scheme-involving) (Tier 2)
-- [Campaign Legal Center: FEC complaint — Save America soft money transfer to MAGA Inc](https://campaignlegal.org/press-releases/breaking-campaign-legal-center-files-fec-complaint-against-former-president-donald) (Tier 2)
+- [FEC: MAGA Inc independent expenditure reports](https://www.fec.gov/data/committee/C00892471/) (Tier 1) (VERIFIED)
+- [OpenSecrets: MAGA Inc donor and spending data](https://www.opensecrets.org/political-action-committees-pacs/maga-inc/C00892471/summary/2024) (Tier 1) (VERIFIED)
+- [OpenSecrets: Billionaire Timothy Mellon has poured $165 million into 2024 elections](https://www.opensecrets.org/news/2024/08/heir-to-andrew-mellons-fortune-spends-over-165-million-to-support-trumps-reelection/) (Tier 1) (VERIFIED)
+- [Fortune: TikTok might survive its U.S. ban thanks to Trump's cozy relationship with Jeff Yass](https://fortune.com/2024/12/09/trump-jeff-yass-tiktok-avoid-ban/) (Tier 2) (VERIFIED)
+- [Slate: Jeff Yass — The powerful TikTok billionaire suddenly all over the news](https://slate.com/news-and-politics/2024/03/tiktok-trump-yass-truth-social-club-for-growth-republicans-megadonor.html) (Tier 2) (VERIFIED)
+- [Campaign Legal Center: Straw donor scheme involving MAGA Inc contributions](https://campaignlegal.org/press-releases/campaign-legal-center-calls-fec-investigate-apparent-straw-donor-scheme-involving) (Tier 2) (VERIFIED)
+- [Campaign Legal Center: FEC complaint — Save America soft money transfer to MAGA Inc](https://campaignlegal.org/press-releases/breaking-campaign-legal-center-files-fec-complaint-against-former-president-donald) (Tier 2) (VERIFIED)
 
 ---
 
@@ -168,7 +168,7 @@ The legal framework that enables this — *Citizens United* allowing unlimited s
 - JUDICIAL WATCH, INC. v. U.S. DEPARTMENT OF JUSTICE (2024) — District Court, District of Columbia
 - Donald Trump v. Hillary Clinton (2023) — Court of Appeals for the Eleventh Circuit
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22MAGA%20Inc%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22MAGA%20Inc%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Tax Filings (IRS 990)
@@ -179,7 +179,7 @@ The legal framework that enables this — *Citizens United* allowing unlimited s
 | Tax-Exempt Status | 501(c)(4) |
 | Filings on Record | 0 |
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/921057815) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/921057815) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### SEC Filing Activity
@@ -193,7 +193,7 @@ The legal framework that enables this — *Citizens United* allowing unlimited s
 
 - 2026-04-07 — **D**: D
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22MAGA%20Inc%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22MAGA%20Inc%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Wikipedia
@@ -202,11 +202,11 @@ Make America Great Again Inc. is an American super PAC that supports Donald Trum
 
 | Fact | Value |
 |------|-------|
-| Wikidata ID | [Q123281082](https://www.wikidata.org/wiki/Q123281082) |
+| Wikidata ID | [Q123281082](https://www.wikidata.org/wiki/Q123281082) (VERIFIED) |
 | Description | American political action committee (2022-) |
 | Founded | 2022-09-23 |
-| Website | [https://www.magapac.com/](https://www.magapac.com/) |
+| Website | [https://www.magapac.com/](https://www.magapac.com/) (VERIFIED) |
 
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/Make_America_Great_Again_Inc.) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q123281082) (Tier 2)
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Make_America_Great_Again_Inc.) (Tier 3) (VERIFIED)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q123281082) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->

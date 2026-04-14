@@ -119,9 +119,9 @@ But his low public polling (6–9%) suggests that healthcare industry enthusiasm
 
 ### Sources
 
-- [California Department of Justice: Attorney General Becerra Secures Nearly $70 Million against Several Drug Companies for Delaying Competition](https://oag.ca.gov/news/press-releases/attorney-general-becerra-secures-nearly-70-million-against-several-drug) (Tier 1)
-- [Attorney General Becerra Issues Statement on Unanimous U.S. Supreme Court Decision](https://oag.ca.gov/news/press-releases/attorney-general-becerra-issues-statement-unanimous-us-supreme-court-decision) (Tier 1)
-- [UC Berkeley Public Health: What does California attorney general Xavier Becerra's record tell us](https://publichealth.berkeley.edu/articles/news/what-does-california-attorney-general-xavier-becerras-record-tell-us-about-what-he-might-do-as-secretary-of-hhs/) (Tier 2)
-- [Fierce Pharma: Biden to tap California Attorney General Becerra, price-fixing prosecutor and pay-for-delay critic, for top HHS job](https://www.fiercepharma.com/pharma/biden-to-tap-california-attorney-general-xavier-becerra-who-have-fought-pharmas-for-top-hhs) (Tier 2)
-- [Fierce Healthcare: From 340B to price transparency: Here are 3 takeaways from Becerra's confirmation hearing](https://www.fiercehealthcare.com/hospitals/from-340b-to-price-transparency-here-are-3-takeaways-from-xavier-becerras-confirmation) (Tier 2)
+- [California Department of Justice: Attorney General Becerra Secures Nearly $70 Million against Several Drug Companies for Delaying Competition](https://oag.ca.gov/news/press-releases/attorney-general-becerra-secures-nearly-70-million-against-several-drug) (Tier 1) (VERIFIED)
+- [Attorney General Becerra Issues Statement on Unanimous U.S. Supreme Court Decision](https://oag.ca.gov/news/press-releases/attorney-general-becerra-issues-statement-unanimous-us-supreme-court-decision) (Tier 1) (VERIFIED)
+- [UC Berkeley Public Health: What does California attorney general Xavier Becerra's record tell us](https://publichealth.berkeley.edu/articles/news/what-does-california-attorney-general-xavier-becerras-record-tell-us-about-what-he-might-do-as-secretary-of-hhs/) (Tier 2) (NEEDS REVIEW)
+- [Fierce Pharma: Biden to tap California Attorney General Becerra, price-fixing prosecutor and pay-for-delay critic, for top HHS job](https://www.fiercepharma.com/pharma/biden-to-tap-california-attorney-general-xavier-becerra-who-have-fought-pharmas-for-top-hhs) (Tier 2) (VERIFIED)
+- ~~[Fierce Healthcare: From 340B to price transparency: Here are 3 takeaways from Becerra's confirmation hearing](https://www.fiercehealthcare.com/hospitals/from-340b-to-price-transparency-here-are-3-takeaways-from-xavier-becerras-confirmation)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 

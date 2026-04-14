@@ -90,11 +90,11 @@ The Fanjul family still grows sugar in Florida. Their agricultural labor force s
 
 ### Sources
 
-- [American Immigration Council: Guide to S.744, the 2013 Senate Immigration Bill](https://www.americanimmigrationcouncil.org/report/guide-s744-understanding-2013-senate-immigration-bill/) (Tier 2)
-- [NBC News: Rubio. Gang of 8 bill never intended to become law](https://www.nbcnews.com/politics/2016-election/rubio-gang-8-bill-never-intended-become-law-n518936) (Tier 2)
-- [NBC News: The many immigration positions of Marco Rubio](https://www.nbcnews.com/politics/2016-election/marco-rubio-s-record-immigration-more-complicated-you-think-n488601) (Tier 2)
-- [CBS News: Rubio answers for his failed 2013 immigration plans](https://www.cbsnews.com/news/marco-rubio-answers-for-his-failed-2013-immigration-plans-again/) (Tier 2)
-- [National Review: Marco Rubio's billion-dollar sugar addiction. Fanjul relationship](https://www.nationalreview.com/2015/11/marco-rubio-sugar-subsidy-support-fanjul-brothers/) (Tier 2)
-- [The Hill: Rubio defends Gang of Eight immigration bill](https://thehill.com/blogs/ballot-box/gop-primaries/268525-rubio-defends-gang-of-eight-immigration-bill/) (Tier 2)
-- [FEC Candidate: Marco Rubio donor history](https://www.fec.gov/data/candidate/P60006723/) (Tier 1)
+- [American Immigration Council: Guide to S.744, the 2013 Senate Immigration Bill](https://www.americanimmigrationcouncil.org/report/guide-s744-understanding-2013-senate-immigration-bill/) (Tier 2) (VERIFIED)
+- ~~[NBC News: Rubio. Gang of 8 bill never intended to become law](https://www.nbcnews.com/politics/2016-election/rubio-gang-8-bill-never-intended-become-law-n518936)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [NBC News: The many immigration positions of Marco Rubio](https://www.nbcnews.com/politics/2016-election/marco-rubio-s-record-immigration-more-complicated-you-think-n488601) (Tier 2) (VERIFIED)
+- [CBS News: Rubio answers for his failed 2013 immigration plans](https://www.cbsnews.com/news/marco-rubio-answers-for-his-failed-2013-immigration-plans-again/) (Tier 2) (VERIFIED)
+- [National Review: Marco Rubio's billion-dollar sugar addiction. Fanjul relationship](https://www.nationalreview.com/2015/11/marco-rubio-sugar-subsidy-support-fanjul-brothers/) (Tier 2) (VERIFIED)
+- ~~[The Hill: Rubio defends Gang of Eight immigration bill](https://thehill.com/blogs/ballot-box/gop-primaries/268525-rubio-defends-gang-of-eight-immigration-bill/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [FEC Candidate: Marco Rubio donor history](https://www.fec.gov/data/candidate/P60006723/) (Tier 1) (VERIFIED)
 

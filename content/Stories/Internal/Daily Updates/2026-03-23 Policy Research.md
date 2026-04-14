@@ -29,11 +29,11 @@ The most consequential policy event of the day: Trump's 48-hour ultimatum for Ir
 > [!contradiction] Defense hawks vs. fiscal hawks
 > The $200B supplemental + $450B reconciliation 2.0 defense ask totals $650B in new military spending. This directly contradicts DOGE's stated mission of cutting federal spending. [[Lockheed Martin]], [[Boeing]], and defense PAC donors win either way, the war creates its own funding mechanism regardless of fiscal conservative objections.
 
-- [Al Jazeera: Day 24 of US-Israel attacks on Iran](https://www.aljazeera.com/economy/2026/3/23/iran-war-whats-happening-on-day-24-of-us-israel-attacks) (Tier 2)
-- [CNBC: Oil prices rise as Trump's Hormuz ultimatum keeps markets on edge](https://www.cnbc.com/2026/03/23/oil-prices-trump-iran-strait-of-hormuz-wti-crude-middle-east-lng-gas.html) (Tier 2)
-- [IBTimes: World Oil Prices Surge to Near $113](https://www.ibtimes.com.au/world-oil-prices-surge-near-113-us-iran-conflict-disrupts-strait-hormuz-flows-march-23-2026-1864087) (Tier 2)
-- [Axios: House GOP welcomes $200B Pentagon request to jump-start reconciliation 2.0](https://www.axios.com/2026/03/19/pentagon-200-billion-reconciliation-house-republicans) (Tier 2)
-- [IEA: Oil Market Report March 2026](https://www.iea.org/reports/oil-market-report-march-2026) (Tier 1)
+- [Al Jazeera: Day 24 of US-Israel attacks on Iran](https://www.aljazeera.com/economy/2026/3/23/iran-war-whats-happening-on-day-24-of-us-israel-attacks) (Tier 2) (VERIFIED)
+- [CNBC: Oil prices rise as Trump's Hormuz ultimatum keeps markets on edge](https://www.cnbc.com/2026/03/23/oil-prices-trump-iran-strait-of-hormuz-wti-crude-middle-east-lng-gas.html) (Tier 2) (VERIFIED)
+- [IBTimes: World Oil Prices Surge to Near $113](https://www.ibtimes.com.au/world-oil-prices-surge-near-113-us-iran-conflict-disrupts-strait-hormuz-flows-march-23-2026-1864087) (Tier 2) (VERIFIED)
+- ~~[Axios: House GOP welcomes $200B Pentagon request to jump-start reconciliation 2.0](https://www.axios.com/2026/03/19/pentagon-200-billion-reconciliation-house-republicans)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [IEA: Oil Market Report March 2026](https://www.iea.org/reports/oil-market-report-march-2026) (Tier 1) (VERIFIED)
 
 ---
 
@@ -53,10 +53,10 @@ On March 17, SEC Chair Paul Atkins announced "Regulation Crypto Assets", a sweep
 > [!contradiction] "Innovation" framing hides investor protection rollback
 > The safe harbor allows crypto projects to raise capital with "principles-based disclosures" instead of standard SEC registration. This is precisely the deregulation that enabled previous crypto collapses (FTX, Terra/Luna). The SEC is now officially prioritizing issuer convenience over investor protection, at the direction of donors who profit from that arrangement.
 
-- [SEC: Regulation Crypto Assets. A Token Safe Harbor (Atkins remarks)](https://www.sec.gov/newsroom/speeches-statements/atkins-remarks-regulation-crypto-assets-031726) (Tier 1)
-- [SEC: Press Release. SEC Clarifies Application of Federal Securities Laws to Crypto Assets](https://www.sec.gov/newsroom/press-releases/2026-30-sec-clarifies-application-federal-securities-laws-crypto-assets) (Tier 1)
-- [National Law Review: SEC Clarifies Status of Crypto Assets, Signals Safe Harbor Framework](https://natlawreview.com/article/sec-clarifies-status-crypto-assets-under-federal-securities-laws-signals-potential) (Tier 2)
-- [CoinDesk: SEC Issues First-Ever Definitions for Crypto Asset Securities](https://www.coindesk.com/policy2026/03/17/u-s-sec-issues-first-ever-definitions-for-what-crypto-assets-are-securities) (Tier 2)
+- [SEC: Regulation Crypto Assets. A Token Safe Harbor (Atkins remarks)](https://www.sec.gov/newsroom/speeches-statements/atkins-remarks-regulation-crypto-assets-031726) (Tier 1) (VERIFIED)
+- [SEC: Press Release. SEC Clarifies Application of Federal Securities Laws to Crypto Assets](https://www.sec.gov/newsroom/press-releases/2026-30-sec-clarifies-application-federal-securities-laws-crypto-assets) (Tier 1) (VERIFIED)
+- [National Law Review: SEC Clarifies Status of Crypto Assets, Signals Safe Harbor Framework](https://natlawreview.com/article/sec-clarifies-status-crypto-assets-under-federal-securities-laws-signals-potential) (Tier 2) (VERIFIED)
+- [CoinDesk: SEC Issues First-Ever Definitions for Crypto Asset Securities](https://www.coindesk.com/policy2026/03/17/u-s-sec-issues-first-ever-definitions-for-what-crypto-assets-are-securities) (Tier 2) (VERIFIED)
 
 ---
 
@@ -76,9 +76,9 @@ NPR reported March 23 on the continued explosive growth of ICE's detention infra
 > [!contradiction] "Border security" funding comes from healthcare cuts
 > The first reconciliation bill cut ~$1 trillion from Medicaid to fund tax cuts and enforcement. The $45B detention expansion is funded by the same bill that will cause 11.8 million people to lose health coverage (per CBO). Working-class Americans lose healthcare so private prison companies can profit from detaining immigrants.
 
-- [NPR: ICE's growing detention footprint and the communities fighting back](https://www.npr.org/2026/03/23/g-s1-114107/ices-growing-detention-footprint-and-the-communities-fighting-back) (Tier 2)
-- [American Immigration Council: ICE's Expanding Detention System](https://www.americanimmigrationcouncil.org/blog/ice-expanding-detention-system/) (Tier 2)
-- [NBC News: US Immigration Enforcement Tracker](https://www.nbcnews.com/data-graphics/us-immigration-tracker-follow-arrests-detentions-border-crossings-rcna189148) (Tier 2)
+- [NPR: ICE's growing detention footprint and the communities fighting back](https://www.npr.org/2026/03/23/g-s1-114107/ices-growing-detention-footprint-and-the-communities-fighting-back) (Tier 2) (VERIFIED)
+- [American Immigration Council: ICE's Expanding Detention System](https://www.americanimmigrationcouncil.org/blog/ice-expanding-detention-system/) (Tier 2) (VERIFIED)
+- [NBC News: US Immigration Enforcement Tracker](https://www.nbcnews.com/data-graphics/us-immigration-tracker-follow-arrests-detentions-border-crossings-rcna189148) (Tier 2) (VERIFIED)
 
 ---
 
@@ -95,10 +95,10 @@ CBO estimates: 11.8 million people will lose Medicaid directly + 3.1 million mor
 > [!money] Who profits from Medicaid cuts
 > Private insurers like [[UnitedHealth Group - Optum]], [[Anthem - Elevance Health]], and the [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] benefit from pushing people off public coverage into private plans (or no coverage). The work requirements will generate a massive administrative apparatus, eligibility verification contracts are a revenue source for private contractors. Meanwhile, the $1T in Medicaid savings funds the tax cuts that flow primarily to the donor class: the richest 1% receive $121B in 2026 tax cuts vs. $56B for the entire middle 20%.
 
-- [Georgetown CCF: Medicaid and CHIP Cuts Explained](https://ccf.georgetown.edu/2025/05/27/medicaid-and-chip-cuts-in-the-house-passed-reconciliation-bill-explained/) (Tier 2)
-- [AMA: Changes to Medicaid, ACA in One Big Beautiful Bill Act](https://www.ama-assn.org/health-care-advocacy/federal-advocacy/changes-medicaid-aca-and-other-key-provisions-one-big) (Tier 2)
-- [Healthcare Dive: House passes reconciliation bill with massive Medicaid cuts](https://www.healthcaredive.com/news/house-passes-reconciliation-bill-medicaid-healthcare/748697/) (Tier 2)
-- [ITEP: Analysis of Tax Provisions in Reconciliation Bill](https://itep.org/analysis-of-tax-provisions-in-house-reconciliation-bill/) (Tier 2)
+- [Georgetown CCF: Medicaid and CHIP Cuts Explained](https://ccf.georgetown.edu/2025/05/27/medicaid-and-chip-cuts-in-the-house-passed-reconciliation-bill-explained/) (Tier 2) (VERIFIED)
+- [AMA: Changes to Medicaid, ACA in One Big Beautiful Bill Act](https://www.ama-assn.org/health-care-advocacy/federal-advocacy/changes-medicaid-aca-and-other-key-provisions-one-big) (Tier 2) (VERIFIED)
+- [Healthcare Dive: House passes reconciliation bill with massive Medicaid cuts](https://www.healthcaredive.com/news/house-passes-reconciliation-bill-medicaid-healthcare/748697/) (Tier 2) (VERIFIED)
+- [ITEP: Analysis of Tax Provisions in Reconciliation Bill](https://itep.org/analysis-of-tax-provisions-in-house-reconciliation-bill/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -115,10 +115,10 @@ Multiple reports confirm what the vault has tracked: DOGE has failed at its stat
 > [!contradiction] DOGE's real function
 > The workforce reduction + spending increase pattern reveals DOGE's actual purpose: not fiscal discipline but federal capacity destruction. Eliminating 270,000 federal workers removes regulatory enforcement capacity (EPA inspectors, SEC investigators, NLRB organizers, IRS auditors) while spending continues flowing to defense contractors and tax cuts. This is the [[Stand Together]] / Koch network policy agenda executed through a personality-driven vehicle. Musk's personal financial interests (Tesla regulatory environment, SpaceX contracts, Neuralink FDA oversight) are served by weakened agencies regardless of the budget impact.
 
-- [CBS News: DOGE cuts cost $135 billion](https://www.cbsnews.com/news/doge-cuts-cost-135-billion-analysis-elon-musk-department-of-government-efficiency/) (Tier 2)
-- [CNN: DOGE spending cuts hampering government amid Iran war](https://www.cnn.com/2026/03/10/politics/doge-government-spending-cuts-iran-war) (Tier 2)
-- [Fortune: DOGE staffer deposition, unable to lower federal deficit](https://fortune.com/2026/03/16/doge-employee-deposition-lawsuit-federal-deficit-elon-musk-spending/) (Tier 2)
-- [Cato Institute: DOGE produced largest peacetime workforce cut, spending kept rising](https://www.cato.org/blog/doge-produced-largest-peacetime-workforce-cut-record-spending-kept-rising-0) (Tier 2)
+- [CBS News: DOGE cuts cost $135 billion](https://www.cbsnews.com/news/doge-cuts-cost-135-billion-analysis-elon-musk-department-of-government-efficiency/) (Tier 2) (VERIFIED)
+- [CNN: DOGE spending cuts hampering government amid Iran war](https://www.cnn.com/2026/03/10/politics/doge-government-spending-cuts-iran-war) (Tier 2) (VERIFIED)
+- [Fortune: DOGE staffer deposition, unable to lower federal deficit](https://fortune.com/2026/03/16/doge-employee-deposition-lawsuit-federal-deficit-elon-musk-spending/) (Tier 2) (VERIFIED)
+- [Cato Institute: DOGE produced largest peacetime workforce cut, spending kept rising](https://www.cato.org/blog/doge-produced-largest-peacetime-workforce-cut-record-spending-kept-rising-0) (Tier 2) (VERIFIED)
 
 ---
 
@@ -133,8 +133,8 @@ Two notable SCOTUS developments since last scan:
 > [!money] Immigration deference serves enforcement donors
 > The Urias-Orellana ruling strengthens the deportation pipeline by reducing judicial checks on immigration judge decisions. Combined with the ICE expansion (Section 3 above) and the DHS shutdown funding fight, this creates a legal-administrative apparatus that directly serves private prison contractors and enforcement-adjacent donors.
 
-- [Fox News: Justice Jackson authors unanimous SCOTUS opinion handing Trump immigration win](https://www.foxnews.com/politics/justice-jackson-authors-unanimous-scotus-opinion-handing-trump-immigration-win) (Tier 2)
-- [Justia: 2026 Supreme Court Opinions](https://supreme.justia.com/cases/federal/us/year/2026.html) (Tier 1)
+- [Fox News: Justice Jackson authors unanimous SCOTUS opinion handing Trump immigration win](https://www.foxnews.com/politics/justice-jackson-authors-unanimous-scotus-opinion-handing-trump-immigration-win) (Tier 2) (VERIFIED)
+- ~~[Justia: 2026 Supreme Court Opinions](https://supreme.justia.com/cases/federal/us/year/2026.html)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -147,8 +147,8 @@ However, the rule's practical impact is questionable given DOGE workforce reduct
 > [!contradiction] Rules without enforcement
 > The NLRB can write pro-worker rules, but without staff to investigate unfair labor practice charges and prosecute violations, the rules are decorative. This is the DOGE playbook: don't repeal the law, just defund the enforcer. The practical beneficiary is every employer fighting unionization, including vault-tracked gig economy donors [[Uber]], [[Lyft]], [[DoorDash]] and the [[Flex Association]].
 
-- [NLRB: Fair Choice–Employee Voice Final Rule](https://www.nlrb.gov/news-outreach/news-story/nlrb-issues-fair-choice-employee-voice-final-rule) (Tier 1)
-- [National Law Review: Top 3 Labor Law Developments to Watch in 2026](https://natlawreview.com/article/top-3-labor-law-developments-watch-2026) (Tier 2)
+- [NLRB: Fair Choice–Employee Voice Final Rule](https://www.nlrb.gov/news-outreach/news-story/nlrb-issues-fair-choice-employee-voice-final-rule) (Tier 1) (VERIFIED)
+- [National Law Review: Top 3 Labor Law Developments to Watch in 2026](https://natlawreview.com/article/top-3-labor-law-developments-watch-2026) (Tier 2) (VERIFIED)
 
 ---
 
@@ -160,8 +160,8 @@ Two recent executive orders not previously covered:
 
 **Preserving America's Game (March 20):** Directs federal agencies to preserve a broadcast window for the Army-Navy football game. Notable only as an example of executive order inflation, using presidential authority for college football scheduling.
 
-- [White House: Fact Sheet. Task Force to Eliminate Fraud](https://www.whitehouse.gov/fact-sheets/2026/03/fact-sheet-president-donald-j-trump-establishes-the-task-force-to-eliminate-fraud/) (Tier 1)
-- [Government Executive: Trump's anti-fraud task force poised to scrutinize benefits programs](https://www.govexec.com/oversight/2026/03/trumps-anti-fraud-task-force-poised-scrutinize-benefits-programs/412220/) (Tier 2)
+- [White House: Fact Sheet. Task Force to Eliminate Fraud](https://www.whitehouse.gov/fact-sheets/2026/03/fact-sheet-president-donald-j-trump-establishes-the-task-force-to-eliminate-fraud/) (Tier 1) (VERIFIED)
+- [Government Executive: Trump's anti-fraud task force poised to scrutinize benefits programs](https://www.govexec.com/oversight/2026/03/trumps-anti-fraud-task-force-poised-scrutinize-benefits-programs/412220/) (Tier 2) (VERIFIED)
 
 ---
 

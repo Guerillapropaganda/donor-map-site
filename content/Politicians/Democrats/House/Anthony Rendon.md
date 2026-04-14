@@ -83,9 +83,9 @@ Rendon represents the speaker's true function: procedural gatekeeping that kills
 
 ### Sources
 
-- [New Republic: What Killed Single-Payer In California](https://newrepublic.com/article/143650/killed-single-payer-california) (Tier 2)
-- [CalMatters: Outgoing Speaker Anthony Rendon Made California Assembly More Democratic](https://calmatters.org/commentary/2023/06/speaker-anthony-rendon-assembly-legacy/) (Tier 2)
-- [CalMatters: Legislators' Charity Use Has Prompted Calls For Reform](https://calmatters.org/projects/legislators-charity-use-assembly-speaker-rendon-nonprofits-fundraising/) (Tier 2)
-- [VoteSmart: Anthony Rendon Campaign Finance](https://justfacts.votesmart.org/candidate/campaign-finance/138445/anthony-rendon) (Tier 1)
-- [Digital Democracy: Anthony Rendon Donor Profile](https://calmatters.digitaldemocracy.org/people/120) (Tier 1)
+- [New Republic: What Killed Single-Payer In California](https://newrepublic.com/article/143650/killed-single-payer-california) (Tier 2) (VERIFIED)
+- [CalMatters: Outgoing Speaker Anthony Rendon Made California Assembly More Democratic](https://calmatters.org/commentary/2023/06/speaker-anthony-rendon-assembly-legacy/) (Tier 2) (VERIFIED)
+- [CalMatters: Legislators' Charity Use Has Prompted Calls For Reform](https://calmatters.org/projects/legislators-charity-use-assembly-speaker-rendon-nonprofits-fundraising/) (Tier 2) (VERIFIED)
+- [VoteSmart: Anthony Rendon Campaign Finance](https://justfacts.votesmart.org/candidate/campaign-finance/138445/anthony-rendon) (Tier 1) (VERIFIED)
+- [Digital Democracy: Anthony Rendon Donor Profile](https://calmatters.digitaldemocracy.org/people/120) (Tier 1) (VERIFIED)
 

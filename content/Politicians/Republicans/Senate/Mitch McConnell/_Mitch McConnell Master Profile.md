@@ -92,18 +92,18 @@ McConnell's net worth jumped from $3 million to $12.7 million in 2007 following 
 McConnell's unique structural role in American politics is not as a legislator — it's as the node where three separate dark money networks converge and coordinate:
 
 ### Network 1 — The McConnell Machine (SLF + One Nation):
-Steven Law (McConnell's chief of staff, 1991–1997) runs both [[Senate Leadership Fund|Senate Leadership Fund]] (super PAC, $211M in 2024) and One Nation (501(c)(4), $172M in 2020 from anonymous donors). One Nation passes tens of millions to SLF annually ($77.5M in 2020, $60M in 2022), laundering donor identity. Law also runs American Crossroads and Crossroads GPS (the Karl Rove vehicles). Combined 2020–2024 spending: $800M+. Year-end 2025 SLF cash on hand: $100M. This machine does not require McConnell's personal participation — it operates as permanent infrastructure. [Source: [OpenSecrets: SLF Summary](https://www.opensecrets.org/orgs/senate-leadership-fund/summary?id=D000068516) (Tier 1); [CREW: One Nation $172M](https://www.citizensforethics.org/reports-investigations/crew-investigations/boosted-by-8-figure-donations-mcconnell-aligned-nonprofit-raised-172-million-in-2020/) (Tier 2)]
+Steven Law (McConnell's chief of staff, 1991–1997) runs both [[Senate Leadership Fund|Senate Leadership Fund]] (super PAC, $211M in 2024) and One Nation (501(c)(4), $172M in 2020 from anonymous donors). One Nation passes tens of millions to SLF annually ($77.5M in 2020, $60M in 2022), laundering donor identity. Law also runs American Crossroads and Crossroads GPS (the Karl Rove vehicles). Combined 2020–2024 spending: $800M+. Year-end 2025 SLF cash on hand: $100M. This machine does not require McConnell's personal participation — it operates as permanent infrastructure. [Source: [OpenSecrets: SLF Summary](https://www.opensecrets.org/orgs/senate-leadership-fund/summary?id=D000068516) (Tier 1) (VERIFIED); [CREW: One Nation $172M](https://www.citizensforethics.org/reports-investigations/crew-investigations/boosted-by-8-figure-donations-mcconnell-aligned-nonprofit-raised-172-million-in-2020/) (Tier 2) (VERIFIED)]
 
 ### Network 2 — The Koch Infrastructure:
-Koch Industries' $148K in direct McConnell contributions is irrelevant. The structural alignment is what matters: McConnell's Senate floor operations deliver Koch's entire legislative agenda (TCJA, Janus conditions, EPA blocking, Dodd-Frank rollback). In return, [[Americans for Prosperity|AFP]] provides the grassroots mobilization that protects Republican senators in primaries and generals. AFP Action's $160–178M in 2024 federal races operates alongside SLF — not competing, but complementary. Koch money shapes the candidate field; SLF money funds the general election. [Source: [OpenSecrets: Koch Industries profile](https://www.opensecrets.org/orgs/koch-industries/summary?id=D000000186) (Tier 1)]
+Koch Industries' $148K in direct McConnell contributions is irrelevant. The structural alignment is what matters: McConnell's Senate floor operations deliver Koch's entire legislative agenda (TCJA, Janus conditions, EPA blocking, Dodd-Frank rollback). In return, [[Americans for Prosperity|AFP]] provides the grassroots mobilization that protects Republican senators in primaries and generals. AFP Action's $160–178M in 2024 federal races operates alongside SLF — not competing, but complementary. Koch money shapes the candidate field; SLF money funds the general election. [Source: [OpenSecrets: Koch Industries profile](https://www.opensecrets.org/orgs/koch-industries/summary?id=D000000186) (Tier 1) (VERIFIED)]
 
 ### Network 3 — The Leo Judicial Pipeline:
-[[Leonard Leo|Leonard Leo]]'s $1.6B Marble Freedom Trust funds the Federalist Society pipeline that produces the judges McConnell confirms. McConnell blocked Merrick Garland for 293 days, then rushed [[_Amy Coney Barrett Master Profile|Barrett]] in 8 days — both moves coordinated with Leo's operation. Leo spent $250M+ promoting conservative judges. McConnell confirmed 234 Trump judges (including 3 Supreme Court justices). Leo selects the nominees; McConnell controls the confirmation calendar. Neither can function without the other. [Source: [ProPublica: Leonard Leo reporting](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2)]
+[[Leonard Leo|Leonard Leo]]'s $1.6B Marble Freedom Trust funds the Federalist Society pipeline that produces the judges McConnell confirms. McConnell blocked Merrick Garland for 293 days, then rushed [[_Amy Coney Barrett Master Profile|Barrett]] in 8 days — both moves coordinated with Leo's operation. Leo spent $250M+ promoting conservative judges. McConnell confirmed 234 Trump judges (including 3 Supreme Court justices). Leo selects the nominees; McConnell controls the confirmation calendar. Neither can function without the other. [Source: [ProPublica: Leonard Leo reporting](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2) (VERIFIED)]
 
 ### The Convergence Point:
 McConnell is where these three networks meet. Koch provides the grassroots infrastructure and policy agenda. Leo provides the judicial nominees and dark money for confirmations. SLF/One Nation provides the electoral money machine that keeps Republican senators in office. McConnell controls the Senate floor — the bottleneck through which all three networks must pass to achieve their goals. Tax cuts require Senate votes (Koch). Judicial confirmations require Senate votes (Leo). Senate seats require campaign money (SLF). McConnell controlled all three simultaneously for 18 years.
 
-NBC News reported that Koch and Leo networks together poured $55M+ into organizations preparing for Trump's second administration — coordinating through overlapping dark money vehicles. The networks don't just align with McConnell — they coordinate through the infrastructure he built. [Source: [NBC News: Leo and Koch networks pour millions into groups prepping for Trump administration](https://www.nbcnews.com/politics/2024-election/leonard-leo-koch-networks-pour-millions-prep-potential-second-trump-ad-rcna144360) (Tier 2)]
+NBC News reported that Koch and Leo networks together poured $55M+ into organizations preparing for Trump's second administration — coordinating through overlapping dark money vehicles. The networks don't just align with McConnell — they coordinate through the infrastructure he built. [Source: [NBC News: Leo and Koch networks pour millions into groups prepping for Trump administration](https://www.nbcnews.com/politics/2024-election/leonard-leo-koch-networks-pour-millions-prep-potential-second-trump-ad-rcna144360) (Tier 2) (VERIFIED)]
 
 > [!money] The Gatekeeper's Value
 > McConnell's personal campaign raised $76,000 in Q3 2024 — his lowest quarter in years. SLF raised $211M+ in the same cycle. The personal fundraising is irrelevant; the infrastructure is everything. McConnell built a system where $800M+ in dark money flows through organizations run by his former chief of staff, aligned with Koch's $578M political operation, and coordinated with Leo's $1.6B judicial network. The total political spending flowing through or coordinated with McConnell's infrastructure in the 2020–2024 period exceeds $3 billion. No other American politician has controlled a comparable volume of donor-class money.
@@ -199,13 +199,13 @@ McConnell announced retirement February 20, 2025 after multiple health episodes 
 
 ## Sources
 
-- [FEC Candidate: McConnell career finance](https://www.fec.gov/data/candidate/S2KY00012/) (Tier 1)
-- [CREW: dark money investigations — SLF, One Nation, FTX connections](https://www.citizensforethics.org/reports-investigations/crew-investigations/mitch-mcconnell-tied-dark-money-group-bolstered-by-millions-from-ftx-fraudsters/) (Tier 2)
-- [NPR: tobacco documents investigation](https://www.npr.org/2019/06/17/730496066/tobaccos-special-friend-what-internal-documents-say-about-mitch-mcconnell) (Tier 2)
-- [Center for Public Integrity: Kentucky donor mapping](https://publicintegrity.org/politics/mitch-mcconnell-fueled-by-tobacco-and-whiskey/) (Tier 2)
-- [American Oversight: Chao IG investigation](https://americanoversight.org/transportation-dept-watchdog-says-former-secretary-elaine-chao-misused-her-office-echoing-american-oversight-investigations/) (Tier 1)
-- [ProPublica: Leonard Leo Supreme Court reporting](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2)
-- [Kentucky Lantern: fundraising decline reporting](https://kentuckylantern.com/2024/10/24/mcconnells-fundraising-total-the-lowest-in-years/) (Tier 2)
+- [FEC Candidate: McConnell career finance](https://www.fec.gov/data/candidate/S2KY00012/) (Tier 1) (VERIFIED)
+- [CREW: dark money investigations — SLF, One Nation, FTX connections](https://www.citizensforethics.org/reports-investigations/crew-investigations/mitch-mcconnell-tied-dark-money-group-bolstered-by-millions-from-ftx-fraudsters/) (Tier 2) (VERIFIED)
+- [NPR: tobacco documents investigation](https://www.npr.org/2019/06/17/730496066/tobaccos-special-friend-what-internal-documents-say-about-mitch-mcconnell) (Tier 2) (VERIFIED)
+- [Center for Public Integrity: Kentucky donor mapping](https://publicintegrity.org/politics/mitch-mcconnell-fueled-by-tobacco-and-whiskey/) (Tier 2) (VERIFIED)
+- [American Oversight: Chao IG investigation](https://americanoversight.org/transportation-dept-watchdog-says-former-secretary-elaine-chao-misused-her-office-echoing-american-oversight-investigations/) (Tier 1) (VERIFIED)
+- [ProPublica: Leonard Leo Supreme Court reporting](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2) (VERIFIED)
+- [Kentucky Lantern: fundraising decline reporting](https://kentuckylantern.com/2024/10/24/mcconnells-fundraising-total-the-lowest-in-years/) (Tier 2) (VERIFIED)
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->
@@ -223,7 +223,7 @@ McConnell announced retirement February 20, 2025 after multiple health episodes 
 - S.Con.Res. 12: A concurrent resolution authorizing the use of Emancipation Hall in the Capitol Visitor Center for a ceremony to present — *This concurrent resolution was agreed to by both chambers of Congress on May 8, 2025. That is the end of the legislative process for concurrent resolutions. They do not have the force of law.*
 - S. 1674: Mammoth Cave National Park Boundary Adjustment Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on May 8, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/300072) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/300072) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
 
 ## Influence Network (Cross-Reference)
@@ -273,7 +273,7 @@ McConnell announced retirement February 20, 2025 after multiple health episodes 
 | DITCH FUND | $0 | $3,114,757 |
 | SAVE AMERICA FUND | $0 | $3,098,840 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S2KY00012/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S2KY00012/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Voting Record
@@ -298,7 +298,7 @@ McConnell announced retirement February 20, 2025 after multiple health episodes 
 
 **Sources**
 
-- [GovTrack: Mitch McConnell](https://www.govtrack.us/congress/members/300072) (Tier 1)
+- [GovTrack: Mitch McConnell](https://www.govtrack.us/congress/members/300072) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
 
 ## Committee Assignments (Congress.gov)

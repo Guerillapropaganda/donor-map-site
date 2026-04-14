@@ -149,11 +149,11 @@ The post-Bruen litigation strategy reveals how **judicial capture can override d
 
 ### Sources
 
-- [OpenSecrets: Gun Owners of America organizational profile](https://www.opensecrets.org/orgs/gun-owners-of-america/summary) (Tier 1)
-- [IRS Form 990: Gun Owners of America (2022-2023)](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Gun%20Owners%20of%20America&city=&state=All+States&country=US) (Tier 1)
-- [OpenSecrets: Gun Owners of America lobbying profile](https://www.opensecrets.org/orgs/gun-owners-of-america/lobbying?id=D000026353) (Tier 1)
-- [SCOTUSblog: New York Rifle v. Bruen and Second Amendment doctrine](https://www.scotusblog.com/2022/06/a-minor-impact-on-gun-laws-but-a-potentially-momentous-shift-in-constitutional-method/) (Tier 3)
-- [Ballotpedia: Constitutional carry state list](https://ballotpedia.org/Constitutional_carry) (Tier 3)
+- ~~[OpenSecrets: Gun Owners of America organizational profile](https://www.opensecrets.org/orgs/gun-owners-of-america/summary)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[IRS Form 990: Gun Owners of America (2022-2023)](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Gun%20Owners%20of%20America&city=&state=All+States&country=US)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [OpenSecrets: Gun Owners of America lobbying profile](https://www.opensecrets.org/orgs/gun-owners-of-america/lobbying?id=D000026353) (Tier 1) (VERIFIED)
+- [SCOTUSblog: New York Rifle v. Bruen and Second Amendment doctrine](https://www.scotusblog.com/2022/06/a-minor-impact-on-gun-laws-but-a-potentially-momentous-shift-in-constitutional-method/) (Tier 3) (VERIFIED)
+- [Ballotpedia: Constitutional carry state list](https://ballotpedia.org/Constitutional_carry) (Tier 3) (VERIFIED)
 
 ---
 
@@ -179,12 +179,12 @@ The post-Bruen litigation strategy reveals how **judicial capture can override d
 | Agencies | Alcohol, Tobacco, Firearms, and Explosives Bureau, Interior Department, Justice Department, Treasury Department |
 
 **Recent regulatory activity:**
-- [Factoring Criteria for Firearms With Attached “Stabilizing Braces”](https://www.federalregister.gov/documents/2023/01/31/2023-01001/factoring-criteria-for-firearms-with-attached-stabilizing-braces) (2023-01-31) — Justice Department ★
-- [Implementation of Public Law 103-159, Relating to the Permanent Provisions of the Brady Handgun Violence Prevention Act](https://www.federalregister.gov/documents/1998/10/29/98-28986/implementation-of-public-law-103-159-relating-to-the-permanent-provisions-of-the-brady-handgun) (1998-10-29) — Treasury Department ★
-- [Reestablishment of Visitor Restrictions for Designated Recreation Sites, Special Recreation Management Areas, and Other Public Land in the Roswell District, NM](https://www.federalregister.gov/documents/1995/12/07/95-29852/reestablishment-of-visitor-restrictions-for-designated-recreation-sites-special-recreation) (1995-12-07) — Interior Department
-- [Establishment of Visitor Restrictions for Designated Recreation Sites, Special Recreation Management Areas, and Other Public Land in the Roswell District, New Mexico](https://www.federalregister.gov/documents/1995/05/10/95-11475/establishment-of-visitor-restrictions-for-designated-recreation-sites-special-recreation-management) (1995-05-10) — Interior Department
+- [Factoring Criteria for Firearms With Attached “Stabilizing Braces”](https://www.federalregister.gov/documents/2023/01/31/2023-01001/factoring-criteria-for-firearms-with-attached-stabilizing-braces) (VERIFIED) (2023-01-31) — Justice Department ★
+- [Implementation of Public Law 103-159, Relating to the Permanent Provisions of the Brady Handgun Violence Prevention Act](https://www.federalregister.gov/documents/1998/10/29/98-28986/implementation-of-public-law-103-159-relating-to-the-permanent-provisions-of-the-brady-handgun) (VERIFIED) (1998-10-29) — Treasury Department ★
+- [Reestablishment of Visitor Restrictions for Designated Recreation Sites, Special Recreation Management Areas, and Other Public Land in the Roswell District, NM](https://www.federalregister.gov/documents/1995/12/07/95-29852/reestablishment-of-visitor-restrictions-for-designated-recreation-sites-special-recreation) (VERIFIED) (1995-12-07) — Interior Department
+- [Establishment of Visitor Restrictions for Designated Recreation Sites, Special Recreation Management Areas, and Other Public Land in the Roswell District, New Mexico](https://www.federalregister.gov/documents/1995/05/10/95-11475/establishment-of-visitor-restrictions-for-designated-recreation-sites-special-recreation-management) (VERIFIED) (1995-05-10) — Interior Department
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Gun%20Owners%20of%20America%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Gun%20Owners%20of%20America%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Tax Filings (IRS 990)
@@ -202,14 +202,14 @@ The post-Bruen litigation strategy reveals how **judicial capture can override d
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/521256643/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/521256643/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/521256643/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/521256643/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/521256643/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/521256643/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/521256643/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/521256643/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/521256643/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/521256643/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/521256643) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/521256643) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Lobbying Activity
@@ -228,7 +228,7 @@ The post-Bruen litigation strategy reveals how **judicial capture can override d
 
 **Agencies contacted:** Army, Dept of (Corps of Engineers), Bureau of Alcohol Tobacco Firearms & Explosives, Bureau of Indian Affairs (BIA), Education, Dept of, Executive Office of the President (EOP), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Housing & Urban Development, Dept of (HUD), Justice, Dept of (DOJ), Labor, Dept of (DOL) +3 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Gun%20Owners%20of%20America) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Gun%20Owners%20of%20America) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -242,7 +242,7 @@ The post-Bruen litigation strategy reveals how **judicial capture can override d
 | Net Assets | $6.9M |
 | Officer Compensation | $327K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 521256643](https://projects.propublica.org/nonprofits/organizations/521256643) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 521256643](https://projects.propublica.org/nonprofits/organizations/521256643) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Wikipedia
@@ -251,13 +251,13 @@ Gun Owners of America (GOA) is a gun rights organization in the United States. I
 
 | Fact | Value |
 |------|-------|
-| Wikidata ID | [Q1771871](https://www.wikidata.org/wiki/Q1771871) |
+| Wikidata ID | [Q1771871](https://www.wikidata.org/wiki/Q1771871) (VERIFIED) |
 | Description | organization |
 | Founded | 1975-00-00 |
-| Website | [http://www.gunowners.org/](http://www.gunowners.org/) |
-| X/Twitter | [@gunowners](https://x.com/gunowners) |
-| Image | [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Gun_Owners_of_America_Logo.svg/330px-Gun_Owners_of_America_Logo.svg.png) |
+| Website | [http://www.gunowners.org/](http://www.gunowners.org/) (NEEDS REVIEW) |
+| X/Twitter | [@gunowners](https://x.com/gunowners) (VERIFIED) |
+| Image | ~~[Wikimedia Commons](https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Gun_Owners_of_America_Logo.svg/330px-Gun_Owners_of_America_Logo.svg.png)~~ (URL broken, archived by Ops) |
 
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/Gun_Owners_of_America) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q1771871) (Tier 2)
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Gun_Owners_of_America) (Tier 3) (VERIFIED)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q1771871) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->

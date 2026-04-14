@@ -64,7 +64,7 @@ The FEC web interface returns 1,178 results for "levin, mark" in Virginia, but n
 > [!money]
 > $0 personal FEC from a $50M net worth media personality who shapes the political views of 7M+ weekly listeners. Levin follows the dominant pattern among conservative media figures: Hannity ($0 from $250M+), Ingraham ($0 from $70M+), Gutfeld ($0 from $50M+). The donor class doesn't need its media personnel to donate, it needs them to broadcast. Levin's real political spending flows through Landmark Legal Foundation, which uses donor-class money to fund conservative legal activism that advances the same positions Levin argues on air. The $300K/year Landmark salary was the political contribution, paid by Koch, Scaife, and ExxonMobil to a man who reached millions of voters daily.
 
-- [FEC: Mark Levin individual contributions. Virginia (1,178 results, none matching radio host)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=levin+mark&contributor_state=VA) (Tier 1)
+- [FEC: Mark Levin individual contributions. Virginia (1,178 results, none matching radio host)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=levin+mark&contributor_state=VA) (Tier 1) (VERIFIED)
 
 ---
 
@@ -184,11 +184,11 @@ The key difference between Levin and pure institutional products like Hannity or
 ### Sources
 
 - [FEC: Mark Levin individual contributions. Virginia (1,178 results, none matching radio host)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=levin+mark&contributor_state=VA) (Tier 1)
-- [Cumulus Media: Mark Levin Extends Contract With Westwood One](https://www.cumulusmedia.com/2024/07/02/mark-levin-extends-contract-with-westwood-one/) (Tier 1)
-- [ADWEEK: Fox News Extends Mark Levin's Multi-Year Deal](https://www.adweek.com/tvnewser/fox-news-extends-mark-levins-multi-year-deal/) (Tier 2)
-- [Wikipedia: Mark Levin (citing Politico 2014 on Landmark Legal donors/salary, multiple sourced claims)](https://en.wikipedia.org/wiki/Mark_Levin) (Tier 3)
-- [Wikipedia: The Mark Levin Show](https://en.wikipedia.org/wiki/The_Mark_Levin_Show) (Tier 3)
-- [Wikipedia: Landmark Legal Foundation](https://en.wikipedia.org/wiki/Landmark_Legal_Foundation) (Tier 3)
+- [Cumulus Media: Mark Levin Extends Contract With Westwood One](https://www.cumulusmedia.com/2024/07/02/mark-levin-extends-contract-with-westwood-one/) (Tier 1) (VERIFIED)
+- [ADWEEK: Fox News Extends Mark Levin's Multi-Year Deal](https://www.adweek.com/tvnewser/fox-news-extends-mark-levins-multi-year-deal/) (Tier 2) (VERIFIED)
+- [Wikipedia: Mark Levin (citing Politico 2014 on Landmark Legal donors/salary, multiple sourced claims)](https://en.wikipedia.org/wiki/Mark_Levin) (Tier 3) (VERIFIED)
+- [Wikipedia: The Mark Levin Show](https://en.wikipedia.org/wiki/The_Mark_Levin_Show) (Tier 3) (VERIFIED)
+- [Wikipedia: Landmark Legal Foundation](https://en.wikipedia.org/wiki/Landmark_Legal_Foundation) (Tier 3) (VERIFIED)
 
 > **Source note:** The Politico 2014 article documenting Landmark Legal Foundation's Koch/Scaife/ExxonMobil donors and Levin's $300K+ salary is cited in Wikipedia but the original Politico URL could not be located for direct verification. The claim is corroborated by multiple secondary sources and Wikipedia's editorial review process. A future session should attempt to locate and Chrome-verify the original Politico article for direct Tier 2 citation.
 

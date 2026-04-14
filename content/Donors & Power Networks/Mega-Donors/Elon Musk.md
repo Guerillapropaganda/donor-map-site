@@ -55,7 +55,7 @@ audit-a-plus-passed: "2026-04-11"
 
 Elon Reeve Musk. Born June 28, 1971, Pretoria, South Africa. CEO of Tesla, SpaceX (merged with xAI, February 2026). Owner of X (formerly Twitter). Former head of DOGE (Department of Government Efficiency, January–May 2025).
 
-Net worth trajectory: $400B (December 2024) → $500B (October 2025) → $700B (December 2025) → $676–900B (March 2026). Bloomberg conservative estimate: $676B. Forbes: ~$852B. Oxfam analysis: approaching $900B, roughly $200B from becoming the world's first trillionaire. His wealth exceeds the GDP of all but ~20 countries. [Source: [Bloomberg Billionaires Index](https://www.bloomberg.com/billionaires/profiles/elon-r-musk/) (Tier 1); [Investormint: Elon Musk's Net Worth 2026](https://investormint.com/investing/elon-musk-net-worth) (Tier 2)]
+Net worth trajectory: $400B (December 2024) → $500B (October 2025) → $700B (December 2025) → $676–900B (March 2026). Bloomberg conservative estimate: $676B. Forbes: ~$852B. Oxfam analysis: approaching $900B, roughly $200B from becoming the world's first trillionaire. His wealth exceeds the GDP of all but ~20 countries. ~~[Source: ~~[Bloomberg Billionaires Index](https://www.bloomberg.com/billionaires/profiles/elon-r-musk/)~~ (was Tier 1 — URL broken, archived by Ops)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1); [Investormint: Elon Musk's Net Worth 2026](https://investormint.com/investing/elon-musk-net-worth) (Tier 2) (VERIFIED)]
 
 Born in Pretoria during apartheid. Father Errol Musk: partial owner of an emerald mine. Extent of family wealth disputed. The origin matters less than the current class position: the wealthiest person in human history, who ran the government agencies regulating his own companies, feuded publicly with the president he bought, and is now actively intervening in foreign elections.
 
@@ -86,9 +86,9 @@ Born in Pretoria during apartheid. Father Errol Musk: partial owner of an emeral
 > **January 2026:** $10 million to super PAC supporting Nate Morris in Kentucky Senate race (replacing retiring [[_Mitch McConnell Master Profile|Mitch McConnell]])
 > **Total 2025-2026 midterm spending:** $30M+ and climbing
 > His SLF donations helped bring the fund to $100M cash on hand at year-end 2025; CLF reached $54M cash on hand.
-> - [The Hill: Elon Musk's robust donations may aid GOP in 2026 midterms](https://thehill.com/policy/technology/5727198-musk-political-fray-big-2026-midterm-donations/) (Tier 2)
-> - [NBC News: Elon Musk gives millions to Republican super PACs ahead of the midterms](https://www.nbcnews.com/politics/2026-election/elon-musk-gives-millions-republican-super-pacs-ahead-midterms-rcna222114) (Tier 2)
-> - [Axios: Musk shocks with $10 million donation in Ky. Senate race](https://www.axios.com/2026/01/19/elon-musk-10-million-campaign-donation-kentucky) (Tier 2)
+> - ~~[The Hill: Elon Musk's robust donations may aid GOP in 2026 midterms](https://thehill.com/policy/technology/5727198-musk-political-fray-big-2026-midterm-donations/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+> - [NBC News: Elon Musk gives millions to Republican super PACs ahead of the midterms](https://www.nbcnews.com/politics/2026-election/elon-musk-gives-millions-republican-super-pacs-ahead-midterms-rcna222114) (Tier 2) (VERIFIED)
+> - ~~[Axios: Musk shocks with $10 million donation in Ky. Senate race](https://www.axios.com/2026/01/19/elon-musk-10-million-campaign-donation-kentucky)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ---
 
@@ -115,7 +115,7 @@ Born in Pretoria during apartheid. Father Errol Musk: partial owner of an emeral
 - DoD contract: up to $200 million (July 2025)
 - Projected revenue: $500M (2025) → $2B (2026)
 
-**Cumulative government support across all companies:** $38 billion+ [Source: [Fox Business: Musk government funding](https://www.foxbusiness.com/politics/how-much-have-musks-tesla-spacex-benefited-from-government-funds) (Tier 2)]
+**Cumulative government support across all companies:** $38 billion+ [Source: [Fox Business: Musk government funding](https://www.foxbusiness.com/politics/how-much-have-musks-tesla-spacex-benefited-from-government-funds) (Tier 2) (VERIFIED)]
 
 Then Musk was given control of DOGE, the agency cutting spending on everyone except [[Elon Musk]]. SpaceX received $5.9 billion in April 2025 while Musk was leading DOGE cuts. (See: [[DOGE - The Billionaires Government]])
 
@@ -158,7 +158,7 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]]: DOGE target
 
 ### The SpaceX-xAI Merger, $1.25 Trillion
 
-February 2, 2026: SpaceX and xAI merged into the most valuable private company in history. SpaceX valued at $1 trillion, xAI at $250 billion. Combined entity: $1.25 trillion. Musk holds ~43% ownership stake. [Source: [CNBC: SpaceX-xAI merger](https://web.archive.org/web/2026/https:/www.cnbc.com/2026/02/02/spacex-xai-merger.html) (Tier 2)]
+February 2, 2026: SpaceX and xAI merged into the most valuable private company in history. SpaceX valued at $1 trillion, xAI at $250 billion. Combined entity: $1.25 trillion. Musk holds ~43% ownership stake. ~~[Source: [CNBC: SpaceX-xAI merger](https://web.archive.org/web/2026/https:/www.cnbc.com/2026/02/02/spacex-xai-merger.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)]
 
 **xAI infrastructure:** Colossus supercomputer in Memphis (former Electrolux factory, Boxtown district). Colossus 2 online January 2026. $659 million expansion for 312,000 sq ft building. 2GW compute target. Southaven, Mississippi facility: 1 million GPU target by 2026. Uses wastewater for cooling.
 
@@ -170,7 +170,7 @@ The merger creates a vertically integrated empire: rockets (SpaceX), satellite i
 
 ### The X/Twitter Political Machine
 
-October 2022: $44 billion acquisition. Eliminated content moderation. Fired 75% of workforce. Deployed as MAGA megaphone. [Source: [CNN: Breakup analysis](https://www.cnn.com/2025/06/15/politics/musk-trump-breakup/) *(source unavailable)* (Tier 2)]
+October 2022: $44 billion acquisition. Eliminated content moderation. Fired 75% of workforce. Deployed as MAGA megaphone. ~~[Source: [CNN: Breakup analysis](https://www.cnn.com/2025/06/15/politics/musk-trump-breakup/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)]
 
 **Valuation recovery:** Low point: $5.3 billion (late 2023). March 2025: rebounded to $44 billion (same purchase price). Revenue: $2.26B in 2025 (up 16.5% YoY, first increase since acquisition) but still down from $4.4B pre-Musk peak. xAI merger provides additional financial support. [Source: [CNBC: SpaceX-xAI merger](https://web.archive.org/web/2026/https:/www.cnbc.com/2026/02/02/spacex-xai-merger.html) (Tier 2)]
 
@@ -213,7 +213,7 @@ Current status: "distrustful alliance of convenience." Both understand mutual da
 
 ### The $55 Billion Pay Package
 
-Tesla compensation: 2018 package tied to market cap milestones. January 2024: Delaware court rescinded the $55B package ("unfathomable"). December 2025: Delaware Supreme Court restored it. 2025: new ~$1 trillion potential 10-year package proposed. 2026: minimum compensation $26 billion for "showing up" two years. [Source: [Morningstar: Tesla compensation analysis](https://www.morningstar.com/company-reports/1422117-tesla-should-see-long-term-profit-growth-from-ai-robotaxis-and-humanoid-robots?listing=0P0000OQN8) (Tier 2)]
+Tesla compensation: 2018 package tied to market cap milestones. January 2024: Delaware court rescinded the $55B package ("unfathomable"). December 2025: Delaware Supreme Court restored it. 2025: new ~$1 trillion potential 10-year package proposed. 2026: minimum compensation $26 billion for "showing up" two years. [Source: [Morningstar: Tesla compensation analysis](https://www.morningstar.com/company-reports/1422117-tesla-should-see-long-term-profit-growth-from-ai-robotaxis-and-humanoid-robots?listing=0P0000OQN8) (Tier 2) (VERIFIED)]
 
 His personal pay exceeds the entire political spending budget of the American labor movement.
 
@@ -262,7 +262,7 @@ For IBEW: Tesla and SpaceX are non-union competitors in IBEW-adjacent work (EV e
 > [!money] The $292M → $38B Pipeline
 > Musk spent $292 million electing Trump in 2024. His companies hold $38 billion+ in cumulative government contracts and support. He was given authority over the agencies that regulate those companies. SpaceX received $5.9 billion in new contracts while Musk was cutting other agencies' budgets. The $292 million political investment purchased direct access to the regulatory and procurement apparatus. ROI: approximately 130-to-1 measured in government contract value alone, and that's before counting the regulatory relief (NLRB gutting, Davis-Bacon enforcement reduction, SEC settlement positioning) that protects his commercial operations.
 
-[Source: [OpenSecrets. Elon Musk 2024 donor profile](https://www.fec.gov/data/independent-expenditures/?q=Elon%20Musk) (Tier 1); [Fox Business: Musk government funding](https://www.foxbusiness.com/politics/how-much-have-musks-tesla-spacex-benefited-from-government-funds) (Tier 2)]
+[Source: [OpenSecrets. Elon Musk 2024 donor profile](https://www.fec.gov/data/independent-expenditures/?q=Elon%20Musk) (Tier 1) (VERIFIED); [Fox Business: Musk government funding](https://www.foxbusiness.com/politics/how-much-have-musks-tesla-spacex-benefited-from-government-funds) (Tier 2)]
 
 ---
 
@@ -272,22 +272,22 @@ Musk's $292M didn't just elect Trump. It bought him a seat inside four structura
 
 ### AI Regulation Moratorium (Lost in Senate, Won Later)
 
-The One Big Beautiful Bill as passed by the House (May 2025) included a 10-year moratorium on state AI regulation, introduced by Rep. Brett Guthrie (R-KY). The Senate struck the provision 99-1 on July 1, 2025 on a bipartisan amendment sponsored by Markey, Cantwell, and Blackburn. xAI (Grok) and every other AI-dependent business Musk owns would have had state laws preempted. The moratorium died in that vote, but Trump's March 2026 AI executive order revived the preemption fight through administrative channels. Sources: [CNN: Senate strikes AI moratorium](https://www.cnn.com/2025/07/01/tech/senate-strikes-ai-regulation-moratorium-agenda-bill) (Tier 2); [The Markup: Congress moves to cut off states' AI regulations](https://themarkup.org/artificial-intelligence/2025/05/16/congress-moves-to-cut-off-states-ai-regulations) (Tier 2).
+The One Big Beautiful Bill as passed by the House (May 2025) included a 10-year moratorium on state AI regulation, introduced by Rep. Brett Guthrie (R-KY). The Senate struck the provision 99-1 on July 1, 2025 on a bipartisan amendment sponsored by Markey, Cantwell, and Blackburn. xAI (Grok) and every other AI-dependent business Musk owns would have had state laws preempted. The moratorium died in that vote, but Trump's March 2026 AI executive order revived the preemption fight through administrative channels. Sources: [CNN: Senate strikes AI moratorium](https://www.cnn.com/2025/07/01/tech/senate-strikes-ai-regulation-moratorium-agenda-bill) (Tier 2) (VERIFIED); [The Markup: Congress moves to cut off states' AI regulations](https://themarkup.org/artificial-intelligence/2025/05/16/congress-moves-to-cut-off-states-ai-regulations) (Tier 2) (VERIFIED).
 
 ### FAA Part 450 Consolidation (SpaceX's Regulatory Holy Grail)
 
-FAA Part 450 consolidated commercial space launch/reentry licensing from four separate regulations (Parts 415, 417, 431, 435) into a single performance-based framework, allowing one license to cover multiple launches, vehicles, and sites. The rule was finalized in 2021 but became fully effective March 2026, accelerated by a 2025 Trump executive order directing agencies to eliminate redundant commercial space requirements. FAA licensed 148 commercial space operations in FY2024, up 30% from the prior year, and projects 2,000-4,000 launches over the next decade. This is SpaceX's regulatory moat: bottleneck relief that lets it outpace every competitor while the FAA's capacity to police environmental and safety review shrinks. Sources: [FAA: New Record Commercial Space Operations](https://www.faa.gov/newsroom/new-record-faa-licensed-commercial-space-operations-aerospace-rulemaking-committee) (Tier 1); [FLYING Magazine: FAA Part 450](https://www.flyingmag.com/faa-launch-regulations-commercial-space-part-450/) (Tier 2).
+FAA Part 450 consolidated commercial space launch/reentry licensing from four separate regulations (Parts 415, 417, 431, 435) into a single performance-based framework, allowing one license to cover multiple launches, vehicles, and sites. The rule was finalized in 2021 but became fully effective March 2026, accelerated by a 2025 Trump executive order directing agencies to eliminate redundant commercial space requirements. FAA licensed 148 commercial space operations in FY2024, up 30% from the prior year, and projects 2,000-4,000 launches over the next decade. This is SpaceX's regulatory moat: bottleneck relief that lets it outpace every competitor while the FAA's capacity to police environmental and safety review shrinks. Sources: [FAA: New Record Commercial Space Operations](https://www.faa.gov/newsroom/new-record-faa-licensed-commercial-space-operations-aerospace-rulemaking-committee) (Tier 1) (VERIFIED); [FLYING Magazine: FAA Part 450](https://www.flyingmag.com/faa-launch-regulations-commercial-space-part-450/) (Tier 2) (VERIFIED).
 
 ### EV Tax Credits (Tesla's Double Game)
 
-OBBBA terminated IRA §30D (New Clean Vehicle Credit, $7,500), §25E (Used Clean Vehicle Credit, $4,000), and §45W (Commercial Clean Vehicle Credit) effective September 30, 2025. Tesla publicly opposed termination (Tesla Energy X post, May 29, 2025; Musk amplification). This is the contradiction: Musk built his career on federal EV subsidies, then funded the party that killed them, then complained when they died. Sources: [Taxpayers for Common Sense: OBBBA energy credits](https://www.taxpayer.net/budget-appropriations-tax/how-would-the-one-big-beautiful-bill-change-energy-tax-credits/) (Tier 2); [Politico: Musk/Tesla vs GOP](https://www.politico.com/news/2025/05/29/musk-tesla-blast-gop-end-clean-energy-tax-credits-00374074) (Tier 2).
+OBBBA terminated IRA §30D (New Clean Vehicle Credit, $7,500), §25E (Used Clean Vehicle Credit, $4,000), and §45W (Commercial Clean Vehicle Credit) effective September 30, 2025. Tesla publicly opposed termination (Tesla Energy X post, May 29, 2025; Musk amplification). This is the contradiction: Musk built his career on federal EV subsidies, then funded the party that killed them, then complained when they died. Sources: [Taxpayers for Common Sense: OBBBA energy credits](https://www.taxpayer.net/budget-appropriations-tax/how-would-the-one-big-beautiful-bill-change-energy-tax-credits/) (Tier 2) (VERIFIED); [Politico: Musk/Tesla vs GOP](https://www.politico.com/news/2025/05/29/musk-tesla-blast-gop-end-clean-energy-tax-credits-00374074) (Tier 2) (VERIFIED).
 
 > [!contradiction]
 > Musk's companies took billions in EV tax credits and regulatory credits since 2010. Tesla's 2024 regulatory credit revenue alone was $2.8 billion. Then Musk spent $292 million electing the coalition that campaigned on killing those credits. When the coalition delivered on its promise in July 2025, Tesla cried foul. This is the Donor-Class Override pattern: the political coalition you bought will always prioritize its anti-climate base over your personal margin. Musk assumed he could buy protection from the base he mobilized. He couldn't.
 
 ### America First Legal. The Secret $43 Million
 
-In 2022, Musk secretly donated at least $43 million to an America First Legal (AFL) subsidiary. AFL is Stephen Miller's organization. Its Treasurer at the time was Russell Vought, who then became Trump's OMB Director. DeSmog documents Musk ties to Project 2025 architects through this donation chain. The money was dark money until disclosure, and it paid for the legal infrastructure that now runs immigration enforcement and the dismantling of DEI. Source: [DeSmog: Musk tied to Project 2025](https://www.desmog.com/2025/06/02/map-70-percent-trump-cabinet-tie-project-2025-heritage-afpi-convention-states-dunn-doge/ject-2025-heritage-afpi-convention-states-dunn-doge/) (Tier 2).
+In 2022, Musk secretly donated at least $43 million to an America First Legal (AFL) subsidiary. AFL is Stephen Miller's organization. Its Treasurer at the time was Russell Vought, who then became Trump's OMB Director. DeSmog documents Musk ties to Project 2025 architects through this donation chain. The money was dark money until disclosure, and it paid for the legal infrastructure that now runs immigration enforcement and the dismantling of DEI. Source: ~~[DeSmog: Musk tied to Project 2025](https://www.desmog.com/2025/06/02/map-70-percent-trump-cabinet-tie-project-2025-heritage-afpi-convention-states-dunn-doge/ject-2025-heritage-afpi-convention-states-dunn-doge/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2).
 
 ---
 
@@ -302,7 +302,7 @@ Musk wasn't alone. America PAC received contributions from a who's who of tech-o
 - **Joe Craft** (Alliance Resource Partners, coal)
 - **Douglas M. Leone** (Sequoia Capital)
 
-Source: [InfluenceWatch: America PAC donor roster](https://www.influencewatch.org/political-party/america-pac/) (Tier 3).
+Source: [InfluenceWatch: America PAC donor roster](https://www.influencewatch.org/political-party/america-pac/) (Tier 3) (VERIFIED).
 
 Musk provided 91% of declared contributions as of December 2024. The other 9% is the co-donor signal: the PayPal Mafia ([[Peter Thiel]], Lonsdale, Howery) and the coal/carbon-economy donors (Craft) aligned behind the same vehicle. This is the Donor-Class Override made visible: separate sectors with separate policy interests, unified by shared hostility to labor, regulation, and civil service.
 
@@ -321,7 +321,7 @@ All six donors who exceeded $100M in 2024 election spending gave exclusively to 
 | [[Kenneth Griffin]] | $100M+ | Hedge fund (Citadel) |
 | [[Jeffrey Yass]] | $100M+ | Trading firm (Susquehanna) |
 
-Source: [OpenSecrets: 2024 mega-donor analysis](https://www.opensecrets.org/news/2025/03/elon-musk-tops-list-of-2024-political-donors-but-six-others-gave-more-than-100-million) (Tier 1).
+Source: [OpenSecrets: 2024 mega-donor analysis](https://www.opensecrets.org/news/2025/03/elon-musk-tops-list-of-2024-political-donors-but-six-others-gave-more-than-100-million) (Tier 1) (VERIFIED).
 
 Six individuals accounted for over $900 million in 2024 election spending. That's roughly the combined political expenditure of the entire American labor movement, multiplied by five, concentrated in six donors, directed at one party.
 
@@ -331,10 +331,10 @@ Six individuals accounted for over $900 million in 2024 election spending. That'
 
 ### Political Spending:
 - [OpenSecrets. Elon Musk 2024 donor profile](https://www.fec.gov/data/independent-expenditures/?q=Elon%20Musk) (Tier 1)
-- [OpenSecrets News, 2024 political donors ranking](https://www.opensecrets.org/news/2025/03/elon-musk-tops-list-of-2024-political-donors-but-six-others-gave-more-than-100-million) (Tier 1)
-- [The Hill. Musk contributes to Trump super PAC](https://www.thehill.com/homenews/campaign/4953444-elon-musk-contributes-trump-super-pac/) (Tier 2)
-- [NBC News. Elon Musk's quarter-billion-dollar 2024 spending](https://www.nbcnews.com/politics/2024-election/elon-musk-spent-quarter-billion-dollars-electing-trump-financing-myste-rcna182922) (Tier 2)
-- [Al Jazeera. Musk's $75M pro-Trump group contribution](https://www.aljazeera.com/news/2024/10/16/musk-gave-seventy-five-million-to-pro-trump-group-underscoring-influence-on-race) (Tier 2)
+- [OpenSecrets News, 2024 political donors ranking](https://www.opensecrets.org/news/2025/03/elon-musk-tops-list-of-2024-political-donors-but-six-others-gave-more-than-100-million) (Tier 1) (VERIFIED)
+- ~~[The Hill. Musk contributes to Trump super PAC](https://www.thehill.com/homenews/campaign/4953444-elon-musk-contributes-trump-super-pac/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [NBC News. Elon Musk's quarter-billion-dollar 2024 spending](https://www.nbcnews.com/politics/2024-election/elon-musk-spent-quarter-billion-dollars-electing-trump-financing-myste-rcna182922) (Tier 2) (VERIFIED)
+- [Al Jazeera. Musk's $75M pro-Trump group contribution](https://www.aljazeera.com/news/2024/10/16/musk-gave-seventy-five-million-to-pro-trump-group-underscoring-influence-on-race) (Tier 2) (VERIFIED)
 
 ### DOGE:
 - Brookings Institution. Federal spending tracking ($7.135T → $7.558T) (Tier 1)
@@ -367,14 +367,14 @@ Six individuals accounted for over $900 million in 2024 election spending. That'
 - NPR. Germany accuses Musk of election interference (Tier 2)
 
 ### Legal:
-- [CNBC. SEC settlement talks March 2026](https://www.cnbc.com/2026/03/17/elon-musk-sec-in-talks-to-settle-government-lawsuit-over-twitter-deal.html) (Tier 2)
-- [SEC.gov. Elon R. Musk litigation release](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26219) (Tier 1)
-- [Bloomberg. Musk seeks dismissal of SEC lawsuit](https://www.bloomberg.com/news/articles/2025-08-29/musk-seeks-dismissal-of-sec-suit-over-twitter-stake-disclosure) (Tier 2)
+- [CNBC. SEC settlement talks March 2026](https://www.cnbc.com/2026/03/17/elon-musk-sec-in-talks-to-settle-government-lawsuit-over-twitter-deal.html) (Tier 2) (VERIFIED)
+- [SEC.gov. Elon R. Musk litigation release](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26219) (Tier 1) (VERIFIED)
+- ~~[Bloomberg. Musk seeks dismissal of SEC lawsuit](https://www.bloomberg.com/news/articles/2025-08-29/musk-seeks-dismissal-of-sec-suit-over-twitter-stake-disclosure)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ### Net Worth:
 - [Bloomberg Billionaires Index](https://www.bloomberg.com/billionaires/profiles/elon-r-musk/) (Tier 1)
-- [Wikipedia. Wealth of Elon Musk](https://en.wikipedia.org/wiki/Wealth_of_Elon_Musk) (Tier 3)
-- [Investormint. Elon Musk's Net Worth 2026](https://investormint.com/investing/elon-musk-net-worth) (Tier 2)
+- [Wikipedia. Wealth of Elon Musk](https://en.wikipedia.org/wiki/Wealth_of_Elon_Musk) (Tier 3) (VERIFIED)
+- [Investormint. Elon Musk's Net Worth 2026](https://investormint.com/investing/elon-musk-net-worth) (Tier 2) (VERIFIED)
 
 ---
 
@@ -390,14 +390,14 @@ Six individuals accounted for over $900 million in 2024 election spending. That'
 > [!contradiction]
 > The architect of DOGE, which eliminated hundreds of thousands of federal jobs, now offers to personally pay the salaries of federal workers affected by a government shutdown that DOGE's dysfunction helped create. This is the billionaire-as-government model made literal.
 
-- [Fortune: DOGE staffer deposition on deficit failure](https://fortune.com/2026/03/16/doge-employee-deposition-lawsuit-federal-deficit-elon-musk-spending/) (Tier 2)
-- [Fortune: DOGE cancelled HVAC grant via ChatGPT DEI flagging](https://fortune.com/2026/03/19/doge-cancelled-350000-hvac-grant-dei-lawsuit-elon-musk/) (Tier 2)
-- [Washington Times: Musk offers TSA salaries during DHS shutdown](https://www.washingtontimes.com/news/2026/mar/21/musk-offers-pay-tsa-salaries-dhs-shutdown-stretches-fifth-week/) (Tier 2)
+- [Fortune: DOGE staffer deposition on deficit failure](https://fortune.com/2026/03/16/doge-employee-deposition-lawsuit-federal-deficit-elon-musk-spending/) (Tier 2) (VERIFIED)
+- [Fortune: DOGE cancelled HVAC grant via ChatGPT DEI flagging](https://fortune.com/2026/03/19/doge-cancelled-350000-hvac-grant-dei-lawsuit-elon-musk/) (Tier 2) (VERIFIED)
+- [Washington Times: Musk offers TSA salaries during DHS shutdown](https://www.washingtontimes.com/news/2026/mar/21/musk-offers-pay-tsa-salaries-dhs-shutdown-stretches-fifth-week/) (Tier 2) (VERIFIED)
 
 **xAI rebuild admission (March 13, 2026):** Musk admitted xAI "was not built right first time around" and "is being rebuilt from the foundations up", six weeks after Tesla invested $2 billion of shareholder money into the company. The SpaceX-xAI merger (February 2026) valued the combined entity at $1–1.25 trillion. Multiple xAI co-founders have departed. This is a rare public admission of failure from Musk on a project he poured billions of other people's money into.
 
-- [Electrek: Musk admits xAI not built right, rebuild underway](https://electrek.co/2026/03/13/elon-musk-admits-xai-built-wrong-rebuild-tesla-spacex-investment/) (Tier 2)
-- [CNBC: Musk says xAI must be rebuilt as co-founder exodus continues](https://www.cnbc.com/2026/03/13/elon-musk-xai-co-founders-spacex-ipo.html) (Tier 2)
+- [Electrek: Musk admits xAI not built right, rebuild underway](https://electrek.co/2026/03/13/elon-musk-admits-xai-built-wrong-rebuild-tesla-spacex-investment/) (Tier 2) (VERIFIED)
+- [CNBC: Musk says xAI must be rebuilt as co-founder exodus continues](https://www.cnbc.com/2026/03/13/elon-musk-xai-co-founders-spacex-ipo.html) (Tier 2) (VERIFIED)
 
 **Terafab announced (March 22, 2026):** Musk announced "Terafab," a **$20 billion** private chip manufacturing facility in Austin, Texas, a joint venture between Tesla, SpaceX, and xAI to produce AI chips for vehicles, humanoid robots, and space applications. Target: a terawatt of annual AI computing power. This is the most significant move yet toward Musk vertically integrating his entire industrial empire: from raw chip fab to rockets, cars, AI, and communications.
 
@@ -408,9 +408,9 @@ Six individuals accounted for over $900 million in 2024 election spending. That'
 
 **DOGE self-assessment (March 2026):** Musk told PBS that DOGE was "only somewhat successful" and that he "wouldn't do it again." This is the first major public admission from Musk that the operation fell short, corroborating the Cavanaugh deposition findings above.
 
-- [Bloomberg: Elon Musk Plans Terafab Chip Facility in Austin with Tesla, SpaceX, xAI](https://www.bloomberg.com/news/articles/2026-03-22/elon-musk-says-tesla-xai-spacex-terafab-to-start-in-austin) (Tier 2)
-- [Fortune: Elon Musk's retreat from DOGE has lifted Tesla's valuation by $158 billion](https://fortune.com/article/elon-musk-doge-tesla-stock-market-cap-outlook/) (Tier 2)
-- [PBS: Elon Musk says DOGE was only 'somewhat successful' and he wouldn't do it again](https://www.pbs.org/newshour/politics/elon-musk-says-doge-was-only-somewhat-successful-and-he-wouldnt-do-it-again) (Tier 2)
+- ~~[Bloomberg: Elon Musk Plans Terafab Chip Facility in Austin with Tesla, SpaceX, xAI](https://www.bloomberg.com/news/articles/2026-03-22/elon-musk-says-tesla-xai-spacex-terafab-to-start-in-austin)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Fortune: Elon Musk's retreat from DOGE has lifted Tesla's valuation by $158 billion](https://fortune.com/article/elon-musk-doge-tesla-stock-market-cap-outlook/) (Tier 2) (VERIFIED)
+- [PBS: Elon Musk says DOGE was only 'somewhat successful' and he wouldn't do it again](https://www.pbs.org/newshour/politics/elon-musk-says-doge-was-only-somewhat-successful-and-he-wouldnt-do-it-again) (Tier 2) (VERIFIED)
 
 ### March 24, 2026 Update. Appeals Court Shields Musk from Deposition
 
@@ -418,8 +418,8 @@ Six individuals accounted for over $900 million in 2024 election spending. That'
 
 **DHS shutdown deepens Musk contradictions:** With the DHS shutdown in its 38th day (March 24), 366 TSA officers have quit and callout rates are 5x normal. ICE agents are now deployed to airports to cover TSA shortfalls. Musk's earlier offer to pay TSA salaries remains unresolved, the architect of government destruction offering to personally subsidize the wreckage.
 
-- [Bloomberg: Appeals court blocks Musk deposition in DOGE fight](https://www.bloomberg.com/news/articles/2026-03-04/elon-musk-deposition-blocked-by-appeals-court-in-doge-fight) (Tier 2)
-- [Government Executive: Inside DOGE's early days of chaos](https://www.govexec.com/management/2026/03/inside-doges-early-days-pressure-campaigns-rule-breaking-and-chaos/412193/) (Tier 2)
+- ~~[Bloomberg: Appeals court blocks Musk deposition in DOGE fight](https://www.bloomberg.com/news/articles/2026-03-04/elon-musk-deposition-blocked-by-appeals-court-in-doge-fight)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Government Executive: Inside DOGE's early days of chaos](https://www.govexec.com/management/2026/03/inside-doges-early-days-pressure-campaigns-rule-breaking-and-chaos/412193/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -459,7 +459,7 @@ Six individuals accounted for over $900 million in 2024 election spending. That'
 | EARLY VOTE ACTION PAC | $1,000,000 | - |
 | TRUMP 47 COMMITTEE, INC. | $924,600 | - |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Elon%20Musk) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Elon%20Musk) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### DOJ Press Releases
@@ -480,7 +480,7 @@ Six individuals accounted for over $900 million in 2024 election spending. That'
 - 2016-11-02 - **425**: 425
 - 2024-05-21 - **PX14A6G**: PX14A6G
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Elon%20Musk%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Elon%20Musk%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 <!-- auto:sec-edgar pending-merge 2026-04-10 -->

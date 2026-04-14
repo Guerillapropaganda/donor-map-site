@@ -46,19 +46,19 @@ audit-a-plus-passed: "2026-04-11"
 
 [[Goldman Sachs|Goldman Sachs]] is the largest global investment banking firm and the single most documented case of financial regulatory capture in American history. The firm has given **$39 million** in political contributions since 1989, making it one of the top political donors among publicly traded companies in every election cycle since 2000.
 
-[Goldman Sachs PAC Contributions to Federal Candidates. OpenSecrets](https://www.opensecrets.org/political-action-committees-pacs/goldman-sachs/C00350744/candidate-recipients/2024) (Tier 1)
+[Goldman Sachs PAC Contributions to Federal Candidates. OpenSecrets](https://www.opensecrets.org/political-action-committees-pacs/goldman-sachs/C00350744/candidate-recipients/2024) (Tier 1) (VERIFIED)
 
-[Goldman Sachs Profile: Summary. OpenSecrets](https://www.opensecrets.org/orgs/goldman-sachs/summary?id=D000000085) (Tier 1)
+[Goldman Sachs Profile: Summary. OpenSecrets](https://www.opensecrets.org/orgs/goldman-sachs/summary?id=D000000085) (Tier 1) (VERIFIED)
 
-[Goldman Sachs Profile: Totals. OpenSecrets](https://www.opensecrets.org/orgs/goldman-sachs/totals?id=D000000085) (Tier 1)
+[Goldman Sachs Profile: Totals. OpenSecrets](https://www.opensecrets.org/orgs/goldman-sachs/totals?id=D000000085) (Tier 1) (VERIFIED)
 
 Goldman's PAC spends approximately **$5 million per election cycle**, split roughly 50/50 between Republican and Democratic candidates. This bipartisan distribution masks a deeper reality: Goldman donates to whoever is in power, regardless of party, because its policy priorities transcend partisan divisions.
 
 In 2024, Goldman gave $451,000 to federal candidates directly through its PAC, plus $3.5 million in total contributions across all forms. Goldman spent $2.74 million lobbying in 2024, and $2.3 million lobbying in 2025.
 
-[Goldman Sachs PAC Donors. OpenSecrets](https://www.opensecrets.org/political-action-committees-pacs/goldman-sachs/c00350744/donors/2024) (Tier 1)
+[Goldman Sachs PAC Donors. OpenSecrets](https://www.opensecrets.org/political-action-committees-pacs/goldman-sachs/c00350744/donors/2024) (Tier 1) (VERIFIED)
 
-[Goldman Sachs Lobbying Profile. OpenSecrets](https://lda.gov/filings/public/filing/search/) (Tier 1)
+[Goldman Sachs Lobbying Profile. OpenSecrets](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
 
 ### What They Want
 
@@ -103,7 +103,7 @@ The revolving door:
 
 These are not coincidences. Goldman deliberately places executives in government positions to ensure favorable policy.
 
-[U.S. banks' IPOs and political money contributions](https://www.sciencedirect.com/science/article/abs/pii/S1572308922000808) (Tier 2)
+[U.S. banks' IPOs and political money contributions](https://www.sciencedirect.com/science/article/abs/pii/S1572308922000808) (Tier 2) (VERIFIED)
 
 ### Who They Fund / Who Funds Them
 
@@ -201,10 +201,10 @@ Goldman's bipartisan giving reflects this reality: donate to whoever is in power
 - [Goldman Sachs Profile: Totals. OpenSecrets](https://www.opensecrets.org/orgs/goldman-sachs/totals?id=D000000085) (Tier 1)
 - [Goldman Sachs PAC Donors. OpenSecrets](https://www.opensecrets.org/political-action-committees-pacs/goldman-sachs/c00350744/donors/2024) (Tier 1)
 - [Goldman Sachs Lobbying Profile. OpenSecrets](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Goldman Sachs PAC Finance Summary 2025–2026. BeautifyData](https://beautifydata.com/us-campaign-donations/2025-2026/pac-summary/the-goldman-sachs-group-inc-political-action-committee) (Tier 3)
-- [U.S. banks' IPOs and political money contributions. ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S1572308922000808) (Tier 2)
-- [Goldman Sachs Keeps Its Wallet Closed to Politicians, Parties. Bloomberg](https://www.bloomberg.com/news/articles/2021-07-08/goldman-sachs-keeps-its-wallet-closed-to-politicians-parties) (Tier 2)
-- [THE GOLDMAN SACHS GROUP, INC. POLITICAL ACTION COMMITTEE. FEC.gov](https://www.fec.gov/data/committee/C00350744/?tab=summary) (Tier 1)
+- [Goldman Sachs PAC Finance Summary 2025–2026. BeautifyData](https://beautifydata.com/us-campaign-donations/2025-2026/pac-summary/the-goldman-sachs-group-inc-political-action-committee) (Tier 3) (VERIFIED)
+- [U.S. banks' IPOs and political money contributions. ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S1572308922000808) (Tier 2) (VERIFIED)
+- ~~[Goldman Sachs Keeps Its Wallet Closed to Politicians, Parties. Bloomberg](https://www.bloomberg.com/news/articles/2021-07-08/goldman-sachs-keeps-its-wallet-closed-to-politicians-parties)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [THE GOLDMAN SACHS GROUP, INC. POLITICAL ACTION COMMITTEE. FEC.gov](https://www.fec.gov/data/committee/C00350744/?tab=summary) (Tier 1) (VERIFIED)
 
 ### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
@@ -215,8 +215,8 @@ Goldman's bipartisan giving reflects this reality: donate to whoever is in power
 | Total Expenses | $57.9M |
 | Net Assets | $648.2M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 311678646](https://projects.propublica.org/nonprofits/organizations/311678646) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F311678646_202312_990PF_2025010222971038.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 311678646](https://projects.propublica.org/nonprofits/organizations/311678646) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F311678646_202312_990PF_2025010222971038.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Influence Network (Cross-Reference)
@@ -283,15 +283,15 @@ Goldman's bipartisan giving reflects this reality: donate to whoever is in power
 | Agencies | Comptroller of the Currency, Employee Benefits Security Administration, Energy Department, Federal Deposit Insurance Corporation, Federal Energy Regulatory Commission, Federal Reserve System, Labor Department, Securities and Exchange Commission +1 more |
 
 **Recent regulatory activity:**
-- [Proposed Exemption for The Goldman Sachs Group, Inc. (Goldman) Located in New York, New York](https://www.federalregister.gov/documents/2026/04/02/2026-06408/proposed-exemption-for-the-goldman-sachs-group-inc-goldman-located-in-new-york-new-york) (2026-04-02) — Labor Department
-- [Fiduciary Duties in Selecting Designated Investment Alternatives](https://www.federalregister.gov/documents/2026/03/31/2026-06178/fiduciary-duties-in-selecting-designated-investment-alternatives) (2026-03-31) — Labor Department
-- [Multi-Class ETF Fund Exemptive Relief Under the Investment Company Act of 1940](https://www.federalregister.gov/documents/2026/03/30/2026-06021/multi-class-etf-fund-exemptive-relief-under-the-investment-company-act-of-1940) (2026-03-30) — Securities and Exchange Commission
-- [Regulatory Capital Rule: Category I and II Banking Organizations, Banking Organizations With Significant Trading Activity, and Optional Adoption for Other Banking Organizations](https://www.federalregister.gov/documents/2026/03/27/2026-05959/regulatory-capital-rule-category-i-and-ii-banking-organizations-banking-organizations-with) (2026-03-27) — Treasury Department ★
-- [Joint Industry Plan; Order Approving an Amendment to the National Market System Plan Governing the Consolidated Audit Trail, as Modified by the Commission, Regarding Implementation of a Revised Funding Model](https://www.federalregister.gov/documents/2026/03/19/2026-05350/joint-industry-plan-order-approving-an-amendment-to-the-national-market-system-plan-governing-the) (2026-03-19) — Securities and Exchange Commission
-- [Self-Regulatory Organizations; MEMX LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend Rule 19.3 To Permit the Listing and Trading of Options on Commodity-Based Trust Shares](https://www.federalregister.gov/documents/2026/01/16/2026-00805/self-regulatory-organizations-memx-llc-notice-of-filing-and-immediate-effectiveness-of-a-proposed) (2026-01-16) — Securities and Exchange Commission
+- [Proposed Exemption for The Goldman Sachs Group, Inc. (Goldman) Located in New York, New York](https://www.federalregister.gov/documents/2026/04/02/2026-06408/proposed-exemption-for-the-goldman-sachs-group-inc-goldman-located-in-new-york-new-york) (VERIFIED) (2026-04-02) — Labor Department
+- [Fiduciary Duties in Selecting Designated Investment Alternatives](https://www.federalregister.gov/documents/2026/03/31/2026-06178/fiduciary-duties-in-selecting-designated-investment-alternatives) (VERIFIED) (2026-03-31) — Labor Department
+- [Multi-Class ETF Fund Exemptive Relief Under the Investment Company Act of 1940](https://www.federalregister.gov/documents/2026/03/30/2026-06021/multi-class-etf-fund-exemptive-relief-under-the-investment-company-act-of-1940) (VERIFIED) (2026-03-30) — Securities and Exchange Commission
+- [Regulatory Capital Rule: Category I and II Banking Organizations, Banking Organizations With Significant Trading Activity, and Optional Adoption for Other Banking Organizations](https://www.federalregister.gov/documents/2026/03/27/2026-05959/regulatory-capital-rule-category-i-and-ii-banking-organizations-banking-organizations-with) (VERIFIED) (2026-03-27) — Treasury Department ★
+- [Joint Industry Plan; Order Approving an Amendment to the National Market System Plan Governing the Consolidated Audit Trail, as Modified by the Commission, Regarding Implementation of a Revised Funding Model](https://www.federalregister.gov/documents/2026/03/19/2026-05350/joint-industry-plan-order-approving-an-amendment-to-the-national-market-system-plan-governing-the) (VERIFIED) (2026-03-19) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; MEMX LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend Rule 19.3 To Permit the Listing and Trading of Options on Commodity-Based Trust Shares](https://www.federalregister.gov/documents/2026/01/16/2026-00805/self-regulatory-organizations-memx-llc-notice-of-filing-and-immediate-effectiveness-of-a-proposed) (VERIFIED) (2026-01-16) — Securities and Exchange Commission
 - ... and 794 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Goldman%20Sachs%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Goldman%20Sachs%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### SEC Filing Activity
@@ -305,13 +305,13 @@ Goldman's bipartisan giving reflects this reality: donate to whoever is in power
 
 **Notable filings:**
 
-- 2026-04-07 — **424B2**: [424B2](https://www.sec.gov/Archives/edgar/data/886982/000119312526145773/0001193125-26-145773-index.htm)
-- 2026-04-07 — **424B2**: [424B2](https://www.sec.gov/Archives/edgar/data/886982/000119312526145771/0001193125-26-145771-index.htm)
-- 2026-04-07 — **424B2**: [424B2](https://www.sec.gov/Archives/edgar/data/886982/000119312526145765/0001193125-26-145765-index.htm)
-- 2026-04-07 — **424B2**: [424B2](https://www.sec.gov/Archives/edgar/data/886982/000119312526145760/0001193125-26-145760-index.htm)
-- 2026-04-07 — **424B2**: [424B2](https://www.sec.gov/Archives/edgar/data/886982/000119312526145692/0001193125-26-145692-index.htm)
+- 2026-04-07 — **424B2**: [424B2](https://www.sec.gov/Archives/edgar/data/886982/000119312526145773/0001193125-26-145773-index.htm) (VERIFIED)
+- 2026-04-07 — **424B2**: [424B2](https://www.sec.gov/Archives/edgar/data/886982/000119312526145771/0001193125-26-145771-index.htm) (VERIFIED)
+- 2026-04-07 — **424B2**: [424B2](https://www.sec.gov/Archives/edgar/data/886982/000119312526145765/0001193125-26-145765-index.htm) (VERIFIED)
+- 2026-04-07 — **424B2**: [424B2](https://www.sec.gov/Archives/edgar/data/886982/000119312526145760/0001193125-26-145760-index.htm) (VERIFIED)
+- 2026-04-07 — **424B2**: [424B2](https://www.sec.gov/Archives/edgar/data/886982/000119312526145692/0001193125-26-145692-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Goldman%20Sachs%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Goldman%20Sachs%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Tax Filings (IRS 990)
@@ -329,14 +329,14 @@ Goldman's bipartisan giving reflects this reality: donate to whoever is in power
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/311678646/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/311678646/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/311678646/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/311678646/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/311678646/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/311678646/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/311678646/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/311678646/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/311678646/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/311678646/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/311678646) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/311678646) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Campaign Finance (FEC)
@@ -361,5 +361,5 @@ Goldman's bipartisan giving reflects this reality: donate to whoever is in power
 | HUIZENGA FOR CONGRESS | $11,500 | REP |
 | EMMER FOR CONGRESS | $11,000 | REP |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Goldman%20Sachs) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Goldman%20Sachs) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->

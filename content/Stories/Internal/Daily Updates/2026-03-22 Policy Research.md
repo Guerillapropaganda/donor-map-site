@@ -27,10 +27,10 @@ The SAVE Act would require documentary proof of U.S. citizenship to register to 
 > [!contradiction] Mullin confirmation contradiction
 > Mullin voted against certifying the 2020 election and has no law enforcement background. His confirmation to lead DHS, the agency currently in a 5-week shutdown over Democratic refusal to fund immigration enforcement, cements the hardliner posture. But Musk's concurrent offer to personally pay TSA salaries (see yesterday's scan) reveals the private-sector-as-government dynamic at the core of DOGE governance.
 
-- [Congress.gov: H.R.7296 SAVE America Act](https://www.congress.gov/bill/119th-congress/house-bill/7296) (Tier 1)
-- [Senate Roll Call Vote 62, 119th Congress 2nd Session](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00062.htm) (Tier 1)
-- [Brennan Center: SAVE Act Reaches Senate](https://www.brennancenter.org/our-work/analysis-opinion/save-act-reaches-senate) (Tier 2)
-- [NPR: The SAVE Act faces long odds in the Senate](https://www.npr.org/2026/03/19/nx-s1-5750510/state-save-acts-florida) (Tier 2)
+- ~~[Congress.gov: H.R.7296 SAVE America Act](https://www.congress.gov/bill/119th-congress/house-bill/7296)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Senate Roll Call Vote 62, 119th Congress 2nd Session](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00062.htm) (Tier 1) (VERIFIED)
+- [Brennan Center: SAVE Act Reaches Senate](https://www.brennancenter.org/our-work/analysis-opinion/save-act-reaches-senate) (Tier 2) (VERIFIED)
+- [NPR: The SAVE Act faces long odds in the Senate](https://www.npr.org/2026/03/19/nx-s1-5750510/state-save-acts-florida) (Tier 2) (VERIFIED)
 
 ---
 
@@ -46,11 +46,11 @@ Hegseth confirmed March 19 that the $200B figure "could move", i.e. the actual a
 > [!contradiction] Oil price / fossil fuel donor split
 > Closed Strait of Hormuz drives oil prices up, which benefits upstream fossil fuel producers like [[ExxonMobil]] and [[Chevron]] whose profits expand with price. But downstream industrial users (airlines, plastics, fertilizer) absorb costs. This creates a split within the fossil fuel donor bloc that is not reflected in most coverage.
 
-- [Al Jazeera: Hegseth says no timeframe, Pentagon asks $200bn](https://www.aljazeera.com/news/2026/3/19/hegseth-says-no-timeframe-for-war-on-iran-as-pentagon-asks-for-200bn) (Tier 2)
-- [Time: Lawmakers Voice Concern Over Pentagon's $200B Request](https://time.com/article/2026/03/20/republican-democrat-lawmakers-condemn-pentagon-iran-war-funding-request/) (Tier 2)
-- [CNN: Cracks emerge in GOP over Iran war cost](https://www.cnn.com/2026/03/19/politics/iran-war-cost-republicans-congress) (Tier 2)
-- [Fortune: $200B might fund military for just 140 more days](https://fortune.com/2026/03/19/200-billion-iran-war-funding-pete-hegseth-donald-trump/) (Tier 2)
-- [NPR: Pentagon wants extra $200B for Iran war](https://www.npr.org/2026/03/19/nx-s1-5753520/iran-israel-gas-field-attacks) (Tier 2)
+- [Al Jazeera: Hegseth says no timeframe, Pentagon asks $200bn](https://www.aljazeera.com/news/2026/3/19/hegseth-says-no-timeframe-for-war-on-iran-as-pentagon-asks-for-200bn) (Tier 2) (VERIFIED)
+- ~~[Time: Lawmakers Voice Concern Over Pentagon's $200B Request](https://time.com/article/2026/03/20/republican-democrat-lawmakers-condemn-pentagon-iran-war-funding-request/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [CNN: Cracks emerge in GOP over Iran war cost](https://www.cnn.com/2026/03/19/politics/iran-war-cost-republicans-congress) (Tier 2) (VERIFIED)
+- [Fortune: $200B might fund military for just 140 more days](https://fortune.com/2026/03/19/200-billion-iran-war-funding-pete-hegseth-donald-trump/) (Tier 2) (VERIFIED)
+- [NPR: Pentagon wants extra $200B for Iran war](https://www.npr.org/2026/03/19/nx-s1-5753520/iran-israel-gas-field-attacks) (Tier 2) (VERIFIED)
 
 ---
 
@@ -63,11 +63,11 @@ Health policy experts estimate the combined rollbacks will cost ~200,000 lives i
 > [!money] Endangerment Finding rescission = ExxonMobil's 40-year prize
 > The 2009 Endangerment Finding was the legal foundation for all EPA climate regulation. Fossil fuel industry, including vault-tracked [[ExxonMobil]], [[Chevron]], [[American Petroleum Institute]], and [[Western States Petroleum Association]], spent decades and hundreds of millions lobbying to overturn it. Energy Transfer CEO [[Kelcy Warren]] donated $25M to MAGA Inc (per yesterday's Finance Research). This is the direct policy return.
 
-- [EPA: Final Rule Rescission of GHG Endangerment Finding](https://www.epa.gov/regulations-emissions-vehicles-and-engines/final-rule-rescission-greenhouse-gas-endangerment) (Tier 1)
-- [Federal Register: Removing Regulatory Barriers to Affordable Home Construction](https://www.federalregister.gov/documents/2026/03/18/2026-05388/removing-regulatory-barriers-to-affordable-home-construction) (Tier 1)
-- [NPR: Trump's EPA will stop regulating greenhouse gases](https://www.npr.org/2026/02/11/nx-s1-5678273/trump-epa-climate-change-endangerment) (Tier 2)
-- [Environmental Protection Network: EPA Rollbacks Cost 200,000 Lives](https://www.environmentalprotectionnetwork.org/epa-rollbacks-costs/) (Tier 2)
-- [National Law Review: EPA Targets 31 Rules for Deregulation](https://natlawreview.com/article/epa-launches-historic-deregulatory-initiative-key-legal-risks-and-strategic) (Tier 2)
+- [EPA: Final Rule Rescission of GHG Endangerment Finding](https://www.epa.gov/regulations-emissions-vehicles-and-engines/final-rule-rescission-greenhouse-gas-endangerment) (Tier 1) (VERIFIED)
+- [Federal Register: Removing Regulatory Barriers to Affordable Home Construction](https://www.federalregister.gov/documents/2026/03/18/2026-05388/removing-regulatory-barriers-to-affordable-home-construction) (Tier 1) (VERIFIED)
+- [NPR: Trump's EPA will stop regulating greenhouse gases](https://www.npr.org/2026/02/11/nx-s1-5678273/trump-epa-climate-change-endangerment) (Tier 2) (VERIFIED)
+- [Environmental Protection Network: EPA Rollbacks Cost 200,000 Lives](https://www.environmentalprotectionnetwork.org/epa-rollbacks-costs/) (Tier 2) (VERIFIED)
+- [National Law Review: EPA Targets 31 Rules for Deregulation](https://natlawreview.com/article/epa-launches-historic-deregulatory-initiative-key-legal-risks-and-strategic) (Tier 2) (VERIFIED)
 
 ---
 
@@ -86,9 +86,9 @@ The order notably sets no deadlines and requires no White House reporting from a
 > [!contradiction] "Affordable housing" framing vs. developer subsidy
 > The EO is framed as affordability relief for families, but the primary mechanism is reducing environmental and energy protections on builders. No provision requires developers to pass cost savings to buyers. Historical deregulation of housing standards has not produced lower prices in high-demand markets, it has produced higher margins for developers.
 
-- [White House: Fact Sheet. Removing Regulatory Barriers to Affordable Home Construction](https://www.whitehouse.gov/fact-sheets/2026/03/fact-sheet-president-donald-j-trump-removes-regulatory-barriers-to-affordable-home-construction/) (Tier 1)
-- [Federal Register: EO on Housing Construction](https://www.federalregister.gov/documents/2026/03/18/2026-05388/removing-regulatory-barriers-to-affordable-home-construction) (Tier 1)
-- [NAHB: Trump's Executive Orders Would Ease Affordability Crisis](https://www.nahb.org/blog/2026/03/trump-executive-orders-would-ease-affordability-crisis) (Tier 3)
+- [White House: Fact Sheet. Removing Regulatory Barriers to Affordable Home Construction](https://www.whitehouse.gov/fact-sheets/2026/03/fact-sheet-president-donald-j-trump-removes-regulatory-barriers-to-affordable-home-construction/) (Tier 1) (VERIFIED)
+- [Federal Register: EO on Housing Construction](https://www.federalregister.gov/documents/2026/03/18/2026-05388/removing-regulatory-barriers-to-affordable-home-construction) (Tier 1) (VERIFIED)
+- [NAHB: Trump's Executive Orders Would Ease Affordability Crisis](https://www.nahb.org/blog/2026/03/trump-executive-orders-would-ease-affordability-crisis) (Tier 3) (VERIFIED)
 
 ---
 
@@ -103,10 +103,10 @@ Union election volume fell **30%** in 2025 (from 2,124 to 1,498 elections), retu
 > [!money] Gig economy donor payoff
 > Vault-tracked gig economy donors [[Uber]], [[Lyft]], and [[DoorDash]] spent hundreds of millions in the 2010s-2020s fighting contractor misclassification claims. Rolling back the joint employer test simultaneously helps warehouse operators, franchise chains, and staffing agencies. The employer coalition that petitioned Trump to override the NLRB (per EPI) includes many companies with direct lobbying relationships to vault-tracked politicians. *Flag for sub-note: "DOL/NLRB Contractor Rollback 2026"*
 
-- [DOL/NLRB Announcement via Kahn Dees](https://kddk.com/2026/03/02/department-of-labor-and-national-labor-relations-board-announce-rollback-of-biden-era-rules/) (Tier 2)
-- [EPI: Coalition asking Trump to override NLRB](https://www.epi.org/blog/a-coalition-of-hundreds-of-employers-is-asking-the-trump-administration-to-override-the-nlrb-and-dictate-labor-law/) (Tier 2)
-- [EPI: Unprecedented. Trump NLRB's attack on workers' rights](https://www.epi.org/publication/unprecedented-the-trump-nlrbs-attack-on-workers-rights/) (Tier 2)
-- [American Progress: NLRB Union Elections Fell 30% in 2025](https://www.americanprogress.org/article/nlrb-overseen-union-elections-fell-in-2025-amid-trump-administration-attacks/) (Tier 2)
+- [DOL/NLRB Announcement via Kahn Dees](https://kddk.com/2026/03/02/department-of-labor-and-national-labor-relations-board-announce-rollback-of-biden-era-rules/) (Tier 2) (VERIFIED)
+- [EPI: Coalition asking Trump to override NLRB](https://www.epi.org/blog/a-coalition-of-hundreds-of-employers-is-asking-the-trump-administration-to-override-the-nlrb-and-dictate-labor-law/) (Tier 2) (VERIFIED)
+- [EPI: Unprecedented. Trump NLRB's attack on workers' rights](https://www.epi.org/publication/unprecedented-the-trump-nlrbs-attack-on-workers-rights/) (Tier 2) (VERIFIED)
+- [American Progress: NLRB Union Elections Fell 30% in 2025](https://www.americanprogress.org/article/nlrb-overseen-union-elections-fell-in-2025-amid-trump-administration-attacks/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -123,10 +123,10 @@ The EO/blueprint itself lacks preemptive legal force, preemption would require c
 > [!money] Tech mega-donor policy return
 > Yesterday's Finance Research documented that OpenAI co-founder Greg Brockman donated $25M to MAGA Inc with zero prior political history, and Crypto.com parent Foris Dax donated $30M. The AI preemption framework, eliminating the California AI regulation regime and other state-level constraints, is the direct policy return on this investment. California has the most aggressive AI regulatory framework of any state. Connect to California Governor 2026 race where candidates' positions on AI regulation will matter.
 
-- [White House: National Policy Framework on AI (Sullivan & Cromwell)](https://www.sullcrom.com/insights/memo/2026/March/White-House-Releases-National-Policy-Framework-AI) (Tier 2)
-- [Roll Call: White House AI framework calls for preemption of state laws](https://rollcall.com/2026/03/20/white-house-ai-framework-calls-for-preemption-of-state-laws/) (Tier 2)
-- [TechCrunch: Trump's AI framework targets state laws](https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/) (Tier 2)
-- [Paul Hastings: Trump Signs EO Challenging State AI Laws](https://www.paulhastings.com/insights/client-alerts/president-trump-signs-executive-order-challenging-state-ai-laws) (Tier 2)
+- [White House: National Policy Framework on AI (Sullivan & Cromwell)](https://www.sullcrom.com/insights/memo/2026/March/White-House-Releases-National-Policy-Framework-AI) (Tier 2) (VERIFIED)
+- [Roll Call: White House AI framework calls for preemption of state laws](https://rollcall.com/2026/03/20/white-house-ai-framework-calls-for-preemption-of-state-laws/) (Tier 2) (VERIFIED)
+- [TechCrunch: Trump's AI framework targets state laws](https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/) (Tier 2) (VERIFIED)
+- [Paul Hastings: Trump Signs EO Challenging State AI Laws](https://www.paulhastings.com/insights/client-alerts/president-trump-signs-executive-order-challenging-state-ai-laws) (Tier 2) (VERIFIED)
 
 ---
 
@@ -141,10 +141,10 @@ The EO/blueprint itself lacks preemptive legal force, preemption would require c
 > [!money] Tariff ruling and donor class implications
 > The IEEPA tariff ruling is a major structural constraint on Trump's trade policy. Corporate donors, especially retail, manufacturing, and tech supply chain interests, stand to benefit from limiting tariff authority. However, fossil fuel interests and domestic steel/aluminum producers that benefited from protective tariffs lose leverage. Track how this ruling affects donor positioning in 2026 Senate races.
 
-- [SCOTUSblog: Remaining questions after tariffs ruling](https://www.scotusblog.com/2026/03/the-remaining-questions-after-the-supreme-courts-tariffs-ruling/) (Tier 2)
-- [Justia: Learning Resources Inc. v. Trump](https://supreme.justia.com/cases/federal/us/607/24-1287/) (Tier 1)
-- [PBS News: Why SCOTUS ruled against Trump's tariffs](https://www.pbs.org/newshour/show/why-the-supreme-court-ruled-against-trumps-tariffs) (Tier 2)
-- [Ballotpedia: Supreme Court cases October Term 2025-2026](https://ballotpedia.org/Supreme_Court_cases,_October_term_2025-2026) (Tier 3)
+- [SCOTUSblog: Remaining questions after tariffs ruling](https://www.scotusblog.com/2026/03/the-remaining-questions-after-the-supreme-courts-tariffs-ruling/) (Tier 2) (VERIFIED)
+- ~~[Justia: Learning Resources Inc. v. Trump](https://supreme.justia.com/cases/federal/us/607/24-1287/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [PBS News: Why SCOTUS ruled against Trump's tariffs](https://www.pbs.org/newshour/show/why-the-supreme-court-ruled-against-trumps-tariffs) (Tier 2) (VERIFIED)
+- [Ballotpedia: Supreme Court cases October Term 2025-2026](https://ballotpedia.org/Supreme_Court_cases,_October_term_2025-2026) (Tier 3) (VERIFIED)
 
 ---
 
@@ -160,10 +160,10 @@ ICE detention is at a record 73,000+ people as of January 2026, up 75% year over
 > [!contradiction] Using Medicaid to deport Medicaid recipients
 > ICE using Medicaid records to locate deportation targets hits the same population that would lose coverage under reconciliation Medicaid cuts. Federal agencies sharing data across programs to remove people from the US, while simultaneously proposing to cut their healthcare, a compounding policy attack on the same low-income immigrant communities. Connect to [[UnitedHealth Group - Optum]] Medicaid managed care exposure.
 
-- [NPR: ICE surveillance web](https://www.npr.org/2026/03/04/nx-s1-5717031/ice-dhs-immigrants-surveillance-confrontation-deportation-mobile-fortify) (Tier 2)
-- [ICE: 287(g) Program Data](https://www.ice.gov/identify-and-arrest/287g) (Tier 1)
-- [American Immigration Council: ICE Expanding Detention System](https://www.americanimmigrationcouncil.org/blog/ice-expanding-detention-system/) (Tier 2)
-- [NBC News: Immigration Tracker](https://www.nbcnews.com/data-graphics/us-immigration-tracker-follow-arrests-detentions-border-crossings-rcna189148) (Tier 2)
+- [NPR: ICE surveillance web](https://www.npr.org/2026/03/04/nx-s1-5717031/ice-dhs-immigrants-surveillance-confrontation-deportation-mobile-fortify) (Tier 2) (VERIFIED)
+- [ICE: 287(g) Program Data](https://www.ice.gov/identify-and-arrest/287g) (Tier 1) (VERIFIED)
+- [American Immigration Council: ICE Expanding Detention System](https://www.americanimmigrationcouncil.org/blog/ice-expanding-detention-system/) (Tier 2) (VERIFIED)
+- [NBC News: Immigration Tracker](https://www.nbcnews.com/data-graphics/us-immigration-tracker-follow-arrests-detentions-border-crossings-rcna189148) (Tier 2) (VERIFIED)
 
 ---
 
@@ -176,9 +176,9 @@ A separate California lawmaker introduced legislation to restore Medi-Cal to und
 > [!money] Single-payer and healthcare donor positioning
 > Vault-tracked healthcare industry donors [[UnitedHealth Group - Optum]], [[Anthem - Elevance Health]], [[Kaiser Permanente]], and [[Blue Shield of California]] are existentially threatened by single-payer. A Porter or progressive governor win in California would trigger massive industry spending against single-payer legislation. Track which CA governor candidates receive healthcare industry PAC money, this is the donor litmus test for 2026 CA race.
 
-- [CalMatters: Single-payer health care returns to California governor's race](https://calmatters.org/category/politics/2026/03/california-governor-single-payer-health-care/) (Tier 2)
-- [Times of San Diego: California cut health care for undocumented immigrants](https://timesofsandiego.com/health/2026/03/11/california-cut-health-care-undocumented-immigrants-lawmaker-wants-back/) (Tier 2)
-- [CalMatters: What 2026 CA governor candidates would do about health care](https://calmatters.org/health/2025/11/gubernatorial-health-care-california-2026/) (Tier 2)
+- ~~[CalMatters: Single-payer health care returns to California governor's race](https://calmatters.org/category/politics/2026/03/california-governor-single-payer-health-care/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Times of San Diego: California cut health care for undocumented immigrants](https://timesofsandiego.com/health/2026/03/11/california-cut-health-care-undocumented-immigrants-lawmaker-wants-back/) (Tier 2) (VERIFIED)
+- [CalMatters: What 2026 CA governor candidates would do about health care](https://calmatters.org/health/2025/11/gubernatorial-health-care-california-2026/) (Tier 2) (VERIFIED)
 
 ---
 

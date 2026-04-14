@@ -130,11 +130,11 @@ The class function is explicit: Jordan converts congressional authority into a s
 
 ## Sources
 
-- [NBC News: Former Ohio State University wrestlers say Jim Jordan betrayed them](https://www.nbcnews.com/politics/politics-news/former-osu-wrestlers-say-jim-jordan-betrayed-shouldnt-house-speaker-rcna119116) (Tier 2)
-- [House Select Committee on January 6th: Select Committee Subpoenas Five Members of Congress](https://www.house.gov/committees/committees-no-longer-standing) (Tier 1)
-- [OpenSecrets: Rep. Jim Jordan - Campaign Finance Summary](https://www.opensecrets.org/members-of-congress/summary?cid=N00027894) (Tier 1)
-- [Club for Growth: Jim Jordan Scorecard](https://www.clubforgrowth.org/scorecards/legislator/J000289/Jim-Jordan/) (Tier 3)
-- [CNN: Jim Jordan's speakership bid ends after third lost vote](https://www.cnn.com/politics/live-news/house-speaker-vote-10-20-23/index.html) (Tier 2)
+- [NBC News: Former Ohio State University wrestlers say Jim Jordan betrayed them](https://www.nbcnews.com/politics/politics-news/former-osu-wrestlers-say-jim-jordan-betrayed-shouldnt-house-speaker-rcna119116) (Tier 2) (VERIFIED)
+- [House Select Committee on January 6th: Select Committee Subpoenas Five Members of Congress](https://www.house.gov/committees/committees-no-longer-standing) (Tier 1) (VERIFIED)
+- [OpenSecrets: Rep. Jim Jordan - Campaign Finance Summary](https://www.opensecrets.org/members-of-congress/summary?cid=N00027894) (Tier 1) (VERIFIED)
+- [Club for Growth: Jim Jordan Scorecard](https://www.clubforgrowth.org/scorecards/legislator/J000289/Jim-Jordan/) (Tier 3) (VERIFIED)
+- [CNN: Jim Jordan's speakership bid ends after third lost vote](https://www.cnn.com/politics/live-news/house-speaker-vote-10-20-23/index.html) (Tier 2) (VERIFIED)
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->
@@ -161,7 +161,7 @@ The class function is explicit: Jordan converts congressional authority into a s
 | 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Yea | Passed |
 | 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Yea | Passed |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412226) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412226) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
 
 ### Influence Network (Cross-Reference)
@@ -204,6 +204,6 @@ The class function is explicit: Jordan converts congressional authority into a s
 
 **Sources**
 
-- [Congress.gov: Jim Jordan](https://www.congress.gov/member/a000383) (Tier 1)
-- [GovTrack: Jim Jordan](https://www.govtrack.us/congress/members/412226) (Tier 1)
+- ~~[Congress.gov: Jim Jordan](https://www.congress.gov/member/a000383)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [GovTrack: Jim Jordan](https://www.govtrack.us/congress/members/412226) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->

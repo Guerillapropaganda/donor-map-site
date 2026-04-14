@@ -64,15 +64,15 @@ On March 19, 2026, the EPA formally revoked the 2009 endangerment finding, the l
 > [!contradiction] "Draining the swamp" means filling it with lobbyists
 > Trump's first-term executive order restricting lobbyist appointments has been abandoned in the second term. Both the Obama and Biden administrations maintained two-year cooling-off periods preventing lobbyists from regulating industries they lobbied for. The current EPA has an API lobbyist overseeing vehicle emissions and a Koch network analyst overseeing air quality, the two regulatory areas most directly affected by the endangerment finding revocation. The revolving door is not a side effect of this administration. It is the mechanism.
 
-- [Brennan Center: Fossil Fuel Industry Donors See Major Returns in Trump's Policies](https://www.brennancenter.org/our-work/analysis-opinion/fossil-fuel-industry-donors-see-major-returns-trumps-policies) (Tier 2)
-- [Ballotpedia News: EPA revokes endangerment finding](https://news.ballotpedia.org/2026/03/19/epa-revokes-endangerment-finding-rolling-back-epa-regulation-of-greenhouse-gas-emissions/) (Tier 3)
-- [Rolling Stone: Trump EPA Pick Lee Zeldin Is Fossil Fuel's Inside Man](https://www.rollingstone.com/politics/politics-features/trump-epa-lee-zeldin-oil-fossil-fuel-1235214837/) (Tier 2)
-- [Environmental Integrity Project: Who's Running Trump's EPA?](https://environmentalintegrity.org/trump-watch-epa/whos-running-trumps-epa/) (Tier 2)
-- [Public Citizen: Tracker. Trump Appointees' Corporate Conflicts of Interest](https://www.citizen.org/article/tracker-trump-appointees-in-the-pocket-of-big-corporations/) (Tier 2)
-- [Inequality.org: Fossil Fuel Oil-Garchs Reap Billions in Payback for Trump Support](https://inequality.org/article/fossil-fuel-oil-garchs-reap-billions-for-trump-support/) (Tier 2)
-- [Inside Climate News: Energy Sector Lobbying Spending](https://insideclimatenews.org/news/08092025/energy-sector-lobbying-spending/) (Tier 2)
-- [FEC Receipts: Oil & Gas Industry Summary](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- [Brennan Center: Million-Dollar Donors Flooded Trump's Second Inauguration](https://www.brennancenter.org/our-work/research-reports/million-dollar-donors-flooded-trumps-second-inauguration) (Tier 2)
+- [Brennan Center: Fossil Fuel Industry Donors See Major Returns in Trump's Policies](https://www.brennancenter.org/our-work/analysis-opinion/fossil-fuel-industry-donors-see-major-returns-trumps-policies) (Tier 2) (VERIFIED)
+- [Ballotpedia News: EPA revokes endangerment finding](https://news.ballotpedia.org/2026/03/19/epa-revokes-endangerment-finding-rolling-back-epa-regulation-of-greenhouse-gas-emissions/) (Tier 3) (VERIFIED)
+- [Rolling Stone: Trump EPA Pick Lee Zeldin Is Fossil Fuel's Inside Man](https://www.rollingstone.com/politics/politics-features/trump-epa-lee-zeldin-oil-fossil-fuel-1235214837/) (Tier 2) (VERIFIED)
+- [Environmental Integrity Project: Who's Running Trump's EPA?](https://environmentalintegrity.org/trump-watch-epa/whos-running-trumps-epa/) (Tier 2) (VERIFIED)
+- [Public Citizen: Tracker. Trump Appointees' Corporate Conflicts of Interest](https://www.citizen.org/article/tracker-trump-appointees-in-the-pocket-of-big-corporations/) (Tier 2) (VERIFIED)
+- [Inequality.org: Fossil Fuel Oil-Garchs Reap Billions in Payback for Trump Support](https://inequality.org/article/fossil-fuel-oil-garchs-reap-billions-for-trump-support/) (Tier 2) (VERIFIED)
+- [Inside Climate News: Energy Sector Lobbying Spending](https://insideclimatenews.org/news/08092025/energy-sector-lobbying-spending/) (Tier 2) (VERIFIED)
+- [FEC Receipts: Oil & Gas Industry Summary](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
+- [Brennan Center: Million-Dollar Donors Flooded Trump's Second Inauguration](https://www.brennancenter.org/our-work/research-reports/million-dollar-donors-flooded-trumps-second-inauguration) (Tier 2) (VERIFIED)
 
 ---
 
@@ -102,9 +102,9 @@ The "One Big Beautiful Bill Act" (OBBBA), signed approximately eight months ago,
 > [!money] $600 billion in market value from a single budget line
 > Section 30001 of the OBBBA cut one number: the CFPB's funding cap percentage. That single change produced a 67% reduction in the agency's operating capacity, a 37% drop in enforcement actions, and early termination of consent orders against major banks. The Big Six banks gained $600B in combined market value. The financial industry's $44M+ annual lobbying investment in CFPB-related advocacy produced a return measured in hundreds of billions. The agency created to regulate Wall Street after the 2008 crisis has been functionally neutralized by the industry it was designed to oversee.
 
-- [Congress.gov CRS: One Big Beautiful Bill Act. Title V, CFPB Funding](https://www.congress.gov/crs-product/IN12551) (Tier 1)
-- [FinancialContent: The Great Deregulation. OBBBA Triggers a Wall Street Renaissance](https://markets.financialcontent.com/stocks/article/marketminute-2026-3-9-the-great-deregulation-one-big-beautiful-bill-triggers-a-wall-street-renaissance) (Tier 3)
-- [Protect Borrowers: In Eight Months, Trump's CFPB Has Let 40+ Lawbreakers Off the Hook](https://protectborrowers.org/in-8-months-trumps-cfpb-let-40-lawbreakers-off-hook/) (Tier 2)
+- [Congress.gov CRS: One Big Beautiful Bill Act. Title V, CFPB Funding](https://www.congress.gov/crs-product/IN12551) (Tier 1) (VERIFIED)
+- [FinancialContent: The Great Deregulation. OBBBA Triggers a Wall Street Renaissance](https://markets.financialcontent.com/stocks/article/marketminute-2026-3-9-the-great-deregulation-one-big-beautiful-bill-triggers-a-wall-street-renaissance) (Tier 3) (VERIFIED)
+- [Protect Borrowers: In Eight Months, Trump's CFPB Has Let 40+ Lawbreakers Off the Hook](https://protectborrowers.org/in-8-months-trumps-cfpb-let-40-lawbreakers-off-hook/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -134,9 +134,9 @@ The Department of Defense announced plans to spend the entire $152 billion alloc
 > [!money] $771 billion to five companies in four years, and now they want it faster
 > Five defense contractors captured $771B in Pentagon contracts from 2020-2024, over half of all defense spending. The $152B reconciliation acceleration ensures these firms receive maximum revenue in FY2026 rather than spreading it over four years. The LRASM program alone gets $400M for ~90 additional missiles. When lawmakers who receive defense PAC money write provisions allowing contractors to bill taxpayers for their own corporate debt interest payments, the capture is complete: public money funds private profit, and private profit funds the political campaigns that authorize the spending.
 
-- [Breaking Defense: Reconciliation revealed. How the Pentagon plans to spend all $152 billion in FY26](https://breakingdefense.com/2026/02/reconciliation-revealed-how-the-pentagon-plans-to-spend-all-152-billion-in-fy26/) (Tier 2)
-- [Quincy Institute: Military Contractors Received Over Half of Pentagon Spending Since 2020](https://quincyinst.org/2025/07/08/new-research-military-contractors-received-over-half-of-pentagon-spending-since-2020/) (Tier 2)
-- [The Intercept: Lawmakers Pave Way to Billions in Handouts for Weapons Makers](https://theintercept.com/2025/12/12/pentagon-defense-contractors-budget-interest-payments/) (Tier 2)
+- [Breaking Defense: Reconciliation revealed. How the Pentagon plans to spend all $152 billion in FY26](https://breakingdefense.com/2026/02/reconciliation-revealed-how-the-pentagon-plans-to-spend-all-152-billion-in-fy26/) (Tier 2) (VERIFIED)
+- [Quincy Institute: Military Contractors Received Over Half of Pentagon Spending Since 2020](https://quincyinst.org/2025/07/08/new-research-military-contractors-received-over-half-of-pentagon-spending-since-2020/) (Tier 2) (VERIFIED)
+- [The Intercept: Lawmakers Pave Way to Billions in Handouts for Weapons Makers](https://theintercept.com/2025/12/12/pentagon-defense-contractors-budget-interest-payments/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -152,7 +152,7 @@ Private equity healthcare acquisitions continued through January 2026 despite gr
 
 **Analytical patterns:** **Genuine Win + Structural Limit** (state-level wins on PE transparency that stop short of federal action), **Donor-Class Override** (PE lobbying blocks federal disclosure requirements while acquisitions continue).
 
-- [PESP: Private Equity Health Care Acquisitions. January 2026](https://pestakeholder.org/news/private-equity-health-care-acquisitions-january-2026/) (Tier 2)
+- [PESP: Private Equity Health Care Acquisitions. January 2026](https://pestakeholder.org/news/private-equity-health-care-acquisitions-january-2026/) (Tier 2) (VERIFIED)
 
 ---
 

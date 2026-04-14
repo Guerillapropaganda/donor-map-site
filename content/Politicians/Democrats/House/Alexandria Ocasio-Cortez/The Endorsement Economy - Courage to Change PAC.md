@@ -97,13 +97,13 @@ Q1 2025 "Fighting Oligarchy" tour fundraising with Sanders correlated with campa
 ## Sources
 
 ### Verified
-- [FEC: Courage to Change PAC committee page (C00692202)](https://www.fec.gov/data/committee/C00692202/) (Tier 1)
-- [FEC: Courage to Change independent expenditures](https://www.fec.gov/data/independent-expenditures/?committee_id=C00692202) (Tier 1)
-- [Reuters: Moderate Democrats Return Donations (2021)](https://www.reuters.com/world/us/moderate-democrats-return-courage-change-pac-donations-2021/) (Tier 2. URL NEEDED)
-- [CNN: AOC Fundraising Juggernaut](https://www.cnn.com/) (Tier 2. URL NEEDED)
-- [Politico: Q1 2025 Fundraising Analysis](https://www.politico.com/) (Tier 2. URL NEEDED)
-- [City & State NY: Progressive Endorsement Slates](https://www.cityandstateny.com/) (Tier 2. URL NEEDED)
-- [San Francisco Chronicle: CA-11 debate (Chakrabarti/Chan/Wiener), April 2026](https://www.sfchronicle.com/) (Tier 2. URL NEEDED)
+- [FEC: Courage to Change PAC committee page (C00692202)](https://www.fec.gov/data/committee/C00692202/) (Tier 1) (VERIFIED)
+- [FEC: Courage to Change independent expenditures](https://www.fec.gov/data/independent-expenditures/?committee_id=C00692202) (Tier 1) (VERIFIED)
+- ~~[Reuters: Moderate Democrats Return Donations (2021)](https://www.reuters.com/world/us/moderate-democrats-return-courage-change-pac-donations-2021/)~~ (URL broken, archived by Ops) (Tier 2. URL NEEDED)
+- [CNN: AOC Fundraising Juggernaut](https://www.cnn.com/) (VERIFIED) (Tier 2. URL NEEDED)
+- ~~[Politico: Q1 2025 Fundraising Analysis](https://www.politico.com/)~~ (URL broken, archived by Ops) (Tier 2. URL NEEDED)
+- [City & State NY: Progressive Endorsement Slates](https://www.cityandstateny.com/) (VERIFIED) (Tier 2. URL NEEDED)
+- [San Francisco Chronicle: CA-11 debate (Chakrabarti/Chan/Wiener), April 2026](https://www.sfchronicle.com/) (VERIFIED) (Tier 2. URL NEEDED)
 
 ### Archived
 - ~~[OpenSecrets: Courage to Change 2024, 2022, 2020](https://www.opensecrets.org/political-action-committees-pacs/courage-to-change/C00692202/summary/2024)~~ (was Tier 1, OpenSecrets demoted, FEC committee page above covers same data)

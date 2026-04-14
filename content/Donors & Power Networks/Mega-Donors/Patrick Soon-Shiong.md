@@ -146,10 +146,10 @@ The analytical patterns:
 
 ### Sources
 
-- [FEC: Individual contributions. Soon-Shiong, Patrick (2010–2026)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=soon-shiong%2C+patrick&min_date=01%2F01%2F2010&max_date=12%2F31%2F2026) (Tier 1), 75 contributions; Clinton/DNC (2016) → Republican (2017–2026) party switch documented
-- [Wikipedia: Patrick Soon-Shiong](https://en.wikipedia.org/wiki/Patrick_Soon-Shiong) (Tier 3). LA Times purchase, endorsement controversies, editorial board firing, RFK Jr. endorsement, Pence/Trump political activity, NantHealth Utah contract
-- [CNN: LA Times owner says Harris' stance on Gaza war contributed to non-endorsement](https://www.cnn.com/2024/11/13/media/la-times-harris-endorsement-gaza-war-editorial-board/index.html) (Tier 2). Harris endorsement controversy, editorial board resignations
-- [Hollywood Reporter: Patrick Soon-Shiong's daughter says Harris endorsement axed over Gaza](https://www.hollywoodreporter.com/business/business-news/la-times-presidential-endorsement-decision-owners-daughter-weighs-in-1236045376/) (Tier 2). Nika Soon-Shiong role in endorsement decision
+- [FEC: Individual contributions. Soon-Shiong, Patrick (2010–2026)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=soon-shiong%2C+patrick&min_date=01%2F01%2F2010&max_date=12%2F31%2F2026) (Tier 1) (VERIFIED), 75 contributions; Clinton/DNC (2016) → Republican (2017–2026) party switch documented
+- [Wikipedia: Patrick Soon-Shiong](https://en.wikipedia.org/wiki/Patrick_Soon-Shiong) (Tier 3) (VERIFIED). LA Times purchase, endorsement controversies, editorial board firing, RFK Jr. endorsement, Pence/Trump political activity, NantHealth Utah contract
+- [CNN: LA Times owner says Harris' stance on Gaza war contributed to non-endorsement](https://www.cnn.com/2024/11/13/media/la-times-harris-endorsement-gaza-war-editorial-board/index.html) (Tier 2) (VERIFIED). Harris endorsement controversy, editorial board resignations
+- [Hollywood Reporter: Patrick Soon-Shiong's daughter says Harris endorsement axed over Gaza](https://www.hollywoodreporter.com/business/business-news/la-times-presidential-endorsement-decision-owners-daughter-weighs-in-1236045376/) (Tier 2) (VERIFIED). Nika Soon-Shiong role in endorsement decision
 
 ---
 
@@ -189,7 +189,7 @@ The analytical patterns:
 | DNC SERVICES CORPORATION/DEMOCRATIC NATIONAL COMMITTEE | $30,400 | DEM |
 | MIKE PENCE FOR PRESIDENT | $13,200 | REP |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Patrick%20Soon-Shiong) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Patrick%20Soon-Shiong) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### DOJ Press Releases
@@ -209,7 +209,7 @@ The analytical patterns:
 
 **Lobbying firms:** CAPITOL RESOURCES, LLC
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Patrick%20Soon-Shiong) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Patrick%20Soon-Shiong) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

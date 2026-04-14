@@ -186,25 +186,25 @@ The class function: TRP exists to make sure that large institutional interests �
 
 ### Sources
 
-- [Senate LDA Filings: Thorn Run Partners Lobbying Profile 2024](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA Filings: Thorn Run Partners Lobbyists 2024 — 22 of 35 revolvers (62.9%)](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA Filings: Thorn Run Partners Lobbying Profile 2025](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [OpenSecrets: Revolving Door — Thorn Run Partners employer search](https://www.opensecrets.org/revolving-door/search_result?priv=Thorn+Run+Partners) (Tier 1)
-- [Roll Call: Ex-Ogilvy Lobbyists Launch Thorn Run Partners (January 5, 2010)](https://rollcall.com/2010/01/05/ex-ogilvy-lobbyists-launch-thorn-run-partners/) (Tier 2)
-- [Thorn Run Partners: Veteran Defense Lobbyist Greg Lankler Joins Thorn Run Partners](https://thornrun.com/veteran-defense-lobbyist-greg-lankler-joins-thorn-run-partners/) (Tier 3)
-- [Thorn Run Partners: Long-serving Appropriations Staffer, Retired Army Colonel B.G. Wright Joins Thorn Run Partners](https://thornrun.com/long-serving-appropriations-staffer-retired-army-colonel-b-g-wright-joins-thorn-run-partners/) (Tier 3)
-- [Thorn Run Partners: Stuart Chapman Joins Thorn Run Partners](https://thornrun.com/stuart-chapman-joins-thorn-run-partners/) (Tier 3)
-- [Thorn Run Partners: Ranks Among Nation's Top 10 Lobbying Firms](https://thornrun.com/thorn-run-partners-ranks-among-nations-top-10-lobbying-firms/) (Tier 3)
-- [Thorn Run Partners: Our Team](https://thornrun.com/team/) (Tier 3)
-- [Thorn Run Partners: Rockingstone Group Strategic Partnership (Jan 2018)](https://thornrun.com/thorn-run-partners-rockingstone-group-announce-new-strategic-partnership/) (Tier 3)
-- [DefenseScoop: Army awards Anduril $20B contract with eye toward counter-drone capabilities (March 2026)](https://defensescoop.com/2026/03/14/anduril-20-billion-dollar-army-contract/) (Tier 2)
-- [GovCon Wire: Anduril Wins $642M Navy Contract for Counter-Drone Tech](https://www.govconwire.com/articles/anduril-navy-contract-counter-drone-tech) (Tier 2)
-- [Senate LDA: Thorn Run Partners lobbying filings](https://lda.gov/filings/public/filing/search/?registrant=Thorn+Run&filing_year=2025) (Tier 1)
-- [Thorn Run Partners: Former Federal Maritime Commissioner Louis Sola As Partner (August 1, 2025)](https://thornrun.com/thorn-run-partners-adds-former-federal-maritime-commissioner-louis-sola-as-partner/) (Tier 3)
-- [FreightWaves: Former U.S. shipping czar Sola joins D.C. lobby firm (August 1, 2025)](https://www.freightwaves.com/news/former-u-s-shipping-czar-sola-joins-d-c-lobby-firm) (Tier 2)
-- [FreightWaves: EXCLUSIVE: FMC Chief of Staff Hoang moves to private sector (January 2026)](https://www.freightwaves.com/news/exclusive-fmc-chief-of-staff-hoang-moves-to-private-sector) (Tier 2)
-- [Thorn Run Partners: POLITICO Exclusive — Thorn Run Adds Three New Partners (July 2025)](https://thornrun.com/politico-exclusive-thorn-run-adds-three-new-partners/) (Tier 3)
-- [PPAI: PPAI Enhances Lobbying Investment, Hires Leading K Street Firm (November 2024)](https://www.ppai.org/media-hub/ppai-enhances-lobbying-investment-hires-leading-k-street-firm/) (Tier 3)
+- [Senate LDA Filings: Thorn Run Partners Lobbying Profile 2024](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: Thorn Run Partners Lobbyists 2024 — 22 of 35 revolvers (62.9%)](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: Thorn Run Partners Lobbying Profile 2025](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [OpenSecrets: Revolving Door — Thorn Run Partners employer search](https://www.opensecrets.org/revolving-door/search_result?priv=Thorn+Run+Partners) (Tier 1) (VERIFIED)
+- [Roll Call: Ex-Ogilvy Lobbyists Launch Thorn Run Partners (January 5, 2010)](https://rollcall.com/2010/01/05/ex-ogilvy-lobbyists-launch-thorn-run-partners/) (Tier 2) (VERIFIED)
+- [Thorn Run Partners: Veteran Defense Lobbyist Greg Lankler Joins Thorn Run Partners](https://thornrun.com/veteran-defense-lobbyist-greg-lankler-joins-thorn-run-partners/) (Tier 3) (VERIFIED)
+- [Thorn Run Partners: Long-serving Appropriations Staffer, Retired Army Colonel B.G. Wright Joins Thorn Run Partners](https://thornrun.com/long-serving-appropriations-staffer-retired-army-colonel-b-g-wright-joins-thorn-run-partners/) (Tier 3) (VERIFIED)
+- [Thorn Run Partners: Stuart Chapman Joins Thorn Run Partners](https://thornrun.com/stuart-chapman-joins-thorn-run-partners/) (Tier 3) (VERIFIED)
+- [Thorn Run Partners: Ranks Among Nation's Top 10 Lobbying Firms](https://thornrun.com/thorn-run-partners-ranks-among-nations-top-10-lobbying-firms/) (Tier 3) (VERIFIED)
+- [Thorn Run Partners: Our Team](https://thornrun.com/team/) (Tier 3) (VERIFIED)
+- [Thorn Run Partners: Rockingstone Group Strategic Partnership (Jan 2018)](https://thornrun.com/thorn-run-partners-rockingstone-group-announce-new-strategic-partnership/) (Tier 3) (VERIFIED)
+- [DefenseScoop: Army awards Anduril $20B contract with eye toward counter-drone capabilities (March 2026)](https://defensescoop.com/2026/03/14/anduril-20-billion-dollar-army-contract/) (Tier 2) (VERIFIED)
+- [GovCon Wire: Anduril Wins $642M Navy Contract for Counter-Drone Tech](https://www.govconwire.com/articles/anduril-navy-contract-counter-drone-tech) (Tier 2) (VERIFIED)
+- [Senate LDA: Thorn Run Partners lobbying filings](https://lda.gov/filings/public/filing/search/?registrant=Thorn+Run&filing_year=2025) (Tier 1) (VERIFIED)
+- [Thorn Run Partners: Former Federal Maritime Commissioner Louis Sola As Partner (August 1, 2025)](https://thornrun.com/thorn-run-partners-adds-former-federal-maritime-commissioner-louis-sola-as-partner/) (Tier 3) (VERIFIED)
+- [FreightWaves: Former U.S. shipping czar Sola joins D.C. lobby firm (August 1, 2025)](https://www.freightwaves.com/news/former-u-s-shipping-czar-sola-joins-d-c-lobby-firm) (Tier 2) (VERIFIED)
+- [FreightWaves: EXCLUSIVE: FMC Chief of Staff Hoang moves to private sector (January 2026)](https://www.freightwaves.com/news/exclusive-fmc-chief-of-staff-hoang-moves-to-private-sector) (Tier 2) (VERIFIED)
+- [Thorn Run Partners: POLITICO Exclusive — Thorn Run Adds Three New Partners (July 2025)](https://thornrun.com/politico-exclusive-thorn-run-adds-three-new-partners/) (Tier 3) (VERIFIED)
+- [PPAI: PPAI Enhances Lobbying Investment, Hires Leading K Street Firm (November 2024)](https://www.ppai.org/media-hub/ppai-enhances-lobbying-investment-hires-leading-k-street-firm/) (Tier 3) (VERIFIED)
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
@@ -224,5 +224,5 @@ The class function: TRP exists to make sure that large institutional interests �
 - 2021-12-28 — **EX-99**: RESPONSUM INC. FORM C/A
 - 2021-08-25 — **EX-99**: RESPONSUM INC. FORM C
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Thorn%20Run%20Partners%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Thorn%20Run%20Partners%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->

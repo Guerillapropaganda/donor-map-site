@@ -206,15 +206,15 @@ Granger's "fiscal conservative" brand makes the class analysis sharper. She oppo
 
 ## Sources
 
-- [FEC Candidate: Kay Granger donor profile, 2020 cycle](https://www.fec.gov/data/candidate/H6TX12060/) (Tier 1)
-- [FEC Candidate: Kay Granger PAC receipts, defense sector](https://www.fec.gov/data/candidate/H6TX12060/) (Tier 1)
-- [House Appropriations Committee roster](https://appropriations.house.gov/about) (Tier 1)
-- [Read Sludge: Kay Granger and Lockheed Martin ties](https://read-sludge.myopengov.com/politicians/kay-granger) (Tier 2)
-- [Washington Post: Kay Granger's senior facility revelation sparks debate over lawmakers' ages (2024)](https://www.washingtonpost.com/politics/2024/12/24/kay-granger-texas-congresswoman-age-facility/) (Tier 2)
-- [Defense News/Fort Worth Report: Fort Worth's F-35 assembly plant had a record year (2026)](https://fortworthreport.org/2026/01/11/fort-worths-f-35-assembly-plant-had-a-record-year-how-many-aircraft-were-made/) (Tier 2)
-- [House Appropriations Committee: Appropriations Committees Release 2024 Government Funding Legislation](https://democrats-appropriations.house.gov/news/press-releases/appropriations-committees-release-2024-government-funding-legislation) (Tier 1)
-- [Congress.gov: House Appropriations Committee](https://www.congress.gov/committee/house-appropriations/hsap00) (Tier 1)
-- [ProPublica: Kay Granger voting record](https://projects.propublica.org/represent/) (Tier 1)
+- [FEC Candidate: Kay Granger donor profile, 2020 cycle](https://www.fec.gov/data/candidate/H6TX12060/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Kay Granger PAC receipts, defense sector](https://www.fec.gov/data/candidate/H6TX12060/) (Tier 1) (VERIFIED)
+- [House Appropriations Committee roster](https://appropriations.house.gov/about) (Tier 1) (VERIFIED)
+- ~~[Read Sludge: Kay Granger and Lockheed Martin ties](https://read-sludge.myopengov.com/politicians/kay-granger)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Washington Post: Kay Granger's senior facility revelation sparks debate over lawmakers' ages (2024)](https://www.washingtonpost.com/politics/2024/12/24/kay-granger-texas-congresswoman-age-facility/) (Tier 2) (VERIFIED)
+- [Defense News/Fort Worth Report: Fort Worth's F-35 assembly plant had a record year (2026)](https://fortworthreport.org/2026/01/11/fort-worths-f-35-assembly-plant-had-a-record-year-how-many-aircraft-were-made/) (Tier 2) (VERIFIED)
+- [House Appropriations Committee: Appropriations Committees Release 2024 Government Funding Legislation](https://democrats-appropriations.house.gov/news/press-releases/appropriations-committees-release-2024-government-funding-legislation) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: House Appropriations Committee](https://www.congress.gov/committee/house-appropriations/hsap00)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [ProPublica: Kay Granger voting record](https://projects.propublica.org/represent/) (Tier 1) (VERIFIED)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -248,5 +248,5 @@ Granger's "fiscal conservative" brand makes the class analysis sharper. She oppo
 | NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE | $118,530 | $0 |
 | WFW ACTION FUND, INC. | $79,662 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6TX12060/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6TX12060/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->

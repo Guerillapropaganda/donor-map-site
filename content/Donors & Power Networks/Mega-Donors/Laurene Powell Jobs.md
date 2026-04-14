@@ -165,33 +165,33 @@ The Atlantic acquisition completes the picture. Billionaires buy media propertie
 ### Sources
 
 ### Political Donations & Timeline:
-- [OpenSecrets — Laurene Powell Jobs donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Laurene%20Powell%20Jobs) (Tier 1)
-- [Fortune — "Laurene Powell Jobs is one of Kamala Harris' biggest bankrollers"](https://fortune.com/2024/09/26/laurene-powell-jobs-kamala-harris-biggest-donor-friends/) (Tier 2)
-- [Ballotpedia — Laurene Powell Jobs](https://ballotpedia.org/Laurene_Powell_Jobs) (Tier 2)
-- [Philanthropynewsdigest — Jobs' wife pushes education, immigration policy reform](https://candid.org/blogs/) (Tier 2)
+- [OpenSecrets — Laurene Powell Jobs donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Laurene%20Powell%20Jobs) (Tier 1) (VERIFIED)
+- [Fortune — "Laurene Powell Jobs is one of Kamala Harris' biggest bankrollers"](https://fortune.com/2024/09/26/laurene-powell-jobs-kamala-harris-biggest-donor-friends/) (Tier 2) (VERIFIED)
+- [Ballotpedia — Laurene Powell Jobs](https://ballotpedia.org/Laurene_Powell_Jobs) (Tier 2) (VERIFIED)
+- [Philanthropynewsdigest — Jobs' wife pushes education, immigration policy reform](https://candid.org/blogs/) (Tier 2) (VERIFIED)
 
 ### Emerson Collective & Structure:
-- [Wikipedia — Emerson Collective](https://en.wikipedia.org/wiki/Emerson_Collective) (Tier 3)
-- [InfluenceWatch — Emerson Collective (Waverley Street Foundation)](https://www.influencewatch.org/non-profit/emerson-collective/) (Tier 2)
-- [NCRP — Learning from Emerson Collective's philanthropic recipe](https://ncrp.org/resources/learning-from-emerson-collectives-philanthropic-recipe-for-these-times/) (Tier 2)
+- [Wikipedia — Emerson Collective](https://en.wikipedia.org/wiki/Emerson_Collective) (Tier 3) (VERIFIED)
+- [InfluenceWatch — Emerson Collective (Waverley Street Foundation)](https://www.influencewatch.org/non-profit/emerson-collective/) (Tier 2) (VERIFIED)
+- [NCRP — Learning from Emerson Collective's philanthropic recipe](https://ncrp.org/resources/learning-from-emerson-collectives-philanthropic-recipe-for-these-times/) (Tier 2) (VERIFIED)
 
 ### The Atlantic & Media:
-- [NPR — Powell Jobs to buy stake in The Atlantic](https://www.npr.org/2017/07/28/540006091/laurene-powell-jobs-to-buy-stake-in-the-atlantic) (Tier 2)
-- [Axios — Powell Jobs buys majority stake in The Atlantic](https://www.axios.com/2017/12/15/laurene-powell-jobs-buys-majority-stake-in-the-atlantic-1513304509) (Tier 2)
+- [NPR — Powell Jobs to buy stake in The Atlantic](https://www.npr.org/2017/07/28/540006091/laurene-powell-jobs-to-buy-stake-in-the-atlantic) (Tier 2) (VERIFIED)
+- [Axios — Powell Jobs buys majority stake in The Atlantic](https://www.axios.com/2017/12/15/laurene-powell-jobs-buys-majority-stake-in-the-atlantic-1513304509) (Tier 2) (VERIFIED)
 
 ### XQ Institute & Education:
-- [Inside Philanthropy — XQ Institute mission to remake high school](https://insidephilanthropy.com/home/laurene-powell-jobs-xq-institute-is-on-a-mission-to-remake-high-school) (Tier 2)
-- [Philanthropynewsdigest — Powell Jobs launches $50M super school challenge](https://candid.org/blogs/) (Tier 2)
+- [Inside Philanthropy — XQ Institute mission to remake high school](https://insidephilanthropy.com/home/laurene-powell-jobs-xq-institute-is-on-a-mission-to-remake-high-school) (Tier 2) (NEEDS REVIEW)
+- [Philanthropynewsdigest — Powell Jobs launches $50M super school challenge](https://candid.org/blogs/) (Tier 2) (VERIFIED)
 
 ### Net Worth & Inheritance:
-- [Bloomberg Billionaires Index — Laurene Powell Jobs](https://www.bloomberg.com/billionaires/profiles/laurene-p-jobs/) (Tier 1)
-- [Wikipedia — Laurene Powell Jobs](https://en.wikipedia.org/wiki/Laurene_Powell_Jobs) (Tier 3)
+- ~~[Bloomberg Billionaires Index — Laurene Powell Jobs](https://www.bloomberg.com/billionaires/profiles/laurene-p-jobs/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Wikipedia — Laurene Powell Jobs](https://en.wikipedia.org/wiki/Laurene_Powell_Jobs) (Tier 3) (VERIFIED)
 
 ### Climate Giving:
-- [Inside Philanthropy — Who will get Powell Jobs' $3.5 billion climate gift?](https://www.philanthropy.com/news/who-will-get-powell-jobss-3-5-billion-gift-for-climate-work/) (Tier 2)
+- [Inside Philanthropy — Who will get Powell Jobs' $3.5 billion climate gift?](https://www.philanthropy.com/news/who-will-get-powell-jobss-3-5-billion-gift-for-climate-work/) (Tier 2) (VERIFIED)
 
 ### Immigration Work:
-- [Washington Post — Laurene Powell Jobs' quest in education, immigration, media](https://www.washingtonpost.com/news/style/wp/2018/06/11/feature/the-quest-of-laurene-powell-jobs/) (Tier 2)
+- [Washington Post — Laurene Powell Jobs' quest in education, immigration, media](https://www.washingtonpost.com/news/style/wp/2018/06/11/feature/the-quest-of-laurene-powell-jobs/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -227,14 +227,14 @@ The Atlantic acquisition completes the picture. Billionaires buy media propertie
 - Keene v. Comcast Cable Communications Management, LLC (2024) — District Court, D. Maryland
 - Weatherill v. United Wholesale Mortgage, LLC (2024) — District Court, E.D. Michigan
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Laurene%20Powell%20Jobs%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Laurene%20Powell%20Jobs%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [549300MB5G3G4YWX8732](https://search.gleif.org/#/record/549300MB5G3G4YWX8732) |
+| LEI | [549300MB5G3G4YWX8732](https://search.gleif.org/#/record/549300MB5G3G4YWX8732) (VERIFIED) |
 | Legal Name | Laurene Powell Jobs Trust |
 | Jurisdiction | US-CA |
 | Entity Status | ACTIVE |
@@ -242,7 +242,7 @@ The Atlantic acquisition completes the picture. Billionaires buy media propertie
 | Registration | LAPSED |
 | Last Updated | 2023-08-04T16:55:04Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### SEC Filing Activity
@@ -260,5 +260,5 @@ The Atlantic acquisition completes the picture. Billionaires buy media propertie
 - 2017-01-13 — **EX-99.1**: EX-1
 - 2015-03-12 — **EX-1**: JOINT FILING AGREEMENT
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Laurene%20Powell%20Jobs%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Laurene%20Powell%20Jobs%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->

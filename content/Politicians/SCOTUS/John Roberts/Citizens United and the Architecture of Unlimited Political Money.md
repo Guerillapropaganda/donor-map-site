@@ -68,9 +68,9 @@ Approximately 30% of all outside spending comes from undisclosed donors. 501(c)(
 
 ### Sources
 
-- [Brennan Center: Citizens United, Explained](https://www.brennancenter.org/our-work/research-reports/citizens-united-explained) (Tier 2)
-- [OpenSecrets: More Money, Less Transparency. A Decade Under Citizens United](https://www.opensecrets.org/news/reports/a-decade-under-citizens-united) (Tier 2)
-- [Brennan Center: Dark Money Hit a Record High of $1.9 Billion in 2024 Federal Races](https://www.brennancenter.org/our-work/research-reports/dark-money-hit-record-high-19-billion-2024-federal-races) (Tier 2)
-- [OpenSecrets: Dark Money Groups Have Poured Billions Into Federal Elections Since Citizens United](https://www.opensecrets.org/news/2023/01/dark-money-groups-have-poured-billions-into-federal-elections-since-the-supreme-courts-2010-citizens-united-decision) (Tier 2)
-- [Brennan Center: Fifteen Years Later, Citizens United Defined the 2024 Election](https://www.brennancenter.org/our-work/research-reports/fifteen-years-later-citizens-united-defined-2024-election) (Tier 2)
-- [Supreme Court: Citizens United v. Federal Election Commission (Official Opinion)](https://www.supremecourt.gov/opinions/09pdf/08-205.pdf) (Tier 1)
+- [Brennan Center: Citizens United, Explained](https://www.brennancenter.org/our-work/research-reports/citizens-united-explained) (Tier 2) (VERIFIED)
+- [OpenSecrets: More Money, Less Transparency. A Decade Under Citizens United](https://www.opensecrets.org/news/reports/a-decade-under-citizens-united) (Tier 2) (VERIFIED)
+- [Brennan Center: Dark Money Hit a Record High of $1.9 Billion in 2024 Federal Races](https://www.brennancenter.org/our-work/research-reports/dark-money-hit-record-high-19-billion-2024-federal-races) (Tier 2) (VERIFIED)
+- [OpenSecrets: Dark Money Groups Have Poured Billions Into Federal Elections Since Citizens United](https://www.opensecrets.org/news/2023/01/dark-money-groups-have-poured-billions-into-federal-elections-since-the-supreme-courts-2010-citizens-united-decision) (Tier 2) (VERIFIED)
+- [Brennan Center: Fifteen Years Later, Citizens United Defined the 2024 Election](https://www.brennancenter.org/our-work/research-reports/fifteen-years-later-citizens-united-defined-2024-election) (Tier 2) (VERIFIED)
+- ~~[Supreme Court: Citizens United v. Federal Election Commission (Official Opinion)](https://www.supremecourt.gov/opinions/09pdf/08-205.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)

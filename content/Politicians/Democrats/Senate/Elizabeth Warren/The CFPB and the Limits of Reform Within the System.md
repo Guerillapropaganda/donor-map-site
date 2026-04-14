@@ -204,11 +204,11 @@ The 2025 destruction reveals the pilot's function: it was permitted as long as i
 
 ### Sources
 
-- [Consumer Financial Protection Bureau: History of the CFPB](https://www.consumerfinance.gov/about-us/newsroom/statements-speeches/history-of-the-cfpb/) (Tier 1)
-- [CFPB: About Us - Consumer Relief](https://www.consumerfinance.gov/about-us/) (Tier 1)
-- [OpenSecrets: Elizabeth Warren donor profile](https://www.opensecrets.org/members-of-congress/summary?cid=N00009497&cycle=Career) (Tier 1)
-- [Boston Globe: CFPB shutdown: Elizabeth Warren fights to save agency she conceived](https://www.bostonglobe.com/2025/02/10/nation/cfpb-elizabeth-warren-trump-elon-musk/) (Tier 2)
-- [GBH News: Sen. Warren says Consumer Financial Protection Bureau is 'still in the fight against predatory lenders'](https://www.wgbh.org/news/politics/2024-05-17/sen-warren-says-consumer-financial-protection-bureau-is-still-in-the-fight-against-predatory-lenders) (Tier 2)
-- [Wikipedia: Consumer Financial Protection Bureau](https://en.wikipedia.org/wiki/Consumer_Financial_Protection_Bureau) (Tier 3)
-- [U.S. Senator Elizabeth Warren: Consumer Financial Protection Bureau resources](https://www.warren.senate.gov/newsroom/press-releases) (Tier 1)
+- ~~[Consumer Financial Protection Bureau: History of the CFPB](https://www.consumerfinance.gov/about-us/newsroom/statements-speeches/history-of-the-cfpb/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [CFPB: About Us - Consumer Relief](https://www.consumerfinance.gov/about-us/) (Tier 1) (VERIFIED)
+- [OpenSecrets: Elizabeth Warren donor profile](https://www.opensecrets.org/members-of-congress/summary?cid=N00009497&cycle=Career) (Tier 1) (VERIFIED)
+- [Boston Globe: CFPB shutdown: Elizabeth Warren fights to save agency she conceived](https://www.bostonglobe.com/2025/02/10/nation/cfpb-elizabeth-warren-trump-elon-musk/) (Tier 2) (VERIFIED)
+- [GBH News: Sen. Warren says Consumer Financial Protection Bureau is 'still in the fight against predatory lenders'](https://www.wgbh.org/news/politics/2024-05-17/sen-warren-says-consumer-financial-protection-bureau-is-still-in-the-fight-against-predatory-lenders) (Tier 2) (VERIFIED)
+- [Wikipedia: Consumer Financial Protection Bureau](https://en.wikipedia.org/wiki/Consumer_Financial_Protection_Bureau) (Tier 3) (VERIFIED)
+- [U.S. Senator Elizabeth Warren: Consumer Financial Protection Bureau resources](https://www.warren.senate.gov/newsroom/press-releases) (Tier 1) (VERIFIED)
 

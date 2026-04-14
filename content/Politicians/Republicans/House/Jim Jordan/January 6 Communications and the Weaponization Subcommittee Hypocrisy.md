@@ -55,8 +55,8 @@ The medal's function: reward the congressman who defied the January 6th subpoena
 
 ### Sources
 
-- [House Select Committee on January 6th: Select Committee Subpoenas Five Members of Congress](https://www.house.gov/committees/committees-no-longer-standing) (Tier 1)
-- [CNN: Jim Jordan sent one of the texts revealed by January 6 committee](https://www.cnn.com/2021/12/15/politics/jim-jordan-mark-meadows-text/index.html) (Tier 2)
-- [Washington Post: Jim Jordan's weaponization panel gameplan draws critique](https://www.washingtonpost.com/politics/2023/03/10/jim-jordan-house-weaponization-panel/) (Tier 2)
-- [NPR: What is the Subcommittee on Weaponization of the Federal Government?](https://www.npr.org/2023/02/09/1155459408/house-panel-on-weaponization-of-the-federal-government-will-hold-its-first-heari) (Tier 2)
-- [PBS News: Trump rewards GOP ally Rep. Jim Jordan with Medal of Freedom](https://www.pbs.org/newshour/politics/trump-rewards-gop-ally-rep-jim-jordan-with-medal-of-freedom) (Tier 2)
+- [House Select Committee on January 6th: Select Committee Subpoenas Five Members of Congress](https://www.house.gov/committees/committees-no-longer-standing) (Tier 1) (VERIFIED)
+- [CNN: Jim Jordan sent one of the texts revealed by January 6 committee](https://www.cnn.com/2021/12/15/politics/jim-jordan-mark-meadows-text/index.html) (Tier 2) (VERIFIED)
+- [Washington Post: Jim Jordan's weaponization panel gameplan draws critique](https://www.washingtonpost.com/politics/2023/03/10/jim-jordan-house-weaponization-panel/) (Tier 2) (VERIFIED)
+- [NPR: What is the Subcommittee on Weaponization of the Federal Government?](https://www.npr.org/2023/02/09/1155459408/house-panel-on-weaponization-of-the-federal-government-will-hold-its-first-heari) (Tier 2) (VERIFIED)
+- [PBS News: Trump rewards GOP ally Rep. Jim Jordan with Medal of Freedom](https://www.pbs.org/newshour/politics/trump-rewards-gop-ally-rep-jim-jordan-with-medal-of-freedom) (Tier 2) (VERIFIED)

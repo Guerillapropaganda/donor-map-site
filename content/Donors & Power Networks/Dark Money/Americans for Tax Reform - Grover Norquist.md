@@ -53,8 +53,8 @@ The class function is straightforward. The pledge prevents tax increases on the 
 
 ### Sources
 
-- [OpenSecrets: Americans for Tax Reform](https://www.opensecrets.org/orgs/americans-for-tax-reform/summary?id=D000029588) (Tier 1)
-- [ATR: Taxpayer Protection Pledge signers list](https://atr.org/pledge-database/) (Tier 1)
-- [IRS: ATR 990 filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Americans%20for%20Tax%20Reform%20-%20Grover%20Norquist&city=&state=All+States&country=US) (Tier 1)
-- [Ballotpedia: Americans for Tax Reform](https://ballotpedia.org/Americans_for_Tax_Reform) (Tier 3)
+- [OpenSecrets: Americans for Tax Reform](https://www.opensecrets.org/orgs/americans-for-tax-reform/summary?id=D000029588) (Tier 1) (VERIFIED)
+- [ATR: Taxpayer Protection Pledge signers list](https://atr.org/pledge-database/) (Tier 1) (VERIFIED)
+- ~~[IRS: ATR 990 filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Americans%20for%20Tax%20Reform%20-%20Grover%20Norquist&city=&state=All+States&country=US)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Ballotpedia: Americans for Tax Reform](https://ballotpedia.org/Americans_for_Tax_Reform) (Tier 3) (VERIFIED)
 

@@ -162,7 +162,7 @@ The political math is straightforward. John Deere's PAC contributes $1-2 million
 | $6.4M | Department of Defense | 8511246304!MTR GRADER |
 | $1.9M | Department of Defense | 8511345881!MOTOR GRADER |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/62fbfb7a-aa79-01e2-9bd7-941bd1c0a434-C/latest) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/62fbfb7a-aa79-01e2-9bd7-941bd1c0a434-C/latest) (Tier 1) (VERIFIED)
 
 <!-- auto:usaspending pending-merge end -->
 
@@ -451,7 +451,7 @@ The political math is straightforward. John Deere's PAC contributes $1-2 million
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [969500UMN0I81FGDFL82](https://search.gleif.org/#/record/969500UMN0I81FGDFL82) |
+| LEI | [969500UMN0I81FGDFL82](https://search.gleif.org/#/record/969500UMN0I81FGDFL82) (VERIFIED) |
 | Legal Name | JOHN DEERE FINANCIAL |
 | Jurisdiction | FR |
 | Entity Status | ACTIVE |
@@ -459,7 +459,7 @@ The political math is straightforward. John Deere's PAC contributes $1-2 million
 | Registration | ISSUED |
 | Last Updated | 2026-03-17T21:10:19Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Federal Court Records (CourtListener)
@@ -478,7 +478,7 @@ The political math is straightforward. John Deere's PAC contributes $1-2 million
 - Berger v. Monroe County, Tennessee (2026) — District Court, E.D. Tennessee
 - HERNANDEZ GONZALES v. MADURO MOROS (2026) — District Court, District of Columbia
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22John%20Deere%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22John%20Deere%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Tax Filings (IRS 990)
@@ -495,11 +495,11 @@ The political math is straightforward. John Deere's PAC contributes $1-2 million
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/366051024/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/366051024/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/366051024/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/366051024/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/366051024/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/366051024/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/366051024/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/366051024/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/366051024/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/366051024/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/366051024) (Tier 1)
@@ -509,10 +509,10 @@ The political math is straightforward. John Deere's PAC contributes $1-2 million
 <!-- auto:wikipedia start -->
 | Fact | Value |
 |------|-------|
-| Wikidata ID | [Q98642757](https://www.wikidata.org/wiki/Q98642757) |
+| Wikidata ID | [Q98642757](https://www.wikidata.org/wiki/Q98642757) (VERIFIED) |
 | Description | brand of Deere & Company |
 
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q98642757) (Tier 2)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q98642757) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
 ### Lobbying Activity
@@ -531,5 +531,5 @@ The political math is straightforward. John Deere's PAC contributes $1-2 million
 
 **Agencies contacted:** Agriculture, Dept of (USDA), Air Force, Dept of, Defense, Dept of (DOD), Energy, Dept of, Federal Aviation Administration (FAA), HOUSE OF REPRESENTATIVES, Interior, Dept of (DOI), Natl Park Service (NPS), Natl Security Council (NSC), Office of Management & Budget (OMB) +7 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=John%20Deere) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=John%20Deere) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->

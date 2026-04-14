@@ -13,7 +13,7 @@ profiles:
 
 ## 740K pans sold at Walmart, Costco may pose burn hazards
 
-**Source:** [The Hill](https://thehill.com/homenews/state-watch/5816584-recall-740k-pans-sold-at-walmart-costco-may-pose-burn-hazards/)
+**Source:** ~~[The Hill](https://thehill.com/homenews/state-watch/5816584-recall-740k-pans-sold-at-walmart-costco-may-pose-burn-hazards/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-05
 
 You should stop using the pans immediately.

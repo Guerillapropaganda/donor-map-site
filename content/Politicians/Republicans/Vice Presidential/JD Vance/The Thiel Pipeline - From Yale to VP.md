@@ -138,24 +138,24 @@ This template can be replicated. Thiel is now explicitly considering the same st
 ### Sources
 
 ### Tier 1 (Primary/Government):
-- [FEC: Protect Ohio Values PAC 2022 cycle filings](https://www.opensecrets.org/news/2022/02/peter-thiel-tied-dark-money-group-helping-bankroll-super-pac-spending-on-2022-election/) (Tier 1)
-- [Congress.gov: J. D. Vance voting record and bills](https://www.congress.gov/member/j-vance/V000137) (Tier 1)
-- [OpenSecrets.org: Peter Thiel donor profile](https://www.opensecrets.org/donor-lookup/results?name=peter+thiel&order=desc&sort=D) (Tier 1)
+- [FEC: Protect Ohio Values PAC 2022 cycle filings](https://www.opensecrets.org/news/2022/02/peter-thiel-tied-dark-money-group-helping-bankroll-super-pac-spending-on-2022-election/) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: J. D. Vance voting record and bills](https://www.congress.gov/member/j-vance/V000137)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [OpenSecrets.org: Peter Thiel donor profile](https://www.opensecrets.org/donor-lookup/results?name=peter+thiel&order=desc&sort=D) (Tier 1) (VERIFIED)
 
 ### Tier 2 (Major Journalism):
-- [Washington Post: Inside the powerful Peter Thiel tech network that launched JD Vance](https://www.washingtonpost.com/technology/2024/07/28/jd-vance-peter-thiel-donors-big-tech-trump-vp/) (Tier 2)
-- [Washington Post: The radicalization of Hillbilly Elegy author J.D. Vance](https://www.washingtonpost.com/nation/2024/07/25/jd-vance-hillbilly-elegy-jackson-kentucky/) (Tier 2)
-- [The Conversation: Peter Thiel helped make JD Vance - The Republican kingmaker's influence is growing](https://theconversation.com/friday-essay-libertarian-tech-titan-peter-thiel-helped-make-jd-vance-the-republican-kingmakers-influence-is-growing-261856) (Tier 2)
+- [Washington Post: Inside the powerful Peter Thiel tech network that launched JD Vance](https://www.washingtonpost.com/technology/2024/07/28/jd-vance-peter-thiel-donors-big-tech-trump-vp/) (Tier 2) (VERIFIED)
+- ~~[Washington Post: The radicalization of Hillbilly Elegy author J.D. Vance](https://www.washingtonpost.com/nation/2024/07/25/jd-vance-hillbilly-elegy-jackson-kentucky/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [The Conversation: Peter Thiel helped make JD Vance - The Republican kingmaker's influence is growing](https://theconversation.com/friday-essay-libertarian-tech-titan-peter-thiel-helped-make-jd-vance-the-republican-kingmakers-influence-is-growing-261856) (Tier 2) (VERIFIED)
 
 ### Tier 3 (Aggregators & Government Data):
-- [OpenSecrets.org: Thiel family donations and Vance funding](https://www.opensecrets.org/donor-lookup/results?name=peter+thiel&order=desc&sort=D) (Tier 3)
-- [Ballotpedia: 2022 Ohio Senate race funding analysis](https://ballotpedia.org/J.D._Vance) (Tier 3)
-- [Wikipedia: JD Vance biography](https://en.wikipedia.org/wiki/JD_Vance) (Tier 3)
+- [OpenSecrets.org: Thiel family donations and Vance funding](https://www.opensecrets.org/donor-lookup/results?name=peter+thiel&order=desc&sort=D) (Tier 3) (VERIFIED)
+- [Ballotpedia: 2022 Ohio Senate race funding analysis](https://ballotpedia.org/J.D._Vance) (Tier 3) (VERIFIED)
+- [Wikipedia: JD Vance biography](https://en.wikipedia.org/wiki/JD_Vance) (Tier 3) (VERIFIED)
 
 ### Tier 4 (Investigative Analysis):
-- [Revolving Door Project: Oligarchs and the Trump Admin - Peter Thiel](https://therevolvingdoorproject.org/billionaires-and-the-trump-admin-peter-thiel/) (Tier 4)
-- [Fortune: How Peter Thiel's network of right-wing techies is infiltrating Trump's White House](https://fortune.com/2024/12/07/peter-thiel-network-trump-white-house-elon-musk-david-sacks/) (Tier 4)
-- [Rolling Stone: How Peter Thiel and Big Tech Oligarchs Drove America to Donald Trump](https://www.rollingstone.com/politics/politics-features/owned-book-peter-thiel-trump-tech-silicon-valley-1235276868/) (Tier 4)
+- [Revolving Door Project: Oligarchs and the Trump Admin - Peter Thiel](https://therevolvingdoorproject.org/billionaires-and-the-trump-admin-peter-thiel/) (Tier 4) (VERIFIED)
+- [Fortune: How Peter Thiel's network of right-wing techies is infiltrating Trump's White House](https://fortune.com/2024/12/07/peter-thiel-network-trump-white-house-elon-musk-david-sacks/) (Tier 4) (VERIFIED)
+- [Rolling Stone: How Peter Thiel and Big Tech Oligarchs Drove America to Donald Trump](https://www.rollingstone.com/politics/politics-features/owned-book-peter-thiel-trump-tech-silicon-valley-1235276868/) (Tier 4) (VERIFIED)
 
 ---
 

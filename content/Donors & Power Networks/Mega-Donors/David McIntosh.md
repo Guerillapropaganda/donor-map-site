@@ -62,9 +62,9 @@ David McIntosh is a structural representative of the mega-donor class using ideo
 
 ### Sources
 
-- [OpenSecrets: Club for Growth spending 2024](https://www.opensecrets.org/pacs/pacgave.php?cmte_id=C00432260&cycle=2024) (Tier 1)
-- [FEC: Club for Growth PAC spending 2022-2024](https://www.fec.gov/data/committee/C00432260/) (Tier 1)
-- [Politico: How Club for Growth shapes Republican primaries](https://www.politico.com/news/2024/01/15/club-for-growth-republican-primary-influence) (Tier 2)
+- ~~[OpenSecrets: Club for Growth spending 2024](https://www.opensecrets.org/pacs/pacgave.php?cmte_id=C00432260&cycle=2024)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [FEC: Club for Growth PAC spending 2022-2024](https://www.fec.gov/data/committee/C00432260/) (Tier 1) (VERIFIED)
+- ~~[Politico: How Club for Growth shapes Republican primaries](https://www.politico.com/news/2024/01/15/club-for-growth-republican-primary-influence)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ---
 
@@ -95,15 +95,15 @@ David McIntosh is a structural representative of the mega-donor class using ideo
 | Agencies | Energy Department, Federal Election Commission, Federal Energy Regulatory Commission, Labor Department, Occupational Safety and Health Administration, State Department |
 
 **Recent regulatory activity:**
-- [Consumers Energy Company; Notice of Application Accepted for Filing and Soliciting Comments, Motions To Intervene, and Protests](https://www.federalregister.gov/documents/2022/10/18/2022-22602/consumers-energy-company-notice-of-application-accepted-for-filing-and-soliciting-comments-motions) (2022-10-18) — Energy Department
-- [Consumers Energy Company; Notice of Application Accepted for Filing, Soliciting Comments, Motions To Intervene, and Protests](https://www.federalregister.gov/documents/2022/05/18/2022-10602/consumers-energy-company-notice-of-application-accepted-for-filing-soliciting-comments-motions-to) (2022-05-18) — Energy Department
-- [Consumers Energy Company and DTE Electric Company; Notice of Application Accepted for Filing, Soliciting Motions to Intervene and Protests, Ready for Environmental Analysis, and Soliciting Comments, Recommendations, Preliminary Terms and Conditions, and Preliminary Fishway Prescriptions](https://www.federalregister.gov/documents/2018/02/14/2018-03010/consumers-energy-company-and-dte-electric-company-notice-of-application-accepted-for-filing) (2018-02-14) — Energy Department
-- [Consumers Energy Company, DTE Electric Company; Notice of Settlement Agreement and Soliciting Comments](https://www.federalregister.gov/documents/2017/11/20/2017-25090/consumers-energy-company-dte-electric-company-notice-of-settlement-agreement-and-soliciting-comments) (2017-11-20) — Energy Department
-- [Consumers Energy Company; DTE Electric Company; Notice of Application Tendered for Filing With the Commission and Establishing Procedural Schedule for Licensing and Deadline for Submission of Final Amendments](https://www.federalregister.gov/documents/2017/07/14/2017-14819/consumers-energy-company-dte-electric-company-notice-of-application-tendered-for-filing-with-the) (2017-07-14) — Energy Department
-- [Consumers Energy Company and DTE Electric Company; Notice of Intent To File License Application, Filing of Pre-Application Document (Pad), Commencement of Pre-Filing Process, and Scoping; Request for Comments on the Pad and Scoping Document, and Identification of Issues and Associated Study Requests](https://www.federalregister.gov/documents/2014/03/28/2014-06878/consumers-energy-company-and-dte-electric-company-notice-of-intent-to-file-license-application) (2014-03-28) — Energy Department
+- [Consumers Energy Company; Notice of Application Accepted for Filing and Soliciting Comments, Motions To Intervene, and Protests](https://www.federalregister.gov/documents/2022/10/18/2022-22602/consumers-energy-company-notice-of-application-accepted-for-filing-and-soliciting-comments-motions) (VERIFIED) (2022-10-18) — Energy Department
+- [Consumers Energy Company; Notice of Application Accepted for Filing, Soliciting Comments, Motions To Intervene, and Protests](https://www.federalregister.gov/documents/2022/05/18/2022-10602/consumers-energy-company-notice-of-application-accepted-for-filing-soliciting-comments-motions-to) (VERIFIED) (2022-05-18) — Energy Department
+- [Consumers Energy Company and DTE Electric Company; Notice of Application Accepted for Filing, Soliciting Motions to Intervene and Protests, Ready for Environmental Analysis, and Soliciting Comments, Recommendations, Preliminary Terms and Conditions, and Preliminary Fishway Prescriptions](https://www.federalregister.gov/documents/2018/02/14/2018-03010/consumers-energy-company-and-dte-electric-company-notice-of-application-accepted-for-filing) (VERIFIED) (2018-02-14) — Energy Department
+- [Consumers Energy Company, DTE Electric Company; Notice of Settlement Agreement and Soliciting Comments](https://www.federalregister.gov/documents/2017/11/20/2017-25090/consumers-energy-company-dte-electric-company-notice-of-settlement-agreement-and-soliciting-comments) (VERIFIED) (2017-11-20) — Energy Department
+- [Consumers Energy Company; DTE Electric Company; Notice of Application Tendered for Filing With the Commission and Establishing Procedural Schedule for Licensing and Deadline for Submission of Final Amendments](https://www.federalregister.gov/documents/2017/07/14/2017-14819/consumers-energy-company-dte-electric-company-notice-of-application-tendered-for-filing-with-the) (VERIFIED) (2017-07-14) — Energy Department
+- [Consumers Energy Company and DTE Electric Company; Notice of Intent To File License Application, Filing of Pre-Application Document (Pad), Commencement of Pre-Filing Process, and Scoping; Request for Comments on the Pad and Scoping Document, and Identification of Issues and Associated Study Requests](https://www.federalregister.gov/documents/2014/03/28/2014-06878/consumers-energy-company-and-dte-electric-company-notice-of-intent-to-file-license-application) (VERIFIED) (2014-03-28) — Energy Department
 - ... and 4 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22David%20McIntosh%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22David%20McIntosh%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Campaign Finance (FEC)
@@ -128,7 +128,7 @@ David McIntosh is a structural representative of the mega-donor class using ideo
 | SENATE CONSERVATIVES FUND | $1,315 | — |
 | HOUSE FREEDOM FUND | $1,280 | — |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=David%20McIntosh) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=David%20McIntosh) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### Federal Court Records (CourtListener)
@@ -147,5 +147,5 @@ David McIntosh is a structural representative of the mega-donor class using ideo
 - President and Fellows of Harvard College v. US Department of Health and Human Services (2025) — District Court, D. Massachusetts
 - Gjovik v. Apple Inc. (2025) — Court of Appeals for the Ninth Circuit
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22David%20McIntosh%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22David%20McIntosh%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->

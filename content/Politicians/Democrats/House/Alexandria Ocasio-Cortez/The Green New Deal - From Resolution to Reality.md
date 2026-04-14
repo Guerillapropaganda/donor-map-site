@@ -97,10 +97,10 @@ What remains: AOC's small-dollar fundraising machine, her national profile, and 
 
 ### Sources
 
-- [Congress.gov: H.Res.109. Green New Deal (116th Congress)](https://www.congress.gov/bill/116th-congress/house-resolution/109) (Tier 1)
-- [Congress.gov: H.Res.332. Green New Deal (117th Congress)](https://www.congress.gov/bill/117th-congress/house-resolution/332) (Tier 1)
-- [Wikipedia: Green New Deal, legislative history](https://en.wikipedia.org/wiki/Green_New_Deal) (Tier 3)
-- [Grist: The uncertain future of the Green New Deal](https://grist.org/protest/the-uncertain-future-of-the-green-new-deal/) (Tier 2)
-- [Slate: Sunrise Movement pivot after IRA](https://slate.com/news-and-politics/2022/11/sunrise-movement-biden-ira-2024.html) (Tier 2)
-- [Ocasio-Cortez official site: Green New Deal Implementation Guide (2024)](https://ocasio-cortez.house.gov/media/in-the-news/green-new-deal-implementation-guide) (Tier 1)
-- [Sen. Markey's office: Five years of the Green New Deal](https://www.markey.senate.gov/imo/media/doc/five_years_in_a_green_new_deal_world_-_020624pdf1.pdf) (Tier 1)
+- ~~[Congress.gov: H.Res.109. Green New Deal (116th Congress)](https://www.congress.gov/bill/116th-congress/house-resolution/109)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: H.Res.332. Green New Deal (117th Congress)](https://www.congress.gov/bill/117th-congress/house-resolution/332)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Wikipedia: Green New Deal, legislative history](https://en.wikipedia.org/wiki/Green_New_Deal) (Tier 3) (VERIFIED)
+- [Grist: The uncertain future of the Green New Deal](https://grist.org/protest/the-uncertain-future-of-the-green-new-deal/) (Tier 2) (VERIFIED)
+- [Slate: Sunrise Movement pivot after IRA](https://slate.com/news-and-politics/2022/11/sunrise-movement-biden-ira-2024.html) (Tier 2) (VERIFIED)
+- [Ocasio-Cortez official site: Green New Deal Implementation Guide (2024)](https://ocasio-cortez.house.gov/media/in-the-news/green-new-deal-implementation-guide) (Tier 1) (VERIFIED)
+- [Sen. Markey's office: Five years of the Green New Deal](https://www.markey.senate.gov/imo/media/doc/five_years_in_a_green_new_deal_world_-_020624pdf1.pdf) (Tier 1) (VERIFIED)

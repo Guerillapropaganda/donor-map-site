@@ -379,65 +379,65 @@ Simultaneously, Yass funds Club for Growth's primary agenda: **elimination of ca
 ### Sources
 
 ### OpenSecrets & FEC (Tier 1):
-- [FEC Independent Expenditures: Jeffrey Yass donor detail — 2024 outside spending](https://www.fec.gov/data/independent-expenditures/?q=Yass) (Tier 1)
-- [FEC Independent Expenditures: Jeffrey Yass donor detail — 2020 outside spending](https://www.fec.gov/data/independent-expenditures/?q=Jeffrey%20S%20Yass) (Tier 1)
-- [FEC Receipts: Jeffrey Yass donor lookup (by amount descending)](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Jeff%20Yass) (Tier 1)
-- [OpenSecrets: Club for Growth Action 2024 donors](https://www.opensecrets.org/political-action-committees-pacs/club-for-growth-action/C00487470/donors/2024) (Tier 1)
-- [OpenSecrets: Club for Growth Action 2022 donors](https://www.opensecrets.org/political-action-committees-pacs/club-for-growth-action/C00487470/donors/2022) (Tier 1)
-- [OpenSecrets: Club for Growth Action 2020 donors](https://www.opensecrets.org/political-action-committees-pacs/club-for-growth-action/C00487470/donors/2020) (Tier 1)
-- [OpenSecrets: Biggest Donors 2024](https://www.opensecrets.org/elections-overview/biggest-donors) (Tier 1)
-- [OpenSecrets: Biggest Donors 2024 — Musk tops list (March 2025)](https://www.opensecrets.org/news/2025/03/elon-musk-tops-list-of-2024-political-donors-but-six-others-gave-more-than-100-million) (Tier 1)
+- [FEC Independent Expenditures: Jeffrey Yass donor detail — 2024 outside spending](https://www.fec.gov/data/independent-expenditures/?q=Yass) (Tier 1) (VERIFIED)
+- [FEC Independent Expenditures: Jeffrey Yass donor detail — 2020 outside spending](https://www.fec.gov/data/independent-expenditures/?q=Jeffrey%20S%20Yass) (Tier 1) (VERIFIED)
+- [FEC Receipts: Jeffrey Yass donor lookup (by amount descending)](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Jeff%20Yass) (Tier 1) (VERIFIED)
+- [OpenSecrets: Club for Growth Action 2024 donors](https://www.opensecrets.org/political-action-committees-pacs/club-for-growth-action/C00487470/donors/2024) (Tier 1) (VERIFIED)
+- [OpenSecrets: Club for Growth Action 2022 donors](https://www.opensecrets.org/political-action-committees-pacs/club-for-growth-action/C00487470/donors/2022) (Tier 1) (VERIFIED)
+- [OpenSecrets: Club for Growth Action 2020 donors](https://www.opensecrets.org/political-action-committees-pacs/club-for-growth-action/C00487470/donors/2020) (Tier 1) (VERIFIED)
+- [OpenSecrets: Biggest Donors 2024](https://www.opensecrets.org/elections-overview/biggest-donors) (Tier 1) (VERIFIED)
+- [OpenSecrets: Biggest Donors 2024 — Musk tops list (March 2025)](https://www.opensecrets.org/news/2025/03/elon-musk-tops-list-of-2024-political-donors-but-six-others-gave-more-than-100-million) (Tier 1) (VERIFIED)
 
 ### Government & Institutional (Tier 1):
-- [Whitehouse.gov: President Trump's One Big Beautiful Bill Is Now the Law](https://www.whitehouse.gov/releases/2025/07/president-trumps-one-big-beautiful-bill-is-now-the-law/) (Tier 1)
-- [Pennsylvania Department of State: Voter Registration Records](https://www.pa.gov/agencies/dos) (Tier 1)
+- [Whitehouse.gov: President Trump's One Big Beautiful Bill Is Now the Law](https://www.whitehouse.gov/releases/2025/07/president-trumps-one-big-beautiful-bill-is-now-the-law/) (Tier 1) (VERIFIED)
+- [Pennsylvania Department of State: Voter Registration Records](https://www.pa.gov/agencies/dos) (Tier 1) (VERIFIED)
 
 ### Investigative Journalism (Tier 2):
-- [ProPublica: Meet the Billionaire and Rising GOP Mega-Donor Who's Gaming the Tax System](https://www.propublica.org/article/jeff-yass-susquehanna-tiktok-tax-avoidance) (Tier 2) (WebFetch verified ✓)
-- [Philadelphia Inquirer: Jeffrey Yass, Pa.'s richest man, donated at least $2.5 million to Trump's White House ballroom](https://www.inquirer.com/politics/nation/jeffrey-yass-trump-ballroom-billionaire-donations-20251103.html) (Tier 2) (WebFetch confirmed available ✓)
-- [Philadelphia Inquirer: Jeffrey Yass and TikTok's ByteDance stake](https://www.inquirer.com/politics/jeff-yass-billionaire-donor-tik-tok-bytedance-20240418.html) (Tier 2)
-- [Philadelphia Inquirer: Jeffrey Yass school voucher spending (December 2025)](https://www.inquirer.com/politics/nation/jeffrey-yass-school-voucher-pennsylvania-20251205.html) (Tier 2)
-- [CNBC: Yass millions to influence schools, courts, and markets](https://www.cnbc.com/2024/04/09/jeff-yass-millions-to-influence-schools-courts-and-markets.html) (Tier 2)
-- [Fortune: Trump, Yass, TikTok — how the ban was avoided](https://fortune.com/2024/12/09/trump-jeff-yass-tiktok-avoid-ban/) (Tier 2)
-- [Read Sludge: TikTok billionaire donates millions to Trump as he repeatedly delays ban](https://readsludge.com/2025/08/01/tiktok-billionaire-donates-millions-to-trump-as-he-repeatedly-delays-ban/) (Tier 2) (WebFetch verified ✓)
-- [Keystone Newsroom: Jeffrey Yass funded Trump's super PAC. Then the TikTok ban was delayed](https://keystonenewsroom.com/2025/08/05/jeffrey-yass-trump-tiktok-ban/) (Tier 2) (WebFetch verified ✓)
-- [Keystone Newsroom: Billionaire Jeffrey Yass retains ownership stake in TikTok after cozying up to Trump](https://keystonenewsroom.com/2026/01/27/yass-tiktok-deal-revealed/) (Tier 2) (WebFetch verified ✓)
-- [Keystone Newsroom: Jeffrey Yass Trump TikTok ban article](https://new.keystonenewsroom.com/news/politics/jeffrey-yass-trump-tiktok-ban/) (Tier 2)
-- [Rolling Stone: TikTok billionaire Yass GOP donor abortion funding](https://www.rollingstone.com/politics/politics-features/tiktok-billionaire-yass-gop-donor-abortion-1234859270/) (Tier 2)
-- [Spotlight PA: Yass $18M on 2022 PA primary](https://www.spotlightpa.org/news/2022/05/pa-primary-2022-billionaire-donations-jeff-yass/) (Tier 2)
-- [Spotlight PA: 2024 PA donors/PACs (December 2024)](https://www.spotlightpa.org/news/2024/12/pennsylvania-election-top-donors-pacs-attorney-general-jeff-yass-state-house/) (Tier 2)
-- [Washington Post: Top 20 Billionaires in American Elections](https://www.washingtonpost.com/politics/interactive/2025/top-20-billionaires-american-elections/) (Tier 2) (UNVERIFIED)
-- [Courier-Journal: Why Rand Paul is Yass's favorite politician (October 2022)](https://www.courier-journal.com/story/opinion/2022/10/31/why-rand-paul-is-billionaire-jeff-yass-favorite-national-politician/69598738007/) (Tier 2)
-- [Technical.ly: The firm owned by Pennsylvania's richest man is now co-leading US TikTok](https://technical.ly/entrepreneurship/susquehanna-international-group-jeff-yass-tiktok-board/) (Tier 2) (WebFetch verified ✓)
-- [Revolving Door Project: Oligarchs in the Trump Admin: Jeff Yass](https://therevolvingdoorproject.org/jeff-yass-trump-admin-billionaires/) (Tier 2) (WebFetch verified ✓)
-- [Philadelphia Magazine: Jeff Yass's Big School Choice Gamble](https://www.phillymag.com/news/2024/08/24/jeff-yass-school-choice/) (Tier 2) (UNVERIFIED)
-- [NBC News: Who is Jeff Yass — billionaire donor investments in TikTok's parent company](https://www.nbcnews.com/tech/tech-news/jeff-yass-billionaire-donor-investments-tiktoks-parent-company-rcna142531) (Tier 2)
-- [Forbes: Billionaire Jeff Yass may be the donor behind Trump's TikTok flipflop](https://www.forbes.com/sites/maryroeloffs/2024/03/18/billionaire-jeff-yass-may-be-the-donor-behind-trumps-tiktok-flipflop-heres-what-to-know/) (Tier 2) (UNVERIFIED)
-- [Forbes: Secretive billionaire is one of America's biggest conservative donors](https://www.forbes.com/sites/michelatindera/2021/04/16/this-secretive-billionaire-is-one-of-americas-biggest-conservative-donors/) (Tier 2) (UNVERIFIED)
-- [The 74 Million: School choice activist Jeff Yass may have prompted Trump's about-face on TikTok](https://www.the74million.org/article/school-choice-activist-jeff-yass-may-have-prompted-trumps-about-face-on-tiktok/) (Tier 2-3) (UNVERIFIED)
+- [ProPublica: Meet the Billionaire and Rising GOP Mega-Donor Who's Gaming the Tax System](https://www.propublica.org/article/jeff-yass-susquehanna-tiktok-tax-avoidance) (Tier 2) (VERIFIED) (WebFetch verified ✓)
+- [Philadelphia Inquirer: Jeffrey Yass, Pa.'s richest man, donated at least $2.5 million to Trump's White House ballroom](https://www.inquirer.com/politics/nation/jeffrey-yass-trump-ballroom-billionaire-donations-20251103.html) (Tier 2) (VERIFIED) (WebFetch confirmed available ✓)
+- [Philadelphia Inquirer: Jeffrey Yass and TikTok's ByteDance stake](https://www.inquirer.com/politics/jeff-yass-billionaire-donor-tik-tok-bytedance-20240418.html) (Tier 2) (VERIFIED)
+- [Philadelphia Inquirer: Jeffrey Yass school voucher spending (December 2025)](https://www.inquirer.com/politics/nation/jeffrey-yass-school-voucher-pennsylvania-20251205.html) (Tier 2) (VERIFIED)
+- [CNBC: Yass millions to influence schools, courts, and markets](https://www.cnbc.com/2024/04/09/jeff-yass-millions-to-influence-schools-courts-and-markets.html) (Tier 2) (VERIFIED)
+- [Fortune: Trump, Yass, TikTok — how the ban was avoided](https://fortune.com/2024/12/09/trump-jeff-yass-tiktok-avoid-ban/) (Tier 2) (VERIFIED)
+- [Read Sludge: TikTok billionaire donates millions to Trump as he repeatedly delays ban](https://readsludge.com/2025/08/01/tiktok-billionaire-donates-millions-to-trump-as-he-repeatedly-delays-ban/) (Tier 2) (VERIFIED) (WebFetch verified ✓)
+- [Keystone Newsroom: Jeffrey Yass funded Trump's super PAC. Then the TikTok ban was delayed](https://keystonenewsroom.com/2025/08/05/jeffrey-yass-trump-tiktok-ban/) (Tier 2) (VERIFIED) (WebFetch verified ✓)
+- [Keystone Newsroom: Billionaire Jeffrey Yass retains ownership stake in TikTok after cozying up to Trump](https://keystonenewsroom.com/2026/01/27/yass-tiktok-deal-revealed/) (Tier 2) (VERIFIED) (WebFetch verified ✓)
+- [Keystone Newsroom: Jeffrey Yass Trump TikTok ban article](https://new.keystonenewsroom.com/news/politics/jeffrey-yass-trump-tiktok-ban/) (Tier 2) (VERIFIED)
+- [Rolling Stone: TikTok billionaire Yass GOP donor abortion funding](https://www.rollingstone.com/politics/politics-features/tiktok-billionaire-yass-gop-donor-abortion-1234859270/) (Tier 2) (VERIFIED)
+- [Spotlight PA: Yass $18M on 2022 PA primary](https://www.spotlightpa.org/news/2022/05/pa-primary-2022-billionaire-donations-jeff-yass/) (Tier 2) (VERIFIED)
+- [Spotlight PA: 2024 PA donors/PACs (December 2024)](https://www.spotlightpa.org/news/2024/12/pennsylvania-election-top-donors-pacs-attorney-general-jeff-yass-state-house/) (Tier 2) (VERIFIED)
+- ~~[Washington Post: Top 20 Billionaires in American Elections](https://www.washingtonpost.com/politics/interactive/2025/top-20-billionaires-american-elections/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- [Courier-Journal: Why Rand Paul is Yass's favorite politician (October 2022)](https://www.courier-journal.com/story/opinion/2022/10/31/why-rand-paul-is-billionaire-jeff-yass-favorite-national-politician/69598738007/) (Tier 2) (VERIFIED)
+- [Technical.ly: The firm owned by Pennsylvania's richest man is now co-leading US TikTok](https://technical.ly/entrepreneurship/susquehanna-international-group-jeff-yass-tiktok-board/) (Tier 2) (VERIFIED) (WebFetch verified ✓)
+- [Revolving Door Project: Oligarchs in the Trump Admin: Jeff Yass](https://therevolvingdoorproject.org/jeff-yass-trump-admin-billionaires/) (Tier 2) (VERIFIED) (WebFetch verified ✓)
+- [Philadelphia Magazine: Jeff Yass's Big School Choice Gamble](https://www.phillymag.com/news/2024/08/24/jeff-yass-school-choice/) (Tier 2) (VERIFIED) (UNVERIFIED)
+- [NBC News: Who is Jeff Yass — billionaire donor investments in TikTok's parent company](https://www.nbcnews.com/tech/tech-news/jeff-yass-billionaire-donor-investments-tiktoks-parent-company-rcna142531) (Tier 2) (VERIFIED)
+- ~~[Forbes: Billionaire Jeff Yass may be the donor behind Trump's TikTok flipflop](https://www.forbes.com/sites/maryroeloffs/2024/03/18/billionaire-jeff-yass-may-be-the-donor-behind-trumps-tiktok-flipflop-heres-what-to-know/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[Forbes: Secretive billionaire is one of America's biggest conservative donors](https://www.forbes.com/sites/michelatindera/2021/04/16/this-secretive-billionaire-is-one-of-americas-biggest-conservative-donors/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- [The 74 Million: School choice activist Jeff Yass may have prompted Trump's about-face on TikTok](https://www.the74million.org/article/school-choice-activist-jeff-yass-may-have-prompted-trumps-about-face-on-tiktok/) (VERIFIED) (Tier 2-3) (UNVERIFIED)
 
 ### News & Secondary Sources (Tier 2-3):
-- [NY Post: Rand Paul backed by GOP donor with $33B TikTok stake](https://nypost.com/2023/04/06/rand-paul-backed-by-gop-donor-with-33b-tiktok-stake/) (Tier 2)
-- [Texas Tribune: Yass and Texas school voucher Republicans (January 2024)](https://www.texastribune.org/2024/01/31/texas-house-republican-primary-2024-vouchers/) (Tier 2)
-- [Yahoo/Bloomberg: Jeff Yass gives $4 million to Greg Abbott](https://www.yahoo.com/news/jeff-yass-gives-4-million-201104102.html) (Tier 2)
-- [Public Citizen: Deleting Enforcement — Trump big tech billion report](https://www.citizen.org/article/deleting-enforcement-trump-big-tech-billion-report/) (Tier 2-3) (UNVERIFIED)
-- [The Nation: Silicon Valley Trump support donations](https://www.thenation.com/article/politics/silicon-valley-trump-support-donations/) (Tier 2-3) (UNVERIFIED)
-- [Inside Higher Ed: Report on billionaires supporting University of Austin](https://www.insidehighered.com/news/quick-takes/2024/10/17/report-some-billionaires-supporting-university-austin) (Tier 2-3) (UNVERIFIED)
-- [Marginal Revolution: University of Austin $100M Yass donation](https://marginalrevolution.com/?p=91799) (Tier 3)
-- [Quartz: Jeff Yass Trump TikTok Truth Social](https://qz.com/jeff-yass-trump-tiktok-truth-social-1851367927) (Tier 2-3) (UNVERIFIED)
+- [NY Post: Rand Paul backed by GOP donor with $33B TikTok stake](https://nypost.com/2023/04/06/rand-paul-backed-by-gop-donor-with-33b-tiktok-stake/) (Tier 2) (VERIFIED)
+- [Texas Tribune: Yass and Texas school voucher Republicans (January 2024)](https://www.texastribune.org/2024/01/31/texas-house-republican-primary-2024-vouchers/) (Tier 2) (VERIFIED)
+- [Yahoo/Bloomberg: Jeff Yass gives $4 million to Greg Abbott](https://www.yahoo.com/news/jeff-yass-gives-4-million-201104102.html) (Tier 2) (VERIFIED)
+- [Public Citizen: Deleting Enforcement — Trump big tech billion report](https://www.citizen.org/article/deleting-enforcement-trump-big-tech-billion-report/) (VERIFIED) (Tier 2-3) (UNVERIFIED)
+- [The Nation: Silicon Valley Trump support donations](https://www.thenation.com/article/politics/silicon-valley-trump-support-donations/) (VERIFIED) (Tier 2-3) (UNVERIFIED)
+- [Inside Higher Ed: Report on billionaires supporting University of Austin](https://www.insidehighered.com/news/quick-takes/2024/10/17/report-some-billionaires-supporting-university-austin) (VERIFIED) (Tier 2-3) (UNVERIFIED)
+- ~~[Marginal Revolution: University of Austin $100M Yass donation](https://marginalrevolution.com/?p=91799)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [Quartz: Jeff Yass Trump TikTok Truth Social](https://qz.com/jeff-yass-trump-tiktok-truth-social-1851367927) (VERIFIED) (Tier 2-3) (UNVERIFIED)
 
 ### Specialized/Advocacy Sources (Tier 3-4):
-- [All Eyes on Yass: Statements on PA political spending (October 2024)](https://www.alleyesonyass.com/statements/oct-7-2024) (Tier 3-4) (UNVERIFIED)
-- [Curmudgucation: PA school choice lobby and Jeff Yass (August 2025)](https://curmudgucation.blogspot.com/2025/08/pa-school-choice-lobby-and-jeff-yass.html) (Tier 3)
-- [Philadelphia Citizen: Jeff Yass on TikTok free speech](https://thephiladelphiacitizen.org/jeff-yass-tiktok-free-speech/) (Tier 3)
-- [The Racket: The Free Press pseudo-liberal outlet (Bari Weiss, UATX)](https://theracket.news/p/the-free-speech-event-that-wasnt) (Tier 3)
-- [Proteus Fund: Conquering the Courts report (PA Supreme Court)](http://www.proteusfund.org/wp-content/uploads/true-north-conquering-the-courts-report.pdf) (Tier 3)
-- [Cambridge Perspectives on Politics: Diaspora-local cooperation and American-Israeli network ideological change (Academic)](https://www.cambridge.org/core/journals/perspectives-on-politics/article/diasporalocal-cooperation-as-a-driver-of-ideological-change-the-ascendance-of-american-conservatism-in-israel/1114BF43E1A4A649C9E46387BB26DFDB) (Tier 2-3) (UNVERIFIED)
-- [The Guardian: Yass donations to anti-Muslim and pro-Israel groups](https://www.theguardian.com/us-news/2024/apr/01/billionaire-donor-tiktok-stake) (Tier 2) (UNVERIFIED)
+- [All Eyes on Yass: Statements on PA political spending (October 2024)](https://www.alleyesonyass.com/statements/oct-7-2024) (VERIFIED) (Tier 3-4) (UNVERIFIED)
+- [Curmudgucation: PA school choice lobby and Jeff Yass (August 2025)](https://curmudgucation.blogspot.com/2025/08/pa-school-choice-lobby-and-jeff-yass.html) (Tier 3) (VERIFIED)
+- [Philadelphia Citizen: Jeff Yass on TikTok free speech](https://thephiladelphiacitizen.org/jeff-yass-tiktok-free-speech/) (Tier 3) (VERIFIED)
+- [The Racket: The Free Press pseudo-liberal outlet (Bari Weiss, UATX)](https://theracket.news/p/the-free-speech-event-that-wasnt) (Tier 3) (VERIFIED)
+- [Proteus Fund: Conquering the Courts report (PA Supreme Court)](http://www.proteusfund.org/wp-content/uploads/true-north-conquering-the-courts-report.pdf) (Tier 3) (VERIFIED)
+- [Cambridge Perspectives on Politics: Diaspora-local cooperation and American-Israeli network ideological change (Academic)](https://www.cambridge.org/core/journals/perspectives-on-politics/article/diasporalocal-cooperation-as-a-driver-of-ideological-change-the-ascendance-of-american-conservatism-in-israel/1114BF43E1A4A649C9E46387BB26DFDB) (VERIFIED) (Tier 2-3) (UNVERIFIED)
+- ~~[The Guardian: Yass donations to anti-Muslim and pro-Israel groups](https://www.theguardian.com/us-news/2024/apr/01/billionaire-donor-tiktok-stake)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 
 ### Reference & Aggregator (Tier 3):
-- [Wikipedia: Jeff Yass](https://en.wikipedia.org/wiki/Jeff_Yass) (Tier 3)
-- [Ballotpedia: Jeff Yass](https://ballotpedia.org/Jeff_Yass) (Tier 3) (UNVERIFIED)
+- [Wikipedia: Jeff Yass](https://en.wikipedia.org/wiki/Jeff_Yass) (Tier 3) (VERIFIED)
+- [Ballotpedia: Jeff Yass](https://ballotpedia.org/Jeff_Yass) (Tier 3) (VERIFIED) (UNVERIFIED)
 
 > **Note on URL verification:** All URLs marked (UNVERIFIED) have NOT been verified per vault standards. Before promoting this file to `ready` status, all UNVERIFIED URLs must be verified to confirm 200 status and content availability. See Quality Standards for verification protocol.
 
@@ -470,12 +470,12 @@ Simultaneously, Yass funds Club for Growth's primary agenda: **elimination of ca
 | Agencies | Securities and Exchange Commission |
 
 **Recent regulatory activity:**
-- [Self-Regulatory Organizations; NYSE Arca, Inc.; Order Disapproving a Proposed Rule Change, as Modified by Amendment No. 1, Relating to the Listing and Trading of Shares of the Bitwise Bitcoin ETF Trust Under NYSE Arca Rule 8.201-E](https://www.federalregister.gov/documents/2019/10/16/2019-22486/self-regulatory-organizations-nyse-arca-inc-order-disapproving-a-proposed-rule-change-as-modified-by) (2019-10-16) — Securities and Exchange Commission
-- [Self-Regulatory Organizations; Bats BZX Exchange, Inc.; Order Setting Aside Action by Delegated Authority and Disapproving a Proposed Rule Change, as Modified by Amendments No. 1 and 2, To List and Trade Shares of the Winklevoss Bitcoin Trust](https://www.federalregister.gov/documents/2018/08/01/2018-16427/self-regulatory-organizations-bats-bzx-exchange-inc-order-setting-aside-action-by-delegated) (2018-08-01) — Securities and Exchange Commission
-- [Self-Regulatory Organizations; Notice of Filing and Immediate Effectiveness of Proposed Rule Change by the American Stock Exchange LLC Relating to Member Transaction Charges for Exchange-Traded Funds](https://www.federalregister.gov/documents/2002/11/12/02-28604/self-regulatory-organizations-notice-of-filing-and-immediate-effectiveness-of-proposed-rule-change) (2002-11-12) — Securities and Exchange Commission
-- [Self-Regulatory Organizations; Notice of Filing and Immediate Effectiveness of Amendment No. 3 to a Proposed Rule Change by the American Stock Exchange LLC Relating to Specialist Unit Fees](https://www.federalregister.gov/documents/2002/05/30/02-13482/self-regulatory-organizations-notice-of-filing-and-immediate-effectiveness-of-amendment-no-3-to-a) (2002-05-30) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; NYSE Arca, Inc.; Order Disapproving a Proposed Rule Change, as Modified by Amendment No. 1, Relating to the Listing and Trading of Shares of the Bitwise Bitcoin ETF Trust Under NYSE Arca Rule 8.201-E](https://www.federalregister.gov/documents/2019/10/16/2019-22486/self-regulatory-organizations-nyse-arca-inc-order-disapproving-a-proposed-rule-change-as-modified-by) (VERIFIED) (2019-10-16) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; Bats BZX Exchange, Inc.; Order Setting Aside Action by Delegated Authority and Disapproving a Proposed Rule Change, as Modified by Amendments No. 1 and 2, To List and Trade Shares of the Winklevoss Bitcoin Trust](https://www.federalregister.gov/documents/2018/08/01/2018-16427/self-regulatory-organizations-bats-bzx-exchange-inc-order-setting-aside-action-by-delegated) (VERIFIED) (2018-08-01) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; Notice of Filing and Immediate Effectiveness of Proposed Rule Change by the American Stock Exchange LLC Relating to Member Transaction Charges for Exchange-Traded Funds](https://www.federalregister.gov/documents/2002/11/12/02-28604/self-regulatory-organizations-notice-of-filing-and-immediate-effectiveness-of-proposed-rule-change) (VERIFIED) (2002-11-12) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; Notice of Filing and Immediate Effectiveness of Amendment No. 3 to a Proposed Rule Change by the American Stock Exchange LLC Relating to Specialist Unit Fees](https://www.federalregister.gov/documents/2002/05/30/02-13482/self-regulatory-organizations-notice-of-filing-and-immediate-effectiveness-of-amendment-no-3-to-a) (VERIFIED) (2002-05-30) — Securities and Exchange Commission
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Jeffrey%20Yass%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Jeffrey%20Yass%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### SEC Filing Activity
@@ -493,5 +493,5 @@ Simultaneously, Yass funds Club for Growth's primary agenda: **elimination of ca
 - 2009-12-21 — **SC 13D**: SC 13D
 - 2021-07-06 — **SC 13D**: SCHEDULE 13D
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Jeffrey%20Yass%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Jeffrey%20Yass%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->

@@ -13,7 +13,7 @@ profiles:
 
 ## Hegseth lifts ban on service members carrying personal firearms on base
 
-**Source:** [The Hill](https://thehill.com/policy/defense/5814119-defense-secretary-lifts-gun-ban/)
+**Source:** ~~[The Hill](https://thehill.com/policy/defense/5814119-defense-secretary-lifts-gun-ban/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-02
 
 Defense Secretary Pete Hegseth announced Thursday that he was lifting a ban on service members’ ability to carry personal firearms on U.S. military bases. “Our warfighters defend the rights to carry. They should be able to carry themselves,” Hegseth said in a video posted on social platform X. Hegseth said his memo directs installation commanders&#8230;

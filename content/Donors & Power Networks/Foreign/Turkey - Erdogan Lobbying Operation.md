@@ -49,9 +49,9 @@ F-35 program reinstatement (after S-400 removal), opposition to Kurdish politica
 
 ### Sources
 
-- [FARA: Turkey foreign agent registrations](https://efile.fara.gov/ords/fara/f?p=185:1) (Tier 1)
-- [Congress.gov: Armenian Genocide Resolution](https://www.congress.gov/bill/116th-congress/house-resolution/296) (Tier 1)
-- [Ballotpedia: Turkey-US relations](https://ballotpedia.org/Turkey_-_Erdogan_Lobbying_Operation) (Tier 3)
+- ~~[FARA: Turkey foreign agent registrations](https://efile.fara.gov/ords/fara/f?p=185:1)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Congress.gov: Armenian Genocide Resolution](https://www.congress.gov/bill/116th-congress/house-resolution/296) (Tier 1) (VERIFIED)
+- [Ballotpedia: Turkey-US relations](https://ballotpedia.org/Turkey_-_Erdogan_Lobbying_Operation) (Tier 3) (VERIFIED)
 
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->
@@ -69,5 +69,5 @@ F-35 program reinstatement (after S-400 removal), opposition to Kurdish politica
 
 **Agencies contacted:** Agriculture, Dept of (USDA), Commerce, Dept of (DOC), Environmental Protection Agency (EPA), Federal Maritime Commission, Food & Drug Administration (FDA), HOUSE OF REPRESENTATIVES, Labor, Dept of (DOL), SENATE, State, Dept of (DOS), Transportation, Dept of (DOT) +2 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Turkey%20-%20Erdogan%20Lobbying%20Operation) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Turkey%20-%20Erdogan%20Lobbying%20Operation) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->

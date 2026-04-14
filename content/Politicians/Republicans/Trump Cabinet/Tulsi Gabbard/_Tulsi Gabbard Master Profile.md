@@ -160,16 +160,16 @@ Gabbard was raised in the Science of Identity Foundation (SIF), a new religious 
 
 ## Sources
 
-- [FEC Candidate: Gabbard 2020 presidential campaign finance](https://www.fec.gov/data/candidate/H2HI02508/) (Tier 1)
-- [NPR: Gabbard confirmed as DNI (52-48, February 12, 2025)](https://www.npr.org/2025/02/12/nx-s1-5294635/tulsi-gabbard-confirmed-dni-intelligence-senate) (Tier 2)
-- [CBS News: DNI confirmation vote details](https://www.cbsnews.com/news/tulsi-gabbard-confirmation-vote-senate-director-of-national-intelligence/) (Tier 2)
-- [Washington Post: Gabbard Section 702/FISA surveillance reversal](https://www.washingtonpost.com/national-security/2025/01/28/tulsi-gabbard-section-702-fisa-surveillance/) (Tier 2)
-- [Washington Post: Gabbard-Assad meeting](https://www.washingtonpost.com/investigations/2025/01/21/tulsi-gabbard-syria-assad-nomination/) (Tier 2)
-- [NPR: Vice Chair of DNC Tulsi Gabbard resigns to support Bernie Sanders (February 28, 2016)](https://www.npr.org/sections/thetwo-way/2016/02/28/468457319/vice-chair-of-dnc-resigns-to-support-bernie-sanders) (Tier 2)
-- [CNN: Hillary Clinton suggests Russians are 'grooming' Tulsi Gabbard for third-party run (October 2019)](https://www.cnn.com/2019/10/18/politics/hillary-clinton-tulsi-gabbard) (Tier 2)
-- [ABC News: Gabbard's views on Russia shaped in part by Kremlin propaganda outlet, ex-aides say](https://abcnews.com/US/gabbards-views-russia-shaped-part-kremlin-propaganda-outlet/story?id=116430097) (Tier 2)
-- [Honolulu Civil Beat: Senators urged to examine Gabbard's 'deep and intense' ties to Hawaii sect](https://www.civilbeat.org/2024/12/senators-urged-to-examine-gabbards-deep-and-intense-ties-to-hawaii-sect/) (Tier 2)
-- [FEC: Tulsi Gabbard contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=gabbard,+tulsi) (Tier 1)
+- [FEC Candidate: Gabbard 2020 presidential campaign finance](https://www.fec.gov/data/candidate/H2HI02508/) (Tier 1) (VERIFIED)
+- [NPR: Gabbard confirmed as DNI (52-48, February 12, 2025)](https://www.npr.org/2025/02/12/nx-s1-5294635/tulsi-gabbard-confirmed-dni-intelligence-senate) (Tier 2) (VERIFIED)
+- [CBS News: DNI confirmation vote details](https://www.cbsnews.com/news/tulsi-gabbard-confirmation-vote-senate-director-of-national-intelligence/) (Tier 2) (VERIFIED)
+- ~~[Washington Post: Gabbard Section 702/FISA surveillance reversal](https://www.washingtonpost.com/national-security/2025/01/28/tulsi-gabbard-section-702-fisa-surveillance/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Washington Post: Gabbard-Assad meeting](https://www.washingtonpost.com/investigations/2025/01/21/tulsi-gabbard-syria-assad-nomination/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [NPR: Vice Chair of DNC Tulsi Gabbard resigns to support Bernie Sanders (February 28, 2016)](https://www.npr.org/sections/thetwo-way/2016/02/28/468457319/vice-chair-of-dnc-resigns-to-support-bernie-sanders) (Tier 2) (VERIFIED)
+- [CNN: Hillary Clinton suggests Russians are 'grooming' Tulsi Gabbard for third-party run (October 2019)](https://www.cnn.com/2019/10/18/politics/hillary-clinton-tulsi-gabbard) (Tier 2) (VERIFIED)
+- [ABC News: Gabbard's views on Russia shaped in part by Kremlin propaganda outlet, ex-aides say](https://abcnews.com/US/gabbards-views-russia-shaped-part-kremlin-propaganda-outlet/story?id=116430097) (Tier 2) (VERIFIED)
+- [Honolulu Civil Beat: Senators urged to examine Gabbard's 'deep and intense' ties to Hawaii sect](https://www.civilbeat.org/2024/12/senators-urged-to-examine-gabbards-deep-and-intense-ties-to-hawaii-sect/) (Tier 2) (VERIFIED)
+- [FEC: Tulsi Gabbard contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=gabbard,+tulsi) (Tier 1) (VERIFIED)
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->
@@ -192,5 +192,5 @@ Gabbard was raised in the Science of Identity Foundation (SIF), a new religious 
 | 2020-12-18 | H.J.Res. 107: Further Additional Continuing Appropriations Act, 2021 | Yea | Passed |
 | 2020-12-18 | S. 979: Federal Advance Contracts Enhancement Act | Yea | Passed |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412532) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412532) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->

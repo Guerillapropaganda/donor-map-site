@@ -146,12 +146,12 @@ Morgan's format trains audiences to see political engagement as entertainment co
 
 ### Sources
 
-- [Piers Morgan Uncensored - Wikipedia](https://en.wikipedia.org/wiki/Piers_Morgan_Uncensored) (Tier 3) (Chrome verified 2026-03-27)
-- [Piers Morgan Is Pivoting to Digital — Semafor](https://www.semafor.com/article/02/08/2024/piers-morgan-is-pivoting-to-digital) (Tier 2) (Chrome verified 2026-03-27)
-- [Piers Morgan Joins Fox News Six Months After Storming Off British TV — The Daily Beast](https://www.thedailybeast.com/piers-morgan-signs-murdoch-mega-deal-six-months-after-storming-off-british-tv-over-meghan-markle/) (Tier 2) (Chrome verified 2026-03-27)
-- [Piers Morgan Signs Global Deal With Fox News and News Corp — The Hollywood Reporter](https://www.hollywoodreporter.com/tv/tv-news/piers-morgan-fox-news-show-1235015018/) (Tier 2) (Chrome verified 2026-03-27)
-- [Piers Morgan Returns With Uncensored on Rupert Murdoch's TalkTV — Variety](https://variety.com/2022/tv/global/piers-morgan-uncensored-rupert-murdoch-meghan-markle-1235199762/) (Tier 2) (Chrome verified 2026-03-27)
-- [Piers Morgan Exits News Corp, Takes Control Of YouTube Channel — Deadline](https://deadline.com/2025/01/piers-morgan-exits-rupert-murdoch-media-empire-uncensored-youtube-1236251080/) (Tier 2) (Chrome verified 2026-03-27)
-- [Piers Morgan returns to News UK to join TalkTV — Press Gazette](https://pressgazette.co.uk/news/piers-morgan-salary-talktv/) (Tier 2) (Chrome verified 2026-03-27)
-- [TalkTV lost another £50m before Piers Morgan quit — Yahoo Finance](https://finance.yahoo.com/news/talktv-lost-another-50m-piers-130427328.html) (Tier 2) (Chrome verified 2026-03-27)
+- [Piers Morgan Uncensored - Wikipedia](https://en.wikipedia.org/wiki/Piers_Morgan_Uncensored) (Tier 3) (VERIFIED) (Chrome verified 2026-03-27)
+- [Piers Morgan Is Pivoting to Digital — Semafor](https://www.semafor.com/article/02/08/2024/piers-morgan-is-pivoting-to-digital) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
+- [Piers Morgan Joins Fox News Six Months After Storming Off British TV — The Daily Beast](https://www.thedailybeast.com/piers-morgan-signs-murdoch-mega-deal-six-months-after-storming-off-british-tv-over-meghan-markle/) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
+- [Piers Morgan Signs Global Deal With Fox News and News Corp — The Hollywood Reporter](https://www.hollywoodreporter.com/tv/tv-news/piers-morgan-fox-news-show-1235015018/) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
+- [Piers Morgan Returns With Uncensored on Rupert Murdoch's TalkTV — Variety](https://variety.com/2022/tv/global/piers-morgan-uncensored-rupert-murdoch-meghan-markle-1235199762/) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
+- [Piers Morgan Exits News Corp, Takes Control Of YouTube Channel — Deadline](https://deadline.com/2025/01/piers-morgan-exits-rupert-murdoch-media-empire-uncensored-youtube-1236251080/) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
+- [Piers Morgan returns to News UK to join TalkTV — Press Gazette](https://pressgazette.co.uk/news/piers-morgan-salary-talktv/) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
+- [TalkTV lost another £50m before Piers Morgan quit — Yahoo Finance](https://finance.yahoo.com/news/talktv-lost-another-50m-piers-130427328.html) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
 

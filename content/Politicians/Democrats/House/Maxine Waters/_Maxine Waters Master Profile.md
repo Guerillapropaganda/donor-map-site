@@ -157,15 +157,15 @@ Her rhetoric consistently frames regulation as protection — protecting consume
 
 ## Sources
 
-- [FEC Candidate: Maxine Waters donor profile](https://www.fec.gov/data/candidate/H4CA23011/) (Tier 1)
-- [FEC: Maxine Waters candidate profile](https://www.fec.gov/data/candidate/H4CA23011/) (Tier 1)
-- [House Ethics Committee Report 112-690: Waters investigation](https://www.congress.gov/committee-report/112th-congress/house-report/690/1) (Tier 1)
-- [ProPublica: Read the Ethics Findings for Rep. Maxine Waters](https://www.propublica.org/article/read-the-ethics-findings-for-rep-maxine-waters) (Tier 2)
-- [NPR: Waters Cleared by House Ethics Committee](https://www.npr.org/sections/thetwo-way/2012/09/21/161538755/rep-maxine-waters-cleared-by-house-ethics-committee) (Tier 2)
-- [Common Dreams: House Finance Chair Waters wins praise for prioritizing public policy over Wall Street cash](https://www.commondreams.org/news/2019/08/09/house-finance-chair-maxine-waters-wins-praise-prioritizing-public-policy-over) (Tier 2)
-- [NBC News: OneUnited was weakest bank to get TARP help](https://www.nbcnews.com/id/wbna38575419) (Tier 2)
-- [The Hill: Bank at center of Waters controversy got $12M bailout](https://thehill.com/homenews/house/119099-bank-at-center-of-waters-controversy-got-12m-bailout/) (Tier 2)
-- [VoteSmart: Maxine Waters key votes](https://justfacts.votesmart.org/candidate/key-votes/26759/maxine-waters) (Tier 2)
+- [FEC Candidate: Maxine Waters donor profile](https://www.fec.gov/data/candidate/H4CA23011/) (Tier 1) (VERIFIED)
+- [FEC: Maxine Waters candidate profile](https://www.fec.gov/data/candidate/H4CA23011/) (Tier 1) (VERIFIED)
+- ~~[House Ethics Committee Report 112-690: Waters investigation](https://www.congress.gov/committee-report/112th-congress/house-report/690/1)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [ProPublica: Read the Ethics Findings for Rep. Maxine Waters](https://www.propublica.org/article/read-the-ethics-findings-for-rep-maxine-waters) (Tier 2) (VERIFIED)
+- [NPR: Waters Cleared by House Ethics Committee](https://www.npr.org/sections/thetwo-way/2012/09/21/161538755/rep-maxine-waters-cleared-by-house-ethics-committee) (Tier 2) (VERIFIED)
+- [Common Dreams: House Finance Chair Waters wins praise for prioritizing public policy over Wall Street cash](https://www.commondreams.org/news/2019/08/09/house-finance-chair-maxine-waters-wins-praise-prioritizing-public-policy-over) (Tier 2) (VERIFIED)
+- [NBC News: OneUnited was weakest bank to get TARP help](https://www.nbcnews.com/id/wbna38575419) (Tier 2) (VERIFIED)
+- ~~[The Hill: Bank at center of Waters controversy got $12M bailout](https://thehill.com/homenews/house/119099-bank-at-center-of-waters-controversy-got-12m-bailout/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [VoteSmart: Maxine Waters key votes](https://justfacts.votesmart.org/candidate/key-votes/26759/maxine-waters) (Tier 2) (VERIFIED)
 
 ### Legislative Activity (Congress.gov)
 
@@ -198,7 +198,7 @@ Her rhetoric consistently frames regulation as protection — protecting consume
 | 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Nay | Passed |
 | 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Nay | Passed |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400422) (Tier 1)
+- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/400422)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:govtrack end -->
 
 ## Committee Assignments (Congress.gov)
@@ -225,7 +225,7 @@ Her rhetoric consistently frames regulation as protection — protecting consume
 
 **Sources**
 
-- [GovTrack: Maxine Waters](https://www.govtrack.us/congress/members/400422) (Tier 1)
+- ~~[GovTrack: Maxine Waters](https://www.govtrack.us/congress/members/400422)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-13 -->
@@ -252,7 +252,7 @@ Her rhetoric consistently frames regulation as protection — protecting consume
 
 **Sources**
 
-- [Congress.gov: Maxine Waters](https://www.congress.gov/member/e000179) (Tier 1)
+- ~~[Congress.gov: Maxine Waters](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [GovTrack: Maxine Waters](https://www.govtrack.us/congress/members/400422) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->
@@ -292,5 +292,5 @@ Her rhetoric consistently frames regulation as protection — protecting consume
 | LOS ANGELES COUNTY DEMOCRATIC CENTRAL COMMITTEE | $62,562 | $0 |
 | ELBERT GUILLORY'S AMERICA | $9,724 | $8,292 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4CA23011/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4CA23011/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->

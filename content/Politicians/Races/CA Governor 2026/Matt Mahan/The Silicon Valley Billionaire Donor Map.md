@@ -105,8 +105,8 @@ During Mahan's San Jose mayoral race, a $1.5 million independent committee purch
 
 ### Sources
 
-- [ABC7 San Francisco: California Governor's Race - Matt Mahan's campaign largely backed by Silicon Valley tech moguls](https://abc7news.com/post/california-governors-race-matt-mahans-campaign-largely-backed-silicon-valley-tech-moguls-billionaires-report-says/18592083/) (Tier 2)
-- [San José Spotlight: Billionaire techies back Matt Mahan's California governor campaign](https://sanjosespotlight.com/billionaire-techies-back-matt-mahans-california-governor-campaign/) (Tier 2)
-- [Mercury News: Who's funding Mayor Mahan's gubernatorial campaign?](https://www.mercurynews.com/2026/02/11/whos-funding-mayor-mahans-gubernatorial-campaign-new-filings-point-to-tech-titans-and-billionaires/) (Tier 2)
-- [Washington Examiner: Billionaires pick their favorite in California's packed governor's race](https://www.washingtonexaminer.com/news/campaigns/4497868/billionaires-pick-favorite-california-governor-race/) (Tier 2)
-- [San Jose Inside: Silicon Valley Execs and Venture Capitalists Jump on Matt Mahan's Early Bandwagon](https://www.sanjoseinside.com/news/silicon-valley-execs-and-venture-capitalists-jump-on-matt-mahans-early-bandwagon/) (Tier 2)
+- [ABC7 San Francisco: California Governor's Race - Matt Mahan's campaign largely backed by Silicon Valley tech moguls](https://abc7news.com/post/california-governors-race-matt-mahans-campaign-largely-backed-silicon-valley-tech-moguls-billionaires-report-says/18592083/) (Tier 2) (VERIFIED)
+- [San José Spotlight: Billionaire techies back Matt Mahan's California governor campaign](https://sanjosespotlight.com/billionaire-techies-back-matt-mahans-california-governor-campaign/) (Tier 2) (VERIFIED)
+- [Mercury News: Who's funding Mayor Mahan's gubernatorial campaign?](https://www.mercurynews.com/2026/02/11/whos-funding-mayor-mahans-gubernatorial-campaign-new-filings-point-to-tech-titans-and-billionaires/) (Tier 2) (VERIFIED)
+- [Washington Examiner: Billionaires pick their favorite in California's packed governor's race](https://www.washingtonexaminer.com/news/campaigns/4497868/billionaires-pick-favorite-california-governor-race/) (Tier 2) (VERIFIED)
+- [San Jose Inside: Silicon Valley Execs and Venture Capitalists Jump on Matt Mahan's Early Bandwagon](https://www.sanjoseinside.com/news/silicon-valley-execs-and-venture-capitalists-jump-on-matt-mahans-early-bandwagon/) (Tier 2) (VERIFIED)

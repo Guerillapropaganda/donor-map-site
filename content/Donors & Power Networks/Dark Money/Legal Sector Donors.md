@@ -35,8 +35,8 @@ The legal sector's political power extends beyond contributions: lawyers are the
 
 ### Sources
 
-- [FEC Receipts: Lawyers & law firm contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- [Ballotpedia: Legal profession political spending](https://ballotpedia.org/Legal_Sector_Donors) (Tier 3)
+- [FEC Receipts: Lawyers & law firm contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
+- [Ballotpedia: Legal profession political spending](https://ballotpedia.org/Legal_Sector_Donors) (Tier 3) (VERIFIED)
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
@@ -57,7 +57,7 @@ The legal sector's political power extends beyond contributions: lawyers are the
 
 **Agencies contacted:** Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Defense, Dept of (DOD), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Interior, Dept of (DOI), Internal Revenue Service (IRS), Justice, Dept of (DOJ), Labor, Dept of (DOL), SENATE +4 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Legal%20Sector%20Donors) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Legal%20Sector%20Donors) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

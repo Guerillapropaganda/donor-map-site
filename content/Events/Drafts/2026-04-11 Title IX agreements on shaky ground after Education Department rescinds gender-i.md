@@ -14,7 +14,7 @@ profiles:
 
 ## Title IX agreements on shaky ground after Education Department rescinds gender-identity deals
 
-**Source:** [The Hill](https://thehill.com/homenews/education/5824262-title-ix-agreements-trump-gender-identity/)
+**Source:** ~~[The Hill](https://thehill.com/homenews/education/5824262-title-ix-agreements-trump-gender-identity/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-11
 
 The Education Department took an unprecedented step this week to nullify Title IX agreements previous administrations had made with school districts over gender identity, laying the groundwork for an environment that turns such settlements into political ping-pong. The department rescinded six agreements made during the Obama and Biden administrations that required districts to implement policies such as gender discrimination…

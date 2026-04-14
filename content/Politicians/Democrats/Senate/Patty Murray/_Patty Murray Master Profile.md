@@ -155,13 +155,13 @@ The pharmaceutical dimension completes the picture. Murray chaired the HELP Comm
 
 ## Sources
 
-- [FEC Candidate: Sen. Patty Murray campaign finance summary](https://www.fec.gov/data/candidate/S2WA00189/) (Tier 1)
-- [FEC Candidate: Sen. Patty Murray elections 2024](https://www.fec.gov/data/candidate/S2WA00189/) (Tier 1)
-- [Seattle Times: Lobbyists are Sen. Murray's biggest donors](https://www.seattletimes.com/seattle-times/lobbyists-are-sen-murrays-biggest-donors/) (Tier 2)
-- [Senator Murray: Statement on Air Force Extending KC-46A Tanker Contract](https://www.murray.senate.gov/senator-murray-statement-on-air-force-extending-kc-46a-tanker-contract-award-to-acquire-up-to-75-additional-aircraft-produced-in-everett-wa/) (Tier 1)
-- [Defense News: Air Force awards Boeing $2.4 billion contract for KC-46 tankers](https://www.defensenews.com/air/2024/11/25/air-force-awards-boeing-2-4-billion-contract-for-kc-46-tankers/) (Tier 2)
-- [Senator Murray: At Hearing with Big Pharma CEOs on drug affordability](https://www.murray.senate.gov/at-hearing-with-big-pharma-ceos-senator-murray-makes-clear-lifesaving-drugs-dont-do-anyone-any-good-if-people-cant-afford-them/) (Tier 1)
-- [GovTrack: Patty Murray voting record and key votes](https://www.govtrack.us/congress/members/patty_murray/300076) (Tier 1)
+- [FEC Candidate: Sen. Patty Murray campaign finance summary](https://www.fec.gov/data/candidate/S2WA00189/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Sen. Patty Murray elections 2024](https://www.fec.gov/data/candidate/S2WA00189/) (Tier 1) (VERIFIED)
+- ~~[Seattle Times: Lobbyists are Sen. Murray's biggest donors](https://www.seattletimes.com/seattle-times/lobbyists-are-sen-murrays-biggest-donors/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Senator Murray: Statement on Air Force Extending KC-46A Tanker Contract](https://www.murray.senate.gov/senator-murray-statement-on-air-force-extending-kc-46a-tanker-contract-award-to-acquire-up-to-75-additional-aircraft-produced-in-everett-wa/) (Tier 1) (VERIFIED)
+- ~~[Defense News: Air Force awards Boeing $2.4 billion contract for KC-46 tankers](https://www.defensenews.com/air/2024/11/25/air-force-awards-boeing-2-4-billion-contract-for-kc-46-tankers/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Senator Murray: At Hearing with Big Pharma CEOs on drug affordability](https://www.murray.senate.gov/at-hearing-with-big-pharma-ceos-senator-murray-makes-clear-lifesaving-drugs-dont-do-anyone-any-good-if-people-cant-afford-them/) (Tier 1) (VERIFIED)
+- [GovTrack: Patty Murray voting record and key votes](https://www.govtrack.us/congress/members/patty_murray/300076) (Tier 1) (VERIFIED)
 
 ### Legislative Activity (Congress.gov)
 <!-- auto:congress-legislation start -->
@@ -189,7 +189,7 @@ The pharmaceutical dimension completes the picture. Murray chaired the HELP Comm
 | 4081 | Fair Wages for Home Care Workers Act | Read twice and referred to the Committee on Health, Education, Labor, and Pensions. |
 | — |  | — |
 
-- [Source: Congress.gov](https://www.congress.gov/member/M001111) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/M001111)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ## Influence Network (Cross-Reference)
@@ -269,7 +269,7 @@ The pharmaceutical dimension completes the picture. Murray chaired the HELP Comm
 | 06/15/2017 | VTR | Sale | $1,001 - $15,000 | Spouse |
 | 06/15/2017 | UTX | Sale | $1,001 - $15,000 | Spouse |
 
-- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
 ### Campaign Finance (FEC)
@@ -304,5 +304,5 @@ The pharmaceutical dimension completes the picture. Murray chaired the HELP Comm
 | WOMEN VOTE! | $4,344,848 | $0 |
 | ESAFUND | $0 | $1,954,200 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S2WA00189/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S2WA00189/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->

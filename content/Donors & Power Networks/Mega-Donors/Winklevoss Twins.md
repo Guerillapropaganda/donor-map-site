@@ -56,9 +56,9 @@ Crypto-friendly regulation (regulatory clarity without restrictive oversight), o
 
 ### Sources
 
-- [OpenSecrets: Winklevoss political contributions](https://www.opensecrets.org/donor-lookup/results?name=winklevoss) (Tier 1)
-- [SEC: Gemini enforcement action](https://www.sec.gov/cgi-bin/browse-edgar?company=Winklevoss%20Twins&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)
-- [Ballotpedia: Cryptocurrency policy](https://ballotpedia.org/Winklevoss_Twins) (Tier 3)
+- [OpenSecrets: Winklevoss political contributions](https://www.opensecrets.org/donor-lookup/results?name=winklevoss) (Tier 1) (VERIFIED)
+- [SEC: Gemini enforcement action](https://www.sec.gov/cgi-bin/browse-edgar?company=Winklevoss%20Twins&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1) (VERIFIED)
+- [Ballotpedia: Cryptocurrency policy](https://ballotpedia.org/Winklevoss_Twins) (Tier 3) (VERIFIED)
 
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->
@@ -76,5 +76,5 @@ Crypto-friendly regulation (regulatory clarity without restrictive oversight), o
 - The New York Times Company v. Microsoft Corporation (2023) — District Court, S.D. New York
 - Kadrey v. Meta Platforms, Inc. (2023) — District Court, N.D. California
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Winklevoss%20Twins%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Winklevoss%20Twins%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->

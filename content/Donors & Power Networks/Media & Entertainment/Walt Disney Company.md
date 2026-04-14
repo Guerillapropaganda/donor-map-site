@@ -56,7 +56,7 @@ The Walt Disney Company. One of the world's largest media and entertainment cong
 
 Disney's political operation was historically bipartisan and focused on copyright extension, favorable theme park regulation, and media ownership rules. The company's public conflict with Florida Governor Ron DeSantis (2022-2024) over the "Don't Say Gay" bill transformed Disney from a quiet corporate donor into a partisan symbol — with DeSantis retaliating by revoking Disney's self-governing Reedy Creek district.
 
-- [OpenSecrets: Walt Disney Company organizational profile](https://www.opensecrets.org/orgs/walt-disney-co/summary?id=D000000128) (Tier 1)
+- [OpenSecrets: Walt Disney Company organizational profile](https://www.opensecrets.org/orgs/walt-disney-co/summary?id=D000000128) (Tier 1) (VERIFIED)
 
 ---
 
@@ -80,10 +80,10 @@ Copyright term extension (Disney has lobbied for every major copyright extension
 ### Sources
 
 - [OpenSecrets: Walt Disney Company organizational profile](https://www.opensecrets.org/orgs/walt-disney-co/summary?id=D000000128) (Tier 1)
-- [OpenSecrets: Disney lobbying expenditures](https://www.opensecrets.org/orgs/walt-disney-co/lobbying?id=D000000128) (Tier 1)
-- [Copyright Office: Sonny Bono Copyright Term Extension Act](https://www.copyright.gov/legislation/s505.pdf) (Tier 1)
-- [Washington Post: Disney sues DeSantis over political retaliation](https://www.washingtonpost.com/business/2023/04/26/desantis-disney-lawsuit/) (Tier 2)
-- [Ballotpedia: Walt Disney Company political spending](https://ballotpedia.org/The_Walt_Disney_Company) (Tier 3)
+- [OpenSecrets: Disney lobbying expenditures](https://www.opensecrets.org/orgs/walt-disney-co/lobbying?id=D000000128) (Tier 1) (VERIFIED)
+- [Copyright Office: Sonny Bono Copyright Term Extension Act](https://www.copyright.gov/legislation/s505.pdf) (Tier 1) (VERIFIED)
+- [Washington Post: Disney sues DeSantis over political retaliation](https://www.washingtonpost.com/business/2023/04/26/desantis-disney-lawsuit/) (Tier 2) (VERIFIED)
+- [Ballotpedia: Walt Disney Company political spending](https://ballotpedia.org/The_Walt_Disney_Company) (Tier 3) (VERIFIED)
 
 ---
 
@@ -103,7 +103,7 @@ Copyright term extension (Disney has lobbied for every major copyright extension
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [549300GZKULIZ0WOW665](https://search.gleif.org/#/record/549300GZKULIZ0WOW665) |
+| LEI | [549300GZKULIZ0WOW665](https://search.gleif.org/#/record/549300GZKULIZ0WOW665) (VERIFIED) |
 | Legal Name | THE WALT DISNEY COMPANY |
 | Jurisdiction | US-DE |
 | Entity Status | ACTIVE |
@@ -111,7 +111,7 @@ Copyright term extension (Disney has lobbied for every major copyright extension
 | Registration | ISSUED |
 | Last Updated | 2026-02-20T09:04:38Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### SEC Filing Activity
@@ -125,13 +125,13 @@ Copyright term extension (Disney has lobbied for every major copyright extension
 
 **Notable filings:**
 
-- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1744489/000162828026023335/0001628280-26-023335-index.htm)
-- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1744489/000162828026023334/0001628280-26-023334-index.htm)
-- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1744489/000162828026023333/0001628280-26-023333-index.htm)
-- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1744489/000162828026023332/0001628280-26-023332-index.htm)
-- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1744489/000162828026023331/0001628280-26-023331-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1744489/000162828026023335/0001628280-26-023335-index.htm) (VERIFIED)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1744489/000162828026023334/0001628280-26-023334-index.htm) (VERIFIED)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1744489/000162828026023333/0001628280-26-023333-index.htm) (VERIFIED)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1744489/000162828026023332/0001628280-26-023332-index.htm) (VERIFIED)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1744489/000162828026023331/0001628280-26-023331-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Walt%20Disney%20Company%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Walt%20Disney%20Company%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:sec-edgar end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -143,5 +143,5 @@ Copyright term extension (Disney has lobbied for every major copyright extension
 | Total Expenses | $2.3M |
 | Net Assets | $681K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 956037079](https://projects.propublica.org/nonprofits/organizations/956037079) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 956037079](https://projects.propublica.org/nonprofits/organizations/956037079) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->

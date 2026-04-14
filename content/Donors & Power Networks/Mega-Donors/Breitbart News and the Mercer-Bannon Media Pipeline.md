@@ -84,8 +84,8 @@ The Bannon relationship became a liability. The Mercers adapted — shifting fro
 
 ### Sources
 
-- [NPR: Inside the wealthy family funding Bannon's plan](https://www.npr.org/2017/03/22/521083950/inside-the-wealthy-family-that-has-been-funding-steve-bannon-s-plan-for-years) (Tier 2)
-- [NPR: Robert Mercer and conservative politics](https://www.npr.org/2017/05/26/530181660/robert-mercer-is-a-force-to-be-reckoned-with-in-finance-and-conservative-politic) (Tier 2)
-- [Washington Post: The Mercers and Stephen Bannon](https://www.washingtonpost.com/graphics/politics/mercer-bannon/) (Tier 2)
-- [CNBC: Wealthy Mercer family scaled back giving to conservative causes](https://www.cnbc.com/2020/11/24/mercer-family-dramatically-scaled-back-giving-to-conservative-causes-heading-into-2020.html) (Tier 2)
+- [NPR: Inside the wealthy family funding Bannon's plan](https://www.npr.org/2017/03/22/521083950/inside-the-wealthy-family-that-has-been-funding-steve-bannon-s-plan-for-years) (Tier 2) (VERIFIED)
+- [NPR: Robert Mercer and conservative politics](https://www.npr.org/2017/05/26/530181660/robert-mercer-is-a-force-to-be-reckoned-with-in-finance-and-conservative-politic) (Tier 2) (VERIFIED)
+- [Washington Post: The Mercers and Stephen Bannon](https://www.washingtonpost.com/graphics/politics/mercer-bannon/) (Tier 2) (VERIFIED)
+- [CNBC: Wealthy Mercer family scaled back giving to conservative causes](https://www.cnbc.com/2020/11/24/mercer-family-dramatically-scaled-back-giving-to-conservative-causes-heading-into-2020.html) (Tier 2) (VERIFIED)
 

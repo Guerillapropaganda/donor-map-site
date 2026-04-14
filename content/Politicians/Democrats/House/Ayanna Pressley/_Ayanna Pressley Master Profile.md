@@ -195,15 +195,15 @@ Pressley's real power base is Labor ($278,750 career PAC) and Ideological donors
 ## Sources
 
 ### Verified
-- [Congress.gov: Ayanna Pressley member profile](https://www.congress.gov/member/ayanna-pressley/P000617) (Tier 1)
-- [FEC Candidate: Ayanna Pressley campaign finance summary](https://www.fec.gov/data/candidate/H8MA07032/) (Tier 1)
-- [Congress.gov: H.Res.702 — Criminal justice reform resolution (116th Congress)](https://www.congress.gov/bill/116th-congress/house-resolution/702/all-info) (Tier 1)
-- [Congress.gov: H.R.3412 — Ending Administrative Garnishment Act of 2025](https://www.congress.gov/bill/119th-congress/house-bill/3412) (Tier 1)
-- [Pressley House.gov: Student debt cancellation floor speech](https://pressley.house.gov/2022/09/21/video-pressley-heralds-student-debt-cancellation-in-powerful-floor-speech/) (Tier 1)
-- [Pressley House.gov: Pressley, Booker, Warren reintroduce garnishment suspension bill](https://pressley.house.gov/2025/05/14/pressley-booker-warren-reintroduce-bill-to-suspend-garnishments-for-student-loan-borrowers/) (Tier 1)
-- [The Hill: Pressley criminal justice reform resolution](https://thehill.com/homenews/house/470791-ayanna-pressley-introduces-sweeping-criminal-justice-reform-resolution/) (Tier 2)
-- [The Intercept: Small Policy Differences Versus Identity in Massachusetts Primary](https://theintercept.com/2018/08/18/mike-capuano-ayanna-pressley-massachusetts-primary/) (Tier 2)
-- [Ballotpedia: Ayanna Pressley](https://ballotpedia.org/Ayanna_Pressley) (Tier 3)
+- ~~[Congress.gov: Ayanna Pressley member profile](https://www.congress.gov/member/ayanna-pressley/P000617)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [FEC Candidate: Ayanna Pressley campaign finance summary](https://www.fec.gov/data/candidate/H8MA07032/) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: H.Res.702 — Criminal justice reform resolution (116th Congress)](https://www.congress.gov/bill/116th-congress/house-resolution/702/all-info)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: H.R.3412 — Ending Administrative Garnishment Act of 2025](https://www.congress.gov/bill/119th-congress/house-bill/3412)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Pressley House.gov: Student debt cancellation floor speech](https://pressley.house.gov/2022/09/21/video-pressley-heralds-student-debt-cancellation-in-powerful-floor-speech/) (Tier 1) (VERIFIED)
+- [Pressley House.gov: Pressley, Booker, Warren reintroduce garnishment suspension bill](https://pressley.house.gov/2025/05/14/pressley-booker-warren-reintroduce-bill-to-suspend-garnishments-for-student-loan-borrowers/) (Tier 1) (VERIFIED)
+- ~~[The Hill: Pressley criminal justice reform resolution](https://thehill.com/homenews/house/470791-ayanna-pressley-introduces-sweeping-criminal-justice-reform-resolution/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [The Intercept: Small Policy Differences Versus Identity in Massachusetts Primary](https://theintercept.com/2018/08/18/mike-capuano-ayanna-pressley-massachusetts-primary/) (Tier 2) (VERIFIED)
+- [Ballotpedia: Ayanna Pressley](https://ballotpedia.org/Ayanna_Pressley) (Tier 3) (VERIFIED)
 
 ### Archived
 - ~~[OpenSecrets: Ayanna Pressley career industries breakdown](https://www.opensecrets.org/members-of-congress/industries?cid=N00042581&cycle=CAREER)~~ (was Tier 1, OpenSecrets demoted per Vault Rules 2026-04-09 — industry breakdown data referenced in Donation-to-Policy Timeline body; needs FEC committee-page cross-check)
@@ -224,7 +224,7 @@ Pressley's real power base is Labor ($278,750 career PAC) and Ideological donors
 - H.R. 7804: BLS Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 4, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 - H.Res. 1088: Recognizing and celebrating the significance of Black history museums and cultural institutions. — *This resolution is in the first stage of the legislative process. It was introduced into Congress on February 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412782) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412782) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
 
 <!-- auto:govtrack pending-merge 2026-04-11 -->
@@ -284,7 +284,7 @@ Pressley's real power base is Labor ($278,750 career PAC) and Ideological donors
 
 **Sources**
 
-- [GovTrack: Ayanna Pressley](https://www.govtrack.us/congress/members/412782) (Tier 1)
+- [GovTrack: Ayanna Pressley](https://www.govtrack.us/congress/members/412782) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-13 -->
@@ -311,7 +311,7 @@ Pressley's real power base is Labor ($278,750 career PAC) and Ideological donors
 
 **Sources**
 
-- [Congress.gov: Ayanna Pressley](https://www.congress.gov/member/e000179) (Tier 1)
+- ~~[Congress.gov: Ayanna Pressley](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [GovTrack: Ayanna Pressley](https://www.govtrack.us/congress/members/412782) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->
@@ -340,7 +340,7 @@ Pressley's real power base is Labor ($278,750 career PAC) and Ideological donors
 | 2020 | $2,190,613 | $1,775,676 | 501037.26 |
 | 2018 | $1,491,070 | $1,404,970 | 86099.78 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8MA07032/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8MA07032/) (Tier 1) (VERIFIED)
 <!-- auto:fec-summary end -->
 
 ### Committee Assignments (Congress.gov)
@@ -356,7 +356,7 @@ Pressley's real power base is Labor ($278,750 career PAC) and Ideological donors
 - Federal Law Enforcement
 - Housing and Insurance
 
-- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 ### Legislative Activity (Congress.gov)
@@ -385,7 +385,7 @@ Pressley's real power base is Labor ($278,750 career PAC) and Ideological donors
 | 7583 | BE HEARD in the Workplace Act | Referred to the Committee on Education and Workforce, and in addition to the Committees on the Judiciary, House Administration, Oversight and Government Reform, and Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
 | 7513 | GSIB Act of 2026 | Referred to the House Committee on Financial Services. |
 
-- [Source: Congress.gov](https://www.congress.gov/member/P000617) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/P000617)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Campaign Finance (FEC)
@@ -429,13 +429,13 @@ Ayanna Soyini Pressley is an American politician who has served as the U.S. repr
 
 | Fact | Value |
 |------|-------|
-| Wikidata ID | [Q13562359](https://www.wikidata.org/wiki/Q13562359) |
+| Wikidata ID | [Q13562359](https://www.wikidata.org/wiki/Q13562359) (VERIFIED) |
 | Description | U.S. Representative from Massachusetts |
 | Born | 1974-02-03 |
-| Website | [https://ayannapressley.com/](https://ayannapressley.com/) |
-| X/Twitter | [@AyannaPressley](https://x.com/AyannaPressley) |
-| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Ayanna_Pressley_117_cropped.jpg?width=300) |
+| Website | [https://ayannapressley.com/](https://ayannapressley.com/) (VERIFIED) |
+| X/Twitter | [@AyannaPressley](https://x.com/AyannaPressley) (VERIFIED) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Ayanna_Pressley_117_cropped.jpg?width=300) (NEEDS REVIEW) |
 
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/Ayanna_Pressley) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q13562359) (Tier 2)
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Ayanna_Pressley) (Tier 3) (VERIFIED)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q13562359) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->

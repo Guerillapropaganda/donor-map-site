@@ -120,29 +120,29 @@ The class function is straightforward: Bondi converts prosecutorial authority in
 
 ## Sources
 
-- [Senate Judiciary Committee: Bondi lobbying conflicts](https://www.judiciary.senate.gov/press/dem/releases/pam-bondis-extensive-lobbying-for-wealthy-special-interests-and-foreign-government-poses-serious-conflict-of-interest) (Tier 1)
-- [CREW: Trump Foundation Pam Bondi scandal](https://www.citizensforethics.org/reports-investigations/crew-investigations/the-trump-foundation-pam-bondi-scandal/) (Tier 2)
-- [CNN: Bondi sought donation before nixing Trump University case](https://www.cnn.com/2016/06/10/politics/pam-bondi-donald-trump-donation) (Tier 2)
-- [PolitiFact: Trump, Bondi, and $25K donation](https://www.politifact.com/article/2016/sep/21/donald-trump-pam-bondi-and-25k-was-it-pay-play/) (Tier 2)
-- [American Prospect: Bondi protected foreclosure fraudsters](https://prospect.org/2024/11/22/2024-11-22-when-pam-bondi-protected-foreclosure-fraudsters/) (Tier 2)
-- [Read Sludge: Bondi lobbied for Amazon, Uber, Qatar](https://readsludge.com/2024/11/22/pam-bondi-trumps-attorney-general-pick-lobbied-for-amazon-uber-and-qatar/) (Tier 2)
-- [NPR: Senate confirms Bondi as AG](https://www.npr.org/2025/02/04/nx-s1-5287011/pam-bondi-attorney-general-confirmation) (Tier 2)
-- [FEC: Pam Bondi contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=bondi,+pam) (Tier 1)
-- [OpenSecrets: Pam Bondi campaign finance](https://www.opensecrets.org/revolving-door/bondi-pam/summary?id=82269) (Tier 1)
+- [Senate Judiciary Committee: Bondi lobbying conflicts](https://www.judiciary.senate.gov/press/dem/releases/pam-bondis-extensive-lobbying-for-wealthy-special-interests-and-foreign-government-poses-serious-conflict-of-interest) (Tier 1) (VERIFIED)
+- [CREW: Trump Foundation Pam Bondi scandal](https://www.citizensforethics.org/reports-investigations/crew-investigations/the-trump-foundation-pam-bondi-scandal/) (Tier 2) (VERIFIED)
+- [CNN: Bondi sought donation before nixing Trump University case](https://www.cnn.com/2016/06/10/politics/pam-bondi-donald-trump-donation) (Tier 2) (VERIFIED)
+- [PolitiFact: Trump, Bondi, and $25K donation](https://www.politifact.com/article/2016/sep/21/donald-trump-pam-bondi-and-25k-was-it-pay-play/) (Tier 2) (VERIFIED)
+- [American Prospect: Bondi protected foreclosure fraudsters](https://prospect.org/2024/11/22/2024-11-22-when-pam-bondi-protected-foreclosure-fraudsters/) (Tier 2) (VERIFIED)
+- [Read Sludge: Bondi lobbied for Amazon, Uber, Qatar](https://readsludge.com/2024/11/22/pam-bondi-trumps-attorney-general-pick-lobbied-for-amazon-uber-and-qatar/) (Tier 2) (VERIFIED)
+- [NPR: Senate confirms Bondi as AG](https://www.npr.org/2025/02/04/nx-s1-5287011/pam-bondi-attorney-general-confirmation) (Tier 2) (VERIFIED)
+- [FEC: Pam Bondi contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=bondi,+pam) (Tier 1) (VERIFIED)
+- [OpenSecrets: Pam Bondi campaign finance](https://www.opensecrets.org/revolving-door/bondi-pam/summary?id=82269) (Tier 1) (VERIFIED)
 
 ---
 
 ### Recent Developments
 
 **March 2026 — Epstein Files Subpoena:** The House Oversight Committee subpoenaed Bondi for an **April 14 deposition** on the DOJ's compliance with the Epstein Files Transparency Act — the law Trump himself signed. The subpoena passed 24-19, with five Republicans joining Democrats. The DOJ called it "unnecessary." Bondi had previously clashed with the committee at a February hearing, refusing to commit to full disclosure.
-- [CNBC: House panel subpoenas AG Pam Bondi for April 14 deposition in Epstein probe](https://www.cnbc.com/2026/03/17/epstein-pam-bondi-trump-doj-subpoena.html) (Tier 2)
-- [CNN: House Oversight chair subpoenas Attorney General Pam Bondi for deposition in Epstein probe](https://www.cnn.com/2026/03/17/politics/pam-bondi-subpoena-house-comer-epstein) (Tier 2)
+- [CNBC: House panel subpoenas AG Pam Bondi for April 14 deposition in Epstein probe](https://www.cnbc.com/2026/03/17/epstein-pam-bondi-trump-doj-subpoena.html) (Tier 2) (VERIFIED)
+- [CNN: House Oversight chair subpoenas Attorney General Pam Bondi for deposition in Epstein probe](https://www.cnn.com/2026/03/17/politics/pam-bondi-subpoena-house-comer-epstein) (Tier 2) (VERIFIED)
 
 **March 2026 — Ethics Capture Proposal:** Bondi proposed a rule allowing the DOJ to take over state bar investigations of its own lawyers' ethics violations and freeze those probes during the DOJ's "independent review." In practice: a mechanism for Bondi to quash state bar discipline of DOJ attorneys who lie to courts — protecting the political infrastructure's legal operatives from outside accountability.
-- [Slate: Pam Bondi's ludicrous new scheme to protect lying DOJ lawyers](https://slate.com/news-and-politics/2026/03/pam-bondi-lying-doj-supreme-court-florida.html) (Tier 2)
+- [Slate: Pam Bondi's ludicrous new scheme to protect lying DOJ lawyers](https://slate.com/news-and-politics/2026/03/pam-bondi-lying-doj-supreme-court-florida.html) (Tier 2) (VERIFIED)
 
 **March 2026 — NJ US Attorney Appointment Ruled Illegal:** A federal judge ruled Bondi violated federal law when she replaced the interim NJ US attorney with a "triumvirate" of attorneys — calling it an illegal attempt to circumvent the constitutional appointment process. Ongoing pattern of Bondi treating the DOJ's structural rules as obstacles to executive control.
-- [Democracy Docket: Judge disqualifies 'triumvirate' leading NJ US attorney's office](https://www.democracydocket.com/news-alerts/judge-disqualifies-new-jersey-us-attorneys-office-trio/) (Tier 2)
+- [Democracy Docket: Judge disqualifies 'triumvirate' leading NJ US attorney's office](https://www.democracydocket.com/news-alerts/judge-disqualifies-new-jersey-us-attorneys-office-trio/) (Tier 2) (VERIFIED)
 
 ### Voting Record
 

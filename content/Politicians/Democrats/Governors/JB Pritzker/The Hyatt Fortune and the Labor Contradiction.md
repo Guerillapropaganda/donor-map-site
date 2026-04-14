@@ -50,5 +50,5 @@ donors: [[SEIU - Service Employees International Union|SEIU]], UNITE HERE - Hote
 
 ### Sources
 
-- [In These Times: Hyatt workers stage national actions against Pritzkers](https://inthesetimes.com/article/hyatt-workers-stage-national-actions-against-billionaire-pritzkers) (Tier 2)
-- [UNITE HERE: Fired Boston housekeeper appeals to Pritzker](https://unitehere.org/press-releases/fired-boston-housekeeper-appeals-to-penny-pritzker/) (Tier 2)
+- [In These Times: Hyatt workers stage national actions against Pritzkers](https://inthesetimes.com/article/hyatt-workers-stage-national-actions-against-billionaire-pritzkers) (Tier 2) (VERIFIED)
+- [UNITE HERE: Fired Boston housekeeper appeals to Pritzker](https://unitehere.org/press-releases/fired-boston-housekeeper-appeals-to-penny-pritzker/) (Tier 2) (VERIFIED)

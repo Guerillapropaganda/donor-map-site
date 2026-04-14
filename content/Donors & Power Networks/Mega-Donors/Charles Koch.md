@@ -56,8 +56,8 @@ Reduced government regulation (across every sector), lower taxes (particularly c
 
 ### Sources
 
-- [OpenSecrets: Koch Industries political spending](https://www.opensecrets.org/orgs/koch-industries/summary?id=D000000186) (Tier 1)
-- [Ballotpedia: Charles Koch](https://ballotpedia.org/Charles_Koch) (Tier 3)
+- ~~[OpenSecrets: Koch Industries political spending](https://www.opensecrets.org/orgs/koch-industries/summary?id=D000000186)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Ballotpedia: Charles Koch](https://ballotpedia.org/Charles_Koch) (Tier 3) (VERIFIED)
 
 ---
 
@@ -84,8 +84,8 @@ Reduced government regulation (across every sector), lower taxes (particularly c
 | Total Expenses | $83.0M |
 | Net Assets | $748.2M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 480918408](https://projects.propublica.org/nonprofits/organizations/480918408) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F480918408_202312_990PF_2025011022984232.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 480918408](https://projects.propublica.org/nonprofits/organizations/480918408) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F480918408_202312_990PF_2025011022984232.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Federal Register Activity
@@ -98,9 +98,9 @@ Reduced government regulation (across every sector), lower taxes (particularly c
 | Agencies | Civil Rights Commission, Interior Department, Surface Mining Reclamation and Enforcement Office |
 
 **Recent regulatory activity:**
-- [Sunshine Act Meeting Notice](https://www.federalregister.gov/documents/2017/05/11/2017-09695/sunshine-act-meeting-notice) (2017-05-11) — Civil Rights Commission
-- [Sunshine Act Meeting Notice](https://www.federalregister.gov/documents/2016/03/11/2016-05616/sunshine-act-meeting-notice) (2016-03-11) — Civil Rights Commission
-- [Indian and Federal Lands](https://www.federalregister.gov/documents/2007/04/25/E7-7647/indian-and-federal-lands) (2007-04-25) — Interior Department
+- [Sunshine Act Meeting Notice](https://www.federalregister.gov/documents/2017/05/11/2017-09695/sunshine-act-meeting-notice) (VERIFIED) (2017-05-11) — Civil Rights Commission
+- [Sunshine Act Meeting Notice](https://www.federalregister.gov/documents/2016/03/11/2016-05616/sunshine-act-meeting-notice) (VERIFIED) (2016-03-11) — Civil Rights Commission
+- [Indian and Federal Lands](https://www.federalregister.gov/documents/2007/04/25/E7-7647/indian-and-federal-lands) (VERIFIED) (2007-04-25) — Interior Department
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Charles%20Koch%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Charles%20Koch%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->

@@ -13,7 +13,7 @@ profiles:
 
 ## Supreme Court paves way for dismissal of Steve Bannon contempt of Congress case
 
-**Source:** [The Hill](https://thehill.com/homenews/5817721-supreme-court-steve-bannon-conviction/)
+**Source:** ~~[The Hill](https://thehill.com/homenews/5817721-supreme-court-steve-bannon-conviction/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-06
 
 The Supreme Court on Monday sent longtime President Trump ally Steve Bannon’s contempt of Congress case back to a lower court where a judge is expected to dismiss it. The justices declined to hear arguments in Bannon’s appeal of his 2022 conviction for evading a subpoena from the House committee that investigated the Jan. 6, 2021,…

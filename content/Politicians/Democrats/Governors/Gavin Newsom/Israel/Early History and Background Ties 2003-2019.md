@@ -106,8 +106,8 @@ Newsom's approach to Israel is presented as relationship-building and strategic 
 ---
 
 ### Sources
-- [Times of Israel: AIPAC denial / early history](https://www.timesofisrael.com/gavin-newsom-declares-he-never-has-and-never-will-accept-aipac-funding/) (Tier 3)
-- [Jewish Community Federation: 2008 trip](https://jewishfed.org/news/blog/mayor-newsom-heading-israel-federations-mission) (Tier 1)
-- [SF Bay View: CA-Israel business ties](https://sfbayview.com/2009/02/will-san-francisco-mayor-gavin-newsom-face-of-israel-be-the-next-governor-of-california/) (Tier 4)
-- [Black Agenda Report: "Zionist in Waiting" overview](https://www.blackagendareport.com/gavin-newsom-zionist-waiting) (Tier 4)
+- [Times of Israel: AIPAC denial / early history](https://www.timesofisrael.com/gavin-newsom-declares-he-never-has-and-never-will-accept-aipac-funding/) (Tier 3) (VERIFIED)
+- ~~[Jewish Community Federation: 2008 trip](https://jewishfed.org/news/blog/mayor-newsom-heading-israel-federations-mission)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [SF Bay View: CA-Israel business ties](https://sfbayview.com/2009/02/will-san-francisco-mayor-gavin-newsom-face-of-israel-be-the-next-governor-of-california/) (Tier 4) (VERIFIED)
+- [Black Agenda Report: "Zionist in Waiting" overview](https://www.blackagendareport.com/gavin-newsom-zionist-waiting) (Tier 4) (VERIFIED)
 

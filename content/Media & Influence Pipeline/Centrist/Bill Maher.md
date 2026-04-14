@@ -62,7 +62,7 @@ FEC API returns 156 raw results for "Bill Maher" (OpenSecrets ID: D000071834, Bi
 > [!money]
 > Maher's FEC record performs a political function identical to his media function: it establishes "liberal" credentials while the scale obscures the actual class direction of his work. Two million dollars to Democratic causes over 14+ years ($143K/year average) looks politically committed. It is also dwarfed by his wealth accumulation inside the corporate media system ($200M+ cumulative HBO income) and his financial sector ties (Mets partnership with Steve Cohen, real estate holdings). The Democratic donations fund the progressive brand. The corporate infrastructure and wealth multiplication fund the class position. Both are real. The media message emphasizes the donations.
 
-- [FEC: Bill Maher Productions individual contributions (156 results, $1,119,058.48 raw)](https://www.fec.gov/data/receipts/?contributor_name=maher%2C+bill) (Tier 1)
+- [FEC: Bill Maher Productions individual contributions (156 results, $1,119,058.48 raw)](https://www.fec.gov/data/receipts/?contributor_name=maher%2C+bill) (Tier 1) (VERIFIED)
 
 > **Note on API results:** The FEC API search for "bill maher" or "maher, bill" returns 156 raw results (~$1.1M aggregate). All results match Bill Maher Productions employer (OpenSecrets ID: D000071834). Contributions span 2004-2024, all verified as belonging to the HBO host. No disambiguation needed, employer identification confirms all results are the media figure.
 
@@ -198,21 +198,21 @@ The Club Random Studios network (Sage Steele, Shane Smith, Billy Corgan) was not
 
 ### Sources
 
-- [Deadline: 'Real Time With Bill Maher' Renewed By HBO Through 2026](https://deadline.com/2024/03/real-time-with-bill-maher-renewed-hbo-2026-1235857494/) (Tier 3)
-- [Variety: Bill Maher Gets Two-Season Extension at HBO](https://variety.com/2024/tv/news/bill-maher-real-time-hbo-two-season-extension-1235940853/) (Tier 3)
-- [The Hill: Bill Maher inks new deal with HBO through 2026](https://thehill.com/homenews/media/4529654-bill-maher-inks-new-deal-with-hbo-through-2026/) (Tier 3)
-- [OpenSecrets: Bill Maher Productions Profile](https://www.opensecrets.org/orgs/bill-maher-productions/summary?id=D000071834) (Tier 1)
-- [NPR: Bill Maher's Obama SuperPAC Donation Causing Stir](https://www.npr.org/2012/03/28/149512215/bill-mahers-obama-superpac-donation-causes-stir) (Tier 2)
-- [Washington Post: Bill Maher gives $1 million to pro-Obama super PAC Priorities USA](https://www.washingtonpost.com/blogs/election-2012/post/2012/02/24/gIQAX6dqXR_blog.html) (Tier 2)
-- [Deadline: Bill Maher Makes $1M PAC Contribution To Get Dems In Senate](https://deadline.com/2018/08/bill-maher-1-million-senate-pac-contribution-democrats-1202451234/) (Tier 3)
-- [MLB.com: Maher confirms ownership stake in Mets](https://www.mlb.com/news/comedian-bill-maher-confirms-ownership-stake-in-mets/c-32726066) (Tier 3)
-- [Celebrity Net Worth: Bill Maher Net Worth](https://www.celebritynetworth.com/richest-celebrities/richest-comedians/bill-maher-net-worth/) (Tier 4)
-- [Newsweek: Bill Maher Addresses Questions About How He Got 'So Rich'](https://www.newsweek.com/bill-maher-wealth-nikki-glaser-club-random-1962388) (Tier 3)
-- [Deadline: Bill Maher's 'Club Random' Podcast Joins Studio71 Network](https://deadline.com/2024/07/bill-mahers-club-random-podcast-studio71-1236020738/) (Tier 3)
-- [Semafor: Bill Maher's Club Random Studios shuts down](https://www.semafor.com/article/05/18/2025/bill-mahers-club-random-studios-shuts-down) (Tier 2)
-- [FAIR: The Phony Liberalism of Bill Maher](https://fair.org/home/the-phony-liberalism-of-bill-maher/) (Tier 2)
-- [The Nation: Always That Guy. Bill Maher's Pliable Right-Wing Brand](https://www.thenation.com/article/culture/always-that-guy-bill-mahers-pliable-right-wing-brand/) (Tier 2)
-- [Jacobin: The Hollow Courage of Bill Maher](https://jacobin.com/2017/09/bill-maher-real-time-trump-islamophobia) (Tier 2)
-- [CNN Opinion: The evolution of Bill Maher](https://www.cnn.com/2024/05/24/opinions/bill-maher-what-this-comedian-said-will-shock-you-hemmer) (Tier 3)
-- [Hollywood Reporter: HBO Star Bill Maher on Trump, Woke Left, Podcast, 'Real Time'](https://www.hollywoodreporter.com/tv/tv-features/bill-maher-hbo-real-time-returns-interview-1236110059/) (Tier 3)
+- [Deadline: 'Real Time With Bill Maher' Renewed By HBO Through 2026](https://deadline.com/2024/03/real-time-with-bill-maher-renewed-hbo-2026-1235857494/) (Tier 3) (VERIFIED)
+- [Variety: Bill Maher Gets Two-Season Extension at HBO](https://variety.com/2024/tv/news/bill-maher-real-time-hbo-two-season-extension-1235940853/) (Tier 3) (VERIFIED)
+- ~~[The Hill: Bill Maher inks new deal with HBO through 2026](https://thehill.com/homenews/media/4529654-bill-maher-inks-new-deal-with-hbo-through-2026/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [OpenSecrets: Bill Maher Productions Profile](https://www.opensecrets.org/orgs/bill-maher-productions/summary?id=D000071834) (Tier 1) (VERIFIED)
+- [NPR: Bill Maher's Obama SuperPAC Donation Causing Stir](https://www.npr.org/2012/03/28/149512215/bill-mahers-obama-superpac-donation-causes-stir) (Tier 2) (VERIFIED)
+- [Washington Post: Bill Maher gives $1 million to pro-Obama super PAC Priorities USA](https://www.washingtonpost.com/blogs/election-2012/post/2012/02/24/gIQAX6dqXR_blog.html) (Tier 2) (VERIFIED)
+- [Deadline: Bill Maher Makes $1M PAC Contribution To Get Dems In Senate](https://deadline.com/2018/08/bill-maher-1-million-senate-pac-contribution-democrats-1202451234/) (Tier 3) (VERIFIED)
+- [MLB.com: Maher confirms ownership stake in Mets](https://www.mlb.com/news/comedian-bill-maher-confirms-ownership-stake-in-mets/c-32726066) (Tier 3) (VERIFIED)
+- [Celebrity Net Worth: Bill Maher Net Worth](https://www.celebritynetworth.com/richest-celebrities/richest-comedians/bill-maher-net-worth/) (Tier 4) (VERIFIED)
+- [Newsweek: Bill Maher Addresses Questions About How He Got 'So Rich'](https://www.newsweek.com/bill-maher-wealth-nikki-glaser-club-random-1962388) (Tier 3) (VERIFIED)
+- [Deadline: Bill Maher's 'Club Random' Podcast Joins Studio71 Network](https://deadline.com/2024/07/bill-mahers-club-random-podcast-studio71-1236020738/) (Tier 3) (VERIFIED)
+- [Semafor: Bill Maher's Club Random Studios shuts down](https://www.semafor.com/article/05/18/2025/bill-mahers-club-random-studios-shuts-down) (Tier 2) (VERIFIED)
+- [FAIR: The Phony Liberalism of Bill Maher](https://fair.org/home/the-phony-liberalism-of-bill-maher/) (Tier 2) (VERIFIED)
+- [The Nation: Always That Guy. Bill Maher's Pliable Right-Wing Brand](https://www.thenation.com/article/culture/always-that-guy-bill-mahers-pliable-right-wing-brand/) (Tier 2) (VERIFIED)
+- [Jacobin: The Hollow Courage of Bill Maher](https://jacobin.com/2017/09/bill-maher-real-time-trump-islamophobia) (Tier 2) (VERIFIED)
+- [CNN Opinion: The evolution of Bill Maher](https://www.cnn.com/2024/05/24/opinions/bill-maher-what-this-comedian-said-will-shock-you-hemmer) (Tier 3) (VERIFIED)
+- [Hollywood Reporter: HBO Star Bill Maher on Trump, Woke Left, Podcast, 'Real Time'](https://www.hollywoodreporter.com/tv/tv-features/bill-maher-hbo-real-time-returns-interview-1236110059/) (Tier 3) (VERIFIED)
 

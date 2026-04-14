@@ -238,25 +238,25 @@ The structural function: Ballard Partners is the firm that converts political pr
 
 ### Sources
 
-- [Senate LDA Filings: Ballard Partners Lobbying Profile](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA Filings: Ballard Partners Lobbyists 2025](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [OpenSecrets Foreign Lobby Watch: Ballard Partners FARA registrations](https://www.opensecrets.org/fara/results?foreign-principal=&location=&order=desc&page=1&query=&registrant=Ballard+Partners&sort=stamped) (Tier 1)
-- [OpenSecrets News: Revolving door brings Trump-tied lobbying firm even closer to the White House (2019)](https://www.opensecrets.org/news/2019/01/ballard-partners-revolving-door-white-house/) (Tier 2)
-- [OpenSecrets News: The rise of Ballard Partners, now the top lobbying firm in the country (Aug 2025)](https://www.opensecrets.org/news/2025/08/the-rise-of-ballard-partners-now-the-top-lobbying-firm-in-the-country) (Tier 2)
-- [Read Sludge: Foreign Interests Are Paying Millions to a Trump-Linked Lobbying Firm (Feb 2026)](https://readsludge.com/2026/02/05/foreign-interests-are-paying-millions-to-a-trump-linked-lobbying-firm/) (Tier 2)
-- [Read Sludge: Trump-Tied Ballard Partners Becomes the Highest-Paid Lobbying Firm in D.C. (Sep 2025)](https://readsludge.com/2025/09/08/trump-tied-ballard-partners-becomes-the-highest-paid-lobbying-firm-in-d-c/) (Tier 2)
-- [ABC News: Lobbying firm with close ties to Trump is poised to profit from new administration (Dec 2024)](https://abcnews.com/US/lobbying-firm-close-ties-trump-poised-profit-new/story?id=116417198) (Tier 2)
-- [Senate Judiciary Committee Democrats: Pam Bondi's Extensive Lobbying For Wealthy Special Interests And Foreign Government (Jan 2025)](https://www.judiciary.senate.gov/press/dem/releases/pam-bondis-extensive-lobbying-for-wealthy-special-interests-and-foreign-government-poses-serious-conflict-of-interest) (Tier 1)
-- [Jacobin: Ballard Partners Is the Lobbyist King of the Trump Era (Aug 2025)](https://jacobin.com/2025/08/ballard-lobbying-trump-crypto-regulation) (Tier 4 — partisan, verify claims independently)
-- [Wikipedia: Ballard Partners](https://en.wikipedia.org/wiki/Ballard_Partners) (Tier 3)
-- [Washington Post: Firm with ties to Trump officials signs deal to lobby for Libyan warlord (Mar 21, 2026)](https://www.washingtonpost.com/national-security/2026/03/21/firm-with-ties-trump-officials-signs-deal-lobby-libyan-warlord/) (Tier 2)
-- [O'Dwyer's: Ballard Inks $2M Pact with Libyan Armed Forces (Mar 17, 2026)](https://www.odwyerpr.com/story/public/24464/2026-03-17/ballard-inks-2m-pact-with-libyan-armed-forces.html) (Tier 3)
-- [Middle East Eye: US lobby firm secures $2m contract to whitewash image of Libya's Haftar](https://www.middleeasteye.net/news/us-lobby-firm-secures-2m-contract-whitewash-khalifa-haftars-image) (Tier 2)
-- [FARA Filing: Ballard Partners — Libyan Armed Forces (received Mar 13, 2026)](https://efile.fara.gov/docs/7070-Exhibit-AB-20260313-1.pdf) (Tier 1)
-- [STAT News: Pharma companies turn to Trump-connected firms for FDA lobbying (Feb 23, 2026)](https://www.statnews.com/2026/02/23/fda-lobbying-trump-connected-firms-cash-in/) (Tier 2)
-- [OpenSecrets News: Pharma industry and Ballard Partners dominate the lobbying space in second quarter of 2025](https://www.opensecrets.org/news/2025/07/pharma-industry-and-ballard-partners-dominate-the-lobbying-space-in-second-quarter-of-2025/) (Tier 1)
-- [Florida Politics: Rich Haselwood joins Ballard Partners' Washington office (Mar 2026)](https://floridapolitics.com/archives/785587-rich-haselwood-joins-ballard-partners-washington-office/) (Tier 3)
-- [Senate LDA Filings: Rich L. Haselwood Lobbyist Profile](https://lda.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: Ballard Partners Lobbying Profile](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: Ballard Partners Lobbyists 2025](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [OpenSecrets Foreign Lobby Watch: Ballard Partners FARA registrations](https://www.opensecrets.org/fara/results?foreign-principal=&location=&order=desc&page=1&query=&registrant=Ballard+Partners&sort=stamped) (Tier 1) (VERIFIED)
+- [OpenSecrets News: Revolving door brings Trump-tied lobbying firm even closer to the White House (2019)](https://www.opensecrets.org/news/2019/01/ballard-partners-revolving-door-white-house/) (Tier 2) (VERIFIED)
+- [OpenSecrets News: The rise of Ballard Partners, now the top lobbying firm in the country (Aug 2025)](https://www.opensecrets.org/news/2025/08/the-rise-of-ballard-partners-now-the-top-lobbying-firm-in-the-country) (Tier 2) (VERIFIED)
+- [Read Sludge: Foreign Interests Are Paying Millions to a Trump-Linked Lobbying Firm (Feb 2026)](https://readsludge.com/2026/02/05/foreign-interests-are-paying-millions-to-a-trump-linked-lobbying-firm/) (Tier 2) (VERIFIED)
+- [Read Sludge: Trump-Tied Ballard Partners Becomes the Highest-Paid Lobbying Firm in D.C. (Sep 2025)](https://readsludge.com/2025/09/08/trump-tied-ballard-partners-becomes-the-highest-paid-lobbying-firm-in-d-c/) (Tier 2) (VERIFIED)
+- [ABC News: Lobbying firm with close ties to Trump is poised to profit from new administration (Dec 2024)](https://abcnews.com/US/lobbying-firm-close-ties-trump-poised-profit-new/story?id=116417198) (Tier 2) (VERIFIED)
+- [Senate Judiciary Committee Democrats: Pam Bondi's Extensive Lobbying For Wealthy Special Interests And Foreign Government (Jan 2025)](https://www.judiciary.senate.gov/press/dem/releases/pam-bondis-extensive-lobbying-for-wealthy-special-interests-and-foreign-government-poses-serious-conflict-of-interest) (Tier 1) (VERIFIED)
+- [Jacobin: Ballard Partners Is the Lobbyist King of the Trump Era (Aug 2025)](https://jacobin.com/2025/08/ballard-lobbying-trump-crypto-regulation) (VERIFIED) (Tier 4 — partisan, verify claims independently)
+- [Wikipedia: Ballard Partners](https://en.wikipedia.org/wiki/Ballard_Partners) (Tier 3) (VERIFIED)
+- [Washington Post: Firm with ties to Trump officials signs deal to lobby for Libyan warlord (Mar 21, 2026)](https://www.washingtonpost.com/national-security/2026/03/21/firm-with-ties-trump-officials-signs-deal-lobby-libyan-warlord/) (Tier 2) (VERIFIED)
+- [O'Dwyer's: Ballard Inks $2M Pact with Libyan Armed Forces (Mar 17, 2026)](https://www.odwyerpr.com/story/public/24464/2026-03-17/ballard-inks-2m-pact-with-libyan-armed-forces.html) (Tier 3) (VERIFIED)
+- [Middle East Eye: US lobby firm secures $2m contract to whitewash image of Libya's Haftar](https://www.middleeasteye.net/news/us-lobby-firm-secures-2m-contract-whitewash-khalifa-haftars-image) (Tier 2) (VERIFIED)
+- ~~[FARA Filing: Ballard Partners — Libyan Armed Forces (received Mar 13, 2026)](https://efile.fara.gov/docs/7070-Exhibit-AB-20260313-1.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [STAT News: Pharma companies turn to Trump-connected firms for FDA lobbying (Feb 23, 2026)](https://www.statnews.com/2026/02/23/fda-lobbying-trump-connected-firms-cash-in/) (Tier 2) (VERIFIED)
+- [OpenSecrets News: Pharma industry and Ballard Partners dominate the lobbying space in second quarter of 2025](https://www.opensecrets.org/news/2025/07/pharma-industry-and-ballard-partners-dominate-the-lobbying-space-in-second-quarter-of-2025/) (Tier 1) (VERIFIED)
+- [Florida Politics: Rich Haselwood joins Ballard Partners' Washington office (Mar 2026)](https://floridapolitics.com/archives/785587-rich-haselwood-joins-ballard-partners-washington-office/) (Tier 3) (VERIFIED)
+- [Senate LDA Filings: Rich L. Haselwood Lobbyist Profile](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
 
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->
@@ -274,7 +274,7 @@ The structural function: Ballard Partners is the firm that converts political pr
 - Bird Global, Inc. (2023) — United States Bankruptcy Court, S.D. Florida.
 - In re: Uber Technologies, Inc., Passenger Sexual Assault Litigation (2023) — District Court, N.D. California
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Ballard%20Partners%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Ballard%20Partners%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Foreign Agent Activity (FARA)
@@ -285,5 +285,5 @@ The structural function: Ballard Partners is the firm that converts political pr
 | Total Records | 1 |
 | Registrant Records | 1 |
 
-- [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Ballard%20Partners) (Tier 1)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Ballard%20Partners)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:fara-foreign-agents end -->

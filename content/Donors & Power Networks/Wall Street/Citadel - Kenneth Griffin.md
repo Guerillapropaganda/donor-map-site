@@ -45,8 +45,8 @@ Two separate businesses operating under the Citadel umbrella:
 
 In 2022, Griffin relocated Citadel's global headquarters from Chicago, Illinois to Miami, Florida, citing Chicago's crime rate. The move simultaneously: (1) eliminated Illinois state income tax exposure; (2) positioned Griffin in a Republican donor-friendly environment; (3) served as a public political statement against Democratic governance of Illinois. In January 2026, Griffin partnered with Goldman Properties to spend $180 million on office space in Miami's Wynwood district, cementing the Florida transition.
 
-- [FEC Independent Expenditures: Griffin, Kenneth C. — Donor Detail 2024](https://www.fec.gov/data/independent-expenditures/?q=Kenneth%20C%20Griffin) (Tier 1)
-- [CNBC: Citadel's CEO Ken Griffin becomes GOP $100 million midterm megadonor (2022)](https://www.cnbc.com/2022/10/07/citadels-ceo-ken-griffin-becomes-gop-100-million-midterm-megadonor.html) (Tier 2)
+- [FEC Independent Expenditures: Griffin, Kenneth C. — Donor Detail 2024](https://www.fec.gov/data/independent-expenditures/?q=Kenneth%20C%20Griffin) (Tier 1) (VERIFIED)
+- [CNBC: Citadel's CEO Ken Griffin becomes GOP $100 million midterm megadonor (2022)](https://www.cnbc.com/2022/10/07/citadels-ceo-ken-griffin-becomes-gop-100-million-midterm-megadonor.html) (Tier 2) (VERIFIED)
 
 ---
 
@@ -160,16 +160,16 @@ Griffin's political investment protects this arrangement from regulation. His $1
 ### Sources
 
 - [FEC Independent Expenditures: Griffin, Kenneth C. — Donor Detail 2024](https://www.fec.gov/data/independent-expenditures/?q=Kenneth%20C%20Griffin) (Tier 1)
-- [FEC Receipts: Kenneth Griffin donor lookup](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=kenneth%20griffin) (Tier 1)
-- [FEC: Kenneth Griffin individual contributions](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=kenneth+griffin) (Tier 1)
-- [ArtNews: Kenneth Griffin Donated $100M for 2024 Election (Fifth-Most)](https://www.artnews.com/art-news/news/billionaire-collector-kenneth-griffin-donated-100-million-2024-election-senate-leadership-fund-1234724065/) (Tier 2)
+- [FEC Receipts: Kenneth Griffin donor lookup](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=kenneth%20griffin) (Tier 1) (VERIFIED)
+- [FEC: Kenneth Griffin individual contributions](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=kenneth+griffin) (Tier 1) (VERIFIED)
+- [ArtNews: Kenneth Griffin Donated $100M for 2024 Election (Fifth-Most)](https://www.artnews.com/art-news/news/billionaire-collector-kenneth-griffin-donated-100-million-2024-election-senate-leadership-fund-1234724065/) (Tier 2) (VERIFIED)
 - [CNBC: Citadel's CEO Ken Griffin becomes GOP $100 million midterm megadonor (2022)](https://www.cnbc.com/2022/10/07/citadels-ceo-ken-griffin-becomes-gop-100-million-midterm-megadonor.html) (Tier 2)
-- [Bloomberg: Ken Griffin's Political Donations Clash With Trump Sometimes (July 2024)](https://www.bloomberg.com/news/features/2024-07-30/republican-donor-ken-griffin-billionaire-s-super-pac-giving-shapes-elections) (Tier 2)
-- [CNBC: Griffin defends payment for order flow (February 2021)](https://www.cnbc.com/2021/02/18/citadels-ken-griffin-defends-controversial-wall-street-practice-says-firm-would-adapt-if-it-were-outlawed.html) (Tier 2)
-- [Jason Garcia / Seeking Rents: Griffin gave $2M to Florida Republican legislators (2026)](https://jasongarcia.substack.com/p/one-billionaire-just-gave-2-million) (Tier 2)
-- [Global Trading: Payments for US retail flow reach record high, led by Citadel Securities](https://www.globaltrading.net/payment-for-us-retail-flow-reaches-record-high-led-by-citadel-securities-imc/) (Tier 2)
-- [InfluenceWatch: Ken Griffin profile](https://www.influencewatch.org/person/ken-griffin/) (Tier 2)
-- [Ballotpedia: Kenneth Griffin political profile](https://ballotpedia.org/Kenneth_Griffin) (Tier 3)
+- ~~[Bloomberg: Ken Griffin's Political Donations Clash With Trump Sometimes (July 2024)](https://www.bloomberg.com/news/features/2024-07-30/republican-donor-ken-griffin-billionaire-s-super-pac-giving-shapes-elections)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [CNBC: Griffin defends payment for order flow (February 2021)](https://www.cnbc.com/2021/02/18/citadels-ken-griffin-defends-controversial-wall-street-practice-says-firm-would-adapt-if-it-were-outlawed.html) (Tier 2) (VERIFIED)
+- [Jason Garcia / Seeking Rents: Griffin gave $2M to Florida Republican legislators (2026)](https://jasongarcia.substack.com/p/one-billionaire-just-gave-2-million) (Tier 2) (VERIFIED)
+- [Global Trading: Payments for US retail flow reach record high, led by Citadel Securities](https://www.globaltrading.net/payment-for-us-retail-flow-reaches-record-high-led-by-citadel-securities-imc/) (Tier 2) (VERIFIED)
+- [InfluenceWatch: Ken Griffin profile](https://www.influencewatch.org/person/ken-griffin/) (Tier 2) (VERIFIED)
+- [Ballotpedia: Kenneth Griffin political profile](https://ballotpedia.org/Kenneth_Griffin) (Tier 3) (VERIFIED)
 
 ---
 
@@ -188,14 +188,14 @@ Griffin's political investment protects this arrangement from regulation. His $1
 **Filing history:** 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015
 
 **View 990 filings:**
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/362167797/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/362167797/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/362167797/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/362167797/2019)
-- [2018 Filing](https://projects.propublica.org/nonprofits/organizations/362167797/2018)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/362167797/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/362167797/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/362167797/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/362167797/2019)~~ (URL broken, archived by Ops)
+- ~~[2018 Filing](https://projects.propublica.org/nonprofits/organizations/362167797/2018)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/362167797) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/362167797) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### SEC Filing Activity
@@ -209,7 +209,7 @@ Griffin's political investment protects this arrangement from regulation. His $1
 
 - 2008-04-11 — **DEF 14A**: SCHEDULE 14A
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Citadel%20-%20Kenneth%20Griffin%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Citadel%20-%20Kenneth%20Griffin%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Lobbying Activity
@@ -228,7 +228,7 @@ Griffin's political investment protects this arrangement from regulation. His $1
 
 **Agencies contacted:** Commodity Futures Trading Commission (CFTC), Defense, Dept of (DOD), HOUSE OF REPRESENTATIVES, SENATE, State, Dept of (DOS), Treasury, Dept of
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Citadel%20-%20Kenneth%20Griffin) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Citadel%20-%20Kenneth%20Griffin) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

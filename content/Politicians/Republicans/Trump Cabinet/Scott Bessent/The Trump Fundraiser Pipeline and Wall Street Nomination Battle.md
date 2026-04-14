@@ -78,7 +78,7 @@ The Treasury Secretary is not a neutral administrator — he is the donor class'
 
 ### Sources
 
-- [PBS News: Trump names hedge fund founder Scott Bessent as pick for Treasury secretary](https://www.pbs.org/newshour/politics/trump-names-hedge-fund-founder-scott-bessent-as-pick-for-treasury-secretary) (Tier 2)
-- [Newsweek: Scott Bessent connection to George Soros explained as Trump mulls Cabinet](https://www.newsweek.com/scott-bessent-connection-george-soros-trump-treasury-secretary-1984669) (Tier 2)
-- [Axios: What to know about Scott Bessent, Trump's U.S. Treasury pick](https://www.axios.com/2024/11/22/trump-treasury-pick-scott-bessent) (Tier 2)
+- [PBS News: Trump names hedge fund founder Scott Bessent as pick for Treasury secretary](https://www.pbs.org/newshour/politics/trump-names-hedge-fund-founder-scott-bessent-as-pick-for-treasury-secretary) (Tier 2) (VERIFIED)
+- [Newsweek: Scott Bessent connection to George Soros explained as Trump mulls Cabinet](https://www.newsweek.com/scott-bessent-connection-george-soros-trump-treasury-secretary-1984669) (Tier 2) (VERIFIED)
+- ~~[Axios: What to know about Scott Bessent, Trump's U.S. Treasury pick](https://www.axios.com/2024/11/22/trump-treasury-pick-scott-bessent)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 

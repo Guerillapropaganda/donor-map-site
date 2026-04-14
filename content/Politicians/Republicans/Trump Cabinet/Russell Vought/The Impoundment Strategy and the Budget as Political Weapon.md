@@ -86,5 +86,5 @@ The strategy hasn't changed — only the scale. The Ukraine freeze was $214 mill
 
 - Government Executive: Schedule F and budget cuts (Tier 2)
 - Banking Dive: CFPB funding court ruling (Tier 2)
-- [The Hill: 10,000+ federal worker layoffs](https://thehill.com/?s=The%20Impoundment%20Strategy%20and%20the%20Budget%20as%20Political%20Weapon) (Tier 2)
+- ~~[The Hill: 10,000+ federal worker layoffs](https://thehill.com/?s=The%20Impoundment%20Strategy%20and%20the%20Budget%20as%20Political%20Weapon)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - PBS NewsHour: Vought OMB influence and impoundment (Tier 2)

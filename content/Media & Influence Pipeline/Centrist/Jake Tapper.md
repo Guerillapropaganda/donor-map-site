@@ -26,7 +26,7 @@ Tapper is also a bestselling novelist, three political thrillers (*The Hellfire 
 
 No FEC individual contributions found for either "TAPPER, JAKE" or "TAPPER, JACOB." Tapper has publicly stated he does not belong to any political party. The $0 FEC record from a $7M/year anchor who moderates presidential debates and covers campaign finance daily is analytically consistent with institutional media norms, the anchor desk requires performed neutrality, and even small donations would become career-ending opposition research.
 
-- [FEC: Jake Tapper individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=TAPPER%2C+JAKE) (Tier 1)
+- [FEC: Jake Tapper individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=TAPPER%2C+JAKE) (Tier 1) (VERIFIED)
 
 > **Note on API results:** Searched both "TAPPER, JAKE" and "TAPPER, JACOB" (legal name Jacob Paul Tapper). Both return zero results. The FEC silence is the price of the anchor desk. CNN's institutional product cannot have traceable partisan commitments.
 
@@ -118,13 +118,13 @@ Tapper represents the institutional center's structural function: making the don
 
 ### Sources
 
-- [The Ankler: CNN Star Salary 'Beheadings', 'Take It or Leave It'](https://theankler.com/p/cnn-star-salary-beheadings-chris-wallace-wolf-blitzer-jake-tapper) (Tier 2) (Chrome verified 2026-03-27)
-- [TheWrap: CNN to Slash Budgets, Star Salaries as Mark Thompson Digs In](https://www.thewrap.com/cnn-looks-to-slash-budgets-star-salaries-as-mark-thompson-digs-in/) (Tier 2) (Chrome verified 2026-03-27)
-- [Variety: David Ellison Vows CNN Will Be Independent as Paramount Buys WBD](https://variety.com/2026/tv/news/david-ellison-cnn-independent-paramount-buys-warner-bros-discovery-1236680397/) (Tier 2) (Chrome verified 2026-03-27)
-- [Deadline: CNN Angst As Paramount Wins Right To Acquire Warner Bros Discovery](https://deadline.com/2026/02/cnn-angst-paramount-warner-bros-deal-1236738793/) (Tier 2) (Chrome verified 2026-03-27)
-- [Deadline: 'The Hellfire Club': HBO Max Adapting Jake Tapper Novel](https://deadline.com/2020/04/the-hellfire-club-jake-tapper-hbo-max-mark-l-smith-1202916086/) (Tier 3) (Chrome verified 2026-03-27)
-- [Washington Post: Fox News, Dominion settle defamation lawsuit for $787.5 million](https://www.washingtonpost.com/media/2023/04/18/fox-news-dominion-settlement/) (Tier 2) (Chrome verified 2026-03-27), cross-reference for CNN/Fox institutional comparison
-- [Wikipedia: Jake Tapper](https://en.wikipedia.org/wiki/Jake_Tapper) (Tier 3)
+- [The Ankler: CNN Star Salary 'Beheadings', 'Take It or Leave It'](https://theankler.com/p/cnn-star-salary-beheadings-chris-wallace-wolf-blitzer-jake-tapper) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
+- [TheWrap: CNN to Slash Budgets, Star Salaries as Mark Thompson Digs In](https://www.thewrap.com/cnn-looks-to-slash-budgets-star-salaries-as-mark-thompson-digs-in/) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
+- [Variety: David Ellison Vows CNN Will Be Independent as Paramount Buys WBD](https://variety.com/2026/tv/news/david-ellison-cnn-independent-paramount-buys-warner-bros-discovery-1236680397/) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
+- [Deadline: CNN Angst As Paramount Wins Right To Acquire Warner Bros Discovery](https://deadline.com/2026/02/cnn-angst-paramount-warner-bros-deal-1236738793/) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
+- [Deadline: 'The Hellfire Club': HBO Max Adapting Jake Tapper Novel](https://deadline.com/2020/04/the-hellfire-club-jake-tapper-hbo-max-mark-l-smith-1202916086/) (Tier 3) (VERIFIED) (Chrome verified 2026-03-27)
+- [Washington Post: Fox News, Dominion settle defamation lawsuit for $787.5 million](https://www.washingtonpost.com/media/2023/04/18/fox-news-dominion-settlement/) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27), cross-reference for CNN/Fox institutional comparison
+- [Wikipedia: Jake Tapper](https://en.wikipedia.org/wiki/Jake_Tapper) (Tier 3) (VERIFIED)
 - [FEC: Jake Tapper individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=TAPPER%2C+JAKE) (Tier 1)
 
 > **Technical note:** The FEC API link returns raw JSON from the FEC government database. Jake Tapper shows zero federal political contributions across both "JAKE" and "JACOB" name variations. The $0 record from a $7M/year debate moderator is the institutional price of performed neutrality.

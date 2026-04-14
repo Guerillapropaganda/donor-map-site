@@ -175,12 +175,12 @@ The analytical patterns:
 
 ### Sources
 
-- [FEC: Individual contributions — Yass, Jeff (2010–2026)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=yass%2C+jeff&min_date=01%2F01%2F2010&max_date=12%2F31%2F2026) (Tier 1) — 774 contributions, virtually 100% Republican, SIG/Susquehanna Partners employer
-- [Wikipedia: Jeff Yass](https://en.wikipedia.org/wiki/Jeff_Yass) (Tier 3) — Political activities section: $100M 2024 cycle, TikTok/ByteDance, Club for Growth, school choice, ProPublica tax investigation, MAGA Inc. $16M, Kohelet Policy Forum
-- [FEC Receipts: Jeff Yass donor lookup](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=jeff%20yass) (Tier 1) — Donor contribution aggregation (monthly search limit; URL format verified)
-- [ProPublica: Jeff Yass — The Billionaire GOP Mega-Donor Gaming the Tax System (2022)](https://www.propublica.org/article/jeff-yass-susquehanna-tiktok-tax-avoidance) (Tier 1) — SIG tax avoidance strategies, $1B estimated tax savings 2013–2018
-- [ProPublica: How Susquehanna's Jeff Yass Avoided $1 Billion in Taxes (2022)](https://www.propublica.org/article/how-susquehanna-yass-avoided-billion-taxes) (Tier 1) — Detailed breakdown of SIG tax strategies
-- [Susquehanna International Group](https://sig.com/) (Tier 1) — Company overview, market making operations
+- [FEC: Individual contributions — Yass, Jeff (2010–2026)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=yass%2C+jeff&min_date=01%2F01%2F2010&max_date=12%2F31%2F2026) (Tier 1) (VERIFIED) — 774 contributions, virtually 100% Republican, SIG/Susquehanna Partners employer
+- [Wikipedia: Jeff Yass](https://en.wikipedia.org/wiki/Jeff_Yass) (Tier 3) (VERIFIED) — Political activities section: $100M 2024 cycle, TikTok/ByteDance, Club for Growth, school choice, ProPublica tax investigation, MAGA Inc. $16M, Kohelet Policy Forum
+- [FEC Receipts: Jeff Yass donor lookup](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=jeff%20yass) (Tier 1) (VERIFIED) — Donor contribution aggregation (monthly search limit; URL format verified)
+- [ProPublica: Jeff Yass — The Billionaire GOP Mega-Donor Gaming the Tax System (2022)](https://www.propublica.org/article/jeff-yass-susquehanna-tiktok-tax-avoidance) (Tier 1) (VERIFIED) — SIG tax avoidance strategies, $1B estimated tax savings 2013–2018
+- [ProPublica: How Susquehanna's Jeff Yass Avoided $1 Billion in Taxes (2022)](https://www.propublica.org/article/how-susquehanna-yass-avoided-billion-taxes) (Tier 1) (VERIFIED) — Detailed breakdown of SIG tax strategies
+- [Susquehanna International Group](https://sig.com/) (Tier 1) (VERIFIED) — Company overview, market making operations
 
 ---
 
@@ -207,22 +207,22 @@ The analytical patterns:
 | Agencies | Securities and Exchange Commission |
 
 **Recent regulatory activity:**
-- [Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Order Disapproving Proposed Rule Change To Increase Fees for Certain Market Data and Connectivity Products and To Maintain the Current Fees for Such Products if Members Meet a Minimum Average Daily Displayed Volume Threshold](https://www.federalregister.gov/documents/2024/12/03/2024-28258/self-regulatory-organizations-the-nasdaq-stock-market-llc-order-disapproving-proposed-rule-change-to) (2024-12-03) — Securities and Exchange Commission
-- [Self-Regulatory Organizations; Cboe EDGX Exchange, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend Its Fee Schedule](https://www.federalregister.gov/documents/2024/11/13/2024-26193/self-regulatory-organizations-cboe-edgx-exchange-inc-notice-of-filing-and-immediate-effectiveness-of) (2024-11-13) — Securities and Exchange Commission
-- [Self-Regulatory Organizations; Cboe BYX Exchange, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend Its Fees Schedule Related to Physical Port Fees](https://www.federalregister.gov/documents/2024/09/18/2024-21173/self-regulatory-organizations-cboe-byx-exchange-inc-notice-of-filing-and-immediate-effectiveness-of) (2024-09-18) — Securities and Exchange Commission
-- [Self-Regulatory Organizations; Cboe EDGX Exchange, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend its Fees Schedule Related to Physical Port Fees](https://www.federalregister.gov/documents/2024/09/18/2024-21172/self-regulatory-organizations-cboe-edgx-exchange-inc-notice-of-filing-and-immediate-effectiveness-of) (2024-09-18) — Securities and Exchange Commission
-- [Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend Its Fees Schedule Related to Physical Port Fees](https://www.federalregister.gov/documents/2024/09/18/2024-21171/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-filing-and-immediate-effectiveness-of) (2024-09-18) — Securities and Exchange Commission
-- [Self-Regulatory Organizations; Cboe C2 Exchange, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend Its Fees Schedule Related to Physical Port Fees](https://www.federalregister.gov/documents/2024/09/18/2024-21170/self-regulatory-organizations-cboe-c2-exchange-inc-notice-of-filing-and-immediate-effectiveness-of-a) (2024-09-18) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Order Disapproving Proposed Rule Change To Increase Fees for Certain Market Data and Connectivity Products and To Maintain the Current Fees for Such Products if Members Meet a Minimum Average Daily Displayed Volume Threshold](https://www.federalregister.gov/documents/2024/12/03/2024-28258/self-regulatory-organizations-the-nasdaq-stock-market-llc-order-disapproving-proposed-rule-change-to) (VERIFIED) (2024-12-03) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; Cboe EDGX Exchange, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend Its Fee Schedule](https://www.federalregister.gov/documents/2024/11/13/2024-26193/self-regulatory-organizations-cboe-edgx-exchange-inc-notice-of-filing-and-immediate-effectiveness-of) (VERIFIED) (2024-11-13) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; Cboe BYX Exchange, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend Its Fees Schedule Related to Physical Port Fees](https://www.federalregister.gov/documents/2024/09/18/2024-21173/self-regulatory-organizations-cboe-byx-exchange-inc-notice-of-filing-and-immediate-effectiveness-of) (VERIFIED) (2024-09-18) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; Cboe EDGX Exchange, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend its Fees Schedule Related to Physical Port Fees](https://www.federalregister.gov/documents/2024/09/18/2024-21172/self-regulatory-organizations-cboe-edgx-exchange-inc-notice-of-filing-and-immediate-effectiveness-of) (VERIFIED) (2024-09-18) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend Its Fees Schedule Related to Physical Port Fees](https://www.federalregister.gov/documents/2024/09/18/2024-21171/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-filing-and-immediate-effectiveness-of) (VERIFIED) (2024-09-18) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; Cboe C2 Exchange, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend Its Fees Schedule Related to Physical Port Fees](https://www.federalregister.gov/documents/2024/09/18/2024-21170/self-regulatory-organizations-cboe-c2-exchange-inc-notice-of-filing-and-immediate-effectiveness-of-a) (VERIFIED) (2024-09-18) — Securities and Exchange Commission
 - ... and 173 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Susquehanna%20International%20Group%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Susquehanna%20International%20Group%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [549300UHLZVQ1CWNT812](https://search.gleif.org/#/record/549300UHLZVQ1CWNT812) |
+| LEI | [549300UHLZVQ1CWNT812](https://search.gleif.org/#/record/549300UHLZVQ1CWNT812) (VERIFIED) |
 | Legal Name | Susquehanna International Group, LLP |
 | Jurisdiction | US-DE |
 | Entity Status | ACTIVE |
@@ -230,7 +230,7 @@ The analytical patterns:
 | Registration | ISSUED |
 | Last Updated | 2025-09-18T05:45:15Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### SEC Filing Activity
@@ -244,13 +244,13 @@ The analytical patterns:
 
 **Notable filings:**
 
-- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/5272/000120537826000006/0001205378-26-000006-index.htm)
-- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/5272/000142572526000005/0001425725-26-000005-index.htm)
-- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/5272/000166598626000005/0001665986-26-000005-index.htm)
-- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/5272/000185181126000005/0001851811-26-000005-index.htm)
-- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/5272/000165717526000005/0001657175-26-000005-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/5272/000120537826000006/0001205378-26-000006-index.htm) (VERIFIED)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/5272/000142572526000005/0001425725-26-000005-index.htm) (VERIFIED)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/5272/000166598626000005/0001665986-26-000005-index.htm) (VERIFIED)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/5272/000185181126000005/0001851811-26-000005-index.htm) (VERIFIED)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/5272/000165717526000005/0001657175-26-000005-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Susquehanna%20International%20Group%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Susquehanna%20International%20Group%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Foreign Agent Activity (FARA)
@@ -266,5 +266,5 @@ The analytical patterns:
 **Foreign principals:**
 - Axis Holdings LLC (on behalf of Donald Guerrero, former Finance Minister of the Dominican Republic) through DCI Group AZ, LLC (DOMINICAN REPUBLIC)
 
-- [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Susquehanna%20International%20Group) (Tier 1)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Susquehanna%20International%20Group)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:fara-foreign-agents end -->

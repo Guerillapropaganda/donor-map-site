@@ -49,8 +49,8 @@ Google's political strategy has undergone a notable shift since 2024. Historical
 
 Google's lobbying spans multiple subsidiaries: Google Inc ($12.3M in 2024), Waymo ($1.74M), Wing Aviation ($420K), Google Cloud ($390K), Mandiant ($144K in 2022), and DeepMind ($130K in 2022).
 
-- [OpenSecrets: Alphabet Inc organizational profile — 2024 cycle](https://www.opensecrets.org/orgs/alphabet-inc/summary?id=D000067823) (Tier 1) (Chrome-verified)
-- [Senate LDA Filings: Alphabet Inc lobbying profile — 2025](https://lda.gov/filings/public/filing/search/) (Tier 1) (Chrome-verified)
+- [OpenSecrets: Alphabet Inc organizational profile — 2024 cycle](https://www.opensecrets.org/orgs/alphabet-inc/summary?id=D000067823) (Tier 1) (VERIFIED) (Chrome-verified)
+- [Senate LDA Filings: Alphabet Inc lobbying profile — 2025](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED) (Chrome-verified)
 
 ---
 
@@ -98,9 +98,9 @@ Google's core legislative and regulatory priorities, in order of financial signi
 
 Google consistently lobbies on: antitrust legislation (American Innovation and Choice Online Act, Open App Markets Act, AMERICA Act), Section 230, copyright/DMCA, autonomous vehicle regulation (Waymo), H-1B immigration, AI regulation, drone/commercial aviation (Wing), data privacy (ADPPA, APRA), and cybersecurity.
 
-- [Senate LDA Filings: Alphabet 2024 lobbying](https://lda.gov/filings/public/filing/search/) (Tier 1) (Chrome-verified)
-- [TIME: Google lobbying 2017](https://time.com/5116226/google-lobbying-2017/) (Tier 2) (UNVERIFIED)
-- [OpenSecrets: Google ramped up lobbying ahead of antitrust](https://www.opensecrets.org/news/2023/10/google-ramped-up-federal-lobbying-ahead-of-doj-antitrust-showdown/) (Tier 1) (Chrome-verified)
+- [Senate LDA Filings: Alphabet 2024 lobbying](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED) (Chrome-verified)
+- [TIME: Google lobbying 2017](https://time.com/5116226/google-lobbying-2017/) (Tier 2) (VERIFIED) (UNVERIFIED)
+- [OpenSecrets: Google ramped up lobbying ahead of antitrust](https://www.opensecrets.org/news/2023/10/google-ramped-up-federal-lobbying-ahead-of-doj-antitrust-showdown/) (Tier 1) (VERIFIED) (Chrome-verified)
 
 ---
 
@@ -118,9 +118,9 @@ California is ground zero for tech regulation, and Google has dramatically escal
 
 **Covert tactics:** Google's California lobbying frequently operates through third-party organizations and industry associations without Google's name appearing on direct lobbying disclosures. It organizes small business owner coalitions, funds astroturf campaigns, and uses the California Chamber of Commerce as a proxy.
 
-- [LA Times: Why Google's California lobbying skyrocketed](https://www.latimes.com/california/story/2023-12-19/why-googles-lobbying-in-california-skyrocketed-this-year) (Tier 2)
-- [CalMatters: California lobbying Q3 2024](https://calmatters.org/category/politics/2024/11/california-lobbying-google-big-oil/) (Tier 2)
-- [The Markup: Google covert privacy bill lobbying](https://themarkup.org/privacy/2025/09/12/google-wasnt-against-this-privacy-bill-officially-behind-the-scenes-it-orchestrated-opposition) (Tier 2)
+- [LA Times: Why Google's California lobbying skyrocketed](https://www.latimes.com/california/story/2023-12-19/why-googles-lobbying-in-california-skyrocketed-this-year) (Tier 2) (VERIFIED)
+- ~~[CalMatters: California lobbying Q3 2024](https://calmatters.org/category/politics/2024/11/california-lobbying-google-big-oil/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [The Markup: Google covert privacy bill lobbying](https://themarkup.org/privacy/2025/09/12/google-wasnt-against-this-privacy-bill-officially-behind-the-scenes-it-orchestrated-opposition) (Tier 2) (VERIFIED)
 
 ### European Union
 
@@ -128,7 +128,7 @@ Google is consistently the #1 corporate lobbying spender in Brussels, with decla
 
 Google held 212 total meetings with EU Commission officials during the Juncker and von der Leyen mandates combined — the most of any Brussels lobby group. 54% of Google's declared EU lobbying relates to EU digital policies, making it the most EU-focused of the major tech companies. EU lobbying escalated during Digital Markets Act (DMA) and Digital Services Act (DSA) rulemaking.
 
-- [Transparency International EU: Deep Pockets, Open Doors report](https://transparency.eu/wp-content/uploads/2024/10/Deep_pockets_open_doors_report.pdf) (Tier 2)
+- [Transparency International EU: Deep Pockets, Open Doors report](https://transparency.eu/wp-content/uploads/2024/10/Deep_pockets_open_doors_report.pdf) (Tier 2) (VERIFIED)
 
 ---
 
@@ -219,11 +219,11 @@ Pichai's personal giving reveals bipartisan hedging consistent with corporate in
 The April 2017 bipartisan maxing out — $33,900 to both the NRSC and DSCC in the same month — is the clearest expression of the hedge strategy: the CEO of a monopoly facing regulatory risk from both parties pays both parties the maximum.
 
 - [OpenSecrets: Alphabet Inc organizational profile — 2024 cycle](https://www.opensecrets.org/orgs/alphabet-inc/summary?id=D000067823) (Tier 1) (Chrome-verified)
-- [OpenSecrets: Alphabet Inc top recipients — 2024](https://www.opensecrets.org/orgs/alphabet-inc/recipients?id=D000067823) (Tier 1) (Chrome-verified)
-- [OpenSecrets: Google PAC 2024](https://www.opensecrets.org/political-action-committees-pacs/google-inc/C00428623/summary/2024) (Tier 1) (UNVERIFIED)
-- [OpenSecrets: Google PAC recipients 2022](https://www.opensecrets.org/political-action-committees-pacs/google-inc/C00428623/candidate-recipients/2022) (Tier 1) (UNVERIFIED)
-- [Politico: Google $1M Trump inauguration](https://www.politico.com/live-updates/2025/01/09/congress/google-donation-donald-trump-inauguration-00197233) (Tier 2) (UNVERIFIED)
-- [FEC Receipts: Sundar Pichai donor lookup](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Sundar%20Pichai) (Tier 1) (UNVERIFIED)
+- [OpenSecrets: Alphabet Inc top recipients — 2024](https://www.opensecrets.org/orgs/alphabet-inc/recipients?id=D000067823) (Tier 1) (VERIFIED) (Chrome-verified)
+- [OpenSecrets: Google PAC 2024](https://www.opensecrets.org/political-action-committees-pacs/google-inc/C00428623/summary/2024) (Tier 1) (VERIFIED) (UNVERIFIED)
+- [OpenSecrets: Google PAC recipients 2022](https://www.opensecrets.org/political-action-committees-pacs/google-inc/C00428623/candidate-recipients/2022) (Tier 1) (VERIFIED) (UNVERIFIED)
+- ~~[Politico: Google $1M Trump inauguration](https://www.politico.com/live-updates/2025/01/09/congress/google-donation-donald-trump-inauguration-00197233)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (VERIFIED) (UNVERIFIED)
+- [FEC Receipts: Sundar Pichai donor lookup](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Sundar%20Pichai) (Tier 1) (VERIFIED) (UNVERIFIED)
 
 ---
 
@@ -237,7 +237,7 @@ The FTC antitrust investigation ended in a settlement that critics regard as far
 
 The investigation closed just weeks after Obama's re-election, in which [[Eric Schmidt]] had played a key campaign role.
 
-- [Tech Transparency Project: White House FTC Google Probe](https://www.techtransparencyproject.org/articles/white-house-kept-close-tabs-ftc-google-probe) (Tier 2)
+- [Tech Transparency Project: White House FTC Google Probe](https://www.techtransparencyproject.org/articles/white-house-kept-close-tabs-ftc-google-probe) (Tier 2) (VERIFIED)
 
 ### DOJ Antitrust — United States v. Google LLC (2020-ongoing)
 
@@ -277,13 +277,13 @@ Google spent over $10 million lobbying the California state legislature in 2024 
 
 Google lobbied in favor of a 10-year federal moratorium on state AI regulation in the 2025 House reconciliation package. The Senate struck the moratorium 99-1. In California, Google's lobbying killed AI safety bills before they became federal precedent. One analysis attributed $52.3 million in AI-related lobbying to Google (2023-2024).
 
-- [NPR: Google loses antitrust case](https://www.npr.org/2024/08/05/nx-s1-5064624/google-justice-department-antitrust-search) (Tier 2) (Chrome-verified)
-- [NPR: Judge lets Google keep Chrome (Sept 2025)](https://www.npr.org/2025/09/02/nx-s1-5478625/google-chrome-doj-antitrust-ruling) (Tier 2) (Chrome-verified)
-- [Congress.gov CRS: Federal Court Endorses Behavioral Remedies](https://www.congress.gov/crs-product/LSB11362) (Tier 1) (Chrome-verified)
-- [Mintz: DOJ drops AI divestiture](https://www.mintz.com/insights-center/viewpoints/54731/2025-03-14-doj-scraps-proposal-require-google-sell-ai-investments) (Tier 2)
-- [Bipartisan Policy Center: Gonzalez v. Google](https://bipartisanpolicy.org/article/gonzalez-v-google/) (Tier 3) (UNVERIFIED)
-- [Nemko Digital: Big Tech AI regulation blocked 2025](https://digital.nemko.com/insights/how-big-tech-lobbying-stopped-us-ai-regulation-in-2025) (Tier 2)
-- [IAPP: Pelosi opposes ADPPA](https://iapp.org/news/a/pelosi-rejects-proposed-american-data-privacy-and-protection-act-seeks-new-compromise) (Tier 2)
+- [NPR: Google loses antitrust case](https://www.npr.org/2024/08/05/nx-s1-5064624/google-justice-department-antitrust-search) (Tier 2) (VERIFIED) (Chrome-verified)
+- [NPR: Judge lets Google keep Chrome (Sept 2025)](https://www.npr.org/2025/09/02/nx-s1-5478625/google-chrome-doj-antitrust-ruling) (Tier 2) (VERIFIED) (Chrome-verified)
+- ~~[Congress.gov CRS: Federal Court Endorses Behavioral Remedies](https://www.congress.gov/crs-product/LSB11362)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1) (Chrome-verified)
+- [Mintz: DOJ drops AI divestiture](https://www.mintz.com/insights-center/viewpoints/54731/2025-03-14-doj-scraps-proposal-require-google-sell-ai-investments) (Tier 2) (VERIFIED)
+- [Bipartisan Policy Center: Gonzalez v. Google](https://bipartisanpolicy.org/article/gonzalez-v-google/) (Tier 3) (VERIFIED) (UNVERIFIED)
+- [Nemko Digital: Big Tech AI regulation blocked 2025](https://digital.nemko.com/insights/how-big-tech-lobbying-stopped-us-ai-regulation-in-2025) (Tier 2) (VERIFIED)
+- [IAPP: Pelosi opposes ADPPA](https://iapp.org/news/a/pelosi-rejects-proposed-american-data-privacy-and-protection-act-seeks-new-compromise) (Tier 2) (VERIFIED)
 
 ---
 
@@ -337,9 +337,9 @@ Over the decade leading to 2020, at least 80 individuals were identified moving 
 > [!money]
 > The revolving door serves a dual function: it brings institutional knowledge about regulatory processes into Google's lobbying operation, and it sends a signal to current government employees that compliance with Google's interests is a career investment. Robert Mahini moved from the FTC Office of General Counsel to Google as senior policy counsel in late 2012 — at the height of the FTC antitrust probe that would close in January 2013 with no action. Joshua Wright (FTC Commissioner) and Julie Brill (FTC Commissioner) both joined Google-affiliated law firms within weeks of each other in early 2016. The revolving door doesn't just influence current policy — it shapes the incentives of every government employee who might one day want to work in the private sector.
 
-- [Tech Transparency Project: Google's US Revolving Door](https://www.techtransparencyproject.org/articles/googles-revolving-door-us) (Tier 2)
-- [Senate LDA Filings: Alphabet Inc lobbyists — 2024](https://lda.gov/filings/public/filing/search/) (Tier 1) (Chrome-verified)
-- [Open Markets Institute: Google's 50-state lobbying strategy](https://www.openmarketsinstitute.org/publications/google-refines-50-state-lobby-strategy-austin-ahlman) (Tier 2) (Chrome-verified)
+- [Tech Transparency Project: Google's US Revolving Door](https://www.techtransparencyproject.org/articles/googles-revolving-door-us) (Tier 2) (VERIFIED)
+- [Senate LDA Filings: Alphabet Inc lobbyists — 2024](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED) (Chrome-verified)
+- [Open Markets Institute: Google's 50-state lobbying strategy](https://www.openmarketsinstitute.org/publications/google-refines-50-state-lobby-strategy-austin-ahlman) (Tier 2) (VERIFIED) (Chrome-verified)
 
 ---
 
@@ -349,8 +349,8 @@ Google's most distinctive political operation is its funding of academic researc
 
 In 2017, New America fired a researcher who praised the EU's antitrust action against Google — after Google chairman [[Eric Schmidt]], a major funder, objected. The incident revealed the mechanism: Google-funded research that criticizes Google faces institutional consequences. The effect is not direct censorship but self-censorship — researchers at Google-funded institutions learn what topics produce career risk.
 
-- [New York Times: Google's academic funding and the New America incident (2017)](https://www.nytimes.com/2017/08/30/us/politics/eric-schmidt-google-new-america.html) (Tier 2) (Chrome-verified)
-- [ProPublica: Stanford Promises Not to Use Google Money for Privacy Research](https://www.propublica.org/article/stanford-promises-not-to-use-google-money-for-privacy-research) (Tier 2) (Chrome-verified)
+- ~~[New York Times: Google's academic funding and the New America incident (2017)](https://www.nytimes.com/2017/08/30/us/politics/eric-schmidt-google-new-america.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (Chrome-verified)
+- [ProPublica: Stanford Promises Not to Use Google Money for Privacy Research](https://www.propublica.org/article/stanford-promises-not-to-use-google-money-for-privacy-research) (Tier 2) (VERIFIED) (Chrome-verified)
 
 ---
 
@@ -402,26 +402,26 @@ Google represents the most advanced form of monopoly power in the vault — one 
 
 ### Government & Court Documents (Chrome-verified):
 - [Congress.gov CRS: Federal Court Endorses Behavioral Remedies](https://www.congress.gov/crs-product/LSB11362) (Tier 1)
-- [US District Court: Findings of fact in United States v. Google (August 2024)](https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1037.0.pdf) (Tier 1)
+- [US District Court: Findings of fact in United States v. Google (August 2024)](https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1037.0.pdf) (Tier 1) (VERIFIED)
 
 ### Investigative Journalism (Chrome-verified):
-- [NPR: Google loses antitrust case (August 2024)](https://www.npr.org/2024/08/05/nx-s1-5064624/google-justice-department-antitrust-search) (Tier 2)
-- [NPR: Judge lets Google keep Chrome (September 2025)](https://www.npr.org/2025/09/02/nx-s1-5478625/google-chrome-doj-antitrust-ruling) (Tier 2)
-- [CNBC: Google stock jumps as judge rules it can keep Chrome](https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html) (Tier 2)
-- [Issue One: Big Tech cozies up after record lobbying](https://issueone.org/articles/big-tech-spent-record-sums-on-lobbying-last-year/) (Tier 2)
-- [Open Markets Institute: Google's 50-state lobby strategy](https://www.openmarketsinstitute.org/publications/google-refines-50-state-lobby-strategy-austin-ahlman) (Tier 2)
-- [New York Times: Google academic funding and New America (2017)](https://www.nytimes.com/2017/08/30/us/politics/eric-schmidt-google-new-america.html) (Tier 2)
-- [ProPublica: Stanford and Google privacy research](https://www.propublica.org/article/stanford-promises-not-to-use-google-money-for-privacy-research) (Tier 2)
+- [NPR: Google loses antitrust case (August 2024)](https://www.npr.org/2024/08/05/nx-s1-5064624/google-justice-department-antitrust-search) (Tier 2) (VERIFIED)
+- [NPR: Judge lets Google keep Chrome (September 2025)](https://www.npr.org/2025/09/02/nx-s1-5478625/google-chrome-doj-antitrust-ruling) (Tier 2) (VERIFIED)
+- [CNBC: Google stock jumps as judge rules it can keep Chrome](https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html) (Tier 2) (VERIFIED)
+- [Issue One: Big Tech cozies up after record lobbying](https://issueone.org/articles/big-tech-spent-record-sums-on-lobbying-last-year/) (Tier 2) (VERIFIED)
+- [Open Markets Institute: Google's 50-state lobby strategy](https://www.openmarketsinstitute.org/publications/google-refines-50-state-lobby-strategy-austin-ahlman) (Tier 2) (VERIFIED)
+- ~~[New York Times: Google academic funding and New America (2017)](https://www.nytimes.com/2017/08/30/us/politics/eric-schmidt-google-new-america.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [ProPublica: Stanford and Google privacy research](https://www.propublica.org/article/stanford-promises-not-to-use-google-money-for-privacy-research) (Tier 2) (VERIFIED)
 
 ### Investigative Journalism (UNVERIFIED — need Chrome pass):
 - [Tech Transparency Project: White House FTC Google Probe](https://www.techtransparencyproject.org/articles/white-house-kept-close-tabs-ftc-google-probe) (Tier 2)
 - [Tech Transparency Project: Google's US Revolving Door](https://www.techtransparencyproject.org/articles/googles-revolving-door-us) (Tier 2)
 - [Politico: Google $1M Trump inauguration](https://www.politico.com/live-updates/2025/01/09/congress/google-donation-donald-trump-inauguration-00197233) (Tier 2) (UNVERIFIED)
-- [Politico: Schmidt funds Biden administration jobs](https://www.politico.com/news/2022/12/22/eric-schmidt-joe-biden-administration-00074160) (Tier 2) (UNVERIFIED)
-- [LA Times: Google California lobbying skyrocketed](https://www.latimes.com/california/story/2023-12-19/why-googles-lobbying-in-california-skyrocketed-this-year) (Tier 2)
+- [Politico: Schmidt funds Biden administration jobs](https://www.politico.com/news/2022/12/22/eric-schmidt-joe-biden-administration-00074160) (Tier 2) (VERIFIED) (UNVERIFIED)
+- [LA Times: Google California lobbying skyrocketed](https://www.latimes.com/california/story/2023-12-19/why-googles-lobbying-in-california-skyrocketed-this-year) (Tier 2) (VERIFIED)
 - [CalMatters: California lobbying Q3 2024](https://calmatters.org/category/politics/2024/11/california-lobbying-google-big-oil/) (Tier 2)
 - [The Markup: Google covert privacy bill lobbying](https://themarkup.org/privacy/2025/09/12/google-wasnt-against-this-privacy-bill-officially-behind-the-scenes-it-orchestrated-opposition) (Tier 2)
-- [Transparency International EU: Deep Pockets, Open Doors](https://transparency.eu/wp-content/uploads/2024/10/Deep_pockets_open_doors_report.pdf) (Tier 2)
+- [Transparency International EU: Deep Pockets, Open Doors](https://transparency.eu/wp-content/uploads/2024/10/Deep_pockets_open_doors_report.pdf) (Tier 2) (VERIFIED)
 - [TIME: Google lobbying 2017](https://time.com/5116226/google-lobbying-2017/) (Tier 2) (UNVERIFIED)
 - [Mintz: DOJ drops AI divestiture](https://www.mintz.com/insights-center/viewpoints/54731/2025-03-14-doj-scraps-proposal-require-google-sell-ai-investments) (Tier 2)
 - [IAPP: Pelosi opposes ADPPA](https://iapp.org/news/a/pelosi-rejects-proposed-american-data-privacy-and-protection-act-seeks-new-compromise) (Tier 2)
@@ -430,15 +430,15 @@ Google represents the most advanced form of monopoly power in the vault — one 
 
 ### OpenSecrets PAC Data (UNVERIFIED — standard URL patterns):
 - [OpenSecrets: Google PAC 2024](https://www.opensecrets.org/political-action-committees-pacs/google-inc/C00428623/summary/2024) (Tier 1) (UNVERIFIED)
-- [OpenSecrets: Google PAC 2022](https://www.opensecrets.org/political-action-committees-pacs/google-inc/C00428623/summary/2022) (Tier 1) (UNVERIFIED)
-- [OpenSecrets: Google PAC 2020](https://www.opensecrets.org/political-action-committees-pacs/google-inc/C00428623/summary/2020) (Tier 1) (UNVERIFIED)
-- [OpenSecrets: Google PAC 2018](https://www.opensecrets.org/political-action-committees-pacs/google-inc/C00428623/summary/2018) (Tier 1) (UNVERIFIED)
-- [OpenSecrets: Google PAC 2016](https://www.opensecrets.org/political-action-committees-pacs/google-inc/C00428623/summary/2016) (Tier 1) (UNVERIFIED)
+- [OpenSecrets: Google PAC 2022](https://www.opensecrets.org/political-action-committees-pacs/google-inc/C00428623/summary/2022) (Tier 1) (VERIFIED) (UNVERIFIED)
+- [OpenSecrets: Google PAC 2020](https://www.opensecrets.org/political-action-committees-pacs/google-inc/C00428623/summary/2020) (Tier 1) (VERIFIED) (UNVERIFIED)
+- [OpenSecrets: Google PAC 2018](https://www.opensecrets.org/political-action-committees-pacs/google-inc/C00428623/summary/2018) (Tier 1) (VERIFIED) (UNVERIFIED)
+- [OpenSecrets: Google PAC 2016](https://www.opensecrets.org/political-action-committees-pacs/google-inc/C00428623/summary/2016) (Tier 1) (VERIFIED) (UNVERIFIED)
 - [FEC Receipts: Sundar Pichai donor lookup](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Sundar%20Pichai) (Tier 1) (UNVERIFIED)
 
 ### Secondary:
-- [Ballotpedia: Alphabet Inc political spending](https://ballotpedia.org/Alphabet_Inc.) (Tier 3) (Chrome-verified)
-- [Washington Post: How Google is transforming power and politics (2014)](https://www.washingtonpost.com/politics/how-google-is-transforming-power-and-politicsgoogle-once-disdainful-of-lobbying-now-a-master-of-washington-influence/2014/04/12/51648b92-b4d3-11e3-8cb6-284052554d74_story.html) (Tier 2) (UNVERIFIED)
+- [Ballotpedia: Alphabet Inc political spending](https://ballotpedia.org/Alphabet_Inc.) (Tier 3) (VERIFIED) (Chrome-verified)
+- [Washington Post: How Google is transforming power and politics (2014)](https://www.washingtonpost.com/politics/how-google-is-transforming-power-and-politicsgoogle-once-disdainful-of-lobbying-now-a-master-of-washington-influence/2014/04/12/51648b92-b4d3-11e3-8cb6-284052554d74_story.html) (Tier 2) (VERIFIED) (UNVERIFIED)
 
 ---
 
@@ -453,7 +453,7 @@ Google represents the most advanced form of monopoly power in the vault — one 
 **Notable cases:**
 - Redmond v. United States (2022) — District Court, N.D. California
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Google%20-%20Alphabet%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Google%20-%20Alphabet%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Vehicle Safety (NHTSA)
@@ -471,5 +471,5 @@ Google represents the most advanced form of monopoly power in the vault — one 
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Google%20-%20Alphabet) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Google%20-%20Alphabet) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->

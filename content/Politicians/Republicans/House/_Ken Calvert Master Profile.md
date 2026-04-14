@@ -148,13 +148,13 @@ When progressive members proposed redirecting small portions of the Pentagon bud
 
 ## Sources
 
-- [FEC Candidate: Rep Ken Calvert Donor Profile](https://www.fec.gov/data/candidate/H2CA37023/) (Tier 1)
-- [Defense PAC Contributions, 2024-2025 Cycle](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- [House Appropriations Committee: Defense Subcommittee Composition](https://appropriations.house.gov/subcommittees/defense-0) (Tier 1)
-- [House Appropriations Committee Defense Markup, 2025](https://appropriations.house.gov/news/press-releases) (Tier 1)
-- [CSIS Analysis: F-35 Production and Cost](https://www.csis.org/analysis/f-35-fighter-jet-program-and-future-military-readiness) (Tier 2)
-- [Congressional Budget Office: Defense Budget Analysis](https://www.cbo.gov/publication/59251) (Tier 1)
-- [Lockheed Martin Political Spending Analysis](https://www.opensecrets.org/orgs/lockheed-martin/summary) (Tier 1)
+- [FEC Candidate: Rep Ken Calvert Donor Profile](https://www.fec.gov/data/candidate/H2CA37023/) (Tier 1) (VERIFIED)
+- [Defense PAC Contributions, 2024-2025 Cycle](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
+- [House Appropriations Committee: Defense Subcommittee Composition](https://appropriations.house.gov/subcommittees/defense-0) (Tier 1) (VERIFIED)
+- [House Appropriations Committee Defense Markup, 2025](https://appropriations.house.gov/news/press-releases) (Tier 1) (VERIFIED)
+- ~~[CSIS Analysis: F-35 Production and Cost](https://www.csis.org/analysis/f-35-fighter-jet-program-and-future-military-readiness)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Congressional Budget Office: Defense Budget Analysis](https://www.cbo.gov/publication/59251)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Lockheed Martin Political Spending Analysis](https://www.opensecrets.org/orgs/lockheed-martin/summary)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->
@@ -185,7 +185,7 @@ When progressive members proposed redirecting small portions of the Pentagon bud
 | 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Yea | Passed |
 | 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Yea | Passed |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400057) (Tier 1)
+- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/400057)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:govtrack end -->
 
 ### Campaign Finance (FEC)
@@ -220,7 +220,7 @@ When progressive members proposed redirecting small portions of the Pentagon bud
 | LCV VICTORY FUND | $0 | $918,467 |
 | EDF ACTION VOTES | $0 | $795,808 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2CA37023/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2CA37023/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### DOJ Press Releases

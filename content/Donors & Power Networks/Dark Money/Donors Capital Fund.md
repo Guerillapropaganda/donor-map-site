@@ -135,14 +135,14 @@ Donors Capital Fund is the conservative donor class's anonymity machine. The DAF
 
 ### Sources
 
-- [ProPublica: Donors Capital Fund 990](https://projects.propublica.org/nonprofits/organizations/522087327) (Tier 1)
-- [InfluenceWatch: Donors Capital Fund](https://www.influencewatch.org/non-profit/donors-capital-fund/) (Tier 3)
-- [CMD: 100+ funders of State Policy Network revealed](https://www.exposedbycmd.org/2020/09/21/more-than-100-funders-state-policy-network-revealed/) (Tier 2)
-- [CMD: Dark money conduit funneled $195M in 2024](https://www.exposedbycmd.org/2025/11/21/dark-money-donor-conduit-funneled-195-million-to-right-wing-groups-in-2024/) (Tier 2)
-- [DonorsTrust: Directors and Staff](https://www.donorstrust.org/who-we-are/directors-and-staff/) (Tier 3)
-- [SourceWatch: Donors Capital Fund](https://sourcewatch.org/index.php/Donors_Capital_Fund) (Tier 3)
-- [Mother Jones: DonorsTrust dark money](https://www.motherjones.com/politics/2013/02/donors-trust-donor-capital-fund-dark-money-koch-bradley-devos/) (Tier 2)
-- [DeSmog: Donors Capital Fund](https://www.desmog.com/donors-capital-fund/) (Tier 2)
+- ~~[ProPublica: Donors Capital Fund 990](https://projects.propublica.org/nonprofits/organizations/522087327)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [InfluenceWatch: Donors Capital Fund](https://www.influencewatch.org/non-profit/donors-capital-fund/) (Tier 3) (VERIFIED)
+- ~~[CMD: 100+ funders of State Policy Network revealed](https://www.exposedbycmd.org/2020/09/21/more-than-100-funders-state-policy-network-revealed/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[CMD: Dark money conduit funneled $195M in 2024](https://www.exposedbycmd.org/2025/11/21/dark-money-donor-conduit-funneled-195-million-to-right-wing-groups-in-2024/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [DonorsTrust: Directors and Staff](https://www.donorstrust.org/who-we-are/directors-and-staff/) (Tier 3) (VERIFIED)
+- ~~[SourceWatch: Donors Capital Fund](https://sourcewatch.org/index.php/Donors_Capital_Fund)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [Mother Jones: DonorsTrust dark money](https://www.motherjones.com/politics/2013/02/donors-trust-donor-capital-fund-dark-money-koch-bradley-devos/) (Tier 2) (VERIFIED)
+- [DeSmog: Donors Capital Fund](https://www.desmog.com/donors-capital-fund/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -162,7 +162,7 @@ Donors Capital Fund is the conservative donor class's anonymity machine. The DAF
 - LINK v. CORCORAN (2021) — District Court, N.D. Florida
 - CITY OF HOBOKEN v. EXXON MOBIL CORP. (2020) — District Court, D. New Jersey
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Donors%20Capital%20Fund%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Donors%20Capital%20Fund%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -175,7 +175,7 @@ Donors Capital Fund is the conservative donor class's anonymity machine. The DAF
 | Total Expenses | $505K |
 | Net Assets | $9.5M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 541934032](https://projects.propublica.org/nonprofits/organizations/541934032) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 541934032](https://projects.propublica.org/nonprofits/organizations/541934032) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Tax Filings (IRS 990)
@@ -193,14 +193,14 @@ Donors Capital Fund is the conservative donor class's anonymity machine. The DAF
 **Filing history:** 2023, 2022, 2021, 2020, 2018, 2017, 2016, 2015
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/541934032/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/541934032/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/541934032/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/541934032/2020)
-- [2018 Filing](https://projects.propublica.org/nonprofits/organizations/541934032/2018)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/541934032/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/541934032/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/541934032/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/541934032/2020)~~ (URL broken, archived by Ops)
+- ~~[2018 Filing](https://projects.propublica.org/nonprofits/organizations/541934032/2018)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/541934032) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/541934032) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### SEC Filing Activity
@@ -214,13 +214,13 @@ Donors Capital Fund is the conservative donor class's anonymity machine. The DAF
 
 **Notable filings:**
 
-- 2026-04-07 — **3**: [FORM 3](https://www.sec.gov/Archives/edgar/data/1270131/000210764326000024/0002107643-26-000024-index.htm)
-- 2026-04-02 — **3**: [FORM 3](https://www.sec.gov/Archives/edgar/data/1270131/000212570026000004/0002125700-26-000004-index.htm)
-- 2026-03-09 — **DEF 14A**: [DEF 14A](https://www.sec.gov/Archives/edgar/data/1270131/000119312526098492/0001193125-26-098492-index.htm)
-- 2026-02-13 — **424B3**: [424B3](https://www.sec.gov/Archives/edgar/data/1270131/000119312526050129/0001193125-26-050129-index.htm)
-- 2026-02-11 — **N-CEN**: [N-CEN](https://www.sec.gov/Archives/edgar/data/1270131/000094040026003028/0000940400-26-003028-index.htm)
+- 2026-04-07 — **3**: [FORM 3](https://www.sec.gov/Archives/edgar/data/1270131/000210764326000024/0002107643-26-000024-index.htm) (VERIFIED)
+- 2026-04-02 — **3**: [FORM 3](https://www.sec.gov/Archives/edgar/data/1270131/000212570026000004/0002125700-26-000004-index.htm) (VERIFIED)
+- 2026-03-09 — **DEF 14A**: [DEF 14A](https://www.sec.gov/Archives/edgar/data/1270131/000119312526098492/0001193125-26-098492-index.htm) (VERIFIED)
+- 2026-02-13 — **424B3**: [424B3](https://www.sec.gov/Archives/edgar/data/1270131/000119312526050129/0001193125-26-050129-index.htm) (VERIFIED)
+- 2026-02-11 — **N-CEN**: [N-CEN](https://www.sec.gov/Archives/edgar/data/1270131/000094040026003028/0000940400-26-003028-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Donors%20Capital%20Fund%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Donors%20Capital%20Fund%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Wikipedia
@@ -229,11 +229,11 @@ DonorsTrust is an American nonprofit donor-advised fund that was founded in 1999
 
 | Fact | Value |
 |------|-------|
-| Wikidata ID | [Q17011069](https://www.wikidata.org/wiki/Q17011069) |
+| Wikidata ID | [Q17011069](https://www.wikidata.org/wiki/Q17011069) (VERIFIED) |
 | Description | organization |
 | Founded | 1999-00-00 |
-| Website | [http://www.donorscapitalfund.org](http://www.donorscapitalfund.org) |
+| Website | [http://www.donorscapitalfund.org](http://www.donorscapitalfund.org) (NEEDS REVIEW) |
 
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/DonorsTrust) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q17011069) (Tier 2)
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/DonorsTrust) (Tier 3) (VERIFIED)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q17011069) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->

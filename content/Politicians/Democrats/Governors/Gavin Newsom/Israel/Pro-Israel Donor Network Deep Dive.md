@@ -30,7 +30,7 @@ The organizations that fund and pressure California politicians on Israel policy
 , ADL (Anti-Defamation League), advocacy and legislative drafting role
 , California Legislative Jewish Caucus, legislative mechanism
 
-Newsom uses the AIPAC line to answer a question nobody asked. The question he is not asked, and that his interviewers typically don't follow up on, is about these state-level organizations. [Source: [Times of Israel: AIPAC denial](https://www.timesofisrael.com/gavin-newsom-declares-he-never-has-and-never-will-accept-aipac-funding/). Tier 3]
+Newsom uses the AIPAC line to answer a question nobody asked. The question he is not asked, and that his interviewers typically don't follow up on, is about these state-level organizations. [Source: [Times of Israel: AIPAC denial](https://www.timesofisrael.com/gavin-newsom-declares-he-never-has-and-never-will-accept-aipac-funding/) (VERIFIED). Tier 3]
 
 ---
 
@@ -41,7 +41,7 @@ The state-level analog to AIPAC. JPAC coordinates advocacy on Israel-related Cal
 The 2019 ethnic studies incident is the clearest documented JPAC/institutional pressure pipeline win: within Newsom's first year as governor, Jewish community organizations (JPAC and JCRC aligned) pressured him to kill a draft ethnic studies curriculum that mentioned BDS. He publicly promised it would "never see the light of day" and issued an unconditional apology. [See: [[Early History and Background Ties 2003-2019]]]
 
 ### [[JCRC Bay Area|JCRC Bay Area]]. Jewish Community Relations Council
-When Newsom called Israel "sort of an apartheid state" on a progressive podcast in March 2026, his staff's immediate response was to convene a damage control Zoom call with [[JCRC Bay Area|JCRC Bay Area]] leadership, reassuring them his position hadn't changed. [Source: [J Weekly: Newsom "apartheid" comment](https://jweekly.com/2026/03/06/newsom-apartheid-israel/). Tier 2]
+When Newsom called Israel "sort of an apartheid state" on a progressive podcast in March 2026, his staff's immediate response was to convene a damage control Zoom call with [[JCRC Bay Area|JCRC Bay Area]] leadership, reassuring them his position hadn't changed. [Source: [J Weekly: Newsom "apartheid" comment](https://jweekly.com/2026/03/06/newsom-apartheid-israel/) (VERIFIED). Tier 2]
 
 The fact that the Zoom call happened within days of the statement, that it was with JCRC specifically, and that it was damage control rather than a policy clarification tells you the structural relationship: JCRC is an accountability mechanism he actively manages.
 
@@ -159,11 +159,11 @@ This is the class war frame applied to foreign policy: whose interests are repre
 ---
 
 ### Sources
-- [Times of Israel: AIPAC denial / Ro Khanna](https://www.timesofisrael.com/gavin-newsom-declares-he-never-has-and-never-will-accept-aipac-money/) (Tier 3)
-- [The New Yorker: Haim Saban profile ("The Influencer," 2010)](https://www.newyorker.com/magazine/2010/05/10/the-influencer) (Tier 2)
-- [J Weekly: JCRC Zoom after "apartheid" comment](https://jweekly.com/2026/03/06/newsom-apartheid-israel/) (Tier 2)
-- [Jewish Community Federation: 2008 trip](https://jewishfed.org/news/blog/mayor-newsom-heading-israel-federations-mission) (Tier 1)
-- [OpenSecrets: Haim Saban donor profile](https://www.opensecrets.org/donor-lookup/results?name=haim+saban) (Tier 1)
-- [OpenSecrets: Larry Ellison donor profile](https://www.opensecrets.org/donor-lookup/results?name=larry+ellison) (Tier 1)
-- [FPPC: California campaign finance](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1)
+- ~~[Times of Israel: AIPAC denial / Ro Khanna](https://www.timesofisrael.com/gavin-newsom-declares-he-never-has-and-never-will-accept-aipac-money/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [The New Yorker: Haim Saban profile ("The Influencer," 2010)](https://www.newyorker.com/magazine/2010/05/10/the-influencer) (Tier 2) (VERIFIED)
+- [J Weekly: JCRC Zoom after "apartheid" comment](https://jweekly.com/2026/03/06/newsom-apartheid-israel/) (Tier 2) (VERIFIED)
+- ~~[Jewish Community Federation: 2008 trip](https://jewishfed.org/news/blog/mayor-newsom-heading-israel-federations-mission)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [OpenSecrets: Haim Saban donor profile](https://www.opensecrets.org/donor-lookup/results?name=haim+saban) (Tier 1) (VERIFIED)
+- [OpenSecrets: Larry Ellison donor profile](https://www.opensecrets.org/donor-lookup/results?name=larry+ellison) (Tier 1) (VERIFIED)
+- [FPPC: California campaign finance](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1) (VERIFIED)
 

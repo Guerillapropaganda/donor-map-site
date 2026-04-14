@@ -13,7 +13,7 @@ profiles:
 
 ## 5 takeaways from Trump’s news conference on Iran
 
-**Source:** [The Hill](https://thehill.com/homenews/administration/5818675-trump-threatens-iran-action/)
+**Source:** ~~[The Hill](https://thehill.com/homenews/administration/5818675-trump-threatens-iran-action/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-06
 
 President Trump came to the lectern of the White House briefing room Monday for a lengthy news conference about the war on Iran. Trump, flanked by key allies including Defense Secretary Pete Hegseth, spent much of the first part of the event outlining how an airman who had been forced to eject from a fighter…

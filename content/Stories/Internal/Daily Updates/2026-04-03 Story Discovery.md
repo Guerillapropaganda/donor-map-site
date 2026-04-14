@@ -50,11 +50,11 @@ This is the first major crack in AIPAC's primary-election dominance model. The B
 - American Priorities PAC (NEW, candidate for donor node creation)
 
 ### Sources (UNVERIFIED. Chrome unavailable):
-- [The American Prospect: Special-Interest Super PACs Underperform in Illinois](https://prospect.org/2026/03/18/special-interest-super-pacs-underperform-illinois-democratic-primary-stratton-biss-miller-bean-ford/) (Tier 2) (UNVERIFIED)
-- [The Intercept: Illinois Results. Daniel Biss Beats Kat Abughazaleh](https://theintercept.com/2026/03/17/illinois-house-senate-primary-results-biss-abughazaleh/) (Tier 2) (UNVERIFIED)
-- [NBC News: AIPAC super PAC funded big-spending Illinois groups](https://www.nbcnews.com/politics/2026-election/aipac-super-pac-funded-illinois-groups-democratic-primaries-israel-rcna264379) (Tier 2) (UNVERIFIED)
-- [NBC News: New super PAC launches to counter AIPAC spending](https://www.nbcnews.com/politics/2026-election/new-super-pac-launches-counter-aipac-spending-democratic-primaries-rcna259448) (Tier 2) (UNVERIFIED)
-- [Common Dreams: AIPAC Flops in Illinois](https://www.commondreams.org/news/aipac-spending-illinois) (Tier 3) (UNVERIFIED)
+- [The American Prospect: Special-Interest Super PACs Underperform in Illinois](https://prospect.org/2026/03/18/special-interest-super-pacs-underperform-illinois-democratic-primary-stratton-biss-miller-bean-ford/) (Tier 2) (VERIFIED) (UNVERIFIED)
+- [The Intercept: Illinois Results. Daniel Biss Beats Kat Abughazaleh](https://theintercept.com/2026/03/17/illinois-house-senate-primary-results-biss-abughazaleh/) (Tier 2) (VERIFIED) (UNVERIFIED)
+- [NBC News: AIPAC super PAC funded big-spending Illinois groups](https://www.nbcnews.com/politics/2026-election/aipac-super-pac-funded-illinois-groups-democratic-primaries-israel-rcna264379) (Tier 2) (VERIFIED) (UNVERIFIED)
+- [NBC News: New super PAC launches to counter AIPAC spending](https://www.nbcnews.com/politics/2026-election/new-super-pac-launches-counter-aipac-spending-democratic-primaries-rcna259448) (Tier 2) (VERIFIED) (UNVERIFIED)
+- [Common Dreams: AIPAC Flops in Illinois](https://www.commondreams.org/news/aipac-spending-illinois) (Tier 3) (VERIFIED) (UNVERIFIED)
 
 ---
 
@@ -80,9 +80,9 @@ This is a Donor-Class Override at its most naked, a direct dollar-for-pardon exc
 - [[Cryptocurrency Industry]] (CZ/Binance pardon parallel)
 
 ### Sources (UNVERIFIED. Chrome unavailable):
-- [NBC News: New megadonors with major business before the government back Trump's super PAC](https://www.nbcnews.com/politics/politics-news/new-megadonors-major-business-government-back-trumps-super-pac-rcna252867) (Tier 2) (UNVERIFIED)
-- [Adam Kinzinger: Going Deeper. Trump's Corrupt Pardons, Cash, and Favors](https://www.adamkinzinger.com/p/going-deeper-trumps-corrupt-pardons) (Tier 3) (UNVERIFIED)
-- [Brennan Center: Political Donors Should Not Be Above the Law](https://www.brennancenter.org/our-work/analysis-opinion/political-donors-should-not-be-above-law) (Tier 2) (UNVERIFIED)
+- [NBC News: New megadonors with major business before the government back Trump's super PAC](https://www.nbcnews.com/politics/politics-news/new-megadonors-major-business-government-back-trumps-super-pac-rcna252867) (Tier 2) (VERIFIED) (UNVERIFIED)
+- [Adam Kinzinger: Going Deeper. Trump's Corrupt Pardons, Cash, and Favors](https://www.adamkinzinger.com/p/going-deeper-trumps-corrupt-pardons) (Tier 3) (VERIFIED) (UNVERIFIED)
+- [Brennan Center: Political Donors Should Not Be Above the Law](https://www.brennancenter.org/our-work/analysis-opinion/political-donors-should-not-be-above-law) (Tier 2) (VERIFIED) (UNVERIFIED)
 
 ---
 
@@ -110,10 +110,10 @@ AI super PAC spending is now the second-largest sector-specific political operat
 - Leading the Future PAC (NEW, candidate for Super PAC donor node)
 
 ### Sources (UNVERIFIED. Chrome unavailable):
-- [TechBuzz: AI Super PAC Raises $125M to Shape Midterm Elections](https://www.techbuzz.ai/articles/ai-super-pac-raises-125m-to-shape-midterm-elections) (Tier 3) (UNVERIFIED)
-- [NBC News: White House irked by Leading the Future](https://www.nbcnews.com/politics/trump-administration/white-house-irked-leading-future-new-100m-ai-super-pac-rcna239392) (Tier 2) (UNVERIFIED)
-- [NOTUS: The AI Super PAC Fight That Might Shape the Midterms](https://www.notus.org/2026-election/ai-super-pacs-leading-the-future-public-first-alex-bores) (Tier 2) (UNVERIFIED)
-- [CNBC: AI super PAC putting lobbying war chest to work in midterm elections](https://www.cnbc.com/2026/01/28/ai-laws-tech-lobyying-super-pac-midterm-elections.html) (Tier 2) (UNVERIFIED)
+- [TechBuzz: AI Super PAC Raises $125M to Shape Midterm Elections](https://www.techbuzz.ai/articles/ai-super-pac-raises-125m-to-shape-midterm-elections) (Tier 3) (VERIFIED) (UNVERIFIED)
+- [NBC News: White House irked by Leading the Future](https://www.nbcnews.com/politics/trump-administration/white-house-irked-leading-future-new-100m-ai-super-pac-rcna239392) (Tier 2) (VERIFIED) (UNVERIFIED)
+- [NOTUS: The AI Super PAC Fight That Might Shape the Midterms](https://www.notus.org/2026-election/ai-super-pacs-leading-the-future-public-first-alex-bores) (Tier 2) (VERIFIED) (UNVERIFIED)
+- [CNBC: AI super PAC putting lobbying war chest to work in midterm elections](https://www.cnbc.com/2026/01/28/ai-laws-tech-lobyying-super-pac-midterm-elections.html) (Tier 2) (VERIFIED) (UNVERIFIED)
 
 ---
 
@@ -142,9 +142,9 @@ The tariff exemption apparatus is the purest Donor-Class Override mechanism curr
 - Apple / Tim Cook (inaugural donation → policy return)
 
 ### Sources (UNVERIFIED. Chrome unavailable):
-- [ProPublica: Politically Connected Firms Benefit From Trump Tariff Exemptions](https://www.propublica.org/article/trump-tariffs-exemptions-pet-lobbyists-asbestos-confusion-secrecy) (Tier 2) (UNVERIFIED)
-- [NPR: Trump grants tariff breaks to 'politically connected' companies](https://www.npr.org/2026/02/04/nx-s1-5698264/trump-wyden-van-hollen-tariffs-politically-connected-companies) (Tier 2) (UNVERIFIED)
-- [Jacobin: Donald Trump's Corrupt Tariff Quid Pro Quo](https://jacobin.com/2025/04/tariffs-trump-corruption-trade-war) (Tier 3) (UNVERIFIED)
+- [ProPublica: Politically Connected Firms Benefit From Trump Tariff Exemptions](https://www.propublica.org/article/trump-tariffs-exemptions-pet-lobbyists-asbestos-confusion-secrecy) (Tier 2) (VERIFIED) (UNVERIFIED)
+- [NPR: Trump grants tariff breaks to 'politically connected' companies](https://www.npr.org/2026/02/04/nx-s1-5698264/trump-wyden-van-hollen-tariffs-politically-connected-companies) (Tier 2) (VERIFIED) (UNVERIFIED)
+- [Jacobin: Donald Trump's Corrupt Tariff Quid Pro Quo](https://jacobin.com/2025/04/tariffs-trump-corruption-trade-war) (Tier 3) (VERIFIED) (UNVERIFIED)
 
 ---
 
@@ -166,8 +166,8 @@ The tariff exemption apparatus is the purest Donor-Class Override mechanism curr
 - [[Marc Andreessen & Horowitz|a16z]] (Fairshake + LTF crossover)
 
 ### Sources (UNVERIFIED. Chrome unavailable):
-- [DL News: Crypto lobby has already spent $271m to sway the 2026 elections](https://www.dlnews.com/articles/people-culture/crypto-lobby-spends-usd271m-to-sway-the-2026-elections/) (Tier 3) (UNVERIFIED)
-- [Belfer Center: Crypto-Oligarchy And Its Impact on U.S. Electoral Outcomes](https://www.belfercenter.org/research-analysis/crypto-oligarchy-and-its-impact-us-electoral-outcomes) (Tier 2) (UNVERIFIED)
+- [DL News: Crypto lobby has already spent $271m to sway the 2026 elections](https://www.dlnews.com/articles/people-culture/crypto-lobby-spends-usd271m-to-sway-the-2026-elections/) (Tier 3) (VERIFIED) (UNVERIFIED)
+- [Belfer Center: Crypto-Oligarchy And Its Impact on U.S. Electoral Outcomes](https://www.belfercenter.org/research-analysis/crypto-oligarchy-and-its-impact-us-electoral-outcomes) (Tier 2) (VERIFIED) (UNVERIFIED)
 
 ---
 
@@ -185,7 +185,7 @@ The tariff exemption apparatus is the purest Donor-Class Override mechanism curr
 If the Court strikes down individual contribution limits, the entire super PAC infrastructure becomes irrelevant, donors would simply give directly. This would make the vault's donor-to-politician mapping even more direct but would also eliminate the dark money intermediary layer that currently obscures the money trail.
 
 ### Sources (UNVERIFIED. Chrome unavailable):
-- [PBS News: Republicans challenge limits on campaign donations](https://www.pbs.org/newshour/show/republicans-challenge-limits-on-campaign-donations-in-a-case-before-the-supreme-court) (Tier 2) (UNVERIFIED)
+- [PBS News: Republicans challenge limits on campaign donations](https://www.pbs.org/newshour/show/republicans-challenge-limits-on-campaign-donations-in-a-case-before-the-supreme-court) (Tier 2) (VERIFIED) (UNVERIFIED)
 
 ---
 

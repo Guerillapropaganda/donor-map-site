@@ -225,23 +225,23 @@ Omar's small-dollar model ($1.7M in Q1 2024, 56,022 contributions, $31.79 averag
 ## Sources
 
 ### Verified
-- [Congress.gov: Ilhan Omar member profile](https://www.congress.gov/member/ilhan-omar/O000173) (Tier 1)
-- [FEC Candidate: Ilhan Omar campaign finance summary](https://www.fec.gov/data/candidate/H8MN05239/) (Tier 1)
-- [FEC: Ilhan for Congress committee (C00680934)](https://www.fec.gov/data/committee/C00680934/?tab=summary) (Tier 1)
-- [Omar.house.gov: Statement on Foreign Aid Supplemental Bills](https://omar.house.gov/media/press-releases/rep-omar-statement-foreign-aid-supplemental-bills) (Tier 1)
-- [NPR: House Republicans vote to remove Omar from Foreign Affairs Committee](https://www.npr.org/2023/02/02/1153472237/ilhan-omar-foreign-affairs-committee-vote-republicans-remove) (Tier 2)
-- [CNN: House passes resolution to remove Omar from committees](https://www.cnn.com/2023/02/02/politics/house-vote-ilhan-omar-committees) (Tier 2)
-- [Jewish Insider: United Democracy Project spent $350,000 in Omar race](https://jewishinsider.com/2022/09/don-samuels-ilhan-omar-united-democracy-project-filing/) (Tier 2)
-- [The Intercept: "Zionists for Don Samuels" WhatsApp fundraising group](https://theintercept.com/2024/08/11/ilhan-omar-don-samuels-primary-super-pac-israel/) (Tier 2)
-- [Minnesota Reformer: Samuels fundraising disadvantage analysis](https://minnesotareformer.com/2024/07/16/samuels-undeterred-by-omars-massive-cash-advantage-in-minnesota-congressional-race/) (Tier 2)
-- [Roll Call: House passes Iron Dome funding with Democratic defections](https://rollcall.com/2021/09/23/house-passes-israel-iron-dome-funding-with-some-democratic-defections/) (Tier 2)
-- [Star Tribune: Omar one of few voting no on Iron Dome defense funding](https://www.startribune.com/omar-one-of-few-voting-no-on-iron-dome-defense-funding/600100514) (Tier 2)
-- [Star Tribune: Rep. Ilhan Omar's small-dollar fundraising haul sparks FEC inquiry](https://www.startribune.com/rep-ilhan-omar-s-small-dollar-fundraising-haul-sparks-inquiry-from-fec/566574162) (Tier 2)
-- [CBS News: Hill Harper offered $20M to mount a primary challenge against Rashida Tlaib](https://www.cbsnews.com/detroit/news/hill-harper-said-he-was-offered-20-million-to-mount-a-primary-challenge-against-rep-rashida-tlaib/) (Tier 2)
-- [Middle East Eye: Pro-Israel donors raise hundreds of thousands in last-minute funds to unseat Ilhan Omar](https://www.middleeasteye.net/news/pro-israel-donors-raise-hundreds-thousands-last-minute-funds-oust-ilhan-omar) (Tier 2)
-- [Ilhan for Congress: Q1 2024 fundraising — biggest quarter ever, $1.7M](https://ilhanomar.com/news/congresswoman-ilhan-omar-has-biggest-fundraising-quarter-ever-raising-nearly-1-7-million-in-the-first-quarter-of-2024/) (Tier 3)
-- [Minneapolis Regional Labor Federation: Omar seeks re-election as labor champion](https://minneapolisunions.org/news/mlr-2024-07-27-omar-runs-as-labor-champion) (Tier 3)
-- [Ballotpedia: Ilhan Omar](https://ballotpedia.org/Ilhan_Omar) (Tier 3)
+- [Congress.gov: Ilhan Omar member profile](https://www.congress.gov/member/ilhan-omar/O000173) (Tier 1) (VERIFIED)
+- [FEC Candidate: Ilhan Omar campaign finance summary](https://www.fec.gov/data/candidate/H8MN05239/) (Tier 1) (VERIFIED)
+- [FEC: Ilhan for Congress committee (C00680934)](https://www.fec.gov/data/committee/C00680934/?tab=summary) (Tier 1) (VERIFIED)
+- [Omar.house.gov: Statement on Foreign Aid Supplemental Bills](https://omar.house.gov/media/press-releases/rep-omar-statement-foreign-aid-supplemental-bills) (Tier 1) (VERIFIED)
+- [NPR: House Republicans vote to remove Omar from Foreign Affairs Committee](https://www.npr.org/2023/02/02/1153472237/ilhan-omar-foreign-affairs-committee-vote-republicans-remove) (Tier 2) (VERIFIED)
+- [CNN: House passes resolution to remove Omar from committees](https://www.cnn.com/2023/02/02/politics/house-vote-ilhan-omar-committees) (Tier 2) (VERIFIED)
+- [Jewish Insider: United Democracy Project spent $350,000 in Omar race](https://jewishinsider.com/2022/09/don-samuels-ilhan-omar-united-democracy-project-filing/) (Tier 2) (VERIFIED)
+- [The Intercept: "Zionists for Don Samuels" WhatsApp fundraising group](https://theintercept.com/2024/08/11/ilhan-omar-don-samuels-primary-super-pac-israel/) (Tier 2) (VERIFIED)
+- [Minnesota Reformer: Samuels fundraising disadvantage analysis](https://minnesotareformer.com/2024/07/16/samuels-undeterred-by-omars-massive-cash-advantage-in-minnesota-congressional-race/) (Tier 2) (VERIFIED)
+- [Roll Call: House passes Iron Dome funding with Democratic defections](https://rollcall.com/2021/09/23/house-passes-israel-iron-dome-funding-with-some-democratic-defections/) (Tier 2) (VERIFIED)
+- ~~[Star Tribune: Omar one of few voting no on Iron Dome defense funding](https://www.startribune.com/omar-one-of-few-voting-no-on-iron-dome-defense-funding/600100514)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Star Tribune: Rep. Ilhan Omar's small-dollar fundraising haul sparks FEC inquiry](https://www.startribune.com/rep-ilhan-omar-s-small-dollar-fundraising-haul-sparks-inquiry-from-fec/566574162)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [CBS News: Hill Harper offered $20M to mount a primary challenge against Rashida Tlaib](https://www.cbsnews.com/detroit/news/hill-harper-said-he-was-offered-20-million-to-mount-a-primary-challenge-against-rep-rashida-tlaib/) (Tier 2) (VERIFIED)
+- [Middle East Eye: Pro-Israel donors raise hundreds of thousands in last-minute funds to unseat Ilhan Omar](https://www.middleeasteye.net/news/pro-israel-donors-raise-hundreds-thousands-last-minute-funds-oust-ilhan-omar) (Tier 2) (VERIFIED)
+- [Ilhan for Congress: Q1 2024 fundraising — biggest quarter ever, $1.7M](https://ilhanomar.com/news/congresswoman-ilhan-omar-has-biggest-fundraising-quarter-ever-raising-nearly-1-7-million-in-the-first-quarter-of-2024/) (Tier 3) (VERIFIED)
+- [Minneapolis Regional Labor Federation: Omar seeks re-election as labor champion](https://minneapolisunions.org/news/mlr-2024-07-27-omar-runs-as-labor-champion) (Tier 3) (VERIFIED)
+- [Ballotpedia: Ilhan Omar](https://ballotpedia.org/Ilhan_Omar) (Tier 3) (VERIFIED)
 
 ### Archived
 - ~~[OpenSecrets News: Pro-Israel PACs poised to spend big to unseat progressive Congress members in 2024](https://www.opensecrets.org/news/2023/12/pro-israel-pacs-poised-to-spend-big-to-unseat-progressive-members-of-congress-in-2024-election-cycle/)~~ (was Tier 1, OpenSecrets demoted per Vault Rules 2026-04-09 — use FEC/Jewish Insider sources above for same data)
@@ -278,14 +278,14 @@ Omar's small-dollar model ($1.7M in Q1 2024, 56,022 contributions, $31.79 averag
 | WFP IE COMMITTEE | $161,100 | $0 |
 | NATIONAL NURSES UNITED FOR PATIENT PROTECTION | $155,229 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8MN05239/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8MN05239/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Ilhan Omar](https://www.congress.gov/member/e000179) (Tier 1)
+- ~~[Congress.gov: Ilhan Omar](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 
 
@@ -315,7 +315,7 @@ Omar's small-dollar model ($1.7M in Q1 2024, 56,022 contributions, $31.79 averag
 | 4241 | Syria Sanctions Relief Act | Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
 | 451 | Expressing condemnation for police brutality wherever in the world it occurs. | Referred to the Committee on the Judiciary, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
 
-- [Source: Congress.gov](https://www.congress.gov/member/O000173) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/O000173)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Committee Assignments (Congress.gov)
@@ -330,7 +330,7 @@ Omar's small-dollar model ($1.7M in Q1 2024, 56,022 contributions, $31.79 averag
 - Higher Education and Workforce Development
 - Workforce Protections
 
-- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 ### Campaign Finance Summary (FEC)
@@ -364,13 +364,13 @@ Ilhan Abdullahi Omar is an American politician serving as the U.S. representativ
 
 | Fact | Value |
 |------|-------|
-| Wikidata ID | [Q26436159](https://www.wikidata.org/wiki/Q26436159) |
+| Wikidata ID | [Q26436159](https://www.wikidata.org/wiki/Q26436159) (VERIFIED) |
 | Description | American politician (born 1982) |
 | Born | 1982-10-04 |
-| Website | [https://ilhanomar.com/](https://ilhanomar.com/) |
-| X/Twitter | [@IlhanMN](https://x.com/IlhanMN) |
-| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Ilhan_Omar%2C_official_portrait%2C_116th_Congress.jpg?width=300) |
+| Website | [https://ilhanomar.com/](https://ilhanomar.com/) (VERIFIED) |
+| X/Twitter | [@IlhanMN](https://x.com/IlhanMN) (VERIFIED) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Ilhan_Omar%2C_official_portrait%2C_116th_Congress.jpg?width=300) (NEEDS REVIEW) |
 
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/Ilhan_Omar) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q26436159) (Tier 2)
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Ilhan_Omar) (Tier 3) (VERIFIED)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q26436159) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->

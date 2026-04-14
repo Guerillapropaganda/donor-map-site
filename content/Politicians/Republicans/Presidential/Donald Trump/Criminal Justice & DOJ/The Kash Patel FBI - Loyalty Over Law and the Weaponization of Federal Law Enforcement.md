@@ -15,42 +15,42 @@ donors: [[Save America PAC]] · [[MAGA Inc]]
 
 ### The Pathway: From Nunes Aide to FBI Director in Seven Years
 
-Kash Patel entered Trump's second term as FBI Director after ascending through a predictable pipeline of partisan loyalty. Nunes staffer (2009-2017) to NSC aide (2017-2019) to Deputy Inspector General critic of the FBI (2019-2020) to Trump PAC beneficiary to FBI Director-in-waiting. The Nunes Memo. Patel's 2018 investigation alleging FBI abuse of surveillance authority, became his credential to oversee the FBI itself. [Senate Judiciary Committee: Patel Confirmation Statement](https://www.judiciary.senate.gov/press/dem/releases/durbin-kash-patels-record-shows-he-is-a-dangerous-inexperienced-and-dishonest-trump-loyalist-who-is-not-qualified-to-serve-as-next-fbi-director) (Tier 2)
+Kash Patel entered Trump's second term as FBI Director after ascending through a predictable pipeline of partisan loyalty. Nunes staffer (2009-2017) to NSC aide (2017-2019) to Deputy Inspector General critic of the FBI (2019-2020) to Trump PAC beneficiary to FBI Director-in-waiting. The Nunes Memo. Patel's 2018 investigation alleging FBI abuse of surveillance authority, became his credential to oversee the FBI itself. [Senate Judiciary Committee: Patel Confirmation Statement](https://www.judiciary.senate.gov/press/dem/releases/durbin-kash-patels-record-shows-he-is-a-dangerous-inexperienced-and-dishonest-trump-loyalist-who-is-not-qualified-to-serve-as-next-fbi-director) (Tier 2) (VERIFIED)
 
 ### "Government Gangsters" and the Enemies List
 
-Before his FBI appointment, Patel published "Government Gangsters: The Deep State, the Truth, and the Battle for Our Democracy" (2024). The book functions as a loyalty scoreboard and enemies list. Subjects targeted: FBI leadership under Trump investigations, DOJ officials involved in January 6th prosecution, CIA officials, intelligence community officers who found Russian interference in 2016. The book became a Trump-endorsed roadmap for purges. Patel promised readers "a comprehensive list of names and titles of members of the Executive Branch Deep State." Not policy analysis. Naming and targeting. [Amazon: Government Gangsters](https://www.amazon.com/Government-Gangsters-State-Battle-Democracy/dp/1637588240) (Tier 3)
+Before his FBI appointment, Patel published "Government Gangsters: The Deep State, the Truth, and the Battle for Our Democracy" (2024). The book functions as a loyalty scoreboard and enemies list. Subjects targeted: FBI leadership under Trump investigations, DOJ officials involved in January 6th prosecution, CIA officials, intelligence community officers who found Russian interference in 2016. The book became a Trump-endorsed roadmap for purges. Patel promised readers "a comprehensive list of names and titles of members of the Executive Branch Deep State." Not policy analysis. Naming and targeting. [Amazon: Government Gangsters](https://www.amazon.com/Government-Gangsters-State-Battle-Democracy/dp/1637588240) (Tier 3) (VERIFIED)
 
 > [!quote]
 > "A brilliant roadmap highlighting every corrupt actor, to ultimately return our agencies and departments to work for the American People.". Donald J. Trump endorsement on the book jacket
 
 ### Confirmation Battle and the 51-49 Loyalty Test
 
-The Senate confirmed Patel 51-49 on February 20, 2025. All 49 Democrats opposed. The confirmation battle revealed the core institutional question: Does the FBI serve the law or the President? Patel testified that as FBI Director he would answer to the President. AG nominee Pam Bondi said she would answer to the Constitution and the American people. Senator Coons asked Patel directly if he would resign over illegal directives. Patel refused to answer. This non-answer was the confirmation vote. [NBC News: Patel Confirmation](https://www.nbcnews.com/politics/justice-department/senate-confirms-kash-patel-fbi-director-rcna192842) (Tier 2)
+The Senate confirmed Patel 51-49 on February 20, 2025. All 49 Democrats opposed. The confirmation battle revealed the core institutional question: Does the FBI serve the law or the President? Patel testified that as FBI Director he would answer to the President. AG nominee Pam Bondi said she would answer to the Constitution and the American people. Senator Coons asked Patel directly if he would resign over illegal directives. Patel refused to answer. This non-answer was the confirmation vote. [NBC News: Patel Confirmation](https://www.nbcnews.com/politics/justice-department/senate-confirms-kash-patel-fbi-director-rcna192842) (Tier 2) (VERIFIED)
 
 > [!contradiction]
 > Patel testified he does not ask employees who they voted for and that "the FBI doesn't have loyalty tests." Within weeks, the FBI under his direction began firing agents who had worked on cases against Trump. The contradiction between the oath and the practice is the entire framework.
 
 ### The FBI Purge: What's Been Changed
 
-Under Patel, the FBI has conducted systematic removals of career agents and supervisors. The pattern is transparent: fire those involved in Trump investigations. Specific documented removals include "at least 10 employees involved in the investigation of President Donald Trump's alleged mishandling of classified documents at his Mar-a-Lago estate." Fired agents include "a former Washington office leader overseeing the January 6 investigations, the newly installed acting head of the New York field office, and Miami agents who'd worked on the classified documents case." [CNN: FBI Agents Fired by Patel](https://www.cnn.com/2026/02/25/politics/fbi-agents-fired-classified-documents-kash-patel-toll-records) (Tier 2)
+Under Patel, the FBI has conducted systematic removals of career agents and supervisors. The pattern is transparent: fire those involved in Trump investigations. Specific documented removals include "at least 10 employees involved in the investigation of President Donald Trump's alleged mishandling of classified documents at his Mar-a-Lago estate." Fired agents include "a former Washington office leader overseeing the January 6 investigations, the newly installed acting head of the New York field office, and Miami agents who'd worked on the classified documents case." [CNN: FBI Agents Fired by Patel](https://www.cnn.com/2026/02/25/politics/fbi-agents-fired-classified-documents-kash-patel-toll-records) (Tier 2) (VERIFIED)
 
-The counterintelligence unit targeting Iran (CI-12) was "gutted" in March 2026, with a dozen agents and staff removed. The timing: days before Trump launched Operation Epic Fury bombing strikes that killed Ayatollah Ali Khamenei. Patel's purge disabled the FBI's capacity to analyze Iranian threats while military action proceeded. [CNN: Iran Unit Firings](https://www.cnn.com/2026/03/03/politics/patel-fbi-national-security-division-firings-iran) (Tier 2)
+The counterintelligence unit targeting Iran (CI-12) was "gutted" in March 2026, with a dozen agents and staff removed. The timing: days before Trump launched Operation Epic Fury bombing strikes that killed Ayatollah Ali Khamenei. Patel's purge disabled the FBI's capacity to analyze Iranian threats while military action proceeded. [CNN: Iran Unit Firings](https://www.cnn.com/2026/03/03/politics/patel-fbi-national-security-division-firings-iran) (Tier 2) (VERIFIED)
 
-When unflattering stories broke about Patel's management, allegations of jet misuse, rudderless leadership, insider accusations of jeopardizing investigations, the response was consistent: fire the people involved in the investigation being jeopardized. Pattern documented in four instances: firings occurred "within hours or days of unflattering accounts emerging about him and his competency." [CBS News: Agents Fired](https://www.cbsnews.com/news/fbi-agents-patel-fired-counterintelligence-including-iran/) (Tier 2)
+When unflattering stories broke about Patel's management, allegations of jet misuse, rudderless leadership, insider accusations of jeopardizing investigations, the response was consistent: fire the people involved in the investigation being jeopardized. Pattern documented in four instances: firings occurred "within hours or days of unflattering accounts emerging about him and his competency." [CBS News: Agents Fired](https://www.cbsnews.com/news/fbi-agents-patel-fired-counterintelligence-including-iran/) (Tier 2) (VERIFIED)
 
 ### The Loyalty Test Applied Across Government: Schedule F
 
 Patel operates within a larger framework of loyalty institutionalization. Schedule F, the Trump administration's civil service reform, converts "policy-influencing positions" from merit-based employment to at-will positions explicitly requiring "loyalty" to the President. The Office of Personnel Management hiring rule includes essay questions: "How would you help advance the president's executive orders and policy priorities in this role?" and "Identify one or two relevant executive orders or policy initiatives that are significant to you."
 
-These are not job qualifications. They are loyalty tests. Patel's FBI purges are the proof of concept. [Democracy Forward: Schedule F Challenge](https://democracyforward.org/news/press-releases/schedule-f-042225/) (Tier 2)
+These are not job qualifications. They are loyalty tests. Patel's FBI purges are the proof of concept. [Democracy Forward: Schedule F Challenge](https://democracyforward.org/news/press-releases/schedule-f-042225/) (Tier 2) (VERIFIED)
 
 > [!money]
 > Schedule F conversion removes civil service protections from employees who refuse political loyalty. This is not an accident in administrative structure. It is the mechanism that allows Patel to terminate career agents without cause, without merit review, without any obligation to justify the removal. The institutional protection that Hoover's FBI had against outside pressure becomes the mechanism for inside pressure.
 
 ### The January 6th Investigation Shutdown
 
-Approximately 400 January 6th cases were pending or in pre-charge pipeline when Trump returned to office. The FBI had been systematically prosecuting Capitol rioters, 1,000+ charged, hundreds convicted. Trump pardoned 1,500+ on January 20, 2025. Patel then purged the investigators. Former head of the FBI's New York office James Dennehy was forced out after refusing a request to turn over names of all agents who worked on Capitol riot cases. [Senate Judiciary: Coons vs. Patel](https://www.coons.senate.gov/news/press-releases/senator-coons-grills-fbi-director-kash-patel-over-firing-of-fbi-officers-for-investigations-of-january-6-rioters/) (Tier 2)
+Approximately 400 January 6th cases were pending or in pre-charge pipeline when Trump returned to office. The FBI had been systematically prosecuting Capitol rioters, 1,000+ charged, hundreds convicted. Trump pardoned 1,500+ on January 20, 2025. Patel then purged the investigators. Former head of the FBI's New York office James Dennehy was forced out after refusing a request to turn over names of all agents who worked on Capitol riot cases. [Senate Judiciary: Coons vs. Patel](https://www.coons.senate.gov/news/press-releases/senator-coons-grills-fbi-director-kash-patel-over-firing-of-fbi-officers-for-investigations-of-january-6-rioters/) (Tier 2) (VERIFIED)
 
 The structural impact: 400+ pending cases now have diminished investigative capacity. Victims of violence won't see prosecutions. The Capitol attack becomes historical event, not ongoing criminal investigation. The FBI's institutional capacity to investigate threats to the sitting President is eliminated.
 
@@ -58,7 +58,7 @@ The structural impact: 400+ pending cases now have diminished investigative capa
 
 Patel's consulting company Trishul LLC ($2.1M in 2024) has served foreign clients including Qatar, China (Shein parent company $1-5M stock), and Czech arms interests ($5K+). Trump PACs contributed $544K. Trump Media paid $120K/year. Epoch Times $99K. Books $100K-$1M. Total Trishul revenue across all sources: $2.1M documented.
 
-This creates a conflict of interest structure. Patel runs the FBI while holding financial interests in entities doing business with foreign governments. His clients include countries that should be subjects of FBI counterintelligence investigation. Qatar signed FBI-Qatar security deals in December 2025 after Patel's directorship began. [Kash Patel Master Profile](https://www.notion.so/_Kash_Patel_Master_Profile) (Tier 2)
+This creates a conflict of interest structure. Patel runs the FBI while holding financial interests in entities doing business with foreign governments. His clients include countries that should be subjects of FBI counterintelligence investigation. Qatar signed FBI-Qatar security deals in December 2025 after Patel's directorship began. ~~[Kash Patel Master Profile](https://www.notion.so/_Kash_Patel_Master_Profile)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ### Project 2025 and the FBI Recommendations
 
@@ -86,16 +86,16 @@ Three metrics to watch: (1) January 6th case closure rate (will pending cases be
 
 ### Sources
 
-- [Senate Judiciary Committee: Durbin Statement on Patel](https://www.judiciary.senate.gov/press/dem/releases/durbin-kash-patels-record-shows-he-is-a-dangerous-inexperienced-and-dishonest-trump-loyalist-who-is-not-qualified-to-serve-as-next-fbi-director) (Tier 2)
-- [NBC News: Senate Confirms Kash Patel as FBI Director](https://www.nbcnews.com/politics/justice-department/senate-confirms-kash-patel-fbi-director-rcna192842) (Tier 2)
-- [CNN: FBI Agents Fired for Classified Documents Investigation](https://www.cnn.com/2026/02/25/politics/fbi-agents-fired-classified-documents-kash-patel-toll-records) (Tier 2)
-- [CNN: Patel Gutted Counterintelligence Unit on Iran Days Before Strikes](https://www.cnn.com/2026/03/03/politics/patel-fbi-national-security-division-firings-iran) (Tier 2)
-- [CBS News: Agents Fired Had Iran Counterintelligence Expertise](https://www.cbsnews.com/news/fbi-agents-patel-fired-counterintelligence-including-iran/) (Tier 2)
-- [Amazon: Government Gangsters Book](https://www.amazon.com/Government-Gangsters-State-Battle-Democracy/dp/1637588240) (Tier 3)
-- [Senate Judiciary: Coons Questions Patel on January 6 Firings](https://www.coons.senate.gov/news/press-releases/senator-coons-grills-fbi-director-kash-patel-over-firing-of-fbi-officers-for-investigations-of-january-6-rioters/) (Tier 2)
+- [Senate Judiciary Committee: Durbin Statement on Patel](https://www.judiciary.senate.gov/press/dem/releases/durbin-kash-patels-record-shows-he-is-a-dangerous-inexperienced-and-dishonest-trump-loyalist-who-is-not-qualified-to-serve-as-next-fbi-director) (Tier 2) (VERIFIED)
+- [NBC News: Senate Confirms Kash Patel as FBI Director](https://www.nbcnews.com/politics/justice-department/senate-confirms-kash-patel-fbi-director-rcna192842) (Tier 2) (VERIFIED)
+- [CNN: FBI Agents Fired for Classified Documents Investigation](https://www.cnn.com/2026/02/25/politics/fbi-agents-fired-classified-documents-kash-patel-toll-records) (Tier 2) (VERIFIED)
+- [CNN: Patel Gutted Counterintelligence Unit on Iran Days Before Strikes](https://www.cnn.com/2026/03/03/politics/patel-fbi-national-security-division-firings-iran) (Tier 2) (VERIFIED)
+- [CBS News: Agents Fired Had Iran Counterintelligence Expertise](https://www.cbsnews.com/news/fbi-agents-patel-fired-counterintelligence-including-iran/) (Tier 2) (VERIFIED)
+- [Amazon: Government Gangsters Book](https://www.amazon.com/Government-Gangsters-State-Battle-Democracy/dp/1637588240) (Tier 3) (VERIFIED)
+- [Senate Judiciary: Coons Questions Patel on January 6 Firings](https://www.coons.senate.gov/news/press-releases/senator-coons-grills-fbi-director-kash-patel-over-firing-of-fbi-officers-for-investigations-of-january-6-rioters/) (Tier 2) (VERIFIED)
 - [Democracy Forward: Schedule F Challenge](https://democracyforward.org/news/press-releases/schedule-f-042225/) (Tier 2)
-- [Government Executive: Lynch Demands Loyalty Test Dropped](https://www.govexec.com/workforce/2025/06/lynch-opms-hiring-plan-includes-blatant-loyalty-test/405740/) (Tier 2)
-- [Senate Judiciary: Coons Questions FBI Independence](https://www.coons.senate.gov/news/press-releases/under-questioning-from-senator-coons-fbi-director-nominee-patel-refuses-to-assert-fbis-independence-or-demonstrate-willingness-to-resign-over-illegal-directives/) (Tier 2)
+- [Government Executive: Lynch Demands Loyalty Test Dropped](https://www.govexec.com/workforce/2025/06/lynch-opms-hiring-plan-includes-blatant-loyalty-test/405740/) (Tier 2) (VERIFIED)
+- [Senate Judiciary: Coons Questions FBI Independence](https://www.coons.senate.gov/news/press-releases/under-questioning-from-senator-coons-fbi-director-nominee-patel-refuses-to-assert-fbis-independence-or-demonstrate-willingness-to-resign-over-illegal-directives/) (Tier 2) (VERIFIED)
 
 ---
 

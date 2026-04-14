@@ -202,32 +202,32 @@ The structural function: the Federalist Society converts donor money into judici
 
 ### Sources
 
-- [ProPublica Nonprofit Explorer: Federalist Society 990 filings](https://projects.propublica.org/nonprofits/organizations/363235550) (Tier 1)
-- [OpenSecrets: Federalist Society organizational profile](https://www.opensecrets.org/orgs/federalist-society/summary?id=D000080363) (Tier 1)
-- [Federalist Society: Sheldon Gilbert to Become Next President and CEO](https://fedsoc.org/commentary/fedsoc-blog/sheldon-gilbert-to-become-next-federalist-society-president-and-ceo) (Tier 1)
-- [Ballotpedia: The Federalist Society](https://ballotpedia.org/The_Federalist_Society) (Tier 3)
-- [Wikipedia: Federalist Society](https://en.wikipedia.org/wiki/Federalist_Society) (Tier 3)
-- [ProPublica: We Don't Talk About Leonard. Leo and the Supreme Court Supermajority](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2)
-- [ProPublica: How a Secretive Billionaire Handed His Fortune to Leo (Barre Seid / Marble Freedom Trust)](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (Tier 2)
-- [CREW: Leonard Leo's Firm Rakes In Millions from Dark Money Network](https://www.citizensforethics.org/reports-investigations/crew-investigations/leonard-leos-firm-continues-to-rake-in-millions-from-his-own-dark-money-network/) (Tier 2)
-- [CREW: Leo-Tied Nonprofits Paid His Businesses $90 Million](https://www.citizensforethics.org/reports-investigations/crew-investigations/leonard-leo-tied-nonprofits-businesses-88-million/) (Tier 2)
-- [CMD: DonorsTrust Funneled $134 Million to Right-Wing Groups in 2022](https://www.exposedbycmd.org/2023/11/17/donorstrust-funneled-134-million-to-right-wing-groups-in-2022/) (Tier 2)
-- [Yale Daily News: How the Federalist Society Shaped America's Judiciary](https://yaledailynews.com/blog/2024/11/04/how-the-federalist-society-shaped-americas-judiciary/) (Tier 2)
-- [NBC News: Trump Aims to Build a MAGA Judiciary, Breaking with Traditional Conservatives](https://www.nbcnews.com/politics/trump-administration/trump-aims-build-maga-judiciary-breaking-traditional-conservatives-rcna210785) (Tier 2)
-- [Christian Science Monitor: Trump's Attacks on Federalist Society Signal a Search for MAGA Judges](https://www.csmonitor.com/USA/Justice/2025/0604/trump-leonard-leo-federalist-society) (Tier 2)
-- [Bloomberg Law: Trump's First Judicial Nominees Have Federalist Society Ties](https://news.bloomberglaw.com/us-law-week/trumps-first-judicial-nominees-have-federalist-society-ties) (Tier 2)
-- [Roll Call: Trump's 2025 Saw 26 Lifetime Judicial Nominees Approved](https://rollcall.com/2025/12/30/trumps-2025-saw-26-lifetime-judicial-nominees-approved/) (Tier 2)
-- [Senator Whitehouse: The Third Federalist Society (Scheme Speech)](https://www.whitehouse.senate.gov/news/speeches/the-third-federalist-society/) (Tier 2)
-- [Time: Trump Calls Leo "Sleazebag," Criticizes Federalist Society](https://time.com/7289940/trump-federalist-society-leonard-leo-sleazebag-bad-advice-judges-tariffs/g-bad-advice-judges-tariffs/) (Tier 2)
-- [CNN: Massive Dark Money Donation, $1.6 Billion to Conservative Group](https://www.cnn.com/2022/08/22/politics/dark-money-donation-conservative-group-invs) (Tier 2)
-- [The Leadership Conference: Project 2025 and the Project to Take Over Our Courts](https://civilrights.org/blog/project-2025-and-the-project-to-take-over-our-courts-and-our-rights/) (Tier 3)
-- [The Intercept: Leonard Leo Is Funneling Dark Money Into Law Schools](https://theintercept.com/2024/05/29/leonard-leo-donor-law-schools/) (Tier 2)
-- [The New Republic: Leonard Leo's Extremely Revealing Letter to a Dark-Money Group](https://newrepublic.com/article/186013/leonard-leo-85-fund-revealing-letter-dark-money-group) (Tier 2)
-- [ACS: Dark Money and the Courts. The Right Wing Takeover of the Judiciary](https://www.acslaw.org/analysis/reports/dark-money/) (Tier 2)
-- [Senator Whitehouse: Scheme 18. Leonard Leo's $1.6 Billion Payday](https://www.whitehouse.senate.gov/news/speeches/scheme-18_leonard-leos-16-billion-payday/) (Tier 2)
-- [Courthouse News: House GOP Slams DC Attorney General Investigating Leonard Leo Nonprofits](https://www.courthousenews.com/house-gop-slam-d-c-attorney-general-investigating-leonard-leo-nonprofits/) (Tier 2)
-- [Rolling Stone: Supreme Court Architect Leonard Leo Expands His Dark-Money Operation](https://www.rollingstone.com/politics/politics-features/leonard-leo-dark-money-supreme-court-trump-1234972151/) (Tier 2)
-- [Politico: Trump Goes After Leonard Leo and the Federalist Society in Fury Over Court Ruling (May 29, 2025)](https://www.politico.com/news/2025/05/29/trump-goes-after-leonard-leo-and-the-federalist-society-in-fury-over-court-ruling-00375813) (Tier 2)
+- [ProPublica Nonprofit Explorer: Federalist Society 990 filings](https://projects.propublica.org/nonprofits/organizations/363235550) (Tier 1) (VERIFIED)
+- [OpenSecrets: Federalist Society organizational profile](https://www.opensecrets.org/orgs/federalist-society/summary?id=D000080363) (Tier 1) (VERIFIED)
+- [Federalist Society: Sheldon Gilbert to Become Next President and CEO](https://fedsoc.org/commentary/fedsoc-blog/sheldon-gilbert-to-become-next-federalist-society-president-and-ceo) (Tier 1) (VERIFIED)
+- [Ballotpedia: The Federalist Society](https://ballotpedia.org/The_Federalist_Society) (Tier 3) (VERIFIED)
+- [Wikipedia: Federalist Society](https://en.wikipedia.org/wiki/Federalist_Society) (Tier 3) (VERIFIED)
+- [ProPublica: We Don't Talk About Leonard. Leo and the Supreme Court Supermajority](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2) (VERIFIED)
+- [ProPublica: How a Secretive Billionaire Handed His Fortune to Leo (Barre Seid / Marble Freedom Trust)](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (Tier 2) (VERIFIED)
+- [CREW: Leonard Leo's Firm Rakes In Millions from Dark Money Network](https://www.citizensforethics.org/reports-investigations/crew-investigations/leonard-leos-firm-continues-to-rake-in-millions-from-his-own-dark-money-network/) (Tier 2) (VERIFIED)
+- [CREW: Leo-Tied Nonprofits Paid His Businesses $90 Million](https://www.citizensforethics.org/reports-investigations/crew-investigations/leonard-leo-tied-nonprofits-businesses-88-million/) (Tier 2) (VERIFIED)
+- ~~[CMD: DonorsTrust Funneled $134 Million to Right-Wing Groups in 2022](https://www.exposedbycmd.org/2023/11/17/donorstrust-funneled-134-million-to-right-wing-groups-in-2022/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Yale Daily News: How the Federalist Society Shaped America's Judiciary](https://yaledailynews.com/blog/2024/11/04/how-the-federalist-society-shaped-americas-judiciary/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [NBC News: Trump Aims to Build a MAGA Judiciary, Breaking with Traditional Conservatives](https://www.nbcnews.com/politics/trump-administration/trump-aims-build-maga-judiciary-breaking-traditional-conservatives-rcna210785) (Tier 2) (VERIFIED)
+- [Christian Science Monitor: Trump's Attacks on Federalist Society Signal a Search for MAGA Judges](https://www.csmonitor.com/USA/Justice/2025/0604/trump-leonard-leo-federalist-society) (Tier 2) (VERIFIED)
+- [Bloomberg Law: Trump's First Judicial Nominees Have Federalist Society Ties](https://news.bloomberglaw.com/us-law-week/trumps-first-judicial-nominees-have-federalist-society-ties) (Tier 2) (VERIFIED)
+- [Roll Call: Trump's 2025 Saw 26 Lifetime Judicial Nominees Approved](https://rollcall.com/2025/12/30/trumps-2025-saw-26-lifetime-judicial-nominees-approved/) (Tier 2) (VERIFIED)
+- [Senator Whitehouse: The Third Federalist Society (Scheme Speech)](https://www.whitehouse.senate.gov/news/speeches/the-third-federalist-society/) (Tier 2) (VERIFIED)
+- ~~[Time: Trump Calls Leo "Sleazebag," Criticizes Federalist Society](https://time.com/7289940/trump-federalist-society-leonard-leo-sleazebag-bad-advice-judges-tariffs/g-bad-advice-judges-tariffs/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [CNN: Massive Dark Money Donation, $1.6 Billion to Conservative Group](https://www.cnn.com/2022/08/22/politics/dark-money-donation-conservative-group-invs) (Tier 2) (VERIFIED)
+- [The Leadership Conference: Project 2025 and the Project to Take Over Our Courts](https://civilrights.org/blog/project-2025-and-the-project-to-take-over-our-courts-and-our-rights/) (Tier 3) (VERIFIED)
+- [The Intercept: Leonard Leo Is Funneling Dark Money Into Law Schools](https://theintercept.com/2024/05/29/leonard-leo-donor-law-schools/) (Tier 2) (VERIFIED)
+- [The New Republic: Leonard Leo's Extremely Revealing Letter to a Dark-Money Group](https://newrepublic.com/article/186013/leonard-leo-85-fund-revealing-letter-dark-money-group) (Tier 2) (VERIFIED)
+- [ACS: Dark Money and the Courts. The Right Wing Takeover of the Judiciary](https://www.acslaw.org/analysis/reports/dark-money/) (Tier 2) (VERIFIED)
+- [Senator Whitehouse: Scheme 18. Leonard Leo's $1.6 Billion Payday](https://www.whitehouse.senate.gov/news/speeches/scheme-18_leonard-leos-16-billion-payday/) (Tier 2) (VERIFIED)
+- [Courthouse News: House GOP Slams DC Attorney General Investigating Leonard Leo Nonprofits](https://www.courthousenews.com/house-gop-slam-d-c-attorney-general-investigating-leonard-leo-nonprofits/) (Tier 2) (VERIFIED)
+- [Rolling Stone: Supreme Court Architect Leonard Leo Expands His Dark-Money Operation](https://www.rollingstone.com/politics/politics-features/leonard-leo-dark-money-supreme-court-trump-1234972151/) (Tier 2) (VERIFIED)
+- ~~[Politico: Trump Goes After Leonard Leo and the Federalist Society in Fury Over Court Ruling (May 29, 2025)](https://www.politico.com/news/2025/05/29/trump-goes-after-leonard-leo-and-the-federalist-society-in-fury-over-court-ruling-00375813)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ---
 
@@ -240,10 +240,10 @@ The structural function: the Federalist Society converts donor money into judici
 | Agencies | Federal Trade Commission |
 
 **Recent regulatory activity:**
-- [Motor Vehicle Dealers Trade Regulation Rule](https://www.federalregister.gov/documents/2022/07/13/2022-14214/motor-vehicle-dealers-trade-regulation-rule) (2022-07-13) — Federal Trade Commission
-- [Energy Labeling Rule](https://www.federalregister.gov/documents/2020/04/10/2020-06960/energy-labeling-rule) (2020-04-10) — Federal Trade Commission
+- [Motor Vehicle Dealers Trade Regulation Rule](https://www.federalregister.gov/documents/2022/07/13/2022-14214/motor-vehicle-dealers-trade-regulation-rule) (VERIFIED) (2022-07-13) — Federal Trade Commission
+- ~~[Energy Labeling Rule](https://www.federalregister.gov/documents/2020/04/10/2020-06960/energy-labeling-rule)~~ (URL broken, archived by Ops) (2020-04-10) — Federal Trade Commission
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Federalist%20Society%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Federalist%20Society%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Tax Filings (IRS 990)
@@ -256,5 +256,5 @@ The structural function: the Federalist Society converts donor money into judici
 | IRS Ruling Date | 2017-06-01 |
 | Filings on Record | 0 |
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/815109948) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/815109948) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->

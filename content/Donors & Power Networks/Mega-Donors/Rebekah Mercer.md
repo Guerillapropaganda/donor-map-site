@@ -74,11 +74,11 @@ Long-term institutional control over the conservative movement's infrastructure.
 
 ### Sources
 
-- [CNBC: Mercers weigh 2024 Trump support](https://www.cnbc.com/2024/03/15/rebekah-mercer-trump.html) (Tier 2)
-- [Ballotpedia: Rebekah Mercer](https://ballotpedia.org/Rebekah_Mercer) (Tier 2)
-- [Fortune: Women on Trump transition team](https://fortune.com/2016/11/17/trump-transition-women/) (Tier 2)
-- [NPR: Inside the family funding Bannon's plan](https://www.npr.org/2017/03/22/521083950/inside-the-wealthy-family-that-has-been-funding-steve-bannon-s-plan-for-years) (Tier 2)
-- [CNBC: Mercer family conservative causes](https://www.cnbc.com/2020/11/24/mercer-family-dramatically-scaled-back-giving-to-conservative-causes-heading-into-2020.html) (Tier 2)
+- ~~[CNBC: Mercers weigh 2024 Trump support](https://www.cnbc.com/2024/03/15/rebekah-mercer-trump.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Ballotpedia: Rebekah Mercer](https://ballotpedia.org/Rebekah_Mercer) (Tier 2) (VERIFIED)
+- ~~[Fortune: Women on Trump transition team](https://fortune.com/2016/11/17/trump-transition-women/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [NPR: Inside the family funding Bannon's plan](https://www.npr.org/2017/03/22/521083950/inside-the-wealthy-family-that-has-been-funding-steve-bannon-s-plan-for-years) (Tier 2) (VERIFIED)
+- [CNBC: Mercer family conservative causes](https://www.cnbc.com/2020/11/24/mercer-family-dramatically-scaled-back-giving-to-conservative-causes-heading-into-2020.html) (Tier 2) (VERIFIED)
 
 ---
 
@@ -113,7 +113,7 @@ Long-term institutional control over the conservative movement's infrastructure.
 - 2024-06-10 — **D**: D
 - 2025-01-07 — **425**: FORM 425
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Rebekah%20Mercer%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Rebekah%20Mercer%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Campaign Finance (FEC)
@@ -138,5 +138,5 @@ Long-term institutional control over the conservative movement's infrastructure.
 | WINRED | $28,200 | — |
 | FOUNDERS SENATE CANDIDATE COMMITTEE | $25,000 | — |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Rebekah%20Mercer) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Rebekah%20Mercer) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->

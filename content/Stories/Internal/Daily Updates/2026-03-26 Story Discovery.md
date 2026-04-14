@@ -54,9 +54,9 @@ A separate WaPo analysis (Nov 3, 2025) confirmed the same pattern. Citizens for 
 The ballroom is not a fundraiser. It's a corruption mechanism operating in plain sight. The mechanism: donate to the president's personal real estate project → get enforcement actions against your company suspended → retain federal contracts → repeat. The $960M in combined lobbying and political contributions from these 24 companies over the last election cycle makes the ballroom donations a small marginal investment for enormous regulatory returns. This is the vault's thesis, donor control, manifested as a single, traceable transaction list.
 
 ### Sources (all Chrome-verified VALID):
-- [Public Citizen: Banquet of Greed. Trump Ballroom Donors Feast on Federal Funds and Favors](https://www.citizen.org/article/banquet-of-greed-trump-ballroom-donors-feast-on-federal-funds-and-favors/) (Tier 2)
-- [Public Citizen: Corporate Donors to Trump's White House Ballroom Beset by Conflicts, Received $279 Billion in Government Contracts](https://www.citizen.org/news/corporate-donors-to-trumps-white-house-ballroom-beset-by-conflicts-received-279-billion-in-government-contracts-in-the-past-five-years/) (Tier 2)
-- [Washington Post: Report details ballroom donors' federal contracts, enforcement actions](https://www.washingtonpost.com/politics/2025/11/03/trump-ballroom-donors-contracts-enforcement/) (Tier 2)
+- [Public Citizen: Banquet of Greed. Trump Ballroom Donors Feast on Federal Funds and Favors](https://www.citizen.org/article/banquet-of-greed-trump-ballroom-donors-feast-on-federal-funds-and-favors/) (Tier 2) (VERIFIED)
+- [Public Citizen: Corporate Donors to Trump's White House Ballroom Beset by Conflicts, Received $279 Billion in Government Contracts](https://www.citizen.org/news/corporate-donors-to-trumps-white-house-ballroom-beset-by-conflicts-received-279-billion-in-government-contracts-in-the-past-five-years/) (Tier 2) (VERIFIED)
+- ~~[Washington Post: Report details ballroom donors' federal contracts, enforcement actions](https://www.washingtonpost.com/politics/2025/11/03/trump-ballroom-donors-contracts-enforcement/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 > [!money]
 > 14 of 24 ballroom donors had federal enforcement actions suspended. The causal chain is direct: donate to the president's building → government stops prosecuting your company → government keeps paying your contracts. Total enforcement benefit to donor companies is incalculable; $279B in contracts is just the baseline.
@@ -86,11 +86,11 @@ The Intercept (Dec 30, 2025) documented the broader strategic retreat from open 
 AIPAC's Illinois operation is a case study in how lobby money evolves when it becomes politically toxic to be seen. The organization spent $170M in 2024 openly; in 2026, it's routing the same money through disposable front PACs with anodyne names ("Affordable Chicago Now") that trigger no brand association for voters. The function, purchase Congress members who will vote for unconditional Israel aid, is identical. The delivery mechanism is now designed for deniability. The FEC disclosures that exposed the connection were filed after the election, not before.
 
 ### Sources (all Chrome-verified VALID):
-- [Chicago Tribune: AIPAC funded secretive super PACs in Dem primary, new records show](https://www.chicagotribune.com/2026/03/23/aipac-behind-secretive-pacs-primaries/) (Tier 2)
-- [Sludge: Here Is How Much AIPAC Has Funneled to Every Member of Congress](https://readsludge.com/2026/03/01/here-is-how-much-aipac-has-funneled-to-every-member-of-congress/) (Tier 2)
-- [JNS: AIPAC, other pro-Israel groups enter midterms with $100 million to spend](https://www.jns.org/u.s.-news/aipac-other-pro-israel-groups-enter-midterms-with-100-million-to-spend) (Tier 3)
-- [The Intercept: AIPAC Is Retreating From Endorsements and Election Spending. It Won't Give Up Its Influence.](https://theintercept.com/2025/12/30/aipac-campaigns-elections-israel-congress/) (Tier 2)
-- [NBC News: AIPAC super PAC funded big-spending Illinois groups](https://www.nbcnews.com/politics/2026-election/aipac-super-pac-funded-illinois-groups-democratic-primaries-israel-rcna264379) (Tier 2)
+- [Chicago Tribune: AIPAC funded secretive super PACs in Dem primary, new records show](https://www.chicagotribune.com/2026/03/23/aipac-behind-secretive-pacs-primaries/) (Tier 2) (VERIFIED)
+- [Sludge: Here Is How Much AIPAC Has Funneled to Every Member of Congress](https://readsludge.com/2026/03/01/here-is-how-much-aipac-has-funneled-to-every-member-of-congress/) (Tier 2) (VERIFIED)
+- [JNS: AIPAC, other pro-Israel groups enter midterms with $100 million to spend](https://www.jns.org/u.s.-news/aipac-other-pro-israel-groups-enter-midterms-with-100-million-to-spend) (Tier 3) (VERIFIED)
+- [The Intercept: AIPAC Is Retreating From Endorsements and Election Spending. It Won't Give Up Its Influence.](https://theintercept.com/2025/12/30/aipac-campaigns-elections-israel-congress/) (Tier 2) (VERIFIED)
+- [NBC News: AIPAC super PAC funded big-spending Illinois groups](https://www.nbcnews.com/politics/2026-election/aipac-super-pac-funded-illinois-groups-democratic-primaries-israel-rcna264379) (Tier 2) (VERIFIED)
 
 > [!money]
 > $96M banked by United Democracy Project for 2026 midterms. $5.3M routed through front PACs in Illinois alone, undisclosed until post-election FEC filings. The Intercept confirms this is a deliberate strategy shift: route spending through front groups so recipients can claim they received donations from "donors," not AIPAC. Same money. Different wrapper. The deniability layer is the new product.
@@ -121,7 +121,7 @@ The feedback loop is explicit: donate to the ballroom → get a seat at the tabl
 This is policy-for-access at its most legible. Trump didn't just award contracts to his donors, he let donors write the policy framework that determines who gets contracts. The White House AI Action Plan isn't a government document. It's an industry wishlist that the government adopted. The companies that wrote it then receive federal contracts to implement it. The ballroom donation is the admission fee to the drafting table.
 
 ### Sources (Chrome-verified VALID):
-- [OpenSecrets: Trump ballroom donors poised to benefit from AI plan they helped shape](https://www.opensecrets.org/news/2026/01/trump-ballroom-donors-poised-to-benefit-from-ai-plan-they-helped-shape/) (Tier 1)
+- [OpenSecrets: Trump ballroom donors poised to benefit from AI plan they helped shape](https://www.opensecrets.org/news/2026/01/trump-ballroom-donors-poised-to-benefit-from-ai-plan-they-helped-shape/) (Tier 1) (VERIFIED)
 
 > [!money]
 > Companies donated to ballroom → provided input shaping AI Action Plan via White House solicitation → AI Action Plan adopts their preferred regulatory framework → same companies receive federal AI contracts. The White House AI Action Plan is, in structural terms, a procurement document written by its own vendors.
@@ -146,7 +146,7 @@ The story has a secondary reveal: a senior Trump official later admitted that th
 The March 2026 fundraising email is the explicit statement of what the vault documents implicitly: political access is a product sold to donors. The fact that the product (classified briefings) was fake doesn't undercut the corruption story, it illustrates a system where the president's relationship with donors is purely transactional, and where fabricating the value proposition is an acceptable sales tactic. The real access, enforcement suspension, policy shaping, contract awards, is documented elsewhere. This is the administration openly narrating what it's doing.
 
 ### Sources (Chrome-verified VALID):
-- [CNN: Trump fundraising email uses photo from soldiers' dignified transfer and promises 'private national security briefings'](https://www.cnn.com/2026/03/13/politics/trump-fundraise-email-soldier) (Tier 2)
+- [CNN: Trump fundraising email uses photo from soldiers' dignified transfer and promises 'private national security briefings'](https://www.cnn.com/2026/03/13/politics/trump-fundraise-email-soldier) (Tier 2) (VERIFIED)
 
 > [!contradiction]
 > The administration offered classified briefings to donors as a fundraising incentive. When exposed, an official admitted donors were "duped", the briefings weren't real. The admission of deception is treated as exculpatory. Under any coherent analysis, a president marketing access to classified information to campaign donors, real or fabricated, is the corruption story, not a rebuttal to it.
@@ -172,7 +172,7 @@ The investment return calculus: the private equity industry donated approximatel
 Trump ran on closing carried interest. Private equity donated heavily to his campaign anyway, because the donation is insurance, not enthusiasm. The industry's political investment purchased the outcome regardless of what was said on stage. The loophole's preservation after explicit public promises to close it is a clean example of the vault's core thesis: donors control the outcome, politicians control the rhetoric. The "both sides" dynamic is relevant. Democrats introduce bills to close the loophole every session, take private equity donations in parallel, and the loophole survives every session.
 
 ### Sources (Chrome-verified VALID):
-- [Fortune: GOP tax bill preserves carried interest loophole](https://fortune.com/2025/05/23/president-trump-tax-bill-carried-interest-private-equity-hedge-funds-venture-capital-house-senate/) (Tier 2)
+- [Fortune: GOP tax bill preserves carried interest loophole](https://fortune.com/2025/05/23/president-trump-tax-bill-carried-interest-private-equity-hedge-funds-venture-capital-house-senate/) (Tier 2) (VERIFIED)
 
 > [!money]
 > $600M in private equity donations over a decade → $63B loophole preserved for the next decade. Return on political investment: approximately 100:1. Trump explicitly promised to close it. The promise was rhetorical. The donation was structural. The loophole survived.
@@ -315,12 +315,12 @@ Note from Run 1: Lockheed Martin is also a Trump White House ballroom donor (see
 - Did any Armed Services Committee members who received Lockheed/RTX money vote against the $839B base NDAA?
 
 ### Verified sources (Chrome-confirmed this run):
-- [The Intercept: Pentagon Claims It Needs Additional $200 Billion to Pay for War on Iran](https://theintercept.com/2026/03/19/pentagon-budget-iran-war-hegseth/) (Tier 2)
-- [Washington Post: Pentagon seeks over $200 billion in Iran war supplemental budget request](https://www.washingtonpost.com/national-security/2026/03/18/iran-cost-budget-pentagon/) (Tier 2)
-- [Time: Iran War May Give Defense Contractors $200 Billion Windfall](https://time.com/article/2026/03/19/trump-iran-war-set-to-boost-profits-for-these-defense-contractors/) (Tier 2)
-- [Jacobin: Defense Contractors Stand to Profit Off the Iran War](https://jacobin.com/2026/03/defense-contractors-military-iran-war) (Tier 3)
-- [Responsible Statecraft: Weapons makers cash in on Trump's Iran war](https://responsiblestatecraft.org/iran-war-weapons-stocks/) (Tier 3)
-- [Al Jazeera: Which US and Israeli military companies are profiting from the Iran war?](https://www.aljazeera.com/news/2026/3/9/which-us-and-israeli-military-companies-are-profiting-from-the-iran-war) (Tier 2)
+- [The Intercept: Pentagon Claims It Needs Additional $200 Billion to Pay for War on Iran](https://theintercept.com/2026/03/19/pentagon-budget-iran-war-hegseth/) (Tier 2) (VERIFIED)
+- [Washington Post: Pentagon seeks over $200 billion in Iran war supplemental budget request](https://www.washingtonpost.com/national-security/2026/03/18/iran-cost-budget-pentagon/) (Tier 2) (VERIFIED)
+- [Time: Iran War May Give Defense Contractors $200 Billion Windfall](https://time.com/article/2026/03/19/trump-iran-war-set-to-boost-profits-for-these-defense-contractors/) (Tier 2) (VERIFIED)
+- [Jacobin: Defense Contractors Stand to Profit Off the Iran War](https://jacobin.com/2026/03/defense-contractors-military-iran-war) (Tier 3) (VERIFIED)
+- [Responsible Statecraft: Weapons makers cash in on Trump's Iran war](https://responsiblestatecraft.org/iran-war-weapons-stocks/) (Tier 3) (VERIFIED)
+- [Al Jazeera: Which US and Israeli military companies are profiting from the Iran war?](https://www.aljazeera.com/news/2026/3/9/which-us-and-israeli-military-companies-are-profiting-from-the-iran-war) (Tier 2) (VERIFIED)
 
 ### Vault connections:
 - `_Pete Hegseth Master Profile`, add $200B supplemental request and pre-war production contracts
@@ -350,9 +350,9 @@ The CLARITY Act (broader digital asset market structure) is now advancing in 202
 - Fairshake super PAC full donor list and 2024 spend breakdown (OpenSecrets Tier 1)
 
 ### Verified sources (Chrome-confirmed this run):
-- [CNBC: Senate passes landmark GENIUS Act stablecoin bill](https://www.cnbc.com/2025/06/17/genius-stablecoin-bill-crypto.html) (Tier 2)
-- [CryptoNews: Senator Gillibrand's Role in Stablecoin Regulation – $217,000 in Crypto Donations](https://cryptonews.net/news/legal/30976724/) (Tier 3)
-- [Congress.gov: S.394. GENIUS Act of 2025](https://www.congress.gov/bill/119th-congress/senate-bill/394/text) (Tier 1)
+- [CNBC: Senate passes landmark GENIUS Act stablecoin bill](https://www.cnbc.com/2025/06/17/genius-stablecoin-bill-crypto.html) (Tier 2) (VERIFIED)
+- ~~[CryptoNews: Senator Gillibrand's Role in Stablecoin Regulation – $217,000 in Crypto Donations](https://cryptonews.net/news/legal/30976724/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [Congress.gov: S.394. GENIUS Act of 2025](https://www.congress.gov/bill/119th-congress/senate-bill/394/text) (Tier 1) (VERIFIED)
 
 ### Vault connections:
 - `Tech & Crypto` sector, create Fairshake super PAC node; create/expand Coinbase and Ripple donor nodes
@@ -377,9 +377,9 @@ Context: All but four Democratic lawmakers on the House Energy and Commerce Comm
 > Congress performed populist outrage at "middlemen" while accepting $500K+ from the manufacturers those middlemen serve. The PBM reform bill is calibrated to produce a headline ("we fixed drug pricing") while protecting the industry's actual pricing power. This is the Villain Framing analytical pattern at a structural level: identify a visible intermediary as the enemy, legislate against the intermediary, leave the donor-class source of the problem untouched. The 2028 effective date is the tell, by the time this takes effect, the lawmakers who passed it will have run two more elections on "we fought Big Pharma."
 
 ### Verified sources (Chrome-confirmed this run):
-- [Sidley Austin: Congress Passes Significant Federal Pharmacy Benefit Manager Reform Impacting Pharmaceutical Market Access](https://www.sidley.com/en/insights/newsupdates/2026/02/congress-passes-significant-federal-pharmacy-benefit-manager-reform-impacting-pharmaceutical-market) (Tier 3)
-- [Pharmacy Times: PBM Reform Within 2026 Appropriations Bill Signed Into Law](https://www.pharmacytimes.com/view/pbm-reform-within-2026-appropriations-bill-signed-into-law) (Tier 3)
-- [Rep. Schrier: House lawmakers rip 'middlemen' over high drug prices despite welcoming donations](https://schrier.house.gov/media/in-the-news/house-lawmakers-rip-middlemen-over-high-drug-prices-despite-welcoming-donations) (Tier 1)
+- [Sidley Austin: Congress Passes Significant Federal Pharmacy Benefit Manager Reform Impacting Pharmaceutical Market Access](https://www.sidley.com/en/insights/newsupdates/2026/02/congress-passes-significant-federal-pharmacy-benefit-manager-reform-impacting-pharmaceutical-market) (Tier 3) (VERIFIED)
+- [Pharmacy Times: PBM Reform Within 2026 Appropriations Bill Signed Into Law](https://www.pharmacytimes.com/view/pbm-reform-within-2026-appropriations-bill-signed-into-law) (Tier 3) (VERIFIED)
+- [Rep. Schrier: House lawmakers rip 'middlemen' over high drug prices despite welcoming donations](https://schrier.house.gov/media/in-the-news/house-lawmakers-rip-middlemen-over-high-drug-prices-despite-welcoming-donations) (Tier 1) (VERIFIED)
 
 ### Vault connections:
 - Tammy Baldwin profile. HELP Committee jurisdiction over drug pricing; her pharma donor map should reflect this structure
@@ -402,7 +402,7 @@ The 89-10 vote margin, bipartisan, overwhelming, is the tell. A vote this lopsid
 > A ban that: (1) exempts all but the largest holders, (2) expires automatically in 15 years, (3) doesn't touch existing portfolios, and (4) bundles deregulatory provisions for the development industry is not a structural threat to the real estate donor class. It is a headline. The 89-10 vote confirms that both parties' donor bases can live with it, because neither is actually threatened by it. The Genuine Win + Structural Limit pattern applies: the 350-home threshold is real and does restrict the very largest institutional buyers; the structural limits ensure the restriction doesn't cascade.
 
 ### Verified sources (Chrome-confirmed this run):
-- [NPR: Senate passes bipartisan housing bill targeting large investors and easing regulations](https://www.npr.org/2026/03/12/nx-s1-5742566/senate-bipartisan-housing-bill-investors-ban) (Tier 2)
+- [NPR: Senate passes bipartisan housing bill targeting large investors and easing regulations](https://www.npr.org/2026/03/12/nx-s1-5742566/senate-bipartisan-housing-bill-investors-ban) (Tier 2) (VERIFIED)
 
 ### Vault connections:
 - Real Estate sector, document as Genuine Win + Structural Limit case study
@@ -421,8 +421,8 @@ Ro Khanna co-introduced the Iran War Powers Resolution with Rep. Thomas Massie (
 Analytically: Khanna's anti-war WPR vote is directly contrary to the financial interests of defense contractors in his Silicon Valley donor base, contractors now booking record revenue from the war. His vote either reflects: (a) genuine constituent pressure (significant immigrant communities in CA-17 with regional ties), (b) safe vote positioning since the WPR was going to fail 212-219 regardless, or (c) 2028 presidential/Senate positioning. The vault's Khanna profile needs this documented because it is atypical evidence that complicates a clean donor-capture read.
 
 ### Verified sources (Chrome-confirmed via search result titles, not individually browser-loaded this run):
-- [PBS NewsHour: WATCH: House rejects Iran war powers resolution in narrow vote](https://www.pbs.org/newshour/politics/watch-live-house-expected-to-vote-iran-on-war-powers-resolution) (Tier 2)
-- [House Armed Services Committee Dems: Dem Leadership, Smith, Meeks, Himes, Khanna Announce Iran WPR Vote Next Week](https://democrats-armedservices.house.gov/2026/2/dem-leadership-smith-meeks-himes-khanna-announce-iran-wpr-vote-next-week) (Tier 1)
+- [PBS NewsHour: WATCH: House rejects Iran war powers resolution in narrow vote](https://www.pbs.org/newshour/politics/watch-live-house-expected-to-vote-iran-on-war-powers-resolution) (Tier 2) (VERIFIED)
+- [House Armed Services Committee Dems: Dem Leadership, Smith, Meeks, Himes, Khanna Announce Iran WPR Vote Next Week](https://democrats-armedservices.house.gov/2026/2/dem-leadership-smith-meeks-himes-khanna-announce-iran-wpr-vote-next-week) (Tier 1) (VERIFIED)
 
 ### Vault connections:
 - Ro Khanna master profile, add Iran WPR vote; cross-reference against defense contractor donor profile
@@ -444,11 +444,11 @@ Run 1 captured the AIPAC Illinois spending story pre-results. Final March 18 res
 2-for-4 despite $22M+ in spending. Biss (IL-9 winner) is a Jewish progressive who explicitly blasted AIPAC in his victory speech. The lobby's candidate in that race finished third. AIPAC claimed credit for the two wins and acknowledged losses in the other two.
 
 ### Verified sources (Chrome-confirmed this run):
-- [Axios: AIPAC notches its first real 2026 Democratic primary wins in Illinois](https://www.axios.com/2026/03/18/aipac-illinois-primary-biss-abughazaleh-bean) (Tier 2)
-- [WBEZ: Pro-Israel group's donors and affiliates pour $13.7 million into Chicago-area primaries](https://www.wbez.org/politics/2026/02/27/aipac-pro-israel-groups-chicago-area-democratic-congressional-primaries-miller-conyears-ervin-bean-fine) (Tier 2)
+- ~~[Axios: AIPAC notches its first real 2026 Democratic primary wins in Illinois](https://www.axios.com/2026/03/18/aipac-illinois-primary-biss-abughazaleh-bean)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [WBEZ: Pro-Israel group's donors and affiliates pour $13.7 million into Chicago-area primaries](https://www.wbez.org/politics/2026/02/27/aipac-pro-israel-groups-chicago-area-democratic-congressional-primaries-miller-conyears-ervin-bean-fine) (Tier 2) (VERIFIED)
 - [NBC News: AIPAC super PAC funded big-spending Illinois groups](https://www.nbcnews.com/politics/2026-election/aipac-super-pac-funded-illinois-groups-democratic-primaries-israel-rcna264379) (Tier 2)
-- [The Intercept: AIPAC Stays Out of Illinois Senate Race. Its Donors Back Juliana Stratton](https://theintercept.com/2026/03/12/aipac-illinois-senate-stratton-kelly-krishnamoorthi/) (Tier 2)
-- [American Prospect: Special-Interest Super PACs Underperform in Illinois](https://prospect.org/2026/03/18/special-interest-super-pacs-underperform-illinois-democratic-primary-stratton-biss-miller-bean-ford/) (Tier 2)
+- [The Intercept: AIPAC Stays Out of Illinois Senate Race. Its Donors Back Juliana Stratton](https://theintercept.com/2026/03/12/aipac-illinois-senate-stratton-kelly-krishnamoorthi/) (Tier 2) (VERIFIED)
+- [American Prospect: Special-Interest Super PACs Underperform in Illinois](https://prospect.org/2026/03/18/special-interest-super-pacs-underperform-illinois-democratic-primary-stratton-biss-miller-bean-ford/) (Tier 2) (VERIFIED)
 
 ---
 

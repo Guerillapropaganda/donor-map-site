@@ -42,8 +42,8 @@ Boeing's commercial and military operations in Washington State make the company
 
 ### Sources
 
-- [Congress.gov: Adam Smith member profile](https://www.congress.gov/member/adam-smith/S000510) (Tier 1)
-- [FEC Candidate: Adam Smith campaign finance summary](https://www.fec.gov/data/candidate/S0KS00216/) (Tier 1)
-- [House Armed Services Committee](https://armedservices.house.gov/) (Tier 1)
-- [Ballotpedia: Adam Smith (Washington)](https://ballotpedia.org/Adam_Smith_(Washington)) (Tier 3)
+- ~~[Congress.gov: Adam Smith member profile](https://www.congress.gov/member/adam-smith/S000510)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [FEC Candidate: Adam Smith campaign finance summary](https://www.fec.gov/data/candidate/S0KS00216/) (Tier 1) (VERIFIED)
+- [House Armed Services Committee](https://armedservices.house.gov/) (Tier 1) (VERIFIED)
+- [Ballotpedia: Adam Smith (Washington)](https://ballotpedia.org/Adam_Smith_(Washington) (VERIFIED)) (Tier 3)
 

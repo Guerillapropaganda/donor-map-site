@@ -50,8 +50,8 @@ French Hill. Republican, Arkansas's 2nd District (Little Rock). Chair of the Hou
 
 Career total raised: approximately $6.7 million in the 2024 cycle alone, with the finance, insurance, and real estate sector as his dominant funding base.
 
-- [FEC Candidate: French Hill campaign finance summary](https://www.fec.gov/data/candidate/H4AR02141/) (Tier 1)
-- [FEC: James French Hill candidate overview](https://www.fec.gov/data/candidate/H4AR02141/) (Tier 1)
+- [FEC Candidate: French Hill campaign finance summary](https://www.fec.gov/data/candidate/H4AR02141/) (Tier 1) (VERIFIED)
+- [FEC: James French Hill candidate overview](https://www.fec.gov/data/candidate/H4AR02141/) (Tier 1) (VERIFIED)
 
 ---
 
@@ -73,7 +73,7 @@ French Hill exists to translate Wall Street's regulatory wish list into committe
 ### Top Contributing Industries (Career):
 Finance, insurance, and real estate dominate Hill's fundraising. Securities and investment firms are his single largest industry source, followed by commercial banking and real estate.
 
-- [FEC Candidate: French Hill industries](https://www.fec.gov/data/candidate/H4AR02141/) (Tier 1)
+- [FEC Candidate: French Hill industries](https://www.fec.gov/data/candidate/H4AR02141/) (Tier 1) (VERIFIED)
 
 ### Crypto Industry Surge (2024 Cycle):
 | Donor | Amount | Notes |
@@ -82,7 +82,7 @@ Finance, insurance, and real estate dominate Hill's fundraising. Securities and 
 | Andreessen Horowitz (co-founders + employees) | $32,500 | Major crypto venture capital backing |
 | Cryptocurrency sector collectively | $100,000+ | Estimated total from disclosed donations |
 
-- [ReadSludge: Crypto Ally French Hill to Lead Financial Services Committee](https://readsludge.com/2024/12/31/crypto-ally-french-hill-to-lead-financial-services-committee/) (Tier 2)
+- [ReadSludge: Crypto Ally French Hill to Lead Financial Services Committee](https://readsludge.com/2024/12/31/crypto-ally-french-hill-to-lead-financial-services-committee/) (Tier 2) (VERIFIED)
 
 **Industry Alignment:** Hill's committee jurisdiction over banking, crypto, fintech, and consumer financial protection creates a direct pipeline: the industries he regulates are the industries that fund him. This is not incidental — it is the reason he sought the chairmanship.
 
@@ -105,8 +105,8 @@ Hill's career is a textbook revolving door — except the door never actually cl
 
 He sold Delta Trust to Simmons Bank in 2014 and entered Congress the following year. The man who built and ran a bank now chairs the committee that sets the rules for all banks.
 
-- [Roll Call: When French Hill banked on banking](https://rollcall.com/2021/10/28/when-french-hill-banked-on-banking/) (Tier 2)
-- [House Financial Services Committee: Chairman French Hill biography](https://financialservices.house.gov/about/chairman-french-hill.htm) (Tier 1)
+- [Roll Call: When French Hill banked on banking](https://rollcall.com/2021/10/28/when-french-hill-banked-on-banking/) (Tier 2) (VERIFIED)
+- [House Financial Services Committee: Chairman French Hill biography](https://financialservices.house.gov/about/chairman-french-hill.htm) (Tier 1) (VERIFIED)
 
 ---
 
@@ -133,17 +133,17 @@ He sold Delta Trust to Simmons Bank in 2014 and entered Congress the following y
 ### FIT21 (Financial Innovation and Technology for the 21st Century Act):
 Hill co-authored this legislation, which creates a light-touch regulatory framework for crypto under CFTC/SEC jurisdiction. It passed the House 279–136 in May 2024 with bipartisan support. The framework prioritizes regulatory clarity for crypto platforms over enforcement mechanisms or consumer protection — a "Genuine Win + Structural Limit" pattern. The crypto industry got the legal certainty it wanted; robust consumer safeguards and anti-money-laundering provisions remain secondary.
 
-- [House.gov: Rep. Hill's FIT21 legislation passes the House](https://hill.house.gov/news/documentsingle.aspx?DocumentID=9315) (Tier 1)
+- [House.gov: Rep. Hill's FIT21 legislation passes the House](https://hill.house.gov/news/documentsingle.aspx?DocumentID=9315) (Tier 1) (VERIFIED)
 
 ### CFPB Overdraft Fee Rule Reversal:
 Hill spearheaded the House resolution overturning the CFPB rule that would have capped bank overdraft fees at $5 per transaction. He called the cap "another form of government price controls that hurt consumers." Banks collected $15.5 billion in overdraft fees in 2019; the rule would have saved consumers $5 billion annually. Hill's framing inverts reality — the policy that extracts billions from working families is rebranded as "consumer choice."
 
-- [Arkansas Times: Banker French Hill clears path in Congress for bankers to charge you more](https://arktimes.com/arkansas-blog/2025/02/19/banker-french-hill-clears-path-for-bankers-to-charge-you-more) (Tier 2)
+- [Arkansas Times: Banker French Hill clears path in Congress for bankers to charge you more](https://arktimes.com/arkansas-blog/2025/02/19/banker-french-hill-clears-path-for-bankers-to-charge-you-more) (Tier 2) (VERIFIED)
 
 ### Dodd-Frank Rollback Package:
 Hill's committee passed a 30-bill deregulatory package (26–16) focused on reducing regulatory burden on banks. Hill's framing: "Dodd-Frank was sold to the American people as a sweeping fix to prevent another crisis, yet over time it has become clear that this approach has not delivered as promised for Main Street." The beneficiaries are banking institutions; the "Main Street" framing obscures who profits from deregulation.
 
-- [American Banker: French Hill promises Republican-led bank deregulation](https://www.americanbanker.com/news/french-hill-promises-republican-led-bank-deregulation) (Tier 2)
+- [American Banker: French Hill promises Republican-led bank deregulation](https://www.americanbanker.com/news/french-hill-promises-republican-led-bank-deregulation) (Tier 2) (VERIFIED)
 
 ---
 
@@ -179,15 +179,15 @@ French Hill serves the financial donor class with unusual structural completenes
 
 - [FEC Candidate: French Hill campaign finance summary](https://www.fec.gov/data/candidate/H4AR02141/) (Tier 1)
 - [FEC: James French Hill candidate overview](https://www.fec.gov/data/candidate/H4AR02141/) (Tier 1)
-- [House Financial Services Committee: Chairman French Hill](https://financialservices.house.gov/about/chairman-french-hill.htm) (Tier 1)
+- [House Financial Services Committee: Chairman French Hill](https://financialservices.house.gov/about/chairman-french-hill.htm) (Tier 1) (VERIFIED)
 - [House.gov: Rep. Hill's FIT21 legislation passes the House](https://hill.house.gov/news/documentsingle.aspx?DocumentID=9315) (Tier 1)
 - [ReadSludge: Crypto Ally French Hill to Lead Financial Services Committee](https://readsludge.com/2024/12/31/crypto-ally-french-hill-to-lead-financial-services-committee/) (Tier 2)
 - [Arkansas Times: Banker French Hill clears path in Congress for bankers to charge you more](https://arktimes.com/arkansas-blog/2025/02/19/banker-french-hill-clears-path-for-bankers-to-charge-you-more) (Tier 2)
 - [Roll Call: When French Hill banked on banking](https://rollcall.com/2021/10/28/when-french-hill-banked-on-banking/) (Tier 2)
 - [American Banker: French Hill promises Republican-led bank deregulation](https://www.americanbanker.com/news/french-hill-promises-republican-led-bank-deregulation) (Tier 2)
-- [The Hill: House panels advance crypto oversight-focused Clarity Act](https://thehill.com/policy/technology/5344328-house-panel-advances-crypto-oversight/) (Tier 2)
-- [Benton Courier: Opinion — French Hill: A Bank Lobbyist Pretending to Be a Congressman](https://www.bentoncourier.com/news/opinion-french-hill-a-bank-lobbyist-pretending-to-be-a-congressman/article_6aa117e8-f468-11ef-b27e-434f391f430c.html) (Tier 3)
-- [New South Politics: Arkansas Congressman French Hill career bio and voting record](https://newsouthpolitics.com/arkansas-political-leaders/arkansas-us-senators-and-house-representatives/arkansas-congressman-french-hill-career-bio-voting-record/) (Tier 3)
+- ~~[The Hill: House panels advance crypto oversight-focused Clarity Act](https://thehill.com/policy/technology/5344328-house-panel-advances-crypto-oversight/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Benton Courier: Opinion — French Hill: A Bank Lobbyist Pretending to Be a Congressman](https://www.bentoncourier.com/news/opinion-french-hill-a-bank-lobbyist-pretending-to-be-a-congressman/article_6aa117e8-f468-11ef-b27e-434f391f430c.html) (Tier 3) (VERIFIED)
+- [New South Politics: Arkansas Congressman French Hill career bio and voting record](https://newsouthpolitics.com/arkansas-political-leaders/arkansas-us-senators-and-house-representatives/arkansas-congressman-french-hill-career-bio-voting-record/) (Tier 3) (VERIFIED)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -221,7 +221,7 @@ French Hill serves the financial donor class with unusual structural completenes
 | WOMEN VOTE! | $0 | $1,150,306 |
 | DEFEND AMERICAN JOBS | $1,013,508 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4AR02141/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4AR02141/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (GovTrack)
@@ -240,5 +240,5 @@ French Hill serves the financial donor class with unusual structural completenes
 - H.R. 7180: Countering Captagon and Narcotics Post-Assad Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 21, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 - H.R. 3187: To require the Secretary of Agriculture to convey a parcel of property of the Forest Service to Perry County, Arkansas,  — *This bill passed in the House on December 15, 2025 and goes to the Senate next for consideration.*
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412609) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412609) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->

@@ -38,8 +38,8 @@ Pallone was a principal architect of the Affordable Care Act (2010) and has defe
 
 ### Sources
 
-- [Congress.gov: Frank Pallone member profile](https://www.congress.gov/member/frank-pallone/P000034) (Tier 1)
-- [FEC Candidate: Frank Pallone campaign finance summary](https://www.fec.gov/data/candidate/H8NJ03073/) (Tier 1)
-- [FEC Candidate: Frank Pallone top industries](https://www.fec.gov/data/candidate/H8NJ03073/) (Tier 1)
-- [Ballotpedia: Frank Pallone](https://ballotpedia.org/Frank_Pallone) (Tier 3)
+- ~~[Congress.gov: Frank Pallone member profile](https://www.congress.gov/member/frank-pallone/P000034)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [FEC Candidate: Frank Pallone campaign finance summary](https://www.fec.gov/data/candidate/H8NJ03073/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Frank Pallone top industries](https://www.fec.gov/data/candidate/H8NJ03073/) (Tier 1) (VERIFIED)
+- [Ballotpedia: Frank Pallone](https://ballotpedia.org/Frank_Pallone) (Tier 3) (VERIFIED)
 

@@ -91,9 +91,9 @@ No federal entity has the authority or willingness to enforce financial disclosu
 
 ### Sources
 
-- [Senate Finance Committee. Justice Thomas Did Not Repay Substantial Portion of $267,230 Loan (October 2023)](https://www.finance.senate.gov/chairmans-news/justice-thomas-did-not-repay-substantial-portion-of-267230-loan-finance-committee-investigation-reveals-failed-to-report-forgiven-debt-on-ethics-filings-raising-questions-about-tax-compliance) (Tier 1)
-- [Senate Judiciary Committee. Ethical Crisis at the Supreme Court (December 2024)](https://www.judiciary.senate.gov/press/releases/senate-judiciary-committee-releases-revealing-investigative-report-on-ethical-crisis-at-the-supreme-court) (Tier 1)
-- [ProPublica. Clarence Thomas Didn't Disclose Harlan Crow Real Estate Deal (April 2023)](https://www.propublica.org/article/clarence-thomas-harlan-crow-real-estate-scotus) (Tier 2)
-- [ProPublica. Clarence Thomas Secretly Accepted Luxury Trips From GOP Donor (April 2023)](https://www.propublica.org/article/clarence-thomas-scotus-undisclosed-luxury-travel-gifts-crow) (Tier 2)
-- [ProPublica. Thomas Acknowledges He Should Have Disclosed Free Trips From Crow (August 2023)](https://www.propublica.org/article/clarence-thomas-gift-disclosures-harlan-crow) (Tier 2)
-- [ProPublica. Harlan Crow Provided at Least 3 Previously Undisclosed Private Jet Flights (June 2024)](https://www.propublica.org/article/clarence-thomas-harlan-crow-private-jet-flights-senate-investigation-scotus) (Tier 2)
+- [Senate Finance Committee. Justice Thomas Did Not Repay Substantial Portion of $267,230 Loan (October 2023)](https://www.finance.senate.gov/chairmans-news/justice-thomas-did-not-repay-substantial-portion-of-267230-loan-finance-committee-investigation-reveals-failed-to-report-forgiven-debt-on-ethics-filings-raising-questions-about-tax-compliance) (Tier 1) (VERIFIED)
+- [Senate Judiciary Committee. Ethical Crisis at the Supreme Court (December 2024)](https://www.judiciary.senate.gov/press/releases/senate-judiciary-committee-releases-revealing-investigative-report-on-ethical-crisis-at-the-supreme-court) (Tier 1) (VERIFIED)
+- [ProPublica. Clarence Thomas Didn't Disclose Harlan Crow Real Estate Deal (April 2023)](https://www.propublica.org/article/clarence-thomas-harlan-crow-real-estate-scotus) (Tier 2) (VERIFIED)
+- [ProPublica. Clarence Thomas Secretly Accepted Luxury Trips From GOP Donor (April 2023)](https://www.propublica.org/article/clarence-thomas-scotus-undisclosed-luxury-travel-gifts-crow) (Tier 2) (VERIFIED)
+- [ProPublica. Thomas Acknowledges He Should Have Disclosed Free Trips From Crow (August 2023)](https://www.propublica.org/article/clarence-thomas-gift-disclosures-harlan-crow) (Tier 2) (VERIFIED)
+- [ProPublica. Harlan Crow Provided at Least 3 Previously Undisclosed Private Jet Flights (June 2024)](https://www.propublica.org/article/clarence-thomas-harlan-crow-private-jet-flights-senate-investigation-scotus) (Tier 2) (VERIFIED)

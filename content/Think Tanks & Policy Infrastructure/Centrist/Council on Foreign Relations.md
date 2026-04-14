@@ -244,21 +244,21 @@ The "centrist" or "nonpartisan" label obscures what the class composition reveal
 
 ### Sources
 
-- [ProPublica Nonprofit Explorer: Council on Foreign Relations. IRS 990 data, FY2024 revenue $79.1M, assets $755.5M, EIN 13-1628168](https://projects.propublica.org/nonprofits/organizations/131628168) (Tier 1)
-- [Think Tank Funding Tracker: CFR, $2,445,000 minimum from Pentagon contractors, 3/5 transparency score](https://thinktankfundingtracker.org/think-tank/council-on-foreign-relations/) (Tier 2)
-- [OpenSecrets: Council on Foreign Relations, organization profile, political contributions](https://www.opensecrets.org/orgs/council-on-foreign-relations/summary?id=D000032904) (Tier 1)
-- [CFR: Funding, revenue breakdown, donor policies, corporate membership structure](https://www.cfr.org/funding) (Tier 3)
-- [CFR: Board of Directors, current leadership including Rubenstein, Effron, Froman, Fink, Gorman, Napolitano, Zakaria](https://www.cfr.org/board-directors) (Tier 3)
-- [InfluenceWatch: Council on Foreign Relations, background, funding, controversies, corporate members list](https://www.influencewatch.org/non-profit/council-on-foreign-relations-cfr/) (Tier 3)
-- [Wikipedia: Council on Foreign Relations, history, founding, membership, policy influence overview](https://en.wikipedia.org/wiki/Council_on_Foreign_Relations) (Tier 3)
-- [Wikipedia: Michael Froman, career trajectory, USTR service, Mastercard, CFR presidency](https://en.wikipedia.org/wiki/Michael_Froman) (Tier 3)
-- [Bellingcat: Money Talks. Len Blavatnik and the Council on Foreign Relations (Oct 2019)](https://www.bellingcat.com/news/2019/10/10/money-talks-len-blavatnik-and-the-council-on-foreign-relations/) (Tier 2)
-- [Mother Jones: A Soviet-Born Billionaire Is Buying Influence at US Institutions. Blavatnik $12M CFR controversy](https://www.motherjones.com/politics/2019/10/council-on-foreign-relations-leonard-blavatnik-russia/) (Tier 2)
-- [DOJ: Former Government Official (Sue Mi Terry) Arrested for Acting as Unregistered Agent of South Korean Government (July 2024)](https://www.justice.gov/archives/opa/pr/former-cia-and-white-house-official-sue-mi-terry-arrested-acting-unregistered-agent-south) (Tier 1)
-- [SourceWatch: Council on Foreign Relations, funding documentation, leadership history, Wall Street connections](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Council_on_Foreign_Relations) (Tier 3)
-- [CFR: Former Secretary of Commerce Gina Raimondo Joins CFR as Distinguished Fellow (January 2025)](https://www.cfr.org/articles/former-secretary-commerce-gina-raimondo-joins-cfr-distinguished-fellow) (Tier 3)
-- [CFR: Council on Foreign Relations Announces Michael Froman Will Serve as New President (March 2023)](https://www.cfr.org/articles/council-foreign-relations-announces-michael-froman-will-serve-new-president) (Tier 3)
-- [UPI: Hegseth Cuts Military Ties with Ivy League Schools, Multiple Think Tanks (March 2026)](https://www.upi.com/Top_News/US/2026/03/01/dod-ends-relationships-ivy-league/5671772385928/) (Tier 2)
+- [ProPublica Nonprofit Explorer: Council on Foreign Relations. IRS 990 data, FY2024 revenue $79.1M, assets $755.5M, EIN 13-1628168](https://projects.propublica.org/nonprofits/organizations/131628168) (Tier 1) (VERIFIED)
+- [Think Tank Funding Tracker: CFR, $2,445,000 minimum from Pentagon contractors, 3/5 transparency score](https://thinktankfundingtracker.org/think-tank/council-on-foreign-relations/) (Tier 2) (VERIFIED)
+- [OpenSecrets: Council on Foreign Relations, organization profile, political contributions](https://www.opensecrets.org/orgs/council-on-foreign-relations/summary?id=D000032904) (Tier 1) (VERIFIED)
+- [CFR: Funding, revenue breakdown, donor policies, corporate membership structure](https://www.cfr.org/funding) (Tier 3) (VERIFIED)
+- [CFR: Board of Directors, current leadership including Rubenstein, Effron, Froman, Fink, Gorman, Napolitano, Zakaria](https://www.cfr.org/board-directors) (Tier 3) (VERIFIED)
+- [InfluenceWatch: Council on Foreign Relations, background, funding, controversies, corporate members list](https://www.influencewatch.org/non-profit/council-on-foreign-relations-cfr/) (Tier 3) (VERIFIED)
+- [Wikipedia: Council on Foreign Relations, history, founding, membership, policy influence overview](https://en.wikipedia.org/wiki/Council_on_Foreign_Relations) (Tier 3) (VERIFIED)
+- [Wikipedia: Michael Froman, career trajectory, USTR service, Mastercard, CFR presidency](https://en.wikipedia.org/wiki/Michael_Froman) (Tier 3) (VERIFIED)
+- [Bellingcat: Money Talks. Len Blavatnik and the Council on Foreign Relations (Oct 2019)](https://www.bellingcat.com/news/2019/10/10/money-talks-len-blavatnik-and-the-council-on-foreign-relations/) (Tier 2) (VERIFIED)
+- [Mother Jones: A Soviet-Born Billionaire Is Buying Influence at US Institutions. Blavatnik $12M CFR controversy](https://www.motherjones.com/politics/2019/10/council-on-foreign-relations-leonard-blavatnik-russia/) (Tier 2) (VERIFIED)
+- [DOJ: Former Government Official (Sue Mi Terry) Arrested for Acting as Unregistered Agent of South Korean Government (July 2024)](https://www.justice.gov/archives/opa/pr/former-cia-and-white-house-official-sue-mi-terry-arrested-acting-unregistered-agent-south) (Tier 1) (VERIFIED)
+- ~~[SourceWatch: Council on Foreign Relations, funding documentation, leadership history, Wall Street connections](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Council_on_Foreign_Relations)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [CFR: Former Secretary of Commerce Gina Raimondo Joins CFR as Distinguished Fellow (January 2025)](https://www.cfr.org/articles/former-secretary-commerce-gina-raimondo-joins-cfr-distinguished-fellow) (Tier 3) (VERIFIED)
+- [CFR: Council on Foreign Relations Announces Michael Froman Will Serve as New President (March 2023)](https://www.cfr.org/articles/council-foreign-relations-announces-michael-froman-will-serve-new-president) (Tier 3) (VERIFIED)
+- [UPI: Hegseth Cuts Military Ties with Ivy League Schools, Multiple Think Tanks (March 2026)](https://www.upi.com/Top_News/US/2026/03/01/dod-ends-relationships-ivy-league/5671772385928/) (Tier 2) (VERIFIED)
 
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->
@@ -276,7 +276,7 @@ The "centrist" or "nonpartisan" label obscures what the class composition reveal
 - Harbourview Products International, LLC v. United States of America (2026) — United States Court of International Trade
 - The State of Oregon v. Trump (2026) — United States Court of International Trade
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Council%20on%20Foreign%20Relations%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Council%20on%20Foreign%20Relations%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Tax Filings (IRS 990)
@@ -294,21 +294,21 @@ The "centrist" or "nonpartisan" label obscures what the class composition reveal
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/131628168/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/131628168/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/131628168/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/131628168/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/131628168/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/131628168/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/131628168/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/131628168/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/131628168/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/131628168/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/131628168) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/131628168) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [5493002I685OPNH25F86](https://search.gleif.org/#/record/5493002I685OPNH25F86) |
+| LEI | [5493002I685OPNH25F86](https://search.gleif.org/#/record/5493002I685OPNH25F86) (VERIFIED) |
 | Legal Name | Council on Foreign Relations, Inc. |
 | Jurisdiction | US-NY |
 | Entity Status | ACTIVE |
@@ -316,7 +316,7 @@ The "centrist" or "nonpartisan" label obscures what the class composition reveal
 | Registration | LAPSED |
 | Last Updated | 2025-11-05T20:00:08Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### SEC Filing Activity
@@ -334,7 +334,7 @@ The "centrist" or "nonpartisan" label obscures what the class composition reveal
 - 2017-11-03 — **EX-99.1**: EXHIBIT 99.1
 - 2015-10-15 — **EX-99.1**: EXHIBIT 99.1
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Council%20on%20Foreign%20Relations%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Council%20on%20Foreign%20Relations%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:sec-edgar end -->
 
 ### Federal Register Activity
@@ -348,13 +348,13 @@ The "centrist" or "nonpartisan" label obscures what the class composition reveal
 | Agencies | Centers for Medicare & Medicaid Services, Employment and Training Administration, Health and Human Services Department, Homeland Security Department, Labor Department, National Highway Traffic Safety Administration, Securities and Exchange Commission, Transportation Department +2 more |
 
 **Recent regulatory activity:**
-- [Termination of the Designation of Yemen for Temporary Protected Status](https://www.federalregister.gov/documents/2026/03/03/2026-04179/termination-of-the-designation-of-yemen-for-temporary-protected-status) (2026-03-03) — Homeland Security Department
-- [Employment Authorization Reform for Asylum Applicants](https://www.federalregister.gov/documents/2026/02/23/2026-03595/employment-authorization-reform-for-asylum-applicants) (2026-02-23) — Homeland Security Department ★
-- [Termination of the Designation of Somalia for Temporary Protected Status](https://www.federalregister.gov/documents/2026/01/14/2026-00596/termination-of-the-designation-of-somalia-for-temporary-protected-status) (2026-01-14) — Homeland Security Department
-- [Termination of Family Reunification Parole Processes for Colombians, Cubans, Ecuadorians, Guatemalans, Haitians, Hondurans, and Salvadorans](https://www.federalregister.gov/documents/2025/12/15/2025-22744/termination-of-family-reunification-parole-processes-for-colombians-cubans-ecuadorians-guatemalans) (2025-12-15) — Homeland Security Department
-- [Termination of the Designation of Syria for Temporary Protected Status](https://www.federalregister.gov/documents/2025/09/22/2025-18322/termination-of-the-designation-of-syria-for-temporary-protected-status) (2025-09-22) — Homeland Security Department
-- [Termination of the 2021 Designation of Venezuela for Temporary Protected Status](https://www.federalregister.gov/documents/2025/09/08/2025-17087/termination-of-the-2021-designation-of-venezuela-for-temporary-protected-status) (2025-09-08) — Homeland Security Department
+- [Termination of the Designation of Yemen for Temporary Protected Status](https://www.federalregister.gov/documents/2026/03/03/2026-04179/termination-of-the-designation-of-yemen-for-temporary-protected-status) (VERIFIED) (2026-03-03) — Homeland Security Department
+- [Employment Authorization Reform for Asylum Applicants](https://www.federalregister.gov/documents/2026/02/23/2026-03595/employment-authorization-reform-for-asylum-applicants) (VERIFIED) (2026-02-23) — Homeland Security Department ★
+- [Termination of the Designation of Somalia for Temporary Protected Status](https://www.federalregister.gov/documents/2026/01/14/2026-00596/termination-of-the-designation-of-somalia-for-temporary-protected-status) (VERIFIED) (2026-01-14) — Homeland Security Department
+- [Termination of Family Reunification Parole Processes for Colombians, Cubans, Ecuadorians, Guatemalans, Haitians, Hondurans, and Salvadorans](https://www.federalregister.gov/documents/2025/12/15/2025-22744/termination-of-family-reunification-parole-processes-for-colombians-cubans-ecuadorians-guatemalans) (VERIFIED) (2025-12-15) — Homeland Security Department
+- [Termination of the Designation of Syria for Temporary Protected Status](https://www.federalregister.gov/documents/2025/09/22/2025-18322/termination-of-the-designation-of-syria-for-temporary-protected-status) (VERIFIED) (2025-09-22) — Homeland Security Department
+- [Termination of the 2021 Designation of Venezuela for Temporary Protected Status](https://www.federalregister.gov/documents/2025/09/08/2025-17087/termination-of-the-2021-designation-of-venezuela-for-temporary-protected-status) (VERIFIED) (2025-09-08) — Homeland Security Department
 - ... and 41 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Council%20on%20Foreign%20Relations%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Council%20on%20Foreign%20Relations%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->

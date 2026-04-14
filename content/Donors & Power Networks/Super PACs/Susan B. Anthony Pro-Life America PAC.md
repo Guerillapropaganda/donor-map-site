@@ -47,7 +47,7 @@ Susan B. Anthony Pro-Life America exemplifies single-issue donor power in Americ
 
 ### Sources
 
-- [OpenSecrets: SBA Pro-Life America spending 2024](https://www.opensecrets.org/pacs/super-pacs/2024) (Tier 1)
-- [OpenSecrets: Susan B. Anthony Pro-Life America organizational profile](https://www.opensecrets.org/orgs/susan-b-anthony-list/summary?id=D000029113) (Tier 1)
-- [The Guardian: Anti-abortion PAC political influence](https://www.theguardian.com/us-news/2024/abortion-pac-influence) (Tier 2)
+- ~~[OpenSecrets: SBA Pro-Life America spending 2024](https://www.opensecrets.org/pacs/super-pacs/2024)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Susan B. Anthony Pro-Life America organizational profile](https://www.opensecrets.org/orgs/susan-b-anthony-list/summary?id=D000029113)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[The Guardian: Anti-abortion PAC political influence](https://www.theguardian.com/us-news/2024/abortion-pac-influence)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 

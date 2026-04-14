@@ -73,11 +73,11 @@ As of 2024, approximately 1,360 to 1,400 children separated under zero tolerance
 
 ### Sources
 
-- [American Immigration Council. A Look Back at the Family Separation Policy](https://www.americanimmigrationcouncil.org/report/family-separation-policy/) (Tier 2)
-- [Congressional Research Service. The Trump Administration's Zero Tolerance Immigration Enforcement Policy](https://www.congress.gov/crs-product/R45266) (Tier 1)
-- [PBS NewsHour. How a Trump era policy that separated thousands of migrant families came to pass (2023)](https://www.pbs.org/newshour/show/how-a-trump-era-policy-that-separated-thousands-of-migrant-families-came-to-pass) (Tier 2)
-- [Time Magazine. Nonprofit to Be Paid $458 Million to Detain Migrant Children (2018)](https://time.com/5316722/nonprofit-paid-458-million-trump-administration-detain-migrant-children-family-separation/on-detain-migrant-children-family-separation/) (Tier 2)
-- [Texas Tribune. DOJ drops lawsuit over alleged abuses at migrant shelters (March 2025)](https://www.texastribune.org/2025/03/12/texas-migrant-child-shelters-lawsuit-southwest-key/) (Tier 2)
-- [Human Rights Watch. US Lasting Harm from Family Separation at the Border (December 2024)](https://www.hrw.org/news/2024/12/16/us-lasting-harm-from-family-separation-border) (Tier 2)
-- [NPR. How the Trump White House misled the world about its family separation policy (August 2022)](https://www.npr.org/2022/08/11/1116917364/how-the-trump-white-house-misled-the-world-about-its-family-separation-policy) (Tier 2)
+- [American Immigration Council. A Look Back at the Family Separation Policy](https://www.americanimmigrationcouncil.org/report/family-separation-policy/) (Tier 2) (VERIFIED)
+- ~~[Congressional Research Service. The Trump Administration's Zero Tolerance Immigration Enforcement Policy](https://www.congress.gov/crs-product/R45266)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [PBS NewsHour. How a Trump era policy that separated thousands of migrant families came to pass (2023)](https://www.pbs.org/newshour/show/how-a-trump-era-policy-that-separated-thousands-of-migrant-families-came-to-pass) (Tier 2) (VERIFIED)
+- ~~[Time Magazine. Nonprofit to Be Paid $458 Million to Detain Migrant Children (2018)](https://time.com/5316722/nonprofit-paid-458-million-trump-administration-detain-migrant-children-family-separation/on-detain-migrant-children-family-separation/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Texas Tribune. DOJ drops lawsuit over alleged abuses at migrant shelters (March 2025)](https://www.texastribune.org/2025/03/12/texas-migrant-child-shelters-lawsuit-southwest-key/) (Tier 2) (VERIFIED)
+- ~~[Human Rights Watch. US Lasting Harm from Family Separation at the Border (December 2024)](https://www.hrw.org/news/2024/12/16/us-lasting-harm-from-family-separation-border)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [NPR. How the Trump White House misled the world about its family separation policy (August 2022)](https://www.npr.org/2022/08/11/1116917364/how-the-trump-white-house-misled-the-world-about-its-family-separation-policy) (Tier 2) (VERIFIED)
 

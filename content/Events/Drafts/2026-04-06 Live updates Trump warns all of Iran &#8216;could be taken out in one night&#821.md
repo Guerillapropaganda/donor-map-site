@@ -14,7 +14,7 @@ profiles:
 
 ## Live updates: Trump warns all of Iran ‘could be taken out in one night’ as he sticks to deadline
 
-**Source:** [The Hill](https://thehill.com/homenews/administration/5816939-trump-iran-press-conference/)
+**Source:** ~~[The Hill](https://thehill.com/homenews/administration/5816939-trump-iran-press-conference/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-06
 
 President Trump, along with Defense Secretary Pete Hegseth, Chair of the Joint Chiefs of Staff Gen. Dan Caine, and CIA Director John Ratcliffe, is holding a news conference Monday in the White House briefing room, hours before his deadline for Iran to reopen the Strait of Hormuz. He started by discussing the “historic” rescue of…

@@ -56,7 +56,7 @@ Meta is the 8th-largest lobbying spender in America — higher than Google, high
 
 Meta's political operation has undergone the most dramatic realignment of any tech company. After banning Trump from Facebook following January 6, Zuckerberg calculated that restoring the relationship was cheaper than fighting a hostile administration with FTC authority. The $1 million inaugural donation, the elimination of fact-checking programs, and the Content Policy overhaul (reducing content moderation) were the political price of regulatory détente.
 
-- [OpenSecrets: Meta Platforms organizational profile — 2024 cycle](https://www.opensecrets.org/orgs/meta-platforms/summary?id=D000033563) (Tier 1) (Chrome-verified)
+- [OpenSecrets: Meta Platforms organizational profile — 2024 cycle](https://www.opensecrets.org/orgs/meta-platforms/summary?id=D000033563) (Tier 1) (VERIFIED) (Chrome-verified)
 
 ---
 
@@ -191,7 +191,7 @@ Meta's 82-85% revolving door rate is among the highest in corporate America. The
 > Meta spent $24.4 million on federal lobbying in 2024 plus $65 million on state-level super PACs = $89.4 million total political deployment. This protects a business that generates $134 billion in annual revenue. The lobbying-to-revenue ratio (0.067%) means Meta spends less than one-tenth of one percent of its revenue on political protection. The FTC case threatening Instagram divestiture alone threatens $100+ billion in asset value. The $89.4M is insurance on a $100B+ asset — a premium of less than 0.1%.
 
 - [OpenSecrets: Meta Platforms organizational profile — 2024 cycle](https://www.opensecrets.org/orgs/meta-platforms/summary?id=D000033563) (Tier 1) (Chrome-verified)
-- [Senate LDA Filings: Meta Platforms lobbying profile](https://lda.gov/filings/public/filing/search/) (Tier 1) (Chrome-verified)
+- [Senate LDA Filings: Meta Platforms lobbying profile](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED) (Chrome-verified)
 
 ---
 
@@ -290,34 +290,34 @@ Meta is the vault's clearest case of surveillance capitalism — a business mode
 
 ### FEC & OpenSecrets (Chrome-verified):
 - [OpenSecrets: Meta Platforms organizational profile — 2024 cycle](https://www.opensecrets.org/orgs/meta-platforms/summary?id=D000033563) (Tier 1)
-- [Senate LDA Filings: Meta Platforms lobbying profile — 2024](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [OpenSecrets: Meta PAC profile — C00502906](https://www.opensecrets.org/political-action-committees-pacs/meta/C00502906/summary/2024) (Tier 1) (UNVERIFIED)
-- [Senate LDA Filings: Section 230 lobbying breakdown — $59M Meta spend (2020-2023)](https://lda.gov/filings/public/filing/search/) (Tier 1) (UNVERIFIED)
+- [Senate LDA Filings: Meta Platforms lobbying profile — 2024](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [OpenSecrets: Meta PAC profile — C00502906](https://www.opensecrets.org/political-action-committees-pacs/meta/C00502906/summary/2024) (Tier 1) (VERIFIED) (UNVERIFIED)
+- [Senate LDA Filings: Section 230 lobbying breakdown — $59M Meta spend (2020-2023)](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED) (UNVERIFIED)
 
 ### Government & Legal:
-- [FTC: FTC v. Meta Platforms case documents](https://www.ftc.gov/legal-library/browse/cases-proceedings/191-0134-facebook-inc-ftc-v-ftc-v-meta-platforms-inc-ftc-v-meta-platforms-inc) (Tier 1) (Chrome-verified — redirected URL)
-- [FTC Press Release: $5 billion fine and 20-year compliance order (July 2019)](https://www.ftc.gov/news-events/news/press-releases/2019/07/ftc-imposes-5-billion-penalty-sweeping-new-privacy-restrictions-facebook) (Tier 1) (UNVERIFIED)
-- [Sullivan & Cromwell: FTC Antitrust Case — Judge Boasberg Ruling Analysis](https://www.sullcrom.com/) (Tier 2)
-- [TechPolicy.Press: FTC Antitrust Tracker — Meta case status](https://www.techpolicy.press/) (Tier 2)
+- ~~[FTC: FTC v. Meta Platforms case documents](https://www.ftc.gov/legal-library/browse/cases-proceedings/191-0134-facebook-inc-ftc-v-ftc-v-meta-platforms-inc-ftc-v-meta-platforms-inc)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1) (Chrome-verified — redirected URL)
+- [FTC Press Release: $5 billion fine and 20-year compliance order (July 2019)](https://www.ftc.gov/news-events/news/press-releases/2019/07/ftc-imposes-5-billion-penalty-sweeping-new-privacy-restrictions-facebook) (Tier 1) (VERIFIED) (UNVERIFIED)
+- [Sullivan & Cromwell: FTC Antitrust Case — Judge Boasberg Ruling Analysis](https://www.sullcrom.com/) (Tier 2) (VERIFIED)
+- [TechPolicy.Press: FTC Antitrust Tracker — Meta case status](https://www.techpolicy.press/) (Tier 2) (VERIFIED)
 
 ### Investigative Journalism:
-- [Yahoo Finance/Bloomberg: Meta's next political bet on AI will be at the state level](https://finance.yahoo.com/news/metas-next-political-bet-ai-144148602.html) (Tier 2)
-- [Common Dreams: Meta drops $65M on super PACs to back pro-AI candidates](https://www.commondreams.org/news/meta-super-pacs-ai) (Tier 2)
-- [Chicago Tribune: Meta set to spend $750K backing Illinois statehouse candidates](https://www.chicagotribune.com/2026/03/05/meta-pac-illinois-statehouse-races/) (Tier 2)
-- [The Texan: Super PAC owned by Meta spends big in Texas primaries](https://thetexan.news/elections/2026/super-pac-owned-by-facebook-parent-company-meta-spends-big-in-texas-primaries/article_fe81d073-e085-449d-ae0b-278f86fcbcb9.html) (Tier 2)
-- [Fox Business: Meta launches California super PAC to support pro-AI policy candidates](https://www.foxbusiness.com/politics/meta-launches-california-super-pac-support-pro-ai-policy-candidates-amid-regulatory-concerns) (Tier 2)
-- [Public Citizen: $1.1 billion in big tech political spending fuels attacks on state AI laws](https://www.citizen.org/news/1-1-billion-in-big-tech-political-spending-fuels-attacks-on-state-ai-laws/) (Tier 2)
-- [Issue One: Big Tech cozies up to new administration after spending record sums on lobbying](https://issueone.org/articles/big-tech-spent-record-sums-on-lobbying-last-year/) (Tier 2) (Chrome-verified)
-- [Issue One: Revolving Door Statistics — Government Service in Tech Lobbying](https://issueone.org/) (Tier 2)
-- [CNN: Senator Elizabeth Warren on Joel Kaplan and Meta lobbying growth](https://www.cnn.com/) (Tier 2)
-- [Politico: Frances Haugen whistleblower and Meta lobbying response](https://www.politico.com/) (Tier 2) (UNVERIFIED)
-- [CalMatters: Meta California lobbying spending 2025](https://calmatters.org/) (Tier 2)
-- [Bloomberg Gov: California lobbying records — Meta state spending](https://www.bloomberggov.com/) (Tier 2)
-- [CNBC: Meta lobbying records and state-level operations](https://www.cnbc.com/) (Tier 2)
-- [AdExchanger: ADPPA front groups and Meta lobbying infrastructure](https://www.adexchanger.com/) (Tier 2)
+- [Yahoo Finance/Bloomberg: Meta's next political bet on AI will be at the state level](https://finance.yahoo.com/news/metas-next-political-bet-ai-144148602.html) (Tier 2) (VERIFIED)
+- [Common Dreams: Meta drops $65M on super PACs to back pro-AI candidates](https://www.commondreams.org/news/meta-super-pacs-ai) (Tier 2) (VERIFIED)
+- [Chicago Tribune: Meta set to spend $750K backing Illinois statehouse candidates](https://www.chicagotribune.com/2026/03/05/meta-pac-illinois-statehouse-races/) (Tier 2) (VERIFIED)
+- [The Texan: Super PAC owned by Meta spends big in Texas primaries](https://thetexan.news/elections/2026/super-pac-owned-by-facebook-parent-company-meta-spends-big-in-texas-primaries/article_fe81d073-e085-449d-ae0b-278f86fcbcb9.html) (Tier 2) (VERIFIED)
+- [Fox Business: Meta launches California super PAC to support pro-AI policy candidates](https://www.foxbusiness.com/politics/meta-launches-california-super-pac-support-pro-ai-policy-candidates-amid-regulatory-concerns) (Tier 2) (VERIFIED)
+- [Public Citizen: $1.1 billion in big tech political spending fuels attacks on state AI laws](https://www.citizen.org/news/1-1-billion-in-big-tech-political-spending-fuels-attacks-on-state-ai-laws/) (Tier 2) (VERIFIED)
+- [Issue One: Big Tech cozies up to new administration after spending record sums on lobbying](https://issueone.org/articles/big-tech-spent-record-sums-on-lobbying-last-year/) (Tier 2) (VERIFIED) (Chrome-verified)
+- [Issue One: Revolving Door Statistics — Government Service in Tech Lobbying](https://issueone.org/) (Tier 2) (VERIFIED)
+- [CNN: Senator Elizabeth Warren on Joel Kaplan and Meta lobbying growth](https://www.cnn.com/) (Tier 2) (VERIFIED)
+- ~~[Politico: Frances Haugen whistleblower and Meta lobbying response](https://www.politico.com/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- [CalMatters: Meta California lobbying spending 2025](https://calmatters.org/) (Tier 2) (VERIFIED)
+- ~~[Bloomberg Gov: California lobbying records — Meta state spending](https://www.bloomberggov.com/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[CNBC: Meta lobbying records and state-level operations](https://www.cnbc.com/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [AdExchanger: ADPPA front groups and Meta lobbying infrastructure](https://www.adexchanger.com/) (Tier 2) (VERIFIED)
 
 ### Secondary:
-- [Ballotpedia: Meta Platforms political spending](https://ballotpedia.org/Meta_Platforms) (Tier 3)
+- [Ballotpedia: Meta Platforms political spending](https://ballotpedia.org/Meta_Platforms) (Tier 3) (VERIFIED)
 
 ---
 
@@ -348,7 +348,7 @@ Meta is the vault's clearest case of surveillance capitalism — a business mode
 - 2023-07-18 — **EX-99.1**: EXHIBIT 99.1
 - 2023-08-03 — **EX-99.1**: EXHIBIT 99.1
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Meta%20-%20Facebook%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Meta%20-%20Facebook%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Lobbying Activity
@@ -367,7 +367,7 @@ Meta is the vault's clearest case of surveillance capitalism — a business mode
 
 **Agencies contacted:** Commerce, Dept of (DOC), Commodity Futures Trading Commission (CFTC), Defense, Dept of (DOD), Director of National Intelligence (ODNI), Education, Dept of, Energy, Dept of, Environmental Protection Agency (EPA), Export-Import Bank of the United States (EXIM Bank), Federal Communications Commission (FCC), Federal Trade Commission (FTC) +16 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Meta%20-%20Facebook) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Meta%20-%20Facebook) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

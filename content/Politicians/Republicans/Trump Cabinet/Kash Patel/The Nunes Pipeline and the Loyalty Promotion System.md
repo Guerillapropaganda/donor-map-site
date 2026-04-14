@@ -69,8 +69,8 @@ Fired officials filed suit in September 2025, claiming "improper acts of politic
 
 ### Sources
 
-- [NPR: How Kash Patel is roiling the DOJ and changing the mission of the FBI](https://www.npr.org/2025/11/19/nx-s1-5613347/how-kash-patel-is-roiling-the-departme-and-changing-the-mission-of-the-fbi) (Tier 2)
-- [CNN: People on Kash Patel's 'enemies list' taking drastic steps for protection before FBI takeover](https://www.cnn.com/2025/01/30/politics/kash-patel-critics-fbi-takeover/index.html) (Tier 2)
-- [Axios: FBI agents rip Kash Patel's firings as 'erratic and arbitrary retribution'](https://www.axios.com/2025/11/04/kash-patel-fbi-firings-agents-respond) (Tier 2)
-- [CNN: Kash Patel gutted FBI counterintelligence team tracking Iranian threats days before U.S. strikes](https://www.cnn.com/2026/03/03/politics/patel-fbi-national-security-division-firings-iran) (Tier 2)
+- [NPR: How Kash Patel is roiling the DOJ and changing the mission of the FBI](https://www.npr.org/2025/11/19/nx-s1-5613347/how-kash-patel-is-roiling-the-departme-and-changing-the-mission-of-the-fbi) (Tier 2) (VERIFIED)
+- [CNN: People on Kash Patel's 'enemies list' taking drastic steps for protection before FBI takeover](https://www.cnn.com/2025/01/30/politics/kash-patel-critics-fbi-takeover/index.html) (Tier 2) (VERIFIED)
+- ~~[Axios: FBI agents rip Kash Patel's firings as 'erratic and arbitrary retribution'](https://www.axios.com/2025/11/04/kash-patel-fbi-firings-agents-respond)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [CNN: Kash Patel gutted FBI counterintelligence team tracking Iranian threats days before U.S. strikes](https://www.cnn.com/2026/03/03/politics/patel-fbi-national-security-division-firings-iran) (Tier 2) (VERIFIED)
 

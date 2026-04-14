@@ -89,13 +89,13 @@ The DOJ investigation is currently the only external accountability mechanism wi
 ---
 
 ### Sources
-- [California DOJ, press release, investigation announcement](https://oag.ca.gov/news/press-releases/attorney-general-bonta-launches-civil-rights-investigation-riverside-county) (Tier 1)
-- [KESQ. AG investigation, Bianco response](https://kesq.com/news/2023/02/23/ag-rob-bonta-opens-investigation-into-riverside-county-sheriffs-dept-bianco-calls-it-a-political-stunt/) (Tier 2)
-- [LAist, investigation focus areas](https://laist.com/news/criminal-justice/ca-attorney-general-investigating-riverside-sheriffs-department-focusing-on-jail-deaths-use-of-force) (Tier 2)
-- [Press Enterprise, critics welcome investigation](https://www.pressenterprise.com/2023/02/24/critics-of-riverside-county-sheriff-welcome-attorney-general-investigation/) (Tier 2)
-- [ACLU SoCal. AG investigation call](https://www.aclusocal.org/en/press-releases/ca-attorney-general-called-upon-investigate-riverside-sheriffs-dept/) (Tier 2)
-- [California Government Code § 12525](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=12525&lawCode=GOV) (Tier 1)
-- [California DOJ. Bakersfield stipulated judgment](https://oag.ca.gov/news/press-releases/attorney-general-bonta-announces-stipulated-judgment-bakersfield-police) (Tier 1)
-- [Harvard Kennedy School. LAPD consent decree research](https://www.hks.harvard.edu/publications/policing-los-angeles-under-consent-decree-dynamics-change-lapd) (Tier 1)
-- [Vera Institute, consent decree overview](https://www.vera.org/news/everything-you-need-to-know-about-consent-decrees) (Tier 2)
+- [California DOJ, press release, investigation announcement](https://oag.ca.gov/news/press-releases/attorney-general-bonta-launches-civil-rights-investigation-riverside-county) (Tier 1) (VERIFIED)
+- [KESQ. AG investigation, Bianco response](https://kesq.com/news/2023/02/23/ag-rob-bonta-opens-investigation-into-riverside-county-sheriffs-dept-bianco-calls-it-a-political-stunt/) (Tier 2) (VERIFIED)
+- [LAist, investigation focus areas](https://laist.com/news/criminal-justice/ca-attorney-general-investigating-riverside-sheriffs-department-focusing-on-jail-deaths-use-of-force) (Tier 2) (VERIFIED)
+- [Press Enterprise, critics welcome investigation](https://www.pressenterprise.com/2023/02/24/critics-of-riverside-county-sheriff-welcome-attorney-general-investigation/) (Tier 2) (VERIFIED)
+- [ACLU SoCal. AG investigation call](https://www.aclusocal.org/en/press-releases/ca-attorney-general-called-upon-investigate-riverside-sheriffs-dept/) (Tier 2) (NEEDS REVIEW)
+- [California Government Code § 12525](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=12525&lawCode=GOV) (Tier 1) (VERIFIED)
+- [California DOJ. Bakersfield stipulated judgment](https://oag.ca.gov/news/press-releases/attorney-general-bonta-announces-stipulated-judgment-bakersfield-police) (Tier 1) (VERIFIED)
+- [Harvard Kennedy School. LAPD consent decree research](https://www.hks.harvard.edu/publications/policing-los-angeles-under-consent-decree-dynamics-change-lapd) (Tier 1) (VERIFIED)
+- [Vera Institute, consent decree overview](https://www.vera.org/news/everything-you-need-to-know-about-consent-decrees) (Tier 2) (VERIFIED)
 

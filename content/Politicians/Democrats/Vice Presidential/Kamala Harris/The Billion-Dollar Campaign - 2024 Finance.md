@@ -167,29 +167,29 @@ The 2024 campaign is the vault's definitive case study: the donor class spent re
 ### Sources
 
 ### Campaign Totals:
-- [OpenSecrets: Summary data for Kamala Harris, 2024 cycle](https://www.opensecrets.org/2024-presidential-race/kamala-harris/candidate?id=N00036915) (Tier 1)
-- [FEC: Campaign finance data](https://www.fec.gov/data/) (Tier 1)
-- [NBC News: Kamala Harris' political operation crosses $1 billion raised for the 2024 election](https://www.nbcnews.com/politics/2024-election/harris-political-operation-crosses-1-billion-raised-2024-election-rcna174696) (Tier 2)
-- [CBS News: Kamala Harris campaign surpasses $1 billion in fundraising](https://www.cbsnews.com/news/kamala-harris-campaign-fundraising-1-billion/) (Tier 2)
+- [OpenSecrets: Summary data for Kamala Harris, 2024 cycle](https://www.opensecrets.org/2024-presidential-race/kamala-harris/candidate?id=N00036915) (Tier 1) (VERIFIED)
+- [FEC: Campaign finance data](https://www.fec.gov/data/) (Tier 1) (VERIFIED)
+- [NBC News: Kamala Harris' political operation crosses $1 billion raised for the 2024 election](https://www.nbcnews.com/politics/2024-election/harris-political-operation-crosses-1-billion-raised-2024-election-rcna174696) (Tier 2) (VERIFIED)
+- [CBS News: Kamala Harris campaign surpasses $1 billion in fundraising](https://www.cbsnews.com/news/kamala-harris-campaign-fundraising-1-billion/) (Tier 2) (VERIFIED)
 
 ### Donor Profiles:
-- [OpenSecrets: Top Contributors, Kamala Harris, 2024 cycle](https://www.opensecrets.org/2024-presidential-race/kamala-harris/contributors?id=N00036915) (Tier 1)
-- [OpenSecrets: Top Industries, Kamala Harris, 2024 cycle](https://www.opensecrets.org/2024-presidential-race/kamala-harris/industries?id=N00036915) (Tier 1)
-- [CNN: Harris has raised $1 billion since launching presidential campaign](https://www.cnn.com/2024/10/09/politics/harris-billion-fundraising-election/index.html) (Tier 2)
-- [The Daily Beast: How Kamala Harris Plowed Through $1 Billion and Still Lost to Donald Trump](https://www.thedailybeast.com/how-kamala-harris-plowed-through-1-billion-and-still-lost-to-donald-trump/) (Tier 2)
+- [OpenSecrets: Top Contributors, Kamala Harris, 2024 cycle](https://www.opensecrets.org/2024-presidential-race/kamala-harris/contributors?id=N00036915) (Tier 1) (VERIFIED)
+- [OpenSecrets: Top Industries, Kamala Harris, 2024 cycle](https://www.opensecrets.org/2024-presidential-race/kamala-harris/industries?id=N00036915) (Tier 1) (VERIFIED)
+- [CNN: Harris has raised $1 billion since launching presidential campaign](https://www.cnn.com/2024/10/09/politics/harris-billion-fundraising-election/index.html) (Tier 2) (VERIFIED)
+- [The Daily Beast: How Kamala Harris Plowed Through $1 Billion and Still Lost to Donald Trump](https://www.thedailybeast.com/how-kamala-harris-plowed-through-1-billion-and-still-lost-to-donald-trump/) (Tier 2) (VERIFIED)
 
 ### Future Forward:
-- [OpenSecrets: PAC Profile: Future Forward USA](https://www.opensecrets.org/political-action-committees-pacs/future-forward-usa/C00669259/summary/2024) (Tier 1)
-- [OpenSecrets: Future Forward USA Outside Spending](https://www.opensecrets.org/outside-spending/detail/2024?cmte=Future+Forward+USA) (Tier 1)
-- [InfluenceWatch: Future Forward USA Action](https://www.influencewatch.org/non-profit/future-forward-usa-action/) (Tier 2)
-- [Washington Examiner: Pro-Harris dark money group shoveled more than half a million dollars to firms owned by its founders](https://www.washingtonexaminer.com/news/investigations/3271137/kamala-harris-future-forward-money-firms-owned-founders/) (Tier 2)
+- [OpenSecrets: PAC Profile: Future Forward USA](https://www.opensecrets.org/political-action-committees-pacs/future-forward-usa/C00669259/summary/2024) (Tier 1) (VERIFIED)
+- [OpenSecrets: Future Forward USA Outside Spending](https://www.opensecrets.org/outside-spending/detail/2024?cmte=Future+Forward+USA) (Tier 1) (VERIFIED)
+- [InfluenceWatch: Future Forward USA Action](https://www.influencewatch.org/non-profit/future-forward-usa-action/) (Tier 2) (VERIFIED)
+- [Washington Examiner: Pro-Harris dark money group shoveled more than half a million dollars to firms owned by its founders](https://www.washingtonexaminer.com/news/investigations/3271137/kamala-harris-future-forward-money-firms-owned-founders/) (Tier 2) (VERIFIED)
 
 ### Spending and Finance:
-- [NBC News: How Kamala Harris' campaign spent $277 million in the final weeks](https://www.nbcnews.com/news/amp/rcna182923) (Tier 2)
-- [NBC News: Clashes, confusion and secrecy consume the Harris campaign's finances](https://www.nbcnews.com/politics/kamala-harris/clashes-confusion-secrecy-consume-harris-campaign-finances-rcna179654) (Tier 2)
+- [NBC News: How Kamala Harris' campaign spent $277 million in the final weeks](https://www.nbcnews.com/news/amp/rcna182923) (Tier 2) (VERIFIED)
+- [NBC News: Clashes, confusion and secrecy consume the Harris campaign's finances](https://www.nbcnews.com/politics/kamala-harris/clashes-confusion-secrecy-consume-harris-campaign-finances-rcna179654) (Tier 2) (VERIFIED)
 
 ### Comparison:
-- [OpenSecrets: 2024 Presidential Race Overview](https://www.opensecrets.org/2024-presidential-race/) (Tier 1)
+- [OpenSecrets: 2024 Presidential Race Overview](https://www.opensecrets.org/2024-presidential-race/) (Tier 1) (VERIFIED)
 - [FEC: Campaign finance data](https://www.fec.gov/data/) (Tier 1)
 
 ---
@@ -204,5 +204,5 @@ The 2024 campaign is the vault's definitive case study: the donor class spent re
 
 **Class analysis angle:** 736,000+ small-dollar donors who gave to Harris's campaign are now in the DNC's possession. Their data, giving patterns, contact info, fundraising response rates, is the party's most valuable midterm organizing asset. They gave to Harris; the party bought their information to use for 2026.
 
-- [National Today. DNC bought Kamala Harris donor list for $6.5M](https://nationaltoday.com/us/ny/new-york/news/2026/02/17/dnc-bought-kamala-harris-donor-list-for-6-5m-after-2024-election/) (Tier 2)
-- [FEC. Fight for the People PAC committee overview](https://www.fec.gov/data/committee/C00703975/) (Tier 1)
+- [National Today. DNC bought Kamala Harris donor list for $6.5M](https://nationaltoday.com/us/ny/new-york/news/2026/02/17/dnc-bought-kamala-harris-donor-list-for-6-5m-after-2024-election/) (Tier 2) (VERIFIED)
+- [FEC. Fight for the People PAC committee overview](https://www.fec.gov/data/committee/C00703975/) (Tier 1) (VERIFIED)

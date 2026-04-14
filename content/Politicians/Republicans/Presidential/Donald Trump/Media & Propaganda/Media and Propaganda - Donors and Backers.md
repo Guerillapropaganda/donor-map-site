@@ -39,9 +39,9 @@ Murdoch's $2 million to the Senate Leadership Fund (October 2024) was his only m
 The 2023 Dominion defamation settlement required Fox to pay $787.5 million for broadcasting false election irregularities claims. Yet the settlement imposed no requirement that Fox apologize or change its editorial practices. The network paid. The people responsible faced no consequences. The coverage continued. The structure remained intact.
 
 Sources:
-- [NBC News: Fox News settles Dominion defamation lawsuit](https://www.nbcnews.com/media/fox-news-settles-dominion-defamation-lawsuit-rcna80285) (Tier 2)
-- [FEC Independent Expenditures: Murdoch donor profile](https://www.fec.gov/data/independent-expenditures/?q=K.%20Rupert%20Murdoch) (Tier 1)
-- [The Hill: News Corp and Fox Corp Trump account matching](https://thehill.com/homenews/media/5745359-news-fox-corp-matching-federal-contribution-to-trump-accounts/) (Tier 2)
+- [NBC News: Fox News settles Dominion defamation lawsuit](https://www.nbcnews.com/media/fox-news-settles-dominion-defamation-lawsuit-rcna80285) (Tier 2) (VERIFIED)
+- [FEC Independent Expenditures: Murdoch donor profile](https://www.fec.gov/data/independent-expenditures/?q=K.%20Rupert%20Murdoch) (Tier 1) (VERIFIED)
+- ~~[The Hill: News Corp and Fox Corp Trump account matching](https://thehill.com/homenews/media/5745359-news-fox-corp-matching-federal-contribution-to-trump-accounts/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ---
 
@@ -56,9 +56,9 @@ Epshteyn's mandate ended in December 2019, but the infrastructure remained. Sinc
 Sinclair's relationship to Trump was one of tactical alignment, not direct financial relationship. The network needed content that pleased its MAGA audience. Trump needed free air time. Both benefited. The owners extracted value from audience loyalty. Trump extracted value from media exposure. The public received branded editorial content presented as news.
 
 Sources:
-- [NBC News: Sinclair drops Boris Epshteyn segments](https://www.nbcnews.com/business/business-news/sinclair-drops-boris-epshteyn-other-political-analysts-n1099796) (Tier 2)
-- [Media Matters: Sinclair must-run segments](https://www.mediamatters.org/boris-epshteyn/sinclair-broadcast-group-drops-boris-epshteyns-must-run-segments) (Tier 2)
-- [The Hill: Sinclair boosting Epshteyn airtime](https://thehill.com/homenews/media/341336-sinclair-boosting-airtime-for-former-trump-official-epshteyn/) (Tier 2)
+- [NBC News: Sinclair drops Boris Epshteyn segments](https://www.nbcnews.com/business/business-news/sinclair-drops-boris-epshteyn-other-political-analysts-n1099796) (Tier 2) (VERIFIED)
+- [Media Matters: Sinclair must-run segments](https://www.mediamatters.org/boris-epshteyn/sinclair-broadcast-group-drops-boris-epshteyns-must-run-segments) (Tier 2) (VERIFIED)
+- ~~[The Hill: Sinclair boosting Epshteyn airtime](https://thehill.com/homenews/media/341336-sinclair-boosting-airtime-for-former-trump-official-epshteyn/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ---
 
@@ -77,10 +77,10 @@ A proposed merger with TAE Technologies valued at $6 billion was under discussio
 The pattern is the same as Trump's other branded merchandise. The customer is buying political identity and loyalty, not a usable product. The money flows from supporters to Trump. Trump then coordinates with donors to deliver policy.
 
 Sources:
-- [CNN: DJT stock quote and analysis](https://www.cnn.com/markets/stocks/DJT) (Tier 1)
-- [Yahoo Finance: Trump Media & Technology Group stock](https://finance.yahoo.com/quote/DJT/) (Tier 1)
-- [Variety: Trump Media Q1 2024 revenue and losses](https://variety.com/2024/digital/news/trump-truth-social-media-q1-2024-revenue-net-loss-1236010937/) (Tier 2)
-- [StockTitan: Trump Media full year 2025 results](https://www.stocktitan.net/news/DJT/trump-media-technology-group-reports-full-year-2025-4mvfx7xljcai.html) (Tier 3)
+- [CNN: DJT stock quote and analysis](https://www.cnn.com/markets/stocks/DJT) (Tier 1) (VERIFIED)
+- ~~[Yahoo Finance: Trump Media & Technology Group stock](https://finance.yahoo.com/quote/DJT/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Variety: Trump Media Q1 2024 revenue and losses](https://variety.com/2024/digital/news/trump-truth-social-media-q1-2024-revenue-net-loss-1236010937/) (Tier 2) (VERIFIED)
+- [StockTitan: Trump Media full year 2025 results](https://www.stocktitan.net/news/DJT/trump-media-technology-group-reports-full-year-2025-4mvfx7xljcai.html) (Tier 3) (VERIFIED)
 
 ---
 
@@ -97,9 +97,9 @@ Both outlets serve the same function: provide venues where Trump can appear with
 The advertiser base for these networks is different from mainstream outlets. Some brands boycott them. Others embrace them specifically because of their alignment with Trump. The advertiser dynamics have shifted since Trump's return to power. Companies that avoided these networks now invest in them, calculating that alignment with the Trump administration is profitable.
 
 Sources:
-- [Wikipedia: Christopher Ruddy and Newsmax](https://en.wikipedia.org/wiki/Christopher_Ruddy) (Tier 3)
-- [Rolling Stone: OAN funding from AT&T](https://www.rollingstone.com/politics/politics-news/oan-funded-att-1237846/) (Tier 2)
-- [TheWrap: OAN revenue from AT&T](https://www.thewrap.com/one-america-news-network-gets-revenue-from-att/) (Tier 2)
+- [Wikipedia: Christopher Ruddy and Newsmax](https://en.wikipedia.org/wiki/Christopher_Ruddy) (Tier 3) (VERIFIED)
+- [Rolling Stone: OAN funding from AT&T](https://www.rollingstone.com/politics/politics-news/oan-funded-att-1237846/) (Tier 2) (VERIFIED)
+- [TheWrap: OAN revenue from AT&T](https://www.thewrap.com/one-america-news-network-gets-revenue-from-att/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -116,9 +116,9 @@ Musk gave $118+ million to his America PAC for voter turnout operations. His pla
 Musk removed trust and safety personnel. Restored accounts of far-right figures. Relaxed content moderation. The structural effect: the platform shifted from attempting to enforce community standards to becoming a free speech platform where speech was only free for those aligned with Trump.
 
 Sources:
-- [NPR: Elon Musk turned X into a pro-Trump echo chamber](https://www.npr.org/2024/10/22/nx-s1-5156184/elon-musk-trump-election-x-twitter) (Tier 2)
-- [Election Law Blog: X algorithm changes July 2024](https://electionlawblog.org/?p=147321) (Tier 2)
-- [NBC News: How Elon Musk turned X into a Trump echo chamber](https://www.nbcnews.com/tech/social-media/elon-musk-turned-x-trump-echo-chamber-rcna174321) (Tier 2)
+- [NPR: Elon Musk turned X into a pro-Trump echo chamber](https://www.npr.org/2024/10/22/nx-s1-5156184/elon-musk-trump-election-x-twitter) (Tier 2) (VERIFIED)
+- [Election Law Blog: X algorithm changes July 2024](https://electionlawblog.org/?p=147321) (Tier 2) (VERIFIED)
+- [NBC News: How Elon Musk turned X into a Trump echo chamber](https://www.nbcnews.com/tech/social-media/elon-musk-turned-x-trump-echo-chamber-rcna174321) (Tier 2) (VERIFIED)
 
 ---
 
@@ -137,9 +137,9 @@ In May 2025, Soon-Shiong met with Trump in Saudi Arabia during the president's f
 The pattern is identical across these outlets. Billionaire ownership. Editorial decisions made to benefit Trump. Coverage that provides in-kind value to Trump's political operation. The difference is that Soon-Shiong's ownership of a major newspaper functions at the level of a major metropolitan area's information ecosystem, while Murdoch's Fox operates at national scale.
 
 Sources:
-- [The Hill: LA Times owner meets with Trump in Saudi Arabia](https://thehill.com/homenews/media/5300617-la-times-owner-meets-with-trump-in-saudi-arabia/) (Tier 2)
-- [FAIR: LA Times non-endorsement](https://fair.org/home/la-times-non-endorsement-another-sign-of-our-billionaire-dominated-politics/) (Tier 2)
-- [Fox News: Soon-Shiong discusses relationship with Trump](https://www.foxnews.com/media/los-angeles-times-owner-patrick-soon-shiong-discusses-relationship-trump-fight-cure-cancer) (Tier 2)
+- ~~[The Hill: LA Times owner meets with Trump in Saudi Arabia](https://thehill.com/homenews/media/5300617-la-times-owner-meets-with-trump-in-saudi-arabia/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [FAIR: LA Times non-endorsement](https://fair.org/home/la-times-non-endorsement-another-sign-of-our-billionaire-dominated-politics/) (Tier 2) (VERIFIED)
+- [Fox News: Soon-Shiong discusses relationship with Trump](https://www.foxnews.com/media/los-angeles-times-owner-patrick-soon-shiong-discusses-relationship-trump-fight-cure-cancer) (Tier 2) (VERIFIED)
 
 ---
 
@@ -160,10 +160,10 @@ The timing and substance suggest editorial capitulation. Trump had threatened Am
 Unlike Murdoch (who actively promotes Trump through Fox) or Soon-Shiong (who blocked anti-Trump coverage), Bezos's strategy is retreat. He is not providing active propaganda. He is abandoning the critical editorial function that would normally scrutinize the president. Non-endorsement is editorial abdication. It is not neutrality. It is a form of submission.
 
 Sources:
-- [Washington Post: Jeff Bezos overhauls opinion section](https://www.pbs.org/newshour/politics/washington-post-owner-bezos-says-opinion-pages-shift-from-broad-focus-to-will-defend-free-market-and-personal-liberties) (Tier 2)
-- [NPR: Jeff Bezos revamps Washington Post](https://www.npr.org/2024/10/28/nx-s1-5168416/washington-post-bezos-endorsement-president-cancellations-resignations) (Tier 2)
-- [NBC News: Washington Post opinion section overhaul](https://www.nbcnews.com/media/jeff-bezos-washington-post-op-ed-david-shipley-rcna193817) (Tier 2)
-- [Al Jazeera: Washington Post context and timing](https://www.aljazeera.com/economy/2025/2/26/washington-post-opinion-head-departs-as-jeff-bezos-shifts-focus-for-paper) (Tier 2)
+- [Washington Post: Jeff Bezos overhauls opinion section](https://www.pbs.org/newshour/politics/washington-post-owner-bezos-says-opinion-pages-shift-from-broad-focus-to-will-defend-free-market-and-personal-liberties) (Tier 2) (VERIFIED)
+- [NPR: Jeff Bezos revamps Washington Post](https://www.npr.org/2024/10/28/nx-s1-5168416/washington-post-bezos-endorsement-president-cancellations-resignations) (Tier 2) (VERIFIED)
+- [NBC News: Washington Post opinion section overhaul](https://www.nbcnews.com/media/jeff-bezos-washington-post-op-ed-david-shipley-rcna193817) (Tier 2) (VERIFIED)
+- [Al Jazeera: Washington Post context and timing](https://www.aljazeera.com/economy/2025/2/26/washington-post-opinion-head-departs-as-jeff-bezos-shifts-focus-for-paper) (Tier 2) (VERIFIED)
 
 ---
 
@@ -197,5 +197,5 @@ The contradiction is rendered invisible by framing media decisions as editorial 
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Media and Propaganda - Donors and Backers](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: Media and Propaganda - Donors and Backers](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->

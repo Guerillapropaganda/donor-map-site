@@ -13,7 +13,7 @@ profiles:
 
 ## Iranian Women Elected to Office in U.S. Reject Trump’s Iran War
 
-**Source:** [The Intercept](https://theintercept.com/2026/04/07/iranian-american-women-trump-letter/)
+**Source:** [The Intercept](https://theintercept.com/2026/04/07/iranian-american-women-trump-letter/) (VERIFIED)
 **Date:** 2026-04-07
 
 Netanyahu and Trump have invoked the Woman, Life, Freedom movement to justify war. Politicians like Rep. Yassamin Ansari rejected the idea. The post Iranian Women Elected to Office in U.S. Reject Trump’s Iran War appeared first on The Intercept.

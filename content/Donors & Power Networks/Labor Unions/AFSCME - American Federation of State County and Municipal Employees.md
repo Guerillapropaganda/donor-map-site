@@ -120,9 +120,9 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: AFS
 
 ### Sources
 
-- [OpenSecrets: Service Employees International Union profile](https://www.opensecrets.org/orgs/american-fedn-of-st-cnty-munic-employees/summary?id=D000000061) (Tier 1)
-- [Senate LDA Filings: AFSCME organizational profile](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Supreme Court: Janus v. AFSCME (2018)](https://supreme.justia.com/cases/federal/us/585/16-1466/) (Tier 1)
+- [OpenSecrets: Service Employees International Union profile](https://www.opensecrets.org/orgs/american-fedn-of-st-cnty-munic-employees/summary?id=D000000061) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: AFSCME organizational profile](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- ~~[Supreme Court: Janus v. AFSCME (2018)](https://supreme.justia.com/cases/federal/us/585/16-1466/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -160,7 +160,7 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: AFS
 - FEDERAL STATE FINANCED INSTITUTION OF SCIENCE HIGHER EDUCATION INSTITUTION SPECTROSCOPY OF THE RUSSIAN FEDERATION ACADEMY OF SCIENCES (-0-) [RUSSIA-EO14024]
   - Remarks: Secondary sanctions risk: See Section 11 of Executive Order 14024.; Organization Established Date 07 Jul 1992; Tax ID No. 5046005427 (Russia); Registration Number 1035009350100 (Russia); a.k.a. 'ISAN'...
 
-- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
 ### Federal Court Records (CourtListener)
@@ -175,7 +175,7 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: AFS
 - Franklin v. Hartford Life and Accident Insurance Company (2022) — District Court, D. Arizona
 - Guasto v. The City of Miami Beach, Florida (2022) — District Court, S.D. Florida
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22AFSCME%20-%20American%20Federation%20of%20State%20County%20and%20Municipal%20Employees%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22AFSCME%20-%20American%20Federation%20of%20State%20County%20and%20Municipal%20Employees%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Register Activity
@@ -187,9 +187,9 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: AFS
 | Agencies | Federal Motor Carrier Safety Administration, Transportation Department |
 
 **Recent regulatory activity:**
-- [Restoring Integrity to the Issuance of Non-Domiciled Commercial Drivers Licenses (CDL)](https://www.federalregister.gov/documents/2026/02/13/2026-02965/restoring-integrity-to-the-issuance-of-non-domiciled-commercial-drivers-licenses-cdl) (2026-02-13) — Transportation Department
+- [Restoring Integrity to the Issuance of Non-Domiciled Commercial Drivers Licenses (CDL)](https://www.federalregister.gov/documents/2026/02/13/2026-02965/restoring-integrity-to-the-issuance-of-non-domiciled-commercial-drivers-licenses-cdl) (VERIFIED) (2026-02-13) — Transportation Department
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22AFSCME%20-%20American%20Federation%20of%20State%20County%20and%20Municipal%20Employees%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22AFSCME%20-%20American%20Federation%20of%20State%20County%20and%20Municipal%20Employees%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Tax Filings (IRS 990)
@@ -201,7 +201,7 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: AFS
 | IRS Ruling Date | 1957-08-01 |
 | Filings on Record | 0 |
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/332579905) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/332579905) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Campaign Finance (FEC)
@@ -226,7 +226,7 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: AFS
 | OHIO DEMOCRATIC PARTY - FEDERAL | $34,875 | DEM |
 | FRIENDS OF JAHANA HAYES | $32,500 | DEM |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=AFSCME%20-%20American%20Federation%20of%20State%20County%20and%20Municipal%20Employees) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=AFSCME%20-%20American%20Federation%20of%20State%20County%20and%20Municipal%20Employees) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### SEC Filing Activity
@@ -244,5 +244,5 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: AFS
 - 2001-03-23 — **DEF 14A**: PROXY STATEMENT
 - 2012-06-06 — **N-CSR**: N-CSR
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22AFSCME%20-%20American%20Federation%20of%20State%20County%20and%20Municipal%20Employees%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22AFSCME%20-%20American%20Federation%20of%20State%20County%20and%20Municipal%20Employees%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->

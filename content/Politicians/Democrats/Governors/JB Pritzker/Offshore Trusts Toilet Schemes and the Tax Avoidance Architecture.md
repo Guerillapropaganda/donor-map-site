@@ -55,7 +55,7 @@ Pritzker's defense: trusts were set up by his grandfather, and "all money goes t
 
 ### Sources
 
-- [Chicago Tribune: Pritzker offshore Bahamas trusts](https://www.chicagotribune.com/politics/ct-met-jb-pritzker-bahama-offshore-shell-company-20180313-story.html) (Tier 2)
-- [ICIJ Paradise Papers: Pritzker's offshore holdings](https://www.icij.org/investigations/paradise-papers/paradise-papers-help-reveal-jb-pritzkers-offshore-connections/) (Tier 2)
-- [NPR: Toilet removal property tax scheme](https://www.npr.org/2018/10/03/654201077/illinois-gov-candidate-removed-mansions-toilets-to-dodge-taxes-report-finds) (Tier 2)
-- [NBC Chicago: Pritzker repays $330K](https://www.nbcchicago.com/local/pritzker-repays-330k-in-property-taxes-after-inspector-general-report-made-public/172023/) (Tier 2)
+- [Chicago Tribune: Pritzker offshore Bahamas trusts](https://www.chicagotribune.com/politics/ct-met-jb-pritzker-bahama-offshore-shell-company-20180313-story.html) (Tier 2) (NEEDS REVIEW)
+- [ICIJ Paradise Papers: Pritzker's offshore holdings](https://www.icij.org/investigations/paradise-papers/paradise-papers-help-reveal-jb-pritzkers-offshore-connections/) (Tier 2) (VERIFIED)
+- [NPR: Toilet removal property tax scheme](https://www.npr.org/2018/10/03/654201077/illinois-gov-candidate-removed-mansions-toilets-to-dodge-taxes-report-finds) (Tier 2) (VERIFIED)
+- [NBC Chicago: Pritzker repays $330K](https://www.nbcchicago.com/local/pritzker-repays-330k-in-property-taxes-after-inspector-general-report-made-public/172023/) (Tier 2) (VERIFIED)

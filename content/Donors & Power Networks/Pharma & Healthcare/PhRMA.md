@@ -230,42 +230,42 @@ The Inflation Reduction Act represents the first breach in this structure. PhRMA
 ### Sources
 
 #### Tier 1 (Primary government documents):
-- [PhRMA Lobbying Profile • OpenSecrets](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [OpenSecrets 2015–2024 Annual Cycle Profiles](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Medicare Drug Price Negotiation Program • CMS.gov](https://www.cms.gov/priorities/medicare-prescription-drug-affordability/overview/medicare-drug-price-negotiation-program) (Tier 1)
-- [Inflation Reduction Act Drug Negotiation Provision • Congressional Research Service](https://sgp.fas.org/crs/health/IF12447.pdf) (Tier 1)
-- [FEC PhRMA PAC Filings](https://www.fec.gov/data/committee/C00021972/) (Tier 1)
-- [PhRMA 2025 Annual Membership Survey](https://cdn.aglty.io/phrma/Report%20-%20PhRMA%202025%20Annual%20Membership%20Survey%20-%20July%202025.pdf) (Tier 1)
+- [PhRMA Lobbying Profile • OpenSecrets](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [OpenSecrets 2015–2024 Annual Cycle Profiles](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Medicare Drug Price Negotiation Program • CMS.gov](https://www.cms.gov/priorities/medicare-prescription-drug-affordability/overview/medicare-drug-price-negotiation-program) (Tier 1) (VERIFIED)
+- [Inflation Reduction Act Drug Negotiation Provision • Congressional Research Service](https://sgp.fas.org/crs/health/IF12447.pdf) (Tier 1) (VERIFIED)
+- [FEC PhRMA PAC Filings](https://www.fec.gov/data/committee/C00021972/) (Tier 1) (VERIFIED)
+- [PhRMA 2025 Annual Membership Survey](https://cdn.aglty.io/phrma/Report%20-%20PhRMA%202025%20Annual%20Membership%20Survey%20-%20July%202025.pdf) (Tier 1) (VERIFIED)
 
 #### Tier 2 (Major investigative journalism and secondary analysis):
-- [JAMA Internal Medicine: Pharmaceutical Industry Lobbying and Campaign Contributions (1999–2018)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7054854/) (Tier 2)
-- [ProPublica: Inside the Administration's Deal with the Pharmaceutical Lobby](https://www.propublica.org/article/inside-the-administrations-deal-with-the-pharmaceutical-lobby-0223) (Tier 2)
-- [ProPublica: Medicare Drug Planners Now Lobbyists With Billions at Stake](https://www.propublica.org/article/medicare-drug-planners-now-lobbyists-with-billions-at-stake-1020) (Tier 2)
-- [STAT News: PhRMA Membership Dues Revenue Decline Following AbbVie, AstraZeneca, Teva Departures](https://www.statnews.com/2024/12/23/phrma-membership-dues-revenue-decline-abbvie-astrazeneca-teva-quit/) (Tier 2)
-- [OpenSecrets: Despite Record Lobbying, Pharma Lost Its Biggest Legislative Bet in 2022](https://www.opensecrets.org/news/2023/02/despite-record-federal-lobbying-spending-the-pharmaceutical-and-health-product-industry-lost-their-biggest-legislative-bet-in-2022/) (Tier 2)
-- [Fierce Pharma: Appeals Court Resurrects PhRMA's Lawsuit Challenging IRA Drug Pricing](https://www.fiercepharma.com/pharma/appeals-court-resurrects-phrmas-lawsuit-challenging-drug-pricing-provisions-ira) (Tier 2)
-- [KFF Health News: Pharma Campaign Cash Delivered to Key Lawmakers With Surgical Precision](https://kffhealthnews.org/news/article/pharma-campaign-cash-delivered-to-key-lawmakers-with-surgical-precision/) (Tier 2)
-- [Sunlight Foundation: The Legacy of Billy Tauzin — The White House PhRMA Deal](https://sunlightfoundation.com/2010/02/12/the-legacy-of-billy-tauzin-the-white-house-phrma-deal/) (Tier 2)
-- [Bill Moyers: The Man Who Made You Pay More at the Drugstore (Tauzin Profile)](https://billmoyers.com/story/the-man-who-made-you-pay-more-at-the-drugstore/) (Tier 2)
-- [Bloomberg: Tauzin's $11.6 Million Made Him Highest-Paid Health Law Lobbyist](https://www.bloomberg.com/news/articles/2011-11-29/tauzin-s-11-6-million-made-him-highest-paid-health-law-lobbyist) (Tier 2)
-- [BMJ Group: FDA Staff Leaving for Industry Jobs Given Behind-the-Scenes Lobbying Advice](https://bmjgroup.com/fda-staff-leaving-for-industry-jobs-given-behind-the-scenes-lobbying-advice/) (Tier 2)
-- [Issue One: PhRMA Contributed Record Sum to GOP-Aligned Dark Money Group in 2022](https://issueone.org/press/phrma-contributed-record-sum-to-gop-aligned-dark-money-group-in-2022-new-tax-filing-reviewed-by-issue-one-shows/) (Tier 2)
-- [POLITICO: Drugmaker Lobbying Reaches Historic High](https://www.politico.com/newsletters/prescription-pulse/2026/01/23/drugmaker-lobbying-reaches-historic-high-00742296) (Tier 2)
-- [The Lever: Big Pharma's Dark Money Scores $8 Billion Bonanza](https://www.levernews.com/big-pharmas-dark-money-scores-8-billion-bonanza/) (Tier 2)
-- [Public Citizen: Using the Inflation Reduction Act to Rein In Patenting Evergreening Abuses](https://www.citizen.org/article/using-the-inflation-reduction-act-to-rein-in-patenting-evergreening-abuses/) (Tier 2)
+- [JAMA Internal Medicine: Pharmaceutical Industry Lobbying and Campaign Contributions (1999–2018)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7054854/) (Tier 2) (VERIFIED)
+- [ProPublica: Inside the Administration's Deal with the Pharmaceutical Lobby](https://www.propublica.org/article/inside-the-administrations-deal-with-the-pharmaceutical-lobby-0223) (Tier 2) (VERIFIED)
+- [ProPublica: Medicare Drug Planners Now Lobbyists With Billions at Stake](https://www.propublica.org/article/medicare-drug-planners-now-lobbyists-with-billions-at-stake-1020) (Tier 2) (VERIFIED)
+- [STAT News: PhRMA Membership Dues Revenue Decline Following AbbVie, AstraZeneca, Teva Departures](https://www.statnews.com/2024/12/23/phrma-membership-dues-revenue-decline-abbvie-astrazeneca-teva-quit/) (Tier 2) (VERIFIED)
+- [OpenSecrets: Despite Record Lobbying, Pharma Lost Its Biggest Legislative Bet in 2022](https://www.opensecrets.org/news/2023/02/despite-record-federal-lobbying-spending-the-pharmaceutical-and-health-product-industry-lost-their-biggest-legislative-bet-in-2022/) (Tier 2) (VERIFIED)
+- [Fierce Pharma: Appeals Court Resurrects PhRMA's Lawsuit Challenging IRA Drug Pricing](https://www.fiercepharma.com/pharma/appeals-court-resurrects-phrmas-lawsuit-challenging-drug-pricing-provisions-ira) (Tier 2) (VERIFIED)
+- [KFF Health News: Pharma Campaign Cash Delivered to Key Lawmakers With Surgical Precision](https://kffhealthnews.org/news/article/pharma-campaign-cash-delivered-to-key-lawmakers-with-surgical-precision/) (Tier 2) (VERIFIED)
+- [Sunlight Foundation: The Legacy of Billy Tauzin — The White House PhRMA Deal](https://sunlightfoundation.com/2010/02/12/the-legacy-of-billy-tauzin-the-white-house-phrma-deal/) (Tier 2) (VERIFIED)
+- [Bill Moyers: The Man Who Made You Pay More at the Drugstore (Tauzin Profile)](https://billmoyers.com/story/the-man-who-made-you-pay-more-at-the-drugstore/) (Tier 2) (VERIFIED)
+- ~~[Bloomberg: Tauzin's $11.6 Million Made Him Highest-Paid Health Law Lobbyist](https://www.bloomberg.com/news/articles/2011-11-29/tauzin-s-11-6-million-made-him-highest-paid-health-law-lobbyist)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [BMJ Group: FDA Staff Leaving for Industry Jobs Given Behind-the-Scenes Lobbying Advice](https://bmjgroup.com/fda-staff-leaving-for-industry-jobs-given-behind-the-scenes-lobbying-advice/) (Tier 2) (VERIFIED)
+- [Issue One: PhRMA Contributed Record Sum to GOP-Aligned Dark Money Group in 2022](https://issueone.org/press/phrma-contributed-record-sum-to-gop-aligned-dark-money-group-in-2022-new-tax-filing-reviewed-by-issue-one-shows/) (Tier 2) (VERIFIED)
+- ~~[POLITICO: Drugmaker Lobbying Reaches Historic High](https://www.politico.com/newsletters/prescription-pulse/2026/01/23/drugmaker-lobbying-reaches-historic-high-00742296)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [The Lever: Big Pharma's Dark Money Scores $8 Billion Bonanza](https://www.levernews.com/big-pharmas-dark-money-scores-8-billion-bonanza/) (Tier 2) (VERIFIED)
+- [Public Citizen: Using the Inflation Reduction Act to Rein In Patenting Evergreening Abuses](https://www.citizen.org/article/using-the-inflation-reduction-act-to-rein-in-patenting-evergreening-abuses/) (Tier 2) (VERIFIED)
 
 #### Tier 3 (Secondary reporting and specialist press):
-- [InfluenceWatch: Pharmaceutical Research and Manufacturers of America (PhRMA)](https://www.influencewatch.org/non-profit/pharmaceutical-research-and-manufacturers-of-america-phrma/) (Tier 3)
-- [Commonwealth Fund: The Lower Drug Costs Now Act (HR 3) — How It Would Work](https://www.commonwealthfund.org/publications/issue-briefs/2020/apr/lower-drug-costs-now-act-hr3-how-it-would-work) (Tier 3)
-- [KFF Health News: Non-Profit Linked to PhRMA Rolls Out Campaign to Block Drug Imports](https://kffhealthnews.org/news/non-profit-linked-to-phrma-rolls-out-campaign-to-block-drug-imports/) (Tier 3)
-- [DrugPatentWatch: Evergreening by Lawsuit — Strategic Patent Actions and Generic Entry Stagnation](https://www.drugpatentwatch.com/blog/evergreening-by-lawsuit-strategic-patent-actions-and-generic-entry-stagnation/) (Tier 3)
-- [I-MAK: After a Pharma Lobbying Blitz, Congress Softens Legislation on Drug Patents](https://www.i-mak.org/2019/07/09/after-a-pharma-lobbying-blitz-congress-softens-legislation-on-drug-patents/) (Tier 3)
-- [RAND Health Quarterly: Drug Price Comparison Study (2022 Data)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11147645/) (Tier 3)
-- [Health Policy OPEN: Prescription Affordability Analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC10297769/) (Tier 3)
-- [American Hospital Association: Drug Prices and Shortages Jeopardize Patient Access](https://www.aha.org/news/blog/2024-05-22-drug-prices-and-shortages-jeopardize-patient-access-quality-hospital-care) (Tier 3)
-- [BCBS Association: Big Pharma Blocks Access to Low-Cost Generic Drugs](https://www.bcbs.com/news-and-insights/article/big-pharma-blocks-access-to-low-cost-generic-drugs) (Tier 3)
-- [Patients for Affordable Drugs: Medicare's First Negotiated Drug Prices Take Effect](https://www.patientsforaffordabledrugs.org/2026/01/01/medicares-first-negotiated-drug-prices-take-effect-a-win-for-patients/) (Tier 3)
-- [National Academy for State Health Policy: PhRMA Challenges Federal Importation Rule](https://nashp.org/phrma-challenges-federal-importation-rule-and-canada-limits-exports-states-continue-work/) (Tier 3)
+- [InfluenceWatch: Pharmaceutical Research and Manufacturers of America (PhRMA)](https://www.influencewatch.org/non-profit/pharmaceutical-research-and-manufacturers-of-america-phrma/) (Tier 3) (VERIFIED)
+- [Commonwealth Fund: The Lower Drug Costs Now Act (HR 3) — How It Would Work](https://www.commonwealthfund.org/publications/issue-briefs/2020/apr/lower-drug-costs-now-act-hr3-how-it-would-work) (Tier 3) (VERIFIED)
+- [KFF Health News: Non-Profit Linked to PhRMA Rolls Out Campaign to Block Drug Imports](https://kffhealthnews.org/news/non-profit-linked-to-phrma-rolls-out-campaign-to-block-drug-imports/) (Tier 3) (VERIFIED)
+- [DrugPatentWatch: Evergreening by Lawsuit — Strategic Patent Actions and Generic Entry Stagnation](https://www.drugpatentwatch.com/blog/evergreening-by-lawsuit-strategic-patent-actions-and-generic-entry-stagnation/) (Tier 3) (VERIFIED)
+- [I-MAK: After a Pharma Lobbying Blitz, Congress Softens Legislation on Drug Patents](https://www.i-mak.org/2019/07/09/after-a-pharma-lobbying-blitz-congress-softens-legislation-on-drug-patents/) (Tier 3) (VERIFIED)
+- [RAND Health Quarterly: Drug Price Comparison Study (2022 Data)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11147645/) (Tier 3) (VERIFIED)
+- [Health Policy OPEN: Prescription Affordability Analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC10297769/) (Tier 3) (VERIFIED)
+- [American Hospital Association: Drug Prices and Shortages Jeopardize Patient Access](https://www.aha.org/news/blog/2024-05-22-drug-prices-and-shortages-jeopardize-patient-access-quality-hospital-care) (Tier 3) (VERIFIED)
+- [BCBS Association: Big Pharma Blocks Access to Low-Cost Generic Drugs](https://www.bcbs.com/news-and-insights/article/big-pharma-blocks-access-to-low-cost-generic-drugs) (Tier 3) (VERIFIED)
+- [Patients for Affordable Drugs: Medicare's First Negotiated Drug Prices Take Effect](https://www.patientsforaffordabledrugs.org/2026/01/01/medicares-first-negotiated-drug-prices-take-effect-a-win-for-patients/) (Tier 3) (VERIFIED)
+- [National Academy for State Health Policy: PhRMA Challenges Federal Importation Rule](https://nashp.org/phrma-challenges-federal-importation-rule-and-canada-limits-exports-states-continue-work/) (Tier 3) (VERIFIED)
 
 ---
 
@@ -283,14 +283,14 @@ The Inflation Reduction Act represents the first breach in this structure. PhRMA
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/530241211/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/530241211/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/530241211/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/530241211/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/530241211/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/530241211/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/530241211/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/530241211/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/530241211/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/530241211/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/530241211) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/530241211) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Federal Register Activity
@@ -302,9 +302,9 @@ The Inflation Reduction Act represents the first breach in this structure. PhRMA
 | Agencies | Health and Human Services Department |
 
 **Recent regulatory activity:**
-- [Clinical Trials Registration and Results Submission](https://www.federalregister.gov/documents/2014/11/21/2014-26197/clinical-trials-registration-and-results-submission) (2014-11-21) — Health and Human Services Department
+- [Clinical Trials Registration and Results Submission](https://www.federalregister.gov/documents/2014/11/21/2014-26197/clinical-trials-registration-and-results-submission) (VERIFIED) (2014-11-21) — Health and Human Services Department
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22PhRMA%20-%20Pharmaceutical%20Research%20and%20Manufacturers%20of%20America%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22PhRMA%20-%20Pharmaceutical%20Research%20and%20Manufacturers%20of%20America%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Vehicle Safety (NHTSA)
@@ -322,7 +322,7 @@ The Inflation Reduction Act represents the first breach in this structure. PhRMA
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=PhRMA%20-%20Pharmaceutical%20Research%20and%20Manufacturers%20of%20America) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=PhRMA%20-%20Pharmaceutical%20Research%20and%20Manufacturers%20of%20America) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Influence Network (Cross-Reference)

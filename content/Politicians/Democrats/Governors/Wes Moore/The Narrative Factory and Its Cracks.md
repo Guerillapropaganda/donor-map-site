@@ -55,8 +55,8 @@ The delay between claiming the award and receiving it spans nearly two decades. 
 
 ### Sources
 
-- [Maryland Matters: Moore finally gets his Bronze Star, years after his service in Afghanistan](https://marylandmatters.org/briefs/moore-finally-gets-his-bronze-star-years-after-his-service-in-afghanistan/) (Tier 2)
-- [Washington Post: Eighteen years and one controversy later, Wes Moore gets a Bronze Star](https://www.washingtonpost.com/dc-md-va/2024/08/30/md-gov-moore-seeks-control-fallout-over-false-bronze-star-claim/) (Tier 2)
-- [CBS Baltimore: Following controversy, Maryland Gov. Wes Moore receives Bronze Star for Army service 18 years ago](https://www.cbsnews.com/baltimore/news/maryland-wes-moore-bronze-star-army-controversy/) (Tier 2)
-- [Military Times: Following controversy, Maryland governor receives Bronze Star](https://www.militarytimes.com/news/your-military/2024/12/23/following-controversy-maryland-governor-receives-bronze-star/) (Tier 2)
-- [Baltimore Sun: Maryland Gov. Wes Moore receives Bronze Star; controversy prompts mixed reaction](https://www.baltimoresun.com/2024/12/22/wes-moore-bronze-star/) (Tier 2)
+- [Maryland Matters: Moore finally gets his Bronze Star, years after his service in Afghanistan](https://marylandmatters.org/briefs/moore-finally-gets-his-bronze-star-years-after-his-service-in-afghanistan/) (Tier 2) (VERIFIED)
+- [Washington Post: Eighteen years and one controversy later, Wes Moore gets a Bronze Star](https://www.washingtonpost.com/dc-md-va/2024/08/30/md-gov-moore-seeks-control-fallout-over-false-bronze-star-claim/) (Tier 2) (VERIFIED)
+- [CBS Baltimore: Following controversy, Maryland Gov. Wes Moore receives Bronze Star for Army service 18 years ago](https://www.cbsnews.com/baltimore/news/maryland-wes-moore-bronze-star-army-controversy/) (Tier 2) (VERIFIED)
+- [Military Times: Following controversy, Maryland governor receives Bronze Star](https://www.militarytimes.com/news/your-military/2024/12/23/following-controversy-maryland-governor-receives-bronze-star/) (Tier 2) (VERIFIED)
+- [Baltimore Sun: Maryland Gov. Wes Moore receives Bronze Star; controversy prompts mixed reaction](https://www.baltimoresun.com/2024/12/22/wes-moore-bronze-star/) (Tier 2) (VERIFIED)

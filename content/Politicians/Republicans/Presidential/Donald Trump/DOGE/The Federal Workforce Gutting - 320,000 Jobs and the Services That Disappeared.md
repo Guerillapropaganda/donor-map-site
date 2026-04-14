@@ -100,11 +100,11 @@ The positions that were cut were not abstract "bureaucracy." They were food safe
 
 ### Sources
 
-- [Government Accountability Office. Indian Affairs Information on 2025 Workforce Reductions](https://www.gao.gov/assets/gao-26-108673.pdf) (Tier 1)
-- [Federal News Network. How staffing cuts in 2025 transformed the federal workforce](https://federalnewsnetwork.com/workforce/2026/01/how-staffing-cuts-in-2025-transformed-the-federal-workforce/) (Tier 1)
-- [Challenger, Gray and Christmas. Federal Cuts Dominate March 2025](https://www.challengergray.com/blog/federal-cuts-dominate-march-2025-total-275240-announced-job-cuts-216670-from-doge-actions/) (Tier 1)
-- [Office of Personnel Management. DOGE Workforce Optimization Guidance](https://www.war.gov/Portals/1/Spotlight/2025/Guidance_For_Federal_Policies/Implementing_DOGE_Workforce_Optimization/Implementing_DOGE_Workforce_Optimization_OPM_Guidance.pdf) (Tier 1)
-- [PBS NewsHour. DOGE disassembled but the principles remain alive](https://www.pbs.org/newshour/show/doge-disassembled-but-the-principles-remain-alive-trump-administration-says) (Tier 2)
+- [Government Accountability Office. Indian Affairs Information on 2025 Workforce Reductions](https://www.gao.gov/assets/gao-26-108673.pdf) (Tier 1) (VERIFIED)
+- [Federal News Network. How staffing cuts in 2025 transformed the federal workforce](https://federalnewsnetwork.com/workforce/2026/01/how-staffing-cuts-in-2025-transformed-the-federal-workforce/) (Tier 1) (VERIFIED)
+- [Challenger, Gray and Christmas. Federal Cuts Dominate March 2025](https://www.challengergray.com/blog/federal-cuts-dominate-march-2025-total-275240-announced-job-cuts-216670-from-doge-actions/) (Tier 1) (VERIFIED)
+- [Office of Personnel Management. DOGE Workforce Optimization Guidance](https://www.war.gov/Portals/1/Spotlight/2025/Guidance_For_Federal_Policies/Implementing_DOGE_Workforce_Optimization/Implementing_DOGE_Workforce_Optimization_OPM_Guidance.pdf) (Tier 1) (VERIFIED)
+- [PBS NewsHour. DOGE disassembled but the principles remain alive](https://www.pbs.org/newshour/show/doge-disassembled-but-the-principles-remain-alive-trump-administration-says) (Tier 2) (VERIFIED)
 
 ### Legislative Activity (Congress.gov)
 
@@ -115,5 +115,5 @@ The positions that were cut were not abstract "bureaucracy." They were food safe
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: The Federal Workforce Gutting - 320,000 Jobs and the Services That Disappeared](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: The Federal Workforce Gutting - 320,000 Jobs and the Services That Disappeared](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->

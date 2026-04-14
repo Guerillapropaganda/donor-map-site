@@ -184,23 +184,23 @@ The ThinkProgress episode is instructive: when CAP's own progressive media staff
 
 ### Sources
 
-- [ProPublica Nonprofit Explorer: Center for American Progress (EIN 30-0126510)](https://projects.propublica.org/nonprofits/organizations/300126510) (Tier 1)
-- [ProPublica Nonprofit Explorer: CAP Action Fund (EIN 30-0192708)](https://projects.propublica.org/nonprofits/organizations/300192708) (Tier 1)
-- [OpenSecrets: Center for American Progress. Organization Profile](https://www.opensecrets.org/orgs/center-for-american-progress/summary?id=D000032441) (Tier 1)
-- [The Nation: The Secret Donors Behind the Center for American Progress and Other Think Tanks](https://www.thenation.com/article/archive/secret-donors-behind-center-american-progress-and-other-think-tanks-updated-524/) (Tier 2)
-- [Think Tank Funding Tracker: Center for American Progress](https://thinktankfundingtracker.org/think-tank/center-for-american-progress/) (Tier 2)
-- [InfluenceWatch: Center for American Progress (CAP)](https://www.influencewatch.org/non-profit/center-for-american-progress-cap/) (Tier 3)
-- [Center for American Progress: Our Supporters (self-reported donor list)](https://www.americanprogress.org/c3-our-supporters/) (Tier 3)
-- [Wikipedia: Center for American Progress](https://en.wikipedia.org/wiki/Center_for_American_Progress) (Tier 3)
-- [Ballotpedia: Center for American Progress](https://ballotpedia.org/Center_for_American_Progress) (Tier 3)
-- [SourceWatch: Center for American Progress](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Center_for_American_Progress) (Tier 3)
-- [Politico: The Most Influential Think Tank of the Biden Era Has a New Leader](https://www.politico.com/news/2021/06/30/center-for-american-progress-new-leader-497167) (Tier 2)
-- [The Hill: Liberal News Site ThinkProgress Shutting Down](https://thehill.com/homenews/media/460268-liberal-news-site-thinkprogress-shutting-down/) (Tier 3)
-- [The Intercept: Leaked Emails From Pro-Clinton Group Reveal Censorship of Staff on Israel, AIPAC Pandering](https://theintercept.com/2015/11/05/leaked-emails-from-pro-clinton-group-reveal-censorship-of-staff-on-israel-aipac-pandering-warped-militarism/) (Tier 2)
-- [Truthdig: The Center for American Progress Isn't Fooling Anybody. ThinkProgress union shutdown analysis (2019)](https://www.truthdig.com/articles/liberal-think-tank-shutters-its-unionized-news-site-thinkprogress/) (Tier 2)
-- [The Nation: Corporate Influence at the Center for American Progress?](https://www.thenation.com/article/archive/corporate-influence-center-american-progress/) (Tier 2)
-- [Jacobin: How CAP Fuels the Right. Tanden, Israel, and donor-driven foreign policy (2019)](https://jacobin.com/2019/04/center-for-american-progress-tanden-israel-omar) (Tier 2)
-- [Semafor: Center for American Progress' new head Neera Tanden says Democrats 'should not be knee-jerk institution defenders' (February 2025)](https://www.semafor.com/article/02/20/2025/new-center-for-american-progress-head-neera-tanden-interview-on-democrats) (Tier 2)
+- [ProPublica Nonprofit Explorer: Center for American Progress (EIN 30-0126510)](https://projects.propublica.org/nonprofits/organizations/300126510) (Tier 1) (VERIFIED)
+- [ProPublica Nonprofit Explorer: CAP Action Fund (EIN 30-0192708)](https://projects.propublica.org/nonprofits/organizations/300192708) (Tier 1) (VERIFIED)
+- [OpenSecrets: Center for American Progress. Organization Profile](https://www.opensecrets.org/orgs/center-for-american-progress/summary?id=D000032441) (Tier 1) (VERIFIED)
+- [The Nation: The Secret Donors Behind the Center for American Progress and Other Think Tanks](https://www.thenation.com/article/archive/secret-donors-behind-center-american-progress-and-other-think-tanks-updated-524/) (Tier 2) (VERIFIED)
+- [Think Tank Funding Tracker: Center for American Progress](https://thinktankfundingtracker.org/think-tank/center-for-american-progress/) (Tier 2) (VERIFIED)
+- [InfluenceWatch: Center for American Progress (CAP)](https://www.influencewatch.org/non-profit/center-for-american-progress-cap/) (Tier 3) (VERIFIED)
+- [Center for American Progress: Our Supporters (self-reported donor list)](https://www.americanprogress.org/c3-our-supporters/) (Tier 3) (VERIFIED)
+- [Wikipedia: Center for American Progress](https://en.wikipedia.org/wiki/Center_for_American_Progress) (Tier 3) (VERIFIED)
+- [Ballotpedia: Center for American Progress](https://ballotpedia.org/Center_for_American_Progress) (Tier 3) (VERIFIED)
+- ~~[SourceWatch: Center for American Progress](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Center_for_American_Progress)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [Politico: The Most Influential Think Tank of the Biden Era Has a New Leader](https://www.politico.com/news/2021/06/30/center-for-american-progress-new-leader-497167) (Tier 2) (VERIFIED)
+- ~~[The Hill: Liberal News Site ThinkProgress Shutting Down](https://thehill.com/homenews/media/460268-liberal-news-site-thinkprogress-shutting-down/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [The Intercept: Leaked Emails From Pro-Clinton Group Reveal Censorship of Staff on Israel, AIPAC Pandering](https://theintercept.com/2015/11/05/leaked-emails-from-pro-clinton-group-reveal-censorship-of-staff-on-israel-aipac-pandering-warped-militarism/) (Tier 2) (VERIFIED)
+- [Truthdig: The Center for American Progress Isn't Fooling Anybody. ThinkProgress union shutdown analysis (2019)](https://www.truthdig.com/articles/liberal-think-tank-shutters-its-unionized-news-site-thinkprogress/) (Tier 2) (VERIFIED)
+- [The Nation: Corporate Influence at the Center for American Progress?](https://www.thenation.com/article/archive/corporate-influence-center-american-progress/) (Tier 2) (VERIFIED)
+- [Jacobin: How CAP Fuels the Right. Tanden, Israel, and donor-driven foreign policy (2019)](https://jacobin.com/2019/04/center-for-american-progress-tanden-israel-omar) (Tier 2) (VERIFIED)
+- [Semafor: Center for American Progress' new head Neera Tanden says Democrats 'should not be knee-jerk institution defenders' (February 2025)](https://www.semafor.com/article/02/20/2025/new-center-for-american-progress-head-neera-tanden-interview-on-democrats) (Tier 2) (VERIFIED)
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->
@@ -217,14 +217,14 @@ The ThinkProgress episode is instructive: when CAP's own progressive media staff
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/300126510/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/300126510/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/300126510/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/300126510/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/300126510/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/300126510/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/300126510/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/300126510/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/300126510/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/300126510/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/300126510) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/300126510) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Federal Register Activity
@@ -238,13 +238,13 @@ The ThinkProgress episode is instructive: when CAP's own progressive media staff
 | Agencies | Centers for Medicare & Medicaid Services, Commodity Futures Trading Commission, Education Department, Employee Benefits Security Administration, Federal Trade Commission, Health and Human Services Department, Homeland Security Department, Housing and Urban Development Department +6 more |
 
 **Recent regulatory activity:**
-- [Improving Transparency Into Pharmacy Benefit Manager Fee Disclosure](https://www.federalregister.gov/documents/2026/01/30/2026-01907/improving-transparency-into-pharmacy-benefit-manager-fee-disclosure) (2026-01-30) — Labor Department ★
-- [Patient Protection and Affordable Care Act; Marketplace Integrity and Affordability](https://www.federalregister.gov/documents/2025/06/25/2025-11606/patient-protection-and-affordable-care-act-marketplace-integrity-and-affordability) (2025-06-25) — Health and Human Services Department
-- [Uniform Procedures for State Highway Safety Grant Programs](https://www.federalregister.gov/documents/2025/01/06/2024-31487/uniform-procedures-for-state-highway-safety-grant-programs) (2025-01-06) — Transportation Department
-- [Increase of the Automatic Extension Period of Employment Authorization and Documentation for Certain Employment Authorization Document Renewal Applicants](https://www.federalregister.gov/documents/2024/12/13/2024-28584/increase-of-the-automatic-extension-period-of-employment-authorization-and-documentation-for-certain) (2024-12-13) — Homeland Security Department
-- [Medicare and Medicaid Programs: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems; Quality Reporting Programs, Including the Hospital Inpatient Quality Reporting Program; Health and Safety Standards for Obstetrical Services in Hospitals and Critical Access Hospitals; Prior Authorization; Requests for Information; Medicaid and CHIP Continuous Eligibility; Medicaid Clinic Services Four Walls Exceptions; Individuals Currently or Formerly in Custody of Penal Authorities; Revision to Medicare Special Enrollment Period for Formerly Incarcerated Individuals; and All-Inclusive Rate Add-On Payment for High-Cost Drugs Provided by Indian Health Service and Tribal Facilities](https://www.federalregister.gov/documents/2024/11/27/2024-25521/medicare-and-medicaid-programs-hospital-outpatient-prospective-payment-and-ambulatory-surgical) (2024-11-27) — Health and Human Services Department
-- [Negative Option Rule](https://www.federalregister.gov/documents/2024/11/15/2024-25534/negative-option-rule) (2024-11-15) — Federal Trade Commission
+- [Improving Transparency Into Pharmacy Benefit Manager Fee Disclosure](https://www.federalregister.gov/documents/2026/01/30/2026-01907/improving-transparency-into-pharmacy-benefit-manager-fee-disclosure) (VERIFIED) (2026-01-30) — Labor Department ★
+- [Patient Protection and Affordable Care Act; Marketplace Integrity and Affordability](https://www.federalregister.gov/documents/2025/06/25/2025-11606/patient-protection-and-affordable-care-act-marketplace-integrity-and-affordability) (VERIFIED) (2025-06-25) — Health and Human Services Department
+- [Uniform Procedures for State Highway Safety Grant Programs](https://www.federalregister.gov/documents/2025/01/06/2024-31487/uniform-procedures-for-state-highway-safety-grant-programs) (VERIFIED) (2025-01-06) — Transportation Department
+- [Increase of the Automatic Extension Period of Employment Authorization and Documentation for Certain Employment Authorization Document Renewal Applicants](https://www.federalregister.gov/documents/2024/12/13/2024-28584/increase-of-the-automatic-extension-period-of-employment-authorization-and-documentation-for-certain) (VERIFIED) (2024-12-13) — Homeland Security Department
+- [Medicare and Medicaid Programs: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems; Quality Reporting Programs, Including the Hospital Inpatient Quality Reporting Program; Health and Safety Standards for Obstetrical Services in Hospitals and Critical Access Hospitals; Prior Authorization; Requests for Information; Medicaid and CHIP Continuous Eligibility; Medicaid Clinic Services Four Walls Exceptions; Individuals Currently or Formerly in Custody of Penal Authorities; Revision to Medicare Special Enrollment Period for Formerly Incarcerated Individuals; and All-Inclusive Rate Add-On Payment for High-Cost Drugs Provided by Indian Health Service and Tribal Facilities](https://www.federalregister.gov/documents/2024/11/27/2024-25521/medicare-and-medicaid-programs-hospital-outpatient-prospective-payment-and-ambulatory-surgical) (VERIFIED) (2024-11-27) — Health and Human Services Department
+- [Negative Option Rule](https://www.federalregister.gov/documents/2024/11/15/2024-25534/negative-option-rule) (VERIFIED) (2024-11-15) — Federal Trade Commission
 - ... and 121 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Center%20for%20American%20Progress%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Center%20for%20American%20Progress%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->

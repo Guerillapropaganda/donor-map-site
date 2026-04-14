@@ -67,8 +67,8 @@ United Auto Workers. A redirect node. See [[UAW - United Auto Workers]] for the 
 | Net Assets | $838K |
 | Officer Compensation | $97K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 420606689](https://projects.propublica.org/nonprofits/organizations/420606689) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F420606689_202312_990O_2024061722532860.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 420606689](https://projects.propublica.org/nonprofits/organizations/420606689) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F420606689_202312_990O_2024061722532860.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Lobbying Activity
@@ -87,7 +87,7 @@ United Auto Workers. A redirect node. See [[UAW - United Auto Workers]] for the 
 
 **Agencies contacted:** Agriculture, Dept of (USDA), Air Force, Dept of, Army, Dept of (Other), Bureau of Citizenship & Immigration Services (BCIS), Centers For Disease Control & Prevention (CDC), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Consumer Product Safety Commission (CPSC), Council of Economic Advisers (CEA), Defense, Dept of (DOD) +41 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=United%20Auto%20Workers) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=United%20Auto%20Workers) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### SEC Filing Activity
@@ -105,7 +105,7 @@ United Auto Workers. A redirect node. See [[UAW - United Auto Workers]] for the 
 - 2008-02-20 — **8-K**: 8-K
 - 2010-03-30 — **6-K**: FORM 6-K
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22United%20Auto%20Workers%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22United%20Auto%20Workers%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Federal Subawards & Spending Breakdown

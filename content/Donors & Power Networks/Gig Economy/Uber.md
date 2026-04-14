@@ -196,18 +196,18 @@ Trump administration, deregulatory alignment, inauguration donations
 
 ### Sources
 
-- [Ballotpedia: Prop 22 campaign finance](https://ballotpedia.org/California_Proposition_22,_App-Based_Drivers_as_Contractors_and_Labor_Policies_Initiative_%282020%29) (Tier 1)
-- [CalMatters: California Proposition 22. Exempting some gig workers](https://calmatters.org/election-2020-guide/proposition-22-gig-workers-ab-5/) (Tier 2)
-- [LA Times: $205M spending total](https://www.latimes.com/business/story/2020-10-20/prop-22-gig-workers-uber-lyft-record-spending) (Tier 2)
-- [Mercury News: Uber Innovation PAC 2024 legislative spending](https://www.mercurynews.com/2024/11/05/big-spenders-these-companies-are-giving-the-most-to-california-legislative-candidates/) (Tier 2)
-- [Transparency USA: Uber Innovation PAC filings](https://www.transparencyusa.org/ca/committee/uber-innovation-pac-1439102-rcp) (Tier 2)
-- [Northern California Record: $30M PAC commitment](https://norcalrecord.com/stories/665656819-uber-invested-30-million-in-pac-aims-to-reshape-california-s-political-landscape/) (Tier 2)
-- [Yahoo Finance: Khosrowshahi/Uber Trump inauguration](https://finance.yahoo.com/news/uber-ceo-donate-1-million-213832942.html) (Tier 2)
-- [CalMatters: 2026 Uber ballot initiative](https://calmatters.org/category/economy/2026/02/uber-california-ballot-initiatives/) (Tier 2)
-- [ABC7: 2025 unionization bill](https://abc7news.com/post/governor-gavin-newsom-signs-bill-giving-800000-uber-lyft-drivers-california-unionize/17938887/) (Tier 2)
-- [The Hill: Flex Association launch](https://thehill.com/business-a-lobbying/business-a-lobbying/597404-gig-companies-launch-lobbying-group-to-counter-pro/) (Tier 2)
-- [Senate LDA Filings: Uber federal lobbying](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [FPPC: contribution filings](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1)
+- [Ballotpedia: Prop 22 campaign finance](https://ballotpedia.org/California_Proposition_22,_App-Based_Drivers_as_Contractors_and_Labor_Policies_Initiative_%282020%29) (Tier 1) (VERIFIED)
+- [CalMatters: California Proposition 22. Exempting some gig workers](https://calmatters.org/election-2020-guide/proposition-22-gig-workers-ab-5/) (Tier 2) (VERIFIED)
+- ~~[LA Times: $205M spending total](https://www.latimes.com/business/story/2020-10-20/prop-22-gig-workers-uber-lyft-record-spending)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Mercury News: Uber Innovation PAC 2024 legislative spending](https://www.mercurynews.com/2024/11/05/big-spenders-these-companies-are-giving-the-most-to-california-legislative-candidates/) (Tier 2) (VERIFIED)
+- [Transparency USA: Uber Innovation PAC filings](https://www.transparencyusa.org/ca/committee/uber-innovation-pac-1439102-rcp) (Tier 2) (VERIFIED)
+- ~~[Northern California Record: $30M PAC commitment](https://norcalrecord.com/stories/665656819-uber-invested-30-million-in-pac-aims-to-reshape-california-s-political-landscape/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Yahoo Finance: Khosrowshahi/Uber Trump inauguration](https://finance.yahoo.com/news/uber-ceo-donate-1-million-213832942.html) (Tier 2) (VERIFIED)
+- ~~[CalMatters: 2026 Uber ballot initiative](https://calmatters.org/category/economy/2026/02/uber-california-ballot-initiatives/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [ABC7: 2025 unionization bill](https://abc7news.com/post/governor-gavin-newsom-signs-bill-giving-800000-uber-lyft-drivers-california-unionize/17938887/) (Tier 2) (VERIFIED)
+- ~~[The Hill: Flex Association launch](https://thehill.com/business-a-lobbying/business-a-lobbying/597404-gig-companies-launch-lobbying-group-to-counter-pro/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Senate LDA Filings: Uber federal lobbying](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [FPPC: contribution filings](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1) (VERIFIED)
 
 ---
 
@@ -236,13 +236,13 @@ Trump administration, deregulatory alignment, inauguration donations
 
 **Notable filings:**
 
-- 2026-03-30 — **SCHEDULE 13G**: [SCHEDULE 13G](https://www.sec.gov/Archives/edgar/data/1543151/000155278126000171/0001552781-26-000171-index.htm)
-- 2026-03-27 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/1543151/000010290926002412/0000102909-26-002412-index.htm)
-- 2026-03-23 — **ARS**: [ARS](https://www.sec.gov/Archives/edgar/data/1543151/000155278126000148/0001552781-26-000148-index.htm)
-- 2026-03-23 — **DEFA14A**: [DEFA14A](https://www.sec.gov/Archives/edgar/data/1543151/000155278126000147/0001552781-26-000147-index.htm)
-- 2026-03-23 — **DEF 14A**: [DEFINITIVE PROXY STATEMENT](https://www.sec.gov/Archives/edgar/data/1543151/000130817926000125/0001308179-26-000125-index.htm)
+- 2026-03-30 — **SCHEDULE 13G**: [SCHEDULE 13G](https://www.sec.gov/Archives/edgar/data/1543151/000155278126000171/0001552781-26-000171-index.htm) (VERIFIED)
+- 2026-03-27 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/1543151/000010290926002412/0000102909-26-002412-index.htm) (VERIFIED)
+- 2026-03-23 — **ARS**: [ARS](https://www.sec.gov/Archives/edgar/data/1543151/000155278126000148/0001552781-26-000148-index.htm) (VERIFIED)
+- 2026-03-23 — **DEFA14A**: [DEFA14A](https://www.sec.gov/Archives/edgar/data/1543151/000155278126000147/0001552781-26-000147-index.htm) (VERIFIED)
+- 2026-03-23 — **DEF 14A**: [DEFINITIVE PROXY STATEMENT](https://www.sec.gov/Archives/edgar/data/1543151/000130817926000125/0001308179-26-000125-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Uber%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Uber%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Tax Filings (IRS 990)
@@ -257,7 +257,7 @@ Trump administration, deregulatory alignment, inauguration donations
 | IRS Ruling Date | 2024-05-01 |
 | Filings on Record | 0 |
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/884207935) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/884207935) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Vehicle Safety (NHTSA)
@@ -275,14 +275,14 @@ Trump administration, deregulatory alignment, inauguration donations
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Uber) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Uber) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [8156000D95B737A14284](https://search.gleif.org/#/record/8156000D95B737A14284) |
+| LEI | [8156000D95B737A14284](https://search.gleif.org/#/record/8156000D95B737A14284) (VERIFIED) |
 | Legal Name | UBER S.R.L. |
 | Jurisdiction | IT |
 | Entity Status | ACTIVE |
@@ -290,7 +290,7 @@ Trump administration, deregulatory alignment, inauguration donations
 | Registration | ISSUED |
 | Last Updated | 2025-09-10T07:07:19Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Federal Register Activity
@@ -304,15 +304,15 @@ Trump administration, deregulatory alignment, inauguration donations
 | Agencies | Commerce Department, Federal Communications Commission, Federal Motor Carrier Safety Administration, Federal Trade Commission, Fish and Wildlife Service, Interior Department, International Trade Administration, Labor Department +7 more |
 
 **Recent regulatory activity:**
-- [Rule Concerning the Use of Prenotification Negative Option Plans](https://www.federalregister.gov/documents/2026/03/13/2026-04952/rule-concerning-the-use-of-prenotification-negative-option-plans) (2026-03-13) — Federal Trade Commission
-- [Employee or Independent Contractor Status Under the Fair Labor Standards Act, Family and Medical Leave Act, and Migrant and Seasonal Agricultural Worker Protection Act](https://www.federalregister.gov/documents/2026/02/27/2026-03962/employee-or-independent-contractor-status-under-the-fair-labor-standards-act-family-and-medical) (2026-02-27) — Labor Department ★
-- [Performance Appraisal for General Schedule, Prevailing Rate, and Certain Other Employees](https://www.federalregister.gov/documents/2026/02/24/2026-03619/performance-appraisal-for-general-schedule-prevailing-rate-and-certain-other-employees) (2026-02-24) — Personnel Management Office
-- [Managing Senior Professional Performance](https://www.federalregister.gov/documents/2026/02/24/2026-03610/managing-senior-professional-performance) (2026-02-24) — Personnel Management Office ★
-- [Endangered and Threatened Wildlife and Plants; Initiation of 5-Year Status Reviews of 13 Northeastern Species](https://www.federalregister.gov/documents/2025/10/02/2025-19289/endangered-and-threatened-wildlife-and-plants-initiation-of-5-year-status-reviews-of-13-northeastern) (2025-10-02) — Interior Department
-- [TBL Group, Inc.-Control-Kaptyn Nevada, LLC](https://www.federalregister.gov/documents/2025/09/30/2025-18916/tbl-group-inc-control-kaptyn-nevada-llc) (2025-09-30) — Surface Transportation Board
+- [Rule Concerning the Use of Prenotification Negative Option Plans](https://www.federalregister.gov/documents/2026/03/13/2026-04952/rule-concerning-the-use-of-prenotification-negative-option-plans) (VERIFIED) (2026-03-13) — Federal Trade Commission
+- [Employee or Independent Contractor Status Under the Fair Labor Standards Act, Family and Medical Leave Act, and Migrant and Seasonal Agricultural Worker Protection Act](https://www.federalregister.gov/documents/2026/02/27/2026-03962/employee-or-independent-contractor-status-under-the-fair-labor-standards-act-family-and-medical) (VERIFIED) (2026-02-27) — Labor Department ★
+- [Performance Appraisal for General Schedule, Prevailing Rate, and Certain Other Employees](https://www.federalregister.gov/documents/2026/02/24/2026-03619/performance-appraisal-for-general-schedule-prevailing-rate-and-certain-other-employees) (VERIFIED) (2026-02-24) — Personnel Management Office
+- [Managing Senior Professional Performance](https://www.federalregister.gov/documents/2026/02/24/2026-03610/managing-senior-professional-performance) (VERIFIED) (2026-02-24) — Personnel Management Office ★
+- [Endangered and Threatened Wildlife and Plants; Initiation of 5-Year Status Reviews of 13 Northeastern Species](https://www.federalregister.gov/documents/2025/10/02/2025-19289/endangered-and-threatened-wildlife-and-plants-initiation-of-5-year-status-reviews-of-13-northeastern) (VERIFIED) (2025-10-02) — Interior Department
+- [TBL Group, Inc.-Control-Kaptyn Nevada, LLC](https://www.federalregister.gov/documents/2025/09/30/2025-18916/tbl-group-inc-control-kaptyn-nevada-llc) (VERIFIED) (2025-09-30) — Surface Transportation Board
 - ... and 88 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Uber%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Uber%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Lobbying Activity
@@ -331,7 +331,7 @@ Trump administration, deregulatory alignment, inauguration donations
 
 **Agencies contacted:** Commerce, Dept of (DOC), Energy, Dept of, Executive Office of the President (EOP), Federal Highway Administration (FHA), Federal Transit Administration (FTA), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Labor, Dept of (DOL), Office of Management & Budget (OMB), SENATE +2 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Uber) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Uber) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)
@@ -408,7 +408,7 @@ Trump administration, deregulatory alignment, inauguration donations
 | Small Arms, Ordnance, and Ordnance Accessories Manufacturing (332994) | $2.5M |
 | Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing (333924) | $2.2M |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Federal Spending (USASpending)
@@ -440,7 +440,7 @@ Trump administration, deregulatory alignment, inauguration donations
 | $15.0M | Agency for International Development | IDEFEAT TB - INSTITUTIONAL STRENGTHENING TO ACCELERATE ACTIONS FOR TB AND DRUG-RESISTANT TB IN INDIA |
 | $9.8M | Agency for International Development | TO ADVANCE SOUTH AFRICA’S EFFORTS TOWARD TIMELY ACHIEVEMENT OF TB ELIMINATION TARGETS, AS PER THE NA |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/3460c0b7-631b-b70f-4a8a-1dadb59cc731-R/latest) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/3460c0b7-631b-b70f-4a8a-1dadb59cc731-R/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Product Recalls (CPSC)
@@ -453,9 +453,9 @@ Trump administration, deregulatory alignment, inauguration donations
 
 **Recent recalls:**
 
-- [UberScientific Recalls Topical Anesthetic Due to Failure to Meet Child Resistant Closure Requirement; Risk of Poisoning](https://www.cpsc.gov/Recalls/19001) (2018-10-01) — The packaging is not child resistant as required by the Poison Prevention Packaging Act. The pain relieving cream and spray contain lidocaine, posing a risk of poisoning to young children if they put it on their skin or ingest it.
+- ~~[UberScientific Recalls Topical Anesthetic Due to Failure to Meet Child Resistant Closure Requirement; Risk of Poisoning](https://www.cpsc.gov/Recalls/19001)~~ (URL broken, archived by Ops) (2018-10-01) — The packaging is not child resistant as required by the Poison Prevention Packaging Act. The pain relieving cream and spray contain lidocaine, posing a risk of poisoning to young children if they put it on their skin or ingest it.
 
-- [Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Uber) (Tier 1)
+- ~~[Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Uber)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:cpsc-recalls end -->
 
 ### Federal Court Records (CourtListener)
@@ -474,5 +474,5 @@ Trump administration, deregulatory alignment, inauguration donations
 - P. v. Uber Technologies, Inc. (2026) — District Court, N.D. California
 - H. v. Uber Technologies, Inc. (2026) — District Court, N.D. California
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Uber%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Uber%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->

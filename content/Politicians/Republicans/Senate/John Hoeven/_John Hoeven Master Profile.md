@@ -157,16 +157,16 @@ The "energy independence" framing is the rhetorical mechanism that makes all of 
 
 ## Sources
 
-- [FEC Candidate: John Hoeven campaign finance summary](https://www.fec.gov/data/candidate/S0ND00093/) (Tier 1)
-- [FEC: John Hoeven candidate overview](https://www.fec.gov/data/candidate/S0ND00093/) (Tier 1)
-- [Congress.gov: John Hoeven committee assignments](https://www.congress.gov/member/john-hoeven/H001061/committees) (Tier 1)
-- [Hoeven.senate.gov: Keystone XL pipeline legislation](https://www.hoeven.senate.gov/news/news-releases/hoeven-baucus-bipartisan-group-of-senators-introduce-legislation-to-approve-the-keystone-xl-pipeline) (Tier 1)
-- [Hoeven.senate.gov: Statement on DAPL and Keystone XL executive orders](https://www.hoeven.senate.gov/news/news-releases/hoeven-statements-on-president-trumps-executive-orders-advancing-the-keystone-xl-and-dakota-access-pipelines) (Tier 1)
-- [DeSmog: Senator promoting Dakota Access Pipeline invests in Bakken oil wells](https://www.desmog.com/2016/09/01/john-hoeven-dakota-access-pipeline-investments/) (Tier 2)
-- [Counterpunch: Hoeven's pipeline investments and tribal naming controversy](https://www.counterpunch.org/2016/09/02/senator-promoting-dakota-access-pipeline-invests-in-bakken-oil-wells-named-after-indian-tribe/) (Tier 2)
-- [OpenSecrets: John Hoeven personal finances and net worth](https://www.opensecrets.org/personal-finances/john-hoeven/net-worth?cid=N00031688) (Tier 1)
-- [GovTrack: John Hoeven](https://www.govtrack.us/congress/members/john_hoeven/412494) (Tier 3)
-- [Ballotpedia: John Hoeven](https://ballotpedia.org/John_Hoeven) (Tier 3)
+- [FEC Candidate: John Hoeven campaign finance summary](https://www.fec.gov/data/candidate/S0ND00093/) (Tier 1) (VERIFIED)
+- [FEC: John Hoeven candidate overview](https://www.fec.gov/data/candidate/S0ND00093/) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: John Hoeven committee assignments](https://www.congress.gov/member/john-hoeven/H001061/committees)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Hoeven.senate.gov: Keystone XL pipeline legislation](https://www.hoeven.senate.gov/news/news-releases/hoeven-baucus-bipartisan-group-of-senators-introduce-legislation-to-approve-the-keystone-xl-pipeline) (Tier 1) (VERIFIED)
+- [Hoeven.senate.gov: Statement on DAPL and Keystone XL executive orders](https://www.hoeven.senate.gov/news/news-releases/hoeven-statements-on-president-trumps-executive-orders-advancing-the-keystone-xl-and-dakota-access-pipelines) (Tier 1) (VERIFIED)
+- [DeSmog: Senator promoting Dakota Access Pipeline invests in Bakken oil wells](https://www.desmog.com/2016/09/01/john-hoeven-dakota-access-pipeline-investments/) (Tier 2) (VERIFIED)
+- [Counterpunch: Hoeven's pipeline investments and tribal naming controversy](https://www.counterpunch.org/2016/09/02/senator-promoting-dakota-access-pipeline-invests-in-bakken-oil-wells-named-after-indian-tribe/) (Tier 2) (VERIFIED)
+- [OpenSecrets: John Hoeven personal finances and net worth](https://www.opensecrets.org/personal-finances/john-hoeven/net-worth?cid=N00031688) (Tier 1) (VERIFIED)
+- [GovTrack: John Hoeven](https://www.govtrack.us/congress/members/john_hoeven/412494) (Tier 3) (VERIFIED)
+- [Ballotpedia: John Hoeven](https://ballotpedia.org/John_Hoeven) (Tier 3) (VERIFIED)
 
 ---
 
@@ -201,7 +201,7 @@ The "energy independence" framing is the rhetorical mechanism that makes all of 
 | NATIONAL WILDLIFE FEDERATION ACTION FUND | $100,000 | $0 |
 | CLEARPATH ACTION FUND, INC. | $50,000 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S0ND00093/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S0ND00093/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Congressional Stock Trades (STOCK Act)
@@ -229,7 +229,7 @@ The "energy independence" framing is the rhetorical mechanism that makes all of 
 | 12/29/2015 | -- | Sale | $100,001 - $250,000 | Self |
 | 12/28/2016 | CSX | Sale | $50,001 - $100,000 | Self |
 
-- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
 ### Legislative Activity (GovTrack)
@@ -261,5 +261,5 @@ The "energy independence" framing is the rhetorical mechanism that makes all of 
 | 2026-03-24 | On the Motion to Table S. 1383 | Yea | Motion to Table Agreed to |
 | 2026-03-24 | On the Motion to Table S. 1383 | Yea | Motion to Table Agreed to |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412494) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412494) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->

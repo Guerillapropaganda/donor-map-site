@@ -13,7 +13,7 @@ profiles:
 
 ## Hegseth, Caine to hold briefing Wednesday after Trump touts Iran ceasefire
 
-**Source:** [The Hill](https://thehill.com/policy/defense/5820978-pentagon-briefing-trump-iran/)
+**Source:** ~~[The Hill](https://thehill.com/policy/defense/5820978-pentagon-briefing-trump-iran/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-08
 
 Defense Secretary Pete Hegseth and Joint Chiefs of Staff Chair Gen. Dan Caine will brief the press at the Pentagon on Wednesday at 8 a.m. EDT, after President Trump announced a two-week pause on strikes against Iran. The Pentagon previously canceled a briefing featuring Hegseth and Caine set for 8 a.m. EDT on Tuesday. That…

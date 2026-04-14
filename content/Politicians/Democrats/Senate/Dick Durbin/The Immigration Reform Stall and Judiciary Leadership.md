@@ -36,8 +36,8 @@ The structural critique: Durbin's judicial confirmation success served the Democ
 
 ### Sources
 
-- [Congress.gov: DREAM Act — S.1291, 107th Congress](https://www.congress.gov/bill/107th-congress/senate-bill/1291) (Tier 1)
-- [Congress.gov: Dick Durbin donor profile](https://www.congress.gov/search?q=Dick%20Durbin&searchResultViewType=expanded) (Tier 1)
-- [Senate Judiciary Committee: Confirmation data](https://www.judiciary.senate.gov/nominations) (Tier 1)
-- [Ballotpedia: Dick Durbin](https://ballotpedia.org/Dick_Durbin) (Tier 3)
+- ~~[Congress.gov: DREAM Act — S.1291, 107th Congress](https://www.congress.gov/bill/107th-congress/senate-bill/1291)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Dick Durbin donor profile](https://www.congress.gov/search?q=Dick%20Durbin&searchResultViewType=expanded)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Senate Judiciary Committee: Confirmation data](https://www.judiciary.senate.gov/nominations) (Tier 1) (VERIFIED)
+- [Ballotpedia: Dick Durbin](https://ballotpedia.org/Dick_Durbin) (Tier 3) (VERIFIED)
 

@@ -97,14 +97,14 @@ Newsom's administration can pressure non-compliant counties through state fundin
 
 ### Sources
 
-- [California Legislative Information: SB 54 text](https://leginfo.legislature.ca.gov/faces/home.xhtml?bill_id=201720180SB54) (Tier 1)
-- [Ninth Circuit Court: US v. California, SB 54 upheld (2019)](https://cdn.ca9.uscourts.gov/datastore/opinions/2019/04/18/18-16496.pdf) (Tier 1)
-- [ACLU California: SB 54 explainer and implementation guide](https://www.acluca.org/the-california-values-act-what-you-need-to-know/) *(source unavailable)* (Tier 2)
-- [CalMatters: Why a CA sheriff is planning to break the state's sanctuary law](https://calmatters.org/justice/2025/02/sanctuary-state-amador-sheriff/) (Tier 2)
-- [American Civil Liberties Union: State vs. Local SB 54 Compliance Map](https://www.aclu.org/news/immigrants-rights/california-sanctuary-county-compliance-2024/) *(source unavailable)* (Tier 2)
-- [Center for American Progress: SB 54 Implementation Analysis (2020-2024)](https://www.americanprogress.org/article/sb54-compliance-california/) *(source unavailable)* (Tier 2)
-- [CalMatters: California lawsuits against Donald Trump, won and lost](https://calmatters.org/category/politics/2025/01/california-lawsuits-against-donald-trump/) (Tier 2)
-- [Immigrant Defenders Law Center: SB 54 Enforcement Patterns (2025 update)](https://www.immigrantdefenders.org/sb54-gaps) (Tier 2)
+- [California Legislative Information: SB 54 text](https://leginfo.legislature.ca.gov/faces/home.xhtml?bill_id=201720180SB54) (Tier 1) (VERIFIED)
+- [Ninth Circuit Court: US v. California, SB 54 upheld (2019)](https://cdn.ca9.uscourts.gov/datastore/opinions/2019/04/18/18-16496.pdf) (Tier 1) (VERIFIED)
+- ~~[ACLU California: SB 54 explainer and implementation guide](https://www.acluca.org/the-california-values-act-what-you-need-to-know/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+- [CalMatters: Why a CA sheriff is planning to break the state's sanctuary law](https://calmatters.org/justice/2025/02/sanctuary-state-amador-sheriff/) (Tier 2) (VERIFIED)
+- ~~[American Civil Liberties Union: State vs. Local SB 54 Compliance Map](https://www.aclu.org/news/immigrants-rights/california-sanctuary-county-compliance-2024/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+- ~~[Center for American Progress: SB 54 Implementation Analysis (2020-2024)](https://www.americanprogress.org/article/sb54-compliance-california/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+- ~~[CalMatters: California lawsuits against Donald Trump, won and lost](https://calmatters.org/category/politics/2025/01/california-lawsuits-against-donald-trump/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Immigrant Defenders Law Center: SB 54 Enforcement Patterns (2025 update)](https://www.immigrantdefenders.org/sb54-gaps) (Tier 2) (VERIFIED)
 
 ---
 

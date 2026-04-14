@@ -144,23 +144,23 @@ Progressive base and housing advocates hear: "California is addressing the housi
 6. Behested payments involving housing industry, **Not yet started.**
 
 ### Primary sources to pull:
-- [California FPPC](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1)
-- [Cal-Access Power Search](https://powersearch.sos.ca.gov/advanced.php) (Tier 1)
-- [OpenSecrets California](https://www.opensecrets.org/states/CA) (Tier 1)
+- [California FPPC](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1) (VERIFIED)
+- [Cal-Access Power Search](https://powersearch.sos.ca.gov/advanced.php) (Tier 1) (VERIFIED)
+- [OpenSecrets California](https://www.opensecrets.org/states/CA) (Tier 1) (VERIFIED)
 
 ---
 
 ### Sources
 
-- [The Real Deal: Real Estate Recall Defense Donations](https://therealdeal.com/la/2021/07/19/real-estate-players-back-newsom-in-recall-election/) (Tier 2)
-- [Fox News: Newsom campaign donors received billions in CA contracts](https://www.foxnews.com/politics/gavin-newsom-campaign-donors-received-billions-ca-state-contracts-investigation-finds.amp) (Tier 3)
-- [OpenSecrets: Newsom 2022 Campaign Contributors](https://www.opensecrets.org/political-action-committees-pacs/C00836353/donors/2024) (Tier 1)
-- [California Globe: Newsom Solicited State Vendors for Campaign Donations](https://californiaglobe.com/articles/open-the-books-gov-newsom-solicited-state-vendors-for-campaign-donations/) (Tier 3)
-- [Gibson Dunn: California Zoning and Development Legislation Summary](https://www.gibsondunn.com/california-governor-newsom-signs-three-important-new-bills-into-law-impacting-residential-zoning-and-development/) (Tier 2)
-- [California Governor Newsom Signs Historic Housing Legislation](https://www.gov.ca.gov/2021/09/16/governor-newsom-signs-historic-legislation-to-boost-californias-housing-supply-and-fight-the-housing-crisis/) (Tier 1)
-- [CBS8: Newsom Signs Housing Density Legislation](https://www.cbs8.com/article/news/local/governor-newsom-signs-new-legislation-to-increase-housing-density-in-california-communities/509-72465835-1bc2-4c66-8dbb-e978a204fbcc) (Tier 2)
-- [California YIMBY: SB 9 Analysis](https://cayimby.org/legislation/sb-9/) (Tier 3)
-- [HCD: SB 9 Fact Sheet](https://hcd.ca.gov/sites/default/files/docs/planning-and-community/sb-9-fact-sheet.pdf) (Tier 1)
+- [The Real Deal: Real Estate Recall Defense Donations](https://therealdeal.com/la/2021/07/19/real-estate-players-back-newsom-in-recall-election/) (Tier 2) (VERIFIED)
+- [Fox News: Newsom campaign donors received billions in CA contracts](https://www.foxnews.com/politics/gavin-newsom-campaign-donors-received-billions-ca-state-contracts-investigation-finds.amp) (Tier 3) (VERIFIED)
+- [OpenSecrets: Newsom 2022 Campaign Contributors](https://www.opensecrets.org/political-action-committees-pacs/C00836353/donors/2024) (Tier 1) (VERIFIED)
+- [California Globe: Newsom Solicited State Vendors for Campaign Donations](https://californiaglobe.com/articles/open-the-books-gov-newsom-solicited-state-vendors-for-campaign-donations/) (Tier 3) (VERIFIED)
+- [Gibson Dunn: California Zoning and Development Legislation Summary](https://www.gibsondunn.com/california-governor-newsom-signs-three-important-new-bills-into-law-impacting-residential-zoning-and-development/) (Tier 2) (VERIFIED)
+- [California Governor Newsom Signs Historic Housing Legislation](https://www.gov.ca.gov/2021/09/16/governor-newsom-signs-historic-legislation-to-boost-californias-housing-supply-and-fight-the-housing-crisis/) (Tier 1) (VERIFIED)
+- [CBS8: Newsom Signs Housing Density Legislation](https://www.cbs8.com/article/news/local/governor-newsom-signs-new-legislation-to-increase-housing-density-in-california-communities/509-72465835-1bc2-4c66-8dbb-e978a204fbcc) (Tier 2) (VERIFIED)
+- [California YIMBY: SB 9 Analysis](https://cayimby.org/legislation/sb-9/) (Tier 3) (VERIFIED)
+- [HCD: SB 9 Fact Sheet](https://hcd.ca.gov/sites/default/files/docs/planning-and-community/sb-9-fact-sheet.pdf) (Tier 1) (NEEDS REVIEW)
 
 ---
 

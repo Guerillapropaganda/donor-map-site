@@ -55,7 +55,7 @@ Coinbase Global, Inc. The largest cryptocurrency exchange in the United States a
 
 Coinbase's political operation is proportionally the most aggressive of any company its size in American history. The company's 2024 political spending relative to its revenue ($6.6 billion) far exceeds the lobbying-to-revenue ratio of even the largest pharmaceutical and defense companies.
 
-- [OpenSecrets: Coinbase Global organizational profile](https://www.opensecrets.org/orgs/coinbase-global/summary?id=D000075712) (Tier 1)
+- [OpenSecrets: Coinbase Global organizational profile](https://www.opensecrets.org/orgs/coinbase-global/summary?id=D000075712) (Tier 1) (VERIFIED)
 
 ---
 
@@ -106,12 +106,12 @@ Coinbase is the crypto industry's political infrastructure. The company's $45 mi
 ### Sources
 
 - [OpenSecrets: Coinbase Global organizational profile](https://www.opensecrets.org/orgs/coinbase-global/summary?id=D000075712) (Tier 1)
-- [FEC: Coinbase PAC filings](https://www.fec.gov/data/committee/C00810184/) (Tier 1)
-- [FEC: Fairshake PAC filings](https://www.fec.gov/data/committee/C00835959/) (Tier 1)
-- [ReadSludge: Crypto Ally French Hill to Lead Financial Services Committee](https://readsludge.com/2024/12/31/crypto-ally-french-hill-to-lead-financial-services-committee/) (Tier 2)
-- [The Verge: Coinbase political spending and Fairshake PAC](https://www.theverge.com/coinbase-fairshake-pac-political-spending/) (Tier 2)
-- [Washington Post: Crypto cash helps propel Trump, other allies to 2024 election victory](https://www.washingtonpost.com/business/2024/11/06/crypto-cash-helps-propel-trump-other-allies-2024-election-victory/) (Tier 2)
-- [Ballotpedia: Coinbase political spending](https://ballotpedia.org/Coinbase) (Tier 3)
+- [FEC: Coinbase PAC filings](https://www.fec.gov/data/committee/C00810184/) (Tier 1) (VERIFIED)
+- [FEC: Fairshake PAC filings](https://www.fec.gov/data/committee/C00835959/) (Tier 1) (VERIFIED)
+- [ReadSludge: Crypto Ally French Hill to Lead Financial Services Committee](https://readsludge.com/2024/12/31/crypto-ally-french-hill-to-lead-financial-services-committee/) (Tier 2) (VERIFIED)
+- ~~[The Verge: Coinbase political spending and Fairshake PAC](https://www.theverge.com/coinbase-fairshake-pac-political-spending/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Washington Post: Crypto cash helps propel Trump, other allies to 2024 election victory](https://www.washingtonpost.com/business/2024/11/06/crypto-cash-helps-propel-trump-other-allies-2024-election-victory/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Ballotpedia: Coinbase political spending](https://ballotpedia.org/Coinbase) (Tier 3) (VERIFIED)
 
 ---
 
@@ -143,7 +143,7 @@ Coinbase is the crypto industry's political infrastructure. The company's $45 mi
 - United States v. Approximately 1,070,013.93441 Tether (USDT) Cryptocurrency (2026) — District Court, M.D. Alabama
 - United States v. Daghita (2026) — District Court, E.D. Virginia
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Coinbase%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Coinbase%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -185,14 +185,14 @@ Coinbase is the crypto industry's political infrastructure. The company's $45 mi
 | Commodity Contracts Intermediation (523160) | $7.0M |
 | Securities and Commodity Exchanges (523210) | $1.0M |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [549300QHD76EP6ZKTT48](https://search.gleif.org/#/record/549300QHD76EP6ZKTT48) |
+| LEI | [549300QHD76EP6ZKTT48](https://search.gleif.org/#/record/549300QHD76EP6ZKTT48) (VERIFIED) |
 | Legal Name | COINBASE, INC. |
 | Jurisdiction | US-DE |
 | Entity Status | ACTIVE |
@@ -200,7 +200,7 @@ Coinbase is the crypto industry's political infrastructure. The company's $45 mi
 | Registration | ISSUED |
 | Last Updated | 2026-02-07T23:51:00Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Vehicle Safety (NHTSA)
@@ -218,7 +218,7 @@ Coinbase is the crypto industry's political infrastructure. The company's $45 mi
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Coinbase) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Coinbase) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Federal Spending (USASpending)
@@ -237,7 +237,7 @@ Coinbase is the crypto industry's political infrastructure. The company's $45 mi
 | $910K | Department of Homeland Security | COINBASE ANALYTICS LICENSES |
 | $29K | Department of Homeland Security | COINBASE ANALYTICS PLATFORM LICENSES |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/92758004-9797-9b84-aca3-932d2c0322e5-P/latest) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/92758004-9797-9b84-aca3-932d2c0322e5-P/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 <!-- auto:usaspending pending-merge 2026-04-11 -->
@@ -258,7 +258,7 @@ Coinbase is the crypto industry's political infrastructure. The company's $45 mi
 | $910K | Department of Homeland Security | COINBASE ANALYTICS LICENSES |
 | $29K | Department of Homeland Security | COINBASE ANALYTICS PLATFORM LICENSES |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/92758004-9797-9b84-aca3-932d2c0322e5-C/latest) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/92758004-9797-9b84-aca3-932d2c0322e5-C/latest) (Tier 1) (VERIFIED)
 
 <!-- auto:usaspending pending-merge end -->
 
@@ -271,9 +271,9 @@ Coinbase is the crypto industry's political infrastructure. The company's $45 mi
 
 **Recent HSR merger filings (early terminations granted):**
 
-- [Andreessen Horowitz LSV Fund I, L.P. → Coinbase Global, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20201484) (2020-09-22)
+- [Andreessen Horowitz LSV Fund I, L.P. → Coinbase Global, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20201484) (VERIFIED) (2020-09-22)
 
-> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Coinbase).
+> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Coinbase) (VERIFIED).
 
-- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Coinbase) (Tier 1)
+- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Coinbase) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->

@@ -152,15 +152,15 @@ The post-government revolving door confirmed the class function. Hudson Institut
 
 ## Sources
 
-- [ThinkProgress: Pompeo is the #1 all-time recipient of Koch Industries money](https://archive.thinkprogress.org/secretary-of-state-pick-pompeo-top-koch-money-recipient-e910ba9e14fd/) (Tier 2)
-- [The Nation: The Koch Brothers get their own Secretary of State](https://www.thenation.com/article/archive/the-koch-brothers-get-their-very-own-secretary-of-state/) (Tier 2)
-- [Quartz: Secretary of State nominee Pompeo owes his career to the Koch brothers](https://qz.com/1227882/secretary-of-state-nominee-mike-pompeo-owes-his-political-career-to-the-koch-brothers) (Tier 2)
-- [WBUR/Here & Now: How Mike Pompeo went from Kansas to Secretary of State](https://www.wbur.org/hereandnow/2019/11/28/mike-pompeo-secretary-of-state-profile) (Tier 2)
-- [Hudson Institute: Michael R. Pompeo — Distinguished Fellow](https://www.hudson.org/experts/1357-michael-r-pompeo) (Tier 2)
-- [The Hill: Pompeo joins conservative think tank Hudson Institute](https://thehill.com/homenews/administration/536023-pompeo-to-join-conservative-think-tank-hudson-institute/) (Tier 2)
-- [SourceWatch: Mike Pompeo](https://sourcewatch.org/index.php/Mike_Pompeo) (Tier 3)
-- [Wikipedia: Mike Pompeo](https://en.wikipedia.org/wiki/Mike_Pompeo) (Tier 3)
-- [FEC: Mike Pompeo contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=pompeo,+mike) (Tier 1)
+- [ThinkProgress: Pompeo is the #1 all-time recipient of Koch Industries money](https://archive.thinkprogress.org/secretary-of-state-pick-pompeo-top-koch-money-recipient-e910ba9e14fd/) (Tier 2) (VERIFIED)
+- [The Nation: The Koch Brothers get their own Secretary of State](https://www.thenation.com/article/archive/the-koch-brothers-get-their-very-own-secretary-of-state/) (Tier 2) (VERIFIED)
+- [Quartz: Secretary of State nominee Pompeo owes his career to the Koch brothers](https://qz.com/1227882/secretary-of-state-nominee-mike-pompeo-owes-his-political-career-to-the-koch-brothers) (Tier 2) (VERIFIED)
+- [WBUR/Here & Now: How Mike Pompeo went from Kansas to Secretary of State](https://www.wbur.org/hereandnow/2019/11/28/mike-pompeo-secretary-of-state-profile) (Tier 2) (VERIFIED)
+- [Hudson Institute: Michael R. Pompeo — Distinguished Fellow](https://www.hudson.org/experts/1357-michael-r-pompeo) (Tier 2) (VERIFIED)
+- ~~[The Hill: Pompeo joins conservative think tank Hudson Institute](https://thehill.com/homenews/administration/536023-pompeo-to-join-conservative-think-tank-hudson-institute/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[SourceWatch: Mike Pompeo](https://sourcewatch.org/index.php/Mike_Pompeo)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [Wikipedia: Mike Pompeo](https://en.wikipedia.org/wiki/Mike_Pompeo) (Tier 3) (VERIFIED)
+- [FEC: Mike Pompeo contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=pompeo,+mike) (Tier 1) (VERIFIED)
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->
@@ -183,7 +183,7 @@ The post-government revolving door confirmed the class function. Hudson Institut
 | 2017-01-13 | On Ordering the Previous Question: H.Res. 48: Providing for consideration of the… | Not Voting | Passed |
 | 2017-01-12 | H.R. 238: Commodity End-User Relief Act | Not Voting | Passed |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412431) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412431) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
 
 ### Influence Network (Cross-Reference)

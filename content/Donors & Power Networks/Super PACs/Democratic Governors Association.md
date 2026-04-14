@@ -123,11 +123,11 @@ The asymmetry between DGA's stated goal (elect Democratic governors) and its act
 
 ### Sources
 
-- [OpenSecrets: Democratic Governors Association profile](https://www.opensecrets.org/orgs/democratic-governors-association/summary) (Tier 1)
-- [ProPublica 527 Explorer: Democratic Governors Association — $884M contributions, IRS Form 8872 filings](https://projects.propublica.org/527-explorer/orgs/521304889) (Tier 1)
-- [Center for Public Integrity: How Democrats use dark money and win elections](https://publicintegrity.org/politics/how-democrats-use-dark-money-and-win-elections/) (Tier 2)
-- [Center for Responsive Politics: State-level mega-donor spending](https://www.opensecrets.org/news/) (Tier 2)
-- [Ballotpedia: 2022 Gubernatorial Elections](https://ballotpedia.org/2022_United_States_gubernatorial_elections) (Tier 3)
+- ~~[OpenSecrets: Democratic Governors Association profile](https://www.opensecrets.org/orgs/democratic-governors-association/summary)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [ProPublica 527 Explorer: Democratic Governors Association — $884M contributions, IRS Form 8872 filings](https://projects.propublica.org/527-explorer/orgs/521304889) (Tier 1) (VERIFIED)
+- [Center for Public Integrity: How Democrats use dark money and win elections](https://publicintegrity.org/politics/how-democrats-use-dark-money-and-win-elections/) (Tier 2) (VERIFIED)
+- [Center for Responsive Politics: State-level mega-donor spending](https://www.opensecrets.org/news/) (Tier 2) (VERIFIED)
+- [Ballotpedia: 2022 Gubernatorial Elections](https://ballotpedia.org/2022_United_States_gubernatorial_elections) (Tier 3) (VERIFIED)
 
 ---
 
@@ -153,12 +153,12 @@ The asymmetry between DGA's stated goal (elect Democratic governors) and its act
 | Agencies | Coast Guard, Federal Election Commission, Homeland Security Department |
 
 **Recent regulatory activity:**
-- [Sunshine Act Meetings](https://www.federalregister.gov/documents/2013/09/10/2013-22067/sunshine-act-meetings) (2013-09-10) — Federal Election Commission
-- [Sunshine Act Meetings](https://www.federalregister.gov/documents/2013/08/20/2013-20344/sunshine-act-meetings) (2013-08-20) — Federal Election Commission
-- [Sunshine Act Meetings](https://www.federalregister.gov/documents/2013/07/23/2013-17733/sunshine-act-meetings) (2013-07-23) — Federal Election Commission
-- [Safety Zone; Democratic Governors Association Fireworks Display-Boston, MA](https://www.federalregister.gov/documents/2004/07/23/04-16831/safety-zone-democratic-governors-association-fireworks-display-boston-ma) (2004-07-23) — Homeland Security Department
+- [Sunshine Act Meetings](https://www.federalregister.gov/documents/2013/09/10/2013-22067/sunshine-act-meetings) (VERIFIED) (2013-09-10) — Federal Election Commission
+- [Sunshine Act Meetings](https://www.federalregister.gov/documents/2013/08/20/2013-20344/sunshine-act-meetings) (VERIFIED) (2013-08-20) — Federal Election Commission
+- [Sunshine Act Meetings](https://www.federalregister.gov/documents/2013/07/23/2013-17733/sunshine-act-meetings) (VERIFIED) (2013-07-23) — Federal Election Commission
+- [Safety Zone; Democratic Governors Association Fireworks Display-Boston, MA](https://www.federalregister.gov/documents/2004/07/23/04-16831/safety-zone-democratic-governors-association-fireworks-display-boston-ma) (VERIFIED) (2004-07-23) — Homeland Security Department
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Democratic%20Governors%20Association%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Democratic%20Governors%20Association%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Tax Filings (IRS 990)
@@ -176,12 +176,12 @@ The asymmetry between DGA's stated goal (elect Democratic governors) and its act
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/274862860/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/274862860/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/274862860/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/274862860/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/274862860/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/274862860/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/274862860/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/274862860/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/274862860/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/274862860/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/274862860) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/274862860) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->

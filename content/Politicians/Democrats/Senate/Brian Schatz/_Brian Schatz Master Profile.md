@@ -148,20 +148,20 @@ The genuine wins are real. Schatz secured $1.6 billion in Maui wildfire housing 
 
 ## Sources
 
-- [FEC Candidate: Brian Schatz Campaign Finance Summary](https://www.fec.gov/data/candidate/S4HI00136/) (Tier 1)
-- [FEC: Candidate Brian Schatz (S4HI00136)](https://www.fec.gov/data/candidate/S4HI00136/) (Tier 1)
-- [The American Prospect: Brian Schatz's Signals of Comfort With Big Money](https://prospect.org/2026/03/13/brian-schatz-comfort-with-big-money/) (Tier 2)
-- [The New Republic: One Democrat Votes Against Landmark Housing Bill Even Republicans Back](https://newrepublic.com/post/207700/one-democrat-senate-votes-no-housing-bill) (Tier 2)
-- [CNBC: Housing affordability bill clears Senate as investor ban creates headaches](https://www.cnbc.com/2026/03/12/housing-bill-affordability-investor-ban.html) (Tier 2)
-- [The Forward: Jewish senator Brian Schatz likely to be whip, then Schumer's heir](https://forward.com/news/763564/brian-schatz-religion-jewish-whip-senate-democrats/) (Tier 2)
-- [Punchbowl News: Schatz locks up whip race as Schumer backs Hawaii Democrat](https://punchbowl.news/article/senate/schatz-secures-schumer-backing/) (Tier 2)
-- [Axios: Inside Democrat Schatz's donor retreat](https://www.axios.com/2026/02/24/shutdown-democrat-brian-schatz-donor-retreat) (Tier 2)
-- [Honolulu Civil Beat: Brian Schatz Has Become A Big Shot In Campaign Fundraising](https://www.civilbeat.org/2018/09/brian-schatz-has-become-a-big-shot-in-campaign-fundraising/) (Tier 2)
-- [Maui Now: Schatz secures $1.6B in long-term housing funds for Maui](https://mauinow.com/2024/12/18/schatz-must-pass-federal-bill-includes-1-6b-in-long-term-housing-funds-for-maui/) (Tier 2)
-- [Senate Indian Affairs Committee: 2024 Schatz legislation summary](https://www.indian.senate.gov/newsroom/press-release/democratic/in-2024-chair-schatz-led-passage-of-bills-to-support-native-lands-tourism-water-rights-buffalo-restoration-and-ihs-services-secured-critical-funding-for-native-communities-nationwide/) (Tier 1)
-- [Wikipedia: Brian Schatz](https://en.wikipedia.org/wiki/Brian_Schatz) (Tier 3)
-- [Ballotpedia: Brian Schatz](https://ballotpedia.org/Brian_Schatz) (Tier 3)
-- [GovTrack: Senator Brian Schatz](https://www.govtrack.us/congress/members/brian_schatz/412507) (Tier 3)
+- [FEC Candidate: Brian Schatz Campaign Finance Summary](https://www.fec.gov/data/candidate/S4HI00136/) (Tier 1) (VERIFIED)
+- [FEC: Candidate Brian Schatz (S4HI00136)](https://www.fec.gov/data/candidate/S4HI00136/) (Tier 1) (VERIFIED)
+- [The American Prospect: Brian Schatz's Signals of Comfort With Big Money](https://prospect.org/2026/03/13/brian-schatz-comfort-with-big-money/) (Tier 2) (VERIFIED)
+- [The New Republic: One Democrat Votes Against Landmark Housing Bill Even Republicans Back](https://newrepublic.com/post/207700/one-democrat-senate-votes-no-housing-bill) (Tier 2) (VERIFIED)
+- [CNBC: Housing affordability bill clears Senate as investor ban creates headaches](https://www.cnbc.com/2026/03/12/housing-bill-affordability-investor-ban.html) (Tier 2) (VERIFIED)
+- [The Forward: Jewish senator Brian Schatz likely to be whip, then Schumer's heir](https://forward.com/news/763564/brian-schatz-religion-jewish-whip-senate-democrats/) (Tier 2) (VERIFIED)
+- [Punchbowl News: Schatz locks up whip race as Schumer backs Hawaii Democrat](https://punchbowl.news/article/senate/schatz-secures-schumer-backing/) (Tier 2) (VERIFIED)
+- ~~[Axios: Inside Democrat Schatz's donor retreat](https://www.axios.com/2026/02/24/shutdown-democrat-brian-schatz-donor-retreat)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Honolulu Civil Beat: Brian Schatz Has Become A Big Shot In Campaign Fundraising](https://www.civilbeat.org/2018/09/brian-schatz-has-become-a-big-shot-in-campaign-fundraising/) (Tier 2) (VERIFIED)
+- [Maui Now: Schatz secures $1.6B in long-term housing funds for Maui](https://mauinow.com/2024/12/18/schatz-must-pass-federal-bill-includes-1-6b-in-long-term-housing-funds-for-maui/) (Tier 2) (VERIFIED)
+- [Senate Indian Affairs Committee: 2024 Schatz legislation summary](https://www.indian.senate.gov/newsroom/press-release/democratic/in-2024-chair-schatz-led-passage-of-bills-to-support-native-lands-tourism-water-rights-buffalo-restoration-and-ihs-services-secured-critical-funding-for-native-communities-nationwide/) (Tier 1) (VERIFIED)
+- [Wikipedia: Brian Schatz](https://en.wikipedia.org/wiki/Brian_Schatz) (Tier 3) (VERIFIED)
+- [Ballotpedia: Brian Schatz](https://ballotpedia.org/Brian_Schatz) (Tier 3) (VERIFIED)
+- [GovTrack: Senator Brian Schatz](https://www.govtrack.us/congress/members/brian_schatz/412507) (Tier 3) (VERIFIED)
 
 ---
 
@@ -195,7 +195,7 @@ party:: Democrat
 | — |  | — |
 | — |  | — |
 
-- [Source: Congress.gov](https://www.congress.gov/member/S001194) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/S001194)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Campaign Finance (FEC)
@@ -228,7 +228,7 @@ party:: Democrat
 | INTERNATIONAL LONGSHORE AND WAREHOUSE UNION -- POLITICAL ACTION FUND | $1,613 | $0 |
 | CLIMATE HAWKS VOTE | $1,500 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S4HI00136/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S4HI00136/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (GovTrack)
@@ -261,7 +261,7 @@ party:: Democrat
 | 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
 | 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412507) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412507) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
 
 ### Influence Network (Cross-Reference)

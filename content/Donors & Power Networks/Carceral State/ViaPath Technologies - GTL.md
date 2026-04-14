@@ -64,11 +64,11 @@ The duopoly itself is the class analysis. Two private equity-owned companies con
 
 ### Sources
 
-- [OpenSecrets: ViaPath Technologies lobbying and contribution data](https://www.opensecrets.org/federal-lobbying/) (Tier 2)
-- [FCC: Commission actions on prison telecom](https://www.fcc.gov/wireline-competition/commission-action-prior-martha-wright-reed-act) (Tier 1)
-- [Prison Policy Initiative: Prison telecom duopoly research](https://www.prisonpolicy.org/phones/) (Tier 2)
-- [Worth Rises: Prison Industry Mapping Project](https://worthrises.org/theprisonindustry) (Tier 3)
-- [Prison Policy Initiative: Telecom provider analysis](https://www.prisonpolicy.org/phones/state_of_phone_justice.html) (Tier 2)
+- [OpenSecrets: ViaPath Technologies lobbying and contribution data](https://www.opensecrets.org/federal-lobbying/) (Tier 2) (VERIFIED)
+- [FCC: Commission actions on prison telecom](https://www.fcc.gov/wireline-competition/commission-action-prior-martha-wright-reed-act) (Tier 1) (VERIFIED)
+- [Prison Policy Initiative: Prison telecom duopoly research](https://www.prisonpolicy.org/phones/) (Tier 2) (VERIFIED)
+- [Worth Rises: Prison Industry Mapping Project](https://worthrises.org/theprisonindustry) (Tier 3) (VERIFIED)
+- [Prison Policy Initiative: Telecom provider analysis](https://www.prisonpolicy.org/phones/state_of_phone_justice.html) (Tier 2) (VERIFIED)
 
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->
@@ -86,7 +86,7 @@ The duopoly itself is the class analysis. Two private equity-owned companies con
 
 **Agencies contacted:** Federal Communications Commission (FCC), HOUSE OF REPRESENTATIVES, SENATE
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=ViaPath%20Technologies%20-%20GTL) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=ViaPath%20Technologies%20-%20GTL) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Vehicle Safety (NHTSA)
@@ -104,5 +104,5 @@ The duopoly itself is the class analysis. Two private equity-owned companies con
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=ViaPath%20Technologies%20-%20GTL) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=ViaPath%20Technologies%20-%20GTL) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->

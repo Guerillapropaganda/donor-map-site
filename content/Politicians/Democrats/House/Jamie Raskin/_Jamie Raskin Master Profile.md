@@ -178,19 +178,19 @@ On campaign finance reform, he leads with the structural argument — corporatio
 
 ## Sources
 
-- [FEC Candidate: Jamie Raskin donor profile](https://www.fec.gov/data/candidate/H6MD08457/) (Tier 1)
-- [FEC: Jamie Raskin candidate profile](https://www.fec.gov/data/candidate/H6MD08457/) (Tier 1)
-- [ProPublica FEC Itemizer: Jamie Raskin PAC donations](https://projects.propublica.org/itemizer/committee/C00575126/2024/pac-donations) (Tier 1)
-- [Congress.gov: Jamie Raskin member profile](https://www.congress.gov/member/jamie-raskin/R000606) (Tier 1)
-- [Raskin.house.gov: Committees and Caucuses](https://raskin.house.gov/committees-and-caucuses) (Tier 1)
-- [Raskin.house.gov: Raskin to lead Democrats on Judiciary](https://raskin.house.gov/2024/12/rep-jamie-raskin-to-lead-democrats-on-house-judiciary-committee) (Tier 1)
-- [NPR: Amid grief, Raskin leads Trump impeachment effort](https://www.npr.org/2021/01/27/960768286/amid-grief-rep-jamie-raskin-leads-trump-impeachment-effort-in-senate) (Tier 2)
-- [PBS: Raskin on what the Jan 6 committee accomplished](https://www.pbs.org/newshour/show/rep-raskin-on-what-the-jan-6-committee-accomplished-in-the-first-public-hearing) (Tier 2)
-- [NPR: Raskin discusses Jan 6 referrals for Trump](https://www.npr.org/2022/12/20/1144311577/jan-6-trump-criminal-referrals-jamie-raskin) (Tier 2)
-- [Fox Business: Top House Oversight Dem faces ethics complaint over wife's stock trades](https://www.foxbusiness.com/politics/top-house-dem-faces-renewed-ethics-complaint-wifes-1-5-million-stock-payday) (Tier 3)
-- [Clean Slate MoCo: Raskin's big-money individual donors in Montgomery County](https://www.cleanslatemoco.com/looking-into-congressman-jamie-raskins-big-money-individual-donors-based-in-montgomery-county-this-cycle/3092) (Tier 3)
-- [American University: Jamie Raskin faculty profile](https://www.american.edu/wcl/faculty/raskin.cfm) (Tier 3)
-- [Free Speech for People: Raskin introduces bill to ban multinational corporate campaign spending](https://freespeechforpeople.org/rep-jamie-raskin-introduces-bill-to-ban-multinational-corporations-from-spending-money-in-u-s-elections/) (Tier 2)
+- [FEC Candidate: Jamie Raskin donor profile](https://www.fec.gov/data/candidate/H6MD08457/) (Tier 1) (VERIFIED)
+- [FEC: Jamie Raskin candidate profile](https://www.fec.gov/data/candidate/H6MD08457/) (Tier 1) (VERIFIED)
+- [ProPublica FEC Itemizer: Jamie Raskin PAC donations](https://projects.propublica.org/itemizer/committee/C00575126/2024/pac-donations) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: Jamie Raskin member profile](https://www.congress.gov/member/jamie-raskin/R000606)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Raskin.house.gov: Committees and Caucuses](https://raskin.house.gov/committees-and-caucuses) (Tier 1) (VERIFIED)
+- [Raskin.house.gov: Raskin to lead Democrats on Judiciary](https://raskin.house.gov/2024/12/rep-jamie-raskin-to-lead-democrats-on-house-judiciary-committee) (Tier 1) (VERIFIED)
+- [NPR: Amid grief, Raskin leads Trump impeachment effort](https://www.npr.org/2021/01/27/960768286/amid-grief-rep-jamie-raskin-leads-trump-impeachment-effort-in-senate) (Tier 2) (VERIFIED)
+- [PBS: Raskin on what the Jan 6 committee accomplished](https://www.pbs.org/newshour/show/rep-raskin-on-what-the-jan-6-committee-accomplished-in-the-first-public-hearing) (Tier 2) (VERIFIED)
+- [NPR: Raskin discusses Jan 6 referrals for Trump](https://www.npr.org/2022/12/20/1144311577/jan-6-trump-criminal-referrals-jamie-raskin) (Tier 2) (VERIFIED)
+- [Fox Business: Top House Oversight Dem faces ethics complaint over wife's stock trades](https://www.foxbusiness.com/politics/top-house-dem-faces-renewed-ethics-complaint-wifes-1-5-million-stock-payday) (Tier 3) (VERIFIED)
+- [Clean Slate MoCo: Raskin's big-money individual donors in Montgomery County](https://www.cleanslatemoco.com/looking-into-congressman-jamie-raskins-big-money-individual-donors-based-in-montgomery-county-this-cycle/3092) (Tier 3) (VERIFIED)
+- [American University: Jamie Raskin faculty profile](https://www.american.edu/wcl/faculty/raskin.cfm) (Tier 3) (VERIFIED)
+- [Free Speech for People: Raskin introduces bill to ban multinational corporate campaign spending](https://freespeechforpeople.org/rep-jamie-raskin-introduces-bill-to-ban-multinational-corporations-from-spending-money-in-u-s-elections/) (Tier 2) (VERIFIED)
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->
@@ -208,7 +208,7 @@ On campaign finance reform, he leads with the structural argument — corporatio
 - H.R. 6761: People’s White House Historic Preservation Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 16, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 - H.R. 6589: Ranked Choice Voting Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 10, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412708) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412708) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
 
 ## Voting Record
@@ -233,8 +233,8 @@ On campaign finance reform, he leads with the structural argument — corporatio
 
 **Sources**
 
-- [Congress.gov: Jamie Raskin](https://www.congress.gov/member/e000179) (Tier 1)
-- [GovTrack: Jamie Raskin](https://www.govtrack.us/congress/members/412708) (Tier 1)
+- ~~[Congress.gov: Jamie Raskin](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [GovTrack: Jamie Raskin](https://www.govtrack.us/congress/members/412708) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
 
 ### Legislative Activity (Congress.gov)
@@ -263,7 +263,7 @@ On campaign finance reform, he leads with the structural argument — corporatio
 | 6310 | To designate the facility of the United States Postal Service located at 3570 Ol… | Ordered to be Reported by the Yeas and Nays: 38 - 2. |
 | 797 | Expressing concern about the growing problem of book banning and the proliferati… | Referred to the Committee on Education and Workforce, and in addition to the Committees on the Judiciary, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
 
-- [Source: Congress.gov](https://www.congress.gov/member/R000606) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/R000606)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Committee Assignments (Congress.gov)
@@ -272,7 +272,7 @@ On campaign finance reform, he leads with the structural argument — corporatio
 
 - House Committee on the Judiciary
 
-- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 ### Campaign Finance Summary (FEC)
@@ -298,7 +298,7 @@ On campaign finance reform, he leads with the structural argument — corporatio
 | 2018 | $1,185,776 | $872,438 | 665129.75 |
 | 2016 | $2,555,285 | $2,203,493 | 351791.83 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6MD08457/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6MD08457/) (Tier 1) (VERIFIED)
 <!-- auto:fec-summary end -->
 
 ### Campaign Finance (FEC)
@@ -341,13 +341,13 @@ Jamin Ben Raskin is an American attorney, law professor, and politician serving 
 
 | Fact | Value |
 |------|-------|
-| Wikidata ID | [Q640835](https://www.wikidata.org/wiki/Q640835) |
+| Wikidata ID | [Q640835](https://www.wikidata.org/wiki/Q640835) (VERIFIED) |
 | Description | American lawyer, politician, and U.S. Representative from Maryland since 2017 |
 | Born | 1962-12-13 |
-| Website | [https://jamieraskin.com/](https://jamieraskin.com/) |
-| X/Twitter | [@RepRaskin](https://x.com/RepRaskin) |
-| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Jamie_Raskin_Official_Portrait_2019.jpg?width=300) |
+| Website | [https://jamieraskin.com/](https://jamieraskin.com/) (VERIFIED) |
+| X/Twitter | [@RepRaskin](https://x.com/RepRaskin) (VERIFIED) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Jamie_Raskin_Official_Portrait_2019.jpg?width=300) (NEEDS REVIEW) |
 
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/Jamie_Raskin) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q640835) (Tier 2)
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Jamie_Raskin) (Tier 3) (VERIFIED)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q640835) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->

@@ -79,7 +79,7 @@ Saikat Chakrabarti. Born January 12, 1986, Fort Worth, Texas. Bengali immigrant 
 ## Donor Class Map
 
 > [!money] Follow the Money
-> CA-11 campaign total receipts through end of 2025: $1,769,247.61. Of that, $1,470,000.00 (83.1%) is candidate self-loans. Individual contributions: $298,247.61. PAC money: $0.00. Cash on hand: $112,266.36. Burn rate: 93.7%. 5,724 individual donors in one quarter vs. Wiener's 2,226 — grassroots volume despite low dollar totals. [FEC: Saikat for Congress C00897314](https://www.fec.gov/data/committee/C00897314/) (Tier 1)
+> CA-11 campaign total receipts through end of 2025: $1,769,247.61. Of that, $1,470,000.00 (83.1%) is candidate self-loans. Individual contributions: $298,247.61. PAC money: $0.00. Cash on hand: $112,266.36. Burn rate: 93.7%. 5,724 individual donors in one quarter vs. Wiener's 2,226 — grassroots volume despite low dollar totals. [FEC: Saikat for Congress C00897314](https://www.fec.gov/data/committee/C00897314/) (Tier 1) (VERIFIED)
 
 ### Personal Wealth (House Financial Disclosure #10063516, filed August 13, 2025):
 
@@ -92,7 +92,7 @@ Saikat Chakrabarti. Born January 12, 1986, Fort Worth, Texas. Bengali immigrant 
 | Blue Owl GP Stakes funds | $500K–$1M each | Capital Gains | Varied |
 | SF rental properties (2) | $500K–$1M each | Rent | $15K–$50K each |
 
-Total disclosed minimum net worth: at least $167 million. True ceiling unknowable — both Stripe and Fidelity positions only require ">$50M" disclosure. [House Financial Disclosure #10063516](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10063516.pdf) (Tier 1), [Business Insider (Bryan Metzger, August 2025)](https://www.businessinsider.com/saikat-chakrabarti-net-worth-nancy-pelosi-primary-challenger-2025-8) (Tier 2)
+Total disclosed minimum net worth: at least $167 million. True ceiling unknowable — both Stripe and Fidelity positions only require ">$50M" disclosure. [House Financial Disclosure #10063516](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10063516.pdf) (Tier 1) (VERIFIED), [Business Insider (Bryan Metzger, August 2025)](https://www.businessinsider.com/saikat-chakrabarti-net-worth-nancy-pelosi-primary-challenger-2025-8) (Tier 2) (VERIFIED)
 
 ### Post-Stripe Investment Portfolio:
 
@@ -101,7 +101,7 @@ Everybody Techworks, Inc. (voter data tools, $50K–$100K), Reach Progress PBC (
 ### The Disclosure Loophole:
 
 > [!contradiction]
-> As AOC's Chief of Staff at $80,000/year (far below the $146,830–$177,292 typical CoS range), Chakrabarti fell below the $126,000 threshold that triggers mandatory financial disclosure for congressional staff. This meant his Stripe equity, investment income, and outside holdings were shielded from public view during the seven months he served as the most powerful congressional staffer in progressive politics. AOC's office framed the $80K cap as a living-wage policy — minimum $52K, maximum $80K for all staff. The structural effect was that the wealthiest Chief of Staff in Congress had no disclosure obligation. [Washington Examiner (February 2019)](https://www.washingtonexaminer.com/news/646156/aoc-living-wage-rules-allow-her-staff-to-dodge-financial-disclosure-laws/) (Tier 2)
+> As AOC's Chief of Staff at $80,000/year (far below the $146,830–$177,292 typical CoS range), Chakrabarti fell below the $126,000 threshold that triggers mandatory financial disclosure for congressional staff. This meant his Stripe equity, investment income, and outside holdings were shielded from public view during the seven months he served as the most powerful congressional staffer in progressive politics. AOC's office framed the $80K cap as a living-wage policy — minimum $52K, maximum $80K for all staff. The structural effect was that the wealthiest Chief of Staff in Congress had no disclosure obligation. [Washington Examiner (February 2019)](https://www.washingtonexaminer.com/news/646156/aoc-living-wage-rules-allow-her-staff-to-dodge-financial-disclosure-laws/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -185,21 +185,21 @@ Running for Pelosi's CA-11 is not incidental. Pelosi is the institutional figure
 ## Sources
 
 ### Verified
-- [FEC: Saikat for Congress committee (C00897314)](https://www.fec.gov/data/committee/C00897314/) (Tier 1)
-- [FEC: Candidate H6CA11219](https://www.fec.gov/data/candidate/H6CA11219/) (Tier 1)
+- [FEC: Saikat for Congress committee (C00897314)](https://www.fec.gov/data/committee/C00897314/) (Tier 1) (VERIFIED)
+- ~~[FEC: Candidate H6CA11219](https://www.fec.gov/data/candidate/H6CA11219/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [House Financial Disclosure #10063516](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10063516.pdf) (Tier 1)
-- [FEC: Justice Democrats PAC (C00630665)](https://www.fec.gov/data/committee/C00630665/) (Tier 1)
-- [FEC: Brand New Congress PAC (C00613810)](https://www.fec.gov/data/committee/C00613810/) (Tier 1)
-- [FEC: MUR 7575 (Matter Under Review)](https://www.fec.gov/data/legal/matter-under-review/7575/) (Tier 1)
-- [ProPublica Nonprofit Explorer: New Consensus 990s (EIN 82-3053965)](https://projects.propublica.org/nonprofits/organizations/823053965) (Tier 1)
-- [Business Insider: Chakrabarti net worth (Bryan Metzger, August 2025)](https://www.businessinsider.com/saikat-chakrabarti-net-worth-nancy-pelosi-primary-challenger-2025-8) (Tier 2)
-- [Politico: SF establishment moves to sink progressive (March 27, 2026)](https://www.politico.com/news/2026/03/27/san-franciscos-establishment-moves-to-sink-a-progressive-house-candidate-00847914) (Tier 2)
-- [Politico: Chakrabarti magazine profile (October 2025)](https://www.politico.com/news/magazine/2025/10/30/saikat-chakrabarti-nancy-pelosi-democratic-party-00624012) (Tier 2)
-- [Washington Examiner: Disclosure loophole (February 2019)](https://www.washingtonexaminer.com/news/646156/aoc-living-wage-rules-allow-her-staff-to-dodge-financial-disclosure-laws/) (Tier 2)
-- [Drop Site News: JD endorsement (Ryan Grim, March 30, 2026)](https://www.dropsitenews.com/p/justice-democrats-adam-hamawy-saikat-chakrabarti-endorsement) (Tier 2)
-- [SF Chronicle: CA-11 debate (April 1, 2026)](https://www.sfchronicle.com/politics/joegarofoli/article/chan-chakrabarti-wiener-debate-22154494.php) (Tier 3)
-- [Jacobin: Chakrabarti interview (July 2025)](https://jacobin.com/2025/07/saikat-chakrabarti-democrats-california-congress) (Tier 4)
-- [DSA SF: Disavowal statement (August 12, 2025)](https://x.com/DSA_SF/status/1955122465014944215) (Tier 4)
+- [FEC: Justice Democrats PAC (C00630665)](https://www.fec.gov/data/committee/C00630665/) (Tier 1) (VERIFIED)
+- [FEC: Brand New Congress PAC (C00613810)](https://www.fec.gov/data/committee/C00613810/) (Tier 1) (VERIFIED)
+- [FEC: MUR 7575 (Matter Under Review)](https://www.fec.gov/data/legal/matter-under-review/7575/) (Tier 1) (VERIFIED)
+- [ProPublica Nonprofit Explorer: New Consensus 990s (EIN 82-3053965)](https://projects.propublica.org/nonprofits/organizations/823053965) (Tier 1) (VERIFIED)
+- [Business Insider: Chakrabarti net worth (Bryan Metzger, August 2025)](https://www.businessinsider.com/saikat-chakrabarti-net-worth-nancy-pelosi-primary-challenger-2025-8) (Tier 2) (VERIFIED)
+- ~~[Politico: SF establishment moves to sink progressive (March 27, 2026)](https://www.politico.com/news/2026/03/27/san-franciscos-establishment-moves-to-sink-a-progressive-house-candidate-00847914)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Politico: Chakrabarti magazine profile (October 2025)](https://www.politico.com/news/magazine/2025/10/30/saikat-chakrabarti-nancy-pelosi-democratic-party-00624012) (Tier 2) (VERIFIED)
+- [Washington Examiner: Disclosure loophole (February 2019)](https://www.washingtonexaminer.com/news/646156/aoc-living-wage-rules-allow-her-staff-to-dodge-financial-disclosure-laws/) (Tier 2) (VERIFIED)
+- [Drop Site News: JD endorsement (Ryan Grim, March 30, 2026)](https://www.dropsitenews.com/p/justice-democrats-adam-hamawy-saikat-chakrabarti-endorsement) (Tier 2) (VERIFIED)
+- [SF Chronicle: CA-11 debate (April 1, 2026)](https://www.sfchronicle.com/politics/joegarofoli/article/chan-chakrabarti-wiener-debate-22154494.php) (Tier 3) (VERIFIED)
+- [Jacobin: Chakrabarti interview (July 2025)](https://jacobin.com/2025/07/saikat-chakrabarti-democrats-california-congress) (Tier 4) (VERIFIED)
+- [DSA SF: Disavowal statement (August 12, 2025)](https://x.com/DSA_SF/status/1955122465014944215) (Tier 4) (VERIFIED)
 
 ### Archived
 - ~~[OpenSecrets: Justice Democrats PAC](https://www.opensecrets.org/political-action-committees-pacs/justice-democrats/C00630665/summary/2024)~~ (was Tier 1, OpenSecrets demoted, FEC committee page above covers same data)
@@ -220,12 +220,12 @@ Running for Pelosi's CA-11 is not incidental. Pelosi is the institutional figure
 |-----------|---------|--------|
 | ABUNDANT FUTURE | $0 | $205,918 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6CA11219/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6CA11219/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Saikat Chakrabarti](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: Saikat Chakrabarti](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->

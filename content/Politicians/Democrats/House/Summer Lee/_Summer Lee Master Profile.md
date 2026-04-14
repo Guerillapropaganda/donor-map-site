@@ -163,10 +163,10 @@ The darker implication: her safety is not a product of principle or popularity. 
 ## Sources
 
 ### Verified
-- [Congress.gov: Summer Lee member profile](https://www.congress.gov/member/summer-lee/L000299) (Tier 1)
+- ~~[Congress.gov: Summer Lee member profile](https://www.congress.gov/member/summer-lee/L000299)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ### Archived
-- [FEC: Summer Lee independent expenditure records (2022, 2024 cycles)](https://www.fec.gov/data/independent-expenditures/) (Tier 1 — generic IE page, replace with candidate-specific committee URL once H2PA18200 committee ID confirmed)
+- [FEC: Summer Lee independent expenditure records (2022, 2024 cycles)](https://www.fec.gov/data/independent-expenditures/) (Tier 1 — generic IE page, replace with candidate-specific committee URL once H2PA18200 committee ID confirmed) (NEEDS REVIEW)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -198,7 +198,7 @@ The darker implication: her safety is not a product of principle or popularity. 
 | WORKING FAMILIES PARTY PAC | $640,000 | $0 |
 | CONGRESSIONAL PROGRESSIVE CAUCUS PAC | $437,462 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2PA18200/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2PA18200/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (Congress.gov)
@@ -210,12 +210,12 @@ The darker implication: her safety is not a product of principle or popularity. 
 | State | PA |
 | Chamber | House |
 
-- [Source: Congress.gov](https://www.congress.gov/member/L000299) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/L000299)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Summer Lee](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: Summer Lee](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->

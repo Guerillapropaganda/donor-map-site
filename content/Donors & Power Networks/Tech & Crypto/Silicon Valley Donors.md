@@ -128,19 +128,19 @@ Third, **preemption of democratic governance.** The December 2025 executive orde
 
 ### Sources
 
-- [FEC Receipts: Internet industry summary](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- [OpenSecrets: Fairshake PAC profile, 2024 cycle](https://www.opensecrets.org/political-action-committees-pacs/fairshake-pac/C00835959/summary/2024) (Tier 1)
-- [FEC Independent Expenditures: Elon Musk donor detail, 2024 cycle](https://www.fec.gov/data/independent-expenditures/?q=Elon%20Musk) (Tier 1)
-- [FEC Independent Expenditures: Reid Hoffman donor detail, 2024 cycle](https://www.fec.gov/data/independent-expenditures/?q=Reid%20Garrett%20Hoffman) (Tier 1)
-- [OpenSecrets: Elon Musk tops list of 2024 political donors](https://www.opensecrets.org/news/2025/03/elon-musk-tops-list-of-2024-political-donors-but-six-others-gave-more-than-100-million) (Tier 1)
-- [OpenSecrets: Pro-crypto super PACs pouring tens of millions into 2024 elections](https://www.opensecrets.org/news/2024/07/pro-crypto-super-pacs-pouring-tens-of-millions-into-2024-elections/) (Tier 1)
-- [OpenSecrets: Federal lobbying set new record in 2024](https://www.opensecrets.org/news/2025/02/federal-lobbying-set-new-record-in-2024/) (Tier 1)
-- [CNN: Elon Musk spent more than $290 million on the 2024 election](https://www.cnn.com/2025/02/01/politics/elon-musk-2024-election-spending-millions) (Tier 2)
-- [Fortune: Where Silicon Valley is spending its millions in political donations](https://fortune.com/2024/09/25/silicon-valley-political-donations-elon-musk-peter-thiel-reid-hoffman/) (Tier 2)
-- [CNBC: Crypto PAC Fairshake has $116 million on hand for 2026 elections](https://www.cnbc.com/2025/01/30/crypto-pac-fairshake-has-116-million-on-hand-for-2026-elections.html) (Tier 2)
-- [Issue One: Big Tech spent record sums on lobbying in 2024](https://issueone.org/articles/big-tech-spent-record-sums-on-lobbying-last-year/) (Tier 2)
-- [TechPolicy.Press: The Tech Money Machine — How Silicon Valley Buys Power](https://www.techpolicy.press/the-tech-money-machine-how-silicon-valley-buys-power-and-shapes-reality/) (Tier 2)
-- [CNBC: Trump signs executive order for single national AI regulation framework](https://www.cnbc.com/2025/12/11/trump-signs-executive-order-for-single-national-ai-regulation-framework.html) (Tier 2)
+- [FEC Receipts: Internet industry summary](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
+- [OpenSecrets: Fairshake PAC profile, 2024 cycle](https://www.opensecrets.org/political-action-committees-pacs/fairshake-pac/C00835959/summary/2024) (Tier 1) (VERIFIED)
+- [FEC Independent Expenditures: Elon Musk donor detail, 2024 cycle](https://www.fec.gov/data/independent-expenditures/?q=Elon%20Musk) (Tier 1) (VERIFIED)
+- [FEC Independent Expenditures: Reid Hoffman donor detail, 2024 cycle](https://www.fec.gov/data/independent-expenditures/?q=Reid%20Garrett%20Hoffman) (Tier 1) (VERIFIED)
+- [OpenSecrets: Elon Musk tops list of 2024 political donors](https://www.opensecrets.org/news/2025/03/elon-musk-tops-list-of-2024-political-donors-but-six-others-gave-more-than-100-million) (Tier 1) (VERIFIED)
+- [OpenSecrets: Pro-crypto super PACs pouring tens of millions into 2024 elections](https://www.opensecrets.org/news/2024/07/pro-crypto-super-pacs-pouring-tens-of-millions-into-2024-elections/) (Tier 1) (VERIFIED)
+- [OpenSecrets: Federal lobbying set new record in 2024](https://www.opensecrets.org/news/2025/02/federal-lobbying-set-new-record-in-2024/) (Tier 1) (VERIFIED)
+- [CNN: Elon Musk spent more than $290 million on the 2024 election](https://www.cnn.com/2025/02/01/politics/elon-musk-2024-election-spending-millions) (Tier 2) (VERIFIED)
+- [Fortune: Where Silicon Valley is spending its millions in political donations](https://fortune.com/2024/09/25/silicon-valley-political-donations-elon-musk-peter-thiel-reid-hoffman/) (Tier 2) (VERIFIED)
+- [CNBC: Crypto PAC Fairshake has $116 million on hand for 2026 elections](https://www.cnbc.com/2025/01/30/crypto-pac-fairshake-has-116-million-on-hand-for-2026-elections.html) (Tier 2) (VERIFIED)
+- [Issue One: Big Tech spent record sums on lobbying in 2024](https://issueone.org/articles/big-tech-spent-record-sums-on-lobbying-last-year/) (Tier 2) (VERIFIED)
+- [TechPolicy.Press: The Tech Money Machine — How Silicon Valley Buys Power](https://www.techpolicy.press/the-tech-money-machine-how-silicon-valley-buys-power-and-shapes-reality/) (Tier 2) (VERIFIED)
+- [CNBC: Trump signs executive order for single national AI regulation framework](https://www.cnbc.com/2025/12/11/trump-signs-executive-order-for-single-national-ai-regulation-framework.html) (Tier 2) (VERIFIED)
 
 ---
 
@@ -160,7 +160,7 @@ Third, **preemption of democratic governance.** The December 2025 executive orde
 
 **Agencies contacted:** Air Force, Dept of, Commerce, Dept of (DOC), Defense, Dept of (DOD), Executive Office of the President (EOP), HOUSE OF REPRESENTATIVES, SENATE
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Silicon%20Valley%20Donors) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Silicon%20Valley%20Donors) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)
@@ -194,12 +194,12 @@ Third, **preemption of democratic governance.** The December 2025 executive orde
 **Filing history:** 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017
 
 **View 990 filings:**
-- [2024 Filing](https://projects.propublica.org/nonprofits/organizations/330152369/2024)
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/330152369/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/330152369/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/330152369/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/330152369/2020)
+- ~~[2024 Filing](https://projects.propublica.org/nonprofits/organizations/330152369/2024)~~ (URL broken, archived by Ops)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/330152369/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/330152369/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/330152369/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/330152369/2020)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/330152369) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/330152369) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->

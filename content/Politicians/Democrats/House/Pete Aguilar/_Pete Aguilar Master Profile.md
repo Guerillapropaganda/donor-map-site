@@ -164,18 +164,18 @@ Estimated net worth: $218,000 (439th highest in Congress as of January 2026). Mi
 
 ## Sources
 
-- [FEC Candidate: Pete Aguilar campaign finance summary](https://www.fec.gov/data/candidate/H2CA31125/) (Tier 1)
-- [FEC Candidate: Pete Aguilar top contributors — career](https://www.fec.gov/data/candidate/H2CA31125/) (Tier 1)
-- [FEC Candidate: Pete Aguilar top contributors — 2024 cycle](https://www.fec.gov/data/candidate/H2CA31125/) (Tier 1)
-- [FEC Candidate: Pete Aguilar industries breakdown — 2024 cycle](https://www.fec.gov/data/candidate/H2CA31125/) (Tier 1)
-- [FEC: Aguilar campaign finance filings](https://www.fec.gov/data/candidate/H2CA31125/) (Tier 1)
-- [Congress.gov: H.R.8034 — Israel Security Supplemental Appropriations Act, 2024](https://www.congress.gov/bill/118th-congress/house-bill/8034) (Tier 1)
-- [Congress.gov: Pete Aguilar](https://www.congress.gov/member/pete-aguilar/A000371) (Tier 1)
-- [Quiver Quantitative: Aguilar net worth](https://www.quiverquant.com/congresstrading/politician/Pete%20Aguilar-A000371/net-worth) (Tier 3)
-- [Ballotpedia: Pete Aguilar](https://ballotpedia.org/Pete_Aguilar) (Tier 3)
-- [CalMatters: Inland Empire warehouse environmental impact](https://calmatters.org/commentary/2023/01/inland-empire-california-warehouse-development/) (Tier 2)
-- [CalMatters: Class divide in warehouse boom](https://calmatters.org/commentary/2023/02/inland-empire-warehouse-class-divide/) (Tier 2)
-- [Rep. Torres: Warehouse Worker Protection Letter](https://torres.house.gov/media-center/press-releases/reps-torres-delauro-price-aguilar-sherrill-ask-administration-additional) (Tier 1)
+- [FEC Candidate: Pete Aguilar campaign finance summary](https://www.fec.gov/data/candidate/H2CA31125/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Pete Aguilar top contributors — career](https://www.fec.gov/data/candidate/H2CA31125/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Pete Aguilar top contributors — 2024 cycle](https://www.fec.gov/data/candidate/H2CA31125/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Pete Aguilar industries breakdown — 2024 cycle](https://www.fec.gov/data/candidate/H2CA31125/) (Tier 1) (VERIFIED)
+- [FEC: Aguilar campaign finance filings](https://www.fec.gov/data/candidate/H2CA31125/) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: H.R.8034 — Israel Security Supplemental Appropriations Act, 2024](https://www.congress.gov/bill/118th-congress/house-bill/8034)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Pete Aguilar](https://www.congress.gov/member/pete-aguilar/A000371)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Quiver Quantitative: Aguilar net worth](https://www.quiverquant.com/congresstrading/politician/Pete%20Aguilar-A000371/net-worth) (Tier 3) (VERIFIED)
+- [Ballotpedia: Pete Aguilar](https://ballotpedia.org/Pete_Aguilar) (Tier 3) (VERIFIED)
+- [CalMatters: Inland Empire warehouse environmental impact](https://calmatters.org/commentary/2023/01/inland-empire-california-warehouse-development/) (Tier 2) (VERIFIED)
+- [CalMatters: Class divide in warehouse boom](https://calmatters.org/commentary/2023/02/inland-empire-warehouse-class-divide/) (Tier 2) (VERIFIED)
+- [Rep. Torres: Warehouse Worker Protection Letter](https://torres.house.gov/media-center/press-releases/reps-torres-delauro-price-aguilar-sherrill-ask-administration-additional) (Tier 1) (VERIFIED)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -209,7 +209,7 @@ Estimated net worth: $218,000 (439th highest in Congress as of January 2026). Mi
 | WOMEN VOTE! | $0 | $87,812 |
 | COOPERATIVE OF AMERICAN PHYSICIANS INDEPENDENT EXPENDITURE COMMITTEE | $45,992 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2CA31125/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2CA31125/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (Congress.gov)
@@ -238,12 +238,12 @@ Estimated net worth: $218,000 (439th highest in Congress as of January 2026). Mi
 | 430 | Electing Members to certain standing committees of the House of Representatives. | Motion to reconsider laid on the table Agreed to without objection. |
 | 2402 | No Hungry Kids in Schools Act | Referred to the House Committee on Education and Workforce. |
 
-- [Source: Congress.gov](https://www.congress.gov/member/A000371) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/A000371)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Pete Aguilar](https://www.congress.gov/member/e000179) (Tier 1)
+- ~~[Congress.gov: Pete Aguilar](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->

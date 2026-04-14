@@ -70,9 +70,9 @@ Independent contractor classification for gig workers (nationally and in every s
 
 ### Sources
 
-- [OpenSecrets: Gig economy political spending](https://www.opensecrets.org/orgs/instacart/summary?id=D000074851) (Tier 1)
-- [California Secretary of State: Prop 22 campaign finance](https://cal-access.sos.ca.gov/Campaign/Measures/Detail.aspx?id=1423353&session=2019) (Tier 1)
-- [Ballotpedia: Proposition 22](https://ballotpedia.org/California_Proposition_22,_App-Based_Drivers_as_Contractors_and_Labor_Policies_Initiative_(2020)) (Tier 3)
+- [OpenSecrets: Gig economy political spending](https://www.opensecrets.org/orgs/instacart/summary?id=D000074851) (Tier 1) (VERIFIED)
+- [California Secretary of State: Prop 22 campaign finance](https://cal-access.sos.ca.gov/Campaign/Measures/Detail.aspx?id=1423353&session=2019) (Tier 1) (VERIFIED)
+- [Ballotpedia: Proposition 22](https://ballotpedia.org/California_Proposition_22,_App-Based_Drivers_as_Contractors_and_Labor_Policies_Initiative_(2020) (VERIFIED)) (Tier 3)
 
 ---
 
@@ -100,11 +100,11 @@ Independent contractor classification for gig workers (nationally and in every s
 | Agencies | Agriculture Department, Federal Trade Commission, Food and Nutrition Service, Labor Department, Wage and Hour Division |
 
 **Recent regulatory activity:**
-- [Rule Concerning the Use of Prenotification Negative Option Plans](https://www.federalregister.gov/documents/2026/03/13/2026-04952/rule-concerning-the-use-of-prenotification-negative-option-plans) (2026-03-13) — Federal Trade Commission
-- [Employee or Independent Contractor Classification Under the Fair Labor Standards Act](https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act) (2024-01-10) — Labor Department
-- [Special Supplemental Nutrition Program for Women, Infants, and Children (WIC): Online Ordering and Transactions and Food Delivery Revisions To Meet the Needs of a Modern, Data-Driven Program](https://www.federalregister.gov/documents/2023/02/23/2023-02484/special-supplemental-nutrition-program-for-women-infants-and-children-wic-online-ordering-and) (2023-02-23) — Agriculture Department ★
+- [Rule Concerning the Use of Prenotification Negative Option Plans](https://www.federalregister.gov/documents/2026/03/13/2026-04952/rule-concerning-the-use-of-prenotification-negative-option-plans) (VERIFIED) (2026-03-13) — Federal Trade Commission
+- [Employee or Independent Contractor Classification Under the Fair Labor Standards Act](https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act) (VERIFIED) (2024-01-10) — Labor Department
+- [Special Supplemental Nutrition Program for Women, Infants, and Children (WIC): Online Ordering and Transactions and Food Delivery Revisions To Meet the Needs of a Modern, Data-Driven Program](https://www.federalregister.gov/documents/2023/02/23/2023-02484/special-supplemental-nutrition-program-for-women-infants-and-children-wic-online-ordering-and) (VERIFIED) (2023-02-23) — Agriculture Department ★
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Instacart%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Instacart%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Vehicle Safety (NHTSA)
@@ -122,7 +122,7 @@ Independent contractor classification for gig workers (nationally and in every s
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Instacart) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Instacart) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Federal Court Records (CourtListener)
@@ -141,5 +141,5 @@ Independent contractor classification for gig workers (nationally and in every s
 - United States v. Jelks (2026) — District Court, D. Alaska
 - Uncle Nearest, Inc. (2026) — United States Bankruptcy Court, E.D. Tennessee
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Instacart%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Instacart%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->

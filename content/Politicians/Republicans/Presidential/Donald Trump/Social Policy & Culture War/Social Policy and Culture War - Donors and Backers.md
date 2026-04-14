@@ -17,27 +17,27 @@ donors: Leonard Leo, National Christian Foundation, Alliance Defending Freedom, 
 
 The National Christian Foundation (NCF) is the infrastructure. Founded in 1982, NCF manages over $25 billion in cumulative giving through donor-advised funds and distributes $1.2 billion annually. NCF functions as a dark money pass-through for evangelical wealth, channeling tens of millions to both explicitly religious organizations and to ostensibly secular right-wing operations including the [[Heritage Foundation]], Cato Institute, Federalist Society, and [[Alliance Defending Freedom]].
 
-- [National Christian Foundation: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/581493949) (Tier 1)
-- [National Christian Foundation: About Us](https://www.ncfgiving.com/about/) (Tier 3)
+- [National Christian Foundation: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/581493949) (Tier 1) (VERIFIED)
+- [National Christian Foundation: About Us](https://www.ncfgiving.com/about/) (Tier 3) (VERIFIED)
 
 The Alliance Defending Freedom (ADF) reported $104 million in annual revenue for fiscal year 2022, a 33 percent increase from $79 million in 2021. The organization has authored at least 130 bills across 34 states. More than 30 of those bills became law. The National Christian Foundation alone gave nearly $66 million to ADF between 2018 and present. The Richard and Helen DeVos Foundation and Charles Koch Institute also fund ADF operations.
 
-- [Alliance Defending Freedom: Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/541660459) (Tier 1)
-- [Rolling Stone: Inside the Alliance Defending Freedom](https://www.rollingstone.com/politics/politics-features/mike-johnson-alliance-defending-freedom-anti-lgbtq-1234865340/) (Tier 2)
+- [Alliance Defending Freedom: Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/541660459) (Tier 1) (VERIFIED)
+- [Rolling Stone: Inside the Alliance Defending Freedom](https://www.rollingstone.com/politics/politics-features/mike-johnson-alliance-defending-freedom-anti-lgbtq-1234865340/) (Tier 2) (VERIFIED)
 
 The Heritage Foundation controls the intellectual apparatus. With annual revenue of $101 million (2023), Heritage produces policy templates, fundraises, and mobilizes allied organizations. Heritage Action, founded in 2010 as a sister organization, serves as the activist arm. The Heritage Foundation's Project 2025 explicitly targets education censorship, book bans, and the elimination of DEI programs.
 
-- [Heritage Foundation: Financial Information](https://www.heritage.org/financial) (Tier 1)
-- [Heritage Foundation: Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/237327730) (Tier 1)
+- [Heritage Foundation: Financial Information](https://www.heritage.org/financial) (Tier 1) (VERIFIED)
+- [Heritage Foundation: Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/237327730) (Tier 1) (VERIFIED)
 
 The Family Research Council operates without standard public financial disclosures. The FRC claimed religious organization status and no longer submits Form 990 to the IRS. Tax filings from before the disclosure exemption documented donations from the Edgar and Elsa Prince Foundation ($1.4 million in 2014), Christian Community Foundation, and Donors Capital Fund.
 
-- [Family Research Council: Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/521792772) (Tier 1)
-- [InfluenceWatch: Family Research Council](https://www.influencewatch.org/non-profit/family-research-council-frc/) (Tier 3)
+- [Family Research Council: Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/521792772) (Tier 1) (VERIFIED)
+- [InfluenceWatch: Family Research Council](https://www.influencewatch.org/non-profit/family-research-council-frc/) (Tier 3) (VERIFIED)
 
 Concerned Women for America functions as the mobilization arm for evangelical women voters. The organization moved its nonprofit status to a religious exemption to avoid financial disclosure. Historical filings show the Koch network's Freedom Partners gave CWA $8.15 million in 2012 and the Center to Protect Patient Rights donated $1.6 million between 2010 and 2012. CWA focuses on seven issues: abortion, pornography, education, national sovereignty, marriage and family, support for Israel, and religious freedom. The organization operates both a nonprofit advocacy entity and a political action committee.
 
-- [OpenSecrets: Concerned Women for America](https://www.opensecrets.org/orgs/concerned-women-for-america/summary?id=D000025077) (Tier 1)
+- [OpenSecrets: Concerned Women for America](https://www.opensecrets.org/orgs/concerned-women-for-america/summary?id=D000025077) (Tier 1) (VERIFIED)
 
 ### Anti-Trans Legislation Donors
 
@@ -47,18 +47,18 @@ The Kelley Family Foundation focuses on cultural issues and has funded anti-tran
 
 The funding structure is designed for opacity. Donor-advised funds like those administered by the National Christian Foundation allow donors to take immediate tax deductions while funds are distributed to charities (and activist organizations) over years or decades. The donor gets the tax write-off immediately. The public sees only the tax benefit, not the political mobilization.
 
-- [Accountable US: Alliance Defending Freedom Funding](https://accountable.us/alliance-defending-freedom-used-funding-boost-to-push-anti-democratic-anti-lgbtq-agenda/) (Tier 2)
+- [Accountable US: Alliance Defending Freedom Funding](https://accountable.us/alliance-defending-freedom-used-funding-boost-to-push-anti-democratic-anti-lgbtq-agenda/) (Tier 2) (NEEDS REVIEW)
 
 While foundation funding for LGBTQ organizations dropped to $209.4 million in 2023, a 19 percent decline, funding for anti-trans operations expanded. For every $100 given by U.S. foundations, less than 5 cents (0.04 percent) goes to trans rights groups. The funding disparity reveals the strategic priority: anti-trans operations are growth sectors in right-wing philanthropy while LGBTQ defense is starved.
 
-- [Advocate: LGBTQ Funding Crisis](https://www.advocate.com/news/lgbtq-fundraising-dries-up) (Tier 2)
+- [Advocate: LGBTQ Funding Crisis](https://www.advocate.com/news/lgbtq-fundraising-dries-up) (Tier 2) (VERIFIED)
 
 ### Anti-DEI Donors and Beneficiaries
 
 Trump signed two anti-DEI executive orders in January 2025. The orders direct federal agencies to close DEI offices, place employees on paid leave, and terminate DEI contractors by January 22, 2025. The Office of Personnel Management extended enforcement across the entire federal government within 48 hours. The orders also target private sector companies with DEI programs for investigation and potential litigation, creating legal exposure for any company maintaining diversity hiring practices.
 
-- [White House: Ending Illegal Discrimination and Restoring Merit-Based Opportunity](https://www.whitehouse.gov/presidential-actions/2025/01/ending-illegal-discrimination-and-restoring-merit-based-opportunity/) (Tier 1)
-- [Civil Rights: Trump Anti-DEI Executive Orders Explained](https://civilrights.org/resource/anti-deia-eos/) (Tier 2)
+- [White House: Ending Illegal Discrimination and Restoring Merit-Based Opportunity](https://www.whitehouse.gov/presidential-actions/2025/01/ending-illegal-discrimination-and-restoring-merit-based-opportunity/) (Tier 1) (VERIFIED)
+- [Civil Rights: Trump Anti-DEI Executive Orders Explained](https://civilrights.org/resource/anti-deia-eos/) (Tier 2) (VERIFIED)
 
 The beneficiaries are not abstract. The Heritage Foundation directly influenced the policy language. Koch network organizations, Club for Growth, and the same donor networks that fund tax cuts also fund anti-DEI operations. [[Leonard Leo]]'s Marble Freedom Trust has explicitly deployed capital to fund litigation against corporate diversity programs. The operational goal is explicit: make diversity hiring expensive and risky.
 
@@ -70,17 +70,17 @@ Who benefits: employers in low-wage industries (hospitality, agriculture, constr
 
 Heritage Foundation's Project 2025 makes education censorship a federal priority. The 900-page document equates LGBTQ-affirming books with pornography and proposes registering librarians and educators who circulate such material as sex offenders.
 
-- [PEN America: Project 2025 Report](https://pen.org/report/project-2025/) (Tier 2)
-- [Mississippi Free Press: Project 2025 Education Censorship](https://www.mississippifreepress.org/project-2025-offers-cuts-to-education-classroom-censorship-and-expanded-book-bans/) (Tier 2)
+- [PEN America: Project 2025 Report](https://pen.org/report/project-2025/) (Tier 2) (VERIFIED)
+- [Mississippi Free Press: Project 2025 Education Censorship](https://www.mississippifreepress.org/project-2025-offers-cuts-to-education-classroom-censorship-and-expanded-book-bans/) (Tier 2) (VERIFIED)
 
 The book ban movement overlaps directly with school privatization donors. The DeVos Family Foundation has donated at least $200 million since the 1970s to privatization operations, think tanks, and media. The Council for National Policy memo to Trump and DeVos in 2017 stated the goal explicitly: make "free-market private schools, church schools and home schools as the normative American practice."
 
-- [Truthout: Betsy DeVos Agenda Continues](https://truthout.org/articles/betsy-devoss-agenda-to-privatize-public-schools-is-continuing-without-her/) (Tier 2)
+- [Truthout: Betsy DeVos Agenda Continues](https://truthout.org/articles/betsy-devoss-agenda-to-privatize-public-schools-is-continuing-without-her/) (Tier 2) (VERIFIED)
 
 In 2023, fourteen states passed privatization bills or expanded existing schemes. Arkansas, Florida, Indiana, Iowa, Oklahoma, and Utah passed legislation making school vouchers available to all or nearly all students, regardless of family income or current private school enrollment. Idaho's HB 710 removed librarians from content vetting and made public libraries financially liable for any book any person finds objectionable for children. Forty-two states have passed bills restricting classroom curriculum on sexuality, gender identity, and racism.
 
-- [Save Our Schools Arizona: Privatization Groups](https://www.sosaznetwork.org/national-privatization-groups/) (Tier 3)
-- [AFT: Private School Choice Analysis](https://www.aft.org/ae/fall2017/wws) (Tier 3)
+- [Save Our Schools Arizona: Privatization Groups](https://www.sosaznetwork.org/national-privatization-groups/) (Tier 3) (VERIFIED)
+- [AFT: Private School Choice Analysis](https://www.aft.org/ae/fall2017/wws) (Tier 3) (VERIFIED)
 
 The donor incentive is clear: privatization means eliminated accountability, no union labor, reduced taxes, and government funding flows to religious institutions. Public schools employ hundreds of thousands of union workers at wages above market rate. When those funds flow to private and religious schools, the labor cost structure collapses. The DeVos network that funds privatization also funds union-busting operations. The book ban movement is the political mechanism that makes privatization acceptable to working class voters who would otherwise oppose the elimination of public services.
 
@@ -90,8 +90,8 @@ The anti-abortion apparatus flows through multiple layers of funding. Heritage F
 
 Roe v. Wade was overturned in June 2022 using a model brief drafted by ADF lawyers. The immediate result was trigger laws in 13 states that automatically banned abortion upon the Dobbs decision. Within 30 months, the pattern produced state-level absolute bans in 22 states and bans after 6 to 15 weeks in another 13. The speed and consistency show institutional coordination across state legislatures, governors' offices, and legal operations.
 
-- [Heritage Foundation: Protect Unborn Life Policy](https://www.heritage.org/protect-unborn-life-and-family-formation) (Tier 3)
-- [Inside Philanthropy: Abortion Funding Analysis](https://www.insidephilanthropy.com/home/2020-4-8-abortion-foes-are-scoring-more-wins-heres-who-is-funding-a-powerful-movement) (Tier 2)
+- [Heritage Foundation: Protect Unborn Life Policy](https://www.heritage.org/protect-unborn-life-and-family-formation) (Tier 3) (VERIFIED)
+- [Inside Philanthropy: Abortion Funding Analysis](https://www.insidephilanthropy.com/home/2020-4-8-abortion-foes-are-scoring-more-wins-heres-who-is-funding-a-powerful-movement) (Tier 2) (VERIFIED)
 
 The working class consequence is material. One-third of women in the United States reported delaying or canceling pregnancy plans due to abortion restrictions. Among low-income women, pregnancy complications (gestational diabetes, eclampsia, preeclampsia) create medical debt averaging $15,000 to $60,000 per incident. Abortion restrictions increase the medical, financial, and economic vulnerability of working class women while wealthy women maintain access through interstate travel and private providers.
 
@@ -99,8 +99,8 @@ The working class consequence is material. One-third of women in the United Stat
 
 Leonard Leo co-chairs the Federalist Society and orchestrated the Trump judicial appointments that overturned Roe v. Wade. The Federalist Society identifies conservative judges, drafts nominees for Republican presidents, and organizes judicial networks across state and federal courts. Leo's judicial strategy produced three Trump Supreme Court appointees who voted to overturn abortion rights. In 2022, Illinois billionaire Barre Seid donated $1.6 billion to Leo's Marble Freedom Trust, the largest known donation to a political advocacy group in U.S. history.
 
-- [ProPublica: Barre Seid $1.6 Billion Donation](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (Tier 2)
-- [Inequality.org: Leonard Leo Donor-Advised Fund](https://inequality.org/article/leonard-leo-donor-advised-fund/) (Tier 2)
+- [ProPublica: Barre Seid $1.6 Billion Donation](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (Tier 2) (VERIFIED)
+- [Inequality.org: Leonard Leo Donor-Advised Fund](https://inequality.org/article/leonard-leo-donor-advised-fund/) (Tier 2) (VERIFIED)
 
 The donation moved through a donor-advised fund structure that allowed Seid immediate tax deduction while Leo maintained control of capital deployment. Seid's $1.6 billion purchase secured decision-making authority over $1.6 billion in philanthropic capital while the public barely knew his name. The transaction is the textbook example of how dark money operates: wealth converts to tax benefit, tax benefit converts to political infrastructure, political infrastructure produces policy outcomes favoring the donor class.
 
@@ -108,7 +108,7 @@ In a September 2024 interview with the Financial Times, Leo stated that Marble F
 
 The structure is intentionally opaque. As a 501c4 dark money organization, Marble Freedom Trust discloses no donors and faces minimal spending restrictions. The money moves directly into anti-DEI campaigns, book ban infrastructure, anti-trans litigation, media operations, and direct pressure campaigns against corporations. This is the visible infrastructure behind the rapid acceleration of culture war from 2022 to 2025.
 
-- [PBS NewsHour: Leonard Leo and Dark Money](https://www.pbs.org/newshour/show/what-a-conservative-activist-hopes-to-achieve-with-a-billion-dollar-donation) (Tier 2)
+- [PBS NewsHour: Leonard Leo and Dark Money](https://www.pbs.org/newshour/show/what-a-conservative-activist-hopes-to-achieve-with-a-billion-dollar-donation) (Tier 2) (VERIFIED)
 
 ### The Interconnection: Donor Networks as Infrastructure
 

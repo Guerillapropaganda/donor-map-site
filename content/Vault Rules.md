@@ -44,9 +44,9 @@ Every factual claim in the vault must cite a government record. Articles provide
 ## Sources
 
 ### Verified
-- [FEC: Total Raised $2.4M, 2024 Cycle](https://www.fec.gov/data/candidate/H0CA27085/) (Tier 1)
-- [Congress.gov: 12 Bills Sponsored, 118th Congress](https://www.congress.gov/member/...) (Tier 1)
-- [ProPublica: Investigation into PAC spending](https://propublica.org/...) (Tier 2)
+- [FEC: Total Raised $2.4M, 2024 Cycle](https://www.fec.gov/data/candidate/H0CA27085/) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: 12 Bills Sponsored, 118th Congress](https://www.congress.gov/member/...)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [ProPublica: Investigation into PAC spending](https://propublica.org/...) (Tier 2) (NEEDS REVIEW)
 
 ### Archived
 - ~~[OpenSecrets: Donor Summary](https://opensecrets.org/...)~~ (was Tier 1 — site unavailable, data preserved in FEC section above)

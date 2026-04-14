@@ -81,7 +81,7 @@ Zeldin's near-upset was driven by public safety messaging: near-daily press conf
 ### Sources
 
 - New York Focus: Zeldin super PAC donors (Tier 2)
-- [Commercial Observer: Real estate support for Zeldin](https://commercialobserver.com/?q=2022%20Governor%20Race%20and%20the%20Lauder%20Super%20PAC) (Tier 2)
-- [Fox Business: NY governor race fundraising](https://www.foxbusiness.com/?q=2022%20Governor%20Race%20and%20the%20Lauder%20Super%20PAC) (Tier 2)
-- [Crain's New York: Hochul vs. Zeldin fundraising](https://www.crainsnewyork.com/?q=2022%20Governor%20Race%20and%20the%20Lauder%20Super%20PAC) (Tier 2)
-- [Jewish Telegraphic Agency: Zeldin Jewish donor support](https://www.jta.org/?q=2022%20Governor%20Race%20and%20the%20Lauder%20Super%20PAC) (Tier 2)
+- [Commercial Observer: Real estate support for Zeldin](https://commercialobserver.com/?q=2022%20Governor%20Race%20and%20the%20Lauder%20Super%20PAC) (Tier 2) (VERIFIED)
+- [Fox Business: NY governor race fundraising](https://www.foxbusiness.com/?q=2022%20Governor%20Race%20and%20the%20Lauder%20Super%20PAC) (Tier 2) (VERIFIED)
+- [Crain's New York: Hochul vs. Zeldin fundraising](https://www.crainsnewyork.com/?q=2022%20Governor%20Race%20and%20the%20Lauder%20Super%20PAC) (Tier 2) (VERIFIED)
+- ~~[Jewish Telegraphic Agency: Zeldin Jewish donor support](https://www.jta.org/?q=2022%20Governor%20Race%20and%20the%20Lauder%20Super%20PAC)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)

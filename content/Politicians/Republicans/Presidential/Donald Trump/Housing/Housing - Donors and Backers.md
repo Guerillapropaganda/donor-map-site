@@ -63,7 +63,7 @@ The real estate industry spends $86 million to eliminate the constraints that pr
 
 ### Sources
 
-- [OpenSecrets: NAR Lobbying Data](https://www.opensecrets.org/members-of-congress/summary?name=Housing) (Tier 1)
-- [AP: Kushner Cadre OZ Analysis](https://apnews.com/?q=Housing) (Tier 2)
-- [CNBC: Kushner Opportunity Zones](https://www.cnbc.com/?q=Housing) (Tier 2)
+- ~~[OpenSecrets: NAR Lobbying Data](https://www.opensecrets.org/members-of-congress/summary?name=Housing)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [AP: Kushner Cadre OZ Analysis](https://apnews.com/?q=Housing) (Tier 2) (VERIFIED)
+- ~~[CNBC: Kushner Opportunity Zones](https://www.cnbc.com/?q=Housing)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 

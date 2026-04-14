@@ -336,23 +336,23 @@ The Walden-Alpine Advisors structure demonstrates how "strategic advisory" funct
 
 ### Sources
 
-- [Senate LDA Filings: Alpine Group Lobbying Firm Profile — 2025](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA Filings: Alpine Group Lobbying Firm Profile — 2024](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA Filings: Alpine Group Lobbyists — 2024](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA Filings: Alpine Group Issues Lobbied — 2024](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [OpenSecrets: Alpine Group Organization Lobbying Profile](https://www.opensecrets.org/orgs/alpine-group/lobbying?id=D000021816) (Tier 1)
-- [The Hill: Lobbying World — Alpine Group Names New CEO](https://thehill.com/lobbying/4898825-lobbying-world-alpine-group-ceo/) (Tier 2)
-- [PPHC: Alpine Group Strengthens Defense and National Security Team with Abbey Overland](https://pphcompany.com/alpine-group-strengthens-defense-and-national-security-team-with-abbey-overland/) (Tier 3)
-- [PPHC: Alpine Group Names Keenan Austin Reed New CEO](https://pphcompany.com/alpine-group-names-keenan-austin-reed-new-ceo/) (Tier 3)
-- [PPHC: Greg Walden and Alpine Group Form Alpine Advisors](https://pphcompany.com/greg-walden-and-alpine-group-form-alpine-advisors/) (Tier 3)
-- [Alpine Group: The Firm — Team and Overview](https://www.alpinegroup.com/thefirm) (Tier 3)
-- [O'Dwyer's: Walmart Alum Brainard Joins Alpine Group (Jan 13, 2025)](https://www.odwyerpr.com/story/public/22389/2025-01-13/walmart-alum-brainard-joins-alpine-group.html) (Tier 3)
-- [Dallas Innovates: D.C. Strategy Firm Alpine Group Expands to Texas](https://dallasinnovates.com/d-c-strategy-firm-alpine-group-expands-to-texas-cites-dfws-powerhouse-role-in-business-and-policy/) (Tier 3)
-- [LegiStorm: Les Spivey Biography](https://www.legistorm.com/register.html) (Tier 3)
-- [LegiStorm: Colin Brainard Biography](https://www.legistorm.com/person/bio/51052/Colin_C_Brainard.html) (Tier 3)
-- [Journal of Accountancy: Ways and Means approves proposed TCJA extensions and tax changes (May 2025)](https://www.journalofaccountancy.com/news/2025/may/ways-and-means-releases-proposed-tcja-extensions-and-tax-changes/) (Tier 2)
-- [Tax Notes: Lobbying Swells for TCJA Rewrite; High Tide Forecast for 2025 (Aug 2024)](https://www.taxnotes.com/featured-news/lobbying-swells-tcja-rewrite-high-tide-forecast-2025/2024/08/21/7l4xw) (Tier 2)
-- [CNBC: Netherlands expands export curbs on advanced chip tools (Sep 2024)](https://www.cnbc.com/2024/09/06/netherlands-expands-export-curbs-on-advanced-chip-tools.html) (Tier 2)
+- [Senate LDA Filings: Alpine Group Lobbying Firm Profile — 2025](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: Alpine Group Lobbying Firm Profile — 2024](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: Alpine Group Lobbyists — 2024](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: Alpine Group Issues Lobbied — 2024](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [OpenSecrets: Alpine Group Organization Lobbying Profile](https://www.opensecrets.org/orgs/alpine-group/lobbying?id=D000021816) (Tier 1) (VERIFIED)
+- ~~[The Hill: Lobbying World — Alpine Group Names New CEO](https://thehill.com/lobbying/4898825-lobbying-world-alpine-group-ceo/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [PPHC: Alpine Group Strengthens Defense and National Security Team with Abbey Overland](https://pphcompany.com/alpine-group-strengthens-defense-and-national-security-team-with-abbey-overland/) (Tier 3) (VERIFIED)
+- [PPHC: Alpine Group Names Keenan Austin Reed New CEO](https://pphcompany.com/alpine-group-names-keenan-austin-reed-new-ceo/) (Tier 3) (VERIFIED)
+- [PPHC: Greg Walden and Alpine Group Form Alpine Advisors](https://pphcompany.com/greg-walden-and-alpine-group-form-alpine-advisors/) (Tier 3) (VERIFIED)
+- [Alpine Group: The Firm — Team and Overview](https://www.alpinegroup.com/thefirm) (Tier 3) (VERIFIED)
+- [O'Dwyer's: Walmart Alum Brainard Joins Alpine Group (Jan 13, 2025)](https://www.odwyerpr.com/story/public/22389/2025-01-13/walmart-alum-brainard-joins-alpine-group.html) (Tier 3) (VERIFIED)
+- [Dallas Innovates: D.C. Strategy Firm Alpine Group Expands to Texas](https://dallasinnovates.com/d-c-strategy-firm-alpine-group-expands-to-texas-cites-dfws-powerhouse-role-in-business-and-policy/) (Tier 3) (VERIFIED)
+- [LegiStorm: Les Spivey Biography](https://www.legistorm.com/register.html) (Tier 3) (VERIFIED)
+- [LegiStorm: Colin Brainard Biography](https://www.legistorm.com/person/bio/51052/Colin_C_Brainard.html) (Tier 3) (VERIFIED)
+- [Journal of Accountancy: Ways and Means approves proposed TCJA extensions and tax changes (May 2025)](https://www.journalofaccountancy.com/news/2025/may/ways-and-means-releases-proposed-tcja-extensions-and-tax-changes/) (Tier 2) (VERIFIED)
+- ~~[Tax Notes: Lobbying Swells for TCJA Rewrite; High Tide Forecast for 2025 (Aug 2024)](https://www.taxnotes.com/featured-news/lobbying-swells-tcja-rewrite-high-tide-forecast-2025/2024/08/21/7l4xw)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [CNBC: Netherlands expands export curbs on advanced chip tools (Sep 2024)](https://www.cnbc.com/2024/09/06/netherlands-expands-export-curbs-on-advanced-chip-tools.html) (Tier 2) (VERIFIED)
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->
@@ -369,21 +369,21 @@ The Walden-Alpine Advisors structure demonstrates how "strategic advisory" funct
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/830411414/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/830411414/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/830411414/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/830411414/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/830411414/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/830411414/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/830411414/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/830411414/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/830411414/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/830411414/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/830411414) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/830411414) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [549300SK16NJD6MI4436](https://search.gleif.org/#/record/549300SK16NJD6MI4436) |
+| LEI | [549300SK16NJD6MI4436](https://search.gleif.org/#/record/549300SK16NJD6MI4436) (VERIFIED) |
 | Legal Name | ALPINE GROUP USVI LLC |
 | Jurisdiction | VI |
 | Entity Status | ACTIVE |
@@ -391,7 +391,7 @@ The Walden-Alpine Advisors structure demonstrates how "strategic advisory" funct
 | Registration | LAPSED |
 | Last Updated | 2024-02-04T13:30:04Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### SEC Filing Activity
@@ -409,5 +409,5 @@ The Walden-Alpine Advisors structure demonstrates how "strategic advisory" funct
 - 2005-12-09 — **SC 13D**: SC 13D
 - 2005-10-06 — **8-K**: 8-K
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Alpine%20Group%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Alpine%20Group%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->

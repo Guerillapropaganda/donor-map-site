@@ -53,7 +53,7 @@ No FEC individual contributions found. The FEC API returns 0 results for "KLAVAN
 > [!money]
 > The entire Daily Wire A-roster shows $0 personal FEC footprint. This is not coincidence, it's structural. The Wilks Brothers don't need their hosts to make donations; they need them to produce content that serves donor-class political interests. Personal political giving would create a paper trail. Content produces deniability.
 
-- [FEC: Andrew Klavan individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=KLAVAN%2C+ANDREW) (Tier 1)
+- [FEC: Andrew Klavan individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=KLAVAN%2C+ANDREW) (Tier 1) (VERIFIED)
 
 ---
 
@@ -168,13 +168,13 @@ The theological capitalism frame is central: Klavan's Christianity is not incide
 
 ### Sources
 
-- [Wikipedia: Andrew Klavan](https://en.wikipedia.org/wiki/Andrew_Klavan) (Tier 3)
-- [Daily Wire: The Andrew Klavan Show](https://www.dailywire.com/show/the-andrew-klavan-show) (Tier 3)
-- [Vice: How Fracking Billionaires, Ben Shapiro, and PragerU Built a Climate Crisis-Denial Empire](https://www.vice.com/en/article/fracking-farris-dan-wilks-prageru-climate-crisis-denial-shapiro/) (Tier 2)
-- [The New Jerusalem Substack: About](https://thenewjerusalem.substack.com/about) (Tier 3)
-- [Podcast News Daily: Daily Wire lands six programs in top 20 right wing podcasts](https://therighting.com/podcast-report/daily-wire-lands-six-programs-in-top-20-right-wing-podcasts/) (Tier 3)
-- [Daily Wire: DailyWire+ Tops 1 Million Subscribers](https://www.dailywire.com/news/dailywire-tops-1-million-subscribers-announces-key-updates-on-coming-content) (Tier 3)
-- [Publishers Weekly: The Great Good Thing review](https://www.publishersweekly.com/978-0-7180-1734-7) (Tier 3)
-- [Babylon Bee: Brett Cooper Leaves Daily Wire / Klavan reference](https://babylonbee.com/news/brett-cooper-leaves-daily-wire-causing-andrew-klavan-to-regain-title-of-daily-wires-most-attractive-host) (Tier 4, satire, confirms roster position only)
+- [Wikipedia: Andrew Klavan](https://en.wikipedia.org/wiki/Andrew_Klavan) (Tier 3) (VERIFIED)
+- [Daily Wire: The Andrew Klavan Show](https://www.dailywire.com/show/the-andrew-klavan-show) (Tier 3) (VERIFIED)
+- [Vice: How Fracking Billionaires, Ben Shapiro, and PragerU Built a Climate Crisis-Denial Empire](https://www.vice.com/en/article/fracking-farris-dan-wilks-prageru-climate-crisis-denial-shapiro/) (Tier 2) (VERIFIED)
+- [The New Jerusalem Substack: About](https://thenewjerusalem.substack.com/about) (Tier 3) (VERIFIED)
+- [Podcast News Daily: Daily Wire lands six programs in top 20 right wing podcasts](https://therighting.com/podcast-report/daily-wire-lands-six-programs-in-top-20-right-wing-podcasts/) (Tier 3) (VERIFIED)
+- [Daily Wire: DailyWire+ Tops 1 Million Subscribers](https://www.dailywire.com/news/dailywire-tops-1-million-subscribers-announces-key-updates-on-coming-content) (Tier 3) (VERIFIED)
+- [Publishers Weekly: The Great Good Thing review](https://www.publishersweekly.com/978-0-7180-1734-7) (Tier 3) (VERIFIED)
+- [Babylon Bee: Brett Cooper Leaves Daily Wire / Klavan reference](https://babylonbee.com/news/brett-cooper-leaves-daily-wire-causing-andrew-klavan-to-regain-title-of-daily-wires-most-attractive-host) (VERIFIED) (Tier 4, satire, confirms roster position only)
 - [FEC: Andrew Klavan individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=KLAVAN%2C+ANDREW) (Tier 1)
 

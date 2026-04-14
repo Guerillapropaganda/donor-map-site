@@ -185,18 +185,18 @@ The class tell is Medicare for All. When Bernie Sanders proposed it in 2019, Mur
 
 ## Sources
 
-- [FEC Candidate: Chris Murphy campaign finance summary](https://www.fec.gov/data/candidate/S2WI00409/) (Tier 1)
-- [FEC Candidate: Chris Murphy career industries](https://www.fec.gov/data/candidate/S2WI00409/) (Tier 1)
-- [Congress.gov: Chris Murphy member profile](https://www.congress.gov/member/chris-murphy/M001169) (Tier 1)
-- [Congress.gov: Bipartisan Safer Communities Act](https://www.congress.gov/bill/117th-congress/senate-bill/2938) (Tier 1)
-- [Murphy.senate.gov: Murphy-Young resolution on Saudi arms sales](https://www.murphy.senate.gov/newsroom/press-releases/murphy-young-announce-privileged-resolution-to-force-vote-on-us-saudi-security-relationship-recent-arms-sale) (Tier 1)
-- [Washington Post: Chris Murphy on gun-control laws after Uvalde](https://www.washingtonpost.com/magazine/2022/07/05/chris-murphy-uvalde-gun-laws/) (Tier 2)
-- [CBS News: Senators reflect on Bipartisan Safer Communities Act](https://www.cbsnews.com/news/gun-legislation-bipartisan-safer-communities-act-senators-chris-murphy-thom-tillis-john-cornyn-krysten-sinema/) (Tier 2)
-- [Hartford Courant: Medicare for All complicated for Hartford Democrats](https://www.courant.com/2019/08/01/with-thousands-of-jobs-at-stake-medicare-for-all-is-a-complicated-issue-for-democrats-in-hartford-the-insurance-capital-of-the-world/) (Tier 2)
-- [CT Mirror: Connecticut insurers have eyes on Washington](https://ctmirror.org/2014/05/01/connecticut-insurers-have-eyes-on-washington/) (Tier 2)
-- [OpenSecrets: Chris Murphy career top contributors](https://www.opensecrets.org/members-of-congress/contributors?cid=N00027566&cycle=CAREER) (Tier 1)
-- [Wikipedia: Chris Murphy gun control filibuster](https://en.wikipedia.org/wiki/Chris_Murphy_gun_control_filibuster) (Tier 3)
-- [Ballotpedia: Chris Murphy](https://ballotpedia.org/Chris_Murphy) (Tier 3)
+- [FEC Candidate: Chris Murphy campaign finance summary](https://www.fec.gov/data/candidate/S2WI00409/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Chris Murphy career industries](https://www.fec.gov/data/candidate/S2WI00409/) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: Chris Murphy member profile](https://www.congress.gov/member/chris-murphy/M001169)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Bipartisan Safer Communities Act](https://www.congress.gov/bill/117th-congress/senate-bill/2938)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Murphy.senate.gov: Murphy-Young resolution on Saudi arms sales](https://www.murphy.senate.gov/newsroom/press-releases/murphy-young-announce-privileged-resolution-to-force-vote-on-us-saudi-security-relationship-recent-arms-sale) (Tier 1) (VERIFIED)
+- [Washington Post: Chris Murphy on gun-control laws after Uvalde](https://www.washingtonpost.com/magazine/2022/07/05/chris-murphy-uvalde-gun-laws/) (Tier 2) (VERIFIED)
+- [CBS News: Senators reflect on Bipartisan Safer Communities Act](https://www.cbsnews.com/news/gun-legislation-bipartisan-safer-communities-act-senators-chris-murphy-thom-tillis-john-cornyn-krysten-sinema/) (Tier 2) (VERIFIED)
+- [Hartford Courant: Medicare for All complicated for Hartford Democrats](https://www.courant.com/2019/08/01/with-thousands-of-jobs-at-stake-medicare-for-all-is-a-complicated-issue-for-democrats-in-hartford-the-insurance-capital-of-the-world/) (Tier 2) (VERIFIED)
+- [CT Mirror: Connecticut insurers have eyes on Washington](https://ctmirror.org/2014/05/01/connecticut-insurers-have-eyes-on-washington/) (Tier 2) (VERIFIED)
+- [OpenSecrets: Chris Murphy career top contributors](https://www.opensecrets.org/members-of-congress/contributors?cid=N00027566&cycle=CAREER) (Tier 1) (VERIFIED)
+- [Wikipedia: Chris Murphy gun control filibuster](https://en.wikipedia.org/wiki/Chris_Murphy_gun_control_filibuster) (Tier 3) (VERIFIED)
+- [Ballotpedia: Chris Murphy](https://ballotpedia.org/Chris_Murphy) (Tier 3) (VERIFIED)
 
 ### Legislative Activity (Congress.gov)
 <!-- auto:congress-legislation start -->
@@ -224,7 +224,7 @@ The class tell is Medicare for All. When Bernie Sanders proposed it in 2019, Mur
 | — |  | — |
 | — |  | — |
 
-- [Source: Congress.gov](https://www.congress.gov/member/M001169) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/M001169)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Campaign Finance (FEC)
@@ -236,7 +236,7 @@ The class tell is Medicare for All. When Bernie Sanders proposed it in 2019, Mur
 | Individual Contributions | $600 |
 | Cash on Hand | 0.00 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S2WI00409/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S2WI00409/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Influence Network (Cross-Reference)
@@ -288,5 +288,5 @@ The class tell is Medicare for All. When Bernie Sanders proposed it in 2019, Mur
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Chris Murphy](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: Chris Murphy](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->

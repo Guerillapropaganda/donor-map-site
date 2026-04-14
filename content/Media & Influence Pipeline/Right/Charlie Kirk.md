@@ -79,7 +79,7 @@ Publix supermarket heiress. Gave $1.25 million to Kirk's organizations specifica
 
 The FEC API returns 70 results for "kirk, charlie", a moderately common name requiring disambiguation. Filtering by known state of residence (Arizona, where TPUSA is based) and employer (Turning Point USA, media/commentary) does not yield definitive confirmation of a specific Charlie Kirk. The raw API data shows $2,877.52 across 70 results, but individual-level matching to the media personality/TPUSA founder cannot be completed with certainty via fuzzy matching alone. Best assessment: either $0 personal contributions, or minimal contributions ($2,877 total) obscured by name-matching ambiguity. The TPUSA organization receives $82–85M annually in tax-deductible donations, far exceeding what any individual founder would personally contribute.
 
-- [FEC: Charlie Kirk individual contributions (70 results, $2,877.52 aggregate, disambiguation pending)](https://www.fec.gov/data/receipts/?contributor_name=kirk%2C+charlie) (Tier 1)
+- [FEC: Charlie Kirk individual contributions (70 results, $2,877.52 aggregate, disambiguation pending)](https://www.fec.gov/data/receipts/?contributor_name=kirk%2C+charlie) (Tier 1) (VERIFIED)
 
 > **Disambiguation note:** The name "Charlie Kirk" appears 70 times in FEC records via fuzzy matching. Filtering by Arizona and TPUSA-related employers does not isolate the Turning Point USA founder with certainty. The aggregate $2,877.52 across 70 results likely represents other individuals with similar names. Without verified biographical data in FEC records, confirmation remains pending.
 
@@ -186,22 +186,22 @@ The audience captured by Kirk's content will vote against labor protections, aga
 
 ### Sources
 
-- [ProPublica: At This Trump-Favored Charity, Financial Reporting Is Questionable and Insiders Are Cashing In](https://www.propublica.org/article/at-this-trump-favored-charity-financial-reporting-is-questionable-and-insiders-are-cashing-in) (Tier 2)
-- [ProPublica Nonprofit Explorer: Turning Point USA Inc. Form 990 data](https://projects.propublica.org/nonprofits/organizations/800835023) (Tier 1)
-- [NPR: Right-wing activist Charlie Kirk fatally shot at speaking event in Utah](https://www.npr.org/2025/09/10/nx-s1-5537068/charlie-kirk-shot-utah-university-campus) (Tier 2)
-- [Deseret News: Charlie Kirk shooting. Conservative activist killed in Utah](https://www.deseret.com/utah/2025/09/10/charlie-kirk-shot/) (Tier 2)
-- [Wikipedia: Assassination of Charlie Kirk](https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk) (Tier 3)
-- [Wikipedia: Charlie Kirk](https://en.wikipedia.org/wiki/Charlie_Kirk) (Tier 3)
-- [Wikipedia: Turning Point USA](https://en.wikipedia.org/wiki/Turning_Point_USA) (Tier 3)
-- [OpenSecrets: Turning Point PAC. PAC Profile 2024](https://www.opensecrets.org/political-action-committees-pacs/turning-point-pac/C00814152/summary/2024) (Tier 1)
-- [FEC: TURNING POINT PAC INC. committee overview](https://www.fec.gov/data/committee/C00814152/) (Tier 1)
-- [FEC Independent Expenditures: Turning Point USA Outside Spending 2022](https://www.fec.gov/data/independent-expenditures/) (Tier 1)
-- [Brennan Center for Justice: The Money Behind January 6 Is Flowing into the 2022 Elections](https://www.brennancenter.org/our-work/analysis-opinion/money-behind-january-6-flowing-2022-elections) (Tier 2)
-- [The Chronicle of Higher Education: As Turning Point USA Grows, So Does Charlie Kirk's Salary](https://www.chronicle.com/article/as-turning-point-usa-grows-so-does-charlie-kirks-salary) (Tier 2)
-- [InfluenceWatch: Turning Point USA](https://www.influencewatch.org/non-profit/turning-point-usa/) (Tier 3)
-- [SourceWatch: Turning Point USA](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Turning_Point_USA) (Tier 3)
-- [Education Week: How Charlie Kirk's Turning Point USA Is Expanding Its Reach to K-12 Schools](https://www.edweek.org/policy-politics/how-charlie-kirks-turning-point-usa-is-expanding-its-reach-to-k-12-schools/2025/09) (Tier 2)
-- [Newsweek: Turning Point USA Sees Huge Donations, Chapters Spread After Charlie Kirk Killing](https://www.newsweek.com/turning-point-usa-donations-chapters-spread-charlie-kirk-2133816) (Tier 3)
-- [Al Jazeera: How Charlie Kirk and Turning Point USA helped Trump and MAGA win](https://www.aljazeera.com/news/2025/9/11/how-charlie-kirk-and-turning-point-usa-helped-trump-and-maga-win) (Tier 2)
-- [International Business Times: Who Funds Conservative Campus Group Turning Point USA? Donors Revealed](https://www.ibtimes.com/political-capital/who-funds-conservative-campus-group-turning-point-usa-donors-revealed-2620325) (Tier 2)
+- [ProPublica: At This Trump-Favored Charity, Financial Reporting Is Questionable and Insiders Are Cashing In](https://www.propublica.org/article/at-this-trump-favored-charity-financial-reporting-is-questionable-and-insiders-are-cashing-in) (Tier 2) (VERIFIED)
+- [ProPublica Nonprofit Explorer: Turning Point USA Inc. Form 990 data](https://projects.propublica.org/nonprofits/organizations/800835023) (Tier 1) (VERIFIED)
+- [NPR: Right-wing activist Charlie Kirk fatally shot at speaking event in Utah](https://www.npr.org/2025/09/10/nx-s1-5537068/charlie-kirk-shot-utah-university-campus) (Tier 2) (VERIFIED)
+- [Deseret News: Charlie Kirk shooting. Conservative activist killed in Utah](https://www.deseret.com/utah/2025/09/10/charlie-kirk-shot/) (Tier 2) (VERIFIED)
+- [Wikipedia: Assassination of Charlie Kirk](https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk) (Tier 3) (VERIFIED)
+- [Wikipedia: Charlie Kirk](https://en.wikipedia.org/wiki/Charlie_Kirk) (Tier 3) (VERIFIED)
+- [Wikipedia: Turning Point USA](https://en.wikipedia.org/wiki/Turning_Point_USA) (Tier 3) (VERIFIED)
+- [OpenSecrets: Turning Point PAC. PAC Profile 2024](https://www.opensecrets.org/political-action-committees-pacs/turning-point-pac/C00814152/summary/2024) (Tier 1) (VERIFIED)
+- [FEC: TURNING POINT PAC INC. committee overview](https://www.fec.gov/data/committee/C00814152/) (Tier 1) (VERIFIED)
+- [FEC Independent Expenditures: Turning Point USA Outside Spending 2022](https://www.fec.gov/data/independent-expenditures/) (Tier 1) (NEEDS REVIEW)
+- [Brennan Center for Justice: The Money Behind January 6 Is Flowing into the 2022 Elections](https://www.brennancenter.org/our-work/analysis-opinion/money-behind-january-6-flowing-2022-elections) (Tier 2) (VERIFIED)
+- ~~[The Chronicle of Higher Education: As Turning Point USA Grows, So Does Charlie Kirk's Salary](https://www.chronicle.com/article/as-turning-point-usa-grows-so-does-charlie-kirks-salary)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [InfluenceWatch: Turning Point USA](https://www.influencewatch.org/non-profit/turning-point-usa/) (Tier 3) (VERIFIED)
+- ~~[SourceWatch: Turning Point USA](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Turning_Point_USA)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [Education Week: How Charlie Kirk's Turning Point USA Is Expanding Its Reach to K-12 Schools](https://www.edweek.org/policy-politics/how-charlie-kirks-turning-point-usa-is-expanding-its-reach-to-k-12-schools/2025/09) (Tier 2) (VERIFIED)
+- [Newsweek: Turning Point USA Sees Huge Donations, Chapters Spread After Charlie Kirk Killing](https://www.newsweek.com/turning-point-usa-donations-chapters-spread-charlie-kirk-2133816) (Tier 3) (VERIFIED)
+- [Al Jazeera: How Charlie Kirk and Turning Point USA helped Trump and MAGA win](https://www.aljazeera.com/news/2025/9/11/how-charlie-kirk-and-turning-point-usa-helped-trump-and-maga-win) (Tier 2) (VERIFIED)
+- [International Business Times: Who Funds Conservative Campus Group Turning Point USA? Donors Revealed](https://www.ibtimes.com/political-capital/who-funds-conservative-campus-group-turning-point-usa-donors-revealed-2620325) (Tier 2) (VERIFIED)
 

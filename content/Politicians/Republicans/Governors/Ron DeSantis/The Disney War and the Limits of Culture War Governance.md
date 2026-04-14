@@ -86,10 +86,10 @@ In each case, the culture war signal was delivered. The underlying corporate pow
 
 ### Sources
 
-- [Wikipedia: Disney v. DeSantis](https://en.wikipedia.org/wiki/Disney_v._DeSantis) (Tier 3)
-- [Wikipedia: Disney and Florida's Parental Rights in Education Act](https://en.wikipedia.org/wiki/Disney_and_Florida%27s_Parental_Rights_in_Education_Act) (Tier 3)
-- [CNBC: Disney and Florida settle lawsuits over DeSantis special district fight, Don't Say Gay bill](https://www.cnbc.com/2024/03/27/disney-and-florida-settle-lawsuits-over-desantis-special-district-fight-dont-say-gay-bill.html) (Tier 2)
-- [Florida Phoenix: Disney settles lawsuit with DeSantis administration over new governing board](https://floridaphoenix.com/2024/03/27/disney-settles-lawsuit-with-desantis-administration-over-new-governing-board/) (Tier 2)
-- [BlogMickey: State Investigator Found Former Reedy Creek Improvement District Broke No Laws](https://blogmickey.com/2024/12/reedy-creek-improvement-district-broke-no-laws/) (Tier 3)
-- [CNBC: Billionaire Ken Griffin, former DeSantis donor, sits out GOP primary](https://www.cnbc.com/2023/09/18/billionaire-ken-griffin-former-desantis-donor-sits-out-gop-primary.html) (Tier 2)
-- [E&E News: DeSantis loves to talk Everglades, not climate](https://www.eenews.net/articles/desantis-loves-to-talk-everglades-not-climate/) (Tier 2)
+- [Wikipedia: Disney v. DeSantis](https://en.wikipedia.org/wiki/Disney_v._DeSantis) (Tier 3) (VERIFIED)
+- [Wikipedia: Disney and Florida's Parental Rights in Education Act](https://en.wikipedia.org/wiki/Disney_and_Florida%27s_Parental_Rights_in_Education_Act) (Tier 3) (VERIFIED)
+- [CNBC: Disney and Florida settle lawsuits over DeSantis special district fight, Don't Say Gay bill](https://www.cnbc.com/2024/03/27/disney-and-florida-settle-lawsuits-over-desantis-special-district-fight-dont-say-gay-bill.html) (Tier 2) (VERIFIED)
+- [Florida Phoenix: Disney settles lawsuit with DeSantis administration over new governing board](https://floridaphoenix.com/2024/03/27/disney-settles-lawsuit-with-desantis-administration-over-new-governing-board/) (Tier 2) (VERIFIED)
+- [BlogMickey: State Investigator Found Former Reedy Creek Improvement District Broke No Laws](https://blogmickey.com/2024/12/reedy-creek-improvement-district-broke-no-laws/) (Tier 3) (VERIFIED)
+- [CNBC: Billionaire Ken Griffin, former DeSantis donor, sits out GOP primary](https://www.cnbc.com/2023/09/18/billionaire-ken-griffin-former-desantis-donor-sits-out-gop-primary.html) (Tier 2) (VERIFIED)
+- [E&E News: DeSantis loves to talk Everglades, not climate](https://www.eenews.net/articles/desantis-loves-to-talk-everglades-not-climate/) (Tier 2) (VERIFIED)

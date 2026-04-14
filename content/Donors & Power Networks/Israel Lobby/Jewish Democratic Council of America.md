@@ -64,14 +64,14 @@ The Jewish Democratic Council of America exemplifies how identity-based advocacy
 | Net Assets | $525K |
 | Officer Compensation | $209K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 821919054](https://projects.propublica.org/nonprofits/organizations/821919054) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 821919054](https://projects.propublica.org/nonprofits/organizations/821919054) (Tier 1) (VERIFIED)
 
 <!-- auto:propublica-990 end -->
 
 ### Sources
 
-- [Jewish Democratic Council of America Official Website](https://jewishdems.org/) (Tier 3)
-- [OpenSecrets: JDCA Contributions and Bundling](https://www.opensecrets.org/orgs/jewish-democratic-council-of-america/summary?id=D000071271) (Tier 1)
+- [Jewish Democratic Council of America Official Website](https://jewishdems.org/) (Tier 3) (VERIFIED)
+- [OpenSecrets: JDCA Contributions and Bundling](https://www.opensecrets.org/orgs/jewish-democratic-council-of-america/summary?id=D000071271) (Tier 1) (VERIFIED)
 
 ---
 
@@ -111,7 +111,7 @@ The Jewish Democratic Council of America exemplifies how identity-based advocacy
 | JEWS DEFENDING AMERICAN VALUES | $4,000 | — |
 | KLOBUCHAR FOR MINNESOTA | $3,300 | DFL |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Jewish%20Democratic%20Council%20of%20America) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Jewish%20Democratic%20Council%20of%20America) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### Tax Filings (IRS 990)
@@ -129,14 +129,14 @@ The Jewish Democratic Council of America exemplifies how identity-based advocacy
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/821919054/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/821919054/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/821919054/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/821919054/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/821919054/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/821919054/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/821919054/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/821919054/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/821919054/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/821919054/2019)~~ (URL broken, archived by Ops)
 - ... and 2 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/821919054) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/821919054) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Foreign Agent Activity (FARA)
@@ -152,7 +152,7 @@ The Jewish Democratic Council of America exemplifies how identity-based advocacy
 **Foreign principals:**
 - Syrian Democratic Council (SYRIA)
 
-- [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Jewish%20Democratic%20Council%20of%20America) (Tier 1)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Jewish%20Democratic%20Council%20of%20America)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:fara-foreign-agents end -->
 
 ### DOJ Press Releases

@@ -26,7 +26,7 @@ CVS Health Corporation. A vertically integrated healthcare giant with $357 billi
 
 CVS PAC contributes $2-3 million per cycle and the company spends $10-12 million annually on lobbying, making it one of the top healthcare lobbying spenders in America.
 
-- [OpenSecrets: CVS Health organizational profile](https://www.opensecrets.org/orgs/cvs-health/summary?id=D000024650) (Tier 1)
+- ~~[OpenSecrets: CVS Health organizational profile](https://www.opensecrets.org/orgs/cvs-health/summary?id=D000024650)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -66,11 +66,11 @@ CVS Health represents the complete vertical capture of the prescription drug sup
 ### Sources
 
 - [OpenSecrets: CVS Health organizational profile](https://www.opensecrets.org/orgs/cvs-health/summary?id=D000024650) (Tier 1)
-- [OpenSecrets: CVS Health lobbying expenditures](https://www.opensecrets.org/orgs/cvs-health/lobbying?id=D000024650) (Tier 1)
-- [FTC: PBM market concentration study](https://www.ftc.gov/reports/pharmacy-benefit-managers-report) (Tier 1)
-- [DOJ: CVS-Aetna merger review](https://www.justice.gov/archives/opa/pr/justice-department-requires-cvs-and-aetna-divest-aetna-s-medicare-individual-part-d) (Tier 1)
-- [STAT News: CVS vertical integration and healthcare pricing](https://www.statnews.com/cvs-vertical-integration/) *(source unavailable)* (Tier 2)
-- [Ballotpedia: CVS Health political spending](https://ballotpedia.org/CVS_Health) (Tier 3)
+- ~~[OpenSecrets: CVS Health lobbying expenditures](https://www.opensecrets.org/orgs/cvs-health/lobbying?id=D000024650)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [FTC: PBM market concentration study](https://www.ftc.gov/reports/pharmacy-benefit-managers-report) (Tier 1) (VERIFIED)
+- [DOJ: CVS-Aetna merger review](https://www.justice.gov/archives/opa/pr/justice-department-requires-cvs-and-aetna-divest-aetna-s-medicare-individual-part-d) (Tier 1) (VERIFIED)
+- ~~[STAT News: CVS vertical integration and healthcare pricing](https://www.statnews.com/cvs-vertical-integration/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+- [Ballotpedia: CVS Health political spending](https://ballotpedia.org/CVS_Health) (Tier 3) (VERIFIED)
 
 ---
 
@@ -100,7 +100,7 @@ CVS Health represents the complete vertical capture of the prescription drug sup
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=CVS%20Health%20-%20Aetna) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=CVS%20Health%20-%20Aetna) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Lobbying Activity
@@ -119,7 +119,7 @@ CVS Health represents the complete vertical capture of the prescription drug sup
 
 **Agencies contacted:** Centers For Medicare and Medicaid Services (CMS), Executive Office of the President (EOP), Food & Drug Administration (FDA), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), SENATE, White House Office
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=CVS%20Health%20-%20Aetna) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=CVS%20Health%20-%20Aetna) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### FTC Enforcement & Merger Review
@@ -131,13 +131,13 @@ CVS Health represents the complete vertical capture of the prescription drug sup
 
 **Recent HSR merger filings (early terminations granted):**
 
-- [Mitchell Topco Holdings, Inc. → CVS Health Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20200892) (2020-04-08)
-- [CVS Health Corporation → Centene Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20200409) (2020-01-22)
-- [Aetna Inc. → bSwift LLC](https://www.ftc.gov/legal-library/browse/early-termination-notices/20150179) (2014-11-20)
-- [Aetna Inc. → Oak Investment Partners XII, Limited Partnership](https://www.ftc.gov/legal-library/browse/early-termination-notices/20111179) (2011-08-05)
-- [Aetna Inc. → Genworth Financial, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20111076) (2011-07-11)
+- [Mitchell Topco Holdings, Inc. → CVS Health Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20200892) (VERIFIED) (2020-04-08)
+- [CVS Health Corporation → Centene Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20200409) (VERIFIED) (2020-01-22)
+- [Aetna Inc. → bSwift LLC](https://www.ftc.gov/legal-library/browse/early-termination-notices/20150179) (VERIFIED) (2014-11-20)
+- [Aetna Inc. → Oak Investment Partners XII, Limited Partnership](https://www.ftc.gov/legal-library/browse/early-termination-notices/20111179) (VERIFIED) (2011-08-05)
+- [Aetna Inc. → Genworth Financial, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20111076) (VERIFIED) (2011-07-11)
 
-> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=CVS%20Health%20-%20Aetna).
+> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=CVS%20Health%20-%20Aetna) (VERIFIED).
 
-- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=CVS%20Health%20-%20Aetna) (Tier 1)
+- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=CVS%20Health%20-%20Aetna) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->

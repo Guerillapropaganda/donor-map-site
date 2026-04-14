@@ -78,5 +78,5 @@ Trump has implemented approximately 48% of Project 2025 as of late 2025. Key imp
 
 ### Sources
 
-- [Heritage Foundation: Project 2025 Mandate for Leadership (full PDF)](https://static.heritage.org/project2025/2025_MandateForLeadership_FULL.pdf) (Tier 2)
-- [United Methodist Insight: Want to Know Who's Behind Project 2025? Follow the Money through the Swamp](https://um-insight.net/perspectives/want-to-know-whos-behind-project-2025-follow-the-money-thro/) (Tier 3)
+- [Heritage Foundation: Project 2025 Mandate for Leadership (full PDF)](https://static.heritage.org/project2025/2025_MandateForLeadership_FULL.pdf) (Tier 2) (VERIFIED)
+- [United Methodist Insight: Want to Know Who's Behind Project 2025? Follow the Money through the Swamp](https://um-insight.net/perspectives/want-to-know-whos-behind-project-2025-follow-the-money-thro/) (Tier 3) (VERIFIED)

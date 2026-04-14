@@ -42,9 +42,9 @@ The result: unprecedented spending from crypto PACs (Fairshake), traditional Dem
 
 [Vulnerable GOP Rep [[_Mike Lawler Master Profile|Mike Lawler]] brings in over $1M for 2026 House race - Fox News](https://www.foxnews.com/politics/vulnerable-harris-district-republican-brings-over-1-million-dems-scramble-flip-seat) (Tier 3)
 
-**Democratic targeting:** Lawler is the only New Yorker on the DCCC's "Districts in Play" list, a list of the most vulnerable Republicans Democrats believe they can defeat. [Mike Lawler's 17th District targeted by DCCC; big push to flip Hudson Valley seat in 2026 - Yahoo News](https://www.yahoo.news/mike-lawlers-17th-district-targeted-090726858.html) (Tier 3)
+**Democratic targeting:** Lawler is the only New Yorker on the DCCC's "Districts in Play" list, a list of the most vulnerable Republicans Democrats believe they can defeat. ~~[Mike Lawler's 17th District targeted by DCCC; big push to flip Hudson Valley seat in 2026 - Yahoo News](https://www.yahoo.news/mike-lawlers-17th-district-targeted-090726858.html)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
 
-**2026 positioning:** Lawler initially considered running for governor in 2026 but decided to seek reelection to NY-17 instead. He raised $1.1 million in the third quarter of 2025, ending with $2.3 million cash on hand. [Lawler decides not to run for governor in 2026, will seek reelection in NY-17 instead - WAMC](https://www.wamc.org/news/2025-07-23/lawler-decides-not-run-governor-2026-will-seek-reelection-ny-17-instead/) (Tier 3)
+**2026 positioning:** Lawler initially considered running for governor in 2026 but decided to seek reelection to NY-17 instead. He raised $1.1 million in the third quarter of 2025, ending with $2.3 million cash on hand. ~~[Lawler decides not to run for governor in 2026, will seek reelection in NY-17 instead - WAMC](https://www.wamc.org/news/2025-07-23/lawler-decides-not-run-governor-2026-will-seek-reelection-ny-17-instead/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
 
 > [!money]
 > Lawler's $2.3M cash on hand puts him well-positioned for a well-funded campaign, but it will not be enough to counter the expected super PAC spending from both parties. Expect $20M+ in total independent expenditures in NY-17 by November 2026.
@@ -58,13 +58,13 @@ Multiple Democratic candidates are positioning for challenges to Lawler. The mos
 Fairshake's 2026 focus in New York includes not only Lawler's race but also several other House races where crypto policy is expected to be a determinant issue.
 
 ### Democratic Representatives Targeted for Support (Pro-Crypto, Friendly Terms):
-- **Laura Gillen (NY-27):** Democrat who broke with her party to support pro-crypto legislation. Fairshake is expected to boost Gillen to reward her pro-crypto positioning. In 2024, Fairshake boosted Gillen's allies. [Deep-pocketed crypto super PAC eyes New York House races in 2026 - City & State New York](https://www.cityandstateny.com/politics/2026/03/deep-pocketed-crypto-super-pac-eyes-new-york-house-races-2026/412198/) (Tier 2)
+- **Laura Gillen (NY-27):** Democrat who broke with her party to support pro-crypto legislation. Fairshake is expected to boost Gillen to reward her pro-crypto positioning. In 2024, Fairshake boosted Gillen's allies. [Deep-pocketed crypto super PAC eyes New York House races in 2026 - City & State New York](https://www.cityandstateny.com/politics/2026/03/deep-pocketed-crypto-super-pac-eyes-new-york-house-races-2026/412198/) (Tier 2) (VERIFIED)
 
 - **Dan Goldman (NY-10):** Democratic representative who broke party ranks to support the CLARITY Act (pro-crypto Digital Asset Market Clarity Act). Fairshake is expected to support Goldman to reinforce pro-crypto positioning. [Deep-pocketed crypto super PAC eyes New York House races in 2026 - City & State New York](https://www.cityandstateny.com/politics/2026/03/deep-pocketed-crypto-super-pac-eyes-new-york-house-races-2026/412198/) (Tier 2)
 
 - **Ritchie Torres (NY-15):** Democratic representative who also broke party consensus to support pro-crypto legislation. Expected to receive Fairshake support.
 
-- **Pat Ryan (NY-18):** Democratic representative who was a major beneficiary of crypto cash in 2024, receiving nearly $2 million from Fairshake in his reelection effort. [Crypto super PAC Fairshake has $116 million on hand to grow industry's influence in 2026 - CNBC](https://www.cnbc.com/2025/01/30/crypto-pac-fairshake-has-116-million-on-hand-for-2026-elections.html) (Tier 2)
+- **Pat Ryan (NY-18):** Democratic representative who was a major beneficiary of crypto cash in 2024, receiving nearly $2 million from Fairshake in his reelection effort. [Crypto super PAC Fairshake has $116 million on hand to grow industry's influence in 2026 - CNBC](https://www.cnbc.com/2025/01/30/crypto-pac-fairshake-has-116-million-on-hand-for-2026-elections.html) (Tier 2) (VERIFIED)
 
 ### Fairshake's Track Record in New York
 
@@ -73,7 +73,7 @@ In 2024, Fairshake spent $5.3 million on New York races, all boosting Democrats.
 > [!contradiction]
 > Fairshake's 2024 success in New York exposed a contradiction in crypto industry strategy: crypto donors initially focused exclusively on pro-crypto candidates, but found that supporting pro-crypto Democrats was more efficient than supporting Republicans. A $500k Fairshake investment in a Democratic crypto advocate could influence policy more effectively than $5M in a Republican primary. This is driving the shift toward Democratic targeting in 2026.
 
-[Cryptocurrency and AI industries tested their influence in Illinois. It didn't go that well - PBS News](https://www.pbs.org/newshour/politics/cryptocurrency-and-ai-industries-tested-their-influence-in-illinois-it-didnt-go-well) (Tier 2)
+[Cryptocurrency and AI industries tested their influence in Illinois. It didn't go that well - PBS News](https://www.pbs.org/newshour/politics/cryptocurrency-and-ai-industries-tested-their-influence-in-illinois-it-didnt-go-well) (Tier 2) (VERIFIED)
 
 ### Total Projected New York House Spending
 

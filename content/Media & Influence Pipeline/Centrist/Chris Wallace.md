@@ -45,8 +45,8 @@ No FEC individual contributions found. The FEC API returns 0 results for "WALLAC
 > [!money]
 > Zero personal political donations over a 55-year career at the most influential political news organizations in the country. Wallace influenced more presidential debates than almost any journalist in history, and spent nothing. His political capital is entirely institutional, not personal. When the institutions stopped paying, the capital evaporated.
 
-- [FEC: Chris Wallace individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=WALLACE%2C+CHRIS) (Tier 1)
-- [FEC: Christopher Wallace individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=WALLACE%2C+CHRISTOPHER) (Tier 1)
+- [FEC: Chris Wallace individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=WALLACE%2C+CHRIS) (Tier 1) (VERIFIED)
+- [FEC: Christopher Wallace individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=WALLACE%2C+CHRISTOPHER) (Tier 1) (VERIFIED)
 
 ---
 
@@ -143,16 +143,16 @@ The CNN+ miscalculation revealed something important: Wallace's brand had high i
 
 ### Sources
 
-- [NPR: Fox News loses Chris Wallace to new CNN streaming service](https://www.npr.org/2021/12/12/1063521670/chris-wallace-announces-abrupt-departure-from-fox-news-to-join-cnn-streaming-ser) (Tier 2)
-- [Washington Post: Chris Wallace leaving Fox News](https://www.washingtonpost.com/politics/2021/12/12/chris-wallace-leaving-fox-news-sunday/) (Tier 2)
-- [NPR: 2 Fox News commentators resign over Tucker Carlson's Patriot Purge documentary](https://www.npr.org/2021/11/21/1052837157/fox-resignations-tucker-carlson-patriot-purge-documentary) (Tier 2)
-- [Hollywood Reporter: Chris Wallace Leaving Fox News for CNN+](https://www.hollywoodreporter.com/tv/tv-news/chris-wallace-leaving-fox-news-1235061434/) (Tier 2)
-- [Deadline: After CNN+'s Abrupt Demise, Attention Turns to the Future of Its Shows](https://deadline.com/2022/04/cnn-plus-chris-wallace-discovery-warner-media-1235007967/) (Tier 2)
-- [Deadline: Chris Wallace Returns With Dual Platform HBO Max-CNN Talk Show](https://deadline.com/2022/09/chris-wallace-cnn-hbo-max-talk-show-1235124859/) (Tier 2)
-- [CNN Business: Chris Wallace departs CNN after three years](https://www.cnn.com/2024/11/11/media/chris-wallace-departs-cnn) (Tier 2)
-- [Hollywood Reporter: Chris Wallace Leaving CNN After 3 Years](https://www.hollywoodreporter.com/tv/tv-news/chris-wallace-leaving-cnn-after-3-years-1236058831/) (Tier 2)
-- [Deadline: Chris Wallace To Depart CNN After Almost Three Years](https://deadline.com/2024/11/chris-wallace-to-depart-cnn-1236173355/) (Tier 2)
-- [Wikipedia: Chris Wallace](https://en.wikipedia.org/wiki/Chris_Wallace) (Tier 3)
+- [NPR: Fox News loses Chris Wallace to new CNN streaming service](https://www.npr.org/2021/12/12/1063521670/chris-wallace-announces-abrupt-departure-from-fox-news-to-join-cnn-streaming-ser) (Tier 2) (VERIFIED)
+- [Washington Post: Chris Wallace leaving Fox News](https://www.washingtonpost.com/politics/2021/12/12/chris-wallace-leaving-fox-news-sunday/) (Tier 2) (VERIFIED)
+- [NPR: 2 Fox News commentators resign over Tucker Carlson's Patriot Purge documentary](https://www.npr.org/2021/11/21/1052837157/fox-resignations-tucker-carlson-patriot-purge-documentary) (Tier 2) (VERIFIED)
+- [Hollywood Reporter: Chris Wallace Leaving Fox News for CNN+](https://www.hollywoodreporter.com/tv/tv-news/chris-wallace-leaving-fox-news-1235061434/) (Tier 2) (VERIFIED)
+- [Deadline: After CNN+'s Abrupt Demise, Attention Turns to the Future of Its Shows](https://deadline.com/2022/04/cnn-plus-chris-wallace-discovery-warner-media-1235007967/) (Tier 2) (VERIFIED)
+- [Deadline: Chris Wallace Returns With Dual Platform HBO Max-CNN Talk Show](https://deadline.com/2022/09/chris-wallace-cnn-hbo-max-talk-show-1235124859/) (Tier 2) (VERIFIED)
+- [CNN Business: Chris Wallace departs CNN after three years](https://www.cnn.com/2024/11/11/media/chris-wallace-departs-cnn) (Tier 2) (VERIFIED)
+- [Hollywood Reporter: Chris Wallace Leaving CNN After 3 Years](https://www.hollywoodreporter.com/tv/tv-news/chris-wallace-leaving-cnn-after-3-years-1236058831/) (Tier 2) (VERIFIED)
+- [Deadline: Chris Wallace To Depart CNN After Almost Three Years](https://deadline.com/2024/11/chris-wallace-to-depart-cnn-1236173355/) (Tier 2) (VERIFIED)
+- [Wikipedia: Chris Wallace](https://en.wikipedia.org/wiki/Chris_Wallace) (Tier 3) (VERIFIED)
 - [FEC: Chris Wallace individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=WALLACE%2C+CHRIS) (Tier 1)
 - [FEC: Christopher Wallace individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=WALLACE%2C+CHRISTOPHER) (Tier 1)
 

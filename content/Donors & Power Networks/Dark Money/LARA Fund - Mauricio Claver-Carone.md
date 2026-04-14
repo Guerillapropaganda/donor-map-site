@@ -89,13 +89,13 @@ The LARA Fund is not a traditional donor node — it is the structural endpoint 
 
 ### Sources
 
-- [American Presidency Project: Trump announces Claver-Carone nomination as Special Envoy](https://www.presidency.ucsb.edu/documents/statement-president-elect-donald-j-trump-announcing-the-nomination-mauricio-claver-carone) (Tier 1)
-- [LatinFinance: PE fund seeks $750M for LatAm prospects](https://latinfinance.com/daily-brief/2024/08/21/pe-fund-seeks-750-mln-for-latam-prospects/) (Tier 2)
-- [Bloomberg: Former Trump Aide Seeks Middle East Investors for Latin America](https://www.bloomberg.com/news/articles/2024-12-20/former-trump-aide-seeks-middle-east-investors-for-latin-america) (Tier 2)
-- [Wikipedia: Mauricio Claver-Carone](https://en.wikipedia.org/wiki/Mauricio_Claver-Carone) (Tier 3)
-- [CiberCuba: Cuban-American Claver-Carone will leave the Trump Administration](https://en.cibercuba.com/noticias/2025-05-11-u1-e208512-s27061-nid302550-cubanoamericano-mauricio-claver-carone-abandonara) (Tier 2)
-- [LARA Fund: About Us](https://larafund.com/about-us/) (Tier 4)
-- [LARA Fund Deck: January 2025 (PDF)](https://www.sscc.com.co/images/news/2025/03-march/26-washington/LARA%20Fund%20Deck%20January%202025-1_compressed.pdf) (Tier 4)
+- [American Presidency Project: Trump announces Claver-Carone nomination as Special Envoy](https://www.presidency.ucsb.edu/documents/statement-president-elect-donald-j-trump-announcing-the-nomination-mauricio-claver-carone) (Tier 1) (VERIFIED)
+- [LatinFinance: PE fund seeks $750M for LatAm prospects](https://latinfinance.com/daily-brief/2024/08/21/pe-fund-seeks-750-mln-for-latam-prospects/) (Tier 2) (VERIFIED)
+- ~~[Bloomberg: Former Trump Aide Seeks Middle East Investors for Latin America](https://www.bloomberg.com/news/articles/2024-12-20/former-trump-aide-seeks-middle-east-investors-for-latin-america)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Wikipedia: Mauricio Claver-Carone](https://en.wikipedia.org/wiki/Mauricio_Claver-Carone) (Tier 3) (VERIFIED)
+- [CiberCuba: Cuban-American Claver-Carone will leave the Trump Administration](https://en.cibercuba.com/noticias/2025-05-11-u1-e208512-s27061-nid302550-cubanoamericano-mauricio-claver-carone-abandonara) (Tier 2) (VERIFIED)
+- [LARA Fund: About Us](https://larafund.com/about-us/) (Tier 4) (VERIFIED)
+- [LARA Fund Deck: January 2025 (PDF)](https://www.sscc.com.co/images/news/2025/03-march/26-washington/LARA%20Fund%20Deck%20January%202025-1_compressed.pdf) (Tier 4) (VERIFIED)
 
 ---
 

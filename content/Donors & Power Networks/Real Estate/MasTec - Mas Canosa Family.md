@@ -98,10 +98,10 @@ The Mas Canosa family represents the structural intersection of exile politics a
 
 ### Sources
 
-- [Wikipedia: Jorge Mas Canosa](https://en.wikipedia.org/wiki/Jorge_Mas_Canosa) (Tier 3)
-- [FEC Candidate: Carlos Gimenez campaign finance summary](https://www.fec.gov/data/candidate/H0FL26036/) (Tier 1)
-- [OpenSecrets: MasTec Inc summary](https://www.opensecrets.org/orgs/mastec-inc/summary?id=D000035672) (Tier 1)
-- [LatinFinance: PE fund seeks $750M for LatAm prospects](https://latinfinance.com/daily-brief/2024/08/21/pe-fund-seeks-750-mln-for-latam-prospects/) (Tier 2)
+- [Wikipedia: Jorge Mas Canosa](https://en.wikipedia.org/wiki/Jorge_Mas_Canosa) (Tier 3) (VERIFIED)
+- [FEC Candidate: Carlos Gimenez campaign finance summary](https://www.fec.gov/data/candidate/H0FL26036/) (Tier 1) (VERIFIED)
+- [OpenSecrets: MasTec Inc summary](https://www.opensecrets.org/orgs/mastec-inc/summary?id=D000035672) (Tier 1) (VERIFIED)
+- [LatinFinance: PE fund seeks $750M for LatAm prospects](https://latinfinance.com/daily-brief/2024/08/21/pe-fund-seeks-750-mln-for-latam-prospects/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -120,7 +120,7 @@ The Mas Canosa family represents the structural intersection of exile politics a
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=MasTec%20-%20Mas%20Canosa%20Family) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=MasTec%20-%20Mas%20Canosa%20Family) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -146,7 +146,7 @@ The Mas Canosa family represents the structural intersection of exile politics a
 |------------------|--------|--------|
 | Unknown | $51.9B | 6 |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Lobbying Activity
@@ -165,7 +165,7 @@ The Mas Canosa family represents the structural intersection of exile politics a
 
 **Agencies contacted:** Defense, Dept of (DOD), HOUSE OF REPRESENTATIVES, Homeland Security, Dept of (DHS), Transportation, Dept of (DOT)
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=MasTec%20-%20Mas%20Canosa%20Family) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=MasTec%20-%20Mas%20Canosa%20Family) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

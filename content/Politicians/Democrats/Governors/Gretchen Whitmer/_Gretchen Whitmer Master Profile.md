@@ -132,18 +132,18 @@ Not every Whitmer win is donor-class service. The analytical framework demands a
 
 ## Sources
 
-- [OpenSecrets: Gretchen Whitmer 2022 contributors and industries](https://www.opensecrets.org/officeholders/gretchen-e-whitmer/industries?cycle=2022&id=253478) (Tier 1)
+- [OpenSecrets: Gretchen Whitmer 2022 contributors and industries](https://www.opensecrets.org/officeholders/gretchen-e-whitmer/industries?cycle=2022&id=253478) (Tier 1) (VERIFIED)
 - ~~[FollowTheMoney: Gretchen Whitmer donor profile](https://www.followthemoney.org/entity-details?eid=253478)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
-- [Bridge Michigan: Top 10 subsidies under Whitmer — $900M spent, 4,200 jobs created](https://bridgemi.com/business-watch/top-10-subsidies-under-whitmer-michigan-spends-900m-firms-create-4200-jobs/) (Tier 2)
-- [Bridge Michigan: Michigan has spent $1B on EV/battery plants, 200 jobs created](https://bridgemi.com/business-watch/michigan-has-spent-1b-ev-battery-plants-so-far-theyve-created-200-jobs/) (Tier 2)
-- [Bridge Michigan: Ford retreats from EVs after Michigan spends big on subsidies](https://bridgemi.com/business-watch/ford-retreats-from-evs-after-michigan-spends-big-on-subsidies-for-battery-plants/) (Tier 2)
-- [Center for Economic Accountability: Michigan Ford battery plant named worst deal of 2023](https://economicaccountability.org/2023/12/04/michigans-subsidies-for-ford-motor-company-electric-vehicle-battery-plant-named-2023s-worst-economic-development-deal-of-the-year-by-the-center-for-economic-a/) (Tier 2)
-- [Deadline Detroit: $1.7B Ford battery plant subsidy wins taxpayer rip-off award](https://deadlinedetroit.com/articles/31575/starkman_whitmer_s_1_7b_subsidies_for_ford_battery_plant_wins_2023_taxpayer_rip-off_award) (Tier 2)
-- [Bridge Michigan: GM sells stake in Michigan EV battery factory subsidized by state](https://bridgemi.com/business-watch/gm-sells-stake-michigan-ev-battery-factory-subsidized-state/) (Tier 2)
-- [Michigan Public: Whitmer's DGA role raises 2028 presidential questions](https://www.michiganpublic.org/politics-government/2025-12-12/whitmers-new-dga-role-raises-new-questions-about-her-political-future) (Tier 2)
-- [Axios: Whitmer retreats from 2028 presidential race spotlight](https://www.axios.com/2025/11/24/whitmer-retreat-campaign-president-2028) (Tier 2)
-- [The Hill: Whitmer launching Substack amid 2028 speculation](https://thehill.com/homenews/state-watch/5718752-whitmer-substack-bipartisan-solutions/) (Tier 2)
-- [Wikipedia: Gretchen Whitmer kidnapping plot](https://en.wikipedia.org/wiki/Gretchen_Whitmer_kidnapping_plot) (Tier 3)
+- [Bridge Michigan: Top 10 subsidies under Whitmer — $900M spent, 4,200 jobs created](https://bridgemi.com/business-watch/top-10-subsidies-under-whitmer-michigan-spends-900m-firms-create-4200-jobs/) (Tier 2) (VERIFIED)
+- [Bridge Michigan: Michigan has spent $1B on EV/battery plants, 200 jobs created](https://bridgemi.com/business-watch/michigan-has-spent-1b-ev-battery-plants-so-far-theyve-created-200-jobs/) (Tier 2) (VERIFIED)
+- [Bridge Michigan: Ford retreats from EVs after Michigan spends big on subsidies](https://bridgemi.com/business-watch/ford-retreats-from-evs-after-michigan-spends-big-on-subsidies-for-battery-plants/) (Tier 2) (VERIFIED)
+- [Center for Economic Accountability: Michigan Ford battery plant named worst deal of 2023](https://economicaccountability.org/2023/12/04/michigans-subsidies-for-ford-motor-company-electric-vehicle-battery-plant-named-2023s-worst-economic-development-deal-of-the-year-by-the-center-for-economic-a/) (Tier 2) (VERIFIED)
+- ~~[Deadline Detroit: $1.7B Ford battery plant subsidy wins taxpayer rip-off award](https://deadlinedetroit.com/articles/31575/starkman_whitmer_s_1_7b_subsidies_for_ford_battery_plant_wins_2023_taxpayer_rip-off_award)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Bridge Michigan: GM sells stake in Michigan EV battery factory subsidized by state](https://bridgemi.com/business-watch/gm-sells-stake-michigan-ev-battery-factory-subsidized-state/) (Tier 2) (VERIFIED)
+- [Michigan Public: Whitmer's DGA role raises 2028 presidential questions](https://www.michiganpublic.org/politics-government/2025-12-12/whitmers-new-dga-role-raises-new-questions-about-her-political-future) (Tier 2) (VERIFIED)
+- ~~[Axios: Whitmer retreats from 2028 presidential race spotlight](https://www.axios.com/2025/11/24/whitmer-retreat-campaign-president-2028)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Whitmer launching Substack amid 2028 speculation](https://thehill.com/homenews/state-watch/5718752-whitmer-substack-bipartisan-solutions/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Wikipedia: Gretchen Whitmer kidnapping plot](https://en.wikipedia.org/wiki/Gretchen_Whitmer_kidnapping_plot) (Tier 3) (VERIFIED)
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
@@ -152,6 +152,6 @@ Not every Whitmer win is donor-class service. The analytical framework demands a
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Gretchen Whitmer](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: Gretchen Whitmer](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 

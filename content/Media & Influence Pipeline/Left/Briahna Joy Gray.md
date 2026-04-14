@@ -60,7 +60,7 @@ Gray's career arc traces a movement from corporate law → progressive journalis
 > [!money]
 > Total political giving under $500 across a decade of career shifts, corporate law to progressive journalism to campaign politics to corporate media to independent media. All via ActBlue small-dollar platform. Zero corporate PAC, zero bundling, zero mega-donor alignment. This is genuinely one of the smallest FEC footprints of any media figure in this vault. The pattern reflects Gray's trajectory: she moved FROM corporate money TOWARD independence. Her donations follow her career arc: corporate law employer gives way to campaign employment gives way to self-employment. The FEC record is the purest documentation of a media figure who never participated in the donor-class fundraising infrastructure.
 
-- [FEC: Briahna Joy Gray individual contributions (22 results, $447)](https://www.fec.gov/data/receipts/?contributor_name=briahna+gray) (Tier 1)
+- [FEC: Briahna Joy Gray individual contributions (22 results, $447)](https://www.fec.gov/data/receipts/?contributor_name=briahna+gray) (Tier 1) (VERIFIED)
 
 > **Note on API results:** The FEC API search for "briahna gray" returns 22 results totaling $447, all confirmed to belong to the media figure/lawyer. Contributions are from employers matching her career (DPK Law/corporate, The Intercept, Sanders 2020, self-employed). All 22 results verified as belonging to Briahna Joy Gray the political commentator. No disambiguation needed.
 
@@ -176,18 +176,18 @@ The current phase, independent Patreon-funded podcasting, is the least captured 
 
 ### Sources
 
-- [FEC Individual Contributions: Briahna Gray (22 results, 2015-2026)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=briahna+gray&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1)
-- [Wikipedia: Briahna Joy Gray](https://en.wikipedia.org/wiki/Briahna_Joy_Gray) (Tier 3)
-- [Democracy Now: The Hill Fires Briahna Joy Gray, Critic of Israel's War on Gaza (Jun 2024)](https://www.democracynow.org/2024/6/7/headlines/the_hill_fires_briahna_joy_gray_critic_of_israels_war_on_gaza) (Tier 2)
-- [Jacobin: "Briahna Joy Gray Is Not Backing Down" (May 2020)](https://jacobin.com/2020/05/briahna-joy-gray-bernie-sanders-press-secretary) (Tier 2)
-- [Fortune: 40 Under 40. Briahna Joy Gray (2020)](https://fortune.com/ranking/40-under-40/2020/briahna-joy-gray/) (Tier 2)
-- [The Root: Bernie Sanders' Messenger. Press Secretary Briahna Joy Gray](https://www.theroot.com/bernie-sanders-messenger-press-secretary-briahna-joy-g-1842429092) (Tier 2)
-- [Briahna Joy Gray on X: "It finally happened. The Hill has fired me." (Jun 2024)](https://x.com/briebriejoy/status/1798845475509956743) (Tier 1)
-- [Washington Times: Briahna Joy Gray Fired from The Hill (Jun 2024)](https://www.washingtontimes.com/news/2024/jun/7/progressive-commentator-fired-from-hill-after-dism/) (Tier 2)
-- [The Hill: Briahna Joy Gray on Progressives and Small-Dollar Donations](https://thehill.com/hilltv/rising/569379-briahna-joy-gray-progressives-can-be-successful-candidates-on-small-dollar/) (Tier 2)
-- [Bad Faith Podcast. Patreon Page](https://www.patreon.com/cw/badfaithpodcast) (Tier 1)
-- [Briahna Joy Gray on X: "Corporate media establishment acolytes are furious they can't 'cancel' me.."](https://x.com/briebriejoy/status/1527344880904654853) (Tier 1)
-- [Briahna Joy Gray on X: Asked Jamaal Bowman Why the Squad Doesn't Do Independent Left Media](https://x.com/briebriejoy/status/1899474230330175828) (Tier 1)
+- [FEC Individual Contributions: Briahna Gray (22 results, 2015-2026)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=briahna+gray&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1) (VERIFIED)
+- [Wikipedia: Briahna Joy Gray](https://en.wikipedia.org/wiki/Briahna_Joy_Gray) (Tier 3) (VERIFIED)
+- [Democracy Now: The Hill Fires Briahna Joy Gray, Critic of Israel's War on Gaza (Jun 2024)](https://www.democracynow.org/2024/6/7/headlines/the_hill_fires_briahna_joy_gray_critic_of_israels_war_on_gaza) (Tier 2) (VERIFIED)
+- [Jacobin: "Briahna Joy Gray Is Not Backing Down" (May 2020)](https://jacobin.com/2020/05/briahna-joy-gray-bernie-sanders-press-secretary) (Tier 2) (VERIFIED)
+- [Fortune: 40 Under 40. Briahna Joy Gray (2020)](https://fortune.com/ranking/40-under-40/2020/briahna-joy-gray/) (Tier 2) (VERIFIED)
+- [The Root: Bernie Sanders' Messenger. Press Secretary Briahna Joy Gray](https://www.theroot.com/bernie-sanders-messenger-press-secretary-briahna-joy-g-1842429092) (Tier 2) (VERIFIED)
+- [Briahna Joy Gray on X: "It finally happened. The Hill has fired me." (Jun 2024)](https://x.com/briebriejoy/status/1798845475509956743) (Tier 1) (VERIFIED)
+- [Washington Times: Briahna Joy Gray Fired from The Hill (Jun 2024)](https://www.washingtontimes.com/news/2024/jun/7/progressive-commentator-fired-from-hill-after-dism/) (Tier 2) (VERIFIED)
+- ~~[The Hill: Briahna Joy Gray on Progressives and Small-Dollar Donations](https://thehill.com/hilltv/rising/569379-briahna-joy-gray-progressives-can-be-successful-candidates-on-small-dollar/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Bad Faith Podcast. Patreon Page](https://www.patreon.com/cw/badfaithpodcast) (Tier 1) (VERIFIED)
+- [Briahna Joy Gray on X: "Corporate media establishment acolytes are furious they can't 'cancel' me.."](https://x.com/briebriejoy/status/1527344880904654853) (Tier 1) (VERIFIED)
+- [Briahna Joy Gray on X: Asked Jamaal Bowman Why the Squad Doesn't Do Independent Left Media](https://x.com/briebriejoy/status/1899474230330175828) (Tier 1) (VERIFIED)
 
 ---
 

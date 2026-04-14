@@ -159,16 +159,16 @@ Grijalva spent two decades fighting battles with no corporate lobby behind them.
 
 ## Sources
 
-- [FEC Candidate: Raul Grijalva donor profile](https://www.fec.gov/data/candidate/H2AZ07070/) (Tier 1)
-- [Congress.gov: Raul M. Grijalva](https://www.congress.gov/member/raul-grijalva/G000551) (Tier 1)
-- [House Natural Resources Democrats: Ranking Member Grijalva](https://democrats-naturalresources.house.gov/about/ranking-member-grijalva) (Tier 1)
-- [Grijalva.house.gov: Biography](https://grijalva.house.gov/about/about) (Tier 1)
-- [House Natural Resources Democrats: Save Oak Flat From Foreign Mining Act](https://democrats-naturalresources.house.gov/media/press-releases/ranking-democrat-grijalva-introduces-save-oak-flat-from-foreign-mining-act-to-protect-sacred-site-in-central-arizona) (Tier 1)
-- [House Natural Resources Democrats: Foreign-controlled companies mining public lands inquiry](https://democrats-naturalresources.house.gov/media/press-releases/natural-resources-ccp-select-committee-ranking-members-request-inquiry-into-foreign-controlled-companies-mining-our-public-lands) (Tier 1)
-- [Environment America: Endorses Grijalva re-election](https://environmentamerica.org/articles/environment-america-action-fund-endorses-re-election-of-u-s-rep-raul-grijalva-in-az-07/) (Tier 2)
-- [Arizona Republic: Grijalva obituary](https://www.azcentral.com/story/news/politics/arizona/2025/03/13/raul-grijalva-arizona-congressman-dies/82378457007/) (Tier 2)
-- [Ballotpedia: Raul Grijalva](https://ballotpedia.org/Ra%C3%BAl_Grijalva) (Tier 3)
-- [Wikipedia: Raul Grijalva](https://en.wikipedia.org/wiki/Ra%C3%BAl_Grijalva) (Tier 3)
+- [FEC Candidate: Raul Grijalva donor profile](https://www.fec.gov/data/candidate/H2AZ07070/) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: Raul M. Grijalva](https://www.congress.gov/member/raul-grijalva/G000551)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [House Natural Resources Democrats: Ranking Member Grijalva](https://democrats-naturalresources.house.gov/about/ranking-member-grijalva) (Tier 1) (VERIFIED)
+- [Grijalva.house.gov: Biography](https://grijalva.house.gov/about/about) (Tier 1) (VERIFIED)
+- [House Natural Resources Democrats: Save Oak Flat From Foreign Mining Act](https://democrats-naturalresources.house.gov/media/press-releases/ranking-democrat-grijalva-introduces-save-oak-flat-from-foreign-mining-act-to-protect-sacred-site-in-central-arizona) (Tier 1) (VERIFIED)
+- [House Natural Resources Democrats: Foreign-controlled companies mining public lands inquiry](https://democrats-naturalresources.house.gov/media/press-releases/natural-resources-ccp-select-committee-ranking-members-request-inquiry-into-foreign-controlled-companies-mining-our-public-lands) (Tier 1) (VERIFIED)
+- [Environment America: Endorses Grijalva re-election](https://environmentamerica.org/articles/environment-america-action-fund-endorses-re-election-of-u-s-rep-raul-grijalva-in-az-07/) (Tier 2) (VERIFIED)
+- [Arizona Republic: Grijalva obituary](https://www.azcentral.com/story/news/politics/arizona/2025/03/13/raul-grijalva-arizona-congressman-dies/82378457007/) (Tier 2) (VERIFIED)
+- [Ballotpedia: Raul Grijalva](https://ballotpedia.org/Ra%C3%BAl_Grijalva) (Tier 3) (VERIFIED)
+- [Wikipedia: Raul Grijalva](https://en.wikipedia.org/wiki/Ra%C3%BAl_Grijalva) (Tier 3) (VERIFIED)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -200,7 +200,7 @@ Grijalva spent two decades fighting battles with no corporate lobby behind them.
 | SERVICE EMPLOYEES INTERNATIONAL UNION (SEIU) | $121,000 | $0 |
 | WORKING FAMILIES PARTY PAC | $92,000 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2AZ07070/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2AZ07070/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (Congress.gov)
@@ -229,7 +229,7 @@ Grijalva spent two decades fighting battles with no corporate lobby behind them.
 | 6391 | Save Oak Flat from Foreign Mining Act | Referred to the House Committee on Natural Resources. |
 | 911 | Recognizing National Native American Heritage Month and celebrating the heritage… | Referred to the House Committee on Oversight and Government Reform. |
 
-- [Source: Congress.gov](https://www.congress.gov/member/G000606) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/G000606)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Legislative Activity (GovTrack)
@@ -258,7 +258,7 @@ Grijalva spent two decades fighting battles with no corporate lobby behind them.
 | 2025-03-10 | H.R. 993: Emerging Innovative Border Technologies Act | Not Voting | Passed |
 | 2025-03-10 | H.R. 901: Research Security and Accountability in DHS Act | Not Voting | Passed |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400162) (Tier 1)
+- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/400162)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:govtrack end -->
 
 ## Voting Record
@@ -285,7 +285,7 @@ Grijalva spent two decades fighting battles with no corporate lobby behind them.
 
 **Sources**
 
-- [GovTrack: Raul Grijalva](https://www.govtrack.us/congress/members/400162) (Tier 1)
+- ~~[GovTrack: Raul Grijalva](https://www.govtrack.us/congress/members/400162)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-13 -->
@@ -294,7 +294,7 @@ Grijalva spent two decades fighting battles with no corporate lobby behind them.
 
 **Sources**
 
-- [Congress.gov: Raul Grijalva](https://www.congress.gov/member/e000179) (Tier 1)
+- ~~[Congress.gov: Raul Grijalva](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [GovTrack: Raul Grijalva](https://www.govtrack.us/congress/members/400162) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->

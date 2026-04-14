@@ -79,10 +79,10 @@ Religious Zionism receives funding through American pro-settlement organizations
 
 ### Sources
 
-- [Al Jazeera: Bezalel Smotrich's Gradual Struggle to Annex the West Bank](https://www.aljazeera.com/news/2026/2/12/bezalel-smotrichs-gradual-struggle-annex-west-bank-israel) (Tier 2)
-- [AA (Anadolu Agency): Israel's Extremist Finance Minister Allocates $843M to Expand West Bank Settlements](https://www.aa.com.tr/en/middle-east/israel-s-extremist-finance-minister-allocates-843m-to-expand-west-bank-settlements/3765694) (Tier 2)
-- [CNN: Eyeing Trump Support, Israeli Minister Pushes for West Bank Annexation](https://www.cnn.com/2024/11/11/middleeast/israeli-minister-annexation-occupied-west-bank-intl/index.html) (Tier 2)
-- [Christian Science Monitor: Meet the Extremist Running Israel's Settlement Program](https://www.csmonitor.com/World/Middle-East/2025/0820/israel-bezalel-smotrich-west-bank-settlements-palestinian?icid=rss) (Tier 2)
-- [Britannica: Bezalel Smotrich Biography](https://www.britannica.com/biography/Bezalel-Smotrich) (Tier 2)
-- [Foundation for Middle East Peace: Settlement & Annexation Report](https://fmep.org/blog/resourcetag/settler-organizations/) (Tier 1)
+- [Al Jazeera: Bezalel Smotrich's Gradual Struggle to Annex the West Bank](https://www.aljazeera.com/news/2026/2/12/bezalel-smotrichs-gradual-struggle-annex-west-bank-israel) (Tier 2) (VERIFIED)
+- [AA (Anadolu Agency): Israel's Extremist Finance Minister Allocates $843M to Expand West Bank Settlements](https://www.aa.com.tr/en/middle-east/israel-s-extremist-finance-minister-allocates-843m-to-expand-west-bank-settlements/3765694) (Tier 2) (VERIFIED)
+- [CNN: Eyeing Trump Support, Israeli Minister Pushes for West Bank Annexation](https://www.cnn.com/2024/11/11/middleeast/israeli-minister-annexation-occupied-west-bank-intl/index.html) (Tier 2) (VERIFIED)
+- [Christian Science Monitor: Meet the Extremist Running Israel's Settlement Program](https://www.csmonitor.com/World/Middle-East/2025/0820/israel-bezalel-smotrich-west-bank-settlements-palestinian?icid=rss) (Tier 2) (VERIFIED)
+- [Britannica: Bezalel Smotrich Biography](https://www.britannica.com/biography/Bezalel-Smotrich) (Tier 2) (VERIFIED)
+- [Foundation for Middle East Peace: Settlement & Annexation Report](https://fmep.org/blog/resourcetag/settler-organizations/) (Tier 1) (VERIFIED)
 

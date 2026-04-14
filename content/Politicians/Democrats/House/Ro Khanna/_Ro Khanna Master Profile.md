@@ -277,19 +277,19 @@ The class function Khanna serves: he demonstrates that progressive politics can 
 
 ## Sources
 
-- [FEC Candidate: Ro Khanna campaign finance summary (career)](https://www.fec.gov/data/candidate/H4CA12055/) (Tier 1)
-- [FEC Candidate: Ro Khanna campaign finance summary (2024 cycle)](https://www.fec.gov/data/candidate/H4CA12055/) (Tier 1)
-- [FEC: Khanna candidate overview (H4CA12055)](https://www.fec.gov/data/candidate/H4CA12055/) (Tier 1)
-- [Congress.gov: Ro Khanna member profile](https://www.congress.gov/member/ro-khanna/K000389) (Tier 1)
-- [Khanna.house.gov: Statement on lone NDAA no vote](https://khanna.house.gov/media/press-releases/statement-khanna-long-no-vote-ndaa-out-house-armed-services-committee) (Tier 1)
-- [Common Dreams: Khanna says he is "proud" of lone no vote against $886B military budget](https://www.commondreams.org/news/khanna-no-vote-military-budget) (Tier 2)
-- [Common Dreams: Khanna hits back as Silicon Valley oligarchs threaten primary challenge](https://www.commondreams.org/news/khanna-tech-oligarchs) (Tier 2)
-- [The Hill: Ro Khanna faces primary challenge, Silicon Valley backlash over wealth tax](https://thehill.com/policy/technology/5776595-khanna-agarwal-california-congressional/) (Tier 2)
-- [CNBC: California's Ro Khanna faces Silicon Valley backlash after embracing wealth tax](https://www.cnbc.com/2025/12/29/silicon-valley-ro-khanna-faces-tech-backlash-over-wealth-tax.html) (Tier 2)
-- [SF Standard: Ro Khanna to face primary challenger amid stock trading, billionaire tax backlash](https://sfstandard.com/2026/03/03/ro-khanna-ethan-agarwal-congress/) (Tier 2)
-- [NBC News: Ro Khanna wonders who might lead Democrats in 2028](https://www.nbcnews.com/politics/congress/rep-ro-khanna-lead-democrats-2028-rcna201509) (Tier 2)
-- [Local News Matters: Silicon Valley's star fundraiser Khanna may have big dreams](https://localnewsmatters.org/2024/11/01/keeping-an-eye-on-the-future-silicon-valleys-star-fundraiser-khanna-may-have-big-dreams/) (Tier 2)
-- [Ballotpedia: Ro Khanna](https://ballotpedia.org/Ro_Khanna) (Tier 3)
+- [FEC Candidate: Ro Khanna campaign finance summary (career)](https://www.fec.gov/data/candidate/H4CA12055/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Ro Khanna campaign finance summary (2024 cycle)](https://www.fec.gov/data/candidate/H4CA12055/) (Tier 1) (VERIFIED)
+- [FEC: Khanna candidate overview (H4CA12055)](https://www.fec.gov/data/candidate/H4CA12055/) (Tier 1) (VERIFIED)
+- [Congress.gov: Ro Khanna member profile](https://www.congress.gov/member/ro-khanna/K000389) (Tier 1) (VERIFIED)
+- [Khanna.house.gov: Statement on lone NDAA no vote](https://khanna.house.gov/media/press-releases/statement-khanna-long-no-vote-ndaa-out-house-armed-services-committee) (Tier 1) (VERIFIED)
+- [Common Dreams: Khanna says he is "proud" of lone no vote against $886B military budget](https://www.commondreams.org/news/khanna-no-vote-military-budget) (Tier 2) (VERIFIED)
+- [Common Dreams: Khanna hits back as Silicon Valley oligarchs threaten primary challenge](https://www.commondreams.org/news/khanna-tech-oligarchs) (Tier 2) (VERIFIED)
+- ~~[The Hill: Ro Khanna faces primary challenge, Silicon Valley backlash over wealth tax](https://thehill.com/policy/technology/5776595-khanna-agarwal-california-congressional/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [CNBC: California's Ro Khanna faces Silicon Valley backlash after embracing wealth tax](https://www.cnbc.com/2025/12/29/silicon-valley-ro-khanna-faces-tech-backlash-over-wealth-tax.html) (Tier 2) (VERIFIED)
+- [SF Standard: Ro Khanna to face primary challenger amid stock trading, billionaire tax backlash](https://sfstandard.com/2026/03/03/ro-khanna-ethan-agarwal-congress/) (Tier 2) (VERIFIED)
+- [NBC News: Ro Khanna wonders who might lead Democrats in 2028](https://www.nbcnews.com/politics/congress/rep-ro-khanna-lead-democrats-2028-rcna201509) (Tier 2) (VERIFIED)
+- [Local News Matters: Silicon Valley's star fundraiser Khanna may have big dreams](https://localnewsmatters.org/2024/11/01/keeping-an-eye-on-the-future-silicon-valleys-star-fundraiser-khanna-may-have-big-dreams/) (Tier 2) (VERIFIED)
+- [Ballotpedia: Ro Khanna](https://ballotpedia.org/Ro_Khanna) (Tier 3) (VERIFIED)
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
@@ -329,7 +329,7 @@ The class function Khanna serves: he demonstrates that progressive politics can 
 - H.R. 7907: AI-Ready Bio-Data Standards Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 - H.R. 7832: To establish the America’s Living Library Project, and for other purposes. — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 5, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412684) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412684) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
 
 ### Campaign Finance (FEC)
@@ -364,7 +364,7 @@ The class function Khanna serves: he demonstrates that progressive politics can 
 | OHLONE AREA UNITED DEMOCRATIC CAMPAIGN | $13,246 | $0 |
 | HE'S GOTTA GO PAC | $1,750 | $4,715 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4CA12055/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4CA12055/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### DOJ Press Releases
@@ -392,7 +392,7 @@ The class function Khanna serves: he demonstrates that progressive politics can 
 
 **Sources**
 
-- [GovTrack: Ro Khanna](https://www.govtrack.us/congress/members/412684) (Tier 1)
+- [GovTrack: Ro Khanna](https://www.govtrack.us/congress/members/412684) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-13 -->
@@ -419,7 +419,7 @@ The class function Khanna serves: he demonstrates that progressive politics can 
 
 **Sources**
 
-- [Congress.gov: Ro Khanna](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: Ro Khanna](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [GovTrack: Ro Khanna](https://www.govtrack.us/congress/members/412684) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->
@@ -450,7 +450,7 @@ The class function Khanna serves: he demonstrates that progressive politics can 
 | 1092 | Condemning Israeli settlement expansion, settler violence, and related human rig… | Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
 | 1093 | Acknowledging oppression, forced eviction, and suffering experienced by tens of … | Referred to the House Committee on Foreign Affairs. |
 
-- [Source: Congress.gov](https://www.congress.gov/member/K000389) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/K000389)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Committee Assignments (Congress.gov)
@@ -468,7 +468,7 @@ The class function Khanna serves: he demonstrates that progressive politics can 
 - Economic Growth, Energy Policy, and Regulatory Affairs
 - Seapower and Projection Forces
 
-- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 ### Campaign Finance Summary (FEC)
@@ -505,13 +505,13 @@ Rohit "Ro" Khanna is an American politician and attorney serving as the U.S. rep
 
 | Fact | Value |
 |------|-------|
-| Wikidata ID | [Q7339221](https://www.wikidata.org/wiki/Q7339221) |
+| Wikidata ID | [Q7339221](https://www.wikidata.org/wiki/Q7339221) (VERIFIED) |
 | Description | U.S. Representative from California |
 | Born | 1976-09-13 |
-| Website | [http://www.rokhanna.com/](http://www.rokhanna.com/) |
-| X/Twitter | [@RepRoKhanna](https://x.com/RepRoKhanna) |
-| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Ro_Khanna%2C_official_portrait%2C_115th_Congress.jpg?width=300) |
+| Website | [http://www.rokhanna.com/](http://www.rokhanna.com/) (NEEDS REVIEW) |
+| X/Twitter | [@RepRoKhanna](https://x.com/RepRoKhanna) (VERIFIED) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Ro_Khanna%2C_official_portrait%2C_115th_Congress.jpg?width=300) (NEEDS REVIEW) |
 
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/Ro_Khanna) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q7339221) (Tier 2)
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Ro_Khanna) (Tier 3) (VERIFIED)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q7339221) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->

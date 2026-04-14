@@ -52,8 +52,8 @@ The Democratic Party raises more total money than Republicans but deploys it les
 
 ### Sources
 
-- [OpenSecrets: Democratic Party fundraising](https://www.opensecrets.org/parties/) (Tier 1)
-- [Ballotpedia: Democratic Party organization](https://ballotpedia.org/Democratic_Party_Infrastructure) (Tier 3)
+- ~~[OpenSecrets: Democratic Party fundraising](https://www.opensecrets.org/parties/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Ballotpedia: Democratic Party organization](https://ballotpedia.org/Democratic_Party_Infrastructure) (Tier 3) (VERIFIED)
 
 ### OFAC Sanctions Screening
 <!-- auto:ofac-sdn start -->
@@ -69,7 +69,7 @@ The Democratic Party raises more total money than Republicans but deploys it les
 - SERB DEMOCRATIC PARTY (-0-) [BALKANS]
   - Remarks: a.k.a. 'SDS'.
 
-- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
 ### DOJ Press Releases
@@ -88,5 +88,5 @@ The Democratic Party raises more total money than Republicans but deploys it les
 **Foreign principals:**
 - Democratic Progressive Party (TAIWAN)
 
-- [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Democratic%20Party%20Infrastructure) (Tier 1)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Democratic%20Party%20Infrastructure)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:fara-foreign-agents end -->

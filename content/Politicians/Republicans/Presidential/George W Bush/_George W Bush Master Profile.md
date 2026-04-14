@@ -81,13 +81,13 @@ Bush's use of faith-based rhetoric, patriotic framing post-9/11, and "compassion
 
 ## Sources
 
-- [FEC presidential campaign finance records: 2000, 2004](https://www.fec.gov) (Tier 1)
-- [OpenSecrets: George W. Bush presidential profile](https://www.opensecrets.org/presidential-races/candidate?id=N00008072) (Tier 1)
-- [Iraq War cost estimate: $2 trillion](https://costsofwar.watson.brown.edu/) (Tier 2)
-- [Halliburton Iraq contracts: $39.5 billion](https://www.publicintegrity.org/defense-contractors-profiting-iraq) (Tier 2)
-- [Gramm-Leach-Bliley Act and Glass-Steagall repeal](https://www.congress.gov) (Tier 1)
-- [2008 Financial Crisis: TARP bailout and deregulation timeline](https://www.gao.gov) (Tier 1)
-- [Bush tax cuts (EGTRRA 2001, JGTRRA 2003)](https://www.congress.gov) (Tier 1)
+- [FEC presidential campaign finance records: 2000, 2004](https://www.fec.gov) (Tier 1) (VERIFIED)
+- ~~[OpenSecrets: George W. Bush presidential profile](https://www.opensecrets.org/presidential-races/candidate?id=N00008072)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Iraq War cost estimate: $2 trillion](https://costsofwar.watson.brown.edu/) (Tier 2) (VERIFIED)
+- ~~[Halliburton Iraq contracts: $39.5 billion](https://www.publicintegrity.org/defense-contractors-profiting-iraq)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Gramm-Leach-Bliley Act and Glass-Steagall repeal](https://www.congress.gov)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [2008 Financial Crisis: TARP bailout and deregulation timeline](https://www.gao.gov) (Tier 1) (VERIFIED)
+- ~~[Bush tax cuts (EGTRRA 2001, JGTRRA 2003)](https://www.congress.gov)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -119,7 +119,7 @@ Bush's use of faith-based rhetoric, patriotic framing post-9/11, and "compassion
 | NRA POLITICAL VICTORY FUND | $1,826,863 | $1,155,364 |
 | REPUBLICAN PARTY OF FLORIDA | $2,099,667 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/P00003335/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/P00003335/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:fec-politician end -->
 
 ### Presidential Actions (Federal Register)
@@ -157,7 +157,7 @@ Bush's use of faith-based rhetoric, patriotic framing post-9/11, and "compassion
 - Designation of Officers of the National Aeronautics And Space Administration To Act as Administrator (2009-01-16)
 - Assignment of Reporting Function Under Section 14(b) of the Tom Lantos Block Burmese Junta's Anti- Democratic Efforts (J (2008-12-23)
 
-- [Source: Federal Register — Presidential Documents](https://www.federalregister.gov/presidential-documents/executive-orders/george-w-bush) (Tier 1)
+- ~~[Source: Federal Register — Presidential Documents](https://www.federalregister.gov/presidential-documents/executive-orders/george-w-bush)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:executive-orders end -->
 
 ### Wikipedia
@@ -166,13 +166,13 @@ George Walker Bush is an American politician, businessman, and former United Sta
 
 | Fact | Value |
 |------|-------|
-| Wikidata ID | [Q207](https://www.wikidata.org/wiki/Q207) |
+| Wikidata ID | [Q207](https://www.wikidata.org/wiki/Q207) (VERIFIED) |
 | Description | President of the United States from 2001 to 2009 |
 | Born | 1946-07-06 |
-| Website | [https://georgewbush.com/](https://georgewbush.com/) |
-| X/Twitter | [@GeogreWBush](https://x.com/GeogreWBush) |
-| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/George-W-Bush.jpeg?width=300) |
+| Website | [https://georgewbush.com/](https://georgewbush.com/) (VERIFIED) |
+| X/Twitter | [@GeogreWBush](https://x.com/GeogreWBush) (VERIFIED) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/George-W-Bush.jpeg?width=300) (NEEDS REVIEW) |
 
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/George_W._Bush) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q207) (Tier 2)
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/George_W._Bush) (Tier 3) (VERIFIED)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q207) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->

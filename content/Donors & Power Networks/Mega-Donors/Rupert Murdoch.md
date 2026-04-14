@@ -197,23 +197,23 @@ Lachlan's stewardship will test whether the Fox News dominance persists across a
 
 ### Sources
 
-- [Ballotpedia: Rupert Murdoch](https://ballotpedia.org/Rupert_Murdoch) (Tier 3)
-- [Wikipedia: Rupert Murdoch](https://en.wikipedia.org/wiki/Rupert_Murdoch) (Tier 3)
-- [Wikipedia: Dominion Voting Systems v. Fox News Network](https://en.wikipedia.org/wiki/Dominion_Voting_Systems_v._Fox_News_Network) (Tier 3)
-- [CNN Business: Fox News settles with Dominion at the last second](https://www.cnn.com/2023/04/18/media/fox-dominion-settlement/index.html) (Tier 2)
-- [CNBC: Fox to pay Dominion Voting Systems $787.5 million](https://www.cnbc.com/2023/04/18/fox-news-and-dominion-settle-election-defamation-lawsuit-judge-says.html) (Tier 2)
-- [NPR: Fox News settles blockbuster defamation lawsuit with Dominion Voting Systems](https://www.npr.org/2023/04/18/1170339114/fox-news-settles-blockbuster-defamation-lawsuit-with-dominion-voting-systems) (Tier 2)
-- [CNN Business: Smartmatic accuses Fox, Rupert Murdoch of destroying evidence in $2.7 Billion Defamation Lawsuit](https://www.cnn.com/2025/05/14/media/smartmatic-accuses-fox-news-rupert-murdoch-destroying-evidence) (Tier 2)
-- [NPR: Fox News headed for trial over Smartmatic election fraud claims](https://www.npr.org/2025/01/10/nx-s1-5256432/smartmatic-fox-news-trial-defamation-election-2020-trump) (Tier 2)
-- [Rolling Stone: How Roger Ailes Built the Fox News Fear Factory](https://www.rollingstone.com/politics/politics-news/how-roger-ailes-built-the-fox-news-fear-factory-244652/) (Tier 2)
-- [Wikipedia: Fox News](https://en.wikipedia.org/wiki/Fox_News) (Tier 3)
-- [Wikipedia: Succession of Rupert Murdoch](https://en.wikipedia.org/wiki/Succession_of_Rupert_Murdoch) (Tier 3)
-- [Fortune: As Rupert Murdoch retires, a look into succession drama](https://fortune.com/2023/09/22/rupert-murdoch-retiring-lachlan-james-fox-news-corp-succession-drama/) (Tier 2)
-- [CNN Business: Murdoch family resolves succession dispute with Lachlan remaining in control](https://www.cnn.com/2025/09/08/media/murdoch-lachlan-rupert-succession-court) (Tier 2)
-- [Deadline: Who's Giving To Who In 2024 Election: Rupert Murdoch donations](https://deadline.com/2024/01/biden-trump-donors-jeffrey-katzenberg-rupert-murdoch-1235810650/) (Tier 2)
-- [FEC Receipts: Murdoch donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=rupert%20murdoch) (Tier 1)
-- [FEC: Individual contributions from Rupert Murdoch](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=Rupert+Murdoch) (Tier 1)
-- [OpenSecrets: Senate Leadership Fund profile](https://www.opensecrets.org/orgs/senate-leadership-fund/summary?id=D000068516) (Tier 1)
+- [Ballotpedia: Rupert Murdoch](https://ballotpedia.org/Rupert_Murdoch) (Tier 3) (VERIFIED)
+- [Wikipedia: Rupert Murdoch](https://en.wikipedia.org/wiki/Rupert_Murdoch) (Tier 3) (VERIFIED)
+- [Wikipedia: Dominion Voting Systems v. Fox News Network](https://en.wikipedia.org/wiki/Dominion_Voting_Systems_v._Fox_News_Network) (Tier 3) (VERIFIED)
+- [CNN Business: Fox News settles with Dominion at the last second](https://www.cnn.com/2023/04/18/media/fox-dominion-settlement/index.html) (Tier 2) (VERIFIED)
+- [CNBC: Fox to pay Dominion Voting Systems $787.5 million](https://www.cnbc.com/2023/04/18/fox-news-and-dominion-settle-election-defamation-lawsuit-judge-says.html) (Tier 2) (VERIFIED)
+- [NPR: Fox News settles blockbuster defamation lawsuit with Dominion Voting Systems](https://www.npr.org/2023/04/18/1170339114/fox-news-settles-blockbuster-defamation-lawsuit-with-dominion-voting-systems) (Tier 2) (VERIFIED)
+- [CNN Business: Smartmatic accuses Fox, Rupert Murdoch of destroying evidence in $2.7 Billion Defamation Lawsuit](https://www.cnn.com/2025/05/14/media/smartmatic-accuses-fox-news-rupert-murdoch-destroying-evidence) (Tier 2) (VERIFIED)
+- [NPR: Fox News headed for trial over Smartmatic election fraud claims](https://www.npr.org/2025/01/10/nx-s1-5256432/smartmatic-fox-news-trial-defamation-election-2020-trump) (Tier 2) (VERIFIED)
+- [Rolling Stone: How Roger Ailes Built the Fox News Fear Factory](https://www.rollingstone.com/politics/politics-news/how-roger-ailes-built-the-fox-news-fear-factory-244652/) (Tier 2) (VERIFIED)
+- [Wikipedia: Fox News](https://en.wikipedia.org/wiki/Fox_News) (Tier 3) (VERIFIED)
+- [Wikipedia: Succession of Rupert Murdoch](https://en.wikipedia.org/wiki/Succession_of_Rupert_Murdoch) (Tier 3) (VERIFIED)
+- [Fortune: As Rupert Murdoch retires, a look into succession drama](https://fortune.com/2023/09/22/rupert-murdoch-retiring-lachlan-james-fox-news-corp-succession-drama/) (Tier 2) (VERIFIED)
+- [CNN Business: Murdoch family resolves succession dispute with Lachlan remaining in control](https://www.cnn.com/2025/09/08/media/murdoch-lachlan-rupert-succession-court) (Tier 2) (VERIFIED)
+- [Deadline: Who's Giving To Who In 2024 Election: Rupert Murdoch donations](https://deadline.com/2024/01/biden-trump-donors-jeffrey-katzenberg-rupert-murdoch-1235810650/) (Tier 2) (VERIFIED)
+- [FEC Receipts: Murdoch donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=rupert%20murdoch) (Tier 1) (VERIFIED)
+- [FEC: Individual contributions from Rupert Murdoch](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=Rupert+Murdoch) (Tier 1) (VERIFIED)
+- [OpenSecrets: Senate Leadership Fund profile](https://www.opensecrets.org/orgs/senate-leadership-fund/summary?id=D000068516) (Tier 1) (VERIFIED)
 
 ---
 
@@ -253,7 +253,7 @@ Rupert Murdoch created the template for right-wing media dominance that shaped 4
 - Halpern v. Powell (2025) — District Court, N.D. Illinois
 - United States v. Comey (2025) — District Court, E.D. Virginia
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Rupert%20Murdoch%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Rupert%20Murdoch%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### SEC Filing Activity
@@ -271,7 +271,7 @@ Rupert Murdoch created the template for right-wing media dominance that shaped 4
 - 2004-11-12 — **POS AM**: POST-EFFECTIVE AMENDMENT NO 1 TO FORM F-3
 - 2003-02-12 — **EX-99.1.(A)**: CERTIFICATION BY K. RUPERT MURDOCH, CHAIRMAN & CEO
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Rupert%20Murdoch%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Rupert%20Murdoch%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Federal Register Activity
@@ -283,13 +283,13 @@ Rupert Murdoch created the template for right-wing media dominance that shaped 4
 | Agencies | Federal Trade Commission |
 
 **Recent regulatory activity:**
-- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2020/01/22/2020-00894/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2020-01-22) — Federal Trade Commission
-- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2019/04/18/2019-07735/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2019-04-18) — Federal Trade Commission
-- [Granting of Request for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2002/08/28/02-21972/granting-of-request-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2002-08-28) — Federal Trade Commission
-- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2002/06/07/02-14334/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2002-06-07) — Federal Trade Commission
-- [Granting of Request for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2001/10/16/01-25983/granting-of-request-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2001-10-16) — Federal Trade Commission
-- [Granting of Request for Early Termination of the Waiting Period under the Premerger Notification Rules](https://www.federalregister.gov/documents/2001/09/27/01-24120/granting-of-request-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2001-09-27) — Federal Trade Commission
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2020/01/22/2020-00894/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (VERIFIED) (2020-01-22) — Federal Trade Commission
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2019/04/18/2019-07735/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (VERIFIED) (2019-04-18) — Federal Trade Commission
+- [Granting of Request for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2002/08/28/02-21972/granting-of-request-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (VERIFIED) (2002-08-28) — Federal Trade Commission
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2002/06/07/02-14334/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (VERIFIED) (2002-06-07) — Federal Trade Commission
+- [Granting of Request for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2001/10/16/01-25983/granting-of-request-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (VERIFIED) (2001-10-16) — Federal Trade Commission
+- [Granting of Request for Early Termination of the Waiting Period under the Premerger Notification Rules](https://www.federalregister.gov/documents/2001/09/27/01-24120/granting-of-request-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (VERIFIED) (2001-09-27) — Federal Trade Commission
 - ... and 6 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Rupert%20Murdoch%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Rupert%20Murdoch%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->

@@ -96,14 +96,14 @@ Preservation of the Renewable Fuel Standard, expansion of E15 (15% ethanol blend
 
 **Agencies contacted:** Agriculture, Dept of (USDA), Energy, Dept of, Environmental Protection Agency (EPA), Federal Aviation Administration (FAA), Government Accountability Office (GAO), HOUSE OF REPRESENTATIVES, Internal Revenue Service (IRS), SENATE, Treasury, Dept of, White House Office
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Ethanol%20Industry) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Ethanol%20Industry) (Tier 1) (VERIFIED)
 
 <!-- auto:lda-lobbying end -->
 
 ### Sources
 
-- [EPA: Renewable Fuel Standard data](https://www.epa.gov/renewable-fuel-standard) (Tier 1)
-- [Ballotpedia: Renewable Fuel Standard](https://ballotpedia.org/Ethanol_Industry) (Tier 3)
+- [EPA: Renewable Fuel Standard data](https://www.epa.gov/renewable-fuel-standard) (Tier 1) (VERIFIED)
+- [Ballotpedia: Renewable Fuel Standard](https://ballotpedia.org/Ethanol_Industry) (Tier 3) (VERIFIED)
 
 ### Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
@@ -161,7 +161,7 @@ Preservation of the Renewable Fuel Standard, expansion of E15 (15% ethanol blend
 - 2010-03-24 — **EX-99.1**: EX-99.1
 - 2011-02-08 — **EX-99.1**: PDF FILE
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Ethanol%20Industry%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Ethanol%20Industry%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Financial Overview (990 Filing — 2019)
@@ -173,8 +173,8 @@ Preservation of the Renewable Fuel Standard, expansion of E15 (15% ethanol blend
 | Total Expenses | $131K |
 | Net Assets | $172K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 300451687](https://projects.propublica.org/nonprofits/organizations/300451687) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=05_2021_prefixes_27-30%2F300451687_201912_990EZ_2021051918142012.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 300451687](https://projects.propublica.org/nonprofits/organizations/300451687) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=05_2021_prefixes_27-30%2F300451687_201912_990EZ_2021051918142012.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Tax Filings (IRS 990)
@@ -192,21 +192,21 @@ Preservation of the Renewable Fuel Standard, expansion of E15 (15% ethanol blend
 **Filing history:** 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012
 
 **View 990 filings:**
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/300451687/2019)
-- [2018 Filing](https://projects.propublica.org/nonprofits/organizations/300451687/2018)
-- [2017 Filing](https://projects.propublica.org/nonprofits/organizations/300451687/2017)
-- [2016 Filing](https://projects.propublica.org/nonprofits/organizations/300451687/2016)
-- [2015 Filing](https://projects.propublica.org/nonprofits/organizations/300451687/2015)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/300451687/2019)~~ (URL broken, archived by Ops)
+- ~~[2018 Filing](https://projects.propublica.org/nonprofits/organizations/300451687/2018)~~ (URL broken, archived by Ops)
+- ~~[2017 Filing](https://projects.propublica.org/nonprofits/organizations/300451687/2017)~~ (URL broken, archived by Ops)
+- ~~[2016 Filing](https://projects.propublica.org/nonprofits/organizations/300451687/2016)~~ (URL broken, archived by Ops)
+- ~~[2015 Filing](https://projects.propublica.org/nonprofits/organizations/300451687/2015)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/300451687) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/300451687) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [984500B40IB4DF09CF40](https://search.gleif.org/#/record/984500B40IB4DF09CF40) |
+| LEI | [984500B40IB4DF09CF40](https://search.gleif.org/#/record/984500B40IB4DF09CF40) (VERIFIED) |
 | Legal Name | OSWAL ETHANOL AND FEED INDUSTRY PRIVATE LIMITED |
 | Jurisdiction | IN |
 | Entity Status | ACTIVE |
@@ -214,7 +214,7 @@ Preservation of the Renewable Fuel Standard, expansion of E15 (15% ethanol blend
 | Registration | ISSUED |
 | Last Updated | 2026-02-19T15:03:33Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Federal Court Records (CourtListener)
@@ -233,5 +233,5 @@ Preservation of the Renewable Fuel Standard, expansion of E15 (15% ethanol blend
 - REH Company, LLC v. EPA (2025) — Court of Appeals for the D.C. Circuit
 - EXO Opportunity Fund, LLC v. Patriot Renewable Fuels, LLC (2025) — District Court, S.D. New York
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Ethanol%20Industry%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Ethanol%20Industry%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->

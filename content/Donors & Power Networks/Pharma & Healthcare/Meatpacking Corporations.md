@@ -39,9 +39,9 @@ The meatpacking industry's political operation focuses on five structural priori
 
 The companies themselves are multinational — JBS is Brazilian-owned, Smithfield is Chinese-owned (WH Group), Cargill is privately held by the Cargill-MacMillan family (one of the wealthiest families in America). The foreign ownership dimension adds a layer: two of the four dominant beef processors answer to foreign parent companies while processing American cattle and employing American workers under American labor law that their lobbying operations work to weaken.
 
-- [OpenSecrets: Tyson Foods summary](https://www.opensecrets.org/orgs/tyson-foods/summary?id=D000000460) (Tier 1)
-- [OpenSecrets: JBS SA summary](https://www.opensecrets.org/orgs/jbs-sa/summary?id=D000042489) (Tier 1)
-- [USDA ERS: Concentration in U.S. Meatpacking Industry](https://www.ers.usda.gov/amber-waves/2024/january/concentration-in-u-s-meatpacking-industry-and-how-it-affects-competition-and-cattle-prices) (Tier 1)
+- ~~[OpenSecrets: Tyson Foods summary](https://www.opensecrets.org/orgs/tyson-foods/summary?id=D000000460)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: JBS SA summary](https://www.opensecrets.org/orgs/jbs-sa/summary?id=D000042489)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [USDA ERS: Concentration in U.S. Meatpacking Industry](https://www.ers.usda.gov/amber-waves/2024/january/concentration-in-u-s-meatpacking-industry-and-how-it-affects-competition-and-cattle-prices) (Tier 1) (VERIFIED)
 
 ---
 
@@ -57,8 +57,8 @@ The meatpacking industry's policy agenda is a labor-cost minimization program dr
 
 **Farm Bill favorable provisions:** Meat inspection funding, USDA grading programs, export promotion subsidies, and animal agriculture research funding all flow through the Farm Bill. The industry's PAC contributions target Agriculture Committee members who write these provisions.
 
-- [Missouri Independent: Meat industry increases political spending](https://missouriindependent.com/2024/06/06/meat-industry-increases-political-spending-lobbying-as-usda-updates-crucial-regulations/) (Tier 2)
-- [Agriculture Dive: Big Ag spending big on lobbying and 2024 election](https://www.agriculturedive.com/news/agriculture-lobbying-2024-election-campaign-spending-farm-bill/730813/) (Tier 2)
+- [Missouri Independent: Meat industry increases political spending](https://missouriindependent.com/2024/06/06/meat-industry-increases-political-spending-lobbying-as-usda-updates-crucial-regulations/) (Tier 2) (VERIFIED)
+- [Agriculture Dive: Big Ag spending big on lobbying and 2024 election](https://www.agriculturedive.com/news/agriculture-lobbying-2024-election-campaign-spending-farm-bill/730813/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -92,10 +92,10 @@ The meat processing and products industry spent $886,000 on election-related act
 > [!money]
 > The meatpacking industry's political spending is modest in absolute terms — under $1M per cycle in direct PAC contributions, $2-5M in lobbying — but the return is extraordinary. A $15,615 OSHA fine for a plant where seven workers died of COVID represents a regulatory capture so complete that the penalty amounts to a rounding error on a single day's production. The $2.2M Tyson spent on lobbying in 2025 purchased the withdrawal of USDA rules that would have restructured the industry's market power. The ROI is incalculable because the "investment" is not buying favorable policy — it's buying the absence of enforcement against an 85% market concentration that economic theory says should not exist.
 
-- [OpenSecrets: Tyson Foods PAC candidate recipients 2024](https://www.opensecrets.org/political-action-committees-pacs/tyson-foods/C00169821/candidate-recipients/2024) (Tier 1)
-- [FEC: Tyson Foods Inc Political Action Committee (TYPAC)](https://www.fec.gov/data/committee/C00169821/) (Tier 1)
-- [OpenSecrets: Tyson Foods lobbying profile](https://www.opensecrets.org/orgs/tyson-foods/lobbying?id=D000000460) (Tier 1)
-- [OpenSecrets: Meat processing & products PAC contributions 2024](https://www.opensecrets.org/political-action-committees-pacs/industry-detail/G2300/2024) (Tier 1)
+- ~~[OpenSecrets: Tyson Foods PAC candidate recipients 2024](https://www.opensecrets.org/political-action-committees-pacs/tyson-foods/C00169821/candidate-recipients/2024)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [FEC: Tyson Foods Inc Political Action Committee (TYPAC)](https://www.fec.gov/data/committee/C00169821/) (Tier 1) (VERIFIED)
+- ~~[OpenSecrets: Tyson Foods lobbying profile](https://www.opensecrets.org/orgs/tyson-foods/lobbying?id=D000000460)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [OpenSecrets: Meat processing & products PAC contributions 2024](https://www.opensecrets.org/political-action-committees-pacs/industry-detail/G2300/2024) (Tier 1) (VERIFIED)
 
 ---
 
@@ -124,10 +124,10 @@ The child labor revelations exposed the industry's structural labor model: meatp
 > [!contradiction]
 > The meatpacking industry funds politicians who campaign on "tough on immigration" platforms while operating a business model that depends on immigrant labor — including undocumented workers and, as revealed in 2023, migrant children as young as 13. The contradiction is not hypocrisy; it is the system working as designed. Immigration enforcement that terrifies workers but does not actually remove them creates a labor force too afraid to report safety violations, demand wage increases, or organize. The political investment in anti-immigration rhetoric is not despite the industry's dependence on immigrant labor — it is because of it. The meatpacking industry does not want immigration reform; it wants permanent immigration anxiety.
 
-- [Investigate Midwest: Fact-checking Trump's meatpacking investigation call](https://investigatemidwest.org/2025/11/18/fact-checking-trumps-call-for-an-investigation-into-meatpacking-companies/) (Tier 2)
-- [Common Dreams: DOJ shuttered antitrust probe before Trump's investigation demand](https://www.commondreams.org/news/trump-doj-meatpacking) (Tier 2)
-- [TIME: More than 100 kids illegally employed in dangerous meatpacking jobs](https://time.com/6256728/meatpacking-child-labor/) (Tier 2)
-- [NBC News: Child labor investigation spreads to meatpacking in 11 states](https://www.nbcnews.com/politics/immigration/migrant-child-labor-investigation-11-states-meatpacking-produce-rcna88156) (Tier 2)
+- [Investigate Midwest: Fact-checking Trump's meatpacking investigation call](https://investigatemidwest.org/2025/11/18/fact-checking-trumps-call-for-an-investigation-into-meatpacking-companies/) (Tier 2) (VERIFIED)
+- [Common Dreams: DOJ shuttered antitrust probe before Trump's investigation demand](https://www.commondreams.org/news/trump-doj-meatpacking) (Tier 2) (VERIFIED)
+- [TIME: More than 100 kids illegally employed in dangerous meatpacking jobs](https://time.com/6256728/meatpacking-child-labor/) (Tier 2) (VERIFIED)
+- [NBC News: Child labor investigation spreads to meatpacking in 11 states](https://www.nbcnews.com/politics/immigration/migrant-child-labor-investigation-11-states-meatpacking-produce-rcna88156) (Tier 2) (VERIFIED)
 
 ---
 
@@ -157,7 +157,7 @@ The COVID-19 crisis proved the model. The industry drafted its own executive ord
 - [OpenSecrets: Meat processing & products PAC contributions 2024](https://www.opensecrets.org/political-action-committees-pacs/industry-detail/G2300/2024) (Tier 1)
 - [FEC: Tyson Foods Inc Political Action Committee (TYPAC)](https://www.fec.gov/data/committee/C00169821/) (Tier 1)
 - [USDA ERS: Concentration in U.S. Meatpacking Industry](https://www.ers.usda.gov/amber-waves/2024/january/concentration-in-u-s-meatpacking-industry-and-how-it-affects-competition-and-cattle-prices) (Tier 1)
-- [Missouri Independent: Meat industry increases political spending as USDA updates regulations](https://missouriindependent.com/2024/06/06/meat-industry-increases-political-spending-lobbying-as-usda-updates-crucial-regulations/) (Tier 2)
+- [Missouri Independent: Meat industry increases political spending as USDA updates regulations](https://missouriindependent.com/2024/06/06/meat-industry-increases-political-spending-lobbying-as-usda-updates-crucial-regulations/) (Tier 2) (VERIFIED)
 - [Agriculture Dive: Big Ag spending big on lobbying and 2024 election](https://www.agriculturedive.com/news/agriculture-lobbying-2024-election-campaign-spending-farm-bill/730813/) (Tier 2)
 - [Investigate Midwest: Fact-checking Trump's meatpacking investigation call](https://investigatemidwest.org/2025/11/18/fact-checking-trumps-call-for-an-investigation-into-meatpacking-companies/) (Tier 2)
 - [Common Dreams: DOJ shuttered antitrust probe before Trump's investigation demand](https://www.commondreams.org/news/trump-doj-meatpacking) (Tier 2)
@@ -179,5 +179,5 @@ The COVID-19 crisis proved the model. The industry drafted its own executive ord
 - United States v. Cargill Meat Solutions Corporation (2022) — District Court, D. Maryland
 - RANCHERS CATTLEMEN ACTION LEGAL FUND UNITED STOCKGROWERS OF AMERICA v. UNITED STATES DEPARTMENT OF AGRICULTURE (2020) — District Court, District of Columbia
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Meatpacking%20Corporations%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Meatpacking%20Corporations%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->

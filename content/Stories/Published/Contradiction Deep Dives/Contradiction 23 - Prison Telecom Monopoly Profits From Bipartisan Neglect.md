@@ -152,16 +152,16 @@ When FCC rate caps began limiting phone call revenue, companies pivoted to unreg
 
 ---
 
-- [FCC: Martha Wright-Reed Implementation Order (July 2024)](https://www.fcc.gov/document/fcc-caps-rates-incarcerated-peoples-communications) (Tier 1)
-- [FCC: October 2025 Rollback Order](https://www.fcc.gov/document/fcc-updates-incarcerated-peoples-communications-rules) (Tier 1)
-- [FEC Receipts: Private Prisons Industry](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- [CFPB: ViaPath Enforcement Action (Nov 2024)](https://www.consumerfinance.gov/enforcement/actions/global-tel-link-corp-et-al/) (Tier 1)
-- [DOJ Antitrust Division: Comment to FCC (April 2024)](https://www.justice.gov/atr/page/file/1567116/download) (Tier 1)
-- [Worth Rises: Prison Telecom Rate Analysis](https://worthrises.org/resources) (Tier 2)
-- [Prison Policy Initiative: State of Phone Justice](https://www.prisonpolicy.org/phones/) (Tier 2)
-- [The Appeal: Prison Phone Companies](https://theappeal.org/fcc-prison-telecom-rules-rate-caps/) (Tier 2)
-- [Reuters: Platinum Equity Securus Acquisition](https://www.reuters.com/article/us-securus-m-a-platinum-equity-idUSKBN1CS2IQ/) (Tier 2)
-- [ProPublica: Securus Attorney-Client Recordings](https://www.propublica.org/article/securus-jail-phone-calls-attorney-client-privilege) (Tier 2)
+- [FCC: Martha Wright-Reed Implementation Order (July 2024)](https://www.fcc.gov/document/fcc-caps-rates-incarcerated-peoples-communications) (Tier 1) (NEEDS REVIEW)
+- [FCC: October 2025 Rollback Order](https://www.fcc.gov/document/fcc-updates-incarcerated-peoples-communications-rules) (Tier 1) (NEEDS REVIEW)
+- [FEC Receipts: Private Prisons Industry](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
+- [CFPB: ViaPath Enforcement Action (Nov 2024)](https://www.consumerfinance.gov/enforcement/actions/global-tel-link-corp-et-al/) (Tier 1) (VERIFIED)
+- ~~[DOJ Antitrust Division: Comment to FCC (April 2024)](https://www.justice.gov/atr/page/file/1567116/download)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Worth Rises: Prison Telecom Rate Analysis](https://worthrises.org/resources) (Tier 2) (VERIFIED)
+- [Prison Policy Initiative: State of Phone Justice](https://www.prisonpolicy.org/phones/) (Tier 2) (VERIFIED)
+- [The Appeal: Prison Phone Companies](https://theappeal.org/fcc-prison-telecom-rules-rate-caps/) (Tier 2) (VERIFIED)
+- ~~[Reuters: Platinum Equity Securus Acquisition](https://www.reuters.com/article/us-securus-m-a-platinum-equity-idUSKBN1CS2IQ/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[ProPublica: Securus Attorney-Client Recordings](https://www.propublica.org/article/securus-jail-phone-calls-attorney-client-privilege)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ---
 

@@ -74,7 +74,7 @@ The Charles Schwab Corporation. The largest retail brokerage and wealth manageme
 
 Schwab PAC contributes $1-2 million per cycle, with lobbying spending of $3-5 million annually. The company's political priorities center on the regulatory framework governing retirement accounts, the fiduciary standard, and SEC regulation of retail brokerages.
 
-- [OpenSecrets: Charles Schwab organizational profile](https://www.opensecrets.org/orgs/charles-schwab-corp/summary?id=D000000414) (Tier 1)
+- [OpenSecrets: Charles Schwab organizational profile](https://www.opensecrets.org/orgs/charles-schwab-corp/summary?id=D000000414) (Tier 1) (VERIFIED)
 
 ---
 
@@ -98,8 +98,8 @@ Opposition to strict fiduciary standards (which would require brokers to act in 
 ### Sources
 
 - [OpenSecrets: Charles Schwab organizational profile](https://www.opensecrets.org/orgs/charles-schwab-corp/summary?id=D000000414) (Tier 1)
-- [SEC: Regulation Best Interest](https://www.sec.gov/regulation-best-interest) (Tier 1)
-- [Ballotpedia: Charles Schwab](https://ballotpedia.org/Charles_Schwab_Corporation) (Tier 3)
+- [SEC: Regulation Best Interest](https://www.sec.gov/regulation-best-interest) (Tier 1) (NEEDS REVIEW)
+- [Ballotpedia: Charles Schwab](https://ballotpedia.org/Charles_Schwab_Corporation) (Tier 3) (VERIFIED)
 
 ### Financial Overview (990 Filing — 2023)
 <!-- auto:propublica-990 start -->
@@ -110,7 +110,7 @@ Opposition to strict fiduciary standards (which would require brokers to act in 
 | Total Expenses | $16.3M |
 | Net Assets | $34.9M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 943192615](https://projects.propublica.org/nonprofits/organizations/943192615) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 943192615](https://projects.propublica.org/nonprofits/organizations/943192615) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Federal Spending (USASpending)
@@ -128,7 +128,7 @@ Opposition to strict fiduciary standards (which would require brokers to act in 
 | $660K | Department of the Treasury | IGF::OT::IGF THE PURPOSE OF THIS CONTRACT IS TO OBTAIN RECORDKEEPING, INVESTMENT MANAGEMENT, AND TRU |
 | $29K | Department of the Treasury | HQ - 2022-NOV-08 - THIS REQUISITION IS FOR THE 401(K) CONTRACT RECOMPETE.  THE CONTRACT ENDS 12/31/2 |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/34a6238e-ff6a-764a-71e4-e53eef69c91d-R/latest) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/34a6238e-ff6a-764a-71e4-e53eef69c91d-R/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -145,7 +145,7 @@ Opposition to strict fiduciary standards (which would require brokers to act in 
 | Securities Brokerage (523120) | $120K |
 | Investment Banking and Securities Intermediation (523150) | $29K |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Federal Register Activity
@@ -159,22 +159,22 @@ Opposition to strict fiduciary standards (which would require brokers to act in 
 | Agencies | Federal Trade Commission, Securities and Exchange Commission |
 
 **Recent regulatory activity:**
-- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2026/02/19/2026-03244/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2026-02-19) — Federal Trade Commission
-- [Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change, as Modified by Amendment No. 1, To Adopt Additional Initial Listing Criteria for Companies Primarily Operating in China](https://www.federalregister.gov/documents/2025/12/23/2025-23660/self-regulatory-organizations-the-nasdaq-stock-market-llc-order-instituting-proceedings-to-determine) (2025-12-23) — Securities and Exchange Commission
-- [Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Modify Certain Initial Listing Requirements](https://www.federalregister.gov/documents/2025/12/23/2025-23655/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-amendment-no-1-and) (2025-12-23) — Securities and Exchange Commission
-- [Multi-Class ETF Fund Exemptive Relief Under the Investment Company Act of 1940](https://www.federalregister.gov/documents/2025/12/22/2025-23492/multi-class-etf-fund-exemptive-relief-under-the-investment-company-act-of-1940) (2025-12-22) — Securities and Exchange Commission
-- [Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Adopt Certain Changes to the Governing Documents of the Exchange and Its Parent Company](https://www.federalregister.gov/documents/2025/12/16/2025-22856/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-filing-and-immediate-effectiveness) (2025-12-16) — Securities and Exchange Commission
-- [Self-Regulatory Organizations; Investors Exchange LLC; Order Approving a Proposed Rule Change, as Modified by Amendment No. 3, To Adopt Rules To Govern the Trading of Options on the Exchange for a New Facility Called IEX Options](https://www.federalregister.gov/documents/2025/09/23/2025-18380/self-regulatory-organizations-investors-exchange-llc-order-approving-a-proposed-rule-change-as) (2025-09-23) — Securities and Exchange Commission
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2026/02/19/2026-03244/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (VERIFIED) (2026-02-19) — Federal Trade Commission
+- [Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change, as Modified by Amendment No. 1, To Adopt Additional Initial Listing Criteria for Companies Primarily Operating in China](https://www.federalregister.gov/documents/2025/12/23/2025-23660/self-regulatory-organizations-the-nasdaq-stock-market-llc-order-instituting-proceedings-to-determine) (VERIFIED) (2025-12-23) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Modify Certain Initial Listing Requirements](https://www.federalregister.gov/documents/2025/12/23/2025-23655/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-amendment-no-1-and) (VERIFIED) (2025-12-23) — Securities and Exchange Commission
+- [Multi-Class ETF Fund Exemptive Relief Under the Investment Company Act of 1940](https://www.federalregister.gov/documents/2025/12/22/2025-23492/multi-class-etf-fund-exemptive-relief-under-the-investment-company-act-of-1940) (VERIFIED) (2025-12-22) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Adopt Certain Changes to the Governing Documents of the Exchange and Its Parent Company](https://www.federalregister.gov/documents/2025/12/16/2025-22856/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-filing-and-immediate-effectiveness) (VERIFIED) (2025-12-16) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; Investors Exchange LLC; Order Approving a Proposed Rule Change, as Modified by Amendment No. 3, To Adopt Rules To Govern the Trading of Options on the Exchange for a New Facility Called IEX Options](https://www.federalregister.gov/documents/2025/09/23/2025-18380/self-regulatory-organizations-investors-exchange-llc-order-approving-a-proposed-rule-change-as) (VERIFIED) (2025-09-23) — Securities and Exchange Commission
 - ... and 292 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Charles%20Schwab%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Charles%20Schwab%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [549300N3L67TREKCRK89](https://search.gleif.org/#/record/549300N3L67TREKCRK89) |
+| LEI | [549300N3L67TREKCRK89](https://search.gleif.org/#/record/549300N3L67TREKCRK89) (VERIFIED) |
 | Legal Name | CHARLES SCHWAB EUROPE LIMITED |
 | Jurisdiction | IE |
 | Entity Status | ACTIVE |
@@ -184,10 +184,10 @@ Opposition to strict fiduciary standards (which would require brokers to act in 
 
 **Ownership chain:**
 
-- Ultimate Parent: [THE CHARLES SCHWAB CORPORATION](https://search.gleif.org/#/record/549300VSGCJ7E698NM85) (US-DE)
+- Ultimate Parent: [THE CHARLES SCHWAB CORPORATION](https://search.gleif.org/#/record/549300VSGCJ7E698NM85) (VERIFIED) (US-DE)
 - CHARLES SCHWAB EUROPE LIMITED (this entity)
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### SEC Filing Activity
@@ -201,13 +201,13 @@ Opposition to strict fiduciary standards (which would require brokers to act in 
 
 **Notable filings:**
 
-- 2026-04-06 — **ARS**: [ARS](https://www.sec.gov/Archives/edgar/data/316709/000031670926000012/0000316709-26-000012-index.htm)
-- 2026-04-06 — **DEFA14A**: [DEFA14A](https://www.sec.gov/Archives/edgar/data/316709/000119312526142833/0001193125-26-142833-index.htm)
-- 2026-04-06 — **DEF 14A**: [DEF 14A](https://www.sec.gov/Archives/edgar/data/316709/000119312526142826/0001193125-26-142826-index.htm)
-- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/316709/000180418326000006/0001804183-26-000006-index.htm)
-- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/316709/000173992926000004/0001739929-26-000004-index.htm)
+- 2026-04-06 — **ARS**: [ARS](https://www.sec.gov/Archives/edgar/data/316709/000031670926000012/0000316709-26-000012-index.htm) (VERIFIED)
+- 2026-04-06 — **DEFA14A**: [DEFA14A](https://www.sec.gov/Archives/edgar/data/316709/000119312526142833/0001193125-26-142833-index.htm) (VERIFIED)
+- 2026-04-06 — **DEF 14A**: [DEF 14A](https://www.sec.gov/Archives/edgar/data/316709/000119312526142826/0001193125-26-142826-index.htm) (VERIFIED)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/316709/000180418326000006/0001804183-26-000006-index.htm) (VERIFIED)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/316709/000173992926000004/0001739929-26-000004-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Charles%20Schwab%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Charles%20Schwab%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Vehicle Safety (NHTSA)
@@ -225,7 +225,7 @@ Opposition to strict fiduciary standards (which would require brokers to act in 
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Charles%20Schwab) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Charles%20Schwab) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### OCC Enforcement Actions
@@ -246,11 +246,11 @@ Opposition to strict fiduciary standards (which would require brokers to act in 
 
 **Still-active enforcement actions:**
 
-- [AA-EC-2017-18: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2017-038.pdf) (04/24/2017)
+- [AA-EC-2017-18: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2017-038.pdf) (VERIFIED) (04/24/2017)
 
 **Recent enforcement history:**
 
 - [AA-EC-2017-18: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2017-038.pdf) (04/24/2017)
 
-- [Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=Charles%20Schwab&srt=1&pg=1&pgsz=25&isAdv=false) (Tier 1)
+- ~~[Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=Charles%20Schwab&srt=1&pg=1&pgsz=25&isAdv=false)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:occ-enforcement end -->

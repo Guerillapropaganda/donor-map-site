@@ -237,23 +237,23 @@ The Bezos endowment marks a new phase: institutional capture by a single mega-do
 
 ### Sources
 
-- [ProPublica Nonprofit Explorer: Aspen Institute, Form 990 data (EIN 84-0399006)](https://projects.propublica.org/nonprofits/organizations/840399006) (Tier 1)
-- [Wikipedia: Aspen Institute](https://en.wikipedia.org/wiki/Aspen_Institute) (Tier 3)
-- [InfluenceWatch: Aspen Institute](https://www.influencewatch.org/non-profit/aspen-institute/) (Tier 3)
-- [OpenSecrets: Aspen Institute profile](https://www.opensecrets.org/orgs/aspen-institute/summary?id=D000044180) (Tier 1)
-- [Washington Free Beacon: How the Aspen Institute Helps Deep-Pocketed Donors Influence Congress (2025)](https://freebeacon.com/politics/how-the-aspen-institute-helps-deep-pocketed-donors-influence-congress/) (Tier 2)
-- [Aspen Institute: Congressional Program](https://www.aspeninstitute.org/programs/congressional-program/) (Tier 3)
-- [Aspen Institute: Transparency page (contributor list)](https://www.aspeninstitute.org/transparency/) (Tier 3)
-- [Aspen Institute: Statement of Standards](https://www.aspeninstitute.org/statement-of-standards/) (Tier 3)
-- [Wikipedia: Aspen Ideas Festival](https://en.wikipedia.org/wiki/Aspen_Ideas_Festival) (Tier 3)
-- [Aspen Daily News: Aspen Institute crafts conflict of interest policy](https://www.aspendailynews.com/aspen-institute-crafts-conflict-of-interest-policy/article_684f8195-d8aa-51c1-b61b-8dba98aef0e0.html) (Tier 2)
-- [CPR News: When Congress Members Travel the World on Private Dime, Their Families Do Too](https://www.cpr.org/2024/09/24/congress-members-and-family-travel-paid-by-private-interest-groups/) (Tier 2)
-- [Aspen Institute: Aspen Institute and Bezos Family Foundation Announce Center for Rising Generations](https://www.aspeninstitute.org/news/aspen-institute-announces-center-for-rising-generations/) (Tier 3)
-- [SourceWatch: Aspen Institute / Aspen Strategy Group](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch?title=Aspen_Institute_/_Aspen_Strategy_Group) (Tier 3)
-- [New Republic: The Atlantic Is Better Off Without the Aspen Ideas Festival, criticism of corporate sponsorship inhibiting subversive ideas (2021)](https://newrepublic.com/article/164189/atlantic-nbc-aspen-ideas-festival) (Tier 2)
-- [Aspen Journalism: The Aspen 50. Forbes billionaires in Pitkin County (2024)](https://aspenjournalism.org/the-aspen-50-forbes-billionaires-in-pitkin-county/) (Tier 3)
-- [Aspen Times: 'Globalism' prompts Pentagon to withdraw senior military officials from Aspen Security Forum (Jul 2025)](https://www.aspentimes.com/news/globalism-prompts-pentagon-to-withdraw-senior-military-officials-from-aspen-security-forum/) (Tier 2)
-- [Aspen Institute: Dan Porterfield to Complete Transformational Tenure as President and CEO in Summer 2026 (Sep 2025)](https://www.aspeninstitute.org/blog-posts/dan-porterfield-to-complete-transformational-tenure-as-aspen-institute-president-and-ceo-in-summer-2026/) (Tier 3)
+- [ProPublica Nonprofit Explorer: Aspen Institute, Form 990 data (EIN 84-0399006)](https://projects.propublica.org/nonprofits/organizations/840399006) (Tier 1) (VERIFIED)
+- [Wikipedia: Aspen Institute](https://en.wikipedia.org/wiki/Aspen_Institute) (Tier 3) (VERIFIED)
+- [InfluenceWatch: Aspen Institute](https://www.influencewatch.org/non-profit/aspen-institute/) (Tier 3) (VERIFIED)
+- [OpenSecrets: Aspen Institute profile](https://www.opensecrets.org/orgs/aspen-institute/summary?id=D000044180) (Tier 1) (VERIFIED)
+- [Washington Free Beacon: How the Aspen Institute Helps Deep-Pocketed Donors Influence Congress (2025)](https://freebeacon.com/politics/how-the-aspen-institute-helps-deep-pocketed-donors-influence-congress/) (Tier 2) (VERIFIED)
+- [Aspen Institute: Congressional Program](https://www.aspeninstitute.org/programs/congressional-program/) (Tier 3) (VERIFIED)
+- ~~[Aspen Institute: Transparency page (contributor list)](https://www.aspeninstitute.org/transparency/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[Aspen Institute: Statement of Standards](https://www.aspeninstitute.org/statement-of-standards/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [Wikipedia: Aspen Ideas Festival](https://en.wikipedia.org/wiki/Aspen_Ideas_Festival) (Tier 3) (VERIFIED)
+- [Aspen Daily News: Aspen Institute crafts conflict of interest policy](https://www.aspendailynews.com/aspen-institute-crafts-conflict-of-interest-policy/article_684f8195-d8aa-51c1-b61b-8dba98aef0e0.html) (Tier 2) (VERIFIED)
+- [CPR News: When Congress Members Travel the World on Private Dime, Their Families Do Too](https://www.cpr.org/2024/09/24/congress-members-and-family-travel-paid-by-private-interest-groups/) (Tier 2) (VERIFIED)
+- ~~[Aspen Institute: Aspen Institute and Bezos Family Foundation Announce Center for Rising Generations](https://www.aspeninstitute.org/news/aspen-institute-announces-center-for-rising-generations/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[SourceWatch: Aspen Institute / Aspen Strategy Group](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch?title=Aspen_Institute_/_Aspen_Strategy_Group)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [New Republic: The Atlantic Is Better Off Without the Aspen Ideas Festival, criticism of corporate sponsorship inhibiting subversive ideas (2021)](https://newrepublic.com/article/164189/atlantic-nbc-aspen-ideas-festival) (Tier 2) (VERIFIED)
+- [Aspen Journalism: The Aspen 50. Forbes billionaires in Pitkin County (2024)](https://aspenjournalism.org/the-aspen-50-forbes-billionaires-in-pitkin-county/) (Tier 3) (VERIFIED)
+- [Aspen Times: 'Globalism' prompts Pentagon to withdraw senior military officials from Aspen Security Forum (Jul 2025)](https://www.aspentimes.com/news/globalism-prompts-pentagon-to-withdraw-senior-military-officials-from-aspen-security-forum/) (Tier 2) (VERIFIED)
+- ~~[Aspen Institute: Dan Porterfield to Complete Transformational Tenure as President and CEO in Summer 2026 (Sep 2025)](https://www.aspeninstitute.org/blog-posts/dan-porterfield-to-complete-transformational-tenure-as-aspen-institute-president-and-ceo-in-summer-2026/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
 
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->
@@ -271,7 +271,7 @@ The Bezos endowment marks a new phase: institutional capture by a single mega-do
 - Granata v. Campbell (2025) — Court of Appeals for the First Circuit
 - WICHITA AND AFFILIATED TRIBES v. BURGUM (2025) — District Court, District of Columbia
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Aspen%20Institute%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Aspen%20Institute%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Tax Filings (IRS 990)
@@ -284,14 +284,14 @@ The Bezos endowment marks a new phase: institutional capture by a single mega-do
 | IRS Ruling Date | 2025-12-01 |
 | Filings on Record | 0 |
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/393347513) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/393347513) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [8156003490CA31174D93](https://search.gleif.org/#/record/8156003490CA31174D93) |
+| LEI | [8156003490CA31174D93](https://search.gleif.org/#/record/8156003490CA31174D93) (VERIFIED) |
 | Legal Name | ASPEN INSTITUTE ITALIA |
 | Jurisdiction | IT |
 | Entity Status | ACTIVE |
@@ -299,7 +299,7 @@ The Bezos endowment marks a new phase: institutional capture by a single mega-do
 | Registration | ISSUED |
 | Last Updated | 2026-02-22T08:02:34Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### SEC Filing Activity
@@ -317,7 +317,7 @@ The Bezos endowment marks a new phase: institutional capture by a single mega-do
 - 2024-06-06 — **EX-99.1**: EXHIBIT 99.1
 - 2022-05-04 — **8-K**: 8-K
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Aspen%20Institute%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Aspen%20Institute%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Federal Register Activity
@@ -331,13 +331,13 @@ The Bezos endowment marks a new phase: institutional capture by a single mega-do
 | Agencies | Agriculture Department, Centers for Disease Control and Prevention, Corporation for National and Community Service, Education Department, Employee Benefits Security Administration, Health and Human Services Department, Labor Department, Rural Business-Cooperative Service +1 more |
 
 **Recent regulatory activity:**
-- [Financial Value Transparency and Gainful Employment](https://www.federalregister.gov/documents/2023/10/10/2023-20385/financial-value-transparency-and-gainful-employment) (2023-10-10) — Education Department
-- [Final Priorities, Requirements, Definitions, and Selection Criteria-Perkins Innovation and Modernization Grant Program](https://www.federalregister.gov/documents/2023/08/14/2023-17227/final-priorities-requirements-definitions-and-selection-criteria-perkins-innovation-and) (2023-08-14) — Education Department
-- [Applications for New Awards; Perkins Innovation and Modernization Grant Program](https://www.federalregister.gov/documents/2023/08/14/2023-17226/applications-for-new-awards-perkins-innovation-and-modernization-grant-program) (2023-08-14) — Education Department
-- [Financial Value Transparency and Gainful Employment (GE), Financial Responsibility, Administrative Capability, Certification Procedures, Ability to Benefit (ATB)](https://www.federalregister.gov/documents/2023/05/19/2023-09647/financial-value-transparency-and-gainful-employment-ge-financial-responsibility-administrative) (2023-05-19) — Education Department ★
-- [Proposed Priorities, Requirements, Definitions, and Selection Criteria-Perkins Innovation and Modernization Grant Program](https://www.federalregister.gov/documents/2023/05/16/2023-10220/proposed-priorities-requirements-definitions-and-selection-criteria-perkins-innovation-and) (2023-05-16) — Education Department
-- [Applications for New Awards; Transitioning Gang-Involved Youth to Higher Education Program](https://www.federalregister.gov/documents/2021/10/29/2021-23788/applications-for-new-awards-transitioning-gang-involved-youth-to-higher-education-program) (2021-10-29) — Education Department
+- [Financial Value Transparency and Gainful Employment](https://www.federalregister.gov/documents/2023/10/10/2023-20385/financial-value-transparency-and-gainful-employment) (VERIFIED) (2023-10-10) — Education Department
+- ~~[Final Priorities, Requirements, Definitions, and Selection Criteria-Perkins Innovation and Modernization Grant Program](https://www.federalregister.gov/documents/2023/08/14/2023-17227/final-priorities-requirements-definitions-and-selection-criteria-perkins-innovation-and)~~ (URL broken, archived by Ops) (2023-08-14) — Education Department
+- ~~[Applications for New Awards; Perkins Innovation and Modernization Grant Program](https://www.federalregister.gov/documents/2023/08/14/2023-17226/applications-for-new-awards-perkins-innovation-and-modernization-grant-program)~~ (URL broken, archived by Ops) (2023-08-14) — Education Department
+- [Financial Value Transparency and Gainful Employment (GE), Financial Responsibility, Administrative Capability, Certification Procedures, Ability to Benefit (ATB)](https://www.federalregister.gov/documents/2023/05/19/2023-09647/financial-value-transparency-and-gainful-employment-ge-financial-responsibility-administrative) (VERIFIED) (2023-05-19) — Education Department ★
+- [Proposed Priorities, Requirements, Definitions, and Selection Criteria-Perkins Innovation and Modernization Grant Program](https://www.federalregister.gov/documents/2023/05/16/2023-10220/proposed-priorities-requirements-definitions-and-selection-criteria-perkins-innovation-and) (VERIFIED) (2023-05-16) — Education Department
+- [Applications for New Awards; Transitioning Gang-Involved Youth to Higher Education Program](https://www.federalregister.gov/documents/2021/10/29/2021-23788/applications-for-new-awards-transitioning-gang-involved-youth-to-higher-education-program) (VERIFIED) (2021-10-29) — Education Department
 - ... and 27 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Aspen%20Institute%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Aspen%20Institute%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->

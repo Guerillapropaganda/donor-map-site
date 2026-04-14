@@ -140,16 +140,16 @@ The TikTok deal demonstrates this mechanism in real time. Oracle did not invent 
 
 ### Sources
 
-- [FEC Independent Expenditures: Larry Ellison donor profile](https://www.fec.gov/data/independent-expenditures/?q=Lawrence%20Ellison) (Tier 1)
-- [CNN Business: Larry and David Ellison wealth and political power](https://www.cnn.com/2025/09/26/media/larry-ellison-david-ellison-trump) (Tier 2)
-- [CNBC: Pentagon JWCC cloud contract award to Oracle, Amazon, Google, Microsoft](https://www.cnbc.com/2022/12/07/google-oracle-amazon-and-microsoft-awarded-9-billion-pentagon-cloud-deals.html) (Tier 1)
-- [Nextgov/FCW: Oracle, the CIA and government's role in picking winners](https://www.nextgov.com/digital-government/2014/09/oracle-the-cia-and-governments-role-in-picking-winners/240320/) (Tier 2)
-- [Yahoo Finance: Larry Ellison Palm Beach estate $173M near Mar-a-Lago](https://finance.yahoo.com/news/larry-ellison-makes-173-million-201947008.html) (Tier 2)
-- [NPR: TikTok Oracle-led ownership deal structure](https://www.npr.org/2025/01/25/g-s1-44779/tiktok-ban-deal-trump-oracle) (Tier 2)
-- [OpenSecrets News: Oracle invested millions in government influence before TikTok deal](https://www.opensecrets.org/news/2025/09/oracle-invested-millions-in-government-influence-before-winning-a-major-stake-in-tiktok/) (Tier 2)
-- [Yahoo Finance: Larry Ellison net worth 2025 peak $393B](https://finance.yahoo.com/news/larry-ellison-net-worth-update-from-topping-musk-in-2025-to-losing-19-of-his-wealth-in-2026-203114110.html) (Tier 2)
-- [Gizmodo: Larry Ellison's Oracle started as CIA project](https://gizmodo.com/larry-ellisons-oracle-started-as-a-cia-project-1636592238) (Tier 2)
-- [Fortune: Larry Ellison $450M Florida real estate investment](https://fortune.com/article/larry-ellison-florida-real-estate-450-million-mar-a-lago/) (Tier 2)
+- [FEC Independent Expenditures: Larry Ellison donor profile](https://www.fec.gov/data/independent-expenditures/?q=Lawrence%20Ellison) (Tier 1) (VERIFIED)
+- [CNN Business: Larry and David Ellison wealth and political power](https://www.cnn.com/2025/09/26/media/larry-ellison-david-ellison-trump) (Tier 2) (VERIFIED)
+- [CNBC: Pentagon JWCC cloud contract award to Oracle, Amazon, Google, Microsoft](https://www.cnbc.com/2022/12/07/google-oracle-amazon-and-microsoft-awarded-9-billion-pentagon-cloud-deals.html) (Tier 1) (VERIFIED)
+- [Nextgov/FCW: Oracle, the CIA and government's role in picking winners](https://www.nextgov.com/digital-government/2014/09/oracle-the-cia-and-governments-role-in-picking-winners/240320/) (Tier 2) (VERIFIED)
+- [Yahoo Finance: Larry Ellison Palm Beach estate $173M near Mar-a-Lago](https://finance.yahoo.com/news/larry-ellison-makes-173-million-201947008.html) (Tier 2) (VERIFIED)
+- [NPR: TikTok Oracle-led ownership deal structure](https://www.npr.org/2025/01/25/g-s1-44779/tiktok-ban-deal-trump-oracle) (Tier 2) (VERIFIED)
+- [OpenSecrets News: Oracle invested millions in government influence before TikTok deal](https://www.opensecrets.org/news/2025/09/oracle-invested-millions-in-government-influence-before-winning-a-major-stake-in-tiktok/) (Tier 2) (VERIFIED)
+- ~~[Yahoo Finance: Larry Ellison net worth 2025 peak $393B](https://finance.yahoo.com/news/larry-ellison-net-worth-update-from-topping-musk-in-2025-to-losing-19-of-his-wealth-in-2026-203114110.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Gizmodo: Larry Ellison's Oracle started as CIA project](https://gizmodo.com/larry-ellisons-oracle-started-as-a-cia-project-1636592238) (Tier 2) (VERIFIED)
+- [Fortune: Larry Ellison $450M Florida real estate investment](https://fortune.com/article/larry-ellison-florida-real-estate-450-million-mar-a-lago/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -178,7 +178,7 @@ The TikTok deal demonstrates this mechanism in real time. Oracle did not invent 
 | Total Expenses | $54.7M |
 | Net Assets | $192.2M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 943269827](https://projects.propublica.org/nonprofits/organizations/943269827) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 943269827](https://projects.propublica.org/nonprofits/organizations/943269827) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Campaign Finance (FEC)
@@ -203,7 +203,7 @@ The TikTok deal demonstrates this mechanism in real time. Oracle did not invent 
 | DNC SERVICES CORP / DEMOCRATIC NATIONAL COMMITTEE | $250 | DEM |
 | HARRIS VICTORY FUND | $250 | — |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Larry%20Ellison) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Larry%20Ellison) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### Federal Register Activity
@@ -216,8 +216,8 @@ The TikTok deal demonstrates this mechanism in real time. Oracle did not invent 
 | Agencies | Fish and Wildlife Service, Interior Department |
 
 **Recent regulatory activity:**
-- [Endangered and Threatened Species; Receipt of Recovery Permit Applications](https://www.federalregister.gov/documents/2024/02/06/2024-02341/endangered-and-threatened-species-receipt-of-recovery-permit-applications) (2024-02-06) — Interior Department
-- [Endangered and Threatened Wildlife and Plants; Designation and Nondesignation of Critical Habitat on Molokai, Lanai, Maui, and Kahoolawe for 135 Species](https://www.federalregister.gov/documents/2016/03/30/2016-06069/endangered-and-threatened-wildlife-and-plants-designation-and-nondesignation-of-critical-habitat-on) (2016-03-30) — Interior Department
+- [Endangered and Threatened Species; Receipt of Recovery Permit Applications](https://www.federalregister.gov/documents/2024/02/06/2024-02341/endangered-and-threatened-species-receipt-of-recovery-permit-applications) (VERIFIED) (2024-02-06) — Interior Department
+- [Endangered and Threatened Wildlife and Plants; Designation and Nondesignation of Critical Habitat on Molokai, Lanai, Maui, and Kahoolawe for 135 Species](https://www.federalregister.gov/documents/2016/03/30/2016-06069/endangered-and-threatened-wildlife-and-plants-designation-and-nondesignation-of-critical-habitat-on) (VERIFIED) (2016-03-30) — Interior Department
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Larry%20Ellison%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Larry%20Ellison%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->

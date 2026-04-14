@@ -155,7 +155,7 @@ AIPAC's $5M+ independent spending on Schiff's behalf during 2023–2024 reflecte
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Adam Schiff](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: Adam Schiff](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 
 ### Legislative Activity (Congress.gov)
@@ -183,5 +183,5 @@ AIPAC's $5M+ independent spending on Schiff's behalf during 2023–2024 reflecte
 | — |  | — |
 | — |  | — |
 
-- [Source: Congress.gov](https://www.congress.gov/member/S001150) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/S001150)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->

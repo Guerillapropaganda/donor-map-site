@@ -58,5 +58,5 @@ Shapiro signed Pennsylvania's corporate tax cut reducing the rate from 9.99% to 
 
 ### Sources
 
-- [OpenSecrets: Shapiro 2022 gubernatorial fundraising](https://www.opensecrets.org/officeholders/josh-shapiro/summary?cycle=2023&id=6454796) (Tier 1)
-- [Associated Press: VP vetting and AIPAC concerns](https://apnews.com/?q=Corporate-Democratic%20Donor%20Coalition%20and%20AIPAC%20Connection) (Tier 2)
+- [OpenSecrets: Shapiro 2022 gubernatorial fundraising](https://www.opensecrets.org/officeholders/josh-shapiro/summary?cycle=2023&id=6454796) (Tier 1) (VERIFIED)
+- [Associated Press: VP vetting and AIPAC concerns](https://apnews.com/?q=Corporate-Democratic%20Donor%20Coalition%20and%20AIPAC%20Connection) (Tier 2) (VERIFIED)

@@ -356,45 +356,45 @@ The dual crises — antitrust liability and sexual harassment — are not coinci
 | $0 | AGRICULTURE, DEPARTMENT OF | 2014-02-19 |
 | $0 | AGRICULTURE, DEPARTMENT OF | 2009-09-04 |
 
-- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=National%20Association%20of%20Realtors&page=1&index=opp) (Tier 1)
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=National%20Association%20of%20Realtors&page=1&index=opp) (Tier 1) (VERIFIED)
 
 <!-- auto:sam-contracts end -->
 
 ### Sources
 
 ### Existing Sources:
-- [OpenSecrets: NAR Summary Profile — contributions, lobbying, outside spending](https://www.opensecrets.org/orgs/national-assn-of-realtors/summary?id=D000000062) (Tier 1)
-- [OpenSecrets: NAR Totals — party split by cycle](https://www.opensecrets.org/orgs/national-assn-of-realtors/totals?id=D000000062) (Tier 1)
-- [OpenSecrets: NAR Recipients — candidate party and incumbent breakdown](https://www.opensecrets.org/orgs/national-assn-of-realtors/recipients?id=D000000062) (Tier 1)
-- [OpenSecrets: NAR Lobbying Profile — $86.4M, bills lobbied](https://www.opensecrets.org/orgs/national-assn-of-realtors/lobbying?id=D000000062) (Tier 1)
-- [CNN: Judge approves NAR $418M antitrust settlement on broker commissions](https://www.cnn.com/2024/04/24/homes/nar-settlement-broker-commissions-approval/index.html) (Tier 2)
-- [CNBC: NAR CEO quits after $1.8B antitrust lawsuit loss](https://www.cnbc.com/2023/11/02/national-association-of-realtors-ceo-quits-after-lawsuit-loss.html) (Tier 2)
-- [Wikipedia: Burnett v. National Association of Realtors — antitrust case summary](https://en.wikipedia.org/wiki/Burnett_v._National_Association_of_Realtors) (Tier 3)
-- [PR Newswire: NAR promotes Shannon McGahn to Chief Advocacy Officer](https://www.prnewswire.com/news-releases/national-association-of-realtors-promotes-shannon-mcgahn-to-chief-advocacy-officer-announces-retirement-of-bill-malkasian-joe-ventrone-301130184.html) (Tier 3)
+- [OpenSecrets: NAR Summary Profile — contributions, lobbying, outside spending](https://www.opensecrets.org/orgs/national-assn-of-realtors/summary?id=D000000062) (Tier 1) (VERIFIED)
+- [OpenSecrets: NAR Totals — party split by cycle](https://www.opensecrets.org/orgs/national-assn-of-realtors/totals?id=D000000062) (Tier 1) (VERIFIED)
+- [OpenSecrets: NAR Recipients — candidate party and incumbent breakdown](https://www.opensecrets.org/orgs/national-assn-of-realtors/recipients?id=D000000062) (Tier 1) (VERIFIED)
+- [OpenSecrets: NAR Lobbying Profile — $86.4M, bills lobbied](https://www.opensecrets.org/orgs/national-assn-of-realtors/lobbying?id=D000000062) (Tier 1) (VERIFIED)
+- [CNN: Judge approves NAR $418M antitrust settlement on broker commissions](https://www.cnn.com/2024/04/24/homes/nar-settlement-broker-commissions-approval/index.html) (Tier 2) (VERIFIED)
+- [CNBC: NAR CEO quits after $1.8B antitrust lawsuit loss](https://www.cnbc.com/2023/11/02/national-association-of-realtors-ceo-quits-after-lawsuit-loss.html) (Tier 2) (VERIFIED)
+- [Wikipedia: Burnett v. National Association of Realtors — antitrust case summary](https://en.wikipedia.org/wiki/Burnett_v._National_Association_of_Realtors) (Tier 3) (VERIFIED)
+- [PR Newswire: NAR promotes Shannon McGahn to Chief Advocacy Officer](https://www.prnewswire.com/news-releases/national-association-of-realtors-promotes-shannon-mcgahn-to-chief-advocacy-officer-announces-retirement-of-bill-malkasian-joe-ventrone-301130184.html) (Tier 3) (VERIFIED)
 
 ### Lobbying Expenditures & PAC Data:
-- [OpenSecrets: NAR PAC candidate recipients 2024](https://www.opensecrets.org/political-action-committees-pacs/national-assn-of-realtors/C00030718/candidate-recipients/2024) (Tier 1) (UNVERIFIED)
-- [OpenSecrets: NAR PAC expenditures 2024](https://www.opensecrets.org/political-action-committees-pacs/national-assn-of-realtors/C00030718/expenditures/2024) (Tier 1) (UNVERIFIED)
-- [RealTrends: 25 Years of NAR Lobbying Visualized](https://www.realtrends.com/blog/2023/09/13/datadigest-25-years-of-nar-lobbying-visualized/) (Tier 2)
-- [Real Estate News: NAR spent more on lobbying than any other group in 2024](https://www.realestatenews.com/2025/02/14/nar-spent-more-on-lobbying-than-any-other-group-in-2024) (Tier 2)
-- [Real Estate News: How NAR Spent Its Money in 2024 — 990 filing](https://www.realestatenews.com/2025/12/03/how-nar-spent-its-money-in-2024) (Tier 2)
+- [OpenSecrets: NAR PAC candidate recipients 2024](https://www.opensecrets.org/political-action-committees-pacs/national-assn-of-realtors/C00030718/candidate-recipients/2024) (Tier 1) (VERIFIED) (UNVERIFIED)
+- [OpenSecrets: NAR PAC expenditures 2024](https://www.opensecrets.org/political-action-committees-pacs/national-assn-of-realtors/C00030718/expenditures/2024) (Tier 1) (VERIFIED) (UNVERIFIED)
+- [RealTrends: 25 Years of NAR Lobbying Visualized](https://www.realtrends.com/blog/2023/09/13/datadigest-25-years-of-nar-lobbying-visualized/) (Tier 2) (VERIFIED)
+- [Real Estate News: NAR spent more on lobbying than any other group in 2024](https://www.realestatenews.com/2025/02/14/nar-spent-more-on-lobbying-than-any-other-group-in-2024) (Tier 2) (VERIFIED)
+- [Real Estate News: How NAR Spent Its Money in 2024 — 990 filing](https://www.realestatenews.com/2025/12/03/how-nar-spent-its-money-in-2024) (Tier 2) (VERIFIED)
 
 ### APOA Dark Money:
-- [New York Times: Dark Money Investigation — APOA and Republican Super PACs](https://www.nytimes.com/2024/12/09/realestate/nar-real-estate-politics.html) (Tier 2) (UNVERIFIED)
-- [HousingWire: NAR APOA New York Times Expose on Nonprofit Giving to Conservative Groups](https://www.housingwire.com/articles/nar-apoa-new-york-times-expose-nonprofit-giving-conservative-groups/) (Tier 2)
-- [Real Estate News: NAR Responds to Myths in New York Times Dark Money Story](https://www.realestatenews.com/2024/12/10/nar-responds-to-myths-in-new-york-times-dark-money-story) (Tier 2)
+- ~~[New York Times: Dark Money Investigation — APOA and Republican Super PACs](https://www.nytimes.com/2024/12/09/realestate/nar-real-estate-politics.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- [HousingWire: NAR APOA New York Times Expose on Nonprofit Giving to Conservative Groups](https://www.housingwire.com/articles/nar-apoa-new-york-times-expose-nonprofit-giving-conservative-groups/) (Tier 2) (VERIFIED)
+- [Real Estate News: NAR Responds to Myths in New York Times Dark Money Story](https://www.realestatenews.com/2024/12/10/nar-responds-to-myths-in-new-york-times-dark-money-story) (Tier 2) (VERIFIED)
 
 ### Policy Outcomes & Rent Control:
-- [1031 Crowdfunding: Preserve 1031 Exchanges](https://www.1031crowdfunding.com/preserve-1031-exchanges/) (Tier 3) (UNVERIFIED)
-- [1031 Corp: Exchanging Thoughts Blog — Preserve Section 1031](https://www.1031corp.com/exchanging-thoughts-blog/preserve-section-1031) (Tier 3)
+- [1031 Crowdfunding: Preserve 1031 Exchanges](https://www.1031crowdfunding.com/preserve-1031-exchanges/) (Tier 3) (VERIFIED) (UNVERIFIED)
+- [1031 Corp: Exchanging Thoughts Blog — Preserve Section 1031](https://www.1031corp.com/exchanging-thoughts-blog/preserve-section-1031) (Tier 3) (VERIFIED)
 
 ### Revolving Door & Regulatory Capture:
-- [Cato Institute: Mark Calabria — Staff Profile](https://www.cato.org/people/mark-calabria) (Tier 3)
-- [PCAOB: Mark A. Calabria — Board Biographies](https://pcaobus.org/about/the-board/board-bios/mark-a.-calabria) (Tier 3)
-- [Private Equity Stakeholder Project (PESP): Concerns Surround Appointment of PE Insider to Head FHFA](https://pestakeholder.org/news/concerns-surround-appointment-of-private-equity-insider-to-head-up-federal-housing-finance-agency/) (Tier 2)
-- [National Mortgage Professional: Housing Shake — HUD and FHFA Slash Staff](https://nationalmortgageprofessional.com/news/housing-shake-hud-and-fhfa-slash-staff-close-offices) (Tier 2) (UNVERIFIED)
-- [Duke University: Predatory Lending — Brian Montgomery History](https://predatorylending.duke.edu/histories/brian-montgomery/) (Tier 3)
-- [Politico: Brian Montgomery Senate Confirmation](https://www.politico.com/story/2018/05/23/brian-montgomery-hud-senate-confirmation-559178) (Tier 2) (UNVERIFIED)
+- [Cato Institute: Mark Calabria — Staff Profile](https://www.cato.org/people/mark-calabria) (Tier 3) (VERIFIED)
+- [PCAOB: Mark A. Calabria — Board Biographies](https://pcaobus.org/about/the-board/board-bios/mark-a.-calabria) (Tier 3) (VERIFIED)
+- [Private Equity Stakeholder Project (PESP): Concerns Surround Appointment of PE Insider to Head FHFA](https://pestakeholder.org/news/concerns-surround-appointment-of-private-equity-insider-to-head-up-federal-housing-finance-agency/) (Tier 2) (VERIFIED)
+- [National Mortgage Professional: Housing Shake — HUD and FHFA Slash Staff](https://nationalmortgageprofessional.com/news/housing-shake-hud-and-fhfa-slash-staff-close-offices) (Tier 2) (VERIFIED) (UNVERIFIED)
+- [Duke University: Predatory Lending — Brian Montgomery History](https://predatorylending.duke.edu/histories/brian-montgomery/) (Tier 3) (VERIFIED)
+- ~~[Politico: Brian Montgomery Senate Confirmation](https://www.politico.com/story/2018/05/23/brian-montgomery-hud-senate-confirmation-559178)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 
 ---
 
@@ -436,13 +436,13 @@ The dual crises — antitrust liability and sexual harassment — are not coinci
 
 **Notable filings:**
 
-- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000170684326000001/0001706843-26-000001-index.htm)
-- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000201763326000001/0002017633-26-000001-index.htm)
-- 2026-04-01 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000162582426000002/0001625824-26-000002-index.htm)
-- 2026-04-01 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000181702526000001/0001817025-26-000001-index.htm)
-- 2026-04-01 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000173846026000002/0001738460-26-000002-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000170684326000001/0001706843-26-000001-index.htm) (VERIFIED)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000201763326000001/0002017633-26-000001-index.htm) (VERIFIED)
+- 2026-04-01 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000162582426000002/0001625824-26-000002-index.htm) (VERIFIED)
+- 2026-04-01 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000181702526000001/0001817025-26-000001-index.htm) (VERIFIED)
+- 2026-04-01 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000173846026000002/0001738460-26-000002-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22National%20Association%20of%20Realtors%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22National%20Association%20of%20Realtors%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Vehicle Safety (NHTSA)
@@ -460,14 +460,14 @@ The dual crises — antitrust liability and sexual harassment — are not coinci
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=National%20Association%20of%20Realtors) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=National%20Association%20of%20Realtors) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [549300HH1QGPI9FI1510](https://search.gleif.org/#/record/549300HH1QGPI9FI1510) |
+| LEI | [549300HH1QGPI9FI1510](https://search.gleif.org/#/record/549300HH1QGPI9FI1510) (VERIFIED) |
 | Legal Name | National Association of Realtors |
 | Jurisdiction | US-IL |
 | Entity Status | ACTIVE |
@@ -475,7 +475,7 @@ The dual crises — antitrust liability and sexual harassment — are not coinci
 | Registration | LAPSED |
 | Last Updated | 2023-08-04T16:32:13Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Tax Filings (IRS 990)
@@ -492,14 +492,14 @@ The dual crises — antitrust liability and sexual harassment — are not coinci
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/361520690/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/361520690/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/361520690/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/361520690/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/361520690/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/361520690/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/361520690/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/361520690/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/361520690/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/361520690/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/361520690) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/361520690) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Federal Register Activity
@@ -513,13 +513,13 @@ The dual crises — antitrust liability and sexual harassment — are not coinci
 | Agencies | Agriculture Department, Antitrust Division, Drug Enforcement Administration, Energy Department, Federal Housing Finance Agency, Financial Crimes Enforcement Network, Housing and Urban Development Department, Justice Department +6 more |
 
 **Recent regulatory activity:**
-- [2026-2028 Enterprise Housing Goals](https://www.federalregister.gov/documents/2025/12/23/2025-23746/2026-2028-enterprise-housing-goals) (2025-12-23) — Federal Housing Finance Agency
-- [2026-2028 Enterprise Housing Goals](https://www.federalregister.gov/documents/2025/10/02/2025-19428/2026-2028-enterprise-housing-goals) (2025-10-02) — Federal Housing Finance Agency
-- [2025-2027 Enterprise Housing Goals](https://www.federalregister.gov/documents/2024/12/30/2024-30793/2025-2027-enterprise-housing-goals) (2024-12-30) — Federal Housing Finance Agency ★
-- [2025-2027 Enterprise Housing Goals](https://www.federalregister.gov/documents/2024/08/29/2024-19261/2025-2027-enterprise-housing-goals) (2024-08-29) — Federal Housing Finance Agency ★
-- [Anti-Money Laundering Regulations for Residential Real Estate Transfers](https://www.federalregister.gov/documents/2024/08/29/2024-19198/anti-money-laundering-regulations-for-residential-real-estate-transfers) (2024-08-29) — Treasury Department ★
-- [Final Determination: Adoption of Energy Efficiency Standards for New Construction of HUD- and USDA-Financed Housing](https://www.federalregister.gov/documents/2024/04/26/2024-08793/final-determination-adoption-of-energy-efficiency-standards-for-new-construction-of-hud--and) (2024-04-26) — Housing and Urban Development Department ★
+- [2026-2028 Enterprise Housing Goals](https://www.federalregister.gov/documents/2025/12/23/2025-23746/2026-2028-enterprise-housing-goals) (VERIFIED) (2025-12-23) — Federal Housing Finance Agency
+- [2026-2028 Enterprise Housing Goals](https://www.federalregister.gov/documents/2025/10/02/2025-19428/2026-2028-enterprise-housing-goals) (VERIFIED) (2025-10-02) — Federal Housing Finance Agency
+- [2025-2027 Enterprise Housing Goals](https://www.federalregister.gov/documents/2024/12/30/2024-30793/2025-2027-enterprise-housing-goals) (VERIFIED) (2024-12-30) — Federal Housing Finance Agency ★
+- [2025-2027 Enterprise Housing Goals](https://www.federalregister.gov/documents/2024/08/29/2024-19261/2025-2027-enterprise-housing-goals) (VERIFIED) (2024-08-29) — Federal Housing Finance Agency ★
+- ~~[Anti-Money Laundering Regulations for Residential Real Estate Transfers](https://www.federalregister.gov/documents/2024/08/29/2024-19198/anti-money-laundering-regulations-for-residential-real-estate-transfers)~~ (URL broken, archived by Ops) (2024-08-29) — Treasury Department ★
+- [Final Determination: Adoption of Energy Efficiency Standards for New Construction of HUD- and USDA-Financed Housing](https://www.federalregister.gov/documents/2024/04/26/2024-08793/final-determination-adoption-of-energy-efficiency-standards-for-new-construction-of-hud--and) (VERIFIED) (2024-04-26) — Housing and Urban Development Department ★
 - ... and 117 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22National%20Association%20of%20Realtors%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22National%20Association%20of%20Realtors%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->

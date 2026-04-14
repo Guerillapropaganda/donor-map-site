@@ -92,10 +92,10 @@ The donor class's alignment with Haley was not ideological affinity, it was a ra
 
 ### Sources
 
-- [The Lever: Nikki Haley Helped Boeing Kill Dark Money Disclosure Initiative](https://www.levernews.com/nikki-haley-helped-boeing-kill-dark-money-disclosure-initiative/) (Tier 2)
-- [Jacobin: Nikki Haley Helped Boeing Hide Its Political Spending](https://jacobin.com/2024/01/nikki-haley-boeing-political-expenditures) (Tier 4, flag: left-partisan publication) (Tier 2)
-- [OpenSecrets: Nikki Haley launches 2024 presidential campaign after years of raising big money](https://www.opensecrets.org/news/2023/02/nikki-haley-launches-2024-presidential-campaign-after-years-of-raising-big-money/) (Tier 1)
-- [CNBC: Nikki Haley gets early support from wealthy donors](https://www.cnbc.com/2023/04/17/nikki-haley-enjoys-early-billionaire-support-in-2024-race.html) (Tier 2)
-- [SC Daily Gazette: Nikki Haley's rivals call her Wall Street's candidate](https://scdailygazette.com/2023/12/07/nikki-haleys-rivals-call-her-wall-streets-candidate-why-and-does-it-matter/) (Tier 2)
-- [Fortune: Wall Street titans are getting behind Nikki Haley in the presidential race](https://fortune.com/2023/11/30/wall-street-titans-backing-nikki-haley-ackman-asks-biden-step-aside/) (Tier 2)
-- [Wikipedia: Nikki Haley](https://en.wikipedia.org/wiki/Nikki_Haley) (Tier 3)
+- [The Lever: Nikki Haley Helped Boeing Kill Dark Money Disclosure Initiative](https://www.levernews.com/nikki-haley-helped-boeing-kill-dark-money-disclosure-initiative/) (Tier 2) (VERIFIED)
+- [Jacobin: Nikki Haley Helped Boeing Hide Its Political Spending](https://jacobin.com/2024/01/nikki-haley-boeing-political-expenditures) (VERIFIED) (Tier 4, flag: left-partisan publication) (Tier 2)
+- [OpenSecrets: Nikki Haley launches 2024 presidential campaign after years of raising big money](https://www.opensecrets.org/news/2023/02/nikki-haley-launches-2024-presidential-campaign-after-years-of-raising-big-money/) (Tier 1) (VERIFIED)
+- [CNBC: Nikki Haley gets early support from wealthy donors](https://www.cnbc.com/2023/04/17/nikki-haley-enjoys-early-billionaire-support-in-2024-race.html) (Tier 2) (VERIFIED)
+- [SC Daily Gazette: Nikki Haley's rivals call her Wall Street's candidate](https://scdailygazette.com/2023/12/07/nikki-haleys-rivals-call-her-wall-streets-candidate-why-and-does-it-matter/) (Tier 2) (VERIFIED)
+- [Fortune: Wall Street titans are getting behind Nikki Haley in the presidential race](https://fortune.com/2023/11/30/wall-street-titans-backing-nikki-haley-ackman-asks-biden-step-aside/) (Tier 2) (VERIFIED)
+- [Wikipedia: Nikki Haley](https://en.wikipedia.org/wiki/Nikki_Haley) (Tier 3) (VERIFIED)

@@ -140,19 +140,19 @@ The 2022 governor race reveals the donor network's full scope. Ronald Lauder, pr
 | Bills Cosponsored | 0 |
 | Total Votes Cast | 4,487 |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/lee_zeldin/412646) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/lee_zeldin/412646) (Tier 1) (VERIFIED)
 
 <!-- auto:govtrack end -->
 
 ## Sources
 
-- [FEC Candidate: Zeldin congressional fundraising](https://www.fec.gov/data/candidate/H8NY01148/) (Tier 1)
-- [E&E News: EPA deregulatory actions and Zeldin consulting fees](https://www.eenews.net/articles/epas-zeldin-emerges-as-project-2025-frontman/) (Tier 2)
-- [CBS News: EPA rollbacks health effects analysis](https://www.cbsnews.com/news/epa-rollback-3-ways-affect-americans-health/) (Tier 2)
-- [Rolling Stone: Zeldin paid op-eds and secret clients](https://www.rollingstone.com/politics/politics-news/lee-zeldin-trump-epa-op-eds-1235233073/) (Tier 2)
-- [CREW: Energy interests supporting Zeldin](https://www.citizensforethics.org/reports-investigations/crew-investigations/report-suggests-energy-interests-sought-to-secretly-support-epa-administrators-campaign/) (Tier 2)
-- [DeSmog: Tim Dunn fracking billionaire backing Zeldin](https://www.desmog.com/2024/11/13/trump-epa-pick-lee-zeldin-backed-by-texas-fracking-billionaire-tim-dunn/) (Tier 2)
-- [FEC: Lee Zeldin contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=zeldin,+lee) (Tier 1)
+- [FEC Candidate: Zeldin congressional fundraising](https://www.fec.gov/data/candidate/H8NY01148/) (Tier 1) (VERIFIED)
+- [E&E News: EPA deregulatory actions and Zeldin consulting fees](https://www.eenews.net/articles/epas-zeldin-emerges-as-project-2025-frontman/) (Tier 2) (VERIFIED)
+- [CBS News: EPA rollbacks health effects analysis](https://www.cbsnews.com/news/epa-rollback-3-ways-affect-americans-health/) (Tier 2) (VERIFIED)
+- [Rolling Stone: Zeldin paid op-eds and secret clients](https://www.rollingstone.com/politics/politics-news/lee-zeldin-trump-epa-op-eds-1235233073/) (Tier 2) (VERIFIED)
+- [CREW: Energy interests supporting Zeldin](https://www.citizensforethics.org/reports-investigations/crew-investigations/report-suggests-energy-interests-sought-to-secretly-support-epa-administrators-campaign/) (Tier 2) (VERIFIED)
+- [DeSmog: Tim Dunn fracking billionaire backing Zeldin](https://www.desmog.com/2024/11/13/trump-epa-pick-lee-zeldin-backed-by-texas-fracking-billionaire-tim-dunn/) (Tier 2) (VERIFIED)
+- [FEC: Lee Zeldin contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=zeldin,+lee) (Tier 1) (VERIFIED)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -186,7 +186,7 @@ The 2022 governor race reveals the donor network's full scope. Ronald Lauder, pr
 | DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $0 | $3,039,289 |
 | DCCC | $0 | $2,185,865 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8NY01148/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8NY01148/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Wikipedia
@@ -195,15 +195,15 @@ Lee Michael Zeldin is an American politician and lawyer serving as the 17th admi
 
 | Fact | Value |
 |------|-------|
-| Wikidata ID | [Q16221257](https://www.wikidata.org/wiki/Q16221257) |
+| Wikidata ID | [Q16221257](https://www.wikidata.org/wiki/Q16221257) (VERIFIED) |
 | Description | American politician (born 1980) |
 | Born | 1980-01-30 |
-| Website | [http://www.nysenate.gov/senator/lee-m-zeldin](http://www.nysenate.gov/senator/lee-m-zeldin) |
-| X/Twitter | [@RepLeeZeldin](https://x.com/RepLeeZeldin) |
-| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Lee-Zeldin-EPA-Official-Portrait.jpg?width=300) |
+| Website | ~~[http://www.nysenate.gov/senator/lee-m-zeldin](http://www.nysenate.gov/senator/lee-m-zeldin)~~ (URL broken, archived by Ops) |
+| X/Twitter | [@RepLeeZeldin](https://x.com/RepLeeZeldin) (VERIFIED) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Lee-Zeldin-EPA-Official-Portrait.jpg?width=300) (NEEDS REVIEW) |
 
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/Lee_Zeldin) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q16221257) (Tier 2)
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Lee_Zeldin) (Tier 3) (VERIFIED)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q16221257) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
 ### Influence Network (Cross-Reference)

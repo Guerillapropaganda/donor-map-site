@@ -13,7 +13,7 @@ profiles:
 
 ## How Hegseth has transformed the Pentagon’s wartime press operation
 
-**Source:** [The Hill](https://thehill.com/policy/defense/5826151-hegseth-trump-pentagon-strategy/)
+**Source:** ~~[The Hill](https://thehill.com/policy/defense/5826151-hegseth-trump-pentagon-strategy/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-11
 
 The spotlight of war inevitably shines on the Defense secretary’s personality and priorities. Donald Rumsfeld, Pentagon chief when President George W. Bush launched the Iraq War, stepped into the briefing room almost every day, sometimes at his own peril. In his memoirs, he reflected on his “misstatement” about weapons of mass destruction sites and “ill-chosen…

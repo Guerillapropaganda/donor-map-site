@@ -110,12 +110,12 @@ Environment — wildfires, utility regulation, clean energy, NEM 3.0, Diablo Can
 
 ### Sources
 
-- [The Intercept: PG&E contributions to Newsom](https://theintercept.com/2019/11/04/pge-bailout-bankruptcy-lobbying/) (Tier 2)
-- [Washington Post: PG&E $700K to Newsom and wife's films](https://www.washingtonpost.com/business/2019/11/11/pge-helped-fund-careers-calif-governor-his-wife-now-he-accuses-utility-corporate-greed/) (Tier 2)
-- [SF Chronicle: PG&E guilty plea](https://www.sfchronicle.com/california-wildfires/article/PG-E-pleads-guilty-to-84-counts-of-involuntary-15331371.php) (Tier 2)
-- [CalMatters: California lobbying spending tracker](https://calmatters.org/data/2025/04/california-lobbying-spending-2024/) (Tier 2)
-- [FPPC: Contribution filings / behested payment database](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1)
-- [FPPC: Newsom stipulation Nov. 2024 $13K fine](https://lunar.fppc.ca.gov/content/dam/fppc/documents/Stipulations/2024/november/5-Newsom-for-Governor-2018-Stip.pdf) (Tier 1)
+- [The Intercept: PG&E contributions to Newsom](https://theintercept.com/2019/11/04/pge-bailout-bankruptcy-lobbying/) (Tier 2) (VERIFIED)
+- [Washington Post: PG&E $700K to Newsom and wife's films](https://www.washingtonpost.com/business/2019/11/11/pge-helped-fund-careers-calif-governor-his-wife-now-he-accuses-utility-corporate-greed/) (Tier 2) (VERIFIED)
+- [SF Chronicle: PG&E guilty plea](https://www.sfchronicle.com/california-wildfires/article/PG-E-pleads-guilty-to-84-counts-of-involuntary-15331371.php) (Tier 2) (VERIFIED)
+- [CalMatters: California lobbying spending tracker](https://calmatters.org/data/2025/04/california-lobbying-spending-2024/) (Tier 2) (VERIFIED)
+- [FPPC: Contribution filings / behested payment database](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1) (VERIFIED)
+- ~~[FPPC: Newsom stipulation Nov. 2024 $13K fine](https://lunar.fppc.ca.gov/content/dam/fppc/documents/Stipulations/2024/november/5-Newsom-for-Governor-2018-Stip.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ### Financial Overview (990 Filing — 2023)
 <!-- auto:propublica-990 start -->
@@ -126,7 +126,7 @@ Environment — wildfires, utility regulation, clean energy, NEM 3.0, Diablo Can
 | Total Expenses | $17.9M |
 | Net Assets | $99.5M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 943358729](https://projects.propublica.org/nonprofits/organizations/943358729) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 943358729](https://projects.propublica.org/nonprofits/organizations/943358729) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -161,7 +161,7 @@ Environment — wildfires, utility regulation, clean energy, NEM 3.0, Diablo Can
 | Regulation and Administration of Communications, Electric, Gas, and Other Utilities (926130) | $56K |
 | Lessors of Nonresidential Buildings (except Miniwarehouses) (531120) | $20K |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Federal Spending (USASpending)
@@ -191,5 +191,5 @@ Environment — wildfires, utility regulation, clean energy, NEM 3.0, Diablo Can
 
 A.	PROJECT |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/e7960645-6ba4-f6dd-b4d7-32e054308c08-R/latest) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/e7960645-6ba4-f6dd-b4d7-32e054308c08-R/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->

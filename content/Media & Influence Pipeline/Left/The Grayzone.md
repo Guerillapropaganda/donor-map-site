@@ -157,11 +157,11 @@ The revenue opacity prevents answering this definitively. A truly independent ou
 
 ### Sources
 
-- [Washington Post: Documents reveal Iran payments to Grayzone staff](https://www.washingtonpost.com/technology/2024/06/02/grayzone-russia-iran-support/) (Tier 2)
-- [New Lines Magazine: Russia-linked left media on Gaza](https://newlinesmag.com/argument/public-mistrust-of-gaza-coverage-is-opening-space-for-russia-linked-media-on-the-left/) (Tier 2)
-- [ASPI: Chinese state media citations of Grayzone](https://xjdp.aspi.org.au/explainers/strange-bedfellows-on-xinjiang/) (Tier 2)
-- [Graphtreon: Grayzone Patreon analytics](https://graphtreon.com/creator/Grayzone) (Tier 3)
-- [Wikipedia: The Grayzone](https://en.wikipedia.org/wiki/The_Grayzone) (Tier 3)
+- [Washington Post: Documents reveal Iran payments to Grayzone staff](https://www.washingtonpost.com/technology/2024/06/02/grayzone-russia-iran-support/) (Tier 2) (VERIFIED)
+- [New Lines Magazine: Russia-linked left media on Gaza](https://newlinesmag.com/argument/public-mistrust-of-gaza-coverage-is-opening-space-for-russia-linked-media-on-the-left/) (Tier 2) (VERIFIED)
+- ~~[ASPI: Chinese state media citations of Grayzone](https://xjdp.aspi.org.au/explainers/strange-bedfellows-on-xinjiang/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Graphtreon: Grayzone Patreon analytics](https://graphtreon.com/creator/Grayzone) (Tier 3) (VERIFIED)
+- [Wikipedia: The Grayzone](https://en.wikipedia.org/wiki/The_Grayzone) (Tier 3) (VERIFIED)
 
 ### Additional sources to verify:
 - RT Moscow gala speaker list (Eric Alterman firsthand account)

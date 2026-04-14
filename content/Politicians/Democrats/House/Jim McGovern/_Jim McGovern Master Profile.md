@@ -156,18 +156,18 @@ McGovern is the anti-pattern that proves the pattern across the vault. When a po
 
 ## Sources
 
-- [FEC Candidate: Jim McGovern donor profile](https://www.fec.gov/data/candidate/H6FL06225/) (Tier 1)
-- [Congress.gov: James P. McGovern](https://www.congress.gov/member/james-mcgovern/M000312) (Tier 1)
-- [House.gov: McGovern biography](https://mcgovern.house.gov/about/) (Tier 1)
-- [House Rules Committee: Ranking Member McGovern](https://democrats-rules.house.gov/about/chairman-mcgovern) (Tier 1)
-- [House.gov: McGovern introduces bill to prohibit Saudi arms sales](https://mcgovern.house.gov/news/documentsingle.aspx?DocumentID=397287) (Tier 1)
-- [House.gov: McGovern bill to hold China accountable for Tibet](https://mcgovern.house.gov/news/documentsingle.aspx?DocumentID=398453) (Tier 1)
-- [Radio Free Asia: China sanctions McGovern for criticizing human rights record](https://www.rfa.org/english/news/tibet/china-sanctions-us-lawmaker-criticizing-beijings-human-rights-record-07312024160017.html) (Tier 2)
-- [Boston Globe: Lawmakers call for halt to Saudi arms sales — impact on Raytheon](https://www.bostonglobe.com/metro/2018/10/23/lawmakers-are-calling-for-halt-saudi-arms-sales-that-could-mean-big-hit-for-raytheon/) (Tier 2)
-- [Middle East Eye: McGovern leads bill to halt Saudi arms sales](https://www.middleeasteye.net/news/bill-halt-arms-sales-saudi-arabia-over-khashoggi-killing-introduced-us-congress) (Tier 2)
-- [GovTrack: Jim McGovern voting record](https://www.govtrack.us/congress/members/james_mcgovern/400263) (Tier 3)
-- [Ballotpedia: Jim McGovern](https://ballotpedia.org/Jim_McGovern_(Massachusetts)) (Tier 3)
-- [Wikipedia: Jim McGovern](https://en.wikipedia.org/wiki/Jim_McGovern_%28American_politician%29) (Tier 3)
+- [FEC Candidate: Jim McGovern donor profile](https://www.fec.gov/data/candidate/H6FL06225/) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: James P. McGovern](https://www.congress.gov/member/james-mcgovern/M000312)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [House.gov: McGovern biography](https://mcgovern.house.gov/about/) (Tier 1) (VERIFIED)
+- [House Rules Committee: Ranking Member McGovern](https://democrats-rules.house.gov/about/chairman-mcgovern) (Tier 1) (VERIFIED)
+- [House.gov: McGovern introduces bill to prohibit Saudi arms sales](https://mcgovern.house.gov/news/documentsingle.aspx?DocumentID=397287) (Tier 1) (VERIFIED)
+- [House.gov: McGovern bill to hold China accountable for Tibet](https://mcgovern.house.gov/news/documentsingle.aspx?DocumentID=398453) (Tier 1) (VERIFIED)
+- [Radio Free Asia: China sanctions McGovern for criticizing human rights record](https://www.rfa.org/english/news/tibet/china-sanctions-us-lawmaker-criticizing-beijings-human-rights-record-07312024160017.html) (Tier 2) (VERIFIED)
+- ~~[Boston Globe: Lawmakers call for halt to Saudi arms sales — impact on Raytheon](https://www.bostonglobe.com/metro/2018/10/23/lawmakers-are-calling-for-halt-saudi-arms-sales-that-could-mean-big-hit-for-raytheon/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Middle East Eye: McGovern leads bill to halt Saudi arms sales](https://www.middleeasteye.net/news/bill-halt-arms-sales-saudi-arabia-over-khashoggi-killing-introduced-us-congress) (Tier 2) (VERIFIED)
+- [GovTrack: Jim McGovern voting record](https://www.govtrack.us/congress/members/james_mcgovern/400263) (Tier 3) (NEEDS REVIEW)
+- [Ballotpedia: Jim McGovern](https://ballotpedia.org/Jim_McGovern_(Massachusetts) (VERIFIED)) (Tier 3)
+- [Wikipedia: Jim McGovern](https://en.wikipedia.org/wiki/Jim_McGovern_%28American_politician%29) (Tier 3) (VERIFIED)
 
 ### Legislative Activity (Congress.gov)
 
@@ -200,7 +200,7 @@ McGovern is the anti-pattern that proves the pattern across the vault. When a po
 | 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Nay | Passed |
 | 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Nay | Passed |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400263) (Tier 1)
+- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/400263)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:govtrack end -->
 
 ## Committee Assignments (Congress.gov)
@@ -227,7 +227,7 @@ McGovern is the anti-pattern that proves the pattern across the vault. When a po
 
 **Sources**
 
-- [GovTrack: Jim McGovern](https://www.govtrack.us/congress/members/400263) (Tier 1)
+- [GovTrack: Jim McGovern](https://www.govtrack.us/congress/members/400263) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-13 -->
@@ -254,7 +254,7 @@ McGovern is the anti-pattern that proves the pattern across the vault. When a po
 
 **Sources**
 
-- [Congress.gov: Jim McGovern](https://www.congress.gov/member/e000179) (Tier 1)
+- ~~[Congress.gov: Jim McGovern](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [GovTrack: Jim McGovern](https://www.govtrack.us/congress/members/400263) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->
@@ -271,10 +271,10 @@ McGovern is the anti-pattern that proves the pattern across the vault. When a po
 | Topics | sanction.counter, role.pol, role.pep |
 
 **Matched records:**
+- [Jim McGovern](https://www.opensanctions.org/entities/Q1337459/) (VERIFIED) — 100% match (ann_pep_positions, wd_categories, everypolitician)
 - [Jim McGovern](https://www.opensanctions.org/entities/Q1337459/) — 100% match (ann_pep_positions, wd_categories, everypolitician)
-- [Jim McGovern](https://www.opensanctions.org/entities/Q1337459/) — 100% match (ann_pep_positions, wd_categories, everypolitician)
-- [Jim McGovern](https://www.opensanctions.org/entities/Q584351/) — 80% match (ann_pep_positions, wd_categories, everypolitician)
-- [James F. McGovern](https://www.opensanctions.org/entities/Q16107422/) — 77% match (wd_categories, wikidata, wd_peps)
+- [Jim McGovern](https://www.opensanctions.org/entities/Q584351/) (VERIFIED) — 80% match (ann_pep_positions, wd_categories, everypolitician)
+- [James F. McGovern](https://www.opensanctions.org/entities/Q16107422/) (VERIFIED) — 77% match (wd_categories, wikidata, wd_peps)
 
-- [Source: OpenSanctions](https://www.opensanctions.org/search/?q=Jim%20McGovern) (Tier 1)
+- [Source: OpenSanctions](https://www.opensanctions.org/search/?q=Jim%20McGovern) (Tier 1) (VERIFIED)
 <!-- auto:opensanctions end -->

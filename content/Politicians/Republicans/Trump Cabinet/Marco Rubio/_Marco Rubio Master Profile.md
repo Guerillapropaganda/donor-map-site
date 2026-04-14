@@ -36,7 +36,7 @@ donors: [[Miriam Adelson]] · [[AIPAC - American Israel Public Affairs Committee
 
 ## Who He Is
 
-Marco Rubio. U.S. Secretary of State (confirmed 99-0, January 20, 2025 — first Latino to serve as Secretary of State) ([ABC News](https://abcnews.com/Politics/marco-rubio-unanimously-confirmed-secretary-state-becoming-member/story?id=117914119), Tier 2). Former U.S. Senator from Florida (2011–2025). 2016 Republican presidential candidate. Born May 28, 1971, Miami, FL, to Cuban immigrant parents who came to the United States in the late 1950s before Castro's revolution. West Miami neighborhood. Catholic. University of Florida → University of Miami Law School.
+Marco Rubio. U.S. Secretary of State (confirmed 99-0, January 20, 2025 — first Latino to serve as Secretary of State) ([ABC News](https://abcnews.com/Politics/marco-rubio-unanimously-confirmed-secretary-state-becoming-member/story?id=117914119) (VERIFIED), Tier 2). Former U.S. Senator from Florida (2011–2025). 2016 Republican presidential candidate. Born May 28, 1971, Miami, FL, to Cuban immigrant parents who came to the United States in the late 1950s before Castro's revolution. West Miami neighborhood. Catholic. University of Florida → University of Miami Law School.
 
 Career arc: Florida House of Representatives (2000–2008, including Speaker) → Senate candidate 2010 (Tea Party, beat sitting Governor Charlie Crist) → U.S. Senate (2011–2025) → 2016 presidential candidate ("Little Marco") → Trump defender → Secretary of State.
 
@@ -51,7 +51,7 @@ Career arc: Florida House of Representatives (2000–2008, including Speaker) �
 ## The Core Contradiction
 
 > [!contradiction]
-> In 2013, Marco Rubio co-authored the Border Security, Economic Opportunity, and Immigration Modernization Act — the Gang of Eight bill. It passed the Senate 68-32 with strong bipartisan support and would have provided a path to citizenship for 11 million undocumented immigrants. Rubio toured Spanish-language media defending it. Then the House Tea Party killed it. Then Rubio ran for president. Under pressure from Trump and Cruz in the 2016 primary, Rubio said the bill "was never intended to become law" ([NBC News](https://www.nbcnews.com/politics/2016-election/rubio-gang-8-bill-never-intended-become-law-n518936), Tier 2) — claiming his own signature legislation was a performance piece. He called comprehensive immigration reform "not achievable right now." The man who wrote the most comprehensive immigration reform of his era said he never meant it to pass. He then served in a Senate that passed zero immigration reform during his tenure. The Fanjul family — who needed cheap agricultural labor and had funded Rubio's career — got their crop picked either way.
+> In 2013, Marco Rubio co-authored the Border Security, Economic Opportunity, and Immigration Modernization Act — the Gang of Eight bill. It passed the Senate 68-32 with strong bipartisan support and would have provided a path to citizenship for 11 million undocumented immigrants. Rubio toured Spanish-language media defending it. Then the House Tea Party killed it. Then Rubio ran for president. Under pressure from Trump and Cruz in the 2016 primary, Rubio said the bill "was never intended to become law" (~~[NBC News](https://www.nbcnews.com/politics/2016-election/rubio-gang-8-bill-never-intended-become-law-n518936)~~ (URL broken, archived by Ops), Tier 2) — claiming his own signature legislation was a performance piece. He called comprehensive immigration reform "not achievable right now." The man who wrote the most comprehensive immigration reform of his era said he never meant it to pass. He then served in a Senate that passed zero immigration reform during his tenure. The Fanjul family — who needed cheap agricultural labor and had funded Rubio's career — got their crop picked either way.
 
 ---
 
@@ -64,7 +64,7 @@ Career arc: Florida House of Representatives (2000–2008, including Speaker) �
 - Cuban-American exile community: the single most politically cohesive ethnic donor bloc in Florida. Rubio's parents' Cuban migration narrative — even though they left before Castro, not after — gave him authentic standing in a community whose political identity centers on anti-communism and the Bay of Pigs. His Senate career was built on this constituency: tightest possible Cuba embargo, maximum sanctions on Venezuela, regime change advocacy for both Maduro and the Castro government. These positions serve the exile community's ideology; they also serve US sugar and agriculture interests that compete with Cuban production.
 
 ### The Fanjul Family — Sugar and Politics:
-- The Fanjul brothers (Alfonso and José "Pepe") own Florida Crystals, the parent company of Domino Sugar, and are estimated to be worth a combined $8 billion ([Bloomberg](https://www.bloomberg.com/news/articles/2017-08-09/sugar-barons-amass-8-billion-fortune-by-mastering-u-s-politics), Tier 2). The family fled Cuba after Castro's revolution — their sugar empire was nationalized. They rebuilt it in Florida and became the state's most politically powerful family. Rubio has received Fanjul family donations throughout his career and has consistently supported the sugar import restrictions and subsidies that protect Florida Crystals from foreign competition (including Cuban sugar). The anti-Cuba political position and the pro-sugar economic position are the same position, funded by the same family.
+- The Fanjul brothers (Alfonso and José "Pepe") own Florida Crystals, the parent company of Domino Sugar, and are estimated to be worth a combined $8 billion (~~[Bloomberg](https://www.bloomberg.com/news/articles/2017-08-09/sugar-barons-amass-8-billion-fortune-by-mastering-u-s-politics)~~ (URL broken, archived by Ops), Tier 2). The family fled Cuba after Castro's revolution — their sugar empire was nationalized. They rebuilt it in Florida and became the state's most politically powerful family. Rubio has received Fanjul family donations throughout his career and has consistently supported the sugar import restrictions and subsidies that protect Florida Crystals from foreign competition (including Cuban sugar). The anti-Cuba political position and the pro-sugar economic position are the same position, funded by the same family.
 
 ### Norman Braman:
 Miami auto dealer Norman Braman was Rubio's major early backer — during the 2010 Senate race and through his career. Braman's support helped establish Rubio as a viable statewide candidate when he was still running against the establishment (Crist) rather than for it. The relationship is personal as well as political; Braman helped fund Rubio's early activities when he was building his political base.
@@ -149,19 +149,19 @@ The Cuba blockade completed the transaction. Trump's January 2026 executive orde
 
 ## Sources
 
-- [FEC Candidate: Marco Rubio career donor industries](https://www.fec.gov/data/candidate/P60006723/) (Tier 1)
-- [FEC Candidate: Marco Rubio campaign finance summary](https://www.fec.gov/data/candidate/P60006723/) (Tier 1)
-- [The Intercept: Rubio follows donor dollars, veers from limited-government dogma](https://theintercept.com/2016/01/31/rubio-donor-dollars/) (Tier 2)
-- [National Review: Marco Rubio's billion-dollar sugar addiction](https://www.nationalreview.com/2015/11/marco-rubio-sugar-subsidy-support-fanjul-brothers/) (Tier 2)
-- [Bloomberg: Sugar Barons Amass $8 Billion Fortune](https://www.bloomberg.com/news/articles/2017-08-09/sugar-barons-amass-8-billion-fortune-by-mastering-u-s-politics) (Tier 2)
-- [ABC News: Rubio Unanimously Confirmed as Secretary of State](https://abcnews.com/Politics/marco-rubio-unanimously-confirmed-secretary-state-becoming-member/story?id=117914119) (Tier 2)
-- [Congress.gov: Rubio Nomination Roll Call](https://www.congress.gov/nomination/119th-congress/11/13) (Tier 1)
-- [NBC News: The many immigration positions of Marco Rubio](https://www.nbcnews.com/politics/2016-election/marco-rubio-s-record-immigration-more-complicated-you-think-n488601) (Tier 2)
-- [NBC News: Rubio — Gang of 8 bill never meant to pass](https://www.nbcnews.com/politics/2016-election/rubio-gang-8-bill-never-intended-become-law-n518936) (Tier 2)
-- [Al Jazeera: Marco Rubio — traditionalist hawk in the age of Trump](https://www.aljazeera.com/features/2025/2/20/marco-rubio-a-traditionalist-hawk-in-the-age-of-trump) (Tier 2)
-- [Foreign Policy: Under Trump and Rubio, U.S. might intervene more in Latin America](https://foreignpolicy.com/2024/11/13/trump-rubio-secretary-state-latin-america-cuba-venezuela/) (Tier 2)
-- [Wikipedia: Marco Rubio](https://en.wikipedia.org/wiki/Marco_Rubio) (Tier 3)
-- [FEC: Marco Rubio contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=rubio,+marco) (Tier 1)
+- [FEC Candidate: Marco Rubio career donor industries](https://www.fec.gov/data/candidate/P60006723/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Marco Rubio campaign finance summary](https://www.fec.gov/data/candidate/P60006723/) (Tier 1) (VERIFIED)
+- [The Intercept: Rubio follows donor dollars, veers from limited-government dogma](https://theintercept.com/2016/01/31/rubio-donor-dollars/) (Tier 2) (VERIFIED)
+- [National Review: Marco Rubio's billion-dollar sugar addiction](https://www.nationalreview.com/2015/11/marco-rubio-sugar-subsidy-support-fanjul-brothers/) (Tier 2) (VERIFIED)
+- ~~[Bloomberg: Sugar Barons Amass $8 Billion Fortune](https://www.bloomberg.com/news/articles/2017-08-09/sugar-barons-amass-8-billion-fortune-by-mastering-u-s-politics)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [ABC News: Rubio Unanimously Confirmed as Secretary of State](https://abcnews.com/Politics/marco-rubio-unanimously-confirmed-secretary-state-becoming-member/story?id=117914119) (Tier 2) (VERIFIED)
+- ~~[Congress.gov: Rubio Nomination Roll Call](https://www.congress.gov/nomination/119th-congress/11/13)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [NBC News: The many immigration positions of Marco Rubio](https://www.nbcnews.com/politics/2016-election/marco-rubio-s-record-immigration-more-complicated-you-think-n488601) (Tier 2) (VERIFIED)
+- ~~[NBC News: Rubio — Gang of 8 bill never meant to pass](https://www.nbcnews.com/politics/2016-election/rubio-gang-8-bill-never-intended-become-law-n518936)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Al Jazeera: Marco Rubio — traditionalist hawk in the age of Trump](https://www.aljazeera.com/features/2025/2/20/marco-rubio-a-traditionalist-hawk-in-the-age-of-trump) (Tier 2) (VERIFIED)
+- [Foreign Policy: Under Trump and Rubio, U.S. might intervene more in Latin America](https://foreignpolicy.com/2024/11/13/trump-rubio-secretary-state-latin-america-cuba-venezuela/) (Tier 2) (VERIFIED)
+- [Wikipedia: Marco Rubio](https://en.wikipedia.org/wiki/Marco_Rubio) (Tier 3) (VERIFIED)
+- [FEC: Marco Rubio contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=rubio,+marco) (Tier 1) (VERIFIED)
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

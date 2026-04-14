@@ -40,7 +40,7 @@ Save America is not a political action committee in any meaningful sense. It is 
 - **Trump 47 Committee**: Joint fundraising vehicle with the RNC for the 2024 campaign. Donations flow to the campaign first, then overflow to Save America once donors hit individual contribution limits.
 - **[[Trump Victory]]**: Joint fundraising with state parties and RNC.
 
-[Source: [FEC: Save America Committee Overview](https://www.fec.gov/data/committee/C00762591/) (Tier 1); [OpenSecrets: Save America PAC Profile 2024](https://www.opensecrets.org/political-action-committees-pacs/save-america/C00762591/summary/2024) (Tier 1)]
+[Source: [FEC: Save America Committee Overview](https://www.fec.gov/data/committee/C00762591/) (Tier 1) (VERIFIED); [OpenSecrets: Save America PAC Profile 2024](https://www.opensecrets.org/political-action-committees-pacs/save-america/C00762591/summary/2024) (Tier 1) (VERIFIED)]
 
 ---
 
@@ -63,7 +63,7 @@ Save America is not a political action committee in any meaningful sense. It is 
 >
 > The committee concluded that Trump raised $250 million on claims he knew were false — making the post-election fundraising operation what the committee called "The Big Rip-Off."
 
-[Source: [NPR: January 6 Panel — Trump Campaign Misled Donors](https://www.npr.org/2022/12/19/1144230127/jan-6-committee-votes-on-criminal-referrals-against-trump) (Tier 2); [Congress.gov: January 6 Committee Final Report — "The Big Rip-Off" (PDF)](https://www.govinfo.gov/content/pkg/GPO-J6-REPORT/pdf/GPO-J6-REPORT-4-3.pdf) (Tier 1); [Rolling Stone: Trump Scammed Supporters Out of $250M](https://www.rollingstone.com/politics/politics-news/trump-fundraising-scam-jan-6-hearing-1367359/) (Tier 2)]
+[Source: [NPR: January 6 Panel — Trump Campaign Misled Donors](https://www.npr.org/2022/12/19/1144230127/jan-6-committee-votes-on-criminal-referrals-against-trump) (Tier 2) (VERIFIED); [Congress.gov: January 6 Committee Final Report — "The Big Rip-Off" (PDF)](https://www.govinfo.gov/content/pkg/GPO-J6-REPORT/pdf/GPO-J6-REPORT-4-3.pdf) (Tier 1) (VERIFIED); [Rolling Stone: Trump Scammed Supporters Out of $250M](https://www.rollingstone.com/politics/politics-news/trump-fundraising-scam-jan-6-hearing-1367359/) (Tier 2) (VERIFIED)]
 
 ---
 
@@ -104,7 +104,7 @@ Save America is not a political action committee in any meaningful sense. It is 
 
 **Cash position:** End of March 2024: approximately $4–5.1 million on hand — severely depleted during the height of Trump's unlawful trials.
 
-[Source: [CBS News: Trump PAC Pays His Legal Bills](https://www.cbsnews.com/news/trump-pac-pays-his-legal-bills-save-america/) (Tier 2); [ABC News: $50M on Legal Bills in 2023](https://abcnews.com/US/trump-spent-50m-pac-super-pac-money-legal/story?id=106843612?id=106843612) (Tier 2); [CNN: Legal Expenses Outstrip Fundraising](https://www.cnn.com/2024/03/20/politics/legal-bills-trump/index.html) (Tier 2); [The Hill: Trump PAC Monthly Legal Spending](https://thehill.com/homenews/campaign/4547289-trump-pac-legal-expenses-fec/) (Tier 2)]
+[Source: [CBS News: Trump PAC Pays His Legal Bills](https://www.cbsnews.com/news/trump-pac-pays-his-legal-bills-save-america/) (Tier 2) (VERIFIED); [ABC News: $50M on Legal Bills in 2023](https://abcnews.com/US/trump-spent-50m-pac-super-pac-money-legal/story?id=106843612?id=106843612) (Tier 2) (VERIFIED); [CNN: Legal Expenses Outstrip Fundraising](https://www.cnn.com/2024/03/20/politics/legal-bills-trump/index.html) (Tier 2) (VERIFIED); ~~[The Hill: Trump PAC Monthly Legal Spending](https://thehill.com/homenews/campaign/4547289-trump-pac-legal-expenses-fec/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)]
 
 ---
 
@@ -149,7 +149,7 @@ The intersection of Save America donations and presidential clemency creates the
 > [!contradiction] $250 Million in Documented Deception, Zero Charges
 > The January 6 Committee documented that Trump raised $250 million on claims of election fraud he knew were false, through a fund that did not exist, using deceptive email tactics (25+ per day, fake forwarded messages, misleading sender lines). Jack Smith investigated the PAC's finances. The FEC received formal complaints. Despite all of this, no criminal charges were ever filed for fundraising fraud. The subpoena was withdrawn. The special counsel resigned. Save America continues to operate. The structural lesson: leadership PACs exist in a legal gray zone where documented deception of donors faces no enforcement mechanism.
 
-[Source: [Campaign Legal Center: FEC Complaint Against Save America (PDF)](https://campaignlegal.org/sites/default/files/2023-05/MUR%208090%20%28Save%20America%29%20Supplemental%20FEC%20Complaint%20and%20Attachment.pdf) (Tier 1); [Campaign Legal Center: Soft Money Ban Violation](https://campaignlegal.org/press-releases/breaking-campaign-legal-center-files-fec-complaint-against-former-president-donald) (Tier 2); [Washington Post: Smith Withdraws Save America Subpoena](https://www.washingtonpost.com/nation/2023/10/17/special-counsel-withdraws-trump-subpoena/) (Tier 2)]
+[Source: [Campaign Legal Center: FEC Complaint Against Save America (PDF)](https://campaignlegal.org/sites/default/files/2023-05/MUR%208090%20%28Save%20America%29%20Supplemental%20FEC%20Complaint%20and%20Attachment.pdf) (Tier 1) (VERIFIED); [Campaign Legal Center: Soft Money Ban Violation](https://campaignlegal.org/press-releases/breaking-campaign-legal-center-files-fec-complaint-against-former-president-donald) (Tier 2) (VERIFIED); [Washington Post: Smith Withdraws Save America Subpoena](https://www.washingtonpost.com/nation/2023/10/17/special-counsel-withdraws-trump-subpoena/) (Tier 2) (VERIFIED)]
 
 ---
 
@@ -194,12 +194,12 @@ Save America represents a structural innovation in American political corruption
 ### FEC Filings & OpenSecrets:
 - [FEC: Save America Committee Overview](https://www.fec.gov/data/committee/C00762591/) (Tier 1)
 - [OpenSecrets: Save America PAC Profile 2024](https://www.opensecrets.org/political-action-committees-pacs/save-america/C00762591/summary/2024) (Tier 1)
-- [FEC: Trump 47 Committee](https://www.fec.gov/data/committee/C00867937/) (Tier 1)
+- [FEC: Trump 47 Committee](https://www.fec.gov/data/committee/C00867937/) (Tier 1) (VERIFIED)
 
 ### January 6 Committee:
 - [Congress.gov: January 6 Committee Final Report — "The Big Rip-Off" (PDF)](https://www.govinfo.gov/content/pkg/GPO-J6-REPORT/pdf/GPO-J6-REPORT-4-3.pdf) (Tier 1)
 - [NPR: January 6 Panel — Trump Campaign Misled Donors](https://www.npr.org/2022/12/19/1144230127/jan-6-committee-votes-on-criminal-referrals-against-trump) (Tier 2)
-- [CBS News: January 6 Committee Hearing on Fundraising](https://www.cbsnews.com/news/january-6-committee-hearing-fundraising-trump-campaign-allies/) (Tier 2)
+- [CBS News: January 6 Committee Hearing on Fundraising](https://www.cbsnews.com/news/january-6-committee-hearing-fundraising-trump-campaign-allies/) (Tier 2) (VERIFIED)
 - [Rolling Stone: Trump Scammed Supporters Out of $250M](https://www.rollingstone.com/politics/politics-news/trump-fundraising-scam-jan-6-hearing-1367359/) (Tier 2)
 
 ### Legal Spending:
@@ -212,12 +212,12 @@ Save America represents a structural innovation in American political corruption
 - [Campaign Legal Center: FEC Complaint Against Save America (PDF)](https://campaignlegal.org/sites/default/files/2023-05/MUR%208090%20%28Save%20America%29%20Supplemental%20FEC%20Complaint%20and%20Attachment.pdf) (Tier 1)
 - [Campaign Legal Center: Soft Money Ban Violation](https://campaignlegal.org/press-releases/breaking-campaign-legal-center-files-fec-complaint-against-former-president-donald) (Tier 2)
 - [Washington Post: Smith Withdraws Save America Subpoena](https://www.washingtonpost.com/nation/2023/10/17/special-counsel-withdraws-trump-subpoena/) (Tier 2)
-- [CNN: Smith Withdraws PAC Subpoena](https://www.cnn.com/2023/10/26/politics/special-counsel-withdraw-subpoena-trump-fundraising/index.html) (Tier 2)
+- [CNN: Smith Withdraws PAC Subpoena](https://www.cnn.com/2023/10/26/politics/special-counsel-withdraw-subpoena-trump-fundraising/index.html) (Tier 2) (VERIFIED)
 
 ### Pardon Economy:
-- [Campaign Legal Center: Foreign Billionaire Pardon Case](https://campaignlegal.org/update/seeking-pardon-foreign-billionaire-allegedly-funneled-millions-trump-super-pac) (Tier 2)
-- [AEI: Trump's Sordid Pardon Economy](https://www.aei.org/op-eds/trumps-sordid-pardon-economy/) (Tier 2)
-- [The Hill: Trump-Pardoned Allies](https://thehill.com/opinion/campaign/4559868-four-trump-pardoned-allies-thank-him-with-action-and-loyalty/) (Tier 2)
+- [Campaign Legal Center: Foreign Billionaire Pardon Case](https://campaignlegal.org/update/seeking-pardon-foreign-billionaire-allegedly-funneled-millions-trump-super-pac) (Tier 2) (VERIFIED)
+- [AEI: Trump's Sordid Pardon Economy](https://www.aei.org/op-eds/trumps-sordid-pardon-economy/) (Tier 2) (VERIFIED)
+- ~~[The Hill: Trump-Pardoned Allies](https://thehill.com/opinion/campaign/4559868-four-trump-pardoned-allies-thank-him-with-action-and-loyalty/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ---
 
@@ -245,5 +245,5 @@ Save America represents a structural innovation in American political corruption
 | IRS Ruling Date | 2024-04-01 |
 | Filings on Record | 0 |
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/933113620) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/933113620) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->

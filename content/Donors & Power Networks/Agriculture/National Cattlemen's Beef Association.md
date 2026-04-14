@@ -357,7 +357,7 @@ Ranchers pay $1/head (mandatory checkoff) → funds flow to NCBA ($45.6M in 2020
 
 **Agencies contacted:** Advisory Council on Historic Preservation (ACHP), Agriculture, Dept of (USDA), American Battle Monuments Commission, Army, Dept of (Corps of Engineers), Bureau of Land Management (BLM), Centers For Disease Control & Prevention (CDC), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Congressional Budget Office (CBO), Consumer Financial Protection Bureau (CFPB) +60 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=National%20Cattlemen's%20Beef%20Association) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=National%20Cattlemen's%20Beef%20Association) (Tier 1) (VERIFIED)
 
 <!-- auto:lda-lobbying pending-merge end -->
 
@@ -475,13 +475,13 @@ Ranchers pay $1/head (mandatory checkoff) → funds flow to NCBA ($45.6M in 2020
 
 **Notable filings:**
 
-- 2026-04-09 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000010938026000060/0000109380-26-000060-index.htm)
-- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000170684326000001/0001706843-26-000001-index.htm)
-- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000201763326000001/0002017633-26-000001-index.htm)
-- 2026-04-01 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000162582426000002/0001625824-26-000002-index.htm)
-- 2026-04-01 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000181702526000001/0001817025-26-000001-index.htm)
+- 2026-04-09 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000010938026000060/0000109380-26-000060-index.htm) (VERIFIED)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000170684326000001/0001706843-26-000001-index.htm) (VERIFIED)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000201763326000001/0002017633-26-000001-index.htm) (VERIFIED)
+- 2026-04-01 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000162582426000002/0001625824-26-000002-index.htm) (VERIFIED)
+- 2026-04-01 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000181702526000001/0001817025-26-000001-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22National%20Cattlemen's%20Beef%20Association%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22National%20Cattlemen's%20Beef%20Association%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Wikipedia
@@ -490,15 +490,15 @@ National Cattlemen's Beef Association (NCBA) is an American trade association an
 
 | Fact | Value |
 |------|-------|
-| Wikidata ID | [Q6971302](https://www.wikidata.org/wiki/Q6971302) |
+| Wikidata ID | [Q6971302](https://www.wikidata.org/wiki/Q6971302) (VERIFIED) |
 | Description | advocate group for the cattle industry's policy positions and economic interests |
 | Founded | 1996-01-01 |
-| Website | [http://www.beefusa.org/](http://www.beefusa.org/) |
-| X/Twitter | [@beefusa](https://x.com/beefusa) |
-| Image | [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/en/thumb/0/05/National_Cattlemans%27_Beef_Association_Logo.JPG/330px-National_Cattlemans%27_Beef_Association_Logo.JPG) |
+| Website | ~~[http://www.beefusa.org/](http://www.beefusa.org/)~~ (URL broken, archived by Ops) |
+| X/Twitter | [@beefusa](https://x.com/beefusa) (VERIFIED) |
+| Image | [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/en/thumb/0/05/National_Cattlemans%27_Beef_Association_Logo.JPG/330px-National_Cattlemans%27_Beef_Association_Logo.JPG) (VERIFIED) |
 
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/National_Cattlemen's_Beef_Association) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q6971302) (Tier 2)
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/National_Cattlemen's_Beef_Association) (Tier 3) (VERIFIED)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q6971302) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
 ### Campaign Finance (FEC)
@@ -523,5 +523,5 @@ National Cattlemen's Beef Association (NCBA) is an American trade association an
 | HUDSON FOR CONGRESS | $10,000 | REP |
 | FRIENDS OF GLENN THOMPSON | $10,000 | REP |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=National%20Cattlemen's%20Beef%20Association) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=National%20Cattlemen's%20Beef%20Association) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->

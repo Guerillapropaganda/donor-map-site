@@ -205,24 +205,24 @@ The Heartland Institute is the most transparent case study in the vault of how t
 
 ### Sources
 
-- [ProPublica Nonprofit Explorer: Heartland Institute (EIN 36-3309812)](https://projects.propublica.org/nonprofits/organizations/363309812) (Tier 1)
-- [InfluenceWatch: Heartland Institute](https://www.influencewatch.org/non-profit/heartland-institute/) (Tier 3)
-- [DeSmog: Heartland Institute](https://www.desmog.com/heartland-institute/) (Tier 2)
-- [Wikipedia: Heartland Institute](https://en.wikipedia.org/wiki/Heartland_Institute) (Tier 3)
-- [Media Bias/Fact Check: Heartland Institute](https://mediabiasfactcheck.com/heartland-institute/) (Tier 3)
-- [The Guardian: Leak exposes how Heartland Institute works to undermine climate science (2012)](https://www.theguardian.com/environment/2012/feb/15/leak-exposes-heartland-institute-climate) (Tier 2)
-- [Heartland Institute: About Us](https://heartland.org/about-us/) (Tier 3)
-- [SourceWatch: Heartland Institute](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Heartland_Institute) (Tier 3)
-- [Inside Climate News: How Big Oil Lost Control of Its Climate Misinformation Machine (2017)](https://insideclimatenews.org/news/22122017/big-oil-heartland-climate-science-misinformation-campaign-koch-api-trump-infographic/) (Tier 2)
-- [Climate Investigations Center: CIC Briefing. Craig Idso, Heartland Institute, NIPCC Climate Denial](https://climateinvestigations.org/cic_briefing_craig_idso_heartland_institute_nipcc_climate_denial/) (Tier 2)
-- [PBS Frontline: In Shift, Key Climate Denialist Group Heartland Institute Pivots to Policy](https://www.pbs.org/wgbh/frontline/article/in-shift-key-climate-denialist-group-heartland-institute-pivots-to-policy/) (Tier 2)
-- [Insurance Journal: Insurance Think Tank Splits from Heartland, Reorganizes as R Street Institute (May 2012)](https://www.insurancejournal.com/news/national/2012/05/30/249244.htm) (Tier 2)
-- [Grist: It Wasn't Just the Billboards. How Activists Brought Down the Heartland Institute (2012)](https://grist.org/climate-skeptics/it-wasnt-just-the-billboards-how-energized-activists-brought-down-the-heartland-institute/) (Tier 2)
-- [Mongabay: Heartland Institute Losing Major Corporate Sponsors After Comparing Climate Advocates to Mass-Murderers (May 2012)](https://news.mongabay.com/2012/05/heartland-institute-losing-major-corporate-sponsors-after-comparing-climate-change-advocates-to-mass-murderers/) (Tier 2)
-- [Inside Climate News: Trump EPA Sued Over Refusal to Release Heartland Institute Communications (March 2018)](https://insideclimatenews.org/news/15032018/epa-documents-foia-heartland-institute-scott-pruitt-red-team-climate-change-denial-lawsuit/) (Tier 2)
-- [EDF: Groups Sue for Information About Heartland Institute's Involvement in EPA Climate Science Decisions (2018)](https://www.edf.org/media/groups-sue-information-about-heartland-institutes-involvement-epa-climate-science-decisions) (Tier 2)
-- [DeSmog: Heartland Institute UK Chief: Group Is Influencing Trump Policy 'at the Highest Level' (Mar 13, 2025)](https://www.desmog.com/2025/03/13/heartland-institute-uk-chief-lois-perry-influencing-trump-policy-at-the-highest-level/) (Tier 2)
-- [DeSmog: Mapped. Pro-Trump Heartland Institute's European Network (Dec 10, 2025)](https://www.desmog.com/2025/12/10/mapped-donald-trump-heartland-institute-european-network/) (Tier 2)
+- [ProPublica Nonprofit Explorer: Heartland Institute (EIN 36-3309812)](https://projects.propublica.org/nonprofits/organizations/363309812) (Tier 1) (VERIFIED)
+- [InfluenceWatch: Heartland Institute](https://www.influencewatch.org/non-profit/heartland-institute/) (Tier 3) (VERIFIED)
+- [DeSmog: Heartland Institute](https://www.desmog.com/heartland-institute/) (Tier 2) (VERIFIED)
+- [Wikipedia: Heartland Institute](https://en.wikipedia.org/wiki/Heartland_Institute) (Tier 3) (VERIFIED)
+- [Media Bias/Fact Check: Heartland Institute](https://mediabiasfactcheck.com/heartland-institute/) (Tier 3) (VERIFIED)
+- [The Guardian: Leak exposes how Heartland Institute works to undermine climate science (2012)](https://www.theguardian.com/environment/2012/feb/15/leak-exposes-heartland-institute-climate) (Tier 2) (VERIFIED)
+- [Heartland Institute: About Us](https://heartland.org/about-us/) (Tier 3) (VERIFIED)
+- ~~[SourceWatch: Heartland Institute](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Heartland_Institute)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [Inside Climate News: How Big Oil Lost Control of Its Climate Misinformation Machine (2017)](https://insideclimatenews.org/news/22122017/big-oil-heartland-climate-science-misinformation-campaign-koch-api-trump-infographic/) (Tier 2) (VERIFIED)
+- [Climate Investigations Center: CIC Briefing. Craig Idso, Heartland Institute, NIPCC Climate Denial](https://climateinvestigations.org/cic_briefing_craig_idso_heartland_institute_nipcc_climate_denial/) (Tier 2) (VERIFIED)
+- [PBS Frontline: In Shift, Key Climate Denialist Group Heartland Institute Pivots to Policy](https://www.pbs.org/wgbh/frontline/article/in-shift-key-climate-denialist-group-heartland-institute-pivots-to-policy/) (Tier 2) (VERIFIED)
+- [Insurance Journal: Insurance Think Tank Splits from Heartland, Reorganizes as R Street Institute (May 2012)](https://www.insurancejournal.com/news/national/2012/05/30/249244.htm) (Tier 2) (VERIFIED)
+- [Grist: It Wasn't Just the Billboards. How Activists Brought Down the Heartland Institute (2012)](https://grist.org/climate-skeptics/it-wasnt-just-the-billboards-how-energized-activists-brought-down-the-heartland-institute/) (Tier 2) (VERIFIED)
+- [Mongabay: Heartland Institute Losing Major Corporate Sponsors After Comparing Climate Advocates to Mass-Murderers (May 2012)](https://news.mongabay.com/2012/05/heartland-institute-losing-major-corporate-sponsors-after-comparing-climate-change-advocates-to-mass-murderers/) (Tier 2) (VERIFIED)
+- [Inside Climate News: Trump EPA Sued Over Refusal to Release Heartland Institute Communications (March 2018)](https://insideclimatenews.org/news/15032018/epa-documents-foia-heartland-institute-scott-pruitt-red-team-climate-change-denial-lawsuit/) (Tier 2) (VERIFIED)
+- [EDF: Groups Sue for Information About Heartland Institute's Involvement in EPA Climate Science Decisions (2018)](https://www.edf.org/media/groups-sue-information-about-heartland-institutes-involvement-epa-climate-science-decisions) (Tier 2) (VERIFIED)
+- [DeSmog: Heartland Institute UK Chief: Group Is Influencing Trump Policy 'at the Highest Level' (Mar 13, 2025)](https://www.desmog.com/2025/03/13/heartland-institute-uk-chief-lois-perry-influencing-trump-policy-at-the-highest-level/) (Tier 2) (VERIFIED)
+- [DeSmog: Mapped. Pro-Trump Heartland Institute's European Network (Dec 10, 2025)](https://www.desmog.com/2025/12/10/mapped-donald-trump-heartland-institute-european-network/) (Tier 2) (VERIFIED)
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->
@@ -239,21 +239,21 @@ The Heartland Institute is the most transparent case study in the vault of how t
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/363309812/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/363309812/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/363309812/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/363309812/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/363309812/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/363309812/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/363309812/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/363309812/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/363309812/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/363309812/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/363309812) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/363309812) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [549300WPNE39YXMINQ56](https://search.gleif.org/#/record/549300WPNE39YXMINQ56) |
+| LEI | [549300WPNE39YXMINQ56](https://search.gleif.org/#/record/549300WPNE39YXMINQ56) (VERIFIED) |
 | Legal Name | HEARTLAND WHOLE HEALTH INSTITUTE |
 | Jurisdiction | US-DE |
 | Entity Status | ACTIVE |
@@ -261,7 +261,7 @@ The Heartland Institute is the most transparent case study in the vault of how t
 | Registration | ISSUED |
 | Last Updated | 2026-03-12T17:21:35Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Federal Register Activity
@@ -274,12 +274,12 @@ The Heartland Institute is the most transparent case study in the vault of how t
 | Agencies | Commerce Department, Energy Department, Federal Energy Regulatory Commission, National Oceanic and Atmospheric Administration |
 
 **Recent regulatory activity:**
-- [Energy Conservation Program: Energy Conservation Standards for Dishwashers](https://www.federalregister.gov/documents/2024/04/24/2024-08212/energy-conservation-program-energy-conservation-standards-for-dishwashers) (2024-04-24) — Energy Department
-- [Energy Conservation Program: Energy Conservation Standards for Consumer Conventional Cooking Products](https://www.federalregister.gov/documents/2024/02/14/2024-02008/energy-conservation-program-energy-conservation-standards-for-consumer-conventional-cooking-products) (2024-02-14) — Energy Department
-- [Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to the Coastal Virginia Offshore Wind Commercial Project Offshore of Virginia](https://www.federalregister.gov/documents/2024/01/23/2024-00297/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to-the) (2024-01-23) — Commerce Department
-- [Energy Conservation Program: Energy Conservation Standards for Consumer Furnaces](https://www.federalregister.gov/documents/2023/12/18/2023-25514/energy-conservation-program-energy-conservation-standards-for-consumer-furnaces) (2023-12-18) — Energy Department
-- [Carbon Pricing in Organized Wholesale Electricity Markets](https://www.federalregister.gov/documents/2021/04/23/2021-08218/carbon-pricing-in-organized-wholesale-electricity-markets) (2021-04-23) — Energy Department
-- [Energy Conservation Program: Energy Conservation Standards for General Service Incandescent Lamps](https://www.federalregister.gov/documents/2019/12/27/2019-27515/energy-conservation-program-energy-conservation-standards-for-general-service-incandescent-lamps) (2019-12-27) — Energy Department ★
+- [Energy Conservation Program: Energy Conservation Standards for Dishwashers](https://www.federalregister.gov/documents/2024/04/24/2024-08212/energy-conservation-program-energy-conservation-standards-for-dishwashers) (VERIFIED) (2024-04-24) — Energy Department
+- [Energy Conservation Program: Energy Conservation Standards for Consumer Conventional Cooking Products](https://www.federalregister.gov/documents/2024/02/14/2024-02008/energy-conservation-program-energy-conservation-standards-for-consumer-conventional-cooking-products) (VERIFIED) (2024-02-14) — Energy Department
+- [Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to the Coastal Virginia Offshore Wind Commercial Project Offshore of Virginia](https://www.federalregister.gov/documents/2024/01/23/2024-00297/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to-the) (VERIFIED) (2024-01-23) — Commerce Department
+- ~~[Energy Conservation Program: Energy Conservation Standards for Consumer Furnaces](https://www.federalregister.gov/documents/2023/12/18/2023-25514/energy-conservation-program-energy-conservation-standards-for-consumer-furnaces)~~ (URL broken, archived by Ops) (2023-12-18) — Energy Department
+- [Carbon Pricing in Organized Wholesale Electricity Markets](https://www.federalregister.gov/documents/2021/04/23/2021-08218/carbon-pricing-in-organized-wholesale-electricity-markets) (VERIFIED) (2021-04-23) — Energy Department
+- [Energy Conservation Program: Energy Conservation Standards for General Service Incandescent Lamps](https://www.federalregister.gov/documents/2019/12/27/2019-27515/energy-conservation-program-energy-conservation-standards-for-general-service-incandescent-lamps) (VERIFIED) (2019-12-27) — Energy Department ★
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Heartland%20Institute%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Heartland%20Institute%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->

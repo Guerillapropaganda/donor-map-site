@@ -40,11 +40,11 @@ Automated scan for unreported donor-to-policy connections. All source URLs Chrom
 - [[Microsoft]], ballroom donor + federal contract dominance
 
 ### Lead sources (all Chrome-verified VALID):
-- [OpenSecrets: Trump ballroom donors poised to benefit from AI plan they helped shape](https://www.opensecrets.org/news/2026/01/trump-ballroom-donors-poised-to-benefit-from-ai-plan-they-helped-shape/) (Tier 1)
-- [Warren.senate.gov: Warren, Min release new details on Trump ballroom donations](https://www.warren.senate.gov/newsroom/press-releases/warren-min-release-new-details-on-trump-ballroom-donations-by-giant-corporations-with-business-in-front-of-trump-admin) (Tier 1)
-- [Warren.senate.gov: Warren, Garcia introduce Stop Ballroom Bribery Act](https://www.warren.senate.gov/newsroom/press-releases/warren-garcia-introduce-new-bill-to-stop-apparent-bribery-involving-trump-ballroom-donations) (Tier 1)
-- [Common Dreams: Report details massive federal contracts against ballroom donors](https://www.commondreams.org/news/trump-ballroom-funding) (Tier 3)
-- [Healthcare Dive: Trump CMS dramatically raises Medicare Advantage payments](https://www.healthcaredive.com/news/medicare-advantage-2026-payment-rates-trump-humana-unitedhealth/744682/) (Tier 2)
+- [OpenSecrets: Trump ballroom donors poised to benefit from AI plan they helped shape](https://www.opensecrets.org/news/2026/01/trump-ballroom-donors-poised-to-benefit-from-ai-plan-they-helped-shape/) (Tier 1) (VERIFIED)
+- [Warren.senate.gov: Warren, Min release new details on Trump ballroom donations](https://www.warren.senate.gov/newsroom/press-releases/warren-min-release-new-details-on-trump-ballroom-donations-by-giant-corporations-with-business-in-front-of-trump-admin) (Tier 1) (VERIFIED)
+- [Warren.senate.gov: Warren, Garcia introduce Stop Ballroom Bribery Act](https://www.warren.senate.gov/newsroom/press-releases/warren-garcia-introduce-new-bill-to-stop-apparent-bribery-involving-trump-ballroom-donations) (Tier 1) (VERIFIED)
+- [Common Dreams: Report details massive federal contracts against ballroom donors](https://www.commondreams.org/news/trump-ballroom-funding) (Tier 3) (VERIFIED)
+- [Healthcare Dive: Trump CMS dramatically raises Medicare Advantage payments](https://www.healthcaredive.com/news/medicare-advantage-2026-payment-rates-trump-humana-unitedhealth/744682/) (Tier 2) (VERIFIED)
 
 **Recommended vault action:** This story is the spine of the entire vault's thesis. Warrants a dedicated sub-note under Trump's master profile: `The White House Ballroom Pay-to-Play Pipeline.md`. Also warrants donor node updates for each named corporation. May anchor a **Contradiction Deep Dive**: corporations publicly oppose bribery while paying into the most documented bribery vehicle in recent memory.
 
@@ -66,7 +66,7 @@ Automated scan for unreported donor-to-policy connections. All source URLs Chrom
 - Winklevoss / Gemini node (may need creation in `Donors & Power Networks/Tech & Crypto/`)
 
 ### Lead sources (all Chrome-verified VALID):
-- [TechCrunch: SEC drops lawsuit against Winklevoss twins' Gemini crypto exchange](https://techcrunch.com/2026/01/24/sec-drops-lawsuit-against-winklevoss-twins-gemini-crypto-exchange/) (Tier 2)
+- [TechCrunch: SEC drops lawsuit against Winklevoss twins' Gemini crypto exchange](https://techcrunch.com/2026/01/24/sec-drops-lawsuit-against-winklevoss-twins-gemini-crypto-exchange/) (Tier 2) (VERIFIED)
 
 **Note:** Search results referenced Yahoo Finance and Americans for Financial Reform as corroborating sources. URLs need individual Chrome verification before vault use. Mark as `(UNVERIFIED)` if added.
 
@@ -87,7 +87,7 @@ Automated scan for unreported donor-to-policy connections. All source URLs Chrom
 - Google donor node (if exists in `Donors & Power Networks/Tech & Crypto/`)
 
 ### Lead sources (all Chrome-verified VALID):
-- [The Hill: Senate Democrats press Google, YouTube on Trump settlement](https://thehill.com/policy/technology/5557463-google-youtube-trump-lawsuit-democrats/) (Tier 2)
+- ~~[The Hill: Senate Democrats press Google, YouTube on Trump settlement](https://thehill.com/policy/technology/5557463-google-youtube-trump-lawsuit-democrats/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 **Note:** TechTarget (Google breakup off table) and CNBC (antitrust remedies) cited in search results. URLs need Chrome verification before use.
 
@@ -108,8 +108,8 @@ Automated scan for unreported donor-to-policy connections. All source URLs Chrom
 - Elon Musk / Tesla / SpaceX node (if exists in `Donors & Power Networks/Tech & Crypto/`)
 
 ### Lead sources (all Chrome-verified VALID):
-- [Campaign Legal Center: Elon Musk has grown even wealthier through serving in Trump's administration](https://campaignlegal.org/update/elon-musk-has-grown-even-wealthier-through-serving-trumps-administration) (Tier 2)
-- [The Hill: Palantir courts major federal contracts and controversy in Trump era](https://thehill.com/policy/technology/5667232-palantir-trump-administration-surveillance/) (Tier 2)
+- [Campaign Legal Center: Elon Musk has grown even wealthier through serving in Trump's administration](https://campaignlegal.org/update/elon-musk-has-grown-even-wealthier-through-serving-trumps-administration) (Tier 2) (VERIFIED)
+- ~~[The Hill: Palantir courts major federal contracts and controversy in Trump era](https://thehill.com/policy/technology/5667232-palantir-trump-administration-surveillance/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 **Note:** Washington Post ($38B figure) and ABC News cited in results. URLs need Chrome verification before vault use.
 
@@ -128,7 +128,7 @@ Automated scan for unreported donor-to-policy connections. All source URLs Chrom
 - `topics/Stories/Published/2026 House Races/`, all files benefit from this context
 
 ### Lead sources (all Chrome-verified VALID):
-- [OpenSecrets: Political ad spending projected to reach new high in 2026 midterms](https://www.opensecrets.org/news/2026/01/political-ad-spending-is-projected-to-reach-a-new-high-in-2026-midterms/) (Tier 1)
+- [OpenSecrets: Political ad spending projected to reach new high in 2026 midterms](https://www.opensecrets.org/news/2026/01/political-ad-spending-is-projected-to-reach-a-new-high-in-2026-midterms/) (Tier 1) (VERIFIED)
 
 **Recommended vault action:** Cite in intro sections of 2026 race analysis files. May anchor a standalone story: `The $10.8 Billion Midterm. Who's Buying the 2026 Congress.md`
 
@@ -164,7 +164,7 @@ Automated scan for unreported donor-to-policy connections. All source URLs Chrom
 - Warren sub-notes on financial regulation
 
 ### Lead source:
-- [CNN: Elizabeth Warren says Democrats hoping to win in 2026 need to 'read the room'](https://www.cnn.com/2026/01/12/politics/elizabeth-warren-democrats-affordability) (Tier 2). URL needs Chrome verification before vault use
+- [CNN: Elizabeth Warren says Democrats hoping to win in 2026 need to 'read the room'](https://www.cnn.com/2026/01/12/politics/elizabeth-warren-democrats-affordability) (Tier 2) (VERIFIED). URL needs Chrome verification before vault use
 
 **Recommended vault action:** Add to Warren profile as rhetorical signature data point. Flag **Two-Audience Problem** pattern.
 

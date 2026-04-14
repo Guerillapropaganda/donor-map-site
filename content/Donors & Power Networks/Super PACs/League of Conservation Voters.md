@@ -140,20 +140,20 @@ LCV occupies an unusual position in the donor-class framework: it's a mass-membe
 
 ### Sources
 
-- [LCV: Homepage](https://www.lcv.org) (Tier 3)
-- [LCV: 2025 Impact Report](https://www.lcv.org/2025-impact-report/) (Tier 3)
-- [LCV: Endorsements](https://www.lcv.org/endorsements/) (Tier 3)
-- [LCV: National Environmental Scorecard](https://www.lcv.org/topic/scorecard/) (Tier 3)
-- [Wikipedia: League of Conservation Voters](https://en.wikipedia.org/wiki/League_of_Conservation_Voters) (Tier 4)
-- [Ballotpedia: LCV](https://ballotpedia.org/League_of_Conservation_Voters) (Tier 3)
-- [CauseIQ: LCV financial data](https://www.causeiq.com/organizations/league-of-conservation-voters,521733698/) (Tier 2)
-- [OpenSecrets: LCV recipients](https://www.opensecrets.org/orgs/league-of-conservation-voters/recipients?id=D000000288) (Tier 1)
-- [OpenSecrets: LCV summary](https://www.opensecrets.org/orgs/league-of-conservation-voters/summary?id=d000000288) (Tier 1)
-- [OpenSecrets: LCV totals](https://www.opensecrets.org/orgs/league-of-conservation-voters/totals?id=d000000288) (Tier 1)
-- [OpenLobby: LCV lobbying](https://www.openlobby.us/clients/league-of-conservation-voters) (Tier 2)
-- [Senate LDA Filings: LCV lobbying](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Center for Public Integrity: LCV nonprofit profile](https://publicintegrity.org/politics/nonprofit-profile-league-of-conservation-voters-inc/) (Tier 2)
-- [Fox News: LCV dark money funding](https://www.foxnews.com/politics/major-eco-group-saw-large-funding-uptick-fueled-liberal-dark-money-network-best-year-ever) (Tier 3)
+- [LCV: Homepage](https://www.lcv.org) (Tier 3) (VERIFIED)
+- [LCV: 2025 Impact Report](https://www.lcv.org/2025-impact-report/) (Tier 3) (VERIFIED)
+- [LCV: Endorsements](https://www.lcv.org/endorsements/) (Tier 3) (VERIFIED)
+- [LCV: National Environmental Scorecard](https://www.lcv.org/topic/scorecard/) (Tier 3) (VERIFIED)
+- [Wikipedia: League of Conservation Voters](https://en.wikipedia.org/wiki/League_of_Conservation_Voters) (Tier 4) (VERIFIED)
+- [Ballotpedia: LCV](https://ballotpedia.org/League_of_Conservation_Voters) (Tier 3) (VERIFIED)
+- [CauseIQ: LCV financial data](https://www.causeiq.com/organizations/league-of-conservation-voters,521733698/) (Tier 2) (VERIFIED)
+- [OpenSecrets: LCV recipients](https://www.opensecrets.org/orgs/league-of-conservation-voters/recipients?id=D000000288) (Tier 1) (VERIFIED)
+- [OpenSecrets: LCV summary](https://www.opensecrets.org/orgs/league-of-conservation-voters/summary?id=d000000288) (Tier 1) (VERIFIED)
+- [OpenSecrets: LCV totals](https://www.opensecrets.org/orgs/league-of-conservation-voters/totals?id=d000000288) (Tier 1) (VERIFIED)
+- [OpenLobby: LCV lobbying](https://www.openlobby.us/clients/league-of-conservation-voters) (Tier 2) (VERIFIED)
+- [Senate LDA Filings: LCV lobbying](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Center for Public Integrity: LCV nonprofit profile](https://publicintegrity.org/politics/nonprofit-profile-league-of-conservation-voters-inc/) (Tier 2) (VERIFIED)
+- [Fox News: LCV dark money funding](https://www.foxnews.com/politics/major-eco-group-saw-large-funding-uptick-fueled-liberal-dark-money-network-best-year-ever) (Tier 3) (VERIFIED)
 
 ---
 
@@ -187,7 +187,7 @@ LCV occupies an unusual position in the donor-class framework: it's a mass-membe
 - Renew Northeast v. United States Department of the Interior (2025) — District Court, D. Massachusetts
 - Natural Resources Defense Council, Inc. v. New Jersey Department of Environmental Protection (2025) — Court of Appeals for the Second Circuit
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22League%20of%20Conservation%20Voters%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22League%20of%20Conservation%20Voters%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Tax Filings (IRS 990)
@@ -205,14 +205,14 @@ LCV occupies an unusual position in the donor-class framework: it's a mass-membe
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/521733698/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/521733698/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/521733698/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/521733698/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/521733698/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/521733698/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/521733698/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/521733698/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/521733698/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/521733698/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/521733698) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/521733698) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -227,7 +227,7 @@ LCV occupies an unusual position in the donor-class framework: it's a mass-membe
 | Net Assets | $22.6M |
 | Officer Compensation | $388K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 521733698](https://projects.propublica.org/nonprofits/organizations/521733698) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 521733698](https://projects.propublica.org/nonprofits/organizations/521733698) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Federal Register Activity
@@ -241,15 +241,15 @@ LCV occupies an unusual position in the donor-class framework: it's a mass-membe
 | Agencies | Energy Department, Environmental Protection Agency, Federal Election Commission, Federal Energy Regulatory Commission, Fish and Wildlife Service, Interior Department, National Park Service, Presidio Trust |
 
 **Recent regulatory activity:**
-- [Building for the Future Through Electric Regional Transmission Planning and Cost Allocation](https://www.federalregister.gov/documents/2024/06/11/2024-10872/building-for-the-future-through-electric-regional-transmission-planning-and-cost-allocation) (2024-06-11) — Energy Department
-- [Transcontinental Gas Pipe Line Company, LLC; Notice Granting Interventions](https://www.federalregister.gov/documents/2022/09/13/2022-19722/transcontinental-gas-pipe-line-company-llc-notice-granting-interventions) (2022-09-13) — Energy Department
-- [Consideration of Greenhouse Gas Emissions in Natural Gas Infrastructure Project Reviews](https://www.federalregister.gov/documents/2022/03/11/2022-04536/consideration-of-greenhouse-gas-emissions-in-natural-gas-infrastructure-project-reviews) (2022-03-11) — Energy Department
-- [Certification of New Interstate Natural Gas Facilities](https://www.federalregister.gov/documents/2022/03/01/2022-04148/certification-of-new-interstate-natural-gas-facilities) (2022-03-01) — Energy Department
-- [Endangered and Threatened Wildlife and Plants; Endangered Species Status for Rusty Patched Bumble Bee](https://www.federalregister.gov/documents/2017/01/11/2017-00195/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-rusty-patched-bumble-bee) (2017-01-11) — Interior Department
-- [Control of Emissions From New Marine Compression-Ignition Engines at or Above 30 Liters per Cylinder](https://www.federalregister.gov/documents/2010/04/30/2010-2534/control-of-emissions-from-new-marine-compression-ignition-engines-at-or-above-30-liters-per-cylinder) (2010-04-30) — Environmental Protection Agency ★
+- [Building for the Future Through Electric Regional Transmission Planning and Cost Allocation](https://www.federalregister.gov/documents/2024/06/11/2024-10872/building-for-the-future-through-electric-regional-transmission-planning-and-cost-allocation) (VERIFIED) (2024-06-11) — Energy Department
+- [Transcontinental Gas Pipe Line Company, LLC; Notice Granting Interventions](https://www.federalregister.gov/documents/2022/09/13/2022-19722/transcontinental-gas-pipe-line-company-llc-notice-granting-interventions) (VERIFIED) (2022-09-13) — Energy Department
+- [Consideration of Greenhouse Gas Emissions in Natural Gas Infrastructure Project Reviews](https://www.federalregister.gov/documents/2022/03/11/2022-04536/consideration-of-greenhouse-gas-emissions-in-natural-gas-infrastructure-project-reviews) (VERIFIED) (2022-03-11) — Energy Department
+- [Certification of New Interstate Natural Gas Facilities](https://www.federalregister.gov/documents/2022/03/01/2022-04148/certification-of-new-interstate-natural-gas-facilities) (VERIFIED) (2022-03-01) — Energy Department
+- [Endangered and Threatened Wildlife and Plants; Endangered Species Status for Rusty Patched Bumble Bee](https://www.federalregister.gov/documents/2017/01/11/2017-00195/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-rusty-patched-bumble-bee) (VERIFIED) (2017-01-11) — Interior Department
+- [Control of Emissions From New Marine Compression-Ignition Engines at or Above 30 Liters per Cylinder](https://www.federalregister.gov/documents/2010/04/30/2010-2534/control-of-emissions-from-new-marine-compression-ignition-engines-at-or-above-30-liters-per-cylinder) (VERIFIED) (2010-04-30) — Environmental Protection Agency ★
 - ... and 5 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22League%20of%20Conservation%20Voters%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22League%20of%20Conservation%20Voters%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### SEC Filing Activity
@@ -267,7 +267,7 @@ LCV occupies an unusual position in the donor-class framework: it's a mass-membe
 - 2006-10-04 — **8-K**: 8-K
 - 2017-05-19 — **EX-99.1**: EXHIBIT 99.1
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22League%20of%20Conservation%20Voters%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22League%20of%20Conservation%20Voters%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Lobbying Activity
@@ -286,7 +286,7 @@ LCV occupies an unusual position in the donor-class framework: it's a mass-membe
 
 **Agencies contacted:** Agriculture, Dept of (USDA), Army, Dept of (Corps of Engineers), Bureau of Alcohol Tobacco Firearms & Explosives, Bureau of Citizenship & Immigration Services (BCIS), Bureau of Land Management (BLM), Bureau of the Census, Centers For Disease Control & Prevention (CDC), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Commodity Futures Trading Commission (CFTC) +39 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=League%20of%20Conservation%20Voters) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=League%20of%20Conservation%20Voters) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

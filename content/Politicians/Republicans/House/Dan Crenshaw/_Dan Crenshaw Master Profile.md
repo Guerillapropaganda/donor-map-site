@@ -203,15 +203,15 @@ Crenshaw's 2026 primary loss is the rare case where the donor class lost. Energy
 
 ## Sources
 
-- [FEC Candidate: Dan Crenshaw campaign finance summary](https://www.fec.gov/data/candidate/H8TX02166/) (Tier 1)
-- [FEC Candidate: Dan Crenshaw career industry totals](https://www.fec.gov/data/candidate/H8TX02166/) (Tier 1)
-- [Congress.gov: Dan Crenshaw member profile](https://www.congress.gov/member/dan-crenshaw/C001120) (Tier 1)
-- [Ballotpedia: Dan Crenshaw](https://ballotpedia.org/Daniel_Crenshaw) (Tier 3)
-- [Texas Tribune: Steve Toth unseats Dan Crenshaw in GOP primary](https://www.texastribune.org/2026/03/03/texas-dan-crenshaw-steve-toth-republican-primary/) (Tier 2)
-- [Texas Tribune: Crenshaw blames primary loss on clickbait misinformation](https://www.texastribune.org/2026/03/06/dan-crenshaw-primary-loss-steve-toth-texas-2nd-congressional-district/) (Tier 2)
-- [The Daily Beast: Crenshaw bought stocks during COVID and failed to disclose](https://www.thedailybeast.com/texas-rep-dan-crenshaw-decided-the-covid-19-pandemic-was-the-perfect-time-to-buy-and-not-disclose-stocks/) (Tier 2)
-- [Newsweek: Crenshaw slams congressional stock trading ban proposal](https://www.newsweek.com/dan-crenshaw-slams-congressional-stock-trading-ban-1992404) (Tier 2)
-- [FEC: Dan Crenshaw for Congress committee overview](https://www.fec.gov/data/committee/C00660795/) (Tier 1)
+- [FEC Candidate: Dan Crenshaw campaign finance summary](https://www.fec.gov/data/candidate/H8TX02166/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Dan Crenshaw career industry totals](https://www.fec.gov/data/candidate/H8TX02166/) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: Dan Crenshaw member profile](https://www.congress.gov/member/dan-crenshaw/C001120)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Ballotpedia: Dan Crenshaw](https://ballotpedia.org/Daniel_Crenshaw) (Tier 3) (VERIFIED)
+- [Texas Tribune: Steve Toth unseats Dan Crenshaw in GOP primary](https://www.texastribune.org/2026/03/03/texas-dan-crenshaw-steve-toth-republican-primary/) (Tier 2) (VERIFIED)
+- [Texas Tribune: Crenshaw blames primary loss on clickbait misinformation](https://www.texastribune.org/2026/03/06/dan-crenshaw-primary-loss-steve-toth-texas-2nd-congressional-district/) (Tier 2) (VERIFIED)
+- [The Daily Beast: Crenshaw bought stocks during COVID and failed to disclose](https://www.thedailybeast.com/texas-rep-dan-crenshaw-decided-the-covid-19-pandemic-was-the-perfect-time-to-buy-and-not-disclose-stocks/) (Tier 2) (VERIFIED)
+- [Newsweek: Crenshaw slams congressional stock trading ban proposal](https://www.newsweek.com/dan-crenshaw-slams-congressional-stock-trading-ban-1992404) (Tier 2) (VERIFIED)
+- [FEC: Dan Crenshaw for Congress committee overview](https://www.fec.gov/data/committee/C00660795/) (Tier 1) (VERIFIED)
 
 ---
 
@@ -251,7 +251,7 @@ party:: Republican
 | ALAMO FREEDOM FIGHTERS PAC | $0 | $684,078 |
 | AMERICAN PATRIOTS PAC | $535,502 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8TX02166/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8TX02166/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Influence Network (Cross-Reference)
@@ -291,7 +291,7 @@ party:: Republican
 - Health
 - Oversight and Investigations
 
-- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 ### Legislative Activity (Congress.gov)
@@ -320,12 +320,12 @@ party:: Republican
 | 3859 | Returning Illegals over Turmoil Act | Referred to the House Committee on the Judiciary. |
 | 3756 | FISH Act of 2025 | Subcommittee Hearings Held |
 
-- [Source: Congress.gov](https://www.congress.gov/member/C001120) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001120)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Dan Crenshaw](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: Dan Crenshaw](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->

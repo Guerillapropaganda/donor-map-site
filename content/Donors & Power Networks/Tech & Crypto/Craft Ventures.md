@@ -45,7 +45,7 @@ David Sacks exemplifies the revolving door in its purest form: a venture capital
 
 ### Sources
 
-- [OpenSecrets: David Sacks Political Contributions](https://www.opensecrets.org/orgs/craft-ventures/summary?id=D000096541) (Tier 1)
+- [OpenSecrets: David Sacks Political Contributions](https://www.opensecrets.org/orgs/craft-ventures/summary?id=D000096541) (Tier 1) (VERIFIED)
 
 ---
 
@@ -64,7 +64,7 @@ David Sacks exemplifies the revolving door in its purest form: a venture capital
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Craft%20Ventures) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Craft%20Ventures) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Lobbying Activity
@@ -83,7 +83,7 @@ David Sacks exemplifies the revolving door in its purest form: a venture capital
 
 **Agencies contacted:** Alcohol & Tobacco Tax & Trade Bureau (TTB), HOUSE OF REPRESENTATIVES, Natl Security Council (NSC), SENATE, Transportation, Dept of (DOT), Treasury, Dept of
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Craft%20Ventures) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Craft%20Ventures) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

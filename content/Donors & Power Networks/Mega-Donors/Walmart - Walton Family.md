@@ -35,7 +35,7 @@ Walmart Inc. and the Walton Family. The world's largest company by revenue ($648
 
 Walmart PAC contributes $3-5 million per cycle, the company spends $7-10 million annually on lobbying, and Walton family members contribute millions individually — primarily to Republican candidates and school choice organizations (Walton Family Foundation is the largest funder of charter schools in America). Walmart's political operation spans every level of government: federal, state, and local, with particular intensity in Arkansas and states where Walmart has distribution centers.
 
-- [OpenSecrets: Walmart organizational profile](https://www.opensecrets.org/orgs/walmart-inc/summary?id=D000000367) (Tier 1)
+- [OpenSecrets: Walmart organizational profile](https://www.opensecrets.org/orgs/walmart-inc/summary?id=D000000367) (Tier 1) (VERIFIED)
 
 ---
 
@@ -59,10 +59,10 @@ Opposition to minimum wage increases (Walmart's wage floor has risen through mar
 ### Sources
 
 - [OpenSecrets: Walmart organizational profile](https://www.opensecrets.org/orgs/walmart-inc/summary?id=D000000367) (Tier 1)
-- [GAO: Federal assistance programs and large employers](https://www.gao.gov/products/gao-21-45) (Tier 1)
-- [USDA: SNAP retailer data](https://www.fns.usda.gov/snap/retailer-data) (Tier 1)
-- [Bloomberg: Walton family wealth tracker](https://www.bloomberg.com/billionaires/) (Tier 2)
-- [Ballotpedia: Walmart](https://ballotpedia.org/Walmart) (Tier 3)
+- [GAO: Federal assistance programs and large employers](https://www.gao.gov/products/gao-21-45) (Tier 1) (VERIFIED)
+- ~~[USDA: SNAP retailer data](https://www.fns.usda.gov/snap/retailer-data)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Bloomberg: Walton family wealth tracker](https://www.bloomberg.com/billionaires/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Ballotpedia: Walmart](https://ballotpedia.org/Walmart) (Tier 3) (VERIFIED)
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->
@@ -79,14 +79,14 @@ Opposition to minimum wage increases (Walmart's wage floor has risen through mar
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/472066714/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/472066714/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/472066714/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/472066714/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/472066714/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/472066714/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/472066714/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/472066714/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/472066714/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/472066714/2019)~~ (URL broken, archived by Ops)
 - ... and 2 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/472066714) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/472066714) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### DOJ Press Releases

@@ -207,48 +207,48 @@ Patterns present: **Donor-Class Override** (platform moderation policies reject 
 ### Sources
 
 ### Primary Documents (Tier 1. SEC Filings, Government Records):
-- [SEC EDGAR: Rumble 10-K 2024 Filing](https://www.sec.gov/Archives/edgar/data/1830081/000101376225001863/ea0234307-10k_rumble.htm) (Tier 1)
-- [Rumble Q4 & Full Year 2025 Results](https://corp.rumble.com/blog/rumble-reports-fourth-quarter-and-full-year-2025-results/) (Tier 1)
-- [Rumble Q1 2025 Earnings](https://corp.rumble.com/blog/rumble-reports-first-quarter-2025-results/) (Tier 1)
-- [Tether $775M Investment Press Release](https://tether.io/news/tether-announces-775-million-strategic-investment-in-rumble-to-boost-decentralized-and-community-owned-media-platforms/) (Tier 1)
-- [Rumble SPAC Merger Announcement](https://www.cantor.com/cf-acquisition-corp-vi-announces-stockholder-approval-of-the-proposed-combination-with-rumble-inc/) (Tier 1)
-- [White House Official Rumble Channel Announcement](https://corp.rumble.com/blog/white-house-establishes-official-channel-on-rumble/) (Tier 1)
-- [Rumble-Truth Social Infrastructure Deal](https://www.foxbusiness.com/politics/trumps-media-company-to-partner-with-rumble) (Tier 2)
-- [El Salvador Government Cloud Services Contract](https://corp.rumble.com/blog/rumble-announces-cloud-agreement-with-government-of-el-salvador/) (Tier 1)
+- [SEC EDGAR: Rumble 10-K 2024 Filing](https://www.sec.gov/Archives/edgar/data/1830081/000101376225001863/ea0234307-10k_rumble.htm) (Tier 1) (VERIFIED)
+- [Rumble Q4 & Full Year 2025 Results](https://corp.rumble.com/blog/rumble-reports-fourth-quarter-and-full-year-2025-results/) (Tier 1) (VERIFIED)
+- [Rumble Q1 2025 Earnings](https://corp.rumble.com/blog/rumble-reports-first-quarter-2025-results/) (Tier 1) (VERIFIED)
+- [Tether $775M Investment Press Release](https://tether.io/news/tether-announces-775-million-strategic-investment-in-rumble-to-boost-decentralized-and-community-owned-media-platforms/) (Tier 1) (VERIFIED)
+- [Rumble SPAC Merger Announcement](https://www.cantor.com/cf-acquisition-corp-vi-announces-stockholder-approval-of-the-proposed-combination-with-rumble-inc/) (Tier 1) (VERIFIED)
+- [White House Official Rumble Channel Announcement](https://corp.rumble.com/blog/white-house-establishes-official-channel-on-rumble/) (Tier 1) (VERIFIED)
+- [Rumble-Truth Social Infrastructure Deal](https://www.foxbusiness.com/politics/trumps-media-company-to-partner-with-rumble) (Tier 2) (VERIFIED)
+- [El Salvador Government Cloud Services Contract](https://corp.rumble.com/blog/rumble-announces-cloud-agreement-with-government-of-el-salvador/) (Tier 1) (VERIFIED)
 
 ### Venture Capital & Political Investor (Tier 2. Major Investigative Journalism & Bloomberg/Forbes):
-- [PR Newswire: Narya and Peter Thiel Lead Investment in Rumble](https://www.prnewswire.com/news-releases/narya-and-peter-thiel-lead-investment-in-rumble-301295309.html) (Tier 2)
-- [Business Insider: Startups JD Vance is invested in](https://www.businessinsider.com/startups-jd-vance-invested-in-venture-capital-narya-peter-thiel-2024-11) (Tier 2)
-- [Forbes: Why the founder of Rumble is now a billionaire](https://www.forbes.com/sites/kylemullins/2025/01/06/why-the-founder-of-the-right-wing-video-platform-rumble-is-now-a-billionaire/) (Tier 2)
-- [Forbes: Dan Bongino Rumble stake and FBI nomination](https://www.forbes.com/sites/kylemullins/2025/02/25/former-secret-service-agent-turned-deputy-fbi-director-is-already-very-rich/) (Tier 2)
-- [Forbes: Rumble is finally relevant but running out of cash](https://www.forbes.com/sites/kylemullins/2024/12/20/the-jd-vance-backed-youtube-clone-rumble-is-finally-relevant-but-its-running-out-of-cash/) (Tier 2)
+- [PR Newswire: Narya and Peter Thiel Lead Investment in Rumble](https://www.prnewswire.com/news-releases/narya-and-peter-thiel-lead-investment-in-rumble-301295309.html) (Tier 2) (VERIFIED)
+- [Business Insider: Startups JD Vance is invested in](https://www.businessinsider.com/startups-jd-vance-invested-in-venture-capital-narya-peter-thiel-2024-11) (Tier 2) (VERIFIED)
+- ~~[Forbes: Why the founder of Rumble is now a billionaire](https://www.forbes.com/sites/kylemullins/2025/01/06/why-the-founder-of-the-right-wing-video-platform-rumble-is-now-a-billionaire/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Forbes: Dan Bongino Rumble stake and FBI nomination](https://www.forbes.com/sites/kylemullins/2025/02/25/former-secret-service-agent-turned-deputy-fbi-director-is-already-very-rich/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Forbes: Rumble is finally relevant but running out of cash](https://www.forbes.com/sites/kylemullins/2024/12/20/the-jd-vance-backed-youtube-clone-rumble-is-finally-relevant-but-its-running-out-of-cash/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ### Foreign Money & Russian State Media (Tier 2. Major Investigative Journalism):
-- [Seattle Times / New York Times: Company backed by JD Vance gives platform for Russian propaganda](https://www.seattletimes.com/nation-world/company-backed-by-j-d-vance-gives-platform-for-russian-propaganda/) (Tier 2)
-- [PolitiFact: Does JD Vance profit from Russia propaganda?](https://www.politifact.com/factchecks/2022/may/24/tim-ryan/does-jd-vance-profit-russia-propaganda/) (Tier 2)
-- [The Federalist: Rumble Barred in Russia Over Refusal to Censor](https://thefederalist.com/2024/06/04/exclusive-rumble-barred-in-russia-over-platforms-refusal-of-kremlin-censorship/) (Tier 2)
+- [Seattle Times / New York Times: Company backed by JD Vance gives platform for Russian propaganda](https://www.seattletimes.com/nation-world/company-backed-by-j-d-vance-gives-platform-for-russian-propaganda/) (Tier 2) (VERIFIED)
+- [PolitiFact: Does JD Vance profit from Russia propaganda?](https://www.politifact.com/factchecks/2022/may/24/tim-ryan/does-jd-vance-profit-russia-propaganda/) (Tier 2) (VERIFIED)
+- [The Federalist: Rumble Barred in Russia Over Refusal to Censor](https://thefederalist.com/2024/06/04/exclusive-rumble-barred-in-russia-over-platforms-refusal-of-kremlin-censorship/) (Tier 2) (VERIFIED)
 
 ### Content Moderation & Extremism (Tier 2. Major Investigative Journalism):
-- [Rolling Stone: Trump Campaign Ads Are Monetizing Pro-Nazi Content on Rumble](https://www.rollingstone.com/politics/politics-features/trump-campaign-ads-nazi-rumble-stew-peters-1234987325/) (Tier 2)
-- [Los Angeles Times: GOP debate livestreaming partner is haven for disinformation](https://www.latimes.com/politics/story/2023-09-25/gop-debate-livestreaming-partner-haven-disinformation-extremism) (Tier 2)
-- [ADL: Rumble as Platform for Hate Content](https://www.adl.org/resources/blog/rumble-emerges-platform-choice-antisemitic-and-far-right-extremist-content) (Tier 2)
+- [Rolling Stone: Trump Campaign Ads Are Monetizing Pro-Nazi Content on Rumble](https://www.rollingstone.com/politics/politics-features/trump-campaign-ads-nazi-rumble-stew-peters-1234987325/) (Tier 2) (VERIFIED)
+- [Los Angeles Times: GOP debate livestreaming partner is haven for disinformation](https://www.latimes.com/politics/story/2023-09-25/gop-debate-livestreaming-partner-haven-disinformation-extremism) (Tier 2) (VERIFIED)
+- ~~[ADL: Rumble as Platform for Hate Content](https://www.adl.org/resources/blog/rumble-emerges-platform-choice-antisemitic-and-far-right-extremist-content)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ### International Legal Battles (Tier 2. News Reporting):
-- [Brussels Signal: Rumble wins court case against French government](https://brusselssignal.eu/2025/10/rumble-wins-court-case-against-french-government-and-regains-access-to-france/) (Tier 2)
-- [Fox News: White House launches Rumble account](https://www.foxnews.com/politics/free-speech-transparency-white-house-launches-rumble-account-social-media-presence-grows) (Tier 2)
-- [Rumble and Truth Social sue Brazilian Judge de Moraes](https://corp.rumble.com/blog/rumble-and-truth-social-sue-brazilian-judge-over-censorship-orders-targeting-u-s-users/) (Tier 1)
+- [Brussels Signal: Rumble wins court case against French government](https://brusselssignal.eu/2025/10/rumble-wins-court-case-against-french-government-and-regains-access-to-france/) (Tier 2) (VERIFIED)
+- [Fox News: White House launches Rumble account](https://www.foxnews.com/politics/free-speech-transparency-white-house-launches-rumble-account-social-media-presence-grows) (Tier 2) (VERIFIED)
+- [Rumble and Truth Social sue Brazilian Judge de Moraes](https://corp.rumble.com/blog/rumble-and-truth-social-sue-brazilian-judge-over-censorship-orders-targeting-u-s-users/) (Tier 1) (VERIFIED)
 
 ### Campaign Finance & Political Infrastructure (Tier 2. News Reporting):
-- [Nasdaq: Rumble Announces Livestream Contributions for U.S. Federal Political Campaigns](https://www.nasdaq.com/press-release/rumble-announces-livestream-contributions-for-u.s.-federal-political-campaigns-2024) (Tier 1)
-- [PA Democratic Party: McCormick refuses to pull Rumble investments](https://www.padems.org/new-mccormick-refuses-to-pull-investments-from-website-that-platforms-holocaust-denial-and-anti-semitic-hate/) (Tier 2)
+- [Nasdaq: Rumble Announces Livestream Contributions for U.S. Federal Political Campaigns](https://www.nasdaq.com/press-release/rumble-announces-livestream-contributions-for-u.s.-federal-political-campaigns-2024) (Tier 1) (VERIFIED)
+- ~~[PA Democratic Party: McCormick refuses to pull Rumble investments](https://www.padems.org/new-mccormick-refuses-to-pull-investments-from-website-that-platforms-holocaust-denial-and-anti-semitic-hate/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ### Insider Selling & SEC Filings (Tier 2. Financial Data):
-- [GuruFocus: Christopher Pavlovski insider transactions](https://www.gurufocus.com/insider/222244/christopher-pavlovski) (Tier 2)
-- [Yahoo Finance: Rumble insider ownership analysis](https://finance.yahoo.com/news/despite-recent-sales-rumble-inc-145742514.html) (Tier 2)
+- ~~[GuruFocus: Christopher Pavlovski insider transactions](https://www.gurufocus.com/insider/222244/christopher-pavlovski)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Yahoo Finance: Rumble insider ownership analysis](https://finance.yahoo.com/news/despite-recent-sales-rumble-inc-145742514.html) (Tier 2) (VERIFIED)
 
 ### Reference (Tier 3. Secondary Sources):
-- [Wikipedia: Rumble (company)](https://en.wikipedia.org/wiki/Rumble_(company)) (Tier 3)
-- [Celebrity Net Worth: Chris Pavlovski](https://www.celebritynetworth.com/richest-businessmen/richest-billionaires/chris-pavlovski-net-worth/) (Tier 3)
+- ~~[Wikipedia: Rumble (company)](https://en.wikipedia.org/wiki/Rumble_(company)~~ (URL broken, archived by Ops)) (Tier 3)
+- [Celebrity Net Worth: Chris Pavlovski](https://www.celebritynetworth.com/richest-businessmen/richest-billionaires/chris-pavlovski-net-worth/) (Tier 3) (VERIFIED)
 
 ---
 

@@ -217,28 +217,28 @@ Amazon is the most complete case study in the vault of how a single corporation 
 
 ### Sources
 
-- [OpenSecrets: Amazon.com Summary](https://www.opensecrets.org/orgs/amazon-com/summary?id=D000023883) (Tier 1)
-- [OpenSecrets: Amazon.com PAC Contributions 2024](https://www.opensecrets.org/political-action-committees-pacs/amazon-com/C00360354/summary/2024) (Tier 1)
-- [OpenSecrets: Amazon.com PAC Candidate Recipients](https://www.opensecrets.org/political-action-committees-pacs/amazon-com/C00360354/candidate-recipients/2024) (Tier 1)
-- [Senate LDA Filings: Amazon.com Lobbying Profile](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [NLRB: Joint Employer Final Rule](https://www.nlrb.gov/news-outreach/news-story/nlrb-issues-joint-employer-final-rule) (Tier 1)
-- [Senate HELP Committee: Amazon Warehouse Investigation (PDF)](https://www.help.senate.gov/imo/media/doc/help_committee_amazon_interim_report.pdf) (Tier 1)
-- [Nextgov: NSA Awards Secret $10B Contract to Amazon](https://www.nextgov.com/modernization/2021/08/nsa-awards-secret-10-billion-contract-amazon/184390/) (Tier 2)
-- [Nextgov: Pentagon Awards $9B JWCC Cloud Contract](https://www.nextgov.com/digital-government/2022/12/amazon-google-microsoft-oracle-awarded-9b-pentagon-cloud-contract/380596/) (Tier 2)
-- [NPR: Amazon Union. Third Election Ordered at Bessemer](https://www.npr.org/2021/04/09/982139494/its-a-no-amazon-warehouse-workers-vote-against-unionizing-in-historic-election) (Tier 2)
-- [NPR: Washington Post Non-Endorsement and Bezos](https://www.npr.org/2024/10/28/nx-s1-5168416/washington-post-bezos-endorsement-president-cancellations-resignations) (Tier 2)
-- [Labor Notes: Amazon Workers at Staten Island Clinch Historic Victory](https://labornotes.org/2022/04/amazon-workers-staten-island-clinch-historic-victory) (Tier 2)
-- [The Hill: Amazon Spent Unmatched $14.2M on Anti-Union Consultants](https://thehill.com/business/3931442-amazon-spent-unmatched-14-million-on-labor-consultants-in-anti-union-push/) (Tier 2)
-- [Engadget: Amazon Spent $4.3M on Anti-Union Consultants in 2021](https://www.engadget.com/amazon-spent-43-million-on-anti-union-consultants-in-2021-alone-082051777.html) (Tier 2)
-- [Engadget: NLRB. Amazon Illegally Fired Union Organizer in New York](https://www.engadget.com/nlrb-amazon-illegally-fired-union-organizer-new-york-101549596.html) (Tier 2)
-- [The Intercept: Senate Prepping $10 Billion Bailout Fund for Bezos Space Firm](https://theintercept.com/2021/05/25/jeff-bezos-blue-origin-senate-bailout/) (Tier 2)
-- [The Daily Beast: Bezos WaPo Non-Endorsement and Blue Origin Conflict](https://www.thedailybeast.com/is-this-the-reason-jeff-bezos-owned-washington-post-didnt-endorse-kamala-harris-blue-origin-donald-trump/) (Tier 2)
-- [Washington Post: Amazon HQ2 to benefit from more than $2.4 billion in incentives from Virginia, New York and Tennessee](https://www.washingtonpost.com/local/virginia-news/amazon-hq2-to-receive-more-than-28-billion-in-incentives-from-virginia-new-york-and-tennessee/2018/11/13/f3f73cf4-e757-11e8-a939-9469f1166f9d_story.html) (Tier 2)
-- [CNN: Amazon Cancels New York HQ2](https://www.cnn.com/2019/02/tech/amazon-hq2-nyc) (Tier 2)
-- [The Nation: Amazon Injury Rates 2021-2022](https://www.thenation.com/article/economy/amazon-injury-rate/) (Tier 2)
-- [Data Center Dynamics: CIA Gives Amazon $600M Cloud Contract](https://www.datacenterdynamics.com/en/news/report-cia-gives-amazon-us600m-cloud-contract/) (Tier 2)
-- [Teamsters: NLRB Doubles Down. Amazon Is Joint Employer](https://teamster.org/2024/10/nlrb-doubles-down-amazon-is-a-joint-employer/) (Tier 2)
-- [United for Respect: Amazon Political Spending 2024](https://united4respect.org/reports/amazon-political-spending-2024/) (Tier 2)
+- [OpenSecrets: Amazon.com Summary](https://www.opensecrets.org/orgs/amazon-com/summary?id=D000023883) (Tier 1) (VERIFIED)
+- [OpenSecrets: Amazon.com PAC Contributions 2024](https://www.opensecrets.org/political-action-committees-pacs/amazon-com/C00360354/summary/2024) (Tier 1) (VERIFIED)
+- [OpenSecrets: Amazon.com PAC Candidate Recipients](https://www.opensecrets.org/political-action-committees-pacs/amazon-com/C00360354/candidate-recipients/2024) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: Amazon.com Lobbying Profile](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [NLRB: Joint Employer Final Rule](https://www.nlrb.gov/news-outreach/news-story/nlrb-issues-joint-employer-final-rule) (Tier 1) (VERIFIED)
+- [Senate HELP Committee: Amazon Warehouse Investigation (PDF)](https://www.help.senate.gov/imo/media/doc/help_committee_amazon_interim_report.pdf) (Tier 1) (VERIFIED)
+- [Nextgov: NSA Awards Secret $10B Contract to Amazon](https://www.nextgov.com/modernization/2021/08/nsa-awards-secret-10-billion-contract-amazon/184390/) (Tier 2) (VERIFIED)
+- [Nextgov: Pentagon Awards $9B JWCC Cloud Contract](https://www.nextgov.com/digital-government/2022/12/amazon-google-microsoft-oracle-awarded-9b-pentagon-cloud-contract/380596/) (Tier 2) (VERIFIED)
+- [NPR: Amazon Union. Third Election Ordered at Bessemer](https://www.npr.org/2021/04/09/982139494/its-a-no-amazon-warehouse-workers-vote-against-unionizing-in-historic-election) (Tier 2) (VERIFIED)
+- [NPR: Washington Post Non-Endorsement and Bezos](https://www.npr.org/2024/10/28/nx-s1-5168416/washington-post-bezos-endorsement-president-cancellations-resignations) (Tier 2) (VERIFIED)
+- [Labor Notes: Amazon Workers at Staten Island Clinch Historic Victory](https://labornotes.org/2022/04/amazon-workers-staten-island-clinch-historic-victory) (Tier 2) (VERIFIED)
+- ~~[The Hill: Amazon Spent Unmatched $14.2M on Anti-Union Consultants](https://thehill.com/business/3931442-amazon-spent-unmatched-14-million-on-labor-consultants-in-anti-union-push/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Engadget: Amazon Spent $4.3M on Anti-Union Consultants in 2021](https://www.engadget.com/amazon-spent-43-million-on-anti-union-consultants-in-2021-alone-082051777.html) (Tier 2) (VERIFIED)
+- [Engadget: NLRB. Amazon Illegally Fired Union Organizer in New York](https://www.engadget.com/nlrb-amazon-illegally-fired-union-organizer-new-york-101549596.html) (Tier 2) (VERIFIED)
+- [The Intercept: Senate Prepping $10 Billion Bailout Fund for Bezos Space Firm](https://theintercept.com/2021/05/25/jeff-bezos-blue-origin-senate-bailout/) (Tier 2) (VERIFIED)
+- [The Daily Beast: Bezos WaPo Non-Endorsement and Blue Origin Conflict](https://www.thedailybeast.com/is-this-the-reason-jeff-bezos-owned-washington-post-didnt-endorse-kamala-harris-blue-origin-donald-trump/) (Tier 2) (VERIFIED)
+- [Washington Post: Amazon HQ2 to benefit from more than $2.4 billion in incentives from Virginia, New York and Tennessee](https://www.washingtonpost.com/local/virginia-news/amazon-hq2-to-receive-more-than-28-billion-in-incentives-from-virginia-new-york-and-tennessee/2018/11/13/f3f73cf4-e757-11e8-a939-9469f1166f9d_story.html) (Tier 2) (VERIFIED)
+- ~~[CNN: Amazon Cancels New York HQ2](https://www.cnn.com/2019/02/tech/amazon-hq2-nyc)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [The Nation: Amazon Injury Rates 2021-2022](https://www.thenation.com/article/economy/amazon-injury-rate/) (Tier 2) (VERIFIED)
+- [Data Center Dynamics: CIA Gives Amazon $600M Cloud Contract](https://www.datacenterdynamics.com/en/news/report-cia-gives-amazon-us600m-cloud-contract/) (Tier 2) (VERIFIED)
+- [Teamsters: NLRB Doubles Down. Amazon Is Joint Employer](https://teamster.org/2024/10/nlrb-doubles-down-amazon-is-a-joint-employer/) (Tier 2) (VERIFIED)
+- [United for Respect: Amazon Political Spending 2024](https://united4respect.org/reports/amazon-political-spending-2024/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -268,7 +268,7 @@ Amazon is the most complete case study in the vault of how a single corporation 
 | IRS Ruling Date | 2022-03-01 |
 | Filings on Record | 0 |
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/873103053) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/873103053) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Lobbying Activity
@@ -287,7 +287,7 @@ Amazon is the most complete case study in the vault of how a single corporation 
 
 **Agencies contacted:** Agriculture, Dept of (USDA), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Consumer Financial Protection Bureau (CFPB), Consumer Product Safety Commission (CPSC), Defense, Dept of (DOD), Director of National Intelligence (ODNI), Education, Dept of, Energy, Dept of, Environmental Protection Agency (EPA) +35 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Amazon) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Amazon) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)
@@ -396,7 +396,7 @@ Amazon is the most complete case study in the vault of how a single corporation 
 | All Other Miscellaneous Fabricated Metal Product Manufacturing (332999) | $200K |
 | Environmental Consulting Services (541620) | $125K |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Federal Register Activity
@@ -411,15 +411,15 @@ Amazon is the most complete case study in the vault of how a single corporation 
 | Agencies | Antitrust Division, Employee Benefits Security Administration, Energy Department, Environmental Protection Agency, Export-Import Bank, Federal Communications Commission, Federal Energy Regulatory Commission, Federal Trade Commission +7 more |
 
 **Recent regulatory activity:**
-- [Joint Industry Plan; Order Approving an Amendment to the National Market System Plan Governing the Consolidated Audit Trail, as Modified by the Commission, To Further Reduce the Costs of the Consolidated Audit Trail](https://www.federalregister.gov/documents/2026/04/01/2026-06255/joint-industry-plan-order-approving-an-amendment-to-the-national-market-system-plan-governing-the) (2026-04-01) - Securities and Exchange Commission
-- [Privacy Act of 1974; System of Records](https://www.federalregister.gov/documents/2026/03/27/2026-05932/privacy-act-of-1974-system-of-records) (2026-03-27) - Export-Import Bank
-- [Privacy Act of 1974; System of Records](https://www.federalregister.gov/documents/2026/03/26/2026-05870/privacy-act-of-1974-system-of-records) (2026-03-26) - Environmental Protection Agency
-- [Actions Taken at the March 12, 2026 Meeting](https://www.federalregister.gov/documents/2026/03/25/2026-05822/actions-taken-at-the-march-12-2026-meeting) (2026-03-25) - Susquehanna River Basin Commission
-- [Rule Concerning the Use of Prenotification Negative Option Plans](https://www.federalregister.gov/documents/2026/03/13/2026-04952/rule-concerning-the-use-of-prenotification-negative-option-plans) (2026-03-13) - Federal Trade Commission
-- [Media Bureau Seeks Comment on Sports Broadcasting Practices and Marketplace Developments](https://www.federalregister.gov/documents/2026/03/04/2026-04286/media-bureau-seeks-comment-on-sports-broadcasting-practices-and-marketplace-developments) (2026-03-04) - Federal Communications Commission
+- [Joint Industry Plan; Order Approving an Amendment to the National Market System Plan Governing the Consolidated Audit Trail, as Modified by the Commission, To Further Reduce the Costs of the Consolidated Audit Trail](https://www.federalregister.gov/documents/2026/04/01/2026-06255/joint-industry-plan-order-approving-an-amendment-to-the-national-market-system-plan-governing-the) (VERIFIED) (2026-04-01) - Securities and Exchange Commission
+- [Privacy Act of 1974; System of Records](https://www.federalregister.gov/documents/2026/03/27/2026-05932/privacy-act-of-1974-system-of-records) (VERIFIED) (2026-03-27) - Export-Import Bank
+- [Privacy Act of 1974; System of Records](https://www.federalregister.gov/documents/2026/03/26/2026-05870/privacy-act-of-1974-system-of-records) (VERIFIED) (2026-03-26) - Environmental Protection Agency
+- [Actions Taken at the March 12, 2026 Meeting](https://www.federalregister.gov/documents/2026/03/25/2026-05822/actions-taken-at-the-march-12-2026-meeting) (VERIFIED) (2026-03-25) - Susquehanna River Basin Commission
+- [Rule Concerning the Use of Prenotification Negative Option Plans](https://www.federalregister.gov/documents/2026/03/13/2026-04952/rule-concerning-the-use-of-prenotification-negative-option-plans) (VERIFIED) (2026-03-13) - Federal Trade Commission
+- [Media Bureau Seeks Comment on Sports Broadcasting Practices and Marketplace Developments](https://www.federalregister.gov/documents/2026/03/04/2026-04286/media-bureau-seeks-comment-on-sports-broadcasting-practices-and-marketplace-developments) (VERIFIED) (2026-03-04) - Federal Communications Commission
 - ... and 791 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Amazon%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Amazon%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Vehicle Safety (NHTSA)
@@ -437,7 +437,7 @@ Amazon is the most complete case study in the vault of how a single corporation 
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Amazon) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Amazon) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Product Recalls (CPSC)
@@ -451,15 +451,15 @@ Amazon is the most complete case study in the vault of how a single corporation 
 
 **Recent recalls:**
 
-- [Children's Toys Recalled Due to Risk of Serious Injury or Death from Choking Hazard; Violates the Small Ball Ban; Sold on Amazon by Beestech](https://www.cpsc.gov/Recalls/26365) (2026-04-02) - The recalled spiral tower toy sets violate the mandatory standard for toys because they contain small balls and are intended for children under three years of age, posing a deadly choking hazard.
-- [Coluans Christmas Light-Up Rings Recalled Due to Risk of Serious Injury or Death from Battery Ingestion Hazard; Violates Mandatory Standard for Toys; Sold on Amazon by BUDI Official](https://www.cpsc.gov/Recalls/26369) (2026-04-02) - The recalled light-up rings violate the mandatory safety standard for toys because the battery compartment within the LED light ring contains button cell batteries that can be easily accessed by children. When button cell or coin batteries are swallowed, the ingested batteries can cause serious injuries, internal chemical burns and death.
-- [ELENKER Portable Bed Rails Recalled Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violates Mandatory Standard for Adult Portable Bed Rails; Sold on Amazon by Fuzhou Shiah...](https://www.cpsc.gov/Recalls/26374) (2026-04-02) - The recalled bed rails violate the mandatory standard for adult portable bed rails because when the bed rails are attached to a bed, users can become entrapped within the bed rail or between the bed rail and the side of the mattress, posing a serious entrapment hazard and risk of death by asphyxiation. In addition, the bed rails do not bear the required hazard warning labels.
-- [Gavoyeat Halloween Light-Up Rings Recalled Due to Risk of Serious Injury or Death from Battery Ingestion Hazard; Violates Mandatory Standard for Toys; Sold on Amazon by CSZWEICD](https://www.cpsc.gov/Recalls/26368) (2026-04-02) - The recalled light-up rings violate the mandatory safety standard for toys because the battery compartment within the LED light ring contains button cell batteries that can be easily accessed by children. When button cell or coin batteries are swallowed, the ingested batteries can cause serious injuries, internal chemical burns and death.
-- [Tuymec Minoxidil Hair Growth Spray Bottles Recalled Due to Risk of Serious Injury or Death from Child Poisoning; Violates Mandatory Standard for Child-Resistant Packaging; Sold on Amazon by DrHealB...](https://www.cpsc.gov/Recalls/26381) (2026-04-02) - The hair serum contains minoxidil, which must be in child-resistant packaging as required by the Poison Prevention Packaging Act. The hair serum's packaging is not child-resistant, posing a risk of serious injury or death from poisoning if the contents are swallowed by young children.
-- [MPINOI Adult Portable Bed Rails Recalled Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violate Mandatory Standard for Adult Portable Bed Rails; Sold on Amazon by Bioenrrty](https://www.cpsc.gov/Recalls/26350) (2026-03-26) - The recalled bed rails violate the mandatory standard for adult portable bed rails because users can become entrapped within the bed rail, or between the bed rail and the side of the mattress, posing a serious entrapment hazard and risk of death by asphyxiation. In addition, the bed rails do not bear the required hazard warning labels.
+- ~~[Children's Toys Recalled Due to Risk of Serious Injury or Death from Choking Hazard; Violates the Small Ball Ban; Sold on Amazon by Beestech](https://www.cpsc.gov/Recalls/26365)~~ (URL broken, archived by Ops) (2026-04-02) - The recalled spiral tower toy sets violate the mandatory standard for toys because they contain small balls and are intended for children under three years of age, posing a deadly choking hazard.
+- ~~[Coluans Christmas Light-Up Rings Recalled Due to Risk of Serious Injury or Death from Battery Ingestion Hazard; Violates Mandatory Standard for Toys; Sold on Amazon by BUDI Official](https://www.cpsc.gov/Recalls/26369)~~ (URL broken, archived by Ops) (2026-04-02) - The recalled light-up rings violate the mandatory safety standard for toys because the battery compartment within the LED light ring contains button cell batteries that can be easily accessed by children. When button cell or coin batteries are swallowed, the ingested batteries can cause serious injuries, internal chemical burns and death.
+- ~~[ELENKER Portable Bed Rails Recalled Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violates Mandatory Standard for Adult Portable Bed Rails; Sold on Amazon by Fuzhou Shiah...](https://www.cpsc.gov/Recalls/26374)~~ (URL broken, archived by Ops) (2026-04-02) - The recalled bed rails violate the mandatory standard for adult portable bed rails because when the bed rails are attached to a bed, users can become entrapped within the bed rail or between the bed rail and the side of the mattress, posing a serious entrapment hazard and risk of death by asphyxiation. In addition, the bed rails do not bear the required hazard warning labels.
+- ~~[Gavoyeat Halloween Light-Up Rings Recalled Due to Risk of Serious Injury or Death from Battery Ingestion Hazard; Violates Mandatory Standard for Toys; Sold on Amazon by CSZWEICD](https://www.cpsc.gov/Recalls/26368)~~ (URL broken, archived by Ops) (2026-04-02) - The recalled light-up rings violate the mandatory safety standard for toys because the battery compartment within the LED light ring contains button cell batteries that can be easily accessed by children. When button cell or coin batteries are swallowed, the ingested batteries can cause serious injuries, internal chemical burns and death.
+- ~~[Tuymec Minoxidil Hair Growth Spray Bottles Recalled Due to Risk of Serious Injury or Death from Child Poisoning; Violates Mandatory Standard for Child-Resistant Packaging; Sold on Amazon by DrHealB...](https://www.cpsc.gov/Recalls/26381)~~ (URL broken, archived by Ops) (2026-04-02) - The hair serum contains minoxidil, which must be in child-resistant packaging as required by the Poison Prevention Packaging Act. The hair serum's packaging is not child-resistant, posing a risk of serious injury or death from poisoning if the contents are swallowed by young children.
+- ~~[MPINOI Adult Portable Bed Rails Recalled Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violate Mandatory Standard for Adult Portable Bed Rails; Sold on Amazon by Bioenrrty](https://www.cpsc.gov/Recalls/26350)~~ (URL broken, archived by Ops) (2026-03-26) - The recalled bed rails violate the mandatory standard for adult portable bed rails because users can become entrapped within the bed rail, or between the bed rail and the side of the mattress, posing a serious entrapment hazard and risk of death by asphyxiation. In addition, the bed rails do not bear the required hazard warning labels.
 - ... and 278 more
 
-- [Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Amazon) (Tier 1)
+- ~~[Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Amazon)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:cpsc-recalls end -->
 
 ### Federal Court Records (CourtListener)
@@ -478,14 +478,14 @@ Amazon is the most complete case study in the vault of how a single corporation 
 - Leavell v. Amazon Fulfillment Center BOIS (2026) - District Court, D. Idaho
 - Baldacci v. Amazon.com (2026) - District Court, W.D. Washington
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Amazon%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Amazon%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [894500WLF86O68OWI258](https://search.gleif.org/#/record/894500WLF86O68OWI258) |
+| LEI | [894500WLF86O68OWI258](https://search.gleif.org/#/record/894500WLF86O68OWI258) (VERIFIED) |
 | Legal Name | Amazon Seeds |
 | Jurisdiction | IN |
 | Entity Status | ACTIVE |
@@ -493,5 +493,5 @@ Amazon is the most complete case study in the vault of how a single corporation 
 | Registration | ISSUED |
 | Last Updated | 2025-05-09T06:18:05Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->

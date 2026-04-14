@@ -93,7 +93,7 @@ Cori Bush. Born July 21, 1976, St. Louis, Missouri. U.S. Representative for Miss
 
 ## The Central Thesis
 
-Bush's political trajectory is a case study in how the donor class neutralizes progressive insurgents through a multi-pressure vector strategy. The triggering event is legible in the Congressional record: on October 25, 2023, Bush introduced [H.Res. 786](https://www.congress.gov/bill/118th-congress/house-resolution/786), "Calling for an immediate deescalation and cease-fire in Israel and occupied Palestine" — one of the earliest such resolutions in Congress after the October 7 Hamas attack and the Israeli military response. She became a named sponsor of a Gaza ceasefire before AIPAC had finished calibrating its 2024 primary-intervention list. Within months, AIPAC's United Democracy Project spent **$9,956,554 in independent expenditures opposing her** (per [FEC IE data](https://www.fec.gov/data/candidate/H8MO01143/)), making her the single largest AIPAC spending target of the 2024 cycle. Fairshake PAC, the crypto industry's election vehicle, added another $2,789,872 in opposition, bringing combined IE opposition to **$13.97 million** against a candidate whose own 2024 fundraising totaled $4.17M — a **3.3-to-1 opposition-to-fundraising ratio**. Justice Democrats PAC countered with $2.76M in support, but was outspent 5-to-1. Her subsequent federal indictment over campaign security payments (~$750K total, including $102,500+ to her husband) compounds her political vulnerability. Whether the indictment is politically motivated or reflects genuine misconduct, the sequencing tells the story: ceasefire resolution, AIPAC targeting, primary loss, DOJ investigation, indictment. Multiple pressure vectors converging on a progressive legislator who broke with the donor class consensus on Israel.
+Bush's political trajectory is a case study in how the donor class neutralizes progressive insurgents through a multi-pressure vector strategy. The triggering event is legible in the Congressional record: on October 25, 2023, Bush introduced [H.Res. 786](https://www.congress.gov/bill/118th-congress/house-resolution/786) (VERIFIED), "Calling for an immediate deescalation and cease-fire in Israel and occupied Palestine" — one of the earliest such resolutions in Congress after the October 7 Hamas attack and the Israeli military response. She became a named sponsor of a Gaza ceasefire before AIPAC had finished calibrating its 2024 primary-intervention list. Within months, AIPAC's United Democracy Project spent **$9,956,554 in independent expenditures opposing her** (per [FEC IE data](https://www.fec.gov/data/candidate/H8MO01143/)), making her the single largest AIPAC spending target of the 2024 cycle. Fairshake PAC, the crypto industry's election vehicle, added another $2,789,872 in opposition, bringing combined IE opposition to **$13.97 million** against a candidate whose own 2024 fundraising totaled $4.17M — a **3.3-to-1 opposition-to-fundraising ratio**. Justice Democrats PAC countered with $2.76M in support, but was outspent 5-to-1. Her subsequent federal indictment over campaign security payments (~$750K total, including $102,500+ to her husband) compounds her political vulnerability. Whether the indictment is politically motivated or reflects genuine misconduct, the sequencing tells the story: ceasefire resolution, AIPAC targeting, primary loss, DOJ investigation, indictment. Multiple pressure vectors converging on a progressive legislator who broke with the donor class consensus on Israel.
 
 ---
 
@@ -151,7 +151,7 @@ AIPAC's spending against Bush was not proportional to her Israel critique — it
 |------|----------|--------|------------|----------|
 | 2020 | Justice Democrats + grassroots small donors | $1.43M total cycle | Won primary against 20-year incumbent Lacy Clay. First BLM activist elected to Congress. | Direct |
 | Sep 23, 2021 | N/A — institutional pressure | — | Voted against Iron Dome funding ($1B supplemental, 420–9 vote). One of only 9 House "no" votes. Triggered AIPAC targeting. | — |
-| 2022 cycle | Small donors + progressive PACs | $2.45M total cycle | First re-election; bill sponsorships ramp: Unhoused Persons Bill of Rights ([H.Res. 634](https://www.congress.gov/bill/118th-congress/house-resolution/634), Jul 28, 2023), Mary Meachum Freedom Crossing recognition ([H.Con.Res. 92](https://www.congress.gov/bill/118th-congress/house-concurrent-resolution/92), Feb 20, 2024). 38 bills sponsored / 756 cosponsored across 117-118th Congresses. | Ongoing |
+| 2022 cycle | Small donors + progressive PACs | $2.45M total cycle | First re-election; bill sponsorships ramp: Unhoused Persons Bill of Rights (~~[H.Res. 634](https://www.congress.gov/bill/118th-congress/house-resolution/634)~~ (URL broken, archived by Ops), Jul 28, 2023), Mary Meachum Freedom Crossing recognition (~~[H.Con.Res. 92](https://www.congress.gov/bill/118th-congress/house-concurrent-resolution/92)~~ (URL broken, archived by Ops), Feb 20, 2024). 38 bills sponsored / 756 cosponsored across 117-118th Congresses. | Ongoing |
 | **Oct 25, 2023** | **N/A — trigger event** | **—** | **Bush introduces [H.Res. 786](https://www.congress.gov/bill/118th-congress/house-resolution/786), "Calling for an immediate deescalation and cease-fire in Israel and occupied Palestine." One of the earliest ceasefire resolutions in Congress after October 7. This is the vote that moved her from "AIPAC watchlist" to "AIPAC primary target."** | **Trigger** |
 | May 2024 | H.R. 8470 ("Helping Families Heal Act of 2024") introduced — domestic mental health support | — | Continues building domestic progressive record in parallel with Gaza advocacy. Bill did not receive a vote. | — |
 | 2024 cycle | Individual donors (70% of $4.17M total) | $4,165,846 total | Medicare for All co-sponsor, Green New Deal, continued ceasefire advocacy, Defund police advocacy, 2,239 total votes cast across her tenure | Ongoing |
@@ -264,7 +264,7 @@ The DOJ indictment over $102,500 in security payments to Bush's husband compound
 | 4901 | Reproductive Health Care Accessibility Act | Referred to the Subcommittee on Health. |
 | 4699 | The People’s Response Act | Referred to the Subcommittee on Health. |
 
-- [Source: Congress.gov](https://www.congress.gov/member/B001224) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/B001224)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 <!-- auto:congress-legislation pending-merge end -->
 
@@ -424,7 +424,7 @@ _N/A — Bush lost her 2024 Democratic primary to Wesley Bell and is no longer s
 
 **Sources**
 
-- [Congress.gov: Cori Bush](https://www.congress.gov/member/e000179) (Tier 1)
+- ~~[Congress.gov: Cori Bush](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [GovTrack: Cori Bush](https://www.govtrack.us/congress/members/456829) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->
@@ -433,7 +433,7 @@ _N/A — Bush lost her 2024 Democratic primary to Wesley Bell and is no longer s
 <!-- auto:committee-assignments start -->
 _No committee data found._
 
-- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 ### Campaign Finance Summary (FEC)
@@ -468,13 +468,13 @@ Cori Anika Bush is an American politician, nurse, pastor, and Black Lives Matter
 
 | Fact | Value |
 |------|-------|
-| Wikidata ID | [Q98084800](https://www.wikidata.org/wiki/Q98084800) |
+| Wikidata ID | [Q98084800](https://www.wikidata.org/wiki/Q98084800) (VERIFIED) |
 | Description | American politician, nurse, and activist (born 1976) |
 | Born | 1976-07-21 |
-| Website | [https://coribush.org/](https://coribush.org/) |
-| X/Twitter | [@CoriBush](https://x.com/CoriBush) |
-| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Cori_Bush_117th_U.S_Congress.jpg?width=300) |
+| Website | [https://coribush.org/](https://coribush.org/) (NEEDS REVIEW) |
+| X/Twitter | [@CoriBush](https://x.com/CoriBush) (VERIFIED) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Cori_Bush_117th_U.S_Congress.jpg?width=300) (NEEDS REVIEW) |
 
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Cori_Bush) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q98084800) (Tier 2)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q98084800) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->

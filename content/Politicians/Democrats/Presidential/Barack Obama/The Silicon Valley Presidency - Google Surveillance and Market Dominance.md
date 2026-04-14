@@ -141,14 +141,14 @@ The post-presidency funding flows confirm: Silicon Valley tech billionaires beca
 
 ### Sources
 
-- [The Intercept: Google's Remarkably Close Relationship With the Obama White House](https://theintercept.com/2016/04/22/googles-remarkably-close-relationship-with-the-obama-white-house-in-two-charts/) (Tier 2)
-- [Campaign for Accountability: Google's Extraordinary Access to Obama](https://campaignforaccountability.org/googles-extraordinary-access-to-obama-revealed-as-white-house-visitor-logs-show-427-meetings-between-company-and-administration-officials/) (Tier 2)
-- [NPR: FTC Closes Google Antitrust Investigation Without Penalties](https://www.npr.org/2013/01/03/168564147/ftc-closes-google-anti-trust-investigation-without-penalties) (Tier 2)
-- [The Guardian: NSA collecting phone records of millions of Verizon customers daily](https://www.theguardian.com/world/2013/jun/06/nsa-phone-records-verizon-court-order) (Tier 2)
-- [ProPublica: Government Surveillance 101: Understanding PRISM and Upstream Programs](https://www.propublica.org/article/nsa-data-collection-faq) (Tier 2)
-- [Electronic Frontier Foundation: PRISM Surveillance Program](https://www.eff.org/deeplinks/2013/06/prism-what-we-know) *(source unavailable)* (Tier 2)
-- [USPTO: Obama Administration Patent Policy Changes](https://www.uspto.gov/about-us/performance-and-planning/agency-strategic-documents) *(source unavailable)* (Tier 1)
-- [FTC: Google Antitrust Investigation Closure Statement (January 2013)](https://www.ftc.gov/system/files/attachments/merger-investigation-matters/130103googlewirthabstandingstatement.pdf) *(source unavailable)* (Tier 1)
+- [The Intercept: Google's Remarkably Close Relationship With the Obama White House](https://theintercept.com/2016/04/22/googles-remarkably-close-relationship-with-the-obama-white-house-in-two-charts/) (Tier 2) (VERIFIED)
+- [Campaign for Accountability: Google's Extraordinary Access to Obama](https://campaignforaccountability.org/googles-extraordinary-access-to-obama-revealed-as-white-house-visitor-logs-show-427-meetings-between-company-and-administration-officials/) (Tier 2) (VERIFIED)
+- [NPR: FTC Closes Google Antitrust Investigation Without Penalties](https://www.npr.org/2013/01/03/168564147/ftc-closes-google-anti-trust-investigation-without-penalties) (Tier 2) (VERIFIED)
+- [The Guardian: NSA collecting phone records of millions of Verizon customers daily](https://www.theguardian.com/world/2013/jun/06/nsa-phone-records-verizon-court-order) (Tier 2) (VERIFIED)
+- [ProPublica: Government Surveillance 101: Understanding PRISM and Upstream Programs](https://www.propublica.org/article/nsa-data-collection-faq) (Tier 2) (VERIFIED)
+- ~~[Electronic Frontier Foundation: PRISM Surveillance Program](https://www.eff.org/deeplinks/2013/06/prism-what-we-know)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+- ~~[USPTO: Obama Administration Patent Policy Changes](https://www.uspto.gov/about-us/performance-and-planning/agency-strategic-documents)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 1)
+- ~~[FTC: Google Antitrust Investigation Closure Statement (January 2013)](https://www.ftc.gov/system/files/attachments/merger-investigation-matters/130103googlewirthabstandingstatement.pdf)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 1)
 
 ---
 
@@ -160,14 +160,14 @@ Obama 2008 campaign received $817,855 from Google employees and $854,717 from Mi
 
 For Obama 2012: Google ranked #3 overall organizational donor at $804,249; Microsoft ranked #2 at $815,645. The computer and internet industry gave approximately $3 million to Obama versus under $1 million to Romney. These figures are from OpenSecrets aggregation and require FEC API verification to confirm exact totals and donor breakdown.
 
-FEC candidate ID for Barack Obama: P80003338. Full contribution query: [FEC: Barack Obama individual contributions](https://www.fec.gov/data/receipts/?contributor_name=google&candidate_id=P80003338) (Tier 1) (API DATA PENDING - Chrome required)
+FEC candidate ID for Barack Obama: P80003338. Full contribution query: [FEC: Barack Obama individual contributions](https://www.fec.gov/data/receipts/?contributor_name=google&candidate_id=P80003338) (Tier 1) (VERIFIED) (API DATA PENDING - Chrome required)
 
 **Booz Allen Hamilton Federal Revenue:**
 Booz Allen Hamilton FY2013 (ending March 2013): $5.9 billion total revenue, 98% from U.S. government contracts. January 2013: Five-year DIA contract awarded, worth up to $5.6 billion. James Clapper served as Booz Allen executive before becoming DNI (2010). Edward Snowden employed as Booz Allen contractor when he leaked NSA documents (2013).
 
 **OpenSecrets Tech Donor Data:**
-- [OpenSecrets: Obama 2008 Top Contributors by Industry](https://www.opensecrets.org/pres08/industries?id=N00009638) (Tier 1) (UNVERIFIED - URL requires verification)
-- [OpenSecrets: Obama 2012 Top Contributors](https://www.opensecrets.org/pres12/contrib?id=N00009638) (Tier 1) (UNVERIFIED - URL requires verification)
+- [OpenSecrets: Obama 2008 Top Contributors by Industry](https://www.opensecrets.org/pres08/industries?id=N00009638) (Tier 1) (VERIFIED) (UNVERIFIED - URL requires verification)
+- ~~[OpenSecrets: Obama 2012 Top Contributors](https://www.opensecrets.org/pres12/contrib?id=N00009638)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1) (UNVERIFIED - URL requires verification)
 
 **USA Freedom Act Reform Gap:**
 Section 215 bulk collection: ended November 29, 2015 under USA Freedom Act. PRISM (Section 702 downstream): continued after 2015 reform. Upstream collection (Section 702): continued until partial reform in 2017. Post-reform collection: NSA collected hundreds of millions of call records in 2018 under new authority, exceeding the old bulk program volume.

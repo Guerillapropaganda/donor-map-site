@@ -215,14 +215,14 @@ The public option was included in the original House ACA bill (2009) but strippe
 
 ### Sources
 
-- [OpenSecrets: Blue Cross Blue Shield organizational profile — $10.4M contributions, lobbying rank #5 (2024)](https://www.opensecrets.org/orgs/blue-cross-blue-shield/summary?id=D000000109) (Tier 1)
-- [Senate LDA Filings: BCBS lobbying profile — $27.1M (2024), $27.9M (2025), subsidiary breakdown](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [AHA News: BCBS antitrust lawsuit provider settlement platform goes live (December 2024)](https://www.aha.org/news/headline/2024-12-20-bcbs-antitrust-lawsuit-provider-settlement-platform-goes-live) (Tier 2)
-- [BCBS Antitrust Settlement: Official settlement site — $2.8B cash, final approval August 2025](https://www.bcbssettlement.com/) (Tier 1)
-- [Healthcare Dive: Biden administration finalizes modest cut to 2025 Medicare Advantage rates](https://www.healthcaredive.com/news/medicare-advantage-final-rates-2025-modest-cut/711927/) (Tier 2)
-- [CMS: Medicare administrative cost data](https://www.cms.gov/data-research/statistics-trends-and-reports) (Tier 1)
-- [CMS: Insurance marketplace enrollment data](https://www.cms.gov/data-research/statistics-trends-and-reports/marketplace-products) (Tier 1)
-- [Ballotpedia: Blue Cross Blue Shield Association](https://ballotpedia.org/Blue_Cross_Blue_Shield_Association) (Tier 3)
+- [OpenSecrets: Blue Cross Blue Shield organizational profile — $10.4M contributions, lobbying rank #5 (2024)](https://www.opensecrets.org/orgs/blue-cross-blue-shield/summary?id=D000000109) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: BCBS lobbying profile — $27.1M (2024), $27.9M (2025), subsidiary breakdown](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [AHA News: BCBS antitrust lawsuit provider settlement platform goes live (December 2024)](https://www.aha.org/news/headline/2024-12-20-bcbs-antitrust-lawsuit-provider-settlement-platform-goes-live) (Tier 2) (VERIFIED)
+- [BCBS Antitrust Settlement: Official settlement site — $2.8B cash, final approval August 2025](https://www.bcbssettlement.com/) (Tier 1) (VERIFIED)
+- [Healthcare Dive: Biden administration finalizes modest cut to 2025 Medicare Advantage rates](https://www.healthcaredive.com/news/medicare-advantage-final-rates-2025-modest-cut/711927/) (Tier 2) (VERIFIED)
+- ~~[CMS: Medicare administrative cost data](https://www.cms.gov/data-research/statistics-trends-and-reports)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [CMS: Insurance marketplace enrollment data](https://www.cms.gov/data-research/statistics-trends-and-reports/marketplace-products) (Tier 1) (VERIFIED)
+- [Ballotpedia: Blue Cross Blue Shield Association](https://ballotpedia.org/Blue_Cross_Blue_Shield_Association) (Tier 3) (VERIFIED)
 
 ---
 
@@ -260,7 +260,7 @@ The public option was included in the original House ACA bill (2009) but strippe
 - BLUE LAGOON GROUP LTD. (-0-) [SDGT]
   - Remarks: Additional Sanctions Information - Subject to Secondary Sanctions Pursuant to the Hizballah Financial Sanctions Regulations; Secondary sanctions risk: section 1(b) of Executive Order 13224, as amended...
 
-- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
 ### Vehicle Safety (NHTSA)
@@ -278,7 +278,7 @@ The public option was included in the original House ACA bill (2009) but strippe
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Blue%20Cross%20Blue%20Shield%20Association) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Blue%20Cross%20Blue%20Shield%20Association) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Federal Register Activity
@@ -292,15 +292,15 @@ The public option was included in the original House ACA bill (2009) but strippe
 | Agencies | Antitrust Division, Centers for Medicare & Medicaid Services, Employee Benefits Security Administration, Health Care Finance Administration, Health and Human Services Department, Homeland Security Department, Internal Revenue Service, Justice Department +4 more |
 
 **Recent regulatory activity:**
-- [Requirements Related to the Mental Health Parity and Addiction Equity Act](https://www.federalregister.gov/documents/2024/09/23/2024-20612/requirements-related-to-the-mental-health-parity-and-addiction-equity-act) (2024-09-23) — Treasury Department
-- [Cyber Incident Reporting for Critical Infrastructure Act (CIRCIA) Reporting Requirements](https://www.federalregister.gov/documents/2024/04/04/2024-06526/cyber-incident-reporting-for-critical-infrastructure-act-circia-reporting-requirements) (2024-04-04) — Homeland Security Department
-- [Medicare Program; Hospital Outpatient Prospective Payment System: Remedy for the 340B-Acquired Drug Payment Policy for Calendar Years 2018-2022](https://www.federalregister.gov/documents/2023/11/08/2023-24407/medicare-program-hospital-outpatient-prospective-payment-system-remedy-for-the-340b-acquired-drug) (2023-11-08) — Health and Human Services Department ★
-- [Proposed Exemptions From Certain Prohibited Transaction Restrictions](https://www.federalregister.gov/documents/2022/08/24/2022-17995/proposed-exemptions-from-certain-prohibited-transaction-restrictions) (2022-08-24) — Labor Department
-- [Nondiscrimination in Health and Health Education Programs or Activities, Delegation of Authority](https://www.federalregister.gov/documents/2020/06/19/2020-11758/nondiscrimination-in-health-and-health-education-programs-or-activities-delegation-of-authority) (2020-06-19) — Health and Human Services Department ★
-- [Nondiscrimination in Health and Health Education Programs or Activities](https://www.federalregister.gov/documents/2019/06/14/2019-11512/nondiscrimination-in-health-and-health-education-programs-or-activities) (2019-06-14) — Health and Human Services Department ★
+- [Requirements Related to the Mental Health Parity and Addiction Equity Act](https://www.federalregister.gov/documents/2024/09/23/2024-20612/requirements-related-to-the-mental-health-parity-and-addiction-equity-act) (VERIFIED) (2024-09-23) — Treasury Department
+- [Cyber Incident Reporting for Critical Infrastructure Act (CIRCIA) Reporting Requirements](https://www.federalregister.gov/documents/2024/04/04/2024-06526/cyber-incident-reporting-for-critical-infrastructure-act-circia-reporting-requirements) (VERIFIED) (2024-04-04) — Homeland Security Department
+- [Medicare Program; Hospital Outpatient Prospective Payment System: Remedy for the 340B-Acquired Drug Payment Policy for Calendar Years 2018-2022](https://www.federalregister.gov/documents/2023/11/08/2023-24407/medicare-program-hospital-outpatient-prospective-payment-system-remedy-for-the-340b-acquired-drug) (VERIFIED) (2023-11-08) — Health and Human Services Department ★
+- [Proposed Exemptions From Certain Prohibited Transaction Restrictions](https://www.federalregister.gov/documents/2022/08/24/2022-17995/proposed-exemptions-from-certain-prohibited-transaction-restrictions) (VERIFIED) (2022-08-24) — Labor Department
+- [Nondiscrimination in Health and Health Education Programs or Activities, Delegation of Authority](https://www.federalregister.gov/documents/2020/06/19/2020-11758/nondiscrimination-in-health-and-health-education-programs-or-activities-delegation-of-authority) (VERIFIED) (2020-06-19) — Health and Human Services Department ★
+- [Nondiscrimination in Health and Health Education Programs or Activities](https://www.federalregister.gov/documents/2019/06/14/2019-11512/nondiscrimination-in-health-and-health-education-programs-or-activities) (VERIFIED) (2019-06-14) — Health and Human Services Department ★
 - ... and 21 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Blue%20Cross%20Blue%20Shield%20Association%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Blue%20Cross%20Blue%20Shield%20Association%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -315,7 +315,7 @@ The public option was included in the original House ACA bill (2009) but strippe
 | Net Assets | $1.1B |
 | Officer Compensation | $25.1M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 135656874](https://projects.propublica.org/nonprofits/organizations/135656874) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 135656874](https://projects.propublica.org/nonprofits/organizations/135656874) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Federal Court Records (CourtListener)
@@ -334,5 +334,5 @@ The public option was included in the original House ACA bill (2009) but strippe
 - GERALD SEITZINGER, INDIVIDUALLY AND AS GUARDIAN OF DS v. ARAMARK SERVICES, INC. FSS EMPLOYEE MEDICAL PLAN (2025) — District Court, E.D. Pennsylvania
 - Doe v. United States Office of Personnel Management, et al. (2025) — Court of Appeals for the Ninth Circuit
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Blue%20Cross%20Blue%20Shield%20Association%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Blue%20Cross%20Blue%20Shield%20Association%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->

@@ -163,8 +163,8 @@ The CTA non-endorsement through March 2026 may reflect CTA's uncertainty about w
 
 ### Sources
 
-- [EdSource: Schools chief uses influence to shape policy during pandemic, but lacks power to make big decisions](https://edsource.org/2021/state-schools-chief-lacks-power-to-make-big-decisions-uses-influence-to-shape-policy-during-pandemic/651480) (Tier 2)
-- [CalMatters: Billionaires vs teachers union — charter school fight amps up race for California governor](https://calmatters.org/education/2018/05/billionaires-vs-teachers-union-a-fight-over-charter-schools-amps-up-race-for-california-governor/) (Tier 2)
-- [EdSource: Tony Thurmond cruises to reelection as California state superintendent](https://edsource.org/2022/tony-thurmond-cruises-to-re-election-as-california-state-superintendent/681035) (Tier 2)
-- [San Diego Union-Tribune: Netflix CEO Reed Hastings donates $7 million to pro-Villaraigosa group](https://www.sandiegouniontribune.com/la-pol-ca-essential-politics-updates-netflix-ceo-and-ed-reform-advocate-reed-1523495119-htmlstory.html) (Tier 2)
+- [EdSource: Schools chief uses influence to shape policy during pandemic, but lacks power to make big decisions](https://edsource.org/2021/state-schools-chief-lacks-power-to-make-big-decisions-uses-influence-to-shape-policy-during-pandemic/651480) (Tier 2) (VERIFIED)
+- [CalMatters: Billionaires vs teachers union — charter school fight amps up race for California governor](https://calmatters.org/education/2018/05/billionaires-vs-teachers-union-a-fight-over-charter-schools-amps-up-race-for-california-governor/) (Tier 2) (VERIFIED)
+- [EdSource: Tony Thurmond cruises to reelection as California state superintendent](https://edsource.org/2022/tony-thurmond-cruises-to-re-election-as-california-state-superintendent/681035) (Tier 2) (VERIFIED)
+- ~~[San Diego Union-Tribune: Netflix CEO Reed Hastings donates $7 million to pro-Villaraigosa group](https://www.sandiegouniontribune.com/la-pol-ca-essential-politics-updates-netflix-ceo-and-ed-reform-advocate-reed-1523495119-htmlstory.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 

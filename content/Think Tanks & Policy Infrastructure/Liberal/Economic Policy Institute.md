@@ -254,24 +254,24 @@ The critical question for class analysis is not whether EPI's research is accura
 
 ### Sources
 
-- [ProPublica Nonprofit Explorer: Economic Policy Institute IRS 990 filings 2011–2024](https://projects.propublica.org/nonprofits/organizations/521368964) (Tier 1)
-- [EPI: Funder acknowledgments and disclosure principles, 2021 donor list](https://www.epi.org/about/funder-acknowledgments-and-disclosure-principles/) (Tier 3)
-- [Wikipedia: Economic Policy Institute, history, policy proposals, funding](https://en.wikipedia.org/wiki/Economic_Policy_Institute) (Tier 3)
-- [Wikipedia: Heidi Shierholz, career at EPI and Obama DOL](https://en.wikipedia.org/wiki/Heidi_Shierholz) (Tier 3)
-- [EPI Board of Directors, current board composition](https://www.epi.org/about/board/) (Tier 3)
-- [EPI: The workers' think tank, a history of the Economic Policy Institute](https://www.epi.org/publication/the-workers-think-tank-a-history-of-the-economic-policy-institute/) (Tier 3)
-- [EPI: State of Working America, flagship data publication](https://www.epi.org/research/state-of-working-america/) (Tier 3)
-- [EPI: Raising the federal minimum wage to $15 by 2025 would lift pay of 32 million workers](https://www.epi.org/publication/raising-the-federal-minimum-wage-to-15-by-2025-would-lift-the-pay-of-32-million-workers/) (Tier 3)
-- [EPI: Why workers need the PRO Act, fact sheet on labor law reform](https://www.epi.org/publication/why-workers-need-the-pro-act-fact-sheet/) (Tier 3)
-- [EPI: Unlawful, employers charged with violating federal law in 41.5% of union election campaigns](https://www.epi.org/publication/unlawful-employer-opposition-to-union-election-campaigns/) (Tier 2)
-- [EPI: The Biden board, how Biden's NLRB appointees are restoring workers' rights](https://www.epi.org/publication/bidens-nlrb-restoring-rights/) (Tier 3)
-- [NPR: Longtime AFL-CIO official takes up key labor post in Biden administration (Thea Lee)](https://www.npr.org/2021/05/10/995542715/longtime-afl-cio-official-takes-up-key-labor-post-in-biden-administration) (Tier 2)
-- [Ballotpedia: Economic Policy Institute](https://ballotpedia.org/Economic_Policy_Institute) (Tier 3)
-- [OpenSecrets: Economic Policy Institute profile](https://www.opensecrets.org/orgs/economic-policy-institute/summary?id=D000077354) (Tier 1)
-- [SourceWatch: Economic Policy Institute, tobacco funding history, Tobacco Institute relationship documentation](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Economic_Policy_Institute) (Tier 3)
-- [EPI: Unprecedented. The Trump NLRB's attack on workers' rights (5 simultaneous rulemakings, quorum loss, constitutional challenge)](https://www.epi.org/publication/unprecedented-the-trump-nlrbs-attack-on-workers-rights/) (Tier 2)
-- [EPI: Trump is the biggest union-buster in U.S. history, 1 million federal workers' collective bargaining rights at risk](https://www.epi.org/blog/trump-is-the-biggest-union-buster-in-u-s-history-more-than-1-million-federal-workers-collective-bargaining-rights-are-at-risk/) (Tier 2)
-- [EPI: Federal Policy Watch, real-time tracker of Trump administration changes to worker protections](https://www.epi.org/policywatch/) (Tier 3)
+- [ProPublica Nonprofit Explorer: Economic Policy Institute IRS 990 filings 2011–2024](https://projects.propublica.org/nonprofits/organizations/521368964) (Tier 1) (VERIFIED)
+- ~~[EPI: Funder acknowledgments and disclosure principles, 2021 donor list](https://www.epi.org/about/funder-acknowledgments-and-disclosure-principles/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [Wikipedia: Economic Policy Institute, history, policy proposals, funding](https://en.wikipedia.org/wiki/Economic_Policy_Institute) (Tier 3) (VERIFIED)
+- [Wikipedia: Heidi Shierholz, career at EPI and Obama DOL](https://en.wikipedia.org/wiki/Heidi_Shierholz) (Tier 3) (VERIFIED)
+- ~~[EPI Board of Directors, current board composition](https://www.epi.org/about/board/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [EPI: The workers' think tank, a history of the Economic Policy Institute](https://www.epi.org/publication/the-workers-think-tank-a-history-of-the-economic-policy-institute/) (Tier 3) (VERIFIED)
+- ~~[EPI: State of Working America, flagship data publication](https://www.epi.org/research/state-of-working-america/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [EPI: Raising the federal minimum wage to $15 by 2025 would lift pay of 32 million workers](https://www.epi.org/publication/raising-the-federal-minimum-wage-to-15-by-2025-would-lift-the-pay-of-32-million-workers/) (Tier 3) (VERIFIED)
+- [EPI: Why workers need the PRO Act, fact sheet on labor law reform](https://www.epi.org/publication/why-workers-need-the-pro-act-fact-sheet/) (Tier 3) (VERIFIED)
+- ~~[EPI: Unlawful, employers charged with violating federal law in 41.5% of union election campaigns](https://www.epi.org/publication/unlawful-employer-opposition-to-union-election-campaigns/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[EPI: The Biden board, how Biden's NLRB appointees are restoring workers' rights](https://www.epi.org/publication/bidens-nlrb-restoring-rights/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [NPR: Longtime AFL-CIO official takes up key labor post in Biden administration (Thea Lee)](https://www.npr.org/2021/05/10/995542715/longtime-afl-cio-official-takes-up-key-labor-post-in-biden-administration) (Tier 2) (VERIFIED)
+- [Ballotpedia: Economic Policy Institute](https://ballotpedia.org/Economic_Policy_Institute) (Tier 3) (VERIFIED)
+- [OpenSecrets: Economic Policy Institute profile](https://www.opensecrets.org/orgs/economic-policy-institute/summary?id=D000077354) (Tier 1) (VERIFIED)
+- ~~[SourceWatch: Economic Policy Institute, tobacco funding history, Tobacco Institute relationship documentation](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Economic_Policy_Institute)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [EPI: Unprecedented. The Trump NLRB's attack on workers' rights (5 simultaneous rulemakings, quorum loss, constitutional challenge)](https://www.epi.org/publication/unprecedented-the-trump-nlrbs-attack-on-workers-rights/) (Tier 2) (VERIFIED)
+- [EPI: Trump is the biggest union-buster in U.S. history, 1 million federal workers' collective bargaining rights at risk](https://www.epi.org/blog/trump-is-the-biggest-union-buster-in-u-s-history-more-than-1-million-federal-workers-collective-bargaining-rights-are-at-risk/) (Tier 2) (VERIFIED)
+- [EPI: Federal Policy Watch, real-time tracker of Trump administration changes to worker protections](https://www.epi.org/policywatch/) (Tier 3) (VERIFIED)
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->
@@ -288,14 +288,14 @@ The critical question for class analysis is not whether EPI's research is accura
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/521368964/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/521368964/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/521368964/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/521368964/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/521368964/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/521368964/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/521368964/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/521368964/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/521368964/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/521368964/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/521368964) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/521368964) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Foreign Agent Activity (FARA)
@@ -311,7 +311,7 @@ The critical question for class analysis is not whether EPI's research is accura
 **Foreign principals:**
 - Korea Institute for International Economic Policy (KIEP) (KOREA SOUTH)
 
-- [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Economic%20Policy%20Institute) (Tier 1)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Economic%20Policy%20Institute)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:fara-foreign-agents end -->
 
 ### Federal Register Activity
@@ -325,15 +325,15 @@ The critical question for class analysis is not whether EPI's research is accura
 | Agencies | Children and Families Administration, Education Department, Employment and Training Administration, Environmental Protection Agency, Financial Stability Oversight Council, Health and Human Services Department, Homeland Security Department, Labor Department +3 more |
 
 **Recent regulatory activity:**
-- [Improving Wage Protections for the Temporary and Permanent Employment of Certain Foreign Nationals in the United States](https://www.federalregister.gov/documents/2026/03/27/2026-06017/improving-wage-protections-for-the-temporary-and-permanent-employment-of-certain-foreign-nationals) (2026-03-27) — Labor Department
-- [Weighted Selection Process for Registrants and Petitioners Seeking To File Cap-Subject H-1B Petitions](https://www.federalregister.gov/documents/2025/12/29/2025-23853/weighted-selection-process-for-registrants-and-petitioners-seeking-to-file-cap-subject-h-1b) (2025-12-29) — Homeland Security Department ★
-- [Weighted Selection Process for Registrants and Petitioners Seeking To File Cap-Subject H-1B Petitions](https://www.federalregister.gov/documents/2025/09/24/2025-18473/weighted-selection-process-for-registrants-and-petitioners-seeking-to-file-cap-subject-h-1b) (2025-09-24) — Homeland Security Department ★
-- [Supporting the Head Start Workforce and Consistent Quality Programming](https://www.federalregister.gov/documents/2024/08/21/2024-18279/supporting-the-head-start-workforce-and-consistent-quality-programming) (2024-08-21) — Health and Human Services Department
-- [Representation-Case Procedures: Election Bars; Proof of Majority Support in Construction Industry Collective-Bargaining Relationships](https://www.federalregister.gov/documents/2024/08/01/2024-16535/representation-case-procedures-election-bars-proof-of-majority-support-in-construction-industry) (2024-08-01) — National Labor Relations Board ★
-- [Improving Protections for Workers in Temporary Agricultural Employment in the United States](https://www.federalregister.gov/documents/2024/04/29/2024-08333/improving-protections-for-workers-in-temporary-agricultural-employment-in-the-united-states) (2024-04-29) — Labor Department ★
+- [Improving Wage Protections for the Temporary and Permanent Employment of Certain Foreign Nationals in the United States](https://www.federalregister.gov/documents/2026/03/27/2026-06017/improving-wage-protections-for-the-temporary-and-permanent-employment-of-certain-foreign-nationals) (VERIFIED) (2026-03-27) — Labor Department
+- [Weighted Selection Process for Registrants and Petitioners Seeking To File Cap-Subject H-1B Petitions](https://www.federalregister.gov/documents/2025/12/29/2025-23853/weighted-selection-process-for-registrants-and-petitioners-seeking-to-file-cap-subject-h-1b) (VERIFIED) (2025-12-29) — Homeland Security Department ★
+- [Weighted Selection Process for Registrants and Petitioners Seeking To File Cap-Subject H-1B Petitions](https://www.federalregister.gov/documents/2025/09/24/2025-18473/weighted-selection-process-for-registrants-and-petitioners-seeking-to-file-cap-subject-h-1b) (VERIFIED) (2025-09-24) — Homeland Security Department ★
+- [Supporting the Head Start Workforce and Consistent Quality Programming](https://www.federalregister.gov/documents/2024/08/21/2024-18279/supporting-the-head-start-workforce-and-consistent-quality-programming) (VERIFIED) (2024-08-21) — Health and Human Services Department
+- [Representation-Case Procedures: Election Bars; Proof of Majority Support in Construction Industry Collective-Bargaining Relationships](https://www.federalregister.gov/documents/2024/08/01/2024-16535/representation-case-procedures-election-bars-proof-of-majority-support-in-construction-industry) (VERIFIED) (2024-08-01) — National Labor Relations Board ★
+- [Improving Protections for Workers in Temporary Agricultural Employment in the United States](https://www.federalregister.gov/documents/2024/04/29/2024-08333/improving-protections-for-workers-in-temporary-agricultural-employment-in-the-united-states) (VERIFIED) (2024-04-29) — Labor Department ★
 - ... and 83 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Economic%20Policy%20Institute%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Economic%20Policy%20Institute%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### SEC Filing Activity
@@ -351,5 +351,5 @@ The critical question for class analysis is not whether EPI's research is accura
 - 2025-05-02 — **PX14A6G**: PX14A6G
 - 2025-04-30 — **PX14A6G**: PX14A6G
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Economic%20Policy%20Institute%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Economic%20Policy%20Institute%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->

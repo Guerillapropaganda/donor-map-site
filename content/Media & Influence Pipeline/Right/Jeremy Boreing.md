@@ -43,7 +43,7 @@ No FEC individual contributions found. The FEC API returns 0 results for "BOREIN
 > [!money]
 > Boreing built the infrastructure for political influence, the capital returns flow through equity and consumer brands, not personal donations. The pattern is identical to Ben Shapiro ($0), Matt Walsh ($0), Michael Knowles ($0), and Laura Ingraham ($0): Daily Wire principals exercise political influence through platform scale, not personal campaign giving. This is the Daily Wire model, the donor (Wilks Brothers) provides capital, the talent provides reach, and the capital returns flow through equity stakes and consumer brand revenue rather than political contributions.
 
-- [FEC: Jeremy Boreing individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=BOREING%2C+JEREMY) (Tier 1)
+- [FEC: Jeremy Boreing individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=BOREING%2C+JEREMY) (Tier 1) (VERIFIED)
 
 ### Who Funds Them
 
@@ -153,20 +153,20 @@ Boreing's model differs from individual host capture, he built the platform infr
 
 ### Sources
 
-- [Jeremy Boreing. Wikipedia](https://en.wikipedia.org/wiki/Jeremy_Boreing) (Tier 3) (WebFetch/WebSearch verified 2026-03-27)
-- [The Daily Wire. Wikipedia](https://en.wikipedia.org/wiki/The_Daily_Wire) (Tier 3) (WebFetch/WebSearch verified 2026-03-27)
-- [Axios: Daily Wire co-CEO Jeremy Boreing to step down (March 18, 2025)](https://www.axios.com/2025/03/18/daily-wire-jeremy-boreing-steps-down) (Tier 2) (WebFetch/WebSearch verified 2026-03-27)
-- [Axios: The Daily Wire says it's a $100M a year business (February 2022)](https://www.axios.com/2022/02/08/daily-wire-revenue-shapiro-boreing) (Tier 2) (WebFetch/WebSearch verified 2026-03-27)
-- [Axios: The Daily Wire made $22 million from commerce in 2023 (May 2024)](https://www.axios.com/2024/05/28/daily-wire-commerce-revenue-2023) (Tier 2) (WebFetch/WebSearch verified 2026-03-27)
-- [Axios: The Daily Wire eyes growth investment in 2025 (December 2024)](https://www.axios.com/2024/12/10/the-daily-wire-eyes-growth-investment-in-2025) (Tier 2) (WebFetch/WebSearch verified 2026-03-27)
-- [Deadline: Jeremy Boreing first interview since Daily Wire exit. Shapiro, Owens, Pendragon Cycle (January 2026)](https://deadline.com/2026/01/daily-wire-jeremy-boreing-candace-owens-ben-shapiro-1236692277/) (Tier 2) (WebFetch/WebSearch verified 2026-03-27)
-- [Deadline: Jeremy Boreing launches The Jeremy Boreing Show (March 2026)](https://deadline.com/2026/03/jeremy-boreing-daily-wire-launches-jeremy-boreing-show-1236758039/) (Tier 2) (WebFetch/WebSearch verified 2026-03-27)
-- [The Wrap: Daily Wire Co-CEO Jeremy Boreing Steps Down](https://www.thewrap.com/daily-wire-co-ceo-steps-down-jeremy-boreing/) (Tier 2) (WebFetch/WebSearch verified 2026-03-27)
-- [Hollywood Reporter: Friends of Abe. Hollywood conservatives' secretive group](https://www.hollywoodreporter.com/news/politics-news/head-hollywoods-secretive-republican-group-887032/) (Tier 2) (WebFetch/WebSearch verified 2026-03-27)
-- [In These Times: How a Shadowy Hollywood Conservative Group Gamed the IRS](https://inthesetimes.com/article/shadowy-hollywood-conservative-group-cheated-irs-documents-show) (Tier 2) (WebFetch/WebSearch verified 2026-03-27)
-- [Mediaite: Daily Wire made a 'Game of Thrones'-sized bet with Pendragon Cycle](https://www.mediaite.com/media/daily-wire-made-a-game-of-thrones-sized-bet-with-fantasy-series-producers-say-it-was-more-than-worth-it/) (Tier 3) (WebFetch/WebSearch verified 2026-03-27)
-- [Vice: Fracking Billionaires, Ben Shapiro, and PragerU Built a Climate Denial Empire](https://www.vice.com/en/article/fracking-farris-dan-wilks-prageru-climate-crisis-denial-shapiro/) (Tier 2) (WebFetch/WebSearch verified 2026-03-27)
-- [FEC: Jeremy Boreing individual contributions](https://www.fec.gov/data/receipts/?contributor_name=BOREING%2C+JEREMY) (Tier 1) (Chrome required. API rate-limited HTTP 429, 2026-03-27)
+- [Jeremy Boreing. Wikipedia](https://en.wikipedia.org/wiki/Jeremy_Boreing) (Tier 3) (VERIFIED) (WebFetch/WebSearch verified 2026-03-27)
+- [The Daily Wire. Wikipedia](https://en.wikipedia.org/wiki/The_Daily_Wire) (Tier 3) (VERIFIED) (WebFetch/WebSearch verified 2026-03-27)
+- ~~[Axios: Daily Wire co-CEO Jeremy Boreing to step down (March 18, 2025)](https://www.axios.com/2025/03/18/daily-wire-jeremy-boreing-steps-down)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (WebFetch/WebSearch verified 2026-03-27)
+- ~~[Axios: The Daily Wire says it's a $100M a year business (February 2022)](https://www.axios.com/2022/02/08/daily-wire-revenue-shapiro-boreing)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (WebFetch/WebSearch verified 2026-03-27)
+- ~~[Axios: The Daily Wire made $22 million from commerce in 2023 (May 2024)](https://www.axios.com/2024/05/28/daily-wire-commerce-revenue-2023)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (WebFetch/WebSearch verified 2026-03-27)
+- ~~[Axios: The Daily Wire eyes growth investment in 2025 (December 2024)](https://www.axios.com/2024/12/10/the-daily-wire-eyes-growth-investment-in-2025)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (WebFetch/WebSearch verified 2026-03-27)
+- [Deadline: Jeremy Boreing first interview since Daily Wire exit. Shapiro, Owens, Pendragon Cycle (January 2026)](https://deadline.com/2026/01/daily-wire-jeremy-boreing-candace-owens-ben-shapiro-1236692277/) (Tier 2) (VERIFIED) (WebFetch/WebSearch verified 2026-03-27)
+- [Deadline: Jeremy Boreing launches The Jeremy Boreing Show (March 2026)](https://deadline.com/2026/03/jeremy-boreing-daily-wire-launches-jeremy-boreing-show-1236758039/) (Tier 2) (VERIFIED) (WebFetch/WebSearch verified 2026-03-27)
+- [The Wrap: Daily Wire Co-CEO Jeremy Boreing Steps Down](https://www.thewrap.com/daily-wire-co-ceo-steps-down-jeremy-boreing/) (Tier 2) (VERIFIED) (WebFetch/WebSearch verified 2026-03-27)
+- [Hollywood Reporter: Friends of Abe. Hollywood conservatives' secretive group](https://www.hollywoodreporter.com/news/politics-news/head-hollywoods-secretive-republican-group-887032/) (Tier 2) (VERIFIED) (WebFetch/WebSearch verified 2026-03-27)
+- [In These Times: How a Shadowy Hollywood Conservative Group Gamed the IRS](https://inthesetimes.com/article/shadowy-hollywood-conservative-group-cheated-irs-documents-show) (Tier 2) (VERIFIED) (WebFetch/WebSearch verified 2026-03-27)
+- [Mediaite: Daily Wire made a 'Game of Thrones'-sized bet with Pendragon Cycle](https://www.mediaite.com/media/daily-wire-made-a-game-of-thrones-sized-bet-with-fantasy-series-producers-say-it-was-more-than-worth-it/) (Tier 3) (VERIFIED) (WebFetch/WebSearch verified 2026-03-27)
+- [Vice: Fracking Billionaires, Ben Shapiro, and PragerU Built a Climate Denial Empire](https://www.vice.com/en/article/fracking-farris-dan-wilks-prageru-climate-crisis-denial-shapiro/) (Tier 2) (VERIFIED) (WebFetch/WebSearch verified 2026-03-27)
+- [FEC: Jeremy Boreing individual contributions](https://www.fec.gov/data/receipts/?contributor_name=BOREING%2C+JEREMY) (Tier 1) (VERIFIED) (Chrome required. API rate-limited HTTP 429, 2026-03-27)
 
 **Note:** 13 non-FEC sources verified via WebFetch/WebSearch (2026-03-27); key Axios and Deadline sources Chrome-verified 2026-03-27. FEC confirmed $0 via Chrome JavaScript API execution 2026-03-27.
 

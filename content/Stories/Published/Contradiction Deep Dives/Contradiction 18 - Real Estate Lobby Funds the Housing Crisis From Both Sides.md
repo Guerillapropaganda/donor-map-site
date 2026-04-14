@@ -18,9 +18,9 @@ tags: #analysis #story
 
 ---
 
-NAR spent $86.4 million on federal lobbying in 2024, more than any other organization in the United States, a 10× increase from $17.6 million in 2010. The real estate sector total: $150.9 million in federal lobbying in 2024. Finance/insurance/real estate combined: $636 million. [Senate LDA Filings: NAR Lobbying Summary](https://lda.gov/filings/public/filing/search/) (Tier 1), [RealEstateNews.com: NAR Spent More on Lobbying Than Any Other Group in 2024](https://www.realestatenews.com/2025/02/14/nar-spent-more-on-lobbying-than-any-other-group-in-2024) (Tier 2)
+NAR spent $86.4 million on federal lobbying in 2024, more than any other organization in the United States, a 10× increase from $17.6 million in 2010. The real estate sector total: $150.9 million in federal lobbying in 2024. Finance/insurance/real estate combined: $636 million. [Senate LDA Filings: NAR Lobbying Summary](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED), [RealEstateNews.com: NAR Spent More on Lobbying Than Any Other Group in 2024](https://www.realestatenews.com/2025/02/14/nar-spent-more-on-lobbying-than-any-other-group-in-2024) (Tier 2) (VERIFIED)
 
-NAR deliberately splits PAC money ~50/50 between parties: 43.7% Democrat / 56.3% Republican in 2024; 50.7% Democrat / 49.3% Republican in 2022. RPAC raised $45.8 million in 2024. NAR gave $2 million to Senate Majority PAC (Democratic) and $1 million to Senate Leadership Fund (Republican), buying both sides simultaneously. [OpenSecrets: NAR Totals](https://www.opensecrets.org/orgs/national-assn-of-realtors/totals?id=D000000062) (Tier 1)
+NAR deliberately splits PAC money ~50/50 between parties: 43.7% Democrat / 56.3% Republican in 2024; 50.7% Democrat / 49.3% Republican in 2022. RPAC raised $45.8 million in 2024. NAR gave $2 million to Senate Majority PAC (Democratic) and $1 million to Senate Leadership Fund (Republican), buying both sides simultaneously. ~~[OpenSecrets: NAR Totals](https://www.opensecrets.org/orgs/national-assn-of-realtors/totals?id=D000000062)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1) (VERIFIED)
 
 > [!money]
 > NAR is the #1 lobbying spender in America. It splits money 50/50 between parties. It gave $2M to the Democratic Senate super PAC and $1M to the Republican Senate super PAC in the same cycle. This is not hedging, it is purchasing bipartisan protection for the housing market status quo.
@@ -40,7 +40,7 @@ NAR deliberately splits PAC money ~50/50 between parties: 43.7% Democrat / 56.3%
 | [[_Mario Diaz-Balart Master Profile|Mario Diaz-Balart]] | R-FL | $122,000 | Appropriations (HUD) |
 | Joyce Beatty | D-OH | $38,500 | Financial Services |
 
-[OpenSecrets: NAR Recipients](https://www.opensecrets.org/orgs/national-assn-of-realtors/recipients?id=D000000062) (Tier 1)
+~~[OpenSecrets: NAR Recipients](https://www.opensecrets.org/orgs/national-assn-of-realtors/recipients?id=D000000062)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -50,15 +50,15 @@ NAR deliberately splits PAC money ~50/50 between parties: 43.7% Democrat / 56.3%
 
 ### New York IDC Scandal
 
-Democratic state senators who caucused with Republicans to block rent control for nearly a decade received $320,000 from rental developers (Jeff Klein alone), while REBNY members gave $21.7 million to New York campaigns in a single cycle. Governor Andrew Cuomo received $11.2 million from REBNY members. [Politico: REBNY Members Gave a Tenth of All NY Campaign Money](https://www.politico.com/states/new-york/albany/story/2015/04/rebny-members-gave-a-tenth-of-all-ny-campaign-money-021345) (Tier 2)
+Democratic state senators who caucused with Republicans to block rent control for nearly a decade received $320,000 from rental developers (Jeff Klein alone), while REBNY members gave $21.7 million to New York campaigns in a single cycle. Governor Andrew Cuomo received $11.2 million from REBNY members. ~~[Politico: REBNY Members Gave a Tenth of All NY Campaign Money](https://www.politico.com/states/new-york/albany/story/2015/04/rebny-members-gave-a-tenth-of-all-ny-campaign-money-021345)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ### California SB 50
 
-Sen. Anthony Portantino (D) killed California's most significant zoning reform bill after receiving $574,246 from real estate, over one-third of his total campaign funding. [City Journal: Who Killed Zoning Reform in California](https://www.city-journal.org/article/who-killed-zoning-reform-in-california) (Tier 2)
+Sen. Anthony Portantino (D) killed California's most significant zoning reform bill after receiving $574,246 from real estate, over one-third of his total campaign funding. [City Journal: Who Killed Zoning Reform in California](https://www.city-journal.org/article/who-killed-zoning-reform-in-california) (Tier 2) (VERIFIED)
 
 ### California Prop 33 (2024)
 
-The real estate lobby spent $121.7 million to defeat rent control, led by California Apartment Association ($85.8M), California Association of Realtors ($22M), and NAR ($5M). [Ballotpedia: California Proposition 33 (2024)](https://ballotpedia.org/California_Proposition_33,_Prohibit_State_Limitations_on_Local_Rent_Control_Initiative_(2024)) (Tier 2)
+The real estate lobby spent $121.7 million to defeat rent control, led by California Apartment Association ($85.8M), California Association of Realtors ($22M), and NAR ($5M). [Ballotpedia: California Proposition 33 (2024)](https://ballotpedia.org/California_Proposition_33,_Prohibit_State_Limitations_on_Local_Rent_Control_Initiative_(2024) (VERIFIED)) (Tier 2)
 
 > [!contradiction]
 > Democrats in New York blocked rent control for a decade while collecting developer money. A California Democrat killed the state's biggest zoning reform bill with one-third of his funding from real estate. The real estate lobby spent $121.7 million to defeat a rent control ballot measure in deep-blue California. Democratic voters want housing reform. Democratic politicians take the money that blocks it.
@@ -69,9 +69,9 @@ The real estate lobby spent $121.7 million to defeat rent control, led by Califo
 
 ---
 
-House Republicans passed H.R. 2811 on a party-line vote of 217–215 to cut HUD by 23%, slash HOME by 60%, and eliminate public housing capital funding. [NLIHC: House Republicans Pass Disastrous Budget Proposal](https://nlihc.org/resource/house-republicans-pass-disastrous-budget-proposal-gutting-hud-affordable-housing-and-0) (Tier 2)
+House Republicans passed H.R. 2811 on a party-line vote of 217–215 to cut HUD by 23%, slash HOME by 60%, and eliminate public housing capital funding. [NLIHC: House Republicans Pass Disastrous Budget Proposal](https://nlihc.org/resource/house-republicans-pass-disastrous-budget-proposal-gutting-hud-affordable-housing-and-0) (Tier 2) (VERIFIED)
 
-Trump's FY2020 budget proposed cutting $9.6 billion from HUD, eliminating HOME entirely, and cutting public housing capital by 68%. [[_Ted Cruz Master Profile|Ted Cruz]] (R-TX) voted against the 2026 housing bill after receiving $1.79 million from real estate. [Center Square/WRE News: Senators Opposed to Housing Reform Received Hefty Donations](https://wrenews.com/report-senators-opposed-to-housing-reform-bill-received-hefty-donations-from-institutional-investors/) (Tier 2)
+Trump's FY2020 budget proposed cutting $9.6 billion from HUD, eliminating HOME entirely, and cutting public housing capital by 68%. [[_Ted Cruz Master Profile|Ted Cruz]] (R-TX) voted against the 2026 housing bill after receiving $1.79 million from real estate. [Center Square/WRE News: Senators Opposed to Housing Reform Received Hefty Donations](https://wrenews.com/report-senators-opposed-to-housing-reform-bill-received-hefty-donations-from-institutional-investors/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -116,12 +116,12 @@ The result: housing costs rise, homeownership rates stagnate for working-class A
 - [Senate LDA Filings: NAR Lobbying Summary](https://lda.gov/filings/public/filing/search/) (Tier 1)
 - [OpenSecrets: NAR Totals](https://www.opensecrets.org/orgs/national-assn-of-realtors/totals?id=D000000062) (Tier 1)
 - [OpenSecrets: NAR Recipients](https://www.opensecrets.org/orgs/national-assn-of-realtors/recipients?id=D000000062) (Tier 1)
-- [RealEstateNews: NAR Spent More on Lobbying Than Any Other Group 2024](https://www.realestatenews.com/2025/02/14/nar-spent-more-on-lobbying-than-any-other-group-in-2024) (Tier 2)
-- [NLIHC: House Republicans Pass Disastrous Budget](https://nlihc.org/resource/house-republicans-pass-disastrous-budget-proposal-gutting-hud-affordable-housing-and-0) (Tier 2)
+- [RealEstateNews: NAR Spent More on Lobbying Than Any Other Group 2024](https://www.realestatenews.com/2025/02/14/nar-spent-more-on-lobbying-than-any-other-group-in-2024) (Tier 2) (VERIFIED)
+- [NLIHC: House Republicans Pass Disastrous Budget](https://nlihc.org/resource/house-republicans-pass-disastrous-budget-proposal-gutting-hud-affordable-housing-and-0) (Tier 2) (VERIFIED)
 - [Politico: REBNY Members Gave a Tenth of All NY Campaign Money](https://www.politico.com/states/new-york/albany/story/2015/04/rebny-members-gave-a-tenth-of-all-ny-campaign-money-021345) (Tier 2)
 - [City Journal: Who Killed Zoning Reform in California](https://www.city-journal.org/article/who-killed-zoning-reform-in-california) (Tier 2)
-- [Ballotpedia: California Proposition 33 2024](https://ballotpedia.org/California_Proposition_33,_Prohibit_State_Limitations_on_Local_Rent_Control_Initiative_(2024)) (Tier 2)
-- [Center Square/WRE News: Senators Opposed to Housing Reform Donations](https://wrenews.com/report-senators-opposed-to-housing-reform-bill-received-hefty-donations-from-institutional-investors/) (Tier 2)
+- [Ballotpedia: California Proposition 33 2024](https://ballotpedia.org/California_Proposition_33,_Prohibit_State_Limitations_on_Local_Rent_Control_Initiative_(2024) (VERIFIED)) (Tier 2)
+- [Center Square/WRE News: Senators Opposed to Housing Reform Donations](https://wrenews.com/report-senators-opposed-to-housing-reform-bill-received-hefty-donations-from-institutional-investors/) (Tier 2) (VERIFIED)
 
 ---
 

@@ -107,15 +107,15 @@ Education — charter school expansion, school funding formula, district account
 | Net Assets | $34.1M |
 | Officer Compensation | $1.6M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 510465703](https://projects.propublica.org/nonprofits/organizations/510465703) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 510465703](https://projects.propublica.org/nonprofits/organizations/510465703) (Tier 1) (VERIFIED)
 
 <!-- auto:propublica-990 end -->
 
 ### Sources
 
-- [CalMatters: What 'Governor Dad' did this year for CA kids — charter school legislation](https://calmatters.org/category/education/k-12-education/2019/10/charter-schools-california-legislation-newsom-start-time-teacher-maternity-leave-bonds/) (Tier 2)
-- [Network for Public Education: Charter funding impact](https://networkforpubliceducation.org/?s=California%20Charter%20Schools%20Association) (Tier 2)
-- [LA Times: AB 1507 veto and CCSA position](https://www.latimes.com/california/story/2019-10-13/newsom-vetoes-charter-school-geographic-restriction-bill) *(source unavailable)* (Tier 2)
+- ~~[CalMatters: What 'Governor Dad' did this year for CA kids — charter school legislation](https://calmatters.org/category/education/k-12-education/2019/10/charter-schools-california-legislation-newsom-start-time-teacher-maternity-leave-bonds/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Network for Public Education: Charter funding impact](https://networkforpubliceducation.org/?s=California%20Charter%20Schools%20Association) (Tier 2) (VERIFIED)
+- ~~[LA Times: AB 1507 veto and CCSA position](https://www.latimes.com/california/story/2019-10-13/newsom-vetoes-charter-school-geographic-restriction-bill)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
 
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->
@@ -133,7 +133,7 @@ Education — charter school expansion, school funding formula, district account
 
 **Agencies contacted:** AMTRAK - Natl Railroad Passenger Corporation, Administration for Children & Families (ACF), Agriculture, Dept of (USDA), Army, Dept of (Corps of Engineers), Bureau of Reclamation, Centers For Disease Control & Prevention (CDC), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Consumer Financial Protection Bureau (CFPB), Council on Environmental Quality (CEQ) +49 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=California%20Charter%20Schools%20Association) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=California%20Charter%20Schools%20Association) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

@@ -169,16 +169,16 @@ Alabama is the fifth-poorest state in America. 46th in healthcare, 48th in educa
 
 ## Sources
 
-- [Congress.gov: Tuberville campaign finance summary](https://www.congress.gov/search?q=Tommy%20Tuberville&searchResultViewType=expanded) (Tier 1)
-- [Congress.gov: Tuberville industry donors](https://www.congress.gov/search?q=Tommy%20Tuberville&searchResultViewType=expanded) (Tier 1)
-- [CNBC: Tuberville STOCK Act violations, 130+ trades](https://www.cnbc.com/2021/07/27/china-critic-sen-tommy-tuberville-of-alabama-violated-stock-act.html) (Tier 2)
-- [Alabama Reporter: Tuberville defense stock trading while on Armed Services Committee](https://www.alreporter.com/2024/12/30/tuberville-involved-in-defense-stock-trading-while-on-armed-services-committee/) (Tier 2)
-- [Alabama Reporter: Defense contractors donated during promotions hold](https://www.alreporter.com/2023/10/11/report-tuberville-got-financial-support-from-defense-contractors-amid-confirmations-hold/) (Tier 2)
-- [NPR: Tuberville drops military promotions blockade](https://www.npr.org/2023/12/19/1220492250/tuberville-drops-blockade-military-promotions) (Tier 1)
-- [PBS NewsHour: What the promotions blockade means for the Pentagon](https://www.pbs.org/newshour/politics/what-tubervilles-blockade-of-military-promotions-means-for-the-pentagon) (Tier 2)
-- [CNN: Tuberville three-branches-of-government gaffe](https://www.cnn.com/videos/politics/2020/11/13/tommy-tuberville-branches-of-government-vpx.cnn) (Tier 2)
-- [Slate: Tuberville D-Day/WWII confusion](https://slate.com/news-and-politics/2020/11/alabama-senator-tommy-tuberville-blockhead-interview-wwii-socialism-american-government.html) (Tier 2)
-- [Wikipedia: Tommy Tuberville](https://en.wikipedia.org/wiki/Tommy_Tuberville) (Tier 3)
+- ~~[Congress.gov: Tuberville campaign finance summary](https://www.congress.gov/search?q=Tommy%20Tuberville&searchResultViewType=expanded)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Tuberville industry donors](https://www.congress.gov/search?q=Tommy%20Tuberville&searchResultViewType=expanded)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [CNBC: Tuberville STOCK Act violations, 130+ trades](https://www.cnbc.com/2021/07/27/china-critic-sen-tommy-tuberville-of-alabama-violated-stock-act.html) (Tier 2) (VERIFIED)
+- [Alabama Reporter: Tuberville defense stock trading while on Armed Services Committee](https://www.alreporter.com/2024/12/30/tuberville-involved-in-defense-stock-trading-while-on-armed-services-committee/) (Tier 2) (VERIFIED)
+- [Alabama Reporter: Defense contractors donated during promotions hold](https://www.alreporter.com/2023/10/11/report-tuberville-got-financial-support-from-defense-contractors-amid-confirmations-hold/) (Tier 2) (VERIFIED)
+- [NPR: Tuberville drops military promotions blockade](https://www.npr.org/2023/12/19/1220492250/tuberville-drops-blockade-military-promotions) (Tier 1) (VERIFIED)
+- [PBS NewsHour: What the promotions blockade means for the Pentagon](https://www.pbs.org/newshour/politics/what-tubervilles-blockade-of-military-promotions-means-for-the-pentagon) (Tier 2) (VERIFIED)
+- [CNN: Tuberville three-branches-of-government gaffe](https://www.cnn.com/videos/politics/2020/11/13/tommy-tuberville-branches-of-government-vpx.cnn) (Tier 2) (VERIFIED)
+- [Slate: Tuberville D-Day/WWII confusion](https://slate.com/news-and-politics/2020/11/alabama-senator-tommy-tuberville-blockhead-interview-wwii-socialism-american-government.html) (Tier 2) (VERIFIED)
+- [Wikipedia: Tommy Tuberville](https://en.wikipedia.org/wiki/Tommy_Tuberville) (Tier 3) (VERIFIED)
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->
@@ -196,7 +196,7 @@ Alabama is the fifth-poorest state in America. 46th in healthcare, 48th in educa
 - S.Res. 524: A resolution recognizing the 90th anniversary of the Alabama Highway Patrol and commemorating its history of excellence. — *This resolution is in the first stage of the legislative process. It was introduced into Congress on December 3, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 - S. 3121: UBER Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on November 6, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456796) (Tier 1)
+- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/456796)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:govtrack end -->
 
 ## Influence Network (Cross-Reference)
@@ -245,7 +245,7 @@ Alabama is the fifth-poorest state in America. 46th in healthcare, 48th in educa
 | 3124 | Protection on the Picket Line Act | Read twice and referred to the Committee on Health, Education, Labor, and Pensions. |
 | 3009 | Preserving a Sharia-Free America Act | Read twice and referred to the Committee on the Judiciary. |
 
-- [Source: Congress.gov](https://www.congress.gov/member/T000278) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/T000278)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Committee Assignments (Congress.gov)
@@ -269,7 +269,7 @@ Alabama is the fifth-poorest state in America. 46th in healthcare, 48th in educa
 - Seapower
 - Strategic Forces
 
-- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 ### Voting Record
@@ -294,6 +294,6 @@ Alabama is the fifth-poorest state in America. 46th in healthcare, 48th in educa
 
 **Sources**
 
-- [Congress.gov: Tommy Tuberville](https://www.congress.gov/member/c001091) (Tier 1)
-- [GovTrack: Tommy Tuberville](https://www.govtrack.us/congress/members/456796) (Tier 1)
+- ~~[Congress.gov: Tommy Tuberville](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[GovTrack: Tommy Tuberville](https://www.govtrack.us/congress/members/456796)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->

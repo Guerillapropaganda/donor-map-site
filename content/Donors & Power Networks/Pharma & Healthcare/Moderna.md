@@ -101,9 +101,9 @@ Patent protection for mRNA technology platform, favorable vaccine pricing (oppos
 
 ### Sources
 
-- [SEC: Moderna 10-K filing](https://www.sec.gov/cgi-bin/browse-edgar?company=Moderna&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)
-- [OpenSecrets: Moderna lobbying](https://www.opensecrets.org/orgs/moderna-inc/summary?id=D000073555) (Tier 1)
-- [Ballotpedia: Moderna](https://ballotpedia.org/Moderna) (Tier 3)
+- [SEC: Moderna 10-K filing](https://www.sec.gov/cgi-bin/browse-edgar?company=Moderna&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1) (VERIFIED)
+- [OpenSecrets: Moderna lobbying](https://www.opensecrets.org/orgs/moderna-inc/summary?id=D000073555) (Tier 1) (VERIFIED)
+- [Ballotpedia: Moderna](https://ballotpedia.org/Moderna) (Tier 3) (VERIFIED)
 
 ---
 
@@ -126,7 +126,7 @@ Patent protection for mRNA technology platform, favorable vaccine pricing (oppos
 | Total Expenses | $8.8M |
 | Net Assets | $37.8M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 871807181](https://projects.propublica.org/nonprofits/organizations/871807181) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 871807181](https://projects.propublica.org/nonprofits/organizations/871807181) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -175,7 +175,7 @@ Patent protection for mRNA technology platform, favorable vaccine pricing (oppos
 | Dry Pasta, Dough, and Flour Mixes Manufacturing from Purchased Flour (311824) | $38.6M |
 | Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing (334220) | $34K |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Moderna) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Moderna) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Vehicle Safety (NHTSA)
@@ -193,7 +193,7 @@ Patent protection for mRNA technology platform, favorable vaccine pricing (oppos
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Moderna) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Moderna) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### SEC Filing Activity
@@ -207,13 +207,13 @@ Patent protection for mRNA technology platform, favorable vaccine pricing (oppos
 
 **Notable filings:**
 
-- 2026-04-06 — **4**: [PRIMARY DOCUMENT](https://www.sec.gov/Archives/edgar/data/1682852/000168285226000053/0001682852-26-000053-index.htm)
-- 2026-03-27 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/1682852/000010290926001859/0000102909-26-001859-index.htm)
-- 2026-03-16 — **DEFA14A**: [DEFINITIVE ADDITIONAL PROXY SOLICITING MATERIALS](https://www.sec.gov/Archives/edgar/data/1682852/000130817926000083/0001308179-26-000083-index.htm)
-- 2026-03-16 — **DEF 14A**: [DEFINITIVE PROXY STATEMENT](https://www.sec.gov/Archives/edgar/data/1682852/000130817926000081/0001308179-26-000081-index.htm)
-- 2026-03-16 — **ARS**: [ANNUAL REPORT TO SECURITY HOLDERS](https://www.sec.gov/Archives/edgar/data/1682852/000130817926000080/0001308179-26-000080-index.htm)
+- 2026-04-06 — **4**: [PRIMARY DOCUMENT](https://www.sec.gov/Archives/edgar/data/1682852/000168285226000053/0001682852-26-000053-index.htm) (VERIFIED)
+- 2026-03-27 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/1682852/000010290926001859/0000102909-26-001859-index.htm) (VERIFIED)
+- 2026-03-16 — **DEFA14A**: [DEFINITIVE ADDITIONAL PROXY SOLICITING MATERIALS](https://www.sec.gov/Archives/edgar/data/1682852/000130817926000083/0001308179-26-000083-index.htm) (VERIFIED)
+- 2026-03-16 — **DEF 14A**: [DEFINITIVE PROXY STATEMENT](https://www.sec.gov/Archives/edgar/data/1682852/000130817926000081/0001308179-26-000081-index.htm) (VERIFIED)
+- 2026-03-16 — **ARS**: [ANNUAL REPORT TO SECURITY HOLDERS](https://www.sec.gov/Archives/edgar/data/1682852/000130817926000080/0001308179-26-000080-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Moderna%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Moderna%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Federal Spending (USASpending)
@@ -241,14 +241,14 @@ Patent protection for mRNA technology platform, favorable vaccine pricing (oppos
 |--------|--------|-------------|
 | $998K | Department of Agriculture | REAP RENEWABLE ENERGY SYSTEM (RES) GRANT UNRESTRICTED AMOUNT |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/66590305-5fdd-1563-0f35-a5154ede043a-C/latest) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/66590305-5fdd-1563-0f35-a5154ede043a-C/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [549300EI6OKH5K5Q2G38](https://search.gleif.org/#/record/549300EI6OKH5K5Q2G38) |
+| LEI | [549300EI6OKH5K5Q2G38](https://search.gleif.org/#/record/549300EI6OKH5K5Q2G38) (VERIFIED) |
 | Legal Name | MODERNA, INC. |
 | Jurisdiction | US-DE |
 | Entity Status | ACTIVE |
@@ -256,5 +256,5 @@ Patent protection for mRNA technology platform, favorable vaccine pricing (oppos
 | Registration | ISSUED |
 | Last Updated | 2025-12-16T10:33:56Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->

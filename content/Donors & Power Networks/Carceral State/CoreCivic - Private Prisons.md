@@ -164,7 +164,7 @@ Immigration enforcement and ICE funding, justice system reform, mandatory minimu
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=CoreCivic%20-%20Private%20Prisons) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=CoreCivic%20-%20Private%20Prisons) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Tax Filings (IRS 990)
@@ -182,11 +182,11 @@ Immigration enforcement and ICE funding, justice system reform, mandatory minimu
 **Filing history:** 2023, 2022, 2021, 2020, 2019
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/474543845/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/474543845/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/474543845/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/474543845/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/474543845/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/474543845/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/474543845/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/474543845/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/474543845/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/474543845/2019)~~ (URL broken, archived by Ops)
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/474543845) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/474543845) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->

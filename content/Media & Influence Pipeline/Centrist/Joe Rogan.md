@@ -58,7 +58,7 @@ Rogan has been the UFC's color commentator since 2002, with a brief hiatus 2022�
 
 No FEC individual contributions found. FEC API returns 5 results for "Joe Rogan" — none match the podcaster. Results include: Joe Rogan (Sacramento, CA accountant), Joe Rogan (Houston, TX actuary), Joe Rogan (multiple other individuals across different states/employers). Zero political donations from a media personality who has commanded more influence over a single demographic (men 18-29) than any traditional politician in 2024 and whose $450M+ Spotify deal is the single largest media contract in podcasting history.
 
-- [FEC: Joe Rogan individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=rogan%2C+joe) (Tier 1)
+- [FEC: Joe Rogan individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=rogan%2C+joe) (Tier 1) (VERIFIED)
 
 > **Note on API results:** The FEC API search for "rogan, joe" returns 5 results, but none match the podcaster. Results include: Joe Rogan (Sacramento, CA accountant), Joe Rogan (Houston, TX actuary), and other individuals with the same name across different states and employers. No confirmed contributions from the media personality — all 5 API results are different people. Best evidence: $0 personal political contributions from the UFC commentator/podcaster.
 
@@ -176,21 +176,21 @@ The **Both-Sides Illusion (Media)** pattern applies cleanly: Rogan is described 
 
 ### Sources
 
-- [Variety: Joe Rogan Renews Spotify Deal for $250M, Podcast No Longer Exclusive](https://variety.com/2024/digital/news/joe-rogan-renews-spotify-deal-not-exclusive-1235895424/) (Tier 2)
-- [NBC News: Spotify inks new multiyear deal with podcast host Joe Rogan](https://www.nbcnews.com/media/spotify-joe-rogan-new-deal-rcna136997) (Tier 2)
-- [Rolling Stone: Joe Rogan Clinches New Spotify Deal Worth Up to $250 Million](https://www.rollingstone.com/culture/culture-news/joe-rogan-spotify-podcast-deal-1234960090/) (Tier 2)
-- [Edison Research: Who Joe Rogan Listeners are Likely to Support in the Election](https://www.edisonresearch.com/who-joe-rogan-listeners-are-likely-to-support-in-the-election/) (Tier 2)
-- [University of Sydney: Podcasts sway many young men to the right](https://www.sydney.edu.au/news-opinion/news/2025/02/03/podcasts-sway-many-young-men-to-the-right.html) (Tier 2)
-- [Sportico: Joe Rogan, 'Bussin' With the Boys' Credited for Trump's Election Win](https://www.sportico.com/business/media/2024/trump-election-win-buoyed-prominent-sports-lifestyle-podcasts-1234804105/) (Tier 2)
-- [Fortune: Trump finds supporters in Gen Z men](https://fortune.com/2024/11/07/trumps-victory-reveals-secret-republicans-joe-rogan-obsessed-gen-z-men/) (Tier 2)
-- [Deadline: Trump & Joe Rogan Share A Victory Hug At UFC 309 At Madison Square Garden](https://deadline.com/2024/11/ufc-trump-joe-rogan-hug-dana-white-1236179474/) (Tier 3)
-- [CNN: UFC boss Dana White says he is done with 'disgusting' politics after backing Trump](https://www.cnn.com/2024/11/22/media/dana-white-ufc-trump-politics) (Tier 2)
-- [NPR: Joe Rogan responds to protests over his Spotify podcast](https://www.npr.org/2022/01/31/1076891070/joe-rogan-responds-spotify-podcast-covid-misinformation) (Tier 2)
-- [Yale Climate Connections: Five ways Joe Rogan misleads listeners about climate change](https://yaleclimateconnections.org/2025/11/five-ways-joe-rogan-misleads-listeners-about-climate-change/) (Tier 2)
-- [Yale Climate Connections: Eight of the top 10 online shows are spreading climate misinformation](https://yaleclimateconnections.org/2025/04/eight-of-the-top-10-online-shows-are-spreading-climate-misinformation/) (Tier 2)
-- [Inside Climate News: Joe Rogan Is Fueling Climate Misinformation on TikTok, Watchdogs Warn](https://insideclimatenews.org/news/30052023/todays-climate-joe-rogan-climate-misinformation-tiktok/) (Tier 2)
-- [Sentient Media: Joe Rogan & Other Top Podcasts Spread Climate Disinfo, Research Finds](https://sentientmedia.org/joe-rogan-other-podcasts-spread-climate-disinfo/) (Tier 2)
-- [Media Matters: The right dominates the online media ecosystem, seeping into sports, comedy, and other supposedly nonpolitical spaces](https://www.mediamatters.org/google/right-dominates-online-media-ecosystem-seeping-sports-comedy-and-other-supposedly) (Tier 2)
-- [Medium / Joshua Schall: Unilever Adds Onnit to Growing "Supplement Brands" Portfolio](https://joshua-schall.medium.com/unilever-acquires-onnit-a1230dba013a) (Tier 3)
-- [WellbeingPort: Does Joe Rogan own Onnit?](https://wellbeingport.com/does-joe-rogan-own-onnit/) (Tier 3)
+- [Variety: Joe Rogan Renews Spotify Deal for $250M, Podcast No Longer Exclusive](https://variety.com/2024/digital/news/joe-rogan-renews-spotify-deal-not-exclusive-1235895424/) (Tier 2) (VERIFIED)
+- [NBC News: Spotify inks new multiyear deal with podcast host Joe Rogan](https://www.nbcnews.com/media/spotify-joe-rogan-new-deal-rcna136997) (Tier 2) (VERIFIED)
+- [Rolling Stone: Joe Rogan Clinches New Spotify Deal Worth Up to $250 Million](https://www.rollingstone.com/culture/culture-news/joe-rogan-spotify-podcast-deal-1234960090/) (Tier 2) (VERIFIED)
+- [Edison Research: Who Joe Rogan Listeners are Likely to Support in the Election](https://www.edisonresearch.com/who-joe-rogan-listeners-are-likely-to-support-in-the-election/) (Tier 2) (VERIFIED)
+- [University of Sydney: Podcasts sway many young men to the right](https://www.sydney.edu.au/news-opinion/news/2025/02/03/podcasts-sway-many-young-men-to-the-right.html) (Tier 2) (VERIFIED)
+- [Sportico: Joe Rogan, 'Bussin' With the Boys' Credited for Trump's Election Win](https://www.sportico.com/business/media/2024/trump-election-win-buoyed-prominent-sports-lifestyle-podcasts-1234804105/) (Tier 2) (VERIFIED)
+- [Fortune: Trump finds supporters in Gen Z men](https://fortune.com/2024/11/07/trumps-victory-reveals-secret-republicans-joe-rogan-obsessed-gen-z-men/) (Tier 2) (VERIFIED)
+- [Deadline: Trump & Joe Rogan Share A Victory Hug At UFC 309 At Madison Square Garden](https://deadline.com/2024/11/ufc-trump-joe-rogan-hug-dana-white-1236179474/) (Tier 3) (VERIFIED)
+- [CNN: UFC boss Dana White says he is done with 'disgusting' politics after backing Trump](https://www.cnn.com/2024/11/22/media/dana-white-ufc-trump-politics) (Tier 2) (VERIFIED)
+- [NPR: Joe Rogan responds to protests over his Spotify podcast](https://www.npr.org/2022/01/31/1076891070/joe-rogan-responds-spotify-podcast-covid-misinformation) (Tier 2) (VERIFIED)
+- [Yale Climate Connections: Five ways Joe Rogan misleads listeners about climate change](https://yaleclimateconnections.org/2025/11/five-ways-joe-rogan-misleads-listeners-about-climate-change/) (Tier 2) (VERIFIED)
+- [Yale Climate Connections: Eight of the top 10 online shows are spreading climate misinformation](https://yaleclimateconnections.org/2025/04/eight-of-the-top-10-online-shows-are-spreading-climate-misinformation/) (Tier 2) (VERIFIED)
+- [Inside Climate News: Joe Rogan Is Fueling Climate Misinformation on TikTok, Watchdogs Warn](https://insideclimatenews.org/news/30052023/todays-climate-joe-rogan-climate-misinformation-tiktok/) (Tier 2) (VERIFIED)
+- [Sentient Media: Joe Rogan & Other Top Podcasts Spread Climate Disinfo, Research Finds](https://sentientmedia.org/joe-rogan-other-podcasts-spread-climate-disinfo/) (Tier 2) (VERIFIED)
+- [Media Matters: The right dominates the online media ecosystem, seeping into sports, comedy, and other supposedly nonpolitical spaces](https://www.mediamatters.org/google/right-dominates-online-media-ecosystem-seeping-sports-comedy-and-other-supposedly) (Tier 2) (VERIFIED)
+- ~~[Medium / Joshua Schall: Unilever Adds Onnit to Growing "Supplement Brands" Portfolio](https://joshua-schall.medium.com/unilever-acquires-onnit-a1230dba013a)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [WellbeingPort: Does Joe Rogan own Onnit?](https://wellbeingport.com/does-joe-rogan-own-onnit/) (Tier 3) (VERIFIED)
 

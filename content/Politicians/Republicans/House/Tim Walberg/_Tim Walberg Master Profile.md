@@ -156,18 +156,18 @@ Walberg was "delighted" by Trump's executive order closing the Department of Edu
 
 ## Sources
 
-- [FEC Candidate: Tim Walberg donor profile](https://www.fec.gov/data/candidate/H4MI07103/) (Tier 1)
-- [FEC Candidate: Tim Walberg top contributors](https://www.fec.gov/data/candidate/H4MI07103/) (Tier 1)
-- [Congress.gov: Tim Walberg](https://www.congress.gov/member/tim-walberg/W000798) (Tier 1)
-- [House Education & Workforce Committee: Chair Walberg](https://edworkforce.house.gov/biography/) (Tier 1)
-- [Truthout: Anti-Union, Pro-Israel Billionaires Are Behind Tim Walberg and His Show Trials](https://truthout.org/articles/anti-union-pro-israel-billionaires-are-behind-tim-walberg-and-his-show-trials/) (Tier 2)
-- [Ann Arbor Observer: Tim Walberg's Moment](https://annarborobserver.com/tim-walbergs-moment/) (Tier 2)
-- [Washington Reporter: Rep. Walberg lays out agenda as new Ed and Workforce chair](https://washingtonreporter.news/interview-rep-tim-walbergs-case-to-chair-ed-and-workforce/) (Tier 2)
-- [Detroit News: Walberg introduces legislation to rein in federal labor watchdog](https://walberg.house.gov/media/in-the-news/detroit-news-walberg-introduces-legislation-rein-federal-labor-watchdog) (Tier 2)
-- [CTE Policy Watch: Meet the New Chair of Education and Workforce Committee](https://ctepolicywatch.acteonline.org/2025/01/meet-the-new-chair-of-the-house-education-and-workforce-committee-tim-walberg-.html) (Tier 2)
-- [AFL-CIO: Tim Walberg Legislative Scorecard](https://aflcio.org/scorecard/legislators/tim-walberg) (Tier 2)
-- [Ballotpedia: Tim Walberg](https://ballotpedia.org/Tim_Walberg) (Tier 3)
-- [Wikipedia: Tim Walberg](https://en.wikipedia.org/wiki/Tim_Walberg) (Tier 3)
+- [FEC Candidate: Tim Walberg donor profile](https://www.fec.gov/data/candidate/H4MI07103/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Tim Walberg top contributors](https://www.fec.gov/data/candidate/H4MI07103/) (Tier 1) (VERIFIED)
+- [Congress.gov: Tim Walberg](https://www.congress.gov/member/tim-walberg/W000798) (Tier 1) (VERIFIED)
+- [House Education & Workforce Committee: Chair Walberg](https://edworkforce.house.gov/biography/) (Tier 1) (VERIFIED)
+- [Truthout: Anti-Union, Pro-Israel Billionaires Are Behind Tim Walberg and His Show Trials](https://truthout.org/articles/anti-union-pro-israel-billionaires-are-behind-tim-walberg-and-his-show-trials/) (Tier 2) (VERIFIED)
+- [Ann Arbor Observer: Tim Walberg's Moment](https://annarborobserver.com/tim-walbergs-moment/) (Tier 2) (VERIFIED)
+- [Washington Reporter: Rep. Walberg lays out agenda as new Ed and Workforce chair](https://washingtonreporter.news/interview-rep-tim-walbergs-case-to-chair-ed-and-workforce/) (Tier 2) (VERIFIED)
+- [Detroit News: Walberg introduces legislation to rein in federal labor watchdog](https://walberg.house.gov/media/in-the-news/detroit-news-walberg-introduces-legislation-rein-federal-labor-watchdog) (Tier 2) (VERIFIED)
+- ~~[CTE Policy Watch: Meet the New Chair of Education and Workforce Committee](https://ctepolicywatch.acteonline.org/2025/01/meet-the-new-chair-of-the-house-education-and-workforce-committee-tim-walberg-.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[AFL-CIO: Tim Walberg Legislative Scorecard](https://aflcio.org/scorecard/legislators/tim-walberg)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Ballotpedia: Tim Walberg](https://ballotpedia.org/Tim_Walberg) (Tier 3) (VERIFIED)
+- [Wikipedia: Tim Walberg](https://en.wikipedia.org/wiki/Tim_Walberg) (Tier 3) (VERIFIED)
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
@@ -176,5 +176,5 @@ Walberg was "delighted" by Trump's executive order closing the Department of Edu
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Tim Walberg](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: Tim Walberg](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->

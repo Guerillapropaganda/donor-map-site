@@ -99,10 +99,10 @@ Megadonors funding Rogers expect him on at least Armed Services and Intelligence
 
 ### Sources
 
-- [House Permanent Select Committee on Intelligence: Rogers biography](https://intelligence.house.gov/history-jurisdiction/) (Tier 1)
-- [CNN: Mike Rogers national security commentary](https://www.cnn.com/profiles/mike-rogers-profile) (Tier 2)
-- [Congress.gov: Rogers intelligence/defense industry donations](https://www.congress.gov/search?q=Mike%20Rogers&searchResultViewType=expanded) (Tier 1)
-- [National Security Institute: Mike Rogers background](https://nationalsecurity.gmu.edu/mike-rogers/) (Tier 3)
-- [The Hill: Intelligence committee appropriations authority](https://thehill.com/news/3456871-defense-budgets-intelligence-committee/) (Tier 2)
-- [ProPublica: Defense contractor revolving door analysis](https://www.propublica.org/article/the-lobbying-swamp-is-flourishing-in-trumps-washington) (Tier 2)
+- [House Permanent Select Committee on Intelligence: Rogers biography](https://intelligence.house.gov/history-jurisdiction/) (Tier 1) (VERIFIED)
+- [CNN: Mike Rogers national security commentary](https://www.cnn.com/profiles/mike-rogers-profile) (Tier 2) (VERIFIED)
+- ~~[Congress.gov: Rogers intelligence/defense industry donations](https://www.congress.gov/search?q=Mike%20Rogers&searchResultViewType=expanded)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [National Security Institute: Mike Rogers background](https://nationalsecurity.gmu.edu/mike-rogers/) (Tier 3) (VERIFIED)
+- ~~[The Hill: Intelligence committee appropriations authority](https://thehill.com/news/3456871-defense-budgets-intelligence-committee/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [ProPublica: Defense contractor revolving door analysis](https://www.propublica.org/article/the-lobbying-swamp-is-flourishing-in-trumps-washington) (Tier 2) (VERIFIED)
 

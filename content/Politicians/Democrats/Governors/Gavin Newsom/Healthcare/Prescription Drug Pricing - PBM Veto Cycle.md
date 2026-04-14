@@ -91,13 +91,13 @@ Newsom killed SB 24 with minimal explanation ("existing oversight is sufficient"
 
 ### Sources
 
-- [CalMatters: Newsom vetoes PBM and private equity bills (Sept 2024)](https://calmatters.org/health/2024/09/newsom-vetoes-health-care-bills/) (Tier 2)
-- [CalMatters: Newsom reverses on PBMs (May 2025)](https://calmatters.org/health/2025/05/newsom-pharmacy-benefit-managers/) (Tier 2)
-- [FTC: Letter to California Legislature supporting PBM regulation (2024)](https://www.ftc.gov/news-events/news/2024/09/ftc-supports-pbm-regulation-california) (Tier 1)
-- [California Legislative Information: SB 23 text and veto message](https://leginfo.legislature.ca.gov/faces/home.xhtml?bill_id=202320240SB23) (Tier 1)
-- [California Legislative Information: SB 41 text (as signed)](https://leginfo.legislature.ca.gov/faces/home.xhtml?bill_id=202520260SB41) (Tier 1)
+- [CalMatters: Newsom vetoes PBM and private equity bills (Sept 2024)](https://calmatters.org/health/2024/09/newsom-vetoes-health-care-bills/) (Tier 2) (VERIFIED)
+- [CalMatters: Newsom reverses on PBMs (May 2025)](https://calmatters.org/health/2025/05/newsom-pharmacy-benefit-managers/) (Tier 2) (VERIFIED)
+- ~~[FTC: Letter to California Legislature supporting PBM regulation (2024)](https://www.ftc.gov/news-events/news/2024/09/ftc-supports-pbm-regulation-california)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [California Legislative Information: SB 23 text and veto message](https://leginfo.legislature.ca.gov/faces/home.xhtml?bill_id=202320240SB23) (Tier 1) (VERIFIED)
+- [California Legislative Information: SB 41 text (as signed)](https://leginfo.legislature.ca.gov/faces/home.xhtml?bill_id=202520260SB41) (Tier 1) (VERIFIED)
 - ~~[FollowTheMoney.org: UnitedHealth, Blue Shield, Anthem California campaign finance](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=Prescription%20Drug%20Pricing%20-%20PBM%20Veto%20Cycle#[%7B1%7Cgro=d-id)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 1)
-- [California Healthline: Top California Democrats Clash Over How To Rein In Drug Industry Middlemen](https://californiahealthline.org/news/article/california-legislation-pharmacy-benefit-managers-pbms-middlemen-newsom/) (Tier 2)
-- [ProPublica: Why Do Americans Pay More for Prescription Drugs?](https://www.propublica.org/article/why-americans-pay-more-for-prescription-drugs) (Tier 2)
-- [Capital & Main: Newsom's Healthcare Donor Problem](https://capitalandmain.com/newsom-promised-california-a-lithium-bonanza-it-still-hasnt-arrived) (Tier 2)
+- [California Healthline: Top California Democrats Clash Over How To Rein In Drug Industry Middlemen](https://californiahealthline.org/news/article/california-legislation-pharmacy-benefit-managers-pbms-middlemen-newsom/) (Tier 2) (VERIFIED)
+- [ProPublica: Why Do Americans Pay More for Prescription Drugs?](https://www.propublica.org/article/why-americans-pay-more-for-prescription-drugs) (Tier 2) (VERIFIED)
+- [Capital & Main: Newsom's Healthcare Donor Problem](https://capitalandmain.com/newsom-promised-california-a-lithium-bonanza-it-still-hasnt-arrived) (Tier 2) (VERIFIED)
 

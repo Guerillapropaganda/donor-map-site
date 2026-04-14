@@ -59,11 +59,11 @@ This is theater in a specific sense: the conflicts are real, the personalities a
 The 2024 cycle total of $107M (OpenSecrets) represents the fifth-largest individual donor contribution to federal election spending. But the allocation is surgical: not Trump's campaign (Griffin sits out Trump directly), but instead to the institutional Republican infrastructure that survives any personality in the Oval Office. Senate races. House races. McConnell's machine.
 
 Sources:
-- [OpenSecrets: Griffin, Kenneth C Donor Detail](https://www.opensecrets.org/outside-spending/donor_detail/2024?id=U0000003655&name=Griffin,+Kenneth+C&super_only=N&type=I) (Tier 1)
-- [Ballotpedia: Kenneth Griffin](https://ballotpedia.org/Kenneth_Griffin) (Tier 3)
-- [CNBC: Billionaire Ken Griffin, former DeSantis donor, on sidelines for GOP presidential primary](https://www.cnbc.com/2023/09/18/billionaire-ken-griffin-former-desantis-donor-sits-out-gop-primary.html) (Tier 2)
-- [OpenSecrets News: Florida Gov. Ron DeSantis breaks funding record in 2021, Citadel CEO contributes millions](https://www.opensecrets.org/news/2022/03/florida-gov-ron-desantis-breaks-funding-record-in-2021-citadel-ceo-contributes-millions/) (Tier 1)
-- [Fortune: Hedge fund billionaires Ken Griffin and Paul Singer met with Trump about donating](https://fortune.com/2024/07/13/ken-griffin-citadel-paul-singer-elliott-donald-trump-campaign-donation-meetings/) (Tier 2)
+- ~~[OpenSecrets: Griffin, Kenneth C Donor Detail](https://www.opensecrets.org/outside-spending/donor_detail/2024?id=U0000003655&name=Griffin,+Kenneth+C&super_only=N&type=I)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Ballotpedia: Kenneth Griffin](https://ballotpedia.org/Kenneth_Griffin) (Tier 3) (VERIFIED)
+- [CNBC: Billionaire Ken Griffin, former DeSantis donor, on sidelines for GOP presidential primary](https://www.cnbc.com/2023/09/18/billionaire-ken-griffin-former-desantis-donor-sits-out-gop-primary.html) (Tier 2) (VERIFIED)
+- [OpenSecrets News: Florida Gov. Ron DeSantis breaks funding record in 2021, Citadel CEO contributes millions](https://www.opensecrets.org/news/2022/03/florida-gov-ron-desantis-breaks-funding-record-in-2021-citadel-ceo-contributes-millions/) (Tier 1) (VERIFIED)
+- [Fortune: Hedge fund billionaires Ken Griffin and Paul Singer met with Trump about donating](https://fortune.com/2024/07/13/ken-griffin-citadel-paul-singer-elliott-donald-trump-campaign-donation-meetings/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -86,10 +86,10 @@ Griffin spent $54 million fighting an Illinois graduated income tax increase (su
 But here is the critical point: **None of the 2024 Republican candidates threatened capital gains rates or carried interest** once Trump consolidated the field. DeSantis opposed Trump, but neither proposed tax increases on hedge fund wealth. McConnell's Senate Leadership Fund protects the Republican Senate majority that would kill any such proposal. The policy interest survives the personality conflict.
 
 Sources:
-- [Bloomberg: How Ken Griffin's Citadel transformed financial markets](https://www.bloomberg.com/news/features/2024-07-30/republican-donor-ken-griffin-billionaire-s-super-pac-giving-shapes-elections/) (Tier 2)
-- [Wikipedia: Kenneth C. Griffin](https://en.wikipedia.org/wiki/Kenneth_C._Griffin) (Tier 3)
-- [ProPublica: Ken Griffin Spent $54 Million Fighting a Tax Increase for the Rich](https://www.propublica.org/article/ken-griffin-illinois-graduated-income-tax) (Tier 2)
-- [Pensions & Investments: Citadel's Ken Griffin criticizes Trump tariff and tax policies, calls deregulation a 'godsend'](https://www.pionline.com/hedge-funds/citadels-ken-griffin-criticizes-trump-tariff-and-tax-policies-calls-deregulation/) (Tier 2)
+- ~~[Bloomberg: How Ken Griffin's Citadel transformed financial markets](https://www.bloomberg.com/news/features/2024-07-30/republican-donor-ken-griffin-billionaire-s-super-pac-giving-shapes-elections/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Wikipedia: Kenneth C. Griffin](https://en.wikipedia.org/wiki/Kenneth_C._Griffin) (Tier 3) (VERIFIED)
+- [ProPublica: Ken Griffin Spent $54 Million Fighting a Tax Increase for the Rich](https://www.propublica.org/article/ken-griffin-illinois-graduated-income-tax) (Tier 2) (VERIFIED)
+- [Pensions & Investments: Citadel's Ken Griffin criticizes Trump tariff and tax policies, calls deregulation a 'godsend'](https://www.pionline.com/hedge-funds/citadels-ken-griffin-criticizes-trump-tariff-and-tax-policies-calls-deregulation/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -109,9 +109,9 @@ The McConnell tie-up is also a hedge against Trump. Trump's 2025 tariff policy t
 This is not divided loyalty. This is redundant insurance. Griffin ensures Republican control of the Senate (via SLF) and maintains a relationship with the president (via inauguration contribution). Both outcomes serve his interests.
 
 Sources:
-- [Senate Leadership Fund - Ballotpedia](https://ballotpedia.org/Senate_Leadership_Fund) (Tier 3)
-- [FactCheck.org: Senate Leadership Fund](https://www.factcheck.org/2024/07/senate-leadership-fund-4/) (Tier 2)
-- [OpenSecrets: Senate Leadership Fund Donors](https://www.opensecrets.org/outside-spending/detail/2024?cmte=Senate+Leadership+Fund&tab=donors_all) (Tier 1)
+- [Senate Leadership Fund - Ballotpedia](https://ballotpedia.org/Senate_Leadership_Fund) (Tier 3) (VERIFIED)
+- [FactCheck.org: Senate Leadership Fund](https://www.factcheck.org/2024/07/senate-leadership-fund-4/) (Tier 2) (VERIFIED)
+- ~~[OpenSecrets: Senate Leadership Fund Donors](https://www.opensecrets.org/outside-spending/detail/2024?cmte=Senate+Leadership+Fund&tab=donors_all)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -133,21 +133,21 @@ This is the illusion of political choice. The choice is between candidates. The 
 
 ### Sources
 
-- [OpenSecrets: Griffin, Kenneth C Donor Detail 2024](https://www.opensecrets.org/outside-spending/donor_detail/2024?id=U0000003655&name=Griffin,+Kenneth+C&super_only=N&type=I) (Tier 1)
-- [ArtNews: Billionaire Collector Kenneth Griffin Donated $100M for 2024 Election](https://www.artnews.com/art-news/news/billionaire-collector-kenneth-griffin-donated-100-million-2024-election-senate-leadership-fund-1234724065/) (Tier 2)
-- [Bloomberg: Ken Griffin Is Spending Millions to Shape the New Face of the Republican Party](https://www.bloomberg.com/news/features/2024-07-30/republican-donor-ken-griffin-billionaire-s-super-pac-giving-shapes-elections/) (Tier 2)
-- [CNBC: Citadel's CEO Ken Griffin becomes GOP $100 million midterm megadonor](https://www.cnbc.com/2022/10/07/citadels-ceo-ken-griffin-becomes-gop-100-million-midterm-megadonor.html) (Tier 2)
+- ~~[OpenSecrets: Griffin, Kenneth C Donor Detail 2024](https://www.opensecrets.org/outside-spending/donor_detail/2024?id=U0000003655&name=Griffin,+Kenneth+C&super_only=N&type=I)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [ArtNews: Billionaire Collector Kenneth Griffin Donated $100M for 2024 Election](https://www.artnews.com/art-news/news/billionaire-collector-kenneth-griffin-donated-100-million-2024-election-senate-leadership-fund-1234724065/) (Tier 2) (VERIFIED)
+- ~~[Bloomberg: Ken Griffin Is Spending Millions to Shape the New Face of the Republican Party](https://www.bloomberg.com/news/features/2024-07-30/republican-donor-ken-griffin-billionaire-s-super-pac-giving-shapes-elections/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [CNBC: Citadel's CEO Ken Griffin becomes GOP $100 million midterm megadonor](https://www.cnbc.com/2022/10/07/citadels-ceo-ken-griffin-becomes-gop-100-million-midterm-megadonor.html) (Tier 2) (VERIFIED)
 - [CNBC: Billionaire Ken Griffin, former DeSantis donor, on sidelines for GOP presidential primary](https://www.cnbc.com/2023/09/18/billionaire-ken-griffin-former-desantis-donor-sits-out-gop-primary.html) (Tier 2)
-- [NBC News: Trump escalates attacks on Ron DeSantis as a 2024 clash brews](https://www.nbcnews.com/politics/2024-election/trump-escalates-attacks-ron-desantis-2024-clash-brews-rcna69712) (Tier 2)
-- [NBC News: Ron DeSantis amps up attacks on Trump](https://www.nbcnews.com/politics/2024-election/ron-desantis-amps-attacks-trump-rcna111417) (Tier 2)
-- [The Hill: Trump jabs at DeSantis during rally: 'Ron DeSanctimonious'](https://thehill.com/homenews/campaign/3721719-trump-jabs-at-desantis-during-rally-ron-desanctimonious/) (Tier 2)
-- [CNN: Mitch McConnell responds to Trump's 'Old Crow' insult](https://www.cnn.com/2021/07/13/politics/mitch-mcconnell-old-crow/index.html) (Tier 2)
-- [PBS News: New book reveals what McConnell called Trump behind his back after the 2020 election](https://www.pbs.org/newshour/politics/new-book-reveals-what-mcconnell-called-trump-behind-his-back-after-the-2020-election) (Tier 2)
+- [NBC News: Trump escalates attacks on Ron DeSantis as a 2024 clash brews](https://www.nbcnews.com/politics/2024-election/trump-escalates-attacks-ron-desantis-2024-clash-brews-rcna69712) (Tier 2) (VERIFIED)
+- [NBC News: Ron DeSantis amps up attacks on Trump](https://www.nbcnews.com/politics/2024-election/ron-desantis-amps-attacks-trump-rcna111417) (Tier 2) (VERIFIED)
+- ~~[The Hill: Trump jabs at DeSantis during rally: 'Ron DeSanctimonious'](https://thehill.com/homenews/campaign/3721719-trump-jabs-at-desantis-during-rally-ron-desanctimonious/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [CNN: Mitch McConnell responds to Trump's 'Old Crow' insult](https://www.cnn.com/2021/07/13/politics/mitch-mcconnell-old-crow/index.html) (Tier 2) (VERIFIED)
+- [PBS News: New book reveals what McConnell called Trump behind his back after the 2020 election](https://www.pbs.org/newshour/politics/new-book-reveals-what-mcconnell-called-trump-behind-his-back-after-the-2020-election) (Tier 2) (VERIFIED)
 - [ProPublica: Ken Griffin Spent $54 Million Fighting a Tax Increase for the Rich](https://www.propublica.org/article/ken-griffin-illinois-graduated-income-tax) (Tier 2)
 - [Pensions & Investments: Citadel's Ken Griffin criticizes Trump tariff and tax policies, calls deregulation a 'godsend'](https://www.pionline.com/hedge-funds/citadels-ken-griffin-criticizes-trump-tariff-and-tax-policies-calls-deregulation/) (Tier 2)
 - [FactCheck.org: Senate Leadership Fund](https://www.factcheck.org/2024/07/senate-leadership-fund-4/) (Tier 2)
-- [Ballotpedia: Senate Leadership Fund](https://ballotpedia.org/Senate_Leadership_Fund) (Tier 3)
-- [OpenSecrets: Senate Leadership Fund Donors 2024](https://www.opensecrets.org/outside-spending/detail/2024?cmte=Senate+Leadership+Fund&tab=donors_all) (Tier 1)
+- [Ballotpedia: Senate Leadership Fund](https://ballotpedia.org/Senate_Leadership_Fund) (Tier 3) (VERIFIED)
+- [OpenSecrets: Senate Leadership Fund Donors 2024](https://www.opensecrets.org/outside-spending/detail/2024?cmte=Senate+Leadership+Fund&tab=donors_all) (Tier 1) (VERIFIED)
 
 ---
 

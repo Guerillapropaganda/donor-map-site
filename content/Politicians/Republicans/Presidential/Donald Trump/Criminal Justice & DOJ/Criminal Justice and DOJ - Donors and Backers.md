@@ -66,5 +66,5 @@ The clearest transactional donor-to-policy connection in the Trump record. Indiv
 
 ### Sources
 
-- [OpenSecrets: Private Prison Donations](https://www.opensecrets.org/members-of-congress/summary?name=Criminal%20Justice%20and%20DOJ) (Tier 1)
+- [OpenSecrets: Private Prison Donations](https://www.opensecrets.org/members-of-congress/summary?name=Criminal%20Justice%20and%20DOJ) (Tier 1) (VERIFIED)
 

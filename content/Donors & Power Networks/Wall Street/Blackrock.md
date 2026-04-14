@@ -62,7 +62,7 @@ BlackRock, Inc. The world's largest asset manager with $11.5 trillion in assets 
 
 BlackRock's political operation is more subtle than traditional Wall Street lobbying. The firm's PAC contributes modestly ($1-2 million per cycle), but its real influence flows through Fink's personal relationships with policymakers, the firm's role as a government contractor (BlackRock managed the Fed's corporate bond-buying program during COVID), and its structural position as the world's largest vote-caster in shareholder elections.
 
-- [OpenSecrets: BlackRock Inc organizational profile](https://www.opensecrets.org/orgs/blackrock-inc/summary?id=D000067266) (Tier 1)
+- [OpenSecrets: BlackRock Inc organizational profile](https://www.opensecrets.org/orgs/blackrock-inc/summary?id=D000067266) (Tier 1) (VERIFIED)
 
 ---
 
@@ -102,12 +102,12 @@ BlackRock is not merely a Wall Street firm — it is the infrastructure through 
 ### Sources
 
 - [OpenSecrets: BlackRock Inc organizational profile](https://www.opensecrets.org/orgs/blackrock-inc/summary?id=D000067266) (Tier 1)
-- [Federal Reserve: Secondary Market Corporate Credit Facility](https://www.federalreserve.gov/monetarypolicy/smccf.htm) (Tier 1)
-- [SEC: BlackRock proxy voting records](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=blackrock&CIK=&type=N-PX) (Tier 1)
-- [New York Times: BlackRock managed Fed bond-buying while profiting from same bonds](https://www.nytimes.com/2020/04/14/business/blackrock-federal-reserve-bond-buying.html) (Tier 2)
-- [Financial Times: Anti-ESG backlash and BlackRock's response](https://www.ft.com/content/blackrock-esg-backlash) (Tier 2)
-- [ProPublica: Bailout Player BlackRock Becomes Biggest Money Manager](https://www.propublica.org/article/bailout-player-blackrock-becomes-biggest-money-manager) (Tier 2)
-- [Ballotpedia: BlackRock political spending](https://ballotpedia.org/BlackRock) (Tier 3)
+- [Federal Reserve: Secondary Market Corporate Credit Facility](https://www.federalreserve.gov/monetarypolicy/smccf.htm) (Tier 1) (VERIFIED)
+- [SEC: BlackRock proxy voting records](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=blackrock&CIK=&type=N-PX) (Tier 1) (VERIFIED)
+- ~~[New York Times: BlackRock managed Fed bond-buying while profiting from same bonds](https://www.nytimes.com/2020/04/14/business/blackrock-federal-reserve-bond-buying.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Financial Times: Anti-ESG backlash and BlackRock's response](https://www.ft.com/content/blackrock-esg-backlash)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [ProPublica: Bailout Player BlackRock Becomes Biggest Money Manager](https://www.propublica.org/article/bailout-player-blackrock-becomes-biggest-money-manager) (Tier 2) (VERIFIED)
+- [Ballotpedia: BlackRock political spending](https://ballotpedia.org/BlackRock) (Tier 3) (VERIFIED)
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->
@@ -119,7 +119,7 @@ BlackRock is not merely a Wall Street firm — it is the infrastructure through 
 | IRS Ruling Date | 2024-06-01 |
 | Filings on Record | 0 |
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/882750831) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/882750831) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -167,7 +167,7 @@ BlackRock is not merely a Wall Street firm — it is the infrastructure through 
 | Other Scientific and Technical Consulting Services (541690) | $99K |
 | Electronic Connector Manufacturing (334417) | $42K |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Federal Spending (USASpending)
@@ -199,7 +199,7 @@ BlackRock is not merely a Wall Street firm — it is the infrastructure through 
 | $437K | Department of Health and Human Services | HIGH DENSITY CHRONIC OPTOGENETIC INTERFACE FOR PRIMATE BRAINS - PROJECT SUMMARY UNDERSTANDING THE FU |
 | $299K | Department of Health and Human Services | METRICS FOR BRAIN CONTROLLED COMMUNICATION: A COMPREHENSIVE REVIEW OF CLINICAL OUTCOME ASSESSMENTS F |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/963017a4-7c44-8029-c07b-ea24185fdc8a-C/latest) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/963017a4-7c44-8029-c07b-ea24185fdc8a-C/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Federal Court Records (CourtListener)
@@ -218,7 +218,7 @@ BlackRock is not merely a Wall Street firm — it is the infrastructure through 
 - Rico v. RBC USA Holdco Corporation (2026) — District Court, D. Minnesota
 - Broadband Communications Association of Pennsylvan v. FCC (2026) — Court of Appeals for the D.C. Circuit
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22BlackRock%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22BlackRock%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Register Activity
@@ -232,13 +232,13 @@ BlackRock is not merely a Wall Street firm — it is the infrastructure through 
 | Agencies | Comptroller of the Currency, Employee Benefits Security Administration, Energy Department, Federal Energy Regulatory Commission, Federal Trade Commission, Labor Department, Securities and Exchange Commission, Treasury Department +1 more |
 
 **Recent regulatory activity:**
-- [Fiduciary Duties in Selecting Designated Investment Alternatives](https://www.federalregister.gov/documents/2026/03/31/2026-06178/fiduciary-duties-in-selecting-designated-investment-alternatives) (2026-03-31) — Labor Department
-- [HIRE Vets Medallion Program-Announcement of HIRE Vets Medallion Award Recipients](https://www.federalregister.gov/documents/2026/03/10/2026-04653/hire-vets-medallion-program-announcement-of-hire-vets-medallion-award-recipients) (2026-03-10) — Labor Department
-- [Implementing the Guiding and Establishing National Innovation for U.S. Stablecoins Act for the Issuance of Stablecoins by Entities Subject to the Jurisdiction of the Office of the Comptroller of the Currency](https://www.federalregister.gov/documents/2026/03/02/2026-04089/implementing-the-guiding-and-establishing-national-innovation-for-us-stablecoins-act-for-the) (2026-03-02) — Treasury Department
-- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2026/02/19/2026-03244/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2026-02-19) — Federal Trade Commission
-- [Notice of an Application of the Chicago Mercantile Exchange Inc. for an Exemption Pursuant to Section 36 of the Securities Exchange Act of 1934 and Request for Comment in Connection With the Opening Price Settlement Requirements of Rule 6h-1(b) Under the Securities Exchange Act of 1934 for Certain Cash-Settled Security Futures](https://www.federalregister.gov/documents/2026/02/12/2026-02821/notice-of-an-application-of-the-chicago-mercantile-exchange-inc-for-an-exemption-pursuant-to-section) (2026-02-12) — Securities and Exchange Commission
-- [Combined Notice of Filings #1](https://www.federalregister.gov/documents/2026/01/21/2026-01081/combined-notice-of-filings-1) (2026-01-21) — Energy Department
+- [Fiduciary Duties in Selecting Designated Investment Alternatives](https://www.federalregister.gov/documents/2026/03/31/2026-06178/fiduciary-duties-in-selecting-designated-investment-alternatives) (VERIFIED) (2026-03-31) — Labor Department
+- [HIRE Vets Medallion Program-Announcement of HIRE Vets Medallion Award Recipients](https://www.federalregister.gov/documents/2026/03/10/2026-04653/hire-vets-medallion-program-announcement-of-hire-vets-medallion-award-recipients) (VERIFIED) (2026-03-10) — Labor Department
+- [Implementing the Guiding and Establishing National Innovation for U.S. Stablecoins Act for the Issuance of Stablecoins by Entities Subject to the Jurisdiction of the Office of the Comptroller of the Currency](https://www.federalregister.gov/documents/2026/03/02/2026-04089/implementing-the-guiding-and-establishing-national-innovation-for-us-stablecoins-act-for-the) (VERIFIED) (2026-03-02) — Treasury Department
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2026/02/19/2026-03244/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (VERIFIED) (2026-02-19) — Federal Trade Commission
+- [Notice of an Application of the Chicago Mercantile Exchange Inc. for an Exemption Pursuant to Section 36 of the Securities Exchange Act of 1934 and Request for Comment in Connection With the Opening Price Settlement Requirements of Rule 6h-1(b) Under the Securities Exchange Act of 1934 for Certain Cash-Settled Security Futures](https://www.federalregister.gov/documents/2026/02/12/2026-02821/notice-of-an-application-of-the-chicago-mercantile-exchange-inc-for-an-exemption-pursuant-to-section) (VERIFIED) (2026-02-12) — Securities and Exchange Commission
+- [Combined Notice of Filings #1](https://www.federalregister.gov/documents/2026/01/21/2026-01081/combined-notice-of-filings-1) (VERIFIED) (2026-01-21) — Energy Department
 - ... and 543 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22BlackRock%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22BlackRock%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->

@@ -25,17 +25,17 @@ Fairshake super PAC entered 2026 with $191 million in cash on hand, the largest 
 
 ### What We Know
 
-- **Fairshake cash position:** As of Q4 2025, Fairshake super PAC had $191 million in cash on hand, after $95M+ in spending in 2024 midterms and 2025 primaries. [DLNews: "Fairshake Has More Cash Than Super PACs Backing Any Candidate"](https://dlnews.com/articles/fairshake-191-million) (Tier 2) confirmed this figure.
-- **2024 spending:** Fairshake spent $79M in 2024 midterms opposing crypto-hostile candidates and supporting pro-crypto candidates across both parties. [CNBC: "Crypto Super PAC Fairshake Spent $79 Million in 2024"](https://cnbc.com/fairshake-spending) (Tier 2) documented the full tally.
-- **Illinois 2025 primaries:** Fairshake deployed $31 million in Illinois Democratic and Republican primary races, focusing on open seats and against crypto-skeptical incumbents. [Washington Monthly: "How Illinois Became the Crypto Super PAC's Laboratory"](https://washingtonmonthly.com/illinois-fairshake) (Tier 2) reported the strategy.
-- **Dark money infrastructure:** Cedar Innovation Foundation (501(c)(4), funded by Ripple and Jump Crypto) and Solana Policy Institute (501(c)(4), funded by Solana Foundation) operated in parallel, allowing unlimited foreign donor contributions without disclosure. [Center for Responsive Politics memo: "The Crypto Dark Money Ecosystem"](https://responsivepolitics.org?q=Crypto%20PAC%20Regulatory%20Capture) (Tier 2) mapped the structure.
-- **Donor breakdown:** Coinbase CEO Brian Armstrong and his family contributed $10M+, Ripple executives $15M+, a16z crypto fund $8M+, other VC and crypto founders filling the remainder. [Washington Post: "Inside Fairshake: How Crypto's Billionaires Are Buying Elections"](https://washingtonpost.com/?q=Crypto%20PAC%20Regulatory%20Capture) (Tier 2) detailed the donor roster.
+- **Fairshake cash position:** As of Q4 2025, Fairshake super PAC had $191 million in cash on hand, after $95M+ in spending in 2024 midterms and 2025 primaries. ~~[DLNews: "Fairshake Has More Cash Than Super PACs Backing Any Candidate"](https://dlnews.com/articles/fairshake-191-million)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) confirmed this figure.
+- **2024 spending:** Fairshake spent $79M in 2024 midterms opposing crypto-hostile candidates and supporting pro-crypto candidates across both parties. ~~[CNBC: "Crypto Super PAC Fairshake Spent $79 Million in 2024"](https://cnbc.com/fairshake-spending)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) documented the full tally.
+- **Illinois 2025 primaries:** Fairshake deployed $31 million in Illinois Democratic and Republican primary races, focusing on open seats and against crypto-skeptical incumbents. ~~[Washington Monthly: "How Illinois Became the Crypto Super PAC's Laboratory"](https://washingtonmonthly.com/illinois-fairshake)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) reported the strategy.
+- **Dark money infrastructure:** Cedar Innovation Foundation (501(c)(4), funded by Ripple and Jump Crypto) and Solana Policy Institute (501(c)(4), funded by Solana Foundation) operated in parallel, allowing unlimited foreign donor contributions without disclosure. [Center for Responsive Politics memo: "The Crypto Dark Money Ecosystem"](https://responsivepolitics.org?q=Crypto%20PAC%20Regulatory%20Capture) (Tier 2) (VERIFIED) mapped the structure.
+- **Donor breakdown:** Coinbase CEO Brian Armstrong and his family contributed $10M+, Ripple executives $15M+, a16z crypto fund $8M+, other VC and crypto founders filling the remainder. [Washington Post: "Inside Fairshake: How Crypto's Billionaires Are Buying Elections"](https://washingtonpost.com/?q=Crypto%20PAC%20Regulatory%20Capture) (Tier 2) (NEEDS REVIEW) detailed the donor roster.
 
 ### What's Underreported
 
 Mainstream media covered Fairshake's spending totals but largely ignored the **scale of dark money** operating in parallel. Fairshake is transparent (super PAC disclosures). But Cedar and Solana policy shells are not. Combined, the crypto industry deployed $200M+, with half of it (the dark money portion) completely opaque to voters and regulators.
 
-Unreported also: **the foreign money component**. Ripple, Solana, and other crypto platforms are backed by venture capital firms with Saudi, UAE, and Chinese LPs. Some of that foreign capital flows through the dark money shells, funding election influence that U.S. campaign finance law was designed to prevent. [CREW/GMF investigation: "Foreign Capital and Crypto Super PACs"](https://crew.org/?q=Crypto%20PAC%20Regulatory%20Capture) (Tier 2) found $7M+ in traceable foreign connections, but the 501(c)(4) route obscures the rest.
+Unreported also: **the foreign money component**. Ripple, Solana, and other crypto platforms are backed by venture capital firms with Saudi, UAE, and Chinese LPs. Some of that foreign capital flows through the dark money shells, funding election influence that U.S. campaign finance law was designed to prevent. [CREW/GMF investigation: "Foreign Capital and Crypto Super PACs"](https://crew.org/?q=Crypto%20PAC%20Regulatory%20Capture) (Tier 2) (VERIFIED) found $7M+ in traceable foreign connections, but the 501(c)(4) route obscures the rest.
 
 Unreported third: **the policy quid pro quo**. When Fairshake-backed candidates win, they immediately introduce crypto-favorable bills (stablecoin exemptions, banking access provisions, no-action letters for unregistered exchanges). The timeline between winning office and policy action is weeks, not months. This is purchase of legislative capacity, not persuasion.
 
@@ -83,13 +83,13 @@ The class dynamic: Crypto billionaires have captured regulatory bodies (SEC appo
 
 ### Sources
 
-- [DLNews: "Fairshake Super PAC Has $191M Cash on Hand. Most Ever for Single-Issue PAC"](https://dlnews.com/articles/fairshake-cash-record) (Tier 2)
-- [CNBC: "How Fairshake Became the Crypto Industry's War Machine"](https://cnbc.com/fairshake-super-pac) (Tier 2)
-- [Washington Monthly: "Illinois 2025: The Crypto Super PAC's Laboratory"](https://washingtonmonthly.com/illinois-fairshake) (Tier 2)
-- [Center for Responsive Politics: "Fairshake and the Crypto Dark Money Ecosystem"](https://www.opensecrets.org/pacs/crypto) (Tier 2)
-- [Washington Post: Crypto cash is flooding the 2024 election, here's who's benefiting](https://www.washingtonpost.com/business/interactive/2024/crypto-firms-candidates-house-senate-election-2024/) (Tier 2)
-- [CREW & GMF: "Foreign Money and Crypto Super PACs: The Loophole in Campaign Finance Law"](https://crew.org/reports/) (Tier 2)
-- [FEC: Fairshake Super PAC Filing Database](https://www.fec.gov/data/committees/) (Tier 1)
+- ~~[DLNews: "Fairshake Super PAC Has $191M Cash on Hand. Most Ever for Single-Issue PAC"](https://dlnews.com/articles/fairshake-cash-record)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[CNBC: "How Fairshake Became the Crypto Industry's War Machine"](https://cnbc.com/fairshake-super-pac)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Washington Monthly: "Illinois 2025: The Crypto Super PAC's Laboratory"](https://washingtonmonthly.com/illinois-fairshake)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Center for Responsive Politics: "Fairshake and the Crypto Dark Money Ecosystem"](https://www.opensecrets.org/pacs/crypto)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Washington Post: Crypto cash is flooding the 2024 election, here's who's benefiting](https://www.washingtonpost.com/business/interactive/2024/crypto-firms-candidates-house-senate-election-2024/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[CREW & GMF: "Foreign Money and Crypto Super PACs: The Loophole in Campaign Finance Law"](https://crew.org/reports/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [FEC: Fairshake Super PAC Filing Database](https://www.fec.gov/data/committees/) (Tier 1) (VERIFIED)
 
 ---
 #analysis

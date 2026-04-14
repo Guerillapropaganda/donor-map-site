@@ -29,7 +29,7 @@ This fracture is historically distinct from 2008 (Clinton vs. Obama) or 2016 (Cl
 
 [[Michael Bloomberg|Michael Bloomberg]] faces impossible positioning. His 2024 $115M Democratic spending backed Harris in the general election. His historical pattern ($936M self-funded 2020 presidential bid, $68M 2020 general election, $63.5M Independence USA PAC 2018) shows willingness to spend massive sums for moderate Democratic candidates.
 
-For 2028, Bloomberg cannot back both Harris and Newsom equally without violating bundler coordination norms. He must choose. Bloomberg's charter school network ($750M+ over 5 years) creates strategic alignment with [[_Josh Shapiro Master Profile|Josh Shapiro]] (Pennsylvania governor backed by education-reform coalition). [Philadelphia Inquirer: Bloomberg $2.5M to Shapiro 2025](https://www.inquirer.com/politics/pennsylvania/governor-election-campaign-donations-shapiro-garrity-20260212.html) (Tier 2) This suggests Bloomberg may pivot toward Shapiro as the "third way" candidate, ideologically identical to Harris and Newsom but without the direct conflict with either.
+For 2028, Bloomberg cannot back both Harris and Newsom equally without violating bundler coordination norms. He must choose. Bloomberg's charter school network ($750M+ over 5 years) creates strategic alignment with [[_Josh Shapiro Master Profile|Josh Shapiro]] (Pennsylvania governor backed by education-reform coalition). [Philadelphia Inquirer: Bloomberg $2.5M to Shapiro 2025](https://www.inquirer.com/politics/pennsylvania/governor-election-campaign-donations-shapiro-garrity-20260212.html) (Tier 2) (VERIFIED) This suggests Bloomberg may pivot toward Shapiro as the "third way" candidate, ideologically identical to Harris and Newsom but without the direct conflict with either.
 
 > [!money]
 > Bloomberg's positioning: Back Shapiro as a "neutral" alternative while maintaining relationships with Harris (sitting VP, party machinery) and Newsom (potential kingmaker if Shapiro falters). This three-way hedging strategy allows Bloomberg to maintain optionality while avoiding the appearance of choosing between Harris and Newsom.
@@ -70,11 +70,11 @@ The fracture does not create space for [[_Bernie Sanders Master Profile|Bernie S
 
 ### [[AIPAC - American Israel Public Affairs Committee|AIPAC]]'s Disciplinary Role Across the Split
 
-AIPAC's $126.9M combined 2024 spending (PAC $51.8M + UDP $37.9M) operates as the enforcer against any candidate deviating from pro-Israel orthodoxy. [AIPAC 2024 spending documentation](https://www.aipac.org/?q=Harris-Newsom%20Donor%20Class%20Fracture) (Tier 2) The Bowman precedent ($9.9M spent against pro-Palestinian House incumbent) demonstrates willingness to destroy any candidate failing to maintain absolute pro-Israel consistency.
+AIPAC's $126.9M combined 2024 spending (PAC $51.8M + UDP $37.9M) operates as the enforcer against any candidate deviating from pro-Israel orthodoxy. ~~[AIPAC 2024 spending documentation](https://www.aipac.org/?q=Harris-Newsom%20Donor%20Class%20Fracture)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) The Bowman precedent ($9.9M spent against pro-Palestinian House incumbent) demonstrates willingness to destroy any candidate failing to maintain absolute pro-Israel consistency.
 
 Both Harris and Newsom have documented pro-Israel voting records and donor networks. [[Haim Saban]] ($12M+ lifetime donor) backs both through different channels. Neither candidate faces AIPAC opposition.
 
-However, if [[_Alexandria Ocasio-Cortez Master Profile|Alexandria Ocasio-Cortez]] gains primary traction, AIPAC will deploy $10-20M+ in primary opposition, identical to the Bowman playbook. [AIPAC Track 2028 positioning on progressive candidates](https://www.trackaipac.com/2028) (Tier 2) The Harris-Newsom fracture is immaterial to AIPAC's enforcement. AIPAC will support whoever wins the primary as long as they maintain pro-Israel orthodoxy.
+However, if [[_Alexandria Ocasio-Cortez Master Profile|Alexandria Ocasio-Cortez]] gains primary traction, AIPAC will deploy $10-20M+ in primary opposition, identical to the Bowman playbook. [AIPAC Track 2028 positioning on progressive candidates](https://www.trackaipac.com/2028) (Tier 2) (VERIFIED) The Harris-Newsom fracture is immaterial to AIPAC's enforcement. AIPAC will support whoever wins the primary as long as they maintain pro-Israel orthodoxy.
 
 ### What the Split Means for Labor
 
@@ -90,9 +90,9 @@ The Harris-Newsom fracture is entirely a donor-class internal negotiation. Labor
 
 ### Sources
 
-- [Philadelphia Inquirer: Big-money and out-of-state donors helped Josh Shapiro raise $30 million](https://www.inquirer.com/politics/pennsylvania/governor-election-campaign-donations-shapiro-garrity-20260212.html) (Tier 2)
-- [Philadelphia Inquirer: Josh Shapiro's reelection campaign funded by coal executives, developers, gambling](https://www.inquirer.com/politics/pennsylvania/josh-shapiro-campaign-donors-pa-reelection-20260304.html) (Tier 2)
-- [Track AIPAC: 2028 Candidates](https://www.trackaipac.com/2028) (Tier 2)
+- [Philadelphia Inquirer: Big-money and out-of-state donors helped Josh Shapiro raise $30 million](https://www.inquirer.com/politics/pennsylvania/governor-election-campaign-donations-shapiro-garrity-20260212.html) (Tier 2) (VERIFIED)
+- [Philadelphia Inquirer: Josh Shapiro's reelection campaign funded by coal executives, developers, gambling](https://www.inquirer.com/politics/pennsylvania/josh-shapiro-campaign-donors-pa-reelection-20260304.html) (Tier 2) (VERIFIED)
+- [Track AIPAC: 2028 Candidates](https://www.trackaipac.com/2028) (Tier 2) (VERIFIED)
 
 ---
 

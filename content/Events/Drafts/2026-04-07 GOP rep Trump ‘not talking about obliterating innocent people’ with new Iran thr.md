@@ -13,7 +13,7 @@ profiles:
 
 ## GOP rep: Trump ‘not talking about obliterating innocent people’ with new Iran threat
 
-**Source:** [The Hill](https://thehill.com/homenews/house/5819587-mike-lawler-donald-trump-iran-warning/)
+**Source:** ~~[The Hill](https://thehill.com/homenews/house/5819587-mike-lawler-donald-trump-iran-warning/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-07
 
 Republican Rep. Mike Lawler (N.Y.) defended President Trump’s warning of grave consequences for Iran if the Islamic Republic’s leaders fail to meet U.S. demands by a Tuesday evening deadline. “We’re talking about taking decisive action against Iran’s energy and civilian infrastructure,” Lawler told CNN’s John Berman on Tuesday morning. “That is what the president is…

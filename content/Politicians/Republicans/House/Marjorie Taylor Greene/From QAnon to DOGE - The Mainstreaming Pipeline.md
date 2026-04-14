@@ -98,11 +98,11 @@ This is the mainstreaming pipeline. It moves from: conspiracy theory (can't be s
 
 ### Sources
 
-- [CNBC: MTG expresses regret about QAnon](https://www.cnbc.com/2021/02/04/marjorie-taylor-greene-regret-qanon-conspiracy-claims.html) (Tier 2)
-- [BuzzFeed News: CrossFit and MTG. QAnon and disavowal](https://www.buzzfeednews.com/article/ryancbrooks/marjorie-taylor-greene-qanon-crossfit) (Tier 2)
-- [Newsweek: MTG's loathsome lies blasted by CrossFit](https://www.newsweek.com/marjorie-taylor-greenes-loathsome-dangerous-lies-disavowed-her-favorite-gym-1573042) (Tier 2)
-- [Wikipedia: Marjorie Taylor Greene, conspiracy theories and controversies](https://en.wikipedia.org/wiki/Marjorie_Taylor_Greene) (Tier 3)
-- [The Week: MTG's biggest controversies](https://theweek.com/politics/marjorie-taylor-greene-controversy) (Tier 2)
-- [New Republic: The Ascension of Marjorie Taylor Greene](https://newrepublic.com/article/161222/ascension-marjorie-taylor-greene) (Tier 2)
-- [The Hill: MTG and Washington's broken incentives](https://thehill.com/opinion/congress-blog/4651899-we-need-to-talk-about-marjorie-taylor-greene-and-washingtons-broken-incentives/) (Tier 2)
-- [The Hill: MTG says she no longer believes in QAnon theories](https://thehill.com/homenews/house/5591006-marjorie-taylor-greene-qanon-rejection/) (Tier 2)
+- [CNBC: MTG expresses regret about QAnon](https://www.cnbc.com/2021/02/04/marjorie-taylor-greene-regret-qanon-conspiracy-claims.html) (Tier 2) (VERIFIED)
+- [BuzzFeed News: CrossFit and MTG. QAnon and disavowal](https://www.buzzfeednews.com/article/ryancbrooks/marjorie-taylor-greene-qanon-crossfit) (Tier 2) (VERIFIED)
+- [Newsweek: MTG's loathsome lies blasted by CrossFit](https://www.newsweek.com/marjorie-taylor-greenes-loathsome-dangerous-lies-disavowed-her-favorite-gym-1573042) (Tier 2) (VERIFIED)
+- [Wikipedia: Marjorie Taylor Greene, conspiracy theories and controversies](https://en.wikipedia.org/wiki/Marjorie_Taylor_Greene) (Tier 3) (VERIFIED)
+- [The Week: MTG's biggest controversies](https://theweek.com/politics/marjorie-taylor-greene-controversy) (Tier 2) (VERIFIED)
+- [New Republic: The Ascension of Marjorie Taylor Greene](https://newrepublic.com/article/161222/ascension-marjorie-taylor-greene) (Tier 2) (VERIFIED)
+- ~~[The Hill: MTG and Washington's broken incentives](https://thehill.com/opinion/congress-blog/4651899-we-need-to-talk-about-marjorie-taylor-greene-and-washingtons-broken-incentives/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: MTG says she no longer believes in QAnon theories](https://thehill.com/homenews/house/5591006-marjorie-taylor-greene-qanon-rejection/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)

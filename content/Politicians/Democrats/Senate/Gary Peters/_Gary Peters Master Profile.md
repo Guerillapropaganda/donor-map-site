@@ -166,24 +166,24 @@ The class function is pipeline operator. Peters does not generate progressive po
 - S. 3913: Self-Initiation Trade Enforcement Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 - S. 3870: Lifelong Learning Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/gary_peters/412305) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/gary_peters/412305) (Tier 1) (VERIFIED)
 
 <!-- auto:govtrack end -->
 
 ## Sources
 
-- [FEC Candidate: Gary Peters Campaign Finance Summary](https://www.fec.gov/data/candidate/H8MI09068/) (Tier 1)
-- [FEC: Gary Peters for Michigan (S4MI00355)](https://www.fec.gov/data/candidate/S4MI00355/) (Tier 1)
-- [POGO: Representatives Are Too Invested in Defense Contractors](https://www.pogo.org/analyses/representatives-are-too-invested-in-defense-contractors) (Tier 2)
-- [Common Dreams: Report Reveals 50+ US Lawmakers Hold Military Stocks](https://www.commondreams.org/news/members-of-congress-who-own-defense-stock) (Tier 2)
-- [Washington Post: Senator Gary Peters Is Overseeing a Boom in Cyber Bills](https://www.hsgac.senate.gov/media/dems/washington-post-senator-gary-peters-is-overseeing-a-boom-in-cyber-bills/) (Tier 2)
-- [DSCC: Peters to Return as DSCC Chair for 2024 Cycle](https://www.dscc.org/article/following-historic-victories-sen-gary-peters-to-return-as-dscc-chair-for-2024-cycle/) (Tier 1)
-- [Roll Call: DSCC Chair Peters Tapped for Plum Senate Appropriations Seat](https://rollcall.com/2023/01/26/dscc-chair-peters-tapped-for-plum-senate-appropriations-seat/) (Tier 2)
-- [Detroit News: Michigan's Peters-James Senate Race Heads Toward Record Spending](https://www.detroitnews.com/story/news/politics/2020/10/09/michigan-u-s-senate-races-turns-into-total-air-war-covid-19-era/3578413001/) *(source unavailable)* (Tier 2)
-- [Jacobin: Senate Democrats' Machine Spent $15 Million to Destroy Progressive Candidates](https://jacobin.com/2020/07/senate-democrats-majority-pac-dscc) (Tier 2)
-- [Wikipedia: Gary Peters](https://en.wikipedia.org/wiki/Gary_Peters) (Tier 3)
-- [Ballotpedia: Gary Peters](https://ballotpedia.org/Gary_Peters) (Tier 3)
-- [GovTrack: Senator Gary Peters](https://www.govtrack.us/congress/members/gary_peters/412305) (Tier 3)
+- [FEC Candidate: Gary Peters Campaign Finance Summary](https://www.fec.gov/data/candidate/H8MI09068/) (Tier 1) (VERIFIED)
+- [FEC: Gary Peters for Michigan (S4MI00355)](https://www.fec.gov/data/candidate/S4MI00355/) (Tier 1) (VERIFIED)
+- ~~[POGO: Representatives Are Too Invested in Defense Contractors](https://www.pogo.org/analyses/representatives-are-too-invested-in-defense-contractors)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Common Dreams: Report Reveals 50+ US Lawmakers Hold Military Stocks](https://www.commondreams.org/news/members-of-congress-who-own-defense-stock) (Tier 2) (VERIFIED)
+- [Washington Post: Senator Gary Peters Is Overseeing a Boom in Cyber Bills](https://www.hsgac.senate.gov/media/dems/washington-post-senator-gary-peters-is-overseeing-a-boom-in-cyber-bills/) (Tier 2) (VERIFIED)
+- [DSCC: Peters to Return as DSCC Chair for 2024 Cycle](https://www.dscc.org/article/following-historic-victories-sen-gary-peters-to-return-as-dscc-chair-for-2024-cycle/) (Tier 1) (VERIFIED)
+- [Roll Call: DSCC Chair Peters Tapped for Plum Senate Appropriations Seat](https://rollcall.com/2023/01/26/dscc-chair-peters-tapped-for-plum-senate-appropriations-seat/) (Tier 2) (VERIFIED)
+- ~~[Detroit News: Michigan's Peters-James Senate Race Heads Toward Record Spending](https://www.detroitnews.com/story/news/politics/2020/10/09/michigan-u-s-senate-races-turns-into-total-air-war-covid-19-era/3578413001/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+- [Jacobin: Senate Democrats' Machine Spent $15 Million to Destroy Progressive Candidates](https://jacobin.com/2020/07/senate-democrats-majority-pac-dscc) (Tier 2) (VERIFIED)
+- [Wikipedia: Gary Peters](https://en.wikipedia.org/wiki/Gary_Peters) (Tier 3) (VERIFIED)
+- [Ballotpedia: Gary Peters](https://ballotpedia.org/Gary_Peters) (Tier 3) (VERIFIED)
+- [GovTrack: Senator Gary Peters](https://www.govtrack.us/congress/members/gary_peters/412305) (Tier 3) (VERIFIED)
 
 ---
 
@@ -216,7 +216,7 @@ party:: Democrat
 | 11/30/2016 | CVS | Purchase | $1,001 - $15,000 | Self |
 | 11/25/2015 | -- | Purchase | $1,001 - $15,000 | Self |
 
-- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
 ## Voting Record
@@ -241,7 +241,7 @@ party:: Democrat
 
 **Sources**
 
-- [GovTrack: Gary Peters](https://www.govtrack.us/congress/members/412305) (Tier 1)
+- [GovTrack: Gary Peters](https://www.govtrack.us/congress/members/412305) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-09 -->

@@ -13,7 +13,7 @@ profiles:
 
 ## Protesting the Smash-and-Grab Presidency With Nikhil Pal Singh
 
-**Source:** [The Intercept](https://theintercept.com/2026/03/27/briefing-podcast-nikhil-pal-singh/)
+**Source:** [The Intercept](https://theintercept.com/2026/03/27/briefing-podcast-nikhil-pal-singh/) (VERIFIED)
 **Date:** 2026-03-27
 
 Nikhil Pal Singh on building bigger coalitions and where the opposition goes in this increasingly hostile protest environment. The post Protesting the Smash-and-Grab Presidency With Nikhil Pal Singh appeared first on The Intercept.

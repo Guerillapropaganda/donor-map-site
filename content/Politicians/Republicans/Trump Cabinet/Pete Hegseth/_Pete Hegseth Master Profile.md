@@ -224,26 +224,26 @@ No ethics filing shows Hegseth divested defense contractor stocks before taking 
 
 ## Sources.
 
-- [NPR: Pete Hegseth Senate Confirmation](https://www.npr.org/2025/01/24/nx-s1-5272854/trump-cabinet-picks-pete-hegseth-senate-confirmation-vote) (Tier 2)
-- [CBS News: Pete Hegseth Confirmation Vote 51-50](https://www.cbsnews.com/news/pete-hegseth-confirmation-vote-senate-defense-secretary/) (Tier 2)
-- [CNN: Vance Tie-Breaking Vote Confirmation](https://www.cnn.com/2025/01/24/politics/hegseth-defense-secretary-trump/index.html) (Tier 2)
-- [PBS News: Sexual Assault Settlement $50,000](https://www.pbs.org/newshour/politics/hegseth-told-senator-that-he-paid-50000-to-woman-who-accused-him-of-sexual-assault-in-2017-ap-reports) (Tier 2)
-- [19th News: Confirmation Hearing and Allegations](https://www.19thnews.org/2025/01/inside-pete-hegseth-defense-pick-contentious-confirmation-hearing/) (Tier 2)
-- [The Hill: Hegseth Defends $200B Iran War Funding](https://www.thehill.com/policy/defense/5791278-heggeth-defends-pentagon-budget/) (Tier 2)
-- [CNBC: Pentagon $200 Billion Supplemental Request](https://www.cnbc.com/2026/03/19/hegseth-iran-war-budget.html) (Tier 2)
-- [The Intercept: Pentagon Claims $200 Billion for Iran War](https://theintercept.com/2026/03/19/pentagon-budget-iran-war-hegseth/) (Tier 2)
-- [SourceWatch: Concerned Veterans for America](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Concerned_Veterans_for_America) (Tier 2)
-- [American Oversight: Koch-Funded VA Privatization Group](https://americanoversight.org/documents-reveal-extent-of-koch-funded-va-privatization-groups-influence/) (Tier 2)
-- [Military.com: "We Welcome DOGE" Pentagon Cuts](https://www.military.com/daily-news/2025/02/11/we-welcome-doge-hegseth-says-musk-can-find-billions-of-dollars-pentagon-cuts.html) (Tier 2)
-- [Air and Space Forces: Hegseth $50B Pentagon Budget Cuts](https://www.airandspaceforces.com/hegseth-reviewing-shift-8-percent-pentagon-budget/) (Tier 2)
-- [DefenseScoop: DOD Civilian Hiring Freeze](https://defensescoop.com/2025/03/17/dod-civilian-hiring-freeze-exemptions-hegseth-readiness-doge/) (Tier 2)
-- [Ballotpedia: Pete Hegseth Confirmation Process](https://ballotpedia.org/Confirmation_process_for_Pete_Hegseth_for_secretary_of_defense) (Tier 3)
-- [Miller Center: Pete Hegseth Biography](https://millercenter.org/pete-hegseth-2025) (Tier 3)
-- [Princeton Alumni Weekly: Hegseth Princeton Profile](https://paw.princeton.edu/article/what-was-defense-secretary-nominee-pete-hegseth-03-princeton) (Tier 3)
-- [Daily Princetonian: Hegseth '03 Profile](https://www.dailyprincetonian.com/article/2025/01/princeton-features-profiles-pete-hegseth-defense-secretary-nominee) (Tier 3)
-- [Washington Post: Hegseth Senate Confirmation Vance Tie-Break](https://www.washingtonpost.com/national-security/2025/01/24/hegseth-senate-confirmation-vote/) (Tier 2)
-- [PBS NewsHour: "It Takes Money to Kill Bad Guys"](https://www.pbs.org/newshour/world/it-takes-money-to-kill-bad-guys-hegseth-says-as-pentagon-seeks-billions-in-additional-funds-for-the-iran-war) (Tier 2)
-- [Associated Defense Communities: DOGE at Pentagon](https://defensecommunities.org/2025/02/hegseth-calls-for-deep-budget-cuts-doge-at-dod/) (Tier 2)
+- [NPR: Pete Hegseth Senate Confirmation](https://www.npr.org/2025/01/24/nx-s1-5272854/trump-cabinet-picks-pete-hegseth-senate-confirmation-vote) (Tier 2) (VERIFIED)
+- [CBS News: Pete Hegseth Confirmation Vote 51-50](https://www.cbsnews.com/news/pete-hegseth-confirmation-vote-senate-defense-secretary/) (Tier 2) (VERIFIED)
+- [CNN: Vance Tie-Breaking Vote Confirmation](https://www.cnn.com/2025/01/24/politics/hegseth-defense-secretary-trump/index.html) (Tier 2) (VERIFIED)
+- [PBS News: Sexual Assault Settlement $50,000](https://www.pbs.org/newshour/politics/hegseth-told-senator-that-he-paid-50000-to-woman-who-accused-him-of-sexual-assault-in-2017-ap-reports) (Tier 2) (VERIFIED)
+- ~~[19th News: Confirmation Hearing and Allegations](https://www.19thnews.org/2025/01/inside-pete-hegseth-defense-pick-contentious-confirmation-hearing/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Hegseth Defends $200B Iran War Funding](https://www.thehill.com/policy/defense/5791278-heggeth-defends-pentagon-budget/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [CNBC: Pentagon $200 Billion Supplemental Request](https://www.cnbc.com/2026/03/19/hegseth-iran-war-budget.html) (Tier 2) (VERIFIED)
+- [The Intercept: Pentagon Claims $200 Billion for Iran War](https://theintercept.com/2026/03/19/pentagon-budget-iran-war-hegseth/) (Tier 2) (VERIFIED)
+- ~~[SourceWatch: Concerned Veterans for America](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Concerned_Veterans_for_America)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [American Oversight: Koch-Funded VA Privatization Group](https://americanoversight.org/documents-reveal-extent-of-koch-funded-va-privatization-groups-influence/) (Tier 2) (VERIFIED)
+- [Military.com: "We Welcome DOGE" Pentagon Cuts](https://www.military.com/daily-news/2025/02/11/we-welcome-doge-hegseth-says-musk-can-find-billions-of-dollars-pentagon-cuts.html) (Tier 2) (VERIFIED)
+- [Air and Space Forces: Hegseth $50B Pentagon Budget Cuts](https://www.airandspaceforces.com/hegseth-reviewing-shift-8-percent-pentagon-budget/) (Tier 2) (VERIFIED)
+- [DefenseScoop: DOD Civilian Hiring Freeze](https://defensescoop.com/2025/03/17/dod-civilian-hiring-freeze-exemptions-hegseth-readiness-doge/) (Tier 2) (VERIFIED)
+- [Ballotpedia: Pete Hegseth Confirmation Process](https://ballotpedia.org/Confirmation_process_for_Pete_Hegseth_for_secretary_of_defense) (Tier 3) (VERIFIED)
+- [Miller Center: Pete Hegseth Biography](https://millercenter.org/pete-hegseth-2025) (Tier 3) (VERIFIED)
+- [Princeton Alumni Weekly: Hegseth Princeton Profile](https://paw.princeton.edu/article/what-was-defense-secretary-nominee-pete-hegseth-03-princeton) (Tier 3) (VERIFIED)
+- [Daily Princetonian: Hegseth '03 Profile](https://www.dailyprincetonian.com/article/2025/01/princeton-features-profiles-pete-hegseth-defense-secretary-nominee) (Tier 3) (VERIFIED)
+- ~~[Washington Post: Hegseth Senate Confirmation Vance Tie-Break](https://www.washingtonpost.com/national-security/2025/01/24/hegseth-senate-confirmation-vote/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [PBS NewsHour: "It Takes Money to Kill Bad Guys"](https://www.pbs.org/newshour/world/it-takes-money-to-kill-bad-guys-hegseth-says-as-pentagon-seeks-billions-in-additional-funds-for-the-iran-war) (Tier 2) (VERIFIED)
+- [Associated Defense Communities: DOGE at Pentagon](https://defensecommunities.org/2025/02/hegseth-calls-for-deep-budget-cuts-doge-at-dod/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -260,5 +260,5 @@ No ethics filing shows Hegseth divested defense contractor stocks before taking 
 | PAC Contributions | $3,600 |
 | Coverage Through | 2012-06-30 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S2MN00258/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S2MN00258/) (Tier 1) (VERIFIED)
 <!-- auto:fec-summary end -->

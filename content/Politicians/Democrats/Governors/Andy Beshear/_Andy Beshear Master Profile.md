@@ -115,9 +115,9 @@ The structural trick of Beshear's model is the off-year election. He wins in a s
 
 ## Sources
 
-- [OpenSecrets: Kentucky gubernatorial fundraising records](https://www.opensecrets.org/news/2023/11/kentucky-gubernatorial-race-breaks-fundraising-records-exceeds-44-million) (Tier 1)
-- [Kentucky Lantern: Beshear top donors and super PAC fundraising](https://kentuckylantern.com/2026/02/02/kentucky-democrat-andy-beshears-super-pac-steps-up-fundraising-in-its-second-year/) (Tier 2)
-- [Kentucky Lantern: Straw donation investigation](https://kentuckylantern.com/2025/03/20/rare-inside-view-of-money-race-revealed-by-investigation-of-straw-donations-to-boost-beshear/) (Tier 2)
+- [OpenSecrets: Kentucky gubernatorial fundraising records](https://www.opensecrets.org/news/2023/11/kentucky-gubernatorial-race-breaks-fundraising-records-exceeds-44-million) (Tier 1) (VERIFIED)
+- [Kentucky Lantern: Beshear top donors and super PAC fundraising](https://kentuckylantern.com/2026/02/02/kentucky-democrat-andy-beshears-super-pac-steps-up-fundraising-in-its-second-year/) (Tier 2) (VERIFIED)
+- [Kentucky Lantern: Straw donation investigation](https://kentuckylantern.com/2025/03/20/rare-inside-view-of-money-race-revealed-by-investigation-of-straw-donations-to-boost-beshear/) (Tier 2) (VERIFIED)
 - LPM: In This Together PAC fundraising (Tier 2)
 - NPR: Kentucky red state Democrat (Tier 2)
 - Boston Globe: Beshear success key (Tier 2)

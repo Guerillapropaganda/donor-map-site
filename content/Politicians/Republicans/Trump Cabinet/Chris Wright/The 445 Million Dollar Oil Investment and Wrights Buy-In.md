@@ -76,7 +76,7 @@ Within Wright's first year as Energy Secretary:
 
 ### Sources
 
-- [OpenSecrets: Trump administration profile — Chris Wright](https://www.opensecrets.org/members-of-congress/summary?name=445%20Million%20Dollar%20Oil%20Investment%20and%20Wrights%20Buy-In) (Tier 2)
+- [OpenSecrets: Trump administration profile — Chris Wright](https://www.opensecrets.org/members-of-congress/summary?name=445%20Million%20Dollar%20Oil%20Investment%20and%20Wrights%20Buy-In) (Tier 2) (VERIFIED)
 - Common Dreams: Big oil's $445M investment in Trump (Tier 2)
 - Climate Power: Oil and gas industry $450M spending report (Tier 2)
 - Brennan Center: Fossil fuel donors see major returns (Tier 2)

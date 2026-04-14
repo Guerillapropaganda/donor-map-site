@@ -71,7 +71,7 @@ Unlike Tim Pool (Russian dark money) or Ben Shapiro (Wilks brothers), Piker has 
 > [!money]
 > Major correction from previous profile notation of $0: FEC records show 16 contributions totaling ~$5,809 raw (de-duplicated to ~$2,905 unique), all to Bernie Sanders 2020 campaign via ActBlue in January–February 2020. All entries list employer as TWITCH, occupation as COMMENTATOR, California address. Piker made no contributions before Sanders 2020 or after the campaign ended. The concentration, all donations in a 6-week window before Super Tuesday, reflects Bernie's moment of peak viability. Analytically significant: Piker is a multi-millionaire Twitch socialist (2.8M followers, estimated $2–3M annual income, $8M net worth) who donated his personal money to Bernie Sanders in 2020. The contradiction the note initially flagged, wealth vs. socialism, is real, but the FEC record proves Piker did put personal money behind Bernie despite the contradiction. This places him closer to Kulinski's integrity metrics (personal political commitment via donations) than to other left-media figures who show $0.
 
-- [FEC: Hasan Piker individual contributions (16 results, ~$5,809)](https://www.fec.gov/data/receipts/?contributor_name=hasan+piker) (Tier 1)
+- [FEC: Hasan Piker individual contributions (16 results, ~$5,809)](https://www.fec.gov/data/receipts/?contributor_name=hasan+piker) (Tier 1) (VERIFIED)
 
 > **Note on API results:** The FEC API search for "hasan piker" returns 16 results (~$5,809 total), all confirmed to belong to the Twitch streamer. Employer listed as TWITCH (Commentator), California address matches the media personality. All donations via ActBlue in January-February 2020 to Bernie Sanders. No disambiguation required, all 16 results are the same person.
 
@@ -167,16 +167,16 @@ This does not make Hasan Piker a villain or a fraud. It makes the platform the s
 
 ### Sources
 
-- [Wikipedia: Hasan Piker](https://en.wikipedia.org/wiki/Hasan_Piker) (Tier 3)
-- [Dot Esports: How much money does Hasan make? (Twitch Leaks)](https://dotesports.com/streaming/news/how-much-money-does-hasan-make-on-twitch) (Tier 3)
-- [NBC News: Twitch is transforming into a political arena. Hasan Piker is at the forefront.](https://www.nbcnews.com/politics/hasan-piker-twitch-political-commentary-election-rcna172136) (Tier 2)
-- [Washington Post: Twitch hack reveals pay of xQc, Pokimane, and more](https://www.washingtonpost.com/video-games/2021/10/06/twitch-hack-pay-xqc-pokimane-summit1g/) (Tier 2)
-- [Kotaku: Twitch Suspends Popular Leftist Streamer After Controversial 9/11 Comments](https://kotaku.com/twitch-suspends-popular-leftist-streamer-after-controve-1837518859) (Tier 3)
-- [Yahoo Entertainment: Young Turks' Hasan Piker Says Comment That US 'Deserved 9/11' Was 'Inappropriate'](https://www.yahoo.com/entertainment/young-turks-hasan-piker-says-154258933.html) (Tier 3)
-- [Sportskeeda: Twitch data breach reveals how much HasanAbi has earned since 2019](https://www.sportskeeda.com/esports/twitch-data-breach-reveals-much-hasanabi-earned-since-2019) (Tier 3)
-- [Rolling Stone: Hasan Piker on DNC Chaos, Creators for Kamala, Obama's Role in Election](https://www.rollingstone.com/culture/culture-features/hasan-piker-dnc-creators-for-kamala-1235089088/) (Tier 2)
-- [Newsweek: Hasan Piker on Kamala Harris Loss: 'You Can't Podcast Your Way Out of This'](https://www.newsweek.com/hasan-piker-kamala-harris-loss-failures-podcast-twitch-streamer-progressive-politics-1983001) (Tier 3)
-- [Dazed: Hasan Piker: 'I think the Overton window is shifting on Palestine'](https://www.dazeddigital.com/life-culture/article/65723/1/hasan-piker-i-think-the-overton-window-is-shifting-on-palestine-interview) (Tier 3)
-- [Michigan Advance: Michigan's El-Sayed unfazed by backlash against upcoming campaign event with Hasan Piker](https://michiganadvance.com/2026/03/25/michigans-el-sayed-unfazed-by-backlash-against-upcoming-campaign-event-with-hasan-piker/) (Tier 3)
-- [FEC Individual Contributions Search: "Hasan Piker" / "Hasan Dogan Piker", zero records across all cycles](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=hasan+piker) (Tier 1)
+- [Wikipedia: Hasan Piker](https://en.wikipedia.org/wiki/Hasan_Piker) (Tier 3) (VERIFIED)
+- [Dot Esports: How much money does Hasan make? (Twitch Leaks)](https://dotesports.com/streaming/news/how-much-money-does-hasan-make-on-twitch) (Tier 3) (VERIFIED)
+- [NBC News: Twitch is transforming into a political arena. Hasan Piker is at the forefront.](https://www.nbcnews.com/politics/hasan-piker-twitch-political-commentary-election-rcna172136) (Tier 2) (VERIFIED)
+- [Washington Post: Twitch hack reveals pay of xQc, Pokimane, and more](https://www.washingtonpost.com/video-games/2021/10/06/twitch-hack-pay-xqc-pokimane-summit1g/) (Tier 2) (VERIFIED)
+- [Kotaku: Twitch Suspends Popular Leftist Streamer After Controversial 9/11 Comments](https://kotaku.com/twitch-suspends-popular-leftist-streamer-after-controve-1837518859) (Tier 3) (VERIFIED)
+- [Yahoo Entertainment: Young Turks' Hasan Piker Says Comment That US 'Deserved 9/11' Was 'Inappropriate'](https://www.yahoo.com/entertainment/young-turks-hasan-piker-says-154258933.html) (Tier 3) (VERIFIED)
+- ~~[Sportskeeda: Twitch data breach reveals how much HasanAbi has earned since 2019](https://www.sportskeeda.com/esports/twitch-data-breach-reveals-much-hasanabi-earned-since-2019)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [Rolling Stone: Hasan Piker on DNC Chaos, Creators for Kamala, Obama's Role in Election](https://www.rollingstone.com/culture/culture-features/hasan-piker-dnc-creators-for-kamala-1235089088/) (Tier 2) (VERIFIED)
+- [Newsweek: Hasan Piker on Kamala Harris Loss: 'You Can't Podcast Your Way Out of This'](https://www.newsweek.com/hasan-piker-kamala-harris-loss-failures-podcast-twitch-streamer-progressive-politics-1983001) (Tier 3) (VERIFIED)
+- [Dazed: Hasan Piker: 'I think the Overton window is shifting on Palestine'](https://www.dazeddigital.com/life-culture/article/65723/1/hasan-piker-i-think-the-overton-window-is-shifting-on-palestine-interview) (Tier 3) (VERIFIED)
+- [Michigan Advance: Michigan's El-Sayed unfazed by backlash against upcoming campaign event with Hasan Piker](https://michiganadvance.com/2026/03/25/michigans-el-sayed-unfazed-by-backlash-against-upcoming-campaign-event-with-hasan-piker/) (Tier 3) (VERIFIED)
+- [FEC Individual Contributions Search: "Hasan Piker" / "Hasan Dogan Piker", zero records across all cycles](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=hasan+piker) (Tier 1) (VERIFIED)
 

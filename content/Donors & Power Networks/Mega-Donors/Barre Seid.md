@@ -84,11 +84,11 @@ This asymmetry means conservative jurisprudence is more directly purchased by in
 
 ### Sources
 
-- [ProPublica: Barre Seid and the $1.6B donation](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (Tier 2)
-- [OpenSecrets: Marble Freedom Trust](https://www.opensecrets.org/orgs/marble-freedom-trust/summary) (Tier 1)
-- [IRS Form 990: Judicial Education Project / The 85 Fund (2021-2022)](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Barre%20Seid&city=&state=All+States&country=US) (Tier 1)
-- [Leonard Leo Marble Freedom Trust network map](https://www.documentcloud.org/documents/21144404-marble-trust-recipients/) (Tier 2)
-- [SCOTUSblog: Dobbs v. Jackson and Federalist Society judicial campaign](https://www.scotusblog.com/cases/case-files/dobbs-v-jackson-womens-health-organization/) (Tier 3)
+- [ProPublica: Barre Seid and the $1.6B donation](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (Tier 2) (VERIFIED)
+- ~~[OpenSecrets: Marble Freedom Trust](https://www.opensecrets.org/orgs/marble-freedom-trust/summary)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[IRS Form 990: Judicial Education Project / The 85 Fund (2021-2022)](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Barre%20Seid&city=&state=All+States&country=US)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Leonard Leo Marble Freedom Trust network map](https://www.documentcloud.org/documents/21144404-marble-trust-recipients/) (Tier 2) (VERIFIED)
+- [SCOTUSblog: Dobbs v. Jackson and Federalist Society judicial campaign](https://www.scotusblog.com/cases/case-files/dobbs-v-jackson-womens-health-organization/) (Tier 3) (VERIFIED)
 
 ---
 
@@ -113,7 +113,7 @@ This asymmetry means conservative jurisprudence is more directly purchased by in
 | Total Expenses | $705K |
 | Net Assets | $341K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 363342443](https://projects.propublica.org/nonprofits/organizations/363342443) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 363342443](https://projects.propublica.org/nonprofits/organizations/363342443) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Tax Filings (IRS 990)
@@ -130,14 +130,14 @@ This asymmetry means conservative jurisprudence is more directly purchased by in
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/363342443/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/363342443/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/363342443/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/363342443/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/363342443/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/363342443/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/363342443/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/363342443/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/363342443/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/363342443/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/363342443) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/363342443) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Campaign Finance (FEC)
@@ -162,5 +162,5 @@ This asymmetry means conservative jurisprudence is more directly purchased by in
 | REPUBLICAN NATIONAL COMMITTEE - CONTRIBUTIONS (AKA REPUBLICAN NATIONAL FINANCE COMMITTEE) | $5,000 | REP |
 | NATIONAL REPUBLICAN SENATORIAL COMMITTEE - CONTRIBUTIONS * | $5,000 | REP |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Barre%20Seid) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Barre%20Seid) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->

@@ -167,13 +167,13 @@ The crypto industry's $245M+ 2024 election investment produced four concrete pol
 
 ### Sources
 
-- [OpenSecrets: Fairshake PAC summary — $260M raised, $196M spent, 2024 cycle](https://www.opensecrets.org/political-action-committees-pacs/fairshake-pac/C00835959/summary/2024) (Tier 1)
-- [OpenSecrets: Fairshake PAC targeted candidates](https://www.opensecrets.org/outside-spending/detail/2024?cmte=C00835959&tab=targeted_candidates) (Tier 1)
-- [SEC: SEC Chair Gensler to Depart Agency on January 20 — official press release](https://www.sec.gov/newsroom/press-releases/2024-182) (Tier 1)
-- [NPR: Congress passes 1st major crypto legislation in the U.S. — GENIUS Act signed July 18, 2025](https://www.npr.org/2025/07/17/nx-s1-5451413/crypto-week-stablecoin-genius-act-trump) (Tier 2)
-- [CNBC: Fairshake has $116M on hand for 2026 — Coinbase, Ripple, a16z contributions](https://www.cnbc.com/2025/01/30/crypto-pac-fairshake-has-116-million-on-hand-for-2026-elections.html) (Tier 2)
-- [CNBC: Fairshake touts $193M war chest as GENIUS Act faces first vote](https://www.cnbc.com/2026/01/28/crypto-pac-fairshake-bill-vote.html) (Tier 2)
-- [Ballotpedia: Cryptocurrency regulation](https://ballotpedia.org/Cryptocurrency_Industry) (Tier 3)
+- ~~[OpenSecrets: Fairshake PAC summary — $260M raised, $196M spent, 2024 cycle](https://www.opensecrets.org/political-action-committees-pacs/fairshake-pac/C00835959/summary/2024)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [OpenSecrets: Fairshake PAC targeted candidates](https://www.opensecrets.org/outside-spending/detail/2024?cmte=C00835959&tab=targeted_candidates) (Tier 1) (VERIFIED)
+- [SEC: SEC Chair Gensler to Depart Agency on January 20 — official press release](https://www.sec.gov/newsroom/press-releases/2024-182) (Tier 1) (VERIFIED)
+- [NPR: Congress passes 1st major crypto legislation in the U.S. — GENIUS Act signed July 18, 2025](https://www.npr.org/2025/07/17/nx-s1-5451413/crypto-week-stablecoin-genius-act-trump) (Tier 2) (VERIFIED)
+- [CNBC: Fairshake has $116M on hand for 2026 — Coinbase, Ripple, a16z contributions](https://www.cnbc.com/2025/01/30/crypto-pac-fairshake-has-116-million-on-hand-for-2026-elections.html) (Tier 2) (VERIFIED)
+- [CNBC: Fairshake touts $193M war chest as GENIUS Act faces first vote](https://www.cnbc.com/2026/01/28/crypto-pac-fairshake-bill-vote.html) (Tier 2) (VERIFIED)
+- [Ballotpedia: Cryptocurrency regulation](https://ballotpedia.org/Cryptocurrency_Industry) (Tier 3) (VERIFIED)
 
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->
@@ -191,7 +191,7 @@ The crypto industry's $245M+ 2024 election investment produced four concrete pol
 
 **Agencies contacted:** HOUSE OF REPRESENTATIVES, SENATE
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Cryptocurrency%20Industry) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Cryptocurrency%20Industry) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)
@@ -225,7 +225,7 @@ The crypto industry's $245M+ 2024 election investment produced four concrete pol
 - Mou v. BTC King Technology Co., Ltd. (2026) — District Court, S.D. New York
 - Coinbase Financial Markets, Inc. v. Ford (2026) — District Court, D. Nevada
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Cryptocurrency%20Industry%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Cryptocurrency%20Industry%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Register Activity
@@ -239,12 +239,12 @@ The crypto industry's $245M+ 2024 election investment produced four concrete pol
 | Agencies | Consumer Financial Protection Bureau, Financial Crimes Enforcement Network, Internal Revenue Service, Securities and Exchange Commission, Treasury Department |
 
 **Recent regulatory activity:**
-- [Imposition of Special Measure Regarding Huione Group, as a Foreign Financial Institution of Primary Money Laundering Concern](https://www.federalregister.gov/documents/2025/10/16/2025-19571/imposition-of-special-measure-regarding-huione-group-as-a-foreign-financial-institution-of-primary) (2025-10-16) — Treasury Department
-- [Special Measure Regarding Huione Group, as a Foreign Financial Institution of Primary Money Laundering Concern](https://www.federalregister.gov/documents/2025/05/05/2025-07837/special-measure-regarding-huione-group-as-a-foreign-financial-institution-of-primary-money) (2025-05-05) — Treasury Department
-- [Gross Proceeds Reporting by Brokers That Regularly Provide Services Effectuating Digital Asset Sales](https://www.federalregister.gov/documents/2024/12/30/2024-30496/gross-proceeds-reporting-by-brokers-that-regularly-provide-services-effectuating-digital-asset-sales) (2024-12-30) — Treasury Department
-- [Defining Larger Participants of a Market for General-Use Digital Consumer Payment Applications](https://www.federalregister.gov/documents/2024/12/10/2024-27836/defining-larger-participants-of-a-market-for-general-use-digital-consumer-payment-applications) (2024-12-10) — Consumer Financial Protection Bureau
-- [Public Company Accounting Oversight Board; Order Granting Approval of QC 1000, A Firm's System of Quality Control, and Related Amendments to PCAOB Standards, Rules, and Forms](https://www.federalregister.gov/documents/2024/09/12/2024-20714/public-company-accounting-oversight-board-order-granting-approval-of-qc-1000-a-firms-system-of) (2024-09-12) — Securities and Exchange Commission
-- [Requirements for Certain Transactions Involving Convertible Virtual Currency or Digital Assets](https://www.federalregister.gov/documents/2020/12/23/2020-28437/requirements-for-certain-transactions-involving-convertible-virtual-currency-or-digital-assets) (2020-12-23) — Treasury Department ★
+- [Imposition of Special Measure Regarding Huione Group, as a Foreign Financial Institution of Primary Money Laundering Concern](https://www.federalregister.gov/documents/2025/10/16/2025-19571/imposition-of-special-measure-regarding-huione-group-as-a-foreign-financial-institution-of-primary) (VERIFIED) (2025-10-16) — Treasury Department
+- [Special Measure Regarding Huione Group, as a Foreign Financial Institution of Primary Money Laundering Concern](https://www.federalregister.gov/documents/2025/05/05/2025-07837/special-measure-regarding-huione-group-as-a-foreign-financial-institution-of-primary-money) (VERIFIED) (2025-05-05) — Treasury Department
+- [Gross Proceeds Reporting by Brokers That Regularly Provide Services Effectuating Digital Asset Sales](https://www.federalregister.gov/documents/2024/12/30/2024-30496/gross-proceeds-reporting-by-brokers-that-regularly-provide-services-effectuating-digital-asset-sales) (VERIFIED) (2024-12-30) — Treasury Department
+- [Defining Larger Participants of a Market for General-Use Digital Consumer Payment Applications](https://www.federalregister.gov/documents/2024/12/10/2024-27836/defining-larger-participants-of-a-market-for-general-use-digital-consumer-payment-applications) (VERIFIED) (2024-12-10) — Consumer Financial Protection Bureau
+- [Public Company Accounting Oversight Board; Order Granting Approval of QC 1000, A Firm's System of Quality Control, and Related Amendments to PCAOB Standards, Rules, and Forms](https://www.federalregister.gov/documents/2024/09/12/2024-20714/public-company-accounting-oversight-board-order-granting-approval-of-qc-1000-a-firms-system-of) (VERIFIED) (2024-09-12) — Securities and Exchange Commission
+- [Requirements for Certain Transactions Involving Convertible Virtual Currency or Digital Assets](https://www.federalregister.gov/documents/2020/12/23/2020-28437/requirements-for-certain-transactions-involving-convertible-virtual-currency-or-digital-assets) (VERIFIED) (2020-12-23) — Treasury Department ★
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Cryptocurrency%20Industry%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Cryptocurrency%20Industry%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->

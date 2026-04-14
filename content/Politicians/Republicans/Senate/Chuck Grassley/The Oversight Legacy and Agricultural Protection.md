@@ -38,7 +38,7 @@ The structural irony: Grassley publicly criticizes agricultural consolidation (o
 
 ### Sources
 
-- [Congress.gov: Chuck Grassley donor profile](https://www.congress.gov/search?q=Chuck%20Grassley&searchResultViewType=expanded) (Tier 1)
-- [EWG: Farm subsidy database](https://farm.ewg.org/search.php?search=Oversight%20Legacy%20and%20Agricultural%20Protection) (Tier 2)
-- [Ballotpedia: Chuck Grassley](https://ballotpedia.org/Chuck_Grassley) (Tier 3)
+- ~~[Congress.gov: Chuck Grassley donor profile](https://www.congress.gov/search?q=Chuck%20Grassley&searchResultViewType=expanded)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [EWG: Farm subsidy database](https://farm.ewg.org/search.php?search=Oversight%20Legacy%20and%20Agricultural%20Protection) (Tier 2) (VERIFIED)
+- [Ballotpedia: Chuck Grassley](https://ballotpedia.org/Chuck_Grassley) (Tier 3) (VERIFIED)
 

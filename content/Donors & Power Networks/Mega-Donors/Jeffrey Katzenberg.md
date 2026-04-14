@@ -151,17 +151,17 @@ The Quibi failure ($1.75B burned in 8 months) revealed the limits of Katzenberg'
 | Total Expenses | $3.0M |
 | Net Assets | $10.7M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 954513461](https://projects.propublica.org/nonprofits/organizations/954513461) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 954513461](https://projects.propublica.org/nonprofits/organizations/954513461) (Tier 1) (VERIFIED)
 
 <!-- auto:propublica-990 end -->
 
 ### Sources
 
-- [FEC: Individual contributions — Katzenberg, Jeffrey (2010–2026)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=katzenberg%2C+jeffrey&min_date=01%2F01%2F2010&max_date=12%2F31%2F2026) (Tier 1) — 809 contributions, 100% Democratic, DreamWorks/WndrCo employer
-- [Wikipedia: Jeffrey Katzenberg](https://en.wikipedia.org/wiki/Jeffrey_Katzenberg) (Tier 3) — Career overview, political activities section with sourced donation figures, SOPA/PIPA involvement, Biden/Harris 2024 co-chair
-- [Warburg Pincus / WndrCo: Jeffrey Katzenberg](https://www.wndrco.com/) (Tier 3) — WndrCo venture firm overview
-- [ProPublica Nonprofit Explorer: Priorities USA Action](https://projects.propublica.org/nonprofits/organizations/273725506) *(source unavailable)* (Tier 1) — Super PAC filings showing Katzenberg contributions
-- [Cenk Uygur media profile — Donor Map Media Pipeline](https://en.wikipedia.org/wiki/The_Young_Turks) (Tier 3) — TYT $20M WndrCo investment context
+- [FEC: Individual contributions — Katzenberg, Jeffrey (2010–2026)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=katzenberg%2C+jeffrey&min_date=01%2F01%2F2010&max_date=12%2F31%2F2026) (Tier 1) (VERIFIED) — 809 contributions, 100% Democratic, DreamWorks/WndrCo employer
+- [Wikipedia: Jeffrey Katzenberg](https://en.wikipedia.org/wiki/Jeffrey_Katzenberg) (Tier 3) (VERIFIED) — Career overview, political activities section with sourced donation figures, SOPA/PIPA involvement, Biden/Harris 2024 co-chair
+- [Warburg Pincus / WndrCo: Jeffrey Katzenberg](https://www.wndrco.com/) (Tier 3) (VERIFIED) — WndrCo venture firm overview
+- ~~[ProPublica Nonprofit Explorer: Priorities USA Action](https://projects.propublica.org/nonprofits/organizations/273725506)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 1) — Super PAC filings showing Katzenberg contributions
+- [Cenk Uygur media profile — Donor Map Media Pipeline](https://en.wikipedia.org/wiki/The_Young_Turks) (Tier 3) (VERIFIED) — TYT $20M WndrCo investment context
 
 ---
 
@@ -203,5 +203,5 @@ The Quibi failure ($1.75B burned in 8 months) revealed the limits of Katzenberg'
 | HMP | $350,000 | — |
 | DSCC | $294,800 | DEM |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Jeffrey%20Katzenberg) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Jeffrey%20Katzenberg) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->

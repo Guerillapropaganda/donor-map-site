@@ -114,11 +114,11 @@ The companies whose government contracts were maintained or expanded while their
 
 ### Sources
 
-- [Fox Business. How much have Musk's companies benefited from government funds](https://www.foxbusiness.com/politics/how-much-have-musks-tesla-spacex-benefited-from-government-funds) (Tier 2)
-- [OpenSecrets. Elon Musk tops list of 2024 political donors](https://www.opensecrets.org/news/2025/03/elon-musk-tops-list-of-2024-political-donors-but-six-others-gave-more-than-100-million) (Tier 1)
-- [USASpending.gov. Palantir Technologies Federal Award Data](https://www.usaspending.gov/recipient/1ea8a9a4-3726-3491-9040-66950bb67606-P/all) (Tier 1)
-- [CNBC. Palantir lands $10 billion Army software and data contract](https://www.cnbc.com/2025/08/01/palantir-lands-10-billion-army-software-and-data-contract.html) (Tier 2)
-- [Government Accountability Office. Indian Affairs Information on 2025 Workforce Reductions](https://www.gao.gov/assets/gao-26-108673.pdf) (Tier 1)
+- [Fox Business. How much have Musk's companies benefited from government funds](https://www.foxbusiness.com/politics/how-much-have-musks-tesla-spacex-benefited-from-government-funds) (Tier 2) (VERIFIED)
+- [OpenSecrets. Elon Musk tops list of 2024 political donors](https://www.opensecrets.org/news/2025/03/elon-musk-tops-list-of-2024-political-donors-but-six-others-gave-more-than-100-million) (Tier 1) (VERIFIED)
+- [USASpending.gov. Palantir Technologies Federal Award Data](https://www.usaspending.gov/recipient/1ea8a9a4-3726-3491-9040-66950bb67606-P/all) (Tier 1) (VERIFIED)
+- [CNBC. Palantir lands $10 billion Army software and data contract](https://www.cnbc.com/2025/08/01/palantir-lands-10-billion-army-software-and-data-contract.html) (Tier 2) (VERIFIED)
+- [Government Accountability Office. Indian Affairs Information on 2025 Workforce Reductions](https://www.gao.gov/assets/gao-26-108673.pdf) (Tier 1) (VERIFIED)
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->

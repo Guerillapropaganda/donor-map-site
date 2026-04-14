@@ -13,7 +13,7 @@ profiles:
 
 ## Bernie Sanders Backs Claire Valdez in NYC House Race Dividing Left and Progressives
 
-**Source:** [The Intercept](https://theintercept.com/2026/04/02/bernie-sanders-claire-valdez-congress-nyc/)
+**Source:** [The Intercept](https://theintercept.com/2026/04/02/bernie-sanders-claire-valdez-congress-nyc/) (VERIFIED)
 **Date:** 2026-04-02
 
 On Thursday, Sanders waded into the New York City race between progressives and socialists to replace Nydia Velázquez. The post Bernie Sanders Backs Claire Valdez in NYC House Race Dividing Left and Progressives appeared first on The Intercept.

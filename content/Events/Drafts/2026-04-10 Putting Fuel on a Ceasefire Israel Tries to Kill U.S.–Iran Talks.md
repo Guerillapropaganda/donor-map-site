@@ -13,7 +13,7 @@ profiles:
 
 ## Putting Fuel on a Ceasefire: Israel Tries to Kill U.S.–Iran Talks
 
-**Source:** [The Intercept](https://theintercept.com/2026/04/10/iran-ceasefire-israel/)
+**Source:** [The Intercept](https://theintercept.com/2026/04/10/iran-ceasefire-israel/) (VERIFIED)
 **Date:** 2026-04-10
 
 “In many ways, what actually has potentially led to this ceasefire is the fact that Iran is able to create a chokehold over 20 percent of the world’s oil.” The post Putting Fuel on a Ceasefire: Israel Tries to Kill U.S.–Iran Talks appeared first on The Intercept.

@@ -145,23 +145,23 @@ The industry's structural function for the donor class: maintain Democratic cult
 
 ### Sources
 
-- [FEC Receipts: TV / Movies / Music industry summary](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- [FEC Independent Expenditures: Katzenberg, Jeffrey — donor detail (2020 cycle)](https://www.fec.gov/data/independent-expenditures/?q=Jeffrey%20Katzenberg) (Tier 1)
-- [FEC Independent Expenditures: Saban, Haim — donor detail (2024 cycle)](https://www.fec.gov/data/independent-expenditures/?q=Haim%20Saban) (Tier 1)
-- [OpenSecrets: Motion Picture Association lobbying profile](https://www.opensecrets.org/orgs/motion-picture-assn/summary?id=D000027729) (Tier 1)
-- [Deadline: More Than $15 Million Raised During Biden's LA Fundraising Swing, Katzenberg Says](https://deadline.com/2023/12/joe-biden-fundraising-jeffrey-katzenberg-hollywood-1235661110/) (Tier 2)
-- [Deadline: Jeffrey Katzenberg Tells Biden Donor Cash Is Drying Up](https://deadline.com/2024/07/jeffrey-katzenberg-joe-biden-2024-election-1236013665/) (Tier 2)
-- [Deadline: Kamala Harris' L.A. Fundraiser Pulls In More Than $28 Million](https://deadline.com/2024/09/kamala-harris-hollywood-fundariser-1236103029/) (Tier 2)
-- [Variety: Hollywood Donors Get Behind Kamala Harris After Biden Exit](https://variety.com/2024/politics/news/hollywood-donors-kamala-harris-support-joe-biden-jeffrey-katzenberg-1236080773/) (Tier 2)
-- [TheWrap: Jeffrey Katzenberg Rescues Democratic Fundraising in Hollywood With More Than $2 Million in Donations](https://www.thewrap.com/jeffrey-katzenberg-democrat-donations-fundraising-hollywood-strikes/) (Tier 2)
-- [Axios: Kamala Harris' campaign energizes Hollywood as celebrities flock to help](https://www.axios.com/2024/08/01/kamala-harris-campaign-hollywood-support) (Tier 2)
-- [Mondoweiss: 'Activist donor' Haim Saban lays down red lines for Democrats — don't 'undermine' relationship with Israel](https://mondoweiss.net/2022/04/activist-donor-haim-saban-lays-down-red-lines-for-democrats-dont-undermine-relationship-with-israel/) (Tier 2)
-- [Mondoweiss: Biden's Israel policy is scripted by Saban](https://mondoweiss.net/2023/09/bidens-israel-policy-is-scripted-by-saban/) (Tier 2)
-- [The Intercept: Pro-Israel Megadonor Haim Saban Attacks Democratic Senators' Gaza Letter](https://theintercept.com/2018/06/20/haim-saban-bernie-sanders-israel-gaza-letter/) (Tier 2)
-- [CNBC: Haim Saban throws money behind Biden, Democrats in Senate races (2020)](https://www.cnbc.com/2020/09/22/2020-election-haim-saban-throws-money-behind-biden-democrats-in-senate-races.html) (Tier 2)
-- [NPR: Celebrities sign letter to Biden urging cease-fire in Gaza](https://www.npr.org/2023/10/21/1207783685/celebrities-letter-ceasefire-israel-gaza-biden) (Tier 2)
-- [SourceWatch: Saban Center for Middle East Policy](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Saban_Center_for_Middle_East_Policy) (Tier 3)
-- [Wikipedia: Haim Saban](https://en.wikipedia.org/wiki/Haim_Saban) (Tier 3)
+- [FEC Receipts: TV / Movies / Music industry summary](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
+- [FEC Independent Expenditures: Katzenberg, Jeffrey — donor detail (2020 cycle)](https://www.fec.gov/data/independent-expenditures/?q=Jeffrey%20Katzenberg) (Tier 1) (VERIFIED)
+- [FEC Independent Expenditures: Saban, Haim — donor detail (2024 cycle)](https://www.fec.gov/data/independent-expenditures/?q=Haim%20Saban) (Tier 1) (VERIFIED)
+- [OpenSecrets: Motion Picture Association lobbying profile](https://www.opensecrets.org/orgs/motion-picture-assn/summary?id=D000027729) (Tier 1) (VERIFIED)
+- [Deadline: More Than $15 Million Raised During Biden's LA Fundraising Swing, Katzenberg Says](https://deadline.com/2023/12/joe-biden-fundraising-jeffrey-katzenberg-hollywood-1235661110/) (Tier 2) (VERIFIED)
+- [Deadline: Jeffrey Katzenberg Tells Biden Donor Cash Is Drying Up](https://deadline.com/2024/07/jeffrey-katzenberg-joe-biden-2024-election-1236013665/) (Tier 2) (VERIFIED)
+- [Deadline: Kamala Harris' L.A. Fundraiser Pulls In More Than $28 Million](https://deadline.com/2024/09/kamala-harris-hollywood-fundariser-1236103029/) (Tier 2) (VERIFIED)
+- [Variety: Hollywood Donors Get Behind Kamala Harris After Biden Exit](https://variety.com/2024/politics/news/hollywood-donors-kamala-harris-support-joe-biden-jeffrey-katzenberg-1236080773/) (Tier 2) (VERIFIED)
+- [TheWrap: Jeffrey Katzenberg Rescues Democratic Fundraising in Hollywood With More Than $2 Million in Donations](https://www.thewrap.com/jeffrey-katzenberg-democrat-donations-fundraising-hollywood-strikes/) (Tier 2) (VERIFIED)
+- [Axios: Kamala Harris' campaign energizes Hollywood as celebrities flock to help](https://www.axios.com/2024/08/01/kamala-harris-campaign-hollywood-support) (Tier 2) (VERIFIED)
+- [Mondoweiss: 'Activist donor' Haim Saban lays down red lines for Democrats — don't 'undermine' relationship with Israel](https://mondoweiss.net/2022/04/activist-donor-haim-saban-lays-down-red-lines-for-democrats-dont-undermine-relationship-with-israel/) (Tier 2) (VERIFIED)
+- [Mondoweiss: Biden's Israel policy is scripted by Saban](https://mondoweiss.net/2023/09/bidens-israel-policy-is-scripted-by-saban/) (Tier 2) (VERIFIED)
+- [The Intercept: Pro-Israel Megadonor Haim Saban Attacks Democratic Senators' Gaza Letter](https://theintercept.com/2018/06/20/haim-saban-bernie-sanders-israel-gaza-letter/) (Tier 2) (VERIFIED)
+- [CNBC: Haim Saban throws money behind Biden, Democrats in Senate races (2020)](https://www.cnbc.com/2020/09/22/2020-election-haim-saban-throws-money-behind-biden-democrats-in-senate-races.html) (Tier 2) (VERIFIED)
+- [NPR: Celebrities sign letter to Biden urging cease-fire in Gaza](https://www.npr.org/2023/10/21/1207783685/celebrities-letter-ceasefire-israel-gaza-biden) (Tier 2) (VERIFIED)
+- ~~[SourceWatch: Saban Center for Middle East Policy](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Saban_Center_for_Middle_East_Policy)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [Wikipedia: Haim Saban](https://en.wikipedia.org/wiki/Haim_Saban) (Tier 3) (VERIFIED)
 
 ### Federal Contracts
 <!-- auto:sam-contracts start -->
@@ -184,7 +184,7 @@ The industry's structural function for the donor class: maintain Democratic cult
 | $4K | GENERAL SERVICES ADMINISTRATION | 2009-05-27 |
 | $4K | GENERAL SERVICES ADMINISTRATION | 2009-04-23 |
 
-- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Entertainment%20and%20Hollywood%20Donors&page=1&index=opp) (Tier 1)
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Entertainment%20and%20Hollywood%20Donors&page=1&index=opp) (Tier 1) (VERIFIED)
 <!-- auto:sam-contracts end -->
 
 ### Influence Network (Cross-Reference)
@@ -247,5 +247,5 @@ The industry's structural function for the donor class: maintain Democratic cult
 
 **Agencies contacted:** Commerce, Dept of (DOC), Federal Aviation Administration (FAA), Federal Communications Commission (FCC), Federal Trade Commission (FTC), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Interior, Dept of (DOI), Office of Science & Technology Policy (OSTP), SENATE, Small Business Administration (SBA) +2 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Entertainment%20and%20Hollywood%20Donors) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Entertainment%20and%20Hollywood%20Donors) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->

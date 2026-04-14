@@ -51,7 +51,7 @@ Ingraham operates within the Fox Corp institutional structure, the legacy cable 
 
 No FEC individual contributions found. A $15 million/year cable news host making zero federal political contributions reveals the structural distinction between personal political engagement and institutional alignment. Ingraham's salary is funded by pharmaceutical advertising, not by direct political donations. Her policy alignment with the donor class occurs through employment and institutional incentives, not through voluntary campaign contributions.
 
-- [FEC: Laura Ingraham individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=ingraham%2C+laura) (Tier 1)
+- [FEC: Laura Ingraham individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=ingraham%2C+laura) (Tier 1) (VERIFIED)
 
 > **Disambiguation note:** The FEC API returns 104 results for "ingraham, laura" via fuzzy matching. Filtering by Florida employer (Fox News/media companies) and excluding North Carolina ActBlue donors confirms zero match for the Fox News host. All 104 results belong to other individuals named Laura Ingraham across different states.
 
@@ -174,21 +174,21 @@ Laura Ingraham represents **the legacy cable television advertising model**, the
 
 ### Sources
 
-- [FEC Individual Contributions: Laura Ingraham (70 results, 2019-2024)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=laura+ingraham&two_year_transaction_period=2024&two_year_transaction_period=2022&two_year_transaction_period=2020) (Tier 1)
-- [Wikipedia: Laura Ingraham](https://en.wikipedia.org/wiki/Laura_Ingraham) (Tier 3)
-- [Wikipedia: LifeZette](https://en.wikipedia.org/wiki/LifeZette) (Tier 3)
-- [Wikipedia: Boycott of The Ingraham Angle](https://en.wikipedia.org/wiki/Boycott_of_The_Ingraham_Angle) (Tier 3)
-- [NPR: "Advertisers Ditch Laura Ingraham After She Mocks Parkland Activist"](https://www.npr.org/sections/thetwo-way/2018/03/30/598194392/advertisers-ditch-laura-ingraham-after-she-mocks-parkland-activist) (Tier 2)
-- [NBC News: "Laura Ingraham loses advertisers after criticizing Parkland student David Hogg"](https://www.nbcnews.com/business/consumer/laura-ingraham-loses-advertisers-after-criticizing-parkland-student-david-hogg-n861371) (Tier 2)
-- [Media Matters: "These are Laura Ingraham's leading advertisers"](https://www.mediamatters.org/fox-news/these-are-laura-ingrahams-leading-advertisers) (Tier 2)
-- [Media Matters: "These pharmaceutical companies are funding the spread of COVID misinformation on Fox News"](https://www.mediamatters.org/coronavirus-covid-19/these-pharmaceutical-companies-are-funding-spread-covid-misinformation-fox) (Tier 2)
-- [Newsweek: "Laura Ingraham 'Bullied' Closeted Gay Students at Dartmouth More Than 30 Years Ago"](https://www.newsweek.com/ingraham-bullied-gay-students-college-874077) (Tier 2)
-- [HuffPost: "Laura Ingraham Once Sent A Student Reporter To Secretly Tape LGBTQ Group"](https://www.huffpost.com/entry/laura-ingraham-dartmouth-lgbtq-group_n_5ac3c6fbe4b09712fec54b7b) (Tier 2)
-- [Axios: "Fox-Dominion Lawsuit Filings: Key Takeaways" (Murdoch said Hannity/Ingraham "went too far")](https://www.axios.com/2023/03/08/fox-news-dominion-lawsuit-murdoch) (Tier 2)
-- [CBS News: "Laura Ingraham's advertisers distance themselves after David Hogg comments"](https://www.cbsnews.com/news/laura-ingraham-advertisers-distance-after-david-hogg-college-mocking/) (Tier 2)
-- [The Daily Beast: "Fox News Host Laura Ingraham Joins Board of Donald Trump Jr's Latest MAGA Business Venture"](https://www.thedailybeast.com/fox-news-host-laura-ingraham-joins-board-of-donald-trump-jrs-latest-maga-business-venture/) (Tier 2)
-- [Fortune: "Why Fox News's Laura Ingraham Is Facing an Advertiser Boycott. Again"](https://fortune.com/2018/06/22/laura-ingraham-david-hogg-advertising-boycott-migrant-families/) (Tier 2)
-- [Federalist Society: Laura Ingraham Contributor Profile](https://fedsoc.org/bio/laura-ingraham) (Tier 1)
+- [FEC Individual Contributions: Laura Ingraham (70 results, 2019-2024)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=laura+ingraham&two_year_transaction_period=2024&two_year_transaction_period=2022&two_year_transaction_period=2020) (Tier 1) (VERIFIED)
+- [Wikipedia: Laura Ingraham](https://en.wikipedia.org/wiki/Laura_Ingraham) (Tier 3) (VERIFIED)
+- [Wikipedia: LifeZette](https://en.wikipedia.org/wiki/LifeZette) (Tier 3) (VERIFIED)
+- [Wikipedia: Boycott of The Ingraham Angle](https://en.wikipedia.org/wiki/Boycott_of_The_Ingraham_Angle) (Tier 3) (VERIFIED)
+- [NPR: "Advertisers Ditch Laura Ingraham After She Mocks Parkland Activist"](https://www.npr.org/sections/thetwo-way/2018/03/30/598194392/advertisers-ditch-laura-ingraham-after-she-mocks-parkland-activist) (Tier 2) (VERIFIED)
+- [NBC News: "Laura Ingraham loses advertisers after criticizing Parkland student David Hogg"](https://www.nbcnews.com/business/consumer/laura-ingraham-loses-advertisers-after-criticizing-parkland-student-david-hogg-n861371) (Tier 2) (VERIFIED)
+- [Media Matters: "These are Laura Ingraham's leading advertisers"](https://www.mediamatters.org/fox-news/these-are-laura-ingrahams-leading-advertisers) (Tier 2) (VERIFIED)
+- [Media Matters: "These pharmaceutical companies are funding the spread of COVID misinformation on Fox News"](https://www.mediamatters.org/coronavirus-covid-19/these-pharmaceutical-companies-are-funding-spread-covid-misinformation-fox) (Tier 2) (VERIFIED)
+- [Newsweek: "Laura Ingraham 'Bullied' Closeted Gay Students at Dartmouth More Than 30 Years Ago"](https://www.newsweek.com/ingraham-bullied-gay-students-college-874077) (Tier 2) (VERIFIED)
+- [HuffPost: "Laura Ingraham Once Sent A Student Reporter To Secretly Tape LGBTQ Group"](https://www.huffpost.com/entry/laura-ingraham-dartmouth-lgbtq-group_n_5ac3c6fbe4b09712fec54b7b) (Tier 2) (VERIFIED)
+- ~~[Axios: "Fox-Dominion Lawsuit Filings: Key Takeaways" (Murdoch said Hannity/Ingraham "went too far")](https://www.axios.com/2023/03/08/fox-news-dominion-lawsuit-murdoch)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [CBS News: "Laura Ingraham's advertisers distance themselves after David Hogg comments"](https://www.cbsnews.com/news/laura-ingraham-advertisers-distance-after-david-hogg-college-mocking/) (Tier 2) (VERIFIED)
+- [The Daily Beast: "Fox News Host Laura Ingraham Joins Board of Donald Trump Jr's Latest MAGA Business Venture"](https://www.thedailybeast.com/fox-news-host-laura-ingraham-joins-board-of-donald-trump-jrs-latest-maga-business-venture/) (Tier 2) (VERIFIED)
+- [Fortune: "Why Fox News's Laura Ingraham Is Facing an Advertiser Boycott. Again"](https://fortune.com/2018/06/22/laura-ingraham-david-hogg-advertising-boycott-migrant-families/) (Tier 2) (VERIFIED)
+- [Federalist Society: Laura Ingraham Contributor Profile](https://fedsoc.org/bio/laura-ingraham) (Tier 1) (VERIFIED)
 
 ---
 

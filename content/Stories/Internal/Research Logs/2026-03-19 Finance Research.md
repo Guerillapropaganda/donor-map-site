@@ -78,13 +78,13 @@ The vault note previously said "approximately $15 billion annually" for the CDCR
 
 ### What Remains Unverified / Still Needed
 
-1. **Itemized FPPC contribution filings 2022–2026**, requires direct access to Cal-Access ([powersearch.sos.ca.gov](https://powersearch.sos.ca.gov/advanced.php)) or FPPC transparency portal. Both blocked during this session.
+1. **Itemized FPPC contribution filings 2022–2026**, requires direct access to Cal-Access ([powersearch.sos.ca.gov](https://powersearch.sos.ca.gov/advanced.php) (VERIFIED)) or FPPC transparency portal. Both blocked during this session.
 2. **2020–2022 Newsom contribution cycle breakdown**, $2.9M total accounts for 2019–2024 but the per-cycle FPPC form-level data is not yet extracted.
-3. **2022–2024 systemwide CDCR overtime total**, requires direct access to [publicpay.ca.gov](https://publicpay.ca.gov/?q=2026-03-19%20Finance%20Research) or [transparentcalifornia.com](https://transparentcalifornia.com/?q=2026-03-19%20Finance%20Research)
+3. **2022–2024 systemwide CDCR overtime total**, requires direct access to ~~[publicpay.ca.gov](https://publicpay.ca.gov/?q=2026-03-19%20Finance%20Research)~~ (URL broken, archived by Ops) or [transparentcalifornia.com](https://transparentcalifornia.com/?q=2026-03-19%20Finance%20Research) (VERIFIED)
 4. **Individual officer top earners 2022–2024**, same sources required.
 5. **CCPOA PAC spending on non-Newsom California races 2022–2024**, not researched this session.
 
-**Next step for researcher:** Manually access [Cal-Access](https://powersearch.sos.ca.gov/advanced.php) and search "CCPOA" or "California Correctional Peace Officers Association" as contributor to pull itemized contributions by cycle. Also access [CDCR 2023 payroll on publicpay.ca.gov](https://publicpay.ca.gov/Reports/Department.aspx?departmentid=263034&year=2023) (link appeared in search results as accessible).
+**Next step for researcher:** Manually access [Cal-Access](https://powersearch.sos.ca.gov/advanced.php) (VERIFIED) and search "CCPOA" or "California Correctional Peace Officers Association" as contributor to pull itemized contributions by cycle. Also access ~~[CDCR 2023 payroll on publicpay.ca.gov](https://publicpay.ca.gov/Reports/Department.aspx?departmentid=263034&year=2023)~~ (URL broken, archived by Ops) (link appeared in search results as accessible).
 
 ---
 

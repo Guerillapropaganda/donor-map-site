@@ -216,7 +216,7 @@ The Michigan primary is a proxy war between two factions of the Democratic donor
 - DIB EL MALT, Abdul Naser (individual) [SDNT]
   - Remarks: DOB 20 Aug 1967; nationality Lebanon; citizen Colombia; Cedula No. 276392 (Colombia); Passport 0218186 (Lebanon).
 
-- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (NEEDS REVIEW: Goes to sanctions search with no results)
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED) (NEEDS REVIEW: Goes to sanctions search with no results)
 <!-- auto:ofac-sdn end -->
 
 ### Legislative Activity (Congress.gov)

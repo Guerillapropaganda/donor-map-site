@@ -32,13 +32,13 @@ Koch network (via CVA), conservative media (Newsmax, Salem Media), America First
 > Collins's confirmation was bipartisan (77-23) because the privatization agenda serves both parties' healthcare industry donors. The 77 votes reflect bipartisan comfort with directing $369B in VA spending toward private healthcare networks. The 23 no votes came from senators whose veteran constituencies depend on direct VA care.
 
 ### Sources
-- [VA Official Biography](https://department.va.gov/staff-biographies/douglas-a-collins/) (Tier 2)
-- [Military.com: Collins confirmed as VA Secretary](https://www.military.com/daily-news/2025/02/04/former-gop-congressman-collins-confirmed-va-secretary.html) (Tier 2)
-- [CNN: Hegseth and Collins push cutting veterans' health benefits](https://www.cnn.com/2024/12/07/politics/pete-hegseth-doug-collins-veterans-health-care/index.html) (Tier 2)
-- [Veterans Healthcare Policy Institute: Four Misleading Arguments](https://www.veteranspolicy.org/journalism-and-commentary/journalism/the-four-misleading-arguments-made-by-doug-collins) (Tier 2)
-- [OpenSecrets: Doug Collins campaign finance](https://www.opensecrets.org/members-of-congress/summary?cid=N00033518) (Tier 1)
-- [OpenSecrets: Trump administration profile. Doug Collins](https://www.opensecrets.org/news/2025/04/trump-administration-profile-doug-collins/) (Tier 1)
-- [OpenSecrets: How money is driving push to privatize veterans' health care](https://www.opensecrets.org/news/2025/12/how-money-is-driving-the-push-to-privatize-veterans-health-care/) (Tier 1)
-- [American Prospect: Privatizing Veterans' Health Care Will Be a Disaster](https://prospect.org/2025/07/30/2025-07-30-privatizing-veterans-health-care-will-be-disaster/) (Tier 2)
-- [Congress.gov: Collins nomination](https://www.congress.gov/nomination/119th-congress/11/5) (Tier 1)
+- [VA Official Biography](https://department.va.gov/staff-biographies/douglas-a-collins/) (Tier 2) (VERIFIED)
+- [Military.com: Collins confirmed as VA Secretary](https://www.military.com/daily-news/2025/02/04/former-gop-congressman-collins-confirmed-va-secretary.html) (Tier 2) (VERIFIED)
+- [CNN: Hegseth and Collins push cutting veterans' health benefits](https://www.cnn.com/2024/12/07/politics/pete-hegseth-doug-collins-veterans-health-care/index.html) (Tier 2) (VERIFIED)
+- [Veterans Healthcare Policy Institute: Four Misleading Arguments](https://www.veteranspolicy.org/journalism-and-commentary/journalism/the-four-misleading-arguments-made-by-doug-collins) (Tier 2) (VERIFIED)
+- [OpenSecrets: Doug Collins campaign finance](https://www.opensecrets.org/members-of-congress/summary?cid=N00033518) (Tier 1) (VERIFIED)
+- [OpenSecrets: Trump administration profile. Doug Collins](https://www.opensecrets.org/news/2025/04/trump-administration-profile-doug-collins/) (Tier 1) (VERIFIED)
+- [OpenSecrets: How money is driving push to privatize veterans' health care](https://www.opensecrets.org/news/2025/12/how-money-is-driving-the-push-to-privatize-veterans-health-care/) (Tier 1) (VERIFIED)
+- [American Prospect: Privatizing Veterans' Health Care Will Be a Disaster](https://prospect.org/2025/07/30/2025-07-30-privatizing-veterans-health-care-will-be-disaster/) (Tier 2) (VERIFIED)
+- ~~[Congress.gov: Collins nomination](https://www.congress.gov/nomination/119th-congress/11/5)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 

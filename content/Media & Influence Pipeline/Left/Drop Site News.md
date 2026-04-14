@@ -107,13 +107,13 @@ The timeline reveals a structural arc: founders reject billionaire capture by de
 
 ### Sources
 
-- [Semafor: The Intercept is running out of cash](https://www.semafor.com/article/04/14/2024/the-intercept-is-running-out-of-cash) (Tier 2)
-- [Semafor: Money woes and staff issues strain The Intercept](https://www.semafor.com/article/06/02/2024/money-woes-staff-issues-strain-the-intercept) (Tier 2)
-- [Washington Free Beacon: Exclusive—Soros bankrolling anti-Israel Drop Site News](https://freebeacon.com/media/exclusive-soros-bankrolling-anti-israel-drop-site-news/) (Tier 4 — partisan source, but first to report OSF grant from public database)
-- [CJR: The Intercept's business crisis and layoffs](https://www.cjr.org/business_of_news/layoffs-the-intercept.php) (Tier 2)
-- [Ken Klippenstein: Why I'm resigning from The Intercept](https://www.kenklippenstein.com/p/why-im-resigning-from-the-intercept) (Tier 3 — reporter's own account of newsroom dynamics)
-- [Semafor: The verdict of history will be merciless—A new left media rises in the age of Trump](https://www.semafor.com/article/09/14/2025/the-verdict-of-history-will-be-merciless-a-new-left-media-rises-in-the-age-of-trump) (Tier 2)
-- [OCCRP: OCCRP under attack](https://www.occrp.org/en/occrp-under-attack) (Tier 2)
+- [Semafor: The Intercept is running out of cash](https://www.semafor.com/article/04/14/2024/the-intercept-is-running-out-of-cash) (Tier 2) (VERIFIED)
+- [Semafor: Money woes and staff issues strain The Intercept](https://www.semafor.com/article/06/02/2024/money-woes-staff-issues-strain-the-intercept) (Tier 2) (VERIFIED)
+- [Washington Free Beacon: Exclusive—Soros bankrolling anti-Israel Drop Site News](https://freebeacon.com/media/exclusive-soros-bankrolling-anti-israel-drop-site-news/) (VERIFIED) (Tier 4 — partisan source, but first to report OSF grant from public database)
+- [CJR: The Intercept's business crisis and layoffs](https://www.cjr.org/business_of_news/layoffs-the-intercept.php) (Tier 2) (VERIFIED)
+- [Ken Klippenstein: Why I'm resigning from The Intercept](https://www.kenklippenstein.com/p/why-im-resigning-from-the-intercept) (VERIFIED) (Tier 3 — reporter's own account of newsroom dynamics)
+- [Semafor: The verdict of history will be merciless—A new left media rises in the age of Trump](https://www.semafor.com/article/09/14/2025/the-verdict-of-history-will-be-merciless-a-new-left-media-rises-in-the-age-of-trump) (Tier 2) (VERIFIED)
+- [OCCRP: OCCRP under attack](https://www.occrp.org/en/occrp-under-attack) (Tier 2) (VERIFIED)
 
 ---
 

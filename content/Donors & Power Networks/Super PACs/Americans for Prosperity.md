@@ -170,14 +170,14 @@ State-level capture is where AFP's model reaches its most advanced form. In stat
 
 ### Sources
 
-- [OpenSecrets: AFP Action PAC summary — $181.5M raised, $138.5M IE (C00687103)](https://www.opensecrets.org/political-action-committees-pacs/americans-for-prosperity/C00687103/summary/2024) (Tier 1)
-- [FEC: AFP Action committee filings (C00687103)](https://www.fec.gov/data/committee/C00687103/?tab=summary) (Tier 1)
-- [OpenSecrets: Koch network flagship super PAC spending — 2024 elections](https://www.opensecrets.org/news/2024/08/koch-network-flagship-super-pac-pours-big-money-into-2024-elections/) (Tier 1)
-- [EXPOSEDbyCMD: Koch super PAC shatters election spending record — $548M cycle](https://www.exposedbycmd.org/2024/11/05/koch-super-pac-shatters-its-election-spending-record/) (Tier 2)
-- [EXPOSEDbyCMD: Major right-wing super PACs disclose contributions — AFP Action $28.9M in 2025](https://www.exposedbycmd.org/2026/02/18/major-right-wing-super-pacs-disclose-recent-contributions-and-endorsements/) (Tier 2)
-- [FactCheck.org: Americans for Prosperity — organization profile](https://www.factcheck.org/2024/01/americans-for-prosperity-7/) (Tier 2)
-- [Read Sludge: Koch network fuels Republican push to kill ACA subsidies](https://readsludge.com/2025/12/15/koch-network-fuels-republican-push-to-kill-aca-subsidies/) (Tier 2)
-- [Ballotpedia: Americans for Prosperity](https://ballotpedia.org/Americans_for_Prosperity) (Tier 3)
+- [OpenSecrets: AFP Action PAC summary — $181.5M raised, $138.5M IE (C00687103)](https://www.opensecrets.org/political-action-committees-pacs/americans-for-prosperity/C00687103/summary/2024) (Tier 1) (VERIFIED)
+- [FEC: AFP Action committee filings (C00687103)](https://www.fec.gov/data/committee/C00687103/?tab=summary) (Tier 1) (VERIFIED)
+- [OpenSecrets: Koch network flagship super PAC spending — 2024 elections](https://www.opensecrets.org/news/2024/08/koch-network-flagship-super-pac-pours-big-money-into-2024-elections/) (Tier 1) (VERIFIED)
+- ~~[EXPOSEDbyCMD: Koch super PAC shatters election spending record — $548M cycle](https://www.exposedbycmd.org/2024/11/05/koch-super-pac-shatters-its-election-spending-record/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[EXPOSEDbyCMD: Major right-wing super PACs disclose contributions — AFP Action $28.9M in 2025](https://www.exposedbycmd.org/2026/02/18/major-right-wing-super-pacs-disclose-recent-contributions-and-endorsements/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [FactCheck.org: Americans for Prosperity — organization profile](https://www.factcheck.org/2024/01/americans-for-prosperity-7/) (Tier 2) (VERIFIED)
+- [Read Sludge: Koch network fuels Republican push to kill ACA subsidies](https://readsludge.com/2025/12/15/koch-network-fuels-republican-push-to-kill-aca-subsidies/) (Tier 2) (VERIFIED)
+- [Ballotpedia: Americans for Prosperity](https://ballotpedia.org/Americans_for_Prosperity) (Tier 3) (VERIFIED)
 
 ---
 
@@ -209,7 +209,7 @@ State-level capture is where AFP's model reaches its most advanced form. In stat
 - United States v. Raffensperger (2026) — District Court, N.D. Georgia
 - Zuffa LLC, et al. v. United States District Court for the District of Nevada, Las Vegas (2026) — Court of Appeals for the Ninth Circuit
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Americans%20for%20Prosperity%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Americans%20for%20Prosperity%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -224,7 +224,7 @@ State-level capture is where AFP's model reaches its most advanced form. In stat
 | Net Assets | $45.0M |
 | Officer Compensation | $861K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 753148958](https://projects.propublica.org/nonprofits/organizations/753148958) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 753148958](https://projects.propublica.org/nonprofits/organizations/753148958) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Tax Filings (IRS 990)
@@ -242,12 +242,12 @@ State-level capture is where AFP's model reaches its most advanced form. In stat
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/753148958/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/753148958/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/753148958/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/753148958/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/753148958/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/753148958/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/753148958/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/753148958/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/753148958/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/753148958/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/753148958) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/753148958) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->

@@ -155,12 +155,12 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: Blo
 
 ### Sources
 
-- [OpenSecrets — Michael Bloomberg donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=michael%20bloomberg) (Tier 2)
-- [ABC News — Bloomberg 2020 campaign spending](https://abcnews.go.com/Politics/bloomberg-2020-campaign-spending/story?id=68818880) (Tier 2)
-- [CNN — Bloomberg 2018 midterm spending and 2018 House flip](https://web.archive.org/web/2019/https:/www.cnn.com/politics/news/2018-midterms-bloomberg-spending) (Tier 2)
-- [InfluenceWatch — Independence USA PAC](https://www.influencewatch.org/non-profit/independence-usa-pac/) *(source unavailable)* (Tier 3)
-- [PBS Frontline — Everytown for Gun Safety](https://www.pbs.org/wgbh/frontline/documentary/gunned-down/) (Tier 2)
-- [Bloomberg Billionaires Index](https://www.bloomberg.com/billionaires/) (Tier 1)
+- [OpenSecrets — Michael Bloomberg donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=michael%20bloomberg) (Tier 2) (VERIFIED)
+- ~~[ABC News — Bloomberg 2020 campaign spending](https://abcnews.go.com/Politics/bloomberg-2020-campaign-spending/story?id=68818880)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[CNN — Bloomberg 2018 midterm spending and 2018 House flip](https://web.archive.org/web/2019/https:/www.cnn.com/politics/news/2018-midterms-bloomberg-spending)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[InfluenceWatch — Independence USA PAC](https://www.influencewatch.org/non-profit/independence-usa-pac/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 3)
+- [PBS Frontline — Everytown for Gun Safety](https://www.pbs.org/wgbh/frontline/documentary/gunned-down/) (Tier 2) (VERIFIED)
+- ~~[Bloomberg Billionaires Index](https://www.bloomberg.com/billionaires/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -189,15 +189,15 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: Blo
 | Agencies | Alcohol, Tobacco, Firearms, and Explosives Bureau, Antitrust Division, Defense Department, Federal Election Commission, Federal Emergency Management Agency, Federal Highway Administration, Homeland Security Department, Justice Department +1 more |
 
 **Recent regulatory activity:**
-- [Defense Innovation Board; Notice of Federal Advisory Committee Meeting](https://www.federalregister.gov/documents/2025/01/17/2025-01204/defense-innovation-board-notice-of-federal-advisory-committee-meeting) (2025-01-17) — Defense Department
-- [Defense Innovation Board; Notice of Federal Advisory Committee Meeting](https://www.federalregister.gov/documents/2024/07/09/2024-15049/defense-innovation-board-notice-of-federal-advisory-committee-meeting) (2024-07-09) — Defense Department
-- [Definition of “Engaged in the Business” as a Dealer in Firearms](https://www.federalregister.gov/documents/2024/04/19/2024-07838/definition-of-engaged-in-the-business-as-a-dealer-in-firearms) (2024-04-19) — Justice Department ★
-- [Notice of Department of Defense Federal Advisory Committee Meeting-Defense Innovation Board](https://www.federalregister.gov/documents/2024/04/03/2024-07053/notice-of-department-of-defense-federal-advisory-committee-meeting-defense-innovation-board) (2024-04-03) — Defense Department
-- [Meeting of Department of Defense Federal Advisory Committees-Defense Innovation Board](https://www.federalregister.gov/documents/2024/01/23/2024-01226/meeting-of-department-of-defense-federal-advisory-committees-defense-innovation-board) (2024-01-23) — Defense Department
-- [Meeting of Department of Defense Federal Advisory Committees-Defense Innovation Board](https://www.federalregister.gov/documents/2023/10/25/2023-23569/meeting-of-department-of-defense-federal-advisory-committees-defense-innovation-board) (2023-10-25) — Defense Department
+- [Defense Innovation Board; Notice of Federal Advisory Committee Meeting](https://www.federalregister.gov/documents/2025/01/17/2025-01204/defense-innovation-board-notice-of-federal-advisory-committee-meeting) (VERIFIED) (2025-01-17) — Defense Department
+- [Defense Innovation Board; Notice of Federal Advisory Committee Meeting](https://www.federalregister.gov/documents/2024/07/09/2024-15049/defense-innovation-board-notice-of-federal-advisory-committee-meeting) (VERIFIED) (2024-07-09) — Defense Department
+- [Definition of “Engaged in the Business” as a Dealer in Firearms](https://www.federalregister.gov/documents/2024/04/19/2024-07838/definition-of-engaged-in-the-business-as-a-dealer-in-firearms) (VERIFIED) (2024-04-19) — Justice Department ★
+- [Notice of Department of Defense Federal Advisory Committee Meeting-Defense Innovation Board](https://www.federalregister.gov/documents/2024/04/03/2024-07053/notice-of-department-of-defense-federal-advisory-committee-meeting-defense-innovation-board) (VERIFIED) (2024-04-03) — Defense Department
+- [Meeting of Department of Defense Federal Advisory Committees-Defense Innovation Board](https://www.federalregister.gov/documents/2024/01/23/2024-01226/meeting-of-department-of-defense-federal-advisory-committees-defense-innovation-board) (VERIFIED) (2024-01-23) — Defense Department
+- [Meeting of Department of Defense Federal Advisory Committees-Defense Innovation Board](https://www.federalregister.gov/documents/2023/10/25/2023-23569/meeting-of-department-of-defense-federal-advisory-committees-defense-innovation-board) (VERIFIED) (2023-10-25) — Defense Department
 - ... and 6 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Michael%20Bloomberg%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Michael%20Bloomberg%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### SEC Filing Activity
@@ -215,7 +215,7 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: Blo
 - 2021-02-01 — **EX-99.5**: EX-99.5
 - 2012-10-25 — **EX-99.1**: PRESS RELEASE
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Michael%20Bloomberg%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Michael%20Bloomberg%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Federal Court Records (CourtListener)
@@ -234,5 +234,5 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: Blo
 - Nicole Brooke Beninate v. Chief Justice John G. Roberts, Jr. (2025) — District Court, C.D. California
 - Samantha Rutcoskey v. Chief Justice John Roberts (2025) — District Court, C.D. California
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Michael%20Bloomberg%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Michael%20Bloomberg%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->

@@ -149,21 +149,21 @@ The "national security" frame is the mechanism that makes the transfer invisible
 
 ### Sources
 
-- [Commerce.gov: Section 232 Steel Investigation and Reports](https://www.commerce.gov/issues/trade-enforcement/section-232-steel) (Tier 1)
-- [Commerce.gov: Secretary Ross Releases Steel and Aluminum 232 Reports](https://www.commerce.gov/news/press-releases/2018/02/secretary-ross-releases-steel-and-aluminum-232-reports-coordination) (Tier 1)
-- [OpenSecrets: AISI PAC Profile 2022](https://www.opensecrets.org/political-action-committees-pacs/american-iron-steel-institute/C00295097/summary/2022) (Tier 1)
-- [FEC: Nucor Corporation PAC (C00379628)](https://www.fec.gov/data/committee/C00379628/) (Tier 1)
-- [USITC: Tariff Effects on U.S. Industries](https://www.usitc.gov/press_room/news_release/2023/er0315_63679.htm) (Tier 1)
-- [Tax Foundation: Section 232 Tariffs Harmed the Economy](https://taxfoundation.org/research/all/federal/section-232-tariffs-steel-aluminum-2024/) (Tier 2)
-- [PBS News: Steel Tariffs Hurt Manufacturers Downstream](https://www.pbs.org/newshour/economy/making-sense/steel-tariffs-hurt-manufacturers-downstream-data-shows) (Tier 2)
-- [The Intercept: Before Pushing Tariffs, Wilbur Ross Had Messy History With U.S. Steel Industry](https://theintercept.com/2018/03/05/steel-tariffs-wilbur-ross-pollution/) (Tier 2)
-- [American Oversight: Insider Access for Steel Lobbyists Tied to Lighthizer](https://americanoversight.org/emails-show-insider-access-for-steel-industry-lobbyists-tied-to-lighthizer/) (Tier 2)
-- [CNN: Commerce IG Probe Requested for Wilbur Ross Conflicts](https://www.cnn.com/2018/08/13/politics/wilbur-ross-clc-ig-probe-commerce) (Tier 2)
-- [OpenSecrets: Steel Producers Spend Big on Lobbying](https://www.opensecrets.org/news/2021/11/steel-producers-eyeing-new-infrastructure-investment-spend-big-on-lobbying/) (Tier 2)
-- [Econofact: Steel Tariffs and U.S. Jobs Revisited](https://econofact.org/steel-tariffs-and-u-s-jobs-revisited) (Tier 2)
-- [PolitiFact: How Much Steel Does the U.S. Import from China?](https://www.politifact.com/factchecks/2018/mar/08/angus-king/does-much-steel-does-us-import-china/) (Tier 2)
-- [AISI: Five Reasons to Continue Section 232 Tariffs](https://www.steel.org/2025/07/five-reasons-to-continue-the-section-232-tariffs/) (Tier 3)
-- [Seven Pillars Institute: Wilbur Ross Conflicts of Interest](https://sevenpillarsinstitute.org/conflicts-of-interest-wilbur-ross/) (Tier
+- [Commerce.gov: Section 232 Steel Investigation and Reports](https://www.commerce.gov/issues/trade-enforcement/section-232-steel) (Tier 1) (VERIFIED)
+- ~~[Commerce.gov: Secretary Ross Releases Steel and Aluminum 232 Reports](https://www.commerce.gov/news/press-releases/2018/02/secretary-ross-releases-steel-and-aluminum-232-reports-coordination)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [OpenSecrets: AISI PAC Profile 2022](https://www.opensecrets.org/political-action-committees-pacs/american-iron-steel-institute/C00295097/summary/2022) (Tier 1) (VERIFIED)
+- [FEC: Nucor Corporation PAC (C00379628)](https://www.fec.gov/data/committee/C00379628/) (Tier 1) (VERIFIED)
+- [USITC: Tariff Effects on U.S. Industries](https://www.usitc.gov/press_room/news_release/2023/er0315_63679.htm) (Tier 1) (VERIFIED)
+- [Tax Foundation: Section 232 Tariffs Harmed the Economy](https://taxfoundation.org/research/all/federal/section-232-tariffs-steel-aluminum-2024/) (Tier 2) (VERIFIED)
+- [PBS News: Steel Tariffs Hurt Manufacturers Downstream](https://www.pbs.org/newshour/economy/making-sense/steel-tariffs-hurt-manufacturers-downstream-data-shows) (Tier 2) (VERIFIED)
+- [The Intercept: Before Pushing Tariffs, Wilbur Ross Had Messy History With U.S. Steel Industry](https://theintercept.com/2018/03/05/steel-tariffs-wilbur-ross-pollution/) (Tier 2) (VERIFIED)
+- [American Oversight: Insider Access for Steel Lobbyists Tied to Lighthizer](https://americanoversight.org/emails-show-insider-access-for-steel-industry-lobbyists-tied-to-lighthizer/) (Tier 2) (VERIFIED)
+- [CNN: Commerce IG Probe Requested for Wilbur Ross Conflicts](https://www.cnn.com/2018/08/13/politics/wilbur-ross-clc-ig-probe-commerce) (Tier 2) (VERIFIED)
+- [OpenSecrets: Steel Producers Spend Big on Lobbying](https://www.opensecrets.org/news/2021/11/steel-producers-eyeing-new-infrastructure-investment-spend-big-on-lobbying/) (Tier 2) (VERIFIED)
+- [Econofact: Steel Tariffs and U.S. Jobs Revisited](https://econofact.org/steel-tariffs-and-u-s-jobs-revisited) (Tier 2) (VERIFIED)
+- [PolitiFact: How Much Steel Does the U.S. Import from China?](https://www.politifact.com/factchecks/2018/mar/08/angus-king/does-much-steel-does-us-import-china/) (Tier 2) (VERIFIED)
+- [AISI: Five Reasons to Continue Section 232 Tariffs](https://www.steel.org/2025/07/five-reasons-to-continue-the-section-232-tariffs/) (Tier 3) (VERIFIED)
+- [Seven Pillars Institute: Wilbur Ross Conflicts of Interest](https://sevenpillarsinstitute.org/conflicts-of-interest-wilbur-ross/) (VERIFIED) (Tier
 
 ---
 
@@ -201,7 +201,7 @@ The "national security" frame is the mechanism that makes the transfer invisible
 | TIM RYAN FOR CONGRESS | $10,000 | DEM |
 | DONALD J. TRUMP FOR PRESIDENT, INC. | $10,000 | REP |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=American%20Iron%20and%20Steel%20Institute) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=American%20Iron%20and%20Steel%20Institute) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### OFAC Sanctions Screening
@@ -220,7 +220,7 @@ The "national security" frame is the mechanism that makes the transfer invisible
 - IRANIAN GHADIR IRON & STEEL CO. (-0-) [IRAN-EO13871]
   - Remarks: Website www.igisco.com; Additional Sanctions Information - Subject to Secondary Sanctions; a.k.a. 'IGISCO'.
 
-- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
 ### SEC Filing Activity
@@ -238,7 +238,7 @@ The "national security" frame is the mechanism that makes the transfer invisible
 - 2001-12-13 — **EX-99.2**: EX-99.2
 - 2015-10-27 — **EX-99.1**: EXHIBIT 99.1
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22American%20Iron%20and%20Steel%20Institute%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22American%20Iron%20and%20Steel%20Institute%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### DOJ Press Releases
@@ -256,7 +256,7 @@ The "national security" frame is the mechanism that makes the transfer invisible
 | Net Assets | $11.7M |
 | Officer Compensation | $1.7M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 131832448](https://projects.propublica.org/nonprofits/organizations/131832448) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 131832448](https://projects.propublica.org/nonprofits/organizations/131832448) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Federal Court Records (CourtListener)
@@ -275,7 +275,7 @@ The "national security" frame is the mechanism that makes the transfer invisible
 - Exxon Mobil Corp v. OSHC (2025) — Court of Appeals for the Fifth Circuit
 - Freeland v. Nippon Steel Corp. (2025) — District Court, N.D. California
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22American%20Iron%20and%20Steel%20Institute%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22American%20Iron%20and%20Steel%20Institute%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Tax Filings (IRS 990)
@@ -292,12 +292,12 @@ The "national security" frame is the mechanism that makes the transfer invisible
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/131832448/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/131832448/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/131832448/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/131832448/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/131832448/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/131832448/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/131832448/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/131832448/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/131832448/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/131832448/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/131832448) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/131832448) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->

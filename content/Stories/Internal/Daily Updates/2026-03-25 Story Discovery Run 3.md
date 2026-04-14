@@ -48,10 +48,10 @@ Trump's post-election fundraising has reached roughly $2 billion. The NYT analyz
 
 **Vault connections:** Updates [[_Donald Trump Master Profile]], every donor node in the vault. The ambassadorship-for-donations pipeline needs its own sub-note. The CLC tracker should become a permanent reference document.
 
-- [OpenSecrets: Trump ballroom donors poised to benefit from AI plan they helped shape](https://www.opensecrets.org/news/2026/01/trump-ballroom-donors-poised-to-benefit-from-ai-plan-they-helped-shape/) (Tier 1)
-- [Campaign Legal Center: Exposing President Trump's Pay-to-Play Administration](https://campaignlegal.org/exposing-president-trumps-pay-to-play-administration) (Tier 2)
-- [Common Dreams: Probe Identifies Rich Donors Benefiting From Trump Presidency](https://www.commondreams.org/news/trump-post-election-donors) (Tier 3)
-- [Brennan Center: Money in Politics Roundup. February 2026](https://www.brennancenter.org/our-work/research-reports/money-politics-roundup-february-2026) (Tier 2)
+- [OpenSecrets: Trump ballroom donors poised to benefit from AI plan they helped shape](https://www.opensecrets.org/news/2026/01/trump-ballroom-donors-poised-to-benefit-from-ai-plan-they-helped-shape/) (Tier 1) (VERIFIED)
+- [Campaign Legal Center: Exposing President Trump's Pay-to-Play Administration](https://campaignlegal.org/exposing-president-trumps-pay-to-play-administration) (Tier 2) (VERIFIED)
+- [Common Dreams: Probe Identifies Rich Donors Benefiting From Trump Presidency](https://www.commondreams.org/news/trump-post-election-donors) (Tier 3) (VERIFIED)
+- [Brennan Center: Money in Politics Roundup. February 2026](https://www.brennancenter.org/our-work/research-reports/money-politics-roundup-february-2026) (Tier 2) (VERIFIED)
 
 ---
 
@@ -83,11 +83,11 @@ The AI industry has built a three-stage influence pipeline: (1) ballroom donatio
 
 **Vault connections:** Needs new donor node for [[Leading the Future PAC]]. Updates [[_Donald Trump Master Profile]] AI policy section. Cross-references with existing [[Crypto Industry Bloc]] node, parallel industry capture playbook.
 
-- [PBS News: Trump reveals AI Action Plan shaped by tech lobbyists](https://www.pbs.org/newshour/politics/watch-live-trump-reveals-ai-action-plan-shaped-by-his-tech-supporters-after-revoking-biden-policy) (Tier 2)
-- [Axios: White House releases Trump's national AI plan and framework](https://www.axios.com/2026/03/20/white-house-ai-plan-trump-framework) (Tier 2)
+- [PBS News: Trump reveals AI Action Plan shaped by tech lobbyists](https://www.pbs.org/newshour/politics/watch-live-trump-reveals-ai-action-plan-shaped-by-his-tech-supporters-after-revoking-biden-policy) (Tier 2) (VERIFIED)
+- ~~[Axios: White House releases Trump's national AI plan and framework](https://www.axios.com/2026/03/20/white-house-ai-plan-trump-framework)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [OpenSecrets: Trump ballroom donors poised to benefit from AI plan they helped shape](https://www.opensecrets.org/news/2026/01/trump-ballroom-donors-poised-to-benefit-from-ai-plan-they-helped-shape/) (Tier 1)
-- [NBC News: White House irked by Leading the Future, new $100M pro-AI super PAC](https://www.nbcnews.com/politics/trump-administration/white-house-irked-leading-future-new-100m-ai-super-pac-rcna239392) (Tier 2)
-- [CNN: How Palantir and AI money is shaping the midterms](https://us.cnn.com/2026/02/11/politics/palantir-midterms-artificial-intelligence-ai) (Tier 2)
+- [NBC News: White House irked by Leading the Future, new $100M pro-AI super PAC](https://www.nbcnews.com/politics/trump-administration/white-house-irked-leading-future-new-100m-ai-super-pac-rcna239392) (Tier 2) (VERIFIED)
+- [CNN: How Palantir and AI money is shaping the midterms](https://us.cnn.com/2026/02/11/politics/palantir-midterms-artificial-intelligence-ai) (Tier 2) (VERIFIED)
 
 ---
 
@@ -120,10 +120,10 @@ The Digital Asset Market Clarity Act of 2025 passed the House on July 17, 2025 w
 
 **Vault connections:** Updates [[Crypto Industry Bloc]], [[Fairshake]]. Needs new sub-note on CLARITY Act legislative pipeline. Cross-references with [[_Tim Scott Master Profile]]. Scott chairs the Banking Committee and announced crypto regulation as a priority. The Coinbase/Armstrong veto power over Senate hearings deserves its own analytical piece.
 
-- [FinTech Weekly: CLARITY Act Campaign Finance. Who Funds the Industry Deciding Its Own Fate](https://www.fintechweekly.com/news/clarity-act-senate-campaign-finance-fairshake-crypto-pac-fec-data-2026) (Tier 2)
-- [City & State NY: Deep-pocketed crypto super PAC eyes New York House races in 2026](https://www.cityandstateny.com/politics/2026/03/deep-pocketed-crypto-super-pac-eyes-new-york-house-races-2026/412198/) (Tier 2)
-- [NBC News: AI, crypto and Trump super PACs stash millions to spend on the midterms](https://www.nbcnews.com/politics/2026-election/ai-crypto-trump-super-pacs-stash-millions-spend-midterms-rcna256622) (Tier 2)
-- [PYMNTS: New Super PAC With GOP Ties Pledges $100M to Back Pro-Crypto Candidates](https://www.pymnts.com/cpi-posts/new-super-pac-with-gop-ties-pledges-100m-to-back-pro-crypto-candidates-in-2026-midterms/) (Tier 3)
+- [FinTech Weekly: CLARITY Act Campaign Finance. Who Funds the Industry Deciding Its Own Fate](https://www.fintechweekly.com/news/clarity-act-senate-campaign-finance-fairshake-crypto-pac-fec-data-2026) (Tier 2) (VERIFIED)
+- [City & State NY: Deep-pocketed crypto super PAC eyes New York House races in 2026](https://www.cityandstateny.com/politics/2026/03/deep-pocketed-crypto-super-pac-eyes-new-york-house-races-2026/412198/) (Tier 2) (VERIFIED)
+- [NBC News: AI, crypto and Trump super PACs stash millions to spend on the midterms](https://www.nbcnews.com/politics/2026-election/ai-crypto-trump-super-pacs-stash-millions-spend-midterms-rcna256622) (Tier 2) (VERIFIED)
+- [PYMNTS: New Super PAC With GOP Ties Pledges $100M to Back Pro-Crypto Candidates](https://www.pymnts.com/cpi-posts/new-super-pac-with-gop-ties-pledges-100m-to-back-pro-crypto-candidates-in-2026-midterms/) (Tier 3) (VERIFIED)
 
 ---
 
@@ -141,7 +141,7 @@ Brad Lander, the former New York City comptroller challenging incumbent Rep. Dan
 
 **Vault connections:** Updates [[AIPAC - American Israel Public Affairs Committee|AIPAC]] donor node (counter-strategy documentation), relevant to NY-10 race tracking.
 
-- [American Prospect: America, We Have a Super PAC Problem. People's Pledge and Brad Lander](https://prospect.org/2026/03/25/america-super-pac-problem-peoples-pledge-brad-lander/) (Tier 2)
+- [American Prospect: America, We Have a Super PAC Problem. People's Pledge and Brad Lander](https://prospect.org/2026/03/25/america-super-pac-problem-peoples-pledge-brad-lander/) (Tier 2) (VERIFIED)
 
 ---
 

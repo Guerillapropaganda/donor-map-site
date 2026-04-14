@@ -134,8 +134,8 @@ There is a complicating factor: Platner has made comments in the past that have 
 > Platner's controversial past comments create a genuinely complex political situation. On one hand, he is positioned as the progressive insurgent against the establishment (Mills/Schumer). On the other hand, he has legitimate vulnerabilities on an issue (sexual assault) that progressives claim to prioritize. This makes Platner's victory more complex to interpret: if he wins, does it mean progressives prioritize anti-establishment politics over sexual assault concerns? Or have progressives decided that his military service/PTSD framing is sufficient explanation?
 
 Sources on the controversy:
-- [Warren endorses Platner in Maine Senate primary after Mills rips him for remarks on rape](https://www.washingtontimes.com/news/2026/mar/19/elizabeth-warren-endorses-platner-maine-senate-primary-mills-rips/) (Tier 2)
-- [How Graham Platner's complicated past shapes his run for U.S. Senate](https://www.pressherald.com/2025/12/18/how-graham-platners-complicated-past-shapes-his-run-for-u-s-senate/) (Tier 2)
+- [Warren endorses Platner in Maine Senate primary after Mills rips him for remarks on rape](https://www.washingtontimes.com/news/2026/mar/19/elizabeth-warren-endorses-platner-maine-senate-primary-mills-rips/) (Tier 2) (VERIFIED)
+- [How Graham Platner's complicated past shapes his run for U.S. Senate](https://www.pressherald.com/2025/12/18/how-graham-platners-complicated-past-shapes-his-run-for-u-s-senate/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -176,10 +176,10 @@ Maine's Senate seat is currently held by Republican [[_Susan Collins Master Prof
 >
 > **The anti-donor-class candidate's paradox:** Platner campaigns against oligarchic control of politics while being funded by 80,000+ small donors. This is the cleanest test case in 2026 for whether the donor-first thesis has exceptions. If Platner can win a Senate primary and general election without corporate PAC money, without leadership PAC bundling, and without billionaire super PAC backing, it suggests small-dollar mobilization can circumvent donor-class capture — which would be the single most important finding for the vault's thesis.
 
-- [Axios: Bernie-backed oyster farmer raises $3.2M in Maine Senate race](https://www.axios.com/2025/10/01/maine-senate-graham-platner-fundraising-sanders) (Tier 2)
-- [Maine Public: Platner posts $4.6M in Q4 fundraising](https://www.mainepublic.org/politics/2026-02-02/graham-platner-posts-4-6-million-in-fourth-quarter-fundraising-gov-janet-mills-2-7-million) (Tier 2)
-- [Common Dreams: Platner Raises 3 Times as Much as Mills in Small Donations](https://www.commondreams.org/news/graham-platner-donate) (Tier 2)
-- [Maine Morning Star: Oysterman raised $1M in nine days](https://mainemorningstar.com/2025/08/28/the-oysterman-trying-to-oust-susan-collins-raised-1-million-in-nine-days/) (Tier 2)
+- ~~[Axios: Bernie-backed oyster farmer raises $3.2M in Maine Senate race](https://www.axios.com/2025/10/01/maine-senate-graham-platner-fundraising-sanders)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Maine Public: Platner posts $4.6M in Q4 fundraising](https://www.mainepublic.org/politics/2026-02-02/graham-platner-posts-4-6-million-in-fourth-quarter-fundraising-gov-janet-mills-2-7-million) (Tier 2) (VERIFIED)
+- [Common Dreams: Platner Raises 3 Times as Much as Mills in Small Donations](https://www.commondreams.org/news/graham-platner-donate) (Tier 2) (VERIFIED)
+- [Maine Morning Star: Oysterman raised $1M in nine days](https://mainemorningstar.com/2025/08/28/the-oysterman-trying-to-oust-susan-collins-raised-1-million-in-nine-days/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -242,14 +242,14 @@ If Mills defeats Platner despite Sanders + Warren backing:
 
 ## Sources
 
-- [FEC: Graham Platner Candidate Profile](https://www.fec.gov/data/candidate/S6ME00373/) (Tier 1)
+- [FEC: Graham Platner Candidate Profile](https://www.fec.gov/data/candidate/S6ME00373/) (Tier 1) (VERIFIED)
 - ~~[FollowTheMoney.org: Graham Platner Maine Senate 2026](https://www.followthemoney.org/tools/election-overview?eid=46011295)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
-- [Elizabeth Warren Backs Graham Platner in Maine Senate Race, Bucking Democratic Leadership](https://www.notus.org/2026-election/elizabeth-warren-graham-platner-maine-senate-endorse) (Tier 2)
-- [Elizabeth Warren endorses Graham Platner over Janet Mills in Maine Senate primary](https://thehill.com/homenews/campaign/5791291-warren-endorses-platner-maine-senate-primary/) (Tier 2)
-- [Graham Platner - Wikipedia](https://en.wikipedia.org/wiki/Graham_Platner) (Tier 3)
-- [Graham Platner - Ballotpedia](https://ballotpedia.org/Graham_Platner) (Tier 3)
-- [About — Graham Platner Official Campaign Website](https://www.grahamforsenate.com/about) (Tier 1)
-- [Oyster farmer and veteran Graham Platner hopes his message lands with Maine voters](https://www.npr.org/2025/10/10/nx-s1-5565245/oyster-farmer-and-veteran-graham-platner-hopes-his-message-lands-with-maine-voters) (Tier 2)
-- [Iraq and Afghanistan veteran launches Democratic campaign against Sen. Susan Collins in Maine](https://www.nbcnews.com/politics/2026-election/iraq-afghanistan-veteran-launches-democratic-campaign-sen-susan-collin-rcna225703) (Tier 2)
+- [Elizabeth Warren Backs Graham Platner in Maine Senate Race, Bucking Democratic Leadership](https://www.notus.org/2026-election/elizabeth-warren-graham-platner-maine-senate-endorse) (Tier 2) (VERIFIED)
+- ~~[Elizabeth Warren endorses Graham Platner over Janet Mills in Maine Senate primary](https://thehill.com/homenews/campaign/5791291-warren-endorses-platner-maine-senate-primary/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Graham Platner - Wikipedia](https://en.wikipedia.org/wiki/Graham_Platner) (Tier 3) (VERIFIED)
+- [Graham Platner - Ballotpedia](https://ballotpedia.org/Graham_Platner) (Tier 3) (VERIFIED)
+- [About — Graham Platner Official Campaign Website](https://www.grahamforsenate.com/about) (Tier 1) (VERIFIED)
+- [Oyster farmer and veteran Graham Platner hopes his message lands with Maine voters](https://www.npr.org/2025/10/10/nx-s1-5565245/oyster-farmer-and-veteran-graham-platner-hopes-his-message-lands-with-maine-voters) (Tier 2) (VERIFIED)
+- [Iraq and Afghanistan veteran launches Democratic campaign against Sen. Susan Collins in Maine](https://www.nbcnews.com/politics/2026-election/iraq-afghanistan-veteran-launches-democratic-campaign-sen-susan-collin-rcna225703) (Tier 2) (VERIFIED)
 - [How Graham Platner's complicated past shapes his run for U.S. Senate](https://www.pressherald.com/2025/12/18/how-graham-platners-complicated-past-shapes-his-run-for-u-s-senate/) (Tier 2)
 - [Warren endorses Platner in Maine Senate primary after Mills rips him for remarks on rape](https://www.washingtontimes.com/news/2026/mar/19/elizabeth-warren-endorses-platner-maine-senate-primary-mills-rips/) (Tier 2)

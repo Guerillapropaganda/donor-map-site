@@ -106,14 +106,14 @@ The anti-immigration politics and the labor exploitation are not contradictory �
 
 ### Sources
 
-- [FEC Independent Expenditures: Uihlein donation history 2024](https://www.fec.gov/data/independent-expenditures/) (Tier 1)
-- [OpenSecrets: Billionaire megadonor couple funding election denial](https://www.opensecrets.org/news/) (Tier 1)
-- [Revolving Door Project: Richard & Elizabeth Uihlein and Trump administration](https://therevolvingdoorproject.org/billionaires-and-the-trump-admin-richard-elizabeth-uihlein/) (Tier 2)
-- [Daily Beast: MAGA-owned business accused of sneaking immigrant workers into US](https://www.thedailybeast.com/maga-owned-business-accused-of-sneaking-immigrant-workers-into-us/) (Tier 3)
-- [CBS News: GOP megadonor Richard Uihlein pours millions into effort to hinder Ohio abortion amendment](https://www.cbsnews.com/news/gop-megadonor-richard-uihlein-pours-millions-into-effort-to-hinder-ohio-abortion-amendment/) (Tier 2)
-- [Crain's Chicago Business: Uihlein and Eychaner among biggest political givers in 2024](https://www.chicagobusiness.com/politics/uihlein-eychaner-among-biggest-political-givers-2024-cycle/) (Tier 2)
-- [Chicago Tribune: From the Uihleins to prominent business owners — Illinois' biggest Republican donors](https://news.wttw.com/2024/07/15/uihleins-prominent-business-owners-who-are-illinois-biggest-republican-donors) (Tier 2)
-- [Ballotpedia: Richard Uihlein](https://ballotpedia.org/Richard_Uihlein) (Tier 2)
+- [FEC Independent Expenditures: Uihlein donation history 2024](https://www.fec.gov/data/independent-expenditures/) (Tier 1) (NEEDS REVIEW)
+- [OpenSecrets: Billionaire megadonor couple funding election denial](https://www.opensecrets.org/news/) (Tier 1) (VERIFIED)
+- [Revolving Door Project: Richard & Elizabeth Uihlein and Trump administration](https://therevolvingdoorproject.org/billionaires-and-the-trump-admin-richard-elizabeth-uihlein/) (Tier 2) (VERIFIED)
+- [Daily Beast: MAGA-owned business accused of sneaking immigrant workers into US](https://www.thedailybeast.com/maga-owned-business-accused-of-sneaking-immigrant-workers-into-us/) (Tier 3) (VERIFIED)
+- ~~[CBS News: GOP megadonor Richard Uihlein pours millions into effort to hinder Ohio abortion amendment](https://www.cbsnews.com/news/gop-megadonor-richard-uihlein-pours-millions-into-effort-to-hinder-ohio-abortion-amendment/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Crain's Chicago Business: Uihlein and Eychaner among biggest political givers in 2024](https://www.chicagobusiness.com/politics/uihlein-eychaner-among-biggest-political-givers-2024-cycle/) (Tier 2) (VERIFIED)
+- [Chicago Tribune: From the Uihleins to prominent business owners — Illinois' biggest Republican donors](https://news.wttw.com/2024/07/15/uihleins-prominent-business-owners-who-are-illinois-biggest-republican-donors) (Tier 2) (VERIFIED)
+- [Ballotpedia: Richard Uihlein](https://ballotpedia.org/Richard_Uihlein) (Tier 2) (VERIFIED)
 
 ---
 

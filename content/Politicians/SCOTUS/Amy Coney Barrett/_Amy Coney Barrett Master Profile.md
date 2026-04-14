@@ -123,11 +123,11 @@ Amy Coney Barrett. Associate Justice, Supreme Court (2020–present, confirmed 5
 
 ## Sources
 
-- [OpenSecrets: Amy Coney Barrett — Supreme Court Justice](https://www.opensecrets.org/news/) (Tier 1)
-- [OpenSecrets: JCN Dark Money Spending on Supreme Court Confirmations](https://www.opensecrets.org/news/) (Tier 1)
-- [ProPublica: We Don't Talk About Leonard - The Man Behind the Right's Supreme Court Supermajority](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2)
-- [SCOTUSblog: Tuesday round-up - The confirmation of Amy Coney Barrett](https://www.scotusblog.com/2020/10/tuesday-round-up-the-confirmation-of-amy-coney-barrett/) (Tier 2)
-- [Brennan Center: Dark Money in Judicial Confirmations](https://www.brennancenter.org/topics/money-politics/influence-big-money/dark-money) (Tier 2)
+- [OpenSecrets: Amy Coney Barrett — Supreme Court Justice](https://www.opensecrets.org/news/) (Tier 1) (VERIFIED)
+- [OpenSecrets: JCN Dark Money Spending on Supreme Court Confirmations](https://www.opensecrets.org/news/) (Tier 1) (VERIFIED)
+- [ProPublica: We Don't Talk About Leonard - The Man Behind the Right's Supreme Court Supermajority](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2) (VERIFIED)
+- [SCOTUSblog: Tuesday round-up - The confirmation of Amy Coney Barrett](https://www.scotusblog.com/2020/10/tuesday-round-up-the-confirmation-of-amy-coney-barrett/) (Tier 2) (VERIFIED)
+- [Brennan Center: Dark Money in Judicial Confirmations](https://www.brennancenter.org/topics/money-politics/influence-big-money/dark-money) (Tier 2) (VERIFIED)
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

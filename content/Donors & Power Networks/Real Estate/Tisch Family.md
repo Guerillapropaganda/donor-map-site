@@ -77,8 +77,8 @@ The Tisch family represents the bipartisan donor consensus: both major parties s
 
 ### Sources
 
-- [Bloomberg: Tisch family wealth and business interests](https://www.bloomberg.com/news/articles/tisch-family-loews) (Tier 2)
-- [New York Times: Tisch family political contributions](https://www.nytimes.com/2024/01/tisch-donor-profile.html) (Tier 2)
+- ~~[Bloomberg: Tisch family wealth and business interests](https://www.bloomberg.com/news/articles/tisch-family-loews)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[New York Times: Tisch family political contributions](https://www.nytimes.com/2024/01/tisch-donor-profile.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
@@ -98,7 +98,7 @@ The Tisch family represents the bipartisan donor consensus: both major parties s
 - 2004-03-29 — **8-K**: 8-K
 - 2001-02-16 — **SC 13G/A**: SCHEDULE 13G, AMENDMENT NO. 5
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Tisch%20Family%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Tisch%20Family%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -110,5 +110,5 @@ The Tisch family represents the bipartisan donor consensus: both major parties s
 | Total Expenses | $20.8M |
 | Net Assets | $225.5M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 134037377](https://projects.propublica.org/nonprofits/organizations/134037377) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 134037377](https://projects.propublica.org/nonprofits/organizations/134037377) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->

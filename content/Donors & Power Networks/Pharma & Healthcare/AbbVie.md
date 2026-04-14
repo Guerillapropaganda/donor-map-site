@@ -67,7 +67,7 @@ AbbVie Inc. A major pharmaceutical company with $55 billion in annual revenue (2
 
 AbbVie PAC contributes $1.5-2 million per cycle and the company spends $8-12 million annually on lobbying, with heavy focus on patent law, drug pricing, and FDA regulation.
 
-- [OpenSecrets: AbbVie organizational profile](https://www.opensecrets.org/orgs/abbvie-inc/summary?id=D000067068) (Tier 1)
+- ~~[OpenSecrets: AbbVie organizational profile](https://www.opensecrets.org/orgs/abbvie-inc/summary?id=D000067068)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -99,9 +99,9 @@ AbbVie's PAC distributes $1.5-2 million per cycle across both parties, with $30,
 ### Sources
 
 - [OpenSecrets: AbbVie organizational profile](https://www.opensecrets.org/orgs/abbvie-inc/summary?id=D000067068) (Tier 1)
-- [I-MAK: Overpatented, Overpriced — Humira patent analysis](https://www.i-mak.org/humira/) (Tier 2)
-- [STAT News: AbbVie's Humira patent thicket strategy](https://www.statnews.com/pharmalot/2022/03/08/abbvie-humira-patent-biosimilar/) (Tier 2)
-- [Ballotpedia: AbbVie political spending](https://ballotpedia.org/AbbVie) (Tier 3)
+- [I-MAK: Overpatented, Overpriced — Humira patent analysis](https://www.i-mak.org/humira/) (Tier 2) (VERIFIED)
+- [STAT News: AbbVie's Humira patent thicket strategy](https://www.statnews.com/pharmalot/2022/03/08/abbvie-humira-patent-biosimilar/) (Tier 2) (VERIFIED)
+- [Ballotpedia: AbbVie political spending](https://ballotpedia.org/AbbVie) (Tier 3) (VERIFIED)
 
 ---
 
@@ -132,7 +132,7 @@ AbbVie's PAC distributes $1.5-2 million per cycle across both parties, with $30,
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=AbbVie) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=AbbVie) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -182,14 +182,14 @@ AbbVie's PAC distributes $1.5-2 million per cycle across both parties, with $30,
 | Biological Product (except Diagnostic) Manufacturing (325414) | $40K |
 | Medicinal and Botanical Manufacturing (325411) | $14K |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-AbbVie) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-AbbVie) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [5493003YLH4WVSPWMC20](https://search.gleif.org/#/record/5493003YLH4WVSPWMC20) |
+| LEI | [5493003YLH4WVSPWMC20](https://search.gleif.org/#/record/5493003YLH4WVSPWMC20) (VERIFIED) |
 | Legal Name | ABBVIE |
 | Jurisdiction | BE |
 | Entity Status | ACTIVE |
@@ -197,7 +197,7 @@ AbbVie's PAC distributes $1.5-2 million per cycle across both parties, with $30,
 | Registration | ISSUED |
 | Last Updated | 2025-12-04T16:57:28Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Tax Filings (IRS 990)
@@ -215,14 +215,14 @@ AbbVie's PAC distributes $1.5-2 million per cycle across both parties, with $30,
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/460827839/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/460827839/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/460827839/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/460827839/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/460827839/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/460827839/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/460827839/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/460827839/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/460827839/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/460827839/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/460827839) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/460827839) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Federal Spending (USASpending)
@@ -244,7 +244,7 @@ AbbVie's PAC distributes $1.5-2 million per cycle across both parties, with $30,
 | $52K | Department of Health and Human Services | ABBVIE US LLC, ALLERGAN BREAST IMPLANT SUPPLIES, PIMC, YEAR 3 |
 | $50K | Department of Health and Human Services | BPA CALL 25F28002 YEAR 2 ABBVIE US LLC PIMC ALLERGAN BREAST IMPLANT SUPPLIES |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/b143e4e4-6e13-3227-a9be-875c39fabe95-P/latest) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/b143e4e4-6e13-3227-a9be-875c39fabe95-P/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Federal Register Activity
@@ -258,15 +258,15 @@ AbbVie's PAC distributes $1.5-2 million per cycle across both parties, with $30,
 | Agencies | Centers for Medicare & Medicaid Services, Commerce Department, Federal Trade Commission, Food and Drug Administration, Foreign-Trade Zones Board, Health and Human Services Department, International Trade Commission, Treasury Department |
 
 **Recent regulatory activity:**
-- [Determination of Regulatory Review Period for Purposes of Patent Extension; EMRELIS](https://www.federalregister.gov/documents/2026/04/03/2026-06480/determination-of-regulatory-review-period-for-purposes-of-patent-extension-emrelis) (2026-04-03) — Health and Human Services Department
-- [Aspen Global Inc. c/o Lachman Consultant Services, Inc., et al.; Withdrawal of Approval of 46 New Drug Applications](https://www.federalregister.gov/documents/2026/03/09/2026-04546/aspen-global-inc-co-lachman-consultant-services-inc-et-al-withdrawal-of-approval-of-46-new-drug) (2026-03-09) — Health and Human Services Department
-- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2026/03/09/2026-04542/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2026-03-09) — Federal Trade Commission
-- [Certain Antibody Drug Conjugates and Components Thereof and Products Containing the Same; Institution of Investigation](https://www.federalregister.gov/documents/2025/12/22/2025-23515/certain-antibody-drug-conjugates-and-components-thereof-and-products-containing-the-same-institution) (2025-12-22) — International Trade Commission
-- [Teva Branded Pharmaceutical Products R&D, Inc., et al.; Withdrawal of Approval of 39 New Drug Applications](https://www.federalregister.gov/documents/2025/08/04/2025-14683/teva-branded-pharmaceutical-products-randd-inc-et-al-withdrawal-of-approval-of-39-new-drug) (2025-08-04) — Health and Human Services Department
-- [Determination That VOSOL (Acetic Acid, Glacial) 2% Otic Solution/Drops; and Other Drug Products Were Not Withdrawn From Sale for Reasons of Safety or Effectiveness](https://www.federalregister.gov/documents/2025/05/09/2025-08207/determination-that-vosol-acetic-acid-glacial-2-otic-solutiondrops-and-other-drug-products-were-not) (2025-05-09) — Health and Human Services Department
+- [Determination of Regulatory Review Period for Purposes of Patent Extension; EMRELIS](https://www.federalregister.gov/documents/2026/04/03/2026-06480/determination-of-regulatory-review-period-for-purposes-of-patent-extension-emrelis) (VERIFIED) (2026-04-03) — Health and Human Services Department
+- [Aspen Global Inc. c/o Lachman Consultant Services, Inc., et al.; Withdrawal of Approval of 46 New Drug Applications](https://www.federalregister.gov/documents/2026/03/09/2026-04546/aspen-global-inc-co-lachman-consultant-services-inc-et-al-withdrawal-of-approval-of-46-new-drug) (VERIFIED) (2026-03-09) — Health and Human Services Department
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2026/03/09/2026-04542/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (VERIFIED) (2026-03-09) — Federal Trade Commission
+- [Certain Antibody Drug Conjugates and Components Thereof and Products Containing the Same; Institution of Investigation](https://www.federalregister.gov/documents/2025/12/22/2025-23515/certain-antibody-drug-conjugates-and-components-thereof-and-products-containing-the-same-institution) (VERIFIED) (2025-12-22) — International Trade Commission
+- [Teva Branded Pharmaceutical Products R&D, Inc., et al.; Withdrawal of Approval of 39 New Drug Applications](https://www.federalregister.gov/documents/2025/08/04/2025-14683/teva-branded-pharmaceutical-products-randd-inc-et-al-withdrawal-of-approval-of-39-new-drug) (VERIFIED) (2025-08-04) — Health and Human Services Department
+- [Determination That VOSOL (Acetic Acid, Glacial) 2% Otic Solution/Drops; and Other Drug Products Were Not Withdrawn From Sale for Reasons of Safety or Effectiveness](https://www.federalregister.gov/documents/2025/05/09/2025-08207/determination-that-vosol-acetic-acid-glacial-2-otic-solutiondrops-and-other-drug-products-were-not) (VERIFIED) (2025-05-09) — Health and Human Services Department
 - ... and 115 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22AbbVie%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22AbbVie%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Federal Court Records (CourtListener)
@@ -285,7 +285,7 @@ AbbVie's PAC distributes $1.5-2 million per cycle across both parties, with $30,
 - Novartis Pharmaceuticals Corporation v. Brown (2026) — District Court, W.D. Washington
 - AbbVie Inc v. Brown (2026) — District Court, W.D. Washington
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22AbbVie%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22AbbVie%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### FDA Enforcement (openFDA)
@@ -313,5 +313,5 @@ AbbVie's PAC distributes $1.5-2 million per cycle across both parties, with $30,
 
 _Variant firm names in FDA data: AbbVie Inc.; AbbVie Inc_
 
-- [Source: openFDA / FDA Enforcement Reports](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?search_api_fulltext=AbbVie) (Tier 1)
+- [Source: openFDA / FDA Enforcement Reports](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?search_api_fulltext=AbbVie) (Tier 1) (VERIFIED)
 <!-- auto:fda-enforcement end -->

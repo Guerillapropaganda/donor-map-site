@@ -58,5 +58,5 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 - INMOBILIARIA LA PROVINCIA S.A. DE C.V. (-0-) [SDNTK]
   - Remarks: R.F.C. IPR-931014 (Mexico).
 
-- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->

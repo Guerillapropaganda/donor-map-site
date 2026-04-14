@@ -13,7 +13,7 @@ profiles:
 
 ## China’s energy dominance plan is built on the backs of forced labor
 
-**Source:** [The Hill](https://thehill.com/opinion/energy-environment/5825459-beijing-five-year-plan-forced-labor/)
+**Source:** ~~[The Hill](https://thehill.com/opinion/energy-environment/5825459-beijing-five-year-plan-forced-labor/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-11
 
 China’s continued exploitation of Uyghur people is central to its ambition to dominate global critical mineral markets.

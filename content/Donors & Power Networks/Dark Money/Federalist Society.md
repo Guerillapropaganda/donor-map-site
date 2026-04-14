@@ -203,27 +203,27 @@ The dark money symmetry is complete. Leo's network operates with the same opacit
 
 ### Sources
 
-- [OpenSecrets: Federalist Society profile](https://www.opensecrets.org/orgs/federalist-society/summary?id=D000080363) (Tier 1)
-- [OpenSecrets: Federalist Society totals](https://www.opensecrets.org/orgs/federalist-society/totals?id=D000080363) (Tier 1)
-- [ProPublica Nonprofit Explorer: Federalist Society 990 filings](https://projects.propublica.org/nonprofits/organizations/363235550) (Tier 1)
-- [Federalist Society: About Us](https://fedsoc.org/about-us) (Tier 1)
-- [ProPublica: We Don't Talk About Leonard — Leo and the Supreme Court Supermajority](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2)
-- [ProPublica: How a Secretive Billionaire Handed His Fortune to Leo (Barre Seid / Marble Freedom Trust)](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (Tier 2)
-- [CNN: Massive Dark Money Donation — $1.6 Billion to Conservative Group](https://www.cnn.com/2022/08/22/politics/dark-money-donation-conservative-group-invs) (Tier 2)
-- [CREW: Leonard Leo's Firm Rakes In Millions from Dark Money Network](https://www.citizensforethics.org/reports-investigations/crew-investigations/leonard-leos-firm-continues-to-rake-in-millions-from-his-own-dark-money-network/) (Tier 2)
-- [CREW: Leo-Tied Nonprofits Paid His Businesses $90 Million](https://www.citizensforethics.org/reports-investigations/crew-investigations/leonard-leo-tied-nonprofits-businesses-88-million/) (Tier 2)
-- [CREW: $80 Million Dark Money Group Tied to Leo](https://www.citizensforethics.org/reports-investigations/crew-investigations/80-million-dark-money-group-tied-to-trump-supreme-court-advisor-leonard-leo/) (Tier 2)
-- [CMD: DonorsTrust Funneled $134 Million to Right-Wing Groups in 2022](https://www.exposedbycmd.org/2023/11/17/donorstrust-funneled-134-million-to-right-wing-groups-in-2022/) (Tier 2)
-- [CMD: DonorsTrust Pumped $142 Million into Right-Wing Causes in 2018](https://www.exposedbycmd.org/2019/12/23/donorstrust-pumped-142-million-right-wing-causes-2018/) (Tier 2)
-- [The Hill: Meet the Powerful Group Behind Trump's Judicial Nominations](https://thehill.com/regulation/court-battles/360598-meet-the-powerful-group-behind-trump-judicial-nominations/) (Tier 2)
-- [The 19th: How Trump Has Shaped Federal Courts](https://19thnews.org/2025/01/trump-judges-federal-judiciary/) (Tier 2)
-- [Yale Daily News: SFFA Funded by Large Conservative Groups with Federalist Society Ties](https://yaledailynews.com/blog/2022/11/03/sffa-funded-by-large-conservative-groups-with-federalist-society-ties/) (Tier 2)
-- [Harvard Crimson: Public Filings Reveal SFFA Mostly Funded by Conservative Trusts](https://www.thecrimson.com/article/2019/2/7/sffa-finance/) (Tier 2)
-- [Inside Philanthropy: Wealthy Donors Behind the Assault on Affirmative Action](https://www.insidephilanthropy.com/home/2023-8-10-the-wealthy-donors-behind-the-assault-on-affirmative-action) (Tier 2)
-- [CNN: Senate Democrats Subpoena Leonard Leo in SCOTUS Ethics Probe](https://www.cnn.com/2024/04/11/politics/leonard-leo-subpoena-supreme-court-ethics-probe/index.html) (Tier 2)
-- [Senator Whitehouse: The Scheme Speech 5 — The Federalist Society](https://www.whitehouse.senate.gov/news/speeches/the-scheme-speech-5-the-federalist-society/) (Tier 2)
-- [Time: Trump Calls Leo "Sleazebag," Criticizes Federalist Society](https://time.com/7289940/trump-federalist-society-leonard-leo-sleazebag-bad-advice-judges-tariffs/g-bad-advice-judges-tariffs/) (Tier 2)
-- [NPR: Heritage Foundation Staff Walkout](https://www.npr.org/2025/12/22/nx-s1-5651990/heritage-foundation-mike-pence) (Tier 2)
+- [OpenSecrets: Federalist Society profile](https://www.opensecrets.org/orgs/federalist-society/summary?id=D000080363) (Tier 1) (VERIFIED)
+- [OpenSecrets: Federalist Society totals](https://www.opensecrets.org/orgs/federalist-society/totals?id=D000080363) (Tier 1) (VERIFIED)
+- [ProPublica Nonprofit Explorer: Federalist Society 990 filings](https://projects.propublica.org/nonprofits/organizations/363235550) (Tier 1) (VERIFIED)
+- [Federalist Society: About Us](https://fedsoc.org/about-us) (Tier 1) (VERIFIED)
+- [ProPublica: We Don't Talk About Leonard — Leo and the Supreme Court Supermajority](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2) (VERIFIED)
+- [ProPublica: How a Secretive Billionaire Handed His Fortune to Leo (Barre Seid / Marble Freedom Trust)](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (Tier 2) (VERIFIED)
+- [CNN: Massive Dark Money Donation — $1.6 Billion to Conservative Group](https://www.cnn.com/2022/08/22/politics/dark-money-donation-conservative-group-invs) (Tier 2) (VERIFIED)
+- [CREW: Leonard Leo's Firm Rakes In Millions from Dark Money Network](https://www.citizensforethics.org/reports-investigations/crew-investigations/leonard-leos-firm-continues-to-rake-in-millions-from-his-own-dark-money-network/) (Tier 2) (VERIFIED)
+- [CREW: Leo-Tied Nonprofits Paid His Businesses $90 Million](https://www.citizensforethics.org/reports-investigations/crew-investigations/leonard-leo-tied-nonprofits-businesses-88-million/) (Tier 2) (VERIFIED)
+- [CREW: $80 Million Dark Money Group Tied to Leo](https://www.citizensforethics.org/reports-investigations/crew-investigations/80-million-dark-money-group-tied-to-trump-supreme-court-advisor-leonard-leo/) (Tier 2) (VERIFIED)
+- ~~[CMD: DonorsTrust Funneled $134 Million to Right-Wing Groups in 2022](https://www.exposedbycmd.org/2023/11/17/donorstrust-funneled-134-million-to-right-wing-groups-in-2022/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[CMD: DonorsTrust Pumped $142 Million into Right-Wing Causes in 2018](https://www.exposedbycmd.org/2019/12/23/donorstrust-pumped-142-million-right-wing-causes-2018/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Meet the Powerful Group Behind Trump's Judicial Nominations](https://thehill.com/regulation/court-battles/360598-meet-the-powerful-group-behind-trump-judicial-nominations/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [The 19th: How Trump Has Shaped Federal Courts](https://19thnews.org/2025/01/trump-judges-federal-judiciary/) (Tier 2) (VERIFIED)
+- ~~[Yale Daily News: SFFA Funded by Large Conservative Groups with Federalist Society Ties](https://yaledailynews.com/blog/2022/11/03/sffa-funded-by-large-conservative-groups-with-federalist-society-ties/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Harvard Crimson: Public Filings Reveal SFFA Mostly Funded by Conservative Trusts](https://www.thecrimson.com/article/2019/2/7/sffa-finance/) (Tier 2) (VERIFIED)
+- [Inside Philanthropy: Wealthy Donors Behind the Assault on Affirmative Action](https://www.insidephilanthropy.com/home/2023-8-10-the-wealthy-donors-behind-the-assault-on-affirmative-action) (Tier 2) (VERIFIED)
+- [CNN: Senate Democrats Subpoena Leonard Leo in SCOTUS Ethics Probe](https://www.cnn.com/2024/04/11/politics/leonard-leo-subpoena-supreme-court-ethics-probe/index.html) (Tier 2) (VERIFIED)
+- [Senator Whitehouse: The Scheme Speech 5 — The Federalist Society](https://www.whitehouse.senate.gov/news/speeches/the-scheme-speech-5-the-federalist-society/) (Tier 2) (VERIFIED)
+- ~~[Time: Trump Calls Leo "Sleazebag," Criticizes Federalist Society](https://time.com/7289940/trump-federalist-society-leonard-leo-sleazebag-bad-advice-judges-tariffs/g-bad-advice-judges-tariffs/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [NPR: Heritage Foundation Staff Walkout](https://www.npr.org/2025/12/22/nx-s1-5651990/heritage-foundation-mike-pence) (Tier 2) (VERIFIED)
 
 ---
 
@@ -248,10 +248,10 @@ The dark money symmetry is complete. Leo's network operates with the same opacit
 | Agencies | Federal Trade Commission |
 
 **Recent regulatory activity:**
-- [Motor Vehicle Dealers Trade Regulation Rule](https://www.federalregister.gov/documents/2022/07/13/2022-14214/motor-vehicle-dealers-trade-regulation-rule) (2022-07-13) — Federal Trade Commission
-- [Energy Labeling Rule](https://www.federalregister.gov/documents/2020/04/10/2020-06960/energy-labeling-rule) (2020-04-10) — Federal Trade Commission
+- [Motor Vehicle Dealers Trade Regulation Rule](https://www.federalregister.gov/documents/2022/07/13/2022-14214/motor-vehicle-dealers-trade-regulation-rule) (VERIFIED) (2022-07-13) — Federal Trade Commission
+- [Energy Labeling Rule](https://www.federalregister.gov/documents/2020/04/10/2020-06960/energy-labeling-rule) (VERIFIED) (2020-04-10) — Federal Trade Commission
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Federalist%20Society%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Federalist%20Society%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Tax Filings (IRS 990)
@@ -264,7 +264,7 @@ The dark money symmetry is complete. Leo's network operates with the same opacit
 | IRS Ruling Date | 2017-06-01 |
 | Filings on Record | 0 |
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/815109948) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/815109948) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Federal Court Records (CourtListener)
@@ -283,7 +283,7 @@ The dark money symmetry is complete. Leo's network operates with the same opacit
 - In re: Application for Judicial Assistance (2025) — Court of Appeals for the D.C. Circuit
 - WHEELER v. BLANCHE (2025) — District Court, District of Columbia
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Federalist%20Society%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Federalist%20Society%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### SEC Filing Activity
@@ -301,7 +301,7 @@ The dark money symmetry is complete. Leo's network operates with the same opacit
 - 2021-06-01 — **497**: NUVEEN INVESTMENT FUNDS, INC.
 - 2005-08-15 — **EX-99.(E)**: RESUME OF WALTER DELLINGER
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Federalist%20Society%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Federalist%20Society%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Wikipedia
@@ -310,13 +310,13 @@ The Federalist Society for Law and Public Policy Studies (FedSoc) is an American
 
 | Fact | Value |
 |------|-------|
-| Wikidata ID | [Q5440666](https://www.wikidata.org/wiki/Q5440666) |
+| Wikidata ID | [Q5440666](https://www.wikidata.org/wiki/Q5440666) (VERIFIED) |
 | Description | American conservative organization |
 | Founded | 1982-04-23 |
-| Website | [http://www.fed-soc.org/](http://www.fed-soc.org/) |
-| X/Twitter | [@fedsoc](https://x.com/fedsoc) |
-| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Office_of_the_Secretary_-_Federalist_Society_Convention_and_Republican_Attorneys_General_Dinner_-_DPLA_-_d828ea03ce68b1895b6f9c576a38d1d2.jpg?width=300) |
+| Website | [http://www.fed-soc.org/](http://www.fed-soc.org/) (VERIFIED) |
+| X/Twitter | [@fedsoc](https://x.com/fedsoc) (VERIFIED) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Office_of_the_Secretary_-_Federalist_Society_Convention_and_Republican_Attorneys_General_Dinner_-_DPLA_-_d828ea03ce68b1895b6f9c576a38d1d2.jpg?width=300) (NEEDS REVIEW) |
 
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/Federalist_Society) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q5440666) (Tier 2)
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Federalist_Society) (Tier 3) (VERIFIED)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q5440666) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->

@@ -13,7 +13,7 @@ profiles:
 
 ## Hasan Piker controversy heats up Michigan Senate primary for Democrats
 
-**Source:** [The Hill](https://thehill.com/homenews/campaign/5815785-el-sayed-rally-piker-backlash/)
+**Source:** ~~[The Hill](https://thehill.com/homenews/campaign/5815785-el-sayed-rally-piker-backlash/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-06
 
 Michigan Senate candidate Abdul El-Sayed’s plans to rally in the state this week with controversial livestreamer Hasan Piker are roiling the Democratic primary, with other candidates blasting the decision to invite him on the campaign trail. El-Sayed, the former Wayne County health director backed by progressive Sen. Bernie Sanders (I-Vt.), was the runner-up to Michigan Gov. Gretchen Whitmer…

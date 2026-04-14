@@ -36,9 +36,9 @@ known-gaps:
 **Additionally:** Two Republican members of Congress who received nearly $5 million in financial sector donations are pushing federal legislation to override state interest rate protections, allowing lenders to charge potentially exorbitant rates, a direct donor-to-legislation pipeline.
 
 ### Sources:
-- [Axios: Wall Street cops propose new slate of easier big bank rules](https://www.axios.com/2026/03/19/fed-bank-wall-street-regulation) (Tier 2)
-- [CNBC: Wall Street banks set for 5% capital decline under new rules](https://www.cnbc.com/2026/03/19/wall-street-banks-set-for-5percent-capital-decline-under-new-rules.html) (Tier 2)
-- [Jacobin: Wall Street–Backed Lawmakers Want to Help Banks Gouge You](https://jacobin.com/2026/02/interest-rate-caps-republicans-donations) (Tier 2)
+- ~~[Axios: Wall Street cops propose new slate of easier big bank rules](https://www.axios.com/2026/03/19/fed-bank-wall-street-regulation)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [CNBC: Wall Street banks set for 5% capital decline under new rules](https://www.cnbc.com/2026/03/19/wall-street-banks-set-for-5percent-capital-decline-under-new-rules.html) (Tier 2) (VERIFIED)
+- [Jacobin: Wall Street–Backed Lawmakers Want to Help Banks Gouge You](https://jacobin.com/2026/02/interest-rate-caps-republicans-donations) (Tier 2) (VERIFIED)
 
 ---
 
@@ -53,11 +53,11 @@ known-gaps:
 **Vault relevance:** Directly relevant to the [[AIPAC - American Israel Public Affairs Committee|AIPAC]] donor node, any Illinois politician profiles, and the Dark Money sector. The Intercept reported that while AIPAC officially stayed out of the Illinois Senate race, its individual donors heavily backed Juliana Stratton, revealing the difference between institutional positioning and donor-class coordination.
 
 ### Sources:
-- [WBEZ: Pro-Israel group's donors and affiliates pour $13.7 million into Chicago-area primaries](https://www.wbez.org/politics/2026/02/27/aipac-pro-israel-groups-chicago-area-democratic-congressional-primaries-miller-conyears-ervin-bean-fine) (Tier 2)
-- [NBC News: New super PAC launches to counter AIPAC spending in Democratic primaries](https://www.nbcnews.com/politics/2026-election/new-super-pac-launches-counter-aipac-spending-democratic-primaries-rcna259448) (Tier 2)
-- [The Intercept: AIPAC Stays Out of Illinois Senate Race. But Its Donors Back Juliana Stratton](https://theintercept.com/2026/03/12/aipac-illinois-senate-stratton-kelly-krishnamoorthi/) (Tier 2)
-- [Sludge: Here Is How Much AIPAC Has Funneled to Every Member of Congress](https://readsludge.com/2026/03/01/here-is-how-much-aipac-has-funneled-to-every-member-of-congress/) (Tier 2)
-- [WaPo: Super PAC spending surges in midterms; some groups hide their cause](https://www.washingtonpost.com/politics/2026/03/21/israel-midterms-spending-pacs/) (Tier 2)
+- [WBEZ: Pro-Israel group's donors and affiliates pour $13.7 million into Chicago-area primaries](https://www.wbez.org/politics/2026/02/27/aipac-pro-israel-groups-chicago-area-democratic-congressional-primaries-miller-conyears-ervin-bean-fine) (Tier 2) (VERIFIED)
+- [NBC News: New super PAC launches to counter AIPAC spending in Democratic primaries](https://www.nbcnews.com/politics/2026-election/new-super-pac-launches-counter-aipac-spending-democratic-primaries-rcna259448) (Tier 2) (VERIFIED)
+- [The Intercept: AIPAC Stays Out of Illinois Senate Race. But Its Donors Back Juliana Stratton](https://theintercept.com/2026/03/12/aipac-illinois-senate-stratton-kelly-krishnamoorthi/) (Tier 2) (VERIFIED)
+- [Sludge: Here Is How Much AIPAC Has Funneled to Every Member of Congress](https://readsludge.com/2026/03/01/here-is-how-much-aipac-has-funneled-to-every-member-of-congress/) (Tier 2) (VERIFIED)
+- [WaPo: Super PAC spending surges in midterms; some groups hide their cause](https://www.washingtonpost.com/politics/2026/03/21/israel-midterms-spending-pacs/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -72,9 +72,9 @@ known-gaps:
 **Vault relevance:** Directly relevant to Tech & Crypto donor nodes, Fairshake PAC profile, and any politician profiles targeted by crypto money. The Al Green race is a case study in Donor-Class Override.
 
 ### Sources:
-- [CNBC: Crypto PAC Fairshake touts $193 million war chest as regulatory bill faces first vote](https://www.cnbc.com/2026/01/28/crypto-pac-fairshake-bill-vote.html) (Tier 2)
-- [CoinDesk: Crypto election PAC Fairshake marks first wins in 2026 U.S. congressional primaries](https://www.coindesk.com/policy2026/03/04/crypto-election-pac-fairshake-marks-first-wins-in-2026-u-s-congressional-primaries) (Tier 2)
-- [Axios: Al Green and Christian Menefee headed to a runoff](https://www.axios.com/local/houston/2026/03/04/al-green-christian-menefee-primary-election-results-2026) (Tier 2)
+- [CNBC: Crypto PAC Fairshake touts $193 million war chest as regulatory bill faces first vote](https://www.cnbc.com/2026/01/28/crypto-pac-fairshake-bill-vote.html) (Tier 2) (VERIFIED)
+- [CoinDesk: Crypto election PAC Fairshake marks first wins in 2026 U.S. congressional primaries](https://www.coindesk.com/policy2026/03/04/crypto-election-pac-fairshake-marks-first-wins-in-2026-u-s-congressional-primaries) (Tier 2) (VERIFIED)
+- ~~[Axios: Al Green and Christian Menefee headed to a runoff](https://www.axios.com/local/houston/2026/03/04/al-green-christian-menefee-primary-election-results-2026)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ---
 
@@ -89,9 +89,9 @@ known-gaps:
 **Vault relevance:** Directly relevant to Mega-Donors sector, any Musk donor node, and Republican politician profiles receiving his money. The 50 billionaire families collectively pumping $430M+ into midterms provides the macro context.
 
 ### Sources:
-- [Axios: Musk shocks with $10 million donation in Ky. Senate race](https://www.axios.com/2026/01/19/elon-musk-10-million-campaign-donation-kentucky) (Tier 2)
-- [Common Dreams: 50 Billionaire Families Have Already Pumped Over $430 Million Into Midterms](https://www.commondreams.org/news/billionaire-spending-2026-midterms) (Tier 2)
-- [OpenSecrets: Political ad spending projected to reach new high in 2026 midterms](https://www.opensecrets.org/news/2026/01/political-ad-spending-is-projected-to-reach-a-new-high-in-2026-midterms/) (Tier 1)
+- ~~[Axios: Musk shocks with $10 million donation in Ky. Senate race](https://www.axios.com/2026/01/19/elon-musk-10-million-campaign-donation-kentucky)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Common Dreams: 50 Billionaire Families Have Already Pumped Over $430 Million Into Midterms](https://www.commondreams.org/news/billionaire-spending-2026-midterms) (Tier 2) (VERIFIED)
+- [OpenSecrets: Political ad spending projected to reach new high in 2026 midterms](https://www.opensecrets.org/news/2026/01/political-ad-spending-is-projected-to-reach-a-new-high-in-2026-midterms/) (Tier 1) (VERIFIED)
 
 ---
 
@@ -106,8 +106,8 @@ known-gaps:
 **Vault relevance:** Relevant to Healthcare/Pharma donor nodes, Auchincloss profile if it exists, and the broader pharmaceutical lobbying story.
 
 ### Sources:
-- [Mintz: Congress Passes Landmark PBM Reform in 2026 Spending Bill](https://www.mintz.com/insights-center/viewpoints/2146/2026-02-06-congress-passes-landmark-pbm-reform-2026-spending-bill) (Tier 3)
-- [Poulos for Massachusetts: How Pharmaceutical Industry Money Blocks Congressional Drug Price Reform](https://poulos.house/2026/01/17/pharmaceutical-money-blocks-drug-price-reform.html) (Tier 4, campaign site, independently verify claims)
+- [Mintz: Congress Passes Landmark PBM Reform in 2026 Spending Bill](https://www.mintz.com/insights-center/viewpoints/2146/2026-02-06-congress-passes-landmark-pbm-reform-2026-spending-bill) (Tier 3) (VERIFIED)
+- [Poulos for Massachusetts: How Pharmaceutical Industry Money Blocks Congressional Drug Price Reform](https://poulos.house/2026/01/17/pharmaceutical-money-blocks-drug-price-reform.html) (VERIFIED) (Tier 4, campaign site, independently verify claims)
 
 ---
 
@@ -120,8 +120,8 @@ known-gaps:
 **Vault relevance:** Background context for any Dark Money analysis. The gap between DISCLOSE Act co-sponsorship and actual dark money behavior is a potential Contradiction Deep Dive.
 
 ### Sources:
-- [Rep. Mullin: Reintroduces Bill to End Dark Money in American Elections](https://kevinmullin.house.gov/2026/03/06/rep-mullin-reintroduces-bill-to-end-dark-money-in-american-elections/) (Tier 3)
-- [Congress.gov: H.R.2498 - End Dark Money Act](https://www.congress.gov/bill/119th-congress/house-bill/2498/all-info) (Tier 1)
+- [Rep. Mullin: Reintroduces Bill to End Dark Money in American Elections](https://kevinmullin.house.gov/2026/03/06/rep-mullin-reintroduces-bill-to-end-dark-money-in-american-elections/) (Tier 3) (VERIFIED)
+- [Congress.gov: H.R.2498 - End Dark Money Act](https://www.congress.gov/bill/119th-congress/house-bill/2498/all-info) (Tier 1) (VERIFIED)
 
 ---
 

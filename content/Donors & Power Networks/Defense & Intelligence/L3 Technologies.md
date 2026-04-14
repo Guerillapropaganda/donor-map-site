@@ -109,9 +109,9 @@ L3 Technologies exemplifies how defense contractors operate within military-indu
 
 ### Sources
 
-- [OpenSecrets: L3 Technologies lobbying and contributions](https://www.opensecrets.org/orgs/l3-technologies) (Tier 1)
-- [FEC Receipts: Defense sector political spending overview](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- [The Intercept: Surveillance and Border Security Contractors See Big Money in Donald Trump's Immigration Agenda](https://theintercept.com/2016/12/06/defense-companies-trump/) (Tier 2)
+- ~~[OpenSecrets: L3 Technologies lobbying and contributions](https://www.opensecrets.org/orgs/l3-technologies)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [FEC Receipts: Defense sector political spending overview](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
+- [The Intercept: Surveillance and Border Security Contractors See Big Money in Donald Trump's Immigration Agenda](https://theintercept.com/2016/12/06/defense-companies-trump/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -148,7 +148,7 @@ L3 Technologies exemplifies how defense contractors operate within military-indu
 | $0 | DEPT OF DEFENSE | 2025-06-18 |
 | $0 | DEPT OF DEFENSE | 2025-10-22 |
 
-- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=L3%20Technologies&page=1&index=opp) (Tier 1)
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=L3%20Technologies&page=1&index=opp) (Tier 1) (VERIFIED)
 <!-- auto:sam-contracts end -->
 
 ### Influence Network (Cross-Reference)
@@ -185,7 +185,7 @@ L3 Technologies exemplifies how defense contractors operate within military-indu
 | $265.3M | Department of Defense | DESIGN, DEVELOPMENT, TESTING, SYSTEM SUPPORT, AND PRODUCTION OF SUBMARINE PHOTONICS MASTS |
 | $262.9M | Department of Defense | ENHANCED NIGHT VISION GOGGLE - BINOCULAR PRODUCTION SYSTEMS DELIVERY ORDER 02 |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-L3%20Technologies) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-L3%20Technologies) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Federal Register Activity
@@ -197,15 +197,15 @@ L3 Technologies exemplifies how defense contractors operate within military-indu
 | Agencies | Antitrust Division, Defense Department, Justice Department |
 
 **Recent regulatory activity:**
-- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Naval Surface Technology & Innovation Consortium](https://www.federalregister.gov/documents/2026/02/23/2026-03539/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-naval-surface) (2026-02-23) — Justice Department
-- [Arms Sales Notification](https://www.federalregister.gov/documents/2024/11/27/2024-27774/arms-sales-notification) (2024-11-27) — Defense Department
-- [Arms Sales Notification](https://www.federalregister.gov/documents/2024/10/07/2024-23120/arms-sales-notification) (2024-10-07) — Defense Department
-- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-National Armaments Consortium](https://www.federalregister.gov/documents/2024/09/12/2024-20742/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-national-armaments) (2024-09-12) — Justice Department
-- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Training & Readiness Accelerator II](https://www.federalregister.gov/documents/2024/04/16/2024-07940/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-training-and) (2024-04-16) — Justice Department
-- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Maritime Sustainment and Technology Innovation Consortium](https://www.federalregister.gov/documents/2024/03/13/2024-05315/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-maritime-sustainment) (2024-03-13) — Justice Department
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Naval Surface Technology & Innovation Consortium](https://www.federalregister.gov/documents/2026/02/23/2026-03539/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-naval-surface) (VERIFIED) (2026-02-23) — Justice Department
+- ~~[Arms Sales Notification](https://www.federalregister.gov/documents/2024/11/27/2024-27774/arms-sales-notification)~~ (URL broken, archived by Ops) (2024-11-27) — Defense Department
+- ~~[Arms Sales Notification](https://www.federalregister.gov/documents/2024/10/07/2024-23120/arms-sales-notification)~~ (URL broken, archived by Ops) (2024-10-07) — Defense Department
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-National Armaments Consortium](https://www.federalregister.gov/documents/2024/09/12/2024-20742/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-national-armaments) (VERIFIED) (2024-09-12) — Justice Department
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Training & Readiness Accelerator II](https://www.federalregister.gov/documents/2024/04/16/2024-07940/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-training-and) (VERIFIED) (2024-04-16) — Justice Department
+- ~~[Notice Pursuant to the National Cooperative Research and Production Act of 1993-Maritime Sustainment and Technology Innovation Consortium](https://www.federalregister.gov/documents/2024/03/13/2024-05315/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-maritime-sustainment)~~ (URL broken, archived by Ops) (2024-03-13) — Justice Department
 - ... and 26 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22L3%20Technologies%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22L3%20Technologies%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### SEC Filing Activity
@@ -223,7 +223,7 @@ L3 Technologies exemplifies how defense contractors operate within military-indu
 - 2019-07-01 — **S-8 POS**: S-8 POS
 - 2019-07-01 — **S-8 POS**: S-8 POS
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22L3%20Technologies%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22L3%20Technologies%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### DOJ Press Releases
@@ -283,7 +283,7 @@ L3 Technologies exemplifies how defense contractors operate within military-indu
 | Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology) (541715) | $327.6M |
 | Other Aircraft Parts and Auxiliary Equipment Manufacturing (336413) | $220.1M |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 <!-- auto:usaspending-subawards pending-merge 2026-04-11 -->
@@ -361,7 +361,7 @@ L3 Technologies exemplifies how defense contractors operate within military-indu
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=L3%20Technologies) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=L3%20Technologies) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Federal Court Records (CourtListener)
@@ -380,7 +380,7 @@ L3 Technologies exemplifies how defense contractors operate within military-indu
 - Nathan Griffin v. Stellant Systems, Inc. (2025) — District Court, C.D. California
 - Appiah v. L3 Technologies (2025) — District Court, D. Utah
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22L3%20Technologies%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22L3%20Technologies%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### FTC Enforcement & Merger Review
@@ -398,16 +398,16 @@ L3 Technologies exemplifies how defense contractors operate within military-indu
 
 **Recent enforcement actions (historical):**
 
-- [Thermo Fisher / Life Technologies](http://www.ftc.gov/enforcement/cases-and-proceedings/cases/131-0134/thermo-fisher-scientific-inc) (2014-01-31) — Health Care � Medical Equipment/Devices
-- [General Dynamics OTS (Aerospace), inc. / SNC Technologies Inc.](http://www.ftc.gov/os/caselist/0610150/index.shtm) (2006-12-28) — Defense � Ammunitions
-- [General Electric Company / InVision Technologies](http://www.ftc.gov/os/caselist/0410106/0410106.shtm) (2004-09-15) — Defense � Equipment and Engineering Services
-- [Global Industries Technologies](http://www.ftc.gov/os/caselist/9810173.shtm) (1998-06-26) — Manufacturing � Industrial Goods
+- [Thermo Fisher / Life Technologies](http://www.ftc.gov/enforcement/cases-and-proceedings/cases/131-0134/thermo-fisher-scientific-inc) (NEEDS REVIEW) (2014-01-31) — Health Care � Medical Equipment/Devices
+- ~~[General Dynamics OTS (Aerospace), inc. / SNC Technologies Inc.](http://www.ftc.gov/os/caselist/0610150/index.shtm)~~ (URL broken, archived by Ops) (2006-12-28) — Defense � Ammunitions
+- [General Electric Company / InVision Technologies](http://www.ftc.gov/os/caselist/0410106/0410106.shtm) (NEEDS REVIEW) (2004-09-15) — Defense � Equipment and Engineering Services
+- [Global Industries Technologies](http://www.ftc.gov/os/caselist/9810173.shtm) (NEEDS REVIEW) (1998-06-26) — Manufacturing � Industrial Goods
 
 **Recent HSR merger filings (early terminations granted):**
 
-- [American Industrial Partners Capital Fund VI, LP → L3 Technologies, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20181272) (2018-05-29)
+- [American Industrial Partners Capital Fund VI, LP → L3 Technologies, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20181272) (VERIFIED) (2018-05-29)
 
-> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=L3%20Technologies).
+> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=L3%20Technologies) (VERIFIED).
 
-- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=L3%20Technologies) (Tier 1)
+- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=L3%20Technologies) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->

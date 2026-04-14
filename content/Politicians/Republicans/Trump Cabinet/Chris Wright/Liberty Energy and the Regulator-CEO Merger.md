@@ -72,6 +72,6 @@ The progression: from politicians who serve the industry → to an industry exec
 
 ### Sources
 
-- [E&E News: Details emerge on Wright's stock holdings, DOE firings](https://www.eenews.net/articles/details-emerge-on-wrights-stock-holdings-doe-firings/) (Tier 2)
-- [E&E News: 5 takeaways from Chris Wright's Hill visit](https://www.eenews.net/articles/5-takeaways-from-chris-wrights-hill-visit/) (Tier 2)
-- [E&E News: How Chris Wright is remaking the national labs](https://www.eenews.net/articles/how-chris-wright-is-remaking-the-national-labs/) (Tier 2)
+- [E&E News: Details emerge on Wright's stock holdings, DOE firings](https://www.eenews.net/articles/details-emerge-on-wrights-stock-holdings-doe-firings/) (Tier 2) (VERIFIED)
+- [E&E News: 5 takeaways from Chris Wright's Hill visit](https://www.eenews.net/articles/5-takeaways-from-chris-wrights-hill-visit/) (Tier 2) (VERIFIED)
+- [E&E News: How Chris Wright is remaking the national labs](https://www.eenews.net/articles/how-chris-wright-is-remaking-the-national-labs/) (Tier 2) (VERIFIED)

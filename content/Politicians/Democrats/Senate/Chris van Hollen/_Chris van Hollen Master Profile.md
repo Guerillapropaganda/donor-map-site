@@ -59,5 +59,5 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 | 02/17/2017 | GE | Sale | $15,001 - $50,000 | Self |
 | 02/17/2017 | T | Sale | $1,001 - $15,000 | Self |
 
-- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->

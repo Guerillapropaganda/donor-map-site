@@ -141,14 +141,14 @@ This is not editorial discretion. This is editorial control exercised by a polit
 
 ### Sources
 
-- [Vox/Recode: Crooked Media launch (Mar 2017)](https://www.vox.com/2017/3/15/14926278/crooked-media-pod-save-america-jon-favreau-tommy-vietor-jon-lovett-sxsw-recode-podcast) (Tier 2)
-- [Semafor: Soros building audio empire (Apr 2024)](https://www.semafor.com/article/04/07/2024/soros-fund-is-building-an-audio-empire) (Tier 2)
-- [Deadline: Hot Ones acquisition (Dec 2024)](https://deadline.com/2024/12/hot-ones-new-investment-1236201423/) (Tier 2)
-- [OpenSecrets: Crooked Media contributions (Org ID D000094217)](https://www.opensecrets.org/orgs/crooked-media/summary?id=D000094217) (Tier 1)
-- [Hot Take Swan Song statement (Dec 2022)](https://www.hottakepod.com/hot-take-swan-song/) (Tier 3 — primary source from hosts explaining cancellation)
-- [Wikipedia: Crooked Media](https://en.wikipedia.org/wiki/Crooked_Media) (Tier 3)
-- [Crooked Media official sponsors page](https://www.crooked.com/sponsors/) (Tier 3)
-- [NY Post: Progressive staff rebellion (Aug 2024)](https://nypost.com/2024/08/01/media/progressive-staffers-rebel-at-ex-obama-aides-media-empire/) (Tier 4 — partisan but documents internal tensions and WGA statement)
+- [Vox/Recode: Crooked Media launch (Mar 2017)](https://www.vox.com/2017/3/15/14926278/crooked-media-pod-save-america-jon-favreau-tommy-vietor-jon-lovett-sxsw-recode-podcast) (Tier 2) (VERIFIED)
+- [Semafor: Soros building audio empire (Apr 2024)](https://www.semafor.com/article/04/07/2024/soros-fund-is-building-an-audio-empire) (Tier 2) (VERIFIED)
+- [Deadline: Hot Ones acquisition (Dec 2024)](https://deadline.com/2024/12/hot-ones-new-investment-1236201423/) (Tier 2) (VERIFIED)
+- ~~[OpenSecrets: Crooked Media contributions (Org ID D000094217)](https://www.opensecrets.org/orgs/crooked-media/summary?id=D000094217)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Hot Take Swan Song statement (Dec 2022)](https://www.hottakepod.com/hot-take-swan-song/) (VERIFIED) (Tier 3 — primary source from hosts explaining cancellation)
+- [Wikipedia: Crooked Media](https://en.wikipedia.org/wiki/Crooked_Media) (Tier 3) (VERIFIED)
+- [Crooked Media official sponsors page](https://www.crooked.com/sponsors/) (Tier 3) (VERIFIED)
+- [NY Post: Progressive staff rebellion (Aug 2024)](https://nypost.com/2024/08/01/media/progressive-staffers-rebel-at-ex-obama-aides-media-empire/) (VERIFIED) (Tier 4 — partisan but documents internal tensions and WGA statement)
 
 ---
 

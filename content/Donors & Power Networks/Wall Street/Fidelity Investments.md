@@ -71,8 +71,8 @@ Fidelity exemplifies how supposedly consumer-friendly companies use political po
 
 ### Sources
 
-- [OpenSecrets: Fidelity PAC Profile](https://www.opensecrets.org/orgs/fidelity-investments/summary?id=D000000328) (Tier 1)
-- [SEC: Fidelity Digital Assets Custody Services](https://www.sec.gov/cgi-bin/browse-edgar?company=Fidelity%20Investments&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)
+- [OpenSecrets: Fidelity PAC Profile](https://www.opensecrets.org/orgs/fidelity-investments/summary?id=D000000328) (Tier 1) (VERIFIED)
+- [SEC: Fidelity Digital Assets Custody Services](https://www.sec.gov/cgi-bin/browse-edgar?company=Fidelity%20Investments&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1) (VERIFIED)
 
 ---
 
@@ -87,15 +87,15 @@ Fidelity exemplifies how supposedly consumer-friendly companies use political po
 | Agencies | Employee Benefits Security Administration, Labor Department, Securities and Exchange Commission |
 
 **Recent regulatory activity:**
-- [Joint Industry Plan; Notice of Filing of Amendment No. 1, and Order Instituting Proceedings To Determine Whether To Approve or Disapprove an Amendment to the National Market System Plan Regarding Consolidated Equity Market Data, as Modified by Amendment No. 1, To Adopt a Fee Schedule](https://www.federalregister.gov/documents/2026/04/03/2026-06463/joint-industry-plan-notice-of-filing-of-amendment-no-1-and-order-instituting-proceedings-to) (2026-04-03) — Securities and Exchange Commission
-- [Self-Regulatory Organizations; the Options Clearing Corporation; Order Granting Petition for Review and Scheduling Filing of Statements Concerning Order Granting Accelerated Approval of Proposed Rule Change, as Modified by Partial Amendment No. 1, by the Options Clearing Corporation Concerning Methodology To Allocate Clearing Fund Deposit Requirements Among Its Clearing Members To Better Align the Allocation With the Sizing of the Clearing Fund so Stress Based Risk Is Fairly Allotted to Market Participants That Expose OCC to Such Stress Risk](https://www.federalregister.gov/documents/2026/02/19/2026-03232/self-regulatory-organizations-the-options-clearing-corporation-order-granting-petition-for-review) (2026-02-19) — Securities and Exchange Commission
-- [Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Reflect an Amendment to the Application and Exemptive Order Governing the Fidelity Women's Leadership ETF and Fidelity Sustainability U.S. Equity ETF](https://www.federalregister.gov/documents/2025/04/14/2025-06252/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-and-immediate-effectiveness-of-proposed) (2025-04-14) — Securities and Exchange Commission
-- [Joint Industry Plan; Order Approving, as Modified, a National Market System Plan Regarding Consolidated Equity Market Data](https://www.federalregister.gov/documents/2024/11/29/2024-27644/joint-industry-plan-order-approving-as-modified-a-national-market-system-plan-regarding-consolidated) (2024-11-29) — Securities and Exchange Commission
-- [Form N-PORT and Form N-CEN Reporting; Guidance on Open-End Fund Liquidity Risk Management Programs](https://www.federalregister.gov/documents/2024/09/11/2024-19819/form-n-port-and-form-n-cen-reporting-guidance-on-open-end-fund-liquidity-risk-management-programs) (2024-09-11) — Securities and Exchange Commission
-- [The Enhancement and Standardization of Climate-Related Disclosures for Investors](https://www.federalregister.gov/documents/2024/03/28/2024-05137/the-enhancement-and-standardization-of-climate-related-disclosures-for-investors) (2024-03-28) — Securities and Exchange Commission
+- [Joint Industry Plan; Notice of Filing of Amendment No. 1, and Order Instituting Proceedings To Determine Whether To Approve or Disapprove an Amendment to the National Market System Plan Regarding Consolidated Equity Market Data, as Modified by Amendment No. 1, To Adopt a Fee Schedule](https://www.federalregister.gov/documents/2026/04/03/2026-06463/joint-industry-plan-notice-of-filing-of-amendment-no-1-and-order-instituting-proceedings-to) (VERIFIED) (2026-04-03) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; the Options Clearing Corporation; Order Granting Petition for Review and Scheduling Filing of Statements Concerning Order Granting Accelerated Approval of Proposed Rule Change, as Modified by Partial Amendment No. 1, by the Options Clearing Corporation Concerning Methodology To Allocate Clearing Fund Deposit Requirements Among Its Clearing Members To Better Align the Allocation With the Sizing of the Clearing Fund so Stress Based Risk Is Fairly Allotted to Market Participants That Expose OCC to Such Stress Risk](https://www.federalregister.gov/documents/2026/02/19/2026-03232/self-regulatory-organizations-the-options-clearing-corporation-order-granting-petition-for-review) (VERIFIED) (2026-02-19) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Reflect an Amendment to the Application and Exemptive Order Governing the Fidelity Women's Leadership ETF and Fidelity Sustainability U.S. Equity ETF](https://www.federalregister.gov/documents/2025/04/14/2025-06252/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-and-immediate-effectiveness-of-proposed) (VERIFIED) (2025-04-14) — Securities and Exchange Commission
+- [Joint Industry Plan; Order Approving, as Modified, a National Market System Plan Regarding Consolidated Equity Market Data](https://www.federalregister.gov/documents/2024/11/29/2024-27644/joint-industry-plan-order-approving-as-modified-a-national-market-system-plan-regarding-consolidated) (VERIFIED) (2024-11-29) — Securities and Exchange Commission
+- [Form N-PORT and Form N-CEN Reporting; Guidance on Open-End Fund Liquidity Risk Management Programs](https://www.federalregister.gov/documents/2024/09/11/2024-19819/form-n-port-and-form-n-cen-reporting-guidance-on-open-end-fund-liquidity-risk-management-programs) (VERIFIED) (2024-09-11) — Securities and Exchange Commission
+- [The Enhancement and Standardization of Climate-Related Disclosures for Investors](https://www.federalregister.gov/documents/2024/03/28/2024-05137/the-enhancement-and-standardization-of-climate-related-disclosures-for-investors) (VERIFIED) (2024-03-28) — Securities and Exchange Commission
 - ... and 176 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Fidelity%20Investments%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Fidelity%20Investments%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -108,8 +108,8 @@ Fidelity exemplifies how supposedly consumer-friendly companies use political po
 | Total Expenses | $10.5B |
 | Net Assets | $56.7B |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 110303001](https://projects.propublica.org/nonprofits/organizations/110303001) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F110303001_202306_990_2024120622932373.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 110303001](https://projects.propublica.org/nonprofits/organizations/110303001) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F110303001_202306_990_2024120622932373.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Tax Filings (IRS 990)
@@ -127,14 +127,14 @@ Fidelity exemplifies how supposedly consumer-friendly companies use political po
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/110303001/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/110303001/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/110303001/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/110303001/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/110303001/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/110303001/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/110303001/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/110303001/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/110303001/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/110303001/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/110303001) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/110303001) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Vehicle Safety (NHTSA)
@@ -152,7 +152,7 @@ Fidelity exemplifies how supposedly consumer-friendly companies use political po
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Fidelity%20Investments) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Fidelity%20Investments) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Federal Court Records (CourtListener)
@@ -171,14 +171,14 @@ Fidelity exemplifies how supposedly consumer-friendly companies use political po
 - Ding v. Fidelity Investments (2026) — District Court, E.D. Michigan
 - Kvek v. Cushman & Wakefield US Inc (2026) — District Court, W.D. Washington
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Fidelity%20Investments%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Fidelity%20Investments%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [549300N8042Y2BO9SS82](https://search.gleif.org/#/record/549300N8042Y2BO9SS82) |
+| LEI | [549300N8042Y2BO9SS82](https://search.gleif.org/#/record/549300N8042Y2BO9SS82) (VERIFIED) |
 | Legal Name | FIDELITY INVESTMENTS CANADA ULC |
 | Jurisdiction | CA-AB |
 | Entity Status | ACTIVE |
@@ -188,9 +188,9 @@ Fidelity exemplifies how supposedly consumer-friendly companies use political po
 
 **Ownership chain:**
 
-- Ultimate Parent: [483A Bay Street Holdings LP](https://search.gleif.org/#/record/549300JXX7K6ZOP6RG83) (BM)
-- Direct Parent: [FIDELITY CANADA HOLDINGS (UK) LIMITED](https://search.gleif.org/#/record/254900BVJKQKFIHJEE38) (GB)
+- Ultimate Parent: [483A Bay Street Holdings LP](https://search.gleif.org/#/record/549300JXX7K6ZOP6RG83) (VERIFIED) (BM)
+- Direct Parent: [FIDELITY CANADA HOLDINGS (UK) LIMITED](https://search.gleif.org/#/record/254900BVJKQKFIHJEE38) (VERIFIED) (GB)
 - FIDELITY INVESTMENTS CANADA ULC (this entity)
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->

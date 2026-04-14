@@ -105,18 +105,18 @@ Full California analysis in [[Chevron]] and [[Fracking and Oil Permits - Green B
 
 ### Sources
 
-- [Yale Climate Connections: $219M total fossil fuel election spending](https://yaleclimateconnections.org/2025/01/the-fossil-fuel-industry-spent-219-million-to-elect-the-new-u-s-government/) (Tier 2)
-- [Global Witness: $19M fossil fuel inaugural donations](https://globalwitness.org/en/campaigns/fossil-fuels/fossil-fuel-donors-contributed-19-million-to-donald-trumps-inaugural-fund/) (Tier 2)
-- [Washington Post: Harold Hamm and oil donor Trump PAC spending](https://www.washingtonpost.com/politics/2024/08/13/oil-donors-trump-pac-harold-hamm-election/) (Tier 2)
-- [Rolling Stone: Tim Dunn Texas oil billionaire Trump donor](https://www.rollingstone.com/politics/politics-features/tim-dunn-texas-oil-billionaire-trump-donor-1235033143/) (Tier 2)
-- [TIME: Koch network vs. Trump 2024](https://time.com/7018266/trump-republicans-koch-network-2024/) (Tier 2)
-- [CNN: Trump repeals EPA endangerment finding](https://www.cnn.com/2026/02/12/climate/trump-repeals-epa-endangerment-finding) (Tier 2)
-- [NPR: Trump EPA endangerment finding repeal](https://www.npr.org/2026/02/11/nx-s1-5678273/trump-epa-climate-change-endangerment) (Tier 2)
-- [EPA: Largest deregulatory action press release](https://www.epa.gov/newsreleases/president-trump-and-administrator-zeldin-deliver-single-largest-deregulatory-action-us) (Tier 1)
-- [NPR: Trump Alaska wildlife refuge oil gas drilling](https://www.npr.org/2025/10/24/nx-s1-5584883/trump-alaska-wildlife-refuge-oil-gas-drilling) (Tier 2)
-- [NPR: Trump Paris Agreement withdrawal](https://www.npr.org/2025/01/21/nx-s1-5266207/trump-paris-agreement-biden-climate-change) (Tier 2)
-- [OpenSecrets: Chevron recipient profile](https://www.opensecrets.org/orgs/chevron/recipients?id=D000000015) (Tier 1)
-- [KQED: Chevron gave $1M+ to election objectors](https://www.kqed.org/news/11856920/chevron-gave-more-than-a-million-dollars-to-lawmakers-who-voted-to-overturn-the-presidential-election) (Tier 2)
+- [Yale Climate Connections: $219M total fossil fuel election spending](https://yaleclimateconnections.org/2025/01/the-fossil-fuel-industry-spent-219-million-to-elect-the-new-u-s-government/) (Tier 2) (VERIFIED)
+- [Global Witness: $19M fossil fuel inaugural donations](https://globalwitness.org/en/campaigns/fossil-fuels/fossil-fuel-donors-contributed-19-million-to-donald-trumps-inaugural-fund/) (Tier 2) (VERIFIED)
+- ~~[Washington Post: Harold Hamm and oil donor Trump PAC spending](https://www.washingtonpost.com/politics/2024/08/13/oil-donors-trump-pac-harold-hamm-election/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Rolling Stone: Tim Dunn Texas oil billionaire Trump donor](https://www.rollingstone.com/politics/politics-features/tim-dunn-texas-oil-billionaire-trump-donor-1235033143/) (Tier 2) (VERIFIED)
+- ~~[TIME: Koch network vs. Trump 2024](https://time.com/7018266/trump-republicans-koch-network-2024/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [CNN: Trump repeals EPA endangerment finding](https://www.cnn.com/2026/02/12/climate/trump-repeals-epa-endangerment-finding) (Tier 2) (VERIFIED)
+- [NPR: Trump EPA endangerment finding repeal](https://www.npr.org/2026/02/11/nx-s1-5678273/trump-epa-climate-change-endangerment) (Tier 2) (VERIFIED)
+- [EPA: Largest deregulatory action press release](https://www.epa.gov/newsreleases/president-trump-and-administrator-zeldin-deliver-single-largest-deregulatory-action-us) (Tier 1) (VERIFIED)
+- [NPR: Trump Alaska wildlife refuge oil gas drilling](https://www.npr.org/2025/10/24/nx-s1-5584883/trump-alaska-wildlife-refuge-oil-gas-drilling) (Tier 2) (VERIFIED)
+- [NPR: Trump Paris Agreement withdrawal](https://www.npr.org/2025/01/21/nx-s1-5266207/trump-paris-agreement-biden-climate-change) (Tier 2) (VERIFIED)
+- [OpenSecrets: Chevron recipient profile](https://www.opensecrets.org/orgs/chevron/recipients?id=D000000015) (Tier 1) (VERIFIED)
+- [KQED: Chevron gave $1M+ to election objectors](https://www.kqed.org/news/11856920/chevron-gave-more-than-a-million-dollars-to-lawmakers-who-voted-to-overturn-the-presidential-election) (Tier 2) (VERIFIED)
 
 ---
 
@@ -133,9 +133,9 @@ The February 28, 2026 US-Israel strikes on Iran and the subsequent Strait of Hor
 - Chevron: +4.2%
 - ConocoPhillips: +5.1%
 - Occidental Petroleum: +6.3%
-- All-time high stock values reported across the sector ([Fortune](https://fortune.com/sector/energy/), Tier 2)
+- All-time high stock values reported across the sector (~~[Fortune](https://fortune.com/sector/energy/)~~ (URL broken, archived by Ops), Tier 2)
 
-**The Hormuz factor:** The Dallas Federal Reserve estimated that sustained Hormuz disruption produces 3.3% global inflation and 2.1% GDP contraction ([Dallas Fed](https://www.dallasfed.org/research/economics/2026/0320), Tier 1). Fertilizer prices spiked 50%+ due to petrochemical supply chain disruption. 800 million people in the global South face heightened food insecurity from the resulting agricultural cost increase.
+**The Hormuz factor:** The Dallas Federal Reserve estimated that sustained Hormuz disruption produces 3.3% global inflation and 2.1% GDP contraction ([Dallas Fed](https://www.dallasfed.org/research/economics/2026/0320) (VERIFIED), Tier 1). Fertilizer prices spiked 50%+ due to petrochemical supply chain disruption. 800 million people in the global South face heightened food insecurity from the resulting agricultural cost increase.
 
 > [!money] Who pays for the windfall
 > The fossil fuel price spike is experienced differently by different classes. The donor class sees it on balance sheets — revenue up, costs flat, margins expanding. Working families see it at the pump, in grocery bills (food production is petroleum-dependent), and in heating costs. The same event that produces $35-40B in excess profit for five companies produces a 30-40% increase in energy costs for families spending 10%+ of income on fuel. The war premium is a wealth transfer from the bottom to the top, intermediated by the Strait of Hormuz.
@@ -143,7 +143,7 @@ The February 28, 2026 US-Israel strikes on Iran and the subsequent Strait of Hor
 **The three-constituency convergence:** The Iran war is the rare event where all three major Republican donor blocs profit simultaneously: defense contractors (33,000-to-1 ROI on $200B supplemental), fossil fuel majors (160-to-1 ROI from Hormuz disruption), and the Israel lobby (fourth Adelson pipeline deliverable — geopolitical conditions for West Bank annexation). See [[The Iran War Money Trail - From Adelson to Airstrikes]] for the full convergence analysis.
 
 ### Sources — Iran war windfall:
-- [Dallas Fed: Strait of Hormuz Economic Impact](https://www.dallasfed.org/research/economics/2026/0320) (Tier 1)
+- [Dallas Fed: Strait of Hormuz Economic Impact](https://www.dallasfed.org/research/economics/2026/0320) (Tier 1) (VERIFIED)
 
 ---
 
@@ -173,7 +173,7 @@ The February 28, 2026 US-Israel strikes on Iran and the subsequent Strait of Hor
 |------------------|--------|--------|
 | Unknown | $1009778941.6B | 50 |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Fossil%20Fuel%20Bloc) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Fossil%20Fuel%20Bloc) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Influence Network (Cross-Reference)

@@ -150,18 +150,18 @@ Graves brands himself as a Missouri farmer and small-government conservative. He
 
 ## Sources
 
-- [FEC Candidate: Sam Graves donor profile](https://www.fec.gov/data/candidate/H0MO06073/) (Tier 1)
-- [FEC Candidate: Sam Graves industry donors](https://www.fec.gov/data/candidate/H0MO06073/) (Tier 1)
-- [OpenSecrets: Sam Graves net worth](https://www.opensecrets.org/personal-finances/sam-graves/net-worth?cid=N00013323) (Tier 1)
-- [Congress.gov: Sam Graves](https://www.congress.gov/member/sam-graves/G000546) (Tier 1)
-- [House Transportation Committee: Chairman Sam Graves](https://transportation.house.gov/about/ranking-member-sam-graves/) (Tier 1)
-- [OCE: Referral regarding Rep. Sam Graves](https://conduct.house.gov/reports/investigations/oce-referral-regarding-representative-graves) (Tier 1)
-- [House Ethics Committee: Report on Sam Graves (111th Congress)](https://www.govinfo.gov/content/pkg/CRPT-111hrpt320/html/CRPT-111hrpt320.htm) (Tier 1)
-- [Roll Call: Graves plans aggressive oversight as transportation panel chairman](https://rollcall.com/2022/11/28/graves-plans-aggressive-oversight-as-transportation-panel-chairman/) (Tier 2)
-- [Transport Topics: Sam Graves Tapped Again for Key Infrastructure Role](https://www.ttnews.com/articles/sam-graves-tapped-again) (Tier 2)
-- [NAM: Q&A Rep. Graves on Infrastructure and Transportation](https://nam.org/qa-rep-graves-on-infrastructure-and-transportation-35904/) (Tier 2)
-- [Ballotpedia: Sam Graves](https://ballotpedia.org/Sam_Graves) (Tier 3)
-- [Wikipedia: Sam Graves](https://en.wikipedia.org/wiki/Sam_Graves) (Tier 3)
+- [FEC Candidate: Sam Graves donor profile](https://www.fec.gov/data/candidate/H0MO06073/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Sam Graves industry donors](https://www.fec.gov/data/candidate/H0MO06073/) (Tier 1) (VERIFIED)
+- [OpenSecrets: Sam Graves net worth](https://www.opensecrets.org/personal-finances/sam-graves/net-worth?cid=N00013323) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: Sam Graves](https://www.congress.gov/member/sam-graves/G000546)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [House Transportation Committee: Chairman Sam Graves](https://transportation.house.gov/about/ranking-member-sam-graves/) (Tier 1) (VERIFIED)
+- [OCE: Referral regarding Rep. Sam Graves](https://conduct.house.gov/reports/investigations/oce-referral-regarding-representative-graves) (Tier 1) (VERIFIED)
+- [House Ethics Committee: Report on Sam Graves (111th Congress)](https://www.govinfo.gov/content/pkg/CRPT-111hrpt320/html/CRPT-111hrpt320.htm) (Tier 1) (VERIFIED)
+- [Roll Call: Graves plans aggressive oversight as transportation panel chairman](https://rollcall.com/2022/11/28/graves-plans-aggressive-oversight-as-transportation-panel-chairman/) (Tier 2) (VERIFIED)
+- [Transport Topics: Sam Graves Tapped Again for Key Infrastructure Role](https://www.ttnews.com/articles/sam-graves-tapped-again) (Tier 2) (VERIFIED)
+- [NAM: Q&A Rep. Graves on Infrastructure and Transportation](https://nam.org/qa-rep-graves-on-infrastructure-and-transportation-35904/) (Tier 2) (VERIFIED)
+- [Ballotpedia: Sam Graves](https://ballotpedia.org/Sam_Graves) (Tier 3) (VERIFIED)
+- [Wikipedia: Sam Graves](https://en.wikipedia.org/wiki/Sam_Graves) (Tier 3) (VERIFIED)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -195,5 +195,5 @@ Graves brands himself as a Missouri farmer and small-government conservative. He
 | NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE | $41,300 | $0 |
 | ASSOCIATED GENERAL CONTRACTORS OF AMERICA POLITICAL ACTION COMMITTEE | $21,628 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0MO06073/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0MO06073/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->

@@ -26,7 +26,7 @@ Beyond media, Hannity has built an undisclosed real estate empire worth an estim
 
 No FEC individual contributions found. Sean Hannity has made zero federal political contributions despite earning $45M+ annually and having direct access to the White House (documented through 82 Meadows texts). The $0 FEC record is analytically significant: Hannity influences politics through institutional media access and real estate empire, not through traceable campaign contributions.
 
-- [FEC: Sean Hannity individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=HANNITY%2C+SEAN) (Tier 1)
+- [FEC: Sean Hannity individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=HANNITY%2C+SEAN) (Tier 1) (VERIFIED)
 
 > **Note on API results:** The FEC API search for "hannity, sean" returns zero results across all variations. No contributions on record for the Fox News host. The absence is the data point: Hannity's political influence operates entirely through media institutional access and personal financial interests (real estate), not through trackable federal campaign contributions.
 
@@ -126,18 +126,18 @@ Hannity is the purest institutional media product in this vault, the Fox News eq
 
 ### Sources
 
-- [The Guardian: Michael Cohen case shines light on Sean Hannity's property empire](https://www.theguardian.com/media/2018/apr/22/michael-cohen-sean-hannity-property-real-estate-ben-carson-hud) (Tier 2) (Chrome verified 2026-03-26)
-- [NPR: Sean Hannity's Real Estate Portfolio Raises Journalism Ethics Questions](https://www.npr.org/2018/04/24/605176125/sean-hannitys-real-estate-portfolio-raises-journalism-ethics-questions) (Tier 2) (Chrome verified 2026-03-26)
-- [Vanity Fair: Will Sean Hannity's Secret Real-Estate Empire Get Him in Trouble at Fox?](https://www.vanityfair.com/news/2018/04/sean-hannitys-sketchy-real-estate-empire-get-him-in-trouble-at-fox-news) (Tier 2) (Chrome verified 2026-03-26)
-- [BBC: Sean Hannity unmasked as Trump lawyer's mystery client](https://www.bbc.com/news/world-us-canada-43791164) (Tier 2) (Chrome verified 2026-03-26)
-- [CNN: READ, 82 texts between Sean Hannity and Mark Meadows](https://www.cnn.com/2022/04/29/politics/mm-sh-texts/index.html) (Tier 2) (Chrome verified 2026-03-26)
-- [PBS: Jan. 6 panel requests interview with Fox News host Sean Hannity](https://www.pbs.org/newshour/politics/jan-6-panel-requests-interview-with-fox-news-host-sean-hannity) (Tier 2) (Chrome verified 2026-03-26)
+- [The Guardian: Michael Cohen case shines light on Sean Hannity's property empire](https://www.theguardian.com/media/2018/apr/22/michael-cohen-sean-hannity-property-real-estate-ben-carson-hud) (Tier 2) (VERIFIED) (Chrome verified 2026-03-26)
+- [NPR: Sean Hannity's Real Estate Portfolio Raises Journalism Ethics Questions](https://www.npr.org/2018/04/24/605176125/sean-hannitys-real-estate-portfolio-raises-journalism-ethics-questions) (Tier 2) (VERIFIED) (Chrome verified 2026-03-26)
+- [Vanity Fair: Will Sean Hannity's Secret Real-Estate Empire Get Him in Trouble at Fox?](https://www.vanityfair.com/news/2018/04/sean-hannitys-sketchy-real-estate-empire-get-him-in-trouble-at-fox-news) (Tier 2) (VERIFIED) (Chrome verified 2026-03-26)
+- [BBC: Sean Hannity unmasked as Trump lawyer's mystery client](https://www.bbc.com/news/world-us-canada-43791164) (Tier 2) (VERIFIED) (Chrome verified 2026-03-26)
+- [CNN: READ, 82 texts between Sean Hannity and Mark Meadows](https://www.cnn.com/2022/04/29/politics/mm-sh-texts/index.html) (Tier 2) (VERIFIED) (Chrome verified 2026-03-26)
+- [PBS: Jan. 6 panel requests interview with Fox News host Sean Hannity](https://www.pbs.org/newshour/politics/jan-6-panel-requests-interview-with-fox-news-host-sean-hannity) (Tier 2) (VERIFIED) (Chrome verified 2026-03-26)
 - [FEC: Sean Hannity individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=HANNITY%2C+SEAN) (Tier 1)
-- [Forbes: The Highest-Paid TV Hosts Of 2025](https://www.forbes.com/sites/mattcraig/2025/09/12/the-highest-paid-tv-hosts-of-2025/) (Tier 3) (Chrome verified 2026-03-26)
-- [Celebrity Net Worth: Sean Hannity Net Worth](https://www.celebritynetworth.com/richest-politicians/republicans/sean-hannity-net-worth/) (Tier 3) (Chrome verified 2026-03-26)
-- [The Ankler: CNN Star Salary 'Beheadings', 'Take It or Leave It'](https://theankler.com/p/cnn-star-salary-beheadings-chris-wallace-wolf-blitzer-jake-tapper) (Tier 2) (Chrome verified 2026-03-27), industry comparison: Hannity's $25M Fox salary is untouched while CNN slashes anchor pay
-- [Fox News: Sean Hannity and Ainsley Earhardt Engaged](https://www.foxnews.com/media/sean-hannity-ainsley-earhardt-engaged) (Tier 4) (Chrome verified 2026-03-27), self-reported engagement announcement; Trump congratulated on Truth Social
-- [Washington Post: Fox News, Dominion settle defamation lawsuit for $787.5 million](https://www.washingtonpost.com/media/2023/04/18/fox-news-dominion-settlement/) (Tier 2) (Chrome verified 2026-03-27). Dominion settlement; discovery texts revealed Hannity's private election fraud skepticism alongside Carlson/Ingraham
+- ~~[Forbes: The Highest-Paid TV Hosts Of 2025](https://www.forbes.com/sites/mattcraig/2025/09/12/the-highest-paid-tv-hosts-of-2025/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3) (Chrome verified 2026-03-26)
+- [Celebrity Net Worth: Sean Hannity Net Worth](https://www.celebritynetworth.com/richest-politicians/republicans/sean-hannity-net-worth/) (Tier 3) (VERIFIED) (Chrome verified 2026-03-26)
+- [The Ankler: CNN Star Salary 'Beheadings', 'Take It or Leave It'](https://theankler.com/p/cnn-star-salary-beheadings-chris-wallace-wolf-blitzer-jake-tapper) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27), industry comparison: Hannity's $25M Fox salary is untouched while CNN slashes anchor pay
+- [Fox News: Sean Hannity and Ainsley Earhardt Engaged](https://www.foxnews.com/media/sean-hannity-ainsley-earhardt-engaged) (Tier 4) (VERIFIED) (Chrome verified 2026-03-27), self-reported engagement announcement; Trump congratulated on Truth Social
+- [Washington Post: Fox News, Dominion settle defamation lawsuit for $787.5 million](https://www.washingtonpost.com/media/2023/04/18/fox-news-dominion-settlement/) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27). Dominion settlement; discovery texts revealed Hannity's private election fraud skepticism alongside Carlson/Ingraham
 
 > **Technical note:** The FEC API link returns raw JSON from the FEC government database. Sean Hannity shows zero federal political contributions, a $0 FEC record from a $45M/year earner with direct access to the White House and $90M in real estate held through shell companies. The absence is the data point: Hannity influences politics through media access, not through traceable donations.
 

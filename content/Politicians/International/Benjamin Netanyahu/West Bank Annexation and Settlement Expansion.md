@@ -90,5 +90,5 @@ Abraham Accords opened markets in Saudi Arabia, UAE, and Bahrain for Israeli sur
 
 ### Sources
 
-- [Peace Now — 2025 settlement statistics](https://peacenow.org.il/en/) (Tier 2)
+- [Peace Now — 2025 settlement statistics](https://peacenow.org.il/en/) (Tier 2) (VERIFIED)
 

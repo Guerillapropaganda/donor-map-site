@@ -49,7 +49,7 @@ audit-a-plus-passed: "2026-04-11"
 
 National Education Association (NEA). The largest labor union in the United States (3 million members), representing public school teachers, education support professionals, and higher education faculty. NEA's political operation is one of the most powerful in Democratic politics: $50-80 million per cycle in political spending, with contributions flowing almost exclusively to Democrats. NEA's state affiliates (including the California Teachers Association, the most powerful political spender in California politics) add hundreds of millions more at the state level.
 
-- [OpenSecrets: NEA organizational profile](https://www.opensecrets.org/orgs/national-education-assn/summary?id=D000000064) (Tier 1)
+- [OpenSecrets: NEA organizational profile](https://www.opensecrets.org/orgs/national-education-assn/summary?id=D000000064) (Tier 1) (VERIFIED)
 
 ---
 
@@ -73,8 +73,8 @@ Increased public school funding, opposition to school vouchers and charter schoo
 ### Sources
 
 - [OpenSecrets: NEA organizational profile](https://www.opensecrets.org/orgs/national-education-assn/summary?id=D000000064) (Tier 1)
-- [DOL: NEA LM-2 financial disclosures](https://www.dol.gov/agencies/olms) (Tier 1)
-- [Ballotpedia: NEA](https://ballotpedia.org/National_Education_Association) (Tier 3)
+- [DOL: NEA LM-2 financial disclosures](https://www.dol.gov/agencies/olms) (Tier 1) (VERIFIED)
+- [Ballotpedia: NEA](https://ballotpedia.org/National_Education_Association) (Tier 3) (VERIFIED)
 
 ---
 
@@ -112,7 +112,7 @@ Increased public school funding, opposition to school vouchers and charter schoo
 | PRESIDENTIAL INAUGURAL COMMITTEE 2013 | $250,000 | — |
 | COMMITTEE FOR CHARLOTTE/CHARLOTTE DNC HOST COMMITTEE | $250,000 | DEM |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=National%20Education%20Association) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=National%20Education%20Association) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### SEC Filing Activity
@@ -126,20 +126,20 @@ Increased public school funding, opposition to school vouchers and charter schoo
 
 **Notable filings:**
 
-- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000170684326000001/0001706843-26-000001-index.htm)
-- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000201763326000001/0002017633-26-000001-index.htm)
-- 2026-04-01 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000162582426000002/0001625824-26-000002-index.htm)
-- 2026-04-01 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000181702526000001/0001817025-26-000001-index.htm)
-- 2026-04-01 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000173846026000002/0001738460-26-000002-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000170684326000001/0001706843-26-000001-index.htm) (VERIFIED)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000201763326000001/0002017633-26-000001-index.htm) (VERIFIED)
+- 2026-04-01 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000162582426000002/0001625824-26-000002-index.htm) (VERIFIED)
+- 2026-04-01 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000181702526000001/0001817025-26-000001-index.htm) (VERIFIED)
+- 2026-04-01 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000173846026000002/0001738460-26-000002-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22National%20Education%20Association%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22National%20Education%20Association%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [549300HK4YWG61O0MF87](https://search.gleif.org/#/record/549300HK4YWG61O0MF87) |
+| LEI | [549300HK4YWG61O0MF87](https://search.gleif.org/#/record/549300HK4YWG61O0MF87) (VERIFIED) |
 | Legal Name | EMPLOYEES' RETIREMENT PLAN OF THE NATIONAL EDUCATION ASSOCIATION |
 | Jurisdiction | US-DC |
 | Entity Status | ACTIVE |
@@ -147,7 +147,7 @@ Increased public school funding, opposition to school vouchers and charter schoo
 | Registration | LAPSED |
 | Last Updated | 2024-05-06T13:30:05Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Federal Register Activity
@@ -162,13 +162,13 @@ Increased public school funding, opposition to school vouchers and charter schoo
 | Agencies | Agriculture Department, Civil Rights Commission, Defense Department, Education Department, Employee Benefits Security Administration, Federal Motor Carrier Safety Administration, Food and Nutrition Service, Labor Department +6 more |
 
 **Recent regulatory activity:**
-- [Restoring Integrity to the Issuance of Non-Domiciled Commercial Drivers Licenses (CDL)](https://www.federalregister.gov/documents/2026/02/13/2026-02965/restoring-integrity-to-the-issuance-of-non-domiciled-commercial-drivers-licenses-cdl) (2026-02-13) — Transportation Department
-- [Indian Education Discretionary Grant Programs; Professional Development Program](https://www.federalregister.gov/documents/2024/07/29/2024-16206/indian-education-discretionary-grant-programs-professional-development-program) (2024-07-29) — Education Department
-- [Defining and Delimiting the Exemptions for Executive, Administrative, Professional, Outside Sales, and Computer Employees](https://www.federalregister.gov/documents/2024/04/26/2024-08038/defining-and-delimiting-the-exemptions-for-executive-administrative-professional-outside-sales-and) (2024-04-26) — Labor Department
-- [Private Fund Advisers; Documentation of Registered Investment Adviser Compliance Reviews](https://www.federalregister.gov/documents/2023/09/14/2023-18660/private-fund-advisers-documentation-of-registered-investment-adviser-compliance-reviews) (2023-09-14) — Securities and Exchange Commission
-- [Proposed Priority and Definitions-State Personnel Development Grants](https://www.federalregister.gov/documents/2020/04/24/2020-08554/proposed-priority-and-definitions-state-personnel-development-grants) (2020-04-24) — Education Department
-- [Proposed Priorities, Requirements, Definition, and Selection Criteria-Education Innovation and Research- Teacher-Directed Professional Learning Experiences](https://www.federalregister.gov/documents/2020/04/13/2020-07753/proposed-priorities-requirements-definition-and-selection-criteria-education-innovation-and) (2020-04-13) — Education Department
+- [Restoring Integrity to the Issuance of Non-Domiciled Commercial Drivers Licenses (CDL)](https://www.federalregister.gov/documents/2026/02/13/2026-02965/restoring-integrity-to-the-issuance-of-non-domiciled-commercial-drivers-licenses-cdl) (VERIFIED) (2026-02-13) — Transportation Department
+- [Indian Education Discretionary Grant Programs; Professional Development Program](https://www.federalregister.gov/documents/2024/07/29/2024-16206/indian-education-discretionary-grant-programs-professional-development-program) (VERIFIED) (2024-07-29) — Education Department
+- [Defining and Delimiting the Exemptions for Executive, Administrative, Professional, Outside Sales, and Computer Employees](https://www.federalregister.gov/documents/2024/04/26/2024-08038/defining-and-delimiting-the-exemptions-for-executive-administrative-professional-outside-sales-and) (VERIFIED) (2024-04-26) — Labor Department
+- [Private Fund Advisers; Documentation of Registered Investment Adviser Compliance Reviews](https://www.federalregister.gov/documents/2023/09/14/2023-18660/private-fund-advisers-documentation-of-registered-investment-adviser-compliance-reviews) (VERIFIED) (2023-09-14) — Securities and Exchange Commission
+- [Proposed Priority and Definitions-State Personnel Development Grants](https://www.federalregister.gov/documents/2020/04/24/2020-08554/proposed-priority-and-definitions-state-personnel-development-grants) (VERIFIED) (2020-04-24) — Education Department
+- [Proposed Priorities, Requirements, Definition, and Selection Criteria-Education Innovation and Research- Teacher-Directed Professional Learning Experiences](https://www.federalregister.gov/documents/2020/04/13/2020-07753/proposed-priorities-requirements-definition-and-selection-criteria-education-innovation-and) (VERIFIED) (2020-04-13) — Education Department
 - ... and 51 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22National%20Education%20Association%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22National%20Education%20Association%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->

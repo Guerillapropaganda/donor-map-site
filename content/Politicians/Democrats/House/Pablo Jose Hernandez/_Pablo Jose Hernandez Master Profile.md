@@ -56,5 +56,5 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 - RODRIGUEZ HERNANDEZ, Jose Saul (individual) [ILLICIT-DRUGS-EO14059]
   - Remarks: DOB 05 Oct 1968; POB Oaxaca, Mexico; nationality Mexico; Gender Male; C.U.R.P. ROHS681005HOCDRL06 (Mexico).
 
-- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->

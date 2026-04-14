@@ -128,11 +128,11 @@ The losses flipped Senate control to Republicans. The $600+ million investment f
 
 ### Sources
 
-- [FEC: DSCC committee overview and financial filings (C00042366)](https://www.fec.gov/data/committee/C00042366/?cycle=2024) (Tier 1)
-- [OpenSecrets: DSCC fundraising overview 2024](https://www.opensecrets.org/political-parties/DSCC/2024/summary?name=democratic-senatorial-campaign-cmte) (Tier 1)
-- [OpenSecrets: DSCC top contributors 2024](https://www.opensecrets.org/political-parties/DSCC/2024/contributors?name=democratic-senatorial-campaign-cmte) (Tier 1)
-- [OpenSecrets: DSCC expenditures 2024](https://www.opensecrets.org/political-parties/DSCC/2024/expenditures?name=democratic-senatorial-campaign-cmte) (Tier 1)
-- [Ballotpedia: Democratic Senatorial Campaign Committee](https://ballotpedia.org/Democratic_Senatorial_Campaign_Committee) (Tier 3)
+- [FEC: DSCC committee overview and financial filings (C00042366)](https://www.fec.gov/data/committee/C00042366/?cycle=2024) (Tier 1) (VERIFIED)
+- [OpenSecrets: DSCC fundraising overview 2024](https://www.opensecrets.org/political-parties/DSCC/2024/summary?name=democratic-senatorial-campaign-cmte) (Tier 1) (VERIFIED)
+- [OpenSecrets: DSCC top contributors 2024](https://www.opensecrets.org/political-parties/DSCC/2024/contributors?name=democratic-senatorial-campaign-cmte) (Tier 1) (VERIFIED)
+- [OpenSecrets: DSCC expenditures 2024](https://www.opensecrets.org/political-parties/DSCC/2024/expenditures?name=democratic-senatorial-campaign-cmte) (Tier 1) (VERIFIED)
+- [Ballotpedia: Democratic Senatorial Campaign Committee](https://ballotpedia.org/Democratic_Senatorial_Campaign_Committee) (Tier 3) (VERIFIED)
 
 ---
 
@@ -159,5 +159,5 @@ The losses flipped Senate control to Republicans. The $600+ million investment f
 
 - 2015-01-08 — **EX-99.(P)(II)**: EX-99.(P)(II)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22DSCC%20-%20Democratic%20Senatorial%20Campaign%20Committee%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22DSCC%20-%20Democratic%20Senatorial%20Campaign%20Committee%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->

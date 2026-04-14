@@ -64,8 +64,8 @@ Amy Klobuchar. Democrat, Minnesota. Senator since 2007. Chair of the Judiciary S
 
 Minnesota's economy anchors her donor base: 3M, Cargill, General Mills, Medtronic, and UnitedHealth Group all headquartered in the state. Her constituency alignment is corporate-moderate — the professionals, agribusiness executives, and healthcare company employees who fund her campaigns are the same people she represents.
 
-- [FEC Candidate: Amy Klobuchar campaign finance summary](https://www.fec.gov/data/candidate/S6MN00267/) (Tier 1)
-- [Congress.gov: Amy Klobuchar member profile](https://www.congress.gov/member/amy-klobuchar/K000367) (Tier 1)
+- [FEC Candidate: Amy Klobuchar campaign finance summary](https://www.fec.gov/data/candidate/S6MN00267/) (Tier 1) (VERIFIED)
+- [Congress.gov: Amy Klobuchar member profile](https://www.congress.gov/member/amy-klobuchar/K000367) (Tier 1) (VERIFIED)
 
 ---
 
@@ -122,7 +122,7 @@ The smaller, less threatening bills pass easily. The Merger Filing Fee Moderniza
 
 Klobuchar's office has 18 documented revolving door staff movements since 2000 — the most in the Minnesota congressional delegation. The most notable: Anne Knapke, a registered lobbyist for Cargill (2011-2012), was hired as a legislative assistant in Klobuchar's office. Cargill is one of Minnesota's largest agribusiness corporations and a significant presence in Klobuchar's donor and constituent network. The Agriculture Committee seat and the Cargill lobbying pipeline run through the same office.
 
-- [LegiStorm: Klobuchar revolving door tracker](https://www.legistorm.com/pro/revolving_door_details/member_id/815/name/Amy_Klobuchar.html) (Tier 3)
+- [LegiStorm: Klobuchar revolving door tracker](https://www.legistorm.com/pro/revolving_door_details/member_id/815/name/Amy_Klobuchar.html) (Tier 3) (VERIFIED)
 
 ---
 
@@ -157,16 +157,16 @@ The legislative record is the class proof. The Merger Filing Fee Modernization A
 ## Sources
 
 - [FEC Candidate: Amy Klobuchar campaign finance summary](https://www.fec.gov/data/candidate/S6MN00267/) (Tier 1)
-- [FEC Candidate: Amy Klobuchar top industries](https://www.fec.gov/data/candidate/S6MN00267/) (Tier 1)
+- [FEC Candidate: Amy Klobuchar top industries](https://www.fec.gov/data/candidate/S6MN00267/) (Tier 1) (VERIFIED)
 - [Congress.gov: Amy Klobuchar member profile](https://www.congress.gov/member/amy-klobuchar/K000367) (Tier 1)
-- [Congress.gov: American Innovation and Choice Online Act](https://www.congress.gov/bill/117th-congress/senate-bill/2992) (Tier 1)
-- [Congress.gov: Merger Filing Fee Modernization Act](https://www.congress.gov/bill/117th-congress/senate-bill/228) (Tier 1)
-- [Washington Examiner: Big Tech spent $95M against Klobuchar antitrust bill](https://www.washingtonexaminer.com/news/490898/big-tech-spent-95-million-against-klobuchar-anti-big-tech-antitrust-bill/) (Tier 2)
-- [CNBC: Amazon donated to nonprofit that opposed antitrust bills](https://www.cnbc.com/2022/10/27/amazon-donated-to-nonprofit-that-opposed-new-antitrust-bills.html) (Tier 2)
-- [Fast Company: Klobuchar on the tech lobby's all-out war on antitrust legislation](https://www.fastcompany.com/90716074/amy-klobuchar-on-the-tech-lobbys-all-out-war-on-antitrust-legislation) (Tier 2)
-- [Center for Public Integrity: Amy Klobuchar 2020 campaign profile](https://publicintegrity.org/politics/elections/amy-klobuchar-2020-president-campaign-election/) (Tier 2)
+- ~~[Congress.gov: American Innovation and Choice Online Act](https://www.congress.gov/bill/117th-congress/senate-bill/2992)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Congress.gov: Merger Filing Fee Modernization Act](https://www.congress.gov/bill/117th-congress/senate-bill/228) (Tier 1) (VERIFIED)
+- [Washington Examiner: Big Tech spent $95M against Klobuchar antitrust bill](https://www.washingtonexaminer.com/news/490898/big-tech-spent-95-million-against-klobuchar-anti-big-tech-antitrust-bill/) (Tier 2) (VERIFIED)
+- [CNBC: Amazon donated to nonprofit that opposed antitrust bills](https://www.cnbc.com/2022/10/27/amazon-donated-to-nonprofit-that-opposed-new-antitrust-bills.html) (Tier 2) (VERIFIED)
+- ~~[Fast Company: Klobuchar on the tech lobby's all-out war on antitrust legislation](https://www.fastcompany.com/90716074/amy-klobuchar-on-the-tech-lobbys-all-out-war-on-antitrust-legislation)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Center for Public Integrity: Amy Klobuchar 2020 campaign profile](https://publicintegrity.org/politics/elections/amy-klobuchar-2020-president-campaign-election/) (Tier 2) (VERIFIED)
 - [LegiStorm: Klobuchar revolving door tracker](https://www.legistorm.com/pro/revolving_door_details/member_id/815/name/Amy_Klobuchar.html) (Tier 3)
-- [Ballotpedia: Amy Klobuchar](https://ballotpedia.org/Amy_Klobuchar) (Tier 3)
+- [Ballotpedia: Amy Klobuchar](https://ballotpedia.org/Amy_Klobuchar) (Tier 3) (VERIFIED)
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
@@ -262,7 +262,7 @@ The legislative record is the class proof. The Merger Filing Fee Modernization A
 | — |  | — |
 | — |  | — |
 
-- [Source: Congress.gov](https://www.congress.gov/member/K000367) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/K000367)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Campaign Finance (FEC)
@@ -296,12 +296,12 @@ The legislative record is the class proof. The Merger Filing Fee Modernization A
 | UNITED BREAST CANCER SUPPORT PAC | $57,125 | $0 |
 | AFSCME WORKING FAMILIES FUND | $36,702 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6MN00267/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6MN00267/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Amy Klobuchar](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: Amy Klobuchar](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->

@@ -13,7 +13,7 @@ profiles:
 
 ## For our 250th anniversary, the new blue ‘founding fathers’ are crushing the right
 
-**Source:** [The Hill](https://thehill.com/opinion/campaign/5826391-dark-money-democrats-embrace-wealthy/)
+**Source:** ~~[The Hill](https://thehill.com/opinion/campaign/5826391-dark-money-democrats-embrace-wealthy/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-11
 
 Conservative media can pound on George Soros all they want — often with very good reason — but might be better served if it turned its anger and frustration upon the literally thousands of Republican, conservative and faith-based billionaires and multi-millionaires who choose to sit on the sidelines while whining about the “far left.”

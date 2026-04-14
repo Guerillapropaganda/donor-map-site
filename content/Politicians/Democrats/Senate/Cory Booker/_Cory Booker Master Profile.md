@@ -385,7 +385,7 @@ Cory Booker's 2020 presidential run attracted 39 billionaire donors, more than a
 | AMERICAN COMMITMENT ACTION FUND | $0 | $371,600 |
 | POWERPACPLUS | $81,401 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S4NJ00185/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S4NJ00185/) (Tier 1) (VERIFIED)
 
 <!-- auto:fec-politician pending-merge end -->
 
@@ -438,7 +438,7 @@ Cory Booker's 2020 presidential run attracted 39 billionaire donors, more than a
 
 **Sources**
 
-- [Congress.gov: Cory Booker](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: Cory Booker](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [GovTrack: Cory Booker](https://www.govtrack.us/congress/members/412598) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->
@@ -472,5 +472,5 @@ Cory Booker's 2020 presidential run attracted 39 billionaire donors, more than a
 | 4096 | A bill to amend the Consolidated Farm and Rural Development Act to modify provis… | Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry. |
 | 4042 | Keep Your Pay Act | Read twice and referred to the Committee on Finance. |
 
-- [Source: Congress.gov](https://www.congress.gov/member/B001288) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/B001288)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->

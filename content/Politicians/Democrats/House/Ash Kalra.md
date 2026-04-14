@@ -141,20 +141,20 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]]: single-paye
 
 ### CalCare Legislative History
 
-- [California Legislature: SB-562 The Healthy California Act (2017)](https://leginfo.legislature.ca.gov/faces/home.xhtml?bill_id=201720180SB562) (Tier 1)
-- [California Legislature: AB-1400 Guaranteed Health Care for All (2021–2022)](https://leginfo.legislature.ca.gov/faces/home.xhtml?bill_id=202120220AB1400) (Tier 1)
-- [California Legislature: AB-2200 Guaranteed Health Care for All (2023–2024)](https://leginfo.legislature.ca.gov/faces/home.xhtml?bill_id=202320240AB2200) (Tier 1)
-- [Assemblymember Ash Kalra: Statement on CalCare (AB 2200) killed in Appropriations, May 16, 2024](https://kalra.asmdc.org/press-releases/20240516-assemblymember-ash-kalra-releases-statement-calcare) (Tier 1)
-- [National Nurses United: CalCare advocacy and bill history](https://www.nationalnursesunited.org/calcare) (Tier 2)
-- [Wikipedia: CalCare legislative history](https://en.wikipedia.org/wiki/CalCare) (Tier 3)
+- [California Legislature: SB-562 The Healthy California Act (2017)](https://leginfo.legislature.ca.gov/faces/home.xhtml?bill_id=201720180SB562) (Tier 1) (VERIFIED)
+- [California Legislature: AB-1400 Guaranteed Health Care for All (2021–2022)](https://leginfo.legislature.ca.gov/faces/home.xhtml?bill_id=202120220AB1400) (Tier 1) (VERIFIED)
+- [California Legislature: AB-2200 Guaranteed Health Care for All (2023–2024)](https://leginfo.legislature.ca.gov/faces/home.xhtml?bill_id=202320240AB2200) (Tier 1) (VERIFIED)
+- ~~[Assemblymember Ash Kalra: Statement on CalCare (AB 2200) killed in Appropriations, May 16, 2024](https://kalra.asmdc.org/press-releases/20240516-assemblymember-ash-kalra-releases-statement-calcare)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [National Nurses United: CalCare advocacy and bill history](https://www.nationalnursesunited.org/calcare) (Tier 2) (VERIFIED)
+- [Wikipedia: CalCare legislative history](https://en.wikipedia.org/wiki/CalCare) (Tier 3) (VERIFIED)
 
 ### Rendon and SB 562
 
-- [CalMatters: State's single payer health bill set aside, now what? (2017)](https://calmatters.org/health/2017/06/single-payer-health-bill-set-aside/) (Tier 2)
-- [CapRadio: Rendon sparks uproar by shelving single-payer bill (2017)](https://www.capradio.org/articles/2017/06/27/rendon-sparks-uproar-by-shelving-single-payer-bill/) (Tier 2)
-- [New Republic: What Killed Single-Payer In California?](https://newrepublic.com/article/143650/killed-single-payer-california) (Tier 2)
-- [Paste Magazine: California Democrats, Funded by Big Pharma and Insurers, Are Blocking Their Own Healthcare Bill](https://www.pastemagazine.com/politics/democrats/california-democrats-are-blocking-their-own-health) (Tier 2)
-- [In These Times: What the Single-Payer Loss Reveals About the Role of Corporate Money in California Politics](https://inthesetimes.com/article/california-single-payer-jerry-brown-democratic-party-corporate-money) (Tier 2)
+- [CalMatters: State's single payer health bill set aside, now what? (2017)](https://calmatters.org/health/2017/06/single-payer-health-bill-set-aside/) (Tier 2) (VERIFIED)
+- [CapRadio: Rendon sparks uproar by shelving single-payer bill (2017)](https://www.capradio.org/articles/2017/06/27/rendon-sparks-uproar-by-shelving-single-payer-bill/) (Tier 2) (VERIFIED)
+- [New Republic: What Killed Single-Payer In California?](https://newrepublic.com/article/143650/killed-single-payer-california) (Tier 2) (VERIFIED)
+- [Paste Magazine: California Democrats, Funded by Big Pharma and Insurers, Are Blocking Their Own Healthcare Bill](https://www.pastemagazine.com/politics/democrats/california-democrats-are-blocking-their-own-health) (Tier 2) (VERIFIED)
+- [In These Times: What the Single-Payer Loss Reveals About the Role of Corporate Money in California Politics](https://inthesetimes.com/article/california-single-payer-jerry-brown-democratic-party-corporate-money) (Tier 2) (VERIFIED)
 
 ### Wicks and AB 2200
 
@@ -162,19 +162,19 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]]: single-paye
 
 ### Healthcare Opposition
 
-- [CalMatters: California tenants, landlords, Democrats all fight over rent caps (AB 1157 context)](https://calmatters.org/newsletter/rent-cap-ab-1157-newsletter/) (Tier 2)
+- [CalMatters: California tenants, landlords, Democrats all fight over rent caps (AB 1157 context)](https://calmatters.org/newsletter/rent-cap-ab-1157-newsletter/) (Tier 2) (VERIFIED)
 - See [[Buffy Wicks]] and [[_Gavin Newsom Master Profile]] for healthcare industry lobby figures ($3.5M California Hospital Association, $3.4M CA Chamber of Commerce)
 
 ### Kalra Background
 
-- [Ballotpedia: Ash Kalra](https://ballotpedia.org/Ash_Kalra) (Tier 3)
-- [Wikipedia: Ash Kalra](https://en.wikipedia.org/wiki/Ash_Kalra) (Tier 3)
-- [CalMatters Digital Democracy: Ash Kalra voting record and donor profile](https://calmatters.digitaldemocracy.org/legislators/ash-kalra-100938) (Tier 1)
+- [Ballotpedia: Ash Kalra](https://ballotpedia.org/Ash_Kalra) (Tier 3) (VERIFIED)
+- [Wikipedia: Ash Kalra](https://en.wikipedia.org/wiki/Ash_Kalra) (Tier 3) (VERIFIED)
+- [CalMatters Digital Democracy: Ash Kalra voting record and donor profile](https://calmatters.digitaldemocracy.org/legislators/ash-kalra-100938) (Tier 1) (VERIFIED)
 
 ### Legislative Record
 
-- [California Legislature: AB-2542 Racial Justice Act. Criminal procedure: discrimination (2020)](https://leginfo.legislature.ca.gov/faces/home.xhtml?bill_id=201920200AB2542) (Tier 1)
-- [Assemblymember Kalra: Governor Signs Landmark Legislation Advancing Racial Justice in California (Sept. 30, 2020)](https://kalra.asmdc.org/press-releases/20200930-governor-signs-landmark-legislation-advancing-racial-justice-california) (Tier 1)
+- [California Legislature: AB-2542 Racial Justice Act. Criminal procedure: discrimination (2020)](https://leginfo.legislature.ca.gov/faces/home.xhtml?bill_id=201920200AB2542) (Tier 1) (VERIFIED)
+- ~~[Assemblymember Kalra: Governor Signs Landmark Legislation Advancing Racial Justice in California (Sept. 30, 2020)](https://kalra.asmdc.org/press-releases/20200930-governor-signs-landmark-legislation-advancing-racial-justice-california)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -185,5 +185,5 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]]: single-paye
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Ash Kalra](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: Ash Kalra](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->

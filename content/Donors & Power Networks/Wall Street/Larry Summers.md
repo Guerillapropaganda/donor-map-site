@@ -57,7 +57,7 @@ Lawrence Summers exemplifies the intellectual capture of the Democratic Party by
 
 ### Sources
 
-- [OpenSecrets: Lawrence Summers Donations](https://www.opensecrets.org/revolving-door/lawrence-summers/summary?id=70864) (Tier 1)
+- [OpenSecrets: Lawrence Summers Donations](https://www.opensecrets.org/revolving-door/lawrence-summers/summary?id=70864) (Tier 1) (VERIFIED)
 
 ---
 
@@ -77,7 +77,7 @@ Lawrence Summers exemplifies the intellectual capture of the Democratic Party by
 
 **Agencies contacted:** HOUSE OF REPRESENTATIVES, SENATE, U.S. Coast Guard (USCG)
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Lawrence%20Summers) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Lawrence%20Summers) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Federal Register Activity
@@ -90,10 +90,10 @@ Lawrence Summers exemplifies the intellectual capture of the Democratic Party by
 | Agencies | Commodity Futures Trading Commission, State Department |
 
 **Recent regulatory activity:**
-- [Public Reporting by Operators of Certain Large Commodity Pools](https://www.federalregister.gov/documents/2000/04/17/00-9463/public-reporting-by-operators-of-certain-large-commodity-pools) (2000-04-17) — Commodity Futures Trading Commission
-- [Office of Protocol; Gifts to Federal Employees From Foreign Government Sources Reported to Employing Agencies in Calendar Year 1994](https://www.federalregister.gov/documents/1995/06/09/95-13832/office-of-protocol-gifts-to-federal-employees-from-foreign-government-sources-reported-to-employing) (1995-06-09) — State Department
+- [Public Reporting by Operators of Certain Large Commodity Pools](https://www.federalregister.gov/documents/2000/04/17/00-9463/public-reporting-by-operators-of-certain-large-commodity-pools) (VERIFIED) (2000-04-17) — Commodity Futures Trading Commission
+- [Office of Protocol; Gifts to Federal Employees From Foreign Government Sources Reported to Employing Agencies in Calendar Year 1994](https://www.federalregister.gov/documents/1995/06/09/95-13832/office-of-protocol-gifts-to-federal-employees-from-foreign-government-sources-reported-to-employing) (VERIFIED) (1995-06-09) — State Department
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Lawrence%20Summers%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Lawrence%20Summers%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Campaign Finance (FEC)
@@ -118,7 +118,7 @@ Lawrence Summers exemplifies the intellectual capture of the Democratic Party by
 | DEMOCRATIC PARTY OF WISCONSIN | $10,000 | DEM |
 | ACTBLUE | $7,520 | — |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Lawrence%20Summers) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Lawrence%20Summers) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### Influence Network (Cross-Reference)

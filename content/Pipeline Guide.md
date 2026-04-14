@@ -257,7 +257,7 @@ Pipeline writes formatted content inside HTML comment markers:
 | Individual Contributions | $1.8M |
 ...
 
-- [Source: FEC](https://www.fec.gov/data/candidate/...) (Tier 1)
+- ~~[Source: FEC](https://www.fec.gov/data/candidate/...)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:fec-fundraising end -->
 ```
 
@@ -669,7 +669,7 @@ This is not a pipeline bug — it's a vault frontmatter data error. The fec-summ
 ### API access
 - **Base URL:** `https://api.congress.gov/v3/` (also accessible via the alias `https://api.data.gov/congress/v3/`)
 - **Auth:** API key passed as a query parameter `?api_key=YOUR_KEY` or as the `X-Api-Key` HTTP header. Both methods are supported.
-- **How to get an API key:** Sign up at [https://api.data.gov/signup/](https://api.data.gov/signup/) — the same key infrastructure used by other federal data.gov APIs. Free, no approval process required.
+- **How to get an API key:** Sign up at [https://api.data.gov/signup/](https://api.data.gov/signup/) (VERIFIED) — the same key infrastructure used by other federal data.gov APIs. Free, no approval process required.
 - **Rate limit:** **5,000 requests per hour** per API key (raised from 1,000 in March 2024). The special `DEMO_KEY` (usable without registration) is limited to 30 requests/hour and 50 requests/day per IP address. Rate limit status is returned in response headers `X-RateLimit-Limit` and `X-RateLimit-Remaining`. Exceeding the limit returns HTTP 429.
 - **Pagination:** Default page size is 20 results; maximum is 250 (if you request more than 250 only 250 are returned). Use `?limit=250&offset=0` to request up to 250 at a time. The response `pagination` object contains `count` (total items), `next` (URL to next page), and optionally `prev` (URL to previous page when offset > 0). Paginate by incrementing `offset` by the `limit` value.
 - **User-Agent / headers required:** No custom `User-Agent` is required. Pass the API key via `X-Api-Key` header or `api_key` query param. Responses are available in JSON (`format=json`) or XML (default or `format=xml`). Specify `format=json` explicitly for all requests to avoid XML parsing overhead.
@@ -697,10 +697,10 @@ This is not a pipeline bug — it's a vault frontmatter data error. The fec-summ
 ---
 
 ### Identifiers
-- **Primary ID:** Bioguide ID — format is one uppercase letter followed by 6 digits (e.g., `L000174`, `A000383`). Assigned by the Biographical Directory of the United States Congress. Letters are loosely correlated to last name initial, numbers are sequential within that letter group but not strictly chronological. The full directory lives at [https://bioguide.congress.gov/](https://bioguide.congress.gov/).
+- **Primary ID:** Bioguide ID — format is one uppercase letter followed by 6 digits (e.g., `L000174`, `A000383`). Assigned by the Biographical Directory of the United States Congress. Letters are loosely correlated to last name initial, numbers are sequential within that letter group but not strictly chronological. The full directory lives at ~~[https://bioguide.congress.gov/](https://bioguide.congress.gov/)~~ (URL broken, archived by Ops).
 - **Secondary IDs:**
   - **THOMAS ID** — legacy ID from the now-defunct THOMAS system. Still present in some external datasets (e.g., the ProPublica Congress API used it). Not exposed in the Congress.gov API responses.
-  - **LIS ID (lis_member_id)** — Senate-specific identifier used in Senate roll call vote XML (published at [senate.gov](https://www.senate.gov/about/senator-lookup.xml)). The Congress.gov API uses bioguide IDs for member identification, not LIS IDs. Requires a crosswalk table to map between the two.
+  - **LIS ID (lis_member_id)** — Senate-specific identifier used in Senate roll call vote XML (published at [senate.gov](https://www.senate.gov/about/senator-lookup.xml) (VERIFIED)). The Congress.gov API uses bioguide IDs for member identification, not LIS IDs. Requires a crosswalk table to map between the two.
   - **Committee system code** — identifies committees and subcommittees (e.g., `hspw00` for House Transportation and Infrastructure full committee; ends in `00` for full committees, other digits for subcommittees).
   - **FEC candidate ID** — not part of the Congress.gov API; maintained by the FEC and needed for donor research cross-referencing.
 - **How to look up an entity:**
@@ -760,9 +760,9 @@ This is not a pipeline bug — it's a vault frontmatter data error. The fec-summ
 
 8. **Committee name reversion bug (fixed Feb 2025):** Committee names were reverting to older congress-era names. Fixed February 2025. Any committee name data cached before that date may be stale.
 
-9. **House roll call votes are beta and have limited coverage:** The `/house-vote` endpoints were released in May 2025 (beta). Coverage is 118th Congress (2023) to present. Non-legislation votes (e.g., Election of the Speaker) were added in June 2025. There is no Senate roll call vote equivalent in this API — use [senate.gov XML data](https://www.senate.gov/legislative/votes_new.htm) with LIS IDs.
+9. **House roll call votes are beta and have limited coverage:** The `/house-vote` endpoints were released in May 2025 (beta). Coverage is 118th Congress (2023) to present. Non-legislation votes (e.g., Election of the Speaker) were added in June 2025. There is no Senate roll call vote equivalent in this API — use [senate.gov XML data](https://www.senate.gov/legislative/votes_new.htm) (VERIFIED) with LIS IDs.
 
-10. **Senate roll call votes use LIS IDs, not bioguide IDs:** Senate roll call vote XML from senate.gov uses `lis_member_id`, not bioguide IDs. A crosswalk is required. The LIS ID list is at [https://www.senate.gov/about/senator-lookup.xml](https://www.senate.gov/about/senator-lookup.xml).
+10. **Senate roll call votes use LIS IDs, not bioguide IDs:** Senate roll call vote XML from senate.gov uses `lis_member_id`, not bioguide IDs. A crosswalk is required. The LIS ID list is at [https://www.senate.gov/about/senator-lookup.xml](https://www.senate.gov/about/senator-lookup.xml) (VERIFIED).
 
 11. **August 2025 infinite redirect outage (Issue #360):** Starting approximately August 22, 2025, all requests to `api.congress.gov/v3` entered an infinite redirect loop (each redirect re-appended `authkey` and `api_key` parameters). New key signups via `api.congress.gov/sign-up/` were also broken. The issue was closed on GitHub but no official Library of Congress statement or root cause was published. Plan for unannounced outages; implement circuit breakers and fall back to GPO bulk data.
 
@@ -782,7 +782,7 @@ This is not a pipeline bug — it's a vault frontmatter data error. The fec-summ
 
 ### Quality signals
 
-- **`<currentMember>` field:** Verify against the official Clerk of the House vacancy list ([https://clerk.house.gov/](https://clerk.house.gov/)) for vacancies within the last 30 days; the flag may lag appointments/resignations.
+- **`<currentMember>` field:** Verify against the official Clerk of the House vacancy list ([https://clerk.house.gov/](https://clerk.house.gov/) (VERIFIED)) for vacancies within the last 30 days; the flag may lag appointments/resignations.
 - **`<updateDate>` vs. `<updateDateIncludingText>`:** If these two dates diverge significantly on a bill record, it means text has been updated but metadata actions haven't — or vice versa. Both fields should be checked when looking for "latest" bill state.
 - **`pagination.count` vs. actual unique records:** Always deduplicate by the entity's primary ID (`bioguideId`, bill `number`+`type`+`congress`, etc.) because list endpoints have had duplicate-record bugs historically.
 - **`partyName` values in member responses:** Valid values are `"Democratic"`, `"Republican"`, `"Independent"`, `"Independent Democrat"`, `"Libertarian"`. Unexpected values indicate data quality issues.
@@ -797,10 +797,10 @@ This is not a pipeline bug — it's a vault frontmatter data error. The fec-summ
 
 | Situation | Fallback |
 |---|---|
-| Full API outage (as in Aug 2025) | **GPO Bulk Data Repository** ([https://www.govinfo.gov/bulkdata](https://www.govinfo.gov/bulkdata)) — provides bill XML/JSON and Congressional Record data in bulk. Slower but authoritative. |
-| Member/legislator data | **unitedstates/congress-legislators** GitHub repo ([https://github.com/unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)) — YAML/JSON/CSV updated by a community project, includes bioguide IDs, FEC IDs, and social media handles. Good crosswalk table source. |
-| Senate roll call votes | **senate.gov XML** ([https://www.senate.gov/legislative/votes_new.htm](https://www.senate.gov/legislative/votes_new.htm)) — uses LIS IDs, not bioguide IDs. |
-| House roll call votes (non-API) | **Clerk of the House** ([https://clerk.house.gov/Votes](https://clerk.house.gov/Votes)) — XML feed, uses bioguide IDs. |
+| Full API outage (as in Aug 2025) | **GPO Bulk Data Repository** ([https://www.govinfo.gov/bulkdata](https://www.govinfo.gov/bulkdata) (NEEDS REVIEW)) — provides bill XML/JSON and Congressional Record data in bulk. Slower but authoritative. |
+| Member/legislator data | **unitedstates/congress-legislators** GitHub repo ([https://github.com/unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators) (VERIFIED)) — YAML/JSON/CSV updated by a community project, includes bioguide IDs, FEC IDs, and social media handles. Good crosswalk table source. |
+| Senate roll call votes | **senate.gov XML** ([https://www.senate.gov/legislative/votes_new.htm](https://www.senate.gov/legislative/votes_new.htm) (VERIFIED)) — uses LIS IDs, not bioguide IDs. |
+| House roll call votes (non-API) | **Clerk of the House** ([https://clerk.house.gov/Votes](https://clerk.house.gov/Votes) (VERIFIED)) — XML feed, uses bioguide IDs. |
 | Member photos | `https://www.congress.gov/img/member/{lowercase-bioguide}_200.jpg` (direct URL, no API call needed) |
 | FEC donor–member crosswalk | **FEC API** (`https://api.open.fec.gov/v1/candidates/`) — use FEC candidate ID, which the unitedstates/congress-legislators dataset includes as a crosswalk field. |
 | Bioguide lookup (human web) | [https://bioguide.congress.gov/](https://bioguide.congress.gov/) |
@@ -1126,8 +1126,8 @@ If the LDA API is down or returning errors:
 
 ### API access (USASpending)
 - **Base URL:** `https://api.usaspending.gov/api/v2/`
-- **Auth:** None required. No API key, no registration, no token. All endpoints are fully open. ([Source](https://api.usaspending.gov/docs/endpoints))
-- **Rate limit:** **1,000 requests per any 300-second (5-minute) rolling window** (i.e., ~200 req/min sustained). This is enforced per IP. Exceeding it produces intermittent 500 errors or connection drops rather than a clean 429. Bulk download endpoints (`/bulk_download/`, `/download/`) are resource-intensive; concurrent large downloads from the same IP frequently time out even under the rate limit. ([Source](https://onevoicecrm.my.site.com/usaspending/s/question/0D5eq00001AwRpCCAV/api-rate-limitation))
+- **Auth:** None required. No API key, no registration, no token. All endpoints are fully open. ([Source](https://api.usaspending.gov/docs/endpoints) (VERIFIED))
+- **Rate limit:** **1,000 requests per any 300-second (5-minute) rolling window** (i.e., ~200 req/min sustained). This is enforced per IP. Exceeding it produces intermittent 500 errors or connection drops rather than a clean 429. Bulk download endpoints (`/bulk_download/`, `/download/`) are resource-intensive; concurrent large downloads from the same IP frequently time out even under the rate limit. ([Source](https://onevoicecrm.my.site.com/usaspending/s/question/0D5eq00001AwRpCCAV/api-rate-limitation) (VERIFIED))
 - **Pagination:**
   - GET endpoints: use query params like `?page=1&limit=100`
   - POST endpoints (`/search/spending_by_award/`, etc.): pass `"page"` and `"limit"` (or `"size"`) in JSON body
@@ -1138,7 +1138,7 @@ If the LDA API is down or returning errors:
 ---
 
 ### API access (SAM.gov Entity Management)
-- **Base URL:** `https://api.sam.gov/entity-information/v4/entities` (current recommended version as of Dec 2024) ([Source](https://open.gsa.gov/api/entity-api/))
+- **Base URL:** `https://api.sam.gov/entity-information/v4/entities` (current recommended version as of Dec 2024) ([Source](https://open.gsa.gov/api/entity-api/) (VERIFIED))
   - Previous versions v1–v3 still available but v4 is the latest
   - Alpha/sandbox: `https://api-alpha.sam.gov/entity-information/v4/entities`
 - **Auth:** API key required. Pass as query param `?api_key=YOUR_KEY` or HTTP header `X-Api-Key: YOUR_KEY`.
@@ -1146,7 +1146,7 @@ If the LDA API is down or returning errors:
   - FOUO (For Official Use Only) data: system account with "Read FOUO" permission
   - Sensitive data: system account with "Read Sensitive" permission; POST required with Basic Auth header (`Authorization: Basic base64(username:password)`)
 - **How to get an API key:**
-  1. Create an account at [SAM.gov](https://sam.gov)
+  1. Create an account at [SAM.gov](https://sam.gov) (VERIFIED)
   2. Go to your profile → **Profile/Details page** → find the **"Public API Key"** field
   3. For system accounts: use the **System Accounts** widget in your workspace
   - URL: `https://sam.gov/profile/details` ([Source](https://open.gsa.gov/api/entity-api/))
@@ -1189,7 +1189,7 @@ If the LDA API is down or returning errors:
 
 ### Identifiers
 - **Primary ID:** **UEI (Unique Entity Identifier)** — 12-character alphanumeric, case-insensitive, assigned by SAM.gov.
-  - Format rules ([GSA UEI spec](https://www.gsa.gov/about-us/organization/federal-acquisition-service/fas-initiatives/integrated-award-environment/iae-systems-information-kit/uei-technical-specifications-and-api-information)):
+  - Format rules ([GSA UEI spec](https://www.gsa.gov/about-us/organization/federal-acquisition-service/fas-initiatives/integrated-award-environment/iae-systems-information-kit/uei-technical-specifications-and-api-information) (VERIFIED)):
     - Exactly 12 characters, alphanumeric
     - Letters `O` and `I` are excluded (to avoid confusion with `0` and `1`)
     - First character is never `0` (to prevent spreadsheet truncation)
@@ -1219,7 +1219,7 @@ If the LDA API is down or returning errors:
   5. **On SAM.gov website:** `https://sam.gov/search/?index=ei&page=1&sort=-score&sfm[sfm_status][0]=status:Active&sfm[sfm_status][1]=status:Inactive&keywords=<UEI_or_name>`
 
 - **Known ID gotchas:**
-  - **DUNS → UEI transition (April 4, 2022):** DUNS was completely replaced. SAM API v1/v2 returned DUNS via `ueiDUNS`; v3+ returns blanks for that field. In USASpending, pre-April 2022 award records have `recipient_duns` populated but `recipient_uei` null. Post-April 2022 records have `recipient_uei` and null DUNS. The GitHub issue [#3847](https://github.com/fedspendingtransparency/usaspending-api/issues/3847) (opened June 2023, still open as of this writing) documents that `spending_by_award` and `spending_by_transaction` endpoints do not yet support `recipient_uei` as a requestable field (only `Recipient DUNS Number` is in the field list), even though UEI is the current standard.
+  - **DUNS → UEI transition (April 4, 2022):** DUNS was completely replaced. SAM API v1/v2 returned DUNS via `ueiDUNS`; v3+ returns blanks for that field. In USASpending, pre-April 2022 award records have `recipient_duns` populated but `recipient_uei` null. Post-April 2022 records have `recipient_uei` and null DUNS. The GitHub issue [#3847](https://github.com/fedspendingtransparency/usaspending-api/issues/3847) (VERIFIED) (opened June 2023, still open as of this writing) documents that `spending_by_award` and `spending_by_transaction` endpoints do not yet support `recipient_uei` as a requestable field (only `Recipient DUNS Number` is in the field list), even though UEI is the current standard.
   - **QVT false-positive issue:** "QVT" in the SAM.gov exclusion screening context refers to broad-match false positives when searching common names without unique identifiers. SAM.gov's exclusion search uses name-matching that returns all records containing the search string — searching "John Smith" returns multiple unrelated exclusion records. The official guidance is to **always cross-check using unique identifiers** (UEI, CAGE/NCAGE, NPI, SSN/EIN) rather than name alone, and to document negative determinations. Third-party compliance vendors call this a "QVT" (Qualifications Vetting Tool) false positive. The SAM Exclusions API v4 (`/entity-information/v4/exclusions`) supports lookup by `ueiSAM` and `cageCode` directly to reduce false matches. There is no known named software bug by the acronym "QVT" in SAM.gov's own documentation; the term originates from commercial compliance software that screens against SAM.
   - **EVS (Entity Validation Service) false negatives:** In April 2022, GSA switched its Entity Validation Service provider. Legitimate businesses can fail validation if their name/address doesn't match the new EVS's authoritative sources (Secretary of State filings, USPS, utility records). Common triggers: suite number stripping causing "duplicate entity" flags, punctuation mismatches (`&` vs `and`), DBA names vs legal names, and new businesses whose Secretary of State records haven't propagated to the EVS database yet (typically a 2–4 week lag).
   - **One UEI per legal entity:** SAM enforces a strict one-UEI-per-(name + physical address) rule. Subsidiaries or divisions at different physical addresses get different UEIs. This creates parent/child hierarchies in both SAM and USASpending.
@@ -1250,7 +1250,7 @@ If the LDA API is down or returning errors:
 
 ### Known quirks / gotchas
 
-1. **`spending_by_award` / `spending_by_transaction` missing `recipient_uei` field (open bug):** These two core search endpoints only expose `Recipient DUNS Number` as a named field, not `recipient_uei`. The UEI is present in bulk downloads but not in the API response fields list. Workaround: filter by UEI using the `recipient_search_text` filter or look up via `/autocomplete/recipient/`, then use the hash-based recipient endpoint. ([GitHub issue #3847](https://github.com/fedspendingtransparency/usaspending-api/issues/3847))
+1. **`spending_by_award` / `spending_by_transaction` missing `recipient_uei` field (open bug):** These two core search endpoints only expose `Recipient DUNS Number` as a named field, not `recipient_uei`. The UEI is present in bulk downloads but not in the API response fields list. Workaround: filter by UEI using the `recipient_search_text` filter or look up via `/autocomplete/recipient/`, then use the hash-based recipient endpoint. ([GitHub issue #3847](https://github.com/fedspendingtransparency/usaspending-api/issues/3847) (VERIFIED))
 
 2. **Pre-2022 UEI backfill is incomplete:** Awards made before April 2022 may have `recipient_uei = null` even if the entity later obtained a UEI. USASpending progressively backfills, but some old records still only carry DUNS.
 
@@ -1258,7 +1258,7 @@ If the LDA API is down or returning errors:
 
 4. **Subaward data duplication:** Prime recipients frequently re-report all subawards to date rather than only new actions. This inflates subaward totals in USASpending. A known issue acknowledged in USASpending's own data documentation — when a subaward total exceeds the prime award amount, duplication is the likely cause. (Controls added in March 2025 when subaward reporting migrated to SAM.gov from FSRS may reduce this going forward.)
 
-5. **SAM.gov exclusions API v1–v3 removed September 13, 2024:** If any pipeline uses the old exclusions endpoints, they have been disabled. Only v4 (`/entity-information/v4/exclusions`) is active. V4 added the `isFASCSAOrder` field for Federal Acquisition Supply Chain Security Act orders. ([GSA bulletin](https://content.govdelivery.com/accounts/USGSA/bulletins/3afb0a1))
+5. **SAM.gov exclusions API v1–v3 removed September 13, 2024:** If any pipeline uses the old exclusions endpoints, they have been disabled. Only v4 (`/entity-information/v4/exclusions`) is active. V4 added the `isFASCSAOrder` field for Federal Acquisition Supply Chain Security Act orders. ([GSA bulletin](https://content.govdelivery.com/accounts/USGSA/bulletins/3afb0a1) (VERIFIED))
 
 6. **SAM `registrationStatus` parameter behavior changed in v3:** In v1/v2, `samRegistered=Yes` was the only option (default returned only active registrations). In v3/v4, `samRegistered=No` returns ID-Assigned-only entities (those with a UEI but no full registration — e.g., subawardees). Default still returns only registered entities.
 
@@ -1310,9 +1310,9 @@ If the LDA API is down or returning errors:
 | **September 13, 2024** | SAM.gov Exclusions API versions 1, 2, and 3 **permanently retired**. Only v4 is now active. V4 adds the `isFASCSAOrder` field for Federal Acquisition Supply Chain Security Act orders. All consumers must use `https://api.sam.gov/entity-information/v4/exclusions`. ([GSA bulletin](https://content.govdelivery.com/accounts/USGSA/bulletins/3afb0a1)) |
 | **December 6, 2024** | SAM.gov Entity Management API **v4 launched** (v4.6). Adds `Exceeds Domestic Threshold` field in Reps and Certs section. No breaking changes from v3; backward compatible. ([Source](https://open.gsa.gov/api/entity-api/)) |
 | **December 31, 2024** | FSRS.gov announced for decommission; subaward reporting migration to SAM.gov announced. |
-| **March 6, 2025** | **FSRS.gov fully decommissioned.** All subaward reporting (FFATA compliance) moved to SAM.gov. Historical FSRS data migrated to SAM. SAM entity administrators must now assign a "Subaward Reporter" role to staff. ([Source](https://www.grfcpa.com/resource/retirement-of-fsrs-gov-what-you-need-to-know-if-you-are-reporting-subawards/)) |
+| **March 6, 2025** | **FSRS.gov fully decommissioned.** All subaward reporting (FFATA compliance) moved to SAM.gov. Historical FSRS data migrated to SAM. SAM entity administrators must now assign a "Subaward Reporter" role to staff. ([Source](https://www.grfcpa.com/resource/retirement-of-fsrs-gov-what-you-need-to-know-if-you-are-reporting-subawards/) (VERIFIED)) |
 | **March 8, 2025** | Subaward reporting and viewing functionality live on SAM.gov. USASpending downstream pipeline for subaward data updated to pull from SAM instead of FSRS. Additional duplicate-prevention controls added to subaward ingestion. |
-| **Ongoing 2025** | SAM.gov gradually refreshing entity registration UI pages (Business Information, Taxpayer Information, Business Types, Entity Relationships, Financial Information sections modernized through Q3 2025). Data collected is unchanged. ([SAM.gov announcement](https://sam.gov/announcements/improvements-samgov-entity-registration-process)) |
+| **Ongoing 2025** | SAM.gov gradually refreshing entity registration UI pages (Business Information, Taxpayer Information, Business Types, Entity Relationships, Financial Information sections modernized through Q3 2025). Data collected is unchanged. ([SAM.gov announcement](https://sam.gov/announcements/improvements-samgov-entity-registration-process) (VERIFIED)) |
 | **Open (as of April 2026)** | USASpending GitHub issue [#3847](https://github.com/fedspendingtransparency/usaspending-api/issues/3847): `spending_by_award` and `spending_by_transaction` endpoints still do not expose `recipient_uei` as a requestable response field, only the legacy `Recipient DUNS Number`. No fix date announced. |
 | **V1 USASpending endpoints** | Deprecated — use v2 only. `https://api.usaspending.gov` notes "V1 endpoints are currently Deprecated." |
 
@@ -1533,14 +1533,14 @@ Full form-specific fields use IRS "element names" from the IRS Annual Extract do
 ### Fallback sources
 | Source | Use case | Notes |
 |---|---|---|
-| [IRS Tax Exempt Organization Search](https://apps.irs.gov/app/eos/) | Current exemption status, revocations, determination letters | Authoritative; updated more frequently than ProPublica's BMF snapshot |
-| [IRS EO BMF Extract](https://www.irs.gov/charities-non-profits/exempt-organizations-business-master-file-extract-eo-bmf) | Bulk organization profiles | Raw source for ProPublica's org metadata |
-| [IRS Annual Extract](https://www.irs.gov/uac/soi-tax-stats-annual-extract-of-tax-exempt-organization-financial-data) | Bulk financial summary data | Raw source for ProPublica's `filings_with_data` |
-| [IRS 990 XML e-files](https://www.irs.gov/charities-non-profits/form-990-series-which-forms-do-exempt-organizations-file-filing-phase-in) | Full filing data including officer names, schedules, grant recipients | Required for board members, Schedule I/F grants, detailed compensation; only for e-filers |
-| [Candid / GuideStar](https://www.candid.org/) | Richer org profiles, mission statements, recent leadership | Requires account; more current org data |
-| [ProPublica 527 Explorer](https://projects.propublica.org/527s/) | Political organizations (527s) | Separate tool; 527s file different returns |
-| [OpenSecrets](https://www.opensecrets.org/dark-money) | Dark money / 501(c)(4) spending on elections | Tracks independent expenditures; not 990 data |
-| [Federal Audit Clearinghouse](https://facdissem.census.gov/) | Single audits for federal grant recipients | Linked from ProPublica for orgs ≥$750K federal spend |
+| ~~[IRS Tax Exempt Organization Search](https://apps.irs.gov/app/eos/)~~ (URL broken, archived by Ops) | Current exemption status, revocations, determination letters | Authoritative; updated more frequently than ProPublica's BMF snapshot |
+| [IRS EO BMF Extract](https://www.irs.gov/charities-non-profits/exempt-organizations-business-master-file-extract-eo-bmf) (VERIFIED) | Bulk organization profiles | Raw source for ProPublica's org metadata |
+| [IRS Annual Extract](https://www.irs.gov/uac/soi-tax-stats-annual-extract-of-tax-exempt-organization-financial-data) (NEEDS REVIEW) | Bulk financial summary data | Raw source for ProPublica's `filings_with_data` |
+| [IRS 990 XML e-files](https://www.irs.gov/charities-non-profits/form-990-series-which-forms-do-exempt-organizations-file-filing-phase-in) (VERIFIED) | Full filing data including officer names, schedules, grant recipients | Required for board members, Schedule I/F grants, detailed compensation; only for e-filers |
+| ~~[Candid / GuideStar](https://www.candid.org/)~~ (URL broken, archived by Ops) | Richer org profiles, mission statements, recent leadership | Requires account; more current org data |
+| ~~[ProPublica 527 Explorer](https://projects.propublica.org/527s/)~~ (URL broken, archived by Ops) | Political organizations (527s) | Separate tool; 527s file different returns |
+| [OpenSecrets](https://www.opensecrets.org/dark-money) (VERIFIED) | Dark money / 501(c)(4) spending on elections | Tracks independent expenditures; not 990 data |
+| [Federal Audit Clearinghouse](https://facdissem.census.gov/) (NEEDS REVIEW) | Single audits for federal grant recipients | Linked from ProPublica for orgs ≥$750K federal spend |
 
 ---
 
@@ -1555,7 +1555,7 @@ Full form-specific fields use IRS "element names" from the IRS Annual Extract do
 
 ---
 
-*Sources: [ProPublica Nonprofit Explorer API v2 documentation](https://projects.propublica.org/nonprofits/api); [ProPublica Nonprofit Explorer main page](https://projects.propublica.org/nonprofits/); live API response verified April 2026 (`https://projects.propublica.org/nonprofits/api/v2/organizations/142007220.json`); [ProPublica: Nonprofit Explorer Adds More than a Million New Form 990s (June 2023)](https://www.propublica.org/article/nonprofit-explorer-adds-a-million-new-form-990s); [ProPublica: New: View an Organization's Employees and Officers (May 2021)](https://www.propublica.org/nerds/new-view-an-organizations-employees-and-officers-on-nonprofit-explorer); [ProPublica Data Terms of Use](https://www.propublica.org/datastore/terms).*
+*Sources: [ProPublica Nonprofit Explorer API v2 documentation](https://projects.propublica.org/nonprofits/api) (VERIFIED); [ProPublica Nonprofit Explorer main page](https://projects.propublica.org/nonprofits/) (VERIFIED); live API response verified April 2026 (`https://projects.propublica.org/nonprofits/api/v2/organizations/142007220.json`); [ProPublica: Nonprofit Explorer Adds More than a Million New Form 990s (June 2023)](https://www.propublica.org/article/nonprofit-explorer-adds-a-million-new-form-990s) (VERIFIED); [ProPublica: New: View an Organization's Employees and Officers (May 2021)](https://www.propublica.org/nerds/new-view-an-organizations-employees-and-officers-on-nonprofit-explorer) (VERIFIED); [ProPublica Data Terms of Use](https://www.propublica.org/datastore/terms) (NEEDS REVIEW).*
 
 ---
 
@@ -1611,7 +1611,7 @@ Full form-specific fields use IRS "element names" from the IRS Annual Extract do
   Host: www.sec.gov
   ```
 
-  The required pattern is: `<Organization or name> <email address>`. The email must be present and valid so the SEC can contact you if your usage causes problems. A personal-use format like `Personal Research yourname@gmail.com` is also acceptable in practice. **Without this header, automated requests receive a 403 error.** The `Accept-Encoding: gzip, deflate` and `Host` headers are good practice but the User-Agent with email is the hard requirement. Source: [SEC Accessing EDGAR Data](https://www.sec.gov/os/accessing-edgar-data) and [SEC Webmaster FAQ – Developers section](https://www.sec.gov/os/webmaster-faq#developers).
+  The required pattern is: `<Organization or name> <email address>`. The email must be present and valid so the SEC can contact you if your usage causes problems. A personal-use format like `Personal Research yourname@gmail.com` is also acceptable in practice. **Without this header, automated requests receive a 403 error.** The `Accept-Encoding: gzip, deflate` and `Host` headers are good practice but the User-Agent with email is the hard requirement. Source: [SEC Accessing EDGAR Data](https://www.sec.gov/os/accessing-edgar-data) (NEEDS REVIEW) and [SEC Webmaster FAQ – Developers section](https://www.sec.gov/os/webmaster-faq#developers) (NEEDS REVIEW).
 
 ---
 
@@ -1732,9 +1732,9 @@ Full form-specific fields use IRS "element names" from the IRS Annual Extract do
 
 | Use case | Fallback |
 |---|---|
-| Structured Form D data (with field-level filtering) | [SEC DERA Form D Data Sets](https://www.sec.gov/data-research/sec-markets-data/form-d-data-sets) — quarterly downloads with parsed XML fields |
-| Pre-2001 full-text search (filings 1993–2000) | [EDGAR Boolean Archive Search](https://efts.sec.gov/LATEST/search-index) does NOT cover pre-2001. Use quarterly index files at `https://www.sec.gov/Archives/edgar/full-index/{YEAR}/QTR{N}/` and fetch raw filing text directly |
-| Investment adviser data (Form ADV) | [IAPD – SEC Investment Adviser Public Disclosure](https://www.adviserinfo.sec.gov) — not on EDGAR |
+| Structured Form D data (with field-level filtering) | [SEC DERA Form D Data Sets](https://www.sec.gov/data-research/sec-markets-data/form-d-data-sets) (VERIFIED) — quarterly downloads with parsed XML fields |
+| Pre-2001 full-text search (filings 1993–2000) | [EDGAR Boolean Archive Search](https://efts.sec.gov/LATEST/search-index) (VERIFIED) does NOT cover pre-2001. Use quarterly index files at `https://www.sec.gov/Archives/edgar/full-index/{YEAR}/QTR{N}/` and fetch raw filing text directly |
+| Investment adviser data (Form ADV) | [IAPD – SEC Investment Adviser Public Disclosure](https://www.adviserinfo.sec.gov) (NEEDS REVIEW) — not on EDGAR |
 | Municipal bond issuers | MSRB EMMA system — not on EDGAR |
 | Non-XBRL financial extraction (pre-2009) | Parse HTML/text filing documents directly; no structured API exists |
 | Bulk insider trading data (Form 4) | DERA data sets or bulk download of daily SGML feeds at `https://www.sec.gov/Archives/edgar/Feed/` |
@@ -1750,7 +1750,7 @@ Full form-specific fields use IRS "element names" from the IRS Annual Extract do
 - Mandatory for filers: individual Login.gov credentials with MFA replace shared CCC/passphrase system. All filers must have enrolled by December 19, 2025, or they must submit a new Form ID to regain access.
 - New optional machine-to-machine filer APIs (15 new endpoints) allow programmatic submission, status checking, and account management — these are for submitting filings, not consuming public data.
 - Timeline: Beta opened September 30, 2024; new platform live March 24, 2025; legacy system discontinued September 15, 2025; grace period through December 19, 2025.
-- Source: [SEC press release 2024-155](https://www.sec.gov/newsroom/press-releases/2024-155)
+- Source: [SEC press release 2024-155](https://www.sec.gov/newsroom/press-releases/2024-155) (VERIFIED)
 
 **`company_tickers_exchange.json` and `company_tickers_mf.json` path migration (noted in 2024 documentation update):**
 - Old path: `https://www.sec.gov/data/company_tickers_exchange.json`
@@ -1786,7 +1786,7 @@ Full form-specific fields use IRS "element names" from the IRS Annual Extract do
 - **What it is:** Free, open-access REST API for U.S. Congressional data operated by GovTrack.us (Civic Impulse, LLC), running as a Django/Haystack/Tastypie-style `simplegetapi` service behind nginx.
 - **What it covers:** All U.S. Congress members (historical back to the 1st Congress), roll-call votes (113,000+), bills (427,000+), committee memberships, and cosponsorships. Vote data goes back to 1789 via VoteView/keithpoole data; modern votes (1973+) sourced directly from house.gov and senate.gov. Current 119th Congress (2025–2027) data is live.
 - **Tier classification:** Free public API — no API key, no registration required.
-- **Authoritative?** Semi-authoritative. GovTrack aggregates from official sources (house.gov, senate.gov, congress.gov/GovInfo) and the [unitedstates/congress](https://github.com/unitedstates/congress) community scrapers. Not itself an official government source. For voting records, the underlying roll-call data is sourced directly from chamber clerk XML files. Bioguide IDs cross-reference to the official [Biographical Directory of the U.S. Congress](https://bioguide.congress.gov/).
+- **Authoritative?** Semi-authoritative. GovTrack aggregates from official sources (house.gov, senate.gov, congress.gov/GovInfo) and the [unitedstates/congress](https://github.com/unitedstates/congress) (VERIFIED) community scrapers. Not itself an official government source. For voting records, the underlying roll-call data is sourced directly from chamber clerk XML files. Bioguide IDs cross-reference to the official ~~[Biographical Directory of the U.S. Congress](https://bioguide.congress.gov/)~~ (URL broken, archived by Ops).
 - **Data freshness:** Votes typically appear within hours of the chamber publishing XML. The `generated-at` response header shows when a cached response was last generated. The nginx proxy caches all 200 responses for **3 hours** (`proxy_cache_valid 200 3h`), so vote results may lag by up to 3 hours. Bill status can lag further depending on scraper run cadence.
 - **Known staleness risk:** The 3-hour nginx cache is the primary staleness vector. Append `?nocache=1` to bypass it (confirmed via `proxy_no_cache $arg_nocache` in nginx.conf). The `generated-at` response header is always present and can be checked to assess cache age.
 
@@ -1829,7 +1829,7 @@ Full form-specific fields use IRS "element names" from the IRS Annual Extract do
   - House members (post-2000 era) tend to use IDs in the `4xxxxx` range.
   - Newer members use IDs in the `4xxxxx–45xxxx` range (e.g., `456920` for Rep. LaLota, elected 2022).
 - **Secondary IDs (all present on person objects):**
-  - `bioguideid` — Bioguide ID (e.g., `P000197`); the standard cross-reference to the official [Biographical Directory](https://bioguide.congress.gov/). **Most reliable cross-reference.**
+  - `bioguideid` — Bioguide ID (e.g., `P000197`); the standard cross-reference to the official ~~[Biographical Directory](https://bioguide.congress.gov/)~~ (URL broken, archived by Ops). **Most reliable cross-reference.**
   - `osid` — OpenSecrets candidate ID (e.g., `N00007360`); starts with `N`, 8 digits.
   - `cspanid` — C-SPAN person ID (integer).
   - `twitterid` — Twitter/X username (string, may be null or outdated).
@@ -1900,11 +1900,11 @@ Full form-specific fields use IRS "element names" from the IRS Annual Extract do
 ---
 
 ### Fallback sources
-- **[congress-legislators (unitedstates/congress-legislators)](https://github.com/unitedstates/congress-legislators):** YAML/JSON files on GitHub maintained by the open government community. Contains bioguide, FEC, OpenSecrets, and other cross-reference IDs. The authoritative source for legislator identity data that GovTrack itself sources from. Use this for bulk ID crosswalks.
-- **[ProPublica Congress API](https://projects.propublica.org/api-docs/congress-api/):** Free API (requires key) with overlapping coverage. More comprehensive for committee votes, party loyalty scores.
-- **[congress.gov API](https://api.congress.gov/):** Official Library of Congress API. Authoritative for bill text, status, and amendments. Requires free API key registration.
-- **[VoteView.com API](https://voteview.com/data):** Source for historical vote ideology scores (DW-NOMINATE). GovTrack pulls historical data from VoteView.
-- **[OpenFEC API](https://api.open.fec.gov/):** FEC campaign finance data; cross-references to GovTrack `osid` field.
+- **[congress-legislators (unitedstates/congress-legislators)](https://github.com/unitedstates/congress-legislators) (VERIFIED):** YAML/JSON files on GitHub maintained by the open government community. Contains bioguide, FEC, OpenSecrets, and other cross-reference IDs. The authoritative source for legislator identity data that GovTrack itself sources from. Use this for bulk ID crosswalks.
+- **[ProPublica Congress API](https://projects.propublica.org/api-docs/congress-api/) (VERIFIED):** Free API (requires key) with overlapping coverage. More comprehensive for committee votes, party loyalty scores.
+- **[congress.gov API](https://api.congress.gov/) (VERIFIED):** Official Library of Congress API. Authoritative for bill text, status, and amendments. Requires free API key registration.
+- **[VoteView.com API](https://voteview.com/data) (VERIFIED):** Source for historical vote ideology scores (DW-NOMINATE). GovTrack pulls historical data from VoteView.
+- **[OpenFEC API](https://api.open.fec.gov/) (NEEDS REVIEW):** FEC campaign finance data; cross-references to GovTrack `osid` field.
 
 ---
 
@@ -2177,7 +2177,7 @@ For the political donor / corporate verification use case: require `registration
 
 ---
 
-*Sources: [GLEIF API documentation (Postman)](https://documenter.getpostman.com/view/7679680/SVYrrxuU) · [GLEIF API page](https://www.gleif.org/en/lei-data/gleif-api) · [GLEIF API Changes doc](https://www.gleif.org/content/4_lei-data/1_access-and-use-lei-data/6_supporting-documents/GLEIF-API-Changes-Documentation.html) · [Policy Conformity Flag](https://www.gleif.org/en/lei-data/access-and-use-lei-data/policy-conformity-flag) · [GLEIF Golden Copy spec](https://www.gleif.org/en/lei-data/gleif-golden-copy) · [FSB LEI Progress Report Oct 2024](https://www.fsb.org/uploads/P211024-2.pdf) · [ISO 17442 LEI format](https://cdn.standards.iteh.ai/samples/75998/2b77042cb3a346fda3b26dfd6bfd42ca/ISO-17442-2019.pdf) · Live API responses verified 2026-04-10*
+*Sources: [GLEIF API documentation (Postman)](https://documenter.getpostman.com/view/7679680/SVYrrxuU) (VERIFIED) · [GLEIF API page](https://www.gleif.org/en/lei-data/gleif-api) (VERIFIED) · [GLEIF API Changes doc](https://www.gleif.org/content/4_lei-data/1_access-and-use-lei-data/6_supporting-documents/GLEIF-API-Changes-Documentation.html) (VERIFIED) · [Policy Conformity Flag](https://www.gleif.org/en/lei-data/access-and-use-lei-data/policy-conformity-flag) (VERIFIED) · [GLEIF Golden Copy spec](https://www.gleif.org/en/lei-data/gleif-golden-copy) (VERIFIED) · [FSB LEI Progress Report Oct 2024](https://www.fsb.org/uploads/P211024-2.pdf) (VERIFIED) · [ISO 17442 LEI format](https://cdn.standards.iteh.ai/samples/75998/2b77042cb3a346fda3b26dfd6bfd42ca/ISO-17442-2019.pdf) (VERIFIED) · Live API responses verified 2026-04-10*
 
 ---
 
@@ -2203,7 +2203,7 @@ For the political donor / corporate verification use case: require `registration
 ---
 
 ### API access
-- **Base URL:** `https://www.justice.gov/api/v1/` — documented at [justice.gov/developer/api-documentation/api_v1](https://www.justice.gov/developer/api-documentation/api_v1)
+- **Base URL:** `https://www.justice.gov/api/v1/` — documented at [justice.gov/developer/api-documentation/api_v1](https://www.justice.gov/developer/api-documentation/api_v1) (VERIFIED)
 - **Auth:** None. Public, unauthenticated JSON API.
 - **Rate limit:** **4 requests/second** per IP. Exceeding this causes degraded performance and potential blocking. No documented daily cap.
 - **Pagination:** Zero-based page index. Default page size = 20. Max page size = 50 (enforced server-side; requesting higher silently caps at 50). Use `page=N` and `pagesize=50` together. As of 2026-04-10: **264,531 total records** across all DOJ components, accessible across 5,291 pages at pagesize=50.
@@ -2316,8 +2316,8 @@ For the political donor / corporate verification use case: require `registration
 - **January 20, 2025 — OPA archive migration:** All OPA press releases dated before January 20, 2025 moved from `/opa/pr/` to `/archives/opa/pr/`. The old paths issue HTTP 301 redirects. The API was updated to return new canonical `/archives/opa/pr/` URLs for these records. The new DOJ administration created a new "current" press releases section at `/news/press-releases` (HTML only) showing only post-inauguration content.
 - **January 20, 2025 — Administration change:** DOJ enforcement priorities shifted significantly. The Biden-era DOJ archive is accessible at `https://www.justice.gov/archives/doj-archive`. OPA blogged content and speeches from pre-Jan 2025 are at `/archives/opa/`.
 - **API documentation updated December 2025** — the `/developer/api-documentation/api_v1` page now shows a stale example count (246,868). Live count is 264,531+.
-- **No new API version announced** — the API remains at `v1`. No changelog or versioning announcements are published. The API has been in place since December 2014 ([original launch announcement](https://www.justice.gov/archives/opa/pr/department-justice-launches-new-digital-services)).
-- **RSS feeds for Antitrust Division** — the ATR-specific RSS feeds (`/atr/...`) appear to no longer resolve (return 404 as of April 2026), though the documentation page remains at [justice.gov/atr/news-feeds](https://www.justice.gov/atr/news-feeds).
+- **No new API version announced** — the API remains at `v1`. No changelog or versioning announcements are published. The API has been in place since December 2014 ([original launch announcement](https://www.justice.gov/archives/opa/pr/department-justice-launches-new-digital-services) (VERIFIED)).
+- **RSS feeds for Antitrust Division** — the ATR-specific RSS feeds (`/atr/...`) appear to no longer resolve (return 404 as of April 2026), though the documentation page remains at [justice.gov/atr/news-feeds](https://www.justice.gov/atr/news-feeds) (VERIFIED).
 - **USAO press release count growth rate:** ~17,000–20,000 new records per year system-wide (roughly 350–400 per week across all districts). Plan for ~1,500–2,000 new records per month if doing incremental pulls.
 
 ---
@@ -2523,11 +2523,11 @@ For the political donor / corporate verification use case: require `registration
 
 ### Recent changes / deprecations
 
-- **May 2025 — Recall flat file schema change:** Fields #19 reduced to CHAR(3); fields #20 and #22 expanded to 6,000 chars; fields #28 (`DO_NOT_DRIVE`) and #29 (`PARK_OUTSIDE`) added. Any parsing code built against the pre-May 2025 schema needs updating. ([Source: RCL.txt data dictionary](https://static.nhtsa.gov/odi/ffdd/rcl/RCL.txt))
+- **May 2025 — Recall flat file schema change:** Fields #19 reduced to CHAR(3); fields #20 and #22 expanded to 6,000 chars; fields #28 (`DO_NOT_DRIVE`) and #29 (`PARK_OUTSIDE`) added. Any parsing code built against the pre-May 2025 schema needs updating. ([Source: RCL.txt data dictionary](https://static.nhtsa.gov/odi/ffdd/rcl/RCL.txt) (VERIFIED))
 
-- **April 30, 2026 — Complaints flat file schema change (upcoming):** Fields #50 (`Vehicle Operator`) and #51 (`State of Incident`) will be added to `FLAT_CMPL.zip`. ([Source: NHTSA Datasets and APIs page](https://www.nhtsa.gov/nhtsa-datasets-and-apis))
+- **April 30, 2026 — Complaints flat file schema change (upcoming):** Fields #50 (`Vehicle Operator`) and #51 (`State of Incident`) will be added to `FLAT_CMPL.zip`. ([Source: NHTSA Datasets and APIs page](https://www.nhtsa.gov/nhtsa-datasets-and-apis) (VERIFIED))
 
-- **December 2025 (vPIC v3.67) — vPICList_lite database location changed:** The download link for the standalone vPIC lite database was moved to a new Downloads module on the vPIC home page. Any hardcoded download URLs for the lite database may be broken. ([Source: vPIC release notes](https://vpic.nhtsa.dot.gov/api/Home/Index/ReleaseNotes))
+- **December 2025 (vPIC v3.67) — vPICList_lite database location changed:** The download link for the standalone vPIC lite database was moved to a new Downloads module on the vPIC home page. Any hardcoded download URLs for the lite database may be broken. ([Source: vPIC release notes](https://vpic.nhtsa.dot.gov/api/Home/Index/ReleaseNotes) (VERIFIED))
 
 - **March 2025 (vPIC v3.58) — New VIN decode fields added:** `Combined Braking System (CBS)`, `Wheelie Mitigation`, `Fuel-Tank Type`, and `Fuel-Tank Material` variables added to all VIN decode endpoints. Existing parsers that enumerate all fields are unaffected; parsers that validate against a fixed field schema need updating.
 

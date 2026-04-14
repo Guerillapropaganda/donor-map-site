@@ -32,11 +32,11 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 [[Preserve America|Preserve America]] is the personal super PAC of [[Miriam Adelson|Miriam Adelson]], widow of casino mogul Sheldon Adelson. Founded originally as Sheldon's vehicle during his lifetime, the PAC passed to Miriam's control after his death in January 2021. It is one of the largest Republican super PACs and, as of the 2024 cycle, among the top three sources of outside spending in American politics.
 
-[Preserve America PAC - Wikipedia](https://en.wikipedia.org/wiki/Preserve_America_PAC) (Tier 2)
+[Preserve America PAC - Wikipedia](https://en.wikipedia.org/wiki/Preserve_America_PAC) (Tier 2) (VERIFIED)
 
 [[Miriam Adelson|Miriam Adelson]] is the controlling billionaire behind $215+ million in total PAC spending since inception. She is simultaneously: (1) Trump's single largest donor in 2024, (2) a major shareholder in Las Vegas Sands and Marina Venetian (casinos), and (3) a prominent Israel-first philanthropist and political operative.
 
-[Who is Miriam Adelson, the pro-Israel donor Trump lauded at the Knesset?](https://www.aljazeera.com/news/2025/10/13/who-is-miriam-adelson-the-pro-israel-donor-trump-lauded-at-the-knesset) (Tier 2)
+[Who is Miriam Adelson, the pro-Israel donor Trump lauded at the Knesset?](https://www.aljazeera.com/news/2025/10/13/who-is-miriam-adelson-the-pro-israel-donor-trump-lauded-at-the-knesset) (Tier 2) (VERIFIED)
 
 ### What They Want
 
@@ -45,9 +45,9 @@ Preserve America's strategic agenda aligns perfectly with Miriam Adelson's three
 ### 1. Trump Power Consolidation
 Adelson positioned Preserve America as Trump's primary financial vehicle alongside [[MAGA Inc|MAGA Inc]]. In 2024, she contributed $106 million to the PAC in tranches: $25 million in July, August, and September, plus $20 million in late September. This eclipsed [[Elon Musk|Elon Musk]]'s $75 million contribution to his own Trump PAC and made her Trump's largest 2024 donor.
 
-[Miriam Adelson gives $100 million to Trump campaign, making good on reported pledge](https://www.timesofisrael.com/miriam-adelson-gives-100-million-to-trump-campaign-making-good-on-reported-pledge/) (Tier 2)
+[Miriam Adelson gives $100 million to Trump campaign, making good on reported pledge](https://www.timesofisrael.com/miriam-adelson-gives-100-million-to-trump-campaign-making-good-on-reported-pledge/) (Tier 2) (VERIFIED)
 
-[GOP megadonor Miriam Adelson plans to do whatever it takes to help Trump win with $100 million PAC](https://www.cnbc.com/2024/08/16/donald-trump-miriam-adelson-campaign-funding.html) (Tier 2)
+[GOP megadonor Miriam Adelson plans to do whatever it takes to help Trump win with $100 million PAC](https://www.cnbc.com/2024/08/16/donald-trump-miriam-adelson-campaign-funding.html) (Tier 2) (VERIFIED)
 
 ### 2. Israel Policy Influence
 Adelson uses Preserve America spending to condition Trump administration policy on unflinching support for Israel. She has leveraged her relationships with Trump staff (and her own access) to push for: maximum military aid packages to Israel, opposition to International unlawful Court prosecution of Israeli officials, pressure on Arab countries for normalized relations, and alignment with Likud coalition positions.
@@ -108,18 +108,18 @@ Preserve America does not operate in isolation. It coordinates with:
 - **Billionaire Bundlers** — informal coordination with [[Elon Musk|Elon Musk]], [[Peter Thiel|Peter Thiel]] associates, and other Trump mega-funders
 - **Israel Lobby Infrastructure** — AIPAC, [[JPAC - Jewish Public Affairs Committee of California|JPAC]] (California), and other pro-Israel organizations whose spending aligns with Adelson's
 
-[GOP donors pour hundreds of millions into pro-Trump super PACs before Election Day](https://www.nbcnews.com/politics/2024-election/gop-donors-pour-hundreds-millions-trump-super-pacs-election-day-rcna175705) (Tier 2)
+[GOP donors pour hundreds of millions into pro-Trump super PACs before Election Day](https://www.nbcnews.com/politics/2024-election/gop-donors-pour-hundreds-millions-trump-super-pacs-election-day-rcna175705) (Tier 2) (VERIFIED)
 
 ### Sources
 
 - [Preserve America PAC - Wikipedia](https://en.wikipedia.org/wiki/Preserve_America_PAC) (Tier 2)
-- [Who is Miriam Adelson, the pro-Israel donor Trump lauded at the Knesset? — Al Jazeera](https://www.aljazeera.com/news/2025/10/13/who-is-miriam-adelson-the-pro-israel-donor-trump-lauded-at-the-knesset) (Tier 2)
-- [Miriam Adelson gives $100 million to Trump campaign, making good on reported pledge — Times of Israel](https://www.timesofisrael.com/miriam-adelson-gives-100-million-to-trump-campaign-making-good-on-reported-pledge/) (Tier 2)
-- [GOP megadonor Miriam Adelson plans to do whatever it takes to help Trump win with $100 million PAC — CNBC](https://www.cnbc.com/2024/08/16/donald-trump-miriam-adelson-campaign-funding.html) (Tier 2)
-- [The Trump Administration — Track AIPAC](https://www.trackaipac.com/trump) (Tier 2)
-- [GOP donors pour hundreds of millions into pro-Trump super PACs before Election Day — NBC News](https://www.nbcnews.com/politics/2024-election/gop-donors-pour-hundreds-millions-trump-super-pacs-election-day-rcna175705) (Tier 2)
-- [The Final Pre-Election Reports Are In: Here Are Trump's 20 Largest Donors — Sludge](https://readsludge.com/2024/10/25/the-final-pre-election-reports-are-in-here-are-trumps-20-largest-donors/) (Tier 2)
-- [Adelson, Miriam O.: Donor Detail — OpenSecrets](https://www.fec.gov/data/independent-expenditures/?q=Miriam%20O.%20Adelson) (Tier 1)
+- [Who is Miriam Adelson, the pro-Israel donor Trump lauded at the Knesset? — Al Jazeera](https://www.aljazeera.com/news/2025/10/13/who-is-miriam-adelson-the-pro-israel-donor-trump-lauded-at-the-knesset) (Tier 2) (VERIFIED)
+- [Miriam Adelson gives $100 million to Trump campaign, making good on reported pledge — Times of Israel](https://www.timesofisrael.com/miriam-adelson-gives-100-million-to-trump-campaign-making-good-on-reported-pledge/) (Tier 2) (VERIFIED)
+- [GOP megadonor Miriam Adelson plans to do whatever it takes to help Trump win with $100 million PAC — CNBC](https://www.cnbc.com/2024/08/16/donald-trump-miriam-adelson-campaign-funding.html) (Tier 2) (VERIFIED)
+- [The Trump Administration — Track AIPAC](https://www.trackaipac.com/trump) (Tier 2) (VERIFIED)
+- [GOP donors pour hundreds of millions into pro-Trump super PACs before Election Day — NBC News](https://www.nbcnews.com/politics/2024-election/gop-donors-pour-hundreds-millions-trump-super-pacs-election-day-rcna175705) (Tier 2) (VERIFIED)
+- [The Final Pre-Election Reports Are In: Here Are Trump's 20 Largest Donors — Sludge](https://readsludge.com/2024/10/25/the-final-pre-election-reports-are-in-here-are-trumps-20-largest-donors/) (Tier 2) (VERIFIED)
+- [Adelson, Miriam O.: Donor Detail — OpenSecrets](https://www.fec.gov/data/independent-expenditures/?q=Miriam%20O.%20Adelson) (Tier 1) (VERIFIED)
 
 ---
 
@@ -146,11 +146,11 @@ Preserve America does not operate in isolation. It coordinates with:
 **Filing history:** 2013, 2012, 2011
 
 **View 990 filings:**
-- [2013 Filing](https://projects.propublica.org/nonprofits/organizations/561858873/2013)
-- [2012 Filing](https://projects.propublica.org/nonprofits/organizations/561858873/2012)
-- [2011 Filing](https://projects.propublica.org/nonprofits/organizations/561858873/2011)
+- ~~[2013 Filing](https://projects.propublica.org/nonprofits/organizations/561858873/2013)~~ (URL broken, archived by Ops)
+- ~~[2012 Filing](https://projects.propublica.org/nonprofits/organizations/561858873/2012)~~ (URL broken, archived by Ops)
+- ~~[2011 Filing](https://projects.propublica.org/nonprofits/organizations/561858873/2011)~~ (URL broken, archived by Ops)
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/561858873) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/561858873) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Federal Register Activity
@@ -165,15 +165,15 @@ Preserve America does not operate in isolation. It coordinates with:
 | Agencies | Federal Highway Administration, Transportation Department |
 
 **Recent regulatory activity:**
-- [Notice of Final Federal Agency Actions on Proposed Highway Projects in Texas](https://www.federalregister.gov/documents/2026/03/17/2026-05154/notice-of-final-federal-agency-actions-on-proposed-highway-projects-in-texas) (2026-03-17) — Transportation Department
-- [Notice of Final State Agency Actions on Proposed Transportation Project in Arizona](https://www.federalregister.gov/documents/2026/02/20/2026-03383/notice-of-final-state-agency-actions-on-proposed-transportation-project-in-arizona) (2026-02-20) — Transportation Department
-- [Notice of Final State Agency Actions on Proposed Transportation Project in Arizona](https://www.federalregister.gov/documents/2026/02/20/2026-03382/notice-of-final-state-agency-actions-on-proposed-transportation-project-in-arizona) (2026-02-20) — Transportation Department
-- [Notice of Final Federal Agency Actions on Proposed Project in Hawaii](https://www.federalregister.gov/documents/2026/01/29/2026-01753/notice-of-final-federal-agency-actions-on-proposed-project-in-hawaii) (2026-01-29) — Transportation Department
-- [Notice of Final Federal Agency Actions on Proposed Transportation Project in California](https://www.federalregister.gov/documents/2026/01/28/2026-01685/notice-of-final-federal-agency-actions-on-proposed-transportation-project-in-california) (2026-01-28) — Transportation Department
-- [Notice of Final Federal Agency Actions on Proposed Transportation Project in California](https://www.federalregister.gov/documents/2026/01/28/2026-01684/notice-of-final-federal-agency-actions-on-proposed-transportation-project-in-california) (2026-01-28) — Transportation Department
+- [Notice of Final Federal Agency Actions on Proposed Highway Projects in Texas](https://www.federalregister.gov/documents/2026/03/17/2026-05154/notice-of-final-federal-agency-actions-on-proposed-highway-projects-in-texas) (VERIFIED) (2026-03-17) — Transportation Department
+- [Notice of Final State Agency Actions on Proposed Transportation Project in Arizona](https://www.federalregister.gov/documents/2026/02/20/2026-03383/notice-of-final-state-agency-actions-on-proposed-transportation-project-in-arizona) (VERIFIED) (2026-02-20) — Transportation Department
+- [Notice of Final State Agency Actions on Proposed Transportation Project in Arizona](https://www.federalregister.gov/documents/2026/02/20/2026-03382/notice-of-final-state-agency-actions-on-proposed-transportation-project-in-arizona) (VERIFIED) (2026-02-20) — Transportation Department
+- [Notice of Final Federal Agency Actions on Proposed Project in Hawaii](https://www.federalregister.gov/documents/2026/01/29/2026-01753/notice-of-final-federal-agency-actions-on-proposed-project-in-hawaii) (VERIFIED) (2026-01-29) — Transportation Department
+- [Notice of Final Federal Agency Actions on Proposed Transportation Project in California](https://www.federalregister.gov/documents/2026/01/28/2026-01685/notice-of-final-federal-agency-actions-on-proposed-transportation-project-in-california) (VERIFIED) (2026-01-28) — Transportation Department
+- [Notice of Final Federal Agency Actions on Proposed Transportation Project in California](https://www.federalregister.gov/documents/2026/01/28/2026-01684/notice-of-final-federal-agency-actions-on-proposed-transportation-project-in-california) (VERIFIED) (2026-01-28) — Transportation Department
 - ... and 483 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Preserve%20America%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Preserve%20America%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### SEC Filing Activity
@@ -191,5 +191,5 @@ Preserve America does not operate in isolation. It coordinates with:
 - 2020-10-30 — **10-Q**: FORM 10-Q
 - 2020-08-05 — **10-Q**: 10-Q
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Preserve%20America%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Preserve%20America%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->

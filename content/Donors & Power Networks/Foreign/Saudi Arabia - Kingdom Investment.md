@@ -54,9 +54,9 @@ Continued U.S. arms sales (particularly advanced weapons systems), diplomatic co
 
 ### Sources
 
-- [FARA: Saudi Arabia foreign agent registrations](https://efile.fara.gov/ords/fara/f?p=185:1) (Tier 1)
-- [OpenSecrets: Saudi Arabia foreign lobbying](https://www.opensecrets.org/fara) (Tier 1)
-- [Ballotpedia: Saudi Arabia-US relations](https://ballotpedia.org/Saudi_Arabia_-_Kingdom_Investment) (Tier 3)
+- ~~[FARA: Saudi Arabia foreign agent registrations](https://efile.fara.gov/ords/fara/f?p=185:1)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [OpenSecrets: Saudi Arabia foreign lobbying](https://www.opensecrets.org/fara) (Tier 1) (VERIFIED)
+- [Ballotpedia: Saudi Arabia-US relations](https://ballotpedia.org/Saudi_Arabia_-_Kingdom_Investment) (Tier 3) (VERIFIED)
 
 ### OFAC Sanctions Screening
 <!-- auto:ofac-sdn start -->
@@ -72,14 +72,14 @@ Continued U.S. arms sales (particularly advanced weapons systems), diplomatic co
 - ISIL-SAUDI ARABIA (-0-) [SDGT]
   - Remarks: Secondary sanctions risk: section 1(b) of Executive Order 13224, as amended by Executive Order 13886; a.k.a. 'WILAYAT NAJD'; a.k.a. 'NAJD PROVINCE'; a.k.a. 'PROVINCE OF THE TWO HOLY PLACES'; a.k.a. 'A...
 
-- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [558600VNAD657YBT9892](https://search.gleif.org/#/record/558600VNAD657YBT9892) |
+| LEI | [558600VNAD657YBT9892](https://search.gleif.org/#/record/558600VNAD657YBT9892) (VERIFIED) |
 | Legal Name | The Saudi Fifth Technology Investment Company |
 | Jurisdiction | SA |
 | Entity Status | ACTIVE |
@@ -87,5 +87,5 @@ Continued U.S. arms sales (particularly advanced weapons systems), diplomatic co
 | Registration | ISSUED |
 | Last Updated | 2026-01-12T15:03:04Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->

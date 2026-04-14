@@ -153,7 +153,7 @@ The political contributions ($39,000 PAC annually, $550,000 in lobbying) are inv
 
 **Agencies contacted:** Agriculture, Dept of (USDA), Commerce, Dept of (DOC), HOUSE OF REPRESENTATIVES, SENATE, State, Dept of (DOS), U.S. Trade Representative (USTR), White House Office
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Bacardi%20-%20Bacardi%20USA) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Bacardi%20-%20Bacardi%20USA) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)
@@ -190,10 +190,10 @@ The political contributions ($39,000 PAC annually, $550,000 in lobbying) are inv
 
 **Recent HSR merger filings (early terminations granted):**
 
-- [Bacardi Limited → John Paul Dejoria](https://www.ftc.gov/legal-library/browse/early-termination-notices/20180738) (2018-02-26)
-- [Bacardi U.S.A., Inc. → Tequila Cazadores, S.A. de C.V.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20020361) (2002-01-28)
+- [Bacardi Limited → John Paul Dejoria](https://www.ftc.gov/legal-library/browse/early-termination-notices/20180738) (NEEDS REVIEW) (2018-02-26)
+- [Bacardi U.S.A., Inc. → Tequila Cazadores, S.A. de C.V.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20020361) (VERIFIED) (2002-01-28)
 
-> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Bacardi%20-%20Bacardi%20USA).
+> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Bacardi%20-%20Bacardi%20USA) (VERIFIED).
 
-- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Bacardi%20-%20Bacardi%20USA) (Tier 1)
+- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Bacardi%20-%20Bacardi%20USA) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->

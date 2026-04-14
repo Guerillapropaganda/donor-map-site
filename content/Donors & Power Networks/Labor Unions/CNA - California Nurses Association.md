@@ -134,13 +134,13 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: CNA
 
 ### Sources
 
-- [OpenSecrets: National Nurses United 2024 cycle profile](https://www.opensecrets.org/orgs/national-nurses-united/summary?id=D000062602) (Tier 1)
-- [National Nurses United: CalCare campaign page](https://www.nationalnursesunited.org/term/campaigns/calcare) (Tier 2)
-- [National Nurses United: Official endorsements](https://www.nationalnursesunited.org/nnu-endorsements) (Tier 2)
-- [National Nurses United: Kaiser strike coverage](https://www.nationalnursesunited.org/state/california) (Tier 2)
-- [California Legislature: AB 1400 bill history](https://leginfo.legislature.ca.gov/faces/home.xhtml?bill_id=202120220AB1400) (Tier 2)
-- [Physicians for a National Health Program: AB 1400 analysis](https://pnhp.org/news/california-single-payer-legislation-ab-1400/) (Tier 2)
-- [National Nurses United: Healthcare research and advocacy](https://www.nationalnursesunited.org/) (Tier 2)
+- [OpenSecrets: National Nurses United 2024 cycle profile](https://www.opensecrets.org/orgs/national-nurses-united/summary?id=D000062602) (Tier 1) (VERIFIED)
+- [National Nurses United: CalCare campaign page](https://www.nationalnursesunited.org/term/campaigns/calcare) (Tier 2) (VERIFIED)
+- [National Nurses United: Official endorsements](https://www.nationalnursesunited.org/nnu-endorsements) (Tier 2) (VERIFIED)
+- [National Nurses United: Kaiser strike coverage](https://www.nationalnursesunited.org/state/california) (Tier 2) (VERIFIED)
+- [California Legislature: AB 1400 bill history](https://leginfo.legislature.ca.gov/faces/home.xhtml?bill_id=202120220AB1400) (Tier 2) (VERIFIED)
+- [Physicians for a National Health Program: AB 1400 analysis](https://pnhp.org/news/california-single-payer-legislation-ab-1400/) (Tier 2) (VERIFIED)
+- [National Nurses United: Healthcare research and advocacy](https://www.nationalnursesunited.org/) (Tier 2) (VERIFIED)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-donor start -->
@@ -157,7 +157,7 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: CNA
 | NEWSOM FOR CALIFORNIA GOVERNOR 2022 | $64,800 | — |
 | CD 1 ALLIANCE | $5,000 | — |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=CNA%20-%20California%20Nurses%20Association) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=CNA%20-%20California%20Nurses%20Association) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### SEC Filing Activity
@@ -171,7 +171,7 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: CNA
 
 - 2009-07-31 — **EX-10.1**: EX-10.1
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22CNA%20-%20California%20Nurses%20Association%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22CNA%20-%20California%20Nurses%20Association%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Tax Filings (IRS 990)
@@ -188,12 +188,12 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: CNA
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/940362060/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/940362060/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/940362060/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/940362060/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/940362060/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/940362060/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/940362060/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/940362060/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/940362060/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/940362060/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/940362060) (Tier 1)
+- ~~[Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/940362060)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:nonprofit-990 end -->

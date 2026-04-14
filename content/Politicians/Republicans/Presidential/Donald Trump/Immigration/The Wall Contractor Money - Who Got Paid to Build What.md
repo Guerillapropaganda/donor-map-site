@@ -82,12 +82,12 @@ The property seizures fell overwhelmingly on Texas landowners, many of them Hisp
 
 ### Sources
 
-- [Bloomberg. Trump Immigration Spending Creates First Border Wall Billionaire (March 2026)](https://www.bloomberg.com/news/features/2026-03-18/trump-immigration-spending-creates-first-border-wall-billionaire) (Tier 2)
-- [NPR. His Private Border Wall Enraged Neighbors. Then He Got $2B to Build Walls for Trump (October 2020)](https://www.npr.org/2020/10/14/922153898/his-private-border-wall-enraged-neighbors-then-he-landed-2b-to-build-walls-for-t) (Tier 2)
-- [CBS 60 Minutes. Why a private section of the border wall is allegedly failing (September 2020)](https://www.cbsnews.com/news/southern-border-wall-erosion-fisher-sand-and-gravel-60-minutes-2020-09-27/) (Tier 2)
-- [ProPublica. New Engineering Report Finds Privately Built Border Wall Will Fail](https://www.propublica.org/article/new-engineering-report-finds-privately-built-border-wall-will-fail) (Tier 2)
-- [NPR. Trump Administration Diverts $3.8 Billion In Pentagon Funding To Border Wall (February 2020)](https://www.npr.org/2020/02/13/805796618/trump-administration-diverts-3-8-billion-in-pentagon-funding-to-border-wall) (Tier 2)
-- [Military Times. Appeals court rules Trump wrongly diverted $2.5 billion in military construction funds (June 2020)](https://www.militarytimes.com/news/your-military/2020/06/26/appeals-court-trump-wrongly-diverted-2-5-billion-in-military-construction-funds-for-border-wall/) (Tier 2)
-- [American Immigration Council. Private Land Is Being Seized in Texas to Build the Border Wall](https://www.americanimmigrationcouncil.org/blog/border-wall-eminent-domain/) (Tier 2)
-- [Politifact. How many miles of border wall did Donald Trump build (August 2023)](https://www.politifact.com/factchecks/2023/aug/09/donald-trump/how-many-miles-of-border-wall-did-donald-trump-bui/) (Tier 2)
+- ~~[Bloomberg. Trump Immigration Spending Creates First Border Wall Billionaire (March 2026)](https://www.bloomberg.com/news/features/2026-03-18/trump-immigration-spending-creates-first-border-wall-billionaire)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [NPR. His Private Border Wall Enraged Neighbors. Then He Got $2B to Build Walls for Trump (October 2020)](https://www.npr.org/2020/10/14/922153898/his-private-border-wall-enraged-neighbors-then-he-landed-2b-to-build-walls-for-t) (Tier 2) (VERIFIED)
+- [CBS 60 Minutes. Why a private section of the border wall is allegedly failing (September 2020)](https://www.cbsnews.com/news/southern-border-wall-erosion-fisher-sand-and-gravel-60-minutes-2020-09-27/) (Tier 2) (VERIFIED)
+- [ProPublica. New Engineering Report Finds Privately Built Border Wall Will Fail](https://www.propublica.org/article/new-engineering-report-finds-privately-built-border-wall-will-fail) (Tier 2) (VERIFIED)
+- [NPR. Trump Administration Diverts $3.8 Billion In Pentagon Funding To Border Wall (February 2020)](https://www.npr.org/2020/02/13/805796618/trump-administration-diverts-3-8-billion-in-pentagon-funding-to-border-wall) (Tier 2) (VERIFIED)
+- ~~[Military Times. Appeals court rules Trump wrongly diverted $2.5 billion in military construction funds (June 2020)](https://www.militarytimes.com/news/your-military/2020/06/26/appeals-court-trump-wrongly-diverted-2-5-billion-in-military-construction-funds-for-border-wall/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [American Immigration Council. Private Land Is Being Seized in Texas to Build the Border Wall](https://www.americanimmigrationcouncil.org/blog/border-wall-eminent-domain/) (Tier 2) (VERIFIED)
+- [Politifact. How many miles of border wall did Donald Trump build (August 2023)](https://www.politifact.com/factchecks/2023/aug/09/donald-trump/how-many-miles-of-border-wall-did-donald-trump-bui/) (Tier 2) (VERIFIED)
 

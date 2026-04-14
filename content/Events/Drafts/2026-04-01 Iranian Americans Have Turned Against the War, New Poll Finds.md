@@ -13,7 +13,7 @@ profiles:
 
 ## Iranian Americans Have Turned Against the War, New Poll Finds
 
-**Source:** [The Intercept](https://theintercept.com/2026/04/01/iranian-americans-against-war-poll-israel/)
+**Source:** [The Intercept](https://theintercept.com/2026/04/01/iranian-americans-against-war-poll-israel/) (VERIFIED)
 **Date:** 2026-04-01
 
 At the start of the U.S.–Israel war, Iranian Americans were split. Now a NIAC poll found that two-thirds want to see it end. The post Iranian Americans Have Turned Against the War, New Poll Finds appeared first on The Intercept.

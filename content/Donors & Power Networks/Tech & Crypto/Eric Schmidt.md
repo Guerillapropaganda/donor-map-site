@@ -89,9 +89,9 @@ Schmidt is the class function personified: take a government advisory position, 
 
 During 2021-2022 cycle, Schmidt wired $227,000 in in-kind contributions to STAC Labs — a tech startup he bankrolled through a nonprofit — which provided voter data analysis services to 18 state Democratic parties. This disguises direct donations as "tech infrastructure support."
 
-- [FEC Receipts: Eric Schmidt Donor Lookup 2020](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Eric%20Schmidt) (Tier 1) (UNVERIFIED)
-- [FEC Individual Contribution Records — Eric Schmidt](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=Eric+Schmidt) (Tier 1)
-- [Fox News: Schmidt as Democratic power player](https://www.foxnews.com/politics/former-google-ceo-emerges-key-democratic-power-player-ahead-midterms) (Tier 2)
+- [FEC Receipts: Eric Schmidt Donor Lookup 2020](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Eric%20Schmidt) (Tier 1) (VERIFIED) (UNVERIFIED)
+- [FEC Individual Contribution Records — Eric Schmidt](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=Eric+Schmidt) (Tier 1) (VERIFIED)
+- [Fox News: Schmidt as Democratic power player](https://www.foxnews.com/politics/former-google-ceo-emerges-key-democratic-power-player-ahead-midterms) (Tier 2) (VERIFIED)
 
 ---
 
@@ -120,7 +120,7 @@ In December 2022, Politico reported that Schmidt was helping fund the salaries o
 
 **The Tom Kalil case:** Kalil, Schmidt Futures' chief innovation officer, served as an unpaid consultant in the White House OSTP for four months in 2021 until ethics complaints prompted his departure. He returned to Schmidt Futures — which continued funding OSTP positions.
 
-- [Politico: Ex-Google boss funds Biden administration jobs](https://www.politico.com/news/2022/12/22/eric-schmidt-joe-biden-administration-00074160) (Tier 2) (UNVERIFIED)
+- ~~[Politico: Ex-Google boss funds Biden administration jobs](https://www.politico.com/news/2022/12/22/eric-schmidt-joe-biden-administration-00074160)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 
 ### Defense Innovation Board (2016-2020)
 
@@ -148,11 +148,11 @@ Established by Congress through the 2018 NDAA. Rep. Mac Thornberry (R-TX) nomina
 | 2021 | Duality Technologies (Schmidt portfolio) | DARPA award $14,500,000 for encryption AI | Award follows NSCAI recommendation for dual-use AI investment | 0-6 months |
 | 2022-2024 | DIB recommendations adopted as DOD policy | Unknown — portfolio-wide defense contracts | Military AI contracts distributed to Schmidt portfolio companies | Ongoing |
 
-- [CNBC: Schmidt helped write AI laws without disclosing AI investments](https://www.cnbc.com/2022/10/24/how-googles-former-ceo-eric-schmidt-helped-write-ai-laws-in-washington-without-publicly-disclosing-investments-in-ai-start-ups.html) (Tier 2)
-- [Tech Transparency Project: Schmidt's Hidden Influence Over US Defense Spending](https://www.techtransparencyproject.org/articles/eric-schmidts-unseen-influence-over-us-defense-spending) (Tier 2)
-- [Campaign for Accountability: Schmidt ties to Chinese AI](https://campaignforaccountability.org/tech-transparency-project-uncovers-new-ties-between-eric-schmidt-and-chinese-ai-industry/) (Tier 2)
-- [Wired: Schmidt China AI ties](https://www.wired.com/story/eric-schmidt-china-ai-ties/) (Tier 2)
-- [EPIC: EPIC v. AI Commission](https://epic.org/documents/epic-v-ai-commission/) (Tier 2) (UNVERIFIED)
+- [CNBC: Schmidt helped write AI laws without disclosing AI investments](https://www.cnbc.com/2022/10/24/how-googles-former-ceo-eric-schmidt-helped-write-ai-laws-in-washington-without-publicly-disclosing-investments-in-ai-start-ups.html) (Tier 2) (VERIFIED)
+- [Tech Transparency Project: Schmidt's Hidden Influence Over US Defense Spending](https://www.techtransparencyproject.org/articles/eric-schmidts-unseen-influence-over-us-defense-spending) (Tier 2) (VERIFIED)
+- [Campaign for Accountability: Schmidt ties to Chinese AI](https://campaignforaccountability.org/tech-transparency-project-uncovers-new-ties-between-eric-schmidt-and-chinese-ai-industry/) (Tier 2) (VERIFIED)
+- [Wired: Schmidt China AI ties](https://www.wired.com/story/eric-schmidt-china-ai-ties/) (Tier 2) (VERIFIED)
+- [EPIC: EPIC v. AI Commission](https://epic.org/documents/epic-v-ai-commission/) (Tier 2) (VERIFIED) (UNVERIFIED)
 
 ### SCSP — Special Competitive Studies Project (2021-present)
 
@@ -160,8 +160,8 @@ Founded October 2021, immediately after NSCAI concluded. Explicitly modeled on t
 
 Key policy positions: opposes significant government regulation of AI; advocates industry self-regulation; frames AI competition with China as existential to justify minimal safety guardrails; aligned with Heritage Foundation's Project 2025 approach to AI. In 2025, SCSP welcomed the White House's AI Action Plan (permissionless innovation framework). In June 2025, Joint Chiefs Chairman Dan Caine keynoted an SCSP-sponsored AI+ Expo conference. In March 2026, SCSP announced a new National Commission on Robotics for Advanced Manufacturing.
 
-- [SCSP: Who We Are](https://www.scsp.ai/about/who-we-are/) (Tier 3)
-- [Project Censored: AI Warlord Eric Schmidt](https://www.projectcensored.org/ai-warlord-eric-schmidt-money-media-maim/) (Tier 2) (UNVERIFIED)
+- [SCSP: Who We Are](https://www.scsp.ai/about/who-we-are/) (Tier 3) (VERIFIED)
+- [Project Censored: AI Warlord Eric Schmidt](https://www.projectcensored.org/ai-warlord-eric-schmidt-money-media-maim/) (Tier 2) (VERIFIED) (UNVERIFIED)
 
 ### America's Frontier Fund (2021-2022)
 
@@ -208,13 +208,13 @@ Schmidt exemplifies the most sophisticated revolving door in the vault — one t
 
 ### Primary Documents — Tier 1:
 - [FEC Individual Contribution Records — Eric Schmidt](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=Eric+Schmidt) (Tier 1)
-- [OpenSecrets Donor Profile — Eric Schmidt](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=eric%20schmidt) (Tier 1)
+- [OpenSecrets Donor Profile — Eric Schmidt](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=eric%20schmidt) (Tier 1) (VERIFIED)
 
 ### Investigative Journalism — Tier 2:
-- [CNBC: Schmidt helped write AI laws without disclosing investments](https://www.cnbc.com/2022/10/24/how-googles-former-ceo-eric-schmidt-helped-write-ai-laws-in-washington-without-publicly-disclosing-investments-in-ai-start-ups.html) (Tier 2)
+- [CNBC: Schmidt helped write AI laws without disclosing investments](https://www.cnbc.com/2022/10/24/how-googles-former-ceo-eric-schmidt-helped-write-ai-laws-in-washington-without-publicly-disclosing-investments-in-ai-start-ups.html) (Tier 2) (VERIFIED)
 - [Tech Transparency Project: Schmidt's Hidden Influence Over US Defense Spending](https://www.techtransparencyproject.org/articles/eric-schmidts-unseen-influence-over-us-defense-spending) (Tier 2)
-- [DefenseScoop: Schmidt-led panel pushing for defense AI experimentation unit](https://defensescoop.com/2023/09/08/eric-schmidt-led-panel-pushing-for-new-defense-experimentation-unit-to-drive-military-adoption-of-generative-ai/se-experimentation-unit-to-drive-military-adoption-of-generative-ai/) (Tier 2)
-- [Air & Space Forces Magazine: As National AI Panel Shuts Down, New Think Tank Emerges](https://www.airandspaceforces.com/as-national-ai-panel-shuts-down-new-think-tank-emerges-to-continue-its-work/) (Tier 2)
+- ~~[DefenseScoop: Schmidt-led panel pushing for defense AI experimentation unit](https://defensescoop.com/2023/09/08/eric-schmidt-led-panel-pushing-for-new-defense-experimentation-unit-to-drive-military-adoption-of-generative-ai/se-experimentation-unit-to-drive-military-adoption-of-generative-ai/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Air & Space Forces Magazine: As National AI Panel Shuts Down, New Think Tank Emerges](https://www.airandspaceforces.com/as-national-ai-panel-shuts-down-new-think-tank-emerges-to-continue-its-work/) (Tier 2) (VERIFIED)
 - [Politico: Ex-Google boss funds Biden administration jobs](https://www.politico.com/news/2022/12/22/eric-schmidt-joe-biden-administration-00074160) (Tier 2) (UNVERIFIED)
 - [Fox News: Schmidt as Democratic power player](https://www.foxnews.com/politics/former-google-ceo-emerges-key-democratic-power-player-ahead-midterms) (Tier 2)
 
@@ -228,16 +228,16 @@ Schmidt exemplifies the most sophisticated revolving door in the vault — one t
 - [Project Censored: AI Warlord Eric Schmidt](https://www.projectcensored.org/ai-warlord-eric-schmidt-money-media-maim/) (Tier 2) (UNVERIFIED)
 
 ### FEC Donation Data (UNVERIFIED):
-- [FEC Receipts: Eric Schmidt 2020 donations](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Eric%20Schmidt) (Tier 1) (UNVERIFIED)
+- [FEC Receipts: Eric Schmidt 2020 donations](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Eric%20Schmidt) (Tier 1) (VERIFIED) (UNVERIFIED)
 
 ### Revolving Door / Regulatory Capture — Tier 2:
-- [Public Citizen: 75% of FTC Officials Have Revolving Door Conflicts](https://www.citizen.org/news/a-whopping-75-of-ftc-officials-have-revolving-door-conflicts-with-tech-corporations-and-other-industries/) (Tier 2)
-- [The Revolving Door Project: Big Tech](https://therevolvingdoorproject.org/the-industry-agenda-big-tech/) (Tier 2)
-- [The American Prospect: As the Revolving Door Swings](https://prospect.org/2020/07/17/as-the-revolving-door-swings-big-tech-regulation/) (Tier 2)
+- [Public Citizen: 75% of FTC Officials Have Revolving Door Conflicts](https://www.citizen.org/news/a-whopping-75-of-ftc-officials-have-revolving-door-conflicts-with-tech-corporations-and-other-industries/) (Tier 2) (VERIFIED)
+- [The Revolving Door Project: Big Tech](https://therevolvingdoorproject.org/the-industry-agenda-big-tech/) (Tier 2) (VERIFIED)
+- [The American Prospect: As the Revolving Door Swings](https://prospect.org/2020/07/17/as-the-revolving-door-swings-big-tech-regulation/) (Tier 2) (VERIFIED)
 
 ### Reference — Tier 3:
-- [Wikipedia: National Security Commission on Artificial Intelligence](https://en.wikipedia.org/wiki/National_Security_Commission_on_Artificial_Intelligence) (Tier 3)
-- [EPIC: Playing Both Sides — Impact of Tech Industry on AI Policy](https://epic.org/playing-both-sides-ai-policy/) (Tier 3)
+- [Wikipedia: National Security Commission on Artificial Intelligence](https://en.wikipedia.org/wiki/National_Security_Commission_on_Artificial_Intelligence) (Tier 3) (VERIFIED)
+- [EPIC: Playing Both Sides — Impact of Tech Industry on AI Policy](https://epic.org/playing-both-sides-ai-policy/) (Tier 3) (VERIFIED)
 
 ---
 
@@ -267,7 +267,7 @@ Schmidt exemplifies the most sophisticated revolving door in the vault — one t
 | IRS Ruling Date | 2011-09-01 |
 | Filings on Record | 0 |
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/237155170) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/237155170) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Federal Register Activity
@@ -280,15 +280,15 @@ Schmidt exemplifies the most sophisticated revolving door in the vault — one t
 | Agencies | Defense Department, Federal Communications Commission, Federal Deposit Insurance Corporation, National Security Commission on Artificial Intelligence |
 
 **Recent regulatory activity:**
-- [National Security Commission on Artificial Intelligence; Notice of Federal Advisory Committee Meeting](https://www.federalregister.gov/documents/2021/02/16/2021-02983/national-security-commission-on-artificial-intelligence-notice-of-federal-advisory-committee-meeting) (2021-02-16) — National Security Commission on Artificial Intelligence
-- [National Security Commission on Artificial Intelligence; Notice of Federal Advisory Committee Meeting](https://www.federalregister.gov/documents/2021/02/03/2021-02196/national-security-commission-on-artificial-intelligence-notice-of-federal-advisory-committee-meeting) (2021-02-03) — National Security Commission on Artificial Intelligence
-- [National Security Commission on Artificial Intelligence; Notice of Federal Advisory Committee Meeting](https://www.federalregister.gov/documents/2021/01/08/2021-00126/national-security-commission-on-artificial-intelligence-notice-of-federal-advisory-committee-meeting) (2021-01-08) — National Security Commission on Artificial Intelligence
-- [National Security Commission on Artificial Intelligence; Notice of Federal Advisory Committee Meeting](https://www.federalregister.gov/documents/2020/09/23/2020-21021/national-security-commission-on-artificial-intelligence-notice-of-federal-advisory-committee-meeting) (2020-09-23) — National Security Commission on Artificial Intelligence
-- [National Security Commission on Artificial Intelligence; Notice of Federal Advisory Committee Meeting](https://www.federalregister.gov/documents/2020/07/07/2020-14587/national-security-commission-on-artificial-intelligence-notice-of-federal-advisory-committee-meeting) (2020-07-07) — National Security Commission on Artificial Intelligence
-- [Defense Innovation Board; Notice of Federal Advisory Committee Meeting](https://www.federalregister.gov/documents/2020/06/09/2020-12472/defense-innovation-board-notice-of-federal-advisory-committee-meeting) (2020-06-09) — Defense Department
+- ~~[National Security Commission on Artificial Intelligence; Notice of Federal Advisory Committee Meeting](https://www.federalregister.gov/documents/2021/02/16/2021-02983/national-security-commission-on-artificial-intelligence-notice-of-federal-advisory-committee-meeting)~~ (URL broken, archived by Ops) (2021-02-16) — National Security Commission on Artificial Intelligence
+- ~~[National Security Commission on Artificial Intelligence; Notice of Federal Advisory Committee Meeting](https://www.federalregister.gov/documents/2021/02/03/2021-02196/national-security-commission-on-artificial-intelligence-notice-of-federal-advisory-committee-meeting)~~ (URL broken, archived by Ops) (2021-02-03) — National Security Commission on Artificial Intelligence
+- [National Security Commission on Artificial Intelligence; Notice of Federal Advisory Committee Meeting](https://www.federalregister.gov/documents/2021/01/08/2021-00126/national-security-commission-on-artificial-intelligence-notice-of-federal-advisory-committee-meeting) (VERIFIED) (2021-01-08) — National Security Commission on Artificial Intelligence
+- [National Security Commission on Artificial Intelligence; Notice of Federal Advisory Committee Meeting](https://www.federalregister.gov/documents/2020/09/23/2020-21021/national-security-commission-on-artificial-intelligence-notice-of-federal-advisory-committee-meeting) (VERIFIED) (2020-09-23) — National Security Commission on Artificial Intelligence
+- [National Security Commission on Artificial Intelligence; Notice of Federal Advisory Committee Meeting](https://www.federalregister.gov/documents/2020/07/07/2020-14587/national-security-commission-on-artificial-intelligence-notice-of-federal-advisory-committee-meeting) (VERIFIED) (2020-07-07) — National Security Commission on Artificial Intelligence
+- [Defense Innovation Board; Notice of Federal Advisory Committee Meeting](https://www.federalregister.gov/documents/2020/06/09/2020-12472/defense-innovation-board-notice-of-federal-advisory-committee-meeting) (VERIFIED) (2020-06-09) — Defense Department
 - ... and 3 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Eric%20Schmidt%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Eric%20Schmidt%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Federal Court Records (CourtListener)
@@ -307,5 +307,5 @@ Schmidt exemplifies the most sophisticated revolving door in the vault — one t
 - City of New York v. Meta Platforms, Inc. (2025) — District Court, N.D. California
 - WILSON v. ERICSSON INC. (2025) — District Court, District of Columbia
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Eric%20Schmidt%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Eric%20Schmidt%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->

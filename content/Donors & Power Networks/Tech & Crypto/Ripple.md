@@ -65,9 +65,9 @@ Ripple exemplifies how new industries use political spending to prevent regulati
 
 ### Sources
 
-- [SEC: SEC v. Ripple Labs Litigation](https://www.sec.gov/cgi-bin/browse-edgar?company=Ripple&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)
-- [OpenSecrets: Fairshake PAC Profile](https://www.opensecrets.org/orgs/ripple/summary?id=D000071522) (Tier 1)
-- [CoinDesk: Ripple XRP Legal Victory](https://www.coindesk.com/?q=Ripple) (Tier 3)
+- [SEC: SEC v. Ripple Labs Litigation](https://www.sec.gov/cgi-bin/browse-edgar?company=Ripple&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1) (VERIFIED)
+- [OpenSecrets: Fairshake PAC Profile](https://www.opensecrets.org/orgs/ripple/summary?id=D000071522) (Tier 1) (VERIFIED)
+- [CoinDesk: Ripple XRP Legal Victory](https://www.coindesk.com/?q=Ripple) (Tier 3) (VERIFIED)
 
 ---
 
@@ -87,7 +87,7 @@ Ripple exemplifies how new industries use political spending to prevent regulati
 
 **Agencies contacted:** Commerce, Dept of (DOC), Executive Office of the President (EOP), HOUSE OF REPRESENTATIVES, SENATE, Securities & Exchange Commission (SEC), Treasury, Dept of, White House Office
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Ripple) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Ripple) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -144,7 +144,7 @@ Ripple exemplifies how new industries use political spending to prevent regulati
 | Educational Support Services (611710) | $492K |
 | Support Activities for Forestry (115310) | $436K |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Federal Spending (USASpending)
@@ -176,7 +176,7 @@ Ripple exemplifies how new industries use political spending to prevent regulati
 | $791K | Department of Health and Human Services | TYPE I INTERFERON IMPACTS TREATMENT RESPONSE IN RHEUMATOID ARTHRITIS - RHEUMATOID ARTHRITIS (RA) IS  |
 | $725K | Department of Defense | TREAT IMPLANT LOOSENING OF PERCUTANEOUS OSSEOINTEGRATED PROSTHETIC LIMBS WITH INTERMITTENT PARATHYRO |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/a3c668a9-c6c0-e0f5-3dbd-1d64ec1c9938-P/latest) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/a3c668a9-c6c0-e0f5-3dbd-1d64ec1c9938-P/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Federal Contracts
@@ -200,7 +200,7 @@ Ripple exemplifies how new industries use political spending to prevent regulati
 | $1.5M | DEPT OF DEFENSE | 2014-12-22 |
 | $30K | HEALTH AND HUMAN SERVICES, DEPARTMENT OF | 2012-09-12 |
 
-- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Ripple&page=1&index=opp) (Tier 1)
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Ripple&page=1&index=opp) (Tier 1) (VERIFIED)
 <!-- auto:sam-contracts end -->
 
 ### Federal Court Records (CourtListener)
@@ -219,5 +219,5 @@ Ripple exemplifies how new industries use political spending to prevent regulati
 - STATE OF NEW JERSEY v. UNITED STATES IMMIGRATION AND CUSTOMS ENFORCEMENT (2026) — District Court, D. New Jersey
 - Anthropic PBC v. United States Department of War (2026) — Court of Appeals for the D.C. Circuit
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Ripple%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Ripple%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->

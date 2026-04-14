@@ -42,7 +42,7 @@ audit-a-plus-passed: "2026-04-11"
 
 ### Who They Are
 
-[[Demand Justice|Demand Justice]] is the Democratic Party's structural mirror image of [[Leonard Leo|Leonard Leo]]'s Federalist Society, an advocacy organization devoted entirely to judicial appointment warfare, funded through [[Sixteen Thirty Fund|Sixteen Thirty Fund]]'s dark money apparatus, and operated by Brian Fallon (former [[_Chuck Schumer Master Profile|Chuck Schumer]] press secretary, Hillary 2016 communications director). Founded as a project of [[Sixteen Thirty Fund|Sixteen Thirty Fund]] in 2018 (spun off into separate 501(c)(4) status in 2021), Demand Justice has deployed $50M+ in judicial confirmation battles, opposition campaigns against conservative nominees, and messaging infrastructure to delegitimize conservative SCOTUS composition. [Demand Justice - InfluenceWatch](https://www.influencewatch.org/organization/demand-justice/) (Tier 3) The organization's core function: transform judicial appointments from institutional process into partisan warfare, mirroring exactly what Republicans accomplished through the Federalist Society infrastructure built over decades.
+[[Demand Justice|Demand Justice]] is the Democratic Party's structural mirror image of [[Leonard Leo|Leonard Leo]]'s Federalist Society, an advocacy organization devoted entirely to judicial appointment warfare, funded through [[Sixteen Thirty Fund|Sixteen Thirty Fund]]'s dark money apparatus, and operated by Brian Fallon (former [[_Chuck Schumer Master Profile|Chuck Schumer]] press secretary, Hillary 2016 communications director). Founded as a project of [[Sixteen Thirty Fund|Sixteen Thirty Fund]] in 2018 (spun off into separate 501(c)(4) status in 2021), Demand Justice has deployed $50M+ in judicial confirmation battles, opposition campaigns against conservative nominees, and messaging infrastructure to delegitimize conservative SCOTUS composition. ~~[Demand Justice - InfluenceWatch](https://www.influencewatch.org/organization/demand-justice/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3) The organization's core function: transform judicial appointments from institutional process into partisan warfare, mirroring exactly what Republicans accomplished through the Federalist Society infrastructure built over decades.
 
 ### What They Want
 
@@ -184,13 +184,13 @@ Demand Justice's 2021 spin-off from the Sixteen Thirty Fund illustrates how dark
 ### Sources
 
 - [Demand Justice - InfluenceWatch](https://www.influencewatch.org/organization/demand-justice/) (Tier 3)
-- [CNBC: Democratic bill would require dark money judicial groups to reveal donors](https://www.cnbc.com/2020/07/02/democratic-bill-would-require-dark-money-judicial-groups-to-reveal-donors.html) (Tier 2)
-- [Capital Research Center: Demand Justice Profile](https://capitalresearch.org/article/demand-justice-how/) (Tier 3)
-- [NPR: Leonard Leo and The Federalist Society](https://www.npr.org/2024/11/24/nx-s1-5199049/federalist-society-conservative-supreme-court) (Tier 2)
-- [Sixteen Thirty Fund - OpenSecrets](https://www.opensecrets.org/orgs/sixteen-thirty-fund/summary?id=D000070975) (Tier 1)
-- [Biden Judicial Appointments Record](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/26/fact-sheet-president-biden-announces-federal-judicial-appointments/) (Tier 1)
-- [Kavanaugh Confirmation Vote Record](https://www.senate.gov/legislative/roll-call-vote-not-available.htm) (Tier 1)
-- [Ketanji Brown Jackson Confirmation Record](https://www.senate.gov/legislative/roll-call-vote-not-available.htm) (Tier 1)
+- [CNBC: Democratic bill would require dark money judicial groups to reveal donors](https://www.cnbc.com/2020/07/02/democratic-bill-would-require-dark-money-judicial-groups-to-reveal-donors.html) (Tier 2) (VERIFIED)
+- [Capital Research Center: Demand Justice Profile](https://capitalresearch.org/article/demand-justice-how/) (Tier 3) (VERIFIED)
+- [NPR: Leonard Leo and The Federalist Society](https://www.npr.org/2024/11/24/nx-s1-5199049/federalist-society-conservative-supreme-court) (Tier 2) (VERIFIED)
+- [Sixteen Thirty Fund - OpenSecrets](https://www.opensecrets.org/orgs/sixteen-thirty-fund/summary?id=D000070975) (Tier 1) (VERIFIED)
+- ~~[Biden Judicial Appointments Record](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/26/fact-sheet-president-biden-announces-federal-judicial-appointments/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Kavanaugh Confirmation Vote Record](https://www.senate.gov/legislative/roll-call-vote-not-available.htm) (Tier 1) (VERIFIED)
+- [Ketanji Brown Jackson Confirmation Record](https://www.senate.gov/legislative/roll-call-vote-not-available.htm) (Tier 1) (VERIFIED)
 
 ---
 
@@ -225,10 +225,10 @@ Demand Justice's 2021 spin-off from the Sixteen Thirty Fund illustrates how dark
 **Filing history:** 2022, 2021
 
 **View 990 filings:**
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/863689961/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/863689961/2021)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/863689961/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/863689961/2021)~~ (URL broken, archived by Ops)
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/863689961) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/863689961) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Campaign Finance (FEC)
@@ -247,7 +247,7 @@ Demand Justice's 2021 spin-off from the Sixteen Thirty Fund illustrates how dark
 | PRAMILA FOR CONGRESS | $5,000 | DEM |
 | MARK POCAN FOR CONGRESS | $5,000 | DEM |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Demand%20Justice) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Demand%20Justice) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### Lobbying Activity
@@ -266,7 +266,7 @@ Demand Justice's 2021 spin-off from the Sixteen Thirty Fund illustrates how dark
 
 **Agencies contacted:** Consumer Financial Protection Bureau (CFPB), Executive Office of the President (EOP), Federal Communications Commission (FCC), Federal Trade Commission (FTC), Food & Drug Administration (FDA), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Justice, Dept of (DOJ), Natl Economic Council (NEC), Office of Management & Budget (OMB) +2 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Demand%20Justice) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Demand%20Justice) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)
@@ -300,7 +300,7 @@ Demand Justice's 2021 spin-off from the Sixteen Thirty Fund illustrates how dark
 - Coronavirus Reporter Corporation, et al. v. United States District Court for the Northern District of California, San Francisco (2025) — Court of Appeals for the Ninth Circuit
 - WHEELER v. BLANCHE (2025) — District Court, District of Columbia
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Demand%20Justice%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Demand%20Justice%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Register Activity
@@ -312,7 +312,7 @@ Demand Justice's 2021 spin-off from the Sixteen Thirty Fund illustrates how dark
 | Agencies | Executive Office of the President |
 
 **Recent regulatory activity:**
-- [Lesbian, Gay, Bisexual, and Transgender Pride Month, 2016](https://www.federalregister.gov/documents/2016/06/03/2016-13361/lesbian-gay-bisexual-and-transgender-pride-month-2016) (2016-06-03) — Executive Office of the President
+- [Lesbian, Gay, Bisexual, and Transgender Pride Month, 2016](https://www.federalregister.gov/documents/2016/06/03/2016-13361/lesbian-gay-bisexual-and-transgender-pride-month-2016) (VERIFIED) (2016-06-03) — Executive Office of the President
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Demand%20Justice%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Demand%20Justice%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->

@@ -68,8 +68,8 @@ The Business Roundtable (BRT). An association of approximately 200 CEOs of Ameri
 
 The BRT's lobbying operation is the most direct channel through which the CEO class communicates its legislative priorities to Congress and the White House. Total lobbying expenditure: $33.5 million in 2025 — a 43% increase over 2024's $23.4 million, and the largest year-over-year increase among top Washington lobbying spenders. The surge tracks the TCJA extension fight: the BRT deployed 68 tax lobbyists in 2024 alone, making it the fifth-largest lobbying entity on tax issues.
 
-- [OpenSecrets: Business Roundtable lobbying profile](https://www.opensecrets.org/orgs/business-roundtable/lobbying?id=D000032202) (Tier 1)
-- [Business Roundtable: 2025 Board of Directors](https://www.businessroundtable.org/business-roundtable-announces-2025-ceo-board-of-directors-and-policy-committee-leadership) (Tier 1)
+- [OpenSecrets: Business Roundtable lobbying profile](https://www.opensecrets.org/orgs/business-roundtable/lobbying?id=D000032202) (Tier 1) (VERIFIED)
+- [Business Roundtable: 2025 Board of Directors](https://www.businessroundtable.org/business-roundtable-announces-2025-ceo-board-of-directors-and-policy-committee-leadership) (Tier 1) (VERIFIED)
 
 ---
 
@@ -84,9 +84,9 @@ In 2019, the BRT issued a much-publicized "Statement on the Purpose of a Corpora
 > [!contradiction] The Stakeholder Capitalism Fraud
 > The BRT's 2019 stakeholder capitalism statement was signed by 181 CEOs pledging to serve employees, communities, and the environment — not just shareholders. Harvard Law School's Program on Corporate Governance concluded in 2021 that the statement represented "no meaningful commitment" and was "mostly for show." In the three years following the statement, BRT member companies continued stock buyback programs worth hundreds of billions, lobbied against the PRO Act (labor organizing protections), opposed the Build Back Better Act (climate and social spending), and pushed for permanent corporate tax reduction. The statement was a press release designed to defuse inequality backlash, not a policy commitment. Zero changes in corporate behavior, lobbying priorities, or political spending followed.
 
-- [Legis1: Business Roundtable deploys $6.86M for tax agenda in Q1 2025](https://legis1.com/news/business-roundtable-deploys-6-86m-for-ambitious-tax-agenda-in-q1-2025/) (Tier 2)
-- [Harvard Law Forum: Six reasons we don't trust the BRT stakeholder promise](https://corpgov.law.harvard.edu/2019/09/02/six-reasons-we-dont-trust-the-new-stakeholder-promise-from-the-business-roundtable/) (Tier 2)
-- [Roosevelt Institute: Shareholders first — what hasn't changed since BRT statement](https://rooseveltinstitute.org/blog/shareholders-first-what-hasnt-changed-since-the-business-roundtables-2019-statement/) (Tier 2)
+- [Legis1: Business Roundtable deploys $6.86M for tax agenda in Q1 2025](https://legis1.com/news/business-roundtable-deploys-6-86m-for-ambitious-tax-agenda-in-q1-2025/) (Tier 2) (VERIFIED)
+- [Harvard Law Forum: Six reasons we don't trust the BRT stakeholder promise](https://corpgov.law.harvard.edu/2019/09/02/six-reasons-we-dont-trust-the-new-stakeholder-promise-from-the-business-roundtable/) (Tier 2) (VERIFIED)
+- [Roosevelt Institute: Shareholders first — what hasn't changed since BRT statement](https://rooseveltinstitute.org/blog/shareholders-first-what-hasnt-changed-since-the-business-roundtables-2019-statement/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -107,8 +107,8 @@ The BRT does not operate a PAC but exerts influence through three channels that 
 
 **Channel 3 — CEO-to-politician relationships:** The BRT's structural power does not depend on campaign contributions. When 200 CEOs representing $10 trillion in revenue speak with one voice, the message functions as implicit instruction. Corporate investment, job creation, and location decisions follow the policy environment — and every member of Congress understands that BRT priorities shape those decisions.
 
-- [OpenSecrets: Business Roundtable lobbying totals](https://www.opensecrets.org/orgs/business-roundtable/totals?id=D000032202) (Tier 1)
-- [Public Citizen: Corporate America dominates tax lobbying](https://www.citizen.org/article/corporate-america-dominates-tax-lobbying/) (Tier 2)
+- [OpenSecrets: Business Roundtable lobbying totals](https://www.opensecrets.org/orgs/business-roundtable/totals?id=D000032202) (Tier 1) (VERIFIED)
+- [Public Citizen: Corporate America dominates tax lobbying](https://www.citizen.org/article/corporate-america-dominates-tax-lobbying/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -176,7 +176,7 @@ The TCJA is the BRT's signature achievement: $320+ billion annually in corporate
 
 **Agencies contacted:** Agriculture, Dept of (USDA), Air Force, Dept of, Army, Dept of (Corps of Engineers), Army, Dept of (Other), Bureau of Industry and Security (BIS), Commerce, Dept of (DOC), Council on Environmental Quality (CEQ), Defense, Dept of (DOD), Energy, Dept of, Environmental Protection Agency (EPA) +26 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Business%20Roundtable) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Business%20Roundtable) (Tier 1) (VERIFIED)
 
 <!-- auto:lda-lobbying end -->
 
@@ -184,16 +184,16 @@ The TCJA is the BRT's signature achievement: $320+ billion annually in corporate
 
 - [OpenSecrets: Business Roundtable lobbying profile](https://www.opensecrets.org/orgs/business-roundtable/lobbying?id=D000032202) (Tier 1)
 - [OpenSecrets: Business Roundtable lobbying totals](https://www.opensecrets.org/orgs/business-roundtable/totals?id=D000032202) (Tier 1)
-- [Business Roundtable: Statement on the Purpose of a Corporation (2019)](https://www.businessroundtable.org/business-roundtable-redefines-the-purpose-of-a-corporation-to-promote-an-economy-that-serves-all-americans) (Tier 1)
+- [Business Roundtable: Statement on the Purpose of a Corporation (2019)](https://www.businessroundtable.org/business-roundtable-redefines-the-purpose-of-a-corporation-to-promote-an-economy-that-serves-all-americans) (Tier 1) (VERIFIED)
 - [Business Roundtable: 2025 Board of Directors](https://www.businessroundtable.org/business-roundtable-announces-2025-ceo-board-of-directors-and-policy-committee-leadership) (Tier 1)
 - [Legis1: Business Roundtable deploys $6.86M for tax agenda in Q1 2025](https://legis1.com/news/business-roundtable-deploys-6-86m-for-ambitious-tax-agenda-in-q1-2025/) (Tier 2)
 - [Public Citizen: Corporate America dominates tax lobbying](https://www.citizen.org/article/corporate-america-dominates-tax-lobbying/) (Tier 2)
 - [Harvard Law Forum: Six reasons we don't trust the BRT stakeholder promise](https://corpgov.law.harvard.edu/2019/09/02/six-reasons-we-dont-trust-the-new-stakeholder-promise-from-the-business-roundtable/) (Tier 2)
 - [Roosevelt Institute: Shareholders first — what hasn't changed since BRT statement](https://rooseveltinstitute.org/blog/shareholders-first-what-hasnt-changed-since-the-business-roundtables-2019-statement/) (Tier 2)
-- [ProMarket: Has the BRT statement transformed capitalism?](https://www.promarket.org/2021/09/07/business-roundtable-shareholder-capitalism-promise/) (Tier 2)
-- [Washington Post: White House, business groups start major push to cut taxes](https://www.washingtonpost.com/news/wonk/wp/2017/07/28/white-house-business-groups-start-major-push-to-cut-taxes/) (Tier 2)
-- [OpenSecrets: Lobbying firms record $5 billion in 2025](https://www.opensecrets.org/news/2026/01/lobbying-firms-took-in-a-record-5-billion-in-2025/) (Tier 2)
-- [Ballotpedia: Business Roundtable](https://ballotpedia.org/Business_Roundtable) (Tier 3)
+- [ProMarket: Has the BRT statement transformed capitalism?](https://www.promarket.org/2021/09/07/business-roundtable-shareholder-capitalism-promise/) (Tier 2) (VERIFIED)
+- [Washington Post: White House, business groups start major push to cut taxes](https://www.washingtonpost.com/news/wonk/wp/2017/07/28/white-house-business-groups-start-major-push-to-cut-taxes/) (Tier 2) (VERIFIED)
+- [OpenSecrets: Lobbying firms record $5 billion in 2025](https://www.opensecrets.org/news/2026/01/lobbying-firms-took-in-a-record-5-billion-in-2025/) (Tier 2) (VERIFIED)
+- [Ballotpedia: Business Roundtable](https://ballotpedia.org/Business_Roundtable) (Tier 3) (VERIFIED)
 
 ---
 
@@ -225,7 +225,7 @@ The TCJA is the BRT's signature achievement: $320+ billion annually in corporate
 | Net Assets | $47.8M |
 | Officer Compensation | $5.8M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 237236607](https://projects.propublica.org/nonprofits/organizations/237236607) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 237236607](https://projects.propublica.org/nonprofits/organizations/237236607) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### DOJ Press Releases
@@ -242,15 +242,15 @@ The TCJA is the BRT's signature achievement: $320+ billion annually in corporate
 | Agencies | Environmental Protection Agency, Homeland Security Department, Interior Department, Justice Department, Labor Department, Ocean Energy Management Bureau, Safety and Environmental Enforcement Bureau, Securities and Exchange Commission +1 more |
 
 **Recent regulatory activity:**
-- [Acceleration of Effectiveness of Registration Statements of Issuers With Certain Mandatory Arbitration Provisions](https://www.federalregister.gov/documents/2025/09/19/2025-18238/acceleration-of-effectiveness-of-registration-statements-of-issuers-with-certain-mandatory) (2025-09-19) — Securities and Exchange Commission
-- [Advisory Committee on Veterans' Employment, Training and Employer Outreach (ACVETEO): Charter Renewal](https://www.federalregister.gov/documents/2025/05/15/2025-08461/advisory-committee-on-veterans-employment-training-and-employer-outreach-acveteo-charter-renewal) (2025-05-15) — Labor Department
-- [Preventing Access to U.S. Sensitive Personal Data and Government-Related Data by Countries of Concern or Covered Persons](https://www.federalregister.gov/documents/2025/01/08/2024-31486/preventing-access-to-us-sensitive-personal-data-and-government-related-data-by-countries-of-concern) (2025-01-08) — Justice Department
-- [Decabromodiphenyl Ether and Phenol, Isopropylated Phosphate (3:1); Revision to the Regulation of Persistent, Bioaccumulative, and Toxic Chemicals Under the Toxic Substances Control Act (TSCA)](https://www.federalregister.gov/documents/2024/11/19/2024-25758/decabromodiphenyl-ether-and-phenol-isopropylated-phosphate-31-revision-to-the-regulation-of) (2024-11-19) — Environmental Protection Agency
-- [Provisions Pertaining to Preventing Access to U.S. Sensitive Personal Data and Government-Related Data by Countries of Concern or Covered Persons](https://www.federalregister.gov/documents/2024/10/29/2024-24582/provisions-pertaining-to-preventing-access-to-us-sensitive-personal-data-and-government-related-data) (2024-10-29) — Justice Department
-- [Solicitation of Nominations for Appointment to the Advisory Committee on Veterans' Employment, Training, and Employer Outreach (ACVETEO)](https://www.federalregister.gov/documents/2024/08/05/2024-17221/solicitation-of-nominations-for-appointment-to-the-advisory-committee-on-veterans-employment) (2024-08-05) — Labor Department
+- [Acceleration of Effectiveness of Registration Statements of Issuers With Certain Mandatory Arbitration Provisions](https://www.federalregister.gov/documents/2025/09/19/2025-18238/acceleration-of-effectiveness-of-registration-statements-of-issuers-with-certain-mandatory) (VERIFIED) (2025-09-19) — Securities and Exchange Commission
+- [Advisory Committee on Veterans' Employment, Training and Employer Outreach (ACVETEO): Charter Renewal](https://www.federalregister.gov/documents/2025/05/15/2025-08461/advisory-committee-on-veterans-employment-training-and-employer-outreach-acveteo-charter-renewal) (VERIFIED) (2025-05-15) — Labor Department
+- [Preventing Access to U.S. Sensitive Personal Data and Government-Related Data by Countries of Concern or Covered Persons](https://www.federalregister.gov/documents/2025/01/08/2024-31486/preventing-access-to-us-sensitive-personal-data-and-government-related-data-by-countries-of-concern) (VERIFIED) (2025-01-08) — Justice Department
+- [Decabromodiphenyl Ether and Phenol, Isopropylated Phosphate (3:1); Revision to the Regulation of Persistent, Bioaccumulative, and Toxic Chemicals Under the Toxic Substances Control Act (TSCA)](https://www.federalregister.gov/documents/2024/11/19/2024-25758/decabromodiphenyl-ether-and-phenol-isopropylated-phosphate-31-revision-to-the-regulation-of) (VERIFIED) (2024-11-19) — Environmental Protection Agency
+- [Provisions Pertaining to Preventing Access to U.S. Sensitive Personal Data and Government-Related Data by Countries of Concern or Covered Persons](https://www.federalregister.gov/documents/2024/10/29/2024-24582/provisions-pertaining-to-preventing-access-to-us-sensitive-personal-data-and-government-related-data) (VERIFIED) (2024-10-29) — Justice Department
+- [Solicitation of Nominations for Appointment to the Advisory Committee on Veterans' Employment, Training, and Employer Outreach (ACVETEO)](https://www.federalregister.gov/documents/2024/08/05/2024-17221/solicitation-of-nominations-for-appointment-to-the-advisory-committee-on-veterans-employment) (VERIFIED) (2024-08-05) — Labor Department
 - ... and 166 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Business%20Roundtable%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Business%20Roundtable%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### SEC Filing Activity
@@ -268,7 +268,7 @@ The TCJA is the BRT's signature achievement: $320+ billion annually in corporate
 - 2020-04-17 — **PX14A6G**: PX14A6G
 - 2020-06-26 — **PX14A6G**: PX14A6G
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Business%20Roundtable%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Business%20Roundtable%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Tax Filings (IRS 990)
@@ -286,14 +286,14 @@ The TCJA is the BRT's signature achievement: $320+ billion annually in corporate
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/237236607/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/237236607/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/237236607/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/237236607/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/237236607/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/237236607/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/237236607/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/237236607/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/237236607/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/237236607/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/237236607) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/237236607) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Wikipedia
@@ -302,15 +302,15 @@ The Business Roundtable (BRT) is a nonprofit lobbyist association based in Washi
 
 | Fact | Value |
 |------|-------|
-| Wikidata ID | [Q5001792](https://www.wikidata.org/wiki/Q5001792) |
+| Wikidata ID | [Q5001792](https://www.wikidata.org/wiki/Q5001792) (VERIFIED) |
 | Description | conservative lobbying organization in the United States |
 | Founded | 1972-00-00 |
-| Website | [http://businessroundtable.org/](http://businessroundtable.org/) |
-| X/Twitter | [@BizRoundtable](https://x.com/BizRoundtable) |
-| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Business_Roundtable_logo.svg?width=300) |
+| Website | [http://businessroundtable.org/](http://businessroundtable.org/) (NEEDS REVIEW) |
+| X/Twitter | [@BizRoundtable](https://x.com/BizRoundtable) (VERIFIED) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Business_Roundtable_logo.svg?width=300) (NEEDS REVIEW) |
 
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/Business_Roundtable) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q5001792) (Tier 2)
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Business_Roundtable) (Tier 3) (VERIFIED)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q5001792) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
 ### Campaign Finance (FEC)
@@ -334,5 +334,5 @@ The Business Roundtable (BRT) is a nonprofit lobbyist association based in Washi
 | FRIENDS OF JOE BACA 2016 | $500 | REP |
 | RICH POLITICAL ACTION COMMITTEE | $375 | — |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Business%20Roundtable) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Business%20Roundtable) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->

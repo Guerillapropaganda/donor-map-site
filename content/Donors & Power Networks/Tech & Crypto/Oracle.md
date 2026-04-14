@@ -58,7 +58,7 @@ Oracle Corporation. Enterprise software and cloud infrastructure company with $5
 
 Oracle PAC contributes $1-2 million per cycle. Ellison's personal contributions exceed $50 million since 2016.
 
-- [OpenSecrets: Oracle Corp organizational profile](https://www.opensecrets.org/orgs/oracle-corp/summary?id=D000000461) (Tier 1)
+- [OpenSecrets: Oracle Corp organizational profile](https://www.opensecrets.org/orgs/oracle-corp/summary?id=D000000461) (Tier 1) (VERIFIED)
 
 ---
 
@@ -82,10 +82,10 @@ Government cloud contracts (competing with Amazon and Microsoft for Pentagon, CI
 ### Sources
 
 - [OpenSecrets: Oracle Corp organizational profile](https://www.opensecrets.org/orgs/oracle-corp/summary?id=D000000461) (Tier 1)
-- [OpenSecrets: Oracle lobbying expenditures](https://www.opensecrets.org/orgs/oracle-corp/lobbying?id=D000000461) (Tier 1)
-- [Department of Defense: JWCC contract award](https://www.defense.gov/News/Releases/Release/Article/3239378/) (Tier 1)
-- [Washington Post: Oracle's courting of Trump may help it land TikTok's business and coveted user data](https://www.washingtonpost.com/technology/2020/09/16/oracle-tiktok-trump/) (Tier 2)
-- [Ballotpedia: Oracle political spending](https://ballotpedia.org/Oracle_Corporation) (Tier 3)
+- [OpenSecrets: Oracle lobbying expenditures](https://www.opensecrets.org/orgs/oracle-corp/lobbying?id=D000000461) (Tier 1) (VERIFIED)
+- [Department of Defense: JWCC contract award](https://www.defense.gov/News/Releases/Release/Article/3239378/) (Tier 1) (NEEDS REVIEW)
+- [Washington Post: Oracle's courting of Trump may help it land TikTok's business and coveted user data](https://www.washingtonpost.com/technology/2020/09/16/oracle-tiktok-trump/) (Tier 2) (VERIFIED)
+- [Ballotpedia: Oracle political spending](https://ballotpedia.org/Oracle_Corporation) (Tier 3) (VERIFIED)
 
 ### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
@@ -96,8 +96,8 @@ Government cloud contracts (competing with Amazon and Microsoft for Pentagon, CI
 | Total Expenses | $145K |
 | Net Assets | $342K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 455577678](https://projects.propublica.org/nonprofits/organizations/455577678) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F455577678_202312_990EZ_2024070222641028.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 455577678](https://projects.propublica.org/nonprofits/organizations/455577678) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F455577678_202312_990EZ_2024070222641028.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Tax Filings (IRS 990)
@@ -115,13 +115,13 @@ Government cloud contracts (competing with Amazon and Microsoft for Pentagon, CI
 **Filing history:** 2023, 2022, 2021, 2020, 2019
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/455577678/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/455577678/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/455577678/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/455577678/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/455577678/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/455577678/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/455577678/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/455577678/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/455577678/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/455577678/2019)~~ (URL broken, archived by Ops)
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/455577678) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/455577678) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -180,7 +180,7 @@ Government cloud contracts (competing with Amazon and Microsoft for Pentagon, CI
 | Engineering Services (541330) | $4.1M |
 | Other Building Equipment Contractors (238290) | $3.6M |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Federal Spending (USASpending)
@@ -210,7 +210,7 @@ Government cloud contracts (competing with Amazon and Microsoft for Pentagon, CI
 | $19K | Department of Education | SMALL, RURAL SCHOOL ACHIEVEMENT PROGRAM |
 | $17K | Department of Education | SMALL, RURAL SCHOOL ACHIEVEMENT PROGRAM |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/c406663e-71aa-fbe3-4678-97f901f9fee6-P/latest) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/c406663e-71aa-fbe3-4678-97f901f9fee6-P/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Federal Court Records (CourtListener)
@@ -229,7 +229,7 @@ Government cloud contracts (competing with Amazon and Microsoft for Pentagon, CI
 - Uber Technologies, Inc. v. Mass Tort Ad Agency (2026) — District Court, M.D. Florida
 - Doe v. Perplexity AI, Inc. (2026) — District Court, N.D. California
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Oracle%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Oracle%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Lobbying Activity
@@ -248,7 +248,7 @@ Government cloud contracts (competing with Amazon and Microsoft for Pentagon, CI
 
 **Agencies contacted:** Centers For Disease Control & Prevention (CDC), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Defense, Dept of (DOD), Energy, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP), Food & Drug Administration (FDA), General Services Administration (GSA), HOUSE OF REPRESENTATIVES +15 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Oracle) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Oracle) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)
@@ -270,7 +270,7 @@ Government cloud contracts (competing with Amazon and Microsoft for Pentagon, CI
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [969500QP03W2YD1S4389](https://search.gleif.org/#/record/969500QP03W2YD1S4389) |
+| LEI | [969500QP03W2YD1S4389](https://search.gleif.org/#/record/969500QP03W2YD1S4389) (VERIFIED) |
 | Legal Name | ORACLE |
 | Jurisdiction | FR |
 | Entity Status | ACTIVE |
@@ -278,5 +278,5 @@ Government cloud contracts (competing with Amazon and Microsoft for Pentagon, CI
 | Registration | ISSUED |
 | Last Updated | 2025-09-29T19:57:15Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->

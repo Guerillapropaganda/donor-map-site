@@ -60,7 +60,7 @@ No FEC individual contributions found. The FEC API returns 0 results for both "P
 > [!money]
 > Abby Phillip covered campaign finance for Politico. She anchors a primetime show analyzing political money every night. She wrote a book about a candidate who ran on small-dollar grassroots funding. Her own FEC record: $0. This is not coincidence, it's institutional identity. CNN anchors are not permitted to have visible political preferences because their value to the network depends on the appearance of neutrality. The corporate sponsor (Warner Bros. Discovery / Paramount incoming) requires this performance of objectivity. $0 is the price of the anchor desk.
 
-- [FEC: Abby Phillip individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=PHILLIP%2C+ABBY) (Tier 1)
+- [FEC: Abby Phillip individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=PHILLIP%2C+ABBY) (Tier 1) (VERIFIED)
 
 ---
 
@@ -175,14 +175,14 @@ The Paramount acquisition is the denouement. Under WBD, CNN moderated. Under Par
 
 ### Sources
 
-- [Wikipedia: Abby Phillip](https://en.wikipedia.org/wiki/Abby_Phillip) (Tier 3)
-- [The Hill: CNN moderator criticized for question to Sanders](https://thehill.com/homenews/media/478340-cnn-moderator-criticized-for-question-to-sanders/) (Tier 3)
-- [FAIR: The Big Loser in the Iowa Debate? CNN's Reputation](https://fair.org/home/the-big-loser-in-the-iowa-debate-cnns-reputation/) (Tier 2)
-- [Rolling Stone (Taibbi): CNN's Debate Performance Was Villainous and Shameful](https://www.rollingstone.com/politics/political-commentary/january-democratic-debate-2020-cnn-bernie-sanders-elizabeth-warren-938365/) (Tier 2)
-- [Mediaite: CNN Debate Moderator Abby Phillip Doesn't Accept Bernie's Denial](https://www.mediaite.com/election-2020/cnn-debate-moderator-abby-phillip-doesnt-accept-bernies-denial-that-he-said-women-cant-win-in-2020/) (Tier 3)
-- [Variety: Abby Phillip's Wild Primetime 'NewsNight' Gains Steam at CNN](https://variety.com/2024/tv/news/cnn-abby-phillip-newsnight-primetime-1236148514/) (Tier 3)
-- [CNN Business: What does the Paramount-WBD merger mean for CNN?](https://www.cnn.com/2026/02/27/media/cnn-paramount-ellison-bari-weiss-wbd-merger) (Tier 2)
-- [CNN Business: Trump enters Warner Bros. fight, says it's 'imperative that CNN be sold'](https://www.cnn.com/2025/12/10/media/trump-cnn-sold-paramount-warner-bros-netflix) (Tier 2)
-- [CNN: Abby Phillip NewsNight lineup announcement](https://edition.cnn.com/2023/08/14/media/cnn-prime-time-lineup) (Tier 2)
+- [Wikipedia: Abby Phillip](https://en.wikipedia.org/wiki/Abby_Phillip) (Tier 3) (VERIFIED)
+- ~~[The Hill: CNN moderator criticized for question to Sanders](https://thehill.com/homenews/media/478340-cnn-moderator-criticized-for-question-to-sanders/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [FAIR: The Big Loser in the Iowa Debate? CNN's Reputation](https://fair.org/home/the-big-loser-in-the-iowa-debate-cnns-reputation/) (Tier 2) (VERIFIED)
+- [Rolling Stone (Taibbi): CNN's Debate Performance Was Villainous and Shameful](https://www.rollingstone.com/politics/political-commentary/january-democratic-debate-2020-cnn-bernie-sanders-elizabeth-warren-938365/) (Tier 2) (VERIFIED)
+- [Mediaite: CNN Debate Moderator Abby Phillip Doesn't Accept Bernie's Denial](https://www.mediaite.com/election-2020/cnn-debate-moderator-abby-phillip-doesnt-accept-bernies-denial-that-he-said-women-cant-win-in-2020/) (Tier 3) (VERIFIED)
+- [Variety: Abby Phillip's Wild Primetime 'NewsNight' Gains Steam at CNN](https://variety.com/2024/tv/news/cnn-abby-phillip-newsnight-primetime-1236148514/) (Tier 3) (VERIFIED)
+- [CNN Business: What does the Paramount-WBD merger mean for CNN?](https://www.cnn.com/2026/02/27/media/cnn-paramount-ellison-bari-weiss-wbd-merger) (Tier 2) (VERIFIED)
+- [CNN Business: Trump enters Warner Bros. fight, says it's 'imperative that CNN be sold'](https://www.cnn.com/2025/12/10/media/trump-cnn-sold-paramount-warner-bros-netflix) (Tier 2) (VERIFIED)
+- [CNN: Abby Phillip NewsNight lineup announcement](https://edition.cnn.com/2023/08/14/media/cnn-prime-time-lineup) (Tier 2) (VERIFIED)
 - [FEC: Abby Phillip individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=PHILLIP%2C+ABBY) (Tier 1)
 

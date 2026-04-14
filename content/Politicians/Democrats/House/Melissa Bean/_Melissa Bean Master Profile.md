@@ -169,20 +169,20 @@ Bean represents a new model of donor-class power projection. Rather than corrupt
 
 **Business Background:** Founder and President, Sales Resources Inc. consulting firm (1995-2005, active during congressional service); telecommunications industry work
 
-**Website:** [melissabeanforcongress.com](https://www.melissabeanforcongress.com/?q=Melissa%20Bean)
+**Website:** [melissabeanforcongress.com](https://www.melissabeanforcongress.com/?q=Melissa%20Bean) (VERIFIED)
 
 ## Sources
 
-- [FEC Candidate: Melissa Bean 2026 Campaign Finance](https://www.fec.gov/data/candidate/H2IL08088/) (Tier 1)
-- [FEC: Illinois 8th District 2026 Primary Results](https://www.fec.gov/data/elections/house/IL/08/2026/) (Tier 1)
-- [In Illinois's Eighth District, AIPAC and AI Try to Buy a Seat: The American Prospect](https://prospect.org/2026/03/12/illinois-eighth-congressional-district-aipac-ai-bean-ahmed/) (Tier 2)
-- [Melissa Bean wins 8th Congressional District primary, moves to reclaim seat she lost 16 years ago: Chicago Sun-Times](https://chicago.suntimes.com/elections/2026/03/17/us-house-illinois-8th-congressional-district-primary-results) (Tier 2)
-- [Super PAC scorecard — how outside spending groups fared in efforts to influence Illinois primary voters: WBEZ Chicago](https://www.wbez.org/government-politics/elections/2026/03/18/illinois-primary-super-pac-spending-aipac-cryptocurrency-ai-sports-betting) (Tier 2)
-- [Cryptocurrency, AI join in $31 million super PAC blitz in 4 congressional primaries: WBEZ Chicago](https://www.wbez.org/government-politics/elections/2026/03/13/cryptocurrency-ai-join-in-31-million-super-pac-blitz-in-four-congressional-primaries) (Tier 2)
-- [AI, crypto industries dump millions into Illinois primaries to mixed results: CNBC](https://www.cnbc.com/2026/03/18/ai-crpyto-illinois-primaries-2026-elections.html) (Tier 3)
-- [AIPAC super PAC funded big-spending Illinois groups, as Democratic fights over Israel spread: NBC News](https://www.nbcnews.com/politics/2026-election/aipac-super-pac-funded-illinois-groups-democratic-primaries-israel-rcna264379) (Tier 2)
-- [Melissa Bean - Wikipedia](https://en.wikipedia.org/wiki/Melissa_Bean) (Tier 3)
-- [Melissa Bean - Ballotpedia](https://ballotpedia.org/Melissa_Bean) (Tier 3)
+- [FEC Candidate: Melissa Bean 2026 Campaign Finance](https://www.fec.gov/data/candidate/H2IL08088/) (Tier 1) (VERIFIED)
+- [FEC: Illinois 8th District 2026 Primary Results](https://www.fec.gov/data/elections/house/IL/08/2026/) (Tier 1) (VERIFIED)
+- [In Illinois's Eighth District, AIPAC and AI Try to Buy a Seat: The American Prospect](https://prospect.org/2026/03/12/illinois-eighth-congressional-district-aipac-ai-bean-ahmed/) (Tier 2) (VERIFIED)
+- [Melissa Bean wins 8th Congressional District primary, moves to reclaim seat she lost 16 years ago: Chicago Sun-Times](https://chicago.suntimes.com/elections/2026/03/17/us-house-illinois-8th-congressional-district-primary-results) (Tier 2) (VERIFIED)
+- [Super PAC scorecard — how outside spending groups fared in efforts to influence Illinois primary voters: WBEZ Chicago](https://www.wbez.org/government-politics/elections/2026/03/18/illinois-primary-super-pac-spending-aipac-cryptocurrency-ai-sports-betting) (Tier 2) (VERIFIED)
+- [Cryptocurrency, AI join in $31 million super PAC blitz in 4 congressional primaries: WBEZ Chicago](https://www.wbez.org/government-politics/elections/2026/03/13/cryptocurrency-ai-join-in-31-million-super-pac-blitz-in-four-congressional-primaries) (Tier 2) (VERIFIED)
+- [AI, crypto industries dump millions into Illinois primaries to mixed results: CNBC](https://www.cnbc.com/2026/03/18/ai-crpyto-illinois-primaries-2026-elections.html) (Tier 3) (VERIFIED)
+- [AIPAC super PAC funded big-spending Illinois groups, as Democratic fights over Israel spread: NBC News](https://www.nbcnews.com/politics/2026-election/aipac-super-pac-funded-illinois-groups-democratic-primaries-israel-rcna264379) (Tier 2) (VERIFIED)
+- [Melissa Bean - Wikipedia](https://en.wikipedia.org/wiki/Melissa_Bean) (Tier 3) (VERIFIED)
+- [Melissa Bean - Ballotpedia](https://ballotpedia.org/Melissa_Bean) (Tier 3) (VERIFIED)
 
 ---
 
@@ -194,7 +194,7 @@ party:: Democrat
 <!-- auto:committee-assignments start -->
 _No committee data found for the 119th Congress._
 
-- [Source: Congress.gov](https://www.congress.gov/member/B001296) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/B001296)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 <!-- auto:committee-assignments pending-merge 2026-04-11 -->
@@ -203,7 +203,7 @@ _No committee data found for the 119th Congress._
 
 _No committee data found._
 
-- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 <!-- auto:committee-assignments pending-merge end -->
 
@@ -238,7 +238,7 @@ _No committee data found._
 | NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE | $464,668 | $0 |
 | NEW HOUSE PAC | $47,072 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2IL08088/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2IL08088/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (Congress.gov)
@@ -266,7 +266,7 @@ _No committee data found._
 | 1069 | Notification of Risk to Personal Data Act | Referred to the Subcommittee on Financial Institutions and Consumer Credit. |
 | 797 | Directing the Clerk to post on the public Internet site of the Office of the Cle… | Sponsor introductory remarks on measure. (CR H3500) |
 
-- [Source: Congress.gov](https://www.congress.gov/member/B001253) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/B001253)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Campaign Finance Summary (FEC)
@@ -299,7 +299,7 @@ _No committee data found._
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Melissa Bean](https://www.congress.gov/member/e000179) (Tier 1)
+- ~~[Congress.gov: Melissa Bean](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 
 ### Wikipedia
@@ -308,11 +308,11 @@ Melissa Bean is an American politician who served as the U.S. representative for
 
 | Fact | Value |
 |------|-------|
-| Wikidata ID | [Q445046](https://www.wikidata.org/wiki/Q445046) |
+| Wikidata ID | [Q445046](https://www.wikidata.org/wiki/Q445046) (VERIFIED) |
 | Description | American politician |
 | Born | 1962-01-22 |
-| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Melissa_Bean_Official.jpg?width=300) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Melissa_Bean_Official.jpg?width=300) (NEEDS REVIEW) |
 
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/Melissa_Bean) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q445046) (Tier 2)
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Melissa_Bean) (Tier 3) (VERIFIED)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q445046) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->

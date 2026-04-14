@@ -153,15 +153,15 @@ His son of a union plumber origin story is genuine, not performed. But even genu
 
 ## Sources
 
-- [OpenSecrets: Joseph Morelle Campaign Finance Summary](https://www.opensecrets.org/members-of-congress/summary?cid=N00043207) (Tier 1)
-- [FEC: Joe Morelle for Congress](https://www.fec.gov/data/committee/C00660407/) (Tier 1)
-- [Rochester Beacon: The Money Trail](https://rochesterbeacon.com/2018/11/15/the-money-trail/) (Tier 2)
-- [House Administration Committee Democrats: Ranking Member Morelle Voting Rights Report](https://democrats-cha.house.gov/media/press-releases/ranking-member-morelle-releases-voting-rights-report-focused-native-americans) (Tier 1)
-- [House Administration Committee Democrats: Morelle Rejects SAVE Act](https://democrats-cha.house.gov/media/press-releases/schumer-padilla-morelle-voting-rights-advocates-reject-republicans-save) (Tier 1)
-- [Representative Morelle: Biography](https://morelle.house.gov/about) (Tier 1)
-- [GovTrack: Representative Joseph Morelle](https://www.govtrack.us/congress/members/joseph_morelle/412749) (Tier 3)
-- [Wikipedia: Joseph Morelle](https://en.wikipedia.org/wiki/Joseph_Morelle) (Tier 3)
-- [Ballotpedia: Joseph Morelle](https://ballotpedia.org/Joseph_Morelle) (Tier 3)
+- [OpenSecrets: Joseph Morelle Campaign Finance Summary](https://www.opensecrets.org/members-of-congress/summary?cid=N00043207) (Tier 1) (VERIFIED)
+- [FEC: Joe Morelle for Congress](https://www.fec.gov/data/committee/C00660407/) (Tier 1) (VERIFIED)
+- [Rochester Beacon: The Money Trail](https://rochesterbeacon.com/2018/11/15/the-money-trail/) (Tier 2) (VERIFIED)
+- [House Administration Committee Democrats: Ranking Member Morelle Voting Rights Report](https://democrats-cha.house.gov/media/press-releases/ranking-member-morelle-releases-voting-rights-report-focused-native-americans) (Tier 1) (VERIFIED)
+- [House Administration Committee Democrats: Morelle Rejects SAVE Act](https://democrats-cha.house.gov/media/press-releases/schumer-padilla-morelle-voting-rights-advocates-reject-republicans-save) (Tier 1) (VERIFIED)
+- [Representative Morelle: Biography](https://morelle.house.gov/about) (Tier 1) (VERIFIED)
+- [GovTrack: Representative Joseph Morelle](https://www.govtrack.us/congress/members/joseph_morelle/412749) (Tier 3) (VERIFIED)
+- [Wikipedia: Joseph Morelle](https://en.wikipedia.org/wiki/Joseph_Morelle) (Tier 3) (VERIFIED)
+- [Ballotpedia: Joseph Morelle](https://ballotpedia.org/Joseph_Morelle) (Tier 3) (VERIFIED)
 
 ---
 
@@ -202,7 +202,7 @@ party:: Democrat
 | PLANNED PARENTHOOD VOTES | $195 | $0 |
 | NEA ADVOCACY FUND | $68 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8NY25105/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8NY25105/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Committee Assignments (Congress.gov)
@@ -220,7 +220,7 @@ party:: Democrat
 - Defense
 - Modernization and Innovation
 
-- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 ### Legislative Activity (Congress.gov)
@@ -249,7 +249,7 @@ party:: Democrat
 | 5918 | Protect Law Enforcement Task Forces Act | Referred to the House Committee on the Judiciary. |
 | 726 | Supporting the recognition of September 16, 2025, as "National Voter Registratio… | Referred to the House Committee on House Administration. |
 
-- [Source: Congress.gov](https://www.congress.gov/member/M001206) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/M001206)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Campaign Finance Summary (FEC)
@@ -281,7 +281,7 @@ party:: Democrat
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Joseph Morelle](https://www.congress.gov/member/e000179) (Tier 1)
+- ~~[Congress.gov: Joseph Morelle](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 
 ### Wikipedia
@@ -290,13 +290,13 @@ Joseph D. Morelle is an American politician serving as the U.S. representative f
 
 | Fact | Value |
 |------|-------|
-| Wikidata ID | [Q6285623](https://www.wikidata.org/wiki/Q6285623) |
+| Wikidata ID | [Q6285623](https://www.wikidata.org/wiki/Q6285623) (VERIFIED) |
 | Description | American politician (born 1957) |
 | Born | 1957-04-29 |
-| Website | [https://morelle.house.gov/](https://morelle.house.gov/) |
-| X/Twitter | [@joemorelle](https://x.com/joemorelle) |
-| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Joe_Morelle_official_photo.jpg?width=300) |
+| Website | [https://morelle.house.gov/](https://morelle.house.gov/) (VERIFIED) |
+| X/Twitter | [@joemorelle](https://x.com/joemorelle) (VERIFIED) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Joe_Morelle_official_photo.jpg?width=300) (NEEDS REVIEW) |
 
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/Joseph_Morelle) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q6285623) (Tier 2)
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Joseph_Morelle) (Tier 3) (VERIFIED)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q6285623) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->

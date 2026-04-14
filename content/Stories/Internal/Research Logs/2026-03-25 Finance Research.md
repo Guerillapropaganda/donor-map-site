@@ -58,8 +58,8 @@ MAGA Inc. the super PAC backing Trump, ended 2025 with $304 million in cash on h
 **Vault profiles to update:** [[Stephen Schwarzman - Blackstone]], [[MAGA Inc]] (if exists), [[_Donald Trump Master Profile]]
 
 ### Sources:
-- [CNN: Trump's super PAC builds $300 million cash stockpile](https://www.cnn.com/2026/01/02/politics/trump-super-pac-maga-inc-fundraising) (Tier 2)
-- [NBC News: New megadonors with major business before the government back Trump's super PAC](https://www.nbcnews.com/politics/politics-news/new-megadonors-major-business-government-back-trumps-super-pac-rcna252867) (Tier 2)
+- [CNN: Trump's super PAC builds $300 million cash stockpile](https://www.cnn.com/2026/01/02/politics/trump-super-pac-maga-inc-fundraising) (Tier 2) (VERIFIED)
+- [NBC News: New megadonors with major business before the government back Trump's super PAC](https://www.nbcnews.com/politics/politics-news/new-megadonors-major-business-government-back-trumps-super-pac-rcna252867) (Tier 2) (VERIFIED)
 
 ---
 
@@ -91,10 +91,10 @@ Fairshake, the crypto industry's super PAC, ended 2025 with $193 million, more t
 **Vault profiles to update:** [[Fairshake PAC]] (new node needed), [[Coinbase]], [[a16z - Andreessen Horowitz]]
 
 ### Sources:
-- [Axios: Crypto PAC Fairshake has already raised $193 million for 2026](https://www.axios.com/2026/01/28/crypto-coinbase-fairshake-pac) (Tier 2)
-- [CNBC: Crypto super PAC Fairshake has $116 million on hand for 2026 election](https://www.cnbc.com/2025/01/30/crypto-pac-fairshake-has-116-million-on-hand-for-2026-elections.html) (Tier 2)
-- [Readsludge: Crypto, AI, and AIPAC Set up to Smash Super PAC Spending Records](https://readsludge.com/2026/02/02/crypto-ai-and-aipac-set-up-to-smash-super-pac-spending-records/) (Tier 2)
-- [NBC News: AI, crypto and Trump super PACs stash millions to spend on the midterms](https://www.nbcnews.com/politics/2026-election/ai-crypto-trump-super-pacs-stash-millions-spend-midterms-rcna256622) (Tier 2)
+- [Axios: Crypto PAC Fairshake has already raised $193 million for 2026](https://www.axios.com/2026/01/28/crypto-coinbase-fairshake-pac) (Tier 2) (VERIFIED)
+- [CNBC: Crypto super PAC Fairshake has $116 million on hand for 2026 election](https://www.cnbc.com/2025/01/30/crypto-pac-fairshake-has-116-million-on-hand-for-2026-elections.html) (Tier 2) (VERIFIED)
+- [Readsludge: Crypto, AI, and AIPAC Set up to Smash Super PAC Spending Records](https://readsludge.com/2026/02/02/crypto-ai-and-aipac-set-up-to-smash-super-pac-spending-records/) (Tier 2) (VERIFIED)
+- [NBC News: AI, crypto and Trump super PACs stash millions to spend on the midterms](https://www.nbcnews.com/politics/2026-election/ai-crypto-trump-super-pacs-stash-millions-spend-midterms-rcna256622) (Tier 2) (VERIFIED)
 
 ---
 
@@ -119,7 +119,7 @@ A new super PAC, **Leading the Future**, was launched in August 2025 by AI indus
 **Vault profiles to update:** [[Palantir Technologies]], [[Peter Thiel]] (Lonsdale connection)
 
 ### Sources:
-- [CNBC: AI industry super PAC raises $125 million in 2025](https://www.cnbc.com/2026/01/30/ai-industry-super-pac-raises-campaign-money.html) (Tier 2)
+- [CNBC: AI industry super PAC raises $125 million in 2025](https://www.cnbc.com/2026/01/30/ai-industry-super-pac-raises-campaign-money.html) (Tier 2) (VERIFIED)
 - [NBC News: AI, crypto and Trump super PACs stash millions to spend on the midterms](https://www.nbcnews.com/politics/2026-election/ai-crypto-trump-super-pacs-stash-millions-spend-midterms-rcna256622) (Tier 2)
 
 ---
@@ -154,7 +154,7 @@ Federal lobbying spending hit $5.08 billion in 2025, the first year to break $5 
 **Vault profiles to update:** [[Meta - Facebook]], [[Google - Alphabet]], [[Blackstone Group]], [[US Chamber of Commerce]]
 
 ### Sources:
-- [OpenSecrets: Lobbying firms took in a record $5 billion in 2025](https://www.opensecrets.org/news/2026/01/lobbying-firms-took-in-a-record-5-billion-in-2025/) (Tier 1)
+- [OpenSecrets: Lobbying firms took in a record $5 billion in 2025](https://www.opensecrets.org/news/2026/01/lobbying-firms-took-in-a-record-5-billion-in-2025/) (Tier 1) (VERIFIED)
 
 ---
 
@@ -190,8 +190,8 @@ Peter Thiel resumed political giving in early 2025 after sitting out the 2024 cy
 **Vault profiles to update:** [[Peter Thiel]], [[Club for Growth Action]], [[_Mike Johnson Master Profile]]
 
 ### Sources:
-- [Yahoo Finance: Peter Thiel's political hiatus is over. Here's where his money's flowing now.](https://finance.yahoo.com/news/peter-thiels-political-hiatus-over-112902928.html) (Tier 2)
-- [EXPOSEDbyCMD: Major Right-Wing Super PACs Disclose Recent Contributions and Endorsements](https://www.exposedbycmd.org/2026/02/18/major-right-wing-super-pacs-disclose-recent-contributions-and-endorsements/) (Tier 2)
+- [Yahoo Finance: Peter Thiel's political hiatus is over. Here's where his money's flowing now.](https://finance.yahoo.com/news/peter-thiels-political-hiatus-over-112902928.html) (Tier 2) (VERIFIED)
+- ~~[EXPOSEDbyCMD: Major Right-Wing Super PACs Disclose Recent Contributions and Endorsements](https://www.exposedbycmd.org/2026/02/18/major-right-wing-super-pacs-disclose-recent-contributions-and-endorsements/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ---
 
@@ -216,9 +216,9 @@ AIPAC's federal PAC delivered $28 million to congressional members and candidate
 **Vault profiles to update:** [[AIPAC - American Israel Public Affairs Committee]], [[Jamaal Bowman]], [[Cori Bush]], [[_Mike Johnson Master Profile]]
 
 ### Sources:
-- [Readsludge: Here Is How Much AIPAC Has Funneled to Every Member of Congress](https://readsludge.com/2026/03/01/here-is-how-much-aipac-has-funneled-to-every-member-of-congress/) (Tier 2)
-- [Readsludge: Here Is All the Money AIPAC Spent on the 2024 Elections](https://readsludge.com/2025/01/24/here-is-all-the-money-aipac-spent-on-the-2024-elections/) (Tier 2)
-- [OpenSecrets: American Israel Public Affairs Cmte Profile](https://www.opensecrets.org/orgs/american-israel-public-affairs-cmte/summary?id=D000046963) (Tier 1)
+- [Readsludge: Here Is How Much AIPAC Has Funneled to Every Member of Congress](https://readsludge.com/2026/03/01/here-is-how-much-aipac-has-funneled-to-every-member-of-congress/) (Tier 2) (VERIFIED)
+- [Readsludge: Here Is All the Money AIPAC Spent on the 2024 Elections](https://readsludge.com/2025/01/24/here-is-all-the-money-aipac-spent-on-the-2024-elections/) (Tier 2) (VERIFIED)
+- [OpenSecrets: American Israel Public Affairs Cmte Profile](https://www.opensecrets.org/orgs/american-israel-public-affairs-cmte/summary?id=D000046963) (Tier 1) (VERIFIED)
 
 ---
 
@@ -238,7 +238,7 @@ Americans for Prosperity Action (AFP Action) raised $28.9M in 2025, with $6.5M f
 **Vault profiles to update:** [[Koch Network - Charles Koch]], [[Americans for Prosperity]]
 
 ### Sources:
-- [Readsludge: Koch Network Fuels Republican Push to Kill ACA Subsidies](https://readsludge.com/2025/12/15/koch-network-fuels-republican-push-to-kill-aca-subsidies/) (Tier 2)
+- [Readsludge: Koch Network Fuels Republican Push to Kill ACA Subsidies](https://readsludge.com/2025/12/15/koch-network-fuels-republican-push-to-kill-aca-subsidies/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -258,8 +258,8 @@ The two main Republican congressional super PACs raised a combined $175M in 2025
 **Vault profiles to update:** [[Senate Leadership Fund]], [[Congressional Leadership Fund]], [[Ken Griffin - Citadel]]
 
 ### Sources:
-- [FEC: SLF PAC committee overview](https://www.fec.gov/data/committee/C00571703/?tab=summary) (Tier 1)
-- [Axios: The 2026 midterms spending explosion has begun](https://www.axios.com/2026/02/03/2025-campaign-fundraising) (Tier 2) (UNVERIFIED, not Chrome-checked this session)
+- [FEC: SLF PAC committee overview](https://www.fec.gov/data/committee/C00571703/?tab=summary) (Tier 1) (VERIFIED)
+- ~~[Axios: The 2026 midterms spending explosion has begun](https://www.axios.com/2026/02/03/2025-campaign-fundraising)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED, not Chrome-checked this session)
 
 ---
 
@@ -281,8 +281,8 @@ LegiStorm tracked 866 individuals moving from Congress to lobbying in 2025, a re
 **Vault profiles to update:** [[Elon Musk - Tesla SpaceX]], [[DOGE - Department of Government Efficiency]] (if exists)
 
 ### Sources:
-- [LegiStorm: Revolving Door in Congress 2025](https://info.legistorm.com/blog/revolving-door-in-congress) (Tier 3) (UNVERIFIED, not Chrome-checked this session)
-- [Revolving Door Project: DOGE analysis](https://therevolvingdoorproject.org/doge-musk-vought-government-cuts-civil-service/) (Tier 3) (UNVERIFIED, not Chrome-checked this session)
+- [LegiStorm: Revolving Door in Congress 2025](https://info.legistorm.com/blog/revolving-door-in-congress) (Tier 3) (VERIFIED) (UNVERIFIED, not Chrome-checked this session)
+- [Revolving Door Project: DOGE analysis](https://therevolvingdoorproject.org/doge-musk-vought-government-cuts-civil-service/) (Tier 3) (VERIFIED) (UNVERIFIED, not Chrome-checked this session)
 
 ---
 

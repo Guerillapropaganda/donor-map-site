@@ -170,7 +170,7 @@ Wahls is competing in the Iowa Democratic primary against Josh Turek, a state re
 - Turek represents the centrist/establishment lane
 - Primary will reveal whether Iowa Democrats prefer progressive credentials (Wahls) or establishment viability (Turek)
 
-Sources: [Democratic U.S. Senate candidates Zach Wahls, Josh Turek tout new endorsements](https://iowacapitaldispatch.com/2025/11/18/democratic-u-s-senate-candidates-zach-wahls-josh-turek-tout-new-endorsements/) (Tier 2)
+Sources: [Democratic U.S. Senate candidates Zach Wahls, Josh Turek tout new endorsements](https://iowacapitaldispatch.com/2025/11/18/democratic-u-s-senate-candidates-zach-wahls-josh-turek-tout-new-endorsements/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -255,14 +255,14 @@ The answer to this question will determine whether Wahls' campaign is a serious 
 
 ## Sources
 
-- [Zach Wahls - FEC Candidate Profile](https://www.fec.gov/data/candidate/S6IA00272/) (Tier 1)
-- [Zach Wahls - Wikipedia](https://en.wikipedia.org/wiki/Zach_Wahls) (Tier 3)
-- [Elizabeth Warren backs Zach Wahls in Iowa U.S. Senate race](https://www.thegazette.com/news/elections/elizabeth-warren-backs-zach-wahls-in-iowa-s-democratic-u-s-senate-primary/article_d360eb4e-edad-4493-b803-b4b21c77e7f0.html) (Tier 2)
+- [Zach Wahls - FEC Candidate Profile](https://www.fec.gov/data/candidate/S6IA00272/) (Tier 1) (VERIFIED)
+- [Zach Wahls - Wikipedia](https://en.wikipedia.org/wiki/Zach_Wahls) (Tier 3) (VERIFIED)
+- [Elizabeth Warren backs Zach Wahls in Iowa U.S. Senate race](https://www.thegazette.com/news/elections/elizabeth-warren-backs-zach-wahls-in-iowa-s-democratic-u-s-senate-primary/article_d360eb4e-edad-4493-b803-b4b21c77e7f0.html) (Tier 2) (VERIFIED)
 - [Democratic U.S. Senate candidates Zach Wahls, Josh Turek tout new endorsements](https://iowacapitaldispatch.com/2025/11/18/democratic-u-s-senate-candidates-zach-wahls-josh-turek-tout-new-endorsements/) (Tier 2)
-- [Zach Wahls, who defended his lesbian moms' right to marry, reflects on political victory](https://www.nbcnews.com/feature/nbc-out/zach-wahls-who-defended-his-lesbian-moms-right-marry-reflects-n935441) (Tier 2)
-- [Democratic state Sen. Zach Wahls launches campaign for U.S. Senate held by Sen. Joni Ernst](https://www.iowapublicradio.org/political-news/2025-06-11/democrat-iowa-senator-zach-wahls-campaign-for-u-s-senate-held-by-sen-joni-ernst) (Tier 2)
-- [Zach Wahls – Iowa State Senator](https://repbio.org/zach-wahls/) (Tier 3)
-- [Ten years later, Zach Wahls reflects on 2011 viral speech about family](https://cbs2iowa.com/news/local/ten-years-later-zach-wahls-reflects-on-2011-viral-speech-about-family) (Tier 2)
+- [Zach Wahls, who defended his lesbian moms' right to marry, reflects on political victory](https://www.nbcnews.com/feature/nbc-out/zach-wahls-who-defended-his-lesbian-moms-right-marry-reflects-n935441) (Tier 2) (VERIFIED)
+- ~~[Democratic state Sen. Zach Wahls launches campaign for U.S. Senate held by Sen. Joni Ernst](https://www.iowapublicradio.org/political-news/2025-06-11/democrat-iowa-senator-zach-wahls-campaign-for-u-s-senate-held-by-sen-joni-ernst)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Zach Wahls – Iowa State Senator](https://repbio.org/zach-wahls/) (Tier 3) (VERIFIED)
+- [Ten years later, Zach Wahls reflects on 2011 viral speech about family](https://cbs2iowa.com/news/local/ten-years-later-zach-wahls-reflects-on-2011-viral-speech-about-family) (Tier 2) (VERIFIED)
 - ~~[FollowTheMoney.org: Zach Wahls Iowa Senate 2026](https://www.followthemoney.org/tools/election-overview?eid=46081947)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
 
 ### Campaign Finance (FEC)
@@ -275,7 +275,7 @@ The answer to this question will determine whether Wahls' campaign is a serious 
 | PAC Contributions | $26,055 |
 | Cash on Hand | 733480.88 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6IA00272/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6IA00272/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Influence Network (Cross-Reference)
@@ -296,5 +296,5 @@ The answer to this question will determine whether Wahls' campaign is a serious 
 <!-- auto:committee-assignments start -->
 _No committee data found._
 
-- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->

@@ -46,9 +46,9 @@ The petrochemical industry's geographic concentration along the Mississippi Rive
 
 ### Sources
 
-- [FEC Receipts: Chemical industry lobbying](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- [EPA: Toxics Release Inventory - Louisiana](https://www.epa.gov/toxics-release-inventory-tri-program) (Tier 1)
-- [Ballotpedia: Petrochemical industry regulation](https://ballotpedia.org/Petrochemical_Industry_Bloc) (Tier 3)
+- [FEC Receipts: Chemical industry lobbying](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
+- [EPA: Toxics Release Inventory - Louisiana](https://www.epa.gov/toxics-release-inventory-tri-program) (Tier 1) (VERIFIED)
+- [Ballotpedia: Petrochemical industry regulation](https://ballotpedia.org/Petrochemical_Industry_Bloc) (Tier 3) (VERIFIED)
 
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->
@@ -66,7 +66,7 @@ The petrochemical industry's geographic concentration along the Mississippi Rive
 
 **Agencies contacted:** Environmental Protection Agency (EPA), HOUSE OF REPRESENTATIVES, Homeland Security, Dept of (DHS), SENATE, Surface Transportation Board (STB), White House Office
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Petrochemical%20Industry%20Bloc) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Petrochemical%20Industry%20Bloc) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)
@@ -100,5 +100,5 @@ The petrochemical industry's geographic concentration along the Mississippi Rive
 - PERSIAN GULF PETROCHEMICAL INDUSTRY COMMERCIAL CO. (-0-) [NPWMD] [IFSR]
   - Remarks: Website www.pgpicc.com; Additional Sanctions Information - Subject to Secondary Sanctions; Registration Number 476760 (Iran); Linked To: PERSIAN GULF PETROCHEMICAL INDUSTRY CO.
 
-- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->

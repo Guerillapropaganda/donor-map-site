@@ -155,14 +155,14 @@ The bipartisan giving strategy reveals the structural function: Comcast doesn't 
 
 ### Sources
 
-- [OpenSecrets: Comcast Corp organizational profile](https://www.opensecrets.org/orgs/comcast-corp/summary?id=D000000461) (Tier 1)
-- [Senate LDA Filings: Comcast Corp lobbying profile](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [FEC: Comcast Corporation & NBCUniversal PAC — Federal (C00248716)](https://www.fec.gov/data/committee/C00248716/) (Tier 1)
-- [Roll Call: FCC move to restore net neutrality sets stage for familiar fight](https://rollcall.com/2024/04/09/fcc-move-to-restore-net-neutrality-sets-stage-for-familiar-fight/) (Tier 2)
-- [Revolving Door Project: Unmasking FCC's revolving door with telecom giants](https://therevolvingdoorproject.org/unmasking-fccs-revolving-door-with-telecom-giants/) (Tier 2)
-- [Techdirt: Former Trump FCC boss Ajit Pai promoted to top wireless industry lobbyist](https://www.techdirt.com/2025/03/27/the-revolving-door-spins-former-trump-fcc-boss-ajit-pai-promoted-to-top-wireless-industry-lobbyist/) (Tier 2)
-- [Techdirt: 16 U.S. states still ban community-owned broadband networks](https://www.techdirt.com/2024/11/07/16-u-s-states-still-ban-community-owned-broadband-networks-because-att-and-comcast-told-them-to/) (Tier 2)
-- [Ballotpedia: Comcast political spending](https://ballotpedia.org/Comcast) (Tier 3)
+- [OpenSecrets: Comcast Corp organizational profile](https://www.opensecrets.org/orgs/comcast-corp/summary?id=D000000461) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: Comcast Corp lobbying profile](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [FEC: Comcast Corporation & NBCUniversal PAC — Federal (C00248716)](https://www.fec.gov/data/committee/C00248716/) (Tier 1) (VERIFIED)
+- [Roll Call: FCC move to restore net neutrality sets stage for familiar fight](https://rollcall.com/2024/04/09/fcc-move-to-restore-net-neutrality-sets-stage-for-familiar-fight/) (Tier 2) (VERIFIED)
+- [Revolving Door Project: Unmasking FCC's revolving door with telecom giants](https://therevolvingdoorproject.org/unmasking-fccs-revolving-door-with-telecom-giants/) (Tier 2) (VERIFIED)
+- [Techdirt: Former Trump FCC boss Ajit Pai promoted to top wireless industry lobbyist](https://www.techdirt.com/2025/03/27/the-revolving-door-spins-former-trump-fcc-boss-ajit-pai-promoted-to-top-wireless-industry-lobbyist/) (Tier 2) (VERIFIED)
+- [Techdirt: 16 U.S. states still ban community-owned broadband networks](https://www.techdirt.com/2024/11/07/16-u-s-states-still-ban-community-owned-broadband-networks-because-att-and-comcast-told-them-to/) (Tier 2) (VERIFIED)
+- [Ballotpedia: Comcast political spending](https://ballotpedia.org/Comcast) (Tier 3) (VERIFIED)
 
 ---
 
@@ -204,7 +204,7 @@ The bipartisan giving strategy reveals the structural function: Comcast doesn't 
 |------------------|--------|--------|
 | Unknown | $1009778941.6B | 50 |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Comcast%20-%20NBCUniversal) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Comcast%20-%20NBCUniversal) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Federal Register Activity
@@ -216,9 +216,9 @@ The bipartisan giving strategy reveals the structural function: Comcast doesn't 
 | Agencies | Federal Communications Commission |
 
 **Recent regulatory activity:**
-- [Closed Captioning of Video Programming; Telecommunications for the Deaf and Hard of Hearing Petition for Rulemaking](https://www.federalregister.gov/documents/2014/03/27/2014-06755/closed-captioning-of-video-programming-telecommunications-for-the-deaf-and-hard-of-hearing-petition) (2014-03-27) — Federal Communications Commission
+- ~~[Closed Captioning of Video Programming; Telecommunications for the Deaf and Hard of Hearing Petition for Rulemaking](https://www.federalregister.gov/documents/2014/03/27/2014-06755/closed-captioning-of-video-programming-telecommunications-for-the-deaf-and-hard-of-hearing-petition)~~ (URL broken, archived by Ops) (2014-03-27) — Federal Communications Commission
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Comcast%20-%20NBCUniversal%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Comcast%20-%20NBCUniversal%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -230,8 +230,8 @@ The bipartisan giving strategy reveals the structural function: Comcast doesn't 
 | Total Expenses | $45.1M |
 | Net Assets | $21.7M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 510390132](https://projects.propublica.org/nonprofits/organizations/510390132) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F510390132_202312_990PF_2025010222977425.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 510390132](https://projects.propublica.org/nonprofits/organizations/510390132) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F510390132_202312_990PF_2025010222977425.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### SEC Filing Activity
@@ -249,7 +249,7 @@ The bipartisan giving strategy reveals the structural function: Comcast doesn't 
 - 2016-07-28 — **S-8**: S-8
 - 2018-07-12 — **8-K**: FORM 8-K
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Comcast%20-%20NBCUniversal%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Comcast%20-%20NBCUniversal%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### FTC Enforcement & Merger Review
@@ -266,17 +266,17 @@ The bipartisan giving strategy reveals the structural function: Comcast doesn't 
 
 **Recent enforcement actions (historical):**
 
-- [Brian L. Roberts / Comcast](http://www.ftc.gov/os/caselist/1010034/index.shtm) (2011-12-16)
+- [Brian L. Roberts / Comcast](http://www.ftc.gov/os/caselist/1010034/index.shtm) (NEEDS REVIEW) (2011-12-16)
 
 **Recent HSR merger filings (early terminations granted):**
 
-- [Trian Star Trust → Comcast Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20201632) (2020-10-16)
-- [Trian Partners, L.P. → Comcast Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20201633) (2020-10-16)
-- [Trian Partners Strategic Investment Fund-N, L.P. → Comcast Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20201634) (2020-10-16)
-- [Comcast Corporation → Newco](https://www.ftc.gov/legal-library/browse/early-termination-notices/20200803) (2020-03-30)
-- [Michael Angelakis → Comcast Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20180843) (2018-03-06)
+- [Trian Star Trust → Comcast Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20201632) (VERIFIED) (2020-10-16)
+- [Trian Partners, L.P. → Comcast Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20201633) (VERIFIED) (2020-10-16)
+- [Trian Partners Strategic Investment Fund-N, L.P. → Comcast Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20201634) (VERIFIED) (2020-10-16)
+- [Comcast Corporation → Newco](https://www.ftc.gov/legal-library/browse/early-termination-notices/20200803) (VERIFIED) (2020-03-30)
+- [Michael Angelakis → Comcast Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20180843) (VERIFIED) (2018-03-06)
 
-> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Comcast%20-%20NBCUniversal).
+> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Comcast%20-%20NBCUniversal) (VERIFIED).
 
-- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Comcast%20-%20NBCUniversal) (Tier 1)
+- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Comcast%20-%20NBCUniversal) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->

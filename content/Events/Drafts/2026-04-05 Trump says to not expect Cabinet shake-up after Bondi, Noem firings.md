@@ -14,7 +14,7 @@ profiles:
 
 ## Trump says to not expect Cabinet shake-up after Bondi, Noem firings
 
-**Source:** [The Hill](https://thehill.com/homenews/administration/5817133-trump-cabinet-changes/)
+**Source:** ~~[The Hill](https://thehill.com/homenews/administration/5817133-trump-cabinet-changes/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-05
 
 President Trump warned against reading into reports of an impending Cabinet shake-up during a brief phone interview on Sunday. Trump told The Hill that reports of staffing shake-ups should not be read into, saying the country was on the right track. His comments come after Attorney General Pam Bondi was ousted from her post Thursday,…

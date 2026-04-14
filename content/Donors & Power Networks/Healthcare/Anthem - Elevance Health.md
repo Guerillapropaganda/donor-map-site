@@ -116,12 +116,12 @@ The Medicare Advantage expansion is the long game. Each year, more Medicare bene
 
 ### Sources
 
-- [OpenSecrets: Elevance Health PAC Profile, 2023-2024 cycle](https://www.opensecrets.org/political-action-committees-pacs/elevance-health/C00197228/summary/2024) (Tier 1)
-- [OpenSecrets: Elevance Health Lobbying Profile](https://www.opensecrets.org/orgs/elevance-health/lobbying?id=D000023159) (Tier 1)
-- [FEC: Elevance Health PAC filings](https://www.fec.gov/data/committee/C00197228/) (Tier 1)
-- [The Lever: Newsom's Big Choice — Single Payer or His Insurance Donors](https://www.levernews.com/newsoms-big-choice-single-payer-or-his-insurance-donors/) (Tier 2)
-- [Fierce Healthcare: Elevance Health Q4 2024 earnings, $175.2B revenue](https://www.fiercehealthcare.com/payers/elevance-health-beats-profit-misses-revenue-mixed-q4) (Tier 2)
-- [Becker's Payer Issues: Elevance Health 5 highest-paid executives 2024](https://www.beckerspayer.com/payer/elevance-healths-5-highest-paid-executives-2025/) (Tier 2)
+- [OpenSecrets: Elevance Health PAC Profile, 2023-2024 cycle](https://www.opensecrets.org/political-action-committees-pacs/elevance-health/C00197228/summary/2024) (Tier 1) (VERIFIED)
+- [OpenSecrets: Elevance Health Lobbying Profile](https://www.opensecrets.org/orgs/elevance-health/lobbying?id=D000023159) (Tier 1) (VERIFIED)
+- [FEC: Elevance Health PAC filings](https://www.fec.gov/data/committee/C00197228/) (Tier 1) (VERIFIED)
+- [The Lever: Newsom's Big Choice — Single Payer or His Insurance Donors](https://www.levernews.com/newsoms-big-choice-single-payer-or-his-insurance-donors/) (Tier 2) (VERIFIED)
+- [Fierce Healthcare: Elevance Health Q4 2024 earnings, $175.2B revenue](https://www.fiercehealthcare.com/payers/elevance-health-beats-profit-misses-revenue-mixed-q4) (Tier 2) (VERIFIED)
+- ~~[Becker's Payer Issues: Elevance Health 5 highest-paid executives 2024](https://www.beckerspayer.com/payer/elevance-healths-5-highest-paid-executives-2025/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - ~~[National Institute on Money in Politics: FollowTheMoney.org — Anthem/Elevance state contributions](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=Anthem%20-%20Elevance%20Health#[%7B1%7Cgro=d-id)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
 
 ---
@@ -155,14 +155,14 @@ The Medicare Advantage expansion is the long game. Each year, more Medicare bene
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/352122763/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/352122763/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/352122763/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/352122763/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/352122763/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/352122763/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/352122763/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/352122763/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/352122763/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/352122763/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/352122763) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/352122763) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Lobbying Activity
@@ -181,7 +181,7 @@ The Medicare Advantage expansion is the long game. Each year, more Medicare bene
 
 **Agencies contacted:** Centers For Medicare and Medicaid Services (CMS), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Office of Management & Budget (OMB), SENATE, White House Office
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Anthem%20-%20Elevance%20Health) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Anthem%20-%20Elevance%20Health) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

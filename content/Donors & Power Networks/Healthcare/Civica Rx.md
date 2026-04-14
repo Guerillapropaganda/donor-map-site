@@ -106,13 +106,13 @@ Pharmaceutical corporations — not opponents in any material sense. Civica oper
 
 ### Sources
 
-- [Civica Rx: California Selects Civica Rx as Its Insulin Manufacturing Partner (2023)](https://civicarx.org/california-selects-civica-rx-as-its-insulin-manufacturing-partner/) (Tier 1)
-- [California Health & Human Services: Governor Newsom announces affordable CalRx insulin, $11 a pen (2025)](https://www.chhs.ca.gov/blog/2025/10/17/governor-newsom-announces-affordable-calrx-insulin-11-a-pen-will-soon-be-available-for-purchase/) (Tier 1)
-- [CalMatters: Affordable insulin is coming: California to launch $11 state-branded pens as part of CalRx initiative (2025)](https://calmatters.org/health/2025/10/insulin-california-announcement/) (Tier 2)
-- [Intermountain Healthcare: Not-for-profit Generic Drug Company Officially Established (2018)](https://news.intermountainhealth.org/not-for-profit-generic-drug-company-officially-established-attracts-interest-of-more-than-120-health-organizations/) (Tier 1)
-- [West Health: Nonprofit Generic Drug Company Co-Founded by Gary and Mary West Foundation Will Manufacture Low-Cost Insulin](https://westhealth.org/news/nonprofit-generic-drug-company-co-founded-by-gary-and-mary-west-foundation-will-manufacture-and-distribute-low-cost-insulin/) (Tier 1)
-- [Healthcare Finance News: Intermountain Healthcare-led generic drug venture CivicaRx garners new members (2019)](https://www.healthcarefinancenews.com/news/intermountain-healthcare-led-generic-drug-venture-civicarx-garners-new-members-including-nyu) (Tier 2)
-- [State of Reform: California and Civica RX to produce biosimilar insulins (2023)](https://stateofreform.com/) (Tier 2)
+- [Civica Rx: California Selects Civica Rx as Its Insulin Manufacturing Partner (2023)](https://civicarx.org/california-selects-civica-rx-as-its-insulin-manufacturing-partner/) (Tier 1) (VERIFIED)
+- ~~[California Health & Human Services: Governor Newsom announces affordable CalRx insulin, $11 a pen (2025)](https://www.chhs.ca.gov/blog/2025/10/17/governor-newsom-announces-affordable-calrx-insulin-11-a-pen-will-soon-be-available-for-purchase/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [CalMatters: Affordable insulin is coming: California to launch $11 state-branded pens as part of CalRx initiative (2025)](https://calmatters.org/health/2025/10/insulin-california-announcement/) (Tier 2) (VERIFIED)
+- [Intermountain Healthcare: Not-for-profit Generic Drug Company Officially Established (2018)](https://news.intermountainhealth.org/not-for-profit-generic-drug-company-officially-established-attracts-interest-of-more-than-120-health-organizations/) (Tier 1) (VERIFIED)
+- [West Health: Nonprofit Generic Drug Company Co-Founded by Gary and Mary West Foundation Will Manufacture Low-Cost Insulin](https://westhealth.org/news/nonprofit-generic-drug-company-co-founded-by-gary-and-mary-west-foundation-will-manufacture-and-distribute-low-cost-insulin/) (Tier 1) (VERIFIED)
+- [Healthcare Finance News: Intermountain Healthcare-led generic drug venture CivicaRx garners new members (2019)](https://www.healthcarefinancenews.com/news/intermountain-healthcare-led-generic-drug-venture-civicarx-garners-new-members-including-nyu) (Tier 2) (VERIFIED)
+- [State of Reform: California and Civica RX to produce biosimilar insulins (2023)](https://stateofreform.com/) (Tier 2) (VERIFIED)
 
 ### Federal Subawards & Spending Breakdown
 <!-- auto:usaspending-subawards start -->
@@ -140,7 +140,7 @@ Pharmaceutical corporations — not opponents in any material sense. Civica oper
 |------------------|--------|--------|
 | Unknown | $1009778941.6B | 50 |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Civica%20Rx) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Civica%20Rx) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Vehicle Safety (NHTSA)
@@ -158,7 +158,7 @@ Pharmaceutical corporations — not opponents in any material sense. Civica oper
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Civica%20Rx) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Civica%20Rx) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Federal Court Records (CourtListener)
@@ -173,7 +173,7 @@ Pharmaceutical corporations — not opponents in any material sense. Civica oper
 - In Re: National Prescription Opiate Litigation (2022) — District Court, N.D. Ohio
 - Federal Trade Commission v. Vyera Pharmaceuticals, LLC (2022) — Court of Appeals for the Second Circuit
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Civica%20Rx%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Civica%20Rx%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### SEC Filing Activity
@@ -191,5 +191,5 @@ Pharmaceutical corporations — not opponents in any material sense. Civica oper
 - 2025-12-10 — **DEF 14A**: DEF 14A
 - 2019-03-26 — **EX-99.1**: EX-99.1
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Civica%20Rx%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Civica%20Rx%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->

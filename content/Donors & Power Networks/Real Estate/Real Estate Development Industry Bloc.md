@@ -113,14 +113,14 @@ Specific FPPC filings for Lennar contributions to California state politicians 2
 
 ### Sources
 
-- [OpenSecrets: National Association of Realtors PAC (2023-2024 cycle)](https://www.opensecrets.org/political-action-committees-pacs/national-assn-of-realtors/C00030718/summary/2024) (Tier 1)
-- [Ballotpedia: National Association of Realtors PAC](https://ballotpedia.org/National_Association_of_Realtors_PAC) (Tier 3)
-- [The Real Deal Los Angeles: Real Estate Players Back Newsom in Recall Election (2021)](https://therealdeal.com/la/2021/07/19/real-estate-players-back-newsom-in-recall-election/) (Tier 2)
-- [Housing Is a Human Right: California Apartment Association's Campaign to Kill Tenant Protections](https://www.housingisahumanright.org/special-investigation-the-california-apartment-associations-deep-pocketed-campaign-to-kill-tenant-protections/) (Tier 2)
-- [Digital Democracy: California Apartment Association](https://calmatters.digitaldemocracy.org/organizations/-1832) (Tier 2)
-- [OC Register: Builders push "Trump Homes" in pitch for a million new houses (2026)](https://www.ocregister.com/2026/02/03/builders-push-trump-homes-in-pitch-for-a-million-houses/) (Tier 2)
-- [The Real Deal National: Lennar, Taylor Morrison leading "Trump Homes" charge (2026)](https://therealdeal.com/national/2026/02/04/lennar-taylor-morrison-leading-trump-homes-charge/) (Tier 2)
-- [ABC10: Newsom and Trump align in criticizing corporate investors amid California housing crisis](https://www.abc10.com/article/news/politics/newsom-and-trump-align-in-criticizing-corporate-investors-amid-the-california-housing-crisis/103-81104069-2e38-4895-b554-b4400f7d1a55) (Tier 3)
+- [OpenSecrets: National Association of Realtors PAC (2023-2024 cycle)](https://www.opensecrets.org/political-action-committees-pacs/national-assn-of-realtors/C00030718/summary/2024) (Tier 1) (VERIFIED)
+- [Ballotpedia: National Association of Realtors PAC](https://ballotpedia.org/National_Association_of_Realtors_PAC) (Tier 3) (VERIFIED)
+- [The Real Deal Los Angeles: Real Estate Players Back Newsom in Recall Election (2021)](https://therealdeal.com/la/2021/07/19/real-estate-players-back-newsom-in-recall-election/) (Tier 2) (VERIFIED)
+- [Housing Is a Human Right: California Apartment Association's Campaign to Kill Tenant Protections](https://www.housingisahumanright.org/special-investigation-the-california-apartment-associations-deep-pocketed-campaign-to-kill-tenant-protections/) (Tier 2) (VERIFIED)
+- [Digital Democracy: California Apartment Association](https://calmatters.digitaldemocracy.org/organizations/-1832) (Tier 2) (VERIFIED)
+- [OC Register: Builders push "Trump Homes" in pitch for a million new houses (2026)](https://www.ocregister.com/2026/02/03/builders-push-trump-homes-in-pitch-for-a-million-houses/) (Tier 2) (VERIFIED)
+- [The Real Deal National: Lennar, Taylor Morrison leading "Trump Homes" charge (2026)](https://therealdeal.com/national/2026/02/04/lennar-taylor-morrison-leading-trump-homes-charge/) (Tier 2) (VERIFIED)
+- [ABC10: Newsom and Trump align in criticizing corporate investors amid California housing crisis](https://www.abc10.com/article/news/politics/newsom-and-trump-align-in-criticizing-corporate-investors-amid-the-california-housing-crisis/103-81104069-2e38-4895-b554-b4400f7d1a55) (Tier 3) (VERIFIED)
 
 ### OFAC Sanctions Screening
 <!-- auto:ofac-sdn start -->
@@ -144,7 +144,7 @@ Specific FPPC filings for Lennar contributions to California state politicians 2
 - OZEAN DEVELOPMENT REAL ESTATE GMBH & CO. KG (-0-) [GLOMAG]
   - Remarks: Organization Established Date 23 Dec 2019; Registration Number HRA 736334 (Stuttgart) (Germany); Linked To: OCEAN PROPERTIES GMBH.
 
-- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
 ### Vehicle Safety (NHTSA)
@@ -162,5 +162,5 @@ Specific FPPC filings for Lennar contributions to California state politicians 2
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Real%20Estate%20Development%20Industry%20Bloc) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Real%20Estate%20Development%20Industry%20Bloc) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->

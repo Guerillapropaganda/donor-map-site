@@ -197,29 +197,29 @@ Heritage Action's scorecard system deserves specific attention. By rating every 
 
 ### Sources
 
-- [OpenSecrets: Heritage Foundation summary](https://www.opensecrets.org/orgs/heritage-foundation/summary?id=D000034435) (Tier 1)
-- [OpenSecrets: Heritage Foundation lobbying](https://www.opensecrets.org/orgs/heritage-foundation/lobbying?id=D000034435) (Tier 1)
-- [FEC Independent Expenditures: Heritage Action political spending](https://www.fec.gov/data/independent-expenditures/?q=Political%20Nonprofits) (Tier 1)
-- [OpenSecrets: Heritage Action independent expenditures 2018](https://www.opensecrets.org/political-action-committees-pacs/C90013525/independent-expenditures/2018) (Tier 1)
-- [ProPublica Nonprofit Explorer: Heritage Foundation 990 filings](https://projects.propublica.org/nonprofits/organizations/237327730) (Tier 1)
-- [Heritage Foundation: Consolidated Financial Report 2024](https://static.heritage.org/2024/Financial.pdf) (Tier 1)
-- [Project 2025: Mandate for Leadership full text](https://static.heritage.org/project2025/2025_MandateForLeadership_FULL.pdf) (Tier 1)
-- [Heritage Foundation: Tax Cuts and Jobs Act impact timeline](https://www.heritage.org/article/timeline-heritage-successes) (Tier 1)
-- [Heritage Foundation: Four Trump Cabinet Members Now Call Heritage Home](https://www.heritage.org/impact/four-trump-cabinet-members-now-call-heritage-home) (Tier 1)
-- [DeSmog: 6 Billionaire Fortunes Bankrolling Project 2025](https://www.desmog.com/2024/08/14/project-2025-billionaire-donor-heritage-foundation-donald-trump-jd-vance-charles-koch-peter-coors/) (Tier 2)
-- [Media Matters: Heritage Gave $1M to Trump Convention](https://www.mediamatters.org/project-2025/project-2025-organizer-heritage-foundation-gave-1-million-trumps-convention) (Tier 2)
-- [Media Matters: Trump Personnel with Project 2025 Ties](https://www.mediamatters.org/project-2025/trump-administration-personnel-ties-project-2025) (Tier 2)
-- [NBC News: Donations Surged to Groups Linked to Project 2025](https://www.nbcnews.com/politics/2024-election/donations-surged-groups-linked-conservative-project-2025-rcna125638) (Tier 2)
-- [AFGE: Trump Administration Packed with Project 2025 Architects](https://www.afge.org/article/new-trump-administration-packed-with-project-2025-architects/) (Tier 2)
-- [Newsweek: Project 2025 Contributors in Trump Administration](https://www.newsweek.com/project-2025-contributors-trump-administration-2040464) (Tier 2)
-- [PBS: Tracking Project 2025 Implementation](https://www.pbs.org/newshour/politics/tracking-how-much-of-project-2025-the-trump-administration-achieved-this-year) (Tier 2)
-- [NPR: Heritage Foundation Staff Walkout](https://www.npr.org/2025/12/22/nx-s1-5651990/heritage-foundation-mike-pence) (Tier 2)
-- [Washington Post: Heritage staffers walk out amid latest strife at MAGA institution](https://www.washingtonpost.com/business/2025/12/22/heritage-walkout-antisemitism/) (Tier 2)
-- [Bloomberg Government: Heritage Action Turnover Prompts Lobbying Drop](https://news.bgov.com/bloomberg-government-news/heritage-action-turnover-prompts-lobbying-drop-as-it-regroups) (Tier 2)
-- [Slate: How the Federalist Society Became SCOTUS Selector](https://slate.com/news-and-politics/2017/01/how-the-federalist-society-became-the-de-facto-selector-of-republican-supreme-court-justices.html) (Tier 2)
-- [Campaign Legal Center: CLC Sues Heritage Action for Disclosure Violations](https://campaignlegal.org/update/clc-sues-secret-money-group-heritage-action-violating-disclosure-laws) (Tier 2)
-- [Revolving Door Project: Heritage Lays Foundation for Schedule F](https://therevolvingdoorproject.org/heritage-lays-the-foundation-for-schedule-f/) (Tier 2)
-- [The Conversation: Heritage Foundation's Over 50-Year History](https://theconversation.com/usheritage-foundations-project-2025-is-just-the-latest-action-plan-from-a-group-with-an-over-50-year-history-of-steering-gop-lawmaking-234542) (Tier 2)
+- [OpenSecrets: Heritage Foundation summary](https://www.opensecrets.org/orgs/heritage-foundation/summary?id=D000034435) (Tier 1) (NEEDS REVIEW)
+- [OpenSecrets: Heritage Foundation lobbying](https://www.opensecrets.org/orgs/heritage-foundation/lobbying?id=D000034435) (Tier 1) (VERIFIED)
+- [FEC Independent Expenditures: Heritage Action political spending](https://www.fec.gov/data/independent-expenditures/?q=Political%20Nonprofits) (Tier 1) (VERIFIED)
+- [OpenSecrets: Heritage Action independent expenditures 2018](https://www.opensecrets.org/political-action-committees-pacs/C90013525/independent-expenditures/2018) (Tier 1) (VERIFIED)
+- [ProPublica Nonprofit Explorer: Heritage Foundation 990 filings](https://projects.propublica.org/nonprofits/organizations/237327730) (Tier 1) (VERIFIED)
+- [Heritage Foundation: Consolidated Financial Report 2024](https://static.heritage.org/2024/Financial.pdf) (Tier 1) (VERIFIED)
+- [Project 2025: Mandate for Leadership full text](https://static.heritage.org/project2025/2025_MandateForLeadership_FULL.pdf) (Tier 1) (VERIFIED)
+- [Heritage Foundation: Tax Cuts and Jobs Act impact timeline](https://www.heritage.org/article/timeline-heritage-successes) (Tier 1) (VERIFIED)
+- [Heritage Foundation: Four Trump Cabinet Members Now Call Heritage Home](https://www.heritage.org/impact/four-trump-cabinet-members-now-call-heritage-home) (Tier 1) (VERIFIED)
+- [DeSmog: 6 Billionaire Fortunes Bankrolling Project 2025](https://www.desmog.com/2024/08/14/project-2025-billionaire-donor-heritage-foundation-donald-trump-jd-vance-charles-koch-peter-coors/) (Tier 2) (VERIFIED)
+- [Media Matters: Heritage Gave $1M to Trump Convention](https://www.mediamatters.org/project-2025/project-2025-organizer-heritage-foundation-gave-1-million-trumps-convention) (Tier 2) (VERIFIED)
+- [Media Matters: Trump Personnel with Project 2025 Ties](https://www.mediamatters.org/project-2025/trump-administration-personnel-ties-project-2025) (Tier 2) (VERIFIED)
+- [NBC News: Donations Surged to Groups Linked to Project 2025](https://www.nbcnews.com/politics/2024-election/donations-surged-groups-linked-conservative-project-2025-rcna125638) (Tier 2) (VERIFIED)
+- [AFGE: Trump Administration Packed with Project 2025 Architects](https://www.afge.org/article/new-trump-administration-packed-with-project-2025-architects/) (Tier 2) (VERIFIED)
+- [Newsweek: Project 2025 Contributors in Trump Administration](https://www.newsweek.com/project-2025-contributors-trump-administration-2040464) (Tier 2) (VERIFIED)
+- [PBS: Tracking Project 2025 Implementation](https://www.pbs.org/newshour/politics/tracking-how-much-of-project-2025-the-trump-administration-achieved-this-year) (Tier 2) (VERIFIED)
+- [NPR: Heritage Foundation Staff Walkout](https://www.npr.org/2025/12/22/nx-s1-5651990/heritage-foundation-mike-pence) (Tier 2) (VERIFIED)
+- [Washington Post: Heritage staffers walk out amid latest strife at MAGA institution](https://www.washingtonpost.com/business/2025/12/22/heritage-walkout-antisemitism/) (Tier 2) (VERIFIED)
+- [Bloomberg Government: Heritage Action Turnover Prompts Lobbying Drop](https://news.bgov.com/bloomberg-government-news/heritage-action-turnover-prompts-lobbying-drop-as-it-regroups) (Tier 2) (VERIFIED)
+- [Slate: How the Federalist Society Became SCOTUS Selector](https://slate.com/news-and-politics/2017/01/how-the-federalist-society-became-the-de-facto-selector-of-republican-supreme-court-justices.html) (Tier 2) (VERIFIED)
+- [Campaign Legal Center: CLC Sues Heritage Action for Disclosure Violations](https://campaignlegal.org/update/clc-sues-secret-money-group-heritage-action-violating-disclosure-laws) (Tier 2) (VERIFIED)
+- [Revolving Door Project: Heritage Lays Foundation for Schedule F](https://therevolvingdoorproject.org/heritage-lays-the-foundation-for-schedule-f/) (Tier 2) (VERIFIED)
+- [The Conversation: Heritage Foundation's Over 50-Year History](https://theconversation.com/usheritage-foundations-project-2025-is-just-the-latest-action-plan-from-a-group-with-an-over-50-year-history-of-steering-gop-lawmaking-234542) (Tier 2) (NEEDS REVIEW)
 
 ---
 
@@ -252,14 +252,14 @@ Heritage Action's scorecard system deserves specific attention. By rating every 
 **Filing history:** 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015
 
 **View 990 filings:**
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/237327730/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/237327730/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/237327730/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/237327730/2019)
-- [2018 Filing](https://projects.propublica.org/nonprofits/organizations/237327730/2018)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/237327730/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/237327730/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/237327730/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/237327730/2019)~~ (URL broken, archived by Ops)
+- ~~[2018 Filing](https://projects.propublica.org/nonprofits/organizations/237327730/2018)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/237327730) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/237327730) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### SEC Filing Activity
@@ -277,14 +277,14 @@ Heritage Action's scorecard system deserves specific attention. By rating every 
 - 2022-02-03 — **425**: FORM 425
 - 2024-10-17 — **DEF 14A**: DEF 14A
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Heritage%20Foundation%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Heritage%20Foundation%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [5493006YU7R03XUJSX56](https://search.gleif.org/#/record/5493006YU7R03XUJSX56) |
+| LEI | [5493006YU7R03XUJSX56](https://search.gleif.org/#/record/5493006YU7R03XUJSX56) (VERIFIED) |
 | Legal Name | Heritage Foundation (The) |
 | Jurisdiction | US-DC |
 | Entity Status | ACTIVE |
@@ -292,7 +292,7 @@ Heritage Action's scorecard system deserves specific attention. By rating every 
 | Registration | LAPSED |
 | Last Updated | 2023-08-04T15:54:36Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Campaign Finance (FEC)
@@ -317,7 +317,7 @@ Heritage Action's scorecard system deserves specific attention. By rating every 
 | HUIZENGA FOR CONGRESS | $283 | REP |
 | RIGHT APPEAL PAC | $250 | — |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Heritage%20Foundation) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Heritage%20Foundation) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### Federal Register Activity
@@ -332,15 +332,15 @@ Heritage Action's scorecard system deserves specific attention. By rating every 
 | Agencies | Commodity Futures Trading Commission, Education Department, Employment and Training Administration, Energy Department, Executive Office of the President, Federal Communications Commission, Federal Railroad Administration, Federal Trade Commission +7 more |
 
 **Recent regulatory activity:**
-- [Improving Wage Protections for the Temporary and Permanent Employment of Certain Foreign Nationals in the United States](https://www.federalregister.gov/documents/2026/03/27/2026-06017/improving-wage-protections-for-the-temporary-and-permanent-employment-of-certain-foreign-nationals) (2026-03-27) — Labor Department
-- [Protecting Against National Security Threats to the Communications Supply Chain Through the Equipment Authorization Program](https://www.federalregister.gov/documents/2025/11/25/2025-21001/protecting-against-national-security-threats-to-the-communications-supply-chain-through-the) (2025-11-25) — Federal Communications Commission
-- [Applications for New Awards; Fund for the Improvement of Postsecondary Education-Special Projects (FIPSE-SP)](https://www.federalregister.gov/documents/2025/11/12/2025-19843/applications-for-new-awards-fund-for-the-improvement-of-postsecondary-education-special-projects) (2025-11-12) — Education Department
-- [Removal of the Automatic Extension of Employment Authorization Documents](https://www.federalregister.gov/documents/2025/10/30/2025-19702/removal-of-the-automatic-extension-of-employment-authorization-documents) (2025-10-30) — Homeland Security Department
-- [Review of Submarine Cable Landing License Rules and Procedures To Assess Evolving National Security, Law Enforcement, Foreign Policy, and Trade Policy Risks](https://www.federalregister.gov/documents/2025/10/27/2025-19658/review-of-submarine-cable-landing-license-rules-and-procedures-to-assess-evolving-national-security) (2025-10-27) — Federal Communications Commission
-- [Promoting the Integrity and Security of Telecommunications Certification Bodies, Measurement Facilities, and the Equipment Authorization Program](https://www.federalregister.gov/documents/2025/08/07/2025-14970/promoting-the-integrity-and-security-of-telecommunications-certification-bodies-measurement) (2025-08-07) — Federal Communications Commission
+- [Improving Wage Protections for the Temporary and Permanent Employment of Certain Foreign Nationals in the United States](https://www.federalregister.gov/documents/2026/03/27/2026-06017/improving-wage-protections-for-the-temporary-and-permanent-employment-of-certain-foreign-nationals) (VERIFIED) (2026-03-27) — Labor Department
+- [Protecting Against National Security Threats to the Communications Supply Chain Through the Equipment Authorization Program](https://www.federalregister.gov/documents/2025/11/25/2025-21001/protecting-against-national-security-threats-to-the-communications-supply-chain-through-the) (VERIFIED) (2025-11-25) — Federal Communications Commission
+- [Applications for New Awards; Fund for the Improvement of Postsecondary Education-Special Projects (FIPSE-SP)](https://www.federalregister.gov/documents/2025/11/12/2025-19843/applications-for-new-awards-fund-for-the-improvement-of-postsecondary-education-special-projects) (VERIFIED) (2025-11-12) — Education Department
+- [Removal of the Automatic Extension of Employment Authorization Documents](https://www.federalregister.gov/documents/2025/10/30/2025-19702/removal-of-the-automatic-extension-of-employment-authorization-documents) (VERIFIED) (2025-10-30) — Homeland Security Department
+- [Review of Submarine Cable Landing License Rules and Procedures To Assess Evolving National Security, Law Enforcement, Foreign Policy, and Trade Policy Risks](https://www.federalregister.gov/documents/2025/10/27/2025-19658/review-of-submarine-cable-landing-license-rules-and-procedures-to-assess-evolving-national-security) (VERIFIED) (2025-10-27) — Federal Communications Commission
+- [Promoting the Integrity and Security of Telecommunications Certification Bodies, Measurement Facilities, and the Equipment Authorization Program](https://www.federalregister.gov/documents/2025/08/07/2025-14970/promoting-the-integrity-and-security-of-telecommunications-certification-bodies-measurement) (VERIFIED) (2025-08-07) — Federal Communications Commission
 - ... and 133 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Heritage%20Foundation%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Heritage%20Foundation%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Lobbying Activity
@@ -359,7 +359,7 @@ Heritage Action's scorecard system deserves specific attention. By rating every 
 
 **Agencies contacted:** Army, Dept of (Corps of Engineers), Bureau of Indian Affairs (BIA), Defense, Dept of (DOD), Environmental Protection Agency (EPA), HOUSE OF REPRESENTATIVES, Homeland Security, Dept of (DHS), Interior, Dept of (DOI), Justice, Dept of (DOJ), Labor, Dept of (DOL), SENATE +3 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Heritage%20Foundation) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Heritage%20Foundation) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

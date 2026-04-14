@@ -132,18 +132,18 @@ Nadler's donor-class function is more complex than most profiles in this vault b
 
 ## Sources
 
-- [FEC Candidate: Jerrold Nadler campaign finance summary](https://www.fec.gov/data/candidate/H2NY17071/) (Tier 1)
-- [OpenSecrets: Nadler career top contributors](https://www.opensecrets.org/members-of-congress/contributors?cid=N00000939&cycle=CAREER) (Tier 1)
-- [FEC Candidate: Nadler industry contributions 2022](https://www.fec.gov/data/candidate/H2NY17071/) (Tier 1)
-- [FEC: Jerrold Nadler candidate overview](https://www.fec.gov/data/candidate/H2NY17071/) (Tier 1)
-- [GovTrack: Jerrold Nadler](https://www.govtrack.us/congress/members/jerrold_nadler/400289) (Tier 1)
-- [Congress.gov: Jerrold Nadler](https://www.congress.gov/member/jerrold-nadler/N000002) (Tier 1)
-- [Nadler.house.gov: Named Ranking Member of Antitrust Subcommittee](https://nadler.house.gov/news/documentsingle.aspx?DocumentID=396256) (Tier 1)
-- [Crain's New York: Nadler-Maloney primary battle reveals donor networks](https://www.crainsnewyork.com/politics/carolyn-maloney-and-jerry-nadler-locked-primary-battle-congress/) (Tier 2)
-- [Jewish Insider: From impeachment lead to Israel critic, Nadler ends storied career](https://jewishinsider.com/2025/09/jerry-nadler-retirement-announcement-manhattan-district-israel/) (Tier 2)
-- [NBC News: Nadler drops bid for Judiciary ranking member](https://www.nbcnews.com/politics/congress/longtime-rep-nadler-drops-bid-remain-top-democrat-judiciary-panel-chal-rcna182908) (Tier 2)
-- [NBC News: House Judiciary to investigate Big Tech market dominance](https://www.nbcnews.com/tech/tech-news/house-judiciary-investigate-market-dominance-big-tech-companies-n1013426) (Tier 2)
-- [Ballotpedia: Jerrold Nadler](https://ballotpedia.org/Jerrold_Nadler) (Tier 3)
+- [FEC Candidate: Jerrold Nadler campaign finance summary](https://www.fec.gov/data/candidate/H2NY17071/) (Tier 1) (VERIFIED)
+- [OpenSecrets: Nadler career top contributors](https://www.opensecrets.org/members-of-congress/contributors?cid=N00000939&cycle=CAREER) (Tier 1) (VERIFIED)
+- [FEC Candidate: Nadler industry contributions 2022](https://www.fec.gov/data/candidate/H2NY17071/) (Tier 1) (VERIFIED)
+- [FEC: Jerrold Nadler candidate overview](https://www.fec.gov/data/candidate/H2NY17071/) (Tier 1) (VERIFIED)
+- [GovTrack: Jerrold Nadler](https://www.govtrack.us/congress/members/jerrold_nadler/400289) (Tier 1) (NEEDS REVIEW)
+- ~~[Congress.gov: Jerrold Nadler](https://www.congress.gov/member/jerrold-nadler/N000002)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Nadler.house.gov: Named Ranking Member of Antitrust Subcommittee](https://nadler.house.gov/news/documentsingle.aspx?DocumentID=396256) (Tier 1) (VERIFIED)
+- [Crain's New York: Nadler-Maloney primary battle reveals donor networks](https://www.crainsnewyork.com/politics/carolyn-maloney-and-jerry-nadler-locked-primary-battle-congress/) (Tier 2) (VERIFIED)
+- [Jewish Insider: From impeachment lead to Israel critic, Nadler ends storied career](https://jewishinsider.com/2025/09/jerry-nadler-retirement-announcement-manhattan-district-israel/) (Tier 2) (VERIFIED)
+- [NBC News: Nadler drops bid for Judiciary ranking member](https://www.nbcnews.com/politics/congress/longtime-rep-nadler-drops-bid-remain-top-democrat-judiciary-panel-chal-rcna182908) (Tier 2) (VERIFIED)
+- [NBC News: House Judiciary to investigate Big Tech market dominance](https://www.nbcnews.com/tech/tech-news/house-judiciary-investigate-market-dominance-big-tech-companies-n1013426) (Tier 2) (VERIFIED)
+- [Ballotpedia: Jerrold Nadler](https://ballotpedia.org/Jerrold_Nadler) (Tier 3) (VERIFIED)
 
 ---
 
@@ -152,5 +152,5 @@ Nadler's donor-class function is more complex than most profiles in this vault b
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Jerry Nadler](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: Jerry Nadler](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->

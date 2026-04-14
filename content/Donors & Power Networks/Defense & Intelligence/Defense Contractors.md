@@ -83,9 +83,9 @@ From 2020 to 2024, private firms received $2.4 trillion in Pentagon contracts �
 
 The defense sector spent $159.2 million on lobbying in 2024 alone, employing 1,017 lobbyists — 617 of whom (60.67%) previously held government positions. Total political contributions in the 2024 cycle: $43.5 million, split 45% Democratic, 52% Republican. The near-even split is the defining feature: defense contractors are the paradigm case of bipartisan donor strategy because defense spending enjoys bipartisan support regardless of which party controls Congress or the White House.
 
-- [FEC Receipts: Defense sector summary](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- [FEC Receipts: Defense sector totals 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- [Quincy Institute/Brown University: Profits of War — Top Beneficiaries of Pentagon Spending, 2020-2024](https://quincyinst.org/research/profits-of-war-top-beneficiaries-of-pentagon-spending-2020-2024/) (Tier 2)
+- [FEC Receipts: Defense sector summary](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
+- [FEC Receipts: Defense sector totals 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
+- [Quincy Institute/Brown University: Profits of War — Top Beneficiaries of Pentagon Spending, 2020-2024](https://quincyinst.org/research/profits-of-war-top-beneficiaries-of-pentagon-spending-2020-2024/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -103,8 +103,8 @@ The defense contractor bloc's policy agenda is simple: a permanently rising defe
 
 **Reduced oversight and accountability.** The Pentagon has never passed a full audit. Defense contractors benefit from this opacity because it shields cost overruns, delays, and performance failures from public scrutiny. The industry lobbies against audit requirements, whistleblower protections, and procurement reform that would increase competition.
 
-- [Roll Call: House votes overwhelmingly to pass compromise NDAA](https://rollcall.com/2025/12/10/house-votes-overwhelmingly-to-pass-compromise-ndaa/) (Tier 2)
-- [Responsible Statecraft: Pentagon spent $4 trillion over 5 years, contractors got 54%](https://responsiblestatecraft.org/contractors-percentage-dod-spending/) (Tier 2)
+- [Roll Call: House votes overwhelmingly to pass compromise NDAA](https://rollcall.com/2025/12/10/house-votes-overwhelmingly-to-pass-compromise-ndaa/) (Tier 2) (VERIFIED)
+- [Responsible Statecraft: Pentagon spent $4 trillion over 5 years, contractors got 54%](https://responsiblestatecraft.org/contractors-percentage-dod-spending/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -134,8 +134,8 @@ Defense contractors fund everyone — that's the point. The industry's bipartisa
 
 **Key recipients:** Defense PAC money flows overwhelmingly to members of the Armed Services, Appropriations, and Intelligence committees — the gatekeepers who write defense budgets and approve weapons programs. Committee chairs and ranking members from both parties receive the largest contributions.
 
-- [FEC Receipts: Defense sector summary — top contributors 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- [FEC Receipts: Defense lobbying 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
+- [FEC Receipts: Defense sector summary — top contributors 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
+- [FEC Receipts: Defense lobbying 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
 
 ---
 
@@ -154,10 +154,10 @@ The defense contractor bloc has achieved the most successful sustained lobbying 
 > [!contradiction]
 > Both parties campaign on different defense priorities — Democrats emphasize diplomacy and restraint, Republicans emphasize military strength — but the NDAA passes with overwhelming bipartisan margins every year, and defense spending only rises regardless of which party controls Congress or the White House. The rhetorical differences mask a structural consensus: both parties are funded by the same defense contractors and both parties' districts depend on the same defense jobs. The political competition is over which weapons systems to fund, not whether to keep funding them.
 
-- [POGO: Brass Parachutes — The Problem of the Pentagon Revolving Door](https://www.pogo.org/reports/brass-parachutes) (Tier 2)
-- [The Intercept: Biden filling top Pentagon positions with defense contractors](https://theintercept.com/2021/05/28/biden-pentagon-defense-contractors/) (Tier 2)
-- [OpenSecrets: Revolving door lobbyists help defense contractors in 2023](https://www.opensecrets.org/news/2023/05/revolving-door-lobbyists-help-defense-contractors-get-off-to-strong-start-in-2023/) (Tier 2)
-- [DOD: Contract announcements](https://www.defense.gov/News/Contracts/) (Tier 1)
+- ~~[POGO: Brass Parachutes — The Problem of the Pentagon Revolving Door](https://www.pogo.org/reports/brass-parachutes)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [The Intercept: Biden filling top Pentagon positions with defense contractors](https://theintercept.com/2021/05/28/biden-pentagon-defense-contractors/) (Tier 2) (VERIFIED)
+- [OpenSecrets: Revolving door lobbyists help defense contractors in 2023](https://www.opensecrets.org/news/2023/05/revolving-door-lobbyists-help-defense-contractors-get-off-to-strong-start-in-2023/) (Tier 2) (VERIFIED)
+- [DOD: Contract announcements](https://www.defense.gov/News/Contracts/) (Tier 1) (NEEDS REVIEW)
 
 ---
 
@@ -185,8 +185,8 @@ The pattern is **Both-Sides Illusion** at its purest: Democrats and Republicans 
 | Total Expenses | $1.3M |
 | Net Assets | $2.2M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 20654518](https://projects.propublica.org/nonprofits/organizations/20654518) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F020654518_202312_990O_2024061722535487.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 20654518](https://projects.propublica.org/nonprofits/organizations/20654518) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F020654518_202312_990O_2024061722535487.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 <!-- auto:propublica-990 end -->
 
@@ -217,15 +217,15 @@ The pattern is **Both-Sides Illusion** at its purest: Democrats and Republicans 
 | Agencies | Defense Acquisition Regulations System, Defense Department, Executive Office of the President, Federal Aviation Administration, Federal Communications Commission, Federal Procurement Policy Office, General Services Administration, Management and Budget Office +3 more |
 
 **Recent regulatory activity:**
-- [Conformance of Cost Accounting Standards to Generally Accepted Accounting Principles for CAS 407 Use of Standard Costs for Direct Material and Direct Labor](https://www.federalregister.gov/documents/2026/03/20/2026-05512/conformance-of-cost-accounting-standards-to-generally-accepted-accounting-principles-for-cas-407-use) (2026-03-20) — Management and Budget Office
-- [Increase of Monetary Thresholds and Other Matters Related to Cost Accounting Standards Program Requirements](https://www.federalregister.gov/documents/2026/03/20/2026-05511/increase-of-monetary-thresholds-and-other-matters-related-to-cost-accounting-standards-program) (2026-03-20) — Management and Budget Office
-- [Prioritizing the Warfighter in Defense Contracting](https://www.federalregister.gov/documents/2026/01/13/2026-00554/prioritizing-the-warfighter-in-defense-contracting) (2026-01-13) — Executive Office of the President
-- [Information Collection Requirements; Defense Federal Acquisition Regulation Supplement; Contractors Performing Private Security Functions Outside the United States](https://www.federalregister.gov/documents/2026/01/05/2025-24266/information-collection-requirements-defense-federal-acquisition-regulation-supplement-contractors) (2026-01-05) — Defense Department
-- [Promoting Technological Solutions To Combat Contraband Wireless Device Use in Correctional Facilities](https://www.federalregister.gov/documents/2025/11/26/2025-21325/promoting-technological-solutions-to-combat-contraband-wireless-device-use-in-correctional) (2025-11-26) — Federal Communications Commission
-- [Conformance of Cost Accounting Standards to Generally Accepted Accounting Principles for Operating Revenue and Lease Accounting](https://www.federalregister.gov/documents/2025/09/11/2025-17480/conformance-of-cost-accounting-standards-to-generally-accepted-accounting-principles-for-operating) (2025-09-11) — Management and Budget Office
+- [Conformance of Cost Accounting Standards to Generally Accepted Accounting Principles for CAS 407 Use of Standard Costs for Direct Material and Direct Labor](https://www.federalregister.gov/documents/2026/03/20/2026-05512/conformance-of-cost-accounting-standards-to-generally-accepted-accounting-principles-for-cas-407-use) (VERIFIED) (2026-03-20) — Management and Budget Office
+- [Increase of Monetary Thresholds and Other Matters Related to Cost Accounting Standards Program Requirements](https://www.federalregister.gov/documents/2026/03/20/2026-05511/increase-of-monetary-thresholds-and-other-matters-related-to-cost-accounting-standards-program) (VERIFIED) (2026-03-20) — Management and Budget Office
+- [Prioritizing the Warfighter in Defense Contracting](https://www.federalregister.gov/documents/2026/01/13/2026-00554/prioritizing-the-warfighter-in-defense-contracting) (VERIFIED) (2026-01-13) — Executive Office of the President
+- [Information Collection Requirements; Defense Federal Acquisition Regulation Supplement; Contractors Performing Private Security Functions Outside the United States](https://www.federalregister.gov/documents/2026/01/05/2025-24266/information-collection-requirements-defense-federal-acquisition-regulation-supplement-contractors) (VERIFIED) (2026-01-05) — Defense Department
+- [Promoting Technological Solutions To Combat Contraband Wireless Device Use in Correctional Facilities](https://www.federalregister.gov/documents/2025/11/26/2025-21325/promoting-technological-solutions-to-combat-contraband-wireless-device-use-in-correctional) (VERIFIED) (2025-11-26) — Federal Communications Commission
+- [Conformance of Cost Accounting Standards to Generally Accepted Accounting Principles for Operating Revenue and Lease Accounting](https://www.federalregister.gov/documents/2025/09/11/2025-17480/conformance-of-cost-accounting-standards-to-generally-accepted-accounting-principles-for-operating) (VERIFIED) (2025-09-11) — Management and Budget Office
 - ... and 321 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Defense%20Contractors%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Defense%20Contractors%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Federal Court Records (CourtListener)
@@ -244,7 +244,7 @@ The pattern is **Both-Sides Illusion** at its purest: Democrats and Republicans 
 - Anthropic PBC v. United States Department of War (2026) — Court of Appeals for the D.C. Circuit
 - Anthropic PBC v. U.S. Department of War (2026) — District Court, N.D. California
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Defense%20Contractors%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Defense%20Contractors%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### SEC Filing Activity
@@ -262,7 +262,7 @@ The pattern is **Both-Sides Illusion** at its purest: Democrats and Republicans 
 - 2023-09-19 — **EX-99.1**: PRESS RELEASE TITLED: "MOBILICOM SECURES INITIAL ORDER FROM ONE OF EUROPE'S LARGEST DEFENSE CONTRACTORS"
 - 2015-06-02 — **CORRESP**: CORRESP
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Defense%20Contractors%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Defense%20Contractors%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Tax Filings (IRS 990)
@@ -280,12 +280,12 @@ The pattern is **Both-Sides Illusion** at its purest: Democrats and Republicans 
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/20654518/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/20654518/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/20654518/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/20654518/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/20654518/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/20654518/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/20654518/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/20654518/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/20654518/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/20654518/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/20654518) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/20654518) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->

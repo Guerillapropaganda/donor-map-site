@@ -97,16 +97,16 @@ The "dark money" designation: like conservative counterparts (DonorsTrust, Marbl
 | Net Assets | $768.5M |
 | Officer Compensation | $744K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 205806345](https://projects.propublica.org/nonprofits/organizations/205806345) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F205806345_202312_990_2025022623129143.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 205806345](https://projects.propublica.org/nonprofits/organizations/205806345) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F205806345_202312_990_2025022623129143.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 <!-- auto:propublica-990 end -->
 
 ### Sources
 
-- [IRS: New Venture Fund 990 filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=New%20Venture%20Fund&city=&state=All+States&country=US) (Tier 1)
-- [ProPublica: Nonprofit Explorer - New Venture Fund](https://projects.propublica.org/nonprofits/organizations/205806345) (Tier 2)
-- [Ballotpedia: Arabella Advisors](https://ballotpedia.org/New_Venture_Fund) (Tier 3)
+- ~~[IRS: New Venture Fund 990 filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=New%20Venture%20Fund&city=&state=All+States&country=US)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [ProPublica: Nonprofit Explorer - New Venture Fund](https://projects.propublica.org/nonprofits/organizations/205806345) (Tier 2) (VERIFIED)
+- [Ballotpedia: Arabella Advisors](https://ballotpedia.org/New_Venture_Fund) (Tier 3) (VERIFIED)
 
 ---
 
@@ -137,7 +137,7 @@ The "dark money" designation: like conservative counterparts (DonorsTrust, Marbl
 
 **Agencies contacted:** Administration for Children & Families (ACF), Army, Dept of (Corps of Engineers), Army, Dept of (Other), Centers For Medicare and Medicaid Services (CMS), Defense, Dept of (DOD), Economic Development Administration, Education, Dept of, Energy, Dept of, Executive Office of the President (EOP), Federal Aviation Administration (FAA) +12 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=New%20Venture%20Fund) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=New%20Venture%20Fund) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Federal Court Records (CourtListener)
@@ -156,7 +156,7 @@ The "dark money" designation: like conservative counterparts (DonorsTrust, Marbl
 - Natl Infusion Center v. Kennedy (2025) — Court of Appeals for the Fifth Circuit
 - TEVA PHARMACEUTICALS USA, INC. v. BECERRA (2025) — District Court, District of Columbia
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22New%20Venture%20Fund%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22New%20Venture%20Fund%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### SEC Filing Activity
@@ -174,7 +174,7 @@ The "dark money" designation: like conservative counterparts (DonorsTrust, Marbl
 - 2024-07-09 — **497AD**: 497AD
 - 2010-04-16 — **EX-99.1**: PRESS RELEASE
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22New%20Venture%20Fund%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22New%20Venture%20Fund%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Tax Filings (IRS 990)
@@ -192,21 +192,21 @@ The "dark money" designation: like conservative counterparts (DonorsTrust, Marbl
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/205806345/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/205806345/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/205806345/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/205806345/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/205806345/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/205806345/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/205806345/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/205806345/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/205806345/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/205806345/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/205806345) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/205806345) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [254900MM5ZP0GCJ89Q85](https://search.gleif.org/#/record/254900MM5ZP0GCJ89Q85) |
+| LEI | [254900MM5ZP0GCJ89Q85](https://search.gleif.org/#/record/254900MM5ZP0GCJ89Q85) (VERIFIED) |
 | Legal Name | Davis New York Venture Fund |
 | Jurisdiction | US |
 | Entity Status | ACTIVE |
@@ -214,7 +214,7 @@ The "dark money" designation: like conservative counterparts (DonorsTrust, Marbl
 | Registration | ISSUED |
 | Last Updated | 2025-11-07T00:00:44Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### DOJ Press Releases

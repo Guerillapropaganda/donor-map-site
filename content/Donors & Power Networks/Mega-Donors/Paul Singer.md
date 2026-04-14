@@ -122,17 +122,17 @@ The $2.4 billion payout was part of a $4.65 billion settlement with four hedge f
 > [!money] The Alaska-to-Argentina Pipeline
 > One fishing trip. $100,000 in private jet travel. Zero recusals. One Supreme Court ruling. $2.4 billion in settlement proceeds. The Alaska fishing trip (2008) → SCOTUS ruling (2014) → Argentina settlement (2016) is the most precisely documented donor-access-to-profit pipeline in the vault. Singer spent $100K on a fishing trip and made $2.3 billion on the resulting Supreme Court case. His 2024 spending ($42M+ to SLF/CLF/MAGA Inc.) follows the same logic at larger scale: purchase access to institutional power, profit from the policy outcomes that access produces. The social liberalism is real ($1.8M to gay marriage). The economic brutality is also real ($2.4B extracted from Argentina). Both serve Singer's interests. Neither serves the public's.
 
-[Source: [Read Sludge: Singer donates $10M to GOP amid Alito scrutiny](https://readsludge.com/2024/07/19/facing-dem-scrutiny-alito-benefactor-paul-singer-donates-10-million-to-gop/) (Tier 2); [FEC Receipts: Paul Singer donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=paul%20singer) (Tier 1)]
+[Source: [Read Sludge: Singer donates $10M to GOP amid Alito scrutiny](https://readsludge.com/2024/07/19/facing-dem-scrutiny-alito-benefactor-paul-singer-donates-10-million-to-gop/) (Tier 2) (VERIFIED); [FEC Receipts: Paul Singer donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=paul%20singer) (Tier 1) (VERIFIED)]
 
 ---
 
 ### Sources
 
-- [ProPublica: Alito luxury fishing trip with Singer](https://www.propublica.org/article/clarence-thomas-scotus-undisclosed-luxury-travel-gifts-crow) (Tier 2)
-- [Washington Post: How one hedge fund made $2 billion from Argentina's economic collapse](https://www.washingtonpost.com/news/business/wp/2016/03/29/how-one-hedge-fund-made-2-billion-from-argentinas-economic-collapse/) (Tier 2)
+- [ProPublica: Alito luxury fishing trip with Singer](https://www.propublica.org/article/clarence-thomas-scotus-undisclosed-luxury-travel-gifts-crow) (Tier 2) (VERIFIED)
+- [Washington Post: How one hedge fund made $2 billion from Argentina's economic collapse](https://www.washingtonpost.com/news/business/wp/2016/03/29/how-one-hedge-fund-made-2-billion-from-argentinas-economic-collapse/) (Tier 2) (VERIFIED)
 - [FEC Receipts: Paul Singer donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=paul%20singer) (Tier 1)
-- [Ballotpedia: Paul Singer](https://ballotpedia.org/Paul_Singer) (Tier 3)
-- [InfluenceWatch: Paul Singer](https://www.influencewatch.org/person/paul-singer/) (Tier 3)
+- [Ballotpedia: Paul Singer](https://ballotpedia.org/Paul_Singer) (Tier 3) (VERIFIED)
+- ~~[InfluenceWatch: Paul Singer](https://www.influencewatch.org/person/paul-singer/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
 
 ---
 
@@ -159,7 +159,7 @@ The $2.4 billion payout was part of a $4.65 billion settlement with four hedge f
 | Total Expenses | $135.4M |
 | Net Assets | $276.4M |
 
-- [Source: ProPublica Nonprofit Explorer - EIN 272009342](https://projects.propublica.org/nonprofits/organizations/272009342) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer - EIN 272009342](https://projects.propublica.org/nonprofits/organizations/272009342) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Tax Filings (IRS 990)
@@ -177,14 +177,14 @@ The $2.4 billion payout was part of a $4.65 billion settlement with four hedge f
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/272009342/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/272009342/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/272009342/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/272009342/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/272009342/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/272009342/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/272009342/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/272009342/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/272009342/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/272009342/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/272009342) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/272009342) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Federal Court Records (CourtListener)
@@ -203,7 +203,7 @@ The $2.4 billion payout was part of a $4.65 billion settlement with four hedge f
 - Singer v. Waters Esq (2025) - District Court, E.D. California
 - Paul Singer (2025) - United States Bankruptcy Court, W.D. Pennsylvania
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Paul%20Singer%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Paul%20Singer%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Lobbying Activity
@@ -222,7 +222,7 @@ The $2.4 billion payout was part of a $4.65 billion settlement with four hedge f
 
 **Agencies contacted:** American Battle Monuments Commission, Army, Dept of (Corps of Engineers), Commerce, Dept of (DOC), Council on Environmental Quality (CEQ), Economic Development Administration, Education, Dept of, Executive Office of the President (EOP), Federal Aviation Administration (FAA), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS) +10 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Paul%20Singer) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Paul%20Singer) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)
@@ -294,7 +294,7 @@ The $2.4 billion payout was part of a $4.65 billion settlement with four hedge f
 | GLCF, INC. | $500,000 | - |
 | SECURITY IS STRENGTH PAC | $500,000 | - |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Paul%20Singer) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Paul%20Singer) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### SEC Filing Activity
@@ -312,7 +312,7 @@ The $2.4 billion payout was part of a $4.65 billion settlement with four hedge f
 - 2003-11-26 - **EX-10.3**: EXHIBIT 10.3
 - 2010-03-17 - **D/A**: D/A
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Paul%20Singer%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Paul%20Singer%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Federal Register Activity
@@ -324,16 +324,16 @@ The $2.4 billion payout was part of a $4.65 billion settlement with four hedge f
 | Agencies | Health Resources and Services Administration, Health and Human Services Department |
 
 **Recent regulatory activity:**
-- [National Vaccine Injury Compensation Program; List of Petitions Received](https://www.federalregister.gov/documents/2003/08/05/03-19798/national-vaccine-injury-compensation-program-list-of-petitions-received) (2003-08-05) - Health and Human Services Department
+- [National Vaccine Injury Compensation Program; List of Petitions Received](https://www.federalregister.gov/documents/2003/08/05/03-19798/national-vaccine-injury-compensation-program-list-of-petitions-received) (VERIFIED) (2003-08-05) - Health and Human Services Department
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Paul%20Singer%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Paul%20Singer%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [969500N6PIFXEKYUTE03](https://search.gleif.org/#/record/969500N6PIFXEKYUTE03) |
+| LEI | [969500N6PIFXEKYUTE03](https://search.gleif.org/#/record/969500N6PIFXEKYUTE03) (VERIFIED) |
 | Legal Name | GARAGE SINGER |
 | Jurisdiction | FR |
 | Entity Status | ACTIVE |
@@ -341,5 +341,5 @@ The $2.4 billion payout was part of a $4.65 billion settlement with four hedge f
 | Registration | ISSUED |
 | Last Updated | 2026-03-19T22:10:37Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->

@@ -141,17 +141,17 @@ Williams Companies represents the "moderate face" of fossil fuel political spend
 
 ### Sources
 
-- [Williams: Our Company](https://www.williams.com/our-company/) (Tier 3)
-- [Williams: Leadership](https://www.williams.com/leadership/) (Tier 3)
-- [Williams: 2024 Corporate Contributions](https://www.williams.com/wp-content/uploads/sites/8/2025/04/2024-Coporate-Contributions_Year-End.pdf) (Tier 1)
-- [Wikipedia: Williams Companies](https://en.wikipedia.org/wiki/Williams_Companies) (Tier 4)
-- [Yahoo Finance: WMB Financials](https://finance.yahoo.com/quote/WMB/financials/) (Tier 2)
-- [CompaniesMarketCap: Williams Companies](https://companiesmarketcap.com/williams-companies/marketcap/) (Tier 3)
-- [OpenSecrets: Williams Companies PAC](https://www.opensecrets.org/political-action-committees-pacs/williams-companies/C00040394/candidate-recipients/2024) (Tier 1)
-- [TradingView: Williams record 2025 results](https://www.tradingview.com/news/tradingview:cccba52eb204a:0-williams-companies-reports-record-financial-results-for-2025/) (Tier 3)
-- [Reuters: Williams 2026 profit outlook](https://www.reuters.com/business/energy/williams-sees-higher-2026-profit-pipeline-projects-drive-growth-2026-02-10/) (Tier 2)
-- [Yahoo Finance: Williams lawsuit against Energy Transfer](https://finance.yahoo.com/news/williams-companies-files-lawsuit-protect-103400684.html) (Tier 2)
-- [AllStreamInsiders: Williams $1.6B deal](https://allstreaminsiders.com/williams-companies-secures-1-6-billion-deal-for-natural-gas-and-power-generation/) (Tier 3)
+- [Williams: Our Company](https://www.williams.com/our-company/) (Tier 3) (VERIFIED)
+- [Williams: Leadership](https://www.williams.com/leadership/) (Tier 3) (VERIFIED)
+- [Williams: 2024 Corporate Contributions](https://www.williams.com/wp-content/uploads/sites/8/2025/04/2024-Coporate-Contributions_Year-End.pdf) (Tier 1) (VERIFIED)
+- [Wikipedia: Williams Companies](https://en.wikipedia.org/wiki/Williams_Companies) (Tier 4) (VERIFIED)
+- ~~[Yahoo Finance: WMB Financials](https://finance.yahoo.com/quote/WMB/financials/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [CompaniesMarketCap: Williams Companies](https://companiesmarketcap.com/williams-companies/marketcap/) (Tier 3) (VERIFIED)
+- [OpenSecrets: Williams Companies PAC](https://www.opensecrets.org/political-action-committees-pacs/williams-companies/C00040394/candidate-recipients/2024) (Tier 1) (VERIFIED)
+- [TradingView: Williams record 2025 results](https://www.tradingview.com/news/tradingview:cccba52eb204a:0-williams-companies-reports-record-financial-results-for-2025/) (Tier 3) (VERIFIED)
+- ~~[Reuters: Williams 2026 profit outlook](https://www.reuters.com/business/energy/williams-sees-higher-2026-profit-pipeline-projects-drive-growth-2026-02-10/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Yahoo Finance: Williams lawsuit against Energy Transfer](https://finance.yahoo.com/news/williams-companies-files-lawsuit-protect-103400684.html) (Tier 2) (VERIFIED)
+- [AllStreamInsiders: Williams $1.6B deal](https://allstreaminsiders.com/williams-companies-secures-1-6-billion-deal-for-natural-gas-and-power-generation/) (Tier 3) (VERIFIED)
 
 ---
 
@@ -180,13 +180,13 @@ Williams Companies represents the "moderate face" of fossil fuel political spend
 
 **Notable filings:**
 
-- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/107263/000170338826000014/0001703388-26-000014-index.htm)
-- 2026-04-01 — **144**: [144](https://www.sec.gov/Archives/edgar/data/107263/000195917326002685/0001959173-26-002685-index.htm)
-- 2026-03-27 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/107263/000010290926002665/0000102909-26-002665-index.htm)
-- 2026-03-26 — **DEFA14A**: [DEFA14A](https://www.sec.gov/Archives/edgar/data/107263/000119312526126312/0001193125-26-126312-index.htm)
-- 2026-03-26 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/107263/000010726326000008/0000107263-26-000008-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/107263/000170338826000014/0001703388-26-000014-index.htm) (VERIFIED)
+- 2026-04-01 — **144**: [144](https://www.sec.gov/Archives/edgar/data/107263/000195917326002685/0001959173-26-002685-index.htm) (VERIFIED)
+- 2026-03-27 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/107263/000010290926002665/0000102909-26-002665-index.htm) (VERIFIED)
+- 2026-03-26 — **DEFA14A**: [DEFA14A](https://www.sec.gov/Archives/edgar/data/107263/000119312526126312/0001193125-26-126312-index.htm) (VERIFIED)
+- 2026-03-26 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/107263/000010726326000008/0000107263-26-000008-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Williams%20Companies%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Williams%20Companies%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -198,14 +198,14 @@ Williams Companies represents the "moderate face" of fossil fuel political spend
 | Total Expenses | $10.7M |
 | Net Assets | $65.4M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 237413843](https://projects.propublica.org/nonprofits/organizations/237413843) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 237413843](https://projects.propublica.org/nonprofits/organizations/237413843) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [5493001M6BTAS56NAL04](https://search.gleif.org/#/record/5493001M6BTAS56NAL04) |
+| LEI | [5493001M6BTAS56NAL04](https://search.gleif.org/#/record/5493001M6BTAS56NAL04) (VERIFIED) |
 | Legal Name | Williams Companies Master Pension Trust |
 | Jurisdiction | US |
 | Entity Status | ACTIVE |
@@ -213,7 +213,7 @@ Williams Companies represents the "moderate face" of fossil fuel political spend
 | Registration | LAPSED |
 | Last Updated | 2023-08-18T12:12:37Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Vehicle Safety (NHTSA)
@@ -231,7 +231,7 @@ Williams Companies represents the "moderate face" of fossil fuel political spend
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Williams%20Companies) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Williams%20Companies) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### DOJ Press Releases
@@ -248,15 +248,15 @@ Williams Companies represents the "moderate face" of fossil fuel political spend
 | Agencies | Energy Department, Federal Energy Regulatory Commission, Federal Trade Commission, Justice Department, Pipeline and Hazardous Materials Safety Administration, Securities and Exchange Commission, Transportation Department |
 
 **Recent regulatory activity:**
-- [Removal of Regulations Limiting Authorizations To Proceed With Construction Activities Pending Rehearing; Confirmation](https://www.federalregister.gov/documents/2026/02/24/2026-03658/removal-of-regulations-limiting-authorizations-to-proceed-with-construction-activities-pending) (2026-02-24) — Energy Department
-- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2026/02/19/2026-03244/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2026-02-19) — Federal Trade Commission
-- [Pipeline Safety: Class Location Change Requirements](https://www.federalregister.gov/documents/2026/01/14/2026-00566/pipeline-safety-class-location-change-requirements) (2026-01-14) — Transportation Department ★
-- [Supplemental Review of the Oil Pipeline Index Level](https://www.federalregister.gov/documents/2025/11/25/2025-20900/supplemental-review-of-the-oil-pipeline-index-level) (2025-11-25) — Energy Department
-- [Removal of Regulations Limiting Authorizations To Proceed With Construction Activities Pending Rehearing](https://www.federalregister.gov/documents/2025/10/10/2025-19533/removal-of-regulations-limiting-authorizations-to-proceed-with-construction-activities-pending) (2025-10-10) — Energy Department
-- [Petition of Enbridge Inc. To Reopen and Set Aside Order](https://www.federalregister.gov/documents/2025/01/30/2025-01939/petition-of-enbridge-inc-to-reopen-and-set-aside-order) (2025-01-30) — Federal Trade Commission
+- ~~[Removal of Regulations Limiting Authorizations To Proceed With Construction Activities Pending Rehearing; Confirmation](https://www.federalregister.gov/documents/2026/02/24/2026-03658/removal-of-regulations-limiting-authorizations-to-proceed-with-construction-activities-pending)~~ (URL broken, archived by Ops) (2026-02-24) — Energy Department
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2026/02/19/2026-03244/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (VERIFIED) (2026-02-19) — Federal Trade Commission
+- [Pipeline Safety: Class Location Change Requirements](https://www.federalregister.gov/documents/2026/01/14/2026-00566/pipeline-safety-class-location-change-requirements) (VERIFIED) (2026-01-14) — Transportation Department ★
+- [Supplemental Review of the Oil Pipeline Index Level](https://www.federalregister.gov/documents/2025/11/25/2025-20900/supplemental-review-of-the-oil-pipeline-index-level) (VERIFIED) (2025-11-25) — Energy Department
+- [Removal of Regulations Limiting Authorizations To Proceed With Construction Activities Pending Rehearing](https://www.federalregister.gov/documents/2025/10/10/2025-19533/removal-of-regulations-limiting-authorizations-to-proceed-with-construction-activities-pending) (VERIFIED) (2025-10-10) — Energy Department
+- [Petition of Enbridge Inc. To Reopen and Set Aside Order](https://www.federalregister.gov/documents/2025/01/30/2025-01939/petition-of-enbridge-inc-to-reopen-and-set-aside-order) (VERIFIED) (2025-01-30) — Federal Trade Commission
 - ... and 129 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Williams%20Companies%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Williams%20Companies%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Federal Court Records (CourtListener)
@@ -275,7 +275,7 @@ Williams Companies represents the "moderate face" of fossil fuel political spend
 - In re Target Corp. Securities Class Action Litigation (2025) — District Court, D. Minnesota
 - United States of America Chamber of Commerce, et al. v. Sanchez, et al. (2025) — Court of Appeals for the Ninth Circuit
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Williams%20Companies%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Williams%20Companies%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Tax Filings (IRS 990)
@@ -292,12 +292,12 @@ Williams Companies represents the "moderate face" of fossil fuel political spend
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/237413843/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/237413843/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/237413843/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/237413843/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/237413843/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/237413843/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/237413843/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/237413843/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/237413843/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/237413843/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/237413843) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/237413843) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->

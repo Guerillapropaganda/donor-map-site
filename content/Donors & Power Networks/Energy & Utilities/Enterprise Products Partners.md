@@ -113,7 +113,7 @@ Enterprise Products Partners represents the structural core of fossil fuel polit
 | $2.0M | Department of Homeland Security | PORT SECURITY GRANT PROGRAM |
 | $460K | Department of Homeland Security | PORT SECURITY GRANT PROGRAM |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Enterprise%20Products%20Partners) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Enterprise%20Products%20Partners) (Tier 1) (VERIFIED)
 
 <!-- auto:usaspending end -->
 
@@ -134,21 +134,21 @@ Enterprise Products Partners represents the structural core of fossil fuel polit
 | $2.0M | Department of Homeland Security | PORT SECURITY GRANT PROGRAM |
 | $460K | Department of Homeland Security | PORT SECURITY GRANT PROGRAM |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/5e4fdfca-eeae-3394-3f5b-8ce6f2c8488c-P/latest) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/5e4fdfca-eeae-3394-3f5b-8ce6f2c8488c-P/latest) (Tier 1) (VERIFIED)
 
 <!-- auto:usaspending pending-merge end -->
 
 ### Sources
 
-- [Enterprise Products: Company Website](https://www.enterpriseproducts.com) (Tier 3)
-- [Fortune: Enterprise Products Partners profile](https://fortune.com/company/enterprise-products-partners/) (Tier 3)
-- [Enterprise IR: Q4 2025 Earnings Release](https://ir.enterpriseproducts.com/news-releases/news-release-details/enterprise-reports-fourth-quarter-2025-earnings) (Tier 1)
-- [Enterprise IR: Hanley appointed CCO](https://ir.enterpriseproducts.com/news-releases/news-release-details/enterprise-elects-hanley-chief-commercial-officer) (Tier 1)
-- [Public.com: EPD Market Cap](https://public.com/stocks/epd/market-cap) (Tier 3)
-- [Simply Wall St: EPD 2026 FCF guidance](https://simplywall.st/stocks/us/energy/nyse-epd/enterprise-products-partners/news/record-ebitda-and-robust-2026-fcf-guidance-might-change-the) (Tier 3)
-- [OpenSecrets: Enterprise Products Partners contributions](https://www.opensecrets.org/orgs/enterprise-products-partners/summary?id=D000033463) (Tier 1)
-- [OpenSecrets: Enterprise Products PAC](https://www.opensecrets.org/political-action-committees-pacs/enterprise-products-partners/C00496752/summary/2024) (Tier 1)
-- [Senate LDA Filings: Enterprise Products lobbying](https://lda.gov/filings/public/filing/search/) (Tier 1)
+- [Enterprise Products: Company Website](https://www.enterpriseproducts.com) (Tier 3) (VERIFIED)
+- [Fortune: Enterprise Products Partners profile](https://fortune.com/company/enterprise-products-partners/) (Tier 3) (VERIFIED)
+- [Enterprise IR: Q4 2025 Earnings Release](https://ir.enterpriseproducts.com/news-releases/news-release-details/enterprise-reports-fourth-quarter-2025-earnings) (Tier 1) (VERIFIED)
+- [Enterprise IR: Hanley appointed CCO](https://ir.enterpriseproducts.com/news-releases/news-release-details/enterprise-elects-hanley-chief-commercial-officer) (Tier 1) (VERIFIED)
+- [Public.com: EPD Market Cap](https://public.com/stocks/epd/market-cap) (Tier 3) (VERIFIED)
+- [Simply Wall St: EPD 2026 FCF guidance](https://simplywall.st/stocks/us/energy/nyse-epd/enterprise-products-partners/news/record-ebitda-and-robust-2026-fcf-guidance-might-change-the) (Tier 3) (VERIFIED)
+- ~~[OpenSecrets: Enterprise Products Partners contributions](https://www.opensecrets.org/orgs/enterprise-products-partners/summary?id=D000033463)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Enterprise Products PAC](https://www.opensecrets.org/political-action-committees-pacs/enterprise-products-partners/C00496752/summary/2024)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Senate LDA Filings: Enterprise Products lobbying](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
 
 ---
 
@@ -170,7 +170,7 @@ Enterprise Products Partners represents the structural core of fossil fuel polit
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [K4CDIF4M54DJZ6TB4Q48](https://search.gleif.org/#/record/K4CDIF4M54DJZ6TB4Q48) |
+| LEI | [K4CDIF4M54DJZ6TB4Q48](https://search.gleif.org/#/record/K4CDIF4M54DJZ6TB4Q48) (VERIFIED) |
 | Legal Name | ENTERPRISE PRODUCTS PARTNERS L.P. |
 | Jurisdiction | US-DE |
 | Entity Status | ACTIVE |
@@ -178,7 +178,7 @@ Enterprise Products Partners represents the structural core of fossil fuel polit
 | Registration | ISSUED |
 | Last Updated | 2025-09-30T19:05:36Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Federal Court Records (CourtListener)
@@ -197,7 +197,7 @@ Enterprise Products Partners represents the structural core of fossil fuel polit
 - Energy Transfer LP v. United States Department of Labor (2025) — District Court, N.D. Texas
 - Airlines for America v. FERC (2024) — Court of Appeals for the D.C. Circuit
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Enterprise%20Products%20Partners%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Enterprise%20Products%20Partners%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Lobbying Activity
@@ -216,5 +216,5 @@ Enterprise Products Partners represents the structural core of fossil fuel polit
 
 **Agencies contacted:** Army, Dept of (Corps of Engineers), Bureau of Reclamation, Defense, Dept of (DOD), Education, Dept of, Energy, Dept of, Environmental Protection Agency (EPA), Federal Aviation Administration (FAA), Federal Maritime Commission, HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS) +7 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Enterprise%20Products%20Partners) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Enterprise%20Products%20Partners) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->

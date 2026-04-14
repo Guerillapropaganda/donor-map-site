@@ -170,9 +170,9 @@ The McMorrow case study has several implications for understanding 2026 Senate f
 
 ### Sources
 
-- [Viral speech: Michigan Sen. Mallory McMorrow fires back at colleague's 'grooming' accusation](https://www.clickondetroit.com/news/local/2022/04/20/viral-speech-michigan-sen-mallory-mcmorrow-fires-back-at-colleagues-grooming-accusation/) (Tier 2)
-- [Democrat McMorrow's rousing anti-hate speech leads to $250,000 in donations in one day](https://www.metrotimes.com/news/democrat-mcmorrows-rousing-anti-hate-speech-leads-to-250000-in-donations-in-one-day-29865253/) (Tier 2)
-- [Michigan lawmaker's forceful speech rebuts 'grooming' attack](https://www.nbcnews.com/nbc-out/out-politics-and-policy/michigan-lawmakers-forceful-speech-rebuts-grooming-attack-rcna25365) (Tier 2)
-- [Mallory McMorrow tops fundraising in U.S. Senate race](https://www.crainsdetroit.com/politics-policy/mallory-mcmorrow-tops-fundraising-us-senate-race/) (Tier 2)
-- [Michigan Sen. Mallory McMorrow explains why she stood up to a culture war attack](https://www.pbs.org/newshour/show/michigan-sen-mallory-mcmorrow-explains-why-stood-up-to-a-culture-war-attack) (Tier 2)
+- [Viral speech: Michigan Sen. Mallory McMorrow fires back at colleague's 'grooming' accusation](https://www.clickondetroit.com/news/local/2022/04/20/viral-speech-michigan-sen-mallory-mcmorrow-fires-back-at-colleagues-grooming-accusation/) (Tier 2) (VERIFIED)
+- [Democrat McMorrow's rousing anti-hate speech leads to $250,000 in donations in one day](https://www.metrotimes.com/news/democrat-mcmorrows-rousing-anti-hate-speech-leads-to-250000-in-donations-in-one-day-29865253/) (Tier 2) (VERIFIED)
+- [Michigan lawmaker's forceful speech rebuts 'grooming' attack](https://www.nbcnews.com/nbc-out/out-politics-and-policy/michigan-lawmakers-forceful-speech-rebuts-grooming-attack-rcna25365) (Tier 2) (VERIFIED)
+- [Mallory McMorrow tops fundraising in U.S. Senate race](https://www.crainsdetroit.com/politics-policy/mallory-mcmorrow-tops-fundraising-us-senate-race/) (Tier 2) (VERIFIED)
+- [Michigan Sen. Mallory McMorrow explains why she stood up to a culture war attack](https://www.pbs.org/newshour/show/michigan-sen-mallory-mcmorrow-explains-why-stood-up-to-a-culture-war-attack) (Tier 2) (VERIFIED)
 

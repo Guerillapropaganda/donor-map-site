@@ -54,6 +54,6 @@ Maps the healthcare donor network across both Trump terms. The first term donor 
 
 ### Sources
 
-- [OpenSecrets: PhRMA Lobbying Data](https://www.opensecrets.org/members-of-congress/summary?name=Healthcare) (Tier 2)
-- [OpenSecrets: UnitedHealth Contributions](https://www.opensecrets.org/members-of-congress/summary?name=Healthcare) (Tier 1)
+- [OpenSecrets: PhRMA Lobbying Data](https://www.opensecrets.org/members-of-congress/summary?name=Healthcare) (Tier 2) (VERIFIED)
+- [OpenSecrets: UnitedHealth Contributions](https://www.opensecrets.org/members-of-congress/summary?name=Healthcare) (Tier 1) (VERIFIED)
 

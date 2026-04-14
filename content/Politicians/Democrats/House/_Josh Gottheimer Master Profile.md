@@ -202,13 +202,13 @@ Gottheimer justified this by noting that Palantir also works for non-ICE governm
 
 ## Sources
 
-- [FEC Candidate: Rep Josh Gottheimer Donor Profile](https://www.fec.gov/data/candidate/H6NJ05171/) (Tier 1)
-- [Wall Street PAC Contributions, 2020-2024 Cycle](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- [OpenSecrets: Palantir Technologies political donations profile](https://www.opensecrets.org/orgs/palantir-technologies/summary?id=D000055177) (Tier 1)
-- [Problem Solvers Caucus Member Positions on IRA](https://www.democrats.org/problem-solvers-caucus) *(source unavailable)* (Tier 1)
-- [Pharmaceutical PAC Contributions to House Democrats, 2020-2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- [CNN: How allies of AI are ramping up their political donations for the midterms](https://www.cnn.com/2026/02/11/politics/palantir-midterms-artificial-intelligence-ai) (Tier 2)
-- [Tech PAC Contributions to Congress, 2020-2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
+- [FEC Candidate: Rep Josh Gottheimer Donor Profile](https://www.fec.gov/data/candidate/H6NJ05171/) (Tier 1) (VERIFIED)
+- [Wall Street PAC Contributions, 2020-2024 Cycle](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
+- [OpenSecrets: Palantir Technologies political donations profile](https://www.opensecrets.org/orgs/palantir-technologies/summary?id=D000055177) (Tier 1) (VERIFIED)
+- ~~[Problem Solvers Caucus Member Positions on IRA](https://www.democrats.org/problem-solvers-caucus)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 1)
+- [Pharmaceutical PAC Contributions to House Democrats, 2020-2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
+- [CNN: How allies of AI are ramping up their political donations for the midterms](https://www.cnn.com/2026/02/11/politics/palantir-midterms-artificial-intelligence-ai) (Tier 2) (VERIFIED)
+- [Tech PAC Contributions to Congress, 2020-2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -242,14 +242,14 @@ Gottheimer justified this by noting that Palantir also works for non-ICE governm
 | CENTER FORWARD COMMITTEE | $305,000 | $0 |
 | FAIRSHAKE | $245,376 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6NJ05171/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6NJ05171/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Josh Gottheimer](https://www.congress.gov/member/b001296) (Tier 1)
+- ~~[Congress.gov: Josh Gottheimer](https://www.congress.gov/member/b001296)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-13 -->
@@ -258,7 +258,7 @@ Gottheimer justified this by noting that Palantir also works for non-ICE governm
 
 **Sources**
 
-- [Congress.gov: Josh Gottheimer](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: Josh Gottheimer](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->
 
@@ -277,7 +277,7 @@ Gottheimer justified this by noting that Palantir also works for non-ICE governm
 - National Security Agency and Cyber
 - National Security, Illicit Finance, and International Financial Institutions
 
-- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 ### Legislative Activity (Congress.gov)
@@ -305,7 +305,7 @@ Gottheimer justified this by noting that Palantir also works for non-ICE governm
 | 7576 | AI Workforce Training Act | Referred to the House Committee on Ways and Means. |
 | 7465 | Federal Investment in Grants for Health Transportation and Flu-vaccination Local… | Referred to the House Committee on Energy and Commerce. |
 
-- [Source: Congress.gov](https://www.congress.gov/member/G000583) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/G000583)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Campaign Finance Summary (FEC)
@@ -340,13 +340,13 @@ Joshua S. Gottheimer is an American politician, attorney, writer, and public pol
 
 | Fact | Value |
 |------|-------|
-| Wikidata ID | [Q6288908](https://www.wikidata.org/wiki/Q6288908) |
+| Wikidata ID | [Q6288908](https://www.wikidata.org/wiki/Q6288908) (VERIFIED) |
 | Description | American politician from New Jersey |
 | Born | 1975-03-08 |
-| Website | [http://josh4congress.com/](http://josh4congress.com/) |
-| X/Twitter | [@RepJoshG](https://x.com/RepJoshG) |
-| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Josh_Gottheimer_Photo.jpg?width=300) |
+| Website | [http://josh4congress.com/](http://josh4congress.com/) (NEEDS REVIEW) |
+| X/Twitter | [@RepJoshG](https://x.com/RepJoshG) (VERIFIED) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Josh_Gottheimer_Photo.jpg?width=300) (NEEDS REVIEW) |
 
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/Josh_Gottheimer) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q6288908) (Tier 2)
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Josh_Gottheimer) (Tier 3) (VERIFIED)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q6288908) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->

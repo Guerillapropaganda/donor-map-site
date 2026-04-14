@@ -91,11 +91,11 @@ The Grant Town Power Plant. Enersystems' primary and sole customer (2008–2019 
 
 ### Sources
 
-- [Senate Financial Disclosures: Joe Manchin Enersystems income](https://www.senate.gov/pagelayout/general/one_item_and_teasers/file_not_found.htm) (Tier 1)
-- [Type Investigations: Joe Manchin's Coal, Fossil Fuels and Pollution](https://www.typeinvestigations.org/investigation/2021/09/03/joe-manchins-coal-fossil-fuels-pollution/) (Tier 2)
-- [American Prospect: Manchin Profits From Coal Sales to Utility Lobbying Group Members](https://prospect.org/2021/07/02/manchin-profits-from-coal-sales-to-utility-lobbying-group-me/) (Tier 2)
-- [E&E News: Manchin pushes DOE to invest in coal that earned him millions](https://www.eenews.net/articles/manchin-pushes-doe-to-invest-in-coal-that-earned-him-millions/) (Tier 2)
-- [E&E News: Manchin's coal income sharply drops](https://www.eenews.net/articles/manchins-coal-income-sharply-drops/) (Tier 2)
-- [Truthout/Sludge: Manchin bailed out a power plant that helps his family profit from coal waste](https://truthout.org/articles/manchin-bailed-out-a-power-plant-that-helps-his-family-profit-from-coal-waste/) (Tier 2)
-- [CNN: Joe Manchin has made millions from coal](https://www.cnn.com/2022/07/15/politics/joe-manchin-coal-financial-interests-climate) (Tier 2)
-- [OpenSecrets: Joe Manchin net worth and coal income analysis](https://www.opensecrets.org/news/2021/10/joe-manchins-net-worth-spurs-questions-energy-policy-position/) (Tier 1) (UNVERIFIED)
+- [Senate Financial Disclosures: Joe Manchin Enersystems income](https://www.senate.gov/pagelayout/general/one_item_and_teasers/file_not_found.htm) (Tier 1) (VERIFIED)
+- [Type Investigations: Joe Manchin's Coal, Fossil Fuels and Pollution](https://www.typeinvestigations.org/investigation/2021/09/03/joe-manchins-coal-fossil-fuels-pollution/) (Tier 2) (VERIFIED)
+- [American Prospect: Manchin Profits From Coal Sales to Utility Lobbying Group Members](https://prospect.org/2021/07/02/manchin-profits-from-coal-sales-to-utility-lobbying-group-me/) (Tier 2) (VERIFIED)
+- [E&E News: Manchin pushes DOE to invest in coal that earned him millions](https://www.eenews.net/articles/manchin-pushes-doe-to-invest-in-coal-that-earned-him-millions/) (Tier 2) (VERIFIED)
+- [E&E News: Manchin's coal income sharply drops](https://www.eenews.net/articles/manchins-coal-income-sharply-drops/) (Tier 2) (VERIFIED)
+- [Truthout/Sludge: Manchin bailed out a power plant that helps his family profit from coal waste](https://truthout.org/articles/manchin-bailed-out-a-power-plant-that-helps-his-family-profit-from-coal-waste/) (Tier 2) (VERIFIED)
+- [CNN: Joe Manchin has made millions from coal](https://www.cnn.com/2022/07/15/politics/joe-manchin-coal-financial-interests-climate) (Tier 2) (VERIFIED)
+- [OpenSecrets: Joe Manchin net worth and coal income analysis](https://www.opensecrets.org/news/2021/10/joe-manchins-net-worth-spurs-questions-energy-policy-position/) (Tier 1) (VERIFIED) (UNVERIFIED)

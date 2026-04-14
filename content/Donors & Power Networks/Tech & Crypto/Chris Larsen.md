@@ -77,6 +77,6 @@ Source: [[Fairshake PAC]] vault entry.
 | Total Expenses | $1K |
 | Net Assets | $2K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 112894655](https://projects.propublica.org/nonprofits/organizations/112894655) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=2015_06_PF%2F11-2894655_990PF_201412.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 112894655](https://projects.propublica.org/nonprofits/organizations/112894655) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=2015_06_PF%2F11-2894655_990PF_201412.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->

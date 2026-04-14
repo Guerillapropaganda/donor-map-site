@@ -326,46 +326,46 @@ What Brookings represents structurally is the think tank as a **shadow governmen
 
 ### Sources
 
-- [ProPublica Nonprofit Explorer: Brookings Institution — IRS 990 filings, FY2024 revenue $109M, net assets $487.8M, executive comp $7.5M](https://projects.propublica.org/nonprofits/organizations/530196577) (Tier 1)
-- [Think Tank Funding Tracker: Brookings Institution — $18.5M foreign government, $3.9M Pentagon contractors](https://thinktankfundingtracker.org/think-tank/brookings-institution/) (Tier 2)
-- [OpenSecrets: Brookings Institution profile — lobbying and political spending data](https://www.opensecrets.org/orgs/brookings-institution/summary?id=D000032148) (Tier 1)
-- [Brookings Institution: Our Finances — funding overview and audited financial statements](https://www.brookings.edu/about-us/finances/) (Tier 3)
-- [Brookings: FY2024 Honor Roll of Contributors — corporate and foundation donors](https://www.brookings.edu/wp-content/uploads/2025/02/Brookings-Institution-Honor-Roll-2024-Fiscal-Year.pdf) (Tier 3)
-- [Brookings: FY2024 Contributor Update List](https://www.brookings.edu/wp-content/uploads/2024/03/OGC-FY24-2nd-half-Contributor-Update-List.pdf) (Tier 3)
-- [Brookings: Board of Trustees — current officers, fiduciary trustees, lifetime trustees](https://www.brookings.edu/about-us/board-of-trustees/) (Tier 3)
-- [Hamilton Project: About — founding, mission, advisory council](https://www.hamiltonproject.org/about/) (Tier 3)
-- [Hamilton Project: Advisory Council — full member listing](https://www.hamiltonproject.org/about/advisory-council/) (Tier 3)
-- [GBH/NYT Investigation: Brookings Big Think Tank's Push for Corporate Donors' Agendas (Aug 2016) — Corporate Overviews Tracking database, Lennar case, JPMorgan internal docs, draft-sharing with donors](https://www.wgbh.org/news/national/2016-08-07/brookings-big-think-tanks-push-corporate-donors-agendas-as-cash-pours-in) (Tier 2)
-- [NYT Investigation: Foreign Powers Buy Influence at Think Tanks (Sept 2014) — Qatar $14.8M, FARA concerns, Saleem Ali "no-go zones"](https://www.nytimes.com/2014/09/07/us/politics/foreign-powers-buy-influence-at-think-tanks.html) (Tier 2)
-- [NYT Opinion: Is Money Corrupting Research? (Oct 2015) — Litan/Capital Group scandal](https://www.nytimes.com/2015/10/10/opinion/is-money-corrupting-research.html) (Tier 2)
-- [Mother Jones: Brookings, Elizabeth Warren, and Qatar (Oct 2022) — Allen scandal, congressional response, 2007 MOU details](https://www.motherjones.com/politics/2022/10/brookings-institution-elizabeth-warren-chuck-grassley-ted-cruz-qatar/) (Tier 2)
-- [CNN: Retired Gen. Allen resigns as Brookings president amid FBI probe (June 2022)](https://www.cnn.com/2022/06/13/politics/john-allen-brookings-institution-resignation) (Tier 2)
-- [Washington Post: John Allen leaves Brookings amid federal probe (June 2022)](https://www.washingtonpost.com/national-security/2022/06/12/brookings-institution-john-allen-resigns/) (Tier 2)
-- [NPR: FBI Seizes Retired General's Data Related to Qatar Lobbying (June 2022)](https://www.npr.org/2022/06/07/1103629580/fbi-seizes-retired-generals-data-related-to-qatar-lobbying) (Tier 2)
-- [Responsible Statecraft: Brookings president resigns (June 2022)](https://responsiblestatecraft.org/2022/06/12/brookings-president-resigns-after-being-accused-of-illegally-lobbying-for-qatar/) (Tier 2)
-- [Responsible Statecraft: DOJ drops probe into former Brookings president (Feb 2023)](https://responsiblestatecraft.org/2023/02/02/doj-drops-probe-into-former-brookings-presidents-lobbying/) (Tier 2)
-- [Senator Elizabeth Warren: Letter to Brookings on foreign government funding agreements](https://www.warren.senate.gov/oversight/letters/warren-seeks-answers-from-brookings-about-funding-agreements-from-foreign-governments-undermining-the-think-tanks-independence) (Tier 1)
-- [Senator Chuck Grassley: Senators Push DOJ on FARA Compliance of Brookings Institution (Aug 2022)](https://www.grassley.senate.gov/news/news-releases/senators-push-doj-on-fara-compliance-of-brookings-institution) (Tier 1)
-- [The Nation: Investigation Into Brookings Ex-President Should Worry Think Tanks (2022)](https://www.thenation.com/article/world/investigation-into-brookings/) (Tier 2)
-- [Inside Philanthropy: The Obvious Problem of Corporate Funding at Brookings (Oct 2015) — corporate donations quadrupled, board composition analysis](https://www.insidephilanthropy.com/home/2015-10-2-we-saw-that-coming-the-obvious-problem-of-corporate-funding-html) (Tier 2)
-- [LittleSis: Banking on Think Tanks — Goldman Sachs governance, JPMorgan GCI](https://littlesis.org/news/banking-on-think-tanks/) (Tier 2)
-- [Common Dreams: Obama's Big Sellout (Dec 2009) — Hamilton Project revolving door, Orszag quote, Taibbi on Rubin network](https://www.commondreams.org/news/2009/12/13/obamas-big-sellout-president-has-packed-his-economic-team-wall-street-insiders) (Tier 2)
-- [Truthdig: The Shell Game of the Economic Elites' Hamilton Project (2016) — Goldman Sachs funding, Jamie Peck analysis](https://www.truthdig.com/articles/the-shell-game-of-the-economic-elites-hamilton-project-2/) (Tier 2)
-- [The Baffler: Hamilton Project ideology analysis](https://thebaffler.com/salvos/the-o-word) (Tier 2)
-- [Israel Hayom/Investigative Project: Qatar-Brookings Doha Center relationship (2014)](https://www.israelhayom.co.il/article/229573) (Tier 3)
-- [Brookings: The impossible (pipe) dream — single-payer health reform (Jan 2016)](https://www.brookings.edu/articles/the-impossible-pipe-dream-single-payer-health-reform/) (Tier 3)
-- [Brookings: Breaking up the big banks won't stop another financial crisis (2016)](https://www.brookings.edu/articles/breaking-up-the-big-banks-wont-stop-another-financial-crisis/) (Tier 3)
-- [Brookings/BPC: The Big Bank Theory paper (2014) — authored by former JPMorgan MD](https://www.brookings.edu/wp-content/uploads/2016/06/BPCBigBankBreakupArguments.pdf) (Tier 3)
-- [Brookings: What does economic evidence tell us about effects of rent control? (2018)](https://www.brookings.edu/articles/what-does-economic-evidence-tell-us-about-the-effects-of-rent-control/) (Tier 3)
-- [Brookings: Where have all the houses gone? — Schuetz on institutional landlords (2022)](https://www.brookings.edu/articles/where-have-all-the-houses-gone-private-equity-single-family-rentals-and-americas-neighborhoods/) (Tier 3)
-- [Brookings: Raising the Minimum Wage and Redesigning the EITC — Hamilton Project brief (2016)](https://www.brookings.edu/articles/raising-the-minimum-wage-and-redesigning-the-eitc/) (Tier 3)
-- [Brookings: Rising Inequality — Qureshi predistribution framework](https://www.brookings.edu/articles/rising-inequality-a-major-issue-of-our-time/) (Tier 3)
-- [Brookings: Reining in pharmaceutical costs](https://www.brookings.edu/articles/reining-in-pharmaceutical-costs/) (Tier 3)
-- [Brookings: USMCA Initiative — NAFTA/trade advocacy](https://www.brookings.edu/projects/usmca-initiative/) (Tier 3)
-- [Hamilton Project: Four Alternatives for Taxing Wealth — Leiserson paper](https://www.hamiltonproject.org/wp-content/uploads/2023/01/Leiserson_OP_WEB.pdf) (Tier 3)
-- [American Academy of Arts & Sciences: John L. Thornton biography](https://www.amacad.org/person/john-l-thornton) (Tier 3)
-- [Wikipedia: Brookings Institution — founding history, financials, controversies overview](https://en.wikipedia.org/wiki/Brookings_Institution) (Tier 3)
-- [Military.com: Hegseth Orders End to Pentagon-Funded Attendance at Elite Universities — Brookings among think tanks cut (Feb 2026)](https://www.military.com/feature/2026/02/28/pete-hegseth-orders-end-pentagon-funded-attendance-several-elite-universities.html) (Tier 2)
+- [ProPublica Nonprofit Explorer: Brookings Institution — IRS 990 filings, FY2024 revenue $109M, net assets $487.8M, executive comp $7.5M](https://projects.propublica.org/nonprofits/organizations/530196577) (Tier 1) (VERIFIED)
+- [Think Tank Funding Tracker: Brookings Institution — $18.5M foreign government, $3.9M Pentagon contractors](https://thinktankfundingtracker.org/think-tank/brookings-institution/) (Tier 2) (VERIFIED)
+- [OpenSecrets: Brookings Institution profile — lobbying and political spending data](https://www.opensecrets.org/orgs/brookings-institution/summary?id=D000032148) (Tier 1) (VERIFIED)
+- [Brookings Institution: Our Finances — funding overview and audited financial statements](https://www.brookings.edu/about-us/finances/) (Tier 3) (VERIFIED)
+- [Brookings: FY2024 Honor Roll of Contributors — corporate and foundation donors](https://www.brookings.edu/wp-content/uploads/2025/02/Brookings-Institution-Honor-Roll-2024-Fiscal-Year.pdf) (Tier 3) (VERIFIED)
+- [Brookings: FY2024 Contributor Update List](https://www.brookings.edu/wp-content/uploads/2024/03/OGC-FY24-2nd-half-Contributor-Update-List.pdf) (Tier 3) (VERIFIED)
+- [Brookings: Board of Trustees — current officers, fiduciary trustees, lifetime trustees](https://www.brookings.edu/about-us/board-of-trustees/) (Tier 3) (VERIFIED)
+- [Hamilton Project: About — founding, mission, advisory council](https://www.hamiltonproject.org/about/) (Tier 3) (VERIFIED)
+- [Hamilton Project: Advisory Council — full member listing](https://www.hamiltonproject.org/about/advisory-council/) (Tier 3) (VERIFIED)
+- [GBH/NYT Investigation: Brookings Big Think Tank's Push for Corporate Donors' Agendas (Aug 2016) — Corporate Overviews Tracking database, Lennar case, JPMorgan internal docs, draft-sharing with donors](https://www.wgbh.org/news/national/2016-08-07/brookings-big-think-tanks-push-corporate-donors-agendas-as-cash-pours-in) (Tier 2) (VERIFIED)
+- ~~[NYT Investigation: Foreign Powers Buy Influence at Think Tanks (Sept 2014) — Qatar $14.8M, FARA concerns, Saleem Ali "no-go zones"](https://www.nytimes.com/2014/09/07/us/politics/foreign-powers-buy-influence-at-think-tanks.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[NYT Opinion: Is Money Corrupting Research? (Oct 2015) — Litan/Capital Group scandal](https://www.nytimes.com/2015/10/10/opinion/is-money-corrupting-research.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Mother Jones: Brookings, Elizabeth Warren, and Qatar (Oct 2022) — Allen scandal, congressional response, 2007 MOU details](https://www.motherjones.com/politics/2022/10/brookings-institution-elizabeth-warren-chuck-grassley-ted-cruz-qatar/) (Tier 2) (VERIFIED)
+- [CNN: Retired Gen. Allen resigns as Brookings president amid FBI probe (June 2022)](https://www.cnn.com/2022/06/13/politics/john-allen-brookings-institution-resignation) (Tier 2) (VERIFIED)
+- [Washington Post: John Allen leaves Brookings amid federal probe (June 2022)](https://www.washingtonpost.com/national-security/2022/06/12/brookings-institution-john-allen-resigns/) (Tier 2) (VERIFIED)
+- [NPR: FBI Seizes Retired General's Data Related to Qatar Lobbying (June 2022)](https://www.npr.org/2022/06/07/1103629580/fbi-seizes-retired-generals-data-related-to-qatar-lobbying) (Tier 2) (VERIFIED)
+- [Responsible Statecraft: Brookings president resigns (June 2022)](https://responsiblestatecraft.org/2022/06/12/brookings-president-resigns-after-being-accused-of-illegally-lobbying-for-qatar/) (Tier 2) (VERIFIED)
+- [Responsible Statecraft: DOJ drops probe into former Brookings president (Feb 2023)](https://responsiblestatecraft.org/2023/02/02/doj-drops-probe-into-former-brookings-presidents-lobbying/) (Tier 2) (VERIFIED)
+- [Senator Elizabeth Warren: Letter to Brookings on foreign government funding agreements](https://www.warren.senate.gov/oversight/letters/warren-seeks-answers-from-brookings-about-funding-agreements-from-foreign-governments-undermining-the-think-tanks-independence) (Tier 1) (VERIFIED)
+- [Senator Chuck Grassley: Senators Push DOJ on FARA Compliance of Brookings Institution (Aug 2022)](https://www.grassley.senate.gov/news/news-releases/senators-push-doj-on-fara-compliance-of-brookings-institution) (Tier 1) (VERIFIED)
+- [The Nation: Investigation Into Brookings Ex-President Should Worry Think Tanks (2022)](https://www.thenation.com/article/world/investigation-into-brookings/) (Tier 2) (VERIFIED)
+- [Inside Philanthropy: The Obvious Problem of Corporate Funding at Brookings (Oct 2015) — corporate donations quadrupled, board composition analysis](https://www.insidephilanthropy.com/home/2015-10-2-we-saw-that-coming-the-obvious-problem-of-corporate-funding-html) (Tier 2) (VERIFIED)
+- [LittleSis: Banking on Think Tanks — Goldman Sachs governance, JPMorgan GCI](https://littlesis.org/news/banking-on-think-tanks/) (Tier 2) (VERIFIED)
+- [Common Dreams: Obama's Big Sellout (Dec 2009) — Hamilton Project revolving door, Orszag quote, Taibbi on Rubin network](https://www.commondreams.org/news/2009/12/13/obamas-big-sellout-president-has-packed-his-economic-team-wall-street-insiders) (Tier 2) (VERIFIED)
+- [Truthdig: The Shell Game of the Economic Elites' Hamilton Project (2016) — Goldman Sachs funding, Jamie Peck analysis](https://www.truthdig.com/articles/the-shell-game-of-the-economic-elites-hamilton-project-2/) (Tier 2) (VERIFIED)
+- [The Baffler: Hamilton Project ideology analysis](https://thebaffler.com/salvos/the-o-word) (Tier 2) (VERIFIED)
+- [Israel Hayom/Investigative Project: Qatar-Brookings Doha Center relationship (2014)](https://www.israelhayom.co.il/article/229573) (Tier 3) (VERIFIED)
+- [Brookings: The impossible (pipe) dream — single-payer health reform (Jan 2016)](https://www.brookings.edu/articles/the-impossible-pipe-dream-single-payer-health-reform/) (Tier 3) (VERIFIED)
+- [Brookings: Breaking up the big banks won't stop another financial crisis (2016)](https://www.brookings.edu/articles/breaking-up-the-big-banks-wont-stop-another-financial-crisis/) (Tier 3) (VERIFIED)
+- [Brookings/BPC: The Big Bank Theory paper (2014) — authored by former JPMorgan MD](https://www.brookings.edu/wp-content/uploads/2016/06/BPCBigBankBreakupArguments.pdf) (Tier 3) (VERIFIED)
+- [Brookings: What does economic evidence tell us about effects of rent control? (2018)](https://www.brookings.edu/articles/what-does-economic-evidence-tell-us-about-the-effects-of-rent-control/) (Tier 3) (VERIFIED)
+- [Brookings: Where have all the houses gone? — Schuetz on institutional landlords (2022)](https://www.brookings.edu/articles/where-have-all-the-houses-gone-private-equity-single-family-rentals-and-americas-neighborhoods/) (Tier 3) (VERIFIED)
+- [Brookings: Raising the Minimum Wage and Redesigning the EITC — Hamilton Project brief (2016)](https://www.brookings.edu/articles/raising-the-minimum-wage-and-redesigning-the-eitc/) (Tier 3) (VERIFIED)
+- [Brookings: Rising Inequality — Qureshi predistribution framework](https://www.brookings.edu/articles/rising-inequality-a-major-issue-of-our-time/) (Tier 3) (VERIFIED)
+- [Brookings: Reining in pharmaceutical costs](https://www.brookings.edu/articles/reining-in-pharmaceutical-costs/) (Tier 3) (VERIFIED)
+- [Brookings: USMCA Initiative — NAFTA/trade advocacy](https://www.brookings.edu/projects/usmca-initiative/) (Tier 3) (VERIFIED)
+- [Hamilton Project: Four Alternatives for Taxing Wealth — Leiserson paper](https://www.hamiltonproject.org/wp-content/uploads/2023/01/Leiserson_OP_WEB.pdf) (Tier 3) (VERIFIED)
+- [American Academy of Arts & Sciences: John L. Thornton biography](https://www.amacad.org/person/john-l-thornton) (Tier 3) (VERIFIED)
+- [Wikipedia: Brookings Institution — founding history, financials, controversies overview](https://en.wikipedia.org/wiki/Brookings_Institution) (Tier 3) (VERIFIED)
+- [Military.com: Hegseth Orders End to Pentagon-Funded Attendance at Elite Universities — Brookings among think tanks cut (Feb 2026)](https://www.military.com/feature/2026/02/28/pete-hegseth-orders-end-pentagon-funded-attendance-several-elite-universities.html) (Tier 2) (VERIFIED)
 
 ---
 
@@ -380,13 +380,13 @@ What Brookings represents structurally is the think tank as a **shadow governmen
 | Agencies | Centers for Medicare & Medicaid Services, Comptroller of the Currency, Consumer Financial Protection Bureau, Education Department, Employee Benefits Security Administration, Employment and Training Administration, Federal Deposit Insurance Corporation, Federal Housing Finance Agency +7 more |
 
 **Recent regulatory activity:**
-- [Termination of the Designation of Yemen for Temporary Protected Status](https://www.federalregister.gov/documents/2026/03/03/2026-04179/termination-of-the-designation-of-yemen-for-temporary-protected-status) (2026-03-03) — Homeland Security Department
-- [Improving Transparency Into Pharmacy Benefit Manager Fee Disclosure](https://www.federalregister.gov/documents/2026/01/30/2026-01907/improving-transparency-into-pharmacy-benefit-manager-fee-disclosure) (2026-01-30) — Labor Department ★
-- [Global Benchmark for Efficient Drug Pricing (GLOBE) Model](https://www.federalregister.gov/documents/2025/12/23/2025-23702/global-benchmark-for-efficient-drug-pricing-globe-model) (2025-12-23) — Health and Human Services Department ★
-- [Enhanced Transparency and Public Accountability of the Supervisory Stress Test Models and Scenarios; Modifications to the Capital Planning and Stress Capital Buffer Requirement Rule, Enhanced Prudential Standards Rule, and Regulation LL](https://www.federalregister.gov/documents/2025/11/18/2025-20211/enhanced-transparency-and-public-accountability-of-the-supervisory-stress-test-models-and-scenarios) (2025-11-18) — Federal Reserve System
-- [Revisions to the Large Financial Institution Rating System and Framework for the Supervision of Insurance Organizations](https://www.federalregister.gov/documents/2025/11/17/2025-19945/revisions-to-the-large-financial-institution-rating-system-and-framework-for-the-supervision-of) (2025-11-17) — Federal Reserve System
-- [Prohibiting Illegal Discrimination in Registered Apprenticeship Programs](https://www.federalregister.gov/documents/2025/07/02/2025-12317/prohibiting-illegal-discrimination-in-registered-apprenticeship-programs) (2025-07-02) — Labor Department ★
+- [Termination of the Designation of Yemen for Temporary Protected Status](https://www.federalregister.gov/documents/2026/03/03/2026-04179/termination-of-the-designation-of-yemen-for-temporary-protected-status) (VERIFIED) (2026-03-03) — Homeland Security Department
+- [Improving Transparency Into Pharmacy Benefit Manager Fee Disclosure](https://www.federalregister.gov/documents/2026/01/30/2026-01907/improving-transparency-into-pharmacy-benefit-manager-fee-disclosure) (VERIFIED) (2026-01-30) — Labor Department ★
+- [Global Benchmark for Efficient Drug Pricing (GLOBE) Model](https://www.federalregister.gov/documents/2025/12/23/2025-23702/global-benchmark-for-efficient-drug-pricing-globe-model) (VERIFIED) (2025-12-23) — Health and Human Services Department ★
+- [Enhanced Transparency and Public Accountability of the Supervisory Stress Test Models and Scenarios; Modifications to the Capital Planning and Stress Capital Buffer Requirement Rule, Enhanced Prudential Standards Rule, and Regulation LL](https://www.federalregister.gov/documents/2025/11/18/2025-20211/enhanced-transparency-and-public-accountability-of-the-supervisory-stress-test-models-and-scenarios) (VERIFIED) (2025-11-18) — Federal Reserve System
+- [Revisions to the Large Financial Institution Rating System and Framework for the Supervision of Insurance Organizations](https://www.federalregister.gov/documents/2025/11/17/2025-19945/revisions-to-the-large-financial-institution-rating-system-and-framework-for-the-supervision-of) (VERIFIED) (2025-11-17) — Federal Reserve System
+- [Prohibiting Illegal Discrimination in Registered Apprenticeship Programs](https://www.federalregister.gov/documents/2025/07/02/2025-12317/prohibiting-illegal-discrimination-in-registered-apprenticeship-programs) (VERIFIED) (2025-07-02) — Labor Department ★
 - ... and 163 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Brookings%20Institution%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Brookings%20Institution%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->

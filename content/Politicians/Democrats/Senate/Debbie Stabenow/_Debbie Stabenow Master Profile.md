@@ -138,18 +138,18 @@ The SNAP defense provided the progressive cover. Stabenow declared SNAP funding 
 
 ## Sources
 
-- [FEC Candidate: Debbie Stabenow Campaign Finance Summary](https://www.fec.gov/data/candidate/H6MI08163/) (Tier 1)
-- [OpenSecrets: Debbie Stabenow Top Industries](https://www.opensecrets.org/members-of-congress/industries?cycle=Career&cid=N00004118) (Tier 1)
-- [FEC: Debbie Stabenow for U.S. Senate](https://www.fec.gov/data/candidate/S8MI00281/) (Tier 1)
-- [Sunlight Foundation: Senators Who Write Farm Bill Fine Print Reap Agribusiness Campaign Cash](https://sunlightfoundation.com/2013/06/10/senators-who-write-farm-bill/) (Tier 2)
-- [Center for Public Integrity: Debbie Stabenow — Senate Agriculture Committee](https://publicintegrity.org/politics/debbie-stabenow-senate-agriculture-nutrition-and-forestry-committee/) (Tier 2)
-- [Taxpayers for Common Sense: Political Power of the Agribusiness & Crop Insurance Lobbies](https://www.taxpayer.net/wp-content/uploads/ported/images/downloads/Political_Power_of_Farm_And_Crop_Insurance_Lobbies_Fact_Sheet.pdf) (Tier 2)
-- [EWG: Crop Insurance Subsidy Double Speak](https://www.ewg.org/news-insights/news/crop-insurance-subsidy-double-speak) (Tier 2)
-- [Michigan Independent: Sen. Debbie Stabenow Says Goodbye to the US Senate After 24 Years](https://michiganindependent.com/politics/debbie-stabenow-us-senate-farewell-elissa-slotkin-2024-election/) (Tier 2)
-- [Senate Agriculture Committee: Chairwoman Stabenow Farm Bill Initiatives](https://www.agriculture.senate.gov/newsroom/dem/press/release/chairwoman-debbie-stabenow-celebrates-1-billion-invested-in-specialty-crops-through-her-farm-bill-initiatives) (Tier 1)
-- [GovTrack: Senator Debbie Stabenow](https://www.govtrack.us/congress/members/debbie_stabenow/300093) (Tier 3)
-- [Wikipedia: Debbie Stabenow](https://en.wikipedia.org/wiki/Debbie_Stabenow) (Tier 3)
-- [Ballotpedia: Debbie Stabenow](https://ballotpedia.org/Debbie_Stabenow) (Tier 3)
+- [FEC Candidate: Debbie Stabenow Campaign Finance Summary](https://www.fec.gov/data/candidate/H6MI08163/) (Tier 1) (VERIFIED)
+- [OpenSecrets: Debbie Stabenow Top Industries](https://www.opensecrets.org/members-of-congress/industries?cycle=Career&cid=N00004118) (Tier 1) (VERIFIED)
+- [FEC: Debbie Stabenow for U.S. Senate](https://www.fec.gov/data/candidate/S8MI00281/) (Tier 1) (VERIFIED)
+- [Sunlight Foundation: Senators Who Write Farm Bill Fine Print Reap Agribusiness Campaign Cash](https://sunlightfoundation.com/2013/06/10/senators-who-write-farm-bill/) (Tier 2) (VERIFIED)
+- [Center for Public Integrity: Debbie Stabenow — Senate Agriculture Committee](https://publicintegrity.org/politics/debbie-stabenow-senate-agriculture-nutrition-and-forestry-committee/) (Tier 2) (VERIFIED)
+- [Taxpayers for Common Sense: Political Power of the Agribusiness & Crop Insurance Lobbies](https://www.taxpayer.net/wp-content/uploads/ported/images/downloads/Political_Power_of_Farm_And_Crop_Insurance_Lobbies_Fact_Sheet.pdf) (Tier 2) (VERIFIED)
+- [EWG: Crop Insurance Subsidy Double Speak](https://www.ewg.org/news-insights/news/crop-insurance-subsidy-double-speak) (Tier 2) (VERIFIED)
+- [Michigan Independent: Sen. Debbie Stabenow Says Goodbye to the US Senate After 24 Years](https://michiganindependent.com/politics/debbie-stabenow-us-senate-farewell-elissa-slotkin-2024-election/) (Tier 2) (VERIFIED)
+- [Senate Agriculture Committee: Chairwoman Stabenow Farm Bill Initiatives](https://www.agriculture.senate.gov/newsroom/dem/press/release/chairwoman-debbie-stabenow-celebrates-1-billion-invested-in-specialty-crops-through-her-farm-bill-initiatives) (Tier 1) (VERIFIED)
+- [GovTrack: Senator Debbie Stabenow](https://www.govtrack.us/congress/members/debbie_stabenow/300093) (Tier 3) (VERIFIED)
+- [Wikipedia: Debbie Stabenow](https://en.wikipedia.org/wiki/Debbie_Stabenow) (Tier 3) (VERIFIED)
+- [Ballotpedia: Debbie Stabenow](https://ballotpedia.org/Debbie_Stabenow) (Tier 3) (VERIFIED)
 
 ---
 
@@ -165,7 +165,7 @@ party:: Democrat
 | Bills Cosponsored | 0 |
 | Total Votes Cast | 10,311 |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/300093) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/300093) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
 
 ### Campaign Finance (FEC)
@@ -193,7 +193,7 @@ party:: Democrat
 | LABORERS' POLITICAL LEAGUE-LABORERS' INTERNATIONAL UNION OF NA | $0 | $7,500 |
 | RIGHT TO LIFE OF MICHIGAN POLITICAL ACTION COMMITTEE | $0 | $174 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6MI08163/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6MI08163/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Voting Record
@@ -218,5 +218,5 @@ party:: Democrat
 
 **Sources**
 
-- [GovTrack: Debbie Stabenow](https://www.govtrack.us/congress/members/300093) (Tier 1)
+- [GovTrack: Debbie Stabenow](https://www.govtrack.us/congress/members/300093) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->

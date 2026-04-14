@@ -116,13 +116,13 @@ The fines don't change the behavior because the behavior is profitable. Denying 
 
 ### Sources
 
-- [CapRadio: California inks sweetheart deal with Kaiser Permanente (2022)](https://www.capradio.org/articles/2022/02/05/california-inks-sweetheart-deal-with-kaiser-permanente-jeopardizing-medicaid-reforms/) (Tier 2)
-- [CalMatters: California's no-bid contract with Kaiser triggers concerns (2022)](https://calmatters.org/health/2022/02/state-kaiser-deal-medi-cal/) (Tier 2)
-- [California Healthline: No-Bid Medi-Cal Contract for Kaiser Permanente Is Now Law (2022)](https://californiahealthline.org/news/article/california-medicaid-contract-kaiser-permanente-key-details-missing/) (Tier 2)
-- [Capital & Main: A Private No-Bid Agreement Hands Kaiser a New Medi-Cal Contract (2022)](https://capitalandmain.com/a-private-no-bid-agreement-hands-kaiser-a-new-medi-cal-contract) (Tier 2)
-- [OpenSecrets: Kaiser Permanente organizational profile](https://www.opensecrets.org/orgs/kaiser-permanente/summary?id=D000034986) (Tier 2)
-- [NUHW: Kaiser Permanente mental health documentation](https://nuhw.org/news-and-press/kaiser/) (Tier 4) (labor union source, cross-reference with DMHC data)
-- [NUHW: Kaiser mental health strike updates](https://home.nuhw.org/workplace/kaiser-psych-social/) (Tier 4)
+- [CapRadio: California inks sweetheart deal with Kaiser Permanente (2022)](https://www.capradio.org/articles/2022/02/05/california-inks-sweetheart-deal-with-kaiser-permanente-jeopardizing-medicaid-reforms/) (Tier 2) (VERIFIED)
+- [CalMatters: California's no-bid contract with Kaiser triggers concerns (2022)](https://calmatters.org/health/2022/02/state-kaiser-deal-medi-cal/) (Tier 2) (VERIFIED)
+- [California Healthline: No-Bid Medi-Cal Contract for Kaiser Permanente Is Now Law (2022)](https://californiahealthline.org/news/article/california-medicaid-contract-kaiser-permanente-key-details-missing/) (Tier 2) (VERIFIED)
+- [Capital & Main: A Private No-Bid Agreement Hands Kaiser a New Medi-Cal Contract (2022)](https://capitalandmain.com/a-private-no-bid-agreement-hands-kaiser-a-new-medi-cal-contract) (Tier 2) (VERIFIED)
+- [OpenSecrets: Kaiser Permanente organizational profile](https://www.opensecrets.org/orgs/kaiser-permanente/summary?id=D000034986) (Tier 2) (VERIFIED)
+- [NUHW: Kaiser Permanente mental health documentation](https://nuhw.org/news-and-press/kaiser/) (Tier 4) (VERIFIED) (labor union source, cross-reference with DMHC data)
+- [NUHW: Kaiser mental health strike updates](https://home.nuhw.org/workplace/kaiser-psych-social/) (Tier 4) (VERIFIED)
 
 ---
 
@@ -164,7 +164,7 @@ The fines don't change the behavior because the behavior is profitable. Denying 
 |------------------|--------|--------|
 | Unknown | $1009778941.6B | 50 |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Kaiser%20Permanente) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Kaiser%20Permanente) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -177,7 +177,7 @@ The fines don't change the behavior because the behavior is profitable. Denying 
 | Total Expenses | $23.6M |
 | Net Assets | $30.0M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 943382057](https://projects.propublica.org/nonprofits/organizations/943382057) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 943382057](https://projects.propublica.org/nonprofits/organizations/943382057) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Vehicle Safety (NHTSA)
@@ -195,7 +195,7 @@ The fines don't change the behavior because the behavior is profitable. Denying 
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Kaiser%20Permanente) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Kaiser%20Permanente) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Tax Filings (IRS 990)
@@ -213,14 +213,14 @@ The fines don't change the behavior because the behavior is profitable. Denying 
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/943382057/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/943382057/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/943382057/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/943382057/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/943382057/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/943382057/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/943382057/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/943382057/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/943382057/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/943382057/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/943382057) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/943382057) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### SEC Filing Activity
@@ -238,5 +238,5 @@ The fines don't change the behavior because the behavior is profitable. Denying 
 - 2008-07-02 — **EX-10.13**: EXHIBIT 10.13
 - 2022-12-07 — **N-MFP2**: N-MFP2
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Kaiser%20Permanente%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Kaiser%20Permanente%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->

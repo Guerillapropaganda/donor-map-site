@@ -81,8 +81,8 @@ Drummond Company exemplifies how fossil fuel extraction industries leverage poli
 
 ### Sources
 
-- [Energy and Policy Institute: Alabama Power paid millions to shadowy consulting groups involved in scandals](https://energyandpolicy.org/alabama-power-matrix-scandals/) (Tier 2)
-- [OpenSecrets: Drummond lobbying spending](https://www.opensecrets.org/orgs/drummond) (Tier 1)
+- [Energy and Policy Institute: Alabama Power paid millions to shadowy consulting groups involved in scandals](https://energyandpolicy.org/alabama-power-matrix-scandals/) (Tier 2) (VERIFIED)
+- ~~[OpenSecrets: Drummond lobbying spending](https://www.opensecrets.org/orgs/drummond)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -121,7 +121,7 @@ Drummond Company exemplifies how fossil fuel extraction industries leverage poli
 | $4.2M | INTERIOR, DEPARTMENT OF THE | 2004-04-14 |
 | $11K | DEPT OF DEFENSE | 2010-09-28 |
 
-- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Drummond%20Co.&page=1&index=opp) (Tier 1)
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Drummond%20Co.&page=1&index=opp) (Tier 1) (VERIFIED)
 <!-- auto:sam-contracts end -->
 
 ### SEC Filing Activity
@@ -139,7 +139,7 @@ Drummond Company exemplifies how fossil fuel extraction industries leverage poli
 - 2011-04-01 — **N-Q**: N-Q
 - 2010-09-29 — **N-Q**: N-Q
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Drummond%20Co.%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Drummond%20Co.%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Federal Register Activity
@@ -152,12 +152,12 @@ Drummond Company exemplifies how fossil fuel extraction industries leverage poli
 | Agencies | Employment and Training Administration, Environmental Protection Agency, Labor Department |
 
 **Recent regulatory activity:**
-- [National Emission Standards for Hazardous Air Pollutants for Coke Ovens: Pushing, Quenching, and Battery Stacks, and Coke Oven Batteries; Residual Risk and Technology Review, and Periodic Technology Review](https://www.federalregister.gov/documents/2023/08/16/2023-16620/national-emission-standards-for-hazardous-air-pollutants-for-coke-ovens-pushing-quenching-and) (2023-08-16) — Environmental Protection Agency ★
-- [Notice of Determinations Regarding Eligibility To Apply for Worker Adjustment Assistance and NAFTA Transitional Adjustment Assistance](https://www.federalregister.gov/documents/2000/02/15/00-3507/notice-of-determinations-regarding-eligibility-to-apply-for-worker-adjustment-assistance-and-nafta) (2000-02-15) — Labor Department
-- [Notice of Determinations Regarding Eligibility to Apply for Worker Adjustment Assistance and NAFTA Transitional Adjustment Assistance](https://www.federalregister.gov/documents/1998/01/22/98-1471/notice-of-determinations-regarding-eligibility-to-apply-for-worker-adjustment-assistance-and-nafta) (1998-01-22) — Labor Department
-- [Investigations Regarding Certifications of Eligibility To Apply for Worker Adjustment Assistance](https://www.federalregister.gov/documents/1997/09/30/97-25865/investigations-regarding-certifications-of-eligibility-to-apply-for-worker-adjustment-assistance) (1997-09-30) — Labor Department
+- [National Emission Standards for Hazardous Air Pollutants for Coke Ovens: Pushing, Quenching, and Battery Stacks, and Coke Oven Batteries; Residual Risk and Technology Review, and Periodic Technology Review](https://www.federalregister.gov/documents/2023/08/16/2023-16620/national-emission-standards-for-hazardous-air-pollutants-for-coke-ovens-pushing-quenching-and) (VERIFIED) (2023-08-16) — Environmental Protection Agency ★
+- ~~[Notice of Determinations Regarding Eligibility To Apply for Worker Adjustment Assistance and NAFTA Transitional Adjustment Assistance](https://www.federalregister.gov/documents/2000/02/15/00-3507/notice-of-determinations-regarding-eligibility-to-apply-for-worker-adjustment-assistance-and-nafta)~~ (URL broken, archived by Ops) (2000-02-15) — Labor Department
+- [Notice of Determinations Regarding Eligibility to Apply for Worker Adjustment Assistance and NAFTA Transitional Adjustment Assistance](https://www.federalregister.gov/documents/1998/01/22/98-1471/notice-of-determinations-regarding-eligibility-to-apply-for-worker-adjustment-assistance-and-nafta) (VERIFIED) (1998-01-22) — Labor Department
+- [Investigations Regarding Certifications of Eligibility To Apply for Worker Adjustment Assistance](https://www.federalregister.gov/documents/1997/09/30/97-25865/investigations-regarding-certifications-of-eligibility-to-apply-for-worker-adjustment-assistance) (VERIFIED) (1997-09-30) — Labor Department
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Drummond%20Co.%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Drummond%20Co.%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Tax Filings (IRS 990)
@@ -170,7 +170,7 @@ Drummond Company exemplifies how fossil fuel extraction industries leverage poli
 | IRS Ruling Date | 2022-08-01 |
 | Filings on Record | 0 |
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/412064833) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/412064833) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Lobbying Activity
@@ -189,7 +189,7 @@ Drummond Company exemplifies how fossil fuel extraction industries leverage poli
 
 **Agencies contacted:** Bureau of Indian Affairs (BIA), Energy, Dept of, HOUSE OF REPRESENTATIVES, Interior, Dept of (DOI), SENATE
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Drummond%20Co.) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Drummond%20Co.) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Federal Court Records (CourtListener)
@@ -208,14 +208,14 @@ Drummond Company exemplifies how fossil fuel extraction industries leverage poli
 - Knight First Amendment Institute at Columbia Uni (2026) — Court of Appeals for the Eleventh Circuit
 - Pitts v. United States (2026) — District Court, N.D. Georgia
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Drummond%20Co.%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Drummond%20Co.%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [213800LE7MRYU5XL6J42](https://search.gleif.org/#/record/213800LE7MRYU5XL6J42) |
+| LEI | [213800LE7MRYU5XL6J42](https://search.gleif.org/#/record/213800LE7MRYU5XL6J42) (VERIFIED) |
 | Legal Name | DRUMMOND & CO (HUMAN RESOURCE SPECIALISTS) LIMITED |
 | Jurisdiction | GB |
 | Entity Status | ACTIVE |
@@ -223,5 +223,5 @@ Drummond Company exemplifies how fossil fuel extraction industries leverage poli
 | Registration | LAPSED |
 | Last Updated | 2025-10-08T00:05:10Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->

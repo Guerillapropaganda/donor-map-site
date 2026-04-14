@@ -79,14 +79,14 @@ Preemption of local short-term rental regulations, reduced hotel tax requirement
 | Grants (recent 3yr) | 0 ($0 sampled) |
 | Federal Agencies | 0 |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Airbnb) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Airbnb) (Tier 1) (VERIFIED)
 
 <!-- auto:usaspending end -->
 
 ### Sources
 
-- [OpenSecrets: Airbnb lobbying](https://www.opensecrets.org/orgs/airbnb-inc/summary?id=D000067232) (Tier 1)
-- [Ballotpedia: Short-term rental regulations](https://ballotpedia.org/Airbnb) (Tier 3)
+- [OpenSecrets: Airbnb lobbying](https://www.opensecrets.org/orgs/airbnb-inc/summary?id=D000067232) (Tier 1) (VERIFIED)
+- [Ballotpedia: Short-term rental regulations](https://ballotpedia.org/Airbnb) (Tier 3) (VERIFIED)
 
 ---
 
@@ -119,7 +119,7 @@ Preemption of local short-term rental regulations, reduced hotel tax requirement
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Airbnb) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Airbnb) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -132,14 +132,14 @@ Preemption of local short-term rental regulations, reduced hotel tax requirement
 | Total Expenses | $14.0M |
 | Net Assets | $19.4M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 833135259](https://projects.propublica.org/nonprofits/organizations/833135259) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 833135259](https://projects.propublica.org/nonprofits/organizations/833135259) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [549300HMUDNO0RY56D37](https://search.gleif.org/#/record/549300HMUDNO0RY56D37) |
+| LEI | [549300HMUDNO0RY56D37](https://search.gleif.org/#/record/549300HMUDNO0RY56D37) (VERIFIED) |
 | Legal Name | AIRBNB, INC. |
 | Jurisdiction | US-DE |
 | Entity Status | ACTIVE |
@@ -147,7 +147,7 @@ Preemption of local short-term rental regulations, reduced hotel tax requirement
 | Registration | ISSUED |
 | Last Updated | 2025-11-10T19:01:56Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Federal Register Activity
@@ -161,15 +161,15 @@ Preemption of local short-term rental regulations, reduced hotel tax requirement
 | Agencies | Antitrust Division, Energy Department, Federal Energy Regulatory Commission, Federal Trade Commission, Homeland Security Department, Justice Department, Regulatory Information Service Center, Securities and Exchange Commission +1 more |
 
 **Recent regulatory activity:**
-- [Termination of the Designation of Honduras for Temporary Protected Status](https://www.federalregister.gov/documents/2025/07/08/2025-12621/termination-of-the-designation-of-honduras-for-temporary-protected-status) (2025-07-08) — Homeland Security Department
-- [Trade Regulation Rule on Unfair or Deceptive Fees](https://www.federalregister.gov/documents/2025/01/10/2024-30293/trade-regulation-rule-on-unfair-or-deceptive-fees) (2025-01-10) — Federal Trade Commission
-- [Trade Regulation Rule on Unfair or Deceptive Fees](https://www.federalregister.gov/documents/2023/11/09/2023-24234/trade-regulation-rule-on-unfair-or-deceptive-fees) (2023-11-09) — Federal Trade Commission
-- [Energy Conservation Program: Energy Conservation Standards for Consumer Pool Heaters](https://www.federalregister.gov/documents/2023/05/30/2023-10849/energy-conservation-program-energy-conservation-standards-for-consumer-pool-heaters) (2023-05-30) — Energy Department ★
-- [United States v. ASSA ABLOY AB, et al.; Proposed Final Judgment and Competitive Impact Statement](https://www.federalregister.gov/documents/2023/05/15/2023-10343/united-states-v-assa-abloy-ab-et-al-proposed-final-judgment-and-competitive-impact-statement) (2023-05-15) — Justice Department
-- [Trade Regulation Rule on Commercial Surveillance and Data Security](https://www.federalregister.gov/documents/2022/08/22/2022-17752/trade-regulation-rule-on-commercial-surveillance-and-data-security) (2022-08-22) — Federal Trade Commission
+- [Termination of the Designation of Honduras for Temporary Protected Status](https://www.federalregister.gov/documents/2025/07/08/2025-12621/termination-of-the-designation-of-honduras-for-temporary-protected-status) (VERIFIED) (2025-07-08) — Homeland Security Department
+- [Trade Regulation Rule on Unfair or Deceptive Fees](https://www.federalregister.gov/documents/2025/01/10/2024-30293/trade-regulation-rule-on-unfair-or-deceptive-fees) (VERIFIED) (2025-01-10) — Federal Trade Commission
+- [Trade Regulation Rule on Unfair or Deceptive Fees](https://www.federalregister.gov/documents/2023/11/09/2023-24234/trade-regulation-rule-on-unfair-or-deceptive-fees) (VERIFIED) (2023-11-09) — Federal Trade Commission
+- [Energy Conservation Program: Energy Conservation Standards for Consumer Pool Heaters](https://www.federalregister.gov/documents/2023/05/30/2023-10849/energy-conservation-program-energy-conservation-standards-for-consumer-pool-heaters) (VERIFIED) (2023-05-30) — Energy Department ★
+- [United States v. ASSA ABLOY AB, et al.; Proposed Final Judgment and Competitive Impact Statement](https://www.federalregister.gov/documents/2023/05/15/2023-10343/united-states-v-assa-abloy-ab-et-al-proposed-final-judgment-and-competitive-impact-statement) (VERIFIED) (2023-05-15) — Justice Department
+- [Trade Regulation Rule on Commercial Surveillance and Data Security](https://www.federalregister.gov/documents/2022/08/22/2022-17752/trade-regulation-rule-on-commercial-surveillance-and-data-security) (VERIFIED) (2022-08-22) — Federal Trade Commission
 - ... and 5 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Airbnb%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Airbnb%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### DOJ Press Releases

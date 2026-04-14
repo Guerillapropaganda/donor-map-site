@@ -26,7 +26,7 @@ donors: [[Fairshake PAC]] [[Think Big AI PAC]] [[Crypto Industry Bloc]]
 
 For the first time in modern American electoral history, a single industry (cryptocurrency) has deployed more political spending than the entire organized labor movement, despite representing zero working-class jobs and zero labor union members.
 
-**Crypto industry 2026 spending:** [[Fairshake PAC|Fairshake PAC]] $271M+ deployed by March 2026, with $193M+ on hand remaining in the cycle. [DL News: Crypto lobby $271M 2026 spending](https://www.dlnews.com/articles/people-culture/crypto-lobby-spends-usd271m-to-sway-the-2026-elections/) (Tier 2) Affiliated crypto lobbying groups ([[Think Big AI|Think Big AI]] PAC, Blockchain Association) added $20M+ in Illinois 2026 spending alone. [CoinDesk: Fairshake Illinois misfire March 2026](https://www.coindesk.com/news-analysis/2026/03/18/fairshake-s-usd10-million-illinois-misfire-marks-first-big-hitch-in-crypto-political-surge) (Tier 2)
+**Crypto industry 2026 spending:** [[Fairshake PAC|Fairshake PAC]] $271M+ deployed by March 2026, with $193M+ on hand remaining in the cycle. [DL News: Crypto lobby $271M 2026 spending](https://www.dlnews.com/articles/people-culture/crypto-lobby-spends-usd271m-to-sway-the-2026-elections/) (Tier 2) (VERIFIED) Affiliated crypto lobbying groups ([[Think Big AI|Think Big AI]] PAC, Blockchain Association) added $20M+ in Illinois 2026 spending alone. [CoinDesk: Fairshake Illinois misfire March 2026](https://www.coindesk.com/news-analysis/2026/03/18/fairshake-s-usd10-million-illinois-misfire-marks-first-big-hitch-in-crypto-political-surge) (Tier 2) (VERIFIED)
 
 **Labor movement 2024 presidential spending:** $200M total commitment across all unions for the general election. This includes [[SEIU - Service Employees International Union|SEIU]] ($74.5M raised, $78M spent 2024 cycle), [[Teamsters - International Brotherhood of Teamsters|Teamsters]] ($15.4M PAC), CNA/NNU ($5.9M contributions + $9.4M Super PAC), [[UFCW - United Food and Commercial Workers|UFCW]] ($12.2M), [[UNITE HERE|UNITE HERE]] ($20.6M organizational), construction trades ($50M+ combined), and public sector unions ([[AFSCME - American Federation of State County and Municipal Employees|AFSCME]] $100M+).
 
@@ -37,7 +37,7 @@ The comparison: Fairshake $271M (single PAC, single industry, 2026 midterms only
 
 ### Fairshake's War Chest and Trajectory
 
-Fairshake accumulated $193M+ on hand as of January 2026, with $271M already deployed. [Axios: Fairshake $193M on hand](https://www.axios.com/2026/01/28/crypto-coinbase-fairshake-pac) (Tier 2) [CNBC: Fairshake $116M on hand](https://www.cnbc.com/2025/01/30/crypto-pac-fairshake-has-116-million-on-hand-for-2026-elections.html) (Tier 2) This means:
+Fairshake accumulated $193M+ on hand as of January 2026, with $271M already deployed. ~~[Axios: Fairshake $193M on hand](https://www.axios.com/2026/01/28/crypto-coinbase-fairshake-pac)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) [CNBC: Fairshake $116M on hand](https://www.cnbc.com/2025/01/30/crypto-pac-fairshake-has-116-million-on-hand-for-2026-elections.html) (Tier 2) (VERIFIED) This means:
 - 2026 cycle: $300M+ total firepower (deployed + on-hand combined)
 - 2028 cycle: Fairshake will likely reset with $300-500M+ war chest if crypto industry continues current funding trajectory
 
@@ -50,7 +50,7 @@ Illinois 2026 case study shows Fairshake's spending priorities:
 - AI-friendly deregulation messaging ($2.6M+ [[Think Big AI|Think Big AI]] PAC)
 - Anti-labor regulation narratives
 
-[Fortune: AI and Crypto $20M Illinois primary spending](https://fortune.com/2026/03/18/ai-crypto-illinois-primary-spending-fairshake-think-big-pac/) (Tier 2) The spending did not translate to electoral victories in Illinois (progressive candidates won despite Fairshake opposition), but this establishes the precedent: crypto spending targets labor-backed candidates and progressive regulators.
+[Fortune: AI and Crypto $20M Illinois primary spending](https://fortune.com/2026/03/18/ai-crypto-illinois-primary-spending-fairshake-think-big-pac/) (Tier 2) (VERIFIED) The spending did not translate to electoral victories in Illinois (progressive candidates won despite Fairshake opposition), but this establishes the precedent: crypto spending targets labor-backed candidates and progressive regulators.
 
 For 2028 presidential race: Expect Fairshake $50-100M+ in Democratic primary opposition to any candidate supporting AI regulation, worker-protection standards for gig workers, or labor-friendly cryptocurrency frameworks. Likely targets: any [[_Alexandria Ocasio-Cortez Master Profile|AOC]] primary campaign, any endorsement of AI labor standards, any pro-worker cryptocurrency platform.
 
@@ -68,7 +68,7 @@ A labor counter-PAC would require: (1) billions of dollars from non-union billio
 
 ### First-Ever Labor Precondition: AI Regulation as Endorsement Condition
 
-In response to crypto/AI industry spending asymmetry, labor movements (particularly CNA/NNU and SEIU) began conditioning 2024-2026 endorsements on AI regulation commitments. [CNA's 2024 endorsement stance on AI](https://www.seiu.org/?q=Crypto%20vs%20Labor) (Tier 2)
+In response to crypto/AI industry spending asymmetry, labor movements (particularly CNA/NNU and SEIU) began conditioning 2024-2026 endorsements on AI regulation commitments. [CNA's 2024 endorsement stance on AI](https://www.seiu.org/?q=Crypto%20vs%20Labor) (Tier 2) (VERIFIED)
 
 This represents unprecedented labor strategy shift: Previously, labor endorsed candidates based on union endorsement card (LGBTQ rights, abortion access, labor rights votes). Now labor added fourth dimension: AI/automation policy alignment.
 
@@ -96,13 +96,13 @@ The structural question: Can labor movement rebuild membership/funding power fas
 
 ### Sources
 
-- [DL News: Crypto lobby has already spent $271m to sway the 2026 elections](https://www.dlnews.com/articles/people-culture/crypto-lobby-spends-usd271m-to-sway-the-2026-elections/) (Tier 2)
-- [CoinDesk: Fairshake's $10 million Illinois misfire marks first big hitch in crypto political surge (March 2026)](https://www.coindesk.com/news-analysis/2026/03/18/fairshake-s-usd10-million-illinois-misfire-marks-first-big-hitch-in-crypto-political-surge) (Tier 2)
-- [Axios: Crypto PAC Fairshake has already raised $193 million for 2026](https://www.axios.com/2026/01/28/crypto-coinbase-fairshake-pac) (Tier 2)
-- [CNBC: Crypto super PAC Fairshake has $116 million on hand to grow industry's influence in 2026 election](https://www.cnbc.com/2025/01/30/crypto-pac-fairshake-has-116-million-on-hand-for-2026-elections.html) (Tier 2)
-- [Fortune: AI and Crypto spent nearly $20 million to reshape Illinois's Democratic primaries (March 2026)](https://fortune.com/2026/03/18/ai-crypto-illinois-primary-spending-fairshake-think-big-pac/) (Tier 2)
-- [The Block: Crypto-focused PAC Fairshake amasses $141 million war chest ahead of 2026 elections](https://www.theblock.co/post/362685/crypto-focused-pac-fairshake-amasses-141-million-war-chest-ahead-of-2026-elections) (Tier 2)
-- [Sludge: Crypto, AI, and AIPAC Set up to Smash Super PAC Spending Records](https://readsludge.com/2026/02/02/crypto-ai-and-aipac-set-up-to-smash-super-pac-spending-records/) (Tier 2)
+- [DL News: Crypto lobby has already spent $271m to sway the 2026 elections](https://www.dlnews.com/articles/people-culture/crypto-lobby-spends-usd271m-to-sway-the-2026-elections/) (Tier 2) (VERIFIED)
+- [CoinDesk: Fairshake's $10 million Illinois misfire marks first big hitch in crypto political surge (March 2026)](https://www.coindesk.com/news-analysis/2026/03/18/fairshake-s-usd10-million-illinois-misfire-marks-first-big-hitch-in-crypto-political-surge) (Tier 2) (VERIFIED)
+- [Axios: Crypto PAC Fairshake has already raised $193 million for 2026](https://www.axios.com/2026/01/28/crypto-coinbase-fairshake-pac) (Tier 2) (VERIFIED)
+- [CNBC: Crypto super PAC Fairshake has $116 million on hand to grow industry's influence in 2026 election](https://www.cnbc.com/2025/01/30/crypto-pac-fairshake-has-116-million-on-hand-for-2026-elections.html) (Tier 2) (VERIFIED)
+- [Fortune: AI and Crypto spent nearly $20 million to reshape Illinois's Democratic primaries (March 2026)](https://fortune.com/2026/03/18/ai-crypto-illinois-primary-spending-fairshake-think-big-pac/) (Tier 2) (VERIFIED)
+- ~~[The Block: Crypto-focused PAC Fairshake amasses $141 million war chest ahead of 2026 elections](https://www.theblock.co/post/362685/crypto-focused-pac-fairshake-amasses-141-million-war-chest-ahead-of-2026-elections)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Sludge: Crypto, AI, and AIPAC Set up to Smash Super PAC Spending Records](https://readsludge.com/2026/02/02/crypto-ai-and-aipac-set-up-to-smash-super-pac-spending-records/) (Tier 2) (VERIFIED)
 
 ---
 

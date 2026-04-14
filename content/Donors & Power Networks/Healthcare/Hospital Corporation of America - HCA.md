@@ -30,7 +30,7 @@ HCA Healthcare, Inc. The largest for-profit hospital operator in the world ($65 
 
 HCA PAC contributes $2-3 million per cycle, with lobbying spending of $5-8 million annually. The company's political operation focuses on Medicaid reimbursement rates, Medicare payment policies, certificate-of-need laws (which restrict competition from new hospitals), and opposition to Medicare for All or any single-payer proposal.
 
-- [OpenSecrets: HCA Healthcare organizational profile](https://www.opensecrets.org/orgs/hca-healthcare/summary?id=D000000458) (Tier 1)
+- [OpenSecrets: HCA Healthcare organizational profile](https://www.opensecrets.org/orgs/hca-healthcare/summary?id=D000000458) (Tier 1) (VERIFIED)
 
 ---
 
@@ -54,8 +54,8 @@ Favorable Medicare/Medicaid reimbursement rates, preservation of certificate-of-
 ### Sources
 
 - [OpenSecrets: HCA Healthcare organizational profile](https://www.opensecrets.org/orgs/hca-healthcare/summary?id=D000000458) (Tier 1)
-- [HCA Healthcare: SEC 10-K filing](https://www.sec.gov/cgi-bin/browse-edgar?company=Hospital%20Corporation%20of%20America%20-%20HCA&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)
-- [Ballotpedia: HCA Healthcare](https://ballotpedia.org/HCA_Healthcare) (Tier 3)
+- [HCA Healthcare: SEC 10-K filing](https://www.sec.gov/cgi-bin/browse-edgar?company=Hospital%20Corporation%20of%20America%20-%20HCA&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1) (VERIFIED)
+- [Ballotpedia: HCA Healthcare](https://ballotpedia.org/HCA_Healthcare) (Tier 3) (VERIFIED)
 
 ---
 
@@ -86,7 +86,7 @@ Favorable Medicare/Medicaid reimbursement rates, preservation of certificate-of-
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Hospital%20Corporation%20of%20America%20-%20HCA) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Hospital%20Corporation%20of%20America%20-%20HCA) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### FTC Enforcement & Merger Review
@@ -103,17 +103,17 @@ Favorable Medicare/Medicaid reimbursement rates, preservation of certificate-of-
 
 **Recent enforcement actions (historical):**
 
-- [Columbia / HCA HealthCare Corp](http://www.ftc.gov/os/caselist/c3544.shtm) (1998-07-30)
+- [Columbia / HCA HealthCare Corp](http://www.ftc.gov/os/caselist/c3544.shtm) (NEEDS REVIEW) (1998-07-30)
 
 **Recent HSR merger filings (early terminations granted):**
 
-- [HCA Healthcare, Inc. → Isleworth Partners, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20191234) (2019-05-17)
-- [HCA Healthcare, Inc. → North Cypress Medical Center Operation Company, LTD](https://www.ftc.gov/legal-library/browse/early-termination-notices/20181355) (2018-06-06)
-- [HCA Healthcare, Inc. → Memorial Health, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20180288) (2017-12-08)
-- [HCA Healthcare, Inc. → Community Health System, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20171251) (2017-06-29)
-- [HCA Healthcare, Inc. → Tenet Healthcare Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20171206) (2017-06-29)
+- [HCA Healthcare, Inc. → Isleworth Partners, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20191234) (VERIFIED) (2019-05-17)
+- [HCA Healthcare, Inc. → North Cypress Medical Center Operation Company, LTD](https://www.ftc.gov/legal-library/browse/early-termination-notices/20181355) (VERIFIED) (2018-06-06)
+- [HCA Healthcare, Inc. → Memorial Health, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20180288) (VERIFIED) (2017-12-08)
+- [HCA Healthcare, Inc. → Community Health System, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20171251) (VERIFIED) (2017-06-29)
+- [HCA Healthcare, Inc. → Tenet Healthcare Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20171206) (VERIFIED) (2017-06-29)
 
-> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Hospital%20Corporation%20of%20America%20-%20HCA).
+> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Hospital%20Corporation%20of%20America%20-%20HCA) (VERIFIED).
 
-- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Hospital%20Corporation%20of%20America%20-%20HCA) (Tier 1)
+- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Hospital%20Corporation%20of%20America%20-%20HCA) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->

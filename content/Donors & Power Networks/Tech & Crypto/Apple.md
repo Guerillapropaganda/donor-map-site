@@ -110,7 +110,7 @@ Apple Inc. The most valuable corporation in the world by market capitalization (
 
 Apple's unique political positioning: the company brands itself as the pro-privacy tech company, using privacy as both a genuine product feature and a competitive weapon against advertising-dependent rivals like Google and Meta.
 
-- [OpenSecrets: Apple Inc organizational profile](https://www.opensecrets.org/orgs/apple-inc/summary?id=D000021754) (Tier 1)
+- [OpenSecrets: Apple Inc organizational profile](https://www.opensecrets.org/orgs/apple-inc/summary?id=D000021754) (Tier 1) (VERIFIED)
 
 ---
 
@@ -150,12 +150,12 @@ Apple occupies a unique position: a corporation that extracts value through cons
 ### Sources
 
 - [OpenSecrets: Apple Inc organizational profile](https://www.opensecrets.org/orgs/apple-inc/summary?id=D000021754) (Tier 1)
-- [OpenSecrets: Apple Inc lobbying expenditures](https://www.opensecrets.org/orgs/apple-inc/lobbying?id=D000021754) (Tier 1)
-- [DOJ: United States v. Apple Inc. antitrust complaint (2024)](https://www.justice.gov/archives/opa/pr/justice-department-sues-apple-monopolizing-smartphone-markets) (Tier 1)
-- [SEC: Apple 10-K filing, offshore cash and repatriation](https://www.sec.gov/cgi-bin/browse-edgar?company=apple&CIK=&type=10-K) (Tier 1)
-- [Washington Post: Senators want to rein in Apple and Google's app store dominance](https://www.washingtonpost.com/technology/2021/08/11/apple-google-senators-app-store-conflict/) (Tier 2)
-- [The Verge: Apple right-to-repair reversal and self-service repair pricing](https://www.theverge.com/apple-self-service-repair-pricing/) (Tier 2)
-- [Ballotpedia: Apple Inc political spending](https://ballotpedia.org/Apple_Inc.) (Tier 3)
+- [OpenSecrets: Apple Inc lobbying expenditures](https://www.opensecrets.org/orgs/apple-inc/lobbying?id=D000021754) (Tier 1) (VERIFIED)
+- [DOJ: United States v. Apple Inc. antitrust complaint (2024)](https://www.justice.gov/archives/opa/pr/justice-department-sues-apple-monopolizing-smartphone-markets) (Tier 1) (VERIFIED)
+- [SEC: Apple 10-K filing, offshore cash and repatriation](https://www.sec.gov/cgi-bin/browse-edgar?company=apple&CIK=&type=10-K) (Tier 1) (VERIFIED)
+- [Washington Post: Senators want to rein in Apple and Google's app store dominance](https://www.washingtonpost.com/technology/2021/08/11/apple-google-senators-app-store-conflict/) (Tier 2) (VERIFIED)
+- ~~[The Verge: Apple right-to-repair reversal and self-service repair pricing](https://www.theverge.com/apple-self-service-repair-pricing/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Ballotpedia: Apple Inc political spending](https://ballotpedia.org/Apple_Inc.) (Tier 3) (VERIFIED)
 
 ---
 
@@ -187,7 +187,7 @@ Apple occupies a unique position: a corporation that extracts value through cons
 
 **Agencies contacted:** Agriculture, Dept of (USDA), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Consumer Financial Protection Bureau (CFPB), Defense, Dept of (DOD), Energy, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP), Federal Aviation Administration (FAA), Federal Communications Commission (FCC) +15 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Apple) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Apple) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Financial Overview (990 Filing - 2023)
@@ -200,7 +200,7 @@ Apple occupies a unique position: a corporation that extracts value through cons
 | Total Expenses | $693 |
 | Net Assets | $61.9M |
 
-- [Source: ProPublica Nonprofit Explorer - EIN 870911755](https://projects.propublica.org/nonprofits/organizations/870911755) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer - EIN 870911755](https://projects.propublica.org/nonprofits/organizations/870911755) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Influence Network (Cross-Reference)
@@ -311,7 +311,7 @@ Apple occupies a unique position: a corporation that extracts value through cons
 | Ship Building and Repairing (336611) | $2.9M |
 | Construction Machinery Manufacturing (333120) | $2.2M |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Apple) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Apple) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Federal Court Records (CourtListener)
@@ -330,7 +330,7 @@ Apple occupies a unique position: a corporation that extracts value through cons
 - Poole v. Maxine Productions, LLC (2026) - District Court, S.D. New York
 - United States v. Application For Order Commanding Apple Inc. Not To Notify Any Person Of The Existence Of Subpoena (2026) - District Court, S.D. Florida
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Apple%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Apple%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Register Activity
@@ -344,15 +344,15 @@ Apple occupies a unique position: a corporation that extracts value through cons
 | Agencies | Agriculture Department, Animal and Plant Health Inspection Service, Antitrust Division, Commerce Department, Energy Department, Environmental Protection Agency, Federal Communications Commission, Federal Energy Regulatory Commission +7 more |
 
 **Recent regulatory activity:**
-- [Notice of Intended Repatriation: California State University, Fullerton, Fullerton, CA](https://www.federalregister.gov/documents/2026/04/02/2026-06356/notice-of-intended-repatriation-california-state-university-fullerton-fullerton-ca) (2026-04-02) - Interior Department
-- [Supplemental Guidance for Examination of Design Patent Applications Related to Computer-Generated Interfaces and Icons](https://www.federalregister.gov/documents/2026/03/13/2026-04987/supplemental-guidance-for-examination-of-design-patent-applications-related-to-computer-generated) (2026-03-13) - Commerce Department
-- [Agency Information Collection Activities; Notice and Request for Comment; Distraction: Personal Electronic Devices](https://www.federalregister.gov/documents/2026/03/06/2026-04440/agency-information-collection-activities-notice-and-request-for-comment-distraction-personal) (2026-03-06) - Transportation Department
-- [Unlicensed Use of the 6 GHz Band; Expanding Flexible Use in Mid-Band Spectrum Between 3.7 and 24 GHz](https://www.federalregister.gov/documents/2026/02/25/2026-03744/unlicensed-use-of-the-6-ghz-band-expanding-flexible-use-in-mid-band-spectrum-between-37-and-24-ghz) (2026-02-25) - Federal Communications Commission
-- [Marine Mammals; File No. 28985](https://www.federalregister.gov/documents/2026/02/23/2026-03474/marine-mammals-file-no-28985) (2026-02-23) - Commerce Department
-- [Pesticide Tolerances; Implementing Registration Review Decisions for Certain Pesticides; Diphenylamine, et al.](https://www.federalregister.gov/documents/2026/02/20/2026-03371/pesticide-tolerances-implementing-registration-review-decisions-for-certain-pesticides-diphenylamine) (2026-02-20) - Environmental Protection Agency
+- [Notice of Intended Repatriation: California State University, Fullerton, Fullerton, CA](https://www.federalregister.gov/documents/2026/04/02/2026-06356/notice-of-intended-repatriation-california-state-university-fullerton-fullerton-ca) (VERIFIED) (2026-04-02) - Interior Department
+- [Supplemental Guidance for Examination of Design Patent Applications Related to Computer-Generated Interfaces and Icons](https://www.federalregister.gov/documents/2026/03/13/2026-04987/supplemental-guidance-for-examination-of-design-patent-applications-related-to-computer-generated) (VERIFIED) (2026-03-13) - Commerce Department
+- [Agency Information Collection Activities; Notice and Request for Comment; Distraction: Personal Electronic Devices](https://www.federalregister.gov/documents/2026/03/06/2026-04440/agency-information-collection-activities-notice-and-request-for-comment-distraction-personal) (VERIFIED) (2026-03-06) - Transportation Department
+- [Unlicensed Use of the 6 GHz Band; Expanding Flexible Use in Mid-Band Spectrum Between 3.7 and 24 GHz](https://www.federalregister.gov/documents/2026/02/25/2026-03744/unlicensed-use-of-the-6-ghz-band-expanding-flexible-use-in-mid-band-spectrum-between-37-and-24-ghz) (VERIFIED) (2026-02-25) - Federal Communications Commission
+- [Marine Mammals; File No. 28985](https://www.federalregister.gov/documents/2026/02/23/2026-03474/marine-mammals-file-no-28985) (VERIFIED) (2026-02-23) - Commerce Department
+- ~~[Pesticide Tolerances; Implementing Registration Review Decisions for Certain Pesticides; Diphenylamine, et al.](https://www.federalregister.gov/documents/2026/02/20/2026-03371/pesticide-tolerances-implementing-registration-review-decisions-for-certain-pesticides-diphenylamine)~~ (URL broken, archived by Ops) (2026-02-20) - Environmental Protection Agency
 - ... and 3,366 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Apple%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Apple%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Federal Spending (USASpending)
@@ -384,7 +384,7 @@ Apple occupies a unique position: a corporation that extracts value through cons
 | $7.1M | Department of Education | REPLICATING HIGH-QUALITY CHARTER PRESCHOOLS |
 | $7.0M | Department of Agriculture | TO CONDUCT APPROVED MARKET DEVELOPMENT ACTIVITIES INTENDED TO FOSTER EXPANDED EXPORTS AND MARKET DIV |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/f6912e36-6cca-1f27-b7de-3d9631b48ec0-C/latest) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/f6912e36-6cca-1f27-b7de-3d9631b48ec0-C/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### SEC Filing Activity
@@ -398,11 +398,11 @@ Apple occupies a unique position: a corporation that extracts value through cons
 
 **Notable filings:**
 
-- 2026-04-03 - **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/320193/000114036126013192/0001140361-26-013192-index.htm)
-- 2026-04-03 - **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/320193/000114036126013191/0001140361-26-013191-index.htm)
-- 2026-04-03 - **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/320193/000114036126013190/0001140361-26-013190-index.htm)
-- 2026-04-02 - **144**: [144](https://www.sec.gov/Archives/edgar/data/320193/000196922326000420/0001969223-26-000420-index.htm)
-- 2026-04-02 - **144**: [144](https://www.sec.gov/Archives/edgar/data/320193/000195917326002757/0001959173-26-002757-index.htm)
+- 2026-04-03 - **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/320193/000114036126013192/0001140361-26-013192-index.htm) (VERIFIED)
+- 2026-04-03 - **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/320193/000114036126013191/0001140361-26-013191-index.htm) (VERIFIED)
+- 2026-04-03 - **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/320193/000114036126013190/0001140361-26-013190-index.htm) (VERIFIED)
+- 2026-04-02 - **144**: [144](https://www.sec.gov/Archives/edgar/data/320193/000196922326000420/0001969223-26-000420-index.htm) (VERIFIED)
+- 2026-04-02 - **144**: [144](https://www.sec.gov/Archives/edgar/data/320193/000195917326002757/0001959173-26-002757-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Apple%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Apple%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->

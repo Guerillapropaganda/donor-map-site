@@ -157,11 +157,11 @@ The revolving door between CAP and Democratic administrations reveals **structur
 
 ### Sources
 
-- [OpenSecrets: Center for American Progress organizational profile](https://www.opensecrets.org/orgs/center-for-american-progress/summary) (Tier 1)
-- [IRS Form 990: Center for American Progress (2022-2023)](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Center%20for%20American%20Progress&city=&state=All+States&country=US) (Tier 1)
-- [The Nation: The Secret Donors Behind the Center for American Progress](https://www.thenation.com/article/archive/secret-donors-behind-center-american-progress-and-other-think-tanks-updated-524/) (Tier 2)
-- [Salon: Center for American Progress and revolving door politics](https://www.salon.com/2017/12/05/how-center-for-american-progress-became-a-corporate-think-tank/) (Tier 3)
-- [The American Prospect: CAP's role in Democratic strategy](https://prospect.org/2023/07/11/2023-07-11-gunning-for-more-va-privatization/) (Tier 3)
+- ~~[OpenSecrets: Center for American Progress organizational profile](https://www.opensecrets.org/orgs/center-for-american-progress/summary)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[IRS Form 990: Center for American Progress (2022-2023)](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Center%20for%20American%20Progress&city=&state=All+States&country=US)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [The Nation: The Secret Donors Behind the Center for American Progress](https://www.thenation.com/article/archive/secret-donors-behind-center-american-progress-and-other-think-tanks-updated-524/) (Tier 2) (VERIFIED)
+- ~~[Salon: Center for American Progress and revolving door politics](https://www.salon.com/2017/12/05/how-center-for-american-progress-became-a-corporate-think-tank/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [The American Prospect: CAP's role in Democratic strategy](https://prospect.org/2023/07/11/2023-07-11-gunning-for-more-va-privatization/) (Tier 3) (VERIFIED)
 
 ### Financial Overview (990 Filing — 2023)
 <!-- auto:propublica-990 start -->
@@ -175,7 +175,7 @@ The revolving door between CAP and Democratic administrations reveals **structur
 | Net Assets | $99.3M |
 | Officer Compensation | $1.2M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 300126510](https://projects.propublica.org/nonprofits/organizations/300126510) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 300126510](https://projects.propublica.org/nonprofits/organizations/300126510) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Federal Court Records (CourtListener)
@@ -194,7 +194,7 @@ The revolving door between CAP and Democratic administrations reveals **structur
 - United States v. Fontes (2026) — District Court, D. Arizona
 - United States v. Thomas (2026) — District Court, D. Connecticut
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Center%20for%20American%20Progress%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Center%20for%20American%20Progress%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### SEC Filing Activity
@@ -212,7 +212,7 @@ The revolving door between CAP and Democratic administrations reveals **structur
 - 2014-04-15 — **EX-99.1**: IFRS USD PRESS RELEASE
 - 2014-04-18 — **EX-99.2 BYLAWS**: IFRS INR PRESS RELEASE
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Center%20for%20American%20Progress%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Center%20for%20American%20Progress%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Lobbying Activity
@@ -231,7 +231,7 @@ The revolving door between CAP and Democratic administrations reveals **structur
 
 **Agencies contacted:** Agency for Healthcare Research & Quality (AHRQ), Centers For Disease Control & Prevention (CDC), Centers For Medicare and Medicaid Services (CMS), Commodity Futures Trading Commission (CFTC), Education, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP), Food & Drug Administration (FDA), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS) +14 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Center%20for%20American%20Progress) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Center%20for%20American%20Progress) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Wikipedia
@@ -240,13 +240,13 @@ The Center for American Progress (CAP) is a public policy research and advocacy 
 
 | Fact | Value |
 |------|-------|
-| Wikidata ID | [Q368035](https://www.wikidata.org/wiki/Q368035) |
+| Wikidata ID | [Q368035](https://www.wikidata.org/wiki/Q368035) (VERIFIED) |
 | Description | progressive think tank in the United States |
 | Founded | 2003-00-00 |
-| Website | [https://americanprogress.org/](https://americanprogress.org/) |
-| X/Twitter | [@amprog](https://x.com/amprog) |
-| Image | [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/CAP_logo_Nov_2021.svg/330px-CAP_logo_Nov_2021.svg.png) |
+| Website | [https://americanprogress.org/](https://americanprogress.org/) (VERIFIED) |
+| X/Twitter | [@amprog](https://x.com/amprog) (VERIFIED) |
+| Image | [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/CAP_logo_Nov_2021.svg/330px-CAP_logo_Nov_2021.svg.png) (VERIFIED) |
 
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/Center_for_American_Progress) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q368035) (Tier 2)
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Center_for_American_Progress) (Tier 3) (VERIFIED)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q368035) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->

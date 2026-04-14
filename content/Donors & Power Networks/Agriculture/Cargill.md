@@ -411,7 +411,7 @@ The 42 FDA recalls (including 10 Class I, the most serious category) and 12,441 
 - In Re: Nexstar-TEGNA Merger Litigation (2026) — District Court, E.D. California
 - Sue Kim v. Target Corporation (2026) — District Court, C.D. California
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Cargill%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Cargill%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 <!-- auto:courtlistener-cases pending-merge 2026-04-11 -->
@@ -471,7 +471,7 @@ The 42 FDA recalls (including 10 Class I, the most serious category) and 12,441 
 
 _Variant firm names in FDA data: Cargill, Inc         Corporate Headquarters; Cargill Cocoa & Chocolate, Inc.; Cargill Cocoa and Chocolate Inc; Cargill Salt; Cargill Cocoa and Chocolate, Inc._
 
-- [Source: openFDA / FDA Enforcement Reports](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?search_api_fulltext=Cargill) (Tier 1)
+- [Source: openFDA / FDA Enforcement Reports](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?search_api_fulltext=Cargill) (Tier 1) (VERIFIED)
 <!-- auto:fda-enforcement end -->
 
 ### FTC Enforcement & Merger Review
@@ -483,15 +483,15 @@ _Variant firm names in FDA data: Cargill, Inc         Corporate Headquarters; Ca
 
 **Recent HSR merger filings (early terminations granted):**
 
-- [Cargill, Incorporated → CW Brand Holdings, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20180220) (2017-11-28)
-- [Mitsubishi Corporation → Cargill Incorporated](https://www.ftc.gov/legal-library/browse/early-termination-notices/20172017) (2017-09-29)
-- [Cargill, Incorporated → Southern States Cooperative, Incorporated](https://www.ftc.gov/legal-library/browse/early-termination-notices/20171826) (2017-09-05)
-- [Macquarie Group Limited → Cargill Incorporated](https://www.ftc.gov/legal-library/browse/early-termination-notices/20171540) (2017-07-18)
-- [Macquarie Group Limited → Cargill, Incorporated](https://www.ftc.gov/legal-library/browse/early-termination-notices/20171126) (2017-05-19)
+- [Cargill, Incorporated → CW Brand Holdings, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20180220) (VERIFIED) (2017-11-28)
+- [Mitsubishi Corporation → Cargill Incorporated](https://www.ftc.gov/legal-library/browse/early-termination-notices/20172017) (VERIFIED) (2017-09-29)
+- [Cargill, Incorporated → Southern States Cooperative, Incorporated](https://www.ftc.gov/legal-library/browse/early-termination-notices/20171826) (VERIFIED) (2017-09-05)
+- [Macquarie Group Limited → Cargill Incorporated](https://www.ftc.gov/legal-library/browse/early-termination-notices/20171540) (VERIFIED) (2017-07-18)
+- [Macquarie Group Limited → Cargill, Incorporated](https://www.ftc.gov/legal-library/browse/early-termination-notices/20171126) (VERIFIED) (2017-05-19)
 
-> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Cargill).
+> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Cargill) (VERIFIED).
 
-- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Cargill) (Tier 1)
+- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Cargill) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->
 
 ### Tax Filings (IRS 990)
@@ -508,11 +508,11 @@ _Variant firm names in FDA data: Cargill, Inc         Corporate Headquarters; Ca
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/416020221/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/416020221/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/416020221/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/416020221/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/416020221/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/416020221/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/416020221/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/416020221/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/416020221/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/416020221/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/416020221) (Tier 1)
@@ -524,22 +524,22 @@ Cargill, Incorporated is an American multinational food corporation based in Min
 
 | Fact | Value |
 |------|-------|
-| Wikidata ID | [Q1036056](https://www.wikidata.org/wiki/Q1036056) |
+| Wikidata ID | [Q1036056](https://www.wikidata.org/wiki/Q1036056) (VERIFIED) |
 | Description | American-based international food conglomerate |
 | Founded | 1865-01-01 |
-| Website | [http://cargill.com](http://cargill.com) |
-| X/Twitter | [@Cargill](https://x.com/Cargill) |
-| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Cargill_grain_elevator_and_terminal.jpg?width=300) |
+| Website | ~~[http://cargill.com](http://cargill.com)~~ (URL broken, archived by Ops) |
+| X/Twitter | [@Cargill](https://x.com/Cargill) (VERIFIED) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Cargill_grain_elevator_and_terminal.jpg?width=300) (NEEDS REVIEW) |
 
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/Cargill) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q1036056) (Tier 2)
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Cargill) (Tier 3) (VERIFIED)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q1036056) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [549300B5ALGB4HZFWU97](https://search.gleif.org/#/record/549300B5ALGB4HZFWU97) |
+| LEI | [549300B5ALGB4HZFWU97](https://search.gleif.org/#/record/549300B5ALGB4HZFWU97) (VERIFIED) |
 | Legal Name | CARGILL BIOINDUSTRIAL |
 | Jurisdiction | NL |
 | Entity Status | ACTIVE |
@@ -547,7 +547,7 @@ Cargill, Incorporated is an American multinational food corporation based in Min
 | Registration | ISSUED |
 | Last Updated | 2025-04-15T15:17:13Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Federal Register Activity
@@ -561,15 +561,15 @@ Cargill, Incorporated is an American multinational food corporation based in Min
 | Agencies | Agricultural Marketing Service, Agriculture Department, Coast Guard, Commerce Department, Drug Enforcement Administration, Environmental Protection Agency, Federal Mine Safety and Health Review Commission, Food and Drug Administration +6 more |
 
 **Recent regulatory activity:**
-- [Erythritol From China; Determinations](https://www.federalregister.gov/documents/2026/03/26/2026-05850/erythritol-from-china-determinations) (2026-03-26) — International Trade Commission
-- [Citric Acid and Certain Citrate Salts From China; Scheduling of Expedited Five-Year Reviews](https://www.federalregister.gov/documents/2026/03/26/2026-05848/citric-acid-and-certain-citrate-salts-from-china-scheduling-of-expedited-five-year-reviews) (2026-03-26) — International Trade Commission
-- [Public Hearing](https://www.federalregister.gov/documents/2026/03/25/2026-05817/public-hearing) (2026-03-25) — Susquehanna River Basin Commission
-- [Citric Acid and Certain Citrate Salts From Canada and India: Postponement of Preliminary Determination in the Countervailing Duty Investigations](https://www.federalregister.gov/documents/2026/03/25/2026-05806/citric-acid-and-certain-citrate-salts-from-canada-and-india-postponement-of-preliminary) (2026-03-25) — Commerce Department
-- [Citric Acid and Certain Citrate Salts From Canada and India; Determinations](https://www.federalregister.gov/documents/2026/03/12/2026-04783/citric-acid-and-certain-citrate-salts-from-canada-and-india-determinations) (2026-03-12) — International Trade Commission
-- [Citric Acid and Certain Citrate Salts From Canada and India: Initiation of Less-Than-Fair-Value Investigations](https://www.federalregister.gov/documents/2026/02/17/2026-03061/citric-acid-and-certain-citrate-salts-from-canada-and-india-initiation-of-less-than-fair-value) (2026-02-17) — Commerce Department
+- [Erythritol From China; Determinations](https://www.federalregister.gov/documents/2026/03/26/2026-05850/erythritol-from-china-determinations) (VERIFIED) (2026-03-26) — International Trade Commission
+- [Citric Acid and Certain Citrate Salts From China; Scheduling of Expedited Five-Year Reviews](https://www.federalregister.gov/documents/2026/03/26/2026-05848/citric-acid-and-certain-citrate-salts-from-china-scheduling-of-expedited-five-year-reviews) (VERIFIED) (2026-03-26) — International Trade Commission
+- [Public Hearing](https://www.federalregister.gov/documents/2026/03/25/2026-05817/public-hearing) (VERIFIED) (2026-03-25) — Susquehanna River Basin Commission
+- [Citric Acid and Certain Citrate Salts From Canada and India: Postponement of Preliminary Determination in the Countervailing Duty Investigations](https://www.federalregister.gov/documents/2026/03/25/2026-05806/citric-acid-and-certain-citrate-salts-from-canada-and-india-postponement-of-preliminary) (VERIFIED) (2026-03-25) — Commerce Department
+- [Citric Acid and Certain Citrate Salts From Canada and India; Determinations](https://www.federalregister.gov/documents/2026/03/12/2026-04783/citric-acid-and-certain-citrate-salts-from-canada-and-india-determinations) (VERIFIED) (2026-03-12) — International Trade Commission
+- [Citric Acid and Certain Citrate Salts From Canada and India: Initiation of Less-Than-Fair-Value Investigations](https://www.federalregister.gov/documents/2026/02/17/2026-03061/citric-acid-and-certain-citrate-salts-from-canada-and-india-initiation-of-less-than-fair-value) (VERIFIED) (2026-02-17) — Commerce Department
 - ... and 814 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Cargill%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Cargill%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Lobbying Activity
@@ -588,5 +588,5 @@ Cargill, Incorporated is an American multinational food corporation based in Min
 
 **Agencies contacted:** Agriculture, Dept of (USDA), Centers For Disease Control & Prevention (CDC), Commerce, Dept of (DOC), Defense, Dept of (DOD), Energy, Dept of, Environmental Protection Agency (EPA), Food & Drug Administration (FDA), HOUSE OF REPRESENTATIVES, Natl Security Council (NSC), SENATE +8 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Cargill) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Cargill) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->

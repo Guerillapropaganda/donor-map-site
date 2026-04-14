@@ -45,12 +45,12 @@ The mechanism was explicit: in 2024, Trump asked oil and gas executives at a pri
 - Oil & Gas sector donors broadly
 
 ### Lead sources (all Chrome-verified VALID):
-- [Brennan Center: Fossil Fuel Industry Donors See Major Returns in Trump's Policies](https://www.brennancenter.org/our-work/analysis-opinion/fossil-fuel-industry-donors-see-major-returns-trumps-policies) (Tier 2)
-- [Common Dreams: In Gift to Big Oil Donors, Trump Stops EPA From Combating Climate Threat](https://www.commondreams.org/news/trump-guts-endangerment) (Tier 3)
-- [Inequality.org: Fossil Fuel "Oil-Garchs" Reap Billions in Payback for Trump Support](https://inequality.org/article/fossil-fuel-oil-garchs-reap-billions-for-trump-support/) (Tier 3)
-- [Union of Concerned Scientists: Trump's Handouts to Fossil Fuel Industry Will Cost Public $80 Billion](https://blog.ucs.org/laura-peterson/trumps-handouts-to-fossil-fuel-industry-will-cost-public-80-billion-over-next-decade/) (Tier 2)
-- [Senate Finance Committee: Investigation into Trump's Quid Pro Quo Offer to Big Oil](https://www.finance.senate.gov/chairmans-news/finance-budget-committees-launch-joint-investigation-into-donald-trumps-quid-pro-quo-offer-to-big-oil) (Tier 1)
-- [Inside Climate News: Fossil Fuel Ties of Dozens of Trump Administration Hires](https://insideclimatenews.org/news/06102025/trump-administration-fossil-fuel-ties/) (Tier 2)
+- [Brennan Center: Fossil Fuel Industry Donors See Major Returns in Trump's Policies](https://www.brennancenter.org/our-work/analysis-opinion/fossil-fuel-industry-donors-see-major-returns-trumps-policies) (Tier 2) (VERIFIED)
+- [Common Dreams: In Gift to Big Oil Donors, Trump Stops EPA From Combating Climate Threat](https://www.commondreams.org/news/trump-guts-endangerment) (Tier 3) (VERIFIED)
+- [Inequality.org: Fossil Fuel "Oil-Garchs" Reap Billions in Payback for Trump Support](https://inequality.org/article/fossil-fuel-oil-garchs-reap-billions-for-trump-support/) (Tier 3) (VERIFIED)
+- [Union of Concerned Scientists: Trump's Handouts to Fossil Fuel Industry Will Cost Public $80 Billion](https://blog.ucs.org/laura-peterson/trumps-handouts-to-fossil-fuel-industry-will-cost-public-80-billion-over-next-decade/) (Tier 2) (VERIFIED)
+- [Senate Finance Committee: Investigation into Trump's Quid Pro Quo Offer to Big Oil](https://www.finance.senate.gov/chairmans-news/finance-budget-committees-launch-joint-investigation-into-donald-trumps-quid-pro-quo-offer-to-big-oil) (Tier 1) (VERIFIED)
+- [Inside Climate News: Fossil Fuel Ties of Dozens of Trump Administration Hires](https://insideclimatenews.org/news/06102025/trump-administration-fossil-fuel-ties/) (Tier 2) (VERIFIED)
 
 **Recommended vault action:** This warrants a dedicated sub-note under Trump's master profile: `The $1 Billion Handshake. Big Oil's Policy Capture of the EPA.md`. Also warrants creation of an American Petroleum Institute donor node. Cross-reference to Koch Network node for long-term endangerment finding opposition campaign.
 
@@ -76,11 +76,11 @@ The policy anchor: AIPAC has drawn a hard line on unconditional U.S. military ai
 - Illinois 2026 race files if they exist
 
 ### Lead sources (all Chrome-verified VALID):
-- [Sludge: Here Is How Much AIPAC Has Funneled to Every Member of Congress](https://readsludge.com/2026/03/01/here-is-how-much-aipac-has-funneled-to-every-member-of-congress/) (Tier 2)
-- [Sludge: AIPAC Splits in Illinois Races After $20M in Spending](https://readsludge.com/2026/03/18/aipac-splits-in-illinois-races-after-20m-in-spending/) (Tier 2)
-- [WBEZ: Pro-Israel Group's Donors Pour $13.7M into Chicago-Area Primaries](https://www.wbez.org/politics/2026/02/27/aipac-pro-israel-groups-chicago-area-democratic-congressional-primaries-miller-conyears-ervin-bean-fine) (Tier 2)
-- [American Prospect: AIPAC Coordinates Donors in Illinois House Primaries](https://prospect.org/2026/02/06/aipac-coordinates-donors-in-illinois-house-primaries/) (Tier 2)
-- [The Intercept: AIPAC Stays Out of Illinois Senate Race. Its Donors Back Juliana Stratton](https://theintercept.com/2026/03/12/aipac-illinois-senate-stratton-kelly-krishnamoorthi/) (Tier 2)
+- [Sludge: Here Is How Much AIPAC Has Funneled to Every Member of Congress](https://readsludge.com/2026/03/01/here-is-how-much-aipac-has-funneled-to-every-member-of-congress/) (Tier 2) (VERIFIED)
+- [Sludge: AIPAC Splits in Illinois Races After $20M in Spending](https://readsludge.com/2026/03/18/aipac-splits-in-illinois-races-after-20m-in-spending/) (Tier 2) (VERIFIED)
+- [WBEZ: Pro-Israel Group's Donors Pour $13.7M into Chicago-Area Primaries](https://www.wbez.org/politics/2026/02/27/aipac-pro-israel-groups-chicago-area-democratic-congressional-primaries-miller-conyears-ervin-bean-fine) (Tier 2) (VERIFIED)
+- [American Prospect: AIPAC Coordinates Donors in Illinois House Primaries](https://prospect.org/2026/02/06/aipac-coordinates-donors-in-illinois-house-primaries/) (Tier 2) (VERIFIED)
+- [The Intercept: AIPAC Stays Out of Illinois Senate Race. Its Donors Back Juliana Stratton](https://theintercept.com/2026/03/12/aipac-illinois-senate-stratton-kelly-krishnamoorthi/) (Tier 2) (VERIFIED)
 
 **Recommended vault action:** Update AIPAC donor node with 2026 cycle totals. Create sub-note: `The $28M Bipartisan Lock. AIPAC's 2026 Congressional Funding Map.md`. Flag **Both-Sides Illusion** (funding both party leaderships) and **Dark Money Symmetry** (UDP concealing Israel lobby function).
 
@@ -100,9 +100,9 @@ The broader pattern: crypto and AI super PACs are on track to smash spending rec
 - Fairshake / crypto super PAC nodes
 
 ### Lead sources (all Chrome-verified VALID):
-- [CryptoSlate: SEC Removes All Mention of Crypto from 2026 Agenda](https://cryptoslate.com/sec-is-done-with-crypto-removes-all-mention-from-its-agenda-for-2026/) (Tier 3)
-- [House Democrats Financial Services Committee: Letter to SEC on Crypto Enforcement](https://democrats-financialservices.house.gov/uploadedfiles/01.14.2026_ltr_sec_rfcryptoe.pdf) (Tier 1)
-- [Sludge: Crypto, AI, and AIPAC Set Up to Smash Super PAC Spending Records](https://readsludge.com/2026/02/02/crypto-ai-and-aipac-set-up-to-smash-super-pac-spending-records/) (Tier 2)
+- [CryptoSlate: SEC Removes All Mention of Crypto from 2026 Agenda](https://cryptoslate.com/sec-is-done-with-crypto-removes-all-mention-from-its-agenda-for-2026/) (Tier 3) (VERIFIED)
+- [House Democrats Financial Services Committee: Letter to SEC on Crypto Enforcement](https://democrats-financialservices.house.gov/uploadedfiles/01.14.2026_ltr_sec_rfcryptoe.pdf) (Tier 1) (VERIFIED)
+- [Sludge: Crypto, AI, and AIPAC Set Up to Smash Super PAC Spending Records](https://readsludge.com/2026/02/02/crypto-ai-and-aipac-set-up-to-smash-super-pac-spending-records/) (Tier 2) (VERIFIED)
 
 **Recommended vault action:** Expand crypto donor ecosystem documentation. Consider a cross-politician analysis: `The Crypto Capture. How $100M+ in Donations Bought an Industry Its Own Regulator.md`
 
@@ -123,9 +123,9 @@ Warren and Hawley introduced the "Break Up Big Medicine Act" in February 2026 to
 - Warren and Hawley master profiles (if they exist)
 
 ### Lead sources (all Chrome-verified VALID):
-- [The Hill: Warren, Hawley Introducing Legislation to Break Up 'Big Medicine'](https://thehill.com/policy/healthcare/5732189-break-up-big-medicine-act/) (Tier 2)
-- [MedCity News: It Took Years for Congress to Enact PBM Transparency. What About Vertical Integration?](https://medcitynews.com/2026/03/congress-pbm-vertical-integration/) (Tier 3)
-- [Tennessee Lookout: CVS Blankets Tennessee Airwaves to Fight PBM Bill](https://tennesseelookout.com/2026/03/19/cvs-blankets-tennessee-airwaves-enlists-mass-texts-to-fight-pharmacy-benefit-manager-bill/) (Tier 2)
+- ~~[The Hill: Warren, Hawley Introducing Legislation to Break Up 'Big Medicine'](https://thehill.com/policy/healthcare/5732189-break-up-big-medicine-act/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [MedCity News: It Took Years for Congress to Enact PBM Transparency. What About Vertical Integration?](https://medcitynews.com/2026/03/congress-pbm-vertical-integration/) (Tier 3) (VERIFIED)
+- [Tennessee Lookout: CVS Blankets Tennessee Airwaves to Fight PBM Bill](https://tennesseelookout.com/2026/03/19/cvs-blankets-tennessee-airwaves-enlists-mass-texts-to-fight-pharmacy-benefit-manager-bill/) (Tier 2) (VERIFIED)
 
 **Recommended vault action:** Create or expand CVS Health and UnitedHealth Group donor nodes. Sub-note potential: `The PBM Reform That Wasn't. How Vertical Integration Survived Congress.md`
 
@@ -147,8 +147,8 @@ The structural function: DOGE creates the appearance of fiscal discipline while 
 - Elon Musk / SpaceX nodes
 
 ### Lead sources (all Chrome-verified VALID):
-- [Responsible Statecraft: DOGE Wants to Cut the Pentagon. By 0.07%](https://responsiblestatecraft.org/doge-pentagon-2671396652/) (Tier 2)
-- [Sludge: DOGE's Ties to the Military-Industrial Complex](https://readsludge.com/2024/12/23/doges-ties-to-the-military-industrial-complex/) (Tier 2)
+- [Responsible Statecraft: DOGE Wants to Cut the Pentagon. By 0.07%](https://responsiblestatecraft.org/doge-pentagon-2671396652/) (Tier 2) (VERIFIED)
+- [Sludge: DOGE's Ties to the Military-Industrial Complex](https://readsludge.com/2024/12/23/doges-ties-to-the-military-industrial-complex/) (Tier 2) (VERIFIED)
 
 **Recommended vault action:** Expand defense contractor documentation. Potential cross-politician analysis: `The DOGE Exemption. Why $400B in Defense Contracts Survived the Efficiency Purge.md`
 

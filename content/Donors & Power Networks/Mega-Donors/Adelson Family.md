@@ -123,7 +123,7 @@ Trump withdrew from the JCPOA on May 8, 2018, 11 months after receiving Adelson'
 >
 > **The lobbying pipeline:** Sheldon funded the Coalition to Stop Internet Gambling (est. 2014). He leveraged $13.2 million in 2014 donations to build political relationships necessary for the broader DOJ pressure campaign. Three former elected officials served as bipartisan cover: Wellington Webb (D-Denver mayor), Blanche Lincoln (D-Ark. senator), George Pataki (R-NY governor). He met House Speaker John Boehner in January 2015 to push RAWA directly. When Congress refused to pass RAWA legislation, Adelson's lobbyists pressured AG Jeff Sessions to use the DOJ administrative process instead (UNVERIFIED).
 >
-> **The memo:** A lobbyist for Adelson drafted the memo opposing online gambling that was sent to the Justice Department in April 2017, the administrative infrastructure for policy reversal was constructed through proxy authorship ([USA Today](https://www.usatoday.com/story/opinion/2019/02/07/justice-department-online-gambling-gop-donor-sheldon-adelson-trump-column/2019-02-07/) *(source unavailable)* (Tier 2)).
+> **The memo:** A lobbyist for Adelson drafted the memo opposing online gambling that was sent to the Justice Department in April 2017, the administrative infrastructure for policy reversal was constructed through proxy authorship (~~[USA Today](https://www.usatoday.com/story/opinion/2019/02/07/justice-department-online-gambling-gop-donor-sheldon-adelson-trump-column/2019-02-07/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)).
 >
 > **The outcome:** On November 2, 2018, Sessions' DOJ delivered the opinion Adelson's lobbyists requested. The reversal was strategically timed 4 years after the initial 2014 donations and 3.5 years into the Trump administration. The "educational nonprofit" argument, protecting children and the poor from online gambling, was the cover for a business decision worth billions to Las Vegas Sands.
 >
@@ -187,7 +187,7 @@ The class contradiction is stark: the fortune funding West Bank maximalism and n
 
 ### Citizens United and the Doubling of Effective Power
 
-The Adelsons' political power "ballooned after the 2010 Supreme Court Citizens United decision, loosening limits on outside spending" ([Politico](https://www.politico.com/news/2021/01/12/adelson-super-pac-gop-458380) (Tier 2)). Over the last five years of Sheldon's life (2016-2020), the couple gave $280 million to House and Senate Republicans' main super PACs alone, supplying **more than one-third of funding for the Congressional Leadership Fund and nearly one-quarter of the Senate Leadership Fund** ([Politico](https://www.politico.com/news/2021/01/12/adelson-super-pac-gop-458380) (Tier 2)).
+The Adelsons' political power "ballooned after the 2010 Supreme Court Citizens United decision, loosening limits on outside spending" ([Politico](https://www.politico.com/news/2021/01/12/adelson-super-pac-gop-458380) (Tier 2) (VERIFIED)). Over the last five years of Sheldon's life (2016-2020), the couple gave $280 million to House and Senate Republicans' main super PACs alone, supplying **more than one-third of funding for the Congressional Leadership Fund and nearly one-quarter of the Senate Leadership Fund** ([Politico](https://www.politico.com/news/2021/01/12/adelson-super-pac-gop-458380) (Tier 2)).
 
 This concentration of funding created structural dependency: Republican leadership in Congress became reliant on Adelson's continued support for their campaign infrastructure. Without the Adelsons, CLF and SLF lose 33-25% of their operational capacity. This is not influence, this is organizational control.
 
@@ -207,34 +207,34 @@ This concentration of funding created structural dependency: Republican leadersh
 ### Sources
 
 ### Political Spending:
-- [OpenSecrets: Adelson family political contributions](https://www.opensecrets.org/donor-lookup/results?name=adelson) (Tier 1)
-- [OpenSecrets: Miriam Adelson 2024 donor profile](https://www.opensecrets.org/outside-spending/donor_detail/2024?id=U0000000310&name=Adelson,+Miriam+O.&super_only=N&type=I) (Tier 1)
-- [OpenSecrets News: Adelsons set new donation record](https://www.opensecrets.org/news/2020/10/adelsons-set-new-donation-record/) (Tier 1)
-- [Times of Israel: Miriam Adelson $100M Trump donation](https://www.timesofisrael.com/miriam-adelson-gives-100-million-to-trump-campaign-making-good-on-reported-pledge/) (Tier 2)
-- [CNBC: Miriam Adelson PAC funding](https://www.cnbc.com/2024/08/16/donald-trump-miriam-adelson-campaign-funding.html) (Tier 2)
+- [OpenSecrets: Adelson family political contributions](https://www.opensecrets.org/donor-lookup/results?name=adelson) (Tier 1) (VERIFIED)
+- [OpenSecrets: Miriam Adelson 2024 donor profile](https://www.opensecrets.org/outside-spending/donor_detail/2024?id=U0000000310&name=Adelson,+Miriam+O.&super_only=N&type=I) (Tier 1) (VERIFIED)
+- [OpenSecrets News: Adelsons set new donation record](https://www.opensecrets.org/news/2020/10/adelsons-set-new-donation-record/) (Tier 1) (VERIFIED)
+- [Times of Israel: Miriam Adelson $100M Trump donation](https://www.timesofisrael.com/miriam-adelson-gives-100-million-to-trump-campaign-making-good-on-reported-pledge/) (Tier 2) (VERIFIED)
+- [CNBC: Miriam Adelson PAC funding](https://www.cnbc.com/2024/08/16/donald-trump-miriam-adelson-campaign-funding.html) (Tier 2) (VERIFIED)
 
 ### Wire Act / Anti-Online Gambling:
-- [Card Player: Sheldon Adelson gets his way. DOJ says all online gambling illegal](https://www.cardplayer.com/poker-news/23543-sheldon-adelson-gets-his-way-department-of-justice-says-all-online-gambling-illegal) (Tier 2)
-- [Legal Sports Report: NJ AG blasts DOJ Wire Act opinion, eyes Adelson meddling](https://www.legalsportsreport.com/28838/nj-letter-wire-act-adelson/) (Tier 2)
-- [Tablet Magazine: Casino mogul Sheldon Adelson's campaign against online gambling](https://www.tabletmag.com/sections/news/articles/sheldon-adelsons-war-against-online-gambling) (Tier 2)
+- ~~[Card Player: Sheldon Adelson gets his way. DOJ says all online gambling illegal](https://www.cardplayer.com/poker-news/23543-sheldon-adelson-gets-his-way-department-of-justice-says-all-online-gambling-illegal)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Legal Sports Report: NJ AG blasts DOJ Wire Act opinion, eyes Adelson meddling](https://www.legalsportsreport.com/28838/nj-letter-wire-act-adelson/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Tablet Magazine: Casino mogul Sheldon Adelson's campaign against online gambling](https://www.tabletmag.com/sections/news/articles/sheldon-adelsons-war-against-online-gambling)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ### Israel Policy:
-- [Responsible Statecraft: Trump tell-all cites Adelson's bankrolled Israel embassy move](https://responsiblestatecraft.org/2022/10/07/new-book-highlights-how-campaign-money-influences-us-foreign-policy/) (Tier 2)
-- [Newsweek: How Miriam Adelson shaped Trump's Israel strategy](https://www.newsweek.com/how-miriam-adelson-shaped-donald-trumps-israel-strategy-10875990) (Tier 2)
-- [Al Jazeera: Who is Miriam Adelson, pro-Israel donor Trump lauded at Knesset](https://www.aljazeera.com/economy/2025/2/26/washington-post-opinion-head-departs-as-jeff-bezos-shifts-focus-for-paper-about-latest-us-border-flashpoint) (Tier 2)
+- [Responsible Statecraft: Trump tell-all cites Adelson's bankrolled Israel embassy move](https://responsiblestatecraft.org/2022/10/07/new-book-highlights-how-campaign-money-influences-us-foreign-policy/) (Tier 2) (VERIFIED)
+- [Newsweek: How Miriam Adelson shaped Trump's Israel strategy](https://www.newsweek.com/how-miriam-adelson-shaped-donald-trumps-israel-strategy-10875990) (Tier 2) (VERIFIED)
+- ~~[Al Jazeera: Who is Miriam Adelson, pro-Israel donor Trump lauded at Knesset](https://www.aljazeera.com/economy/2025/2/26/washington-post-opinion-head-departs-as-jeff-bezos-shifts-focus-for-paper-about-latest-us-border-flashpoint)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ### Las Vegas Sands / Texas:
-- [OpenSecrets: Las Vegas Sands profile](https://www.opensecrets.org/orgs/las-vegas-sands/summary?id=D000020980) (Tier 1)
-- [FEC: Las Vegas Sands PAC](https://www.fec.gov/data/committee/C00399642/) (Tier 1)
-- [Casino Beats: Las Vegas Sands 2026 Texas push $9M PAC](https://casinobeats.com/2025/08/13/las-vegas-sands-2026-texas-casino-pac/) (Tier 2)
+- ~~[OpenSecrets: Las Vegas Sands profile](https://www.opensecrets.org/orgs/las-vegas-sands/summary?id=D000020980)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [FEC: Las Vegas Sands PAC](https://www.fec.gov/data/committee/C00399642/) (Tier 1) (VERIFIED)
+- [Casino Beats: Las Vegas Sands 2026 Texas push $9M PAC](https://casinobeats.com/2025/08/13/las-vegas-sands-2026-texas-casino-pac/) (Tier 2) (VERIFIED)
 
 ### Iran / 2025–2026:
-- [ScheerPost: Trump White House plagiarized Iran war manifesto from Israel-aligned think tank](https://scheerpost.com/2026/03/21/trump-white-house-plagiarized-iran-war-manifesto-from-israel-aligned-think-tank/) (Tier 2)
-- [Responsible Statecraft: Israeli-American Trump mega-donor behind speech crackdowns](https://responsiblestatecraft.org/miriam-adelson-trump/) (Tier 2)
+- [ScheerPost: Trump White House plagiarized Iran war manifesto from Israel-aligned think tank](https://scheerpost.com/2026/03/21/trump-white-house-plagiarized-iran-war-manifesto-from-israel-aligned-think-tank/) (Tier 2) (VERIFIED)
+- [Responsible Statecraft: Israeli-American Trump mega-donor behind speech crackdowns](https://responsiblestatecraft.org/miriam-adelson-trump/) (Tier 2) (VERIFIED)
 
 ### General:
-- [Ballotpedia: Sheldon and Miriam Adelson](https://ballotpedia.org/Adelson_Family) (Tier 3)
-- [Bloomberg Billionaires Index: Miriam Adelson](https://www.bloomberg.com/billionaires/profiles/miriam-o-adelson/) (Tier 1)
+- [Ballotpedia: Sheldon and Miriam Adelson](https://ballotpedia.org/Adelson_Family) (Tier 3) (VERIFIED)
+- ~~[Bloomberg Billionaires Index: Miriam Adelson](https://www.bloomberg.com/billionaires/profiles/miriam-o-adelson/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -260,7 +260,7 @@ This concentration of funding created structural dependency: Republican leadersh
 | Total Expenses | $1.2M |
 | Net Assets | $5.9M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 223769645](https://projects.propublica.org/nonprofits/organizations/223769645) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 223769645](https://projects.propublica.org/nonprofits/organizations/223769645) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Campaign Finance (FEC)
@@ -277,7 +277,7 @@ This concentration of funding created structural dependency: Republican leadersh
 | WINRED | $500 | — |
 | NIKKI HALEY FOR PRESIDENT INC. | $500 | REP |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Adelson%20Family) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Adelson%20Family) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### Tax Filings (IRS 990)
@@ -295,12 +295,12 @@ This concentration of funding created structural dependency: Republican leadersh
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/223769645/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/223769645/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/223769645/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/223769645/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/223769645/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/223769645/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/223769645/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/223769645/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/223769645/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/223769645/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/223769645) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/223769645) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->

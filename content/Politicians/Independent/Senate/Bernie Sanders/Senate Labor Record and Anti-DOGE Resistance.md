@@ -106,5 +106,5 @@ Is the Sanders model a viable path to structural change, or is it the progressiv
 
 ### Sources
 
-- [Sanders.senate.gov: Budget Committee hearings (Amazon, Walmart), legislative text (PRO Act, Raise the Wage Act)](https://www.sanders.senate.gov/press-releases/media-advisory-chairman-sanders-to-hold-budget-committee-hearing-on-amazon-and-ending-federal-contracts-to-companies-engaged-in-illegal-anti-union-activities/) (Tier 1)
+- [Sanders.senate.gov: Budget Committee hearings (Amazon, Walmart), legislative text (PRO Act, Raise the Wage Act)](https://www.sanders.senate.gov/press-releases/media-advisory-chairman-sanders-to-hold-budget-committee-hearing-on-amazon-and-ending-federal-contracts-to-companies-engaged-in-illegal-anti-union-activities/) (Tier 1) (VERIFIED)
 

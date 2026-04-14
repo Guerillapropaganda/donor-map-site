@@ -65,8 +65,8 @@ The Schumer household's Wall Street entanglement extends beyond campaign donatio
 
 ### Sources
 
-- [OpenSecrets: Sen. Charles E Schumer - Campaign Finance Summary](https://www.opensecrets.org/members-of-congress/summary?cid=N00001093&cycle=Career) (Tier 1)
-- [OpenSecrets: Goldman Sachs' Congressional Inquisitors Also Beneficiaries of Firm's Financial Largesse](https://www.opensecrets.org/news/2010/04/goldman-sachs-congressional-inquisi.html) (Tier 2)
-- [CNBC: Wall Street snub Schumer, Dems running for Senate as Elizabeth Warren surges](https://www.cnbc.com/2019/11/04/wall-street-shuns-chuck-schumer-donation-requests-as-elizabeth-warren-surges.html) (Tier 2)
-- [CBS News: Charles Schumer's Wall Street dance](https://www.cbsnews.com/news/charles-schumers-wall-street-dance/) (Tier 2)
-- [The Nation: Why Did Chuck Schumer Hire an Ex–Goldman Sachs Lobbyist?](https://www.thenation.com/article/archive/why-did-chuck-schumer-hire-an-ex-goldman-sachs-lobbyist/) (Tier 2)
+- [OpenSecrets: Sen. Charles E Schumer - Campaign Finance Summary](https://www.opensecrets.org/members-of-congress/summary?cid=N00001093&cycle=Career) (Tier 1) (VERIFIED)
+- [OpenSecrets: Goldman Sachs' Congressional Inquisitors Also Beneficiaries of Firm's Financial Largesse](https://www.opensecrets.org/news/2010/04/goldman-sachs-congressional-inquisi.html) (Tier 2) (VERIFIED)
+- [CNBC: Wall Street snub Schumer, Dems running for Senate as Elizabeth Warren surges](https://www.cnbc.com/2019/11/04/wall-street-shuns-chuck-schumer-donation-requests-as-elizabeth-warren-surges.html) (Tier 2) (VERIFIED)
+- [CBS News: Charles Schumer's Wall Street dance](https://www.cbsnews.com/news/charles-schumers-wall-street-dance/) (Tier 2) (VERIFIED)
+- [The Nation: Why Did Chuck Schumer Hire an Ex–Goldman Sachs Lobbyist?](https://www.thenation.com/article/archive/why-did-chuck-schumer-hire-an-ex-goldman-sachs-lobbyist/) (Tier 2) (VERIFIED)

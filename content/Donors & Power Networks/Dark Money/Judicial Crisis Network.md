@@ -158,17 +158,17 @@ The $1.6 billion Seid donation transformed the operation from campaign-cycle dep
 
 ### Sources
 
-- [OpenSecrets: Judicial Crisis Network organizational profile](https://www.opensecrets.org/orgs/judicial-crisis-network/summary?id=D000026924) (Tier 1)
-- [ProPublica Nonprofit Explorer: The Concord Fund IRS 990 filings](https://projects.propublica.org/nonprofits/organizations/202303252) (Tier 1)
-- [Senate Judiciary Committee: Votes to authorize subpoenas for Harlan Crow and Leonard Leo](https://www.judiciary.senate.gov/press/releases/senate-judiciary-committee-votes-to-authorize-subpoenas-for-harlan-crow-and-leonard-leo) (Tier 1)
-- [Sen. Sheldon Whitehouse: The Scheme Speech 6. Judicial Crisis Network](https://www.whitehouse.senate.gov/news/speeches/the-scheme-speech-6-judicial-crisis-network/) (Tier 1)
-- [ProPublica: We Don't Talk About Leonard. The man behind the right's Supreme Court supermajority](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2)
-- [ProPublica: Barre Seid donated $1.6 billion to conservative Marble Freedom Trust](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (Tier 2)
-- [CNN: Massive dark money donation, new conservative group got $1.6 billion from single donor](https://www.cnn.com/2022/08/22/politics/dark-money-donation-conservative-group-invs/index.html) (Tier 2)
-- [CREW: Leonard Leo's mysterious $200 million dark money war chest](https://www.citizensforethics.org/reports-investigations/crew-investigations/leonard-leos-mysterious-200-million-dark-money-war-chest/) (Tier 2)
-- [CREW: Leonard Leo's firm continues to rake in millions from his own dark money network](https://www.citizensforethics.org/reports-investigations/crew-investigations/leonard-leos-firm-continues-to-rake-in-millions-from-his-own-dark-money-network/) (Tier 2)
-- [EXPOSEDbyCMD: Leonard Leo's Concord Fund top funder of Republican AGs group in 2024](https://www.exposedbycmd.org/2024/04/16/leonard-leos-concord-fund-top-funder-of-republican-ags-group-in-2024/) (Tier 2)
-- [InfluenceWatch: Concord Fund profile](https://www.influencewatch.org/non-profit/concord-fund/) (Tier 3)
+- [OpenSecrets: Judicial Crisis Network organizational profile](https://www.opensecrets.org/orgs/judicial-crisis-network/summary?id=D000026924) (Tier 1) (VERIFIED)
+- [ProPublica Nonprofit Explorer: The Concord Fund IRS 990 filings](https://projects.propublica.org/nonprofits/organizations/202303252) (Tier 1) (VERIFIED)
+- [Senate Judiciary Committee: Votes to authorize subpoenas for Harlan Crow and Leonard Leo](https://www.judiciary.senate.gov/press/releases/senate-judiciary-committee-votes-to-authorize-subpoenas-for-harlan-crow-and-leonard-leo) (Tier 1) (VERIFIED)
+- [Sen. Sheldon Whitehouse: The Scheme Speech 6. Judicial Crisis Network](https://www.whitehouse.senate.gov/news/speeches/the-scheme-speech-6-judicial-crisis-network/) (Tier 1) (VERIFIED)
+- [ProPublica: We Don't Talk About Leonard. The man behind the right's Supreme Court supermajority](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2) (VERIFIED)
+- [ProPublica: Barre Seid donated $1.6 billion to conservative Marble Freedom Trust](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (Tier 2) (VERIFIED)
+- [CNN: Massive dark money donation, new conservative group got $1.6 billion from single donor](https://www.cnn.com/2022/08/22/politics/dark-money-donation-conservative-group-invs/index.html) (Tier 2) (VERIFIED)
+- [CREW: Leonard Leo's mysterious $200 million dark money war chest](https://www.citizensforethics.org/reports-investigations/crew-investigations/leonard-leos-mysterious-200-million-dark-money-war-chest/) (Tier 2) (VERIFIED)
+- [CREW: Leonard Leo's firm continues to rake in millions from his own dark money network](https://www.citizensforethics.org/reports-investigations/crew-investigations/leonard-leos-firm-continues-to-rake-in-millions-from-his-own-dark-money-network/) (Tier 2) (VERIFIED)
+- ~~[EXPOSEDbyCMD: Leonard Leo's Concord Fund top funder of Republican AGs group in 2024](https://www.exposedbycmd.org/2024/04/16/leonard-leos-concord-fund-top-funder-of-republican-ags-group-in-2024/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [InfluenceWatch: Concord Fund profile](https://www.influencewatch.org/non-profit/concord-fund/) (Tier 3) (VERIFIED)
 
 ---
 
@@ -198,7 +198,7 @@ The $1.6 billion Seid donation transformed the operation from campaign-cycle dep
 
 **Agencies contacted:** HOUSE OF REPRESENTATIVES, SENATE, White House Office
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Judicial%20Crisis%20Network) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Judicial%20Crisis%20Network) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)
@@ -258,7 +258,7 @@ The $1.6 billion Seid donation transformed the operation from campaign-cycle dep
 - AMERICAN OVERSIGHT v. U.S. CENSUS BUREAU (2020) - District Court, District of Columbia
 - AMERICAN OVERSIGHT v. U.S. DEPARTMENT OF EDUCATION (2019) - District Court, District of Columbia
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Judicial%20Crisis%20Network%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Judicial%20Crisis%20Network%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Campaign Finance (FEC)
@@ -274,5 +274,5 @@ The $1.6 billion Seid donation transformed the operation from campaign-cycle dep
 |-----------|--------|-------|
 | LIBERTY 2.0 | $75,000 | - |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Judicial%20Crisis%20Network) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Judicial%20Crisis%20Network) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->

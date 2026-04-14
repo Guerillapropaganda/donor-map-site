@@ -130,14 +130,14 @@ The Thiel network's political architecture — from Palantir's founding with CIA
 
 ### Sources
 
-- [OpenSecrets: Palantir Technologies summary — contributions and lobbying](https://www.opensecrets.org/orgs/palantir-technologies/summary?id=D000055177) (Tier 1) (Chrome)
-- [Senate LDA Filings: Palantir Technologies lobbying profile](https://lda.gov/filings/public/filing/search/) (Tier 1) (Chrome)
-- [USASpending: Palantir Technologies Inc. federal award recipient profile](https://www.usaspending.gov/recipient/1ea8a9a4-3726-3491-9040-66950bb67606-P/all) (Tier 1) (Chrome)
-- [Tech Transparency Project: Inside Palantir's Expanding Influence Operation](https://www.techtransparencyproject.org/articles/inside-palantirs-expanding-influence-operation) (Tier 2) (Chrome)
-- [The Hill: Palantir courts major federal contracts — and controversy — in Trump era](https://thehill.com/policy/technology/5667232-palantir-trump-administration-surveillance/) (Tier 2) (Chrome)
-- [ACLU: All the Ways Palantir is Assisting Trump's Abusive Removal Campaign](https://www.aclu.org/news/privacy-technology/palantir-deportation-roundup) (Tier 2) (Chrome)
-- [Revolving Door Project: Oligarchs and the Trump Admin — Peter Thiel](https://therevolvingdoorproject.org/billionaires-and-the-trump-admin-peter-thiel/) (Tier 2) (Chrome)
-- [Ballotpedia: Peter Thiel](https://ballotpedia.org/Peter_Thiel) (Tier 3)
+- [OpenSecrets: Palantir Technologies summary — contributions and lobbying](https://www.opensecrets.org/orgs/palantir-technologies/summary?id=D000055177) (Tier 1) (VERIFIED) (Chrome)
+- [Senate LDA Filings: Palantir Technologies lobbying profile](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED) (Chrome)
+- [USASpending: Palantir Technologies Inc. federal award recipient profile](https://www.usaspending.gov/recipient/1ea8a9a4-3726-3491-9040-66950bb67606-P/all) (Tier 1) (VERIFIED) (Chrome)
+- [Tech Transparency Project: Inside Palantir's Expanding Influence Operation](https://www.techtransparencyproject.org/articles/inside-palantirs-expanding-influence-operation) (Tier 2) (VERIFIED) (Chrome)
+- ~~[The Hill: Palantir courts major federal contracts — and controversy — in Trump era](https://thehill.com/policy/technology/5667232-palantir-trump-administration-surveillance/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (Chrome)
+- [ACLU: All the Ways Palantir is Assisting Trump's Abusive Removal Campaign](https://www.aclu.org/news/privacy-technology/palantir-deportation-roundup) (Tier 2) (VERIFIED) (Chrome)
+- [Revolving Door Project: Oligarchs and the Trump Admin — Peter Thiel](https://therevolvingdoorproject.org/billionaires-and-the-trump-admin-peter-thiel/) (Tier 2) (VERIFIED) (Chrome)
+- [Ballotpedia: Peter Thiel](https://ballotpedia.org/Peter_Thiel) (Tier 3) (VERIFIED)
 
 ---
 
@@ -168,7 +168,7 @@ The Thiel network's political architecture — from Palantir's founding with CIA
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Palantir%20Technologies%20Political%20Operation) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Palantir%20Technologies%20Political%20Operation) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### DOJ Press Releases

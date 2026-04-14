@@ -69,5 +69,5 @@ Sessions introduced Miller to the Trump campaign — referring him through Breit
 
 ### Sources
 
-- [The Hill: Trump deportation plan](https://thehill.com/?s=The%20Immigration%20Policy%20Architecture%20from%20Sessions%20to%20Mass%20Deportation) (Tier 2)
-- [PBS Frontline: Stephen Miller profile](https://www.pbs.org/wgbh/frontline/) (Tier 2)
+- ~~[The Hill: Trump deportation plan](https://thehill.com/?s=The%20Immigration%20Policy%20Architecture%20from%20Sessions%20to%20Mass%20Deportation)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [PBS Frontline: Stephen Miller profile](https://www.pbs.org/wgbh/frontline/) (Tier 2) (VERIFIED)

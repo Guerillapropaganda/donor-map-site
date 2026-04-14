@@ -68,7 +68,7 @@ National Restaurant Association. The largest trade association for the restauran
 
 The NRA PAC contributes $1-2 million per cycle, with lobbying spending of $5-8 million annually. The association's political operation focuses primarily on labor policy: opposing minimum wage increases, fighting overtime expansion, blocking paid leave mandates, and defending the tipped minimum wage ($2.13/hour federally, unchanged since 1991).
 
-- [OpenSecrets: National Restaurant Association organizational profile](https://www.opensecrets.org/orgs/national-restaurant-assn/summary?id=D000000150) (Tier 1)
+- [OpenSecrets: National Restaurant Association organizational profile](https://www.opensecrets.org/orgs/national-restaurant-assn/summary?id=D000000150) (Tier 1) (VERIFIED)
 
 ---
 
@@ -92,9 +92,9 @@ Preservation of the $2.13/hour tipped minimum wage, opposition to federal minimu
 ### Sources
 
 - [OpenSecrets: National Restaurant Association organizational profile](https://www.opensecrets.org/orgs/national-restaurant-assn/summary?id=D000000150) (Tier 1)
-- [Department of Labor: Minimum wage history](https://www.dol.gov/agencies/whd/minimum-wage/history) (Tier 1)
-- [EPI: Tipped minimum wage analysis](https://www.epi.org/publication/waiting-for-change-tipped-minimum-wage/) (Tier 2)
-- [Ballotpedia: National Restaurant Association](https://ballotpedia.org/National_Restaurant_Association) (Tier 3)
+- [Department of Labor: Minimum wage history](https://www.dol.gov/agencies/whd/minimum-wage/history) (Tier 1) (VERIFIED)
+- ~~[EPI: Tipped minimum wage analysis](https://www.epi.org/publication/waiting-for-change-tipped-minimum-wage/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Ballotpedia: National Restaurant Association](https://ballotpedia.org/National_Restaurant_Association) (Tier 3) (VERIFIED)
 
 ---
 
@@ -121,15 +121,15 @@ Preservation of the $2.13/hour tipped minimum wage, opposition to federal minimu
 | Agencies | Agriculture Department, Federal Trade Commission, Food and Nutrition Service, Labor Department, National Labor Relations Board, Securities and Exchange Commission, Wage and Hour Division |
 
 **Recent regulatory activity:**
-- [Trade Regulation Rule on Unfair or Deceptive Fees](https://www.federalregister.gov/documents/2025/01/10/2024-30293/trade-regulation-rule-on-unfair-or-deceptive-fees) (2025-01-10) - Federal Trade Commission
-- [Defining and Delimiting the Exemptions for Executive, Administrative, Professional, Outside Sales, and Computer Employees](https://www.federalregister.gov/documents/2024/04/26/2024-08038/defining-and-delimiting-the-exemptions-for-executive-administrative-professional-outside-sales-and) (2024-04-26) - Labor Department
-- [Child Nutrition Programs: Meal Patterns Consistent With the 2020-2025 Dietary Guidelines for Americans](https://www.federalregister.gov/documents/2024/04/25/2024-08098/child-nutrition-programs-meal-patterns-consistent-with-the-2020-2025-dietary-guidelines-for) (2024-04-25) - Agriculture Department
-- [The Enhancement and Standardization of Climate-Related Disclosures for Investors](https://www.federalregister.gov/documents/2024/03/28/2024-05137/the-enhancement-and-standardization-of-climate-related-disclosures-for-investors) (2024-03-28) - Securities and Exchange Commission
-- [Employee or Independent Contractor Classification Under the Fair Labor Standards Act](https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act) (2024-01-10) - Labor Department
-- [Trade Regulation Rule on Unfair or Deceptive Fees](https://www.federalregister.gov/documents/2023/11/09/2023-24234/trade-regulation-rule-on-unfair-or-deceptive-fees) (2023-11-09) - Federal Trade Commission
+- [Trade Regulation Rule on Unfair or Deceptive Fees](https://www.federalregister.gov/documents/2025/01/10/2024-30293/trade-regulation-rule-on-unfair-or-deceptive-fees) (VERIFIED) (2025-01-10) - Federal Trade Commission
+- [Defining and Delimiting the Exemptions for Executive, Administrative, Professional, Outside Sales, and Computer Employees](https://www.federalregister.gov/documents/2024/04/26/2024-08038/defining-and-delimiting-the-exemptions-for-executive-administrative-professional-outside-sales-and) (VERIFIED) (2024-04-26) - Labor Department
+- [Child Nutrition Programs: Meal Patterns Consistent With the 2020-2025 Dietary Guidelines for Americans](https://www.federalregister.gov/documents/2024/04/25/2024-08098/child-nutrition-programs-meal-patterns-consistent-with-the-2020-2025-dietary-guidelines-for) (VERIFIED) (2024-04-25) - Agriculture Department
+- [The Enhancement and Standardization of Climate-Related Disclosures for Investors](https://www.federalregister.gov/documents/2024/03/28/2024-05137/the-enhancement-and-standardization-of-climate-related-disclosures-for-investors) (VERIFIED) (2024-03-28) - Securities and Exchange Commission
+- [Employee or Independent Contractor Classification Under the Fair Labor Standards Act](https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act) (VERIFIED) (2024-01-10) - Labor Department
+- [Trade Regulation Rule on Unfair or Deceptive Fees](https://www.federalregister.gov/documents/2023/11/09/2023-24234/trade-regulation-rule-on-unfair-or-deceptive-fees) (VERIFIED) (2023-11-09) - Federal Trade Commission
 - ... and 53 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22National%20Restaurant%20Association%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22National%20Restaurant%20Association%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### SEC Filing Activity
@@ -143,13 +143,13 @@ Preservation of the $2.13/hour tipped minimum wage, opposition to federal minimu
 
 **Notable filings:**
 
-- 2026-04-02 - **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000170684326000001/0001706843-26-000001-index.htm)
-- 2026-04-02 - **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000201763326000001/0002017633-26-000001-index.htm)
-- 2026-04-01 - **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000162582426000002/0001625824-26-000002-index.htm)
-- 2026-04-01 - **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000181702526000001/0001817025-26-000001-index.htm)
-- 2026-04-01 - **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000173846026000002/0001738460-26-000002-index.htm)
+- 2026-04-02 - **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000170684326000001/0001706843-26-000001-index.htm) (VERIFIED)
+- 2026-04-02 - **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000201763326000001/0002017633-26-000001-index.htm) (VERIFIED)
+- 2026-04-01 - **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000162582426000002/0001625824-26-000002-index.htm) (VERIFIED)
+- 2026-04-01 - **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000181702526000001/0001817025-26-000001-index.htm) (VERIFIED)
+- 2026-04-01 - **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000173846026000002/0001738460-26-000002-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22National%20Restaurant%20Association%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22National%20Restaurant%20Association%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Financial Overview (990 Filing - 2023)
@@ -164,7 +164,7 @@ Preservation of the $2.13/hour tipped minimum wage, opposition to federal minimu
 | Net Assets | $206.9M |
 | Officer Compensation | $12.6M |
 
-- [Source: ProPublica Nonprofit Explorer - EIN 361525480](https://projects.propublica.org/nonprofits/organizations/361525480) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer - EIN 361525480](https://projects.propublica.org/nonprofits/organizations/361525480) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Lobbying Activity
@@ -183,7 +183,7 @@ Preservation of the $2.13/hour tipped minimum wage, opposition to federal minimu
 
 **Agencies contacted:** Advisory Council on Historic Preservation (ACHP), Agriculture, Dept of (USDA), American Battle Monuments Commission, Army, Dept of (Corps of Engineers), Bureau of Land Management (BLM), Centers For Disease Control & Prevention (CDC), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Congressional Budget Office (CBO), Consumer Financial Protection Bureau (CFPB) +60 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=National%20Restaurant%20Association) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=National%20Restaurant%20Association) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### DOJ Press Releases
@@ -211,7 +211,7 @@ Preservation of the $2.13/hour tipped minimum wage, opposition to federal minimu
 | ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS PAC | $20,000 | - |
 | SCALISE FOR CONGRESS | $20,000 | REP |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=National%20Restaurant%20Association) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=National%20Restaurant%20Association) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### Influence Network (Cross-Reference)

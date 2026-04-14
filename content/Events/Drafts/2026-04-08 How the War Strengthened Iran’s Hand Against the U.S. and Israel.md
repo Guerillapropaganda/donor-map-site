@@ -13,7 +13,7 @@ profiles:
 
 ## How the War Strengthened Iran’s Hand Against the U.S. and Israel
 
-**Source:** [The Intercept](https://theintercept.com/2026/04/08/ceasefire-iran-war-israel-us/)
+**Source:** [The Intercept](https://theintercept.com/2026/04/08/ceasefire-iran-war-israel-us/) (VERIFIED)
 **Date:** 2026-04-08
 
 Survival of the regime alone was a victory — but its demonstration of control over the Strait of Hormuz may be a strategic game-changer. The post How the War Strengthened Iran’s Hand Against the U.S. and Israel appeared first on The Intercept.

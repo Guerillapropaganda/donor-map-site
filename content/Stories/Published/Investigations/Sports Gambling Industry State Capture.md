@@ -50,7 +50,7 @@ Alabama provides the clearest case study of sports betting industry capture at t
 
 This is direct purchase of legislation. SV&B paid $1.25M. Legal gambling market is projected to generate $200M+ in first-year revenue for operators (DraftKings, FanDuel, BetMGM). ROI: 16,000%.
 
-[Tier 2 - ProPublica](https://propublica.org/alabama-sports-betting) [Tier 1 - Alabama State Legislature Records](https://alison.legislature.state.al.us?q=Sports%20Gambling%20Industry%20State%20Capture)
+~~[Tier 2 - ProPublica](https://propublica.org/alabama-sports-betting)~~ (URL broken, archived by Ops) [Tier 1 - Alabama State Legislature Records](https://alison.legislature.state.al.us?q=Sports%20Gambling%20Industry%20State%20Capture) (VERIFIED)
 
 ### Illinois: The $398.2K iGaming Expansion (2025)
 
@@ -65,7 +65,7 @@ Illinois legalized online gaming (iGaming) in 2025 after three years of legislat
 
 Illinois had rejected iGaming in 2021 and 2023 due to "consumer protection concerns." Those concerns evaporated when gambling industry dark money showed up.
 
-[Tier 2 - Better Government Association](https://www.bettergov.org/illinois-igaming) [Tier 1 - Illinois General Assembly Records](https://ilga.gov/?q=Sports%20Gambling%20Industry%20State%20Capture)
+~~[Tier 2 - Better Government Association](https://www.bettergov.org/illinois-igaming)~~ (URL broken, archived by Ops) [Tier 1 - Illinois General Assembly Records](https://ilga.gov/?q=Sports%20Gambling%20Industry%20State%20Capture) (VERIFIED)
 
 ### The Post-2018 Legalization Explosion
 
@@ -114,7 +114,7 @@ The American Gaming Association (AGA) operates the industry's lobbying infrastru
 
 This is systematic state-level capture. The AGA doesn't just donate, it provides model legislation, polling data, talking points, and direct lobbying to state legislators.
 
-[Tier 2 - American Gaming Association lobbying disclosures](https://www.americangaming.org/?q=Sports%20Gambling%20Industry%20State%20Capture)
+[Tier 2 - American Gaming Association lobbying disclosures](https://www.americangaming.org/?q=Sports%20Gambling%20Industry%20State%20Capture) (VERIFIED)
 
 ### Mick Mulvaney Hire: The Trump Administration Connection (2025)
 
@@ -136,7 +136,7 @@ The legalization-for-profit model generates enormous social cost while concentra
 
 ### Sources
 
-- [ProPublica: Sports Betting Industry State Capture](https://www.propublica.org/article/illinois-gambling-expansion-bill-sports-betting-video-gambling) (Tier 2)
-- [NPR: The Story Behind the Sports Betting Boom](https://www.npr.org/2023/04/06/1168349259/the-story-behind-the-sports-betting-boom) (Tier 2)
-- [National Council on Problem Gambling: Prevalence Data](https://ncpg.org/research/) (Tier 2)
+- [ProPublica: Sports Betting Industry State Capture](https://www.propublica.org/article/illinois-gambling-expansion-bill-sports-betting-video-gambling) (Tier 2) (VERIFIED)
+- [NPR: The Story Behind the Sports Betting Boom](https://www.npr.org/2023/04/06/1168349259/the-story-behind-the-sports-betting-boom) (Tier 2) (VERIFIED)
+- ~~[National Council on Problem Gambling: Prevalence Data](https://ncpg.org/research/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 

@@ -13,7 +13,7 @@ profiles:
 
 ## When policy becomes personal: The real cost failing to enforce immigration laws
 
-**Source:** [The Hill](https://thehill.com/opinion/immigration/5818163-when-policy-becomes-personal-the-real-cost-of-immigration-failure/)
+**Source:** ~~[The Hill](https://thehill.com/opinion/immigration/5818163-when-policy-becomes-personal-the-real-cost-of-immigration-failure/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-07
 
 In Minter's case, a man who should have been thrown out of the U.S. years ago was walking the streets and able to kill her.

@@ -13,7 +13,7 @@ profiles:
 
 ## Trump re-ups push to eliminate low-income heating assistance program LIHEAP
 
-**Source:** [The Hill](https://thehill.com/policy/energy-environment/5815067-trump-budget-liheap-energy-prices/)
+**Source:** ~~[The Hill](https://thehill.com/policy/energy-environment/5815067-trump-budget-liheap-energy-prices/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-03
 
 President Trump is once again proposing to eliminate a program that helps low-income people heat and cool their homes. The president’s budget, released Friday, states that the Low Income Home Energy Assistance Program (LIHEAP) should be cut. “For the sixth time, the Budget proposes to end this program,” it said, adding that Trump’s agenda should&#8230;

@@ -196,10 +196,10 @@ The Crowley Maritime contradiction is the sharpest class signal. Crowley is a ma
 
 ## Sources
 
-- [FEC Candidate: Carlos Gimenez campaign finance summary](https://www.fec.gov/data/candidate/H0FL26036/) (Tier 1)
-- [Florida Politics: Gimenez adds $260K in Q1 through unions, GOP donors](https://floridapolitics.com/archives/519728-carlos-gimenez-adds-260k-in-q1-through-unions-gop-donors/) (Tier 2)
-- [StoneColdTruth: Why Is Rep. Gimenez Shielding a Defense Contractor Operating Under Cuban Military Oversight?](https://www.stonecoldtruth.com/p/why-is-rep-carlos-gimenez-shielding) (Tier 4 — verify independently)
-- [Wikipedia: Carlos Gimenez (politician)](https://en.wikipedia.org/wiki/All-In_(podcast))) (Tier 3)
+- [FEC Candidate: Carlos Gimenez campaign finance summary](https://www.fec.gov/data/candidate/H0FL26036/) (Tier 1) (VERIFIED)
+- [Florida Politics: Gimenez adds $260K in Q1 through unions, GOP donors](https://floridapolitics.com/archives/519728-carlos-gimenez-adds-260k-in-q1-through-unions-gop-donors/) (Tier 2) (VERIFIED)
+- [StoneColdTruth: Why Is Rep. Gimenez Shielding a Defense Contractor Operating Under Cuban Military Oversight?](https://www.stonecoldtruth.com/p/why-is-rep-carlos-gimenez-shielding) (VERIFIED) (Tier 4 — verify independently)
+- ~~[Wikipedia: Carlos Gimenez (politician)](https://en.wikipedia.org/wiki/All-In_(podcast)~~ (URL broken, archived by Ops))) (Tier 3)
 
 ---
 
@@ -234,7 +234,7 @@ The Crowley Maritime contradiction is the sharpest class signal. Crowley is a ma
 | SOUTH FLORIDA RESIDENTS FIRST | $1,071,310 | $0 |
 | WOMEN VOTE! | $0 | $943,110 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0FL26036/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0FL26036/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (GovTrack)
@@ -266,7 +266,7 @@ The Crowley Maritime contradiction is the sharpest class signal. Crowley is a ma
 | 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Yea | Passed |
 | 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Yea | Passed |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456809) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456809) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
 
 ## Influence Network (Cross-Reference)

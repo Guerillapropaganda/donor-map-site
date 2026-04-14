@@ -115,16 +115,16 @@ This is the structural endpoint of the accountability gap documented across the 
 ---
 
 ### Sources
-- [KESQ — Heidecker guilty plea](https://kesq.com/news/crime/2024/02/26/ex-riverside-county-sheriffs-correctional-deputy-pleads-guilty-to-sexually-extorting-women/) (Tier 2)
-- [KESQ — Heidecker sentencing](https://kesq.com/news/crime/2024/03/07/ex-deputy-who-sexually-exploited-female-inmates-sentenced/) (Tier 2)
-- [ABC7 — Heidecker arrest](https://abc7.com/riverside-county-correctional-deputy-christian-heidecker-sextortion-case/13832416/) (Tier 2)
-- [Press Enterprise — hush money allegations](https://www.pressenterprise.com/2024/03/28/riverside-county-offered-inmates-hush-money-to-cover-up-sex-abuse-allegations-lawsuits-allege/) (Tier 2)
-- [Davis Vanguard — 7 federal lawsuits](https://davisvanguard.org/2024/04/lawyers-file-7-federal-lawsuits-allege-riverside-county-scheme-offered-hush-money-to-incarcerated-sexually-abused-by-deputy/) (Tier 3)
-- [ABC7 — cover-up allegations](https://abc7.com/post/sextortion-victims-sheriffs-deputy-accuse-riverside-county-officials-cover-up-plot/14585110/) (Tier 2)
-- [Daily Bulletin — Flores wrongful termination](https://www.dailybulletin.com/2025/07/13/former-riverside-county-sheriffs-captain-alleges-she-was-fired-for-exposing-jail-abuse-corruption/) (Tier 2)
-- [The Signals Network — Flores whistleblower support](https://thesignalsnetwork.org/tsn-supported-whistleblower-victoria-flores-speaks-out-in-usa-today/) (Tier 2)
-- [KFI AM 640 — Flores lawsuit](https://kfiam640.iheart.com/content/2025-09-19-ca-sheriff-chad-bianco-faces-lawsuit-amid-jail-deaths/) (Tier 2)
-- [KESQ — $77M in misconduct settlements](https://kesq.com/news/2022/03/11/riverside-county-paid-77m-in-settlements-for-police-misconduct-report/) (Tier 2)
+- [KESQ — Heidecker guilty plea](https://kesq.com/news/crime/2024/02/26/ex-riverside-county-sheriffs-correctional-deputy-pleads-guilty-to-sexually-extorting-women/) (Tier 2) (VERIFIED)
+- [KESQ — Heidecker sentencing](https://kesq.com/news/crime/2024/03/07/ex-deputy-who-sexually-exploited-female-inmates-sentenced/) (Tier 2) (VERIFIED)
+- [ABC7 — Heidecker arrest](https://abc7.com/riverside-county-correctional-deputy-christian-heidecker-sextortion-case/13832416/) (Tier 2) (NEEDS REVIEW)
+- [Press Enterprise — hush money allegations](https://www.pressenterprise.com/2024/03/28/riverside-county-offered-inmates-hush-money-to-cover-up-sex-abuse-allegations-lawsuits-allege/) (Tier 2) (VERIFIED)
+- [Davis Vanguard — 7 federal lawsuits](https://davisvanguard.org/2024/04/lawyers-file-7-federal-lawsuits-allege-riverside-county-scheme-offered-hush-money-to-incarcerated-sexually-abused-by-deputy/) (Tier 3) (VERIFIED)
+- [ABC7 — cover-up allegations](https://abc7.com/post/sextortion-victims-sheriffs-deputy-accuse-riverside-county-officials-cover-up-plot/14585110/) (Tier 2) (VERIFIED)
+- [Daily Bulletin — Flores wrongful termination](https://www.dailybulletin.com/2025/07/13/former-riverside-county-sheriffs-captain-alleges-she-was-fired-for-exposing-jail-abuse-corruption/) (Tier 2) (VERIFIED)
+- [The Signals Network — Flores whistleblower support](https://thesignalsnetwork.org/tsn-supported-whistleblower-victoria-flores-speaks-out-in-usa-today/) (Tier 2) (VERIFIED)
+- [KFI AM 640 — Flores lawsuit](https://kfiam640.iheart.com/content/2025-09-19-ca-sheriff-chad-bianco-faces-lawsuit-amid-jail-deaths/) (Tier 2) (VERIFIED)
+- [KESQ — $77M in misconduct settlements](https://kesq.com/news/2022/03/11/riverside-county-paid-77m-in-settlements-for-police-misconduct-report/) (Tier 2) (VERIFIED)
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
@@ -133,5 +133,5 @@ This is the structural endpoint of the accountability gap documented across the 
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Deputy Misconduct and the Whistleblower Firing](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: Deputy Misconduct and the Whistleblower Firing](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->

@@ -37,9 +37,9 @@ WLFI is not a business in any conventional sense, it has no revenue model indepe
 
 Co-founded with Steve Witkoff, who simultaneously serves as Trump's top Middle East envoy, creating a structural conflict where the man negotiating with foreign governments on behalf of the United States has a direct financial stake in a venture those same governments are investing in.
 
-- [ABC News: Trump family profits from launch of World Liberty Financial crypto token](https://abcnews.com/US/trump-family-profits-launch-world-liberty-financial-crypto/story?id=125179318?id=125179318) (Tier 2)
-- [CBS News: Trump family's net worth has increased by $2.9 billion thanks to crypto](https://www.cbsnews.com/news/trump-family-net-worth-crypto-investments/) (Tier 2)
-- [Wikipedia: World Liberty Financial](https://en.wikipedia.org/wiki/World_Liberty_Financial) (Tier 3)
+- [ABC News: Trump family profits from launch of World Liberty Financial crypto token](https://abcnews.com/US/trump-family-profits-launch-world-liberty-financial-crypto/story?id=125179318?id=125179318) (Tier 2) (VERIFIED)
+- [CBS News: Trump family's net worth has increased by $2.9 billion thanks to crypto](https://www.cbsnews.com/news/trump-family-net-worth-crypto-investments/) (Tier 2) (VERIFIED)
+- [Wikipedia: World Liberty Financial](https://en.wikipedia.org/wiki/World_Liberty_Financial) (Tier 3) (VERIFIED)
 
 ---
 
@@ -72,11 +72,11 @@ WLFI's planned expansion into tokenized commodities and debit cards requires reg
 > [!contradiction] The Secret Deal and the Public Denial
 > Trump told reporters he was "unaware" of the $500 million UAE investment in his own company. The deal was signed by his son Eric. The company bears his name. His family receives 75% of profits. His envoy (Witkoff) received $31 million from the deal and simultaneously negotiates with the UAE on behalf of the United States. The constitutional prohibition (Emoluments Clause) exists on paper and nowhere else.
 
-- [Wall Street Journal via CNN: UAE-linked firm bought major stake in Trump family crypto company](https://www.cnn.com/2026/02/01/politics/trump-family-crypto-world-liberty-financial-uae) (Tier 2)
-- [Fortune: How a 'spy sheikh' bought 49% of Trump's flagship crypto company](https://fortune.com/2026/02/02/world-liberty-financial-spy-sheikh-500-million-trump-family-conflicts-of-interest/) (Tier 2)
-- [Washington Post: Trump family crypto firm sold major stake to UAE investment firm](https://www.washingtonpost.com/politics/2026/02/01/trump-uae-crypto-world-liberty-financial/) (Tier 2)
-- [Democracy Now: UAE Chips Deal Linked to $2B Investment in Trump Family Cryptocurrency Firm](https://www.democracynow.org/2025/9/16/headlines/nyt_uae_chips_deal_linked_to_2b_investment_in_trump_family_cryptocurrency_firm) (Tier 2)
-- [The Block: Trump says he was unaware of $500M UAE investment](https://www.theblock.co/post/388191/president-trump-says-he-was-unaware-of-500-million-uae-investment-in-world-liberty-financial) (Tier 2)
+- [Wall Street Journal via CNN: UAE-linked firm bought major stake in Trump family crypto company](https://www.cnn.com/2026/02/01/politics/trump-family-crypto-world-liberty-financial-uae) (Tier 2) (VERIFIED)
+- [Fortune: How a 'spy sheikh' bought 49% of Trump's flagship crypto company](https://fortune.com/2026/02/02/world-liberty-financial-spy-sheikh-500-million-trump-family-conflicts-of-interest/) (Tier 2) (VERIFIED)
+- [Washington Post: Trump family crypto firm sold major stake to UAE investment firm](https://www.washingtonpost.com/politics/2026/02/01/trump-uae-crypto-world-liberty-financial/) (Tier 2) (VERIFIED)
+- [Democracy Now: UAE Chips Deal Linked to $2B Investment in Trump Family Cryptocurrency Firm](https://www.democracynow.org/2025/9/16/headlines/nyt_uae_chips_deal_linked_to_2b_investment_in_trump_family_cryptocurrency_firm) (Tier 2) (VERIFIED)
+- ~~[The Block: Trump says he was unaware of $500M UAE investment](https://www.theblock.co/post/388191/president-trump-says-he-was-unaware-of-500-million-uae-investment-in-world-liberty-financial)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (VERIFIED)
 
 ---
 
@@ -103,8 +103,8 @@ The regulatory environment that benefits WLFI was not purchased through donation
 
 **Emoluments challenge:** Legal experts have described the UAE deal as a potential violation of the Emoluments Clause, which prohibits foreign government payments to U.S. officials without congressional consent. No consent was sought. No enforcement action has occurred.
 
-- [CoinDesk: House probe targets WLFI after report of $500M UAE stake](https://www.coindesk.com/policy2026/02/05/house-probe-targets-wlfi-after-report-of-usd500-million-uae-stake) (Tier 2)
-- [ABC News: White House faces questions over UAE royal's investment in Trump crypto firm](https://abcnews.com/Politics/white-house-faces-questions-uae-royals-investment-trump/story?id=129774262) (Tier 2)
+- [CoinDesk: House probe targets WLFI after report of $500M UAE stake](https://www.coindesk.com/policy2026/02/05/house-probe-targets-wlfi-after-report-of-usd500-million-uae-stake) (Tier 2) (VERIFIED)
+- [ABC News: White House faces questions over UAE royal's investment in Trump crypto firm](https://abcnews.com/Politics/white-house-faces-questions-uae-royals-investment-trump/story?id=129774262) (Tier 2) (VERIFIED)
 
 ---
 
@@ -143,24 +143,24 @@ Pattern flags: **Donor-Class Override** (foreign government payment directly pur
 ### Sources
 
 ### UAE Deal:
-- [CNN: UAE-linked firm bought major stake in Trump family crypto company](https://www.cnn.com/2026/02/01/politics/trump-family-crypto-world-liberty-financial-uae) (Tier 2)
+- [CNN: UAE-linked firm bought major stake in Trump family crypto company](https://www.cnn.com/2026/02/01/politics/trump-family-crypto-world-liberty-financial-uae) (Tier 2) (VERIFIED)
 - [Fortune: How a 'spy sheikh' bought 49% of Trump's flagship crypto company](https://fortune.com/2026/02/02/world-liberty-financial-spy-sheikh-500-million-trump-family-conflicts-of-interest/) (Tier 2)
 - [Washington Post: Trump family crypto firm sold major stake to UAE investment firm](https://www.washingtonpost.com/politics/2026/02/01/trump-uae-crypto-world-liberty-financial/) (Tier 2)
-- [Ledger Insights: Trump linked crypto venture sold 49% stake to UAE state affiliated firm](https://www.ledgerinsights.com/trump-linked-crypto-venture-world-liberty-sold-49-stake-to-uae-state-affiliated-firm/) (Tier 2)
+- [Ledger Insights: Trump linked crypto venture sold 49% stake to UAE state affiliated firm](https://www.ledgerinsights.com/trump-linked-crypto-venture-world-liberty-sold-49-stake-to-uae-state-affiliated-firm/) (Tier 2) (VERIFIED)
 - [The Block: Trump says he was unaware of $500M UAE investment](https://www.theblock.co/post/388191/president-trump-says-he-was-unaware-of-500-million-uae-investment-in-world-liberty-financial) (Tier 2)
 
 ### AI Chips & Policy:
 - [Democracy Now: UAE Chips Deal Linked to $2B Investment in Trump Family Cryptocurrency Firm](https://www.democracynow.org/2025/9/16/headlines/nyt_uae_chips_deal_linked_to_2b_investment_in_trump_family_cryptocurrency_firm) (Tier 2)
-- [Common Dreams: 'Corruption on a Breathtaking Level'](https://www.commondreams.org/news/trump-uae-crypto-investment) (Tier 2)
+- [Common Dreams: 'Corruption on a Breathtaking Level'](https://www.commondreams.org/news/trump-uae-crypto-investment) (Tier 2) (VERIFIED)
 
 ### Investigations:
 - [CoinDesk: House probe targets WLFI after report of $500M UAE stake](https://www.coindesk.com/policy2026/02/05/house-probe-targets-wlfi-after-report-of-usd500-million-uae-stake) (Tier 2)
-- [ABC News: White House faces questions over UAE royal's investment](https://abcnews.com/Politics/white-house-faces-questions-uae-royals-investment-trump/story?id=129774262) (Tier 2)
+- [ABC News: White House faces questions over UAE royal's investment](https://abcnews.com/Politics/white-house-faces-questions-uae-royals-investment-trump/story?id=129774262) (Tier 2) (VERIFIED)
 
 ### Company Profile:
-- [ABC News: Trump family profits from World Liberty Financial crypto token](https://abcnews.com/US/trump-family-profits-launch-world-liberty-financial-crypto/story?id=125179318?id=125179318) (Tier 2)
+- [ABC News: Trump family profits from World Liberty Financial crypto token](https://abcnews.com/US/trump-family-profits-launch-world-liberty-financial-crypto/story?id=125179318?id=125179318) (Tier 2) (VERIFIED)
 - [CBS News: Trump family's net worth has increased by $2.9 billion thanks to crypto](https://www.cbsnews.com/news/trump-family-net-worth-crypto-investments/) (Tier 2)
-- [Washington Post: Trump promotes meme coin, raising ethics issues as value soars](https://www.washingtonpost.com/politics/2025/01/19/trump-meme-coin-crypto/) (Tier 2)
+- [Washington Post: Trump promotes meme coin, raising ethics issues as value soars](https://www.washingtonpost.com/politics/2025/01/19/trump-meme-coin-crypto/) (Tier 2) (VERIFIED)
 - [Wikipedia: World Liberty Financial](https://en.wikipedia.org/wiki/World_Liberty_Financial) (Tier 3)
 
 ---
@@ -180,7 +180,7 @@ Pattern flags: **Donor-Class Override** (foreign government payment directly pur
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=World%20Liberty%20Financial) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=World%20Liberty%20Financial) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### DOJ Press Releases
@@ -196,7 +196,7 @@ Pattern flags: **Donor-Class Override** (foreign government payment directly pur
 | IRS Ruling Date | 2016-09-01 |
 | Filings on Record | 0 |
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/813552287) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/813552287) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Lobbying Activity
@@ -215,7 +215,7 @@ Pattern flags: **Donor-Class Override** (foreign government payment directly pur
 
 **Agencies contacted:** Administration for Children & Families (ACF), Agriculture, Dept of (USDA), Bureau of Reclamation, Bureau of the Census, Centers For Disease Control & Prevention (CDC), Commerce, Dept of (DOC), Consumer Product Safety Commission (CPSC), Council on Environmental Quality (CEQ), Defense, Dept of (DOD), Education, Dept of +30 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=World%20Liberty%20Financial) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=World%20Liberty%20Financial) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

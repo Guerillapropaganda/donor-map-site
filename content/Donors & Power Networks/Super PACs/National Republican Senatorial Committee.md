@@ -143,11 +143,11 @@ The NRSC's recent history includes the most damaging internal party conflict of 
 
 ### Sources
 
-- [FEC: NRSC committee overview and financial filings (C00027466)](https://www.fec.gov/data/committee/C00027466/?cycle=2024) (Tier 1)
-- [OpenSecrets: NRSC fundraising overview 2024](https://www.opensecrets.org/political-parties/NRSC/2024/summary?name=national-republican-senatorial-cmte) (Tier 1)
-- [OpenSecrets: NRSC top contributors 2024](https://www.opensecrets.org/political-parties/NRSC/2024/contributors?name=national-republican-senatorial-cmte) (Tier 1)
-- [OpenSecrets: NRSC expenditures 2024](https://www.opensecrets.org/political-parties/NRSC/2024/expenditures?name=national-republican-senatorial-cmte) (Tier 1)
-- [Ballotpedia: National Republican Senatorial Committee](https://ballotpedia.org/National_Republican_Senatorial_Committee) (Tier 3)
+- [FEC: NRSC committee overview and financial filings (C00027466)](https://www.fec.gov/data/committee/C00027466/?cycle=2024) (Tier 1) (VERIFIED)
+- [OpenSecrets: NRSC fundraising overview 2024](https://www.opensecrets.org/political-parties/NRSC/2024/summary?name=national-republican-senatorial-cmte) (Tier 1) (VERIFIED)
+- [OpenSecrets: NRSC top contributors 2024](https://www.opensecrets.org/political-parties/NRSC/2024/contributors?name=national-republican-senatorial-cmte) (Tier 1) (VERIFIED)
+- [OpenSecrets: NRSC expenditures 2024](https://www.opensecrets.org/political-parties/NRSC/2024/expenditures?name=national-republican-senatorial-cmte) (Tier 1) (VERIFIED)
+- [Ballotpedia: National Republican Senatorial Committee](https://ballotpedia.org/National_Republican_Senatorial_Committee) (Tier 3) (VERIFIED)
 
 ---
 
@@ -181,7 +181,7 @@ The NRSC's recent history includes the most damaging internal party conflict of 
 - HOUTHI NATIONAL COMMITTEE FOR PRISONERS AFFAIRS (-0-) [GLOMAG]
   - Remarks: a.k.a. 'NCPA'.
 
-- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
 ### Federal Court Records (CourtListener)
@@ -200,7 +200,7 @@ The NRSC's recent history includes the most damaging internal party conflict of 
 - BURLEIGH v. FEDERAL COMMUNICATIONS COMMISSION (FCC) (2025) — District Court, District of Columbia
 - Coalition for Good Governance v. Secretary of State for the State of Georgia (2025) — Court of Appeals for the Eleventh Circuit
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22National%20Republican%20Senatorial%20Committee%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22National%20Republican%20Senatorial%20Committee%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Register Activity
@@ -214,13 +214,13 @@ The NRSC's recent history includes the most damaging internal party conflict of 
 | Agencies | Federal Election Commission |
 
 **Recent regulatory activity:**
-- [Sunshine Act Meeting](https://www.federalregister.gov/documents/2021/03/22/2021-05986/sunshine-act-meeting) (2021-03-22) — Federal Election Commission
-- [Sunshine Act Meeting](https://www.federalregister.gov/documents/2021/03/12/2021-04906/sunshine-act-meeting) (2021-03-12) — Federal Election Commission
-- [Sunshine Act Meetings](https://www.federalregister.gov/documents/2021/02/22/2021-03694/sunshine-act-meetings) (2021-02-22) — Federal Election Commission
-- [Sunshine Act Meetings](https://www.federalregister.gov/documents/2013/08/20/2013-20344/sunshine-act-meetings) (2013-08-20) — Federal Election Commission
-- [Sunshine Act Notice](https://www.federalregister.gov/documents/2011/04/04/2011-8068/sunshine-act-notice) (2011-04-04) — Federal Election Commission
-- [Sunshine Act Notice](https://www.federalregister.gov/documents/2011/03/11/2011-5846/sunshine-act-notice) (2011-03-11) — Federal Election Commission
+- ~~[Sunshine Act Meeting](https://www.federalregister.gov/documents/2021/03/22/2021-05986/sunshine-act-meeting)~~ (URL broken, archived by Ops) (2021-03-22) — Federal Election Commission
+- [Sunshine Act Meeting](https://www.federalregister.gov/documents/2021/03/12/2021-04906/sunshine-act-meeting) (VERIFIED) (2021-03-12) — Federal Election Commission
+- [Sunshine Act Meetings](https://www.federalregister.gov/documents/2021/02/22/2021-03694/sunshine-act-meetings) (VERIFIED) (2021-02-22) — Federal Election Commission
+- [Sunshine Act Meetings](https://www.federalregister.gov/documents/2013/08/20/2013-20344/sunshine-act-meetings) (VERIFIED) (2013-08-20) — Federal Election Commission
+- [Sunshine Act Notice](https://www.federalregister.gov/documents/2011/04/04/2011-8068/sunshine-act-notice) (VERIFIED) (2011-04-04) — Federal Election Commission
+- ~~[Sunshine Act Notice](https://www.federalregister.gov/documents/2011/03/11/2011-5846/sunshine-act-notice)~~ (URL broken, archived by Ops) (2011-03-11) — Federal Election Commission
 - ... and 16 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22National%20Republican%20Senatorial%20Committee%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22National%20Republican%20Senatorial%20Committee%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->

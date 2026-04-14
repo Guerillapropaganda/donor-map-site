@@ -186,60 +186,60 @@ The Democratic base disagrees with Israel policy at significantly higher rates t
 ### Sources
 
 ### Campaign Finance Data (Tier 1):
-- [OpenSecrets: AIPAC PAC profile and contributions](https://www.opensecrets.org/orgs/american-israel-public-affairs-cmte/summary?id=D000046963) (Tier 1)
-- [FEC Candidate: Chuck Schumer pro-Israel donations summary](https://www.fec.gov/data/candidate/H0NY16010/) (Tier 1)
-- [FEC Candidate: Ted Cruz pro-Israel donations summary](https://www.fec.gov/data/candidate/S2TX00312/) (Tier 1)
-- [United Democracy Project recipients and expenditures 2024](https://www.fec.gov/data/independent-expenditures/) (Tier 1)
-- [FEC: United Democracy Project committee overview](https://www.fec.gov/data/committee/C00799031/) (Tier 1)
+- [OpenSecrets: AIPAC PAC profile and contributions](https://www.opensecrets.org/orgs/american-israel-public-affairs-cmte/summary?id=D000046963) (Tier 1) (VERIFIED)
+- [FEC Candidate: Chuck Schumer pro-Israel donations summary](https://www.fec.gov/data/candidate/H0NY16010/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Ted Cruz pro-Israel donations summary](https://www.fec.gov/data/candidate/S2TX00312/) (Tier 1) (VERIFIED)
+- [United Democracy Project recipients and expenditures 2024](https://www.fec.gov/data/independent-expenditures/) (Tier 1) (NEEDS REVIEW)
+- [FEC: United Democracy Project committee overview](https://www.fec.gov/data/committee/C00799031/) (Tier 1) (VERIFIED)
 
 ### AIPAC 2024 Spending Analysis (Tier 2):
-- [Sludge: "Here Is All the Money AIPAC Spent on the 2024 Elections"](https://readsludge.com/2025/01/24/here-is-all-the-money-aipac-spent-on-the-2024-elections/) (Tier 2)
-- [FactCheck.org: United Democracy Project spending breakdown](https://www.factcheck.org/2024/09/united-democracy-project-2/) (Tier 2)
-- [NPR: "Why Pro-Israel PACs are helping oust Democrats in their primaries"](https://www.npr.org/2024/08/07/nx-s1-5066702/why-pro-israel-pacs-are-helping-oust-democrats-in-their-primaries) (Tier 2)
+- [Sludge: "Here Is All the Money AIPAC Spent on the 2024 Elections"](https://readsludge.com/2025/01/24/here-is-all-the-money-aipac-spent-on-the-2024-elections/) (Tier 2) (VERIFIED)
+- [FactCheck.org: United Democracy Project spending breakdown](https://www.factcheck.org/2024/09/united-democracy-project-2/) (Tier 2) (VERIFIED)
+- [NPR: "Why Pro-Israel PACs are helping oust Democrats in their primaries"](https://www.npr.org/2024/08/07/nx-s1-5066702/why-pro-israel-pacs-are-helping-oust-democrats-in-their-primaries) (Tier 2) (VERIFIED)
 
 ### Jamaal Bowman Primary 2024 (Tier 2):
-- [Al Jazeera: "Why has Jamaal Bowman's primary race broken spending records?"](https://www.aljazeera.com/news/2024/6/21/whats-behind-the-historic-pro-israel-spending-in-a-new-york-house-primary) (Tier 2)
-- [Times of Israel: "AIPAC spent more than $14M to unseat Jamaal Bowman"](https://www.jta.org/2024/06/26/united-states/aipac-spent-more-than-14m-to-unseat-jamaal-bowman-did-it-have-to) (Tier 2)
-- [Sludge: "AIPAC Places $1.9 Million Ad Buy to Oust Bowman"](https://readsludge.com/2024/05/15/aipac-places-1-9-million-ad-buy-to-oust-bowman/) (Tier 2)
+- [Al Jazeera: "Why has Jamaal Bowman's primary race broken spending records?"](https://www.aljazeera.com/news/2024/6/21/whats-behind-the-historic-pro-israel-spending-in-a-new-york-house-primary) (Tier 2) (VERIFIED)
+- [Times of Israel: "AIPAC spent more than $14M to unseat Jamaal Bowman"](https://www.jta.org/2024/06/26/united-states/aipac-spent-more-than-14m-to-unseat-jamaal-bowman-did-it-have-to) (Tier 2) (VERIFIED)
+- [Sludge: "AIPAC Places $1.9 Million Ad Buy to Oust Bowman"](https://readsludge.com/2024/05/15/aipac-places-1-9-million-ad-buy-to-oust-bowman/) (Tier 2) (VERIFIED)
 
 ### Cori Bush Primary 2024 (Tier 2):
-- [Democracy Now!: "Rep. Cori Bush Loses Primary After AIPAC Spent Over $9 Million"](https://www.democracynow.org/2024/8/7/headlines/rep_cori_bush_loses_primary_after_aipac_spent_over_9_million_to_defeat_her) (Tier 2)
-- [Axios: '"Squad" Rep. Cori Bush loses to Wesley Bell after $9 million barrage from AIPAC'](https://www.axios.com/2024/08/07/cori-bush-primary-results-loss-wesley-bell) (Tier 2)
-- [The Intercept: "AIPAC Millions Help Wesley Bell Beat Cori Bush"](https://theintercept.com/2024/08/06/aipac-cori-bush-election-results-wesley-bell/) (Tier 2)
+- [Democracy Now!: "Rep. Cori Bush Loses Primary After AIPAC Spent Over $9 Million"](https://www.democracynow.org/2024/8/7/headlines/rep_cori_bush_loses_primary_after_aipac_spent_over_9_million_to_defeat_her) (Tier 2) (VERIFIED)
+- ~~[Axios: '"Squad" Rep. Cori Bush loses to Wesley Bell after $9 million barrage from AIPAC'](https://www.axios.com/2024/08/07/cori-bush-primary-results-loss-wesley-bell)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [The Intercept: "AIPAC Millions Help Wesley Bell Beat Cori Bush"](https://theintercept.com/2024/08/06/aipac-cori-bush-election-results-wesley-bell/) (Tier 2) (VERIFIED)
 
 ### Ritchie Torres Donor Profile (Tier 2):
-- [Jewish Currents: "Ritchie Torres Is the Future of 'Pro-Israel' Politics"](https://jewishcurrents.org/ritchie-torres-is-the-future-of-pro-israel-politics) (Tier 2)
-- [Jewish Insider: "Ritchie Torres: 'I am the embodiment of a pro-Israel progressive'"](https://jewishinsider.com/2019/12/ritchie-torres-i-am-the-embodiment-of-a-pro-israel-progressive/) (Tier 2)
-- [Times of Israel: "The 'improbable friend': For true progressives, Israel is an exemplar, says Ritchie Torres"](https://www.timesofisrael.com/the-improbable-friend-for-true-progressives-israel-is-an-exemplar-says-ritchie-torres/) (Tier 2)
+- [Jewish Currents: "Ritchie Torres Is the Future of 'Pro-Israel' Politics"](https://jewishcurrents.org/ritchie-torres-is-the-future-of-pro-israel-politics) (Tier 2) (VERIFIED)
+- [Jewish Insider: "Ritchie Torres: 'I am the embodiment of a pro-Israel progressive'"](https://jewishinsider.com/2019/12/ritchie-torres-i-am-the-embodiment-of-a-pro-israel-progressive/) (Tier 2) (VERIFIED)
+- [Times of Israel: "The 'improbable friend': For true progressives, Israel is an exemplar, says Ritchie Torres"](https://www.timesofisrael.com/the-improbable-friend-for-true-progressives-israel-is-an-exemplar-says-ritchie-torres/) (Tier 2) (VERIFIED)
 
 ### Individual Donor Totals (Tier 2-3):
-- [AIPAC Tracker: Chuck Schumer $1.72M+ career pro-Israel funding](https://x.com/TrackAIPAC/status/1782483171113828844?lang=en) (Tier 3)
-- ["Bought by Zionism": Ted Cruz $1,872,592 total](https://www.boughtbyzionism.org/ted_cruz) (Tier 3)
-- ["Bought by Zionism": Lindsey Graham $1,000,580 total](https://www.boughtbyzionism.org/lindsey_graham) (Tier 3)
-- ["Bought by Zionism": Cory Booker $871,313 total](https://www.boughtbyzionism.org/cory_booker) (Tier 3)
+- [AIPAC Tracker: Chuck Schumer $1.72M+ career pro-Israel funding](https://x.com/TrackAIPAC/status/1782483171113828844?lang=en) (Tier 3) (VERIFIED)
+- ["Bought by Zionism": Ted Cruz $1,872,592 total](https://www.boughtbyzionism.org/ted_cruz) (Tier 3) (VERIFIED)
+- ["Bought by Zionism": Lindsey Graham $1,000,580 total](https://www.boughtbyzionism.org/lindsey_graham) (Tier 3) (VERIFIED)
+- ["Bought by Zionism": Cory Booker $871,313 total](https://www.boughtbyzionism.org/cory_booker) (Tier 3) (VERIFIED)
 
 ### Schumer "Shomer Yisroel" Speech (Tier 2):
-- [CNN Politics: "A speech that sent shockwaves from Washington to Jerusalem"](https://www.cnn.com/2024/03/15/politics/schumer-israel-speech-analysis) (Tier 2)
-- [Times of Israel: "Full text of Senator Chuck Schumer's speech"](https://www.timesofisrael.com/full-text-of-senator-chuck-schumers-speech-israeli-elections-are-the-only-way/) (Tier 2)
+- [CNN Politics: "A speech that sent shockwaves from Washington to Jerusalem"](https://www.cnn.com/2024/03/15/politics/schumer-israel-speech-analysis) (Tier 2) (VERIFIED)
+- [Times of Israel: "Full text of Senator Chuck Schumer's speech"](https://www.timesofisrael.com/full-text-of-senator-chuck-schumers-speech-israeli-elections-are-the-only-way/) (Tier 2) (VERIFIED)
 
 ### Iron Dome Funding Vote September 2021 (Tier 2):
-- [Roll Call: "House passes Israel Iron Dome funding with some Democratic defections"](https://rollcall.com/2021/09/23/house-passes-israel-iron-dome-funding-with-some-democratic-defections/) (Tier 2)
-- [Defense News: "House passes $1 billion for Israel's Iron Dome system in blowout vote"](https://www.defensenews.com/congress/2021/09/23/house-passes-1-billion-for-israels-iron-dome-system-in-blowout-vote/) (Tier 2)
-- [Times of Israel: "US House overwhelmingly advances Iron Dome funding"](https://www.timesofisrael.com/us-house-overwhelmingly-advances-iron-dome-funding-initially-scotched-by-squad/) (Tier 2)
+- [Roll Call: "House passes Israel Iron Dome funding with some Democratic defections"](https://rollcall.com/2021/09/23/house-passes-israel-iron-dome-funding-with-some-democratic-defections/) (Tier 2) (VERIFIED)
+- [Defense News: "House passes $1 billion for Israel's Iron Dome system in blowout vote"](https://www.defensenews.com/congress/2021/09/23/house-passes-1-billion-for-israels-iron-dome-system-in-blowout-vote/) (Tier 2) (VERIFIED)
+- [Times of Israel: "US House overwhelmingly advances Iron Dome funding"](https://www.timesofisrael.com/us-house-overwhelmingly-advances-iron-dome-funding-initially-scotched-by-squad/) (Tier 2) (VERIFIED)
 
 ### Anti-BDS Legislation Votes (Tier 2):
-- [The Hill: "House passes bill opposing BDS, exposing divide among Democrats"](https://thehill.com/homenews/house/454399-house-passes-bill-opposing-bds-exposing-democratic-divides/) (Tier 2)
-- [Wikipedia: Anti-BDS laws overview and voting records](https://en.wikipedia.org/wiki/Anti-BDS_laws) (Tier 3)
-- [Common Dreams: "25 Democrats Join GOP to Advance Anti-Boycott Bill"](https://www.commondreams.org/news/2019/01/29/25-democrats-join-gop-advance-anti-boycott-bill-bernie-sanders-warns-violates) (Tier 2)
+- ~~[The Hill: "House passes bill opposing BDS, exposing divide among Democrats"](https://thehill.com/homenews/house/454399-house-passes-bill-opposing-bds-exposing-democratic-divides/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Wikipedia: Anti-BDS laws overview and voting records](https://en.wikipedia.org/wiki/Anti-BDS_laws) (Tier 3) (VERIFIED)
+- [Common Dreams: "25 Democrats Join GOP to Advance Anti-Boycott Bill"](https://www.commondreams.org/news/2019/01/29/25-democrats-join-gop-advance-anti-boycott-bill-bernie-sanders-warns-violates) (Tier 2) (VERIFIED)
 
 ### 2025 Weapons Transfer Vote (Tier 2):
-- [Axios: "Senate Democrats' bid to block $675 million Israeli arms deal fails"](https://www.axios.com/2025/07/31/israel-weapons-sales-democrats-vote-fail) (Tier 2)
-- [Truthout: "Senators Claim to Care About Starvation in Gaza, Then Vote for More Bombs"](https://readsludge.com/2025/08/04/senators-claim-to-care-about-starvation-in-gaza-then-vote-for-more-bombs/) (Tier 2)
+- [Axios: "Senate Democrats' bid to block $675 million Israeli arms deal fails"](https://www.axios.com/2025/07/31/israel-weapons-sales-democrats-vote-fail) (Tier 2) (VERIFIED)
+- [Truthout: "Senators Claim to Care About Starvation in Gaza, Then Vote for More Bombs"](https://readsludge.com/2025/08/04/senators-claim-to-care-about-starvation-in-gaza-then-vote-for-more-bombs/) (Tier 2) (VERIFIED)
 
 ### Bipartisan Strategy Analysis (Tier 2):
-- [The Intercept: "How Does AIPAC Shape Washington? We Tracked Every Dollar"](https://theintercept.com/2024/10/24/aipac-spending-congress-elections-israel/) (Tier 2)
-- [Truthout: "Report: AIPAC Is Funneling GOP Donor Money Into Democratic Primaries"](https://truthout.org/articles/report-aipac-is-funneling-gop-donor-money-into-democratic-primaries/) (Tier 2)
-- [Sludge: "AIPAC Made Record Donations to Congress in November"](https://readsludge.com/2024/01/02/aipac-makes-record-donations-to-congress/) (Tier 2)
+- [The Intercept: "How Does AIPAC Shape Washington? We Tracked Every Dollar"](https://theintercept.com/2024/10/24/aipac-spending-congress-elections-israel/) (Tier 2) (VERIFIED)
+- [Truthout: "Report: AIPAC Is Funneling GOP Donor Money Into Democratic Primaries"](https://truthout.org/articles/report-aipac-is-funneling-gop-donor-money-into-democratic-primaries/) (Tier 2) (VERIFIED)
+- [Sludge: "AIPAC Made Record Donations to Congress in November"](https://readsludge.com/2024/01/02/aipac-makes-record-donations-to-congress/) (Tier 2) (VERIFIED)
 
 ---
 

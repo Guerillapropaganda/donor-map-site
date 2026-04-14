@@ -51,9 +51,9 @@ The industry's political priorities are bipartisan by design: carried interest t
 
 ### Sources
 
-- [FEC Receipts: Securities & Investment industry contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- [SEC: Regulatory proceedings](https://www.sec.gov/cgi-bin/browse-edgar?company=Securities%20%26%20Investment%20Industry&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)
-- [Ballotpedia: Wall Street political spending](https://ballotpedia.org/Securities_&_Investment_Industry) (Tier 3)
+- [FEC Receipts: Securities & Investment industry contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
+- [SEC: Regulatory proceedings](https://www.sec.gov/cgi-bin/browse-edgar?company=Securities%20%26%20Investment%20Industry&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1) (VERIFIED)
+- [Ballotpedia: Wall Street political spending](https://ballotpedia.org/Securities_&_Investment_Industry) (Tier 3) (VERIFIED)
 
 ### OFAC Sanctions Screening
 <!-- auto:ofac-sdn start -->
@@ -75,7 +75,7 @@ The industry's political priorities are bipartisan by design: carried interest t
 - KAMARAN INDUSTRY AND INVESTMENT COMPANY (-0-) [SDGT]
   - Remarks: Website www.kamaran.com; Secondary sanctions risk: section 1(b) of Executive Order 13224, as amended by Executive Order 13886; Organization Established Date 1963; Organization Type: Wholesale of food,...
 
-- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
 ### SEC Filing Activity
@@ -93,7 +93,7 @@ The industry's political priorities are bipartisan by design: carried interest t
 - 2004-02-19 — **424B5**: PROSPECTUS SUPPLEMENT
 - 2010-04-16 — **PRE 14A**: PRE 14A
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Securities%20%26%20Investment%20Industry%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Securities%20%26%20Investment%20Industry%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:sec-edgar end -->
 
 ### Lobbying Activity
@@ -112,7 +112,7 @@ The industry's political priorities are bipartisan by design: carried interest t
 
 **Agencies contacted:** Commodity Futures Trading Commission (CFTC), Congressional Budget Office (CBO), Executive Office of the President (EOP), Federal Deposit Insurance Corporation (FDIC), Federal Housing Finance Agency (FHFA), Federal Reserve System, HOUSE OF REPRESENTATIVES, Homeland Security, Dept of (DHS), Internal Revenue Service (IRS), Labor, Dept of (DOL) +6 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Securities%20%26%20Investment%20Industry) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Securities%20%26%20Investment%20Industry) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

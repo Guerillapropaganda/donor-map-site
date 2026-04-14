@@ -183,36 +183,36 @@ Hamm refused the Energy Secretary position in 2016 because accepting it would ha
 ### Sources
 
 ### Net Worth & Company Profile:
-- [Bloomberg Billionaires Index. Harold Hamm](https://www.bloomberg.com/billionaires/profiles/harold-g-hamm/) (Tier 1)
-- [Wikipedia. Harold Hamm](https://en.wikipedia.org/wiki/Harold_Hamm) (Tier 3)
-- [Celebrity Net Worth. Harold Hamm Net Worth](https://www.celebritynetworth.com/richest-businessmen/richest-billionaires/harold-hamm-net-worth/) (Tier 3)
-- [Continental Resources. Official Company Site](https://www.clr.com/operations/bakken/) (Tier 1)
+- ~~[Bloomberg Billionaires Index. Harold Hamm](https://www.bloomberg.com/billionaires/profiles/harold-g-hamm/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Wikipedia. Harold Hamm](https://en.wikipedia.org/wiki/Harold_Hamm) (Tier 3) (VERIFIED)
+- [Celebrity Net Worth. Harold Hamm Net Worth](https://www.celebritynetworth.com/richest-businessmen/richest-billionaires/harold-hamm-net-worth/) (Tier 3) (VERIFIED)
+- [Continental Resources. Official Company Site](https://www.clr.com/operations/bakken/) (Tier 1) (VERIFIED)
 
 ### Political Donations & Campaign Role:
-- [OpenSecrets. Harold Hamm Donor Profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Harold%20Hamm) (Tier 1)
-- [Sierra Club. Oil Tycoons Open Money Floodgates for Trump](https://www.sierraclub.org/sierra/oil-tycoons-open-money-floodgates-trump) (Tier 2)
-- [DeSmog. Harold Hamm Profile](https://www.desmog.com/harold-hamm/) (Tier 2)
-- [CNBC. Trump Would Get US to Energy Independence in About 6 Years: Advisor Harold Hamm](https://www.cnbc.com/2016/10/21/trump-would-get-us-to-energy-independence-in-about-6-years-advisor-harold-hamm.html) (Tier 2)
+- [OpenSecrets. Harold Hamm Donor Profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Harold%20Hamm) (Tier 1) (VERIFIED)
+- [Sierra Club. Oil Tycoons Open Money Floodgates for Trump](https://www.sierraclub.org/sierra/oil-tycoons-open-money-floodgates-trump) (Tier 2) (VERIFIED)
+- [DeSmog. Harold Hamm Profile](https://www.desmog.com/harold-hamm/) (Tier 2) (VERIFIED)
+- [CNBC. Trump Would Get US to Energy Independence in About 6 Years: Advisor Harold Hamm](https://www.cnbc.com/2016/10/21/trump-would-get-us-to-energy-independence-in-about-6-years-advisor-harold-hamm.html) (Tier 2) (VERIFIED)
 
 ### Oil Export Ban & Energy Policy:
-- [StateImpact Oklahoma. The Oklahoma Oil Billionaire Shaping Donald Trump's Bid to Win on Energy Issues](https://www.kgou.org/energy/2016-08-25/the-oklahoma-oil-billionaire-shaping-donald-trumps-bid-to-win-on-energy-issues) (Tier 2)
-- [E&E News/POLITICO. Export Ban Supports Foreign Interests, Hamm Says](https://www.eenews.net/articles/export-ban-supports-foreign-interests-hamm-says/) (Tier 2)
-- [EcoWatch. Meet the Oil Billionaire Shaping Donald Trump's Energy Policy](https://www.ecowatch.com/harold-hamm-oil-billionaire-shaping-donald-trump-energy-policy-1935709726.html) (Tier 2)
+- [StateImpact Oklahoma. The Oklahoma Oil Billionaire Shaping Donald Trump's Bid to Win on Energy Issues](https://www.kgou.org/energy/2016-08-25/the-oklahoma-oil-billionaire-shaping-donald-trumps-bid-to-win-on-energy-issues) (Tier 2) (VERIFIED)
+- [E&E News/POLITICO. Export Ban Supports Foreign Interests, Hamm Says](https://www.eenews.net/articles/export-ban-supports-foreign-interests-hamm-says/) (Tier 2) (VERIFIED)
+- [EcoWatch. Meet the Oil Billionaire Shaping Donald Trump's Energy Policy](https://www.ecowatch.com/harold-hamm-oil-billionaire-shaping-donald-trump-energy-policy-1935709726.html) (Tier 2) (VERIFIED)
 
 ### Bakken Formation:
-- [UND Today, 'Game Changer': Harold Hamm Talks Future of Energy Policy](https://blogs.und.edu/und-today/2023/10/game-changer-harold-hamm-talks-future-of-energy-policy/) (Tier 2)
-- [Climate Criminals. Harold Hamm](https://www.climatecriminals.org/harold-hamm/) (Tier 2)
+- [UND Today, 'Game Changer': Harold Hamm Talks Future of Energy Policy](https://blogs.und.edu/und-today/2023/10/game-changer-harold-hamm-talks-future-of-energy-policy/) (Tier 2) (VERIFIED)
+- [Climate Criminals. Harold Hamm](https://www.climatecriminals.org/harold-hamm/) (Tier 2) (VERIFIED)
 
 ### Divorce Settlement:
-- [ABC News. Oil Tycoon Harold Hamm's Ex-Wife Sue Ann Arnall Cashes $975M Check](https://abcnews.com/Business/wife-spurned-975-million-settlement-check-change-heart/story?id=28109894?id=28109894) (Tier 2)
-- [Fortune. Court Dismisses Appeal in $1 Billion Divorce of Oil Executive Harold Hamm](https://fortune.com/2015/04/28/oil-exec-harold-hamm-1-billion-divorce-appeal/) (Tier 2)
+- [ABC News. Oil Tycoon Harold Hamm's Ex-Wife Sue Ann Arnall Cashes $975M Check](https://abcnews.com/Business/wife-spurned-975-million-settlement-check-change-heart/story?id=28109894?id=28109894) (Tier 2) (VERIFIED)
+- [Fortune. Court Dismisses Appeal in $1 Billion Divorce of Oil Executive Harold Hamm](https://fortune.com/2015/04/28/oil-exec-harold-hamm-1-billion-divorce-appeal/) (Tier 2) (VERIFIED)
 
 ### Trump Advisor Role & Energy Secretary Consideration:
-- [Fox Business. Trump Backer Harold Hamm Moves to Chair of Continental Resources](https://www.foxbusiness.com/money/trump-backer-harold-hamm-continental-resources) (Tier 2)
-- [StateImpact Pennsylvania. Trump Eyes Oil Billionaire, Lawmaker for Energy Secretary](https://stateimpact.npr.org/pennsylvania/2016/11/14/trump-eyes-oil-billionaire-lawmaker-for-energy-secretary/) (Tier 2)
+- [Fox Business. Trump Backer Harold Hamm Moves to Chair of Continental Resources](https://www.foxbusiness.com/money/trump-backer-harold-hamm-continental-resources) (Tier 2) (VERIFIED)
+- [StateImpact Pennsylvania. Trump Eyes Oil Billionaire, Lawmaker for Energy Secretary](https://stateimpact.npr.org/pennsylvania/2016/11/14/trump-eyes-oil-billionaire-lawmaker-for-energy-secretary/) (Tier 2) (VERIFIED)
 
 ### Recent News (2026):
-- [Oklahoma Watch. Oil Tycoon Harold Hamm Asked Oklahoma Gov. Kevin Stitt for Senate Appointment](https://oklahomawatch.org/2026/03/06/oil-tycoon-and-gop-donor-harold-hamm-asked-oklahoma-gov-kevin-stitt-for-senate-appointment/) (Tier 2)
+- [Oklahoma Watch. Oil Tycoon Harold Hamm Asked Oklahoma Gov. Kevin Stitt for Senate Appointment](https://oklahomawatch.org/2026/03/06/oil-tycoon-and-gop-donor-harold-hamm-asked-oklahoma-gov-kevin-stitt-for-senate-appointment/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -248,7 +248,7 @@ Hamm refused the Energy Secretary position in 2016 because accepting it would ha
 - Anderson v. Permian Resources Corp. (2025) — District Court, D. New Mexico
 - Hayday Farms, LLP v. Permian Resources Corp. (2025) — District Court, D. New Mexico
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Harold%20Hamm%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Harold%20Hamm%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Campaign Finance (FEC)
@@ -273,7 +273,7 @@ Hamm refused the Energy Secretary position in 2016 because accepting it would ha
 | CONTINENTAL RESOURCES, INC. POLITICAL ACTION COMMITTEE | $10,000 | — |
 | THE PETROLEUM ALLIANCE OF OKLAHOMA, INC. PAC (PETROLEUM ALLIANCE PAC) | $10,000 | — |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Harold%20Hamm) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Harold%20Hamm) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### Federal Register Activity
@@ -285,11 +285,11 @@ Hamm refused the Energy Secretary position in 2016 because accepting it would ha
 | Agencies | Federal Trade Commission |
 
 **Recent regulatory activity:**
-- [Granting of Request for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2015/03/19/2015-05919/granting-of-request-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2015-03-19) — Federal Trade Commission
-- [Granting of Request for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2011/01/12/2011-324/granting-of-request-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2011-01-12) — Federal Trade Commission
-- [Granting of Request For Early Terminiation of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2004/10/13/04-22930/granting-of-request-for-early-terminiation-of-the-waiting-period-under-the-premerger-notification) (2004-10-13) — Federal Trade Commission
+- [Granting of Request for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2015/03/19/2015-05919/granting-of-request-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (VERIFIED) (2015-03-19) — Federal Trade Commission
+- [Granting of Request for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2011/01/12/2011-324/granting-of-request-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (VERIFIED) (2011-01-12) — Federal Trade Commission
+- [Granting of Request For Early Terminiation of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2004/10/13/04-22930/granting-of-request-for-early-terminiation-of-the-waiting-period-under-the-premerger-notification) (VERIFIED) (2004-10-13) — Federal Trade Commission
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Harold%20Hamm%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Harold%20Hamm%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Financial Overview (990 Filing — 2024)
@@ -301,7 +301,7 @@ Hamm refused the Energy Secretary position in 2016 because accepting it would ha
 | Total Expenses | $2.1M |
 | Net Assets | $11.1M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 461256191](https://projects.propublica.org/nonprofits/organizations/461256191) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 461256191](https://projects.propublica.org/nonprofits/organizations/461256191) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Tax Filings (IRS 990)
@@ -319,14 +319,14 @@ Hamm refused the Energy Secretary position in 2016 because accepting it would ha
 **Filing history:** 2024, 2023, 2022, 2021, 2020, 2016, 2015, 2014
 
 **View 990 filings:**
-- [2024 Filing](https://projects.propublica.org/nonprofits/organizations/461256191/2024)
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/461256191/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/461256191/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/461256191/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/461256191/2020)
+- ~~[2024 Filing](https://projects.propublica.org/nonprofits/organizations/461256191/2024)~~ (URL broken, archived by Ops)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/461256191/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/461256191/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/461256191/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/461256191/2020)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/461256191) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/461256191) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Lobbying Activity
@@ -345,7 +345,7 @@ Hamm refused the Energy Secretary position in 2016 because accepting it would ha
 
 **Agencies contacted:** HOUSE OF REPRESENTATIVES, SENATE
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Harold%20Hamm) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Harold%20Hamm) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

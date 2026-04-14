@@ -71,10 +71,10 @@ Permian Basin drilling access, favorable federal land leasing terms, carbon capt
 
 ### Sources
 
-- [OpenSecrets: Occidental Petroleum lobbying](https://www.opensecrets.org/orgs/occidental-petroleum/summary?id=D000000378) (Tier 1)
-- [SEC: Occidental 10-K filing](https://www.sec.gov/cgi-bin/browse-edgar?company=Occidental%20Petroleum&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)
-- [IRS: 45Q tax credit data](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Occidental%20Petroleum&city=&state=All+States&country=US) (Tier 1)
-- [Ballotpedia: Occidental Petroleum](https://ballotpedia.org/Occidental_Petroleum) (Tier 3)
+- ~~[OpenSecrets: Occidental Petroleum lobbying](https://www.opensecrets.org/orgs/occidental-petroleum/summary?id=D000000378)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [SEC: Occidental 10-K filing](https://www.sec.gov/cgi-bin/browse-edgar?company=Occidental%20Petroleum&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1) (VERIFIED)
+- ~~[IRS: 45Q tax credit data](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Occidental%20Petroleum&city=&state=All+States&country=US)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Ballotpedia: Occidental Petroleum](https://ballotpedia.org/Occidental_Petroleum) (Tier 3) (VERIFIED)
 
 ---
 
@@ -94,7 +94,7 @@ Permian Basin drilling access, favorable federal land leasing terms, carbon capt
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [IM7X0T3ECJW4C1T7ON55](https://search.gleif.org/#/record/IM7X0T3ECJW4C1T7ON55) |
+| LEI | [IM7X0T3ECJW4C1T7ON55](https://search.gleif.org/#/record/IM7X0T3ECJW4C1T7ON55) (VERIFIED) |
 | Legal Name | OCCIDENTAL PETROLEUM CORPORATION |
 | Jurisdiction | US-DE |
 | Entity Status | ACTIVE |
@@ -102,7 +102,7 @@ Permian Basin drilling access, favorable federal land leasing terms, carbon capt
 | Registration | ISSUED |
 | Last Updated | 2025-12-05T07:32:56Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Federal Court Records (CourtListener)
@@ -121,7 +121,7 @@ Permian Basin drilling access, favorable federal land leasing terms, carbon capt
 - Liberty Oilfield Services LLC v. Berkley National Insurance Company (2026) — District Court, S.D. Texas
 - In re: Charles Johnson (2025) — Court of Appeals for the Fifth Circuit
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Occidental%20Petroleum%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Occidental%20Petroleum%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Register Activity
@@ -135,13 +135,13 @@ Permian Basin drilling access, favorable federal land leasing terms, carbon capt
 | Agencies | Antitrust Division, Employee Benefits Security Administration, Energy Department, Federal Energy Regulatory Commission, Federal Trade Commission, Fish and Wildlife Service, Interior Department, Justice Department +5 more |
 
 **Recent regulatory activity:**
-- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2025/09/11/2025-17535/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2025-09-11) — Federal Trade Commission
-- [Petition of Scott Sheffield To Reopen and Set Aside Order](https://www.federalregister.gov/documents/2025/04/17/2025-06562/petition-of-scott-sheffield-to-reopen-and-set-aside-order) (2025-04-17) — Federal Trade Commission
-- [Stingray Pipeline Company, L.L.C.; Notice of Request for Extension of Time](https://www.federalregister.gov/documents/2025/04/11/2025-06221/stingray-pipeline-company-llc-notice-of-request-for-extension-of-time) (2025-04-11) — Energy Department
-- [Petition of EnCap Investments L.P., et al., To Reopen and Modify Order](https://www.federalregister.gov/documents/2025/03/31/2025-05498/petition-of-encap-investments-lp-et-al-to-reopen-and-modify-order) (2025-03-31) — Federal Trade Commission
-- [Petition of Coopharma To Reopen and Set Aside or Modify Order](https://www.federalregister.gov/documents/2024/09/13/2024-20811/petition-of-coopharma-to-reopen-and-set-aside-or-modify-order) (2024-09-13) — Federal Trade Commission
-- [The Enhancement and Standardization of Climate-Related Disclosures for Investors](https://www.federalregister.gov/documents/2024/03/28/2024-05137/the-enhancement-and-standardization-of-climate-related-disclosures-for-investors) (2024-03-28) — Securities and Exchange Commission
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2025/09/11/2025-17535/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (VERIFIED) (2025-09-11) — Federal Trade Commission
+- [Petition of Scott Sheffield To Reopen and Set Aside Order](https://www.federalregister.gov/documents/2025/04/17/2025-06562/petition-of-scott-sheffield-to-reopen-and-set-aside-order) (VERIFIED) (2025-04-17) — Federal Trade Commission
+- [Stingray Pipeline Company, L.L.C.; Notice of Request for Extension of Time](https://www.federalregister.gov/documents/2025/04/11/2025-06221/stingray-pipeline-company-llc-notice-of-request-for-extension-of-time) (VERIFIED) (2025-04-11) — Energy Department
+- [Petition of EnCap Investments L.P., et al., To Reopen and Modify Order](https://www.federalregister.gov/documents/2025/03/31/2025-05498/petition-of-encap-investments-lp-et-al-to-reopen-and-modify-order) (VERIFIED) (2025-03-31) — Federal Trade Commission
+- [Petition of Coopharma To Reopen and Set Aside or Modify Order](https://www.federalregister.gov/documents/2024/09/13/2024-20811/petition-of-coopharma-to-reopen-and-set-aside-or-modify-order) (VERIFIED) (2024-09-13) — Federal Trade Commission
+- [The Enhancement and Standardization of Climate-Related Disclosures for Investors](https://www.federalregister.gov/documents/2024/03/28/2024-05137/the-enhancement-and-standardization-of-climate-related-disclosures-for-investors) (VERIFIED) (2024-03-28) — Securities and Exchange Commission
 - ... and 81 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Occidental%20Petroleum%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Occidental%20Petroleum%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->

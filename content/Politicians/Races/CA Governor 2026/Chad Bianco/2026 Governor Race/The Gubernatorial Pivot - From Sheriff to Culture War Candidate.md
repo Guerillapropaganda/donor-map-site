@@ -111,19 +111,19 @@ A Bianco governorship would test whether the constitutional sheriff doctrine can
 
 ### Sources
 
-- [Capitol Weekly — gubernatorial profile](https://capitolweekly.net/better-know-a-ca-gubernatorial-candidate-chad-bianco/) (Tier 2)
-- [The Ballot Book — donor analysis](https://theballotbook.com/blog/bianco-s-donor-base-in-the-la-media-market-could-signal-a-gop-edge) (Tier 3)
-- [The Ballot Book — fundraising breakdown](https://theballotbook.com/blog/california-governor-2026-fundraising-breakdown-money-donors-and-geography) (Tier 3)
-- [East Bay Times — GOP primary polling](https://www.eastbaytimes.com/2026/02/09/in-the-race-for-california-governor-steve-hilton-has-a-new-target-fellow-republican-chad-bianco/) (Tier 2)
-- [ABC7 — "antithesis" and "nuclear bomb" quotes](https://abc7.com/post/republican-governor-candidate-chad-bianco-says-hes-antithesis-california-state-government/18677627/) (Tier 2)
-- [NBC LA — Trump endorsement](https://www.nbclosangeles.com/news/local/riverside-county-sheriff-chad-bianco-support-trump/3427402/) (Tier 2)
-- [Daily News — legal bills fundraising](https://www.dailynews.com/2025/11/26/chad-bianco-whos-running-for-governor-asks-donors-to-help-pay-legal-bills/) (Tier 2)
-- [Press Enterprise — 5 things to know](https://www.pressenterprise.com/2025/02/18/5-things-to-know-about-chad-bianco-republican-candidate-for-california-governor/) (Tier 2)
+- [Capitol Weekly — gubernatorial profile](https://capitolweekly.net/better-know-a-ca-gubernatorial-candidate-chad-bianco/) (Tier 2) (VERIFIED)
+- [The Ballot Book — donor analysis](https://theballotbook.com/blog/bianco-s-donor-base-in-the-la-media-market-could-signal-a-gop-edge) (Tier 3) (VERIFIED)
+- [The Ballot Book — fundraising breakdown](https://theballotbook.com/blog/california-governor-2026-fundraising-breakdown-money-donors-and-geography) (Tier 3) (VERIFIED)
+- ~~[East Bay Times — GOP primary polling](https://www.eastbaytimes.com/2026/02/09/in-the-race-for-california-governor-steve-hilton-has-a-new-target-fellow-republican-chad-bianco/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [ABC7 — "antithesis" and "nuclear bomb" quotes](https://abc7.com/post/republican-governor-candidate-chad-bianco-says-hes-antithesis-california-state-government/18677627/) (Tier 2) (VERIFIED)
+- [NBC LA — Trump endorsement](https://www.nbclosangeles.com/news/local/riverside-county-sheriff-chad-bianco-support-trump/3427402/) (Tier 2) (VERIFIED)
+- [Daily News — legal bills fundraising](https://www.dailynews.com/2025/11/26/chad-bianco-whos-running-for-governor-asks-donors-to-help-pay-legal-bills/) (Tier 2) (VERIFIED)
+- [Press Enterprise — 5 things to know](https://www.pressenterprise.com/2025/02/18/5-things-to-know-about-chad-bianco-republican-candidate-for-california-governor/) (Tier 2) (VERIFIED)
 
 ### Voting Record
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: The Gubernatorial Pivot - From Sheriff to Culture War Candidate](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: The Gubernatorial Pivot - From Sheriff to Culture War Candidate](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 

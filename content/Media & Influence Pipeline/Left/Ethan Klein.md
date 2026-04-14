@@ -69,7 +69,7 @@ H3H3 partnered with BBTV (Broadband TV), a Vancouver-based creator network, in 2
 > [!money]
 > Klein gave to both Sanders and Biden in the 2020 cycle, the full arc of Democratic primary-to-general-election donor behavior. His $1,000 Sanders contribution in February 2020 (before Super Tuesday) places him in the progressive-donor lane; his $500 Biden contribution in October 2020 shows consolidation around the eventual nominee. The "NASA TOILET CLEANER" employer listing on the Sanders contribution is a joke occupation consistent with Klein's irreverent style, but it appears in the FEC database as a real filing. Total documented federal political giving: $1,500. No PAC or dark money connections identified. Klein's political funding is unremarkable, what matters structurally is who funds *him*, not who he funds.
 
-- [FEC: Ethan Klein individual contributions (2 results, $1,500)](https://www.fec.gov/data/receipts/?contributor_name=ethan+klein) (Tier 1)
+- [FEC: Ethan Klein individual contributions (2 results, $1,500)](https://www.fec.gov/data/receipts/?contributor_name=ethan+klein) (Tier 1) (VERIFIED)
 
 > **Note on API results:** The FEC API search for "ethan klein" returns 2 results ($1,500 total), both confirming the media personality. The "NASA (TOILET CLEANER)" employer on the Bernie 2020 contribution is a joke filing consistent with Klein's comedic style but appears in FEC records as submitted. Both contributions verified as matching the YouTube personality (Encino, CA address on Biden 2020 filing). No disambiguation required, both results are the H3 Podcast host.
 
@@ -170,21 +170,21 @@ Klein's model also illustrates the limits of "independence" in creator economy m
 
 ### Sources
 
-- [Wikipedia: h3h3Productions](https://en.wikipedia.org/wiki/H3h3Productions) (Tier 3)
-- [Wikipedia: H3 Podcast](https://en.wikipedia.org/wiki/H3_Podcast) (Tier 3)
-- [FEC Receipts: Ethan Klein donor lookup. FEC individual contribution records](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=ethan%20klein) (Tier 1)
-- [FEC: Browse Individual Contributions. Ethan Klein, CA](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=ethan+klein&contributor_state=CA) (Tier 1)
-- [Tubefilter: A court battle is brewing between h3h3productions and BBTV](https://www.tubefilter.com/2023/04/11/h3h3-productions-bbtv-broadband-tv-network-revenue-dispute-ethan-klein/) (Tier 3)
-- [BetaKit: BBTV resolves dispute with Ethan Klein as YouTube creators raise concerns over revenue payouts](https://betakit.com/bbtv-resolves-dispute-with-ethan-klein-as-youtube-creators-raise-concerns-over-revenue-payouts/) (Tier 3)
-- [Tubefilter: Ethan, Hila Klein Say They've Prevailed In 2 Of 4 Recent Lawsuits](https://www.tubefilter.com/2022/01/14/ethan-klein-prevail-2-of-4-lawsuits-filed-by-triller-ryan-kavanaugh/) (Tier 3)
-- [Dexerto: H3's Ethan Klein set to face major defamation lawsuit after losing appeal](https://www.dexerto.com/entertainment/h3s-ethan-klein-set-to-face-major-defamation-lawsuit-after-losing-appeal-3177424/) (Tier 3)
-- [Dexerto: Ethan Klein is suing Denims, Frogan, and Kaceytron for alleged fair use violations](https://www.dexerto.com/youtube/ethan-klein-is-suing-denims-frogan-and-kaceytron-for-alleged-fair-use-violations-3217010/) (Tier 3)
-- [Sportskeeda: Ethan Klein apologizes for platforming HasanAbi in much-awaited YouTube "Content Nuke"](https://www.sportskeeda.com/us/streamers/news-ethan-klein-apologizes-platforming-hasanabi-much-awaited-youtube-content-nuke-calls-sociopathic) (Tier 3)
-- [Spilled.gg: H3 Podcast slapped with 30-day Twitch ban for airing "Content Nuke"](https://spilled.gg/h3-podcast-slapped-30-day-twitch-ban-hasan-one-day-ban/) (Tier 3)
-- [Daily Dot: Was Ethan Klein's Lawsuit Against 3 Streamers a Trap For Hasan Piker?](https://dailydot.com/ethan-klein-copyright-lawsuit-hasan-piker) (Tier 3)
-- [Garbage Day: Alright, let's talk about the Hasan Piker and Ethan Klein feud](https://www.garbageday.email/p/alright-let-s-talk-about-the-hasan-piker-and-ethan-klein-feud) (Tier 3)
-- [Slate: Trisha Paytas, Ethan Klein, and latest the Frenemies podcast drama, explained](https://slate.com/culture/2021/06/trisha-paytas-frenemies-podcast-ethan-klein.html) (Tier 2)
-- [Lower Street: Advertising on H3 Podcast](https://lowerstreet.co/advertising/h3) (Tier 3)
-- [Graphtreon: Ethan and Hila Klein Patreon stats](https://graphtreon.com/creator/h3h3productions) (Tier 3)
-- [All About Lawyer: H3h3 Lawsuit Update, Ethan Klein's 2025 Legal Battles Explained](https://allaboutlawyer.com/h3h3-lawsuit-update-ethan-kleins-2025-legal-battles-explained-copyright-defamation-whats-next/) (Tier 3)
+- [Wikipedia: h3h3Productions](https://en.wikipedia.org/wiki/H3h3Productions) (Tier 3) (VERIFIED)
+- [Wikipedia: H3 Podcast](https://en.wikipedia.org/wiki/H3_Podcast) (Tier 3) (VERIFIED)
+- [FEC Receipts: Ethan Klein donor lookup. FEC individual contribution records](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=ethan%20klein) (Tier 1) (VERIFIED)
+- [FEC: Browse Individual Contributions. Ethan Klein, CA](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=ethan+klein&contributor_state=CA) (Tier 1) (VERIFIED)
+- [Tubefilter: A court battle is brewing between h3h3productions and BBTV](https://www.tubefilter.com/2023/04/11/h3h3-productions-bbtv-broadband-tv-network-revenue-dispute-ethan-klein/) (Tier 3) (VERIFIED)
+- [BetaKit: BBTV resolves dispute with Ethan Klein as YouTube creators raise concerns over revenue payouts](https://betakit.com/bbtv-resolves-dispute-with-ethan-klein-as-youtube-creators-raise-concerns-over-revenue-payouts/) (Tier 3) (VERIFIED)
+- [Tubefilter: Ethan, Hila Klein Say They've Prevailed In 2 Of 4 Recent Lawsuits](https://www.tubefilter.com/2022/01/14/ethan-klein-prevail-2-of-4-lawsuits-filed-by-triller-ryan-kavanaugh/) (Tier 3) (VERIFIED)
+- [Dexerto: H3's Ethan Klein set to face major defamation lawsuit after losing appeal](https://www.dexerto.com/entertainment/h3s-ethan-klein-set-to-face-major-defamation-lawsuit-after-losing-appeal-3177424/) (Tier 3) (VERIFIED)
+- [Dexerto: Ethan Klein is suing Denims, Frogan, and Kaceytron for alleged fair use violations](https://www.dexerto.com/youtube/ethan-klein-is-suing-denims-frogan-and-kaceytron-for-alleged-fair-use-violations-3217010/) (Tier 3) (VERIFIED)
+- ~~[Sportskeeda: Ethan Klein apologizes for platforming HasanAbi in much-awaited YouTube "Content Nuke"](https://www.sportskeeda.com/us/streamers/news-ethan-klein-apologizes-platforming-hasanabi-much-awaited-youtube-content-nuke-calls-sociopathic)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [Spilled.gg: H3 Podcast slapped with 30-day Twitch ban for airing "Content Nuke"](https://spilled.gg/h3-podcast-slapped-30-day-twitch-ban-hasan-one-day-ban/) (Tier 3) (VERIFIED)
+- [Daily Dot: Was Ethan Klein's Lawsuit Against 3 Streamers a Trap For Hasan Piker?](https://dailydot.com/ethan-klein-copyright-lawsuit-hasan-piker) (Tier 3) (VERIFIED)
+- [Garbage Day: Alright, let's talk about the Hasan Piker and Ethan Klein feud](https://www.garbageday.email/p/alright-let-s-talk-about-the-hasan-piker-and-ethan-klein-feud) (Tier 3) (VERIFIED)
+- [Slate: Trisha Paytas, Ethan Klein, and latest the Frenemies podcast drama, explained](https://slate.com/culture/2021/06/trisha-paytas-frenemies-podcast-ethan-klein.html) (Tier 2) (VERIFIED)
+- [Lower Street: Advertising on H3 Podcast](https://lowerstreet.co/advertising/h3) (Tier 3) (VERIFIED)
+- [Graphtreon: Ethan and Hila Klein Patreon stats](https://graphtreon.com/creator/h3h3productions) (Tier 3) (VERIFIED)
+- [All About Lawyer: H3h3 Lawsuit Update, Ethan Klein's 2025 Legal Battles Explained](https://allaboutlawyer.com/h3h3-lawsuit-update-ethan-kleins-2025-legal-battles-explained-copyright-defamation-whats-next/) (Tier 3) (VERIFIED)
 

@@ -103,7 +103,7 @@ Wells Fargo & Company. The fourth-largest US bank by assets ($1.9 trillion, 2024
 
 Wells Fargo's political significance was permanently altered by the 2016 fake accounts scandal: the bank created 3.5 million unauthorized customer accounts to meet aggressive sales targets, resulting in a $3 billion DOJ/SEC settlement, Congressional hearings, the firing of CEO John Stumpf, and an unprecedented Federal Reserve asset cap ($1.95 trillion) that remains in place. The scandal is the vault's clearest example of a systemically important bank whose internal incentive structure produced mass consumer misconduct.
 
-- [OpenSecrets: Wells Fargo organizational profile](https://www.opensecrets.org/orgs/wells-fargo/summary?id=D000019743) (Tier 1)
+- [OpenSecrets: Wells Fargo organizational profile](https://www.opensecrets.org/orgs/wells-fargo/summary?id=D000019743) (Tier 1) (VERIFIED)
 
 ---
 
@@ -135,9 +135,9 @@ The bipartisan political spending ($2-3M per cycle in PAC contributions) ensures
 ### Sources
 
 - [OpenSecrets: Wells Fargo organizational profile](https://www.opensecrets.org/orgs/wells-fargo/summary?id=D000019743) (Tier 1)
-- [DOJ: Wells Fargo fake accounts settlement](https://www.justice.gov/archives/opa/pr/wells-fargo-agrees-pay-3-billion-resolve-criminal-and-civil-investigations-sales-practices) (Tier 1)
-- [Federal Reserve: Wells Fargo asset cap](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20180202a.htm) (Tier 1)
-- [Ballotpedia: Wells Fargo](https://ballotpedia.org/Wells_Fargo) (Tier 3)
+- [DOJ: Wells Fargo fake accounts settlement](https://www.justice.gov/archives/opa/pr/wells-fargo-agrees-pay-3-billion-resolve-criminal-and-civil-investigations-sales-practices) (Tier 1) (VERIFIED)
+- [Federal Reserve: Wells Fargo asset cap](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20180202a.htm) (Tier 1) (VERIFIED)
+- [Ballotpedia: Wells Fargo](https://ballotpedia.org/Wells_Fargo) (Tier 3) (VERIFIED)
 
 ### Federal Spending (USASpending)
 <!-- auto:usaspending start -->
@@ -154,7 +154,7 @@ The bipartisan political spending ($2-3M per cycle in PAC contributions) ensures
 |--------|--------|-------------|
 | $247K | Department of the Interior | OFFICE, WAREHOUSE AND WAREYARD SPACE |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Wells%20Fargo) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Wells%20Fargo) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Federal Court Records (CourtListener)
@@ -173,7 +173,7 @@ The bipartisan political spending ($2-3M per cycle in PAC contributions) ensures
 - Weiss v. Early Warning Services, LLC (2026) — District Court, M.D. Florida
 - Celia M. Pew and Alexander E. Metcalf (2026) — United States Bankruptcy Court, D. Maryland
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Wells%20Fargo%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Wells%20Fargo%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Vehicle Safety (NHTSA)
@@ -191,7 +191,7 @@ The bipartisan political spending ($2-3M per cycle in PAC contributions) ensures
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Wells%20Fargo) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Wells%20Fargo) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### SEC Filing Activity
@@ -205,13 +205,13 @@ The bipartisan political spending ($2-3M per cycle in PAC contributions) ensures
 
 **Notable filings:**
 
-- 2026-04-02 — **4**: [PRIMARY DOCUMENT](https://www.sec.gov/Archives/edgar/data/72971/000007297126000210/0000072971-26-000210-index.htm)
-- 2026-04-02 — **4**: [PRIMARY DOCUMENT](https://www.sec.gov/Archives/edgar/data/72971/000007297126000209/0000072971-26-000209-index.htm)
-- 2026-04-02 — **4**: [PRIMARY DOCUMENT](https://www.sec.gov/Archives/edgar/data/72971/000007297126000208/0000072971-26-000208-index.htm)
-- 2026-04-02 — **4**: [PRIMARY DOCUMENT](https://www.sec.gov/Archives/edgar/data/72971/000007297126000207/0000072971-26-000207-index.htm)
-- 2026-04-02 — **424B2**: [PRELIMINARY PRICING SUPPLEMENT NO. 32](https://www.sec.gov/Archives/edgar/data/72971/000183988226018884/0001839882-26-018884-index.htm)
+- 2026-04-02 — **4**: [PRIMARY DOCUMENT](https://www.sec.gov/Archives/edgar/data/72971/000007297126000210/0000072971-26-000210-index.htm) (VERIFIED)
+- 2026-04-02 — **4**: [PRIMARY DOCUMENT](https://www.sec.gov/Archives/edgar/data/72971/000007297126000209/0000072971-26-000209-index.htm) (VERIFIED)
+- 2026-04-02 — **4**: [PRIMARY DOCUMENT](https://www.sec.gov/Archives/edgar/data/72971/000007297126000208/0000072971-26-000208-index.htm) (VERIFIED)
+- 2026-04-02 — **4**: [PRIMARY DOCUMENT](https://www.sec.gov/Archives/edgar/data/72971/000007297126000207/0000072971-26-000207-index.htm) (VERIFIED)
+- 2026-04-02 — **424B2**: [PRELIMINARY PRICING SUPPLEMENT NO. 32](https://www.sec.gov/Archives/edgar/data/72971/000183988226018884/0001839882-26-018884-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Wells%20Fargo%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Wells%20Fargo%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -223,7 +223,7 @@ The bipartisan political spending ($2-3M per cycle in PAC contributions) ensures
 | Total Expenses | $218.4M |
 | Net Assets | $50.5M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 411367441](https://projects.propublica.org/nonprofits/organizations/411367441) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 411367441](https://projects.propublica.org/nonprofits/organizations/411367441) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Tax Filings (IRS 990)
@@ -241,14 +241,14 @@ The bipartisan political spending ($2-3M per cycle in PAC contributions) ensures
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/411367441/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/411367441/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/411367441/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/411367441/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/411367441/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/411367441/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/411367441/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/411367441/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/411367441/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/411367441/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/411367441) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/411367441) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -287,14 +287,14 @@ The bipartisan political spending ($2-3M per cycle in PAC contributions) ensures
 | Upholstered Household Furniture Manufacturing (337121) | $66K |
 | Office Furniture (except Wood) Manufacturing (337214) | $42K |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [984500EB0D67AAL6D588](https://search.gleif.org/#/record/984500EB0D67AAL6D588) |
+| LEI | [984500EB0D67AAL6D588](https://search.gleif.org/#/record/984500EB0D67AAL6D588) (VERIFIED) |
 | Legal Name | WELLS FARGO LTD |
 | Jurisdiction | GB |
 | Entity Status | ACTIVE |
@@ -302,7 +302,7 @@ The bipartisan political spending ($2-3M per cycle in PAC contributions) ensures
 | Registration | LAPSED |
 | Last Updated | 2024-02-01T18:29:56Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### DOJ Press Releases
@@ -336,11 +336,11 @@ The bipartisan political spending ($2-3M per cycle in PAC contributions) ensures
 
 **Still-active enforcement actions:**
 
-- [AA-ENF-2024-41: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/eaAA-ENF-2024-41.pdf) (12/23/2024)
-- [: 1829 Prohibition Notification](https://www.occ.gov/static/enforcement-actions/ea2024-41.pdf) (12/19/2024)
-- [AA-EC-2018-80: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2018-107.pdf) (12/18/2018)
-- [AA-EC-97-03: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea97-92.pdf) (12/17/1997)
-- [: Cease-and-Desist Order (C&D) or Personal Cease-and-Desist Order (PC&D)](https://www.occ.gov/static/enforcement-actions/ea2003-157.pdf) (12/12/2003)
+- [AA-ENF-2024-41: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/eaAA-ENF-2024-41.pdf) (VERIFIED) (12/23/2024)
+- [: 1829 Prohibition Notification](https://www.occ.gov/static/enforcement-actions/ea2024-41.pdf) (VERIFIED) (12/19/2024)
+- [AA-EC-2018-80: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2018-107.pdf) (VERIFIED) (12/18/2018)
+- [AA-EC-97-03: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea97-92.pdf) (NEEDS REVIEW) (12/17/1997)
+- [: Cease-and-Desist Order (C&D) or Personal Cease-and-Desist Order (PC&D)](https://www.occ.gov/static/enforcement-actions/ea2003-157.pdf) (VERIFIED) (12/12/2003)
 
 **Recent enforcement history:**
 
@@ -349,8 +349,8 @@ The bipartisan political spending ($2-3M per cycle in PAC contributions) ensures
 - [AA-EC-2018-80: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2018-107.pdf) (12/18/2018)
 - [AA-EC-97-03: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea97-92.pdf) (12/17/1997)
 - [: Cease-and-Desist Order (C&D) or Personal Cease-and-Desist Order (PC&D)](https://www.occ.gov/static/enforcement-actions/ea2003-157.pdf) (12/12/2003)
-- [AA-EC-11-97: Civil Money Penalty (CMP)](https://www.occ.gov/static/enforcement-actions/ea2011-175.pdf) (12/08/2011) — $20,000,000
+- [AA-EC-11-97: Civil Money Penalty (CMP)](https://www.occ.gov/static/enforcement-actions/ea2011-175.pdf) (VERIFIED) (12/08/2011) — $20,000,000
 - ... and 110 more
 
-- [Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=Wells%20Fargo&srt=1&pg=1&pgsz=25&isAdv=false) (Tier 1)
+- ~~[Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=Wells%20Fargo&srt=1&pg=1&pgsz=25&isAdv=false)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:occ-enforcement end -->

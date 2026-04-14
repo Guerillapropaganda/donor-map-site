@@ -181,20 +181,20 @@ The case crystallizes the central legal fiction of 501(c)(4) dark money: AAN spe
 
 ### Sources
 
-- [FEC Independent Expenditures: American Action Network, outside spending profile](https://www.fec.gov/data/independent-expenditures/) (Tier 1)
+- [FEC Independent Expenditures: American Action Network, outside spending profile](https://www.fec.gov/data/independent-expenditures/) (Tier 1) (NEEDS REVIEW)
 - [OpenSecrets: American Action Network, organizational totals](https://www.opensecrets.org/orgs/american-action-network/totals?id=D000060058) (NEEDS REVIEW) (Tier 1)
-- [OpenSecrets News: Party-aligned groups funnel millions in dark money to super PACs ahead of 2024](https://www.opensecrets.org/news/2023/08/party-aligned-groups-funnel-millions-in-dark-money-to-closely-tied-super-pacs-ahead-of-2024-election/) (Tier 1)
-- [OpenSecrets News: Dark money topped $1 billion in 2020](https://www.opensecrets.org/news/2021/03/one-billion-dark-money-2020-electioncycle/) (Tier 1)
-- [ProPublica Nonprofit Explorer: American Action Network Inc. IRS 990 filings](https://projects.propublica.org/nonprofits/organizations/270730508) (Tier 1)
-- [CNBC: Conservative dark money group AAN reveals spending blitz to push Trump tax cut, $27M+ 2017-2018](https://www.cnbc.com/2019/05/23/conservative-dark-money-group-american-action-network-reveals-spending-blitz-to-push-trump-tax-cut.html) (Tier 2)
-- [Issue One: Top 15 dark money groups. AAN donors PhRMA $12M, RJC $4M, Aetna $3.3M](https://issueone.org/donors-key-findings-and-profiles-of-the-top-15-dark-money-groups/) (Tier 2)
-- [Sludge: Congressional leaders are embracing dark money like never before. AAN-CLF dual structure, Dan Conston](https://readsludge.com/2023/03/01/congressional-leaders-are-embracing-dark-money-like-never-before/) (Tier 2)
-- [HealthLeaders Media: Drug trade group quietly spends dark money to sway policy. PhRMA $6.1M to AAN in 2017](https://www.healthleadersmedia.com/strategy/drug-trade-group-quietly-spends-dark-money-sway-policy-and-voters) (Tier 2)
-- [CREW: Lawsuit against FEC over AAN political spending classification](https://www.citizensforethics.org/legal-action/lawsuits/crew-sues-fec-over-american-action-network-complaint/) (Tier 2)
-- [Campaign Legal Center: Super PACs are continuing to hide secret money. CLF-AAN pipeline](https://campaignlegal.org/update/super-pacs-are-continuing-hide-secret-money-wealthy-special-interests-heres-how) (Tier 2)
-- [SourceWatch: American Action Network, founding, leadership, donor history](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/American_Action_Network) (Tier 3)
-- [Ballotpedia: American Action Network](https://ballotpedia.org/American_Action_Network) (Tier 3)
-- [Wikipedia: American Action Network](https://en.wikipedia.org/wiki/American_Action_Network) (Tier 3)
+- [OpenSecrets News: Party-aligned groups funnel millions in dark money to super PACs ahead of 2024](https://www.opensecrets.org/news/2023/08/party-aligned-groups-funnel-millions-in-dark-money-to-closely-tied-super-pacs-ahead-of-2024-election/) (Tier 1) (VERIFIED)
+- [OpenSecrets News: Dark money topped $1 billion in 2020](https://www.opensecrets.org/news/2021/03/one-billion-dark-money-2020-electioncycle/) (Tier 1) (VERIFIED)
+- [ProPublica Nonprofit Explorer: American Action Network Inc. IRS 990 filings](https://projects.propublica.org/nonprofits/organizations/270730508) (Tier 1) (VERIFIED)
+- [CNBC: Conservative dark money group AAN reveals spending blitz to push Trump tax cut, $27M+ 2017-2018](https://www.cnbc.com/2019/05/23/conservative-dark-money-group-american-action-network-reveals-spending-blitz-to-push-trump-tax-cut.html) (Tier 2) (VERIFIED)
+- [Issue One: Top 15 dark money groups. AAN donors PhRMA $12M, RJC $4M, Aetna $3.3M](https://issueone.org/donors-key-findings-and-profiles-of-the-top-15-dark-money-groups/) (Tier 2) (VERIFIED)
+- [Sludge: Congressional leaders are embracing dark money like never before. AAN-CLF dual structure, Dan Conston](https://readsludge.com/2023/03/01/congressional-leaders-are-embracing-dark-money-like-never-before/) (Tier 2) (VERIFIED)
+- [HealthLeaders Media: Drug trade group quietly spends dark money to sway policy. PhRMA $6.1M to AAN in 2017](https://www.healthleadersmedia.com/strategy/drug-trade-group-quietly-spends-dark-money-sway-policy-and-voters) (Tier 2) (VERIFIED)
+- [CREW: Lawsuit against FEC over AAN political spending classification](https://www.citizensforethics.org/legal-action/lawsuits/crew-sues-fec-over-american-action-network-complaint/) (Tier 2) (VERIFIED)
+- [Campaign Legal Center: Super PACs are continuing to hide secret money. CLF-AAN pipeline](https://campaignlegal.org/update/super-pacs-are-continuing-hide-secret-money-wealthy-special-interests-heres-how) (Tier 2) (VERIFIED)
+- ~~[SourceWatch: American Action Network, founding, leadership, donor history](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/American_Action_Network)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [Ballotpedia: American Action Network](https://ballotpedia.org/American_Action_Network) (Tier 3) (VERIFIED)
+- [Wikipedia: American Action Network](https://en.wikipedia.org/wiki/American_Action_Network) (Tier 3) (VERIFIED)
 
 ### Federal Subawards & Spending Breakdown
 
@@ -208,8 +208,8 @@ The case crystallizes the central legal fiction of 501(c)(4) dark money: AAN spe
 | Net Assets | $16.3M |
 | Officer Compensation | $1.3M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 270730508](https://projects.propublica.org/nonprofits/organizations/270730508) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F270730508_202306_990O_2024061822537807.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 270730508](https://projects.propublica.org/nonprofits/organizations/270730508) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F270730508_202306_990O_2024061822537807.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Federal Court Records (CourtListener)
@@ -228,7 +228,7 @@ The case crystallizes the central legal fiction of 501(c)(4) dark money: AAN spe
 - FTX Recovery Trust v. American Action Network, Inc. (2024) — United States Bankruptcy Court, D. Delaware
 - FTX Trading Ltd. - Adversary Proceeding (2024) — United States Bankruptcy Court, D. Delaware
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22American%20Action%20Network%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22American%20Action%20Network%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Tax Filings (IRS 990)
@@ -246,14 +246,14 @@ The case crystallizes the central legal fiction of 501(c)(4) dark money: AAN spe
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/270730508/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/270730508/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/270730508/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/270730508/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/270730508/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/270730508/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/270730508/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/270730508/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/270730508/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/270730508/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/270730508) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/270730508) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Foreign Agent Activity (FARA)
@@ -264,7 +264,7 @@ The case crystallizes the central legal fiction of 501(c)(4) dark money: AAN spe
 | Total Records | 1 |
 | Registrant Records | 1 |
 
-- [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:American%20Action%20Network) (Tier 1)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:American%20Action%20Network)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:fara-foreign-agents end -->
 
 ### Campaign Finance (FEC)
@@ -289,5 +289,5 @@ The case crystallizes the central legal fiction of 501(c)(4) dark money: AAN spe
 | AMERICAN CROSSROADS | $13,761 | — |
 | PETERS FOR MICHIGAN | $1,500 | DEM |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=American%20Action%20Network) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=American%20Action%20Network) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->

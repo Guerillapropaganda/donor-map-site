@@ -38,7 +38,7 @@ Alliance Defending Freedom (ADF). The most successful conservative legal organiz
 
 ADF's legal strategy mirrors the NAACP Legal Defense Fund model: identify sympathetic plaintiffs, select favorable jurisdictions, build legal precedent through lower court victories, and advance cases to the Supreme Court. ADF has been the legal architect behind many of the Roberts Court's most consequential conservative decisions.
 
-- [ProPublica: ADF nonprofit profile](https://projects.propublica.org/nonprofits/organizations/541660459) (Tier 2)
+- [ProPublica: ADF nonprofit profile](https://projects.propublica.org/nonprofits/organizations/541660459) (Tier 2) (VERIFIED)
 
 ---
 
@@ -67,9 +67,9 @@ Each victory expands the legal territory in which religious objections override 
 
 ### Sources
 
-- [IRS: ADF 990 filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Alliance%20Defending%20Freedom&city=&state=All+States&country=US) (Tier 1)
-- [Supreme Court: ADF case record](https://www.supremecourt.gov/search.aspx?Search=Alliance%20Defending%20Freedom) (Tier 1)
-- [Ballotpedia: Alliance Defending Freedom](https://ballotpedia.org/Alliance_Defending_Freedom) (Tier 3)
+- ~~[IRS: ADF 990 filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Alliance%20Defending%20Freedom&city=&state=All+States&country=US)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Supreme Court: ADF case record](https://www.supremecourt.gov/search.aspx?Search=Alliance%20Defending%20Freedom) (Tier 1) (VERIFIED)
+- [Ballotpedia: Alliance Defending Freedom](https://ballotpedia.org/Alliance_Defending_Freedom) (Tier 3) (VERIFIED)
 
 ### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
@@ -83,7 +83,7 @@ Each victory expands the legal territory in which religious objections override 
 | Net Assets | $97.6M |
 | Officer Compensation | $3.2M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 541660459](https://projects.propublica.org/nonprofits/organizations/541660459) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 541660459](https://projects.propublica.org/nonprofits/organizations/541660459) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Campaign Finance (FEC)
@@ -99,7 +99,7 @@ Each victory expands the legal territory in which religious objections override 
 |-----------|--------|-------|
 | ALABAMA REPUBLICAN PARTY | $250 | REP |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Alliance%20Defending%20Freedom) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Alliance%20Defending%20Freedom) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### Tax Filings (IRS 990)
@@ -117,14 +117,14 @@ Each victory expands the legal territory in which religious objections override 
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/541660459/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/541660459/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/541660459/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/541660459/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/541660459/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/541660459/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/541660459/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/541660459/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/541660459/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/541660459/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/541660459) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/541660459) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Federal Register Activity
@@ -136,9 +136,9 @@ Each victory expands the legal territory in which religious objections override 
 | Agencies | Housing and Urban Development Department |
 
 **Recent regulatory activity:**
-- [Making Admission or Placement Determinations Based on Sex in Facilities Under Community Planning and Development Housing Programs](https://www.federalregister.gov/documents/2020/07/24/2020-14718/making-admission-or-placement-determinations-based-on-sex-in-facilities-under-community-planning-and) (2020-07-24) — Housing and Urban Development Department ★
+- ~~[Making Admission or Placement Determinations Based on Sex in Facilities Under Community Planning and Development Housing Programs](https://www.federalregister.gov/documents/2020/07/24/2020-14718/making-admission-or-placement-determinations-based-on-sex-in-facilities-under-community-planning-and)~~ (URL broken, archived by Ops) (2020-07-24) — Housing and Urban Development Department ★
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Alliance%20Defending%20Freedom%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Alliance%20Defending%20Freedom%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Wikipedia
@@ -147,13 +147,13 @@ The Alliance Defending Freedom (ADF), formerly the Alliance Defense Fund, is an 
 
 | Fact | Value |
 |------|-------|
-| Wikidata ID | [Q4732297](https://www.wikidata.org/wiki/Q4732297) |
+| Wikidata ID | [Q4732297](https://www.wikidata.org/wiki/Q4732297) (VERIFIED) |
 | Description | American conservative Christian legal advocacy group |
 | Founded | 1994-00-00 |
-| Website | [https://adflegal.org/](https://adflegal.org/) |
-| X/Twitter | [@AllianceDefends](https://x.com/AllianceDefends) |
-| Image | [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/en/a/a5/Alliance_Defending_Freedom_%28logo%29.png) |
+| Website | [https://adflegal.org/](https://adflegal.org/) (VERIFIED) |
+| X/Twitter | [@AllianceDefends](https://x.com/AllianceDefends) (VERIFIED) |
+| Image | [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/en/a/a5/Alliance_Defending_Freedom_%28logo%29.png) (VERIFIED) |
 
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/Alliance_Defending_Freedom) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q4732297) (Tier 2)
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Alliance_Defending_Freedom) (Tier 3) (VERIFIED)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q4732297) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->

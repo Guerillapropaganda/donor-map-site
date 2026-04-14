@@ -153,22 +153,22 @@ Heinrich's clean energy and AI work provide the progressive credential. He co-fo
 - S. 4091: Habitat Connectivity on Working Lands Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 - S. 4093: Tariff Refunds for Working Families Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/martin_heinrich/412281) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/martin_heinrich/412281) (Tier 1) (VERIFIED)
 
 <!-- auto:govtrack end -->
 
 ## Sources
 
-- [FEC Candidate: Martin Heinrich Campaign Finance Summary](https://www.fec.gov/data/candidate/H8NM01224/) (Tier 1)
-- [FEC: Martin Heinrich for Senate (S2NM00088)](https://www.fec.gov/data/candidate/S2NM00088/) (Tier 1)
-- [Senator Heinrich: Secures Wins for NM Military Installations, National Labs in FY2025 NDAA](https://www.heinrich.senate.gov/newsroom/press-releases/heinrich-secures-wins-for-nm-military-installations-national-labs-in-fy2025-national-defense-bill) (Tier 1)
-- [Senator Heinrich: Secures Wins for NM in FY2026 NDAA](https://www.heinrich.senate.gov/newsroom/press-releases/heinrich-secures-wins-for-nm-service-members-military-installations-and-national-labs-in-fy2026-national-defense-bill) (Tier 1)
-- [Senator Heinrich: National Labs Priority Page](https://www.heinrich.senate.gov/priorities/issues/national-labs) (Tier 1)
-- [The Nation: A New Progressive Voice From New Mexico Joins the Senate](https://www.heinrich.senate.gov/newsroom/in-the-news/the-nation-a-new-progressive-voice-from-new-mexico-joins-the-senate) (Tier 2)
-- [Senate Energy Committee: Heinrich on Nuclear Energy Policies](https://www.energy.senate.gov/2026/3/heinrich-stresses-need-for-trump-administration-to-support-bipartisan-nuclear-energy-policies-to-help-bring-energy-costs-down-for-consumers) (Tier 1)
-- [GovTrack: Senator Martin Heinrich](https://www.govtrack.us/congress/members/martin_heinrich/412281) (Tier 3)
-- [Wikipedia: Martin Heinrich](https://en.wikipedia.org/wiki/Martin_Heinrich) (Tier 3)
-- [Ballotpedia: Martin Heinrich](https://ballotpedia.org/Martin_Heinrich) (Tier 3)
+- [FEC Candidate: Martin Heinrich Campaign Finance Summary](https://www.fec.gov/data/candidate/H8NM01224/) (Tier 1) (VERIFIED)
+- [FEC: Martin Heinrich for Senate (S2NM00088)](https://www.fec.gov/data/candidate/S2NM00088/) (Tier 1) (VERIFIED)
+- [Senator Heinrich: Secures Wins for NM Military Installations, National Labs in FY2025 NDAA](https://www.heinrich.senate.gov/newsroom/press-releases/heinrich-secures-wins-for-nm-military-installations-national-labs-in-fy2025-national-defense-bill) (Tier 1) (VERIFIED)
+- [Senator Heinrich: Secures Wins for NM in FY2026 NDAA](https://www.heinrich.senate.gov/newsroom/press-releases/heinrich-secures-wins-for-nm-service-members-military-installations-and-national-labs-in-fy2026-national-defense-bill) (Tier 1) (VERIFIED)
+- [Senator Heinrich: National Labs Priority Page](https://www.heinrich.senate.gov/priorities/issues/national-labs) (Tier 1) (VERIFIED)
+- [The Nation: A New Progressive Voice From New Mexico Joins the Senate](https://www.heinrich.senate.gov/newsroom/in-the-news/the-nation-a-new-progressive-voice-from-new-mexico-joins-the-senate) (Tier 2) (VERIFIED)
+- [Senate Energy Committee: Heinrich on Nuclear Energy Policies](https://www.energy.senate.gov/2026/3/heinrich-stresses-need-for-trump-administration-to-support-bipartisan-nuclear-energy-policies-to-help-bring-energy-costs-down-for-consumers) (Tier 1) (VERIFIED)
+- [GovTrack: Senator Martin Heinrich](https://www.govtrack.us/congress/members/martin_heinrich/412281) (Tier 3) (VERIFIED)
+- [Wikipedia: Martin Heinrich](https://en.wikipedia.org/wiki/Martin_Heinrich) (Tier 3) (VERIFIED)
+- [Ballotpedia: Martin Heinrich](https://ballotpedia.org/Martin_Heinrich) (Tier 3) (VERIFIED)
 
 ---
 
@@ -203,7 +203,7 @@ party:: Democrat
 | REPUBLICAN CAMPAIGN COMMITTEE OF NEW MEXICO | $0 | $930,000 |
 | ENVIRONMENT AMERICA INC | $289,555 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8NM01224/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8NM01224/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### DOJ Press Releases
@@ -231,5 +231,5 @@ party:: Democrat
 
 **Sources**
 
-- [GovTrack: Martin Heinrich](https://www.govtrack.us/congress/members/412281) (Tier 1)
+- [GovTrack: Martin Heinrich](https://www.govtrack.us/congress/members/412281) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->

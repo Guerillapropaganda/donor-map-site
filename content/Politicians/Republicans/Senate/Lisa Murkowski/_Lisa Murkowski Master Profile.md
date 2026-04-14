@@ -153,19 +153,19 @@ Murkowski genuinely supports climate science, sits on the Climate Solutions Cauc
 
 ## Sources
 
-- [FEC Candidate: Lisa Murkowski donor profile](https://www.fec.gov/data/candidate/S4AK00099/) (Tier 1)
-- [FEC Candidate: Lisa Murkowski industry donors](https://www.fec.gov/data/candidate/S4AK00099/) (Tier 1)
-- [OpenSecrets: Murkowski backed by oil industry (2015)](https://www.opensecrets.org/news/2015/02/murkowski-backed-by-oil-industry-is-getting-the-fight-shes-been-pining-for-on-tuesday) (Tier 1)
-- [Senate.gov: Lisa Murkowski about](https://www.murkowski.senate.gov/about-lisa) (Tier 1)
-- [Senate.gov: Murkowski Willow Project statement](https://www.murkowski.senate.gov/press/release/murkowski-welcomes-major-announcement-on-alaskas-willow-project) (Tier 1)
-- [Senate.gov: Bipartisan Infrastructure Investment and Jobs Act statement](https://www.murkowski.senate.gov/press/release/senators-statement-on-passage-of-landmark-bipartisan-infrastructure-investment-and-jobs-act) (Tier 1)
-- [Alaska's News Source: Willow Project "first step" in Arctic oil interest (2026)](https://www.alaskasnewssource.com/2026/03/21/willow-project-was-first-step-attracting-industry-interest-shown-record-arctic-oil-lease-sale-murkowski-says/) (Tier 2)
-- [Alaska Public Media: Arctic drilling foes vs. Willow Project](https://alaskapublic.org/2023/01/31/this-is-no-refuge-arctic-drilling-foes-have-a-challenge-rallying-against-willow-project/) (Tier 2)
-- [Inside Climate News: Biden's Alaska oil drilling decisions](https://insideclimatenews.org/news/07062021/alaska-biden-murkowski-anwr-arctic-national-wildlife-refuge-oil-bipartisanship/) (Tier 2)
-- [E&E News/Politico: Climate, energy takeaways from Murkowski's memoir](https://www.eenews.net/articles/climate-energy-takeaways-from-lisa-murkowskis-memoir/) (Tier 2)
-- [NPR: Biden ends ANWR drilling as Willow moves forward](https://www.npr.org/2021/01/06/953718234/major-oil-companies-take-a-pass-on-controversial-lease-sale-in-arctic-refuge) (Tier 2)
-- [CBS News: Murkowski on navigating Washington under Trump](https://www.cbsnews.com/news/sen-lisa-murkowski-on-trump-her-place-in-the-gop-and-her-memoir-far-from-home/) (Tier 2)
-- [Ballotpedia: Lisa Murkowski](https://ballotpedia.org/Lisa_Murkowski) (Tier 3)
+- [FEC Candidate: Lisa Murkowski donor profile](https://www.fec.gov/data/candidate/S4AK00099/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Lisa Murkowski industry donors](https://www.fec.gov/data/candidate/S4AK00099/) (Tier 1) (VERIFIED)
+- [OpenSecrets: Murkowski backed by oil industry (2015)](https://www.opensecrets.org/news/2015/02/murkowski-backed-by-oil-industry-is-getting-the-fight-shes-been-pining-for-on-tuesday) (Tier 1) (VERIFIED)
+- [Senate.gov: Lisa Murkowski about](https://www.murkowski.senate.gov/about-lisa) (Tier 1) (VERIFIED)
+- [Senate.gov: Murkowski Willow Project statement](https://www.murkowski.senate.gov/press/release/murkowski-welcomes-major-announcement-on-alaskas-willow-project) (Tier 1) (VERIFIED)
+- [Senate.gov: Bipartisan Infrastructure Investment and Jobs Act statement](https://www.murkowski.senate.gov/press/release/senators-statement-on-passage-of-landmark-bipartisan-infrastructure-investment-and-jobs-act) (Tier 1) (VERIFIED)
+- [Alaska's News Source: Willow Project "first step" in Arctic oil interest (2026)](https://www.alaskasnewssource.com/2026/03/21/willow-project-was-first-step-attracting-industry-interest-shown-record-arctic-oil-lease-sale-murkowski-says/) (Tier 2) (VERIFIED)
+- [Alaska Public Media: Arctic drilling foes vs. Willow Project](https://alaskapublic.org/2023/01/31/this-is-no-refuge-arctic-drilling-foes-have-a-challenge-rallying-against-willow-project/) (Tier 2) (VERIFIED)
+- [Inside Climate News: Biden's Alaska oil drilling decisions](https://insideclimatenews.org/news/07062021/alaska-biden-murkowski-anwr-arctic-national-wildlife-refuge-oil-bipartisanship/) (Tier 2) (VERIFIED)
+- [E&E News/Politico: Climate, energy takeaways from Murkowski's memoir](https://www.eenews.net/articles/climate-energy-takeaways-from-lisa-murkowskis-memoir/) (Tier 2) (VERIFIED)
+- [NPR: Biden ends ANWR drilling as Willow moves forward](https://www.npr.org/2021/01/06/953718234/major-oil-companies-take-a-pass-on-controversial-lease-sale-in-arctic-refuge) (Tier 2) (VERIFIED)
+- [CBS News: Murkowski on navigating Washington under Trump](https://www.cbsnews.com/news/sen-lisa-murkowski-on-trump-her-place-in-the-gop-and-her-memoir-far-from-home/) (Tier 2) (VERIFIED)
+- [Ballotpedia: Lisa Murkowski](https://ballotpedia.org/Lisa_Murkowski) (Tier 3) (VERIFIED)
 
 
 ### Legislative Activity (Congress.gov)
@@ -194,12 +194,12 @@ Murkowski genuinely supports climate science, sits on the Climate Solutions Cauc
 | — |  | — |
 | — |  | — |
 
-- [Source: Congress.gov](https://www.congress.gov/member/M001153) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/M001153)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Lisa Murkowski](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: Lisa Murkowski](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->

@@ -132,19 +132,19 @@ Griffin's 2024 giving is half the story. His career federal + state political sp
 | 2021–2022 | ~$110–120M | $50M on Richard Irvin (IL gubernatorial primary, lost); $60M federal |
 | 2023–2024 | ~$108M | $30M Senate Leadership Fund, $16M CLF, $12M Keep Florida Clean (anti-marijuana) |
 
-Sources: [InfluenceWatch: Ken Griffin](https://www.influencewatch.org/person/ken-griffin/) (Tier 3); [Bloomberg: Griffin super PAC giving](https://www.bloomberg.com/news/features/2024-07-30/republican-donor-ken-griffin-billionaire-s-super-pac-giving-shapes-elections) (Tier 2); [FEC Independent Expenditures: Griffin donor detail 2024](https://www.fec.gov/data/independent-expenditures/?q=Kenneth%20C%20Griffin) (Tier 1).
+Sources: [InfluenceWatch: Ken Griffin](https://www.influencewatch.org/person/ken-griffin/) (Tier 3) (VERIFIED); ~~[Bloomberg: Griffin super PAC giving](https://www.bloomberg.com/news/features/2024-07-30/republican-donor-ken-griffin-billionaire-s-super-pac-giving-shapes-elections)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2); [FEC Independent Expenditures: Griffin donor detail 2024](https://www.fec.gov/data/independent-expenditures/?q=Kenneth%20C%20Griffin) (Tier 1) (VERIFIED).
 
 ### The Illinois Ballot Wars
 
 Griffin spent an estimated $53.75 million in 2020 to defeat Illinois's "Fair Tax" amendment, a ballot measure that would have replaced the state's flat income tax with a graduated rate structure. He won. Illinois voters rejected the amendment 53-47. He then spent roughly $50 million in 2022 trying to install Richard Irvin, mayor of Aurora, as the Republican gubernatorial nominee. Irvin finished third. Griffin left for Miami weeks later. The sequence: spend $54M to prevent your state from taxing you progressively, then spend $50M to install a governor aligned with your interests, then move when both efforts fail or become structurally impossible. The tax move saved him an estimated $51M annually in state income tax plus roughly $4.8 billion on his estate. The $100M+ in Illinois political spending bought him a decade of delay on a progressive tax regime. That's the ROI on defeating democracy at the state level.
 
-Source: [Chicago Magazine: Griffin and the Fair Tax](https://www.chicagomag.com/chicago-magazine/december-2020/ken-griffin-fair-tax/) (Tier 2); [WGLT/Chicago Sun-Times: Irvin primary](https://www.wglt.org/politics-and-government/2022-06-29/what-did-50-million-buy-ken-griffin-in-illinois-primary-not-much) (Tier 2).
+Source: [Chicago Magazine: Griffin and the Fair Tax](https://www.chicagomag.com/chicago-magazine/december-2020/ken-griffin-fair-tax/) (Tier 2) (VERIFIED); [WGLT/Chicago Sun-Times: Irvin primary](https://www.wglt.org/politics-and-government/2022-06-29/what-did-50-million-buy-ken-griffin-in-illinois-primary-not-much) (Tier 2) (VERIFIED).
 
 ### The Haley Bet and the Trump Holdout
 
 Griffin gave $5 million to the SFA Fund (Nikki Haley's super PAC) between December 2023 and January 2024, making him her top donor. Quote from January 2024: "Governor Haley possesses an impressive record of leadership, and America would greatly benefit from her foreign policy experience and priorities in the White House." Haley lost. Griffin didn't pivot to Trump. He gave $0 directly to Trump's 2024 campaign and $1 million to Trump's inaugural (the minimum buy-in for access). Lifetime Trump direct contributions: zero since 2015. Instead, he funded the institutional vehicles: $30M to Senate Leadership Fund, $16M to Congressional Leadership Fund. This is the Donor-Class Override pattern in its cleanest form: Griffin doesn't need Trump. He needs Republican Senate control for judicial appointments and regulatory appointees who will protect market structure. Whoever delivers that gets funded.
 
-Source: [CNBC: Griffin $5M to Haley PAC](https://www.cnbc.com/2024/01/30/ken-griffin-donated-5-million-to-nikki-haley-super-pac.html) (Tier 2); [CBS News: Trump megadonors](https://www.cbsnews.com/news/trump-megadonors-2024-election/) (Tier 2).
+Source: [CNBC: Griffin $5M to Haley PAC](https://www.cnbc.com/2024/01/30/ken-griffin-donated-5-million-to-nikki-haley-super-pac.html) (Tier 2) (VERIFIED); [CBS News: Trump megadonors](https://www.cbsnews.com/news/trump-megadonors-2024-election/) (Tier 2) (VERIFIED).
 
 ### The Citadel Securities Regulatory Record
 
@@ -162,37 +162,37 @@ Griffin's market-making machine has paid over $43 million in regulatory fines an
 
 All fines paid without admitting or denying findings unless otherwise noted. This is the cost of doing business for the firm executing 35% of U.S. retail equity volume. The fines are a rounding error against $9.7 billion in 2024 Citadel Securities trading revenue. The regulatory state doesn't stop the practice. It prices it.
 
-Source: [SEC Press Release 2017-11: Citadel Securities](https://www.sec.gov/newsroom/press-releases/2017-11) (Tier 1); [SEC Press Release 2023-192: Reg SHO violations](https://www.sec.gov/newsroom/press-releases/2023-192) (Tier 1).
+Source: [SEC Press Release 2017-11: Citadel Securities](https://www.sec.gov/newsroom/press-releases/2017-11) (Tier 1) (VERIFIED); [SEC Press Release 2023-192: Reg SHO violations](https://www.sec.gov/newsroom/press-releases/2023-192) (Tier 1) (VERIFIED).
 
 ### The Crypto Pivot
 
 October 2021: Griffin called cryptocurrency a "jihadist call against the dollar" and said Citadel wouldn't trade it "because of the regulatory uncertainty." March 2025: Citadel Securities announced plans to offer cryptocurrency trading services after Trump's SEC eased crypto constraints. The regulatory environment Griffin spent $248M helping to shape is the same environment that unlocked a new revenue stream for Citadel Securities. He argued crypto was dangerous under Gensler. He's launching crypto services under Atkins. The position wasn't about crypto. It was about who controls the regulatory apparatus.
 
-Sources: [Business Insider: Griffin "jihadist call" quote](https://markets.businessinsider.com/news/currencies/ken-griffin-crypto-jihadist-call-against-dollar-regulation-citadel-securities-2021-10) (Tier 2); [Business Journals: Citadel crypto plans](https://www.bizjournals.com/southflorida/news/2025/03/03/ken-griffin-citadel-securities-crypto-trump.html) (Tier 2).
+Sources: [Business Insider: Griffin "jihadist call" quote](https://markets.businessinsider.com/news/currencies/ken-griffin-crypto-jihadist-call-against-dollar-regulation-citadel-securities-2021-10) (Tier 2) (VERIFIED); ~~[Business Journals: Citadel crypto plans](https://www.bizjournals.com/southflorida/news/2025/03/03/ken-griffin-citadel-securities-crypto-trump.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2).
 
 ### The ProPublica IRS Leak and Revenge
 
 December 2022: Griffin sued the IRS and Treasury over the unlawful disclosure of his confidential tax returns to ProPublica (the "Secret IRS Files" investigation that revealed how little billionaires pay). June 2024: IRS issued a formal apology. Griffin dropped the lawsuit. The aftermath: the IRS employee responsible (Charles Littlejohn) received a five-year federal prison sentence. Meanwhile, the DOGE coalition Griffin funded through SLF/CLF helped gut IRS enforcement capacity on high-wealth taxpayers. The revenge arc is structural: leak exposed Griffin, DOGE weakened the enforcement agency.
 
-Source: [ProPublica: Griffin IRS lawsuit](https://www.propublica.org/article/ken-griffin-citadel-irs-propublica-lawsuit-taxes) (Tier 2).
+Source: [ProPublica: Griffin IRS lawsuit](https://www.propublica.org/article/ken-griffin-citadel-irs-propublica-lawsuit-taxes) (Tier 2) (VERIFIED).
 
 ### Florida Non-Compete Legislation (2025)
 
 Citadel lobbied the Florida legislature in 2025 to allow 4-year non-compete clauses for employees earning at least double average local wages (~$140K+). The bill passed. This locks in Citadel's quant and trading talent against competitors for half a decade after departure. It's the same pattern: move to Florida for tax relief, then lobby Florida for employer-side labor regulation that would never have passed in Illinois.
 
-Source: [Insurance Journal: Florida non-compete expansion](https://www.insurancejournal.com/news/southeast/2025/05/09/823164.htm) (Tier 2).
+Source: [Insurance Journal: Florida non-compete expansion](https://www.insurancejournal.com/news/southeast/2025/05/09/823164.htm) (Tier 2) (VERIFIED).
 
 ---
 
 ### Sources
 
-- [FEC Receipts: Kenneth Griffin donations](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=kenneth%20griffin) (Tier 1)
-- [ArtNews: $100M 2024 giving](https://www.artnews.com/art-news/news/billionaire-collector-kenneth-griffin-donated-100-million-2024-election-senate-leadership-fund-1234724065/) (Tier 2)
-- [Fortune: DeSantis to Trump trajectory](https://fortune.com/2024/07/13/ken-griffin-citadel-paul-singer-elliott-donald-trump-campaign-donation-meetings/) (Tier 2)
-- [CNBC: Tariff criticism](https://www.cnbc.com/2025/05/07/griffin-calls-tariffs-a-painfully-regressive-tax-hitting-working-class-the-hardest.html) (Tier 2)
-- [Pensions & Investments: Deregulation praise](https://www.pionline.com/hedge-funds/citadels-ken-griffin-criticizes-trump-tariff-and-tax-policies-calls-deregulation-a-godsend) *(source unavailable)* (Tier 2)
-- [ProPublica: Illinois tax move](https://www.propublica.org/article/ken-griffin-illinois-graduated-income-tax) (Tier 2)
-- [Fortune: GameStop](https://fortune.com/2021/11/10/citadel-ceo-ken-griffin-meme-stocks-gamestop/) (Tier 2)
+- [FEC Receipts: Kenneth Griffin donations](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=kenneth%20griffin) (Tier 1) (VERIFIED)
+- [ArtNews: $100M 2024 giving](https://www.artnews.com/art-news/news/billionaire-collector-kenneth-griffin-donated-100-million-2024-election-senate-leadership-fund-1234724065/) (Tier 2) (VERIFIED)
+- [Fortune: DeSantis to Trump trajectory](https://fortune.com/2024/07/13/ken-griffin-citadel-paul-singer-elliott-donald-trump-campaign-donation-meetings/) (Tier 2) (VERIFIED)
+- [CNBC: Tariff criticism](https://www.cnbc.com/2025/05/07/griffin-calls-tariffs-a-painfully-regressive-tax-hitting-working-class-the-hardest.html) (Tier 2) (VERIFIED)
+- ~~[Pensions & Investments: Deregulation praise](https://www.pionline.com/hedge-funds/citadels-ken-griffin-criticizes-trump-tariff-and-tax-policies-calls-deregulation-a-godsend)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+- [ProPublica: Illinois tax move](https://www.propublica.org/article/ken-griffin-illinois-graduated-income-tax) (Tier 2) (VERIFIED)
+- [Fortune: GameStop](https://fortune.com/2021/11/10/citadel-ceo-ken-griffin-meme-stocks-gamestop/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -226,7 +226,7 @@ Source: [Insurance Journal: Florida non-compete expansion](https://www.insurance
 - Kenneth Griffin (2025) — United States Bankruptcy Court, E.D. Pennsylvania
 - Donnahue George v. Ken Griffin (2024) — Court of Appeals for the Eleventh Circuit
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Kenneth%20Griffin%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Kenneth%20Griffin%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -238,7 +238,7 @@ Source: [Insurance Journal: Florida non-compete expansion](https://www.insurance
 | Total Expenses | $102K |
 | Net Assets | $83K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 581607989](https://projects.propublica.org/nonprofits/organizations/581607989) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 581607989](https://projects.propublica.org/nonprofits/organizations/581607989) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### SEC Filing Activity
@@ -256,7 +256,7 @@ Source: [Insurance Journal: Florida non-compete expansion](https://www.insurance
 - 2002-08-09 — **SC 13G**: SC 13G
 - 2002-10-11 — **SC 13G**: SC 13G
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Kenneth%20Griffin%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Kenneth%20Griffin%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Tax Filings (IRS 990)
@@ -274,14 +274,14 @@ Source: [Insurance Journal: Florida non-compete expansion](https://www.insurance
 **Filing history:** 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015
 
 **View 990 filings:**
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/362167797/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/362167797/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/362167797/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/362167797/2019)
-- [2018 Filing](https://projects.propublica.org/nonprofits/organizations/362167797/2018)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/362167797/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/362167797/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/362167797/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/362167797/2019)~~ (URL broken, archived by Ops)
+- ~~[2018 Filing](https://projects.propublica.org/nonprofits/organizations/362167797/2018)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/362167797) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/362167797) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Federal Register Activity
@@ -295,13 +295,13 @@ Source: [Insurance Journal: Florida non-compete expansion](https://www.insurance
 | Agencies | Environmental Protection Agency, Federal Emergency Management Agency, Federal Motor Carrier Safety Administration, Securities and Exchange Commission, Transportation Department |
 
 **Recent regulatory activity:**
-- [Qualification of Drivers; Exemption Applications; Vision](https://www.federalregister.gov/documents/2011/11/09/2011-29048/qualification-of-drivers-exemption-applications-vision) (2011-11-09) — Transportation Department
-- [Regulation NMS](https://www.federalregister.gov/documents/2005/06/29/05-11802/regulation-nms) (2005-06-29) — Securities and Exchange Commission
-- [Regulation NMS](https://www.federalregister.gov/documents/2004/12/27/04-27934/regulation-nms) (2004-12-27) — Securities and Exchange Commission
-- [Regulatory Reinvention (XL) Pilot Projects](https://www.federalregister.gov/documents/2000/09/07/00-22975/regulatory-reinvention-xl-pilot-projects) (2000-09-07) — Environmental Protection Agency
-- [Proposed Flood Elevation Determinations](https://www.federalregister.gov/documents/1995/05/17/95-12128/proposed-flood-elevation-determinations) (1995-05-17) — Federal Emergency Management Agency
+- [Qualification of Drivers; Exemption Applications; Vision](https://www.federalregister.gov/documents/2011/11/09/2011-29048/qualification-of-drivers-exemption-applications-vision) (VERIFIED) (2011-11-09) — Transportation Department
+- [Regulation NMS](https://www.federalregister.gov/documents/2005/06/29/05-11802/regulation-nms) (VERIFIED) (2005-06-29) — Securities and Exchange Commission
+- [Regulation NMS](https://www.federalregister.gov/documents/2004/12/27/04-27934/regulation-nms) (VERIFIED) (2004-12-27) — Securities and Exchange Commission
+- [Regulatory Reinvention (XL) Pilot Projects](https://www.federalregister.gov/documents/2000/09/07/00-22975/regulatory-reinvention-xl-pilot-projects) (VERIFIED) (2000-09-07) — Environmental Protection Agency
+- [Proposed Flood Elevation Determinations](https://www.federalregister.gov/documents/1995/05/17/95-12128/proposed-flood-elevation-determinations) (VERIFIED) (1995-05-17) — Federal Emergency Management Agency
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Kenneth%20Griffin%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Kenneth%20Griffin%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Campaign Finance (FEC)
@@ -326,7 +326,7 @@ Source: [Insurance Journal: Florida non-compete expansion](https://www.insurance
 | CONSERVATIVES FOR AMERICAN EXCELLENCE INC. | $3,000,000 | — |
 | FIX WASHINGTON PAC | $2,500,000 | — |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Kenneth%20Griffin) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Kenneth%20Griffin) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### Influence Network (Cross-Reference)

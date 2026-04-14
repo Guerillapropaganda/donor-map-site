@@ -140,18 +140,18 @@ The PMC study (1999-2018) documented that $4.7 billion in pharmaceutical lobbyin
 
 ### Sources
 
-- [FEC Receipts: Health Sector Summary](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- [FEC Receipts: Health Sector Total — 2024 contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- [FEC Receipts: Health Lobbying — 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- [Senate LDA Filings: Pharmaceuticals/Health Products Lobbying Profile](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [OpenSecrets: Big Pharma, insurers, hospitals team up to kill Medicare for All](https://www.opensecrets.org/news/2019/03/big-pharma-insurers-hospitals-team-up-to-kill-medicare-for-all/) (Tier 1)
-- [OpenSecrets: Federal lobbying set new record in 2024](https://www.opensecrets.org/news/2025/02/federal-lobbying-set-new-record-in-2024/) (Tier 1)
-- [OpenSecrets: Despite record lobbying spending, pharma lost its biggest legislative bet in 2022](https://www.opensecrets.org/news/2023/02/despite-record-federal-lobbying-spending-the-pharmaceutical-and-health-product-industry-lost-their-biggest-legislative-bet-in-2022/) (Tier 1)
-- [Axios: Health lobby spending surged at end of 2024](https://www.axios.com/pro/health-care-policy/2025/01/22/health-lobbying-spending-2024) (Tier 2)
-- [ProPublica: Insurance Lobby That Fought Hillarycare and Obamacare Now Has Sturdy Bridges to Democrats](https://www.propublica.org/article/insurance-lobby-has-sturdy-bridges-to-democrats) (Tier 2)
-- [ProPublica: Why Do Americans Pay More for Prescription Drugs?](https://www.propublica.org/article/why-americans-pay-more-for-prescription-drugs) (Tier 2)
-- [PMC/JAMA: Lobbying Expenditures and Campaign Contributions by the Pharmaceutical and Health Product Industry, 1999-2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC7054854/) (Tier 1)
-- [Ballotpedia: Healthcare Sector](https://ballotpedia.org/Healthcare_Sector) (Tier 3)
+- [FEC Receipts: Health Sector Summary](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
+- [FEC Receipts: Health Sector Total — 2024 contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
+- [FEC Receipts: Health Lobbying — 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: Pharmaceuticals/Health Products Lobbying Profile](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [OpenSecrets: Big Pharma, insurers, hospitals team up to kill Medicare for All](https://www.opensecrets.org/news/2019/03/big-pharma-insurers-hospitals-team-up-to-kill-medicare-for-all/) (Tier 1) (VERIFIED)
+- [OpenSecrets: Federal lobbying set new record in 2024](https://www.opensecrets.org/news/2025/02/federal-lobbying-set-new-record-in-2024/) (Tier 1) (VERIFIED)
+- [OpenSecrets: Despite record lobbying spending, pharma lost its biggest legislative bet in 2022](https://www.opensecrets.org/news/2023/02/despite-record-federal-lobbying-spending-the-pharmaceutical-and-health-product-industry-lost-their-biggest-legislative-bet-in-2022/) (Tier 1) (VERIFIED)
+- [Axios: Health lobby spending surged at end of 2024](https://www.axios.com/pro/health-care-policy/2025/01/22/health-lobbying-spending-2024) (Tier 2) (VERIFIED)
+- [ProPublica: Insurance Lobby That Fought Hillarycare and Obamacare Now Has Sturdy Bridges to Democrats](https://www.propublica.org/article/insurance-lobby-has-sturdy-bridges-to-democrats) (Tier 2) (VERIFIED)
+- [ProPublica: Why Do Americans Pay More for Prescription Drugs?](https://www.propublica.org/article/why-americans-pay-more-for-prescription-drugs) (Tier 2) (VERIFIED)
+- [PMC/JAMA: Lobbying Expenditures and Campaign Contributions by the Pharmaceutical and Health Product Industry, 1999-2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC7054854/) (Tier 1) (VERIFIED)
+- [Ballotpedia: Healthcare Sector](https://ballotpedia.org/Healthcare_Sector) (Tier 3) (VERIFIED)
 
 ---
 
@@ -171,14 +171,14 @@ The PMC study (1999-2018) documented that $4.7 billion in pharmaceutical lobbyin
 - Jackson v. Trinity Health Corporation (2026) — District Court, E.D. Michigan
 - Mangold v. Stryker Corporation (2026) — District Court, W.D. Michigan
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Healthcare%20Sector%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Healthcare%20Sector%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [54930024HJBJ7HNLBO26](https://search.gleif.org/#/record/54930024HJBJ7HNLBO26) |
+| LEI | [54930024HJBJ7HNLBO26](https://search.gleif.org/#/record/54930024HJBJ7HNLBO26) (VERIFIED) |
 | Legal Name | JNL/MELLON HEALTHCARE SECTOR FUND |
 | Jurisdiction | US |
 | Entity Status | ACTIVE |
@@ -186,5 +186,5 @@ The PMC study (1999-2018) documented that $4.7 billion in pharmaceutical lobbyin
 | Registration | ISSUED |
 | Last Updated | 2025-09-09T15:51:18Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->

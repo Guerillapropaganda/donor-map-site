@@ -116,5 +116,5 @@ The California Farm Bureau exemplifies how agricultural wealth translates to pol
 | KELLY FOR CONGRESS | $6,000 | REP |
 | BRAD KNOTT FOR CONGRESS | $6,000 | REP |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=CA%20Farm%20Bureau%20Federation) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=CA%20Farm%20Bureau%20Federation) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->

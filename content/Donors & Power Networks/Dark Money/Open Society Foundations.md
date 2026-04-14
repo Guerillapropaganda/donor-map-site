@@ -46,9 +46,9 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 [[Open Society Foundations]] (OSF) is the philanthropic network of billionaire [[George Soros]], with a total endowment exceeding $32 billion. Founded in 1979, OSF operates globally but maintains significant influence in U.S. progressive politics, particularly in justice system and voting rights infrastructure.
 
-[Open Society Foundations — Wikipedia](https://en.wikipedia.org/wiki/Open_Society_Foundations) (Tier 2)
+[Open Society Foundations — Wikipedia](https://en.wikipedia.org/wiki/Open_Society_Foundations) (Tier 2) (VERIFIED)
 
-[Open Society Foundations — Ballotpedia](https://ballotpedia.org/Open_Society_Foundations) (Tier 3)
+[Open Society Foundations — Ballotpedia](https://ballotpedia.org/Open_Society_Foundations) (Tier 3) (VERIFIED)
 
 In 2023, [[George Soros]] stepped down as CEO and handed control to his son Alexander Soros, though George retains board influence. The transition included significant organizational restructuring, including layoffs of approximately 40% of international staff, indicating a strategic recalibration of priorities.
 
@@ -70,11 +70,11 @@ OSF's most documented strategy: fund district attorney races in major cities to 
 
 [How [[George Soros|George Soros]] changed justice system in America](https://dnyuz.com/2025/12/03/how-george-soros-changed-criminal-justice-in-america/) (Tier 2)
 
-[Follow the Money: Mapping Soros Prosecutor Funding](https://www.policedefense.org/sorosmap/) (Tier 2)
+[Follow the Money: Mapping Soros Prosecutor Funding](https://www.policedefense.org/sorosmap/) (Tier 2) (VERIFIED)
 
-[George Soros' Bad Bet on Progressive Prosecutors](https://www.congress.gov/118/meeting/house/117234/documents/HHRG-118-JU00-20240503-SD008-U8.pdf) (Tier 2)
+[George Soros' Bad Bet on Progressive Prosecutors](https://www.congress.gov/118/meeting/house/117234/documents/HHRG-118-JU00-20240503-SD008-U8.pdf) (Tier 2) (VERIFIED)
 
-[Two dozen progressive prosecutors linked to Soros money](https://fox17.com/news/nation-world/two-dozen-progressive-prosecutors-linked-to-soros-money-report-finds) (Tier 3)
+[Two dozen progressive prosecutors linked to Soros money](https://fox17.com/news/nation-world/two-dozen-progressive-prosecutors-linked-to-soros-money-report-finds) (Tier 3) (VERIFIED)
 
 The prosecutor funding strategy achieves what OSF calls "justice system reform" but what material analysis shows: employment for progressive lawyers, diversion programs for nonprofits, and sentencing reduction that leaves the incarceration infrastructure in place.
 
@@ -135,7 +135,7 @@ OSF-affiliated Democracy PAC spent $60M+ in the 2024 cycle. Biden campaign recei
 
 Note: OSF announced it will **not** issue a call for proposals for 2025 Soros Justice Fellows, signaling a strategic recalibration.
 
-[Open Society Foundations announce 2024 Soros Justice Fellows](https://candid.org/blogs/) (Tier 2)
+[Open Society Foundations announce 2024 Soros Justice Fellows](https://candid.org/blogs/) (Tier 2) (VERIFIED)
 
 ### The Professional-Class Capture
 
@@ -178,12 +178,12 @@ The donor class needs its progressive wing. OSF provides it, professionally mana
 
 - [Open Society Foundations — Wikipedia](https://en.wikipedia.org/wiki/Open_Society_Foundations) (Tier 2)
 - [Open Society Foundations — Ballotpedia](https://ballotpedia.org/Open_Society_Foundations) (Tier 3)
-- [How George Soros changed justice system in America — DNYUZ](https://dnyuz.com/2025/12/03/how-george-soros-changed-criminal-justice-in-america/) (Tier 2)
-- [Guest Commentary: George Soros' Bad Bet on Progressive Prosecutors](https://www.congress.gov/118/meeting/house/117234/documents/HHRG-118-JU00-20240503-SD008-U8.pdf) (Tier 2)
-- [Follow the Money: Mapping Soros Prosecutor Funding — LELDF](https://www.policedefense.org/sorosmap/) (Tier 2)
+- ~~[How George Soros changed justice system in America — DNYUZ](https://dnyuz.com/2025/12/03/how-george-soros-changed-criminal-justice-in-america/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Guest Commentary: George Soros' Bad Bet on Progressive Prosecutors](https://www.congress.gov/118/meeting/house/117234/documents/HHRG-118-JU00-20240503-SD008-U8.pdf) (Tier 2) (VERIFIED)
+- [Follow the Money: Mapping Soros Prosecutor Funding — LELDF](https://www.policedefense.org/sorosmap/) (Tier 2) (VERIFIED)
 - [Two dozen progressive prosecutors linked to Soros money](https://fox17.com/news/nation-world/two-dozen-progressive-prosecutors-linked-to-soros-money-report-finds) (Tier 3)
-- [Open Society Foundations Announce 2024 Soros Justice Fellows](https://www.opensocietyfoundations.org/newsroom/open-society-foundations-announce-2024-soros-justice-fellows) (Tier 2)
-- [Soros Justice Fellowships](https://www.opensocietyfoundations.org/grants/soros-justice-fellowships) (Tier 2)
+- [Open Society Foundations Announce 2024 Soros Justice Fellows](https://www.opensocietyfoundations.org/newsroom/open-society-foundations-announce-2024-soros-justice-fellows) (Tier 2) (VERIFIED)
+- [Soros Justice Fellowships](https://www.opensocietyfoundations.org/grants/soros-justice-fellowships) (Tier 2) (VERIFIED)
 
 ### Federal Contracts
 <!-- auto:sam-contracts start -->
@@ -206,7 +206,7 @@ The donor class needs its progressive wing. OSF provides it, professionally mana
 | $40K | SOCIAL SECURITY ADMINISTRATION | 2015-09-30 |
 | $12K | DEPT OF DEFENSE | 2025-09-10 |
 
-- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Open%20Society%20Foundations&page=1&index=opp) (Tier 1)
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Open%20Society%20Foundations&page=1&index=opp) (Tier 1) (VERIFIED)
 <!-- auto:sam-contracts end -->
 
 ### Financial Overview (990 Filing — 2016)
@@ -218,8 +218,8 @@ The donor class needs its progressive wing. OSF provides it, professionally mana
 | Total Expenses | $192 |
 | Net Assets | $553 |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 273743368](https://projects.propublica.org/nonprofits/organizations/273743368) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F273743368_201612_990EZ_2017080814620190.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 273743368](https://projects.propublica.org/nonprofits/organizations/273743368) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F273743368_201612_990EZ_2017080814620190.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Influence Network (Cross-Reference)
@@ -248,14 +248,14 @@ The donor class needs its progressive wing. OSF provides it, professionally mana
 **Filing history:** 2016, 2015, 2014, 2013, 2012, 2011
 
 **View 990 filings:**
-- [2016 Filing](https://projects.propublica.org/nonprofits/organizations/273743368/2016)
-- [2015 Filing](https://projects.propublica.org/nonprofits/organizations/273743368/2015)
-- [2014 Filing](https://projects.propublica.org/nonprofits/organizations/273743368/2014)
-- [2013 Filing](https://projects.propublica.org/nonprofits/organizations/273743368/2013)
-- [2012 Filing](https://projects.propublica.org/nonprofits/organizations/273743368/2012)
+- ~~[2016 Filing](https://projects.propublica.org/nonprofits/organizations/273743368/2016)~~ (URL broken, archived by Ops)
+- ~~[2015 Filing](https://projects.propublica.org/nonprofits/organizations/273743368/2015)~~ (URL broken, archived by Ops)
+- ~~[2014 Filing](https://projects.propublica.org/nonprofits/organizations/273743368/2014)~~ (URL broken, archived by Ops)
+- ~~[2013 Filing](https://projects.propublica.org/nonprofits/organizations/273743368/2013)~~ (URL broken, archived by Ops)
+- ~~[2012 Filing](https://projects.propublica.org/nonprofits/organizations/273743368/2012)~~ (URL broken, archived by Ops)
 - ... and 1 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/273743368) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/273743368) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Federal Court Records (CourtListener)
@@ -274,5 +274,5 @@ The donor class needs its progressive wing. OSF provides it, professionally mana
 - Schlacter v. U.S. Department of State (2025) — District Court, D. Maryland
 - Rona v. Trump (2025) — District Court, S.D. New York
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Open%20Society%20Foundations%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Open%20Society%20Foundations%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->

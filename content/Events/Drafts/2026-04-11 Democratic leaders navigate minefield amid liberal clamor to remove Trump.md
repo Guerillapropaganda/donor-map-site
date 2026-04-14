@@ -13,7 +13,7 @@ profiles:
 
 ## Democratic leaders navigate minefield amid liberal clamor to remove Trump
 
-**Source:** [The Hill](https://thehill.com/homenews/house/5826381-jeffries-schumer-trump-liberals-25th-amendment-impeachment/)
+**Source:** ~~[The Hill](https://thehill.com/homenews/house/5826381-jeffries-schumer-trump-liberals-25th-amendment-impeachment/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-11
 
 Democratic leaders are walking a delicate line as liberals clamor for President Trump’s removal over the Iran war. On one hand, the minority Democrats are well aware that they have virtually no power to boot Trump from office — an effort that’s opposed by even some in their own party — and they don’t want…

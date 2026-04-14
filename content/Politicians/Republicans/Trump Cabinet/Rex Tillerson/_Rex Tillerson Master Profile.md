@@ -90,14 +90,14 @@ Tillerson operates with corporate executive framing: measured language, institut
 
 ## Sources
 
-- [Wikipedia: Rex Tillerson](https://en.wikipedia.org/wiki/Rex_Tillerson) (Tier 4)
-- [Politico: Exxon Russia sanctions and Tillerson](https://www.politico.com/story/2016/12/exxon-mobile-russia-sanctions-rex-tillerson-232770) (Tier 2)
-- [The Hill: Tillerson discloses assets up to $400M](https://thehill.com/homenews/administration/312928-tillerson-discloses-assets-worth-up-to-400m/) (Tier 2)
-- [Scripps News: Exxon $180M severance package](https://www.scrippsnews.com/business/company-news/exxon-crafts-180m-severance-package-for-ceo-rex-tillerson) (Tier 2)
-- [CBS News: Tillerson Exxon pay $27.2M](https://www.cbsnews.com/news/exxon-ceo-tillersons-pay-rises-to-272-million/) (Tier 2)
-- [UT Austin: Tillerson $16M donation](https://news.utexas.edu/2025/09/17/tillerson-investments-in-civics-engineering-and-longhorn-band-prepare-future-leaders/) (Tier 2)
-- [ExxonMobil: Tillerson retirement announcement](https://corporate.exxonmobil.com/news/news-releases/2016/1214_rex-tillerson-to-retire-darren-woods-elected-chairman-ceo-of-exxon-mobil-corporation) (Tier 1)
-- [KTVZ/CNN: Tillerson fast facts](https://ktvz.com/news/national-world/cnn-national/2024/03/14/rex-tillerson-fast-facts-3/) (Tier 3)
+- [Wikipedia: Rex Tillerson](https://en.wikipedia.org/wiki/Rex_Tillerson) (Tier 4) (VERIFIED)
+- ~~[Politico: Exxon Russia sanctions and Tillerson](https://www.politico.com/story/2016/12/exxon-mobile-russia-sanctions-rex-tillerson-232770)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Tillerson discloses assets up to $400M](https://thehill.com/homenews/administration/312928-tillerson-discloses-assets-worth-up-to-400m/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Scripps News: Exxon $180M severance package](https://www.scrippsnews.com/business/company-news/exxon-crafts-180m-severance-package-for-ceo-rex-tillerson) (Tier 2) (VERIFIED)
+- [CBS News: Tillerson Exxon pay $27.2M](https://www.cbsnews.com/news/exxon-ceo-tillersons-pay-rises-to-272-million/) (Tier 2) (VERIFIED)
+- [UT Austin: Tillerson $16M donation](https://news.utexas.edu/2025/09/17/tillerson-investments-in-civics-engineering-and-longhorn-band-prepare-future-leaders/) (Tier 2) (VERIFIED)
+- [ExxonMobil: Tillerson retirement announcement](https://corporate.exxonmobil.com/news/news-releases/2016/1214_rex-tillerson-to-retire-darren-woods-elected-chairman-ceo-of-exxon-mobil-corporation) (Tier 1) (VERIFIED)
+- [KTVZ/CNN: Tillerson fast facts](https://ktvz.com/news/national-world/cnn-national/2024/03/14/rex-tillerson-fast-facts-3/) (Tier 3) (VERIFIED)
 
 ---
 

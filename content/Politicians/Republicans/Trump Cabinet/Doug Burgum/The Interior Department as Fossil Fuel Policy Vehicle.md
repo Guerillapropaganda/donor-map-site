@@ -74,5 +74,5 @@ The council's mandate: "Selling energy to our friends and allies, not having the
 
 ### Sources
 
-- [E&E News: Another Burgum order coldcocks solar and wind](https://www.eenews.net/articles/another-burgum-order-cold-cocks-solar-and-wind/) (Tier 2)
-- [E&E News: Inside the White House's National Energy Dominance Council](https://www.eenews.net/articles/inside-the-white-houses-national-energy-dominance-council/) (Tier 2)
+- [E&E News: Another Burgum order coldcocks solar and wind](https://www.eenews.net/articles/another-burgum-order-cold-cocks-solar-and-wind/) (Tier 2) (VERIFIED)
+- [E&E News: Inside the White House's National Energy Dominance Council](https://www.eenews.net/articles/inside-the-white-houses-national-energy-dominance-council/) (Tier 2) (VERIFIED)

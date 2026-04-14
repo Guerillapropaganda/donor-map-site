@@ -105,10 +105,10 @@ Despite this direct involvement in efforts to overturn the election, [[_Clarence
 
 ### Sources
 
-- [Senate Judiciary Committee. Durbin Statement on Calculated Dark Money Scheme Targeting the Supreme Court](https://www.judiciary.senate.gov/press/releases/durbin-statement-on-calculated-dark-money-scheme-targeting-the-supreme-court-by-ginni-thomas-leonard-leo-and-network-of-billionaires) (Tier 1)
-- [Washington Post. Leonard Leo Directed Fees to Clarence Thomas's Wife (May 4 2023)](https://www.washingtonpost.com/investigations/2023/05/04/leonard-leo-clarence-ginni-thomas-conway/) (Tier 2)
-- [Washington Post. Ginni Thomas's Group Crowdsourcers Got Nearly $600,000 in Anonymous Donations (March 2023)](https://www.washingtonpost.com/investigations/2023/03/28/ginni-thomas-crowdsourcers-anonymous-donations/) (Tier 2)
-- [NPR. Ginni Thomas Texted Mark Meadows to Try to Overturn the 2020 Election (March 25 2022)](https://www.npr.org/2022/03/25/1088720571/ginni-thomas-tex-messages-mark-meadows-2020-election) (Tier 2)
-- [CNN. January 6 Committee Has Text Messages Between Ginni Thomas and Mark Meadows (March 24 2022)](https://www.cnn.com/2022/03/24/politics/ginni-thomas-mark-meadows-text-messages/index.html) (Tier 2)
-- [Rolling Stone. Ginni Thomas and Conservative Activists Worked Together to Exploit Citizens United Ruling](https://www.rollingstone.com/politics/politics-news/ginni-thomas-leonard-leo-citizens-united-1234821759/) (Tier 2)
-- [Truthout. Harlan Crow Funded Ginni Thomas Group Created in Anticipation of Citizens United](https://truthout.org/articles/harlan-crow-funded-ginni-thomas-group-created-in-anticipation-of-citizens-united/) (Tier 2)
+- [Senate Judiciary Committee. Durbin Statement on Calculated Dark Money Scheme Targeting the Supreme Court](https://www.judiciary.senate.gov/press/releases/durbin-statement-on-calculated-dark-money-scheme-targeting-the-supreme-court-by-ginni-thomas-leonard-leo-and-network-of-billionaires) (Tier 1) (VERIFIED)
+- [Washington Post. Leonard Leo Directed Fees to Clarence Thomas's Wife (May 4 2023)](https://www.washingtonpost.com/investigations/2023/05/04/leonard-leo-clarence-ginni-thomas-conway/) (Tier 2) (VERIFIED)
+- [Washington Post. Ginni Thomas's Group Crowdsourcers Got Nearly $600,000 in Anonymous Donations (March 2023)](https://www.washingtonpost.com/investigations/2023/03/28/ginni-thomas-crowdsourcers-anonymous-donations/) (Tier 2) (VERIFIED)
+- [NPR. Ginni Thomas Texted Mark Meadows to Try to Overturn the 2020 Election (March 25 2022)](https://www.npr.org/2022/03/25/1088720571/ginni-thomas-tex-messages-mark-meadows-2020-election) (Tier 2) (VERIFIED)
+- [CNN. January 6 Committee Has Text Messages Between Ginni Thomas and Mark Meadows (March 24 2022)](https://www.cnn.com/2022/03/24/politics/ginni-thomas-mark-meadows-text-messages/index.html) (Tier 2) (VERIFIED)
+- [Rolling Stone. Ginni Thomas and Conservative Activists Worked Together to Exploit Citizens United Ruling](https://www.rollingstone.com/politics/politics-news/ginni-thomas-leonard-leo-citizens-united-1234821759/) (Tier 2) (VERIFIED)
+- [Truthout. Harlan Crow Funded Ginni Thomas Group Created in Anticipation of Citizens United](https://truthout.org/articles/harlan-crow-funded-ginni-thomas-group-created-in-anticipation-of-citizens-united/) (Tier 2) (VERIFIED)

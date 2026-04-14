@@ -65,7 +65,7 @@ Instead of proceeding with the federal indictment, Acosta's office entered secre
 ### The "Intelligence" Claim:
 The Daily Beast reported that during his Trump transition vetting, Acosta told interviewers he had been "told Epstein 'belonged to intelligence' and to leave it alone." This claim — that Epstein had intelligence community protection — has never been independently verified but has been widely reported. If true, it suggests the plea deal was not merely lenient prosecution but active institutional protection of an intelligence asset.
 
-[Source: [NPR: Acosta steps down amid Epstein controversy](https://www.npr.org/2019/07/12/739881163/alexander-acosta-steps-down-as-labor-secretary-amid-epstein-controversy) (Tier 2); [CNN: DOJ review finds Acosta used "poor judgment"](https://www.cnn.com/2020/11/12/politics/department-of-justice-alex-acosta-epstein) (Tier 2); [DOJ Office of Professional Responsibility: Acosta review](https://www.justice.gov/opr/page/file/1336471/dl) (Tier 1)]
+[Source: [NPR: Acosta steps down amid Epstein controversy](https://www.npr.org/2019/07/12/739881163/alexander-acosta-steps-down-as-labor-secretary-amid-epstein-controversy) (Tier 2) (VERIFIED); [CNN: DOJ review finds Acosta used "poor judgment"](https://www.cnn.com/2020/11/12/politics/department-of-justice-alex-acosta-epstein) (Tier 2) (VERIFIED); [DOJ Office of Professional Responsibility: Acosta review](https://www.justice.gov/opr/page/file/1336471/dl) (Tier 1) (VERIFIED)]
 
 ---
 
@@ -94,7 +94,7 @@ As Secretary, Acosta proposed expanding "association health plans" (which critic
 ### The DOJ Review (November 2020):
 The DOJ Office of Professional Responsibility concluded Acosta exercised "poor judgment" in handling the Epstein case but did not commit professional misconduct. The review was completed on the last day of the Trump administration. Critics noted the review was conducted by Acosta's former colleagues and the findings released when they would receive minimal attention.
 
-[Source: [CNN: Acosta resigns amid furor over Epstein plea deal](https://www.cnn.com/2019/07/12/politics/alex-acosta-donald-trump-labor-secretary) (Tier 2); [ABC News: Acosta before House Oversight Committee](https://abcnews.com/Politics/alex-acosta-former-us-attorney-negotiated-epsteins-plea/story?id=125731737) (Tier 2)]
+[Source: [CNN: Acosta resigns amid furor over Epstein plea deal](https://www.cnn.com/2019/07/12/politics/alex-acosta-donald-trump-labor-secretary) (Tier 2) (VERIFIED); [ABC News: Acosta before House Oversight Committee](https://abcnews.com/Politics/alex-acosta-former-us-attorney-negotiated-epsteins-plea/story?id=125731737) (Tier 2) (VERIFIED)]
 
 ---
 
@@ -144,20 +144,20 @@ The legal firepower assembled for Epstein's defense was extraordinary and reflec
 
 ## Sources
 
-- [NPR: Alexander Acosta steps down as Labor Secretary amid Epstein controversy](https://www.npr.org/2019/07/12/739881163/alexander-acosta-steps-down-as-labor-secretary-amid-epstein-controversy) (Tier 2)
-- [CNN: DOJ review finds Acosta used "poor judgment" in Epstein deal](https://www.cnn.com/2020/11/12/politics/department-of-justice-alex-acosta-epstein) (Tier 2)
+- [NPR: Alexander Acosta steps down as Labor Secretary amid Epstein controversy](https://www.npr.org/2019/07/12/739881163/alexander-acosta-steps-down-as-labor-secretary-amid-epstein-controversy) (Tier 2) (VERIFIED)
+- [CNN: DOJ review finds Acosta used "poor judgment" in Epstein deal](https://www.cnn.com/2020/11/12/politics/department-of-justice-alex-acosta-epstein) (Tier 2) (VERIFIED)
 - [CNN: Acosta resigns amid furor over Epstein plea deal](https://www.cnn.com/2019/07/12/politics/alex-acosta-donald-trump-labor-secretary) (Tier 2)
 - [DOJ Office of Professional Responsibility: Acosta review](https://www.justice.gov/opr/page/file/1336471/dl) (Tier 1)
 - [ABC News: Acosta before House Oversight Committee](https://abcnews.com/Politics/alex-acosta-former-us-attorney-negotiated-epsteins-plea/story?id=125731737) (Tier 2)
-- [Wikipedia: Alexander Acosta](https://en.wikipedia.org/wiki/Alexander_Acosta) (Tier 3)
-- [Al Jazeera: US Labor Secretary Acosta resigns amid Epstein plea deal scrutiny](https://www.aljazeera.com/economy/2019/7/12/us-labor-secretary-acosta-resigns-amid-epstein-plea-deal-scrutiny) (Tier 2)
-- [Office of the Secretary: Secretary of Labor Alexander Acosta bio](https://web.archive.org/web/2021/https:/www.dol.gov/sites/dolgov/files/OSEC/official-bio-acosta.pdf) (Tier 1)
-- [Miller Center: R. Alexander Acosta (2017-2019)](https://millercenter.org/r-alexander-acosta-2017-2019) (Tier 2)
-- [PBS NewsHour: The 'completely unprecedented' plea deal](https://www.pbs.org/newshour/show/the-completely-unprecedented-plea-deal-jeffrey-epstein-made-with-alex-acosta) (Tier 2)
-- [SHRM: Labor Secretary Acosta Talks About Deregulation, Gig Economy](https://web.archive.org/web/2018/https:/www.shrm.org/topics-tools/employment-law-compliance/labor-secretary-acosta-talks-about-deregulation-gig-economy.aspx) (Tier 2)
-- [FIU News: FIU Law Dean Acosta nominated for U.S. labor secretary post](https://newsarchives.fiu.edu/2017/02/fiu-law-dean-acosta-nominated-for-u-s-labor-secretary-post) (Tier 3)
-- [House Oversight Committee: Epstein Prosecutor Acosta Interview Transcript](https://oversightdemocrats.house.gov/news/press-releases/oversight-democrats-statement-public-release-epstein-prosecutor-and-former) (Tier 2)
-- [NELP: On the Confirmation of Alexander Acosta as Labor Secretary](https://www.nelp.org/on-the-confirmation-of-alexander-acosta-as-labor-secretary/) (Tier 2)
+- [Wikipedia: Alexander Acosta](https://en.wikipedia.org/wiki/Alexander_Acosta) (Tier 3) (VERIFIED)
+- [Al Jazeera: US Labor Secretary Acosta resigns amid Epstein plea deal scrutiny](https://www.aljazeera.com/economy/2019/7/12/us-labor-secretary-acosta-resigns-amid-epstein-plea-deal-scrutiny) (Tier 2) (VERIFIED)
+- [Office of the Secretary: Secretary of Labor Alexander Acosta bio](https://web.archive.org/web/2021/https:/www.dol.gov/sites/dolgov/files/OSEC/official-bio-acosta.pdf) (Tier 1) (NEEDS REVIEW)
+- [Miller Center: R. Alexander Acosta (2017-2019)](https://millercenter.org/r-alexander-acosta-2017-2019) (Tier 2) (VERIFIED)
+- [PBS NewsHour: The 'completely unprecedented' plea deal](https://www.pbs.org/newshour/show/the-completely-unprecedented-plea-deal-jeffrey-epstein-made-with-alex-acosta) (Tier 2) (VERIFIED)
+- ~~[SHRM: Labor Secretary Acosta Talks About Deregulation, Gig Economy](https://web.archive.org/web/2018/https:/www.shrm.org/topics-tools/employment-law-compliance/labor-secretary-acosta-talks-about-deregulation-gig-economy.aspx)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [FIU News: FIU Law Dean Acosta nominated for U.S. labor secretary post](https://newsarchives.fiu.edu/2017/02/fiu-law-dean-acosta-nominated-for-u-s-labor-secretary-post) (Tier 3) (VERIFIED)
+- [House Oversight Committee: Epstein Prosecutor Acosta Interview Transcript](https://oversightdemocrats.house.gov/news/press-releases/oversight-democrats-statement-public-release-epstein-prosecutor-and-former) (Tier 2) (VERIFIED)
+- [NELP: On the Confirmation of Alexander Acosta as Labor Secretary](https://www.nelp.org/on-the-confirmation-of-alexander-acosta-as-labor-secretary/) (Tier 2) (VERIFIED)
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
@@ -169,5 +169,5 @@ The legal firepower assembled for Epstein's defense was extraordinary and reflec
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Alexander Acosta](https://www.congress.gov/member/a000383) (Tier 1)
+- ~~[Congress.gov: Alexander Acosta](https://www.congress.gov/member/a000383)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->

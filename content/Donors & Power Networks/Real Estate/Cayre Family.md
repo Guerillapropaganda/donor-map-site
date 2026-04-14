@@ -58,7 +58,7 @@ The Cayre family exemplifies how New York real estate wealth translates directly
 
 ### Sources
 
-- [New York Times: NYC developer political contributions](https://www.nytimes.com/2024/01/developer-contributions.html) (Tier 2)
+- ~~[New York Times: NYC developer political contributions](https://www.nytimes.com/2024/01/developer-contributions.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->
@@ -76,5 +76,5 @@ The Cayre family exemplifies how New York real estate wealth translates directly
 - Thai v. Cayre Group, Ltd. (2010) — District Court, S.D. New York
 - GT Brands Holdings LLC - Adversary Proceeding (2007) — United States Bankruptcy Court, S.D. New York
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Cayre%20Family%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Cayre%20Family%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->

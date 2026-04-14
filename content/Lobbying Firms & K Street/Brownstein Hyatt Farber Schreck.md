@@ -209,29 +209,29 @@ The firm's representation of Saudi Arabia — maintained after the Khashoggi mur
 
 ### Sources
 
-- [Senate LDA Filings: Brownstein, Hyatt et al Lobbying Profile](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA Filings: Brownstein, Hyatt et al Lobbyists 2024](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [OpenSecrets: Brownstein, Hyatt et al FARA Foreign Lobbying](https://www.opensecrets.org/fara/registrants/D000000724) (Tier 1)
-- [FEC: BHFS-E, PC PAC committee overview](https://www.fec.gov/data/committee/C00390583/) (Tier 1)
-- [Washington Post: The firm that once employed Trump's pick to run Interior is making millions lobbying it](https://www.washingtonpost.com/climate-environment/2019/04/03/firm-that-once-employed-trumps-pick-run-interior-is-making-millions-lobbying-it/) (Tier 2)
-- [Denver Post: Denver lobbyists are nation's most profitable](https://www.denverpost.com/2019/07/29/brownstein-lobbying-congress-nancy-pelosi/) (Tier 2)
-- [Denver Post: Colorado lobbying firm brings clout to DC](https://www.denverpost.com/2016/04/09/colorado-lobbying-firm-brings-clout-to-dc/) (Tier 2)
-- [OpenSecrets: As lobbying revenue grows at record pace, Trump-aligned firms reap biggest rewards](https://www.opensecrets.org/news/2025/11/as-lobbying-revenue-grows-at-record-pace-trump-aligned-firms-reap-the-biggest-rewards) (Tier 1)
-- [OpenSecrets: Top firms rake in millions lobbying for foreign nations on US defense budget](https://www.opensecrets.org/news/2023/12/top-firms-rake-in-millions-lobbying-for-foreign-nations-on-us-defense-budget/) (Tier 1)
-- [Common Dreams: Oil Lobbyist Turned Interior Chief Proposes Giving Contract to Ex-Client](https://www.commondreams.org/news/2019/11/08/corrupt-it-gets-oil-lobbyist-turned-interior-chief-proposes-giving-coveted-contract) (Tier 3)
-- [SourceWatch: Brownstein Hyatt Farber Schreck](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Brownstein_Hyatt_Farber_Schreck) (Tier 3)
-- [SourceWatch: ALEC Energy, Environment and Agriculture Task Force — BHFS co-chair Martin Shultz](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch?title=Energy,_Environment_and_Agriculture_Task_Force) (Tier 3)
-- [Wikipedia: Brownstein Hyatt Farber Schreck](https://en.wikipedia.org/wiki/Brownstein_Hyatt_Farber_Schreck) (Tier 3)
-- [Colorado Sun: Denver-based Brownstein Hyatt Farber Schreck won't cut ties with Saudi Arabia following Jamal Khashoggi's killing](https://coloradosun.com/2018/10/26/brownstein-hyatt-farber-schreck-saudi-arabia-khashoggi/) (Tier 2)
-- [Colorado Sun: A Denver-based lobbying firm working for Saudi Arabia met with the White House amid the fallout from a journalist's killing](https://coloradosun.com/2019/02/12/a-denver-based-lobbying-firm-working-for-saudi-arabia-met-with-the-white-house-amid-the-fallout-from-a-journalists-killing/) (Tier 2)
-- [9news: Denver law firm still lobbying for Saudi Arabia after journalist's killing](https://www.9news.com/article/news/local/next/denver-law-firm-still-lobbying-for-saudi-arabia-after-journalists-killing/73-608494164) (Tier 2)
-- [Law.com International: US Firm Brownstein Takes on Saudi Arabia NEOM Lobbying Effort](https://www.law.com/international-edition/2024/03/12/us-firm-brownstein-takes-on-saudi-arabia-neom-lobbying-effort/?slreturn=20260405194126) (Tier 2)
-- [CNBC: Trump's new Interior Secretary David Bernhardt is now under investigation](https://www.cnbc.com/2019/04/16/trumps-new-interior-secretary-is-now-under-investigation.html) (Tier 2)
-- [Bloomberg Law: Interior Watchdog Opens Ethics Probe Into Secretary Bernhardt](https://news.bloomberglaw.com/environment-and-energy/interior-watchdog-opens-ethics-probe-into-secretary-bernhardt) (Tier 2)
-- [Center for Western Priorities: David Bernhardt ethics violation investigation findings released](https://westernpriorities.org/2023/01/david-bernhardt-ethics-violation-investigation-findings-released/) (Tier 2)
-- [Bloomberg Law: Lobby Giants Cash in on Trump Tax Bill as Brownstein Hits Record](https://news.bloomberglaw.com/business-and-practice/lobby-giants-cash-in-on-trump-tax-bill-as-brownstein-hits-record) (Tier 2)
-- [BHFS: Brownstein Lobbyists Recognized on The Hill's 2025 Top Lobbyists List](https://www.bhfs.com/news-event/brownstein-lobbyists-recognized-on-the-hills-2025-top-lobbyists-list/) (Tier 4)
-- [Washington Blade: Comings & Goings — David Reid joins Brownstein as Principal, Public Policy](https://www.washingtonblade.com/2026/02/07/david-reid-brownstein-hyatt-farber-schreck/) (Tier 2)
+- [Senate LDA Filings: Brownstein, Hyatt et al Lobbying Profile](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: Brownstein, Hyatt et al Lobbyists 2024](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [OpenSecrets: Brownstein, Hyatt et al FARA Foreign Lobbying](https://www.opensecrets.org/fara/registrants/D000000724) (Tier 1) (VERIFIED)
+- [FEC: BHFS-E, PC PAC committee overview](https://www.fec.gov/data/committee/C00390583/) (Tier 1) (VERIFIED)
+- [Washington Post: The firm that once employed Trump's pick to run Interior is making millions lobbying it](https://www.washingtonpost.com/climate-environment/2019/04/03/firm-that-once-employed-trumps-pick-run-interior-is-making-millions-lobbying-it/) (Tier 2) (VERIFIED)
+- [Denver Post: Denver lobbyists are nation's most profitable](https://www.denverpost.com/2019/07/29/brownstein-lobbying-congress-nancy-pelosi/) (Tier 2) (VERIFIED)
+- [Denver Post: Colorado lobbying firm brings clout to DC](https://www.denverpost.com/2016/04/09/colorado-lobbying-firm-brings-clout-to-dc/) (Tier 2) (VERIFIED)
+- ~~[OpenSecrets: As lobbying revenue grows at record pace, Trump-aligned firms reap biggest rewards](https://www.opensecrets.org/news/2025/11/as-lobbying-revenue-grows-at-record-pace-trump-aligned-firms-reap-the-biggest-rewards)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Top firms rake in millions lobbying for foreign nations on US defense budget](https://www.opensecrets.org/news/2023/12/top-firms-rake-in-millions-lobbying-for-foreign-nations-on-us-defense-budget/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Common Dreams: Oil Lobbyist Turned Interior Chief Proposes Giving Contract to Ex-Client](https://www.commondreams.org/news/2019/11/08/corrupt-it-gets-oil-lobbyist-turned-interior-chief-proposes-giving-coveted-contract) (Tier 3) (VERIFIED)
+- ~~[SourceWatch: Brownstein Hyatt Farber Schreck](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Brownstein_Hyatt_Farber_Schreck)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[SourceWatch: ALEC Energy, Environment and Agriculture Task Force — BHFS co-chair Martin Shultz](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch?title=Energy,_Environment_and_Agriculture_Task_Force)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [Wikipedia: Brownstein Hyatt Farber Schreck](https://en.wikipedia.org/wiki/Brownstein_Hyatt_Farber_Schreck) (Tier 3) (VERIFIED)
+- [Colorado Sun: Denver-based Brownstein Hyatt Farber Schreck won't cut ties with Saudi Arabia following Jamal Khashoggi's killing](https://coloradosun.com/2018/10/26/brownstein-hyatt-farber-schreck-saudi-arabia-khashoggi/) (Tier 2) (VERIFIED)
+- [Colorado Sun: A Denver-based lobbying firm working for Saudi Arabia met with the White House amid the fallout from a journalist's killing](https://coloradosun.com/2019/02/12/a-denver-based-lobbying-firm-working-for-saudi-arabia-met-with-the-white-house-amid-the-fallout-from-a-journalists-killing/) (Tier 2) (VERIFIED)
+- [9news: Denver law firm still lobbying for Saudi Arabia after journalist's killing](https://www.9news.com/article/news/local/next/denver-law-firm-still-lobbying-for-saudi-arabia-after-journalists-killing/73-608494164) (Tier 2) (VERIFIED)
+- [Law.com International: US Firm Brownstein Takes on Saudi Arabia NEOM Lobbying Effort](https://www.law.com/international-edition/2024/03/12/us-firm-brownstein-takes-on-saudi-arabia-neom-lobbying-effort/?slreturn=20260405194126) (Tier 2) (NEEDS REVIEW)
+- [CNBC: Trump's new Interior Secretary David Bernhardt is now under investigation](https://www.cnbc.com/2019/04/16/trumps-new-interior-secretary-is-now-under-investigation.html) (Tier 2) (VERIFIED)
+- [Bloomberg Law: Interior Watchdog Opens Ethics Probe Into Secretary Bernhardt](https://news.bloomberglaw.com/environment-and-energy/interior-watchdog-opens-ethics-probe-into-secretary-bernhardt) (Tier 2) (VERIFIED)
+- [Center for Western Priorities: David Bernhardt ethics violation investigation findings released](https://westernpriorities.org/2023/01/david-bernhardt-ethics-violation-investigation-findings-released/) (Tier 2) (VERIFIED)
+- [Bloomberg Law: Lobby Giants Cash in on Trump Tax Bill as Brownstein Hits Record](https://news.bloomberglaw.com/business-and-practice/lobby-giants-cash-in-on-trump-tax-bill-as-brownstein-hits-record) (Tier 2) (VERIFIED)
+- [BHFS: Brownstein Lobbyists Recognized on The Hill's 2025 Top Lobbyists List](https://www.bhfs.com/news-event/brownstein-lobbyists-recognized-on-the-hills-2025-top-lobbyists-list/) (Tier 4) (VERIFIED)
+- [Washington Blade: Comings & Goings — David Reid joins Brownstein as Principal, Public Policy](https://www.washingtonblade.com/2026/02/07/david-reid-brownstein-hyatt-farber-schreck/) (Tier 2) (VERIFIED)
 
 ### Federal Register Activity
 <!-- auto:federal-register start -->
@@ -244,21 +244,21 @@ The firm's representation of Saudi Arabia — maintained after the Khashoggi mur
 | Agencies | Antitrust Division, Consumer Product Safety Commission, Justice Department, Labor Department, Securities and Exchange Commission, Wage and Hour Division |
 
 **Recent regulatory activity:**
-- [EDGAR Filer Access and Account Management](https://www.federalregister.gov/documents/2023/09/22/2023-20268/edgar-filer-access-and-account-management) (2023-09-22) — Securities and Exchange Commission
-- [Listing Standards for Recovery of Erroneously Awarded Compensation](https://www.federalregister.gov/documents/2022/11/28/2022-23757/listing-standards-for-recovery-of-erroneously-awarded-compensation) (2022-11-28) — Securities and Exchange Commission
-- [Pay Versus Performance](https://www.federalregister.gov/documents/2022/09/08/2022-18771/pay-versus-performance) (2022-09-08) — Securities and Exchange Commission
-- [Independent Contractor Status Under the Fair Labor Standards Act (FLSA): Withdrawal](https://www.federalregister.gov/documents/2021/05/06/2021-09518/independent-contractor-status-under-the-fair-labor-standards-act-flsa-withdrawal) (2021-05-06) — Labor Department ★
-- [United States v. SG Interests I LTD., et al.; Proposed Final Judgment and Competitive Impact Statement](https://www.federalregister.gov/documents/2012/02/23/2012-4246/united-states-v-sg-interests-i-ltd-et-al-proposed-final-judgment-and-competitive-impact-statement) (2012-02-23) — Justice Department
-- [Jake's Fireworks, Inc., Far East Imports, Inc., Wholesale Fireworks Enterprises LLC, Pacific Northwest Fireworks, Inc., Provisional Acceptance of a Settlement Agreement and Order](https://www.federalregister.gov/documents/2010/11/30/2010-30073/jakes-fireworks-inc-far-east-imports-inc-wholesale-fireworks-enterprises-llc-pacific-northwest) (2010-11-30) — Consumer Product Safety Commission
+- [EDGAR Filer Access and Account Management](https://www.federalregister.gov/documents/2023/09/22/2023-20268/edgar-filer-access-and-account-management) (VERIFIED) (2023-09-22) — Securities and Exchange Commission
+- [Listing Standards for Recovery of Erroneously Awarded Compensation](https://www.federalregister.gov/documents/2022/11/28/2022-23757/listing-standards-for-recovery-of-erroneously-awarded-compensation) (VERIFIED) (2022-11-28) — Securities and Exchange Commission
+- [Pay Versus Performance](https://www.federalregister.gov/documents/2022/09/08/2022-18771/pay-versus-performance) (VERIFIED) (2022-09-08) — Securities and Exchange Commission
+- [Independent Contractor Status Under the Fair Labor Standards Act (FLSA): Withdrawal](https://www.federalregister.gov/documents/2021/05/06/2021-09518/independent-contractor-status-under-the-fair-labor-standards-act-flsa-withdrawal) (VERIFIED) (2021-05-06) — Labor Department ★
+- [United States v. SG Interests I LTD., et al.; Proposed Final Judgment and Competitive Impact Statement](https://www.federalregister.gov/documents/2012/02/23/2012-4246/united-states-v-sg-interests-i-ltd-et-al-proposed-final-judgment-and-competitive-impact-statement) (VERIFIED) (2012-02-23) — Justice Department
+- [Jake's Fireworks, Inc., Far East Imports, Inc., Wholesale Fireworks Enterprises LLC, Pacific Northwest Fireworks, Inc., Provisional Acceptance of a Settlement Agreement and Order](https://www.federalregister.gov/documents/2010/11/30/2010-30073/jakes-fireworks-inc-far-east-imports-inc-wholesale-fireworks-enterprises-llc-pacific-northwest) (VERIFIED) (2010-11-30) — Consumer Product Safety Commission
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Brownstein%20Hyatt%20Farber%20Schreck%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Brownstein%20Hyatt%20Farber%20Schreck%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [5493001UWJ1RT346BG14](https://search.gleif.org/#/record/5493001UWJ1RT346BG14) |
+| LEI | [5493001UWJ1RT346BG14](https://search.gleif.org/#/record/5493001UWJ1RT346BG14) (VERIFIED) |
 | Legal Name | Brownstein Hyatt Farber Schreck, LLP |
 | Jurisdiction | US-CO |
 | Entity Status | ACTIVE |
@@ -266,7 +266,7 @@ The firm's representation of Saudi Arabia — maintained after the Khashoggi mur
 | Registration | ISSUED |
 | Last Updated | 2026-01-25T12:04:01Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### SEC Filing Activity
@@ -284,7 +284,7 @@ The firm's representation of Saudi Arabia — maintained after the Khashoggi mur
 - 2015-12-11 — **EX-99.2**: TEMPORARY RESTRAINING ORDER
 - 2013-04-17 — **8-K**: FORM 8-K
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Brownstein%20Hyatt%20Farber%20Schreck%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Brownstein%20Hyatt%20Farber%20Schreck%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Federal Court Records (CourtListener)
@@ -303,5 +303,5 @@ The firm's representation of Saudi Arabia — maintained after the Khashoggi mur
 - Glenwood Caverns Holdings LLC (2026) — United States Bankruptcy Court, D. Delaware
 - Petersen v. Evers (2026) — District Court, D. Nevada
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Brownstein%20Hyatt%20Farber%20Schreck%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Brownstein%20Hyatt%20Farber%20Schreck%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->

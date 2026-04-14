@@ -63,7 +63,7 @@ Bongino's funding model is the most vertically integrated in the right-wing medi
 > [!money]
 > Bongino's FEC record is 100% Trump-aligned across a 7-year period. The $50,000 Trump 47 Committee contribution (April 2024) precedes his FBI appointment by exactly 11 months, a clear donation-to-appointment arc. The $39,300 RNC contribution from the same date suggests coordinated giving. His total personal political investment ($106K) is entirely within the Wilks-Thiel MAGA ecosystem documented in his professional funding: Rumble equity, Trump appointment, Trump loyalty. The pattern is consistent: Bongino's FEC money flows to the same institutions that his media platform advances.
 
-- [FEC: Dan Bongino individual contributions (22 results, $106,000)](https://www.fec.gov/data/receipts/?contributor_name=bongino%2C+dan) (Tier 1)
+- [FEC: Dan Bongino individual contributions (22 results, $106,000)](https://www.fec.gov/data/receipts/?contributor_name=bongino%2C+dan) (Tier 1) (VERIFIED)
 
 > **Note on API results:** The FEC API search for "bongino, dan" returns 22 results totaling $106,000 across 2017-2024. All verified results confirm the Rumble/media personality Dan Bongino. The contribution pattern is consistent across filings with clear employer and occupation data matching the media figure. No disambiguation required, all 22 results belong to the subject.
 
@@ -167,18 +167,18 @@ Dan Bongino represents **the media-to-government revolving door as content strat
 
 ### Sources
 
-- [SEC: Schedule 13G. Daniel John Bongino, Rumble Inc. Beneficial Ownership (Sep 16, 2022)](https://www.sec.gov/Archives/edgar/data/1830081/000121390022059250/ea166367-13gbongino_rumble.htm) (Tier 1)
-- [FEC Individual Contributions: Dan Bongino (15 results, 2015-2026)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=dan+bongino&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1)
-- [Rumble Corp Blog: "Rumble Secures Exclusive Video and Live Streaming Rights for The Dan Bongino Show" (Jan 12, 2026)](https://corp.rumble.com/blog/rumble-secures-exclusive-video-and-live-streaming-rights-for-the-dan-bongino-show/) (Tier 1)
-- [NBC News: "FBI Deputy Director Dan Bongino Says He Will Step Down in January" (Dec 17, 2025)](https://www.nbcnews.com/politics/trump-administration/fbi-deputy-director-dan-bongino-leave-post-january-rcna249789) (Tier 2)
-- [Axios: "Trump on Bongino FBI Exit: He 'Wants to Go Back to His Show'" (Dec 17, 2025)](https://www.axios.com/2025/12/17/dan-bongino-tenure-fbi-trump-show) (Tier 2)
-- [PBS News: "Dan Bongino Says He Plans to Resign as FBI Deputy Director" (Dec 17, 2025)](https://www.pbs.org/newshour/politics/dan-bongino-says-he-plans-to-resign-as-fbi-deputy-director-in-january-ending-brief-tenure) (Tier 2)
-- [NPR Fresh Air: "How Dan Bongino Is Building a Right-Wing Media Infrastructure in Time for 2024" (Jan 6, 2022)](https://www.npr.org/2022/01/06/1070924133/how-dan-bongino-is-building-a-right-wing-media-infrastructure-in-time-for-2024) (Tier 2)
-- [NBC News: "Dan Bongino Weighs Resigning from FBI After Heated Confrontation with Pam Bondi over Epstein Files" (Jul 2025)](https://www.nbcnews.com/politics/justice-department/dan-bongino-weighs-resigning-fbi-heated-confrontation-pam-bondi-epstei-rcna218388) (Tier 2)
-- [CNN: "Deputy FBI Director Bongino Has Told People He Is Considering Resigning Amid Epstein Files Fallout" (Jul 11, 2025)](https://www.cnn.com/2025/07/11/politics/bongino-consider-resigning-epstein-files) (Tier 2)
-- [Washington Examiner: "Dan Bongino Acquires Part-Ownership of Video-Sharing Competitor Rumble" (Sep 2020)](https://www.washingtonexaminer.com/news/2643457/exclusive-fed-up-with-youtube-crushing-conservative-voices-dan-bongino-acquires-part-ownership-of-video-sharing-competitor/) (Tier 3)
-- [Democracy Now: "Dan Bongino Announces Resignation as FBI's Second-in-Command" (Dec 18, 2025)](https://www.democracynow.org/2025/12/18/headlines/dan_bongino_announces_resignation_as_fbis_second_in_command) (Tier 2)
-- [Wikipedia: Dan Bongino](https://en.wikipedia.org/wiki/Dan_Bongino) (Tier 3)
+- [SEC: Schedule 13G. Daniel John Bongino, Rumble Inc. Beneficial Ownership (Sep 16, 2022)](https://www.sec.gov/Archives/edgar/data/1830081/000121390022059250/ea166367-13gbongino_rumble.htm) (Tier 1) (VERIFIED)
+- [FEC Individual Contributions: Dan Bongino (15 results, 2015-2026)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=dan+bongino&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1) (VERIFIED)
+- [Rumble Corp Blog: "Rumble Secures Exclusive Video and Live Streaming Rights for The Dan Bongino Show" (Jan 12, 2026)](https://corp.rumble.com/blog/rumble-secures-exclusive-video-and-live-streaming-rights-for-the-dan-bongino-show/) (Tier 1) (VERIFIED)
+- [NBC News: "FBI Deputy Director Dan Bongino Says He Will Step Down in January" (Dec 17, 2025)](https://www.nbcnews.com/politics/trump-administration/fbi-deputy-director-dan-bongino-leave-post-january-rcna249789) (Tier 2) (VERIFIED)
+- ~~[Axios: "Trump on Bongino FBI Exit: He 'Wants to Go Back to His Show'" (Dec 17, 2025)](https://www.axios.com/2025/12/17/dan-bongino-tenure-fbi-trump-show)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [PBS News: "Dan Bongino Says He Plans to Resign as FBI Deputy Director" (Dec 17, 2025)](https://www.pbs.org/newshour/politics/dan-bongino-says-he-plans-to-resign-as-fbi-deputy-director-in-january-ending-brief-tenure) (Tier 2) (VERIFIED)
+- [NPR Fresh Air: "How Dan Bongino Is Building a Right-Wing Media Infrastructure in Time for 2024" (Jan 6, 2022)](https://www.npr.org/2022/01/06/1070924133/how-dan-bongino-is-building-a-right-wing-media-infrastructure-in-time-for-2024) (Tier 2) (VERIFIED)
+- [NBC News: "Dan Bongino Weighs Resigning from FBI After Heated Confrontation with Pam Bondi over Epstein Files" (Jul 2025)](https://www.nbcnews.com/politics/justice-department/dan-bongino-weighs-resigning-fbi-heated-confrontation-pam-bondi-epstei-rcna218388) (Tier 2) (VERIFIED)
+- [CNN: "Deputy FBI Director Bongino Has Told People He Is Considering Resigning Amid Epstein Files Fallout" (Jul 11, 2025)](https://www.cnn.com/2025/07/11/politics/bongino-consider-resigning-epstein-files) (Tier 2) (VERIFIED)
+- [Washington Examiner: "Dan Bongino Acquires Part-Ownership of Video-Sharing Competitor Rumble" (Sep 2020)](https://www.washingtonexaminer.com/news/2643457/exclusive-fed-up-with-youtube-crushing-conservative-voices-dan-bongino-acquires-part-ownership-of-video-sharing-competitor/) (Tier 3) (VERIFIED)
+- [Democracy Now: "Dan Bongino Announces Resignation as FBI's Second-in-Command" (Dec 18, 2025)](https://www.democracynow.org/2025/12/18/headlines/dan_bongino_announces_resignation_as_fbis_second_in_command) (Tier 2) (VERIFIED)
+- [Wikipedia: Dan Bongino](https://en.wikipedia.org/wiki/Dan_Bongino) (Tier 3) (VERIFIED)
 
 ---
 

@@ -206,18 +206,18 @@ In May 2024, ExxonMobil completed its $59.5 billion all-stock acquisition of Pio
 
 | Date | Internal Knowledge | Public Denial | Source |
 |------|-------------------|--------------|--------|
-| **1957** | Roger Revelle (Humble Oil/Exxon predecessor) co-publishes landmark CO₂ research with Hans Suess, establishing framework for understanding fossil fuel emissions | — | [Scientific American](https://www.scientificamerican.com/article/exxon-knew-about-climate-change-almost-40-years-ago/) (UNVERIFIED) |
+| **1957** | Roger Revelle (Humble Oil/Exxon predecessor) co-publishes landmark CO₂ research with Hans Suess, establishing framework for understanding fossil fuel emissions | — | [Scientific American](https://www.scientificamerican.com/article/exxon-knew-about-climate-change-almost-40-years-ago/) (VERIFIED) (UNVERIFIED) |
 | **July 1977** | Senior scientist James Black briefs Management Committee: "There is general scientific agreement that the most likely manner in which mankind is influencing the global climate is through carbon dioxide release from the burning of fossil fuels" | — | [Scientific American](https://www.scientificamerican.com/article/exxon-knew-about-climate-change-almost-40-years-ago/) (UNVERIFIED) |
 | **1978** | Black warns that doubling atmospheric CO₂ would raise temperatures 2–3°C with a 5–10 year window to act before effects become irreversible | — | [Scientific American](https://www.scientificamerican.com/article/exxon-knew-about-climate-change-almost-40-years-ago/) (UNVERIFIED) |
 | **1979–1982** | Exxon equips supertanker Esso Atlantic with CO₂ measurement instruments; funds climate modeling research. 1982 internal report warns consequences could be "catastrophic" and "not reversible" | — | [Scientific American](https://www.scientificamerican.com/article/exxon-knew-about-climate-change-almost-40-years-ago/) (UNVERIFIED) |
 | **1984** | Exxon presents internal climate projections at company conference, showing temperature increases closely aligned with contemporary scientific models | — | [Scientific American](https://www.scientificamerican.com/article/exxon-knew-about-climate-change-almost-40-years-ago/) (UNVERIFIED) |
 | **1988** | — | NASA scientist James Hansen testifies before Senate that human-caused warming is detectable. Exxon's public response: "the science is still controversial and uncertain" | [Scientific American](https://www.scientificamerican.com/article/exxon-knew-about-climate-change-almost-40-years-ago/) (UNVERIFIED) |
 | **1989** | — | Exxon co-founds Global Climate Coalition; launches 600+ advertorials in major newspapers (1989–2010) casting doubt on climate science under "Perspectives" column heading | [Scientific American](https://www.scientificamerican.com/article/exxon-knew-about-climate-change-almost-40-years-ago/) (UNVERIFIED) |
-| **1995** | Internal GCC briefing led by Exxon scientist acknowledges: "The greenhouse effect and potential impact of human emissions of greenhouse gases such as CO₂ on climate is well established and cannot be denied" | Global Climate Coalition publicly denies same consensus | [Wikipedia: ExxonMobil Climate Change Denial](https://en.wikipedia.org/wiki/ExxonMobil_climate_change_denial) (UNVERIFIED) |
+| **1995** | Internal GCC briefing led by Exxon scientist acknowledges: "The greenhouse effect and potential impact of human emissions of greenhouse gases such as CO₂ on climate is well established and cannot be denied" | Global Climate Coalition publicly denies same consensus | [Wikipedia: ExxonMobil Climate Change Denial](https://en.wikipedia.org/wiki/ExxonMobil_climate_change_denial) (VERIFIED) (UNVERIFIED) |
 | **2002** | — | Global Climate Coalition dissolves after major members (Ford, GM, DaimlerChrysler, BP, Shell) resign citing scientific evidence | [Scientific American](https://www.scientificamerican.com/article/exxon-knew-about-climate-change-almost-40-years-ago/) (UNVERIFIED) |
-| **2015** | — | InsideClimate News investigative series documents Exxon's internal research vs. public communications gap; state AG investigations (NY, MA, CA) triggered | [InsideClimate News: The Road Not Taken](https://insideclimatenews.org/project/exxon-the-road-not-taken/) (UNVERIFIED) |
-| **Aug 2017** | — | Supran & Oreskes publish peer-reviewed analysis: internal documents and peer-reviewed papers consistent with climate consensus; advertorials "overwhelmingly" promoted doubt | [Supran & Oreskes: Environmental Research Letters](https://cssn.org/wp-content/uploads/2020/12/Assessing-ExxonMobils-climate-change-communications-1977%E2%80%932014-Geoffrey-Supran-.pdf) (UNVERIFIED) |
-| **Jan 2023** | Harvard study analyzes 32 internal documents + 72 peer-reviewed papers (1977–2003): Exxon's internal models predicted warming with 63–83% accuracy, average 72% skill score—sometimes exceeding NASA's accuracy | — | [Harvard Gazette: Exxon scientists predicted global warming with 'shocking skill and accuracy'](https://news.harvard.edu/gazette/story/2023/01/harvard-led-analysis-finds-exxonmobil-internal-research-accurately-predicted-climate-change/) (UNVERIFIED) |
+| **2015** | — | InsideClimate News investigative series documents Exxon's internal research vs. public communications gap; state AG investigations (NY, MA, CA) triggered | [InsideClimate News: The Road Not Taken](https://insideclimatenews.org/project/exxon-the-road-not-taken/) (VERIFIED) (UNVERIFIED) |
+| **Aug 2017** | — | Supran & Oreskes publish peer-reviewed analysis: internal documents and peer-reviewed papers consistent with climate consensus; advertorials "overwhelmingly" promoted doubt | [Supran & Oreskes: Environmental Research Letters](https://cssn.org/wp-content/uploads/2020/12/Assessing-ExxonMobils-climate-change-communications-1977%E2%80%932014-Geoffrey-Supran-.pdf) (VERIFIED) (UNVERIFIED) |
+| **Jan 2023** | Harvard study analyzes 32 internal documents + 72 peer-reviewed papers (1977–2003): Exxon's internal models predicted warming with 63–83% accuracy, average 72% skill score—sometimes exceeding NASA's accuracy | — | [Harvard Gazette: Exxon scientists predicted global warming with 'shocking skill and accuracy'](https://news.harvard.edu/gazette/story/2023/01/harvard-led-analysis-finds-exxonmobil-internal-research-accurately-predicted-climate-change/) (VERIFIED) (UNVERIFIED) |
 
 > [!money] **Key Finding:**
 > This is not a case of genuine scientific uncertainty exploited by partisans. Exxon possessed superior scientific knowledge and made a choice to systematically fund its public contradiction for 25+ years (1989–2015+). The company's current pivot to carbon capture messaging (2020s-present) functions as reputation rehabilitation for the same structural interest: maximizing hydrocarbon production while appearing to address the crisis they spent decades denying.
@@ -349,24 +349,24 @@ ExxonMobil operates within a structural contradiction that defines fossil fuel p
 ### Sources
 
 ### Political Contributions — Tier 1:
-- [OpenSecrets: ExxonMobil donor profile](https://www.opensecrets.org/orgs/exxon-mobil/summary?id=D000000129) (Tier 1) (UNVERIFIED)
-- [OpenSecrets: ExxonMobil PAC profile 2024](https://www.opensecrets.org/political-action-committees-pacs/C00121368/summary/2024) (Tier 1) (UNVERIFIED)
-- [OpenSecrets: ExxonMobil totals](https://www.opensecrets.org/orgs/exxon-mobil/totals?id=D000000129) (Tier 1) (UNVERIFIED)
-- [OpenSecrets: ExxonMobil recipients](https://www.opensecrets.org/orgs/exxon-mobil/recipients?id=D000000129) (Tier 1) (UNVERIFIED)
-- [FEC: ExxonMobil PAC committee overview](https://www.fec.gov/data/committee/C00121368/) (Tier 1)
-- [ExxonMobil: 2024 Corporate political contributions disclosure](https://corporate.exxonmobil.com/who-we-are/policy/political-contributions/corporate-political-contributions) (Tier 1)
-- [ExxonMobil: PAC contribution data](https://corporate.exxonmobil.com/who-we-are/policy/political-contributions/pac-contribution-data) (Tier 1)
+- [OpenSecrets: ExxonMobil donor profile](https://www.opensecrets.org/orgs/exxon-mobil/summary?id=D000000129) (Tier 1) (VERIFIED) (UNVERIFIED)
+- [OpenSecrets: ExxonMobil PAC profile 2024](https://www.opensecrets.org/political-action-committees-pacs/C00121368/summary/2024) (Tier 1) (VERIFIED) (UNVERIFIED)
+- [OpenSecrets: ExxonMobil totals](https://www.opensecrets.org/orgs/exxon-mobil/totals?id=D000000129) (Tier 1) (VERIFIED) (UNVERIFIED)
+- [OpenSecrets: ExxonMobil recipients](https://www.opensecrets.org/orgs/exxon-mobil/recipients?id=D000000129) (Tier 1) (VERIFIED) (UNVERIFIED)
+- [FEC: ExxonMobil PAC committee overview](https://www.fec.gov/data/committee/C00121368/) (Tier 1) (VERIFIED)
+- [ExxonMobil: 2024 Corporate political contributions disclosure](https://corporate.exxonmobil.com/who-we-are/policy/political-contributions/corporate-political-contributions) (Tier 1) (VERIFIED)
+- [ExxonMobil: PAC contribution data](https://corporate.exxonmobil.com/who-we-are/policy/political-contributions/pac-contribution-data) (Tier 1) (VERIFIED)
 
 ### Lobbying — Tier 1:
-- [OpenSecrets: ExxonMobil Lobbying Profile](https://www.opensecrets.org/orgs/exxon-mobil/lobbying?id=D000000129) (Tier 1) (UNVERIFIED)
-- [Center for American Progress: 2011 Was Very Good to ExxonMobil](https://www.americanprogress.org/article/2011-was-very-good-to-exxonmobil/) (Tier 2) (UNVERIFIED)
+- ~~[OpenSecrets: ExxonMobil Lobbying Profile](https://www.opensecrets.org/orgs/exxon-mobil/lobbying?id=D000000129)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1) (UNVERIFIED)
+- [Center for American Progress: 2011 Was Very Good to ExxonMobil](https://www.americanprogress.org/article/2011-was-very-good-to-exxonmobil/) (Tier 2) (VERIFIED) (UNVERIFIED)
 
 ### Climate & Internal Knowledge — Tier 1-2:
 - [Harvard Gazette: Exxon scientists predicted global warming with 'shocking skill and accuracy'](https://news.harvard.edu/gazette/story/2023/01/harvard-led-analysis-finds-exxonmobil-internal-research-accurately-predicted-climate-change/) (Tier 2)
-- [Scientific American: Exxon knew about climate change almost 40 years ago](https://www.scientificamerican.com/article/exxon-knew-about-climate-change-almost-40-years-ago/) (Tier 2)
-- [Science journal: Assessing ExxonMobil's global warming projections](https://www.science.org/doi/10.1126/science.abk0063) (Tier 1) (UNVERIFIED)
-- [Inside Climate News: The Road Not Taken investigation](https://insideclimatenews.org/project/exxon-the-road-not-taken/) (Tier 2)
-- [Supran & Oreskes: Assessing ExxonMobil's Climate Change Communications (1977–2014)](https://cssn.org/wp-content/uploads/2020/12/Assessing-ExxonMobils-climate-change-communications-1977%E2%80%932014-Geoffrey-Supran-.pdf) (Tier 1 academic) (UNVERIFIED)
+- [Scientific American: Exxon knew about climate change almost 40 years ago](https://www.scientificamerican.com/article/exxon-knew-about-climate-change-almost-40-years-ago/) (Tier 2) (VERIFIED)
+- ~~[Science journal: Assessing ExxonMobil's global warming projections](https://www.science.org/doi/10.1126/science.abk0063)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1) (UNVERIFIED)
+- [Inside Climate News: The Road Not Taken investigation](https://insideclimatenews.org/project/exxon-the-road-not-taken/) (Tier 2) (VERIFIED)
+- [Supran & Oreskes: Assessing ExxonMobil's Climate Change Communications (1977–2014)](https://cssn.org/wp-content/uploads/2020/12/Assessing-ExxonMobils-climate-change-communications-1977%E2%80%932014-Geoffrey-Supran-.pdf) (VERIFIED) (Tier 1 academic) (UNVERIFIED)
 - [Wikipedia: ExxonMobil Climate Change Denial](https://en.wikipedia.org/wiki/ExxonMobil_climate_change_denial) (Tier 3)
 
 ## Class Analysis
@@ -384,33 +384,33 @@ The Pioneer acquisition ($59.5B, May 2024) reveals the class strategy for the en
 ---
 
 ### Climate Denial Funding — Tier 2:
-- [DeSmog: ExxonMobil Funding Climate Science Denial](https://www.desmog.com/exxonmobil-funding-climate-science-denial/) (Tier 2)
-- [Union of Concerned Scientists: ExxonMobil Climate Denial Funding 1998–2014 (PDF)](https://www.ucs.org/sites/default/files/attach/2015/07/ExxonMobil-Climate-Denial-Funding-1998-2014.pdf) (Tier 2)
+- [DeSmog: ExxonMobil Funding Climate Science Denial](https://www.desmog.com/exxonmobil-funding-climate-science-denial/) (Tier 2) (VERIFIED)
+- [Union of Concerned Scientists: ExxonMobil Climate Denial Funding 1998–2014 (PDF)](https://www.ucs.org/sites/default/files/attach/2015/07/ExxonMobil-Climate-Denial-Funding-1998-2014.pdf) (Tier 2) (VERIFIED)
 
 ### Carbon Tax Contradiction — Tier 2:
-- [Union of Concerned Scientists: To find out if ExxonMobil really supports a carbon tax, just follow the money](https://blog.ucs.org/elliott-negin/to-find-out-if-exxonmobil-really-supports-a-carbon-tax-just-follow-the-money/) (Tier 2)
-- [Energy and Policy Institute: ExxonMobil Opposed Carbon Tax Bills](https://energyandpolicy.org/exxonmobil-opposed-carbon-tax-bills/) (Tier 2)
+- [Union of Concerned Scientists: To find out if ExxonMobil really supports a carbon tax, just follow the money](https://blog.ucs.org/elliott-negin/to-find-out-if-exxonmobil-really-supports-a-carbon-tax-just-follow-the-money/) (Tier 2) (VERIFIED)
+- [Energy and Policy Institute: ExxonMobil Opposed Carbon Tax Bills](https://energyandpolicy.org/exxonmobil-opposed-carbon-tax-bills/) (Tier 2) (VERIFIED)
 
 ### Policy Outcomes — Tier 2:
-- [Greenpeace Unearthed: Undercover Investigation — Keith McCoy Admissions](https://unearthed.greenpeace.org/2021/06/30/exxon-climate-change-undercover/) (Tier 2)
-- [InfluenceMap: ExxonMobil Lobbying Report (PDF)](https://influencemap.org/site/data/000/310/ExxonMobil_Lobbying_May_2018.pdf) (Tier 2)
-- [ExxonKnews: With Methane Rules on the Chopping Block](https://www.exxonknews.org/p/with-methane-rules-on-the-chopping) (Tier 2)
+- [Greenpeace Unearthed: Undercover Investigation — Keith McCoy Admissions](https://unearthed.greenpeace.org/2021/06/30/exxon-climate-change-undercover/) (Tier 2) (VERIFIED)
+- [InfluenceMap: ExxonMobil Lobbying Report (PDF)](https://influencemap.org/site/data/000/310/ExxonMobil_Lobbying_May_2018.pdf) (Tier 2) (NEEDS REVIEW)
+- [ExxonKnews: With Methane Rules on the Chopping Block](https://www.exxonknews.org/p/with-methane-rules-on-the-chopping) (Tier 2) (VERIFIED)
 
 ### Revolving Door — Tier 2:
-- [Sludge: Exxon Consultant Revolves Back to DOE](https://readsludge.com/2025/03/26/exxon-consultant-revolves-back-to-doe/) (Tier 2)
-- [Revolving Door Project: Climate and Environment](https://therevolvingdoorproject.org/tag/climate/) (Tier 2)
-- [Public Citizen: Trump Appointees Tracker](https://www.citizen.org/article/tracker-trump-appointees-in-the-pocket-of-big-corporations/) (Tier 2)
-- [Politico: Exxon, Mobile, Russia Sanctions, Rex Tillerson](https://www.politico.com/story/2016/12/exxon-mobile-russia-sanctions-rex-tillerson-232770) (Tier 2) (UNVERIFIED)
-- [ExxonMobil: Conflict of Interest Agreement — Tillerson](https://corporate.exxonmobil.com/news/news-releases/2017/0103_exxonmobil-and-tillerson-reach-agreement-to-comply-with-conflict-of-interest-requirements) (Tier 1)
+- [Sludge: Exxon Consultant Revolves Back to DOE](https://readsludge.com/2025/03/26/exxon-consultant-revolves-back-to-doe/) (Tier 2) (VERIFIED)
+- [Revolving Door Project: Climate and Environment](https://therevolvingdoorproject.org/tag/climate/) (Tier 2) (VERIFIED)
+- [Public Citizen: Trump Appointees Tracker](https://www.citizen.org/article/tracker-trump-appointees-in-the-pocket-of-big-corporations/) (Tier 2) (VERIFIED)
+- ~~[Politico: Exxon, Mobile, Russia Sanctions, Rex Tillerson](https://www.politico.com/story/2016/12/exxon-mobile-russia-sanctions-rex-tillerson-232770)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- [ExxonMobil: Conflict of Interest Agreement — Tillerson](https://corporate.exxonmobil.com/news/news-releases/2017/0103_exxonmobil-and-tillerson-reach-agreement-to-comply-with-conflict-of-interest-requirements) (Tier 1) (VERIFIED)
 
 ### Financial Data — Tier 1:
-- [ExxonMobil: Full-year 2022 results](https://corporate.exxonmobil.com/news/news-releases/2023/0131_exxonmobil-announces-full-year-2022-results) (Tier 1)
-- [ExxonMobil: 2023 results announcement](https://corporate.exxonmobil.com/news/news-releases/2024/0202_exxonmobil-announces-2023-results) (Tier 1)
-- [ExxonMobil: 2024 results announcement](https://corporate.exxonmobil.com/news/news-releases/2025/0131_exxonmobil-announces-2024-results) (Tier 1)
+- [ExxonMobil: Full-year 2022 results](https://corporate.exxonmobil.com/news/news-releases/2023/0131_exxonmobil-announces-full-year-2022-results) (Tier 1) (VERIFIED)
+- [ExxonMobil: 2023 results announcement](https://corporate.exxonmobil.com/news/news-releases/2024/0202_exxonmobil-announces-2023-results) (Tier 1) (VERIFIED)
+- [ExxonMobil: 2024 results announcement](https://corporate.exxonmobil.com/news/news-releases/2025/0131_exxonmobil-announces-2024-results) (Tier 1) (VERIFIED)
 
 ### Pioneer Acquisition — Tier 1:
-- [ExxonMobil: Press release — Pioneer acquisition completed (May 2024)](https://corporate.exxonmobil.com/news/news-releases/2024/0503_exxonmobil-completes-acquisition-of-pioneer-natural-resources) (Tier 1)
-- [FTC: Final consent order — Exxon-Pioneer merger (Jan 2025)](https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-approves-final-order-exxon-pioneer-deal) (Tier 1)
+- [ExxonMobil: Press release — Pioneer acquisition completed (May 2024)](https://corporate.exxonmobil.com/news/news-releases/2024/0503_exxonmobil-completes-acquisition-of-pioneer-natural-resources) (Tier 1) (VERIFIED)
+- [FTC: Final consent order — Exxon-Pioneer merger (Jan 2025)](https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-approves-final-order-exxon-pioneer-deal) (Tier 1) (VERIFIED)
 
 ---
 
@@ -444,7 +444,7 @@ The Pioneer acquisition ($59.5B, May 2024) reveals the class strategy for the en
 - State of California v. Wright (2026) — District Court, N.D. California
 - Raizen S.A. and Lorival Nogueira Luz, Jr. (2026) — United States Bankruptcy Court, S.D. New York
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22ExxonMobil%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22ExxonMobil%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -456,7 +456,7 @@ The Pioneer acquisition ($59.5B, May 2024) reveals the class strategy for the en
 | Total Expenses | $29.9M |
 | Net Assets | $108.5M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 136082357](https://projects.propublica.org/nonprofits/organizations/136082357) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 136082357](https://projects.propublica.org/nonprofits/organizations/136082357) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Tax Filings (IRS 990)
@@ -473,14 +473,14 @@ The Pioneer acquisition ($59.5B, May 2024) reveals the class strategy for the en
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/136082357/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/136082357/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/136082357/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/136082357/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/136082357/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/136082357/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/136082357/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/136082357/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/136082357/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/136082357/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/136082357) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/136082357) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Federal Spending (USASpending)
@@ -502,7 +502,7 @@ The Pioneer acquisition ($59.5B, May 2024) reveals the class strategy for the en
 | $491K | Department of Defense | LUBE OIL ORDER FOR USNS ALAN SHEPARD |
 | $470K | Department of Defense | N102/N7/T.CUNNINGHAM/DELIVERY ORDER FOR USNS MONTFORD POINT |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-ExxonMobil) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-ExxonMobil) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -530,7 +530,7 @@ The Pioneer acquisition ($59.5B, May 2024) reveals the class strategy for the en
 |------------------|--------|--------|
 | Unknown | $51.9B | 6 |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Vehicle Safety (NHTSA)
@@ -548,7 +548,7 @@ The Pioneer acquisition ($59.5B, May 2024) reveals the class strategy for the en
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=ExxonMobil) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=ExxonMobil) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Federal Register Activity
@@ -562,22 +562,22 @@ The Pioneer acquisition ($59.5B, May 2024) reveals the class strategy for the en
 | Agencies | Antitrust Division, Energy Department, Environmental Protection Agency, Federal Energy Regulatory Commission, Federal Trade Commission, Fish and Wildlife Service, Interior Department, Justice Department +3 more |
 
 **Recent regulatory activity:**
-- [Marine Mammals; Incidental Take of Polar Bears and Pacific Walruses in the Beaufort Sea and North Slope of Alaska](https://www.federalregister.gov/documents/2026/03/09/2026-04558/marine-mammals-incidental-take-of-polar-bears-and-pacific-walruses-in-the-beaufort-sea-and-north) (2026-03-09) — Interior Department
-- [Air Plan Approvals; Illinois; Regional Haze Plan for the Second Implementation Period; Interstate Transport of Air Pollution for the 2012 PM2.5 and 2015 Ozone NAAQS](https://www.federalregister.gov/documents/2026/02/27/2026-03936/air-plan-approvals-illinois-regional-haze-plan-for-the-second-implementation-period-interstate) (2026-02-27) — Environmental Protection Agency
-- [Combined Notice of Filings](https://www.federalregister.gov/documents/2026/02/06/2026-02328/combined-notice-of-filings) (2026-02-06) — Energy Department
-- [Combined Notice of Filings](https://www.federalregister.gov/documents/2025/11/25/2025-20862/combined-notice-of-filings) (2025-11-25) — Energy Department
-- [Notice on Outer Continental Shelf Oil and Gas Lease Sales](https://www.federalregister.gov/documents/2025/11/04/2025-19780/notice-on-outer-continental-shelf-oil-and-gas-lease-sales) (2025-11-04) — Interior Department
-- [Combined Notice of Filings](https://www.federalregister.gov/documents/2025/10/01/2025-19159/combined-notice-of-filings) (2025-10-01) — Energy Department
+- [Marine Mammals; Incidental Take of Polar Bears and Pacific Walruses in the Beaufort Sea and North Slope of Alaska](https://www.federalregister.gov/documents/2026/03/09/2026-04558/marine-mammals-incidental-take-of-polar-bears-and-pacific-walruses-in-the-beaufort-sea-and-north) (VERIFIED) (2026-03-09) — Interior Department
+- [Air Plan Approvals; Illinois; Regional Haze Plan for the Second Implementation Period; Interstate Transport of Air Pollution for the 2012 PM2.5 and 2015 Ozone NAAQS](https://www.federalregister.gov/documents/2026/02/27/2026-03936/air-plan-approvals-illinois-regional-haze-plan-for-the-second-implementation-period-interstate) (VERIFIED) (2026-02-27) — Environmental Protection Agency
+- [Combined Notice of Filings](https://www.federalregister.gov/documents/2026/02/06/2026-02328/combined-notice-of-filings) (VERIFIED) (2026-02-06) — Energy Department
+- [Combined Notice of Filings](https://www.federalregister.gov/documents/2025/11/25/2025-20862/combined-notice-of-filings) (VERIFIED) (2025-11-25) — Energy Department
+- [Notice on Outer Continental Shelf Oil and Gas Lease Sales](https://www.federalregister.gov/documents/2025/11/04/2025-19780/notice-on-outer-continental-shelf-oil-and-gas-lease-sales) (VERIFIED) (2025-11-04) — Interior Department
+- [Combined Notice of Filings](https://www.federalregister.gov/documents/2025/10/01/2025-19159/combined-notice-of-filings) (VERIFIED) (2025-10-01) — Energy Department
 - ... and 557 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22ExxonMobil%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22ExxonMobil%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [549300QUCKLMUO3B0I31](https://search.gleif.org/#/record/549300QUCKLMUO3B0I31) |
+| LEI | [549300QUCKLMUO3B0I31](https://search.gleif.org/#/record/549300QUCKLMUO3B0I31) (VERIFIED) |
 | Legal Name | EXXONMOBIL OFP |
 | Jurisdiction | BE |
 | Entity Status | ACTIVE |
@@ -585,5 +585,5 @@ The Pioneer acquisition ($59.5B, May 2024) reveals the class strategy for the en
 | Registration | LAPSED |
 | Last Updated | 2023-07-31T17:11:36Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->

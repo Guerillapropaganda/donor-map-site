@@ -13,7 +13,7 @@ profiles:
 
 ## Pam Bondi fired despite commitment to Trump agenda: Loyalty not enough!
 
-**Source:** [The Hill](https://thehill.com/opinion/lindseys-lens/5815069-bondi-trump-loyalty-dismissal/)
+**Source:** ~~[The Hill](https://thehill.com/opinion/lindseys-lens/5815069-bondi-trump-loyalty-dismissal/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-03
 
 In the end, this wasn’t about independence. It was about results.

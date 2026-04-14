@@ -124,12 +124,12 @@ The class analysis is straightforward: Menendez proves that the campaign finance
 
 ## Sources
 
-- [FEC Candidate: Bob Menendez campaign finance summary](https://www.fec.gov/data/candidate/H2NJ08232/) (Tier 1)
-- [OpenSecrets: Menendez used donor cash for legal costs ahead of conviction](https://www.opensecrets.org/news/2024/07/menendez-used-donor-cash-for-legal-costs-ahead-of-conviction/) (Tier 2)
-- [The Nation: Senator Robert Menendez and the Corruption of Cuba Policy](https://www.thenation.com/article/world/cuba-harris-menendez-corruption-diplomacy/) (Tier 2)
-- [FBI: Menendez and Melgen Indictment](https://www.fbi.gov/contact-us/field-offices/newark/news/press-releases/senator-robert-menendez-and-dr.-salomon-melgen-indicted-for-conspiracy-bribery-and-honest-services-fraud) (Tier 1)
-- [Jacobin: Bob Menendez Has Ties to Cuban American Terrorists](https://jacobin.com/2024/05/bob-menendez-cuba-terrorism-corruption) (Tier 2)
-- [Wikipedia: Bob Menendez](https://en.wikipedia.org/wiki/Bob_Menendez) (Tier 3)
+- [FEC Candidate: Bob Menendez campaign finance summary](https://www.fec.gov/data/candidate/H2NJ08232/) (Tier 1) (VERIFIED)
+- [OpenSecrets: Menendez used donor cash for legal costs ahead of conviction](https://www.opensecrets.org/news/2024/07/menendez-used-donor-cash-for-legal-costs-ahead-of-conviction/) (Tier 2) (VERIFIED)
+- [The Nation: Senator Robert Menendez and the Corruption of Cuba Policy](https://www.thenation.com/article/world/cuba-harris-menendez-corruption-diplomacy/) (Tier 2) (VERIFIED)
+- [FBI: Menendez and Melgen Indictment](https://www.fbi.gov/contact-us/field-offices/newark/news/press-releases/senator-robert-menendez-and-dr.-salomon-melgen-indicted-for-conspiracy-bribery-and-honest-services-fraud) (Tier 1) (VERIFIED)
+- [Jacobin: Bob Menendez Has Ties to Cuban American Terrorists](https://jacobin.com/2024/05/bob-menendez-cuba-terrorism-corruption) (Tier 2) (VERIFIED)
+- [Wikipedia: Bob Menendez](https://en.wikipedia.org/wiki/Bob_Menendez) (Tier 3) (VERIFIED)
 
 ---
 
@@ -140,5 +140,5 @@ The class analysis is straightforward: Menendez proves that the campaign finance
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Bob Menendez](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: Bob Menendez](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->

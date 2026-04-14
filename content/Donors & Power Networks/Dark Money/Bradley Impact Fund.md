@@ -51,15 +51,15 @@ The Bradley Impact Fund is part of a broader conservative DAF network that inclu
 | Net Assets | $159.3M |
 | Officer Compensation | $459K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 454678325](https://projects.propublica.org/nonprofits/organizations/454678325) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 454678325](https://projects.propublica.org/nonprofits/organizations/454678325) (Tier 1) (VERIFIED)
 
 <!-- auto:propublica-990 end -->
 
 ### Sources
 
-- [IRS: Bradley Impact Fund 990 filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Bradley%20Impact%20Fund&city=&state=All+States&country=US) (Tier 1)
-- [ProPublica: Nonprofit Explorer - Bradley Impact Fund](https://projects.propublica.org/nonprofits/organizations/454678325) (Tier 2)
-- [Ballotpedia: Donor-advised funds](https://ballotpedia.org/Bradley_Impact_Fund) (Tier 3)
+- ~~[IRS: Bradley Impact Fund 990 filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Bradley%20Impact%20Fund&city=&state=All+States&country=US)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [ProPublica: Nonprofit Explorer - Bradley Impact Fund](https://projects.propublica.org/nonprofits/organizations/454678325) (Tier 2) (VERIFIED)
+- [Ballotpedia: Donor-advised funds](https://ballotpedia.org/Bradley_Impact_Fund) (Tier 3) (VERIFIED)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-donor start -->
@@ -74,7 +74,7 @@ The Bradley Impact Fund is part of a broader conservative DAF network that inclu
 |-----------|--------|-------|
 | 170 FREEDOM MILWAUKEE 2024 HOST COMMITTEE INC | $100,000 | REP |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Bradley%20Impact%20Fund) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Bradley%20Impact%20Fund) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### Tax Filings (IRS 990)
@@ -92,12 +92,12 @@ The Bradley Impact Fund is part of a broader conservative DAF network that inclu
 **Filing history:** 2023, 2022, 2020, 2019, 2018, 2017, 2016, 2015
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/454678325/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/454678325/2022)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/454678325/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/454678325/2019)
-- [2018 Filing](https://projects.propublica.org/nonprofits/organizations/454678325/2018)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/454678325/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/454678325/2022)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/454678325/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/454678325/2019)~~ (URL broken, archived by Ops)
+- ~~[2018 Filing](https://projects.propublica.org/nonprofits/organizations/454678325/2018)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/454678325) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/454678325) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->

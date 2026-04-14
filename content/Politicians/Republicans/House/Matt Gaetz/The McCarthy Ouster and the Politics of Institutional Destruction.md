@@ -82,11 +82,11 @@ The Ethics Committee released its report weeks later. The report found "substant
 
 ### Sources
 
-- [NPR: Gaetz engineered McCarthy's historic ouster](https://www.npr.org/2023/10/06/1204098129/gop-rep-matt-gaetz-made-history-by-engineering-house-speaker-kevin-mccarthys-ous) (Tier 2)
-- [CNN: Gaetz moves to oust McCarthy](https://www.cnn.com/2023/10/02/politics/matt-gaetz-kevin-mccarthy-speakership/index.html) (Tier 2)
-- [Wikipedia: Removal of Kevin McCarthy as Speaker of the House](https://en.wikipedia.org/wiki/Removal_of_Kevin_McCarthy_as_Speaker_of_the_House) (Tier 3)
-- [NBC News: House ousts McCarthy as speaker in historic vote](https://www.nbcnews.com/politics/congress/house-will-vote-today-rep-gaetzs-push-topple-mccarthy-speaker-rcna118557) (Tier 2)
-- [CNBC: House ousts Kevin McCarthy as speaker, a first in U.S. history](https://www.cnbc.com/2023/10/03/house-speaker-kevin-mccarthy-will-bring-gaetz-motion-to-oust-him-vote.html) (Tier 2)
-- [House Ethics Committee: Report on Matt Gaetz (December 2024)](https://ethics.house.gov/wp-content/uploads/2024/12/Committee-Report.pdf) (Tier 1)
-- [NPR: Gaetz withdraws as Trump's AG pick](https://www.npr.org/2024/11/21/nx-s1-5201398/with-gaetz-out-trump-picks-former-florida-ag-pam-bondi-for-attorney-general) (Tier 2)
-- [CNN: Gaetz withdrawing after Trump told him he didn't have Senate votes](https://www.cnn.com/2024/11/21/politics/matt-gaetz-withdrawing-attorney-general/) (Tier 2)
+- [NPR: Gaetz engineered McCarthy's historic ouster](https://www.npr.org/2023/10/06/1204098129/gop-rep-matt-gaetz-made-history-by-engineering-house-speaker-kevin-mccarthys-ous) (Tier 2) (VERIFIED)
+- [CNN: Gaetz moves to oust McCarthy](https://www.cnn.com/2023/10/02/politics/matt-gaetz-kevin-mccarthy-speakership/index.html) (Tier 2) (VERIFIED)
+- [Wikipedia: Removal of Kevin McCarthy as Speaker of the House](https://en.wikipedia.org/wiki/Removal_of_Kevin_McCarthy_as_Speaker_of_the_House) (Tier 3) (VERIFIED)
+- [NBC News: House ousts McCarthy as speaker in historic vote](https://www.nbcnews.com/politics/congress/house-will-vote-today-rep-gaetzs-push-topple-mccarthy-speaker-rcna118557) (Tier 2) (VERIFIED)
+- [CNBC: House ousts Kevin McCarthy as speaker, a first in U.S. history](https://www.cnbc.com/2023/10/03/house-speaker-kevin-mccarthy-will-bring-gaetz-motion-to-oust-him-vote.html) (Tier 2) (VERIFIED)
+- [House Ethics Committee: Report on Matt Gaetz (December 2024)](https://ethics.house.gov/wp-content/uploads/2024/12/Committee-Report.pdf) (Tier 1) (VERIFIED)
+- [NPR: Gaetz withdraws as Trump's AG pick](https://www.npr.org/2024/11/21/nx-s1-5201398/with-gaetz-out-trump-picks-former-florida-ag-pam-bondi-for-attorney-general) (Tier 2) (VERIFIED)
+- [CNN: Gaetz withdrawing after Trump told him he didn't have Senate votes](https://www.cnn.com/2024/11/21/politics/matt-gaetz-withdrawing-attorney-general/) (Tier 2) (VERIFIED)

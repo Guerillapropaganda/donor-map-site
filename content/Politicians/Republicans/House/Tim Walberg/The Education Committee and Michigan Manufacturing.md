@@ -38,7 +38,7 @@ Walberg frames workforce policy through the "skills gap" narrative: the problem 
 
 ### Sources
 
-- [Congress.gov: Tim Walberg member profile](https://www.congress.gov/member/tim-walberg/W000798) (Tier 1)
-- [FEC Candidate: Tim Walberg campaign finance summary](https://www.fec.gov/data/candidate/H4MI07103/) (Tier 1)
-- [Ballotpedia: Tim Walberg](https://ballotpedia.org/Tim_Walberg) (Tier 3)
+- [Congress.gov: Tim Walberg member profile](https://www.congress.gov/member/tim-walberg/W000798) (Tier 1) (VERIFIED)
+- [FEC Candidate: Tim Walberg campaign finance summary](https://www.fec.gov/data/candidate/H4MI07103/) (Tier 1) (VERIFIED)
+- [Ballotpedia: Tim Walberg](https://ballotpedia.org/Tim_Walberg) (Tier 3) (VERIFIED)
 

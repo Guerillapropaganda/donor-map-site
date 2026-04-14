@@ -32,7 +32,7 @@ Drop Site's revenue model relies on subscriptions (est. 9,000 paid subscribers) 
 
 No FEC individual contributions found. The FEC API returns 0 results for "GRIM, RYAN" — confirmed no contributions. Grim's political influence operates through journalism and media commentary rather than campaign finance.
 
-- [FEC: Ryan Grim individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=GRIM%2C+RYAN) (Tier 1)
+- [FEC: Ryan Grim individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=GRIM%2C+RYAN) (Tier 1) (VERIFIED)
 
 ### Who Funds Them
 
@@ -86,9 +86,9 @@ The structural irony is precise: Grim built his reputation through campaign fina
 
 ### Sources
 
-- [Ryan Grim — HuffPost](https://www.huffpost.com/author/ryan-grim) (Tier 2)
-- [Ryan Grim — Drop Site News](https://www.dropsitenews.com/author/ryan-grim/) (Tier 2)
-- [Semafor: The Intercept is running out of cash](https://www.semafor.com/article/04/14/2024/the-intercept-is-running-out-of-cash) (Tier 2)
-- [Washington Free Beacon: Exclusive—Soros bankrolling anti-Israel Drop Site News](https://freebeacon.com/media/exclusive-soros-bankrolling-anti-israel-drop-site-news/) (Tier 4)
-- [Ryan Grim — Wikipedia](https://en.wikipedia.org/wiki/Ryan_Grim) (Tier 2)
+- [Ryan Grim — HuffPost](https://www.huffpost.com/author/ryan-grim) (Tier 2) (VERIFIED)
+- ~~[Ryan Grim — Drop Site News](https://www.dropsitenews.com/author/ryan-grim/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Semafor: The Intercept is running out of cash](https://www.semafor.com/article/04/14/2024/the-intercept-is-running-out-of-cash) (Tier 2) (VERIFIED)
+- [Washington Free Beacon: Exclusive—Soros bankrolling anti-Israel Drop Site News](https://freebeacon.com/media/exclusive-soros-bankrolling-anti-israel-drop-site-news/) (Tier 4) (VERIFIED)
+- [Ryan Grim — Wikipedia](https://en.wikipedia.org/wiki/Ryan_Grim) (Tier 2) (VERIFIED)
 

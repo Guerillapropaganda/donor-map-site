@@ -92,13 +92,13 @@ The transaction illustrates the structural conflicts that the Supreme Court's di
 
 ### Sources
 
-- [Washington Post: Neil Gorsuch's Mother Once Ran the EPA. It Didn't Go Well.](https://www.washingtonpost.com/news/energy-environment/wp/2017/02/01/neil-gorsuchs-mother-once-ran-the-epa-it-was-a-disaster/) (Tier 2)
-- [EPA: Biography of Anne M. Gorsuch (Burford)](https://www.epa.gov/archive/epa/aboutepa/biography-anne-m-gorsuch-burford.html) (Tier 1)
-- [WBUR/NPR: Contempt. How Reagan's EPA Head Became the First Cabinet-Level Official Cited for Contempt of Congress](https://www.wbur.org/hereandnow/2022-09-16/contempt-how-reagans-epa-head-became-the-1st-cabinet-level-official-cited-for-contempt-of-congress) (Tier 2)
-- [Supreme Court: Loper Bright Enterprises v. Raimondo (Official Opinion)](https://www.supremecourt.gov/opinions/23pdf/22-451_7m58.pdf) (Tier 1)
-- [Congress.gov: Supreme Court Addresses Major Questions Doctrine and EPA Regulation](https://www.congress.gov/crs-product/LSB10791) (Tier 1)
-- [Supreme Court: Epic Systems Corp. v. Lewis (Official Opinion)](https://www.supremecourt.gov/opinions/17pdf/16-285_q8l1.pdf) (Tier 1)
-- [ABA Journal: Frozen Trucker Case Illustrates Gorsuch's Legal Approach](https://www.abajournal.com/news/article/case_of_frozen_trucker_is_among_decisions_said_to_illustrates_gorsuchs_lega) (Tier 2)
-- [CNN: Justice Neil Gorsuch's Property Sale to Prominent Lawyer Raises Ethical Questions](https://www.cnn.com/2023/04/25/politics/gorsuch-property-sale-lawyer-ethics) (Tier 2)
-- [New Republic: How Reagan's EPA Chief Paved the Way for Trump's Assault on the Agency](https://newrepublic.com/article/141471/reagans-epa-chief-paved-way-trumps-assault-agency) (Tier 2)
-- [CNN: Supreme Court Justice Neil Gorsuch Has a Grudge Against Federal Agencies](https://www.cnn.com/2024/01/17/politics/supreme-court-epa-neil-gorsuch-chevron/index.html) (Tier 2)
+- [Washington Post: Neil Gorsuch's Mother Once Ran the EPA. It Didn't Go Well.](https://www.washingtonpost.com/news/energy-environment/wp/2017/02/01/neil-gorsuchs-mother-once-ran-the-epa-it-was-a-disaster/) (Tier 2) (VERIFIED)
+- [EPA: Biography of Anne M. Gorsuch (Burford)](https://www.epa.gov/archive/epa/aboutepa/biography-anne-m-gorsuch-burford.html) (Tier 1) (VERIFIED)
+- ~~[WBUR/NPR: Contempt. How Reagan's EPA Head Became the First Cabinet-Level Official Cited for Contempt of Congress](https://www.wbur.org/hereandnow/2022-09-16/contempt-how-reagans-epa-head-became-the-1st-cabinet-level-official-cited-for-contempt-of-congress)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Supreme Court: Loper Bright Enterprises v. Raimondo (Official Opinion)](https://www.supremecourt.gov/opinions/23pdf/22-451_7m58.pdf) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: Supreme Court Addresses Major Questions Doctrine and EPA Regulation](https://www.congress.gov/crs-product/LSB10791)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Supreme Court: Epic Systems Corp. v. Lewis (Official Opinion)](https://www.supremecourt.gov/opinions/17pdf/16-285_q8l1.pdf) (Tier 1) (VERIFIED)
+- [ABA Journal: Frozen Trucker Case Illustrates Gorsuch's Legal Approach](https://www.abajournal.com/news/article/case_of_frozen_trucker_is_among_decisions_said_to_illustrates_gorsuchs_lega) (Tier 2) (VERIFIED)
+- [CNN: Justice Neil Gorsuch's Property Sale to Prominent Lawyer Raises Ethical Questions](https://www.cnn.com/2023/04/25/politics/gorsuch-property-sale-lawyer-ethics) (Tier 2) (VERIFIED)
+- [New Republic: How Reagan's EPA Chief Paved the Way for Trump's Assault on the Agency](https://newrepublic.com/article/141471/reagans-epa-chief-paved-way-trumps-assault-agency) (Tier 2) (VERIFIED)
+- [CNN: Supreme Court Justice Neil Gorsuch Has a Grudge Against Federal Agencies](https://www.cnn.com/2024/01/17/politics/supreme-court-epa-neil-gorsuch-chevron/index.html) (Tier 2) (VERIFIED)

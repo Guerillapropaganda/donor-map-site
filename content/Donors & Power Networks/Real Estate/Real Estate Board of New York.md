@@ -149,15 +149,15 @@ REBNY's influence operates through both direct campaign contributions and struct
 
 ### Sources
 
-- [Politico: REBNY members gave a tenth of all NY campaign money (2015 analysis)](https://www.politico.com/states/new-york/albany/story/2015/04/rebny-members-gave-a-tenth-of-all-ny-campaign-money-021345) (Tier 2) (UNVERIFIED)
-- [Holland & Knight/Law360: NY 421-a restoration and Good Cause Eviction analysis](https://www.hklaw.com/-/media/files/insights/publications/2024/02/law360_lycoyannis_ny421arestoration.pdf) (Tier 2)
-- [NY Housing Conference: 421-a and Good Cause Eviction policy briefs](https://thenyhc.org/2024/01/10/nyhc-releases-new-policy-briefs-on-421a-and-good-cause-eviction/) (Tier 3)
-- [The Real Deal: REBNY PAC backs candidates, targets Avilés](https://therealdeal.com/new-york/2025/04/29/rebny-pac-backs-ling-ye-spends-to-unseat-aviles/) (Tier 2)
-- [Jacobin: Corporate money in NYC Council elections](https://jacobin.com/2025/06/corporate-money-nyc-council-elections) (Tier 2)
-- [Met Council on Housing: What REBNY bought for its money](https://thetenant.org/what-has-rebny-bought-for-its-money/) (Tier 2) (UNVERIFIED)
-- [REBNY: Official site and advocacy](https://www.rebny.com/) (Tier 3)
-- [New York State Joint Commission on Public Ethics: Campaign finance filings](https://publicreporting.elections.ny.gov/) (Tier 1)
-- [FEC Receipts: Real Estate industry political spending profile](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
+- ~~[Politico: REBNY members gave a tenth of all NY campaign money (2015 analysis)](https://www.politico.com/states/new-york/albany/story/2015/04/rebny-members-gave-a-tenth-of-all-ny-campaign-money-021345)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- [Holland & Knight/Law360: NY 421-a restoration and Good Cause Eviction analysis](https://www.hklaw.com/-/media/files/insights/publications/2024/02/law360_lycoyannis_ny421arestoration.pdf) (Tier 2) (VERIFIED)
+- [NY Housing Conference: 421-a and Good Cause Eviction policy briefs](https://thenyhc.org/2024/01/10/nyhc-releases-new-policy-briefs-on-421a-and-good-cause-eviction/) (Tier 3) (VERIFIED)
+- [The Real Deal: REBNY PAC backs candidates, targets Avilés](https://therealdeal.com/new-york/2025/04/29/rebny-pac-backs-ling-ye-spends-to-unseat-aviles/) (Tier 2) (VERIFIED)
+- [Jacobin: Corporate money in NYC Council elections](https://jacobin.com/2025/06/corporate-money-nyc-council-elections) (Tier 2) (VERIFIED)
+- [Met Council on Housing: What REBNY bought for its money](https://thetenant.org/what-has-rebny-bought-for-its-money/) (Tier 2) (VERIFIED) (UNVERIFIED)
+- [REBNY: Official site and advocacy](https://www.rebny.com/) (Tier 3) (VERIFIED)
+- ~~[New York State Joint Commission on Public Ethics: Campaign finance filings](https://publicreporting.elections.ny.gov/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [FEC Receipts: Real Estate industry political spending profile](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
 
 ---
 
@@ -197,7 +197,7 @@ REBNY's influence operates through both direct campaign contributions and struct
 - TINDAYA PROPERTIES OF NEW YORK CORP. (-0-) [VENEZUELA-EO13850]
   - Remarks: Linked To: PERDOMO ROSALES, Gustavo Adolfo.
 
-- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
 ### Federal Register Activity
@@ -211,14 +211,14 @@ REBNY's influence operates through both direct campaign contributions and struct
 | Agencies | Energy Department, Environmental Protection Agency, Federal Energy Regulatory Commission, Securities and Exchange Commission |
 
 **Recent regulatory activity:**
-- [The Enhancement and Standardization of Climate-Related Disclosures for Investors](https://www.federalregister.gov/documents/2024/03/28/2024-05137/the-enhancement-and-standardization-of-climate-related-disclosures-for-investors) (2024-03-28) — Securities and Exchange Commission
-- [Private Fund Advisers; Documentation of Registered Investment Adviser Compliance Reviews](https://www.federalregister.gov/documents/2023/09/14/2023-18660/private-fund-advisers-documentation-of-registered-investment-adviser-compliance-reviews) (2023-09-14) — Securities and Exchange Commission
-- [Money Market Fund Reforms; Form PF Reporting Requirements for Large Liquidity Fund Advisers; Technical Amendments to Form N-CSR and Form N-1A](https://www.federalregister.gov/documents/2023/08/03/2023-15124/money-market-fund-reforms-form-pf-reporting-requirements-for-large-liquidity-fund-advisers-technical) (2023-08-03) — Securities and Exchange Commission
-- [Form PF; Event Reporting for Large Hedge Fund Advisers and Private Equity Fund Advisers; Requirements for Large Private Equity Fund Adviser Reporting](https://www.federalregister.gov/documents/2023/06/12/2023-09775/form-pf-event-reporting-for-large-hedge-fund-advisers-and-private-equity-fund-advisers-requirements) (2023-06-12) — Securities and Exchange Commission
-- [Carbon Pricing in Organized Wholesale Electricity Markets](https://www.federalregister.gov/documents/2021/04/23/2021-08218/carbon-pricing-in-organized-wholesale-electricity-markets) (2021-04-23) — Energy Department
-- [Lead; Identification of Dangerous Levels of Lead](https://www.federalregister.gov/documents/1998/06/03/98-14736/lead-identification-of-dangerous-levels-of-lead) (1998-06-03) — Environmental Protection Agency ★
+- [The Enhancement and Standardization of Climate-Related Disclosures for Investors](https://www.federalregister.gov/documents/2024/03/28/2024-05137/the-enhancement-and-standardization-of-climate-related-disclosures-for-investors) (VERIFIED) (2024-03-28) — Securities and Exchange Commission
+- [Private Fund Advisers; Documentation of Registered Investment Adviser Compliance Reviews](https://www.federalregister.gov/documents/2023/09/14/2023-18660/private-fund-advisers-documentation-of-registered-investment-adviser-compliance-reviews) (VERIFIED) (2023-09-14) — Securities and Exchange Commission
+- [Money Market Fund Reforms; Form PF Reporting Requirements for Large Liquidity Fund Advisers; Technical Amendments to Form N-CSR and Form N-1A](https://www.federalregister.gov/documents/2023/08/03/2023-15124/money-market-fund-reforms-form-pf-reporting-requirements-for-large-liquidity-fund-advisers-technical) (VERIFIED) (2023-08-03) — Securities and Exchange Commission
+- [Form PF; Event Reporting for Large Hedge Fund Advisers and Private Equity Fund Advisers; Requirements for Large Private Equity Fund Adviser Reporting](https://www.federalregister.gov/documents/2023/06/12/2023-09775/form-pf-event-reporting-for-large-hedge-fund-advisers-and-private-equity-fund-advisers-requirements) (VERIFIED) (2023-06-12) — Securities and Exchange Commission
+- [Carbon Pricing in Organized Wholesale Electricity Markets](https://www.federalregister.gov/documents/2021/04/23/2021-08218/carbon-pricing-in-organized-wholesale-electricity-markets) (VERIFIED) (2021-04-23) — Energy Department
+- [Lead; Identification of Dangerous Levels of Lead](https://www.federalregister.gov/documents/1998/06/03/98-14736/lead-identification-of-dangerous-levels-of-lead) (VERIFIED) (1998-06-03) — Environmental Protection Agency ★
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Real%20Estate%20Board%20of%20New%20York%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Real%20Estate%20Board%20of%20New%20York%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -233,7 +233,7 @@ REBNY's influence operates through both direct campaign contributions and struct
 | Net Assets | $26.7M |
 | Officer Compensation | $4.5M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 131201480](https://projects.propublica.org/nonprofits/organizations/131201480) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 131201480](https://projects.propublica.org/nonprofits/organizations/131201480) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Lobbying Activity
@@ -252,7 +252,7 @@ REBNY's influence operates through both direct campaign contributions and struct
 
 **Agencies contacted:** AMTRAK - Natl Railroad Passenger Corporation, Agriculture, Dept of (USDA), Army, Dept of (Corps of Engineers), Bureau of Indian Affairs (BIA), Bureau of Land Management (BLM), Bureau of Reclamation, Commodity Futures Trading Commission (CFTC), Consumer Financial Protection Bureau (CFPB), Director of National Intelligence (ODNI), Energy, Dept of +39 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Real%20Estate%20Board%20of%20New%20York) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Real%20Estate%20Board%20of%20New%20York) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Tax Filings (IRS 990)
@@ -269,12 +269,12 @@ REBNY's influence operates through both direct campaign contributions and struct
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/131201480/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/131201480/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/131201480/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/131201480/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/131201480/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/131201480/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/131201480/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/131201480/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/131201480/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/131201480/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/131201480) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/131201480) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->

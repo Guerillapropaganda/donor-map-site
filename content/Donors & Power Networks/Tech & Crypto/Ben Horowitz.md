@@ -94,5 +94,5 @@ Source: [[Fairshake PAC]], [[Marc Andreessen & Horowitz]] vault entries.
 - UMG Recordings, Inc. v. Uncharted Labs, Inc. (2024) — District Court, S.D. New York
 - Moore v. Stripe, Inc. (2024) — District Court, S.D. New York
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Ben%20Horowitz%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Ben%20Horowitz%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->

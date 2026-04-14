@@ -194,17 +194,17 @@ Jayapal proves that even a well-funded progressive operating on a labor-and-gras
 
 ## Sources
 
-- [FEC Candidate: Pramila Jayapal campaign finance summary](https://www.fec.gov/data/candidate/H6WA07458/) (Tier 1)
-- [Congress.gov: Pramila Jayapal member profile](https://www.congress.gov/member/pramila-jayapal/J000298) (Tier 1)
-- [Congress.gov: Medicare for All Act H.R. 3421 (118th)](https://www.congress.gov/bill/118th-congress/house-bill/3421) (Tier 1)
-- [FEC: Jayapal candidate overview](https://www.fec.gov/data/candidate/H6WA07458/) (Tier 1)
-- [The Intercept: Jayapal Defends Breaking From Progressives' Two-Track Strategy on Build Back Better](https://theintercept.com/2021/12/20/build-back-better-manchin-democrats/) (Tier 2)
-- [Seattle Times: Jayapal takes on tech giants antitrust bill](https://www.seattletimes.com/seattle-news/politics/break-up-amazon-seattle-congresswoman-pramila-jayapal-sponsors-bill-taking-on-tech-giants/) (Tier 2)
-- [Seattle Times: Bezos grilled by Jayapal in antitrust panel](https://www.seattletimes.com/business/amazons-jeff-bezos-and-ceos-of-other-tech-giants-testifying-before-house-panel-come-under-fire-over-market-power/) (Tier 2)
-- [Seattle Times: Jayapal returns donations from Chinese propaganda-tied couple](https://www.seattletimes.com/seattle-news/politics/u-s-rep-jayapal-returns-campaign-contributions-to-couple-pushing-chinese-propaganda/) (Tier 2)
-- [Truthout: Medicare for All record 120 cosponsors](https://truthout.org/articles/medicare-for-all-bill-introduced-by-pramila-jayapal-gets-record-120-cosponsors/) (Tier 2)
-- [Jayapal House.gov: Medicare for All Act 2025 introduction](https://jayapal.house.gov/2025/04/29/jayapal-sanders-dingell-hundreds-of-health-care-workers-introduce-medicare-for-all/) (Tier 1)
-- [Ballotpedia: Pramila Jayapal](https://ballotpedia.org/Pramila_Jayapal) (Tier 3)
+- [FEC Candidate: Pramila Jayapal campaign finance summary](https://www.fec.gov/data/candidate/H6WA07458/) (Tier 1) (VERIFIED)
+- [Congress.gov: Pramila Jayapal member profile](https://www.congress.gov/member/pramila-jayapal/J000298) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: Medicare for All Act H.R. 3421 (118th)](https://www.congress.gov/bill/118th-congress/house-bill/3421)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [FEC: Jayapal candidate overview](https://www.fec.gov/data/candidate/H6WA07458/) (Tier 1) (VERIFIED)
+- [The Intercept: Jayapal Defends Breaking From Progressives' Two-Track Strategy on Build Back Better](https://theintercept.com/2021/12/20/build-back-better-manchin-democrats/) (Tier 2) (VERIFIED)
+- [Seattle Times: Jayapal takes on tech giants antitrust bill](https://www.seattletimes.com/seattle-news/politics/break-up-amazon-seattle-congresswoman-pramila-jayapal-sponsors-bill-taking-on-tech-giants/) (Tier 2) (VERIFIED)
+- [Seattle Times: Bezos grilled by Jayapal in antitrust panel](https://www.seattletimes.com/business/amazons-jeff-bezos-and-ceos-of-other-tech-giants-testifying-before-house-panel-come-under-fire-over-market-power/) (Tier 2) (VERIFIED)
+- [Seattle Times: Jayapal returns donations from Chinese propaganda-tied couple](https://www.seattletimes.com/seattle-news/politics/u-s-rep-jayapal-returns-campaign-contributions-to-couple-pushing-chinese-propaganda/) (Tier 2) (VERIFIED)
+- [Truthout: Medicare for All record 120 cosponsors](https://truthout.org/articles/medicare-for-all-bill-introduced-by-pramila-jayapal-gets-record-120-cosponsors/) (Tier 2) (VERIFIED)
+- [Jayapal House.gov: Medicare for All Act 2025 introduction](https://jayapal.house.gov/2025/04/29/jayapal-sanders-dingell-hundreds-of-health-care-workers-introduce-medicare-for-all/) (Tier 1) (VERIFIED)
+- [Ballotpedia: Pramila Jayapal](https://ballotpedia.org/Pramila_Jayapal) (Tier 3) (VERIFIED)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -237,7 +237,7 @@ Jayapal proves that even a well-funded progressive operating on a labor-and-gras
 | PLANNED PARENTHOOD VOTES NORTHWEST | $19,132 | $0 |
 | ONEAMERICA VOTES | $9,956 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6WA07458/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6WA07458/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (Congress.gov)
@@ -266,5 +266,5 @@ Jayapal proves that even a well-funded progressive operating on a labor-and-gras
 | 6646 | Empowering App-Based Workers Act | Referred to the House Committee on Education and Workforce. |
 | 6397 | Dignity for Detained Immigrants Act | Referred to the Committee on the Judiciary, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
 
-- [Source: Congress.gov](https://www.congress.gov/member/J000298) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/J000298)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->

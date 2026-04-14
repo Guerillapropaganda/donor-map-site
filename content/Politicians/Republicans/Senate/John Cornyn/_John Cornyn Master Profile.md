@@ -185,17 +185,17 @@ The gun bill is the exception that proves the rule. The Bipartisan Safer Communi
 
 ## Sources
 
-- [FEC Candidate: John Cornyn campaign finance summary](https://www.fec.gov/data/candidate/S2TX00106/) (Tier 1)
-- [FEC Candidate: John Cornyn top industries (2019–2024)](https://www.fec.gov/data/candidate/S2TX00106/) (Tier 1)
-- [FEC: John Cornyn candidate filings](https://www.fec.gov/data/candidate/S2TX00106/) (Tier 1)
-- [Congress.gov: John Cornyn member profile](https://www.congress.gov/member/john-cornyn/C001056) (Tier 1)
-- [Congress.gov: Bipartisan Safer Communities Act (S.2938, 117th Congress)](https://www.congress.gov/bill/117th-congress/senate-bill/2938) (Tier 1)
-- [Texas Tribune: How John Cornyn got the bipartisan gun bill passed](https://www.texastribune.org/2022/06/27/john-cornyn-texas-gun-bill/) (Tier 2)
-- [Texas Tribune: John Cornyn received late help from national Republicans in reelection bid](https://www.texastribune.org/2020/12/03/john-cornyn-campaign-donors/) (Tier 2)
-- [E&E News/Politico: Oil money flows to Cornyn in Texas primary](https://www.eenews.net/articles/oil-money-flows-to-cornyn-in-texas-primary/) (Tier 2)
-- [Roll Call: Cashing in on justice — Cruz, Cornyn, Graham raked in contributions from nominees they backed](https://rollcall.com/2020/03/03/cashing-in-on-justice/) (Tier 2)
-- [KERA News: F-35 fight — support for Fort Worth-produced aircraft could derail government efficiency cut](https://www.keranews.org/business-economy/2024-12-06/an-f-35-fight-support-for-fort-worth-produced-aircraft-could-derail-government-efficiency-cut) (Tier 2)
-- [Ballotpedia: John Cornyn](https://ballotpedia.org/John_Cornyn) (Tier 3)
+- [FEC Candidate: John Cornyn campaign finance summary](https://www.fec.gov/data/candidate/S2TX00106/) (Tier 1) (VERIFIED)
+- [FEC Candidate: John Cornyn top industries (2019–2024)](https://www.fec.gov/data/candidate/S2TX00106/) (Tier 1) (VERIFIED)
+- [FEC: John Cornyn candidate filings](https://www.fec.gov/data/candidate/S2TX00106/) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: John Cornyn member profile](https://www.congress.gov/member/john-cornyn/C001056)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Bipartisan Safer Communities Act (S.2938, 117th Congress)](https://www.congress.gov/bill/117th-congress/senate-bill/2938)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Texas Tribune: How John Cornyn got the bipartisan gun bill passed](https://www.texastribune.org/2022/06/27/john-cornyn-texas-gun-bill/) (Tier 2) (VERIFIED)
+- [Texas Tribune: John Cornyn received late help from national Republicans in reelection bid](https://www.texastribune.org/2020/12/03/john-cornyn-campaign-donors/) (Tier 2) (VERIFIED)
+- [E&E News/Politico: Oil money flows to Cornyn in Texas primary](https://www.eenews.net/articles/oil-money-flows-to-cornyn-in-texas-primary/) (Tier 2) (VERIFIED)
+- [Roll Call: Cashing in on justice — Cruz, Cornyn, Graham raked in contributions from nominees they backed](https://rollcall.com/2020/03/03/cashing-in-on-justice/) (Tier 2) (VERIFIED)
+- [KERA News: F-35 fight — support for Fort Worth-produced aircraft could derail government efficiency cut](https://www.keranews.org/business-economy/2024-12-06/an-f-35-fight-support-for-fort-worth-produced-aircraft-could-derail-government-efficiency-cut) (Tier 2) (VERIFIED)
+- [Ballotpedia: John Cornyn](https://ballotpedia.org/John_Cornyn) (Tier 3) (VERIFIED)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -229,7 +229,7 @@ The gun bill is the exception that proves the rule. The Bipartisan Safer Communi
 | AMERICANS FOR PROSPERITY ACTION, INC.(AFP ACTION) | $6,910,561 | $0 |
 | WOMEN VOTE! | $0 | $1,977,955 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S2TX00106/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S2TX00106/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Influence Network (Cross-Reference)
@@ -303,7 +303,7 @@ The gun bill is the exception that proves the rule. The Bipartisan Safer Communi
 | 08/21/2015 | AAPL | Purchase | $15,001 - $50,000 | Self |
 | 02/01/2017 | AAPL | Sale | $15,001 - $50,000 | Self |
 
-- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
 ### DOJ Press Releases
@@ -335,5 +335,5 @@ The gun bill is the exception that proves the rule. The Bipartisan Safer Communi
 | 4078 | Stop Somali CASH misconduct Act | Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. |
 | — |  | Amendment SA 5115 agreed to in Senate by Unanimous Consent. |
 
-- [Source: Congress.gov](https://www.congress.gov/member/C001056) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001056)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->

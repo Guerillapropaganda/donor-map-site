@@ -230,19 +230,19 @@ The 76.9% revolving door rate is the business model expressed as a statistic. Mo
 
 ### Sources
 
-- [Senate LDA Filings: Crossroads Strategies Lobbying Firm Profile — 2025](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA Filings: Crossroads Strategies Lobbyists — Revolving Door Data](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA Filings: Crossroads Strategies Bills Lobbied — 2025](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [The Hill: Lott, Breaux Join Lobbying Shop Crossroads Strategies](https://thehill.com/business-a-lobbying/business-a-lobbying/502725-lott-breaux-join-lobbying-shop-crossroads-strategies/) (Tier 2)
-- [Roll Call: Ex-Sens. Lott, Breaux Announce Move to Crossroads Strategies](https://rollcall.com/2020/06/15/ex-sens-lott-breaux-announce-move-to-crossroads-strategies/) (Tier 2)
-- [The Hill: Lobbying World — Schumer, Amazon Alum to Join Crossroads Strategies](https://thehill.com/business/4411828-lobbying-world-schumer-amazon-alum-to-join-crossroads-strategies/) (Tier 2)
-- [Crossroads Strategies: Strengthens Offerings with Strategic Hires and Key Promotions (2025)](https://crshq.com/crossroads-strategies-strengthens-offerings-with-strategic-hires-and-key-promotions/) (Tier 3)
-- [Bloomberg Government: 10th Annual Top-Performing Lobbying Firms Report — Federal Lobbying Reached $4.5B High in 2024](https://www.prnewswire.com/news-releases/federal-lobbying-spending-reached-new-high-in-2024-bloomberg-governments-10th-annual-top-performing-lobbying-firms-report-finds-302429060.html) (Tier 2)
-- [LegiStorm: Crossroads Strategies LLC Summary](https://www.legistorm.com/organization/summary/79546/Crossroads_Strategies_LLC.html) (Tier 3)
-- [LegiStorm: Stewart Hall Biography](https://www.legistorm.com/person/bio/102892/G_Stewart_Hall.html) (Tier 3)
-- [Crossroads Strategies Official Website — About](https://crshq.com/about/) (Tier 4)
-- [CNBC: ByteDance, TikTok shelled out $7 million on lobbying and ads to combat potential U.S. ban (April 2024)](https://www.cnbc.com/2024/04/23/bytedance-tiktok-spent-over-7-million-on-lobbying-ad-campaign-.html) (Tier 2)
-- [Washington Examiner: Inside TikTok's army of lobbyists of ex-senators, congressmen, and staffers](https://www.washingtonexaminer.com/news/1779002/inside-tiktoks-army-of-lobbyists-of-ex-senators-congressmen-and-staffers/) (Tier 2)
+- [Senate LDA Filings: Crossroads Strategies Lobbying Firm Profile — 2025](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: Crossroads Strategies Lobbyists — Revolving Door Data](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: Crossroads Strategies Bills Lobbied — 2025](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- ~~[The Hill: Lott, Breaux Join Lobbying Shop Crossroads Strategies](https://thehill.com/business-a-lobbying/business-a-lobbying/502725-lott-breaux-join-lobbying-shop-crossroads-strategies/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Roll Call: Ex-Sens. Lott, Breaux Announce Move to Crossroads Strategies](https://rollcall.com/2020/06/15/ex-sens-lott-breaux-announce-move-to-crossroads-strategies/) (Tier 2) (VERIFIED)
+- ~~[The Hill: Lobbying World — Schumer, Amazon Alum to Join Crossroads Strategies](https://thehill.com/business/4411828-lobbying-world-schumer-amazon-alum-to-join-crossroads-strategies/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Crossroads Strategies: Strengthens Offerings with Strategic Hires and Key Promotions (2025)](https://crshq.com/crossroads-strategies-strengthens-offerings-with-strategic-hires-and-key-promotions/) (Tier 3) (VERIFIED)
+- [Bloomberg Government: 10th Annual Top-Performing Lobbying Firms Report — Federal Lobbying Reached $4.5B High in 2024](https://www.prnewswire.com/news-releases/federal-lobbying-spending-reached-new-high-in-2024-bloomberg-governments-10th-annual-top-performing-lobbying-firms-report-finds-302429060.html) (Tier 2) (VERIFIED)
+- [LegiStorm: Crossroads Strategies LLC Summary](https://www.legistorm.com/organization/summary/79546/Crossroads_Strategies_LLC.html) (Tier 3) (VERIFIED)
+- [LegiStorm: Stewart Hall Biography](https://www.legistorm.com/person/bio/102892/G_Stewart_Hall.html) (Tier 3) (NEEDS REVIEW)
+- [Crossroads Strategies Official Website — About](https://crshq.com/about/) (Tier 4) (VERIFIED)
+- [CNBC: ByteDance, TikTok shelled out $7 million on lobbying and ads to combat potential U.S. ban (April 2024)](https://www.cnbc.com/2024/04/23/bytedance-tiktok-spent-over-7-million-on-lobbying-ad-campaign-.html) (Tier 2) (VERIFIED)
+- [Washington Examiner: Inside TikTok's army of lobbyists of ex-senators, congressmen, and staffers](https://www.washingtonexaminer.com/news/1779002/inside-tiktoks-army-of-lobbyists-of-ex-senators-congressmen-and-staffers/) (Tier 2) (VERIFIED)
 
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->
@@ -260,7 +260,7 @@ The 76.9% revolving door rate is the business model expressed as a statistic. Mo
 - Cooke v. CT Corporation/Jack Kent Cooke Foundation (2021) — District Court, E.D. Virginia
 - Restoration Action, Inc. v. Center for American Restoration, Inc (2021) — District Court, E.D. Virginia
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Crossroads%20Strategies%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Crossroads%20Strategies%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### SEC Filing Activity
@@ -278,7 +278,7 @@ The 76.9% revolving door rate is the business model expressed as a statistic. Mo
 - 2021-01-26 — **8-K**: CURRENT REPORT
 - 2025-10-10 — **EX-10.15**: EX-10.15
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Crossroads%20Strategies%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Crossroads%20Strategies%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Federal Register Activity
@@ -290,7 +290,7 @@ The 76.9% revolving door rate is the business model expressed as a statistic. Mo
 | Agencies | Antitrust Division, Justice Department |
 
 **Recent regulatory activity:**
-- [United States v. UnitedHealth Group Incorporated; Response to Public Comments on the Proposed Final Judgment](https://www.federalregister.gov/documents/2008/08/22/E8-17366/united-states-v-unitedhealth-group-incorporated-response-to-public-comments-on-the-proposed-final) (2008-08-22) — Justice Department
+- [United States v. UnitedHealth Group Incorporated; Response to Public Comments on the Proposed Final Judgment](https://www.federalregister.gov/documents/2008/08/22/E8-17366/united-states-v-unitedhealth-group-incorporated-response-to-public-comments-on-the-proposed-final) (VERIFIED) (2008-08-22) — Justice Department
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Crossroads%20Strategies%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Crossroads%20Strategies%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->

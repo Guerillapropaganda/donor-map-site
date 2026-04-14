@@ -85,9 +85,9 @@ Favorable antitrust treatment for Amazon, government cloud computing contracts (
 
 ### Sources
 
-- [FEC Receipts: Jeff Bezos political contributions](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=jeff%20bezos) (Tier 1)
-- [NASA: Blue Origin Artemis contract](https://www.nasa.gov/press-release/nasa-selects-blue-origin-for-second-artemis-moon-lander) (Tier 1)
-- [Ballotpedia: Jeff Bezos](https://ballotpedia.org/Jeff_Bezos) (Tier 3)
+- [FEC Receipts: Jeff Bezos political contributions](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=jeff%20bezos) (Tier 1) (VERIFIED)
+- ~~[NASA: Blue Origin Artemis contract](https://www.nasa.gov/press-release/nasa-selects-blue-origin-for-second-artemis-moon-lander)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Ballotpedia: Jeff Bezos](https://ballotpedia.org/Jeff_Bezos) (Tier 3) (VERIFIED)
 
 ---
 
@@ -120,7 +120,7 @@ Favorable antitrust treatment for Amazon, government cloud computing contracts (
 - 2009-07-22 — **EX-99.2**: EMAIL REGARDING THE PROPOSED MERGER
 - 2001-04-03 — **EX-24**: EX-24
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Jeff%20Bezos%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Jeff%20Bezos%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Campaign Finance (FEC)
@@ -145,7 +145,7 @@ Favorable antitrust treatment for Amazon, government cloud computing contracts (
 | PEOPLE FOR PATTY MURRAY | $10,000 | — |
 | AMAZON CORPORATE LLC SEPARATED SEGREGATED FUND (AMAZON.COM PAC) | $10,000 | — |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Jeff%20Bezos) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Jeff%20Bezos) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### DOJ Press Releases
@@ -160,10 +160,10 @@ Favorable antitrust treatment for Amazon, government cloud computing contracts (
 | Agencies | Energy Department, Federal Energy Regulatory Commission |
 
 **Recent regulatory activity:**
-- [Consideration of Greenhouse Gas Emissions in Natural Gas Infrastructure Project Reviews](https://www.federalregister.gov/documents/2022/03/11/2022-04536/consideration-of-greenhouse-gas-emissions-in-natural-gas-infrastructure-project-reviews) (2022-03-11) — Energy Department
-- [Certification of New Interstate Natural Gas Facilities](https://www.federalregister.gov/documents/2022/03/01/2022-04148/certification-of-new-interstate-natural-gas-facilities) (2022-03-01) — Energy Department
+- [Consideration of Greenhouse Gas Emissions in Natural Gas Infrastructure Project Reviews](https://www.federalregister.gov/documents/2022/03/11/2022-04536/consideration-of-greenhouse-gas-emissions-in-natural-gas-infrastructure-project-reviews) (VERIFIED) (2022-03-11) — Energy Department
+- [Certification of New Interstate Natural Gas Facilities](https://www.federalregister.gov/documents/2022/03/01/2022-04148/certification-of-new-interstate-natural-gas-facilities) (VERIFIED) (2022-03-01) — Energy Department
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Jeff%20Bezos%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Jeff%20Bezos%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Federal Court Records (CourtListener)
@@ -182,5 +182,5 @@ Favorable antitrust treatment for Amazon, government cloud computing contracts (
 - Shepherd v. Frontier Logistics, Inc. (2026) — District Court, E.D. New York
 - Webb v. Zuckerberg (2026) — District Court, E.D. Virginia
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Jeff%20Bezos%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Jeff%20Bezos%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->

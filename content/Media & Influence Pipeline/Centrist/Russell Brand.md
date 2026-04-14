@@ -147,16 +147,16 @@ Russell Brand represents **algorithmic audience capture as political radicalizat
 
 ### Sources
 
-- [CNBC: "YouTube Halts Russell Brand Channel Revenues After Sexual Assault Allegations" (Sep 19, 2023)](https://www.cnbc.com/2023/09/19/youtube-halts-russell-brand-channel-revenues-after-sexual-assault-allegations.html) (Tier 2)
-- [Rolling Stone: "Rumble Is Down. Will Russell Brand's Allegations Knock It Out?" (Oct 11, 2023)](https://www.rollingstone.com/culture/culture-features/russell-brand-allegations-rumble-1234851624/) (Tier 2)
-- [NBC News: "Russell Brand: YouTube Suspends Monetization on Channel After Rape, Sexual Assault Allegations" (Sep 2023)](https://www.nbcnews.com/news/world/russell-brand-youtube-suspends-monetization-rape-sexual-assault-rcna105750) (Tier 2)
-- [Newsweek: "Russell Brand, Once Seen as Progressive, Moves to Conservative Platform" (2022)](https://www.newsweek.com/russell-brand-once-progressive-moves-conservative-platform-1747130) (Tier 2)
-- [Media Matters: "Russell Brand's Show on Rumble Uncritically Platforms Right-Wing Figures and Conspiracy Theories"](https://www.mediamatters.org/rumble/russell-brands-show-rumble-uncritically-platforms-right-wing-figures-and-conspiracy-theories) (Tier 3)
-- [New Statesman: "Russell Brand's Weird Christian Comeback" (Oct 2024)](https://www.newstatesman.com/politics/religion/2024/10/russell-brands-weird-christian-comeback) (Tier 2)
-- [Christian Post: "Russell Brand Announces Baptism After Months-Long Spiritual Journey" (Apr 2024)](https://www.christianpost.com/news/russell-brand-announces-he-is-getting-baptized-as-christian.html) (Tier 3)
-- [Deseret News: "Russell Brand Prays During Tour with Tucker Carlson" (Sep 2024)](https://www.deseret.com/faith/2024/09/09/russell-brand-religion/) (Tier 3)
-- [TIME: "YouTube Demonetizes Russell Brand's Videos Amid Abuse Allegations" (Sep 2023)](https://time.com/6315556/youtube-demonetize-russell-brand-sexual-assault-allegations/lt-allegations/) (Tier 2)
-- [CBS News: "YouTube CEO Defends Decision to Demonetize Russell Brand's Channel" (Oct 2023)](https://www.cbsnews.com/news/youtube-ceo-neal-mohan-defends-decision-demonetize-russell-brand-channel-sexual-assault-allegations/) (Tier 2)
+- [CNBC: "YouTube Halts Russell Brand Channel Revenues After Sexual Assault Allegations" (Sep 19, 2023)](https://www.cnbc.com/2023/09/19/youtube-halts-russell-brand-channel-revenues-after-sexual-assault-allegations.html) (Tier 2) (VERIFIED)
+- [Rolling Stone: "Rumble Is Down. Will Russell Brand's Allegations Knock It Out?" (Oct 11, 2023)](https://www.rollingstone.com/culture/culture-features/russell-brand-allegations-rumble-1234851624/) (Tier 2) (VERIFIED)
+- [NBC News: "Russell Brand: YouTube Suspends Monetization on Channel After Rape, Sexual Assault Allegations" (Sep 2023)](https://www.nbcnews.com/news/world/russell-brand-youtube-suspends-monetization-rape-sexual-assault-rcna105750) (Tier 2) (VERIFIED)
+- [Newsweek: "Russell Brand, Once Seen as Progressive, Moves to Conservative Platform" (2022)](https://www.newsweek.com/russell-brand-once-progressive-moves-conservative-platform-1747130) (Tier 2) (VERIFIED)
+- [Media Matters: "Russell Brand's Show on Rumble Uncritically Platforms Right-Wing Figures and Conspiracy Theories"](https://www.mediamatters.org/rumble/russell-brands-show-rumble-uncritically-platforms-right-wing-figures-and-conspiracy-theories) (Tier 3) (VERIFIED)
+- [New Statesman: "Russell Brand's Weird Christian Comeback" (Oct 2024)](https://www.newstatesman.com/politics/religion/2024/10/russell-brands-weird-christian-comeback) (Tier 2) (VERIFIED)
+- [Christian Post: "Russell Brand Announces Baptism After Months-Long Spiritual Journey" (Apr 2024)](https://www.christianpost.com/news/russell-brand-announces-he-is-getting-baptized-as-christian.html) (Tier 3) (VERIFIED)
+- [Deseret News: "Russell Brand Prays During Tour with Tucker Carlson" (Sep 2024)](https://www.deseret.com/faith/2024/09/09/russell-brand-religion/) (Tier 3) (VERIFIED)
+- ~~[TIME: "YouTube Demonetizes Russell Brand's Videos Amid Abuse Allegations" (Sep 2023)](https://time.com/6315556/youtube-demonetize-russell-brand-sexual-assault-allegations/lt-allegations/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [CBS News: "YouTube CEO Defends Decision to Demonetize Russell Brand's Channel" (Oct 2023)](https://www.cbsnews.com/news/youtube-ceo-neal-mohan-defends-decision-demonetize-russell-brand-channel-sexual-assault-allegations/) (Tier 2) (VERIFIED)
 
 ---
 

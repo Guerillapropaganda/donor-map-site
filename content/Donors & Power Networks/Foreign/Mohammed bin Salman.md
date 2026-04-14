@@ -157,13 +157,13 @@ This asymmetry reflects U.S. alignment with Saudi Arabia as Middle East strategi
 ### Primary Documents — Tier 1:
 
 ### Investigative Journalism — Tier 2:
-- [House Oversight Committee: Investigation into Jared Kushner's Affinity Partners Saudi Investment (June 2022)](https://oversightdemocrats.house.gov/news/press-releases/chairwoman-maloney-launches-probe-of-saudi-government-s-2-billion-investment-in) (Tier 2)
-- [Axios: Jared Kushner's new private equity fund raises old questions (March 2026)](https://www.axios.com/2026/03/16/jared-kushner-affinity-partners) (Tier 2)
+- [House Oversight Committee: Investigation into Jared Kushner's Affinity Partners Saudi Investment (June 2022)](https://oversightdemocrats.house.gov/news/press-releases/chairwoman-maloney-launches-probe-of-saudi-government-s-2-billion-investment-in) (Tier 2) (VERIFIED)
+- ~~[Axios: Jared Kushner's new private equity fund raises old questions (March 2026)](https://www.axios.com/2026/03/16/jared-kushner-affinity-partners)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ### Reference — Tier 3:
-- [Wikipedia: Affinity Partners](https://en.wikipedia.org/wiki/Affinity_Partners) (Tier 3)
-- [Wikipedia: Mohammed bin Salman](https://en.wikipedia.org/wiki/Mohammed_bin_Salman) (Tier 3)
-- [Wikipedia: Saudi Arabia–United States relations](https://en.wikipedia.org/wiki/Saudi_Arabia%E2%80%93United_States_relations) (Tier 3)
+- [Wikipedia: Affinity Partners](https://en.wikipedia.org/wiki/Affinity_Partners) (Tier 3) (VERIFIED)
+- [Wikipedia: Mohammed bin Salman](https://en.wikipedia.org/wiki/Mohammed_bin_Salman) (Tier 3) (VERIFIED)
+- [Wikipedia: Saudi Arabia–United States relations](https://en.wikipedia.org/wiki/Saudi_Arabia%E2%80%93United_States_relations) (Tier 3) (VERIFIED)
 
 ---
 
@@ -182,14 +182,14 @@ This asymmetry reflects U.S. alignment with Saudi Arabia as Middle East strategi
 - 2025-08-18 — **425**: FORM 425
 - 2025-08-14 — **425**: FORM 425
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Mohammed%20bin%20Salman%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Mohammed%20bin%20Salman%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [2549005BTTUZTS9QQP67](https://search.gleif.org/#/record/2549005BTTUZTS9QQP67) |
+| LEI | [2549005BTTUZTS9QQP67](https://search.gleif.org/#/record/2549005BTTUZTS9QQP67) (VERIFIED) |
 | Legal Name | شركة مرود للإستثمار |
 | Jurisdiction | SA |
 | Entity Status | ACTIVE |
@@ -197,5 +197,5 @@ This asymmetry reflects U.S. alignment with Saudi Arabia as Middle East strategi
 | Registration | LAPSED |
 | Last Updated | 2024-09-16T17:03:58Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->

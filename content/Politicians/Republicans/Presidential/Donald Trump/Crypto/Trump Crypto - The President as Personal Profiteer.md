@@ -127,17 +127,17 @@ The Strategic Bitcoin Reserve (announced in Executive Order, details to follow i
 
 ### Sources
 
-- [FEC Committee: Fairshake PAC summary (C00835959). FEC filing data](https://www.fec.gov/data/committee/C00835959/) (Tier 1)
-- [White House: Executive Order 14178 "Strengthening American Leadership in Digital Financial Technology"](https://www.whitehouse.gov/presidential-actions/2025/01/strengthening-american-leadership-in-digital-financial-technology/) (Tier 1)
-- [White House: Fact Sheet on Executive Order 14178. Digital Assets Framework](https://www.whitehouse.gov/fact-sheets/2025/01/fact-sheet-executive-order-to-establish-united-states-leadership-in-digital-financial-technology/) (Tier 1)
-- [Senate Banking Committee: David Sacks conflicts of interest](https://www.banking.senate.gov/newsroom/minority/ahead-of-trump-crypto-fundraiser-warren-questions-government-ethics-agency-on-crypto-czar-david-sacks-conflicts-of-interest) (Tier 1)
-- [Cointelegraph: SEC crypto enforcement reversals, 60% of cases halted under Trump](https://cointelegraph.com/news/sec-crypto-enforcement-donald-trump-dropped) (Tier 2)
-- [NPR: How Trump's latest crypto launch enriches his family](https://www.npr.org/2025/09/03/nx-s1-5527047/trump-crypto-family-world-liberty-financial) (Tier 2)
+- [FEC Committee: Fairshake PAC summary (C00835959). FEC filing data](https://www.fec.gov/data/committee/C00835959/) (Tier 1) (VERIFIED)
+- [White House: Executive Order 14178 "Strengthening American Leadership in Digital Financial Technology"](https://www.whitehouse.gov/presidential-actions/2025/01/strengthening-american-leadership-in-digital-financial-technology/) (Tier 1) (VERIFIED)
+- [White House: Fact Sheet on Executive Order 14178. Digital Assets Framework](https://www.whitehouse.gov/fact-sheets/2025/01/fact-sheet-executive-order-to-establish-united-states-leadership-in-digital-financial-technology/) (Tier 1) (VERIFIED)
+- [Senate Banking Committee: David Sacks conflicts of interest](https://www.banking.senate.gov/newsroom/minority/ahead-of-trump-crypto-fundraiser-warren-questions-government-ethics-agency-on-crypto-czar-david-sacks-conflicts-of-interest) (Tier 1) (VERIFIED)
+- [Cointelegraph: SEC crypto enforcement reversals, 60% of cases halted under Trump](https://cointelegraph.com/news/sec-crypto-enforcement-donald-trump-dropped) (Tier 2) (VERIFIED)
+- [NPR: How Trump's latest crypto launch enriches his family](https://www.npr.org/2025/09/03/nx-s1-5527047/trump-crypto-family-world-liberty-financial) (Tier 2) (VERIFIED)
 
 
 ### Voting Record
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Trump Crypto - The President as Personal Profiteer](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: Trump Crypto - The President as Personal Profiteer](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->

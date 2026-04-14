@@ -166,15 +166,15 @@ Greene is the right-wing mirror of the progressive small-dollar fundraising mode
 
 ## Sources
 
-- [FEC Candidate: Marjorie Taylor Greene campaign finance summary](https://www.fec.gov/data/candidate/H0GA06192/) (Tier 1)
-- [OpenSecrets: MTG heads for the exit after controversy-fueled fundraising trail](https://www.opensecrets.org/news/2025/12/marjorie-taylor-greene-heads-for-the-exit-having-blazed-a-controversy-fueled-fundraising-trail/) (Tier 1)
-- [ProPublica: How MTG juiced her fundraising numbers](https://www.propublica.org/article/how-josh-hawley-and-marjorie-taylor-greene-juiced-their-fundraising-numbers) (Tier 2)
-- [CNBC: Marjorie Taylor Greene expresses regret about QAnon](https://www.cnbc.com/2021/02/04/marjorie-taylor-greene-regret-qanon-conspiracy-claims.html) (Tier 2)
-- [Wikipedia: Marjorie Taylor Greene](https://en.wikipedia.org/wiki/Marjorie_Taylor_Greene) (Tier 3)
-- [AJC: The more controversial the better for Greene's fundraising](https://www.ajc.com/politics/the-more-controversial-the-better-for-greene-fundraising-and-her-opponent/5CKFDDY6P5DQDKLFTKLID4ACN4/) (Tier 2)
-- [BuzzFeed News: CrossFit and MTG](https://www.buzzfeednews.com/article/ryancbrooks/marjorie-taylor-greene-qanon-crossfit) (Tier 2)
-- [NOTUS: MTG fundraising cash](https://www.notus.org/georgia/marjorie-taylor-greene-fundraising) (Tier 2)
-- [Capitol Beat: MTG Georgia's top congressional fundraiser](https://capitol-beat.org/2024/04/marjorie-taylor-greene-georgias-top-congressional-fundraiser/) (Tier 2)
+- [FEC Candidate: Marjorie Taylor Greene campaign finance summary](https://www.fec.gov/data/candidate/H0GA06192/) (Tier 1) (VERIFIED)
+- [OpenSecrets: MTG heads for the exit after controversy-fueled fundraising trail](https://www.opensecrets.org/news/2025/12/marjorie-taylor-greene-heads-for-the-exit-having-blazed-a-controversy-fueled-fundraising-trail/) (Tier 1) (VERIFIED)
+- [ProPublica: How MTG juiced her fundraising numbers](https://www.propublica.org/article/how-josh-hawley-and-marjorie-taylor-greene-juiced-their-fundraising-numbers) (Tier 2) (VERIFIED)
+- [CNBC: Marjorie Taylor Greene expresses regret about QAnon](https://www.cnbc.com/2021/02/04/marjorie-taylor-greene-regret-qanon-conspiracy-claims.html) (Tier 2) (VERIFIED)
+- [Wikipedia: Marjorie Taylor Greene](https://en.wikipedia.org/wiki/Marjorie_Taylor_Greene) (Tier 3) (VERIFIED)
+- [AJC: The more controversial the better for Greene's fundraising](https://www.ajc.com/politics/the-more-controversial-the-better-for-greene-fundraising-and-her-opponent/5CKFDDY6P5DQDKLFTKLID4ACN4/) (Tier 2) (VERIFIED)
+- [BuzzFeed News: CrossFit and MTG](https://www.buzzfeednews.com/article/ryancbrooks/marjorie-taylor-greene-qanon-crossfit) (Tier 2) (VERIFIED)
+- [NOTUS: MTG fundraising cash](https://www.notus.org/georgia/marjorie-taylor-greene-fundraising) (Tier 2) (VERIFIED)
+- [Capitol Beat: MTG Georgia's top congressional fundraiser](https://capitol-beat.org/2024/04/marjorie-taylor-greene-georgias-top-congressional-fundraiser/) (Tier 2) (VERIFIED)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -204,7 +204,7 @@ Greene is the right-wing mirror of the progressive small-dollar fundraising mode
 | A GREAT AMERICA PAC | $0 | $109,304 |
 | DRAIN THE DC SWAMP PAC | $73,333 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0GA06192/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0GA06192/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Influence Network (Cross-Reference)

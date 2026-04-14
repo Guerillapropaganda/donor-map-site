@@ -61,10 +61,10 @@ Roberts is not moderate. He is strategic. The distinction matters because it rev
 
 ### Sources
 
-- [SCOTUSblog: NFIB v. Sebelius](https://www.scotusblog.com/cases/case-files/national-federation-of-independent-business-v-sebelius/) (Tier 2)
-- [Constitution Center: NFIB v. Sebelius (2012)](https://constitutioncenter.org/the-constitution/supreme-court-case-library/nfib-v-sebelius) (Tier 2)
-- [CNN: How John Roberts Killed the Census Citizenship Question](https://www.cnn.com/2019/09/12/politics/john-roberts-census-citizenship-supreme-court) (Tier 2)
-- [Brennan Center: Four Takeaways from the Supreme Court's Census Citizenship Question Ruling](https://www.brennancenter.org/our-work/analysis-opinion/four-takeaways-supreme-courts-census-citizenship-question-ruling) (Tier 2)
-- [Washington Monthly: Is Chief Justice Roberts an Ideologue or an Institutionalist?](https://washingtonmonthly.com/2019/06/12/is-chief-justice-roberts-an-ideologue-or-an-institutionalist/) (Tier 2)
-- [University of Illinois Law Review: Chief Justice John Roberts and the Combination of Conservatism and Institutionalism](https://illinoislawreview.org/uncategorized/chief-justice-john-roberts-and-the-combination-of-conservatism-and-institutionalism/) (Tier 3)
-- [Supreme Court: Dobbs v. Jackson Women's Health Organization (Official Opinion)](https://www.supremecourt.gov/opinions/21pdf/19-1392_6j37.pdf) (Tier 1)
+- [SCOTUSblog: NFIB v. Sebelius](https://www.scotusblog.com/cases/case-files/national-federation-of-independent-business-v-sebelius/) (Tier 2) (VERIFIED)
+- [Constitution Center: NFIB v. Sebelius (2012)](https://constitutioncenter.org/the-constitution/supreme-court-case-library/nfib-v-sebelius) (Tier 2) (VERIFIED)
+- [CNN: How John Roberts Killed the Census Citizenship Question](https://www.cnn.com/2019/09/12/politics/john-roberts-census-citizenship-supreme-court) (Tier 2) (VERIFIED)
+- [Brennan Center: Four Takeaways from the Supreme Court's Census Citizenship Question Ruling](https://www.brennancenter.org/our-work/analysis-opinion/four-takeaways-supreme-courts-census-citizenship-question-ruling) (Tier 2) (VERIFIED)
+- [Washington Monthly: Is Chief Justice Roberts an Ideologue or an Institutionalist?](https://washingtonmonthly.com/2019/06/12/is-chief-justice-roberts-an-ideologue-or-an-institutionalist/) (Tier 2) (VERIFIED)
+- [University of Illinois Law Review: Chief Justice John Roberts and the Combination of Conservatism and Institutionalism](https://illinoislawreview.org/uncategorized/chief-justice-john-roberts-and-the-combination-of-conservatism-and-institutionalism/) (Tier 3) (VERIFIED)
+- [Supreme Court: Dobbs v. Jackson Women's Health Organization (Official Opinion)](https://www.supremecourt.gov/opinions/21pdf/19-1392_6j37.pdf) (Tier 1) (VERIFIED)

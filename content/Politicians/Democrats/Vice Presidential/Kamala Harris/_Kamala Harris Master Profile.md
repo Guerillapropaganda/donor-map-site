@@ -197,10 +197,10 @@ Harris's loss is the vault's clearest proof of the thesis: the donor class contr
 
 Detailed sourcing is in each sub-note. Key sources for the master profile:
 
-- [OpenSecrets: Harris 2024 Presidential Campaign Finance](https://www.opensecrets.org/2024-presidential-race/kamala-harris/candidate?id=N00036915) (Tier 1)
-- [Federal Election Commission: Candidate Filings](https://www.fec.gov/data/filings/) (Tier 1)
-- [U.S. Senate: Tie-Breaking Vote Records](https://www.senate.gov/legislative/TieVotes.htm) (Tier 1)
-- [International Brotherhood of Teamsters: Presidential Endorsement Polling Data](https://teamster.org/2024/09/teamsters-release-presidential-endorsement-polling-data/) (Tier 1)
+- [OpenSecrets: Harris 2024 Presidential Campaign Finance](https://www.opensecrets.org/2024-presidential-race/kamala-harris/candidate?id=N00036915) (Tier 1) (VERIFIED)
+- [Federal Election Commission: Candidate Filings](https://www.fec.gov/data/filings/) (Tier 1) (VERIFIED)
+- [U.S. Senate: Tie-Breaking Vote Records](https://www.senate.gov/legislative/TieVotes.htm) (Tier 1) (VERIFIED)
+- [International Brotherhood of Teamsters: Presidential Endorsement Polling Data](https://teamster.org/2024/09/teamsters-release-presidential-endorsement-polling-data/) (Tier 1) (VERIFIED)
 - The Intercept — OneWest Bank memo, Mnuchin non-prosecution (Tier 2)
 - NBC News — $1 billion milestone, Future Forward $517M spending (Tier 2)
 - NPR — First 24 hours ($81M), tech donor analysis, Teamsters non-endorsement (Tier 2)
@@ -238,7 +238,7 @@ Detailed sourcing is in each sub-note. Key sources for the master profile:
 | PRESERVE AMERICA PAC | $0 | $130,341,113 |
 | RESTORATION PAC | $0 | $47,398,182 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/P00009423/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/P00009423/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Influence Network (Cross-Reference)

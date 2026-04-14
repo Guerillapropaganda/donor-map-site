@@ -143,20 +143,20 @@ AB 1228's fast food council is the exemplar: a visible, measurable program that 
 5. Silicon Valley VC investor networks ([[Marc Andreessen & Horowitz|Andreessen Horowitz]], Benchmark), **Not yet started.** a16z is connected to Uber, Lyft, Instacart, and DoorDash investor networks.
 
 ### Primary sources to pull:
-- [California FPPC](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1)
-- [Cal-Access Power Search](https://powersearch.sos.ca.gov/advanced.php) (Tier 1)
-- [OpenSecrets California](https://www.opensecrets.org/states/CA) (Tier 1)
-- [National Institute on Money in Politics / Follow the Money](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=Labor%20-%20Donors%20and%20Backers#[%7B1%7Cgro=d-id) (Tier 1)
+- [California FPPC](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1) (VERIFIED)
+- [Cal-Access Power Search](https://powersearch.sos.ca.gov/advanced.php) (Tier 1) (VERIFIED)
+- [OpenSecrets California](https://www.opensecrets.org/states/CA) (Tier 1) (VERIFIED)
+- [National Institute on Money in Politics / Follow the Money](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=Labor%20-%20Donors%20and%20Backers#[%7B1%7Cgro=d-id) (Tier 1) (VERIFIED)
 
 ---
 
 ### Sources
-- [Ballotpedia: Prop 22 campaign finance](https://ballotpedia.org/California_Proposition_22,_App-Based_Drivers_as_Contractors_and_Labor_Policies_Initiative_%282020%29) (Tier 1)
-- [CalMatters: Newsom recall donors](https://calmatters.org/category/politics/2021/10/newsom-recall-big-donors/) (Tier 2)
-- [Mercury News: Uber Innovation PAC 2024](https://www.mercurynews.com/2024/11/05/big-spenders-these-companies-are-giving-the-most-to-california-legislative-candidates/) (Tier 2)
-- [OpenSecrets: Uber, Lyft, DoorDash profiles](https://www.opensecrets.org/members-of-congress/summary?name=Labor) (Tier 1)
-- [The Hill: Flex Association](https://thehill.com/business-a-lobbying/business-a-lobbying/597404-gig-companies-launch-lobbying-group-to-counter-pro/) (Tier 2)
-- [Transparency USA: Uber Innovation PAC](https://www.transparencyusa.org/ca/committee/uber-innovation-pac-1439102-rcp) (Tier 2)
+- [Ballotpedia: Prop 22 campaign finance](https://ballotpedia.org/California_Proposition_22,_App-Based_Drivers_as_Contractors_and_Labor_Policies_Initiative_%282020%29) (Tier 1) (VERIFIED)
+- ~~[CalMatters: Newsom recall donors](https://calmatters.org/category/politics/2021/10/newsom-recall-big-donors/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Mercury News: Uber Innovation PAC 2024](https://www.mercurynews.com/2024/11/05/big-spenders-these-companies-are-giving-the-most-to-california-legislative-candidates/) (Tier 2) (VERIFIED)
+- [OpenSecrets: Uber, Lyft, DoorDash profiles](https://www.opensecrets.org/members-of-congress/summary?name=Labor) (Tier 1) (VERIFIED)
+- ~~[The Hill: Flex Association](https://thehill.com/business-a-lobbying/business-a-lobbying/597404-gig-companies-launch-lobbying-group-to-counter-pro/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Transparency USA: Uber Innovation PAC](https://www.transparencyusa.org/ca/committee/uber-innovation-pac-1439102-rcp) (Tier 2) (VERIFIED)
 
 ---
 

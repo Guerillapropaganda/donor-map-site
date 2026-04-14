@@ -100,8 +100,8 @@ GEO Group (the largest private prison company, market cap ~$4B) deployed a compr
 **Vault profiles to update:** [[GEO Group - Private Prisons]], [[Pam Bondi]], [[_Donald Trump Master Profile]]
 
 ### Sources:
-- [OpenSecrets: GEO Group Profile Summary](https://www.opensecrets.org/orgs/geo-group/summary?id=D000022003) (Tier 1)
-- [OpenSecrets: Private prison companies positioned to benefit from increased deportations](https://www.opensecrets.org/news/2025/04/private-prison-companies-positioned-to-benefit-from-increased-deportations/) (Tier 1)
+- [OpenSecrets: GEO Group Profile Summary](https://www.opensecrets.org/orgs/geo-group/summary?id=D000022003) (Tier 1) (VERIFIED)
+- [OpenSecrets: Private prison companies positioned to benefit from increased deportations](https://www.opensecrets.org/news/2025/04/private-prison-companies-positioned-to-benefit-from-increased-deportations/) (Tier 1) (VERIFIED)
 
 ---
 
@@ -138,8 +138,8 @@ PhRMA (Pharmaceutical Research and Manufacturers of America) is the industry's p
 **Vault profiles to update:** [[PhRMA - Pharmaceutical Research and Manufacturers of America]]
 
 ### Sources:
-- [OpenSecrets: PhRMA Profile Summary](https://www.opensecrets.org/orgs/pharmaceutical-research-manufacturers-of-america/summary?id=D000000504) (Tier 1)
-- [Readsludge: PhRMA Spends Record Lobbying Sum to Keep Drug Prices High](https://readsludge.com/2025/04/23/phrma-spends-record-lobbying-sum-to-keep-drug-prices-high/) (Tier 2)
+- [OpenSecrets: PhRMA Profile Summary](https://www.opensecrets.org/orgs/pharmaceutical-research-manufacturers-of-america/summary?id=D000000504) (Tier 1) (VERIFIED)
+- [Readsludge: PhRMA Spends Record Lobbying Sum to Keep Drug Prices High](https://readsludge.com/2025/04/23/phrma-spends-record-lobbying-sum-to-keep-drug-prices-high/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -172,7 +172,7 @@ RTX Corp (formerly Raytheon Technologies, the merged entity of Raytheon, Pratt &
 **Vault profiles to update:** [[Raytheon Technologies]]
 
 ### Sources:
-- [OpenSecrets: RTX Corp Profile Summary](https://www.opensecrets.org/orgs/raytheon-technologies/summary?id=D000072615) (Tier 1)
+- [OpenSecrets: RTX Corp Profile Summary](https://www.opensecrets.org/orgs/raytheon-technologies/summary?id=D000072615) (Tier 1) (VERIFIED)
 
 ---
 
@@ -213,7 +213,7 @@ The UAW under Shawn Fain deployed its political operation almost entirely throug
 **Vault profiles to update:** [[United Auto Workers]]
 
 ### Sources:
-- [OpenSecrets: United Auto Workers Profile Summary](https://www.opensecrets.org/orgs/united-auto-workers/summary?id=d000000070) (Tier 1)
+- [OpenSecrets: United Auto Workers Profile Summary](https://www.opensecrets.org/orgs/united-auto-workers/summary?id=d000000070) (Tier 1) (VERIFIED)
 
 ---
 
@@ -246,8 +246,8 @@ Sacks has direct financial interests in crypto and AI regulation:
 **Vault profiles to update / create:** [[David Sacks Political Operation]]
 
 ### Sources (UNVERIFIED, not Chrome-loaded this session):
-- [OpenSecrets: David Sacks donor lookup](https://www.opensecrets.org/donor-lookup/results?name=David+Sacks&state=CA&cycle=2024&order=desc&sort=D) (Tier 1) (UNVERIFIED, page loaded but data requires JS rendering; verify detail in next session)
-- [CNBC: Trump heads to tech fundraiser in San Francisco, some guests paying $300,000](https://www.cnbc.com/2024/06/06/trump-hits-tech-fundraiser-in-san-francisco-some-guests-pay-300000.html) (Tier 2)
+- [OpenSecrets: David Sacks donor lookup](https://www.opensecrets.org/donor-lookup/results?name=David+Sacks&state=CA&cycle=2024&order=desc&sort=D) (Tier 1) (VERIFIED) (UNVERIFIED, page loaded but data requires JS rendering; verify detail in next session)
+- [CNBC: Trump heads to tech fundraiser in San Francisco, some guests paying $300,000](https://www.cnbc.com/2024/06/06/trump-hits-tech-fundraiser-in-san-francisco-some-guests-pay-300000.html) (Tier 2) (VERIFIED)
 
 ---
 

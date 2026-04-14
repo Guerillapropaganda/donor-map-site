@@ -107,8 +107,8 @@ Housing, rent control, supply-side framework, tenant rights
 
 ### Sources
 
-- [California Secretary of State: Ballot measure campaign finance](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx) (Tier 1)
-- [FPPC: CAA-PAC contribution records](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1)
+- [California Secretary of State: Ballot measure campaign finance](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx) (Tier 1) (VERIFIED)
+- [FPPC: CAA-PAC contribution records](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1) (VERIFIED)
 
 ---
 
@@ -140,7 +140,7 @@ Housing, rent control, supply-side framework, tenant rights
 
 **Agencies contacted:** AMTRAK - Natl Railroad Passenger Corporation, Administration for Children & Families (ACF), Agriculture, Dept of (USDA), Army, Dept of (Corps of Engineers), Bureau of Reclamation, Centers For Disease Control & Prevention (CDC), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Consumer Financial Protection Bureau (CFPB), Council on Environmental Quality (CEQ) +49 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=California%20Apartment%20Association) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=California%20Apartment%20Association) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Federal Court Records (CourtListener)
@@ -159,7 +159,7 @@ Housing, rent control, supply-side framework, tenant rights
 - Woodfall-Jones v. City of San Mateo (2025) — District Court, N.D. California
 - Marya v. Board of Regents of University of California (2025) — District Court, N.D. California
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22California%20Apartment%20Association%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22California%20Apartment%20Association%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Influence Network (Cross-Reference)
@@ -193,7 +193,7 @@ Housing, rent control, supply-side framework, tenant rights
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=California%20Apartment%20Association) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=California%20Apartment%20Association) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -205,8 +205,8 @@ Housing, rent control, supply-side framework, tenant rights
 | Total Expenses | $253K |
 | Net Assets | $864K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 950944360](https://projects.propublica.org/nonprofits/organizations/950944360) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F950944360_202312_990O_2025031723222139.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 950944360](https://projects.propublica.org/nonprofits/organizations/950944360) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F950944360_202312_990O_2025031723222139.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### DOJ Press Releases

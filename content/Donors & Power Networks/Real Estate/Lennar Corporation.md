@@ -68,8 +68,8 @@ Lennar's political interests center on five structural dependencies: zoning dere
 
 Lennar operates primarily through the National Association of Home Builders (NAHB) for federal advocacy. NAHB's BUILD-PAC raised $3.1 million in the 2024 cycle, and the association spent $3.45 million on federal lobbying, making it one of the most powerful trade associations in Washington. NAHB's advocacy agenda, tariff relief, immigration visa programs for construction workers, zoning reform, housing finance, maps directly onto Lennar's business interests. At the state level, particularly in Florida, Lennar maintains a direct lobbying operation that has written legislation, funded political committees, and shaped regulatory frameworks to benefit the company specifically.
 
-- [OpenSecrets: Lennar Corp summary](https://www.opensecrets.org/orgs/lennar-corp/summary?id=D000053016) (Tier 1)
-- [Ballotpedia: Lennar Corporation](https://ballotpedia.org/Lennar_Corporation) (Tier 3)
+- [OpenSecrets: Lennar Corp summary](https://www.opensecrets.org/orgs/lennar-corp/summary?id=D000053016) (Tier 1) (VERIFIED)
+- [Ballotpedia: Lennar Corporation](https://ballotpedia.org/Lennar_Corporation) (Tier 3) (VERIFIED)
 
 ---
 
@@ -154,7 +154,7 @@ Lennar and Five Point developed and sold homes while the contamination fraud was
 
 The Hunters Point development sits in Southeast San Francisco, the most polluted part of the city and a historically Black community. Environmental justice advocates have described the project as a paradigm case of environmental racism: a contaminated site in a community of color, cleaned up fraudulently, developed by a politically connected corporation, and sold to residents who were not informed of the risks.
 
-- [CBS San Francisco: Hunters Point Shipyard Residents Reach $6.3M Settlement In Radiation Lawsuit](https://www.cbsnews.com/sanfrancisco/news/hunters-point-shipyard-residents-radiation-settlement/) (Tier 2)
+- [CBS San Francisco: Hunters Point Shipyard Residents Reach $6.3M Settlement In Radiation Lawsuit](https://www.cbsnews.com/sanfrancisco/news/hunters-point-shipyard-residents-radiation-settlement/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -175,16 +175,16 @@ The Hunters Point development makes the class function explicit: Lennar extracte
 ### Sources
 
 - [OpenSecrets: Lennar Corp summary](https://www.opensecrets.org/orgs/lennar-corp/summary?id=D000053016) (Tier 1)
-- [OpenSecrets: Lennar Corp recipients](https://www.opensecrets.org/orgs/lennar-corp/recipients?id=D000053016) (Tier 1)
-- [OpenSecrets: Lennar Corp lobbying](https://www.opensecrets.org/orgs/lennar-corp/lobbying?id=D000053016) (Tier 1)
-- [FEC: BUILD PAC (NAHB) committee overview](https://www.fec.gov/data/committee/C00000901/) (Tier 1)
-- [OpenSecrets: National Assn of Home Builders summary](https://www.opensecrets.org/orgs/national-assn-of-home-builders/summary?id=D000000086) (Tier 1)
-- [Florida Bulldog: FEC lets Lennar Corp's Stuart Miller walk despite making $125,000 in illegal contributions](https://www.floridabulldog.org/2025/04/fec-lets-lennar-corp-stuart-miller-walk-despite-making-125000-illegal-contributions/) (Tier 2)
-- [The Real Deal: Stuart Miller won't face fines for $125K in allegedly illegal political donations](https://therealdeal.com/miami/2025/04/08/no-fines-for-stuart-millers-allegedly-illegal-donations/) (Tier 2)
-- [San Francisco Public Press: Homebuilder Lennar uses federal taxpayer funds to balance its books](https://www.sfpublicpress.org/homebuilder-lennar-uses-federal-taxpayer-funds-to-balance-its-books/) (Tier 2)
-- [Seeking Rents (Jason Garcia): A giant homebuilder wrote a Florida law to build housing subdivisions faster and cheaper](https://jasongarcia.substack.com/p/a-giant-homebuilder-wrote-a-florida) (Tier 2)
-- [Seeking Rents (Jason Garcia): A Lennar-backed company is lobbying for a tax break that could save money for Lennar](https://jasongarcia.substack.com/p/a-lennar-backed-company-is-lobbying) (Tier 2)
-- [Seeking Rents (Jason Garcia): A homebuilding giant is lobbying for the power to collect endless profits from homeowners](https://jasongarcia.substack.com/p/a-homebuilding-giant-is-lobbying) (Tier 2)
+- [OpenSecrets: Lennar Corp recipients](https://www.opensecrets.org/orgs/lennar-corp/recipients?id=D000053016) (Tier 1) (VERIFIED)
+- [OpenSecrets: Lennar Corp lobbying](https://www.opensecrets.org/orgs/lennar-corp/lobbying?id=D000053016) (Tier 1) (VERIFIED)
+- [FEC: BUILD PAC (NAHB) committee overview](https://www.fec.gov/data/committee/C00000901/) (Tier 1) (VERIFIED)
+- [OpenSecrets: National Assn of Home Builders summary](https://www.opensecrets.org/orgs/national-assn-of-home-builders/summary?id=D000000086) (Tier 1) (VERIFIED)
+- [Florida Bulldog: FEC lets Lennar Corp's Stuart Miller walk despite making $125,000 in illegal contributions](https://www.floridabulldog.org/2025/04/fec-lets-lennar-corp-stuart-miller-walk-despite-making-125000-illegal-contributions/) (Tier 2) (VERIFIED)
+- [The Real Deal: Stuart Miller won't face fines for $125K in allegedly illegal political donations](https://therealdeal.com/miami/2025/04/08/no-fines-for-stuart-millers-allegedly-illegal-donations/) (Tier 2) (VERIFIED)
+- [San Francisco Public Press: Homebuilder Lennar uses federal taxpayer funds to balance its books](https://www.sfpublicpress.org/homebuilder-lennar-uses-federal-taxpayer-funds-to-balance-its-books/) (Tier 2) (VERIFIED)
+- [Seeking Rents (Jason Garcia): A giant homebuilder wrote a Florida law to build housing subdivisions faster and cheaper](https://jasongarcia.substack.com/p/a-giant-homebuilder-wrote-a-florida) (Tier 2) (VERIFIED)
+- [Seeking Rents (Jason Garcia): A Lennar-backed company is lobbying for a tax break that could save money for Lennar](https://jasongarcia.substack.com/p/a-lennar-backed-company-is-lobbying) (Tier 2) (VERIFIED)
+- [Seeking Rents (Jason Garcia): A homebuilding giant is lobbying for the power to collect endless profits from homeowners](https://jasongarcia.substack.com/p/a-homebuilding-giant-is-lobbying) (Tier 2) (VERIFIED)
 - [CBS San Francisco: Hunters Point Shipyard Residents Reach $6.3M Settlement In Radiation Lawsuit](https://www.cbsnews.com/sanfrancisco/news/hunters-point-shipyard-residents-radiation-settlement/) (Tier 2)
 - [Ballotpedia: Lennar Corporation](https://ballotpedia.org/Lennar_Corporation) (Tier 3)
 
@@ -214,8 +214,8 @@ The Hunters Point development makes the class function explicit: Lennar extracte
 | Net Assets | $22.6M |
 | Officer Compensation | $33K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 560946914](https://projects.propublica.org/nonprofits/organizations/560946914) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F560946914_202312_990O_2024061722525326.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 560946914](https://projects.propublica.org/nonprofits/organizations/560946914) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F560946914_202312_990O_2024061722525326.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Federal Court Records (CourtListener)
@@ -234,14 +234,14 @@ The Hunters Point development makes the class function explicit: Lennar extracte
 - Sunnova Energy International Inc. and Rebecca Nelson (2025) — United States Bankruptcy Court, S.D. Texas
 - Stephens v. American Arbitration Association Incorporated (2025) — District Court, D. Arizona
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Lennar%20Corporation%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Lennar%20Corporation%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [529900G61XVRLX5TJX09](https://search.gleif.org/#/record/529900G61XVRLX5TJX09) |
+| LEI | [529900G61XVRLX5TJX09](https://search.gleif.org/#/record/529900G61XVRLX5TJX09) (VERIFIED) |
 | Legal Name | LENNAR CORPORATION |
 | Jurisdiction | US-DE |
 | Entity Status | ACTIVE |
@@ -249,7 +249,7 @@ The Hunters Point development makes the class function explicit: Lennar extracte
 | Registration | LAPSED |
 | Last Updated | 2021-07-16T05:04:45Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### DOJ Press Releases
@@ -264,15 +264,15 @@ The Hunters Point development makes the class function explicit: Lennar extracte
 | Agencies | Environmental Protection Agency, Federal Trade Commission, Fish and Wildlife Service, Interior Department, Securities and Exchange Commission |
 
 **Recent regulatory activity:**
-- [Endangered and Threatened Species; Issuance of Enhancement of Survival and Incidental Take Permits for Safe Harbor Agreements, Candidate Conservation Agreements, and Habitat Conservation Plans, 2018; Issuance of Recovery Permits, July 1, 2017, Through December 31, 2018](https://www.federalregister.gov/documents/2019/06/06/2019-11806/endangered-and-threatened-species-issuance-of-enhancement-of-survival-and-incidental-take-permits) (2019-06-06) — Interior Department
-- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2019/04/18/2019-07735/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2019-04-18) — Federal Trade Commission
-- [Endangered and Threatened Wildlife and Plants; Availability of Proposed Low-Effect Habitat Conservation Plan for the Sand Skink, Orange County, FL](https://www.federalregister.gov/documents/2017/12/22/2017-27601/endangered-and-threatened-wildlife-and-plants-availability-of-proposed-low-effect-habitat) (2017-12-22) — Interior Department
-- [Self-Regulatory Organizations; International Securities Exchange, LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend the Schedule of Fees](https://www.federalregister.gov/documents/2013/01/17/2013-00873/self-regulatory-organizations-international-securities-exchange-llc-notice-of-filing-and-immediate) (2013-01-17) — Securities and Exchange Commission
-- [Final Modification of National Pollutant Discharge Elimination System (NPDES) General Permit for Storm Water Discharges From Construction Activities; Notice](https://www.federalregister.gov/documents/2004/12/22/04-27995/final-modification-of-national-pollutant-discharge-elimination-system-npdes-general-permit-for-storm) (2004-12-22) — Environmental Protection Agency
-- [Granting of Request for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2003/10/23/03-26751/granting-of-request-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2003-10-23) — Federal Trade Commission
+- ~~[Endangered and Threatened Species; Issuance of Enhancement of Survival and Incidental Take Permits for Safe Harbor Agreements, Candidate Conservation Agreements, and Habitat Conservation Plans, 2018; Issuance of Recovery Permits, July 1, 2017, Through December 31, 2018](https://www.federalregister.gov/documents/2019/06/06/2019-11806/endangered-and-threatened-species-issuance-of-enhancement-of-survival-and-incidental-take-permits)~~ (URL broken, archived by Ops) (2019-06-06) — Interior Department
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2019/04/18/2019-07735/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (VERIFIED) (2019-04-18) — Federal Trade Commission
+- [Endangered and Threatened Wildlife and Plants; Availability of Proposed Low-Effect Habitat Conservation Plan for the Sand Skink, Orange County, FL](https://www.federalregister.gov/documents/2017/12/22/2017-27601/endangered-and-threatened-wildlife-and-plants-availability-of-proposed-low-effect-habitat) (VERIFIED) (2017-12-22) — Interior Department
+- [Self-Regulatory Organizations; International Securities Exchange, LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend the Schedule of Fees](https://www.federalregister.gov/documents/2013/01/17/2013-00873/self-regulatory-organizations-international-securities-exchange-llc-notice-of-filing-and-immediate) (VERIFIED) (2013-01-17) — Securities and Exchange Commission
+- [Final Modification of National Pollutant Discharge Elimination System (NPDES) General Permit for Storm Water Discharges From Construction Activities; Notice](https://www.federalregister.gov/documents/2004/12/22/04-27995/final-modification-of-national-pollutant-discharge-elimination-system-npdes-general-permit-for-storm) (VERIFIED) (2004-12-22) — Environmental Protection Agency
+- [Granting of Request for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2003/10/23/03-26751/granting-of-request-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (VERIFIED) (2003-10-23) — Federal Trade Commission
 - ... and 1 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Lennar%20Corporation%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Lennar%20Corporation%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Lobbying Activity
@@ -287,7 +287,7 @@ The Hunters Point development makes the class function explicit: Lennar extracte
 
 **Lobbying firms:** THE FERGUSON GROUP
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Lennar%20Corporation) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Lennar%20Corporation) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### SEC Filing Activity
@@ -305,5 +305,5 @@ The Hunters Point development makes the class function explicit: Lennar extracte
 - 2004-10-28 — **EX-99.1**: CONSOLIDATED FINANCIAL STATEMENTS
 - 2016-10-27 — **EX-99.1**: EX-99.1
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Lennar%20Corporation%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Lennar%20Corporation%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->

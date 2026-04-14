@@ -56,6 +56,6 @@ Tom Wolf, Shapiro's Democratic predecessor, spent years negotiating Pennsylvania
 
 ### Sources
 
-- [StateImpact Pennsylvania: Shapiro fracking policy and CNX agreement](https://stateimpact.npr.org/pennsylvania/2023/11/02/josh-shapiro-announces-first-of-its-kind-agreement-with-cnx-on-fracking-health-measures-says-new-regulations-coming/) (Tier 2)
-- [OpenSecrets: Robindale Energy contributions](https://www.opensecrets.org/members-of-congress/summary?name=Fracking%20Alliance%20and%20the%20Energy%20Contradiction) (Tier 1)
-- [WHYY: Shapiro's fossil fuel alliances](https://whyy.org/articles/first-year-pennsylvania-governor-josh-shapiro-forged-alliances-with-natural-gas-industry/) (Tier 2)
+- [StateImpact Pennsylvania: Shapiro fracking policy and CNX agreement](https://stateimpact.npr.org/pennsylvania/2023/11/02/josh-shapiro-announces-first-of-its-kind-agreement-with-cnx-on-fracking-health-measures-says-new-regulations-coming/) (Tier 2) (VERIFIED)
+- ~~[OpenSecrets: Robindale Energy contributions](https://www.opensecrets.org/members-of-congress/summary?name=Fracking%20Alliance%20and%20the%20Energy%20Contradiction)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [WHYY: Shapiro's fossil fuel alliances](https://whyy.org/articles/first-year-pennsylvania-governor-josh-shapiro-forged-alliances-with-natural-gas-industry/) (Tier 2) (VERIFIED)

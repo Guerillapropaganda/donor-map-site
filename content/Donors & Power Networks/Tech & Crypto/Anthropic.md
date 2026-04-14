@@ -80,9 +80,9 @@ AI safety regulation that establishes testing and evaluation requirements for fr
 
 ### Sources
 
-- [Senate LDA Filings: Anthropic lobbying](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Anthropic: Responsible scaling policy](https://www.anthropic.com/research) (Tier 2)
-- [Ballotpedia: AI regulation](https://ballotpedia.org/Artificial_intelligence_policy) (Tier 3)
+- [Senate LDA Filings: Anthropic lobbying](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Anthropic: Responsible scaling policy](https://www.anthropic.com/research) (Tier 2) (VERIFIED)
+- [Ballotpedia: AI regulation](https://ballotpedia.org/Artificial_intelligence_policy) (Tier 3) (VERIFIED)
 
 ---
 
@@ -117,7 +117,7 @@ AI safety regulation that establishes testing and evaluation requirements for fr
 |--------|--------|-------------|
 | $797K | Department of Defense | ASSESSING JOINT TRAUMA SYSTEM CLINICAL PRACTICE GUIDELINES (CPG) FOR PARTNER NATIONS: UTILIZATION MA |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/5835c90c-1fd8-d04d-a4c0-2ee70d53ae63-C/latest) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/5835c90c-1fd8-d04d-a4c0-2ee70d53ae63-C/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Federal Court Records (CourtListener)
@@ -136,14 +136,14 @@ AI safety regulation that establishes testing and evaluation requirements for fr
 - Chicken Soup for the Soul, LLC v. Anthropic PBC (2026) — District Court, N.D. California
 - Bruff v. USAA Educational Assistance Plan (2026) — District Court, W.D. Texas
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Anthropic%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Anthropic%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [984500B6DEB8CEBC4Z70](https://search.gleif.org/#/record/984500B6DEB8CEBC4Z70) |
+| LEI | [984500B6DEB8CEBC4Z70](https://search.gleif.org/#/record/984500B6DEB8CEBC4Z70) (VERIFIED) |
 | Legal Name | ANTHROPIC, PBC |
 | Jurisdiction | US-DE |
 | Entity Status | ACTIVE |
@@ -151,7 +151,7 @@ AI safety regulation that establishes testing and evaluation requirements for fr
 | Registration | ISSUED |
 | Last Updated | 2026-01-28T08:07:08Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### SEC Filing Activity
@@ -169,7 +169,7 @@ AI safety regulation that establishes testing and evaluation requirements for fr
 - 2026-02-11 — **485APOS**: 485A
 - 2025-05-07 — **PX14A6G**: NATIONAL LEGAL AND POLICY CENTER - PX14A6G
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Anthropic%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Anthropic%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### DOJ Press Releases
@@ -185,7 +185,7 @@ AI safety regulation that establishes testing and evaluation requirements for fr
 | IRS Ruling Date | 2023-01-01 |
 | Filings on Record | 0 |
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/920526891) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/920526891) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -195,7 +195,7 @@ AI safety regulation that establishes testing and evaluation requirements for fr
 | Top Federal Agency | Department of State ($19K) |
 | Primary NAICS Sector | Software Publishers |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Federal Register Activity
@@ -208,8 +208,8 @@ AI safety regulation that establishes testing and evaluation requirements for fr
 | Agencies | Justice Department |
 
 **Recent regulatory activity:**
-- [Preventing Access to U.S. Sensitive Personal Data and Government-Related Data by Countries of Concern or Covered Persons](https://www.federalregister.gov/documents/2025/01/08/2024-31486/preventing-access-to-us-sensitive-personal-data-and-government-related-data-by-countries-of-concern) (2025-01-08) — Justice Department
-- [Provisions Pertaining to Preventing Access to U.S. Sensitive Personal Data and Government-Related Data by Countries of Concern or Covered Persons](https://www.federalregister.gov/documents/2024/10/29/2024-24582/provisions-pertaining-to-preventing-access-to-us-sensitive-personal-data-and-government-related-data) (2024-10-29) — Justice Department
+- [Preventing Access to U.S. Sensitive Personal Data and Government-Related Data by Countries of Concern or Covered Persons](https://www.federalregister.gov/documents/2025/01/08/2024-31486/preventing-access-to-us-sensitive-personal-data-and-government-related-data-by-countries-of-concern) (VERIFIED) (2025-01-08) — Justice Department
+- [Provisions Pertaining to Preventing Access to U.S. Sensitive Personal Data and Government-Related Data by Countries of Concern or Covered Persons](https://www.federalregister.gov/documents/2024/10/29/2024-24582/provisions-pertaining-to-preventing-access-to-us-sensitive-personal-data-and-government-related-data) (VERIFIED) (2024-10-29) — Justice Department
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Anthropic%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Anthropic%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->

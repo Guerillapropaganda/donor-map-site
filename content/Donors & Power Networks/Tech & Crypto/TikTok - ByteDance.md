@@ -53,10 +53,10 @@ The Supreme Court upheld the law in January 2025. The implementation has been co
 
 ### Sources
 
-- [OpenSecrets: TikTok/ByteDance lobbying](https://www.opensecrets.org/orgs/bytedance-inc/summary?id=D000073174) (Tier 1)
-- [Congress.gov: Protecting Americans from Foreign Adversary Controlled Applications Act](https://www.congress.gov/bill/118th-congress/house-bill/7521) (Tier 1)
-- [Supreme Court: TikTok v. Garland](https://www.supremecourt.gov/search.aspx?Search=TikTok%20-%20ByteDance) (Tier 1)
-- [Ballotpedia: TikTok ban](https://ballotpedia.org/TikTok_-_ByteDance) (Tier 3)
+- [OpenSecrets: TikTok/ByteDance lobbying](https://www.opensecrets.org/orgs/bytedance-inc/summary?id=D000073174) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: Protecting Americans from Foreign Adversary Controlled Applications Act](https://www.congress.gov/bill/118th-congress/house-bill/7521)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Supreme Court: TikTok v. Garland](https://www.supremecourt.gov/search.aspx?Search=TikTok%20-%20ByteDance) (Tier 1) (VERIFIED)
+- [Ballotpedia: TikTok ban](https://ballotpedia.org/TikTok_-_ByteDance) (Tier 3) (VERIFIED)
 
 ### Vehicle Safety (NHTSA)
 <!-- auto:nhtsa-recalls start -->
@@ -73,7 +73,7 @@ The Supreme Court upheld the law in January 2025. The implementation has been co
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=TikTok%20-%20ByteDance) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=TikTok%20-%20ByteDance) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### SEC Filing Activity
@@ -88,7 +88,7 @@ The Supreme Court upheld the law in January 2025. The implementation has been co
 - 2022-10-03 — **253G1**: 253G1
 - 2022-09-22 — **PART II AND III**: PART II AND III
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22TikTok%20-%20ByteDance%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22TikTok%20-%20ByteDance%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Lobbying Activity
@@ -107,5 +107,5 @@ The Supreme Court upheld the law in January 2025. The implementation has been co
 
 **Agencies contacted:** Federal Communications Commission (FCC), HOUSE OF REPRESENTATIVES, SENATE, Veterans Affairs, Dept of (VA), White House Office
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=TikTok%20-%20ByteDance) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=TikTok%20-%20ByteDance) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->

@@ -152,17 +152,17 @@ Stevens' political evolution from background institutional donor ($250K to Club 
 
 ### Sources
 
-- [FEC: Ross Stevens individual contributions, 2025-2026 cycle](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=ross+stevens&two_year_transaction_period=2026&min_amount=1000) (Tier 1)
-- [FEC: Ross Stevens individual contributions, 2023-2024 cycle](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=ross+stevens&two_year_transaction_period=2024&min_amount=1000) (Tier 1)
-- [FEC: Ross Stevens individual contributions, 2021-2022 cycle](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=ross+stevens&two_year_transaction_period=2022&min_amount=1000) (Tier 1)
-- [FEC: V-PAC Victors Not Victims committee overview](https://www.fec.gov/data/committee/C00892919/) (Tier 1)
-- [FEC: Bitcoin Freedom PAC committee overview](https://www.fec.gov/data/committee/C00822775/?tab=filings) (Tier 1)
-- [NBC News: Vivek Ramaswamy's allies tout Trump endorsement in $3 million Ohio ad blitz](https://www.nbcnews.com/politics/2026-election/vivek-ramaswamys-allies-tout-trump-endorsement-3-million-ohio-ad-blitz-rcna195681) (Tier 2)
-- [Signal Cleveland: Pro-Ramaswamy super PAC opens Ohio's 2026 political ad season](https://signalcleveland.org/pro-ramaswamy-super-pac-opens-ohios-2026-political-ad-season-with-early-statewide-tv-campaign/) (Tier 2)
-- [NBC Philadelphia: Wharton donor Ross Stevens threatens to withdraw $100M due to antisemitism controversy](https://www.nbcphiladelphia.com/news/local/wharton-donor-withdraws-100m-due-to-antisemitism-controversy-at-penn/3716232/) (Tier 2)
-- [Fortune: Ross Stevens pledges $100 million to U.S. Olympians, Paralympians](https://fortune.com/2025/03/05/ross-stevens-olympics-retirement/) (Tier 2)
-- [OpenSecrets: The crypto trio — how the cryptocurrency industry made its mark on 2024 elections](https://www.opensecrets.org/news/2024/11/the-crypto-trio-how-the-cryptocurrency-industry-has-made-its-mark-on-2024-elections/) (Tier 2)
-- [CoinLineup: U.S. Bank resumes cryptocurrency custody with NYDIG](https://coinlineup.com/us-bank-resumes-crypto-custody-with-nydig/) (Tier 3)
+- [FEC: Ross Stevens individual contributions, 2025-2026 cycle](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=ross+stevens&two_year_transaction_period=2026&min_amount=1000) (Tier 1) (VERIFIED)
+- [FEC: Ross Stevens individual contributions, 2023-2024 cycle](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=ross+stevens&two_year_transaction_period=2024&min_amount=1000) (Tier 1) (VERIFIED)
+- [FEC: Ross Stevens individual contributions, 2021-2022 cycle](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=ross+stevens&two_year_transaction_period=2022&min_amount=1000) (Tier 1) (VERIFIED)
+- [FEC: V-PAC Victors Not Victims committee overview](https://www.fec.gov/data/committee/C00892919/) (Tier 1) (VERIFIED)
+- [FEC: Bitcoin Freedom PAC committee overview](https://www.fec.gov/data/committee/C00822775/?tab=filings) (Tier 1) (VERIFIED)
+- [NBC News: Vivek Ramaswamy's allies tout Trump endorsement in $3 million Ohio ad blitz](https://www.nbcnews.com/politics/2026-election/vivek-ramaswamys-allies-tout-trump-endorsement-3-million-ohio-ad-blitz-rcna195681) (Tier 2) (VERIFIED)
+- [Signal Cleveland: Pro-Ramaswamy super PAC opens Ohio's 2026 political ad season](https://signalcleveland.org/pro-ramaswamy-super-pac-opens-ohios-2026-political-ad-season-with-early-statewide-tv-campaign/) (Tier 2) (VERIFIED)
+- [NBC Philadelphia: Wharton donor Ross Stevens threatens to withdraw $100M due to antisemitism controversy](https://www.nbcphiladelphia.com/news/local/wharton-donor-withdraws-100m-due-to-antisemitism-controversy-at-penn/3716232/) (Tier 2) (VERIFIED)
+- [Fortune: Ross Stevens pledges $100 million to U.S. Olympians, Paralympians](https://fortune.com/2025/03/05/ross-stevens-olympics-retirement/) (Tier 2) (VERIFIED)
+- [OpenSecrets: The crypto trio — how the cryptocurrency industry made its mark on 2024 elections](https://www.opensecrets.org/news/2024/11/the-crypto-trio-how-the-cryptocurrency-industry-has-made-its-mark-on-2024-elections/) (Tier 2) (VERIFIED)
+- [CoinLineup: U.S. Bank resumes cryptocurrency custody with NYDIG](https://coinlineup.com/us-bank-resumes-crypto-custody-with-nydig/) (Tier 3) (VERIFIED)
 
 ---
 
@@ -196,7 +196,7 @@ Stevens' political evolution from background institutional donor ($250K to Club 
 - Johnson v. L.B.O. Holding, Inc. (2017) — District Court, D. New Hampshire
 - Last Call Guarantor, LLC, for itself and on behalf of each of its series (2016) — United States Bankruptcy Court, D. Delaware
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Ross%20Stevens%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Ross%20Stevens%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -216,7 +216,7 @@ Stevens' political evolution from background institutional donor ($250K to Club 
 - 2022-01-13 — **SC 13G/A**: STONE RIDGE TRUST V
 - 2022-10-07 — **LETTER**: LETTER
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Ross%20Stevens%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Ross%20Stevens%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Lobbying Activity
@@ -235,14 +235,14 @@ Stevens' political evolution from background institutional donor ($250K to Club 
 
 **Agencies contacted:** Agriculture, Dept of (USDA), Energy, Dept of, HOUSE OF REPRESENTATIVES, Labor, Dept of (DOL), Office of the Vice President of the United States, SENATE, Small Business Administration (SBA)
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Ross%20Stevens) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Ross%20Stevens) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [549300Q6W4JNCJR4LU44](https://search.gleif.org/#/record/549300Q6W4JNCJR4LU44) |
+| LEI | [549300Q6W4JNCJR4LU44](https://search.gleif.org/#/record/549300Q6W4JNCJR4LU44) (VERIFIED) |
 | Legal Name | WINFIELD HOLDINGS, LLC |
 | Jurisdiction | US-WI |
 | Entity Status | ACTIVE |
@@ -250,7 +250,7 @@ Stevens' political evolution from background institutional donor ($250K to Club 
 | Registration | LAPSED |
 | Last Updated | 2023-08-04T17:07:01Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Influence Network (Cross-Reference)

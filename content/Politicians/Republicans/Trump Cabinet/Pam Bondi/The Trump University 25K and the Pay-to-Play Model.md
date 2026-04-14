@@ -64,7 +64,7 @@ In 2025, Bondi issued a DOJ memo prohibiting settlement funds from going to thir
 
 ### Sources
 
-- [CREW: The Trump Foundation-Pam Bondi scandal](https://www.citizensforethics.org/reports-investigations/crew-investigations/the-trump-foundation-pam-bondi-scandal/) (Tier 2)
-- [PolitiFact: Donald Trump, Pam Bondi and $25K — Was it pay to play?](https://www.politifact.com/article/2016/sep/21/donald-trump-pam-bondi-and-25k-was-it-pay-play/) (Tier 2)
-- [American Prospect: When Pam Bondi Protected Foreclosure Fraudsters](https://prospect.org/2024/11/22/2024-11-22-when-pam-bondi-protected-foreclosure-fraudsters/) (Tier 2)
-- [Orlando Weekly: Orlando businessman alleges Pam Bondi directed millions to unregistered charities](https://www.orlandoweekly.com/news/orlando-businessman-john-d-smith-alleges-pam-bondi-directed-businesses-to-pay-millions-of-dollars-to-unregistered-charities-is-his-suit-warr-4309064/) (Tier 2)
+- [CREW: The Trump Foundation-Pam Bondi scandal](https://www.citizensforethics.org/reports-investigations/crew-investigations/the-trump-foundation-pam-bondi-scandal/) (Tier 2) (VERIFIED)
+- [PolitiFact: Donald Trump, Pam Bondi and $25K — Was it pay to play?](https://www.politifact.com/article/2016/sep/21/donald-trump-pam-bondi-and-25k-was-it-pay-play/) (Tier 2) (VERIFIED)
+- [American Prospect: When Pam Bondi Protected Foreclosure Fraudsters](https://prospect.org/2024/11/22/2024-11-22-when-pam-bondi-protected-foreclosure-fraudsters/) (Tier 2) (VERIFIED)
+- [Orlando Weekly: Orlando businessman alleges Pam Bondi directed millions to unregistered charities](https://www.orlandoweekly.com/news/orlando-businessman-john-d-smith-alleges-pam-bondi-directed-businesses-to-pay-millions-of-dollars-to-unregistered-charities-is-his-suit-warr-4309064/) (Tier 2) (VERIFIED)

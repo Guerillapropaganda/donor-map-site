@@ -214,7 +214,7 @@ The Farm Bureau's most revealing feature is what it does not do. It does not adv
 **Recent regulatory activity:**
 - [Standards for the Growing, Harvesting, Packing, and Holding of Produce for Human Consumption Relating to Agricultural Water](https://www.federalregister.gov/documents/2021/12/06/2021-26127/standards-for-the-growing-harvesting-packing-and-holding-of-produce-for-human-consumption-relating) (VERIFIED) (2021-12-06) — Health and Human Services Department ★
 - [Endangered and Threatened Wildlife and Plants; Revised Designation of Critical Habitat for the Northern Spotted Owl](https://www.federalregister.gov/documents/2021/11/10/2021-24365/endangered-and-threatened-wildlife-and-plants-revised-designation-of-critical-habitat-for-the) (VERIFIED) (2021-11-10) — Interior Department ★
-- [Endangered and Threatened Wildlife and Plants; Revised Designation of Critical Habitat for the Northern Spotted Owl](https://www.federalregister.gov/documents/2021/01/15/2021-00484/endangered-and-threatened-wildlife-and-plants-revised-designation-of-critical-habitat-for-the) (VERIFIED) (2021-01-15) — Interior Department ★
+- ~~[Endangered and Threatened Wildlife and Plants; Revised Designation of Critical Habitat for the Northern Spotted Owl](https://www.federalregister.gov/documents/2021/01/15/2021-00484/endangered-and-threatened-wildlife-and-plants-revised-designation-of-critical-habitat-for-the)~~ (URL broken, archived by Ops) (VERIFIED) (2021-01-15) — Interior Department ★
 - [Hours of Service of Drivers](https://www.federalregister.gov/documents/2019/08/22/2019-17810/hours-of-service-of-drivers) (VERIFIED) (2019-08-22) — Transportation Department ★
 - [Amendments To Implement Certain Provisions of the Fixing America's Surface Transportation Act or “FAST Act”](https://www.federalregister.gov/documents/2016/07/22/2016-17114/amendments-to-implement-certain-provisions-of-the-fixing-americas-surface-transportation-act-or-fast) (VERIFIED) (2016-07-22) — Transportation Department
 - [Improve Tracking of Workplace Injuries and Illnesses](https://www.federalregister.gov/documents/2016/05/12/2016-10443/improve-tracking-of-workplace-injuries-and-illnesses) (VERIFIED) (2016-05-12) — Labor Department ★
@@ -264,7 +264,7 @@ The Farm Bureau's most revealing feature is what it does not do. It does not adv
 - San Luis Obispo Coastkeeper, et al. v. County of San Luis Obispo (2024) — Court of Appeals for the Ninth Circuit
 - Baker Ranches, Inc., et al. v. Haaland, et al. (2024) — Court of Appeals for the Ninth Circuit
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22California%20Farm%20Bureau%20Federation%22&type=r) (Tier 1) (VERIFIED)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22California%20Farm%20Bureau%20Federation%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1) (VERIFIED)
 <!-- auto:courtlistener-cases end -->
 
 <!-- auto:courtlistener-cases pending-merge 2026-04-11 -->
@@ -383,11 +383,11 @@ The Farm Bureau's most revealing feature is what it does not do. It does not adv
 <!-- auto:wikipedia start -->
 | Fact | Value |
 |------|-------|
-| Wikidata ID | [Q126731054](https://www.wikidata.org/wiki/Q126731054) |
+| Wikidata ID | [Q126731054](https://www.wikidata.org/wiki/Q126731054) (VERIFIED) |
 | Description | corporation with its principal place of business in Auburn, California |
-| Website | [https://www.cfbf.com/](https://www.cfbf.com/) |
+| Website | [https://www.cfbf.com/](https://www.cfbf.com/) (VERIFIED) |
 
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q126731054) (Tier 2)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q126731054) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
 ### Campaign Finance (FEC)
@@ -412,7 +412,7 @@ The Farm Bureau's most revealing feature is what it does not do. It does not adv
 | PETERSON FOR CONGRESS | $15,500 | DEM |
 | JIM COSTA FOR CONGRESS | $15,000 | DEM |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=California%20Farm%20Bureau%20Federation) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=California%20Farm%20Bureau%20Federation) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### Lobbying Activity
@@ -431,7 +431,7 @@ The Farm Bureau's most revealing feature is what it does not do. It does not adv
 
 **Agencies contacted:** AMTRAK - Natl Railroad Passenger Corporation, Administration for Children & Families (ACF), Agriculture, Dept of (USDA), Army, Dept of (Corps of Engineers), Bureau of Reclamation, Centers For Disease Control & Prevention (CDC), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Consumer Financial Protection Bureau (CFPB), Council on Environmental Quality (CEQ) +49 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=California%20Farm%20Bureau%20Federation) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=California%20Farm%20Bureau%20Federation) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

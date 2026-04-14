@@ -76,10 +76,10 @@ Pelosi was a key negotiator on the CHIPS and Science Act, $52 billion in semicon
 
 ### Sources
 
-- [GovTrack: H.R. 3590 House Vote #165, March 21, 2010](https://www.govtrack.us/congress/votes/111-2010/h165) (Tier 1)
-- [House Clerk: Roll Call 165, March 21, 2010](https://clerk.house.gov/evs/2010/roll165.xml) (Tier 1)
-- [Yahoo Finance: Paul Pelosi cut his losses on Nvidia in July amid intense scrutiny](https://finance.yahoo.com/news/paul-pelosi-cut-losses-nvidia-103000496.html) (Tier 2)
-- [NPR: What is in the Inflation Reduction Act?](https://www.npr.org/2022/08/07/1116190180/democrats-are-set-to-pass-a-major-climate-health-and-tax-bill-heres-whats-in-it) (Tier 2)
-- [TIME: How Nancy Pelosi Saved the Affordable Care Act](https://time.com/5832330/nancy-pelosi-obamacare/) (Tier 2)
-- [CNN: Child care provisions were cut from the Inflation Reduction Act](https://www.cnn.com/2022/08/12/politics/inflation-reduction-children-families/index.html) (Tier 2)
+- [GovTrack: H.R. 3590 House Vote #165, March 21, 2010](https://www.govtrack.us/congress/votes/111-2010/h165) (Tier 1) (VERIFIED)
+- [House Clerk: Roll Call 165, March 21, 2010](https://clerk.house.gov/evs/2010/roll165.xml) (Tier 1) (VERIFIED)
+- [Yahoo Finance: Paul Pelosi cut his losses on Nvidia in July amid intense scrutiny](https://finance.yahoo.com/news/paul-pelosi-cut-losses-nvidia-103000496.html) (Tier 2) (VERIFIED)
+- [NPR: What is in the Inflation Reduction Act?](https://www.npr.org/2022/08/07/1116190180/democrats-are-set-to-pass-a-major-climate-health-and-tax-bill-heres-whats-in-it) (Tier 2) (VERIFIED)
+- [TIME: How Nancy Pelosi Saved the Affordable Care Act](https://time.com/5832330/nancy-pelosi-obamacare/) (Tier 2) (VERIFIED)
+- [CNN: Child care provisions were cut from the Inflation Reduction Act](https://www.cnn.com/2022/08/12/politics/inflation-reduction-children-families/index.html) (Tier 2) (VERIFIED)
 

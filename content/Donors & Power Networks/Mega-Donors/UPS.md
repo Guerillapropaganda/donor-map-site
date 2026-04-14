@@ -85,8 +85,8 @@ UPS's structural position in American politics is unique: it is simultaneously o
 
 UPS also operates UPS Airlines, the world's ninth-largest airline by cargo volume, which gives the company a direct stake in aviation regulation, FAA policy, and air transport labor rules — adding another layer of regulatory exposure and lobbying need.
 
-- [OpenSecrets: UPS summary](https://www.opensecrets.org/orgs/united-parcel-service/summary?id=D000000081) (Tier 1)
-- [UPS Political Engagement Policy](https://investors.ups.com/corporategovernance/political-engagement-policy) (Tier 1)
+- [OpenSecrets: UPS summary](https://www.opensecrets.org/orgs/united-parcel-service/summary?id=D000000081) (Tier 1) (VERIFIED)
+- [UPS Political Engagement Policy](https://investors.ups.com/corporategovernance/political-engagement-policy) (Tier 1) (VERIFIED)
 
 ---
 
@@ -104,7 +104,7 @@ UPS's lobbying agenda is driven by five core priorities, each directly tied to r
 
 **5. Labor and Workplace Policy.** Despite (or because of) its unionized workforce, UPS lobbies on independent contractor classification, overtime rules, and workplace safety regulations. The company's interest in gig economy labor classification rules is defensive — preventing reclassification that could increase costs for competitors like Amazon who rely on independent contractor delivery drivers.
 
-- [Senate LDA Filings: UPS lobbying issues 2024](https://lda.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: UPS lobbying issues 2024](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
 
 ---
 
@@ -153,9 +153,9 @@ UPS's political spending operates through three channels: the UPSPAC (direct can
 > [!money]
 > Over 60% of UPS lobbyists previously held government jobs — former congressional staffers, DOT officials, FAA regulators, and trade negotiators who now sell their institutional knowledge back to UPS. The revolving door is particularly active on transportation and aviation committees, where former staff who wrote the regulations now lobby to reshape them. UPS ranked 85th among all lobbying clients in 2024 — putting it in the top 1% of all organizations that lobby the federal government.
 
-- [OpenSecrets: UPS PAC candidate recipients 2024](https://www.opensecrets.org/political-action-committees-pacs/united-parcel-service/C00064766/candidate-recipients/2024) (Tier 1)
-- [Senate LDA Filings: UPS lobbying profile 2024](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA Filings: UPS lobbyists — revolving door data](https://lda.gov/filings/public/filing/search/) (Tier 1)
+- [OpenSecrets: UPS PAC candidate recipients 2024](https://www.opensecrets.org/political-action-committees-pacs/united-parcel-service/C00064766/candidate-recipients/2024) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: UPS lobbying profile 2024](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: UPS lobbyists — revolving door data](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
 
 ---
 
@@ -179,7 +179,7 @@ UPS's political spending operates through three channels: the UPSPAC (direct can
 > [!contradiction]
 > The 2023 Teamsters contract reveals UPS's core contradiction: the company spent $14.7M lobbying Congress in 2023-2024 to reduce taxes and regulatory costs, while simultaneously absorbing $30 billion in labor cost increases because its unionized workforce had the leverage to demand it. UPS lobbies for a business-friendly regulatory environment while operating within the most labor-friendly private-sector contract in America. The company's political operation works to reduce costs everywhere except where organized labor has structural power — demonstrating that corporate political spending is effective against diffuse public interests (tax policy, regulation) but cannot overcome concentrated labor power when workers are organized and essential.
 
-- [Teamsters: Ratify Historic UPS Contract](https://teamster.org/2023/08/teamsters-ratify-historic-ups-contract/) (Tier 2)
+- [Teamsters: Ratify Historic UPS Contract](https://teamster.org/2023/08/teamsters-ratify-historic-ups-contract/) (Tier 2) (VERIFIED)
 - ~~[FollowTheMoney: UPS state-level political spending](https://www.followthemoney.org/tools/election-overview?eid=2710)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
 
 ---
@@ -210,7 +210,7 @@ The class analysis conclusion: corporate political spending is effective against
 - [UPS Political Engagement Policy](https://investors.ups.com/corporategovernance/political-engagement-policy) (Tier 1)
 - ~~[FollowTheMoney: UPS state-level political spending](https://www.followthemoney.org/tools/election-overview?eid=2710)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
 - [Teamsters: Ratify Historic UPS Contract](https://teamster.org/2023/08/teamsters-ratify-historic-ups-contract/) (Tier 2)
-- [Ballotpedia: UPS](https://ballotpedia.org/UPS) (Tier 3)
+- [Ballotpedia: UPS](https://ballotpedia.org/UPS) (Tier 3) (VERIFIED)
 
 ---
 
@@ -259,7 +259,7 @@ The class analysis conclusion: corporate political spending is effective against
 | $4.4M | Department of Health and Human Services | HEALTH CENTER PROGRAM |
 | $4.2M | Department of Health and Human Services | HEAD START |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/749cdca8-91d6-4d0a-1338-9af84563fbb1-C/latest) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/749cdca8-91d6-4d0a-1338-9af84563fbb1-C/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Product Recalls (CPSC)
@@ -273,15 +273,15 @@ The class analysis conclusion: corporate political spending is effective against
 
 **Recent recalls:**
 
-- [Window Roll Up Shades Recalled Due to Strangulation and Entanglement Hazards and Risk of Serious Injury or Death; Violation of Federal Regulations for Window Coverings; Sold Exclusively on SHEIN.co...](https://www.cpsc.gov/Recalls/25233) (2025-04-24) — The recalled window shades have long operating cords that can cause death or serious injury to children, due to strangulation and entanglement hazards. The window shades are in violation of the federal regulations for window coverings and present a substantial product hazard. The window shades also violate federal regulations for labeling of window coverings.
-- [Nazzaro Recalls Children Bowling Pin Sipper Cups Due to Risk of Lead Poisoning; Violation of Federal Lead Content Ban](https://www.cpsc.gov/Recalls/25139) (2025-02-20) — The red tape on the bowling pin sipper cups contains levels of lead that exceed the federal lead content ban. Lead is toxic if ingested by young children and can cause adverse health issues.
-- [Tiblue Stainless Steel Children's Cups Recalled Due to Violation of Federal Lead Content Ban; Sold Exclusively on Amazon.com by FENGM (Recall Alert)](https://www.cpsc.gov/Recalls/24724) (2023-11-30) — The bottom exterior of the stainless-steel cups contains an accessible solder bead with levels of lead that exceed the federal lead content ban. Lead is toxic if ingested by young children and can cause adverse health effects. In addition, the lid can crack and break during use producing sharp edges and small parts, posing laceration and choking hazards to children.
-- [PandaEar Recalls Stainless Steel Children's Cups Due to Violation of Federal Lead Content Ban; Sold Exclusively on Amazon.com (Recall Alert)](https://www.cpsc.gov/Recalls/24716) (2023-11-22) — The bottom exterior of the recalled stainless-steel cups contains an accessible solder bead with levels of lead that exceed the federal lead content ban. Lead is toxic if ingested by young children and can cause adverse health effects. In addition, the lid can crack and break during use producing sharp edges and small parts, posing choking and laceration hazards to children.
-- [Stainless Steel Children's Cups Recalled Due to Violation of Federal Lead Content Ban; Sold Exclusively at Amazon.com by LAOION (Recall Alert)](https://www.cpsc.gov/Recalls/24714) (2023-11-16) — The bottom exterior of the stainless-steel cups contains an accessible solder bead with levels of lead that exceed the federal lead content ban. Lead is toxic if ingested by young children and can cause adverse health effects. In addition, the lid can crack and break during use producing sharp edges and small parts, posing choking and laceration hazards to children.
-- [Soojimus Recalls CUPKIN Stainless Steel Children's Cups Due to Violation of Federal Lead Content Ban (Recall Alert)](https://www.cpsc.gov/Recalls/23774) (2023-07-20) — The stainless-steel cups contain levels of lead that exceed the federal lead content ban. Lead is toxic if ingested by young children and can cause adverse health effects.
+- ~~[Window Roll Up Shades Recalled Due to Strangulation and Entanglement Hazards and Risk of Serious Injury or Death; Violation of Federal Regulations for Window Coverings; Sold Exclusively on SHEIN.co...](https://www.cpsc.gov/Recalls/25233)~~ (URL broken, archived by Ops) (2025-04-24) — The recalled window shades have long operating cords that can cause death or serious injury to children, due to strangulation and entanglement hazards. The window shades are in violation of the federal regulations for window coverings and present a substantial product hazard. The window shades also violate federal regulations for labeling of window coverings.
+- ~~[Nazzaro Recalls Children Bowling Pin Sipper Cups Due to Risk of Lead Poisoning; Violation of Federal Lead Content Ban](https://www.cpsc.gov/Recalls/25139)~~ (URL broken, archived by Ops) (2025-02-20) — The red tape on the bowling pin sipper cups contains levels of lead that exceed the federal lead content ban. Lead is toxic if ingested by young children and can cause adverse health issues.
+- ~~[Tiblue Stainless Steel Children's Cups Recalled Due to Violation of Federal Lead Content Ban; Sold Exclusively on Amazon.com by FENGM (Recall Alert)](https://www.cpsc.gov/Recalls/24724)~~ (URL broken, archived by Ops) (2023-11-30) — The bottom exterior of the stainless-steel cups contains an accessible solder bead with levels of lead that exceed the federal lead content ban. Lead is toxic if ingested by young children and can cause adverse health effects. In addition, the lid can crack and break during use producing sharp edges and small parts, posing laceration and choking hazards to children.
+- ~~[PandaEar Recalls Stainless Steel Children's Cups Due to Violation of Federal Lead Content Ban; Sold Exclusively on Amazon.com (Recall Alert)](https://www.cpsc.gov/Recalls/24716)~~ (URL broken, archived by Ops) (2023-11-22) — The bottom exterior of the recalled stainless-steel cups contains an accessible solder bead with levels of lead that exceed the federal lead content ban. Lead is toxic if ingested by young children and can cause adverse health effects. In addition, the lid can crack and break during use producing sharp edges and small parts, posing choking and laceration hazards to children.
+- ~~[Stainless Steel Children's Cups Recalled Due to Violation of Federal Lead Content Ban; Sold Exclusively at Amazon.com by LAOION (Recall Alert)](https://www.cpsc.gov/Recalls/24714)~~ (URL broken, archived by Ops) (2023-11-16) — The bottom exterior of the stainless-steel cups contains an accessible solder bead with levels of lead that exceed the federal lead content ban. Lead is toxic if ingested by young children and can cause adverse health effects. In addition, the lid can crack and break during use producing sharp edges and small parts, posing choking and laceration hazards to children.
+- ~~[Soojimus Recalls CUPKIN Stainless Steel Children's Cups Due to Violation of Federal Lead Content Ban (Recall Alert)](https://www.cpsc.gov/Recalls/23774)~~ (URL broken, archived by Ops) (2023-07-20) — The stainless-steel cups contain levels of lead that exceed the federal lead content ban. Lead is toxic if ingested by young children and can cause adverse health effects.
 - ... and 25 more
 
-- [Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=UPS) (Tier 1)
+- ~~[Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=UPS)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:cpsc-recalls end -->
 
 ### Vehicle Safety (NHTSA)
@@ -299,7 +299,7 @@ The class analysis conclusion: corporate political spending is effective against
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=UPS) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=UPS) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### SEC Filing Activity
@@ -313,13 +313,13 @@ The class analysis conclusion: corporate political spending is effective against
 
 **Notable filings:**
 
-- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1647639/000212446426000003/0002124464-26-000003-index.htm)
-- 2026-03-27 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/1647639/000010290926002581/0000102909-26-002581-index.htm)
-- 2026-03-26 — **3**: [3](https://www.sec.gov/Archives/edgar/data/1647639/000212446426000001/0002124464-26-000001-index.htm)
-- 2026-03-10 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/1647639/000164763926000036/0001647639-26-000036-index.htm)
-- 2026-03-03 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1647639/000183281226000002/0001832812-26-000002-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1647639/000212446426000003/0002124464-26-000003-index.htm) (VERIFIED)
+- 2026-03-27 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/1647639/000010290926002581/0000102909-26-002581-index.htm) (VERIFIED)
+- 2026-03-26 — **3**: [3](https://www.sec.gov/Archives/edgar/data/1647639/000212446426000001/0002124464-26-000001-index.htm) (VERIFIED)
+- 2026-03-10 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/1647639/000164763926000036/0001647639-26-000036-index.htm) (VERIFIED)
+- 2026-03-03 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1647639/000183281226000002/0001832812-26-000002-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22UPS%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22UPS%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### DOJ Press Releases

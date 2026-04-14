@@ -210,21 +210,21 @@ Harold Ickes' presence in the consortium adds a historical layer. Ickes was Bill
 
 ### Sources
 
-- [Senate LDA Filings: Tiber Creek Group Lobbying Firm Profile — Summary](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA Filings: Tiber Creek Group Lobbyists — Revolving Door Data](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA Filings: Tiber Creek Group Issues Lobbied](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA Filings: Peck Madigan Jones Lobbying Firm Profile (legacy)](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Wikipedia: Tiber Creek Group](http://web.archive.org/web/20250825193021/https:/en.wikipedia.org/wiki/Tiber_Creek_Group) (Tier 3)
-- [Tiber Creek Group: Official Website — About](https://www.tibercreekgroup.com/about) (Tier 4)
-- [Tiber Creek Group: Official Website — Team](https://www.tibercreekgroup.com/team) (Tier 4)
-- [The Hill: Peck Madigan Jones hires Obama, Clinton White House alum](https://thehill.com/business-a-lobbying/business-a-lobbying/301420-peck-madigan-jones-hires-obama-clinton-white-house/) (Tier 2)
-- [Roll Call: Jones-ing for Partner](https://rollcall.com/2009/03/27/jones-ing-for-partner/) (Tier 2)
-- [Fox News: Biden-linked lobbyists see sharp increase in cash streams](https://www.foxnews.com/politics/joe-biden-linked-lobbyists-increase-cash) (Tier 4)
-- [PR Newswire / Bloomberg Government: 10th Annual Top-Performing Lobbying Firms Report — Federal Lobbying Reached $4.5B High in 2024](https://www.prnewswire.com/news-releases/federal-lobbying-spending-reached-new-high-in-2024-bloomberg-governments-10th-annual-top-performing-lobbying-firms-report-finds-302429060.html) (Tier 2)
-- [O'Dwyer's PR: World Bank's Heimbach to PMJ in DC](https://www.odwyerpr.com/story/public/7734/2016-10-18/world-banks-heimbach-pmj-dc.html) (Tier 3)
-- [Tiber Creek Group: Welcomes Senior Administration Official Nikole Burroughs (2023–2025)](https://www.tibercreekgroup.com/archives/insights/tiber-creek-group-welcomes-senior-administration-official-nikole-burroughs-to-bolster-bipartisan-appropriations-practice) (Tier 3)
-- [Tiber Creek Group: Jan Beukelman — Partner Biography (January 2024)](https://www.tibercreekgroup.com/archives/team/jan-beukelman) (Tier 3)
-- [Senate LDA Filings: Tiber Creek Group Lobbying Profile — 2025](https://lda.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: Tiber Creek Group Lobbying Firm Profile — Summary](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: Tiber Creek Group Lobbyists — Revolving Door Data](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: Tiber Creek Group Issues Lobbied](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: Peck Madigan Jones Lobbying Firm Profile (legacy)](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Wikipedia: Tiber Creek Group](http://web.archive.org/web/20250825193021/https:/en.wikipedia.org/wiki/Tiber_Creek_Group) (Tier 3) (VERIFIED)
+- [Tiber Creek Group: Official Website — About](https://www.tibercreekgroup.com/about) (Tier 4) (VERIFIED)
+- [Tiber Creek Group: Official Website — Team](https://www.tibercreekgroup.com/team) (Tier 4) (VERIFIED)
+- ~~[The Hill: Peck Madigan Jones hires Obama, Clinton White House alum](https://thehill.com/business-a-lobbying/business-a-lobbying/301420-peck-madigan-jones-hires-obama-clinton-white-house/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Roll Call: Jones-ing for Partner](https://rollcall.com/2009/03/27/jones-ing-for-partner/) (Tier 2) (VERIFIED)
+- [Fox News: Biden-linked lobbyists see sharp increase in cash streams](https://www.foxnews.com/politics/joe-biden-linked-lobbyists-increase-cash) (Tier 4) (VERIFIED)
+- [PR Newswire / Bloomberg Government: 10th Annual Top-Performing Lobbying Firms Report — Federal Lobbying Reached $4.5B High in 2024](https://www.prnewswire.com/news-releases/federal-lobbying-spending-reached-new-high-in-2024-bloomberg-governments-10th-annual-top-performing-lobbying-firms-report-finds-302429060.html) (Tier 2) (VERIFIED)
+- [O'Dwyer's PR: World Bank's Heimbach to PMJ in DC](https://www.odwyerpr.com/story/public/7734/2016-10-18/world-banks-heimbach-pmj-dc.html) (Tier 3) (VERIFIED)
+- [Tiber Creek Group: Welcomes Senior Administration Official Nikole Burroughs (2023–2025)](https://www.tibercreekgroup.com/archives/insights/tiber-creek-group-welcomes-senior-administration-official-nikole-burroughs-to-bolster-bipartisan-appropriations-practice) (Tier 3) (VERIFIED)
+- [Tiber Creek Group: Jan Beukelman — Partner Biography (January 2024)](https://www.tibercreekgroup.com/archives/team/jan-beukelman) (Tier 3) (VERIFIED)
+- [Senate LDA Filings: Tiber Creek Group Lobbying Profile — 2025](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
 
 
 ### Foreign Agent Activity (FARA)
@@ -240,5 +240,5 @@ Harold Ickes' presence in the consortium adds a historical layer. Ickes was Bill
 **Foreign principals:**
 - Embassy of Japan (JAPAN)
 
-- [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Peck%20Madigan%20Jones%20(now%20Tiber%20Creek%20Group)) (Tier 1)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Peck%20Madigan%20Jones%20(now%20Tiber%20Creek%20Group)~~ (URL broken, archived by Ops)) (Tier 1)
 <!-- auto:fara-foreign-agents end -->

@@ -130,19 +130,19 @@ The Both-Sides Illusion pattern is central to Boeing's operation: the company fu
 
 ### Sources
 
-- [OpenSecrets: Boeing summary — contributions and lobbying overview](https://www.opensecrets.org/orgs/boeing-co/summary?id=D000000100) (Tier 1)
-- [OpenSecrets: Boeing lobbying profile — annual totals and bills lobbied](https://www.opensecrets.org/orgs/boeing-co/lobbying?id=D000000100) (Tier 1)
-- [OpenSecrets: Boeing PAC contributions to federal candidates 2024](https://www.opensecrets.org/political-action-committees-pacs/boeing-co/C00142711/candidate-recipients/2024) (Tier 1)
-- [FEC: The Boeing Company PAC — committee overview and filings](https://www.fec.gov/data/committee/C00142711/) (Tier 1)
-- [DOD: Contract announcements](https://www.defense.gov/News/Contracts/) (Tier 1)
-- [Defense News: How Boeing won a US Air Force program and lost $7B — KC-46 cost overruns](https://www.defensenews.com/industry/2024/01/09/cautionary-tale-how-boeing-won-a-us-air-force-program-and-lost-7b/) (Tier 2)
-- [Defense News: Boeing wins contract for NGAD fighter jet, dubbed F-47](https://www.defensenews.com/air/2025/03/21/boeing-wins-contract-for-ngad-fighter-jet-dubbed-f-47/) (Tier 2)
-- [NPR: Justice Department may prosecute Boeing for 737 Max crashes](https://www.npr.org/2024/05/14/1251477809/boeing-justice-department-charges) (Tier 2)
-- [CNBC: Judge dismisses Boeing case for 737 Max crashes at DOJ request](https://www.cnbc.com/2025/11/06/boeing-criminal-case-737-max-crashes-doj.html) (Tier 2)
-- [POGO: Corrupted Oversight — The FAA, Boeing, and the 737 Max](https://www.pogo.org/analyses/corrupted-oversight-the-faa-boeing-and-the-737-max) (Tier 2)
-- [POGO: Brass Parachutes — The Problem of the Pentagon Revolving Door](https://www.pogo.org/reports/brass-parachutes) (Tier 2)
-- [Seattle Times: Congress protests revolving door to Boeing while rushing through it](https://www.seattletimes.com/business/boeing-aerospace/congress-protests-revolving-door-to-boeing-while-rushing-through-it/) (Tier 2)
-- [Ballotpedia: Boeing Defense](https://ballotpedia.org/Boeing_Defense) (Tier 3)
+- [OpenSecrets: Boeing summary — contributions and lobbying overview](https://www.opensecrets.org/orgs/boeing-co/summary?id=D000000100) (Tier 1) (VERIFIED)
+- [OpenSecrets: Boeing lobbying profile — annual totals and bills lobbied](https://www.opensecrets.org/orgs/boeing-co/lobbying?id=D000000100) (Tier 1) (VERIFIED)
+- [OpenSecrets: Boeing PAC contributions to federal candidates 2024](https://www.opensecrets.org/political-action-committees-pacs/boeing-co/C00142711/candidate-recipients/2024) (Tier 1) (VERIFIED)
+- [FEC: The Boeing Company PAC — committee overview and filings](https://www.fec.gov/data/committee/C00142711/) (Tier 1) (VERIFIED)
+- [DOD: Contract announcements](https://www.defense.gov/News/Contracts/) (Tier 1) (NEEDS REVIEW)
+- [Defense News: How Boeing won a US Air Force program and lost $7B — KC-46 cost overruns](https://www.defensenews.com/industry/2024/01/09/cautionary-tale-how-boeing-won-a-us-air-force-program-and-lost-7b/) (Tier 2) (VERIFIED)
+- [Defense News: Boeing wins contract for NGAD fighter jet, dubbed F-47](https://www.defensenews.com/air/2025/03/21/boeing-wins-contract-for-ngad-fighter-jet-dubbed-f-47/) (Tier 2) (VERIFIED)
+- [NPR: Justice Department may prosecute Boeing for 737 Max crashes](https://www.npr.org/2024/05/14/1251477809/boeing-justice-department-charges) (Tier 2) (VERIFIED)
+- [CNBC: Judge dismisses Boeing case for 737 Max crashes at DOJ request](https://www.cnbc.com/2025/11/06/boeing-criminal-case-737-max-crashes-doj.html) (Tier 2) (VERIFIED)
+- ~~[POGO: Corrupted Oversight — The FAA, Boeing, and the 737 Max](https://www.pogo.org/analyses/corrupted-oversight-the-faa-boeing-and-the-737-max)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[POGO: Brass Parachutes — The Problem of the Pentagon Revolving Door](https://www.pogo.org/reports/brass-parachutes)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Seattle Times: Congress protests revolving door to Boeing while rushing through it](https://www.seattletimes.com/business/boeing-aerospace/congress-protests-revolving-door-to-boeing-while-rushing-through-it/) (Tier 2) (VERIFIED)
+- [Ballotpedia: Boeing Defense](https://ballotpedia.org/Boeing_Defense) (Tier 3) (VERIFIED)
 
 ### Vehicle Safety (NHTSA)
 <!-- auto:nhtsa-recalls start -->
@@ -159,7 +159,7 @@ The Both-Sides Illusion pattern is central to Boeing's operation: the company fu
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Boeing%20Defense) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Boeing%20Defense) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Federal Court Records (CourtListener)
@@ -178,5 +178,5 @@ The Both-Sides Illusion pattern is central to Boeing's operation: the company fu
 - Oklahoma Firefighters Pension and Retirement System v. Calhoun (2024) — District Court, E.D. Virginia
 - Craig M Garriott v. The Boeing Company (2024) — District Court, C.D. California
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Boeing%20Defense%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Boeing%20Defense%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->

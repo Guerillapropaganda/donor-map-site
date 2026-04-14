@@ -163,10 +163,10 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: UFC
 
 ### Sources
 
-- [OpenSecrets: United Food & Commercial Workers Union 2024 cycle](https://www.opensecrets.org/orgs/united-food-commercial-workers-union/summary?id=D000000072) (Tier 1)
-- [UC Berkeley Labor Center: California grocery worker wages and conditions](https://laborcenter.berkeley.edu/shelved-how-wages-and-working-conditions-for-californias-food-retail-workers-have-declined-as-the-industry-has-thrived/) (Tier 1)
-- [Bureau of Labor Statistics: Union membership data California](https://www.bls.gov/regions/west/news-release/unionmembership_california.htm) (Tier 1)
-- [Ballotpedia: Proposition 22 spending and outcome](https://ballotpedia.org/California_Proposition_22,_App-Based_Drivers_as_Contractors_and_Labor_Policies_Initiative_%282020%29) (Tier 1)
+- [OpenSecrets: United Food & Commercial Workers Union 2024 cycle](https://www.opensecrets.org/orgs/united-food-commercial-workers-union/summary?id=D000000072) (Tier 1) (VERIFIED)
+- [UC Berkeley Labor Center: California grocery worker wages and conditions](https://laborcenter.berkeley.edu/shelved-how-wages-and-working-conditions-for-californias-food-retail-workers-have-declined-as-the-industry-has-thrived/) (Tier 1) (VERIFIED)
+- [Bureau of Labor Statistics: Union membership data California](https://www.bls.gov/regions/west/news-release/unionmembership_california.htm) (Tier 1) (VERIFIED)
+- [Ballotpedia: Proposition 22 spending and outcome](https://ballotpedia.org/California_Proposition_22,_App-Based_Drivers_as_Contractors_and_Labor_Policies_Initiative_%282020%29) (Tier 1) (VERIFIED)
 
 ---
 
@@ -196,7 +196,7 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: UFC
 - JOINT STOCK INVESTMENT COMMERCIAL BANK ENISEISK UNITED BANK (-0-) [RUSSIA-EO14024]
   - Remarks: SWIFT/BIC EUJKRU55; Website www.united.ru; Secondary sanctions risk: See Section 11 of Executive Order 14024.; Target Type Financial Institution; Tax ID No. 2447002227 (Russia); Legal Entity Number 25...
 
-- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
 ### Financial Overview (990 Filing — 2022)
@@ -211,8 +211,8 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: UFC
 | Net Assets | $531.3M |
 | Officer Compensation | $5.8M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 530220586](https://projects.propublica.org/nonprofits/organizations/530220586) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_12_2023_prefixes_52-56%2F530220586_202212_990O_2023121222090545.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 530220586](https://projects.propublica.org/nonprofits/organizations/530220586) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_12_2023_prefixes_52-56%2F530220586_202212_990O_2023121222090545.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Tax Filings (IRS 990)
@@ -223,7 +223,7 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: UFC
 | Tax-Exempt Status | 501(c)(5) |
 | Filings on Record | 0 |
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/201130122) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/201130122) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### SEC Filing Activity
@@ -241,5 +241,5 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: UFC
 - 2002-11-27 — **10-K**: TYSON FOODS, INC. FORM 10K 9/28/02
 - 2004-01-08 — **10-K/A**: TYSON FOODS, INC. 2002 FORM 10-K/A
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22UFCW%20-%20United%20Food%20and%20Commercial%20Workers%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22UFCW%20-%20United%20Food%20and%20Commercial%20Workers%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->

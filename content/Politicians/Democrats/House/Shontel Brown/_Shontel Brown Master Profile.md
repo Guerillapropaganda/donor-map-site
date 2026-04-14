@@ -103,5 +103,5 @@ Source: [[DMFI - Democratic Majority for Israel]] vault entry.
 | UNITED DEMOCRACY PROJECT (UDP) | $223,200 | $0 |
 | PROTECTING OUR VOTE PAC | $145,280 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2OH11169/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2OH11169/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->

@@ -104,9 +104,9 @@ The judicial transformation has no counter donor. There is no liberal equivalent
 
 ### Sources
 
-- [ProPublica: Dark money. Barre Seid donated $1.6 billion to Leonard Leo's Marble Freedom Trust](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (Tier 2)
-- [Washington Post: Leonard Leo and the Federalist Society. Making courts more conservative](https://www.washingtonpost.com/graphics/2019/investigations/leonard-leo-federalists-society-courts/) (Tier 2)
-- [CREW: Leonard Leo-tied nonprofits have paid his businesses $90 million in six years](https://www.citizensforethics.org/reports-investigations/crew-investigations/leonard-leo-tied-nonprofits-businesses-88-million/) (Tier 2)
-- [Senator Whitehouse: Scheme 18. Leonard Leo's $1.6 billion payday](https://www.whitehouse.senate.gov/news/speeches/scheme-18_leonard-leos-16-billion-payday/) (Tier 1)
-- [ProPublica: We Don't Talk About Leonard. The man behind the right's Supreme Court supermajority](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2)
+- [ProPublica: Dark money. Barre Seid donated $1.6 billion to Leonard Leo's Marble Freedom Trust](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (Tier 2) (VERIFIED)
+- [Washington Post: Leonard Leo and the Federalist Society. Making courts more conservative](https://www.washingtonpost.com/graphics/2019/investigations/leonard-leo-federalists-society-courts/) (Tier 2) (VERIFIED)
+- [CREW: Leonard Leo-tied nonprofits have paid his businesses $90 million in six years](https://www.citizensforethics.org/reports-investigations/crew-investigations/leonard-leo-tied-nonprofits-businesses-88-million/) (Tier 2) (VERIFIED)
+- [Senator Whitehouse: Scheme 18. Leonard Leo's $1.6 billion payday](https://www.whitehouse.senate.gov/news/speeches/scheme-18_leonard-leos-16-billion-payday/) (Tier 1) (VERIFIED)
+- [ProPublica: We Don't Talk About Leonard. The man behind the right's Supreme Court supermajority](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2) (VERIFIED)
 

@@ -370,46 +370,46 @@ RTX represents the defense sector's structural capture of the American state. Th
 
 #### Tier 1. Government Data and Records
 
-- [FEC Committee C00097568. RTX PAC](https://www.fec.gov/data/committee/C00097568/)
-- [USAspending.gov: RTX Federal Award Recipient Profile](https://www.usaspending.gov/recipient/bb947c1e-56f7-2f71-34d9-b0240c8b117c-P/latest)
-- [DOJ Press Release: $950M Raytheon Settlement](https://www.justice.gov/archives/opa/pr/raytheon-company-pay-over-950m-connection-defective-pricing-foreign-bribery-and-export)
-- [OpenSecrets: RTX Corp Profile](https://www.opensecrets.org/orgs/rtx-corp/summary?id=D000072615) (Tier 1)
-- [OpenSecrets: RTX PAC Candidate Recipients 2024](https://www.opensecrets.org/political-action-committees-pacs/rtx-corp/C00097568/candidate-recipients/2024) (Tier 1)
-- [Senate LDA Filings: RTX Lobbying Profile](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [OpenSecrets: Mark Esper Revolving Door Profile](https://www.opensecrets.org/revolving-door/esper-mark/summary?id=70733) (Tier 1)
-- [OpenSecrets: Lloyd Austin Revolving Door Profile](https://www.opensecrets.org/revolving-door/lloyd-austin/summary?id=82688) (Tier 1)
-- [RTX 2025 Annual Results](https://www.rtx.com/news/news-center/2026/01/27/rtx-reports-2025-results-and-announces-2026-outlook/)
-- [RTX 2024 Annual Results](https://raytheon.mediaroom.com/2025-01-28-RTX-Reports-2024-Results-and-Announces-2025-Outlook)
-- [House Foreign Affairs Committee: Faulkner deposition excerpts](https://democrats-foreignaffairs.house.gov/_cache/files/9/7/974fcf1a-f596-4775-b15d-c543996d12fe/E1BDC43C68CEB64B31CF8C5ADB217899.faulkner-excerpts.pdf)
+- [FEC Committee C00097568. RTX PAC](https://www.fec.gov/data/committee/C00097568/) (VERIFIED)
+- [USAspending.gov: RTX Federal Award Recipient Profile](https://www.usaspending.gov/recipient/bb947c1e-56f7-2f71-34d9-b0240c8b117c-P/latest) (VERIFIED)
+- [DOJ Press Release: $950M Raytheon Settlement](https://www.justice.gov/archives/opa/pr/raytheon-company-pay-over-950m-connection-defective-pricing-foreign-bribery-and-export) (VERIFIED)
+- [OpenSecrets: RTX Corp Profile](https://www.opensecrets.org/orgs/rtx-corp/summary?id=D000072615) (Tier 1) (VERIFIED)
+- [OpenSecrets: RTX PAC Candidate Recipients 2024](https://www.opensecrets.org/political-action-committees-pacs/rtx-corp/C00097568/candidate-recipients/2024) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: RTX Lobbying Profile](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- ~~[OpenSecrets: Mark Esper Revolving Door Profile](https://www.opensecrets.org/revolving-door/esper-mark/summary?id=70733)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Lloyd Austin Revolving Door Profile](https://www.opensecrets.org/revolving-door/lloyd-austin/summary?id=82688)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [RTX 2025 Annual Results](https://www.rtx.com/news/news-center/2026/01/27/rtx-reports-2025-results-and-announces-2026-outlook/) (VERIFIED)
+- [RTX 2024 Annual Results](https://raytheon.mediaroom.com/2025-01-28-RTX-Reports-2024-Results-and-Announces-2025-Outlook) (VERIFIED)
+- [House Foreign Affairs Committee: Faulkner deposition excerpts](https://democrats-foreignaffairs.house.gov/_cache/files/9/7/974fcf1a-f596-4775-b15d-c543996d12fe/E1BDC43C68CEB64B31CF8C5ADB217899.faulkner-excerpts.pdf) (VERIFIED)
 
 #### Tier 2. Major Investigative Journalism and Analysis
 
-- [Quincy Institute: Profits of War: Top Beneficiaries of Pentagon Spending 2020-2024](https://quincyinst.org/research/profits-of-war-top-beneficiaries-of-pentagon-spending-2020-2024/)
-- [OpenSecrets: Armed Services Committee defense sector contributions (March 2023)](https://www.opensecrets.org/news/2023/03/armed-services-committee-members-received-5-8-million-from-defense-sector-during-2022-election-cycle/)
-- [OpenSecrets: Yemen arms sales lobbying case study](https://www.opensecrets.org/news/reports/capitalizing-on-conflict/yemen-case-study)
-- [Business Insider: Raytheon PAC donations during Ukraine vote (May 2022)](https://www.businessinsider.com/raytheon-stinger-javelin-congress-ukraine-pac-spending-2022-5)
-- [The Intercept: Lloyd Austin and Raytheon Board](https://theintercept.com/2020/12/08/biden-defense-secretary-lloyd-austin-raytheon/)
-- [Bloomberg: Austin financial disclosure](https://www.bloomberg.com/news/articles/2021-01-10/biden-defense-pick-to-get-up-to-1-7-million-from-raytheon-role)
-- [The Hill: Austin could make up to $1.7M from Raytheon role](https://thehill.com/policy/defense/533631-biden-pentagon-pick-could-make-up-to-17m-from-leaving-raytheon/)
-- [POGO: Brass Parachutes revolving door report](https://www.pogo.org/reports/brass-parachutes)
-- [Jacobin: Pentagon SDEF fellows program](https://jacobin.com/2024/04/pentagon-fellows-program-sdef-defense-contractors)
-- [Defense One: Austin recusal pledge](https://www.defenseone.com/business/2021/01/austin-pledges-recuse-himself-military-decisions-involving-raytheon/171496/)
-- [NYT: Democrats scrutinize Faulkner's role in arms sales](https://www.nytimes.com/2019/06/11/us/politics/democrats-charles-faulkner-arms-sales.html)
-- [Salon: $8 billion Saudi arms deal and Faulkner](https://www.salon.com/2020/05/20/scandal-at-state-a-huge-arms-deal-a-revolving-door-lobbyist-and-the-fired-inspector-general/)
-- [Truthout: Yemen crisis and Raytheon influence](https://truthout.org/articles/yemen-crisis-linked-to-weapons-maker-raytheons-influence-on-us-foreign-policy/)
-- [The Nation: Yemen lobbying firms](https://www.thenation.com/article/archive/tom-dispatch-lobbying-firms-yemen/)
-- [ADHRB: Saudi Arabia arms sales and Faulkner](https://www.adhrb.org/2018/09/us-decision-to-continue-supporting-the-war-in-yemen-led-by-secretary-pompeo-and-former-raytheon-lobbyist/)
-- [Defense News: F-35 EODAS sensor selection](https://www.defensenews.com/air/2018/06/13/raytheon-beats-out-northrop-to-provide-key-f-35-system/)
+- [Quincy Institute: Profits of War: Top Beneficiaries of Pentagon Spending 2020-2024](https://quincyinst.org/research/profits-of-war-top-beneficiaries-of-pentagon-spending-2020-2024/) (VERIFIED)
+- [OpenSecrets: Armed Services Committee defense sector contributions (March 2023)](https://www.opensecrets.org/news/2023/03/armed-services-committee-members-received-5-8-million-from-defense-sector-during-2022-election-cycle/) (VERIFIED)
+- [OpenSecrets: Yemen arms sales lobbying case study](https://www.opensecrets.org/news/reports/capitalizing-on-conflict/yemen-case-study) (VERIFIED)
+- [Business Insider: Raytheon PAC donations during Ukraine vote (May 2022)](https://www.businessinsider.com/raytheon-stinger-javelin-congress-ukraine-pac-spending-2022-5) (VERIFIED)
+- [The Intercept: Lloyd Austin and Raytheon Board](https://theintercept.com/2020/12/08/biden-defense-secretary-lloyd-austin-raytheon/) (VERIFIED)
+- ~~[Bloomberg: Austin financial disclosure](https://www.bloomberg.com/news/articles/2021-01-10/biden-defense-pick-to-get-up-to-1-7-million-from-raytheon-role)~~ (URL broken, archived by Ops)
+- ~~[The Hill: Austin could make up to $1.7M from Raytheon role](https://thehill.com/policy/defense/533631-biden-pentagon-pick-could-make-up-to-17m-from-leaving-raytheon/)~~ (URL broken, archived by Ops)
+- ~~[POGO: Brass Parachutes revolving door report](https://www.pogo.org/reports/brass-parachutes)~~ (URL broken, archived by Ops)
+- [Jacobin: Pentagon SDEF fellows program](https://jacobin.com/2024/04/pentagon-fellows-program-sdef-defense-contractors) (VERIFIED)
+- [Defense One: Austin recusal pledge](https://www.defenseone.com/business/2021/01/austin-pledges-recuse-himself-military-decisions-involving-raytheon/171496/) (VERIFIED)
+- ~~[NYT: Democrats scrutinize Faulkner's role in arms sales](https://www.nytimes.com/2019/06/11/us/politics/democrats-charles-faulkner-arms-sales.html)~~ (URL broken, archived by Ops)
+- [Salon: $8 billion Saudi arms deal and Faulkner](https://www.salon.com/2020/05/20/scandal-at-state-a-huge-arms-deal-a-revolving-door-lobbyist-and-the-fired-inspector-general/) (VERIFIED)
+- [Truthout: Yemen crisis and Raytheon influence](https://truthout.org/articles/yemen-crisis-linked-to-weapons-maker-raytheons-influence-on-us-foreign-policy/) (VERIFIED)
+- [The Nation: Yemen lobbying firms](https://www.thenation.com/article/archive/tom-dispatch-lobbying-firms-yemen/) (VERIFIED)
+- [ADHRB: Saudi Arabia arms sales and Faulkner](https://www.adhrb.org/2018/09/us-decision-to-continue-supporting-the-war-in-yemen-led-by-secretary-pompeo-and-former-raytheon-lobbyist/) (VERIFIED)
+- [Defense News: F-35 EODAS sensor selection](https://www.defensenews.com/air/2018/06/13/raytheon-beats-out-northrop-to-provide-key-f-35-system/) (VERIFIED)
 
 #### Tier 3. Secondary Reporting and Reference
 
-- [Mother Jones: Austin defense industry ties](https://www.motherjones.com/politics/2020/12/lloyd-austin-defense-secretary-raytheon-joe-biden/)
-- [Inside Defense: Austin financial disclosures](https://insidedefense.com/insider/austin-discloses-financial-ties-defense-contractors)
-- [Breaking Defense: RTX production agreements](https://breakingdefense.com/2026/02/rtx-to-ramp-up-production-of-five-weapons-in-new-deal-with-pentagon/)
-- [USNI News: Tomahawk and SM-6 production deal](https://news.usni.org/2026/02/04/raytheon-to-bolster-tomahawk-and-sm-6-production-in-critical-munition-deal)
-- [Wikipedia: Lloyd Austin](https://en.wikipedia.org/wiki/Lloyd_Austin)
-- [Mark Esper official biography](https://www.marktesper.com/about)
-- [F-35 official partners page](https://www.f35.com/f35/about/F-35-Partners.html)
+- [Mother Jones: Austin defense industry ties](https://www.motherjones.com/politics/2020/12/lloyd-austin-defense-secretary-raytheon-joe-biden/) (VERIFIED)
+- [Inside Defense: Austin financial disclosures](https://insidedefense.com/insider/austin-discloses-financial-ties-defense-contractors) (VERIFIED)
+- [Breaking Defense: RTX production agreements](https://breakingdefense.com/2026/02/rtx-to-ramp-up-production-of-five-weapons-in-new-deal-with-pentagon/) (VERIFIED)
+- [USNI News: Tomahawk and SM-6 production deal](https://news.usni.org/2026/02/04/raytheon-to-bolster-tomahawk-and-sm-6-production-in-critical-munition-deal) (VERIFIED)
+- [Wikipedia: Lloyd Austin](https://en.wikipedia.org/wiki/Lloyd_Austin) (VERIFIED)
+- [Mark Esper official biography](https://www.marktesper.com/about) (VERIFIED)
+- [F-35 official partners page](https://www.f35.com/f35/about/F-35-Partners.html) (VERIFIED)
 
 ---
 
@@ -518,7 +518,7 @@ RTX represents the defense sector's structural capture of the American state. Th
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [I07WOS4YJ0N7YRFE7309](https://search.gleif.org/#/record/I07WOS4YJ0N7YRFE7309) |
+| LEI | [I07WOS4YJ0N7YRFE7309](https://search.gleif.org/#/record/I07WOS4YJ0N7YRFE7309) (VERIFIED) |
 | Legal Name | RTX CORPORATION |
 | Jurisdiction | US-DE |
 | Entity Status | ACTIVE |
@@ -526,7 +526,7 @@ RTX represents the defense sector's structural capture of the American state. Th
 | Registration | ISSUED |
 | Last Updated | 2025-04-23T20:41:56Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -552,7 +552,7 @@ RTX represents the defense sector's structural capture of the American state. Th
 |------------------|--------|--------|
 | Unknown | $51.9B | 6 |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Vehicle Safety (NHTSA)
@@ -570,7 +570,7 @@ RTX represents the defense sector's structural capture of the American state. Th
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Raytheon%20(RTX%20Corporation)) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Raytheon%20(RTX%20Corporation) (VERIFIED)) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
 
 ### Lobbying Activity
@@ -589,5 +589,5 @@ RTX represents the defense sector's structural capture of the American state. Th
 
 **Agencies contacted:** Air Force, Dept of, Defense, Dept of (DOD), HOUSE OF REPRESENTATIVES, Natl Aeronautics & Space Administration (NASA), Navy, Dept of, SENATE, State, Dept of (DOS), Treasury, Dept of
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Raytheon%20(RTX%20Corporation)) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Raytheon%20(RTX%20Corporation) (VERIFIED)) (Tier 1)
 <!-- auto:lda-lobbying end -->

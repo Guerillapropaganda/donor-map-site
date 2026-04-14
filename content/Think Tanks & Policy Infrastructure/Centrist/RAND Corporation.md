@@ -230,22 +230,22 @@ The Daniel Ellsberg case is the exception that proves the rule. When a RAND anal
 
 ### Sources
 
-- [ProPublica Nonprofit Explorer: Rand Corporation (EIN 95-1958142)](https://projects.propublica.org/nonprofits/organizations/951958142) (Tier 1)
-- [RAND: A Brief History of the RAND Corporation](https://www.rand.org/about/history.html) (Tier 3)
-- [RAND: How We Are Funded. List of Funders FY2025](https://www.rand.org/about/how-we-are-funded.html) (Tier 3)
-- [RAND: About RAND](https://www.rand.org/about.html) (Tier 3)
-- [RAND: Federally Funded Research and Development Centers](https://www.rand.org/about/ffrdc.html) (Tier 3)
-- [RAND: Leadership and Board of Trustees](https://www.rand.org/about/leadership.html) (Tier 3)
-- [RAND: Consolidated Financial Statements FY2024 and FY2023](https://www.rand.org/pubs/corporate_pubs/CPA1263.html) (Tier 1)
-- [RAND: 2024 Annual Report](https://www.rand.org/pubs/corporate_pubs/CPA1065-5.html) (Tier 3)
-- [RAND: Jason Matheny Named President and CEO](https://www.rand.org/news/press/2022/06/07.html) (Tier 3)
-- [OpenSecrets: Rand Corp Profile](https://www.opensecrets.org/orgs/rand-corp/summary?id=D000036957) (Tier 1)
-- [Inkstick Media: How Pentagon Spending Perpetuates Pentagon Spending](https://inkstickmedia.com/how-pentagon-spending-perpetuates-pentagon-spending/) (Tier 2)
-- [Project on Government Oversight: Brass Parachutes. The Problem of the Pentagon Revolving Door](https://www.pogo.org/reports/brass-parachutes) (Tier 2)
-- [InfluenceWatch: RAND Corporation](https://www.influencewatch.org/non-profit/rand-corporation/) (Tier 3)
-- [Wikipedia: RAND Corporation](https://en.wikipedia.org/wiki/RAND_Corporation) (Tier 3)
-- [RAND: Matthew Pottinger and Stefanie Tompkins Elected to Board](https://www.rand.org/news/press/2025/03/matthew-pottinger-and-stefanie-tompkins-elected-to.html) (Tier 3)
-- [Surf Santa Monica: RAND Lays Off Nearly One-Third of Remaining Workforce](https://www.surfsantamonica.com/ssm_site/the_lookout/news/News-2025/October-2025/10_24_2025_RAND_Lays_Off_Nearly_One_Third_of_Remaining_Workforce.html) (Tier 3)
+- [ProPublica Nonprofit Explorer: Rand Corporation (EIN 95-1958142)](https://projects.propublica.org/nonprofits/organizations/951958142) (Tier 1) (VERIFIED)
+- ~~[RAND: A Brief History of the RAND Corporation](https://www.rand.org/about/history.html)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[RAND: How We Are Funded. List of Funders FY2025](https://www.rand.org/about/how-we-are-funded.html)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[RAND: About RAND](https://www.rand.org/about.html)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[RAND: Federally Funded Research and Development Centers](https://www.rand.org/about/ffrdc.html)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[RAND: Leadership and Board of Trustees](https://www.rand.org/about/leadership.html)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[RAND: Consolidated Financial Statements FY2024 and FY2023](https://www.rand.org/pubs/corporate_pubs/CPA1263.html)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[RAND: 2024 Annual Report](https://www.rand.org/pubs/corporate_pubs/CPA1065-5.html)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[RAND: Jason Matheny Named President and CEO](https://www.rand.org/news/press/2022/06/07.html)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [OpenSecrets: Rand Corp Profile](https://www.opensecrets.org/orgs/rand-corp/summary?id=D000036957) (Tier 1) (VERIFIED)
+- [Inkstick Media: How Pentagon Spending Perpetuates Pentagon Spending](https://inkstickmedia.com/how-pentagon-spending-perpetuates-pentagon-spending/) (Tier 2) (VERIFIED)
+- ~~[Project on Government Oversight: Brass Parachutes. The Problem of the Pentagon Revolving Door](https://www.pogo.org/reports/brass-parachutes)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [InfluenceWatch: RAND Corporation](https://www.influencewatch.org/non-profit/rand-corporation/) (Tier 3) (VERIFIED)
+- [Wikipedia: RAND Corporation](https://en.wikipedia.org/wiki/RAND_Corporation) (Tier 3) (VERIFIED)
+- ~~[RAND: Matthew Pottinger and Stefanie Tompkins Elected to Board](https://www.rand.org/news/press/2025/03/matthew-pottinger-and-stefanie-tompkins-elected-to.html)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [Surf Santa Monica: RAND Lays Off Nearly One-Third of Remaining Workforce](https://www.surfsantamonica.com/ssm_site/the_lookout/news/News-2025/October-2025/10_24_2025_RAND_Lays_Off_Nearly_One_Third_of_Remaining_Workforce.html) (Tier 3) (VERIFIED)
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->
@@ -262,14 +262,14 @@ The Daniel Ellsberg case is the exception that proves the rule. When a RAND anal
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/951958142/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/951958142/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/951958142/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/951958142/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/951958142/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/951958142/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/951958142/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/951958142/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/951958142/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/951958142/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/951958142) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/951958142) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### SEC Filing Activity
@@ -287,5 +287,5 @@ The Daniel Ellsberg case is the exception that proves the rule. When a RAND anal
 - 2007-05-03 — **EX-99.1**: EXHIBIT 99.1
 - 2003-11-06 — **EX-4.3**: EXHIBIT 4.3
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22RAND%20Corporation%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22RAND%20Corporation%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->

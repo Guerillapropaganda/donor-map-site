@@ -31,7 +31,7 @@ Oliver's contract with HBO pays $30 million per 30-episode season ($1 million pe
 
 No FEC individual contributions found. Oliver's position that the political system's corruption makes individual donations functionally irrelevant is reflected in the absence of any federal political contribution record since achieving citizenship eligibility in late 2019.
 
-- [FEC: John Oliver individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=oliver%2C+john) (Tier 1)
+- [FEC: John Oliver individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=oliver%2C+john) (Tier 1) (VERIFIED)
 
 > **Note on API results:** The FEC API search for "oliver, john" returns 0 results for the television host. Oliver was not a U.S. citizen until December 2019 and therefore ineligible for federal campaign contributions before that date. Zero contributions documented since citizenship eligibility began (2020-2026). No disambiguation needed, no results to disambiguate.
 
@@ -143,16 +143,16 @@ John Oliver represents **the corporate comedy accountability model**, the parado
 
 ### Sources
 
-- [FEC Individual Contributions: John Oliver, employer HBO (0 results, 2015-2026)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=john+oliver&contributor_employer=hbo&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1)
-- [Wikipedia: Last Week Tonight with John Oliver](https://en.wikipedia.org/wiki/Last_Week_Tonight_with_John_Oliver) (Tier 3)
-- [Wikipedia: John Oliver](https://en.wikipedia.org/wiki/John_Oliver) (Tier 3)
-- [TIME: "The John Oliver Effect: The HBO Host's Real-World Impact" (2015)](https://time.com/3674807/john-oliver-net-neutrality-civil-forfeiture-miss-america/iss-america/) (Tier 2)
-- [Issue One: "Money in Politics is a Crisis. And John Oliver Just Proved It"](https://issueone.org/articles/money-in-politics-is-a-crisis-and-john-oliver-just-proved-it/) (Tier 2)
-- [Deadline: "John Oliver On Paramount Buying WBD: 'Not Great News'" (Mar 2026)](https://deadline.com/2026/03/last-week-tonight-john-oliver-paramount-not-great-news-1236740905/) (Tier 2)
-- [TheWrap: "The Future of John Oliver's Last Week Tonight Will Be a Stress Test for Paramount"](https://www.thewrap.com/creative-content/tv-shows/last-week-tonight-john-oliver-hbo-paramount-future-analysis/) (Tier 2)
-- [Variety: "John Oliver on Paramount Buying Warner Bros. Monologue" (2026)](https://variety.com/2026/biz/news/john-oliver-paramount-warner-bros-hbo-monologue-1236676300/) (Tier 2)
-- [LateNighter: "Report: John Oliver Drops Agents Over Last Week Tonight Deal"](https://latenighter.com/news/report-john-oliver-drops-agents-over-last-week-tonight-deal/) (Tier 3)
-- [Market Realist: "What John Oliver Earns Per Episode. Why He Did Not Get a Raise from HBO"](https://marketrealist.com/what-is-john-olivers-salary-on-last-week-tonight-and-why-did-he-not-get-a-raise-from-hbo/) (Tier 3)
+- [FEC Individual Contributions: John Oliver, employer HBO (0 results, 2015-2026)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=john+oliver&contributor_employer=hbo&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1) (VERIFIED)
+- [Wikipedia: Last Week Tonight with John Oliver](https://en.wikipedia.org/wiki/Last_Week_Tonight_with_John_Oliver) (Tier 3) (VERIFIED)
+- [Wikipedia: John Oliver](https://en.wikipedia.org/wiki/John_Oliver) (Tier 3) (VERIFIED)
+- ~~[TIME: "The John Oliver Effect: The HBO Host's Real-World Impact" (2015)](https://time.com/3674807/john-oliver-net-neutrality-civil-forfeiture-miss-america/iss-america/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Issue One: "Money in Politics is a Crisis. And John Oliver Just Proved It"](https://issueone.org/articles/money-in-politics-is-a-crisis-and-john-oliver-just-proved-it/) (Tier 2) (VERIFIED)
+- [Deadline: "John Oliver On Paramount Buying WBD: 'Not Great News'" (Mar 2026)](https://deadline.com/2026/03/last-week-tonight-john-oliver-paramount-not-great-news-1236740905/) (Tier 2) (VERIFIED)
+- [TheWrap: "The Future of John Oliver's Last Week Tonight Will Be a Stress Test for Paramount"](https://www.thewrap.com/creative-content/tv-shows/last-week-tonight-john-oliver-hbo-paramount-future-analysis/) (Tier 2) (VERIFIED)
+- [Variety: "John Oliver on Paramount Buying Warner Bros. Monologue" (2026)](https://variety.com/2026/biz/news/john-oliver-paramount-warner-bros-hbo-monologue-1236676300/) (Tier 2) (VERIFIED)
+- [LateNighter: "Report: John Oliver Drops Agents Over Last Week Tonight Deal"](https://latenighter.com/news/report-john-oliver-drops-agents-over-last-week-tonight-deal/) (Tier 3) (VERIFIED)
+- [Market Realist: "What John Oliver Earns Per Episode. Why He Did Not Get a Raise from HBO"](https://marketrealist.com/what-is-john-olivers-salary-on-last-week-tonight-and-why-did-he-not-get-a-raise-from-hbo/) (Tier 3) (VERIFIED)
 
 ---
 

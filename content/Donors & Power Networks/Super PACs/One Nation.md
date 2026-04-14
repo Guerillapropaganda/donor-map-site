@@ -95,15 +95,15 @@ One Nation exemplifies how dark money enables wealthy donors to exert political 
 | Net Assets | $60.8M |
 | Officer Compensation | $963K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 271937961](https://projects.propublica.org/nonprofits/organizations/271937961) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 271937961](https://projects.propublica.org/nonprofits/organizations/271937961) (Tier 1) (VERIFIED)
 
 <!-- auto:propublica-990 end -->
 
 ### Sources
 
-- [ProPublica: One Nation's Dark Money Network](https://projects.propublica.org/nonprofits/organizations/474943695) *(source unavailable)* (Tier 2)
-- [OpenSecrets: One Nation Spending Tracker](https://www.opensecrets.org/orgs/one-nation-pac/summary?id=D000046014) (Tier 1)
-- [Center for Responsive Politics: Dark Money in 2024](https://www.opensecrets.org/orgs/one-nation-pac/summary?id=D000046014) (Tier 1)
+- ~~[ProPublica: One Nation's Dark Money Network](https://projects.propublica.org/nonprofits/organizations/474943695)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+- [OpenSecrets: One Nation Spending Tracker](https://www.opensecrets.org/orgs/one-nation-pac/summary?id=D000046014) (Tier 1) (VERIFIED)
+- [Center for Responsive Politics: Dark Money in 2024](https://www.opensecrets.org/orgs/one-nation-pac/summary?id=D000046014) (Tier 1) (VERIFIED)
 
 ---
 
@@ -133,15 +133,15 @@ One Nation exemplifies how dark money enables wealthy donors to exert political 
 | Agencies | Antitrust Division, Energy Department, Executive Office of the President, Federal Energy Regulatory Commission, Federal Trade Commission, Justice Department, Labor Department |
 
 **Recent regulatory activity:**
-- [National Black History Month, 2026](https://www.federalregister.gov/documents/2026/02/06/2026-02496/national-black-history-month-2026) (2026-02-06) — Executive Office of the President
-- [Year of Celebration and Rededication, 2026](https://www.federalregister.gov/documents/2026/02/03/2026-02248/year-of-celebration-and-rededication-2026) (2026-02-03) — Executive Office of the President
-- [National Day of Patriotic Devotion, 2026](https://www.federalregister.gov/documents/2026/01/26/2026-01572/national-day-of-patriotic-devotion-2026) (2026-01-26) — Executive Office of the President
-- [Bill of Rights Day, 2025](https://www.federalregister.gov/documents/2025/12/18/2025-23416/bill-of-rights-day-2025) (2025-12-18) — Executive Office of the President
-- [250th Anniversary of the Founding of the United States Marine Corps](https://www.federalregister.gov/documents/2025/11/14/2025-19994/250th-anniversary-of-the-founding-of-the-united-states-marine-corps) (2025-11-14) — Executive Office of the President
-- [418th Anniversary of the First Landing and the Raising of the Cape Henry Cross](https://www.federalregister.gov/documents/2025/05/02/2025-07834/418th-anniversary-of-the-first-landing-and-the-raising-of-the-cape-henry-cross) (2025-05-02) — Executive Office of the President
+- ~~[National Black History Month, 2026](https://www.federalregister.gov/documents/2026/02/06/2026-02496/national-black-history-month-2026)~~ (URL broken, archived by Ops) (2026-02-06) — Executive Office of the President
+- [Year of Celebration and Rededication, 2026](https://www.federalregister.gov/documents/2026/02/03/2026-02248/year-of-celebration-and-rededication-2026) (VERIFIED) (2026-02-03) — Executive Office of the President
+- [National Day of Patriotic Devotion, 2026](https://www.federalregister.gov/documents/2026/01/26/2026-01572/national-day-of-patriotic-devotion-2026) (VERIFIED) (2026-01-26) — Executive Office of the President
+- [Bill of Rights Day, 2025](https://www.federalregister.gov/documents/2025/12/18/2025-23416/bill-of-rights-day-2025) (VERIFIED) (2025-12-18) — Executive Office of the President
+- ~~[250th Anniversary of the Founding of the United States Marine Corps](https://www.federalregister.gov/documents/2025/11/14/2025-19994/250th-anniversary-of-the-founding-of-the-united-states-marine-corps)~~ (URL broken, archived by Ops) (2025-11-14) — Executive Office of the President
+- [418th Anniversary of the First Landing and the Raising of the Cape Henry Cross](https://www.federalregister.gov/documents/2025/05/02/2025-07834/418th-anniversary-of-the-first-landing-and-the-raising-of-the-cape-henry-cross) (VERIFIED) (2025-05-02) — Executive Office of the President
 - ... and 113 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22One%20Nation%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22One%20Nation%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Federal Court Records (CourtListener)
@@ -160,7 +160,7 @@ One Nation exemplifies how dark money enables wealthy donors to exert political 
 - Doe v. Trump (2026) — District Court, W.D. Louisiana
 - Inama v. Idaho State Board of Education (2026) — District Court, D. Idaho
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22One%20Nation%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22One%20Nation%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### SEC Filing Activity
@@ -178,5 +178,5 @@ One Nation exemplifies how dark money enables wealthy donors to exert political 
 - 2002-02-27 — **425**: FORM 425
 - 2002-07-24 — **425**: FORM 425
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22One%20Nation%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22One%20Nation%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->

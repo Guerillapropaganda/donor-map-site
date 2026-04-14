@@ -31,7 +31,7 @@ The Health Insurance Industry Bloc. The combined political operation of America'
 
 The industry's trade association, America's Health Insurance Plans (AHIP), coordinates lobbying strategy and messaging. The insurance lobby's greatest victory: killing the public option in 2009-2010 and shaping the ACA's architecture to mandate private insurance coverage — converting a healthcare reform into an insurance industry business plan.
 
-- [FEC Receipts: Health insurance industry lobbying](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
+- [FEC Receipts: Health insurance industry lobbying](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
 
 ---
 
@@ -55,8 +55,8 @@ Post-ACA insurance industry revenue growth: UnitedHealth grew from $110 billion 
 ### Sources
 
 - [FEC Receipts: Health insurance industry lobbying](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- [SEC: UnitedHealth Group, Elevance, Cigna 10-K filings](https://www.sec.gov/cgi-bin/browse-edgar?company=Insurance%20Industry%20Bloc&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)
-- [Ballotpedia: Health insurance industry](https://ballotpedia.org/Insurance_Industry_Bloc) (Tier 3)
+- [SEC: UnitedHealth Group, Elevance, Cigna 10-K filings](https://www.sec.gov/cgi-bin/browse-edgar?company=Insurance%20Industry%20Bloc&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1) (VERIFIED)
+- [Ballotpedia: Health insurance industry](https://ballotpedia.org/Insurance_Industry_Bloc) (Tier 3) (VERIFIED)
 
 ### OFAC Sanctions Screening
 <!-- auto:ofac-sdn start -->
@@ -72,5 +72,5 @@ Post-ACA insurance industry revenue growth: UnitedHealth grew from $110 billion 
 - GAS INDUSTRY INSURANCE COMPANY SOGAZ (-0-) [UKRAINE-EO13662] [RUSSIA-EO14024]
   - Remarks: Secondary sanctions risk: See Section 11 of Executive Order 14024.; alt. Secondary sanctions risk: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209; Tax ID No. 7736035485 (...
 
-- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->

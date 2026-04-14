@@ -65,8 +65,8 @@ CalPERS's structural significance is threefold. First, the fund's massive portfo
 
 Every California politician must navigate the CalPERS question: protect benefits (and face fiscal pressure from UAL) or reform the system (and face opposition from SEIU, AFSCME, and the broader public employee union infrastructure that turns out votes in low-turnout primaries).
 
-- [CalPERS: Facts at a Glance FY2024-25](https://www.calpers.ca.gov/documents/facts-investments/download?inline=) (Tier 1)
-- [CalPERS: Preliminary 11.6% Return for FY2024-25](https://www.calpers.ca.gov/newsroom/calpers-news/2025/calpers-announces-preliminary-116-return-for-2024-25-fiscal-year) (Tier 1)
+- [CalPERS: Facts at a Glance FY2024-25](https://www.calpers.ca.gov/documents/facts-investments/download?inline=) (Tier 1) (VERIFIED)
+- [CalPERS: Preliminary 11.6% Return for FY2024-25](https://www.calpers.ca.gov/newsroom/calpers-news/2025/calpers-announces-preliminary-116-return-for-2024-25-fiscal-year) (Tier 1) (VERIFIED)
 
 ---
 
@@ -94,8 +94,8 @@ CalPERS does not operate a PAC or make direct campaign contributions. Its politi
 > [!contradiction] The 2025 Board Election. Thumb on the Scale
 > During the 2025 board election, several candidates criticized CalPERS's private equity investments and associated fees. CalPERS responded by sending a message to all 2 million members promoting its private equity performance, while voting was still underway. Multiple candidates accused CalPERS of using institutional communications to influence the election outcome in favor of the incumbent board aligned with the private equity expansion strategy. The institution used its informational monopoly over members to defend the investment strategy that its own elected board was supposed to evaluate independently.
 
-- [CalMatters: California unions spending more than ever on CalPERS board election](https://calmatters.org/category/politics/2025/09/calpers-election-spending/) (Tier 2)
-- [CalMatters: CalPERS touted investment returns, hit sore spot in board election](https://calmatters.org/category/politics/2025/09/calpers-election-private-equity/) (Tier 2)
+- ~~[CalMatters: California unions spending more than ever on CalPERS board election](https://calmatters.org/category/politics/2025/09/calpers-election-spending/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[CalMatters: CalPERS touted investment returns, hit sore spot in board election](https://calmatters.org/category/politics/2025/09/calpers-election-private-equity/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ---
 
@@ -124,9 +124,9 @@ The most revealing episode in CalPERS history: the placement agent bribery schem
 > [!money] The Placement Agent Pipeline
 > The Buenrostro scandal revealed the structural vulnerability: CalPERS managed hundreds of billions in assets, and a single CEO could be bought for $250,000 in cash and a paid wedding. Apollo received $3 billion in CalPERS allocations and paid $14 million in placement fees, a 214:1 return on the placement agent's bribery investment. The scandal led to California's 2009 ban on placement agents for public pension funds, but the underlying structure. Wall Street firms competing for CalPERS allocations worth billions in management fees, remains unchanged. The ban eliminated the middlemen but not the incentive.
 
-- [DOJ: Former CalPERS CEO Sentenced to 54 Months](https://www.justice.gov/usao-ndca/pr/former-calpers-ceo-sentenced-54-months-imprisonment-role-corruption-conspiracy) (Tier 1)
-- [SEC: Charges Against Former CalPERS CEO in Placement Agent Fee Scheme](https://www.sec.gov/newsroom/press-releases/2012-2012-73htm) (Tier 1)
-- [Fortune: Ex-CalPERS CEO admits he's a crook](https://fortune.com/2014/07/14/ex-calpers-ceo-admits-hes-a-crook/) (Tier 2)
+- [DOJ: Former CalPERS CEO Sentenced to 54 Months](https://www.justice.gov/usao-ndca/pr/former-calpers-ceo-sentenced-54-months-imprisonment-role-corruption-conspiracy) (Tier 1) (VERIFIED)
+- [SEC: Charges Against Former CalPERS CEO in Placement Agent Fee Scheme](https://www.sec.gov/newsroom/press-releases/2012-2012-73htm) (Tier 1) (VERIFIED)
+- [Fortune: Ex-CalPERS CEO admits he's a crook](https://fortune.com/2014/07/14/ex-calpers-ceo-admits-hes-a-crook/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -140,9 +140,9 @@ A decade-long battle over whether CalPERS members, the retirees whose money is a
 
 **The clean energy losses:** CalPERS lost 71% ($331 million) of $468 million invested in clean energy strategies, losses the fund has declined to fully explain publicly, fueling allegations that politically motivated ESG investment decisions were made without adequate risk analysis.
 
-- [NBC News: CalPERS faces probe launched by concerned retirees](https://www.nbcnews.com/news/us-news/california-public-pension-fund-nations-largest-faces-probe-launched-co-rcna215534) (Tier 2)
-- [Naked Capitalism: CalPERS retiree group launches GoFundMe for PE fee investigation](https://www.nakedcapitalism.com/2025/07/calpers-retiree-group-launches-gofundme-for-investigation-on-private-equity-fees.html) (Tier 2)
-- [The Center Square: CalPERS lost 71% of $468M in clean energy](https://www.thecentersquare.com/california/article_55faf935-81b3-457e-9cb3-006fd895dbdf.html) (Tier 2)
+- [NBC News: CalPERS faces probe launched by concerned retirees](https://www.nbcnews.com/news/us-news/california-public-pension-fund-nations-largest-faces-probe-launched-co-rcna215534) (Tier 2) (VERIFIED)
+- [Naked Capitalism: CalPERS retiree group launches GoFundMe for PE fee investigation](https://www.nakedcapitalism.com/2025/07/calpers-retiree-group-launches-gofundme-for-investigation-on-private-equity-fees.html) (Tier 2) (VERIFIED)
+- [The Center Square: CalPERS lost 71% of $468M in clean energy](https://www.thecentersquare.com/california/article_55faf935-81b3-457e-9cb3-006fd895dbdf.html) (Tier 2) (VERIFIED)
 
 ---
 
@@ -180,18 +180,18 @@ The Buenrostro scandal was the system's most visible failure, but the structure 
 
 - [CalPERS: Preliminary 11.6% Return for FY2024-25](https://www.calpers.ca.gov/newsroom/calpers-news/2025/calpers-announces-preliminary-116-return-for-2024-25-fiscal-year) (Tier 1)
 - [CalPERS: Facts at a Glance FY2024-25](https://www.calpers.ca.gov/documents/facts-investments/download?inline=) (Tier 1)
-- [CalPERS: Managing the Unfunded Accrued Liability](https://www.calpers.ca.gov/employers/actuarial-resources/managing-unfunded-accrued-liability) (Tier 1)
+- [CalPERS: Managing the Unfunded Accrued Liability](https://www.calpers.ca.gov/employers/actuarial-resources/managing-unfunded-accrued-liability) (Tier 1) (VERIFIED)
 - [DOJ: Former CalPERS CEO Sentenced to 54 Months](https://www.justice.gov/usao-ndca/pr/former-calpers-ceo-sentenced-54-months-imprisonment-role-corruption-conspiracy) (Tier 1)
 - [SEC: Charges Against Former CalPERS CEO in Placement Agent Fee Scheme](https://www.sec.gov/newsroom/press-releases/2012-2012-73htm) (Tier 1)
 - [CalMatters: California unions spending more than ever on CalPERS board election](https://calmatters.org/category/politics/2025/09/calpers-election-spending/) (Tier 2)
 - [CalMatters: CalPERS touted investment returns, hit sore spot in board election](https://calmatters.org/category/politics/2025/09/calpers-election-private-equity/) (Tier 2)
-- [CalMatters: How Newsom's budget sidesteps CalPERS pension cost](https://calmatters.org/category/politics/2024/04/calpers-pension-cost/) (Tier 2)
+- ~~[CalMatters: How Newsom's budget sidesteps CalPERS pension cost](https://calmatters.org/category/politics/2024/04/calpers-pension-cost/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [NBC News: CalPERS faces probe launched by concerned retirees](https://www.nbcnews.com/news/us-news/california-public-pension-fund-nations-largest-faces-probe-launched-co-rcna215534) (Tier 2)
 - [Fortune: Ex-CalPERS CEO admits he's a crook](https://fortune.com/2014/07/14/ex-calpers-ceo-admits-hes-a-crook/) (Tier 2)
 - [Naked Capitalism: CalPERS retiree group launches GoFundMe for PE fee investigation](https://www.nakedcapitalism.com/2025/07/calpers-retiree-group-launches-gofundme-for-investigation-on-private-equity-fees.html) (Tier 2)
 - [The Center Square: CalPERS lost 71% of $468M in clean energy](https://www.thecentersquare.com/california/article_55faf935-81b3-457e-9cb3-006fd895dbdf.html) (Tier 2)
-- [Ridgeline Municipal Strategies: CalPERS 11.6% Return Impact on UAL](https://www.ridgelinemuni.com/blog/calpers-announces-11-6-investment-return-for-fy2025-what-does-that-mean-for-your-agency) (Tier 3)
-- [Ballotpedia: CalPERS](https://ballotpedia.org/CalPERS) (Tier 3)
+- [Ridgeline Municipal Strategies: CalPERS 11.6% Return Impact on UAL](https://www.ridgelinemuni.com/blog/calpers-announces-11-6-investment-return-for-fy2025-what-does-that-mean-for-your-agency) (Tier 3) (VERIFIED)
+- [Ballotpedia: CalPERS](https://ballotpedia.org/CalPERS) (Tier 3) (VERIFIED)
 
 ---
 
@@ -221,14 +221,14 @@ The Buenrostro scandal was the system's most visible failure, but the structure 
 |------------------|--------|--------|
 | Unknown | $1009778941.6B | 50 |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-CalPERS) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-CalPERS) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [549300ZK777GYOOK5750](https://search.gleif.org/#/record/549300ZK777GYOOK5750) |
+| LEI | [549300ZK777GYOOK5750](https://search.gleif.org/#/record/549300ZK777GYOOK5750) (VERIFIED) |
 | Legal Name | CALPERS HOTELS S.A. |
 | Jurisdiction | LU |
 | Entity Status | INACTIVE |
@@ -236,7 +236,7 @@ The Buenrostro scandal was the system's most visible failure, but the structure 
 | Registration | RETIRED |
 | Last Updated | 2025-03-21T15:58:23Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### SEC Filing Activity
@@ -254,7 +254,7 @@ The Buenrostro scandal was the system's most visible failure, but the structure 
 - 2017-03-27 — **PX14A6G**: CALIFORNIA PUBLIC EMPLOYEES RETIREMENT SYSTEM PX14A6G 3-27-2017 (AEE)
 - 2021-06-02 — **PX14A6G**: PX14A6G
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22CalPERS%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22CalPERS%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Federal Court Records (CourtListener)
@@ -273,7 +273,7 @@ The Buenrostro scandal was the system's most visible failure, but the structure 
 - American Public Health Association v. EPA (2026) — Court of Appeals for the D.C. Circuit
 - State of Illinois v. Vought (2026) — District Court, N.D. Illinois
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22CalPERS%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22CalPERS%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Lobbying Activity
@@ -292,7 +292,7 @@ The Buenrostro scandal was the system's most visible failure, but the structure 
 
 **Agencies contacted:** Centers For Medicare and Medicaid Services (CMS), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), SENATE
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=CalPERS) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=CalPERS) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

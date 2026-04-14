@@ -60,8 +60,8 @@ Pritzker spent a combined **$323 million** of his own money across his 2018 and 
 
 The structural question Pritzker's political career poses for donor-class analysis: when a billionaire funds his own campaigns and his own dark money groups, is the donor-policy pipeline eliminated, or is it simply collapsed into a single person?
 
-- [OpenSecrets: J.B. Pritzker money profile](https://www.opensecrets.org/officeholders/j-b-pritzker/summary?cycle=2022&id=157615) (Tier 1)
-- [Ballotpedia: JB Pritzker](https://ballotpedia.org/JB_Pritzker) (Tier 3)
+- [OpenSecrets: J.B. Pritzker money profile](https://www.opensecrets.org/officeholders/j-b-pritzker/summary?cycle=2022&id=157615) (Tier 1) (VERIFIED)
+- [Ballotpedia: JB Pritzker](https://ballotpedia.org/JB_Pritzker) (Tier 3) (VERIFIED)
 
 ---
 
@@ -103,16 +103,16 @@ Pritzker's national political operation has three components:
 
 **Individual and committee contributions:** Pritzker has contributed to individual Democratic candidates nationally and to party committees including the DSCC and DCCC, building political obligations across the Democratic caucuses.
 
-- [ProPublica: How much money is being spent in the Illinois governor's race](https://www.propublica.org/article/how-much-money-is-being-spent-in-the-illinois-governors-race-bruce-rauner-jb-pritzker) (Tier 2)
-- [NPR: Pritzker breaks campaign finance record with $80M in ads](https://www.npr.org/2018/10/25/660403482/pritzker-breaks-campaign-finance-record-annoys-illinois-with-80-million-of-ads) (Tier 2)
-- [NBC News: Pritzker gave DGA $24M in 2022 as group helped him in primary](https://www.nbcnews.com/meet-the-press/meetthepressblog/data-download-pritzker-gave-dga-24-million-2022-group-helped-primary-rcna39533) (Tier 2)
-- [Chicago Tribune: Pritzker gave DGA $24M to fund ads that helped nominate his GOP opponent](https://www.chicagotribune.com/2022/07/22/gov-jb-pritzker-gave-democratic-governors-group-24-million-to-fund-ads-that-helped-nominate-his-gop-opponent/) (Tier 2)
-- [Chicago Tribune: Pritzker deposits $25.5M toward third-term bid](https://www.chicagotribune.com/2025/11/17/pritzker-25-million-2026-campaign/) (Tier 2)
-- [Chicago Tribune: Pritzker and wife gave big for DNC, which raised $97M](https://www.chicagotribune.com/2024/10/17/gov-jb-pritzker-and-wife-gave-big-for-dnc-which-raised-97m-in-all/) (Tier 2)
-- [Capitol News Illinois: Pritzker launches self-funded abortion rights advocacy organization](https://capitolnewsillinois.com/news/pritzker-launches-self-funded-nationwide-abortion-rights-advocacy-organization/) (Tier 2)
-- [NBC News: Pritzker builds up nonprofit group as 2024 looms](https://www.nbcnews.com/politics/2024-election/jb-pritzker-key-biden-surrogate-builds-nonprofit-group-2024-looms-rcna125167) (Tier 2)
-- [Washington Post: Pritzker ramps up abortion rights investments amid 2028 chatter](https://www.washingtonpost.com/politics/2024/02/07/jb-pritzker-abortion-think-big/) (Tier 2)
-- [STLPR: Self-funded candidates and dark money cloud Illinois politics](https://www.stlpr.org/government-politics-issues/2024-01-10/illinois-politics-marred-by-deep-pocketed-self-funded-candidates-and-dark-money) (Tier 2)
+- [ProPublica: How much money is being spent in the Illinois governor's race](https://www.propublica.org/article/how-much-money-is-being-spent-in-the-illinois-governors-race-bruce-rauner-jb-pritzker) (Tier 2) (VERIFIED)
+- [NPR: Pritzker breaks campaign finance record with $80M in ads](https://www.npr.org/2018/10/25/660403482/pritzker-breaks-campaign-finance-record-annoys-illinois-with-80-million-of-ads) (Tier 2) (VERIFIED)
+- [NBC News: Pritzker gave DGA $24M in 2022 as group helped him in primary](https://www.nbcnews.com/meet-the-press/meetthepressblog/data-download-pritzker-gave-dga-24-million-2022-group-helped-primary-rcna39533) (Tier 2) (VERIFIED)
+- [Chicago Tribune: Pritzker gave DGA $24M to fund ads that helped nominate his GOP opponent](https://www.chicagotribune.com/2022/07/22/gov-jb-pritzker-gave-democratic-governors-group-24-million-to-fund-ads-that-helped-nominate-his-gop-opponent/) (Tier 2) (VERIFIED)
+- [Chicago Tribune: Pritzker deposits $25.5M toward third-term bid](https://www.chicagotribune.com/2025/11/17/pritzker-25-million-2026-campaign/) (Tier 2) (VERIFIED)
+- [Chicago Tribune: Pritzker and wife gave big for DNC, which raised $97M](https://www.chicagotribune.com/2024/10/17/gov-jb-pritzker-and-wife-gave-big-for-dnc-which-raised-97m-in-all/) (Tier 2) (VERIFIED)
+- [Capitol News Illinois: Pritzker launches self-funded abortion rights advocacy organization](https://capitolnewsillinois.com/news/pritzker-launches-self-funded-nationwide-abortion-rights-advocacy-organization/) (Tier 2) (VERIFIED)
+- [NBC News: Pritzker builds up nonprofit group as 2024 looms](https://www.nbcnews.com/politics/2024-election/jb-pritzker-key-biden-surrogate-builds-nonprofit-group-2024-looms-rcna125167) (Tier 2) (VERIFIED)
+- ~~[Washington Post: Pritzker ramps up abortion rights investments amid 2028 chatter](https://www.washingtonpost.com/politics/2024/02/07/jb-pritzker-abortion-think-big/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [STLPR: Self-funded candidates and dark money cloud Illinois politics](https://www.stlpr.org/government-politics-issues/2024-01-10/illinois-politics-marred-by-deep-pocketed-self-funded-candidates-and-dark-money) (Tier 2) (VERIFIED)
 
 ---
 
@@ -162,7 +162,7 @@ The 2028 presidential calculus brings the class analysis into sharpest focus. A 
 - [Ballotpedia: JB Pritzker](https://ballotpedia.org/JB_Pritzker) (Tier 3)
 - [ProPublica: How much money is being spent in the Illinois governor's race](https://www.propublica.org/article/how-much-money-is-being-spent-in-the-illinois-governors-race-bruce-rauner-jb-pritzker) (Tier 2)
 - [NPR: Pritzker breaks campaign finance record with $80M in ads](https://www.npr.org/2018/10/25/660403482/pritzker-breaks-campaign-finance-record-annoys-illinois-with-80-million-of-ads) (Tier 2)
-- [NPR: Illinois governor candidate removed mansion's toilets to dodge taxes](https://www.npr.org/2018/10/03/654201077/illinois-gov-candidate-removed-mansions-toilets-to-dodge-taxes-report-finds) (Tier 2)
+- [NPR: Illinois governor candidate removed mansion's toilets to dodge taxes](https://www.npr.org/2018/10/03/654201077/illinois-gov-candidate-removed-mansions-toilets-to-dodge-taxes-report-finds) (Tier 2) (VERIFIED)
 - [NBC News: Pritzker gave DGA $24M in 2022 as group helped him in primary](https://www.nbcnews.com/meet-the-press/meetthepressblog/data-download-pritzker-gave-dga-24-million-2022-group-helped-primary-rcna39533) (Tier 2)
 - [Chicago Tribune: Pritzker gave DGA $24M to fund ads that helped nominate his GOP opponent](https://www.chicagotribune.com/2022/07/22/gov-jb-pritzker-gave-democratic-governors-group-24-million-to-fund-ads-that-helped-nominate-his-gop-opponent/) (Tier 2)
 - [Chicago Tribune: Pritzker deposits $25.5M toward third-term bid](https://www.chicagotribune.com/2025/11/17/pritzker-25-million-2026-campaign/) (Tier 2)
@@ -212,7 +212,7 @@ The 2028 presidential calculus brings the class analysis into sharpest focus. A 
 | ERIC LYNN FOR CONGRESS | $5,400 | DEM |
 | FRIENDS OF WEINER | $4,800 | DEM |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=JB%20Pritzker) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=JB%20Pritzker) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -224,8 +224,8 @@ The 2028 presidential calculus brings the class analysis into sharpest focus. A 
 | Total Expenses | $56.9M |
 | Net Assets | $148.4M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 300039820](https://projects.propublica.org/nonprofits/organizations/300039820) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F300039820_202312_990PF_2024112522929848.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 300039820](https://projects.propublica.org/nonprofits/organizations/300039820) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F300039820_202312_990PF_2024112522929848.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Federal Register Activity
@@ -238,11 +238,11 @@ The 2028 presidential calculus brings the class analysis into sharpest focus. A 
 | Agencies | Energy Department, Federal Aviation Administration, Federal Energy Regulatory Commission, Labor Department, Transportation Department, Wage and Hour Division |
 
 **Recent regulatory activity:**
-- [Employment of Workers With Disabilities Under Section 14(c) of the Fair Labor Standards Act](https://www.federalregister.gov/documents/2024/12/04/2024-27880/employment-of-workers-with-disabilities-under-section-14c-of-the-fair-labor-standards-act) (2024-12-04) — Labor Department
-- [Records Governing Off-the-Record Communications; Public Notice](https://www.federalregister.gov/documents/2023/11/16/2023-25342/records-governing-off-the-record-communications-public-notice) (2023-11-16) — Energy Department
-- [COVID-19 Related Relief Concerning Operations at Chicago O'Hare International Airport, John F. Kennedy International Airport, Los Angeles International Airport, Newark Liberty International Airport, New York LaGuardia Airport, Ronald Reagan Washington National Airport, and San Francisco International Airport for the Winter 2020/2021 Scheduling Season](https://www.federalregister.gov/documents/2020/10/07/2020-22291/covid-19-related-relief-concerning-operations-at-chicago-ohare-international-airport-john-f-kennedy) (2020-10-07) — Transportation Department
+- [Employment of Workers With Disabilities Under Section 14(c) of the Fair Labor Standards Act](https://www.federalregister.gov/documents/2024/12/04/2024-27880/employment-of-workers-with-disabilities-under-section-14c-of-the-fair-labor-standards-act) (VERIFIED) (2024-12-04) — Labor Department
+- [Records Governing Off-the-Record Communications; Public Notice](https://www.federalregister.gov/documents/2023/11/16/2023-25342/records-governing-off-the-record-communications-public-notice) (VERIFIED) (2023-11-16) — Energy Department
+- [COVID-19 Related Relief Concerning Operations at Chicago O'Hare International Airport, John F. Kennedy International Airport, Los Angeles International Airport, Newark Liberty International Airport, New York LaGuardia Airport, Ronald Reagan Washington National Airport, and San Francisco International Airport for the Winter 2020/2021 Scheduling Season](https://www.federalregister.gov/documents/2020/10/07/2020-22291/covid-19-related-relief-concerning-operations-at-chicago-ohare-international-airport-john-f-kennedy) (VERIFIED) (2020-10-07) — Transportation Department
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22JB%20Pritzker%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22JB%20Pritzker%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Federal Court Records (CourtListener)
@@ -261,7 +261,7 @@ The 2028 presidential calculus brings the class analysis into sharpest focus. A 
 - American Federation of State, County & Municipal Employees, AFL-CIO v. U.S. Department of Health and Human Services (2026) — District Court, N.D. California
 - State of Minnesota v. Noem (2026) — District Court, D. Minnesota
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22JB%20Pritzker%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22JB%20Pritzker%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Lobbying Activity
@@ -280,7 +280,7 @@ The 2028 presidential calculus brings the class analysis into sharpest focus. A 
 
 **Agencies contacted:** Agriculture, Dept of (USDA), Army, Dept of (Corps of Engineers), Commerce, Dept of (DOC), HOUSE OF REPRESENTATIVES, Homeland Security, Dept of (DHS), Labor, Dept of (DOL), SENATE, State, Dept of (DOS), U.S. Agency for International Development (USAID), White House Office
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=JB%20Pritzker) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=JB%20Pritzker) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)
@@ -315,12 +315,12 @@ The 2028 presidential calculus brings the class analysis into sharpest focus. A 
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/300039820/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/300039820/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/300039820/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/300039820/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/300039820/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/300039820/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/300039820/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/300039820/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/300039820/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/300039820/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/300039820) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/300039820) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->

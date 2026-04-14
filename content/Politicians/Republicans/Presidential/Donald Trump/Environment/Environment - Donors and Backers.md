@@ -86,6 +86,6 @@ Maps the fossil fuel donor network that funded the most comprehensive environmen
 
 ### Sources
 
-- [OpenSecrets: Koch Network Spending](https://www.opensecrets.org/members-of-congress/summary?name=Environment) (Tier 1)
-- [OpenSecrets: API Lobbying Data](https://www.opensecrets.org/members-of-congress/summary?name=Environment) (Tier 1)
+- [OpenSecrets: Koch Network Spending](https://www.opensecrets.org/members-of-congress/summary?name=Environment) (Tier 1) (VERIFIED)
+- [OpenSecrets: API Lobbying Data](https://www.opensecrets.org/members-of-congress/summary?name=Environment) (Tier 1) (VERIFIED)
 

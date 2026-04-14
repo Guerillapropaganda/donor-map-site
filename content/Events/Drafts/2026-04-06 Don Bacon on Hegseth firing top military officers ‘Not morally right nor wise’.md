@@ -13,7 +13,7 @@ profiles:
 
 ## Don Bacon on Hegseth firing top military officers: ‘Not morally right nor wise’
 
-**Source:** [The Hill](https://thehill.com/policy/defense/5817959-don-bacon-calls-out-hegseth/)
+**Source:** ~~[The Hill](https://thehill.com/policy/defense/5817959-don-bacon-calls-out-hegseth/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-06
 
 Rep. Don Bacon (R-Neb.), a retired Air Force general, criticized Defense Secretary Pete Hegseth for ousting senior military officers without giving the public a reason and said the move was wrong and unwise. “The Secretary of Defense has the legal right to fire these Flag Officers, but it is not morally right nor wise. Further,…

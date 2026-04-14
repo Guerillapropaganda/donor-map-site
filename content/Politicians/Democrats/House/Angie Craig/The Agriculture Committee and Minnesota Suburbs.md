@@ -38,7 +38,7 @@ Craig came to Congress from the private sector (St. Jude Medical, now Abbott Lab
 
 ### Sources
 
-- [Congress.gov: Angie Craig member profile](https://www.congress.gov/member/angie-craig/C001119) (Tier 1)
-- [FEC Candidate: Angie Craig campaign finance summary](https://www.fec.gov/data/candidate/S6MN00499/) (Tier 1)
-- [Ballotpedia: Angie Craig](https://ballotpedia.org/Angie_Craig) (Tier 3)
+- ~~[Congress.gov: Angie Craig member profile](https://www.congress.gov/member/angie-craig/C001119)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [FEC Candidate: Angie Craig campaign finance summary](https://www.fec.gov/data/candidate/S6MN00499/) (Tier 1) (VERIFIED)
+- [Ballotpedia: Angie Craig](https://ballotpedia.org/Angie_Craig) (Tier 3) (VERIFIED)
 

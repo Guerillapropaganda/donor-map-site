@@ -77,7 +77,7 @@ Ball's FEC record splits into two phases: her own 2010 congressional race (VA-1,
 > [!money]
 > Ball's FEC record is the strongest indicator of genuine progressive conviction in the centrist media section. Three patterns stand out: (1) the 2025 surge, $24K+ to insurgent candidates (Kasky, Ventouras, Blake, Abdul, Ojeda) while employer is listed as "Breaking Points," showing active progressive recruitment; (2) the People's House Project pipeline, $23.7K into her own PAC that Reid Hoffman funded, which channeled 39% to Ball's salary; (3) the Osborn independent, $3,300 to an independent Senate candidate, the only non-Democratic recipient. This distinguishes her sharply from co-host Enjeti ($0), suggesting asymmetric political conviction in the "populist crossover" format.
 
-- [FEC: Krystal Ball individual contributions (227 results)](https://www.fec.gov/data/receipts/?contributor_name=ball%2C+krystal) (Tier 1)
+- [FEC: Krystal Ball individual contributions (227 results)](https://www.fec.gov/data/receipts/?contributor_name=ball%2C+krystal) (Tier 1) (VERIFIED)
 
 > **Disambiguation note:** The FEC API returns 227 raw results for "ball, krystal." VA-filtered results (162) are all confirmed as the media personality, employer listed as "Breaking Points," "Breaking Point LLC," "MSNBC," or "self-employed." Remaining results from other states need further verification. Raw total includes ActBlue conduit double-counting; de-duplicated figures reported above.
 
@@ -87,7 +87,7 @@ Ball's FEC record splits into two phases: her own 2010 congressional race (VA-1,
 
 No FEC individual contributions found. Zero results across all fuzzy-match variations (Saagar Enjeti, Saagar Enjet, Enjeti, etc.). Consistent with right-populist media pattern: commentary about politics without personal political financial commitment.
 
-- [FEC: Saagar Enjeti individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=saagar+enjeti) (Tier 1)
+- [FEC: Saagar Enjeti individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=saagar+enjeti) (Tier 1) (VERIFIED)
 
 > **Note on API results:** The FEC API search for "saagar enjeti" and variants returns zero results. No disambiguation needed, no contributions on record for the media personality.
 
@@ -187,16 +187,16 @@ Breaking Points represents **the subscription-funded populist crossover**, the s
 
 ### Sources
 
-- [FEC Individual Contributions: Krystal Ball (149 results, VA, employer: Breaking Points)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=krystal+ball) (Tier 1)
-- [FEC Individual Contributions: Saagar Enjeti (0 results)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=saagar+enjeti) (Tier 1)
-- [Fast Company: "Why 'Breaking Points with Krystal and Saagar' became the No. 1 political podcast in a week" (Joe Berkowitz, Jun 2021)](https://www.fastcompany.com/90646413/why-breaking-points-with-krystal-and-saagar-became-the-number-one-political-podcast-in-a-week) (Tier 2)
-- [Hudson Institute: Saagar Enjeti expert profile](https://www.hudson.org/experts/1278-saagar-enjeti) (Tier 3)
-- [Hudson Institute: "Hudson Announces Launch of New Podcast and Media Fellows" (Realignment launch)](https://www.hudson.org/national-security-defense/hudson-announces-launch-of-new-podcast-and-media-fellows) (Tier 3)
-- [Washington Free Beacon: "Top Dem Donors Cutting Ties With Krystal Ball Org Over 'Scam PAC' Concerns"](https://freebeacon.com/politics/top-dem-donors-cutting-ties-krystal-ball-org-scam-pac-concerns/) (Tier 4, partisan source; underlying data from FEC Tier 1)
-- [Wikipedia: Breaking Points](https://en.wikipedia.org/wiki/Breaking_Points) (Tier 3)
-- [Wikipedia: Krystal Ball](https://en.wikipedia.org/wiki/Krystal_Ball) (Tier 3)
-- [Wikipedia: Saagar Enjeti](https://en.wikipedia.org/wiki/Saagar_Enjeti) (Tier 3)
-- [INN Newsletter: "Breaking Points' Billionaire Funding Ties" (Jun 2022)](https://www.innnewsletter.com/p/breaking-points-funders-max-alvarez) (Tier 4, partisan independent media; useful for documenting Hoffman/Hudson connections)
+- [FEC Individual Contributions: Krystal Ball (149 results, VA, employer: Breaking Points)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=krystal+ball) (Tier 1) (VERIFIED)
+- [FEC Individual Contributions: Saagar Enjeti (0 results)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=saagar+enjeti) (Tier 1) (VERIFIED)
+- ~~[Fast Company: "Why 'Breaking Points with Krystal and Saagar' became the No. 1 political podcast in a week" (Joe Berkowitz, Jun 2021)](https://www.fastcompany.com/90646413/why-breaking-points-with-krystal-and-saagar-became-the-number-one-political-podcast-in-a-week)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Hudson Institute: Saagar Enjeti expert profile](https://www.hudson.org/experts/1278-saagar-enjeti) (Tier 3) (VERIFIED)
+- [Hudson Institute: "Hudson Announces Launch of New Podcast and Media Fellows" (Realignment launch)](https://www.hudson.org/national-security-defense/hudson-announces-launch-of-new-podcast-and-media-fellows) (Tier 3) (VERIFIED)
+- [Washington Free Beacon: "Top Dem Donors Cutting Ties With Krystal Ball Org Over 'Scam PAC' Concerns"](https://freebeacon.com/politics/top-dem-donors-cutting-ties-krystal-ball-org-scam-pac-concerns/) (VERIFIED) (Tier 4, partisan source; underlying data from FEC Tier 1)
+- [Wikipedia: Breaking Points](https://en.wikipedia.org/wiki/Breaking_Points) (Tier 3) (VERIFIED)
+- [Wikipedia: Krystal Ball](https://en.wikipedia.org/wiki/Krystal_Ball) (Tier 3) (VERIFIED)
+- [Wikipedia: Saagar Enjeti](https://en.wikipedia.org/wiki/Saagar_Enjeti) (Tier 3) (VERIFIED)
+- [INN Newsletter: "Breaking Points' Billionaire Funding Ties" (Jun 2022)](https://www.innnewsletter.com/p/breaking-points-funders-max-alvarez) (VERIFIED) (Tier 4, partisan independent media; useful for documenting Hoffman/Hudson connections)
 
 ---
 

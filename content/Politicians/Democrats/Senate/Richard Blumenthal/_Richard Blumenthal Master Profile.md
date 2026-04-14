@@ -161,20 +161,20 @@ The Vietnam service record controversy sharpens the class analysis. Blumenthal r
 
 ## Sources
 
-- [FEC Candidate: Richard Blumenthal donor profile](https://www.fec.gov/data/candidate/S0CT00177/) (Tier 1)
-- [OpenSecrets: Richard Blumenthal personal finances](https://www.opensecrets.org/personal-finances/richard-blumenthal/net-worth?cid=N00031685) (Tier 1)
-- [Congress.gov: Richard Blumenthal](https://www.congress.gov/member/richard-blumenthal/B001277) (Tier 1)
-- [Senate Veterans' Affairs Committee: About the Ranking Member](https://www.veterans.senate.gov/ranking-member-about) (Tier 1)
-- [Senate.gov: Blumenthal to serve as VA Committee Ranking Member](https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-to-serve-as-ranking-member-of-the-senate-committee-on-veterans-affairs) (Tier 1)
-- [Senate.gov: Blumenthal biography](https://www.blumenthal.senate.gov/about/biography) (Tier 1)
-- [Senate.gov: Blumenthal introduces sweeping veterans reform bill](https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-democratic-colleagues-introduce-sweeping-veterans-bill-to-reform-and-improve-va-health-care) (Tier 1)
-- [Senate.gov: Blumenthal bill to protect veterans' disability benefits](https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-and-tran-introduce-bill-to-protect-veterans-disability-benefits) (Tier 1)
-- [Senate.gov: Blumenthal bipartisan veterans' mental health legislation](https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-and-colleagues-introduce-bipartisan-legislation-to-support-veterans-mental-health) (Tier 1)
-- [New York Times: Blumenthal misrepresented Vietnam service (via NPR)](https://www.npr.org/sections/politicaljunkie/2010/05/17/126896148/report-blumenthal) (Tier 2)
-- [Snopes: Did Blumenthal misrepresent military service?](https://www.snopes.com/fact-check/richard-blumenthal-vietnam/) (Tier 2)
-- [NBC Connecticut: Blumenthal never served in Vietnam](https://www.nbcconnecticut.com/news/politics/natl-contrary-to-his-claims-ag-blumenthal-never-served-in-vietnam-report/1880706/) (Tier 2)
-- [Ballotpedia: Richard Blumenthal](https://ballotpedia.org/Richard_Blumenthal) (Tier 3)
-- [Wikipedia: Richard Blumenthal](https://en.wikipedia.org/wiki/Richard_Blumenthal) (Tier 3)
+- [FEC Candidate: Richard Blumenthal donor profile](https://www.fec.gov/data/candidate/S0CT00177/) (Tier 1) (VERIFIED)
+- [OpenSecrets: Richard Blumenthal personal finances](https://www.opensecrets.org/personal-finances/richard-blumenthal/net-worth?cid=N00031685) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: Richard Blumenthal](https://www.congress.gov/member/richard-blumenthal/B001277)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Senate Veterans' Affairs Committee: About the Ranking Member](https://www.veterans.senate.gov/ranking-member-about) (Tier 1) (VERIFIED)
+- [Senate.gov: Blumenthal to serve as VA Committee Ranking Member](https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-to-serve-as-ranking-member-of-the-senate-committee-on-veterans-affairs) (Tier 1) (VERIFIED)
+- [Senate.gov: Blumenthal biography](https://www.blumenthal.senate.gov/about/biography) (Tier 1) (VERIFIED)
+- [Senate.gov: Blumenthal introduces sweeping veterans reform bill](https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-democratic-colleagues-introduce-sweeping-veterans-bill-to-reform-and-improve-va-health-care) (Tier 1) (VERIFIED)
+- [Senate.gov: Blumenthal bill to protect veterans' disability benefits](https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-and-tran-introduce-bill-to-protect-veterans-disability-benefits) (Tier 1) (VERIFIED)
+- [Senate.gov: Blumenthal bipartisan veterans' mental health legislation](https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-and-colleagues-introduce-bipartisan-legislation-to-support-veterans-mental-health) (Tier 1) (VERIFIED)
+- [New York Times: Blumenthal misrepresented Vietnam service (via NPR)](https://www.npr.org/sections/politicaljunkie/2010/05/17/126896148/report-blumenthal) (Tier 2) (VERIFIED)
+- [Snopes: Did Blumenthal misrepresent military service?](https://www.snopes.com/fact-check/richard-blumenthal-vietnam/) (Tier 2) (VERIFIED)
+- [NBC Connecticut: Blumenthal never served in Vietnam](https://www.nbcconnecticut.com/news/politics/natl-contrary-to-his-claims-ag-blumenthal-never-served-in-vietnam-report/1880706/) (Tier 2) (VERIFIED)
+- [Ballotpedia: Richard Blumenthal](https://ballotpedia.org/Richard_Blumenthal) (Tier 3) (VERIFIED)
+- [Wikipedia: Richard Blumenthal](https://en.wikipedia.org/wiki/Richard_Blumenthal) (Tier 3) (VERIFIED)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -207,7 +207,7 @@ The Vietnam service record controversy sharpens the class analysis. Blumenthal r
 | NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND | $3,294 | $158,505 |
 | NATIONAL COMMITTEE TO PRESERVE SOCIAL SECURITY & MEDICARE PAC | $102,121 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S0CT00177/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S0CT00177/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (GovTrack)
@@ -226,7 +226,7 @@ The Vietnam service record controversy sharpens the class analysis. Blumenthal r
 - S. 4149: Social Determinants for Moms Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 19, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 - S. 4140: Carlton H. Ingram Veterans’ Benefits Protection Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 19, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412490) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412490) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
 
 ### Congressional Stock Trades (STOCK Act)
@@ -251,7 +251,7 @@ The Vietnam service record controversy sharpens the class analysis. Blumenthal r
 | 12/02/2020 | N/A | other | Unknown | N/A |
 | 11/28/2018 | N/A | other | Unknown | N/A |
 
-- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
 ### DOJ Press Releases
@@ -279,7 +279,7 @@ The Vietnam service record controversy sharpens the class analysis. Blumenthal r
 
 **Sources**
 
-- [GovTrack: Richard Blumenthal](https://www.govtrack.us/congress/members/412490) (Tier 1)
+- [GovTrack: Richard Blumenthal](https://www.govtrack.us/congress/members/412490) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
 
 ### Legislative Activity (Congress.gov)
@@ -308,5 +308,5 @@ The Vietnam service record controversy sharpens the class analysis. Blumenthal r
 | — |  | — |
 | 4060 | Prediction Markets Security and Integrity Act of 2026 | Read twice and referred to the Committee on the Judiciary. |
 
-- [Source: Congress.gov](https://www.congress.gov/member/B001277) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/B001277)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->

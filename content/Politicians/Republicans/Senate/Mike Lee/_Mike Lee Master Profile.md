@@ -169,18 +169,18 @@ The January 6 texts to Mark Meadows reveal where the ideology actually breaks. C
 
 ## Sources
 
-- [FEC Candidate: Mike Lee campaign finance summary](https://www.fec.gov/data/candidate/S0UT00165/) (Tier 1)
-- [FEC Candidate: Mike Lee career industries](https://www.fec.gov/data/candidate/S0UT00165/) (Tier 1)
-- [FEC Candidate: Mike Lee career contributors](https://www.fec.gov/data/candidate/S0UT00165/) (Tier 1)
-- [FEC: Friends of Mike Lee Inc campaign committee](https://www.fec.gov/data/committee/C00473827/) (Tier 1)
-- [CNN: Meadows texts reveal Lee and Chip Roy lobbied White House to overturn election](https://www.cnn.com/2022/04/15/politics/mike-lee-chip-roy-text-messages-jan-6-mark-meadows-overturn-election/index.html) (Tier 2)
-- [CNN: Fact check — Mike Lee's texts contradict his debate claims about January 6](https://www.cnn.com/2022/10/18/politics/fact-check-mike-lee-january-6-texts) (Tier 2)
-- [Tech Transparency Project: The Curious Transformation of Mike Lee](https://www.techtransparencyproject.org/articles/the-curious-transformation-of-sen-mike-lee) (Tier 2)
-- [Salt Lake Tribune: Mike Lee proposes selling millions of acres of public land](https://www.sltrib.com/news/environment/2025/06/11/mike-lee-proposes-selling-millions/) (Tier 2)
-- [Sierra Club: Why Mike Lee Is Waging War Against America's Public Lands](https://www.sierraclub.org/sierra/why-mike-lee-waging-war-against-america-s-public-lands) (Tier 2)
-- [CREW: Group behind Trump SCOTUS picks brought in nearly $50 million in secret money](https://www.citizensforethics.org/reports-investigations/crew-investigations/group-behind-trump-scotus-picks-brought-in-nearly-50-million-in-secret-money/) (Tier 2)
-- [Ballotpedia: Mike Lee](https://ballotpedia.org/Mike_Lee_(U.S._Senate,_Utah)) (Tier 3)
-- [Federalist Society: Hon. Mike S. Lee profile](https://fedsoc.org/bio/mike-lee) (Tier 3)
+- [FEC Candidate: Mike Lee campaign finance summary](https://www.fec.gov/data/candidate/S0UT00165/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Mike Lee career industries](https://www.fec.gov/data/candidate/S0UT00165/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Mike Lee career contributors](https://www.fec.gov/data/candidate/S0UT00165/) (Tier 1) (VERIFIED)
+- [FEC: Friends of Mike Lee Inc campaign committee](https://www.fec.gov/data/committee/C00473827/) (Tier 1) (VERIFIED)
+- [CNN: Meadows texts reveal Lee and Chip Roy lobbied White House to overturn election](https://www.cnn.com/2022/04/15/politics/mike-lee-chip-roy-text-messages-jan-6-mark-meadows-overturn-election/index.html) (Tier 2) (VERIFIED)
+- [CNN: Fact check — Mike Lee's texts contradict his debate claims about January 6](https://www.cnn.com/2022/10/18/politics/fact-check-mike-lee-january-6-texts) (Tier 2) (VERIFIED)
+- [Tech Transparency Project: The Curious Transformation of Mike Lee](https://www.techtransparencyproject.org/articles/the-curious-transformation-of-sen-mike-lee) (Tier 2) (VERIFIED)
+- [Salt Lake Tribune: Mike Lee proposes selling millions of acres of public land](https://www.sltrib.com/news/environment/2025/06/11/mike-lee-proposes-selling-millions/) (Tier 2) (VERIFIED)
+- [Sierra Club: Why Mike Lee Is Waging War Against America's Public Lands](https://www.sierraclub.org/sierra/why-mike-lee-waging-war-against-america-s-public-lands) (Tier 2) (VERIFIED)
+- [CREW: Group behind Trump SCOTUS picks brought in nearly $50 million in secret money](https://www.citizensforethics.org/reports-investigations/crew-investigations/group-behind-trump-scotus-picks-brought-in-nearly-50-million-in-secret-money/) (Tier 2) (VERIFIED)
+- [Ballotpedia: Mike Lee](https://ballotpedia.org/Mike_Lee_(U.S._Senate,_Utah) (VERIFIED)) (Tier 3)
+- [Federalist Society: Hon. Mike S. Lee profile](https://fedsoc.org/bio/mike-lee) (Tier 3) (VERIFIED)
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
@@ -254,5 +254,5 @@ The January 6 texts to Mark Meadows reveal where the ideology actually breaks. C
 | AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION | $2,798,792 | $0 |
 | PROTECT FREEDOM POLITICAL ACTION COMMITTEE | $1,350,000 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S0UT00165/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S0UT00165/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->

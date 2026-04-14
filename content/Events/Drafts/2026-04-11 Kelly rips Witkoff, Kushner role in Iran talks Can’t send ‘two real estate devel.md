@@ -15,7 +15,7 @@ profiles:
 
 ## Kelly rips Witkoff, Kushner role in Iran talks: Can’t send ‘two real estate developers’ to negotiate peace
 
-**Source:** [The Hill](https://thehill.com/homenews/senate/5827235-kelly-criticizes-witkoff-kushner-iran-diplomacy/)
+**Source:** ~~[The Hill](https://thehill.com/homenews/senate/5827235-kelly-criticizes-witkoff-kushner-iran-diplomacy/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-11
 
 Sen. Mark Kelly (D-Ariz.) on Saturday criticized the involvement of special envoy Steve Witkoff and President Trump’s son-in-law Jared Kushner in Middle East diplomacy, as the two sit down with Iranian officials for trilateral talks on bringing the six-week conflict with Iran to an end. “You can’t send the two real estate developers to negotiate…

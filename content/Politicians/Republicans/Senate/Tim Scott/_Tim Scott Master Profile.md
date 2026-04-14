@@ -174,21 +174,21 @@ The class function Scott performs is unique and cannot be replicated by a white 
 
 ## Sources
 
-- [FEC Candidate: Tim Scott campaign finance summary (career)](https://www.fec.gov/data/candidate/P80008063/) (Tier 1)
-- [FEC Candidate: Tim Scott top industries (career)](https://www.fec.gov/data/candidate/P80008063/) (Tier 1)
-- [OpenSecrets: Tim Scott 2024 presidential race summary](https://www.opensecrets.org/2024-presidential-race?id=N00031782) (Tier 1)
-- [Congress.gov: Tax Cuts and Jobs Act (H.R.1, 115th Congress)](https://www.congress.gov/bill/115th-congress/house-bill/1/text) (Tier 1)
-- [Senate Banking Committee: Scott pushes for regulatory clarity in digital asset market structure legislation](https://www.banking.senate.gov/newsroom/majority/scott-pushes-for-regulatory-clarity-in-digital-asset-market-structure-legislation) (Tier 1)
-- [ProPublica: Billionaires Keep Benefiting From a Tax Break to Help the Poor](https://www.propublica.org/article/billionaires-keep-benefiting-from-a-tax-break-to-help-the-poor-now-congress-wants-to-investigate) (Tier 2)
-- [American Prospect: Sen. Tim Scott's 'Land of Opportunity' (Zones)](https://prospect.org/2023/04/21/2023-04-21-based-tim-scott-opportunity-zones/) (Tier 2)
-- [NBC News: Trump, Kushner, LeFrak could benefit from opportunity zones](https://www.nbcnews.com/politics/donald-trump/trump-kushner-lefrak-could-potentially-benefit-federal-opportunity-zones-n946821) (Tier 2)
-- [CNBC: Peltz, Druckenmiller, Navarro back Tim Scott PACs as DeSantis falters](https://www.cnbc.com/2023/07/31/gop-billionaires-flood-tim-scott-pacs-as-desantis-campaign-stalls.html) (Tier 2)
-- [CNN: Deep-pocketed donors give fresh attention to Tim Scott's long-shot presidential bid](https://www.cnn.com/2023/07/13/politics/tim-scott-donors/index.html) (Tier 2)
-- [CNN: Tim Scott endorses Trump for 2024 president](https://www.cnn.com/2024/01/19/politics/tim-scott-endorsement-trump/index.html) (Tier 2)
-- [PBS News: Sen. Tim Scott drops out of 2024 presidential race](https://www.pbs.org/newshour/politics/sen-tim-scott-drops-out-of-2024-presidential-race-shocking-donors-and-campaign-staff) (Tier 2)
-- [The Hill: Tim Scott leaves open door to being Trump's VP](https://thehill.com/homenews/campaign/4420336-tim-scott-leaves-open-door-to-being-trumps-vp/) (Tier 2)
-- [Boston Review: The False Promise of Opportunity Zones](https://www.bostonreview.net/articles/the-false-promise-of-opportunity-zones/) (Tier 2)
-- [Ballotpedia: Tim Scott](https://ballotpedia.org/Tim_Scott) (Tier 3)
+- [FEC Candidate: Tim Scott campaign finance summary (career)](https://www.fec.gov/data/candidate/P80008063/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Tim Scott top industries (career)](https://www.fec.gov/data/candidate/P80008063/) (Tier 1) (VERIFIED)
+- [OpenSecrets: Tim Scott 2024 presidential race summary](https://www.opensecrets.org/2024-presidential-race?id=N00031782) (Tier 1) (VERIFIED)
+- [Congress.gov: Tax Cuts and Jobs Act (H.R.1, 115th Congress)](https://www.congress.gov/bill/115th-congress/house-bill/1/text) (Tier 1) (VERIFIED)
+- [Senate Banking Committee: Scott pushes for regulatory clarity in digital asset market structure legislation](https://www.banking.senate.gov/newsroom/majority/scott-pushes-for-regulatory-clarity-in-digital-asset-market-structure-legislation) (Tier 1) (VERIFIED)
+- [ProPublica: Billionaires Keep Benefiting From a Tax Break to Help the Poor](https://www.propublica.org/article/billionaires-keep-benefiting-from-a-tax-break-to-help-the-poor-now-congress-wants-to-investigate) (Tier 2) (VERIFIED)
+- [American Prospect: Sen. Tim Scott's 'Land of Opportunity' (Zones)](https://prospect.org/2023/04/21/2023-04-21-based-tim-scott-opportunity-zones/) (Tier 2) (VERIFIED)
+- [NBC News: Trump, Kushner, LeFrak could benefit from opportunity zones](https://www.nbcnews.com/politics/donald-trump/trump-kushner-lefrak-could-potentially-benefit-federal-opportunity-zones-n946821) (Tier 2) (VERIFIED)
+- [CNBC: Peltz, Druckenmiller, Navarro back Tim Scott PACs as DeSantis falters](https://www.cnbc.com/2023/07/31/gop-billionaires-flood-tim-scott-pacs-as-desantis-campaign-stalls.html) (Tier 2) (VERIFIED)
+- [CNN: Deep-pocketed donors give fresh attention to Tim Scott's long-shot presidential bid](https://www.cnn.com/2023/07/13/politics/tim-scott-donors/index.html) (Tier 2) (VERIFIED)
+- [CNN: Tim Scott endorses Trump for 2024 president](https://www.cnn.com/2024/01/19/politics/tim-scott-endorsement-trump/index.html) (Tier 2) (VERIFIED)
+- [PBS News: Sen. Tim Scott drops out of 2024 presidential race](https://www.pbs.org/newshour/politics/sen-tim-scott-drops-out-of-2024-presidential-race-shocking-donors-and-campaign-staff) (Tier 2) (VERIFIED)
+- ~~[The Hill: Tim Scott leaves open door to being Trump's VP](https://thehill.com/homenews/campaign/4420336-tim-scott-leaves-open-door-to-being-trumps-vp/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Boston Review: The False Promise of Opportunity Zones](https://www.bostonreview.net/articles/the-false-promise-of-opportunity-zones/) (Tier 2) (VERIFIED)
+- [Ballotpedia: Tim Scott](https://ballotpedia.org/Tim_Scott) (Tier 3) (VERIFIED)
 
 ### Legislative Activity (Congress.gov)
 <!-- auto:congress-legislation start -->
@@ -216,7 +216,7 @@ The class function Scott performs is unique and cannot be replicated by a white 
 | — |  | — |
 | — |  | — |
 
-- [Source: Congress.gov](https://www.congress.gov/member/S001184) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/S001184)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ## Committee Assignments (Congress.gov)
@@ -229,7 +229,7 @@ The class function Scott performs is unique and cannot be replicated by a white 
 | Total Raised | $1,539 |
 | Cash on Hand | 1209.41 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/P80008063/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/P80008063/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Influence Network (Cross-Reference)
@@ -250,5 +250,5 @@ The class function Scott performs is unique and cannot be replicated by a white 
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Tim Scott](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: Tim Scott](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->

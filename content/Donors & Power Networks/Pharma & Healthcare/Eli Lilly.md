@@ -217,17 +217,17 @@ Lilly's direct PAC spending ($2.4M raised) is dwarfed by the industry's collecti
 
 ### Sources
 
-- [OpenSecrets: Eli Lilly PAC summary, $2.4M raised, 60/40 R/D split (C00082792)](https://www.opensecrets.org/political-action-committees-pacs/eli-lilly-co/C00082792/summary/2024) (Tier 1)
-- [FEC: Eli Lilly PAC committee filings (C00082792)](https://www.fec.gov/data/committee/C00082792/) (Tier 1)
-- [OpenSecrets: Eli Lilly organizational profile, $1.86M contributions, recipients](https://www.opensecrets.org/orgs/eli-lilly-co/summary?id=d000000166) (Tier 1)
-- [Senate LDA Filings: Eli Lilly lobbying profile, $6.7M (2024), $11.2M (2025)](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Senate Finance Committee: Grassley-Wyden insulin investigation, 100,000+ pages of documents (2021)](https://www.finance.senate.gov/chairmans-news/grassley-wyden-release-insulin-investigation-uncovering-business-practices-between-drug-companies-and-pbms-that-keep-prices-high) (Tier 1)
-- [NPR: Eli Lilly cuts insulin price, caps at $35/month (March 2023)](https://www.npr.org/2023/03/01/1160339792/eli-lilly-insulin-price) (Tier 2)
-- [CNBC: Trump announces Eli Lilly, Novo Nordisk deals to cut GLP-1 prices (November 2025)](https://www.cnbc.com/2025/11/06/trump-eli-lilly-novo-nordisk-deal-obesity-drug-prices.html) (Tier 2)
-- [Read Sludge: Pharmaceutical industry on pace for record lobbying spending (2025)](https://readsludge.com/2025/08/29/pharmaceutical-industry-on-pace-for-record-lobbying-spending/) (Tier 2)
-- [Minnesota AG: Eli Lilly insulin settlement, $35/month guaranteed (February 2024)](https://www.ag.state.mn.us/Office/Communications/2024/02/07_EliLilly.asp) (Tier 1)
-- [Eli Lilly: Q4 2025 financial results, $58-61B 2025 guidance](https://investor.lilly.com/news-releases/news-release-details/lilly-reports-fourth-quarter-2025-financial-results-and-provides) (Tier 1)
-- [Ballotpedia: Eli Lilly and Company](https://ballotpedia.org/Eli_Lilly_and_Company) (Tier 3)
+- [OpenSecrets: Eli Lilly PAC summary, $2.4M raised, 60/40 R/D split (C00082792)](https://www.opensecrets.org/political-action-committees-pacs/eli-lilly-co/C00082792/summary/2024) (Tier 1) (VERIFIED)
+- [FEC: Eli Lilly PAC committee filings (C00082792)](https://www.fec.gov/data/committee/C00082792/) (Tier 1) (VERIFIED)
+- [OpenSecrets: Eli Lilly organizational profile, $1.86M contributions, recipients](https://www.opensecrets.org/orgs/eli-lilly-co/summary?id=d000000166) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: Eli Lilly lobbying profile, $6.7M (2024), $11.2M (2025)](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Senate Finance Committee: Grassley-Wyden insulin investigation, 100,000+ pages of documents (2021)](https://www.finance.senate.gov/chairmans-news/grassley-wyden-release-insulin-investigation-uncovering-business-practices-between-drug-companies-and-pbms-that-keep-prices-high) (Tier 1) (VERIFIED)
+- [NPR: Eli Lilly cuts insulin price, caps at $35/month (March 2023)](https://www.npr.org/2023/03/01/1160339792/eli-lilly-insulin-price) (Tier 2) (VERIFIED)
+- [CNBC: Trump announces Eli Lilly, Novo Nordisk deals to cut GLP-1 prices (November 2025)](https://www.cnbc.com/2025/11/06/trump-eli-lilly-novo-nordisk-deal-obesity-drug-prices.html) (Tier 2) (VERIFIED)
+- [Read Sludge: Pharmaceutical industry on pace for record lobbying spending (2025)](https://readsludge.com/2025/08/29/pharmaceutical-industry-on-pace-for-record-lobbying-spending/) (Tier 2) (VERIFIED)
+- [Minnesota AG: Eli Lilly insulin settlement, $35/month guaranteed (February 2024)](https://www.ag.state.mn.us/Office/Communications/2024/02/07_EliLilly.asp) (Tier 1) (VERIFIED)
+- [Eli Lilly: Q4 2025 financial results, $58-61B 2025 guidance](https://investor.lilly.com/news-releases/news-release-details/lilly-reports-fourth-quarter-2025-financial-results-and-provides) (Tier 1) (VERIFIED)
+- [Ballotpedia: Eli Lilly and Company](https://ballotpedia.org/Eli_Lilly_and_Company) (Tier 3) (VERIFIED)
 
 ---
 
@@ -261,7 +261,7 @@ Lilly's direct PAC spending ($2.4M raised) is dwarfed by the industry's collecti
 - RAFFURTY v. NOVO NORDISK A/S (2026) — District Court, E.D. Pennsylvania
 - WAKE v. NOVO NORDISK INC. (2026) — District Court, E.D. Pennsylvania
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Eli%20Lilly%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Eli%20Lilly%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Lobbying Activity
@@ -280,14 +280,14 @@ Lilly's direct PAC spending ($2.4M raised) is dwarfed by the industry's collecti
 
 **Agencies contacted:** Agriculture, Dept of (USDA), Air Force, Dept of, Army, Dept of (Corps of Engineers), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Defense, Dept of (DOD), Education, Dept of, Energy, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP) +22 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Eli%20Lilly) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Eli%20Lilly) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [549300E3ZXGJ1J5DKJ05](https://search.gleif.org/#/record/549300E3ZXGJ1J5DKJ05) |
+| LEI | [549300E3ZXGJ1J5DKJ05](https://search.gleif.org/#/record/549300E3ZXGJ1J5DKJ05) (VERIFIED) |
 | Legal Name | Eli Lilly SA |
 | Jurisdiction | CH |
 | Entity Status | ACTIVE |
@@ -295,7 +295,7 @@ Lilly's direct PAC spending ($2.4M raised) is dwarfed by the industry's collecti
 | Registration | ISSUED |
 | Last Updated | 2025-07-02T15:45:20Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -307,7 +307,7 @@ Lilly's direct PAC spending ($2.4M raised) is dwarfed by the industry's collecti
 | Total Expenses | $26.4M |
 | Net Assets | $6.7M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 356202479](https://projects.propublica.org/nonprofits/organizations/356202479) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 356202479](https://projects.propublica.org/nonprofits/organizations/356202479) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Federal Spending (USASpending)
@@ -326,7 +326,7 @@ Lilly's direct PAC spending ($2.4M raised) is dwarfed by the industry's collecti
 | $1.5B | Department of Defense | LYCOV1404 BEBTELOVIMAB |
 | $230K | Department of Veterans Affairs | AMYVID RADIOPHARMACEUTICAL 10 MCI FLORBETAPIR F-18 INJ,SOLN |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/b620c99d-9b16-86c8-fa2d-2c14d6e69ce9-P/latest) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/b620c99d-9b16-86c8-fa2d-2c14d6e69ce9-P/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -343,7 +343,7 @@ Lilly's direct PAC spending ($2.4M raised) is dwarfed by the industry's collecti
 | Department of Defense | $3.5B |
 | Department of Veterans Affairs | $230K |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### DOJ Press Releases
@@ -360,13 +360,13 @@ Lilly's direct PAC spending ($2.4M raised) is dwarfed by the industry's collecti
 
 **Notable filings:**
 
-- 2026-03-31 — **DFAN14A**: [DFAN14A](https://www.sec.gov/Archives/edgar/data/59478/000119312526133360/0001193125-26-133360-index.htm)
-- 2026-03-26 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/59478/000010290926001113/0000102909-26-001113-index.htm)
-- 2026-03-20 — **DEFA14A**: [DEFA14A](https://www.sec.gov/Archives/edgar/data/59478/000005947826000031/0000059478-26-000031-index.htm)
-- 2026-03-20 — **DEF 14A**: [DEF 14A](https://www.sec.gov/Archives/edgar/data/59478/000005947826000029/0000059478-26-000029-index.htm)
-- 2026-03-17 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/59478/000126238826000006/0001262388-26-000006-index.htm)
+- 2026-03-31 — **DFAN14A**: [DFAN14A](https://www.sec.gov/Archives/edgar/data/59478/000119312526133360/0001193125-26-133360-index.htm) (VERIFIED)
+- 2026-03-26 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/59478/000010290926001113/0000102909-26-001113-index.htm) (VERIFIED)
+- 2026-03-20 — **DEFA14A**: [DEFA14A](https://www.sec.gov/Archives/edgar/data/59478/000005947826000031/0000059478-26-000031-index.htm) (VERIFIED)
+- 2026-03-20 — **DEF 14A**: [DEF 14A](https://www.sec.gov/Archives/edgar/data/59478/000005947826000029/0000059478-26-000029-index.htm) (VERIFIED)
+- 2026-03-17 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/59478/000126238826000006/0001262388-26-000006-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Eli%20Lilly%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Eli%20Lilly%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### FTC Enforcement & Merger Review
@@ -383,19 +383,19 @@ Lilly's direct PAC spending ($2.4M raised) is dwarfed by the industry's collecti
 
 **Recent enforcement actions (historical):**
 
-- [Eli Lilly/Novartis AG](http://www.ftc.gov/enforcement/cases-proceedings/141-0142/eli-lilly-company-novartis-ag-matter) (2014-12-22) — Health Care � Prescription Drugs
+- [Eli Lilly/Novartis AG](http://www.ftc.gov/enforcement/cases-proceedings/141-0142/eli-lilly-company-novartis-ag-matter) (NEEDS REVIEW) (2014-12-22) — Health Care � Prescription Drugs
 
 **Recent HSR merger filings (early terminations granted):**
 
-- [Eli Lilly and Company → CSL Limited](https://www.ftc.gov/legal-library/browse/early-termination-notices/20261058) (2026-04-02)
-- [Eli Lilly and Company → InSilico Medicine Cayman TopCo](https://www.ftc.gov/legal-library/browse/early-termination-notices/20261000) (2026-03-26)
-- [Eli Lilly and Company → Innovent Biologics, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20260933) (2026-03-23)
-- [Eli Lilly and Company → Ventyx Biosciences, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20260767) (2026-02-11)
-- [Eli Lilly and Company → ABL Bio Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20260440) (2025-12-19)
+- [Eli Lilly and Company → CSL Limited](https://www.ftc.gov/legal-library/browse/early-termination-notices/20261058) (VERIFIED) (2026-04-02)
+- [Eli Lilly and Company → InSilico Medicine Cayman TopCo](https://www.ftc.gov/legal-library/browse/early-termination-notices/20261000) (VERIFIED) (2026-03-26)
+- [Eli Lilly and Company → Innovent Biologics, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20260933) (VERIFIED) (2026-03-23)
+- [Eli Lilly and Company → Ventyx Biosciences, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20260767) (VERIFIED) (2026-02-11)
+- [Eli Lilly and Company → ABL Bio Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20260440) (VERIFIED) (2025-12-19)
 
-> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Eli%20Lilly).
+> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Eli%20Lilly) (VERIFIED).
 
-- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Eli%20Lilly) (Tier 1)
+- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Eli%20Lilly) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->
 
 ### FDA Enforcement (openFDA)
@@ -425,7 +425,7 @@ Lilly's direct PAC spending ($2.4M raised) is dwarfed by the industry's collecti
 
 _Variant firm names in FDA data: Eli Lilly & Company; Eli Lilly & Co_
 
-- [Source: openFDA / FDA Enforcement Reports](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?search_api_fulltext=Eli%20Lilly) (Tier 1)
+- [Source: openFDA / FDA Enforcement Reports](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?search_api_fulltext=Eli%20Lilly) (Tier 1) (VERIFIED)
 <!-- auto:fda-enforcement end -->
 
 ### Vehicle Safety (NHTSA)
@@ -443,5 +443,5 @@ _Variant firm names in FDA data: Eli Lilly & Company; Eli Lilly & Co_
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Eli%20Lilly) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Eli%20Lilly) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->

@@ -94,9 +94,9 @@ Alito also claimed he was "unaware" of Singer's connection to the cases when NML
 
 ### Sources
 
-- [ProPublica. Alito Took Unreported Luxury Trip With GOP Donor Paul Singer (June 20 2023)](https://www.propublica.org/article/samuel-alito-luxury-fishing-trip-paul-singer-scotus-supreme-court) (Tier 2)
-- [PBS News. Supreme Court Justice Alito Faces Scrutiny Over Undisclosed Luxury Trip From GOP Donor](https://www.pbs.org/newshour/show/supreme-court-justice-alito-faces-scrutiny-over-undisclosed-luxury-trip-from-gop-donor) (Tier 2)
-- [True North Research. Five Facts About Rob Arkley, Funder of Luxury Travel for Supreme Court Justices](https://truenorthresearch.org/2023/11/five-facts-about-rob-arkley-funder-of-luxury-travel-for-supreme-court-justices-and-groups-packing-the-court/) (Tier 2)
-- [Lost Coast Outpost. Key Senators Announce Intention to Subpoena Rob Arkley in Supreme Court Ethics Probe (October 2023)](https://lostcoastoutpost.com/2023/oct/31/key-senators-announce-intention-subpoena-rob-arkle/) (Tier 2)
-- [Senator Sheldon Whitehouse. Statement on ProPublica Report on Justice Alito's Free Alaskan Fishing Trip](https://www.whitehouse.senate.gov/news/release/whitehouse-statement-on-explosive-propublica-report-on-justice-alitos-free-alaskan-fishing-trip-planned-by-leonard-leo-and-paid-for-by-billionaires/) (Tier 1)
-- [ABA Journal. Alito Uses Op Ed Page to Defend Undisclosed Free Alaska Trip on Private Jet](https://www.abajournal.com/news/article/alito-defends-failure-to-disclose-free-alaska-trip-on-private-jet-on-op-ed-page) (Tier 2)
+- [ProPublica. Alito Took Unreported Luxury Trip With GOP Donor Paul Singer (June 20 2023)](https://www.propublica.org/article/samuel-alito-luxury-fishing-trip-paul-singer-scotus-supreme-court) (Tier 2) (VERIFIED)
+- [PBS News. Supreme Court Justice Alito Faces Scrutiny Over Undisclosed Luxury Trip From GOP Donor](https://www.pbs.org/newshour/show/supreme-court-justice-alito-faces-scrutiny-over-undisclosed-luxury-trip-from-gop-donor) (Tier 2) (VERIFIED)
+- [True North Research. Five Facts About Rob Arkley, Funder of Luxury Travel for Supreme Court Justices](https://truenorthresearch.org/2023/11/five-facts-about-rob-arkley-funder-of-luxury-travel-for-supreme-court-justices-and-groups-packing-the-court/) (Tier 2) (VERIFIED)
+- [Lost Coast Outpost. Key Senators Announce Intention to Subpoena Rob Arkley in Supreme Court Ethics Probe (October 2023)](https://lostcoastoutpost.com/2023/oct/31/key-senators-announce-intention-subpoena-rob-arkle/) (Tier 2) (VERIFIED)
+- [Senator Sheldon Whitehouse. Statement on ProPublica Report on Justice Alito's Free Alaskan Fishing Trip](https://www.whitehouse.senate.gov/news/release/whitehouse-statement-on-explosive-propublica-report-on-justice-alitos-free-alaskan-fishing-trip-planned-by-leonard-leo-and-paid-for-by-billionaires/) (Tier 1) (VERIFIED)
+- [ABA Journal. Alito Uses Op Ed Page to Defend Undisclosed Free Alaska Trip on Private Jet](https://www.abajournal.com/news/article/alito-defends-failure-to-disclose-free-alaska-trip-on-private-jet-on-op-ed-page) (Tier 2) (VERIFIED)

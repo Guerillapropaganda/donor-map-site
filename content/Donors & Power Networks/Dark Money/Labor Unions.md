@@ -60,14 +60,14 @@ Labor unions are the largest institutional donor bloc in the Democratic coalitio
 | Total Expenses | $3.1M |
 | Net Assets | $57.0M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 936032678](https://projects.propublica.org/nonprofits/organizations/936032678) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 936032678](https://projects.propublica.org/nonprofits/organizations/936032678) (Tier 1) (VERIFIED)
 
 <!-- auto:propublica-990 end -->
 
 ### Sources
 
-- [FEC Receipts: Labor sector contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- [Ballotpedia: Labor union political spending](https://ballotpedia.org/Labor_Unions) (Tier 3)
+- [FEC Receipts: Labor sector contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
+- [Ballotpedia: Labor union political spending](https://ballotpedia.org/Labor_Unions) (Tier 3) (VERIFIED)
 
 ---
 
@@ -96,7 +96,7 @@ Labor unions are the largest institutional donor bloc in the Democratic coalitio
 |-----------|--------|-------|
 | FRANK KRATOVIL FOR CONGRESS | $500 | NNE |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Labor%20Unions) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Labor%20Unions) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### Federal Court Records (CourtListener)
@@ -115,5 +115,5 @@ Labor unions are the largest institutional donor bloc in the Democratic coalitio
 - Sierra Club, et al. v. United States Department of Energy, et al. (2026) — Court of Appeals for the Ninth Circuit
 - Martin Luther King, Jr. County v. DOT (2026) — Court of Appeals for the D.C. Circuit
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Labor%20Unions%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Labor%20Unions%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->

@@ -46,7 +46,7 @@ The Cigna Group (formerly Cigna Corporation). A global health services company w
 
 Cigna PAC contributes $1.5-2 million per cycle and the company spends $8-10 million annually on lobbying. CEO David Cordani's compensation exceeded $30 million in 2024.
 
-- [OpenSecrets: Cigna Group organizational profile](https://www.opensecrets.org/orgs/cigna-group/summary?id=D000025719) (Tier 1)
+- [OpenSecrets: Cigna Group organizational profile](https://www.opensecrets.org/orgs/cigna-group/summary?id=D000025719) (Tier 1) (VERIFIED)
 
 ---
 
@@ -86,10 +86,10 @@ Cigna/Express Scripts represents the intermediary extraction layer in American h
 ### Sources
 
 - [OpenSecrets: Cigna Group organizational profile](https://www.opensecrets.org/orgs/cigna-group/summary?id=D000025719) (Tier 1)
-- [OpenSecrets: Cigna Group lobbying expenditures](https://www.opensecrets.org/orgs/cigna-group/lobbying?id=D000025719) (Tier 1)
-- [FTC: PBM market concentration study](https://www.ftc.gov/reports/pharmacy-benefit-managers-report) (Tier 1)
-- [ProPublica: Why Do Americans Pay More for Prescription Drugs?](https://www.propublica.org/article/why-americans-pay-more-for-prescription-drugs) (Tier 2)
-- [Ballotpedia: Cigna political spending](https://ballotpedia.org/The_Cigna_Group) (Tier 3)
+- [OpenSecrets: Cigna Group lobbying expenditures](https://www.opensecrets.org/orgs/cigna-group/lobbying?id=D000025719) (Tier 1) (VERIFIED)
+- [FTC: PBM market concentration study](https://www.ftc.gov/reports/pharmacy-benefit-managers-report) (Tier 1) (VERIFIED)
+- [ProPublica: Why Do Americans Pay More for Prescription Drugs?](https://www.propublica.org/article/why-americans-pay-more-for-prescription-drugs) (Tier 2) (VERIFIED)
+- [Ballotpedia: Cigna political spending](https://ballotpedia.org/The_Cigna_Group) (Tier 3) (VERIFIED)
 
 ---
 
@@ -114,16 +114,16 @@ Cigna/Express Scripts represents the intermediary extraction layer in American h
 | Agencies | Federal Trade Commission |
 
 **Recent regulatory activity:**
-- [Express Scripts, Inc., et al.; Analysis of Agreement Containing Consent Order To Aid Public Comment](https://www.federalregister.gov/documents/2026/02/12/2026-02844/express-scripts-inc-et-al-analysis-of-agreement-containing-consent-order-to-aid-public-comment) (2026-02-12) — Federal Trade Commission
+- [Express Scripts, Inc., et al.; Analysis of Agreement Containing Consent Order To Aid Public Comment](https://www.federalregister.gov/documents/2026/02/12/2026-02844/express-scripts-inc-et-al-analysis-of-agreement-containing-consent-order-to-aid-public-comment) (VERIFIED) (2026-02-12) — Federal Trade Commission
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Cigna%20Group%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Cigna%20Group%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [549300VIWYMSIGT1U456](https://search.gleif.org/#/record/549300VIWYMSIGT1U456) |
+| LEI | [549300VIWYMSIGT1U456](https://search.gleif.org/#/record/549300VIWYMSIGT1U456) (VERIFIED) |
 | Legal Name | THE CIGNA GROUP |
 | Jurisdiction | US-DE |
 | Entity Status | ACTIVE |
@@ -131,7 +131,7 @@ Cigna/Express Scripts represents the intermediary extraction layer in American h
 | Registration | ISSUED |
 | Last Updated | 2025-10-08T18:43:17Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Vehicle Safety (NHTSA)
@@ -149,7 +149,7 @@ Cigna/Express Scripts represents the intermediary extraction layer in American h
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Cigna%20Group) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Cigna%20Group) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Federal Court Records (CourtListener)
@@ -168,7 +168,7 @@ Cigna/Express Scripts represents the intermediary extraction layer in American h
 - Florida Spine and Orthopedics, Inc. v. Multiplan, Inc. (2026) — District Court, N.D. Illinois
 - Columna, Inc. v. Multiplan, Inc. (2026) — District Court, N.D. Illinois
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Cigna%20Group%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Cigna%20Group%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### SEC Filing Activity
@@ -182,13 +182,13 @@ Cigna/Express Scripts represents the intermediary extraction layer in American h
 
 **Notable filings:**
 
-- 2026-04-03 — **3**: [FORM 3](https://www.sec.gov/Archives/edgar/data/1739940/000173994026000025/0001739940-26-000025-index.htm)
-- 2026-03-26 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/1739940/000010290926000482/0000102909-26-000482-index.htm)
-- 2026-03-13 — **ARS**: [ARS](https://www.sec.gov/Archives/edgar/data/1739940/000114036126009402/0001140361-26-009402-index.htm)
-- 2026-03-13 — **DEFA14A**: [DEFA14A](https://www.sec.gov/Archives/edgar/data/1739940/000114036126009400/0001140361-26-009400-index.htm)
-- 2026-03-13 — **DEF 14A**: [DEF 14A](https://www.sec.gov/Archives/edgar/data/1739940/000173994026000023/0001739940-26-000023-index.htm)
+- 2026-04-03 — **3**: [FORM 3](https://www.sec.gov/Archives/edgar/data/1739940/000173994026000025/0001739940-26-000025-index.htm) (VERIFIED)
+- 2026-03-26 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/1739940/000010290926000482/0000102909-26-000482-index.htm) (VERIFIED)
+- 2026-03-13 — **ARS**: [ARS](https://www.sec.gov/Archives/edgar/data/1739940/000114036126009402/0001140361-26-009402-index.htm) (VERIFIED)
+- 2026-03-13 — **DEFA14A**: [DEFA14A](https://www.sec.gov/Archives/edgar/data/1739940/000114036126009400/0001140361-26-009400-index.htm) (VERIFIED)
+- 2026-03-13 — **DEF 14A**: [DEF 14A](https://www.sec.gov/Archives/edgar/data/1739940/000173994026000023/0001739940-26-000023-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Cigna%20Group%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Cigna%20Group%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Lobbying Activity
@@ -207,5 +207,5 @@ Cigna/Express Scripts represents the intermediary extraction layer in American h
 
 **Agencies contacted:** Centers For Medicare and Medicaid Services (CMS), Executive Office of the President (EOP), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), SENATE
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Cigna%20Group) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Cigna%20Group) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->

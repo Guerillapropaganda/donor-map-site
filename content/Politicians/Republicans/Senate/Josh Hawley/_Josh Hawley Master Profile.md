@@ -134,11 +134,11 @@ The household economics complete the picture. Josh Hawley's wife Erin Hawley is 
 
 ## Sources
 
-- [FEC Candidate: Hawley career donors, 2018 outside spending, 2024 cycle](https://www.fec.gov/data/candidate/S8MO00160/) (Tier 1)
-- [Salon/Detroit News: post-J6 fundraising boom](https://www.salon.com/2021/03/18/josh-hawley-marjorie-taylor-greene-report-record-donations-as-gop-sees-post-riot-financial-boom/) (Tier 2)
-- [STLPR: 2018 outside money analysis](https://www.stlpr.org/2019-04-17/dark-money-groups-spent-millions-to-influence-missouri-voters-report-finds) (Tier 2)
-- [Missouri Independent: out-of-state donor analysis](https://missouriindependent.com/2023/10/23/hawley-kunce-draw-heavily-on-donors-outside-missouri-to-fuel-u-s-senate-campaigns/) (Tier 2)
-- [The Hill/CNN: corporate PAC pledge analysis](https://thehill.com/homenews/senate/4288563-hawley-mcconnell-battle-gut-citizens-united-ruling/) (Tier 2)
+- [FEC Candidate: Hawley career donors, 2018 outside spending, 2024 cycle](https://www.fec.gov/data/candidate/S8MO00160/) (Tier 1) (VERIFIED)
+- [Salon/Detroit News: post-J6 fundraising boom](https://www.salon.com/2021/03/18/josh-hawley-marjorie-taylor-greene-report-record-donations-as-gop-sees-post-riot-financial-boom/) (Tier 2) (VERIFIED)
+- [STLPR: 2018 outside money analysis](https://www.stlpr.org/2019-04-17/dark-money-groups-spent-millions-to-influence-missouri-voters-report-finds) (Tier 2) (VERIFIED)
+- [Missouri Independent: out-of-state donor analysis](https://missouriindependent.com/2023/10/23/hawley-kunce-draw-heavily-on-donors-outside-missouri-to-fuel-u-s-senate-campaigns/) (Tier 2) (VERIFIED)
+- ~~[The Hill/CNN: corporate PAC pledge analysis](https://thehill.com/homenews/senate/4288563-hawley-mcconnell-battle-gut-citizens-united-ruling/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -170,7 +170,7 @@ The household economics complete the picture. Josh Hawley's wife Erin Hawley is 
 | MAJORITY FORWARD | $0 | $6,433,695 |
 | PATRIOTS PREVAIL PAC | $0 | $540,000 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S8MO00160/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S8MO00160/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Committee Assignments (Congress.gov)
@@ -199,7 +199,7 @@ The household economics complete the picture. Josh Hawley's wife Erin Hawley is 
 | 1905-02-28 | TO SUSTAIN THE DECISION OF THE CHAIR DURING CONSIDERATION OF H.R. 17474, WHICH D… | Not Voting | unknown |
 | 1905-02-27 | TO DECIDE THE GUILT OR INNOCENCE OF CHARLES SWAYNE, U.S. DISTRICT COURT JUDGE IN… | Not Voting | unknown |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/405245) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/405245) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
 
 ### Influence Network (Cross-Reference)

@@ -108,21 +108,21 @@ The COVID defiance functioned as a political brand-building operation:
 ---
 
 ### Sources
-- [KESQ — Bianco accuses Newsom of dictatorial attitude](https://kesq.com/news/2020/12/04/sheriff-bianco-gov-newsom-dictatorial-department-wont-be-bullied-into-enforcing-orders/) (Tier 2)
-- [Police1 — national attention for refusal](https://www.police1.com/coronavirus-covid-19/articles/video-of-calif-sheriff-chad-biancos-refusal-to-enforce-covid-orders-gets-national-attention-2hmkNIYo1AbIkuGM/) (Tier 2)
-- [FOX 11 LA — Bianco blasts Newsom](https://www.foxla.com/news/riverside-county-sheriff-bianco-blasts-newsom-says-department-wont-enforce-lockdown-orders) (Tier 3)
-- [Press Enterprise — Bianco COVID positive](https://www.pressenterprise.com/2021/01/27/riverside-county-sheriff-chad-bianco-tests-positive-for-coronavirus-says-symptoms-are-mild/) (Tier 2)
-- [ABC7 — vaccine mandate refusal](https://abc7.com/post/riverside-county-sheriffs-department-chad-bianco-vaccination-mandate/11019950/) (Tier 2)
-- [KTLA — last line of defense statement](https://ktla.com/news/local-news/riverside-county-sheriff-says-he-wont-impose-vaccine-mandates/) (Tier 2)
-- [LAist — AG Bonta response, Oath Keepers connection](https://laist.com/news/criminal-justice/riverside-sheriff-bianco-once-was-an-oath-keeper-defends-the-extremist-group) (Tier 2)
-- [KESQ — COVID third leading cause of death Riverside County](https://kesq.com/news/coronavirus/2020/10/27/covid-19-is-the-third-leading-cause-of-death-in-riverside-county-in-2020/) (Tier 2)
-- [CalMatters — California COVID death patterns](https://calmatters.org/health/coronavirus/2021/09/covid-california-deaths/) (Tier 2)
-- [ABC10 — 13 agencies refusing curfew](https://www.abc10.com/article/news/health/coronavirus/eleven-law-enforcement-agencies-that-refuse-to-enforce-california-curfew-and-why/103-148e02b7-45fd-449b-a995-e251de5793b8) (Tier 2)
+- [KESQ — Bianco accuses Newsom of dictatorial attitude](https://kesq.com/news/2020/12/04/sheriff-bianco-gov-newsom-dictatorial-department-wont-be-bullied-into-enforcing-orders/) (Tier 2) (VERIFIED)
+- [Police1 — national attention for refusal](https://www.police1.com/coronavirus-covid-19/articles/video-of-calif-sheriff-chad-biancos-refusal-to-enforce-covid-orders-gets-national-attention-2hmkNIYo1AbIkuGM/) (Tier 2) (VERIFIED)
+- [FOX 11 LA — Bianco blasts Newsom](https://www.foxla.com/news/riverside-county-sheriff-bianco-blasts-newsom-says-department-wont-enforce-lockdown-orders) (Tier 3) (VERIFIED)
+- [Press Enterprise — Bianco COVID positive](https://www.pressenterprise.com/2021/01/27/riverside-county-sheriff-chad-bianco-tests-positive-for-coronavirus-says-symptoms-are-mild/) (Tier 2) (VERIFIED)
+- [ABC7 — vaccine mandate refusal](https://abc7.com/post/riverside-county-sheriffs-department-chad-bianco-vaccination-mandate/11019950/) (Tier 2) (VERIFIED)
+- ~~[KTLA — last line of defense statement](https://ktla.com/news/local-news/riverside-county-sheriff-says-he-wont-impose-vaccine-mandates/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [LAist — AG Bonta response, Oath Keepers connection](https://laist.com/news/criminal-justice/riverside-sheriff-bianco-once-was-an-oath-keeper-defends-the-extremist-group) (Tier 2) (NEEDS REVIEW)
+- [KESQ — COVID third leading cause of death Riverside County](https://kesq.com/news/coronavirus/2020/10/27/covid-19-is-the-third-leading-cause-of-death-in-riverside-county-in-2020/) (Tier 2) (VERIFIED)
+- [CalMatters — California COVID death patterns](https://calmatters.org/health/coronavirus/2021/09/covid-california-deaths/) (Tier 2) (VERIFIED)
+- [ABC10 — 13 agencies refusing curfew](https://www.abc10.com/article/news/health/coronavirus/eleven-law-enforcement-agencies-that-refuse-to-enforce-california-curfew-and-why/103-148e02b7-45fd-449b-a995-e251de5793b8) (Tier 2) (VERIFIED)
 
 
 ### Voting Record
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: COVID Mandate Refusal - The Brand-Building Moment](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: COVID Mandate Refusal - The Brand-Building Moment](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->

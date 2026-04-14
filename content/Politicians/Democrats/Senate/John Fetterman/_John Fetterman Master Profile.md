@@ -191,23 +191,23 @@ The Pennsylvania context matters: a $500K net-worth senator in a swing state is 
 > [!money] The crossover pattern tracks the donor shift
 > Fetterman's Republican donor pipeline — at least 14 registered GOP donors since October 2023, plus significant PAC contributions — correlates with increasing crossover votes on Trump nominees and Israel-related policies. The Mullin vote demonstrates that the donor realignment has moved beyond Israel into broader establishment alignment.
 
-- [CNN: Fetterman explains Mullin crossover vote](https://www.cnn.com/2026/03/19/politics/john-fetterman-mullin-dhs-vote) (Tier 2)
-- [NBC News: Senate confirms Mullin as DHS Secretary](https://www.nbcnews.com/politics/trump-administration/senate-confirms-markwayne-mullin-dhs-secretary-replacing-kristi-noem-rcna264329) (Tier 2)
-- [Pittsburgh Post-Gazette: Fetterman PACs get assist from GOP donors](https://www.post-gazette.com/news/politics-local/2026/02/08/fetterman-gop-donors-pacs/stories/202602050112) (Tier 2)
+- [CNN: Fetterman explains Mullin crossover vote](https://www.cnn.com/2026/03/19/politics/john-fetterman-mullin-dhs-vote) (Tier 2) (VERIFIED)
+- [NBC News: Senate confirms Mullin as DHS Secretary](https://www.nbcnews.com/politics/trump-administration/senate-confirms-markwayne-mullin-dhs-secretary-replacing-kristi-noem-rcna264329) (Tier 2) (VERIFIED)
+- [Pittsburgh Post-Gazette: Fetterman PACs get assist from GOP donors](https://www.post-gazette.com/news/politics-local/2026/02/08/fetterman-gop-donors-pacs/stories/202602050112) (Tier 2) (VERIFIED)
 
 ---
 
 ## Sources
 
-- [FEC Candidate: John Fetterman Campaign Finance Summary](https://www.fec.gov/data/candidate/S6PA00274/) (Tier 1)
-- [FEC: John Fetterman Candidate Profile](https://www.fec.gov/data/candidate/S6PA00274/) (Tier 1)
-- [The Intercept: Since October, Sen. John Fetterman Has Been Building a Roster of Republican Donors](https://theintercept.com/2024/04/19/john-fetterman-israel-gop-donors/) (Tier 2)
-- [The Nation: Senator John Fetterman Is a Progressive Icon, a Republican Hate Figure—and a Pro-Israel Pinup](https://www.thenation.com/article/politics/fetterman-israel-palestine-progressives/) (Tier 2)
-- [Pittsburgh Post-Gazette: Sen. John Fetterman sparks a backlash with staunch support for Israel](https://www.post-gazette.com/news/politics-nation/2023/11/03/john-fetterman-israel-hamas-progressives/stories/202311050075) (Tier 2)
-- [Algemeiner: Fetterman Hosts AIPAC, Bondi Survivor in DC Office](https://www.algemeiner.com/2026/02/26/fetterman-hosts-aipac-bondi-survivor-dc-office/) (Tier 2)
-- [AIPAC Tracker on X: Fetterman AIPAC donations ($250,000)](https://x.com/TrackAIPAC/status/1775962933354512886?lang=en) (Tier 3)
-- [Pennsylvania Capital-Star: What we say when we talk about Fetterman's hoodie](https://penncapital-star.com/commentary/what-we-say-and-what-we-mean-when-we-talk-about-fettermans-hoodie-heather-macdonald-pennsylvania-capital-star/) *(source unavailable)* (Tier 2)
-- [Common Dreams: Pennsylvania's Fetterman Brings in Bernie-esque Grassroots Fundraising Haul](https://www.commondreams.org/news/2022/01/05/pennsylvanias-fetterman-brings-bernie-esque-grassroots-fundraising-haul-us-senate) (Tier 2)
+- [FEC Candidate: John Fetterman Campaign Finance Summary](https://www.fec.gov/data/candidate/S6PA00274/) (Tier 1) (VERIFIED)
+- [FEC: John Fetterman Candidate Profile](https://www.fec.gov/data/candidate/S6PA00274/) (Tier 1) (VERIFIED)
+- [The Intercept: Since October, Sen. John Fetterman Has Been Building a Roster of Republican Donors](https://theintercept.com/2024/04/19/john-fetterman-israel-gop-donors/) (Tier 2) (VERIFIED)
+- [The Nation: Senator John Fetterman Is a Progressive Icon, a Republican Hate Figure—and a Pro-Israel Pinup](https://www.thenation.com/article/politics/fetterman-israel-palestine-progressives/) (Tier 2) (VERIFIED)
+- [Pittsburgh Post-Gazette: Sen. John Fetterman sparks a backlash with staunch support for Israel](https://www.post-gazette.com/news/politics-nation/2023/11/03/john-fetterman-israel-hamas-progressives/stories/202311050075) (Tier 2) (VERIFIED)
+- [Algemeiner: Fetterman Hosts AIPAC, Bondi Survivor in DC Office](https://www.algemeiner.com/2026/02/26/fetterman-hosts-aipac-bondi-survivor-dc-office/) (Tier 2) (VERIFIED)
+- [AIPAC Tracker on X: Fetterman AIPAC donations ($250,000)](https://x.com/TrackAIPAC/status/1775962933354512886?lang=en) (Tier 3) (VERIFIED)
+- ~~[Pennsylvania Capital-Star: What we say when we talk about Fetterman's hoodie](https://penncapital-star.com/commentary/what-we-say-and-what-we-mean-when-we-talk-about-fettermans-hoodie-heather-macdonald-pennsylvania-capital-star/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+- [Common Dreams: Pennsylvania's Fetterman Brings in Bernie-esque Grassroots Fundraising Haul](https://www.commondreams.org/news/2022/01/05/pennsylvanias-fetterman-brings-bernie-esque-grassroots-fundraising-haul-us-senate) (Tier 2) (VERIFIED)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -239,7 +239,7 @@ The Pennsylvania context matters: a $500K net-worth senator in a swing state is 
 | NRSC | $0 | $6,691,948 |
 | MAKE AMERICA GREAT AGAIN INC. | $0 | $6,652,742 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6PA00274/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6PA00274/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (GovTrack)
@@ -258,7 +258,7 @@ The Pennsylvania context matters: a $500K net-worth senator in a swing state is 
 - S. 3733: A bill to amend the Passport Act of June 4, 1920, to authorize certain public libraries to collect and retain a fee for  — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 29, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 - S. 3660: Credit Card Fairness Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 15, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456877) (Tier 1)
+- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/456877)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:govtrack end -->
 
 ## Voting Record
@@ -283,7 +283,7 @@ The Pennsylvania context matters: a $500K net-worth senator in a swing state is 
 
 **Sources**
 
-- [GovTrack: John Fetterman](https://www.govtrack.us/congress/members/456877) (Tier 1)
+- ~~[GovTrack: John Fetterman](https://www.govtrack.us/congress/members/456877)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-11 -->
@@ -310,7 +310,7 @@ The Pennsylvania context matters: a $500K net-worth senator in a swing state is 
 
 **Sources**
 
-- [Congress.gov: John Fetterman](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: John Fetterman](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [GovTrack: John Fetterman](https://www.govtrack.us/congress/members/456877) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->

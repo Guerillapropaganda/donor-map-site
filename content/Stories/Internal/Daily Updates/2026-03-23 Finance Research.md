@@ -28,9 +28,9 @@ This represents Fairshake's first significant 2026 loss and challenges the 91% w
 
 *Updated:* [[Fairshake PAC]], [[Think Big AI]]
 
-- [Fortune: AI and Crypto spent nearly $20M to reshape Illinois, they mostly lost](https://fortune.com/2026/03/18/ai-crypto-illinois-primary-spending-fairshake-think-big-pac/) (Tier 2)
-- [Chicago Sun-Times: Super PAC scorecard](https://chicago.suntimes.com/elections/2026/03/18/illinois-primary-super-pac-spending-aipac-cryptocurrency-ai-sports-betting) (Tier 2)
-- [The American Prospect: Special-Interest Super PACs Underperform in Illinois](https://prospect.org/2026/03/18/special-interest-super-pacs-underperform-illinois-democratic-primary-stratton-biss-miller-bean-ford/) (Tier 2)
+- [Fortune: AI and Crypto spent nearly $20M to reshape Illinois, they mostly lost](https://fortune.com/2026/03/18/ai-crypto-illinois-primary-spending-fairshake-think-big-pac/) (Tier 2) (VERIFIED)
+- [Chicago Sun-Times: Super PAC scorecard](https://chicago.suntimes.com/elections/2026/03/18/illinois-primary-super-pac-spending-aipac-cryptocurrency-ai-sports-betting) (Tier 2) (VERIFIED)
+- [The American Prospect: Special-Interest Super PACs Underperform in Illinois](https://prospect.org/2026/03/18/special-interest-super-pacs-underperform-illinois-democratic-primary-stratton-biss-miller-bean-ford/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -41,9 +41,9 @@ This is the first organized counter-spending operation specifically designed to 
 
 *Updated:* [[United Democracy Project - UDP]]
 
-- [NBC News: New super PAC launches to counter AIPAC spending](https://www.nbcnews.com/politics/2026-election/new-super-pac-launches-counter-aipac-spending-democratic-primaries-rcna259448) (Tier 2)
-- [Semafor: The anti-AIPAC PAC talks about its 2026 strategy](https://www.semafor.com/article/03/11/2026/the-anti-aipac-pac-talks-about-its-2026-strategy) (Tier 2)
-- [The American Prospect: Pro-Palestine Super PAC Brings Multimillion-Dollar War Chest to Midterms](https://prospect.org/2026/02/20/pro-palestine-super-pac-midterm-elections-aipac-israel-gaza/) (Tier 2)
+- [NBC News: New super PAC launches to counter AIPAC spending](https://www.nbcnews.com/politics/2026-election/new-super-pac-launches-counter-aipac-spending-democratic-primaries-rcna259448) (Tier 2) (VERIFIED)
+- [Semafor: The anti-AIPAC PAC talks about its 2026 strategy](https://www.semafor.com/article/03/11/2026/the-anti-aipac-pac-talks-about-its-2026-strategy) (Tier 2) (VERIFIED)
+- [The American Prospect: Pro-Palestine Super PAC Brings Multimillion-Dollar War Chest to Midterms](https://prospect.org/2026/02/20/pro-palestine-super-pac-midterm-elections-aipac-israel-gaza/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -54,8 +54,8 @@ After announcing plans to step back from political spending post-2024, Musk has 
 
 *Updated:* [[Elon Musk]], [[Senate Leadership Fund]], [[Congressional Leadership Fund]]
 
-- [The Hill: Elon Musk's robust donations may aid GOP in 2026 midterms](https://thehill.com/policy/technology/5727198-musk-political-fray-big-2026-midterm-donations/) (Tier 2)
-- [Axios: Musk shocks with $10M donation in Ky. Senate race](https://www.axios.com/2026/01/19/elon-musk-10-million-campaign-donation-kentucky) (Tier 2)
+- ~~[The Hill: Elon Musk's robust donations may aid GOP in 2026 midterms](https://thehill.com/policy/technology/5727198-musk-political-fray-big-2026-midterm-donations/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Axios: Musk shocks with $10M donation in Ky. Senate race](https://www.axios.com/2026/01/19/elon-musk-10-million-campaign-donation-kentucky)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ---
 
@@ -74,7 +74,7 @@ Political strategists warn most candidates aren't raising money quickly enough t
 
 *Updated:* [[_Katie Porter Master Profile]], [[Steve Hilton]]
 
-- [CalMatters: Republican Steve Hilton is winning the California governor fundraising race](https://calmatters.org/category/politics/2026/02/governors-race-fundraising-reports/) (Tier 2)
+- ~~[CalMatters: Republican Steve Hilton is winning the California governor fundraising race](https://calmatters.org/category/politics/2026/02/governors-race-fundraising-reports/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ---
 
@@ -83,7 +83,7 @@ EXPOSEDbyCMD (February 2026) reported that Club for Growth Action raised **$15.8
 
 *Updated:* [[Club for Growth]], [[Jeff Yass]]
 
-- [EXPOSEDbyCMD: Major right-wing super PACs disclose recent contributions and endorsements](https://www.exposedbycmd.org/2026/02/18/major-right-wing-super-pacs-disclose-recent-contributions-and-endorsements/) (Tier 2)
+- ~~[EXPOSEDbyCMD: Major right-wing super PACs disclose recent contributions and endorsements](https://www.exposedbycmd.org/2026/02/18/major-right-wing-super-pacs-disclose-recent-contributions-and-endorsements/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ---
 
@@ -92,7 +92,7 @@ Updated UDP financial data: raised $61M+ in the second half of 2025 alone, endin
 
 *Updated:* [[United Democracy Project - UDP]], [[Paul Singer]]
 
-- [NBC News: AI, crypto and Trump super PACs stash millions to spend on midterms](https://www.nbcnews.com/politics/2026-election/ai-crypto-trump-super-pacs-stash-millions-spend-midterms-rcna256622) (Tier 2)
+- [NBC News: AI, crypto and Trump super PACs stash millions to spend on midterms](https://www.nbcnews.com/politics/2026-election/ai-crypto-trump-super-pacs-stash-millions-spend-midterms-rcna256622) (Tier 2) (VERIFIED)
 
 ---
 
@@ -100,7 +100,7 @@ Updated UDP financial data: raised $61M+ in the second half of 2025 alone, endin
 
 OpenSecrets projects **$10.8 billion** in total political advertising spending for the 2026 cycle, 20%+ higher than 2022. Senate spending projected at **$2.8 billion** (beating the 2024 record), House spending at **$2.2 billion** (crossing $2B for the first time). Total national outside spending has already exceeded **$225 million**, the most ever at this point in any cycle, and $75M+ more than 2024's record pace.
 
-- [OpenSecrets: Political ad spending projected to reach new high in 2026 midterms](https://www.opensecrets.org/news/2026/01/political-ad-spending-is-projected-to-reach-a-new-high-in-2026-midterms/) (Tier 1)
+- [OpenSecrets: Political ad spending projected to reach new high in 2026 midterms](https://www.opensecrets.org/news/2026/01/political-ad-spending-is-projected-to-reach-a-new-high-in-2026-midterms/) (Tier 1) (VERIFIED)
 
 ---
 

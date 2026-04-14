@@ -70,10 +70,10 @@ The surveillance expansion serves the defense contractor and tech donor class di
 
 ### Sources
 
-- [NPR. House votes to renew FISA spying tool after earlier Republican revolt (April 2024)](https://www.npr.org/2024/04/20/1246076114/senate-passes-reauthorization-surveillance-program-fisa) (Tier 2)
-- [CNN. Classified hearing erupted in frustration as officials refused to say whether Trump wants to renew FISA (February 2026)](https://www.cnn.com/2026/02/09/politics/fisa-section-702-renewal-classified-hearing-frustration) (Tier 2)
-- [The Intercept. Controversial Warrantless Spying Law Expiring Soon and Trump Officials Are Silent On It (January 2026)](https://theintercept.com/2026/01/29/nsa-702-fisa-surveillance/) (Tier 2)
-- [CBS News. House approves bill renewing FISA spy program (April 2024)](https://www.cbsnews.com/news/fisa-reauthorization-house-vote-section-702/) (Tier 3)
+- [NPR. House votes to renew FISA spying tool after earlier Republican revolt (April 2024)](https://www.npr.org/2024/04/20/1246076114/senate-passes-reauthorization-surveillance-program-fisa) (Tier 2) (VERIFIED)
+- [CNN. Classified hearing erupted in frustration as officials refused to say whether Trump wants to renew FISA (February 2026)](https://www.cnn.com/2026/02/09/politics/fisa-section-702-renewal-classified-hearing-frustration) (Tier 2) (VERIFIED)
+- [The Intercept. Controversial Warrantless Spying Law Expiring Soon and Trump Officials Are Silent On It (January 2026)](https://theintercept.com/2026/01/29/nsa-702-fisa-surveillance/) (Tier 2) (VERIFIED)
+- [CBS News. House approves bill renewing FISA spy program (April 2024)](https://www.cbsnews.com/news/fisa-reauthorization-house-vote-section-702/) (Tier 3) (VERIFIED)
 
 ### Legislative Activity (Congress.gov)
 

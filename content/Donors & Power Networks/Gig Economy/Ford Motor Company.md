@@ -88,9 +88,9 @@ The class function is straightforward: Ford converts public money into private r
 
 ### Sources
 
-- [OpenSecrets: Ford Motor Company PAC and lobbying](https://www.opensecrets.org/orgs/ford-motor-co/summary?id=D000000093) (Tier 1)
-- [DOE: Loan Programs Office - Ford](https://www.energy.gov/EDF) (Tier 1)
-- [Ballotpedia: Auto industry political spending](https://ballotpedia.org/Ford_Motor_Company) (Tier 3)
+- [OpenSecrets: Ford Motor Company PAC and lobbying](https://www.opensecrets.org/orgs/ford-motor-co/summary?id=D000000093) (Tier 1) (VERIFIED)
+- [DOE: Loan Programs Office - Ford](https://www.energy.gov/EDF) (Tier 1) (VERIFIED)
+- [Ballotpedia: Auto industry political spending](https://ballotpedia.org/Ford_Motor_Company) (Tier 3) (VERIFIED)
 
 ---
 
@@ -118,7 +118,7 @@ The class function is straightforward: Ford converts public money into private r
 | Net Assets | $243K |
 | Officer Compensation | $43K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 386054714](https://projects.propublica.org/nonprofits/organizations/386054714) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 386054714](https://projects.propublica.org/nonprofits/organizations/386054714) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Federal Court Records (CourtListener)
@@ -137,7 +137,7 @@ The class function is straightforward: Ford converts public money into private r
 - Jerry Lee Kline v. Ford Motor Company (2026) — District Court, C.D. California
 - Grillo v. Ford Motor Company (2026) — District Court, N.D. California
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Ford%20Motor%20Company%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Ford%20Motor%20Company%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Vehicle Safety (NHTSA)
@@ -155,7 +155,7 @@ The class function is straightforward: Ford converts public money into private r
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Ford%20Motor%20Company) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Ford%20Motor%20Company) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 <!-- auto:nhtsa-recalls pending-merge 2026-04-11 -->
@@ -173,12 +173,12 @@ The class function is straightforward: Ford converts public money into private r
 
 **Recent recalls:**
 
-- [26V205000: Incorrectly Installed Piston Circlips](https://www.nhtsa.gov/recalls?nhtsaId=26V205000) (2026-03-31)
-- [26V204000: Windshield Wipers May Fail](https://www.nhtsa.gov/recalls?nhtsaId=26V204000) (2026-03-31)
-- [26V202000: Inoperative Defrosting and Defogging System](https://www.nhtsa.gov/recalls?nhtsaId=26V202000) (2026-03-31)
-- [26V201000: Front Passenger Air Bag May Not Deploy/FMVSS 208](https://www.nhtsa.gov/recalls?nhtsaId=26V201000) (2026-03-31)
-- [26V165000: Loss of Rearview Camera Image and ADAS Features](https://www.nhtsa.gov/recalls?nhtsaId=26V165000) (2026-03-19)
-- [26V159000: Improperly Secured Seat Belt Anchors](https://www.nhtsa.gov/recalls?nhtsaId=26V159000) (2026-03-17)
+- [26V205000: Incorrectly Installed Piston Circlips](https://www.nhtsa.gov/recalls?nhtsaId=26V205000) (VERIFIED) (2026-03-31)
+- [26V204000: Windshield Wipers May Fail](https://www.nhtsa.gov/recalls?nhtsaId=26V204000) (VERIFIED) (2026-03-31)
+- [26V202000: Inoperative Defrosting and Defogging System](https://www.nhtsa.gov/recalls?nhtsaId=26V202000) (VERIFIED) (2026-03-31)
+- [26V201000: Front Passenger Air Bag May Not Deploy/FMVSS 208](https://www.nhtsa.gov/recalls?nhtsaId=26V201000) (VERIFIED) (2026-03-31)
+- [26V165000: Loss of Rearview Camera Image and ADAS Features](https://www.nhtsa.gov/recalls?nhtsaId=26V165000) (VERIFIED) (2026-03-19)
+- [26V159000: Improperly Secured Seat Belt Anchors](https://www.nhtsa.gov/recalls?nhtsaId=26V159000) (VERIFIED) (2026-03-17)
 - ... and 494 more
 
 **Active/recent investigations:**
@@ -203,14 +203,14 @@ The class function is straightforward: Ford converts public money into private r
 **Filing history:** 2016, 2015, 2014, 2013, 2012, 2011
 
 **View 990 filings:**
-- [2016 Filing](https://projects.propublica.org/nonprofits/organizations/386054714/2016)
-- [2015 Filing](https://projects.propublica.org/nonprofits/organizations/386054714/2015)
-- [2014 Filing](https://projects.propublica.org/nonprofits/organizations/386054714/2014)
-- [2013 Filing](https://projects.propublica.org/nonprofits/organizations/386054714/2013)
-- [2012 Filing](https://projects.propublica.org/nonprofits/organizations/386054714/2012)
+- ~~[2016 Filing](https://projects.propublica.org/nonprofits/organizations/386054714/2016)~~ (URL broken, archived by Ops)
+- ~~[2015 Filing](https://projects.propublica.org/nonprofits/organizations/386054714/2015)~~ (URL broken, archived by Ops)
+- ~~[2014 Filing](https://projects.propublica.org/nonprofits/organizations/386054714/2014)~~ (URL broken, archived by Ops)
+- ~~[2013 Filing](https://projects.propublica.org/nonprofits/organizations/386054714/2013)~~ (URL broken, archived by Ops)
+- ~~[2012 Filing](https://projects.propublica.org/nonprofits/organizations/386054714/2012)~~ (URL broken, archived by Ops)
 - ... and 1 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/386054714) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/386054714) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -257,14 +257,14 @@ The class function is straightforward: Ford converts public money into private r
 | Passenger Car Leasing (532112) | $38K |
 | General Automotive Repair (811111) | $36K |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [20S05OYHG0MQM4VUIC57](https://search.gleif.org/#/record/20S05OYHG0MQM4VUIC57) |
+| LEI | [20S05OYHG0MQM4VUIC57](https://search.gleif.org/#/record/20S05OYHG0MQM4VUIC57) (VERIFIED) |
 | Legal Name | FORD MOTOR COMPANY |
 | Jurisdiction | US-DE |
 | Entity Status | ACTIVE |
@@ -272,7 +272,7 @@ The class function is straightforward: Ford converts public money into private r
 | Registration | ISSUED |
 | Last Updated | 2025-05-09T16:37:00Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Federal Register Activity
@@ -286,15 +286,15 @@ The class function is straightforward: Ford converts public money into private r
 | Agencies | Antitrust Division, Federal Communications Commission, Justice Department, National Highway Traffic Safety Administration, Pipeline and Hazardous Materials Safety Administration, Transportation Department |
 
 **Recent regulatory activity:**
-- [Notice of Lodging of Proposed Consent Decree Under the Comprehensive Environmental Response, Compensation, and Liability Act](https://www.federalregister.gov/documents/2026/03/26/2026-05897/notice-of-lodging-of-proposed-consent-decree-under-the-comprehensive-environmental-response) (2026-03-26) — Justice Department
-- [Ford Motor Company, Receipt of Petition for Decision of Inconsequential Noncompliance](https://www.federalregister.gov/documents/2025/12/16/2025-22847/ford-motor-company-receipt-of-petition-for-decision-of-inconsequential-noncompliance) (2025-12-16) — Transportation Department
-- [The Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule III for Model Years 2022 to 2031 Passenger Cars and Light Trucks](https://www.federalregister.gov/documents/2025/12/05/2025-22014/the-safer-affordable-fuel-efficient-safe-vehicles-rule-iii-for-model-years-2022-to-2031-passenger) (2025-12-05) — Transportation Department ★
-- [Ford Motor Company, Receipt of Petition for Decision of Inconsequential Noncompliance](https://www.federalregister.gov/documents/2025/11/28/2025-21530/ford-motor-company-receipt-of-petition-for-decision-of-inconsequential-noncompliance) (2025-11-28) — Transportation Department
-- [Ford Motor Company, Receipt of Petition for Decision of Inconsequential Noncompliance](https://www.federalregister.gov/documents/2025/07/31/2025-14475/ford-motor-company-receipt-of-petition-for-decision-of-inconsequential-noncompliance) (2025-07-31) — Transportation Department
-- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Electrified Vehicle and Energy Storage Evaluation-II](https://www.federalregister.gov/documents/2025/06/13/2025-10774/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-electrified-vehicle) (2025-06-13) — Justice Department
+- [Notice of Lodging of Proposed Consent Decree Under the Comprehensive Environmental Response, Compensation, and Liability Act](https://www.federalregister.gov/documents/2026/03/26/2026-05897/notice-of-lodging-of-proposed-consent-decree-under-the-comprehensive-environmental-response) (VERIFIED) (2026-03-26) — Justice Department
+- [Ford Motor Company, Receipt of Petition for Decision of Inconsequential Noncompliance](https://www.federalregister.gov/documents/2025/12/16/2025-22847/ford-motor-company-receipt-of-petition-for-decision-of-inconsequential-noncompliance) (VERIFIED) (2025-12-16) — Transportation Department
+- [The Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule III for Model Years 2022 to 2031 Passenger Cars and Light Trucks](https://www.federalregister.gov/documents/2025/12/05/2025-22014/the-safer-affordable-fuel-efficient-safe-vehicles-rule-iii-for-model-years-2022-to-2031-passenger) (VERIFIED) (2025-12-05) — Transportation Department ★
+- [Ford Motor Company, Receipt of Petition for Decision of Inconsequential Noncompliance](https://www.federalregister.gov/documents/2025/11/28/2025-21530/ford-motor-company-receipt-of-petition-for-decision-of-inconsequential-noncompliance) (VERIFIED) (2025-11-28) — Transportation Department
+- [Ford Motor Company, Receipt of Petition for Decision of Inconsequential Noncompliance](https://www.federalregister.gov/documents/2025/07/31/2025-14475/ford-motor-company-receipt-of-petition-for-decision-of-inconsequential-noncompliance) (VERIFIED) (2025-07-31) — Transportation Department
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Electrified Vehicle and Energy Storage Evaluation-II](https://www.federalregister.gov/documents/2025/06/13/2025-10774/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-electrified-vehicle) (VERIFIED) (2025-06-13) — Justice Department
 - ... and 914 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Ford%20Motor%20Company%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Ford%20Motor%20Company%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Federal Spending (USASpending)
@@ -326,5 +326,5 @@ The class function is straightforward: Ford converts public money into private r
 | $1.6M | Department of Energy | DE-EE0008464: USING REAL TIME MASS TRANSIT IN FIRST LAST MILE SOLUTION: NEW AWARD |
 | $1.5M | Department of Energy | CARBON CAPTURE TO REACH CARBON NEUTRAL VEHICLES: CO2-DERIVED PLATFORM MOLECULES FOR POLYURETHANE FOA |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/1aaf04d1-c14b-54ee-4f16-a62964267244-P/latest) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/1aaf04d1-c14b-54ee-4f16-a62964267244-P/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->

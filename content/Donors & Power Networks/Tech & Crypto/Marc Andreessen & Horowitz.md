@@ -267,20 +267,20 @@ Marc Andreessen and a16z represent **venture capital as political infrastructure
 
 ### Sources
 
-- [FEC Individual Contributions: Marc Andreessen (441 results, 2019-2026)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=marc+andreessen&min_date=01%2F01%2F2019&max_date=12%2F31%2F2026) (Tier 1)
-- [White House: President Trump Announces Appointments to PCAST (Mar 25, 2026)](https://www.whitehouse.gov/releases/2026/03/president-trump-announces-appointments-to-presidents-council-of-advisors-on-science-and-technology/) (Tier 1)
-- [a16z: The Techno-Optimist Manifesto (Oct 2023)](https://a16z.com/the-techno-optimist-manifesto/) (Tier 1)
-- [OpenSecrets: Fairshake PAC Summary 2024](https://www.opensecrets.org/political-action-committees-pacs/fairshake-pac/C00835959/summary/2024) (Tier 1)
-- [FEC Independent Expenditures: Marc Andreessen Donor Detail 2024](https://www.fec.gov/data/independent-expenditures/) (Tier 1)
-- [OpenSecrets: Andreessen Horowitz Organization Summary](https://www.opensecrets.org/orgs/andreessen-horowitz/summary?id=D000047147) (Tier 1)
-- [Bloomberg: Trump's AI Policy Shaped by VC Tech Giant Andreessen Horowitz (Feb 2026)](https://www.bloomberg.com/news/features/2026-02-10/trump-s-ai-policy-shaped-by-vc-tech-giant-andreessen-horowitz) (Tier 2)
-- [ProPublica: Marc Andreessen Trump CFPB Impact](https://www.propublica.org/article/trump-cfpb-marc-andreessen-silicon-valley) (Tier 2)
-- [CNBC: AI Industry Super PAC Raises $125 Million in 2025 (Jan 30, 2026)](https://www.cnbc.com/2026/01/30/ai-industry-super-pac-raises-campaign-money.html) (Tier 2)
-- [NOTUS: AI Industry Super PAC Enters Midterm Elections With $70 Million War Chest](https://www.notus.org/money/ai-super-pac-fundraising-midterms-democrats-republicans) (Tier 2)
-- [Fortune: OpenAI's President and Andreessen Horowitz Leading $100M Pro-AI Push (Aug 2025)](https://fortune.com/2025/08/26/openai-president-greg-brockman-andreessen-horowitz-super-pac-ai-pro-innovation/) (Tier 2)
-- [Fortune: Marc Andreessen Spending Half His Time With Trump in Florida (Dec 2024)](https://fortune.com/2024/12/11/marc-andreessen-half-time-florida-trump-business-policies/) (Tier 2)
-- [TechCrunch: a16z Spends $1.49M in Washington Lobbying (Aug 2025)](https://techcrunch.com/2025/08/25/a16z-spends-1-49m-in-washington-lobbying-while-rivals-mostly-sit-out/) (Tier 2)
-- [Rolling Stone: AI Industry Uses Cryptocurrency Model to Influence 2026 Midterms](https://www.rollingstone.com/politics/politics-features/ai-industry-cryptocurrency-model-influence-2026-midterms-1235475232/) (Tier 2)
+- [FEC Individual Contributions: Marc Andreessen (441 results, 2019-2026)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=marc+andreessen&min_date=01%2F01%2F2019&max_date=12%2F31%2F2026) (Tier 1) (VERIFIED)
+- [White House: President Trump Announces Appointments to PCAST (Mar 25, 2026)](https://www.whitehouse.gov/releases/2026/03/president-trump-announces-appointments-to-presidents-council-of-advisors-on-science-and-technology/) (Tier 1) (VERIFIED)
+- [a16z: The Techno-Optimist Manifesto (Oct 2023)](https://a16z.com/the-techno-optimist-manifesto/) (Tier 1) (VERIFIED)
+- [OpenSecrets: Fairshake PAC Summary 2024](https://www.opensecrets.org/political-action-committees-pacs/fairshake-pac/C00835959/summary/2024) (Tier 1) (VERIFIED)
+- [FEC Independent Expenditures: Marc Andreessen Donor Detail 2024](https://www.fec.gov/data/independent-expenditures/) (Tier 1) (NEEDS REVIEW)
+- [OpenSecrets: Andreessen Horowitz Organization Summary](https://www.opensecrets.org/orgs/andreessen-horowitz/summary?id=D000047147) (Tier 1) (VERIFIED)
+- ~~[Bloomberg: Trump's AI Policy Shaped by VC Tech Giant Andreessen Horowitz (Feb 2026)](https://www.bloomberg.com/news/features/2026-02-10/trump-s-ai-policy-shaped-by-vc-tech-giant-andreessen-horowitz)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [ProPublica: Marc Andreessen Trump CFPB Impact](https://www.propublica.org/article/trump-cfpb-marc-andreessen-silicon-valley) (Tier 2) (VERIFIED)
+- [CNBC: AI Industry Super PAC Raises $125 Million in 2025 (Jan 30, 2026)](https://www.cnbc.com/2026/01/30/ai-industry-super-pac-raises-campaign-money.html) (Tier 2) (VERIFIED)
+- [NOTUS: AI Industry Super PAC Enters Midterm Elections With $70 Million War Chest](https://www.notus.org/money/ai-super-pac-fundraising-midterms-democrats-republicans) (Tier 2) (VERIFIED)
+- [Fortune: OpenAI's President and Andreessen Horowitz Leading $100M Pro-AI Push (Aug 2025)](https://fortune.com/2025/08/26/openai-president-greg-brockman-andreessen-horowitz-super-pac-ai-pro-innovation/) (Tier 2) (VERIFIED)
+- [Fortune: Marc Andreessen Spending Half His Time With Trump in Florida (Dec 2024)](https://fortune.com/2024/12/11/marc-andreessen-half-time-florida-trump-business-policies/) (Tier 2) (VERIFIED)
+- [TechCrunch: a16z Spends $1.49M in Washington Lobbying (Aug 2025)](https://techcrunch.com/2025/08/25/a16z-spends-1-49m-in-washington-lobbying-while-rivals-mostly-sit-out/) (Tier 2) (VERIFIED)
+- [Rolling Stone: AI Industry Uses Cryptocurrency Model to Influence 2026 Midterms](https://www.rollingstone.com/politics/politics-features/ai-industry-cryptocurrency-model-influence-2026-midterms-1235475232/) (Tier 2) (VERIFIED)
 
 ---
 

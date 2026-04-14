@@ -51,13 +51,13 @@ known-gaps:
 - DOGE as policy instrument
 
 ### Sources (Chrome-verified 2026-03-27):
-- [Washington Post: Elon Musk's business empire is built on $38 billion in government funding](https://www.washingtonpost.com/technology/interactive/2025/elon-musk-business-government-contracts-funding/) (Tier 2)
-- [CNN Business: Musk's Starlink gets FAA contract, raising new conflict of interest concerns](https://www.cnn.com/2025/02/25/business/musk-faa-starlink-contract) (Tier 2)
-- [Broadband Breakfast: Starlink and DOGE: The $42 Billion Conflict of Interest in Rural Broadband](https://broadbandbreakfast.com/starlink-and-doge-the-42-billion-conflict-of-interest-in-rural-broadband/) (Tier 3)
-- [Campaign Legal Center: Is Musk Using the FAA to Benefit Himself and His SpaceX Subsidiary, Starlink?](https://campaignlegal.org/update/musk-using-faa-benefit-himself-and-his-spacex-subsidiary-starlink) (Tier 2)
-- [Fortune: The person ruling on Elon Musk's DOGE conflicts of interest is..Elon Musk](https://fortune.com/2025/02/06/elon-musk-conflicts-interest-doge-tesla-spacex/) (Tier 2)
-- [Yahoo Finance: As DOGE slashes budgets, FAA close to canceling $2.4b contract with Verizon and giving it to Musk's Starlink](https://finance.yahoo.com/news/doge-slashes-budgets-faa-close-162656428.html) (Tier 3)
-- [EPI: Trump is enabling Musk and DOGE to flout conflicts of interest](https://www.epi.org/publication/trump-is-enabling-musk-and-doge-to-flout-conflicts-of-interest-what-is-the-potential-cost-to-u-s-families/) (Tier 2)
+- ~~[Washington Post: Elon Musk's business empire is built on $38 billion in government funding](https://www.washingtonpost.com/technology/interactive/2025/elon-musk-business-government-contracts-funding/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [CNN Business: Musk's Starlink gets FAA contract, raising new conflict of interest concerns](https://www.cnn.com/2025/02/25/business/musk-faa-starlink-contract) (Tier 2) (VERIFIED)
+- [Broadband Breakfast: Starlink and DOGE: The $42 Billion Conflict of Interest in Rural Broadband](https://broadbandbreakfast.com/starlink-and-doge-the-42-billion-conflict-of-interest-in-rural-broadband/) (Tier 3) (VERIFIED)
+- [Campaign Legal Center: Is Musk Using the FAA to Benefit Himself and His SpaceX Subsidiary, Starlink?](https://campaignlegal.org/update/musk-using-faa-benefit-himself-and-his-spacex-subsidiary-starlink) (Tier 2) (VERIFIED)
+- [Fortune: The person ruling on Elon Musk's DOGE conflicts of interest is..Elon Musk](https://fortune.com/2025/02/06/elon-musk-conflicts-interest-doge-tesla-spacex/) (Tier 2) (VERIFIED)
+- [Yahoo Finance: As DOGE slashes budgets, FAA close to canceling $2.4b contract with Verizon and giving it to Musk's Starlink](https://finance.yahoo.com/news/doge-slashes-budgets-faa-close-162656428.html) (Tier 3) (VERIFIED)
+- [EPI: Trump is enabling Musk and DOGE to flout conflicts of interest](https://www.epi.org/publication/trump-is-enabling-musk-and-doge-to-flout-conflicts-of-interest-what-is-the-potential-cost-to-u-s-families/) (Tier 2) (VERIFIED)
 
 ### Story angles:
 1. The FAA Verizon→Starlink near-replacement as the cleanest quid pro quo (budget cut competitor → sole-source replacement by self-owned company)
@@ -96,12 +96,12 @@ known-gaps:
 - Trump Master Profile (if built)
 
 ### Sources (verified 2026-03-27 via WebFetch/WebSearch. Chrome unavailable):
-- [CREW: White House ballroom donations should be disclosed on lobbying disclosure reports](https://www.citizensforethics.org/reports-investigations/crew-investigations/white-house-ballroom-donations-should-be-disclosed-on-lobbying-disclosure-reports/) (Tier 2)
-- [Washington Post: Trump White House ballroom's private funding in question over legality](https://www.washingtonpost.com/politics/2026/02/09/trump-ballroom-judge-ruling/) (Tier 2)
-- [Warren Senate: Trust for the National Mall Reveals New Details About Trump Ballroom Payments](https://www.warren.senate.gov/newsroom/press-releases/in-response-to-warren-and-democratic-senators-trust-for-the-national-mall-reveals-new-details-about-trump-ballroom-payments-potential-for-corruption-and-secret-quid-pro-quo-deals) (Tier 1)
-- [CREW: 20 White House cabinet members have directed at least $30 million to benefit Trump](https://www.citizensforethics.org/reports-investigations/crew-investigations/20-white-house-cabinet-members-have-directed-at-least-30-million-to-benefit-trump/) (Tier 2)
-- [Campaign Legal Center: Exposing President Trump's Pay-to-Play Administration](https://campaignlegal.org/exposing-president-trumps-pay-to-play-administration) (Tier 2)
-- [Senate EPW Minority: Senate Democrats Probe "Pay-to-Play Corruption" Behind Trump's Privately Funded White House Ballroom](https://www.epw.senate.gov/public/public/index.cfm/press-releases-democratic?ID=0645B6F7-8B1A-4831-8E23-ABF90E0A57A2) (Tier 1)
+- [CREW: White House ballroom donations should be disclosed on lobbying disclosure reports](https://www.citizensforethics.org/reports-investigations/crew-investigations/white-house-ballroom-donations-should-be-disclosed-on-lobbying-disclosure-reports/) (Tier 2) (VERIFIED)
+- [Washington Post: Trump White House ballroom's private funding in question over legality](https://www.washingtonpost.com/politics/2026/02/09/trump-ballroom-judge-ruling/) (Tier 2) (VERIFIED)
+- [Warren Senate: Trust for the National Mall Reveals New Details About Trump Ballroom Payments](https://www.warren.senate.gov/newsroom/press-releases/in-response-to-warren-and-democratic-senators-trust-for-the-national-mall-reveals-new-details-about-trump-ballroom-payments-potential-for-corruption-and-secret-quid-pro-quo-deals) (Tier 1) (VERIFIED)
+- [CREW: 20 White House cabinet members have directed at least $30 million to benefit Trump](https://www.citizensforethics.org/reports-investigations/crew-investigations/20-white-house-cabinet-members-have-directed-at-least-30-million-to-benefit-trump/) (Tier 2) (VERIFIED)
+- [Campaign Legal Center: Exposing President Trump's Pay-to-Play Administration](https://campaignlegal.org/exposing-president-trumps-pay-to-play-administration) (Tier 2) (VERIFIED)
+- [Senate EPW Minority: Senate Democrats Probe "Pay-to-Play Corruption" Behind Trump's Privately Funded White House Ballroom](https://www.epw.senate.gov/public/public/index.cfm/press-releases-democratic?ID=0645B6F7-8B1A-4831-8E23-ABF90E0A57A2) (Tier 1) (NEEDS REVIEW)
 
 ### Story angles:
 1. Cross-map each confirmed donor against their active regulatory/contract need before the administration, the explicit quid-pro-quo matrix
@@ -136,12 +136,12 @@ known-gaps:
 - Labor donor section (inverted, who benefits when labor protections are stripped)
 
 ### Sources (partial verification 2026-03-27 via WebFetch/WebSearch. Chrome unavailable):
-- [Capital & Main: Trump's Biggest Inaugural Donor Benefits from Policy Changes That Raise Worker Safety Concerns](https://capitalandmain.com/trumps-biggest-inaugural-donor-benefits-from-policy-changes-that-raise-worker-safety-concerns) (Tier 2)
-- [Colorado Newsline: Trump's biggest inaugural donor benefits from policy changes](https://coloradonewsline.com/2026/01/15/trump-donor-benefits-from-policy-changes/) (Tier 2)
-- [Warren Senate: Warren Pushes Giant Meat Processor Pilgrim's Pride on Potential Corruption](https://www.warren.senate.gov/newsroom/press-releases/warren-pushes-giant-meat-processor-pilgrims-pride-largest-donor-to-the-trump-vance-inaugural-committee-on-potential-corruption) (Tier 1)
-- [NOTUS: This Chicken Company Paid Over $100 Million in Fines for Fixing Prices, Then Gave $5 Million to Trump's Inauguration](https://www.notus.org/donald-trump/inauguration-fundraising-pilgrims-pride) (Tier 2)
-- [OpenSecrets: Trump's 2025 Inauguration Donors](https://www.opensecrets.org/trump/2025-inauguration-donors) (Tier 1)
-- [Brennan Center: Million-Dollar Donors Flooded Trump's Second Inauguration](https://www.brennancenter.org/our-work/research-reports/million-dollar-donors-flooded-trumps-second-inauguration) (Tier 2)
+- [Capital & Main: Trump's Biggest Inaugural Donor Benefits from Policy Changes That Raise Worker Safety Concerns](https://capitalandmain.com/trumps-biggest-inaugural-donor-benefits-from-policy-changes-that-raise-worker-safety-concerns) (Tier 2) (VERIFIED)
+- [Colorado Newsline: Trump's biggest inaugural donor benefits from policy changes](https://coloradonewsline.com/2026/01/15/trump-donor-benefits-from-policy-changes/) (Tier 2) (VERIFIED)
+- [Warren Senate: Warren Pushes Giant Meat Processor Pilgrim's Pride on Potential Corruption](https://www.warren.senate.gov/newsroom/press-releases/warren-pushes-giant-meat-processor-pilgrims-pride-largest-donor-to-the-trump-vance-inaugural-committee-on-potential-corruption) (Tier 1) (VERIFIED)
+- [NOTUS: This Chicken Company Paid Over $100 Million in Fines for Fixing Prices, Then Gave $5 Million to Trump's Inauguration](https://www.notus.org/donald-trump/inauguration-fundraising-pilgrims-pride) (Tier 2) (VERIFIED)
+- [OpenSecrets: Trump's 2025 Inauguration Donors](https://www.opensecrets.org/trump/2025-inauguration-donors) (Tier 1) (VERIFIED)
+- [Brennan Center: Million-Dollar Donors Flooded Trump's Second Inauguration](https://www.brennancenter.org/our-work/research-reports/million-dollar-donors-flooded-trumps-second-inauguration) (Tier 2) (VERIFIED)
 
 ### Story angles:
 1. The cleanest dollar-for-policy timeline in the second Trump term: $5M in, two regulatory gifts out within 90 days
@@ -169,9 +169,9 @@ known-gaps:
 - Trump Master Profile (if built)
 
 ### Sources (verified 2026-03-27 via WebFetch/WebSearch. Chrome unavailable):
-- [ProPublica: Politically Connected Firms Benefit From Trump Tariff Exemptions Amid Secrecy, Confusion](https://www.propublica.org/article/trump-tariffs-exemptions-pet-lobbyists-asbestos-confusion-secrecy) (Tier 2)
-- [NPR: Trump grants tariff breaks to 'politically connected' companies, Senate Dems say](https://www.npr.org/2026/02/04/nx-s1-5698264/trump-wyden-van-hollen-tariffs-politically-connected-companies) (Tier 2)
-- [Tax Foundation: Tariff Tracker, 2026 Trump Tariffs & Trade War by the Numbers](https://taxfoundation.org/research/all/federal/trump-tariffs-trade-war/) (Tier 3)
+- [ProPublica: Politically Connected Firms Benefit From Trump Tariff Exemptions Amid Secrecy, Confusion](https://www.propublica.org/article/trump-tariffs-exemptions-pet-lobbyists-asbestos-confusion-secrecy) (Tier 2) (VERIFIED)
+- [NPR: Trump grants tariff breaks to 'politically connected' companies, Senate Dems say](https://www.npr.org/2026/02/04/nx-s1-5698264/trump-wyden-van-hollen-tariffs-politically-connected-companies) (Tier 2) (VERIFIED)
+- [Tax Foundation: Tariff Tracker, 2026 Trump Tariffs & Trade War by the Numbers](https://taxfoundation.org/research/all/federal/trump-tariffs-trade-war/) (Tier 3) (VERIFIED)
 
 ### Story angles:
 1. Build the semiconductor exemption window (March 2026) into a predictive analysis: which semiconductor-adjacent donors are positioned to receive exemptions, and what have they given?
@@ -201,12 +201,12 @@ known-gaps:
 - Trump Master Profile (if built)
 
 ### Sources (Chrome-verified 2026-03-27):
-- [Campaign Legal Center: The Impact of Big Money and Secret Spending on Trump's Second Inauguration](https://campaignlegal.org/update/impact-big-money-and-secret-spending-trumps-second-inauguration) (Tier 2)
+- [Campaign Legal Center: The Impact of Big Money and Secret Spending on Trump's Second Inauguration](https://campaignlegal.org/update/impact-big-money-and-secret-spending-trumps-second-inauguration) (Tier 2) (VERIFIED)
 - [Brennan Center: Million-Dollar Donors Flooded Trump's Second Inauguration](https://www.brennancenter.org/our-work/research-reports/million-dollar-donors-flooded-trumps-second-inauguration) (Tier 2)
-- [Americans for Financial Reform: Trump Administration Lets Loose the Dogs of Crypto](https://ourfinancialsecurity.org/news/blog-trump-administration-lets-loose-the-dogs-of-crypto/) (Tier 2)
-- [The Block: Crypto regulation in 2026: SEC's ambitious agenda meets a more empowered CFTC](https://www.theblock.co/post/383241/crypto-regulation-2026-sec-ambitious-agenda-empowered-cftc) (Tier 3) (UNVERIFIED. Chrome safety block prevents verification)
-- [CryptoSlate: The Trump administration's deregulation of crypto enforcement](https://cryptoslate.com/market-reports/the-trump-administrations-deregulation-of-crypto-enforcement/) (Tier 3)
-- [SEC: Crypto Regulation in the Time of Trump](https://www.sec.gov/files/070925-crypto-time-trump.pdf) (Tier 1)
+- [Americans for Financial Reform: Trump Administration Lets Loose the Dogs of Crypto](https://ourfinancialsecurity.org/news/blog-trump-administration-lets-loose-the-dogs-of-crypto/) (Tier 2) (VERIFIED)
+- [The Block: Crypto regulation in 2026: SEC's ambitious agenda meets a more empowered CFTC](https://www.theblock.co/post/383241/crypto-regulation-2026-sec-ambitious-agenda-empowered-cftc) (Tier 3) (VERIFIED) (UNVERIFIED. Chrome safety block prevents verification)
+- [CryptoSlate: The Trump administration's deregulation of crypto enforcement](https://cryptoslate.com/market-reports/the-trump-administrations-deregulation-of-crypto-enforcement/) (Tier 3) (VERIFIED)
+- [SEC: Crypto Regulation in the Time of Trump](https://www.sec.gov/files/070925-crypto-time-trump.pdf) (Tier 1) (VERIFIED)
 
 ### Story angles:
 1. Identify the 5-10 largest specific crypto inaugural donors and map their company's pending SEC enforcement actions or regulatory asks against the specific reliefs they received
@@ -227,8 +227,8 @@ known-gaps:
 - Healthcare / Pharma donor section
 
 ### Sources (Chrome-verified 2026-03-27):
-- [CNN: Senators' stock trades directly overlapped with their committee work](https://edition.cnn.com/2026/02/09/politics/senator-stock-trading-congress) (Tier 2)
-- [Tlaib.house.gov: Tlaib Introduces Bill to Ban Members of Congress from Owning Defense Stocks](https://tlaib.house.gov/posts/tlaib-introduces-bill-to-ban-members-of-congress-from-owning-defense-stocks) (Tier 1)
+- [CNN: Senators' stock trades directly overlapped with their committee work](https://edition.cnn.com/2026/02/09/politics/senator-stock-trading-congress) (Tier 2) (VERIFIED)
+- [Tlaib.house.gov: Tlaib Introduces Bill to Ban Members of Congress from Owning Defense Stocks](https://tlaib.house.gov/posts/tlaib-introduces-bill-to-ban-members-of-congress-from-owning-defense-stocks) (Tier 1) (VERIFIED)
 
 ### Story angles:
 1. For the Rashida Tlaib profile: her defense stock ban bill as a vault-trackable accountability action
@@ -249,9 +249,9 @@ known-gaps:
 - Trump Master Profile (if built)
 
 ### Sources (Chrome-verified 2026-03-27):
-- [Newsweek: Pharma PAC That Donated to Trump Breaks With Him Over Executive Order](https://www.newsweek.com/pharma-pac-donald-trump-drug-prices-executive-order-2071218) (Tier 2)
-- [NPR: Trump struck deals with 16 drug companies. But they're still raising prices this year](https://www.npr.org/2026/01/16/nx-s1-5678915/trumprx-pharma-drug-price-deals-list-prices) (Tier 2)
-- [KFF: Developments in Prescription Drug Pricing under the Second Trump Administration](https://www.kff.org/event/developments-in-prescription-drug-pricing-under-the-second-trump-administration/) (Tier 2)
+- [Newsweek: Pharma PAC That Donated to Trump Breaks With Him Over Executive Order](https://www.newsweek.com/pharma-pac-donald-trump-drug-prices-executive-order-2071218) (Tier 2) (VERIFIED)
+- [NPR: Trump struck deals with 16 drug companies. But they're still raising prices this year](https://www.npr.org/2026/01/16/nx-s1-5678915/trumprx-pharma-drug-price-deals-list-prices) (Tier 2) (VERIFIED)
+- [KFF: Developments in Prescription Drug Pricing under the Second Trump Administration](https://www.kff.org/event/developments-in-prescription-drug-pricing-under-the-second-trump-administration/) (Tier 2) (VERIFIED)
 
 ### Story angles:
 1. The MFN deal structure as a case study in how Trump extracts political optics while protecting donor interests through the backdoor (tariff exemptions)
@@ -273,8 +273,8 @@ known-gaps:
 - Trump Master Profile (if built)
 
 ### Sources (Chrome-verified 2026-03-27):
-- [CNN Politics: Trump threatens defense contractors with restrictions while promising sharp increase in spending](https://www.cnn.com/2026/01/07/politics/trump-defense-budget-contractor-restrictions) (Tier 2)
-- [Breaking Defense: 'BEWARE': Trump order demands some defense firms halt paying dividends, buying back stock](https://breakingdefense.com/2026/01/trump-warns-defense-ceos-to-beware-of-coming-limits-on-share-buybacks-salary/) (Tier 3)
+- [CNN Politics: Trump threatens defense contractors with restrictions while promising sharp increase in spending](https://www.cnn.com/2026/01/07/politics/trump-defense-budget-contractor-restrictions) (Tier 2) (VERIFIED)
+- [Breaking Defense: 'BEWARE': Trump order demands some defense firms halt paying dividends, buying back stock](https://breakingdefense.com/2026/01/trump-warns-defense-ceos-to-beware-of-coming-limits-on-share-buybacks-salary/) (Tier 3) (VERIFIED)
 
 ---
 

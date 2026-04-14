@@ -69,5 +69,5 @@ Latent AI builds AI software for military applications — specifically Navy und
 
 ### Sources
 
-- [OpenSecrets: Ratcliffe congressional donor data](https://www.opensecrets.org/members-of-congress/summary?name=Defense%20Contractor%20Revolving%20Door%20and%20the%20Consulting%20Pipeline) (Tier 1)
-- [OpenSecrets: Ratcliffe financial profile 2025](https://www.opensecrets.org/members-of-congress/summary?name=Defense%20Contractor%20Revolving%20Door%20and%20the%20Consulting%20Pipeline) (Tier 1)
+- [OpenSecrets: Ratcliffe congressional donor data](https://www.opensecrets.org/members-of-congress/summary?name=Defense%20Contractor%20Revolving%20Door%20and%20the%20Consulting%20Pipeline) (Tier 1) (VERIFIED)
+- [OpenSecrets: Ratcliffe financial profile 2025](https://www.opensecrets.org/members-of-congress/summary?name=Defense%20Contractor%20Revolving%20Door%20and%20the%20Consulting%20Pipeline) (Tier 1) (VERIFIED)

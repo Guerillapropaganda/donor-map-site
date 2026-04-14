@@ -52,9 +52,9 @@ Opposition to broad student loan forgiveness (which would reduce the loan portfo
 
 ### Sources
 
-- [Federal Student Aid: Loan servicer information](https://studentaid.gov/manage-loans/repayment/servicers) (Tier 1)
-- [CFPB: Student loan servicing examination reports](https://www.consumerfinance.gov/data-research/research-reports/) (Tier 1)
-- [Ballotpedia: Student loan servicers](https://ballotpedia.org/Student_Loan_Servicer_Industry) (Tier 3)
+- [Federal Student Aid: Loan servicer information](https://studentaid.gov/manage-loans/repayment/servicers) (Tier 1) (VERIFIED)
+- [CFPB: Student loan servicing examination reports](https://www.consumerfinance.gov/data-research/research-reports/) (Tier 1) (VERIFIED)
+- [Ballotpedia: Student loan servicers](https://ballotpedia.org/Student_Loan_Servicer_Industry) (Tier 3) (VERIFIED)
 
 
 ### Federal Court Records (CourtListener)
@@ -68,5 +68,5 @@ Opposition to broad student loan forgiveness (which would reduce the loan portfo
 **Notable cases:**
 - STUDENT LOAN SERVICING ALLIANCE v. TAYLOR (2018) — District Court, District of Columbia
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Student%20Loan%20Servicer%20Industry%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Student%20Loan%20Servicer%20Industry%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->

@@ -38,8 +38,8 @@ Booker's political origin story is Newark — one of the poorest cities in Ameri
 
 ### Sources
 
-- [Congress.gov: Cory Booker voting record on drug importation](https://www.congress.gov/member/cory-booker/B001288) (Tier 1)
-- [FEC Candidate: Cory Booker pharmaceutical sector contributions](https://www.fec.gov/data/candidate/P00009795/) (Tier 1)
-- [Senate.gov: Klobuchar-Sanders drug importation amendment vote](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00020.htm) (Tier 1)
-- [Ballotpedia: Cory Booker](https://ballotpedia.org/Cory_Booker) (Tier 3)
+- ~~[Congress.gov: Cory Booker voting record on drug importation](https://www.congress.gov/member/cory-booker/B001288)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [FEC Candidate: Cory Booker pharmaceutical sector contributions](https://www.fec.gov/data/candidate/P00009795/) (Tier 1) (VERIFIED)
+- [Senate.gov: Klobuchar-Sanders drug importation amendment vote](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00020.htm) (Tier 1) (VERIFIED)
+- [Ballotpedia: Cory Booker](https://ballotpedia.org/Cory_Booker) (Tier 3) (VERIFIED)
 

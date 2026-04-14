@@ -137,24 +137,24 @@ The reality: Voters and established power structures still privilege machine pol
 - Illinois Future PAC FEC records
 
 ### Tier 2: Major Journalism
-- [Stratton wins Illinois Senate primary, defeating crypto-backed Krishnamoorthi](https://www.coindesk.com/policy2026/03/17/stratton-wins-illinois-senate-primary-defeating-crypto-backed-krishnamoorthi) (CoinDesk, March 17, 2026) (Tier 2)
-- [Fairshake's $10 million Illinois misfire marks first big hitch in crypto political surge](https://www.coindesk.com/news-analysis/2026/03/18/fairshake-s-usd10-million-illinois-misfire-marks-first-big-hitch-in-crypto-political-surge) (CoinDesk, March 18, 2026) (Tier 2)
-- [AI and Crypto spent nearly $20 million to reshape Illinois's Democratic primaries. They mostly lost](https://fortune.com/2026/03/18/ai-crypto-illinois-primary-spending-fairshake-think-big-pac/) (Fortune, March 18, 2026) (Tier 2)
-- [Cryptocurrency and AI industries tested their influence in Illinois. It didn't go well](https://www.pbs.org/newshour/politics/cryptocurrency-and-ai-industries-tested-their-influence-in-illinois-it-didnt-go-well) (PBS News, March 18, 2026) (Tier 2)
-- [Crypto loses Illinois Senate vote but Fairshake Super PAC vows to fight on with $221m war chest ahead of 2026 midterms](https://www.yahoo.com/news/articles/crypto-loses-illinois-senate-vote-111954533.html) (Yahoo/CoinDesk) (Tier 2)
-- [Crypto PAC Fairshake Loses Big in Illinois Primaries](https://beincrypto.com/why-millions-in-crypto-spending-failed-to-move-illinois-primary-voters/) (BeInCrypto) (Tier 2)
-- [A Democratic fight for an Illinois Senate seat is testing the sway of JB Pritzker, pro-crypto forces and anti-ICE messaging](https://www.cnn.com/2026/03/16/politics/illinois-senate-primary-pritzker-crypto-immigration) (CNN, March 16, 2026) (Tier 2)
-- [The crypto lobby has poured $8.6M into Illinois primaries. Analysts say some candidates are quietly vying for its support](https://dailynorthwestern.com/2026/03/09/city/the-crypto-lobby-has-poured-8-6m-into-illinois-primaries-analysts-say-some-candidates-are-quietly-vying-for-its-support/) (Daily Northwestern, March 9, 2026) (Tier 2)
-- [Where big spending won – and lost – in the Illinois primary](https://www.local10.com/news/politics/2026/03/18/where-big-spending-won-and-lost-in-the-illinois-primary/) (Local 10 News, March 18, 2026) (Tier 2)
+- [Stratton wins Illinois Senate primary, defeating crypto-backed Krishnamoorthi](https://www.coindesk.com/policy2026/03/17/stratton-wins-illinois-senate-primary-defeating-crypto-backed-krishnamoorthi) (VERIFIED) (CoinDesk, March 17, 2026) (Tier 2)
+- [Fairshake's $10 million Illinois misfire marks first big hitch in crypto political surge](https://www.coindesk.com/news-analysis/2026/03/18/fairshake-s-usd10-million-illinois-misfire-marks-first-big-hitch-in-crypto-political-surge) (VERIFIED) (CoinDesk, March 18, 2026) (Tier 2)
+- [AI and Crypto spent nearly $20 million to reshape Illinois's Democratic primaries. They mostly lost](https://fortune.com/2026/03/18/ai-crypto-illinois-primary-spending-fairshake-think-big-pac/) (VERIFIED) (Fortune, March 18, 2026) (Tier 2)
+- [Cryptocurrency and AI industries tested their influence in Illinois. It didn't go well](https://www.pbs.org/newshour/politics/cryptocurrency-and-ai-industries-tested-their-influence-in-illinois-it-didnt-go-well) (VERIFIED) (PBS News, March 18, 2026) (Tier 2)
+- [Crypto loses Illinois Senate vote but Fairshake Super PAC vows to fight on with $221m war chest ahead of 2026 midterms](https://www.yahoo.com/news/articles/crypto-loses-illinois-senate-vote-111954533.html) (VERIFIED) (Yahoo/CoinDesk) (Tier 2)
+- ~~[Crypto PAC Fairshake Loses Big in Illinois Primaries](https://beincrypto.com/why-millions-in-crypto-spending-failed-to-move-illinois-primary-voters/)~~ (URL broken, archived by Ops) (BeInCrypto) (Tier 2)
+- [A Democratic fight for an Illinois Senate seat is testing the sway of JB Pritzker, pro-crypto forces and anti-ICE messaging](https://www.cnn.com/2026/03/16/politics/illinois-senate-primary-pritzker-crypto-immigration) (VERIFIED) (CNN, March 16, 2026) (Tier 2)
+- [The crypto lobby has poured $8.6M into Illinois primaries. Analysts say some candidates are quietly vying for its support](https://dailynorthwestern.com/2026/03/09/city/the-crypto-lobby-has-poured-8-6m-into-illinois-primaries-analysts-say-some-candidates-are-quietly-vying-for-its-support/) (VERIFIED) (Daily Northwestern, March 9, 2026) (Tier 2)
+- [Where big spending won – and lost – in the Illinois primary](https://www.local10.com/news/politics/2026/03/18/where-big-spending-won-and-lost-in-the-illinois-primary/) (VERIFIED) (Local 10 News, March 18, 2026) (Tier 2)
 
 ### Tier 2: Campaign Finance Analysis
-- [Super PAC scorecard, how outside spending groups fared in efforts to influence Illinois primary voters](https://www.wbez.org/government-politics/elections/2026/03/18/illinois-primary-super-pac-spending-aipac-cryptocurrency-ai-sports-betting) (WBEZ Chicago, March 18, 2026) (Tier 2)
-- [Illinois Senate Primary Features Millions in Outside Spending, Too](https://prospect.org/2026/03/17/illinois-senate-primary-super-pac-spending-juliana-stratton-raja-krishnamoorthi/) (American Prospect, March 17, 2026) (Tier 2)
-- [Special-Interest Super PACs Underperform in Illinois Democratic Primary](https://prospect.org/2026/03/18/special-interest-super-pacs-underperform-illinois-democratic-primary-stratton-biss-miller-bean-ford/) (American Prospect, March 18, 2026) (Tier 2)
+- [Super PAC scorecard, how outside spending groups fared in efforts to influence Illinois primary voters](https://www.wbez.org/government-politics/elections/2026/03/18/illinois-primary-super-pac-spending-aipac-cryptocurrency-ai-sports-betting) (VERIFIED) (WBEZ Chicago, March 18, 2026) (Tier 2)
+- [Illinois Senate Primary Features Millions in Outside Spending, Too](https://prospect.org/2026/03/17/illinois-senate-primary-super-pac-spending-juliana-stratton-raja-krishnamoorthi/) (VERIFIED) (American Prospect, March 17, 2026) (Tier 2)
+- [Special-Interest Super PACs Underperform in Illinois Democratic Primary](https://prospect.org/2026/03/18/special-interest-super-pacs-underperform-illinois-democratic-primary-stratton-biss-miller-bean-ford/) (VERIFIED) (American Prospect, March 18, 2026) (Tier 2)
 
 ### Tier 3: Industry/Aggregators
-- [United States Senate election in Illinois, 2026 - Ballotpedia](https://ballotpedia.org/United_States_Senate_election_in_Illinois,_2026) (Ballotpedia) (Tier 3)
+- [United States Senate election in Illinois, 2026 - Ballotpedia](https://ballotpedia.org/United_States_Senate_election_in_Illinois,_2026) (VERIFIED) (Ballotpedia) (Tier 3)
 
 ### Tier 4: Crypto Industry Sources
-- [Crypto loses Illinois Senate vote but Fairshake Super PAC vows to fight on](https://www.yahoo.com/news/articles/crypto-loses-illinois-senate-vote-111954533.html) (Yahoo News, crypto industry perspective) (Tier 2)
+- [Crypto loses Illinois Senate vote but Fairshake Super PAC vows to fight on](https://www.yahoo.com/news/articles/crypto-loses-illinois-senate-vote-111954533.html) (VERIFIED) (Yahoo News, crypto industry perspective) (Tier 2)
 

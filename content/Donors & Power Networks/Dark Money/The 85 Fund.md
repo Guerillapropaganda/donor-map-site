@@ -103,17 +103,17 @@ The Fund's rebranding from "Judicial Education Project" to "The 85 Fund" reveals
 | Net Assets | $3.9M |
 | Officer Compensation | $246K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 202466871](https://projects.propublica.org/nonprofits/organizations/202466871) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 202466871](https://projects.propublica.org/nonprofits/organizations/202466871) (Tier 1) (VERIFIED)
 
 <!-- auto:propublica-990 end -->
 
 ### Sources
 
-- [ProPublica: The 85 Fund and Marble Freedom Trust](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (Tier 2)
-- [OpenSecrets: The 85 Fund organizational profile](https://www.opensecrets.org/orgs/the-85-fund/summary) (Tier 1)
-- [IRS Form 990: The 85 Fund (Judicial Education Project)](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=The%2085%20Fund&city=&state=All+States&country=US) (Tier 1)
-- [Axios: The 85 Fund spending in 2020-2024](https://www.axios.com/2024/07/12/the-85-fund-spending-supreme-court) (Tier 2)
-- [Center for Responsive Politics: Dark money and judicial nominations](https://www.opensecrets.org/news/) (Tier 2)
+- [ProPublica: The 85 Fund and Marble Freedom Trust](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (Tier 2) (VERIFIED)
+- ~~[OpenSecrets: The 85 Fund organizational profile](https://www.opensecrets.org/orgs/the-85-fund/summary)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[IRS Form 990: The 85 Fund (Judicial Education Project)](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=The%2085%20Fund&city=&state=All+States&country=US)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Axios: The 85 Fund spending in 2020-2024](https://www.axios.com/2024/07/12/the-85-fund-spending-supreme-court)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Center for Responsive Politics: Dark money and judicial nominations](https://www.opensecrets.org/news/) (Tier 2) (VERIFIED)
 
 ### Federal Subawards & Spending Breakdown
 
@@ -132,21 +132,21 @@ The Fund's rebranding from "Judicial Education Project" to "The 85 Fund" reveals
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/202466871/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/202466871/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/202466871/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/202466871/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/202466871/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/202466871/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/202466871/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/202466871/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/202466871/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/202466871/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/202466871) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/202466871) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [549300JZ9WCXZDH10988](https://search.gleif.org/#/record/549300JZ9WCXZDH10988) |
+| LEI | [549300JZ9WCXZDH10988](https://search.gleif.org/#/record/549300JZ9WCXZDH10988) (VERIFIED) |
 | Legal Name | The E-Valuator Growth (70%-85%) RMS Fund |
 | Jurisdiction | US-DE |
 | Entity Status | ACTIVE |
@@ -154,7 +154,7 @@ The Fund's rebranding from "Judicial Education Project" to "The 85 Fund" reveals
 | Registration | ISSUED |
 | Last Updated | 2025-09-16T09:58:16Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### DOJ Press Releases

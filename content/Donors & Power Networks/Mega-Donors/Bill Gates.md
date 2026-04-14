@@ -75,9 +75,9 @@ The class analysis is straightforward: Gates built his fortune on intellectual p
 
 ### Sources
 
-- [Gates Foundation: Annual reports and financial data](https://www.gatesfoundation.org/about/financials/annual-reports) (Tier 1)
-- [Washington Post: Gates Foundation and Common Core](https://www.washingtonpost.com/politics/how-bill-gates-pulled-off-the-swift-common-core-revolution/2014/06/07/a830e32e-ec34-11e3-9f5c-9075d5508f0a_story.html) (Tier 2)
-- [Ballotpedia: Bill Gates](https://ballotpedia.org/Bill_Gates) (Tier 3)
+- [Gates Foundation: Annual reports and financial data](https://www.gatesfoundation.org/about/financials/annual-reports) (Tier 1) (VERIFIED)
+- [Washington Post: Gates Foundation and Common Core](https://www.washingtonpost.com/politics/how-bill-gates-pulled-off-the-swift-common-core-revolution/2014/06/07/a830e32e-ec34-11e3-9f5c-9075d5508f0a_story.html) (Tier 2) (VERIFIED)
+- [Ballotpedia: Bill Gates](https://ballotpedia.org/Bill_Gates) (Tier 3) (VERIFIED)
 
 ---
 
@@ -117,7 +117,7 @@ The class analysis is straightforward: Gates built his fortune on intellectual p
 | I GOT YOUR BACK PAC | $10,000 | — |
 | LOBO PAC | $10,000 | — |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Bill%20Gates) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Bill%20Gates) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### DOJ Press Releases
@@ -139,14 +139,14 @@ The class analysis is straightforward: Gates built his fortune on intellectual p
 - Emrit v. Gates, et al. (2026) — Court of Appeals for the Ninth Circuit
 - Audrey D. Tomerlin v. Angeleina Jolie (2026) — District Court, C.D. California
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Bill%20Gates%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Bill%20Gates%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [254900958LQ75NB9GC08](https://search.gleif.org/#/record/254900958LQ75NB9GC08) |
+| LEI | [254900958LQ75NB9GC08](https://search.gleif.org/#/record/254900958LQ75NB9GC08) (VERIFIED) |
 | Legal Name | Gates Foundation |
 | Jurisdiction | US-WA |
 | Entity Status | ACTIVE |
@@ -154,5 +154,5 @@ The class analysis is straightforward: Gates built his fortune on intellectual p
 | Registration | ISSUED |
 | Last Updated | 2025-11-14T12:08:39Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->

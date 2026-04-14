@@ -41,8 +41,8 @@ The financial services industry is the ultimate bipartisan donor: both parties' 
 
 ### Sources
 
-- [FEC Receipts: Financial services industry contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- [Ballotpedia: Financial services lobbying](https://ballotpedia.org/Financial_Services_Donors) (Tier 3)
+- [FEC Receipts: Financial services industry contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
+- [Ballotpedia: Financial services lobbying](https://ballotpedia.org/Financial_Services_Donors) (Tier 3) (VERIFIED)
 
 ### OFAC Sanctions Screening
 <!-- auto:ofac-sdn start -->
@@ -66,7 +66,7 @@ The financial services industry is the ultimate bipartisan donor: both parties' 
 - GPB FINANCIAL SERVICES HONG KONG LIMITED (-0-) [RUSSIA-EO14024]
   - Remarks: Secondary sanctions risk: See Section 11 of Executive Order 14024.; Target Type Financial Institution; alt. Target Type State-Owned Enterprise; Company Number 2045244 (Hong Kong); Legal Entity Number ...
 
-- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
 ### Lobbying Activity
@@ -85,7 +85,7 @@ The financial services industry is the ultimate bipartisan donor: both parties' 
 
 **Agencies contacted:** Centers For Medicare and Medicaid Services (CMS), Commodity Futures Trading Commission (CFTC), Consumer Financial Protection Bureau (CFPB), Defense, Dept of (DOD), Education, Dept of, Executive Office of the President (EOP), Federal Communications Commission (FCC), Federal Deposit Insurance Corporation (FDIC), Federal Housing Finance Agency (FHFA), Federal Reserve System +17 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Financial%20Services%20Donors) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Financial%20Services%20Donors) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

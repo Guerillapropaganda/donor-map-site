@@ -148,20 +148,20 @@ The Philadelphia machine connection carries its own class complication. IBEW Loc
 
 ## Sources
 
-- [FEC Candidate: Brendan Boyle donor profile](https://www.fec.gov/data/candidate/H4PA13199/) (Tier 1)
-- [FEC Candidate: Brendan Boyle industry donors](https://www.fec.gov/data/candidate/H4PA13199/) (Tier 1)
-- [Congress.gov: Brendan Boyle](https://www.congress.gov/member/brendan-boyle/B001296) (Tier 1)
-- [House Budget Committee Democrats: Ranking Member Boyle](https://democrats-budget.house.gov/about/ranking-member) (Tier 1)
-- [House.gov: Boyle biography](https://boyle.house.gov/about/biography) (Tier 1)
-- [House Budget Democrats: Boyle on House passage of Republican reconciliation bill](https://democrats-budget.house.gov/news/press-releases/boyle-house-passage-republicans-big-bill-billionaires-would-devastate-american) (Tier 1)
-- [House Budget Democrats: Boyle opening remarks at 5/16 markup](https://democrats-budget.house.gov/news/press-releases/boyle-opening-remarks-516-markup-gop-budget-reconciliation-bill) (Tier 1)
-- [House.gov: Boyle-Durbin Debt Ceiling Reform Act](https://boyle.house.gov/media-center/press-releases/boyle-durbin-yarmuth-introduce-bicameral-legislation-would-transfer-debt) (Tier 1)
-- [Clerk.house.gov: Boyle 119th Congress profile](https://clerk.house.gov/members/B001296) (Tier 1)
-- [Philadelphia Inquirer: Where powerful Local 98 spent its millions](https://www.inquirer.com/philly/business/labor_and_unions/20160807_Where_powerful_Local_98_spent_its_millions__health_benefits__political_donations_-_and_Eagles_tickets.html) (Tier 2)
-- [WHYY: Will candidates accept contributions from IBEW Local 98?](https://whyy.org/articles/campaign-crisis-will-candidates-accept-contributions-from-ibew-local-98/) (Tier 2)
-- [Philadelphia Magazine: The Boyle Blueprint](https://voteboyle.com/2017/01/23/philadelphia-magazine-power-the-boyle-blueprint/) (Tier 2)
-- [Ballotpedia: Brendan Boyle](https://ballotpedia.org/Brendan_Boyle) (Tier 3)
-- [Wikipedia: Brendan Boyle](https://en.wikipedia.org/wiki/Brendan_Boyle) (Tier 3)
+- [FEC Candidate: Brendan Boyle donor profile](https://www.fec.gov/data/candidate/H4PA13199/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Brendan Boyle industry donors](https://www.fec.gov/data/candidate/H4PA13199/) (Tier 1) (VERIFIED)
+- [Congress.gov: Brendan Boyle](https://www.congress.gov/member/brendan-boyle/B001296) (Tier 1) (VERIFIED)
+- [House Budget Committee Democrats: Ranking Member Boyle](https://democrats-budget.house.gov/about/ranking-member) (Tier 1) (VERIFIED)
+- [House.gov: Boyle biography](https://boyle.house.gov/about/biography) (Tier 1) (VERIFIED)
+- [House Budget Democrats: Boyle on House passage of Republican reconciliation bill](https://democrats-budget.house.gov/news/press-releases/boyle-house-passage-republicans-big-bill-billionaires-would-devastate-american) (Tier 1) (VERIFIED)
+- [House Budget Democrats: Boyle opening remarks at 5/16 markup](https://democrats-budget.house.gov/news/press-releases/boyle-opening-remarks-516-markup-gop-budget-reconciliation-bill) (Tier 1) (VERIFIED)
+- [House.gov: Boyle-Durbin Debt Ceiling Reform Act](https://boyle.house.gov/media-center/press-releases/boyle-durbin-yarmuth-introduce-bicameral-legislation-would-transfer-debt) (Tier 1) (VERIFIED)
+- [Clerk.house.gov: Boyle 119th Congress profile](https://clerk.house.gov/members/B001296) (Tier 1) (VERIFIED)
+- [Philadelphia Inquirer: Where powerful Local 98 spent its millions](https://www.inquirer.com/philly/business/labor_and_unions/20160807_Where_powerful_Local_98_spent_its_millions__health_benefits__political_donations_-_and_Eagles_tickets.html) (Tier 2) (VERIFIED)
+- [WHYY: Will candidates accept contributions from IBEW Local 98?](https://whyy.org/articles/campaign-crisis-will-candidates-accept-contributions-from-ibew-local-98/) (Tier 2) (VERIFIED)
+- [Philadelphia Magazine: The Boyle Blueprint](https://voteboyle.com/2017/01/23/philadelphia-magazine-power-the-boyle-blueprint/) (Tier 2) (VERIFIED)
+- [Ballotpedia: Brendan Boyle](https://ballotpedia.org/Brendan_Boyle) (Tier 3) (VERIFIED)
+- [Wikipedia: Brendan Boyle](https://en.wikipedia.org/wiki/Brendan_Boyle) (Tier 3) (VERIFIED)
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
@@ -198,12 +198,12 @@ The Philadelphia machine connection carries its own class complication. IBEW Loc
 | COMMONWEALTH COMMUNICATIONS | $22,008 | $0 |
 | NARAL Pro-Choice America | $22,000 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4PA13199/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4PA13199/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Brendan Boyle](https://www.congress.gov/member/e000179) (Tier 1)
+- ~~[Congress.gov: Brendan Boyle](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->

@@ -59,9 +59,9 @@ CPI operates as a shadow personnel operation for the MAGA movement, performing t
 
 ### Sources
 
-- [IRS: CPI 990 filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Conservative%20Partnership%20Institute&city=&state=All+States&country=US) (Tier 1)
-- [ProPublica: Nonprofit Explorer - Conservative Partnership Institute](https://projects.propublica.org/nonprofits/organizations/821470217) (Tier 2)
-- [Ballotpedia: Conservative Partnership Institute](https://ballotpedia.org/Conservative_Partnership_Institute) (Tier 3)
+- ~~[IRS: CPI 990 filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Conservative%20Partnership%20Institute&city=&state=All+States&country=US)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [ProPublica: Nonprofit Explorer - Conservative Partnership Institute](https://projects.propublica.org/nonprofits/organizations/821470217) (Tier 2) (VERIFIED)
+- [Ballotpedia: Conservative Partnership Institute](https://ballotpedia.org/Conservative_Partnership_Institute) (Tier 3) (VERIFIED)
 
 ### Federal Register Activity
 <!-- auto:federal-register start -->
@@ -72,9 +72,9 @@ CPI operates as a shadow personnel operation for the MAGA movement, performing t
 | Agencies | Energy Department |
 
 **Recent regulatory activity:**
-- [Energy Conservation Program: Energy Conservation Standards for Consumer Conventional Cooking Products](https://www.federalregister.gov/documents/2024/02/14/2024-02008/energy-conservation-program-energy-conservation-standards-for-consumer-conventional-cooking-products) (2024-02-14) — Energy Department
+- ~~[Energy Conservation Program: Energy Conservation Standards for Consumer Conventional Cooking Products](https://www.federalregister.gov/documents/2024/02/14/2024-02008/energy-conservation-program-energy-conservation-standards-for-consumer-conventional-cooking-products)~~ (URL broken, archived by Ops) (2024-02-14) — Energy Department
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Conservative%20Partnership%20Institute%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Conservative%20Partnership%20Institute%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Federal Court Records (CourtListener)
@@ -93,7 +93,7 @@ CPI operates as a shadow personnel operation for the MAGA movement, performing t
 - MITCHELL v. SELECT COMMITTEE TO INVESTIGATE THE JANUARY 6TH ATTACK ON THE UNITED STATES CAPITOL (2022) — District Court, District of Columbia
 - Smartmatic USA Corp. v. Lindell (2022) — District Court, D. Minnesota
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Conservative%20Partnership%20Institute%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Conservative%20Partnership%20Institute%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -108,7 +108,7 @@ CPI operates as a shadow personnel operation for the MAGA movement, performing t
 | Net Assets | $71.1M |
 | Officer Compensation | $1.7M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 821470217](https://projects.propublica.org/nonprofits/organizations/821470217) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 821470217](https://projects.propublica.org/nonprofits/organizations/821470217) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Tax Filings (IRS 990)
@@ -126,14 +126,14 @@ CPI operates as a shadow personnel operation for the MAGA movement, performing t
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/821470217/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/821470217/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/821470217/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/821470217/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/821470217/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/821470217/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/821470217/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/821470217/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/821470217/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/821470217/2019)~~ (URL broken, archived by Ops)
 - ... and 2 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/821470217) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/821470217) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Campaign Finance (FEC)
@@ -150,5 +150,5 @@ CPI operates as a shadow personnel operation for the MAGA movement, performing t
 | VICTORIA SPARTZ FOR CONGRESS | $5,000 | REP |
 | BARRY MOORE FOR CONGRESS | $380 | REP |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Conservative%20Partnership%20Institute) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Conservative%20Partnership%20Institute) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->

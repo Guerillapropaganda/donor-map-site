@@ -153,12 +153,12 @@ This is not a return to the Gilded Age. It is worse: it is the industrialization
 
 ### Sources
 
-- [OpenSecrets Fairshake PAC summary](https://www.opensecrets.org/political-action-committees-pacs/fairshake-pac/C00835959/summary/2024) (Tier 1)
-- [Public Citizen: Big Crypto, Big Spending 2024](https://www.citizen.org/article/big-crypto-big-spending-2024/) (Tier 2)
-- [American Prospect: The Staying Power of Crypto's Political Machine](https://prospect.org/2024/04/03/2024-04-03-staying-power-crypto-political-machine/) (Tier 2)
-- [JD Supra: Senate Passes Landmark Stablecoin Legislation](https://www.jdsupra.com/legalnews/senate-passes-landmark-legislation-to-2315421/) (Tier 2)
-- [AP News: Trump Strategic Bitcoin Reserve](https://apnews.com/article/bitcoin-reserve-trump-crypto-sacks-5c91a1ab3dab9a8c86d4bc42b8db3f8f) (Tier 2)
-- [Axios: AI Super PAC Launches with Backing from Andreessen Horowitz](https://www.axios.com/2026/01/30/openai-a16z-cash-ai-super-pac) (Tier 2)
+- [OpenSecrets Fairshake PAC summary](https://www.opensecrets.org/political-action-committees-pacs/fairshake-pac/C00835959/summary/2024) (Tier 1) (VERIFIED)
+- [Public Citizen: Big Crypto, Big Spending 2024](https://www.citizen.org/article/big-crypto-big-spending-2024/) (Tier 2) (VERIFIED)
+- [American Prospect: The Staying Power of Crypto's Political Machine](https://prospect.org/2024/04/03/2024-04-03-staying-power-crypto-political-machine/) (Tier 2) (VERIFIED)
+- [JD Supra: Senate Passes Landmark Stablecoin Legislation](https://www.jdsupra.com/legalnews/senate-passes-landmark-legislation-to-2315421/) (Tier 2) (VERIFIED)
+- [AP News: Trump Strategic Bitcoin Reserve](https://apnews.com/article/bitcoin-reserve-trump-crypto-sacks-5c91a1ab3dab9a8c86d4bc42b8db3f8f) (Tier 2) (VERIFIED)
+- [Axios: AI Super PAC Launches with Backing from Andreessen Horowitz](https://www.axios.com/2026/01/30/openai-a16z-cash-ai-super-pac) (Tier 2) (VERIFIED)
 
 ---
 

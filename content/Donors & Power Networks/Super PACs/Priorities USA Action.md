@@ -51,7 +51,7 @@ Priorities USA Action operates alongside a 501(c)(4) nonprofit affiliate — Pri
 > [!money] The FEC Numbers Tell the Structural Story
 > Two patterns emerge from the financial data. First, the presidential cycle dependency: Priorities raises $79M–$192M in presidential years and virtually nothing in midterm cycles ($363K in 2013–2014). The organization has no independent financial base — it exists only when mega-donors need it for presidential elections. Second, the individual contribution collapse: in 2012, $65.4M came from individual donors; in 2016, $156.7M; by 2020, individual contributions dropped to $1,715 — effectively zero. The $139M in 2019–2020 receipts came through other channels (transfers, nonfederal funds, offsets) that obscure the actual donor identities. The FEC filing structure evolved to become less transparent as the amounts grew larger. By the 2024 cycle, Priorities was a $10.9M operation running on fumes — the mega-donors had migrated to [[Future Forward USA Action]], and the $2.2M in independent expenditures was a rounding error against Future Forward's $700M+ operation.
 
-- [FEC: Priorities USA Action committee overview, all cycles](https://www.fec.gov/data/committee/C00495861/) (Tier 1) (Chrome verified 2026-03-27)
+- [FEC: Priorities USA Action committee overview, all cycles](https://www.fec.gov/data/committee/C00495861/) (Tier 1) (NEEDS REVIEW) (Chrome verified 2026-03-27)
 
 ### What They Want
 
@@ -115,24 +115,24 @@ The 2024 fundraising collapse reveals another structural truth: mega-donors don'
 ### Sources
 
 ### FEC Government Data (Tier 1):
-- [FEC: Priorities USA Action committee overview](https://www.fec.gov/data/committee/C00495861/) (Tier 1) (Chrome verified 2026-03-27)
-- [FEC: Priorities USA Action, 2011–2012 cycle financials](https://www.fec.gov/data/committee/C00495861/?cycle=2012) (Tier 1) (Chrome verified 2026-03-27)
-- [FEC: Priorities USA Action, 2015–2016 cycle financials](https://www.fec.gov/data/committee/C00495861/?cycle=2016) (Tier 1) (Chrome verified 2026-03-27)
-- [FEC: Priorities USA Action, 2019–2020 cycle financials](https://www.fec.gov/data/committee/C00495861/?cycle=2020) (Tier 1) (Chrome verified 2026-03-27)
-- [FEC: Priorities USA Action, 2023–2024 cycle financials](https://www.fec.gov/data/committee/C00495861/?cycle=2024) (Tier 1) (Chrome verified 2026-03-27)
-- [FEC: Priorities USA Action independent expenditures, 2024 (146 transactions)](https://www.fec.gov/data/independent-expenditures/?most_recent=true?q_spender=C00495861&cycle=2024) (Tier 1) (Chrome verified 2026-03-27)
+- [FEC: Priorities USA Action committee overview](https://www.fec.gov/data/committee/C00495861/) (Tier 1) (VERIFIED) (Chrome verified 2026-03-27)
+- [FEC: Priorities USA Action, 2011–2012 cycle financials](https://www.fec.gov/data/committee/C00495861/?cycle=2012) (Tier 1) (VERIFIED) (Chrome verified 2026-03-27)
+- [FEC: Priorities USA Action, 2015–2016 cycle financials](https://www.fec.gov/data/committee/C00495861/?cycle=2016) (Tier 1) (VERIFIED) (Chrome verified 2026-03-27)
+- [FEC: Priorities USA Action, 2019–2020 cycle financials](https://www.fec.gov/data/committee/C00495861/?cycle=2020) (Tier 1) (VERIFIED) (Chrome verified 2026-03-27)
+- [FEC: Priorities USA Action, 2023–2024 cycle financials](https://www.fec.gov/data/committee/C00495861/?cycle=2024) (Tier 1) (VERIFIED) (Chrome verified 2026-03-27)
+- [FEC: Priorities USA Action independent expenditures, 2024 (146 transactions)](https://www.fec.gov/data/independent-expenditures/?most_recent=true?q_spender=C00495861&cycle=2024) (Tier 1) (VERIFIED) (Chrome verified 2026-03-27)
 
 ### OpenSecrets (Tier 1):
-- [OpenSecrets: Priorities USA Action PAC profile](https://www.opensecrets.org/political-action-committees-pacs/C00495861/summary/2024) (Tier 1) (Chrome verified 2026-03-26)
-- [FEC Independent Expenditures: Priorities USA Action donors, 2024](https://www.fec.gov/data/independent-expenditures/) (Tier 1) (Chrome verified 2026-03-26)
-- [OpenSecrets: Priorities USA Action independent expenditures, 2020](https://www.opensecrets.org/political-action-committees-pacs/priorities-usa-action/C00495861/independent-expenditures/2020) (Tier 1) (Chrome verified 2026-03-26)
-- [OpenSecrets: Priorities USA / Priorities USA Action org profile](https://www.opensecrets.org/orgs/priorities-usa-priorities-usa-action/summary?id=D000065503) (Tier 1) (Chrome verified 2026-03-26)
+- [OpenSecrets: Priorities USA Action PAC profile](https://www.opensecrets.org/political-action-committees-pacs/C00495861/summary/2024) (Tier 1) (VERIFIED) (Chrome verified 2026-03-26)
+- [FEC Independent Expenditures: Priorities USA Action donors, 2024](https://www.fec.gov/data/independent-expenditures/) (Tier 1) (NEEDS REVIEW) (Chrome verified 2026-03-26)
+- [OpenSecrets: Priorities USA Action independent expenditures, 2020](https://www.opensecrets.org/political-action-committees-pacs/priorities-usa-action/C00495861/independent-expenditures/2020) (Tier 1) (VERIFIED) (Chrome verified 2026-03-26)
+- [OpenSecrets: Priorities USA / Priorities USA Action org profile](https://www.opensecrets.org/orgs/priorities-usa-priorities-usa-action/summary?id=D000065503) (Tier 1) (VERIFIED) (Chrome verified 2026-03-26)
 
 ### Investigative Journalism (Tier 2):
-- [Center for Public Integrity: How Democrats use dark money — and win elections](https://publicintegrity.org/politics/how-democrats-use-dark-money-and-win-elections/) (Tier 2) (Chrome verified 2026-03-26)
+- [Center for Public Integrity: How Democrats use dark money — and win elections](https://publicintegrity.org/politics/how-democrats-use-dark-money-and-win-elections/) (Tier 2) (VERIFIED) (Chrome verified 2026-03-26)
 
 ### Reference (Tier 3):
-- [Ballotpedia: Priorities USA Action](https://ballotpedia.org/Priorities_USA_Action) (Tier 3) (Chrome verified 2026-03-26)
+- [Ballotpedia: Priorities USA Action](https://ballotpedia.org/Priorities_USA_Action) (Tier 3) (VERIFIED) (Chrome verified 2026-03-26)
 
 ---
 
@@ -165,9 +165,9 @@ The 2024 fundraising collapse reveals another structural truth: mega-donors don'
 **Filing history:** 2022, 2021, 2020
 
 **View 990 filings:**
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/833099604/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/833099604/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/833099604/2020)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/833099604/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/833099604/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/833099604/2020)~~ (URL broken, archived by Ops)
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/833099604) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/833099604) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->

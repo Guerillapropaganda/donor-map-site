@@ -165,19 +165,19 @@ Rogers' number one career donor is Lockheed Martin, the company competing for th
 
 ## Sources
 
-- [Congress.gov: Mike Rogers donor profile](https://www.congress.gov/search?q=Mike%20D%20Rogers&searchResultViewType=expanded) (Tier 1)
-- [Congress.gov: Mike Rogers top contributors](https://www.congress.gov/search?q=Mike%20D%20Rogers&searchResultViewType=expanded) (Tier 1)
-- [OpenSecrets: Incoming GOP Armed Services chair top recipient of defense sector contributions](https://www.opensecrets.org/news/2022/12/incoming-gop-house-armed-services-and-defense-appropriations-chairs-top-recipients-of-defense-sector-contributions) (Tier 1)
-- [OpenSecrets: Defense sector $3.4M to HASC members (2022)](https://www.opensecrets.org/news/2022/07/defense-sector-donors-contributed-3-4-million-to-house-armed-services-committee-members-in-the-2022-election-cycle/) (Tier 1)
-- [House Armed Services Committee: Chairman Mike Rogers](https://armedservices.house.gov/about/chairman-mike-rogers.htm) (Tier 1)
-- [Congress.gov: Mike Rogers](https://www.congress.gov/member/mike-rogers/R000575) (Tier 1)
-- [Defense News: Largest defense firms donate millions to election-denying lawmakers](https://www.defensenews.com/congress/2022/11/02/largest-defense-firms-donate-millions-to-election-denying-lawmakers/) (Tier 2)
-- [Truthout: Top Recipient of War Industry Money to Head House Armed Services](https://truthout.org/articles/top-recipient-of-war-industry-money-to-head-gop-house-armed-services-committee/) (Tier 2)
-- [Project on Government Oversight: Representatives Too Invested in Defense Contractors](https://www.pogo.org/analyses/representatives-are-too-invested-in-defense-contractors) (Tier 2)
-- [Axios Huntsville: Why Redstone Arsenal was chosen for Space Command HQ](https://www.axios.com/local/huntsville/2025/09/02/redstone-arsenal-space-command-huntsville-alabama-colorado-air-force) (Tier 2)
-- [Ballotpedia: Mike Rogers](https://ballotpedia.org/Mike_Rogers_(Alabama)) (Tier 3)
-- [Wikipedia: Mike Rogers (Alabama politician)](https://en.wikipedia.org/wiki/Mike_Rogers_%28Alabama_politician%29) (Tier 3)
-- [Encyclopedia of Alabama: Mike Rogers](https://encyclopediaofalabama.org/article/mike-rogers/) (Tier 3)
+- ~~[Congress.gov: Mike Rogers donor profile](https://www.congress.gov/search?q=Mike%20D%20Rogers&searchResultViewType=expanded)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Mike Rogers top contributors](https://www.congress.gov/search?q=Mike%20D%20Rogers&searchResultViewType=expanded)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [OpenSecrets: Incoming GOP Armed Services chair top recipient of defense sector contributions](https://www.opensecrets.org/news/2022/12/incoming-gop-house-armed-services-and-defense-appropriations-chairs-top-recipients-of-defense-sector-contributions) (Tier 1) (VERIFIED)
+- [OpenSecrets: Defense sector $3.4M to HASC members (2022)](https://www.opensecrets.org/news/2022/07/defense-sector-donors-contributed-3-4-million-to-house-armed-services-committee-members-in-the-2022-election-cycle/) (Tier 1) (VERIFIED)
+- [House Armed Services Committee: Chairman Mike Rogers](https://armedservices.house.gov/about/chairman-mike-rogers.htm) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: Mike Rogers](https://www.congress.gov/member/mike-rogers/R000575)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Defense News: Largest defense firms donate millions to election-denying lawmakers](https://www.defensenews.com/congress/2022/11/02/largest-defense-firms-donate-millions-to-election-denying-lawmakers/) (Tier 2) (VERIFIED)
+- [Truthout: Top Recipient of War Industry Money to Head House Armed Services](https://truthout.org/articles/top-recipient-of-war-industry-money-to-head-gop-house-armed-services-committee/) (Tier 2) (VERIFIED)
+- ~~[Project on Government Oversight: Representatives Too Invested in Defense Contractors](https://www.pogo.org/analyses/representatives-are-too-invested-in-defense-contractors)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Axios Huntsville: Why Redstone Arsenal was chosen for Space Command HQ](https://www.axios.com/local/huntsville/2025/09/02/redstone-arsenal-space-command-huntsville-alabama-colorado-air-force)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Ballotpedia: Mike Rogers](https://ballotpedia.org/Mike_Rogers_(Alabama) (VERIFIED)) (Tier 3)
+- [Wikipedia: Mike Rogers (Alabama politician)](https://en.wikipedia.org/wiki/Mike_Rogers_%28Alabama_politician%29) (Tier 3) (VERIFIED)
+- [Encyclopedia of Alabama: Mike Rogers](https://encyclopediaofalabama.org/article/mike-rogers/) (Tier 3) (VERIFIED)
 
 
 ### Legislative Activity (GovTrack)
@@ -209,5 +209,5 @@ Rogers' number one career donor is Lockheed Martin, the company competing for th
 | 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Yea | Passed |
 | 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Yea | Passed |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400341) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400341) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->

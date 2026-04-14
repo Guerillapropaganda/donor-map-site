@@ -202,16 +202,16 @@ For the vault's framework: DMFI is the Israel lobby's version of what the Koch n
 ## Sources
 
 ### Verified
-- [FEC: DMFI PAC committee page](https://www.fec.gov/data/committee/C00710848/) (Tier 1)
-- [FEC: DMFI PAC independent expenditures](https://www.fec.gov/data/independent-expenditures/?committee_id=C00710848) (Tier 1)
-- [ProPublica Nonprofit Explorer: DMFI 501(c)(4) EIN 833298146](https://projects.propublica.org/nonprofits/organizations/833298146) (Tier 1)
-- [Sludge: AIPAC-tied DMFI raises from private equity execs](https://readsludge.com/2024/04/16/aipac-tied-dmfi-raises-more-from-private-equity-execs/) (Tier 2)
-- [Ryan Grim: How AIPAC and DMFI reshape Democratic primaries](https://ryangrim.substack.com/p/the-story-of-how-aipac-and-dmfi-are) (Tier 2)
-- [Times of Israel: Pro-Israel groups mixed results in Democratic primaries](https://www.timesofisrael.com/pro-israel-groups-see-mixed-results-after-pouring-millions-into-democratic-primaries/) (Tier 2)
-- [Sludge: All the money AIPAC spent on 2024 elections](https://readsludge.com/2025/01/24/here-is-all-the-money-aipac-spent-on-the-2024-elections/) (Tier 2)
-- [DMFI: Press Release - Founding](https://demmajorityforisrael.org/media/press-release/leading-democrats-launch-new-organization-to-promote-u-s-israel-relationship/) (Tier 4 - self-published)
-- [DMFI PAC: 2024 Primary Victories press release](https://dmfipac.org/news-updates/press-release/dmfi-pac-celebrates-pro-israel-democrats-primary-victories/) (Tier 4 - self-published)
-- [Wikipedia: Democratic Majority for Israel](https://en.wikipedia.org/wiki/Democratic_Majority_for_Israel) (Tier 3)
+- [FEC: DMFI PAC committee page](https://www.fec.gov/data/committee/C00710848/) (Tier 1) (VERIFIED)
+- [FEC: DMFI PAC independent expenditures](https://www.fec.gov/data/independent-expenditures/?committee_id=C00710848) (Tier 1) (VERIFIED)
+- [ProPublica Nonprofit Explorer: DMFI 501(c)(4) EIN 833298146](https://projects.propublica.org/nonprofits/organizations/833298146) (Tier 1) (VERIFIED)
+- [Sludge: AIPAC-tied DMFI raises from private equity execs](https://readsludge.com/2024/04/16/aipac-tied-dmfi-raises-more-from-private-equity-execs/) (Tier 2) (VERIFIED)
+- [Ryan Grim: How AIPAC and DMFI reshape Democratic primaries](https://ryangrim.substack.com/p/the-story-of-how-aipac-and-dmfi-are) (Tier 2) (VERIFIED)
+- [Times of Israel: Pro-Israel groups mixed results in Democratic primaries](https://www.timesofisrael.com/pro-israel-groups-see-mixed-results-after-pouring-millions-into-democratic-primaries/) (Tier 2) (VERIFIED)
+- [Sludge: All the money AIPAC spent on 2024 elections](https://readsludge.com/2025/01/24/here-is-all-the-money-aipac-spent-on-the-2024-elections/) (Tier 2) (VERIFIED)
+- [DMFI: Press Release - Founding](https://demmajorityforisrael.org/media/press-release/leading-democrats-launch-new-organization-to-promote-u-s-israel-relationship/) (VERIFIED) (Tier 4 - self-published)
+- [DMFI PAC: 2024 Primary Victories press release](https://dmfipac.org/news-updates/press-release/dmfi-pac-celebrates-pro-israel-democrats-primary-victories/) (VERIFIED) (Tier 4 - self-published)
+- [Wikipedia: Democratic Majority for Israel](https://en.wikipedia.org/wiki/Democratic_Majority_for_Israel) (Tier 3) (VERIFIED)
 
 ### Archived
 - ~~[OpenSecrets: DMFI PAC 2024](https://www.opensecrets.org/political-action-committees-pacs/democratic-majority-for-israel/C00710848/summary/2024)~~ (was Tier 1, OpenSecrets demoted, FEC committee page above covers same data)
@@ -240,5 +240,5 @@ For the vault's framework: DMFI is the Israel lobby's version of what the Koch n
 | Tax-Exempt Status | 501(c)(4) |
 | Filings on Record | 0 |
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/833298146) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/833298146) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->

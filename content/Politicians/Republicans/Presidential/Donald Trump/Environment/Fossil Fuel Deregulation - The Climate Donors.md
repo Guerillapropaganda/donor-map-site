@@ -133,17 +133,17 @@ Not applicable in this case, the endangerment finding revocation is a comprehens
 
 ### Sources
 
-- [Yale Climate Connections: Fossil fuel industry $219M in 2024 political spending](https://yaleclimateconnections.org/2025/01/the-fossil-fuel-industry-spent-219-million-to-elect-the-new-u-s-government/) (Tier 2)
-- [EPA: Endangerment finding and climate regulation](https://www.epa.gov/climate-change/endangerment-and-cause-or-contribute-findings-greenhouse-gases-under-section-202a) (Tier 1)
-- [FEC Receipts: Fossil fuel sector political spending](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- [Ballotpedia: EPA revokes endangerment finding, March 19, 2026](https://news.ballotpedia.org/2026/03/19/epa-revokes-endangerment-finding-rolling-back-epa-regulation-of-greenhouse-gas-emissions/) (Tier 2)
-- [NBC News: EPA reverses long-standing climate change finding](https://www.nbcnews.com/science/climate-change/epa-reverses-endangerment-climate-change-finding-rcna258452) (Tier 2)
-- [EPA Final Rule: Rescission of the Greenhouse Gas Endangerment Finding](https://www.epa.gov/regulations-emissions-vehicles-and-engines/final-rule-rescission-greenhouse-gas-endangerment) (Tier 1)
-- [WRI: EPA's Endangerment Finding Repeal, Explained](https://www.wri.org/insights/endangerment-finding-repeal-explained) (Tier 2)
-- [Federal Register: Rescission of the Greenhouse Gas Endangerment Finding and Motor Vehicle Greenhouse Gas Emission Standards Under the Clean Air Act](https://www.federalregister.gov/documents/2026/02/18/2026-03157/rescission-of-the-greenhouse-gas-endangerment-finding-and-motor-vehicle-greenhouse-gas-emission) (Tier 1)
-- [Department of Energy: Energy Department Reins in Over $83 Billion in Biden-Era Loans and Conditional Commitments](https://www.energy.gov/articles/energy-department-reins-over-83-billion-biden-era-loans-and-conditional-commitments) (Tier 1)
-- [Inflation Reduction Act Tracker: DOE Restructures, Revises, and Eliminates Loans and Conditional Commitments through Office of Energy Dominance Financing](https://iratracker.org/actions/doe-restructures-revises-and-eliminates-loans-and-conditional-commitments-through-office-of-energy-dominance-financing/) (Tier 1)
-- [pv magazine: Department of Energy Cuts $83 Billion in Loans, Reversing Energy Transition Funding](https://pv-magazine-usa.com/2026/01/23/department-of-energy-cuts-83-billion-in-loans-reversing-energy-transition/) (Tier 2)
+- [Yale Climate Connections: Fossil fuel industry $219M in 2024 political spending](https://yaleclimateconnections.org/2025/01/the-fossil-fuel-industry-spent-219-million-to-elect-the-new-u-s-government/) (Tier 2) (VERIFIED)
+- [EPA: Endangerment finding and climate regulation](https://www.epa.gov/climate-change/endangerment-and-cause-or-contribute-findings-greenhouse-gases-under-section-202a) (Tier 1) (VERIFIED)
+- [FEC Receipts: Fossil fuel sector political spending](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
+- [Ballotpedia: EPA revokes endangerment finding, March 19, 2026](https://news.ballotpedia.org/2026/03/19/epa-revokes-endangerment-finding-rolling-back-epa-regulation-of-greenhouse-gas-emissions/) (Tier 2) (VERIFIED)
+- [NBC News: EPA reverses long-standing climate change finding](https://www.nbcnews.com/science/climate-change/epa-reverses-endangerment-climate-change-finding-rcna258452) (Tier 2) (VERIFIED)
+- [EPA Final Rule: Rescission of the Greenhouse Gas Endangerment Finding](https://www.epa.gov/regulations-emissions-vehicles-and-engines/final-rule-rescission-greenhouse-gas-endangerment) (Tier 1) (VERIFIED)
+- [WRI: EPA's Endangerment Finding Repeal, Explained](https://www.wri.org/insights/endangerment-finding-repeal-explained) (Tier 2) (VERIFIED)
+- [Federal Register: Rescission of the Greenhouse Gas Endangerment Finding and Motor Vehicle Greenhouse Gas Emission Standards Under the Clean Air Act](https://www.federalregister.gov/documents/2026/02/18/2026-03157/rescission-of-the-greenhouse-gas-endangerment-finding-and-motor-vehicle-greenhouse-gas-emission) (Tier 1) (VERIFIED)
+- [Department of Energy: Energy Department Reins in Over $83 Billion in Biden-Era Loans and Conditional Commitments](https://www.energy.gov/articles/energy-department-reins-over-83-billion-biden-era-loans-and-conditional-commitments) (Tier 1) (VERIFIED)
+- [Inflation Reduction Act Tracker: DOE Restructures, Revises, and Eliminates Loans and Conditional Commitments through Office of Energy Dominance Financing](https://iratracker.org/actions/doe-restructures-revises-and-eliminates-loans-and-conditional-commitments-through-office-of-energy-dominance-financing/) (Tier 1) (VERIFIED)
+- [pv magazine: Department of Energy Cuts $83 Billion in Loans, Reversing Energy Transition Funding](https://pv-magazine-usa.com/2026/01/23/department-of-energy-cuts-83-billion-in-loans-reversing-energy-transition/) (Tier 2) (VERIFIED)
 
 ---
 

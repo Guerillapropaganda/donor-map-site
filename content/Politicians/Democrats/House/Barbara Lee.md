@@ -119,14 +119,14 @@ Barbara Lee represents the political powerlessness of moral clarity in capitalis
 
 ### Sources
 
-- [CalMatters: Ro Khanna: If Barbara Lee Had Campaign Cash, She'd Be in Top Two for U.S. Senate](https://calmatters.org/category/politics/elections/2024/02/us-senate-race-ro-khanna-barbara-lee/) (Tier 2)
-- [CalMatters: 2024 California U.S. Senate Candidate: Barbara Lee](https://calmatters.org/california-voter-guide-2024/us-senate/barbara-lee/) (Tier 2)
-- [Annenberg Media: Rep. Barbara Lee Faces Fundraising Titans in the Race for CA Senate Seat](https://www.uscannenbergmedia.com/2023/05/17/rep-barbara-lee-faces-fundraising-titans-in-the-race-for-ca-senate-seat/) (Tier 2)
-- [CalMatters: Katie Porter, Adam Schiff and Barbara Lee Swore Off Corporate PAC Money. What Does That Mean?](https://calmatters.org/category/politics/elections/2024/02/california-senate-race-corporate-pacs/) (Tier 2)
-- [Slate: California Senate Primary — A Way Weirder Race Than Voters Imagined](https://slate.com/news-and-politics/2024/03/california-primary-senate-schiff-garvey-porter-lee-pelosi.html) (Tier 3)
-- [Wikipedia: Barbara Lee](https://en.wikipedia.org/wiki/Barbara_Lee) (Tier 3)
-- [Ballotpedia: Barbara Lee (California)](https://ballotpedia.org/Barbara_Lee_(California)) (Tier 3)
-- [Congresswoman Barbara Lee Official: Global Peace & Security Issues Page](https://lee.house.gov/issues/global-peace-and-security?latest=169) (Tier 1)
+- ~~[CalMatters: Ro Khanna: If Barbara Lee Had Campaign Cash, She'd Be in Top Two for U.S. Senate](https://calmatters.org/category/politics/elections/2024/02/us-senate-race-ro-khanna-barbara-lee/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [CalMatters: 2024 California U.S. Senate Candidate: Barbara Lee](https://calmatters.org/california-voter-guide-2024/us-senate/barbara-lee/) (Tier 2) (VERIFIED)
+- [Annenberg Media: Rep. Barbara Lee Faces Fundraising Titans in the Race for CA Senate Seat](https://www.uscannenbergmedia.com/2023/05/17/rep-barbara-lee-faces-fundraising-titans-in-the-race-for-ca-senate-seat/) (Tier 2) (VERIFIED)
+- ~~[CalMatters: Katie Porter, Adam Schiff and Barbara Lee Swore Off Corporate PAC Money. What Does That Mean?](https://calmatters.org/category/politics/elections/2024/02/california-senate-race-corporate-pacs/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Slate: California Senate Primary — A Way Weirder Race Than Voters Imagined](https://slate.com/news-and-politics/2024/03/california-primary-senate-schiff-garvey-porter-lee-pelosi.html) (Tier 3) (VERIFIED)
+- [Wikipedia: Barbara Lee](https://en.wikipedia.org/wiki/Barbara_Lee) (Tier 3) (VERIFIED)
+- [Ballotpedia: Barbara Lee (California)](https://ballotpedia.org/Barbara_Lee_(California) (VERIFIED)) (Tier 3)
+- ~~[Congresswoman Barbara Lee Official: Global Peace & Security Issues Page](https://lee.house.gov/issues/global-peace-and-security?latest=169)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ### Legislative Activity (Congress.gov)
 <!-- auto:congress-legislation start -->
@@ -153,7 +153,7 @@ Barbara Lee represents the political powerlessness of moral clarity in capitalis
 | 6562 | United States Development Finance Corporation Effectiveness Act | Referred to the House Committee on Foreign Affairs. |
 | 6563 | Terrorist Watchlist Modification Review Act | Referred to the House Committee on the Judiciary. |
 
-- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Campaign Finance (FEC)
@@ -187,7 +187,7 @@ Barbara Lee represents the political powerlessness of moral clarity in capitalis
 | SANDRE SWANSON FOR ASSEMBLY 2010 | $1,244 | $0 |
 | TOGETHER WE THRIVE | $750 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8CA09060/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8CA09060/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Committee Assignments (Congress.gov)
@@ -221,7 +221,7 @@ _No committee data found._
 | 2024-12-17 | H.R. 1101 (118th): Lumbee Fairness Act | Yea | Passed |
 | 2024-12-17 | S. 3448 (118th): Never Again Education Reauthorization Act of 2023 | Yea | Passed |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400237) (Tier 1)
+- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/400237)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:govtrack end -->
 
 <!-- auto:govtrack pending-merge 2026-04-12 -->
@@ -308,6 +308,6 @@ _No committee data found._
 
 **Sources**
 
-- [Congress.gov: Barbara Lee](https://www.congress.gov/member/e000179) (Tier 1)
-- [GovTrack: Barbara Lee](https://www.govtrack.us/congress/members/400237) (Tier 1)
+- ~~[Congress.gov: Barbara Lee](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [GovTrack: Barbara Lee](https://www.govtrack.us/congress/members/400237) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->

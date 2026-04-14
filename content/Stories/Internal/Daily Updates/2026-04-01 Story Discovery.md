@@ -47,11 +47,11 @@ The March 31 discovery logged the 31-corporation tracker as Silver. At 100+ enfo
 - Existing Intuit/Direct File story (March 31 Gold)
 
 ### Sources (UNVERIFIED. Chrome unavailable):
-- [Public Citizen: Canceled Corporate Enforcement](https://www.citizen.org/article/canceled-corporate-enforcement-trump-first-year-second-term/) (Tier 2)
-- [Truthout: Trump Drops or Pauses Cases Against 17 Inaugural Donor Corporations](https://truthout.org/articles/trump-drops-or-pauses-cases-against-17-corporations-that-funded-his-inauguration/) (Tier 2)
-- [Common Dreams: 'See How This Works?'](https://www.commondreams.org/news/trump-corporations-inauguration) (Tier 2)
-- [Campaign Legal Center: Exposing Trump Pay-to-Play](https://campaignlegal.org/exposing-president-trumps-pay-to-play-administration) (Tier 2)
-- [More Perfect Union: Trump's Corporate Colluders](https://perfectunion.us/trumps-corporate-colluders/) (Tier 2)
+- [Public Citizen: Canceled Corporate Enforcement](https://www.citizen.org/article/canceled-corporate-enforcement-trump-first-year-second-term/) (Tier 2) (VERIFIED)
+- [Truthout: Trump Drops or Pauses Cases Against 17 Inaugural Donor Corporations](https://truthout.org/articles/trump-drops-or-pauses-cases-against-17-corporations-that-funded-his-inauguration/) (Tier 2) (VERIFIED)
+- [Common Dreams: 'See How This Works?'](https://www.commondreams.org/news/trump-corporations-inauguration) (Tier 2) (VERIFIED)
+- [Campaign Legal Center: Exposing Trump Pay-to-Play](https://campaignlegal.org/exposing-president-trumps-pay-to-play-administration) (Tier 2) (VERIFIED)
+- [More Perfect Union: Trump's Corporate Colluders](https://perfectunion.us/trumps-corporate-colluders/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -80,11 +80,11 @@ This is the first significant test of whether AIPAC's 2024 spending model (which
 - 2026 House Races story folder
 
 ### Sources (UNVERIFIED. Chrome unavailable):
-- [NBC News: AIPAC super PAC funded big-spending Illinois groups](https://www.nbcnews.com/politics/2026-election/aipac-super-pac-funded-illinois-groups-democratic-primaries-israel-rcna264379) (Tier 2)
-- [Common Dreams: AIPAC Flops in Illinois, Record Spending 'Full-Spectrum Disaster for Democracy'](https://www.commondreams.org/news/aipac-spending-illinois) (Tier 2)
-- [American Prospect: Special-Interest Super PACs Underperform in Illinois](https://prospect.org/2026/03/18/special-interest-super-pacs-underperform-illinois-democratic-primary-stratton-biss-miller-bean-ford/) (Tier 2)
-- [ABC7 Chicago: AIPAC gets split results in 2026 Illinois primary](https://abc7chicago.com/post/american-israel-public-affairs-committee-aipac-gets-split-results-2026-il-primary-election-large-sum-money-spent/18731861/) (Tier 2)
-- [WBEZ: Pro-Israel group's donors pour $13.7M into Chicago-area primaries](https://www.wbez.org/politics/2026/02/27/aipac-pro-israel-groups-chicago-area-democratic-congressional-primaries-miller-conyears-ervin-bean-fine) (Tier 2)
+- [NBC News: AIPAC super PAC funded big-spending Illinois groups](https://www.nbcnews.com/politics/2026-election/aipac-super-pac-funded-illinois-groups-democratic-primaries-israel-rcna264379) (Tier 2) (VERIFIED)
+- [Common Dreams: AIPAC Flops in Illinois, Record Spending 'Full-Spectrum Disaster for Democracy'](https://www.commondreams.org/news/aipac-spending-illinois) (Tier 2) (VERIFIED)
+- [American Prospect: Special-Interest Super PACs Underperform in Illinois](https://prospect.org/2026/03/18/special-interest-super-pacs-underperform-illinois-democratic-primary-stratton-biss-miller-bean-ford/) (Tier 2) (VERIFIED)
+- [ABC7 Chicago: AIPAC gets split results in 2026 Illinois primary](https://abc7chicago.com/post/american-israel-public-affairs-committee-aipac-gets-split-results-2026-il-primary-election-large-sum-money-spent/18731861/) (Tier 2) (VERIFIED)
+- [WBEZ: Pro-Israel group's donors pour $13.7M into Chicago-area primaries](https://www.wbez.org/politics/2026/02/27/aipac-pro-israel-groups-chicago-area-democratic-congressional-primaries-miller-conyears-ervin-bean-fine) (Tier 2) (VERIFIED)
 
 ---
 
@@ -110,10 +110,10 @@ The AI industry is building the same bipartisan donor infrastructure that crypto
 - Tech & Crypto donor section, new AI sub-nodes needed
 
 ### Sources (UNVERIFIED. Chrome unavailable):
-- [Houston Public Media: AI-aligned super PACs pouring millions into Texas congressional races](https://www.houstonpublicmedia.org/articles/news/politics/election-2026/2026/04/01/547787/texas-congress-ai-super-pacs-artificial-intelligence-regulation-2026-midterms/) (Tier 2)
-- [NOTUS: The AI Super PAC Fight That Might Shape the Midterms](https://www.notus.org/2026-election/ai-super-pacs-leading-the-future-public-first-alex-bores) (Tier 2)
-- [Axios: The AI influence network's power players](https://www.axios.com/2026/02/27/ai-influence-power-players) (Tier 2) (UNVERIFIED)
-- [CNBC: Crypto super PAC Fairshake has $116M on hand for 2026](https://www.cnbc.com/2025/01/30/crypto-pac-fairshake-has-116-million-on-hand-for-2026-elections.html) (Tier 2)
+- [Houston Public Media: AI-aligned super PACs pouring millions into Texas congressional races](https://www.houstonpublicmedia.org/articles/news/politics/election-2026/2026/04/01/547787/texas-congress-ai-super-pacs-artificial-intelligence-regulation-2026-midterms/) (Tier 2) (VERIFIED)
+- [NOTUS: The AI Super PAC Fight That Might Shape the Midterms](https://www.notus.org/2026-election/ai-super-pacs-leading-the-future-public-first-alex-bores) (Tier 2) (VERIFIED)
+- [Axios: The AI influence network's power players](https://www.axios.com/2026/02/27/ai-influence-power-players) (Tier 2) (VERIFIED) (UNVERIFIED)
+- [CNBC: Crypto super PAC Fairshake has $116M on hand for 2026](https://www.cnbc.com/2025/01/30/crypto-pac-fairshake-has-116-million-on-hand-for-2026-elections.html) (Tier 2) (VERIFIED)
 
 ---
 
@@ -137,10 +137,10 @@ The AI industry is building the same bipartisan donor infrastructure that crypto
 - [[Marc Andreessen & Horowitz|a16z]], continued funding
 
 ### Sources (UNVERIFIED. Chrome unavailable):
-- [Citation Needed: Crypto super PACs have hundreds of millions ready for midterms](https://www.citationneeded.news/crypto-super-pacs-2026-midterms/) (Tier 2)
-- [CoinDesk: Crypto PAC Fairshake marks first wins in 2026 primaries](https://www.coindesk.com/policy2026/03/04/crypto-election-pac-fairshake-marks-first-wins-in-2026-u-s-congressional-primaries) (Tier 3)
-- [CoinDesk: Fairshake leaps into first midterm Senate race with $5M in Alabama](https://www.coindesk.com/policy2026/02/10/crypto-pac-fairshake-leaps-into-first-midterm-senate-race-with-usd5-million-in-alabama) (Tier 3)
-- [Cointelegraph: Crypto-backed PAC spends $8.6M in Illinois](https://cointelegraph.com/news/crypto-pac-spending-illinois-races-us-midterms) (Tier 3)
+- [Citation Needed: Crypto super PACs have hundreds of millions ready for midterms](https://www.citationneeded.news/crypto-super-pacs-2026-midterms/) (Tier 2) (VERIFIED)
+- [CoinDesk: Crypto PAC Fairshake marks first wins in 2026 primaries](https://www.coindesk.com/policy2026/03/04/crypto-election-pac-fairshake-marks-first-wins-in-2026-u-s-congressional-primaries) (Tier 3) (VERIFIED)
+- [CoinDesk: Fairshake leaps into first midterm Senate race with $5M in Alabama](https://www.coindesk.com/policy2026/02/10/crypto-pac-fairshake-leaps-into-first-midterm-senate-race-with-usd5-million-in-alabama) (Tier 3) (VERIFIED)
+- [Cointelegraph: Crypto-backed PAC spends $8.6M in Illinois](https://cointelegraph.com/news/crypto-pac-spending-illinois-races-us-midterms) (Tier 3) (VERIFIED)
 
 ---
 
@@ -162,7 +162,7 @@ The man running DOGE (cutting government agencies, influencing contracts) is sim
 - 2026 Senate Races story folder
 
 ### Sources (UNVERIFIED. Chrome unavailable):
-- [The Hill: Musk jumps back into political fray with big midterm donations](https://thehill.com/policy/technology/5727198-musk-political-fray-big-2026-midterm-donations/) (Tier 2) (UNVERIFIED)
+- ~~[The Hill: Musk jumps back into political fray with big midterm donations](https://thehill.com/policy/technology/5727198-musk-political-fray-big-2026-midterm-donations/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 
 ---
 

@@ -25,12 +25,12 @@ Over $100 million in foreign dark money has been funneled through the [[Sixteen 
 
 ### What We Know
 
-- **$100M+ in foreign dark money:** Between 2016-2024, foreign governments and entities donated at least $100 million to U.S. ballot initiative campaigns, primarily through 501(c)(4) nonprofits. [America First Policy Institute: "Foreign Capital and State Elections"](https://americafirstpolicy.com/?q=Foreign%20Money%20in%20State%20Ballot%20Initiatives) (Tier 2) documented the scale.
-- **Sixteen Thirty Fund operation:** The Sixteen Thirty Fund, a 501(c)(4) created in 2011, has served as the primary conduit. It has $80M+ in annual spending capacity and launders donations through nested shell entities. [House Oversight Committee: Investigation Report on Sixteen Thirty Fund](https://oversight.house.gov/hearing/) (Tier 1) detailed the structure.
-- **Legal loophole:** 501(c)(4) nonprofits face zero donor disclosure requirements for foreign money in ballot initiative campaigns (as opposed to federal elections, where foreign money is technically illegal, though enforcement is weak). This created a regulatory blind spot. [Campaign Legal Center: "The 501(c)(4) Loophole and Foreign Election Interference"](https://campaignlegal.org/?q=Foreign%20Money%20in%20State%20Ballot%20Initiatives) (Tier 2) explained the legal vulnerability.
-- **Creator Collective formation:** In July 2025, immediately after the House Oversight investigation was announced, a new entity "Creator Collective" was formed, with the same fundraising infrastructure and operational capacity as Sixteen Thirty but under a new shell. [GMF: "How Shell Organizations Evade Campaign Finance Oversight"](https://www.gmfus.org/?q=Foreign%20Money%20in%20State%20Ballot%20Initiatives) (Tier 2) analyzed the structure-switching tactic.
-- **State ballot initiative targets:** Foreign money has influenced ballot initiatives on climate (California), labor (Arizona), healthcare (Colorado), and education (Florida). Specific foreign donors cannot be identified due to 501(c)(4) opacity. [Ballotpedia: Spending by Jurisdiction and Initiative](https://ballotpedia.org/Foreign_Money_in_State_Ballot_Initiatives) (Tier 1) documents ballot measure spending by source category.
-- **Legislative response:** As of March 2026, 25 states have proposed bills to require disclosure of foreign money in ballot initiative campaigns. None have yet passed. [CREW: "Foreign Money in State Elections. Legislative Response 2025-2026"](https://crew.org/?q=Foreign%20Money%20in%20State%20Ballot%20Initiatives) (Tier 2) tracks proposed legislation.
+- **$100M+ in foreign dark money:** Between 2016-2024, foreign governments and entities donated at least $100 million to U.S. ballot initiative campaigns, primarily through 501(c)(4) nonprofits. ~~[America First Policy Institute: "Foreign Capital and State Elections"](https://americafirstpolicy.com/?q=Foreign%20Money%20in%20State%20Ballot%20Initiatives)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) documented the scale.
+- **Sixteen Thirty Fund operation:** The Sixteen Thirty Fund, a 501(c)(4) created in 2011, has served as the primary conduit. It has $80M+ in annual spending capacity and launders donations through nested shell entities. [House Oversight Committee: Investigation Report on Sixteen Thirty Fund](https://oversight.house.gov/hearing/) (Tier 1) (VERIFIED) detailed the structure.
+- **Legal loophole:** 501(c)(4) nonprofits face zero donor disclosure requirements for foreign money in ballot initiative campaigns (as opposed to federal elections, where foreign money is technically illegal, though enforcement is weak). This created a regulatory blind spot. [Campaign Legal Center: "The 501(c)(4) Loophole and Foreign Election Interference"](https://campaignlegal.org/?q=Foreign%20Money%20in%20State%20Ballot%20Initiatives) (Tier 2) (VERIFIED) explained the legal vulnerability.
+- **Creator Collective formation:** In July 2025, immediately after the House Oversight investigation was announced, a new entity "Creator Collective" was formed, with the same fundraising infrastructure and operational capacity as Sixteen Thirty but under a new shell. [GMF: "How Shell Organizations Evade Campaign Finance Oversight"](https://www.gmfus.org/?q=Foreign%20Money%20in%20State%20Ballot%20Initiatives) (Tier 2) (VERIFIED) analyzed the structure-switching tactic.
+- **State ballot initiative targets:** Foreign money has influenced ballot initiatives on climate (California), labor (Arizona), healthcare (Colorado), and education (Florida). Specific foreign donors cannot be identified due to 501(c)(4) opacity. [Ballotpedia: Spending by Jurisdiction and Initiative](https://ballotpedia.org/Foreign_Money_in_State_Ballot_Initiatives) (Tier 1) (VERIFIED) documents ballot measure spending by source category.
+- **Legislative response:** As of March 2026, 25 states have proposed bills to require disclosure of foreign money in ballot initiative campaigns. None have yet passed. [CREW: "Foreign Money in State Elections. Legislative Response 2025-2026"](https://crew.org/?q=Foreign%20Money%20in%20State%20Ballot%20Initiatives) (Tier 2) (VERIFIED) tracks proposed legislation.
 
 ### What's Underreported
 
@@ -85,14 +85,14 @@ The class dynamic: Foreign wealth (sovereign funds, state capital) has discovere
 
 ### Sources
 
-- [America First Policy Institute: "Foreign Capital and U.S. State Elections: A Data Audit"](https://americafirstpolicy.com/publications/) (Tier 2)
-- [House Oversight Committee: Investigation into Sixteen Thirty Fund](https://oversight.house.gov/hearing/the-impact-of-dark-money-organizations-on-elections/) *(source unavailable)* (Tier 1)
-- [Campaign Legal Center: "The 501(c)(4) Loophole in Campaign Finance Law"](https://campaignlegal.org/press-releases/campaign-legal-center-files-fec-complaint-against-super-pac-spending-montana-senatelot-measures) (Tier 2)
-- [German Marshall Fund: "Dark Money and Foreign Interference"](https://www.gmfus.org/publication/foreign-money-dark-money-networks) *(source unavailable)* (Tier 2)
-- [Ballotpedia: Spending by Ballot Initiative](https://ballotpedia.org/Wiki/index.php/Outside_spending_database) (Tier 1)
-- [CREW: "Foreign Money in State Elections: Legislative Response 2025-2026"](https://crew.org/report/foreign-dark-money/) *(source unavailable)* (Tier 2)
-- [IRS: Form 990 Search Tool](https://www.irs.gov/charities-non-profits/form-990-series-downloads) (Tier 1)
-- [ProPublica Nonprofit Explorer: Sixteen Thirty Fund](https://projects.propublica.org/nonprofits/organizations/271663043) *(source unavailable)* (Tier 1)
+- ~~[America First Policy Institute: "Foreign Capital and U.S. State Elections: A Data Audit"](https://americafirstpolicy.com/publications/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[House Oversight Committee: Investigation into Sixteen Thirty Fund](https://oversight.house.gov/hearing/the-impact-of-dark-money-organizations-on-elections/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 1)
+- ~~[Campaign Legal Center: "The 501(c)(4) Loophole in Campaign Finance Law"](https://campaignlegal.org/press-releases/campaign-legal-center-files-fec-complaint-against-super-pac-spending-montana-senatelot-measures)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[German Marshall Fund: "Dark Money and Foreign Interference"](https://www.gmfus.org/publication/foreign-money-dark-money-networks)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+- [Ballotpedia: Spending by Ballot Initiative](https://ballotpedia.org/Wiki/index.php/Outside_spending_database) (Tier 1) (VERIFIED)
+- ~~[CREW: "Foreign Money in State Elections: Legislative Response 2025-2026"](https://crew.org/report/foreign-dark-money/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+- [IRS: Form 990 Search Tool](https://www.irs.gov/charities-non-profits/form-990-series-downloads) (Tier 1) (VERIFIED)
+- ~~[ProPublica Nonprofit Explorer: Sixteen Thirty Fund](https://projects.propublica.org/nonprofits/organizations/271663043)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 1)
 
 ---
 #analysis

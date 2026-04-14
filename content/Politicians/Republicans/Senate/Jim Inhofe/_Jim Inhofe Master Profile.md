@@ -117,14 +117,14 @@ Inhofe represented one of America's poorest states while serving its wealthiest 
 
 ## Sources
 
-- [FEC Candidate: Jim Inhofe career industry contributions](https://www.fec.gov/data/candidate/H6OK01102/) (Tier 1)
-- [OpenSecrets: Jim Inhofe campaign finance summary](https://www.opensecrets.org/members-of-congress/summary?cid=N00005582) (Tier 1)
-- [PBS: Oklahoma Sen. Jim Inhofe dies at 89](https://www.pbs.org/newshour/politics/oklahomas-sen-jim-inhofe-republican-known-for-denying-human-caused-climate-change-dies-at-89) (Tier 2)
-- [Military Times: Former Sen. Jim Inhofe, top Republican defense voice, dies at 89](https://www.militarytimes.com/news/pentagon-congress/2024/07/09/former-us-sen-jim-inhofe-top-republican-defense-voice-dies-at-89/) (Tier 2)
-- [DeSmog: James Inhofe profile](https://www.desmog.com/james-inhofe/) (Tier 2)
-- [Grist: Climate-denying senator given money by BP PAC](https://grist.org/climate-energy/climate-denying-senator-james-inhofe-bp-pac/) (Tier 2)
-- [Wikipedia: Jim Inhofe](https://en.wikipedia.org/wiki/Jim_Inhofe) (Tier 3)
-- [Ballotpedia: Jim Inhofe](https://ballotpedia.org/Jim_Inhofe) (Tier 3)
+- [FEC Candidate: Jim Inhofe career industry contributions](https://www.fec.gov/data/candidate/H6OK01102/) (Tier 1) (VERIFIED)
+- [OpenSecrets: Jim Inhofe campaign finance summary](https://www.opensecrets.org/members-of-congress/summary?cid=N00005582) (Tier 1) (VERIFIED)
+- [PBS: Oklahoma Sen. Jim Inhofe dies at 89](https://www.pbs.org/newshour/politics/oklahomas-sen-jim-inhofe-republican-known-for-denying-human-caused-climate-change-dies-at-89) (Tier 2) (VERIFIED)
+- [Military Times: Former Sen. Jim Inhofe, top Republican defense voice, dies at 89](https://www.militarytimes.com/news/pentagon-congress/2024/07/09/former-us-sen-jim-inhofe-top-republican-defense-voice-dies-at-89/) (Tier 2) (VERIFIED)
+- [DeSmog: James Inhofe profile](https://www.desmog.com/james-inhofe/) (Tier 2) (NEEDS REVIEW)
+- [Grist: Climate-denying senator given money by BP PAC](https://grist.org/climate-energy/climate-denying-senator-james-inhofe-bp-pac/) (Tier 2) (VERIFIED)
+- [Wikipedia: Jim Inhofe](https://en.wikipedia.org/wiki/Jim_Inhofe) (Tier 3) (VERIFIED)
+- [Ballotpedia: Jim Inhofe](https://ballotpedia.org/Jim_Inhofe) (Tier 3) (VERIFIED)
 
 ---
 

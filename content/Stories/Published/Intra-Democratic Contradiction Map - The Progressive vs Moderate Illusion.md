@@ -60,8 +60,8 @@ Pelosi's 2020 DCCC rule: "Vendors and consultants who work on behalf of primary 
 | Squad small-donor %age | 2020 | 61% | Combined average small donations vs Pelosi 14% | American Prospect (Tier 2) |
 
 ### Sources:
-- [CNN: AOC, Omar, Tlaib and Pressley launch joint fundraising committee 'Squad Victory Fund'](https://www.cnn.com/2020/07/01/politics/squad-ocasio-cortez-tlaib-omar-pressley/index.html) (Tier 2)
-- [American Prospect: Democratic Leaders Rake In Corporate Cash as "the Squad" Sticks With Small Donors](https://prospect.org/2019/07/19/democratic-leaders-rake-corporate-cash-the-squad-sticks-small-donors/) (Tier 2)
+- [CNN: AOC, Omar, Tlaib and Pressley launch joint fundraising committee 'Squad Victory Fund'](https://www.cnn.com/2020/07/01/politics/squad-ocasio-cortez-tlaib-omar-pressley/index.html) (Tier 2) (VERIFIED)
+- [American Prospect: Democratic Leaders Rake In Corporate Cash as "the Squad" Sticks With Small Donors](https://prospect.org/2019/07/19/democratic-leaders-rake-corporate-cash-the-squad-sticks-small-donors/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -100,9 +100,9 @@ The DSCC is not a neutral fundraising channel. It's a filter that converts indep
 | Warnock out-of-state funding %age | 2021 | 73% | Dominance of national donor network | OpenSecrets (Tier 1) |
 
 ### Sources:
-- [FEC Candidate: Chuck Schumer contributor profile](https://www.fec.gov/data/candidate/H0NY16010/) (Tier 1)
-- [OpenSecrets: Goldman Sachs PAC recipients 2024](https://www.opensecrets.org/political-action-committees-pacs/goldman-sachs/C00350744/candidate-recipients/2024) (Tier 1)
-- [Center for Public Integrity: Schumer's road to the top greased by donations to colleagues](https://publicintegrity.org/politics/schumers-road-to-the-top-greased-by-donations-to-colleagues/) (Tier 2)
+- [FEC Candidate: Chuck Schumer contributor profile](https://www.fec.gov/data/candidate/H0NY16010/) (Tier 1) (VERIFIED)
+- [OpenSecrets: Goldman Sachs PAC recipients 2024](https://www.opensecrets.org/political-action-committees-pacs/goldman-sachs/C00350744/candidate-recipients/2024) (Tier 1) (VERIFIED)
+- [Center for Public Integrity: Schumer's road to the top greased by donations to colleagues](https://publicintegrity.org/politics/schumers-road-to-the-top-greased-by-donations-to-colleagues/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -140,10 +140,10 @@ The 13 Democrats who voted NO:
 - The barrier was pharma's profit margin. US insulin costs 10x what Canadians pay. Pharma donations preceded the contradictory votes by 1-3 years.
 
 ### Sources:
-- [The Intercept: Cory Booker Joins Senate Republicans to Kill Drug Importation Measure](https://theintercept.com/2017/01/12/cory-booker-joins-senate-republicans-to-kill-measure-to-import-cheaper-medicine-from-canada/) (Tier 2)
-- [FEC Candidate: Cory Booker donor profile](https://www.fec.gov/data/candidate/P00009795/) (Tier 1)
-- [Senate Roll Call Vote 115-1-00020](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00020.htm) (Tier 1)
-- [PolitiFact: Cory Booker and Drug Maker Campaign Cash](https://www.politifact.com/factchecks/2019/jul/02/donald-trump/cory-booker-and-drug-maker-campaign-cash-numbers/) (Tier 2)
+- [The Intercept: Cory Booker Joins Senate Republicans to Kill Drug Importation Measure](https://theintercept.com/2017/01/12/cory-booker-joins-senate-republicans-to-kill-measure-to-import-cheaper-medicine-from-canada/) (Tier 2) (VERIFIED)
+- [FEC Candidate: Cory Booker donor profile](https://www.fec.gov/data/candidate/P00009795/) (Tier 1) (VERIFIED)
+- [Senate Roll Call Vote 115-1-00020](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00020.htm) (Tier 1) (VERIFIED)
+- [PolitiFact: Cory Booker and Drug Maker Campaign Cash](https://www.politifact.com/factchecks/2019/jul/02/donald-trump/cory-booker-and-drug-maker-campaign-cash-numbers/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -178,9 +178,9 @@ Pharma donations arrived 3+ months before Neal's committee action. The "comprehe
 > [!money] **Richard Neal: $750K pharma donations → 99.8% of drug market protected. Time gap: 3-24 months from donations to restrictive policy language.**
 
 ### Sources:
-- [WBUR: Mass. U.S. Reps. Are Big Beneficiaries Of Big Pharma, Data Shows](https://www.wbur.org/commonhealth/2018/11/02/drug-company-money-congress-members) (Tier 2)
-- [Read Sludge: Neal Took Big Bucks From Lobbyists While Killing a Surprise Medical Bills Fix](https://readsludge.com/2020/05/05/neal-took-big-bucks-from-lobbyists-while-killing-a-surprise-medical-bills-fix/) (Tier 2)
-- [The Intercept: Rep. Richard Neal Sides With Pharma and GOP on Drug-Pricing Bill](https://theintercept.com/2019/10/23/drug-pricing-bill-richard-neal/) (Tier 2)
+- [WBUR: Mass. U.S. Reps. Are Big Beneficiaries Of Big Pharma, Data Shows](https://www.wbur.org/commonhealth/2018/11/02/drug-company-money-congress-members) (Tier 2) (NEEDS REVIEW)
+- [Read Sludge: Neal Took Big Bucks From Lobbyists While Killing a Surprise Medical Bills Fix](https://readsludge.com/2020/05/05/neal-took-big-bucks-from-lobbyists-while-killing-a-surprise-medical-bills-fix/) (Tier 2) (VERIFIED)
+- [The Intercept: Rep. Richard Neal Sides With Pharma and GOP on Drug-Pricing Bill](https://theintercept.com/2019/10/23/drug-pricing-bill-richard-neal/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -220,9 +220,9 @@ AIPAC's 2024 spending breakdown:
 | Fetterman Senate | Pro-Israel support | Won general | (to Senate) | OpenSecrets (Tier 1) |
 
 ### Sources:
-- [OpenSecrets: Pro-Israel PACs Poised to Spend Big to Unseat Progressive Members in 2024](https://www.opensecrets.org/news/2023/12/pro-israel-pacs-poised-to-spend-big-to-unseat-progressive-members-of-congress-in-2024-election-cycle/) (Tier 2)
-- [Democracy Now: AIPAC vs. The Squad: Pro-Israel Group to Spend $100M to Target Progressives in 2024](https://www.democracynow.org/2024/1/2/ryan_grim_the_squad_congress_2024) (Tier 2)
-- [Read Sludge: AIPAC Made Record Donations to Congress in November, New FEC Filing Shows](https://readsludge.com/2024/01/02/aipac-makes-record-donations-to-congress/) (Tier 2)
+- [OpenSecrets: Pro-Israel PACs Poised to Spend Big to Unseat Progressive Members in 2024](https://www.opensecrets.org/news/2023/12/pro-israel-pacs-poised-to-spend-big-to-unseat-progressive-members-of-congress-in-2024-election-cycle/) (Tier 2) (VERIFIED)
+- [Democracy Now: AIPAC vs. The Squad: Pro-Israel Group to Spend $100M to Target Progressives in 2024](https://www.democracynow.org/2024/1/2/ryan_grim_the_squad_congress_2024) (Tier 2) (VERIFIED)
+- [Read Sludge: AIPAC Made Record Donations to Congress in November, New FEC Filing Shows](https://readsludge.com/2024/01/02/aipac-makes-record-donations-to-congress/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -260,9 +260,9 @@ Key Democrats with public climate rhetoric but fossil fuel funding:
 > [!contradiction] **Bennet signed "No Fossil Fuel Money" pledge and still accepted fossil fuel donations. Warner's Intelligence Committee seat gives him portfolio conflicts on energy regulation. Murray's Boeing dependency makes climate votes structurally impossible. These are not individual failures, they're structural incompatibilities between climate rhetoric and defense/energy infrastructure.**
 
 ### Sources:
-- [The Hill: Overnight Energy: Warren wants Dems to hold climate-focused debate; Klobuchar joins candidates rejecting fossil fuel money; 2020 contender Bennet offers climate plan](https://thehill.com/policy/energy-environment/overnights/444665-overnight-energy-warren-wants-dems-to-hold-climate-focused-debate/) (Tier 2)
-- [Yale Climate Connections: The fossil fuel industry spent $219 million to elect the new U.S. government](https://yaleclimateconnections.org/2025/01/the-fossil-fuel-industry-spent-219-million-to-elect-the-new-u-s-government/) (Tier 2)
-- [Jacobin: Fossil Fuel Cash Is Weakening Democrats' Climate Support](https://jacobin.com/2024/03/fossil-fuel-cash-democrats-climate) (Tier 2)
+- ~~[The Hill: Overnight Energy: Warren wants Dems to hold climate-focused debate; Klobuchar joins candidates rejecting fossil fuel money; 2020 contender Bennet offers climate plan](https://thehill.com/policy/energy-environment/overnights/444665-overnight-energy-warren-wants-dems-to-hold-climate-focused-debate/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Yale Climate Connections: The fossil fuel industry spent $219 million to elect the new U.S. government](https://yaleclimateconnections.org/2025/01/the-fossil-fuel-industry-spent-219-million-to-elect-the-new-u-s-government/) (Tier 2) (VERIFIED)
+- [Jacobin: Fossil Fuel Cash Is Weakening Democrats' Climate Support](https://jacobin.com/2024/03/fossil-fuel-cash-democrats-climate) (Tier 2) (VERIFIED)
 
 ---
 
@@ -328,7 +328,7 @@ Key Democrats with public climate rhetoric but fossil fuel funding:
 ### Sources
 
 ### Primary Databases:
-- [FEC Filings Database](https://www.fec.gov/data/) (Tier 1)
+- [FEC Filings Database](https://www.fec.gov/data/) (Tier 1) (VERIFIED)
 
 ### Investigation & Journalism:
 

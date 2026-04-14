@@ -59,11 +59,11 @@ Additional priorities: favorable SEC regulation of fund disclosures, opposition 
 
 ### Sources
 
-- [OpenSecrets: American Investment Council lobbying](https://www.opensecrets.org/orgs/american-investment-council/lobbying?id=D000036835) (Tier 1)
-- [Americans for Tax Fairness: Carried interest analysis](https://americansfortaxfairness.org/issue/carried-interest/) (Tier 2)
-- [ProPublica: This Doctors Group Is Owned by a Private Equity Firm and Repeatedly Sued the Poor Until We Called Them](https://www.propublica.org/article/this-doctors-group-is-owned-by-a-private-equity-firm-and-repeatedly-sued-the-poor-until-we-called-them) (Tier 2)
-- [Washington Post: Private-equity lobby wins relief from tax hikes in Inflation Reduction Act](https://www.washingtonpost.com/us-policy/2022/08/07/inflation-reduction-act-sinema-private-equity/) (Tier 2)
-- [Ballotpedia: Private equity political spending](https://ballotpedia.org/Private_equity) (Tier 3)
+- [OpenSecrets: American Investment Council lobbying](https://www.opensecrets.org/orgs/american-investment-council/lobbying?id=D000036835) (Tier 1) (VERIFIED)
+- ~~[Americans for Tax Fairness: Carried interest analysis](https://americansfortaxfairness.org/issue/carried-interest/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [ProPublica: This Doctors Group Is Owned by a Private Equity Firm and Repeatedly Sued the Poor Until We Called Them](https://www.propublica.org/article/this-doctors-group-is-owned-by-a-private-equity-firm-and-repeatedly-sued-the-poor-until-we-called-them) (Tier 2) (VERIFIED)
+- [Washington Post: Private-equity lobby wins relief from tax hikes in Inflation Reduction Act](https://www.washingtonpost.com/us-policy/2022/08/07/inflation-reduction-act-sinema-private-equity/) (Tier 2) (VERIFIED)
+- [Ballotpedia: Private equity political spending](https://ballotpedia.org/Private_equity) (Tier 3) (VERIFIED)
 
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->
@@ -81,7 +81,7 @@ Additional priorities: favorable SEC regulation of fund disclosures, opposition 
 
 **Agencies contacted:** Commerce, Dept of (DOC), Defense, Dept of (DOD), Education, Dept of, Energy, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP), Federal Communications Commission (FCC), Federal Trade Commission (FTC), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS) +15 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Private%20Equity%20Industry%20Bloc) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Private%20Equity%20Industry%20Bloc) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

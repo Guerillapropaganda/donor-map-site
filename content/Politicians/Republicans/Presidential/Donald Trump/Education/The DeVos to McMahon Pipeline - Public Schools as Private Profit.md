@@ -109,12 +109,12 @@ April 2025. USDA froze school meal funding to Maine for having a permissive tran
 
 ### Sources
 
-- [NPR. Linda McMahon Confirmed as Education Secretary (March 3, 2025)](https://www.npr.org/2025/03/03/nx-s1-5307078/trump-cabinet-linda-mcmahon-confirmed-education) (Tier 2)
-- [Inside Higher Ed. McMahon Confirms Plans to Dismantle Department of Education (February 13, 2025)](https://www.insidehighered.com/news/government/politics-elections/2025/02/13/mcmahon-confirms-trumps-plans-dismantle-department-ed) (Tier 2)
-- [EdWeek. Trump Slashed Billions for Education in 2025 (January 2026)](https://www.edweek.org/policy-politics/trump-slashed-billions-for-education-in-2025-see-our-list-of-affected-grants/2026/01) (Tier 2)
-- [NPR. Trump Admin Withholding Over $6 Billion in Education Grants (July 1, 2025)](https://www.npr.org/2025/07/01/nx-s1-5453457/trump-school-funding-grants) (Tier 2)
-- [Center for American Progress. Inside the Financial Holdings of Billionaire Betsy DeVos](https://www.americanprogress.org/article/inside-the-financial-holdings-of-billionaire-betsy-devos/) (Tier 2)
-- [NBC News. Betsy DeVos Put Millions Behind School Choice Candidates](https://www.nbcnews.com/politics/politics-news/betsy-devos-american-federation-children-private-school-rcna76307) (Tier 2)
-- [Higher Ed Dive. Betsy DeVos Formally Revokes Gainful Employment Rule (June 2019)](https://www.highereddive.com/news/betsy-devos-formally-revokes-gainful-employment-rule/557949/) (Tier 2)
-- [The White House. Executive Order 14201. Keeping Men Out of Women's Sports (February 5, 2025)](https://www.whitehouse.gov/presidential-actions/2025/02/keeping-men-out-of-womens-sports/) (Tier 1)
+- [NPR. Linda McMahon Confirmed as Education Secretary (March 3, 2025)](https://www.npr.org/2025/03/03/nx-s1-5307078/trump-cabinet-linda-mcmahon-confirmed-education) (Tier 2) (VERIFIED)
+- [Inside Higher Ed. McMahon Confirms Plans to Dismantle Department of Education (February 13, 2025)](https://www.insidehighered.com/news/government/politics-elections/2025/02/13/mcmahon-confirms-trumps-plans-dismantle-department-ed) (Tier 2) (VERIFIED)
+- [EdWeek. Trump Slashed Billions for Education in 2025 (January 2026)](https://www.edweek.org/policy-politics/trump-slashed-billions-for-education-in-2025-see-our-list-of-affected-grants/2026/01) (Tier 2) (VERIFIED)
+- [NPR. Trump Admin Withholding Over $6 Billion in Education Grants (July 1, 2025)](https://www.npr.org/2025/07/01/nx-s1-5453457/trump-school-funding-grants) (Tier 2) (VERIFIED)
+- [Center for American Progress. Inside the Financial Holdings of Billionaire Betsy DeVos](https://www.americanprogress.org/article/inside-the-financial-holdings-of-billionaire-betsy-devos/) (Tier 2) (VERIFIED)
+- [NBC News. Betsy DeVos Put Millions Behind School Choice Candidates](https://www.nbcnews.com/politics/politics-news/betsy-devos-american-federation-children-private-school-rcna76307) (Tier 2) (VERIFIED)
+- [Higher Ed Dive. Betsy DeVos Formally Revokes Gainful Employment Rule (June 2019)](https://www.highereddive.com/news/betsy-devos-formally-revokes-gainful-employment-rule/557949/) (Tier 2) (VERIFIED)
+- [The White House. Executive Order 14201. Keeping Men Out of Women's Sports (February 5, 2025)](https://www.whitehouse.gov/presidential-actions/2025/02/keeping-men-out-of-womens-sports/) (Tier 1) (VERIFIED)
 

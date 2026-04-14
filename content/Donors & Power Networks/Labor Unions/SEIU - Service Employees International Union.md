@@ -145,8 +145,8 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: SEI
 > [!money] The $232.7 Million Question
 > SEIU has spent $232.7 million on federal politics since 1990, 99% to Democrats. The concrete wins: Fight for $15 ($150B in raises for 26M workers), AB 1228 ($20/hr fast-food floor), pandemic-era protections. The structural losses: single-payer died, Janus gutted public-sector revenues, the $15 federal contractor minimum was reversed by executive order. SEIU's political spending buys incremental victories and defensive survival. It does not buy structural transformation. The healthcare donor class spent a fraction of $232.7M and got single-payer killed. Koch spent less on Janus litigation and gutted SEIU Local 1000's revenue by 49%. The asymmetry is the story: labor's political dollar buys access; capital's political dollar buys outcomes.
 
-- [OpenSecrets: SEIU lifetime giving](https://www.opensecrets.org/orgs/service-employees-international-union/totals?id=D000000077) (Tier 1)
-- [California Governor's Office: AB 1228 Fast Food Worker Wage](https://www.gov.ca.gov/2023/09/28/california-increases-minimum-wage-protections-for-fast-food-workers/) (Tier 1)
+- [OpenSecrets: SEIU lifetime giving](https://www.opensecrets.org/orgs/service-employees-international-union/totals?id=D000000077) (Tier 1) (VERIFIED)
+- [California Governor's Office: AB 1228 Fast Food Worker Wage](https://www.gov.ca.gov/2023/09/28/california-increases-minimum-wage-protections-for-fast-food-workers/) (Tier 1) (VERIFIED)
 
 ---
 
@@ -163,14 +163,14 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: SEI
 | Net Assets | $8.2M |
 | Officer Compensation | $917K |
 
-- [Source: ProPublica Nonprofit Explorer - EIN 361760052](https://projects.propublica.org/nonprofits/organizations/361760052) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer - EIN 361760052](https://projects.propublica.org/nonprofits/organizations/361760052) (Tier 1) (VERIFIED)
 
 <!-- auto:propublica-990 end -->
 
 ### Sources
 
-- [OpenSecrets: Service Employees International Union 2024 cycle](https://www.opensecrets.org/orgs/service-employees-international-union/summary?id=D000000077) (Tier 1)
-- [OpenSecrets: SEIU lifetime giving data](https://www.opensecrets.org/orgs/service-employees-international-union/totals?id=D000000077) (Tier 1)
+- [OpenSecrets: Service Employees International Union 2024 cycle](https://www.opensecrets.org/orgs/service-employees-international-union/summary?id=D000000077) (Tier 1) (VERIFIED)
+- [OpenSecrets: SEIU lifetime giving data](https://www.opensecrets.org/orgs/service-employees-international-union/totals?id=D000000077) (Tier 1) (VERIFIED)
 - [California Governor's Office: AB 1228 Fast Food Worker Wage](https://www.gov.ca.gov/2023/09/28/california-increases-minimum-wage-protections-for-fast-food-workers/) (Tier 1)
 
 ---
@@ -183,8 +183,8 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: SEI
 
 **32BJ SEIU contract talks:** In New York, 32BJ SEIU entered contract negotiations with the Realty Advisory Board (RAB) representing residential building owners. More than **34,000 building service workers** covered by a contract expiring April 20, 2026.
 
-- [SEIU Local 721 March 2026 President's Report](https://www.seiu721.org/presidents-report/presidents-report-march-2026.php) (Tier 2)
-- [Amsterdam News: 32BJ SEIU building workers enter contract talks](https://amsterdamnews.com/news/2026/03/12/32bj-seiu-building-workers-enter-contract-talks/) (Tier 2)
+- [SEIU Local 721 March 2026 President's Report](https://www.seiu721.org/presidents-report/presidents-report-march-2026.php) (Tier 2) (VERIFIED)
+- [Amsterdam News: 32BJ SEIU building workers enter contract talks](https://amsterdamnews.com/news/2026/03/12/32bj-seiu-building-workers-enter-contract-talks/) (Tier 2) (VERIFIED)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-donor start -->
@@ -208,7 +208,7 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: SEI
 | UNIDOSUS ACTION PAC | $250,000 | - |
 | VOTAR ES PODER PAC | $235,000 | - |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=SEIU%20-%20Service%20Employees%20International%20Union) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=SEIU%20-%20Service%20Employees%20International%20Union) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### DOJ Press Releases
@@ -228,12 +228,12 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: SEI
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/361760052/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/361760052/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/361760052/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/361760052/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/361760052/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/361760052/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/361760052/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/361760052/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/361760052/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/361760052/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/361760052) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/361760052) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->

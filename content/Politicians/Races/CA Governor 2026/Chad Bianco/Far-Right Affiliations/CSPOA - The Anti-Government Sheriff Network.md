@@ -105,14 +105,14 @@ For Bianco specifically: the constitutional sheriff framework is what allows him
 
 ### Sources
 
-- [ADL. CSPOA and Richard Mack](https://www.adl.org/resources/report/constitutional-sheriffs-and-peace-officers-association-cspoa-and-richard-mack-how) (Tier 2)
-- [SPLC. Constitutional Sheriffs](https://www.splcenter.org/resources/extremist-files/constitutional-sheriffs/) (Tier 2)
-- [Wikipedia. CSPOA](https://en.wikipedia.org/wiki/Constitutional_Sheriffs_and_Peace_Officers_Association) (Tier 3)
-- [Wikipedia. Richard Mack](https://en.wikipedia.org/wiki/Richard_Mack) (Tier 3)
-- [American Oversight. Constitutional Sheriffs and Democracy](https://americanoversight.org/investigation/the-constitutional-sheriffs-movement-and-its-threat-democracy/) (Tier 2)
-- [IREHR. CSPOA and Oath Keepers, shoulder to shoulder](https://irehr.org/2022/07/15/shoulder-to-shoulder-cspoa-and-the-oath-keepers/) (Tier 2)
-- [VICE. Richard Mack crusade to radicalize law enforcement](https://www.vice.com/en/article/richard-mack-constitutional-sheriff-movement/) (Tier 3)
-- [SPLC. Bundy Ranch standoff](https://www.splcenter.org/resources/reports/war-west-bundy-ranch-standoff-and-american-radical-right/) (Tier 2)
+- [ADL. CSPOA and Richard Mack](https://www.adl.org/resources/report/constitutional-sheriffs-and-peace-officers-association-cspoa-and-richard-mack-how) (Tier 2) (VERIFIED)
+- [SPLC. Constitutional Sheriffs](https://www.splcenter.org/resources/extremist-files/constitutional-sheriffs/) (Tier 2) (VERIFIED)
+- [Wikipedia. CSPOA](https://en.wikipedia.org/wiki/Constitutional_Sheriffs_and_Peace_Officers_Association) (Tier 3) (VERIFIED)
+- [Wikipedia. Richard Mack](https://en.wikipedia.org/wiki/Richard_Mack) (Tier 3) (VERIFIED)
+- ~~[American Oversight. Constitutional Sheriffs and Democracy](https://americanoversight.org/investigation/the-constitutional-sheriffs-movement-and-its-threat-democracy/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [IREHR. CSPOA and Oath Keepers, shoulder to shoulder](https://irehr.org/2022/07/15/shoulder-to-shoulder-cspoa-and-the-oath-keepers/) (Tier 2) (VERIFIED)
+- [VICE. Richard Mack crusade to radicalize law enforcement](https://www.vice.com/en/article/richard-mack-constitutional-sheriff-movement/) (Tier 3) (VERIFIED)
+- [SPLC. Bundy Ranch standoff](https://www.splcenter.org/resources/reports/war-west-bundy-ranch-standoff-and-american-radical-right/) (Tier 2) (VERIFIED)
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
@@ -121,5 +121,5 @@ For Bianco specifically: the constitutional sheriff framework is what allows him
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: CSPOA - The Anti-Government Sheriff Network](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: CSPOA - The Anti-Government Sheriff Network](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->

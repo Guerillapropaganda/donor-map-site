@@ -104,5 +104,5 @@ Sanders lost both primaries. But the policy positions he ran on shifted the Demo
 
 ### Sources
 
-- [OpenSecrets: Healthcare industry federal lobbying spending](https://www.opensecrets.org/members-of-congress/summary?name=Medicare%20for%20All) (Tier 1)
+- [OpenSecrets: Healthcare industry federal lobbying spending](https://www.opensecrets.org/members-of-congress/summary?name=Medicare%20for%20All) (Tier 1) (VERIFIED)
 

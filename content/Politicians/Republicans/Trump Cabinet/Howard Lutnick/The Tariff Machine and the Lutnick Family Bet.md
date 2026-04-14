@@ -57,4 +57,4 @@ The structure: father creates market-moving policy → son trades on the outcome
 
 ### Sources
 
-- [Senate Finance Committee: Warren-Wyden probe](https://www.finance.senate.gov/hearings) (Tier 1)
+- [Senate Finance Committee: Warren-Wyden probe](https://www.finance.senate.gov/hearings) (Tier 1) (VERIFIED)

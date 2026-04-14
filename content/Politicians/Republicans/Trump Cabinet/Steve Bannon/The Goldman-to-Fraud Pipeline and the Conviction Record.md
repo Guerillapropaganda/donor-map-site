@@ -95,5 +95,5 @@ Bannon's War Room podcast — launched as "War Room: Impeachment" (October 2019)
 
 ### Sources
 
-- [DOJ: Contempt sentencing](https://www.justice.gov/usao-sdny/pr) (Tier 1)
-- [Axios: $750K Breitbart salary](https://www.axios.com/results?q=Goldman-to-Fraud%20Pipeline%20and%20the%20Conviction%20Record) (Tier 2)
+- ~~[DOJ: Contempt sentencing](https://www.justice.gov/usao-sdny/pr)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Axios: $750K Breitbart salary](https://www.axios.com/results?q=Goldman-to-Fraud%20Pipeline%20and%20the%20Conviction%20Record)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)

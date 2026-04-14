@@ -62,7 +62,7 @@ These figures were not previously in the vault. Now added to "Who They Fund":
 3. **RSA dollar contribution to Bianco 2026 governor committee** — Cal-Access state filing (calmatters.digitaldemocracy.org blocked; calaccess.sos.ca.gov not accessible).
 4. **ProPublica 990 data for RSA** — site blocked. IRS 990 totals for RSA (EIN 95-6203844) and RSA Public Education Fund (rsapef.org) would show PAC expenditure totals.
 
-**Next step for researcher:** Manually access [voteinfo.net](https://www.voteinfo.net/?q=2026-03-18%20Finance%20Research) (Riverside County filing portal) or [netfile.fppc.ca.gov](https://form700.fppc.ca.gov?q=2026-03-18%20Finance%20Research) to pull Form 460s for "[[_Chad Bianco Master Profile|Chad Bianco]] for Sheriff 2022" committee and "Riverside Sheriffs' Association Public Education Fund" to get direct contribution amounts.
+**Next step for researcher:** Manually access ~~[voteinfo.net](https://www.voteinfo.net/?q=2026-03-18%20Finance%20Research)~~ (URL broken, archived by Ops) (Riverside County filing portal) or ~~[netfile.fppc.ca.gov](https://form700.fppc.ca.gov?q=2026-03-18%20Finance%20Research)~~ (URL broken, archived by Ops) to pull Form 460s for "[[_Chad Bianco Master Profile|Chad Bianco]] for Sheriff 2022" committee and "Riverside Sheriffs' Association Public Education Fund" to get direct contribution amounts.
 
 ---
 

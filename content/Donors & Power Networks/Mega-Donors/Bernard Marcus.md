@@ -132,20 +132,20 @@ Labor unions (particularly construction trades unions and retail workers' organi
 
 ### Sources
 
-- [Bernard Marcus - Wikipedia](https://en.wikipedia.org/wiki/Bernard_Marcus) (Tier 3)
-- [Bernard Marcus - Ballotpedia](https://ballotpedia.org/Bernard_Marcus) (Tier 3)
-- [Bernard Marcus, cofounder of The Home Depot and billionaire Republican megadonor, has died - CNN Business](https://www.cnn.com/2024/11/05/business/home-depot-bernie-marcus-death) (Tier 2)
-- [Bernie Marcus, Home Depot cofounder who gave to Republicans and Israel, dies at 95 - The Times of Israel](https://www.timesofisrael.com/bernie-marcus-home-depot-cofounder-who-gave-to-republicans-and-israel-dies-at-95/) (Tier 2)
-- [Bernard Marcus Family Foundation Profile - OpenSecrets](https://www.opensecrets.org/orgs/bernard-marcus-family-foundation/summary?id=D000035605) (Tier 1)
-- [Bernie Marcus - InfluenceWatch](https://www.influencewatch.org/person/bernie-marcus/) (Tier 2)
-- [Marcus Foundation - InfluenceWatch](https://www.influencewatch.org/non-profit/marcus-foundation/) (Tier 2)
-- [A GOP megadonor says he's not 'happy' Trump is leading the 2024 race. Here's why he's still trying to get him elected - ABC News](https://abcnews.com/US/gop-megadonor-happy-trump-leading-2024-race-elected/story?id=105193130?id=105193130) (Tier 2)
-- [He didn't do anything small: Remembering Bernard Marcus - eJewishPhilanthropy](https://ejewishphilanthropy.com/he-didnt-do-anything-small-remembering-bernard-marcus-larger-than-life-businessman-and-philanthropist/) (Tier 2)
-- [Marcus Foundation provides $60 million to RootOne - eJewishPhilanthropy](https://ejewishphilanthropy.com/marcus-foundation-provides-60-million-to-rootone-in-one-of-bernie-marcus-final-major-acts/) (Tier 2)
-- [Looking Back at Bernie Marcus' Giving, and What's Next - Inside Philanthropy](https://www.insidephilanthropy.com/home/looking-back-at-bernie-marcus-giving-and-what-next) (Tier 2)
-- [The Marcus Foundation - Impact](https://marcusfoundation.org/impact/) (Tier 1)
-- [Home Depot Responds To Calls For Boycott Over Co-Founder's Support For Trump - NPR](https://www.npr.org/2019/07/10/740173176/home-depot-responds-to-calls-for-boycott-over-co-founders-support-for-trump) (Tier 2)
-- [Bernie Marcus, Home Depot founder who gave to Republicans and Israel - Jewish Telegraphic Agency](https://www.jta.org/2024/11/05/obituaries/bernie-marcus-home-depot-founder-who-gave-to-republicans-and-israel-dies-at-95) (Tier 2)
+- [Bernard Marcus - Wikipedia](https://en.wikipedia.org/wiki/Bernard_Marcus) (Tier 3) (VERIFIED)
+- [Bernard Marcus - Ballotpedia](https://ballotpedia.org/Bernard_Marcus) (Tier 3) (VERIFIED)
+- [Bernard Marcus, cofounder of The Home Depot and billionaire Republican megadonor, has died - CNN Business](https://www.cnn.com/2024/11/05/business/home-depot-bernie-marcus-death) (Tier 2) (VERIFIED)
+- [Bernie Marcus, Home Depot cofounder who gave to Republicans and Israel, dies at 95 - The Times of Israel](https://www.timesofisrael.com/bernie-marcus-home-depot-cofounder-who-gave-to-republicans-and-israel-dies-at-95/) (Tier 2) (VERIFIED)
+- [Bernard Marcus Family Foundation Profile - OpenSecrets](https://www.opensecrets.org/orgs/bernard-marcus-family-foundation/summary?id=D000035605) (Tier 1) (VERIFIED)
+- [Bernie Marcus - InfluenceWatch](https://www.influencewatch.org/person/bernie-marcus/) (Tier 2) (VERIFIED)
+- [Marcus Foundation - InfluenceWatch](https://www.influencewatch.org/non-profit/marcus-foundation/) (Tier 2) (VERIFIED)
+- [A GOP megadonor says he's not 'happy' Trump is leading the 2024 race. Here's why he's still trying to get him elected - ABC News](https://abcnews.com/US/gop-megadonor-happy-trump-leading-2024-race-elected/story?id=105193130?id=105193130) (Tier 2) (VERIFIED)
+- [He didn't do anything small: Remembering Bernard Marcus - eJewishPhilanthropy](https://ejewishphilanthropy.com/he-didnt-do-anything-small-remembering-bernard-marcus-larger-than-life-businessman-and-philanthropist/) (Tier 2) (VERIFIED)
+- [Marcus Foundation provides $60 million to RootOne - eJewishPhilanthropy](https://ejewishphilanthropy.com/marcus-foundation-provides-60-million-to-rootone-in-one-of-bernie-marcus-final-major-acts/) (Tier 2) (VERIFIED)
+- ~~[Looking Back at Bernie Marcus' Giving, and What's Next - Inside Philanthropy](https://www.insidephilanthropy.com/home/looking-back-at-bernie-marcus-giving-and-what-next)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[The Marcus Foundation - Impact](https://marcusfoundation.org/impact/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Home Depot Responds To Calls For Boycott Over Co-Founder's Support For Trump - NPR](https://www.npr.org/2019/07/10/740173176/home-depot-responds-to-calls-for-boycott-over-co-founders-support-for-trump) (Tier 2) (VERIFIED)
+- [Bernie Marcus, Home Depot founder who gave to Republicans and Israel - Jewish Telegraphic Agency](https://www.jta.org/2024/11/05/obituaries/bernie-marcus-home-depot-founder-who-gave-to-republicans-and-israel-dies-at-95) (Tier 2) (VERIFIED)
 
 ---
 
@@ -180,14 +180,14 @@ Labor unions (particularly construction trades unions and retail workers' organi
 - 2002-07-09 — **PRE 14C**: PRELIMINARY INFORMATION STATEMENT
 - 2001-02-20 — **8-K**: 8-K
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Bernard%20Marcus%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Bernard%20Marcus%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [213800MWAHGQE6BU9654](https://search.gleif.org/#/record/213800MWAHGQE6BU9654) |
+| LEI | [213800MWAHGQE6BU9654](https://search.gleif.org/#/record/213800MWAHGQE6BU9654) (VERIFIED) |
 | Legal Name | BERNARD MARCUS SCHWARTZ FAMILY FUND |
 | Jurisdiction | GB |
 | Entity Status | ACTIVE |
@@ -195,7 +195,7 @@ Labor unions (particularly construction trades unions and retail workers' organi
 | Registration | LAPSED |
 | Last Updated | 2020-02-13T08:10:41Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Campaign Finance (FEC)
@@ -220,5 +220,5 @@ Labor unions (particularly construction trades unions and retail workers' organi
 | SCHOOL FREEDOM FUND | $1,000,000 | — |
 | UNITED DEMOCRACY PROJECT (UDP) | $1,000,000 | — |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Bernard%20Marcus) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Bernard%20Marcus) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->

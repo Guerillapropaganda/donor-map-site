@@ -151,11 +151,11 @@ Jones's capture architecture is institutional rather than corporate-advertiser i
 
 ### Sources
 
-- [Owen Jones — Wikipedia](https://en.wikipedia.org/wiki/Owen_Jones) (Tier 3) (Chrome-verified 2026-03-27)
-- [Novara Media: High Court Rules in Favour of Owen Jones in BBC Gaza Libel Case (March 12, 2026)](https://novaramedia.com/2026/03/12/high-court-rules-in-favour-of-owen-jones-in-bbc-gaza-libel-case/) (Tier 2) (Chrome-verified 2026-03-27)
-- [Committee to Protect Journalists: Guardian columnist Owen Jones assaulted in London (August 2019)](https://cpj.org/2019/08/guardian-columnist-owen-jones-assaulted-in-london/) (Tier 2) (Chrome-verified 2026-03-27)
-- [New Statesman: Labour needs Owen Jones (October 2025)](https://www.newstatesman.com/politics/uk-politics/2025/10/labour-needs-owen-jones) (Tier 3) (Chrome-verified 2026-03-27)
-- [The Guardian: The Labour party is in my blood. Here's why I've just cancelled my membership — Owen Jones (March 21, 2024)](https://www.theguardian.com/commentisfree/2024/mar/21/labour-party-cancelling-membership-policies) (Tier 2) (Chrome-verified 2026-03-27)
-- [Owen Jones YouTube channel — @owenjonestalks](https://www.youtube.com/@owenjonestalks) (Tier 3) (Chrome-verified 2026-03-27)
-- [Owen Jones — The Guardian columnist profile](https://www.theguardian.com/profile/owen-jones) (Tier 2) (Chrome-verified 2026-03-27)
+- [Owen Jones — Wikipedia](https://en.wikipedia.org/wiki/Owen_Jones) (Tier 3) (VERIFIED) (Chrome-verified 2026-03-27)
+- [Novara Media: High Court Rules in Favour of Owen Jones in BBC Gaza Libel Case (March 12, 2026)](https://novaramedia.com/2026/03/12/high-court-rules-in-favour-of-owen-jones-in-bbc-gaza-libel-case/) (Tier 2) (VERIFIED) (Chrome-verified 2026-03-27)
+- [Committee to Protect Journalists: Guardian columnist Owen Jones assaulted in London (August 2019)](https://cpj.org/2019/08/guardian-columnist-owen-jones-assaulted-in-london/) (Tier 2) (VERIFIED) (Chrome-verified 2026-03-27)
+- [New Statesman: Labour needs Owen Jones (October 2025)](https://www.newstatesman.com/politics/uk-politics/2025/10/labour-needs-owen-jones) (Tier 3) (VERIFIED) (Chrome-verified 2026-03-27)
+- [The Guardian: The Labour party is in my blood. Here's why I've just cancelled my membership — Owen Jones (March 21, 2024)](https://www.theguardian.com/commentisfree/2024/mar/21/labour-party-cancelling-membership-policies) (Tier 2) (VERIFIED) (Chrome-verified 2026-03-27)
+- [Owen Jones YouTube channel — @owenjonestalks](https://www.youtube.com/@owenjonestalks) (Tier 3) (VERIFIED) (Chrome-verified 2026-03-27)
+- [Owen Jones — The Guardian columnist profile](https://www.theguardian.com/profile/owen-jones) (Tier 2) (VERIFIED) (Chrome-verified 2026-03-27)
 

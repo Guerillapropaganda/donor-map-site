@@ -84,8 +84,8 @@ Bank of America Corporation. The second-largest U.S. bank by assets ($3.3 trilli
 
 Bank of America's political operation distributes $3-5 million per cycle through its PAC, with additional executive bundling and $7-9 million in annual lobbying expenditures. The bank acquired Countrywide Financial (2008) and Merrill Lynch (2008-2009) during the crisis, absorbing both their toxic assets and their political relationships.
 
-- [OpenSecrets: Bank of America organizational profile](https://www.opensecrets.org/orgs/bank-of-america/summary?id=D000000090) (Tier 1)
-- [FEC: Bank of America PAC filings](https://www.fec.gov/data/committee/C00040998/) (Tier 1)
+- [OpenSecrets: Bank of America organizational profile](https://www.opensecrets.org/orgs/bank-of-america/summary?id=D000000090) (Tier 1) (VERIFIED)
+- [FEC: Bank of America PAC filings](https://www.fec.gov/data/committee/C00040998/) (Tier 1) (VERIFIED)
 
 ---
 
@@ -131,11 +131,11 @@ Bank of America occupies the consumer-facing end of Wall Street's political oper
 
 - [OpenSecrets: Bank of America organizational profile](https://www.opensecrets.org/orgs/bank-of-america/summary?id=D000000090) (Tier 1)
 - [FEC: Bank of America PAC filings](https://www.fec.gov/data/committee/C00040998/) (Tier 1)
-- [Department of Justice: Bank of America $16.65 billion settlement](https://www.justice.gov/archives/opa/pr/bank-america-pay-1665-billion-historic-justice-department-settlement-financial-fraud-leading) (Tier 1)
-- [TARP: Bank of America bailout records](https://home.treasury.gov/data/troubled-asset-relief-program) (Tier 1)
-- [OpenSecrets: Bank of America lobbying expenditures](https://www.opensecrets.org/orgs/bank-of-america/lobbying?id=D000000090) (Tier 1)
-- [Reuters: Bank of America reduces overdraft fees ahead of CFPB action](https://www.reuters.com/business/finance/bank-america-reduce-overdraft-fees-this-spring-2022-01-11/) (Tier 2)
-- [Ballotpedia: Bank of America political spending](https://ballotpedia.org/Bank_of_America) (Tier 3)
+- [Department of Justice: Bank of America $16.65 billion settlement](https://www.justice.gov/archives/opa/pr/bank-america-pay-1665-billion-historic-justice-department-settlement-financial-fraud-leading) (Tier 1) (VERIFIED)
+- [TARP: Bank of America bailout records](https://home.treasury.gov/data/troubled-asset-relief-program) (Tier 1) (VERIFIED)
+- ~~[OpenSecrets: Bank of America lobbying expenditures](https://www.opensecrets.org/orgs/bank-of-america/lobbying?id=D000000090)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Reuters: Bank of America reduces overdraft fees ahead of CFPB action](https://www.reuters.com/business/finance/bank-america-reduce-overdraft-fees-this-spring-2022-01-11/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Ballotpedia: Bank of America political spending](https://ballotpedia.org/Bank_of_America) (Tier 3) (VERIFIED)
 
 ### Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
@@ -185,8 +185,8 @@ Bank of America occupies the consumer-facing end of Wall Street's political oper
 | Total Expenses | $225.7M |
 | Net Assets | $7.6M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 200721133](https://projects.propublica.org/nonprofits/organizations/200721133) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F200721133_202312_990PF_2024060522488911.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 200721133](https://projects.propublica.org/nonprofits/organizations/200721133) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F200721133_202312_990PF_2024060522488911.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Federal Register Activity
@@ -200,15 +200,15 @@ Bank of America occupies the consumer-facing end of Wall Street's political oper
 | Agencies | Commodity Futures Trading Commission, Comptroller of the Currency, Consumer Financial Protection Bureau, Federal Communications Commission, Federal Deposit Insurance Corporation, Federal Housing Finance Agency, Federal Reserve System, Housing and Urban Development Department +3 more |
 
 **Recent regulatory activity:**
-- [Regulatory Capital Rule: Category I and II Banking Organizations, Banking Organizations With Significant Trading Activity, and Optional Adoption for Other Banking Organizations](https://www.federalregister.gov/documents/2026/03/27/2026-05959/regulatory-capital-rule-category-i-and-ii-banking-organizations-banking-organizations-with) (2026-03-27) — Treasury Department ★
-- [Preemption Determination: State Interest-on-Escrow Laws](https://www.federalregister.gov/documents/2025/12/30/2025-23987/preemption-determination-state-interest-on-escrow-laws) (2025-12-30) — Treasury Department
-- [Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Adopt Certain Changes to the Governing Documents of the Exchange's Parent Company](https://www.federalregister.gov/documents/2025/12/22/2025-23532/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-filing-and-immediate-effectiveness) (2025-12-22) — Securities and Exchange Commission
-- [Revisions to the Large Financial Institution Rating System and Framework for the Supervision of Insurance Organizations](https://www.federalregister.gov/documents/2025/11/17/2025-19945/revisions-to-the-large-financial-institution-rating-system-and-framework-for-the-supervision-of) (2025-11-17) — Federal Reserve System
-- [2026-2028 Enterprise Housing Goals](https://www.federalregister.gov/documents/2025/10/02/2025-19428/2026-2028-enterprise-housing-goals) (2025-10-02) — Federal Housing Finance Agency
-- [Revisions to the Large Financial Institution Rating System and Framework for the Supervision of Insurance Organizations](https://www.federalregister.gov/documents/2025/07/15/2025-13223/revisions-to-the-large-financial-institution-rating-system-and-framework-for-the-supervision-of) (2025-07-15) — Federal Reserve System
+- [Regulatory Capital Rule: Category I and II Banking Organizations, Banking Organizations With Significant Trading Activity, and Optional Adoption for Other Banking Organizations](https://www.federalregister.gov/documents/2026/03/27/2026-05959/regulatory-capital-rule-category-i-and-ii-banking-organizations-banking-organizations-with) (VERIFIED) (2026-03-27) — Treasury Department ★
+- [Preemption Determination: State Interest-on-Escrow Laws](https://www.federalregister.gov/documents/2025/12/30/2025-23987/preemption-determination-state-interest-on-escrow-laws) (VERIFIED) (2025-12-30) — Treasury Department
+- [Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Adopt Certain Changes to the Governing Documents of the Exchange's Parent Company](https://www.federalregister.gov/documents/2025/12/22/2025-23532/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-filing-and-immediate-effectiveness) (VERIFIED) (2025-12-22) — Securities and Exchange Commission
+- [Revisions to the Large Financial Institution Rating System and Framework for the Supervision of Insurance Organizations](https://www.federalregister.gov/documents/2025/11/17/2025-19945/revisions-to-the-large-financial-institution-rating-system-and-framework-for-the-supervision-of) (VERIFIED) (2025-11-17) — Federal Reserve System
+- [2026-2028 Enterprise Housing Goals](https://www.federalregister.gov/documents/2025/10/02/2025-19428/2026-2028-enterprise-housing-goals) (VERIFIED) (2025-10-02) — Federal Housing Finance Agency
+- ~~[Revisions to the Large Financial Institution Rating System and Framework for the Supervision of Insurance Organizations](https://www.federalregister.gov/documents/2025/07/15/2025-13223/revisions-to-the-large-financial-institution-rating-system-and-framework-for-the-supervision-of)~~ (URL broken, archived by Ops) (2025-07-15) — Federal Reserve System
 - ... and 822 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Bank%20of%20America%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Bank%20of%20America%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### DOJ Press Releases
@@ -236,7 +236,7 @@ Bank of America occupies the consumer-facing end of Wall Street's political oper
 |------------------|--------|--------|
 | CGI FEDERAL INC. | $912K | 9 |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Tax Filings (IRS 990)
@@ -254,14 +254,14 @@ Bank of America occupies the consumer-facing end of Wall Street's political oper
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/200721133/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/200721133/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/200721133/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/200721133/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/200721133/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/200721133/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/200721133/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/200721133/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/200721133/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/200721133/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/200721133) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/200721133) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Federal Spending (USASpending)
@@ -290,7 +290,7 @@ Bank of America occupies the consumer-facing end of Wall Street's political oper
 | $256K | Department of the Interior | DBAS STEP INTO VIRTUAL BANKING |
 | $0 | Department of Agriculture | RBDG RURAL BUSINESS COOP RURAL ENTERPRISE GRANT |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/509d48f2-8c0f-b129-8f4d-2638ea28c675-R/latest) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/509d48f2-8c0f-b129-8f4d-2638ea28c675-R/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### SEC Filing Activity
@@ -304,13 +304,13 @@ Bank of America occupies the consumer-facing end of Wall Street's political oper
 
 **Notable filings:**
 
-- 2026-04-10 — **424B2**: [424B2](https://www.sec.gov/Archives/edgar/data/70858/000191870426009751/0001918704-26-009751-index.htm)
-- 2026-04-10 — **424B2**: [424B2](https://www.sec.gov/Archives/edgar/data/70858/000191870426009748/0001918704-26-009748-index.htm)
-- 2026-04-10 — **424B2**: [424B2](https://www.sec.gov/Archives/edgar/data/70858/000191870426009746/0001918704-26-009746-index.htm)
-- 2026-04-10 — **424B2**: [424B2](https://www.sec.gov/Archives/edgar/data/70858/000191870426009744/0001918704-26-009744-index.htm)
-- 2026-04-10 — **FWP**: [FWP](https://www.sec.gov/Archives/edgar/data/70858/000191870426009704/0001918704-26-009704-index.htm)
+- 2026-04-10 — **424B2**: [424B2](https://www.sec.gov/Archives/edgar/data/70858/000191870426009751/0001918704-26-009751-index.htm) (VERIFIED)
+- 2026-04-10 — **424B2**: [424B2](https://www.sec.gov/Archives/edgar/data/70858/000191870426009748/0001918704-26-009748-index.htm) (VERIFIED)
+- 2026-04-10 — **424B2**: [424B2](https://www.sec.gov/Archives/edgar/data/70858/000191870426009746/0001918704-26-009746-index.htm) (VERIFIED)
+- 2026-04-10 — **424B2**: [424B2](https://www.sec.gov/Archives/edgar/data/70858/000191870426009744/0001918704-26-009744-index.htm) (VERIFIED)
+- 2026-04-10 — **FWP**: [FWP](https://www.sec.gov/Archives/edgar/data/70858/000191870426009704/0001918704-26-009704-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Bank%20of%20America%22) (Tier 1)
+- ~~[Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Bank%20of%20America%22)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:sec-edgar end -->
 
 ### OCC Enforcement Actions
@@ -341,21 +341,21 @@ Bank of America occupies the consumer-facing end of Wall Street's political oper
 
 **Still-active enforcement actions:**
 
-- [: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea99-107.pdf) (12/30/1999)
-- [AA-ENF-2024-56: Cease-and-Desist Order (C&D) or Personal Cease-and-Desist Order (PC&D)](https://www.occ.gov/static/enforcement-actions/eaAA-ENF-2024-56.pdf) (12/23/2024)
-- [AA-EC-11-72: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2011-184.pdf) (12/21/2011)
-- [: 1829 Prohibition Notification](https://www.occ.gov/static/enforcement-actions/ea2024-42.pdf) (12/20/2024)
-- [AA-EC-09-72: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2009-225.pdf) (12/10/2009)
+- [: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea99-107.pdf) (NEEDS REVIEW) (12/30/1999)
+- [AA-ENF-2024-56: Cease-and-Desist Order (C&D) or Personal Cease-and-Desist Order (PC&D)](https://www.occ.gov/static/enforcement-actions/eaAA-ENF-2024-56.pdf) (VERIFIED) (12/23/2024)
+- [AA-EC-11-72: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2011-184.pdf) (VERIFIED) (12/21/2011)
+- [: 1829 Prohibition Notification](https://www.occ.gov/static/enforcement-actions/ea2024-42.pdf) (VERIFIED) (12/20/2024)
+- [AA-EC-09-72: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2009-225.pdf) (VERIFIED) (12/10/2009)
 
 **Recent enforcement history:**
 
 - [: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea99-107.pdf) (12/30/1999)
-- [: Civil Money Penalty (CMP)](https://www.occ.gov/static/enforcement-actions/ea99-107.pdf) (12/30/1999) — $20,000
+- [: Civil Money Penalty (CMP)](https://www.occ.gov/static/enforcement-actions/ea99-107.pdf) (NEEDS REVIEW) (12/30/1999) — $20,000
 - [AA-ENF-2024-56: Cease-and-Desist Order (C&D) or Personal Cease-and-Desist Order (PC&D)](https://www.occ.gov/static/enforcement-actions/eaAA-ENF-2024-56.pdf) (12/23/2024)
 - [AA-EC-11-72: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2011-184.pdf) (12/21/2011)
 - [: 1829 Prohibition Notification](https://www.occ.gov/static/enforcement-actions/ea2024-42.pdf) (12/20/2024)
-- [AA-EC-11-110: Prompt Corrective Action (PCA) Directive](https://www.occ.gov/static/enforcement-actions/ea2011-181.pdf) (12/16/2011) [terminated]
+- [AA-EC-11-110: Prompt Corrective Action (PCA) Directive](https://www.occ.gov/static/enforcement-actions/ea2011-181.pdf) (VERIFIED) (12/16/2011) [terminated]
 - ... and 109 more
 
-- [Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=Bank%20of%20America&srt=1&pg=1&pgsz=25&isAdv=false) (Tier 1)
+- ~~[Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=Bank%20of%20America&srt=1&pg=1&pgsz=25&isAdv=false)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:occ-enforcement end -->

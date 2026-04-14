@@ -160,14 +160,14 @@ The class function is donor-first governance wrapped in progressive messaging. S
 
 ### Sources
 
-- [Axios: Schumer-Linked PAC Raises $119M in Q3 2024](https://www.axios.com/2024/10/15/schumer-pac-senate-fundraising) (Tier 2)
-- [OpenSecrets: Senate Majority PAC Summary](https://www.opensecrets.org/orgs/senate-majority-pac/summary) (Tier 1)
-- [FEC: Senate Majority PAC Filings](https://www.fec.gov/data/committee/C00484642/) (Tier 1)
-- [Ballotpedia: Senate Majority PAC](https://ballotpedia.org/Senate_Majority_PAC) (Tier 2)
-- [Daily Caller: Schumer-Linked Super PAC Trails GOP Counterpart](https://dailycaller.com/2026/01/29/chuck-schumer-pac-republicans-democrats-senate-fundraising/) (Tier 3)
-- [Washington Examiner: Schumer's PAC Dark Money Hypocrisy](https://www.washingtonexaminer.com/news/1107241/chuck-schumer-tied-pac-took-81m-from-dark-money-group-as-he-decried-special-interests/) (Tier 3)
-- [NBC News: Democratic Super PAC Stockpiles Cash](https://www.nbcnews.com/meet-the-press/meetthepressblog/democratic-super-pac-stockpiles-cash-senate-battle-rcna96724) (Tier 2)
-- [ProPublica: Dark Money Networks 2024](https://www.propublica.org/article/in-montana-dark-money-helped-democrats-hold-a-key-senate-seat) (Tier 2)
+- ~~[Axios: Schumer-Linked PAC Raises $119M in Q3 2024](https://www.axios.com/2024/10/15/schumer-pac-senate-fundraising)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[OpenSecrets: Senate Majority PAC Summary](https://www.opensecrets.org/orgs/senate-majority-pac/summary)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [FEC: Senate Majority PAC Filings](https://www.fec.gov/data/committee/C00484642/) (Tier 1) (VERIFIED)
+- [Ballotpedia: Senate Majority PAC](https://ballotpedia.org/Senate_Majority_PAC) (Tier 2) (VERIFIED)
+- [Daily Caller: Schumer-Linked Super PAC Trails GOP Counterpart](https://dailycaller.com/2026/01/29/chuck-schumer-pac-republicans-democrats-senate-fundraising/) (Tier 3) (VERIFIED)
+- [Washington Examiner: Schumer's PAC Dark Money Hypocrisy](https://www.washingtonexaminer.com/news/1107241/chuck-schumer-tied-pac-took-81m-from-dark-money-group-as-he-decried-special-interests/) (Tier 3) (VERIFIED)
+- [NBC News: Democratic Super PAC Stockpiles Cash](https://www.nbcnews.com/meet-the-press/meetthepressblog/democratic-super-pac-stockpiles-cash-senate-battle-rcna96724) (Tier 2) (VERIFIED)
+- [ProPublica: Dark Money Networks 2024](https://www.propublica.org/article/in-montana-dark-money-helped-democrats-hold-a-key-senate-seat) (Tier 2) (VERIFIED)
 
 ---
 
@@ -203,7 +203,7 @@ The class function is donor-first governance wrapped in progressive messaging. S
 - SGCI HOLDINGS III LLC v. FEDERAL COMMUNICATIONS COMMISSION (2024) — District Court, District of Columbia
 - HALES v. PRESTON (2024) — District Court, N.D. Florida
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Senate%20Majority%20PAC%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Senate%20Majority%20PAC%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Register Activity
@@ -215,10 +215,10 @@ The class function is donor-first governance wrapped in progressive messaging. S
 | Agencies | Federal Election Commission |
 
 **Recent regulatory activity:**
-- [Sunshine Act Meetings](https://www.federalregister.gov/documents/2015/11/05/2015-28370/sunshine-act-meetings) (2015-11-05) — Federal Election Commission
-- [Sunshine Act Meetings](https://www.federalregister.gov/documents/2015/10/26/2015-27336/sunshine-act-meetings) (2015-10-26) — Federal Election Commission
+- [Sunshine Act Meetings](https://www.federalregister.gov/documents/2015/11/05/2015-28370/sunshine-act-meetings) (VERIFIED) (2015-11-05) — Federal Election Commission
+- [Sunshine Act Meetings](https://www.federalregister.gov/documents/2015/10/26/2015-27336/sunshine-act-meetings) (VERIFIED) (2015-10-26) — Federal Election Commission
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Senate%20Majority%20PAC%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Senate%20Majority%20PAC%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### SEC Filing Activity
@@ -235,5 +235,5 @@ The class function is donor-first governance wrapped in progressive messaging. S
 - 2024-09-03 — **144**: 144
 - 2023-03-16 — **10-K**: 10-K
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Senate%20Majority%20PAC%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Senate%20Majority%20PAC%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->

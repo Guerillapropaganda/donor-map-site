@@ -73,10 +73,10 @@ Organizing for Action exemplifies how campaign finance law's restrictions on ind
 
 ### Sources
 
-- [ProPublica: Organizing for Action's Dark Money Network](https://projects.propublica.org/nonprofits/organizations/461827418) (Tier 2)
-- [OpenSecrets: OFA Funding and Spending](https://www.opensecrets.org/orgs/organizing-for-action/summary?id=D000078907) (Tier 1)
-- [IRS Form 990: OFA Annual Filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Organizing%20for%20Action&city=&state=All+States&country=US) (Tier 1)
-- [Center for Responsive Politics: Dark Money and Tax Exemption](https://www.opensecrets.org/orgs/organizing-for-action/summary?id=D000078907) (Tier 1)
+- [ProPublica: Organizing for Action's Dark Money Network](https://projects.propublica.org/nonprofits/organizations/461827418) (Tier 2) (VERIFIED)
+- [OpenSecrets: OFA Funding and Spending](https://www.opensecrets.org/orgs/organizing-for-action/summary?id=D000078907) (Tier 1) (VERIFIED)
+- ~~[IRS Form 990: OFA Annual Filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Organizing%20for%20Action&city=&state=All+States&country=US)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Center for Responsive Politics: Dark Money and Tax Exemption](https://www.opensecrets.org/orgs/organizing-for-action/summary?id=D000078907) (Tier 1) (VERIFIED)
 
 ---
 
@@ -102,8 +102,8 @@ Organizing for Action exemplifies how campaign finance law's restrictions on ind
 | Net Assets | $2.3M |
 | Officer Compensation | $470K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 461827418](https://projects.propublica.org/nonprofits/organizations/461827418) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=01_2020_prefixes_45-46%2F461827418_201812_990O_2020010316992777.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 461827418](https://projects.propublica.org/nonprofits/organizations/461827418) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=01_2020_prefixes_45-46%2F461827418_201812_990O_2020010316992777.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### SEC Filing Activity
@@ -121,7 +121,7 @@ Organizing for Action exemplifies how campaign finance law's restrictions on ind
 - 2023-04-14 — **DEF 14A**: DEF 14A
 - 2023-05-30 — **EX-10.1**: EX-10.1
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Organizing%20for%20Action%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Organizing%20for%20Action%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Federal Court Records (CourtListener)
@@ -140,7 +140,7 @@ Organizing for Action exemplifies how campaign finance law's restrictions on ind
 - Latinos for Trump v. Sessions (2021) — District Court, W.D. Texas
 - Larry Klayman v. American Civil Liberties Union (2017) — District Court, C.D. California
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Organizing%20for%20Action%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Organizing%20for%20Action%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Lobbying Activity
@@ -159,7 +159,7 @@ Organizing for Action exemplifies how campaign finance law's restrictions on ind
 
 **Agencies contacted:** Bureau of Alcohol Tobacco Firearms & Explosives, Bureau of Citizenship & Immigration Services (BCIS), Energy, Dept of, Executive Office of the President (EOP), Federal Communications Commission (FCC), General Services Administration (GSA), HOUSE OF REPRESENTATIVES, Homeland Security, Dept of (DHS), Natl Oceanic & Atmospheric Administration (NOAA), Natl Security Council (NSC) +8 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Organizing%20for%20Action) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Organizing%20for%20Action) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Tax Filings (IRS 990)
@@ -177,11 +177,11 @@ Organizing for Action exemplifies how campaign finance law's restrictions on ind
 **Filing history:** 2018, 2017, 2016, 2015, 2014
 
 **View 990 filings:**
-- [2018 Filing](https://projects.propublica.org/nonprofits/organizations/461827418/2018)
-- [2017 Filing](https://projects.propublica.org/nonprofits/organizations/461827418/2017)
-- [2016 Filing](https://projects.propublica.org/nonprofits/organizations/461827418/2016)
-- [2015 Filing](https://projects.propublica.org/nonprofits/organizations/461827418/2015)
-- [2014 Filing](https://projects.propublica.org/nonprofits/organizations/461827418/2014)
+- ~~[2018 Filing](https://projects.propublica.org/nonprofits/organizations/461827418/2018)~~ (URL broken, archived by Ops)
+- ~~[2017 Filing](https://projects.propublica.org/nonprofits/organizations/461827418/2017)~~ (URL broken, archived by Ops)
+- ~~[2016 Filing](https://projects.propublica.org/nonprofits/organizations/461827418/2016)~~ (URL broken, archived by Ops)
+- ~~[2015 Filing](https://projects.propublica.org/nonprofits/organizations/461827418/2015)~~ (URL broken, archived by Ops)
+- ~~[2014 Filing](https://projects.propublica.org/nonprofits/organizations/461827418/2014)~~ (URL broken, archived by Ops)
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/461827418) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/461827418) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->

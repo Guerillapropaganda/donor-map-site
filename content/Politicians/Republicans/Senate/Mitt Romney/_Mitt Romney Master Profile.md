@@ -72,12 +72,12 @@ His 2020 impeachment vote (one of seven Republicans voting to convict) demonstra
 
 ## Sources
 
-- [FEC Candidate: Mitt Romney donor profile](https://www.fec.gov/data/candidate/P80003353/) (Tier 1)
-- [FEC campaign finance records: Romney 2012 presidential](https://www.fec.gov) (Tier 1)
-- [Bain Capital leveraged buyout model and investment performance](https://www.sec.gov) (Tier 1)
-- [Romney "47 percent" comment: leaked video, 2012](https://www.youtube.com/watch?v=J2SLM7ktjUU) (Tier 3)
-- [Carried interest tax loophole and PE partner taxation](https://www.congress.gov) (Tier 1)
-- [Romney 2020 impeachment vote: Senate record](https://www.senate.gov) (Tier 1)
+- [FEC Candidate: Mitt Romney donor profile](https://www.fec.gov/data/candidate/P80003353/) (Tier 1) (VERIFIED)
+- [FEC campaign finance records: Romney 2012 presidential](https://www.fec.gov) (Tier 1) (VERIFIED)
+- [Bain Capital leveraged buyout model and investment performance](https://www.sec.gov) (Tier 1) (VERIFIED)
+- [Romney "47 percent" comment: leaked video, 2012](https://www.youtube.com/watch?v=J2SLM7ktjUU) (Tier 3) (VERIFIED)
+- ~~[Carried interest tax loophole and PE partner taxation](https://www.congress.gov)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Romney 2020 impeachment vote: Senate record](https://www.senate.gov) (Tier 1) (VERIFIED)
 
 ---
 
@@ -110,7 +110,7 @@ His 2020 impeachment vote (one of seven Republicans voting to convict) demonstra
 | AMERICAN CROSSROADS | $11,481,126 | $0 |
 | AMERICANS FOR RESPONSIBLE LEADERSHIP | $9,633,565 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/P80003353/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/P80003353/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (GovTrack)
@@ -134,7 +134,7 @@ His 2020 impeachment vote (one of seven Republicans voting to convict) demonstra
 | 2024-12-20 | S.Amdt. 3346 (Paul) to H.R. 82: To adjust the normal and early retirement ages f… | Nay | Amendment Rejected |
 | 2024-12-20 | On the Nomination PN2245: Serena Raquel Murillo, of California, to be United Sta… | Nay | Nomination Confirmed |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412841) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412841) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
 
 ## Voting Record
@@ -159,5 +159,5 @@ His 2020 impeachment vote (one of seven Republicans voting to convict) demonstra
 
 **Sources**
 
-- [GovTrack: Mitt Romney](https://www.govtrack.us/congress/members/412841) (Tier 1)
+- [GovTrack: Mitt Romney](https://www.govtrack.us/congress/members/412841) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->

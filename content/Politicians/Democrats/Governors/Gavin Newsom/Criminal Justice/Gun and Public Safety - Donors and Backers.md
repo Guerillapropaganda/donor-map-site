@@ -167,23 +167,23 @@ AB 28 school safety funding is the exemplar: visible, measurable, addressing a s
 9. Crime reduction vs. police expansion budget allocation, comparative analysis not yet started.
 
 ### Primary sources to pull:
-- [California FPPC](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1)
-- [Cal-Access Power Search](https://powersearch.sos.ca.gov/advanced.php) (Tier 1)
-- [OpenSecrets California](https://www.opensecrets.org/states/CA) (Tier 1)
+- [California FPPC](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1) (VERIFIED)
+- [Cal-Access Power Search](https://powersearch.sos.ca.gov/advanced.php) (Tier 1) (VERIFIED)
+- [OpenSecrets California](https://www.opensecrets.org/states/CA) (Tier 1) (VERIFIED)
 
 ---
 
 ### Sources
 
-- [CNN: California Gun Control Laws and AB 28 Tax](https://www.cnn.com/2023/09/27/us/california-gun-tax-gavin-newsom/index.html) (Tier 2)
-- [California Governor's Office: Governor Newsom Signs California Firearm and Ammunition Tax](https://www.gov.ca.gov/2023/09/26/governor-newsom-strengthens-californias-nation-leading-gun-safety-laws/) (Tier 1)
-- [Congressional Sportsmen's Foundation: Firearm and Ammunition Tax Bill](https://congressionalsportsmen.org/news/governor-newsom-signs-california-firearm-and-ammunition-tax-bill-into-law/) (Tier 2)
-- [Capital Research Center: The Funders of Gun Control Advocacy](https://capitalresearch.org/article/the-funders-of-gun-control-advocacy/) (Tier 3)
-- [Capital Research Center: The Big Five Gun Control Groups](https://capitalresearch.org/article/the-big-five-gun-control-groups-part-1/) (Tier 3)
-- [Wikipedia: Everytown for Gun Safety](https://en.wikipedia.org/wiki/Everytown_for_Gun_Safety) (Tier 3)
-- [CalMatters: CCPOA Political Power](https://calmatters.org/justice/2024/07/ccpoa-gavin-newsom/) (Tier 2)
-- [CalMatters: Why California's Prison Guard Union is Spending Like Never Before on Newsom](https://calmatters.org/justice/2024/07/ccpoa-gavin-newsom/) (Tier 2)
-- [Ballotpedia: Everytown for Gun Safety](https://ballotpedia.org/Everytown_for_Gun_Safety) (Tier 2)
+- [CNN: California Gun Control Laws and AB 28 Tax](https://www.cnn.com/2023/09/27/us/california-gun-tax-gavin-newsom/index.html) (Tier 2) (VERIFIED)
+- [California Governor's Office: Governor Newsom Signs California Firearm and Ammunition Tax](https://www.gov.ca.gov/2023/09/26/governor-newsom-strengthens-californias-nation-leading-gun-safety-laws/) (Tier 1) (VERIFIED)
+- [Congressional Sportsmen's Foundation: Firearm and Ammunition Tax Bill](https://congressionalsportsmen.org/news/governor-newsom-signs-california-firearm-and-ammunition-tax-bill-into-law/) (Tier 2) (VERIFIED)
+- [Capital Research Center: The Funders of Gun Control Advocacy](https://capitalresearch.org/article/the-funders-of-gun-control-advocacy/) (Tier 3) (VERIFIED)
+- [Capital Research Center: The Big Five Gun Control Groups](https://capitalresearch.org/article/the-big-five-gun-control-groups-part-1/) (Tier 3) (VERIFIED)
+- [Wikipedia: Everytown for Gun Safety](https://en.wikipedia.org/wiki/Everytown_for_Gun_Safety) (Tier 3) (VERIFIED)
+- [CalMatters: CCPOA Political Power](https://calmatters.org/justice/2024/07/ccpoa-gavin-newsom/) (Tier 2) (VERIFIED)
+- [CalMatters: Why California's Prison Guard Union is Spending Like Never Before on Newsom](https://calmatters.org/justice/2024/07/ccpoa-gavin-newsom/) (Tier 2) (VERIFIED)
+- [Ballotpedia: Everytown for Gun Safety](https://ballotpedia.org/Everytown_for_Gun_Safety) (Tier 2) (VERIFIED)
 
 ---
 

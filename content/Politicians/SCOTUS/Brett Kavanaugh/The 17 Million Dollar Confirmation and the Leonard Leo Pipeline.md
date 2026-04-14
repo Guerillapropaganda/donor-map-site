@@ -90,16 +90,16 @@ Kavanaugh's confirmation established the template for future dark money judicial
 ### Sources
 
 ### Tier 1 (Primary Documents)
-- [Senate Judiciary Committee: Confirmation Hearing on the Nomination of Brett M. Kavanaugh - September 27, 2018](https://www.senate.gov/pagelayout/general/one_item_and_teasers/waf.htm) (Tier 1)
-- [FEC: Judicial Crisis Network Filings - 2018 Cycle](https://www.fec.gov/data/committee/C30001689/) (Tier 1)
-- [IRS Form 990-N: Judicial Crisis Network / Concord Fund Annual Filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=The%2017%20Million%20Dollar%20Confirmation%20and%20the%20Leonard%20Leo%20Pipeline&city=&state=All+States&country=US) (Tier 1)
-- [Senate Judiciary Committee: Blasey Ford Testimony Transcript - September 27, 2018](https://www.judiciary.senate.gov/imo/media/doc/Blasey%20Ford%20Testimony.pdf) *(source unavailable)* (Tier 1)
-- [Senate Roll Call Vote 223 - Kavanaugh Confirmation (50-48) - October 6, 2018](https://www.senate.gov/legislative/roll-call-vote-not-available.htm) (Tier 1)
+- [Senate Judiciary Committee: Confirmation Hearing on the Nomination of Brett M. Kavanaugh - September 27, 2018](https://www.senate.gov/pagelayout/general/one_item_and_teasers/waf.htm) (Tier 1) (VERIFIED)
+- [FEC: Judicial Crisis Network Filings - 2018 Cycle](https://www.fec.gov/data/committee/C30001689/) (Tier 1) (VERIFIED)
+- ~~[IRS Form 990-N: Judicial Crisis Network / Concord Fund Annual Filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=The%2017%20Million%20Dollar%20Confirmation%20and%20the%20Leonard%20Leo%20Pipeline&city=&state=All+States&country=US)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Senate Judiciary Committee: Blasey Ford Testimony Transcript - September 27, 2018](https://www.judiciary.senate.gov/imo/media/doc/Blasey%20Ford%20Testimony.pdf)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 1)
+- [Senate Roll Call Vote 223 - Kavanaugh Confirmation (50-48) - October 6, 2018](https://www.senate.gov/legislative/roll-call-vote-not-available.htm) (Tier 1) (VERIFIED)
 
 ### Tier 2 (Investigative Journalism)
-- [OpenSecrets: Secretive conservative legal group funded by $17 million mystery donor before Kavanaugh fight](https://www.opensecrets.org/news/2019/05/dark-money-group-funded-by-17million-mystery-donor-before-kavanaugh/) (Tier 2)
-- [ProPublica: We Don't Talk About Leonard - The Man Behind the Right's Supreme Court Supermajority](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2)
-- [CREW: Group behind Trump SCOTUS picks brought in nearly $50 million in secret money](https://www.citizensforethics.org/reports-investigations/crew-investigations/group-behind-trump-scotus-picks-brought-in-nearly-50-million-in-secret-money/) (Tier 2)
+- [OpenSecrets: Secretive conservative legal group funded by $17 million mystery donor before Kavanaugh fight](https://www.opensecrets.org/news/2019/05/dark-money-group-funded-by-17million-mystery-donor-before-kavanaugh/) (Tier 2) (VERIFIED)
+- [ProPublica: We Don't Talk About Leonard - The Man Behind the Right's Supreme Court Supermajority](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2) (VERIFIED)
+- [CREW: Group behind Trump SCOTUS picks brought in nearly $50 million in secret money](https://www.citizensforethics.org/reports-investigations/crew-investigations/group-behind-trump-scotus-picks-brought-in-nearly-50-million-in-secret-money/) (Tier 2) (VERIFIED)
 
 ### Tier 3 (Secondary Sources)
-- [SourceWatch: Judicial Crisis Network](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Judicial_Crisis_Network) (Tier 3)
+- ~~[SourceWatch: Judicial Crisis Network](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Judicial_Crisis_Network)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)

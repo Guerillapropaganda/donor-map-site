@@ -112,16 +112,16 @@ The class analysis note: his proposed path conditions citizenship on labor for c
 ---
 
 ### Sources
-- [ICE, 287(g) MOU](https://www.ice.gov/doclib/287gMOA/riversidecountysheriffsoffice.pdf) (Tier 1)
-- [CBS Los Angeles, deputies won't make immigration arrests](https://www.cbsnews.com/losangeles/news/riverside-county-deputies-wont-make-immigration-related-arrests-sheriff-bianco-says/) (Tier 2)
-- [ACLU of SoCal. California Values Act explainer](https://www.aclusocal.org/know-your-rights/california-values-act-sb-54/) (Tier 2)
-- [California Legislature. SB 54 text](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201720180SB54) (Tier 1)
-- [America First Legal. Bianco added as plaintiff](https://aflegal.org/press-release/america-first-legal-adds-riverside-county-sheriff-chad-bianco-as-plaintiff-in-lawsuit-against-gavin-newsom-and-the-state-of-california-to-end-illegal-alien-sanctuary-laws/) (Tier 4)
-- [LAist. Huntington Beach loses sanctuary challenge](https://laist.com/news/politics/huntington-beach-loses-challenge-to-california-sanctuary-law) (Tier 2)
-- [ABC7. SB 554 press conference](https://abc7news.com/post/california-sb554-republican-lawmakers-push-weaken-state-immigrant-policies-with-proposed-safety-before-criminal-sanctuary-act/15943219/) (Tier 2)
-- [KESQ. Bianco favors sanctuary overhaul](https://kesq.com/news/2025/02/21/riverside-county-sheriff-speaks-in-favor-of-sanctuary-state-overhaul-bill-/) (Tier 2)
-- [Washington Times. Bianco vows to end sanctuary law](https://twt-assets.washtimes.com/news/2026/feb/10/chad-bianco-sheriff-gop-gubernatorial-candidate-vows-end-californias/) (Tier 3)
-- [Daily Caller, path to citizenship proposal](https://dailycaller.com/2026/02/20/california-chad-bianco-illegal-immigration-citizenship-gop/) (Tier 4)
-- [Orange County Register, immigration stance](https://www.ocregister.com/2026/02/20/bianco-gets-piled-on-for-saying-something-reasonable-on-immigration/) (Tier 2)
-- [Census Reporter. Riverside County demographics](http://censusreporter.org/profiles/05000US06065-riverside-county-ca/) (Tier 1)
+- [ICE, 287(g) MOU](https://www.ice.gov/doclib/287gMOA/riversidecountysheriffsoffice.pdf) (Tier 1) (VERIFIED)
+- [CBS Los Angeles, deputies won't make immigration arrests](https://www.cbsnews.com/losangeles/news/riverside-county-deputies-wont-make-immigration-related-arrests-sheriff-bianco-says/) (Tier 2) (VERIFIED)
+- [ACLU of SoCal. California Values Act explainer](https://www.aclusocal.org/know-your-rights/california-values-act-sb-54/) (Tier 2) (VERIFIED)
+- [California Legislature. SB 54 text](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201720180SB54) (Tier 1) (VERIFIED)
+- [America First Legal. Bianco added as plaintiff](https://aflegal.org/press-release/america-first-legal-adds-riverside-county-sheriff-chad-bianco-as-plaintiff-in-lawsuit-against-gavin-newsom-and-the-state-of-california-to-end-illegal-alien-sanctuary-laws/) (Tier 4) (VERIFIED)
+- [LAist. Huntington Beach loses sanctuary challenge](https://laist.com/news/politics/huntington-beach-loses-challenge-to-california-sanctuary-law) (Tier 2) (VERIFIED)
+- [ABC7. SB 554 press conference](https://abc7news.com/post/california-sb554-republican-lawmakers-push-weaken-state-immigrant-policies-with-proposed-safety-before-criminal-sanctuary-act/15943219/) (Tier 2) (NEEDS REVIEW)
+- [KESQ. Bianco favors sanctuary overhaul](https://kesq.com/news/2025/02/21/riverside-county-sheriff-speaks-in-favor-of-sanctuary-state-overhaul-bill-/) (Tier 2) (VERIFIED)
+- [Washington Times. Bianco vows to end sanctuary law](https://twt-assets.washtimes.com/news/2026/feb/10/chad-bianco-sheriff-gop-gubernatorial-candidate-vows-end-californias/) (Tier 3) (VERIFIED)
+- [Daily Caller, path to citizenship proposal](https://dailycaller.com/2026/02/20/california-chad-bianco-illegal-immigration-citizenship-gop/) (Tier 4) (VERIFIED)
+- [Orange County Register, immigration stance](https://www.ocregister.com/2026/02/20/bianco-gets-piled-on-for-saying-something-reasonable-on-immigration/) (Tier 2) (VERIFIED)
+- [Census Reporter. Riverside County demographics](http://censusreporter.org/profiles/05000US06065-riverside-county-ca/) (Tier 1) (VERIFIED)
 

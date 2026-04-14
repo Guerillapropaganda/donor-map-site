@@ -147,11 +147,11 @@ Collins does not represent Maine voters. She represents the national corporate d
 
 ## Sources
 
-- [FEC Candidate: Collins career donors, industry totals, 2020 race](https://www.fec.gov/data/candidate/S6ME00159/) (Tier 1)
-- [ProPublica: private equity and carried interest](https://www.propublica.org/article/susan-collins-backed-down-from-a-fight-with-private-equity-now-theyre-underwriting-her-reelection) (Tier 2)
-- [Common Dreams/Rolling Stone: Schwarzman-tax bill timeline](https://www.commondreams.org/news/collins-private-equity-donation-tax-bill) (Tier 2)
-- [Maine Public: post-Kavanaugh fundraising](https://www.mainepublic.org/politics/2019-02-04/collins-brings-in-most-money-of-her-career-after-kavanaugh-vote) (Tier 2)
-- [19th News: 2020 race spending](https://19thnews.org/2020/12/susan-collins-senate-race-2020-defied-the-odds/) (Tier 2)
+- [FEC Candidate: Collins career donors, industry totals, 2020 race](https://www.fec.gov/data/candidate/S6ME00159/) (Tier 1) (VERIFIED)
+- [ProPublica: private equity and carried interest](https://www.propublica.org/article/susan-collins-backed-down-from-a-fight-with-private-equity-now-theyre-underwriting-her-reelection) (Tier 2) (VERIFIED)
+- [Common Dreams/Rolling Stone: Schwarzman-tax bill timeline](https://www.commondreams.org/news/collins-private-equity-donation-tax-bill) (Tier 2) (VERIFIED)
+- [Maine Public: post-Kavanaugh fundraising](https://www.mainepublic.org/politics/2019-02-04/collins-brings-in-most-money-of-her-career-after-kavanaugh-vote) (Tier 2) (VERIFIED)
+- ~~[19th News: 2020 race spending](https://19thnews.org/2020/12/susan-collins-senate-race-2020-defied-the-odds/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ### Legislative Activity (Congress.gov)
 
@@ -180,7 +180,7 @@ Collins does not represent Maine voters. She represents the national corporate d
 | 12/22/2015 | -- | Purchase | $1,001 - $15,000 | Spouse |
 | 12/22/2015 | -- | Purchase | $1,001 - $15,000 | Spouse |
 
-- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
 ### Campaign Finance (FEC)
@@ -215,7 +215,7 @@ Collins does not represent Maine voters. She represents the national corporate d
 | 1820 PAC | $4,805,828 | $0 |
 | NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND | $3,849,523 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6ME00159/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6ME00159/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Committee Assignments (Congress.gov)

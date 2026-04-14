@@ -77,12 +77,12 @@ Revenue: 76-89% crowdfunding + 16% YouTube ads + 8% events/merch. Platform: YouT
 
 ### Sources
 
-- [Novara Media: funding page](https://novaramedia.com/about/how-we-are-funded/) (Tier 3)
-- [Press Gazette: Novara supporters scale](https://pressgazette.co.uk/publishers/digital-journalism/novara-media-15000-supporters-youtube-events-north-editor-craig-gent/) (Tier 2)
-- [Companies House: Thousand Hands Ltd](https://find-and-update.company-information.service.gov.uk/company/11245029) (Tier 1)
-- [Company Check: Thousand Hands financial data](https://companycheck.co.uk/company/11245029/THOUSAND-HANDS-LTD/companies-house-data) (Tier 1)
-- [InfluenceWatch: Novara Media profile](https://www.influencewatch.org/for-profit/novara-media/) (Tier 3)
-- [BBC: YouTube termination coverage](https://www.bbc.com/news/technology-59052155) (Tier 2)
-- [Media Reform Coalition: UK media ownership](https://www.mediareform.org.uk/wp-content/uploads/2023/10/Who-Owns-the-UK-Media-2023.pdf) (Tier 2)
-- [UK Charity Commission: journalism guidance](https://charitycommission.blog.gov.uk/2020/01/27/read-all-about-it-when-can-journalism-be-charitable/) (Tier 1)
+- [Novara Media: funding page](https://novaramedia.com/about/how-we-are-funded/) (Tier 3) (VERIFIED)
+- [Press Gazette: Novara supporters scale](https://pressgazette.co.uk/publishers/digital-journalism/novara-media-15000-supporters-youtube-events-north-editor-craig-gent/) (Tier 2) (VERIFIED)
+- [Companies House: Thousand Hands Ltd](https://find-and-update.company-information.service.gov.uk/company/11245029) (Tier 1) (VERIFIED)
+- ~~[Company Check: Thousand Hands financial data](https://companycheck.co.uk/company/11245029/THOUSAND-HANDS-LTD/companies-house-data)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [InfluenceWatch: Novara Media profile](https://www.influencewatch.org/for-profit/novara-media/) (Tier 3) (VERIFIED)
+- [BBC: YouTube termination coverage](https://www.bbc.com/news/technology-59052155) (Tier 2) (VERIFIED)
+- [Media Reform Coalition: UK media ownership](https://www.mediareform.org.uk/wp-content/uploads/2023/10/Who-Owns-the-UK-Media-2023.pdf) (Tier 2) (VERIFIED)
+- [UK Charity Commission: journalism guidance](https://charitycommission.blog.gov.uk/2020/01/27/read-all-about-it-when-can-journalism-be-charitable/) (Tier 1) (VERIFIED)
 

@@ -124,7 +124,7 @@ Source: [[_Cori Bush Master Profile]], [[DMFI - Democratic Majority for Israel]]
 | DMFI PAC | $921,906 | $0 |
 | WORKING FAMILIES PARTY PAC | $0 | $403,125 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4MO01134/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4MO01134/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (Congress.gov)
@@ -153,5 +153,5 @@ Source: [[_Cori Bush Master Profile]], [[DMFI - Democratic Majority for Israel]]
 | 7395 | NO ICE ADs Act | Referred to the Committee on the Judiciary, and in addition to the Committees on Homeland Security, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
 | 7323 | Defense Technology Hubs Act of 2026 | Referred to the House Committee on Armed Services. |
 
-- [Source: Congress.gov](https://www.congress.gov/member/B001324) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/B001324)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->

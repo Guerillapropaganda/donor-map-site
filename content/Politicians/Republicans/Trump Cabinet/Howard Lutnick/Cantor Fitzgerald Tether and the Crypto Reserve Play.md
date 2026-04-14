@@ -62,4 +62,4 @@ The Commerce Secretary's family firm profits from the financial infrastructure o
 
 ### Sources
 
-- [Senate Finance Committee: Warren probe Lutnick conflicts](https://www.finance.senate.gov/hearings) (Tier 1)
+- [Senate Finance Committee: Warren probe Lutnick conflicts](https://www.finance.senate.gov/hearings) (Tier 1) (VERIFIED)

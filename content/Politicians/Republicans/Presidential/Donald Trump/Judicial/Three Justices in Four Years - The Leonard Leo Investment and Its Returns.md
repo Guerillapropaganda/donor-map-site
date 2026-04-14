@@ -127,14 +127,14 @@ The lower courts matter because the Supreme Court hears approximately 70 cases p
 
 ### Sources
 
-- [Federal Judicial Center. Biographical Directory of Article III Federal Judges](https://www.fjc.gov/history/judges) (Tier 1)
-- [Senate.gov. Roll Call Votes on Gorsuch, Kavanaugh, and Barrett Confirmations](https://www.senate.gov/senators/senators-contact.htm) (Tier 1)
-- [ProPublica. We Don't Talk About Leonard. The Man Behind the Right's Supreme Court Supermajority](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2)
-- [Senator Sheldon Whitehouse. Scheme 18. Leonard Leo's $1.6 Billion Payday](https://www.whitehouse.senate.gov/news/speeches/scheme-18_leonard-leos-16-billion-payday/) (Tier 1)
-- [CREW. Group Behind Trump SCOTUS Picks Brought in Nearly $50 Million in Secret Money](https://www.citizensforethics.org/reports-investigations/crew-investigations/group-behind-trump-scotus-picks-brought-in-nearly-50-million-in-secret-money/) (Tier 2)
-- [Ballotpedia. Federal Judges Nominated by Donald Trump](https://ballotpedia.org/Federal_judges_nominated_by_Donald_Trump) (Tier 2)
-- [Courthouse News Service. Trump Flips Another Circuit to Majority GOP Appointees](https://www.courthousenews.com/trump-flips-another-circuit-to-majority-gop-appointees/) (Tier 2)
-- [SCOTUSblog. Loper Bright Enterprises v. Raimondo (June 28, 2024)](https://www.scotusblog.com/2024/06/supreme-court-strikes-down-chevron-curtailing-power-of-federal-agencies/) (Tier 2)
+- [Federal Judicial Center. Biographical Directory of Article III Federal Judges](https://www.fjc.gov/history/judges) (Tier 1) (VERIFIED)
+- [Senate.gov. Roll Call Votes on Gorsuch, Kavanaugh, and Barrett Confirmations](https://www.senate.gov/senators/senators-contact.htm) (Tier 1) (VERIFIED)
+- [ProPublica. We Don't Talk About Leonard. The Man Behind the Right's Supreme Court Supermajority](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2) (VERIFIED)
+- [Senator Sheldon Whitehouse. Scheme 18. Leonard Leo's $1.6 Billion Payday](https://www.whitehouse.senate.gov/news/speeches/scheme-18_leonard-leos-16-billion-payday/) (Tier 1) (VERIFIED)
+- [CREW. Group Behind Trump SCOTUS Picks Brought in Nearly $50 Million in Secret Money](https://www.citizensforethics.org/reports-investigations/crew-investigations/group-behind-trump-scotus-picks-brought-in-nearly-50-million-in-secret-money/) (Tier 2) (VERIFIED)
+- [Ballotpedia. Federal Judges Nominated by Donald Trump](https://ballotpedia.org/Federal_judges_nominated_by_Donald_Trump) (Tier 2) (VERIFIED)
+- [Courthouse News Service. Trump Flips Another Circuit to Majority GOP Appointees](https://www.courthousenews.com/trump-flips-another-circuit-to-majority-gop-appointees/) (Tier 2) (VERIFIED)
+- [SCOTUSblog. Loper Bright Enterprises v. Raimondo (June 28, 2024)](https://www.scotusblog.com/2024/06/supreme-court-strikes-down-chevron-curtailing-power-of-federal-agencies/) (Tier 2) (VERIFIED)
 
 ### Legislative Activity (Congress.gov)
 

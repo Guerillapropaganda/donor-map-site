@@ -60,7 +60,7 @@ The difference: DeVos was a donor-class advocate appointed to implement someone 
 
 ### Sources
 
-- [ProPublica: These activists want to dismantle public schools — Now they run the Education Department](https://www.propublica.org/article/education-department-public-schools-activists-linda-mcmahon-trump) (Tier 2)
-- [The Nation: The MAGA think tank behind Linda McMahon's education agenda](https://www.thenation.com/article/society/the-maga-think-tank-behind-linda-mcmahons-education-agenda/) (Tier 2)
-- [Global Project Against Hate and Extremism: AFPI has taken over the Department of Education](https://globalextremism.org/post/afpi-has-taken-over-the-department-of-education/) (Tier 2)
+- [ProPublica: These activists want to dismantle public schools — Now they run the Education Department](https://www.propublica.org/article/education-department-public-schools-activists-linda-mcmahon-trump) (Tier 2) (VERIFIED)
+- [The Nation: The MAGA think tank behind Linda McMahon's education agenda](https://www.thenation.com/article/society/the-maga-think-tank-behind-linda-mcmahons-education-agenda/) (Tier 2) (VERIFIED)
+- [Global Project Against Hate and Extremism: AFPI has taken over the Department of Education](https://globalextremism.org/post/afpi-has-taken-over-the-department-of-education/) (Tier 2) (VERIFIED)
 

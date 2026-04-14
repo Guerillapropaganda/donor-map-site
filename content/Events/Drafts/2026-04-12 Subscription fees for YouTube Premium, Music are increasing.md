@@ -13,7 +13,7 @@ profiles:
 
 ## Subscription fees for YouTube Premium, Music are increasing
 
-**Source:** [The Hill](https://thehill.com/policy/technology/5828032-subscription-fees-for-youtube-premium-music-are-increasing/)
+**Source:** ~~[The Hill](https://thehill.com/policy/technology/5828032-subscription-fees-for-youtube-premium-music-are-increasing/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-12
 
 It's the first price hike for the service since 2023.

@@ -123,10 +123,10 @@ National Democratic politics. Clinton network, AIPAC connection, UDP funding
 
 ### Sources
 
-- [The New Yorker: "The Influencer" (Saban profile, 2010)](https://www.newyorker.com/magazine/2010/05/10/the-influencer) (Tier 2)
-- [FEC Receipts: Saban donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=haim%20saban) (Tier 1)
-- [OpenSecrets: Saban Capital Group](https://www.opensecrets.org/ORGS/summary.php?id=D000037316) (Tier 1)
-- [Haaretz: Saban $1M to AIPAC UDP](https://www.haaretz.com/us-news/2022-04-13/ty-article/.highlight/israeli-u-s-billionaire-saban-donates-1-million-to-aipacs-super-pac/00000180-5bb2-d718-afd9-dfbea3a70000) (Tier 2)
+- [The New Yorker: "The Influencer" (Saban profile, 2010)](https://www.newyorker.com/magazine/2010/05/10/the-influencer) (Tier 2) (VERIFIED)
+- [FEC Receipts: Saban donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=haim%20saban) (Tier 1) (VERIFIED)
+- ~~[OpenSecrets: Saban Capital Group](https://www.opensecrets.org/ORGS/summary.php?id=D000037316)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Haaretz: Saban $1M to AIPAC UDP](https://www.haaretz.com/us-news/2022-04-13/ty-article/.highlight/israeli-u-s-billionaire-saban-donates-1-million-to-aipacs-super-pac/00000180-5bb2-d718-afd9-dfbea3a70000) (Tier 2) (VERIFIED)
 
 ---
 
@@ -154,7 +154,7 @@ National Democratic politics. Clinton network, AIPAC connection, UDP funding
 | Total Expenses | $2.0M |
 | Net Assets | $26.3M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 306473477](https://projects.propublica.org/nonprofits/organizations/306473477) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 306473477](https://projects.propublica.org/nonprofits/organizations/306473477) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Campaign Finance (FEC)
@@ -179,7 +179,7 @@ National Democratic politics. Clinton network, AIPAC connection, UDP funding
 | DSCC | $504,000 | DEM |
 | DEMOCRATIC GRASSROOTS VICTORY FUND | $500,000 | — |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Haim%20Saban) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Haim%20Saban) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### SEC Filing Activity
@@ -197,7 +197,7 @@ National Democratic politics. Clinton network, AIPAC connection, UDP funding
 - 2013-02-08 — **EX-99.1**: EX-99.1
 - 2001-07-27 — **EX-99**: EXH 99.1 - PRESS RELEASE - FOX FAMILY
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Haim%20Saban%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Haim%20Saban%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### DOJ Press Releases
@@ -219,7 +219,7 @@ National Democratic politics. Clinton network, AIPAC connection, UDP funding
 - The New York Times Company v. Microsoft Corporation (2023) — District Court, S.D. New York
 - Mac Isaac v. Cable News Network, Inc. (2023) — District Court, D. Delaware
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Haim%20Saban%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Haim%20Saban%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Wikipedia
@@ -228,12 +228,12 @@ Haim Saban is an Israeli and American media proprietor, investor, musical compos
 
 | Fact | Value |
 |------|-------|
-| Wikidata ID | [Q559844](https://www.wikidata.org/wiki/Q559844) |
+| Wikidata ID | [Q559844](https://www.wikidata.org/wiki/Q559844) (VERIFIED) |
 | Description | Israeli–American media proprietor, investor |
 | Born | 1944-10-15 |
-| X/Twitter | [@haimsaban](https://x.com/haimsaban) |
-| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Haim_Saban.jpg?width=300) |
+| X/Twitter | [@haimsaban](https://x.com/haimsaban) (VERIFIED) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Haim_Saban.jpg?width=300) (NEEDS REVIEW) |
 
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/Haim_Saban) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q559844) (Tier 2)
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Haim_Saban) (Tier 3) (VERIFIED)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q559844) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->

@@ -103,14 +103,14 @@ The **Knowledge-Suppression Pipeline**: Oil & Gas PAC money → Science Committe
 
 ### Sources
 
-- [FEC Candidate: Brian Babin campaign finance summary](https://www.fec.gov/data/candidate/H6TX02079/) (Tier 1)
-- [FEC Candidate: Brian Babin industry contributions, career](https://www.fec.gov/data/candidate/H6TX02079/) (Tier 1)
-- [Congress.gov: Brian Babin member profile](https://www.congress.gov/member/brian-babin/B001291) (Tier 1)
-- [House Science Committee: Chairman Babin applauds NOAA decision to cancel Billion-Dollar Disasters dataset. May 9, 2025](https://republicans-science.house.gov/2025/5/chairman-babin-applauds-noaa-decision-to-cancel-controversial-billion-dollar-disaster-dataset) (Tier 1)
-- [House Science Committee: Babin, McCormick probe $27B Biden-era EPA climate fund. June 2025](https://republicans-science.house.gov/2025/6/babin-mccormick-probe-27-billion-biden-era-epa-climate-fund-amid-oversight-favoritism-concerns) (Tier 1)
-- [LCV: Brian Babin scorecard, lifetime 1%, 2025 score 0%](https://www.lcv.org/moc/brian-babin/) (Tier 2)
-- [CBS News: NOAA ending its "billion-dollar disasters" database](https://www.cbsnews.com/news/noaa-ending-billion-dollar-disasters-database/) (Tier 2)
-- [Ballotpedia: Brian Babin](https://ballotpedia.org/Brian_Babin) (Tier 3)
+- [FEC Candidate: Brian Babin campaign finance summary](https://www.fec.gov/data/candidate/H6TX02079/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Brian Babin industry contributions, career](https://www.fec.gov/data/candidate/H6TX02079/) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: Brian Babin member profile](https://www.congress.gov/member/brian-babin/B001291)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [House Science Committee: Chairman Babin applauds NOAA decision to cancel Billion-Dollar Disasters dataset. May 9, 2025](https://republicans-science.house.gov/2025/5/chairman-babin-applauds-noaa-decision-to-cancel-controversial-billion-dollar-disaster-dataset) (Tier 1) (VERIFIED)
+- [House Science Committee: Babin, McCormick probe $27B Biden-era EPA climate fund. June 2025](https://republicans-science.house.gov/2025/6/babin-mccormick-probe-27-billion-biden-era-epa-climate-fund-amid-oversight-favoritism-concerns) (Tier 1) (VERIFIED)
+- [LCV: Brian Babin scorecard, lifetime 1%, 2025 score 0%](https://www.lcv.org/moc/brian-babin/) (Tier 2) (VERIFIED)
+- [CBS News: NOAA ending its "billion-dollar disasters" database](https://www.cbsnews.com/news/noaa-ending-billion-dollar-disasters-database/) (Tier 2) (VERIFIED)
+- [Ballotpedia: Brian Babin](https://ballotpedia.org/Brian_Babin) (Tier 3) (VERIFIED)
 
 ---
 

@@ -91,7 +91,7 @@ Novo Nordisk A/S. Danish pharmaceutical company that has become the most valuabl
 
 Novo Nordisk's US political operation is managed through its American subsidiary. The company's PAC contributes $1-2 million per cycle, with lobbying spending of $5-8 million annually. As a foreign-headquartered company, Novo Nordisk's US political operation is constrained by FARA requirements, but the company's market dominance in insulin and GLP-1 drugs gives it enormous regulatory leverage.
 
-- [OpenSecrets: Novo Nordisk organizational profile](https://www.opensecrets.org/orgs/novo-nordisk/summary?id=D000042338) (Tier 1)
+- ~~[OpenSecrets: Novo Nordisk organizational profile](https://www.opensecrets.org/orgs/novo-nordisk/summary?id=D000042338)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -129,7 +129,7 @@ Opposition to drug price negotiation expansion (particularly for GLP-1 drugs), f
 
 **Agencies contacted:** Agriculture, Dept of (USDA), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Council of Economic Advisers (CEA), Defense, Dept of (DOD), Energy, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP), Food & Drug Administration (FDA), HOUSE OF REPRESENTATIVES +8 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Novo%20Nordisk) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Novo%20Nordisk) (Tier 1) (VERIFIED)
 
 <!-- auto:lda-lobbying end -->
 
@@ -146,9 +146,9 @@ Novo Nordisk's FEC contributions reveal the bipartisan insurance strategy common
 ### Sources
 
 - [OpenSecrets: Novo Nordisk organizational profile](https://www.opensecrets.org/orgs/novo-nordisk/summary?id=D000042338) (Tier 1)
-- [Senate Finance Committee: Insulin pricing investigation](https://www.finance.senate.gov/chairmans-news/grassley-wyden-release-insulin-investigation) *(source unavailable)* (Tier 1)
-- [FDA: Insulin product approvals and biosimilars](https://www.fda.gov/drugs/therapeutic-biologics-applications-bla/insulin) *(source unavailable)* (Tier 1)
-- [Ballotpedia: Novo Nordisk](https://ballotpedia.org/Novo_Nordisk) (Tier 3)
+- ~~[Senate Finance Committee: Insulin pricing investigation](https://www.finance.senate.gov/chairmans-news/grassley-wyden-release-insulin-investigation)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 1)
+- ~~[FDA: Insulin product approvals and biosimilars](https://www.fda.gov/drugs/therapeutic-biologics-applications-bla/insulin)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 1)
+- [Ballotpedia: Novo Nordisk](https://ballotpedia.org/Novo_Nordisk) (Tier 3) (VERIFIED)
 
 ---
 
@@ -175,15 +175,15 @@ Novo Nordisk's FEC contributions reveal the bipartisan insurance strategy common
 | Agencies | Antitrust Division, Commerce Department, Employment and Training Administration, Environmental Protection Agency, Federal Trade Commission, Food and Drug Administration, Health and Human Services Department, Justice Department +2 more |
 
 **Recent regulatory activity:**
-- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2026/02/19/2026-03244/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2026-02-19) — Federal Trade Commission
-- [Determination of Regulatory Review Period for Purposes of Patent Extension; ALHEMO](https://www.federalregister.gov/documents/2025/12/29/2025-23863/determination-of-regulatory-review-period-for-purposes-of-patent-extension-alhemo) (2025-12-29) — Health and Human Services Department
-- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2025/08/04/2025-14723/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2025-08-04) — Federal Trade Commission
-- [Determination of Regulatory Review Period for Purposes of Patent Extension; RIVFLOZA](https://www.federalregister.gov/documents/2025/06/16/2025-11040/determination-of-regulatory-review-period-for-purposes-of-patent-extension-rivfloza) (2025-06-16) — Health and Human Services Department
-- [Issuance of Priority Review Voucher; Rare Pediatric Disease Product; ALHEMO (concizumab-mtci)](https://www.federalregister.gov/documents/2025/01/15/2025-00750/issuance-of-priority-review-voucher-rare-pediatric-disease-product-alhemo-concizumab-mtci) (2025-01-15) — Health and Human Services Department
-- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Subcutaneous Drug Development & Delivery Consortium, Inc.](https://www.federalregister.gov/documents/2024/12/20/2024-30418/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-subcutaneous-drug) (2024-12-20) — Justice Department
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2026/02/19/2026-03244/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (VERIFIED) (2026-02-19) — Federal Trade Commission
+- [Determination of Regulatory Review Period for Purposes of Patent Extension; ALHEMO](https://www.federalregister.gov/documents/2025/12/29/2025-23863/determination-of-regulatory-review-period-for-purposes-of-patent-extension-alhemo) (VERIFIED) (2025-12-29) — Health and Human Services Department
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2025/08/04/2025-14723/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (VERIFIED) (2025-08-04) — Federal Trade Commission
+- [Determination of Regulatory Review Period for Purposes of Patent Extension; RIVFLOZA](https://www.federalregister.gov/documents/2025/06/16/2025-11040/determination-of-regulatory-review-period-for-purposes-of-patent-extension-rivfloza) (VERIFIED) (2025-06-16) — Health and Human Services Department
+- [Issuance of Priority Review Voucher; Rare Pediatric Disease Product; ALHEMO (concizumab-mtci)](https://www.federalregister.gov/documents/2025/01/15/2025-00750/issuance-of-priority-review-voucher-rare-pediatric-disease-product-alhemo-concizumab-mtci) (VERIFIED) (2025-01-15) — Health and Human Services Department
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Subcutaneous Drug Development & Delivery Consortium, Inc.](https://www.federalregister.gov/documents/2024/12/20/2024-30418/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-subcutaneous-drug) (VERIFIED) (2024-12-20) — Justice Department
 - ... and 74 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Novo%20Nordisk%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Novo%20Nordisk%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -208,7 +208,7 @@ Novo Nordisk's FEC contributions reveal the bipartisan insurance strategy common
 | Medicinal and Botanical Manufacturing (325411) | $1.0M |
 | Pharmaceutical Preparation Manufacturing (325412) | $661K |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Vehicle Safety (NHTSA)
@@ -226,7 +226,7 @@ Novo Nordisk's FEC contributions reveal the bipartisan insurance strategy common
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Novo%20Nordisk) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Novo%20Nordisk) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Federal Court Records (CourtListener)
@@ -245,14 +245,14 @@ Novo Nordisk's FEC contributions reveal the bipartisan insurance strategy common
 - Chairez v. NOVO NORDISK A/S (2026) — District Court, E.D. Pennsylvania
 - TAHERI v. NOVO NORDISK A/S (2026) — District Court, E.D. Pennsylvania
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Novo%20Nordisk%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Novo%20Nordisk%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [529900UTAHSVRYZL0380](https://search.gleif.org/#/record/529900UTAHSVRYZL0380) |
+| LEI | [529900UTAHSVRYZL0380](https://search.gleif.org/#/record/529900UTAHSVRYZL0380) (VERIFIED) |
 | Legal Name | Novo Nordisk Fonden |
 | Jurisdiction | DK |
 | Entity Status | ACTIVE |
@@ -260,7 +260,7 @@ Novo Nordisk's FEC contributions reveal the bipartisan insurance strategy common
 | Registration | LAPSED |
 | Last Updated | 2021-11-19T12:22:37Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### SEC Filing Activity
@@ -274,13 +274,13 @@ Novo Nordisk's FEC contributions reveal the bipartisan insurance strategy common
 
 **Notable filings:**
 
-- 2026-04-07 — **6-K**: [FORM 6-K](https://www.sec.gov/Archives/edgar/data/353278/000117184326002279/0001171843-26-002279-index.htm)
-- 2026-03-30 — **6-K**: [FORM 6-K](https://www.sec.gov/Archives/edgar/data/353278/000117184326002013/0001171843-26-002013-index.htm)
-- 2026-03-27 — **6-K**: [FORM 6-K](https://www.sec.gov/Archives/edgar/data/353278/000117184326001967/0001171843-26-001967-index.htm)
-- 2026-03-27 — **6-K**: [FORM 6-K](https://www.sec.gov/Archives/edgar/data/353278/000117184326001959/0001171843-26-001959-index.htm)
-- 2026-03-26 — **6-K**: [FORM 6-K](https://www.sec.gov/Archives/edgar/data/353278/000117184326001932/0001171843-26-001932-index.htm)
+- 2026-04-07 — **6-K**: [FORM 6-K](https://www.sec.gov/Archives/edgar/data/353278/000117184326002279/0001171843-26-002279-index.htm) (VERIFIED)
+- 2026-03-30 — **6-K**: [FORM 6-K](https://www.sec.gov/Archives/edgar/data/353278/000117184326002013/0001171843-26-002013-index.htm) (VERIFIED)
+- 2026-03-27 — **6-K**: [FORM 6-K](https://www.sec.gov/Archives/edgar/data/353278/000117184326001967/0001171843-26-001967-index.htm) (VERIFIED)
+- 2026-03-27 — **6-K**: [FORM 6-K](https://www.sec.gov/Archives/edgar/data/353278/000117184326001959/0001171843-26-001959-index.htm) (VERIFIED)
+- 2026-03-26 — **6-K**: [FORM 6-K](https://www.sec.gov/Archives/edgar/data/353278/000117184326001932/0001171843-26-001932-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Novo%20Nordisk%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Novo%20Nordisk%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Sanctions & PEP Screening (OpenSanctions)
@@ -293,9 +293,9 @@ Novo Nordisk's FEC contributions reveal the bipartisan insurance strategy common
 | Source Databases | eu_esma_saris |
 
 **Matched records:**
-- [NOVO NORDISK A/S](https://www.opensanctions.org/entities/NK-YsNuKz2PpjoRPQB3tMfhgM/) — 87% match (eu_esma_saris)
+- [NOVO NORDISK A/S](https://www.opensanctions.org/entities/NK-YsNuKz2PpjoRPQB3tMfhgM/) (VERIFIED) — 87% match (eu_esma_saris)
 
-- [Source: OpenSanctions](https://www.opensanctions.org/search/?q=Novo%20Nordisk) (Tier 1)
+- [Source: OpenSanctions](https://www.opensanctions.org/search/?q=Novo%20Nordisk) (Tier 1) (VERIFIED)
 <!-- auto:opensanctions end -->
 
 ### Federal Spending (USASpending)
@@ -313,5 +313,5 @@ Novo Nordisk's FEC contributions reveal the bipartisan insurance strategy common
 |--------|--------|-------------|
 | $2.1M | National Science Foundation | IDEAS LAB: USPRD: ENABLING CELL-FREE SYNTHESIS OF LONGER HUMAN MILK OLIOGOSACCHARIDES -ENABLING CELL |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/957f1cea-f42c-bcea-e5c0-b8df5fb0d67d-P/latest) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/957f1cea-f42c-bcea-e5c0-b8df5fb0d67d-P/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->

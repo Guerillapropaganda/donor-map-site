@@ -147,18 +147,18 @@ Biss's core contradiction is between his anti-AIPAC rhetoric and his integration
 
 **Current Position:** Mayor of Evanston (until taking U.S. House seat)
 
-**Website:** [danielbiss.com](https://www.danielbiss.com/?q=Daniel%20Biss)
+**Website:** [danielbiss.com](https://www.danielbiss.com/?q=Daniel%20Biss) (VERIFIED)
 
 ## Sources
 
-- [FEC Candidate: Daniel Biss 2026 Campaign Finance](https://www.fec.gov/data/candidate/H6IL09228/) (Tier 1)
-- [FEC: 2026 Primary Results - Illinois 9th District](https://www.fec.gov/data/elections/house/IL/09/2026/) (Tier 1)
-- [Illinois Results: Daniel Biss Beats Kat Abughazaleh in Blow to Left and AIPAC Alike: The Intercept](https://theintercept.com/2026/03/17/illinois-house-senate-primary-results-biss-abughazaleh/) (Tier 2)
-- [What to know about the Illinois primaries, where AIPAC backs a fierce Israel critic: Times of Israel](https://www.timesofisrael.com/what-to-know-about-the-illinois-primaries-where-aipac-backs-a-fierce-israel-critic/) (Tier 2)
-- [Pro-Israel groups see mixed record in money-fuelled Illinois primaries: Al Jazeera](https://www.aljazeera.com/news/2026/3/18/pro-israel-groups-see-mixed-record-in-money-fuelled-illinois-primaries) (Tier 3)
-- [AIPAC super PAC funded big-spending Illinois groups, as Democratic fights over Israel spread: NBC News](https://www.nbcnews.com/politics/2026-election/aipac-super-pac-funded-illinois-groups-democratic-primaries-israel-rcna264379) (Tier 2)
-- [Daniel Biss - Wikipedia](https://en.wikipedia.org/wiki/Daniel_Biss) (Tier 3)
-- [Daniel K. Biss: Ballotpedia](https://ballotpedia.org/Daniel_K._Biss) (Tier 3)
+- [FEC Candidate: Daniel Biss 2026 Campaign Finance](https://www.fec.gov/data/candidate/H6IL09228/) (Tier 1) (VERIFIED)
+- [FEC: 2026 Primary Results - Illinois 9th District](https://www.fec.gov/data/elections/house/IL/09/2026/) (Tier 1) (VERIFIED)
+- [Illinois Results: Daniel Biss Beats Kat Abughazaleh in Blow to Left and AIPAC Alike: The Intercept](https://theintercept.com/2026/03/17/illinois-house-senate-primary-results-biss-abughazaleh/) (Tier 2) (VERIFIED)
+- [What to know about the Illinois primaries, where AIPAC backs a fierce Israel critic: Times of Israel](https://www.timesofisrael.com/what-to-know-about-the-illinois-primaries-where-aipac-backs-a-fierce-israel-critic/) (Tier 2) (VERIFIED)
+- [Pro-Israel groups see mixed record in money-fuelled Illinois primaries: Al Jazeera](https://www.aljazeera.com/news/2026/3/18/pro-israel-groups-see-mixed-record-in-money-fuelled-illinois-primaries) (Tier 3) (VERIFIED)
+- [AIPAC super PAC funded big-spending Illinois groups, as Democratic fights over Israel spread: NBC News](https://www.nbcnews.com/politics/2026-election/aipac-super-pac-funded-illinois-groups-democratic-primaries-israel-rcna264379) (Tier 2) (VERIFIED)
+- [Daniel Biss - Wikipedia](https://en.wikipedia.org/wiki/Daniel_Biss) (Tier 3) (VERIFIED)
+- [Daniel K. Biss: Ballotpedia](https://ballotpedia.org/Daniel_K._Biss) (Tier 3) (VERIFIED)
 
 ---
 
@@ -188,19 +188,19 @@ party:: Democrat
 | J STREET ACTION FUND | $149,773 | $0 |
 | MEDICARE FOR ALL | $148,040 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6IL09228/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6IL09228/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
 _No committee data found for the 119th Congress._
 
-- [Source: Congress.gov](https://www.congress.gov/member/B001296) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/B001296)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Daniel Biss](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: Daniel Biss](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->

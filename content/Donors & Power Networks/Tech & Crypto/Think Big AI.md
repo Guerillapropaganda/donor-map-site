@@ -70,8 +70,8 @@ Think Big and American Mission combined spent approximately $2.5–3 million in 
 > [!contradiction]
 > The AI industry's first major electoral test in Illinois was a near-total failure. Despite $2.5M+ in spending, AI-backed candidates largely lost. The industry's "bipartisan" approach — funding both pro-AI candidates AND opposition to anti-AI candidates simultaneously through different PACs — created a confusing spending environment that may have blunted effectiveness. The question for 2026: will the AI industry learn from Fairshake's disciplinary model, or will it continue scattershot spending?
 
-- [Fortune: AI and Crypto spent nearly $20 million to reshape Illinois — they mostly lost](https://fortune.com/2026/03/18/ai-crypto-illinois-primary-spending-fairshake-think-big-pac/) (Tier 2)
-- [NOTUS: The AI Super PAC Fight That Might Shape the Midterms](https://www.notus.org/2026-election/ai-super-pacs-leading-the-future-public-first-alex-bores) (Tier 2)
+- [Fortune: AI and Crypto spent nearly $20 million to reshape Illinois — they mostly lost](https://fortune.com/2026/03/18/ai-crypto-illinois-primary-spending-fairshake-think-big-pac/) (Tier 2) (VERIFIED)
+- [NOTUS: The AI Super PAC Fight That Might Shape the Midterms](https://www.notus.org/2026-election/ai-super-pacs-leading-the-future-public-first-alex-bores) (Tier 2) (VERIFIED)
 
 [Source: Fortune — Tier 2; CNBC — Tier 2; NBC News — Tier 2]
 
@@ -186,13 +186,13 @@ Unlike crypto's GENIUS Act (which passed into law in July 2025), AI regulatory l
 
 ### Sources
 
-- [CNBC: AI industry looks to repeat crypto lobbying success with 2026 war chest](https://www.cnbc.com/2026/01/28/ai-laws-tech-lobyying-super-pac-midterm-elections.html) (Tier 2)
-- [NBC News: Ads funded by AI industry flooding 2026 elections, avoiding mention of AI](https://www.nbcnews.com/politics/2026-election/ads-ai-industry-are-flooding-2026-election-artificial-intelligence-rcna260782) (Tier 2)
-- [Fortune: AI and Crypto spent $20M in Illinois primaries, mostly lost](https://fortune.com/2026/03/18/ai-crypto-illinois-primary-spending-fairshake-think-big-pac/) (Tier 2)
-- [American Prospect: First AIPAC, now AI PACs — super PACs and the 2026 primaries](https://prospect.org/2026/02/20/aipac-ai-pacs-crypto-midterms-congress-chicago/) (Tier 2)
-- [Chicago Sun-Times: $31M super PAC blitz in four congressional primaries](https://chicago.suntimes.com/2026/03/13/cryptocurrency-ai-join-in-31-million-super-pac-blitz-in-four-congressional-primaries) (Tier 2)
-- [Axios Chicago: Super PACs flood Illinois congressional races](https://www.axios.com/local/chicago/2026/03/04/super-pacs-for-ai-crypto-and-israel-flood-illinois-congressional-races) (Tier 2)
-- [Read Sludge: Crypto, AI, AIPAC set to smash super PAC records](https://readsludge.com/2026/02/02/crypto-ai-and-aipac-set-up-to-smash-super-pac-spending-records/) (Tier 2)
+- [CNBC: AI industry looks to repeat crypto lobbying success with 2026 war chest](https://www.cnbc.com/2026/01/28/ai-laws-tech-lobyying-super-pac-midterm-elections.html) (Tier 2) (VERIFIED)
+- [NBC News: Ads funded by AI industry flooding 2026 elections, avoiding mention of AI](https://www.nbcnews.com/politics/2026-election/ads-ai-industry-are-flooding-2026-election-artificial-intelligence-rcna260782) (Tier 2) (VERIFIED)
+- [Fortune: AI and Crypto spent $20M in Illinois primaries, mostly lost](https://fortune.com/2026/03/18/ai-crypto-illinois-primary-spending-fairshake-think-big-pac/) (Tier 2) (VERIFIED)
+- [American Prospect: First AIPAC, now AI PACs — super PACs and the 2026 primaries](https://prospect.org/2026/02/20/aipac-ai-pacs-crypto-midterms-congress-chicago/) (Tier 2) (VERIFIED)
+- [Chicago Sun-Times: $31M super PAC blitz in four congressional primaries](https://chicago.suntimes.com/2026/03/13/cryptocurrency-ai-join-in-31-million-super-pac-blitz-in-four-congressional-primaries) (Tier 2) (VERIFIED)
+- ~~[Axios Chicago: Super PACs flood Illinois congressional races](https://www.axios.com/local/chicago/2026/03/04/super-pacs-for-ai-crypto-and-israel-flood-illinois-congressional-races)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Read Sludge: Crypto, AI, AIPAC set to smash super PAC records](https://readsludge.com/2026/02/02/crypto-ai-and-aipac-set-up-to-smash-super-pac-spending-records/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -200,20 +200,20 @@ Unlike crypto's GENIUS Act (which passed into law in July 2025), AI regulatory l
 
 **Meta's $65M state-level operation:** Meta is launching two new super PACs for state legislative races — **Forge the Future Project** (backing Republicans) and **Making Our Tomorrow** (backing Democrats). Total commitment: **$65 million**, beginning with Texas and Illinois. The goal is to boost state legislators who are friendly to the AI industry, particularly blocking state-level AI regulation before it can establish precedent. This represents a new front: AI industry spending has been federal until now. Meta's state-level operation aims to preempt regulation from below while federal preemption bills are pending.
 
-- [The Decoder: Meta pours $65 million into state elections to back AI-friendly politicians](https://the-decoder.com/meta-pours-65-million-into-state-elections-to-back-ai-friendly-politicians/) (Tier 2)
-- [Common Dreams: Meta drops $65M on super PACs to back pro-AI candidates](https://www.commondreams.org/news/meta-super-pacs-ai) (Tier 2)
+- [The Decoder: Meta pours $65 million into state elections to back AI-friendly politicians](https://the-decoder.com/meta-pours-65-million-into-state-elections-to-back-ai-friendly-politicians/) (Tier 2) (VERIFIED)
+- [Common Dreams: Meta drops $65M on super PACs to back pro-AI candidates](https://www.commondreams.org/news/meta-super-pacs-ai) (Tier 2) (VERIFIED)
 
 **Anthropic's Jobs and Democracy PAC / Public First:** Anthropic has staked **$20 million** in Public First, an umbrella organization that includes the Jobs and Democracy PAC. Public First frames itself as a "kinder, gentler AI super PAC" focused on prudent regulation rather than accelerationism. Total raised: **$50 million**; planning to raise $25 million more. Already spent in Illinois — $1M against Jesse Jackson Jr. in IL-7 (Jackson lost, but so did the Anthropic-opposed candidate).
 
 > [!money]
 > The AI industry's 2026 spending ecosystem now includes at least four major PAC operations: Leading the Future/Think Big (OpenAI-backed, $125M committed), Public First/Jobs and Democracy (Anthropic-backed, $50M), Meta's state-level PACs ($65M), and various smaller AI-adjacent super PACs. Combined total: **$240M+ committed** to AI-industry electoral intervention in a single cycle. This rivals Fairshake's crypto operation and dwarfs traditional industry lobbying.
 
-- [American Prospect: AI goes to bat for Valerie Foushee](https://prospect.org/2026/02/25/ai-anthropic-claude-super-pac-valerie-foushee-congress-north-carolina/) (Tier 2)
-- [Prism News: Tech billionaires bankroll AI-aligned super PACs as $125M floods midterms](https://www.prismnews.com/news/tech-billionaires-bankroll-ai-aligned-super-pacs-as-125-million-floods-2026-midterms) (Tier 2)
+- [American Prospect: AI goes to bat for Valerie Foushee](https://prospect.org/2026/02/25/ai-anthropic-claude-super-pac-valerie-foushee-congress-north-carolina/) (Tier 2) (VERIFIED)
+- [Prism News: Tech billionaires bankroll AI-aligned super PACs as $125M floods midterms](https://www.prismnews.com/news/tech-billionaires-bankroll-ai-aligned-super-pacs-as-125-million-floods-2026-midterms) (Tier 2) (VERIFIED)
 
 **CLARITY Act crypto-AIPAC-AI convergence:** A FinTech Weekly analysis of FEC Schedule A filings found that 7 of 46 senators sitting on the two Senate committees controlling the CLARITY Act received a combined **$265,500** in direct contributions from crypto-affiliated individuals during the 2025-2026 cycle. This granular data confirms the donation-to-legislation pipeline is active at the committee level.
 
-- [FinTech Weekly: CLARITY Act campaign finance analysis](https://www.fintechweekly.com/news/clarity-act-senate-campaign-finance-fairshake-crypto-pac-fec-data-2026) (Tier 2)
+- [FinTech Weekly: CLARITY Act campaign finance analysis](https://www.fintechweekly.com/news/clarity-act-senate-campaign-finance-fairshake-crypto-pac-fec-data-2026) (Tier 2) (VERIFIED)
 
 ---
 

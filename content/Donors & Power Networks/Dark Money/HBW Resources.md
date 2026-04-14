@@ -61,9 +61,9 @@ HBW's business model is the K Street front-group factory at its most efficient: 
 
 The firm's Denver office is led by Andrew Browning, who is simultaneously a managing partner of HBW Resources, an executive of Consumer Energy Alliance, and president of Western States and Tribal Nations. One person, three job titles, three organizations — all serving the same upstream oil and gas clients.
 
-- [Senate LDA Filings: HBW Resources lobbying firm profile](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [DeSmog: Consumer Energy Alliance (CEA)](https://www.desmog.com/consumer-energy-alliance-cea/) (Tier 2)
-- [SourceWatch: HBW Resources](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/HBW_Resources) (Tier 3)
+- [Senate LDA Filings: HBW Resources lobbying firm profile](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [DeSmog: Consumer Energy Alliance (CEA)](https://www.desmog.com/consumer-energy-alliance-cea/) (Tier 2) (VERIFIED)
+- ~~[SourceWatch: HBW Resources](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/HBW_Resources)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
 
 ---
 
@@ -103,7 +103,7 @@ The contribution pattern is bipartisan with a Republican lean — reflecting HBW
 > [!money]
 > The real money isn't in HBW's employee contributions — it's in the lobbying fees. HBW billed clients $720,000 in 2025, $562,000 in 2022, and $1.2M at peak in 2019–2020. CEA paid HBW an additional $9.1M since 2010. The political contribution line ($25K) is rounding error. The influence is purchased through retainer relationships with HBW lobbyists who have established relationships with Congressional staff and regulators — not through campaign checks.
 
-- [OpenSecrets: HBW Resources org summary — contributions 2024](https://www.opensecrets.org/orgs/hbw-resources/summary?id=D000073431) (Tier 1)
+- [OpenSecrets: HBW Resources org summary — contributions 2024](https://www.opensecrets.org/orgs/hbw-resources/summary?id=D000073431) (Tier 1) (VERIFIED)
 
 ---
 
@@ -156,12 +156,12 @@ The carbon capture pivot (Verde CO2, 2022–2025) illustrates a newer pattern: a
 
 - [Senate LDA Filings: HBW Resources lobbying firm profile](https://lda.gov/filings/public/filing/search/) (Tier 1)
 - [OpenSecrets: HBW Resources org summary — contributions 2024](https://www.opensecrets.org/orgs/hbw-resources/summary?id=D000073431) (Tier 1)
-- [Senate LDA Filings: HBW Resources lobbyists 2024](https://lda.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: HBW Resources lobbyists 2024](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
 - [DeSmog: Consumer Energy Alliance (CEA)](https://www.desmog.com/consumer-energy-alliance-cea/) (Tier 2)
-- [Energy and Policy Institute: Consumer Energy Alliance investigative archive](https://energyandpolicy.org/category/front-groups/consumer-energy-alliance/) (Tier 2)
-- [Facing South: Drive to Drill — Energy Lobbyists Behind Governors' Crusade for Atlantic Oil (2015)](https://www.facingsouth.org/2015/04/drive-to-drill-energy-lobbyists-behind-governors-c) (Tier 2)
-- [Facing South: Big Energy front group launches push for troubled Atlantic Coast Pipeline (2019)](https://www.facingsouth.org/2019/12/big-energy-front-group-launches-push-troubled-atlantic-coast-pipeline) (Tier 2)
-- [Street Roots: Energy lobbyists pose as Tribal Nations to promote Jordan Cove LNG pipeline (2020)](https://www.streetroots.org/environment/2020/06/30/energy-lobbyists-pose-tribal-nations-promote-jordan-cove-lng-pipeline/) (Tier 2)
+- [Energy and Policy Institute: Consumer Energy Alliance investigative archive](https://energyandpolicy.org/category/front-groups/consumer-energy-alliance/) (Tier 2) (VERIFIED)
+- [Facing South: Drive to Drill — Energy Lobbyists Behind Governors' Crusade for Atlantic Oil (2015)](https://www.facingsouth.org/2015/04/drive-to-drill-energy-lobbyists-behind-governors-c) (Tier 2) (VERIFIED)
+- [Facing South: Big Energy front group launches push for troubled Atlantic Coast Pipeline (2019)](https://www.facingsouth.org/2019/12/big-energy-front-group-launches-push-troubled-atlantic-coast-pipeline) (Tier 2) (VERIFIED)
+- [Street Roots: Energy lobbyists pose as Tribal Nations to promote Jordan Cove LNG pipeline (2020)](https://www.streetroots.org/environment/2020/06/30/energy-lobbyists-pose-tribal-nations-promote-jordan-cove-lng-pipeline/) (Tier 2) (VERIFIED)
 - [SourceWatch: HBW Resources](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/HBW_Resources) (Tier 3)
 
 ---
@@ -183,7 +183,7 @@ The carbon capture pivot (Verde CO2, 2022–2025) illustrates a newer pattern: a
 - Province of Saskatchewan (CANADA)
 - Province of Alberta (CANADA)
 
-- [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME,P200_COUNTRY:HBW%20Resources,) (Tier 1)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME,P200_COUNTRY:HBW%20Resources,)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:fara-foreign-agents end -->
 
 ### Federal Court Records (CourtListener)
@@ -200,7 +200,7 @@ The carbon capture pivot (Verde CO2, 2022–2025) illustrates a newer pattern: a
 - Cloud Peak Energy Inc. (2019) — United States Bankruptcy Court, D. Delaware
 - VER Technologies HoldCo LLC (2018) — United States Bankruptcy Court, D. Delaware
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22HBW%20Resources%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22HBW%20Resources%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### SEC Filing Activity
@@ -218,7 +218,7 @@ The carbon capture pivot (Verde CO2, 2022–2025) illustrates a newer pattern: a
 - 2017-12-13 — **DRS/A**: DRS/A
 - 2018-01-30 — **DRS/A**: DRS/A
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22HBW%20Resources%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22HBW%20Resources%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Vehicle Safety (NHTSA)
@@ -236,5 +236,5 @@ The carbon capture pivot (Verde CO2, 2022–2025) illustrates a newer pattern: a
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=HBW%20Resources) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=HBW%20Resources) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->

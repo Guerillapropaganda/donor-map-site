@@ -37,5 +37,5 @@ Profile pending enrichment.
 - ALLIANCE ENERGY PVT. LIMITED (-0-) [IRAN-EO13846]
   - Remarks: Website allianceenergy.pk/; Organization Established Date 19 Dec 2016; Registration Number 0104304 (Pakistan); a.k.a. 'ALLIANCE ENERGY CO.'; Linked To: PERSIAN GULF PETROCHEMICAL INDUSTRY COMMERCIAL C...
 
-- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->

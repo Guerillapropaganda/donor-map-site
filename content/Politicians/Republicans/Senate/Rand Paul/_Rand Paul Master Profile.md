@@ -167,15 +167,15 @@ The dynasty matters for the donor-class analysis: the Paul movement created a pi
 
 ## Sources
 
-- [OpenSecrets: Rand Paul campaign finance summary](https://www.opensecrets.org/members-of-congress/summary?cid=N00030836) (Tier 1)
-- [OpenSecrets: Rand Paul career contributors](https://www.opensecrets.org/members-of-congress/contributors?cid=N00030836&cycle=CAREER) (Tier 1)
-- [Snopes: Rand Paul ophthalmology self-certification board](https://www.snopes.com/fact-check/rand-paul-ophthalmologist/) (Tier 2)
-- [NBC News: Rand Paul blocks $40 billion Ukraine aid package](https://www.nbcnews.com/politics/congress/rand-paul-blocks-quick-passage-40-billion-ukraine-aid-package-rcna28648) (Tier 2)
-- [CNN: Rand Paul drags out $95 billion foreign aid package](https://www.cnn.com/2024/02/09/politics/rand-paul-senate-foreign-aid-package/index.html) (Tier 2)
-- [LPM: Medicaid cuts could devastate Appalachian Kentucky](https://www.lpm.org/news/2025-06-16/proposed-medicaid-cuts-could-devastate-appalachian-kentucky-health-care-providers-say/) (Tier 2)
-- [KFF Health News: Rand Paul opposed federal handouts while taking Medicare patients](https://kffhealthnews.org/morning-breakout/reform-politics-and-personalities/) (Tier 2)
-- [CNN Money: Rand Paul first presidential candidate to accept Bitcoin](https://money.cnn.com/2015/04/07/technology/rand-paul-bitcoin/index.html) (Tier 2)
-- [Wikipedia: Rand Paul](https://en.wikipedia.org/wiki/Rand_Paul) (Tier 3)
+- [OpenSecrets: Rand Paul campaign finance summary](https://www.opensecrets.org/members-of-congress/summary?cid=N00030836) (Tier 1) (VERIFIED)
+- [OpenSecrets: Rand Paul career contributors](https://www.opensecrets.org/members-of-congress/contributors?cid=N00030836&cycle=CAREER) (Tier 1) (VERIFIED)
+- [Snopes: Rand Paul ophthalmology self-certification board](https://www.snopes.com/fact-check/rand-paul-ophthalmologist/) (Tier 2) (VERIFIED)
+- [NBC News: Rand Paul blocks $40 billion Ukraine aid package](https://www.nbcnews.com/politics/congress/rand-paul-blocks-quick-passage-40-billion-ukraine-aid-package-rcna28648) (Tier 2) (VERIFIED)
+- [CNN: Rand Paul drags out $95 billion foreign aid package](https://www.cnn.com/2024/02/09/politics/rand-paul-senate-foreign-aid-package/index.html) (Tier 2) (VERIFIED)
+- [LPM: Medicaid cuts could devastate Appalachian Kentucky](https://www.lpm.org/news/2025-06-16/proposed-medicaid-cuts-could-devastate-appalachian-kentucky-health-care-providers-say/) (Tier 2) (VERIFIED)
+- [KFF Health News: Rand Paul opposed federal handouts while taking Medicare patients](https://kffhealthnews.org/morning-breakout/reform-politics-and-personalities/) (Tier 2) (VERIFIED)
+- ~~[CNN Money: Rand Paul first presidential candidate to accept Bitcoin](https://money.cnn.com/2015/04/07/technology/rand-paul-bitcoin/index.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Wikipedia: Rand Paul](https://en.wikipedia.org/wiki/Rand_Paul) (Tier 3) (VERIFIED)
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->
@@ -193,7 +193,7 @@ The dynasty matters for the donor-class analysis: the Paul movement created a pi
 - S. 3670: End Welfare for Noncitizens Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 15, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 - S. 3638: Antitrust Freedom Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 14, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412492) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412492) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
 
 ## Influence Network (Cross-Reference)
@@ -221,7 +221,7 @@ The dynasty matters for the donor-class analysis: the Paul movement created a pi
 | Total Raised | $11,515 |
 | Cash on Hand | 45.00 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4OH19044/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4OH19044/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Voting Record
@@ -246,7 +246,7 @@ The dynasty matters for the donor-class analysis: the Paul movement created a pi
 
 **Sources**
 
-- [GovTrack: Rand Paul](https://www.govtrack.us/congress/members/412492) (Tier 1)
+- [GovTrack: Rand Paul](https://www.govtrack.us/congress/members/412492) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
 
 ### Legislative Activity (Congress.gov)
@@ -275,5 +275,5 @@ The dynasty matters for the donor-class analysis: the Paul movement created a pi
 | — |  | — |
 | — |  | — |
 
-- [Source: Congress.gov](https://www.congress.gov/member/P000603) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/P000603)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->

@@ -15,7 +15,7 @@ profiles:
 
 ## Gallego, Kelly demand end to Trump administration’s Arizona 2020 election probe
 
-**Source:** [The Hill](https://thehill.com/homenews/senate/5826198-trump-administration-arizona-election-probe-kelly-gallego/)
+**Source:** ~~[The Hill](https://thehill.com/homenews/senate/5826198-trump-administration-arizona-election-probe-kelly-gallego/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-10
 
 Arizona Sens. Mark Kelly (D) and Ruben Gallego (D) are demanding that the Trump administration immediately end its investigation into the state’s 2020 election results. The Democratic lawmakers urged new Department of Homeland Security (DHS) Secretary Markwayne Mullin to end the probe in a Thursday letter. The senators also shared the request with acting Immigration…

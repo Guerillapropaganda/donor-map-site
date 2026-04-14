@@ -85,5 +85,5 @@ The Office of Research and Development is EPA's scientific research arm — the 
 
 - CBS News: EPA rollbacks health effects analysis (Tier 2)
 - Inside Climate News: Zeldin EPA Endangerment Finding (Tier 2)
-- [E&E News: EPA's Zeldin emerges as Project 2025 frontman](https://www.eenews.net/articles/epas-zeldin-emerges-as-project-2025-frontman/) (Tier 2)
+- [E&E News: EPA's Zeldin emerges as Project 2025 frontman](https://www.eenews.net/articles/epas-zeldin-emerges-as-project-2025-frontman/) (Tier 2) (VERIFIED)
 - Environmental Protection Network: analysis methodology (Tier 2)

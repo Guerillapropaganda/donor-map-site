@@ -60,7 +60,7 @@ The NRA's seven-figure TV campaign against McCaskill may have involved illegal c
 
 ### Sources
 
-- [OpenSecrets: Missouri Senate 2018 Race - Outside Spending](https://www.opensecrets.org/races/outside-spending?cycle=2018&id=MOS2) (Tier 1)
-- [STLPR: Missouri Senate race highlights the limited power of money](https://www.stlpr.org/government-politics-issues/2018-12-10/missouri-senate-race-highlights-the-limited-power-of-money) (Tier 2)
-- [St. Louis Today: Hawley vs. McCaskill: A sideshow battle of billionaire donors](https://www.stltoday.com/news/local/government-politics/hawley-vs-mccaskill-a-sideshow-battle-of-billionaire-donors/article_23474f18-65eb-5ef7-945c-ceb28eddca5d.html) (Tier 2)
-- [The Trace: Follow the NRA's Spending on the 2018 Midterms, Down to the Last Dollar](https://www.thetrace.org/2018/07/nra-campaign-finance-tracker/) (Tier 2)
+- [OpenSecrets: Missouri Senate 2018 Race - Outside Spending](https://www.opensecrets.org/races/outside-spending?cycle=2018&id=MOS2) (Tier 1) (VERIFIED)
+- [STLPR: Missouri Senate race highlights the limited power of money](https://www.stlpr.org/government-politics-issues/2018-12-10/missouri-senate-race-highlights-the-limited-power-of-money) (Tier 2) (VERIFIED)
+- [St. Louis Today: Hawley vs. McCaskill: A sideshow battle of billionaire donors](https://www.stltoday.com/news/local/government-politics/hawley-vs-mccaskill-a-sideshow-battle-of-billionaire-donors/article_23474f18-65eb-5ef7-945c-ceb28eddca5d.html) (Tier 2) (VERIFIED)
+- [The Trace: Follow the NRA's Spending on the 2018 Midterms, Down to the Last Dollar](https://www.thetrace.org/2018/07/nra-campaign-finance-tracker/) (Tier 2) (VERIFIED)

@@ -146,11 +146,11 @@ For IBEW members: The Teamsters' rank-and-file politics mirror the building trad
 
 ### Sources
 
-- [OpenSecrets: Teamsters Union 2024 cycle data](https://www.opensecrets.org/orgs/teamsters-union/summary?id=D000000066) (Tier 1)
-- [International Brotherhood of Teamsters: UPS contract 2023](https://teamster.org/2023/08/teamsters-ratify-historic-ups-contract/) (Tier 2)
-- [International Brotherhood of Teamsters: ALU-IBT affiliation](https://teamster.org/2024/06/amazon-labor-union-formally-affiliates-with-teamsters/) (Tier 2)
-- [NPR: 2024 Teamsters non-endorsement](https://www.npr.org/2024/11/06/nx-s1-5182290/2024-election-results-where-things-stand) (Tier 2)
-- [Ballotpedia: Proposition 22 spending data](https://ballotpedia.org/California_Proposition_22,_App-Based_Drivers_as_Contractors_and_Labor_Policies_Initiative_%282020%29) (Tier 1)
+- [OpenSecrets: Teamsters Union 2024 cycle data](https://www.opensecrets.org/orgs/teamsters-union/summary?id=D000000066) (Tier 1) (VERIFIED)
+- [International Brotherhood of Teamsters: UPS contract 2023](https://teamster.org/2023/08/teamsters-ratify-historic-ups-contract/) (Tier 2) (VERIFIED)
+- [International Brotherhood of Teamsters: ALU-IBT affiliation](https://teamster.org/2024/06/amazon-labor-union-formally-affiliates-with-teamsters/) (Tier 2) (VERIFIED)
+- [NPR: 2024 Teamsters non-endorsement](https://www.npr.org/2024/11/06/nx-s1-5182290/2024-election-results-where-things-stand) (Tier 2) (VERIFIED)
+- [Ballotpedia: Proposition 22 spending data](https://ballotpedia.org/California_Proposition_22,_App-Based_Drivers_as_Contractors_and_Labor_Policies_Initiative_%282020%29) (Tier 1) (VERIFIED)
 
 ---
 
@@ -162,7 +162,7 @@ For IBEW members: The Teamsters' rank-and-file politics mirror the building trad
 
 Both expirations create simultaneous leverage moments for the IBT. The DHL and First Student contracts together represent over 20,000 workers in critical logistics and transportation sectors.
 
-- [Labor Notes: Big contract fights coming in 2026](https://labornotes.org/2025/12/one-battle-after-another-big-contract-fights-coming-2026) (Tier 2)
+- [Labor Notes: Big contract fights coming in 2026](https://labornotes.org/2025/12/one-battle-after-another-big-contract-fights-coming-2026) (Tier 2) (VERIFIED)
 
 ### March 22, 2026 Update — DHL Strike Authorization:
 DHL Express Teamsters voted **96% to authorize a strike** if no contract is reached by March 31. The vote covers thousands of workers across 26 local unions in 16 states. Union leadership has publicly stated: "There will be no contract extensions. Our members will not work a day past the expiration of our current agreement." DHL management has expressed optimism about reaching a deal. First Student Teamsters are simultaneously preparing for their own strike authorization vote with the same March 31 deadline. Key demands: minimum daily guaranteed hours, mandatory retirement contributions, healthcare improvements.
@@ -170,9 +170,9 @@ DHL Express Teamsters voted **96% to authorize a strike** if no contract is reac
 > [!money]
 > A dual DHL + First Student strike on April 1 would simultaneously disrupt national package logistics and school bus service across the country. The 96% authorization vote gives O'Brien maximum leverage — this is the Teamsters flex model that succeeded in the 2023 UPS negotiations.
 
-- [Teamsters.org: DHL Strike Authorization, March 2026](https://teamster.org/2026/03/dhl-express-teamsters-authorize-strike/) (Tier 1)
-- [FreightWaves: DHL Strike Threat, March 2026](https://www.freightwaves.com/news/dhl-express-workers-threaten-to-strike-if-no-contract-by-march-31) (Tier 2)
-- [TDU: First Student Strike Vote Preparation](https://www.tdu.org/first-student-teamsters-prepare-strike-vote) (Tier 2)
+- [Teamsters.org: DHL Strike Authorization, March 2026](https://teamster.org/2026/03/dhl-express-teamsters-authorize-strike/) (Tier 1) (VERIFIED)
+- [FreightWaves: DHL Strike Threat, March 2026](https://www.freightwaves.com/news/dhl-express-workers-threaten-to-strike-if-no-contract-by-march-31) (Tier 2) (VERIFIED)
+- [TDU: First Student Strike Vote Preparation](https://www.tdu.org/first-student-teamsters-prepare-strike-vote) (Tier 2) (VERIFIED)
 
 ---
 
@@ -200,8 +200,8 @@ DHL Express Teamsters voted **96% to authorize a strike** if no contract is reac
 | Net Assets | $13.2M |
 | Officer Compensation | $1.1M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 940963930](https://projects.propublica.org/nonprofits/organizations/940963930) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F940963930_202312_990O_2024071222684155.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 940963930](https://projects.propublica.org/nonprofits/organizations/940963930) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F940963930_202312_990O_2024071222684155.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Federal Subawards & Spending Breakdown

@@ -160,15 +160,15 @@ Krishnamoorthi's $29 million Senate campaign, the most expensive in the Illinois
 
 ## Sources
 
-- [FEC Candidate: Raja Krishnamoorthi donor profile](https://www.fec.gov/data/candidate/H6IL08147/) (Tier 1)
-- [FEC Candidate: Krishnamoorthi industry donors 2024](https://www.fec.gov/data/candidate/H6IL08147/) (Tier 1)
-- [FEC: Krishnamoorthi campaign finance](https://www.fec.gov/data/candidate/H6IL08147/) (Tier 1)
-- [Chicago Sun-Times: Krishnamoorthi rails against Trump but takes money from MAGA donors](https://chicago.suntimes.com/the-watchdogs/2025/12/08/raja-krishnamoorthi-senate-campaign-donors-trump-allies-maga-money) (Tier 2)
-- [Chicago Tribune: Krishnamoorthi raises millions for Senate bid as fundraising draws scrutiny](https://www.chicagotribune.com/2026/03/10/raja-krishnamoorthi-fundraising-illinois-senate/) (Tier 2)
-- [Crain's Chicago Business: How Krishnamoorthi became the money leader in the Senate sweepstakes](https://www.chicagobusiness.com/politics/krishnamoorthi-has-19m-senate-bid-more-rivals-combined/) (Tier 2)
-- [Chicago Sun-Times: Stratton defeats Krishnamoorthi in Senate primary](https://chicago.suntimes.com/elections/2026/03/17/us-senate-illinois-primary-results) (Tier 2)
-- [American Prospect: Illinois Senate primary features millions in outside spending](https://prospect.org/2026/03/17/illinois-senate-primary-super-pac-spending-juliana-stratton-raja-krishnamoorthi/) (Tier 2)
-- [Ballotpedia: Raja Krishnamoorthi](https://ballotpedia.org/Raja_Krishnamoorthi) (Tier 3)
+- [FEC Candidate: Raja Krishnamoorthi donor profile](https://www.fec.gov/data/candidate/H6IL08147/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Krishnamoorthi industry donors 2024](https://www.fec.gov/data/candidate/H6IL08147/) (Tier 1) (VERIFIED)
+- [FEC: Krishnamoorthi campaign finance](https://www.fec.gov/data/candidate/H6IL08147/) (Tier 1) (VERIFIED)
+- [Chicago Sun-Times: Krishnamoorthi rails against Trump but takes money from MAGA donors](https://chicago.suntimes.com/the-watchdogs/2025/12/08/raja-krishnamoorthi-senate-campaign-donors-trump-allies-maga-money) (Tier 2) (VERIFIED)
+- [Chicago Tribune: Krishnamoorthi raises millions for Senate bid as fundraising draws scrutiny](https://www.chicagotribune.com/2026/03/10/raja-krishnamoorthi-fundraising-illinois-senate/) (Tier 2) (VERIFIED)
+- [Crain's Chicago Business: How Krishnamoorthi became the money leader in the Senate sweepstakes](https://www.chicagobusiness.com/politics/krishnamoorthi-has-19m-senate-bid-more-rivals-combined/) (Tier 2) (VERIFIED)
+- [Chicago Sun-Times: Stratton defeats Krishnamoorthi in Senate primary](https://chicago.suntimes.com/elections/2026/03/17/us-senate-illinois-primary-results) (Tier 2) (VERIFIED)
+- [American Prospect: Illinois Senate primary features millions in outside spending](https://prospect.org/2026/03/17/illinois-senate-primary-super-pac-spending-juliana-stratton-raja-krishnamoorthi/) (Tier 2) (VERIFIED)
+- [Ballotpedia: Raja Krishnamoorthi](https://ballotpedia.org/Raja_Krishnamoorthi) (Tier 3) (VERIFIED)
 - ~~[FollowTheMoney: Raja Krishnamoorthi](https://www.followthemoney.org/tools/election-overview?eid=6265333&default=candidate)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
 
 ---
@@ -205,7 +205,7 @@ Krishnamoorthi's $29 million Senate campaign, the most expensive in the Illinois
 | PLANNED PARENTHOOD VOTES | $195 | $0 |
 | NEA ADVOCACY FUND | $67 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6IL08147/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6IL08147/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (GovTrack)
@@ -224,7 +224,7 @@ Krishnamoorthi's $29 million Senate campaign, the most expensive in the Illinois
 - H.R. 7160: First Home Affordability Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 20, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 - H.R. 7161: No Private Bounty Hunters for Immigration Enforcement Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 20, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412701) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412701) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
 
 ## Voting Record
@@ -251,7 +251,7 @@ Krishnamoorthi's $29 million Senate campaign, the most expensive in the Illinois
 
 **Sources**
 
-- [GovTrack: Raja Krishnamoorthi](https://www.govtrack.us/congress/members/412701) (Tier 1)
+- [GovTrack: Raja Krishnamoorthi](https://www.govtrack.us/congress/members/412701) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-13 -->
@@ -278,7 +278,7 @@ Krishnamoorthi's $29 million Senate campaign, the most expensive in the Illinois
 
 **Sources**
 
-- [Congress.gov: Raja Krishnamoorthi](https://www.congress.gov/member/e000179) (Tier 1)
+- ~~[Congress.gov: Raja Krishnamoorthi](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [GovTrack: Raja Krishnamoorthi](https://www.govtrack.us/congress/members/412701) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->
@@ -309,7 +309,7 @@ Krishnamoorthi's $29 million Senate campaign, the most expensive in the Illinois
 | 6980 | NOVA Act of 2026 | Referred to the Committee on Foreign Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
 | 6752 | Investing in American Workers Act | Referred to the Committee on Ways and Means, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
 
-- [Source: Congress.gov](https://www.congress.gov/member/K000391) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/K000391)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Committee Assignments (Congress.gov)
@@ -325,7 +325,7 @@ Krishnamoorthi's $29 million Senate campaign, the most expensive in the Illinois
 - Central Intelligence Agency
 - Health Care and Financial Services
 
-- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 ### Campaign Finance Summary (FEC)
@@ -361,13 +361,13 @@ Subramanian Raja Krishnamoorthi is an American attorney and politician serving a
 
 | Fact | Value |
 |------|-------|
-| Wikidata ID | [Q7285471](https://www.wikidata.org/wiki/Q7285471) |
+| Wikidata ID | [Q7285471](https://www.wikidata.org/wiki/Q7285471) (VERIFIED) |
 | Description | American lawyer and politician (born 1973) |
 | Born | 1973-07-19 |
-| Website | [https://krishnamoorthi.house.gov/](https://krishnamoorthi.house.gov/) |
-| X/Twitter | [@congressmanraja](https://x.com/congressmanraja) |
-| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Raja_Krishnamoorthi_official_photo.jpg?width=300) |
+| Website | [https://krishnamoorthi.house.gov/](https://krishnamoorthi.house.gov/) (VERIFIED) |
+| X/Twitter | [@congressmanraja](https://x.com/congressmanraja) (VERIFIED) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Raja_Krishnamoorthi_official_photo.jpg?width=300) (NEEDS REVIEW) |
 
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/Raja_Krishnamoorthi) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q7285471) (Tier 2)
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Raja_Krishnamoorthi) (Tier 3) (VERIFIED)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q7285471) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->

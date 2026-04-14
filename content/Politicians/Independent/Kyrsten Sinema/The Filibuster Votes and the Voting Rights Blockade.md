@@ -155,10 +155,10 @@ The strategy worked until it didn't. By 2022, Arizona Democrats understood the e
 
 ### Sources
 
-- [NPR: Kyrsten Sinema censured by Arizona Democratic Party](https://www.npr.org/2022/01/22/1075088298/kyrsten-sinema-censure-arizona-democrats-filibuster-vote) (Tier 2)
-- [CNN: Sinema censured by Arizona Democratic Party over filibuster stance](https://www.cnn.com/2022/01/22/politics/sinema-censured-arizona-democratic-party/index.html) (Tier 2)
-- [Washington Post: Arizona Democratic Party votes to censure Sinema](https://www.washingtonpost.com/politics/2022/01/22/arizona-democrats-censure-sinema/) (Tier 2)
-- [NBC News: Arizona Democratic Party board votes to censure Sinema](https://www.nbcnews.com/politics/congress/arizona-democratic-party-board-votes-censure-sinema-after-pro-filibuster-n1287890) (Tier 2)
-- [FEC Candidate: Kyrsten Sinema Campaign Finance Summary](https://www.fec.gov/data/candidate/H2AZ09019/) (Tier 1)
-- [FEC Candidate: Kyrsten Sinema PAC Contributions](https://www.fec.gov/data/candidate/H2AZ09019/) (Tier 1)
-- [VoteSmart: Kyrsten Sinema Key Votes](https://justfacts.votesmart.org/candidate/key-votes/28338/kyrsten-sinema) (Tier 2)
+- [NPR: Kyrsten Sinema censured by Arizona Democratic Party](https://www.npr.org/2022/01/22/1075088298/kyrsten-sinema-censure-arizona-democrats-filibuster-vote) (Tier 2) (VERIFIED)
+- [CNN: Sinema censured by Arizona Democratic Party over filibuster stance](https://www.cnn.com/2022/01/22/politics/sinema-censured-arizona-democratic-party/index.html) (Tier 2) (VERIFIED)
+- [Washington Post: Arizona Democratic Party votes to censure Sinema](https://www.washingtonpost.com/politics/2022/01/22/arizona-democrats-censure-sinema/) (Tier 2) (VERIFIED)
+- [NBC News: Arizona Democratic Party board votes to censure Sinema](https://www.nbcnews.com/politics/congress/arizona-democratic-party-board-votes-censure-sinema-after-pro-filibuster-n1287890) (Tier 2) (VERIFIED)
+- [FEC Candidate: Kyrsten Sinema Campaign Finance Summary](https://www.fec.gov/data/candidate/H2AZ09019/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Kyrsten Sinema PAC Contributions](https://www.fec.gov/data/candidate/H2AZ09019/) (Tier 1) (VERIFIED)
+- [VoteSmart: Kyrsten Sinema Key Votes](https://justfacts.votesmart.org/candidate/key-votes/28338/kyrsten-sinema) (Tier 2) (VERIFIED)

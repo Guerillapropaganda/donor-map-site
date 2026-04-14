@@ -117,14 +117,14 @@ The pattern: military authority → government deployment of credibility for def
 
 ## Sources
 
-- [FEC: Colin Powell candidate finance (if applicable)](https://www.fec.gov/data/candidate/) (Tier 1)
-- [Wikipedia: Colin Powell - UN WMD Speech, February 5, 2003](https://en.wikipedia.org/wiki/Colin_Powell) (Tier 3)
-- [CNN: Colin Powell: Iraq WMD speech 'a blot' on my record](https://www.cnn.com/2005/POLITICS/02/05/powell.iraq.wmd/) (Tier 2)
-- [ProPublica: Colin Powell Revolving Door - Board memberships](https://projects.propublica.org/revolving-door-searchable-database/) (Tier 2)
-- [The Guardian: Colin Powell and the Iraq War - A timeline](https://www.theguardian.com/world/2003/feb/05/usa.iraq) (Tier 2)
-- [Council on Foreign Relations: Colin Powell biography and board service](https://www.cfr.org/experts/colin-powell) (Tier 2)
-- [Defense News: Defense contractor profit analysis - Iraq War (2003–2023)](https://www.defensenews.com/industry/2023/03/20/the-true-cost-of-iraq-war/) (Tier 2)
-- [Salon: Colin Powell's lucrative post-government career](https://www.salon.com/2021/10/19/colin-powell-served-defense-contractors-well-after-government/) (Tier 3)
+- ~~[FEC: Colin Powell candidate finance (if applicable)](https://www.fec.gov/data/candidate/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Wikipedia: Colin Powell - UN WMD Speech, February 5, 2003](https://en.wikipedia.org/wiki/Colin_Powell) (Tier 3) (VERIFIED)
+- ~~[CNN: Colin Powell: Iraq WMD speech 'a blot' on my record](https://www.cnn.com/2005/POLITICS/02/05/powell.iraq.wmd/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[ProPublica: Colin Powell Revolving Door - Board memberships](https://projects.propublica.org/revolving-door-searchable-database/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[The Guardian: Colin Powell and the Iraq War - A timeline](https://www.theguardian.com/world/2003/feb/05/usa.iraq)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Council on Foreign Relations: Colin Powell biography and board service](https://www.cfr.org/experts/colin-powell)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Defense News: Defense contractor profit analysis - Iraq War (2003–2023)](https://www.defensenews.com/industry/2023/03/20/the-true-cost-of-iraq-war/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Salon: Colin Powell's lucrative post-government career](https://www.salon.com/2021/10/19/colin-powell-served-defense-contractors-well-after-government/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -146,7 +146,7 @@ The pattern: military authority → government deployment of credibility for def
 |-----------|---------|--------|
 | WASHINGTON CITIZENS FOR COLIN POWELL | $0 | $8,098 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/P60003050/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/P60003050/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### DOJ Press Releases

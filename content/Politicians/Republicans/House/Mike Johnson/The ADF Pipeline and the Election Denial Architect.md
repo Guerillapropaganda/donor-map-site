@@ -68,9 +68,9 @@ Johnson was listed in CNP membership directories (2012-2013), previously unrepor
 
 ### Sources
 
-- [Rolling Stone: Mike Johnson and Alliance Defending Freedom](https://www.rollingstone.com/politics/politics-features/mike-johnson-alliance-defending-freedom-anti-lgbtq-1234865340/) (Tier 2)
-- [Democracy Docket: Election denier Mike Johnson becomes Speaker](https://www.democracydocket.com/news-alerts/election-denier-rep-mike-johnson-wins-house-speakership-after-weeks-of-dysfunction/) (Tier 2)
-- [Brennan Center for Justice: Mike Johnson most powerful election denier](https://www.brennancenter.org/our-work/analysis-opinion/mike-johnson-now-most-powerful-election-denier-washington) (Tier 2)
-- [Documented: Mike Johnson Council for National Policy membership](https://documented.net/connecting-the-dots/mike-johnson-cnp) (Tier 2)
-- [Slate: Mike Johnson covenant marriage](https://slate.com/news-and-politics/2023/10/mike-johnson-republican-house-speaker-covenant-marriage.html) (Tier 2)
-- [SPLC: Alliance Defending Freedom hate group designation](https://www.splcenter.org/hate-map) (Tier 2)
+- [Rolling Stone: Mike Johnson and Alliance Defending Freedom](https://www.rollingstone.com/politics/politics-features/mike-johnson-alliance-defending-freedom-anti-lgbtq-1234865340/) (Tier 2) (VERIFIED)
+- [Democracy Docket: Election denier Mike Johnson becomes Speaker](https://www.democracydocket.com/news-alerts/election-denier-rep-mike-johnson-wins-house-speakership-after-weeks-of-dysfunction/) (Tier 2) (VERIFIED)
+- [Brennan Center for Justice: Mike Johnson most powerful election denier](https://www.brennancenter.org/our-work/analysis-opinion/mike-johnson-now-most-powerful-election-denier-washington) (Tier 2) (VERIFIED)
+- [Documented: Mike Johnson Council for National Policy membership](https://documented.net/connecting-the-dots/mike-johnson-cnp) (Tier 2) (NEEDS REVIEW)
+- [Slate: Mike Johnson covenant marriage](https://slate.com/news-and-politics/2023/10/mike-johnson-republican-house-speaker-covenant-marriage.html) (Tier 2) (VERIFIED)
+- [SPLC: Alliance Defending Freedom hate group designation](https://www.splcenter.org/hate-map) (Tier 2) (NEEDS REVIEW)

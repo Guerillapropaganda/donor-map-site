@@ -29,7 +29,7 @@ FEC results for "David Pakman" (22 results, $18,481.45, CT 2015-2026) belong to 
 
 No federal political contributions found for David Pakman (the show host). David B. Pakman (the venture capitalist with the same name) has made substantial political contributions, but these are not attributable to the media personality.
 
-- [FEC: David Pakman disambiguation](https://www.fec.gov/data/receipts/?contributor_name=pakman%2C+david) (Tier 1, note: results are David B. Pakman, venture capitalist, not the media host)
+- [FEC: David Pakman disambiguation](https://www.fec.gov/data/receipts/?contributor_name=pakman%2C+david) (VERIFIED) (Tier 1, note: results are David B. Pakman, venture capitalist, not the media host)
 
 > **Disambiguation note:** The FEC API search for "pakman, david" returns 22 results ($18,481.45 total). All 22 results belong to **David B. Pakman**, a venture capitalist at CoinFund (formerly Venrock), with Connecticut address and employer listed as financial firms (CoinFund, etc.). None of the 22 results match the YouTube host David Pakman, media personality has zero federal campaign contributions on record. Wikipedia distinguishes them: "For the internet entrepreneur and venture capitalist, see David B. Pakman." Disambiguation confirmed: all 22 API results = different person.
 
@@ -150,16 +150,16 @@ David Pakman represents **the institutionally connected left**, progressive medi
 
 ### Sources
 
-- [FEC Individual Contributions: David Pakman (8 results, CT, all belong to David B. Pakman, venture capitalist at CoinFund/Venrock, NOT the show host)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=david+pakman&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1)
-- [Wikipedia: David Pakman](https://en.wikipedia.org/wiki/David_Pakman) (Tier 3)
-- [Wikipedia: The David Pakman Show](https://en.wikipedia.org/wiki/The_David_Pakman_Show) (Tier 3)
-- [Wikipedia: Sixteen Thirty Fund](https://en.wikipedia.org/wiki/Sixteen_Thirty_Fund) (Tier 3)
-- [Yahoo News/NY Post: "Dark money group paying pro-Dem influencers up to $8K a month: report" (Aug 28, 2025)](https://www.yahoo.com/news/articles/dark-money-group-paying-pro-144141433.html) (Tier 2)
-- [Wired: Taylor Lorenz, "A Dark Money Group Is Secretly Funding High-Profile Democratic Influencers" (Aug 27, 2025)](https://www.wired.com/story/a-dark-money-group-is-secretly-funding-high-profile-democratic-influencers/) (Tier 2)
-- [Current Affairs: "How Top 'Progressive' Influencers Compromised Their Independence"](https://www.currentaffairs.org/news/how-top-progressive-influencers-compromised-their-independence) (Tier 2)
-- [Mediaite: "Brian Tyler Cohen Tears Apart Taylor Lorenz Report for Wired" (Aug 2025)](https://www.mediaite.com/media/news/progressive-youtuber-savagely-tears-apart-taylor-lorenzs-report-on-dark-money-group-funding-dem-influencers/) (Tier 2)
-- [Jerusalem Post: "Is this Jewish podcaster the progressive answer to Ben Shapiro?" (Alan Zeitlin, Jul 2023)](https://www.jpost.com/diaspora/article-751813) (Tier 2)
-- [David Pakman Official Website](https://davidpakman.com/) (Tier 1)
+- [FEC Individual Contributions: David Pakman (8 results, CT, all belong to David B. Pakman, venture capitalist at CoinFund/Venrock, NOT the show host)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=david+pakman&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1) (VERIFIED)
+- [Wikipedia: David Pakman](https://en.wikipedia.org/wiki/David_Pakman) (Tier 3) (VERIFIED)
+- [Wikipedia: The David Pakman Show](https://en.wikipedia.org/wiki/The_David_Pakman_Show) (Tier 3) (VERIFIED)
+- [Wikipedia: Sixteen Thirty Fund](https://en.wikipedia.org/wiki/Sixteen_Thirty_Fund) (Tier 3) (VERIFIED)
+- [Yahoo News/NY Post: "Dark money group paying pro-Dem influencers up to $8K a month: report" (Aug 28, 2025)](https://www.yahoo.com/news/articles/dark-money-group-paying-pro-144141433.html) (Tier 2) (VERIFIED)
+- ~~[Wired: Taylor Lorenz, "A Dark Money Group Is Secretly Funding High-Profile Democratic Influencers" (Aug 27, 2025)](https://www.wired.com/story/a-dark-money-group-is-secretly-funding-high-profile-democratic-influencers/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Current Affairs: "How Top 'Progressive' Influencers Compromised Their Independence"](https://www.currentaffairs.org/news/how-top-progressive-influencers-compromised-their-independence) (Tier 2) (VERIFIED)
+- [Mediaite: "Brian Tyler Cohen Tears Apart Taylor Lorenz Report for Wired" (Aug 2025)](https://www.mediaite.com/media/news/progressive-youtuber-savagely-tears-apart-taylor-lorenzs-report-on-dark-money-group-funding-dem-influencers/) (Tier 2) (VERIFIED)
+- [Jerusalem Post: "Is this Jewish podcaster the progressive answer to Ben Shapiro?" (Alan Zeitlin, Jul 2023)](https://www.jpost.com/diaspora/article-751813) (Tier 2) (VERIFIED)
+- [David Pakman Official Website](https://davidpakman.com/) (Tier 1) (VERIFIED)
 
 ---
 

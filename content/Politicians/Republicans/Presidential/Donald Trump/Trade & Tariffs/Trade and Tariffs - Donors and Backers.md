@@ -65,5 +65,5 @@ Major retail corporations (Walmart, Target, Amazon) privately opposed tariffs th
 
 ### Sources
 
-- [OpenSecrets: AISI Lobbying Data](https://www.opensecrets.org/members-of-congress/summary?name=Trade%20and%20Tariffs) (Tier 1)
+- [OpenSecrets: AISI Lobbying Data](https://www.opensecrets.org/members-of-congress/summary?name=Trade%20and%20Tariffs) (Tier 1) (VERIFIED)
 

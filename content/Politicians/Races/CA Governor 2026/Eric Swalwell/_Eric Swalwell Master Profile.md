@@ -149,15 +149,15 @@ Swalwell's labor endorsement (SEIU, CNA) represents public sector and healthcare
 
 ## Sources
 
-- [FEC Candidate: Eric Swalwell campaign finance](https://www.fec.gov/data/candidate/H2CA15094/) (Tier 1)
+- [FEC Candidate: Eric Swalwell campaign finance](https://www.fec.gov/data/candidate/H2CA15094/) (Tier 1) (VERIFIED)
 - ~~[FollowTheMoney.org: Eric Swalwell 2026 Campaign Finance](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=Eric%20Swalwell#[%7B1%7Cgro=d-id)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
-- [Emerson College Polling: California 2026 Poll - Swalwell Takes Lead in Governor Primary](https://emersoncollegepolling.com/california-2026-poll-swalwell-takes-lead-in-governor-primary-25-undecided-election-for-la-mayor-wide-open/) (Tier 2)
-- [CalMatters: Republican Steve Hilton leads California governor fundraising](https://calmatters.org/politics/2026/02/governors-race-fundraising-reports/) (Tier 2)
-- [CapRadio: California's powerful labor forces are divided on who should be the state's next governor](https://www.capradio.org/articles/2026/03/18/californias-powerful-labor-forces-are-divided-on-who-should-be-the-states-next-governor/) (Tier 2)
-- [The Hill: Eric Swalwell gains momentum in California governor race](https://thehill.com/homenews/campaign/5787942-swalwell-surge-california-gubernatorial-race/) (Tier 2)
-- [PBS News: Swalwell sees attacks from left and right as California's race for governor heats up](https://www.pbs.org/newshour/politics/swalwell-sees-attacks-from-left-and-right-as-californias-race-for-governor-heats-up) (Tier 2)
-- [ProPublica: Rep. Eric Swalwell Voting Record](https://projects.propublica.org/represent/members/S001193-eric-swalwell/) (Tier 1)
-- [GovTrack: Rep. Eric Swalwell Congressional Record](https://www.govtrack.us/congress/members/eric_swalwell/412514) (Tier 1)
+- [Emerson College Polling: California 2026 Poll - Swalwell Takes Lead in Governor Primary](https://emersoncollegepolling.com/california-2026-poll-swalwell-takes-lead-in-governor-primary-25-undecided-election-for-la-mayor-wide-open/) (Tier 2) (VERIFIED)
+- [CalMatters: Republican Steve Hilton leads California governor fundraising](https://calmatters.org/politics/2026/02/governors-race-fundraising-reports/) (Tier 2) (VERIFIED)
+- [CapRadio: California's powerful labor forces are divided on who should be the state's next governor](https://www.capradio.org/articles/2026/03/18/californias-powerful-labor-forces-are-divided-on-who-should-be-the-states-next-governor/) (Tier 2) (VERIFIED)
+- ~~[The Hill: Eric Swalwell gains momentum in California governor race](https://thehill.com/homenews/campaign/5787942-swalwell-surge-california-gubernatorial-race/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [PBS News: Swalwell sees attacks from left and right as California's race for governor heats up](https://www.pbs.org/newshour/politics/swalwell-sees-attacks-from-left-and-right-as-californias-race-for-governor-heats-up) (Tier 2) (VERIFIED)
+- [ProPublica: Rep. Eric Swalwell Voting Record](https://projects.propublica.org/represent/members/S001193-eric-swalwell/) (Tier 1) (NEEDS REVIEW)
+- [GovTrack: Rep. Eric Swalwell Congressional Record](https://www.govtrack.us/congress/members/eric_swalwell/412514) (Tier 1) (VERIFIED)
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

@@ -39,9 +39,9 @@ Four story tiers surfaced across five major donor-to-policy arcs. All source URL
 **Significance:** Diamond. $250M → access to federal budget-cutting power → $38B in existing contracts protected → new Pentagon AI contract awarded post-departure. The ROI on the political investment is documented and enormous.
 
 ### Sources (all Chrome-verified VALID):
-- [The Intercept: DOGE's Pentagon Budget Cuts Don't Touch Elon Musk's SpaceX](https://theintercept.com/2025/04/03/doge-pentagon-budget-spacex-government-contracts-musk/) (Tier 2)
-- [Newsweek: Elon Musk Inking Multibillion-Dollar Pentagon Deal Amid DOGE Cuts](https://www.newsweek.com/elon-musk-inking-multibillion-dollar-pentagon-deal-amid-doge-cutsreport-2055663) (Tier 2)
-- [NBC News: Elon Musk gives millions to Republican super PACs ahead of the midterms](https://www.nbcnews.com/politics/2026-election/elon-musk-gives-millions-republican-super-pacs-ahead-midterms-rcna222114) (Tier 2)
+- [The Intercept: DOGE's Pentagon Budget Cuts Don't Touch Elon Musk's SpaceX](https://theintercept.com/2025/04/03/doge-pentagon-budget-spacex-government-contracts-musk/) (Tier 2) (VERIFIED)
+- [Newsweek: Elon Musk Inking Multibillion-Dollar Pentagon Deal Amid DOGE Cuts](https://www.newsweek.com/elon-musk-inking-multibillion-dollar-pentagon-deal-amid-doge-cutsreport-2055663) (Tier 2) (VERIFIED)
+- [NBC News: Elon Musk gives millions to Republican super PACs ahead of the midterms](https://www.nbcnews.com/politics/2026-election/elon-musk-gives-millions-republican-super-pacs-ahead-midterms-rcna222114) (Tier 2) (VERIFIED)
 
 ---
 
@@ -60,10 +60,10 @@ Four story tiers surfaced across five major donor-to-policy arcs. All source URL
 **Significance:** Gold. Shell PAC structure documented in FEC filings, candidate wins confirmed, spending total verified. Clear electoral return on donor investment with named beneficiaries and named losers.
 
 ### Sources (all Chrome-verified VALID):
-- [Axios: AIPAC notches its first real 2026 Democratic primary wins in Illinois](https://www.axios.com/2026/03/18/aipac-illinois-primary-biss-abughazaleh-bean) (Tier 2)
-- [NBC News: AIPAC super PAC funded big-spending Illinois groups, as Democratic fights over Israel spread](https://www.nbcnews.com/politics/2026-election/aipac-super-pac-funded-illinois-groups-democratic-primaries-israel-rcna264379) (Tier 2)
-- [Read Sludge: Here Is How Much AIPAC Has Funneled to Every Member of Congress](https://readsludge.com/2026/03/01/here-is-how-much-aipac-has-funneled-to-every-member-of-congress/) (Tier 2)
-- [The Intercept: How Does TrackAIPAC Actually Track AIPAC?](https://theintercept.com/2026/03/26/track-aipac-midterms-2026-israel-palestine/) (Tier 2)
+- [Axios: AIPAC notches its first real 2026 Democratic primary wins in Illinois](https://www.axios.com/2026/03/18/aipac-illinois-primary-biss-abughazaleh-bean) (Tier 2) (VERIFIED)
+- [NBC News: AIPAC super PAC funded big-spending Illinois groups, as Democratic fights over Israel spread](https://www.nbcnews.com/politics/2026-election/aipac-super-pac-funded-illinois-groups-democratic-primaries-israel-rcna264379) (Tier 2) (VERIFIED)
+- [Read Sludge: Here Is How Much AIPAC Has Funneled to Every Member of Congress](https://readsludge.com/2026/03/01/here-is-how-much-aipac-has-funneled-to-every-member-of-congress/) (Tier 2) (VERIFIED)
+- [The Intercept: How Does TrackAIPAC Actually Track AIPAC?](https://theintercept.com/2026/03/26/track-aipac-midterms-2026-israel-palestine/) (Tier 2) (VERIFIED)
 
 #### STORY G-2: Crypto Industry $288M → CLARITY Act → Senate Stall (Fairshake War Chest)
 
@@ -78,9 +78,9 @@ Four story tiers surfaced across five major donor-to-policy arcs. All source URL
 **Significance:** Gold. Amount documented ($288M total, $193M current war chest), timing documented (announcement day before Senate vote), legislative target documented (CLARITY Act), and primary wins confirmed.
 
 ### Sources (all Chrome-verified VALID):
-- [CNBC: Crypto PAC Fairshake touts war chest as bill vote looms](https://www.cnbc.com/2026/01/28/crypto-pac-fairshake-bill-vote.html) (Tier 2)
-- [Axios: Crypto PAC Fairshake has already raised $193 million for 2026](https://www.axios.com/2026/01/28/crypto-coinbase-fairshake-pac) (Tier 2)
-- [DL News: Crypto lobby has already spent $271m to sway the 2026 elections](https://www.dlnews.com/articles/people-culture/crypto-lobby-spends-usd271m-to-sway-the-2026-elections/) (Tier 2)
+- [CNBC: Crypto PAC Fairshake touts war chest as bill vote looms](https://www.cnbc.com/2026/01/28/crypto-pac-fairshake-bill-vote.html) (Tier 2) (VERIFIED)
+- ~~[Axios: Crypto PAC Fairshake has already raised $193 million for 2026](https://www.axios.com/2026/01/28/crypto-coinbase-fairshake-pac)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [DL News: Crypto lobby has already spent $271m to sway the 2026 elections](https://www.dlnews.com/articles/people-culture/crypto-lobby-spends-usd271m-to-sway-the-2026-elections/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -97,7 +97,7 @@ Four story tiers surfaced across five major donor-to-policy arcs. All source URL
 **Significance:** Silver, the deregulation itself is documented but the donor-to-legislation pipeline hasn't been mapped in a single timeline in the vault.
 
 ### Sources (all Chrome-verified VALID):
-- [Axios: Wall Street cops propose new slate of easier big bank rules](https://www.axios.com/2026/03/19/fed-bank-wall-street-regulation) (Tier 2)
+- ~~[Axios: Wall Street cops propose new slate of easier big bank rules](https://www.axios.com/2026/03/19/fed-bank-wall-street-regulation)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 #### STORY S-2: Credit Card 10% Rate Cap. Donor-Class Override Attempt in Real Time
 
@@ -110,8 +110,8 @@ Four story tiers surfaced across five major donor-to-policy arcs. All source URL
 **Significance:** Silver. The conflict between Trump's populist positioning and Wall Street donor-class interests is live and documented. Outcome still pending, worth monitoring for the class-analysis resolution.
 
 ### Sources (all Chrome-verified VALID):
-- [PBS NewsHour: Banks balk as Trump pushes for 1-year, 10% cap on credit card interest rates](https://www.pbs.org/newshour/politics/banks-balk-as-trump-pushes-for-1-year-10-cap-on-credit-card-interest-rates) (Tier 2)
-- [NPR: Trump calls for a 10% cap on credit card interest rates](https://www.npr.org/2026/01/12/nx-s1-5675151/trump-credit-card-interest-rate-cap) (Tier 2)
+- [PBS NewsHour: Banks balk as Trump pushes for 1-year, 10% cap on credit card interest rates](https://www.pbs.org/newshour/politics/banks-balk-as-trump-pushes-for-1-year-10-cap-on-credit-card-interest-rates) (Tier 2) (VERIFIED)
+- [NPR: Trump calls for a 10% cap on credit card interest rates](https://www.npr.org/2026/01/12/nx-s1-5675151/trump-credit-card-interest-rate-cap) (Tier 2) (VERIFIED)
 
 #### STORY S-3: Pharma EPIC Act, 74% of "Patient Groups" Backing Drug Pricing Delay Have Direct Industry Ties
 
@@ -124,7 +124,7 @@ Four story tiers surfaced across five major donor-to-policy arcs. All source URL
 **Significance:** Silver. The 74% documented conflict-of-interest figure from Public Citizen is a citable, sourced metric that deserves to be in the healthcare sector note.
 
 ### Sources (all Chrome-verified VALID):
-- [Public Citizen: Patient Groups, Big Pharma and Medicare Price Negotiation](https://www.citizen.org/article/patient-groups-big-pharma-medicare-price-negotiation-2026/) (Tier 2)
+- [Public Citizen: Patient Groups, Big Pharma and Medicare Price Negotiation](https://www.citizen.org/article/patient-groups-big-pharma-medicare-price-negotiation-2026/) (Tier 2) (VERIFIED)
 
 #### STORY S-4: Newsom vs. California Billionaires Tax. Tech Donor Protection, Today's CalMatters
 
@@ -137,8 +137,8 @@ Four story tiers surfaced across five major donor-to-policy arcs. All source URL
 **Significance:** Silver. Well-documented and directly relevant to the existing Newsom profile. The billionaires tax conflict is the clearest public articulation of the donor-class function Newsom serves going into 2028.
 
 ### Sources (all Chrome-verified VALID):
-- [Fortune: Gavin Newsom's anti-Zohran moment: the California billionaires tax](https://fortune.com/2026/01/15/gavin-newsom-anti-zohran-moment-california-billionaires-tax-wealth/) (Tier 2)
-- [Pleasanton Weekly/CalMatters: Tech giants are spending more than ever to shape California politics](https://www.pleasantonweekly.com/calmatters/2026/03/27/tech-giants-are-spending-more-than-ever-to-shape-california-politics-see-how-much/) (Tier 2)
+- [Fortune: Gavin Newsom's anti-Zohran moment: the California billionaires tax](https://fortune.com/2026/01/15/gavin-newsom-anti-zohran-moment-california-billionaires-tax-wealth/) (Tier 2) (VERIFIED)
+- [Pleasanton Weekly/CalMatters: Tech giants are spending more than ever to shape California politics](https://www.pleasantonweekly.com/calmatters/2026/03/27/tech-giants-are-spending-more-than-ever-to-shape-california-politics-see-how-much/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -153,7 +153,7 @@ Four story tiers surfaced across five major donor-to-policy arcs. All source URL
 **Significance:** Bronze, background data confirming the ongoing Musk-GOP donor relationship. Worth noting in the Musk node's funding timeline when built.
 
 ### Sources (all Chrome-verified VALID):
-- [The Hill: Elon Musk's robust donations may aid GOP in 2026 midterms](https://thehill.com/policy/technology/5727198-musk-political-fray-big-2026-midterm-donations/) (Tier 2)
+- ~~[The Hill: Elon Musk's robust donations may aid GOP in 2026 midterms](https://thehill.com/policy/technology/5727198-musk-political-fray-big-2026-midterm-donations/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ---
 

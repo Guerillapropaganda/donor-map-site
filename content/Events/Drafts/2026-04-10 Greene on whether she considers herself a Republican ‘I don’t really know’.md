@@ -13,7 +13,7 @@ profiles:
 
 ## Greene on whether she considers herself a Republican: ‘I don’t really know’
 
-**Source:** [The Hill](https://thehill.com/homenews/campaign/5826275-marjorie-taylor-greene-republican-doubt/)
+**Source:** ~~[The Hill](https://thehill.com/homenews/campaign/5826275-marjorie-taylor-greene-republican-doubt/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-10
 
 Former Rep. Marjorie Taylor Greene (R-Ga.) said she’s unsure whether she still considers herself a Republican following months of dispute with President Trump and the GOP. “I don’t really know if I do consider myself one right now,” Greene told Politico’s Dasha Burns on “The Conversation,” referring to her longstanding political affiliation as a Republican.…

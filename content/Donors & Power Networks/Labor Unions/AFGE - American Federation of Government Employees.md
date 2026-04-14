@@ -155,18 +155,18 @@ This means AFGE's defense of federal jobs is simultaneously defense of privilege
 | Net Assets | $112K |
 | Officer Compensation | $9K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 756085578](https://projects.propublica.org/nonprofits/organizations/756085578) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F756085578_202312_990O_2024061722533963.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 756085578](https://projects.propublica.org/nonprofits/organizations/756085578) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F756085578_202312_990O_2024061722533963.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 <!-- auto:propublica-990 end -->
 
 ### Sources
 
-- [OpenSecrets: AFGE political spending](https://www.opensecrets.org/orgs/american-federation-of-government-employees/summary) (Tier 1)
-- [AFGE: About Us and Federal Workforce Advocacy](https://www.afge.org/about-afge/) (Tier 2)
-- [Federal Times: AFGE federal workforce policy positions](https://www.federaltimes.com/management/2024/01/15/afge-federal-workforce/) *(source unavailable)* (Tier 2)
-- [ProPublica: Federal workforce reductions and union resistance](https://www.propublica.org/article/doge-elon-musk-trump-staffers-tracker-update) (Tier 2)
-- [Union membership statistics: Bureau of Labor Statistics](https://www.bls.gov/news.release/union2.nr0.htm) (Tier 1)
+- ~~[OpenSecrets: AFGE political spending](https://www.opensecrets.org/orgs/american-federation-of-government-employees/summary)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [AFGE: About Us and Federal Workforce Advocacy](https://www.afge.org/about-afge/) (Tier 2) (VERIFIED)
+- ~~[Federal Times: AFGE federal workforce policy positions](https://www.federaltimes.com/management/2024/01/15/afge-federal-workforce/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+- [ProPublica: Federal workforce reductions and union resistance](https://www.propublica.org/article/doge-elon-musk-trump-staffers-tracker-update) (Tier 2) (VERIFIED)
+- [Union membership statistics: Bureau of Labor Statistics](https://www.bls.gov/news.release/union2.nr0.htm) (Tier 1) (VERIFIED)
 
 ---
 
@@ -204,7 +204,7 @@ This means AFGE's defense of federal jobs is simultaneously defense of privilege
 | SUSAN WILD FOR CONGRESS | $18,000 | DEM |
 | COMMITTEE TO ELECT ALAN GRAYSON | $16,500 | DEM |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=AFGE%20-%20American%20Federation%20of%20Government%20Employees) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=AFGE%20-%20American%20Federation%20of%20Government%20Employees) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### Federal Register Activity
@@ -216,9 +216,9 @@ This means AFGE's defense of federal jobs is simultaneously defense of privilege
 | Agencies | Homeland Security Department, Personnel Management Office |
 
 **Recent regulatory activity:**
-- [Department of Homeland Security Human Resources Management System](https://www.federalregister.gov/documents/2005/02/01/05-1629/department-of-homeland-security-human-resources-management-system) (2005-02-01) — Homeland Security Department ★
+- ~~[Department of Homeland Security Human Resources Management System](https://www.federalregister.gov/documents/2005/02/01/05-1629/department-of-homeland-security-human-resources-management-system)~~ (URL broken, archived by Ops) (2005-02-01) — Homeland Security Department ★
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22AFGE%20-%20American%20Federation%20of%20Government%20Employees%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22AFGE%20-%20American%20Federation%20of%20Government%20Employees%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Tax Filings (IRS 990)
@@ -229,5 +229,5 @@ This means AFGE's defense of federal jobs is simultaneously defense of privilege
 | Tax-Exempt Status | tax-exempt |
 | Filings on Record | 0 |
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/251331251) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/251331251) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->

@@ -55,9 +55,9 @@ Deregulation across all sectors (energy, finance, healthcare), immigration restr
 
 ### Sources
 
-- [IRS: AFPI 990 filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=America%20First%20Policy%20Institute&city=&state=All+States&country=US) (Tier 1)
-- [ProPublica: Nonprofit Explorer - AFPI](https://projects.propublica.org/nonprofits/organizations/854202763) (Tier 2)
-- [Ballotpedia: America First Policy Institute](https://ballotpedia.org/America_First_Policy_Institute) (Tier 3)
+- ~~[IRS: AFPI 990 filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=America%20First%20Policy%20Institute&city=&state=All+States&country=US)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [ProPublica: Nonprofit Explorer - AFPI](https://projects.propublica.org/nonprofits/organizations/854202763) (Tier 2) (VERIFIED)
+- [Ballotpedia: America First Policy Institute](https://ballotpedia.org/America_First_Policy_Institute) (Tier 3) (VERIFIED)
 
 ### Foreign Agent Activity (FARA)
 <!-- auto:fara-foreign-agents start -->
@@ -72,7 +72,7 @@ Deregulation across all sectors (energy, finance, healthcare), immigration restr
 **Foreign principals:**
 - Public Television of Armenia CSJC (ARMENIA)
 
-- [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:America%20First%20Policy%20Institute) (Tier 1)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:America%20First%20Policy%20Institute)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:fara-foreign-agents end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -86,7 +86,7 @@ Deregulation across all sectors (energy, finance, healthcare), immigration restr
 | Net Assets | $9.9M |
 | Officer Compensation | $1.7M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 854202763](https://projects.propublica.org/nonprofits/organizations/854202763) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 854202763](https://projects.propublica.org/nonprofits/organizations/854202763) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Tax Filings (IRS 990)
@@ -104,9 +104,9 @@ Deregulation across all sectors (energy, finance, healthcare), immigration restr
 **Filing history:** 2023, 2022, 2021
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/854202763/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/854202763/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/854202763/2021)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/854202763/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/854202763/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/854202763/2021)~~ (URL broken, archived by Ops)
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/854202763) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/854202763) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->

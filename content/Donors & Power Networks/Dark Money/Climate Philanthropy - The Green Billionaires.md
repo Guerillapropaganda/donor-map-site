@@ -51,7 +51,7 @@ The structural contradiction is permanent: the billionaire class cannot fund the
 
 ### Sources
 
-- [FEC Receipts: Environmental group spending](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- [IRS: Climate philanthropy 990 filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Climate%20Philanthropy%20-%20The%20Green%20Billionaires&city=&state=All+States&country=US) (Tier 1)
-- [Ballotpedia: Climate philanthropy](https://ballotpedia.org/Climate_Philanthropy_-_The_Green_Billionaires) (Tier 3)
+- [FEC Receipts: Environmental group spending](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
+- ~~[IRS: Climate philanthropy 990 filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Climate%20Philanthropy%20-%20The%20Green%20Billionaires&city=&state=All+States&country=US)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Ballotpedia: Climate philanthropy](https://ballotpedia.org/Climate_Philanthropy_-_The_Green_Billionaires) (Tier 3) (VERIFIED)
 

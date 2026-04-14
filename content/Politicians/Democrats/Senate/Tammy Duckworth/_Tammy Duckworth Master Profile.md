@@ -81,8 +81,8 @@ Tammy Duckworth. Democrat, Illinois. Senator since 2017. Purple Heart recipient 
 
 Duckworth's military sacrifice gives her unassailable credentials on defense and veterans' issues — a biographical shield that makes her defense spending positions essentially unquestionable. She is one of the few Democratic senators who can advocate for defense spending increases without facing progressive backlash. Illinois's defense economy — Boeing headquarters in Chicago, Rock Island Arsenal, Collins Aerospace in Rockford, 8,713 defense contractors across 102 counties holding $116.1 billion in government contracts — creates constituency alignment with her committee jurisdiction.
 
-- [Congress.gov: Tammy Duckworth member profile](https://www.congress.gov/member/tammy-duckworth/D000622) (Tier 1)
-- [FEC Candidate: Tammy Duckworth campaign finance summary](https://www.fec.gov/data/candidate/H6IL06141/) (Tier 1)
+- ~~[Congress.gov: Tammy Duckworth member profile](https://www.congress.gov/member/tammy-duckworth/D000622)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [FEC Candidate: Tammy Duckworth campaign finance summary](https://www.fec.gov/data/candidate/H6IL06141/) (Tier 1) (VERIFIED)
 
 ---
 
@@ -192,16 +192,16 @@ Duckworth's veteran advocacy, the billions in caregiver funding, the suicide pre
 
 - [Congress.gov: Tammy Duckworth member profile](https://www.congress.gov/member/tammy-duckworth/D000622) (Tier 1)
 - [FEC Candidate: Tammy Duckworth campaign finance summary](https://www.fec.gov/data/candidate/H6IL06141/) (Tier 1)
-- [FEC: Tammy Duckworth candidate profile](https://www.fec.gov/data/candidate/S6IL00292/) (Tier 1)
-- [Duckworth Senate: FY 2026 NDAA vote statement](https://www.duckworth.senate.gov/news/press-releases/amid-trumps-escalating-misuse-of-our-military-against-americans-duckworth-votes-to-block-final-passage-of-defense-authorization-bill-for-the-first-time-in-her-career) (Tier 1)
-- [Duckworth Senate: Rock Island Arsenal FY 2026 provisions](https://www.duckworth.senate.gov/news/press-releases/duckworth-secures-key-ndaa-provisions-to-strengthen-rock-island-arsenal-support-families-and-farmers-in-illinois-and-beyond) (Tier 1)
-- [Duckworth Senate: FY 2025 NDAA passage statement ($850B)](https://www.duckworth.senate.gov/news/press-releases/duckworth-statement-on-senate-passage-of-bipartisan-ndaa-that-provides-pay-raise-to-our-troops-bolsters-readiness-and-supports-servicemembers-and-their-families-at-home-and-abroad) (Tier 1)
-- [Duckworth Senate: Airland Subcommittee chair announcement](https://www.duckworth.senate.gov/news/press-releases/duckworth-to-chair-us-senate-armed-services-airland-subcommittee) (Tier 1)
-- [Duckworth Senate: Future Vertical Lift program statement](https://www.duckworth.senate.gov/news/in-the-news/duckworth-armys-new-helicopters-should-not-be-designed-for-anyone-else) (Tier 1)
-- [Duckworth Senate: Boeing strike worker negotiation call](https://www.duckworth.senate.gov/news/press-releases/duckworth-leads-call-for-boeing-to-negotiate-with-workers-and-end-strike) (Tier 1)
-- [Sunday Guardian Live: Deep financial ties between US senators and arms manufacturers](https://sundayguardianlive.com/world/deep-financial-ties-exist-between-us-senators-and-arms-manufacturers-173112/) (Tier 2)
-- [GovernmentContractsWon: Illinois defense contractor data](https://www.governmentcontractswon.com/department/defense/illinois_counties.asp) (Tier 3)
-- [Ballotpedia: Tammy Duckworth](https://ballotpedia.org/Tammy_Duckworth) (Tier 3)
+- [FEC: Tammy Duckworth candidate profile](https://www.fec.gov/data/candidate/S6IL00292/) (Tier 1) (VERIFIED)
+- [Duckworth Senate: FY 2026 NDAA vote statement](https://www.duckworth.senate.gov/news/press-releases/amid-trumps-escalating-misuse-of-our-military-against-americans-duckworth-votes-to-block-final-passage-of-defense-authorization-bill-for-the-first-time-in-her-career) (Tier 1) (VERIFIED)
+- [Duckworth Senate: Rock Island Arsenal FY 2026 provisions](https://www.duckworth.senate.gov/news/press-releases/duckworth-secures-key-ndaa-provisions-to-strengthen-rock-island-arsenal-support-families-and-farmers-in-illinois-and-beyond) (Tier 1) (VERIFIED)
+- [Duckworth Senate: FY 2025 NDAA passage statement ($850B)](https://www.duckworth.senate.gov/news/press-releases/duckworth-statement-on-senate-passage-of-bipartisan-ndaa-that-provides-pay-raise-to-our-troops-bolsters-readiness-and-supports-servicemembers-and-their-families-at-home-and-abroad) (Tier 1) (VERIFIED)
+- [Duckworth Senate: Airland Subcommittee chair announcement](https://www.duckworth.senate.gov/news/press-releases/duckworth-to-chair-us-senate-armed-services-airland-subcommittee) (Tier 1) (VERIFIED)
+- [Duckworth Senate: Future Vertical Lift program statement](https://www.duckworth.senate.gov/news/in-the-news/duckworth-armys-new-helicopters-should-not-be-designed-for-anyone-else) (Tier 1) (VERIFIED)
+- [Duckworth Senate: Boeing strike worker negotiation call](https://www.duckworth.senate.gov/news/press-releases/duckworth-leads-call-for-boeing-to-negotiate-with-workers-and-end-strike) (Tier 1) (VERIFIED)
+- [Sunday Guardian Live: Deep financial ties between US senators and arms manufacturers](https://sundayguardianlive.com/world/deep-financial-ties-exist-between-us-senators-and-arms-manufacturers-173112/) (Tier 2) (VERIFIED)
+- [GovernmentContractsWon: Illinois defense contractor data](https://www.governmentcontractswon.com/department/defense/illinois_counties.asp) (Tier 3) (VERIFIED)
+- [Ballotpedia: Tammy Duckworth](https://ballotpedia.org/Tammy_Duckworth) (Tier 3) (VERIFIED)
 
 ### Congressional Stock Trades (STOCK Act)
 <!-- auto:stock-trades start -->
@@ -227,7 +227,7 @@ Duckworth's veteran advocacy, the billions in caregiver funding, the suicide pre
 | 10/10/2017 | CC | Sale | $1,001 - $15,000 | Joint |
 | 09/15/2017 | INTC | Sale | $1,001 - $15,000 | Joint |
 
-- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
 ### Campaign Finance (FEC)
@@ -262,7 +262,7 @@ Duckworth's veteran advocacy, the billions in caregiver funding, the suicide pre
 | DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $858,884 | $0 |
 | NEW PROSPERITY FOUNDATION; THE | $0 | $517,710 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6IL06141/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6IL06141/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (GovTrack)
@@ -294,7 +294,7 @@ Duckworth's veteran advocacy, the billions in caregiver funding, the suicide pre
 | 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
 | 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412533) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412533) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
 
 ### Legislative Activity (Congress.gov)
@@ -323,5 +323,5 @@ Duckworth's veteran advocacy, the billions in caregiver funding, the suicide pre
 | — |  | — |
 | — |  | — |
 
-- [Source: Congress.gov](https://www.congress.gov/member/D000622) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/D000622)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->

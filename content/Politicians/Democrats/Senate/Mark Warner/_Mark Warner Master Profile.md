@@ -160,14 +160,14 @@ Warner announced 2026 reelection bid (fourth term), positioning himself for cont
 
 ## Sources
 
-- [FEC Candidate: Mark Warner campaign finance summary](https://www.fec.gov/data/candidate/P80003023/) (Tier 1)
-- [FEC Candidate: Mark Warner industries (career)](https://www.fec.gov/data/candidate/P80003023/) (Tier 1)
-- [Wikipedia: Mark Warner biography and Nextel wealth](https://en.wikipedia.org/wiki/Mark_Warner) (Tier 3)
-- [Ballotpedia: Mark Warner net worth and telecom background](https://ballotpedia.org/Mark_Warner) (Tier 3)
-- [Fox News: Mark Warner Intelligence Committee background](https://www.foxnews.com/politics/mark-warner-senate-intel-committees-top-democrat-what-to-know) (Tier 2)
-- [Mark Warner official Senate website — biography](https://www.warner.senate.gov/public/index.cfm/biography) (Tier 1)
-- [Mark Warner official Senate website — committee assignments](https://www.warner.senate.gov/public/index.cfm/committees) (Tier 1)
-- [Virginia Business: Mark Warner 2024 profile](https://virginiabusiness.com/virginia-500-2024-government-politics-mark-warner/) (Tier 3)
+- [FEC Candidate: Mark Warner campaign finance summary](https://www.fec.gov/data/candidate/P80003023/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Mark Warner industries (career)](https://www.fec.gov/data/candidate/P80003023/) (Tier 1) (VERIFIED)
+- [Wikipedia: Mark Warner biography and Nextel wealth](https://en.wikipedia.org/wiki/Mark_Warner) (Tier 3) (VERIFIED)
+- [Ballotpedia: Mark Warner net worth and telecom background](https://ballotpedia.org/Mark_Warner) (Tier 3) (VERIFIED)
+- [Fox News: Mark Warner Intelligence Committee background](https://www.foxnews.com/politics/mark-warner-senate-intel-committees-top-democrat-what-to-know) (Tier 2) (VERIFIED)
+- [Mark Warner official Senate website — biography](https://www.warner.senate.gov/public/index.cfm/biography) (Tier 1) (VERIFIED)
+- [Mark Warner official Senate website — committee assignments](https://www.warner.senate.gov/public/index.cfm/committees) (Tier 1) (VERIFIED)
+- [Virginia Business: Mark Warner 2024 profile](https://virginiabusiness.com/virginia-500-2024-government-politics-mark-warner/) (Tier 3) (VERIFIED)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -183,7 +183,7 @@ Warner announced 2026 reelection bid (fourth term), positioning himself for cont
 |-----------|---------|--------|
 | HEALTH JUSTICE FOR ALL | $2,417 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/P80003023/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/P80003023/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Congressional Stock Trades (STOCK Act)
@@ -210,7 +210,7 @@ Warner announced 2026 reelection bid (fourth term), positioning himself for cont
 | 12/12/2014 | N/A | other | Unknown | N/A |
 | 12/07/2018 | -- | Purchase | $50,001 - $100,000 | Self |
 
-- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
 ### Legislative Activity (GovTrack)
@@ -230,7 +230,7 @@ Warner announced 2026 reelection bid (fourth term), positioning himself for cont
 - S. 4046: Economy of the Future Commission Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 11, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 - S. 815: A bill to designate the outdoor amphitheater at the Blue Ridge Music Center in Galax, Virginia, as the “Rick Boucher Amp — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on March 4, 2026.*
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412321) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412321) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
 
 ## Influence Network (Cross-Reference)
@@ -299,8 +299,8 @@ Warner announced 2026 reelection bid (fourth term), positioning himself for cont
 
 **Sources**
 
-- [Congress.gov: Mark Warner](https://www.congress.gov/member/c001091) (Tier 1)
-- [GovTrack: Mark Warner](https://www.govtrack.us/congress/members/412321) (Tier 1)
+- ~~[Congress.gov: Mark Warner](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [GovTrack: Mark Warner](https://www.govtrack.us/congress/members/412321) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
 
 ### Legislative Activity (Congress.gov)
@@ -329,5 +329,5 @@ Warner announced 2026 reelection bid (fourth term), positioning himself for cont
 | — |  | — |
 | — |  | — |
 
-- [Source: Congress.gov](https://www.congress.gov/member/W000805) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/W000805)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->

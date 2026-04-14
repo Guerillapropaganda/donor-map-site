@@ -93,15 +93,15 @@ The immigration dimension: agribusiness depends on immigrant farmworker labor (A
 | Net Assets | $5.7M |
 | Officer Compensation | $579K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 941448579](https://projects.propublica.org/nonprofits/organizations/941448579) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_10_2022_prefixes_91-95%2F941448579_202012_990O_2022102720612081.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 941448579](https://projects.propublica.org/nonprofits/organizations/941448579) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_10_2022_prefixes_91-95%2F941448579_202012_990O_2022102720612081.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 <!-- auto:propublica-990 end -->
 
 ### Sources
 
-- [OpenSecrets: UFW political spending](https://www.opensecrets.org/orgs/united-farm-workers/summary?id=D000057925) (Tier 1)
-- [Ballotpedia: United Farm Workers](https://ballotpedia.org/United_Farm_Workers) (Tier 3)
+- [OpenSecrets: UFW political spending](https://www.opensecrets.org/orgs/united-farm-workers/summary?id=D000057925) (Tier 1) (VERIFIED)
+- [Ballotpedia: United Farm Workers](https://ballotpedia.org/United_Farm_Workers) (Tier 3) (VERIFIED)
 
 ---
 
@@ -129,15 +129,15 @@ The immigration dimension: agribusiness depends on immigrant farmworker labor (A
 | Agencies | Children and Families Administration, Coast Guard, Education Department, Employee Benefits Security Administration, Employment and Training Administration, Energy Department, Environmental Protection Agency, Executive Office for Immigration Review +7 more |
 
 **Recent regulatory activity:**
-- [Reducing Bureaucracy and Burden for Refugee Resettlement Programs](https://www.federalregister.gov/documents/2026/03/27/2026-06027/reducing-bureaucracy-and-burden-for-refugee-resettlement-programs) (2026-03-27) — Health and Human Services Department
-- [Security Bars and Processing; Confirmation of Effective Date; Partial Withdrawal](https://www.federalregister.gov/documents/2025/12/30/2025-23970/security-bars-and-processing-confirmation-of-effective-date-partial-withdrawal) (2025-12-30) — Homeland Security Department ★
-- [Civil Monetary Penalty Adjustments for Inflation](https://www.federalregister.gov/documents/2025/12/29/2025-23808/civil-monetary-penalty-adjustments-for-inflation) (2025-12-29) — Homeland Security Department
-- [COVID-19 Mitigation Policy Requirement in Head Start Programs; Recission](https://www.federalregister.gov/documents/2025/12/19/2025-23452/covid-19-mitigation-policy-requirement-in-head-start-programs-recission) (2025-12-19) — Health and Human Services Department ★
-- [Adverse Effect Wage Rate Methodology for the Temporary Employment of H-2A Nonimmigrants in Non-Range Occupations in the United States](https://www.federalregister.gov/documents/2025/10/02/2025-19365/adverse-effect-wage-rate-methodology-for-the-temporary-employment-of-h-2a-nonimmigrants-in-non-range) (2025-10-02) — Labor Department ★
-- [Energy Conservation Program: Commercial Warm Air Furnaces; Final Determination](https://www.federalregister.gov/documents/2025/01/17/2025-01082/energy-conservation-program-commercial-warm-air-furnaces-final-determination) (2025-01-17) — Energy Department
+- [Reducing Bureaucracy and Burden for Refugee Resettlement Programs](https://www.federalregister.gov/documents/2026/03/27/2026-06027/reducing-bureaucracy-and-burden-for-refugee-resettlement-programs) (VERIFIED) (2026-03-27) — Health and Human Services Department
+- [Security Bars and Processing; Confirmation of Effective Date; Partial Withdrawal](https://www.federalregister.gov/documents/2025/12/30/2025-23970/security-bars-and-processing-confirmation-of-effective-date-partial-withdrawal) (VERIFIED) (2025-12-30) — Homeland Security Department ★
+- [Civil Monetary Penalty Adjustments for Inflation](https://www.federalregister.gov/documents/2025/12/29/2025-23808/civil-monetary-penalty-adjustments-for-inflation) (VERIFIED) (2025-12-29) — Homeland Security Department
+- [COVID-19 Mitigation Policy Requirement in Head Start Programs; Recission](https://www.federalregister.gov/documents/2025/12/19/2025-23452/covid-19-mitigation-policy-requirement-in-head-start-programs-recission) (VERIFIED) (2025-12-19) — Health and Human Services Department ★
+- [Adverse Effect Wage Rate Methodology for the Temporary Employment of H-2A Nonimmigrants in Non-Range Occupations in the United States](https://www.federalregister.gov/documents/2025/10/02/2025-19365/adverse-effect-wage-rate-methodology-for-the-temporary-employment-of-h-2a-nonimmigrants-in-non-range) (VERIFIED) (2025-10-02) — Labor Department ★
+- [Energy Conservation Program: Commercial Warm Air Furnaces; Final Determination](https://www.federalregister.gov/documents/2025/01/17/2025-01082/energy-conservation-program-commercial-warm-air-furnaces-final-determination) (VERIFIED) (2025-01-17) — Energy Department
 - ... and 53 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22United%20Farm%20Workers%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22United%20Farm%20Workers%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### SEC Filing Activity
@@ -155,7 +155,7 @@ The immigration dimension: agribusiness depends on immigrant farmworker labor (A
 - 2010-05-11 — **DEFA14A**: ADDITIONAL MATERIALS
 - 2003-12-30 — **8-K**: 8-K
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22United%20Farm%20Workers%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22United%20Farm%20Workers%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Campaign Finance (FEC)
@@ -171,5 +171,5 @@ The immigration dimension: agribusiness depends on immigrant farmworker labor (A
 |-----------|--------|-------|
 | CIRO D. RODRIGUEZ FOR CONGRESS | $1,000 | DEM |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=United%20Farm%20Workers) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=United%20Farm%20Workers) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->

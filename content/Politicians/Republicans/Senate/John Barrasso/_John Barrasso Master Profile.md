@@ -131,17 +131,17 @@ Wyoming is the class contradiction made geographic. The state produces more coal
 
 ## Sources
 
-- [FEC Candidate: John Barrasso campaign finance summary](https://www.fec.gov/data/candidate/S6WY00068/) (Tier 1)
-- [FEC Candidate: Barrasso career industry contributions](https://www.fec.gov/data/candidate/S6WY00068/) (Tier 1)
-- [FEC Candidate: Barrasso oil & gas PAC contributions](https://www.fec.gov/data/candidate/S6WY00068/) (Tier 1)
-- [Ballotpedia: John Barrasso](https://ballotpedia.org/John_Barrasso) (Tier 3)
-- [Senate Republican Conference: Barrasso Elected Majority Whip for 119th Congress](https://www.republican.senate.gov/2024/11/13/barrasso-elected-as-majority-whip-for-the-119th-congress/) (Tier 1)
-- [Accountable.us: $8.8M in Oil Contributions Fueling GOP Climate Opposition](https://accountable.us/new-research-highlights-the-nearly-8-8m-in-oil-contributions-fueling-gop-smears-of-climate-champion-haaland/) (Tier 2)
-- [Earthjustice: What's Behind Attacks on the Endangered Species Act](https://earthjustice.org/article/what-s-behind-attacks-on-the-endangered-species-act-lots-of-industry-money-1) (Tier 2)
-- [The Hill: Barrasso to seek top spot on Energy and Natural Resources Committee](https://thehill.com/policy/energy-environment/526525-barrasso-to-seek-top-spot-on-energy-and-natural-resources-committee/) (Tier 2)
-- [Heatmap News: Senate Energy and Climate Committees Poised for Big Shake-Ups](https://heatmap.news/politics/senate-committee-energy-natural-resources) (Tier 2)
-- [DeSmog: Republicans Aim to Limit EPA Power Through Legislation](https://www.desmog.com/2011/02/01/republicans-aim-limit-epa-power-through-legislation/) (Tier 2)
-- [GovTrack: John Barrasso](https://www.govtrack.us/congress/members/john_barrasso/412251) (Tier 3)
+- [FEC Candidate: John Barrasso campaign finance summary](https://www.fec.gov/data/candidate/S6WY00068/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Barrasso career industry contributions](https://www.fec.gov/data/candidate/S6WY00068/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Barrasso oil & gas PAC contributions](https://www.fec.gov/data/candidate/S6WY00068/) (Tier 1) (VERIFIED)
+- [Ballotpedia: John Barrasso](https://ballotpedia.org/John_Barrasso) (Tier 3) (VERIFIED)
+- [Senate Republican Conference: Barrasso Elected Majority Whip for 119th Congress](https://www.republican.senate.gov/2024/11/13/barrasso-elected-as-majority-whip-for-the-119th-congress/) (Tier 1) (VERIFIED)
+- [Accountable.us: $8.8M in Oil Contributions Fueling GOP Climate Opposition](https://accountable.us/new-research-highlights-the-nearly-8-8m-in-oil-contributions-fueling-gop-smears-of-climate-champion-haaland/) (Tier 2) (NEEDS REVIEW)
+- [Earthjustice: What's Behind Attacks on the Endangered Species Act](https://earthjustice.org/article/what-s-behind-attacks-on-the-endangered-species-act-lots-of-industry-money-1) (Tier 2) (VERIFIED)
+- ~~[The Hill: Barrasso to seek top spot on Energy and Natural Resources Committee](https://thehill.com/policy/energy-environment/526525-barrasso-to-seek-top-spot-on-energy-and-natural-resources-committee/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Heatmap News: Senate Energy and Climate Committees Poised for Big Shake-Ups](https://heatmap.news/politics/senate-committee-energy-natural-resources) (Tier 2) (VERIFIED)
+- [DeSmog: Republicans Aim to Limit EPA Power Through Legislation](https://www.desmog.com/2011/02/01/republicans-aim-limit-epa-power-through-legislation/) (Tier 2) (VERIFIED)
+- [GovTrack: John Barrasso](https://www.govtrack.us/congress/members/john_barrasso/412251) (Tier 3) (VERIFIED)
 
 ---
 
@@ -177,7 +177,7 @@ Wyoming is the class contradiction made geographic. The state produces more coal
 | CLEARPATH ACTION FUND, INC. | $50,375 | $0 |
 | POLITICAL ACTION COMMITTEE OF THE AMERICAN ASSOCIATION OF ORTHOPAEDIC SURGEONS | $39,800 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6WY00068/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6WY00068/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (GovTrack)
@@ -197,7 +197,7 @@ Wyoming is the class contradiction made geographic. The state produces more coal
 - S. 2787: Grasslands Grazing Act of 2025 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on March 4, 2026.*
 - S. 3965: EDA Short Form Application Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 3, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412251) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412251) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
 
 ### Congressional Stock Trades (STOCK Act)
@@ -215,5 +215,5 @@ Wyoming is the class contradiction made geographic. The state produces more coal
 |------|--------|------|--------|-------|
 | 05/01/2018 | -- | Sale | $50,001 - $100,000 | Self |
 
-- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->

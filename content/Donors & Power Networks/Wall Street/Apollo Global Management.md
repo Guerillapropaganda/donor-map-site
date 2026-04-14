@@ -76,7 +76,7 @@ Apollo Global Management. One of the largest alternative asset managers in the w
 
 Apollo's political significance extends beyond PAC contributions: the firm's $52,700 in contributions to [[_Virginia Foxx Master Profile|Virginia Foxx]] in the 2023-2024 cycle — while she chaired the Education Committee that regulates Apollo's University of Phoenix investment — is one of the vault's clearest donation-to-jurisdiction mappings.
 
-- [OpenSecrets: Apollo Global Management organizational profile](https://www.opensecrets.org/orgs/apollo-global-management/summary?id=D000067184) (Tier 1)
+- [OpenSecrets: Apollo Global Management organizational profile](https://www.opensecrets.org/orgs/apollo-global-management/summary?id=D000067184) (Tier 1) (VERIFIED)
 
 ---
 
@@ -100,10 +100,10 @@ Reduced regulation of for-profit education (University of Phoenix), favorable pr
 ### Sources
 
 - [OpenSecrets: Apollo Global Management organizational profile](https://www.opensecrets.org/orgs/apollo-global-management/summary?id=D000067184) (Tier 1)
-- [FEC: Apollo Global Management PAC filings](https://www.fec.gov/data/committee/C00548180/) (Tier 1)
-- [Republic Report: Foxx and for-profit college donations](https://www.republicreport.org/2022/as-house-education-chair-probes-for-profit-colleges-ranking-republican-foxx-takes-their-donations/) (Tier 2)
-- [New York Times: Apollo's insurance and PE operations](https://www.nytimes.com/2023/10/04/business/private-equity-insurance.html) (Tier 2)
-- [Ballotpedia: Apollo Global Management](https://ballotpedia.org/Apollo_Global_Management) (Tier 3)
+- [FEC: Apollo Global Management PAC filings](https://www.fec.gov/data/committee/C00548180/) (Tier 1) (VERIFIED)
+- [Republic Report: Foxx and for-profit college donations](https://www.republicreport.org/2022/as-house-education-chair-probes-for-profit-colleges-ranking-republican-foxx-takes-their-donations/) (Tier 2) (VERIFIED)
+- ~~[New York Times: Apollo's insurance and PE operations](https://www.nytimes.com/2023/10/04/business/private-equity-insurance.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Ballotpedia: Apollo Global Management](https://ballotpedia.org/Apollo_Global_Management) (Tier 3) (VERIFIED)
 
 ### OFAC Sanctions Screening
 <!-- auto:ofac-sdn start -->
@@ -119,7 +119,7 @@ Reduced regulation of for-profit education (University of Phoenix), favorable pr
 - GLOBAL MARINE SHIP MANAGEMENT CO., LTD. (-0-) [IRAN-EO13846]
   - Remarks: Website www.GMSHIPS.com; Executive Order 13846 information: BLOCKING PROPERTY AND INTERESTS IN PROPERTY.  Sec. 5(a)(iv); Identification Number IMO 5528362; Commercial Registry Number 1427788 (China).
 
-- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
 ### Tax Filings (IRS 990)
@@ -137,14 +137,14 @@ Reduced regulation of for-profit education (University of Phoenix), favorable pr
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/815163032/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/815163032/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/815163032/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/815163032/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/815163032/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/815163032/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/815163032/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/815163032/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/815163032/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/815163032/2019)~~ (URL broken, archived by Ops)
 - ... and 2 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/815163032) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/815163032) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Federal Court Records (CourtListener)
@@ -163,7 +163,7 @@ Reduced regulation of for-profit education (University of Phoenix), favorable pr
 - Feldman v. Apollo Global Management, Inc. (2026) — District Court, S.D. New York
 - Estate of Saul Offit, by Its Marc Offit v. Financial Credit Investment III SPV-B (Cayman), L.P. (2026) — District Court, S.D. New York
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Apollo%20Global%20Management%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Apollo%20Global%20Management%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### SEC Filing Activity
@@ -177,13 +177,13 @@ Reduced regulation of for-profit education (University of Phoenix), favorable pr
 
 **Notable filings:**
 
-- 2026-04-01 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/1858681/000185868126000016/0001858681-26-000016-index.htm)
-- 2026-03-30 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/1858681/000119312526131833/0001193125-26-131833-index.htm)
-- 2026-03-26 — **424B5**: [424B5](https://www.sec.gov/Archives/edgar/data/1858681/000119312526126316/0001193125-26-126316-index.htm)
-- 2026-03-26 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/1858681/000010290926000612/0000102909-26-000612-index.htm)
-- 2026-03-25 — **FWP**: [FWP](https://www.sec.gov/Archives/edgar/data/1858681/000095014226000832/0000950142-26-000832-index.htm)
+- 2026-04-01 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/1858681/000185868126000016/0001858681-26-000016-index.htm) (VERIFIED)
+- 2026-03-30 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/1858681/000119312526131833/0001193125-26-131833-index.htm) (VERIFIED)
+- 2026-03-26 — **424B5**: [424B5](https://www.sec.gov/Archives/edgar/data/1858681/000119312526126316/0001193125-26-126316-index.htm) (VERIFIED)
+- 2026-03-26 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/1858681/000010290926000612/0000102909-26-000612-index.htm) (VERIFIED)
+- 2026-03-25 — **FWP**: [FWP](https://www.sec.gov/Archives/edgar/data/1858681/000095014226000832/0000950142-26-000832-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Apollo%20Global%20Management%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Apollo%20Global%20Management%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Federal Register Activity
@@ -195,13 +195,13 @@ Reduced regulation of for-profit education (University of Phoenix), favorable pr
 | Agencies | Energy Department, Federal Energy Regulatory Commission, Securities and Exchange Commission |
 
 **Recent regulatory activity:**
-- [Combined Notice of Filings #1](https://www.federalregister.gov/documents/2026/02/18/2026-03172/combined-notice-of-filings-1) (2026-02-18) — Energy Department
-- [Change In Control: Port Arthur LNG Phase II, LLC](https://www.federalregister.gov/documents/2025/11/18/2025-20209/change-in-control-port-arthur-lng-phase-ii-llc) (2025-11-18) — Energy Department
-- [Combined Notice of Filings #1](https://www.federalregister.gov/documents/2025/03/21/2025-04848/combined-notice-of-filings-1) (2025-03-21) — Energy Department
-- [Apollo Global Management, Inc.](https://www.federalregister.gov/documents/2023/08/15/2023-17497/apollo-global-management-inc) (2023-08-15) — Securities and Exchange Commission
-- [Voya Retirement Insurance and Annuity Company et al; Notice of Application](https://www.federalregister.gov/documents/2019/07/19/2019-15335/voya-retirement-insurance-and-annuity-company-et-al-notice-of-application) (2019-07-19) — Securities and Exchange Commission
-- [Combined Notice of Filings #1](https://www.federalregister.gov/documents/2018/10/18/2018-22713/combined-notice-of-filings-1) (2018-10-18) — Energy Department
+- [Combined Notice of Filings #1](https://www.federalregister.gov/documents/2026/02/18/2026-03172/combined-notice-of-filings-1) (VERIFIED) (2026-02-18) — Energy Department
+- [Change In Control: Port Arthur LNG Phase II, LLC](https://www.federalregister.gov/documents/2025/11/18/2025-20209/change-in-control-port-arthur-lng-phase-ii-llc) (VERIFIED) (2025-11-18) — Energy Department
+- [Combined Notice of Filings #1](https://www.federalregister.gov/documents/2025/03/21/2025-04848/combined-notice-of-filings-1) (VERIFIED) (2025-03-21) — Energy Department
+- [Apollo Global Management, Inc.](https://www.federalregister.gov/documents/2023/08/15/2023-17497/apollo-global-management-inc) (VERIFIED) (2023-08-15) — Securities and Exchange Commission
+- [Voya Retirement Insurance and Annuity Company et al; Notice of Application](https://www.federalregister.gov/documents/2019/07/19/2019-15335/voya-retirement-insurance-and-annuity-company-et-al-notice-of-application) (VERIFIED) (2019-07-19) — Securities and Exchange Commission
+- [Combined Notice of Filings #1](https://www.federalregister.gov/documents/2018/10/18/2018-22713/combined-notice-of-filings-1) (VERIFIED) (2018-10-18) — Energy Department
 - ... and 1 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Apollo%20Global%20Management%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Apollo%20Global%20Management%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->

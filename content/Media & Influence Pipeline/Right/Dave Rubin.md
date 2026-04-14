@@ -54,7 +54,7 @@ Rubin's funding arc traces the modern right-wing media pipeline: progressive net
 
 No FEC individual contributions confirmed for the conservative media personality. The FEC API returns 197 results for "rubin, dave" via fuzzy matching, a common name. Filtering by California/Florida residence and independent media employer (BlazeTV, YouTube, self-employed) yields no confirmed matches. The $0 FEC record is consistent with the pattern across right-wing media: the infrastructure itself is the political contribution. Rubin's content promotes conservative causes; his wallet remains silent on federal candidates.
 
-- [FEC: Dave Rubin individual contributions (197 results, likely other individuals)](https://www.fec.gov/data/receipts/?contributor_name=rubin%2C+dave) (Tier 1)
+- [FEC: Dave Rubin individual contributions (197 results, likely other individuals)](https://www.fec.gov/data/receipts/?contributor_name=rubin%2C+dave) (Tier 1) (VERIFIED)
 
 > **Disambiguation note:** API returns 197 results for "rubin, dave", a common name. Filtering by known address and employer reveals no confirmed contributions from the Rubin Report host. All identifiable results are other Dave Rubins.
 
@@ -163,16 +163,16 @@ Dave Rubin represents **the conversion narrative as product**, the progressive-t
 
 ### Sources
 
-- [Wikipedia: Dave Rubin](https://en.wikipedia.org/wiki/Dave_Rubin) (Tier 3)
-- [Wikipedia: 2024 Tenet Media investigation](https://en.wikipedia.org/wiki/2024_Tenet_Media_investigation) (Tier 3)
-- [FEC: "RUBIN, DAVE" and "RUBIN, DAVID" individual contributions (FL, CA), no matches for conservative Dave Rubin](https://www.fec.gov/data/receipts/?contributor_name=RUBIN%2C+DAVE) (Tier 1)
-- [Miami Herald: "Dave Rubin says he was a 'victim' of Russian election scheme" (Sep 2024)](https://www.miamiherald.com/news/politics-government/article291976560.html) (Tier 2)
-- [TheWrap: "Conservative YouTuber Dave Rubin Signs Deal With BlazeTV" (Sep 2019)](https://www.thewrap.com/conservative-youtuber-dave-rubin-signs-deal-with-blazetv/) (Tier 3)
-- [Data & Society: "Alternative Influence: Broadcasting the Reactionary Right on YouTube" (2018)](https://www.datasociety.net/library/alternative-influence/) (Tier 2)
-- [Forbes: "Dave Rubin Is Being Rejected By His Own Audience" (Mar 2022)](https://www.forbes.com/sites/danidiplacido/2022/03/21/dave-rubin-is-being-rejected-by-his-own-audience/) (Tier 2)
-- [Newsweek: "Classical Liberals and Libertarians Should Vote Republican" by Dave Rubin (Dec 2021)](https://www.newsweek.com/classical-liberals-libertarians-should-vote-republican-opinion-1656513) (Tier 4)
-- [The Jerusalem Post: "Dave Rubin's journey" (Nov 2020)](https://www.jpost.com/jerusalem-report/dave-rubins-journey-647137) (Tier 3)
-- [Fox News: "Jordan B. Peterson, Dave Rubin ditch crowdfunding site Patreon to stand up for free speech" (Jan 2019)](https://www.foxnews.com/tech/jordan-b-peterson-dave-rubin-ditch-crowdfunding-site-patreon-to-stand-up-for-free-speech) (Tier 3)
+- [Wikipedia: Dave Rubin](https://en.wikipedia.org/wiki/Dave_Rubin) (Tier 3) (VERIFIED)
+- [Wikipedia: 2024 Tenet Media investigation](https://en.wikipedia.org/wiki/2024_Tenet_Media_investigation) (Tier 3) (VERIFIED)
+- [FEC: "RUBIN, DAVE" and "RUBIN, DAVID" individual contributions (FL, CA), no matches for conservative Dave Rubin](https://www.fec.gov/data/receipts/?contributor_name=RUBIN%2C+DAVE) (Tier 1) (VERIFIED)
+- [Miami Herald: "Dave Rubin says he was a 'victim' of Russian election scheme" (Sep 2024)](https://www.miamiherald.com/news/politics-government/article291976560.html) (Tier 2) (NEEDS REVIEW)
+- [TheWrap: "Conservative YouTuber Dave Rubin Signs Deal With BlazeTV" (Sep 2019)](https://www.thewrap.com/conservative-youtuber-dave-rubin-signs-deal-with-blazetv/) (Tier 3) (VERIFIED)
+- [Data & Society: "Alternative Influence: Broadcasting the Reactionary Right on YouTube" (2018)](https://www.datasociety.net/library/alternative-influence/) (Tier 2) (VERIFIED)
+- ~~[Forbes: "Dave Rubin Is Being Rejected By His Own Audience" (Mar 2022)](https://www.forbes.com/sites/danidiplacido/2022/03/21/dave-rubin-is-being-rejected-by-his-own-audience/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Newsweek: "Classical Liberals and Libertarians Should Vote Republican" by Dave Rubin (Dec 2021)](https://www.newsweek.com/classical-liberals-libertarians-should-vote-republican-opinion-1656513) (Tier 4) (VERIFIED)
+- [The Jerusalem Post: "Dave Rubin's journey" (Nov 2020)](https://www.jpost.com/jerusalem-report/dave-rubins-journey-647137) (Tier 3) (VERIFIED)
+- [Fox News: "Jordan B. Peterson, Dave Rubin ditch crowdfunding site Patreon to stand up for free speech" (Jan 2019)](https://www.foxnews.com/tech/jordan-b-peterson-dave-rubin-ditch-crowdfunding-site-patreon-to-stand-up-for-free-speech) (Tier 3) (VERIFIED)
 
 ---
 

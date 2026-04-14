@@ -87,8 +87,8 @@ Christopher Ruddy exemplifies how media proprietorship can be weaponized as a di
 
 ### Sources
 
-- [Washington Post: Chris Ruddy and Newsmax went all-in on Trump](https://www.washingtonpost.com/lifestyle/ruddy-newsmax-trump/2021/05/05/32b09714-9d32-11eb-9d05-ae06f4529ece_story.html) (Tier 2)
-- [Wikipedia: Christopher Ruddy. Newsmax founding, Trump relationship](https://en.wikipedia.org/wiki/Christopher_Ruddy) (Tier 3)
+- [Washington Post: Chris Ruddy and Newsmax went all-in on Trump](https://www.washingtonpost.com/lifestyle/ruddy-newsmax-trump/2021/05/05/32b09714-9d32-11eb-9d05-ae06f4529ece_story.html) (Tier 2) (VERIFIED)
+- [Wikipedia: Christopher Ruddy. Newsmax founding, Trump relationship](https://en.wikipedia.org/wiki/Christopher_Ruddy) (Tier 3) (VERIFIED)
 
 ---
 
@@ -123,7 +123,7 @@ Christopher Ruddy exemplifies how media proprietorship can be weaponized as a di
 - 2002-02-26 — **EX-3.1**: ARTICLES OF INCORPORATION OF THE REGISTRANT
 - 2025-02-07 — **EX1A-4 SUBS AGMT**: ASSIGNMENT AND ASSUMPTION AGREEMENT BY AND BETWEEN NEWSMAX MEDIA, INC. AND NEWSMAX INC. DATED APRIL 29, 2024
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Christopher%20Ruddy%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Christopher%20Ruddy%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Campaign Finance (FEC)
@@ -148,5 +148,5 @@ Christopher Ruddy exemplifies how media proprietorship can be weaponized as a di
 | NRCC | $54,090 | REP |
 | SENATE LEADERSHIP FUND | $50,000 | — |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Christopher%20Ruddy) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Christopher%20Ruddy) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->

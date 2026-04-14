@@ -173,21 +173,21 @@ Shooters Grill, Boebert's gun-themed restaurant in Rifle, accumulated $600,000+ 
 
 ## Sources
 
-- [FEC Candidate: Lauren Boebert campaign finance summary](https://www.fec.gov/data/candidate/H0CO03165/) (Tier 1)
-- [FEC: Lauren Boebert committee filings](https://www.fec.gov/data/candidate/H0CO03165/) (Tier 1)
-- [FEC: MUR 7876 — mileage reimbursement complaint](https://www.fec.gov/files/legal/murs/7876/7876_12.pdf) (Tier 1)
-- [Congress.gov: Lauren Boebert member profile](https://www.congress.gov/member/lauren-boebert/B000825) (Tier 1)
-- [Colorado Sun: Business records tie Boebert to husband's gas firm](https://coloradosun.com/2021/08/20/lauren-boebert-husband-jayson-oil-gas-consulting-terra-energy/) (Tier 2)
-- [Salon: Boebert's gas problem — concealed conflict of interest](https://www.salon.com/2021/08/24/lauren-boeberts-gas-problem-lawmaker-concealed-blatant-conflict-of-interest/) (Tier 2)
-- [CPR: 38,000 miles mileage claim](https://www.cpr.org/2021/02/07/what-we-know-about-lauren-boeberts-campaign-payments-to-herself-for-driving-38000-miles/) (Tier 2)
-- [NBC News: Boebert improperly used campaign funds for rent/utilities](https://www.nbcnews.com/politics/congress/rep-lauren-boebert-improperly-used-campaign-funds-rent-utilities-n1279976) (Tier 2)
-- [Colorado Newsline: 2024 grassroots and Super PAC funding](https://coloradonewsline.com/2024/10/16/grassroots-super-pac-funding-colorado-2024-congressional/) (Tier 2)
-- [Washington Post: Boebert district switch](https://www.washingtonpost.com/politics/2023/12/28/lauren-boebert-move-4th-district/) (Tier 2)
-- [Denver Post: Twitter fame and fundraising pipeline](https://www.denverpost.com/2021/04/16/lauren-boebert-3rd-district-campaign-finance-joe-neguse/) (Tier 2)
-- [Salon: Boebert admits to underreporting FEC](https://www.salon.com/2021/08/27/lauren-boebert-admits-to-underreporting-fec/) (Tier 2)
-- [Crooks and Liars: Why Ted Cruz donated $136,250](https://crooksandliars.com/2022/06/why-did-ted-cruz-donate-136250-lauren) (Tier 3)
-- [GovTrack: Lauren Boebert 2022 report card](https://www.govtrack.us/congress/members/lauren_boebert/456805/report-card/2022) (Tier 3)
-- [Ballotpedia: Lauren Boebert](https://ballotpedia.org/Lauren_Boebert) (Tier 3)
+- [FEC Candidate: Lauren Boebert campaign finance summary](https://www.fec.gov/data/candidate/H0CO03165/) (Tier 1) (VERIFIED)
+- [FEC: Lauren Boebert committee filings](https://www.fec.gov/data/candidate/H0CO03165/) (Tier 1) (VERIFIED)
+- [FEC: MUR 7876 — mileage reimbursement complaint](https://www.fec.gov/files/legal/murs/7876/7876_12.pdf) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: Lauren Boebert member profile](https://www.congress.gov/member/lauren-boebert/B000825)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Colorado Sun: Business records tie Boebert to husband's gas firm](https://coloradosun.com/2021/08/20/lauren-boebert-husband-jayson-oil-gas-consulting-terra-energy/) (Tier 2) (VERIFIED)
+- [Salon: Boebert's gas problem — concealed conflict of interest](https://www.salon.com/2021/08/24/lauren-boeberts-gas-problem-lawmaker-concealed-blatant-conflict-of-interest/) (Tier 2) (VERIFIED)
+- [CPR: 38,000 miles mileage claim](https://www.cpr.org/2021/02/07/what-we-know-about-lauren-boeberts-campaign-payments-to-herself-for-driving-38000-miles/) (Tier 2) (VERIFIED)
+- [NBC News: Boebert improperly used campaign funds for rent/utilities](https://www.nbcnews.com/politics/congress/rep-lauren-boebert-improperly-used-campaign-funds-rent-utilities-n1279976) (Tier 2) (VERIFIED)
+- [Colorado Newsline: 2024 grassroots and Super PAC funding](https://coloradonewsline.com/2024/10/16/grassroots-super-pac-funding-colorado-2024-congressional/) (Tier 2) (VERIFIED)
+- [Washington Post: Boebert district switch](https://www.washingtonpost.com/politics/2023/12/28/lauren-boebert-move-4th-district/) (Tier 2) (VERIFIED)
+- [Denver Post: Twitter fame and fundraising pipeline](https://www.denverpost.com/2021/04/16/lauren-boebert-3rd-district-campaign-finance-joe-neguse/) (Tier 2) (VERIFIED)
+- [Salon: Boebert admits to underreporting FEC](https://www.salon.com/2021/08/27/lauren-boebert-admits-to-underreporting-fec/) (Tier 2) (VERIFIED)
+- [Crooks and Liars: Why Ted Cruz donated $136,250](https://crooksandliars.com/2022/06/why-did-ted-cruz-donate-136250-lauren) (Tier 3) (VERIFIED)
+- [GovTrack: Lauren Boebert 2022 report card](https://www.govtrack.us/congress/members/lauren_boebert/456805/report-card/2022) (Tier 3) (VERIFIED)
+- [Ballotpedia: Lauren Boebert](https://ballotpedia.org/Lauren_Boebert) (Tier 3) (VERIFIED)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -220,12 +220,12 @@ Shooters Grill, Boebert's gun-themed restaurant in Rifle, accumulated $600,000+ 
 | LCV VICTORY FUND | $0 | $979,880 |
 | COLORADO UNITED PAC | $0 | $720,000 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0CO03165/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0CO03165/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Lauren Boebert](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: Lauren Boebert](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->

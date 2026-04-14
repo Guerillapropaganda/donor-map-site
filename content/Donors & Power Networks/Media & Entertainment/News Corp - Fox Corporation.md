@@ -53,9 +53,9 @@ Media deregulation (relaxed ownership limits allowing greater consolidation), fa
 
 ### Sources
 
-- [OpenSecrets: News Corp/Fox political spending](https://www.opensecrets.org/orgs/news-corp/summary?id=D000000227) (Tier 1)
-- [SEC: Fox Corporation 10-K filing](https://www.sec.gov/cgi-bin/browse-edgar?company=News%20Corp%20-%20Fox%20Corporation&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)
-- [Ballotpedia: Fox News](https://ballotpedia.org/Fox_News) (Tier 3)
+- [OpenSecrets: News Corp/Fox political spending](https://www.opensecrets.org/orgs/news-corp/summary?id=D000000227) (Tier 1) (VERIFIED)
+- [SEC: Fox Corporation 10-K filing](https://www.sec.gov/cgi-bin/browse-edgar?company=News%20Corp%20-%20Fox%20Corporation&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1) (VERIFIED)
+- [Ballotpedia: Fox News](https://ballotpedia.org/Fox_News) (Tier 3) (VERIFIED)
 
 ---
 
@@ -97,14 +97,14 @@ Media deregulation (relaxed ownership limits allowing greater consolidation), fa
 |------------------|--------|--------|
 | Unknown | $1009778941.6B | 50 |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-News%20Corp%20-%20Fox%20Corporation) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-News%20Corp%20-%20Fox%20Corporation) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [984500CF6457BDCFAD28](https://search.gleif.org/#/record/984500CF6457BDCFAD28) |
+| LEI | [984500CF6457BDCFAD28](https://search.gleif.org/#/record/984500CF6457BDCFAD28) (VERIFIED) |
 | Legal Name | STAR US LLC |
 | Jurisdiction | US-DE |
 | Entity Status | ACTIVE |
@@ -112,7 +112,7 @@ Media deregulation (relaxed ownership limits allowing greater consolidation), fa
 | Registration | ISSUED |
 | Last Updated | 2026-01-22T23:28:37Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Lobbying Activity
@@ -131,7 +131,7 @@ Media deregulation (relaxed ownership limits allowing greater consolidation), fa
 
 **Agencies contacted:** Administration for Children & Families (ACF), Army, Dept of (Other), Commerce, Dept of (DOC), Defense, Dept of (DOD), Economic Development Administration, Education, Dept of, Energy, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP), Federal Aviation Administration (FAA) +14 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=News%20Corp%20-%20Fox%20Corporation) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=News%20Corp%20-%20Fox%20Corporation) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Tax Filings (IRS 990)
@@ -144,5 +144,5 @@ Media deregulation (relaxed ownership limits allowing greater consolidation), fa
 | IRS Ruling Date | 2021-03-01 |
 | Filings on Record | 0 |
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/850803187) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/850803187) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->

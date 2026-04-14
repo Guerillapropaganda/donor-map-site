@@ -49,9 +49,9 @@ Winner of Republican runoff will face Talarico. Texas is a solid Republican stat
 - **Geographic reach:** Donations from all 50 states, more than 230 Texas counties, more than 125,000 individual contributors.
 - **Occupational base:** Teachers are the largest occupational group of donors (consistent with Talarico's education policy focus).
 - **PAC stance:** Does not accept corporate PAC contributions.
-- [Source: Texas Tribune: Talarico raises $7.4M in first six weeks of 2026](https://www.texastribune.org/2026/02/12/james-talarico-fundraising-2026-seven-million/) (Tier 2)
-- [Source: KSAT: Talarico reports raising nearly $7M](https://www.ksat.com/news/texas/2026/01/02/james-talarico-reports-raising-nearly-7-million-continuing-cash-influx-to-us-senate-bid/) (Tier 2)
-- [Source: Texas Tribune: Talarico holds cash lead over Crockett in Senate primary](https://www.texastribune.org/2026/01/31/texas-us-senate-democratic-primary-fundraising-q4-james-talarico-jasmine-crockett/) (Tier 2)
+- [Source: Texas Tribune: Talarico raises $7.4M in first six weeks of 2026](https://www.texastribune.org/2026/02/12/james-talarico-fundraising-2026-seven-million/) (Tier 2) (VERIFIED)
+- [Source: KSAT: Talarico reports raising nearly $7M](https://www.ksat.com/news/texas/2026/01/02/james-talarico-reports-raising-nearly-7-million-continuing-cash-influx-to-us-senate-bid/) (Tier 2) (VERIFIED)
+- [Source: Texas Tribune: Talarico holds cash lead over Crockett in Senate primary](https://www.texastribune.org/2026/01/31/texas-us-senate-democratic-primary-fundraising-q4-james-talarico-jasmine-crockett/) (Tier 2) (VERIFIED)
 
 ### Republican Nominee (Cornyn or Paxton). Fundraising (Limited 2026 data):
 - **Cornyn 2024 cycle:** $27.5M+ raised (for 2024 reelection in a non-presidential year)
@@ -74,7 +74,7 @@ This is a striking asymmetry. Talarico raised $20M from small-dollar donors (tea
 
 ### Which donor forces are shaping this race?
 - **[[Fossil Fuel Bloc|Fossil Fuel Bloc]] (primary Republican money):** Texas oil/gas industry sees this race as critical to maintaining Senate access to energy policy. Cornyn sits on the Energy and Natural Resources Committee. Paxton has been friendly to oil/gas deregulation as AG. Either Republican nominee will be heavily funded by oil/gas PACs. Talarico's no-corporate-PAC stance means zero oil/gas money.
- - [Fossil Fuel Bloc node: $578M+ national political spending (2024)](https://fossulfuelbloc.md/?q=Texas%202026%20Senate%20Race) (Tier 2)
+ - ~~[Fossil Fuel Bloc node: $578M+ national political spending (2024)](https://fossulfuelbloc.md/?q=Texas%202026%20Senate%20Race)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
  - [[Chevron|Chevron]], [[ExxonMobil|ExxonMobil]] primary Texas operations = highest density of oil/gas donors nationally
 
 - **Small-dollar Democratic base (Talarico's money):** Talarico's $20M from $100-or-less donors is one of the largest small-dollar fundraising operations in 2026 Democratic politics. This represents teacher unions (indirectly funding via small-dollar individuals), progressive grassroots ([[ActBlue|ActBlue]] infrastructure), and out-of-state Democratic donors (Sanders 2016/2020 infrastructure). This is capital-independent organizing money.
@@ -101,16 +101,16 @@ This is a striking asymmetry. Talarico raised $20M from small-dollar donors (tea
 
 ### Sources
 
-- [Wikipedia: 2026 United States Senate election in Texas](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas) (Tier 3)
-- [Ballotpedia: United States Senate election in Texas, 2026](https://ballotpedia.org/United_States_Senate_election_in_Texas,_2026) (Tier 3)
-- [KSAT: Texas Senate election results in March 2026 primary](https://www.ksat.com/vote-2026/2026/03/03/texas-senate-election-results-in-the-march-2026-primary/) (Tier 2)
-- [The Hill: Cornyn, Paxton Texas Senate runoff deadline](https://thehill.com/homenews/campaign/5789536-cornyn-paxton-texas-senate-runoff-deadline-trump-endorsement/) (Tier 2)
-- [Election Desk: 2026 U.S. Senate Race Texas Class II](https://electiondesk.org/2026/01/14/2026-u-s-senate-race-texas-class-ii/) (Tier 2)
-- [FEC: 2026 Senate Elections - Texas](https://www.fec.gov/data/elections/senate/TX/2026/) (Tier 1)
-- [NPR: Trump teases GOP endorsement in Texas Senate race](https://www.npr.org/2024/03/05/1236052104/texas-senate-election-democrats-cruz) (Tier 2)
-- [Texas Tribune: Talarico raises $7.4M in first six weeks of 2026](https://www.texastribune.org/2026/02/12/james-talarico-fundraising-2026-seven-million/) (Tier 2)
-- [Texas Tribune: Talarico outraises Allred with massive fundraising haul](https://www.texastribune.org/2025/10/01/texas-senate-democratic-fundraising-james-talarico-colin-allred/) (Tier 2)
-- [Texas Standard: Talarico outraises Allred in Democratic primary](https://www.texasstandard.org/stories/talarico-outraises-allred-texas-senate-democratic-primary/) (Tier 2)
+- [Wikipedia: 2026 United States Senate election in Texas](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas) (Tier 3) (VERIFIED)
+- [Ballotpedia: United States Senate election in Texas, 2026](https://ballotpedia.org/United_States_Senate_election_in_Texas,_2026) (Tier 3) (VERIFIED)
+- [KSAT: Texas Senate election results in March 2026 primary](https://www.ksat.com/vote-2026/2026/03/03/texas-senate-election-results-in-the-march-2026-primary/) (Tier 2) (VERIFIED)
+- ~~[The Hill: Cornyn, Paxton Texas Senate runoff deadline](https://thehill.com/homenews/campaign/5789536-cornyn-paxton-texas-senate-runoff-deadline-trump-endorsement/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Election Desk: 2026 U.S. Senate Race Texas Class II](https://electiondesk.org/2026/01/14/2026-u-s-senate-race-texas-class-ii/) (Tier 2) (VERIFIED)
+- [FEC: 2026 Senate Elections - Texas](https://www.fec.gov/data/elections/senate/TX/2026/) (Tier 1) (VERIFIED)
+- [NPR: Trump teases GOP endorsement in Texas Senate race](https://www.npr.org/2024/03/05/1236052104/texas-senate-election-democrats-cruz) (Tier 2) (VERIFIED)
+- [Texas Tribune: Talarico raises $7.4M in first six weeks of 2026](https://www.texastribune.org/2026/02/12/james-talarico-fundraising-2026-seven-million/) (Tier 2) (VERIFIED)
+- [Texas Tribune: Talarico outraises Allred with massive fundraising haul](https://www.texastribune.org/2025/10/01/texas-senate-democratic-fundraising-james-talarico-colin-allred/) (Tier 2) (VERIFIED)
+- [Texas Standard: Talarico outraises Allred in Democratic primary](https://www.texasstandard.org/stories/talarico-outraises-allred-texas-senate-democratic-primary/) (Tier 2) (VERIFIED)
 
 ---
 

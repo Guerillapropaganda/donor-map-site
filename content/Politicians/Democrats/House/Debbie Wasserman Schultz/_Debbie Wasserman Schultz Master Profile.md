@@ -134,9 +134,9 @@ The DNC chairmanship (2011-2016) exposed the party-level version of the same don
 
 ## Sources
 
-- [FEC Candidate: Debbie Wasserman Schultz campaign finance summary](https://www.fec.gov/data/candidate/H4FL20023/) (Tier 1)
-- [NBC News: DNC Chief Wasserman Schultz stepping aside in wake of scandal](https://www.nbcnews.com/storyline/2016-conventions/democratic-national-committee-chief-stepping-aside-after-convention-n615826) (Tier 2)
-- [Wikipedia: Debbie Wasserman Schultz](https://en.wikipedia.org/wiki/Debbie_Wasserman_Schultz) (Tier 3)
+- [FEC Candidate: Debbie Wasserman Schultz campaign finance summary](https://www.fec.gov/data/candidate/H4FL20023/) (Tier 1) (VERIFIED)
+- [NBC News: DNC Chief Wasserman Schultz stepping aside in wake of scandal](https://www.nbcnews.com/storyline/2016-conventions/democratic-national-committee-chief-stepping-aside-after-convention-n615826) (Tier 2) (VERIFIED)
+- [Wikipedia: Debbie Wasserman Schultz](https://en.wikipedia.org/wiki/Debbie_Wasserman_Schultz) (Tier 3) (VERIFIED)
 
 ---
 
@@ -172,7 +172,7 @@ The DNC chairmanship (2011-2016) exposed the party-level version of the same don
 | CITIZENS AGAINST AIPAC CORRUPTION | $0 | $45,408 |
 | UNITED FOR COMMON SENSE | $0 | $44,250 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4FL20023/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4FL20023/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### DOJ Press Releases
@@ -182,5 +182,5 @@ The DNC chairmanship (2011-2016) exposed the party-level version of the same don
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Debbie Wasserman Schultz](https://www.congress.gov/member/e000179) (Tier 1)
+- ~~[Congress.gov: Debbie Wasserman Schultz](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->

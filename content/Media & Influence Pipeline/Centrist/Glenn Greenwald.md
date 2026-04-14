@@ -56,7 +56,7 @@ Greenwald's career traces one of the most dramatic funding arcs in political med
 > [!money]
 > The most ideologically specific FEC record in the media section of this vault. Two contributions to the single Republican most aggressively targeted by AIPAC-aligned super PACs (Massie has voted against Israel military aid multiple times). Greenwald's only political donations are to an anti-interventionist libertarian Republican who shares his civil-libertarian and anti-Israel-lobby positions. This FEC footprint maps his trajectory from left-civil-libertarian (Snowden reporting) to anti-establishment alignment that crosses party lines, not rightward political conversion but principled anti-interventionism and anti-surveillance positioning that found no Democratic home. The donations reveal that Greenwald's analysis, anti-war, anti-surveillance state, anti-Israel lobby, is ideologically Republican-adjacent even though it originated on the left.
 
-- [FEC: Glenn Greenwald individual contributions (2 results, $500)](https://www.fec.gov/data/receipts/?contributor_name=glenn+greenwald) (Tier 1)
+- [FEC: Glenn Greenwald individual contributions (2 results, $500)](https://www.fec.gov/data/receipts/?contributor_name=glenn+greenwald) (Tier 1) (VERIFIED)
 
 > **Note on API results:** The FEC API search for "glenn greenwald" returns 2 results ($500 total), both to Thomas Massie for Congress (2025), self-employed. All verified as belonging to the journalist. No disambiguation needed, employer and recipient confirm both results are the media figure.
 
@@ -167,19 +167,19 @@ Greenwald's trajectory, corporate law → progressive blogging → Guardian → 
 
 ### Sources
 
-- [FEC Individual Contributions: Glenn Greenwald (2 results, 2015-2026)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=glenn+greenwald&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1)
-- [Wikipedia: Glenn Greenwald](https://en.wikipedia.org/wiki/Glenn_Greenwald) (Tier 3)
-- [Glenn Greenwald: "My Resignation From The Intercept" (Oct 29, 2020)](https://greenwald.substack.com/p/my-resignation-from-the-intercept) (Tier 1)
-- [Glenn Greenwald: "Welcome Back to Substack!" (Feb 9, 2026)](https://greenwald.substack.com/p/welcome-back-to-substack) (Tier 1)
-- [Glenn Greenwald: "Our Migration to Rumble and Locals" (Jan 16, 2023)](https://greenwald.substack.com/p/our-migration-to-rumble-and-locals) (Tier 1)
-- [Al Jazeera: "Greenwald Resigns from The Intercept Citing Censorship" (Oct 30, 2020)](https://www.aljazeera.com/news/2020/10/30/greenwald-resigns-from-the-intercept-over-biden-article) (Tier 2)
-- [Washington Post: "Rumble Will Pay Tulsi Gabbard and Glenn Greenwald in Bid to Draw Audience" (Aug 12, 2021)](https://www.washingtonpost.com/technology/2021/08/12/rumble-video-gabbard-greenwald/) (Tier 2)
-- [CJR: "The Intercept, a Billionaire-Funded Public Charity, Cuts Back" (Mar 15, 2019)](https://www.cjr.org/business_of_news/layoffs-the-intercept.php) (Tier 2)
-- [The Pulitzer Prizes: The Guardian US, 2014 Public Service](https://www.pulitzer.org/winners/guardian-us) (Tier 1)
-- [NYU Law: Pulitzer Prize for Public Service Shared by Glenn Greenwald '94 (2014)](https://www.law.nyu.edu/news/work-by-glenn-greenwald-94-barton-gellman-wins-2014-pulitzer-prize) (Tier 2)
-- [Mediaite: "Thomas Massie Calls Out Three GOP Pro-Israel Mega-Donors"](https://www.mediaite.com/politics/house-republican-calls-out-three-pro-israel-megadonors-over-deceptively-named-pac-aimed-at-removing-him-from-office/) (Tier 2)
-- [Rumble: Glenn Greenwald Channel](https://rumble.com/c/GGreenwald) (Tier 1)
-- [Glenn Greenwald. Substack](https://greenwald.substack.com/) (Tier 1)
+- [FEC Individual Contributions: Glenn Greenwald (2 results, 2015-2026)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=glenn+greenwald&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1) (VERIFIED)
+- [Wikipedia: Glenn Greenwald](https://en.wikipedia.org/wiki/Glenn_Greenwald) (Tier 3) (VERIFIED)
+- [Glenn Greenwald: "My Resignation From The Intercept" (Oct 29, 2020)](https://greenwald.substack.com/p/my-resignation-from-the-intercept) (Tier 1) (VERIFIED)
+- [Glenn Greenwald: "Welcome Back to Substack!" (Feb 9, 2026)](https://greenwald.substack.com/p/welcome-back-to-substack) (Tier 1) (VERIFIED)
+- [Glenn Greenwald: "Our Migration to Rumble and Locals" (Jan 16, 2023)](https://greenwald.substack.com/p/our-migration-to-rumble-and-locals) (Tier 1) (VERIFIED)
+- [Al Jazeera: "Greenwald Resigns from The Intercept Citing Censorship" (Oct 30, 2020)](https://www.aljazeera.com/news/2020/10/30/greenwald-resigns-from-the-intercept-over-biden-article) (Tier 2) (VERIFIED)
+- [Washington Post: "Rumble Will Pay Tulsi Gabbard and Glenn Greenwald in Bid to Draw Audience" (Aug 12, 2021)](https://www.washingtonpost.com/technology/2021/08/12/rumble-video-gabbard-greenwald/) (Tier 2) (VERIFIED)
+- [CJR: "The Intercept, a Billionaire-Funded Public Charity, Cuts Back" (Mar 15, 2019)](https://www.cjr.org/business_of_news/layoffs-the-intercept.php) (Tier 2) (VERIFIED)
+- ~~[The Pulitzer Prizes: The Guardian US, 2014 Public Service](https://www.pulitzer.org/winners/guardian-us)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [NYU Law: Pulitzer Prize for Public Service Shared by Glenn Greenwald '94 (2014)](https://www.law.nyu.edu/news/work-by-glenn-greenwald-94-barton-gellman-wins-2014-pulitzer-prize) (Tier 2) (VERIFIED)
+- [Mediaite: "Thomas Massie Calls Out Three GOP Pro-Israel Mega-Donors"](https://www.mediaite.com/politics/house-republican-calls-out-three-pro-israel-megadonors-over-deceptively-named-pac-aimed-at-removing-him-from-office/) (Tier 2) (VERIFIED)
+- [Rumble: Glenn Greenwald Channel](https://rumble.com/c/GGreenwald) (Tier 1) (VERIFIED)
+- [Glenn Greenwald. Substack](https://greenwald.substack.com/) (Tier 1) (VERIFIED)
 
 ---
 

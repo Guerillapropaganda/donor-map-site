@@ -144,13 +144,13 @@ The family narrative is the rhetorical armor. Diaz-Balart's aunt, Mirta Diaz-Bal
 
 ## Sources
 
-- [FEC Candidate: Mario Diaz-Balart campaign finance summary](https://www.fec.gov/data/candidate/H2FL25018/) (Tier 1)
-- [Miami New Times: Florida Algae Bloom — Rep. Diaz-Balart Took $27,200 From Big Sugar](https://www.miaminewtimes.com/news/florida-algae-bloom-miami-rep-mario-diaz-balart-took-27200-from-big-sugar-10605348/) (Tier 2)
-- [Florida Daily: Diaz-Balart Plans to Use Appropriations to Help Israel, Take Aim at Cuban Regimes](https://www.floridadaily.com/mario-diaz-balart-plans-to-use-appropriations-assignments-to-help-israel-take-aim-at-cuban-venezuelan-regimes/) (Tier 2)
-- [Diaz-Balart.house.gov: FY26 Appropriations passage press release](https://mariodiazbalart.house.gov/media-center/press-releases/diaz-balart-delivers-stronger-national-security-less-waste-passage-fy26) (Tier 1)
-- [Roll Call: Diaz-Balart puts stamp on Latin America programs in spending bill](https://rollcall.com/2023/07/05/diaz-balart-puts-stamp-on-latin-america-programs-in-spending-bill/) (Tier 2)
-- [Wikipedia: Mario Díaz-Balart](https://en.wikipedia.org/wiki/Mario_D%C3%ADaz-Balart) (Tier 3)
-- [Wikipedia: Fanjul family](https://en.wikipedia.org/wiki/Fanjul_family) (Tier 3)
+- [FEC Candidate: Mario Diaz-Balart campaign finance summary](https://www.fec.gov/data/candidate/H2FL25018/) (Tier 1) (VERIFIED)
+- [Miami New Times: Florida Algae Bloom — Rep. Diaz-Balart Took $27,200 From Big Sugar](https://www.miaminewtimes.com/news/florida-algae-bloom-miami-rep-mario-diaz-balart-took-27200-from-big-sugar-10605348/) (Tier 2) (VERIFIED)
+- ~~[Florida Daily: Diaz-Balart Plans to Use Appropriations to Help Israel, Take Aim at Cuban Regimes](https://www.floridadaily.com/mario-diaz-balart-plans-to-use-appropriations-assignments-to-help-israel-take-aim-at-cuban-venezuelan-regimes/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Diaz-Balart.house.gov: FY26 Appropriations passage press release](https://mariodiazbalart.house.gov/media-center/press-releases/diaz-balart-delivers-stronger-national-security-less-waste-passage-fy26) (Tier 1) (VERIFIED)
+- [Roll Call: Diaz-Balart puts stamp on Latin America programs in spending bill](https://rollcall.com/2023/07/05/diaz-balart-puts-stamp-on-latin-america-programs-in-spending-bill/) (Tier 2) (VERIFIED)
+- [Wikipedia: Mario Díaz-Balart](https://en.wikipedia.org/wiki/Mario_D%C3%ADaz-Balart) (Tier 3) (VERIFIED)
+- [Wikipedia: Fanjul family](https://en.wikipedia.org/wiki/Fanjul_family) (Tier 3) (VERIFIED)
 
 ---
 
@@ -186,5 +186,5 @@ The family narrative is the rhetorical armor. Diaz-Balart's aunt, Mirta Diaz-Bal
 | HOUSE MAJORITY PAC | $0 | $64,729 |
 | NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE | $20,324 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2FL25018/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2FL25018/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->

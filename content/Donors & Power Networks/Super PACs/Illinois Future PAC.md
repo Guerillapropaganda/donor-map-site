@@ -40,7 +40,7 @@ Illinois Future PAC exemplifies the Self-Funding as Independence pattern: Pritzk
 
 ### Sources
 
-- [Ballotpedia: JB Pritzker campaign finance](https://ballotpedia.org/Illinois_Future_PAC) (Tier 3)
+- [Ballotpedia: JB Pritzker campaign finance](https://ballotpedia.org/Illinois_Future_PAC) (Tier 3) (VERIFIED)
 
 
 ### Tax Filings (IRS 990)
@@ -53,5 +53,5 @@ Illinois Future PAC exemplifies the Self-Funding as Independence pattern: Pritzk
 | IRS Ruling Date | 2023-03-01 |
 | Filings on Record | 0 |
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/884013706) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/884013706) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->

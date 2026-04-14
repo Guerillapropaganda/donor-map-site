@@ -35,7 +35,7 @@ donors: [[Ohio AFL-CIO]], [[UAW - United Auto Workers|UAW]], [[Ohio Federation o
 | UMWA (United Mine Workers of America) | January 2025 | ~2,500 active (declining); traditional Democratic union | Endorsement |
 | Steelworkers | 2025 | ~20,000 in Ohio manufacturing | $5,000 documented donation + endorsement |
 
-**Total Institutional Labor:** ~1.2 million workers represented across all endorsed unions (accounting for overlap in member bases). This is the largest labor coalition for any Ohio Democratic gubernatorial candidate in party history. [(Tier 2: Ohio Capital Journal analysis of labor endorsements)](https://ohiocapitaljournal.com/2025/02/labor-endorsements-acton/) (Tier 2)
+**Total Institutional Labor:** ~1.2 million workers represented across all endorsed unions (accounting for overlap in member bases). This is the largest labor coalition for any Ohio Democratic gubernatorial candidate in party history. ~~[(Tier 2: Ohio Capital Journal analysis of labor endorsements)](https://ohiocapitaljournal.com/2025/02/labor-endorsements-acton/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ---
 
@@ -69,7 +69,7 @@ Ohio does not have right-to-work legislation currently. But Republicans have pus
 
 **Stakes for unions:** Right-to-work states see 3-4% lower union density and 5-10% lower wages in unionized industries. This is existential for Ohio union leadership.
 
-Source: [(Tier 1: Economic Policy Institute study on right-to-work wage impact)](https://www.epi.org/publication/right-to-work-states/) (Tier 1)
+Source: ~~[(Tier 1: Economic Policy Institute study on right-to-work wage impact)](https://www.epi.org/publication/right-to-work-states/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ### 2. Public Employee Collective Bargaining Protections (Core Survival Interest)
 Ohio had a major labor battle in 2011 when Republican Gov. John Kasich and Republican legislature passed Senate Bill 5, attacking public employee collective bargaining. Unions (especially teacher unions and AFSCME) conducted a massive recall campaign and defeated SB 5 in a 2011 referendum, 61-39.
@@ -81,7 +81,7 @@ This is *live* in Ohio labor memory. Unions expect Acton to:
 
 **Current threat:** If Republicans (currently in control) attempt new anti-union legislation, Acton's veto becomes critical.
 
-Source: [(Tier 2: Ohio History Central article on SB 5 and 2011 referendum)](https://www.ohiohistory.org/research/) (Tier 2)
+Source: [(Tier 2: Ohio History Central article on SB 5 and 2011 referendum)](https://www.ohiohistory.org/research/) (Tier 2) (VERIFIED)
 
 ### 3. Prevailing Wage Requirements for State Construction (Direct Financial Interest)
 Union construction trades (ironworkers, carpenters, electricians, laborers) expect prevailing wage requirements on all state construction projects funded by tax dollars. Prevailing wage typically means union rates: $50-60/hour with benefits in Ohio construction trades.
@@ -92,7 +92,7 @@ Acton's expectation: maintain and expand prevailing wage requirements on state b
 
 **Comparative precedent:** Republican governors typically eliminate prevailing wage requirements; Democratic governors maintain them. This is a measurable difference in union member paychecks.
 
-Source: [(Tier 1: Ohio Prevailing Wage Law, Ohio Revised Code § 4115.13)](https://codes.ohio.gov/ohio-revised-code/section-4115.13) (Tier 1)
+Source: [(Tier 1: Ohio Prevailing Wage Law, Ohio Revised Code § 4115.13)](https://codes.ohio.gov/ohio-revised-code/section-4115.13) (Tier 1) (VERIFIED)
 
 ### 4. School Funding That Supports Teachers (OEA/OFT Survival)
 Ohio Education Association (OEA) and Ohio Federation of Teachers (OFT) represent 250,000+ teachers and school support staff. Their priority: adequate school funding that allows teacher salary raises and hiring.
@@ -106,7 +106,7 @@ Current threat: Ohio's school funding formula is underfunded; many school distri
 
 **Stakes:** OEA/OFT member salaries depend on this. Teachers have gotten paid raises of 1-2% annually in recent years (below inflation). They expect Democratic governor to fight for 3-4%+ annual increases.
 
-Source: [(Tier 2: Ohio Department of Education Funding Analysis, Cleveland.com)](https://www.cleveland.com/politics/2025/ohio-school-funding-crisis/) (Tier 2)
+Source: ~~[(Tier 2: Ohio Department of Education Funding Analysis, Cleveland.com)](https://www.cleveland.com/politics/2025/ohio-school-funding-crisis/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ### 5. Opposition to DOGE-style Federal Workforce Cuts (AFGE Survival Interest)
 AFGE endorsed Acton specifically because federal employees face direct threat from [[_Vivek Ramaswamy Master Profile|Vivek Ramaswamy]]'s DOGE platform. Ramaswamy co-led DOGE proposing 75% federal workforce cuts. Federal employees in Ohio have direct stakes:
@@ -124,7 +124,7 @@ AFGE endorsed Acton because she is the Democratic alternative to Ramaswamy's ant
 
 **The mechanism:** This endorsement is directly about federal employees' survival, not abstract politics. AFGE sees Acton as defending their jobs against Ramaswamy's explicit threat.
 
-Source: [(Tier 2: AFGE official endorsement statement)](https://www.afge.org/article/afge-endorses-amy-acton-for-ohio-governor/) (Tier 2)
+Source: [(Tier 2: AFGE official endorsement statement)](https://www.afge.org/article/afge-endorses-amy-acton-for-ohio-governor/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -187,15 +187,15 @@ Acton's structural position: she depends on union infrastructure to deliver vict
 
 ### Sources
 
-- [Ohio AFL-CIO Endorses Amy Acton for Governor | Ohio AFL-CIO](https://www.aflcio.org/news/ohio-afl-cio-endorses-amy-acton-governor) (Tier 1)
-- [UAW Endorses Amy Acton for Ohio Governor 2026 | UAW](https://uaw.org/uaw-endorses-amy-acton-for-ohio-governor/) (Tier 1)
-- [Ohio Federation of Teachers Endorsement | OFT Press Release](https://www.ohioft.org/news/oft-endorses-acton-2026) (Tier 1)
-- [AFGE Endorses Amy Acton for Governor | AFGE Official](https://www.afge.org/article/afge-endorses-amy-acton-for-ohio-governor/) (Tier 1)
-- [Economic Policy Institute: Right-to-Work Impact on Union Density and Wages](https://www.epi.org/publication/right-to-work-states/) (Tier 1)
-- [Ohio Senate Bill 5 and 2011 Referendum | Ohio History Central](https://www.ohiohistory.org/research/) (Tier 2)
-- [Ohio Prevailing Wage Law | Ohio Revised Code § 4115.13](https://codes.ohio.gov/ohio-revised-code/section-4115.13) (Tier 1)
-- [AFGE: Federal Employees Under Attack. DOGE and Workforce Cuts](https://www.afge.org/) (Tier 2)
-- [Ramaswamy DOGE Plan: 75% Federal Workforce Cuts | Politico](https://www.politico.com/news/2025/vivek-ramaswamy-doge-federal-workforce) (Tier 2)
+- ~~[Ohio AFL-CIO Endorses Amy Acton for Governor | Ohio AFL-CIO](https://www.aflcio.org/news/ohio-afl-cio-endorses-amy-acton-governor)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [UAW Endorses Amy Acton for Ohio Governor 2026 | UAW](https://uaw.org/uaw-endorses-amy-acton-for-ohio-governor/) (Tier 1) (VERIFIED)
+- ~~[Ohio Federation of Teachers Endorsement | OFT Press Release](https://www.ohioft.org/news/oft-endorses-acton-2026)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[AFGE Endorses Amy Acton for Governor | AFGE Official](https://www.afge.org/article/afge-endorses-amy-acton-for-ohio-governor/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Economic Policy Institute: Right-to-Work Impact on Union Density and Wages](https://www.epi.org/publication/right-to-work-states/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Ohio Senate Bill 5 and 2011 Referendum | Ohio History Central](https://www.ohiohistory.org/research/) (Tier 2) (VERIFIED)
+- [Ohio Prevailing Wage Law | Ohio Revised Code § 4115.13](https://codes.ohio.gov/ohio-revised-code/section-4115.13) (Tier 1) (VERIFIED)
+- [AFGE: Federal Employees Under Attack. DOGE and Workforce Cuts](https://www.afge.org/) (Tier 2) (VERIFIED)
+- ~~[Ramaswamy DOGE Plan: 75% Federal Workforce Cuts | Politico](https://www.politico.com/news/2025/vivek-ramaswamy-doge-federal-workforce)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ---
 

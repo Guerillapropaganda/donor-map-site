@@ -172,12 +172,12 @@ The leaked 2026 recordings are the class analysis in audio form. Cruz privately 
 
 ## Sources
 
-- [FEC Candidate: Cruz career donors, oil/gas totals, 2024 race spending](https://www.fec.gov/data/candidate/S2TX00312/) (Tier 1)
-- [FEC: undisclosed loan violations, Bitcoin Freedom PAC](https://www.fec.gov/data/committee/C00822775/?tab=filings) (Tier 1)
-- [New York Times: Goldman Sachs loans investigation](https://qz.com/594425/wall-street-critic-ted-cruz-funded-his-senate-campaign-with-a-loan-from-goldman-sachs) (Tier 2)
-- [Texas Tribune: 2024 race coverage, grid failure reporting](https://www.texastribune.org/2024/07/18/ted-cruz-colin-allred-fundraising-2024/) (Tier 2)
-- [Wall Street Journal: Mercer-Cruz financial relationship](https://www.opensecrets.org/news/2018/03/before-trump-cambridge-analytica-was-on-team-cruz/) (Tier 2)
-- [CNBC: leaked 2026 tariff recordings](https://www.axios.com/2026/01/25/cruz-trump-vance-secret-tapes) (Tier 2)
+- [FEC Candidate: Cruz career donors, oil/gas totals, 2024 race spending](https://www.fec.gov/data/candidate/S2TX00312/) (Tier 1) (VERIFIED)
+- [FEC: undisclosed loan violations, Bitcoin Freedom PAC](https://www.fec.gov/data/committee/C00822775/?tab=filings) (Tier 1) (VERIFIED)
+- [New York Times: Goldman Sachs loans investigation](https://qz.com/594425/wall-street-critic-ted-cruz-funded-his-senate-campaign-with-a-loan-from-goldman-sachs) (Tier 2) (VERIFIED)
+- [Texas Tribune: 2024 race coverage, grid failure reporting](https://www.texastribune.org/2024/07/18/ted-cruz-colin-allred-fundraising-2024/) (Tier 2) (VERIFIED)
+- [Wall Street Journal: Mercer-Cruz financial relationship](https://www.opensecrets.org/news/2018/03/before-trump-cambridge-analytica-was-on-team-cruz/) (Tier 2) (VERIFIED)
+- [CNBC: leaked 2026 tariff recordings](https://www.axios.com/2026/01/25/cruz-trump-vance-secret-tapes) (Tier 2) (VERIFIED)
 conte
 
 ### Legislative Activity (GovTrack)
@@ -196,7 +196,7 @@ conte
 - S. 933: NASA Transition Authorization Act of 2025 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on March 4, 2026.*
 - S. 3923: Weather Research and Forecasting Innovation Reauthorization Act of 2026 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on March 4, 2026.*
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412573) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412573) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
 
 ### Campaign Finance (FEC)
@@ -230,7 +230,7 @@ conte
 | SAVE OUR COUNTRY | $3,100,000 | $0 |
 | WINSENATE | $0 | $2,487,500 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S2TX00312/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S2TX00312/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Voting Record
@@ -257,7 +257,7 @@ conte
 
 **Sources**
 
-- [GovTrack: Ted Cruz](https://www.govtrack.us/congress/members/412573) (Tier 1)
+- [GovTrack: Ted Cruz](https://www.govtrack.us/congress/members/412573) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-11 -->
@@ -284,7 +284,7 @@ conte
 
 **Sources**
 
-- [Congress.gov: Ted Cruz](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: Ted Cruz](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [GovTrack: Ted Cruz](https://www.govtrack.us/congress/members/412573) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->
@@ -314,7 +314,7 @@ conte
 - Western Hemisphere, Transnational Crime, Civilian Security, Democracy, Human Rights, and Global Women's Issues
 - the Constitution
 
-- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 ### Influence Network (Cross-Reference)
@@ -362,5 +362,5 @@ conte
 | — |  | Amendment SA 5180 agreed to in Senate by Unanimous Consent. |
 | — |  | — |
 
-- [Source: Congress.gov](https://www.congress.gov/member/C001098) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001098)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->

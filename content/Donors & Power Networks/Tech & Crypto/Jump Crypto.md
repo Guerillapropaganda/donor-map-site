@@ -80,7 +80,7 @@ Jump Crypto represents the pattern of financial oligarchs using massive capital 
 
 ### Sources
 
-- [OpenSecrets: Fairshake PAC Contributions by Donor](https://www.opensecrets.org/orgs/jump-trading-llc/summary?id=D000088534) (Tier 1)
+- ~~[OpenSecrets: Fairshake PAC Contributions by Donor](https://www.opensecrets.org/orgs/jump-trading-llc/summary?id=D000088534)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -112,7 +112,7 @@ Jump Crypto represents the pattern of financial oligarchs using massive capital 
 - Jump Operations, LLC v. Heeger (2025) — District Court, N.D. Illinois
 - FractureLabs Ou v. Jump Trading, LLC (2024) — District Court, N.D. Illinois
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Jump%20Crypto%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Jump%20Crypto%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### SEC Filing Activity
@@ -130,7 +130,7 @@ Jump Crypto represents the pattern of financial oligarchs using massive capital 
 - 2025-09-18 — **EX-99.2**: ADDITIONAL ITEM 2(A) INFORMATION
 - 2025-09-08 — **EX-99.2**: INVESTOR PRESENTATION
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Jump%20Crypto%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Jump%20Crypto%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Vehicle Safety (NHTSA)
@@ -148,5 +148,5 @@ Jump Crypto represents the pattern of financial oligarchs using massive capital 
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Jump%20Crypto) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Jump%20Crypto) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->

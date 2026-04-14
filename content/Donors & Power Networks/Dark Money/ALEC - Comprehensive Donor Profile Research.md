@@ -93,11 +93,11 @@ issues:
 
 ### Sources for Funding Section (All Tier 1-2)
 
-- [ProPublica Nonprofit Explorer: ALEC](https://projects.propublica.org/nonprofits/organizations/520140979) (Tier 1 — Form 990 filings)
-- [EXPOSEDbyCMD: Who Funds ALEC?](https://www.exposedbycmd.org/2025/07/18/who-funds-alec/) (Tier 2 — 2025 investigative analysis)
-- [EXPOSEDbyCMD: ALEC's Funding Revealed](https://www.exposedbycmd.org/2023/07/25/alecs-funding-revealed/) (Tier 2 — $41.7M breakdown 2017-2021)
-- [EXPOSEDbyCMD: Bradley Foundation Bankrolls ALEC](https://www.exposedbycmd.org/2021/08/20/bradley-foundation-bankrolls-controversial-alec-voter-software) (Tier 2)
-- [ALEC Membership Page](https://alec.org/membership/) (Tier 2 — official disclosure)
+- [ProPublica Nonprofit Explorer: ALEC](https://projects.propublica.org/nonprofits/organizations/520140979) (VERIFIED) (Tier 1 — Form 990 filings)
+- ~~[EXPOSEDbyCMD: Who Funds ALEC?](https://www.exposedbycmd.org/2025/07/18/who-funds-alec/)~~ (URL broken, archived by Ops) (Tier 2 — 2025 investigative analysis)
+- ~~[EXPOSEDbyCMD: ALEC's Funding Revealed](https://www.exposedbycmd.org/2023/07/25/alecs-funding-revealed/)~~ (URL broken, archived by Ops) (Tier 2 — $41.7M breakdown 2017-2021)
+- ~~[EXPOSEDbyCMD: Bradley Foundation Bankrolls ALEC](https://www.exposedbycmd.org/2021/08/20/bradley-foundation-bankrolls-controversial-alec-voter-software)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [ALEC Membership Page](https://alec.org/membership/) (VERIFIED) (Tier 2 — official disclosure)
 
 ---
 
@@ -330,11 +330,11 @@ ALEC publicly claimed it faced a "funding crisis" post-exodus, but recovered thr
 
 ### Sources for Corporate Exodus (All Tier 2)
 
-- [Democracy Now!: Corporate Exodus from ALEC](https://www.democracynow.org/2012/4/12/outrage_over_stand_your_ground_laws) (Tier 2)
-- [Color of Change: Major Companies Leave ALEC](https://colorofchange.org/blog/internal_press/major-companies-leave-alec-colorofchange-organizin/) (Tier 2)
-- [NPR: Walmart Pulls Out of ALEC](https://www.npr.org/sections/thetwo-way/2012/05/31/154077536/wal-mart-pulls-out-of-group-that-advocates-stand-your-ground-laws) (Tier 2)
-- [Common Dreams: ALEC Facing Funding Crisis](https://www.commondreams.org/news/2013/12/03/alec-facing-funding-crisis-following-public-scrutiny) (Tier 2)
-- [MinnPost: Trayvon Martin Case Leads to Corporate Exodus](https://www.minnpost.com/politics-policy/2012/04/trayvon-martin-case-leads-corporate-exodus-alec/) (Tier 2)
+- [Democracy Now!: Corporate Exodus from ALEC](https://www.democracynow.org/2012/4/12/outrage_over_stand_your_ground_laws) (Tier 2) (VERIFIED)
+- [Color of Change: Major Companies Leave ALEC](https://colorofchange.org/blog/internal_press/major-companies-leave-alec-colorofchange-organizin/) (Tier 2) (VERIFIED)
+- [NPR: Walmart Pulls Out of ALEC](https://www.npr.org/sections/thetwo-way/2012/05/31/154077536/wal-mart-pulls-out-of-group-that-advocates-stand-your-ground-laws) (Tier 2) (VERIFIED)
+- [Common Dreams: ALEC Facing Funding Crisis](https://www.commondreams.org/news/2013/12/03/alec-facing-funding-crisis-following-public-scrutiny) (Tier 2) (VERIFIED)
+- [MinnPost: Trayvon Martin Case Leads to Corporate Exodus](https://www.minnpost.com/politics-policy/2012/04/trayvon-martin-case-leads-corporate-exodus-alec/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -363,8 +363,8 @@ ALEC publicly claimed it faced a "funding crisis" post-exodus, but recovered thr
 
 ### Sources for Revolving Door (Limited Tier 3 Data)
 
-- [Britannica: American Legislative Exchange Council](https://www.britannica.com/topic/American-Legislative-Exchange-Council) (Tier 3)
-- [SourceWatch: ALEC Politicians](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/ALEC_Politicians) (Tier 3)
+- [Britannica: American Legislative Exchange Council](https://www.britannica.com/topic/American-Legislative-Exchange-Council) (Tier 3) (VERIFIED)
+- ~~[SourceWatch: ALEC Politicians](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/ALEC_Politicians)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
 
 **Note:** The revolving door section is data-limited because ALEC's 501(c)(3) status exempts it from lobbying disclosures that would track staff movements.
 
@@ -422,10 +422,10 @@ ALEC published "Essential Policy Solutions for 2025" including:
 
 ### Sources for Recent Activity (Tier 2)
 
-- [ALEC: Exploring Essential Policy Solutions for 2025](https://alec.org/article/exploring-alecs-essential-policy-solutions-for-2025/) (Tier 2)
-- [ALEC: State AI Policy Toolkit](https://alec.org/publication/state-ai-policy-toolkit-the-alec-guide-to-a-golden-age-of-artificial-intelligence-innovation/) (Tier 2)
-- [Exposed by CMD: ALEC Grid Stability Bills 2024](https://www.exposedbycmd.org/2025/11/12/alec-pushes-power-grid-stability-bills-to-favor-fossil-fuels-over-renewables) (Tier 2)
-- [CleanTechnica: ALEC Anti-Renewable Legislation Ohio](https://cleantechnica.com/2026/02/24/alec-pushes-idiotic-anti-renewable-legislation-in-ohio/amp) (Tier 2)
+- [ALEC: Exploring Essential Policy Solutions for 2025](https://alec.org/article/exploring-alecs-essential-policy-solutions-for-2025/) (Tier 2) (VERIFIED)
+- [ALEC: State AI Policy Toolkit](https://alec.org/publication/state-ai-policy-toolkit-the-alec-guide-to-a-golden-age-of-artificial-intelligence-innovation/) (Tier 2) (VERIFIED)
+- ~~[Exposed by CMD: ALEC Grid Stability Bills 2024](https://www.exposedbycmd.org/2025/11/12/alec-pushes-power-grid-stability-bills-to-favor-fossil-fuels-over-renewables)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [CleanTechnica: ALEC Anti-Renewable Legislation Ohio](https://cleantechnica.com/2026/02/24/alec-pushes-idiotic-anti-renewable-legislation-in-ohio/amp) (Tier 2) (NEEDS REVIEW)
 
 ---
 
@@ -473,10 +473,10 @@ ALEC published "Essential Policy Solutions for 2025" including:
 
 ### Sources for IRS/Legal Section (Tier 1-2)
 
-- [Center for Public Integrity: ALEC Faces New Challenge to Tax-Exempt Status](https://publicintegrity.org/politics/alec-faces-new-challenge-to-tax-exempt-status/) (Tier 2)
-- [Common Cause: Whistleblower Complaint](https://www.commoncause.org/resources/alec-whistleblower-complaint/) (Tier 1 — original complaint)
-- [Wisconsin Examiner: ALEC and Campaign Violations](https://wisconsinexaminer.com/2021/07/27/is-alec-helping-republicans-campaign-in-violation-of-its-tax-status/) (Tier 2)
-- [Common Cause: ALEC Losing Clout & Legitimacy](https://www.commoncause.org/articles/alec-losing-clout-legitimacy-amid-ongoing-controversy-and-tax-fraud/) (Tier 2)
+- [Center for Public Integrity: ALEC Faces New Challenge to Tax-Exempt Status](https://publicintegrity.org/politics/alec-faces-new-challenge-to-tax-exempt-status/) (Tier 2) (VERIFIED)
+- [Common Cause: Whistleblower Complaint](https://www.commoncause.org/resources/alec-whistleblower-complaint/) (VERIFIED) (Tier 1 — original complaint)
+- [Wisconsin Examiner: ALEC and Campaign Violations](https://wisconsinexaminer.com/2021/07/27/is-alec-helping-republicans-campaign-in-violation-of-its-tax-status/) (Tier 2) (VERIFIED)
+- [Common Cause: ALEC Losing Clout & Legitimacy](https://www.commoncause.org/articles/alec-losing-clout-legitimacy-amid-ongoing-controversy-and-tax-fraud/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -568,12 +568,12 @@ ALEC published "Essential Policy Solutions for 2025" including:
 
 ### Sources for Connections Section (Tier 1-2)
 
-- [The Intercept: Charles Koch Doubles Down on ALEC as Others Flee](https://theintercept.com/2018/11/29/alec-corporate-funders-charles-koch/) (Tier 2)
-- [EXPOSEDbyCMD: Charles Koch $176 Million Network](https://www.exposedbycmd.org/2023/12/20/charles-kochs-stand-together-donor-conduits-move-176-million/) (Tier 2)
-- [SourceWatch: SPN Ties to ALEC](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/SPN_Ties_to_ALEC) (Tier 3)
-- [ALEC Exposed: State Policy Network Pipeline](https://www.alecexposed.org/wiki/ALEC_Exposedwiki/EXPOSED:_The_State_Policy_Network) (Tier 2)
-- [Heritage Foundation Project 2025 Documentation](https://www.aclu.org/project-2025-explained) (Tier 2)
-- [Energy & Policy Institute: ALEC Energy Task Force](https://energyandpolicy.org/american-legislative-exchange-council/) (Tier 2)
+- [The Intercept: Charles Koch Doubles Down on ALEC as Others Flee](https://theintercept.com/2018/11/29/alec-corporate-funders-charles-koch/) (Tier 2) (VERIFIED)
+- ~~[EXPOSEDbyCMD: Charles Koch $176 Million Network](https://www.exposedbycmd.org/2023/12/20/charles-kochs-stand-together-donor-conduits-move-176-million/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[SourceWatch: SPN Ties to ALEC](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/SPN_Ties_to_ALEC)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[ALEC Exposed: State Policy Network Pipeline](https://www.alecexposed.org/wiki/ALEC_Exposedwiki/EXPOSED:_The_State_Policy_Network)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Heritage Foundation Project 2025 Documentation](https://www.aclu.org/project-2025-explained) (Tier 2) (VERIFIED)
+- [Energy & Policy Institute: ALEC Energy Task Force](https://energyandpolicy.org/american-legislative-exchange-council/) (Tier 2) (VERIFIED)
 
 ---
 

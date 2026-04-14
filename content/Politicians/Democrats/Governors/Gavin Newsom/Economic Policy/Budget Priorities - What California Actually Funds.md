@@ -76,10 +76,10 @@ Newsom significantly built up California's rainy day fund — the Budget Stabili
 
 ### Sources
 
-- [CalMatters: deficit and surplus coverage](https://calmatters.org/category/economy/) (Tier 2)
-- [CalMatters: Newsom is set to unveil his last budget — $18 billion deficit looms, January 2026](https://calmatters.org/category/politics/2026/01/gavin-newsom-politics-budget-deficit/) (Tier 2)
-- [NBC Los Angeles: $3B deficit, less money from federal govt — what we know about California's 2026 budget](https://www.nbclosangeles.com/news/local/california-budget-proposal-2026-newsom/3829461/) (Tier 2)
-- [CalMatters: Opinion — Newsom's last budget belies his 'California for All' pledge, February 2026](https://calmatters.org/commentary/2026/02/newsom-budget-california-for-all/) (Tier 2)
+- [CalMatters: deficit and surplus coverage](https://calmatters.org/category/economy/) (Tier 2) (VERIFIED)
+- ~~[CalMatters: Newsom is set to unveil his last budget — $18 billion deficit looms, January 2026](https://calmatters.org/category/politics/2026/01/gavin-newsom-politics-budget-deficit/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [NBC Los Angeles: $3B deficit, less money from federal govt — what we know about California's 2026 budget](https://www.nbclosangeles.com/news/local/california-budget-proposal-2026-newsom/3829461/) (Tier 2) (VERIFIED)
+- [CalMatters: Opinion — Newsom's last budget belies his 'California for All' pledge, February 2026](https://calmatters.org/commentary/2026/02/newsom-budget-california-for-all/) (Tier 2) (VERIFIED)
 
 ---
 

@@ -400,7 +400,7 @@ The PAGA reform spending ($9.5 million coalition) reveals the second dimension. 
 | MONICA FOR CONGRESS | $6,500 | REP |
 | EMMER FOR CONGRESS | $6,500 | REP |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Western%20Growers%20Association) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Western%20Growers%20Association) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 <!-- auto:fec-donor pending-merge 2026-04-13 -->
@@ -437,9 +437,9 @@ The Western Growers Association (WGA) is an association representing family farm
 
 | Fact | Value |
 |------|-------|
-| Wikidata ID | [Q19321870](https://www.wikidata.org/wiki/Q19321870) |
+| Wikidata ID | [Q19321870](https://www.wikidata.org/wiki/Q19321870) (VERIFIED) |
 | Description | association representing farmers in the states of California and Arizona |
 
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/Western_Growers_Association) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q19321870) (Tier 2)
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Western_Growers_Association) (Tier 3) (VERIFIED)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q19321870) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->

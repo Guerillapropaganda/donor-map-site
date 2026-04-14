@@ -50,7 +50,7 @@ At estimated sub-$200K/yr income from crowdfunding and documentaries, zero FEC a
 > [!money]
 > Zero FEC at low income is structurally different from zero FEC at high income (the Fox News pattern). Martin's $0 reflects genuine political independence, she has no institutional reason to avoid donations and no donor class to protect. Her 2004 Kerry campaign work was the last time she engaged with major-party politics. The absence of FEC activity is ideologically consistent, not strategically calculated.
 
-- [FEC: Abby Martin individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=MARTIN%2C+ABBY) (Tier 1)
+- [FEC: Abby Martin individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=MARTIN%2C+ABBY) (Tier 1) (VERIFIED)
 
 ### Who Funds Them
 
@@ -139,11 +139,11 @@ The anti-BDS lawsuit is the most consequential output of Martin's career for the
 
 ### Sources
 
-- [Wikipedia: Abby Martin](https://en.wikipedia.org/wiki/Abby_Martin) (Tier 3)
-- [Liberation News: U.S. Sanctions Shut Down 'The Empire Files' with Abby Martin](https://liberationnews.org/u-s-sanctions-shut-down-the-empire-files-with-abby-martin/) (Tier 3)
-- [CAIR: CAIR Files Federal Appeal Against Officials Who Implemented Georgia's Anti-BDS Law](https://www.cair.com/press_releases/cair-files-federal-appeal-against-officials-who-implemented-georgias-anti-bds-law/) (Tier 2)
-- [AJC: Judge: Ga. law barring contracts by groups boycotting Israel unconstitutional](https://www.ajc.com/education/judge-ga-law-barring-contracts-by-groups-boycotting-israel-unconstitutional/UO3WXWOHRBFUBHIX7DWGG4AEPA/) (Tier 2)
-- [FMEP: Constitutionality Issues & BDS Legislation: Source Docs & Expert Views](https://fmep.org/resource/constitutionality-issues-bds-legislation-expert-views/) (Tier 2)
-- [Ballotpedia: Abby Martin](https://ballotpedia.org/Abby_Martin) (Tier 3)
+- [Wikipedia: Abby Martin](https://en.wikipedia.org/wiki/Abby_Martin) (Tier 3) (VERIFIED)
+- [Liberation News: U.S. Sanctions Shut Down 'The Empire Files' with Abby Martin](https://liberationnews.org/u-s-sanctions-shut-down-the-empire-files-with-abby-martin/) (Tier 3) (VERIFIED)
+- ~~[CAIR: CAIR Files Federal Appeal Against Officials Who Implemented Georgia's Anti-BDS Law](https://www.cair.com/press_releases/cair-files-federal-appeal-against-officials-who-implemented-georgias-anti-bds-law/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [AJC: Judge: Ga. law barring contracts by groups boycotting Israel unconstitutional](https://www.ajc.com/education/judge-ga-law-barring-contracts-by-groups-boycotting-israel-unconstitutional/UO3WXWOHRBFUBHIX7DWGG4AEPA/) (Tier 2) (VERIFIED)
+- [FMEP: Constitutionality Issues & BDS Legislation: Source Docs & Expert Views](https://fmep.org/resource/constitutionality-issues-bds-legislation-expert-views/) (Tier 2) (VERIFIED)
+- [Ballotpedia: Abby Martin](https://ballotpedia.org/Abby_Martin) (Tier 3) (VERIFIED)
 - [FEC: Abby Martin individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=MARTIN%2C+ABBY) (Tier 1)
 

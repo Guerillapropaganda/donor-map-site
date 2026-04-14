@@ -139,21 +139,21 @@ Johnson supplements this core tax function with aggressive partisan investigatio
 
 ## Sources
 
-- [FEC Candidate: Ron Johnson campaign finance summary](https://www.fec.gov/data/candidate/S2PA00513/) (Tier 1)
-- [FEC Candidate: Ron Johnson career industry contributions](https://www.fec.gov/data/candidate/S2PA00513/) (Tier 1)
-- [GovTrack: Ron Johnson — Tax Cuts and Jobs Act Senate Vote #303](https://www.govtrack.us/congress/votes/115-2017/s303) (Tier 1)
-- [Congress.gov: Ron Johnson committee assignments](https://www.congress.gov/member/ron-johnson/J000293/committees) (Tier 1)
-- [HSGAC: Johnson-Grassley conflicts-of-interest investigation report](https://www.hsgac.senate.gov/media/reps/johnson-grassley-release-report-on-conflicts-of-interest-investigation/) (Tier 1)
-- [PolitiFact: Tax break Ron Johnson pushed has benefited America's wealthiest](https://www.politifact.com/factchecks/2022/jun/07/state-democratic-party-wisconsin/yes-tax-break-ron-johnson-pushed-2017-has-benefite/) (Tier 2)
-- [PolitiFact: Johnson called climate change BS, took $700K from oil firms](https://www.politifact.com/factchecks/2022/aug/19/league-conservation-voters/johnson-called-climate-change-bull-took-700000-don/) (Tier 2)
-- [EXPOSEDbyCMD: Billionaires spent $9.5M for Johnson's reelection](https://www.exposedbycmd.org/2022/08/04/billionaires-hendricks-and-uihlein-have-already-spent-9-5-million-for-wisconsin-senator-ron-johnsons-reelection-campaign/) (Tier 2)
-- [Up North News: Wisconsin billionaires got tax break, now spending millions to re-elect Johnson](https://upnorthnewswi.com/2022/06/08/wisconsin-billionaires-who-got-a-monster-tax-break-from-ron-johnson-are-now-spending-millions-to-get-him-re-elected/) (Tier 2)
-- [CNBC: Johnson and Daines back tax bill after pass-through tweak](https://www.cnbc.com/2017/12/01/sen-steve-daines-one-of-the-last-gop-holdouts-will-back-senate-tax-bill-after-pass-through-tweak.html) (Tier 2)
-- [Wisconsin Watch: Did Ron Johnson visit Russia on July 4?](https://wisconsinwatch.org/2022/10/did-wisconsin-sen-ron-johnson-visit-russia-on-the-fourth-of-july/) (Tier 2)
-- [Roll Call: After Moscow trip, Johnson says election meddling overblown](https://rollcall.com/2018/07/09/after-moscow-trip-ron-johnson-says-election-meddling-overblown/) (Tier 2)
-- [Medill News Service: Johnson's COVID panel criticized as misinformation vehicle](https://dc.medill.northwestern.edu/blog/2022/01/26/fact-check-johnsons-covid-19-a-second-opinion-panel-criticized-as-vehicle-for-misinformation/) (Tier 2)
-- [Ballotpedia: Ron Johnson](https://ballotpedia.org/Ron_Johnson_(Wisconsin)) (Tier 3)
-- [GovTrack: Ron Johnson](https://www.govtrack.us/congress/members/ron_johnson/412496) (Tier 3)
+- [FEC Candidate: Ron Johnson campaign finance summary](https://www.fec.gov/data/candidate/S2PA00513/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Ron Johnson career industry contributions](https://www.fec.gov/data/candidate/S2PA00513/) (Tier 1) (VERIFIED)
+- [GovTrack: Ron Johnson — Tax Cuts and Jobs Act Senate Vote #303](https://www.govtrack.us/congress/votes/115-2017/s303) (Tier 1) (VERIFIED)
+- [Congress.gov: Ron Johnson committee assignments](https://www.congress.gov/member/ron-johnson/J000293/committees) (Tier 1) (VERIFIED)
+- [HSGAC: Johnson-Grassley conflicts-of-interest investigation report](https://www.hsgac.senate.gov/media/reps/johnson-grassley-release-report-on-conflicts-of-interest-investigation/) (Tier 1) (VERIFIED)
+- [PolitiFact: Tax break Ron Johnson pushed has benefited America's wealthiest](https://www.politifact.com/factchecks/2022/jun/07/state-democratic-party-wisconsin/yes-tax-break-ron-johnson-pushed-2017-has-benefite/) (Tier 2) (VERIFIED)
+- [PolitiFact: Johnson called climate change BS, took $700K from oil firms](https://www.politifact.com/factchecks/2022/aug/19/league-conservation-voters/johnson-called-climate-change-bull-took-700000-don/) (Tier 2) (VERIFIED)
+- ~~[EXPOSEDbyCMD: Billionaires spent $9.5M for Johnson's reelection](https://www.exposedbycmd.org/2022/08/04/billionaires-hendricks-and-uihlein-have-already-spent-9-5-million-for-wisconsin-senator-ron-johnsons-reelection-campaign/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Up North News: Wisconsin billionaires got tax break, now spending millions to re-elect Johnson](https://upnorthnewswi.com/2022/06/08/wisconsin-billionaires-who-got-a-monster-tax-break-from-ron-johnson-are-now-spending-millions-to-get-him-re-elected/) (Tier 2) (VERIFIED)
+- [CNBC: Johnson and Daines back tax bill after pass-through tweak](https://www.cnbc.com/2017/12/01/sen-steve-daines-one-of-the-last-gop-holdouts-will-back-senate-tax-bill-after-pass-through-tweak.html) (Tier 2) (VERIFIED)
+- [Wisconsin Watch: Did Ron Johnson visit Russia on July 4?](https://wisconsinwatch.org/2022/10/did-wisconsin-sen-ron-johnson-visit-russia-on-the-fourth-of-july/) (Tier 2) (VERIFIED)
+- [Roll Call: After Moscow trip, Johnson says election meddling overblown](https://rollcall.com/2018/07/09/after-moscow-trip-ron-johnson-says-election-meddling-overblown/) (Tier 2) (VERIFIED)
+- [Medill News Service: Johnson's COVID panel criticized as misinformation vehicle](https://dc.medill.northwestern.edu/blog/2022/01/26/fact-check-johnsons-covid-19-a-second-opinion-panel-criticized-as-vehicle-for-misinformation/) (Tier 2) (VERIFIED)
+- [Ballotpedia: Ron Johnson](https://ballotpedia.org/Ron_Johnson_(Wisconsin) (VERIFIED)) (Tier 3)
+- [GovTrack: Ron Johnson](https://www.govtrack.us/congress/members/ron_johnson/412496) (Tier 3) (VERIFIED)
 
 ---
 
@@ -171,7 +171,7 @@ Johnson supplements this core tax function with aggressive partisan investigatio
 |-----------|---------|--------|
 | REALLY AMERICAN PAC | $0 | $5,000 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S2PA00513/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S2PA00513/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Congressional Stock Trades (STOCK Act)
@@ -190,14 +190,14 @@ Johnson supplements this core tax function with aggressive partisan investigatio
 | 12/20/2019 | -- | Sale | $100,001 - $250,000 | Self |
 | 03/02/2020 | -- | Sale | $5,000,001 - $25,000,000 | Self |
 
-- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Ron Johnson](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: Ron Johnson](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 
 ### Legislative Activity (Congress.gov)
@@ -226,5 +226,5 @@ Johnson supplements this core tax function with aggressive partisan investigatio
 | — |  | — |
 | — |  | — |
 
-- [Source: Congress.gov](https://www.congress.gov/member/J000293) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/J000293)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->

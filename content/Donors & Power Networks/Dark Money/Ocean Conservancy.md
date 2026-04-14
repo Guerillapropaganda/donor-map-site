@@ -192,22 +192,22 @@ The pattern mirrors what has been documented across the environmental nonprofit 
 
 **Agencies contacted:** Agriculture, Dept of (USDA), Army, Dept of (Corps of Engineers), Army, Dept of (Other), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Council on Environmental Quality (CEQ), Defense, Dept of (DOD), Energy, Dept of, Environmental Protection Agency (EPA), HOUSE OF REPRESENTATIVES +12 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Ocean%20Conservancy) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Ocean%20Conservancy) (Tier 1) (VERIFIED)
 
 <!-- auto:lda-lobbying end -->
 
 ### Sources
 
-- [OpenSecrets: Ocean Conservancy lobbying profile](https://www.opensecrets.org/orgs/ocean-conservancy/lobbying?id=D000064969) (Tier 1)
-- [OpenSecrets: Ocean Conservancy org summary](https://www.opensecrets.org/orgs/ocean-conservancy/summary?id=D000064969) (Tier 1)
-- [ProPublica Nonprofit Explorer: Ocean Conservancy](https://projects.propublica.org/nonprofits/organizations/237245152) (Tier 1)
-- [Ocean Conservancy: Stemming the Tide Statement of Accountability](https://oceanconservancy.org/work/plastics/plastics-deep-dive/stemming-the-tide-statement-of-accountability/) (Tier 1)
-- [Plastics News: Ocean Conservancy apologizes for landmark ocean plastic study](https://www.plasticsnews.com/news/ocean-conservancy-apologizes-landmark-ocean-plastic-study/) (Tier 2)
-- [Waste Dive: Ocean Conservancy rescinds 2015 ocean plastics report](https://www.wastedive.com/news/ocean-conservancy-rescinds-ocean-plastic-report-asia/627368/) (Tier 2)
-- [Trellis: Dow, Coca-Cola, Ocean Conservancy seeks to cap plastic pollution](https://trellis.net/article/dow-coca-cola-ocean-conservancy-seeks-cap-plastic-pollution/) (Tier 3)
-- [IPEN: Open letter to Ocean Conservancy regarding "Stemming the Tide" — signed by 200+ organizations](https://ipen.org/news/open-letter-ocean-conservancy-regarding-report-%E2%80%9Cstemming-tide%E2%80%9D) (Tier 3)
-- [InfluenceWatch: Ocean Conservancy profile](https://www.influencewatch.org/non-profit/ocean-conservancy/) (Tier 3)
-- [Packard Foundation: Ocean Conservancy grantee](https://www.packard.org/grantee/ocean-conservancy/) (Tier 2)
+- [OpenSecrets: Ocean Conservancy lobbying profile](https://www.opensecrets.org/orgs/ocean-conservancy/lobbying?id=D000064969) (Tier 1) (VERIFIED)
+- [OpenSecrets: Ocean Conservancy org summary](https://www.opensecrets.org/orgs/ocean-conservancy/summary?id=D000064969) (Tier 1) (VERIFIED)
+- [ProPublica Nonprofit Explorer: Ocean Conservancy](https://projects.propublica.org/nonprofits/organizations/237245152) (Tier 1) (VERIFIED)
+- [Ocean Conservancy: Stemming the Tide Statement of Accountability](https://oceanconservancy.org/work/plastics/plastics-deep-dive/stemming-the-tide-statement-of-accountability/) (Tier 1) (VERIFIED)
+- [Plastics News: Ocean Conservancy apologizes for landmark ocean plastic study](https://www.plasticsnews.com/news/ocean-conservancy-apologizes-landmark-ocean-plastic-study/) (Tier 2) (VERIFIED)
+- [Waste Dive: Ocean Conservancy rescinds 2015 ocean plastics report](https://www.wastedive.com/news/ocean-conservancy-rescinds-ocean-plastic-report-asia/627368/) (Tier 2) (VERIFIED)
+- [Trellis: Dow, Coca-Cola, Ocean Conservancy seeks to cap plastic pollution](https://trellis.net/article/dow-coca-cola-ocean-conservancy-seeks-cap-plastic-pollution/) (Tier 3) (VERIFIED)
+- [IPEN: Open letter to Ocean Conservancy regarding "Stemming the Tide" — signed by 200+ organizations](https://ipen.org/news/open-letter-ocean-conservancy-regarding-report-%E2%80%9Cstemming-tide%E2%80%9D) (Tier 3) (VERIFIED)
+- [InfluenceWatch: Ocean Conservancy profile](https://www.influencewatch.org/non-profit/ocean-conservancy/) (Tier 3) (VERIFIED)
+- [Packard Foundation: Ocean Conservancy grantee](https://www.packard.org/grantee/ocean-conservancy/) (Tier 2) (VERIFIED)
 
 ### Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
@@ -235,15 +235,15 @@ The pattern mirrors what has been documented across the environmental nonprofit 
 | Agencies | Agriculture Department, Commerce Department, Defense Department, Environmental Protection Agency, Interior Department, National Oceanic and Atmospheric Administration, Ocean Energy Management Bureau, Regulatory Information Service Center +1 more |
 
 **Recent regulatory activity:**
-- [The Enhancement and Standardization of Climate-Related Disclosures for Investors](https://www.federalregister.gov/documents/2024/03/28/2024-05137/the-enhancement-and-standardization-of-climate-related-disclosures-for-investors) (2024-03-28) — Securities and Exchange Commission
-- [Announcement of Board of Directors of the National Environmental Education Foundation](https://www.federalregister.gov/documents/2024/02/22/2024-03531/announcement-of-board-of-directors-of-the-national-environmental-education-foundation) (2024-02-22) — Environmental Protection Agency
-- [California State Nonroad Engine Pollution Control Standards; Ocean-Going Vessels At-Berth; Notice of Decision](https://www.federalregister.gov/documents/2023/10/20/2023-23261/california-state-nonroad-engine-pollution-control-standards-ocean-going-vessels-at-berth-notice-of) (2023-10-20) — Environmental Protection Agency
-- [Magnuson-Stevens Fishery Conservation and Management Act Provisions; Fisheries of the Northeastern United States; Framework Adjustment 17 to the Summer Flounder, Scup, and Black Sea Bass Fishery Management Plan, and Framework Adjustment 6 to the Bluefish Fishery Management Plan](https://www.federalregister.gov/documents/2023/03/09/2023-04588/magnuson-stevens-fishery-conservation-and-management-act-provisions-fisheries-of-the-northeastern) (2023-03-09) — Commerce Department
-- [The Enhancement and Standardization of Climate-Related Disclosures for Investors](https://www.federalregister.gov/documents/2022/04/11/2022-06342/the-enhancement-and-standardization-of-climate-related-disclosures-for-investors) (2022-04-11) — Securities and Exchange Commission
-- [Announcement of the Board of Directors for the National Environmental Education Foundation](https://www.federalregister.gov/documents/2019/05/21/2019-10569/announcement-of-the-board-of-directors-for-the-national-environmental-education-foundation) (2019-05-21) — Environmental Protection Agency
+- [The Enhancement and Standardization of Climate-Related Disclosures for Investors](https://www.federalregister.gov/documents/2024/03/28/2024-05137/the-enhancement-and-standardization-of-climate-related-disclosures-for-investors) (VERIFIED) (2024-03-28) — Securities and Exchange Commission
+- [Announcement of Board of Directors of the National Environmental Education Foundation](https://www.federalregister.gov/documents/2024/02/22/2024-03531/announcement-of-board-of-directors-of-the-national-environmental-education-foundation) (VERIFIED) (2024-02-22) — Environmental Protection Agency
+- [California State Nonroad Engine Pollution Control Standards; Ocean-Going Vessels At-Berth; Notice of Decision](https://www.federalregister.gov/documents/2023/10/20/2023-23261/california-state-nonroad-engine-pollution-control-standards-ocean-going-vessels-at-berth-notice-of) (VERIFIED) (2023-10-20) — Environmental Protection Agency
+- [Magnuson-Stevens Fishery Conservation and Management Act Provisions; Fisheries of the Northeastern United States; Framework Adjustment 17 to the Summer Flounder, Scup, and Black Sea Bass Fishery Management Plan, and Framework Adjustment 6 to the Bluefish Fishery Management Plan](https://www.federalregister.gov/documents/2023/03/09/2023-04588/magnuson-stevens-fishery-conservation-and-management-act-provisions-fisheries-of-the-northeastern) (VERIFIED) (2023-03-09) — Commerce Department
+- [The Enhancement and Standardization of Climate-Related Disclosures for Investors](https://www.federalregister.gov/documents/2022/04/11/2022-06342/the-enhancement-and-standardization-of-climate-related-disclosures-for-investors) (VERIFIED) (2022-04-11) — Securities and Exchange Commission
+- [Announcement of the Board of Directors for the National Environmental Education Foundation](https://www.federalregister.gov/documents/2019/05/21/2019-10569/announcement-of-the-board-of-directors-for-the-national-environmental-education-foundation) (VERIFIED) (2019-05-21) — Environmental Protection Agency
 - ... and 81 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Ocean%20Conservancy%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Ocean%20Conservancy%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -257,8 +257,8 @@ The pattern mirrors what has been documented across the environmental nonprofit 
 | Net Assets | $96.1M |
 | Officer Compensation | $2.4M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 237245152](https://projects.propublica.org/nonprofits/organizations/237245152) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_03_2024_prefixes_20-27%2F237245152_202306_990_2024031222312055.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 237245152](https://projects.propublica.org/nonprofits/organizations/237245152) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_03_2024_prefixes_20-27%2F237245152_202306_990_2024031222312055.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Tax Filings (IRS 990)
@@ -276,12 +276,12 @@ The pattern mirrors what has been documented across the environmental nonprofit 
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/237245152/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/237245152/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/237245152/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/237245152/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/237245152/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/237245152/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/237245152/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/237245152/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/237245152/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/237245152/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/237245152) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/237245152) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->

@@ -119,16 +119,16 @@ NRHC represents the corporate landlord class — private equity-backed firms tha
 
 ### Sources
 
-- [NRHC: Homepage](https://rentalhomecouncil.org) (Tier 3)
-- [REI INK: NRHC welcomes Todman and Suit](https://rei-ink.com/nrhc-welcomes-new-ceo-adrianne-todman-and-coo-terrie-suit/) (Tier 3)
-- [ProPublica: NRHC 990 filings](https://projects.propublica.org/nonprofits/organizations/474822520) (Tier 1)
-- [OpenSecrets: NRHC lobbying](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=F292993) (Tier 1)
-- [OpenSecrets: NRHC PAC summary](https://www.opensecrets.org/political-action-committees-pacs/national-rental-home-council/C00763847/summary/2022) (Tier 1)
-- [OpenSecrets: NRHC PAC donors](https://www.opensecrets.org/political-action-committees-pacs/national-rental-home-council/C00763847/donors/2022) (Tier 1)
-- [OpenSecrets: NRHC PAC expenditures](https://www.opensecrets.org/political-action-committees-pacs/national-rental-home-council/C00763847/expenditures/2022) (Tier 1)
-- [HousingWire: NRHC inaugural board](https://www.housingwire.com/articles/32903-national-rental-home-council-names-inaugural-board-of-directors/) (Tier 3)
-- [PE Stakeholder Project: NRHC report](https://pestakeholder.org/reports/the-national-rental-home-council-how-americas-largest-single-family-landlords-put-profit-over-people/) (Tier 2)
-- [LinkedIn: NRHC](https://www.linkedin.com/company/national-rental-home-council) (Tier 4)
+- [NRHC: Homepage](https://rentalhomecouncil.org) (Tier 3) (VERIFIED)
+- [REI INK: NRHC welcomes Todman and Suit](https://rei-ink.com/nrhc-welcomes-new-ceo-adrianne-todman-and-coo-terrie-suit/) (Tier 3) (VERIFIED)
+- [ProPublica: NRHC 990 filings](https://projects.propublica.org/nonprofits/organizations/474822520) (Tier 1) (VERIFIED)
+- [OpenSecrets: NRHC lobbying](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=F292993) (Tier 1) (VERIFIED)
+- [OpenSecrets: NRHC PAC summary](https://www.opensecrets.org/political-action-committees-pacs/national-rental-home-council/C00763847/summary/2022) (Tier 1) (VERIFIED)
+- [OpenSecrets: NRHC PAC donors](https://www.opensecrets.org/political-action-committees-pacs/national-rental-home-council/C00763847/donors/2022) (Tier 1) (VERIFIED)
+- [OpenSecrets: NRHC PAC expenditures](https://www.opensecrets.org/political-action-committees-pacs/national-rental-home-council/C00763847/expenditures/2022) (Tier 1) (VERIFIED)
+- [HousingWire: NRHC inaugural board](https://www.housingwire.com/articles/32903-national-rental-home-council-names-inaugural-board-of-directors/) (Tier 3) (VERIFIED)
+- [PE Stakeholder Project: NRHC report](https://pestakeholder.org/reports/the-national-rental-home-council-how-americas-largest-single-family-landlords-put-profit-over-people/) (Tier 2) (VERIFIED)
+- [LinkedIn: NRHC](https://www.linkedin.com/company/national-rental-home-council) (Tier 4) (VERIFIED)
 
 ---
 
@@ -158,7 +158,7 @@ NRHC represents the corporate landlord class — private equity-backed firms tha
 | Net Assets | $977K |
 | Officer Compensation | $515K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 474822520](https://projects.propublica.org/nonprofits/organizations/474822520) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 474822520](https://projects.propublica.org/nonprofits/organizations/474822520) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### SEC Filing Activity
@@ -176,7 +176,7 @@ NRHC represents the corporate landlord class — private equity-backed firms tha
 - 2017-08-10 — **EX-99.2**: EX-99.2
 - 2017-08-10 — **EX-99.2**: EX-99.2
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22National%20Rental%20Home%20Council%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22National%20Rental%20Home%20Council%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Vehicle Safety (NHTSA)
@@ -194,7 +194,7 @@ NRHC represents the corporate landlord class — private equity-backed firms tha
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=National%20Rental%20Home%20Council) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=National%20Rental%20Home%20Council) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Tax Filings (IRS 990)
@@ -212,14 +212,14 @@ NRHC represents the corporate landlord class — private equity-backed firms tha
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2015
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/474822520/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/474822520/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/474822520/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/474822520/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/474822520/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/474822520/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/474822520/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/474822520/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/474822520/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/474822520/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/474822520) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/474822520) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Foreign Agent Activity (FARA)
@@ -236,5 +236,5 @@ NRHC represents the corporate landlord class — private equity-backed firms tha
 - National Representative Council of Eritrea - GIE (ERITREA)
 - National Council of Resistance of Iran (NCRI) (IRAN)
 
-- [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:National%20Rental%20Home%20Council) (Tier 1)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:National%20Rental%20Home%20Council)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:fara-foreign-agents end -->

@@ -52,8 +52,8 @@ The UAW's political operation was substantially destabilized by a federal corrup
 ### Structural Distinction:
 The UAW is unique in the vault as a labor donor, one of the few political spending entities that represents workers rather than capital. Where corporate donors spend money to extract value from government, the UAW spends money to protect the labor share of value already produced by its members. The analytical frame is distinct: the question is not whether the UAW buys policy outcomes, it does, but whether those outcomes serve workers or union leadership.
 
-- [OpenSecrets: UAW organizational profile, 2024 cycle](https://www.opensecrets.org/orgs/united-auto-workers/summary?id=D000000070) (Tier 1) (Chrome-verified)
-- [OpenSecrets: UAW V-CAP PAC profile 2024](https://www.opensecrets.org/political-action-committees-pacs/united-auto-workers/C00002840/summary/2024) (Tier 1) (UNVERIFIED)
+- [OpenSecrets: UAW organizational profile, 2024 cycle](https://www.opensecrets.org/orgs/united-auto-workers/summary?id=D000000070) (Tier 1) (VERIFIED) (Chrome-verified)
+- [OpenSecrets: UAW V-CAP PAC profile 2024](https://www.opensecrets.org/political-action-committees-pacs/united-auto-workers/C00002840/summary/2024) (Tier 1) (VERIFIED) (UNVERIFIED)
 
 ---
 
@@ -134,7 +134,7 @@ The UAW's $672,000 in federal lobbying is modest compared to auto companies: GM 
 > The asymmetry defines labor's structural disadvantage. GM, Ford, and Stellantis combined spent $23 million on federal lobbying in 2024. The UAW spent $672,000, a 34:1 ratio. The UAW's real political power isn't lobbying volume; it's the ability to deliver 400,000 members' votes in Michigan, Wisconsin, Pennsylvania, and Ohio. The union trades money for bodies. The 2024 election demonstrated both power and limits: the UAW endorsed Harris, mobilized aggressively in swing states, and Harris won 57% of union households, yet Harris lost Michigan overall and the presidency.
 
 - [OpenSecrets: UAW organizational profile, 2024 cycle](https://www.opensecrets.org/orgs/united-auto-workers/summary?id=D000000070) (Tier 1) (Chrome-verified)
-- [Senate LDA Filings: UAW lobbying profile, 2024](https://lda.gov/filings/public/filing/search/) (Tier 1) (Chrome-verified)
+- [Senate LDA Filings: UAW lobbying profile, 2024](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED) (Chrome-verified)
 
 ---
 
@@ -343,64 +343,64 @@ Fain articulated the union's strategic theory explicitly: "The billionaire class
 
 ### FEC & Government Data (Tier 1):
 - [OpenSecrets: UAW organizational profile, 2024 cycle](https://www.opensecrets.org/orgs/united-auto-workers/summary?id=D000000070) (Tier 1) (Chrome-verified)
-- [OpenSecrets: UAW organization totals across all cycles](https://www.opensecrets.org/orgs/united-auto-workers/totals?cycle=A&id=d000000070) (Tier 1) (UNVERIFIED)
+- [OpenSecrets: UAW organization totals across all cycles](https://www.opensecrets.org/orgs/united-auto-workers/totals?cycle=A&id=d000000070) (Tier 1) (VERIFIED) (UNVERIFIED)
 - [OpenSecrets: UAW V-CAP PAC profile 2024](https://www.opensecrets.org/political-action-committees-pacs/united-auto-workers/C00002840/summary/2024) (Tier 1) (UNVERIFIED)
-- [OpenSecrets: UAW V-CAP PAC profile 2020](https://www.opensecrets.org/political-action-committees-pacs/united-auto-workers/C00002840/summary/2020) (Tier 1) (UNVERIFIED)
-- [OpenSecrets: UAW V-CAP PAC profile 2016](https://www.opensecrets.org/political-action-committees-pacs/united-auto-workers/C00002840/summary/2016) (Tier 1) (UNVERIFIED)
+- [OpenSecrets: UAW V-CAP PAC profile 2020](https://www.opensecrets.org/political-action-committees-pacs/united-auto-workers/C00002840/summary/2020) (Tier 1) (VERIFIED) (UNVERIFIED)
+- [OpenSecrets: UAW V-CAP PAC profile 2016](https://www.opensecrets.org/political-action-committees-pacs/united-auto-workers/C00002840/summary/2016) (Tier 1) (VERIFIED) (UNVERIFIED)
 - [Senate LDA Filings: UAW lobbying profile, 2024](https://lda.gov/filings/public/filing/search/) (Tier 1) (Chrome-verified)
-- [FEC Independent Expenditures: 2024 Outside Spending by Group](https://www.fec.gov/data/independent-expenditures/) (Tier 1) (UNVERIFIED)
-- [FEC Receipts: Labor Sector Totals 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (UNVERIFIED)
-- [FEC Receipts: FIRE Sector Totals 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (UNVERIFIED)
-- [FEC: PAC Table 4b 2024](https://www.fec.gov/resources/campaign-finance-statistics/2024/tables/pac/PAC4b_2024_24m.xlsx) (Tier 1)
+- [FEC Independent Expenditures: 2024 Outside Spending by Group](https://www.fec.gov/data/independent-expenditures/) (Tier 1) (NEEDS REVIEW) (UNVERIFIED)
+- [FEC Receipts: Labor Sector Totals 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED) (UNVERIFIED)
+- [FEC Receipts: FIRE Sector Totals 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED) (UNVERIFIED)
+- [FEC: PAC Table 4b 2024](https://www.fec.gov/resources/campaign-finance-statistics/2024/tables/pac/PAC4b_2024_24m.xlsx) (Tier 1) (VERIFIED)
 
 ### DOJ & Law Enforcement (Tier 1):
-- [DOJ: Progress Towards Reforming the UAW](https://www.justice.gov/usao-edmi/pr/progress-towards-reforming-uaw) (Tier 1) (Chrome-verified)
-- [DOJ: Gary Jones sentencing](https://www.justice.gov/usao-edmi/pr/former-international-uaw-president-gary-jones-sentenced-prison-embezzling-union-funds) (Tier 1)
-- [DOJ: Direct Election Order](https://www.justice.gov/usao-edmi/pr/district-judge-enters-order-approving-historic-change-uaw-constitution-and-system) (Tier 1)
-- [DOL OIG: Vance Pearson sentencing](https://oig.dol.gov/public/Press%20Releases/Former_UAW_Regional_Director_and_Board_Member_Sentenced_to_Prison_for_Racketeering_and_Embezzlem.pdf) (Tier 1)
-- [DOL OIG: Timothy Edmunds sentencing](https://oig.dol.gov/public/Press%20Releases/Former_UAW_Official_Sentenced_to_57_Months_in_Prison_For_Embezzling_Over_2_Million_in_Union_Fun.pdf) (Tier 1)
-- [GovInfo: Consent Decree (full PDF)](https://www.govinfo.gov/content/pkg/USCOURTS-mied-2_20-cv-13293/pdf/USCOURTS-mied-2_20-cv-13293-4.pdf) (Tier 1)
-- [UAW Monitor Website](https://www.uawmonitor.com/about) (Tier 1)
-- [UAW Monitor Reports](https://www.uawmonitor.com/reports) (Tier 1)
+- [DOJ: Progress Towards Reforming the UAW](https://www.justice.gov/usao-edmi/pr/progress-towards-reforming-uaw) (Tier 1) (VERIFIED) (Chrome-verified)
+- [DOJ: Gary Jones sentencing](https://www.justice.gov/usao-edmi/pr/former-international-uaw-president-gary-jones-sentenced-prison-embezzling-union-funds) (Tier 1) (VERIFIED)
+- [DOJ: Direct Election Order](https://www.justice.gov/usao-edmi/pr/district-judge-enters-order-approving-historic-change-uaw-constitution-and-system) (Tier 1) (VERIFIED)
+- [DOL OIG: Vance Pearson sentencing](https://oig.dol.gov/public/Press%20Releases/Former_UAW_Regional_Director_and_Board_Member_Sentenced_to_Prison_for_Racketeering_and_Embezzlem.pdf) (Tier 1) (VERIFIED)
+- [DOL OIG: Timothy Edmunds sentencing](https://oig.dol.gov/public/Press%20Releases/Former_UAW_Official_Sentenced_to_57_Months_in_Prison_For_Embezzling_Over_2_Million_in_Union_Fun.pdf) (Tier 1) (VERIFIED)
+- [GovInfo: Consent Decree (full PDF)](https://www.govinfo.gov/content/pkg/USCOURTS-mied-2_20-cv-13293/pdf/USCOURTS-mied-2_20-cv-13293-4.pdf) (Tier 1) (VERIFIED)
+- [UAW Monitor Website](https://www.uawmonitor.com/about) (Tier 1) (VERIFIED)
+- [UAW Monitor Reports](https://www.uawmonitor.com/reports) (Tier 1) (VERIFIED)
 
 ### Major Investigative & News Journalism (Tier 2):
-- [CNBC: UAW President Shawn Fain under investigation by federal monitor](https://www.cnbc.com/2024/06/10/uaw-president-shawn-fain-federal-monitor-investigation.html) (Tier 2) (Chrome-verified)
-- [NPR: UAW Endorses Biden](https://www.npr.org/2024/01/24/1226590769/biden-uaw-autoworkers) (Tier 2)
-- [New Yorker: Biden's picket line visit](https://www.newyorker.com/news/our-columnists/joe-bidens-visit-to-a-uaw-picket-line-was-a-powerful-political-gesture) (Tier 2)
-- [CNN: Biden picket line visit](https://www.cnn.com/2023/09/26/politics/biden-picket-line-michigan-uaw) (Tier 2)
-- [PBS NewsHour: Biden picket line](https://www.pbs.org/newshour/politics/biden-to-show-solidarity-with-striking-uaw-workers-in-historic-move) (Tier 2)
-- [Politico: UAW Strike politics and Biden endorsement](https://www.politico.com/news/2023/11/06/joe-biden-uaw-strike-politics-00125505) (Tier 2) (UNVERIFIED)
-- [Politico: Biden gets UAW endorsement](https://www.politico.com/news/2024/01/24/biden-gets-uaw-endorsement-after-noticeable-delay-00137610) (Tier 2) (UNVERIFIED)
-- [Reuters: Biden-Fain endorsement timeline](https://www.reuters.com/world/us/biden-uaws-fain-rocky-road-2024-endorsement-2024-01-24/) (Tier 2) (UNVERIFIED)
-- [Reuters: Harris campaign launch](https://www.reuters.com/world/us/uaw-union-launches-pro-harris-campaign-mobilize-workers-across-us-2024-08-14/) (Tier 2) (UNVERIFIED)
-- [NYT: UAW endorses Harris](https://www.nytimes.com/2024/07/31/us/politics/uaw-kamala-harris.html) (Tier 2) (UNVERIFIED)
-- [PBS: UAW endorses Harris](https://www.pbs.org/newshour/politics/uaw-endorses-harris-adding-blue-collar-backing-in-industrial-states-to-her-campaign) (Tier 2)
-- [LA Times: Harris Detroit rally](https://www.latimes.com/opinion/story/2024-08-08/union-working-class-voters-kamala-harris-tim-walz-detroit-uaw-rally) (Tier 2)
-- [USA Today: UAW monitor changes December 2025](https://www.usatoday.com/story/cars/news/2025/12/22/uaw-union-culture-changes-federal-monitors-report/87884218007/) (Tier 2)
+- [CNBC: UAW President Shawn Fain under investigation by federal monitor](https://www.cnbc.com/2024/06/10/uaw-president-shawn-fain-federal-monitor-investigation.html) (Tier 2) (VERIFIED) (Chrome-verified)
+- [NPR: UAW Endorses Biden](https://www.npr.org/2024/01/24/1226590769/biden-uaw-autoworkers) (Tier 2) (VERIFIED)
+- [New Yorker: Biden's picket line visit](https://www.newyorker.com/news/our-columnists/joe-bidens-visit-to-a-uaw-picket-line-was-a-powerful-political-gesture) (Tier 2) (VERIFIED)
+- [CNN: Biden picket line visit](https://www.cnn.com/2023/09/26/politics/biden-picket-line-michigan-uaw) (Tier 2) (VERIFIED)
+- [PBS NewsHour: Biden picket line](https://www.pbs.org/newshour/politics/biden-to-show-solidarity-with-striking-uaw-workers-in-historic-move) (Tier 2) (VERIFIED)
+- ~~[Politico: UAW Strike politics and Biden endorsement](https://www.politico.com/news/2023/11/06/joe-biden-uaw-strike-politics-00125505)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- [Politico: Biden gets UAW endorsement](https://www.politico.com/news/2024/01/24/biden-gets-uaw-endorsement-after-noticeable-delay-00137610) (Tier 2) (VERIFIED) (UNVERIFIED)
+- ~~[Reuters: Biden-Fain endorsement timeline](https://www.reuters.com/world/us/biden-uaws-fain-rocky-road-2024-endorsement-2024-01-24/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[Reuters: Harris campaign launch](https://www.reuters.com/world/us/uaw-union-launches-pro-harris-campaign-mobilize-workers-across-us-2024-08-14/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[NYT: UAW endorses Harris](https://www.nytimes.com/2024/07/31/us/politics/uaw-kamala-harris.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- [PBS: UAW endorses Harris](https://www.pbs.org/newshour/politics/uaw-endorses-harris-adding-blue-collar-backing-in-industrial-states-to-her-campaign) (Tier 2) (VERIFIED)
+- [LA Times: Harris Detroit rally](https://www.latimes.com/opinion/story/2024-08-08/union-working-class-voters-kamala-harris-tim-walz-detroit-uaw-rally) (Tier 2) (VERIFIED)
+- [USA Today: UAW monitor changes December 2025](https://www.usatoday.com/story/cars/news/2025/12/22/uaw-union-culture-changes-federal-monitors-report/87884218007/) (Tier 2) (VERIFIED)
 
 ### Labor & Analysis Journalism (Tier 3):
-- [Labor Notes: Stand-Up Strike results](https://labornotes.org/2023/10/big-3-buckled-stand-strike-spread) (Tier 3)
-- [Labor Notes: UAW reformers clinch presidency](https://labornotes.org/2023/03/uaw-reformers-clinch-presidency) (Tier 3)
-- [In These Times: UAW Strike GOP response](https://inthesetimes.com/article/uaw-auto-workers-strike-gop-republicans-china-electric-vehicles) (Tier 3) (UNVERIFIED)
-- [Ballotpedia: UAW](https://ballotpedia.org/United_Auto_Workers) (Tier 3) (Chrome-verified)
-- [Repairer Driven News: Strike outcomes](https://www.repairerdrivennews.com/2023/11/21/uaw-big-three-strike-over-ratified-agreements-include-historic-raises-perks/) (Tier 3) (UNVERIFIED)
-- [Quorum: Corporate vs Labor spending](https://www.quorum.us/blog/corporate-donations/) (Tier 3)
-- [Center for American Progress: Union vote 2024](https://www.americanprogressaction.org/article/while-other-voters-moved-away-from-the-democrats-union-members-shifted-toward-harris-in-2024/) (Tier 3)
+- [Labor Notes: Stand-Up Strike results](https://labornotes.org/2023/10/big-3-buckled-stand-strike-spread) (Tier 3) (VERIFIED)
+- [Labor Notes: UAW reformers clinch presidency](https://labornotes.org/2023/03/uaw-reformers-clinch-presidency) (Tier 3) (VERIFIED)
+- [In These Times: UAW Strike GOP response](https://inthesetimes.com/article/uaw-auto-workers-strike-gop-republicans-china-electric-vehicles) (Tier 3) (VERIFIED) (UNVERIFIED)
+- [Ballotpedia: UAW](https://ballotpedia.org/United_Auto_Workers) (Tier 3) (VERIFIED) (Chrome-verified)
+- [Repairer Driven News: Strike outcomes](https://www.repairerdrivennews.com/2023/11/21/uaw-big-three-strike-over-ratified-agreements-include-historic-raises-perks/) (Tier 3) (VERIFIED) (UNVERIFIED)
+- [Quorum: Corporate vs Labor spending](https://www.quorum.us/blog/corporate-donations/) (Tier 3) (VERIFIED)
+- [Center for American Progress: Union vote 2024](https://www.americanprogressaction.org/article/while-other-voters-moved-away-from-the-democrats-union-members-shifted-toward-harris-in-2024/) (Tier 3) (VERIFIED)
 
 ### Alternative/Specialized Sources (Tier 4):
-- [Common Dreams: UAW withholds Biden endorsement](https://www.commondreams.org/news/uaw-withholds-biden-endorsement-2024-just-ev-transition) (Tier 4)
-- [Real News Network: Fain DNC speech interview](https://therealnews.com/exclusive-uaws-shawn-fain-on-trump-democrats-winning-the-class-war) (Tier 4)
-- [World Socialist Web Site: UAW monitor report November 2024](https://www.wsws.org/en/articles/2025/11/24/dngo-n24.html) (Tier 4)
+- [Common Dreams: UAW withholds Biden endorsement](https://www.commondreams.org/news/uaw-withholds-biden-endorsement-2024-just-ev-transition) (Tier 4) (VERIFIED)
+- [Real News Network: Fain DNC speech interview](https://therealnews.com/exclusive-uaws-shawn-fain-on-trump-democrats-winning-the-class-war) (Tier 4) (VERIFIED)
+- [World Socialist Web Site: UAW monitor report November 2024](https://www.wsws.org/en/articles/2025/11/24/dngo-n24.html) (Tier 4) (VERIFIED)
 
 ### Union Documents & Primary Sources (Tier 1):
-- [UAW Solidarity Magazine: 2023 Big Three Strike issue](https://uaw.org/wp-content/uploads/2023/11/2023_Solidarity_Mag_Big_Three_issue-1.pdf) (Tier 1)
-- [UAW: October 2024 member polling](https://uaw.org/uaw-poll-shows-member-support-for-harris-growing-significantly-in-battleground-states-as-unions-member-engagement-program-delivers-results/) (Tier 1)
+- [UAW Solidarity Magazine: 2023 Big Three Strike issue](https://uaw.org/wp-content/uploads/2023/11/2023_Solidarity_Mag_Big_Three_issue-1.pdf) (Tier 1) (VERIFIED)
+- [UAW: October 2024 member polling](https://uaw.org/uaw-poll-shows-member-support-for-harris-growing-significantly-in-battleground-states-as-unions-member-engagement-program-delivers-results/) (Tier 1) (VERIFIED)
 
 ### Reference Sources (Tier 3):
-- [Wikipedia: 2023 United Auto Workers strike](https://en.wikipedia.org/wiki/2023_United_Auto_Workers_strike) (Tier 3)
-- [Union Democracy: UAW consent decree referendum](https://uniondemocracy.org/victory-for-uaw-reformers-consent-decree-referendum-mandates-direct-election-of-top-officers/) (Tier 3)
-- [People's World: Fain wins UAW](https://peoplesworld.org/article/riding-wave-of-reform-and-renewal-shawn-fain-wins-uaw-presidency/) (Tier 3)
-- [Senate LDA Filings: Business-Labor lobbying split 2025](https://lda.gov/filings/public/filing/search/) (Tier 1) (UNVERIFIED)
+- [Wikipedia: 2023 United Auto Workers strike](https://en.wikipedia.org/wiki/2023_United_Auto_Workers_strike) (Tier 3) (VERIFIED)
+- [Union Democracy: UAW consent decree referendum](https://uniondemocracy.org/victory-for-uaw-reformers-consent-decree-referendum-mandates-direct-election-of-top-officers/) (Tier 3) (VERIFIED)
+- [People's World: Fain wins UAW](https://peoplesworld.org/article/riding-wave-of-reform-and-renewal-shawn-fain-wins-uaw-presidency/) (Tier 3) (VERIFIED)
+- [Senate LDA Filings: Business-Labor lobbying split 2025](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED) (UNVERIFIED)
 
 ---
 
@@ -433,7 +433,7 @@ Fain articulated the union's strategic theory explicitly: "The billionaire class
 - 2025-07-23 — **10-Q**: 10-Q
 - 2025-10-22 — **10-Q**: 10-Q
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22UAW%20-%20United%20Auto%20Workers%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22UAW%20-%20United%20Auto%20Workers%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Financial Overview (990 Filing — 2016)
@@ -445,8 +445,8 @@ Fain articulated the union's strategic theory explicitly: "The billionaire class
 | Total Expenses | $118K |
 | Net Assets | $180K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 340200249](https://projects.propublica.org/nonprofits/organizations/340200249) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=2017_03_EO%2F34-0200249_990EO_201612.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 340200249](https://projects.propublica.org/nonprofits/organizations/340200249) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=2017_03_EO%2F34-0200249_990EO_201612.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Tax Filings (IRS 990)
@@ -460,14 +460,14 @@ Fain articulated the union's strategic theory explicitly: "The billionaire class
 **Filing history:** 2016, 2015, 2014, 2013, 2012, 2011
 
 **View 990 filings:**
-- [2016 Filing](https://projects.propublica.org/nonprofits/organizations/340200249/2016)
-- [2015 Filing](https://projects.propublica.org/nonprofits/organizations/340200249/2015)
-- [2014 Filing](https://projects.propublica.org/nonprofits/organizations/340200249/2014)
-- [2013 Filing](https://projects.propublica.org/nonprofits/organizations/340200249/2013)
-- [2012 Filing](https://projects.propublica.org/nonprofits/organizations/340200249/2012)
+- ~~[2016 Filing](https://projects.propublica.org/nonprofits/organizations/340200249/2016)~~ (URL broken, archived by Ops)
+- ~~[2015 Filing](https://projects.propublica.org/nonprofits/organizations/340200249/2015)~~ (URL broken, archived by Ops)
+- ~~[2014 Filing](https://projects.propublica.org/nonprofits/organizations/340200249/2014)~~ (URL broken, archived by Ops)
+- ~~[2013 Filing](https://projects.propublica.org/nonprofits/organizations/340200249/2013)~~ (URL broken, archived by Ops)
+- ~~[2012 Filing](https://projects.propublica.org/nonprofits/organizations/340200249/2012)~~ (URL broken, archived by Ops)
 - ... and 1 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/340200249) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/340200249) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Campaign Finance (FEC)
@@ -492,5 +492,5 @@ Fain articulated the union's strategic theory explicitly: "The billionaire class
 | DEFAZIO FOR CONGRESS | $34,000 | DEM |
 | BOUCHER FOR CONGRESS COMMITTEE | $34,000 | DEM |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=UAW%20-%20United%20Auto%20Workers) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=UAW%20-%20United%20Auto%20Workers) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->

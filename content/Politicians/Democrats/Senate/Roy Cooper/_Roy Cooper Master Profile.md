@@ -148,18 +148,18 @@ Cooper's $21 million Senate war chest, his 3.4:1 fundraising advantage over Mich
 
 ## Sources
 
-- [FEC: Roy Cooper Candidate Profile](https://www.fec.gov/data/candidate/S6NC00407/) (Tier 1)
+- [FEC: Roy Cooper Candidate Profile](https://www.fec.gov/data/candidate/S6NC00407/) (Tier 1) (VERIFIED)
 - ~~[FollowTheMoney.org: Roy Cooper North Carolina Senate 2026](https://www.followthemoney.org/tools/election-overview?eid=46064532)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
-- [NC Newsline: Cooper reports sizable lead in fundraising for 2026 U.S. Senate race](https://ncnewsline.com/2026/02/02/cooper-reports-sizable-lead-in-fundraising-for-2026-u-s-senate-race/) (Tier 2)
-- [WRAL: Cooper raises $3.4M in first 24 hours of Senate bid](https://www.wral.com/news/state/politics-us-senate-roy-cooper-fundraising-24-hours-bid-2026-election-july-2025/) (Tier 2)
-- [CBS 17: Cooper raises $14.5 million, Whatley raises $5.8 million in North Carolina Senate race](https://www.cbs17.com/news/north-carolina-news/roy-cooper-raises-14-5-million-in-north-carolina-senate-race-campaign-says/) (Tier 2)
-- [NRSC: Hypocrite: Roy Cooper Attacks Health Insurers As Campaign Takes Industry Donations](https://www.nrsc.org/press-releases/hypocrite-roy-cooper-attacks-health-insurers-as-campaign-takes-industry-donations-2026-01-21/) (Tier 4 - partisan source, but documents factual donation data) (Tier 2)
-- [Carolina Journal: Cooper jumps to early fundraising lead in Senate race](https://www.carolinajournal.com/cooper-jumps-to-early-fundraising-lead-in-senate-race/) (Tier 3)
-- [Greensboro.com: 'Washington is broken': Democratic U.S. Senate candidate Roy Cooper pledges to fight for affordable health insurance, Medicaid expansion](https://greensboro.com/news/local/article_59bbf56b-14cb-4f82-93e6-75886120b6d7.html) (Tier 2)
-- [The Assembly NC: What Roy Cooper Did — And Didn't — Accomplish As NC Governor](https://www.theassemblync.com/news/politics/roy-cooper-legacy-governor-north-carolina/) (Tier 2)
-- [Roy Cooper official website: About page](https://www.govroycooper.org/about-roy) (Tier 1 - primary source) (Tier 2)
-- [NC Governor official site: Environment initiatives](https://governor.nc.gov/issues/environment) (Tier 1 - government primary source) (Tier 2)
-- [CNN: Roy Cooper and Michael Whatley will advance to marquee North Carolina matchup for US Senate](https://www.cnn.com/2026/03/03/politics/roy-cooper-michael-whatley-north-carolina-matchup-senate) (Ti
+- [NC Newsline: Cooper reports sizable lead in fundraising for 2026 U.S. Senate race](https://ncnewsline.com/2026/02/02/cooper-reports-sizable-lead-in-fundraising-for-2026-u-s-senate-race/) (Tier 2) (VERIFIED)
+- [WRAL: Cooper raises $3.4M in first 24 hours of Senate bid](https://www.wral.com/news/state/politics-us-senate-roy-cooper-fundraising-24-hours-bid-2026-election-july-2025/) (Tier 2) (VERIFIED)
+- ~~[CBS 17: Cooper raises $14.5 million, Whatley raises $5.8 million in North Carolina Senate race](https://www.cbs17.com/news/north-carolina-news/roy-cooper-raises-14-5-million-in-north-carolina-senate-race-campaign-says/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [NRSC: Hypocrite: Roy Cooper Attacks Health Insurers As Campaign Takes Industry Donations](https://www.nrsc.org/press-releases/hypocrite-roy-cooper-attacks-health-insurers-as-campaign-takes-industry-donations-2026-01-21/) (VERIFIED) (Tier 4 - partisan source, but documents factual donation data) (Tier 2)
+- [Carolina Journal: Cooper jumps to early fundraising lead in Senate race](https://www.carolinajournal.com/cooper-jumps-to-early-fundraising-lead-in-senate-race/) (Tier 3) (VERIFIED)
+- [Greensboro.com: 'Washington is broken': Democratic U.S. Senate candidate Roy Cooper pledges to fight for affordable health insurance, Medicaid expansion](https://greensboro.com/news/local/article_59bbf56b-14cb-4f82-93e6-75886120b6d7.html) (Tier 2) (VERIFIED)
+- [The Assembly NC: What Roy Cooper Did — And Didn't — Accomplish As NC Governor](https://www.theassemblync.com/news/politics/roy-cooper-legacy-governor-north-carolina/) (Tier 2) (VERIFIED)
+- [Roy Cooper official website: About page](https://www.govroycooper.org/about-roy) (VERIFIED) (Tier 1 - primary source) (Tier 2)
+- [NC Governor official site: Environment initiatives](https://governor.nc.gov/issues/environment) (VERIFIED) (Tier 1 - government primary source) (Tier 2)
+- [CNN: Roy Cooper and Michael Whatley will advance to marquee North Carolina matchup for US Senate](https://www.cnn.com/2026/03/03/politics/roy-cooper-michael-whatley-north-carolina-matchup-senate) (VERIFIED) (Ti
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
@@ -168,5 +168,5 @@ Cooper's $21 million Senate war chest, his 3.4:1 fundraising advantage over Mich
 <!-- auto:committee-assignments start -->
 _No committee data found._
 
-- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->

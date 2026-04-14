@@ -40,11 +40,11 @@ audit-a-plus-passed: "2026-04-11"
 
 ### Who They Are
 
-The [[Sixteen Thirty Fund|Sixteen Thirty Fund]] is the flagship vehicle of [[Arabella Advisors|Arabella Advisors]]' $1.7B+ dark money network, the Democratic Party's structural counterpart to [[Leonard Leo|Leonard Leo]]'s Federalist Society apparatus. It operates as a 501(c)(4) nonprofit with zero donor disclosure requirements, making it the "indisputable heavyweight of Democratic dark money." [OpenSecrets: Sixteen Thirty Fund Profile](https://www.opensecrets.org/orgs/sixteen-thirty-fund/summary?id=D000070975) (Tier 1) The organization was created to function as a fiscal sponsorship hub and funding conduit: it incubates policy organizations, finances ballot campaigns, creates pop-up advocacy groups, and distributes grants to progressive causes, all while its actual donors remain permanently hidden.
+The [[Sixteen Thirty Fund|Sixteen Thirty Fund]] is the flagship vehicle of [[Arabella Advisors|Arabella Advisors]]' $1.7B+ dark money network, the Democratic Party's structural counterpart to [[Leonard Leo|Leonard Leo]]'s Federalist Society apparatus. It operates as a 501(c)(4) nonprofit with zero donor disclosure requirements, making it the "indisputable heavyweight of Democratic dark money." [OpenSecrets: Sixteen Thirty Fund Profile](https://www.opensecrets.org/orgs/sixteen-thirty-fund/summary?id=D000070975) (Tier 1) (VERIFIED) The organization was created to function as a fiscal sponsorship hub and funding conduit: it incubates policy organizations, finances ballot campaigns, creates pop-up advocacy groups, and distributes grants to progressive causes, all while its actual donors remain permanently hidden.
 
 ### What They Want
 
-The Fund prioritizes ballot measures over direct political giving. Its spending targets abortion access, voting rights expansion, climate policy, and judicial confirmation battles. In 2020 alone, Sixteen Thirty invested $410M across 200+ grant recipients. [Capital Research Center: Carpet-Bombed 2020](https://capitalresearch.org/article/sixteen-thirty-fund-carpet-bombed-the-2020-election-in-leftist-dark-money/) (Tier 3) The strategy is donor-class governance: deliver wins on cultural flashpoints (abortion, climate) that don't threaten wealth concentration or corporate power, while maintaining Democratic electoral dominance. Unlike single-donor networks (Soros, Bloomberg), Sixteen Thirty pools anonymous capital, the point is structural anonymity itself.
+The Fund prioritizes ballot measures over direct political giving. Its spending targets abortion access, voting rights expansion, climate policy, and judicial confirmation battles. In 2020 alone, Sixteen Thirty invested $410M across 200+ grant recipients. [Capital Research Center: Carpet-Bombed 2020](https://capitalresearch.org/article/sixteen-thirty-fund-carpet-bombed-the-2020-election-in-leftist-dark-money/) (Tier 3) (VERIFIED) The strategy is donor-class governance: deliver wins on cultural flashpoints (abortion, climate) that don't threaten wealth concentration or corporate power, while maintaining Democratic electoral dominance. Unlike single-donor networks (Soros, Bloomberg), Sixteen Thirty pools anonymous capital, the point is structural anonymity itself.
 
 ### Who They Fund (Temporal Mapping)
 
@@ -60,13 +60,13 @@ The Fund prioritizes ballot measures over direct political giving. Its spending 
 
 ### What They've Gotten
 
-The political record is material: Senate control discipline (2020-2022), abortion ballot measures (6 states 2022-2024), climate policy (IRA passage coordination), and Democratic judicial appointments at scale. More importantly: legal infrastructure immunity. Because Sixteen Thirty operates as a 501(c)(4), it receives the same tax-exempt status as charitable nonprofits while conducting unlimited political spending. The Democratic establishment has systematized what it once condemned: dark money is now party infrastructure. [Wikipedia: Sixteen Thirty Fund](https://en.wikipedia.org/wiki/Sixteen_Thirty_Fund) (Tier 3)
+The political record is material: Senate control discipline (2020-2022), abortion ballot measures (6 states 2022-2024), climate policy (IRA passage coordination), and Democratic judicial appointments at scale. More importantly: legal infrastructure immunity. Because Sixteen Thirty operates as a 501(c)(4), it receives the same tax-exempt status as charitable nonprofits while conducting unlimited political spending. The Democratic establishment has systematized what it once condemned: dark money is now party infrastructure. [Wikipedia: Sixteen Thirty Fund](https://en.wikipedia.org/wiki/Sixteen_Thirty_Fund) (Tier 3) (VERIFIED)
 
 > [!money] The core outcome is structural anonymity as a feature, not a bug. Democratic donors can deploy $300M+ in cycles without ever appearing in FEC disclosures. This is the [[Leonard Leo]] model perfected on the left.
 
 ### The Fiscal Sponsorship Network as Dark Money Architecture
 
-[[Arabella Advisors|Arabella Advisors]] manages seven interconnected 501(c)(4)s (the "Arabella Seven"): Sixteen Thirty Fund, New Venture Fund, Hopewell Fund, Windward Fund, North Fund, Telescope Fund, Impetus Fund. Together they raised $1.35B in 2022, $1.5B in 2024. [Arabella Advisors - InfluenceWatch](https://www.influencewatch.org/for-profit/arabella-advisors/) (Tier 3) Sixteen Thirty's function: fiscal sponsor for hundreds of "project" organizations that file no independent tax returns and maintain no separate donor disclosures. An organization can receive $10M from Sixteen Thirty, conduct political campaigns, and leave no paper trail to the original funder. Arabella collects $200M+ in annual consulting fees managing this infrastructure. The pop-up model, creating advocacy groups for single election cycles, then dissolving them, is intentional: it prevents donors from being connected to multi-cycle spending patterns. [[Demand Justice|Demand Justice]] operated as Sixteen Thirty's subsidiary until 2021 (no separate filing), then spun off with separate 501(c)(4) status. Same operation, different disclosure requirements. [Capital Research Center: Out of Darkness](https://capitalresearch.org/article/out-of-darkness-cash-part-1/) (Tier 3) This is dark money infrastructure as Democratic Party service, not external pressure, but integrated governance.
+[[Arabella Advisors|Arabella Advisors]] manages seven interconnected 501(c)(4)s (the "Arabella Seven"): Sixteen Thirty Fund, New Venture Fund, Hopewell Fund, Windward Fund, North Fund, Telescope Fund, Impetus Fund. Together they raised $1.35B in 2022, $1.5B in 2024. [Arabella Advisors - InfluenceWatch](https://www.influencewatch.org/for-profit/arabella-advisors/) (Tier 3) (VERIFIED) Sixteen Thirty's function: fiscal sponsor for hundreds of "project" organizations that file no independent tax returns and maintain no separate donor disclosures. An organization can receive $10M from Sixteen Thirty, conduct political campaigns, and leave no paper trail to the original funder. Arabella collects $200M+ in annual consulting fees managing this infrastructure. The pop-up model, creating advocacy groups for single election cycles, then dissolving them, is intentional: it prevents donors from being connected to multi-cycle spending patterns. [[Demand Justice|Demand Justice]] operated as Sixteen Thirty's subsidiary until 2021 (no separate filing), then spun off with separate 501(c)(4) status. Same operation, different disclosure requirements. [Capital Research Center: Out of Darkness](https://capitalresearch.org/article/out-of-darkness-cash-part-1/) (Tier 3) (VERIFIED) This is dark money infrastructure as Democratic Party service, not external pressure, but integrated governance.
 
 ### Temporal Spending Cycles. Sixteen Thirty Deployment Patterns
 
@@ -146,16 +146,16 @@ Talarico won 53.1% to 45.6%. Crockett, a Black congresswoman and national Democr
 
 **The Chorus program aftermath:** Separately, following the House Oversight Committee's November 2025 investigation into Sixteen Thirty Fund's "Chorus" influencer program (which paid social media creators to promote Democratic messaging under contracts that prohibited disclosure of payment), Sixteen Thirty severed active ties with Chorus. On November 21, 2025, a new domestic nonprofit called **Creator Collective** was filed, appearing to be a successor vehicle preserving the influencer-payment infrastructure after the Chorus program collapsed under scrutiny. The Arabella parent company simultaneously rebranded to **Sunflower Services**.
 
-- [Texas Tribune: Dark money floods Texas Senate primary races](https://www.texastribune.org/2026/02/20/texas-senate-dark-money-superpacs-talarico-hunt-crockett-paxton-cornyn/) (Tier 2)
-- [Texas Tribune: Talarico defeats Crockett in Democratic primary](https://www.texastribune.org/2026/03/03/texas-jasmine-crockett-james-talarico-us-senate-democratic-primary/) (Tier 2)
-- [Houston Public Media: Dark money fuels attack ads in Texas Senate primaries](https://www.houstonpublicmedia.org/articles/news/politics/election-2026/2026/02/20/544003/texas-senate-dark-money-superpacs-talarico-hunt-crockett-paxton-cornyn/) (Tier 2)
-- [House Oversight: Comer Continues to Investigate Dark Money Group's Efforts to Evade Campaign Finance Laws](https://oversight.house.gov/release/comer-continues-to-investigate-dark-money-groups-efforts-to-evade-campaign-finance-laws/) (Tier 1)
+- [Texas Tribune: Dark money floods Texas Senate primary races](https://www.texastribune.org/2026/02/20/texas-senate-dark-money-superpacs-talarico-hunt-crockett-paxton-cornyn/) (Tier 2) (VERIFIED)
+- [Texas Tribune: Talarico defeats Crockett in Democratic primary](https://www.texastribune.org/2026/03/03/texas-jasmine-crockett-james-talarico-us-senate-democratic-primary/) (Tier 2) (VERIFIED)
+- [Houston Public Media: Dark money fuels attack ads in Texas Senate primaries](https://www.houstonpublicmedia.org/articles/news/politics/election-2026/2026/02/20/544003/texas-senate-dark-money-superpacs-talarico-hunt-crockett-paxton-cornyn/) (Tier 2) (VERIFIED)
+- [House Oversight: Comer Continues to Investigate Dark Money Group's Efforts to Evade Campaign Finance Laws](https://oversight.house.gov/release/comer-continues-to-investigate-dark-money-groups-efforts-to-evade-campaign-finance-laws/) (Tier 1) (VERIFIED)
 
 ---
 
 ### Enemies / Opposition
 
-Republicans have launched formal investigations (James Comer Oversight Committee probe into "Chorus" influencer network). [House Oversight Committee](https://oversight.house.gov/release/comer-launches-investigation-into-sixteen-thirty-funds-reported-secretive-chorus-program-effort-to-evade-campaign-finance-laws/) (Tier 1) Right-wing dark money networks (DonorsTrust, Donors Capital Fund) distribute similar scales ($195M annually, 2024) but with more transparent funder identities. The structural comparison: DonorsTrust requires funder disclosure to the Fund itself (privacy within a known entity), while Sixteen Thirty requires zero disclosure to anyone. Labor unions have criticized Sixteen Thirty for funding primary challenges to labor-backed incumbents and for prioritizing ballot measures over legislative power-building. > [!contradiction] The Democratic Party's deep dependence on Sixteen Thirty mirrors its 2012 denunciations of Citizens United, the mechanism it condemned has become the mechanism it deploys.
+Republicans have launched formal investigations (James Comer Oversight Committee probe into "Chorus" influencer network). [House Oversight Committee](https://oversight.house.gov/release/comer-launches-investigation-into-sixteen-thirty-funds-reported-secretive-chorus-program-effort-to-evade-campaign-finance-laws/) (Tier 1) (VERIFIED) Right-wing dark money networks (DonorsTrust, Donors Capital Fund) distribute similar scales ($195M annually, 2024) but with more transparent funder identities. The structural comparison: DonorsTrust requires funder disclosure to the Fund itself (privacy within a known entity), while Sixteen Thirty requires zero disclosure to anyone. Labor unions have criticized Sixteen Thirty for funding primary challenges to labor-backed incumbents and for prioritizing ballot measures over legislative power-building. > [!contradiction] The Democratic Party's deep dependence on Sixteen Thirty mirrors its 2012 denunciations of Citizens United, the mechanism it condemned has become the mechanism it deploys.
 
 ### Connected Policy Areas
 
@@ -180,13 +180,13 @@ What makes Sixteen Thirty distinctive is not the scale of spending but the perma
 
 - [OpenSecrets: Sixteen Thirty Fund Profile](https://www.opensecrets.org/orgs/sixteen-thirty-fund/summary?id=D000070975) (Tier 1)
 - [Wikipedia: Sixteen Thirty Fund](https://en.wikipedia.org/wiki/Sixteen_Thirty_Fund) (Tier 3)
-- [Capital Research Center: Carpet-Bombed the 2020 Election with Dark Money](https://capitalresearch.org/article/sixteen-thirty-fund-carpet-bombed-the-2020-election-in-leftist-dark-money/) (Tier 3)
-- [Capital Research Center: Out of Darkness, Cash Part 1](https://capitalresearch.org/article/out-of-darkness-cash-part-1/) (Tier 3)
-- [House Oversight Committee: Comer Investigation into Chorus Program](https://oversight.house.gov/release/comer-launches-investigation-into-sixteen-thirty-funds-reported-secretive-chorus-program-effort-to-evade-campaign-finance-laws/) (Tier 1)
+- [Capital Research Center: Carpet-Bombed the 2020 Election with Dark Money](https://capitalresearch.org/article/sixteen-thirty-fund-carpet-bombed-the-2020-election-in-leftist-dark-money/) (Tier 3) (VERIFIED)
+- [Capital Research Center: Out of Darkness, Cash Part 1](https://capitalresearch.org/article/out-of-darkness-cash-part-1/) (Tier 3) (VERIFIED)
+- [House Oversight Committee: Comer Investigation into Chorus Program](https://oversight.house.gov/release/comer-launches-investigation-into-sixteen-thirty-funds-reported-secretive-chorus-program-effort-to-evade-campaign-finance-laws/) (Tier 1) (VERIFIED)
 - [Arabella Advisors - InfluenceWatch](https://www.influencewatch.org/for-profit/arabella-advisors/) (Tier 3)
-- [Tablet Magazine: Examining Arabella Advisors Dark Money Lobbying Power](https://www.tabletmag.com/sections/news/articles/for-profit-dc-firm-staging-americas-grassroots-movements-arabella-advisors) (Tier 2)
-- [Free Beacon: Inside Dem Dark Money Behemoth Arabella Advisors](https://freebeacon.com/democrats/inside-dem-dark-money-behemoth-arabella-advisors-failed-attempt-to-create-an-astroturf-influencer-army/) (Tier 3)
-- [CampaignNow: The $1.5 Billion Machine. Arabella 2024 Dark Money Blitz](https://www.campaignnow.com/blog/the-1.5-billion-machine-inside-arabella-advisors-2024-dark-money-blitz-and-its-ballot-box-results) (Tier 3)
+- ~~[Tablet Magazine: Examining Arabella Advisors Dark Money Lobbying Power](https://www.tabletmag.com/sections/news/articles/for-profit-dc-firm-staging-americas-grassroots-movements-arabella-advisors)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Free Beacon: Inside Dem Dark Money Behemoth Arabella Advisors](https://freebeacon.com/democrats/inside-dem-dark-money-behemoth-arabella-advisors-failed-attempt-to-create-an-astroturf-influencer-army/) (Tier 3) (VERIFIED)
+- [CampaignNow: The $1.5 Billion Machine. Arabella 2024 Dark Money Blitz](https://www.campaignnow.com/blog/the-1.5-billion-machine-inside-arabella-advisors-2024-dark-money-blitz-and-its-ballot-box-results) (Tier 3) (VERIFIED)
 
 ---
 
@@ -220,7 +220,7 @@ What makes Sixteen Thirty distinctive is not the scale of spending but the perma
 - Loomer v. Maher (2024) — District Court, M.D. Florida
 - OPAWL - Building AAPI Feminist Leadership v. Dave Yost (2024) — Court of Appeals for the Sixth Circuit
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Sixteen%20Thirty%20Fund%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Sixteen%20Thirty%20Fund%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -235,7 +235,7 @@ What makes Sixteen Thirty distinctive is not the scale of spending but the perma
 | Net Assets | $139.9M |
 | Officer Compensation | $196K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 264486735](https://projects.propublica.org/nonprofits/organizations/264486735) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 264486735](https://projects.propublica.org/nonprofits/organizations/264486735) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Tax Filings (IRS 990)
@@ -253,14 +253,14 @@ What makes Sixteen Thirty distinctive is not the scale of spending but the perma
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/264486735/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/264486735/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/264486735/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/264486735/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/264486735/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/264486735/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/264486735/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/264486735/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/264486735/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/264486735/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/264486735) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/264486735) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Campaign Finance (FEC)
@@ -285,5 +285,5 @@ What makes Sixteen Thirty distinctive is not the scale of spending but the perma
 | FORWARD MAJORITY ACTION | $4,270,000 | — |
 | AB PAC | $4,250,000 | — |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Sixteen%20Thirty%20Fund) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Sixteen%20Thirty%20Fund) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->

@@ -69,7 +69,7 @@ BAE Systems plc. The largest defense contractor in Europe and seventh-largest gl
 
 BAE Systems Inc. PAC contributes $2-3 million per cycle in the US, with lobbying spending of $5-8 million annually. The company's US political operation is managed through its domestic subsidiary to comply with FARA requirements, but the funding ultimately flows to a UK parent company, making BAE the largest foreign defense contractor in US politics.
 
-- [OpenSecrets: BAE Systems organizational profile](https://www.opensecrets.org/orgs/bae-systems/summary?id=D000000236) (Tier 1)
+- ~~[OpenSecrets: BAE Systems organizational profile](https://www.opensecrets.org/orgs/bae-systems/summary?id=D000000236)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -93,9 +93,9 @@ Continued US defense spending on armored vehicles (Bradley replacement program, 
 ### Sources
 
 - [OpenSecrets: BAE Systems organizational profile](https://www.opensecrets.org/orgs/bae-systems/summary?id=D000000236) (Tier 1)
-- [DoD: BAE Systems contract awards](https://www.defense.gov/News/Contracts/) (Tier 1)
-- [BAE Systems: US operations](https://www.baesystems.com/en-us/our-company) (Tier 2)
-- [Ballotpedia: BAE Systems](https://ballotpedia.org/BAE_Systems) (Tier 3)
+- [DoD: BAE Systems contract awards](https://www.defense.gov/News/Contracts/) (Tier 1) (NEEDS REVIEW)
+- [BAE Systems: US operations](https://www.baesystems.com/en-us/our-company) (Tier 2) (VERIFIED)
+- [Ballotpedia: BAE Systems](https://ballotpedia.org/BAE_Systems) (Tier 3) (VERIFIED)
 
 ---
 
@@ -123,8 +123,8 @@ Continued US defense spending on armored vehicles (Bradley replacement program, 
 | Net Assets | $54.6M |
 | Officer Compensation | $6K |
 
-- [Source: ProPublica Nonprofit Explorer - EIN 742624710](https://projects.propublica.org/nonprofits/organizations/742624710) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_12_2023_prefixes_72-74%2F742624710_202212_990O_2023120722085244.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer - EIN 742624710](https://projects.propublica.org/nonprofits/organizations/742624710) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_12_2023_prefixes_72-74%2F742624710_202212_990O_2023120722085244.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Influence Network (Cross-Reference)
@@ -190,7 +190,7 @@ Continued US defense spending on armored vehicles (Bradley replacement program, 
 - Quirino Rocha v. BAE Systems, Inc. (2025) - District Court, S.D. California
 - McManus v. Lettera (2025) - District Court, S.D. New York
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22BAE%20Systems%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22BAE%20Systems%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Spending (USASpending)
@@ -222,7 +222,7 @@ Continued US defense spending on armored vehicles (Bradley replacement program, 
 | $6.2M | Department of Defense | MANTECH ARL COOPERATIVE AGREEMENT W911NF-12-R-0011 |
 | $5.9M | National Aeronautics and Space Administration | OBSERVATIONS AT 1KM HORIZONTAL RESOLUTION ARE NEEDED TO RESOLVE THE FINE THERMODYNAMIC PHASE STRUCTU |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-BAE%20Systems) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-BAE%20Systems) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Vehicle Safety (NHTSA)
@@ -240,14 +240,14 @@ Continued US defense spending on armored vehicles (Bradley replacement program, 
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=BAE%20Systems) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=BAE%20Systems) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [8SVCSVKSGDWMW2QHOH83](https://search.gleif.org/#/record/8SVCSVKSGDWMW2QHOH83) |
+| LEI | [8SVCSVKSGDWMW2QHOH83](https://search.gleif.org/#/record/8SVCSVKSGDWMW2QHOH83) (VERIFIED) |
 | Legal Name | BAE SYSTEMS PLC |
 | Jurisdiction | GB |
 | Entity Status | ACTIVE |
@@ -255,7 +255,7 @@ Continued US defense spending on armored vehicles (Bradley replacement program, 
 | Registration | ISSUED |
 | Last Updated | 2025-05-19T07:12:19Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Tax Filings (IRS 990)
@@ -273,14 +273,14 @@ Continued US defense spending on armored vehicles (Bradley replacement program, 
 **Filing history:** 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015
 
 **View 990 filings:**
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/742624710/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/742624710/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/742624710/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/742624710/2019)
-- [2018 Filing](https://projects.propublica.org/nonprofits/organizations/742624710/2018)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/742624710/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/742624710/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/742624710/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/742624710/2019)~~ (URL broken, archived by Ops)
+- ~~[2018 Filing](https://projects.propublica.org/nonprofits/organizations/742624710/2018)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/742624710) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/742624710) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -339,7 +339,7 @@ Continued US defense spending on armored vehicles (Bradley replacement program, 
 | Motor Vehicle Body Manufacturing (336211) | $1.4B |
 | Facilities Support Services (561210) | $1.3B |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Lobbying Activity
@@ -358,7 +358,7 @@ Continued US defense spending on armored vehicles (Bradley replacement program, 
 
 **Agencies contacted:** Commerce, Dept of (DOC), Defense, Dept of (DOD), Director of National Intelligence (ODNI), HOUSE OF REPRESENTATIVES, Homeland Security, Dept of (DHS), Natl Aeronautics & Space Administration (NASA), Natl Oceanic & Atmospheric Administration (NOAA), Natl Security Council (NSC), Office of Management & Budget (OMB), SENATE +1 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=BAE%20Systems) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=BAE%20Systems) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Federal Contracts
@@ -382,7 +382,7 @@ Continued US defense spending on armored vehicles (Bradley replacement program, 
 | $0 | DEPT OF DEFENSE | 2010-06-28 |
 | $0 | DEPT OF DEFENSE | 2011-11-29 |
 
-- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=BAE%20Systems&page=1&index=opp) (Tier 1)
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=BAE%20Systems&page=1&index=opp) (Tier 1) (VERIFIED)
 <!-- auto:sam-contracts end -->
 
 ### Federal Register Activity
@@ -396,13 +396,13 @@ Continued US defense spending on armored vehicles (Bradley replacement program, 
 | Agencies | Antitrust Division, Defense Department, Federal Aviation Administration, Justice Department, Pipeline and Hazardous Materials Safety Administration, Transportation Department |
 
 **Recent regulatory activity:**
-- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-The National Advanced Mobility Consortium, Inc. (Formerly Known as the Robotics Technology Consortium)](https://www.federalregister.gov/documents/2026/03/26/2026-05925/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-the-national) (2026-03-26) - Justice Department
-- [Hazardous Materials: Notice of Actions on Special Permits](https://www.federalregister.gov/documents/2026/03/18/2026-05279/hazardous-materials-notice-of-actions-on-special-permits) (2026-03-18) - Transportation Department
-- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/03/06/2026-04423/arms-sales-notification) (2026-03-06) - Defense Department
-- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/03/06/2026-04422/arms-sales-notification) (2026-03-06) - Defense Department
-- [Hazardous Materials: Notice of Applications for New Special Permits](https://www.federalregister.gov/documents/2026/02/02/2026-02087/hazardous-materials-notice-of-applications-for-new-special-permits) (2026-02-02) - Transportation Department
-- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/02/02/2026-02055/arms-sales-notification) (2026-02-02) - Defense Department
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-The National Advanced Mobility Consortium, Inc. (Formerly Known as the Robotics Technology Consortium)](https://www.federalregister.gov/documents/2026/03/26/2026-05925/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-the-national) (VERIFIED) (2026-03-26) - Justice Department
+- [Hazardous Materials: Notice of Actions on Special Permits](https://www.federalregister.gov/documents/2026/03/18/2026-05279/hazardous-materials-notice-of-actions-on-special-permits) (VERIFIED) (2026-03-18) - Transportation Department
+- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/03/06/2026-04423/arms-sales-notification) (VERIFIED) (2026-03-06) - Defense Department
+- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/03/06/2026-04422/arms-sales-notification) (VERIFIED) (2026-03-06) - Defense Department
+- [Hazardous Materials: Notice of Applications for New Special Permits](https://www.federalregister.gov/documents/2026/02/02/2026-02087/hazardous-materials-notice-of-applications-for-new-special-permits) (VERIFIED) (2026-02-02) - Transportation Department
+- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/02/02/2026-02055/arms-sales-notification) (VERIFIED) (2026-02-02) - Defense Department
 - ... and 645 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22BAE%20Systems%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22BAE%20Systems%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->

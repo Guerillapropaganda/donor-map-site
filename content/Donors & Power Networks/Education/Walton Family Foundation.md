@@ -108,15 +108,15 @@ Education — charter schools, teacher accountability, school choice, billionair
 
 ### Sources
 
-- [Walton Family Foundation: K-12 education](https://www.waltonfamilyfoundation.org/our-work/k-12-education) (Tier 1)
-- [Network for Public Education: Walton charter funding tracking](https://networkforpubliceducation.org/?s=Walton%20Family%20Foundation) (Tier 2)
-- [The Guardian: Walton family education philanthropy](https://www.theguardian.com/us-news/2014/mar/25/walton-family-foundation-charter-schools) (Tier 2)
+- [Walton Family Foundation: K-12 education](https://www.waltonfamilyfoundation.org/our-work/k-12-education) (Tier 1) (NEEDS REVIEW)
+- [Network for Public Education: Walton charter funding tracking](https://networkforpubliceducation.org/?s=Walton%20Family%20Foundation) (Tier 2) (VERIFIED)
+- ~~[The Guardian: Walton family education philanthropy](https://www.theguardian.com/us-news/2014/mar/25/walton-family-foundation-charter-schools)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [549300EHSRWZEI5Q4G61](https://search.gleif.org/#/record/549300EHSRWZEI5Q4G61) |
+| LEI | [549300EHSRWZEI5Q4G61](https://search.gleif.org/#/record/549300EHSRWZEI5Q4G61) (VERIFIED) |
 | Legal Name | THE WALTON FAMILY FOUNDATION, INC. |
 | Jurisdiction | US-DE |
 | Entity Status | ACTIVE |
@@ -124,7 +124,7 @@ Education — charter schools, teacher accountability, school choice, billionair
 | Registration | ISSUED |
 | Last Updated | 2025-10-23T13:47:09Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -136,7 +136,7 @@ Education — charter schools, teacher accountability, school choice, billionair
 | Total Expenses | $129K |
 | Net Assets | $1.9M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 472066714](https://projects.propublica.org/nonprofits/organizations/472066714) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 472066714](https://projects.propublica.org/nonprofits/organizations/472066714) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Federal Court Records (CourtListener)
@@ -155,7 +155,7 @@ Education — charter schools, teacher accountability, school choice, billionair
 - Students for Fair Admissions v. The United States Naval Academy (2023) — District Court, D. Maryland
 - Dylan Brandt v. Tim Griffin (2023) — Court of Appeals for the Eighth Circuit
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Walton%20Family%20Foundation%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Walton%20Family%20Foundation%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Tax Filings (IRS 990)
@@ -173,12 +173,12 @@ Education — charter schools, teacher accountability, school choice, billionair
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/472066714/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/472066714/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/472066714/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/472066714/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/472066714/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/472066714/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/472066714/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/472066714/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/472066714/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/472066714/2019)~~ (URL broken, archived by Ops)
 - ... and 2 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/472066714) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/472066714) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->

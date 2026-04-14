@@ -180,16 +180,16 @@ The crypto industry didn't just buy elections — it built a permanent political
 
 ### Sources
 
-- [CNBC: Fairshake PAC](https://www.cnbc.com/2025/01/30/crypto-pac-fairshake-has-116-million-on-hand-for-2026-elections.html) (Tier 2)
-- [OpenSecrets: crypto PAC spending](https://www.opensecrets.org/news/2024/07/pro-crypto-super-pacs-pouring-tens-of-millions-into-2024-elections/) (Tier 1)
-- [CoinDesk: 53 crypto-backed Congress members](https://www.coindesk.com/news-analysis/2024/12/02/crypto-cash-fueled-53-members-of-the-next-u-s-congress) (Tier 2)
-- [Public Citizen: Cryptobros United](https://www.citizen.org/article/cryptobros-united-fairshake-super-pac-2024-elections/) (Tier 2)
-- [Fortune: $18M inaugural](https://fortune.com/crypto/2025/04/21/donald-trump-inauguration-fund-crypto-coinbase-ripple-circle-18-million/) (Tier 2)
-- [White House: Bitcoin Reserve fact sheet](https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-establishes-the-strategic-bitcoin-reserve-and-u-s-digital-asset-stockpile/) (Tier 1)
-- [CoinDesk: Atkins sworn in](https://www.coindesk.com/policy2025/04/22/crypto-ally-paul-atkins-sworn-in-to-replace-gary-gensler-atop-u-s-sec) (Tier 2)
-- [CNN: WLF UAE deal](https://www.cnn.com/2026/02/01/politics/trump-family-crypto-world-liberty-financial-uae) (Tier 2)
-- [Washington Post: WLF UAE](https://www.washingtonpost.com/politics/2026/02/01/trump-uae-crypto-world-liberty-financial/) (Tier 2)
-- [CoinDesk: House probe](https://www.coindesk.com/policy2026/02/05/house-probe-targets-wlfi-after-report-of-usd500-million-uae-stake) (Tier 2)
+- [CNBC: Fairshake PAC](https://www.cnbc.com/2025/01/30/crypto-pac-fairshake-has-116-million-on-hand-for-2026-elections.html) (Tier 2) (VERIFIED)
+- ~~[OpenSecrets: crypto PAC spending](https://www.opensecrets.org/news/2024/07/pro-crypto-super-pacs-pouring-tens-of-millions-into-2024-elections/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [CoinDesk: 53 crypto-backed Congress members](https://www.coindesk.com/news-analysis/2024/12/02/crypto-cash-fueled-53-members-of-the-next-u-s-congress) (Tier 2) (VERIFIED)
+- [Public Citizen: Cryptobros United](https://www.citizen.org/article/cryptobros-united-fairshake-super-pac-2024-elections/) (Tier 2) (VERIFIED)
+- [Fortune: $18M inaugural](https://fortune.com/crypto/2025/04/21/donald-trump-inauguration-fund-crypto-coinbase-ripple-circle-18-million/) (Tier 2) (VERIFIED)
+- [White House: Bitcoin Reserve fact sheet](https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-establishes-the-strategic-bitcoin-reserve-and-u-s-digital-asset-stockpile/) (Tier 1) (VERIFIED)
+- [CoinDesk: Atkins sworn in](https://www.coindesk.com/policy2025/04/22/crypto-ally-paul-atkins-sworn-in-to-replace-gary-gensler-atop-u-s-sec) (Tier 2) (VERIFIED)
+- [CNN: WLF UAE deal](https://www.cnn.com/2026/02/01/politics/trump-family-crypto-world-liberty-financial-uae) (Tier 2) (VERIFIED)
+- [Washington Post: WLF UAE](https://www.washingtonpost.com/politics/2026/02/01/trump-uae-crypto-world-liberty-financial/) (Tier 2) (VERIFIED)
+- [CoinDesk: House probe](https://www.coindesk.com/policy2026/02/05/house-probe-targets-wlfi-after-report-of-usd500-million-uae-stake) (Tier 2) (VERIFIED)
 
 ---
 
@@ -206,11 +206,11 @@ The crypto industry didn't just buy elections — it built a permanent political
 
 **Counter-narrative:** Critics note Fairshake lost most Illinois races despite $20M total spending with crypto/AI. The money advantage did not translate proportionally to wins — but the structural purpose may be deterrence and field-shaping rather than individual race wins.
 
-- [CNBC — Fairshake $193M cash on hand for 2026](https://www.cnbc.com/2025/01/30/crypto-pac-fairshake-has-116-million-on-hand-for-2026-elections.html) (Tier 2)
-- [CoinDesk — Fairshake $5M Alabama Senate race](https://www.coindesk.com/policy2026/02/10/crypto-pac-fairshake-leaps-into-first-midterm-senate-race-with-usd5-million-in-alabama) (Tier 2)
-- [Fortune — AI and Crypto spent $20M in Illinois, mostly lost](https://fortune.com/2026/03/18/ai-crypto-illinois-primary-spending-fairshake-think-big-pac/) (Tier 2)
-- [Read Sludge — Crypto, AI, AIPAC set to smash super PAC records](https://readsludge.com/2026/02/02/crypto-ai-and-aipac-set-up-to-smash-super-pac-spending-records/) (Tier 2)
-- [City & State NY — Fairshake eyes New York House races](https://www.cityandstateny.com/politics/2026/03/deep-pocketed-crypto-super-pac-eyes-new-york-house-races-2026/412198/) (Tier 2)
+- [CNBC — Fairshake $193M cash on hand for 2026](https://www.cnbc.com/2025/01/30/crypto-pac-fairshake-has-116-million-on-hand-for-2026-elections.html) (Tier 2) (VERIFIED)
+- [CoinDesk — Fairshake $5M Alabama Senate race](https://www.coindesk.com/policy2026/02/10/crypto-pac-fairshake-leaps-into-first-midterm-senate-race-with-usd5-million-in-alabama) (Tier 2) (VERIFIED)
+- [Fortune — AI and Crypto spent $20M in Illinois, mostly lost](https://fortune.com/2026/03/18/ai-crypto-illinois-primary-spending-fairshake-think-big-pac/) (Tier 2) (VERIFIED)
+- [Read Sludge — Crypto, AI, AIPAC set to smash super PAC records](https://readsludge.com/2026/02/02/crypto-ai-and-aipac-set-up-to-smash-super-pac-spending-records/) (Tier 2) (VERIFIED)
+- [City & State NY — Fairshake eyes New York House races](https://www.cityandstateny.com/politics/2026/03/deep-pocketed-crypto-super-pac-eyes-new-york-house-races-2026/412198/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -230,11 +230,11 @@ Both sides are deploying in the same primaries as crypto and AIPAC money. In NC-
 > [!contradiction]
 > Anthropic frames its spending as “pro-safety” and “pro-regulation,” but the structural function is identical to Fairshake’s: a corporation spending millions to elect candidates favorable to its business model. OpenSecrets noted Anthropic’s “AI safety stance clashes with Pentagon” contracts, adding a defense industry dimension. The Both-Sides Illusion now operates within a single industry: two factions of AI capital publicly disagreeing on regulation while both spending to ensure the industry picks its own regulators.
 
-- [PYMNTS: New Super PAC With GOP Ties Pledges $100M to Back Pro-Crypto Candidates](https://www.pymnts.com/cpi-posts/new-super-pac-with-gop-ties-pledges-100m-to-back-pro-crypto-candidates-in-2026-midterms/) (Tier 2)
-- [CoinDesk: A $100M Crypto Campaign Fund Has So Far Failed to Show Up](https://www.coindesk.com/news-analysis/2026/02/24/a-usd100-million-crypto-campaign-fund-with-a-pro-trump-vibe-has-so-far-failed-to-show-up) (Tier 2)
-- [CNBC: Anthropic Gives $20 Million to Group Pushing for AI Regulations](https://www.cnbc.com/2026/02/12/anthropic-gives-20-million-to-group-pushing-for-ai-regulations-.html) (Tier 2)
-- [The Nation: AI Is the New AIPAC](https://www.thenation.com/article/politics/ai-lobby-elections/) (Tier 2)
-- [OpenSecrets: Anthropic’s AI Safety Stance Clashes with Pentagon](https://www.opensecrets.org/news/2026/03/anthropics-ai-safety-stance-clashes-with-pentagon-and-reshapes-spending-on-primaries/) (Tier 1)
+- [PYMNTS: New Super PAC With GOP Ties Pledges $100M to Back Pro-Crypto Candidates](https://www.pymnts.com/cpi-posts/new-super-pac-with-gop-ties-pledges-100m-to-back-pro-crypto-candidates-in-2026-midterms/) (Tier 2) (VERIFIED)
+- [CoinDesk: A $100M Crypto Campaign Fund Has So Far Failed to Show Up](https://www.coindesk.com/news-analysis/2026/02/24/a-usd100-million-crypto-campaign-fund-with-a-pro-trump-vibe-has-so-far-failed-to-show-up) (Tier 2) (VERIFIED)
+- [CNBC: Anthropic Gives $20 Million to Group Pushing for AI Regulations](https://www.cnbc.com/2026/02/12/anthropic-gives-20-million-to-group-pushing-for-ai-regulations-.html) (Tier 2) (VERIFIED)
+- [The Nation: AI Is the New AIPAC](https://www.thenation.com/article/politics/ai-lobby-elections/) (Tier 2) (VERIFIED)
+- [OpenSecrets: Anthropic’s AI Safety Stance Clashes with Pentagon](https://www.opensecrets.org/news/2026/03/anthropics-ai-safety-stance-clashes-with-pentagon-and-reshapes-spending-on-primaries/) (Tier 1) (VERIFIED)
 
 ### Federal Subawards & Spending Breakdown
 <!-- auto:usaspending-subawards start -->
@@ -259,7 +259,7 @@ Both sides are deploying in the same primaries as crypto and AIPAC money. In NC-
 |------------------|--------|--------|
 | Unknown | $51.9B | 6 |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Vehicle Safety (NHTSA)
@@ -277,5 +277,5 @@ Both sides are deploying in the same primaries as crypto and AIPAC money. In NC-
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Crypto%20Industry%20Bloc) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Crypto%20Industry%20Bloc) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->

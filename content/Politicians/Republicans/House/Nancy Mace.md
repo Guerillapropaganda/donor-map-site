@@ -177,14 +177,14 @@ The class structure is straightforward. Mace's $8M+ career fundraising has track
 
 ### Sources
 
-- [NBC News: Nancy Mace stays close to Trump ahead of tough primary fight](https://www.nbcnews.com/politics/2024-election/nancy-mace-stays-close-trump-ahead-tough-primary-fight-rcna139897) (Tier 2)
-- [CNN: Analysis: One Republican's desperate attempt to get back in Trump's good graces](https://www.cnn.com/2022/02/10/politics/donald-trump-nancy-mace-republican-2022/index.html) (Tier 2)
-- [CNN Politics: Nancy Mace, now targeting transgender lawmaker, called herself 'pro-transgender rights' in 2023](https://www.cnn.com/2024/11/25/politics/nancy-mace-transgender-rights-comments/index.html) (Tier 2)
-- [ABC News: Rep. Nancy Mace's position on LGBTQ community appears to have changed](https://abcnews.com/Politics/rep-nancy-mace-position-lgbtq-community-appears-changed/story?id=116718775) (Tier 2)
-- [NPR: Nancy Mace launches Capitol bathroom rule before trans colleague's arrival](https://www.npr.org/2024/11/19/nx-s1-5196116/capitol-transgender-bathroom-ban-nancy-mace-sarah-mcbride) (Tier 2)
-- [Axios: Congress erupts over bill targeting new transgender member](https://www.axios.com/2024/11/19/nancy-mace-sarah-mcbride-transgender-bathroom) (Tier 2)
-- [Post and Courier: SC's Nancy Mace speaks out about Jan. 6 and her former boss Donald Trump](https://www.postandcourier.com/news/newsmaker-scs-nancy-mace-speaks-out-about-jan-6-and-her-former-boss-donald-trump/article_0134c7f8-61ce-11ec-8f9a-c317e9d5151b.html) (Tier 2)
-- [FEC Candidate: Rep. Nancy Mace Campaign Finance Summary](https://www.fec.gov/data/candidate/H0SC01394/) (Tier 1)
+- [NBC News: Nancy Mace stays close to Trump ahead of tough primary fight](https://www.nbcnews.com/politics/2024-election/nancy-mace-stays-close-trump-ahead-tough-primary-fight-rcna139897) (Tier 2) (VERIFIED)
+- [CNN: Analysis: One Republican's desperate attempt to get back in Trump's good graces](https://www.cnn.com/2022/02/10/politics/donald-trump-nancy-mace-republican-2022/index.html) (Tier 2) (VERIFIED)
+- [CNN Politics: Nancy Mace, now targeting transgender lawmaker, called herself 'pro-transgender rights' in 2023](https://www.cnn.com/2024/11/25/politics/nancy-mace-transgender-rights-comments/index.html) (Tier 2) (VERIFIED)
+- [ABC News: Rep. Nancy Mace's position on LGBTQ community appears to have changed](https://abcnews.com/Politics/rep-nancy-mace-position-lgbtq-community-appears-changed/story?id=116718775) (Tier 2) (VERIFIED)
+- [NPR: Nancy Mace launches Capitol bathroom rule before trans colleague's arrival](https://www.npr.org/2024/11/19/nx-s1-5196116/capitol-transgender-bathroom-ban-nancy-mace-sarah-mcbride) (Tier 2) (VERIFIED)
+- ~~[Axios: Congress erupts over bill targeting new transgender member](https://www.axios.com/2024/11/19/nancy-mace-sarah-mcbride-transgender-bathroom)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Post and Courier: SC's Nancy Mace speaks out about Jan. 6 and her former boss Donald Trump](https://www.postandcourier.com/news/newsmaker-scs-nancy-mace-speaks-out-about-jan-6-and-her-former-boss-donald-trump/article_0134c7f8-61ce-11ec-8f9a-c317e9d5151b.html) (Tier 2) (VERIFIED)
+- [FEC Candidate: Rep. Nancy Mace Campaign Finance Summary](https://www.fec.gov/data/candidate/H0SC01394/) (Tier 1) (VERIFIED)
 
 ---
 
@@ -219,7 +219,7 @@ The class structure is straightforward. Mace's $8M+ career fundraising has track
 | 314 ACTION FUND | $0 | $1,511,730 |
 | CLUB FOR GROWTH ACTION | $1,278,503 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0SC01394/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0SC01394/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (GovTrack)
@@ -251,5 +251,5 @@ The class structure is straightforward. Mace's $8M+ career fundraising has track
 | 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Yea | Passed |
 | 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Yea | Passed |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456843) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456843) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->

@@ -170,18 +170,18 @@ The revolving door completed the exchange. Sinema left the Senate on January 3, 
 
 ## Sources
 
-- [FEC Candidate: Kyrsten Sinema Campaign Finance Summary](https://www.fec.gov/data/candidate/H2AZ09019/) (Tier 1)
-- [PBS: Sinema received nearly $1 million from Wall Street while killing tax hike on investors](https://www.pbs.org/newshour/politics/sinema-received-nearly-1-million-from-wall-street-while-killing-tax-hike-on-investors) (Tier 2)
-- [CNBC: How Wall Street wooed Sinema and preserved carried interest](https://www.cnbc.com/2022/08/09/how-wall-street-wooed-sen-kyrsten-sinema-and-preserved-its-multi-billion-dollar-carried-interest-tax-break.html) (Tier 2)
-- [NBC News: Sinema delivers a 'gift to private equity'](https://www.nbcnews.com/politics/congress/kyrsten-sinema-delivers-gift-private-equity-democrats-big-agenda-bill-rcna42394) (Tier 2)
-- [NPR: Kyrsten Sinema leaves Democratic Party, registers as independent](https://www.npr.org/2022/12/09/1141827943/sinema-leaves-democratic-party-independent) (Tier 2)
-- [NPR: Kyrsten Sinema censured by Arizona Democratic Party](https://www.npr.org/2022/01/22/1075088298/kyrsten-sinema-censure-arizona-democrats-filibuster-vote) (Tier 2)
-- [Washington Post: Kyrsten Sinema switches party to independent](https://www.washingtonpost.com/politics/2022/12/09/kyrsten-sinema-independent/) (Tier 2)
-- [The Hill: Warren rips Sinema over post-Senate influence career](https://thehill.com/homenews/senate/5685025-warren-slams-sinema-corporate-interests/) (Tier 2)
-- [Hogan Lovells: Senator Kyrsten Sinema joins firm](https://www.hoganlovells.com/en/news/hogan-lovells-welcomes-senator-kyrsten-sinema) (Tier 2)
-- [Coinbase: Welcomes Four New Political and Economic Leaders to Global Advisory Council](https://www.coinbase.com/blog/Coinbase-Welcomes-Four-New-Political-and-Economic-Leaders-to-the-Global-Advisory-Council) (Tier 2)
-- [CNN: Sinema censured by Arizona Democratic Party over filibuster stance](https://www.cnn.com/2022/01/22/politics/sinema-censured-arizona-democratic-party/index.html) (Tier 2)
-- [Truthout: Private equity gave Sinema $500K, she exempted it from corporate minimum tax](https://truthout.org/articles/private-equity-gave-sinema-500k-so-she-exempted-it-from-corporate-minimum-tax/) (Tier 2)
+- [FEC Candidate: Kyrsten Sinema Campaign Finance Summary](https://www.fec.gov/data/candidate/H2AZ09019/) (Tier 1) (VERIFIED)
+- [PBS: Sinema received nearly $1 million from Wall Street while killing tax hike on investors](https://www.pbs.org/newshour/politics/sinema-received-nearly-1-million-from-wall-street-while-killing-tax-hike-on-investors) (Tier 2) (VERIFIED)
+- [CNBC: How Wall Street wooed Sinema and preserved carried interest](https://www.cnbc.com/2022/08/09/how-wall-street-wooed-sen-kyrsten-sinema-and-preserved-its-multi-billion-dollar-carried-interest-tax-break.html) (Tier 2) (VERIFIED)
+- [NBC News: Sinema delivers a 'gift to private equity'](https://www.nbcnews.com/politics/congress/kyrsten-sinema-delivers-gift-private-equity-democrats-big-agenda-bill-rcna42394) (Tier 2) (VERIFIED)
+- [NPR: Kyrsten Sinema leaves Democratic Party, registers as independent](https://www.npr.org/2022/12/09/1141827943/sinema-leaves-democratic-party-independent) (Tier 2) (VERIFIED)
+- [NPR: Kyrsten Sinema censured by Arizona Democratic Party](https://www.npr.org/2022/01/22/1075088298/kyrsten-sinema-censure-arizona-democrats-filibuster-vote) (Tier 2) (VERIFIED)
+- [Washington Post: Kyrsten Sinema switches party to independent](https://www.washingtonpost.com/politics/2022/12/09/kyrsten-sinema-independent/) (Tier 2) (VERIFIED)
+- ~~[The Hill: Warren rips Sinema over post-Senate influence career](https://thehill.com/homenews/senate/5685025-warren-slams-sinema-corporate-interests/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Hogan Lovells: Senator Kyrsten Sinema joins firm](https://www.hoganlovells.com/en/news/hogan-lovells-welcomes-senator-kyrsten-sinema) (Tier 2) (VERIFIED)
+- [Coinbase: Welcomes Four New Political and Economic Leaders to Global Advisory Council](https://www.coinbase.com/blog/Coinbase-Welcomes-Four-New-Political-and-Economic-Leaders-to-the-Global-Advisory-Council) (Tier 2) (VERIFIED)
+- [CNN: Sinema censured by Arizona Democratic Party over filibuster stance](https://www.cnn.com/2022/01/22/politics/sinema-censured-arizona-democratic-party/index.html) (Tier 2) (VERIFIED)
+- [Truthout: Private equity gave Sinema $500K, she exempted it from corporate minimum tax](https://truthout.org/articles/private-equity-gave-sinema-500k-so-she-exempted-it-from-corporate-minimum-tax/) (Tier 2) (VERIFIED)
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
@@ -225,7 +225,7 @@ The revolving door completed the exchange. Sinema left the Senate on January 3, 
 | CONGRESSIONAL LEADERSHIP FUND | $0 | $1,143,122 |
 | NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND | $712,100 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2AZ09019/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2AZ09019/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Campaign Finance Summary (FEC)
@@ -247,14 +247,14 @@ The revolving door completed the exchange. Sinema left the Senate on January 3, 
 | 2024 | $17,050,976 | $12,945,617 | 4276880.44 |
 | 2018 | $22,643,275 | $24,735,383 | 171526.59 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S8AZ00197/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S8AZ00197/) (Tier 1) (VERIFIED)
 <!-- auto:fec-summary end -->
 
 ### Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
 _No committee data found._
 
-- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 ### Legislative Activity (Congress.gov)
@@ -283,12 +283,12 @@ _No committee data found._
 | 2546 | A bill to designate the facility of the United States Postal Service located at … | Held at the desk. |
 | — |  | — |
 
-- [Source: Congress.gov](https://www.congress.gov/member/S001191) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/S001191)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Kyrsten Sinema](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: Kyrsten Sinema](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->

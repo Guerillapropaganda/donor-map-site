@@ -13,7 +13,7 @@ profiles:
 
 ## DNC Resolution to Reject AIPAC Funding Puts Democratic Leaders in the Hot Seat
 
-**Source:** [The Intercept](https://theintercept.com/2026/03/27/dnc-aipac-funding-democratic-party/)
+**Source:** [The Intercept](https://theintercept.com/2026/03/27/dnc-aipac-funding-democratic-party/) (VERIFIED)
 **Date:** 2026-03-27
 
 The symbolic resolution could force Democrats to take a stand on the millions the increasingly toxic AIPAC spends on Democratic primaries. The post DNC Resolution to Reject AIPAC Funding Puts Democratic Leaders in the Hot Seat appeared first on The Intercept.

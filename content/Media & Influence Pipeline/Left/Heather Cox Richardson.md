@@ -76,9 +76,9 @@ Revenue model: 100% Substack subscriptions ($5-12M annual). Audience: college-ed
 
 ### Sources
 
-- [Press Gazette: biggest Substacks](https://pressgazette.co.uk/newsletters/biggest-substack-newsletters-2025/) (Tier 3)
-- [Ad Fontes: bias rating](https://adfontesmedia.com/letters-from-american-heather-cox-richardson-bias-reliability/) (Tier 3)
-- [Nate Silver: HCR faction analysis](https://www.natesilver.net/p/what-is-heather-cox-richardsonism) (Tier 3)
-- [Current Affairs: Robinson critique](https://www.currentaffairs.org/news/2023/11/does-democracy-mainly-mean-voting-for-democrats) (Tier 3)
-- [Senator Coons: American Conversations](https://www.coons.senate.gov/news/press-releases/icymi-senator-coons-joins-heather-cox-richardsons-american-conversations-to-discuss-how-democrats-can-deliver-an-opportunity-security-and-justice-agenda/) (Tier 1)
+- [Press Gazette: biggest Substacks](https://pressgazette.co.uk/newsletters/biggest-substack-newsletters-2025/) (Tier 3) (VERIFIED)
+- [Ad Fontes: bias rating](https://adfontesmedia.com/letters-from-american-heather-cox-richardson-bias-reliability/) (Tier 3) (VERIFIED)
+- [Nate Silver: HCR faction analysis](https://www.natesilver.net/p/what-is-heather-cox-richardsonism) (Tier 3) (VERIFIED)
+- [Current Affairs: Robinson critique](https://www.currentaffairs.org/news/2023/11/does-democracy-mainly-mean-voting-for-democrats) (Tier 3) (VERIFIED)
+- [Senator Coons: American Conversations](https://www.coons.senate.gov/news/press-releases/icymi-senator-coons-joins-heather-cox-richardsons-american-conversations-to-discuss-how-democrats-can-deliver-an-opportunity-security-and-justice-agenda/) (Tier 1) (VERIFIED)
 

@@ -102,14 +102,14 @@ The payoff is already visible. Moreno supports the GENIUS Act, FIT21 framework, 
 
 ### Sources
 
-- [FEC Candidate: Bernie Moreno donor profile](https://www.fec.gov/data/candidate/S4OH00192/) (Tier 1)
-- [FEC: Bernie Moreno campaign finance filings](https://www.fec.gov/data/candidate/S4OH00192/) (Tier 1)
-- [Senate Financial Disclosure: Bernie Moreno](https://efdsearch.senate.gov/search/home/) (Tier 1)
-- [Axios: Bernie Moreno's crypto dream in the Ohio Senate race](https://www.axios.com/2024/10/01/moreno-brown-senate-crypto-money-trump) (Tier 2)
-- [DL News: Crypto champion Bernie Moreno wins Senate seat with $40m in industry cash](https://www.dlnews.com/articles/regulation/bernie-moreno-wins-ohio-from-crypto-sceptic-sherrod-brown/) (Tier 2)
-- [Rolling Stone: Crypto industry as political money death star 2024](https://www.rollingstone.com/politics/politics-features/trump-moreno-congress-crypto-death-star-2024-1235168746/) (Tier 2)
-- [Cleveland Scene: The Furious Saga of Bernie Moreno, Car Dealer Turned Tech Evangelist](https://www.clevescene.com/news/the-furious-saga-of-bernie-moreno-car-dealer-turned-tech-evangelist-24514858/) (Tier 2)
-- [WOSU: Who is Bernie Moreno? Car salesman turned politician](https://www.wosu.org/2024-09-24/who-is-bernie-moreno-car-salesman-turned-politician-sells-his-ideas-to-ohio-voters) (Tier 2)
+- [FEC Candidate: Bernie Moreno donor profile](https://www.fec.gov/data/candidate/S4OH00192/) (Tier 1) (VERIFIED)
+- [FEC: Bernie Moreno campaign finance filings](https://www.fec.gov/data/candidate/S4OH00192/) (Tier 1) (VERIFIED)
+- [Senate Financial Disclosure: Bernie Moreno](https://efdsearch.senate.gov/search/home/) (Tier 1) (VERIFIED)
+- ~~[Axios: Bernie Moreno's crypto dream in the Ohio Senate race](https://www.axios.com/2024/10/01/moreno-brown-senate-crypto-money-trump)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [DL News: Crypto champion Bernie Moreno wins Senate seat with $40m in industry cash](https://www.dlnews.com/articles/regulation/bernie-moreno-wins-ohio-from-crypto-sceptic-sherrod-brown/) (Tier 2) (VERIFIED)
+- [Rolling Stone: Crypto industry as political money death star 2024](https://www.rollingstone.com/politics/politics-features/trump-moreno-congress-crypto-death-star-2024-1235168746/) (Tier 2) (VERIFIED)
+- [Cleveland Scene: The Furious Saga of Bernie Moreno, Car Dealer Turned Tech Evangelist](https://www.clevescene.com/news/the-furious-saga-of-bernie-moreno-car-dealer-turned-tech-evangelist-24514858/) (Tier 2) (VERIFIED)
+- [WOSU: Who is Bernie Moreno? Car salesman turned politician](https://www.wosu.org/2024-09-24/who-is-bernie-moreno-car-salesman-turned-politician-sells-his-ideas-to-ohio-voters) (Tier 2) (VERIFIED)
 
 ### Legislative Activity (Congress.gov)
 
@@ -129,7 +129,7 @@ The payoff is already visible. Moreno supports the GENIUS Act, FIT21 framework, 
 - S. 3283: Exclusive Citizenship Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 1, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 - S. 3089: STOP Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on October 30, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456967) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456967) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
 
 ### Committee Assignments (Congress.gov)
@@ -163,7 +163,7 @@ The payoff is already visible. Moreno supports the GENIUS Act, FIT21 framework, 
 | SENATE LEADERSHIP FUND | $9,777,367 | $0 |
 | BUCKEYE LEADERSHIP FUND, INC. | $0 | $6,577,836 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S4OH00192/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S4OH00192/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Voting Record

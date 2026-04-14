@@ -14,7 +14,7 @@ profiles:
 
 ## DNC committee shoots down resolution condemning AIPAC
 
-**Source:** [The Hill](https://thehill.com/homenews/campaign/5823840-dnc-aipac-resolution-fails/)
+**Source:** ~~[The Hill](https://thehill.com/homenews/campaign/5823840-dnc-aipac-resolution-fails/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-09
 
 A Democratic National Committee (DNC) panel voted on Thursday to reject a resolution condemning “the growing influence” of dark money and corporate-backed outside spending in Democratic races, particularly the American Israel Public Affairs Committee (AIPAC). At the DNC’s spring meeting in New Orleans this week, the resolutions committee voted to kill the push, which would…

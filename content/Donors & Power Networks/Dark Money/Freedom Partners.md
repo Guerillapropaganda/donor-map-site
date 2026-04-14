@@ -97,11 +97,11 @@ Freedom Partners was the Koch network's central bank, a mechanism for the billio
 
 ### Sources
 
-- [Ballotpedia: Freedom Partners](https://ballotpedia.org/Freedom_Partners) (Tier 3)
-- [Wikipedia: Freedom Partners](https://en.wikipedia.org/wiki/Freedom_Partners) (Tier 4)
-- [Politico: Koch donors network $256M](https://www.politico.com/story/2014/10/koch-donors-111846) (Tier 2)
-- [DeSmog: Freedom Partners profile](https://www.desmog.com/freedom-partners/) (Tier 2)
-- [OpenSecrets: Freedom Partners Action Fund](https://www.opensecrets.org/political-action-committees-pacs/freedom-partners-chamber-of-commerce/C90016692/summary/2018) (Tier 1)
+- [Ballotpedia: Freedom Partners](https://ballotpedia.org/Freedom_Partners) (Tier 3) (VERIFIED)
+- [Wikipedia: Freedom Partners](https://en.wikipedia.org/wiki/Freedom_Partners) (Tier 4) (VERIFIED)
+- [Politico: Koch donors network $256M](https://www.politico.com/story/2014/10/koch-donors-111846) (Tier 2) (VERIFIED)
+- [DeSmog: Freedom Partners profile](https://www.desmog.com/freedom-partners/) (Tier 2) (VERIFIED)
+- [OpenSecrets: Freedom Partners Action Fund](https://www.opensecrets.org/political-action-committees-pacs/freedom-partners-chamber-of-commerce/C90016692/summary/2018) (Tier 1) (VERIFIED)
 
 ---
 
@@ -133,7 +133,7 @@ Freedom Partners was the Koch network's central bank, a mechanism for the billio
 - Citizens for Responsibility and Ethics in Washington v. Trump (2017) — District Court, S.D. New York
 - Peabody Energy Corporation (2016) — United States Bankruptcy Court, E.D. Missouri
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Freedom%20Partners%20Chamber%20of%20Commerce%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Freedom%20Partners%20Chamber%20of%20Commerce%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -154,7 +154,7 @@ Freedom Partners was the Koch network's central bank, a mechanism for the billio
 
 **Agencies contacted:** Bureau of Land Management (BLM), Commerce, Dept of (DOC), Commodity Futures Trading Commission (CFTC), Education, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP), Federal Communications Commission (FCC), Federal Deposit Insurance Corporation (FDIC), Federal Reserve System, Federal Trade Commission (FTC) +24 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Freedom%20Partners%20Chamber%20of%20Commerce) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Freedom%20Partners%20Chamber%20of%20Commerce) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Campaign Finance (FEC)
@@ -172,5 +172,5 @@ Freedom Partners was the Koch network's central bank, a mechanism for the billio
 | FREEDOM PARTNERS ACTION FUND, INC. | $112,896 | — |
 | FISCAL LEADERSHIP AND KNOWING ECONOMICS PAC | $1,085 | — |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Freedom%20Partners%20Chamber%20of%20Commerce) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Freedom%20Partners%20Chamber%20of%20Commerce) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->

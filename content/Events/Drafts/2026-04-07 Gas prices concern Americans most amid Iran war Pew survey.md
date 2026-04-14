@@ -14,7 +14,7 @@ profiles:
 
 ## Gas prices concern Americans most amid Iran war: Pew survey
 
-**Source:** [The Hill](https://thehill.com/policy/international/5820379-rising-fuel-costs-concern/)
+**Source:** ~~[The Hill](https://thehill.com/policy/international/5820379-rising-fuel-costs-concern/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-07
 
 The cost of the Iran war is weighing on Americans as joint operations from the U.S. and Israel stretch into a sixth week. Poll results released by Pew Research Center on Tuesday found that heightened gas prices resulting from the conflict in Iran are a concern for 7 in 10 Americans. The new survey found…

@@ -102,19 +102,19 @@ Wiener uses technocratic framing — "supply and demand," "evidence-based housin
 
 ## Sources
 
-- [Senator Wiener: Biography](https://sd11.senate.ca.gov/biography) (Tier 1)
-- [Wikipedia: Scott Wiener](https://en.wikipedia.org/wiki/Scott_Wiener) (Tier 4)
-- [Ballotpedia: Scott Wiener](https://ballotpedia.org/Scott_Wiener) (Tier 3)
-- [FEC: Wiener congressional campaign](https://www.fec.gov/data/committee/C00909283/) (Tier 1)
-- [OpenSecrets: Wiener contributors 2024](https://www.opensecrets.org/officeholders/scott-wiener/contributors?cycle=2024&id=32203683) (Tier 1)
-- [OpenSecrets: Wiener contributors 2017](https://www.opensecrets.org/officeholders/scott-wiener/contributors?cycle=2017&id=32203683) (Tier 1)
-- [Housing is a Human Right: Wiener real estate money ties](https://www.housingisahumanright.org/selling-out-california-scott-wiener-money-ties-to-big-real-estate/) (Tier 2)
-- [Scott Wiener: Campaign platform](https://www.scottwiener.com/platform) (Tier 3)
-- [Lawfare: Wiener on SB 53](https://www.lawfaremedia.org/article/scaling-laws--sen.-scott-wiener-on-california-senate-bill-53) (Tier 2)
-- [Forward: Wiener steps down from Jewish Caucus](https://forward.com/fast-forward/799791/facing-backlash-after-accusing-israel-of-genocide-scott-wiener-steps-down-as-calif-jewish-caucus-co-chair/) (Tier 2)
-- [SF Chronicle: Wiener and Pelosi endorsement](https://www.sfchronicle.com/politics/article/scott-wiener-democrats-nancy-pelosi-21360874.php) (Tier 2)
-- [NYT: Pelosi and Wiener congressional race](https://www.nytimes.com/2025/10/22/us/pelosi-congress-scott-wiener.html) (Tier 2)
-- [The Advocate: Wiener endorsed by five organizations](https://www.advocate.com/politics/scott-wiener-endorsed-five-organizations) (Tier 3)
+- [Senator Wiener: Biography](https://sd11.senate.ca.gov/biography) (Tier 1) (VERIFIED)
+- [Wikipedia: Scott Wiener](https://en.wikipedia.org/wiki/Scott_Wiener) (Tier 4) (VERIFIED)
+- [Ballotpedia: Scott Wiener](https://ballotpedia.org/Scott_Wiener) (Tier 3) (VERIFIED)
+- [FEC: Wiener congressional campaign](https://www.fec.gov/data/committee/C00909283/) (Tier 1) (VERIFIED)
+- [OpenSecrets: Wiener contributors 2024](https://www.opensecrets.org/officeholders/scott-wiener/contributors?cycle=2024&id=32203683) (Tier 1) (VERIFIED)
+- [OpenSecrets: Wiener contributors 2017](https://www.opensecrets.org/officeholders/scott-wiener/contributors?cycle=2017&id=32203683) (Tier 1) (VERIFIED)
+- [Housing is a Human Right: Wiener real estate money ties](https://www.housingisahumanright.org/selling-out-california-scott-wiener-money-ties-to-big-real-estate/) (Tier 2) (VERIFIED)
+- [Scott Wiener: Campaign platform](https://www.scottwiener.com/platform) (Tier 3) (VERIFIED)
+- [Lawfare: Wiener on SB 53](https://www.lawfaremedia.org/article/scaling-laws--sen.-scott-wiener-on-california-senate-bill-53) (Tier 2) (VERIFIED)
+- [Forward: Wiener steps down from Jewish Caucus](https://forward.com/fast-forward/799791/facing-backlash-after-accusing-israel-of-genocide-scott-wiener-steps-down-as-calif-jewish-caucus-co-chair/) (Tier 2) (VERIFIED)
+- [SF Chronicle: Wiener and Pelosi endorsement](https://www.sfchronicle.com/politics/article/scott-wiener-democrats-nancy-pelosi-21360874.php) (Tier 2) (VERIFIED)
+- ~~[NYT: Pelosi and Wiener congressional race](https://www.nytimes.com/2025/10/22/us/pelosi-congress-scott-wiener.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [The Advocate: Wiener endorsed by five organizations](https://www.advocate.com/politics/scott-wiener-endorsed-five-organizations) (Tier 3) (VERIFIED)
 
 ---
 
@@ -128,12 +128,12 @@ Wiener uses technocratic framing — "supply and demand," "evidence-based housin
 | PAC Contributions | $28,100 |
 | Cash on Hand | 2274364.87 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8CA11116/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8CA11116/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Scott Wiener](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: Scott Wiener](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->

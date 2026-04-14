@@ -166,19 +166,19 @@ The whistleblower work is the genuine complication. Grassley has spent decades p
 
 ## Sources
 
-- [Congress.gov: Chuck Grassley donor profile](https://www.congress.gov/search?q=Chuck%20Grassley&searchResultViewType=expanded) (Tier 1)
-- [Congress.gov: Chuck Grassley industry donors](https://www.congress.gov/search?q=Chuck%20Grassley&searchResultViewType=expanded) (Tier 1)
-- [Congress.gov: Chuck Grassley contributors](https://www.congress.gov/search?q=Chuck%20Grassley&searchResultViewType=expanded) (Tier 1)
-- [Senate.gov: Chuck Grassley official biography](https://www.grassley.senate.gov/about/biography) (Tier 1)
-- [Congress.gov: Grassley-Wyden Prescription Drug Pricing Reduction Act](https://www.congress.gov/bill/116th-congress/senate-bill/2543) (Tier 1)
-- [USDA Farm Subsidy Database: Robin Grassley](https://farm.ewg.org/persondetail.php?custnumber=A10474835) (Tier 1)
-- [SCOTUSblog: Merrick Garland Nomination Timeline](https://www.scotusblog.com/2016/03/president-barack-obama-announces-judge-merrick-garland-as-his-nominee-to-the-supreme-court/) (Tier 1)
-- [Washington Post: Charles Grassley is the whistleblower's best friend](https://www.washingtonpost.com/opinions/2022/11/02/charles-grassley-is-whistleblowers-best-friend/) (Tier 2)
-- [NPR: The 293-Day Blockade of Merrick Garland](https://www.npr.org/sections/thetwo-way/2016/03/16/470643431/-i-ve-made-my-decision-on-supreme-court-nominee-president-obama-says) (Tier 2)
-- [Politico: McConnell Blocks Grassley Drug Pricing Bill (2020)](https://www.politico.com/news/2020/02/grassley-drug-pricing-bill) (Tier 2)
-- [Des Moines Register: Grassley's Farm Subsidies](https://www.desmoinesregister.com/grassley/) (Tier 2)
-- [Ballotpedia: Chuck Grassley](https://ballotpedia.org/Chuck_Grassley) (Tier 3)
-- [Environmental Working Group: Grassley Farm Subsidies](https://farm.ewg.org/search.php?search=Chuck%20Grassley) (Tier 1)
+- ~~[Congress.gov: Chuck Grassley donor profile](https://www.congress.gov/search?q=Chuck%20Grassley&searchResultViewType=expanded)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Chuck Grassley industry donors](https://www.congress.gov/search?q=Chuck%20Grassley&searchResultViewType=expanded)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Chuck Grassley contributors](https://www.congress.gov/search?q=Chuck%20Grassley&searchResultViewType=expanded)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Senate.gov: Chuck Grassley official biography](https://www.grassley.senate.gov/about/biography) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: Grassley-Wyden Prescription Drug Pricing Reduction Act](https://www.congress.gov/bill/116th-congress/senate-bill/2543)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [USDA Farm Subsidy Database: Robin Grassley](https://farm.ewg.org/persondetail.php?custnumber=A10474835) (Tier 1) (VERIFIED)
+- [SCOTUSblog: Merrick Garland Nomination Timeline](https://www.scotusblog.com/2016/03/president-barack-obama-announces-judge-merrick-garland-as-his-nominee-to-the-supreme-court/) (Tier 1) (VERIFIED)
+- [Washington Post: Charles Grassley is the whistleblower's best friend](https://www.washingtonpost.com/opinions/2022/11/02/charles-grassley-is-whistleblowers-best-friend/) (Tier 2) (VERIFIED)
+- [NPR: The 293-Day Blockade of Merrick Garland](https://www.npr.org/sections/thetwo-way/2016/03/16/470643431/-i-ve-made-my-decision-on-supreme-court-nominee-president-obama-says) (Tier 2) (VERIFIED)
+- ~~[Politico: McConnell Blocks Grassley Drug Pricing Bill (2020)](https://www.politico.com/news/2020/02/grassley-drug-pricing-bill)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Des Moines Register: Grassley's Farm Subsidies](https://www.desmoinesregister.com/grassley/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Ballotpedia: Chuck Grassley](https://ballotpedia.org/Chuck_Grassley) (Tier 3) (VERIFIED)
+- [Environmental Working Group: Grassley Farm Subsidies](https://farm.ewg.org/search.php?search=Chuck%20Grassley) (Tier 1) (VERIFIED)
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->
@@ -197,7 +197,7 @@ The whistleblower work is the genuine complication. Grassley has spent decades p
 - S. 3977: Bankruptcy Threshold Adjustment Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 3, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 - S. 3826: Litigation Funding Transparency Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 11, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/300048) (Tier 1)
+- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/300048)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:govtrack end -->
 
 ### Voting Record
@@ -222,6 +222,6 @@ The whistleblower work is the genuine complication. Grassley has spent decades p
 
 **Sources**
 
-- [Congress.gov: Chuck Grassley](https://www.congress.gov/member/c001091) (Tier 1)
-- [GovTrack: Chuck Grassley](https://www.govtrack.us/congress/members/300048) (Tier 1)
+- ~~[Congress.gov: Chuck Grassley](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[GovTrack: Chuck Grassley](https://www.govtrack.us/congress/members/300048)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->

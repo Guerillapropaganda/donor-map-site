@@ -65,7 +65,7 @@ Merck & Co., Inc. One of the largest pharmaceutical companies in the world ($64 
 
 Merck was the first pharmaceutical company to sue the federal government over the Inflation Reduction Act's Medicare drug price negotiation provision (June 2023), arguing that compelled negotiation constitutes an unconstitutional "taking" of intellectual property. The lawsuit — ultimately unsuccessful — revealed the pharmaceutical industry's strategy: using the courts to block legislative wins that survived the lobbying process.
 
-- [OpenSecrets: Merck organizational profile](https://www.opensecrets.org/orgs/merck-co/summary?id=D000000275) (Tier 1)
+- [OpenSecrets: Merck organizational profile](https://www.opensecrets.org/orgs/merck-co/summary?id=D000000275) (Tier 1) (VERIFIED)
 
 ---
 
@@ -112,7 +112,7 @@ Opposition to Medicare drug price negotiation expansion (particularly before Key
 |--------|--------|-------------|
 | $250K | Department of Health and Human Services | ENVIROMENTAL ASSESSMENT FOR SLICE? (EMAMECTIN BENZOATE) TYPE A MEDICATED ARTICLE FOR FRESHWATER-REAR |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Merck) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Merck) (Tier 1) (VERIFIED)
 
 <!-- auto:usaspending end -->
 
@@ -129,8 +129,8 @@ The Merck model reveals the pharmaceutical class strategy in its purest form: ex
 ### Sources
 
 - [OpenSecrets: Merck organizational profile](https://www.opensecrets.org/orgs/merck-co/summary?id=D000000275) (Tier 1)
-- [SEC: Merck 10-K filing, Keytruda revenue](https://www.sec.gov/cgi-bin/browse-edgar?company=Merck&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)
-- [Ballotpedia: Merck](https://ballotpedia.org/Merck_&_Co.) (Tier 3)
+- [SEC: Merck 10-K filing, Keytruda revenue](https://www.sec.gov/cgi-bin/browse-edgar?company=Merck&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1) (VERIFIED)
+- [Ballotpedia: Merck](https://ballotpedia.org/Merck_&_Co.) (Tier 3) (VERIFIED)
 
 ---
 
@@ -152,7 +152,7 @@ The Merck model reveals the pharmaceutical class strategy in its purest form: ex
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [96760004Q9TBK1DS6T62](https://search.gleif.org/#/record/96760004Q9TBK1DS6T62) |
+| LEI | [96760004Q9TBK1DS6T62](https://search.gleif.org/#/record/96760004Q9TBK1DS6T62) (VERIFIED) |
 | Legal Name | MERCK |
 | Jurisdiction | BE |
 | Entity Status | ACTIVE |
@@ -162,10 +162,10 @@ The Merck model reveals the pharmaceutical class strategy in its purest form: ex
 
 **Ownership chain:**
 
-- Ultimate Parent: [E. Merck KG](https://search.gleif.org/#/record/529900YCCXD7AIHXU523) (DE)
+- Ultimate Parent: [E. Merck KG](https://search.gleif.org/#/record/529900YCCXD7AIHXU523) (VERIFIED) (DE)
 - MERCK (this entity)
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -177,8 +177,8 @@ The Merck model reveals the pharmaceutical class strategy in its purest form: ex
 | Total Expenses | $26.1M |
 | Net Assets | $316.2M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 226028476](https://projects.propublica.org/nonprofits/organizations/226028476) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F226028476_202312_990PF_2025010222973787.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 226028476](https://projects.propublica.org/nonprofits/organizations/226028476) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F226028476_202312_990PF_2025010222973787.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -228,7 +228,7 @@ The Merck model reveals the pharmaceutical class strategy in its purest form: ex
 | Analytical Laboratory Instrument Manufacturing (334516) | $3.3M |
 | Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing (334220) | $1.8M |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Tax Filings (IRS 990)
@@ -245,14 +245,14 @@ The Merck model reveals the pharmaceutical class strategy in its purest form: ex
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/226028476/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/226028476/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/226028476/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/226028476/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/226028476/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/226028476/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/226028476/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/226028476/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/226028476/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/226028476/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/226028476) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/226028476) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Product Recalls (CPSC)
@@ -265,9 +265,9 @@ The Merck model reveals the pharmaceutical class strategy in its purest form: ex
 
 **Recent recalls:**
 
-- [Merck Recalls Temodar and Temozolomide Bottles with Cracked Caps Due to Failure to Meet Child-Resistant Closure Requirement](https://www.cpsc.gov/Recalls/15219) (2015-08-18) — The bottle cap can be cracked which can cause the child-resistant closure to become ineffective to young children who can gain unintended access to the capsules, posing a risk of poisoning.
+- ~~[Merck Recalls Temodar and Temozolomide Bottles with Cracked Caps Due to Failure to Meet Child-Resistant Closure Requirement](https://www.cpsc.gov/Recalls/15219)~~ (URL broken, archived by Ops) (2015-08-18) — The bottle cap can be cracked which can cause the child-resistant closure to become ineffective to young children who can gain unintended access to the capsules, posing a risk of poisoning.
 
-- [Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Merck) (Tier 1)
+- ~~[Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Merck)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:cpsc-recalls end -->
 
 ### Federal Register Activity
@@ -281,15 +281,15 @@ The Merck model reveals the pharmaceutical class strategy in its purest form: ex
 | Agencies | Centers for Medicare & Medicaid Services, Commerce Department, Equal Employment Opportunity Commission, Federal Communications Commission, Federal Trade Commission, Food and Drug Administration, Foreign-Trade Zones Board, Health and Human Services Department +1 more |
 
 **Recent regulatory activity:**
-- [Determination of Regulatory Review Period for Purposes of Patent Extension; ENFLONSIA](https://www.federalregister.gov/documents/2026/04/03/2026-06479/determination-of-regulatory-review-period-for-purposes-of-patent-extension-enflonsia) (2026-04-03) — Health and Human Services Department
-- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2026/02/19/2026-03244/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2026-02-19) — Federal Trade Commission
-- [Foreign-Trade Zone (FTZ) 49; Authorization of Limited Production Activity; Merck, Sharp & Dohme LLC; (Pharmaceutical Products for Research and Development); Rahway, New Jersey](https://www.federalregister.gov/documents/2025/11/26/2025-21298/foreign-trade-zone-ftz-49-authorization-of-limited-production-activity-merck-sharp-and-dohme-llc) (2025-11-26) — Commerce Department
-- [Foreign-Trade Zone (FTZ) 49; Authorization of Production Activity; Merck, Sharp & Dohme LLC; (Pharmaceutical Products for Research and Development); Rahway, New Jersey](https://www.federalregister.gov/documents/2025/06/27/2025-11910/foreign-trade-zone-ftz-49-authorization-of-production-activity-merck-sharp-and-dohme-llc) (2025-06-27) — Commerce Department
-- [Foreign-Trade Zone (FTZ) 49, Notification of Proposed Production Activity; Merck, Sharp & Dohme LLC; (Pharmaceutical Products for Research and Development); Rahway, New Jersey](https://www.federalregister.gov/documents/2025/04/14/2025-06283/foreign-trade-zone-ftz-49-notification-of-proposed-production-activity-merck-sharp-and-dohme-llc) (2025-04-14) — Commerce Department
-- [Determination That DECADRON (Dexamethasone Sodium Phosphate) Solution/Drops, Equivalent to 0.1 Percent Phosphate, Was Not Withdrawn From Sale for Reasons of Safety or Effectiveness](https://www.federalregister.gov/documents/2025/04/09/2025-06046/determination-that-decadron-dexamethasone-sodium-phosphate-solutiondrops-equivalent-to-01-percent) (2025-04-09) — Health and Human Services Department
+- [Determination of Regulatory Review Period for Purposes of Patent Extension; ENFLONSIA](https://www.federalregister.gov/documents/2026/04/03/2026-06479/determination-of-regulatory-review-period-for-purposes-of-patent-extension-enflonsia) (VERIFIED) (2026-04-03) — Health and Human Services Department
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2026/02/19/2026-03244/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (VERIFIED) (2026-02-19) — Federal Trade Commission
+- [Foreign-Trade Zone (FTZ) 49; Authorization of Limited Production Activity; Merck, Sharp & Dohme LLC; (Pharmaceutical Products for Research and Development); Rahway, New Jersey](https://www.federalregister.gov/documents/2025/11/26/2025-21298/foreign-trade-zone-ftz-49-authorization-of-limited-production-activity-merck-sharp-and-dohme-llc) (VERIFIED) (2025-11-26) — Commerce Department
+- [Foreign-Trade Zone (FTZ) 49; Authorization of Production Activity; Merck, Sharp & Dohme LLC; (Pharmaceutical Products for Research and Development); Rahway, New Jersey](https://www.federalregister.gov/documents/2025/06/27/2025-11910/foreign-trade-zone-ftz-49-authorization-of-production-activity-merck-sharp-and-dohme-llc) (VERIFIED) (2025-06-27) — Commerce Department
+- [Foreign-Trade Zone (FTZ) 49, Notification of Proposed Production Activity; Merck, Sharp & Dohme LLC; (Pharmaceutical Products for Research and Development); Rahway, New Jersey](https://www.federalregister.gov/documents/2025/04/14/2025-06283/foreign-trade-zone-ftz-49-notification-of-proposed-production-activity-merck-sharp-and-dohme-llc) (VERIFIED) (2025-04-14) — Commerce Department
+- [Determination That DECADRON (Dexamethasone Sodium Phosphate) Solution/Drops, Equivalent to 0.1 Percent Phosphate, Was Not Withdrawn From Sale for Reasons of Safety or Effectiveness](https://www.federalregister.gov/documents/2025/04/09/2025-06046/determination-that-decadron-dexamethasone-sodium-phosphate-solutiondrops-equivalent-to-01-percent) (VERIFIED) (2025-04-09) — Health and Human Services Department
 - ... and 667 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Merck%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Merck%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### FTC Enforcement & Merger Review
@@ -307,21 +307,21 @@ The Merck model reveals the pharmaceutical class strategy in its purest form: ex
 
 **Recent enforcement actions (historical):**
 
-- [Merck / Schering-Plough](http://www.ftc.gov/os/caselist/0910075/index.shtm) (2009-10-29) — Health Care � Prescription Drugs
-- [Merck KGaA / Mylan Laboratories, Inc. and Mylan Pharmaceuticals, Inc.](http://www.ftc.gov/os/caselist/0710164/0710164.shtm#http://www.ftc.gov/os/caselist/0710164/0710164.shtm) (2007-09-27) — Health Care � Prescription Drugs
-- [Merck & Co., Inc.](http://www.ftc.gov/os/caselist/c3853.shtm) (1998-08-27) — Health Care � Prescription Drugs
+- [Merck / Schering-Plough](http://www.ftc.gov/os/caselist/0910075/index.shtm) (NEEDS REVIEW) (2009-10-29) — Health Care � Prescription Drugs
+- [Merck KGaA / Mylan Laboratories, Inc. and Mylan Pharmaceuticals, Inc.](http://www.ftc.gov/os/caselist/0710164/0710164.shtm#http://www.ftc.gov/os/caselist/0710164/0710164.shtm) (NEEDS REVIEW) (2007-09-27) — Health Care � Prescription Drugs
+- [Merck & Co., Inc.](http://www.ftc.gov/os/caselist/c3853.shtm) (NEEDS REVIEW) (1998-08-27) — Health Care � Prescription Drugs
 
 **Recent HSR merger filings (early terminations granted):**
 
-- [Merck & Co., Inc. → Cidara Therapeutics, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20260455) (2025-12-19)
-- [Merck & Co., Inc. → Jiangsu Hengrui Pharmaceuticals Co., Ltd.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20251160) (2025-05-20)
-- [Merck & Co., Inc. → OncoImmune, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20210445) (2020-12-16)
-- [Merck & Co., Inc. → Lumos Pharma, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20201328) (2020-08-27)
-- [Merck & Co., Inc. → Themis Bioscience GmbH](https://www.ftc.gov/legal-library/browse/early-termination-notices/20201099) (2020-06-17)
+- [Merck & Co., Inc. → Cidara Therapeutics, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20260455) (VERIFIED) (2025-12-19)
+- [Merck & Co., Inc. → Jiangsu Hengrui Pharmaceuticals Co., Ltd.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20251160) (VERIFIED) (2025-05-20)
+- [Merck & Co., Inc. → OncoImmune, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20210445) (VERIFIED) (2020-12-16)
+- [Merck & Co., Inc. → Lumos Pharma, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20201328) (VERIFIED) (2020-08-27)
+- [Merck & Co., Inc. → Themis Bioscience GmbH](https://www.ftc.gov/legal-library/browse/early-termination-notices/20201099) (VERIFIED) (2020-06-17)
 
-> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Merck).
+> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Merck) (VERIFIED).
 
-- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Merck) (Tier 1)
+- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Merck) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->
 
 ### FDA Enforcement (openFDA)
@@ -355,7 +355,7 @@ The Merck model reveals the pharmaceutical class strategy in its purest form: ex
 
 _Variant firm names in FDA data: Merck Sharp & Dohme LLC; Merck & Co. Inc; MERCK SHARP & DOHME CORP; Merck Sharp & Dohme; Merck Millipore Ltd._
 
-- [Source: openFDA / FDA Enforcement Reports](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?search_api_fulltext=Merck) (Tier 1)
+- [Source: openFDA / FDA Enforcement Reports](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?search_api_fulltext=Merck) (Tier 1) (VERIFIED)
 <!-- auto:fda-enforcement end -->
 
 ### Vehicle Safety (NHTSA)
@@ -373,5 +373,5 @@ _Variant firm names in FDA data: Merck Sharp & Dohme LLC; Merck & Co. Inc; MERCK
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Merck) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Merck) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->

@@ -149,18 +149,18 @@ The analytical pattern is **Revolving Door** plus **Donor-Class Override** in co
 
 ### Sources
 
-- [SEC: Narya Capital fund filings](https://www.sec.gov/cgi-bin/browse-edgar?company=Narya%20Capital&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)
-- [FEC Candidate: Sen. J.D. Vance — Campaign Finance Summary](https://www.fec.gov/data/candidate/S2OH00436/) (Tier 1)
-- [Axios: J.D. Vance launches venture capital fund outside of Silicon Valley (Jan. 9, 2020)](https://www.axios.com/2020/01/09/jd-vance-venture-capital-fund-ohio-silicon-valley-peter-thiel) (Tier 2)
-- [TechCrunch: 'Hillbilly Elegy' author J.D. Vance has raised $93 million for his own Midwestern venture fund (Jan. 9, 2020)](https://techcrunch.com/2020/01/09/hillbilly-elegy-author-j-d-vance-has-raised-93-million-for-his-own-midwestern-venture-fund/) (Tier 2)
-- [Axios: J.D. Vance's short career in venture capital (July 16, 2024)](https://www.axios.com/2024/07/16/jd-vance-venture-capital-career) (Tier 2)
-- [Fast Company: These are the companies JD Vance invested in as a VC (and beyond)](https://www.fastcompany.com/91157500/companies-jd-vance-invested-in-as-a-vc) (Tier 2)
-- [CNN: Workers allege 'nightmare' conditions at AppHarvest, the Kentucky startup JD Vance helped fund (Aug. 13, 2024)](https://www.cnn.com/2024/08/13/politics/kentucky-startup-appharvest-jd-vance/index.html) (Tier 2)
-- [Sludge: Vance Owns Investments in Companies Receiving Defense Contracts (July 10, 2025)](https://readsludge.com/2025/07/10/vance-owns-investments-in-companies-receiving-defense-contracts/) (Tier 2)
-- [True Anomaly: Announcing Our $260M Fundraise](https://www.trueanomaly.space/newsroom/announcing-our-260m-fundraise) (Tier 2)
-- [Jacobin: J.D. Vance Is a 'Populist' Who Is Profiting From a Tax Loophole for the Ultrarich (Aug. 2022)](https://jacobin.com/2022/08/jd-vance-ohio-carried-interest-hedge-fund) (Tier 3)
-- [Common Dreams: 'Self-Enrichment': JD Vance Stands to Profit From Trump Military Contracts, Crypto Reserve](https://www.commondreams.org/news/self-enrichment-jd-vance-stands-to-profit-from-trump-military-contracts-crypto-reserve) (Tier 3)
-- [Ballotpedia: Narya Capital](https://ballotpedia.org/Narya_Capital) (Tier 3)
+- [SEC: Narya Capital fund filings](https://www.sec.gov/cgi-bin/browse-edgar?company=Narya%20Capital&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1) (VERIFIED)
+- [FEC Candidate: Sen. J.D. Vance — Campaign Finance Summary](https://www.fec.gov/data/candidate/S2OH00436/) (Tier 1) (VERIFIED)
+- ~~[Axios: J.D. Vance launches venture capital fund outside of Silicon Valley (Jan. 9, 2020)](https://www.axios.com/2020/01/09/jd-vance-venture-capital-fund-ohio-silicon-valley-peter-thiel)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [TechCrunch: 'Hillbilly Elegy' author J.D. Vance has raised $93 million for his own Midwestern venture fund (Jan. 9, 2020)](https://techcrunch.com/2020/01/09/hillbilly-elegy-author-j-d-vance-has-raised-93-million-for-his-own-midwestern-venture-fund/) (Tier 2) (VERIFIED)
+- [Axios: J.D. Vance's short career in venture capital (July 16, 2024)](https://www.axios.com/2024/07/16/jd-vance-venture-capital-career) (Tier 2) (VERIFIED)
+- ~~[Fast Company: These are the companies JD Vance invested in as a VC (and beyond)](https://www.fastcompany.com/91157500/companies-jd-vance-invested-in-as-a-vc)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [CNN: Workers allege 'nightmare' conditions at AppHarvest, the Kentucky startup JD Vance helped fund (Aug. 13, 2024)](https://www.cnn.com/2024/08/13/politics/kentucky-startup-appharvest-jd-vance/index.html) (Tier 2) (VERIFIED)
+- [Sludge: Vance Owns Investments in Companies Receiving Defense Contracts (July 10, 2025)](https://readsludge.com/2025/07/10/vance-owns-investments-in-companies-receiving-defense-contracts/) (Tier 2) (VERIFIED)
+- [True Anomaly: Announcing Our $260M Fundraise](https://www.trueanomaly.space/newsroom/announcing-our-260m-fundraise) (Tier 2) (VERIFIED)
+- [Jacobin: J.D. Vance Is a 'Populist' Who Is Profiting From a Tax Loophole for the Ultrarich (Aug. 2022)](https://jacobin.com/2022/08/jd-vance-ohio-carried-interest-hedge-fund) (Tier 3) (VERIFIED)
+- [Common Dreams: 'Self-Enrichment': JD Vance Stands to Profit From Trump Military Contracts, Crypto Reserve](https://www.commondreams.org/news/self-enrichment-jd-vance-stands-to-profit-from-trump-military-contracts-crypto-reserve) (Tier 3) (VERIFIED)
+- [Ballotpedia: Narya Capital](https://ballotpedia.org/Narya_Capital) (Tier 3) (VERIFIED)
 
 ---
 
@@ -179,7 +179,7 @@ The analytical pattern is **Revolving Door** plus **Donor-Class Override** in co
 - 2020-12-14 — **425**: 425
 - 2025-10-10 — **EX-4.2**: EXHIBIT 4.2
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Narya%20Capital%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Narya%20Capital%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### DOJ Press Releases

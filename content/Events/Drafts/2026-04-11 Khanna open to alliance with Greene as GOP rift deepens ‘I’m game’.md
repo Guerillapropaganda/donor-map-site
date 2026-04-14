@@ -15,7 +15,7 @@ profiles:
 
 ## Khanna open to alliance with Greene as GOP rift deepens: ‘I’m game’
 
-**Source:** [The Hill](https://thehill.com/homenews/house/5826978-khanna-greene-alliance-trump-iran/)
+**Source:** ~~[The Hill](https://thehill.com/homenews/house/5826978-khanna-greene-alliance-trump-iran/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-11
 
 Rep. Ro Khanna (D-Calif.) on Friday entertained the idea of a partnership with former Georgia Rep. Marjorie Taylor Greene, commending the Republican for speaking out against President Trump’s threats against Iran. “As a human being and as an American citizen, I am relieved that Donald Trump has accepted a ceasefire and withdrawn his threat to…

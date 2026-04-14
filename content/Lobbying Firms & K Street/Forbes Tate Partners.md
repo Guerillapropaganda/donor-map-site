@@ -280,19 +280,19 @@ The PPHC holding company structure adds the final layer: FTP's political access,
 
 ### Sources
 
-- [Senate LDA Filings: Forbes Tate Partners Lobbying Firm Profile — 2025](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA Filings: Forbes Tate Partners Lobbying Firm Profile — 2024](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA Filings: Forbes Tate Partners Lobbyists — 2024](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA Filings: Forbes Tate Partners Issues Lobbied — 2024](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Forbes Tate Partners: Who We Are](https://forbes-tate.com/who-we-are/) (Tier 3)
-- [Forbes Tate Partners: Jeffrey Forbes Bio](https://forbes-tate.com/member/jeffrey-forbes/) (Tier 3)
-- [Forbes Tate Partners: Dan Tate Bio](https://forbes-tate.com/member/dan-tate/) (Tier 3)
-- [PPHC: Dan Tate to Receive 2024 Bryce Harlow Business-Government Relations Award](https://pphcompany.com/dan-tate-co-founder-of-forbes-tate-partners-will-receive-the-bryce-harlow-business-government-relations-award/) (Tier 3)
-- [LegiStorm: Forbes Tate Partners LLC Summary](https://www.legistorm.com/organization/summary/49047/Forbes_Tate_Partners_LLC.html) (Tier 3)
-- [LegiStorm: Jeff Forbes Biography](https://www.legistorm.com/person/bio/123803/Jeffrey_Alan_Forbes.html) (Tier 3)
-- [PR Newswire: Forbes Tate Partners Expands Public Affairs and Advocacy Footprint to the Lone Star State (Oct 2025)](https://www.prnewswire.com/news-releases/forbes-tate-partners-expands-public-affairs-and-advocacy-footprint-to-the-lone-star-state-302584261.html) (Tier 3)
-- [Dallas Innovates: D.C. Public Affairs Firm Forbes Tate Partners Expands to Dallas-Fort Worth (Oct 2025)](https://dallasinnovates.com/d-c-public-affairs-firm-forbes-tate-partners-expands-to-dallas-fort-worth/) (Tier 3)
-- [Forbes Tate Partners/Politico Influence: Former PhRMA lobbyist Scott Olsen lands at Forbes Tate](https://forbes-tate.com/politico-influence-former-phrma-lobbyist-lands-at-forbes-tate/) (Tier 2)
+- [Senate LDA Filings: Forbes Tate Partners Lobbying Firm Profile — 2025](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: Forbes Tate Partners Lobbying Firm Profile — 2024](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: Forbes Tate Partners Lobbyists — 2024](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: Forbes Tate Partners Issues Lobbied — 2024](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Forbes Tate Partners: Who We Are](https://forbes-tate.com/who-we-are/) (Tier 3) (VERIFIED)
+- [Forbes Tate Partners: Jeffrey Forbes Bio](https://forbes-tate.com/member/jeffrey-forbes/) (Tier 3) (VERIFIED)
+- [Forbes Tate Partners: Dan Tate Bio](https://forbes-tate.com/member/dan-tate/) (Tier 3) (VERIFIED)
+- [PPHC: Dan Tate to Receive 2024 Bryce Harlow Business-Government Relations Award](https://pphcompany.com/dan-tate-co-founder-of-forbes-tate-partners-will-receive-the-bryce-harlow-business-government-relations-award/) (Tier 3) (VERIFIED)
+- [LegiStorm: Forbes Tate Partners LLC Summary](https://www.legistorm.com/organization/summary/49047/Forbes_Tate_Partners_LLC.html) (Tier 3) (VERIFIED)
+- [LegiStorm: Jeff Forbes Biography](https://www.legistorm.com/person/bio/123803/Jeffrey_Alan_Forbes.html) (Tier 3) (NEEDS REVIEW)
+- [PR Newswire: Forbes Tate Partners Expands Public Affairs and Advocacy Footprint to the Lone Star State (Oct 2025)](https://www.prnewswire.com/news-releases/forbes-tate-partners-expands-public-affairs-and-advocacy-footprint-to-the-lone-star-state-302584261.html) (Tier 3) (VERIFIED)
+- [Dallas Innovates: D.C. Public Affairs Firm Forbes Tate Partners Expands to Dallas-Fort Worth (Oct 2025)](https://dallasinnovates.com/d-c-public-affairs-firm-forbes-tate-partners-expands-to-dallas-fort-worth/) (Tier 3) (VERIFIED)
+- [Forbes Tate Partners/Politico Influence: Former PhRMA lobbyist Scott Olsen lands at Forbes Tate](https://forbes-tate.com/politico-influence-former-phrma-lobbyist-lands-at-forbes-tate/) (Tier 2) (VERIFIED)
 
 ### Foreign Agent Activity (FARA)
 <!-- auto:fara-foreign-agents start -->
@@ -307,7 +307,7 @@ The PPHC holding company structure adds the final layer: FTP's political access,
 **Foreign principals:**
 - Embassy of Japan (JAPAN)
 
-- [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME,P200_COUNTRY:Forbes%20Tate%20Partners,) (Tier 1)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME,P200_COUNTRY:Forbes%20Tate%20Partners,)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:fara-foreign-agents end -->
 
 ### Federal Court Records (CourtListener)
@@ -325,5 +325,5 @@ The PPHC holding company structure adds the final layer: FTP's political access,
 - Apple Inc. v. Basecamp, LLC (2021) — District Court, N.D. California
 - PG&E Corporation (2019) — United States Bankruptcy Court, N.D. California
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Forbes%20Tate%20Partners%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Forbes%20Tate%20Partners%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->

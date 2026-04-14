@@ -83,9 +83,9 @@ QVT Financial exemplifies how venture capital operators convert business wealth 
 ## Sources
 
 ### Verified
-- [SEC EDGAR: QVT Financial LP filings (SC 13D/13G ownership disclosures)](https://efts.sec.gov/LATEST/search-index?q=%22QVT+Financial%22) (Tier 1)
-- [GLEIF: QVT Financial LP entity registration (LEI 549300JMMSS9C5S2HO30)](https://search.gleif.org/#/record/549300JMMSS9C5S2HO30) (Tier 1)
-- [Forbes: Vivek Ramaswamy wealth and investments](https://www.forbes.com/profile/vivek-ramaswamy/) (Tier 2)
+- [SEC EDGAR: QVT Financial LP filings (SC 13D/13G ownership disclosures)](https://efts.sec.gov/LATEST/search-index?q=%22QVT+Financial%22) (Tier 1) (VERIFIED)
+- [GLEIF: QVT Financial LP entity registration (LEI 549300JMMSS9C5S2HO30)](https://search.gleif.org/#/record/549300JMMSS9C5S2HO30) (Tier 1) (VERIFIED)
+- [Forbes: Vivek Ramaswamy wealth and investments](https://www.forbes.com/profile/vivek-ramaswamy/) (Tier 2) (VERIFIED)
 
 ### Archived
 - ~~[Bloomberg: Ramaswamy and QVT Financial](https://www.bloomberg.com/news/articles/ramaswamy-qvt)~~ (Tier 2, URL likely paywalled/dead, generic Bloomberg path)
@@ -96,7 +96,7 @@ QVT Financial exemplifies how venture capital operators convert business wealth 
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [549300JMMSS9C5S2HO30](https://search.gleif.org/#/record/549300JMMSS9C5S2HO30) |
+| LEI | [549300JMMSS9C5S2HO30](https://search.gleif.org/#/record/549300JMMSS9C5S2HO30) (VERIFIED) |
 | Legal Name | QVT FINANCIAL LP |
 | Jurisdiction | US-DE |
 | Entity Status | ACTIVE |
@@ -104,7 +104,7 @@ QVT Financial exemplifies how venture capital operators convert business wealth 
 | Registration | ISSUED |
 | Last Updated | 2025-11-18T16:05:00Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Vehicle Safety (NHTSA)
@@ -126,7 +126,7 @@ QVT Financial exemplifies how venture capital operators convert business wealth 
 - 2007-12-07 — **SC 13D/A**: SCHEDULE 13D AMENDMENT NO. 3
 - 2006-08-18 — **SC 13D/A**: SCHEDULE 13D AMENDMENT NO.3
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22QVT%20Financial%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22QVT%20Financial%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Federal Register Activity
@@ -138,10 +138,10 @@ QVT Financial exemplifies how venture capital operators convert business wealth 
 | Agencies | Nuclear Regulatory Commission |
 
 **Recent regulatory activity:**
-- [MP Mine Operations, LLC](https://www.federalregister.gov/documents/2020/10/08/2020-22314/mp-mine-operations-llc) (2020-10-08) — Nuclear Regulatory Commission
-- [In the Matter of MP Mine Operations LLC; Order Approving Direct Transfers of Control of Licenses](https://www.federalregister.gov/documents/2017/12/12/2017-26748/in-the-matter-of-mp-mine-operations-llc-order-approving-direct-transfers-of-control-of-licenses) (2017-12-12) — Nuclear Regulatory Commission
+- [MP Mine Operations, LLC](https://www.federalregister.gov/documents/2020/10/08/2020-22314/mp-mine-operations-llc) (VERIFIED) (2020-10-08) — Nuclear Regulatory Commission
+- [In the Matter of MP Mine Operations LLC; Order Approving Direct Transfers of Control of Licenses](https://www.federalregister.gov/documents/2017/12/12/2017-26748/in-the-matter-of-mp-mine-operations-llc-order-approving-direct-transfers-of-control-of-licenses) (VERIFIED) (2017-12-12) — Nuclear Regulatory Commission
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22QVT%20Financial%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22QVT%20Financial%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Federal Court Records (CourtListener)
@@ -160,17 +160,17 @@ QVT Financial exemplifies how venture capital operators convert business wealth 
 - IN RE WELLS FARGO & COMPANY SECURITIES LITIGATION (2020) — District Court, S.D. New York
 - United States v. Litvak (2017) — Court of Appeals for the Second Circuit
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22QVT%20Financial%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22QVT%20Financial%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Wikipedia
 <!-- auto:wikipedia start -->
 | Fact | Value |
 |------|-------|
-| Wikidata ID | [Q104480161](https://www.wikidata.org/wiki/Q104480161) |
+| Wikidata ID | [Q104480161](https://www.wikidata.org/wiki/Q104480161) (VERIFIED) |
 | Description | company in New York, United States |
 | Founded | 2003-01-01 |
-| Website | [https://qvt.com/](https://qvt.com/) |
+| Website | [https://qvt.com/](https://qvt.com/) (VERIFIED) |
 
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q104480161) (Tier 2)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q104480161) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->

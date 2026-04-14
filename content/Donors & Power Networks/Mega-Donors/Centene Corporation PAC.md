@@ -151,15 +151,15 @@ Medicaid funding and managed care policy, ACA marketplace rules, Medicare Advant
 
 ### Sources
 
-- [OpenSecrets: Centene Corp profile — summary](https://www.opensecrets.org/orgs/centene-corp/summary?id=D000024670) (Tier 1)
-- [OpenSecrets: Centene Corp — recipients](https://www.opensecrets.org/orgs/centene-corp/recipients?id=D000024670) (Tier 1)
-- [Senate LDA Filings: Centene Corp — lobbying profile](https://lda.gov/filings/public/filing/search/) (Tier 1)
+- [OpenSecrets: Centene Corp profile — summary](https://www.opensecrets.org/orgs/centene-corp/summary?id=D000024670) (Tier 1) (VERIFIED)
+- [OpenSecrets: Centene Corp — recipients](https://www.opensecrets.org/orgs/centene-corp/recipients?id=D000024670) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: Centene Corp — lobbying profile](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
 - ~~[FollowTheMoney: Centene Corp state contributions](https://www.followthemoney.org/tools/election-overview?eid=528)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
-- [KFF Health News: Centene showers politicians with millions as it courts contracts](https://kffhealthnews.org/news/article/centene-political-donations-medicaid-contracts-overbilling-allegations/) (Tier 2)
-- [KFF Health News: Centene settlements with states still unfinished](https://kffhealthnews.org/news/article/centene-settlements-pbms-medicaid-silence-holdouts-georgia-florida/) (Tier 2)
-- [Missouri Independent: Centene showers politicians with millions](https://missouriindependent.com/2022/11/04/centene-showers-politicians-with-millions-as-it-courts-contracts-settles-overbilling-allegations/) (Tier 2)
-- [Becker's Payer: Centene spent $307M to settle overbilling in 2023](https://www.beckerspayer.com/payer/centene-spent-281m-to-settle-state-overbilling-allegations-in-2023/) (Tier 2)
-- [Fierce Healthcare: Elevance Health, Centene donated to Trump inaugural fund](https://www.fiercehealthcare.com/payers/elevance-health-centene-donated-trump-inaugural-fund) (Tier 2)
+- [KFF Health News: Centene showers politicians with millions as it courts contracts](https://kffhealthnews.org/news/article/centene-political-donations-medicaid-contracts-overbilling-allegations/) (Tier 2) (VERIFIED)
+- [KFF Health News: Centene settlements with states still unfinished](https://kffhealthnews.org/news/article/centene-settlements-pbms-medicaid-silence-holdouts-georgia-florida/) (Tier 2) (VERIFIED)
+- [Missouri Independent: Centene showers politicians with millions](https://missouriindependent.com/2022/11/04/centene-showers-politicians-with-millions-as-it-courts-contracts-settles-overbilling-allegations/) (Tier 2) (VERIFIED)
+- ~~[Becker's Payer: Centene spent $307M to settle overbilling in 2023](https://www.beckerspayer.com/payer/centene-spent-281m-to-settle-state-overbilling-allegations-in-2023/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Fierce Healthcare: Elevance Health, Centene donated to Trump inaugural fund](https://www.fiercehealthcare.com/payers/elevance-health-centene-donated-trump-inaugural-fund) (Tier 2) (VERIFIED)
 
 ---
 

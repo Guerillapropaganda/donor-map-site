@@ -152,9 +152,9 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: UNI
 
 ### Sources
 
-- [OpenSecrets: UNITE HERE 2024 cycle data](https://www.opensecrets.org/orgs/unite-here/summary?id=D000022292) (Tier 1)
-- [UNITE HERE Local 2: SF hotel strike outcomes](https://unitehere.org/affiliates/local-2-san-francisco-and-bay-area/) (Tier 2)
-- [UNITE HERE Local 11: Wage campaigns and Disney bargaining](https://unitehere.org/affiliates/local-11-los-angeles-orange-county-arizona2/) (Tier 2)
+- ~~[OpenSecrets: UNITE HERE 2024 cycle data](https://www.opensecrets.org/orgs/unite-here/summary?id=D000022292)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [UNITE HERE Local 2: SF hotel strike outcomes](https://unitehere.org/affiliates/local-2-san-francisco-and-bay-area/) (Tier 2) (VERIFIED)
+- [UNITE HERE Local 11: Wage campaigns and Disney bargaining](https://unitehere.org/affiliates/local-11-los-angeles-orange-county-arizona2/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -192,7 +192,7 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: UNI
 | BLUE MAJORITY PAC | $20,000 | — |
 | CITIZENS FOR BOYLE | $20,000 | DEM |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=UNITE%20HERE) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=UNITE%20HERE) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### Tax Filings (IRS 990)
@@ -204,14 +204,14 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: UNI
 | IRS Ruling Date | 1998-02-01 |
 | Filings on Record | 0 |
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/352455960) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/352455960) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [54930053JDKWMZI3NN64](https://search.gleif.org/#/record/54930053JDKWMZI3NN64) |
+| LEI | [54930053JDKWMZI3NN64](https://search.gleif.org/#/record/54930053JDKWMZI3NN64) (VERIFIED) |
 | Legal Name | Unite Here Pension Trust Fund |
 | Jurisdiction | CA |
 | Entity Status | ACTIVE |
@@ -219,7 +219,7 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: UNI
 | Registration | LAPSED |
 | Last Updated | 2023-08-08T06:54:30Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Federal Register Activity
@@ -233,15 +233,15 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: UNI
 | Agencies | Commodity Futures Trading Commission, Employment and Training Administration, Environmental Protection Agency, Federal Railroad Administration, Federal Trade Commission, Labor Department, National Labor Relations Board, Occupational Safety and Health Administration +2 more |
 
 **Recent regulatory activity:**
-- [Trade Regulation Rule on Unfair or Deceptive Fees](https://www.federalregister.gov/documents/2025/01/10/2024-30293/trade-regulation-rule-on-unfair-or-deceptive-fees) (2025-01-10) — Federal Trade Commission
-- [Representation-Case Procedures: Election Bars; Proof of Majority Support in Construction Industry Collective-Bargaining Relationships](https://www.federalregister.gov/documents/2024/08/01/2024-16535/representation-case-procedures-election-bars-proof-of-majority-support-in-construction-industry) (2024-08-01) — National Labor Relations Board ★
-- [Improving Protections for Workers in Temporary Agricultural Employment in the United States](https://www.federalregister.gov/documents/2024/04/29/2024-08333/improving-protections-for-workers-in-temporary-agricultural-employment-in-the-united-states) (2024-04-29) — Labor Department ★
-- [Standard for Determining Joint Employer Status](https://www.federalregister.gov/documents/2023/10/27/2023-23573/standard-for-determining-joint-employer-status) (2023-10-27) — National Labor Relations Board ★
-- [Improve Tracking of Workplace Injuries and Illnesses](https://www.federalregister.gov/documents/2023/07/21/2023-15091/improve-tracking-of-workplace-injuries-and-illnesses) (2023-07-21) — Labor Department ★
-- [Representation-Case Procedures: Election Bars; Proof of Majority Support in Construction Industry Collective-Bargaining Relationships](https://www.federalregister.gov/documents/2022/11/04/2022-23823/representation-case-procedures-election-bars-proof-of-majority-support-in-construction-industry) (2022-11-04) — National Labor Relations Board ★
+- [Trade Regulation Rule on Unfair or Deceptive Fees](https://www.federalregister.gov/documents/2025/01/10/2024-30293/trade-regulation-rule-on-unfair-or-deceptive-fees) (VERIFIED) (2025-01-10) — Federal Trade Commission
+- [Representation-Case Procedures: Election Bars; Proof of Majority Support in Construction Industry Collective-Bargaining Relationships](https://www.federalregister.gov/documents/2024/08/01/2024-16535/representation-case-procedures-election-bars-proof-of-majority-support-in-construction-industry) (VERIFIED) (2024-08-01) — National Labor Relations Board ★
+- [Improving Protections for Workers in Temporary Agricultural Employment in the United States](https://www.federalregister.gov/documents/2024/04/29/2024-08333/improving-protections-for-workers-in-temporary-agricultural-employment-in-the-united-states) (VERIFIED) (2024-04-29) — Labor Department ★
+- [Standard for Determining Joint Employer Status](https://www.federalregister.gov/documents/2023/10/27/2023-23573/standard-for-determining-joint-employer-status) (VERIFIED) (2023-10-27) — National Labor Relations Board ★
+- [Improve Tracking of Workplace Injuries and Illnesses](https://www.federalregister.gov/documents/2023/07/21/2023-15091/improve-tracking-of-workplace-injuries-and-illnesses) (VERIFIED) (2023-07-21) — Labor Department ★
+- [Representation-Case Procedures: Election Bars; Proof of Majority Support in Construction Industry Collective-Bargaining Relationships](https://www.federalregister.gov/documents/2022/11/04/2022-23823/representation-case-procedures-election-bars-proof-of-majority-support-in-construction-industry) (VERIFIED) (2022-11-04) — National Labor Relations Board ★
 - ... and 85 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22UNITE%20HERE%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22UNITE%20HERE%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Federal Court Records (CourtListener)
@@ -260,5 +260,5 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: UNI
 - Flying Food Group, LLC v. Unite Here Local 11 (2026) — District Court, C.D. California
 - Unite Here Local 11 v. Thunderbird Legacy Development LLC (2026) — District Court, D. Arizona
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22UNITE%20HERE%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22UNITE%20HERE%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->

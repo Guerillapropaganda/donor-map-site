@@ -182,24 +182,24 @@ The revolving door. Clinton White House to Brennan Center to federal judiciary t
 
 ### Sources
 
-- [ProPublica Nonprofit Explorer: Brennan Center for Justice (EIN 13-3839293)](https://projects.propublica.org/nonprofits/organizations/133839293) (Tier 1)
-- [Brennan Center for Justice: Financial & Legal Information](https://www.brennancenter.org/about/financial-legal-information) (Tier 3)
-- [Brennan Center for Justice: Michael Waldman Leadership Bio](https://www.brennancenter.org/about/leadership/michael-waldman) (Tier 3)
-- [Wikipedia: Brennan Center for Justice](https://en.wikipedia.org/wiki/Brennan_Center_for_Justice) (Tier 3)
-- [MacArthur Foundation: Brennan Center for Justice Grantee Profile](https://www.macfound.org/grantee/brennan-center-for-justice-44759/) (Tier 1)
-- [NBC News: Senate confirms Latina voting expert Myrna Pérez as federal appeals judge](https://www.nbcnews.com/news/latino/senate-confirms-latina-voting-expert-myrna-perez-federal-appeals-judge-rcna3749) (Tier 2)
-- [Wikipedia: Myrna Pérez](https://en.wikipedia.org/wiki/Myrna_P%C3%A9rez) (Tier 3)
-- [Brennan Center: Shelby County v. Holder (Amicus Brief)](https://www.brennancenter.org/our-work/court-cases/shelby-county-v-holder-amicus-brief) (Tier 3)
-- [Brennan Center: History of AVR & Implementation Dates](https://www.brennancenter.org/our-work/research-reports/history-avr-implementation-dates) (Tier 3)
-- [Brennan Center: Announces Two New Board Members (Vanita Gupta)](https://www.brennancenter.org/our-work/research-reports/brennan-center-announces-two-new-board-members) (Tier 3)
-- [Capital Research Center: Dismantling Self-Government. The Brennan Center's Election Fraud Offensive](https://capitalresearch.org/article/dismantling-self-government-the-brennan-centers-election-fraud-offensive/) (Tier 4)
-- [InfluenceWatch: William J. Brennan Center for Justice](https://www.influencewatch.org/non-profit/william-j-brennan-center-for-justice/) (Tier 4)
-- [Wikipedia: Vanita Gupta](https://en.wikipedia.org/wiki/Vanita_Gupta) (Tier 3)
-- [Media Bias/Fact Check: Brennan Center for Justice](https://mediabiasfactcheck.com/brennan-center-for-justice/) (Tier 3)
-- [Open Society Foundations: Awarded Grants. Brennan Center](https://www.opensocietyfoundations.org/grants/past?filter_keyword=brennan+center) (Tier 1)
-- [Brennan Center: Court Strikes Down Key Part of Trump's Unlawful Voting Executive Order, Permanently Blocking Show-Your-Papers Requirement (Oct 2025)](https://www.brennancenter.org/our-work/analysis-opinion/court-strikes-down-key-part-trumps-unlawful-voting-executive-order) (Tier 3)
-- [Brennan Center: Status of Trump's Anti-Voting Executive Order, real-time litigation tracker](https://www.brennancenter.org/our-work/research-reports/status-trumps-anti-voting-executive-order) (Tier 3)
-- [Brennan Center: The Trump Administration's Campaign to Undermine the Next Election (2026)](https://www.brennancenter.org/our-work/research-reports/trump-administrations-campaign-undermine-next-election) (Tier 3)
+- [ProPublica Nonprofit Explorer: Brennan Center for Justice (EIN 13-3839293)](https://projects.propublica.org/nonprofits/organizations/133839293) (Tier 1) (VERIFIED)
+- [Brennan Center for Justice: Financial & Legal Information](https://www.brennancenter.org/about/financial-legal-information) (Tier 3) (VERIFIED)
+- [Brennan Center for Justice: Michael Waldman Leadership Bio](https://www.brennancenter.org/about/leadership/michael-waldman) (Tier 3) (VERIFIED)
+- [Wikipedia: Brennan Center for Justice](https://en.wikipedia.org/wiki/Brennan_Center_for_Justice) (Tier 3) (VERIFIED)
+- [MacArthur Foundation: Brennan Center for Justice Grantee Profile](https://www.macfound.org/grantee/brennan-center-for-justice-44759/) (Tier 1) (VERIFIED)
+- [NBC News: Senate confirms Latina voting expert Myrna Pérez as federal appeals judge](https://www.nbcnews.com/news/latino/senate-confirms-latina-voting-expert-myrna-perez-federal-appeals-judge-rcna3749) (Tier 2) (VERIFIED)
+- [Wikipedia: Myrna Pérez](https://en.wikipedia.org/wiki/Myrna_P%C3%A9rez) (Tier 3) (VERIFIED)
+- [Brennan Center: Shelby County v. Holder (Amicus Brief)](https://www.brennancenter.org/our-work/court-cases/shelby-county-v-holder-amicus-brief) (Tier 3) (VERIFIED)
+- [Brennan Center: History of AVR & Implementation Dates](https://www.brennancenter.org/our-work/research-reports/history-avr-implementation-dates) (Tier 3) (VERIFIED)
+- [Brennan Center: Announces Two New Board Members (Vanita Gupta)](https://www.brennancenter.org/our-work/research-reports/brennan-center-announces-two-new-board-members) (Tier 3) (VERIFIED)
+- [Capital Research Center: Dismantling Self-Government. The Brennan Center's Election Fraud Offensive](https://capitalresearch.org/article/dismantling-self-government-the-brennan-centers-election-fraud-offensive/) (Tier 4) (VERIFIED)
+- [InfluenceWatch: William J. Brennan Center for Justice](https://www.influencewatch.org/non-profit/william-j-brennan-center-for-justice/) (Tier 4) (VERIFIED)
+- [Wikipedia: Vanita Gupta](https://en.wikipedia.org/wiki/Vanita_Gupta) (Tier 3) (VERIFIED)
+- [Media Bias/Fact Check: Brennan Center for Justice](https://mediabiasfactcheck.com/brennan-center-for-justice/) (Tier 3) (VERIFIED)
+- ~~[Open Society Foundations: Awarded Grants. Brennan Center](https://www.opensocietyfoundations.org/grants/past?filter_keyword=brennan+center)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Brennan Center: Court Strikes Down Key Part of Trump's Unlawful Voting Executive Order, Permanently Blocking Show-Your-Papers Requirement (Oct 2025)](https://www.brennancenter.org/our-work/analysis-opinion/court-strikes-down-key-part-trumps-unlawful-voting-executive-order) (Tier 3) (VERIFIED)
+- [Brennan Center: Status of Trump's Anti-Voting Executive Order, real-time litigation tracker](https://www.brennancenter.org/our-work/research-reports/status-trumps-anti-voting-executive-order) (Tier 3) (VERIFIED)
+- [Brennan Center: The Trump Administration's Campaign to Undermine the Next Election (2026)](https://www.brennancenter.org/our-work/research-reports/trump-administrations-campaign-undermine-next-election) (Tier 3) (VERIFIED)
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->
@@ -216,14 +216,14 @@ The revolving door. Clinton White House to Brennan Center to federal judiciary t
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/133839293/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/133839293/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/133839293/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/133839293/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/133839293/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/133839293/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/133839293/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/133839293/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/133839293/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/133839293/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/133839293) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/133839293) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Federal Register Activity
@@ -237,13 +237,13 @@ The revolving door. Clinton White House to Brennan Center to federal judiciary t
 | Agencies | Civil Rights Commission, Defense Department, Federal Election Commission, General Services Administration, National Aeronautics and Space Administration, Small Business Administration |
 
 **Recent regulatory activity:**
-- [Use of Campaign Funds for Candidate and Officeholder Security](https://www.federalregister.gov/documents/2024/09/25/2024-21918/use-of-campaign-funds-for-candidate-and-officeholder-security) (2024-09-25) — Federal Election Commission
-- [Candidate Salaries](https://www.federalregister.gov/documents/2022/12/12/2022-26778/candidate-salaries) (2022-12-12) — Federal Election Commission
-- [Community Advantage Pilot Program](https://www.federalregister.gov/documents/2022/04/29/2022-09162/community-advantage-pilot-program) (2022-04-29) — Small Business Administration
-- [Internet Communication Disclaimers and Definition of “Public Communication”](https://www.federalregister.gov/documents/2018/03/26/2018-06010/internet-communication-disclaimers-and-definition-of-public-communication) (2018-03-26) — Federal Election Commission
-- [Sunshine Act Meeting Notice](https://www.federalregister.gov/documents/2016/03/11/2016-05616/sunshine-act-meeting-notice) (2016-03-11) — Civil Rights Commission
-- [Federal Acquisition Regulation; FAR Case 2007-013, Employment Eligibility Verification](https://www.federalregister.gov/documents/2008/11/14/E8-26904/federal-acquisition-regulation-far-case-2007-013-employment-eligibility-verification) (2008-11-14) — Defense Department ★
+- [Use of Campaign Funds for Candidate and Officeholder Security](https://www.federalregister.gov/documents/2024/09/25/2024-21918/use-of-campaign-funds-for-candidate-and-officeholder-security) (VERIFIED) (2024-09-25) — Federal Election Commission
+- [Candidate Salaries](https://www.federalregister.gov/documents/2022/12/12/2022-26778/candidate-salaries) (VERIFIED) (2022-12-12) — Federal Election Commission
+- [Community Advantage Pilot Program](https://www.federalregister.gov/documents/2022/04/29/2022-09162/community-advantage-pilot-program) (VERIFIED) (2022-04-29) — Small Business Administration
+- [Internet Communication Disclaimers and Definition of “Public Communication”](https://www.federalregister.gov/documents/2018/03/26/2018-06010/internet-communication-disclaimers-and-definition-of-public-communication) (VERIFIED) (2018-03-26) — Federal Election Commission
+- [Sunshine Act Meeting Notice](https://www.federalregister.gov/documents/2016/03/11/2016-05616/sunshine-act-meeting-notice) (VERIFIED) (2016-03-11) — Civil Rights Commission
+- [Federal Acquisition Regulation; FAR Case 2007-013, Employment Eligibility Verification](https://www.federalregister.gov/documents/2008/11/14/E8-26904/federal-acquisition-regulation-far-case-2007-013-employment-eligibility-verification) (VERIFIED) (2008-11-14) — Defense Department ★
 - ... and 7 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Brennan%20Center%20for%20Justice%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Brennan%20Center%20for%20Justice%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->

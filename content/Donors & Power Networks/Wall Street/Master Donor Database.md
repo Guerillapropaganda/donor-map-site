@@ -22,12 +22,12 @@ This vault contains 1,200+ files tracking donors, politicians, PACs, corporation
 
 | Source | Type | Coverage |
 |--------|------|----------|
-| [OpenSecrets](https://www.opensecrets.org/) | Contributions, lobbying, dark money | Comprehensive federal |
-| [FEC](https://www.fec.gov/data/) | Campaign finance filings | Federal candidates, PACs, parties |
-| [FPPC](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) | California political spending | State-level California |
+| [OpenSecrets](https://www.opensecrets.org/) (VERIFIED) | Contributions, lobbying, dark money | Comprehensive federal |
+| [FEC](https://www.fec.gov/data/) (VERIFIED) | Campaign finance filings | Federal candidates, PACs, parties |
+| [FPPC](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (VERIFIED) | California political spending | State-level California |
 | ~~[FollowTheMoney](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=Master%20Donor%20Database#[%7B1%7Cgro=d-id)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) | State-level contributions | All 50 states |
-| [ProPublica](https://projects.propublica.org/nonprofits/) | Nonprofit 990 filings | 501(c)(3) and 501(c)(4) |
-| [USASpending](https://www.usaspending.gov/) | Government contracts | Federal procurement |
+| [ProPublica](https://projects.propublica.org/nonprofits/) (VERIFIED) | Nonprofit 990 filings | 501(c)(3) and 501(c)(4) |
+| [USASpending](https://www.usaspending.gov/) (VERIFIED) | Government contracts | Federal procurement |
 
 ### How to Navigate
 
@@ -40,8 +40,8 @@ This vault contains 1,200+ files tracking donors, politicians, PACs, corporation
 
 ### Sources
 
-- [OpenSecrets: Campaign finance data and lobbying database](https://www.opensecrets.org/) (Tier 1)
-- [FEC: Federal Election Commission disclosure portal](https://www.fec.gov/data/) (Tier 1)
-- [ProPublica: Nonprofit Explorer, 990 filings](https://projects.propublica.org/nonprofits/) (Tier 1)
-- [USASpending: Federal procurement and contract data](https://www.usaspending.gov/) (Tier 1)
+- [OpenSecrets: Campaign finance data and lobbying database](https://www.opensecrets.org/) (Tier 1) (VERIFIED)
+- [FEC: Federal Election Commission disclosure portal](https://www.fec.gov/data/) (Tier 1) (VERIFIED)
+- [ProPublica: Nonprofit Explorer, 990 filings](https://projects.propublica.org/nonprofits/) (Tier 1) (VERIFIED)
+- [USASpending: Federal procurement and contract data](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 

@@ -217,42 +217,42 @@ The clearest evidence: across 35 revolving door movements tracked here, spanning
 *(All sources from previously Chrome-verified think tank profiles in this vault. No new sources added — this analysis cross-references data established in individual profiles.)*
 
 ### Heritage Foundation / Project 2025:
-- [Revolving Door Project: Former Trump Officials Wrote 25 of the 30 Chapters in the Project 2025 Playbook](https://therevolvingdoorproject.org/former-trump-officials-wrote-25-of-the-30-chapters-in-the-project-2025-playbook/) (Tier 2)
-- [19th News: How Much of Project 2025 Has Been Implemented?](https://19thnews.org/2025/12/project-2025-heritage-foundation-progress/) (Tier 2)
+- [Revolving Door Project: Former Trump Officials Wrote 25 of the 30 Chapters in the Project 2025 Playbook](https://therevolvingdoorproject.org/former-trump-officials-wrote-25-of-the-30-chapters-in-the-project-2025-playbook/) (Tier 2) (VERIFIED)
+- ~~[19th News: How Much of Project 2025 Has Been Implemented?](https://19thnews.org/2025/12/project-2025-heritage-foundation-progress/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ### Federalist Society / Leonard Leo:
-- [ProPublica: We Don't Talk About Leonard — Leo and the Supreme Court Supermajority](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2)
-- [ProPublica: How a Secretive Billionaire Handed His Fortune to Leo](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (Tier 2)
+- [ProPublica: We Don't Talk About Leonard — Leo and the Supreme Court Supermajority](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2) (VERIFIED)
+- [ProPublica: How a Secretive Billionaire Handed His Fortune to Leo](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (Tier 2) (VERIFIED)
 
 ### Center for American Progress:
-- [ProPublica Nonprofit Explorer: Center for American Progress Action Fund](https://projects.propublica.org/nonprofits/organizations/431501265) *(source unavailable)* (Tier 1)
+- ~~[ProPublica Nonprofit Explorer: Center for American Progress Action Fund](https://projects.propublica.org/nonprofits/organizations/431501265)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 1)
 
 ### Brookings Institution:
-- [ProPublica: Brookings Institution revolving door documentation](https://projects.propublica.org/nonprofits/organizations/530196577) (Tier 1)
+- [ProPublica: Brookings Institution revolving door documentation](https://projects.propublica.org/nonprofits/organizations/530196577) (Tier 1) (VERIFIED)
 
 ### Council on Foreign Relations:
-- [CFR: About CFR — membership and history](https://www.cfr.org/about) (Tier 3)
-- [ProPublica Nonprofit Explorer: Council on Foreign Relations](https://projects.propublica.org/nonprofits/organizations/131628168) (Tier 1)
+- [CFR: About CFR — membership and history](https://www.cfr.org/about) (Tier 3) (VERIFIED)
+- [ProPublica Nonprofit Explorer: Council on Foreign Relations](https://projects.propublica.org/nonprofits/organizations/131628168) (Tier 1) (VERIFIED)
 
 ### CNAS — Biden placements:
-- [CNAS: Experts and Alumni Selected for Senior Leadership Positions in the Biden Administration](https://www.cnas.org/press/press-release/cnas-experts-and-alumni-selected-for-senior-leadership-positions-in-the-biden-administration) (Tier 3)
+- [CNAS: Experts and Alumni Selected for Senior Leadership Positions in the Biden Administration](https://www.cnas.org/press/press-release/cnas-experts-and-alumni-selected-for-senior-leadership-positions-in-the-biden-administration) (Tier 3) (VERIFIED)
 
 ### Mercatus revolving door:
-- [Inside Higher Ed: Koch agreements with George Mason gave foundation role in faculty hiring](https://www.insidehighered.com/news/2018/05/01/koch-agreements-george-mason-gave-foundation-role-faculty-hiring-and-oversight) (Tier 2)
-- [SourceWatch: Mercatus Center](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Mercatus_Center) (Tier 3)
+- [Inside Higher Ed: Koch agreements with George Mason gave foundation role in faculty hiring](https://www.insidehighered.com/news/2018/05/01/koch-agreements-george-mason-gave-foundation-role-faculty-hiring-and-oversight) (Tier 2) (VERIFIED)
+- ~~[SourceWatch: Mercatus Center](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Mercatus_Center)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
 
 ### RAND Corporation:
-- [ProPublica Nonprofit Explorer: RAND Corporation](https://projects.propublica.org/nonprofits/organizations/951098605) *(source unavailable)* (Tier 1)
-- [Quincy Institute: Think Tank Funding and U.S. Foreign Policy](https://responsiblestatecraft.org/2020/05/20/think-tank-funding-and-u-s-foreign-policy/) *(source unavailable)* (Tier 2)
+- ~~[ProPublica Nonprofit Explorer: RAND Corporation](https://projects.propublica.org/nonprofits/organizations/951098605)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 1)
+- ~~[Quincy Institute: Think Tank Funding and U.S. Foreign Policy](https://responsiblestatecraft.org/2020/05/20/think-tank-funding-and-u-s-foreign-policy/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
 
 ### Hudson Institute:
-- [ProPublica Trump Town: Hudson Institute revolving door documentation](https://projects.propublica.org/trump-town/) (Tier 1)
+- [ProPublica Trump Town: Hudson Institute revolving door documentation](https://projects.propublica.org/trump-town/) (Tier 1) (VERIFIED)
 
 ### Atlantic Council:
-- [ProPublica Nonprofit Explorer: Atlantic Council of the United States](https://projects.propublica.org/nonprofits/organizations/520981423) *(source unavailable)* (Tier 1)
+- ~~[ProPublica Nonprofit Explorer: Atlantic Council of the United States](https://projects.propublica.org/nonprofits/organizations/520981423)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 1)
 
 ### AEI revolving door:
-- [ProPublica Trump Town: AEI government placements](https://projects.propublica.org/trump-town/) (Tier 1)
+- [ProPublica Trump Town: AEI government placements](https://projects.propublica.org/trump-town/) (Tier 1) (VERIFIED)
 
 ### Structural analysis:
 - [Quincy Institute: Think Tank Funding and U.S. Foreign Policy](https://responsiblestatecraft.org/2020/05/20/think-tank-funding-and-u-s-foreign-policy/) *(source unavailable)* (Tier 2)

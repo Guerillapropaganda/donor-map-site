@@ -214,13 +214,13 @@ Hawaii's unique healthcare context makes the class analysis structural rather th
 
 ## Sources
 
-- [OpenSecrets: Josh Green donor profile](https://www.opensecrets.org/members-of-congress/) (Tier 1 — Hawaii statewide) (Tier 1)
-- [Governor Hawaii: Gov. Green Renews Commitment to House FEMA-Ineligible Maui Wildfire Survivors](https://governor.hawaii.gov/featured/gov-green-renews-commitment-to-house-fema-ineligible-maui-wildfire-survivors/) (Tier 1)
-- [Hawaii News Now: Gov. Green announces $4 billion settlement for Maui wildfires](https://www.hawaiinewsnow.com/2024/08/03/gov-green-announces-historic-4-billion-settlement-maui-wildfire-anniversary-nears/) (Tier 2)
-- [NPR: Hawaii governor vows to block land grabs as fire-ravaged Maui rebuilds](https://www.npr.org/2023/08/17/1194351587/hawaii-governor-vows-to-block-land-grabs-as-fire-ravaged-maui-rebuilds) (Tier 2)
-- [Governing: Gov. Josh Green Reflects on Maui Wildfires a Year Later](https://www.governing.com/resilience/gov-josh-green-reflects-on-maui-wildfires-a-year-later) (Tier 2)
-- [Associated Press: Hawaii Gov. Josh Green tells AP $4B settlement for 2023 Maui wildfire](https://www.hawaiinewsnow.com/2024/08/03/gov-green-announces-historic-4-billion-settlement-maui-wildfire-anniversary-nears/) (Tier 2)
-- [Maui Now: Gov. Green Renews Commitment with 450-unit Ka La'i Ola project](https://mauinow.com/2024/04/23/gov-green-renews-commitment-to-house-fema-ineligible-maui-wildfire-survivors/ble-maui-wildfire-survivors-with-450-unit-ka-lai-ola-project/) (Tier 2)
+- [OpenSecrets: Josh Green donor profile](https://www.opensecrets.org/members-of-congress/) (VERIFIED) (Tier 1 — Hawaii statewide) (Tier 1)
+- [Governor Hawaii: Gov. Green Renews Commitment to House FEMA-Ineligible Maui Wildfire Survivors](https://governor.hawaii.gov/featured/gov-green-renews-commitment-to-house-fema-ineligible-maui-wildfire-survivors/) (Tier 1) (VERIFIED)
+- [Hawaii News Now: Gov. Green announces $4 billion settlement for Maui wildfires](https://www.hawaiinewsnow.com/2024/08/03/gov-green-announces-historic-4-billion-settlement-maui-wildfire-anniversary-nears/) (Tier 2) (VERIFIED)
+- [NPR: Hawaii governor vows to block land grabs as fire-ravaged Maui rebuilds](https://www.npr.org/2023/08/17/1194351587/hawaii-governor-vows-to-block-land-grabs-as-fire-ravaged-maui-rebuilds) (Tier 2) (VERIFIED)
+- [Governing: Gov. Josh Green Reflects on Maui Wildfires a Year Later](https://www.governing.com/resilience/gov-josh-green-reflects-on-maui-wildfires-a-year-later) (Tier 2) (VERIFIED)
+- [Associated Press: Hawaii Gov. Josh Green tells AP $4B settlement for 2023 Maui wildfire](https://www.hawaiinewsnow.com/2024/08/03/gov-green-announces-historic-4-billion-settlement-maui-wildfire-anniversary-nears/) (Tier 2) (VERIFIED)
+- ~~[Maui Now: Gov. Green Renews Commitment with 450-unit Ka La'i Ola project](https://mauinow.com/2024/04/23/gov-green-renews-commitment-to-house-fema-ineligible-maui-wildfire-survivors/ble-maui-wildfire-survivors-with-450-unit-ka-lai-ola-project/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ## Committee Assignments (Congress.gov)
 
@@ -229,5 +229,5 @@ Hawaii's unique healthcare context makes the class analysis structural rather th
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Josh Green](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: Josh Green](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->

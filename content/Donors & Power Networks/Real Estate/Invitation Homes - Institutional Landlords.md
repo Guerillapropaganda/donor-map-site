@@ -180,21 +180,21 @@ The PE landlord bloc's success in blocking 15+ major federal/state rent protecti
 
 ### Sources
 
-- [Invitation Homes 10-K and Q4 2025 earnings](https://www.businesswire.com/news/home/20260218809149/en/Invitation-Homes-Reports-Fourth-Quarter-and-Full-Year-2025-Results) (Tier 1) (UNVERIFIED)
-- [Yahoo Finance: Invitation Homes portfolio reports](https://finance.yahoo.com/news/invitation-homes-reports-fourth-quarter-211500088.html) (Tier 1) (UNVERIFIED)
-- [ACCE Institute: Helter Shelter—How Blackstone contributes to and profits from California's housing crisis](https://www.acceinstitute.org/helter_shelter_how_blackstone_contributes_to_and_profits_from_california_s_broken_housing_system) (Tier 2)
-- [PESP: National Rental Home Council report—How America's largest single-family landlords put profit over people](https://pestakeholder.org/reports/the-national-rental-home-council-how-americas-largest-single-family-landlords-put-profit-over-people/) (Tier 2)
-- [PESP: Manufactured Housing Tracker—PE-GSE financing disparity analysis](https://pestakeholder.org/news/concerns-surround-appointment-of-private-equity-insider-to-head-up-federal-housing-finance-agency/) (Tier 2)
-- [Politico: Single-family rentals group hires theGROUP D.C.—Sudafi Henry hire](https://www.politico.com/newsletters/politico-influence/2023/12/13/single-family-rentals-group-hires-thegroup-00131647) (Tier 2) (UNVERIFIED)
-- [Senate LDA Filings: Federal lobbying by real estate industry and trade associations](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [FEC Receipts: Real estate industry lobbying ecosystem 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- [Congress.gov: Stop Wall Street Landlords Act](https://www.congress.gov/bill/118th-congress/senate-bill/2224) (Tier 1)
-- [Federal Reserve: Institutional investment in single-family housing](https://www.federalreserve.gov/econres/notes/feds-notes/institutional-investors-single-family-housing.html) (Tier 1)
-- [ProPublica: When Private Equity Becomes Your Landlord](https://www.propublica.org/article/when-private-equity-becomes-your-landlord) (Tier 2)
-- [Washington Post: Global investors profited from U.S. rental homes, foreclosure crisis](https://www.washingtonpost.com/business/interactive/2021/investors-rental-foreclosure/) (Tier 2)
-- [Ballotpedia: Corporate homebuying legislation](https://ballotpedia.org/Corporate_homebuying) (Tier 3)
-- [National Mortgage Professional: Housing shake-up—HUD and FHFA slash staff](https://nationalmortgageprofessional.com/news/housing-shake-hud-and-fhfa-slash-staff-close-offices) (Tier 2) (UNVERIFIED)
-- [SEC: Invitation Homes 10-K filing](https://www.sec.gov/cgi-bin/browse-edgar?company=invitation+homes&CIK=&type=10-K) (Tier 1)
+- [Invitation Homes 10-K and Q4 2025 earnings](https://www.businesswire.com/news/home/20260218809149/en/Invitation-Homes-Reports-Fourth-Quarter-and-Full-Year-2025-Results) (Tier 1) (VERIFIED) (UNVERIFIED)
+- [Yahoo Finance: Invitation Homes portfolio reports](https://finance.yahoo.com/news/invitation-homes-reports-fourth-quarter-211500088.html) (Tier 1) (VERIFIED) (UNVERIFIED)
+- [ACCE Institute: Helter Shelter—How Blackstone contributes to and profits from California's housing crisis](https://www.acceinstitute.org/helter_shelter_how_blackstone_contributes_to_and_profits_from_california_s_broken_housing_system) (Tier 2) (VERIFIED)
+- [PESP: National Rental Home Council report—How America's largest single-family landlords put profit over people](https://pestakeholder.org/reports/the-national-rental-home-council-how-americas-largest-single-family-landlords-put-profit-over-people/) (Tier 2) (VERIFIED)
+- [PESP: Manufactured Housing Tracker—PE-GSE financing disparity analysis](https://pestakeholder.org/news/concerns-surround-appointment-of-private-equity-insider-to-head-up-federal-housing-finance-agency/) (Tier 2) (VERIFIED)
+- [Politico: Single-family rentals group hires theGROUP D.C.—Sudafi Henry hire](https://www.politico.com/newsletters/politico-influence/2023/12/13/single-family-rentals-group-hires-thegroup-00131647) (Tier 2) (VERIFIED) (UNVERIFIED)
+- [Senate LDA Filings: Federal lobbying by real estate industry and trade associations](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [FEC Receipts: Real estate industry lobbying ecosystem 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
+- [Congress.gov: Stop Wall Street Landlords Act](https://www.congress.gov/bill/118th-congress/senate-bill/2224) (Tier 1) (VERIFIED)
+- ~~[Federal Reserve: Institutional investment in single-family housing](https://www.federalreserve.gov/econres/notes/feds-notes/institutional-investors-single-family-housing.html)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [ProPublica: When Private Equity Becomes Your Landlord](https://www.propublica.org/article/when-private-equity-becomes-your-landlord) (Tier 2) (VERIFIED)
+- [Washington Post: Global investors profited from U.S. rental homes, foreclosure crisis](https://www.washingtonpost.com/business/interactive/2021/investors-rental-foreclosure/) (Tier 2) (VERIFIED)
+- [Ballotpedia: Corporate homebuying legislation](https://ballotpedia.org/Corporate_homebuying) (Tier 3) (VERIFIED)
+- [National Mortgage Professional: Housing shake-up—HUD and FHFA slash staff](https://nationalmortgageprofessional.com/news/housing-shake-hud-and-fhfa-slash-staff-close-offices) (Tier 2) (VERIFIED) (UNVERIFIED)
+- [SEC: Invitation Homes 10-K filing](https://www.sec.gov/cgi-bin/browse-edgar?company=invitation+homes&CIK=&type=10-K) (Tier 1) (VERIFIED)
 
 ---
 
@@ -224,7 +224,7 @@ The PE landlord bloc's success in blocking 15+ major federal/state rent protecti
 |------------------|--------|--------|
 | Unknown | $1009778941.6B | 50 |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Invitation%20Homes%20-%20Institutional%20Landlords) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Invitation%20Homes%20-%20Institutional%20Landlords) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Lobbying Activity
@@ -243,5 +243,5 @@ The PE landlord bloc's success in blocking 15+ major federal/state rent protecti
 
 **Agencies contacted:** Council of Economic Advisers (CEA), Federal Housing Finance Agency (FHFA), HOUSE OF REPRESENTATIVES, Housing & Urban Development, Dept of (HUD), Office of Management & Budget (OMB), Office of the Vice President of the United States, SENATE
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Invitation%20Homes%20-%20Institutional%20Landlords) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Invitation%20Homes%20-%20Institutional%20Landlords) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->

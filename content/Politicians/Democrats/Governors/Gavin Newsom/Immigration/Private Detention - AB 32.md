@@ -88,11 +88,11 @@ The distinction matters: AB 32 was a genuine hit on the private prison industry 
 
 ### Sources
 
-- [California Legislative Information: AB 32 text](https://leginfo.legislature.ca.gov/faces/home.xhtml?bill_id=201920200AB32) (Tier 1)
-- [CalMatters: Gov. Newsom can protect Californians by closing private prisons](https://calmatters.org/commentary/2019/09/gov-newsom-can-protect-californians-by-closing-private-prisons/) (Tier 2)
-- [ACLU Southern California: Private detention in California post-AB 32](https://www.aclusocal.org/en/campaigns/end-ice-detention-california) *(source unavailable)* (Tier 2)
-- [Ninth Circuit: US v. California (AB 32 preemption ruling 2022)](https://cdn.ca9.uscourts.gov/datastore/opinions/2022/04/15/20-16496.pdf) *(source unavailable)* (Tier 1)
-- [GEO Group: 2019 SEC filing on AB 32 impact](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1086236) (Tier 1)
-- [California Department of Corrections: AB 32 implementation status (2025)](https://web.archive.org/web/2023/https:/www.cdcr.ca.gov/ab-32-status) (Tier 1)
-- [University of California Davis: Private Prison Litigation and Immigration Detention (2023 legal analysis)](https://law.ucdavis.edu/2023-california-private-detention-ruling) (Tier 2)
+- [California Legislative Information: AB 32 text](https://leginfo.legislature.ca.gov/faces/home.xhtml?bill_id=201920200AB32) (Tier 1) (VERIFIED)
+- [CalMatters: Gov. Newsom can protect Californians by closing private prisons](https://calmatters.org/commentary/2019/09/gov-newsom-can-protect-californians-by-closing-private-prisons/) (Tier 2) (VERIFIED)
+- ~~[ACLU Southern California: Private detention in California post-AB 32](https://www.aclusocal.org/en/campaigns/end-ice-detention-california)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+- ~~[Ninth Circuit: US v. California (AB 32 preemption ruling 2022)](https://cdn.ca9.uscourts.gov/datastore/opinions/2022/04/15/20-16496.pdf)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 1)
+- [GEO Group: 2019 SEC filing on AB 32 impact](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1086236) (Tier 1) (NEEDS REVIEW)
+- ~~[California Department of Corrections: AB 32 implementation status (2025)](https://web.archive.org/web/2023/https:/www.cdcr.ca.gov/ab-32-status)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[University of California Davis: Private Prison Litigation and Immigration Detention (2023 legal analysis)](https://law.ucdavis.edu/2023-california-private-detention-ruling)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 

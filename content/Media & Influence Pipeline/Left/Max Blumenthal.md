@@ -38,7 +38,7 @@ The Grayzone operates on stated Patreon model: crowdfunded through patron subscr
 
 No FEC individual contributions found. The FEC API returns 0 results for "BLUMENTHAL, MAX" — confirmed no contributions. Blumenthal's political influence operates entirely through media commentary rather than campaign finance.
 
-- [FEC: Max Blumenthal individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=BLUMENTHAL%2C+MAX) (Tier 1)
+- [FEC: Max Blumenthal individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=BLUMENTHAL%2C+MAX) (Tier 1) (VERIFIED)
 
 ### Who Funds Them
 
@@ -98,10 +98,10 @@ The structural problem: Blumenthal's funding is opaque. Patreon revenue is publi
 
 ### Sources
 
-- [Max Blumenthal — Wikipedia](https://en.wikipedia.org/wiki/Max_Blumenthal) (Tier 2)
-- [The Grayzone — Wikipedia](https://en.wikipedia.org/wiki/The_Grayzone) (Tier 2)
-- [The Grayzone — SourceWatch](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/The_Grayzone) (Tier 2)
-- [Public Mistrust of Gaza Coverage Is Opening Space for Russia-Linked Media on the Left — New Lines Magazine](https://newlinesmag.com/argument/public-mistrust-of-gaza-coverage-is-opening-space-for-russia-linked-media-on-the-left/) (Tier 2)
-- [*Goliath: Life and Loathing in Greater Israel* — Nation Books Publishing](https://typemediacenter.org/books/goliath/) (Tier 2)
-- [Institute for Strategic Dialogue — Grayzone Analysis](https://www.isdglobal.org/) (Tier 2)
+- [Max Blumenthal — Wikipedia](https://en.wikipedia.org/wiki/Max_Blumenthal) (Tier 2) (VERIFIED)
+- [The Grayzone — Wikipedia](https://en.wikipedia.org/wiki/The_Grayzone) (Tier 2) (VERIFIED)
+- ~~[The Grayzone — SourceWatch](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/The_Grayzone)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Public Mistrust of Gaza Coverage Is Opening Space for Russia-Linked Media on the Left — New Lines Magazine](https://newlinesmag.com/argument/public-mistrust-of-gaza-coverage-is-opening-space-for-russia-linked-media-on-the-left/) (Tier 2) (VERIFIED)
+- [*Goliath: Life and Loathing in Greater Israel* — Nation Books Publishing](https://typemediacenter.org/books/goliath/) (Tier 2) (VERIFIED)
+- [Institute for Strategic Dialogue — Grayzone Analysis](https://www.isdglobal.org/) (Tier 2) (VERIFIED)
 

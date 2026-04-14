@@ -23,20 +23,20 @@ donors: [[Senate Majority PAC]] [[DSCC - Democratic Senatorial Campaign Committe
 
 ### Tier 1: Direct Campaign Contributions (Grassroots Appearance)
 
-Osborn's direct fundraising in 2024 showed strong numbers on the surface: over $1 million from 17,000+ donors with an average contribution of $43.46. [Source: Nebraska Examiner](https://nebraskaexaminer.com/2025/10/02/dan-osborn-raises-more-than-1-million-for-second-nebraska-u-s-senate-race-against-ricketts/) (Tier 2). This creates the narrative of a grassroots, working-class funded campaign, exactly what his brand requires.
+Osborn's direct fundraising in 2024 showed strong numbers on the surface: over $1 million from 17,000+ donors with an average contribution of $43.46. [Source: Nebraska Examiner](https://nebraskaexaminer.com/2025/10/02/dan-osborn-raises-more-than-1-million-for-second-nebraska-u-s-senate-race-against-ricketts/) (Tier 2) (VERIFIED). This creates the narrative of a grassroots, working-class funded campaign, exactly what his brand requires.
 
-However, geographic analysis reveals the illusion: of $1 million+ raised from individual donors, just four percent came from Nebraska residents. [Source: Free Beacon](https://freebeacon.com/elections/independent-nebraska-senate-candidate-dan-osborns-latest-financial-disclosures-show-nearly-400000-raised-from-roughly-200-donors-six-are-nebraskans/) (Tier 2). The majority came from California, New York, Massachusetts, and Washington, D.C. the exact geographic centers of Democratic wealth that Osborn rhetorically opposes as "special interests." The average $43.46 donation masks that these funds are funneled through [[ActBlue|ActBlue]], the Democratic Party's online fundraising platform, which bundles small donations from wealthy Democratic networks.
+However, geographic analysis reveals the illusion: of $1 million+ raised from individual donors, just four percent came from Nebraska residents. [Source: Free Beacon](https://freebeacon.com/elections/independent-nebraska-senate-candidate-dan-osborns-latest-financial-disclosures-show-nearly-400000-raised-from-roughly-200-donors-six-are-nebraskans/) (Tier 2) (VERIFIED). The majority came from California, New York, Massachusetts, and Washington, D.C. the exact geographic centers of Democratic wealth that Osborn rhetorically opposes as "special interests." The average $43.46 donation masks that these funds are funneled through [[ActBlue|ActBlue]], the Democratic Party's online fundraising platform, which bundles small donations from wealthy Democratic networks.
 
 > [!money]
 > Osborn raised $1,000,000+ in direct contributions (2024), but 96% came from out-of-state Democratic donors channeled through [[ActBlue|ActBlue]]. Only 4% came from Nebraska. This contradicts his "grassroots working class" narrative, his actual funding base is wealthy out-of-state Democrats.
 
 ### Tier 2: DSCC Direct Support
 
-The Democratic Senatorial Campaign Committee, [[_Chuck Schumer Master Profile|Chuck Schumer]]'s party operation, contributed $57,800 directly to Osborn's campaign in the final weeks before the 2024 election. [Source: FEC data](https://www.fec.gov/data/candidate/S4NE00207/) (Tier 1). This represents party establishment choosing to invest directly in Osborn's campaign despite his "independent" positioning. The timing, late October/early November, shows the DSCC deploying capital when turnout operations matter most.
+The Democratic Senatorial Campaign Committee, [[_Chuck Schumer Master Profile|Chuck Schumer]]'s party operation, contributed $57,800 directly to Osborn's campaign in the final weeks before the 2024 election. [Source: FEC data](https://www.fec.gov/data/candidate/S4NE00207/) (Tier 1) (VERIFIED). This represents party establishment choosing to invest directly in Osborn's campaign despite his "independent" positioning. The timing, late October/early November, shows the DSCC deploying capital when turnout operations matter most.
 
 ### Tier 3: [[Senate Majority PAC|Senate Majority PAC]] and the Real Firepower
 
-The [[Senate Majority PAC|Senate Majority PAC]], the primary super PAC funded by [[_Chuck Schumer Master Profile|Chuck Schumer]] and Senate Democrats, spent $3.85 million supporting Osborn's 2024 campaign. [Source: Fox News](https://www.foxnews.com/politics/senate-hopeful-deep-dem-ties-has-paid-family-over-350k-from-his-campaign-coffers) (Tier 2). This is the defining feature of Osborn's campaign: his actual political firepower comes from Democratic establishment super PAC spending, not from grassroots fundraising or independent wealth. The $1 million+ in direct contributions was supplemented by nearly four times that amount in independent expenditures by Democratic leadership.
+The [[Senate Majority PAC|Senate Majority PAC]], the primary super PAC funded by [[_Chuck Schumer Master Profile|Chuck Schumer]] and Senate Democrats, spent $3.85 million supporting Osborn's 2024 campaign. [Source: Fox News](https://www.foxnews.com/politics/senate-hopeful-deep-dem-ties-has-paid-family-over-350k-from-his-campaign-coffers) (Tier 2) (VERIFIED). This is the defining feature of Osborn's campaign: his actual political firepower comes from Democratic establishment super PAC spending, not from grassroots fundraising or independent wealth. The $1 million+ in direct contributions was supplemented by nearly four times that amount in independent expenditures by Democratic leadership.
 
 For comparison: Osborn's entire direct fundraising ($1M) was dwarfed by [[Senate Majority PAC|Senate Majority PAC]]'s spending ($3.85M). This makes him functionally a Democratic machine candidate dressed in an "independent" label.
 
@@ -45,13 +45,13 @@ For comparison: Osborn's entire direct fundraising ($1M) was dwarfed by [[Senate
 
 ### Tier 4: Family Payments and Campaign Self-Dealing
 
-Across both his 2024 campaign and 2026 campaign cycle, Osborn, his wife, daughter, and sister-in-law have received over $370,000 in payments from his campaign committee and the Working Class Heroes Fund. [Source: Fox News](https://www.foxnews.com/politics/senate-hopeful-deep-dem-ties-has-paid-family-over-350k-from-his-campaign-coffers) (Tier 2). His wife has received at least $246,000 directly from the campaign and the Working Class Heroes Fund. [Source: Patriot Fetch](https://patriotfetch.com/2026/02/dan-osborn-campaign-financing-controversy-nebraska-2026/) (Tier 4). His wife previously managed an Omaha sports pub, giving her campaign employment (event coordination, media production, etc.) that feeds money back to family.
+Across both his 2024 campaign and 2026 campaign cycle, Osborn, his wife, daughter, and sister-in-law have received over $370,000 in payments from his campaign committee and the Working Class Heroes Fund. [Source: Fox News](https://www.foxnews.com/politics/senate-hopeful-deep-dem-ties-has-paid-family-over-350k-from-his-campaign-coffers) (Tier 2). His wife has received at least $246,000 directly from the campaign and the Working Class Heroes Fund. [Source: Patriot Fetch](https://patriotfetch.com/2026/02/dan-osborn-campaign-financing-controversy-nebraska-2026/) (Tier 4) (VERIFIED). His wife previously managed an Omaha sports pub, giving her campaign employment (event coordination, media production, etc.) that feeds money back to family.
 
 This pattern, campaign funds flowing to family members, is not unique to Osborn but is particularly hypocritical given his anti-corruption messaging. He campaigns as a working-class champion fighting against political corruption and self-dealing, while his own campaign structure creates a family income stream from donor money.
 
 ### The Working Class Heroes Fund and Infrastructure Laundering
 
-In November 2024, after his 2024 loss, Osborn founded the Working Class Heroes Fund, a hybrid PAC designed to support working-class candidates for office. [Source: Nebraska Public Media](https://nebraskapublicmedia.org/es/news/news-articles/dan-osborn-launches-political-action-committee-to-help-working-class-candidates/) (Tier 2). The PAC's stated mission is to fund plumbers, carpenters, teachers, nurses, and factory workers to run for office, emphasizing union membership and working-class backgrounds.
+In November 2024, after his 2024 loss, Osborn founded the Working Class Heroes Fund, a hybrid PAC designed to support working-class candidates for office. [Source: Nebraska Public Media](https://nebraskapublicmedia.org/es/news/news-articles/dan-osborn-launches-political-action-committee-to-help-working-class-candidates/) (Tier 2) (VERIFIED). The PAC's stated mission is to fund plumbers, carpenters, teachers, nurses, and factory workers to run for office, emphasizing union membership and working-class backgrounds.
 
 However, the PAC also serves as a channel for funds to flow to Osborn's own family members. The Working Class Heroes Fund paid Osborn's wife $246,000+ across the cycle. This laundering of funds through a "workers' rights" PAC while paying family members exemplifies the self-dealing disguised by anti-establishment rhetoric.
 
@@ -60,7 +60,7 @@ However, the PAC also serves as a channel for funds to flow to Osborn's own fami
 
 ### 2026 Funding Trajectory and Democratic Re-Establishment
 
-For 2026, Osborn has again raised over $1 million, with continued support from Senate Majority PAC and Democratic infrastructure. [Source: Nebraska Examiner (2025)](https://nebraskaexaminer.com/2025/10/02/dan-osborn-raises-more-than-1-million-for-second-nebraska-u-s-senate-race-against-ricketts/) (Tier 2). The funding model remains identical: direct contributions create the grassroots narrative, while Democratic super PACs provide the real firepower. This ensures Osborn's candidacy remains viable and well-funded regardless of actual grassroots support in Nebraska.
+For 2026, Osborn has again raised over $1 million, with continued support from Senate Majority PAC and Democratic infrastructure. [Source: Nebraska Examiner (2025)](https://nebraskaexaminer.com/2025/10/02/dan-osborn-raises-more-than-1-million-for-second-nebraska-u-s-senate-race-against-ricketts/) (Tier 2) (VERIFIED). The funding model remains identical: direct contributions create the grassroots narrative, while Democratic super PACs provide the real firepower. This ensures Osborn's candidacy remains viable and well-funded regardless of actual grassroots support in Nebraska.
 
 The Democratic Party's continued investment signals that Osborn's "independent" label is valuable to them: it allows them to run a Democratic-aligned candidate in a red state while appearing to support "working-class voices" independent of partisan capture. For Schumer and Senate Democrats, Osborn is a vehicle for potentially flipping Nebraska red to competitive, with the added benefit of inoculating the Democratic Party against criticism that it is hostile to working-class white voters.
 
@@ -74,13 +74,13 @@ Working-class Nebraskans who donate to Osborn thinking they are funding a grassr
 
 ### Sources
 
-- [FEC.gov: Candidate Dan Osborn Financial Disclosures](https://www.fec.gov/data/candidate/S4NE00207/) (Tier 1)
-- [Nebraska Examiner: Dan Osborn raises more than $1 million for second Nebraska U.S. Senate race](https://nebraskaexaminer.com/2025/10/02/dan-osborn-raises-more-than-1-million-for-second-nebraska-u-s-senate-race-against-ricketts/) (Tier 2)
-- [Fox News: Senate hopeful with deep Dem ties has paid family over $350K from his campaign coffers](https://www.foxnews.com/politics/senate-hopeful-deep-dem-ties-has-paid-family-over-350k-from-his-campaign-coffers) (Tier 2)
-- [Free Beacon: 'Independent' Nebraska Senate Candidate Dan Osborn's Latest Financial Disclosures](https://freebeacon.com/elections/independent-nebraska-senate-candidate-dan-osborns-latest-financial-disclosures-show-nearly-400000-raised-from-roughly-200-donors-six-are-nebraskans/) (Tier 2)
-- [Patriot Fetch: Dan Osborn Campaign Financing Controversy](https://patriotfetch.com/2026/02/dan-osborn-campaign-financing-controversy-nebraska-2026/) (Tier 4)
-- [Nebraska Public Media: Dan Osborn launches political action committee to help working class candidates](https://nebraskapublicmedia.org/es/news/news-articles/dan-osborn-launches-political-action-committee-to-help-working-class-candidates/) (Tier 2)
-- [In These Times: This Labor Leader Who Nearly Unseated a GOP Senator Wants More Working-Class Candidates to Run](https://inthesetimes.com/article/labor-union-working-class-dan-osborn-nebraska) (Tier 2)
+- [FEC.gov: Candidate Dan Osborn Financial Disclosures](https://www.fec.gov/data/candidate/S4NE00207/) (Tier 1) (VERIFIED)
+- [Nebraska Examiner: Dan Osborn raises more than $1 million for second Nebraska U.S. Senate race](https://nebraskaexaminer.com/2025/10/02/dan-osborn-raises-more-than-1-million-for-second-nebraska-u-s-senate-race-against-ricketts/) (Tier 2) (VERIFIED)
+- [Fox News: Senate hopeful with deep Dem ties has paid family over $350K from his campaign coffers](https://www.foxnews.com/politics/senate-hopeful-deep-dem-ties-has-paid-family-over-350k-from-his-campaign-coffers) (Tier 2) (VERIFIED)
+- [Free Beacon: 'Independent' Nebraska Senate Candidate Dan Osborn's Latest Financial Disclosures](https://freebeacon.com/elections/independent-nebraska-senate-candidate-dan-osborns-latest-financial-disclosures-show-nearly-400000-raised-from-roughly-200-donors-six-are-nebraskans/) (Tier 2) (VERIFIED)
+- [Patriot Fetch: Dan Osborn Campaign Financing Controversy](https://patriotfetch.com/2026/02/dan-osborn-campaign-financing-controversy-nebraska-2026/) (Tier 4) (VERIFIED)
+- [Nebraska Public Media: Dan Osborn launches political action committee to help working class candidates](https://nebraskapublicmedia.org/es/news/news-articles/dan-osborn-launches-political-action-committee-to-help-working-class-candidates/) (Tier 2) (VERIFIED)
+- [In These Times: This Labor Leader Who Nearly Unseated a GOP Senator Wants More Working-Class Candidates to Run](https://inthesetimes.com/article/labor-union-working-class-dan-osborn-nebraska) (Tier 2) (VERIFIED)
 
 ---
 

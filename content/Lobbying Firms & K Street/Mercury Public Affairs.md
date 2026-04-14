@@ -217,26 +217,26 @@ The Peter Kucik hire is the purest expression of this logic. OFAC sanctions crea
 
 ### Sources
 
-- [Senate LDA Filings: Mercury Lobbying Profile](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA Filings: Mercury Lobbyists 2025](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [OpenSecrets Foreign Lobby Watch: Mercury Public Affairs FARA registrations](https://www.opensecrets.org/fara/registrants/D000071638) (Tier 1)
-- [Senate LDA: Mercury Public Affairs lobbying filings](https://lda.gov/filings/public/filing/search/?registrant=Mercury&filing_year=2025) (Tier 1)
-- [NBC News: Sources: Podesta Group, Mercury Are Companies 'A' and 'B' in Manafort Indictment (2017)](https://www.nbcnews.com/news/investigations/sources-podesta-group-mercury-are-companies-b-indictment-n815721) (Tier 2)
-- [The Daily Beast: Robert Mueller Targeted Two Lobbying Firms. One Is Thriving in Trump's D.C.](https://www.thedailybeast.com/robert-mueller-targeted-two-lobbying-firms-one-is-thriving-in-trumps-dc/) (Tier 2)
-- [PBS NewsHour: Prosecutors ramp up foreign lobbying probe tied to Manafort](https://www.pbs.org/newshour/politics/prosecutors-ramp-up-foreign-lobbying-probe-tied-to-manafort) (Tier 2)
-- [The Daily Beast: Embattled Chinese Telecom Giant ZTE Hired Trump Campaign Veteran](https://www.thedailybeast.com/embattled-chinese-telecom-giant-zte-beefs-up-lobbying-muscle/) (Tier 2)
-- [The Moscow Times: Lukoil Taps Ex-Trump Adviser to Assist With Overseas Asset Sale (Dec 2025)](https://www.themoscowtimes.com/2025/12/12/lukoil-taps-ex-trump-adviser-to-assist-with-overseas-asset-sale-a91430) (Tier 2)
-- [Euromaidan Press: Ex-Trump campaign adviser now consulting for sanctioned Russian oil giant (Dec 2025)](https://euromaidanpress.com/2025/12/12/ex-trump-campaign-adviser-now-consulting-for-sanctioned-russian-oil-giant-seeking-buyer-for-global-assets/) (Tier 2)
-- [O'Dwyer PR News: China's Tencent Reaches for Mercury (April 2025)](https://www.odwyerpr.com/story/public/22888/2025-04-22/chinas-tencent-reaches-for-mercury.html) (Tier 3)
-- [Mercury Public Affairs: Peter Kucik bio (Treasury OFAC background)](https://www.mercuryllc.com/team/peter-kucik/) (Tier 3)
-- [Mercury Public Affairs: Jon Pyatt bio (Bustos CoS, Wasserman Schultz Deputy CoS)](https://www.mercuryllc.com/team/jon-pyatt/) (Tier 3)
-- [LegiStorm: Mike McSherry biography (Gilmore VA Liaison, RGA, Reagan/Trump campaigns)](https://www.legistorm.com/person/bio/108912/Michael_T_McSherry.html) (Tier 3)
-- [Ballotpedia: Mercury Public Affairs](https://ballotpedia.org/Mercury_Public_Affairs) (Tier 3)
-- [Wikipedia: Vin Weber](https://en.wikipedia.org/wiki/Vin_Weber) (Tier 3)
-- [Mercury Public Affairs: Susie Wiles announcement as Co-Chair](https://www.mercuryllc.com/announcements/mercury-announces-top-republican-political-strategist-susie-wiles-as-co-chair/) (Tier 3)
-- [Read Sludge: Trump Selects Corporate Lobbyist Susie Wiles as Chief of Staff (Nov 2024)](https://readsludge.com/2024/11/08/trump-selects-corporate-lobbyist-susie-wiles-as-chief-of-staff/) (Tier 2)
-- [RegTechTimes: India contracts lobbying firms in the US to address tariffs and oil sanctions](https://regtechtimes.com/india-contracts-lobbying-firms-to-address-tariffs/) (Tier 3)
-- [OC Media: US lobbying firm that cut ties with Turkey amid pressure hired by Armenia](https://oc-media.org/us-lobbying-firm-that-cut-ties-with-turkey-amid-pressure-hired-by-armenia/) (Tier 2)
+- [Senate LDA Filings: Mercury Lobbying Profile](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: Mercury Lobbyists 2025](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [OpenSecrets Foreign Lobby Watch: Mercury Public Affairs FARA registrations](https://www.opensecrets.org/fara/registrants/D000071638) (Tier 1) (VERIFIED)
+- [Senate LDA: Mercury Public Affairs lobbying filings](https://lda.gov/filings/public/filing/search/?registrant=Mercury&filing_year=2025) (Tier 1) (VERIFIED)
+- [NBC News: Sources: Podesta Group, Mercury Are Companies 'A' and 'B' in Manafort Indictment (2017)](https://www.nbcnews.com/news/investigations/sources-podesta-group-mercury-are-companies-b-indictment-n815721) (Tier 2) (VERIFIED)
+- [The Daily Beast: Robert Mueller Targeted Two Lobbying Firms. One Is Thriving in Trump's D.C.](https://www.thedailybeast.com/robert-mueller-targeted-two-lobbying-firms-one-is-thriving-in-trumps-dc/) (Tier 2) (VERIFIED)
+- [PBS NewsHour: Prosecutors ramp up foreign lobbying probe tied to Manafort](https://www.pbs.org/newshour/politics/prosecutors-ramp-up-foreign-lobbying-probe-tied-to-manafort) (Tier 2) (VERIFIED)
+- [The Daily Beast: Embattled Chinese Telecom Giant ZTE Hired Trump Campaign Veteran](https://www.thedailybeast.com/embattled-chinese-telecom-giant-zte-beefs-up-lobbying-muscle/) (Tier 2) (VERIFIED)
+- [The Moscow Times: Lukoil Taps Ex-Trump Adviser to Assist With Overseas Asset Sale (Dec 2025)](https://www.themoscowtimes.com/2025/12/12/lukoil-taps-ex-trump-adviser-to-assist-with-overseas-asset-sale-a91430) (Tier 2) (VERIFIED)
+- [Euromaidan Press: Ex-Trump campaign adviser now consulting for sanctioned Russian oil giant (Dec 2025)](https://euromaidanpress.com/2025/12/12/ex-trump-campaign-adviser-now-consulting-for-sanctioned-russian-oil-giant-seeking-buyer-for-global-assets/) (Tier 2) (VERIFIED)
+- [O'Dwyer PR News: China's Tencent Reaches for Mercury (April 2025)](https://www.odwyerpr.com/story/public/22888/2025-04-22/chinas-tencent-reaches-for-mercury.html) (Tier 3) (VERIFIED)
+- [Mercury Public Affairs: Peter Kucik bio (Treasury OFAC background)](https://www.mercuryllc.com/team/peter-kucik/) (Tier 3) (VERIFIED)
+- [Mercury Public Affairs: Jon Pyatt bio (Bustos CoS, Wasserman Schultz Deputy CoS)](https://www.mercuryllc.com/team/jon-pyatt/) (Tier 3) (VERIFIED)
+- [LegiStorm: Mike McSherry biography (Gilmore VA Liaison, RGA, Reagan/Trump campaigns)](https://www.legistorm.com/person/bio/108912/Michael_T_McSherry.html) (Tier 3) (VERIFIED)
+- [Ballotpedia: Mercury Public Affairs](https://ballotpedia.org/Mercury_Public_Affairs) (Tier 3) (VERIFIED)
+- [Wikipedia: Vin Weber](https://en.wikipedia.org/wiki/Vin_Weber) (Tier 3) (VERIFIED)
+- [Mercury Public Affairs: Susie Wiles announcement as Co-Chair](https://www.mercuryllc.com/announcements/mercury-announces-top-republican-political-strategist-susie-wiles-as-co-chair/) (Tier 3) (VERIFIED)
+- [Read Sludge: Trump Selects Corporate Lobbyist Susie Wiles as Chief of Staff (Nov 2024)](https://readsludge.com/2024/11/08/trump-selects-corporate-lobbyist-susie-wiles-as-chief-of-staff/) (Tier 2) (VERIFIED)
+- [RegTechTimes: India contracts lobbying firms in the US to address tariffs and oil sanctions](https://regtechtimes.com/india-contracts-lobbying-firms-to-address-tariffs/) (Tier 3) (VERIFIED)
+- [OC Media: US lobbying firm that cut ties with Turkey amid pressure hired by Armenia](https://oc-media.org/us-lobbying-firm-that-cut-ties-with-turkey-amid-pressure-hired-by-armenia/) (Tier 2) (VERIFIED)
 
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->
@@ -254,7 +254,7 @@ The Peter Kucik hire is the purest expression of this logic. OFAC sanctions crea
 - CarePoint Health Systems, Inc. and Connecticut General Life Insurance Company (2024) — United States Bankruptcy Court, D. Delaware
 - The University of the Arts (2024) — United States Bankruptcy Court, D. Delaware
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Mercury%20Public%20Affairs%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Mercury%20Public%20Affairs%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Tax Filings (IRS 990)
@@ -265,14 +265,14 @@ The Peter Kucik hire is the purest expression of this logic. OFAC sanctions crea
 | Tax-Exempt Status | 501(c)(5) |
 | Filings on Record | 0 |
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/680461871) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/680461871) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [2138005I3XSPI3QH7536](https://search.gleif.org/#/record/2138005I3XSPI3QH7536) |
+| LEI | [2138005I3XSPI3QH7536](https://search.gleif.org/#/record/2138005I3XSPI3QH7536) (VERIFIED) |
 | Legal Name | MERCURY PUBLIC AFFAIRS LLC |
 | Jurisdiction | US-DE |
 | Entity Status | ACTIVE |
@@ -282,10 +282,10 @@ The Peter Kucik hire is the purest expression of this logic. OFAC sanctions crea
 
 **Ownership chain:**
 
-- Ultimate Parent: [OMNICOM GROUP INC.](https://search.gleif.org/#/record/HKUPACFHSSASQK8HLS17) (US-NY)
+- Ultimate Parent: [OMNICOM GROUP INC.](https://search.gleif.org/#/record/HKUPACFHSSASQK8HLS17) (VERIFIED) (US-NY)
 - MERCURY PUBLIC AFFAIRS LLC (this entity)
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### SEC Filing Activity
@@ -303,5 +303,5 @@ The Peter Kucik hire is the purest expression of this logic. OFAC sanctions crea
 - 2025-03-28 — **EX-10.(G)**: EX-10.(G)
 - 2025-09-02 — **EX-10.(H)**: EX-10.(H)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Mercury%20Public%20Affairs%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Mercury%20Public%20Affairs%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->

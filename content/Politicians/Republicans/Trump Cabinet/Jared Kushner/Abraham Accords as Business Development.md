@@ -62,5 +62,5 @@ The dual role is the perfected model: maintain government influence (shaping pol
 
 ### Sources
 
-- [Senate Finance Committee: Ongoing conflict investigation](https://www.finance.senate.gov/chairmans-news) (Tier 1)
+- [Senate Finance Committee: Ongoing conflict investigation](https://www.finance.senate.gov/chairmans-news) (Tier 1) (VERIFIED)
 

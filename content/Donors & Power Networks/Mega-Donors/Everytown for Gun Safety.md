@@ -98,9 +98,9 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: Gun
 
 ### Sources
 
-- [OpenSecrets. Michael Bloomberg donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=michael%20bloomberg) (Tier 1)
-- [FactCheck.org. Everytown vs. NRA spending comparison](https://www.factcheck.org/2024/01/americans-for-prosperity-7/) (Tier 2)
-- [Giffords Law Center, state gun law tracker](https://giffords.org/lawcenter/gun-laws/) (Tier 2)
+- [OpenSecrets. Michael Bloomberg donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=michael%20bloomberg) (Tier 1) (VERIFIED)
+- [FactCheck.org. Everytown vs. NRA spending comparison](https://www.factcheck.org/2024/01/americans-for-prosperity-7/) (Tier 2) (VERIFIED)
+- [Giffords Law Center, state gun law tracker](https://giffords.org/lawcenter/gun-laws/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -140,7 +140,7 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: Gun
 | HOUSE MAJORITY PAC | $102,250 | - |
 | WITH HONOR FUND II, INC. | $100,000 | - |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Everytown%20for%20Gun%20Safety) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Everytown%20for%20Gun%20Safety) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### Federal Register Activity
@@ -153,12 +153,12 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: Gun
 | Agencies | Alcohol, Tobacco, Firearms, and Explosives Bureau, Justice Department, Personnel Management Office |
 
 **Recent regulatory activity:**
-- [Improving Performance, Accountability and Responsiveness in the Civil Service](https://www.federalregister.gov/documents/2026/02/06/2026-02375/improving-performance-accountability-and-responsiveness-in-the-civil-service) (2026-02-06) - Personnel Management Office ★
-- [Definition of “Engaged in the Business” as a Dealer in Firearms](https://www.federalregister.gov/documents/2024/04/19/2024-07838/definition-of-engaged-in-the-business-as-a-dealer-in-firearms) (2024-04-19) - Justice Department ★
-- [Definition of “Frame or Receiver” and Identification of Firearms](https://www.federalregister.gov/documents/2022/04/26/2022-08026/definition-of-frame-or-receiver-and-identification-of-firearms) (2022-04-26) - Justice Department ★
-- [Definition of “Frame or Receiver” and Identification of Firearms](https://www.federalregister.gov/documents/2021/05/21/2021-10058/definition-of-frame-or-receiver-and-identification-of-firearms) (2021-05-21) - Justice Department ★
+- [Improving Performance, Accountability and Responsiveness in the Civil Service](https://www.federalregister.gov/documents/2026/02/06/2026-02375/improving-performance-accountability-and-responsiveness-in-the-civil-service) (VERIFIED) (2026-02-06) - Personnel Management Office ★
+- [Definition of “Engaged in the Business” as a Dealer in Firearms](https://www.federalregister.gov/documents/2024/04/19/2024-07838/definition-of-engaged-in-the-business-as-a-dealer-in-firearms) (VERIFIED) (2024-04-19) - Justice Department ★
+- [Definition of “Frame or Receiver” and Identification of Firearms](https://www.federalregister.gov/documents/2022/04/26/2022-08026/definition-of-frame-or-receiver-and-identification-of-firearms) (VERIFIED) (2022-04-26) - Justice Department ★
+- [Definition of “Frame or Receiver” and Identification of Firearms](https://www.federalregister.gov/documents/2021/05/21/2021-10058/definition-of-frame-or-receiver-and-identification-of-firearms) (VERIFIED) (2021-05-21) - Justice Department ★
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Everytown%20for%20Gun%20Safety%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Everytown%20for%20Gun%20Safety%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Federal Court Records (CourtListener)
@@ -177,7 +177,7 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: Gun
 - United States v. Arnold (2025) - District Court, N.D. Texas
 - Jensen v. Bureau Of Alcohol, Tobacco, Firearms And Explosives (2025) - District Court, N.D. Texas
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Everytown%20for%20Gun%20Safety%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Everytown%20for%20Gun%20Safety%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Financial Overview (990 Filing - 2023)
@@ -192,7 +192,7 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: Gun
 | Net Assets | $23.2M |
 | Officer Compensation | $262K |
 
-- [Source: ProPublica Nonprofit Explorer - EIN 208802884](https://projects.propublica.org/nonprofits/organizations/208802884) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer - EIN 208802884](https://projects.propublica.org/nonprofits/organizations/208802884) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Lobbying Activity
@@ -211,7 +211,7 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: Gun
 
 **Agencies contacted:** Education, Dept of, Executive Office of the President (EOP), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Housing & Urban Development, Dept of (HUD), Justice, Dept of (DOJ), Labor, Dept of (DOL), SENATE, White House Office
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Everytown%20for%20Gun%20Safety) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Everytown%20for%20Gun%20Safety) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)
@@ -272,5 +272,5 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: Gun
 - 2023-04-28 - **DEF 14A**: DEF 14A
 - 2024-04-09 - **PRE 14A**: PRE 14A
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Everytown%20for%20Gun%20Safety%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Everytown%20for%20Gun%20Safety%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->

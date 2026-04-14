@@ -105,8 +105,8 @@ The San Quentin rehabilitation transformation is explicitly a pilot. The rhetori
 
 ### Sources
 
-- [LA Times: San Quentin COVID transfer and deaths](https://www.latimes.com/california/story/2020-06-30/san-quentin-coronavirus-outbreak) (Tier 2)
-- [State Auditor: CDCR COVID transfer review](https://www.auditor.ca.gov/reports/2020-128/index.html) (Tier 1)
-- [CalMatters: San Quentin prison — Newsom plan calls for rehab focus](https://calmatters.org/justice/2023/03/san-quentin-prison-gavin-newsom/) (Tier 2)
-- [NY Times: Norway prison model comparison](https://www.nytimes.com/2023/03/17/us/san-quentin-prison-california-newsom.html) (Tier 3)
+- ~~[LA Times: San Quentin COVID transfer and deaths](https://www.latimes.com/california/story/2020-06-30/san-quentin-coronavirus-outbreak)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[State Auditor: CDCR COVID transfer review](https://www.auditor.ca.gov/reports/2020-128/index.html)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [CalMatters: San Quentin prison — Newsom plan calls for rehab focus](https://calmatters.org/justice/2023/03/san-quentin-prison-gavin-newsom/) (Tier 2) (VERIFIED)
+- ~~[NY Times: Norway prison model comparison](https://www.nytimes.com/2023/03/17/us/san-quentin-prison-california-newsom.html)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
 

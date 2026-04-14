@@ -13,7 +13,7 @@ profiles:
 
 ## Americans’ Fourth Amendment rights are not for sale
 
-**Source:** [The Hill](https://thehill.com/opinion/congress-blog/5822910-fisa-section-702-reform/)
+**Source:** ~~[The Hill](https://thehill.com/opinion/congress-blog/5822910-fisa-section-702-reform/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-09
 
 The FBI has admitted to purchasing commercially available data to track Americans' movements and location histories, and Congress has the opportunity to close the data broker loophole and renew FISA Section 702 with the Government Surveillance Reform Act, which requires a warrant before the government can intentionally search an American's private communications for domestic law enforcement purposes.

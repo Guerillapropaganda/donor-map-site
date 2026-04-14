@@ -160,8 +160,8 @@ After December 2025, Cuéllar's media strategy shifted to portraying himself as 
 
 ## Sources
 
-- [DOJ Indictment: United States v. Henry Cuéllar](https://www.justice.gov/archives/opa/pr/us-congressman-henry-cuellar-and-his-wife-charged-bribery-unlawful-foreign-influence-and) (Tier 1)
-- [OpenSecrets: Henry Cuéllar Campaign Finance](https://www.opensecrets.org/members-of-congress/summary?cid=N00000840) (Tier 1)
+- [DOJ Indictment: United States v. Henry Cuéllar](https://www.justice.gov/archives/opa/pr/us-congressman-henry-cuellar-and-his-wife-charged-bribery-unlawful-foreign-influence-and) (Tier 1) (VERIFIED)
+- [OpenSecrets: Henry Cuéllar Campaign Finance](https://www.opensecrets.org/members-of-congress/summary?cid=N00000840) (Tier 1) (VERIFIED)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -195,7 +195,7 @@ After December 2025, Cuéllar's media strategy shifted to portraying himself as 
 | MAINSTREAM DEMOCRATS PAC | $1,425,211 | $0 |
 | NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND | $1,285,000 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2TX23082/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2TX23082/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (GovTrack)
@@ -224,7 +224,7 @@ After December 2025, Cuéllar's media strategy shifted to portraying himself as 
 | 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Yea | Passed |
 | 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Yea | Passed |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400657) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400657) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
 
 ### Campaign Finance Summary (FEC)

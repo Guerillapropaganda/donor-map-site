@@ -72,10 +72,10 @@ The EB-5 investor visa grants permanent residency to foreign nationals who inves
 
 ### Sources
 
-- [PBS NewsHour. Here's why experts think Trump took a sledgehammer to the H-1B visa worker program](https://www.pbs.org/newshour/economy/trumps-proposed-changes-to-the-h-1b-visa-program-explained) (Tier 2)
-- [White House. Restriction on Entry of Certain Nonimmigrant Workers (September 2025)](https://www.whitehouse.gov/presidential-actions/2025/09/restriction-on-entry-of-certain-nonimmigrant-workers/) (Tier 1)
-- [NPR. Trump's new $100K fee on H-1B visas will hurt the tech companies trying to woo him (September 2025)](https://www.npr.org/2025/09/20/nx-s1-5548568/h1b-visa-fee-trump-tech) (Tier 2)
-- [The Nation. The Trump Administration Wants to Make It Easier Than Ever to Exploit Farmworkers](https://www.thenation.com/article/society/h2a-visa-farmworkers-trump/) (Tier 2)
-- [CNN. Lawmakers target visa program that benefits Trump family businesses (March 2017)](https://www.cnn.com/2017/03/08/politics/congress-eb5-investor-reform-trump/index.html) (Tier 2)
-- [Newsweek. Trump's EB5 Gold Card Everything You Need to Know (February 2025)](https://www.newsweek.com/trump-eb5-gold-card-5m-visa-program-2036324) (Tier 2)
+- [PBS NewsHour. Here's why experts think Trump took a sledgehammer to the H-1B visa worker program](https://www.pbs.org/newshour/economy/trumps-proposed-changes-to-the-h-1b-visa-program-explained) (Tier 2) (VERIFIED)
+- [White House. Restriction on Entry of Certain Nonimmigrant Workers (September 2025)](https://www.whitehouse.gov/presidential-actions/2025/09/restriction-on-entry-of-certain-nonimmigrant-workers/) (Tier 1) (VERIFIED)
+- [NPR. Trump's new $100K fee on H-1B visas will hurt the tech companies trying to woo him (September 2025)](https://www.npr.org/2025/09/20/nx-s1-5548568/h1b-visa-fee-trump-tech) (Tier 2) (VERIFIED)
+- [The Nation. The Trump Administration Wants to Make It Easier Than Ever to Exploit Farmworkers](https://www.thenation.com/article/society/h2a-visa-farmworkers-trump/) (Tier 2) (VERIFIED)
+- [CNN. Lawmakers target visa program that benefits Trump family businesses (March 2017)](https://www.cnn.com/2017/03/08/politics/congress-eb5-investor-reform-trump/index.html) (Tier 2) (VERIFIED)
+- [Newsweek. Trump's EB5 Gold Card Everything You Need to Know (February 2025)](https://www.newsweek.com/trump-eb5-gold-card-5m-visa-program-2036324) (Tier 2) (VERIFIED)
 

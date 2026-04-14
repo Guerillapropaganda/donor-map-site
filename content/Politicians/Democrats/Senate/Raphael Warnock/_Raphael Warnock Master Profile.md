@@ -110,9 +110,9 @@ Raphael Warnock represents the moral authority brand in Democratic politics: a p
 ### 2022 Midterm Re-election:
 - Total raised: $115+ million (increased from 2020)
 - Donor profile shift: High net-worth donors dominating (unlike 2020 low-net-worth dominance)
-- Out-of-state: 95.2% ($161M of $169M) - [Newsweek: Warnock's Campaign Cash Coming From Everywhere But Georgia](https://www.newsweek.com/raphael-warnocks-campaign-cash-coming-everywhere-georgia-1752452) (Tier 2)
+- Out-of-state: 95.2% ($161M of $169M) - [Newsweek: Warnock's Campaign Cash Coming From Everywhere But Georgia](https://www.newsweek.com/raphael-warnocks-campaign-cash-coming-everywhere-georgia-1752452) (Tier 2) (VERIFIED)
 - California donors: $13.4 million (largest donor state)
-- TV/Movies/Music sector: ~$1 million (led all candidates by industry) - [Yahoo: Warnock Gets 73% More From California Than Georgia](https://www.yahoo.com/entertainment/sen-raphael-warnock-gets-73-225439165.html) (Tier 2)
+- TV/Movies/Music sector: ~$1 million (led all candidates by industry) - [Yahoo: Warnock Gets 73% More From California Than Georgia](https://www.yahoo.com/entertainment/sen-raphael-warnock-gets-73-225439165.html) (Tier 2) (VERIFIED)
 - Small-dollar donors: 48% (significant but declining from 2020)
 
 > [!money]
@@ -254,14 +254,14 @@ The healthcare positioning makes the mechanism visible. Warnock pastors a church
 
 ## Sources
 
-- [FEC Candidate: Raphael Warnock Campaign Finance Summary](https://www.fec.gov/data/candidate/S0GA00559/) (Tier 1)
-- [FEC: Raphael Warnock Candidate Profile](https://www.fec.gov/data/candidate/S0GA00559/) (Tier 1)
-- [FEC Candidate: Warnock 2022 Industries](https://www.fec.gov/data/candidate/S0GA00559/) (Tier 1)
-- [Newsweek: Raphael Warnock's Campaign Cash Is Coming From Everywhere But Georgia](https://www.newsweek.com/raphael-warnocks-campaign-cash-coming-everywhere-georgia-1752452) (Tier 2)
-- [Yahoo: Sen. Raphael Warnock Gets 73% More Campaign Contributions From California Donors Than Georgia](https://www.yahoo.com/entertainment/sen-raphael-warnock-gets-73-225439165.html) (Tier 2)
-- [Washington Post: Ebenezer Baptist: MLK's church central to Raphael Warnock's Senate victory in Georgia](https://www.washingtonpost.com/history/2021/01/03/ebenezer-baptist-king-mlk-warnock/) (Tier 2)
-- [Ebenezer Baptist Church: Our Pastor - Raphael Warnock](https://www.ebenezeratl.org/our-pastor/) (Tier 1)
-- [Senator Warnock Official Website: About The Senator](https://www.warnock.senate.gov/about/) (Tier 1)
+- [FEC Candidate: Raphael Warnock Campaign Finance Summary](https://www.fec.gov/data/candidate/S0GA00559/) (Tier 1) (VERIFIED)
+- [FEC: Raphael Warnock Candidate Profile](https://www.fec.gov/data/candidate/S0GA00559/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Warnock 2022 Industries](https://www.fec.gov/data/candidate/S0GA00559/) (Tier 1) (VERIFIED)
+- [Newsweek: Raphael Warnock's Campaign Cash Is Coming From Everywhere But Georgia](https://www.newsweek.com/raphael-warnocks-campaign-cash-coming-everywhere-georgia-1752452) (Tier 2) (VERIFIED)
+- [Yahoo: Sen. Raphael Warnock Gets 73% More Campaign Contributions From California Donors Than Georgia](https://www.yahoo.com/entertainment/sen-raphael-warnock-gets-73-225439165.html) (Tier 2) (VERIFIED)
+- [Washington Post: Ebenezer Baptist: MLK's church central to Raphael Warnock's Senate victory in Georgia](https://www.washingtonpost.com/history/2021/01/03/ebenezer-baptist-king-mlk-warnock/) (Tier 2) (VERIFIED)
+- [Ebenezer Baptist Church: Our Pastor - Raphael Warnock](https://www.ebenezeratl.org/our-pastor/) (Tier 1) (VERIFIED)
+- [Senator Warnock Official Website: About The Senator](https://www.warnock.senate.gov/about/) (Tier 1) (VERIFIED)
 
 ## Committee Assignments (Congress.gov)
 
@@ -295,7 +295,7 @@ The healthcare positioning makes the mechanism visible. Warnock pastors a church
 | NRSC | $0 | $23,545,584 |
 | WORKER POWER PAC FOR GEORGIA | $8,030,000 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S0GA00559/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S0GA00559/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (GovTrack)
@@ -327,7 +327,7 @@ The healthcare positioning makes the mechanism visible. Warnock pastors a church
 | 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
 | 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456858) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456858) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
 
 ## Influence Network (Cross-Reference)
@@ -370,7 +370,7 @@ The healthcare positioning makes the mechanism visible. Warnock pastors a church
 | 4167 | HBCU Research Capacity Act | Read twice and referred to the Committee on Health, Education, Labor, and Pensions. |
 | — |  | — |
 
-- [Source: Congress.gov](https://www.congress.gov/member/W000790) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/W000790)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Voting Record
@@ -395,6 +395,6 @@ The healthcare positioning makes the mechanism visible. Warnock pastors a church
 
 **Sources**
 
-- [Congress.gov: Raphael Warnock](https://www.congress.gov/member/c001091) (Tier 1)
-- [GovTrack: Raphael Warnock](https://www.govtrack.us/congress/members/456858) (Tier 1)
+- ~~[Congress.gov: Raphael Warnock](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [GovTrack: Raphael Warnock](https://www.govtrack.us/congress/members/456858) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->

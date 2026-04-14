@@ -34,7 +34,7 @@ In 2025, a record-breaking number of members of Congress and their staffers move
 - Democrats: 384 (44.3%)
 - Bipartisan interest groups: 42 (4.9%)
 
-[Tier 1 - OpenSecrets Revolving Door Tracker](https://www.opensecrets.org/revolving-door/) [Tier 2 - Politico](https://politico.com/revolving-door-2025)
+[Tier 1 - OpenSecrets Revolving Door Tracker](https://www.opensecrets.org/revolving-door/) (VERIFIED) ~~[Tier 2 - Politico](https://politico.com/revolving-door-2025)~~ (URL broken, archived by Ops)
 
 ### The Corresponding Inflow: 125 Lobbyists Entered Politics (2025)
 
@@ -67,7 +67,7 @@ K Street explicitly markets "congressional connections" as the hiring value prop
 
 This is transactional. The value is not knowledge or experience. The value is the ability to call a current member and have that call answered because you used to sit next to them.
 
-[Tier 2 - ThinkProgress](https://thinkprogress.org/revolving-door-lobbying-sales) [Tier 2 - Salon](https://salon.com/k-street-congressional-hiring)
+~~[Tier 2 - ThinkProgress](https://thinkprogress.org/revolving-door-lobbying-sales)~~ (URL broken, archived by Ops) ~~[Tier 2 - Salon](https://salon.com/k-street-congressional-hiring)~~ (URL broken, archived by Ops)
 
 ### The Regulatory Capture Mechanism
 
@@ -115,11 +115,11 @@ This is not accidental. This is deliberate normalization of lobbyist staffing. I
 
 ### Sources
 
-- [OpenSecrets: Revolving Door Tracker 2025](https://www.opensecrets.org/revolving-door/) (Tier 1)
-- [Politico: Record Exodus of Congress Members to K Street](https://politico.com/congress-k-street-2025) (Tier 2)
-- [POGO: Brass Parachutes. The Problem of the Pentagon Revolving Door](https://www.pogo.org/reports/brass-parachutes) (Tier 2)
-- [Center for Responsive Politics: Revolving Door Analysis](https://responsivepolitics.org/revolving-door) (Tier 2)
-- [ProPublica: Congress Members and Their Lobbying Deals](https://propublica.org/revolving-door) (Tier 2)
-- [Congress.gov: Close the Revolving Door Act (H.R. 2847)](https://congress.gov/bill/hr2847) (Tier 1)
-- [Roll Call: K Street Hiring Trends 2025](https://rollcall.com/k-street-hiring) (Tier 2)
+- [OpenSecrets: Revolving Door Tracker 2025](https://www.opensecrets.org/revolving-door/) (Tier 1) (VERIFIED)
+- ~~[Politico: Record Exodus of Congress Members to K Street](https://politico.com/congress-k-street-2025)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [POGO: Brass Parachutes. The Problem of the Pentagon Revolving Door](https://www.pogo.org/reports/brass-parachutes) (Tier 2) (VERIFIED)
+- [Center for Responsive Politics: Revolving Door Analysis](https://responsivepolitics.org/revolving-door) (Tier 2) (VERIFIED)
+- ~~[ProPublica: Congress Members and Their Lobbying Deals](https://propublica.org/revolving-door)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Congress.gov: Close the Revolving Door Act (H.R. 2847)](https://congress.gov/bill/hr2847)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Roll Call: K Street Hiring Trends 2025](https://rollcall.com/k-street-hiring)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 

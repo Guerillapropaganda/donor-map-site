@@ -131,16 +131,16 @@ The immigration apparatus is the second donor pillar. Timothy Mellon's $53.1 mil
 
 ## Sources
 
-- [OpenSecrets: Greg Abbott donor profile and campaign finance](https://www.opensecrets.org/officeholders/greg-abbott/summary?cycle=2022&id=11281947) (Tier 1)
-- [Texas Tribune: Greg Abbott enters 2026 race with $106 million on hand](https://www.ksat.com/news/texas/2026/01/16/greg-abbott-enters-2026-texas-governors-race-with-staggering-106-million-on-hand/) (Tier 2)
+- [OpenSecrets: Greg Abbott donor profile and campaign finance](https://www.opensecrets.org/officeholders/greg-abbott/summary?cycle=2022&id=11281947) (Tier 1) (VERIFIED)
+- [Texas Tribune: Greg Abbott enters 2026 race with $106 million on hand](https://www.ksat.com/news/texas/2026/01/16/greg-abbott-enters-2026-texas-governors-race-with-staggering-106-million-on-hand/) (Tier 2) (VERIFIED)
 - ~~[FollowTheMoney: Greg Abbott donor details](https://www.followthemoney.org/tools/election-overview?eid=11281947)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
-- [Texas Observer: More money than Greg - Abbott's donors](https://www.texasobserver.org/greg-abbott-money-power/) (Tier 2)
-- [Texas Observer: Kelcy Warren Energy Transfer donation post-grid failure](https://www.texasobserver.org/after-kelcy-warrens-energy-transfer-partners-made-billions-from-the-deadly-texas-blackouts-he-gave-1-million-to-greg-abbott/) (Tier 2)
-- [Texas Tribune: Timothy Mellon funds Texas border wall](https://www.texastribune.org/2021/10/06/timothy-mellon-texas-border-wall/) (Tier 2)
-- [KHOU: Which Texas governor candidate has benefited most from energy industry](https://www.khou.com/article/news/politics/race-for-texas-governor-energy-industry-campaign-contributions/285-cf7adb06-0952-4b02-a969-82291b9f53b0) (Tier 2)
-- [Texas Tribune: ERCOT blackout and power grid failure analysis](https://www.texastribune.org/2024/04/22/texas-border-migrant-apprehensions-abbott-operation-lone-star/) (Tier 2)
-- [Wikipedia: 2021 Texas power crisis](https://en.wikipedia.org/wiki/2021_Texas_power_crisis) (Tier 3)
-- [Al Jazeera: Operation Lone Star border enforcement](https://www.aljazeera.com/economy/2025/2/26/washington-post-opinion-head-departs-as-jeff-bezos-shifts-focus-for-paper-about-latest-us-border-flashpoint) (Tier 2)
+- [Texas Observer: More money than Greg - Abbott's donors](https://www.texasobserver.org/greg-abbott-money-power/) (Tier 2) (VERIFIED)
+- [Texas Observer: Kelcy Warren Energy Transfer donation post-grid failure](https://www.texasobserver.org/after-kelcy-warrens-energy-transfer-partners-made-billions-from-the-deadly-texas-blackouts-he-gave-1-million-to-greg-abbott/) (Tier 2) (VERIFIED)
+- [Texas Tribune: Timothy Mellon funds Texas border wall](https://www.texastribune.org/2021/10/06/timothy-mellon-texas-border-wall/) (Tier 2) (VERIFIED)
+- [KHOU: Which Texas governor candidate has benefited most from energy industry](https://www.khou.com/article/news/politics/race-for-texas-governor-energy-industry-campaign-contributions/285-cf7adb06-0952-4b02-a969-82291b9f53b0) (Tier 2) (VERIFIED)
+- [Texas Tribune: ERCOT blackout and power grid failure analysis](https://www.texastribune.org/2024/04/22/texas-border-migrant-apprehensions-abbott-operation-lone-star/) (Tier 2) (VERIFIED)
+- [Wikipedia: 2021 Texas power crisis](https://en.wikipedia.org/wiki/2021_Texas_power_crisis) (Tier 3) (VERIFIED)
+- ~~[Al Jazeera: Operation Lone Star border enforcement](https://www.aljazeera.com/economy/2025/2/26/washington-post-opinion-head-departs-as-jeff-bezos-shifts-focus-for-paper-about-latest-us-border-flashpoint)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

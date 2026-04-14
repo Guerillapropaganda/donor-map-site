@@ -151,7 +151,7 @@ Osborn functions as a pilot program for the Democratic Party's working-class out
 
 **Organizations**: Working Class Heroes Fund (founder, 2024), Local 50G (former president)
 
-**Campaign Website**: [osbornforsenate.com](https://www.osbornforsenate.com/?q=Dan%20Osborn)
+**Campaign Website**: [osbornforsenate.com](https://www.osbornforsenate.com/?q=Dan%20Osborn) (VERIFIED)
 
 ## Analytical Patterns
 
@@ -163,17 +163,17 @@ Osborn functions as a pilot program for the Democratic Party's working-class out
 
 ## Sources
 
-- [FEC.gov: Candidate Dan Osborn (S4NE00207)](https://www.fec.gov/data/candidate/S4NE00207/) (Tier 1)
-- [Nebraska Examiner: Dan Osborn raises more than $1 million for second Nebraska U.S. Senate race against Ricketts](https://nebraskaexaminer.com/2025/10/02/dan-osborn-raises-more-than-1-million-for-second-nebraska-u-s-senate-race-against-ricketts/) (Tier 2)
-- [Fox News: Senate hopeful with deep Dem ties has paid family over $350K from his campaign coffers](https://www.foxnews.com/politics/senate-hopeful-deep-dem-ties-has-paid-family-over-350k-from-his-campaign-coffers) (Tier 2)
-- [Free Beacon: 'Independent' Nebraska Senate Candidate Dan Osborn's Latest Financial Disclosures Show Nearly $400,000 Raised From Roughly 200 Donors](https://freebeacon.com/elections/independent-nebraska-senate-candidate-dan-osborns-latest-financial-disclosures-show-nearly-400000-raised-from-roughly-200-donors-six-are-nebraskans/) (Tier 2)
-- [Wikipedia: Dan Osborn](https://en.wikipedia.org/wiki/Dan_Osborn) (Tier 3)
-- [Ballotpedia: Dan Osborn](https://ballotpedia.org/Dan_Osborn) (Tier 3)
-- [Semafor: 'There's no one like me in the Senate': Union leader Dan Osborn looks for a Nebraska upset](https://www.semafor.com/article/09/06/2024/theres-no-one-like-me-in-the-senate-union-leader-dan-osborn-looks-for-a-nebraska-upset) (Tier 2)
-- [In These Times: This Labor Leader Who Nearly Unseated a GOP Senator Wants More Working-Class Candidates to Run](https://inthesetimes.com/article/labor-union-working-class-dan-osborn-nebraska) (Tier 2)
-- [ABC News: Nebraska independent Dan Osborn launches group for working-class candidates, reflects on Senate run](https://abcnews.com/Politics/nebraska-independent-dan-osborn-launches-group-working-class/story?id=115973838?id=115973838) (Tier 3)
-- [Labor Notes: Interview: Can a Labor-Backed Candidate in Nebraska Inspire More Working-Class Independents?](https://www.labornotes.org/blogs/2025/01/interview-can-labor-backed-candidate-nebraska-inspire-more-working-class-independents) (Tier 2)
-- [UAW Endorsement Statement](https://uaw.org/uaw-endorses-independent-dan-osborn-in-nebraska-u-s-senate-race/) (Tier 1)
+- [FEC.gov: Candidate Dan Osborn (S4NE00207)](https://www.fec.gov/data/candidate/S4NE00207/) (Tier 1) (VERIFIED)
+- [Nebraska Examiner: Dan Osborn raises more than $1 million for second Nebraska U.S. Senate race against Ricketts](https://nebraskaexaminer.com/2025/10/02/dan-osborn-raises-more-than-1-million-for-second-nebraska-u-s-senate-race-against-ricketts/) (Tier 2) (VERIFIED)
+- [Fox News: Senate hopeful with deep Dem ties has paid family over $350K from his campaign coffers](https://www.foxnews.com/politics/senate-hopeful-deep-dem-ties-has-paid-family-over-350k-from-his-campaign-coffers) (Tier 2) (VERIFIED)
+- [Free Beacon: 'Independent' Nebraska Senate Candidate Dan Osborn's Latest Financial Disclosures Show Nearly $400,000 Raised From Roughly 200 Donors](https://freebeacon.com/elections/independent-nebraska-senate-candidate-dan-osborns-latest-financial-disclosures-show-nearly-400000-raised-from-roughly-200-donors-six-are-nebraskans/) (Tier 2) (VERIFIED)
+- [Wikipedia: Dan Osborn](https://en.wikipedia.org/wiki/Dan_Osborn) (Tier 3) (VERIFIED)
+- [Ballotpedia: Dan Osborn](https://ballotpedia.org/Dan_Osborn) (Tier 3) (VERIFIED)
+- [Semafor: 'There's no one like me in the Senate': Union leader Dan Osborn looks for a Nebraska upset](https://www.semafor.com/article/09/06/2024/theres-no-one-like-me-in-the-senate-union-leader-dan-osborn-looks-for-a-nebraska-upset) (Tier 2) (VERIFIED)
+- [In These Times: This Labor Leader Who Nearly Unseated a GOP Senator Wants More Working-Class Candidates to Run](https://inthesetimes.com/article/labor-union-working-class-dan-osborn-nebraska) (Tier 2) (VERIFIED)
+- [ABC News: Nebraska independent Dan Osborn launches group for working-class candidates, reflects on Senate run](https://abcnews.com/Politics/nebraska-independent-dan-osborn-launches-group-working-class/story?id=115973838?id=115973838) (Tier 3) (VERIFIED)
+- [Labor Notes: Interview: Can a Labor-Backed Candidate in Nebraska Inspire More Working-Class Independents?](https://www.labornotes.org/blogs/2025/01/interview-can-labor-backed-candidate-nebraska-inspire-more-working-class-independents) (Tier 2) (VERIFIED)
+- [UAW Endorsement Statement](https://uaw.org/uaw-endorses-independent-dan-osborn-in-nebraska-u-s-senate-race/) (Tier 1) (VERIFIED)
 
 ---
 
@@ -210,14 +210,14 @@ party:: Independent
 | HEARTLAND RESURGENCE | $0 | $3,787,060 |
 | RAILROADERS FOR PUBLIC SAFETY | $1,520,000 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S4NE00207/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S4NE00207/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Dan Osborn](https://www.congress.gov/member/k000401) (Tier 1)
+- ~~[Congress.gov: Dan Osborn](https://www.congress.gov/member/k000401)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 
 ### Campaign Finance Summary (FEC)

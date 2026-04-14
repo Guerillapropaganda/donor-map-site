@@ -14,7 +14,7 @@ profiles:
 
 ## Elon Musk’s DOGE stole your Social Security data
 
-**Source:** [The Hill](https://thehill.com/opinion/white-house/5821106-social-security-data-theft/)
+**Source:** ~~[The Hill](https://thehill.com/opinion/white-house/5821106-social-security-data-theft/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-08
 
 The Trump administration is accused of stealing the Social Security data of 500 million Americans, living and dead, and sharing it with Elon Musk's Department of Government Efficiency (DOGE) for misuse.

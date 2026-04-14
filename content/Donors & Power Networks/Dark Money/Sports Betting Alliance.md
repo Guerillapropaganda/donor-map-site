@@ -65,10 +65,10 @@ The Sports Betting Alliance exemplifies emerging industry regulatory capture: a 
 
 ### Sources
 
-- [OpenSecrets: Sports betting dark money spending](https://www.opensecrets.org/groups/sports-betting-alliance) (Tier 1)
-- [ProPublica: Sports betting industry influence on states](https://www.propublica.org/article/illinois-gambling-expansion-bill-sports-betting-video-gambling) (Tier 2)
-- [Center for Responsive Politics: Gambling industry contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- [NPR: The Story Behind the Sports Betting Boom. DraftKings, FanDuel, and state lobbying](https://www.npr.org/2023/04/06/1168349259/the-story-behind-the-sports-betting-boom) (
+- ~~[OpenSecrets: Sports betting dark money spending](https://www.opensecrets.org/groups/sports-betting-alliance)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [ProPublica: Sports betting industry influence on states](https://www.propublica.org/article/illinois-gambling-expansion-bill-sports-betting-video-gambling) (Tier 2) (VERIFIED)
+- [Center for Responsive Politics: Gambling industry contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
+- [NPR: The Story Behind the Sports Betting Boom. DraftKings, FanDuel, and state lobbying](https://www.npr.org/2023/04/06/1168349259/the-story-behind-the-sports-betting-boom) (VERIFIED) (
 
 ---
 
@@ -93,7 +93,7 @@ The Sports Betting Alliance exemplifies emerging industry regulatory capture: a 
 | Total Expenses | $13.3M |
 | Net Assets | $5.8M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 874117395](https://projects.propublica.org/nonprofits/organizations/874117395) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 874117395](https://projects.propublica.org/nonprofits/organizations/874117395) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Tax Filings (IRS 990)
@@ -111,10 +111,10 @@ The Sports Betting Alliance exemplifies emerging industry regulatory capture: a 
 **Filing history:** 2023, 2022
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/874117395/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/874117395/2022)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/874117395/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/874117395/2022)~~ (URL broken, archived by Ops)
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/874117395) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/874117395) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Campaign Finance (FEC)
@@ -139,7 +139,7 @@ The Sports Betting Alliance exemplifies emerging industry regulatory capture: a 
 | OLD DRUM CONSERVATIVE PAC | $4,000 | — |
 | TRAVIS COUNTY REPUBLICAN PARTY FEDERAL COMMITTEE | $2,000 | REP |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Sports%20Betting%20Alliance) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Sports%20Betting%20Alliance) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### SEC Filing Activity
@@ -153,7 +153,7 @@ The Sports Betting Alliance exemplifies emerging industry regulatory capture: a 
 
 - 2026-03-16 — **EX-99.1**: EX-99.1
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Sports%20Betting%20Alliance%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Sports%20Betting%20Alliance%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Federal Court Records (CourtListener)
@@ -167,5 +167,5 @@ The Sports Betting Alliance exemplifies emerging industry regulatory capture: a 
 **Notable cases:**
 - Papaya Gaming, LTD. v. Fair Play For Mobile Games (2025) — District Court, S.D. New York
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Sports%20Betting%20Alliance%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Sports%20Betting%20Alliance%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->

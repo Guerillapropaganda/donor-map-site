@@ -113,13 +113,13 @@ The administration proposed eliminating blanket protections for threatened speci
 
 ### Sources
 
-- [Bureau of Land Management. 2025 Trump Administration Accomplishments](https://www.blm.gov/blog/2026-01-06/progress-public-lands-blm-2025-trump-administration-accomplishments-jan-20-Dec-31-2025) (Tier 1)
-- [EPA. Administrator Zeldin Announces Waters of the United States Rule Revision](https://www.epa.gov/newsreleases/administrator-zeldin-announces-epa-will-revise-waters-united-states-rule) (Tier 1)
-- [EPA. Reconsideration of Biden Harris Clean Power Plan 2.0](https://www.epa.gov/newsreleases/trump-epa-announces-reconsideration-biden-harris-rule-clean-power-plan-20-prioritized) (Tier 1)
-- [Inside Climate News. EPA Hits 40 Year Staffing Lows (March 2026)](https://insideclimatenews.org/news/06032026/trump-epa-staffing-lows/) (Tier 2)
-- [NRDC. Trump Administration Plans to Gut Water Protections Nationwide](https://www.nrdc.org/press-releases/trump-administration-plans-gut-water-protections-nationwide-0) (Tier 2)
-- [Sabin Center. Climate Deregulation Tracker](https://climate.law.columbia.edu/climate-deregulation-tracker) (Tier 2)
-- [Brennan Center. Fossil Fuel Industry Donors See Major Returns in Trump Policies](https://www.brennancenter.org/our-work/analysis-opinion/fossil-fuel-industry-donors-see-major-returns-trumps-policies) (Tier 2)
-- [Sierra Club. Oil Tycoons Open the Money Floodgates for Trump](https://www.sierraclub.org/sierra/oil-tycoons-open-money-floodgates-trump) (Tier 2)
-- [NPR. Trump EPA Will Stop Regulating Greenhouse Gases (February 2026)](https://www.npr.org/2026/02/11/nx-s1-5678273/trump-epa-climate-change-endangerment) (Tier 2)
+- [Bureau of Land Management. 2025 Trump Administration Accomplishments](https://www.blm.gov/blog/2026-01-06/progress-public-lands-blm-2025-trump-administration-accomplishments-jan-20-Dec-31-2025) (Tier 1) (VERIFIED)
+- [EPA. Administrator Zeldin Announces Waters of the United States Rule Revision](https://www.epa.gov/newsreleases/administrator-zeldin-announces-epa-will-revise-waters-united-states-rule) (Tier 1) (VERIFIED)
+- [EPA. Reconsideration of Biden Harris Clean Power Plan 2.0](https://www.epa.gov/newsreleases/trump-epa-announces-reconsideration-biden-harris-rule-clean-power-plan-20-prioritized) (Tier 1) (VERIFIED)
+- [Inside Climate News. EPA Hits 40 Year Staffing Lows (March 2026)](https://insideclimatenews.org/news/06032026/trump-epa-staffing-lows/) (Tier 2) (VERIFIED)
+- ~~[NRDC. Trump Administration Plans to Gut Water Protections Nationwide](https://www.nrdc.org/press-releases/trump-administration-plans-gut-water-protections-nationwide-0)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Sabin Center. Climate Deregulation Tracker](https://climate.law.columbia.edu/climate-deregulation-tracker) (Tier 2) (VERIFIED)
+- [Brennan Center. Fossil Fuel Industry Donors See Major Returns in Trump Policies](https://www.brennancenter.org/our-work/analysis-opinion/fossil-fuel-industry-donors-see-major-returns-trumps-policies) (Tier 2) (VERIFIED)
+- [Sierra Club. Oil Tycoons Open the Money Floodgates for Trump](https://www.sierraclub.org/sierra/oil-tycoons-open-money-floodgates-trump) (Tier 2) (VERIFIED)
+- [NPR. Trump EPA Will Stop Regulating Greenhouse Gases (February 2026)](https://www.npr.org/2026/02/11/nx-s1-5678273/trump-epa-climate-change-endangerment) (Tier 2) (VERIFIED)
 

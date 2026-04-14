@@ -26,7 +26,7 @@ Philip DeFranco is a veteran YouTube news commentator and media entrepreneur wit
 
 No FEC individual contributions found. The FEC API returns 0 results for both "DEFRANCO, PHILIP" and "DEFRANCO, PHIL" — no contributions on record for the YouTube news host. A creator with 6M+ subscribers and significant media influence who makes $0 in political contributions — his influence operates through audience curation and algorithmic reach, not campaign finance. The "both sides" editorial model is reflected in zero financial commitment to either side.
 
-- [FEC: Philip DeFranco individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=DEFRANCO%2C+PHILIP) (Tier 1)
+- [FEC: Philip DeFranco individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=DEFRANCO%2C+PHILIP) (Tier 1) (VERIFIED)
 
 ### The Funding Model
 
@@ -146,12 +146,12 @@ DeFranco's centrist frame trains audiences to distrust left-wing institutional c
 
 ### Sources
 
-- [Philip DeFranco - Wikipedia](https://en.wikipedia.org/wiki/Philip_DeFranco) (Tier 3) (Chrome verified 2026-03-27)
-- [Discovery's Revision3 Buys Philip DeFranco's YouTube Ventures — Deadline](https://deadline.com/2013/05/discoverys-revision3-buys-philip-defrancos-youtube-ventures-510501/) (Tier 2) (Chrome verified 2026-03-27)
-- [Discovery Invests $100 Million In New Venture That Unites Philip DeFranco's SourceFed Studios, NowThis, Thrillist — Tubefilter](https://www.tubefilter.com/2016/10/13/discovery-investment-group-nine-media/) (Tier 2) (Chrome verified 2026-03-27)
-- [Discovery-Backed Group Nine Media To Shut Down Philip DeFranco's SourceFed — Tubefilter](https://www.tubefilter.com/2017/03/20/discovery-group-nine-media-philip-defranco-sourcefed-shutter/) (Tier 2) (Chrome verified 2026-03-27)
-- [Philip Defranco's Net Worth & Income Sources Revealed — EatHealthy365](https://eathealthy365.com/philip-defrancos-net-worth-income-sources-revealed/) (Tier 3) (Chrome verified 2026-03-27)
-- [How Philip DeFranco Keeps His Audience Coming Back — Insight Out](https://www.insightoutshow.com/podcast/how-philip-defranco-keeps-his-audience-coming-back/) (Tier 3) (Chrome verified 2026-03-27)
-- [The Philip DeFranco Show — Wikipedia](https://en.wikipedia.org/wiki/The_Philip_DeFranco_Show) (Tier 3) (Chrome verified 2026-03-27)
-- [SourceFed - Wikipedia](https://en.wikipedia.org/wiki/SourceFed) (Tier 3) (Chrome verified 2026-03-27)
+- [Philip DeFranco - Wikipedia](https://en.wikipedia.org/wiki/Philip_DeFranco) (Tier 3) (VERIFIED) (Chrome verified 2026-03-27)
+- [Discovery's Revision3 Buys Philip DeFranco's YouTube Ventures — Deadline](https://deadline.com/2013/05/discoverys-revision3-buys-philip-defrancos-youtube-ventures-510501/) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
+- [Discovery Invests $100 Million In New Venture That Unites Philip DeFranco's SourceFed Studios, NowThis, Thrillist — Tubefilter](https://www.tubefilter.com/2016/10/13/discovery-investment-group-nine-media/) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
+- [Discovery-Backed Group Nine Media To Shut Down Philip DeFranco's SourceFed — Tubefilter](https://www.tubefilter.com/2017/03/20/discovery-group-nine-media-philip-defranco-sourcefed-shutter/) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
+- [Philip Defranco's Net Worth & Income Sources Revealed — EatHealthy365](https://eathealthy365.com/philip-defrancos-net-worth-income-sources-revealed/) (Tier 3) (VERIFIED) (Chrome verified 2026-03-27)
+- [How Philip DeFranco Keeps His Audience Coming Back — Insight Out](https://www.insightoutshow.com/podcast/how-philip-defranco-keeps-his-audience-coming-back/) (Tier 3) (VERIFIED) (Chrome verified 2026-03-27)
+- [The Philip DeFranco Show — Wikipedia](https://en.wikipedia.org/wiki/The_Philip_DeFranco_Show) (Tier 3) (VERIFIED) (Chrome verified 2026-03-27)
+- [SourceFed - Wikipedia](https://en.wikipedia.org/wiki/SourceFed) (Tier 3) (VERIFIED) (Chrome verified 2026-03-27)
 

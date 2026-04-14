@@ -39,7 +39,7 @@ audit-a-plus-passed: "2026-04-11"
 
 ### Who They Are
 
-[[Robert Mercer]]. Billionaire hedge fund manager. Co-CEO of Renaissance Technologies (1993–2017). Architect of the Medallion Fund, the most profitable quantitative trading fund in history ($66B+ cumulative profits, 62% annualized returns 1988–2021). Net worth: ~$1 billion. IRS dispute: $7 billion settlement in 2021 over "basket options" tax avoidance, the largest tax settlement in U.S. history [Source: [Senate Permanent Subcommittee on Investigations: Renaissance Technologies tax avoidance](https://www.hsgac.senate.gov/subcommittees/investigations/) (Tier 1)]. Total political donations: $34.9M+ to Republican candidates and PACs since 2006 ($22.5M in the 2016 cycle alone) [Source: [FEC Receipts: Robert Mercer donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=robert%20mercer) (Tier 1)]. Funded the trifecta that put Trump in the White House: Breitbart News ($10M, the messaging platform), Cambridge Analytica ($15-20M, the data weapon), and Make America Number 1 super PAC ($15.5M, the money). Resigned as Renaissance co-CEO in November 2017 after Jim Simons pressured him over Breitbart's toxicity. Transferred political operations to daughter Rebekah. The man who turned algorithmic trading profits into algorithmic political manipulation, using the same data-driven logic to trade elections that he used to trade markets.
+[[Robert Mercer]]. Billionaire hedge fund manager. Co-CEO of Renaissance Technologies (1993–2017). Architect of the Medallion Fund, the most profitable quantitative trading fund in history ($66B+ cumulative profits, 62% annualized returns 1988–2021). Net worth: ~$1 billion. IRS dispute: $7 billion settlement in 2021 over "basket options" tax avoidance, the largest tax settlement in U.S. history [Source: [Senate Permanent Subcommittee on Investigations: Renaissance Technologies tax avoidance](https://www.hsgac.senate.gov/subcommittees/investigations/) (Tier 1) (VERIFIED)]. Total political donations: $34.9M+ to Republican candidates and PACs since 2006 ($22.5M in the 2016 cycle alone) [Source: [FEC Receipts: Robert Mercer donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=robert%20mercer) (Tier 1) (VERIFIED)]. Funded the trifecta that put Trump in the White House: Breitbart News ($10M, the messaging platform), Cambridge Analytica ($15-20M, the data weapon), and Make America Number 1 super PAC ($15.5M, the money). Resigned as Renaissance co-CEO in November 2017 after Jim Simons pressured him over Breitbart's toxicity. Transferred political operations to daughter Rebekah. The man who turned algorithmic trading profits into algorithmic political manipulation, using the same data-driven logic to trade elections that he used to trade markets.
 
 ---
 
@@ -124,12 +124,12 @@ Political infrastructure that operates independently of politicians. The Mercer 
 ### Sources
 
 - [FEC Receipts: Robert Mercer donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=robert%20mercer) (Tier 1)
-- [OpenSecrets News: Dark money Mercer-backed anti-Muslim ads](https://www.opensecrets.org/news/2018/04/exclusive-robert-mercer-backed-a-secretive-group-that-worked-with-facebook-google-to-target-anti-muslim-ads-at-swing-voters/) (Tier 2)
-- [NPR: Inside the family funding Bannon's plan](https://www.npr.org/2017/03/22/521083950/inside-the-wealthy-family-that-has-been-funding-steve-bannon-s-plan-for-years) (Tier 2)
-- [Wikipedia: Robert Mercer](https://en.wikipedia.org/wiki/Robert_Mercer) (Tier 3)
-- [CNBC: Robert Mercer political spending](https://www.cnbc.com/2020/04/15/robert-mercer-starts-big-money-effort-for-trump-campaign.html) (Tier 2)
-- [Senate Permanent Subcommittee on Investigations: Renaissance Technologies tax avoidance, 2014](https://www.hsgac.senate.gov/subcommittees/investigations/) (Tier 1)
-- [SourceWatch: Robert Mercer](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Robert_Mercer) (Tier 3)
+- [OpenSecrets News: Dark money Mercer-backed anti-Muslim ads](https://www.opensecrets.org/news/2018/04/exclusive-robert-mercer-backed-a-secretive-group-that-worked-with-facebook-google-to-target-anti-muslim-ads-at-swing-voters/) (Tier 2) (VERIFIED)
+- [NPR: Inside the family funding Bannon's plan](https://www.npr.org/2017/03/22/521083950/inside-the-wealthy-family-that-has-been-funding-steve-bannon-s-plan-for-years) (Tier 2) (VERIFIED)
+- [Wikipedia: Robert Mercer](https://en.wikipedia.org/wiki/Robert_Mercer) (Tier 3) (VERIFIED)
+- [CNBC: Robert Mercer political spending](https://www.cnbc.com/2020/04/15/robert-mercer-starts-big-money-effort-for-trump-campaign.html) (Tier 2) (VERIFIED)
+- [Senate Permanent Subcommittee on Investigations: Renaissance Technologies tax avoidance, 2014](https://www.hsgac.senate.gov/subcommittees/investigations/) (Tier 1) (VERIFIED)
+- ~~[SourceWatch: Robert Mercer](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Robert_Mercer)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
@@ -155,7 +155,7 @@ Political infrastructure that operates independently of politicians. The Mercer 
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [213800EIIUUJGZ8VRD59](https://search.gleif.org/#/record/213800EIIUUJGZ8VRD59) |
+| LEI | [213800EIIUUJGZ8VRD59](https://search.gleif.org/#/record/213800EIIUUJGZ8VRD59) (VERIFIED) |
 | Legal Name | THE ROBERT MERCER NAIRNE 1976 CHICAGO TRUST |
 | Jurisdiction | GB |
 | Entity Status | ACTIVE |
@@ -163,7 +163,7 @@ Political infrastructure that operates independently of politicians. The Mercer 
 | Registration | ISSUED |
 | Last Updated | 2025-09-07T11:57:49Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Campaign Finance (FEC)
@@ -188,7 +188,7 @@ Political infrastructure that operates independently of politicians. The Mercer 
 | REPUBLICAN CAMPAIGN COMMITTEE OF NEW MEXICO | $10,000 | REP |
 | SOUTH CAROLINA REPUBLICAN PARTY | $10,000 | REP |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Robert%20Mercer) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Robert%20Mercer) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### Federal Court Records (CourtListener)
@@ -207,5 +207,5 @@ Political infrastructure that operates independently of politicians. The Mercer 
 - The Center for Investigative Reporting, Inc. v. OpenAI, Inc. (2024) — District Court, S.D. New York
 - Mastriano v. Gregory (2024) — District Court, W.D. Oklahoma
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Robert%20Mercer%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Robert%20Mercer%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->

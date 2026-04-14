@@ -53,9 +53,9 @@ PG&E represents the extreme case of utility political capture: a company that ha
 
 ### Sources
 
-- [SEC: PG&E Corporation filings](https://www.sec.gov/cgi-bin/browse-edgar?company=PG%26E%20-%20Pacific%20Gas%20and%20Electric&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)
-- [OpenSecrets: PG&E political contributions](https://www.opensecrets.org/orgs/pg-e-corp/summary?id=D000000150) (Tier 1)
-- [Ballotpedia: California utility regulation](https://ballotpedia.org/PG&E_-_Pacific_Gas_and_Electric) (Tier 3)
+- [SEC: PG&E Corporation filings](https://www.sec.gov/cgi-bin/browse-edgar?company=PG%26E%20-%20Pacific%20Gas%20and%20Electric&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1) (VERIFIED)
+- [OpenSecrets: PG&E political contributions](https://www.opensecrets.org/orgs/pg-e-corp/summary?id=D000000150) (Tier 1) (NEEDS REVIEW)
+- [Ballotpedia: California utility regulation](https://ballotpedia.org/PG&E_-_Pacific_Gas_and_Electric) (Tier 3) (VERIFIED)
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->
@@ -72,21 +72,21 @@ PG&E represents the extreme case of utility political capture: a company that ha
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/201337481/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/201337481/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/201337481/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/201337481/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/201337481/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/201337481/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/201337481/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/201337481/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/201337481/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/201337481/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/201337481) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/201337481) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [R0KNQ1I1NAJLDR51ER82](https://search.gleif.org/#/record/R0KNQ1I1NAJLDR51ER82) |
+| LEI | [R0KNQ1I1NAJLDR51ER82](https://search.gleif.org/#/record/R0KNQ1I1NAJLDR51ER82) (VERIFIED) |
 | Legal Name | Pacific Gas and Electric Company Post-retirement Medical Plan Trust - Management and Non-Bargaining Unit Retirees |
 | Jurisdiction | US-CA |
 | Entity Status | ACTIVE |
@@ -94,7 +94,7 @@ PG&E represents the extreme case of utility political capture: a company that ha
 | Registration | ISSUED |
 | Last Updated | 2025-11-12T07:52:31Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Federal Register Activity
@@ -108,13 +108,13 @@ PG&E represents the extreme case of utility political capture: a company that ha
 | Agencies | Energy Department, Energy Efficiency and Renewable Energy Office, Federal Energy Regulatory Commission, Western Area Power Administration |
 
 **Recent regulatory activity:**
-- [Central Valley Project and California-Oregon Transmission ProjectWAPA-77](https://www.federalregister.gov/documents/1997/09/29/97-25746/central-valley-project-and-california-oregon-transmission-projectwapa-77) (1997-09-29) — Energy Department
-- [Promoting Wholesale Competition Through Open Access Non- Discriminatory Transmission Services by Public Utilities; Recovery of Stranded Costs by Public Utilities and Transmitting Utilities](https://www.federalregister.gov/documents/1996/05/10/96-10694/promoting-wholesale-competition-through-open-access-non--discriminatory-transmission-services-by) (1996-05-10) — Energy Department
-- [Central Valley Project Notice of Rate Order No. WAPA-72](https://www.federalregister.gov/documents/1995/10/10/95-25043/central-valley-project-notice-of-rate-order-no-wapa-72) (1995-10-10) — Energy Department
-- [Notice of Amended Rate Schedule](https://www.federalregister.gov/documents/1995/08/16/95-20284/notice-of-amended-rate-schedule) (1995-08-16) — Energy Department
-- [Energy Conservation Program for Consumer Products: Proposed Rulemaking Regarding Energy Conservation Standards for Refrigerators, Refrigerator-Freezers, and Freezers](https://www.federalregister.gov/documents/1995/07/20/95-17625/energy-conservation-program-for-consumer-products-proposed-rulemaking-regarding-energy-conservation) (1995-07-20) — Energy Department
+- ~~[Central Valley Project and California-Oregon Transmission ProjectWAPA-77](https://www.federalregister.gov/documents/1997/09/29/97-25746/central-valley-project-and-california-oregon-transmission-projectwapa-77)~~ (URL broken, archived by Ops) (1997-09-29) — Energy Department
+- [Promoting Wholesale Competition Through Open Access Non- Discriminatory Transmission Services by Public Utilities; Recovery of Stranded Costs by Public Utilities and Transmitting Utilities](https://www.federalregister.gov/documents/1996/05/10/96-10694/promoting-wholesale-competition-through-open-access-non--discriminatory-transmission-services-by) (VERIFIED) (1996-05-10) — Energy Department
+- [Central Valley Project Notice of Rate Order No. WAPA-72](https://www.federalregister.gov/documents/1995/10/10/95-25043/central-valley-project-notice-of-rate-order-no-wapa-72) (VERIFIED) (1995-10-10) — Energy Department
+- [Notice of Amended Rate Schedule](https://www.federalregister.gov/documents/1995/08/16/95-20284/notice-of-amended-rate-schedule) (VERIFIED) (1995-08-16) — Energy Department
+- [Energy Conservation Program for Consumer Products: Proposed Rulemaking Regarding Energy Conservation Standards for Refrigerators, Refrigerator-Freezers, and Freezers](https://www.federalregister.gov/documents/1995/07/20/95-17625/energy-conservation-program-for-consumer-products-proposed-rulemaking-regarding-energy-conservation) (VERIFIED) (1995-07-20) — Energy Department
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22PG%26E%20-%20Pacific%20Gas%20and%20Electric%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22PG%26E%20-%20Pacific%20Gas%20and%20Electric%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### SEC Filing Activity
@@ -132,5 +132,5 @@ PG&E represents the extreme case of utility political capture: a company that ha
 - 2009-02-24 — **EX-21**: SIGNIFICANT SUBSIDIARIES
 - 2009-02-24 — **EX-21**: SIGNIFICANT SUBSIDIARIES
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22PG%26E%20-%20Pacific%20Gas%20and%20Electric%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22PG%26E%20-%20Pacific%20Gas%20and%20Electric%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->

@@ -56,7 +56,7 @@ Southern Company. The second-largest utility company in the United States ($25 b
 
 Southern Company PAC is one of the largest utility PACs in the country ($3-5 million per cycle), with lobbying spending of $10-15 million annually. Southern Company's political operation extends to state-level regulatory capture: the company has systematically influenced the appointment of Public Service Commission (PSC) members in Georgia and Alabama who approve its rate increases.
 
-- [OpenSecrets: Southern Company organizational profile](https://www.opensecrets.org/orgs/southern-co/summary?id=D000000180) (Tier 1)
+- ~~[OpenSecrets: Southern Company organizational profile](https://www.opensecrets.org/orgs/southern-co/summary?id=D000000180)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -80,8 +80,8 @@ Favorable rate increases from state PSCs, nuclear power subsidies (Plant Vogtle)
 ### Sources
 
 - [OpenSecrets: Southern Company organizational profile](https://www.opensecrets.org/orgs/southern-co/summary?id=D000000180) (Tier 1)
-- [NRC: Plant Vogtle construction and licensing](https://www.nrc.gov/reactors/new-reactors/large-lwr/col/vogtle) (Tier 1)
-- [Ballotpedia: Southern Company](https://ballotpedia.org/Southern_Company) (Tier 3)
+- [NRC: Plant Vogtle construction and licensing](https://www.nrc.gov/reactors/new-reactors/large-lwr/col/vogtle) (Tier 1) (VERIFIED)
+- [Ballotpedia: Southern Company](https://ballotpedia.org/Southern_Company) (Tier 3) (VERIFIED)
 
 ---
 
@@ -103,7 +103,7 @@ Favorable rate increases from state PSCs, nuclear power subsidies (Plant Vogtle)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [549300ZW53G2TUFW5T39](https://search.gleif.org/#/record/549300ZW53G2TUFW5T39) |
+| LEI | [549300ZW53G2TUFW5T39](https://search.gleif.org/#/record/549300ZW53G2TUFW5T39) (VERIFIED) |
 | Legal Name | Southern Company Gas |
 | Jurisdiction | US-GA |
 | Entity Status | ACTIVE |
@@ -113,10 +113,10 @@ Favorable rate increases from state PSCs, nuclear power subsidies (Plant Vogtle)
 
 **Ownership chain:**
 
-- Ultimate Parent: [THE SOUTHERN COMPANY](https://search.gleif.org/#/record/549300FC3G3YU2FBZD92) (US-DE)
+- Ultimate Parent: [THE SOUTHERN COMPANY](https://search.gleif.org/#/record/549300FC3G3YU2FBZD92) (VERIFIED) (US-DE)
 - Southern Company Gas (this entity)
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Federal Court Records (CourtListener)
@@ -135,7 +135,7 @@ Favorable rate increases from state PSCs, nuclear power subsidies (Plant Vogtle)
 - Bromerc Ltd. v. DTE Energy Resources, LLC (2026) — District Court, D. Delaware
 - Bromerc Ltd. v. CERT Operations, LLC (2026) — District Court, D. Delaware
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Southern%20Company%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Southern%20Company%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -147,7 +147,7 @@ Favorable rate increases from state PSCs, nuclear power subsidies (Plant Vogtle)
 | Total Expenses | $4.9M |
 | Net Assets | $104.5M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 582514027](https://projects.propublica.org/nonprofits/organizations/582514027) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 582514027](https://projects.propublica.org/nonprofits/organizations/582514027) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Federal Register Activity
@@ -161,15 +161,15 @@ Favorable rate increases from state PSCs, nuclear power subsidies (Plant Vogtle)
 | Agencies | Energy Department, Environmental Protection Agency, Federal Communications Commission, Federal Energy Regulatory Commission, Labor Department, Veterans Employment and Training Service |
 
 **Recent regulatory activity:**
-- [HIRE Vets Medallion Program-Announcement of HIRE Vets Medallion Award Recipients](https://www.federalregister.gov/documents/2026/03/10/2026-04653/hire-vets-medallion-program-announcement-of-hire-vets-medallion-award-recipients) (2026-03-10) — Labor Department
-- [Unlicensed Use of the 6 GHz Band; Expanding Flexible Use in Mid-Band Spectrum Between 3.7 and 24 GHz](https://www.federalregister.gov/documents/2026/02/25/2026-03744/unlicensed-use-of-the-6-ghz-band-expanding-flexible-use-in-mid-band-spectrum-between-37-and-24-ghz) (2026-02-25) — Federal Communications Commission
-- [Effluent Limitations Guidelines and Standards for the Steam Electric Power Generating Point Source Category-Deadline Extensions](https://www.federalregister.gov/documents/2025/12/31/2025-24102/effluent-limitations-guidelines-and-standards-for-the-steam-electric-power-generating-point-source) (2025-12-31) — Environmental Protection Agency
-- [Effluent Limitations Guidelines and Standards for the Steam Electric Power Generating Point Source Category-Deadline Extensions](https://www.federalregister.gov/documents/2025/10/02/2025-19268/effluent-limitations-guidelines-and-standards-for-the-steam-electric-power-generating-point-source) (2025-10-02) — Environmental Protection Agency
-- [Gulf South Pipeline Company, LLC, Texas Gas Transmission, LLC; Notice of Application and Establishing Intervention Deadline](https://www.federalregister.gov/documents/2025/09/30/2025-18993/gulf-south-pipeline-company-llc-texas-gas-transmission-llc-notice-of-application-and-establishing) (2025-09-30) — Energy Department
-- [Accelerating Wireline Broadband Deployment by Removing Barriers to Infrastructure Investment](https://www.federalregister.gov/documents/2025/08/22/2025-16088/accelerating-wireline-broadband-deployment-by-removing-barriers-to-infrastructure-investment) (2025-08-22) — Federal Communications Commission
+- [HIRE Vets Medallion Program-Announcement of HIRE Vets Medallion Award Recipients](https://www.federalregister.gov/documents/2026/03/10/2026-04653/hire-vets-medallion-program-announcement-of-hire-vets-medallion-award-recipients) (VERIFIED) (2026-03-10) — Labor Department
+- [Unlicensed Use of the 6 GHz Band; Expanding Flexible Use in Mid-Band Spectrum Between 3.7 and 24 GHz](https://www.federalregister.gov/documents/2026/02/25/2026-03744/unlicensed-use-of-the-6-ghz-band-expanding-flexible-use-in-mid-band-spectrum-between-37-and-24-ghz) (VERIFIED) (2026-02-25) — Federal Communications Commission
+- [Effluent Limitations Guidelines and Standards for the Steam Electric Power Generating Point Source Category-Deadline Extensions](https://www.federalregister.gov/documents/2025/12/31/2025-24102/effluent-limitations-guidelines-and-standards-for-the-steam-electric-power-generating-point-source) (VERIFIED) (2025-12-31) — Environmental Protection Agency
+- [Effluent Limitations Guidelines and Standards for the Steam Electric Power Generating Point Source Category-Deadline Extensions](https://www.federalregister.gov/documents/2025/10/02/2025-19268/effluent-limitations-guidelines-and-standards-for-the-steam-electric-power-generating-point-source) (VERIFIED) (2025-10-02) — Environmental Protection Agency
+- [Gulf South Pipeline Company, LLC, Texas Gas Transmission, LLC; Notice of Application and Establishing Intervention Deadline](https://www.federalregister.gov/documents/2025/09/30/2025-18993/gulf-south-pipeline-company-llc-texas-gas-transmission-llc-notice-of-application-and-establishing) (VERIFIED) (2025-09-30) — Energy Department
+- [Accelerating Wireline Broadband Deployment by Removing Barriers to Infrastructure Investment](https://www.federalregister.gov/documents/2025/08/22/2025-16088/accelerating-wireline-broadband-deployment-by-removing-barriers-to-infrastructure-investment) (VERIFIED) (2025-08-22) — Federal Communications Commission
 - ... and 1,573 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Southern%20Company%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Southern%20Company%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -190,7 +190,7 @@ Favorable rate increases from state PSCs, nuclear power subsidies (Plant Vogtle)
 | Department of Homeland Security | $1.5M |
 | Department of Justice | $240K |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Lobbying Activity
@@ -209,7 +209,7 @@ Favorable rate increases from state PSCs, nuclear power subsidies (Plant Vogtle)
 
 **Agencies contacted:** AMTRAK - Natl Railroad Passenger Corporation, Agriculture, Dept of (USDA), Bureau of Indian Affairs (BIA), Bureau of Reclamation, Council on Environmental Quality (CEQ), Education, Dept of, Energy, Dept of, Environmental Protection Agency (EPA), Federal Energy Regulatory Commission (FERC), Federal Railroad Administration +11 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Southern%20Company) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Southern%20Company) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Tax Filings (IRS 990)
@@ -227,12 +227,12 @@ Favorable rate increases from state PSCs, nuclear power subsidies (Plant Vogtle)
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/300749713/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/300749713/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/300749713/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/300749713/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/300749713/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/300749713/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/300749713/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/300749713/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/300749713/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/300749713/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/300749713) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/300749713) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->

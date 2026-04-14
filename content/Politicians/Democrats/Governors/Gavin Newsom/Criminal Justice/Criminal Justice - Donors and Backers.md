@@ -130,16 +130,16 @@ Progressive voters and criminal justice reform organizations hear: death penalty
 
 ### Sources
 
-- [CalMatters: Why California's prison guard union is spending like never before on Gavin Newsom](https://calmatters.org/justice/2024/07/ccpoa-gavin-newsom/) (Tier 2)
-- [CalMatters: Why California's prison guard union is spending like never before](https://calmatters.org/justice/2024/07/ccpoa-gavin-newsom/) (Tier 2)
-- [CalMatters: 2023 CCPOA contract](https://calmatters.org/justice/2023/08/ccpoa-contract-2023-california-prisons/) (Tier 2)
-- [CalMatters: 2025 CCPOA contract](https://calmatters.org/justice/2025/06/ccpoa-contract-furloughs/) (Tier 2)
-- [LAO: 2025-26 CDCR Budget Report](https://lao.ca.gov/Publications/Report/5085) (Tier 1)
-- [FPPC: CCPOA filings](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1)
-- [CalMatters: What the failure of cash bail means for racial justice](https://calmatters.org/justice/2020/11/what-the-failure-of-prop-25-means-for-racial-justice-in-california/) (Tier 2)
-- [CalMatters: Cop cash (law enforcement campaign contributions)](https://calmatters.org/category/politics/2022/03/california-law-enforcement-campaign-contributions/) (Tier 2)
-- [UC Berkeley Journalism: PORAC clean-record agreements investigation](https://journalism.berkeley.edu/projects/this-is-the-secret-system-that-covers-up-police-misconduct-and-ensures-problem-officers-can-get-hired-again/) (Tier 2)
-- [Ballotpedia: Proposition 25 (2020)](https://ballotpedia.org/California_Proposition_25,_Replace_Cash_Bail_with_Risk_Assessments_Referendum_%282020%29) (Tier 1)
-- [Brennan Center: bail bond profit analysis](https://www.brennancenter.org/our-work/analysis-opinion/how-profit-shapes-bail-bond-system) (Tier 2)
-- [California Supreme Court: In re Humphrey (2021)](https://law.justia.com/cases/california/supreme-court/2021/s247278.html) (Tier 1)
+- [CalMatters: Why California's prison guard union is spending like never before on Gavin Newsom](https://calmatters.org/justice/2024/07/ccpoa-gavin-newsom/) (Tier 2) (VERIFIED)
+- [CalMatters: Why California's prison guard union is spending like never before](https://calmatters.org/justice/2024/07/ccpoa-gavin-newsom/) (Tier 2) (VERIFIED)
+- [CalMatters: 2023 CCPOA contract](https://calmatters.org/justice/2023/08/ccpoa-contract-2023-california-prisons/) (Tier 2) (VERIFIED)
+- [CalMatters: 2025 CCPOA contract](https://calmatters.org/justice/2025/06/ccpoa-contract-furloughs/) (Tier 2) (VERIFIED)
+- [LAO: 2025-26 CDCR Budget Report](https://lao.ca.gov/Publications/Report/5085) (Tier 1) (VERIFIED)
+- [FPPC: CCPOA filings](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1) (VERIFIED)
+- [CalMatters: What the failure of cash bail means for racial justice](https://calmatters.org/justice/2020/11/what-the-failure-of-prop-25-means-for-racial-justice-in-california/) (Tier 2) (VERIFIED)
+- ~~[CalMatters: Cop cash (law enforcement campaign contributions)](https://calmatters.org/category/politics/2022/03/california-law-enforcement-campaign-contributions/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [UC Berkeley Journalism: PORAC clean-record agreements investigation](https://journalism.berkeley.edu/projects/this-is-the-secret-system-that-covers-up-police-misconduct-and-ensures-problem-officers-can-get-hired-again/) (Tier 2) (VERIFIED)
+- [Ballotpedia: Proposition 25 (2020)](https://ballotpedia.org/California_Proposition_25,_Replace_Cash_Bail_with_Risk_Assessments_Referendum_%282020%29) (Tier 1) (VERIFIED)
+- [Brennan Center: bail bond profit analysis](https://www.brennancenter.org/our-work/analysis-opinion/how-profit-shapes-bail-bond-system) (Tier 2) (VERIFIED)
+- [California Supreme Court: In re Humphrey (2021)](https://law.justia.com/cases/california/supreme-court/2021/s247278.html) (Tier 1) (VERIFIED)
 

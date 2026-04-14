@@ -244,18 +244,18 @@ The Brownstein Hyatt Farber Schreck connection illustrates how the donor class o
 
 ## Sources
 
-- [FEC Candidate: John Hickenlooper campaign finance summary](https://www.fec.gov/data/candidate/P00010520/) (Tier 1)
-- [FEC Candidate: John Hickenlooper top industries (career)](https://www.fec.gov/data/candidate/P00010520/) (Tier 1)
-- [FEC Candidate: John Hickenlooper top contributors (career)](https://www.fec.gov/data/candidate/P00010520/) (Tier 1)
-- [Colorado Sun: Oil and gas and private donors paid for Hickenlooper initiatives](https://coloradosun.com/2020/06/12/john-hickenlooper-oil-and-gas-governor-office/) (Tier 2)
-- [Colorado Sun: Oil and gas donors become issue in Democratic primary](https://coloradosun.com/2020/06/23/oil-and-gas-hickenlooper-romanoff-campaign-finance/) (Tier 2)
-- [Colorado Sun: Ethics panel orders Hickenlooper to pay $2,750 for two violations](https://coloradosun.com/2020/06/12/john-hickenlooper-ethics-violation/) (Tier 2)
-- [CPR News: Ethics Commission concludes Hickenlooper violated Colorado's gift ban](https://www.cpr.org/2020/06/05/ethics-commission-concludes-hickenlooper-violated-colorados-gift-ban-for-public-officials/) (Tier 2)
-- [KUNC: What's in the fracking fluid Hickenlooper drank?](https://www.kunc.org/business/2013-02-15/whats-in-the-fracking-fluid-hickenlooper-drank) (Tier 2)
+- [FEC Candidate: John Hickenlooper campaign finance summary](https://www.fec.gov/data/candidate/P00010520/) (Tier 1) (VERIFIED)
+- [FEC Candidate: John Hickenlooper top industries (career)](https://www.fec.gov/data/candidate/P00010520/) (Tier 1) (VERIFIED)
+- [FEC Candidate: John Hickenlooper top contributors (career)](https://www.fec.gov/data/candidate/P00010520/) (Tier 1) (VERIFIED)
+- [Colorado Sun: Oil and gas and private donors paid for Hickenlooper initiatives](https://coloradosun.com/2020/06/12/john-hickenlooper-oil-and-gas-governor-office/) (Tier 2) (VERIFIED)
+- [Colorado Sun: Oil and gas donors become issue in Democratic primary](https://coloradosun.com/2020/06/23/oil-and-gas-hickenlooper-romanoff-campaign-finance/) (Tier 2) (VERIFIED)
+- [Colorado Sun: Ethics panel orders Hickenlooper to pay $2,750 for two violations](https://coloradosun.com/2020/06/12/john-hickenlooper-ethics-violation/) (Tier 2) (VERIFIED)
+- ~~[CPR News: Ethics Commission concludes Hickenlooper violated Colorado's gift ban](https://www.cpr.org/2020/06/05/ethics-commission-concludes-hickenlooper-violated-colorados-gift-ban-for-public-officials/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [KUNC: What's in the fracking fluid Hickenlooper drank?](https://www.kunc.org/business/2013-02-15/whats-in-the-fracking-fluid-hickenlooper-drank) (Tier 2) (VERIFIED)
 - ~~[FollowTheMoney: Energy dollars in Denver](https://www.followthemoney.org/research/blog/energy-dollars-in-denver)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
-- [Congress.gov: John W. Hickenlooper member page](https://www.congress.gov/member/john-hickenlooper/H000273) (Tier 1)
-- [Denver Post: Hickenlooper says 2026 reelection will be final Senate run](https://www.denverpost.com/2024/08/21/john-hickenlooper-colorado-us-senate/) (Tier 2)
-- [Ballotpedia: John Hickenlooper](https://ballotpedia.org/John_Hickenlooper) (Tier 3)
+- ~~[Congress.gov: John W. Hickenlooper member page](https://www.congress.gov/member/john-hickenlooper/H000273)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Denver Post: Hickenlooper says 2026 reelection will be final Senate run](https://www.denverpost.com/2024/08/21/john-hickenlooper-colorado-us-senate/) (Tier 2) (VERIFIED)
+- [Ballotpedia: John Hickenlooper](https://ballotpedia.org/John_Hickenlooper) (Tier 3) (VERIFIED)
 
 ---
 
@@ -269,7 +269,7 @@ The Brownstein Hyatt Farber Schreck connection illustrates how the donor class o
 | PAC Contributions | $4,653 |
 | Cash on Hand | 0.00 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/P00010520/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/P00010520/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 <!-- auto:fec-politician pending-merge 2026-04-11 -->
@@ -303,7 +303,7 @@ The Brownstein Hyatt Farber Schreck connection illustrates how the donor class o
 | FAIR SHARE ACTION | $1,511,450 | $0 |
 | ESAFUND | $0 | $1,050,000 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S0CO00575/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S0CO00575/) (Tier 1) (VERIFIED)
 
 <!-- auto:fec-politician pending-merge end -->
 
@@ -339,7 +339,7 @@ The Brownstein Hyatt Farber Schreck connection illustrates how the donor class o
 | 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
 | 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456797) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456797) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
 
 ### Sanctions & PEP Screening (OpenSanctions)
@@ -354,10 +354,10 @@ The Brownstein Hyatt Farber Schreck connection illustrates how the donor class o
 | Topics | sanction.counter, role.rca, role.pol, role.pep |
 
 **Matched records:**
-- [John Hickenlooper](https://www.opensanctions.org/entities/Q430518/) — 100% match (ann_pep_positions, wd_categories, wd_peps)
+- [John Hickenlooper](https://www.opensanctions.org/entities/Q430518/) (VERIFIED) — 100% match (ann_pep_positions, wd_categories, wd_peps)
 - [John Hickenlooper](https://www.opensanctions.org/entities/Q430518/) — 100% match (ann_pep_positions, wd_categories, wd_peps)
 
-- [Source: OpenSanctions](https://www.opensanctions.org/search/?q=John%20Hickenlooper) (Tier 1)
+- [Source: OpenSanctions](https://www.opensanctions.org/search/?q=John%20Hickenlooper) (Tier 1) (VERIFIED)
 <!-- auto:opensanctions end -->
 
 ### Committee Assignments (Congress.gov)
@@ -381,7 +381,7 @@ The Brownstein Hyatt Farber Schreck connection illustrates how the donor class o
 - Telecommunications and Media
 - Water and Power
 
-- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 ### Legislative Activity (Congress.gov)
@@ -410,7 +410,7 @@ The Brownstein Hyatt Farber Schreck connection illustrates how the donor class o
 | — |  | — |
 | — |  | — |
 
-- [Source: Congress.gov](https://www.congress.gov/member/H000273) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/H000273)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Voting Record
@@ -435,6 +435,6 @@ The Brownstein Hyatt Farber Schreck connection illustrates how the donor class o
 
 **Sources**
 
-- [Congress.gov: John Hickenlooper](https://www.congress.gov/member/c001091) (Tier 1)
-- [GovTrack: John Hickenlooper](https://www.govtrack.us/congress/members/456797) (Tier 1)
+- ~~[Congress.gov: John Hickenlooper](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [GovTrack: John Hickenlooper](https://www.govtrack.us/congress/members/456797) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->

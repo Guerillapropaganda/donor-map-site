@@ -197,23 +197,23 @@ The Hegseth fellowship ban (February 2026) is the first time a Defense Secretary
 
 ### Sources
 
-- [ProPublica Nonprofit Explorer: Center for New American Security Inc (EIN 20-8084828)](https://projects.propublica.org/nonprofits/organizations/208084828) (Tier 1)
-- [CNAS: Supporters Page](https://www.cnas.org/support-cnas/cnas-supporters) (Tier 3)
-- [Wikipedia: Center for a New American Security](https://en.wikipedia.org/wiki/Center_for_a_New_American_Security) (Tier 3)
-- [Revolving Door Project: New Report Finds "Serious Conflicts of Interest" at Top National Security Think Tank](https://therevolvingdoorproject.org/cnas-report/) (Tier 2)
-- [Responsible Statecraft: American primacy on the menu for big industry donors at CNAS](https://responsiblestatecraft.org/2021/02/22/american-primacy-on-the-menu-for-big-industry-donors-at-cnas/) (Tier 2)
-- [The Lever: The National Security Revolving Door Starts Spinning](https://www.levernews.com/the-national-security-revolving-door/) (Tier 2)
-- [Revolving Door Project: The Military-Industrial-Think Tank Complex (PDF)](https://therevolvingdoorproject.org/wp-content/uploads/2021/02/2021-02-CNAS-Heinz-and-Jung.pdf) (Tier 2)
-- [In These Times: Meet the Hawkish Liberal Think Tank Powering the Kamala Harris Campaign](https://inthesetimes.com/article/center-new-american-security-cnas-kamala-harris-foreign-policy-2020) (Tier 2)
-- [InfluenceWatch: Center for a New American Security](https://www.influencewatch.org/non-profit/center-for-a-new-american-security/) (Tier 4)
-- [CNAS: Kurt Campbell and Anne Neuberger Elected to Board of Directors](https://www.cnas.org/press/press-release/cnas-elects-kurt-campbell-and-anne-neuberger-to-board-of-directors) (Tier 3)
-- [Responsible Statecraft: New report shows more than $1B from war industry and govt. going to top 50 think tanks](https://responsiblestatecraft.org/2020/10/14/new-report-shows-more-than-1b-from-war-industry-and-govt-going-to-top-50-think-tanks/) (Tier 2)
-- [Quincy Institute: Defense Contractor Funded Think Tanks Dominate Ukraine Debate](https://quincyinst.org/research/defense-contractor-funded-think-tanks-dominate-ukraine-debate/) (Tier 2)
-- [The Intercept: Intelligence Contract Funneled to Pro-War Think Tanks](https://theintercept.com/2021/09/15/pentagon-funding-think-tanks/) (Tier 2)
-- [Jacobin: The Biden Era Is Witnessing a Return of the Military-Industrial Complex. CNAS revolving door to Biden admin (2021)](https://jacobin.com/2021/02/military-industrial-complex-biden-administration) (Tier 2)
-- [Axios: Biden Gets B- From Progressive Think Tank on Hiring Industry Insiders. Revolving Door Project scorecard (2021)](https://www.axios.com/2021/04/23/biden-progressive-think-tank-hires) (Tier 2)
-- [Military.com: Hegseth Orders End to Pentagon-Funded Attendance at Several Elite Universities (Feb 2026)](https://www.military.com/feature/2026/02/28/pete-hegseth-orders-end-pentagon-funded-attendance-several-elite-universities.html) (Tier 2)
-- [Inside Higher Ed: Hegseth is Waging War on Colleges. His Targets Are Unclear (Mar 2026)](https://www.insidehighered.com/news/admissions/graduate/2026/03/06/hegseth-waging-war-colleges-his-targets-are-unclear) (Tier 2)
+- [ProPublica Nonprofit Explorer: Center for New American Security Inc (EIN 20-8084828)](https://projects.propublica.org/nonprofits/organizations/208084828) (Tier 1) (VERIFIED)
+- [CNAS: Supporters Page](https://www.cnas.org/support-cnas/cnas-supporters) (Tier 3) (VERIFIED)
+- [Wikipedia: Center for a New American Security](https://en.wikipedia.org/wiki/Center_for_a_New_American_Security) (Tier 3) (VERIFIED)
+- [Revolving Door Project: New Report Finds "Serious Conflicts of Interest" at Top National Security Think Tank](https://therevolvingdoorproject.org/cnas-report/) (Tier 2) (VERIFIED)
+- [Responsible Statecraft: American primacy on the menu for big industry donors at CNAS](https://responsiblestatecraft.org/2021/02/22/american-primacy-on-the-menu-for-big-industry-donors-at-cnas/) (Tier 2) (VERIFIED)
+- [The Lever: The National Security Revolving Door Starts Spinning](https://www.levernews.com/the-national-security-revolving-door/) (Tier 2) (VERIFIED)
+- [Revolving Door Project: The Military-Industrial-Think Tank Complex (PDF)](https://therevolvingdoorproject.org/wp-content/uploads/2021/02/2021-02-CNAS-Heinz-and-Jung.pdf) (Tier 2) (VERIFIED)
+- [In These Times: Meet the Hawkish Liberal Think Tank Powering the Kamala Harris Campaign](https://inthesetimes.com/article/center-new-american-security-cnas-kamala-harris-foreign-policy-2020) (Tier 2) (VERIFIED)
+- [InfluenceWatch: Center for a New American Security](https://www.influencewatch.org/non-profit/center-for-a-new-american-security/) (Tier 4) (VERIFIED)
+- [CNAS: Kurt Campbell and Anne Neuberger Elected to Board of Directors](https://www.cnas.org/press/press-release/cnas-elects-kurt-campbell-and-anne-neuberger-to-board-of-directors) (Tier 3) (VERIFIED)
+- [Responsible Statecraft: New report shows more than $1B from war industry and govt. going to top 50 think tanks](https://responsiblestatecraft.org/2020/10/14/new-report-shows-more-than-1b-from-war-industry-and-govt-going-to-top-50-think-tanks/) (Tier 2) (VERIFIED)
+- [Quincy Institute: Defense Contractor Funded Think Tanks Dominate Ukraine Debate](https://quincyinst.org/research/defense-contractor-funded-think-tanks-dominate-ukraine-debate/) (Tier 2) (VERIFIED)
+- [The Intercept: Intelligence Contract Funneled to Pro-War Think Tanks](https://theintercept.com/2021/09/15/pentagon-funding-think-tanks/) (Tier 2) (VERIFIED)
+- [Jacobin: The Biden Era Is Witnessing a Return of the Military-Industrial Complex. CNAS revolving door to Biden admin (2021)](https://jacobin.com/2021/02/military-industrial-complex-biden-administration) (Tier 2) (VERIFIED)
+- ~~[Axios: Biden Gets B- From Progressive Think Tank on Hiring Industry Insiders. Revolving Door Project scorecard (2021)](https://www.axios.com/2021/04/23/biden-progressive-think-tank-hires)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Military.com: Hegseth Orders End to Pentagon-Funded Attendance at Several Elite Universities (Feb 2026)](https://www.military.com/feature/2026/02/28/pete-hegseth-orders-end-pentagon-funded-attendance-several-elite-universities.html) (Tier 2) (VERIFIED)
+- [Inside Higher Ed: Hegseth is Waging War on Colleges. His Targets Are Unclear (Mar 2026)](https://www.insidehighered.com/news/admissions/graduate/2026/03/06/hegseth-waging-war-colleges-his-targets-are-unclear) (Tier 2) (VERIFIED)
 
 ### Federal Register Activity
 <!-- auto:federal-register start -->
@@ -224,12 +224,12 @@ The Hegseth fellowship ban (February 2026) is the first time a Defense Secretary
 | Agencies | Commerce Department, Defense Department, Industry and Security Bureau, Labor Department, Privacy and Civil Liberties Oversight Board, Veterans Employment and Training Service |
 
 **Recent regulatory activity:**
-- [HIRE Vets Medallion Program-Announcement of HIRE Vets Medallion Award Recipients](https://www.federalregister.gov/documents/2021/12/06/2021-26344/hire-vets-medallion-program-announcement-of-hire-vets-medallion-award-recipients) (2021-12-06) — Labor Department
-- [Public Forum](https://www.federalregister.gov/documents/2019/02/13/2019-02204/public-forum) (2019-02-13) — Privacy and Civil Liberties Oversight Board
-- [Emerging Technology and Research Advisory Committee; Notice of Open Meeting](https://www.federalregister.gov/documents/2016/02/17/2016-03157/emerging-technology-and-research-advisory-committee-notice-of-open-meeting) (2016-02-17) — Commerce Department
-- [Reserve Forces Policy Board; Notice of Federal Advisory Committee Meeting](https://www.federalregister.gov/documents/2014/08/19/2014-19608/reserve-forces-policy-board-notice-of-federal-advisory-committee-meeting) (2014-08-19) — Defense Department
+- [HIRE Vets Medallion Program-Announcement of HIRE Vets Medallion Award Recipients](https://www.federalregister.gov/documents/2021/12/06/2021-26344/hire-vets-medallion-program-announcement-of-hire-vets-medallion-award-recipients) (VERIFIED) (2021-12-06) — Labor Department
+- [Public Forum](https://www.federalregister.gov/documents/2019/02/13/2019-02204/public-forum) (VERIFIED) (2019-02-13) — Privacy and Civil Liberties Oversight Board
+- [Emerging Technology and Research Advisory Committee; Notice of Open Meeting](https://www.federalregister.gov/documents/2016/02/17/2016-03157/emerging-technology-and-research-advisory-committee-notice-of-open-meeting) (VERIFIED) (2016-02-17) — Commerce Department
+- [Reserve Forces Policy Board; Notice of Federal Advisory Committee Meeting](https://www.federalregister.gov/documents/2014/08/19/2014-19608/reserve-forces-policy-board-notice-of-federal-advisory-committee-meeting) (VERIFIED) (2014-08-19) — Defense Department
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Center%20for%20a%20New%20American%20Security%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Center%20for%20a%20New%20American%20Security%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Federal Court Records (CourtListener)
@@ -248,5 +248,5 @@ The Hegseth fellowship ban (February 2026) is the first time a Defense Secretary
 - WILSON v. ERICSSON INC. (2025) — District Court, District of Columbia
 - Getty Images (US), Inc. v. Stability AI, Ltd. (2025) — District Court, N.D. California
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Center%20for%20a%20New%20American%20Security%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Center%20for%20a%20New%20American%20Security%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->

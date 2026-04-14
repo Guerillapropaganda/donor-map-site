@@ -56,4 +56,4 @@ Hegseth sold positions in Northrop Grumman, Lockheed Martin, and Honeywell worth
 
 ### Sources
 
-- [OpenSecrets: Hegseth financial disclosure](https://www.opensecrets.org/members-of-congress/summary?name=Defense%20Contractor%20Conflicts%20and%20Stock%20Holdings) (Tier 1)
+- ~~[OpenSecrets: Hegseth financial disclosure](https://www.opensecrets.org/members-of-congress/summary?name=Defense%20Contractor%20Conflicts%20and%20Stock%20Holdings)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)

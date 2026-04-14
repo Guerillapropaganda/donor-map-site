@@ -31,7 +31,7 @@ Added 2025-2026 cycle update section:
 - AFP Action raised **$28.9M in 2025**, with **$6.5M** from Koch's Stand Together Chamber of Commerce (CMD disclosure, February 2026)
 - AFP Action endorsed same three Republican Senate candidates as Trump for open seats
 - ACA subsidy expiration campaign documented — Koch lobbying to let premium tax credits expire
-- Source: [EXPOSEDbyCMD](https://www.exposedbycmd.org/2026/02/18/major-right-wing-super-pacs-disclose-recent-contributions-and-endorsements/) (Tier 2)
+- Source: ~~[EXPOSEDbyCMD](https://www.exposedbycmd.org/2026/02/18/major-right-wing-super-pacs-disclose-recent-contributions-and-endorsements/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 **2. Think Big AI** (`topics/Donors & Power Networks/Tech & Crypto/Think Big AI.md`)
 
@@ -41,7 +41,7 @@ Added March 24 update section with three new developments:
 - **Anthropic's Public First ($50M):** Jobs and Democracy PAC backed by $20M from Anthropic, $50M total raised, planning $25M more. Positions itself as "prudent regulation" alternative to OpenAI's accelerationist approach.
 - **CLARITY Act committee donations:** FinTech Weekly analysis of FEC Schedule A filings found $265,500 from crypto-affiliated individuals to 7 of 46 senators on the two committees controlling the CLARITY Act.
 - Combined AI industry electoral commitment now **$240M+** across four major PAC operations.
-- Sources: [The Decoder](https://the-decoder.com/meta-pours-65-million-into-state-elections-to-back-ai-friendly-politicians/), [American Prospect](https://prospect.org/2026/02/25/ai-anthropic-claude-super-pac-valerie-foushee-congress-north-carolina/), [FinTech Weekly](https://www.fintechweekly.com/news/clarity-act-senate-campaign-finance-fairshake-crypto-pac-fec-data-2026) (all Tier 2)
+- Sources: [The Decoder](https://the-decoder.com/meta-pours-65-million-into-state-elections-to-back-ai-friendly-politicians/) (VERIFIED), [American Prospect](https://prospect.org/2026/02/25/ai-anthropic-claude-super-pac-valerie-foushee-congress-north-carolina/) (VERIFIED), [FinTech Weekly](https://www.fintechweekly.com/news/clarity-act-senate-campaign-finance-fairshake-crypto-pac-fec-data-2026) (VERIFIED) (all Tier 2)
 
 ---
 

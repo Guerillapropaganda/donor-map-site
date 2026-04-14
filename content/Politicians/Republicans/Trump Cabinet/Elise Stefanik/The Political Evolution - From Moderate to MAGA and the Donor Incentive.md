@@ -107,8 +107,8 @@ The appointment represented a logical endpoint for the Stefanik trajectory: Harv
 
 ### Sources
 
-- [FEC Candidate: Elise Stefanik full campaign finance history](https://www.fec.gov/data/candidate/H4NY21079/) (Tier 1)
-- [OpenSecrets: Trump administration profile — Stefanik donor breakdown](https://www.opensecrets.org/news/2025/01/trump-administration-profile-elise-stefanik/) (Tier 1)
-- [TIME: How Elise Stefanik Went From Moderate to MAGA](https://time.com/6046674/elise-stefanik-liz-cheney-republican/) (Tier 2)
-- [Wikipedia: Elise Stefanik — career and political positions](https://en.wikipedia.org/wiki/Elise_Stefanik) (Tier 3)
+- [FEC Candidate: Elise Stefanik full campaign finance history](https://www.fec.gov/data/candidate/H4NY21079/) (Tier 1) (VERIFIED)
+- ~~[OpenSecrets: Trump administration profile — Stefanik donor breakdown](https://www.opensecrets.org/news/2025/01/trump-administration-profile-elise-stefanik/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [TIME: How Elise Stefanik Went From Moderate to MAGA](https://time.com/6046674/elise-stefanik-liz-cheney-republican/) (Tier 2) (VERIFIED)
+- [Wikipedia: Elise Stefanik — career and political positions](https://en.wikipedia.org/wiki/Elise_Stefanik) (Tier 3) (VERIFIED)
 

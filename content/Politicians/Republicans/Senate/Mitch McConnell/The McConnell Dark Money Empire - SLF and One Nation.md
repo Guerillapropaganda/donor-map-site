@@ -82,9 +82,9 @@ The class function: McConnell built an institution, not a personal brand. The in
 
 ### Sources
 
-- [CREW: Boosted by 8-figure donations, McConnell-aligned nonprofit raised $172 million in 2020](https://www.citizensforethics.org/reports-investigations/crew-investigations/boosted-by-8-figure-donations-mcconnell-aligned-nonprofit-raised-172-million-in-2020/) (Tier 2)
-- [CREW: Mitch McConnell-tied dark money group bolstered by millions from FTX fraudsters](https://www.citizensforethics.org/reports-investigations/crew-investigations/mitch-mcconnell-tied-dark-money-group-bolstered-by-millions-from-ftx-fraudsters/) (Tier 2)
-- [CREW: Southern Company gave McConnell dark money group $1 million last year](https://www.citizensforethics.org/reports-investigations/crew-investigations/southern-company-gave-mcconnell-dark-money-group-1-million-last-year/) (Tier 2)
-- [OpenSecrets: Senate Leadership Fund - Summary](https://www.opensecrets.org/orgs/senate-leadership-fund/summary?id=D000068516) (Tier 1)
-- [Ballotpedia: Senate Leadership Fund](https://ballotpedia.org/Senate_Leadership_Fund) (Tier 2)
-- [CNBC: Sam Bankman-Fried, FTX allies secretly poured $50 million into 'dark money' groups, evidence shows](https://www.cnbc.com/2023/10/20/sam-bankman-fried-ftx-allies-donated-millions-in-dark-money.html) (Tier 2)
+- [CREW: Boosted by 8-figure donations, McConnell-aligned nonprofit raised $172 million in 2020](https://www.citizensforethics.org/reports-investigations/crew-investigations/boosted-by-8-figure-donations-mcconnell-aligned-nonprofit-raised-172-million-in-2020/) (Tier 2) (VERIFIED)
+- [CREW: Mitch McConnell-tied dark money group bolstered by millions from FTX fraudsters](https://www.citizensforethics.org/reports-investigations/crew-investigations/mitch-mcconnell-tied-dark-money-group-bolstered-by-millions-from-ftx-fraudsters/) (Tier 2) (VERIFIED)
+- [CREW: Southern Company gave McConnell dark money group $1 million last year](https://www.citizensforethics.org/reports-investigations/crew-investigations/southern-company-gave-mcconnell-dark-money-group-1-million-last-year/) (Tier 2) (VERIFIED)
+- [OpenSecrets: Senate Leadership Fund - Summary](https://www.opensecrets.org/orgs/senate-leadership-fund/summary?id=D000068516) (Tier 1) (VERIFIED)
+- [Ballotpedia: Senate Leadership Fund](https://ballotpedia.org/Senate_Leadership_Fund) (Tier 2) (VERIFIED)
+- [CNBC: Sam Bankman-Fried, FTX allies secretly poured $50 million into 'dark money' groups, evidence shows](https://www.cnbc.com/2023/10/20/sam-bankman-fried-ftx-allies-donated-millions-in-dark-money.html) (Tier 2) (VERIFIED)

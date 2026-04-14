@@ -180,16 +180,16 @@ The House Ethics Committee found "substantial evidence" that Gaetz engaged in se
 
 ## Sources
 
-- [OpenSecrets: Matt Gaetz donor profile and campaign finance](https://www.opensecrets.org/members-of-congress/summary?cid=N00027894) (Tier 1)
-- [House Ethics Committee: Report on Matt Gaetz investigation (December 2024)](https://ethics.house.gov/wp-content/uploads/2024/12/Committee-Report.pdf) (Tier 1)
-- [NPR: Gaetz made history by engineering McCarthy's ouster](https://www.npr.org/2023/10/06/1204098129/gop-rep-matt-gaetz-made-history-by-engineering-house-speaker-kevin-mccarthys-ous) (Tier 2)
-- [CNN: Gaetz moves to oust Kevin McCarthy](https://www.cnn.com/2023/10/02/politics/matt-gaetz-kevin-mccarthy-speakership/index.html) (Tier 2)
-- [Wikipedia: Don Gaetz biography](https://en.wikipedia.org/wiki/Don_Gaetz) (Tier 3)
-- [Wikipedia: Removal of Kevin McCarthy as Speaker](https://en.wikipedia.org/wiki/Removal_of_Kevin_McCarthy_as_Speaker_of_the_House) (Tier 3)
-- [NPR: Former Rep. Matt Gaetz withdraws as Trump's AG pick](https://www.npr.org/2024/11/21/nx-s1-5201398/with-gaetz-out-trump-picks-former-florida-ag-pam-bondi-for-attorney-general) (Tier 2)
-- [NBC News: Gaetz withdraws bid for AG amid sexual misconduct allegations](https://www.nbcnews.com/politics/justice-department/matt-gaetz-withdraws-bid-attorney-general-sexual-misconduct-allegation-rcna181206) (Tier 2)
-- [IBTimes: Matt Gaetz net worth and family wealth](https://www.ibtimes.com/matt-gaetz-net-worth-lawmakers-parents-among-americas-ultra-rich-1-3255577) (Tier 2)
-- [Government Executive: What we know about investigations into Matt Gaetz](https://www.govexec.com/management/2024/11/heres-what-we-know-about-investigations-matt-gaetz/401143/) (Tier 2)
+- [OpenSecrets: Matt Gaetz donor profile and campaign finance](https://www.opensecrets.org/members-of-congress/summary?cid=N00027894) (Tier 1) (VERIFIED)
+- [House Ethics Committee: Report on Matt Gaetz investigation (December 2024)](https://ethics.house.gov/wp-content/uploads/2024/12/Committee-Report.pdf) (Tier 1) (VERIFIED)
+- [NPR: Gaetz made history by engineering McCarthy's ouster](https://www.npr.org/2023/10/06/1204098129/gop-rep-matt-gaetz-made-history-by-engineering-house-speaker-kevin-mccarthys-ous) (Tier 2) (VERIFIED)
+- [CNN: Gaetz moves to oust Kevin McCarthy](https://www.cnn.com/2023/10/02/politics/matt-gaetz-kevin-mccarthy-speakership/index.html) (Tier 2) (VERIFIED)
+- [Wikipedia: Don Gaetz biography](https://en.wikipedia.org/wiki/Don_Gaetz) (Tier 3) (VERIFIED)
+- [Wikipedia: Removal of Kevin McCarthy as Speaker](https://en.wikipedia.org/wiki/Removal_of_Kevin_McCarthy_as_Speaker_of_the_House) (Tier 3) (VERIFIED)
+- [NPR: Former Rep. Matt Gaetz withdraws as Trump's AG pick](https://www.npr.org/2024/11/21/nx-s1-5201398/with-gaetz-out-trump-picks-former-florida-ag-pam-bondi-for-attorney-general) (Tier 2) (VERIFIED)
+- [NBC News: Gaetz withdraws bid for AG amid sexual misconduct allegations](https://www.nbcnews.com/politics/justice-department/matt-gaetz-withdraws-bid-attorney-general-sexual-misconduct-allegation-rcna181206) (Tier 2) (VERIFIED)
+- [IBTimes: Matt Gaetz net worth and family wealth](https://www.ibtimes.com/matt-gaetz-net-worth-lawmakers-parents-among-americas-ultra-rich-1-3255577) (Tier 2) (VERIFIED)
+- [Government Executive: What we know about investigations into Matt Gaetz](https://www.govexec.com/management/2024/11/heres-what-we-know-about-investigations-matt-gaetz/401143/) (Tier 2) (VERIFIED)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -223,7 +223,7 @@ The House Ethics Committee found "substantial evidence" that Gaetz engaged in se
 | FLORIDA CONSERVATIVE FUND | $121,542 | $0 |
 | CITIZEN SUPER PAC | $0 | $44,721 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6FL01119/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6FL01119/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Committee Assignments (Congress.gov)
@@ -233,7 +233,7 @@ The House Ethics Committee found "substantial evidence" that Gaetz engaged in se
 <!-- auto:committee-assignments start -->
 _No committee data found._
 
-- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 ### Legislative Activity (Congress.gov)
@@ -262,12 +262,12 @@ _No committee data found._
 | 10067 | HARRIS Act of 2024 | Referred to the House Committee on Ways and Means. |
 | 1549 | Expressing the sense of the House of Representatives on contract breaches and ot… | Referred to the House Committee on Armed Services. |
 
-- [Source: Congress.gov](https://www.congress.gov/member/G000578) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/G000578)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Matt Gaetz](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: Matt Gaetz](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->

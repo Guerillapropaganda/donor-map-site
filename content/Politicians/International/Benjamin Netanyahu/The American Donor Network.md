@@ -77,7 +77,7 @@ Netanyahu receives: 90%+ of his campaign funding, permanent capital supply, U.S.
 
 ### Sources
 
-- [BuzzFeed News — Three American families bankrolling Netanyahu](https://www.buzzfeednews.com/article/sheerafrenkel/meet-the-american-families-bankrolling-netanyahus) (Tier 2)
-- [OpenSecrets — Adelson 2024 donations](https://www.opensecrets.org/news/2025/03/elon-musk-tops-list-of-2024-political-donors-but-six-others-gave-more-than-100-million) (Tier 1)
+- [BuzzFeed News — Three American families bankrolling Netanyahu](https://www.buzzfeednews.com/article/sheerafrenkel/meet-the-american-families-bankrolling-netanyahus) (Tier 2) (VERIFIED)
+- [OpenSecrets — Adelson 2024 donations](https://www.opensecrets.org/news/2025/03/elon-musk-tops-list-of-2024-political-donors-but-six-others-gave-more-than-100-million) (Tier 1) (VERIFIED)
 - ["[[American Friends of the Likud|American Friends of the Likud]]" — Official site](https://www.americanfriendsoflikud.org) (Tier 1)
 

@@ -116,7 +116,7 @@ The Bowman case pairs with the Omar case in the vault's donor-class map: both sh
 > [!money]
 > Bowman raised $6M in the 2024 cycle — a strong total for any House incumbent. His small-dollar base ($1.63M unitemized, 27% of individual contributions) reflects genuine grassroots support. Zero dollars from party committees confirms his outsider status within the Democratic establishment. But $6M is irrelevant when opposing outside spending exceeds $14.5M from a single super PAC. The fundraising gap isn't a failure of grassroots organizing — it's a structural ceiling on what grassroots can compete against.
 
-- [FEC: Bowman candidate financial summary 2024](https://www.fec.gov/data/candidate/H0NY16143/) (Tier 1)
+- [FEC: Bowman candidate financial summary 2024](https://www.fec.gov/data/candidate/H0NY16143/) (Tier 1) (VERIFIED)
 
 ---
 
@@ -166,8 +166,8 @@ FEC processed filings document 65 independent expenditure transactions opposing 
 > [!money]
 > **The multi-industry coalition against one House member:** Bowman faced opposition from three distinct donor-class sectors simultaneously: the Israel lobby (UDP $10.2M + DMFI $95K), the crypto industry (FAIRSHAKE $2.08M), and pro-Israel grassroots organizations (Stand With Us, 2020). The crypto angle is underreported: Bowman opposed cryptocurrency industry deregulation, making him a target for both AIPAC and the crypto lobby. FAIRSHAKE's $2.08M buy — a single media placement on June 12, 2024 — represented the crypto industry purchasing a seat in Congress alongside the Israel lobby. Two industries, one primary, one outcome.
 
-- [FEC: Independent expenditures opposing Bowman (all spenders)](https://www.fec.gov/data/independent-expenditures/?most_recent=true?data_type=processed&is_notice=false&candidate_id=H0NY16143&support_oppose_indicator=O) (Tier 1)
-- [FEC: United Democracy Project independent expenditures opposing Bowman](https://www.fec.gov/data/independent-expenditures/?most_recent=true?data_type=processed&q_spender=united+democracy+project&is_notice=false&candidate_id=H0NY16143) (Tier 1)
+- [FEC: Independent expenditures opposing Bowman (all spenders)](https://www.fec.gov/data/independent-expenditures/?most_recent=true?data_type=processed&is_notice=false&candidate_id=H0NY16143&support_oppose_indicator=O) (Tier 1) (VERIFIED)
+- [FEC: United Democracy Project independent expenditures opposing Bowman](https://www.fec.gov/data/independent-expenditures/?most_recent=true?data_type=processed&q_spender=united+democracy+project&is_notice=false&candidate_id=H0NY16143) (Tier 1) (VERIFIED)
 
 ---
 
@@ -303,16 +303,16 @@ Bowman's zero dollars from party committees confirms the structural isolation. T
 
 ### Verified
 - [FEC: Bowman candidate financial summary 2024](https://www.fec.gov/data/candidate/H0NY16143/) (Tier 1)
-- [FEC: Independent expenditures opposing Bowman](https://www.fec.gov/data/independent-expenditures/?candidate_id=H0NY16143&support_oppose_indicator=O) (Tier 1)
-- [FEC: United Democracy Project IE filings against Bowman](https://www.fec.gov/data/independent-expenditures/?q_spender=united+democracy+project&candidate_id=H0NY16143) (Tier 1)
-- [Congress.gov: Jamaal Bowman member profile](https://www.congress.gov/member/jamaal-bowman/B001223) (Tier 1)
-- [GovTrack: Jamaal Bowman voting record](https://www.govtrack.us/congress/members/456839) (Tier 1)
-- [The Intercept: George Latimer rakes in AIPAC cash to primary Bowman](https://theintercept.com/2024/02/01/george-latimer-aipac-donors-jamaal-bowman/) (Tier 2)
-- [The Intercept: AIPAC spends $2 million to attack Bowman](https://theintercept.com/2024/05/16/aipac-jamaal-bowman-attack-ads-george-latimer/) (Tier 2)
-- [The Intercept: Progressives on AIPAC beating Bowman](https://theintercept.com/2024/06/26/jamaal-bowman-primary-aipac-latimer/) (Tier 2)
-- [Axios: Democrats groan at AIPAC's $14.5M against Bowman](https://www.axios.com/2024/06/26/democrats-aipac-jamaal-bowman-george-latimer) (Tier 2)
-- [Washington Post: Jamaal Bowman censured after pulling fire alarm](https://www.washingtonpost.com/politics/2023/12/07/jamaal-bowman-censure-fire-alarm/) (Tier 2)
-- [Ballotpedia: Jamaal Bowman](https://ballotpedia.org/Jamaal_Bowman) (Tier 3)
+- [FEC: Independent expenditures opposing Bowman](https://www.fec.gov/data/independent-expenditures/?candidate_id=H0NY16143&support_oppose_indicator=O) (Tier 1) (VERIFIED)
+- [FEC: United Democracy Project IE filings against Bowman](https://www.fec.gov/data/independent-expenditures/?q_spender=united+democracy+project&candidate_id=H0NY16143) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: Jamaal Bowman member profile](https://www.congress.gov/member/jamaal-bowman/B001223)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [GovTrack: Jamaal Bowman voting record](https://www.govtrack.us/congress/members/456839) (Tier 1) (NEEDS REVIEW)
+- [The Intercept: George Latimer rakes in AIPAC cash to primary Bowman](https://theintercept.com/2024/02/01/george-latimer-aipac-donors-jamaal-bowman/) (Tier 2) (VERIFIED)
+- [The Intercept: AIPAC spends $2 million to attack Bowman](https://theintercept.com/2024/05/16/aipac-jamaal-bowman-attack-ads-george-latimer/) (Tier 2) (VERIFIED)
+- [The Intercept: Progressives on AIPAC beating Bowman](https://theintercept.com/2024/06/26/jamaal-bowman-primary-aipac-latimer/) (Tier 2) (VERIFIED)
+- ~~[Axios: Democrats groan at AIPAC's $14.5M against Bowman](https://www.axios.com/2024/06/26/democrats-aipac-jamaal-bowman-george-latimer)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Washington Post: Jamaal Bowman censured after pulling fire alarm](https://www.washingtonpost.com/politics/2023/12/07/jamaal-bowman-censure-fire-alarm/) (Tier 2) (VERIFIED)
+- [Ballotpedia: Jamaal Bowman](https://ballotpedia.org/Jamaal_Bowman) (Tier 3) (VERIFIED)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -344,7 +344,7 @@ Bowman's zero dollars from party committees confirms the structural isolation. T
 | DMFI PAC | $0 | $990,125 |
 | COURAGE TO CHANGE | $469,200 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0NY16143/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0NY16143/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (GovTrack)
@@ -368,14 +368,14 @@ Bowman's zero dollars from party committees confirms the structural isolation. T
 | 2024-12-17 | H.R. 1101 (118th): Lumbee Fairness Act | Not Voting | Passed |
 | 2024-12-17 | S. 3448 (118th): Never Again Education Reauthorization Act of 2023 | Not Voting | Passed |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456839) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456839) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
 
 ### Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
 _No committee data found._
 
-- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 ### Legislative Activity (Congress.gov)
@@ -404,7 +404,7 @@ _No committee data found._
 | 5784 | Green New Deal for Public Schools Act of 2023 | Referred to the House Committee on Education and the Workforce. |
 | 4900 | Fair College Admissions for Students Act | Referred to the House Committee on Education and the Workforce. |
 
-- [Source: Congress.gov](https://www.congress.gov/member/B001223) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/B001223)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Campaign Finance Summary (FEC)
@@ -453,8 +453,8 @@ _No committee data found._
 
 **Sources**
 
-- [Congress.gov: Jamaal Bowman](https://www.congress.gov/member/e000179) (Tier 1)
-- [GovTrack: Jamaal Bowman](https://www.govtrack.us/congress/members/456839) (Tier 1)
+- ~~[Congress.gov: Jamaal Bowman](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [GovTrack: Jamaal Bowman](https://www.govtrack.us/congress/members/456839) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
 
 ### Wikipedia
@@ -463,13 +463,13 @@ Jamaal Anthony Bowman is an American politician and former educator who served f
 
 | Fact | Value |
 |------|-------|
-| Wikidata ID | [Q96419280](https://www.wikidata.org/wiki/Q96419280) |
+| Wikidata ID | [Q96419280](https://www.wikidata.org/wiki/Q96419280) (VERIFIED) |
 | Description | American politician and educator (born 1976) |
 | Born | 1976-04-01 |
-| Website | [https://www.bowmanforcongress.com](https://www.bowmanforcongress.com) |
-| X/Twitter | [@JamaalBowmanNY](https://x.com/JamaalBowmanNY) |
-| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Jamaal_Bowman_117th_U.S_Congress.jpg?width=300) |
+| Website | [https://www.bowmanforcongress.com](https://www.bowmanforcongress.com) (VERIFIED) |
+| X/Twitter | [@JamaalBowmanNY](https://x.com/JamaalBowmanNY) (VERIFIED) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Jamaal_Bowman_117th_U.S_Congress.jpg?width=300) (NEEDS REVIEW) |
 
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/Jamaal_Bowman) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q96419280) (Tier 2)
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Jamaal_Bowman) (Tier 3) (VERIFIED)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q96419280) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->

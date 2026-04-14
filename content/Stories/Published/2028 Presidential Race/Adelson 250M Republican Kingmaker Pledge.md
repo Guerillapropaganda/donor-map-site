@@ -21,9 +21,9 @@ donors: [[Miriam Adelson]]
 
 ### The December 2025 White House Hanukkah Pledge
 
-[[Miriam Adelson|Miriam Adelson]] announced at the White House Hanukkah party (December 17, 2025) that she would contribute an additional $250 million if former President Trump pursued a third term in 2028. Trump announced this publicly, stating: "She said, 'Think about it, I'll give you another $250 million.'" [Trump announcement of Adelson pledge](https://www.commondreams.org/news/adelson-trump-four-more-years) (Tier 2)
+[[Miriam Adelson|Miriam Adelson]] announced at the White House Hanukkah party (December 17, 2025) that she would contribute an additional $250 million if former President Trump pursued a third term in 2028. Trump announced this publicly, stating: "She said, 'Think about it, I'll give you another $250 million.'" [Trump announcement of Adelson pledge](https://www.commondreams.org/news/adelson-trump-four-more-years) (Tier 2) (VERIFIED)
 
-Adelson's statement referenced legal consultation with attorney Alan Dershowitz about the constitutionality of a third presidential term (a hypothetical contradiction of the 22nd Amendment). [Newsweek: Adelson $250M third-term bid](https://www.newsweek.com/donald-trump-offered-250m-run-third-term-11226316) (Tier 2) The statement frames her $250M offer as conditional on Trump's 2028 candidacy specifically, not as a general Republican support pledge.
+Adelson's statement referenced legal consultation with attorney Alan Dershowitz about the constitutionality of a third presidential term (a hypothetical contradiction of the 22nd Amendment). [Newsweek: Adelson $250M third-term bid](https://www.newsweek.com/donald-trump-offered-250m-run-third-term-11226316) (Tier 2) (VERIFIED) The statement frames her $250M offer as conditional on Trump's 2028 candidacy specifically, not as a general Republican support pledge.
 
 This creates a constitutional question and a succession question simultaneously: (1) Can Trump legally run for a third term? (2) If not, where does Adelson's $250M go?
 
@@ -82,11 +82,11 @@ In 2028, both structures will likely align: Adelson will back the Republican nom
 
 ### Sources
 
-- [Common Dreams: Billionaire Adelson Vows $250 Million to Fund 'Four More Years' of Trump](https://www.commondreams.org/news/adelson-trump-four-more-years) (Tier 2)
-- [Jerusalem Post: Miriam Adelson pledges $250 million for Trump third term at White House Hanukkah party](https://www.jpost.com/american-politics/article-880539) (Tier 2)
-- [Newsweek: Donald Trump Offered $250M to Run for a Third Term](https://www.newsweek.com/donald-trump-offered-250m-run-third-term-11226316) (Tier 2)
-- [The Daily Beast: Megadonor Miriam Adelson Offers Donald Trump $250M to Run for Third Term](https://www.thedailybeast.com/megadonor-miriam-adelson-offers-donald-trump-250m-run-for-third-term/) (Tier 2)
-- [NBC 5 Dallas-Fort Worth: Mavericks owner Miriam Adelson wants Trump to run in 2028](https://www.nbcdfw.com/news/sports/dallas-mavericks/dallas-mavericks-owner-miriam-adelson-urges-trump-to-run-for-third-term/3958248/) (Tier 2)
+- [Common Dreams: Billionaire Adelson Vows $250 Million to Fund 'Four More Years' of Trump](https://www.commondreams.org/news/adelson-trump-four-more-years) (Tier 2) (VERIFIED)
+- [Jerusalem Post: Miriam Adelson pledges $250 million for Trump third term at White House Hanukkah party](https://www.jpost.com/american-politics/article-880539) (Tier 2) (VERIFIED)
+- [Newsweek: Donald Trump Offered $250M to Run for a Third Term](https://www.newsweek.com/donald-trump-offered-250m-run-third-term-11226316) (Tier 2) (VERIFIED)
+- ~~[The Daily Beast: Megadonor Miriam Adelson Offers Donald Trump $250M to Run for Third Term](https://www.thedailybeast.com/megadonor-miriam-adelson-offers-donald-trump-250m-run-for-third-term/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [NBC 5 Dallas-Fort Worth: Mavericks owner Miriam Adelson wants Trump to run in 2028](https://www.nbcdfw.com/news/sports/dallas-mavericks/dallas-mavericks-owner-miriam-adelson-urges-trump-to-run-for-third-term/3958248/) (Tier 2) (VERIFIED)
 
 ---
 

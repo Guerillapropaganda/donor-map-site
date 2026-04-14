@@ -40,7 +40,7 @@ This alliance — the "food stamp coalition" — was engineered in the 1970s to 
 
 ### Sources
 
-- [EWG: Farm subsidy database](https://farm.ewg.org/search.php?search=The%20Farm%20Bill) (Tier 2)
-- [Congress.gov: What Is the Farm Bill? (CRS Report)](https://www.congress.gov/crs-product/RS22131) (Tier 1)
-- [Ballotpedia: Farm Bill](https://ballotpedia.org/Farm_Bill) (Tier 3)
+- [EWG: Farm subsidy database](https://farm.ewg.org/search.php?search=The%20Farm%20Bill) (Tier 2) (VERIFIED)
+- [Congress.gov: What Is the Farm Bill? (CRS Report)](https://www.congress.gov/crs-product/RS22131) (Tier 1) (VERIFIED)
+- [Ballotpedia: Farm Bill](https://ballotpedia.org/Farm_Bill) (Tier 3) (VERIFIED)
 

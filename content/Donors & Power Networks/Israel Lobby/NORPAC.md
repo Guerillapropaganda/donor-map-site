@@ -110,7 +110,7 @@ NORPAC's funding is split nearly evenly between parties: $800,218 to Democrats, 
 
 NORPAC increased its spending to $2.7 million in the 2024 elections from $1.6 million in 2022, and increased fundraising events from approximately 40 per year to 60. President Chouake told JNS: "People are distressed. Israel is at war. The house is on fire. People are more active."
 
-- [FEC: NORPAC committee totals by cycle](https://www.fec.gov/data/committee/C00247403/) (Tier 1)
+- [FEC: NORPAC committee totals by cycle](https://www.fec.gov/data/committee/C00247403/) (Tier 1) (VERIFIED)
 
 #### Top Recipients (2024 Cycle)
 
@@ -182,18 +182,18 @@ For the vault's framework: NORPAC operates at a different tier than AIPAC or DMF
 
 ### Sources
 
-- [NORPAC official website](https://norpac.net) (Tier 4)
-- [Jewish Standard/Scribd: NORPAC fundraisers](https://www.scribd.com/document/414628497/Jewish-Standard-June-28-2019-including-supplements-About-Our-Children-and-Bar-Bat-Mitzvah) (Tier 3)
-- [Jewish Standard: NORPAC hosts fundraiser for Huckabee](https://jewishstandard.timesofisrael.com/norpac-hosts-fundraiser-for-huckabee/) (Tier 3)
-- [Jewish Link: NORPAC's Annual Mission to Washington](https://jewishlink.news/norpacs-annual-mission-to-washington-a-day-of-advocacy-for-israel/) (Tier 3)
-- [Rep. Schweikert: NORPAC sends 1,200 advocates to DC](https://schweikert.house.gov/2024/05/23/norpac-sends-1200-advocates-to-dc/) (Tier 3)
-- [OpenSecrets: NorPAC profile](https://www.opensecrets.org/political-action-committees-pacs/norpac/C00247403/summary/2024) (Tier 1)
-- [FEC: NorPAC committee data](https://www.fec.gov/data/committee/C00247403/) (Tier 1)
+- [NORPAC official website](https://norpac.net) (Tier 4) (VERIFIED)
+- [Jewish Standard/Scribd: NORPAC fundraisers](https://www.scribd.com/document/414628497/Jewish-Standard-June-28-2019-including-supplements-About-Our-Children-and-Bar-Bat-Mitzvah) (Tier 3) (VERIFIED)
+- [Jewish Standard: NORPAC hosts fundraiser for Huckabee](https://jewishstandard.timesofisrael.com/norpac-hosts-fundraiser-for-huckabee/) (Tier 3) (VERIFIED)
+- [Jewish Link: NORPAC's Annual Mission to Washington](https://jewishlink.news/norpacs-annual-mission-to-washington-a-day-of-advocacy-for-israel/) (Tier 3) (VERIFIED)
+- [Rep. Schweikert: NORPAC sends 1,200 advocates to DC](https://schweikert.house.gov/2024/05/23/norpac-sends-1200-advocates-to-dc/) (Tier 3) (VERIFIED)
+- [OpenSecrets: NorPAC profile](https://www.opensecrets.org/political-action-committees-pacs/norpac/C00247403/summary/2024) (Tier 1) (VERIFIED)
+- [FEC: NorPAC committee data](https://www.fec.gov/data/committee/C00247403/) (Tier 1) (VERIFIED)
 - [FEC: NORPAC committee totals by cycle](https://www.fec.gov/data/committee/C00247403/) (Tier 1)
-- [OpenSecrets: NorPAC candidate recipients 2024](https://www.opensecrets.org/political-action-committees-pacs/norpac/C00247403/candidate-recipients/2024) (Tier 1)
-- [Militarist Monitor: NORPAC profile](https://militarist-monitor.org/profile/norpac/) (Tier 3)
-- [Wikipedia: NORPAC](https://en.wikipedia.org/wiki/NORPAC) (Tier 3)
-- [JNS: Campaign spending at pro-Israel PACs up in 2024](https://www.jns.org/u.s.-news/campaign-spending-at-pro-israel-political-action-committees-up-in-2024) (Tier 3)
+- [OpenSecrets: NorPAC candidate recipients 2024](https://www.opensecrets.org/political-action-committees-pacs/norpac/C00247403/candidate-recipients/2024) (Tier 1) (VERIFIED)
+- [Militarist Monitor: NORPAC profile](https://militarist-monitor.org/profile/norpac/) (Tier 3) (VERIFIED)
+- [Wikipedia: NORPAC](https://en.wikipedia.org/wiki/NORPAC) (Tier 3) (VERIFIED)
+- [JNS: Campaign spending at pro-Israel PACs up in 2024](https://www.jns.org/u.s.-news/campaign-spending-at-pro-israel-political-action-committees-up-in-2024) (Tier 3) (VERIFIED)
 
 ---
 
@@ -222,22 +222,22 @@ For the vault's framework: NORPAC operates at a different tier than AIPAC or DMF
 | Agencies | Commerce Department, Employment and Training Administration, Federal Election Commission, Federal Trade Commission, International Trade Administration, International Trade Commission, Labor Department, National Oceanic and Atmospheric Administration |
 
 **Recent regulatory activity:**
-- [Draft 2022 Marine Mammal Stock Assessment Reports](https://www.federalregister.gov/documents/2023/01/24/2023-01242/draft-2022-marine-mammal-stock-assessment-reports) (2023-01-24) — Commerce Department
-- [Certain Uncoated Paper From the People's Republic of China: Final Results of the Expedited Five-Year Sunset Review of the Countervailing Duty Order](https://www.federalregister.gov/documents/2021/06/07/2021-11854/certain-uncoated-paper-from-the-peoples-republic-of-china-final-results-of-the-expedited-five-year) (2021-06-07) — Commerce Department
-- [Certain Uncoated Paper From Indonesia: Final Results of the Expedited First Five-Year Sunset Review of the Countervailing Duty Order](https://www.federalregister.gov/documents/2021/06/01/2021-11461/certain-uncoated-paper-from-indonesia-final-results-of-the-expedited-first-five-year-sunset-review) (2021-06-01) — Commerce Department
-- [Uncoated Paper From Australia, Brazil, the People's Republic of China, Indonesia, and Portugal: Final Results of the Expedited First Sunset Reviews of the Antidumping Duty Orders](https://www.federalregister.gov/documents/2021/06/01/2021-11460/uncoated-paper-from-australia-brazil-the-peoples-republic-of-china-indonesia-and-portugal-final) (2021-06-01) — Commerce Department
-- [Notice of Determinations Regarding Eligibility To Apply for Trade Adjustment Assistance](https://www.federalregister.gov/documents/2020/12/22/2020-28207/notice-of-determinations-regarding-eligibility-to-apply-for-trade-adjustment-assistance) (2020-12-22) — Labor Department
-- [Sunshine Act Meeting](https://www.federalregister.gov/documents/2020/06/15/2020-12971/sunshine-act-meeting) (2020-06-15) — Federal Election Commission
+- [Draft 2022 Marine Mammal Stock Assessment Reports](https://www.federalregister.gov/documents/2023/01/24/2023-01242/draft-2022-marine-mammal-stock-assessment-reports) (VERIFIED) (2023-01-24) — Commerce Department
+- [Certain Uncoated Paper From the People's Republic of China: Final Results of the Expedited Five-Year Sunset Review of the Countervailing Duty Order](https://www.federalregister.gov/documents/2021/06/07/2021-11854/certain-uncoated-paper-from-the-peoples-republic-of-china-final-results-of-the-expedited-five-year) (VERIFIED) (2021-06-07) — Commerce Department
+- [Certain Uncoated Paper From Indonesia: Final Results of the Expedited First Five-Year Sunset Review of the Countervailing Duty Order](https://www.federalregister.gov/documents/2021/06/01/2021-11461/certain-uncoated-paper-from-indonesia-final-results-of-the-expedited-first-five-year-sunset-review) (VERIFIED) (2021-06-01) — Commerce Department
+- [Uncoated Paper From Australia, Brazil, the People's Republic of China, Indonesia, and Portugal: Final Results of the Expedited First Sunset Reviews of the Antidumping Duty Orders](https://www.federalregister.gov/documents/2021/06/01/2021-11460/uncoated-paper-from-australia-brazil-the-peoples-republic-of-china-indonesia-and-portugal-final) (VERIFIED) (2021-06-01) — Commerce Department
+- [Notice of Determinations Regarding Eligibility To Apply for Trade Adjustment Assistance](https://www.federalregister.gov/documents/2020/12/22/2020-28207/notice-of-determinations-regarding-eligibility-to-apply-for-trade-adjustment-assistance) (VERIFIED) (2020-12-22) — Labor Department
+- [Sunshine Act Meeting](https://www.federalregister.gov/documents/2020/06/15/2020-12971/sunshine-act-meeting) (VERIFIED) (2020-06-15) — Federal Election Commission
 - ... and 36 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22NORPAC%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22NORPAC%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [9845000814B4D365EG29](https://search.gleif.org/#/record/9845000814B4D365EG29) |
+| LEI | [9845000814B4D365EG29](https://search.gleif.org/#/record/9845000814B4D365EG29) (VERIFIED) |
 | Legal Name | NORPAC AGRO PRIVATE LIMITED |
 | Jurisdiction | IN |
 | Entity Status | ACTIVE |
@@ -245,7 +245,7 @@ For the vault's framework: NORPAC operates at a different tier than AIPAC or DMF
 | Registration | LAPSED |
 | Last Updated | 2023-07-15T05:23:04Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -262,7 +262,7 @@ For the vault's framework: NORPAC operates at a different tier than AIPAC or DMF
 | IRS Ruling Date | 2025-03-01 |
 | Filings on Record | 0 |
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/352841377) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/352841377) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Campaign Finance (FEC)
@@ -287,7 +287,7 @@ For the vault's framework: NORPAC operates at a different tier than AIPAC or DMF
 | WALBERG FOR CONGRESS | $47,400 | REP |
 | MAGGIE FOR CONGRESS | $46,100 | DEM |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=NORPAC) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=NORPAC) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### Federal Court Records (CourtListener)
@@ -306,5 +306,5 @@ For the vault's framework: NORPAC operates at a different tier than AIPAC or DMF
 - Vobev, LLC (2024) — United States Bankruptcy Court, D. Utah
 - Hawaii Carpenters Trust Funds v. NORPAC Walls & Ceilings (2024) — District Court, D. Hawaii
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22NORPAC%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22NORPAC%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->

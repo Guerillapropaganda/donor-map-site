@@ -98,7 +98,7 @@ Netanyahu's diplomatic expansion to Saudi Arabia, UAE, and Bahrain (Abraham Acco
 
 ### Sources
 
-- [CNN — Netanyahu leaves Trump meeting empty-handed](https://www.cnn.com/2025/04/09/middleeast/analysis-netanyahu-trump-tariffs-iran-intl-latam) (Tier 2)
-- [ProPublica — Biden weapons restrictions and Israel aid](https://www.propublica.org/article/biden-blinken-state-department-israel-gaza-human-rights-horrors) (Tier 2)
-- [U.S. State Department — Foreign Military Sales to Israel](https://www.state.gov/defense-trade-controls/) (Tier 1)
+- [CNN — Netanyahu leaves Trump meeting empty-handed](https://www.cnn.com/2025/04/09/middleeast/analysis-netanyahu-trump-tariffs-iran-intl-latam) (Tier 2) (VERIFIED)
+- [ProPublica — Biden weapons restrictions and Israel aid](https://www.propublica.org/article/biden-blinken-state-department-israel-gaza-human-rights-horrors) (Tier 2) (VERIFIED)
+- [U.S. State Department — Foreign Military Sales to Israel](https://www.state.gov/defense-trade-controls/) (Tier 1) (VERIFIED)
 

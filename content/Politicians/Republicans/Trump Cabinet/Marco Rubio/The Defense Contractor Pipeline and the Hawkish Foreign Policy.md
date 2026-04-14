@@ -80,10 +80,10 @@ Every policy position as Secretary of State was prefigured by his Senate donor r
 
 ### Sources
 
-- [FEC Candidate: Marco Rubio donor industries, career](https://www.fec.gov/data/candidate/P60006723/) (Tier 1)
-- [The Intercept: Rubio donor dollars and policy deviations](https://theintercept.com/2016/01/31/rubio-donor-dollars/) (Tier 2)
-- [Foreign Policy: Under Trump and Rubio, U.S. might intervene more in Latin America](https://foreignpolicy.com/2024/11/13/trump-rubio-secretary-state-latin-america-cuba-venezuela/) (Tier 2)
-- [Al Jazeera: Marco Rubio, traditionalist hawk in the age of Trump](https://www.aljazeera.com/features/2025/2/20/marco-rubio-a-traditionalist-hawk-in-the-age-of-trump) (Tier 2)
-- [State Department: Rubio testimony before Senate Foreign Relations on Venezuela](https://www.state.gov/releases/office-of-the-spokesperson/2026/01/secretary-of-state-marco-rubio-before-the-senate-committee-on-foreign-relations-on-u-s-policy-towards-venezuela) (Tier 1)
-- [National Review: Marco Rubio's sugar addiction](https://www.nationalreview.com/2015/11/marco-rubio-sugar-subsidy-support-fanjul-brothers/) (Tier 2)
+- [FEC Candidate: Marco Rubio donor industries, career](https://www.fec.gov/data/candidate/P60006723/) (Tier 1) (VERIFIED)
+- [The Intercept: Rubio donor dollars and policy deviations](https://theintercept.com/2016/01/31/rubio-donor-dollars/) (Tier 2) (VERIFIED)
+- [Foreign Policy: Under Trump and Rubio, U.S. might intervene more in Latin America](https://foreignpolicy.com/2024/11/13/trump-rubio-secretary-state-latin-america-cuba-venezuela/) (Tier 2) (VERIFIED)
+- [Al Jazeera: Marco Rubio, traditionalist hawk in the age of Trump](https://www.aljazeera.com/features/2025/2/20/marco-rubio-a-traditionalist-hawk-in-the-age-of-trump) (Tier 2) (VERIFIED)
+- [State Department: Rubio testimony before Senate Foreign Relations on Venezuela](https://www.state.gov/releases/office-of-the-spokesperson/2026/01/secretary-of-state-marco-rubio-before-the-senate-committee-on-foreign-relations-on-u-s-policy-towards-venezuela) (Tier 1) (VERIFIED)
+- [National Review: Marco Rubio's sugar addiction](https://www.nationalreview.com/2015/11/marco-rubio-sugar-subsidy-support-fanjul-brothers/) (Tier 2) (VERIFIED)
 

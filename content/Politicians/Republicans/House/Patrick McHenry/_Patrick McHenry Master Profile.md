@@ -195,7 +195,7 @@ When questioned about consumer harm or misconduct risk, McHenry invoked "free ma
 
 ## Sources
 
-- [OpenSecrets: Patrick McHenry Campaign Finance](https://www.opensecrets.org/members-of-congress/summary?cid=N00026354) (Tier 1)
+- [OpenSecrets: Patrick McHenry Campaign Finance](https://www.opensecrets.org/members-of-congress/summary?cid=N00026354) (Tier 1) (VERIFIED)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -229,7 +229,7 @@ When questioned about consumer harm or misconduct risk, McHenry invoked "free ma
 | NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND | $11,632 | $0 |
 | NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE | $8,130 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4NC10047/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4NC10047/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Committee Assignments (Congress.gov)
@@ -258,7 +258,7 @@ When questioned about consumer harm or misconduct risk, McHenry invoked "free ma
 | 2024-12-17 | H.R. 1101 (118th): Lumbee Fairness Act | Not Voting | Passed |
 | 2024-12-17 | S. 3448 (118th): Never Again Education Reauthorization Act of 2023 | Not Voting | Passed |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400644) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400644) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
 
 <!-- auto:govtrack pending-merge 2026-04-10 -->
@@ -322,7 +322,7 @@ When questioned about consumer harm or misconduct risk, McHenry invoked "free ma
 | 4036 | Accountability through Confirmation Act | Referred to the House Committee on Financial Services. |
 | 4035 | Protecting Small Business Information Act of 2023 | Referred to the House Committee on Financial Services. |
 
-- [Source: Congress.gov](https://www.congress.gov/member/M001156) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/M001156)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Voting Record
@@ -347,8 +347,8 @@ When questioned about consumer harm or misconduct risk, McHenry invoked "free ma
 
 **Sources**
 
-- [Congress.gov: Patrick McHenry](https://www.congress.gov/member/c001091) (Tier 1)
-- [GovTrack: Patrick McHenry](https://www.govtrack.us/congress/members/400644) (Tier 1)
+- ~~[Congress.gov: Patrick McHenry](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [GovTrack: Patrick McHenry](https://www.govtrack.us/congress/members/400644) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
 
 ### Influence Network (Cross-Reference)

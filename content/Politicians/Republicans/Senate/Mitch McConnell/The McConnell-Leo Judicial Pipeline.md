@@ -83,7 +83,7 @@ The money came from anonymous donors through 501(c)(4) nonprofits. The judges we
 
 ### Sources
 
-- [ProPublica: We Don't Talk About Leonard: The Man Behind the Right's Supreme Court Supermajority](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2)
-- [Senator Sheldon Whitehouse: Scheme 18: Leonard Leo's $1.6 Billion Payday](https://www.whitehouse.senate.gov/news/speeches/scheme-18_leonard-leos-16-billion-payday/) (Tier 1)
-- [NBC News: McConnell reaches milestone on judges by filling final Circuit Court vacancy](https://www.nbcnews.com/politics/congress/mcconnell-reaches-milestone-judges-filling-final-circuit-court-vacancy-n1232011) (Tier 2)
-- [Washington Post: Federalist Society's Leonard Leo is helping Trump make courts more conservative](https://www.washingtonpost.com/graphics/2019/investigations/leonard-leo-federalists-society-courts/) (Tier 2)
+- [ProPublica: We Don't Talk About Leonard: The Man Behind the Right's Supreme Court Supermajority](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2) (VERIFIED)
+- [Senator Sheldon Whitehouse: Scheme 18: Leonard Leo's $1.6 Billion Payday](https://www.whitehouse.senate.gov/news/speeches/scheme-18_leonard-leos-16-billion-payday/) (Tier 1) (VERIFIED)
+- [NBC News: McConnell reaches milestone on judges by filling final Circuit Court vacancy](https://www.nbcnews.com/politics/congress/mcconnell-reaches-milestone-judges-filling-final-circuit-court-vacancy-n1232011) (Tier 2) (VERIFIED)
+- [Washington Post: Federalist Society's Leonard Leo is helping Trump make courts more conservative](https://www.washingtonpost.com/graphics/2019/investigations/leonard-leo-federalists-society-courts/) (Tier 2) (VERIFIED)

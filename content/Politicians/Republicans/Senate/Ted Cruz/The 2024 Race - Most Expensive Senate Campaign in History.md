@@ -74,10 +74,10 @@ In early 2026, leaked recordings captured Cruz privately criticizing Trump's tar
 
 ### Sources
 
-- [FEC Candidate: Ted Cruz 2024 campaign finance](https://www.fec.gov/data/candidate/S2TX00312/) (Tier 1)
-- [FEC: Bitcoin Freedom PAC filings](https://www.fec.gov/data/committee/C00822775/?tab=filings) (Tier 1)
-- [Texas Tribune: Cruz-Allred most expensive Senate race 2024](https://www.texastribune.org/2024/07/18/ted-cruz-colin-allred-fundraising-2024/) (Tier 2)
-- [Axios: Ted Cruz leaked recordings on Trump tariffs](https://www.axios.com/2026/01/25/cruz-trump-vance-secret-tapes) (Tier 2)
-- [The Daily Beast: Cruz leaked recordings Trump tariffs](https://www.thedailybeast.com/cruz-trashed-trump-and-vance-in-secret-recordings-f-you-ted/) (Tier 2)
-- [NPR: Robert Mercer political donations and influence](https://www.npr.org/2017/05/26/530181660/robert-mercer-is-a-force-to-be-reckoned-with-in-finance-and-conservative-politic) (Tier 2)
-- [The Intercept: Crypto PAC Throws Lifeline to Ted Cruz in Tightening Senate Battle](https://theintercept.com/2024/10/25/crypto-bitcoin-ted-cruz-colin-allred-senate/) (Tier 2)
+- [FEC Candidate: Ted Cruz 2024 campaign finance](https://www.fec.gov/data/candidate/S2TX00312/) (Tier 1) (VERIFIED)
+- [FEC: Bitcoin Freedom PAC filings](https://www.fec.gov/data/committee/C00822775/?tab=filings) (Tier 1) (VERIFIED)
+- [Texas Tribune: Cruz-Allred most expensive Senate race 2024](https://www.texastribune.org/2024/07/18/ted-cruz-colin-allred-fundraising-2024/) (Tier 2) (VERIFIED)
+- [Axios: Ted Cruz leaked recordings on Trump tariffs](https://www.axios.com/2026/01/25/cruz-trump-vance-secret-tapes) (Tier 2) (VERIFIED)
+- [The Daily Beast: Cruz leaked recordings Trump tariffs](https://www.thedailybeast.com/cruz-trashed-trump-and-vance-in-secret-recordings-f-you-ted/) (Tier 2) (VERIFIED)
+- [NPR: Robert Mercer political donations and influence](https://www.npr.org/2017/05/26/530181660/robert-mercer-is-a-force-to-be-reckoned-with-in-finance-and-conservative-politic) (Tier 2) (VERIFIED)
+- [The Intercept: Crypto PAC Throws Lifeline to Ted Cruz in Tightening Senate Battle](https://theintercept.com/2024/10/25/crypto-bitcoin-ted-cruz-colin-allred-senate/) (Tier 2) (VERIFIED)

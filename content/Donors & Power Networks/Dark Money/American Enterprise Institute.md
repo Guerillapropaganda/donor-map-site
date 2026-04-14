@@ -76,9 +76,9 @@ Market-based solutions to policy challenges (healthcare, education, environment)
 
 ### Sources
 
-- [IRS: AEI 990 filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=American%20Enterprise%20Institute&city=&state=All+States&country=US) (Tier 1)
-- [ProPublica: Nonprofit Explorer - AEI](https://projects.propublica.org/nonprofits/organizations/530218495) (Tier 2)
-- [Ballotpedia: American Enterprise Institute](https://ballotpedia.org/American_Enterprise_Institute) (Tier 3)
+- ~~[IRS: AEI 990 filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=American%20Enterprise%20Institute&city=&state=All+States&country=US)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [ProPublica: Nonprofit Explorer - AEI](https://projects.propublica.org/nonprofits/organizations/530218495) (Tier 2) (VERIFIED)
+- [Ballotpedia: American Enterprise Institute](https://ballotpedia.org/American_Enterprise_Institute) (Tier 3) (VERIFIED)
 
 ### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
@@ -92,8 +92,8 @@ Market-based solutions to policy challenges (healthcare, education, environment)
 | Net Assets | $348.4M |
 | Officer Compensation | $4.1M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 530218495](https://projects.propublica.org/nonprofits/organizations/530218495) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F530218495_202306_990_2024040522345299.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 530218495](https://projects.propublica.org/nonprofits/organizations/530218495) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F530218495_202306_990_2024040522345299.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### OFAC Sanctions Screening
@@ -118,7 +118,7 @@ Market-based solutions to policy challenges (healthcare, education, environment)
 - THE FEDERAL STATE UNITARY ENTERPRISE V.A. KARGIN SCIENTIFIC RESEARCH INSTITUTE OF CHEMISTRY AND TECHNOLOGY OF POLYMERS WITH A PILOT PRODUCTION PLANT (-0-) [RUSSIA-EO14024]
   - Remarks: Secondary sanctions risk: See Section 11 of Executive Order 14024.; Tax ID No. 5249164736 (Russia); Government Gazette Number 33947252 (Russia); Registration Number 1185275058044 (Russia).
 
-- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
 ### SEC Filing Activity
@@ -136,7 +136,7 @@ Market-based solutions to policy challenges (healthcare, education, environment)
 - 2001-05-01 — **497**: 497
 - 2007-08-21 — **EX-99.1**: EX-99.1 - PRESS RELEASE DATED AUGUST 21, 2007
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22American%20Enterprise%20Institute%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22American%20Enterprise%20Institute%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Tax Filings (IRS 990)
@@ -154,14 +154,14 @@ Market-based solutions to policy challenges (healthcare, education, environment)
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/530218495/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/530218495/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/530218495/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/530218495/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/530218495/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/530218495/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/530218495/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/530218495/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/530218495/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/530218495/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/530218495) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/530218495) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Campaign Finance (FEC)
@@ -178,5 +178,5 @@ Market-based solutions to policy challenges (healthcare, education, environment)
 | RNC REPUBLICAN NATIONAL STATE ELECTIONS COMMITTEE | $6,375 | — |
 | FRIENDS OF ANDY COLEMAN | $250 | REP |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=American%20Enterprise%20Institute) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=American%20Enterprise%20Institute) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->

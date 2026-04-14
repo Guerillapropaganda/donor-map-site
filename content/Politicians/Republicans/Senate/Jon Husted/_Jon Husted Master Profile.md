@@ -84,9 +84,9 @@ Husted frames himself as a defender of Ohio jobs and workers while accepting sub
 >
 > **The Centene Medicaid fraud pipeline:** Centene paid Ohio $88.3M to settle allegations of defrauding the state's Medicaid program. After the settlement, Centene executives donated $29,000+ to the senator who now sits on the committee overseeing Medicaid policy. The company paid $88M for defrauding Ohio taxpayers, then invested $29K in the senator who oversees the program they defrauded.
 
-- [Snopes: Sen. Jon Husted received donations from Epstein associate Les Wexner](https://www.snopes.com/fact-check/jon-husted-les-wexner-epstein/) (Tier 2)
-- [Ohio Capital Journal: Husted took thousands from Centene](https://ohiocapitaljournal.com/2026/01/16/husted-took-thousands-from-company-that-paid-ohio-88-million-to-settle-medicaid-fraud-allegations/) (Tier 2)
-- [Heartland Signal: Husted accepted over $100K from Wexner](https://heartlandsignal.com/2026/02/16/report-ohio-senator-jon-husted-has-accepted-over-100k-from-epstein-co-conspirator-les-wexner/) (Tier 2)
+- [Snopes: Sen. Jon Husted received donations from Epstein associate Les Wexner](https://www.snopes.com/fact-check/jon-husted-les-wexner-epstein/) (Tier 2) (VERIFIED)
+- [Ohio Capital Journal: Husted took thousands from Centene](https://ohiocapitaljournal.com/2026/01/16/husted-took-thousands-from-company-that-paid-ohio-88-million-to-settle-medicaid-fraud-allegations/) (Tier 2) (VERIFIED)
+- [Heartland Signal: Husted accepted over $100K from Wexner](https://heartlandsignal.com/2026/02/16/report-ohio-senator-jon-husted-has-accepted-over-100k-from-epstein-co-conspirator-les-wexner/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -142,20 +142,20 @@ The Centene pipeline follows the same pattern. Centene Corporation paid Ohio $88
 
 **Perfect Attendance**: 0 of 709 votes missed (0.0% absence rate) from January 2025 to March 2026
 
-**Website**: [husted.senate.gov](https://www.husted.senate.gov/)
+**Website**: [husted.senate.gov](https://www.husted.senate.gov/) (VERIFIED)
 
 ## Sources
 
-- [FEC.gov: Candidate Jon Husted (S6OH00304)](https://www.fec.gov/data/candidate/S6OH00304/) (Tier 1)
-- [FEC.gov: Committee "Husted for Senate" (C00896019)](https://www.fec.gov/data/committee/C00896019/) (Tier 1)
-- [Jon Husted sitting on $2.6 million for 2026 U.S. Senate race](https://www.nbc4i.com/news/your-local-election-hq/jon-husted-sitting-on-2-6-million-for-2026-u-s-senate-race-as-sherrod-brown-mulls-run/) (Tier 3)
-- [Sen. Jon Husted received donations from Epstein associate Les Wexner. We followed the money](https://www.snopes.com/fact-check/jon-husted-les-wexner-epstein/) (Tier 2)
-- [Husted took donations from Epstein 'co-conspirator' Les Wexner, then voted to block file release](https://tiffinohio.net/posts/husted-took-donations-from-epstein-co-conspirator-les-wexner-then-voted-to-block-file-release/) (Tier 2)
-- [The New Republic: MAGA Senator Took Donation From Epstein Friend Before Key Vote](https://newrepublic.com/post/206564/maga-senator-donation-epstein-conspirator-vote-block-files) (Tier 2)
-- [Wikipedia: Jon Husted](https://en.wikipedia.org/wiki/Jon_Husted) (Tier 3)
-- [Ballotpedia: Jon Husted](https://ballotpedia.org/Jon_Husted) (Tier 3)
-- [Senator Jon Husted Voting Record](https://www.husted.senate.gov/legislation/voting-record/) (Tier 1)
-- [GovTrack.us: Senator Jon Husted Voting Record and Stats](https://www.govtrack.us/congress/members/jon_husted/457032) (Tier 3)
+- [FEC.gov: Candidate Jon Husted (S6OH00304)](https://www.fec.gov/data/candidate/S6OH00304/) (Tier 1) (VERIFIED)
+- [FEC.gov: Committee "Husted for Senate" (C00896019)](https://www.fec.gov/data/committee/C00896019/) (Tier 1) (VERIFIED)
+- ~~[Jon Husted sitting on $2.6 million for 2026 U.S. Senate race](https://www.nbc4i.com/news/your-local-election-hq/jon-husted-sitting-on-2-6-million-for-2026-u-s-senate-race-as-sherrod-brown-mulls-run/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [Sen. Jon Husted received donations from Epstein associate Les Wexner. We followed the money](https://www.snopes.com/fact-check/jon-husted-les-wexner-epstein/) (Tier 2) (VERIFIED)
+- [Husted took donations from Epstein 'co-conspirator' Les Wexner, then voted to block file release](https://tiffinohio.net/posts/husted-took-donations-from-epstein-co-conspirator-les-wexner-then-voted-to-block-file-release/) (Tier 2) (VERIFIED)
+- [The New Republic: MAGA Senator Took Donation From Epstein Friend Before Key Vote](https://newrepublic.com/post/206564/maga-senator-donation-epstein-conspirator-vote-block-files) (Tier 2) (VERIFIED)
+- [Wikipedia: Jon Husted](https://en.wikipedia.org/wiki/Jon_Husted) (Tier 3) (VERIFIED)
+- [Ballotpedia: Jon Husted](https://ballotpedia.org/Jon_Husted) (Tier 3) (VERIFIED)
+- [Senator Jon Husted Voting Record](https://www.husted.senate.gov/legislation/voting-record/) (Tier 1) (VERIFIED)
+- [GovTrack.us: Senator Jon Husted Voting Record and Stats](https://www.govtrack.us/congress/members/jon_husted/457032) (Tier 3) (VERIFIED)
 
 ---
 
@@ -199,5 +199,5 @@ party:: Republican
 | INDIVISIBLE ACTION | $0 | $15,476 |
 | ACTIVATE AMERICA | $0 | $5,465 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6OH00304/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6OH00304/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->

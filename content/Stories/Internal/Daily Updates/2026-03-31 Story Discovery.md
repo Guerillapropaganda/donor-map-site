@@ -50,9 +50,9 @@ The March 27 run documented separate companies (SpaceX, xAI) receiving benefits 
 - Tech & Crypto donors section
 
 ### Sources (Chrome-verified 2026-03-31):
-- [NBC News: $200 million xAI government contract was late addition to program](https://www.nbcnews.com/tech/security/musk-xai-was-added-late-pentagon-grok-defense-department-rcna219488) (Tier 2)
-- [Axios: Musk's xAI, Pentagon reach deal to use Grok in classified systems](https://www.axios.com/2026/02/23/ai-defense-department-deal-musk-xai-grok) (Tier 2)
-- [DroneDJ: SpaceX, xAI join secretive $100M drone challenge](https://dronedj.com/2026/02/23/pentagon-drone-challenge-spacex-musk/) (Tier 3)
+- [NBC News: $200 million xAI government contract was late addition to program](https://www.nbcnews.com/tech/security/musk-xai-was-added-late-pentagon-grok-defense-department-rcna219488) (Tier 2) (VERIFIED)
+- [Axios: Musk's xAI, Pentagon reach deal to use Grok in classified systems](https://www.axios.com/2026/02/23/ai-defense-department-deal-musk-xai-grok) (Tier 2) (VERIFIED)
+- [DroneDJ: SpaceX, xAI join secretive $100M drone challenge](https://dronedj.com/2026/02/23/pentagon-drone-challenge-spacex-musk/) (Tier 3) (VERIFIED)
 
 ### Story angles:
 1. The "late addition" disclosure as the legal smoking gun, who authorized xAI's insertion into the contract and under what review process?
@@ -89,9 +89,9 @@ The March 27 run covered general crypto regulatory capture. The March 17 ruling 
 **⚑ CROSSOVER FLAG:** Ripple, Coinbase, and other crypto firms also funded Fairshake PAC, which spent $48M+ in the 2024 election cycle backing candidates from both parties (including Democrats). The SEC/CFTC ruling benefits donors who played both sides. This is a Both-Sides Illusion pattern: crypto industry funds Democratic and Republican candidates simultaneously, ensuring regulatory protection regardless of who wins. Flag for David, crossover piece candidate.
 
 ### Sources (Chrome-verified 2026-03-31):
-- [SEC.gov: SEC Clarifies the Application of Federal Securities Laws to Crypto Assets](https://www.sec.gov/newsroom/press-releases/2026-30-sec-clarifies-application-federal-securities-laws-crypto-assets) (Tier 1)
-- [Benzinga: Ripple, Coinbase, Solana Among Crypto Firms Contributing Over $12M To Trump's Inauguration Fund](https://www.benzinga.com/markets/cryptocurrency/25/04/44907123/ripple-coinbase-solana-among-crypto-firms-contributing-over-12m-to-trumps-inauguration-fund) (Tier 3)
-- [Genfinity: SEC and CFTC Issue Joint Final Rule: 17 Crypto Assets Officially Classified as Digital Commodities](https://genfinity.io/2026/03/17/sec-cftc-final-rule-digital-commodities-xrp-hbar-sol-eth-btc/) (Tier 3)
+- [SEC.gov: SEC Clarifies the Application of Federal Securities Laws to Crypto Assets](https://www.sec.gov/newsroom/press-releases/2026-30-sec-clarifies-application-federal-securities-laws-crypto-assets) (Tier 1) (VERIFIED)
+- [Benzinga: Ripple, Coinbase, Solana Among Crypto Firms Contributing Over $12M To Trump's Inauguration Fund](https://www.benzinga.com/markets/cryptocurrency/25/04/44907123/ripple-coinbase-solana-among-crypto-firms-contributing-over-12m-to-trumps-inauguration-fund) (Tier 3) (VERIFIED)
+- [Genfinity: SEC and CFTC Issue Joint Final Rule: 17 Crypto Assets Officially Classified as Digital Commodities](https://genfinity.io/2026/03/17/sec-cftc-final-rule-digital-commodities-xrp-hbar-sol-eth-btc/) (Tier 3) (VERIFIED)
 
 ### Story angles:
 1. The definitive XRP/Ripple chain: $4.8M donated → enforcement dropped → asset formally reclassified as commodity. Three steps, full documentation, Tier 1 primary source on the back end.
@@ -125,7 +125,7 @@ Public Citizen's Corporate Enforcement Tracker documents 31 corporations that do
 - Multiple sectors
 
 ### Sources (Chrome-verified 2026-03-31):
-- [Public Citizen: Canceled Corporate Enforcement. Trump First Year, Second Term](https://www.citizen.org/article/canceled-corporate-enforcement-trump-first-year-second-term/) (Tier 2)
+- [Public Citizen: Canceled Corporate Enforcement. Trump First Year, Second Term](https://www.citizen.org/article/canceled-corporate-enforcement-trump-first-year-second-term/) (Tier 2) (VERIFIED)
 
 ### Story angles:
 1. The tracker itself as a publishable database: map every canceled enforcement action to the sector-donor profile in the vault
@@ -158,7 +158,7 @@ Public Citizen's Corporate Enforcement Tracker documents 31 corporations that do
 - Wall Street / financial services adjacent
 
 ### Sources (Chrome-verified 2026-03-31):
-- [MSNBC: How the IRS' Direct File program's demise fits with Trump's predatory economy](https://www.ms.now/opinion/msnbc-opinion/trump-irs-direct-file-turbotax-economy-inauguration-rcna201749) (Tier 3, opinion piece; confirms the donation-to-policy chain)
+- [MSNBC: How the IRS' Direct File program's demise fits with Trump's predatory economy](https://www.ms.now/opinion/msnbc-opinion/trump-irs-direct-file-turbotax-economy-inauguration-rcna201749) (VERIFIED) (Tier 3, opinion piece; confirms the donation-to-policy chain)
 - [Public Citizen: Canceled Corporate Enforcement. Trump First Year, Second Term](https://www.citizen.org/article/canceled-corporate-enforcement-trump-first-year-second-term/) (Tier 2. Intuit listed in tracker)
 
 ### Additional sources needed (URL NEEDED, not Chrome-verified this run):
@@ -190,8 +190,8 @@ Public Citizen's Corporate Enforcement Tracker documents 31 corporations that do
 - Mega-Donors section (Schwarzman/Blackstone, Harold Hamm)
 
 ### Sources (Chrome-verified 2026-03-31):
-- [OpenSecrets: Trump ballroom donors poised to benefit from AI plan they helped shape](https://www.opensecrets.org/news/2026/01/trump-ballroom-donors-poised-to-benefit-from-ai-plan-they-helped-shape/) (Tier 2)
-- [NBC4 Washington: Watchdog calls for more transparency into WH ballroom donors](https://www.nbcwashington.com/investigations/as-key-decisions-over-white-house-ballroom-loom-ethics-watchdog-calls-for-more-transparency-into-its-donors/4083622/) (Tier 2)
+- [OpenSecrets: Trump ballroom donors poised to benefit from AI plan they helped shape](https://www.opensecrets.org/news/2026/01/trump-ballroom-donors-poised-to-benefit-from-ai-plan-they-helped-shape/) (Tier 2) (VERIFIED)
+- [NBC4 Washington: Watchdog calls for more transparency into WH ballroom donors](https://www.nbcwashington.com/investigations/as-key-decisions-over-white-house-ballroom-loom-ethics-watchdog-calls-for-more-transparency-into-its-donors/4083622/) (Tier 2) (VERIFIED)
 
 ### Story angles:
 1. The AI Action Plan donor overlap: map ballroom donors against AI Action Plan beneficiaries, which contracts, exemptions, and policy provisions correspond to which donors?

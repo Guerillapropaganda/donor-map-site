@@ -129,15 +129,15 @@ Craig's 2026 Senate campaign adds a second donor pipeline through her Agricultur
 
 ## Sources
 
-- [FEC Candidate: Angie Craig Campaign Finance Summary](https://www.fec.gov/data/candidate/S6MN00499/) (Tier 1)
-- [FEC: Angie Craig for Congress](https://www.fec.gov/data/committee/C00596015/) (Tier 1)
-- [MinnPost: What It Would Mean to Elect a Former Medical Device Executive to Congress](https://www.minnpost.com/politics-policy/2016/10/second-district-race-what-it-would-mean-elect-former-medical-device-executiv/) (Tier 2)
-- [Minnesota Reformer: Craig More Than Doubles Flanagan's Q3 Fundraising](https://minnesotareformer.com/briefs/craig-more-than-doubles-flanagans-q3-fundraising/) (Tier 2)
-- [NBC News: Rep. Angie Craig Launches Senate Run in Minnesota](https://www.nbcnews.com/politics/2026-election/rep-angie-craig-launches-senate-run-minnesota-ahead-competitive-democr-rcna203371) (Tier 2)
-- [Congresswoman Craig: House Passes Insulin Copay Cap Bill](https://craig.house.gov/media/press-releases/house-passes-representative-angie-craigs-bill-cap-insulin-copays-35-month) (Tier 1)
-- [The Advocate: Lesbian Minnesota Congresswoman Angie Craig Launches Historic Senate Bid](https://www.advocate.com/politics/angie-craig-announces-senate-run) (Tier 2)
-- [Wikipedia: Angie Craig](https://en.wikipedia.org/wiki/Angie_Craig) (Tier 3)
-- [Ballotpedia: Angie Craig](https://ballotpedia.org/Angie_Craig) (Tier 3)
+- [FEC Candidate: Angie Craig Campaign Finance Summary](https://www.fec.gov/data/candidate/S6MN00499/) (Tier 1) (VERIFIED)
+- [FEC: Angie Craig for Congress](https://www.fec.gov/data/committee/C00596015/) (Tier 1) (VERIFIED)
+- [MinnPost: What It Would Mean to Elect a Former Medical Device Executive to Congress](https://www.minnpost.com/politics-policy/2016/10/second-district-race-what-it-would-mean-elect-former-medical-device-executiv/) (Tier 2) (VERIFIED)
+- [Minnesota Reformer: Craig More Than Doubles Flanagan's Q3 Fundraising](https://minnesotareformer.com/briefs/craig-more-than-doubles-flanagans-q3-fundraising/) (Tier 2) (VERIFIED)
+- [NBC News: Rep. Angie Craig Launches Senate Run in Minnesota](https://www.nbcnews.com/politics/2026-election/rep-angie-craig-launches-senate-run-minnesota-ahead-competitive-democr-rcna203371) (Tier 2) (VERIFIED)
+- [Congresswoman Craig: House Passes Insulin Copay Cap Bill](https://craig.house.gov/media/press-releases/house-passes-representative-angie-craigs-bill-cap-insulin-copays-35-month) (Tier 1) (VERIFIED)
+- [The Advocate: Lesbian Minnesota Congresswoman Angie Craig Launches Historic Senate Bid](https://www.advocate.com/politics/angie-craig-announces-senate-run) (Tier 2) (VERIFIED)
+- [Wikipedia: Angie Craig](https://en.wikipedia.org/wiki/Angie_Craig) (Tier 3) (VERIFIED)
+- [Ballotpedia: Angie Craig](https://ballotpedia.org/Angie_Craig) (Tier 3) (VERIFIED)
 
 ---
 
@@ -168,7 +168,7 @@ party:: Democrat
 | NORTH STAR DAWN PAC | $37,500 | $0 |
 | DMFI PAC | $2,649 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6MN00499/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6MN00499/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### DOJ Press Releases

@@ -62,7 +62,7 @@ Collins sits on Defense Appropriations and Armed Services. General Dynamics ($16
 
 ### Sources
 
-- [FEC Candidate: Sen. Susan Collins - Campaign Finance Summary](https://www.fec.gov/data/candidate/S6ME00159/) (Tier 1)
-- [End Citizens United: Shot/Chaser: Senator Susan Collins Has Taken The Most Corporate PAC Money in Maine History](https://www.endcitizensunited.org/) (Tier 2)
-- [Maine Democratic Party: ROUNDUP: Collins Continues Relying On Special Interest & Out-Of-State Campaign Cash](https://www.mainedems.org/media/roundup-collins-continues-relying-special-interest-out-state-campaign-cash) (Tier 2)
-- [Brown War Watch: A Key Defense Player, Maine Sen. Susan Collins Has Financial Ties to Military Contractors](https://brownwarwatch.com/2018/01/24/a-key-pentagon-player-maine-sen-susan-collins-has-significant-financial-ties-to-war-profiteers/) (Tier 2)
+- [FEC Candidate: Sen. Susan Collins - Campaign Finance Summary](https://www.fec.gov/data/candidate/S6ME00159/) (Tier 1) (VERIFIED)
+- [End Citizens United: Shot/Chaser: Senator Susan Collins Has Taken The Most Corporate PAC Money in Maine History](https://www.endcitizensunited.org/) (Tier 2) (VERIFIED)
+- [Maine Democratic Party: ROUNDUP: Collins Continues Relying On Special Interest & Out-Of-State Campaign Cash](https://www.mainedems.org/media/roundup-collins-continues-relying-special-interest-out-state-campaign-cash) (Tier 2) (VERIFIED)
+- [Brown War Watch: A Key Defense Player, Maine Sen. Susan Collins Has Financial Ties to Military Contractors](https://brownwarwatch.com/2018/01/24/a-key-pentagon-player-maine-sen-susan-collins-has-significant-financial-ties-to-war-profiteers/) (Tier 2) (VERIFIED)

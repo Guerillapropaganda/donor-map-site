@@ -137,18 +137,18 @@ Trump's expansion of detention from 46,000 to 66,000 beds during 2025 served as 
 
 ### Sources
 
-- [FEC Receipts: Private prison industry political spending](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- [The Sentencing Project: Private prison industry analysis](https://www.sentencingproject.org/reports/private-prisons-in-the-united-states/) (Tier 2)
-- [DHS: ICE budget and detention statistics](https://www.dhs.gov/publication/budget-overview) (Tier 1)
-- [Brennan Center: Private Prison Companies' Enormous Windfall](https://www.brennancenter.org/our-work/analysis-opinion/private-prison-companies-enormous-windfall-who-stands-gain-ice-expands) (Tier 2)
-- [Common Dreams: GEO Group record $254M profit after new ICE contracts](https://www.commondreams.org/news/geo-group-ice-profits) (Tier 2)
-- [The Marshall Project: ICE Has Abruptly Deported Thousands of Kids, March 18, 2026](https://www.themarshallproject.org/2026/03/18/ice-children-deportation-detention-trump) (Tier 2)
-- [American Immigration Council: Immigration Detention Expansion in Trump's Second Term](https://www.americanimmigrationcouncil.org/report/immigration-detention/) (Tier 2)
-- [Bloomberg: Private Prisons Face Competition Under Trump's New Detention Plan, Feb 19, 2026](https://www.bloomberg.com/news/articles/2026-02-19/trump-s-immigration-push-to-warehouses-could-cut-out-corecivic-geogroup) (Tier 2)
-- [DHS: ICE FY2026 Congressional Budget Justification](https://www.dhs.gov/sites/default/files/2025-06/25_0613_ice_fy26-congressional-budget-justificatin.pdf) (Tier 1)
-- [GEO Group, Inc.: SEC Filings and 10-K Annual Reports](https://investors.geogroup.com/news-events-reports/sec-filings) (Tier 1)
-- [CoreCivic, Inc.: SEC Filings and 10-K Annual Reports](https://ir.corecivic.com/financial-information/sec-filings) (Tier 1)
-- [NPR: How ICE Became the Highest-Funded U.S. Law Enforcement Agency, January 2026](https://www.npr.org/2026/01/21/nx-s1-5674887/ice-budget-funding-congress-trump) (Tier 2)
+- [FEC Receipts: Private prison industry political spending](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
+- [The Sentencing Project: Private prison industry analysis](https://www.sentencingproject.org/reports/private-prisons-in-the-united-states/) (Tier 2) (VERIFIED)
+- ~~[DHS: ICE budget and detention statistics](https://www.dhs.gov/publication/budget-overview)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Brennan Center: Private Prison Companies' Enormous Windfall](https://www.brennancenter.org/our-work/analysis-opinion/private-prison-companies-enormous-windfall-who-stands-gain-ice-expands) (Tier 2) (VERIFIED)
+- [Common Dreams: GEO Group record $254M profit after new ICE contracts](https://www.commondreams.org/news/geo-group-ice-profits) (Tier 2) (VERIFIED)
+- [The Marshall Project: ICE Has Abruptly Deported Thousands of Kids, March 18, 2026](https://www.themarshallproject.org/2026/03/18/ice-children-deportation-detention-trump) (Tier 2) (VERIFIED)
+- [American Immigration Council: Immigration Detention Expansion in Trump's Second Term](https://www.americanimmigrationcouncil.org/report/immigration-detention/) (Tier 2) (VERIFIED)
+- ~~[Bloomberg: Private Prisons Face Competition Under Trump's New Detention Plan, Feb 19, 2026](https://www.bloomberg.com/news/articles/2026-02-19/trump-s-immigration-push-to-warehouses-could-cut-out-corecivic-geogroup)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [DHS: ICE FY2026 Congressional Budget Justification](https://www.dhs.gov/sites/default/files/2025-06/25_0613_ice_fy26-congressional-budget-justificatin.pdf) (Tier 1) (VERIFIED)
+- [GEO Group, Inc.: SEC Filings and 10-K Annual Reports](https://investors.geogroup.com/news-events-reports/sec-filings) (Tier 1) (VERIFIED)
+- [CoreCivic, Inc.: SEC Filings and 10-K Annual Reports](https://ir.corecivic.com/financial-information/sec-filings) (Tier 1) (VERIFIED)
+- [NPR: How ICE Became the Highest-Funded U.S. Law Enforcement Agency, January 2026](https://www.npr.org/2026/01/21/nx-s1-5674887/ice-budget-funding-congress-trump) (Tier 2) (VERIFIED)
 
 ---
 

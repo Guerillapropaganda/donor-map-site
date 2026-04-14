@@ -34,9 +34,9 @@ Fetterman's October 2023 statements went beyond Democratic consensus positioning
 - Campaign messaging focused on domestic issues (healthcare, jobs, climate)
 
 ### October 2023 - early 2024:
-- "I don't want a ceasefire until Hamas is neutralized" - [Pittsburgh Jewish Chronicle: Fetterman says he'll 'lean in' on U.S.-Israel relationship](https://jewishchronicle.timesofisrael.com/john-fetterman-says-hell-lean-in-on-u-s-israel-relationship-as-senator/) (Tier 2)
-- Progressive backlash in Pennsylvania documented - [Post-Gazette: Fetterman sparks backlash with staunch support for Israel](https://www.post-gazette.com/news/politics-nation/2023/11/03/john-fetterman-israel-hamas-progressives/stories/202311050075) (Tier 2)
-- "It's outing him as not being progressive" quote from progressives documented - [Post-Gazette](https://www.post-gazette.com/news/politics-nation/2023/11/03/john-fetterman-israel-hamas-progressives/stories/202311050075) (Tier 2)
+- "I don't want a ceasefire until Hamas is neutralized" - [Pittsburgh Jewish Chronicle: Fetterman says he'll 'lean in' on U.S.-Israel relationship](https://jewishchronicle.timesofisrael.com/john-fetterman-says-hell-lean-in-on-u-s-israel-relationship-as-senator/) (Tier 2) (VERIFIED)
+- Progressive backlash in Pennsylvania documented - [Post-Gazette: Fetterman sparks backlash with staunch support for Israel](https://www.post-gazette.com/news/politics-nation/2023/11/03/john-fetterman-israel-hamas-progressives/stories/202311050075) (Tier 2) (VERIFIED)
+- "It's outing him as not being progressive" quote from progressives documented - [Post-Gazette](https://www.post-gazette.com/news/politics-nation/2023/11/03/john-fetterman-israel-hamas-progressives/stories/202311050075) (Tier 2) (VERIFIED)
 
 ### April 2024:
 - Intercept documents Republican donor recruitment explicitly tied to Israel hardline
@@ -64,7 +64,7 @@ This answer positions Fetterman to the right of substantial Democratic opinion. 
 ### The AIPAC Alignment and Donor Flow
 
 ### Documented AIPAC donations to Fetterman (since 2023 election):
-- Total: ~$250,000 - [AIPAC Tracker on X](https://x.com/TrackAIPAC/status/1775962933354512886?lang=en) (Tier 3)
+- Total: ~$250,000 - [AIPAC Tracker on X](https://x.com/TrackAIPAC/status/1775962933354512886?lang=en) (Tier 3) (VERIFIED)
 - Timing: Concentrated post-October 7, 2023
 - Recruitment pattern: AIPAC deliberately cultivating Fetterman as Democratic hardliner
 
@@ -127,9 +127,9 @@ Yet this framing obscures the actual political dynamic: AIPAC donors want hardli
 ### Sources
 
 - [Post-Gazette: Fetterman sparks backlash with staunch support for Israel](https://www.post-gazette.com/news/politics-nation/2023/11/03/john-fetterman-israel-hamas-progressives/stories/202311050075) (Tier 2)
-- [The Intercept: Since October, Sen. John Fetterman Has Been Building a Roster of Republican Donors](https://theintercept.com/2024/04/19/john-fetterman-israel-gop-donors/) (Tier 2)
-- [The Nation: Senator John Fetterman Is a Progressive Icon, a Republican Hate Figure, and a Pro-Israel Pinup](https://www.thenation.com/article/politics/fetterman-israel-palestine-progressives/) (Tier 2)
-- [New Republic: John Fetterman Speaks: I Haven't Changed a Lick](https://newrepublic.com/article/177976/john-fetterman-interview-israel-progressive) (Tier 2)
-- [Pittsburgh Jewish Chronicle: Fetterman says he'll 'lean in' on U.S.-Israel relationship as senator](https://jewishchronicle.timesofisrael.com/john-fetterman-says-hell-lean-in-on-u-s-israel-relationship-as-senator/) (Tier 2)
-- [Algemeiner: Fetterman Hosts AIPAC, Bondi Survivor in DC Office](https://www.algemeiner.com/2026/02/26/fetterman-hosts-aipac-bondi-survivor-dc-office/) (Tier 2)
-- [AIPAC Tracker on X: Fetterman received nearly $250,000 from pro-Israel lobby](https://x.com/TrackAIPAC/status/1775962933354512886?lang=en) (Tier 3)
+- [The Intercept: Since October, Sen. John Fetterman Has Been Building a Roster of Republican Donors](https://theintercept.com/2024/04/19/john-fetterman-israel-gop-donors/) (Tier 2) (VERIFIED)
+- [The Nation: Senator John Fetterman Is a Progressive Icon, a Republican Hate Figure, and a Pro-Israel Pinup](https://www.thenation.com/article/politics/fetterman-israel-palestine-progressives/) (Tier 2) (VERIFIED)
+- [New Republic: John Fetterman Speaks: I Haven't Changed a Lick](https://newrepublic.com/article/177976/john-fetterman-interview-israel-progressive) (Tier 2) (VERIFIED)
+- [Pittsburgh Jewish Chronicle: Fetterman says he'll 'lean in' on U.S.-Israel relationship as senator](https://jewishchronicle.timesofisrael.com/john-fetterman-says-hell-lean-in-on-u-s-israel-relationship-as-senator/) (Tier 2) (VERIFIED)
+- [Algemeiner: Fetterman Hosts AIPAC, Bondi Survivor in DC Office](https://www.algemeiner.com/2026/02/26/fetterman-hosts-aipac-bondi-survivor-dc-office/) (Tier 2) (VERIFIED)
+- [AIPAC Tracker on X: Fetterman received nearly $250,000 from pro-Israel lobby](https://x.com/TrackAIPAC/status/1775962933354512886?lang=en) (Tier 3) (VERIFIED)

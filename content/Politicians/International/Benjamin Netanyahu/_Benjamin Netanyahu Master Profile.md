@@ -157,10 +157,10 @@ Netanyahu's coalition depends on Ben-Gvir and Smotrich (20 of 67 seats). Settlem
 
 ## Sources
 
-- [BuzzFeed News: Three American families bankrolling Netanyahu](https://www.buzzfeednews.com/article/sheerafrenkel/meet-the-american-families-bankrolling-netanyahus) (Tier 2)
-- [CNN: Netanyahu leaves Trump meeting empty-handed](https://www.cnn.com/2025/04/09/middleeast/analysis-netanyahu-trump-tariffs-iran-intl-latam) (Tier 2)
-- [Peace Now: Settlement activity 2024](https://peacenow.org.il/en/) (Tier 2)
-- [ProPublica: Biden State Department and Israel accountability](https://www.propublica.org/article/biden-blinken-state-department-israel-gaza-human-rights-horrors) (Tier 2)
+- [BuzzFeed News: Three American families bankrolling Netanyahu](https://www.buzzfeednews.com/article/sheerafrenkel/meet-the-american-families-bankrolling-netanyahus) (Tier 2) (VERIFIED)
+- [CNN: Netanyahu leaves Trump meeting empty-handed](https://www.cnn.com/2025/04/09/middleeast/analysis-netanyahu-trump-tariffs-iran-intl-latam) (Tier 2) (VERIFIED)
+- [Peace Now: Settlement activity 2024](https://peacenow.org.il/en/) (Tier 2) (VERIFIED)
+- [ProPublica: Biden State Department and Israel accountability](https://www.propublica.org/article/biden-blinken-state-department-israel-gaza-human-rights-horrors) (Tier 2) (VERIFIED)
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
@@ -179,5 +179,5 @@ Netanyahu's coalition depends on Ben-Gvir and Smotrich (20 of 67 seats). Settlem
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Benjamin Netanyahu](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: Benjamin Netanyahu](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->

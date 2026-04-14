@@ -60,9 +60,9 @@ Blackstone's political significance extends far beyond its campaign contribution
 
 Schwarzman's relationship with Trump has defined Blackstone's political strategy. He chaired Trump's Strategic and Policy Forum in 2017, broke with Trump over January 6, then reconciled by 2024, sitting at the head table with Trump and the emir of Qatar at a 2024 state dinner. The pattern reveals the donor-class calculation: political principles are negotiable when carried interest and regulatory treatment are at stake.
 
-- [OpenSecrets: Blackstone Group organizational profile](https://www.opensecrets.org/orgs/blackstone-group/summary?id=D000021873) (Tier 1)
-- [FEC: Blackstone PAC filings](https://www.fec.gov/data/committee/C00428052/) (Tier 1)
-- [SEC: Blackstone Inc. 10-K Annual Report (2024)](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001393818&type=10-K) (Tier 1)
+- [OpenSecrets: Blackstone Group organizational profile](https://www.opensecrets.org/orgs/blackstone-group/summary?id=D000021873) (Tier 1) (VERIFIED)
+- [FEC: Blackstone PAC filings](https://www.fec.gov/data/committee/C00428052/) (Tier 1) (VERIFIED)
+- [SEC: Blackstone Inc. 10-K Annual Report (2024)](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001393818&type=10-K) (Tier 1) (VERIFIED)
 
 ---
 
@@ -138,11 +138,11 @@ Blackstone PAC maintains a roughly 55/45 Republican-Democrat split, ensuring acc
 > [!money]
 > 83-84% of Blackstone's lobbyists are former government employees, the highest revolving door percentage of any major financial institution. These are former Treasury officials, congressional tax staffers, and SEC regulators who now lobby their former colleagues on behalf of the firm they regulate. The revolving door isn't a side effect of Blackstone's business, it's a core competitive advantage.
 
-- [OpenSecrets: Blackstone Group summary, 2024 cycle](https://www.opensecrets.org/orgs/blackstone-group/summary?id=D000021873) (Tier 1)
-- [Senate LDA Filings: Blackstone Group lobbying profile](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [FEC Receipts: Stephen Schwarzman donor lookup](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Stephen%20Schwarzman) (Tier 1)
-- [OpenSecrets: Blackstone Group top recipients](https://www.opensecrets.org/orgs/blackstone-group/recipients?id=D000021873) (Tier 1)
-- [FEC: Blackstone PAC disbursements](https://www.fec.gov/data/disbursements/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?committee_id=C00428052) (Tier 1)
+- [OpenSecrets: Blackstone Group summary, 2024 cycle](https://www.opensecrets.org/orgs/blackstone-group/summary?id=D000021873) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: Blackstone Group lobbying profile](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [FEC Receipts: Stephen Schwarzman donor lookup](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Stephen%20Schwarzman) (Tier 1) (VERIFIED)
+- [OpenSecrets: Blackstone Group top recipients](https://www.opensecrets.org/orgs/blackstone-group/recipients?id=D000021873) (Tier 1) (VERIFIED)
+- [FEC: Blackstone PAC disbursements](https://www.fec.gov/data/disbursements/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?committee_id=C00428052) (Tier 1) (VERIFIED)
 
 ---
 
@@ -257,7 +257,7 @@ The pension fund dynamic completes the circle. State employee pension funds, Cal
 ### Sources
 
 ### FEC & OpenSecrets (Chrome-verified):
-- [OpenSecrets: Blackstone Group summary](https://www.opensecrets.org/orgs/blackstone-group/summary?id=D000021873) (Tier 1)
+- [OpenSecrets: Blackstone Group summary](https://www.opensecrets.org/orgs/blackstone-group/summary?id=D000021873) (Tier 1) (VERIFIED)
 - [Senate LDA Filings: Blackstone Group lobbying profile](https://lda.gov/filings/public/filing/search/) (Tier 1)
 - [FEC Receipts: Stephen Schwarzman donor lookup](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Stephen%20Schwarzman) (Tier 1)
 - [OpenSecrets: Blackstone Group top recipients](https://www.opensecrets.org/orgs/blackstone-group/recipients?id=D000021873) (Tier 1)
@@ -265,26 +265,26 @@ The pension fund dynamic completes the circle. State employee pension funds, Cal
 - [FEC: Blackstone PAC disbursements](https://www.fec.gov/data/disbursements/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?committee_id=C00428052) (Tier 1)
 
 ### Government & Regulatory:
-- [SEC: Blackstone Inc. annual filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001393818&type=10-K) (Tier 1)
-- [CBO: Carried interest revenue estimates](https://www.cbo.gov/publication/options-reducing-deficit) (Tier 1)
-- [FTC: Invitation Homes settlement](https://www.ftc.gov/news-events/news/press-releases/2023/invitation-homes-settlement) (Tier 1)
-- [IRS: Opportunity Zone regulations](https://www.irs.gov/credits-deductions/businesses/opportunity-zones) (Tier 1)
-- [UN OHCHR: Special Rapporteur on Housing. Blackstone criticism](https://www.ohchr.org/en/press-releases/2019/03/un-housing-expert-blackstone) (Tier 1)
+- [SEC: Blackstone Inc. annual filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001393818&type=10-K) (Tier 1) (VERIFIED)
+- ~~[CBO: Carried interest revenue estimates](https://www.cbo.gov/publication/options-reducing-deficit)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [FTC: Invitation Homes settlement](https://www.ftc.gov/news-events/news/press-releases/2023/invitation-homes-settlement) (Tier 1) (VERIFIED)
+- [IRS: Opportunity Zone regulations](https://www.irs.gov/credits-deductions/businesses/opportunity-zones) (Tier 1) (VERIFIED)
+- ~~[UN OHCHR: Special Rapporteur on Housing. Blackstone criticism](https://www.ohchr.org/en/press-releases/2019/03/un-housing-expert-blackstone)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ### Investigative Journalism (Chrome-verified where noted):
-- [ProPublica: Despite Trump campaign promise, billionaires' tax loophole survives again](https://www.propublica.org/article/despite-trump-campaign-promise-billionaires-tax-loophole-survives-again) (Tier 2) (Chrome-verified)
-- [The New Republic: How the Trump oligarchy works. Stephen Schwarzman](https://newrepublic.com/article/201833/trump-oligarchy-stephen-schwarzman-economy) (Tier 2) (Chrome-verified)
-- [IBTimes: Tax bill adds new deduction for Blackstone CEO Schwarzman](https://www.ibtimes.com/political-capital/tax-bill-adds-new-deduction-blackstone-ceo-gop-donor-schwarzman-2622738) (Tier 2) (Chrome-verified)
-- [ProPublica: Billionaires Keep Benefiting From a Tax Break to Help the Poor. Now, Congress Wants to Investigate.](https://www.propublica.org/article/billionaires-keep-benefiting-from-a-tax-break-to-help-the-poor-now-congress-wants-to-investigate) (Tier 2)
-- [Capital & Main: Invitation Homes rent increases in San Diego](https://capitalandmain.com/affordable-housing-tenants-protest-rent-increases-0920) (Tier 2)
-- [Financial Times: Saudi PIF Blackstone relationship](https://www.ft.com/content/blackstone-saudi-pif) (Tier 2)
-- [Wall Street Journal: Blackstone single-family home acquisitions](https://www.wsj.com/articles/blackstone-invitation-homes-single-family) (Tier 2)
-- [Americans for Tax Fairness: Carried interest loophole cost analysis](https://americansfortaxfairness.org/issue/carried-interest/) (Tier 2)
+- [ProPublica: Despite Trump campaign promise, billionaires' tax loophole survives again](https://www.propublica.org/article/despite-trump-campaign-promise-billionaires-tax-loophole-survives-again) (Tier 2) (VERIFIED) (Chrome-verified)
+- [The New Republic: How the Trump oligarchy works. Stephen Schwarzman](https://newrepublic.com/article/201833/trump-oligarchy-stephen-schwarzman-economy) (Tier 2) (VERIFIED) (Chrome-verified)
+- [IBTimes: Tax bill adds new deduction for Blackstone CEO Schwarzman](https://www.ibtimes.com/political-capital/tax-bill-adds-new-deduction-blackstone-ceo-gop-donor-schwarzman-2622738) (Tier 2) (VERIFIED) (Chrome-verified)
+- [ProPublica: Billionaires Keep Benefiting From a Tax Break to Help the Poor. Now, Congress Wants to Investigate.](https://www.propublica.org/article/billionaires-keep-benefiting-from-a-tax-break-to-help-the-poor-now-congress-wants-to-investigate) (Tier 2) (VERIFIED)
+- [Capital & Main: Invitation Homes rent increases in San Diego](https://capitalandmain.com/affordable-housing-tenants-protest-rent-increases-0920) (Tier 2) (VERIFIED)
+- ~~[Financial Times: Saudi PIF Blackstone relationship](https://www.ft.com/content/blackstone-saudi-pif)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Wall Street Journal: Blackstone single-family home acquisitions](https://www.wsj.com/articles/blackstone-invitation-homes-single-family)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Americans for Tax Fairness: Carried interest loophole cost analysis](https://americansfortaxfairness.org/issue/carried-interest/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ### Secondary:
-- [Ballotpedia: Blackstone Group political spending](https://ballotpedia.org/Blackstone_Group) (Tier 3)
-- [Bloomberg: Blackstone sovereign wealth fund relationships](https://www.bloomberg.com/blackstone-sovereign-wealth) (Tier 2)
-- [Maine Democratic Party: Schwarzman donations to Collins post-TCJA vote](https://www.mainedems.org/media/new-report-private-equity-billionaire-ramped-donations-senator-collins-after-her-pivotal-vote) (Tier 4) (Chrome-verified)
+- [Ballotpedia: Blackstone Group political spending](https://ballotpedia.org/Blackstone_Group) (Tier 3) (VERIFIED)
+- ~~[Bloomberg: Blackstone sovereign wealth fund relationships](https://www.bloomberg.com/blackstone-sovereign-wealth)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Maine Democratic Party: Schwarzman donations to Collins post-TCJA vote](https://www.mainedems.org/media/new-report-private-equity-billionaire-ramped-donations-senator-collins-after-her-pivotal-vote) (Tier 4) (VERIFIED) (Chrome-verified)
 
 ---
 
@@ -314,7 +314,7 @@ The pension fund dynamic completes the circle. State employee pension funds, Cal
 |------------------|--------|--------|
 | Unknown | $1009778941.6B | 50 |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Blackstone%20Group) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Blackstone%20Group) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Lobbying Activity
@@ -333,7 +333,7 @@ The pension fund dynamic completes the circle. State employee pension funds, Cal
 
 **Agencies contacted:** Commerce, Dept of (DOC), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Homeland Security, Dept of (DHS), Labor, Dept of (DOL), SENATE, Transportation, Dept of (DOT), Treasury, Dept of, U.S. Mint, White House Office
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Blackstone%20Group) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Blackstone%20Group) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)
@@ -406,7 +406,7 @@ The pension fund dynamic completes the circle. State employee pension funds, Cal
 | $460 | VETERANS AFFAIRS, DEPARTMENT OF | 2007-05-17 |
 | $195 | VETERANS AFFAIRS, DEPARTMENT OF | 2007-05-23 |
 
-- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Blackstone%20Group&page=1&index=opp) (Tier 1)
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Blackstone%20Group&page=1&index=opp) (Tier 1) (VERIFIED)
 <!-- auto:sam-contracts end -->
 
 ### Federal Spending (USASpending)
@@ -424,7 +424,7 @@ The pension fund dynamic completes the circle. State employee pension funds, Cal
 | $29K | Department of Homeland Security | OFF CENTER HOUSING CHARLESTON, SC |
 | $17K | Department of Homeland Security | OFF CENTER HOUSING CHARLESTON, SC |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Blackstone%20Group) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Blackstone%20Group) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Federal Court Records (CourtListener)
@@ -443,7 +443,7 @@ The pension fund dynamic completes the circle. State employee pension funds, Cal
 - Parr v. BitPay (2025) - District Court, E.D. Texas
 - Chavous v. Housing Visions Unlimited Inc. (2025) - District Court, N.D. New York
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Blackstone%20Group%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Blackstone%20Group%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### OCC Enforcement Actions
@@ -463,9 +463,9 @@ The pension fund dynamic completes the circle. State employee pension funds, Cal
 
 **Recent enforcement history:**
 
-- [AA-EC-89-134: Civil Money Penalty (CMP)](https://www.occ.gov/static/enforcement-actions/ea86.pdf) (05/25/1990) - $11,000
+- [AA-EC-89-134: Civil Money Penalty (CMP)](https://www.occ.gov/static/enforcement-actions/ea86.pdf) (NEEDS REVIEW) (05/25/1990) - $11,000
 
-- [Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=Blackstone%20Group&srt=1&pg=1&pgsz=25&isAdv=false) (Tier 1)
+- ~~[Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=Blackstone%20Group&srt=1&pg=1&pgsz=25&isAdv=false)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:occ-enforcement end -->
 
 ### SEC Filing Activity
@@ -483,5 +483,5 @@ The pension fund dynamic completes the circle. State employee pension funds, Cal
 - 2020-01-22 - **4**: FORM 4 SUBMISSION
 - 2018-03-19 - **4**: FORM 4 SUBMISSION
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Blackstone%20Group%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Blackstone%20Group%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->

@@ -198,10 +198,10 @@ The speed of Sinema's revolving door motion reveals something fundamental about 
 
 ### Sources
 
-- [The Hill: Warren rips Sinema over post-Senate influence career](https://thehill.com/homenews/senate/5685025-warren-slams-sinema-corporate-interests/) (Tier 2)
-- [Hogan Lovells: Senator Kyrsten Sinema joins firm](https://www.hoganlovells.com/en/news/hogan-lovells-welcomes-senator-kyrsten-sinema) (Tier 2)
-- [Coinbase: Welcomes Four New Political and Economic Leaders to Global Advisory Council](https://www.coinbase.com/blog/Coinbase-Welcomes-Four-New-Political-and-Economic-Leaders-to-the-Global-Advisory-Council) (Tier 2)
-- [NPR: Kyrsten Sinema leaves Democratic Party, registers as independent](https://www.npr.org/2022/12/09/1141827943/sinema-leaves-democratic-party-independent) (Tier 2)
-- [Washington Post: Kyrsten Sinema switches party to independent](https://www.washingtonpost.com/politics/2022/12/09/kyrsten-sinema-independent/) (Tier 2)
-- [LGBTQ Nation: Kyrsten Sinema left the Senate and landed at a lobbying firm](https://www.lgbtqnation.com/2025/04/kyrsten-sinema-left-the-senate-lands-at-a-lobbying-firm/) (Tier 2)
-- [Jacobin: Kyrsten Sinema Pivots to Crypto](https://jacobin.com/2025/01/kyrsten-sinema-crypto-coinbase-finance) (Tier 2)
+- ~~[The Hill: Warren rips Sinema over post-Senate influence career](https://thehill.com/homenews/senate/5685025-warren-slams-sinema-corporate-interests/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Hogan Lovells: Senator Kyrsten Sinema joins firm](https://www.hoganlovells.com/en/news/hogan-lovells-welcomes-senator-kyrsten-sinema) (Tier 2) (NEEDS REVIEW)
+- ~~[Coinbase: Welcomes Four New Political and Economic Leaders to Global Advisory Council](https://www.coinbase.com/blog/Coinbase-Welcomes-Four-New-Political-and-Economic-Leaders-to-the-Global-Advisory-Council)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [NPR: Kyrsten Sinema leaves Democratic Party, registers as independent](https://www.npr.org/2022/12/09/1141827943/sinema-leaves-democratic-party-independent) (Tier 2) (VERIFIED)
+- [Washington Post: Kyrsten Sinema switches party to independent](https://www.washingtonpost.com/politics/2022/12/09/kyrsten-sinema-independent/) (Tier 2) (VERIFIED)
+- [LGBTQ Nation: Kyrsten Sinema left the Senate and landed at a lobbying firm](https://www.lgbtqnation.com/2025/04/kyrsten-sinema-left-the-senate-lands-at-a-lobbying-firm/) (Tier 2) (VERIFIED)
+- [Jacobin: Kyrsten Sinema Pivots to Crypto](https://jacobin.com/2025/01/kyrsten-sinema-crypto-coinbase-finance) (Tier 2) (VERIFIED)

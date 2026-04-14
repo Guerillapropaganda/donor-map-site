@@ -252,29 +252,29 @@ The firm's 318-client roster in 2024 also reveals the breadth of the Donor Map's
 
 ### Sources
 
-- [Senate LDA Filings: Holland & Knight Lobbying Profile 2024](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA Filings: Holland & Knight Lobbyists 2024-2025](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [E&E News: Biden's EPA chemicals chief lands new job (Freedhoff)](https://www.eenews.net/articles/bidens-epa-chemicals-chief-lands-new-job/) (Tier 2)
-- [Holland & Knight: Former EPA Chemical Safety AA Michal Freedhoff Joins](https://www.hklaw.com/en/news/pressreleases/2025/04/former-epa-chemical-safety-assistant-administrator-michal-freedhoff) (Tier 3)
-- [Holland & Knight: Former Congressman Tom Davis Joins Holland & Knight (2019)](https://www.hklaw.com/en/news/pressreleases/2019/01/former-congressman-tom-davis-joins-holland--knight) (Tier 3)
-- [Holland & Knight: Yasmin Nelson, Former Advisor to Kamala Harris, Joins (2023)](https://www.hklaw.com/en/news/pressreleases/2023/09/yasmin-nelson) (Tier 3)
-- [Holland & Knight: BigLaw Firms Report Record Lobbying Revenues for 2024](https://www.hklaw.com/en/news/intheheadlines/2025/01/biglaw-firms-report-record-lobbying-revenues-for-2024) (Tier 3)
-- [Holland & Knight: Forms National Security & Defense Industry Group (2025)](https://www.hklaw.com/en/news/pressreleases/2025/01/holland-knight-forms-national-security-defense-industry-group) (Tier 3)
-- [Holland & Knight: Rich Gold Professional Profile](https://www.hklaw.com/en/professionals/g/gold-rich) (Tier 3)
-- [Marijuana Moment: Former Congressman Behind Marijuana Banking Bill Discusses New Lobbying Work (Perlmutter)](https://www.marijuanamoment.net/former-congressman-behind-marijuana-banking-bill-discusses-new-lobbying-work-and-offers-rescheduling-predictions/) (Tier 2)
-- [Wikipedia: Holland & Knight](https://en.wikipedia.org/wiki/Holland_%26_Knight) (Tier 3)
-- [Kinney Recruiting: Senate Finance Committee Chief International Trade Counsel Nasim Fussell Joins Holland & Knight](https://www.kinneyrecruiting.com/washington/legal-news/senate-finance-committee-chief-international-trade-counsel-nasim-fussell-joins-holland-knight/) (Tier 3)
-- [Holland & Knight: TSCA Roundup — Existing Chemical Regulation Under the Second Trump Administration's EPA (May 2025)](https://www.hklaw.com/en/insights/publications/2025/05/tsca-roundup-existing-chemical-regulation-under-the-second) (Tier 3)
-- [Holland & Knight: EPA Proposes Major Shift in TSCA PFAS Reporting Policy (November 2025)](https://www.hklaw.com/en/insights/publications/2025/11/epa-proposes-major-shift-in-tsca-pfas-reporting-policy) (Tier 3)
-- [Holland & Knight: EPA's Proposed Rule Signals Rollback of Chemical Safety Requirements as Key Questions Remain (March 2026)](https://www.hklaw.com/en/insights/publications/2026/03/epas-proposed-rule-signals-rollback-of-chemical-safety-requirements) (Tier 3)
-- [The New Lede: Senate GOP backs speedier chemical reviews; Dems cite health risks — Senate TSCA reform bill, March 4 hearing (March 2026)](https://www.thenewlede.org/2026/03/senate-tsca-toxics-chemical-regulation-law/) (Tier 2)
-- [The New Lede: House Republicans move to roll back key protections in US chemical safety law (January 2026)](https://www.thenewlede.org/2026/01/tsca-chemical-regulation-amendment-house-gop/) (Tier 2)
+- [Senate LDA Filings: Holland & Knight Lobbying Profile 2024](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: Holland & Knight Lobbyists 2024-2025](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [E&E News: Biden's EPA chemicals chief lands new job (Freedhoff)](https://www.eenews.net/articles/bidens-epa-chemicals-chief-lands-new-job/) (Tier 2) (VERIFIED)
+- [Holland & Knight: Former EPA Chemical Safety AA Michal Freedhoff Joins](https://www.hklaw.com/en/news/pressreleases/2025/04/former-epa-chemical-safety-assistant-administrator-michal-freedhoff) (Tier 3) (VERIFIED)
+- [Holland & Knight: Former Congressman Tom Davis Joins Holland & Knight (2019)](https://www.hklaw.com/en/news/pressreleases/2019/01/former-congressman-tom-davis-joins-holland--knight) (Tier 3) (VERIFIED)
+- [Holland & Knight: Yasmin Nelson, Former Advisor to Kamala Harris, Joins (2023)](https://www.hklaw.com/en/news/pressreleases/2023/09/yasmin-nelson) (Tier 3) (VERIFIED)
+- [Holland & Knight: BigLaw Firms Report Record Lobbying Revenues for 2024](https://www.hklaw.com/en/news/intheheadlines/2025/01/biglaw-firms-report-record-lobbying-revenues-for-2024) (Tier 3) (VERIFIED)
+- [Holland & Knight: Forms National Security & Defense Industry Group (2025)](https://www.hklaw.com/en/news/pressreleases/2025/01/holland-knight-forms-national-security-defense-industry-group) (Tier 3) (VERIFIED)
+- [Holland & Knight: Rich Gold Professional Profile](https://www.hklaw.com/en/professionals/g/gold-rich) (Tier 3) (VERIFIED)
+- [Marijuana Moment: Former Congressman Behind Marijuana Banking Bill Discusses New Lobbying Work (Perlmutter)](https://www.marijuanamoment.net/former-congressman-behind-marijuana-banking-bill-discusses-new-lobbying-work-and-offers-rescheduling-predictions/) (Tier 2) (VERIFIED)
+- [Wikipedia: Holland & Knight](https://en.wikipedia.org/wiki/Holland_%26_Knight) (Tier 3) (VERIFIED)
+- [Kinney Recruiting: Senate Finance Committee Chief International Trade Counsel Nasim Fussell Joins Holland & Knight](https://www.kinneyrecruiting.com/washington/legal-news/senate-finance-committee-chief-international-trade-counsel-nasim-fussell-joins-holland-knight/) (Tier 3) (VERIFIED)
+- [Holland & Knight: TSCA Roundup — Existing Chemical Regulation Under the Second Trump Administration's EPA (May 2025)](https://www.hklaw.com/en/insights/publications/2025/05/tsca-roundup-existing-chemical-regulation-under-the-second) (Tier 3) (VERIFIED)
+- [Holland & Knight: EPA Proposes Major Shift in TSCA PFAS Reporting Policy (November 2025)](https://www.hklaw.com/en/insights/publications/2025/11/epa-proposes-major-shift-in-tsca-pfas-reporting-policy) (Tier 3) (VERIFIED)
+- [Holland & Knight: EPA's Proposed Rule Signals Rollback of Chemical Safety Requirements as Key Questions Remain (March 2026)](https://www.hklaw.com/en/insights/publications/2026/03/epas-proposed-rule-signals-rollback-of-chemical-safety-requirements) (Tier 3) (VERIFIED)
+- [The New Lede: Senate GOP backs speedier chemical reviews; Dems cite health risks — Senate TSCA reform bill, March 4 hearing (March 2026)](https://www.thenewlede.org/2026/03/senate-tsca-toxics-chemical-regulation-law/) (Tier 2) (VERIFIED)
+- [The New Lede: House Republicans move to roll back key protections in US chemical safety law (January 2026)](https://www.thenewlede.org/2026/01/tsca-chemical-regulation-amendment-house-gop/) (Tier 2) (VERIFIED)
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [549300TAKRWOFCAF8R11](https://search.gleif.org/#/record/549300TAKRWOFCAF8R11) |
+| LEI | [549300TAKRWOFCAF8R11](https://search.gleif.org/#/record/549300TAKRWOFCAF8R11) (VERIFIED) |
 | Legal Name | HOLLAND & KNIGHT LLP |
 | Jurisdiction | US-FL |
 | Entity Status | ACTIVE |
@@ -282,7 +282,7 @@ The firm's 318-client roster in 2024 also reveals the breadth of the Donor Map's
 | Registration | ISSUED |
 | Last Updated | 2025-09-29T18:36:56Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Foreign Agent Activity (FARA)
@@ -303,7 +303,7 @@ The firm's 318-client roster in 2024 also reveals the breadth of the Donor Map's
 - Embassy of Japan (JAPAN)
 - Government of Gibraltar (GIBRALTAR)
 
-- [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME,P200_COUNTRY:Holland%20%26%20Knight,) (Tier 1)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME,P200_COUNTRY:Holland%20%26%20Knight,)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:fara-foreign-agents end -->
 
 ### Tax Filings (IRS 990)
@@ -321,14 +321,14 @@ The firm's 318-client roster in 2024 also reveals the breadth of the Donor Map's
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/311472972/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/311472972/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/311472972/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/311472972/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/311472972/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/311472972/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/311472972/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/311472972/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/311472972/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/311472972/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/311472972) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/311472972) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### SEC Filing Activity
@@ -346,7 +346,7 @@ The firm's 318-client roster in 2024 also reveals the breadth of the Donor Map's
 - 2003-02-06 — **EX-5.1**: OPINION OF HOLLAND & KNIGHT LLP
 - 2003-04-17 — **EX-5.1**: OPINION RE LEGALITY
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Holland%20%26%20Knight%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Holland%20%26%20Knight%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Federal Register Activity
@@ -360,10 +360,10 @@ The firm's 318-client roster in 2024 also reveals the breadth of the Donor Map's
 | Agencies | Agricultural Marketing Service, Agriculture Department, Energy Department, Federal Communications Commission, Grain Inspection, Packers and Stockyards Administration |
 
 **Recent regulatory activity:**
-- [Innovative Technologies Loan Guarantee Program; Extension of Comment Period](https://www.federalregister.gov/documents/2022/06/30/2022-13946/innovative-technologies-loan-guarantee-program-extension-of-comment-period) (2022-06-30) — Energy Department
-- [Radio Broadcasting Services; Mt. Juliet and Belle Meade, TN](https://www.federalregister.gov/documents/1997/03/26/97-7708/radio-broadcasting-services-mt-juliet-and-belle-meade-tn) (1997-03-26) — Federal Communications Commission
-- [Radio Broadcasting Services; Georgetown and Garden City, SC](https://www.federalregister.gov/documents/1996/09/30/96-24869/radio-broadcasting-services-georgetown-and-garden-city-sc) (1996-09-30) — Federal Communications Commission
-- [Rules of Practice](https://www.federalregister.gov/documents/1995/02/14/95-3464/rules-of-practice) (1995-02-14) — Agriculture Department
+- [Innovative Technologies Loan Guarantee Program; Extension of Comment Period](https://www.federalregister.gov/documents/2022/06/30/2022-13946/innovative-technologies-loan-guarantee-program-extension-of-comment-period) (VERIFIED) (2022-06-30) — Energy Department
+- ~~[Radio Broadcasting Services; Mt. Juliet and Belle Meade, TN](https://www.federalregister.gov/documents/1997/03/26/97-7708/radio-broadcasting-services-mt-juliet-and-belle-meade-tn)~~ (URL broken, archived by Ops) (1997-03-26) — Federal Communications Commission
+- [Radio Broadcasting Services; Georgetown and Garden City, SC](https://www.federalregister.gov/documents/1996/09/30/96-24869/radio-broadcasting-services-georgetown-and-garden-city-sc) (VERIFIED) (1996-09-30) — Federal Communications Commission
+- [Rules of Practice](https://www.federalregister.gov/documents/1995/02/14/95-3464/rules-of-practice) (VERIFIED) (1995-02-14) — Agriculture Department
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Holland%20%26%20Knight%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Holland%20%26%20Knight%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->

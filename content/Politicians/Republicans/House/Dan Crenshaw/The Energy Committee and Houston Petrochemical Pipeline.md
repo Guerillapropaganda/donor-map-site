@@ -66,16 +66,16 @@ Crenshaw is explicit about the district-donor alignment in ways most members avo
 
 ### Sources
 
-- [FEC Candidate: Dan Crenshaw career industry breakdown](https://www.fec.gov/data/candidate/H8TX02166/) (Tier 1)
-- [FEC Candidate: Dan Crenshaw 2024 cycle industry breakdown](https://www.fec.gov/data/candidate/H8TX02166/) (Tier 1)
-- [FEC Candidate: Dan Crenshaw career top contributors](https://www.fec.gov/data/candidate/H8TX02166/) (Tier 1)
-- [Congress.gov: Dan Crenshaw member profile](https://www.congress.gov/member/dan-crenshaw/C001120) (Tier 1)
-- [Congress.gov: H.R.7176. Unlocking our Domestic LNG Potential Act of 2024](https://www.congress.gov/bill/118th-congress/house-bill/7176) (Tier 1)
-- [Ballotpedia: Dan Crenshaw](https://ballotpedia.org/Dan_Crenshaw) (Tier 3)
-- [Houston Public Media: Houston Ship Channel deemed 'sacrifice zone' by Amnesty International](https://www.houstonpublicmedia.org/articles/news/energy-environment/2024/01/26/475695/houston-ship-channel-deemed-sacrifice-zone-in-new-pollution-report-by-amnesty-international/) (Tier 2)
-- [Texas Standard: New EPA rules could improve air quality along polluted Houston Ship Channel](https://www.texasstandard.org/stories/new-epa-rules-could-improve-air-quality-along-polluted-houston-ship-channel/) (Tier 2)
-- [E&E News: Meet the top House recipients of oil and gas money](https://www.eenews.net/articles/meet-the-top-house-recipients-of-oil-and-gas-money/) (Tier 2)
-- [Western Values Project: Congressman pushing for Big Oil bailouts received hundreds of thousands of Big Oil donations](https://westernvaluesproject.org/congressman-pushing-for-big-oil-bailouts-received-hundreds-of-thousands-of-big-oil-donations/) (Tier 2)
+- [FEC Candidate: Dan Crenshaw career industry breakdown](https://www.fec.gov/data/candidate/H8TX02166/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Dan Crenshaw 2024 cycle industry breakdown](https://www.fec.gov/data/candidate/H8TX02166/) (Tier 1) (VERIFIED)
+- [FEC Candidate: Dan Crenshaw career top contributors](https://www.fec.gov/data/candidate/H8TX02166/) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: Dan Crenshaw member profile](https://www.congress.gov/member/dan-crenshaw/C001120)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: H.R.7176. Unlocking our Domestic LNG Potential Act of 2024](https://www.congress.gov/bill/118th-congress/house-bill/7176)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Ballotpedia: Dan Crenshaw](https://ballotpedia.org/Dan_Crenshaw) (Tier 3) (VERIFIED)
+- [Houston Public Media: Houston Ship Channel deemed 'sacrifice zone' by Amnesty International](https://www.houstonpublicmedia.org/articles/news/energy-environment/2024/01/26/475695/houston-ship-channel-deemed-sacrifice-zone-in-new-pollution-report-by-amnesty-international/) (Tier 2) (VERIFIED)
+- [Texas Standard: New EPA rules could improve air quality along polluted Houston Ship Channel](https://www.texasstandard.org/stories/new-epa-rules-could-improve-air-quality-along-polluted-houston-ship-channel/) (Tier 2) (VERIFIED)
+- [E&E News: Meet the top House recipients of oil and gas money](https://www.eenews.net/articles/meet-the-top-house-recipients-of-oil-and-gas-money/) (Tier 2) (VERIFIED)
+- [Western Values Project: Congressman pushing for Big Oil bailouts received hundreds of thousands of Big Oil donations](https://westernvaluesproject.org/congressman-pushing-for-big-oil-bailouts-received-hundreds-of-thousands-of-big-oil-donations/) (Tier 2) (VERIFIED)
 
 ---
 

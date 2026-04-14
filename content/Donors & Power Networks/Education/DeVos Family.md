@@ -258,5 +258,5 @@ The DeVos family represents the clearest case in the vault of a donor openly ack
 - United States v. Elizabeth Holmes (2022) — Court of Appeals for the Ninth Circuit
 - v. In Re Subpoena (2022) — District Court, D. Montana
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22DeVos%20Family%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22DeVos%20Family%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->

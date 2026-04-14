@@ -49,10 +49,10 @@ WSPA's primary political function is fighting California's climate regulations: 
 
 ### Sources
 
-- [Cal-Access: WSPA lobbying filings](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx) (Tier 1)
-- [FPPC: WSPA political expenditures](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1)
-- [Senate LDA Filings: Petroleum industry lobbying](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Ballotpedia: California oil industry politics](https://ballotpedia.org/WSPA_-_Western_States_Petroleum_Association) (Tier 3)
+- [Cal-Access: WSPA lobbying filings](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx) (Tier 1) (VERIFIED)
+- [FPPC: WSPA political expenditures](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: Petroleum industry lobbying](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Ballotpedia: California oil industry politics](https://ballotpedia.org/WSPA_-_Western_States_Petroleum_Association) (Tier 3) (VERIFIED)
 
 ### Federal Subawards & Spending Breakdown
 <!-- auto:usaspending-subawards start -->
@@ -77,7 +77,7 @@ WSPA's primary political function is fighting California's climate regulations: 
 |------------------|--------|--------|
 | Unknown | $51.9B | 6 |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Tax Filings (IRS 990)
@@ -94,12 +94,12 @@ WSPA's primary political function is fighting California's climate regulations: 
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/950596680/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/950596680/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/950596680/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/950596680/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/950596680/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/950596680/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/950596680/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/950596680/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/950596680/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/950596680/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/950596680) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/950596680) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->

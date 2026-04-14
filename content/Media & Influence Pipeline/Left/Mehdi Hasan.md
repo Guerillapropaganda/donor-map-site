@@ -27,7 +27,7 @@ Hasan built his reputation on aggressive interview techniques, confrontational q
 
 No FEC individual contributions found. The FEC API returns 0 results for "HASAN, MEHDI", zero federal political contributions from the Zeteo founder and former MSNBC host. Hasan became a U.S. citizen in 2020, making him eligible for federal contributions for the past 6 years. The $0 record is consistent with his British journalist background and his post-MSNBC audience-funded model. Hasan's political influence operates through editorial content, not campaign donations.
 
-- [FEC: Mehdi Hasan individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=HASAN%2C+MEHDI) (Tier 1)
+- [FEC: Mehdi Hasan individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=HASAN%2C+MEHDI) (Tier 1) (VERIFIED)
 
 > [!money]
 > Zero FEC contributions from a journalist who built a $3.9M/year independent media company specifically because corporate media wouldn't platform his political coverage. Hasan's $0 FEC record mirrors the pattern seen in [[Rachel Maddow]] ($100 total), [[John Oliver]] ($0), and [[Ezra Klein]] ($0), high-influence media figures who shape political discourse through editorial decisions, not personal donations. The difference: Hasan's editorial positions got him fired from corporate media, while Maddow, Oliver, and Klein remained within institutional structures.
@@ -119,14 +119,14 @@ The class analysis question for Hasan is whether subscription-funded progressive
 
 ### Sources
 
-- [New York Magazine: Mehdi Hasan Wants to Debate You](https://nymag.com/intelligencer/article/mehdi-hasan-zeteo-msnbc-palestine.html) (Tier 2) (Chrome verified 2026-03-26)
-- [Wikipedia: Mehdi Hasan](https://en.wikipedia.org/wiki/Mehdi_Hasan) (Tier 3) (Chrome verified 2026-03-26)
-- [Wikipedia: Zeteo](https://en.wikipedia.org/wiki/Zeteo) (Tier 3) (Chrome verified 2026-03-26)
+- [New York Magazine: Mehdi Hasan Wants to Debate You](https://nymag.com/intelligencer/article/mehdi-hasan-zeteo-msnbc-palestine.html) (Tier 2) (VERIFIED) (Chrome verified 2026-03-26)
+- [Wikipedia: Mehdi Hasan](https://en.wikipedia.org/wiki/Mehdi_Hasan) (Tier 3) (VERIFIED) (Chrome verified 2026-03-26)
+- [Wikipedia: Zeteo](https://en.wikipedia.org/wiki/Zeteo) (Tier 3) (VERIFIED) (Chrome verified 2026-03-26)
 - [FEC: Mehdi Hasan individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=HASAN%2C+MEHDI) (Tier 1)
-- [Washington Post: Mehdi Hasan launches his own media company after leaving MSNBC](https://www.washingtonpost.com/style/media/2024/02/28/mehdi-hasan-new-site-zeteo-msnbc/) (Tier 2) (Chrome verified 2026-03-26)
-- [Truthout: MSNBC Drops Mehdi Hasan's Show as He Speaks Out for Palestinian Rights](https://truthout.org/articles/msnbc-drops-mehdi-hasans-show-as-he-speaks-out-for-palestinian-rights/) (Tier 3) (Chrome verified 2026-03-26)
-- [The Nation: American Discourse Needs More Mehdi Hasan, Not Less](https://www.thenation.com/article/society/medhi-hasan-msnbc-canceled-backlash/) (Tier 3) (Chrome verified 2026-03-26)
-- [Prospect Magazine: Mehdi Hasan. The biggest victims of cancel culture are pro-Palestinian](https://www.prospectmagazine.co.uk/views/people/69522/mehdi-hasan-victims-cancel-culture-pro-palestinian) (Tier 3) (Chrome verified 2026-03-26)
+- [Washington Post: Mehdi Hasan launches his own media company after leaving MSNBC](https://www.washingtonpost.com/style/media/2024/02/28/mehdi-hasan-new-site-zeteo-msnbc/) (Tier 2) (VERIFIED) (Chrome verified 2026-03-26)
+- [Truthout: MSNBC Drops Mehdi Hasan's Show as He Speaks Out for Palestinian Rights](https://truthout.org/articles/msnbc-drops-mehdi-hasans-show-as-he-speaks-out-for-palestinian-rights/) (Tier 3) (VERIFIED) (Chrome verified 2026-03-26)
+- [The Nation: American Discourse Needs More Mehdi Hasan, Not Less](https://www.thenation.com/article/society/medhi-hasan-msnbc-canceled-backlash/) (Tier 3) (VERIFIED) (Chrome verified 2026-03-26)
+- [Prospect Magazine: Mehdi Hasan. The biggest victims of cancel culture are pro-Palestinian](https://www.prospectmagazine.co.uk/views/people/69522/mehdi-hasan-victims-cancel-culture-pro-palestinian) (Tier 3) (VERIFIED) (Chrome verified 2026-03-26)
 
 > **Technical note:** The FEC API link returns raw JSON from the FEC government database. Mehdi Hasan shows zero federal political contributions, a $0 FEC record from a naturalized citizen (2020) who built a $3.9M/year independent media company. The absence is analytically consistent: Hasan's influence operates through editorial content and audience relationships, not campaign donations.
 

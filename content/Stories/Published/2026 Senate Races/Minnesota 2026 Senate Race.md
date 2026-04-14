@@ -42,8 +42,8 @@ Minnesota's 2026 Senate seat is an open seat, incumbent Democrat Tina Smith is r
 - Fundraising strategy: No corporate PACs. Small-dollar donor model, average donation $29, 98% under $100.
 - Largest donors: Native American tribes across the country contributing in the $5K–$25K range.
 - Grassroots-first positioning: emphasizing tribal sovereignty and indigenous representation.
-- [Source: Minnesota Reformer Q3 fundraising analysis](https://minnesotareformer.com/briefs/craig-more-than-doubles-flanagans-q3-fundraising/) (Tier 2)
-- [Source: Center Square: Flanagan leads polling, Craig tops fundraising](https://www.thecentersquare.com/minnesota/article_5db19f2b-cdc8-467e-b890-430aef0b9846.html) (Tier 2)
+- [Source: Minnesota Reformer Q3 fundraising analysis](https://minnesotareformer.com/briefs/craig-more-than-doubles-flanagans-q3-fundraising/) (Tier 2) (VERIFIED)
+- [Source: Center Square: Flanagan leads polling, Craig tops fundraising](https://www.thecentersquare.com/minnesota/article_5db19f2b-cdc8-467e-b890-430aef0b9846.html) (Tier 2) (VERIFIED)
 
 ### Craig's Fundraising Model:
 - Cash on hand: $3.8M (as of latest FEC filing, 4.7x Flanagan)
@@ -51,7 +51,7 @@ Minnesota's 2026 Senate seat is an open seat, incumbent Democrat Tina Smith is r
 - Majority Fund PAC: $100K+ from this centrist Democratic PAC (affiliated with Majority Democrats, centrist caucus).
 - Small-dollar base: 92% of donations under $100, but concentrated fundraising from bundlers.
 - No single donor or PAC (except Majority Fund) has contributed more than $14K.
-- [Source: Center Square: Craig, Flanagan fundraising analysis](https://www.thecentersquare.com/minnesota/article_5db19f2b-cdc8-467e-b890-430aef0b9846.html) (Tier 2)
+- [Source: Center Square: Craig, Flanagan fundraising analysis](https://www.thecentersquare.com/minnesota/article_5db19f2b-cdc8-467e-b890-430aef0b9846.html) (Tier 2) (VERIFIED)
 
 ### Money Flow Interpretation:
 Craig is outpacing Flanagan 4.7-to-1 in cash reserves despite trailing 13 points in polling. The Majority Fund connection signals establishment Democratic support despite Flanagan's progressive endorsements (Warren, Haaland). The race exposes a class analysis tension: Flanagan's grassroots/tribal model vs. Craig's institutional/bundler model. Craig's House campaign transfer and PAC money represent establishment infrastructure; Flanagan's tribe donations represent genuine base-building outside the donor class.
@@ -87,14 +87,14 @@ Craig is outpacing Flanagan 4.7-to-1 in cash reserves despite trailing 13 points
 
 ### Sources
 
-- [Wikipedia: 2026 United States Senate election in Minnesota](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Minnesota) (Tier 3)
-- [19th News: Who is running for Minnesota Senate in 2026?](https://19thnews.org/2025/07/minnesota-senate-primary-2026/) (Tier 2)
-- [The Hill: Tina Smith won't seek reelection](https://thehill.com/homenews/campaign/5143053-tina-smith-not-seeking-reelection/) (Tier 2)
-- [Ballotpedia: 2026 Minnesota Senate election](https://ballotpedia.org/United_States_Senate_election_in_Minnesota,_2026) (Tier 3)
-- [MPR News: Tina Smith will not run for reelection](https://www.mprnews.org/story/2025/02/13/tina-smith-will-not-run-for-reelection-in-senate-in-2026) (Tier 2)
-- [Center Square: Flanagan leads polling, Craig tops fundraising](https://www.thecentersquare.com/minnesota/article_5db19f2b-cdc8-467e-b890-430aef0b9846.html) (Tier 2)
-- [Minnesota Reformer: Craig more than doubles Flanagan's Q3 fundraising](https://minnesotareformer.com/briefs/craig-more-than-doubles-flanagans-q3-fundraising/) (Tier 2)
-- [Fifty Plus One: Peggy Flanagan beating the odds](https://blog.fiftyplusone.news/p/in-minnesotas-us-senate-race-peggy-flanagan-beating-odds-cooper-burton) (Tier 2)
+- [Wikipedia: 2026 United States Senate election in Minnesota](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Minnesota) (Tier 3) (VERIFIED)
+- [19th News: Who is running for Minnesota Senate in 2026?](https://19thnews.org/2025/07/minnesota-senate-primary-2026/) (Tier 2) (VERIFIED)
+- ~~[The Hill: Tina Smith won't seek reelection](https://thehill.com/homenews/campaign/5143053-tina-smith-not-seeking-reelection/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Ballotpedia: 2026 Minnesota Senate election](https://ballotpedia.org/United_States_Senate_election_in_Minnesota,_2026) (Tier 3) (VERIFIED)
+- [MPR News: Tina Smith will not run for reelection](https://www.mprnews.org/story/2025/02/13/tina-smith-will-not-run-for-reelection-in-senate-in-2026) (Tier 2) (VERIFIED)
+- [Center Square: Flanagan leads polling, Craig tops fundraising](https://www.thecentersquare.com/minnesota/article_5db19f2b-cdc8-467e-b890-430aef0b9846.html) (Tier 2) (VERIFIED)
+- [Minnesota Reformer: Craig more than doubles Flanagan's Q3 fundraising](https://minnesotareformer.com/briefs/craig-more-than-doubles-flanagans-q3-fundraising/) (Tier 2) (VERIFIED)
+- [Fifty Plus One: Peggy Flanagan beating the odds](https://blog.fiftyplusone.news/p/in-minnesotas-us-senate-race-peggy-flanagan-beating-odds-cooper-burton) (Tier 2) (VERIFIED)
 
 ---
 

@@ -241,21 +241,21 @@ Invariant's Palantir portfolio crystallizes this. As progressive constituents de
 
 ### Sources
 
-- [Senate LDA Filings: Invariant LLC Lobbying Profile 2024](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA Filings: Invariant LLC Lobbying Profile 2025](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA Filings: Invariant LLC Lobbyists 2024 — Revolving Door data](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [OpenSecrets: Paul Arcangeli Revolving Door Profile](https://www.opensecrets.org/revolving-door/summary?id=84071) (Tier 1)
-- [OpenSecrets: Revolving Door Lobbyists Help Defense Contractors in 2023](https://www.opensecrets.org/news/2023/05/revolving-door-lobbyists-help-defense-contractors-get-off-to-strong-start-in-2023/) (Tier 1)
-- [Sludge: DCCC Rakes in Millions From Palantir Lobbyists as Protests Target ICE Surveillance Tools](https://readsludge.com/2026/02/25/dccc-rakes-in-millions-from-palantir-lobbyists-as-protests-target-the-companys-ice-surveillance-tools/) (Tier 2)
-- [Sludge: Dems Double Down on Fundraising From SpaceX and Palantir Lobbyists](https://readsludge.com/2025/03/20/dems-double-down-on-fundraising-from-spacex-and-palantir-lobbyists/) (Tier 2)
-- [Sludge: Democrats Criticizing ICE Are Paying Consultants Tied to Palantir](https://readsludge.com/2026/03/12/democrats-criticizing-ice-are-paying-consultants-tied-to-palantir/) (Tier 2)
-- [CNBC: Former Advisor to VP Kamala Harris Joins Heather Podesta's Lobbying Firm](https://www.cnbc.com/2022/06/14/former-advisor-to-vice-president-kamala-harris-joins-heather-podestas-lobbying-firm.html) (Tier 2)
-- [The Hill: Lobby Firm Heather Podesta + Partners Rebrands](https://thehill.com/business-a-lobbying/business-a-lobbying/326279-lobby-firm-heather-podesta-partners-rebrands/) (Tier 3)
-- [Wikipedia: Heather Podesta](https://en.wikipedia.org/wiki/Heather_Podesta) (Tier 3)
-- [Fortune: ICE alleged to use Palantir-developed tool that uses Medicaid data to track arrest targets (January 26, 2026)](https://fortune.com/2026/01/26/ice-allegedly-uses-palantir-tool-tracking-medicaid-data/) (Tier 2)
-- [Immigration Policy Tracking Project: Palantir granted $30 million to build ImmigrationOS surveillance platform for ICE](https://immpolicytracking.org/policies/reported-palantir-awarded-30-million-to-build-immigrationos-surveillance-platform-for-ice/) (Tier 2)
-- [NOTUS: Palantir Hires Two New Lobbyists With Democratic Party Ties (2026)](https://www.notus.org/money/palantir-lobbyists-government-contracts-ice-defense) (Tier 2)
-- [O'Dwyer's: Palantir Technologies Adds Ferox to Line-Up (March 24, 2026)](https://www.odwyerpr.com/story/public/24508/2026-03-24/palantir-technologies-adds-ferox-line-up.html) (Tier 3)
+- [Senate LDA Filings: Invariant LLC Lobbying Profile 2024](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: Invariant LLC Lobbying Profile 2025](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: Invariant LLC Lobbyists 2024 — Revolving Door data](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [OpenSecrets: Paul Arcangeli Revolving Door Profile](https://www.opensecrets.org/revolving-door/summary?id=84071) (Tier 1) (VERIFIED)
+- [OpenSecrets: Revolving Door Lobbyists Help Defense Contractors in 2023](https://www.opensecrets.org/news/2023/05/revolving-door-lobbyists-help-defense-contractors-get-off-to-strong-start-in-2023/) (Tier 1) (VERIFIED)
+- [Sludge: DCCC Rakes in Millions From Palantir Lobbyists as Protests Target ICE Surveillance Tools](https://readsludge.com/2026/02/25/dccc-rakes-in-millions-from-palantir-lobbyists-as-protests-target-the-companys-ice-surveillance-tools/) (Tier 2) (VERIFIED)
+- [Sludge: Dems Double Down on Fundraising From SpaceX and Palantir Lobbyists](https://readsludge.com/2025/03/20/dems-double-down-on-fundraising-from-spacex-and-palantir-lobbyists/) (Tier 2) (VERIFIED)
+- [Sludge: Democrats Criticizing ICE Are Paying Consultants Tied to Palantir](https://readsludge.com/2026/03/12/democrats-criticizing-ice-are-paying-consultants-tied-to-palantir/) (Tier 2) (VERIFIED)
+- [CNBC: Former Advisor to VP Kamala Harris Joins Heather Podesta's Lobbying Firm](https://www.cnbc.com/2022/06/14/former-advisor-to-vice-president-kamala-harris-joins-heather-podestas-lobbying-firm.html) (Tier 2) (VERIFIED)
+- ~~[The Hill: Lobby Firm Heather Podesta + Partners Rebrands](https://thehill.com/business-a-lobbying/business-a-lobbying/326279-lobby-firm-heather-podesta-partners-rebrands/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [Wikipedia: Heather Podesta](https://en.wikipedia.org/wiki/Heather_Podesta) (Tier 3) (VERIFIED)
+- [Fortune: ICE alleged to use Palantir-developed tool that uses Medicaid data to track arrest targets (January 26, 2026)](https://fortune.com/2026/01/26/ice-allegedly-uses-palantir-tool-tracking-medicaid-data/) (Tier 2) (VERIFIED)
+- [Immigration Policy Tracking Project: Palantir granted $30 million to build ImmigrationOS surveillance platform for ICE](https://immpolicytracking.org/policies/reported-palantir-awarded-30-million-to-build-immigrationos-surveillance-platform-for-ice/) (Tier 2) (VERIFIED)
+- [NOTUS: Palantir Hires Two New Lobbyists With Democratic Party Ties (2026)](https://www.notus.org/money/palantir-lobbyists-government-contracts-ice-defense) (Tier 2) (VERIFIED)
+- [O'Dwyer's: Palantir Technologies Adds Ferox to Line-Up (March 24, 2026)](https://www.odwyerpr.com/story/public/24508/2026-03-24/palantir-technologies-adds-ferox-line-up.html) (Tier 3) (VERIFIED)
 
 ---
 
@@ -275,7 +275,7 @@ Invariant's Palantir portfolio crystallizes this. As progressive constituents de
 - United States v. State of California (2026) — District Court, E.D. California
 - Uyte v. Mammoth Hockey (2025) — Court of Appeals for the Tenth Circuit
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Invariant%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Invariant%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Register Activity
@@ -289,15 +289,15 @@ Invariant's Palantir portfolio crystallizes this. As progressive constituents de
 | Agencies | Agricultural Marketing Service, Agriculture Department, Antitrust Division, Census Bureau, Commerce Department, Copyright Royalty Board, Federal Communications Commission, Federal Housing Finance Agency +6 more |
 
 **Recent regulatory activity:**
-- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Defense Industrial Based Consortium](https://www.federalregister.gov/documents/2025/01/24/2025-01712/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-defense-industrial) (2025-01-24) — Justice Department
-- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Defense Industrial Based Consortium](https://www.federalregister.gov/documents/2024/09/16/2024-20965/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-defense-industrial) (2024-09-16) — Justice Department
-- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Expeditionary Missions Consortium-Crane](https://www.federalregister.gov/documents/2024/09/12/2024-20744/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-expeditionary) (2024-09-12) — Justice Department
-- [Heat Injury and Illness Prevention in Outdoor and Indoor Work Settings](https://www.federalregister.gov/documents/2024/08/30/2024-14824/heat-injury-and-illness-prevention-in-outdoor-and-indoor-work-settings) (2024-08-30) — Labor Department
-- [Distribution of Cable Royalty Funds](https://www.federalregister.gov/documents/2024/06/28/2024-13597/distribution-of-cable-royalty-funds) (2024-06-28) — Library of Congress
-- [Transparency in Poultry Grower Contracting and Tournaments](https://www.federalregister.gov/documents/2023/11/28/2023-24922/transparency-in-poultry-grower-contracting-and-tournaments) (2023-11-28) — Agriculture Department ★
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Defense Industrial Based Consortium](https://www.federalregister.gov/documents/2025/01/24/2025-01712/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-defense-industrial) (VERIFIED) (2025-01-24) — Justice Department
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Defense Industrial Based Consortium](https://www.federalregister.gov/documents/2024/09/16/2024-20965/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-defense-industrial) (VERIFIED) (2024-09-16) — Justice Department
+- ~~[Notice Pursuant to the National Cooperative Research and Production Act of 1993-Expeditionary Missions Consortium-Crane](https://www.federalregister.gov/documents/2024/09/12/2024-20744/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-expeditionary)~~ (URL broken, archived by Ops) (2024-09-12) — Justice Department
+- [Heat Injury and Illness Prevention in Outdoor and Indoor Work Settings](https://www.federalregister.gov/documents/2024/08/30/2024-14824/heat-injury-and-illness-prevention-in-outdoor-and-indoor-work-settings) (VERIFIED) (2024-08-30) — Labor Department
+- [Distribution of Cable Royalty Funds](https://www.federalregister.gov/documents/2024/06/28/2024-13597/distribution-of-cable-royalty-funds) (VERIFIED) (2024-06-28) — Library of Congress
+- [Transparency in Poultry Grower Contracting and Tournaments](https://www.federalregister.gov/documents/2023/11/28/2023-24922/transparency-in-poultry-grower-contracting-and-tournaments) (VERIFIED) (2023-11-28) — Agriculture Department ★
 - ... and 82 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Invariant%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Invariant%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### SEC Filing Activity
@@ -315,5 +315,5 @@ Invariant's Palantir portfolio crystallizes this. As progressive constituents de
 - 2023-03-30 — **EX-99.1**: EX-99.1
 - 2019-05-22 — **D/A**: D/A
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Invariant%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Invariant%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->

@@ -211,25 +211,25 @@ The structural trap is visible: Tlaib's small-dollar model proves the alternativ
 - H.R. 7854: Medicines for the People Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 5, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 - H.R. 7637: Head Start for America’s Children Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 20, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/rashida_tlaib/412787) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/rashida_tlaib/412787) (Tier 1) (VERIFIED)
 
 <!-- auto:govtrack end -->
 
 ## Sources
 
-- [FEC Candidate: Rashida Tlaib campaign finance summary](https://www.fec.gov/data/candidate/H8MI13250/) (Tier 1)
-- [FEC: Rashida Tlaib committee filings](https://www.fec.gov/data/candidate/H8MI13250/) (Tier 1)
-- [Congress.gov: Rashida Tlaib member profile](https://www.congress.gov/member/rashida-tlaib/T000481) (Tier 1)
-- [NPR: House votes to censure Rep. Rashida Tlaib](https://www.npr.org/2023/11/07/1211315549/tlaib-censure-house-israel-gaza) (Tier 2)
-- [Detroit News: Tlaib raises $3.7M after censure](https://www.detroitnews.com/story/news/politics/2024/02/01/tlaib-raises-3-7m-for-reelection-after-censure-by-house/72430690007/) (Tier 2)
-- [CBS News: Hill Harper offered $20M to challenge Tlaib](https://www.cbsnews.com/detroit/news/hill-harper-said-he-was-offered-20-million-to-mount-a-primary-challenge-against-rep-rashida-tlaib/) (Tier 2)
-- [Newsweek: Democrat confirms $20M offer to challenge Tlaib](https://www.newsweek.com/democrat-confirms-offer-challenge-rashida-tlaib-1846257) (Tier 2)
-- [House Oversight Democrats: Marathon Petroleum investigation](https://oversightdemocrats.house.gov/news/press-releases/environment-subcommittee-chair-and-vice-chair-request-investigation-into) (Tier 1)
-- [DeSmog: Congress investigates Marathon and Koch network](https://www.desmog.com/2020/05/29/congress-investigation-marathon-koch-oil-clean-car-rollbacks/) (Tier 2)
-- [JTA: J Street withdraws endorsement of Tlaib](https://www.jta.org/2018/08/17/politics/j-street-withdraws-endorsement-rashida-tlaib-palestinian-american-candidate-supports-one-state-solution) (Tier 3)
-- [Jacobin: Tlaib pro-Palestine fundraising](https://jacobin.com/2024/02/rashida-tlaib-pro-palestine-fundraising) (Tier 3)
-- [Ballotpedia: Rashida Tlaib](https://ballotpedia.org/Rashida_Tlaib) (Tier 3)
-- [DSA: Condemn censure of Tlaib](https://www.dsausa.org/statements/democratic-socialists-of-america-condemn-the-censure-of-congresswoman-rashida-tlaib/) (Tier 4)
+- [FEC Candidate: Rashida Tlaib campaign finance summary](https://www.fec.gov/data/candidate/H8MI13250/) (Tier 1) (VERIFIED)
+- [FEC: Rashida Tlaib committee filings](https://www.fec.gov/data/candidate/H8MI13250/) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: Rashida Tlaib member profile](https://www.congress.gov/member/rashida-tlaib/T000481)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [NPR: House votes to censure Rep. Rashida Tlaib](https://www.npr.org/2023/11/07/1211315549/tlaib-censure-house-israel-gaza) (Tier 2) (VERIFIED)
+- [Detroit News: Tlaib raises $3.7M after censure](https://www.detroitnews.com/story/news/politics/2024/02/01/tlaib-raises-3-7m-for-reelection-after-censure-by-house/72430690007/) (Tier 2) (VERIFIED)
+- [CBS News: Hill Harper offered $20M to challenge Tlaib](https://www.cbsnews.com/detroit/news/hill-harper-said-he-was-offered-20-million-to-mount-a-primary-challenge-against-rep-rashida-tlaib/) (Tier 2) (VERIFIED)
+- [Newsweek: Democrat confirms $20M offer to challenge Tlaib](https://www.newsweek.com/democrat-confirms-offer-challenge-rashida-tlaib-1846257) (Tier 2) (VERIFIED)
+- [House Oversight Democrats: Marathon Petroleum investigation](https://oversightdemocrats.house.gov/news/press-releases/environment-subcommittee-chair-and-vice-chair-request-investigation-into) (Tier 1) (VERIFIED)
+- [DeSmog: Congress investigates Marathon and Koch network](https://www.desmog.com/2020/05/29/congress-investigation-marathon-koch-oil-clean-car-rollbacks/) (Tier 2) (NEEDS REVIEW)
+- [JTA: J Street withdraws endorsement of Tlaib](https://www.jta.org/2018/08/17/politics/j-street-withdraws-endorsement-rashida-tlaib-palestinian-american-candidate-supports-one-state-solution) (Tier 3) (VERIFIED)
+- [Jacobin: Tlaib pro-Palestine fundraising](https://jacobin.com/2024/02/rashida-tlaib-pro-palestine-fundraising) (Tier 3) (VERIFIED)
+- [Ballotpedia: Rashida Tlaib](https://ballotpedia.org/Rashida_Tlaib) (Tier 3) (VERIFIED)
+- [DSA: Condemn censure of Tlaib](https://www.dsausa.org/statements/democratic-socialists-of-america-condemn-the-censure-of-congresswoman-rashida-tlaib/) (Tier 4) (VERIFIED)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -263,7 +263,7 @@ The structural trap is visible: Tlaib's small-dollar model proves the alternativ
 | MOVEON.ORG POLITICAL ACTION | $89,795 | $0 |
 | FRIENDS OF THE EARTH (ACTION) INC | $40,939 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8MI13250/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8MI13250/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Voting Record
@@ -290,7 +290,7 @@ The structural trap is visible: Tlaib's small-dollar model proves the alternativ
 
 **Sources**
 
-- [GovTrack: Rashida Tlaib](https://www.govtrack.us/congress/members/412787) (Tier 1)
+- [GovTrack: Rashida Tlaib](https://www.govtrack.us/congress/members/412787) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-13 -->
@@ -317,7 +317,7 @@ The structural trap is visible: Tlaib's small-dollar model proves the alternativ
 
 **Sources**
 
-- [Congress.gov: Rashida Tlaib](https://www.congress.gov/member/e000179) (Tier 1)
+- ~~[Congress.gov: Rashida Tlaib](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [GovTrack: Rashida Tlaib](https://www.govtrack.us/congress/members/412787) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->
@@ -348,7 +348,7 @@ The structural trap is visible: Tlaib's small-dollar model proves the alternativ
 | 1028 | Expressing the sense of the House of Representatives that the United States must… | Referred to the Committee on the Judiciary, and in addition to the Committees on House Administration, Ways and Means, Education and Workforce, Energy and Commerce, Financial Services, and Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
 | 7125 | Stop Body Camera Paywalls Act | Referred to the House Committee on the Judiciary. |
 
-- [Source: Congress.gov](https://www.congress.gov/member/T000481) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/T000481)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Committee Assignments (Congress.gov)
@@ -363,7 +363,7 @@ The structural trap is visible: Tlaib's small-dollar model proves the alternativ
 - Housing and Insurance
 - Oversight and Investigations
 
-- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 ### Campaign Finance Summary (FEC)
@@ -397,13 +397,13 @@ Rashida Harbi Tlaib is an American lawyer and politician serving as a U.S. repre
 
 | Fact | Value |
 |------|-------|
-| Wikidata ID | [Q7294939](https://www.wikidata.org/wiki/Q7294939) |
+| Wikidata ID | [Q7294939](https://www.wikidata.org/wiki/Q7294939) (VERIFIED) |
 | Description | American politician and lawyer (born 1976) |
 | Born | 1976-07-24 |
-| Website | [https://tlaib.house.gov/](https://tlaib.house.gov/) |
-| X/Twitter | [@RashidaTlaib](https://x.com/RashidaTlaib) |
-| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Rashida_Tlaib%2C_official_portrait%2C_116th_Congress.jpg?width=300) |
+| Website | [https://tlaib.house.gov/](https://tlaib.house.gov/) (VERIFIED) |
+| X/Twitter | [@RashidaTlaib](https://x.com/RashidaTlaib) (VERIFIED) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Rashida_Tlaib%2C_official_portrait%2C_116th_Congress.jpg?width=300) (NEEDS REVIEW) |
 
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/Rashida_Tlaib) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q7294939) (Tier 2)
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Rashida_Tlaib) (Tier 3) (VERIFIED)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q7294939) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->

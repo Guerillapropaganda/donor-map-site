@@ -38,7 +38,7 @@ Mast is one of AIPAC's most reliable allies in the House. He volunteered with th
 
 ### Sources
 
-- [Congress.gov: Brian Mast member profile](https://www.congress.gov/member/brian-mast/M001199) (Tier 1)
-- [FEC Candidate: Brian Mast campaign finance summary](https://www.fec.gov/data/candidate/H6FL18097/) (Tier 1)
-- [Ballotpedia: Brian Mast](https://ballotpedia.org/Brian_Mast) (Tier 3)
+- ~~[Congress.gov: Brian Mast member profile](https://www.congress.gov/member/brian-mast/M001199)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [FEC Candidate: Brian Mast campaign finance summary](https://www.fec.gov/data/candidate/H6FL18097/) (Tier 1) (VERIFIED)
+- [Ballotpedia: Brian Mast](https://ballotpedia.org/Brian_Mast) (Tier 3) (VERIFIED)
 

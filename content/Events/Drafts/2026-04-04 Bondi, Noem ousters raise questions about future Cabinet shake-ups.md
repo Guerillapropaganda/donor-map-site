@@ -15,7 +15,7 @@ profiles:
 
 ## Bondi, Noem ousters raise questions about future Cabinet shake-ups
 
-**Source:** [The Hill](https://thehill.com/homenews/administration/5815712-bondi-noem-cabinet-shakeups/)
+**Source:** ~~[The Hill](https://thehill.com/homenews/administration/5815712-bondi-noem-cabinet-shakeups/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-04
 
 President Trump’s move to oust Attorney General Pam Bondi from her post just weeks after replacing former Homeland Security Secretary Kristi Noem is raising questions about whether more staff shakeups are on the horizon. Unlike his first administration, Trump’s second stint in the White House has not been defined by a revolving door of high-level…

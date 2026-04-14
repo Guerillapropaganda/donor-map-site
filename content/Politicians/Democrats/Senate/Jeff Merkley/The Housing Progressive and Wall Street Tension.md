@@ -38,8 +38,8 @@ Merkley has authored legislation to restrict corporate homebuying (Stop Wall Str
 
 ### Sources
 
-- [Congress.gov: Jeff Merkley member profile](https://www.congress.gov/member/jeff-merkley/M001176) (Tier 1)
-- [FEC Candidate: Jeff Merkley campaign finance summary](https://www.fec.gov/data/candidate/S8OR00207/) (Tier 1)
-- [Congress.gov: Stop Wall Street Landlords Act](https://www.congress.gov/bill/118th-congress/senate-bill/2224) (Tier 1)
-- [Ballotpedia: Jeff Merkley](https://ballotpedia.org/Jeff_Merkley) (Tier 3)
+- [Congress.gov: Jeff Merkley member profile](https://www.congress.gov/member/jeff-merkley/M001176) (Tier 1) (VERIFIED)
+- [FEC Candidate: Jeff Merkley campaign finance summary](https://www.fec.gov/data/candidate/S8OR00207/) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: Stop Wall Street Landlords Act](https://www.congress.gov/bill/118th-congress/senate-bill/2224)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Ballotpedia: Jeff Merkley](https://ballotpedia.org/Jeff_Merkley) (Tier 3) (VERIFIED)
 

@@ -163,19 +163,19 @@ The pharmaceutical industry adds a third extraction point: $205,000 in career co
 
 ## Sources
 
-- [OpenSecrets: Deb Fischer donor profile](https://www.opensecrets.org/members-of-congress/summary?cid=N00033443) (Tier 1)
-- [FEC Candidate: Deb Fischer industry donors](https://www.fec.gov/data/candidate/S2NE00094/) (Tier 1)
-- [OpenSecrets: Deb Fischer personal finances](https://www.opensecrets.org/personal-finances/deb-fischer/net-worth?cid=N00033443) (Tier 1)
-- [Senate.gov: Fischer biography](https://www.fischer.senate.gov/public/index.cfm/biography) (Tier 1)
-- [Senate.gov: Fischer Strategic Forces Subcommittee appointments](https://www.fischer.senate.gov/public/index.cfm/2025/1/fischer-announces-appointment-to-key-senate-armed-services-subcommittees) (Tier 1)
-- [Senate.gov: Fischer FY2026 NDAA nuclear deterrence provisions](https://www.fischer.senate.gov/public/index.cfm/news?ID=EBE1A750-DDB9-4729-9C72-E1C8B6001AB2) (Tier 1)
-- [American Prospect: How Deb Fischer Delivered for Big Ag](https://prospect.org/2024/10/30/2024-10-30-how-deb-fischer-delivered-for-big-ag/) (Tier 2)
-- [Nebraska Independent: Fischer's Senate record — putting corporate donors over Nebraskans](https://nebraskaindependentnews.com/politics/deb-fischers-senate-2024-election-dan-osborn-campaign-donations/) (Tier 2)
-- [Nebraska Independent: Fischer accepts pharma cash while opposing lower drug prices](https://nebraskaindependentnews.com/politics/deb-fischer-senate-election-2024-dan-osborn-pharma-campaign-money-drug-prices/) (Tier 2)
-- [American Journal News: Major donor to Fischer linked to downfall of Nebraska town](https://americanjournalnews.com/major-donor-to-sen-deb-fischer-linked-to-the-downfall-of-a-nebraska-town/) (Tier 2)
-- [SpaceNews: Fischer regains Strategic Forces Subcommittee leadership](https://spacenews.com/fischer-regains-leadership-of-senate-strategic-forces-subcommittee/) (Tier 2)
-- [Ballotpedia: Deb Fischer](https://ballotpedia.org/Deb_Fischer) (Tier 3)
-- [Wikipedia: Deb Fischer](https://en.wikipedia.org/wiki/Deb_Fischer) (Tier 3)
+- [OpenSecrets: Deb Fischer donor profile](https://www.opensecrets.org/members-of-congress/summary?cid=N00033443) (Tier 1) (VERIFIED)
+- [FEC Candidate: Deb Fischer industry donors](https://www.fec.gov/data/candidate/S2NE00094/) (Tier 1) (VERIFIED)
+- ~~[OpenSecrets: Deb Fischer personal finances](https://www.opensecrets.org/personal-finances/deb-fischer/net-worth?cid=N00033443)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Senate.gov: Fischer biography](https://www.fischer.senate.gov/public/index.cfm/biography)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Senate.gov: Fischer Strategic Forces Subcommittee appointments](https://www.fischer.senate.gov/public/index.cfm/2025/1/fischer-announces-appointment-to-key-senate-armed-services-subcommittees) (Tier 1) (VERIFIED)
+- [Senate.gov: Fischer FY2026 NDAA nuclear deterrence provisions](https://www.fischer.senate.gov/public/index.cfm/news?ID=EBE1A750-DDB9-4729-9C72-E1C8B6001AB2) (Tier 1) (NEEDS REVIEW)
+- [American Prospect: How Deb Fischer Delivered for Big Ag](https://prospect.org/2024/10/30/2024-10-30-how-deb-fischer-delivered-for-big-ag/) (Tier 2) (VERIFIED)
+- ~~[Nebraska Independent: Fischer's Senate record — putting corporate donors over Nebraskans](https://nebraskaindependentnews.com/politics/deb-fischers-senate-2024-election-dan-osborn-campaign-donations/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Nebraska Independent: Fischer accepts pharma cash while opposing lower drug prices](https://nebraskaindependentnews.com/politics/deb-fischer-senate-election-2024-dan-osborn-pharma-campaign-money-drug-prices/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [American Journal News: Major donor to Fischer linked to downfall of Nebraska town](https://americanjournalnews.com/major-donor-to-sen-deb-fischer-linked-to-the-downfall-of-a-nebraska-town/) (Tier 2) (VERIFIED)
+- [SpaceNews: Fischer regains Strategic Forces Subcommittee leadership](https://spacenews.com/fischer-regains-leadership-of-senate-strategic-forces-subcommittee/) (Tier 2) (VERIFIED)
+- [Ballotpedia: Deb Fischer](https://ballotpedia.org/Deb_Fischer) (Tier 3) (VERIFIED)
+- [Wikipedia: Deb Fischer](https://en.wikipedia.org/wiki/Deb_Fischer) (Tier 3) (VERIFIED)
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->
@@ -206,7 +206,7 @@ The pharmaceutical industry adds a third extraction point: $205,000 in career co
 | 2026-03-24 | On the Motion to Table S. 1383 | Yea | Motion to Table Agreed to |
 | 2026-03-24 | On the Motion to Table S. 1383 | Yea | Motion to Table Agreed to |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412556) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412556) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
 
 ### Campaign Finance (FEC)
@@ -240,7 +240,7 @@ The pharmaceutical industry adds a third extraction point: $205,000 in career co
 | ESAFUND | $881,915 | $0 |
 | COMMON SENSE FOR AMERICA PAC | $303,194 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S2NE00094/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S2NE00094/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (Congress.gov)
@@ -269,7 +269,7 @@ The pharmaceutical industry adds a third extraction point: $205,000 in career co
 | — |  | Amendment SA 4206 agreed to in Senate by Yea-Nay Vote. 91 - 0. Record Vote Number: 89. |
 | — |  | — |
 
-- [Source: Congress.gov](https://www.congress.gov/member/F000463) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/F000463)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Voting Record
@@ -294,6 +294,6 @@ The pharmaceutical industry adds a third extraction point: $205,000 in career co
 
 **Sources**
 
-- [Congress.gov: Deb Fischer](https://www.congress.gov/member/c001091) (Tier 1)
-- [GovTrack: Deb Fischer](https://www.govtrack.us/congress/members/412556) (Tier 1)
+- ~~[Congress.gov: Deb Fischer](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [GovTrack: Deb Fischer](https://www.govtrack.us/congress/members/412556) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->

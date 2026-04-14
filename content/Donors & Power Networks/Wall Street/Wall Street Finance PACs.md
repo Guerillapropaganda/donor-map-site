@@ -35,7 +35,7 @@ See [[Financial Services Donors]] and [[Securities & Investment Industry]] for c
 
 ### Sources
 
-- [FEC Receipts: Finance sector PAC contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
+- [FEC Receipts: Finance sector PAC contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
 
 
 ### Influence Network (Cross-Reference)

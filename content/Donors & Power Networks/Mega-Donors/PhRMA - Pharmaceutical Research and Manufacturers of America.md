@@ -78,7 +78,7 @@ PhRMA - Pharmaceutical Research and Manufacturers of America. A redirect node fo
 |-----------|--------|-------|
 | AMERICA'S AGENDA: HEALTH CARE FOR KIDS INC | $1,878,043 | — |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=PhRMA%20-%20Pharmaceutical%20Research%20and%20Manufacturers%20of%20America) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=PhRMA%20-%20Pharmaceutical%20Research%20and%20Manufacturers%20of%20America) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### SEC Filing Activity
@@ -96,7 +96,7 @@ PhRMA - Pharmaceutical Research and Manufacturers of America. A redirect node fo
 - 2011-09-15 — **DEF 14A**: DEFINITIVE PROXY STATEMENT
 - 2019-09-23 — **EX-99.(A)(1)(A)**: EX-99.(A)(1)(A)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22PhRMA%20-%20Pharmaceutical%20Research%20and%20Manufacturers%20of%20America%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22PhRMA%20-%20Pharmaceutical%20Research%20and%20Manufacturers%20of%20America%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Lobbying Activity
@@ -115,7 +115,7 @@ PhRMA - Pharmaceutical Research and Manufacturers of America. A redirect node fo
 
 **Agencies contacted:** Centers For Medicare and Medicaid Services (CMS), Executive Office of the President (EOP), Food & Drug Administration (FDA), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Office of Management & Budget (OMB), SENATE, White House Office
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=PhRMA%20-%20Pharmaceutical%20Research%20and%20Manufacturers%20of%20America) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=PhRMA%20-%20Pharmaceutical%20Research%20and%20Manufacturers%20of%20America) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)
@@ -188,7 +188,7 @@ PhRMA - Pharmaceutical Research and Manufacturers of America. A redirect node fo
 | Agencies | Health and Human Services Department |
 
 **Recent regulatory activity:**
-- [Clinical Trials Registration and Results Submission](https://www.federalregister.gov/documents/2014/11/21/2014-26197/clinical-trials-registration-and-results-submission) (2014-11-21) — Health and Human Services Department
+- [Clinical Trials Registration and Results Submission](https://www.federalregister.gov/documents/2014/11/21/2014-26197/clinical-trials-registration-and-results-submission) (VERIFIED) (2014-11-21) — Health and Human Services Department
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22PhRMA%20-%20Pharmaceutical%20Research%20and%20Manufacturers%20of%20America%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22PhRMA%20-%20Pharmaceutical%20Research%20and%20Manufacturers%20of%20America%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->

@@ -93,10 +93,10 @@ Education, charter schools, COVID closures, curriculum, early childhood, school 
 
 ### Sources
 
-- [CTA: Official site](https://www.cta.org/) (Tier 1)
-- [FPPC: CTA contribution filings](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1)
-- [CalMatters: Newsom, lawmakers unveil plan to push schools to reopen](https://calmatters.org/health/coronavirus/2021/03/newsom-lawmakers-schools-reopen/) (Tier 2)
-- [LA Times: CTA and school closures](https://www.latimes.com/california/story/2021-03-05/teachers-union-california-schools-reopening) (Tier 2)
+- [CTA: Official site](https://www.cta.org/) (Tier 1) (VERIFIED)
+- [FPPC: CTA contribution filings](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1) (VERIFIED)
+- [CalMatters: Newsom, lawmakers unveil plan to push schools to reopen](https://calmatters.org/health/coronavirus/2021/03/newsom-lawmakers-schools-reopen/) (Tier 2) (VERIFIED)
+- ~~[LA Times: CTA and school closures](https://www.latimes.com/california/story/2021-03-05/teachers-union-california-schools-reopening)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
@@ -107,7 +107,7 @@ Education, charter schools, COVID closures, curriculum, early childhood, school 
 | Total Expenses | $39K |
 | Net Assets | $316K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 942552809](https://projects.propublica.org/nonprofits/organizations/942552809) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 942552809](https://projects.propublica.org/nonprofits/organizations/942552809) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Lobbying Activity
@@ -126,7 +126,7 @@ Education, charter schools, COVID closures, curriculum, early childhood, school 
 
 **Agencies contacted:** HOUSE OF REPRESENTATIVES, SENATE
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=CTA%20-%20California%20Teachers%20Association) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=CTA%20-%20California%20Teachers%20Association) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)
@@ -160,5 +160,5 @@ Education, charter schools, COVID closures, curriculum, early childhood, school 
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=CTA%20-%20California%20Teachers%20Association) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=CTA%20-%20California%20Teachers%20Association) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->

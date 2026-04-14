@@ -76,5 +76,5 @@ The Zeldin-Leo connection represents the convergence of the judicial capture str
 
 - CREW: Energy interests supporting Zeldin campaign (Tier 2)
 - DeSmog: Tim Dunn fracking billionaire backing Zeldin (Tier 2)
-- [E&E News: Zeldin raked in consulting and op-ed fees — and won big at casinos](https://www.eenews.net/articles/zeldin-raked-in-consulting-and-op-ed-fees-and-won-big-at-casinos/) (Tier 2)
-- [OpenSecrets: Zeldin congressional donor data](https://www.opensecrets.org/members-of-congress/summary?name=Fossil%20Fuel%20Op-Ed%20Pipeline%20and%20the%20Donor-to-Deregulation%20Map) (Tier 1)
+- [E&E News: Zeldin raked in consulting and op-ed fees — and won big at casinos](https://www.eenews.net/articles/zeldin-raked-in-consulting-and-op-ed-fees-and-won-big-at-casinos/) (Tier 2) (VERIFIED)
+- [OpenSecrets: Zeldin congressional donor data](https://www.opensecrets.org/members-of-congress/summary?name=Fossil%20Fuel%20Op-Ed%20Pipeline%20and%20the%20Donor-to-Deregulation%20Map) (Tier 1) (VERIFIED)

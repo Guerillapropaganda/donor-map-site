@@ -87,10 +87,10 @@ The core problem is not the specific holdings Sacks disclosed, it's the portfoli
 
 ### Sources
 
-- [NPR: Sacks ethics disclosure failed to classify Palantir as AI company](https://www.npr.org/2025/12/12/nx-s1-5631823/david-sacks-ai-advisor-investment-conflicts) (Tier 2)
-- [Public Citizen: Sacks resignation call, unresolved financial conflicts](https://www.citizen.org/news/david-sacks-financial-conflicts-mean-he-can-no-longer-credibly-serve-as-white-house-ai-advisor-he-should-resign/) (Tier 2)
-- [Gizmodo: 438+ reasons to question Sacks in government, portfolio analysis](https://gizmodo.com/david-sacks-possible-conflicts-2000693709) (Tier 2)
-- [CNBC: Full breakdown of $200M crypto divestment](https://www.cnbc.com/2025/03/14/david-sacks-sold-200-million-in-crypto-holdings-before-taking-wh-job.html) (Tier 2)
-- [Palantir: Corporate AI capabilities description](https://www.palantir.com/platforms/aip/) (Tier 2)
-- [OpenSecrets: David Sacks donor history](https://www.opensecrets.org/donor-lookup/results?name=david+sacks) (Tier 1)
+- [NPR: Sacks ethics disclosure failed to classify Palantir as AI company](https://www.npr.org/2025/12/12/nx-s1-5631823/david-sacks-ai-advisor-investment-conflicts) (Tier 2) (VERIFIED)
+- [Public Citizen: Sacks resignation call, unresolved financial conflicts](https://www.citizen.org/news/david-sacks-financial-conflicts-mean-he-can-no-longer-credibly-serve-as-white-house-ai-advisor-he-should-resign/) (Tier 2) (VERIFIED)
+- [Gizmodo: 438+ reasons to question Sacks in government, portfolio analysis](https://gizmodo.com/david-sacks-possible-conflicts-2000693709) (Tier 2) (VERIFIED)
+- [CNBC: Full breakdown of $200M crypto divestment](https://www.cnbc.com/2025/03/14/david-sacks-sold-200-million-in-crypto-holdings-before-taking-wh-job.html) (Tier 2) (VERIFIED)
+- [Palantir: Corporate AI capabilities description](https://www.palantir.com/platforms/aip/) (Tier 2) (VERIFIED)
+- ~~[OpenSecrets: David Sacks donor history](https://www.opensecrets.org/donor-lookup/results?name=david+sacks)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 

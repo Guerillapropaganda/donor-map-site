@@ -26,7 +26,7 @@ Aaron Maté is a Canadian writer and journalist best known as a primary reporter
 
 The FEC API returns 0 results for "MATE, AARON" — confirmed no contributions, consistent with non-citizen status. Maté's influence on U.S. politics operates entirely through journalism (The Grayzone, Useful Idiots) and media commentary, not campaign finance. His Canadian citizenship is analytically relevant: it places him outside the donor-to-policy pipeline this vault tracks while allowing him to shape U.S. political discourse from a position the FEC cannot regulate.
 
-- [FEC: Aaron Maté individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=MATE%2C+AARON) (Tier 1)
+- [FEC: Aaron Maté individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=MATE%2C+AARON) (Tier 1) (VERIFIED)
 
 ### The Funding Model
 
@@ -162,11 +162,11 @@ Patreon revenue (60-70%), freelance journalism (20-30%), speaking engagements (1
 
 ### Sources
 
-- [Aaron Maté - Wikipedia](https://en.wikipedia.org/wiki/Aaron_Mat%C3%A9) (Tier 2) (Chrome verified 2026-03-27)
-- [The Grayzone - Wikipedia](https://en.wikipedia.org/wiki/The_Grayzone) (Tier 2) (Chrome verified 2026-03-27)
-- [The Grayzone — SourceWatch](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/The_Grayzone) (Tier 2) (Chrome verified 2026-03-27)
-- [Public Mistrust of Gaza Coverage Is Opening Space for Russia-Linked Media on the Left — New Lines Magazine](https://newlinesmag.com/argument/public-mistrust-of-gaza-coverage-is-opening-space-for-russia-linked-media-on-the-left/) (Tier 2) (Chrome verified 2026-03-27)
-- [The Grayzone's Aaron Maté testifies at UN on OPCW Syria cover-up — The Grayzone](https://thegrayzone.com/2020/09/29/grayzones-aaron-mate-testifies-at-un-on-opcw-syria-cover-up/) (Tier 2) (Chrome verified 2026-03-27)
-- [Aaron Maté wins Izzy Award for Russiagate coverage — Various sources](https://www.izzieaward.org/) *(source unavailable)* (Tier 2) (Chrome verified 2026-03-27)
-- [Useful Idiots with Aaron Maté and Katie Halper — Podcast](https://www.usefulidiotspodcast.com/) (Tier 2) (Chrome verified 2026-03-27)
-- [Aaron Maté — The Grayzone](https://thegrayzone.com/author/aaron-mate/) (Tier 2) (Chrome verified 2026-03-27)
+- [Aaron Maté - Wikipedia](https://en.wikipedia.org/wiki/Aaron_Mat%C3%A9) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
+- [The Grayzone - Wikipedia](https://en.wikipedia.org/wiki/The_Grayzone) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
+- ~~[The Grayzone — SourceWatch](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/The_Grayzone)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (Chrome verified 2026-03-27)
+- [Public Mistrust of Gaza Coverage Is Opening Space for Russia-Linked Media on the Left — New Lines Magazine](https://newlinesmag.com/argument/public-mistrust-of-gaza-coverage-is-opening-space-for-russia-linked-media-on-the-left/) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
+- [The Grayzone's Aaron Maté testifies at UN on OPCW Syria cover-up — The Grayzone](https://thegrayzone.com/2020/09/29/grayzones-aaron-mate-testifies-at-un-on-opcw-syria-cover-up/) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
+- ~~[Aaron Maté wins Izzy Award for Russiagate coverage — Various sources](https://www.izzieaward.org/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2) (Chrome verified 2026-03-27)
+- [Useful Idiots with Aaron Maté and Katie Halper — Podcast](https://www.usefulidiotspodcast.com/) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
+- [Aaron Maté — The Grayzone](https://thegrayzone.com/author/aaron-mate/) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)

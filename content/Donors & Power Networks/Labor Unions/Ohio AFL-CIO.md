@@ -79,8 +79,8 @@ The Ohio AFL-CIO represents labor's constraint within Democratic Party politics:
 
 ### Sources
 
-- [OpenSecrets: Ohio AFL-CIO spending 2024](https://www.opensecrets.org/organizations/ohio-afl-cio) (Tier 1)
-- [OpenSecrets: AFL-CIO political spending profile](https://www.opensecrets.org/orgs/afl-cio/summary?id=D000000088)
+- ~~[OpenSecrets: Ohio AFL-CIO spending 2024](https://www.opensecrets.org/organizations/ohio-afl-cio)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [OpenSecrets: AFL-CIO political spending profile](https://www.opensecrets.org/orgs/afl-cio/summary?id=D000000088) (VERIFIED)
 
 ---
 
@@ -112,7 +112,7 @@ The Ohio AFL-CIO represents labor's constraint within Democratic Party politics:
 
 **Agencies contacted:** Agriculture, Dept of (USDA), Army, Dept of (Corps of Engineers), Bureau of Alcohol Tobacco Firearms & Explosives, Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Commodity Futures Trading Commission (CFTC), Consumer Financial Protection Bureau (CFPB), Defense, Dept of (DOD), Education, Dept of, Energy, Dept of +23 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Ohio%20AFL-CIO) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Ohio%20AFL-CIO) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)
@@ -145,7 +145,7 @@ The Ohio AFL-CIO represents labor's constraint within Democratic Party politics:
 - 2005-06-30 — **DEF 14A**: WHEELING-PITTSBURGH CORPORATION         DEF 14A
 - 2006-09-19 — **PRE 14A**: WHEELING-PITTSBURGH CORPORATION    PRE 14A
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Ohio%20AFL-CIO%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Ohio%20AFL-CIO%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:sec-edgar end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -166,7 +166,7 @@ The Ohio AFL-CIO represents labor's constraint within Democratic Party politics:
 - Plain Local School District Board of Education v. DeWine (2019) — District Court, S.D. Ohio
 - Ohioans Against Corporate Bailouts v. LaRose (2019) — District Court, S.D. Ohio
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Ohio%20AFL-CIO%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Ohio%20AFL-CIO%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### DOJ Press Releases
@@ -194,5 +194,5 @@ The Ohio AFL-CIO represents labor's constraint within Democratic Party politics:
 | OHIO DEMOCRATIC PARTY | $52,125 | DEM |
 | AMERICA VOTES ACTION FUND | $19,900 | — |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Ohio%20AFL-CIO) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Ohio%20AFL-CIO) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->

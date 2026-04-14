@@ -216,18 +216,18 @@ Any editorial decision that contradicts these dependencies creates instant press
 
 ### Sources
 
-- [FEC Matter Under Review #7401: Citizens for Trump coordination violation](https://www.fec.gov/files/legal/murs/7401/7401_01.pdf) (Tier 1)
-- [NBC News: Naval intelligence background investigation](https://www.nbcnews.com/news/us-news/right-winger-jack-posobiec-retweeted-trump-navy-intel-officer-n793191) (Tier 2)
-- [Task & Purpose: Military service record and HUMINT analysis](https://taskandpurpose.com/news/jack-posobiec-controversial-conservative-navy-intel-officer-opens-military-service/) (Tier 2)
-- [The Atlantic: White House access and Vance relationship](https://www.theatlantic.com/technology/2025/10/jack-posobiec-influencer-trump/684666/) (Tier 2)
-- [ABC News: Pizzagate promotion and conspiracy amplification](https://abcnews.com/US/trump-retweets-alt-activist-pushed-pizzagate-conspiracy/story?id=49221083) (Tier 2)
-- [Just Security/DFRLab: Stop the Steal timeline and January 6 coordination](https://www.justsecurity.org/74622/stopthesteal-timeline-of-social-media-and-extremist-activities-leading-to-1-6-insurrection/) (Tier 2)
-- [NBC News: CPAC January 6 comments](https://www.nbcnews.com/politics/2024-election/jack-posobiec-jan-6-2024-cpac-rcna140225) (Tier 2)
-- [New York Times: RNC poll watcher training deployment](https://www.nytimes.com/2024/09/26/us/politics/republican-national-committee-2024-posobiec.html) (Tier 2)
-- [HuffPost: Unhumans book and JD Vance endorsement](https://www.huffpost.com/entry/jd-vance-jack-posobiec_n_66a2755fe4b04c3a302465e7) (Tier 2)
-- [The Baffler: Dehumanization rhetoric and Roger Stone](https://thebaffler.com/latest/unhuman-resources-gais) (Tier 2)
-- [Deadline: JTN Networks acquisition of Human Events](https://deadline.com/2025/11/right-wing-media-brands-merge-just-the-news-human-events-1236616651/) (Tier 3)
-- [Entrepreneur: Jeff Webb and Varsity Spirit $2.5B exit](https://www.entrepreneur.com/building-a-business/he-started-a-business-with-850-and-grew-it-to-2-5-billion-after-this-make-or-break-moment) (Tier 3)
+- [FEC Matter Under Review #7401: Citizens for Trump coordination violation](https://www.fec.gov/files/legal/murs/7401/7401_01.pdf) (Tier 1) (VERIFIED)
+- [NBC News: Naval intelligence background investigation](https://www.nbcnews.com/news/us-news/right-winger-jack-posobiec-retweeted-trump-navy-intel-officer-n793191) (Tier 2) (VERIFIED)
+- [Task & Purpose: Military service record and HUMINT analysis](https://taskandpurpose.com/news/jack-posobiec-controversial-conservative-navy-intel-officer-opens-military-service/) (Tier 2) (VERIFIED)
+- [The Atlantic: White House access and Vance relationship](https://www.theatlantic.com/technology/2025/10/jack-posobiec-influencer-trump/684666/) (Tier 2) (VERIFIED)
+- [ABC News: Pizzagate promotion and conspiracy amplification](https://abcnews.com/US/trump-retweets-alt-activist-pushed-pizzagate-conspiracy/story?id=49221083) (Tier 2) (VERIFIED)
+- [Just Security/DFRLab: Stop the Steal timeline and January 6 coordination](https://www.justsecurity.org/74622/stopthesteal-timeline-of-social-media-and-extremist-activities-leading-to-1-6-insurrection/) (Tier 2) (VERIFIED)
+- [NBC News: CPAC January 6 comments](https://www.nbcnews.com/politics/2024-election/jack-posobiec-jan-6-2024-cpac-rcna140225) (Tier 2) (VERIFIED)
+- ~~[New York Times: RNC poll watcher training deployment](https://www.nytimes.com/2024/09/26/us/politics/republican-national-committee-2024-posobiec.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [HuffPost: Unhumans book and JD Vance endorsement](https://www.huffpost.com/entry/jd-vance-jack-posobiec_n_66a2755fe4b04c3a302465e7) (Tier 2) (VERIFIED)
+- [The Baffler: Dehumanization rhetoric and Roger Stone](https://thebaffler.com/latest/unhuman-resources-gais) (Tier 2) (VERIFIED)
+- [Deadline: JTN Networks acquisition of Human Events](https://deadline.com/2025/11/right-wing-media-brands-merge-just-the-news-human-events-1236616651/) (Tier 3) (VERIFIED)
+- [Entrepreneur: Jeff Webb and Varsity Spirit $2.5B exit](https://www.entrepreneur.com/building-a-business/he-started-a-business-with-850-and-grew-it-to-2-5-billion-after-this-make-or-break-moment) (Tier 3) (VERIFIED)
 
 ---
 

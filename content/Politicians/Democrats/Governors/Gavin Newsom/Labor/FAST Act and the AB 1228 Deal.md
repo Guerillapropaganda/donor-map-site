@@ -108,9 +108,9 @@ The referendum threat forced an accelerated deal. Without the referendum, the pr
 
 ### Sources
 
-- [California Assembly Bill 1228: Fast Food Worker Wage and Accountability Act text](https://leginfo.legislature.ca.gov/faces/home.xhtml?bill_id=202320242AB1228) (Tier 1)
-- [CalMatters: Newsom signs fast food worker bill (AB 257)](https://calmatters.org/category/economy/2022/08/fast-food-workers/) (Tier 2)
-- [CalMatters: California fast food deal, wage hike, no referendum](https://calmatters.org/category/politics/2023/09/california-fast-food-deal/) (Tier 2)
-- [LA Times: Joint liability removal and what workers lost](https://www.latimes.com/business/story/2023-09-11/fast-food-minimum-wage-deal-explained) (Tier 2)
-- [CalMatters: What did the California fast food council do in its first year?](https://calmatters.org/california-divide/2025/03/california-fast-food-council-one-year/) (Tier 2)
+- [California Assembly Bill 1228: Fast Food Worker Wage and Accountability Act text](https://leginfo.legislature.ca.gov/faces/home.xhtml?bill_id=202320242AB1228) (Tier 1) (VERIFIED)
+- ~~[CalMatters: Newsom signs fast food worker bill (AB 257)](https://calmatters.org/category/economy/2022/08/fast-food-workers/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[CalMatters: California fast food deal, wage hike, no referendum](https://calmatters.org/category/politics/2023/09/california-fast-food-deal/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[LA Times: Joint liability removal and what workers lost](https://www.latimes.com/business/story/2023-09-11/fast-food-minimum-wage-deal-explained)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [CalMatters: What did the California fast food council do in its first year?](https://calmatters.org/california-divide/2025/03/california-fast-food-council-one-year/) (Tier 2) (VERIFIED)
 

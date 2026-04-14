@@ -153,27 +153,27 @@ Harris as VP had veto power (tie-breaking votes), not initiation power. Labor go
 ### Sources
 
 ### NLRB / Abruzzo:
-- [Bloomberg Law: Abruzzo Confirmed as NLRB Top Lawyer by Harris Tiebreak](https://news.bloomberglaw.com/daily-labor-report/abruzzo-confirmed-as-labor-board-top-lawyer-by-harris-tiebreak) (Tier 2)
-- [NLRB: The NLRB Welcomes Jennifer Abruzzo as General Counsel](https://www.nlrb.gov/news-outreach/news-story/the-nlrb-welcomes-jennifer-abruzzo-as-general-counsel) (Tier 1)
-- [Congress.gov: PN126 - Nomination of Jennifer Ann Abruzzo for National Labor Relations Board](https://www.congress.gov/nomination/117th-congress/126) (Tier 1)
-- [U.S. Senate: Harris tie-breaking votes record](https://www.senate.gov/senators/senators-contact.htm) (Tier 1)
+- [Bloomberg Law: Abruzzo Confirmed as NLRB Top Lawyer by Harris Tiebreak](https://news.bloomberglaw.com/daily-labor-report/abruzzo-confirmed-as-labor-board-top-lawyer-by-harris-tiebreak) (Tier 2) (VERIFIED)
+- [NLRB: The NLRB Welcomes Jennifer Abruzzo as General Counsel](https://www.nlrb.gov/news-outreach/news-story/the-nlrb-welcomes-jennifer-abruzzo-as-general-counsel) (Tier 1) (VERIFIED)
+- [Congress.gov: PN126 - Nomination of Jennifer Ann Abruzzo for National Labor Relations Board](https://www.congress.gov/nomination/117th-congress/126) (Tier 1) (VERIFIED)
+- [U.S. Senate: Harris tie-breaking votes record](https://www.senate.gov/senators/senators-contact.htm) (Tier 1) (VERIFIED)
 
 ### IIJA:
-- [U.S. Department of Energy: Infrastructure Investment and Jobs Act](https://www.energy.gov/edf/inflation-reduction-act-2022) (Tier 1)
-- [U.S. Department of Labor: Davis-Bacon Act Requirements for IIJA Funding](https://www.energy.gov/infrastructure/davis-bacon-act) (Tier 1)
-- [White House: Infrastructure Investment and Jobs Act Summary](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/06/fact-sheet-the-bipartisan-infrastructure-deal/) (Tier 1)
-- [Center for American Progress: Proven State and Local Strategies To Create Good Jobs With IIJA Infrastructure Funds](https://www.americanprogress.org/article/proven-state-and-local-strategies-to-create-good-jobs-with-iija-infrastructure-funds/) (Tier 2)
+- [U.S. Department of Energy: Infrastructure Investment and Jobs Act](https://www.energy.gov/edf/inflation-reduction-act-2022) (Tier 1) (VERIFIED)
+- [U.S. Department of Labor: Davis-Bacon Act Requirements for IIJA Funding](https://www.energy.gov/infrastructure/davis-bacon-act) (Tier 1) (VERIFIED)
+- ~~[White House: Infrastructure Investment and Jobs Act Summary](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/06/fact-sheet-the-bipartisan-infrastructure-deal/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Center for American Progress: Proven State and Local Strategies To Create Good Jobs With IIJA Infrastructure Funds](https://www.americanprogress.org/article/proven-state-and-local-strategies-to-create-good-jobs-with-iija-infrastructure-funds/) (Tier 2) (VERIFIED)
 
 ### IRA:
-- [U.S. Department of Energy: Inflation Reduction Act of 2022](https://www.energy.gov/edf/inflation-reduction-act-2022) (Tier 1)
-- [U.S. Department of Treasury: IRA clean energy jobs guidance](https://home.treasury.gov/news/press-releases/jy1708) (Tier 1)
-- [U.S. EPA: Summary of Inflation Reduction Act provisions related to renewable energy](https://www.epa.gov/green-power-markets/summary-inflation-reduction-act-provisions-related-renewable-energy) (Tier 1)
-- [White House: Clean Energy Tax Provisions in the Inflation Reduction Act](https://bidenwhitehouse.archives.gov/cleanenergy/clean-energy-tax-provisions/) (Tier 1)
+- [U.S. Department of Energy: Inflation Reduction Act of 2022](https://www.energy.gov/edf/inflation-reduction-act-2022) (Tier 1) (VERIFIED)
+- [U.S. Department of Treasury: IRA clean energy jobs guidance](https://home.treasury.gov/news/press-releases/jy1708) (Tier 1) (VERIFIED)
+- [U.S. EPA: Summary of Inflation Reduction Act provisions related to renewable energy](https://www.epa.gov/green-power-markets/summary-inflation-reduction-act-provisions-related-renewable-energy) (Tier 1) (VERIFIED)
+- [White House: Clean Energy Tax Provisions in the Inflation Reduction Act](https://bidenwhitehouse.archives.gov/cleanenergy/clean-energy-tax-provisions/) (Tier 1) (VERIFIED)
 
 ### Davis-Bacon Modernization:
 
 ### PRO Act / Filibuster:
 
 ### Amazon:
-- [The Hill: Coverage of labor issues and federal contracts](https://thehill.com/?s=VP%20Labor%20Record%20-%20What%20Unions%20Got%20and%20Didn%27t%20Get) (Tier 2)
+- ~~[The Hill: Coverage of labor issues and federal contracts](https://thehill.com/?s=VP%20Labor%20Record%20-%20What%20Unions%20Got%20and%20Didn%27t%20Get)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 

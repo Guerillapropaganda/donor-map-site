@@ -84,9 +84,9 @@ Opposition to federal minimum wage increases, favorable franchise regulation (av
 
 ### Sources
 
-- [OpenSecrets: McDonald's organizational profile](https://www.opensecrets.org/orgs/mcdonalds-corp/summary?id=D000000373) (Tier 1)
-- [SEC: McDonald's 10-K filing](https://www.sec.gov/cgi-bin/browse-edgar?company=McDonalds%20Corporation&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)
-- [Ballotpedia: McDonald's](https://ballotpedia.org/McDonald's) (Tier 3)
+- [OpenSecrets: McDonald's organizational profile](https://www.opensecrets.org/orgs/mcdonalds-corp/summary?id=D000000373) (Tier 1) (VERIFIED)
+- [SEC: McDonald's 10-K filing](https://www.sec.gov/cgi-bin/browse-edgar?company=McDonalds%20Corporation&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1) (VERIFIED)
+- [Ballotpedia: McDonald's](https://ballotpedia.org/McDonald's) (Tier 3) (VERIFIED)
 
 ---
 
@@ -106,7 +106,7 @@ Opposition to federal minimum wage increases, favorable franchise regulation (av
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [549300R2IOM7D1Y4JN81](https://search.gleif.org/#/record/549300R2IOM7D1Y4JN81) |
+| LEI | [549300R2IOM7D1Y4JN81](https://search.gleif.org/#/record/549300R2IOM7D1Y4JN81) (VERIFIED) |
 | Legal Name | McDonalds Corporation Profit Sharing and Savings Plan |
 | Jurisdiction | US-DE |
 | Entity Status | ACTIVE |
@@ -114,7 +114,7 @@ Opposition to federal minimum wage increases, favorable franchise regulation (av
 | Registration | LAPSED |
 | Last Updated | 2023-08-04T17:13:53Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### SEC Filing Activity
@@ -128,13 +128,13 @@ Opposition to federal minimum wage increases, favorable franchise regulation (av
 
 **Notable filings:**
 
-- 2026-04-02 — **8-K/A**: [FORM 8-K/A](https://www.sec.gov/Archives/edgar/data/63908/000006390826000042/0000063908-26-000042-index.htm)
-- 2026-03-27 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/63908/000010290926001729/0000102909-26-001729-index.htm)
-- 2026-03-24 — **4**: [JOE ERLINGER - FORM 4 (MARCH 23, 2026)](https://www.sec.gov/Archives/edgar/data/63908/000168580026000007/0001685800-26-000007-index.htm)
-- 2026-03-23 — **144**: [144](https://www.sec.gov/Archives/edgar/data/63908/000195004726002912/0001950047-26-002912-index.htm)
-- 2026-03-19 — **4**: [DARIO BARONI - FORM 4 (MARCH 18, 2026)](https://www.sec.gov/Archives/edgar/data/63908/000207699826000003/0002076998-26-000003-index.htm)
+- 2026-04-02 — **8-K/A**: [FORM 8-K/A](https://www.sec.gov/Archives/edgar/data/63908/000006390826000042/0000063908-26-000042-index.htm) (VERIFIED)
+- 2026-03-27 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/63908/000010290926001729/0000102909-26-001729-index.htm) (VERIFIED)
+- 2026-03-24 — **4**: [JOE ERLINGER - FORM 4 (MARCH 23, 2026)](https://www.sec.gov/Archives/edgar/data/63908/000168580026000007/0001685800-26-000007-index.htm) (VERIFIED)
+- 2026-03-23 — **144**: [144](https://www.sec.gov/Archives/edgar/data/63908/000195004726002912/0001950047-26-002912-index.htm) (VERIFIED)
+- 2026-03-19 — **4**: [DARIO BARONI - FORM 4 (MARCH 18, 2026)](https://www.sec.gov/Archives/edgar/data/63908/000207699826000003/0002076998-26-000003-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22McDonalds%20Corporation%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22McDonalds%20Corporation%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Vehicle Safety (NHTSA)
@@ -152,7 +152,7 @@ Opposition to federal minimum wage increases, favorable franchise regulation (av
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=McDonalds%20Corporation) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=McDonalds%20Corporation) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Federal Court Records (CourtListener)
@@ -171,5 +171,5 @@ Opposition to federal minimum wage increases, favorable franchise regulation (av
 - Tolber v. McDonalds Corporation (2025) — District Court, S.D. Ohio
 - Steele v. Randall (2025) — District Court, N.D. Illinois
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22McDonalds%20Corporation%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22McDonalds%20Corporation%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->

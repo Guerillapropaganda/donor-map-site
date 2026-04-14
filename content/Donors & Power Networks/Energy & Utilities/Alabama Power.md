@@ -99,8 +99,8 @@ Alabama Power exemplifies utility monopoly power in states with weak regulatory 
 
 ### Sources
 
-- [Alabama Reflector: How Alabama Power kept bills up and foes out](https://alabamareflector.com/2025/11/04/how-alabama-power-kept-bills-up-and-foes-out-to-become-one-of-the-nations-most-powerful-utitilies/) (Tier 2)
-- [OpenSecrets: Alabama Power lobbying spending](https://www.opensecrets.org/orgs/southern-company) (Tier 1)
+- [Alabama Reflector: How Alabama Power kept bills up and foes out](https://alabamareflector.com/2025/11/04/how-alabama-power-kept-bills-up-and-foes-out-to-become-one-of-the-nations-most-powerful-utitilies/) (Tier 2) (VERIFIED)
+- ~~[OpenSecrets: Alabama Power lobbying spending](https://www.opensecrets.org/orgs/southern-company)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -131,7 +131,7 @@ Alabama Power exemplifies utility monopoly power in states with weak regulatory 
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Alabama%20Power) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Alabama%20Power) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -180,7 +180,7 @@ Alabama Power exemplifies utility monopoly power in states with weak regulatory 
 | Electronic and Precision Equipment Repair and Maintenance (811210) | $654K |
 | Electrical Contractors and Other Wiring Installation Contractors (238210) | $67K |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Alabama%20Power) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Alabama%20Power) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Tax Filings (IRS 990)
@@ -193,7 +193,7 @@ Alabama Power exemplifies utility monopoly power in states with weak regulatory 
 | IRS Ruling Date | 2022-04-01 |
 | Filings on Record | 0 |
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/881770844) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/881770844) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### SEC Filing Activity
@@ -211,7 +211,7 @@ Alabama Power exemplifies utility monopoly power in states with weak regulatory 
 - 2018-04-20 — **8-K**: 8-K
 - 2019-09-06 — **8-K**: 8-K
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Alabama%20Power%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Alabama%20Power%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Federal Spending (USASpending)
@@ -233,7 +233,7 @@ Alabama Power exemplifies utility monopoly power in states with weak regulatory 
 | $8.7M | Department of Defense | INVESTMENT GRADE AUDIT (IGA) |
 | $8.3M | Department of Defense | PREVENTIVE MAINT OF ELECTRICAL EQUIPMENT |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/8a7cd03a-dabc-9d74-2795-cc4f3ada4fd1-C/latest) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/8a7cd03a-dabc-9d74-2795-cc4f3ada4fd1-C/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Federal Register Activity
@@ -247,13 +247,13 @@ Alabama Power exemplifies utility monopoly power in states with weak regulatory 
 | Agencies | Energy Department, Environmental Protection Agency, Federal Energy Regulatory Commission |
 
 **Recent regulatory activity:**
-- [Combined Notice of Filings #1](https://www.federalregister.gov/documents/2026/03/26/2026-05887/combined-notice-of-filings-1) (2026-03-26) — Energy Department
-- [Combined Notice of Filings #1](https://www.federalregister.gov/documents/2026/03/24/2026-05702/combined-notice-of-filings-1) (2026-03-24) — Energy Department
-- [Combined Notice of Filings #1](https://www.federalregister.gov/documents/2026/03/19/2026-05385/combined-notice-of-filings-1) (2026-03-19) — Energy Department
-- [Combined Notice of Filings #1](https://www.federalregister.gov/documents/2026/03/04/2026-04264/combined-notice-of-filings-1) (2026-03-04) — Energy Department
-- [Combined Notice of Filings #3](https://www.federalregister.gov/documents/2026/02/20/2026-03399/combined-notice-of-filings-3) (2026-02-20) — Energy Department
-- [Alabama Power Company; Notice of Application Accepted for Filing and Soliciting Comments, Motions To Intervene, and Protests](https://www.federalregister.gov/documents/2026/02/20/2026-03360/alabama-power-company-notice-of-application-accepted-for-filing-and-soliciting-comments-motions-to) (2026-02-20) — Energy Department
+- [Combined Notice of Filings #1](https://www.federalregister.gov/documents/2026/03/26/2026-05887/combined-notice-of-filings-1) (VERIFIED) (2026-03-26) — Energy Department
+- [Combined Notice of Filings #1](https://www.federalregister.gov/documents/2026/03/24/2026-05702/combined-notice-of-filings-1) (VERIFIED) (2026-03-24) — Energy Department
+- [Combined Notice of Filings #1](https://www.federalregister.gov/documents/2026/03/19/2026-05385/combined-notice-of-filings-1) (VERIFIED) (2026-03-19) — Energy Department
+- [Combined Notice of Filings #1](https://www.federalregister.gov/documents/2026/03/04/2026-04264/combined-notice-of-filings-1) (VERIFIED) (2026-03-04) — Energy Department
+- [Combined Notice of Filings #3](https://www.federalregister.gov/documents/2026/02/20/2026-03399/combined-notice-of-filings-3) (VERIFIED) (2026-02-20) — Energy Department
+- [Alabama Power Company; Notice of Application Accepted for Filing and Soliciting Comments, Motions To Intervene, and Protests](https://www.federalregister.gov/documents/2026/02/20/2026-03360/alabama-power-company-notice-of-application-accepted-for-filing-and-soliciting-comments-motions-to) (VERIFIED) (2026-02-20) — Energy Department
 - ... and 1,853 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Alabama%20Power%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Alabama%20Power%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->

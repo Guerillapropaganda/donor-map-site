@@ -13,7 +13,7 @@ profiles:
 
 ## Loomer takes credit for arrest of former Iranian commander’s niece in California
 
-**Source:** [The Hill](https://thehill.com/media/5818388-far-right-media-figure-laura-loomer/)
+**Source:** ~~[The Hill](https://thehill.com/media/5818388-far-right-media-figure-laura-loomer/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-06
 
 Far-right media figure Laura Loomer took credit on Saturday for the arrests of the niece and grandniece of former Iranian general Qasem Soleimani, who was killed in a U.S. strike on Iraq during President Trump’s first term in 2020. Loomer said in a social media post that Immigration and Customs Enforcement (ICE) agents arrested Soleimani’s…

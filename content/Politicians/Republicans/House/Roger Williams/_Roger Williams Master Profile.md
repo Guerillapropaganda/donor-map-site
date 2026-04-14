@@ -170,19 +170,19 @@ The ethics record confirms the structure. The Office of Congressional Ethics una
 
 ## Sources
 
-- [FEC Candidate: Roger Williams donor profile](https://www.fec.gov/data/candidate/H2TX33040/) (Tier 1)
-- [OpenSecrets: Roger Williams net worth](https://www.opensecrets.org/personal-finances/roger-williams/net-worth?cid=N00030602) (Tier 1)
-- [FEC: Roger Williams candidate overview](https://www.fec.gov/data/candidate/H2TX33040/) (Tier 1)
-- [Office of Congressional Ethics: Referral regarding Rep. Roger Williams](https://conduct.house.gov/reports/investigations/oce-referral-regarding-rep-roger-williams) (Tier 1)
-- [House Small Business Committee: Chairman Roger Williams](https://smallbusiness.house.gov/about/chair.htm) (Tier 1)
-- [Center for Public Integrity: Congressman-auto dealer accused of conflict of interest](https://publicintegrity.org/politics/congressman-auto-dealer-accused-of-conflict-of-interest/) (Tier 2)
-- [Center for Public Integrity: Congressman-car dealer refuses to cooperate with investigators](https://publicintegrity.org/politics/congressman-car-dealer-refuses-to-cooperate-with-investigators/) (Tier 2)
-- [Texas Tribune: Roger Williams Faces Questions on Auto Dealer Provision](https://www.texastribune.org/2015/11/18/roger-williams-faces-questions-auto-dealer-provisi/) (Tier 2)
-- [Texas Tribune: Roger Williams cleared in ethics investigation](https://www.texastribune.org/2017/08/01/us-office-congressional-ethics-drops-roger-williams-investigation/) (Tier 2)
-- [Roll Call: Roger Williams Cleared in Auto Dealership Ethics Probe](https://rollcall.com/2017/08/01/roger-williams-cleared-in-auto-dealership-ethics-probe/) (Tier 2)
-- [CBT News: Texas congressman promotes LIFO accounting method benefiting his car dealerships](https://www.cbtnews.com/roger-williams-last-in-first-out/) (Tier 2)
-- [Ballotpedia: Roger Williams](https://ballotpedia.org/Roger_Williams_(Texas)) (Tier 3)
-- [Wikipedia: Roger Williams (Texas politician)](https://en.wikipedia.org/wiki/Roger_Williams_%28Texas_politician%29) (Tier 3)
+- [FEC Candidate: Roger Williams donor profile](https://www.fec.gov/data/candidate/H2TX33040/) (Tier 1) (VERIFIED)
+- [OpenSecrets: Roger Williams net worth](https://www.opensecrets.org/personal-finances/roger-williams/net-worth?cid=N00030602) (Tier 1) (VERIFIED)
+- [FEC: Roger Williams candidate overview](https://www.fec.gov/data/candidate/H2TX33040/) (Tier 1) (VERIFIED)
+- [Office of Congressional Ethics: Referral regarding Rep. Roger Williams](https://conduct.house.gov/reports/investigations/oce-referral-regarding-rep-roger-williams) (Tier 1) (VERIFIED)
+- [House Small Business Committee: Chairman Roger Williams](https://smallbusiness.house.gov/about/chair.htm) (Tier 1) (VERIFIED)
+- [Center for Public Integrity: Congressman-auto dealer accused of conflict of interest](https://publicintegrity.org/politics/congressman-auto-dealer-accused-of-conflict-of-interest/) (Tier 2) (VERIFIED)
+- [Center for Public Integrity: Congressman-car dealer refuses to cooperate with investigators](https://publicintegrity.org/politics/congressman-car-dealer-refuses-to-cooperate-with-investigators/) (Tier 2) (VERIFIED)
+- [Texas Tribune: Roger Williams Faces Questions on Auto Dealer Provision](https://www.texastribune.org/2015/11/18/roger-williams-faces-questions-auto-dealer-provisi/) (Tier 2) (VERIFIED)
+- [Texas Tribune: Roger Williams cleared in ethics investigation](https://www.texastribune.org/2017/08/01/us-office-congressional-ethics-drops-roger-williams-investigation/) (Tier 2) (VERIFIED)
+- [Roll Call: Roger Williams Cleared in Auto Dealership Ethics Probe](https://rollcall.com/2017/08/01/roger-williams-cleared-in-auto-dealership-ethics-probe/) (Tier 2) (VERIFIED)
+- [CBT News: Texas congressman promotes LIFO accounting method benefiting his car dealerships](https://www.cbtnews.com/roger-williams-last-in-first-out/) (Tier 2) (VERIFIED)
+- [Ballotpedia: Roger Williams](https://ballotpedia.org/Roger_Williams_(Texas) (VERIFIED)) (Tier 3)
+- [Wikipedia: Roger Williams (Texas politician)](https://en.wikipedia.org/wiki/Roger_Williams_%28Texas_politician%29) (Tier 3) (VERIFIED)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -216,7 +216,7 @@ The ethics record confirms the structure. The Office of Congressional Ethics una
 | COMMITTEE FOR DEFENDING AMERICAN VALUES | $1,715 | $0 |
 | ZB, N.A. DBA AMEGY BANK PAC | $1,000 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2TX33040/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2TX33040/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (GovTrack)
@@ -248,7 +248,7 @@ The ethics record confirms the structure. The Office of Congressional Ethics una
 | 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Yea | Passed |
 | 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Yea | Passed |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412578) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412578) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
 
 ### Legislative Activity (Congress.gov)
@@ -277,7 +277,7 @@ The ethics record confirms the structure. The Office of Congressional Ethics una
 | 5672 | Reducing Unnecessary Slowdowns in Handling Act | Referred to the House Committee on the Judiciary. |
 | 5291 | Merchant Banking Modernization Act | Placed on the Union Calendar, Calendar No. 320. |
 
-- [Source: Congress.gov](https://www.congress.gov/member/W000816) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/W000816)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Voting Record
@@ -302,6 +302,6 @@ The ethics record confirms the structure. The Office of Congressional Ethics una
 
 **Sources**
 
-- [Congress.gov: Roger Williams](https://www.congress.gov/member/c001091) (Tier 1)
-- [GovTrack: Roger Williams](https://www.govtrack.us/congress/members/412578) (Tier 1)
+- ~~[Congress.gov: Roger Williams](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [GovTrack: Roger Williams](https://www.govtrack.us/congress/members/412578) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->

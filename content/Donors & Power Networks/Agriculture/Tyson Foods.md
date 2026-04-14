@@ -391,7 +391,7 @@ Tyson's $220 million in federal contracts, primarily through the Department of A
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Tyson%20Foods) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Tyson%20Foods) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Federal Spending (USASpending)
@@ -413,7 +413,7 @@ Tyson's $220 million in federal contracts, primarily through the Department of A
 | $26.7M | Department of Agriculture | COMMODITIES FOR USG FOOD DONATIONS: 2000010261/4100030713/CHICKEN LARGE CHILLED -BULK |
 | $25.4M | Department of Agriculture | COMMODITIES FOR USG FOOD DONATIONS: 2000011083/4100033455/CHICKEN LARGE CHILLED -BULK |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/388ab88d-74c2-54ac-19e4-cb2df60ad520-C/latest) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/388ab88d-74c2-54ac-19e4-cb2df60ad520-C/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### FDA Enforcement (openFDA)
@@ -444,7 +444,7 @@ Tyson's $220 million in federal contracts, primarily through the Department of A
 
 _Variant firm names in FDA data: Tyson Foods Discovery Center; Tyson Foods, inc._
 
-- [Source: openFDA / FDA Enforcement Reports](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?search_api_fulltext=Tyson%20Foods) (Tier 1)
+- [Source: openFDA / FDA Enforcement Reports](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?search_api_fulltext=Tyson%20Foods) (Tier 1) (VERIFIED)
 <!-- auto:fda-enforcement end -->
 
 ### SEC Filing Activity
@@ -458,13 +458,13 @@ _Variant firm names in FDA data: Tyson Foods Discovery Center; Tyson Foods, inc.
 
 **Notable filings:**
 
-- 2026-04-02 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/100493/000010049326000014/0000100493-26-000014-index.htm)
-- 2026-03-27 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/100493/000010290926002468/0000102909-26-002468-index.htm)
-- 2026-02-20 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/100493/000114036126006328/0001140361-26-006328-index.htm)
-- 2026-02-13 — **SCHEDULE 13D/A**: [SCHEDULE 13D/A](https://www.sec.gov/Archives/edgar/data/100493/000199937126003264/0001999371-26-003264-index.htm)
-- 2026-02-11 — **424B5**: [424B5](https://www.sec.gov/Archives/edgar/data/100493/000114036126004824/0001140361-26-004824-index.htm)
+- 2026-04-02 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/100493/000010049326000014/0000100493-26-000014-index.htm) (VERIFIED)
+- 2026-03-27 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/100493/000010290926002468/0000102909-26-002468-index.htm) (VERIFIED)
+- 2026-02-20 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/100493/000114036126006328/0001140361-26-006328-index.htm) (VERIFIED)
+- 2026-02-13 — **SCHEDULE 13D/A**: [SCHEDULE 13D/A](https://www.sec.gov/Archives/edgar/data/100493/000199937126003264/0001999371-26-003264-index.htm) (VERIFIED)
+- 2026-02-11 — **424B5**: [424B5](https://www.sec.gov/Archives/edgar/data/100493/000114036126004824/0001140361-26-004824-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Tyson%20Foods%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Tyson%20Foods%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Financial Overview (990 Filing — 2019)
@@ -477,7 +477,7 @@ _Variant firm names in FDA data: Tyson Foods Discovery Center; Tyson Foods, inc.
 | Net Assets | $322K |
 
 - [Source: ProPublica Nonprofit Explorer — EIN 476014039](https://projects.propublica.org/nonprofits/organizations/476014039) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=10_2020_prefixes_47-52%2F476014039_201912_990PR_2020102017391100.pdf) (Tier 1)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=10_2020_prefixes_47-52%2F476014039_201912_990PR_2020102017391100.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Wikipedia
@@ -486,22 +486,22 @@ Tyson Foods, Inc. is an American multinational corporation based in Springdale, 
 
 | Fact | Value |
 |------|-------|
-| Wikidata ID | [Q1325987](https://www.wikidata.org/wiki/Q1325987) |
+| Wikidata ID | [Q1325987](https://www.wikidata.org/wiki/Q1325987) (VERIFIED) |
 | Description | food manufacturing company |
 | Founded | 1935-01-01 |
-| Website | [http://www.tyson.com](http://www.tyson.com) |
-| X/Twitter | [@TysonFoods](https://x.com/TysonFoods) |
-| Image | [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Tyson_Foods_corporate_logo_%282024%29.svg/330px-Tyson_Foods_corporate_logo_%282024%29.svg.png) |
+| Website | [http://www.tyson.com](http://www.tyson.com) (NEEDS REVIEW) |
+| X/Twitter | [@TysonFoods](https://x.com/TysonFoods) (VERIFIED) |
+| Image | [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Tyson_Foods_corporate_logo_%282024%29.svg/330px-Tyson_Foods_corporate_logo_%282024%29.svg.png) (VERIFIED) |
 
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/Tyson_Foods) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q1325987) (Tier 2)
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Tyson_Foods) (Tier 3) (VERIFIED)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q1325987) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [WD6L6041MNRW1JE49D58](https://search.gleif.org/#/record/WD6L6041MNRW1JE49D58) |
+| LEI | [WD6L6041MNRW1JE49D58](https://search.gleif.org/#/record/WD6L6041MNRW1JE49D58) (VERIFIED) |
 | Legal Name | TYSON FOODS, INC. |
 | Jurisdiction | US-DE |
 | Entity Status | ACTIVE |
@@ -509,7 +509,7 @@ Tyson Foods, Inc. is an American multinational corporation based in Springdale, 
 | Registration | ISSUED |
 | Last Updated | 2025-10-06T11:59:32Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Lobbying Activity
@@ -528,5 +528,5 @@ Tyson Foods, Inc. is an American multinational corporation based in Springdale, 
 
 **Agencies contacted:** Agriculture, Dept of (USDA), Commerce, Dept of (DOC), Environmental Protection Agency (EPA), Executive Office of the President (EOP), Federal Trade Commission (FTC), Food & Drug Administration (FDA), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Homeland Security, Dept of (DHS), Justice, Dept of (DOJ) +7 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Tyson%20Foods) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Tyson%20Foods) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->

@@ -47,7 +47,7 @@ Kasparian's funding model is the most structurally revealing in the pipeline bec
 > [!money]
 > All three contributions fall in 2019-2020 while Kasparian was firmly embedded at TYT, and the largest ($1,000) went directly to her boss Cenk Uygur's Rebellion PAC. Zero contributions after 2020, perfectly tracking her "unaligned" declaration. The FEC record captures Kasparian at the moment of her institutional commitment to progressive politics, before the 2022 assault and subsequent dual-capture phase. The silence after 2020 indicates that the Valuetainment pivot removed her from political giving entirely, consistent with the "unaligned" brand positioning that benefits from political neutrality even while drawing paychecks from both progressive and conservative infrastructure.
 
-- [FEC: Ana Kasparian individual contributions (3 results, $1,150)](https://www.fec.gov/data/receipts/?contributor_name=kasparian%2C+ana) (Tier 1)
+- [FEC: Ana Kasparian individual contributions (3 results, $1,150)](https://www.fec.gov/data/receipts/?contributor_name=kasparian%2C+ana) (Tier 1) (VERIFIED)
 
 > **Note on API results:** The FEC API search for "kasparian, ana" returns 3 results ($1,150 total), all from The Young Turks employer (2019-2020), California address. All verified as belonging to the Breaking Points co-host. No disambiguation needed.
 
@@ -126,14 +126,14 @@ Ana Kasparian's profile is the most human story in the pipeline. A genuine sexua
 
 ### Sources
 
-- [FEC: Ana Kasparian individual contributions (3 results, $1,150 total)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=kasparian%2C+ana&min_date=01%2F01%2F2010&max_date=12%2F31%2F2026) (Tier 1)
-- [The Hill: Ana Kasparian explains her beef with the Left, details horrific assault by homeless man](https://thehill.com/video/ana-kasparian-explains-her-beef-with-the-left-details-horrific-assault-by-homeless-man/10132153/) (Tier 2)
-- [Fox News: Progressive journalist unleashes on liberal intolerance that drove her away from Democratic Party](https://www.foxnews.com/media/progressive-journalist-unleashes-liberal-intolerance-drove-her-away-from-democratic-party) (Tier 2)
-- [Yahoo Finance/PR Newswire: Her Take launches on Valuetainment. Kasparian, Michaels, Li](https://finance.yahoo.com/news/bold-podcast-talk-show-her-190000209.html) (Tier 2)
-- [The Unspeakable Podcast: Ana Kasparian Falls Out of Alignment (detailed interview on realignment)](https://www.theunspeakablepodcast.com/p/ana-kasparian-tyt-the-young-turks-realignment-politics-progressive-left) (Tier 3)
-- [CSUN Today: Anti-Establishment Truth Teller Kasparian Makes Forbes 30 Under 30](https://csunshinetoday.csun.edu/csun-profiles/anti-establishment-truth-teller-kasparian-makes-forbes-30-under-30/) (Tier 3)
-- [Wikipedia: Ana Kasparian](https://en.wikipedia.org/wiki/Ana_Kasparian) (Tier 3)
-- [Evie Magazine: Ana Kasparian Says Liberal Friends Shamed Her For Being Upset About Homeless Men Sexually Assaulting Her](https://www.eviemagazine.com/post/ana-kasparian-says-liberal-friends-shamed-her-for-being-upset-about-homeless-men) (Tier 3)
-- [Joe Wrote/Substack: After Years of Criticizing "Why I Left the Left," Ana Kasparian Leaves the Left](https://www.joewrote.com/p/after-years-of-criticizing-why-i) (Tier 3)
-- [IMDb: Her Take, "Ana Kasparian Threatens to Quit TYT Live on Air" (episode documentation)](https://www.imdb.com/title/tt35097974/) (Tier 3)
+- [FEC: Ana Kasparian individual contributions (3 results, $1,150 total)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=kasparian%2C+ana&min_date=01%2F01%2F2010&max_date=12%2F31%2F2026) (Tier 1) (VERIFIED)
+- ~~[The Hill: Ana Kasparian explains her beef with the Left, details horrific assault by homeless man](https://thehill.com/video/ana-kasparian-explains-her-beef-with-the-left-details-horrific-assault-by-homeless-man/10132153/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Fox News: Progressive journalist unleashes on liberal intolerance that drove her away from Democratic Party](https://www.foxnews.com/media/progressive-journalist-unleashes-liberal-intolerance-drove-her-away-from-democratic-party) (Tier 2) (VERIFIED)
+- [Yahoo Finance/PR Newswire: Her Take launches on Valuetainment. Kasparian, Michaels, Li](https://finance.yahoo.com/news/bold-podcast-talk-show-her-190000209.html) (Tier 2) (VERIFIED)
+- [The Unspeakable Podcast: Ana Kasparian Falls Out of Alignment (detailed interview on realignment)](https://www.theunspeakablepodcast.com/p/ana-kasparian-tyt-the-young-turks-realignment-politics-progressive-left) (Tier 3) (VERIFIED)
+- ~~[CSUN Today: Anti-Establishment Truth Teller Kasparian Makes Forbes 30 Under 30](https://csunshinetoday.csun.edu/csun-profiles/anti-establishment-truth-teller-kasparian-makes-forbes-30-under-30/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [Wikipedia: Ana Kasparian](https://en.wikipedia.org/wiki/Ana_Kasparian) (Tier 3) (VERIFIED)
+- [Evie Magazine: Ana Kasparian Says Liberal Friends Shamed Her For Being Upset About Homeless Men Sexually Assaulting Her](https://www.eviemagazine.com/post/ana-kasparian-says-liberal-friends-shamed-her-for-being-upset-about-homeless-men) (Tier 3) (VERIFIED)
+- [Joe Wrote/Substack: After Years of Criticizing "Why I Left the Left," Ana Kasparian Leaves the Left](https://www.joewrote.com/p/after-years-of-criticizing-why-i) (Tier 3) (VERIFIED)
+- [IMDb: Her Take, "Ana Kasparian Threatens to Quit TYT Live on Air" (episode documentation)](https://www.imdb.com/title/tt35097974/) (Tier 3) (VERIFIED)
 

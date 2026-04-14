@@ -110,14 +110,14 @@ THE PROJECT OBJECTIVE IS TO DESIGN, BUILD, AND DEPLOY A MA |
 | $7.5M | Department of Energy | NEW AWARD TO GENERAL MOTORS LLC.  AWARD NUMBER# DE-EE0009204.  PROJECT ENTITLED: DEVELOPMENT OF TAIL |
 | $7.5M | Department of Energy | THE PURPOSE OF THE PROJECT IS TO DEVELOP 400-KILOWATT 800 V-CLASS GALIUM-NITRIDE (GAN) ENABLED INTEG |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-General%20Motors) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-General%20Motors) (Tier 1) (VERIFIED)
 
 <!-- auto:usaspending end -->
 
 ### Sources
 
-- [OpenSecrets: General Motors PAC and lobbying](https://www.opensecrets.org/orgs/general-motors/summary?id=D000000155) (Tier 1)
-- [Ballotpedia: Auto industry political spending](https://ballotpedia.org/General_Motors) (Tier 3)
+- [OpenSecrets: General Motors PAC and lobbying](https://www.opensecrets.org/orgs/general-motors/summary?id=D000000155) (Tier 1) (VERIFIED)
+- [Ballotpedia: Auto industry political spending](https://ballotpedia.org/General_Motors) (Tier 3) (VERIFIED)
 
 ---
 
@@ -149,7 +149,7 @@ THE PROJECT OBJECTIVE IS TO DESIGN, BUILD, AND DEPLOY A MA |
 
 **Agencies contacted:** AMTRAK - Natl Railroad Passenger Corporation, Agriculture, Dept of (USDA), Air Force, Dept of, Army, Dept of (Corps of Engineers), Army, Dept of (Other), Bureau of Citizenship & Immigration Services (BCIS), Bureau of Indian Affairs (BIA), Centers For Medicare and Medicaid Services (CMS), Central Intelligence Agency (CIA), Commerce, Dept of (DOC) +60 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=General%20Motors) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=General%20Motors) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)
@@ -178,7 +178,7 @@ THE PROJECT OBJECTIVE IS TO DESIGN, BUILD, AND DEPLOY A MA |
 | Total Expenses | $25K |
 | Net Assets | $130K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 383569669](https://projects.propublica.org/nonprofits/organizations/383569669) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 383569669](https://projects.propublica.org/nonprofits/organizations/383569669) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Federal Court Records (CourtListener)
@@ -197,7 +197,7 @@ THE PROJECT OBJECTIVE IS TO DESIGN, BUILD, AND DEPLOY A MA |
 - Walock v. General Motors, LLC (2026) — District Court, M.D. Louisiana
 - Gonnering v. General Motors LLC (2026) — District Court, E.D. Michigan
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22General%20Motors%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22General%20Motors%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -245,14 +245,14 @@ THE PROJECT OBJECTIVE IS TO DESIGN, BUILD, AND DEPLOY A MA |
 | Investment Banking and Securities Dealing (523110) | $2.3M |
 | Other Engine Equipment Manufacturing (333618) | $2.1M |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [6488WGUD2TY76047V783](https://search.gleif.org/#/record/6488WGUD2TY76047V783) |
+| LEI | [6488WGUD2TY76047V783](https://search.gleif.org/#/record/6488WGUD2TY76047V783) (VERIFIED) |
 | Legal Name | GENERAL MOTORS |
 | Jurisdiction | IN |
 | Entity Status | ACTIVE |
@@ -260,7 +260,7 @@ THE PROJECT OBJECTIVE IS TO DESIGN, BUILD, AND DEPLOY A MA |
 | Registration | ISSUED |
 | Last Updated | 2025-05-09T13:27:26Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### Tax Filings (IRS 990)
@@ -278,14 +278,14 @@ THE PROJECT OBJECTIVE IS TO DESIGN, BUILD, AND DEPLOY A MA |
 **Filing history:** 2023, 2022, 2019, 2018, 2017, 2016, 2015, 2014
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/383569669/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/383569669/2022)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/383569669/2019)
-- [2018 Filing](https://projects.propublica.org/nonprofits/organizations/383569669/2018)
-- [2017 Filing](https://projects.propublica.org/nonprofits/organizations/383569669/2017)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/383569669/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/383569669/2022)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/383569669/2019)~~ (URL broken, archived by Ops)
+- ~~[2018 Filing](https://projects.propublica.org/nonprofits/organizations/383569669/2018)~~ (URL broken, archived by Ops)
+- ~~[2017 Filing](https://projects.propublica.org/nonprofits/organizations/383569669/2017)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/383569669) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/383569669) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Federal Register Activity
@@ -300,15 +300,15 @@ THE PROJECT OBJECTIVE IS TO DESIGN, BUILD, AND DEPLOY A MA |
 | Agencies | Environmental Protection Agency, Executive Office of the President, Homeland Security Department, International Trade Commission, Justice Department, National Highway Traffic Safety Administration, Pipeline and Hazardous Materials Safety Administration, Transportation Department +1 more |
 
 **Recent regulatory activity:**
-- [Initial Decision That Certain Frontal Driver Air Bag Inflators Manufactured by Jilin Province Detiannuo Safety Technology Co., Ltd. (DTN) Contain a Safety Defect](https://www.federalregister.gov/documents/2026/04/06/2026-06620/initial-decision-that-certain-frontal-driver-air-bag-inflators-manufactured-by-jilin-province) (2026-04-06) — Transportation Department
-- [Hazardous Materials: Notice of Actions on Special Permits](https://www.federalregister.gov/documents/2026/03/18/2026-05279/hazardous-materials-notice-of-actions-on-special-permits) (2026-03-18) — Transportation Department
-- [Daimler Coaches North America, LLC, Denial of Petition for Decision of Inconsequential Noncompliance](https://www.federalregister.gov/documents/2026/03/16/2026-05029/daimler-coaches-north-america-llc-denial-of-petition-for-decision-of-inconsequential-noncompliance) (2026-03-16) — Transportation Department
-- [Certain Vehicle Parts and Components Thereof; Notice of Institution of Investigation](https://www.federalregister.gov/documents/2026/03/12/2026-04838/certain-vehicle-parts-and-components-thereof-notice-of-institution-of-investigation) (2026-03-12) — International Trade Commission
-- [Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest](https://www.federalregister.gov/documents/2026/02/10/2026-02597/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest) (2026-02-10) — International Trade Commission
-- [Air Plan Approval; Connecticut; Revised Format for Materials Incorporated by Reference](https://www.federalregister.gov/documents/2026/02/09/2026-02477/air-plan-approval-connecticut-revised-format-for-materials-incorporated-by-reference) (2026-02-09) — Environmental Protection Agency
+- [Initial Decision That Certain Frontal Driver Air Bag Inflators Manufactured by Jilin Province Detiannuo Safety Technology Co., Ltd. (DTN) Contain a Safety Defect](https://www.federalregister.gov/documents/2026/04/06/2026-06620/initial-decision-that-certain-frontal-driver-air-bag-inflators-manufactured-by-jilin-province) (VERIFIED) (2026-04-06) — Transportation Department
+- [Hazardous Materials: Notice of Actions on Special Permits](https://www.federalregister.gov/documents/2026/03/18/2026-05279/hazardous-materials-notice-of-actions-on-special-permits) (VERIFIED) (2026-03-18) — Transportation Department
+- [Daimler Coaches North America, LLC, Denial of Petition for Decision of Inconsequential Noncompliance](https://www.federalregister.gov/documents/2026/03/16/2026-05029/daimler-coaches-north-america-llc-denial-of-petition-for-decision-of-inconsequential-noncompliance) (VERIFIED) (2026-03-16) — Transportation Department
+- [Certain Vehicle Parts and Components Thereof; Notice of Institution of Investigation](https://www.federalregister.gov/documents/2026/03/12/2026-04838/certain-vehicle-parts-and-components-thereof-notice-of-institution-of-investigation) (VERIFIED) (2026-03-12) — International Trade Commission
+- [Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest](https://www.federalregister.gov/documents/2026/02/10/2026-02597/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest) (VERIFIED) (2026-02-10) — International Trade Commission
+- [Air Plan Approval; Connecticut; Revised Format for Materials Incorporated by Reference](https://www.federalregister.gov/documents/2026/02/09/2026-02477/air-plan-approval-connecticut-revised-format-for-materials-incorporated-by-reference) (VERIFIED) (2026-02-09) — Environmental Protection Agency
 - ... and 1,894 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22General%20Motors%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22General%20Motors%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Vehicle Safety (NHTSA)
@@ -324,12 +324,12 @@ THE PROJECT OBJECTIVE IS TO DESIGN, BUILD, AND DEPLOY A MA |
 
 **Recent recalls:**
 
-- [26V213000: Missing Warning for Rear Turn Signal Failure/FMVSS 108](https://www.nhtsa.gov/recalls?nhtsaId=26V213000) (2026-04-02)
-- [26V212000: Rearview Camera May Display Distorted or Blank Image](https://www.nhtsa.gov/recalls?nhtsaId=26V212000) (2026-04-02)
-- [26V166000: Roof Rail Air Bag Inflator Endcap May Detach](https://www.nhtsa.gov/recalls?nhtsaId=26V166000) (2026-03-19)
-- [26V129000: Engine Stall Due to Disabled Rear Fuel Pump](https://www.nhtsa.gov/recalls?nhtsaId=26V129000) (2026-03-05)
-- [26V127000: Tire Sidewall Damage](https://www.nhtsa.gov/recalls?nhtsaId=26V127000) (2026-03-05)
-- [26V114000: Missing Owner's Manual/FMVSS 208](https://www.nhtsa.gov/recalls?nhtsaId=26V114000) (2026-02-26)
+- [26V213000: Missing Warning for Rear Turn Signal Failure/FMVSS 108](https://www.nhtsa.gov/recalls?nhtsaId=26V213000) (VERIFIED) (2026-04-02)
+- [26V212000: Rearview Camera May Display Distorted or Blank Image](https://www.nhtsa.gov/recalls?nhtsaId=26V212000) (VERIFIED) (2026-04-02)
+- [26V166000: Roof Rail Air Bag Inflator Endcap May Detach](https://www.nhtsa.gov/recalls?nhtsaId=26V166000) (VERIFIED) (2026-03-19)
+- [26V129000: Engine Stall Due to Disabled Rear Fuel Pump](https://www.nhtsa.gov/recalls?nhtsaId=26V129000) (VERIFIED) (2026-03-05)
+- [26V127000: Tire Sidewall Damage](https://www.nhtsa.gov/recalls?nhtsaId=26V127000) (VERIFIED) (2026-03-05)
+- [26V114000: Missing Owner's Manual/FMVSS 208](https://www.nhtsa.gov/recalls?nhtsaId=26V114000) (VERIFIED) (2026-02-26)
 - ... and 494 more
 
 **Active/recent investigations:**
@@ -339,5 +339,5 @@ THE PROJECT OBJECTIVE IS TO DESIGN, BUILD, AND DEPLOY A MA |
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=General%20Motors) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=General%20Motors) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->

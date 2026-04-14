@@ -44,10 +44,10 @@ Dark money networks:
 
 ### Sources
 
-- [2026 United States Senate election in Nebraska | Wikipedia](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Nebraska) (Tier 3)
-- [Dan Osborn raises more than $1 million for second Nebraska U.S. Senate race against Ricketts | Nebraska Examiner](https://nebraskaexaminer.com/2025/10/02/dan-osborn-raises-more-than-1-million-for-second-nebraska-u-s-senate-race-against-ricketts/) (Tier 2)
-- [NEW POLL: Dan Osborn is Tied With Pete Ricketts in Critical Nebraska Senate Race | KCSR / KBPY](https://chadronradio.com/new-poll-dan-osborn-is-tied-with-pete-ricketts-in-critical-nebraska-senate-race/) (Tier 3)
-- [Independent Dan Osborn launches another Nebraska Senate run | NBC News](https://www.nbcnews.com/politics/2026-election/independent-dan-osborn-launches-another-nebraska-senate-run-rcna215998) (Tier 3)
+- [2026 United States Senate election in Nebraska | Wikipedia](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Nebraska) (Tier 3) (VERIFIED)
+- [Dan Osborn raises more than $1 million for second Nebraska U.S. Senate race against Ricketts | Nebraska Examiner](https://nebraskaexaminer.com/2025/10/02/dan-osborn-raises-more-than-1-million-for-second-nebraska-u-s-senate-race-against-ricketts/) (Tier 2) (VERIFIED)
+- [NEW POLL: Dan Osborn is Tied With Pete Ricketts in Critical Nebraska Senate Race | KCSR / KBPY](https://chadronradio.com/new-poll-dan-osborn-is-tied-with-pete-ricketts-in-critical-nebraska-senate-race/) (Tier 3) (VERIFIED)
+- [Independent Dan Osborn launches another Nebraska Senate run | NBC News](https://www.nbcnews.com/politics/2026-election/independent-dan-osborn-launches-another-nebraska-senate-run-rcna215998) (Tier 3) (VERIFIED)
 
 ---
 

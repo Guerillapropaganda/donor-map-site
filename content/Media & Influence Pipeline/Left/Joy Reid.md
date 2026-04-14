@@ -41,8 +41,8 @@ No FEC individual contributions found. The FEC API returns 0 results for both "R
 > [!money]
 > Reid earned $3M/year as MSNBC's most prominent Black progressive voice, covered campaign finance and political money nightly, and gave $0 in personal federal contributions. This mirrors the vault-wide pattern: cable news hosts influence elections through platform power, not personal donations. The $0 is especially notable given Reid's active role in the 2008 Obama campaign, she transitioned from direct political work to media commentary and stopped personal political giving entirely.
 
-- [FEC: Joy Reid individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=REID%2C+JOY) (Tier 1)
-- [FEC: Joy-Ann Reid individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=REID%2C+JOY-ANN) (Tier 1)
+- [FEC: Joy Reid individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=REID%2C+JOY) (Tier 1) (VERIFIED)
+- [FEC: Joy-Ann Reid individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=REID%2C+JOY-ANN) (Tier 1) (VERIFIED)
 
 ### Who Funds Them
 
@@ -104,11 +104,11 @@ The $3M salary, while objectively high, becomes a tool of class analysis when co
 
 ### Sources
 
-- [NPR: MSNBC fires host Joy Reid amid network shakeup](https://www.npr.org/2025/02/25/g-s1-50551/joy-reid-msnbc-fired) (Tier 2)
-- [People: Joy Reid says she was paid 10% of what some fellow MSNBC hosts made](https://people.com/joy-reid-says-she-was-paid-10-percent-of-what-fellow-msnbc-hosts-made-11793034) (Tier 2)
-- [BBC: MSNBC's Joy Reid addresses homophobic blog post controversy](https://www.bbc.com/news/world-us-canada-43936042) (Tier 2)
-- [Deadline: MSNBC to drop Joy Reid from primetime lineup](https://deadline.com/2025/02/msnbc-cancels-joy-reid-1236298901/) (Tier 2)
-- [Wikipedia: Joy Reid](https://en.wikipedia.org/wiki/Joy_Reid) (Tier 3)
+- [NPR: MSNBC fires host Joy Reid amid network shakeup](https://www.npr.org/2025/02/25/g-s1-50551/joy-reid-msnbc-fired) (Tier 2) (VERIFIED)
+- ~~[People: Joy Reid says she was paid 10% of what some fellow MSNBC hosts made](https://people.com/joy-reid-says-she-was-paid-10-percent-of-what-fellow-msnbc-hosts-made-11793034)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [BBC: MSNBC's Joy Reid addresses homophobic blog post controversy](https://www.bbc.com/news/world-us-canada-43936042) (Tier 2) (VERIFIED)
+- [Deadline: MSNBC to drop Joy Reid from primetime lineup](https://deadline.com/2025/02/msnbc-cancels-joy-reid-1236298901/) (Tier 2) (VERIFIED)
+- [Wikipedia: Joy Reid](https://en.wikipedia.org/wiki/Joy_Reid) (Tier 3) (VERIFIED)
 - [FEC: Joy Reid individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=REID%2C+JOY) (Tier 1)
 - [FEC: Joy-Ann Reid individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=REID%2C+JOY-ANN) (Tier 1)
 

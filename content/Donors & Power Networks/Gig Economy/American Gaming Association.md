@@ -204,29 +204,29 @@ The prediction market schism reveals the limits of trade association governance 
 | Net Assets | $30.6M |
 | Officer Compensation | $5.3M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 931169142](https://projects.propublica.org/nonprofits/organizations/931169142) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 931169142](https://projects.propublica.org/nonprofits/organizations/931169142) (Tier 1) (VERIFIED)
 
 <!-- auto:propublica-990 end -->
 
 ### Sources
 
-- [OpenSecrets: American Gaming Association org summary](https://www.opensecrets.org/orgs/american-gaming-assn/summary?id=D000023966) (Tier 1) (UNVERIFIED)
-- [Senate LDA Filings: AGA lobbying profile](https://lda.gov/filings/public/filing/search/) (Tier 1) (UNVERIFIED)
-- [OpenSecrets: AGA PAC profile C00309146](https://www.opensecrets.org/political-action-committees-pacs/american-gaming-assn/C00309146/summary/2024) (Tier 1) (UNVERIFIED)
-- [FEC Receipts: Casinos/Gambling industry totals](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (UNVERIFIED)
-- [FEC: AGA PAC committee C00309146](https://www.fec.gov/data/committee/C00309146/) (Tier 1)
-- [AGA: 2024 Commercial Gaming Revenue press release](https://www.americangaming.org/2024-commercial-gaming-revenue-reaches-71-9b-marking-fourth-straight-year-of-record-revenue/) (Tier 1) (UNVERIFIED)
-- [Supreme Court: Murphy v. NCAA opinion (584 U.S. 453, 2018)](https://www.supremecourt.gov/opinions/17pdf/16-476_dbfi.pdf) (Tier 1)
-- [SBC Americas: IRS confirms $2,000 slot tax threshold for 2026](https://sbcamericas.com/2025/12/17/irs-slot-tax-threshold-increase/) (Tier 2) (UNVERIFIED)
-- [RSM US: Big Beautiful Bill brings tax changes for casino industry](https://rsmus.com/insights/tax-alerts/2026/big-beautiful-bill-tax-reporting-casino-industry.html) (Tier 2)
-- [CNBC: FanDuel, DraftKings abandon AGA memberships](https://www.cnbc.com/2025/11/18/fanduel-draftkings-abandon-aga-memberships.html) (Tier 2)
-- [WaPo: DraftKings, FanDuel back prediction markets, leave AGA](https://www.washingtonpost.com/sports/2025/11/19/draftkings-fanduel-prediction-markets/) (Tier 2) (UNVERIFIED)
-- [Marketplace: Sports betting is booming. So are calls to gambling addiction helplines](https://www.marketplace.org/story/2024/01/23/sports-betting-is-booming-so-are-calls-to-gambling-addiction-helplines) (Tier 2)
-- [UCSD: Study reveals surge in gambling addiction following legalization](https://today.ucsd.edu/story/study-reveals-surge-in-gambling-addiction-following-legalization-of-sports-betting) (Tier 2)
-- [CDC Gaming: Miriam Adelson Las Vegas Sands Texas lobbying](https://cdcgaming.com/brief/miriam-adelson-las-vegas-sands-continue-to-bankroll-pro-gambling-efforts-in-texas/) (Tier 2)
-- [AGA staff: Bill Miller bio](https://www.americangaming.org/staff/bill-miller/) (Tier 1) (UNVERIFIED)
-- [Wikipedia: Murphy v. National Collegiate Athletic Association](https://en.wikipedia.org/wiki/Murphy_v._National_Collegiate_Athletic_Association) (Tier 3)
-- [Wikipedia: American Gaming Association](https://en.wikipedia.org/wiki/American_Gaming_Association) (Tier 3)
+- [OpenSecrets: American Gaming Association org summary](https://www.opensecrets.org/orgs/american-gaming-assn/summary?id=D000023966) (Tier 1) (VERIFIED) (UNVERIFIED)
+- [Senate LDA Filings: AGA lobbying profile](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED) (UNVERIFIED)
+- [OpenSecrets: AGA PAC profile C00309146](https://www.opensecrets.org/political-action-committees-pacs/american-gaming-assn/C00309146/summary/2024) (Tier 1) (VERIFIED) (UNVERIFIED)
+- [FEC Receipts: Casinos/Gambling industry totals](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED) (UNVERIFIED)
+- [FEC: AGA PAC committee C00309146](https://www.fec.gov/data/committee/C00309146/) (Tier 1) (VERIFIED)
+- [AGA: 2024 Commercial Gaming Revenue press release](https://www.americangaming.org/2024-commercial-gaming-revenue-reaches-71-9b-marking-fourth-straight-year-of-record-revenue/) (Tier 1) (VERIFIED) (UNVERIFIED)
+- [Supreme Court: Murphy v. NCAA opinion (584 U.S. 453, 2018)](https://www.supremecourt.gov/opinions/17pdf/16-476_dbfi.pdf) (Tier 1) (VERIFIED)
+- ~~[SBC Americas: IRS confirms $2,000 slot tax threshold for 2026](https://sbcamericas.com/2025/12/17/irs-slot-tax-threshold-increase/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- [RSM US: Big Beautiful Bill brings tax changes for casino industry](https://rsmus.com/insights/tax-alerts/2026/big-beautiful-bill-tax-reporting-casino-industry.html) (Tier 2) (VERIFIED)
+- [CNBC: FanDuel, DraftKings abandon AGA memberships](https://www.cnbc.com/2025/11/18/fanduel-draftkings-abandon-aga-memberships.html) (Tier 2) (VERIFIED)
+- [WaPo: DraftKings, FanDuel back prediction markets, leave AGA](https://www.washingtonpost.com/sports/2025/11/19/draftkings-fanduel-prediction-markets/) (Tier 2) (VERIFIED) (UNVERIFIED)
+- ~~[Marketplace: Sports betting is booming. So are calls to gambling addiction helplines](https://www.marketplace.org/story/2024/01/23/sports-betting-is-booming-so-are-calls-to-gambling-addiction-helplines)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [UCSD: Study reveals surge in gambling addiction following legalization](https://today.ucsd.edu/story/study-reveals-surge-in-gambling-addiction-following-legalization-of-sports-betting) (Tier 2) (VERIFIED)
+- [CDC Gaming: Miriam Adelson Las Vegas Sands Texas lobbying](https://cdcgaming.com/brief/miriam-adelson-las-vegas-sands-continue-to-bankroll-pro-gambling-efforts-in-texas/) (Tier 2) (VERIFIED)
+- [AGA staff: Bill Miller bio](https://www.americangaming.org/staff/bill-miller/) (Tier 1) (VERIFIED) (UNVERIFIED)
+- [Wikipedia: Murphy v. National Collegiate Athletic Association](https://en.wikipedia.org/wiki/Murphy_v._National_Collegiate_Athletic_Association) (Tier 3) (VERIFIED)
+- [Wikipedia: American Gaming Association](https://en.wikipedia.org/wiki/American_Gaming_Association) (Tier 3) (VERIFIED)
 
 ---
 
@@ -266,7 +266,7 @@ The prediction market schism reveals the limits of trade association governance 
 | SCALISE LEADERSHIP FUND | $11,000 | — |
 | RESCHENTHALER VICTORY FUND | $10,000 | — |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=American%20Gaming%20Association) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=American%20Gaming%20Association) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### Tax Filings (IRS 990)
@@ -283,14 +283,14 @@ The prediction market schism reveals the limits of trade association governance 
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/931169142/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/931169142/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/931169142/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/931169142/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/931169142/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/931169142/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/931169142/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/931169142/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/931169142/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/931169142/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/931169142) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/931169142) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### SEC Filing Activity
@@ -308,7 +308,7 @@ The prediction market schism reveals the limits of trade association governance 
 - 2021-03-22 — **EX-99.1**: INVESTOR PRESENTATION
 - 2021-08-25 — **EX-99.1**: INVESTOR PRESENTATION DATED AUGUST 2021
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22American%20Gaming%20Association%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22American%20Gaming%20Association%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Federal Court Records (CourtListener)
@@ -327,7 +327,7 @@ The prediction market schism reveals the limits of trade association governance 
 - Hallman v. KalshiEX LLC (2026) — District Court, S.D. New York
 - Robinhood Derivatives, LLC v. Dreitzer, et al. (2025) — Court of Appeals for the Ninth Circuit
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22American%20Gaming%20Association%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22American%20Gaming%20Association%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Register Activity
@@ -341,13 +341,13 @@ The prediction market schism reveals the limits of trade association governance 
 | Agencies | Coast Guard, Federal Trade Commission, Financial Crimes Enforcement Network, Homeland Security Department, Indian Affairs Bureau, Interior Department, Treasury Department |
 
 **Recent regulatory activity:**
-- [Anti-Money Laundering and Countering the Financing of Terrorism Programs](https://www.federalregister.gov/documents/2026/04/10/2026-07033/anti-money-laundering-and-countering-the-financing-of-terrorism-programs) (2026-04-10) — Treasury Department
-- [Agency Information Collection Activities; Proposed Renewal; Comment Request; Renewal Without Change on Information Sharing Between Government Agencies and Financial Institutions](https://www.federalregister.gov/documents/2025/09/30/2025-18928/agency-information-collection-activities-proposed-renewal-comment-request-renewal-without-change-on) (2025-09-30) — Treasury Department
-- [Agency Information Collection Activities: Proposed New Information Collection; Survey of the Costs of AML/CFT Compliance; Comment Request](https://www.federalregister.gov/documents/2025/09/30/2025-18918/agency-information-collection-activities-proposed-new-information-collection-survey-of-the-costs-of) (2025-09-30) — Treasury Department
-- [Agency Information Collection Activities; Proposed Renewal; Comment Request; Renewal Without Change of Reports of Transactions With Foreign Financial Agencies](https://www.federalregister.gov/documents/2025/05/23/2025-09310/agency-information-collection-activities-proposed-renewal-comment-request-renewal-without-change-of) (2025-05-23) — Treasury Department
-- [Agency Information Collection Activities; Proposed Renewal; Comment Request; Renewal Without Change of Additional Records To Be Made and Retained by Casinos](https://www.federalregister.gov/documents/2025/04/23/2025-06938/agency-information-collection-activities-proposed-renewal-comment-request-renewal-without-change-of) (2025-04-23) — Treasury Department
-- [Trade Regulation Rule on Unfair or Deceptive Fees](https://www.federalregister.gov/documents/2025/01/10/2024-30293/trade-regulation-rule-on-unfair-or-deceptive-fees) (2025-01-10) — Federal Trade Commission
+- ~~[Anti-Money Laundering and Countering the Financing of Terrorism Programs](https://www.federalregister.gov/documents/2026/04/10/2026-07033/anti-money-laundering-and-countering-the-financing-of-terrorism-programs)~~ (URL broken, archived by Ops) (2026-04-10) — Treasury Department
+- ~~[Agency Information Collection Activities; Proposed Renewal; Comment Request; Renewal Without Change on Information Sharing Between Government Agencies and Financial Institutions](https://www.federalregister.gov/documents/2025/09/30/2025-18928/agency-information-collection-activities-proposed-renewal-comment-request-renewal-without-change-on)~~ (URL broken, archived by Ops) (2025-09-30) — Treasury Department
+- [Agency Information Collection Activities: Proposed New Information Collection; Survey of the Costs of AML/CFT Compliance; Comment Request](https://www.federalregister.gov/documents/2025/09/30/2025-18918/agency-information-collection-activities-proposed-new-information-collection-survey-of-the-costs-of) (VERIFIED) (2025-09-30) — Treasury Department
+- [Agency Information Collection Activities; Proposed Renewal; Comment Request; Renewal Without Change of Reports of Transactions With Foreign Financial Agencies](https://www.federalregister.gov/documents/2025/05/23/2025-09310/agency-information-collection-activities-proposed-renewal-comment-request-renewal-without-change-of) (VERIFIED) (2025-05-23) — Treasury Department
+- [Agency Information Collection Activities; Proposed Renewal; Comment Request; Renewal Without Change of Additional Records To Be Made and Retained by Casinos](https://www.federalregister.gov/documents/2025/04/23/2025-06938/agency-information-collection-activities-proposed-renewal-comment-request-renewal-without-change-of) (VERIFIED) (2025-04-23) — Treasury Department
+- [Trade Regulation Rule on Unfair or Deceptive Fees](https://www.federalregister.gov/documents/2025/01/10/2024-30293/trade-regulation-rule-on-unfair-or-deceptive-fees) (VERIFIED) (2025-01-10) — Federal Trade Commission
 - ... and 13 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22American%20Gaming%20Association%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22American%20Gaming%20Association%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->

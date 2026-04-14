@@ -121,9 +121,9 @@ The tax avoidance architecture completes the picture. Pritzker championed progre
 
 ## Sources
 
-- [Congress.gov: JB Pritzker Campaign Finance](https://www.congress.gov/search?q=Jb%20Pritzker&searchResultViewType=expanded) (Tier 1)
-- [FEC: 2022 Illinois Governor Campaign Finance Filings](https://www.fec.gov/data/filings/) (Tier 1)
-- [Illinois Policy: Pritzker campaign spending $323M analysis](https://www.illinoispolicy.org/pritzker-calls-for-campaign-finance-reform-after-spending-323m-on-campaigns/) (Tier 2)
+- ~~[Congress.gov: JB Pritzker Campaign Finance](https://www.congress.gov/search?q=Jb%20Pritzker&searchResultViewType=expanded)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [FEC: 2022 Illinois Governor Campaign Finance Filings](https://www.fec.gov/data/filings/) (Tier 1) (VERIFIED)
+- [Illinois Policy: Pritzker campaign spending $323M analysis](https://www.illinoispolicy.org/pritzker-calls-for-campaign-finance-reform-after-spending-323m-on-campaigns/) (Tier 2) (VERIFIED)
 - NPR: Pritzker breaks campaign finance record (Tier 2)
 - Chicago Tribune: Pritzker offshore Bahamas trusts (Tier 2)
 - NPR: Toilet removal property tax operation (Tier 2)

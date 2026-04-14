@@ -115,5 +115,5 @@ The four pillars:
 
 **Agencies contacted:** Agriculture, Dept of (USDA), HOUSE OF REPRESENTATIVES, SENATE
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Agribusiness%20Donor%20Bloc) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Agribusiness%20Donor%20Bloc) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->

@@ -113,18 +113,18 @@ No legislation required. No public debate. No voted-on compromise. Just executiv
 
 ### SOURCES
 
-- [OPM Finalizes Schedule Policy/Career Regulation: OPM Rule Describes Civil Service Protections as Unconstitutional](https://www.govexec.com/workforce/2025/11/final-schedule-f-regulations-describe-civil-service-protections-unconstitutional-overcorrections/409616/) (Tier 2)
-- [NPR: Trump Removes Civil Service Protections with Schedule F Plan](https://www.npr.org/2020/10/31/929597578/a-huge-attack-critics-decry-trump-order-that-makes-firing-federal-workers-easier) (Tier 2)
-- [Protect Democracy: Trump's Schedule F Plan Explained](https://protectdemocracy.org/work/trumps-schedule-f-plan-explained/) (Tier 2)
-- [White House Fact Sheet: Schedule F Initiative](https://www.whitehouse.gov/fact-sheets/2025/04/fact-sheet-president-donald-j-trump-creates-new-federal-employee-category-to-enhance-accountability/) (Tier 1)
-- [Project 2025 Wikipedia](https://en.wikipedia.org/wiki/Project_2025) (Tier 3)
-- [ProPublica: Project 2025 Detailed Breakdown](https://www.propublica.org/article/project-2025-trump-campaign-heritage-foundation-paul-dans) (Tier 2)
-- [Center for American Progress: Project 2025 Would Destroy Checks and Balances](https://www.americanprogress.org/article/project-2025-would-destroy-the-u-s-system-of-checks-and-balances-and-create-an-imperial-presidency/) (Tier 2)
-- [Washington Post: How Charles Koch's Network Won 40 Year War to Curb Regulation](https://www.washingtonpost.com/politics/2024/06/28/supreme-court-chevron-federal-agency-authority/) (Tier 2)
-- [The Intercept: How Charles Koch Purchased the Supreme Court's EPA Decision](https://theintercept.com/2022/06/30/supreme-court-epa-climate-charles-koch/) (Tier 2)
-- [Senator Whitehouse: Collapse in IRS Investigations of Wealthy Tax Cheats Under Trump](https://www.whitehouse.senate.gov/news/release/whitehouse-wyden-colleagues-probe-collapse-in-irs-investigations-of-wealthy-tax-cheats-under-trump/) (Tier 2)
-- [ICIJ: IRS referrals Against Corporations and Ultrawealthy Plummeted](https://www.icij.org/news/2026/03/irs-criminal-referrals-against-big-corporations-and-ultrawealthy-plummeted-during-trumps-first-year/s-and-ultrawealthy-plummeted-during-trump-s-first-year/) (Tier 2)
-- [Oxfam America: Trump's IRS Cuts Allow Ultra Rich Tax Cheats to Steal $30 Million Per Day](https://www.oxfamamerica.org/press/trump-and-musks-proposed-irs-cuts-would-allow-ultra-rich-tax-cheats-to-steal-30-million-per-day-through-unlawful-tax-evasion/) (Tier 2)
+- [OPM Finalizes Schedule Policy/Career Regulation: OPM Rule Describes Civil Service Protections as Unconstitutional](https://www.govexec.com/workforce/2025/11/final-schedule-f-regulations-describe-civil-service-protections-unconstitutional-overcorrections/409616/) (Tier 2) (VERIFIED)
+- [NPR: Trump Removes Civil Service Protections with Schedule F Plan](https://www.npr.org/2020/10/31/929597578/a-huge-attack-critics-decry-trump-order-that-makes-firing-federal-workers-easier) (Tier 2) (VERIFIED)
+- [Protect Democracy: Trump's Schedule F Plan Explained](https://protectdemocracy.org/work/trumps-schedule-f-plan-explained/) (Tier 2) (VERIFIED)
+- [White House Fact Sheet: Schedule F Initiative](https://www.whitehouse.gov/fact-sheets/2025/04/fact-sheet-president-donald-j-trump-creates-new-federal-employee-category-to-enhance-accountability/) (Tier 1) (VERIFIED)
+- [Project 2025 Wikipedia](https://en.wikipedia.org/wiki/Project_2025) (Tier 3) (VERIFIED)
+- [ProPublica: Project 2025 Detailed Breakdown](https://www.propublica.org/article/project-2025-trump-campaign-heritage-foundation-paul-dans) (Tier 2) (VERIFIED)
+- [Center for American Progress: Project 2025 Would Destroy Checks and Balances](https://www.americanprogress.org/article/project-2025-would-destroy-the-u-s-system-of-checks-and-balances-and-create-an-imperial-presidency/) (Tier 2) (VERIFIED)
+- [Washington Post: How Charles Koch's Network Won 40 Year War to Curb Regulation](https://www.washingtonpost.com/politics/2024/06/28/supreme-court-chevron-federal-agency-authority/) (Tier 2) (VERIFIED)
+- [The Intercept: How Charles Koch Purchased the Supreme Court's EPA Decision](https://theintercept.com/2022/06/30/supreme-court-epa-climate-charles-koch/) (Tier 2) (VERIFIED)
+- [Senator Whitehouse: Collapse in IRS Investigations of Wealthy Tax Cheats Under Trump](https://www.whitehouse.senate.gov/news/release/whitehouse-wyden-colleagues-probe-collapse-in-irs-investigations-of-wealthy-tax-cheats-under-trump/) (Tier 2) (VERIFIED)
+- ~~[ICIJ: IRS referrals Against Corporations and Ultrawealthy Plummeted](https://www.icij.org/news/2026/03/irs-criminal-referrals-against-big-corporations-and-ultrawealthy-plummeted-during-trumps-first-year/s-and-ultrawealthy-plummeted-during-trump-s-first-year/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Oxfam America: Trump's IRS Cuts Allow Ultra Rich Tax Cheats to Steal $30 Million Per Day](https://www.oxfamamerica.org/press/trump-and-musks-proposed-irs-cuts-would-allow-ultra-rich-tax-cheats-to-steal-30-million-per-day-through-unlawful-tax-evasion/) (Tier 2) (VERIFIED)
 
 ### OFAC Sanctions Screening
 <!-- auto:ofac-sdn start -->
@@ -142,7 +142,7 @@ No legislation required. No public debate. No voted-on compromise. Just executiv
 - STATE UNITARY ENTERPRISE CENTER FOR TECHNICAL DEVELOPMENT AND SERVICES NAMED AFTER P A SUDOPLATOV OF THE MILITARY AND CIVIL ADMINISTRATION OF THE ZAPORIZHZHIA REGION (-0-) [RUSSIA-EO14024]
   - Remarks: Secondary sanctions risk: See Section 11 of Executive Order 14024.; Organization Established Date 22 Dec 2022; Tax ID No. 9001013922 (Russia); Registration Number 1229000023603 (Russia).
 
-- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
 ### Voting Record

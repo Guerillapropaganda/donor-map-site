@@ -40,8 +40,8 @@ Thompson's 2024 Farm Bill proposal disrupted this bargain by proposing SNAP bene
 
 ### Sources
 
-- [Congress.gov: Glenn Thompson member profile](https://www.congress.gov/member/glenn-thompson/T000467) (Tier 1)
-- [FEC Candidate: Glenn Thompson campaign finance summary](https://www.fec.gov/data/candidate/H8PA05071/) (Tier 1)
-- [Congressional Budget Office: Farm Bill spending projections](https://www.cbo.gov/topics/food-and-nutrition) (Tier 1)
-- [Ballotpedia: Glenn Thompson](https://ballotpedia.org/Glenn_Thompson_(Pennsylvania)) (Tier 3)
+- [Congress.gov: Glenn Thompson member profile](https://www.congress.gov/member/glenn-thompson/T000467) (Tier 1) (VERIFIED)
+- [FEC Candidate: Glenn Thompson campaign finance summary](https://www.fec.gov/data/candidate/H8PA05071/) (Tier 1) (VERIFIED)
+- ~~[Congressional Budget Office: Farm Bill spending projections](https://www.cbo.gov/topics/food-and-nutrition)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Ballotpedia: Glenn Thompson](https://ballotpedia.org/Glenn_Thompson_(Pennsylvania) (VERIFIED)) (Tier 3)
 

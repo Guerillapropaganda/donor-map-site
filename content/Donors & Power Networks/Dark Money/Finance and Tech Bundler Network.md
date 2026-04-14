@@ -38,8 +38,8 @@ The bundler network operates through fundraising events (dinners, receptions, re
 
 ### Sources
 
-- [OpenSecrets: Bundler data](https://www.opensecrets.org/bundlers) (Tier 1)
-- [Ballotpedia: Campaign bundling](https://ballotpedia.org/Finance_and_Tech_Bundler_Network) (Tier 3)
+- ~~[OpenSecrets: Bundler data](https://www.opensecrets.org/bundlers)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Ballotpedia: Campaign bundling](https://ballotpedia.org/Finance_and_Tech_Bundler_Network) (Tier 3) (VERIFIED)
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
@@ -60,7 +60,7 @@ The bundler network operates through fundraising events (dinners, receptions, re
 
 **Agencies contacted:** Air Force, Dept of, Commerce, Dept of (DOC), Commodity Futures Trading Commission (CFTC), Consumer Financial Protection Bureau (CFPB), Defense, Dept of (DOD), Energy, Dept of, Export-Import Bank of the United States (EXIM Bank), Federal Accounting Standards Advisory Board (FASAB), Federal Deposit Insurance Corporation (FDIC), Federal Housing Finance Agency (FHFA) +20 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Finance%20and%20Tech%20Bundler%20Network) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Finance%20and%20Tech%20Bundler%20Network) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

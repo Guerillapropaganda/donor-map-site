@@ -155,12 +155,12 @@ The comparison to WinRed reveals the bipartisan nature of the grift. Both platfo
 ### Sources
 
 - ~~[OpenSecrets: ActBlue organization profile](https://www.opensecrets.org/orgs/actblue/summary?id=D000021585)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- [Campaign Legal Center: "One of the Largest Financial Operations in Politics Is Shrouded in Secrecy"](https://campaignlegal.org/update/one-largest-financial-operations-politics-shrouded-secrecy) (Tier 2)
-- [Texas Attorney General Ken Paxton: Investigation into ActBlue fraud and suspicious donations](https://www.texasattorneygeneral.gov/news/releases/investigation-actblue-attorney-general-ken-paxton-uncovers-large-number-suspicious-donations-made) (Tier 1)
-- [House Administration Committee: Chairman Steil releases findings from ActBlue subpoena](https://republicans-cha.house.gov/2024/12/chairman-steil-releases-findings-from-subpoena-of-actblue) (Tier 1)
-- [Washington Examiner: "Chaos and fraud: A look at the allegations facing ActBlue"](https://www.washingtonexaminer.com/news/investigations/3348194/allegations-facing-actblue) (Tier 2)
-- [CNN: "Political fundraisers WinRed and ActBlue are taking..."](https://www.cnn.com/interactive/2024/10/politics/political-fundraising-elderly-election-invs-dg/) (Tier 2)
-- [FEC Advisory Opinion 2014-13: Contributions earmarked for multiple committees](https://www.fec.gov/updates/ao-2014-13-contributions-earmarked-for-multiple-committees/) (Tier 1)
+- [Campaign Legal Center: "One of the Largest Financial Operations in Politics Is Shrouded in Secrecy"](https://campaignlegal.org/update/one-largest-financial-operations-politics-shrouded-secrecy) (Tier 2) (VERIFIED)
+- [Texas Attorney General Ken Paxton: Investigation into ActBlue fraud and suspicious donations](https://www.texasattorneygeneral.gov/news/releases/investigation-actblue-attorney-general-ken-paxton-uncovers-large-number-suspicious-donations-made) (Tier 1) (VERIFIED)
+- [House Administration Committee: Chairman Steil releases findings from ActBlue subpoena](https://republicans-cha.house.gov/2024/12/chairman-steil-releases-findings-from-subpoena-of-actblue) (Tier 1) (VERIFIED)
+- [Washington Examiner: "Chaos and fraud: A look at the allegations facing ActBlue"](https://www.washingtonexaminer.com/news/investigations/3348194/allegations-facing-actblue) (Tier 2) (NEEDS REVIEW)
+- [CNN: "Political fundraisers WinRed and ActBlue are taking..."](https://www.cnn.com/interactive/2024/10/politics/political-fundraising-elderly-election-invs-dg/) (Tier 2) (VERIFIED)
+- [FEC Advisory Opinion 2014-13: Contributions earmarked for multiple committees](https://www.fec.gov/updates/ao-2014-13-contributions-earmarked-for-multiple-committees/) (Tier 1) (VERIFIED)
 
 ---
 
@@ -179,7 +179,7 @@ The comparison to WinRed reveals the bipartisan nature of the grift. Both platfo
 - 2018-04-13 — **EX-99**: FORMC
 - 2019-09-23 — **EX-99**: FORMC
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22ActBlue%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22ActBlue%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Federal Register Activity
@@ -193,15 +193,15 @@ The comparison to WinRed reveals the bipartisan nature of the grift. Both platfo
 | Agencies | Federal Election Commission |
 
 **Recent regulatory activity:**
-- [Technological Modernization](https://www.federalregister.gov/documents/2024/01/02/2023-27908/technological-modernization) (2024-01-02) — Federal Election Commission
-- [Technological Modernization](https://www.federalregister.gov/documents/2022/09/08/2022-19382/technological-modernization) (2022-09-08) — Federal Election Commission
-- [Technological Modernization](https://www.federalregister.gov/documents/2016/11/02/2016-25102/technological-modernization) (2016-11-02) — Federal Election Commission
-- [Sunshine Act Meetings](https://www.federalregister.gov/documents/2015/01/12/2015-00367/sunshine-act-meetings) (2015-01-12) — Federal Election Commission
-- [Sunshine Act Meetings](https://www.federalregister.gov/documents/2014/09/16/2014-22087/sunshine-act-meetings) (2014-09-16) — Federal Election Commission
-- [Sunshine Act Notices](https://www.federalregister.gov/documents/2007/12/10/07-6011/sunshine-act-notices) (2007-12-10) — Federal Election Commission
+- [Technological Modernization](https://www.federalregister.gov/documents/2024/01/02/2023-27908/technological-modernization) (VERIFIED) (2024-01-02) — Federal Election Commission
+- [Technological Modernization](https://www.federalregister.gov/documents/2022/09/08/2022-19382/technological-modernization) (VERIFIED) (2022-09-08) — Federal Election Commission
+- [Technological Modernization](https://www.federalregister.gov/documents/2016/11/02/2016-25102/technological-modernization) (VERIFIED) (2016-11-02) — Federal Election Commission
+- [Sunshine Act Meetings](https://www.federalregister.gov/documents/2015/01/12/2015-00367/sunshine-act-meetings) (VERIFIED) (2015-01-12) — Federal Election Commission
+- [Sunshine Act Meetings](https://www.federalregister.gov/documents/2014/09/16/2014-22087/sunshine-act-meetings) (VERIFIED) (2014-09-16) — Federal Election Commission
+- [Sunshine Act Notices](https://www.federalregister.gov/documents/2007/12/10/07-6011/sunshine-act-notices) (VERIFIED) (2007-12-10) — Federal Election Commission
 - ... and 3 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22ActBlue%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22ActBlue%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -215,8 +215,8 @@ The comparison to WinRed reveals the bipartisan nature of the grift. Both platfo
 | Net Assets | $8.5M |
 | Officer Compensation | $191K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 455097038](https://projects.propublica.org/nonprofits/organizations/455097038) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F455097038_202312_990O_2025032023237934.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 455097038](https://projects.propublica.org/nonprofits/organizations/455097038) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F455097038_202312_990O_2025032023237934.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Federal Court Records (CourtListener)
@@ -235,7 +235,7 @@ The comparison to WinRed reveals the bipartisan nature of the grift. Both platfo
 - Campbell's Company v. Campbell (2025) — District Court, E.D. Michigan
 - Park 54 Restaurant Group LLC (2025) — United States Bankruptcy Court, D. Massachusetts
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22ActBlue%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22ActBlue%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 <!-- auto:courtlistener-cases pending-merge 2026-04-11 -->
@@ -275,14 +275,14 @@ The comparison to WinRed reveals the bipartisan nature of the grift. Both platfo
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/455097038/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/455097038/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/455097038/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/455097038/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/455097038/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/455097038/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/455097038/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/455097038/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/455097038/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/455097038/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/455097038) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/455097038) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Wikipedia
@@ -291,13 +291,13 @@ ActBlue is an American Democratic Party political action committee (PAC) and fun
 
 | Fact | Value |
 |------|-------|
-| Wikidata ID | [Q4676589](https://www.wikidata.org/wiki/Q4676589) |
+| Wikidata ID | [Q4676589](https://www.wikidata.org/wiki/Q4676589) (VERIFIED) |
 | Description | political nonprofit organization |
 | Founded | 2004-00-00 |
-| Website | [https://secure.actblue.com/](https://secure.actblue.com/) |
+| Website | [https://secure.actblue.com/](https://secure.actblue.com/) (NEEDS REVIEW) |
 
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/ActBlue) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q4676589) (Tier 2)
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/ActBlue) (Tier 3) (VERIFIED)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q4676589) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
 ### Campaign Finance (FEC)
@@ -322,5 +322,5 @@ ActBlue is an American Democratic Party political action committee (PAC) and fun
 | CITIZENS FOR BRAD SMITH | $70,900 | DEM |
 | DEM RISING 2026 | $33,345 | — |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=ActBlue) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=ActBlue) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->

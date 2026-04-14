@@ -83,7 +83,7 @@ Honeywell represents the permanent symbiosis between the defense industry and th
 
 ### Sources
 
-- [OpenSecrets: Honeywell PAC Profile](https://www.opensecrets.org/orgs/honeywell-international/summary?id=D000000334) (Tier 1)
+- [OpenSecrets: Honeywell PAC Profile](https://www.opensecrets.org/orgs/honeywell-international/summary?id=D000000334) (Tier 1) (VERIFIED)
 
 ---
 
@@ -112,15 +112,15 @@ Honeywell represents the permanent symbiosis between the defense industry and th
 | Agencies | Antitrust Division, Commerce Department, Environmental Protection Agency, Federal Aviation Administration, Industry and Security Bureau, International Trade Administration, Justice Department, National Highway Traffic Safety Administration +2 more |
 
 **Recent regulatory activity:**
-- [Protection of Stratospheric Ozone: Listing of Substitutes Under the Significant New Alternatives Policy Program in Refrigeration and Air Conditioning and Fire Suppression; Supplemental Notice of Proposed Rulemaking](https://www.federalregister.gov/documents/2026/04/06/2026-06665/protection-of-stratospheric-ozone-listing-of-substitutes-under-the-significant-new-alternatives) (2026-04-06) — Environmental Protection Agency
-- [Notice of Availability of Revision C to FAA Order 8100.15 Regarding Organization Designation Authorization (ODA) Procedures](https://www.federalregister.gov/documents/2025/11/21/2025-20520/notice-of-availability-of-revision-c-to-faa-order-810015-regarding-organization-designation) (2025-11-21) — Transportation Department
-- [Phasedown of Hydrofluorocarbons: Notice of 2026 Allowance Allocations for Production and Consumption of Regulated Substances Under the American Innovation and Manufacturing Act of 2020, and Notice of Final Actions Establishing Administrative Consequences](https://www.federalregister.gov/documents/2025/11/20/2025-20439/phasedown-of-hydrofluorocarbons-notice-of-2026-allowance-allocations-for-production-and-consumption) (2025-11-20) — Environmental Protection Agency
-- [Protection of Stratospheric Ozone: Listing of Substitutes Under the Significant New Alternatives Policy Program in Refrigeration and Air Conditioning and Fire Suppression](https://www.federalregister.gov/documents/2025/11/10/2025-19812/protection-of-stratospheric-ozone-listing-of-substitutes-under-the-significant-new-alternatives) (2025-11-10) — Environmental Protection Agency
-- [In the Matter of Honeywell International, Inc.; Direct and Indirect Transfers of License](https://www.federalregister.gov/documents/2025/06/23/2025-11486/in-the-matter-of-honeywell-international-inc-direct-and-indirect-transfers-of-license) (2025-06-23) — Nuclear Regulatory Commission
-- [Honeywell International Inc.; Consideration of Approval of Transfer of Control of Licenses](https://www.federalregister.gov/documents/2025/04/01/2025-05565/honeywell-international-inc-consideration-of-approval-of-transfer-of-control-of-licenses) (2025-04-01) — Nuclear Regulatory Commission
+- [Protection of Stratospheric Ozone: Listing of Substitutes Under the Significant New Alternatives Policy Program in Refrigeration and Air Conditioning and Fire Suppression; Supplemental Notice of Proposed Rulemaking](https://www.federalregister.gov/documents/2026/04/06/2026-06665/protection-of-stratospheric-ozone-listing-of-substitutes-under-the-significant-new-alternatives) (VERIFIED) (2026-04-06) — Environmental Protection Agency
+- ~~[Notice of Availability of Revision C to FAA Order 8100.15 Regarding Organization Designation Authorization (ODA) Procedures](https://www.federalregister.gov/documents/2025/11/21/2025-20520/notice-of-availability-of-revision-c-to-faa-order-810015-regarding-organization-designation)~~ (URL broken, archived by Ops) (2025-11-21) — Transportation Department
+- [Phasedown of Hydrofluorocarbons: Notice of 2026 Allowance Allocations for Production and Consumption of Regulated Substances Under the American Innovation and Manufacturing Act of 2020, and Notice of Final Actions Establishing Administrative Consequences](https://www.federalregister.gov/documents/2025/11/20/2025-20439/phasedown-of-hydrofluorocarbons-notice-of-2026-allowance-allocations-for-production-and-consumption) (VERIFIED) (2025-11-20) — Environmental Protection Agency
+- [Protection of Stratospheric Ozone: Listing of Substitutes Under the Significant New Alternatives Policy Program in Refrigeration and Air Conditioning and Fire Suppression](https://www.federalregister.gov/documents/2025/11/10/2025-19812/protection-of-stratospheric-ozone-listing-of-substitutes-under-the-significant-new-alternatives) (VERIFIED) (2025-11-10) — Environmental Protection Agency
+- [In the Matter of Honeywell International, Inc.; Direct and Indirect Transfers of License](https://www.federalregister.gov/documents/2025/06/23/2025-11486/in-the-matter-of-honeywell-international-inc-direct-and-indirect-transfers-of-license) (VERIFIED) (2025-06-23) — Nuclear Regulatory Commission
+- ~~[Honeywell International Inc.; Consideration of Approval of Transfer of Control of Licenses](https://www.federalregister.gov/documents/2025/04/01/2025-05565/honeywell-international-inc-consideration-of-approval-of-transfer-of-control-of-licenses)~~ (URL broken, archived by Ops) (2025-04-01) — Nuclear Regulatory Commission
 - ... and 714 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Honeywell%20International%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Honeywell%20International%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### Federal Court Records (CourtListener)
@@ -139,7 +139,7 @@ Honeywell represents the permanent symbiosis between the defense industry and th
 - Atmus Filtration, Inc. v. United States (2026) — United States Court of International Trade
 - Funderburk v. Honeywell International, Inc. Benefit Plan (2026) — District Court, W.D. North Carolina
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Honeywell%20International%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Honeywell%20International%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -198,7 +198,7 @@ Honeywell represents the permanent symbiosis between the defense industry and th
 | Commercial and Institutional Building Construction (236220) | $175.4M |
 | Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology) (541715) | $154.9M |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Federal Spending (USASpending)
@@ -235,7 +235,7 @@ PROJECT TITLE: ADVANCED ELECTRIC PROPULS |
 | $6.6M | Department of Health and Human Services | A WEARABLE FUNCTIONAL-BRAIN-IMAGING SYSTEM WITH FULL-HEAD COVERAGE AND ENHANCED SPATIOTEMPORAL-RESOL |
 | $4.6M | Department of Defense | JOINT MULTI-ROLE TECHNOLOGY DEMONSTRATOR MISSION SYSTEMS ARCHITECTURE DEMONSTRATION JCA PRODUCT DEVE |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/a281345d-2343-2f48-369a-746f3ec8888f-P/latest) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/a281345d-2343-2f48-369a-746f3ec8888f-P/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Product Recalls (CPSC)
@@ -249,15 +249,15 @@ PROJECT TITLE: ADVANCED ELECTRIC PROPULS |
 
 **Recent recalls:**
 
-- [Honeywell Recalls System Sensor L-Series Low Frequency Fire Alarm Sounders and Strobes Due to Risk of Failure to Alert Consumers to a Fire](https://www.cpsc.gov/Recalls/24158) (2024-03-14) — The sounders and strobes can malfunction and cause the fire alarm system to fail to alert consumers of a fire.
-- [Honeywell Recalls Gamewell-FCI and Notifier Photoelectric Smoke Sensors Sold with Fire Alarm Systems Due to Failure to Alert of a Fire](https://www.cpsc.gov/Recalls/19141) (2019-06-21) — The photoelectric smoke sensor can malfunction and cause the fire alarm system to fail to alert occupants in commercial buildings of a fire.
-- [Honeywell International Recalls SWIFT® Wireless Gateway Sold with Fire Alarm Systems Due To Failure to Communicate in Fire](https://www.cpsc.gov/Recalls/17151) (2017-05-12) — The smoke detectors connected to the gateway can fail to activate properly when significant environmental contaminants are present, posing a risk that consumers will not be alerted to a fire.
-- [Honeywell International Recalls Vista Security System Control Panels Due to Failure of Panic Feature](https://www.cpsc.gov/Recalls/09734) (2009-04-07) — Security systems programmed with a wireless silent panic feature can fail to operate properly the first time the panic button is pressed on the remote transmitter. If the panic button is pressed only once, this can unexpectedly leave residents without a triggered alarm during an emergency.
-- [Honeywell Recalls Gas Valves Used in Decorative Fireplaces and Stoves Due To Burn Hazard](https://www.cpsc.gov/Recalls/08003) (2007-10-02) — The activation knob on the valve can be left in a position between OFF and PILOT, which can cause the pilot gas to leak and accumulate prior to burner ignition. This can pose the risk of thermal burns to consumers when they light the pilot of the fireplace or stove.
-- [Apex Security Systems with XICOR Memory Chip Recalled by Honeywell International; Could Fail to Warn of Fire, Intrusion](https://www.cpsc.gov/Recalls/07575) (2007-09-06) — The memory chip in the control panel could lose programmed values in the event of a power outage exceeding four hours. If this occurs, the panel could fail to communicate with a central monitoring station and not sound an audible notification in the event of a fire or home intrusion.
+- ~~[Honeywell Recalls System Sensor L-Series Low Frequency Fire Alarm Sounders and Strobes Due to Risk of Failure to Alert Consumers to a Fire](https://www.cpsc.gov/Recalls/24158)~~ (URL broken, archived by Ops) (2024-03-14) — The sounders and strobes can malfunction and cause the fire alarm system to fail to alert consumers of a fire.
+- ~~[Honeywell Recalls Gamewell-FCI and Notifier Photoelectric Smoke Sensors Sold with Fire Alarm Systems Due to Failure to Alert of a Fire](https://www.cpsc.gov/Recalls/19141)~~ (URL broken, archived by Ops) (2019-06-21) — The photoelectric smoke sensor can malfunction and cause the fire alarm system to fail to alert occupants in commercial buildings of a fire.
+- ~~[Honeywell International Recalls SWIFT® Wireless Gateway Sold with Fire Alarm Systems Due To Failure to Communicate in Fire](https://www.cpsc.gov/Recalls/17151)~~ (URL broken, archived by Ops) (2017-05-12) — The smoke detectors connected to the gateway can fail to activate properly when significant environmental contaminants are present, posing a risk that consumers will not be alerted to a fire.
+- ~~[Honeywell International Recalls Vista Security System Control Panels Due to Failure of Panic Feature](https://www.cpsc.gov/Recalls/09734)~~ (URL broken, archived by Ops) (2009-04-07) — Security systems programmed with a wireless silent panic feature can fail to operate properly the first time the panic button is pressed on the remote transmitter. If the panic button is pressed only once, this can unexpectedly leave residents without a triggered alarm during an emergency.
+- ~~[Honeywell Recalls Gas Valves Used in Decorative Fireplaces and Stoves Due To Burn Hazard](https://www.cpsc.gov/Recalls/08003)~~ (URL broken, archived by Ops) (2007-10-02) — The activation knob on the valve can be left in a position between OFF and PILOT, which can cause the pilot gas to leak and accumulate prior to burner ignition. This can pose the risk of thermal burns to consumers when they light the pilot of the fireplace or stove.
+- ~~[Apex Security Systems with XICOR Memory Chip Recalled by Honeywell International; Could Fail to Warn of Fire, Intrusion](https://www.cpsc.gov/Recalls/07575)~~ (URL broken, archived by Ops) (2007-09-06) — The memory chip in the control panel could lose programmed values in the event of a power outage exceeding four hours. If this occurs, the panel could fail to communicate with a central monitoring station and not sound an audible notification in the event of a fire or home intrusion.
 - ... and 1 more
 
-- [Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Honeywell%20International) (Tier 1)
+- ~~[Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Honeywell%20International)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:cpsc-recalls end -->
 
 ### DOJ Press Releases
@@ -267,7 +267,7 @@ PROJECT TITLE: ADVANCED ELECTRIC PROPULS |
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [5493009W7CBW32FX0K77](https://search.gleif.org/#/record/5493009W7CBW32FX0K77) |
+| LEI | [5493009W7CBW32FX0K77](https://search.gleif.org/#/record/5493009W7CBW32FX0K77) (VERIFIED) |
 | Legal Name | HONEYWELL INTERNATIONAL SÀRL |
 | Jurisdiction | CH |
 | Entity Status | ACTIVE |
@@ -277,8 +277,8 @@ PROJECT TITLE: ADVANCED ELECTRIC PROPULS |
 
 **Ownership chain:**
 
-- Ultimate Parent: [HONEYWELL INTERNATIONAL INC.](https://search.gleif.org/#/record/ISRPG12PN4EIEOEMW547) (US-DE)
+- Ultimate Parent: [HONEYWELL INTERNATIONAL INC.](https://search.gleif.org/#/record/ISRPG12PN4EIEOEMW547) (VERIFIED) (US-DE)
 - HONEYWELL INTERNATIONAL SÀRL (this entity)
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->

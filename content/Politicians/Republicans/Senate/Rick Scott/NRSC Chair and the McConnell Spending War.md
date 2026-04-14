@@ -63,7 +63,7 @@ Scott then challenged McConnell for Senate Republican leadership — and lost de
 
 ### Sources
 
-- [CNN: Republicans anxious about cash-strapped NRSC amid Scott's feud with McConnell](https://www.cnn.com/2022/09/06/politics/rick-scott-mitch-mcconnell-republican-senate-fundraising) (Tier 2)
-- [Orlando Sentinel: How Rick Scott-led group burned through millions in Senate campaign funds](https://www.orlandosentinel.com/2022/09/06/how-rick-scott-led-group-burned-through-millions-in-senate-campaign-funds/) (Tier 2)
-- [Detroit News: GOP's lackluster fundraising spurs post-election infighting](https://www.detroitnews.com/story/news/nation/2022/11/21/gops-lackluster-fundraising-spurs-post-election-infighting/69667317007/) (Tier 2)
-- [Washington Post: GOP spending under fire as Senate hopefuls seek rescue](https://www.washingtonpost.com/politics/2022/08/19/gop-senate-rescue-midterms/) (Tier 2)
+- [CNN: Republicans anxious about cash-strapped NRSC amid Scott's feud with McConnell](https://www.cnn.com/2022/09/06/politics/rick-scott-mitch-mcconnell-republican-senate-fundraising) (Tier 2) (VERIFIED)
+- [Orlando Sentinel: How Rick Scott-led group burned through millions in Senate campaign funds](https://www.orlandosentinel.com/2022/09/06/how-rick-scott-led-group-burned-through-millions-in-senate-campaign-funds/) (Tier 2) (VERIFIED)
+- ~~[Detroit News: GOP's lackluster fundraising spurs post-election infighting](https://www.detroitnews.com/story/news/nation/2022/11/21/gops-lackluster-fundraising-spurs-post-election-infighting/69667317007/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Washington Post: GOP spending under fire as Senate hopefuls seek rescue](https://www.washingtonpost.com/politics/2022/08/19/gop-senate-rescue-midterms/) (Tier 2) (VERIFIED)

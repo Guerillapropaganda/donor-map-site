@@ -100,15 +100,15 @@ Bianco is the most prominent California example. He is also the one running for 
 ---
 
 ### Sources
-- [NPR. Bianco Oath Keepers membership](https://www.npr.org/2021/10/06/1043651361/oath-keepers-california-sheriff-chad-bianco-january-6-us-capitol) (Tier 2)
-- [ABC7. Bianco acknowledges membership](https://abc7.com/riverside-county-sherrif-chad-bianco-oath-keepers-membership-hack/11087854/) (Tier 2)
-- [Washington Post. California sheriff admits Oath Keepers membership](https://www.washingtonpost.com/nation/2021/10/07/riverside-county-sheriff-chad-bianco/) (Tier 2)
-- [LAist. Bianco defends Oath Keepers, CSPOA connection](https://laist.com/news/criminal-justice/riverside-sheriff-chad-bianco-once-was-an-oath-keeper-defends-the-extremist-group) (Tier 2)
-- [ADL. Oath Keepers data leak report](https://www.adl.org/resources/report/oath-keepers-data-leak-unmasking-extremism-public-life) (Tier 2)
-- [PBS NewsHour, law enforcement on Oath Keepers list](https://www.pbs.org/newshour/politics/elected-officials-police-officers-and-members-of-military-on-oath-keepers-membership-list-report-says) (Tier 2)
-- [ADL. Oath Keepers backgrounder](https://www.adl.org/resources/backgrounder/oath-keepers) (Tier 2)
-- [GW Program on Extremism. Oath Keepers](https://extremism.gwu.edu/oath-keepers) (Tier 1)
-- [PBS. Rhodes sentencing](https://www.pbs.org/newshour/politics/oath-keepers-founder-sentenced-to-18-years-for-seditious-conspiracy-in-jan-6-capitol-attack) (Tier 2)
+- [NPR. Bianco Oath Keepers membership](https://www.npr.org/2021/10/06/1043651361/oath-keepers-california-sheriff-chad-bianco-january-6-us-capitol) (Tier 2) (VERIFIED)
+- [ABC7. Bianco acknowledges membership](https://abc7.com/riverside-county-sherrif-chad-bianco-oath-keepers-membership-hack/11087854/) (Tier 2) (NEEDS REVIEW)
+- [Washington Post. California sheriff admits Oath Keepers membership](https://www.washingtonpost.com/nation/2021/10/07/riverside-county-sheriff-chad-bianco/) (Tier 2) (VERIFIED)
+- [LAist. Bianco defends Oath Keepers, CSPOA connection](https://laist.com/news/criminal-justice/riverside-sheriff-chad-bianco-once-was-an-oath-keeper-defends-the-extremist-group) (Tier 2) (VERIFIED)
+- [ADL. Oath Keepers data leak report](https://www.adl.org/resources/report/oath-keepers-data-leak-unmasking-extremism-public-life) (Tier 2) (VERIFIED)
+- [PBS NewsHour, law enforcement on Oath Keepers list](https://www.pbs.org/newshour/politics/elected-officials-police-officers-and-members-of-military-on-oath-keepers-membership-list-report-says) (Tier 2) (VERIFIED)
+- [ADL. Oath Keepers backgrounder](https://www.adl.org/resources/backgrounder/oath-keepers) (Tier 2) (VERIFIED)
+- [GW Program on Extremism. Oath Keepers](https://extremism.gwu.edu/oath-keepers) (Tier 1) (VERIFIED)
+- [PBS. Rhodes sentencing](https://www.pbs.org/newshour/politics/oath-keepers-founder-sentenced-to-18-years-for-seditious-conspiracy-in-jan-6-capitol-attack) (Tier 2) (VERIFIED)
 
 ### Legislative Activity (Congress.gov)
 
@@ -117,5 +117,5 @@ Bianco is the most prominent California example. He is also the one running for 
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Oath Keepers Membership and the Constitutional Sheriff Movement](https://www.congress.gov/member/c001091) (Tier 1)
+- ~~[Congress.gov: Oath Keepers Membership and the Constitutional Sheriff Movement](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->

@@ -54,9 +54,9 @@ Ballard Partners is a pure distribution mechanism for elite legal and political 
 
 ### Sources
 
-- [ProPublica: How Trump Has Exploited Pardons to Reward Allies and Supporters](https://www.propublica.org/article/trump-pardons-clemency-george-santos-ed-martin) (Tier 2)
-- [FARA Database: Ballard Partners Foreign Lobbying Filings](https://efile.fara.gov/efile/Submissions.aspx) (Tier 1)
-- [OpenSecrets: Ballard Partners Lobbying Profile](https://www.opensecrets.org/orgs/ballard-partners/summary?id=D000037635) (Tier 1)
+- [ProPublica: How Trump Has Exploited Pardons to Reward Allies and Supporters](https://www.propublica.org/article/trump-pardons-clemency-george-santos-ed-martin) (Tier 2) (VERIFIED)
+- ~~[FARA Database: Ballard Partners Foreign Lobbying Filings](https://efile.fara.gov/efile/Submissions.aspx)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [OpenSecrets: Ballard Partners Lobbying Profile](https://www.opensecrets.org/orgs/ballard-partners/summary?id=D000037635) (Tier 1) (VERIFIED)
 
 ---
 
@@ -64,7 +64,7 @@ Ballard Partners is a pure distribution mechanism for elite legal and political 
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [254900Z96JBXAI3OVT57](https://search.gleif.org/#/record/254900Z96JBXAI3OVT57) |
+| LEI | [254900Z96JBXAI3OVT57](https://search.gleif.org/#/record/254900Z96JBXAI3OVT57) (VERIFIED) |
 | Legal Name | BBCRV PARTNERS LLC |
 | Jurisdiction | US-TX |
 | Entity Status | ACTIVE |
@@ -72,7 +72,7 @@ Ballard Partners is a pure distribution mechanism for elite legal and political 
 | Registration | ISSUED |
 | Last Updated | 2025-04-09T13:37:11Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### SEC Filing Activity
@@ -90,5 +90,5 @@ Ballard Partners is a pure distribution mechanism for elite legal and political 
 - 2024-03-12 — **EX-99.3**: EX-99.3
 - 2023-03-17 — **EX-99.3**: EX-99.3
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Ballard%20Partners%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Ballard%20Partners%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->

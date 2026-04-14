@@ -200,27 +200,27 @@ This is what $23 million a year buys in a world where Patton Boggs once billed $
 
 ### Sources
 
-- [Senate LDA Filings: Squire Patton Boggs Lobbying Profile — Summary](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA Filings: Squire Patton Boggs Lobbyists 2023 — Revolving Door Data](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA Filings: Squire Patton Boggs Issues Lobbied 2023](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Bloomberg Law: Trump Defense Secretary Esper Joins Squire Patton Boggs](https://news.bloomberglaw.com/business-and-practice/trump-defense-secretary-esper-joins-squire-patton-boggs) (Tier 2)
-- [The Hill: Lobbying World — DHS assistant secretary jumps to Squire Patton Boggs](https://thehill.com/homenews/4465281-lobbying-world-dhs-assistant-secretary-jumps-to-squire-patton-boggs/) (Tier 2)
-- [Bloomberg Law: Assange Allies Turn to Squire Patton Boggs to Help Lobby DOJ](https://news.bloomberglaw.com/us-law-week/assange-allies-turn-to-squire-patton-boggs-to-help-lobby-doj) (Tier 2)
-- [Prism Reports: RSS hires U.S. lobbyists for congressional influence campaign](https://prismreports.org/2025/11/12/rss-squire-patton-boggs-lobbying-congress/) (Tier 2)
-- [Prism Reports: RSS ends congressional lobbying campaign in U.S.](https://prismreports.org/2026/01/29/rss-lobbying-terminated/) (Tier 2)
-- [Middle East Eye: Khashoggi — US firm ends lobbying contract with Saudi centre linked to murder](https://www.middleeasteye.net/news/khashoggi-saudi-lobby-firm-ends-contract) (Tier 2)
-- [Wikipedia: Squire Patton Boggs](https://en.wikipedia.org/wiki/Squire_Patton_Boggs) (Tier 3)
-- [The Intercept: How Washington Mourned Tommy Boggs, Friend to the Worst People in the World](https://theintercept.com/2015/01/30/washington-mourned-tommy-boggs-friend-worst-people-world/) (Tier 2)
-- [NPR: Tommy Boggs, Influential Lobbyist, Dies At 73](https://www.npr.org/sections/itsallpolitics/2014/09/15/348775527/tommy-boggs-influential-lobbyist-dies-at-73) (Tier 2)
-- [Washington Examiner: Chinese drone maker ramped up lobbying against ban](https://www.washingtonexaminer.com/policy/foreign/chinese-drone-maker-ramped-up-lobbying-ban-drones) (Tier 2)
-- [Bloomberg Law: Trump Defense Secretary Esper Joins Squire Patton Boggs (part-time)](https://news.bloomberglaw.com/business-and-practice/trump-defense-secretary-esper-joins-squire-patton-boggs) (Tier 2)
-- [Canadian Lawyer: Former US Defense Secretary Mark Esper joins Squire Patton Boggs as senior advisor](https://www.canadianlawyermag.com/news/international/former-us-defense-secretary-mark-esper-joins-squire-patton-boggs-as-senior-advisor/388839) (Tier 2)
-- [Senate LDA Filings: Squire Patton Boggs Lobbying Profile — 2025](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Prism Reports: RSS hires U.S. lobbyists for congressional influence campaign (December 2025)](https://prismreports.org/2025/11/12/rss-squire-patton-boggs-lobbying-congress/) (Tier 2)
-- [Prism Reports: RSS ends congressional lobbying campaign in U.S. (January 2026)](https://prismreports.org/2026/01/29/rss-lobbying-terminated/) (Tier 2)
-- [The Washington Post: FCC bans new DJI Chinese drones, citing national security (December 2025)](https://www.washingtonpost.com/national-security/2025/12/23/dji-drone-fcc-ban-national-security/) (Tier 2)
-- [CNN: US bans new foreign drone models in a blow to Chinese giant DJI (December 2025)](https://www.cnn.com/2025/12/23/business/us-ban-foreign-drones-dji-intl-hnk) (Tier 2)
-- [Washington Examiner: Chinese drone maker ramped up lobbying against ban (2024)](https://www.washingtonexaminer.com/policy/foreign/chinese-drone-maker-ramped-up-lobbying-ban-drones) (Tier 2)
+- [Senate LDA Filings: Squire Patton Boggs Lobbying Profile — Summary](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: Squire Patton Boggs Lobbyists 2023 — Revolving Door Data](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: Squire Patton Boggs Issues Lobbied 2023](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Bloomberg Law: Trump Defense Secretary Esper Joins Squire Patton Boggs](https://news.bloomberglaw.com/business-and-practice/trump-defense-secretary-esper-joins-squire-patton-boggs) (Tier 2) (VERIFIED)
+- ~~[The Hill: Lobbying World — DHS assistant secretary jumps to Squire Patton Boggs](https://thehill.com/homenews/4465281-lobbying-world-dhs-assistant-secretary-jumps-to-squire-patton-boggs/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Bloomberg Law: Assange Allies Turn to Squire Patton Boggs to Help Lobby DOJ](https://news.bloomberglaw.com/us-law-week/assange-allies-turn-to-squire-patton-boggs-to-help-lobby-doj) (Tier 2) (VERIFIED)
+- [Prism Reports: RSS hires U.S. lobbyists for congressional influence campaign](https://prismreports.org/2025/11/12/rss-squire-patton-boggs-lobbying-congress/) (Tier 2) (VERIFIED)
+- [Prism Reports: RSS ends congressional lobbying campaign in U.S.](https://prismreports.org/2026/01/29/rss-lobbying-terminated/) (Tier 2) (VERIFIED)
+- [Middle East Eye: Khashoggi — US firm ends lobbying contract with Saudi centre linked to murder](https://www.middleeasteye.net/news/khashoggi-saudi-lobby-firm-ends-contract) (Tier 2) (VERIFIED)
+- [Wikipedia: Squire Patton Boggs](https://en.wikipedia.org/wiki/Squire_Patton_Boggs) (Tier 3) (VERIFIED)
+- [The Intercept: How Washington Mourned Tommy Boggs, Friend to the Worst People in the World](https://theintercept.com/2015/01/30/washington-mourned-tommy-boggs-friend-worst-people-world/) (Tier 2) (VERIFIED)
+- [NPR: Tommy Boggs, Influential Lobbyist, Dies At 73](https://www.npr.org/sections/itsallpolitics/2014/09/15/348775527/tommy-boggs-influential-lobbyist-dies-at-73) (Tier 2) (VERIFIED)
+- [Washington Examiner: Chinese drone maker ramped up lobbying against ban](https://www.washingtonexaminer.com/policy/foreign/chinese-drone-maker-ramped-up-lobbying-ban-drones) (Tier 2) (NEEDS REVIEW)
+- [Bloomberg Law: Trump Defense Secretary Esper Joins Squire Patton Boggs (part-time)](https://news.bloomberglaw.com/business-and-practice/trump-defense-secretary-esper-joins-squire-patton-boggs) (Tier 2) (VERIFIED)
+- [Canadian Lawyer: Former US Defense Secretary Mark Esper joins Squire Patton Boggs as senior advisor](https://www.canadianlawyermag.com/news/international/former-us-defense-secretary-mark-esper-joins-squire-patton-boggs-as-senior-advisor/388839) (Tier 2) (VERIFIED)
+- [Senate LDA Filings: Squire Patton Boggs Lobbying Profile — 2025](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Prism Reports: RSS hires U.S. lobbyists for congressional influence campaign (December 2025)](https://prismreports.org/2025/11/12/rss-squire-patton-boggs-lobbying-congress/) (Tier 2) (VERIFIED)
+- [Prism Reports: RSS ends congressional lobbying campaign in U.S. (January 2026)](https://prismreports.org/2026/01/29/rss-lobbying-terminated/) (Tier 2) (VERIFIED)
+- [The Washington Post: FCC bans new DJI Chinese drones, citing national security (December 2025)](https://www.washingtonpost.com/national-security/2025/12/23/dji-drone-fcc-ban-national-security/) (Tier 2) (VERIFIED)
+- [CNN: US bans new foreign drone models in a blow to Chinese giant DJI (December 2025)](https://www.cnn.com/2025/12/23/business/us-ban-foreign-drones-dji-intl-hnk) (Tier 2) (VERIFIED)
+- [Washington Examiner: Chinese drone maker ramped up lobbying against ban (2024)](https://www.washingtonexaminer.com/policy/foreign/chinese-drone-maker-ramped-up-lobbying-ban-drones) (Tier 2) (NEEDS REVIEW)
 
 ### Foreign Agent Activity (FARA)
 <!-- auto:fara-foreign-agents start -->
@@ -242,14 +242,14 @@ This is what $23 million a year buys in a world where Patton Boggs once billed $
 - Embassy of the Republic of Korea (KOREA SOUTH)
 - Palestinian Authority (PALESTINE)
 
-- [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME,P200_COUNTRY:Squire%20Patton%20Boggs,) (Tier 1)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME,P200_COUNTRY:Squire%20Patton%20Boggs,)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:fara-foreign-agents end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [259400PVBJ4RB4LUZ721](https://search.gleif.org/#/record/259400PVBJ4RB4LUZ721) |
+| LEI | [259400PVBJ4RB4LUZ721](https://search.gleif.org/#/record/259400PVBJ4RB4LUZ721) (VERIFIED) |
 | Legal Name | SQUIRE PATTON BOGGS KRZEŚNIAK SPÓŁKA KOMANDYTOWA |
 | Jurisdiction | PL |
 | Entity Status | ACTIVE |
@@ -257,7 +257,7 @@ This is what $23 million a year buys in a world where Patton Boggs once billed $
 | Registration | LAPSED |
 | Last Updated | 2023-04-05T21:49:39Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### DOJ Press Releases
@@ -279,5 +279,5 @@ This is what $23 million a year buys in a world where Patton Boggs once billed $
 - IN RE: The University of Phoenix, Inc., Data Breach Litigation (2026) — United States Judicial Panel on Multidistrict Litigation
 - Urban Red LLC (2026) — United States Bankruptcy Court, E.D. North Carolina
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Squire%20Patton%20Boggs%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Squire%20Patton%20Boggs%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->

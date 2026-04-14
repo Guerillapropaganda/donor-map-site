@@ -53,5 +53,5 @@ Every Beshear victory occurred when the Republican base was not mobilized by a p
 
 ### Sources
 
-- [NPR: Kentucky election results: Gov. Andy Beshear wins reelection](https://www.npr.org/2023/11/07/1209090515/2023-results-key-kentucky-elections) (Tier 2)
-- [Ballotpedia: Andy Beshear political profile](https://ballotpedia.org/Andy_Beshear) (Tier 3)
+- [NPR: Kentucky election results: Gov. Andy Beshear wins reelection](https://www.npr.org/2023/11/07/1209090515/2023-results-key-kentucky-elections) (Tier 2) (VERIFIED)
+- [Ballotpedia: Andy Beshear political profile](https://ballotpedia.org/Andy_Beshear) (Tier 3) (VERIFIED)

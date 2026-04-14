@@ -57,7 +57,7 @@ James Carville: Pritzker "has good shot at 2028 Democratic nomination." CNN: "at
 
 ### Sources
 
-- [Illinois Policy: Pritzker $323M on 2 campaigns](https://www.illinoispolicy.org/pritzker-spends-323m-on-2-campaigns-for-governor/) (Tier 2)
-- [Chicago Tribune: Pritzker $350M total spending](https://www.chicagotribune.com/2023/01/18/new-records-show-gov-jb-pritzker-has-spent-350-million-to-win-his-two-terms-in-office/) (Tier 2)
-- [NBC News: Pritzker DGA spending](https://nbcnews.com/?q=323%20Million%20Dollar%20Self-Funded%20Governor) (Tier 2)
-- [CNN: Pritzker 2028 positioning and Illinois Senate primary](https://www.cnn.com/2026/03/18/politics/jb-pritzker-illinois-senate-primary-2028-plans) (Tier 2)
+- [Illinois Policy: Pritzker $323M on 2 campaigns](https://www.illinoispolicy.org/pritzker-spends-323m-on-2-campaigns-for-governor/) (Tier 2) (VERIFIED)
+- [Chicago Tribune: Pritzker $350M total spending](https://www.chicagotribune.com/2023/01/18/new-records-show-gov-jb-pritzker-has-spent-350-million-to-win-his-two-terms-in-office/) (Tier 2) (VERIFIED)
+- [NBC News: Pritzker DGA spending](https://nbcnews.com/?q=323%20Million%20Dollar%20Self-Funded%20Governor) (Tier 2) (NEEDS REVIEW)
+- [CNN: Pritzker 2028 positioning and Illinois Senate primary](https://www.cnn.com/2026/03/18/politics/jb-pritzker-illinois-senate-primary-2028-plans) (Tier 2) (VERIFIED)

@@ -51,8 +51,8 @@ Trial lawyer political spending is concentrated around blocking tort reform legi
 
 ### Sources
 
-- [OpenSecrets: American Association for Justice PAC](https://www.opensecrets.org/orgs/american-assn-for-justice/summary?id=D000000065) (Tier 1)
-- [Ballotpedia: Tort reform](https://ballotpedia.org/Trial_Lawyers_Fund) (Tier 3)
+- [OpenSecrets: American Association for Justice PAC](https://www.opensecrets.org/orgs/american-assn-for-justice/summary?id=D000000065) (Tier 1) (VERIFIED)
+- [Ballotpedia: Tort reform](https://ballotpedia.org/Trial_Lawyers_Fund) (Tier 3) (VERIFIED)
 
 ### Financial Overview (990 Filing — 2023)
 <!-- auto:propublica-990 start -->
@@ -65,8 +65,8 @@ Trial lawyer political spending is concentrated around blocking tort reform legi
 | Total Expenses | $400K |
 | Net Assets | $222K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 371064396](https://projects.propublica.org/nonprofits/organizations/371064396) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_02_2024_prefixes_31-38%2F371064396_202306_990_2024022022293832.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 371064396](https://projects.propublica.org/nonprofits/organizations/371064396) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_02_2024_prefixes_31-38%2F371064396_202306_990_2024022022293832.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Federal Court Records (CourtListener)
@@ -80,7 +80,7 @@ Trial lawyer political spending is concentrated around blocking tort reform legi
 **Notable cases:**
 - Forsythe v. Sun Life Financial Inc. (2004) — District Court, D. Massachusetts
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Trial%20Lawyers%20Fund%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Trial%20Lawyers%20Fund%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Tax Filings (IRS 990)
@@ -97,12 +97,12 @@ Trial lawyer political spending is concentrated around blocking tort reform legi
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/371064396/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/371064396/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/371064396/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/371064396/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/371064396/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/371064396/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/371064396/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/371064396/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/371064396/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/371064396/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/371064396) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/371064396) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->

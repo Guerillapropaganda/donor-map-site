@@ -123,18 +123,18 @@ The 2025 mayoral race made the class dynamics explicit. Cuomo received endorseme
 
 ## Sources
 
-- [Britannica: Andrew Cuomo](https://www.britannica.com/biography/Andrew-Cuomo) (Tier 3)
-- [Ballotpedia: Andrew Cuomo](https://ballotpedia.org/Andrew_Cuomo) (Tier 3)
-- [Wikipedia: Andrew Cuomo](https://en.wikipedia.org/wiki/Andrew_Cuomo) (Tier 4)
-- [NYT: Cuomo tax return, millionaire income](https://www.nytimes.com/2025/10/29/nyregion/cuomo-tax-return-millionaire.html) (Tier 2)
-- [NYT: Cuomo campaign finance](https://www.nytimes.com/2025/06/24/nyregion/andrew-cuomo-campaign-finance.html) (Tier 2)
-- [NYT: Cuomo DOJ investigation](https://www.nytimes.com/2025/05/20/us/politics/andrew-cuomo-investigation-doj.html) (Tier 2)
-- [Politico: Cuomo political career reaches operatic conclusion](https://www.politico.com/news/2025/11/05/andrew-cuomos-political-career-reaches-an-operatic-conclusion-00637590) (Tier 2)
-- [USA Today: NYC mayor election results](https://www.usatoday.com/story/news/politics/elections/2025/11/04/nyc-mayor-election-mamdani-vs-cuomo-results/86572353007/) (Tier 2)
-- [CNBC: Mamdani/Cuomo mayoral race, billionaire spending](https://www.cnbc.com/2025/10/30/mamdani-cuomo-nyc-mayor-bid-billionaire-spending.html) (Tier 2)
-- [Fox News: Cuomo endorsements and polls](https://www.foxnews.com/politics/cuomo-picks-up-endorsements-rises-polls-comeback-campaign-nears-finish-line) (Tier 3)
-- [Fox5NY: Who is Andrew Cuomo](https://www.fox5ny.com/news/who-is-andrew-cuomo) (Tier 3)
-- [Andrew Cuomo: Campaign website](https://www.andrewcuomo.com) (Tier 3)
+- [Britannica: Andrew Cuomo](https://www.britannica.com/biography/Andrew-Cuomo) (Tier 3) (VERIFIED)
+- [Ballotpedia: Andrew Cuomo](https://ballotpedia.org/Andrew_Cuomo) (Tier 3) (VERIFIED)
+- [Wikipedia: Andrew Cuomo](https://en.wikipedia.org/wiki/Andrew_Cuomo) (Tier 4) (VERIFIED)
+- ~~[NYT: Cuomo tax return, millionaire income](https://www.nytimes.com/2025/10/29/nyregion/cuomo-tax-return-millionaire.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[NYT: Cuomo campaign finance](https://www.nytimes.com/2025/06/24/nyregion/andrew-cuomo-campaign-finance.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[NYT: Cuomo DOJ investigation](https://www.nytimes.com/2025/05/20/us/politics/andrew-cuomo-investigation-doj.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Politico: Cuomo political career reaches operatic conclusion](https://www.politico.com/news/2025/11/05/andrew-cuomos-political-career-reaches-an-operatic-conclusion-00637590)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [USA Today: NYC mayor election results](https://www.usatoday.com/story/news/politics/elections/2025/11/04/nyc-mayor-election-mamdani-vs-cuomo-results/86572353007/) (Tier 2) (VERIFIED)
+- [CNBC: Mamdani/Cuomo mayoral race, billionaire spending](https://www.cnbc.com/2025/10/30/mamdani-cuomo-nyc-mayor-bid-billionaire-spending.html) (Tier 2) (VERIFIED)
+- [Fox News: Cuomo endorsements and polls](https://www.foxnews.com/politics/cuomo-picks-up-endorsements-rises-polls-comeback-campaign-nears-finish-line) (Tier 3) (VERIFIED)
+- [Fox5NY: Who is Andrew Cuomo](https://www.fox5ny.com/news/who-is-andrew-cuomo) (Tier 3) (VERIFIED)
+- [Andrew Cuomo: Campaign website](https://www.andrewcuomo.com) (Tier 3) (VERIFIED)
 
 ---
 
@@ -150,7 +150,7 @@ The 2025 mayoral race made the class dynamics explicit. Cuomo received endorseme
 | Topics | role.pol, role.pep, role.rca |
 
 **Matched records:**
-- [Andrew Cuomo](https://www.opensanctions.org/entities/Q11673/) — 100% match (ann_pep_positions, wd_categories, wd_peps)
+- [Andrew Cuomo](https://www.opensanctions.org/entities/Q11673/) (VERIFIED) — 100% match (ann_pep_positions, wd_categories, wd_peps)
 
-- [Source: OpenSanctions](https://www.opensanctions.org/search/?q=Andrew%20Cuomo) (Tier 1)
+- [Source: OpenSanctions](https://www.opensanctions.org/search/?q=Andrew%20Cuomo) (Tier 1) (VERIFIED)
 <!-- auto:opensanctions end -->

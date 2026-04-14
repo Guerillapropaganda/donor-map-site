@@ -57,7 +57,7 @@ The most revealing carried interest episode: Senator Kyrsten Sinema (I-AZ) deman
 
 ### Sources
 
-- [Joint Committee on Taxation: Carried interest analysis](https://www.jct.gov/publications/?search_term=The%20Carried%20Interest%20Loophole%20-%2030%20Years%20of%20Survival) (Tier 1)
-- [OpenSecrets: American Investment Council lobbying](https://www.opensecrets.org/orgs/american-investment-council/summary?id=D000067336) (Tier 1)
-- [Congress.gov: Inflation Reduction Act legislative history](https://www.congress.gov/bill/117th-congress/house-bill/5376) (Tier 1)
+- ~~[Joint Committee on Taxation: Carried interest analysis](https://www.jct.gov/publications/?search_term=The%20Carried%20Interest%20Loophole%20-%2030%20Years%20of%20Survival)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [OpenSecrets: American Investment Council lobbying](https://www.opensecrets.org/orgs/american-investment-council/summary?id=D000067336) (Tier 1) (VERIFIED)
+- [Congress.gov: Inflation Reduction Act legislative history](https://www.congress.gov/bill/117th-congress/house-bill/5376) (Tier 1) (VERIFIED)
 

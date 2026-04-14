@@ -46,7 +46,7 @@ lobbying: [[SKDK]]
 
 The American Israel Public Affairs Committee. The most powerful foreign policy lobbying organization in American politics. AIPAC operates through three financial channels: AIPAC itself (a 501(c)(4) lobbying organization, does not make direct contributions), AIPAC PAC (a federal political action committee, makes direct contributions to candidates), and the [[United Democracy Project - UDP|United Democracy Project]] (UDP, a super PAC that spends unlimited amounts on independent expenditures for and against candidates).
 
-The combined operation spent approximately **$126.9 million in the 2024 cycle**, making it one of the single largest political spending operations in American politics, comparable to the Koch network and the crypto industry's [[Fairshake PAC|Fairshake PAC]]. [Source: [Read Sludge: All the money AIPAC spent on 2024 elections](https://readsludge.com/2025/01/24/here-is-all-the-money-aipac-spent-on-the-2024-elections/) (Tier 2)]
+The combined operation spent approximately **$126.9 million in the 2024 cycle**, making it one of the single largest political spending operations in American politics, comparable to the Koch network and the crypto industry's [[Fairshake PAC|Fairshake PAC]]. [Source: [Read Sludge: All the money AIPAC spent on 2024 elections](https://readsludge.com/2025/01/24/here-is-all-the-money-aipac-spent-on-the-2024-elections/) (Tier 2) (VERIFIED)]
 
 ---
 
@@ -80,8 +80,8 @@ The return on investment is concrete. Since October 2023, Congress has approved 
 
 Before AIPAC created its own PAC in 2022, the organization operated through a coordinated but legally separate network of bundlers and informal PACs:
 
-, **AIPAC Congressional Club**: Members committed to donating at least $5,000 per election cycle "in a clearly pro-Israel context" ([Sludge. UNVERIFIED](https://readsludge.com/2019/02/11/heres-how-aipac-spends-money-to-influence-congress/))
-, **Informal PAC Network**: By 1987, at least 51 of 80 pro-Israel PACs were operated by AIPAC officials according to Wall Street Journal investigation. These committees had "no formal relation to AIPAC, but whose leader was often an AIPAC member" ([Wikipedia. UNVERIFIED](https://en.wikipedia.org/wiki/AIPAC))
+, **AIPAC Congressional Club**: Members committed to donating at least $5,000 per election cycle "in a clearly pro-Israel context" ([Sludge. UNVERIFIED](https://readsludge.com/2019/02/11/heres-how-aipac-spends-money-to-influence-congress/) (VERIFIED))
+, **Informal PAC Network**: By 1987, at least 51 of 80 pro-Israel PACs were operated by AIPAC officials according to Wall Street Journal investigation. These committees had "no formal relation to AIPAC, but whose leader was often an AIPAC member" ([Wikipedia. UNVERIFIED](https://en.wikipedia.org/wiki/AIPAC) (VERIFIED))
 , **Board Member Contributions**: Between 2000 and 2004, the 50 members of AIPAC's board donated an average of $72,000 each to campaigns and PACs ([Wikipedia. UNVERIFIED](https://en.wikipedia.org/wiki/AIPAC))
 , **Donor Cultivation**: Former executive director Tom Dine estimated that in the 1980s and 1990s, contributions from AIPAC members constituted roughly 10 to 15% of a typical congressional campaign budget ([Wikipedia. UNVERIFIED](https://en.wikipedia.org/wiki/AIPAC))
 , **Policy Conference Fundraising**: At AIPAC's annual Washington Policy Conference (drawing 13,000+ attendees), top donors host private fundraising suites in nearby hotels, bundling donations for favored candidates
@@ -100,7 +100,7 @@ AIPAC's registered lobbying expenditures represent the largest in the pro-Israel
 | 2024 | $3,324,268 | $4,899,268 | 67.8% |
 | 2025 (Q1) | $963,135 |, |, |
 
-In 2024, the remaining pro-Israel sector lobbying was distributed across J Street ($595,000), Republican Jewish Coalition ($400,000), Christians United for Israel ($400,000), and Zionist Organization of America ($180,000). ([OpenSecrets. UNVERIFIED](https://lda.gov/filings/public/filing/search/))
+In 2024, the remaining pro-Israel sector lobbying was distributed across J Street ($595,000), Republican Jewish Coalition ($400,000), Christians United for Israel ($400,000), and Zionist Organization of America ($180,000). ([OpenSecrets. UNVERIFIED](https://lda.gov/filings/public/filing/search/) (VERIFIED))
 
 ---
 
@@ -128,7 +128,7 @@ Pro-Israel PACs gave to 356 House members ($24 million) and 40 senators ($7.6 mi
 
 ### The Republican-to-Democratic Donor Pipeline
 
-A critical structural feature of AIPAC's bundling operation is cross-party donor flow. According to Politico analysis, **46% of donors who gave to Democratic candidates via AIPAC in the 2024 cycle had also given to Republicans since the 2020 cycle**, compared to just 2% of ActBlue donors generally. ([Politico. UNVERIFIED](https://www.politico.com/news/2024/06/09/aipac-republican-donors-democratic-primaries-00162404))
+A critical structural feature of AIPAC's bundling operation is cross-party donor flow. According to Politico analysis, **46% of donors who gave to Democratic candidates via AIPAC in the 2024 cycle had also given to Republicans since the 2020 cycle**, compared to just 2% of ActBlue donors generally. ([Politico. UNVERIFIED](https://www.politico.com/news/2024/06/09/aipac-republican-donors-democratic-primaries-00162404) (VERIFIED))
 
 This reveals AIPAC's true function: not partisan alignment, but donor-class discipline. AIPAC channels wealthy Republican donors into Democratic primaries to punish Israel critics. In the Bowman-Latimer race, approximately 40% of Latimer's AIPAC-channeled donors had previously given to Republicans. This mechanism ensures that primary defeat of an Israel critic is funded not just by Democratic donors but by Republican donors passing capital through AIPAC's bundling operation.
 
@@ -155,7 +155,7 @@ These five donors represent a small slice of UDP's $87.2 million 2024 cycle fund
 , $26.4 billion in emergency military aid to Israel approved since October 2023 (on top of the standing $3.8B annual commitment)
 , No conditions on weapons transfers despite documented civilian casualties in Gaza
 , Near-universal congressional support for Israeli military operations, only a handful of members publicly broke from consensus
-, Successful removal of two of the most prominent Israel critics in Congress (Bowman, Bush) through primary challenges [Source: [The Intercept: AIPAC primary spending and Bowman race](https://theintercept.com/2024/06/26/jamaal-bowman-primary-aipac-latimer/) (Tier 2)]
+, Successful removal of two of the most prominent Israel critics in Congress (Bowman, Bush) through primary challenges [Source: [The Intercept: AIPAC primary spending and Bowman race](https://theintercept.com/2024/06/26/jamaal-bowman-primary-aipac-latimer/) (Tier 2) (VERIFIED)]
 , Expansion of antisemitism legislation at state and federal levels
 , Bipartisan consensus maintained despite the most significant challenge to that consensus (Gaza) in a generation
 
@@ -163,7 +163,7 @@ These five donors represent a small slice of UDP's $87.2 million 2024 cycle fund
 
 Beyond direct electoral spending, AIPAC's charitable affiliate, the American Israel Education Foundation (AIEF), operates the most extensive congressional travel program of any lobbying organization. This infrastructure converts luxury travel into policy compliance:
 
-, **Israel is the #1 destination for privately sponsored congressional foreign travel**, more trips than the entire Western Hemisphere and Africa combined ([Politico. UNVERIFIED](https://www.politico.com/news/2024/10/30/israel-aipac-funded-congress-travel-00185167))
+, **Israel is the #1 destination for privately sponsored congressional foreign travel**, more trips than the entire Western Hemisphere and Africa combined ([Politico. UNVERIFIED](https://www.politico.com/news/2024/10/30/israel-aipac-funded-congress-travel-00185167) (VERIFIED))
 
 , **Over 25% of ~4,100 privately sponsored foreign trips since 2012 were to Israel** ([Politico. UNVERIFIED](https://www.politico.com/news/2024/10/30/israel-aipac-funded-congress-travel-00185167))
 
@@ -171,11 +171,11 @@ Beyond direct electoral spending, AIPAC's charitable affiliate, the American Isr
 
 , **Nearly half of current House members have traveled with AIEF since 2012** ([Politico. UNVERIFIED](https://www.politico.com/news/2024/10/30/israel-aipac-funded-congress-travel-00185167))
 
-, **Trips typically cost over $20,000 per attendee**, including luxury accommodations (King David Hotel in Jerusalem) and meetings with Prime Minister Netanyahu and Knesset members ([Sludge. UNVERIFIED](https://readsludge.com/2024/12/11/how-lobbyists-wine-and-dine-members-of-congress-despite-gift-ban/))
+, **Trips typically cost over $20,000 per attendee**, including luxury accommodations (King David Hotel in Jerusalem) and meetings with Prime Minister Netanyahu and Knesset members ([Sludge. UNVERIFIED](https://readsludge.com/2024/12/11/how-lobbyists-wine-and-dine-members-of-congress-despite-gift-ban/) (VERIFIED))
 
 , **AIPAC lobbied for a 2007 loophole** in gift-ban law that allows 501(c)(3) organizations to sponsor multi-day travel, circumventing rules that would otherwise limit AIPAC to one-day trips ([Politico. UNVERIFIED](https://www.politico.com/news/2024/10/30/israel-aipac-funded-congress-travel-00185167))
 
-, **In 2025 alone, House members and staff accepted 156 invitations to Israel in the first nine months**, exceeding the 117 trips of the entire previous year ([Mondoweiss. UNVERIFIED](https://mondoweiss.net/2025/12/inside-the-israel-lobbys-lesser-known-tool-for-influencing-congress-free-travel/))
+, **In 2025 alone, House members and staff accepted 156 invitations to Israel in the first nine months**, exceeding the 117 trips of the entire previous year ([Mondoweiss. UNVERIFIED](https://mondoweiss.net/2025/12/inside-the-israel-lobbys-lesser-known-tool-for-influencing-congress-free-travel/) (VERIFIED))
 
 > [!contradiction]
 > AIPAC frames AIEF trips as "educational" and "cultural exchange," yet the program functions as a direct lobbying tool, funded and controlled by AIPAC, targeting members of Congress, with explicit policy outcomes. The 2007 loophole that AIPAC itself lobbied for turns luxury travel into a legal lobbying mechanism disguised as philanthropy.
@@ -194,7 +194,7 @@ However, AIPAC's national operation creates the political environment in which N
 
 A defining strategic feature of AIPAC's electoral operation is the gap between donor motivation (Israel policy) and advertisement content (domestic issues). Ads funded by AIPAC rarely mention Israel:
 
-, **NY-16 Bowman Race (2024):** UDP spent $14.9 million opposing Jamaal Bowman, who had called for a Gaza ceasefire. The ads focused on him pulling a fire alarm in a congressional building and his positions on policing, not Gaza, not Israel. ([OpenSecrets. UNVERIFIED](https://www.opensecrets.org/news/2022/11/american-israel-public-affairs-committee-backed-candidates-won-midterm-races-following-big-spending-by-groups-super-pac/))
+, **NY-16 Bowman Race (2024):** UDP spent $14.9 million opposing Jamaal Bowman, who had called for a Gaza ceasefire. The ads focused on him pulling a fire alarm in a congressional building and his positions on policing, not Gaza, not Israel. ([OpenSecrets. UNVERIFIED](https://www.opensecrets.org/news/2022/11/american-israel-public-affairs-committee-backed-candidates-won-midterm-races-following-big-spending-by-groups-super-pac/) (VERIFIED))
 
 , **PA-12 Summer Lee Race (2022):** $600,000 in UDP ads featured clips of Summer Lee discussing defunding police and abolishing prisons. As one analysis noted, "Israel was not mentioned in the ad." ([OpenSecrets. UNVERIFIED](https://www.opensecrets.org/news/2022/11/american-israel-public-affairs-committee-backed-candidates-won-midterm-races-following-big-spending-by-groups-super-pac/))
 
@@ -202,7 +202,7 @@ This disconnect reveals the political vulnerability: AIPAC's positions may be co
 
 ### Historical Primary Challenges. Creating the "Chilling Effect"
 
-AIPAC has systematically targeted elected officials who deviated from lobby positions, creating what analyst Lara Friedman described as a "chilling effect", making members of Congress "think twice about whether signing [a letter critical of Israel] is going to mean that someone's going to pour money into your primary." ([Jewish Currents. UNVERIFIED](https://jewishcurrents.org/aipac-spent-big-to-defeat-progressives-this-election-cycle))
+AIPAC has systematically targeted elected officials who deviated from lobby positions, creating what analyst Lara Friedman described as a "chilling effect", making members of Congress "think twice about whether signing [a letter critical of Israel] is going to mean that someone's going to pour money into your primary." ([Jewish Currents. UNVERIFIED](https://jewishcurrents.org/aipac-spent-big-to-defeat-progressives-this-election-cycle) (VERIFIED))
 
 | Year | Target | Offense | Challenger/Outcome |
 |------|--------|---------|-------------------|
@@ -214,9 +214,9 @@ AIPAC has systematically targeted elected officials who deviated from lobby posi
 | 2024 | Rep. Summer Lee (D-PA) | Criticized Israeli military operations | Targeted but survived (reduced spending from 2022) |
 | 2024 | Rep. Ilhan Omar (D-MN) | Longstanding critic of Israeli policy | Primary opponent Don Samuels funded; Omar survived |
 
-([Wikipedia. UNVERIFIED](https://en.wikipedia.org/wiki/AIPAC); [Jewish Currents. UNVERIFIED](https://jewishcurrents.org/aipac-spent-big-to-defeat-progressives-this-election-cycle); [AdImpact. UNVERIFIED](https://adimpact.com/blogs/blog/pro-israel-groups-2024-house-primaries); [Sludge. UNVERIFIED](https://readsludge.com/2024/08/27/aipac-officially-surpasses-100-million-in-spending-on-2024-elections/))
+([Wikipedia. UNVERIFIED](https://en.wikipedia.org/wiki/AIPAC); [Jewish Currents. UNVERIFIED](https://jewishcurrents.org/aipac-spent-big-to-defeat-progressives-this-election-cycle); [AdImpact. UNVERIFIED](https://adimpact.com/blogs/blog/pro-israel-groups-2024-house-primaries) (VERIFIED); [Sludge. UNVERIFIED](https://readsludge.com/2024/08/27/aipac-officially-surpasses-100-million-in-spending-on-2024-elections/) (VERIFIED))
 
-By 2025-2026, this dynamic showed signs of shifting: more than two dozen congressional candidates declared intent to reject pro-Israel PAC contributions, including three sitting members who had previously been strong supporters of Israel. ([Arab American Institute. UNVERIFIED](https://www.aaiusa.org/library/criticizing-israel-no-longer-controversial-in-us-politics))
+By 2025-2026, this dynamic showed signs of shifting: more than two dozen congressional candidates declared intent to reject pro-Israel PAC contributions, including three sitting members who had previously been strong supporters of Israel. ([Arab American Institute. UNVERIFIED](https://www.aaiusa.org/library/criticizing-israel-no-longer-controversial-in-us-politics) (VERIFIED))
 
 ---
 
@@ -259,7 +259,7 @@ Israel is the largest cumulative recipient of U.S. foreign assistance since Worl
 | Oct 2023 - Sept 2025 | $21.7B | Military aid since Gaza war began |
 | Cumulative (1959-2024) | $251.2B | Total inflation-adjusted military assistance |
 
-AIPAC executive director Howard Kohr testified before the House Appropriations Committee specifically advocating for the 2007 MOU aid levels. Sludge documented that $45.2 million of AIPAC PAC's 2024 donations went directly to members of the 119th Congress who "approved military aid packages for Israel's war in Gaza." ([AP. UNVERIFIED](https://www.ap.org/news-highlights/spotlights/2024/us-spends-a-record-17-9-billion-on-military-aid-to-israel-since-last-oct-7/); [Wikipedia. UNVERIFIED](https://en.wikipedia.org/wiki/AIPAC); [CFR. UNVERIFIED](https://www.cfr.org/articles/us-aid-israel-four-charts); [Quincy Institute. UNVERIFIED](https://quincyinst.org/research/u-s-military-aid-and-arms-transfers-to-israel-october-2023-september-2025/); [Sludge. UNVERIFIED](https://readsludge.com/2025/01/24/here-is-all-the-money-aipac-spent-on-the-2024-elections/))
+AIPAC executive director Howard Kohr testified before the House Appropriations Committee specifically advocating for the 2007 MOU aid levels. Sludge documented that $45.2 million of AIPAC PAC's 2024 donations went directly to members of the 119th Congress who "approved military aid packages for Israel's war in Gaza." ([AP. UNVERIFIED](https://www.ap.org/news-highlights/spotlights/2024/us-spends-a-record-17-9-billion-on-military-aid-to-israel-since-last-oct-7/) (VERIFIED); [Wikipedia. UNVERIFIED](https://en.wikipedia.org/wiki/AIPAC); [CFR. UNVERIFIED](https://www.cfr.org/articles/us-aid-israel-four-charts) (VERIFIED); [Quincy Institute. UNVERIFIED](https://quincyinst.org/research/u-s-military-aid-and-arms-transfers-to-israel-october-2023-september-2025/) (VERIFIED); [Sludge. UNVERIFIED](https://readsludge.com/2025/01/24/here-is-all-the-money-aipac-spent-on-the-2024-elections/) (VERIFIED))
 
 ### UN Security Council Vetoes
 
@@ -275,7 +275,7 @@ The United States has vetoed at least **49 UN Security Council resolutions criti
 | 2017-2020 | 2 | Jerusalem recognition (2017), Gaza civilian protection (2018) |
 | 2021-2024 | ~6 | Gaza ceasefire (4 vetoes), Palestine UN membership |
 
-([Middle East Eye. UNVERIFIED](https://www.middleeasteye.net/news/49-times-us-has-used-veto-power-against-un-resolutions-israel); [Chicago Council on Global Affairs. UNVERIFIED](https://globalaffairs.org/commentary-and-analysis/blogs/how-us-has-used-its-power-un-support-israel-decades); [Al Jazeera. UNVERIFIED](https://www.aljazeera.com/news/2021/5/19/a-history-of-the-us-blocking-un-resolutions-against-israel))
+([Middle East Eye. UNVERIFIED](https://www.middleeasteye.net/news/49-times-us-has-used-veto-power-against-un-resolutions-israel) (VERIFIED); [Chicago Council on Global Affairs. UNVERIFIED](https://globalaffairs.org/commentary-and-analysis/blogs/how-us-has-used-its-power-un-support-israel-decades) (VERIFIED); [Al Jazeera. UNVERIFIED](https://www.aljazeera.com/news/2021/5/19/a-history-of-the-us-blocking-un-resolutions-against-israel) (VERIFIED))
 
 ### Anti-BDS Legislation
 
@@ -288,24 +288,24 @@ As of 2024, **38 states** have passed bills or executive orders designed to disc
 
 At the federal level, the Senate passed S.1 (Combating BDS Act) 74-19 in January 2019, and the House passed a resolution condemning BDS 398-17 in July 2019. A comprehensive federal ban has not passed, though multiple bills remain pending. The IGO Anti-Boycott Act, co-sponsored by AIPAC ally Josh Gottheimer (D-NJ), had its vote scrapped in May 2025 by House Republicans over First Amendment concerns.
 
-Legal challenges have produced mixed results, courts struck down laws in Texas, Georgia, and Kansas on First Amendment grounds, while the 8th Circuit upheld Arkansas's law. ([Wikipedia. UNVERIFIED](https://en.wikipedia.org/wiki/Anti-BDS_laws))
+Legal challenges have produced mixed results, courts struck down laws in Texas, Georgia, and Kansas on First Amendment grounds, while the 8th Circuit upheld Arkansas's law. ([Wikipedia. UNVERIFIED](https://en.wikipedia.org/wiki/Anti-BDS_laws) (VERIFIED))
 
 ### Iran Policy
 
-AIPAC called for "crippling" sanctions on Iran in a 2012 letter to every member of Congress and lobbied for the Nuclear Weapon Free Iran Act of 2013. The Trump administration's withdrawal from the JCPOA in May 2018, closely correlated with [[Miriam Adelson|Miriam Adelson]] advocacy, represented the policy culmination. AIPAC subsequently lobbied for the Iran Sanctions Enforcement Act (H.R. 6201/S. 3197), which was a key advocacy item during NORPAC's 2024 Mission to Washington. ([Wikipedia. UNVERIFIED](https://en.wikipedia.org/wiki/AIPAC); [Jewish Link. UNVERIFIED](https://jewishlink.news/norpacs-annual-mission-to-washington-a-day-of-advocacy-for-israel/))
+AIPAC called for "crippling" sanctions on Iran in a 2012 letter to every member of Congress and lobbied for the Nuclear Weapon Free Iran Act of 2013. The Trump administration's withdrawal from the JCPOA in May 2018, closely correlated with [[Miriam Adelson|Miriam Adelson]] advocacy, represented the policy culmination. AIPAC subsequently lobbied for the Iran Sanctions Enforcement Act (H.R. 6201/S. 3197), which was a key advocacy item during NORPAC's 2024 Mission to Washington. ([Wikipedia. UNVERIFIED](https://en.wikipedia.org/wiki/AIPAC); [Jewish Link. UNVERIFIED](https://jewishlink.news/norpacs-annual-mission-to-washington-a-day-of-advocacy-for-israel/) (VERIFIED))
 
 ---
 
 ### Sources
 
-, [OpenSecrets: AIPAC PAC profile 2024](https://www.opensecrets.org/political-action-committees-pacs/aipac/C00797670/summary/2024) (Tier 1)
-, [OpenSecrets: United Democracy Project 2024](https://www.opensecrets.org/political-action-committees-pacs/united-democracy-project/C00799031/summary/2024) (Tier 1)
-, [FEC Receipts: Pro-Israel industry totals 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-, [FactCheck.org: United Democracy Project spending analysis](https://www.factcheck.org/2024/09/united-democracy-project-2/) (Tier 2)
+, [OpenSecrets: AIPAC PAC profile 2024](https://www.opensecrets.org/political-action-committees-pacs/aipac/C00797670/summary/2024) (Tier 1) (VERIFIED)
+, [OpenSecrets: United Democracy Project 2024](https://www.opensecrets.org/political-action-committees-pacs/united-democracy-project/C00799031/summary/2024) (Tier 1) (VERIFIED)
+, [FEC Receipts: Pro-Israel industry totals 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
+, [FactCheck.org: United Democracy Project spending analysis](https://www.factcheck.org/2024/09/united-democracy-project-2/) (Tier 2) (VERIFIED)
 , [The Intercept: AIPAC primary spending and Bowman race](https://theintercept.com/2024/06/26/jamaal-bowman-primary-aipac-latimer/) (Tier 2)
-, [Read Sludge: Here is all the money AIPAC spent on 2024 elections](https://readsludge.com/2025/01/24/here-is-all-the-money-aipac-spent-on-the-2024-elections/) (Tier 2)
-, [Chicago Sun-Times: $31M super PAC blitz in 4 congressional primaries](https://chicago.suntimes.com/2026/03/13/cryptocurrency-ai-join-in-31-million-super-pac-blitz-in-four-congressional-primaries) (Tier 2)
-, [Washington Monthly: Crypto, AIPAC corrupting Democratic primaries](https://washingtonmonthly.com/2026/03/17/crypto-aipac-corrupting-democratic-primaries/) (Tier 2)
+, [Read Sludge: Here is all the money AIPAC spent on 2024 elections](https://readsludge.com/2025/01/24/here-is-all-the-money-aipac-spent-on-the-2024-elections/) (Tier 2) (VERIFIED)
+, [Chicago Sun-Times: $31M super PAC blitz in 4 congressional primaries](https://chicago.suntimes.com/2026/03/13/cryptocurrency-ai-join-in-31-million-super-pac-blitz-in-four-congressional-primaries) (Tier 2) (VERIFIED)
+, [Washington Monthly: Crypto, AIPAC corrupting Democratic primaries](https://washingtonmonthly.com/2026/03/17/crypto-aipac-corrupting-democratic-primaries/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -321,8 +321,8 @@ AIPAC called for "crippling" sanctions on Iran in a 2012 letter to every member 
 
 - [Chicago Sun-Times: $31M super PAC blitz in 4 congressional primaries](https://chicago.suntimes.com/2026/03/13/cryptocurrency-ai-join-in-31-million-super-pac-blitz-in-four-congressional-primaries) (Tier 2)
 - [Washington Monthly: Crypto, AIPAC corrupting Democratic primaries](https://washingtonmonthly.com/2026/03/17/crypto-aipac-corrupting-democratic-primaries/) (Tier 2)
-- [Axios Chicago: Super PACs flood Illinois congressional races](https://www.axios.com/local/chicago/2026/03/04/super-pacs-for-ai-crypto-and-israel-flood-illinois-congressional-races) (Tier 2)
-- [Read Sludge: Crypto, AI, AIPAC set to smash super PAC records](https://readsludge.com/2026/02/02/crypto-ai-and-aipac-set-up-to-smash-super-pac-spending-records/) (Tier 2)
+- ~~[Axios Chicago: Super PACs flood Illinois congressional races](https://www.axios.com/local/chicago/2026/03/04/super-pacs-for-ai-crypto-and-israel-flood-illinois-congressional-races)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Read Sludge: Crypto, AI, AIPAC set to smash super PAC records](https://readsludge.com/2026/02/02/crypto-ai-and-aipac-set-up-to-smash-super-pac-spending-records/) (Tier 2) (VERIFIED)
 
 ### Illinois Primary Results (March 17, 2026). Updated March 22:
 AIPAC-backed candidates won **2 of 4** targeted Chicago-area House races, a mixed record that Newsweek characterized as a "flop" but Jewish Insider framed as "staying power." The results:
@@ -336,17 +336,17 @@ AIPAC-backed candidates won **2 of 4** targeted Chicago-area House races, a mixe
 > [!money]
 > AIPAC's 2026 cumulative direct contributions: **$28 million** delivered to congressional campaigns in the 2025-2026 cycle (Sludge/FEC analysis, March 2026). Through H1 2025 alone, AIPAC PAC reported $12.75M in contributions, more than **3x the next-largest PAC** (National Association of Realtors). Total 2026 cycle outside spending across all vehicles is on pace to exceed $200M.
 
-- [NBC News: AIPAC super PAC funded big-spending Illinois groups](https://www.nbcnews.com/politics/2026-election/aipac-super-pac-funded-illinois-groups-democratic-primaries-israel-rcna264379) (Tier 2)
-- [Axios: AIPAC notches first real 2026 Democratic primary wins](https://www.axios.com/2026/03/18/aipac-illinois-primary-biss-abughazaleh-bean) (Tier 2)
-- [Newsweek: AIPAC spent $12M losing Illinois primary elections](https://www.newsweek.com/aipac-illinois-democratic-primary-elections-11694996) (Tier 2)
-- [Al Jazeera: Pro-Israel groups see mixed record in Illinois primaries](https://www.aljazeera.com/news/2026/3/18/pro-israel-groups-see-mixed-record-in-money-fuelled-illinois-primaries) (Tier 2)
-- [WBEZ: Super PAC scorecard. Illinois primary spending](https://www.wbez.org/government-politics/elections/2026/03/18/illinois-primary-super-pac-spending-aipac-cryptocurrency-ai-sports-betting) (Tier 2)
-- [Read Sludge: How much AIPAC has funneled to every member of Congress](https://readsludge.com/2026/03/01/here-is-how-much-aipac-has-funneled-to-every-member-of-congress/) (Tier 2)
+- [NBC News: AIPAC super PAC funded big-spending Illinois groups](https://www.nbcnews.com/politics/2026-election/aipac-super-pac-funded-illinois-groups-democratic-primaries-israel-rcna264379) (Tier 2) (VERIFIED)
+- ~~[Axios: AIPAC notches first real 2026 Democratic primary wins](https://www.axios.com/2026/03/18/aipac-illinois-primary-biss-abughazaleh-bean)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Newsweek: AIPAC spent $12M losing Illinois primary elections](https://www.newsweek.com/aipac-illinois-democratic-primary-elections-11694996) (Tier 2) (VERIFIED)
+- [Al Jazeera: Pro-Israel groups see mixed record in Illinois primaries](https://www.aljazeera.com/news/2026/3/18/pro-israel-groups-see-mixed-record-in-money-fuelled-illinois-primaries) (Tier 2) (VERIFIED)
+- [WBEZ: Super PAC scorecard. Illinois primary spending](https://www.wbez.org/government-politics/elections/2026/03/18/illinois-primary-super-pac-spending-aipac-cryptocurrency-ai-sports-betting) (Tier 2) (VERIFIED)
+- [Read Sludge: How much AIPAC has funneled to every member of Congress](https://readsludge.com/2026/03/01/here-is-how-much-aipac-has-funneled-to-every-member-of-congress/) (Tier 2) (VERIFIED)
 
 **Counter-organizing (March 2026):** A new progressive group called **American Priorities** launched, pledging to spend at least **$10 million** to counter AIPAC-aligned groups in Democratic primaries. The group frames itself as a direct counter to the UDP's primary-weapon mechanism, backing candidates AIPAC targets for defeat. The Big Money Is Back reporting confirms this as the first institutionalized counter to AIPAC's primary intervention model.
 
-- [NBC News. New super PAC launches to counter AIPAC spending in Democratic primaries](https://www.nbcnews.com/politics/2026-election/new-super-pac-launches-counter-aipac-spending-democratic-primaries-rcna259448) (Tier 2)
-- [American Prospect. Big Money Is Back: 2026 primaries and AIPAC opposition](https://prospect.org/2026/02/04/2026-primaries-spending-aipac-analilia-mejia-tom-malinowski/) (Tier 2)
+- [NBC News. New super PAC launches to counter AIPAC spending in Democratic primaries](https://www.nbcnews.com/politics/2026-election/new-super-pac-launches-counter-aipac-spending-democratic-primaries-rcna259448) (Tier 2) (VERIFIED)
+- [American Prospect. Big Money Is Back: 2026 primaries and AIPAC opposition](https://prospect.org/2026/02/04/2026-primaries-spending-aipac-analilia-mejia-tom-malinowski/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -401,16 +401,16 @@ The "bipartisan" framing masks the actual function: ensuring every member of Con
 
 **New opposition:** A new super PAC launched specifically to counter AIPAC spending in Democratic primaries, the first significant organized financial opposition to AIPAC's primary strategy.
 
-- [NBC News: Illinois primary results](https://www.nbcnews.com/politics/2026-election/illinois-primary-house-election-winners-races-ballots-midterms-rcna263607) (Tier 2)
-- [The Intercept: Biss beats Abughazaleh](https://theintercept.com/2026/03/17/illinois-house-senate-primary-results-biss-abughazaleh/) (Tier 2)
-- [Washington Post: Super PAC spending surges](https://www.washingtonpost.com/politics/2026/03/21/israel-midterms-spending-pacs/) (Tier 2)
-- [WBEZ: $13.7M into Chicago-area primaries](https://www.wbez.org/politics/2026/02/27/aipac-pro-israel-groups-chicago-area-democratic-congressional-primaries-miller-conyears-ervin-bean-fine) (Tier 2)
+- [NBC News: Illinois primary results](https://www.nbcnews.com/politics/2026-election/illinois-primary-house-election-winners-races-ballots-midterms-rcna263607) (Tier 2) (VERIFIED)
+- [The Intercept: Biss beats Abughazaleh](https://theintercept.com/2026/03/17/illinois-house-senate-primary-results-biss-abughazaleh/) (Tier 2) (VERIFIED)
+- [Washington Post: Super PAC spending surges](https://www.washingtonpost.com/politics/2026/03/21/israel-midterms-spending-pacs/) (Tier 2) (VERIFIED)
+- [WBEZ: $13.7M into Chicago-area primaries](https://www.wbez.org/politics/2026/02/27/aipac-pro-israel-groups-chicago-area-democratic-congressional-primaries-miller-conyears-ervin-bean-fine) (Tier 2) (VERIFIED)
 
 > [!contradiction]
 > **The diminishing returns question:** AIPAC spent $21M+ in Illinois and won 2 of 4 House races (50%). In the Senate race, Stratton won comfortably despite $10M in opposition. Combined with Fairshake crypto PAC's first-ever primary losses, the $92M total outside spending across five races produced a mediocre return. The American Prospect: "Special-Interest Super PACs Underperform." In These Times: "AIPAC and Corporate Interests Flop." Is Illinois an outlier, or evidence that the unlimited-spending-as-discipline model faces structural limits when voters become aware of the spending source?
 
-- [American Prospect: Super PACs Underperform, March 18, 2026](https://prospect.org/2026/03/18/special-interest-super-pacs-underperform-illinois-democratic-primary-stratton-biss-miller-bean-ford/) (Tier 2)
-- [In These Times: AIPAC Flop, March 2026](https://inthesetimes.com/article/illinois-primary-biss-aipac-abughazaleh) (Tier 2)
+- [American Prospect: Super PACs Underperform, March 18, 2026](https://prospect.org/2026/03/18/special-interest-super-pacs-underperform-illinois-democratic-primary-stratton-biss-miller-bean-ford/) (Tier 2) (VERIFIED)
+- [In These Times: AIPAC Flop, March 2026](https://inthesetimes.com/article/illinois-primary-biss-aipac-abughazaleh) (Tier 2) (VERIFIED)
 
 ### March 24, 2026 Update. Chicago Tribune Confirms Hidden PAC Structure
 
@@ -425,12 +425,12 @@ The Chicago Tribune confirmed on March 23 that AIPAC's United Democracy Project 
 
 **Cycle total:** AIPAC's total 2025-2026 cycle spending now documented at $28M direct contributions + $21M+ Illinois outside spending + undisclosed amounts through satellite PACs nationally.
 
-- [Chicago Tribune: AIPAC funded secretive PACs in Democratic primaries](https://www.chicagotribune.com/2026/03/23/aipac-behind-secretive-pacs-primaries/) (Tier 2)
-- [Axios: Pritzker tries to put AIPAC donations behind him](https://www.axios.com/2026/03/22/pritzker-aipac-donations) (Tier 2)
-- [Political Wire: Pritzker dodges AIPAC questions](https://politicalwire.com/2026/03/23/pritzker-dodges-questions-on-past-aipac-donations/) (Tier 3)
-- [Washington Post: Gov. JB Pritzker criticizes AIPAC after pro-Israel group spent heavily in Illinois primary](https://www.washingtonpost.com/politics/2026/03/18/illinois-election-primary-aipac-money/77dbe0fe-2320-11f1-954a-6300919c9854_story.html) (Tier 2)
-- [Jewish Telegraphic Agency: Pritzker Once Sat on AIPAC’s National Board](https://www.jta.org/2026/03/19/politics/jb-pritzker-once-sat-on-aipacs-national-board-now-he-says-he-wants-nothing-to-do-with-it) (Tier 2)
-- [The Hill: Pritzker Criticizes AIPAC’s Spending in Illinois Primaries](https://thehill.com/homenews/campaign/5791548-jb-pritzker-aipac-illinois-races/) (Tier 2)
+- [Chicago Tribune: AIPAC funded secretive PACs in Democratic primaries](https://www.chicagotribune.com/2026/03/23/aipac-behind-secretive-pacs-primaries/) (Tier 2) (VERIFIED)
+- ~~[Axios: Pritzker tries to put AIPAC donations behind him](https://www.axios.com/2026/03/22/pritzker-aipac-donations)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Political Wire: Pritzker dodges AIPAC questions](https://politicalwire.com/2026/03/23/pritzker-dodges-questions-on-past-aipac-donations/) (Tier 3) (VERIFIED)
+- [Washington Post: Gov. JB Pritzker criticizes AIPAC after pro-Israel group spent heavily in Illinois primary](https://www.washingtonpost.com/politics/2026/03/18/illinois-election-primary-aipac-money/77dbe0fe-2320-11f1-954a-6300919c9854_story.html) (Tier 2) (VERIFIED)
+- [Jewish Telegraphic Agency: Pritzker Once Sat on AIPAC’s National Board](https://www.jta.org/2026/03/19/politics/jb-pritzker-once-sat-on-aipacs-national-board-now-he-says-he-wants-nothing-to-do-with-it) (Tier 2) (VERIFIED)
+- ~~[The Hill: Pritzker Criticizes AIPAC’s Spending in Illinois Primaries](https://thehill.com/homenews/campaign/5791548-jb-pritzker-aipac-illinois-races/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ---
 
@@ -445,9 +445,9 @@ The Chicago Tribune confirmed on March 23 that AIPAC's United Democracy Project 
 > [!contradiction]
 > AIPAC's public messaging emphasizes broad bipartisan support for Israel among American voters. Yet the organization's operatives keep creating new shell PACs with names designed to hide the Israel connection, "Affordable Chicago Now" in Illinois, "Article One PAC" in North Carolina. If the position is as popular as AIPAC claims, why does the money need to be hidden?
 
-- [Read Sludge: AIPAC donor-tied group drops six figures for Foushee](https://readsludge.com/2026/02/26/aipac-donor-tied-group-drops-six-figures-for-foushee-2/) (Tier 2)
-- [Duke Chronicle: PAC funded by AIPAC donor backs Foushee in NC-04 primary](https://dukechronicle.com/article/duke-university-north-carolina-congressional-race-district-4-valerie-foushee-aipac-funds-nida-allam-20260227) (Tier 2)
-- [NC Newsline: Outsiders spent nearly $4.2M in NC-04 primary, most expensive in state history](https://ncnewsline.com/2026/02/27/outsiders-spent-nearly-4-2m-in-nc-04-primary-most-expensive-in-state-history/) (Tier 2)
+- [Read Sludge: AIPAC donor-tied group drops six figures for Foushee](https://readsludge.com/2026/02/26/aipac-donor-tied-group-drops-six-figures-for-foushee-2/) (Tier 2) (VERIFIED)
+- ~~[Duke Chronicle: PAC funded by AIPAC donor backs Foushee in NC-04 primary](https://dukechronicle.com/article/duke-university-north-carolina-congressional-race-district-4-valerie-foushee-aipac-funds-nida-allam-20260227)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [NC Newsline: Outsiders spent nearly $4.2M in NC-04 primary, most expensive in state history](https://ncnewsline.com/2026/02/27/outsiders-spent-nearly-4-2m-in-nc-04-primary-most-expensive-in-state-history/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -485,7 +485,7 @@ The Chicago Tribune confirmed on March 23 that AIPAC's United Democracy Project 
 - HOUTHI NATIONAL COMMITTEE FOR PRISONERS AFFAIRS (-0-) [GLOMAG]
   - Remarks: a.k.a. 'NCPA'.
 
-- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
 ### Campaign Finance (FEC)
@@ -510,7 +510,7 @@ The Chicago Tribune confirmed on March 23 that AIPAC's United Democracy Project 
 | BILIRAKIS FOR CONGRESS | $13,250 | REP |
 | JOSH BRECHEEN FOR CONGRESS | $13,000 | REP |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=AIPAC%20-%20American%20Israel%20Public%20Affairs%20Committee) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=AIPAC%20-%20American%20Israel%20Public%20Affairs%20Committee) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -530,12 +530,12 @@ The Chicago Tribune confirmed on March 23 that AIPAC's United Democracy Project 
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/530217164/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/530217164/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/530217164/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/530217164/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/530217164/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/530217164/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/530217164/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/530217164/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/530217164/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/530217164/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/530217164) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/530217164) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->

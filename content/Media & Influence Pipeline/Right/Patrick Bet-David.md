@@ -66,7 +66,7 @@ The critical structural point: **Bet-David's media company is funded by an MLM.*
 > [!money]
 > Bet-David's FEC record tells a clear political trajectory: Tea Party (Bachmann 2012) → Trump maxed-out (2020) → anti-establishment right (RFK Jr. 2023). The RFK Jr. donation is the most revealing, made while PBD was already publicly pro-Trump, it signals alignment with the populist-skeptic lane rather than traditional Republican politics. The employer field tracks his business evolution: PHP Agency (2012, 2020) → Valuetainment (2023). Unlike most right-wing media figures in this vault who show $0 personal FEC activity, PBD puts his money where his platform is, but $15K from a $100M+ fortune is symbolic, not sacrificial.
 
-- [FEC: Patrick Bet-David individual contributions (6 results)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=bet-david+patrick) (Tier 1)
+- [FEC: Patrick Bet-David individual contributions (6 results)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=bet-david+patrick) (Tier 1) (VERIFIED)
 
 ---
 
@@ -181,12 +181,12 @@ The "Her Take" expansion is class analysis in action: Valuetainment is building 
 ### Sources
 
 - [FEC: Patrick Bet-David individual contributions (6 results)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=bet-david+patrick) (Tier 1)
-- [Houlihan Lokey: PHP Agency transaction advisory](https://hl.com/about-us/transactions/?id=php-agency) (Tier 1)
-- [The Spectator: Inside the Unlikely Success of Patrick Bet-David](https://spectator.com/article/inside-the-unlikely-success-of-patrick-bet-david/?edition=us) (Tier 2)
-- [The Daily Beast: George W. Bush, Kobe Bryant, Jordan Peterson Promote Shady Multilevel Marketing Company PHP Agency](https://www.thedailybeast.com/george-w-bush-kobe-bryant-jordan-peterson-promote-shady-multilevel-marketing-company-php-agency/) (Tier 2)
-- [MIT Technology Review: How covid-19 conspiracy theorists are exploiting YouTube culture](https://www.technologyreview.com/2020/05/07/1001252/youtube-covid-conspiracy-theories/) (Tier 2)
-- [Vanity Fair: Watching the Trump Victory Among the Podcasters](https://www.vanityfair.com/news/story/watching-the-trump-victory-among-the-podcasters) (Tier 2)
-- [Yahoo Finance/PR Newswire: Bold New Podcast "Her Take" Airs Every Friday](https://finance.yahoo.com/news/bold-podcast-talk-show-her-190000209.html) (Tier 3)
-- [Wikipedia: Patrick Bet-David](https://en.wikipedia.org/wiki/Patrick_Bet-David) (Tier 3)
-- [Politico: Trump suggests Zelenskyy is to blame for the Russia-Ukraine war (PBD interview context)](https://www.politico.com/news/2024/10/17/trump-zelenskyy-russia-ukraine-war-00184183) (Tier 2)
+- [Houlihan Lokey: PHP Agency transaction advisory](https://hl.com/about-us/transactions/?id=php-agency) (Tier 1) (VERIFIED)
+- [The Spectator: Inside the Unlikely Success of Patrick Bet-David](https://spectator.com/article/inside-the-unlikely-success-of-patrick-bet-david/?edition=us) (Tier 2) (VERIFIED)
+- [The Daily Beast: George W. Bush, Kobe Bryant, Jordan Peterson Promote Shady Multilevel Marketing Company PHP Agency](https://www.thedailybeast.com/george-w-bush-kobe-bryant-jordan-peterson-promote-shady-multilevel-marketing-company-php-agency/) (Tier 2) (VERIFIED)
+- [MIT Technology Review: How covid-19 conspiracy theorists are exploiting YouTube culture](https://www.technologyreview.com/2020/05/07/1001252/youtube-covid-conspiracy-theories/) (Tier 2) (VERIFIED)
+- [Vanity Fair: Watching the Trump Victory Among the Podcasters](https://www.vanityfair.com/news/story/watching-the-trump-victory-among-the-podcasters) (Tier 2) (VERIFIED)
+- [Yahoo Finance/PR Newswire: Bold New Podcast "Her Take" Airs Every Friday](https://finance.yahoo.com/news/bold-podcast-talk-show-her-190000209.html) (Tier 3) (VERIFIED)
+- [Wikipedia: Patrick Bet-David](https://en.wikipedia.org/wiki/Patrick_Bet-David) (Tier 3) (VERIFIED)
+- ~~[Politico: Trump suggests Zelenskyy is to blame for the Russia-Ukraine war (PBD interview context)](https://www.politico.com/news/2024/10/17/trump-zelenskyy-russia-ukraine-war-00184183)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 

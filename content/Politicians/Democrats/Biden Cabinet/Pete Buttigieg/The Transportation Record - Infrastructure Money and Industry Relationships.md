@@ -48,7 +48,7 @@ Buttigieg's consumer protection record on airlines is his most defensible policy
 
 ### What he did:
 - Issued rules mandating **automatic cash refunds** when airlines owe passengers money, no more vouchers, no more runaround
-- Created the [flightrights.gov](https://www.flightrights.gov/?q=The%20Transportation%20Record) dashboard, tracking airline commitments on rebooking, meals, and accommodations
+- Created the [flightrights.gov](https://www.flightrights.gov/?q=The%20Transportation%20Record) (NEEDS REVIEW) dashboard, tracking airline commitments on rebooking, meals, and accommodations
 - Secured commitments from all 10 major U.S. airlines to guarantee free rebooking and meals; 9 guarantee hotel accommodations for airline-caused delays
 - Issued **$164 million in penalties** against airlines for consumer protection violations, more than double the combined total from 1996 to 2020
 - Announced an industry-wide privacy review
@@ -126,16 +126,16 @@ The Transportation record is Buttigieg's primary credential for 2028. The questi
 
 ### Sources
 
-- [U.S. DOT: Accomplishments overview January 2021–January 2025](https://www.transportation.gov/briefing-room/us-department-transportation-accomplishments-overview-january-2021-january-2025) (Tier 1)
-- [U.S. DOT: Secretary Buttigieg, major airline consumer protection rules](https://www.transportation.gov/briefing-room/secretary-buttigieg-delivers-remarks-washington-national-airport-announce-major) (Tier 1)
-- [PBS News: Buttigieg on why rail safety measures stalled one year after East Palestine](https://www.pbs.org/newshour/show/buttigieg-on-why-rail-safety-measures-have-stalled-one-year-after-east-palestine-disaster) (Tier 2)
-- [CNN: Pete Buttigieg starts to rethink his role after East Palestine](https://www.cnn.com/2023/03/05/politics/pete-buttigieg-ohio-train-derailment/index.html) (Tier 2)
-- [ABC News: Buttigieg responds to East Palestine criticism](https://abcnews.go.com/Politics/buttigieg-responds-east-palestine-criticism-calls-trumps-trip/story?id=97642497) (Tier 2)
-- [The Hill: Buttigieg gets hit from right and left in East Palestine crisis](https://thehill.com/policy/energy-environment/3877199-buttigieg-gets-hit-from-right-left-in-east-palestine-crisis/) (Tier 2)
-- [CBS News: Buttigieg says not speaking sooner about Ohio derailment is "lesson learned"](https://www.cbsnews.com/news/ohio-train-derailment-pete-buttigieg/) (Tier 2)
-- [TIME: Transportation Secretary Buttigieg visits East Palestine](https://time.com/6257945/pete-buttigieg-east-palestine-ohio-train/) (Tier 2)
-- [NPR: Infrastructure law yields big money but little political benefit](https://www.npr.org/2024/11/15/nx-s1-5192915/infrastructure-law-biden-no-political-benefit) (Tier 2)
-- [The Nation: Pete Buttigieg refuses to reform a dangerously unsafe airline industry](https://www.thenation.com/article/politics/pete-buttigieg-boeing-max9/) (Tier 2)
-- [Washington Post: Buttigieg, Biden government blamed for Ohio train derailment response](https://www.washingtonpost.com/politics/2023/02/17/biden-buttigieg-criticism-ohio-train-derailment/) (Tier 2)
-- [Washington Times: Airline executives and Buttigieg fight over regulations after election](https://www.washingtontimes.com/news/2024/nov/21/airline-executives-transportation-secretary-buttig/) (Tier 2)
-- [PBS News: Buttigieg recaps administration's transportation infrastructure efforts](https://www.pbs.org/newshour/show/buttigieg-recaps-administrations-efforts-to-improve-transportation-infrastructure) (Tier 2)
+- [U.S. DOT: Accomplishments overview January 2021–January 2025](https://www.transportation.gov/briefing-room/us-department-transportation-accomplishments-overview-january-2021-january-2025) (Tier 1) (VERIFIED)
+- [U.S. DOT: Secretary Buttigieg, major airline consumer protection rules](https://www.transportation.gov/briefing-room/secretary-buttigieg-delivers-remarks-washington-national-airport-announce-major) (Tier 1) (VERIFIED)
+- [PBS News: Buttigieg on why rail safety measures stalled one year after East Palestine](https://www.pbs.org/newshour/show/buttigieg-on-why-rail-safety-measures-have-stalled-one-year-after-east-palestine-disaster) (Tier 2) (VERIFIED)
+- [CNN: Pete Buttigieg starts to rethink his role after East Palestine](https://www.cnn.com/2023/03/05/politics/pete-buttigieg-ohio-train-derailment/index.html) (Tier 2) (VERIFIED)
+- [ABC News: Buttigieg responds to East Palestine criticism](https://abcnews.go.com/Politics/buttigieg-responds-east-palestine-criticism-calls-trumps-trip/story?id=97642497) (Tier 2) (NEEDS REVIEW)
+- ~~[The Hill: Buttigieg gets hit from right and left in East Palestine crisis](https://thehill.com/policy/energy-environment/3877199-buttigieg-gets-hit-from-right-left-in-east-palestine-crisis/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [CBS News: Buttigieg says not speaking sooner about Ohio derailment is "lesson learned"](https://www.cbsnews.com/news/ohio-train-derailment-pete-buttigieg/) (Tier 2) (VERIFIED)
+- [TIME: Transportation Secretary Buttigieg visits East Palestine](https://time.com/6257945/pete-buttigieg-east-palestine-ohio-train/) (Tier 2) (VERIFIED)
+- [NPR: Infrastructure law yields big money but little political benefit](https://www.npr.org/2024/11/15/nx-s1-5192915/infrastructure-law-biden-no-political-benefit) (Tier 2) (VERIFIED)
+- [The Nation: Pete Buttigieg refuses to reform a dangerously unsafe airline industry](https://www.thenation.com/article/politics/pete-buttigieg-boeing-max9/) (Tier 2) (VERIFIED)
+- [Washington Post: Buttigieg, Biden government blamed for Ohio train derailment response](https://www.washingtonpost.com/politics/2023/02/17/biden-buttigieg-criticism-ohio-train-derailment/) (Tier 2) (VERIFIED)
+- [Washington Times: Airline executives and Buttigieg fight over regulations after election](https://www.washingtontimes.com/news/2024/nov/21/airline-executives-transportation-secretary-buttig/) (Tier 2) (VERIFIED)
+- [PBS News: Buttigieg recaps administration's transportation infrastructure efforts](https://www.pbs.org/newshour/show/buttigieg-recaps-administrations-efforts-to-improve-transportation-infrastructure) (Tier 2) (VERIFIED)

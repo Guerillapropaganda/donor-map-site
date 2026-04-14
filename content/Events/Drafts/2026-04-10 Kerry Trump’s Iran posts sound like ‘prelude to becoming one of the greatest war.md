@@ -13,7 +13,7 @@ profiles:
 
 ## Kerry: Trump’s Iran posts sound like ‘prelude to becoming one of the greatest war criminals in history’
 
-**Source:** [The Hill](https://thehill.com/homenews/administration/5826156-john-kerry-trump-iran-war/)
+**Source:** ~~[The Hill](https://thehill.com/homenews/administration/5826156-john-kerry-trump-iran-war/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-10
 
 Former Secretary of State John Kerry on Friday denounced President Trump’s threatening posts about Iran as sounding like the “prelude to becoming one of the greatest war criminals in history.” Kerry told MS NOW’s Jen Psaki on “The Briefing” that the president’s Truth Social posts –– an expletive-laden post on Sunday and a Tuesday threat…

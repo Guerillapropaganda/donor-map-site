@@ -14,7 +14,7 @@ profiles:
 
 ## Vance leads US-Iran talks in Pakistan as ceasefire wobbles
 
-**Source:** [The Hill](https://thehill.com/homenews/administration/5826887-jd-vance-islamabad-us-iran-pakistan-talks/)
+**Source:** ~~[The Hill](https://thehill.com/homenews/administration/5826887-jd-vance-islamabad-us-iran-pakistan-talks/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-11
 
 Vice President Vance arrived in Islamabad early Saturday to lead U.S.–Iran talks mediated by Pakistan as the temporary ceasefire appears to buckle under pressure. The U.S. delegation included Vance, special envoy Steve Witkoff and political adviser Jared Kushner — President Trump’s son in law. Pakistani Prime Minister Shehbaz Sharif led the team of mediators, with…

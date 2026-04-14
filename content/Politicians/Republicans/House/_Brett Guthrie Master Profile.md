@@ -125,13 +125,13 @@ Guthrie supports PBM transparency requirements and fee disclosure — which moll
 
 ## Sources
 
-- [FEC Candidate: Rep Brett Guthrie Donor Profile](https://www.fec.gov/data/candidate/H8KY02031/) (Tier 1)
-- [PhRMA 2024 Campaign Finance Data](https://www.opensecrets.org/orgs/pharmaceuticals-health-products/summary?id=D000000149) (Tier 1)
-- [House Energy & Commerce Committee Composition, 118th Congress](https://energycommerce.house.gov/about) (Tier 1)
-- [Orphan Drug Act expansion votes, Rep Guthrie record](https://www.govtrack.us/congress/members/vern_buchanan/412196) (Tier 1)
-- [IRA Drug Pricing Title: Implementation and Guthrie Opposition](https://www.healthaffairs.org/do/10.1377/forefront.20230511.639696) (Tier 2)
-- [Kaiser Family Foundation: Medicare Drug Negotiation Analysis](https://www.kff.org/medicare/issue-brief/explaining-the-pharmaceutical-provisions-in-the-inflation-reduction-act/) (Tier 2)
-- [House Energy & Commerce Committee: Pharmaceutical Oversight Jurisdiction](https://energycommerce.house.gov/subcommittees) (Tier 1)
+- [FEC Candidate: Rep Brett Guthrie Donor Profile](https://www.fec.gov/data/candidate/H8KY02031/) (Tier 1) (VERIFIED)
+- [PhRMA 2024 Campaign Finance Data](https://www.opensecrets.org/orgs/pharmaceuticals-health-products/summary?id=D000000149) (Tier 1) (VERIFIED)
+- [House Energy & Commerce Committee Composition, 118th Congress](https://energycommerce.house.gov/about) (Tier 1) (VERIFIED)
+- [Orphan Drug Act expansion votes, Rep Guthrie record](https://www.govtrack.us/congress/members/vern_buchanan/412196) (Tier 1) (VERIFIED)
+- ~~[IRA Drug Pricing Title: Implementation and Guthrie Opposition](https://www.healthaffairs.org/do/10.1377/forefront.20230511.639696)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Kaiser Family Foundation: Medicare Drug Negotiation Analysis](https://www.kff.org/medicare/issue-brief/explaining-the-pharmaceutical-provisions-in-the-inflation-reduction-act/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [House Energy & Commerce Committee: Pharmaceutical Oversight Jurisdiction](https://energycommerce.house.gov/subcommittees) (Tier 1) (VERIFIED)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -165,5 +165,5 @@ Guthrie supports PBM transparency requirements and fee disclosure — which moll
 | NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE | $4,751 | $0 |
 | EVERYTOWN FOR GUN SAFETY ACTION FUND | $0 | $862 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8KY02031/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8KY02031/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->

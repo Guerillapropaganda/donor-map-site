@@ -68,8 +68,8 @@ The military credential is real but strategically deployed. The "warrior-senator
 
 ### Sources
 
-- [CNN: New York Times says controversial Tom Cotton op-ed did not meet its standards](https://www.cnn.com/2020/06/04/media/new-york-times-tom-cotton-statement) (Tier 2)
-- [CNN: James Bennet resigns from New York Times after Cotton op-ed backlash](https://www.cnn.com/2020/06/07/media/james-bennet-new-york-times-resigns) (Tier 2)
-- [Snopes: Did Sen. Tom Cotton Falsely Claim To Have Been an 'Army Ranger in Afghanistan and Iraq'?](https://www.snopes.com/fact-check/tom-cotton-army-ranger/) (Tier 2)
-- [Rolling Stone: Sen. Tom Cotton Bragged He Was an 'Army Ranger.' He Was Not.](https://www.rollingstone.com/politics/politics-news/tom-cotton-army-ranger-school-1118418/) (Tier 2)
-- [Wikipedia: RAISE Act - Tom Cotton](https://en.wikipedia.org/wiki/RAISE_Act) (Tier 3)
+- [CNN: New York Times says controversial Tom Cotton op-ed did not meet its standards](https://www.cnn.com/2020/06/04/media/new-york-times-tom-cotton-statement) (Tier 2) (VERIFIED)
+- [CNN: James Bennet resigns from New York Times after Cotton op-ed backlash](https://www.cnn.com/2020/06/07/media/james-bennet-new-york-times-resigns) (Tier 2) (VERIFIED)
+- [Snopes: Did Sen. Tom Cotton Falsely Claim To Have Been an 'Army Ranger in Afghanistan and Iraq'?](https://www.snopes.com/fact-check/tom-cotton-army-ranger/) (Tier 2) (VERIFIED)
+- [Rolling Stone: Sen. Tom Cotton Bragged He Was an 'Army Ranger.' He Was Not.](https://www.rollingstone.com/politics/politics-news/tom-cotton-army-ranger-school-1118418/) (Tier 2) (VERIFIED)
+- [Wikipedia: RAISE Act - Tom Cotton](https://en.wikipedia.org/wiki/RAISE_Act) (Tier 3) (VERIFIED)

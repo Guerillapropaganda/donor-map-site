@@ -67,4 +67,4 @@ Hegseth departed CVA in January 2016 amid internal allegations of financial mism
 
 ### Sources
 
-- [OpenSecrets: Koch network political spending](https://www.opensecrets.org/members-of-congress/summary?name=Koch%20Network%20and%20Concerned%20Veterans%20for%20America) (Tier 1)
+- [OpenSecrets: Koch network political spending](https://www.opensecrets.org/members-of-congress/summary?name=Koch%20Network%20and%20Concerned%20Veterans%20for%20America) (Tier 1) (VERIFIED)

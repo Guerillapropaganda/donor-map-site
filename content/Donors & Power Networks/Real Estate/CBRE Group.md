@@ -76,7 +76,7 @@ CBRE Group, Inc. The world's largest commercial real estate services and investm
 
 CBRE PAC contributes $500,000-$1 million per cycle, with lobbying spending of $3-5 million annually. CBRE's political operation focuses on commercial real estate tax policy, particularly the preservation of 1031 exchanges, carried interest treatment for real estate funds, and favorable depreciation schedules.
 
-- [OpenSecrets: CBRE Group organizational profile](https://www.opensecrets.org/orgs/cbre-group/summary?id=D000046887) (Tier 1)
+- [OpenSecrets: CBRE Group organizational profile](https://www.opensecrets.org/orgs/cbre-group/summary?id=D000046887) (Tier 1) (VERIFIED)
 
 ---
 
@@ -98,8 +98,8 @@ Preservation of 1031 exchanges, favorable commercial real estate depreciation sc
 ### Sources
 
 - [OpenSecrets: CBRE Group organizational profile](https://www.opensecrets.org/orgs/cbre-group/summary?id=D000046887) (Tier 1)
-- [JCT: Revenue estimates for 1031 exchange reform](https://www.jct.gov/publications/?search_term=CBRE%20Group) (Tier 1)
-- [Ballotpedia: CBRE Group](https://ballotpedia.org/CBRE_Group) (Tier 3)
+- ~~[JCT: Revenue estimates for 1031 exchange reform](https://www.jct.gov/publications/?search_term=CBRE%20Group)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Ballotpedia: CBRE Group](https://ballotpedia.org/CBRE_Group) (Tier 3) (VERIFIED)
 
 ### Financial Overview (990 Filing — 2024)
 <!-- auto:propublica-990 start -->
@@ -110,7 +110,7 @@ Preservation of 1031 exchanges, favorable commercial real estate depreciation sc
 | Total Expenses | $84K |
 | Net Assets | $11K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 541871872](https://projects.propublica.org/nonprofits/organizations/541871872) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 541871872](https://projects.propublica.org/nonprofits/organizations/541871872) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### SEC Filing Activity
@@ -124,13 +124,13 @@ Preservation of 1031 exchanges, favorable commercial real estate depreciation sc
 
 **Notable filings:**
 
-- 2026-04-03 — **ARS**: [ARS](https://www.sec.gov/Archives/edgar/data/1138118/000119312526141311/0001193125-26-141311-index.htm)
-- 2026-04-03 — **DEFA14A**: [DEFA14A](https://www.sec.gov/Archives/edgar/data/1138118/000119312526141288/0001193125-26-141288-index.htm)
-- 2026-04-03 — **DEF 14A**: [DEF 14A](https://www.sec.gov/Archives/edgar/data/1138118/000119312526141285/0001193125-26-141285-index.htm)
-- 2026-03-26 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/1138118/000010290926000980/0000102909-26-000980-index.htm)
-- 2026-03-24 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/1138118/000113811826000008/0001138118-26-000008-index.htm)
+- 2026-04-03 — **ARS**: [ARS](https://www.sec.gov/Archives/edgar/data/1138118/000119312526141311/0001193125-26-141311-index.htm) (VERIFIED)
+- 2026-04-03 — **DEFA14A**: [DEFA14A](https://www.sec.gov/Archives/edgar/data/1138118/000119312526141288/0001193125-26-141288-index.htm) (VERIFIED)
+- 2026-04-03 — **DEF 14A**: [DEF 14A](https://www.sec.gov/Archives/edgar/data/1138118/000119312526141285/0001193125-26-141285-index.htm) (VERIFIED)
+- 2026-03-26 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/1138118/000010290926000980/0000102909-26-000980-index.htm) (VERIFIED)
+- 2026-03-24 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/1138118/000113811826000008/0001138118-26-000008-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22CBRE%20Group%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22CBRE%20Group%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Federal Spending (USASpending)
@@ -150,7 +150,7 @@ Preservation of 1031 exchanges, favorable commercial real estate depreciation sc
 | $144K | Department of the Treasury | TRACS0001866 - APPROVAL DATE 5/2/25. EXPERT WITNESS SERVICES REQUIRED FOR VALUATION OF REAL ESTATE F |
 | $15K | Environmental Protection Agency | SMALL INSTRUMENT CALIBRATION FOR CENTRIFUGES, PH METERS, THERMOCYCLERS, THERMOMETERS, AND SPECTROPHO |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/7e86b7d3-1a74-95d4-dd2e-e89f86cc9d2b-P/latest) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/7e86b7d3-1a74-95d4-dd2e-e89f86cc9d2b-P/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -186,7 +186,7 @@ Preservation of 1031 exchanges, favorable commercial real estate depreciation sc
 | Plumbing, Heating, and Air-Conditioning Contractors (238220) | $868K |
 | Electrical Contractors and Other Wiring Installation Contractors (238210) | $718K |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Federal Court Records (CourtListener)
@@ -205,5 +205,5 @@ Preservation of 1031 exchanges, favorable commercial real estate depreciation sc
 - Iovate Health Sciences International Inc. (2025) — United States Bankruptcy Court, S.D. New York
 - CVS PHARMACY, INC. v. NEW RITE AID, LLC (2025) — District Court, D. New Jersey
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22CBRE%20Group%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22CBRE%20Group%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->

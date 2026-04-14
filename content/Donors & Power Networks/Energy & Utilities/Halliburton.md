@@ -105,7 +105,7 @@ Halliburton's political infamy is inseparable from Dick Cheney, who served as Ha
 
 Halliburton PAC contributes $1-2 million per cycle, with lobbying spending of $2-4 million annually. The company's political spending is modest relative to its revenue because its primary political asset is structural: as the dominant oilfield services provider, Halliburton benefits from every policy that promotes oil and gas production regardless of specific legislation.
 
-- [OpenSecrets: Halliburton organizational profile](https://www.opensecrets.org/orgs/halliburton-co/summary?id=D000000281) (Tier 1)
+- [OpenSecrets: Halliburton organizational profile](https://www.opensecrets.org/orgs/halliburton-co/summary?id=D000000281) (Tier 1) (VERIFIED)
 
 ---
 
@@ -129,8 +129,8 @@ Expedited drilling permits on federal lands, opposition to EPA fracking regulati
 ### Sources
 
 - [OpenSecrets: Halliburton organizational profile](https://www.opensecrets.org/orgs/halliburton-co/summary?id=D000000281) (Tier 1)
-- [EPA: Hydraulic fracturing Safe Drinking Water Act exemption](https://www.epa.gov/uic/class-ii-oil-and-gas-related-injection-wells) (Tier 1)
-- [Ballotpedia: Halliburton](https://ballotpedia.org/Halliburton) (Tier 3)
+- [EPA: Hydraulic fracturing Safe Drinking Water Act exemption](https://www.epa.gov/uic/class-ii-oil-and-gas-related-injection-wells) (Tier 1) (VERIFIED)
+- [Ballotpedia: Halliburton](https://ballotpedia.org/Halliburton) (Tier 3) (VERIFIED)
 
 ---
 
@@ -158,8 +158,8 @@ Expedited drilling permits on federal lands, opposition to EPA fracking regulati
 | Total Expenses | $3.3M |
 | Net Assets | $806K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 262383244](https://projects.propublica.org/nonprofits/organizations/262383244) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_01_2024_prefixes_26-26%2F262383244_202212_990_2024010522189481.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 262383244](https://projects.propublica.org/nonprofits/organizations/262383244) (Tier 1) (VERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_01_2024_prefixes_26-26%2F262383244_202212_990_2024010522189481.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Vehicle Safety (NHTSA)
@@ -177,7 +177,7 @@ Expedited drilling permits on federal lands, opposition to EPA fracking regulati
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Halliburton) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Halliburton) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Tax Filings (IRS 990)
@@ -195,21 +195,21 @@ Expedited drilling permits on federal lands, opposition to EPA fracking regulati
 **Filing history:** 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015
 
 **View 990 filings:**
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/262383244/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/262383244/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/262383244/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/262383244/2019)
-- [2018 Filing](https://projects.propublica.org/nonprofits/organizations/262383244/2018)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/262383244/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/262383244/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/262383244/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/262383244/2019)~~ (URL broken, archived by Ops)
+- ~~[2018 Filing](https://projects.propublica.org/nonprofits/organizations/262383244/2018)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/262383244) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/262383244) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
 |-------|-------|
-| LEI | [ENYF8GB5SMQZ25S06U51](https://search.gleif.org/#/record/ENYF8GB5SMQZ25S06U51) |
+| LEI | [ENYF8GB5SMQZ25S06U51](https://search.gleif.org/#/record/ENYF8GB5SMQZ25S06U51) (VERIFIED) |
 | Legal Name | HALLIBURTON COMPANY |
 | Jurisdiction | US-DE |
 | Entity Status | ACTIVE |
@@ -217,7 +217,7 @@ Expedited drilling permits on federal lands, opposition to EPA fracking regulati
 | Registration | ISSUED |
 | Last Updated | 2025-06-23T21:07:51Z |
 
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
 ### SEC Filing Activity
@@ -231,13 +231,13 @@ Expedited drilling permits on federal lands, opposition to EPA fracking regulati
 
 **Notable filings:**
 
-- 2026-04-06 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/45012/000142284826000038/0001422848-26-000038-index.htm)
-- 2026-03-31 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/45012/000184175226000007/0001841752-26-000007-index.htm)
-- 2026-03-31 — **DEFA14A**: [DEFA14A](https://www.sec.gov/Archives/edgar/data/45012/000004501226000034/0000045012-26-000034-index.htm)
-- 2026-03-31 — **DEF 14A**: [DEF 14A](https://www.sec.gov/Archives/edgar/data/45012/000004501226000033/0000045012-26-000033-index.htm)
-- 2026-03-30 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/45012/000155866726000012/0001558667-26-000012-index.htm)
+- 2026-04-06 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/45012/000142284826000038/0001422848-26-000038-index.htm) (VERIFIED)
+- 2026-03-31 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/45012/000184175226000007/0001841752-26-000007-index.htm) (VERIFIED)
+- 2026-03-31 — **DEFA14A**: [DEFA14A](https://www.sec.gov/Archives/edgar/data/45012/000004501226000034/0000045012-26-000034-index.htm) (VERIFIED)
+- 2026-03-31 — **DEF 14A**: [DEF 14A](https://www.sec.gov/Archives/edgar/data/45012/000004501226000033/0000045012-26-000033-index.htm) (VERIFIED)
+- 2026-03-30 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/45012/000155866726000012/0001558667-26-000012-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Halliburton%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Halliburton%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Federal Court Records (CourtListener)
@@ -256,7 +256,7 @@ Expedited drilling permits on federal lands, opposition to EPA fracking regulati
 - Clark v. Halliburton Energy Services, Inc. (2026) — District Court, M.D. Pennsylvania
 - Fulton (ID 2000036653) v. Smith (2026) — District Court, D. Kansas
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Halliburton%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Halliburton%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -278,7 +278,7 @@ Expedited drilling permits on federal lands, opposition to EPA fracking regulati
 |------------------|--------|--------|
 | BURNS & MCDONNELL ENGINEERING COMPANY, INC. | $54K | 1 |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Federal Register Activity
@@ -292,15 +292,15 @@ Expedited drilling permits on federal lands, opposition to EPA fracking regulati
 | Agencies | Antitrust Division, Centers for Medicare & Medicaid Services, Export-Import Bank, Foreign Assets Control Office, Health Resources and Services Administration, Health and Human Services Department, Justice Department, Labor Department +5 more |
 
 **Recent regulatory activity:**
-- [Medicare Program: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems; Quality Reporting Programs; Overall Hospital Quality Star Rating; Hospital Price Transparency; and Notice of Closure of a Teaching Hospital and Opportunity To Apply for Available Slots](https://www.federalregister.gov/documents/2025/11/25/2025-20907/medicare-program-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment) (2025-11-25) — Health and Human Services Department ★
-- [Application for Final Commitment for a Long-Term Loan or Financial Guarantee in Excess of $100 million: AP300029XX](https://www.federalregister.gov/documents/2025/08/11/2025-15207/application-for-final-commitment-for-a-long-term-loan-or-financial-guarantee-in-excess-of-100) (2025-08-11) — Export-Import Bank
-- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-National Armaments Consortium](https://www.federalregister.gov/documents/2025/04/21/2025-06796/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-national-armaments) (2025-04-21) — Justice Department
-- [Hazardous Materials: Notice of Actions on Special Permits](https://www.federalregister.gov/documents/2025/04/07/2025-05947/hazardous-materials-notice-of-actions-on-special-permits) (2025-04-07) — Transportation Department
-- [Procedures for the Handling of Retaliation Complaints Under the Anti-Money Laundering Act of 2020 (AMLA)](https://www.federalregister.gov/documents/2025/01/14/2025-00539/procedures-for-the-handling-of-retaliation-complaints-under-the-anti-money-laundering-act-of-2020) (2025-01-14) — Labor Department
-- [Publication of Venezuela Sanctions Regulations Web General Licenses 5Q and 8O](https://www.federalregister.gov/documents/2024/12/19/2024-29991/publication-of-venezuela-sanctions-regulations-web-general-licenses-5q-and-8o) (2024-12-19) — Treasury Department
+- [Medicare Program: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems; Quality Reporting Programs; Overall Hospital Quality Star Rating; Hospital Price Transparency; and Notice of Closure of a Teaching Hospital and Opportunity To Apply for Available Slots](https://www.federalregister.gov/documents/2025/11/25/2025-20907/medicare-program-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment) (VERIFIED) (2025-11-25) — Health and Human Services Department ★
+- [Application for Final Commitment for a Long-Term Loan or Financial Guarantee in Excess of $100 million: AP300029XX](https://www.federalregister.gov/documents/2025/08/11/2025-15207/application-for-final-commitment-for-a-long-term-loan-or-financial-guarantee-in-excess-of-100) (VERIFIED) (2025-08-11) — Export-Import Bank
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-National Armaments Consortium](https://www.federalregister.gov/documents/2025/04/21/2025-06796/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-national-armaments) (VERIFIED) (2025-04-21) — Justice Department
+- [Hazardous Materials: Notice of Actions on Special Permits](https://www.federalregister.gov/documents/2025/04/07/2025-05947/hazardous-materials-notice-of-actions-on-special-permits) (VERIFIED) (2025-04-07) — Transportation Department
+- [Procedures for the Handling of Retaliation Complaints Under the Anti-Money Laundering Act of 2020 (AMLA)](https://www.federalregister.gov/documents/2025/01/14/2025-00539/procedures-for-the-handling-of-retaliation-complaints-under-the-anti-money-laundering-act-of-2020) (VERIFIED) (2025-01-14) — Labor Department
+- [Publication of Venezuela Sanctions Regulations Web General Licenses 5Q and 8O](https://www.federalregister.gov/documents/2024/12/19/2024-29991/publication-of-venezuela-sanctions-regulations-web-general-licenses-5q-and-8o) (VERIFIED) (2024-12-19) — Treasury Department
 - ... and 262 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Halliburton%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Halliburton%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
 ### FTC Enforcement & Merger Review
@@ -312,13 +312,13 @@ Expedited drilling permits on federal lands, opposition to EPA fracking regulati
 
 **Recent HSR merger filings (early terminations granted):**
 
-- [Halliburton Company → Pine Brook Capital Partners (Cayman) AV-3 L.P.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20120026) (2011-10-21)
-- [Halliburton Company → James B. Archer](https://www.ftc.gov/legal-library/browse/early-termination-notices/20111394) (2011-09-26)
-- [Halliburton Company → Boots & Coots, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20100609) (2010-04-29)
-- [Halliburton Company → Carbo Ceramics Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20081724) (2008-09-29)
-- [Virginia L. Shaw → Halliburton Company](https://www.ftc.gov/legal-library/browse/early-termination-notices/20021099) (2002-09-03)
+- [Halliburton Company → Pine Brook Capital Partners (Cayman) AV-3 L.P.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20120026) (VERIFIED) (2011-10-21)
+- [Halliburton Company → James B. Archer](https://www.ftc.gov/legal-library/browse/early-termination-notices/20111394) (VERIFIED) (2011-09-26)
+- [Halliburton Company → Boots & Coots, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20100609) (VERIFIED) (2010-04-29)
+- [Halliburton Company → Carbo Ceramics Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20081724) (VERIFIED) (2008-09-29)
+- [Virginia L. Shaw → Halliburton Company](https://www.ftc.gov/legal-library/browse/early-termination-notices/20021099) (VERIFIED) (2002-09-03)
 
-> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Halliburton).
+> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Halliburton) (VERIFIED).
 
-- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Halliburton) (Tier 1)
+- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Halliburton) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->

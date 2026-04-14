@@ -23,7 +23,7 @@ known-gaps:
 
 **THE ADELSON PIPELINE DELIVERS**.
 
-[[Sheldon Adelson]] spent $90M+ across three Trump cycles to guarantee three outcomes: Jerusalem embassy, Iran confrontation, and Abraham Accords. He got all three. When Sheldon died in 2021, his wife [[Miriam Adelson]] inherited the pipeline. She committed $100M+ for Trump's 2024 return to power ([Times of Israel](https://www.timesofisrael.com/miriam-adelson-gives-100-million-to-trump-campaign-making-good-on-reported-pledge/), Tier 2). The Iran war that launched February 28, 2026 is the fourth outcome the money bought. The war creates the geopolitical conditions for the fifth outcome Miriam Adelson now demands: Israeli annexation of the occupied West Bank.
+[[Sheldon Adelson]] spent $90M+ across three Trump cycles to guarantee three outcomes: Jerusalem embassy, Iran confrontation, and Abraham Accords. He got all three. When Sheldon died in 2021, his wife [[Miriam Adelson]] inherited the pipeline. She committed $100M+ for Trump's 2024 return to power ([Times of Israel](https://www.timesofisrael.com/miriam-adelson-gives-100-million-to-trump-campaign-making-good-on-reported-pledge/) (VERIFIED), Tier 2). The Iran war that launched February 28, 2026 is the fourth outcome the money bought. The war creates the geopolitical conditions for the fifth outcome Miriam Adelson now demands: Israeli annexation of the occupied West Bank.
 
 The mechanism is straightforward. Sheldon deployed capital to reshape U.S. foreign policy around three specific geopolitical goals. Each goal required specific diplomatic moves. The money enabled the political isolation of actors (like the JCPOA signatories) who might have resisted. The money funded the campaigns of politicians who would execute the moves. The moves happened.
 
@@ -53,7 +53,7 @@ Netanyahu's personal political position depends on extended conflict. His trial 
 
 **DEFENSE CONTRACTORS: $6M TO ELECTION OBJECTORS, BILLIONS IN CONTRACTS**.
 
-The top 40 defense contractors gave $6M+ directly to 147 Republicans who voted against 2020 certification ([CREW](https://www.citizensforethics.org/reports-investigations/crew-reports/the-defense-industry-is-the-biggest-supporter-of-the-sedition-caucus/), Tier 2). That's not coercion. That's a down payment on future contracts. When DOGE dismantled Pentagon oversight capacity and war emergency spending bypassed competitive bidding, the contracts flowed to the same companies.
+The top 40 defense contractors gave $6M+ directly to 147 Republicans who voted against 2020 certification ([CREW](https://www.citizensforethics.org/reports-investigations/crew-reports/the-defense-industry-is-the-biggest-supporter-of-the-sedition-caucus/) (VERIFIED), Tier 2). That's not coercion. That's a down payment on future contracts. When DOGE dismantled Pentagon oversight capacity and war emergency spending bypassed competitive bidding, the contracts flowed to the same companies.
 
 | Contractor | 2020 Cert Vote Donations | Iran War Positioning |
 |---|---|---|
@@ -69,7 +69,7 @@ Tier 1 campaign finance data through August 2022 (OpenSecrets, FEC filings). By 
 
 **THE DOGE ACCELERATION: CUT READINESS, START WAR, CONTRACTS FLOW**.
 
-DOGE cut $11.1B from Pentagon readiness programs starting January 2025 ([Breaking Defense](https://breakingdefense.com/2025/08/mining-for-doge-defense-budget-docs-show-11b-in-efficiencies-but-what-are-they/), Tier 2). By February 28, 2026, the Iran war began. By March 2026, Congress was working on supplemental emergency spending to replace the cut capacity. The sequence is structural: reduce oversight capacity, remove enforcement infrastructure, then the war creates urgency for emergency spending outside normal appropriations processes. Defense contractors win twice: their competitors' capabilities were cut and their own emergency contracts bypass oversight.
+DOGE cut $11.1B from Pentagon readiness programs starting January 2025 ([Breaking Defense](https://breakingdefense.com/2025/08/mining-for-doge-defense-budget-docs-show-11b-in-efficiencies-but-what-are-they/) (VERIFIED), Tier 2). By February 28, 2026, the Iran war began. By March 2026, Congress was working on supplemental emergency spending to replace the cut capacity. The sequence is structural: reduce oversight capacity, remove enforcement infrastructure, then the war creates urgency for emergency spending outside normal appropriations processes. Defense contractors win twice: their competitors' capabilities were cut and their own emergency contracts bypass oversight.
 
 The Pentagon's Defense Information Systems Agency warned of "extreme risk for loss of service" in February 2026 as DOGE staffing cuts left no one maintaining secure military communications. The war made that risk catastrophic. Emergency spending to restore capacity went directly to the contractors who never faced competitive bidding. This is the DOGE to war to contracts pipeline. It's not accidental. It's model-tested: Schedule F creates the civil service decay, DOGE completes the capacity loss, emergency war spending restores capacity through private contractors, enforcement agencies dissolve.
 
@@ -83,7 +83,7 @@ By April 2026, defense contractors' Q1 2026 earnings reports began documenting i
 
 **OIL PRICES AND THE FOSSIL FUEL WINDFALL**.
 
-Fossil fuel donors spent $219M on the 2024 election ([Yale Climate Connections](https://yaleclimateconnections.org/2025/01/the-fossil-fuel-industry-spent-219-million-to-elect-the-new-u-s-government/), Tier 2). That's documented. The Strait of Hormuz closure created a 50%+ oil price spike in March 2026. Crude went from $75/barrel to $126/barrel at peak. The extraction costs for Shell, ExxonMobil, Chevron, and the rest of the majors didn't change. Only revenues changed. The April-through-June 2026 market at $110-120/barrel prices represents $80-120B in excess revenue for the major producers over the scenario analysts modeled pre-war.
+Fossil fuel donors spent $219M on the 2024 election ([Yale Climate Connections](https://yaleclimateconnections.org/2025/01/the-fossil-fuel-industry-spent-219-million-to-elect-the-new-u-s-government/) (VERIFIED), Tier 2). That's documented. The Strait of Hormuz closure created a 50%+ oil price spike in March 2026. Crude went from $75/barrel to $126/barrel at peak. The extraction costs for Shell, ExxonMobil, Chevron, and the rest of the majors didn't change. Only revenues changed. The April-through-June 2026 market at $110-120/barrel prices represents $80-120B in excess revenue for the major producers over the scenario analysts modeled pre-war.
 
 That windfall is pure profit. The majors' capital expenditure commitments don't increase with price spikes. Their operating margins are fixed by drilling costs. Every dollar above $85/barrel is extraction profit. The Strait of Hormuz closure at $110-120/barrel prices means $35-40B in excess annual revenue for just the U.S.-listed majors.
 
@@ -95,7 +95,7 @@ The $219M they spent on the 2024 election bought the political environment where
 
 **STRAIT OF HORMUZ CLOSURE: 20% OF GLOBAL OIL, 3.3% INFLATION RISK**.
 
-Twenty percent of global oil flows through the Strait of Hormuz. The Iran war closed it. Economic modeling documented by the Dallas Federal Reserve shows that sustained closure creates 3.3% global inflation and 2.1% GDP loss ([Dallas Fed](https://www.dallasfed.org/research/economics/2026/0320), Tier 1). Those aren't trivial numbers. That's stagflation: inflation + stagnation simultaneously.
+Twenty percent of global oil flows through the Strait of Hormuz. The Iran war closed it. Economic modeling documented by the Dallas Federal Reserve shows that sustained closure creates 3.3% global inflation and 2.1% GDP loss ([Dallas Fed](https://www.dallasfed.org/research/economics/2026/0320) (VERIFIED), Tier 1). Those aren't trivial numbers. That's stagflation: inflation + stagnation simultaneously.
 
 For the fossil fuel industry, stagflation is the structural condition where their real profits (inflation-adjusted margins) remain stable while every other sector contracts. A $110/barrel price in stagflation environment still delivers $25-35/barrel real profit margin when demand destruction offsets inflation effects. The working class bears the cost in real wages lost to inflation and jobs lost to recession. The oil majors' profit-to-revenue ratio stays flat.
 
@@ -137,7 +137,7 @@ The donor class extracts $480-600B in combined excess profit from the three cons
 
 **THE HUMANITARIAN TOLL: 1,330+ DEAD, 18,000+ WOUNDED**.
 
-The Shajarah Tayyebeh elementary school for girls in Iran was struck by a missile on February 28, 2026. 175 children and educators were killed ([Sen. Reed](https://www.reed.senate.gov/news/releases/as-trump-tries-to-avoid-accountability-for-iranian-school-bombing-reed-and-whitehouse-press-dod-for-answers-on-tragic-mistake-and-efforts-to-prevent-civilian-casualties-in-iran), Tier 2), most of them grade school students. Another 12,000+ Iranians have been wounded since the war began. A total of 1,330+ Iranians had been killed by March 22, 2026, along with 200+ U.S. troops wounded and at least 7 killed.
+The Shajarah Tayyebeh elementary school for girls in Iran was struck by a missile on February 28, 2026. 175 children and educators were killed ([Sen. Reed](https://www.reed.senate.gov/news/releases/as-trump-tries-to-avoid-accountability-for-iranian-school-bombing-reed-and-whitehouse-press-dod-for-answers-on-tragic-mistake-and-efforts-to-prevent-civilian-casualties-in-iran) (VERIFIED), Tier 2), most of them grade school students. Another 12,000+ Iranians have been wounded since the war began. A total of 1,330+ Iranians had been killed by March 22, 2026, along with 200+ U.S. troops wounded and at least 7 killed.
 
 **GLOBAL CONTAGION: THE WORKING CLASS EVERYWHERE PAYS**.
 
@@ -168,28 +168,28 @@ Total Adelson family investment: $190M+ across four political cycles. Total geop
 ---
 
 ### SOURCES
-- [2026 Iran war Wikipedia](https://en.wikipedia.org/wiki/2026_Iran_war) (Tier 3)
-- [Reed and Whitehouse Press DOD on Iranian School Bombing U.S. Senator Jack Reed](https://www.reed.senate.gov/news/releases/as-trump-tries-to-avoid-accountability-for-iranian-school-bombing-reed-and-whitehouse-press-dod-for-answers-on-tragic-mistake-and-efforts-to-prevent-civilian-casualties-in-iran) (Tier 2)
-- [Military says 3 U.S. troops killed and 5 seriously wounded during Iran attacks PBS News](https://www.pbs.org/newshour/world/biden-says-3-u-s-troops-killed-many-injured-in-drone-attack-by-iran-backed-militia-in-jordan) (Tier 2)
-- [Washington Post: Pentagon says about 140 troops wounded, 8 severely, in war with Iran](https://www.washingtonpost.com/national-security/2026/03/10/us-troops-wounded-iran-war/) (Tier 2)
-- [Miriam Adelson gives $100 million to Trump campaign Times of Israel](https://www.timesofisrael.com/miriam-adelson-gives-100-million-to-trump-campaign-making-good-on-reported-pledge/) (Tier 2)
-- [Trump tell-all cites Adelson's bankrolled Israel embassy move Responsible Statecraft](https://responsiblestatecraft.org/2022/10/07/new-book-highlights-how-campaign-money-influences-us-foreign-policy/) (Tier 2)
-- [Sheldon Adelson's Fortune Helped Turn the GOP Into the Party of Israeli Apartheid The Intercept](https://theintercept.com/2021/01/12/sheldon-adelson-trump-israel-republican-party/) (Tier 2)
-- [Oil prices, recession: What happens if Strait of Hormuz stays closed Axios](https://www.axios.com/2026/03/12/oil-prices-iran-strait-of-hormuz) (Tier 2)
-- [How Strait of Hormuz closure can become tipping point for global economy CNBC](https://www.cnbc.com/2026/03/11/strait-of-hormuz-closure-shipping-economy-oil.html) (Tier 2)
-- [What the closure of the Strait of Hormuz means for the global economy Dallas Federal Reserve](https://www.dallasfed.org/research/economics/2026/0320) (Tier 1)
-- [2026 Strait of Hormuz crisis Wikipedia](https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis) (Tier 3)
-- [Disruption in the Strait of Hormuz is a global inflation, shipping and growth story LSE Business Review](https://blogs.lse.ac.uk/businessreview/2026/03/12/disruption-in-the-strait-of-hormuz-is-a-global-inflation-shipping-and-growth-story/) (Tier 2)
-- [Economic impact of the 2026 Iran war Wikipedia](https://en.wikipedia.org/wiki/Economic_impact_of_the_2026_Iran_war) (Tier 3)
-- [Largest defense firms donate millions to election-denying lawmakers Defense News](https://www.defensenews.com/congress/2022/11/02/largest-defense-firms-donate-millions-to-election-denying-lawmakers/) (Tier 2)
-- [Defense contractors bankrolled campaigns of election objectors Roll Call](https://rollcall.com/2022/01/03/defense-contractors-bankrolled-campaigns-of-election-objectors/) (Tier 2)
-- [The defense industry is the biggest supporter of the Sedition Caucus Citizens for Responsibility and Ethics in Washington](https://www.citizensforethics.org/reports-investigations/crew-reports/the-defense-industry-is-the-biggest-supporter-of-the-sedition-caucus/) (Tier 2)
-- [How the DOGE government spending cuts are hampering the US government amid war with Iran CNN Politics](https://www.cnn.com/2026/03/10/politics/doge-government-spending-cuts-iran-war) (Tier 2)
-- [DOGE Cuts Unexpectedly and Significantly Impacted Critical Pentagon Unit The Intercept](https://theintercept.com/2026/01/19/doge-cuts-pentagon-it-military/) (Tier 2)
-- [Mining for DOGE: Defense budget docs show $11B in efficiencies, but what are they Breaking Defense](https://breakingdefense.com/2025/08/mining-for-doge-defense-budget-docs-show-11b-in-efficiencies-but-what-are-they/) (Tier 2)
-- [Coalition advances bill to cancel the criminal charge that Netanyahu faces Times of Israel](https://www.timesofisrael.com/coalition-advances-bill-to-repeal-criminal-charge-that-netanyahu-faces-in-his-trial/) (Tier 2)
-- [Trial of Benjamin Netanyahu Wikipedia](https://en.wikipedia.org/wiki/Trial_of_Benjamin_Netanyahu) (Tier 3)
-- [A Calculus of Conflict: Netanyahu's Political Survival Through Extended War Arab Center DC](https://arabcenterdc.org/resource/a-calculus-of-conflict-netanyahus-political-survival-through-extended-war/) (Tier 2)
+- [2026 Iran war Wikipedia](https://en.wikipedia.org/wiki/2026_Iran_war) (Tier 3) (VERIFIED)
+- [Reed and Whitehouse Press DOD on Iranian School Bombing U.S. Senator Jack Reed](https://www.reed.senate.gov/news/releases/as-trump-tries-to-avoid-accountability-for-iranian-school-bombing-reed-and-whitehouse-press-dod-for-answers-on-tragic-mistake-and-efforts-to-prevent-civilian-casualties-in-iran) (Tier 2) (VERIFIED)
+- [Military says 3 U.S. troops killed and 5 seriously wounded during Iran attacks PBS News](https://www.pbs.org/newshour/world/biden-says-3-u-s-troops-killed-many-injured-in-drone-attack-by-iran-backed-militia-in-jordan) (Tier 2) (VERIFIED)
+- [Washington Post: Pentagon says about 140 troops wounded, 8 severely, in war with Iran](https://www.washingtonpost.com/national-security/2026/03/10/us-troops-wounded-iran-war/) (Tier 2) (VERIFIED)
+- [Miriam Adelson gives $100 million to Trump campaign Times of Israel](https://www.timesofisrael.com/miriam-adelson-gives-100-million-to-trump-campaign-making-good-on-reported-pledge/) (Tier 2) (VERIFIED)
+- [Trump tell-all cites Adelson's bankrolled Israel embassy move Responsible Statecraft](https://responsiblestatecraft.org/2022/10/07/new-book-highlights-how-campaign-money-influences-us-foreign-policy/) (Tier 2) (VERIFIED)
+- [Sheldon Adelson's Fortune Helped Turn the GOP Into the Party of Israeli Apartheid The Intercept](https://theintercept.com/2021/01/12/sheldon-adelson-trump-israel-republican-party/) (Tier 2) (VERIFIED)
+- ~~[Oil prices, recession: What happens if Strait of Hormuz stays closed Axios](https://www.axios.com/2026/03/12/oil-prices-iran-strait-of-hormuz)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [How Strait of Hormuz closure can become tipping point for global economy CNBC](https://www.cnbc.com/2026/03/11/strait-of-hormuz-closure-shipping-economy-oil.html) (Tier 2) (VERIFIED)
+- [What the closure of the Strait of Hormuz means for the global economy Dallas Federal Reserve](https://www.dallasfed.org/research/economics/2026/0320) (Tier 1) (VERIFIED)
+- [2026 Strait of Hormuz crisis Wikipedia](https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis) (Tier 3) (VERIFIED)
+- [Disruption in the Strait of Hormuz is a global inflation, shipping and growth story LSE Business Review](https://blogs.lse.ac.uk/businessreview/2026/03/12/disruption-in-the-strait-of-hormuz-is-a-global-inflation-shipping-and-growth-story/) (Tier 2) (VERIFIED)
+- [Economic impact of the 2026 Iran war Wikipedia](https://en.wikipedia.org/wiki/Economic_impact_of_the_2026_Iran_war) (Tier 3) (VERIFIED)
+- [Largest defense firms donate millions to election-denying lawmakers Defense News](https://www.defensenews.com/congress/2022/11/02/largest-defense-firms-donate-millions-to-election-denying-lawmakers/) (Tier 2) (VERIFIED)
+- [Defense contractors bankrolled campaigns of election objectors Roll Call](https://rollcall.com/2022/01/03/defense-contractors-bankrolled-campaigns-of-election-objectors/) (Tier 2) (VERIFIED)
+- [The defense industry is the biggest supporter of the Sedition Caucus Citizens for Responsibility and Ethics in Washington](https://www.citizensforethics.org/reports-investigations/crew-reports/the-defense-industry-is-the-biggest-supporter-of-the-sedition-caucus/) (Tier 2) (VERIFIED)
+- [How the DOGE government spending cuts are hampering the US government amid war with Iran CNN Politics](https://www.cnn.com/2026/03/10/politics/doge-government-spending-cuts-iran-war) (Tier 2) (VERIFIED)
+- [DOGE Cuts Unexpectedly and Significantly Impacted Critical Pentagon Unit The Intercept](https://theintercept.com/2026/01/19/doge-cuts-pentagon-it-military/) (Tier 2) (VERIFIED)
+- [Mining for DOGE: Defense budget docs show $11B in efficiencies, but what are they Breaking Defense](https://breakingdefense.com/2025/08/mining-for-doge-defense-budget-docs-show-11b-in-efficiencies-but-what-are-they/) (Tier 2) (VERIFIED)
+- [Coalition advances bill to cancel the criminal charge that Netanyahu faces Times of Israel](https://www.timesofisrael.com/coalition-advances-bill-to-repeal-criminal-charge-that-netanyahu-faces-in-his-trial/) (Tier 2) (VERIFIED)
+- [Trial of Benjamin Netanyahu Wikipedia](https://en.wikipedia.org/wiki/Trial_of_Benjamin_Netanyahu) (Tier 3) (VERIFIED)
+- [A Calculus of Conflict: Netanyahu's Political Survival Through Extended War Arab Center DC](https://arabcenterdc.org/resource/a-calculus-of-conflict-netanyahus-political-survival-through-extended-war/) (Tier 2) (VERIFIED)
 
 ---
 

@@ -13,7 +13,7 @@ profiles:
 
 ## Israel is winning wars but losing American public opinion
 
-**Source:** [The Hill](https://thehill.com/opinion/international/5824300-unfavorable-view-israel-americans/)
+**Source:** ~~[The Hill](https://thehill.com/opinion/international/5824300-unfavorable-view-israel-americans/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-10
 
 Bibi's bromance with Trump has pushed away mainstream Democrats and rankled non-interventionist Republicans.

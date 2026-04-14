@@ -136,16 +136,16 @@ The class analysis of Ohio Democratic collapse is structural, not cyclical:
 
 ### Sources
 
-- [OpenSecrets: Democratic Party of Ohio PAC summary 2024](https://www.opensecrets.org/political-action-committees-pacs/democratic-party-of-ohio/C00016899/summary/2024) (Tier 1)
-- [FEC: Ohio Democratic Party. Federal, committee overview](https://www.fec.gov/data/committee/C00016899/) (Tier 1)
-- [OpenSecrets: Ohio Senate 2024 Race. Brown vs. Moreno](https://www.opensecrets.org/races/summary?cycle=2024&id=OHS1) (Tier 1)
+- [OpenSecrets: Democratic Party of Ohio PAC summary 2024](https://www.opensecrets.org/political-action-committees-pacs/democratic-party-of-ohio/C00016899/summary/2024) (Tier 1) (VERIFIED)
+- [FEC: Ohio Democratic Party. Federal, committee overview](https://www.fec.gov/data/committee/C00016899/) (Tier 1) (VERIFIED)
+- [OpenSecrets: Ohio Senate 2024 Race. Brown vs. Moreno](https://www.opensecrets.org/races/summary?cycle=2024&id=OHS1) (Tier 1) (VERIFIED)
 - ~~[FollowTheMoney: Ohio Democratic Party entity profile](https://www.followthemoney.org/tools/election-overview?eid=4909)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 1)
-- [CNN: What Sherrod Brown says went wrong in his Senate race](https://edition.cnn.com/2024/11/24/politics/sherrod-brown-democrats-workers-ohio) (Tier 2)
-- [NBC News: Sherrod Brown talks of rescuing a 'corporate' Democratic Party](https://www.nbcnews.com/politics/congress/sen-sherrod-brown-talks-rescuing-corporate-democratic-party-rcna183486) (Tier 2)
-- [Brennan Center: Ohio Congressional Races Illustrate 2024 Campaign Finance Trends](https://www.brennancenter.org/our-work/analysis-opinion/ohio-congressional-races-illustrate-2024-campaign-finance-trends) (Tier 2)
-- [Signal Cleveland: Ohio Senate race results. Brown v. Moreno](https://signalcleveland.org/ohio-us-senate-election-2024-results-sherrod-brown-bernie-moreno/) (Tier 2)
-- [Signal Cleveland: Ohio Democratic Party Chair resigning ahead of 2026 midterm](https://signalcleveland.org/ohio-democratic-party-chair-liz-walters-resigning-ahead-of-2026-midterm-elections/) (Tier 2)
-- [Ballotpedia: Democratic Party of Ohio](https://ballotpedia.org/Democratic_Party_of_Ohio) (Tier 3)
+- [CNN: What Sherrod Brown says went wrong in his Senate race](https://edition.cnn.com/2024/11/24/politics/sherrod-brown-democrats-workers-ohio) (Tier 2) (VERIFIED)
+- [NBC News: Sherrod Brown talks of rescuing a 'corporate' Democratic Party](https://www.nbcnews.com/politics/congress/sen-sherrod-brown-talks-rescuing-corporate-democratic-party-rcna183486) (Tier 2) (VERIFIED)
+- [Brennan Center: Ohio Congressional Races Illustrate 2024 Campaign Finance Trends](https://www.brennancenter.org/our-work/analysis-opinion/ohio-congressional-races-illustrate-2024-campaign-finance-trends) (Tier 2) (VERIFIED)
+- [Signal Cleveland: Ohio Senate race results. Brown v. Moreno](https://signalcleveland.org/ohio-us-senate-election-2024-results-sherrod-brown-bernie-moreno/) (Tier 2) (VERIFIED)
+- [Signal Cleveland: Ohio Democratic Party Chair resigning ahead of 2026 midterm](https://signalcleveland.org/ohio-democratic-party-chair-liz-walters-resigning-ahead-of-2026-midterm-elections/) (Tier 2) (VERIFIED)
+- [Ballotpedia: Democratic Party of Ohio](https://ballotpedia.org/Democratic_Party_of_Ohio) (Tier 3) (VERIFIED)
 
 ---
 
@@ -181,7 +181,7 @@ The class analysis of Ohio Democratic collapse is structural, not cyclical:
 - VoteAmerica v. Schwab (2025) — Court of Appeals for the Tenth Circuit
 - de la Fuente Diaz v. Gonzalez Colon (2025) — Court of Appeals for the First Circuit
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Ohio%20Democratic%20Party%22&type=r) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Ohio%20Democratic%20Party%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### OFAC Sanctions Screening
@@ -198,7 +198,7 @@ The class analysis of Ohio Democratic collapse is structural, not cyclical:
 - SERB DEMOCRATIC PARTY (-0-) [BALKANS]
   - Remarks: a.k.a. 'SDS'.
 
-- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -219,7 +219,7 @@ The class analysis of Ohio Democratic collapse is structural, not cyclical:
 
 **Agencies contacted:** Agriculture, Dept of (USDA), Army, Dept of (Corps of Engineers), Bureau of Alcohol Tobacco Firearms & Explosives, Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Commodity Futures Trading Commission (CFTC), Consumer Financial Protection Bureau (CFPB), Defense, Dept of (DOD), Education, Dept of, Energy, Dept of +23 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Ohio%20Democratic%20Party) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Ohio%20Democratic%20Party) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)
@@ -252,7 +252,7 @@ The class analysis of Ohio Democratic collapse is structural, not cyclical:
 - 2001-04-20 — **DEF 14A**: PROXY2001
 - 2003-04-18 — **DEF 14A**: DEF 14A
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Ohio%20Democratic%20Party%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Ohio%20Democratic%20Party%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
 ### Campaign Finance (FEC)
@@ -277,7 +277,7 @@ The class analysis of Ohio Democratic collapse is structural, not cyclical:
 | ASSOCIATION OF STATE DEMOCRATIC COMMITTEES | $69,370 | DEM |
 | IDAHO STATE DEMOCRATIC PARTY | $50,000 | DEM |
 
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Ohio%20Democratic%20Party) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Ohio%20Democratic%20Party) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
 ### Tax Filings (IRS 990)
@@ -288,7 +288,7 @@ The class analysis of Ohio Democratic collapse is structural, not cyclical:
 | Tax-Exempt Status | tax-exempt |
 | Filings on Record | 0 |
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/273554312) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/273554312) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
 ### Foreign Agent Activity (FARA)
@@ -304,5 +304,5 @@ The class analysis of Ohio Democratic collapse is structural, not cyclical:
 **Foreign principals:**
 - Democratic Progressive Party (TAIWAN)
 
-- [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Ohio%20Democratic%20Party) (Tier 1)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Ohio%20Democratic%20Party)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:fara-foreign-agents end -->
