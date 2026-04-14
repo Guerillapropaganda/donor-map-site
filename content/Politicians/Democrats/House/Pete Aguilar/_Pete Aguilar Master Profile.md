@@ -1,42 +1,54 @@
 ---
-title: "Pete Aguilar"
+title: Pete Aguilar
 type: politician
 content-readiness: ready
-central-thesis: "Pete Aguilar represents the Democratic Party's leadership pipeline: moderate enough for donors, diverse enough for the base, loyal enough for leadership. His rise from a Southern California inland district to the third-ranking House Democrat illus..."
-last-updated: 2026-04-13
+central-thesis: >-
+  Pete Aguilar represents the Democratic Party's leadership pipeline: moderate
+  enough for donors, diverse enough for the base, loyal enough for leadership.
+  His rise from a Southern California inland district to the third-ranking House
+  Democrat illus...
+last-updated: '2026-04-14'
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "House"
-state: "California"
-state-abbr: "CA"
-district: "6"
+party: Democrat
+chamber: House
+state: California
+state-abbr: CA
+district: '6'
 committees:
-  - "Appropriations"
-total-received: "$3,026,029"
-fec-candidate-id: "H2CA31125"
-donors: "[[AFSCME - American Federation of State County and Municipal Employees]] · [[Blue Shield of California]] · [[UAW - United Auto Workers]]"
-related: "[[_Hakeem Jeffries Master Profile|Jeffries]] · [[_Nancy Pelosi Master Profile|Pelosi]] · [[_Suzan DelBene Master Profile|DelBene]]"
+  - Appropriations
+total-received: '$3,026,029'
+fec-candidate-id: H2CA31125
+donors: >-
+  [[AFSCME - American Federation of State County and Municipal Employees]] ·
+  [[Blue Shield of California]] · [[UAW - United Auto Workers]]
+related: >-
+  [[_Hakeem Jeffries Master Profile|Jeffries]] · [[_Nancy Pelosi Master
+  Profile|Pelosi]] · [[_Suzan DelBene Master Profile|DelBene]] · [[Debbie
+  Stabenow Master Profile]]
 needs-reenrichment: true
-reenrich-reason: "run voting pipeline; run congress pipeline; run pipelines"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-  • No last-enriched date is set. The pipelines have never touched this file.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-last-enriched: "2026-04-13"
-bioguide-id: "A000371"
+reenrich-reason: run voting pipeline; run congress pipeline; run pipelines
+internal-notes: >-
+  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: •
+  VOTING data is missing entirely. This profile was promoted to ready without
+  ever having voting enrichment run on it. • CONGRESS data is missing entirely.
+  This profile was promoted to ready without ever having congress enrichment run
+  on it. • No last-enriched date is set. The pipelines have never touched this
+  file. The needs-reenrichment flag has been set. The next scheduled pipeline
+  run will pick it up automatically.
+last-enriched: '2026-04-13'
+bioguide-id: A000371
 issues:
-  - "Agriculture and Food"
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Congress"
-  - "Crime and Law Enforcement"
-  - "Education"
-  - "Finance and Financial Sector"
-  - "Government Operations and Politics"
-  - "Health"
-  - "Housing and Community Development"
-  - "Immigration"
+  - Agriculture and Food
+  - 'Civil Rights and Liberties, Minority Issues'
+  - Congress
+  - Crime and Law Enforcement
+  - Education
+  - Finance and Financial Sector
+  - Government Operations and Politics
+  - Health
+  - Housing and Community Development
+  - Immigration
 ---
 #aguilar #california #caucus-chair #leadership #inland-empire #january-6 #moderate #appropriations #logistics #dccc
 
