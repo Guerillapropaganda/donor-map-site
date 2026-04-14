@@ -28,7 +28,7 @@ related: >-
   Senate Election]] · [[Jon Husted Master Profile]] · [[Bob Casey]] ·
   [[Teamsters - International Brotherhood of Teamsters]] · [[Crypto Industry
   Bloc]] · [[_JD Vance Master Profile]] · [[Ohio Federation of Teachers]] ·
-  [[Bernie Moreno]] · [[Frank Pallone]] · [[Mark Takano]]
+  [[Bernie Moreno]] · [[Frank Pallone]] · [[Mark Takano]] · [[Pete Aguilar]]
 editorial-review-date: '2026-04-08'
 editorial-reviewer: Research Claude
 editorial-result: block
