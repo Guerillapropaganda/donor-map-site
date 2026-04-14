@@ -4,7 +4,7 @@ type: admin-note
 note-type: data
 priority: normal
 status: active
-last-updated: '2026-04-13'
+last-updated: '2026-04-14'
 sprint-id: "2026-04-sprint"
 sprint-start: '2026-04-10'
 sprint-end: '2026-04-30'
@@ -1026,6 +1026,152 @@ phase_1_tasks:
       added_adhoc: true
       notes: "content/Admin Notes/capitol-trades-data-quality.md. Full breakdown of dataset, extraction rates, known gaps, next steps."
 
+    - id: cc_85
+      task: "Deploy unblocker: resolve merge-conflict markers in CA Farm Bureau Federation frontmatter"
+      status: done
+      completed_date: 2026-04-14
+      completed_at: "2026-04-14T11:20:00-05:00"
+      added_adhoc: true
+      commit: "17d3f2ba"
+      deploy: "24410325193"
+      notes: "GH Actions run 24409280227 failed on `<<<<<<< HEAD` markers in frontmatter. Root cause: per-approval commit race between pipeline write and ops approve write. Kept newer last-enriched date and merged both sides' data. Live site was stuck until this commit."
+
+    - id: cc_86
+      task: "Fix duplicate React key bug in Ops activity feed (sug- id 20-char truncation)"
+      status: done
+      completed_date: 2026-04-14
+      completed_at: "2026-04-14T11:35:00-05:00"
+      added_adhoc: true
+      commit: "9565720f"
+      deploy: "24410325193"
+      notes: "ops/src/app/api/activity/route.ts truncated suggestion ids to 20 chars for the React key prefix, so every 'Mike Collins Master Profile → X' approval collided on `sug-Mike Collins Master `. 16 collisions found in suggestion-actions.json. Fix: use full id. Surfaced from David's bulk approval session as Next.js console error."
+
+    - id: cc_87
+      task: "Refactor /api/suggestions approve to dual-write canonical edge + frontmatter"
+      status: done
+      completed_date: 2026-04-14
+      completed_at: "2026-04-14T11:50:00-05:00"
+      added_adhoc: true
+      commit: "9565720f"
+      deploy: "24410325193"
+      notes: |
+        Pre-fix: 130 approvals landed in frontmatter only; canonical data/relationships.jsonl had 1 manual-ops edge. Post-fix: approve flow runs buildEdge + upsertEdge before frontmatter write, mirroring /api/relationships POST (Phase 3 Part 3b pattern). Shared legacyToPhase3Type / endpointsForLegacyWrite / LEGACY_RELATIONSHIP_TYPES helpers extracted into ops/src/lib/relationships-store.ts so both routes can't drift. Returns edgeId + canonicalSkipReason to client. Canonical write runs even when frontmatter already has the link so historic approvals catch up on re-approval.
+
+    - id: cc_88
+      task: "Backfill 130 historic approvals into data/relationships.jsonl"
+      status: done
+      completed_date: 2026-04-14
+      completed_at: "2026-04-14T12:10:00-05:00"
+      added_adhoc: true
+      commit: "1f014b53"
+      deploy: "24410325193"
+      notes: |
+        scripts/backfill-suggestion-approvals-to-jsonl.cjs (idempotent, dedupes by edge id). First pass: 37/130 matched existing records (last_verified bumped), 93 skipped due to title-index gaps. Full 130/130 resolution came after cc_89/cc_90/cc_91/cc_92/cc_93 landed.
+
+    - id: cc_89
+      task: "Priority-based disambiguation + aliases field in buildTitleIndex"
+      status: done
+      completed_date: 2026-04-14
+      completed_at: "2026-04-14T13:20:00-05:00"
+      added_adhoc: true
+      commit: "3a3390bb"
+      deploy: "24410987603"
+      notes: |
+        scripts/lib/relationship-edge-validator.cjs. Canonicality score: politician > state-politician > entity > story > donor > event > meta, archive-path penalty (-200), file-size tiebreaker (+20 max). 18 ambiguous vault titles → 0 without touching any profile file. Also added `aliases:` frontmatter field support — profiles can claim alt names as weaker index entries; real titles always beat aliases on collision.
+
+    - id: cc_90
+      task: "Add PAC aliases to 22 existing profiles (absorb FEC ALL-CAPS committee names)"
+      status: done
+      completed_date: 2026-04-14
+      completed_at: "2026-04-14T13:30:00-05:00"
+      added_adhoc: true
+      commit: "3a3390bb"
+      deploy: "24410987603"
+      notes: "scripts/add-pac-aliases.cjs. Club for Growth (+CLUB FOR GROWTH ACTION), Senate Leadership Fund (+SLF PAC +SFA FUND INC), Senate Majority PAC (+SMP +MAJORITY PAC), Americans for Prosperity (+AFP ACTION variants), SEIU, AFSCME, DMFI, DSCC, NAR, Fairshake, MAGA Inc, US Chamber, Freedom Partners, and 8 more. 22/22 profiles updated."
+
+    - id: cc_91
+      task: "Create 39 stub profiles for missing PAC/committee entities"
+      status: done
+      completed_date: 2026-04-14
+      completed_at: "2026-04-14T13:40:00-05:00"
+      added_adhoc: true
+      commit: "3a3390bb"
+      deploy: "24410987603"
+      notes: |
+        scripts/create-pac-stubs.cjs. American Crossroads, The Lincoln Project, MoveOn.org Political Action, American Future Fund, Justice Democrats PAC, DCCC/NRCC/NRSC/DNC/RNC, Courage to Change, NRA PVF, Crypto Innovation PAC, Never Back Down, Conservative Leadership PAC, and 26 more. All marked content-readiness: raw, editorial-status: stub, source-tier: 1, with aliases list absorbing the FEC ALL-CAPS names. Placed in Donors & Power Networks/Super PACs (or Tech & Crypto / Labor Unions where applicable). Will surface in promotion-candidate-queue naturally.
+
+    - id: cc_92
+      task: "Validator: exempt manual-ops from monetary amount requirement"
+      status: done
+      completed_date: 2026-04-14
+      completed_at: "2026-04-14T13:45:00-05:00"
+      added_adhoc: true
+      commit: "3a3390bb"
+      deploy: "24410987603"
+      notes: "scripts/lib/relationship-edge-validator.cjs. 'manual-ops' added to MIGRATION_SOURCES so editor-click approvals don't need to supply FEC dollar amounts. Same exemption migration-sourced edges already had. Unblocked 30 more backfill edges."
+
+    - id: cc_93
+      task: "writeAndPush conflict-retry (pipeline race fix)"
+      status: done
+      completed_date: 2026-04-14
+      completed_at: "2026-04-14T13:55:00-05:00"
+      added_adhoc: true
+      commit: "3a3390bb"
+      deploy: "24410987603"
+      notes: |
+        ops/src/lib/local-write.ts. On push rejection: git pull --rebase origin v4, retry up to 3x. On rebase conflict (pipeline just wrote to the same profile): abort rebase, git reset --hard origin/v4, re-write our bytes, re-commit, retry push. Callers pass final bytes so overwrite is safe. This is the root-cause fix that would have prevented the CA Farm Bureau deploy break at the start of the session. Re-run backfill with cc_92: 130/130 edges, 30 new added, 100 matched existing, 0 skipped, 0 invalid.
+
+    - id: cc_94
+      task: "Strip em dashes vault-wide (20,105 removed from live content)"
+      status: done
+      completed_date: 2026-04-14
+      completed_at: "2026-04-14T14:40:00-05:00"
+      added_adhoc: true
+      commit: "ae5d81dab"
+      deploy: "24412461910"
+      notes: |
+        Extended scripts/strip-em-dashes.cjs with --all flag (processes every profile regardless of readiness + strips visible frontmatter + handles > [!callout] lines). Intentionally preserved: external news blockquotes (2,582), fenced code (175), <!-- auto: --> blocks (7,245), internal-notes frontmatter (23 — pipeline logs per "if it's internal I don't care"), content/Vault Maintenance/ archive. Residual body em dashes outside archive: 0. Fixed two bugs in the script during the run: (1) leading-whitespace collapse regex broke YAML folded-scalar continuations (fixed with non-space anchor); (2) line-based frontmatter strip missed multi-line quoted scalars (fixed by skipping fields whose name ends in -notes). Also fixed ops/src/app/api/urls/save/route.ts archive marker to use comma instead of em dash so future triage writes stay clean.
+
+    - id: cc_95
+      task: "Strip 'Master Profile' title suffix from 612 profiles"
+      status: done
+      completed_date: 2026-04-14
+      completed_at: "2026-04-14T14:50:00-05:00"
+      added_adhoc: true
+      commit: "ae5d81dab"
+      deploy: "24412461910"
+      notes: "scripts/strip-master-profile-title-suffix.cjs. Titles like 'John Smith Master Profile' now display as 'John Smith'. Filenames left alone (renaming would break [[_X Master Profile]] wikilinks; normalizeTitle already strips the suffix at lookup time). Title index unchanged (2,463 entries, 0 ambiguous)."
+
+    - id: cc_96
+      task: "Resolve 8 duplicate entity cases (6 merged + deleted, 2 renamed)"
+      status: done
+      completed_date: 2026-04-14
+      completed_at: "2026-04-14T15:05:00-05:00"
+      added_adhoc: true
+      commit: "ae5d81dab"
+      deploy: "24412461910"
+      notes: |
+        scripts/merge-duplicate-entities.cjs. MERGED+DELETED (6): Heritage Foundation, American Enterprise Institute, Center for American Progress, Federalist Society, PhRMA, Ballard Partners — pipeline frontmatter (EIN, nonprofit-status, total-revenue, SEC filings, lobbying-spend) absorbed into canonical Think-Tank / Lobbying Firm / Sector profile before deleting the parallel donor-taxonomy duplicate. Aliases added so FEC writes route to canonical. RENAMED (2): David Sacks and JB Pritzker donor profiles are LARGER (40K, 25K) than their politician master profiles (17K, 13K) and contain unique editorial analysis. Retitled to "David Sacks (Donor Network)" and "JB Pritzker (Donor Network)". Original titles preserved as aliases. Research Claude can body-merge later then delete.
+
+    - id: cc_97
+      task: "Vault audit report + banned vocab audit (flagged 270 instances for Research Claude)"
+      status: done
+      completed_date: 2026-04-14
+      completed_at: "2026-04-14T15:15:00-05:00"
+      added_adhoc: true
+      commit: "ae5d81dab"
+      deploy: "24412461910"
+      notes: |
+        scripts/audit-banned-vocab.cjs + content/Admin Notes/vault-audit-2026-04-14.md. Banned AI vocab counts in live bodies (non-quoted): significantly 125, ultimately 78, notably 42, additionally 11, importantly 10, crucially 5, testament to 1, moreover 1, delves 1. Total 270. Not auto-replaced (context-sensitive). Top 10 densest files listed. Also flagged for David (Editor-only URL lane): 47 FollowTheMoney links, 18 inline [Source: OpenSecrets] without URLs, 15 (URL NEEDED) markers.
+
+    - id: cc_98
+      task: "Resolve main-repo stash-pop conflict in investigate-queue.md"
+      status: done
+      completed_date: 2026-04-14
+      completed_at: "2026-04-14T15:30:00-05:00"
+      added_adhoc: true
+      notes: "Leftover conflict markers from `git stash pop` during deploy. Stashed side was empty; upstream had the full 7-item archive section. Removed the 3 marker lines, kept upstream content. File unstaged to match normal ops-server working-tree state."
+
     - id: cc_60
       task: "Phase 3 Part 3: /api/connections GET reads JSONL edge store"
       status: done
@@ -1368,7 +1514,7 @@ parser_guidance:
 
 ---
 
-**Schedule last updated: 2026-04-12 (Capitol Trades mega-build, cc_79-84 added: House+Senate backfill, 12-tab Ops page, 6 API routes, name normalization, data quality report. 52,822 transactions.)**
-**Current phase: phase_1 (Day 2 of 7)**
+**Schedule last updated: 2026-04-14 (Relationship engine audit + vault cleanup, cc_85-98 added: deploy unblocker, dual-write approve flow, 130-approval backfill, 22 aliases + 39 PAC stubs, priority disambiguation, writeAndPush retry, em dash strip (20,105), Master Profile title strip (612), 8 duplicate entity cases resolved. 3 deploys, all green.)**
+**Current phase: phase_1 (Day 5 of 7)**
 **Next checkpoint: Phase 1 exit, 2026-04-16**
 **New data sources added 2026-04-11: FDA (pharma/device/food enforcement), OCC (national bank enforcement), FTC (mergers + historical enforcement). All three live in CI + Ops app.**
