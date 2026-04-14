@@ -67,7 +67,7 @@ related: >-
   Partners]] · [[BGR Group]] · [[Akin Gump Strauss Hauer & Feld]] · [[Mercury
   Public Affairs]] · [[Squire Patton Boggs]] · [[Holland & Knight]] ·
   [[Brownstein Hyatt Farber Schreck]] · [[Invariant]] · [[Howard Lutnick Master
-  Profile]]
+  Profile]] · [[Scott Bessent Master Profile]]
 total-received: '$3,852,435'
 fec-candidate-id: P80001571
 internal-notes: >-
