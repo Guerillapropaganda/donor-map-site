@@ -42,45 +42,15 @@ import {
   upsertEdge,
   deprecateEdge,
   clearEdgesCache,
-  type RelationshipType,
+  legacyToPhase3Type,
+  endpointsForLegacyWrite,
+  LEGACY_RELATIONSHIP_TYPES,
+  type LegacyRelationshipType,
   type RelationshipEdge,
 } from "@/lib/relationships-store"
 
-const VALID_TYPES = ["related", "donors", "opposes", "stories"] as const
-type LegacyType = (typeof VALID_TYPES)[number]
-
-// Map the legacy 4-value enum to the Phase 3 edge type enum.
-function legacyToPhase3Type(legacy: LegacyType): RelationshipType {
-  switch (legacy) {
-    case "related":
-      return "related"
-    case "donors":
-      return "monetary"
-    case "opposes":
-      return "political-opposition"
-    case "stories":
-      return "story-link"
-  }
-}
-
-// For "donors" legacy type, the source profile has X in its donors: field,
-// which means X gave money TO the source. JSONL stores that as
-// {from: X (donor), to: source (recipient), type: monetary}. Flip the
-// source/target when calling buildEdge.
-interface EdgeEndpoints {
-  from: string
-  to: string
-}
-function endpointsForLegacy(
-  legacy: LegacyType,
-  sourceTitle: string,
-  targetTitle: string,
-): EdgeEndpoints {
-  if (legacy === "donors") {
-    return { from: targetTitle, to: sourceTitle }
-  }
-  return { from: sourceTitle, to: targetTitle }
-}
+const VALID_TYPES = LEGACY_RELATIONSHIP_TYPES
+type LegacyType = LegacyRelationshipType
 
 // Find and remove a wikilink from a body-text field line
 function removeFromBodyField(body: string, field: string, targetTitle: string): { updated: string; found: boolean } {
@@ -174,7 +144,7 @@ export async function POST(request: Request) {
       upserted?: boolean
       skipReason?: string
     } = {}
-    const { from: edgeFrom, to: edgeTo } = endpointsForLegacy(legacyType, sourceTitle, targetTitle)
+    const { from: edgeFrom, to: edgeTo } = endpointsForLegacyWrite(legacyType, sourceTitle, targetTitle)
     const phase3Type = legacyToPhase3Type(legacyType)
     // Confidence: manual-ops edges start at 0.7 (medium). Research Claude
     // or human editorial review can upgrade them further; the scanner's
@@ -280,7 +250,7 @@ export async function DELETE(request: Request) {
     // doesn't (e.g. user deleted before the next discovery-scanner
     // tick), we still return success from the frontmatter delete.
     let phase3Status: { edgeId?: string; deprecated?: boolean; skipReason?: string } = {}
-    const { from: edgeFrom, to: edgeTo } = endpointsForLegacy(legacyType, sourceTitle, targetTitle)
+    const { from: edgeFrom, to: edgeTo } = endpointsForLegacyWrite(legacyType, sourceTitle, targetTitle)
     const phase3Type = legacyToPhase3Type(legacyType)
     // Build a minimal edge to compute the id. buildEdge does the
     // title-index resolve, direction flip, and id hash in one shot.

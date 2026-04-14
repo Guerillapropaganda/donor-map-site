@@ -64,7 +64,10 @@ export async function GET(request: Request) {
             const source = parts[0]?.slice(0, 30) || id.slice(0, 30)
             const target = parts[1]?.slice(0, 30) || ""
             items.push({
-              id: `sug-${id.slice(0, 20)}`,
+              // React key: full id is unique. Truncating collides any two suggestions
+              // that share a 20-char source prefix (e.g. "Mike Collins Master Profile → X"
+              // and "Mike Collins Master Profile → Y" both mapped to "sug-Mike Collins Master ").
+              id: `sug-${id}`,
               type: "suggestion",
               actor: "David",
               action: `${action.action === "approve" ? "Approved" : action.action === "reject" ? "Rejected" : "Deferred"} relationship`,

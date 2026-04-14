@@ -75,6 +75,53 @@ export interface RelationshipEdge {
 // Must match TYPE_META.directed in relationship-edge-validator.cjs
 const UNDIRECTED_TYPES: Set<RelationshipType> = new Set(["family"])
 
+// ─── Legacy 4-value enum bridge ────────────────────────────────────────
+//
+// The Ops app's /relationships page and the /suggestions approve flow
+// both speak the legacy 4-value enum: related | donors | opposes | stories.
+// These helpers map legacy → Phase 3 RelationshipType and handle the
+// donors-field semantic flip (legacy "fm.donors contains X" means X gave
+// money TO the profile; canonical stores that as from=X, to=profile).
+//
+// Both /api/relationships and /api/suggestions call through these so the
+// mapping logic stays in exactly one place.
+
+export const LEGACY_RELATIONSHIP_TYPES = ["related", "donors", "opposes", "stories"] as const
+export type LegacyRelationshipType = (typeof LEGACY_RELATIONSHIP_TYPES)[number]
+
+export function legacyToPhase3Type(legacy: LegacyRelationshipType): RelationshipType {
+  switch (legacy) {
+    case "related":
+      return "related"
+    case "donors":
+      return "monetary"
+    case "opposes":
+      return "political-opposition"
+    case "stories":
+      return "story-link"
+  }
+}
+
+/**
+ * Resolve canonical from/to titles for a legacy-field write.
+ *
+ * `editedTitle` is the profile whose frontmatter is being modified;
+ * `addedTitle` is the wikilink being appended to that field.
+ *
+ * For "donors", the edited profile's `donors:` field listing means the
+ * added entity donates TO the edited profile, so the canonical edge
+ * stores {from: added, to: edited}. All other legacy types keep their
+ * natural direction (edited → added).
+ */
+export function endpointsForLegacyWrite(
+  legacy: LegacyRelationshipType,
+  editedTitle: string,
+  addedTitle: string,
+): { from: string; to: string } {
+  if (legacy === "donors") return { from: addedTitle, to: editedTitle }
+  return { from: editedTitle, to: addedTitle }
+}
+
 // ─── File resolution + cache ───────────────────────────────────────────
 
 // Resolve from the ops working directory (process.cwd() is ops/ when the
