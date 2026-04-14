@@ -1,40 +1,47 @@
 ---
-title: "Mitch McConnell Master Profile"
+title: Mitch McConnell Master Profile
 type: politician
 content-readiness: ready
-central-thesis: "Mitch McConnell is not a politician who uses donor money — he is the architect of the system through which donor money controls American politics. His three structural achievements — killing campaign finance reform (McConnell v. FEC → Citizens Uni..."
-last-updated: 2026-04-13
+central-thesis: >-
+  Mitch McConnell is not a politician who uses donor money — he is the architect
+  of the system through which donor money controls American politics. His three
+  structural achievements — killing campaign finance reform (McConnell v. FEC →
+  Citizens Uni...
+last-updated: '2026-04-14'
 source-tier: 1
-career-total: "$47M"
+career-total: $47M
 parent: null
-party: "Republican"
-chamber: "Senate"
-state: "Kentucky"
-state-abbr: "KY"
+party: Republican
+chamber: Senate
+state: Kentucky
+state-abbr: KY
 leadership-roles:
-  - "Minority Leader"
+  - Minority Leader
 issues:
-  - "Dark Money & Campaign Finance"
+  - Dark Money & Campaign Finance
 top-donors:
-  - "Koch Network - Charles Koch"
-  - "Leonard Leo"
-  - "Timothy Mellon"
-bioguide-id: "M000355"
+  - Koch Network - Charles Koch
+  - Leonard Leo
+  - Timothy Mellon
+bioguide-id: M000355
 govtrack-id: 300072
 bills-sponsored: 12
 bills-cosponsored: 52
-website: "https://www.mcconnell.senate.gov"
-phone: "202-224-2541"
-total-received: "$7,816,890"
-fec-candidate-id: "S2KY00012"
+website: 'https://www.mcconnell.senate.gov'
+phone: 202-224-2541
+total-received: '$7,816,890'
+fec-candidate-id: S2KY00012
 source-types:
   - Congress
   - FEC
   - GovTrack
 corroboration-count: 3
 known-gaps:
-  - "No mapped relationships"
-related: "[[Koch Network - Charles Koch]] · [[Leonard Leo]] · [[_Donald Trump Master Profile]] · [[Timothy Mellon]] · [[_Clarence Thomas Master Profile]] · [[_Samuel Alito Master Profile]]"
+  - No mapped relationships
+related: >-
+  [[Koch Network - Charles Koch]] · [[Leonard Leo]] · [[_Donald Trump Master
+  Profile]] · [[Timothy Mellon]] · [[_Clarence Thomas Master Profile]] ·
+  [[_Samuel Alito Master Profile]] · [[Neil Gorsuch Master Profile]]
 ---
 #mitch-mcconnell #senate #minority-leader #kentucky #koch #dark-money #citizens-united #judicial-pipeline #class-analysis
 
