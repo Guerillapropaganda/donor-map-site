@@ -3,6 +3,16 @@ import fs from "fs"
 import path from "path"
 import matter from "gray-matter"
 import { readFile, writeAndPush } from "@/lib/local-write"
+import {
+  buildEdge,
+  upsertEdge,
+  clearEdgesCache,
+  legacyToPhase3Type,
+  endpointsForLegacyWrite,
+  LEGACY_RELATIONSHIP_TYPES,
+  type LegacyRelationshipType,
+  type RelationshipEdge,
+} from "@/lib/relationships-store"
 
 const DATA_DIR = path.join(process.cwd(), "data")
 const SUGGESTIONS_FILE = path.join(DATA_DIR, "discovery-suggestions.json")
@@ -230,23 +240,81 @@ function appendRelationship(existing: unknown, targetTitle: string): string | st
   return wikilink
 }
 
-// Shared logic for adding a connection to a profile file
-function addConnectionToVault(sourcePath: string, targetTitle: string, relationshipType: string): { success: boolean; error?: string } {
+/**
+ * Phase 3 canonical write + legacy frontmatter write.
+ *
+ * 1. Upsert the canonical edge into data/relationships.jsonl via
+ *    buildEdge() + upsertEdge(). This is the source of truth per
+ *    CLAUDE.md — every approval must land here.
+ * 2. Update the legacy frontmatter field so Quartz consumers still
+ *    see the relationship during the Phase 3 migration window.
+ *
+ * If either endpoint is not in the title index (e.g. the profile hasn't
+ * been created yet), the canonical write is skipped but the frontmatter
+ * write still happens, and the skip reason is returned so the caller
+ * can log it. This mirrors /api/relationships POST behavior.
+ */
+function addConnectionToVault(
+  sourcePath: string,
+  targetTitle: string,
+  relationshipType: string,
+): { success: boolean; error?: string; edgeId?: string; canonicalSkipReason?: string } {
   try {
     const content = readFile(sourcePath)
     const { data: fm, content: bodyContent } = matter(content)
+    const editedTitle = typeof fm.title === "string" ? fm.title : ""
 
     const wikilink = `[[${targetTitle}]]`
 
     // Check if connection already exists. fmValue can be string OR YAML list — normalize first.
     const fmValue = fm[relationshipType]
     const fmValueNormalized = normalizeFieldForCheck(fmValue)
-    if (fmValueNormalized && fmValueNormalized.includes(targetTitle.toLowerCase())) {
-      return { success: true } // already exists, no-op
-    }
+    const alreadyInFm = fmValueNormalized && fmValueNormalized.includes(targetTitle.toLowerCase())
     const bodyRegex = new RegExp(`^${relationshipType}:.*${targetTitle.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}`, "m")
-    if (bodyRegex.test(bodyContent)) {
-      return { success: true } // already exists in body
+    const alreadyInBody = bodyRegex.test(bodyContent)
+
+    // ─── Phase 3: build + upsert canonical edge ─────────────────────
+    // Always attempt the canonical write, even when the frontmatter says
+    // the link already exists, because the canonical store may be behind
+    // (e.g. a historic frontmatter-only approval that never hit JSONL).
+    // upsertEdges() dedupes by id so re-upserting is safe.
+    let edgeId: string | undefined
+    let canonicalSkipReason: string | undefined
+    if (LEGACY_RELATIONSHIP_TYPES.includes(relationshipType as LegacyRelationshipType) && editedTitle) {
+      const legacyType = relationshipType as LegacyRelationshipType
+      const { from: edgeFrom, to: edgeTo } = endpointsForLegacyWrite(legacyType, editedTitle, targetTitle)
+      const phase3Type = legacyToPhase3Type(legacyType)
+      const builtEdge = buildEdge({
+        from: edgeFrom,
+        to: edgeTo,
+        type: phase3Type,
+        source: "manual-ops",
+        confidence: 0.7,
+        role: phase3Type === "story-link" ? "mentioned" : null,
+      })
+      if (!builtEdge) {
+        canonicalSkipReason = "endpoint not in title index (profile may not exist yet)"
+      } else {
+        const upsertResult = upsertEdge(builtEdge as Partial<RelationshipEdge>)
+        if (upsertResult.invalid > 0) {
+          canonicalSkipReason = `validator rejected: ${upsertResult.errors[0]?.error || "unknown"}`
+        } else {
+          edgeId = builtEdge.id
+        }
+      }
+    } else if (!editedTitle) {
+      canonicalSkipReason = "no fm.title on edited profile"
+    } else {
+      canonicalSkipReason = `unknown legacy type: ${relationshipType}`
+    }
+
+    // ─── Legacy: frontmatter/body write (Quartz consumers) ──────────
+    if (alreadyInFm || alreadyInBody) {
+      // Frontmatter already has it — canonical store may still have been
+      // updated above. Return success with the edge id so the caller knows
+      // both stores are now in sync.
+      clearEdgesCache()
+      return { success: true, edgeId, canonicalSkipReason }
     }
 
     // Add to body field if it exists there, otherwise frontmatter.
@@ -263,7 +331,8 @@ function addConnectionToVault(sourcePath: string, targetTitle: string, relations
     const updated = matter.stringify(updatedBody, fm)
     writeAndPush(sourcePath, updated, `Add ${relationshipType}: ${fm.title || sourcePath} \u2192 ${targetTitle}`)
 
-    return { success: true }
+    clearEdgesCache()
+    return { success: true, edgeId, canonicalSkipReason }
   } catch (error: unknown) {
     const msg = error instanceof Error ? error.message : "Unknown error"
     return { success: false, error: msg }
@@ -531,7 +600,12 @@ export async function POST(request: Request) {
       // Invalidate connections cache
       ;(globalThis as Record<string, unknown>).__connectionsInvalidated = Date.now()
 
-      return NextResponse.json({ success: true, written: true })
+      return NextResponse.json({
+        success: true,
+        written: true,
+        edgeId: result.edgeId,
+        canonicalSkipReason: result.canonicalSkipReason,
+      })
     }
 
     // Handle reject
