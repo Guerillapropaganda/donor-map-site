@@ -41,7 +41,8 @@ known-gaps:
 related: >-
   [[Koch Network - Charles Koch]] · [[Leonard Leo]] · [[_Donald Trump Master
   Profile]] · [[Timothy Mellon]] · [[_Clarence Thomas Master Profile]] ·
-  [[_Samuel Alito Master Profile]] · [[Neil Gorsuch Master Profile]]
+  [[_Samuel Alito Master Profile]] · [[Neil Gorsuch Master Profile]] · [[Amy
+  Coney Barrett Master Profile]]
 ---
 #mitch-mcconnell #senate #minority-leader #kentucky #koch #dark-money #citizens-united #judicial-pipeline #class-analysis
 
