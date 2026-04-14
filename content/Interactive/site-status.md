@@ -11,8 +11,8 @@ type: reference
 | Politicians | 729 |
 | Donors / Corporations | 400 |
 | Stories | 105 |
-| Events | 274 |
-| All .md files scanned | 2375 |
+| Events | 302 |
+| All .md files scanned | 2404 |
 
 ## Readiness Breakdown
 
@@ -22,7 +22,7 @@ type: reference
 | Draft (C) | 593 |
 | Ready (B) | 927 |
 | Verified (A+) | 0 |
-| Unknown / Not Set | 385 |
+| Unknown / Not Set | 414 |
 
 ## Verification Status
 
@@ -37,7 +37,7 @@ type: reference
 |--------|-------|
 | Politicians with top-donors populated | 158 |
 | Politicians missing top-donors | 571 |
-| Donors with politicians-funded populated | 222 |
+| Donors with politicians-funded populated | 223 |
 
 ## Recent Activity
 
@@ -45,16 +45,16 @@ Last 10 profiles updated (by `last-updated` frontmatter):
 
 | Profile | Type | Last Updated |
 |---------|------|--------------|
-| ADM - Archer Daniels Midland | corporation | 2026-04-13 |
-| Agribusiness Donor Bloc | donor | 2026-04-13 |
-| Agricultural Labor Vulnerability Donors | donor | 2026-04-13 |
-| American Farm Bureau Federation | donor | 2026-04-13 |
-| CA Farm Bureau Federation | donor | 2026-04-13 |
-| California Farm Bureau Federation | donor | 2026-04-13 |
-| Cargill | corporation | 2026-04-13 |
-| Fanjul Family - Florida Crystals | donor | 2026-04-13 |
-| John Deere | corporation | 2026-04-13 |
-| National Cattlemen's Beef Association | donor | 2026-04-13 |
+| Agribusiness Donor Bloc | donor | 2026-04-14 |
+| Agricultural Labor Vulnerability Donors | donor | 2026-04-14 |
+| California Farm Bureau Federation | donor | 2026-04-14 |
+| Cargill | corporation | 2026-04-14 |
+| John Deere | corporation | 2026-04-14 |
+| National Cattlemen's Beef Association | donor | 2026-04-14 |
+| Tyson Foods | corporation | 2026-04-14 |
+| Western Growers Association | donor | 2026-04-14 |
+| CoreCivic | corporation | 2026-04-14 |
+| Securus Technologies - Aventiv | corporation | 2026-04-14 |
 
 ## Stale Profiles
 
@@ -62,4 +62,4 @@ Profiles where `last-updated` is 90+ days ago: **0**
 
 ---
 
-*Generated: 2026-04-13 10:58:33 UTC*
+*Generated: 2026-04-14 09:59:34 UTC*
