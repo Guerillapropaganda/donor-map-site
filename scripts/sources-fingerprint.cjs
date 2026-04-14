@@ -69,7 +69,15 @@ const PAYWALL_HOSTS = new Set([
   'theatlantic.com',
 ]);
 
-const GENERIC_TITLE_RE = /^(home|homepage|404|page not found|not found|error|search|search results?|login|sign in|access denied|forbidden|coming soon|under construction|default|index)$/i;
+const GENERIC_TITLE_RE = /^(home|homepage|404|page not found|not found|error|search|search results?|login|sign in|coming soon|under construction|default|index)$/i;
+
+// Titles/body markers that indicate a bot-wall or anti-scraping block.
+// Cloudflare, Akamai, Bloomberg "Are you a robot?", generic 403 Access
+// Denied pages, etc. These are NOT dead — a human browser loads them fine.
+// They get reclassified as 'needs_review' so David can eyeball manually.
+const BOT_BLOCK_TITLE_RE = /^(just a moment\.{0,3}|attention required.*|are you a robot.*|bloomberg\s*-\s*are you a robot.*|access denied|access to this page has been denied|forbidden|simple page|please wait.*|checking your browser.*|one moment.*|cloudflare.*|verify you are human|robot or human)/i;
+
+const BOT_BLOCK_BODY_RE = /(cf-browser-verification|cf-challenge-running|challenge-platform|ray id|__cf_chl|enable javascript and cookies to continue|checking if the site connection is secure)/i;
 
 // ─── Text extraction + hashing ─────────────────────────────────────────
 
@@ -156,28 +164,57 @@ async function fetchWithTimeout(url) {
 // ─── Classifier ─────────────────────────────────────────────────────────
 
 function classify({ record, fetchResult }) {
+  const originalHost = hostOf(record.url);
+  if (PAYWALL_HOSTS.has(originalHost)) {
+    return { status: 'paywall', reason: 'paywall-host' };
+  }
+
   if (!fetchResult.ok) {
     return { status: 'dead', reason: fetchResult.error };
   }
   const http = fetchResult.status;
+
+  // Detect bot-wall / Cloudflare challenge first, regardless of HTTP status.
+  // These are NOT dead pages — a human browser would load them. Reclassify
+  // as needs_review so David can eyeball manually in Ops /sources.
+  const rawTitle = extractTitle(fetchResult.body);
+  const titleIsBotBlock = rawTitle && BOT_BLOCK_TITLE_RE.test(rawTitle.trim());
+  const bodyIsBotBlock = fetchResult.body && BOT_BLOCK_BODY_RE.test(fetchResult.body.slice(0, 8000));
+  if (titleIsBotBlock || bodyIsBotBlock) {
+    return {
+      status: 'needs_review',
+      reason: `bot-block: ${titleIsBotBlock ? 'title' : 'body'} ("${(rawTitle || '').slice(0, 60)}")`,
+      title: rawTitle,
+    };
+  }
+
+  // HTTP 403 specifically often means anti-scraping, not genuinely dead
+  if (http === 403) {
+    return {
+      status: 'needs_review',
+      reason: 'HTTP 403 (likely anti-scraping)',
+      title: rawTitle,
+    };
+  }
+
   if (http >= 400 && http < 600) {
     return { status: 'dead', reason: `HTTP ${http}` };
   }
 
-  const originalHost = hostOf(record.url);
   const finalHost = hostOf(fetchResult.finalUrl);
 
-  if (PAYWALL_HOSTS.has(finalHost) || PAYWALL_HOSTS.has(originalHost)) {
+  if (PAYWALL_HOSTS.has(finalHost)) {
     return { status: 'paywall', reason: 'paywall-host' };
   }
 
   const hostChanged = originalHost && finalHost && originalHost !== finalHost;
 
-  const title = extractTitle(fetchResult.body);
+  const title = rawTitle;
   const depth = pathDepth(fetchResult.finalUrl);
 
-  // Generic orphan check
-  const titleLooksGeneric = title && GENERIC_TITLE_RE.test(title.replace(/[|\-–—].*$/, '').trim());
+  // Generic orphan check — strip site branding after | - – — for matching
+  const titleNaked = title ? title.replace(/\s*[|\-–—].*$/, '').trim() : '';
+  const titleLooksGeneric = titleNaked && GENERIC_TITLE_RE.test(titleNaked);
   const pathLooksGeneric = depth <= 1;
 
   if (titleLooksGeneric && pathLooksGeneric) {
@@ -188,8 +225,6 @@ function classify({ record, fetchResult }) {
     };
   }
   if (titleLooksGeneric) {
-    // Title alone is suspicious but path has depth — flag for review rather
-    // than hard-orphan
     return {
       status: 'needs_review',
       reason: `generic title "${title}" but path depth ${depth}`,
