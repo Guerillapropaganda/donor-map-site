@@ -1,9 +1,10 @@
 ---
 title: Build Phases
 type: system
-status: phase-2-in-progress
+status: query-engine-build-complete
 last-updated: 2026-04-14
 authority: ADR-0003
+closed-by: ADR-0008
 ---
 
 # Build Phases — Query Engine + Source Registry + Class Tags
@@ -17,9 +18,9 @@ Sequential phased build. No phase skipping. Each phase has exit criteria that mu
 - ✅ shipped
 
 ## Current phase
-**Phase 2** — Query Engine MVP — 🔨 in-progress
+**ALL PHASES SHIPPED ✅** — query engine build complete. Closed by ADR-0008 on 2026-04-14. Ongoing work is maintenance (267 deferred items triage, 346 class tag approvals, Stripe activation, post-launch benchmarks). See `content/Phases/phase-6/retrospective.md` for the close-out summary.
 
-**Most recently shipped:** Phase 1 (Source Registry + Generic-Link Cleanup) — 2026-04-14, retrospective at `content/Phases/phase-1/retrospective.md`, transition recorded in ADR-0006.
+**Most recently shipped:** Phase 6 (Bug Hunt / Hardening) — 2026-04-14, retrospective at `content/Phases/phase-6/retrospective.md`, closing ADR at ADR-0008.
 
 ---
 
