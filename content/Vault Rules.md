@@ -549,13 +549,49 @@ Two Claudes, one vault. Clear lanes prevent contradictions.
 
 ---
 
+## 4b. Structured Data Layer (active since Phase 1, 2026-04-14)
+
+The vault is mid-migration from "blog with profiles" to "system with structured data + renderings on top." As of Phase 1 shipping, these files are the canonical source of truth for their respective data types. Both Claudes read from and write to them through the store helpers, never by hand-editing the JSONL.
+
+| File | Purpose | Writers |
+|---|---|---|
+| `data/relationships.jsonl` | All donor → politician, entity → entity edges | Pipelines, Ops `/relationships`, categorizer (via `scripts/lib/relationships-store.cjs`) |
+| `data/sources.jsonl` | Source registry — every citation in the vault | Pipelines, `scripts/extract-sources-from-vault.cjs`, Ops `/sources` (via `scripts/lib/sources-store.cjs`) |
+| `data/events.jsonl` | Votes, hearings, regulations with dates + stakeholders | Phase 2 deliverable — govtrack / congress pipelines |
+| `data/entity-class-tags.jsonl` | Approved class tags (mirrors entity data) | Phase 2 deliverable — Research Claude proposes, David approves via Ops `/class-tags` |
+| `data/policies.jsonl` | Policy registry for Phase 2.75 Policy Battles pages | Phase 2.75 deliverable |
+| `data/polling.jsonl` | Public support tracker (manual curation v1) | Phase 2.75 deliverable |
+| `data/claims/<slug>.jsonl` | Claim-object profiles (experimental, AOC first) | Phase 4 experiment |
+| `data/hot-issues.jsonl` | Weekly hot issues for story score news-cycle weight | Phase 5 deliverable — manual David update |
+
+**Writing rules:**
+- Pipelines write through validated schemas only (see `scripts/lib/*-validator.cjs` / `scripts/lib/*-schema.cjs`)
+- Never hand-edit `data/relationships.jsonl` or `data/sources.jsonl` — use the Ops interface or a store helper
+- Class tags are approved through Ops `/class-tags`, never direct edit
+- Claim-object files are experimental until the AOC experiment validates the pattern (Phase 4)
+
+### Source Registry (Phase 1, live)
+
+- **Citations are records in `data/sources.jsonl`**, not markdown links in profile bodies. Profile source lines use `{{src:ID}}` refs that resolve at build time via the Quartz `source-refs` transformer plugin.
+- **Pipelines write through the registry first** via `scripts/lib/sources-store.cjs#addOrFindSource()`, get back a source ID, then reference the ID. No raw URLs in pipeline-written profile content.
+- **URL editor-only rule still applies** — broken or suspicious URLs get flagged for David's triage in the Ops `/sources` review page. Both Claudes never hunt, replace, or auto-verify URLs.
+- **Status enum:** `unverified`, `live`, `dead`, `redirected`, `generic_orphan`, `archived`, `needs_review`, `paywall` (see `scripts/lib/sources-schema.cjs` for definitions).
+- **The `/sources` review page** defaults to the `needs_review` bucket, which is the largest triage pile after the bot-block classifier fix in the fingerprint pass.
+
+### Phase state
+
+Read `content/Build Phases.md` at session start to know which phase is active. Both Claudes have responsibilities across phases — Code Claude owns the schema/store/pipeline work, Research Claude proposes class tags and drafts policy page prose during Phase 2 and 2.75.
+
+---
+
 ## 5. Pipeline Data Protocol
 
 Pipelines write data into profiles automatically. This data must coexist with editorial content without clashing.
 
 ### How it works:
 1. Pipeline pulls data from government API (FEC, Congress.gov, etc.)
-2. Data lands in two places:
+2. Data lands in **three** places (as of Phase 1):
+   - **Source registry** (`data/sources.jsonl`): every citation URL registered via `sources-store.addOrFindSource()` first, referenced by ID in profile content
    - **Frontmatter**: numbers and metadata (`total-raised`, `bills-sponsored`, `lobbying-spend`, `lobbyview-bills`, etc.)
    - **Auto-blocks**: formatted sections wrapped in `<!-- auto:blockType start/end -->` markers
 3. Auto-blocks are machine-owned. Research Claude does not edit inside them.

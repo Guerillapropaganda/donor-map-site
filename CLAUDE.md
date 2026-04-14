@@ -4,8 +4,10 @@ You are **Code Claude** — you build, style, and deploy thedonormap.org. Editor
 
 ## First Steps Every Session
 1. Read `content/Session State.md` — what happened last, what's next
-2. Read `content/Vault Rules.md` if you need rules (source tiers, readiness, scope boundaries)
-3. Update Session State when you finish work
+2. Read `content/Build Phases.md` — identify the current build phase (query engine + source registry + class tags migration is in flight as of 2026-04-14, ADR-0003)
+3. Read `content/Phases/phase-{current}/handoff.md` — pick up exactly where the last session left off
+4. Read `content/Vault Rules.md` if you need rules (source tiers, readiness, scope boundaries)
+5. Update Session State + current phase handoff at end of session
 
 ## Shared Rules
 
@@ -49,6 +51,58 @@ The entries are re-ranked by `leverage ÷ cost_min`, with blocking-bucket items 
 `scripts/attention-dispatcher.cjs` runs all 5 producers on a schedule (30 min to 2 hr cadences). Serialized queue prevents vault contention. Top-level `uncaughtException` guards and a 60-sec per-producer timeout make it daemon-safe. Log rotates at 1MB. Set `HEALTHCHECKS_PING_URL` env var to get external "is it still running" monitoring.
 
 Full docs for every script above are in the ops app at `/scripts` (categories: **Intelligence / Attention Queue** and **Pre-Commit Gates**). That's the single source of truth for "what scripts exist and when do they run" — Claude should reference that page rather than guessing.
+
+## Query Engine & Source Registry (Active Build — ADR-0003)
+
+The Donor Map is mid-migration from a profile-centric blog to a structured-data system with a query engine front door. All planning is locked in ADRs 0001–0005 (`content/Decisions/`) and the phased build plan lives in `content/Build Phases.md`.
+
+**Session start (in addition to preflight):**
+- Read `content/Build Phases.md` to identify current phase
+- Read `content/Phases/phase-{N}/handoff.md` for the exact next action
+- Read `content/Phases/phase-{N}/decisions.md` for mid-phase choices made by prior sessions
+- Read `content/Class Tag Vocabulary.md` if touching entity tagging
+- Read `content/Monetization Model.md` if touching any `/api/*` route (auth implications)
+
+**Core rules:**
+1. **Database is canonical. Profiles are renderings.** Structured data lives in `data/*.jsonl`. Profile bodies render on top of structured facts; they're not the source of truth for anything queryable.
+2. **AI translates facts, never generates them.** Every factual claim must trace to a source record. AI is allowed to explain, summarize, synthesize — never assert a new fact.
+3. **Class analysis is the editorial lens.** Vocabulary locked in ADR-0001. Changes require a new ADR + migration pass.
+4. **Phase discipline — no skipping.** Use the `phase-transition` skill to advance phases. Never skip from Phase N to Phase N+2.
+5. **Source registry is authoritative** for every citation. Pipelines write to `data/sources.jsonl` first via `scripts/lib/sources-store.cjs`, then reference by ID.
+6. **Every new `/api/*` route defaults to auth-gated** via the tier-check middleware (lands in Phase 2.5). Opting out requires an explicit `public = true` export with ADR justification.
+7. **Editorial narrative layer stays.** Homepage stories are the marketing funnel for the paid tier. "System not blog" describes the backend; the reader experience remains narrative.
+8. **Vault on GitHub stays open-source.** Paid value is freshness + tooling + ongoing maintenance labor, not the facts themselves.
+
+### Source Registry Discipline (Phase 1 — live since 2026-04-14)
+
+- **Sources are records in `data/sources.jsonl`**, not markdown links in profile bodies. Profile source lines use `{{src:ID}}` refs that resolve at build time via `quartz/plugins/transformers/source-refs.ts`.
+- **Pipelines write through the registry first.** Import `scripts/lib/sources-store.cjs`, call `addOrFindSource({url, tier, source_type, entity_ref, ...})`, receive a source ID, then reference that ID in profile markdown or structured data. Never embed raw URLs from pipeline output directly into profile bodies.
+- **URL fixing remains Editor-only (David).** Both Claudes flag broken/suspicious sources to the Ops `/sources` review page — never auto-substitute a URL.
+- **Content hash fingerprinting catches orphan citations.** A 200 OK response doesn't mean the citation is valid. If a source has `status: generic_orphan`, treat it as broken until David triages it. Use `scripts/sources-fingerprint.cjs` to re-check.
+- **Status enum (locked):** `unverified`, `live`, `dead`, `redirected`, `generic_orphan`, `archived`, `needs_review`, `paywall`. Defined in `scripts/lib/sources-schema.cjs`.
+- **The Ops `/sources` review page** (`ops/src/app/sources/page.tsx`) is David's triage surface. API is at `/api/source-registry` (renamed from `/api/sources` to avoid collision with the pre-existing Source Hunter feature at `/api/sources`). The `/api/source-registry` route supports GET (query with filters) and PATCH (per-record status update).
+- **When migrating a raw-URL pipeline to the registry**, write an in-repo migration script (`scripts/migrate-X-citations-to-refs.cjs`) that walks the vault, registers each URL via sources-store, and rewrites citation lines to `{{src:ID}}` refs. The FEC pipeline migration (`scripts/migrate-fec-citations-to-refs.cjs`) is the reference implementation: 907 citations across 456 profiles, verified end-to-end via `npx quartz build`.
+
+### Decision Log (ADRs)
+
+Architecture decisions live in `content/Decisions/NNNN-slug.md` as ADRs. Sequential zero-padded numbering.
+
+**Write a new ADR when:**
+- New top-level folder or schema
+- Build phase structure changes
+- Monetization tier changes
+- Class tag vocabulary changes
+- Auth / rate limit architecture changes
+- Any decision that affects multiple files and multiple future sessions
+
+**ADR format:** context → options → decision → rationale → consequences → closes → opens. Never edit old ADRs to reverse their decisions; write a new ADR that supersedes them.
+
+**Active ADRs as of 2026-04-14:**
+- ADR-0001: Class Tag Vocabulary (locked 5-dimension schema)
+- ADR-0002: Monetization Model (facts free, tools paid)
+- ADR-0003: Phased Query Engine Build (8 phases)
+- ADR-0004: Phase 2.75 Policy Battles (first user-facing product)
+- ADR-0005: Phase 6 Bug Hunt / Hardening (final gate)
 
 ## Code Claude Autonomy Directive
 

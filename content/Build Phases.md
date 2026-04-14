@@ -1,7 +1,7 @@
 ---
 title: Build Phases
 type: system
-status: phase-1-in-progress
+status: phase-2-in-progress
 last-updated: 2026-04-14
 authority: ADR-0003
 ---
@@ -17,28 +17,38 @@ Sequential phased build. No phase skipping. Each phase has exit criteria that mu
 - ✅ shipped
 
 ## Current phase
-**Phase 1** — Source Registry + Generic-Link Cleanup — 🔨 in-progress
+**Phase 2** — Query Engine MVP — 🔨 in-progress
+
+**Most recently shipped:** Phase 1 (Source Registry + Generic-Link Cleanup) — 2026-04-14, retrospective at `content/Phases/phase-1/retrospective.md`, transition recorded in ADR-0006.
 
 ---
 
-## Phase 1 — Source Registry + Generic-Link Cleanup
+## Phase 1 — Source Registry + Generic-Link Cleanup ✅ SHIPPED 2026-04-14
 
 **Folder:** `content/Phases/phase-1/`
 **Goal:** Central source registry, orphan citation detection, pipeline integration.
-**Estimated duration:** 2–3 sessions
+**Actual duration:** 1 session (shipped faster than the 2–3 session estimate)
+**Retrospective:** `content/Phases/phase-1/retrospective.md`
+**Transition ADR:** ADR-0006
 
 ### Deliverables
 - [x] `data/sources.jsonl` schema defined and documented
 - [x] `scripts/lib/sources-store.cjs` writer library with validated schema
-- [ ] Content-hash fingerprinting for all new sources
-- [ ] Archive.org auto-archive integration for Tier 1 sources
-- [ ] Source extractor script: walks vault, populates registry from existing links
-- [ ] Generic-link cleanup pass script → `content/Admin Notes/orphan-citations-report.md`
-- [ ] Ops `/sources` review page (filter, re-fetch, mark, edit in place)
-- [ ] Quartz plugin: `{{src:ID}}` ref resolution at build time
-- [ ] Pipeline migration — at least one enrichment pipeline fully migrated
-- [ ] Documentation updates: CLAUDE.md, Vault Rules.md, Pipeline Guide.md
-- [ ] All new code covered by pre-commit sentinels where applicable
+- [x] Content-hash fingerprinting via `scripts/sources-fingerprint.cjs`
+- [ ] Archive.org auto-archive integration for Tier 1 sources — **deferred to Phase 6**
+- [x] Source extractor script: `scripts/extract-sources-from-vault.cjs` (14,681 unique sources)
+- [x] Generic-link cleanup pass: `scripts/sources-orphan-report.cjs` → 1,622 flagged sources
+- [x] Ops `/sources` review page (filter by status/tier/source_type/entity/host/search, per-row status dropdown)
+- [x] Quartz plugin: `{{src:ID}}` ref resolution at build time via `quartz/plugins/transformers/source-refs.ts`
+- [x] Pipeline migration — FEC pipeline migrated via `scripts/migrate-fec-citations-to-refs.cjs` (907 citations across 456 profiles, verified end-to-end)
+- [x] Documentation updates: CLAUDE.md, Vault Rules.md (Section 4b), Pipeline Guide.md (Section 0)
+- [x] All new code passed pre-commit sentinels (14 commits, all green)
+
+### Final state
+- **14,681 unique sources** in the registry, all classified
+- **9,555 live**, 3,317 archived, 1,041 needs_review, 539 dead, 135 paywall, 52 redirected, 42 generic_orphan, 0 unverified
+- **1,622 flagged** for David's triage (11% of registry)
+- **907 raw FEC citations** converted to `{{src:ID}}` refs across 456 profiles
 
 ### Exit criteria
 - All existing vault links extracted to `data/sources.jsonl` (deduped)

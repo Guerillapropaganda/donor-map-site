@@ -14,12 +14,19 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 
 ## Current Build Phase
 
-**Phase:** 1 — Source Registry + Generic-Link Cleanup
-**Status:** 🔨 in-progress (~55% complete)
-**Handoff doc:** `content/Phases/phase-1/handoff.md`
-**Next concrete action:** Write Quartz plugin for `{{src:ID}}` ref resolution (`quartz/plugins/transformers/source-refs.ts` + `quartz/util/sources-store.ts` TS mirror)
+**Phase:** 2 — Query Engine MVP
+**Status:** 🔨 in-progress (just started)
+**Handoff doc:** `content/Phases/phase-2/handoff.md`
+**Next concrete action:** Write `scripts/batch-propose-class-tags.cjs` — Research Claude proposes class tags for ~450 donors, David approves via Ops `/class-tags`
 **Blockers:** none
-**Authority:** ADR-0003 (Phased Query Engine Build)
+**Authority:** ADR-0003 (Phased Query Engine Build), ADR-0006 (Phase 1 shipped)
+
+**Most recently shipped:** Phase 1 (Source Registry + Generic-Link Cleanup) — 2026-04-14, single-session ship. Retrospective at `content/Phases/phase-1/retrospective.md`. 14,681 sources registered, 907 FEC citations migrated to `{{src:ID}}` refs, Quartz plugin live, Ops `/sources` review page live.
+
+### Research Claude notes (Phase 2 impact)
+- **Source registry is live.** New sources added to a profile go through Ops `/sources` (or flag for Code Claude to register via `addOrFindSource`), referenced via `{{src:ID}}`. Never embed raw markdown links in profile bodies for new content.
+- **Class tagging is coming.** Phase 2 will run a batch proposal script against `content/Class Tag Vocabulary.md` (locked 5-dimension schema). Familiarize with the vocabulary before the next Research Claude session.
+- **Existing profiles with FEC citations** have been migrated to `{{src:ID}}` refs. When editing those profiles, preserve the refs — do not convert them back to raw markdown links.
 
 ---
 

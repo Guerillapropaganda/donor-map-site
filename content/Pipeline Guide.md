@@ -235,6 +235,42 @@ Smoking gun in the diff: a single 2-line change on 2026-04-10 at 22:59Z converte
 
 ## How Data Lands in Profiles
 
+### 0. Source Registry First (Phase 1, live since 2026-04-14)
+
+Every citation URL a pipeline emits must go through the source registry before it lands in profile content. This is the authoritative store — profile bodies are renderings on top.
+
+**Pattern for all pipeline scripts:**
+```javascript
+const store = require("./lib/sources-store.cjs")  // or cross-repo: require("C:/Users/third/donor-map-site/scripts/lib/sources-store.cjs")
+
+// Before writing any citation:
+const record = store.addOrFindSource({
+  url: "https://www.fec.gov/data/candidate/S0WV00090/",
+  tier: 1,
+  source_type: "government_primary",
+  entity_ref: "Joe Manchin",
+  title: "FEC Candidate Filing",
+})
+// record.id === "src_001301" (either new or deduped by normalized URL)
+
+// Then emit the ref in profile markdown:
+const citation = `- {{src:${record.id}}} (Tier 1) (VERIFIED)`
+```
+
+**The Quartz `source-refs` transformer plugin** (`quartz/plugins/transformers/source-refs.ts`) resolves `{{src:ID}}` to the proper `[title](canonical_url)` markdown link at build time. The title comes from the live fingerprint (one canonical title per URL), not the original hand-written link text.
+
+**Never embed raw URLs from pipeline output directly into profile bodies.** This was the cause of the 2026-04 pre-Phase-1 citation pollution that required the full FEC migration cleanup (907 raw citations → refs across 456 profiles). See `scripts/migrate-fec-citations-to-refs.cjs` for the reference migration pattern.
+
+**If you're adding a new pipeline** or migrating an existing one, the discipline:
+1. Import `scripts/lib/sources-store.cjs`
+2. Call `addOrFindSource` for every URL before emitting any profile content that references it
+3. Use the returned `record.id` inside a `{{src:ID}}` ref, not the raw URL
+4. Never touch `data/sources.jsonl` directly — always through the store helper
+
+**Sources schema** is defined in `scripts/lib/sources-schema.cjs`. Status enum: `unverified`, `live`, `dead`, `redirected`, `generic_orphan`, `archived`, `needs_review`, `paywall`. Source type enum: `government_primary`, `government_secondary`, `court_record`, `news_major`, `news_regional`, `investigative`, `academic`, `trade_press`, `advocacy`, `social`, `company_direct`, `aggregator`, `archive`, `other`. Tier: `1 | 2 | 3 | 4 | null`.
+
+**Engine-repo pipelines (in `~/donor-map-engine`)** are migrating to this pattern in follow-up PRs. Known pending: `fec-pipeline.cjs`, `congress-summary-pipeline.cjs`, `lda-pipeline.cjs`, `propublica-nonprofit-pipeline.cjs`, `sec-edgar-pipeline.cjs`, `govtrack-pipeline.cjs`, `usaspending-pipeline.cjs`, `sam-pipeline.cjs`, `doj-press-pipeline.cjs`. Until each engine pipeline migrates, running the corresponding vault-side migration script (`scripts/migrate-X-citations-to-refs.cjs`) as a post-enrichment step converts the raw URLs to refs.
+
 ### 1. Frontmatter (numbers)
 Pipeline writes key-value pairs directly into YAML frontmatter:
 ```yaml
