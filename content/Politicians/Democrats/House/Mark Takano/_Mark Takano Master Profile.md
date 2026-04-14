@@ -27,7 +27,7 @@ donors: >-
   and Municipal Employees]] · [[UAW - United Auto Workers]]
 related: >-
   [[_Mike Bost Master Profile|Mike Bost]] · [[_Donald Trump Master
-  Profile|Trump]] · [[Pete Aguilar]]
+  Profile|Trump]] · [[Pete Aguilar]] · [[Debbie Stabenow Master Profile]]
 needs-reenrichment: true
 reenrich-reason: re-run fec pipeline
 internal-notes: >-
