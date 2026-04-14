@@ -917,5 +917,507 @@
         "type": "donor"
       }
     }
+  ],
+  "story-candidate-scorer": [
+    {
+      "bucket": "compounding",
+      "what": "American Action Network — dark-money-networked, $176,798,895 tracked political spend",
+      "why": "American Action Network is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $176,798,895. Investigate cross-references with other dark-money network members. [dark_money_network, score 24.29, tier high]",
+      "where": "/query?subject=entities&capital_type=dark-money-vehicle",
+      "cost_min": 90,
+      "leverage": 5,
+      "source": "story-candidate-scorer",
+      "created": "2026-04-14",
+      "metadata": {
+        "strategy": "dark_money_network",
+        "score": 24.29,
+        "tier": "high",
+        "breakdown": {
+          "money": 8.25,
+          "timing": 0,
+          "cross_party": 0,
+          "contradiction": 0,
+          "press_scarcity": 3,
+          "source_tier": 2.5
+        },
+        "decay": 0.88,
+        "news_multiplier": 2
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "America Votes — dark-money-networked, $157,372,490 tracked political spend",
+      "why": "America Votes is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $157,372,490. Investigate cross-references with other dark-money network members. [dark_money_network, score 24.2, tier high]",
+      "where": "/query?subject=entities&capital_type=dark-money-vehicle",
+      "cost_min": 90,
+      "leverage": 5,
+      "source": "story-candidate-scorer",
+      "created": "2026-04-14",
+      "metadata": {
+        "strategy": "dark_money_network",
+        "score": 24.2,
+        "tier": "high",
+        "breakdown": {
+          "money": 8.2,
+          "timing": 0,
+          "cross_party": 0,
+          "contradiction": 0,
+          "press_scarcity": 3,
+          "source_tier": 2.5
+        },
+        "decay": 0.88,
+        "news_multiplier": 2
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Sixteen Thirty Fund — dark-money-networked, $101,443,846 tracked political spend",
+      "why": "Sixteen Thirty Fund is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $101,443,846. Investigate cross-references with other dark-money network members. [dark_money_network, score 23.86, tier high]",
+      "where": "/query?subject=entities&capital_type=dark-money-vehicle",
+      "cost_min": 90,
+      "leverage": 5,
+      "source": "story-candidate-scorer",
+      "created": "2026-04-14",
+      "metadata": {
+        "strategy": "dark_money_network",
+        "score": 23.86,
+        "tier": "high",
+        "breakdown": {
+          "money": 8.01,
+          "timing": 0,
+          "cross_party": 0,
+          "contradiction": 0,
+          "press_scarcity": 3,
+          "source_tier": 2.5
+        },
+        "decay": 0.88,
+        "news_multiplier": 2
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Stand Together — dark-money-networked, $84,259,968 tracked political spend",
+      "why": "Stand Together is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $84,259,968. Investigate cross-references with other dark-money network members. [dark_money_network, score 23.72, tier high]",
+      "where": "/query?subject=entities&capital_type=dark-money-vehicle",
+      "cost_min": 90,
+      "leverage": 5,
+      "source": "story-candidate-scorer",
+      "created": "2026-04-14",
+      "metadata": {
+        "strategy": "dark_money_network",
+        "score": 23.72,
+        "tier": "high",
+        "breakdown": {
+          "money": 7.93,
+          "timing": 0,
+          "cross_party": 0,
+          "contradiction": 0,
+          "press_scarcity": 3,
+          "source_tier": 2.5
+        },
+        "decay": 0.88,
+        "news_multiplier": 2
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Ohio Democratic Party — dark-money-networked, $9,177,680 tracked political spend",
+      "why": "Ohio Democratic Party is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $9,177,680. Investigate cross-references with other dark-money network members. [dark_money_network, score 22.02, tier high]",
+      "where": "/query?subject=entities&capital_type=dark-money-vehicle",
+      "cost_min": 90,
+      "leverage": 5,
+      "source": "story-candidate-scorer",
+      "created": "2026-04-14",
+      "metadata": {
+        "strategy": "dark_money_network",
+        "score": 22.02,
+        "tier": "high",
+        "breakdown": {
+          "money": 6.96,
+          "timing": 0,
+          "cross_party": 0,
+          "contradiction": 0,
+          "press_scarcity": 3,
+          "source_tier": 2.5
+        },
+        "decay": 0.88,
+        "news_multiplier": 2
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Media Matters — dark-money-networked, $3,998,524 tracked political spend",
+      "why": "Media Matters is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $3,998,524. Investigate cross-references with other dark-money network members. [dark_money_network, score 21.38, tier high]",
+      "where": "/query?subject=entities&capital_type=dark-money-vehicle",
+      "cost_min": 90,
+      "leverage": 5,
+      "source": "story-candidate-scorer",
+      "created": "2026-04-14",
+      "metadata": {
+        "strategy": "dark_money_network",
+        "score": 21.38,
+        "tier": "high",
+        "breakdown": {
+          "money": 6.6,
+          "timing": 0,
+          "cross_party": 0,
+          "contradiction": 0,
+          "press_scarcity": 3,
+          "source_tier": 2.5
+        },
+        "decay": 0.88,
+        "news_multiplier": 2
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "National Association of Manufacturers — dark-money-networked, $2,129,676 tracked political spend",
+      "why": "National Association of Manufacturers is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $2,129,676. Investigate cross-references with other dark-money network members. [dark_money_network, score 20.9, tier high]",
+      "where": "/query?subject=entities&capital_type=dark-money-vehicle",
+      "cost_min": 90,
+      "leverage": 5,
+      "source": "story-candidate-scorer",
+      "created": "2026-04-14",
+      "metadata": {
+        "strategy": "dark_money_network",
+        "score": 20.9,
+        "tier": "high",
+        "breakdown": {
+          "money": 6.33,
+          "timing": 0,
+          "cross_party": 0,
+          "contradiction": 0,
+          "press_scarcity": 3,
+          "source_tier": 2.5
+        },
+        "decay": 0.88,
+        "news_multiplier": 2
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "ActBlue — dark-money-networked, $1,765,636 tracked political spend",
+      "why": "ActBlue is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $1,765,636. Investigate cross-references with other dark-money network members. [dark_money_network, score 20.75, tier high]",
+      "where": "/query?subject=entities&capital_type=dark-money-vehicle",
+      "cost_min": 90,
+      "leverage": 5,
+      "source": "story-candidate-scorer",
+      "created": "2026-04-14",
+      "metadata": {
+        "strategy": "dark_money_network",
+        "score": 20.75,
+        "tier": "high",
+        "breakdown": {
+          "money": 6.25,
+          "timing": 0,
+          "cross_party": 0,
+          "contradiction": 0,
+          "press_scarcity": 3,
+          "source_tier": 2.5
+        },
+        "decay": 0.88,
+        "news_multiplier": 2
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Heritage Foundation — dark-money-networked, $1,007,158 tracked political spend",
+      "why": "Heritage Foundation is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $1,007,158. Investigate cross-references with other dark-money network members. [dark_money_network, score 20.32, tier high]",
+      "where": "/query?subject=entities&capital_type=dark-money-vehicle",
+      "cost_min": 90,
+      "leverage": 5,
+      "source": "story-candidate-scorer",
+      "created": "2026-04-14",
+      "metadata": {
+        "strategy": "dark_money_network",
+        "score": 20.32,
+        "tier": "high",
+        "breakdown": {
+          "money": 6,
+          "timing": 0,
+          "cross_party": 0,
+          "contradiction": 0,
+          "press_scarcity": 3,
+          "source_tier": 2.5
+        },
+        "decay": 0.88,
+        "news_multiplier": 2
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Freedom Partners Chamber of Commerce — dark-money-networked, $807,270 tracked political spend",
+      "why": "Freedom Partners Chamber of Commerce is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $807,270. Investigate cross-references with other dark-money network members. [dark_money_network, score 20.15, tier high]",
+      "where": "/query?subject=entities&capital_type=dark-money-vehicle",
+      "cost_min": 90,
+      "leverage": 5,
+      "source": "story-candidate-scorer",
+      "created": "2026-04-14",
+      "metadata": {
+        "strategy": "dark_money_network",
+        "score": 20.15,
+        "tier": "high",
+        "breakdown": {
+          "money": 5.91,
+          "timing": 0,
+          "cross_party": 0,
+          "contradiction": 0,
+          "press_scarcity": 3,
+          "source_tier": 2.5
+        },
+        "decay": 0.88,
+        "news_multiplier": 2
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Sports Betting Alliance — dark-money-networked, $766,000 tracked political spend",
+      "why": "Sports Betting Alliance is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $766,000. Investigate cross-references with other dark-money network members. [dark_money_network, score 20.11, tier high]",
+      "where": "/query?subject=entities&capital_type=dark-money-vehicle",
+      "cost_min": 90,
+      "leverage": 5,
+      "source": "story-candidate-scorer",
+      "created": "2026-04-14",
+      "metadata": {
+        "strategy": "dark_money_network",
+        "score": 20.11,
+        "tier": "high",
+        "breakdown": {
+          "money": 5.88,
+          "timing": 0,
+          "cross_party": 0,
+          "contradiction": 0,
+          "press_scarcity": 3,
+          "source_tier": 2.5
+        },
+        "decay": 0.88,
+        "news_multiplier": 2
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Brady Campaign — dark-money-networked, $499,761 tracked political spend",
+      "why": "Brady Campaign is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $499,761. Investigate cross-references with other dark-money network members. [dark_money_network, score 19.78, tier high]",
+      "where": "/query?subject=entities&capital_type=dark-money-vehicle",
+      "cost_min": 90,
+      "leverage": 5,
+      "source": "story-candidate-scorer",
+      "created": "2026-04-14",
+      "metadata": {
+        "strategy": "dark_money_network",
+        "score": 19.78,
+        "tier": "high",
+        "breakdown": {
+          "money": 5.7,
+          "timing": 0,
+          "cross_party": 0,
+          "contradiction": 0,
+          "press_scarcity": 3,
+          "source_tier": 2.5
+        },
+        "decay": 0.88,
+        "news_multiplier": 2
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Bradley Foundation — dark-money-networked, $150,500 tracked political spend",
+      "why": "Bradley Foundation is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $150,500. Investigate cross-references with other dark-money network members. [dark_money_network, score 18.86, tier high]",
+      "where": "/query?subject=entities&capital_type=dark-money-vehicle",
+      "cost_min": 90,
+      "leverage": 5,
+      "source": "story-candidate-scorer",
+      "created": "2026-04-14",
+      "metadata": {
+        "strategy": "dark_money_network",
+        "score": 18.86,
+        "tier": "high",
+        "breakdown": {
+          "money": 5.18,
+          "timing": 0,
+          "cross_party": 0,
+          "contradiction": 0,
+          "press_scarcity": 3,
+          "source_tier": 2.5
+        },
+        "decay": 0.88,
+        "news_multiplier": 2
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Democracy Alliance — dark-money-networked, $116,675 tracked political spend",
+      "why": "Democracy Alliance is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $116,675. Investigate cross-references with other dark-money network members. [dark_money_network, score 18.67, tier high]",
+      "where": "/query?subject=entities&capital_type=dark-money-vehicle",
+      "cost_min": 90,
+      "leverage": 5,
+      "source": "story-candidate-scorer",
+      "created": "2026-04-14",
+      "metadata": {
+        "strategy": "dark_money_network",
+        "score": 18.67,
+        "tier": "high",
+        "breakdown": {
+          "money": 5.07,
+          "timing": 0,
+          "cross_party": 0,
+          "contradiction": 0,
+          "press_scarcity": 3,
+          "source_tier": 2.5
+        },
+        "decay": 0.88,
+        "news_multiplier": 2
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Business Roundtable — dark-money-networked, $110,825 tracked political spend",
+      "why": "Business Roundtable is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $110,825. Investigate cross-references with other dark-money network members. [dark_money_network, score 18.63, tier high]",
+      "where": "/query?subject=entities&capital_type=dark-money-vehicle",
+      "cost_min": 90,
+      "leverage": 5,
+      "source": "story-candidate-scorer",
+      "created": "2026-04-14",
+      "metadata": {
+        "strategy": "dark_money_network",
+        "score": 18.63,
+        "tier": "high",
+        "breakdown": {
+          "money": 5.04,
+          "timing": 0,
+          "cross_party": 0,
+          "contradiction": 0,
+          "press_scarcity": 3,
+          "source_tier": 2.5
+        },
+        "decay": 0.88,
+        "news_multiplier": 2
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Bradley Impact Fund — dark-money-networked, $100,000 tracked political spend",
+      "why": "Bradley Impact Fund is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $100,000. Investigate cross-references with other dark-money network members. [dark_money_network, score 18.55, tier high]",
+      "where": "/query?subject=entities&capital_type=dark-money-vehicle",
+      "cost_min": 90,
+      "leverage": 5,
+      "source": "story-candidate-scorer",
+      "created": "2026-04-14",
+      "metadata": {
+        "strategy": "dark_money_network",
+        "score": 18.55,
+        "tier": "high",
+        "breakdown": {
+          "money": 5,
+          "timing": 0,
+          "cross_party": 0,
+          "contradiction": 0,
+          "press_scarcity": 3,
+          "source_tier": 2.5
+        },
+        "decay": 0.88,
+        "news_multiplier": 2
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Judicial Crisis Network — dark-money-networked, $75,000 tracked political spend",
+      "why": "Judicial Crisis Network is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $75,000. Investigate cross-references with other dark-money network members. [dark_money_network, score 18.33, tier high]",
+      "where": "/query?subject=entities&capital_type=dark-money-vehicle",
+      "cost_min": 90,
+      "leverage": 5,
+      "source": "story-candidate-scorer",
+      "created": "2026-04-14",
+      "metadata": {
+        "strategy": "dark_money_network",
+        "score": 18.33,
+        "tier": "high",
+        "breakdown": {
+          "money": 4.88,
+          "timing": 0,
+          "cross_party": 0,
+          "contradiction": 0,
+          "press_scarcity": 3,
+          "source_tier": 2.5
+        },
+        "decay": 0.88,
+        "news_multiplier": 2
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Demand Justice — dark-money-networked, $20,000 tracked political spend",
+      "why": "Demand Justice is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $20,000. Investigate cross-references with other dark-money network members. [dark_money_network, score 17.32, tier medium]",
+      "where": "/query?subject=entities&capital_type=dark-money-vehicle",
+      "cost_min": 90,
+      "leverage": 3,
+      "source": "story-candidate-scorer",
+      "created": "2026-04-14",
+      "metadata": {
+        "strategy": "dark_money_network",
+        "score": 17.32,
+        "tier": "medium",
+        "breakdown": {
+          "money": 4.3,
+          "timing": 0,
+          "cross_party": 0,
+          "contradiction": 0,
+          "press_scarcity": 3,
+          "source_tier": 2.5
+        },
+        "decay": 0.88,
+        "news_multiplier": 2
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Business Council of Alabama — dark-money-networked, $11,000 tracked political spend",
+      "why": "Business Council of Alabama is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $11,000. Investigate cross-references with other dark-money network members. [dark_money_network, score 16.86, tier medium]",
+      "where": "/query?subject=entities&capital_type=dark-money-vehicle",
+      "cost_min": 90,
+      "leverage": 3,
+      "source": "story-candidate-scorer",
+      "created": "2026-04-14",
+      "metadata": {
+        "strategy": "dark_money_network",
+        "score": 16.86,
+        "tier": "medium",
+        "breakdown": {
+          "money": 4.04,
+          "timing": 0,
+          "cross_party": 0,
+          "contradiction": 0,
+          "press_scarcity": 3,
+          "source_tier": 2.5
+        },
+        "decay": 0.88,
+        "news_multiplier": 2
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "American Enterprise Institute — dark-money-networked, $6,625 tracked political spend",
+      "why": "American Enterprise Institute is tagged dark-money-networked with capital_type=dark-money-vehicle. Total tracked political spend: $6,625. Investigate cross-references with other dark-money network members. [dark_money_network, score 16.47, tier medium]",
+      "where": "/query?subject=entities&capital_type=dark-money-vehicle",
+      "cost_min": 90,
+      "leverage": 3,
+      "source": "story-candidate-scorer",
+      "created": "2026-04-14",
+      "metadata": {
+        "strategy": "dark_money_network",
+        "score": 16.47,
+        "tier": "medium",
+        "breakdown": {
+          "money": 3.82,
+          "timing": 0,
+          "cross_party": 0,
+          "contradiction": 0,
+          "press_scarcity": 3,
+          "source_tier": 2.5
+        },
+        "decay": 0.88,
+        "news_multiplier": 2
+      }
+    }
   ]
 }
