@@ -21,10 +21,11 @@ Planning session identified the Donor Map should transition from blog-shape (pro
 3. **Phased migration** with strict phase gates and exit criteria. Approved.
 
 ## Decision
-Six sequential phases:
+Seven sequential phases:
 - Phase 1: Source Registry + generic-link cleanup (foundation)
 - Phase 2: Query Engine MVP with class tags
-- Phase 2.5: Auth & Gating (non-skippable)
+- Phase 2.75: Policy Battles MVP — first user-facing product (added via ADR-0004)
+- Phase 2.5: Auth & Gating (non-skippable, now ships AFTER 2.75 so policy pages launch free)
 - Phase 3: Profile Data Panels
 - Phase 4: Claim-Object Experiment (AOC)
 - Phase 5: Story Score
@@ -54,4 +55,4 @@ Details in `content/Build Phases.md`.
 - Need for phase-transition ceremony
 - Need for session start/end checklists that reference Build Phases
 - Ops `/phases` dashboard to surface current state
-- **Policy Page (noted 2026-04-14):** David wants a public policy/bills page as a companion to the query engine. Likely slots in after Phase 2 (events.jsonl becomes the spine). Design session pending. Not part of current 6-phase scope; may become Phase 6 or be folded into Phase 3.
+- **Policy Battles Page — now Phase 2.75 via ADR-0004.** What started as a noted-but-unscoped idea became a full phase after a riff session on 2026-04-14. Slotted between Phase 2 (Query Engine) and Phase 2.5 (Auth), so policy pages ship as the user-facing product BEFORE auth gating lands. See ADR-0004 and `content/Phases/phase-2.75/`.

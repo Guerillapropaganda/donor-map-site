@@ -88,12 +88,54 @@ Sequential phased build. No phase skipping. Each phase has exit criteria that mu
 
 ---
 
+## Phase 2.75 — Policy Battles MVP
+
+**Folder:** `content/Phases/phase-2.75/`
+**Goal:** Ship the first user-facing product powered by the query engine — 5 policy battle pages + `/who-blocks-us` enemy list + OG card generation. Policy pages are the marketing funnel for the paid tier and remain free forever (ADR-0002).
+**Estimated duration:** 2–3 sessions
+**Depends on:** Phase 2 shipped (events.jsonl with `policy_id` + `obstruction_type`, class tags populated, SQLite backend)
+**Authority:** ADR-0004
+
+### v1 policies (5, locked)
+1. Housing affordability / rent control
+2. Universal healthcare / Medicare expansion
+3. AIPAC / BDS laws (editorial firewall per ADR-0004)
+4. Minimum wage
+5. Student debt cancellation
+
+Plus `/who-blocks-us` cross-policy enemy list aggregate.
+
+### Deliverables
+- [ ] `data/policies.jsonl` schema + store
+- [ ] `data/polling.jsonl` schema + store (~30 entries, manual v1)
+- [ ] `events.jsonl` extensions: `policy_id` and `obstruction_type` (baked into Phase 2)
+- [ ] Quartz plugin — policy page template
+- [ ] Quartz plugin — OG card generation (Open Graph + Twitter/X markup)
+- [ ] `/who-blocks-us` enemy list page (cross-policy donor overlap query)
+- [ ] Contradiction callout component
+- [ ] Zip code lookup integration on policy pages
+- [ ] Sentinel blocklist extension for policy pages (`bought`, `co-opted`, `bribed`, `corrupt`, `scheme`)
+- [ ] 5 plain-English blurbs (Research Claude drafts, David approves)
+- [ ] AIPAC page legally reviewed by David
+
+### Exit criteria
+- All 5 policy pages render clean
+- OG cards validate on Twitter/X + Facebook + LinkedIn
+- `/who-blocks-us` renders cross-policy overlap with working click-throughs
+- AIPAC page reviewed and approved by David
+- Every factual claim has a `{{src:ID}}` reference
+- Policy pages free for anonymous visitors (no auth gate)
+- `npx quartz build` clean
+- Phase 2.75 retrospective written
+
+---
+
 ## Phase 2.5 — Auth & Gating
 
 **Folder:** `content/Phases/phase-2.5/`
 **Goal:** User accounts, Stripe integration, tier-based rate limits.
 **Estimated duration:** 2 sessions
-**Depends on:** Phase 2 shipped
+**Depends on:** Phase 2.75 shipped (policy pages launch free before auth lands)
 
 ### Deliverables
 - [ ] Clerk auth integration
@@ -121,6 +163,7 @@ Sequential phased build. No phase skipping. Each phase has exit criteria that mu
 **Goal:** Live data panels rendered into profile pages from default queries.
 **Estimated duration:** 2 sessions
 **Depends on:** Phase 2.5 shipped (panels need gating from day 1)
+**Builds on:** Phase 2.75 policy page template pattern (data panels are the same idea, applied to profile pages instead of policy pages)
 
 ### Deliverables
 - [ ] Quartz plugin reads `default-query` frontmatter
