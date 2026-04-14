@@ -3,7 +3,7 @@ title: "Richard Blumenthal"
 type: politician
 content-readiness: ready
 central-thesis: "Richard Blumenthal is the attorney general-turned-senator who built a career on holding powerful institutions accountable — and then became the ranking member of the committee that oversees the institution responsible for veteran care. His donor p..."
-last-updated: 2026-04-13
+last-updated: 2026-04-14
 source-tier: 1
 parent: null
 party: "Democrat"

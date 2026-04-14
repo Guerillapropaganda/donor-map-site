@@ -1,52 +1,42 @@
 ---
-title: Barbara Lee
+title: "Barbara Lee"
 type: politician
-chamber: House
-party: Democrat
+chamber: "House"
+party: "Democrat"
 content-readiness: ready
-central-thesis: >-
-  Barbara Lee's 2001 AUMF vote is the most celebrated anti-war vote in modern
-  U.S. history. She voted alone against indefinite military authorization. Yet
-  in 2024, when Lee ran for the Senate from California, she was systematically
-  outspent and elim...
-last-updated: '2026-04-14'
+central-thesis: "Barbara Lee's 2001 AUMF vote is the most celebrated anti-war vote in modern U.S. history. She voted alone against indefinite military authorization. Yet in 2024, when Lee ran for the Senate from California, she was systematically outspent and elim..."
+last-updated: 2026-04-14
 source-tier: 1
 parent: null
-total-received: '$375,046'
-fec-candidate-id: H8CA09060
-last-enriched: '2026-04-13'
+total-received: "$375,046"
+fec-candidate-id: "H8CA09060"
+last-enriched: "2026-04-14"
 needs-reenrichment: true
-reenrich-reason: run congress pipeline
-donors: >-
-  [[Tim Dunn]] · [[California Nurses Association]] · [[AFSCME - American
-  Federation of State County and Municipal Employees]] · [[Rebekah Mercer]]
-bioguide-id: C001091
+reenrich-reason: "run congress pipeline"
+donors: "[[Tim Dunn]] · [[California Nurses Association]] · [[AFSCME - American Federation of State County and Municipal Employees]] · [[Rebekah Mercer]]"
+bioguide-id: "C001091"
 govtrack-id: 400237
 bills-sponsored: 604
 bills-cosponsored: 10572
-related: >-
-  [[_Nancy Pelosi Master Profile]] · [[_Bernie Sanders Master Profile]] · [[Adam
-  Schiff|Adam Schiff]] · [[Maxine Waters]] · [[Eric Swalwell Master Profile]]
-internal-notes: >-
-  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: •
-  CONGRESS data is missing entirely. This profile was promoted to ready without
-  ever having congress enrichment run on it. The needs-reenrichment flag has
-  been set. The next scheduled pipeline run will pick it up automatically.
-total-raised: '$375,046'
-total-spent: '$427,255'
-cash-on-hand: '144.39'
+related: "[[_Nancy Pelosi Master Profile]] · [[_Bernie Sanders Master Profile]] · [[Adam Schiff|Adam Schiff]]"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+total-raised: "$375,046"
+total-spent: "$427,255"
+cash-on-hand: "144.39"
 fec-cycle: 2024
 issues:
-  - 'Civil Rights and Liberties, Minority Issues'
-  - Crime and Law Enforcement
-  - Education
-  - Energy
-  - Environmental Protection
-  - Families
-  - Finance and Financial Sector
-  - Government Operations and Politics
-  - Health
-  - Immigration
+  - "Civil Rights and Liberties, Minority Issues"
+  - "Crime and Law Enforcement"
+  - "Education"
+  - "Energy"
+  - "Environmental Protection"
+  - "Families"
+  - "Finance and Financial Sector"
+  - "Government Operations and Politics"
+  - "Health"
+  - "Immigration"
 ---
 #barbara-lee #house #california #progressive #anti-war #oakland #class-analysis #democrat
 tags: #democrat
@@ -129,14 +119,14 @@ Barbara Lee represents the political powerlessness of moral clarity in capitalis
 
 ### Sources
 
-- ~~[CalMatters: Ro Khanna: If Barbara Lee Had Campaign Cash, She'd Be in Top Two for U.S. Senate](https://calmatters.org/category/politics/elections/2024/02/us-senate-race-ro-khanna-barbara-lee/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- [CalMatters: 2024 California U.S. Senate Candidate: Barbara Lee](https://calmatters.org/california-voter-guide-2024/us-senate/barbara-lee/) (Tier 2) (VERIFIED)
-- [Annenberg Media: Rep. Barbara Lee Faces Fundraising Titans in the Race for CA Senate Seat](https://www.uscannenbergmedia.com/2023/05/17/rep-barbara-lee-faces-fundraising-titans-in-the-race-for-ca-senate-seat/) (Tier 2) (VERIFIED)
-- ~~[CalMatters: Katie Porter, Adam Schiff and Barbara Lee Swore Off Corporate PAC Money. What Does That Mean?](https://calmatters.org/category/politics/elections/2024/02/california-senate-race-corporate-pacs/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- [Slate: California Senate Primary — A Way Weirder Race Than Voters Imagined](https://slate.com/news-and-politics/2024/03/california-primary-senate-schiff-garvey-porter-lee-pelosi.html) (Tier 3) (VERIFIED)
-- [Wikipedia: Barbara Lee](https://en.wikipedia.org/wiki/Barbara_Lee) (Tier 3) (VERIFIED)
-- [Ballotpedia: Barbara Lee (California)](https://ballotpedia.org/Barbara_Lee_(California) (VERIFIED)) (Tier 3)
-- ~~[Congresswoman Barbara Lee Official: Global Peace & Security Issues Page](https://lee.house.gov/issues/global-peace-and-security?latest=169)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [CalMatters: Ro Khanna: If Barbara Lee Had Campaign Cash, She'd Be in Top Two for U.S. Senate](https://calmatters.org/category/politics/elections/2024/02/us-senate-race-ro-khanna-barbara-lee/) (Tier 2)
+- [CalMatters: 2024 California U.S. Senate Candidate: Barbara Lee](https://calmatters.org/california-voter-guide-2024/us-senate/barbara-lee/) (Tier 2)
+- [Annenberg Media: Rep. Barbara Lee Faces Fundraising Titans in the Race for CA Senate Seat](https://www.uscannenbergmedia.com/2023/05/17/rep-barbara-lee-faces-fundraising-titans-in-the-race-for-ca-senate-seat/) (Tier 2)
+- [CalMatters: Katie Porter, Adam Schiff and Barbara Lee Swore Off Corporate PAC Money. What Does That Mean?](https://calmatters.org/category/politics/elections/2024/02/california-senate-race-corporate-pacs/) (Tier 2)
+- [Slate: California Senate Primary — A Way Weirder Race Than Voters Imagined](https://slate.com/news-and-politics/2024/03/california-primary-senate-schiff-garvey-porter-lee-pelosi.html) (Tier 3)
+- [Wikipedia: Barbara Lee](https://en.wikipedia.org/wiki/Barbara_Lee) (Tier 3)
+- [Ballotpedia: Barbara Lee (California)](https://ballotpedia.org/Barbara_Lee_(California)) (Tier 3)
+- [Congresswoman Barbara Lee Official: Global Peace & Security Issues Page](https://lee.house.gov/issues/global-peace-and-security?latest=169) (Tier 1)
 
 ### Legislative Activity (Congress.gov)
 <!-- auto:congress-legislation start -->
@@ -163,7 +153,7 @@ Barbara Lee represents the political powerlessness of moral clarity in capitalis
 | 6562 | United States Development Finance Corporation Effectiveness Act | Referred to the House Committee on Foreign Affairs. |
 | 6563 | Terrorist Watchlist Modification Review Act | Referred to the House Committee on the Judiciary. |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Campaign Finance (FEC)
@@ -197,7 +187,7 @@ Barbara Lee represents the political powerlessness of moral clarity in capitalis
 | SANDRE SWANSON FOR ASSEMBLY 2010 | $1,244 | $0 |
 | TOGETHER WE THRIVE | $750 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8CA09060/) (Tier 1) (VERIFIED)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8CA09060/) (Tier 1)
 <!-- auto:fec-politician end -->
 
 ### Committee Assignments (Congress.gov)
@@ -231,7 +221,7 @@ _No committee data found._
 | 2024-12-17 | H.R. 1101 (118th): Lumbee Fairness Act | Yea | Passed |
 | 2024-12-17 | S. 3448 (118th): Never Again Education Reauthorization Act of 2023 | Yea | Passed |
 
-- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/400237)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400237) (Tier 1)
 <!-- auto:govtrack end -->
 
 <!-- auto:govtrack pending-merge 2026-04-12 -->
@@ -298,6 +288,15 @@ _No committee data found._
 
 ### Voting Record
 <!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Barbara Lee](https://www.congress.gov/member/e000179) (Tier 1)
+<!-- auto:voting-record end -->
+
+<!-- auto:voting-record pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
 **Key Votes**
 
 | 2024-12-20 | H.R. 10545 (118th): American Relief Act, 2025 | **Yea** | Passed |
@@ -318,6 +317,7 @@ _No committee data found._
 
 **Sources**
 
-- ~~[Congress.gov: Barbara Lee](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- [GovTrack: Barbara Lee](https://www.govtrack.us/congress/members/400237) (Tier 1) (NEEDS REVIEW)
-<!-- auto:voting-record end -->
+- [Congress.gov: Barbara Lee](https://www.congress.gov/member/e000179) (Tier 1)
+- [GovTrack: Barbara Lee](https://www.govtrack.us/congress/members/400237) (Tier 1)
+
+<!-- auto:voting-record pending-merge end -->

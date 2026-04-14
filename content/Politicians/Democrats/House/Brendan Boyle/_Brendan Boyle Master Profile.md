@@ -4,7 +4,7 @@ type: politician
 bioguide-id: "B001296"
 content-readiness: ready
 central-thesis: "Brendan Boyle is the Budget Committee's working-class Democrat — funded by labor unions, trial lawyers, and the Philadelphia Democratic machine rather than Wall Street or corporate PACs. His donor profile reflects Philadelphia ward politics more t..."
-last-updated: 2026-04-13
+last-updated: 2026-04-14
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -18,7 +18,7 @@ leadership-roles:
   - "Ranking Member"
 issues:
   - "Labor & Workers"
-last-enriched: "2026-04-13"
+last-enriched: "2026-04-14"
 needs-reenrichment: true
 reenrich-reason: "run congress pipeline"
 donors: "[[UNITE HERE]] · [[AFL-CIO]]"

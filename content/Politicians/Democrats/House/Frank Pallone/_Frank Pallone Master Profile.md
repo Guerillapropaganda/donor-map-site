@@ -1,74 +1,58 @@
 ---
-title: Frank Pallone
+title: "Frank Pallone"
 type: politician
 content-readiness: ready
-central-thesis: >-
-  Pallone is the textbook example of the committee-jurisdiction donor pipeline:
-  the longer he has held the gavel (or ranking member position) on Energy and
-  Commerce, the more money has flowed from every industry his committee
-  regulates. Pharmaceutic...
-last-updated: '2026-04-14'
+central-thesis: "Pallone is the textbook example of the committee-jurisdiction donor pipeline: the longer he has held the gavel (or ranking member position) on Energy and Commerce, the more money has flowed from every industry his committee regulates. Pharmaceutic..."
+last-updated: 2026-04-14
 source-tier: 1
 parent: null
-party: Democrat
-chamber: House
-state: New Jersey
-state-abbr: NJ
-district: '6'
+party: "Democrat"
+chamber: "House"
+state: "New Jersey"
+state-abbr: "NJ"
+district: "6"
 committees:
-  - House Committee on Energy and Commerce
+  - "House Committee on Energy and Commerce"
 leadership-roles:
-  - Ranking Member
+  - "Ranking Member"
 issues:
-  - Agriculture and Food
-  - Armed Forces and National Security
-  - 'Arts, Culture, Religion'
-  - 'Civil Rights and Liberties, Minority Issues'
-  - Commerce
-  - Congress
-  - Economics and Public Finance
-  - Energy
-  - Environmental Protection
-  - Finance and Financial Sector
+  - "Agriculture and Food"
+  - "Armed Forces and National Security"
+  - "Arts, Culture, Religion"
+  - "Civil Rights and Liberties, Minority Issues"
+  - "Commerce"
+  - "Congress"
+  - "Economics and Public Finance"
+  - "Energy"
+  - "Environmental Protection"
+  - "Finance and Financial Sector"
 top-donors:
-  - Pfizer
-  - PhRMA
-total-received: '$1,311,209'
-fec-candidate-id: H8NJ03073
-donors: >-
-  [[AFGE - American Federation of Government Employees]] · [[AIPAC - American
-  Israel Public Affairs Committee]] · [[UAW - United Auto Workers]]
-related: >-
-  [[Telecom Buys Net Neutrality's Death From Both Sides]] · [[_Rosa DeLauro
-  Master Profile|Rosa DeLauro]] · [[_Maxine Waters Master Profile|Maxine
-  Waters]] · [[Pfizer]] · [[PhRMA]] · [[Mark Takano]] · [[Pete Aguilar]] ·
-  [[Debbie Stabenow Master Profile]] · [[Gary Peters Master Profile]]
-last-enriched: '2026-04-13'
+  - "Pfizer"
+  - "PhRMA"
+total-received: "$1,311,209"
+fec-candidate-id: "H8NJ03073"
+donors: "[[AFGE - American Federation of Government Employees]] · [[AIPAC - American Israel Public Affairs Committee]] · [[UAW - United Auto Workers]]"
+related: "[[Telecom Buys Net Neutrality's Death From Both Sides]] · [[_Rosa DeLauro Master Profile|Rosa DeLauro]] · [[_Maxine Waters Master Profile|Maxine Waters]] · [[Pfizer]] · [[PhRMA]]"
+last-enriched: "2026-04-14"
 needs-reenrichment: true
-reenrich-reason: re-run congress pipeline
+reenrich-reason: "re-run congress pipeline"
 govtrack-id: 400308
 bills-sponsored: 534
 bills-cosponsored: 6690
-website: 'https://pallone.house.gov'
-phone: 202-225-4671
-bioguide-id: P000034
-total-raised: '$1,311,209'
-total-spent: '$1,257,401'
-cash-on-hand: '3125718.74'
+website: "https://pallone.house.gov"
+phone: "202-225-4671"
+bioguide-id: "P000034"
+total-raised: "$1,311,209"
+total-spent: "$1,257,401"
+cash-on-hand: "3125718.74"
 fec-cycle: 2026
-internal-notes: >-
-  [JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: •
-  BIOGUIDE data was stripped from this profile but the frontmatter still says it
-  was enriched. The pipeline thinks it's already done and won't refresh it.
-  Needs a re-run. The needs-reenrichment flag has been set. The next scheduled
-  pipeline run will pick it up automatically.
-wikidata-id: Q965289
-wikipedia-url: 'https://en.wikipedia.org/wiki/Frank_Pallone'
-wikipedia-extract: >-
-  Frank Joseph Pallone Jr. is an American lawyer and politician serving as the
-  U.S. representative for New Jersey's 6th congressional district since 1988. He
-  is a member of the Democratic Party.
-born: '1951-10-30'
+internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
+  • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+wikidata-id: "Q965289"
+wikipedia-url: "https://en.wikipedia.org/wiki/Frank_Pallone"
+wikipedia-extract: "Frank Joseph Pallone Jr. is an American lawyer and politician serving as the U.S. representative for New Jersey's 6th congressional district since 1988. He is a member of the Democratic Party."
+born: "1951-10-30"
 ---
 #frank-pallone #democrat #new-jersey #house #ranking-member #energy-commerce #pharma #telecom #environment #phase-6-gavel-power
 
@@ -171,18 +155,18 @@ The class function is clear: Pallone is the progressive validator for industries
 
 ## Sources
 
-- [FEC Candidate: Frank Pallone campaign finance summary](https://www.fec.gov/data/candidate/H8NJ03073/) (Tier 1) (VERIFIED)
-- [FEC: Frank Pallone candidate filings](https://www.fec.gov/data/candidate/H8NJ03073/) (Tier 1) (VERIFIED)
-- ~~[C-SPAN: RFK Jr. accuses Pallone of $2M pharma donations at E&C hearing](https://www.c-span.org/clip/house-committee/sec-kennedy-accuses-rep-pallone-of-receiving-2-million-of-contributions-from-pharmaceutical-companies/5166292)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[Congress.gov: H.R. 3 — Elijah E. Cummings Lower Drug Costs Now Act](https://www.congress.gov/bill/116th-congress/house-bill/3)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- [League of Conservation Voters: Frank Pallone lifetime scorecard (96%)](https://www.lcv.org/moc/frank-j-pallone/) (Tier 1) (VERIFIED)
-- [The New Republic: What Are Frank Pallone's Corporate Donors Getting for Their Money?](https://newrepublic.com/article/161778/frank-pallone-corporate-donors-money) (Tier 2) (VERIFIED)
-- [Fierce Pharma: Top 3 House Democrat leaders have pocketed millions from pharma](https://www.fiercepharma.com/pharma/top-3-house-democrat-leaders-have-pocketed-millions-from-pharma) (Tier 2) (VERIFIED)
-- [Common Dreams: Scathing critique of CLEAN Future Act carbon intensity targets](https://www.commondreams.org/news/2020/01/27/extremely-disappointing-new-analysis-offers-scathing-critique-top-democrats-clean) (Tier 2) (VERIFIED)
-- ~~[The Hill: Kennedy retracts claims about Pallone pharma donations](https://thehill.com/policy/healthcare/5366345-kennedy-retracts-claims-pallone/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- [Pallone.house.gov: Statement on FCC net neutrality vote](https://pallone.house.gov/press-release/pallone-statement-fcc-vote-adopt-net-neutrality-protections) (Tier 1) (VERIFIED)
-- [Pallone.house.gov: Medicare drug price negotiation statement](https://pallone.house.gov/media/press-releases/pallone-highlights-medicare-drug-price-negotiations-highlights-legislation) (Tier 1) (VERIFIED)
-- ~~[LegiList: Frank Pallone 2024 campaign finance](https://legilist.com/finance/P000034/2024)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- [FEC Candidate: Frank Pallone campaign finance summary](https://www.fec.gov/data/candidate/H8NJ03073/) (Tier 1)
+- [FEC: Frank Pallone candidate filings](https://www.fec.gov/data/candidate/H8NJ03073/) (Tier 1)
+- [C-SPAN: RFK Jr. accuses Pallone of $2M pharma donations at E&C hearing](https://www.c-span.org/clip/house-committee/sec-kennedy-accuses-rep-pallone-of-receiving-2-million-of-contributions-from-pharmaceutical-companies/5166292) (Tier 1)
+- [Congress.gov: H.R. 3 — Elijah E. Cummings Lower Drug Costs Now Act](https://www.congress.gov/bill/116th-congress/house-bill/3) (Tier 1)
+- [League of Conservation Voters: Frank Pallone lifetime scorecard (96%)](https://www.lcv.org/moc/frank-j-pallone/) (Tier 1)
+- [The New Republic: What Are Frank Pallone's Corporate Donors Getting for Their Money?](https://newrepublic.com/article/161778/frank-pallone-corporate-donors-money) (Tier 2)
+- [Fierce Pharma: Top 3 House Democrat leaders have pocketed millions from pharma](https://www.fiercepharma.com/pharma/top-3-house-democrat-leaders-have-pocketed-millions-from-pharma) (Tier 2)
+- [Common Dreams: Scathing critique of CLEAN Future Act carbon intensity targets](https://www.commondreams.org/news/2020/01/27/extremely-disappointing-new-analysis-offers-scathing-critique-top-democrats-clean) (Tier 2)
+- [The Hill: Kennedy retracts claims about Pallone pharma donations](https://thehill.com/policy/healthcare/5366345-kennedy-retracts-claims-pallone/) (Tier 2)
+- [Pallone.house.gov: Statement on FCC net neutrality vote](https://pallone.house.gov/press-release/pallone-statement-fcc-vote-adopt-net-neutrality-protections) (Tier 1)
+- [Pallone.house.gov: Medicare drug price negotiation statement](https://pallone.house.gov/media/press-releases/pallone-highlights-medicare-drug-price-negotiations-highlights-legislation) (Tier 1)
+- [LegiList: Frank Pallone 2024 campaign finance](https://legilist.com/finance/P000034/2024) (Tier 3)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -216,7 +200,7 @@ The class function is clear: Pallone is the progressive validator for industries
 | NEW JERSEY FAMILY FIRST INC | $0 | $7,681 |
 | FOCUS ON THE FAMILY ACTION | $0 | $7,681 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8NJ03073/) (Tier 1) (VERIFIED)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8NJ03073/) (Tier 1)
 <!-- auto:fec-politician end -->
 
 ### Voting Record
@@ -241,8 +225,8 @@ The class function is clear: Pallone is the progressive validator for industries
 
 **Sources**
 
-- ~~[Congress.gov: Frank Pallone](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[GovTrack: Frank Pallone](https://www.govtrack.us/congress/members/400308)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Congress.gov: Frank Pallone](https://www.congress.gov/member/e000179) (Tier 1)
+- [GovTrack: Frank Pallone](https://www.govtrack.us/congress/members/400308) (Tier 1)
 <!-- auto:voting-record end -->
 
 
@@ -275,7 +259,7 @@ The class function is clear: Pallone is the progressive validator for industries
 | 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Nay | Passed |
 | 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Nay | Passed |
 
-- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/400308)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400308) (Tier 1)
 <!-- auto:govtrack end -->
 
 ### Legislative Activity (Congress.gov)
@@ -304,7 +288,7 @@ The class function is clear: Pallone is the progressive validator for industries
 | 5484 | National Flood Insurance Program Reauthorization and Reform Act of 2025 | Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management. |
 | 648 | Celebrating 50 years of Bruce Springsteen's album, "Born to Run". | Referred to the House Committee on Education and Workforce. |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/P000034)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Source: Congress.gov](https://www.congress.gov/member/P000034) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Campaign Finance Summary (FEC)
@@ -340,7 +324,7 @@ The class function is clear: Pallone is the progressive validator for industries
 
 - House Committee on Energy and Commerce
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 ### Wikipedia
@@ -349,13 +333,13 @@ Frank Joseph Pallone Jr. is an American lawyer and politician serving as the U.S
 
 | Fact | Value |
 |------|-------|
-| Wikidata ID | [Q965289](https://www.wikidata.org/wiki/Q965289) (VERIFIED) |
+| Wikidata ID | [Q965289](https://www.wikidata.org/wiki/Q965289) |
 | Description | American lawyer and politician (born 1951) |
 | Born | 1951-10-30 |
-| Website | [https://pallone.house.gov](https://pallone.house.gov) (VERIFIED) |
-| X/Twitter | [@FrankPallone](https://x.com/FrankPallone) (VERIFIED) |
-| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Frank_Pallone.jpg?width=300) (NEEDS REVIEW) |
+| Website | [https://pallone.house.gov](https://pallone.house.gov) |
+| X/Twitter | [@FrankPallone](https://x.com/FrankPallone) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Frank_Pallone.jpg?width=300) |
 
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/Frank_Pallone) (Tier 3) (VERIFIED)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q965289) (Tier 2) (VERIFIED)
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Frank_Pallone) (Tier 3)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q965289) (Tier 2)
 <!-- auto:wikipedia end -->

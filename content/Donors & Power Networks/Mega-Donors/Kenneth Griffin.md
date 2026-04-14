@@ -344,5 +344,5 @@ Source: [Insurance Journal: Florida non-compete expansion](https://www.insurance
 
 - [[Maria Elvira Salazar]] (House Committee on Financial Services, House Committee on Foreign Affairs)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
 <!-- auto:influence-cross-ref end -->

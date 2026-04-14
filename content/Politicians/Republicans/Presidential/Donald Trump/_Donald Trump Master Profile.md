@@ -408,7 +408,7 @@ The structural innovation Trump represents is the merger of state power and pers
 - [[Timothy Mellon]] — $1.9M lobbying spend (Banking, Energy/Nuclear, Financial Institutions/Investments/Securities)
 - [[Peter Thiel]] — $1.7M lobbying spend
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
 <!-- auto:influence-cross-ref end -->
 
 ### Legislative Activity (GovTrack)

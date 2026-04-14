@@ -296,11 +296,13 @@ Arrington serves the oil and gas industry, corporate tax beneficiaries, and agri
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
-| Donors Who Also Lobby | 1 of 1 |
-| Committee Overlap Detected | 1 donor |
+| Donors Who Also Lobby | 1 of 2 |
+| Committee Overlap Detected | 2 donors |
 
 **Donate → Lobby → Committee chains:**
 
+- **American Farm Bureau Federation** donates → Lobbies on **Agriculture** → This member sits on **Agriculture**
+- **American Farm Bureau Federation** donates → Lobbies on **Budget/Appropriations** → This member sits on **Budget**
 - **Heritage Foundation** donates → Lobbies on **Agriculture** → This member sits on **Agriculture**
 - **Heritage Foundation** donates → Lobbies on **Budget/Appropriations** → This member sits on **Budget**
 
@@ -308,5 +310,5 @@ Arrington serves the oil and gas industry, corporate tax beneficiaries, and agri
 
 - [[Heritage Foundation]] — $1.6M lobbying spend (Agriculture, Arts/Entertainment, Banking)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
 <!-- auto:influence-cross-ref end -->

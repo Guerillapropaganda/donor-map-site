@@ -2,13 +2,13 @@
 title: "Brady Campaign"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-14
 source-tier: 2
 parent: null
 sector: "Dark Money"
 entity-type: "Individual Donor"
 court-cases: 410
-last-enriched: "2026-04-13"
+last-enriched: "2026-04-14"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 court-jurisdictions:
@@ -43,21 +43,21 @@ sec-form-types:
   - "EX-99.1"
   - "N-1A/A"
   - "U5S"
-total-political-spend: "$499,761"
+total-political-spend: "$511,461"
 politicians-funded:
-  - "Jerrold Nadler"
-  - "Jerry Nadler"
-  - "James E. Clyburn"
   - "Gina McCarthy"
   - "Kevin McCarthy"
-  - "Robert Menendez"
-  - "Bob Menendez"
   - "Wes Moore"
   - "Gwen Moore"
   - "Barry Moore"
   - "Blake D. Moore"
   - "Riley M. Moore"
   - "Tim Moore"
+  - "Jerrold Nadler"
+  - "Jerry Nadler"
+  - "James E. Clyburn"
+  - "Robert Menendez"
+  - "Bob Menendez"
   - "Melissa Bean"
   - "Aaron Bean"
   - "Linda McMahon"
@@ -199,7 +199,7 @@ Brady represents issue-based donor infrastructure serving Democratic electoral p
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-13 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-14 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -229,7 +229,7 @@ Brady represents issue-based donor infrastructure serving Democratic electoral p
 - [[Linda McMahon]] (Education & Labor) — lobbying: $836K
 - [[Salud O. Carbajal]] — lobbying: $836K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 
@@ -280,23 +280,23 @@ Brady represents issue-based donor infrastructure serving Democratic electoral p
 <!-- auto:fec-donor start -->
 | Metric | Value |
 |--------|-------|
-| Total Political Spend | $499,761 |
-| Contributions | 100 |
+| Total Political Spend | $511,461 |
+| Contributions | 108 |
 
 **Top recipients:**
 
 | Recipient | Amount | Party |
 |-----------|--------|-------|
 | BRADY PAC | $429,429 | — |
+| FRIENDS OF CAROLYN MCCARTHY | $7,500 | DEM |
+| MOORE FOR CONGRESS | $7,000 | DEM |
 | PERLMUTTER FOR CONGRESS | $6,800 | DEM |
 | NADLER FOR CONGRESS | $6,000 | DEM |
 | FRIENDS OF JIM CLYBURN | $5,500 | DEM |
 | SCHRADER FOR CONGRESS | $5,000 | DEM |
-| FRIENDS OF CAROLYN MCCARTHY | $4,000 | DEM |
 | MENENDEZ FOR SENATE | $4,000 | DEM |
-| MOORE FOR CONGRESS | $3,000 | DEM |
 | DARCY BURNER FOR CONGRESS | $2,500 | DEM |
-| DEMOCRATIC PARTY OF VIRGINIA | $2,000 | DEM |
+| ALLYSON SCHWARTZ FOR CONGRESS | $2,500 | DEM |
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Brady%20Campaign) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->

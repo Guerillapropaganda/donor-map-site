@@ -247,7 +247,7 @@ The return on $2.9 million in Newsom contributions is $1.6 billion in contracts 
 - [[Gavin Newsom]] — contracts: $172K
 - [[Chad Bianco]] — contracts: $172K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
 <!-- auto:influence-cross-ref end -->
 
 ### Tax Filings (IRS 990)

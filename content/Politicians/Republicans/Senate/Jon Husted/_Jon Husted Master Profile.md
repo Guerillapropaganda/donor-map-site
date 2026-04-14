@@ -174,7 +174,7 @@ party:: Republican
 
 - [[Centene Corporation]] — $10.6M lobbying spend (Health Issues, Insurance, Medicare/Medicaid)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
 <!-- auto:influence-cross-ref end -->
 
 ### Campaign Finance (FEC)

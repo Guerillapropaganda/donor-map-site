@@ -157,7 +157,7 @@ Morgan Stanley is the donor class's bank. Its wealth management division serves 
 
 - [[Chuck Schumer]] (Senate Committee on Rules and Administration, Senate Select Committee on Intelligence) — contracts: $23K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
 <!-- auto:influence-cross-ref end -->
 
 ### Tax Filings (IRS 990)

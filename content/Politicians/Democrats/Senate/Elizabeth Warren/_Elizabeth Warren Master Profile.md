@@ -1,94 +1,57 @@
 ---
-title: Elizabeth Warren Master Profile
+title: "Elizabeth Warren Master Profile"
 type: politician
 content-readiness: ready
-last-updated: '2026-04-14'
+last-updated: 2026-04-14
 source-tier: 1
 parent: null
-party: Democrat
-chamber: Senate
-state: Massachusetts
-state-abbr: MA
-bioguide-id: W000817
-fec-candidate-id: S2MA00170
+party: "Democrat"
+chamber: "Senate"
+state: "Massachusetts"
+state-abbr: "MA"
+bioguide-id: "W000817"
+fec-candidate-id: "S2MA00170"
 issues:
-  - Agriculture and Food
-  - Armed Forces and National Security
-  - Commerce
-  - Education
-  - Families
-  - Finance and Financial Sector
-  - Health
-  - Immigration
-  - Labor and Employment
-  - Native Americans
+  - "Agriculture and Food"
+  - "Armed Forces and National Security"
+  - "Commerce"
+  - "Education"
+  - "Families"
+  - "Finance and Financial Sector"
+  - "Health"
+  - "Immigration"
+  - "Labor and Employment"
+  - "Native Americans"
 committees:
-  - 'Banking, Housing & Urban Affairs'
-  - Finance
-  - Armed Services
-  - 'Health, Education, Labor & Pensions'
+  - "Banking, Housing & Urban Affairs"
+  - "Finance"
+  - "Armed Services"
+  - "Health, Education, Labor & Pensions"
 top-donors:
-  - 'Small-dollar individual donors (2024: 96.2% of $9.04M raised)'
-  - Education / Academia sector
-  - Law & Legal Services sector
-  - ActBlue (platform)
-  - Emily's List
-total-received: '$3,079,771'
+  - "Small-dollar individual donors (2024: 96.2% of $9.04M raised)"
+  - "Education / Academia sector"
+  - "Law & Legal Services sector"
+  - "ActBlue (platform)"
+  - "Emily's List"
+total-received: "$3,079,771"
 stock-trades: 1
-last-enriched: '2026-04-11'
+last-enriched: "2026-04-11"
 source-types:
   - FEC
 corroboration-count: 1
 needs-reenrichment: true
-reenrich-reason: >-
-  Congress + GovTrack enrichment never populated; bioguide-id W000817 just added
-  so pipeline can now look her up. Also: source-types previously listed DOJ
-  which was a false-positive from the engine scan — removed.
+reenrich-reason: "Congress + GovTrack enrichment never populated; bioguide-id W000817 just added so pipeline can now look her up. Also: source-types previously listed DOJ which was a false-positive from the engine scan — removed."
 known-gaps:
-  - >-
-    Congress.gov legislative record not yet populated (bioguide-id W000817 added
-    2026-04-10; awaits next pipeline run)
-  - GovTrack voting record not yet populated (awaits pipeline run)
-  - >-
-    CFPB dismantlement timeline under Trump II needs complete cataloging
-    (partially documented)
-  - >-
-    Wealth tax proposal votes and co-sponsor retreat pattern needs full
-    enumeration
-related: >-
-  [[_Chuck Schumer Master Profile]] · [[_Kamala Harris Master Profile|Kamala
-  Harris]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[_Katie Porter
-  Master Profile|Katie Porter]] · [[_Alexandria Ocasio-Cortez Master
-  Profile|AOC]] · [[DOGE - The Billionaires Government]] · [[Fairshake PAC]] ·
-  [[Crypto Industry Bloc]] · [[Kenneth Griffin]] · [[The CFPB and the Limits of
-  Reform Within the System]] · [[The Medicare for All Retreat - Two Audiences
-  and One Calculation]] · [[The 2020 Campaign and the Donor Class
-  Consolidation]] · [[ActBlue]] · [[Dan Osborn Master Profile]]
-opposes: >-
-  [[_Donald Trump Master Profile]] · [[Fairshake PAC]] · [[Kenneth Griffin]] ·
-  [[Crypto Industry Bloc]]
+  - "Congress.gov legislative record not yet populated (bioguide-id W000817 added 2026-04-10; awaits next pipeline run)"
+  - "GovTrack voting record not yet populated (awaits pipeline run)"
+  - "CFPB dismantlement timeline under Trump II needs complete cataloging (partially documented)"
+  - "Wealth tax proposal votes and co-sponsor retreat pattern needs full enumeration"
+related: "[[_Chuck Schumer Master Profile]] · [[_Kamala Harris Master Profile|Kamala Harris]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[_Katie Porter Master Profile|Katie Porter]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[DOGE - The Billionaires Government]] · [[Fairshake PAC]] · [[Crypto Industry Bloc]] · [[Kenneth Griffin]] · [[The CFPB and the Limits of Reform Within the System]] · [[The Medicare for All Retreat - Two Audiences and One Calculation]] · [[The 2020 Campaign and the Donor Class Consolidation]] · [[ActBlue]]"
+opposes: "[[_Donald Trump Master Profile]] · [[Fairshake PAC]] · [[Kenneth Griffin]] · [[Crypto Industry Bloc]]"
 editorial-review-date: '2026-04-10'
-editorial-reviewer: Research Claude
+editorial-reviewer: "Research Claude"
 editorial-result: ready-candidate
-editorial-notes: >-
-  Depth review 2026-04-10. BODY NOT TOUCHED — the central thesis ('what happens
-  when a politician's funding IS clean'), donor class map (96.2% individual
-  contributions, 0.7% PAC), and the CFPB architect → CFPB destroyed arc are all
-  excellent. Structural test case for the vault. FIXED (Research Claude): added
-  bioguide-id W000817 (unblocks Congress pipeline — was the reason 'No
-  legislative record from Congress.gov' was a persistent gap), removed
-  false-positive DOJ from source-types (engine scan artifact, same class of
-  error as Whitehouse DOJ strip), expanded issues 1→8 entries, added committees
-  (Banking / Finance / Armed Services / HELP), restructured top-donors to lead
-  with the small-dollar model (96.2% individual), added structured opposes
-  (Fairshake, Griffin, corporate PACs), expanded related to include full
-  anti-donor + squad coalition, cleaned known-gaps (removed factually-wrong 'No
-  mapped relationships' — 12+ wikilinks exist). REMOVED: body inline dataview
-  'donors: [[ActBlue]] · ...' per frontmatter-only rule. REMOVED: double '---'
-  separator artifact. STAYS draft per tightened Vault Rules: known-gaps
-  explicitly cite missing Congress.gov + GovTrack pipeline data. Flagged
-  needs-reenrichment: true. Once clean pipeline data lands, ready to promote to
-  ready and flag verified-candidate.
+editorial-notes: "Depth review 2026-04-10. BODY NOT TOUCHED — the central thesis ('what happens when a politician's funding IS clean'), donor class map (96.2% individual contributions, 0.7% PAC), and the CFPB architect → CFPB destroyed arc are all excellent. Structural test case for the vault. FIXED (Research Claude): added bioguide-id W000817 (unblocks Congress pipeline — was the reason 'No legislative record from Congress.gov' was a persistent gap), removed false-positive DOJ from source-types (engine scan artifact, same class of error as Whitehouse DOJ strip), expanded issues 1→8 entries, added committees (Banking / Finance / Armed Services / HELP), restructured top-donors to lead with the small-dollar model (96.2% individual), added structured opposes (Fairshake, Griffin, corporate PACs), expanded related to include full anti-donor + squad coalition, cleaned known-gaps (removed factually-wrong 'No mapped relationships' — 12+ wikilinks exist). REMOVED: body inline dataview 'donors: [[ActBlue]] · ...' per frontmatter-only rule. REMOVED: double '---' separator artifact. STAYS draft per tightened Vault Rules: known-gaps explicitly cite missing Congress.gov + GovTrack pipeline data. Flagged needs-reenrichment: true. Once clean pipeline data lands, ready to promote to ready and flag verified-candidate."
 ---
 #politician #democrat #senate #massachusetts #2026-election #cfpb #wall-street #consumer-protection #class-analysis #financial-regulation #small-dollar
 
@@ -280,14 +243,14 @@ Warren is the vault's case study in the limits of individual resistance within a
 
 ## Sources
 
-- [FEC Candidate: Elizabeth Warren Campaign Finance Summary](https://www.fec.gov/data/candidate/P00009621/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Elizabeth Warren 2024 Donor Industries](https://www.fec.gov/data/candidate/P00009621/) (Tier 1) (VERIFIED)
-- [FEC: Elizabeth Warren Candidate Filing Data](https://www.fec.gov/data/candidate/S2MA00170/) (Tier 1) (VERIFIED)
-- [Consumer Financial Protection Bureau: CFPB History and Impact](https://www.consumerfinance.gov/about-us/) (Tier 1) (VERIFIED)
-- ~~[Consumer Financial Protection Bureau: Consumer Relief Data](https://www.consumerfinance.gov/about-us/newsroom/cfpb-ordered-return-about-21-billion-in-relief-to-consumers/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- [Boston Globe: CFPB Shutdown — Elizabeth Warren Fights to Save Agency She Conceived](https://www.bostonglobe.com/2025/02/10/nation/cfpb-elizabeth-warren-trump-elon-musk/) (Tier 2) (VERIFIED)
-- [CoinDesk: Crypto PAC Fairshake Claims Another Win Against Elizabeth Warren Ally](https://www.coindesk.com/policy2024/08/07/crypto-pac-fairshake-claims-another-win-against-elizabeth-warren-ally-with-bush-loss) (Tier 2) (VERIFIED)
-- [Boston Globe: As Crypto Industry Looks to Widen Influence, Elizabeth Warren Emerges as Target](https://www.bostonglobe.com/2024/03/15/metro/elizabeth-warren-reelection-crypto-industry/) (Tier 2) (VERIFIED)
+- [FEC Candidate: Elizabeth Warren Campaign Finance Summary](https://www.fec.gov/data/candidate/P00009621/) (Tier 1)
+- [FEC Candidate: Elizabeth Warren 2024 Donor Industries](https://www.fec.gov/data/candidate/P00009621/) (Tier 1)
+- [FEC: Elizabeth Warren Candidate Filing Data](https://www.fec.gov/data/candidate/S2MA00170/) (Tier 1)
+- [Consumer Financial Protection Bureau: CFPB History and Impact](https://www.consumerfinance.gov/about-us/) (Tier 1)
+- [Consumer Financial Protection Bureau: Consumer Relief Data](https://www.consumerfinance.gov/about-us/newsroom/cfpb-ordered-return-about-21-billion-in-relief-to-consumers/) (Tier 1)
+- [Boston Globe: CFPB Shutdown — Elizabeth Warren Fights to Save Agency She Conceived](https://www.bostonglobe.com/2025/02/10/nation/cfpb-elizabeth-warren-trump-elon-musk/) (Tier 2)
+- [CoinDesk: Crypto PAC Fairshake Claims Another Win Against Elizabeth Warren Ally](https://www.coindesk.com/policy2024/08/07/crypto-pac-fairshake-claims-another-win-against-elizabeth-warren-ally-with-bush-loss) (Tier 2)
+- [Boston Globe: As Crypto Industry Looks to Widen Influence, Elizabeth Warren Emerges as Target](https://www.bostonglobe.com/2024/03/15/metro/elizabeth-warren-reelection-crypto-industry/) (Tier 2)
 
 ---
 
@@ -392,7 +355,7 @@ party:: Democrat
 |------|--------|------|--------|-------|
 | 01/30/2013 | N/A | other | Unknown | N/A |
 
-- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
 <!-- auto:stock-trades end -->
 
 ### DOJ Press Releases
@@ -424,7 +387,7 @@ party:: Democrat
 | 4001 | Supplemental Security Income Restoration Act of 2026 | Read twice and referred to the Committee on Finance. |
 | 113 | A joint resolution providing congressional disapproval under chapter 8 of title … | Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/W000817)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Source: Congress.gov](https://www.congress.gov/member/W000817) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Campaign Finance (FEC)
@@ -458,12 +421,12 @@ party:: Democrat
 | AMERICANS FOR TAX REFORM | $0 | $878,468 |
 | COMMONWEALTH UNITY FUND | $0 | $785,000 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S2MA00170/) (Tier 1) (VERIFIED)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S2MA00170/) (Tier 1)
 <!-- auto:fec-politician end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Elizabeth Warren](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Congress.gov: Elizabeth Warren](https://www.congress.gov/member/c001091) (Tier 1)
 <!-- auto:voting-record end -->

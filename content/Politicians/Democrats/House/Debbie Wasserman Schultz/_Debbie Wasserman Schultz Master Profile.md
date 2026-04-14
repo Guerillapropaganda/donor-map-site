@@ -1,44 +1,33 @@
 ---
-title: Debbie Wasserman Schultz
+title: "Debbie Wasserman Schultz"
 type: politician
-bioguide-id: W000797
+bioguide-id: "W000797"
 content-readiness: ready
-central-thesis: >-
-  Wasserman Schultz is the Both-Sides Illusion made flesh. She is a Democrat
-  funded by the same sugar PACs and Israel lobby money that funds the Republican
-  Cuba hawks. Her presence in the sugar-defense-Israel coalition proves that the
-  embargo — and ...
-last-updated: '2026-04-14'
+central-thesis: "Wasserman Schultz is the Both-Sides Illusion made flesh. She is a Democrat funded by the same sugar PACs and Israel lobby money that funds the Republican Cuba hawks. Her presence in the sugar-defense-Israel coalition proves that the embargo — and ..."
+last-updated: 2026-04-14
 source-tier: 1
 parent: null
-party: Democrat
-chamber: House
-state: Florida
-state-abbr: FL
-district: '25'
+party: "Democrat"
+chamber: "House"
+state: "Florida"
+state-abbr: "FL"
+district: "25"
 issues:
-  - Israel & Foreign Policy
+  - "Israel & Foreign Policy"
 top-donors:
-  - Fanjul Family - Florida Crystals
-  - AIPAC
-total-received: '$1,785,365'
-fec-candidate-id: H4FL20023
-last-enriched: '2026-04-13'
+  - "Fanjul Family - Florida Crystals"
+  - "AIPAC"
+total-received: "$1,785,365"
+fec-candidate-id: "H4FL20023"
+last-enriched: "2026-04-14"
 needs-reenrichment: true
-reenrich-reason: run voting pipeline; run congress pipeline
-donors: '[[UNITE HERE]] · [[Bacardi - Bacardi USA]]'
-related: >-
-  [[_Marco Rubio Master Profile|Rubio]] · [[_Mario Diaz-Balart Master
-  Profile|Diaz-Balart]] · [[Fanjul Family - Florida Crystals]] · [[AIPAC -
-  American Israel Public Affairs Committee|AIPAC]] · [[_Bob Menendez Master
-  Profile|Menendez]] · [[Rick Scott Master Profile]]
-internal-notes: >-
-  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: •
-  VOTING data is missing entirely. This profile was promoted to ready without
-  ever having voting enrichment run on it. • CONGRESS data is missing entirely.
-  This profile was promoted to ready without ever having congress enrichment run
-  on it. The needs-reenrichment flag has been set. The next scheduled pipeline
-  run will pick it up automatically.
+reenrich-reason: "run voting pipeline; run congress pipeline"
+donors: "[[UNITE HERE]] · [[Bacardi - Bacardi USA]]"
+related: "[[_Marco Rubio Master Profile|Rubio]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[Fanjul Family - Florida Crystals]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Bob Menendez Master Profile|Menendez]]"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #politician #democrat #house #florida #sugar #aipac #dnc #both-sides-illusion #class-analysis #follow-the-money
 
@@ -145,9 +134,9 @@ The DNC chairmanship (2011-2016) exposed the party-level version of the same don
 
 ## Sources
 
-- [FEC Candidate: Debbie Wasserman Schultz campaign finance summary](https://www.fec.gov/data/candidate/H4FL20023/) (Tier 1) (VERIFIED)
-- [NBC News: DNC Chief Wasserman Schultz stepping aside in wake of scandal](https://www.nbcnews.com/storyline/2016-conventions/democratic-national-committee-chief-stepping-aside-after-convention-n615826) (Tier 2) (VERIFIED)
-- [Wikipedia: Debbie Wasserman Schultz](https://en.wikipedia.org/wiki/Debbie_Wasserman_Schultz) (Tier 3) (VERIFIED)
+- [FEC Candidate: Debbie Wasserman Schultz campaign finance summary](https://www.fec.gov/data/candidate/H4FL20023/) (Tier 1)
+- [NBC News: DNC Chief Wasserman Schultz stepping aside in wake of scandal](https://www.nbcnews.com/storyline/2016-conventions/democratic-national-committee-chief-stepping-aside-after-convention-n615826) (Tier 2)
+- [Wikipedia: Debbie Wasserman Schultz](https://en.wikipedia.org/wiki/Debbie_Wasserman_Schultz) (Tier 3)
 
 ---
 
@@ -183,7 +172,7 @@ The DNC chairmanship (2011-2016) exposed the party-level version of the same don
 | CITIZENS AGAINST AIPAC CORRUPTION | $0 | $45,408 |
 | UNITED FOR COMMON SENSE | $0 | $44,250 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4FL20023/) (Tier 1) (VERIFIED)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4FL20023/) (Tier 1)
 <!-- auto:fec-politician end -->
 
 ### DOJ Press Releases
@@ -193,5 +182,5 @@ The DNC chairmanship (2011-2016) exposed the party-level version of the same don
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Debbie Wasserman Schultz](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Congress.gov: Debbie Wasserman Schultz](https://www.congress.gov/member/e000179) (Tier 1)
 <!-- auto:voting-record end -->

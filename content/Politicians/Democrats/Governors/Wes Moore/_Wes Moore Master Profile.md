@@ -175,5 +175,5 @@ Moore's FY2026 budget ($67.3 billion) includes corporate tax rate cuts, $100 mil
 - [[Citigroup]] — $11.6M lobbying spend (Banking, Financial Institutions/Investments/Securities, Foreign Relations)
 - [[George Soros]] — $1.5M lobbying spend (Agriculture, Aviation/Airlines/Airports, Budget/Appropriations)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
 <!-- auto:influence-cross-ref end -->

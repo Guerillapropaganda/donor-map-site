@@ -2,7 +2,7 @@
 title: "John Deere"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-14
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -71,8 +71,8 @@ nonprofit-status: "501(c)(3)"
 total-revenue: 132817572
 total-assets: 220477766
 wikidata-id: "Q98642757"
-lobbying-spend: 1824623
-lobbying-filings: 133
+lobbying-spend: 1834623
+lobbying-filings: 134
 ---
 #deere #agriculture #manufacturing #right-to-repair #trade #tariffs #iowa
 
@@ -185,7 +185,7 @@ The political math is straightforward. John Deere's PAC contributes $1-2 million
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F366051024_202310_990PF_2024110422794422.pdf) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
-<!-- auto:propublica-990 pending-merge 2026-04-13 -->
+<!-- auto:propublica-990 pending-merge 2026-04-14 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -520,7 +520,7 @@ The political math is straightforward. John Deere's PAC contributes $1-2 million
 | Metric | Value |
 |--------|-------|
 | Total Lobbying Spend | $1.8M |
-| Quarterly Filings | 133 |
+| Quarterly Filings | 134 |
 | Year Range | 2024-2026 |
 | Lobbying Firms | 48 |
 | Individual Lobbyists | 0 |

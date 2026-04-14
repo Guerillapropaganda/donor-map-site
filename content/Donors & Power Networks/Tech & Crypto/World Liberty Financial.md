@@ -233,5 +233,5 @@ Pattern flags: **Donor-Class Override** (foreign government payment directly pur
 - [[Jared Kushner]] — lobbying: $1.9M
 - [[Steve Witkoff]] — lobbying: $1.9M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
 <!-- auto:influence-cross-ref end -->

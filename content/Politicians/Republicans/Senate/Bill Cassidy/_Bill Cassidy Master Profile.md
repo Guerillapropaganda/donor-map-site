@@ -168,7 +168,7 @@ That impeachment vote is the key to understanding Cassidy's class function. He s
 - [[Petrochemical Industry Bloc]] — $36.4M lobbying spend (Budget/Appropriations, Chemicals/Chemical Industry, Energy/Nuclear)
 - [[Koch Network - Charles Koch]] — $21.3M lobbying spend (Agriculture, Banking, Bankruptcy)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
 <!-- auto:influence-cross-ref end -->
 
 ### Voting Record

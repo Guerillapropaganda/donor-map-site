@@ -2,7 +2,7 @@
 title: "Real Estate Development Industry Bloc"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-14
 source-tier: 1
 parent: null
 sector: "Real Estate"
@@ -13,7 +13,7 @@ politicians-funded:
 issues:
   - "Housing"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-13"
+last-enriched: "2026-04-14"
 needs-reenrichment: true
 reenrich-reason: "run lda pipeline"
 ofac-programs:

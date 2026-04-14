@@ -3,7 +3,7 @@ title: "Adam Smith"
 type: politician
 content-readiness: ready
 central-thesis: "Adam Smith is the Democratic face of the military-industrial complex. His district contains Boeing's Renton operations, Washington State hosts six active-duty military installations, and his top three career donors — Boeing, Northrop Grumman, and ..."
-last-updated: 2026-04-13
+last-updated: 2026-04-14
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -34,7 +34,7 @@ top-donors:
 fec-candidate-id: "H6WA09025"
 related: "[[Tom Cole]] · [[_Rosa DeLauro Master Profile|Rosa DeLauro]] · [[Boeing]] · [[Northrop Grumman]] · [[Raytheon (RTX)|Raytheon]] · [[Lockheed Martin]]"
 donors: "[[American Gaming Association]] · [[Raytheon (RTX Corporation)]] · [[National Association of Manufacturers]] · [[Tech Industry]] · [[National Restaurant Association]] · [[ActBlue]]"
-last-enriched: "2026-04-13"
+last-enriched: "2026-04-14"
 needs-reenrichment: true
 reenrich-reason: "run congress pipeline"
 govtrack-id: 400379
@@ -151,13 +151,13 @@ Smith publicly supports campaign finance reform, states "corporations are not pe
 - ~~[FEC Candidate: Adam Smith campaign finance summary](https://www.fec.gov/data/candidate/S0KS00216/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - ~~[FEC: Adam Smith candidate filings](https://www.fec.gov/data/candidate/H6WA09025/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [House Armed Services Committee Democrats: Ranking Member Adam Smith](https://democrats-armedservices.house.gov/ranking-member) (Tier 1) (VERIFIED)
-- ~~[Congress.gov: Adam Smith voting record](https://www.congress.gov/member/adam-smith/S000510)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1) (VERIFIED: I see voting record. changed from bad)
+- [Congress.gov: Adam Smith voting record](https://www.congress.gov/member/adam-smith/S000510) (Tier 1) (VERIFIED: I see voting record. changed from bad)
 - [KUOW: Mr. Smith stays in Washington — with help from military-industrial complex](https://www.kuow.org/stories/mr-smith-stays-washington-help-military-industrial-complex/) (Tier 2) (VERIFIED)
 - [Sludge: House Dem in charge of military budget opposes cuts favored by progressives](https://readsludge.com/2020/10/20/hawkish-dem-in-charge-of-military-budget-opposes-cuts-favored-by-progressives/) (Tier 2) (VERIFIED)
-- [Seattle Times: Rep. Adam Smith's campaign leans heavily on PAC money](https://www.seattletimes.com/seattle-news/rep-adam-smiths-campaign-leans-heavily-on-pac-money/) (Tier 2) (VERIFIED) (NEEDS REVIEW: 403)
+- [Seattle Times: Rep. Adam Smith's campaign leans heavily on PAC money](https://www.seattletimes.com/seattle-news/rep-adam-smiths-campaign-leans-heavily-on-pac-money/) (Tier 2) (NEEDS REVIEW: 403)
 - [Breaking Defense: Who's Who in Defense — Adam Smith, Ranking Member HASC](https://breakingdefense.com/2025/03/whos-who-in-defense-adam-smith-ranking-member-house-armed-services-committee-hasc/) (Tier 2) (VERIFIED)
 - [CSIS: Representative Adam Smith on the FY2020 NDAA](https://www.csis.org/analysis/representative-adam-smith-fy2020-national-defense-authorization-act) (Tier 2) (VERIFIED)
-- [Ballotpedia: Adam Smith (Washington)](https://ballotpedia.org/Adam_Smith_(Washington) (VERIFIED)) (Tier 3)
+- [Ballotpedia: Adam Smith (Washington)](https://ballotpedia.org/Adam_Smith_(Washington) (VERIFIED: Works; changed from bad)) (Tier 3)
 - [Washington State military & defense sector overview](https://choosewashingtonstate.com/why-washington/our-key-sectors/military-defense/) (Tier 3) (VERIFIED)
 
 ### Campaign Finance (FEC)
@@ -170,7 +170,7 @@ Smith publicly supports campaign finance reform, states "corporations are not pe
 - ~~[Source: FEC.gov](https://www.fec.gov/data/candidate/S0KS00216/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:fec-politician end -->
 
-<!-- auto:fec-politician pending-merge 2026-04-13 -->
+<!-- auto:fec-politician pending-merge 2026-04-14 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -204,7 +204,7 @@ Smith publicly supports campaign finance reform, states "corporations are not pe
 | PUGET SOUND ENERGY INC PAC FOR GOOD GOVERNMENT | $6,577 | $0 |
 | THE 60 PLUS ASSOCIATION | $0 | $6,122 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6WA09025/) (Tier 1) (VERIFIED)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6WA09025/) (Tier 1)
 
 <!-- auto:fec-politician pending-merge end -->
 
@@ -234,7 +234,7 @@ Smith publicly supports campaign finance reform, states "corporations are not pe
 | 5531 | Career and Technical Education Access Act | Referred to the House Committee on Education and Workforce. |
 | 5492 | PAAF Act | Referred to the House Committee on the Judiciary. |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/S000510)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Source: Congress.gov](https://www.congress.gov/member/S000510) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ## Influence Network (Cross-Reference)
@@ -252,7 +252,7 @@ Smith publicly supports campaign finance reform, states "corporations are not pe
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-13 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-14 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -266,7 +266,7 @@ Smith publicly supports campaign finance reform, states "corporations are not pe
 
 - **Northrop Grumman** donates → Lobbies on **Defense & Military** → This member sits on **House Committee on Armed Services**
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 
@@ -299,7 +299,7 @@ Smith publicly supports campaign finance reform, states "corporations are not pe
 | 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Nay | Passed |
 | 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Nay | Passed |
 
-- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/400379)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400379) (Tier 1)
 <!-- auto:govtrack end -->
 
 ### Committee Assignments (Congress.gov)
@@ -308,7 +308,7 @@ Smith publicly supports campaign finance reform, states "corporations are not pe
 
 - House Committee on Armed Services
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 ### Campaign Finance Summary (FEC)
@@ -340,6 +340,15 @@ Smith publicly supports campaign finance reform, states "corporations are not pe
 
 ### Voting Record
 <!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Adam Smith](https://www.congress.gov/member/e000179) (Tier 1)
+<!-- auto:voting-record end -->
+
+<!-- auto:voting-record pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
 **Key Votes**
 
 | 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appro | **No** | Passed |
@@ -360,6 +369,7 @@ Smith publicly supports campaign finance reform, states "corporations are not pe
 
 **Sources**
 
-- ~~[Congress.gov: Adam Smith](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- [GovTrack: Adam Smith](https://www.govtrack.us/congress/members/400379) (Tier 1) (NEEDS REVIEW)
-<!-- auto:voting-record end -->
+- [Congress.gov: Adam Smith](https://www.congress.gov/member/e000179) (Tier 1)
+- [GovTrack: Adam Smith](https://www.govtrack.us/congress/members/400379) (Tier 1)
+
+<!-- auto:voting-record pending-merge end -->
