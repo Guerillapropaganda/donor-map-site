@@ -1,41 +1,59 @@
 ---
-title: "Senate Majority PAC"
+title: Senate Majority PAC
 type: pac
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: '2026-04-14'
 source-tier: 1
 parent: null
-sector: "Super PACs"
-entity-type: "PAC"
+sector: Super PACs
+entity-type: PAC
 politicians-funded:
-  - "Chuck Schumer"
-  - "Bernie Sanders"
-  - "Mitch McConnell"
+  - Chuck Schumer
+  - Bernie Sanders
+  - Mitch McConnell
 issues:
-  - "Dark Money & Campaign Finance"
+  - Dark Money & Campaign Finance
 court-cases: 38
-last-enriched: "2026-04-08"
+last-enriched: '2026-04-08'
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 court-jurisdictions:
-  - "Court of Appeals for the Eleventh Circuit"
-  - "District Court, C.D. California"
-  - "District Court, District of Columbia"
-  - "District Court, M.D. Alabama"
-  - "District Court, N.D. Alabama"
-  - "District Court, N.D. Florida"
-  - "District Court, S.D. New York"
-  - "United States Bankruptcy Court, D. Delaware"
-related: "[[Senate Leadership Fund]] · [[Dan Osborn Master Profile]] · [[2024-2026 Campaign Finance and Democratic Infrastructure]] · [[DSCC - Democratic Senatorial Campaign Committee]] · [[Nebraska 2026 Senate Race]] · [[MAGA Inc]] · [[House Majority PAC]] · [[Future Forward USA Action]] · [[Congressional Leadership Fund]] · [[Club for Growth]] · [[Americans for Prosperity]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[Dustin Moskovitz]] · [[Michael Bloomberg]] · [[Majority Forward]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[Priorities USA Action]] · [[Winning for Women PAC]] · [[National Republican Senatorial Committee]] · [[Emilys List]] · [[One Nation]] · [[WinRed]] · [[Trump Victory]] · [[Fairshake PAC]] · [[Save America PAC]] · [[Preserve America]] · [[National Rifle Association]] · [[America PAC - Elon Musk]]"
+  - Court of Appeals for the Eleventh Circuit
+  - 'District Court, C.D. California'
+  - 'District Court, District of Columbia'
+  - 'District Court, M.D. Alabama'
+  - 'District Court, N.D. Alabama'
+  - 'District Court, N.D. Florida'
+  - 'District Court, S.D. New York'
+  - 'United States Bankruptcy Court, D. Delaware'
+related: >-
+  [[Senate Leadership Fund]] · [[Dan Osborn Master Profile]] · [[2024-2026
+  Campaign Finance and Democratic Infrastructure]] · [[DSCC - Democratic
+  Senatorial Campaign Committee]] · [[Nebraska 2026 Senate Race]] · [[MAGA Inc]]
+  · [[House Majority PAC]] · [[Future Forward USA Action]] · [[Congressional
+  Leadership Fund]] · [[Club for Growth]] · [[Americans for Prosperity]] ·
+  [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[Dustin Moskovitz]] ·
+  [[Michael Bloomberg]] · [[Majority Forward]] · [[Master Donor Database]] ·
+  [[Donor Registry - Master Index]] · [[Priorities USA Action]] · [[Winning for
+  Women PAC]] · [[National Republican Senatorial Committee]] · [[Emilys List]] ·
+  [[One Nation]] · [[WinRed]] · [[Trump Victory]] · [[Fairshake PAC]] · [[Save
+  America PAC]] · [[Preserve America]] · [[National Rifle Association]] ·
+  [[America PAC - Elon Musk]]
 sec-filings: 4
 sec-form-types:
-  - "10-K"
-  - "144"
-opposes: "[[Shelley Moore Capito]] · [[Thom Tillis Master Profile]]"
+  - 10-K
+  - '144'
+opposes: '[[Shelley Moore Capito]] · [[Thom Tillis Master Profile]]'
 cross-vault-triangulation-count: 19
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: >-
+  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: •
+  FEC data is missing entirely. This profile was promoted to ready without ever
+  having fec enrichment run on it. The needs-reenrichment flag has been set. The
+  next scheduled pipeline run will pick it up automatically.
+aliases:
+  - SENATE MAJORITY PAC
+  - SMP
+  - MAJORITY PAC
 ---
 #donor-node #super-pac #democratic #senate #schumer #dark-money #leadership-pac #donor
 

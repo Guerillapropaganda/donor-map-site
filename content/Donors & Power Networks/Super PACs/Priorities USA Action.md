@@ -1,27 +1,39 @@
 ---
-title: "Priorities USA Action"
+title: Priorities USA Action
 type: pac
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: '2026-04-14'
 source-tier: 1
 parent: null
-sector: "Super PACs"
-entity-type: "PAC"
+sector: Super PACs
+entity-type: PAC
 issues:
-  - "Dark Money & Campaign Finance"
-related: "[[Emilys List]] · [[Democratic Senatorial Campaign Committee]] · [[Senate Majority PAC]] · [[House Majority PAC]] · [[Future Forward USA Action]] · [[EMILY's List]] · [[Haim Saban]] · [[Jeffrey Katzenberg]] · [[John Fetterman Master Profile]] · [[DSCC - Democratic Senatorial Campaign Committee]] · [[Majority Forward]] · [[Winning for Women PAC]] · [[Senate Leadership Fund]] · [[One Nation]] · [[National Republican Senatorial Committee]] · [[WinRed]] · [[Fairshake PAC]] · [[Trump Victory]] · [[Save America PAC]] · [[Preserve America]] · [[National Rifle Association]]"
-ein: "833099604"
-nonprofit-status: "501(c)(3)"
-last-enriched: "2026-04-09"
+  - Dark Money & Campaign Finance
+related: >-
+  [[Emilys List]] · [[Democratic Senatorial Campaign Committee]] · [[Senate
+  Majority PAC]] · [[House Majority PAC]] · [[Future Forward USA Action]] ·
+  [[EMILY's List]] · [[Haim Saban]] · [[Jeffrey Katzenberg]] · [[John Fetterman
+  Master Profile]] · [[DSCC - Democratic Senatorial Campaign Committee]] ·
+  [[Majority Forward]] · [[Winning for Women PAC]] · [[Senate Leadership Fund]]
+  · [[One Nation]] · [[National Republican Senatorial Committee]] · [[WinRed]] ·
+  [[Fairshake PAC]] · [[Trump Victory]] · [[Save America PAC]] · [[Preserve
+  America]] · [[National Rifle Association]]
+ein: '833099604'
+nonprofit-status: 501(c)(3)
+last-enriched: '2026-04-09'
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 total-revenue: 226709
 total-assets: 108753
-opposes: "[[Josh Hawley Master Profile]]"
+opposes: '[[Josh Hawley Master Profile]]'
 cross-vault-triangulation-count: 11
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: >-
+  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: •
+  FEC data is missing entirely. This profile was promoted to ready without ever
+  having fec enrichment run on it. The needs-reenrichment flag has been set. The
+  next scheduled pipeline run will pick it up automatically.
+aliases:
+  - PRIORITIES USA ACTION
 ---
 #priorities-usa #super-pac #democratic #obama #clinton #biden #digital #advertising #dark-money
 

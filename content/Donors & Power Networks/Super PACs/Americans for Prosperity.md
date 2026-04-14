@@ -1,43 +1,60 @@
 ---
-title: "Americans for Prosperity"
+title: Americans for Prosperity
 type: pac
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: '2026-04-14'
 source-tier: 1
 parent: null
-sector: "Super PACs"
-entity-type: "PAC"
+sector: Super PACs
+entity-type: PAC
 politicians-funded:
-  - "Nikki Haley"
+  - Nikki Haley
 issues:
-  - "Dark Money & Campaign Finance"
+  - Dark Money & Campaign Finance
 court-cases: 780
-last-enriched: "2026-04-09"
+last-enriched: '2026-04-09'
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 court-jurisdictions:
-  - "Court of Appeals for the D.C. Circuit"
-  - "Court of Appeals for the Eighth Circuit"
-  - "Court of Appeals for the Fifth Circuit"
-  - "Court of Appeals for the First Circuit"
-  - "Court of Appeals for the Ninth Circuit"
-  - "Court of Appeals for the Sixth Circuit"
-  - "District Court, D. Maine"
-  - "District Court, D. New Jersey"
-  - "District Court, District of Columbia"
-  - "District Court, E.D. Pennsylvania"
-ein: "753148958"
-annual-revenue: "$186.4M"
-net-assets: "$45.0M"
-tax-year: "2023"
-related: "[[Senate Majority PAC]] · [[Jodey Arrington]] · [[State Policy Network]] · [[Koch Network - Charles Koch|Charles Koch]] · [[Koch - Koch Industries|Koch Industries]] · [[Stand Together]] · [[Club for Growth]] · [[Congressional Leadership Fund]] · [[Senate Leadership Fund]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[Richard and Elizabeth Uihlein]] · [[Donor Registry - Master Index]] · [[Master Donor Database]] · [[National Republican Senatorial Committee]] · [[Winning for Women PAC]] · [[MAGA Inc]] · [[Priorities USA Action]] · [[One Nation]] · [[WinRed]] · [[Trump Victory]] · [[Fairshake PAC]] · [[Save America PAC]] · [[Preserve America]] · [[National Rifle Association]] · [[House Majority PAC]]"
-nonprofit-status: "501(c)(4)"
+  - Court of Appeals for the D.C. Circuit
+  - Court of Appeals for the Eighth Circuit
+  - Court of Appeals for the Fifth Circuit
+  - Court of Appeals for the First Circuit
+  - Court of Appeals for the Ninth Circuit
+  - Court of Appeals for the Sixth Circuit
+  - 'District Court, D. Maine'
+  - 'District Court, D. New Jersey'
+  - 'District Court, District of Columbia'
+  - 'District Court, E.D. Pennsylvania'
+ein: '753148958'
+annual-revenue: $186.4M
+net-assets: $45.0M
+tax-year: '2023'
+related: >-
+  [[Senate Majority PAC]] · [[Jodey Arrington]] · [[State Policy Network]] ·
+  [[Koch Network - Charles Koch|Charles Koch]] · [[Koch - Koch Industries|Koch
+  Industries]] · [[Stand Together]] · [[Club for Growth]] · [[Congressional
+  Leadership Fund]] · [[Senate Leadership Fund]] · [[ALEC - American Legislative
+  Exchange Council|ALEC]] · [[Richard and Elizabeth Uihlein]] · [[Donor Registry
+  - Master Index]] · [[Master Donor Database]] · [[National Republican
+  Senatorial Committee]] · [[Winning for Women PAC]] · [[MAGA Inc]] ·
+  [[Priorities USA Action]] · [[One Nation]] · [[WinRed]] · [[Trump Victory]] ·
+  [[Fairshake PAC]] · [[Save America PAC]] · [[Preserve America]] · [[National
+  Rifle Association]] · [[House Majority PAC]]
+nonprofit-status: 501(c)(4)
 total-revenue: 224037344
 total-assets: 60720666
 cross-vault-triangulation-count: 15
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: >-
+  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: •
+  FEC data is missing entirely. This profile was promoted to ready without ever
+  having fec enrichment run on it. The needs-reenrichment flag has been set. The
+  next scheduled pipeline run will pick it up automatically.
+aliases:
+  - 'AMERICANS FOR PROSPERITY ACTION, INC.(AFP ACTION)'
+  - >-
+    AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA
+    LIBRE ACTION
 ---
 #donor-node #koch-network #dark-money #super-pac #501c4 #astroturf #state-capture #class-analysis #follow-the-money
 

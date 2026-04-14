@@ -1,27 +1,39 @@
 ---
-title: "DSCC - Democratic Senatorial Campaign Committee"
+title: DSCC - Democratic Senatorial Campaign Committee
 type: pac
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: '2026-04-14'
 source-tier: 1
 parent: null
-sector: "Super PACs"
-entity-type: "PAC"
+sector: Super PACs
+entity-type: PAC
 politicians-funded:
-  - "Chuck Schumer"
+  - Chuck Schumer
 issues:
-  - "Dark Money & Campaign Finance"
+  - Dark Money & Campaign Finance
 sec-filings: 1
 sec-form-types:
-  - "EX-99.(P)(II)"
-related: "[[2024-2026 Campaign Finance and Democratic Infrastructure]] · [[Dan Osborn Master Profile]] · [[Democratic Senatorial Campaign Committee]] · [[_Chuck Schumer Master Profile|Schumer]] · [[Senate Majority PAC]] · [[Majority Forward]] · [[National Republican Senatorial Committee|NRSC]] · [[Priorities USA Action]] · [[Emilys List]] · [[Winning for Women PAC]] · [[Senate Leadership Fund]] · [[One Nation]] · [[MAGA Inc]] · [[WinRed]] · [[Fairshake PAC]] · [[Trump Victory]] · [[Save America PAC]] · [[Preserve America]]"
+  - EX-99.(P)(II)
+related: >-
+  [[2024-2026 Campaign Finance and Democratic Infrastructure]] · [[Dan Osborn
+  Master Profile]] · [[Democratic Senatorial Campaign Committee]] · [[_Chuck
+  Schumer Master Profile|Schumer]] · [[Senate Majority PAC]] · [[Majority
+  Forward]] · [[National Republican Senatorial Committee|NRSC]] · [[Priorities
+  USA Action]] · [[Emilys List]] · [[Winning for Women PAC]] · [[Senate
+  Leadership Fund]] · [[One Nation]] · [[MAGA Inc]] · [[WinRed]] · [[Fairshake
+  PAC]] · [[Trump Victory]] · [[Save America PAC]] · [[Preserve America]]
 cross-vault-triangulation-count: 9
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline; run pipelines"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-  • No last-enriched date is set. The pipelines have never touched this file.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: run fec pipeline; run pipelines
+internal-notes: >-
+  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: •
+  FEC data is missing entirely. This profile was promoted to ready without ever
+  having fec enrichment run on it. • No last-enriched date is set. The pipelines
+  have never touched this file. The needs-reenrichment flag has been set. The
+  next scheduled pipeline run will pick it up automatically.
+aliases:
+  - DSCC
+  - DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE
 ---
 #dscc #senate #democratic #campaign-committee #fundraising #gatekeeper #dark-money #class-analysis
 

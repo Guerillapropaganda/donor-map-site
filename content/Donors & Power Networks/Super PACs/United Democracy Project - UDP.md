@@ -1,41 +1,59 @@
 ---
-title: "United Democracy Project - UDP"
+title: United Democracy Project - UDP
 type: pac
 content-readiness: draft
-last-updated: 2026-04-13
+last-updated: '2026-04-14'
 source-tier: 1
 parent: null
-sector: "Super PACs"
-entity-type: "PAC"
+sector: Super PACs
+entity-type: PAC
 fec-committee-id: C00799031
 politicians-funded:
-  - "George Latimer"
-  - "Melissa Bean"
-  - "Donna Miller"
-  - "Haley Stevens"
-  - "Sarah Elfreth"
+  - George Latimer
+  - Melissa Bean
+  - Donna Miller
+  - Haley Stevens
+  - Sarah Elfreth
 politicians-opposed:
-  - "Jamaal Bowman"
-  - "Cori Bush"
-  - "Summer Lee"
-  - "Donna Edwards"
+  - Jamaal Bowman
+  - Cori Bush
+  - Summer Lee
+  - Donna Edwards
 issues:
-  - "Israel & Foreign Policy"
-  - "Dark Money & Campaign Finance"
-  - "Democratic Primary Intervention"
+  - Israel & Foreign Policy
+  - Dark Money & Campaign Finance
+  - Democratic Primary Intervention
 source-types:
   - FEC
 known-gaps:
-  - Only 1 Tier 1 source type (FEC). Need second Tier 1 type for verified promotion (e.g., Senate LDA if lobbying disclosures exist).
-  - No IRS 990 data (super PAC, not 501c4, so may not apply)
-related: "[[Illinois House Primaries 2026 - The PAC Laboratory]] · [[The Adelson Pipeline - Embassy, Abraham Accords, and Iran]] · [[Israel and Foreign Policy - Donors and Backers]] · [[Elect Chicago Women Shell PAC Operation]] · [[_Donna Miller Master Profile]] · [[_Daniel Biss Master Profile]] · [[_Jamaal Bowman Master Profile]] · [[_Cori Bush Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[2026 House Money Map]] · [[AIPAC Illinois Shell PAC Operation]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[NORPAC]] · [[Fairshake PAC]] · [[Think Big AI PAC]] · [[Elect Chicago Women PAC]] · [[Affordable Chicago Now PAC]] · [[Wesley Bell Master Profile]] · [[Summer Lee Master Profile]] · [[Ilhan Omar Master Profile]] · [[George Latimer Master Profile]] · [[Bernie Marcus]] · [[Mark Mellman]] · [[Israel - Government Lobbying Operation]]"
+  - >-
+    Only 1 Tier 1 source type (FEC). Need second Tier 1 type for verified
+    promotion (e.g., Senate LDA if lobbying disclosures exist).
+  - 'No IRS 990 data (super PAC, not 501c4, so may not apply)'
+related: >-
+  [[Illinois House Primaries 2026 - The PAC Laboratory]] · [[The Adelson
+  Pipeline - Embassy, Abraham Accords, and Iran]] · [[Israel and Foreign Policy
+  - Donors and Backers]] · [[Elect Chicago Women Shell PAC Operation]] ·
+  [[_Donna Miller Master Profile]] · [[_Daniel Biss Master Profile]] · [[_Jamaal
+  Bowman Master Profile]] · [[_Cori Bush Master Profile]] · [[AIPAC - American
+  Israel Public Affairs Committee]] · [[2026 House Money Map]] · [[AIPAC
+  Illinois Shell PAC Operation]] · [[DMFI - Democratic Majority for
+  Israel|DMFI]] · [[NORPAC]] · [[Fairshake PAC]] · [[Think Big AI PAC]] ·
+  [[Elect Chicago Women PAC]] · [[Affordable Chicago Now PAC]] · [[Wesley Bell
+  Master Profile]] · [[Summer Lee Master Profile]] · [[Ilhan Omar Master
+  Profile]] · [[George Latimer Master Profile]] · [[Bernie Marcus]] · [[Mark
+  Mellman]] · [[Israel - Government Lobbying Operation]]
 cross-vault-triangulation-count: 14
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline; run pipelines"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-  • No last-enriched date is set. The pipelines have never touched this file.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: run fec pipeline; run pipelines
+internal-notes: >-
+  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: •
+  FEC data is missing entirely. This profile was promoted to ready without ever
+  having fec enrichment run on it. • No last-enriched date is set. The pipelines
+  have never touched this file. The needs-reenrichment flag has been set. The
+  next scheduled pipeline run will pick it up automatically.
+aliases:
+  - UNITED DEMOCRACY PROJECT ('UDP')
 ---
 #donor #aipac #super-pac #israel-lobby #udp #dark-money
 

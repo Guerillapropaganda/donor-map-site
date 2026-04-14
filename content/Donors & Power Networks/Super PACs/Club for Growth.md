@@ -1,33 +1,51 @@
 ---
-title: "Club for Growth"
+title: Club for Growth
 type: pac
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: '2026-04-14'
 source-tier: 1
 parent: null
-sector: "Super PACs"
-entity-type: "PAC"
+sector: Super PACs
+entity-type: PAC
 ein: 204681603
-annual-revenue: "$12.3M"
-net-assets: "$9.3M"
-tax-year: "2023"
-related: "[[Senate Majority PAC]] · [[Intra-Republican Contradiction Map]] · [[John Ratcliffe Master Profile]] · [[Mike Collins Master Profile]] · [[Jim Jordan Master Profile]] · [[The Freedom Caucus and the Koch Network Politics of Obstruction]] · [[The Freedom Caucus and Spending Absolutism]] · [[The FEC to Congress Pipeline and Election Law]] · [[Ron DeSantis Master Profile]] · [[Jeff Yass Follows TikTok Money Across Every Candidate]] · [[Lauren Boebert]] · [[Chip Roy Master Profile]] · [[National Republican Senatorial Committee]] · [[Mike Lee]] · [[Jeffrey Yass]] · [[David McIntosh]] · [[Congressional Leadership Fund]] · [[Senate Leadership Fund]] · [[Tax Policy - Who Pays and Who Doesnt|Tax Policy]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[MAGA Inc]] · [[Winning for Women PAC]] · [[House Majority PAC]] · [[Priorities USA Action]] · [[One Nation]] · [[WinRed]] · [[Fairshake PAC]] · [[Trump Victory]] · [[Save America PAC]] · [[Preserve America]] · [[National Rifle Association]] · [[Future Forward USA Action]]"
+annual-revenue: $12.3M
+net-assets: $9.3M
+tax-year: '2023'
+related: >-
+  [[Senate Majority PAC]] · [[Intra-Republican Contradiction Map]] · [[John
+  Ratcliffe Master Profile]] · [[Mike Collins Master Profile]] · [[Jim Jordan
+  Master Profile]] · [[The Freedom Caucus and the Koch Network Politics of
+  Obstruction]] · [[The Freedom Caucus and Spending Absolutism]] · [[The FEC to
+  Congress Pipeline and Election Law]] · [[Ron DeSantis Master Profile]] ·
+  [[Jeff Yass Follows TikTok Money Across Every Candidate]] · [[Lauren Boebert]]
+  · [[Chip Roy Master Profile]] · [[National Republican Senatorial Committee]] ·
+  [[Mike Lee]] · [[Jeffrey Yass]] · [[David McIntosh]] · [[Congressional
+  Leadership Fund]] · [[Senate Leadership Fund]] · [[Tax Policy - Who Pays and
+  Who Doesnt|Tax Policy]] · [[Master Donor Database]] · [[Donor Registry -
+  Master Index]] · [[MAGA Inc]] · [[Winning for Women PAC]] · [[House Majority
+  PAC]] · [[Priorities USA Action]] · [[One Nation]] · [[WinRed]] · [[Fairshake
+  PAC]] · [[Trump Victory]] · [[Save America PAC]] · [[Preserve America]] ·
+  [[National Rifle Association]] · [[Future Forward USA Action]]
 court-cases: 115
-last-enriched: "2026-04-09"
+last-enriched: '2026-04-09'
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 court-jurisdictions:
-  - "Court of Appeals for the Eighth Circuit"
-  - "District Court, D. Arizona"
-  - "District Court, D. Maine"
-  - "District Court, District of Columbia"
-  - "District Court, N.D. Texas"
-  - "District Court, S.D. New York"
-  - "District Court, W.D. Wisconsin"
+  - Court of Appeals for the Eighth Circuit
+  - 'District Court, D. Arizona'
+  - 'District Court, D. Maine'
+  - 'District Court, District of Columbia'
+  - 'District Court, N.D. Texas'
+  - 'District Court, S.D. New York'
+  - 'District Court, W.D. Wisconsin'
 cross-vault-triangulation-count: 17
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: >-
+  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: •
+  FEC data is missing entirely. This profile was promoted to ready without ever
+  having fec enrichment run on it. The needs-reenrichment flag has been set. The
+  next scheduled pipeline run will pick it up automatically.
+aliases:
+  - CLUB FOR GROWTH ACTION
 ---
 #donor-node #super-pac #republican #primary-enforcement #anti-tax #fiscal-conservative #class-analysis #follow-the-money #mega-donor
 

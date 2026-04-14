@@ -1,34 +1,47 @@
 ---
-title: "Congressional Leadership Fund"
+title: Congressional Leadership Fund
 type: pac
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: '2026-04-14'
 source-tier: 1
 parent: null
-sector: "Super PACs"
-entity-type: "PAC"
+sector: Super PACs
+entity-type: PAC
 issues:
-  - "Dark Money & Campaign Finance"
+  - Dark Money & Campaign Finance
 court-cases: 26
-last-enriched: "2026-04-07"
+last-enriched: '2026-04-07'
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 court-jurisdictions:
-  - "District Court, D. Maine"
-  - "District Court, D. Utah"
-  - "District Court, N.D. Florida"
-  - "District Court, N.D. Texas"
-  - "United States Bankruptcy Court, D. Delaware"
-ein: "852656340"
-nonprofit-status: "501(c)(4)"
+  - 'District Court, D. Maine'
+  - 'District Court, D. Utah'
+  - 'District Court, N.D. Florida'
+  - 'District Court, N.D. Texas'
+  - 'United States Bankruptcy Court, D. Delaware'
+ein: '852656340'
+nonprofit-status: 501(c)(4)
 total-revenue: 9647510
 total-assets: 714325
-related: "[[Senate Majority PAC]] · [[Mike Lawler Master Profile]] · [[The Revolving Door Explosion of 2025]] · [[American Action Network]] · [[Senate Leadership Fund]] · [[Club for Growth]] · [[Fossil Fuel Bloc]] · [[Elon Musk]] · [[Jeffrey Yass]] · [[Timothy Mellon]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[National Republican Senatorial Committee]] · [[MAGA Inc]] · [[Winning for Women PAC]] · [[Priorities USA Action]] · [[One Nation]] · [[WinRed]] · [[Fairshake PAC]] · [[Trump Victory]] · [[Save America PAC]] · [[Preserve America]] · [[National Rifle Association]] · [[House Majority PAC]]"
-opposes: "[[Kyrsten Sinema Master Profile]]"
+related: >-
+  [[Senate Majority PAC]] · [[Mike Lawler Master Profile]] · [[The Revolving
+  Door Explosion of 2025]] · [[American Action Network]] · [[Senate Leadership
+  Fund]] · [[Club for Growth]] · [[Fossil Fuel Bloc]] · [[Elon Musk]] ·
+  [[Jeffrey Yass]] · [[Timothy Mellon]] · [[Master Donor Database]] · [[Donor
+  Registry - Master Index]] · [[National Republican Senatorial Committee]] ·
+  [[MAGA Inc]] · [[Winning for Women PAC]] · [[Priorities USA Action]] · [[One
+  Nation]] · [[WinRed]] · [[Fairshake PAC]] · [[Trump Victory]] · [[Save America
+  PAC]] · [[Preserve America]] · [[National Rifle Association]] · [[House
+  Majority PAC]]
+opposes: '[[Kyrsten Sinema Master Profile]]'
 cross-vault-triangulation-count: 14
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: >-
+  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: •
+  FEC data is missing entirely. This profile was promoted to ready without ever
+  having fec enrichment run on it. The needs-reenrichment flag has been set. The
+  next scheduled pipeline run will pick it up automatically.
+aliases:
+  - CONGRESSIONAL LEADERSHIP FUND
 ---
 #donor-node #super-pac #republican #house #leadership-pac #dark-money #american-action-network #class-analysis #follow-the-money
 

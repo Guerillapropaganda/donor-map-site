@@ -1,77 +1,99 @@
 ---
-title: "US Chamber of Commerce"
+title: US Chamber of Commerce
 type: donor
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: '2026-04-14'
 source-tier: 1
 parent: null
-sector: "Dark Money"
-entity-type: "Individual Donor"
+sector: Dark Money
+entity-type: Individual Donor
 politicians-funded:
-  - "Donald Trump"
-  - "Barack Obama"
+  - Donald Trump
+  - Barack Obama
 issues:
-  - "Dark Money & Campaign Finance"
+  - Dark Money & Campaign Finance
 court-cases: 149
-last-enriched: "2026-04-10"
+last-enriched: '2026-04-10'
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 court-jurisdictions:
-  - "Court of Appeals for the D.C. Circuit"
-  - "District Court, D. Massachusetts"
-  - "District Court, E.D. Michigan"
-  - "District Court, M.D. Tennessee"
-  - "District Court, N.D. California"
-  - "District Court, S.D. New York"
-  - "United States Bankruptcy Court, D. Delaware"
-  - "United States Bankruptcy Court, D. New Jersey"
-  - "United States Bankruptcy Court, W.D. Pennsylvania"
+  - Court of Appeals for the D.C. Circuit
+  - 'District Court, D. Massachusetts'
+  - 'District Court, E.D. Michigan'
+  - 'District Court, M.D. Tennessee'
+  - 'District Court, N.D. California'
+  - 'District Court, S.D. New York'
+  - 'United States Bankruptcy Court, D. Delaware'
+  - 'United States Bankruptcy Court, D. New Jersey'
+  - 'United States Bankruptcy Court, W.D. Pennsylvania'
 lobbying-spend: 790000
 lobbying-filings: 140
-lei: "558600L19F2GCYX6QZ15"
-lei-jurisdiction: "SA"
+lei: 558600L19F2GCYX6QZ15
+lei-jurisdiction: SA
 sec-filings: 640
 sec-form-types:
-  - "3"
-  - "4"
-  - "425"
-  - "6-K"
-  - "8-K"
-  - "CORRESP"
-  - "DEFA14A"
-  - "DFAN14A"
-  - "EX-1"
-  - "EX-99"
-  - "EX-99.(A)(10)"
-  - "EX-99.1"
-  - "EX-99.1(A)(8)"
-  - "EX-99.2"
-  - "PX14A6G"
-  - "PX14A6N"
+  - '3'
+  - '4'
+  - '425'
+  - 6-K
+  - 8-K
+  - CORRESP
+  - DEFA14A
+  - DFAN14A
+  - EX-1
+  - EX-99
+  - EX-99.(A)(10)
+  - EX-99.1
+  - EX-99.1(A)(8)
+  - EX-99.2
+  - PX14A6G
+  - PX14A6N
 ein: 461561597
-annual-revenue: "$37.8M"
-net-assets: "$61.1M"
-tax-year: "2023"
-nonprofit-status: "501(c)(6)"
+annual-revenue: $37.8M
+net-assets: $61.1M
+tax-year: '2023'
+nonprofit-status: 501(c)(6)
 total-revenue: 173949
 total-assets: 231861
-related: "[[DeVos Family]] · [[The EPW Committee and West Virginia Energy Transition]] · [[The Finance Committee and Tax Industry Alignment]] · [[The Education Committee and Michigan Manufacturing]] · [[The Transportation Committee and Infrastructure Spending]] · [[The Ways and Means Chair and TCJA Extension]] · [[The FEC to Congress Pipeline and Election Law]] · [[2026-03-25 Finance Research]] · [[American Federation for Children]] · [[Stand Together]] · [[House Freedom Caucus]] · [[Americans for Tax Reform - Grover Norquist]] · [[John Cornyn]] · [[Koch Network - Charles Koch]] · [[Americans for Prosperity]] · [[Business Roundtable]] · [[National Association of Manufacturers]] · [[Heritage Foundation]] · [[ALEC - American Legislative Exchange Council]] · [[Goldman Sachs]] · [[PhRMA]] · [[_Donald Trump Master Profile]] · [[_Barack Obama Master Profile]] · [[Linda McMahon Master Profile]] · [[Insurance Industry]] · [[National Education Association]] · [[Walton Family Foundation]] · [[The 85 Fund]] · [[Defense Contractors Bloc]] · [[American Iron and Steel Institute]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[Republican Party Apparatus]]"
+related: >-
+  [[DeVos Family]] · [[The EPW Committee and West Virginia Energy Transition]] ·
+  [[The Finance Committee and Tax Industry Alignment]] · [[The Education
+  Committee and Michigan Manufacturing]] · [[The Transportation Committee and
+  Infrastructure Spending]] · [[The Ways and Means Chair and TCJA Extension]] ·
+  [[The FEC to Congress Pipeline and Election Law]] · [[2026-03-25 Finance
+  Research]] · [[American Federation for Children]] · [[Stand Together]] ·
+  [[House Freedom Caucus]] · [[Americans for Tax Reform - Grover Norquist]] ·
+  [[John Cornyn]] · [[Koch Network - Charles Koch]] · [[Americans for
+  Prosperity]] · [[Business Roundtable]] · [[National Association of
+  Manufacturers]] · [[Heritage Foundation]] · [[ALEC - American Legislative
+  Exchange Council]] · [[Goldman Sachs]] · [[PhRMA]] · [[_Donald Trump Master
+  Profile]] · [[_Barack Obama Master Profile]] · [[Linda McMahon Master
+  Profile]] · [[Insurance Industry]] · [[National Education Association]] ·
+  [[Walton Family Foundation]] · [[The 85 Fund]] · [[Defense Contractors Bloc]]
+  · [[American Iron and Steel Institute]] · [[American Petroleum Institute]] ·
+  [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] ·
+  [[Defense Industry]] · [[Defense Industry Bloc]] · [[Republican Party
+  Apparatus]]
 federal-register-mentions: 22
 regulatory-agencies:
-  - "Commerce Department"
-  - "Employee Benefits Security Administration"
-  - "Energy Department"
-  - "Environmental Protection Agency"
-  - "Federal Energy Regulatory Commission"
-  - "Federal Trade Commission"
-  - "Labor Department"
-  - "National Oceanic and Atmospheric Administration"
-  - "Occupational Safety and Health Administration"
-  - "Pipeline and Hazardous Materials Safety Administration"
+  - Commerce Department
+  - Employee Benefits Security Administration
+  - Energy Department
+  - Environmental Protection Agency
+  - Federal Energy Regulatory Commission
+  - Federal Trade Commission
+  - Labor Department
+  - National Oceanic and Atmospheric Administration
+  - Occupational Safety and Health Administration
+  - Pipeline and Hazardous Materials Safety Administration
 cross-vault-triangulation-count: 23
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: >-
+  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: •
+  FEC data is missing entirely. This profile was promoted to ready without ever
+  having fec enrichment run on it. The needs-reenrichment flag has been set. The
+  next scheduled pipeline run will pick it up automatically.
+aliases:
+  - US CHAMBER OF COMMERCE
 ---
 #chamber-of-commerce #dark-money #lobbying #corporate #anti-labor #deregulation #tcja #pro-act #citizens-united #tort-reform #revolving-door #class-analysis
 

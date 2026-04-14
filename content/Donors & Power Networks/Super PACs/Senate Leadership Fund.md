@@ -1,38 +1,60 @@
 ---
-title: "Senate Leadership Fund"
+title: Senate Leadership Fund
 type: pac
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: '2026-04-14'
 source-tier: 1
 parent: null
-sector: "Super PACs"
-entity-type: "PAC"
+sector: Super PACs
+entity-type: PAC
 politicians-funded:
-  - "Mitch McConnell"
+  - Mitch McConnell
 issues:
-  - "Dark Money & Campaign Finance"
+  - Dark Money & Campaign Finance
 court-cases: 31
-last-enriched: "2026-04-07"
+last-enriched: '2026-04-07'
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 court-jurisdictions:
-  - "District Court, D. Maine"
-  - "District Court, S.D. Florida"
-  - "District Court, S.D. New York"
-  - "District Court, W.D. Texas"
-  - "United States Bankruptcy Court, D. Delaware"
+  - 'District Court, D. Maine'
+  - 'District Court, S.D. Florida'
+  - 'District Court, S.D. New York'
+  - 'District Court, W.D. Texas'
+  - 'United States Bankruptcy Court, D. Delaware'
 sec-filings: 2
 sec-form-types:
-  - "ARS"
-  - "DEF 14A"
-ein: "862883453"
-nonprofit-status: "501(c)(4)"
-related: "[[Senate Majority PAC]] · [[North Carolina 2026 Senate Race]] · [[Maine 2026 Senate Race]] · [[Iowa 2026 Senate Race]] · [[NRSC Chair and the McConnell Spending War]] · [[The 2020 Race and the Out-of-State Money Machine]] · [[Jon Husted Master Profile]] · [[Ashley Hinson Master Profile]] · [[Kenneth Griffin Hedges the Republican Primary]] · [[2026-03-25 Finance Research]] · [[Tim Scott]] · [[John Cornyn]] · [[_Mitch McConnell Master Profile|Mitch McConnell]] · [[Citadel - Kenneth Griffin|Citadel / Ken Griffin]] · [[One Nation]] · [[Blackstone Group|Blackstone]] · [[Congressional Leadership Fund]] · [[Club for Growth]] · [[Elon Musk]] · [[Timothy Mellon]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[Winning for Women PAC]] · [[National Republican Senatorial Committee]] · [[MAGA Inc]] · [[Priorities USA Action]] · [[House Majority PAC]] · [[WinRed]] · [[Fairshake PAC]] · [[Trump Victory]] · [[Save America PAC]] · [[Preserve America]] · [[National Rifle Association]] · [[Future Forward USA Action]]"
-opposes: "[[Raphael Warnock Master Profile]] · [[Mark Kelly]] · [[John Fetterman Master Profile]] · [[Catherine Cortez Masto]]"
+  - ARS
+  - DEF 14A
+ein: '862883453'
+nonprofit-status: 501(c)(4)
+related: >-
+  [[Senate Majority PAC]] · [[North Carolina 2026 Senate Race]] · [[Maine 2026
+  Senate Race]] · [[Iowa 2026 Senate Race]] · [[NRSC Chair and the McConnell
+  Spending War]] · [[The 2020 Race and the Out-of-State Money Machine]] · [[Jon
+  Husted Master Profile]] · [[Ashley Hinson Master Profile]] · [[Kenneth Griffin
+  Hedges the Republican Primary]] · [[2026-03-25 Finance Research]] · [[Tim
+  Scott]] · [[John Cornyn]] · [[_Mitch McConnell Master Profile|Mitch
+  McConnell]] · [[Citadel - Kenneth Griffin|Citadel / Ken Griffin]] · [[One
+  Nation]] · [[Blackstone Group|Blackstone]] · [[Congressional Leadership Fund]]
+  · [[Club for Growth]] · [[Elon Musk]] · [[Timothy Mellon]] · [[Master Donor
+  Database]] · [[Donor Registry - Master Index]] · [[Winning for Women PAC]] ·
+  [[National Republican Senatorial Committee]] · [[MAGA Inc]] · [[Priorities USA
+  Action]] · [[House Majority PAC]] · [[WinRed]] · [[Fairshake PAC]] · [[Trump
+  Victory]] · [[Save America PAC]] · [[Preserve America]] · [[National Rifle
+  Association]] · [[Future Forward USA Action]]
+opposes: >-
+  [[Raphael Warnock Master Profile]] · [[Mark Kelly]] · [[John Fetterman Master
+  Profile]] · [[Catherine Cortez Masto]]
 cross-vault-triangulation-count: 19
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: >-
+  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: •
+  FEC data is missing entirely. This profile was promoted to ready without ever
+  having fec enrichment run on it. The needs-reenrichment flag has been set. The
+  next scheduled pipeline run will pick it up automatically.
+aliases:
+  - SENATE LEADERSHIP FUND
+  - SLF PAC
+  - 'SFA FUND, INC'
 ---
 #donor-node #super-pac #republican #senate #mcconnell #thune #dark-money #leadership-pac #class-analysis #follow-the-money
 

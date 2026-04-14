@@ -1,49 +1,66 @@
 ---
-title: "DMFI - Democratic Majority for Israel"
+title: DMFI - Democratic Majority for Israel
 type: pac
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: '2026-04-14'
 source-tier: 1
 parent: null
-sector: "Israel Lobby"
-entity-type: "PAC"
+sector: Israel Lobby
+entity-type: PAC
 fec-committee-id: C00710848
 politicians-funded:
-  - "Shontel Brown"
-  - "George Latimer"
-  - "Wesley Bell"
-  - "Sean Casten"
-  - "Glenn Ivey"
-  - "Don Davis"
-  - "Valerie Foushee"
+  - Shontel Brown
+  - George Latimer
+  - Wesley Bell
+  - Sean Casten
+  - Glenn Ivey
+  - Don Davis
+  - Valerie Foushee
 politicians-opposed:
-  - "Bernie Sanders"
-  - "Nina Turner"
-  - "Jamaal Bowman"
-  - "Cori Bush"
-  - "Summer Lee"
-  - "Marie Newman"
-  - "Donna Edwards"
-  - "Nida Allam"
+  - Bernie Sanders
+  - Nina Turner
+  - Jamaal Bowman
+  - Cori Bush
+  - Summer Lee
+  - Marie Newman
+  - Donna Edwards
+  - Nida Allam
 issues:
-  - "Israel & Foreign Policy"
-  - "Democratic Primary Intervention"
-ein: "833298146"
-nonprofit-status: "501(c)(4)"
-last-enriched: "2026-04-07"
+  - Israel & Foreign Policy
+  - Democratic Primary Intervention
+ein: '833298146'
+nonprofit-status: 501(c)(4)
+last-enriched: '2026-04-07'
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 source-types:
   - FEC
 known-gaps:
-  - IRS 990 auto-block shows 0 filings on record (EIN 833298146, 501c4). Need to verify filing status.
+  - >-
+    IRS 990 auto-block shows 0 filings on record (EIN 833298146, 501c4). Need to
+    verify filing status.
   - Only 1 Tier 1 source type (FEC). Need second for verified promotion.
-related: "[[JCRC Bay Area]] · [[AIPAC and the Progressive Purge]] · [[_John Fetterman Master Profile]] · [[_Ilhan Omar Master Profile]] · [[_Jamaal Bowman Master Profile]] · [[_Cori Bush Master Profile]] · [[_Bernie Sanders Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Haim Saban]] · [[Miriam Adelson]] · [[Pro-Israel Donor Network Deep Dive]] · [[_Gavin Newsom Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Benjamin Netanyahu Master Profile]] · [[United Democracy Project - UDP|UDP]] · [[NORPAC]] · [[Reid Hoffman]] · [[Wesley Bell Master Profile]] · [[Summer Lee Master Profile]] · [[Shontel Brown Master Profile]] · [[Nina Turner Master Profile]] · [[George Latimer Master Profile]] · [[Mark Mellman]] · [[Christians United for Israel]] · [[Israel - Government Lobbying Operation]]"
-opposes: "[[Jamaal Bowman Master Profile]]"
+related: >-
+  [[JCRC Bay Area]] · [[AIPAC and the Progressive Purge]] · [[_John Fetterman
+  Master Profile]] · [[_Ilhan Omar Master Profile]] · [[_Jamaal Bowman Master
+  Profile]] · [[_Cori Bush Master Profile]] · [[_Bernie Sanders Master Profile]]
+  · [[AIPAC - American Israel Public Affairs Committee]] · [[Haim Saban]] ·
+  [[Miriam Adelson]] · [[Pro-Israel Donor Network Deep Dive]] · [[_Gavin Newsom
+  Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Benjamin Netanyahu
+  Master Profile]] · [[United Democracy Project - UDP|UDP]] · [[NORPAC]] ·
+  [[Reid Hoffman]] · [[Wesley Bell Master Profile]] · [[Summer Lee Master
+  Profile]] · [[Shontel Brown Master Profile]] · [[Nina Turner Master Profile]]
+  · [[George Latimer Master Profile]] · [[Mark Mellman]] · [[Christians United
+  for Israel]] · [[Israel - Government Lobbying Operation]]
+opposes: '[[Jamaal Bowman Master Profile]]'
 cross-vault-triangulation-count: 17
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: >-
+  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: •
+  FEC data is missing entirely. This profile was promoted to ready without ever
+  having fec enrichment run on it. The needs-reenrichment flag has been set. The
+  next scheduled pipeline run will pick it up automatically.
+aliases:
+  - DMFI PAC
 ---
 #donor #israel #DMFI #pro-israel #national #super-pac #democratic-primary #follow-the-money #class-analysis #aipac #progressive-opposition
 

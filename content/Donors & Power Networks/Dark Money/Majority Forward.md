@@ -1,34 +1,46 @@
 ---
-title: "Majority Forward"
+title: Majority Forward
 type: pac
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: '2026-04-14'
 source-tier: 1
 parent: null
-sector: "Dark Money"
-entity-type: "PAC"
+sector: Dark Money
+entity-type: PAC
 politicians-funded:
-  - "Chuck Schumer"
+  - Chuck Schumer
 issues:
-  - "Dark Money & Campaign Finance"
-ein: "833690373"
-nonprofit-status: "501(c)(4)"
-last-enriched: "2026-04-09"
+  - Dark Money & Campaign Finance
+ein: '833690373'
+nonprofit-status: 501(c)(4)
+last-enriched: '2026-04-09'
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
-related: "[[DSCC - Democratic Senatorial Campaign Committee]] · [[Senate Majority PAC]] · [[_Chuck Schumer Master Profile|Schumer]] · [[New Venture Fund]] · [[Sixteen Thirty Fund]] · [[Advocacy Fund]] · [[Democratic Senatorial Campaign Committee]] · [[Priorities USA Action]] · [[Emilys List]] · [[Dark Money Networks - The Shadow System]] · [[Winning for Women PAC]] · [[Senate Leadership Fund]] · [[One Nation]] · [[National Republican Senatorial Committee]] · [[WinRed]] · [[Fairshake PAC]] · [[Trump Victory]] · [[Save America PAC]] · [[Preserve America]]"
+reenrich-reason: run fec pipeline
+related: >-
+  [[DSCC - Democratic Senatorial Campaign Committee]] · [[Senate Majority PAC]]
+  · [[_Chuck Schumer Master Profile|Schumer]] · [[New Venture Fund]] · [[Sixteen
+  Thirty Fund]] · [[Advocacy Fund]] · [[Democratic Senatorial Campaign
+  Committee]] · [[Priorities USA Action]] · [[Emilys List]] · [[Dark Money
+  Networks - The Shadow System]] · [[Winning for Women PAC]] · [[Senate
+  Leadership Fund]] · [[One Nation]] · [[National Republican Senatorial
+  Committee]] · [[WinRed]] · [[Fairshake PAC]] · [[Trump Victory]] · [[Save
+  America PAC]] · [[Preserve America]]
 court-cases: 36
 court-jurisdictions:
-  - "Court of Appeals for the Fourth Circuit"
-  - "District Court, E.D. North Carolina"
-  - "District Court, E.D. Virginia"
-  - "District Court, M.D. Georgia"
-  - "District Court, N.D. Georgia"
-opposes: "[[Josh Hawley Master Profile]]"
+  - Court of Appeals for the Fourth Circuit
+  - 'District Court, E.D. North Carolina'
+  - 'District Court, E.D. Virginia'
+  - 'District Court, M.D. Georgia'
+  - 'District Court, N.D. Georgia'
+opposes: '[[Josh Hawley Master Profile]]'
 cross-vault-triangulation-count: 9
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: >-
+  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: •
+  FEC data is missing entirely. This profile was promoted to ready without ever
+  having fec enrichment run on it. The needs-reenrichment flag has been set. The
+  next scheduled pipeline run will pick it up automatically.
+aliases:
+  - MAJORITY FORWARD
 ---
 #majority-forward #dark-money #democratic #501c4 #senate #schumer #dark-money-symmetry
 
