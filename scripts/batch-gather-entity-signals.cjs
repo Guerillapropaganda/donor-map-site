@@ -48,10 +48,16 @@ const argv = process.argv.slice(2)
 const WRITE = argv.includes("--write")
 const VERBOSE = argv.includes("--verbose")
 const dirFlag = argv.indexOf("--dir")
-const TARGET_DIR =
+const DEFAULT_DIRS = [
+  path.join(__dirname, "..", "content", "Donors & Power Networks"),
+  path.join(__dirname, "..", "content", "Politicians"),
+]
+const TARGET_DIRS =
   dirFlag !== -1 && argv[dirFlag + 1]
-    ? path.resolve(argv[dirFlag + 1])
-    : path.join(__dirname, "..", "content", "Donors & Power Networks")
+    ? [path.resolve(argv[dirFlag + 1])]
+    : DEFAULT_DIRS
+const POLITICIANS_ONLY = argv.includes("--politicians")
+const DONORS_ONLY = argv.includes("--donors")
 
 // ─── Entity type mapping ───────────────────────────────────────────────
 
@@ -117,22 +123,28 @@ function extractBodySnippet(body, maxChars = 500) {
 // ─── Relationships.jsonl signal extraction ─────────────────────────────
 
 let _edgesByFrom = null
+let _edgesByTo = null
 function buildEdgeIndex() {
-  if (_edgesByFrom) return _edgesByFrom
+  if (_edgesByFrom) return { byFrom: _edgesByFrom, byTo: _edgesByTo }
   _edgesByFrom = new Map()
+  _edgesByTo = new Map()
   const all = edges.loadEdges()
   for (const e of all) {
     if (e.type !== "monetary") continue
-    const key = e.from
-    if (!_edgesByFrom.has(key)) _edgesByFrom.set(key, [])
-    _edgesByFrom.get(key).push(e)
+    const fromKey = e.from
+    if (!_edgesByFrom.has(fromKey)) _edgesByFrom.set(fromKey, [])
+    _edgesByFrom.get(fromKey).push(e)
+    const toKey = e.to
+    if (!_edgesByTo.has(toKey)) _edgesByTo.set(toKey, [])
+    _edgesByTo.get(toKey).push(e)
   }
-  return _edgesByFrom
+  return { byFrom: _edgesByFrom, byTo: _edgesByTo }
 }
 
-function getMonetarySignals(entityName) {
-  const index = buildEdgeIndex()
-  const monetary = index.get(entityName) || []
+// Donor-shape: who did THIS entity fund? (outgoing edges)
+function getDonorMonetarySignals(entityName) {
+  const { byFrom } = buildEdgeIndex()
+  const monetary = byFrom.get(entityName) || []
   if (!monetary.length) {
     return {
       top_politicians_funded: [],
@@ -141,7 +153,6 @@ function getMonetarySignals(entityName) {
     }
   }
 
-  // Group by recipient, sum amounts
   const byRecipient = new Map()
   let total = 0
   for (const e of monetary) {
@@ -156,7 +167,6 @@ function getMonetarySignals(entityName) {
     r.count += 1
   }
 
-  // Rank recipients by amount then frequency
   const ranked = [...byRecipient.values()].sort((a, b) => {
     if (b.amount !== a.amount) return b.amount - a.amount
     return b.count - a.count
@@ -176,9 +186,55 @@ function getMonetarySignals(entityName) {
   }
 }
 
+// Politician-shape: who funded THIS entity? (incoming edges)
+function getPoliticianMonetarySignals(entityName) {
+  const { byTo } = buildEdgeIndex()
+  const monetary = byTo.get(entityName) || []
+  if (!monetary.length) {
+    return {
+      top_donors: [],
+      total_received: null,
+      edge_count: 0,
+    }
+  }
+
+  const byFunder = new Map()
+  let total = 0
+  for (const e of monetary) {
+    const amt = typeof e.amount === "number" ? e.amount : 0
+    total += amt
+    const key = e.from
+    if (!byFunder.has(key)) {
+      byFunder.set(key, { name: key, type: e.from_type, amount: 0, count: 0 })
+    }
+    const r = byFunder.get(key)
+    r.amount += amt
+    r.count += 1
+  }
+
+  const ranked = [...byFunder.values()].sort((a, b) => {
+    if (b.amount !== a.amount) return b.amount - a.amount
+    return b.count - a.count
+  })
+
+  const top = ranked.slice(0, 10).map((r) => ({
+    name: r.name,
+    type: r.type,
+    amount: r.amount,
+    count: r.count,
+  }))
+
+  return {
+    top_donors: top,
+    total_received: total || null,
+    edge_count: monetary.length,
+  }
+}
+
 // ─── Walker ────────────────────────────────────────────────────────────
 
-function walkMarkdownFiles(rootDir, onFile) {
+function walkMarkdownFiles(rootDir, onFile, opts = {}) {
+  const masterOnly = !!opts.masterOnly
   const stack = [rootDir]
   while (stack.length) {
     const dir = stack.pop()
@@ -195,7 +251,9 @@ function walkMarkdownFiles(rootDir, onFile) {
         // Skip index files and the master donor database xlsx stuff
         if (/index/i.test(entry.name)) continue
         if (/master\s*donor\s*database/i.test(entry.name)) continue
-        if (entry.name.startsWith("_") && /index/i.test(entry.name)) continue
+        // When masterOnly is set, only process _Name Master Profile.md files
+        // (used for politicians to avoid pulling in every sub-note as an entity)
+        if (masterOnly && !/^_.*master\s+profile\.md$/i.test(entry.name)) continue
         onFile(full)
       }
     }
@@ -204,29 +262,184 @@ function walkMarkdownFiles(rootDir, onFile) {
 
 // ─── Main ──────────────────────────────────────────────────────────────
 
+function processFile(filePath, stats) {
+  let text
+  try {
+    text = fs.readFileSync(filePath, "utf-8")
+  } catch (e) {
+    stats.errors += 1
+    if (VERBOSE) console.warn(`  ! unreadable: ${filePath}`)
+    return
+  }
+
+  const { fm, body } = parseFrontmatter(text)
+  const name = fm.title || path.basename(filePath, ".md")
+  if (!name) {
+    stats.skipped += 1
+    return
+  }
+
+  // Normalize the profile_path to a repo-relative path for storage
+  const repoRoot = path.join(__dirname, "..")
+  const relPath = path.relative(repoRoot, filePath).replace(/\\/g, "/")
+
+  const entityType = mapEntityType(fm.type)
+  stats.byType[entityType] = (stats.byType[entityType] || 0) + 1
+
+  // Branch signal extraction by shape
+  let signals
+  if (entityType === "politician") {
+    const monetary = getPoliticianMonetarySignals(name)
+    if (monetary.edge_count > 0) stats.withMonetary += 1
+    else stats.withoutMonetary += 1
+
+    // Politician-specific frontmatter signals
+    const fmTotal = fm["total-received"]
+      ? parseInt(String(fm["total-received"]).replace(/[$,]/g, ""), 10)
+      : null
+
+    // top-donors: multi-line YAML list leaked into our simple parser — we
+    // grep the raw frontmatter text instead
+    const fmTopDonors = extractYamlList(text, "top-donors")
+    const fmCommittees = extractYamlList(text, "committees")
+    const fmSourceTypes = extractYamlList(text, "source-types")
+
+    signals = {
+      // Politician identity
+      bioguide_id: fm["bioguide-id"] || null,
+      party: fm["party"] || null,
+      chamber: fm["chamber"] || null,
+      state: fm["state"] || null,
+      state_abbr: fm["state-abbr"] || null,
+      fec_candidate_id: fm["fec-candidate-id"] || null,
+      // Financial signals (politicians RECEIVE money)
+      top_donors: monetary.top_donors,
+      fm_top_donors: fmTopDonors,
+      total_received:
+        (fmTotal && !isNaN(fmTotal) ? fmTotal : null) || monetary.total_received,
+      edge_count: monetary.edge_count,
+      // Committees + legislative signals
+      committees: fmCommittees,
+      // Editorial metadata
+      source_types: fmSourceTypes,
+      content_readiness: fm["content-readiness"] || null,
+      source_tier: fm["source-tier"] || null,
+      body_snippet: extractBodySnippet(body),
+      signals_gathered_at: new Date().toISOString(),
+    }
+  } else {
+    // Donor-shape
+    const monetary = getDonorMonetarySignals(name)
+    if (monetary.edge_count > 0) stats.withMonetary += 1
+    else stats.withoutMonetary += 1
+
+    const fmSpend = fm["total-political-spend"]
+      ? parseInt(String(fm["total-political-spend"]).replace(/[$,]/g, ""), 10)
+      : null
+
+    signals = {
+      naics: fm["naics-code"] || fm["naics"] || null,
+      sector: fm["sector"] || null,
+      ein: fm["ein"] || null,
+      party_breakdown: null,
+      top_politicians_funded: monetary.top_politicians_funded,
+      total_political_spend:
+        (fmSpend && !isNaN(fmSpend) ? fmSpend : null) || monetary.total_political_spend,
+      edge_count: monetary.edge_count,
+      body_snippet: extractBodySnippet(body),
+      content_readiness: fm["content-readiness"] || null,
+      source_tier: fm["source-tier"] || null,
+      signals_gathered_at: new Date().toISOString(),
+    }
+  }
+
+  if (WRITE) {
+    try {
+      const existingByPath = store.findByProfilePath(relPath)
+      if (existingByPath) {
+        store.updateEntity(existingByPath.id, { signals })
+        stats.updated += 1
+        if (VERBOSE) console.log(`  ↻ ${existingByPath.id}  ${name}`)
+        return
+      }
+      const existingByName = store.findByName(name)
+      if (existingByName) {
+        store.updateEntity(existingByName.id, { signals, profile_path: relPath })
+        stats.updated += 1
+        if (VERBOSE) console.log(`  ↻ ${existingByName.id}  ${name} (rename)`)
+        return
+      }
+
+      const rec = store.addOrFindEntity({
+        name,
+        profile_path: relPath,
+        entity_type: entityType,
+        signals,
+      })
+      stats.newRegistered += 1
+      if (VERBOSE) console.log(`  + ${rec.id}  ${name}  [${entityType}]`)
+    } catch (e) {
+      stats.errors += 1
+      if (VERBOSE) console.warn(`  ! ${filePath}: ${e.message}`)
+    }
+  } else {
+    if (VERBOSE) {
+      const edgeCount = signals.edge_count
+      const total = signals.total_political_spend ?? signals.total_received ?? "—"
+      console.log(
+        `  · ${name.padEnd(50).slice(0, 50)}  [${entityType}]  edges=${edgeCount}  total=${total}`,
+      )
+    }
+  }
+}
+
+// Extract a multi-line YAML list from raw frontmatter text. Handles the
+// common pattern:
+//   key:
+//     - "value 1"
+//     - "value 2"
+// Returns an array of unquoted strings, or [] if not found.
+function extractYamlList(fullText, key) {
+  const m = fullText.match(/^---\s*\n([\s\S]*?)\n---/)
+  if (!m) return []
+  const fmBlock = m[1]
+  const lines = fmBlock.split(/\n/)
+  const out = []
+  let inList = false
+  for (const line of lines) {
+    if (new RegExp(`^${key}:\\s*$`).test(line)) {
+      inList = true
+      continue
+    }
+    if (inList) {
+      const item = line.match(/^\s*-\s*["']?(.+?)["']?\s*$/)
+      if (item) {
+        out.push(item[1])
+      } else if (/^\w[\w-]*:/.test(line)) {
+        // Hit the next key, stop
+        break
+      }
+    }
+  }
+  return out
+}
+
 function main() {
   console.log("")
   console.log("═══ batch-gather-entity-signals ═══")
-  console.log(`  target:   ${TARGET_DIR}`)
+  console.log(`  targets:  ${TARGET_DIRS.length}`)
+  for (const d of TARGET_DIRS) console.log(`    - ${d}`)
   console.log(`  dry-run:  ${!WRITE}`)
   console.log(`  verbose:  ${VERBOSE}`)
   console.log("")
 
-  if (!fs.existsSync(TARGET_DIR)) {
-    console.error(`ERROR: target directory does not exist: ${TARGET_DIR}`)
-    process.exit(1)
-  }
-
   store.loadEntities()
   const startingCount = store.countEntities()
-
-  // Preload edge index
   buildEdgeIndex()
 
   const stats = {
     filesScanned: 0,
     newRegistered: 0,
-    alreadyRegistered: 0,
     updated: 0,
     skipped: 0,
     errors: 0,
@@ -235,100 +448,25 @@ function main() {
     byType: {},
   }
 
-  walkMarkdownFiles(TARGET_DIR, (filePath) => {
-    stats.filesScanned += 1
-    let text
-    try {
-      text = fs.readFileSync(filePath, "utf-8")
-    } catch (e) {
-      stats.errors += 1
-      if (VERBOSE) console.warn(`  ! unreadable: ${filePath}`)
-      return
+  for (const dir of TARGET_DIRS) {
+    if (!fs.existsSync(dir)) {
+      console.warn(`  ! missing: ${dir}`)
+      continue
     }
+    // For the politicians tree, only process master profiles (skip sub-notes)
+    const isPoliticians = /Politicians$/i.test(dir) || dir.includes("/Politicians/")
+    if (DONORS_ONLY && isPoliticians) continue
+    if (POLITICIANS_ONLY && !isPoliticians) continue
 
-    const { fm, body } = parseFrontmatter(text)
-
-    const name = fm.title || path.basename(filePath, ".md")
-    if (!name) {
-      stats.skipped += 1
-      return
-    }
-
-    // Normalize the profile_path to a repo-relative path for storage
-    const repoRoot = path.join(__dirname, "..")
-    const relPath = path.relative(repoRoot, filePath).replace(/\\/g, "/")
-
-    const entityType = mapEntityType(fm.type)
-    stats.byType[entityType] = (stats.byType[entityType] || 0) + 1
-
-    const monetarySignals = getMonetarySignals(name)
-    if (monetarySignals.edge_count > 0) stats.withMonetary += 1
-    else stats.withoutMonetary += 1
-
-    // Frontmatter-provided totals (if pipeline has already computed them)
-    // take priority over edge-sum when both exist.
-    const fmSpend = fm["total-political-spend"]
-      ? parseInt(String(fm["total-political-spend"]).replace(/[$,]/g, ""), 10)
-      : null
-
-    const signals = {
-      naics: fm["naics-code"] || fm["naics"] || null,
-      sector: fm["sector"] || null,
-      ein: fm["ein"] || null,
-      party_breakdown: null, // v2 — needs politician party lookup
-      top_politicians_funded: monetarySignals.top_politicians_funded,
-      total_political_spend:
-        (fmSpend && !isNaN(fmSpend) ? fmSpend : null) || monetarySignals.total_political_spend,
-      edge_count: monetarySignals.edge_count,
-      body_snippet: extractBodySnippet(body),
-      content_readiness: fm["content-readiness"] || null,
-      source_tier: fm["source-tier"] || null,
-      signals_gathered_at: new Date().toISOString(),
-    }
-
-    if (WRITE) {
-      try {
-        // Check for existing by profile path first (most stable identifier)
-        const existingByPath = store.findByProfilePath(relPath)
-        if (existingByPath) {
-          // Update signals only — never clobber approved class tags
-          store.updateEntity(existingByPath.id, { signals })
-          stats.updated += 1
-          if (VERBOSE) console.log(`  ↻ ${existingByPath.id}  ${name}`)
-          return
-        }
-        const existingByName = store.findByName(name)
-        if (existingByName) {
-          // Same name, different path — probably a rename. Update signals
-          // AND attach the new profile_path.
-          store.updateEntity(existingByName.id, { signals, profile_path: relPath })
-          stats.updated += 1
-          if (VERBOSE) console.log(`  ↻ ${existingByName.id}  ${name} (rename)`)
-          return
-        }
-
-        const rec = store.addOrFindEntity({
-          name,
-          profile_path: relPath,
-          entity_type: entityType,
-          signals,
-        })
-        stats.newRegistered += 1
-        if (VERBOSE) console.log(`  + ${rec.id}  ${name}  [${entityType}]`)
-      } catch (e) {
-        stats.errors += 1
-        if (VERBOSE) console.warn(`  ! ${filePath}: ${e.message}`)
-      }
-    } else {
-      if (VERBOSE) {
-        console.log(
-          `  · ${name.padEnd(50).slice(0, 50)}  [${entityType}]  edges=${monetarySignals.edge_count}  total=${
-            monetarySignals.total_political_spend || "—"
-          }`,
-        )
-      }
-    }
-  })
+    walkMarkdownFiles(
+      dir,
+      (filePath) => {
+        stats.filesScanned += 1
+        processFile(filePath, stats)
+      },
+      { masterOnly: isPoliticians },
+    )
+  }
 
   const endingCount = store.countEntities()
 
