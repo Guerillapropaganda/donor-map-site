@@ -10,6 +10,7 @@ import {
   SOURCE_TYPES,
   Tier,
 } from "@/lib/sources-store"
+import { requireAdmin } from "@/lib/auth"
 
 // ─── /api/source-registry ────────────────────────────────────────────
 //
@@ -31,6 +32,8 @@ import {
 // Also returns countByStatus for sidebar summaries.
 
 export async function GET(req: NextRequest) {
+  const gate = await requireAdmin(req)
+  if (!gate.ok) return gate.response!
   try {
     const { searchParams } = new URL(req.url)
 
@@ -87,7 +90,10 @@ export async function GET(req: NextRequest) {
 
 // PATCH /api/source-registry?id={src_NNNNNN}
 // Body: { status?: SourceStatus, editor_notes?: string }
+// Admin-only.
 export async function PATCH(req: NextRequest) {
+  const gate = await requireAdmin(req)
+  if (!gate.ok) return gate.response!
   try {
     const { searchParams } = new URL(req.url)
     const id = searchParams.get("id")

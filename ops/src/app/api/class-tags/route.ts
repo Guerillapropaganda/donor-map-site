@@ -8,6 +8,7 @@ import {
   type ProposalStatus,
   type ProposedTags,
 } from "@/lib/class-tag-proposals-store"
+import { requireAdmin } from "@/lib/auth"
 
 // ─── /api/class-tags ──────────────────────────────────────────────────
 //
@@ -40,6 +41,9 @@ import {
 const ALLOWED_STATUSES: ProposalStatus[] = ["pending", "approved", "rejected", "edited"]
 
 export async function GET(req: NextRequest) {
+  // Admin-only: class tag triage is David's editorial workflow
+  const gate = await requireAdmin(req)
+  if (!gate.ok) return gate.response!
   try {
     const { searchParams } = new URL(req.url)
 
@@ -87,6 +91,8 @@ export async function GET(req: NextRequest) {
 }
 
 export async function PATCH(req: NextRequest) {
+  const gate = await requireAdmin(req)
+  if (!gate.ok) return gate.response!
   try {
     const { searchParams } = new URL(req.url)
     const entityId = searchParams.get("entity_id")

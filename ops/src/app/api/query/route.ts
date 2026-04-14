@@ -1,5 +1,7 @@
 import { NextRequest, NextResponse } from "next/server"
 import { createQueryEngine, type QuerySpec } from "@/lib/query-engine"
+import { requireTier } from "@/lib/auth"
+import { checkDailyLimit, checkPerMinuteLimit } from "@/lib/rate-limit"
 
 // ─── /api/query ──────────────────────────────────────────────────────
 //
@@ -15,12 +17,10 @@ import { createQueryEngine, type QuerySpec } from "@/lib/query-engine"
 // simple cases:
 //   /api/query?subject=entities&capital_type=fossil-capital&limit=20
 //
-// AUTH MIDDLEWARE HOOK (Phase 2.5):
-// This route is currently pass-through. When Phase 2.5 ships the tier-
-// check middleware (per ADR-0002), add a guard here:
-//   if (!user.tier in ['researcher', 'newsroom', 'patron']) return 402
-// Do NOT remove this comment until Phase 2.5 wires it up — it's the
-// tracking marker for routes that still need gating.
+// AUTH + RATE LIMIT (Phase 2.5 — live):
+// Requires at least free-auth tier. Anonymous → 401.
+// Daily query cap + per-minute API cap enforced per tier.
+// Admin users bypass both caps.
 
 // Singleton engine — created once per server process, lazy-loads data
 // on first query and caches forever
@@ -71,12 +71,49 @@ function specFromSearchParams(searchParams: URLSearchParams): QuerySpec {
   return { subject, filters }
 }
 
+async function gateAndLimit(req: NextRequest) {
+  const gate = await requireTier(req, "free-auth")
+  if (!gate.ok) return { response: gate.response, user: null }
+
+  const minute = checkPerMinuteLimit(gate.user, "/api/query")
+  if (!minute.allowed) {
+    return {
+      response: NextResponse.json(
+        { error: "rate limit (per-minute)", retry_after_seconds: minute.retry_after_seconds, limit: minute.limit },
+        { status: 429, headers: { "Retry-After": String(minute.retry_after_seconds || 60) } },
+      ),
+      user: null,
+    }
+  }
+
+  const daily = checkDailyLimit(gate.user, "/api/query")
+  if (!daily.allowed) {
+    return {
+      response: NextResponse.json(
+        { error: "rate limit (daily)", retry_after_seconds: daily.retry_after_seconds, limit: daily.limit, upgrade_url: "/pricing" },
+        { status: 429, headers: { "Retry-After": String(daily.retry_after_seconds || 60) } },
+      ),
+      user: null,
+    }
+  }
+
+  return { response: null, user: gate.user, daily, minute }
+}
+
 export async function GET(req: NextRequest) {
+  const gated = await gateAndLimit(req)
+  if (gated.response) return gated.response
   try {
     const { searchParams } = new URL(req.url)
     const spec = specFromSearchParams(searchParams)
     const result = runSpec(spec)
-    return NextResponse.json(result)
+    return NextResponse.json({
+      ...result,
+      _limits: {
+        daily_remaining: gated.daily?.remaining ?? null,
+        minute_remaining: gated.minute?.remaining ?? null,
+      },
+    })
   } catch (e: any) {
     return NextResponse.json(
       { error: e?.message || "query failed" },
@@ -86,6 +123,8 @@ export async function GET(req: NextRequest) {
 }
 
 export async function POST(req: NextRequest) {
+  const gated = await gateAndLimit(req)
+  if (gated.response) return gated.response
   try {
     const body = await req.json()
     if (!body || !body.subject) {
@@ -96,7 +135,13 @@ export async function POST(req: NextRequest) {
     }
     const spec: QuerySpec = { subject: body.subject, filters: body.filters || {} }
     const result = runSpec(spec)
-    return NextResponse.json(result)
+    return NextResponse.json({
+      ...result,
+      _limits: {
+        daily_remaining: gated.daily?.remaining ?? null,
+        minute_remaining: gated.minute?.remaining ?? null,
+      },
+    })
   } catch (e: any) {
     return NextResponse.json(
       { error: e?.message || "query failed" },
