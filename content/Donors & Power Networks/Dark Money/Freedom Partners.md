@@ -1,35 +1,45 @@
 ---
-title: "Freedom Partners Chamber of Commerce"
+title: Freedom Partners Chamber of Commerce
 type: donor
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: '2026-04-14'
 source-tier: 1
 parent: null
-sector: "Dark Money"
-entity-type: "Individual Donor"
+sector: Dark Money
+entity-type: Individual Donor
 issues:
-  - "Dark Money & Campaign Finance"
+  - Dark Money & Campaign Finance
 court-cases: 4
-last-enriched: "2026-04-09"
+last-enriched: '2026-04-09'
 court-jurisdictions:
-  - "District Court, D. New Jersey"
-  - "District Court, District of Columbia"
-  - "District Court, S.D. New York"
-  - "United States Bankruptcy Court, E.D. Missouri"
+  - 'District Court, D. New Jersey'
+  - 'District Court, District of Columbia'
+  - 'District Court, S.D. New York'
+  - 'United States Bankruptcy Court, E.D. Missouri'
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
 lobbying-spend: 2076000
 lobbying-filings: 84
-related: "[[ALEC - American Legislative Exchange Council]] · [[Donors Capital Fund]] · [[State Policy Network]] · [[Americans for Prosperity]] · [[Stand Together]] · [[Koch Industries]] · [[DeVos Family]] · [[US Chamber of Commerce]] · [[Insurance Industry]] · [[National Education Association]] · [[Walton Family Foundation]] · [[American Federation for Children]] · [[Defense Contractors]] · [[Defense Industry]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[American Petroleum Institute]] · [[Defense Industry Bloc]]"
+related: >-
+  [[ALEC - American Legislative Exchange Council]] · [[Donors Capital Fund]] ·
+  [[State Policy Network]] · [[Americans for Prosperity]] · [[Stand Together]] ·
+  [[Koch Industries]] · [[DeVos Family]] · [[US Chamber of Commerce]] ·
+  [[Insurance Industry]] · [[National Education Association]] · [[Walton Family
+  Foundation]] · [[American Federation for Children]] · [[Defense Contractors]]
+  · [[Defense Industry]] · [[Western States Petroleum Association]] ·
+  [[Petrochemical Industry Bloc]] · [[American Petroleum Institute]] · [[Defense
+  Industry Bloc]]
 source-types:
   - Courts
   - LDA
 corroboration-count: 2
 known-gaps:
-  - "No FEC contribution data"
-total-political-spend: "$807,270"
+  - No FEC contribution data
+total-political-spend: '$807,270'
 cross-vault-triangulation-count: 9
-audit-a-plus-passed: "2026-04-11"
+audit-a-plus-passed: '2026-04-11'
+aliases:
+  - 'FREEDOM PARTNERS ACTION FUND, INC.'
 ---
 #donor #dark-money #koch-network #501c6 #conservative #class-analysis #follow-the-money
 

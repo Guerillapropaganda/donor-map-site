@@ -175,7 +175,18 @@ const DIRECTIONS = ['directed', 'undirected'];
 // (e.g. a `monetary` edge without amount/cycle is OK if it came from a
 // frontmatter migration — the future categorizer will upgrade it with
 // real FEC data). All other sources must provide the extras.
-const MIGRATION_SOURCES = new Set(['frontmatter-migration', 'body-migration-april-9']);
+// Sources exempt from type-specific required-extras (amount, cycle, etc).
+// These sources assert that a relationship exists without necessarily
+// carrying the FEC metadata — migrations read legacy frontmatter that
+// never encoded it, manual-ops comes from editor clicks in the Ops UI
+// where David confirms a relationship without entering dollar amounts.
+// The categorizer (Phase 3 Part 2) upgrades these edges once Tier 1
+// pipeline data provides the missing extras.
+const MIGRATION_SOURCES = new Set([
+  'frontmatter-migration',
+  'body-migration-april-9',
+  'manual-ops',
+]);
 
 // ─── Title normalization ──────────────────────────────────────────────
 
@@ -594,6 +605,105 @@ function buildTitleIndex(contentRoot) {
     } else {
       index.set(title, entry);
     }
+
+    // ─── Aliases: profile can claim alt names via `aliases:` frontmatter ──
+    //
+    // Example: Americans for Prosperity profile can list its FEC-format
+    // names as aliases so suggestion edges citing "AMERICANS FOR PROSPERITY
+    // ACTION, INC. (AFP ACTION)" resolve to the same canonical profile.
+    //
+    // Aliases are added as weaker index entries (they lose to real titles
+    // in a collision). Entry.aliasOf points back to the canonical title
+    // so callers can report the resolution.
+    const aliases = Array.isArray(data.aliases)
+      ? data.aliases
+      : typeof data.aliases === 'string'
+        ? [data.aliases]
+        : [];
+    for (const rawAlias of aliases) {
+      if (typeof rawAlias !== 'string') continue;
+      const aliasKey = normalizeTitle(rawAlias);
+      if (!aliasKey || aliasKey === title) continue;
+      const aliasEntry = { ...entry, aliasOf: title };
+      if (index.has(aliasKey)) {
+        const existing = index.get(aliasKey);
+        // Never let an alias overwrite a real title
+        if (!Array.isArray(existing) && !existing.aliasOf) continue;
+        if (Array.isArray(existing)) {
+          const hasReal = existing.some((e) => !e.aliasOf);
+          if (hasReal) continue;
+          existing.push(aliasEntry);
+        } else {
+          index.set(aliasKey, [existing, aliasEntry]);
+        }
+      } else {
+        index.set(aliasKey, aliasEntry);
+      }
+    }
+  }
+
+  // ─── Disambiguate multi-entry titles by canonicality priority ─────────
+  //
+  // When multiple profiles share a title (e.g. "Heritage Foundation" as
+  // both a donor-taxonomy entry and a think-tank entity, or "JB Pritzker"
+  // as both a mega-donor and a governor politician profile), the index
+  // would return an Array and downstream callers would treat it as
+  // "unresolvable" and skip the edge.
+  //
+  // In practice there's always a canonical choice: the politician profile
+  // for a person who's also a donor, the think-tank entity for an org
+  // that's also a donor, the non-archived file over the archived one,
+  // and the larger file over a stub. We compute a score per entry and
+  // pick the highest; ties are kept as arrays so the validator can still
+  // flag them for manual review.
+  //
+  // This does NOT merge content. The losing files are still on disk and
+  // searchable through the vault; they just don't win the title-index
+  // lookup that buildEdge uses for endpoint resolution.
+
+  // Priority by top-level type. Higher = more canonical.
+  const TYPE_PRIORITY = {
+    politician: 100,
+    'state-politician': 95,
+    entity: 90,
+    story: 80,
+    donor: 70,
+    event: 50,
+    meta: 10,
+  };
+
+  function priorityScore(e) {
+    const typeScore = TYPE_PRIORITY[e.type] || 30;
+    // Penalize archived paths
+    const archivePenalty = e.path && e.path.includes('Vault Maintenance') ? -200 : 0;
+    // Bonus for file size (larger = more content, tiebreaker only)
+    let sizeBonus = 0;
+    try {
+      const bytes = fs.statSync(e.path).size;
+      sizeBonus = Math.min(20, Math.floor(bytes / 5000)); // max +20 at 100KB+
+    } catch (_) { /* ignore */ }
+    return typeScore + archivePenalty + sizeBonus;
+  }
+
+  for (const [title, entries] of index.entries()) {
+    if (!Array.isArray(entries)) continue;
+    let winner = entries[0];
+    let winnerScore = priorityScore(winner);
+    let tied = false;
+    for (let i = 1; i < entries.length; i++) {
+      const s = priorityScore(entries[i]);
+      if (s > winnerScore) {
+        winner = entries[i];
+        winnerScore = s;
+        tied = false;
+      } else if (s === winnerScore) {
+        tied = true;
+      }
+    }
+    if (!tied) {
+      index.set(title, winner);
+    }
+    // Tied cases stay as arrays — let the caller flag the ambiguity.
   }
 
   return index;

@@ -1,33 +1,43 @@
 ---
-title: "Emilys List"
+title: Emilys List
 type: pac
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: '2026-04-14'
 source-tier: 2
 parent: null
-sector: "Super PACs"
-entity-type: "PAC"
-ein: "461067490"
-annual-revenue: "$2.2M"
-net-assets: "$173K"
-tax-year: "2023"
+sector: Super PACs
+entity-type: PAC
+ein: '461067490'
+annual-revenue: $2.2M
+net-assets: $173K
+tax-year: '2023'
 court-cases: 6
-last-enriched: "2026-04-08"
+last-enriched: '2026-04-08'
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 court-jurisdictions:
-  - "Court of Appeals for the Sixth Circuit"
-  - "District Court, D. Maine"
-  - "District Court, D. New Jersey"
-  - "District Court, S.D. New York"
-nonprofit-status: "501(c)(4)"
+  - Court of Appeals for the Sixth Circuit
+  - 'District Court, D. Maine'
+  - 'District Court, D. New Jersey'
+  - 'District Court, S.D. New York'
+nonprofit-status: 501(c)(4)
 total-revenue: 1057103
 total-assets: 79716
-related: "[[Democratic Senatorial Campaign Committee]] · [[ActBlue]] · [[House Majority PAC]] · [[Senate Majority PAC]] · [[Priorities USA Action]] · [[DSCC - Democratic Senatorial Campaign Committee]] · [[Majority Forward]] · [[Winning for Women PAC]] · [[Senate Leadership Fund]] · [[One Nation]] · [[WinRed]] · [[Fairshake PAC]] · [[Trump Victory]] · [[Save America PAC]] · [[Preserve America]] · [[National Rifle Association]]"
+related: >-
+  [[Democratic Senatorial Campaign Committee]] · [[ActBlue]] · [[House Majority
+  PAC]] · [[Senate Majority PAC]] · [[Priorities USA Action]] · [[DSCC -
+  Democratic Senatorial Campaign Committee]] · [[Majority Forward]] · [[Winning
+  for Women PAC]] · [[Senate Leadership Fund]] · [[One Nation]] · [[WinRed]] ·
+  [[Fairshake PAC]] · [[Trump Victory]] · [[Save America PAC]] · [[Preserve
+  America]] · [[National Rifle Association]]
 cross-vault-triangulation-count: 7
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: >-
+  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: •
+  FEC data is missing entirely. This profile was promoted to ready without ever
+  having fec enrichment run on it. The needs-reenrichment flag has been set. The
+  next scheduled pipeline run will pick it up automatically.
+aliases:
+  - WOMEN VOTE!
 ---
 #donor-node #super-pac #democratic #women #fundraising-infrastructure #pro-choice #gatekeeper #donor
 

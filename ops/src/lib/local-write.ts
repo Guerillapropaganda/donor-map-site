@@ -36,26 +36,84 @@ function getRepoRoot(): string {
   throw new Error("Cannot find repo root")
 }
 
-// Write a file to the vault and commit + push
+// Write a file to the vault and commit + push, with pull-rebase retry on conflict.
+//
+// Why the retry loop: Ops writes race with two concurrent writers:
+//   1. GitHub Actions API-enrichment pipelines pushing to origin/v4
+//   2. The RSS-scan workflow pushing event digests
+//
+// Without a retry, the first writeAndPush to collide with a pipeline push
+// gets a stale HEAD, writes a dirty merge, and the next push fails in a
+// way that can leave `<<<<<<<` conflict markers in a profile's
+// frontmatter (this is how CA Farm Bureau Federation broke the deploy on
+// 2026-04-14 — see commit 17d3f2ba).
+//
+// Strategy on push rejection:
+//   1. `git pull --rebase origin v4` — replay our single commit on top
+//   2. If the rebase hits a conflict on the SAME file we just wrote,
+//      abort the rebase, re-read the remote file, re-apply our content
+//      (callers pass us final bytes, so we can blindly overwrite), and
+//      retry. We only give up after 3 attempts.
+//   3. Any other error aborts cleanly without leaving a dirty state.
 export function writeAndPush(filePath: string, content: string, commitMessage: string): void {
   const repoRoot = getRepoRoot()
   const fullPath = path.join(repoRoot, filePath)
+  const safeMessage = commitMessage.replace(/"/g, '\\"')
 
   // Ensure directory exists
   const dir = path.dirname(fullPath)
   fs.mkdirSync(dir, { recursive: true })
 
-  // Write file
-  fs.writeFileSync(fullPath, content, "utf-8")
-
-  // Git add, commit, push
-  try {
+  function writeAndCommit(): void {
+    fs.writeFileSync(fullPath, content, "utf-8")
     execSync(`git add "${filePath}"`, { cwd: repoRoot, timeout: 10000 })
-    execSync(`git commit -m "${commitMessage.replace(/"/g, '\\"')}"`, { cwd: repoRoot, timeout: 10000 })
-    execSync("git push origin v4", { cwd: repoRoot, timeout: 30000 })
-  } catch (e) {
-    // If push fails (e.g. no network), the local change is still saved
-    console.error("Git push failed (local changes saved):", e)
+    execSync(`git commit -m "${safeMessage}"`, { cwd: repoRoot, timeout: 10000 })
+  }
+
+  const MAX_ATTEMPTS = 3
+  for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
+    try {
+      if (attempt === 1) {
+        writeAndCommit()
+      }
+      execSync("git push origin v4", { cwd: repoRoot, timeout: 30000 })
+      return // success
+    } catch (e) {
+      const msg = e instanceof Error ? e.message : String(e)
+      // Non-retryable: write/add/commit failure
+      if (!msg.includes("push") && !msg.includes("rejected") && !msg.includes("non-fast-forward")) {
+        if (attempt === 1) {
+          console.error("Git commit failed (local changes saved):", msg)
+          return
+        }
+      }
+      if (attempt === MAX_ATTEMPTS) {
+        console.error(`Git push failed after ${MAX_ATTEMPTS} attempts (local commit saved):`, msg)
+        return
+      }
+      // Push was rejected — the pipeline (or another ops write) got there first.
+      // Rebase on origin/v4 and retry.
+      try {
+        execSync("git pull --rebase origin v4", { cwd: repoRoot, timeout: 30000 })
+      } catch (pullErr) {
+        // Rebase hit a conflict. We're the second writer; overwrite with our
+        // content (callers pass final bytes). Abort the rebase, reset to
+        // origin/v4, re-write, re-commit.
+        try {
+          execSync("git rebase --abort", { cwd: repoRoot, timeout: 10000 })
+        } catch (_) { /* ignore */ }
+        try {
+          execSync("git reset --hard origin/v4", { cwd: repoRoot, timeout: 10000 })
+          writeAndCommit()
+          continue // retry push on next loop iteration
+        } catch (resetErr) {
+          const resetMsg = resetErr instanceof Error ? resetErr.message : String(resetErr)
+          console.error("Conflict recovery failed (local state may be dirty):", resetMsg)
+          return
+        }
+      }
+      // Rebase succeeded, loop will retry the push
+    }
   }
 }
 

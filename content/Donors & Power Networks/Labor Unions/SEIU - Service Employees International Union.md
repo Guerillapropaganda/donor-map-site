@@ -1,29 +1,46 @@
 ---
-title: "SEIU - Service Employees International Union"
+title: SEIU - Service Employees International Union
 type: donor
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: '2026-04-14'
 source-tier: 1
 parent: null
-sector: "Labor Unions"
-entity-type: "Individual Donor"
+sector: Labor Unions
+entity-type: Individual Donor
 politicians-funded:
-  - "Kamala Harris"
+  - Kamala Harris
 issues:
-  - "Healthcare"
-  - "Labor & Workers"
-ein: "361760052"
-annual-revenue: "$14.9M"
-net-assets: "$8.2M"
-tax-year: "2023"
-total-political-spend: "$15,473,514"
-related: "[[Eric Swalwell Master Profile]] · [[The Media Profile Candidate and the Donor Calculation]] · [[Bernie Sanders Master Profile]] · [[Senate Labor Record and Anti-DOGE Resistance]] · [[VP Labor Record - What Unions Got and Didn't Get]] · [[The Appropriations Vice Chair and Defense-Healthcare Axis]] · [[The Progressive Caucus and the Squad's Institutional Wing]] · [[Nancy Pelosi Master Profile]] · [[Laphonza Butler]] · [[Xavier Becerra Master Profile]] · [[The HHS Record and the Healthcare Industry Question]] · [[Katie Porter Master Profile]] · [[Gretchen Whitmer Master Profile]] · [[_Gavin Newsom Master Profile]] · [[_Donald Trump Master Profile]] · [[_Kamala Harris Master Profile]] · [[Blue Shield of California]] · [[Kaiser Permanente]] · [[UnitedHealth Group - Optum]] · [[California Labor Federation]] · [[CNA - California Nurses Association]] · [[AFSCME - American Federation of State County and Municipal Employees]] · [[Koch Network - Charles Koch]] · [[DOGE - The Billionaires Government]] · [[Ash Kalra]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[United Farm Workers]] · [[UNITE HERE]]"
-last-enriched: "2026-04-11"
-nonprofit-status: "501(c)(5)"
+  - Healthcare
+  - Labor & Workers
+ein: '361760052'
+annual-revenue: $14.9M
+net-assets: $8.2M
+tax-year: '2023'
+total-political-spend: '$15,473,514'
+related: >-
+  [[Eric Swalwell Master Profile]] · [[The Media Profile Candidate and the Donor
+  Calculation]] · [[Bernie Sanders Master Profile]] · [[Senate Labor Record and
+  Anti-DOGE Resistance]] · [[VP Labor Record - What Unions Got and Didn't Get]]
+  · [[The Appropriations Vice Chair and Defense-Healthcare Axis]] · [[The
+  Progressive Caucus and the Squad's Institutional Wing]] · [[Nancy Pelosi
+  Master Profile]] · [[Laphonza Butler]] · [[Xavier Becerra Master Profile]] ·
+  [[The HHS Record and the Healthcare Industry Question]] · [[Katie Porter
+  Master Profile]] · [[Gretchen Whitmer Master Profile]] · [[_Gavin Newsom
+  Master Profile]] · [[_Donald Trump Master Profile]] · [[_Kamala Harris Master
+  Profile]] · [[Blue Shield of California]] · [[Kaiser Permanente]] ·
+  [[UnitedHealth Group - Optum]] · [[California Labor Federation]] · [[CNA -
+  California Nurses Association]] · [[AFSCME - American Federation of State
+  County and Municipal Employees]] · [[Koch Network - Charles Koch]] · [[DOGE -
+  The Billionaires Government]] · [[Ash Kalra]] · [[Newsom 2028 - The Donor
+  Class Presidential Campaign]] · [[United Farm Workers]] · [[UNITE HERE]]
+last-enriched: '2026-04-11'
+nonprofit-status: 501(c)(5)
 total-revenue: 16733765
 total-assets: 7578894
 cross-vault-triangulation-count: 21
-audit-a-plus-passed: "2026-04-11"
+audit-a-plus-passed: '2026-04-11'
+aliases:
+  - SERVICE EMPLOYEES INTERNATIONAL UNION (SEIU)
 ---
 #donor #union #SEIU #healthcare #public-sector #labor #class-analysis #follow-the-money #california #national #home-care #minimum-wage #fast-food #fight-for-15
 

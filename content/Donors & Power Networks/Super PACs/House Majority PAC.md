@@ -1,37 +1,48 @@
 ---
-title: "House Majority PAC"
+title: House Majority PAC
 type: pac
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: '2026-04-14'
 source-tier: 1
 parent: null
-sector: "Super PACs"
-entity-type: "PAC"
+sector: Super PACs
+entity-type: PAC
 politicians-funded:
-  - "Hakeem Jeffries"
-  - "Nancy Pelosi"
+  - Hakeem Jeffries
+  - Nancy Pelosi
 issues:
-  - "Dark Money & Campaign Finance"
+  - Dark Money & Campaign Finance
 court-cases: 23
-last-enriched: "2026-04-06"
+last-enriched: '2026-04-06'
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 court-jurisdictions:
-  - "District Court, C.D. California"
-  - "District Court, District of Columbia"
-  - "District Court, N.D. California"
-  - "District Court, S.D. Florida"
-  - "District Court, S.D. Indiana"
-  - "District Court, S.D. New York"
+  - 'District Court, C.D. California'
+  - 'District Court, District of Columbia'
+  - 'District Court, N.D. California'
+  - 'District Court, S.D. Florida'
+  - 'District Court, S.D. Indiana'
+  - 'District Court, S.D. New York'
 sec-filings: 1
 sec-form-types:
-  - "10-K"
-related: "[[Senate Majority PAC]] · [[DCCC Red-to-Blue Targets 2026]] · [[_Hakeem Jeffries Master Profile|Hakeem Jeffries]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[Senate Leadership Fund]] · [[National Republican Senatorial Committee]] · [[Winning for Women PAC]] · [[Priorities USA Action]] · [[MAGA Inc]] · [[WinRed]] · [[Trump Victory]] · [[Fairshake PAC]] · [[Save America PAC]] · [[Preserve America]] · [[One Nation]] · [[National Rifle Association]]"
-opposes: "[[Michael Waltz]] · [[Mark Green]]"
+  - 10-K
+related: >-
+  [[Senate Majority PAC]] · [[DCCC Red-to-Blue Targets 2026]] · [[_Hakeem
+  Jeffries Master Profile|Hakeem Jeffries]] · [[Master Donor Database]] ·
+  [[Donor Registry - Master Index]] · [[Senate Leadership Fund]] · [[National
+  Republican Senatorial Committee]] · [[Winning for Women PAC]] · [[Priorities
+  USA Action]] · [[MAGA Inc]] · [[WinRed]] · [[Trump Victory]] · [[Fairshake
+  PAC]] · [[Save America PAC]] · [[Preserve America]] · [[One Nation]] ·
+  [[National Rifle Association]]
+opposes: '[[Michael Waltz]] · [[Mark Green]]'
 cross-vault-triangulation-count: 8
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: >-
+  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: •
+  FEC data is missing entirely. This profile was promoted to ready without ever
+  having fec enrichment run on it. The needs-reenrichment flag has been set. The
+  next scheduled pipeline run will pick it up automatically.
+aliases:
+  - HOUSE MAJORITY PAC
 ---
 #donor-node #super-pac #democratic #house #leadership-pac #dark-money #house-majority-forward #donor
 

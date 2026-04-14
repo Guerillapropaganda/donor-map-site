@@ -1,70 +1,73 @@
 ---
-title: "League of Conservation Voters"
+title: League of Conservation Voters
 type: donor
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: '2026-04-14'
 source-tier: 1
 parent: null
-sector: "Super PACs"
-entity-type: "Individual Donor"
+sector: Super PACs
+entity-type: Individual Donor
 issues:
-  - "Environment"
-  - "Energy & Climate"
-  - "Dark Money & Campaign Finance"
+  - Environment
+  - Energy & Climate
+  - Dark Money & Campaign Finance
 court-cases: 189
-last-enriched: "2026-04-07"
+last-enriched: '2026-04-07'
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 court-jurisdictions:
-  - "Court of Appeals for the D.C. Circuit"
-  - "Court of Appeals for the First Circuit"
-  - "Court of Appeals for the Second Circuit"
-  - "Court of Appeals for the Third Circuit"
-  - "District Court, C.D. California"
-  - "District Court, D. Alaska"
-  - "District Court, D. Massachusetts"
-  - "District Court, D. New Jersey"
-  - "District Court, S.D. New York"
-  - "District Court, W.D. Washington"
+  - Court of Appeals for the D.C. Circuit
+  - Court of Appeals for the First Circuit
+  - Court of Appeals for the Second Circuit
+  - Court of Appeals for the Third Circuit
+  - 'District Court, C.D. California'
+  - 'District Court, D. Alaska'
+  - 'District Court, D. Massachusetts'
+  - 'District Court, D. New Jersey'
+  - 'District Court, S.D. New York'
+  - 'District Court, W.D. Washington'
 ein: 521733698
-nonprofit-status: "501(c)(4)"
+nonprofit-status: 501(c)(4)
 total-revenue: 162237362
 total-assets: 37128315
-annual-revenue: "$67.5M"
-net-assets: "$22.6M"
-tax-year: "2023"
+annual-revenue: $67.5M
+net-assets: $22.6M
+tax-year: '2023'
 federal-register-mentions: 11
 regulatory-agencies:
-  - "Energy Department"
-  - "Environmental Protection Agency"
-  - "Federal Election Commission"
-  - "Federal Energy Regulatory Commission"
-  - "Fish and Wildlife Service"
-  - "Interior Department"
-  - "National Park Service"
-  - "Presidio Trust"
-related: "[[Sheldon Whitehouse]] · [[InfluenceMap]] · [[American Fuel and Petrochemical Manufacturers|AFPM]] · [[Enterprise Products Partners]] · [[Williams Companies]]"
+  - Energy Department
+  - Environmental Protection Agency
+  - Federal Election Commission
+  - Federal Energy Regulatory Commission
+  - Fish and Wildlife Service
+  - Interior Department
+  - National Park Service
+  - Presidio Trust
+related: >-
+  [[Sheldon Whitehouse]] · [[InfluenceMap]] · [[American Fuel and Petrochemical
+  Manufacturers|AFPM]] · [[Enterprise Products Partners]] · [[Williams
+  Companies]]
 sec-filings: 246
 sec-form-types:
-  - "10-K/A"
-  - "10KSB"
-  - "424B5"
-  - "8-K"
-  - "DEF 14A"
-  - "DEFA14A"
-  - "DEFC14A"
-  - "DEFR14A"
-  - "EX-99"
-  - "EX-99.1"
-  - "EX-99.1 CHARTER"
-  - "EX-99.2 BYLAWS"
-  - "FWP"
-  - "PRE 14A"
-  - "PREC14A"
-  - "PRER14A"
-  - "PRRN14A"
-  - "SC 14F1"
-  - "U-13-60"
+  - 10-K/A
+  - 10KSB
+  - 424B5
+  - 8-K
+  - DEF 14A
+  - DEFA14A
+  - DEFC14A
+  - DEFR14A
+  - EX-99
+  - EX-99.1
+  - EX-99.1 CHARTER
+  - EX-99.2 BYLAWS
+  - FWP
+  - PRE 14A
+  - PREC14A
+  - PRER14A
+  - PRRN14A
+  - SC 14F1
+  - U-13-60
 lobbying-spend: 6234961
 lobbying-filings: 96
 source-types:
@@ -74,11 +77,15 @@ source-types:
   - SEC
 corroboration-count: 4
 known-gaps:
-  - "No FEC contribution data"
+  - No FEC contribution data
 cross-vault-triangulation-count: 5
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: >-
+  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: •
+  FEC data is missing entirely. This profile was promoted to ready without ever
+  having fec enrichment run on it. The needs-reenrichment flag has been set. The
+  next scheduled pipeline run will pick it up automatically.
+aliases:
+  - LEAGUE OF CONSERVATION VOTERS ACTION FUND
 ---
 #donor #environment #climate #progressive #democratic #electoral #dark-money #501c4 #class-analysis #follow-the-money
 
