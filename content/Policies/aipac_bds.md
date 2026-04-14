@@ -32,14 +32,25 @@ editor-vouched: true
 
 ## What it would do
 
-[placeholder — editor writes with extra care per ADR-0004 editorial firewall: AIPAC is a US-based 501(c)(4) funded by US donors advocating for US foreign policy aligned with Israeli government interests. BDS is protected speech under the First Amendment but is restricted by state-level laws in 30+ states and pending federal legislation. No defamation-prone prose — facts only; class analysis tags carry the opinion weight.]
+AIPAC (American Israel Public Affairs Committee) is a U.S.-based 501(c)(4) lobbying organization that advocates for pro-Israel policies in U.S. legislation. The Boycott, Divestment, and Sanctions (BDS) movement is an international campaign pressuring Israel over its treatment of Palestinians. As of 2024, 38 U.S. states have enacted anti-BDS laws or executive orders that restrict state governments from contracting with businesses or individuals that boycott Israel. Legal challenges, including Koontz v. Watson (8th Circuit, 2023), have produced conflicting federal court rulings on whether these laws violate First Amendment protections of political speech. AIPAC's affiliated super PAC, United Democracy Project, spent $100 million in the 2024 election cycle, making it the highest-spending outside group in several congressional primaries.
 
 ## The gap
 
 - **Public support:** _(polling data pending)_
 - **Legislative status:** passed
 
-> 30+ state anti-BDS laws on the books. Federal anti-BDS provisions in multiple bills. Speech Protection Amendment dead in Senate.
+> At the federal level, the Israel Anti-Boycott Act (H.R.1697 / S.720), introduced March 23, 2017, by Rep. Peter Roskam (R-IL) and Sen. Ben Cardin (D-MD) with 292 House and 58 Senate co-sponsors, would have criminalized participation in BDS-related boycotts with penalties up to $1 million and 20 years imprisonment, but died in committee; the House passed a non-binding resolution condemning the BDS movement on July 23, 2019, by a vote of 398–17. Sen. Marco Rubio (R-FL) made anti-BDS legislation the first Senate bill of the 116th Congress (S.1), which included the Combating BDS Act; the full package passed the Senate on February 5, 2019, by a 77–23 vote but was held at the desk in the House and died. As of 2024, 38 states have enacted anti-BDS laws or executive orders, while federal courts in Arizona, Kansas, and Texas initially struck down state laws on First Amendment grounds; the Eighth Circuit, reversing itself, upheld Arkansas's Act 710 en banc in June 2022, and the Supreme Court declined to hear a challenge, effectively leaving most contractor-focused state anti-BDS laws intact.
+
+### Polling detail
+
+| Source | Support | Oppose | Sample | Fielded |
+|---|---|---|---|---|
+| Gallup | 41% | 36% | 1001 | 2026-02-02 |
+| Pew Research | 39% | 26% | 3445 | 2025-09-22 |
+| Pew Research | 46% | 53% | 3605 | 2025-03-24 |
+| Data for Progress | 76% | 14% | 1160 | 2025-05-16 |
+| Data for Progress | 71% | —% | 1227 | 2025-08-01 |
+| Morning Consult | 25% | —% | — | 2025-08-01 |
 
 ## Who's blocking it
 

@@ -21,12 +21,24 @@ editor-vouched: true
 
 ## What it would do
 
-[placeholder — editor writes: what affordable housing / rent control would do in one short paragraph, no spin]
+The United States currently has no federal rent control law. Several legislative proposals have sought to cap annual rent increases at rates tied to inflation, typically between 3% and 5% per year. Separately, proposals to expand affordable housing funding would increase appropriations to the Housing Trust Fund (currently funded at approximately $740 million annually) and expand Low-Income Housing Tax Credits, which finance roughly 100,000 affordable units per year. The National Low Income Housing Coalition estimates a shortage of approximately 7.3 million affordable rental units for extremely low-income households.
 
 ## The gap
 
 - **Public support:** _(polling data pending)_
 - **Legislative status:** stalled
+
+> No federal rent control law has been enacted in the last decade; the primary federal legislative vehicles have been supply-side and investment bills. Sen. Elizabeth Warren (D-MA) introduced the American Housing and Economic Mobility Act (S.1368 / H.R.2768) on April 23, 2021, which proposed $445 billion in Housing Trust Fund investment over ten years; the bill died in committee without a floor vote. At the state level, Oregon (2019), California (AB 1482, 2019), and Washington state (RCW 59.18.700, effective May 2025) enacted statewide rent stabilization laws, while Colorado passed just-cause eviction protections (H.B.1098) in 2024; federal anti-rent-control preemption efforts in Florida and Texas (2023) and Kentucky, Idaho, and Missouri (2024) moved in the opposite direction. The Affordable Housing Credit Improvement Act (H.R.2725/S.1515), sponsored by Rep. Darin LaHood (R-IL) and Sen. Todd Young (R-IN), ultimately had key provisions—a 12% Low-Income Housing Tax Credit allocation increase and a reduction of the bond financing threshold from 50% to 25%—signed into law as part of President Trump's budget reconciliation bill on July 4, 2025.
+
+### Polling detail
+
+| Source | Support | Oppose | Sample | Fielded |
+|---|---|---|---|---|
+| Morning Consult | 74% | —% | 2200 | 2024-05-17 |
+| Pew Research | 69% | —% | — | 2024-01-01 |
+| Data for Progress | 61% | 28% | 1419 | 2025-08-15 |
+| Data for Progress | 78% | —% | 1223 | 2024-09-13 |
+| Gallup | 26% | 72% | 1006 | 2025-04-01 |
 
 ## Who's blocking it
 
