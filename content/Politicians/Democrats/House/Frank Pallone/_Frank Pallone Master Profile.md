@@ -41,7 +41,8 @@ donors: >-
 related: >-
   [[Telecom Buys Net Neutrality's Death From Both Sides]] · [[_Rosa DeLauro
   Master Profile|Rosa DeLauro]] · [[_Maxine Waters Master Profile|Maxine
-  Waters]] · [[Pfizer]] · [[PhRMA]] · [[Mark Takano]] · [[Pete Aguilar]]
+  Waters]] · [[Pfizer]] · [[PhRMA]] · [[Mark Takano]] · [[Pete Aguilar]] ·
+  [[Debbie Stabenow Master Profile]]
 last-enriched: '2026-04-13'
 needs-reenrichment: true
 reenrich-reason: re-run congress pipeline
