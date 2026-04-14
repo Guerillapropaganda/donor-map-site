@@ -26,7 +26,7 @@ bills-sponsored: 604
 bills-cosponsored: 10572
 related: >-
   [[_Nancy Pelosi Master Profile]] · [[_Bernie Sanders Master Profile]] · [[Adam
-  Schiff|Adam Schiff]] · [[Maxine Waters]]
+  Schiff|Adam Schiff]] · [[Maxine Waters]] · [[Eric Swalwell Master Profile]]
 internal-notes: >-
   [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: •
   CONGRESS data is missing entirely. This profile was promoted to ready without
