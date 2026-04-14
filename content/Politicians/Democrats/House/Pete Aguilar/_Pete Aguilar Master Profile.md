@@ -25,7 +25,7 @@ donors: >-
 related: >-
   [[_Hakeem Jeffries Master Profile|Jeffries]] · [[_Nancy Pelosi Master
   Profile|Pelosi]] · [[_Suzan DelBene Master Profile|DelBene]] · [[Debbie
-  Stabenow Master Profile]]
+  Stabenow Master Profile]] · [[Gary Peters Master Profile]]
 needs-reenrichment: true
 reenrich-reason: run voting pipeline; run congress pipeline; run pipelines
 internal-notes: >-
