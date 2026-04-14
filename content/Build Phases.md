@@ -209,6 +209,7 @@ Plus `/who-blocks-us` cross-policy enemy list aggregate.
 **Goal:** Automated story candidate scoring and ranking in attention queue.
 **Estimated duration:** 2 sessions
 **Depends on:** Phase 4 shipped (needs structured data from all prior phases)
+**Followed by:** Phase 6 (Bug Hunt / Hardening) — the final gate before "query engine build complete"
 
 ### Deliverables
 - [ ] `data/hot-issues.jsonl` manual weekly update workflow
@@ -223,6 +224,51 @@ Plus `/who-blocks-us` cross-policy enemy list aggregate.
 - Formula top-5 matches David's top-5 on calibration set
 - First week of live scoring: David approves ≥3 of top-5 suggestions
 - Phase 5 retrospective written
+
+---
+
+## Phase 6 — Bug Hunt / Hardening
+
+**Folder:** `content/Phases/phase-6/`
+**Goal:** Hunt bugs in problem areas discovered during Phases 1–5, close deferred items, add regression coverage, audit data integrity / performance / security / defamation / documentation. No new features.
+**Estimated duration:** 2–4 sessions
+**Depends on:** Phase 5 shipped (hardening a moving target is waste)
+**Authority:** ADR-0005
+
+### Scope (8 audit categories)
+1. **Deferred-items closeout** — walk every prior phase's decisions/handoff/retrospective for TODOs and known issues, triage each
+2. **Problem-area hunts** — orphan detector re-run, bot-block spot-check, class tag coverage, query edge cases, OG card re-validation, auth middleware
+3. **Regression coverage** — test suite covering every bug fixed in Phases 1–5, CI-integrated
+4. **Data integrity** — validate every `data/*.jsonl` against its schema, dedupe checks, foreign-key resolution
+5. **Performance audit** — Quartz build time, `/api/query` p50/p95, policy page cold-cache load, profile data panel render
+6. **Security audit** — tier-check middleware, rate limits, auth tokens, secrets in git history
+7. **Defamation audit** — every policy page prose scan, source ID coverage, AIPAC page David review + optional lawyer review
+8. **Documentation sweep** — ADR closes/opens, CLAUDE.md/Vault Rules/Pipeline Guide cross-references, Phase 6 retrospective, final closing ADR
+
+### Deliverables
+- [ ] `scripts/phase-6-deferred-items-collector.cjs`
+- [ ] Regression test runner + CI integration
+- [ ] Test suites for source registry, fingerprint, query engine, policy pages, sentinels
+- [ ] Data integrity validators (re-usable, not one-off)
+- [ ] Performance benchmark documentation
+- [ ] Security audit report
+- [ ] Defamation audit report
+- [ ] Phase 6 retrospective
+- [ ] Final closing ADR ("Query Engine Build Complete")
+
+### Exit criteria
+- All deferred items triaged (fix / defer-with-ADR / accept)
+- Regression test suite green in CI
+- Every data file passes validator
+- Performance benchmarks documented
+- Security audit clean
+- AIPAC page approved by David
+- Documentation cross-references all resolve
+- Phase 6 retrospective written
+- Final closing ADR signed off
+
+### Discipline
+Phase 6 is hardening, not feature work. Anything that looks like a new feature becomes either a hotfix to the proper phase (if still in-progress), a new ADR for a post-query-engine phase, or explicitly deferred to post-launch. The phase ships when the system is audit-clean, not when every possible improvement is made.
 
 ---
 

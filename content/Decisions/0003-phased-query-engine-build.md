@@ -21,7 +21,7 @@ Planning session identified the Donor Map should transition from blog-shape (pro
 3. **Phased migration** with strict phase gates and exit criteria. Approved.
 
 ## Decision
-Seven sequential phases:
+Eight sequential phases:
 - Phase 1: Source Registry + generic-link cleanup (foundation)
 - Phase 2: Query Engine MVP with class tags
 - Phase 2.75: Policy Battles MVP — first user-facing product (added via ADR-0004)
@@ -29,6 +29,7 @@ Seven sequential phases:
 - Phase 3: Profile Data Panels
 - Phase 4: Claim-Object Experiment (AOC)
 - Phase 5: Story Score
+- Phase 6: Bug Hunt / Hardening (final gate, added via ADR-0005)
 
 Each phase has exit criteria, a handoff doc, a decisions log, and a retrospective. Phase transitions use the `phase-transition` skill.
 
