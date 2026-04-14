@@ -1,31 +1,42 @@
 ---
-title: "Mark Takano"
+title: Mark Takano
 type: politician
-bioguide-id: "T000472"
+bioguide-id: T000472
 content-readiness: ready
-central-thesis: "Mark Takano is the PACT Act's Democratic architect — the chairman who shepherded the largest VA healthcare expansion in decades through committee and into law. His donor profile is modest: labor unions, teachers' unions, LGBTQ advocacy groups, and..."
-last-updated: 2026-04-13
+central-thesis: >-
+  Mark Takano is the PACT Act's Democratic architect — the chairman who
+  shepherded the largest VA healthcare expansion in decades through committee
+  and into law. His donor profile is modest: labor unions, teachers' unions,
+  LGBTQ advocacy groups, and...
+last-updated: '2026-04-14'
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "House"
-state: "California"
-state-abbr: "CA"
-district: "39"
+party: Democrat
+chamber: House
+state: California
+state-abbr: CA
+district: '39'
 committees:
-  - "Veterans' Affairs"
+  - Veterans' Affairs
 leadership-roles:
-  - "Ranking Member"
-total-received: "$524,547"
-fec-candidate-id: "H2CA43245"
-donors: "[[National Nurses United]] · [[AFSCME - American Federation of State County and Municipal Employees]] · [[UAW - United Auto Workers]]"
-related: "[[_Mike Bost Master Profile|Mike Bost]] · [[_Donald Trump Master Profile|Trump]]"
+  - Ranking Member
+total-received: '$524,547'
+fec-candidate-id: H2CA43245
+donors: >-
+  [[National Nurses United]] · [[AFSCME - American Federation of State County
+  and Municipal Employees]] · [[UAW - United Auto Workers]]
+related: >-
+  [[_Mike Bost Master Profile|Mike Bost]] · [[_Donald Trump Master
+  Profile|Trump]] · [[Pete Aguilar]]
 needs-reenrichment: true
-reenrich-reason: "re-run fec pipeline"
-internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC-CANDIDATE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-last-enriched: "2026-04-13"
+reenrich-reason: re-run fec pipeline
+internal-notes: >-
+  [JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: •
+  FEC-CANDIDATE data was stripped from this profile but the frontmatter still
+  says it was enriched. The pipeline thinks it's already done and won't refresh
+  it. Needs a re-run. The needs-reenrichment flag has been set. The next
+  scheduled pipeline run will pick it up automatically.
+last-enriched: '2026-04-13'
 ---
 #mark-takano #democrat #california #house #ranking-member #veterans-affairs #pact-act #lgbtq #teacher #doge #va-workforce #toxic-exposure #phase-6-gavel-power
 
