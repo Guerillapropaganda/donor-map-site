@@ -1,38 +1,45 @@
 ---
-title: "Mike Collins Master Profile"
+title: Mike Collins Master Profile
 type: politician
 content-readiness: ready
-central-thesis: "Mike Collins is a cargo-cult populist being bankrolled by two mega-donor blocs (crypto and pro-Israel) who have nothing to do with his trucking company base or Trump movement roots. He is running as an 'America First trucker,' but his campaign is ..."
-last-updated: 2026-04-13
+central-thesis: >-
+  Mike Collins is a cargo-cult populist being bankrolled by two mega-donor blocs
+  (crypto and pro-Israel) who have nothing to do with his trucking company base
+  or Trump movement roots. He is running as an 'America First trucker,' but his
+  campaign is ...
+last-updated: '2026-04-14'
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Senate"
-state: "Georgia"
-state-abbr: "GA"
+party: Republican
+chamber: Senate
+state: Georgia
+state-abbr: GA
 issues:
-  - "Israel & Foreign Policy"
-  - "Immigration"
+  - Israel & Foreign Policy
+  - Immigration
 top-donors:
-  - "Fairshake PAC"
-  - "AIPAC - American Israel Public Affairs Committee"
-  - "Winklevoss Twins"
-  - "Elon Musk"
-  - "Club for Growth"
-bioguide-id: "C001129"
+  - Fairshake PAC
+  - AIPAC - American Israel Public Affairs Committee
+  - Winklevoss Twins
+  - Elon Musk
+  - Club for Growth
+bioguide-id: C001129
 govtrack-id: 456895
 bills-sponsored: 12
 bills-cosponsored: 206
-website: "https://collins.house.gov"
-phone: "202-225-4101"
+website: 'https://collins.house.gov'
+phone: 202-225-4101
 source-types:
   - Congress
   - GovTrack
 corroboration-count: 2
 known-gaps:
-  - "No FEC contribution data"
-  - "No mapped relationships"
-related: "[[_Donald Trump Master Profile]] · [[_Jon Ossoff Master Profile]] · [[Fairshake PAC]] · [[AIPAC - American Israel Public Affairs Committee]]"
+  - No FEC contribution data
+  - No mapped relationships
+related: >-
+  [[_Donald Trump Master Profile]] · [[_Jon Ossoff Master Profile]] ·
+  [[Fairshake PAC]] · [[AIPAC - American Israel Public Affairs Committee]] ·
+  [[David Sacks Master Profile]]
 ---
 #mike-collins #republican #senate-candidate #georgia #crypto-trader #aipac #immigration #trump-ally #2026-race #class-analysis #follow-the-money
 
