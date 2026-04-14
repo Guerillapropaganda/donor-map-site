@@ -1,58 +1,73 @@
 ---
-title: "Frank Pallone"
+title: Frank Pallone
 type: politician
 content-readiness: ready
-central-thesis: "Pallone is the textbook example of the committee-jurisdiction donor pipeline: the longer he has held the gavel (or ranking member position) on Energy and Commerce, the more money has flowed from every industry his committee regulates. Pharmaceutic..."
-last-updated: 2026-04-13
+central-thesis: >-
+  Pallone is the textbook example of the committee-jurisdiction donor pipeline:
+  the longer he has held the gavel (or ranking member position) on Energy and
+  Commerce, the more money has flowed from every industry his committee
+  regulates. Pharmaceutic...
+last-updated: '2026-04-14'
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "House"
-state: "New Jersey"
-state-abbr: "NJ"
-district: "6"
+party: Democrat
+chamber: House
+state: New Jersey
+state-abbr: NJ
+district: '6'
 committees:
-  - "House Committee on Energy and Commerce"
+  - House Committee on Energy and Commerce
 leadership-roles:
-  - "Ranking Member"
+  - Ranking Member
 issues:
-  - "Agriculture and Food"
-  - "Armed Forces and National Security"
-  - "Arts, Culture, Religion"
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Commerce"
-  - "Congress"
-  - "Economics and Public Finance"
-  - "Energy"
-  - "Environmental Protection"
-  - "Finance and Financial Sector"
+  - Agriculture and Food
+  - Armed Forces and National Security
+  - 'Arts, Culture, Religion'
+  - 'Civil Rights and Liberties, Minority Issues'
+  - Commerce
+  - Congress
+  - Economics and Public Finance
+  - Energy
+  - Environmental Protection
+  - Finance and Financial Sector
 top-donors:
-  - "Pfizer"
-  - "PhRMA"
-total-received: "$1,311,209"
-fec-candidate-id: "H8NJ03073"
-donors: "[[AFGE - American Federation of Government Employees]] · [[AIPAC - American Israel Public Affairs Committee]] · [[UAW - United Auto Workers]]"
-related: "[[Telecom Buys Net Neutrality's Death From Both Sides]] · [[_Rosa DeLauro Master Profile|Rosa DeLauro]] · [[_Maxine Waters Master Profile|Maxine Waters]] · [[Pfizer]] · [[PhRMA]]"
-last-enriched: "2026-04-13"
+  - Pfizer
+  - PhRMA
+total-received: '$1,311,209'
+fec-candidate-id: H8NJ03073
+donors: >-
+  [[AFGE - American Federation of Government Employees]] · [[AIPAC - American
+  Israel Public Affairs Committee]] · [[UAW - United Auto Workers]]
+related: >-
+  [[Telecom Buys Net Neutrality's Death From Both Sides]] · [[_Rosa DeLauro
+  Master Profile|Rosa DeLauro]] · [[_Maxine Waters Master Profile|Maxine
+  Waters]] · [[Pfizer]] · [[PhRMA]] · [[Mark Takano]]
+last-enriched: '2026-04-13'
 needs-reenrichment: true
-reenrich-reason: "re-run congress pipeline"
+reenrich-reason: re-run congress pipeline
 govtrack-id: 400308
 bills-sponsored: 534
 bills-cosponsored: 6690
-website: "https://pallone.house.gov"
-phone: "202-225-4671"
-bioguide-id: "P000034"
-total-raised: "$1,311,209"
-total-spent: "$1,257,401"
-cash-on-hand: "3125718.74"
+website: 'https://pallone.house.gov'
+phone: 202-225-4671
+bioguide-id: P000034
+total-raised: '$1,311,209'
+total-spent: '$1,257,401'
+cash-on-hand: '3125718.74'
 fec-cycle: 2026
-internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
-  • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-wikidata-id: "Q965289"
-wikipedia-url: "https://en.wikipedia.org/wiki/Frank_Pallone"
-wikipedia-extract: "Frank Joseph Pallone Jr. is an American lawyer and politician serving as the U.S. representative for New Jersey's 6th congressional district since 1988. He is a member of the Democratic Party."
-born: "1951-10-30"
+internal-notes: >-
+  [JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: •
+  BIOGUIDE data was stripped from this profile but the frontmatter still says it
+  was enriched. The pipeline thinks it's already done and won't refresh it.
+  Needs a re-run. The needs-reenrichment flag has been set. The next scheduled
+  pipeline run will pick it up automatically.
+wikidata-id: Q965289
+wikipedia-url: 'https://en.wikipedia.org/wiki/Frank_Pallone'
+wikipedia-extract: >-
+  Frank Joseph Pallone Jr. is an American lawyer and politician serving as the
+  U.S. representative for New Jersey's 6th congressional district since 1988. He
+  is a member of the Democratic Party.
+born: '1951-10-30'
 ---
 #frank-pallone #democrat #new-jersey #house #ranking-member #energy-commerce #pharma #telecom #environment #phase-6-gavel-power
 
