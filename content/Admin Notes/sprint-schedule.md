@@ -4,7 +4,7 @@ type: admin-note
 note-type: data
 priority: normal
 status: active
-last-updated: '2026-04-14'
+last-updated: '2026-04-14-session-save-phase6-closeout'
 sprint-id: "2026-04-sprint"
 sprint-start: '2026-04-10'
 sprint-end: '2026-04-30'
@@ -1110,6 +1110,60 @@ phase_1_tasks:
       notes: |
         Two updates to content/Phases/phase-1/handoff.md: mid-session update documenting the 4 commits shipped so far + restart instructions if session ends mid-fingerprint, then end-session update with final fingerprint distribution and "next concrete action = Quartz {{src:ID}} plugin". Phase 1 now at ~55% (7 of 11 deliverables shipped). Remaining Phase 1 work: Quartz source-refs plugin, Ops /sources review page, one pipeline migration, CLAUDE.md/Vault Rules.md/Pipeline Guide.md updates, Phase 1 retrospective.
 
+    - id: cc_93
+      task: "Phase 6 sprint 6b — regression test harness (20 tests)"
+      status: done
+      completed_date: 2026-04-14
+      added_adhoc: true
+      commit: "f0966209a"
+      notes: |
+        Wrote scripts/phase-6-regression-tests.cjs using Node's built-in node:test module. 20 tests, zero extra deps, ~75ms runtime. Each test maps to a specific bug fixed in Phases 1-5 that would silently regress if a future refactor "cleaned up" the fix. Coverage: source URL normalization (3 tests), schema validator rejections across sources/entities/events/claims (7), tier hierarchy admin/researcher/anonymous/patron (4), story scorer math including recency decay curve (4), claims defamation firewall (2), heuristic class tag vocabulary labor-aligned override (1). All 20 pass clean. This is the test that would have caught the California Nurses Association "ruling-class" bug, the events "signed" outcome bug, and the FEC dedupe regression if a future refactor reintroduced them.
+
+    - id: cc_94
+      task: "Phase 6 shipped — ADR-0008 closes ADR-0003 (query engine build complete)"
+      status: done
+      completed_date: 2026-04-14
+      added_adhoc: true
+      commit: "8a4dc067b"
+      notes: |
+        Wrote content/Decisions/0008-query-engine-build-complete.md (closing ADR for the 8-phase query engine build from ADR-0003) and content/Phases/phase-6/retrospective.md. ADR-0008 enumerates what shipped (all 8 phases), what moved to ongoing maintenance (267 deferred items triage, 346 class tag approvals, Stripe activation, performance benchmarks, AIPAC legal review, git secret scan), and the honest metrics snapshot (8 canonical stores, 43,587 records, 0 failures, 20 regression tests, ADRs 0001-0008). Retrospective documents what shipped, what took longer than expected (267 deferred items was higher than the 40-60 estimate), what surprised us (zero data integrity failures = validators-at-write-time pays off), lessons (regression tests should cover bugs not modules; closing ADRs should be honest about deferred items), and tech debt introduced (regression tests not yet in CI, perf benchmarks deferred, Stripe scaffolded not activated). content/Build Phases.md updated with closed-by: ADR-0008.
+
+    - id: cc_95
+      task: "Publication-readiness gate + canonical-store sentinel"
+      status: done
+      completed_date: 2026-04-14
+      added_adhoc: true
+      commit: "af7f65a1f"
+      notes: |
+        Built scripts/publication-readiness-check.cjs — the single source of truth for "is this profile publishable." Walks profiles, enforces 6 gates: content-readiness:verified, no (URL NEEDED)/(UNVERIFIED)/(NEEDS REVIEW) markers in visible text, no strikethrough sources outside Archived section, every {{src:ID}} resolves to live/archived (not dead/generic_orphan/needs_review/paywall), every cited entity has approved class tags (not proposed), ## Class Analysis section present. Supports --folder, --file, --json, --ready-only, --verbose. Smoke-tested on /Policies: 7 BLOCKED (content-readiness not set) — honest signal. Built scripts/canonical-store-sentinel.cjs — new pre-commit sentinel that blocks any commit touching frontmatter relationship fields (related, donors, top-donors, politicians-funded, opposes, stories, *-generated) unless the commit also touches data/relationships.jsonl or a rebuilder script. Enforces the Phase 3 canonical-store write-path rule at the commit gate. Wired both new sentinels into .husky/pre-commit — hook now runs 6 sentinels instead of 4 (added canonical-store and regression-tests).
+
+    - id: cc_96
+      task: "CLAUDE.md rules 9-13 + 3 checklists + checklist index"
+      status: done
+      completed_date: 2026-04-14
+      added_adhoc: true
+      commit: "af7f65a1f"
+      notes: |
+        Added 5 new core rules to CLAUDE.md § Query Engine: rule 9 (architecturally complete ≠ publication ready — publication-readiness-check is the gate, under-construction is the default), rule 10 (canonical stores are the write path; frontmatter fields are read-caches — enforced by canonical-store-sentinel), rule 11 (class tag approval gate — no verified promotion with proposed tags), rule 12 (claim-object vs prose decision rule — AOC is the reference), rule 13 (Perplexity-first research protocol — extended from pipelines to class tags, story calibration, legal precedent). Updated active ADRs list 0001-0008 and added "Active checklists" cross-ref block. Created content/Checklists/ folder with pre-publication.md (script-enforced + human-enforced gates), new-data-store.md (ADR → schema → validator → store → TS mirror → tests → docs), new-pipeline.md (codifies Pipeline Research Protocol), README.md index.
+
+    - id: cc_97
+      task: "Perplexity prompt library + AIPAC research filing"
+      status: done
+      completed_date: 2026-04-14
+      added_adhoc: true
+      commits: ["af7f65a1f", "(pending session-save commit)"]
+      notes: |
+        Wrote content/Admin Notes/perplexity-prompt-library.md — 7 copy-paste research prompt templates (A: new pipeline cheatsheet, B: deferred items triage, C: AIPAC defamation precedent, D: class tag batch proposal, E: story score calibration, F: source URL deep triage, G: prior art check). The library is how David routes research work to Perplexity: Claude gives him a filled-in prompt, he pastes it, copies answer back. Zero Claude time, ~2 min David time per prompt. David ran Prompt C mid-session — filed the AIPAC defamation precedent output to content/Admin Notes/perplexity-research/2026-04-14-aipac-defamation-precedent.md with frontmatter + Claude TL;DR + 8 concrete action items for the AIPAC page. Headline findings: no successful AIPAC defamation suit against a journalist ever, our vocabulary (imperialist-aligned, zionist-aligned, capital_type, class_position) is protected under Milkovich, correlation framing safe/causation dangerous (already our rule), banned-word list correct, Mapping Project survived similar labels with no US lawsuits, Track AIPAC running openly since 2024, best jurisdictions CA/NY/DC/OR.
+
+    - id: cc_98
+      task: "Session State publication readiness snapshot + Last Session update + session save"
+      status: done
+      completed_date: 2026-04-14
+      added_adhoc: true
+      commit: "(pending session-save commit)"
+      notes: |
+        Updated content/Session State.md: new "Publication Readiness Snapshot" section (one-glance launch readiness table), Current Build Phase updated to reflect ADR-0008 closure and maintenance rhythm, Last Session updated with full 3-part theme (Phase 6 closeout + hardening + Perplexity integration), previous Phase 1 session moved to Previous Session slot. Sprint-schedule cc_93-cc_98 added as ad-hoc tasks for this session.
+
   research_claude:
     - id: rc_01
       task: "Write ops/CLAUDE.md (frontmatter-only + URL editor-only rules)"
@@ -1440,7 +1494,7 @@ parser_guidance:
 
 ---
 
-**Schedule last updated: 2026-04-14 (Query Engine build plan session — ADRs 0001-0004 shipped, Phase 1 Source Registry implementation ~55% complete: schema + store + extractor + fingerprint (14,681 sources all classified) + orphan report. Phase 2.75 Policy Battles locked into the phase sequence. 7 commits shipped this session. cc_85-92 added.)**
-**Current phase: phase_1 (Day 2 of 7)**
-**Next checkpoint: Phase 1 exit, 2026-04-16**
+**Schedule last updated: 2026-04-14 (Phase 6 closeout + pre-launch hardening megasession. Shipped: regression test harness (20 tests, 0 fail), ADR-0008 closing ADR-0003 (query engine build complete), Phase 6 retrospective, publication-readiness-check.cjs (the publication gate), canonical-store-sentinel.cjs (pre-commit gate for Phase 3 write path), .husky/pre-commit now 6 sentinels, 5 new CLAUDE.md core rules (9-13), 3 checklists in content/Checklists/, Perplexity prompt library with 7 templates, AIPAC defamation precedent research filed. cc_93-98 added. Query engine build architecturally complete; ongoing work is maintenance (267 deferred items triage + 346 class tag approvals + Stripe activation + AIPAC review + gitleaks scan).)**
+**Current phase: POST-BUILD — all 8 query engine phases shipped, maintenance rhythm**
+**Next checkpoint: public launch readiness (David's gate: /policies soft-launch after AIPAC review + class tag approvals + gitleaks)**
 **New data sources added 2026-04-11: FDA (pharma/device/food enforcement), OCC (national bank enforcement), FTC (mergers + historical enforcement). All three live in CI + Ops app.**

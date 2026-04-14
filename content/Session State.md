@@ -3,7 +3,7 @@ title: Session State
 type: system
 last-updated: 2026-04-14
 ---
-<!-- last session: Query Engine build plan (ADRs 0001-0004) + Phase 1 implementation: schema, store, extractor (14,681 sources), fingerprint pass complete, orphan report + Phase 2.75 Policy Battles locked -->
+<!-- last session: Phase 6 closeout (ADR-0008) + pre-launch hardening (publication-readiness-check, canonical-store sentinel, 5 new CLAUDE.md rules 9-13, 3 checklists, Perplexity prompt library) + AIPAC defamation precedent research filed -->
 
 
 # Session State
@@ -63,7 +63,77 @@ Updated every session. This is the "how close to launch" one-glance view.
 
 ## Last Session
 Claude: Code
-Date: 2026-04-14 (long planning + implementation session)
+Date: 2026-04-14 (megasession — Phase 6 closeout + pre-launch hardening)
+
+### Theme
+Massive end-to-end session spanning three phases of work in one sitting:
+
+**Part 1 — Phase 6 closeout.** Wrote the regression test harness (20 tests, ~75ms, Node's built-in `node:test`, zero deps). Each test maps to a specific bug fixed in Phases 1–5 — the California Nurses Association "ruling-class" bug, the events "signed" outcome bug, the FEC dedupe regression, etc. Wrote the Phase 6 retrospective and ADR-0008 closing ADR. ADR-0003 (the 8-phase query engine build) is now architecturally complete.
+
+**Part 2 — Pre-launch hardening.** David asked "should this go live?" and the honest answer was no — architecturally complete ≠ publication ready. Built the publication-readiness infrastructure: `scripts/publication-readiness-check.cjs` (the publication gate), `scripts/canonical-store-sentinel.cjs` (new pre-commit sentinel blocking frontmatter relationship hand-edits), wired the regression tests into the pre-commit hook. Added 5 new core rules (9–13) to CLAUDE.md. Wrote three load-bearing checklists (`content/Checklists/pre-publication.md`, `new-data-store.md`, `new-pipeline.md`). Wrote the Perplexity prompt library (7 templates) so David can run research against Perplexity and hand results back.
+
+**Part 3 — Perplexity research integration.** David ran Prompt C (AIPAC defamation precedent) against Perplexity mid-session. Filed the research into `content/Admin Notes/perplexity-research/2026-04-14-aipac-defamation-precedent.md` with TL;DR summary, risk assessment, and 8 concrete action items for the AIPAC page. Headline finding: no documented successful AIPAC defamation suit against a journalist has ever happened; our editorial firewall vocabulary is protected under Milkovich; the page is low-to-medium risk as designed.
+
+### Done — Phase 6 closeout
+- **`scripts/phase-6-regression-tests.cjs`** — 20 tests covering source URL normalization, schema validators (sources/entities/events/claims), tier hierarchy (admin/researcher/anonymous/patron), story scorer math, heuristic class tag vocabulary. Commit `f0966209a`.
+- **`content/Decisions/0008-query-engine-build-complete.md`** — closing ADR, lists metrics (8 stores, 43,587 records, 0 failures, 267 deferred items catalogued), enumerates what shipped and what moves to ongoing maintenance.
+- **`content/Phases/phase-6/retrospective.md`** — honest accounting of what got done and what's deferred, with exit-criteria table. Commit `8a4dc067b`.
+- **`content/Build Phases.md`** — marked complete, closed-by ADR-0008.
+
+### Done — Pre-launch hardening
+- **`scripts/publication-readiness-check.cjs`** — walks profiles, enforces 6 gates (readiness:verified, no URL markers, every {{src:ID}} resolves to live/archived, cited entities have approved class tags, Class Analysis section present, claim-object vs prose mode detected). Supports --folder, --file, --json, --ready-only, --verbose. Smoke-tested on /Policies: honest signal (7 BLOCKED because content-readiness not set).
+- **`scripts/canonical-store-sentinel.cjs`** — new pre-commit sentinel. Blocks hand-edits to frontmatter relationship fields (related, donors, top-donors, politicians-funded, opposes, stories, *-generated) unless the commit also touches `data/relationships.jsonl` or a rebuilder.
+- **`.husky/pre-commit`** — now runs 6 sentinels instead of 4. Added canonical-store-sentinel and phase-6-regression-tests.
+- **`CLAUDE.md`** — 5 new core rules (9–13):
+  - 9: Architecturally complete ≠ publication ready
+  - 10: Canonical stores are the write path; frontmatter is read-cache
+  - 11: Class tag approval gate before verified promotion
+  - 12: Claim-object vs prose decision rule (AOC is the reference)
+  - 13: Perplexity-first research protocol (extended from pipelines to class tags, story calibration, legal precedent)
+- **`content/Checklists/`** — new folder with 3 checklists + README index:
+  - pre-publication.md (script-enforced + human-enforced)
+  - new-data-store.md (ADR → schema → validator → store → TS mirror → tests → docs)
+  - new-pipeline.md (codifies Pipeline Research Protocol)
+- **`content/Admin Notes/perplexity-prompt-library.md`** — 7 copy-paste Perplexity templates (A–G): new pipeline cheatsheet, deferred items triage, AIPAC precedent, class tag batch, story calibration, source deep triage, prior art check.
+- **`content/Session State.md`** — new Publication Readiness Snapshot section (one-glance launch readiness).
+- Commit `af7f65a1f`.
+
+### Done — Perplexity research
+- **`content/Admin Notes/perplexity-research/2026-04-14-aipac-defamation-precedent.md`** — filed AIPAC defamation precedent research (Prompt C output). Added frontmatter + Claude TL;DR + 8 concrete action items for the AIPAC page. Key findings:
+  - AIPAC has never successfully sued a journalist for defamation
+  - Our class analysis vocabulary (imperialist-aligned, zionist-aligned, capital_type, class_position) is protected under Milkovich as editorial classification
+  - Correlation framing safe, causation framing dangerous (already our rule)
+  - Banned-word list correct (bribed/bought/corrupt/scheme/co-opted = HIGH risk)
+  - Mapping Project survived ADL injunction in Iceland with MORE aggressive labels
+  - Track AIPAC has run openly since 2024 with similar methodology, no legal action
+  - Strongest jurisdiction: CA, NY, DC, OR (anti-SLAPP)
+- Research is filed for reference — David still does personal review + optional lawyer gate per pre-publication.md
+
+### Commits this session (3 clean, all passed 6-sentinel pre-commit)
+1. `f0966209a` — Phase 6 sprint 6b regression test harness (20 tests, 0 fail)
+2. `8a4dc067b` — Phase 6 shipped, ADR-0008 closes ADR-0003, retrospective written
+3. `af7f65a1f` — Pre-launch hardening (publication gate + canonical sentinel + checklists + CLAUDE.md rules 9–13 + Perplexity prompt library)
+4. (pending) — AIPAC Perplexity research filed + session save
+
+### Known issues
+- None introduced this session. Everything committed, all pre-commit gates green, regression tests 20/20.
+
+### In progress
+Nothing. Session is clean.
+
+### Next session priorities
+1. **Run publication-readiness-check on full vault** to get baseline counts — `node scripts/publication-readiness-check.cjs --json > /tmp/readiness.json` — populate the Publication Readiness Snapshot in Session State with real numbers.
+2. **David: run Perplexity Prompt B on deferred items** filtered to legal/defamation + security/auth categories. Paste from `content/Phases/phase-6/deferred-items.md`. Expected output: ~30-50 item prioritized action list instead of 267 noise.
+3. **David: run gitleaks on full repo history** — `gitleaks detect --source . --report-path gitleaks-report.json` — before any public launch.
+4. **Class tag approval triage** — David works through `/class-tags` in Ops. Priority: any entity cited on a policy page first (they block policy publication under Rule 11).
+5. **Apply AIPAC research action items** to `content/Policies/aipac_bds.md`: add methodology page, temporal framing, anti-BDS split-jurisdiction language, Track AIPAC FAQ citation.
+6. **Soft-launch prep for `/policies`** — the recommended first public route. Run publication-readiness-check on all 5 policy pages, fix blockers, THEN remove under-construction gating for that path only.
+
+---
+
+## Previous Session
+Claude: Code
+Date: 2026-04-14 (earlier in the day — Phase 1 foundation)
 
 ### Theme
 Two-part session. Morning: riffed the query engine architecture with David and produced the full institutional-memory planning package — ADRs 0001 through 0003 defining class tag vocabulary, monetization model, and phased build plan. Afternoon: shipped Phase 1 foundation code — source registry schema, store, extractor (14,681 unique sources registered from 18,587 raw links), fingerprint pass (completed all 14,681 with classification), orphan report generator. Mid-session riff added Phase 2.75 Policy Battles as a new build phase (ADR-0004).
