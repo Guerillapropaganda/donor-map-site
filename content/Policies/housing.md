@@ -48,18 +48,25 @@ Opposition comes from **rentier-capital, finance-capital** — the capital fract
 
 | Donor | Total spend | Politicians funded |
 |---|---|---|
-| Goldman Sachs | — | 4 |
+| Goldman Sachs | — | 6 |
 | Western Growers Association | — | 1 |
 | Marc Andreessen & Horowitz | — | 2 |
+| Majority Forward | — | 1 |
 | California Farm Bureau Federation | — | 3 |
 | Bank of America | — | 2 |
 | National Republican Senatorial Committee | — | 1 |
 | Boeing | — | 4 |
 | Crypto Industry Bloc | — | 5 |
-| Google - Alphabet | — | 2 |
-| Fairshake PAC | — | 2 |
+| Google - Alphabet | — | 3 |
 
 _This list is computed from the full relationships.jsonl edge store and may shift as Phase 1 pipeline migrations populate more amount data. See [/who-blocks-us](/policies/who-blocks-us) for the cross-policy view._
+
+## Legislative history
+
+- **H.R.2725 / S.1515: Affordable Housing Credit Improvement Act (LIHTC)** (2025-07-04) — passed
+- **Washington RCW 59.18.700: Statewide rent stabilization** (2025-05-01) — passed
+- **S.1368 / H.R.2768: American Housing and Economic Mobility Act** (2021-04-23) — stalled via chair_bottled_up
+- **California AB 1482: Statewide rent increase cap** (2019-10-08) — passed
 
 ## Class analysis
 

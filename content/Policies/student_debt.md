@@ -46,18 +46,25 @@ Opposition comes from **finance-capital** — the capital fractions with a direc
 
 | Donor | Total spend | Politicians funded |
 |---|---|---|
-| Goldman Sachs | — | 4 |
+| Goldman Sachs | — | 6 |
 | Western Growers Association | — | 1 |
 | Marc Andreessen & Horowitz | — | 2 |
+| Majority Forward | — | 1 |
 | California Farm Bureau Federation | — | 3 |
 | Bank of America | — | 2 |
 | National Republican Senatorial Committee | — | 1 |
 | Boeing | — | 4 |
 | Crypto Industry Bloc | — | 5 |
-| Google - Alphabet | — | 2 |
-| Fairshake PAC | — | 2 |
+| Google - Alphabet | — | 3 |
 
 _This list is computed from the full relationships.jsonl edge store and may shift as Phase 1 pipeline migrations populate more amount data. See [/who-blocks-us](/policies/who-blocks-us) for the cross-policy view._
+
+## Legislative history
+
+- **SAVE income-driven repayment plan** (2023-08-22) — passed
+- **Biden v. Nebraska: SCOTUS strikes down broad student debt forgiveness** (2023-06-30) — passed
+- **PSLF waiver + overhaul: 715,000+ borrowers discharged** (2022-10-31) — passed
+- **Biden one-time student debt forgiveness plan (≤$20k Pell, ≤$10k non-Pell)** (2022-08-24) — failed
 
 ## Class analysis
 

@@ -47,9 +47,29 @@ function formatUsd(n) {
 
 function buildPolicyPage(policy, engine) {
   const polls = polling.getPollsForPolicy(policy.id)
-  const relatedEvents = (policy.related_events || [])
+
+  // Query events.jsonl for every event whose policy_id matches this
+  // policy — this is the canonical way to find legislative history.
+  // policy.related_events (if populated) is treated as an additional
+  // allow-list of ids to include even if their policy_id doesn't match.
+  const eventsByPolicyId = events.queryEvents({ policy_id: policy.id })
+  const explicitRelated = (policy.related_events || [])
     .map((id) => events.getEvent(id))
     .filter(Boolean)
+  const seen = new Set()
+  const relatedEvents = [...eventsByPolicyId, ...explicitRelated]
+    .filter((e) => {
+      if (!e || seen.has(e.id)) return false
+      seen.add(e.id)
+      return true
+    })
+    // Sort by date descending, null dates at the end
+    .sort((a, b) => {
+      if (!a.date && !b.date) return 0
+      if (!a.date) return 1
+      if (!b.date) return -1
+      return b.date.localeCompare(a.date)
+    })
 
   // Compute top opposition donors for this policy by filtering events
   // through the query engine with the policy's sector mapping

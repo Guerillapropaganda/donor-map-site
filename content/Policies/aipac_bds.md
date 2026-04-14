@@ -60,18 +60,24 @@ Opposition comes from **finance-capital, tech-monopoly, rentier-capital** — th
 
 | Donor | Total spend | Politicians funded |
 |---|---|---|
-| Goldman Sachs | — | 4 |
+| Goldman Sachs | — | 6 |
 | Western Growers Association | — | 1 |
 | Marc Andreessen & Horowitz | — | 2 |
+| Majority Forward | — | 1 |
 | California Farm Bureau Federation | — | 3 |
 | Bank of America | — | 2 |
 | National Republican Senatorial Committee | — | 1 |
 | Boeing | — | 4 |
 | Crypto Industry Bloc | — | 5 |
-| Google - Alphabet | — | 2 |
-| Fairshake PAC | — | 2 |
+| Google - Alphabet | — | 3 |
 
 _This list is computed from the full relationships.jsonl edge store and may shift as Phase 1 pipeline migrations populate more amount data. See [/who-blocks-us](/policies/who-blocks-us) for the cross-policy view._
+
+## Legislative history
+
+- **United Democracy Project (AIPAC super PAC): $100M 2024 cycle spending** (2024-11-05) — passed
+- **NY-16 Democratic primary: Jamaal Bowman defeat (UDP $14.9M)** (2024-06-25) — passed
+- **Arkansas Times LP v. Waldrip (8th Circuit): anti-BDS law upheld** (2022-06-22) — passed
 
 ## Class analysis
 

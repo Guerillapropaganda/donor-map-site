@@ -48,18 +48,25 @@ Opposition comes from **pharma-capital, finance-capital** — the capital fracti
 
 | Donor | Total spend | Politicians funded |
 |---|---|---|
-| Goldman Sachs | — | 4 |
+| Goldman Sachs | — | 6 |
 | Western Growers Association | — | 1 |
 | Marc Andreessen & Horowitz | — | 2 |
+| Majority Forward | — | 1 |
 | California Farm Bureau Federation | — | 3 |
 | Bank of America | — | 2 |
 | National Republican Senatorial Committee | — | 1 |
 | Boeing | — | 4 |
 | Crypto Industry Bloc | — | 5 |
-| Google - Alphabet | — | 2 |
-| Fairshake PAC | — | 2 |
+| Google - Alphabet | — | 3 |
 
 _This list is computed from the full relationships.jsonl edge store and may shift as Phase 1 pipeline migrations populate more amount data. See [/who-blocks-us](/policies/who-blocks-us) for the cross-policy view._
+
+## Legislative history
+
+- **CMS Medicare drug negotiation round 1: 10 drugs (Eliquis, Jardiance, Xarelto, etc.)** (2024-08-15) — passed
+- **Inflation Reduction Act: Medicare drug negotiation provisions** (2022-08-16) — passed
+- **H.R.1976: Medicare for All Act (Jayapal)** (2021-03-17) — stalled via chair_bottled_up
+- **S.1129: Medicare for All Act (Sanders)** (2019-04-10) — stalled via chair_bottled_up
 
 ## Class analysis
 

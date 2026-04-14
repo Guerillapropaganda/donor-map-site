@@ -49,18 +49,24 @@ Opposition comes from **retail-monopoly, agribusiness-capital, tech-monopoly** �
 
 | Donor | Total spend | Politicians funded |
 |---|---|---|
-| Goldman Sachs | — | 4 |
+| Goldman Sachs | — | 6 |
 | Western Growers Association | — | 1 |
 | Marc Andreessen & Horowitz | — | 2 |
+| Majority Forward | — | 1 |
 | California Farm Bureau Federation | — | 3 |
 | Bank of America | — | 2 |
 | National Republican Senatorial Committee | — | 1 |
 | Boeing | — | 4 |
 | Crypto Industry Bloc | — | 5 |
-| Google - Alphabet | — | 2 |
-| Fairshake PAC | — | 2 |
+| Google - Alphabet | — | 3 |
 
 _This list is computed from the full relationships.jsonl edge store and may shift as Phase 1 pipeline migrations populate more amount data. See [/who-blocks-us](/policies/who-blocks-us) for the cross-policy view._
+
+## Legislative history
+
+- **H.R.4889: Raise the Wage Act of 2023** (2023-07-25) — stalled via chair_bottled_up
+- **Parliamentarian ruling: $15 minimum wage ineligible for reconciliation** (2021-02-25) — failed via procedural_kill
+- **H.R.603: Raise the Wage Act of 2021** (2021-01-26) — stalled via chair_bottled_up
 
 ## Class analysis
 
