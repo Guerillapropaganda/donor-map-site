@@ -39,7 +39,7 @@ known-gaps:
 related: >-
   [[_Donald Trump Master Profile]] · [[_Jon Ossoff Master Profile]] ·
   [[Fairshake PAC]] · [[AIPAC - American Israel Public Affairs Committee]] ·
-  [[David Sacks Master Profile]]
+  [[David Sacks Master Profile]] · [[Howard Lutnick Master Profile]]
 ---
 #mike-collins #republican #senate-candidate #georgia #crypto-trader #aipac #immigration #trump-ally #2026-race #class-analysis #follow-the-money
 
