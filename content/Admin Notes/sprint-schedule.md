@@ -1184,6 +1184,78 @@ phase_1_tasks:
       notes: |
         ops/src/app/api/connections/route.ts full rewrite. Replaces frontmatter walker with loadEdges() from ops/src/lib/relationships-store.ts. Response shape preserved 1:1 so the 1,477-line /relationships page, RelatedProfiles dashboard widget, and any future ops consumers work unchanged. New mapToLegacyType() translates Phase 3 10-type enum back to legacy 4-value enum (monetary→donors, political-opposition→opposes, story-link→stories, related→related). New flipForLegacy() flips monetary edge endpoints (JSONL stores donor→politician, legacy API expected politician's view of its donors: field). New buildProfileMetadataMap() walks content/ once to build title→path/type/mtime map (path metadata is profile-level, not edge-level). Live preview_eval on localhost:3333 confirmed 19,357 connections (up from ~13k old walker), breakdown 16,442 related / 928 donors / 47 opposes / 1,940 stories (stories up from ~17 — discovery-scanner's wikilink-proximity edges now visible to every ops consumer), unconnectedCount 50 (down from ~600). /relationships page rendered cleanly, headline "19357 connections across the vault", all breakdown chips correct, Recent Connections shows discovery-scanner findings like "Koch Network funds 3 Judiciary committee members → Jim Jordan/Ted Cruz/Mike Lee" that the old walker could never see. Phase 3 Part 3b (POST/DELETE retarget) and Part 4 (Quartz component migration) remain. Response gains source:"phase3-part3-jsonl" marker.
 
+    - id: cc_99
+      task: "Query engine planning session — ADRs 0001-0003 + institutional memory docs"
+      status: done
+      completed_date: 2026-04-14
+      added_adhoc: true
+      commit: "e3626410a"
+      notes: |
+        Long riff session with David produced the full query engine + source registry + class tags build plan. Shipped: content/Class Tag Vocabulary.md (locked 5-dimension schema — capital_type, class_position, ideological_function, worker_relationship, policy_stakes — with 16 capital types, 5 class positions, 20 ideological functions, 7 worker relationships, plus politician mirror vocabulary and worked examples for Chevron/CoreCivic/Koch/AFT/Amazon/AOC/Manchin/Ted Cruz). content/Monetization Model.md ("facts free, labor paid" tier structure — Free, Free-auth 5/day, Researcher $20/mo, Newsroom $150/mo, Patron $500 one-time, Clerk+Stripe, non-negotiable free list locked). content/Build Phases.md (6 sequential phases with exit criteria per phase). content/Phases/phase-1/ folder (handoff, exit-criteria, decisions). content/Decisions/0001-0003 ADRs. .claude/skills/phase-transition/SKILL.md (ceremony for phase boundaries). The planning package is the institutional-memory foundation for the entire query engine build.
+
+    - id: cc_100
+      task: "Source registry schema + store (sources-schema.cjs + sources-store.cjs)"
+      status: done
+      completed_date: 2026-04-14
+      added_adhoc: true
+      commit: "e3626410a"
+      notes: |
+        scripts/lib/sources-schema.cjs — schema definition, validator, URL normalization for dedupe (lowercase host, strip www, strip tracking params utm_*/fbclid/gclid, normalize trailing slash). 8 status enums (unverified/live/dead/redirected/generic_orphan/archived/needs_review/paywall), 14 source types, tier enum [null,1,2,3,4]. scripts/lib/sources-store.cjs — reader/writer API following relationships-store.cjs pattern. Lazy load, in-memory URL + ID indexes, append-only JSONL, rewrite-whole-file persistence. API: loadSources, clearSourcesCache, getSource, findByUrl, addOrFindSource (creates or dedupes), updateSource, updateStatus, querySources, countSources. 10/10 smoke tests passed covering add, dedupe-by-normalized-URL, get, update, status transition, query filter, count, disk reload, schema rejection of bad records.
+
+    - id: cc_101
+      task: "Source extractor — walk vault, populate registry from markdown links"
+      status: done
+      completed_date: 2026-04-14
+      added_adhoc: true
+      commit: "778e2cf2d"
+      notes: |
+        scripts/extract-sources-from-vault.cjs walks content/**/*.md with a conservative markdown link regex, classifies each URL by host (100+ classification rules across government_primary/government_secondary/court_record/news_major/news_regional/investigative/academic/aggregator/advocacy/trade_press/social/archive/company_direct), and registers via sources-store.addOrFindSource. Handles Windows illegal-char directories gracefully (try/catch on readdirSync). Strikethrough wrappers (~~[text](url)~~) auto-mark status=archived. Full-vault run: 2,384 files scanned, 1,716 with links, 18,587 raw links found, 14,681 unique sources registered, 3,906 deduped across profiles (21% citation reuse rate), 3,317 pre-archived via strikethrough, 0 malformed. 29% of links classified as "other" — will be reclassified in Ops /sources UI later.
+
+    - id: cc_102
+      task: "Source fingerprinter — fetch, hash, classify, bot-block detection"
+      status: done
+      completed_date: 2026-04-14
+      added_adhoc: true
+      commits: ["d6c6e64ce", "1881536ea"]
+      notes: |
+        scripts/sources-fingerprint.cjs fetches each URL with 15s timeout, captures final URL after redirects, extracts <title>, strips HTML+nav+header+footer+script+style and SHA-256 hashes first 5000 chars of main text, classifies as live/dead/redirected/generic_orphan/needs_review/paywall. Promise pool concurrency 8 (configurable). CLI flags: --limit, --host, --status, --concurrency, --verbose. Resumable — only processes status=unverified by default. Mid-run discovery: first pass was mis-classifying Cloudflare-protected sites (Bloomberg, Forbes, Reuters, WSJ) as dead based on HTTP 403 or challenge page responses. Fixed with new BOT_BLOCK_TITLE_RE catching "Just a moment...", "Are you a robot?", "Access Denied", "Verify you are human" and BOT_BLOCK_BODY_RE catching Cloudflare Ray IDs, __cf_chl markers, "checking your browser". HTTP 403 specifically reclassified from dead to needs_review since it's almost always anti-scraping not a 404. Paywall check moved before fetch so we skip hitting known paywall hosts entirely (NYT, WSJ, WaPo, Bloomberg, FT, Economist, NYer, Atlantic).
+
+    - id: cc_103
+      task: "Full fingerprint pass over all 14,681 sources"
+      status: done
+      completed_date: 2026-04-14
+      added_adhoc: true
+      commit: "6b715e530"
+      notes: |
+        Ran fingerprint pass across every unverified source. Interrupted at ~89% during session, resumed cleanly (the script is idempotent on status=unverified) and finished the last 45 stragglers in 17 seconds. Final classification distribution: 9,555 live (65%), 3,317 archived (pre-existing strikethrough), 1,041 needs_review (bot-blocked — the classifier fix working), 539 dead (genuine fetch failures), 135 paywall, 52 redirected, 42 generic_orphan, 0 unverified. The needs_review bucket is the largest flagged category and validates the bot-block fix — these would have been false-dead before.
+
+    - id: cc_104
+      task: "Orphan citation report generator + first report"
+      status: done
+      completed_date: 2026-04-14
+      added_adhoc: true
+      commits: ["1881536ea", "6b715e530"]
+      notes: |
+        scripts/sources-orphan-report.cjs reads the registry, groups flagged sources (dead/generic_orphan/needs_review/optionally redirected) by entity_ref, sorts by count, writes markdown report with frontmatter to content/Admin Notes/orphan-citations-report.md. Each entry shows [status] src_id original_url [→ canonical if redirected] "title". Generated first full report: 1,622 flagged sources across 784 entities (11.0% of registry). Ready for David's triage in Ops /sources UI when that lands in a later Phase 1 session.
+
+    - id: cc_105
+      task: "Phase 2.75 Policy Battles planning (ADR-0004)"
+      status: done
+      completed_date: 2026-04-14
+      added_adhoc: true
+      commit: "9fac02d5e"
+      notes: |
+        Mid-session riff with David on the Policy Battles concept (ChatGPT thread seeded). Core insight: a policy page is NOT a new content type. It's a stored query over relationships.jsonl + events.jsonl + sources.jsonl plus a one-paragraph editorial blurb. Cuts build cost from "15 profiles to maintain" to "one template + 5 paragraphs + OG card plugin." Created ADR-0004 (content/Decisions/0004-phase-2-75-policy-battles.md) with full scope: 5 v1 policies (housing/healthcare/AIPAC-BDS/minimum wage/student debt), /who-blocks-us cross-policy enemy list, OG card generation mandatory, contradiction callouts, AIPAC editorial firewall locked (banned words "bought/co-opted/bribed/corrupt/scheme" in prose, facts-only juxtaposition, class tags carry opinion weight via structured metadata, AIPAC described precisely as "US-based 501(c)(4)..."). Updated content/Build Phases.md to insert Phase 2.75 between Phase 2 and Phase 2.5 (so policy pages ship BEFORE auth gating lands — they're non-negotiable free per ADR-0002). Updated ADR-0003 with forward reference to ADR-0004. Created content/Phases/phase-2.75/ folder with handoff, exit-criteria, decisions. Events.jsonl schema in Phase 2 must bake in policy_id and obstruction_type fields — obstruction_type captures procedural kills (filibusters, chair bottling, pocket vetoes) which are often more important than floor votes because invisible to the public.
+
+    - id: cc_106
+      task: "Phase 1 handoff updates for clean session pickup"
+      status: done
+      completed_date: 2026-04-14
+      added_adhoc: true
+      commits: ["39e167d9a", "6b715e530"]
+      notes: |
+        Two updates to content/Phases/phase-1/handoff.md: mid-session update documenting the 4 commits shipped so far + restart instructions if session ends mid-fingerprint, then end-session update with final fingerprint distribution and "next concrete action = Quartz {{src:ID}} plugin". Phase 1 now at ~55% (7 of 11 deliverables shipped). Remaining Phase 1 work: Quartz source-refs plugin, Ops /sources review page, one pipeline migration, CLAUDE.md/Vault Rules.md/Pipeline Guide.md updates, Phase 1 retrospective.
+
   research_claude:
     - id: rc_01
       task: "Write ops/CLAUDE.md (frontmatter-only + URL editor-only rules)"
@@ -1514,7 +1586,7 @@ parser_guidance:
 
 ---
 
-**Schedule last updated: 2026-04-14 (Relationship engine audit + vault cleanup, cc_85-98 added: deploy unblocker, dual-write approve flow, 130-approval backfill, 22 aliases + 39 PAC stubs, priority disambiguation, writeAndPush retry, em dash strip (20,105), Master Profile title strip (612), 8 duplicate entity cases resolved. 3 deploys, all green.)**
+**Schedule last updated: 2026-04-14 (Two parallel Code sessions — Session A: Relationship engine audit + vault cleanup, cc_85-98 added (deploy unblocker, dual-write approve flow, 130-approval backfill, 22 aliases + 39 PAC stubs, priority disambiguation, writeAndPush retry, em dash strip 20,105, Master Profile title strip 612, 8 duplicate entity cases, 3 deploys all green). Session B: Query Engine build plan — ADRs 0001-0004 shipped, Phase 1 Source Registry implementation ~55% complete (schema + store + extractor + fingerprint pass on 14,681 sources all classified + orphan report). Phase 2.75 Policy Battles locked into the phase sequence. cc_99-106 added. 7 commits shipped.)**
 **Current phase: phase_1 (Day 5 of 7)**
 **Next checkpoint: Phase 1 exit, 2026-04-16**
 **New data sources added 2026-04-11: FDA (pharma/device/food enforcement), OCC (national bank enforcement), FTC (mergers + historical enforcement). All three live in CI + Ops app.**

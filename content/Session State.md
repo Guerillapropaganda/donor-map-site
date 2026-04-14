@@ -3,7 +3,8 @@ title: Session State
 type: system
 last-updated: 2026-04-14
 ---
-<!-- last session: Relationship engine audit + vault cleanup: CA Farm Bureau deploy unblock, dual-write approve flow, 130-approval backfill, 22 aliases + 39 PAC stubs, em dash strip (20k removed), 612 Master Profile title strip, 8 duplicate entity cases resolved. 3 deploys, all green. -->
+<!-- last session: TWO parallel Code sessions on 2026-04-14 — (1) Relationship engine audit + vault cleanup (CA Farm Bureau deploy unblock, dual-write approve flow, 130-approval backfill, 22 aliases + 39 PAC stubs, em dash strip, 612 Master Profile title strip, 8 duplicate entity cases). (2) Query Engine build plan (ADRs 0001-0004) + Phase 1 implementation (schema, store, extractor 14,681 sources, fingerprint pass complete, orphan report, Phase 2.75 Policy Battles locked). -->
+
 
 
 # Session State
@@ -12,20 +13,36 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 
 ---
 
+## Current Build Phase
+
+**Phase:** 1 — Source Registry + Generic-Link Cleanup
+**Status:** 🔨 in-progress (~55% complete)
+**Handoff doc:** `content/Phases/phase-1/handoff.md`
+**Next concrete action:** Write Quartz plugin for `{{src:ID}}` ref resolution (`quartz/plugins/transformers/source-refs.ts` + `quartz/util/sources-store.ts` TS mirror)
+**Blockers:** none
+**Authority:** ADR-0003 (Phased Query Engine Build)
+
+---
+
 ## Last Session
+Claude: Code (TWO parallel sessions ran on 2026-04-14 — see "Session A" and "Session B" below)
+
+---
+
+### Session A — Relationship engine audit + vault cleanup
 Claude: Code
 Date: 2026-04-14
 
-### Theme
+#### Theme
 Relationship engine audit triggered by duplicate React key error in the Ops activity feed after David's bulk approval session. What looked like a UI bug uncovered a structural problem (approve flow bypassing the canonical edge store) plus the root cause of a deploy-break on CA Farm Bureau Federation (pipeline/ops race condition). Fixed both, then David asked to extend the audit vault-wide. Three deploys, all green.
 
-### Done — Deploy unblocker + relationship engine dual-write
+#### Done — Deploy unblocker + relationship engine dual-write
 - **Resolved merge-conflict markers in `content/Donors & Power Networks/Agriculture/CA Farm Bureau Federation.md`** (unresolved `<<<<<<< HEAD` blocking GH Actions build 24409280227). Commit `17d3f2ba`.
 - **Fixed duplicate React key bug** in `ops/src/app/api/activity/route.ts` — `sug-` ids were truncated to 20 chars, collapsing all "Mike Collins Master → X" approvals onto one key. 16 collisions in suggestion-actions.json. Commit `9565720f`.
 - **Refactored `/api/suggestions` approve flow to dual-write** — pre-fix, 130 approvals landed only in frontmatter; canonical `data/relationships.jsonl` had 1 manual-ops edge. Post-fix, approvals run `buildEdge → upsertEdge` before the frontmatter write, mirroring `/api/relationships` POST. Shared helpers (`legacyToPhase3Type`, `endpointsForLegacyWrite`, `LEGACY_RELATIONSHIP_TYPES`) extracted into `ops/src/lib/relationships-store.ts`.
 - **Backfilled 130 historic approvals** via `scripts/backfill-suggestion-approvals-to-jsonl.cjs` (idempotent, dedupes by edge id). Commit `1f014b53`.
 
-### Done — Relationship engine cleanup (aliases, stubs, disambiguation, race-retry)
+#### Done — Relationship engine cleanup (aliases, stubs, disambiguation, race-retry)
 - **Priority-based disambiguation in `buildTitleIndex`** (`scripts/lib/relationship-edge-validator.cjs`): canonicality score is `politician > entity > donor > story > event > meta`, archive-path penalty, file-size tiebreaker. 18 ambiguous vault titles → 0 without touching any profile file.
 - **`aliases:` frontmatter field support** in `buildTitleIndex` — profiles can claim alt names; real titles always beat aliases on collision.
 - **22 existing profiles gained aliases** via `scripts/add-pac-aliases.cjs` (Club for Growth, Congressional Leadership Fund, Senate Leadership Fund, SMP, AFP, SEIU, AFSCME, DMFI, DSCC, NAR, Fairshake, MAGA Inc, US Chamber, Freedom Partners, and more).
@@ -34,7 +51,7 @@ Relationship engine audit triggered by duplicate React key error in the Ops acti
 - **Conflict-retry in `writeAndPush`** (`ops/src/lib/local-write.ts`): on push rejection, `git pull --rebase`, retry up to 3x. On rebase conflict (pipeline raced us to the same file), `rebase --abort` + `reset --hard origin/v4` + re-write our bytes + re-commit. This is the fix that would have prevented the CA Farm Bureau deploy break. Commit `3a3390bb`.
 - **Second backfill run**: 130/130 edges in canonical store. 30 new monetary edges added (previously rejected for missing amount), 100 matched existing records, 0 skipped, 0 invalid.
 
-### Done — Vault audit cleanup (em dashes, Master Profile, duplicate entities)
+#### Done — Vault audit cleanup (em dashes, Master Profile, duplicate entities)
 - **Em dashes stripped vault-wide** — `20,105` em dashes removed via extended `scripts/strip-em-dashes.cjs --all` (processes every profile, strips body + visible frontmatter + `> [!callout]` lines). Intentionally preserved: external news blockquotes (2,582), fenced code (175), `<!-- auto: -->` blocks (7,245), `internal-notes` frontmatter (23, pipeline logs), `content/Vault Maintenance/` archive (24,244). Residual live body em dashes: **0**. Fixed multiline-YAML safety bug in the strip logic (skips fields whose name ends in `-notes` to avoid mangling pipeline logs).
 - **Fixed `ops/src/app/api/urls/save/route.ts`** — URL archive marker now uses `,` instead of `—` (`(was Tier N, URL broken, archived by Ops)`). Unarchive regex is format-agnostic.
 - **"Master Profile" suffix stripped from 612 profile titles** via `scripts/strip-master-profile-title-suffix.cjs`. Files left alone (renaming would break `[[_X Master Profile]]` wikilinks; `normalizeTitle` already strips the suffix at lookup time). Title index unchanged.
@@ -44,14 +61,14 @@ Relationship engine audit triggered by duplicate React key error in the Ops acti
 - **Vault audit report** written to `content/Admin Notes/vault-audit-2026-04-14.md` with flagged follow-ups.
 - Commit `ae5d81dab`. Deploy run `24412461910` ✓.
 
-### Done — Audit findings (flagged, not auto-fixed)
+#### Done — Audit findings (flagged, not auto-fixed)
 - **Banned AI vocabulary**: 270 instances across live profile bodies. Not auto-replaced (context-sensitive — "significantly" × 125, "ultimately" × 78, "notably" × 42 dominant). Top 10 densest files listed in the admin note for Research Claude.
 - **URL issues** (Editor-only per CLAUDE.md URL rule, David handles):
   - 47 profiles still reference dead `followthemoney.org` links
   - 18 profiles have inline `[Source: OpenSecrets]` without real URLs
   - 15 profiles have `(URL NEEDED)` markers
 
-### Post-audit state
+#### Post-audit state
 - Vault YAML errors: **0**
 - Merge conflict markers in vault: **0**
 - Title index: 2,464 entries, **0** ambiguous
@@ -59,16 +76,16 @@ Relationship engine audit triggered by duplicate React key error in the Ops acti
 - Live body em dashes: **0**
 - `_ Master Profile` title suffixes: **0**
 
-### In progress
+#### In progress
 - None — all committed.
 
-### Known issues
+#### Known issues
 - **270 banned-vocab instances in live bodies** — context-sensitive cleanup, Research Claude's lane
 - **39 new PAC stub profiles need editorial content** — class analysis, donor network, politicians funded. Tracked via `content-readiness: raw` / `editorial-status: stub`.
 - **David Sacks and JB Pritzker** still have two profiles each (politician master + `(Donor Network)` variant). Research Claude body-merge would let the donor variant be deleted.
 - **LobbyView, FIT21/GENIUS voice-vote gap, House committee assignment gap, 47% House ticker rate** — all carried over from the Capitol Trades session and not worked on today.
 
-### Next session priorities
+#### Next session priorities (Session A)
 1. **Research Claude**: body-merge David Sacks and JB Pritzker `(Donor Network)` profiles into the politician master profiles, then delete the donor variants.
 2. **Research Claude**: clean 270 banned-vocab instances starting with the top 10 files in the audit report.
 3. **Research Claude**: 39 new PAC stubs need full editorial content — they'll surface in `/attention` via promotion-candidate-queue.
@@ -76,11 +93,73 @@ Relationship engine audit triggered by duplicate React key error in the Ops acti
 5. **Code Claude**: check the Capitol Trades 10-strategy re-run results (carried from 2026-04-12).
 6. **Code Claude**: port Capitol Trades analysis tabs to live Quartz site at `/interactive/capitol-trades` (carried from 2026-04-12).
 
-### Session end state
+#### Session A end state
 - **3 commits + 3 deploys, all green** (runs 24410325193, 24410987603, 24412461910)
 - **Latest commit:** `ae5d81dab` (Vault audit cleanup)
 - **Files changed across the session**: 1,953 (68 relationship engine + 1,885 vault audit)
 - **Canonical store**: 27,595 edges, 130/130 historic approvals reconciled
+
+---
+
+### Session B — Query Engine build plan + Phase 1 implementation
+Claude: Code
+Date: 2026-04-14 (long planning + implementation session)
+
+#### Theme
+Two-part session. Morning: riffed the query engine architecture with David and produced the full institutional-memory planning package — ADRs 0001 through 0003 defining class tag vocabulary, monetization model, and phased build plan. Afternoon: shipped Phase 1 foundation code — source registry schema, store, extractor (14,681 unique sources registered from 18,587 raw links), fingerprint pass (completed all 14,681 with classification), orphan report generator. Mid-session riff added Phase 2.75 Policy Battles as a new build phase (ADR-0004).
+
+#### Done — Planning / Institutional Memory (ADRs 0001-0004)
+- **ADR-0001 Class Tag Vocabulary** — locked 5-dimension schema (`capital_type`, `class_position`, `ideological_function`, `worker_relationship`, `policy_stakes`) with 16 capital types, 5 class positions, 20 ideological functions, 7 worker relationships. Mirror vocabulary for politicians. Full worked examples for Chevron, CoreCivic, Koch/Donors Trust, AFT, Amazon, AOC, Manchin, Ted Cruz.
+- **ADR-0002 Monetization Model** — "facts free, labor paid" tier structure. Free (anonymous) → Free-auth (5 queries/day) → Researcher $20/mo → Newsroom $150/mo → Patron $500 one-time. Clerk auth + Stripe. Non-negotiable free list locked.
+- **ADR-0003 Phased Query Engine Build** — 6 sequential phases with exit criteria per phase and phase-transition ceremony.
+- **ADR-0004 Phase 2.75 Policy Battles** (mid-session addition) — 5 policy pages + `/who-blocks-us` enemy list + OG card generation. AIPAC editorial firewall locked (banned words, facts-only prose, class tags carry opinion weight via structured metadata).
+- `content/Class Tag Vocabulary.md`, `content/Monetization Model.md`, `content/Build Phases.md` created as vault docs
+- `content/Phases/phase-1/` folder: handoff.md, exit-criteria.md, decisions.md
+- `content/Phases/phase-2.75/` folder: handoff.md, exit-criteria.md, decisions.md
+- `.claude/skills/phase-transition/SKILL.md` — ceremony for phase boundaries
+
+#### Done — Phase 1 Code (7 of 11 deliverables, ~55% complete)
+- **`scripts/lib/sources-schema.cjs`** — schema, validator, URL normalization (dedupes `www`, trailing slash, utm params, case). 8 status enums, 14 source types, tier enum.
+- **`scripts/lib/sources-store.cjs`** — reader/writer API following `relationships-store.cjs` pattern. Lazy-loaded, in-memory URL + ID indexes, append-only JSONL. 10/10 smoke tests passed (add, dedupe-by-normalized-URL, get, update, query, count, disk reload, schema rejection).
+- **`scripts/extract-sources-from-vault.cjs`** — walks `content/**/*.md`, pulls markdown links with conservative regex, classifies by host (100+ rules across gov/news/aggregator/advocacy/academic/archive), registers via `addOrFindSource`. Full-vault run: 2,384 files scanned, 18,587 raw links found, 14,681 unique sources registered, 3,906 deduped (21% citation reuse), 0 malformed.
+- **`scripts/sources-fingerprint.cjs`** — fetches each URL with 15s timeout, captures final URL after redirects, extracts `<title>`, strips HTML/nav/header/footer/script/style, hashes main text (SHA-256), classifies as live/dead/redirected/generic_orphan/needs_review/paywall. Promise pool concurrency 8. Fixed mid-run after first pass misclassified Cloudflare-protected sites (Bloomberg, Forbes, Reuters) as dead — new `BOT_BLOCK_TITLE_RE` and `BOT_BLOCK_BODY_RE` catch "Just a moment...", "Are you a robot?", Cloudflare Ray IDs, `__cf_chl` markers. HTTP 403 reclassified as `needs_review`.
+- **`scripts/sources-orphan-report.cjs`** — reads registry, groups flagged sources by entity, writes sorted report to `content/Admin Notes/orphan-citations-report.md`.
+- **`data/sources.jsonl`** — 14,681 sources, all classified (zero unverified). 9,555 live / 3,317 archived / 1,041 needs_review / 539 dead / 135 paywall / 52 redirected / 42 generic_orphan.
+- **`content/Admin Notes/orphan-citations-report.md`** — 1,622 flagged sources across 784 entities (11.0% of registry), sorted by entity most-flagged first. Ready for David's triage.
+
+#### Commits (7, all clean, all passed pre-commit gate)
+1. `e3626410a` — Phase 1 foundation (docs + schema + store + ADRs 0001-0003 + phase-transition skill)
+2. `778e2cf2d` — Source extractor + full-vault population (14,681 unique)
+3. `d6c6e64ce` — Fingerprint script v1
+4. `1881536ea` — Bot-block classifier fix + orphan report script
+5. `39e167d9a` — Phase 1 handoff mid-session update
+6. `9fac02d5e` — Phase 2.75 Policy Battles planning (ADR-0004)
+7. `6b715e530` — Fingerprint pass complete + orphan report generated
+
+#### Known issues (Session B)
+- **Main repo v4 was diverged at session start** — 34 local vs 7 remote. Session A resolved this during the day (see Session A block above). No longer blocking.
+- **Windows illegal-char directories** — `content/Events/Drafts/` has trailing-space dirs. Extractor handles gracefully with try/catch.
+- **Transient file-lock warnings** — the background fingerprint race'd with git commits once; single source (src_002783 wbur.org, src_010098 lda.senate.gov) failed to persist but didn't crash. Negligible loss.
+- **29% "other" source_type** — 5,341 links don't match any host classification rule. Not a bug; David can reclassify in Ops `/sources` UI later. Fingerprinting doesn't depend on classification.
+- **1,041 needs_review** — largest flagged category. These are Cloudflare/Bloomberg/Forbes/Reuters bot-blocked pages that load fine for humans but our fetcher can't verify. Validates the bot-block fix (would have been false-dead before).
+
+#### In progress
+Nothing. All session work is committed. Fingerprint pass is complete.
+
+#### Next session priorities (Session B)
+1. **Quartz `{{src:ID}}` plugin** — `quartz/plugins/transformers/source-refs.ts` + `quartz/util/sources-store.ts` TS mirror. Read-only at build time. Matches `{{src:src_000123}}` and replaces with `[title](canonical_url)` markdown.
+2. **Test profile conversion** — pick 3 profiles with known sources, replace markdown links with `{{src:ID}}` refs, verify Quartz build renders correctly.
+3. **Ops `/sources` review page** — Next.js page reading `sources.jsonl`, filter by status/tier/entity, one-click re-fetch, bulk status change.
+4. **Pipeline migration** — migrate one enrichment pipeline (FEC or Congress.gov) to write through `sources-store.cjs` instead of embedding raw URLs in profile bodies.
+5. **Documentation updates** — CLAUDE.md (Query Engine + Source Registry discipline sections), Vault Rules.md (Structured Data Layer section), Pipeline Guide.md (sources-store integration section).
+6. **Phase 1 retrospective** — write and run `phase-transition` skill to move to Phase 2.
+
+#### Session B end state
+- **7 commits, all clean**
+- **Latest commit:** `6b715e530` (fingerprint pass complete + orphan report)
+- **Registry:** 14,681 sources all classified, 1,622 flagged for triage
+- **Phase 1 progress:** ~55% (7 of 11 deliverables)
+- **Build plan state:** 7 phases locked in (Phase 1 → Phase 2 → Phase 2.75 → Phase 2.5 → Phase 3 → Phase 4 → Phase 5)
 
 ---
 
