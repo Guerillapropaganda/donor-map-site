@@ -29,7 +29,7 @@ related: >-
   [[Teamsters - International Brotherhood of Teamsters]] · [[Crypto Industry
   Bloc]] · [[_JD Vance Master Profile]] · [[Ohio Federation of Teachers]] ·
   [[Bernie Moreno]] · [[Frank Pallone]] · [[Mark Takano]] · [[Pete Aguilar]] ·
-  [[Debbie Stabenow Master Profile]]
+  [[Debbie Stabenow Master Profile]] · [[Gary Peters Master Profile]]
 editorial-review-date: '2026-04-08'
 editorial-reviewer: Research Claude
 editorial-result: block
