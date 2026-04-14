@@ -10,22 +10,23 @@ last-updated: 2026-04-14
 
 ## Current state
 
-**Schema + writer + extractor + fingerprint + orphan report all shipped this session.** Registry populated with 14,681 unique sources. Fingerprint pass running (or just finished — check `data/sources.jsonl` `status` distribution). Session is ~45% of Phase 1 deliverables complete.
+**Schema + writer + extractor + fingerprint + orphan report all shipped this session. Fingerprint pass COMPLETE.** Registry populated with 14,681 unique sources, all classified. Session is ~55% of Phase 1 deliverables complete.
 
-### What's running when you read this
-If the session was saved mid-fingerprint, check for the background task. The fingerprint pass processes ~11,000 unverified sources at ~11/s, so a full run takes roughly 16–20 minutes. It is safe to kill and resume (it only re-processes `status=unverified`).
+### Final source distribution (all 14,681 classified)
+- **9,555 live** (65%)
+- **3,317 archived** (pre-existing strikethrough from extraction)
+- **1,041 needs_review** (bot-blocked, Cloudflare challenges, HTTP 403 — the bot-block classifier fix working as designed)
+- **539 dead** (genuine fetch failures, 404s, DNS failures)
+- **135 paywall** (NYT, WSJ, WaPo, Bloomberg, FT, Economist, New Yorker, Atlantic)
+- **52 redirected** (host changed under us)
+- **42 generic_orphan** (200 OK but landed on homepage/search — David's "generic links" problem)
+- **0 unverified** (fingerprint pass complete)
+
+### Orphan report status
+`content/Admin Notes/orphan-citations-report.md` generated — 1,622 flagged sources across 784 entities, 11.0% of registry. Sorted by entity (most-flagged first). Ready for David's triage in Ops `/sources` when that UI lands.
 
 ## Exactly where to pick up
 
-### If the fingerprint run has NOT finished
-```bash
-node scripts/sources-fingerprint.cjs           # resumes on unverified only
-node scripts/sources-orphan-report.cjs         # generates triage report
-git add data/sources.jsonl content/Admin\ Notes/orphan-citations-report.md
-git commit -m "Phase 1 — finish fingerprint pass, generate orphan report"
-```
-
-### If the fingerprint run HAS finished and orphan report exists
 **Next concrete action:** write the Quartz plugin for `{{src:ID}}` ref resolution. Location: `quartz/plugins/transformers/source-refs.ts`. Reads `data/sources.jsonl` at build time via the TS mirror (to be written: `quartz/util/sources-store.ts` — port the CJS reader to TypeScript, read-only is fine for build-time). Matches `{{src:src_000123}}` in markdown body and replaces with proper `[title](canonical_url)` markdown links.
 
 After that:
@@ -75,7 +76,7 @@ After that:
 - [ ] `npx quartz build` clean (no regressions)
 - [ ] Phase 1 retrospective written
 
-**Progress: ~45% (6 of 11 core deliverables shipped this session).**
+**Progress: ~55% (7 of 11 core deliverables shipped this session).**
 
 ## Decisions made this session
 
