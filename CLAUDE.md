@@ -52,9 +52,11 @@ The entries are re-ranked by `leverage ÷ cost_min`, with blocking-bucket items 
 
 Full docs for every script above are in the ops app at `/scripts` (categories: **Intelligence / Attention Queue** and **Pre-Commit Gates**). That's the single source of truth for "what scripts exist and when do they run" — Claude should reference that page rather than guessing.
 
-## Query Engine & Source Registry (Active Build — ADR-0003)
+## Query Engine & Source Registry (Build complete as of ADR-0008 — 2026-04-14)
 
-The Donor Map is mid-migration from a profile-centric blog to a structured-data system with a query engine front door. All planning is locked in ADRs 0001–0005 (`content/Decisions/`) and the phased build plan lives in `content/Build Phases.md`.
+The Donor Map's 8-phase query engine build from ADR-0003 is **architecturally complete**. All phases shipped; Phase 6 hardening closed the build under ADR-0008 on 2026-04-14. Ongoing work is maintenance: triage of 267 deferred items, approval of 346 class tag proposals, Stripe activation, post-launch benchmarks.
+
+**"Architecturally complete" ≠ "publication ready."** Before any profile / policy page / story goes on a public URL, it passes `scripts/publication-readiness-check.cjs` and the `content/Checklists/pre-publication.md` gate. The default is under-construction gating; public exposure is an explicit opt-in per route.
 
 **Session start (in addition to preflight):**
 - Read `content/Build Phases.md` to identify current phase
@@ -72,6 +74,11 @@ The Donor Map is mid-migration from a profile-centric blog to a structured-data 
 6. **Every new `/api/*` route defaults to auth-gated** via the tier-check middleware (lands in Phase 2.5). Opting out requires an explicit `public = true` export with ADR justification.
 7. **Editorial narrative layer stays.** Homepage stories are the marketing funnel for the paid tier. "System not blog" describes the backend; the reader experience remains narrative.
 8. **Vault on GitHub stays open-source.** Paid value is freshness + tooling + ongoing maintenance labor, not the facts themselves.
+9. **Architecturally complete ≠ publication ready.** Building a feature into the codebase does not make its output publishable. Every public-facing profile, policy page, or story passes `scripts/publication-readiness-check.cjs` and the `content/Checklists/pre-publication.md` gate before it's exposed on a live URL. Under-construction gating is the default; explicit opt-in per route.
+10. **Canonical stores are the write path. Frontmatter fields are read-caches.** The 8 canonical JSONL stores (`sources`, `relationships`, `entities`, `events`, `policies`, `polling`, `users`, `claims/*`) are the single source of truth for structured data. Never hand-edit frontmatter `related`, `donors`, `top-donors`, `politicians-funded`, `opposes`, `stories` fields — they're rebuilt from `data/relationships.jsonl`. The `canonical-store-sentinel.cjs` pre-commit hook enforces this: any commit touching those fields must also touch `data/relationships.jsonl` or a rebuilder script.
+11. **Class tag approval gate.** A profile cannot be promoted to `content-readiness: verified` if any entity it cites has class tags in `status: proposed`. All cited entities must be `status: approved` by David first. The publication-readiness check enforces this automatically.
+12. **Claim-object vs prose decision rule.** When adding a new profile: if the subject is a politician or named donor being scrutinized factually, use the claim-object pattern (`data/claims/{slug}.jsonl` + synthesis.md). For thematic essays, policy explainers, or investigative narratives, use prose with `editor-vouched: true`. Never mix — a profile is one or the other. AOC at `content/Politicians/Democrat/House/AOC/Master Profile.md` + `data/claims/aoc.jsonl` is the claim-object reference implementation.
+13. **Perplexity-first research protocol.** Before building any new pipeline, proposing new class_tag categories, calibrating the story scorer, or investigating legal precedent patterns, check `content/Admin Notes/perplexity-prompt-library.md` for a matching template and route the research through David via Perplexity. Don't start blind. This already applies to pipelines (Pipeline Research Protocol); rule 13 extends it to class tags, story calibration, and legal patterns.
 
 ### Source Registry Discipline (Phase 1 — live since 2026-04-14)
 
@@ -100,9 +107,17 @@ Architecture decisions live in `content/Decisions/NNNN-slug.md` as ADRs. Sequent
 **Active ADRs as of 2026-04-14:**
 - ADR-0001: Class Tag Vocabulary (locked 5-dimension schema)
 - ADR-0002: Monetization Model (facts free, tools paid)
-- ADR-0003: Phased Query Engine Build (8 phases)
+- ADR-0003: Phased Query Engine Build (8 phases) — **closed by ADR-0008**
 - ADR-0004: Phase 2.75 Policy Battles (first user-facing product)
-- ADR-0005: Phase 6 Bug Hunt / Hardening (final gate)
+- ADR-0005: Phase 6 Bug Hunt / Hardening (scope for Phase 6)
+- ADR-0006: Phase 1 Shipped (transition log)
+- ADR-0007: Phase 4 Claim-Object Experiment
+- ADR-0008: Query Engine Build Complete (closes ADR-0003)
+
+**Active checklists** (load-bearing, skipping produces real incidents):
+- [Pre-Publication](content/Checklists/pre-publication.md) — before any public URL exposure
+- [New Data Store](content/Checklists/new-data-store.md) — before adding a canonical JSONL store
+- [New Pipeline](content/Checklists/new-pipeline.md) — before building a new external-API ingest pipeline
 
 ## Code Claude Autonomy Directive
 

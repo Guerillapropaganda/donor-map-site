@@ -14,14 +14,45 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 
 ## Current Build Phase
 
-**Phase:** 2 — Query Engine MVP
-**Status:** 🔨 in-progress (just started)
-**Handoff doc:** `content/Phases/phase-2/handoff.md`
-**Next concrete action:** Write `scripts/batch-propose-class-tags.cjs` — Research Claude proposes class tags for ~450 donors, David approves via Ops `/class-tags`
-**Blockers:** none
-**Authority:** ADR-0003 (Phased Query Engine Build), ADR-0006 (Phase 1 shipped)
+**Phase:** ALL SHIPPED ✅ — query engine build architecturally complete
+**Status:** maintenance rhythm
+**Closed by:** ADR-0008 (Query Engine Build Complete) on 2026-04-14
+**Next concrete action:** Perplexity research campaign (deferred items triage prompt B, AIPAC precedent prompt C) + David triages 267 deferred items filtered to legal/defamation + security/auth categories
+**Blockers:** nothing architectural. Pre-launch gates = AIPAC review, git secret scan, class tag approvals, publication-readiness pass on any public route.
+**Authority:** ADR-0003 (closed by ADR-0008), ADR-0008, CLAUDE.md rules 9–13
 
-**Most recently shipped:** Phase 1 (Source Registry + Generic-Link Cleanup) — 2026-04-14, single-session ship. Retrospective at `content/Phases/phase-1/retrospective.md`. 14,681 sources registered, 907 FEC citations migrated to `{{src:ID}}` refs, Quartz plugin live, Ops `/sources` review page live.
+**Most recently shipped:** Phase 6 (Bug Hunt / Hardening) — 2026-04-14. Retrospective at `content/Phases/phase-6/retrospective.md`. 267 deferred items catalogued, 43,587 records audited (0 failures), 20 regression tests wired into pre-commit, publication readiness tooling + 3 checklists + Perplexity prompt library shipped.
+
+---
+
+## Publication Readiness Snapshot
+
+Updated every session. This is the "how close to launch" one-glance view.
+
+**Last updated:** 2026-04-14
+
+| Metric | Count |
+|---|---|
+| Profiles at `content-readiness: verified` | — (run `node scripts/publication-readiness-check.cjs --ready-only` to count) |
+| Profiles at `ready` | — |
+| Profiles at `draft` | — |
+| Profiles at `raw` | — |
+| `(URL NEEDED)` markers total | — |
+| Class tag approvals pending | 346 proposals (Ops `/class-tags`) |
+| Public routes live | under-construction page only |
+| Public routes behind under-construction | /policies, /profiles, /who-blocks-us, /interactive |
+| Deferred items pending triage | 267 (`content/Phases/phase-6/deferred-items.md`) |
+
+**Pre-launch hard blockers (CLAUDE.md rule 9 applies):**
+1. AIPAC page personal review + optional lawyer review (editorial firewall schema caught banned words; legal precedent is a human call)
+2. Git secret scan (`gitleaks` or `trufflehog`) on full repo history before public
+3. Class tag approvals on every entity cited by a policy page (not all 346, just the policy-cited subset)
+4. `publication-readiness-check.cjs` passes on every intended public route
+5. Stripe activation if paid tiers launch alongside public launch (otherwise defer)
+
+**Recommended soft-launch path:** `/policies` first (strongest product, claim-object-level rigor). Everything else stays behind under-construction until profile verification catches up.
+
+---
 
 ### Research Claude notes (Phase 2 impact)
 - **Source registry is live.** New sources added to a profile go through Ops `/sources` (or flag for Code Claude to register via `addOrFindSource`), referenced via `{{src:ID}}`. Never embed raw markdown links in profile bodies for new content.
