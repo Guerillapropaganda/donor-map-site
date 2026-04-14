@@ -105,26 +105,26 @@ The pattern: military authority → government deployment of credibility for def
 
 ## Analytical Patterns
 
-**Credibility as Weapon:** Powell's primary asset was not military rank or policy expertise — it was the fact that Americans trusted him. The Bush administration deployed that trust to legitimate misconduct. This is credibility weaponization: converting personal reputation into political capability.
+**Credibility as Weapon:** Powell's primary asset was not military rank or policy expertise, it was the fact that Americans trusted him. The Bush administration deployed that trust to legitimate misconduct. This is credibility weaponization: converting personal reputation into political capability.
 
 **Revolving Door (Military → Government → Defense Contractors):** Powell's career path exemplifies the military-industrial nexus. His military authority led to government position; his government position deployed that authority to benefit defense contractors; defense contractors then rewarded him with board seats and compensation.
 
 **Donor-Class Override:** Powell's credibility served donor-class (defense contractor) interests, not public interest. He presented false intelligence not because he believed it was true, but because the administration required his credibility to persuade Congress and the American people. His credibility was deployed to override skepticism and enable a war based on lies.
 
-**The Blot (Late Accountability):** Powell's post-war admission that the speech was "a blot on his record" came years later, long after the war's damage was irreversible. This pattern — credibility deployment followed by late guilt — allows the credibility weapon to be redeployed in future crises while maintaining a reputation for integrity.
+**The Blot (Late Accountability):** Powell's post-war admission that the speech was "a blot on his record" came years later, long after the war's damage was irreversible. This pattern, credibility deployment followed by late guilt, allows the credibility weapon to be redeployed in future crises while maintaining a reputation for integrity.
 
 ---
 
 ## Sources
 
-- ~~[FEC: Colin Powell candidate finance (if applicable)](https://www.fec.gov/data/candidate/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[FEC: Colin Powell candidate finance (if applicable)](https://www.fec.gov/data/candidate/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Wikipedia: Colin Powell - UN WMD Speech, February 5, 2003](https://en.wikipedia.org/wiki/Colin_Powell) (Tier 3) (VERIFIED)
-- ~~[CNN: Colin Powell: Iraq WMD speech 'a blot' on my record](https://www.cnn.com/2005/POLITICS/02/05/powell.iraq.wmd/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[ProPublica: Colin Powell Revolving Door - Board memberships](https://projects.propublica.org/revolving-door-searchable-database/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[The Guardian: Colin Powell and the Iraq War - A timeline](https://www.theguardian.com/world/2003/feb/05/usa.iraq)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[Council on Foreign Relations: Colin Powell biography and board service](https://www.cfr.org/experts/colin-powell)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[Defense News: Defense contractor profit analysis - Iraq War (2003–2023)](https://www.defensenews.com/industry/2023/03/20/the-true-cost-of-iraq-war/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[Salon: Colin Powell's lucrative post-government career](https://www.salon.com/2021/10/19/colin-powell-served-defense-contractors-well-after-government/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[CNN: Colin Powell: Iraq WMD speech 'a blot' on my record](https://www.cnn.com/2005/POLITICS/02/05/powell.iraq.wmd/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[ProPublica: Colin Powell Revolving Door - Board memberships](https://projects.propublica.org/revolving-door-searchable-database/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[The Guardian: Colin Powell and the Iraq War - A timeline](https://www.theguardian.com/world/2003/feb/05/usa.iraq)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Council on Foreign Relations: Colin Powell biography and board service](https://www.cfr.org/experts/colin-powell)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Defense News: Defense contractor profit analysis - Iraq War (2003–2023)](https://www.defensenews.com/industry/2023/03/20/the-true-cost-of-iraq-war/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Salon: Colin Powell's lucrative post-government career](https://www.salon.com/2021/10/19/colin-powell-served-defense-contractors-well-after-government/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

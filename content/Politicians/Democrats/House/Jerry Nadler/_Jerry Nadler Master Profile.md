@@ -34,13 +34,13 @@ donors: "[[Brady Campaign]]"
 
 ## Who They Are
 
-Jerry Nadler. Democratic congressman from New York (Manhattan's West Side) since 1992. Currently serving in the 119th Congress representing New York's 12th District. Former chairman of the House Judiciary Committee (2019-2023) — oversaw both impeachments of Donald Trump. Currently ranking member of the Judiciary Subcommittee on Administrative State, Regulatory Reform, and Antitrust. Stepped down from the full Judiciary Committee ranking member race in 2024, clearing the path for Jamie Raskin. Previously served in the New York State Assembly from 1977-1992. Congress's most senior Jewish member. Announced he will not seek re-election, citing need for "generational change." Net worth modest by congressional standards. Top industry donors: lawyers and law firms ($132K in 2023-24 cycle). Top PAC donor: JStreetPAC ($30,850 in 2023-24). Funding split: 54% large individual contributions, 40% PAC contributions, 6% small donors. Key real estate donors include Larry Silverstein (World Trade Center), Stephen Ross (Related Companies/Hudson Yards), Douglas Durst (Durst Organization), and Arthur Zeckendorf — all major Manhattan developers whose projects sit in or near Nadler's district.
+Jerry Nadler. Democratic congressman from New York (Manhattan's West Side) since 1992. Currently serving in the 119th Congress representing New York's 12th District. Former chairman of the House Judiciary Committee (2019-2023), oversaw both impeachments of Donald Trump. Currently ranking member of the Judiciary Subcommittee on Administrative State, Regulatory Reform, and Antitrust. Stepped down from the full Judiciary Committee ranking member race in 2024, clearing the path for Jamie Raskin. Previously served in the New York State Assembly from 1977-1992. Congress's most senior Jewish member. Announced he will not seek re-election, citing need for "generational change." Net worth modest by congressional standards. Top industry donors: lawyers and law firms ($132K in 2023-24 cycle). Top PAC donor: JStreetPAC ($30,850 in 2023-24). Funding split: 54% large individual contributions, 40% PAC contributions, 6% small donors. Key real estate donors include Larry Silverstein (World Trade Center), Stephen Ross (Related Companies/Hudson Yards), Douglas Durst (Durst Organization), and Arthur Zeckendorf, all major Manhattan developers whose projects sit in or near Nadler's district.
 
 ---
 
 ## The Central Thesis
 
-Nadler's donor-class function is more complex than most profiles in this vault because he genuinely served as a check on executive power (two Trump impeachments) and pursued progressive policy outcomes (marijuana legalization, LGBTQ+ rights, 9/11 first responder aid). But his donor map reveals the limits of Manhattan liberalism: his top contributors are elite law firms and Manhattan real estate developers — the exact class interests that benefit from Nadler's Judiciary Committee work on antitrust (which targets tech monopolies that threaten media and real estate advertising models), intellectual property (which protects entertainment industry revenue), and immigration (which supplies labor to the construction and service industries that New York real estate depends on). Nadler's progressive brand is real within the cultural sphere (civil rights, reproductive access, justice system reform), but his economic donors are the Manhattan development and legal establishment whose class interests he never seriously threatens.
+Nadler's donor-class function is more complex than most profiles in this vault because he genuinely served as a check on executive power (two Trump impeachments) and pursued progressive policy outcomes (marijuana legalization, LGBTQ+ rights, 9/11 first responder aid). But his donor map reveals the limits of Manhattan liberalism: his top contributors are elite law firms and Manhattan real estate developers, the exact class interests that benefit from Nadler's Judiciary Committee work on antitrust (which targets tech monopolies that threaten media and real estate advertising models), intellectual property (which protects entertainment industry revenue), and immigration (which supplies labor to the construction and service industries that New York real estate depends on). Nadler's progressive brand is real within the cultural sphere (civil rights, reproductive access, justice system reform), but his economic donors are the Manhattan development and legal establishment whose class interests he never seriously threatens.
 
 ---
 
@@ -63,7 +63,7 @@ Nadler's donor-class function is more complex than most profiles in this vault b
 - Entertainment: significant (district includes media/entertainment industry)
 
 ### Key Individual Donors:
-- Stephen Ross (Related Companies/Hudson Yards): $60K+ since 2007 — Hudson Yards built in Nadler's district
+- Stephen Ross (Related Companies/Hudson Yards): $60K+ since 2007. Hudson Yards built in Nadler's district
 - Larry Silverstein (Silverstein Properties/WTC): maximum contributions
 - Douglas Durst (Durst Organization/1 WTC): maximum contributions
 - Arthur Zeckendorf (Zeckendorf Development/Billionaires' Row): maximum contributions
@@ -76,11 +76,11 @@ Nadler's donor-class function is more complex than most profiles in this vault b
 | Date | Event/Contribution | Amount | Policy Action | Time Gap |
 |------|-------------------|--------|---------------|----------|
 | 2007-2022 | Ross/Related Companies contributions | $60K+ | Nadler supported infrastructure and zoning policies enabling Hudson Yards megaproject in his district | Concurrent |
-| 2019-2021 | JStreetPAC top PAC donor | Ongoing | Maintained "progressive pro-Israel" position — supported two-state solution but did not condition aid | Concurrent |
+| 2019-2021 | JStreetPAC top PAC donor | Ongoing | Maintained "progressive pro-Israel" position, supported two-state solution but did not condition aid | Concurrent |
 | 2019-2020 | Law firm contributions as Judiciary chairman | Top industry | Led first Trump impeachment (Ukraine); managed second impeachment (Jan. 6) | Concurrent |
 | 2019-2023 | PAC contributions at 40% of fundraising | Ongoing | Judiciary chairmanship: antitrust investigations of Big Tech, impeachment proceedings, justice system reform | Concurrent |
-| 2022 | Real estate donor support during Maloney primary challenge | Ongoing | Won competitive redistricting primary against Carolyn Maloney — developer donors supported Nadler | 0 months |
-| 2025 | Announced retirement; no re-election fundraising needed | — | Called Israeli actions "mass murder and war crimes," endorsed withholding offensive military aid, supported anti-Israel candidate Zohran Mamdani | Post-donor constraint |
+| 2022 | Real estate donor support during Maloney primary challenge | Ongoing | Won competitive redistricting primary against Carolyn Maloney, developer donors supported Nadler | 0 months |
+| 2025 | Announced retirement; no re-election fundraising needed |, | Called Israeli actions "mass murder and war crimes," endorsed withholding offensive military aid, supported anti-Israel candidate Zohran Mamdani | Post-donor constraint |
 
 ---
 
@@ -88,21 +88,21 @@ Nadler's donor-class function is more complex than most profiles in this vault b
 
 ### Judiciary & Rule of Law (Primary Function):
 - Chaired House Judiciary Committee during both Trump impeachments (2019-2020, 2021)
-- Led 16-month antitrust investigation into Big Tech (Google, Amazon, Facebook, Apple) — resulting in bipartisan report recommending structural reforms
-- Currently ranking member on Antitrust Subcommittee — focused on AI competition and regulatory reform
+- Led 16-month antitrust investigation into Big Tech (Google, Amazon, Facebook, Apple), resulting in bipartisan report recommending structural reforms
+- Currently ranking member on Antitrust Subcommittee, focused on AI competition and regulatory reform
 - Managed House passage of Marijuana Opportunity Reinvestment and Expungement (MORE) Act (passed 228-164 in April 2022)
 
 ### Real Estate & Development:
-- District includes Hudson Yards ($25B megadevelopment by Related Companies) — developer Stephen Ross is a major donor
-- District includes World Trade Center complex — developer Larry Silverstein is a donor
+- District includes Hudson Yards ($25B megadevelopment by Related Companies), developer Stephen Ross is a major donor
+- District includes World Trade Center complex, developer Larry Silverstein is a donor
 - Never challenged the real estate tax incentive structure (421-a, opportunity zones) that benefits his developer donors
 
 ### Israel-Palestine (Late Evolution):
 - Congress's most senior Jewish member
-- Historically "progressive pro-Israel" — supported two-state solution, received J Street PAC funding
+- Historically "progressive pro-Israel", supported two-state solution, received J Street PAC funding
 - Late-career shift: called Israeli actions in Gaza "mass murder and war crimes without question"
 - Announced support for withholding offensive military aid to Israel
-- Endorsed Zohran Mamdani — drew criticism from New York Jewish community
+- Endorsed Zohran Mamdani, drew criticism from New York Jewish community
 - Timing: this shift occurred only after announcing retirement, when donor constraints no longer applied
 
 ### Civil Rights & Social Policy:
@@ -115,18 +115,18 @@ Nadler's donor-class function is more complex than most profiles in this vault b
 
 ## Rhetorical Signature Moves
 
-- **"Rule of law" constitutionalism:** Frames every Judiciary action in constitutional terms — impeachment as duty, oversight as democratic necessity. Effective and largely sincere, but deployed selectively (aggressive on Trump's authoritarian overreach, less aggressive on structural economic power of his donor class).
+- **"Rule of law" constitutionalism:** Frames every Judiciary action in constitutional terms, impeachment as duty, oversight as democratic necessity. Effective and largely sincere, but deployed selectively (aggressive on Trump's authoritarian overreach, less aggressive on structural economic power of his donor class).
 - **"Progressive values" branding:** Positions himself as a values-driven progressive on cultural issues (LGBTQ+, reproductive rights, justice system) while his economic donor base is the Manhattan elite.
-- **"Bipartisan investigation" framing:** The Big Tech antitrust investigation was genuinely bipartisan — but the policy outcomes (structural breakups) never materialized, partly because the legal and entertainment industries that fund Nadler had complex, sometimes conflicting interests with Big Tech.
+- **"Bipartisan investigation" framing:** The Big Tech antitrust investigation was genuinely bipartisan, but the policy outcomes (structural breakups) never materialized, partly because the legal and entertainment industries that fund Nadler had complex, sometimes conflicting interests with Big Tech.
 
 ---
 
 ## Analytical Patterns
 
-- **Genuine Win + Structural Limit:** Nadler's two Trump impeachments were real exercises of constitutional oversight — but they didn't threaten the donor class. The economic system that Trump's tax cuts served remained untouched. The 9/11 first responder aid was a genuine win with no donor-class cost. The antitrust investigation produced a landmark report but no structural reform.
+- **Genuine Win + Structural Limit:** Nadler's two Trump impeachments were real exercises of constitutional oversight, but they didn't threaten the donor class. The economic system that Trump's tax cuts served remained untouched. The 9/11 first responder aid was a genuine win with no donor-class cost. The antitrust investigation produced a landmark report but no structural reform.
 - **Two-Audience Problem:** Nadler tells Manhattan progressive voters he's fighting for accountability and progressive values. His donor base of real estate developers and elite law firms gets a Judiciary chairman who never challenges their economic position.
-- **Donor-Class Override (Late Reversal):** Nadler's Israel evolution is the rare case where a politician breaks from donor constraints — but only when running out the clock on his career. Decades of "progressive pro-Israel" positioning (aligned with J Street PAC funding) gave way to calling Israeli actions "mass murder" only after announcing retirement.
-- **Both-Sides Illusion:** Nadler and his Republican Judiciary counterparts (Jim Jordan) present as polar opposites on oversight and civil liberties. But both are funded by establishment interests — Nadler by Manhattan's legal and real estate class, Jordan by conservative mega-donors. Neither threatens the economic structure their respective donor classes depend on.
+- **Donor-Class Override (Late Reversal):** Nadler's Israel evolution is the rare case where a politician breaks from donor constraints, but only when running out the clock on his career. Decades of "progressive pro-Israel" positioning (aligned with J Street PAC funding) gave way to calling Israeli actions "mass murder" only after announcing retirement.
+- **Both-Sides Illusion:** Nadler and his Republican Judiciary counterparts (Jim Jordan) present as polar opposites on oversight and civil liberties. But both are funded by establishment interests. Nadler by Manhattan's legal and real estate class, Jordan by conservative mega-donors. Neither threatens the economic structure their respective donor classes depend on.
 
 ---
 
@@ -137,7 +137,7 @@ Nadler's donor-class function is more complex than most profiles in this vault b
 - [FEC Candidate: Nadler industry contributions 2022](https://www.fec.gov/data/candidate/H2NY17071/) (Tier 1) (VERIFIED)
 - [FEC: Jerrold Nadler candidate overview](https://www.fec.gov/data/candidate/H2NY17071/) (Tier 1) (VERIFIED)
 - [GovTrack: Jerrold Nadler](https://www.govtrack.us/congress/members/jerrold_nadler/400289) (Tier 1) (NEEDS REVIEW)
-- ~~[Congress.gov: Jerrold Nadler](https://www.congress.gov/member/jerrold-nadler/N000002)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Jerrold Nadler](https://www.congress.gov/member/jerrold-nadler/N000002)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Nadler.house.gov: Named Ranking Member of Antitrust Subcommittee](https://nadler.house.gov/news/documentsingle.aspx?DocumentID=396256) (Tier 1) (VERIFIED)
 - [Crain's New York: Nadler-Maloney primary battle reveals donor networks](https://www.crainsnewyork.com/politics/carolyn-maloney-and-jerry-nadler-locked-primary-battle-congress/) (Tier 2) (VERIFIED)
 - [Jewish Insider: From impeachment lead to Israel critic, Nadler ends storied career](https://jewishinsider.com/2025/09/jerry-nadler-retirement-announcement-manhattan-district-israel/) (Tier 2) (VERIFIED)

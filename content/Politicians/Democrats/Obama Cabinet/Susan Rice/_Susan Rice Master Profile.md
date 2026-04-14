@@ -1,5 +1,5 @@
 ---
-title: "Susan Rice Master Profile"
+title: "Susan Rice"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

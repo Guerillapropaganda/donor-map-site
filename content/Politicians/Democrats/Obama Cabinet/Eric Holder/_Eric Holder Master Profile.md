@@ -1,5 +1,5 @@
 ---
-title: "Eric Holder Master Profile"
+title: "Eric Holder"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -1,5 +1,5 @@
 ---
-title: "John B. Larson Master Profile"
+title: "John B. Larson"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

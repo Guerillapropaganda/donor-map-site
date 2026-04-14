@@ -2,7 +2,7 @@
 title: "Jerry Moran"
 type: politician
 content-readiness: ready
-central-thesis: "Jerry Moran chairs the Veterans' Affairs Committee while Koch Industries — headquartered in his state — is his second-largest career donor. The Koch network funds Concerned Veterans for America (CVA), the organization that has led the campaign to ..."
+central-thesis: "Jerry Moran chairs the Veterans' Affairs Committee while Koch Industries , headquartered in his state , is his second-largest career donor. The Koch network funds Concerned Veterans for America (CVA), the organization that has led the campaign to ..."
 last-updated: 2026-04-13
 source-tier: 1
 parent: null
@@ -43,19 +43,19 @@ donors: [[Koch Network - Charles Koch|Koch Network]]
 
 ## Who They Are
 
-Jerry Moran is the senior senator from Kansas and chairs the Senate Veterans' Affairs Committee. He also serves on the Appropriations Committee, the Commerce Committee (where he chairs the Aviation, Space, and Innovation Subcommittee), Agriculture, Indian Affairs, and the Select Committee on Intelligence. He has served in the Senate since 2011, after 14 years representing Kansas's 1st Congressional District ("the Big First" — western Kansas) in the House (1997-2011).
+Jerry Moran is the senior senator from Kansas and chairs the Senate Veterans' Affairs Committee. He also serves on the Appropriations Committee, the Commerce Committee (where he chairs the Aviation, Space, and Innovation Subcommittee), Agriculture, Indian Affairs, and the Select Committee on Intelligence. He has served in the Senate since 2011, after 14 years representing Kansas's 1st Congressional District ("the Big First", western Kansas) in the House (1997-2011).
 
 Before Congress, Moran was a bank officer, an instructor at Fort Hays State University, and a state senator (1989-1997). He holds a law degree from the University of Kansas.
 
-Kansas is the "Air Capital of the World" — Wichita is home to Spirit AeroSystems, Textron Aviation (Cessna, Beechcraft), Bombardier's Learjet division, and Airbus operations, supporting over 65,000 aerospace and defense jobs across 450+ companies and contributing $7 billion annually to the state economy. Kansas is also a major agricultural state (wheat, sorghum, soybeans, cattle). And it is the home state of Koch Industries, headquartered in Wichita — the largest privately held company in America.
+Kansas is the "Air Capital of the World". Wichita is home to Spirit AeroSystems, Textron Aviation (Cessna, Beechcraft), Bombardier's Learjet division, and Airbus operations, supporting over 65,000 aerospace and defense jobs across 450+ companies and contributing $7 billion annually to the state economy. Kansas is also a major agricultural state (wheat, sorghum, soybeans, cattle). And it is the home state of Koch Industries, headquartered in Wichita, the largest privately held company in America.
 
 ---
 
 ## The Central Thesis
 
-Jerry Moran chairs the Veterans' Affairs Committee while Koch Industries — headquartered in his state — is his second-largest career donor. The Koch network funds Concerned Veterans for America (CVA), the organization that has led the campaign to privatize VA healthcare. Moran has been the Senate's leading champion of "community care" — routing veterans from the VA system to private healthcare providers. The Koch network's policy goal (dismantle government healthcare) flows through their funded advocacy group (CVA), through their funded senator (Moran), through his committee chairmanship (Veterans' Affairs), into law (the MISSION Act and its successors).
+Jerry Moran chairs the Veterans' Affairs Committee while Koch Industries, headquartered in his state, is his second-largest career donor. The Koch network funds Concerned Veterans for America (CVA), the organization that has led the campaign to privatize VA healthcare. Moran has been the Senate's leading champion of "community care", routing veterans from the VA system to private healthcare providers. The Koch network's policy goal (dismantle government healthcare) flows through their funded advocacy group (CVA), through their funded senator (Moran), through his committee chairmanship (Veterans' Affairs), into law (the MISSION Act and its successors).
 
-The aviation side completes the Kansas picture: Moran chairs the Commerce Subcommittee on Aviation while representing the state that produces more general aviation aircraft than anywhere else in the world. Wichita's aerospace industry is to Moran what Boeing is to Cantwell — the economic base that makes industry advocacy synonymous with constituent service. Two committee positions, two Kansas industries, one donor class.
+The aviation side completes the Kansas picture: Moran chairs the Commerce Subcommittee on Aviation while representing the state that produces more general aviation aircraft than anywhere else in the world. Wichita's aerospace industry is to Moran what Boeing is to Cantwell, the economic base that makes industry advocacy synonymous with constituent service. Two committee positions, two Kansas industries, one donor class.
 
 ---
 
@@ -83,9 +83,9 @@ The aviation side completes the Kansas picture: Moran chairs the Commerce Subcom
 5. Air transport / aerospace
 
 ### Key Organizational Contributors:
-1. Koch Industries (HQ in Wichita, KS — #2 career donor)
-2. Spirit AeroSystems (aviation manufacturing — Wichita)
-3. Textron Aviation (Cessna/Beechcraft — Wichita)
+1. Koch Industries (HQ in Wichita, KS, #2 career donor)
+2. Spirit AeroSystems (aviation manufacturing. Wichita)
+3. Textron Aviation (Cessna/Beechcraft. Wichita)
 4. Kansas agricultural PACs
 5. Telecom/broadband industry PACs
 
@@ -104,22 +104,22 @@ The aviation side completes the Kansas picture: Moran chairs the Commerce Subcom
 ### Pipeline: Koch Network → VA Privatization
 | Date | Type | Event | Donor | Amount | Gap |
 |------|------|-------|-------|--------|-----|
-| 1997-2024 | DONATION | Koch Industries career contributions (#2 donor) | Koch Industries | #2 career | — |
-| 2014-present | ADVOCACY | Koch-funded CVA campaigns for VA "community care" / privatization | Koch Network/CVA | — | — |
-| 2017 | ← POLICY | Moran co-introduces Veterans Community Care and Access Act with McCain | — | — | Ongoing |
-| 2018 | ← POLICY | MISSION Act signed — expands community care (private provider access) for veterans | — | — | — |
-| 2020 | ← POLICY | As VA Chair, oversees MISSION Act community care implementation | — | — | — |
-| 2024-2025 | ← POLICY | Demands VA stop restricting community care referrals; leads 19 senators pressuring VA | — | — | — |
-| 2025 | ← NOTE | Koch funds CVA → CVA designs privatization agenda → Moran implements it as committee chair. The entire pipeline runs through Wichita. | — | — | — |
+| 1997-2024 | DONATION | Koch Industries career contributions (#2 donor) | Koch Industries | #2 career |, |
+| 2014-present | ADVOCACY | Koch-funded CVA campaigns for VA "community care" / privatization | Koch Network/CVA |, |, |
+| 2017 | ← POLICY | Moran co-introduces Veterans Community Care and Access Act with McCain |, |, | Ongoing |
+| 2018 | ← POLICY | MISSION Act signed, expands community care (private provider access) for veterans |, |, |, |
+| 2020 | ← POLICY | As VA Chair, oversees MISSION Act community care implementation |, |, |, |
+| 2024-2025 | ← POLICY | Demands VA stop restricting community care referrals; leads 19 senators pressuring VA |, |, |, |
+| 2025 | ← NOTE | Koch funds CVA → CVA designs privatization agenda → Moran implements it as committee chair. The entire pipeline runs through Wichita. |, |, |, |
 
 ### Pipeline: Aerospace Industry → Aviation Advocacy
 | Date | Type | Event | Donor | Amount | Gap |
 |------|------|-------|-------|--------|-----|
-| 1997-2024 | DONATION | Career aviation/aerospace contributions | Aerospace sector | Significant | — |
-| 2025 | ROLE | Commerce Aviation Subcommittee Chair | — | — | — |
-| 2001-2024 | ← POLICY | Consistent advocacy for Wichita aviation: Spirit AeroSystems contracts, Textron, general aviation protection | — | — | Ongoing |
-| 2024 | ← POLICY | Advocates for Spirit AeroSystems during Boeing acquisition — protecting Wichita jobs | — | — | — |
-| 2025 | ← NOTE | Wichita produces more general aviation aircraft than anywhere on earth. Moran chairs the Aviation Subcommittee. His donors build the planes. His subcommittee regulates the industry. | — | — | — |
+| 1997-2024 | DONATION | Career aviation/aerospace contributions | Aerospace sector | Significant |, |
+| 2025 | ROLE | Commerce Aviation Subcommittee Chair |, |, |, |
+| 2001-2024 | ← POLICY | Consistent advocacy for Wichita aviation: Spirit AeroSystems contracts, Textron, general aviation protection |, |, | Ongoing |
+| 2024 | ← POLICY | Advocates for Spirit AeroSystems during Boeing acquisition, protecting Wichita jobs |, |, |, |
+| 2025 | ← NOTE | Wichita produces more general aviation aircraft than anywhere on earth. Moran chairs the Aviation Subcommittee. His donors build the planes. His subcommittee regulates the industry. |, |, |, |
 
 ---
 
@@ -133,23 +133,23 @@ The aviation side completes the Kansas donor map. Moran chairs the Commerce Subc
 
 ## Analytical Patterns
 
-**Donor-Class Override (Koch → Veterans):** Kansas veterans need functioning VA healthcare. The Koch network wants to dismantle it. Moran implements the Koch agenda while framing it as veterans' advocacy. The "community care" expansion sounds pro-veteran — and it is, for veterans who can navigate private healthcare networks. But the structural effect is to defund and delegitimize the VA as a public healthcare system, which is the Koch network's ideological goal. The donor class (Koch) overrides the constituency need (reliable public healthcare for veterans) by rebranding privatization as "choice."
+**Donor-Class Override (Koch → Veterans):** Kansas veterans need functioning VA healthcare. The Koch network wants to dismantle it. Moran implements the Koch agenda while framing it as veterans' advocacy. The "community care" expansion sounds pro-veteran, and it is, for veterans who can navigate private healthcare networks. But the structural effect is to defund and delegitimize the VA as a public healthcare system, which is the Koch network's ideological goal. The donor class (Koch) overrides the constituency need (reliable public healthcare for veterans) by rebranding privatization as "choice."
 
-**Both-Sides Illusion (VA Committee):** The Veterans' Affairs Committee has historically been bipartisan — both parties claim to support veterans. But the bipartisan consensus on "community care" serves the private healthcare industry regardless of which party leads. Democrats and Republicans on the committee both receive healthcare industry donations. The partisan fights are about implementation details, not whether billions in VA spending will flow to private providers.
+**Both-Sides Illusion (VA Committee):** The Veterans' Affairs Committee has historically been bipartisan, both parties claim to support veterans. But the bipartisan consensus on "community care" serves the private healthcare industry regardless of which party leads. Democrats and Republicans on the committee both receive healthcare industry donations. The partisan fights are about implementation details, not whether billions in VA spending will flow to private providers.
 
 **Genuine Win + Structural Limit:** Moran delivers real wins for Kansas: aviation industry support, rural broadband, agricultural advocacy, and genuine improvements in veterans' access to care in rural areas where VA facilities are distant. The structural limit: the "access" victories structurally undermine the VA system itself, and the aviation advocacy serves corporate Kansas (Spirit AeroSystems, Textron) more than it serves Kansas workers when those companies restructure or relocate production.
 
-**Villain Framing:** Moran's villain is the VA bureaucracy — faceless administrators who deny veterans care, restrict community referrals, and prioritize institutional control over patient outcomes. The function: make the government healthcare system sound incompetent and cruel, building the case for private alternatives. The VA's genuine bureaucratic failures become ammunition for the Koch network's ideological project.
+**Villain Framing:** Moran's villain is the VA bureaucracy, faceless administrators who deny veterans care, restrict community referrals, and prioritize institutional control over patient outcomes. The function: make the government healthcare system sound incompetent and cruel, building the case for private alternatives. The VA's genuine bureaucratic failures become ammunition for the Koch network's ideological project.
 
 ---
 
 ## Rhetorical Signature Moves
 
-**"Veterans deserve choice"** — The freedom framing for privatization. "Choice" means routing veterans to private providers. The function: make VA privatization sound like patient empowerment rather than Koch Industries' ideological agenda.
+**"Veterans deserve choice"**. The freedom framing for privatization. "Choice" means routing veterans to private providers. The function: make VA privatization sound like patient empowerment rather than Koch Industries' ideological agenda.
 
-**"The Air Capital of the World"** — The state-identity framing that makes aerospace industry advocacy synonymous with Kansas pride. Identical to Cantwell's "Washington's innovation economy." The function: make Spirit AeroSystems' and Textron's corporate interests indistinguishable from Wichita's identity.
+**"The Air Capital of the World"**. The state-identity framing that makes aerospace industry advocacy synonymous with Kansas pride. Identical to Cantwell's "Washington's innovation economy." The function: make Spirit AeroSystems' and Textron's corporate interests indistinguishable from Wichita's identity.
 
-**"Kansas common sense"** — The populist branding (his newsletter is literally titled "Kansas Common Sense"). The function: frame Koch-aligned deregulation and privatization as folksy prairie wisdom rather than billionaire ideology.
+**"Kansas common sense"**. The populist branding (his newsletter is literally titled "Kansas Common Sense"). The function: frame Koch-aligned deregulation and privatization as folksy prairie wisdom rather than billionaire ideology.
 
 ---
 
@@ -158,8 +158,8 @@ The aviation side completes the Kansas donor map. Moran chairs the Commerce Subc
 - [FEC Candidate: Jerry Moran donor profile](https://www.fec.gov/data/candidate/H6KS01096/) (Tier 1) (NEEDS REVIEW)
 - [FEC Candidate: Jerry Moran industry donors](https://www.fec.gov/data/candidate/H6KS01096/) (Tier 1) (VERIFIED)
 - [Senate.gov: Moran biography](https://www.moran.senate.gov/public/index.cfm/biography) (Tier 1) (VERIFIED)
-- ~~[Senate.gov: Moran appointed to committees for 119th Congress](https://www.moran.senate.gov/public/index.cfm/2025/1/sen-moran-appointed-to-influential-committees-for-the-119th-congress)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[Senate.gov: Moran Aviation Subcommittee chair](https://www.moran.senate.gov/public/index.cfm/2025/2/sen-moran-to-chair-the-senate-commerce-subcommittee-on-aviation-space-and-innovation)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Senate.gov: Moran appointed to committees for 119th Congress](https://www.moran.senate.gov/public/index.cfm/2025/1/sen-moran-appointed-to-influential-committees-for-the-119th-congress)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Senate.gov: Moran Aviation Subcommittee chair](https://www.moran.senate.gov/public/index.cfm/2025/2/sen-moran-to-chair-the-senate-commerce-subcommittee-on-aviation-space-and-innovation)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Senate.gov: Moran leads 19 senators urging VA to correct community care policies](https://www.veterans.senate.gov/2024/7/sen-moran-leads-colleagues-in-urging-va-to-correct-policies-affecting-veteran-access-to-care) (Tier 1) (VERIFIED)
 - [Newsweek: Koch-backed group and VA privatization](https://www.newsweek.com/koch-brothers-backed-group-could-determine-future-va-870693) (Tier 2) (VERIFIED)
 - [American Oversight: Koch-funded VA privatization group's influence](https://americanoversight.org/documents-reveal-extent-of-koch-funded-va-privatization-groups-influence/) (Tier 2) (VERIFIED)

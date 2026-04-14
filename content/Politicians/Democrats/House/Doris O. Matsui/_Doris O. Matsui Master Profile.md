@@ -1,5 +1,5 @@
 ---
-title: "Doris O. Matsui Master Profile"
+title: "Doris O. Matsui"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -1,5 +1,5 @@
 ---
-title: "Josh Gottheimer Master Profile"
+title: "Josh Gottheimer"
 type: politician
 content-readiness: ready
 central-thesis: "The centrist Democrat as corporate insurance policy. Gottheimer's structural role is to prevent the Democratic majority from enacting legislation that threatens donor class interests while maintaining the appearance of pragmatism and bipartisanshi..."
@@ -28,7 +28,7 @@ last-enriched: "2026-04-11"
 committees:
   - "House Committee on Financial Services"
   - "House Permanent Select Committee on Intelligence"
-internal-notes: "[MANUAL 2026-04-11] Bioguide recovered: G000583. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true — the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
+internal-notes: "[MANUAL 2026-04-11] Bioguide recovered: G000583. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true , the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
 
 [JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
 issues:
@@ -60,17 +60,17 @@ donors: [[Palantir]] [[Wall Street Finance PACs]] Hedge Fund Industry Tech Corpo
 
 ## Who They Are
 
-Rep [[_Josh Gottheimer Master Profile|Josh Gottheimer]] represents New Jersey's 5th Congressional District (Bergen County suburbs, North Jersey affluent areas) and co-chairs the Problem Solvers Caucus — a bipartisan group of ~50 House members that positions itself as pragmatic, anti-partisan, and focused on "getting things done." A five-term congressman from a light-blue district (D+1 after redistricting), Gottheimer has built his career as Wall Street and tech's inside man within the Democratic caucus. He functions as insurance policy: if progressive economic legislation threatens corporate interests, Gottheimer and his centrist bloc can negotiate watered-down compromises or kill bills entirely while maintaining Democratic control and bipartisan credibility.
+Rep [[_Josh Gottheimer Master Profile|Josh Gottheimer]] represents New Jersey's 5th Congressional District (Bergen County suburbs, North Jersey affluent areas) and co-chairs the Problem Solvers Caucus, a bipartisan group of ~50 House members that positions itself as pragmatic, anti-partisan, and focused on "getting things done." A five-term congressman from a light-blue district (D+1 after redistricting), Gottheimer has built his career as Wall Street and tech's inside man within the Democratic caucus. He functions as insurance policy: if progressive economic legislation threatens corporate interests, Gottheimer and his centrist bloc can negotiate watered-down compromises or kill bills entirely while maintaining Democratic control and bipartisan credibility.
 
 ## The Central Thesis
 
-The centrist Democrat as corporate insurance policy. Gottheimer's structural role is to prevent the Democratic majority from enacting legislation that threatens donor class interests while maintaining the appearance of pragmatism and bipartisanship. Progressives propose wealth taxes; Gottheimer's caucus negotiates them down. Labor pushes for stronger enforcement; Gottheimer's bloc proposes compromise that keeps loopholes open. He does not win by voting against these proposals — he wins by making them so weak that capital can absorb the impact. His donors fund him precisely for this moderating function, not in spite of it.
+The centrist Democrat as corporate insurance policy. Gottheimer's structural role is to prevent the Democratic majority from enacting legislation that threatens donor class interests while maintaining the appearance of pragmatism and bipartisanship. Progressives propose wealth taxes; Gottheimer's caucus negotiates them down. Labor pushes for stronger enforcement; Gottheimer's bloc proposes compromise that keeps loopholes open. He does not win by voting against these proposals, he wins by making them so weak that capital can absorb the impact. His donors fund him precisely for this moderating function, not in spite of it.
 
 ## Analytical Patterns
 
-**The Pilot Program** — Gottheimer's Problem Solvers Caucus functions as a pilot program for corporate-Democratic compromise on major legislation. Rather than Democrats holding unified positions and negotiating as a bloc, the Problem Solvers identify progressive legislation, negotiate internal compromises with corporate beneficiaries, and then present the watered-down result as the Democratic caucus's official position. The wealth tax is negotiated away quietly. Drug price negotiation is carved with loopholes. Antitrust bills are drafted with escape hatches. The progressive proposal enters committee; the Problem Solvers version exits. The model works for the donor class because it eliminates public accountability — there's no losing vote, just a "pragmatic compromise" that preserves capital's interests.
+**The Pilot Program**. Gottheimer's Problem Solvers Caucus functions as a pilot program for corporate-Democratic compromise on major legislation. Rather than Democrats holding unified positions and negotiating as a bloc, the Problem Solvers identify progressive legislation, negotiate internal compromises with corporate beneficiaries, and then present the watered-down result as the Democratic caucus's official position. The wealth tax is negotiated away quietly. Drug price negotiation is carved with loopholes. Antitrust bills are drafted with escape hatches. The progressive proposal enters committee; the Problem Solvers version exits. The model works for the donor class because it eliminates public accountability, there's no losing vote, just a "pragmatic compromise" that preserves capital's interests.
 
-**The Two-Audience Problem** — Gottheimer talks left and votes center: he endorses progressive priorities while working to weaken them. On wealth taxes, he claims concern about growth while opposing taxation. On drug pricing, he claims support for affordability while supporting pharma-friendly carve-outs. On antitrust, he claims concern about competition while opposing structural enforcement. Each audience — progressives seeking compromise and donors seeking protection — believes Gottheimer is really on their side. The function: make capital-friendly outcomes look like reasonable compromise rather than clear donor preference.
+**The Two-Audience Problem**. Gottheimer talks left and votes center: he endorses progressive priorities while working to weaken them. On wealth taxes, he claims concern about growth while opposing taxation. On drug pricing, he claims support for affordability while supporting pharma-friendly carve-outs. On antitrust, he claims concern about competition while opposing structural enforcement. Each audience, progressives seeking compromise and donors seeking protection, believes Gottheimer is really on their side. The function: make capital-friendly outcomes look like reasonable compromise rather than clear donor preference.
 
 ## The Core Contradiction
 
@@ -134,60 +134,60 @@ Gottheimer's class function is to make capital-friendly outcomes look like reaso
 |------|--------|--------|-------|----------|
 | 2019-2020 | Wall Street PAC buildup | $114K | Opposed Warren's wealth tax proposal, pushed "compromise" with loopholes | 0-6 months |
 | March 2021 | Palantir executive donations surge | $6.8K | Refused to co-sponsor anti-ICE surveillance bills, opposed data privacy strengthening | 0 months |
-| May 2021 | Problem Solvers Caucus founding | — | Positioned as bipartisan moderate, "beyond left-right politics," began blocking progressive legislation | 0 months |
+| May 2021 | Problem Solvers Caucus founding |, | Positioned as bipartisan moderate, "beyond left-right politics," began blocking progressive legislation | 0 months |
 | July 2021 | [[Goldman Sachs|Goldman Sachs]] + JPMorgan donations | $28K combined | Opposed Biden's IRS funding expansion (would audit high-net-worth individuals), negotiated compromise weakening enforcement | <1 month |
 | September 2021 | Pharma PAC surge | $32K total | Opposed Medicare drug price negotiation in Democratic Party proposal, supported pharma compromise | <1 month |
 | October 2021 | Tech PAC contributions | $24K+ from Google/Amazon | Opposed antitrust bills targeting Google/Amazon, pushed "competition concerns" without structural change | <1 month |
 | March 2022 | Hedge Fund PAC contributions | $16K from Apollo | Opposed capital gains tax increases, pushed carried interest compromise | 1-2 months |
-| July 2022 | IRA Passage (heavily compromised) | — | Supported IRA only after it was negotiated down from $3.5T to $369B; supported [[PhRMA|PhRMA]] carve-out preventing drug price negotiation on >50% of drugs | 0 months |
+| July 2022 | IRA Passage (heavily compromised) |, | Supported IRA only after it was negotiated down from $3.5T to $369B; supported [[PhRMA|PhRMA]] carve-out preventing drug price negotiation on >50% of drugs | 0 months |
 | June 2023 | Continued pharma acceptance | $18K from Pfizer | Opposed Medicare negotiation expansions, supported orphan drug exemption protections | <1 month |
 | October 2023 | Palantir continued donations | $2.2K | Maintained anti-surveillance bill opposition despite growing ICE criticism | 0 months |
 | July 2024 | Wall Street PAC surge pre-election | $62K | Opposed wealth tax proposals in Harris campaign platform, pushed "responsible taxation" language | 0-2 months |
 
 ### The Corporate Democrat Pipeline: How Gottheimer Blocks Progressive Legislation
 
-### The IRA Negotiation (Case Study 1 — Wealth Tax):
-In 2022, progressives proposed a wealth tax as part of the Inflation Reduction Act. Gottheimer's Problem Solvers Caucus negotiated it out of the final bill. Simultaneously, [[Goldman Sachs|Goldman Sachs]] and JPMorgan Chase PACs contributed $28K combined to Gottheimer's campaign. This is the mechanism: Gottheimer doesn't explicitly vote against the wealth tax (which would expose him) — he negotiates it away in private meetings where Problem Solvers Caucus members mediate between progressive and corporate Democratic wings. The compromise becomes Democratic Party official policy without a public vote that would create donor accountability. The donor class gets what it wants; Gottheimer gets to claim he "found common ground."
+### The IRA Negotiation (Case Study 1. Wealth Tax):
+In 2022, progressives proposed a wealth tax as part of the Inflation Reduction Act. Gottheimer's Problem Solvers Caucus negotiated it out of the final bill. Simultaneously, [[Goldman Sachs|Goldman Sachs]] and JPMorgan Chase PACs contributed $28K combined to Gottheimer's campaign. This is the mechanism: Gottheimer doesn't explicitly vote against the wealth tax (which would expose him), he negotiates it away in private meetings where Problem Solvers Caucus members mediate between progressive and corporate Democratic wings. The compromise becomes Democratic Party official policy without a public vote that would create donor accountability. The donor class gets what it wants; Gottheimer gets to claim he "found common ground."
 
-### The Medicare Drug Negotiation Compromise (Case Study 2 — Pharma):
-The IRA allowed Medicare to negotiate drug prices, but with massive carve-outs. Gottheimer supported these carve-outs and opposed expansion. Pharma PACs ([[PhRMA|PhRMA]]: $32K, Pfizer: $18K, Merck: $14K) contributed simultaneously. The final bill protected drugs for patients with rare diseases and new biologics — legitimate patient protections, but structured so broadly that they covered 50%+ of the drug market. The compromise language was drafted by Gottheimer's staff working with pharma lobbyists. The result: patients get a symbolic drug price negotiation while pharma's core revenue remains protected.
+### The Medicare Drug Negotiation Compromise (Case Study 2. Pharma):
+The IRA allowed Medicare to negotiate drug prices, but with massive carve-outs. Gottheimer supported these carve-outs and opposed expansion. Pharma PACs ([[PhRMA|PhRMA]]: $32K, Pfizer: $18K, Merck: $14K) contributed simultaneously. The final bill protected drugs for patients with rare diseases and new biologics, legitimate patient protections, but structured so broadly that they covered 50%+ of the drug market. The compromise language was drafted by Gottheimer's staff working with pharma lobbyists. The result: patients get a symbolic drug price negotiation while pharma's core revenue remains protected.
 
-### The Antitrust Compromise (Case Study 3 — Tech):
+### The Antitrust Compromise (Case Study 3. Tech):
 Google and Amazon faced House antitrust bills that would have broken up their market dominance. Gottheimer co-sponsored bills with "competition concerns" language that sounded aggressive but contained loopholes. Google ($24K) and Amazon ($18K) PAC contributions went to Gottheimer. The bills stalled. Gottheimer positioned himself as "concerned about competition" without actually supporting structural antitrust action. This is the centrist function: appear concerned while ensuring nothing changes.
 
 ### Key Policy Positions
 
 ### Wealth & Capital Gains Taxation:
-Gottheimer consistently opposes progressive tax increases on high-income earners and capital gains. His Wall Street donors (Goldman, JPMorgan, Apollo, KKR) benefit directly from lower capital gains rates. He frames opposition as "economic growth concerns" rather than donor class interest — but the outcome is the same.
+Gottheimer consistently opposes progressive tax increases on high-income earners and capital gains. His Wall Street donors (Goldman, JPMorgan, Apollo, KKR) benefit directly from lower capital gains rates. He frames opposition as "economic growth concerns" rather than donor class interest, but the outcome is the same.
 
 ### Medicare Drug Price Negotiation:
-Despite representing New Jersey (where prescription drug costs are above national average), Gottheimer supported pharma-friendly language limiting Medicare negotiation scope. PhRMA and individual pharma PACs contributed to his campaign. His opposition was framed as "patient protection" (orphan drug carve-outs) and "innovation incentives" — both legitimate concerns with pharma support built in.
+Despite representing New Jersey (where prescription drug costs are above national average), Gottheimer supported pharma-friendly language limiting Medicare negotiation scope. PhRMA and individual pharma PACs contributed to his campaign. His opposition was framed as "patient protection" (orphan drug carve-outs) and "innovation incentives", both legitimate concerns with pharma support built in.
 
 ### Antitrust & Big Tech Regulation:
 Gottheimer talks antitrust but votes antitrust-light. When bills came for a vote, his Problem Solvers language created loopholes. Google and Amazon continued to grow unimpeded. His tech PAC receipts ($72K+) align with these votes.
 
 ### Labor & Union Issues:
-Gottheimer has been lukewarm on card-check (union authorization simplification) and strong union power bills. Private equity and hedge funds — his second-largest donor category — have structural interests in union busting (PE firms often bust unions after acquisition). Gottheimer never opposed unions; he just didn't fight for them. Absence of support is the centrist function.
+Gottheimer has been lukewarm on card-check (union authorization simplification) and strong union power bills. Private equity and hedge funds, his second-largest donor category, have structural interests in union busting (PE firms often bust unions after acquisition). Gottheimer never opposed unions; he just didn't fight for them. Absence of support is the centrist function.
 
 ## Rhetorical Signature Moves
 
-**The Pragmatism Frame:** Gottheimer consistently argues that progressive proposals are "unrealistic" and "will never pass the Senate." This is often accurate — but it is also self-fulfilling. By refusing to push hard for progressive bills, Gottheimer ensures they don't pass, then blames Senate Republicans for the failure. This allows him to appear reasonable ("I wanted to do this, but Republicans won't cooperate") while his donors get what they want (no progressive taxation, no antitrust action, no drug price regulation).
+**The Pragmatism Frame:** Gottheimer consistently argues that progressive proposals are "unrealistic" and "will never pass the Senate." This is often accurate, but it is also self-fulfilling. By refusing to push hard for progressive bills, Gottheimer ensures they don't pass, then blames Senate Republicans for the failure. This allows him to appear reasonable ("I wanted to do this, but Republicans won't cooperate") while his donors get what they want (no progressive taxation, no antitrust action, no drug price regulation).
 
 **The Bipartisan Discovery:** Every compromise that waters down progressive legislation, Gottheimer frames as a "bipartisan breakthrough." This rhetorical move converts donor capture into statesmanship. He is not protecting corporate interests; he is "finding common ground." The Problem Solvers Caucus's entire messaging strategy is built on this move: positioning compromises that favor capital as pragmatic solutions to ideological gridlock.
 
 **The Problem Solvers Brand:** By co-chairing a "bipartisan" caucus, Gottheimer inoculates himself against criticism that he is donor-captured. The caucus includes both Democrats and Republicans, which creates the appearance of principle-neutral problem-solving. In fact, the caucus's "problems" are consistently defined as progressive proposals that threaten capital. When Democrats propose healthcare price controls, the Problem Solvers "solve" this by removing the controls. The ideology is anti-progressive; the brand is anti-ideological.
 
-**The Pallor of Acceptability:** Gottheimer's willingness to work with Republicans and his "reasonable" demeanor make him palatable to media outlets and establishment Democrats. This creates a narrative advantage: when he blocks progressive legislation, he is not portrayed as a centrist defender of capital — he is portrayed as a pragmatist defending legislative feasibility. This narrative protection is part of what his donors are paying for.
+**The Pallor of Acceptability:** Gottheimer's willingness to work with Republicans and his "reasonable" demeanor make him palatable to media outlets and establishment Democrats. This creates a narrative advantage: when he blocks progressive legislation, he is not portrayed as a centrist defender of capital, he is portrayed as a pragmatist defending legislative feasibility. This narrative protection is part of what his donors are paying for.
 
 ### The Palantir Exception: Why Gottheimer Accepted ICE Surveillance Funding
 
-Gottheimer's acceptance of Palantir executive donations ($13.6K+) while most Democrats refused them due to Palantir's ICE contracts reveals his core alignment. When Palantir's involvement in ICE surveillance became public, other House Democrats — including some centrists — returned the money or refused new donations. Gottheimer did not. This choice indicates:
+Gottheimer's acceptance of Palantir executive donations ($13.6K+) while most Democrats refused them due to Palantir's ICE contracts reveals his core alignment. When Palantir's involvement in ICE surveillance became public, other House Democrats, including some centrists, returned the money or refused new donations. Gottheimer did not. This choice indicates:
 
 1. His commitment to centrist Wall Street/tech relationships overrides human rights concerns
 2. His willingness to work with surveillance capitalism (if it doesn't threaten corporate capital)
 3. His positioning within the tech industry (Palantir investors include Thiel, Musk ecosystem figures aligned with Trump/Vance)
 
-Gottheimer justified this by noting that Palantir also works for non-ICE government agencies. The acceptance of this rationalization — and the continued donations — reveals his actual priorities.
+Gottheimer justified this by noting that Palantir also works for non-ICE government agencies. The acceptance of this rationalization, and the continued donations, reveals his actual priorities.
 
 ### Biographical/District Facts
 

@@ -1,5 +1,5 @@
 ---
-title: "Herbert C. Conaway Master Profile"
+title: "Herbert C. Conaway"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

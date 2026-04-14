@@ -1,5 +1,5 @@
 ---
-title: "Ketanji Brown Jackson Master Profile"
+title: "Ketanji Brown Jackson"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

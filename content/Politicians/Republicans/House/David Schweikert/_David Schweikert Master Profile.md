@@ -1,5 +1,5 @@
 ---
-title: "David Schweikert Master Profile"
+title: "David Schweikert"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

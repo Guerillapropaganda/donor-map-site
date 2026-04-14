@@ -15,7 +15,7 @@ donors: [[Fossil Fuel Bloc]] · [[Koch Network - Charles Koch]]
 
 ---
 
-### Kentucky Inc — Coal, Tobacco, Bourbon, and Pharma
+### Kentucky Inc. Coal, Tobacco, Bourbon, and Pharma
 
 > [!money]
 > Kentucky's four dominant industries — coal, tobacco, bourbon, and pharmaceuticals — are McConnell's four dominant donor sectors. The state's economy and the senator's fundraising are structurally identical. McConnell doesn't represent Kentucky voters; he represents Kentucky capital. The voters are the poorest in America; the donors are among the wealthiest corporations in the world.
@@ -31,7 +31,7 @@ McConnell's tobacco industry relationship is the most documented donor-class cap
 - Altria Group: among top career contributors
 - Altria: $150,000 to KY GOP Building Fund (2025)
 
-**The "Special Friend" documents:** Internal R.J. Reynolds documents obtained by NPR (2019) described McConnell as a "special friend" to the company. The documents show Reynolds tracked McConnell's legislative actions on tobacco regulation, FDA oversight, and marketing restrictions — and he delivered consistently.
+**The "Special Friend" documents:** Internal R.J. Reynolds documents obtained by NPR (2019) described McConnell as a "special friend" to the company. The documents show Reynolds tracked McConnell's legislative actions on tobacco regulation, FDA oversight, and marketing restrictions, and he delivered consistently.
 
 ### Legislative service:
 - Opposed FDA tobacco regulation for decades
@@ -48,15 +48,15 @@ McConnell's tobacco industry relationship is the most documented donor-class cap
 
 McConnell was the top recipient of coal mining contributions in the 2007–2008 cycle. Kentucky coal historically anchored his donor base, though the industry has declined dramatically.
 
-**The Kentucky coal paradox:** Coal employment in Kentucky has collapsed from 40,000+ jobs (1980s) to fewer than 4,000 (2024). McConnell continues opposing climate legislation that would accelerate coal's decline — protecting an industry that barely employs his constituents anymore. The beneficiaries are coal company shareholders, not coal miners.
+**The Kentucky coal paradox:** Coal employment in Kentucky has collapsed from 40,000+ jobs (1980s) to fewer than 4,000 (2024). McConnell continues opposing climate legislation that would accelerate coal's decline, protecting an industry that barely employs his constituents anymore. The beneficiaries are coal company shareholders, not coal miners.
 
 ---
 
 ### Bourbon: The Industry Award ($145K in 2014)
 
-**Brown-Forman Corporation** (Jack Daniel's, Old Forester) — Louisville-based spirits company. Three of McConnell's top five individual donors in the 2014 cycle were Brown-Forman executives. Total bourbon industry contributions: $144,950 (2014 cycle).
+**Brown-Forman Corporation** (Jack Daniel's, Old Forester). Louisville-based spirits company. Three of McConnell's top five individual donors in the 2014 cycle were Brown-Forman executives. Total bourbon industry contributions: $144,950 (2014 cycle).
 
-The Kentucky Distillers' Association honored McConnell with its "100 Proof" Award for lobbying on behalf of the bourbon industry — tariff protection, excise tax reduction, export promotion.
+The Kentucky Distillers' Association honored McConnell with its "100 Proof" Award for lobbying on behalf of the bourbon industry, tariff protection, excise tax reduction, export promotion.
 
 ---
 
@@ -74,15 +74,15 @@ The Kentucky Distillers' Association honored McConnell with its "100 Proof" Awar
 
 | Date | Event | Amount | Source |
 |------|-------|--------|--------|
-| 1980-01-01 | Kentucky coal employment at peak: 40,000+ jobs (baseline period) | — | Kentucky Labor Statistics |
+| 1980-01-01 | Kentucky coal employment at peak: 40,000+ jobs (baseline period) |, | Kentucky Labor Statistics |
 | 1980-2009 | McConnell receives tobacco donations and opposes FDA regulation (exact dates pending) | $650,000+ career total | OpenSecrets/FEC |
-| 2009-01-01 | McConnell fights Family Smoking Prevention and Tobacco Control Act (exact date pending) | — | Senate voting records |
-| 2007-2008 | McConnell is top recipient of coal mining contributions (election cycle) | — | OpenSecrets |
+| 2009-01-01 | McConnell fights Family Smoking Prevention and Tobacco Control Act (exact date pending) |, | Senate voting records |
+| 2007-2008 | McConnell is top recipient of coal mining contributions (election cycle) |, | OpenSecrets |
 | 2014-01-01 | Brown-Forman executives donate to McConnell; bourbon industry total (exact date pending) | $144,950 | FEC filings |
-| 2014-01-01 | Kentucky Distillers' Association honors McConnell with "100 Proof" Award (exact date pending) | — | Industry records |
+| 2014-01-01 | Kentucky Distillers' Association honors McConnell with "100 Proof" Award (exact date pending) |, | Industry records |
 | 2020-01-01 | McConnell's dark money network raises funds (exact date pending) | $172,000,000 | ProPublica/OpenSecrets |
 | 2022-01-01 | Senate Leadership Fund spends on McConnell agenda (exact date pending) | $291,000,000 | OpenSecrets |
-| 2024-01-01 | Coal employment in Kentucky drops to 4,000 jobs (baseline: 40,000 in 1980s) | — | Kentucky Labor Statistics |
+| 2024-01-01 | Coal employment in Kentucky drops to 4,000 jobs (baseline: 40,000 in 1980s) |, | Kentucky Labor Statistics |
 | 2025-01-01 | Pfizer donates $1M to Kentucky Republican Party HQ expansion (exact date pending) | $1,000,000 | Corporate donation records |
 | 2025-01-01 | Altria donates $150,000 to KY GOP Building Fund (exact date pending) | $150,000 | Corporate donation records |
 | 2025-01-01 | McConnell net worth accumulated (via wife Elaine Chao's family wealth) | $35,000,000 | Personal financial disclosure |

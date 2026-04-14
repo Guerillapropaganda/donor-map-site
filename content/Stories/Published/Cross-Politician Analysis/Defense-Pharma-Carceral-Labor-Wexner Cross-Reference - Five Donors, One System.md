@@ -388,10 +388,10 @@ This is not corruption in the quid-pro-quo sense. It is the structural function 
 
 #### Tier 1 (Government Databases & API Data)
 
-- ~~[FEC: RTX Corp candidate totals](https://www.fec.gov/data/candidate/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1) (UNVERIFIED)
-- ~~[FEC: PhRMA candidate totals](https://www.fec.gov/data/candidate/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1) (UNVERIFIED)
-- ~~[FEC: GEO Group candidate totals](https://www.fec.gov/data/candidate/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1) (UNVERIFIED)
-- ~~[FEC: UAW candidate totals](https://www.fec.gov/data/candidate/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1) (UNVERIFIED)
+- ~~[FEC: RTX Corp candidate totals](https://www.fec.gov/data/candidate/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1) (UNVERIFIED)
+- ~~[FEC: PhRMA candidate totals](https://www.fec.gov/data/candidate/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1) (UNVERIFIED)
+- ~~[FEC: GEO Group candidate totals](https://www.fec.gov/data/candidate/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1) (UNVERIFIED)
+- ~~[FEC: UAW candidate totals](https://www.fec.gov/data/candidate/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1) (UNVERIFIED)
 - [Senate LDA: RTX lobbying filings](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
 - [Senate LDA: PhRMA lobbying filings](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
 - [Senate LDA: GEO Group lobbying filings](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
@@ -412,7 +412,7 @@ This is not corruption in the quid-pro-quo sense. It is the structural function 
 - [OpenSecrets: Defense sector military earmarks analysis](https://www.opensecrets.org/news/2023/01/defense-sector-contributed-heavily-to-45-senators-who-secured-1-8-billion-in-military-construction-earmarks) (Tier 2) (VERIFIED) (UNVERIFIED)
 - [OpenSecrets: Wexner 2022 analysis](https://www.opensecrets.org/news/2022/08/victorias-secret-founder-donates-big-to-gop/) (Tier 2) (VERIFIED) (UNVERIFIED)
 - [The Lever: PhRMA dark money $8B bonanza](https://www.levernews.com/big-pharmas-dark-money-scores-8-billion-bonanza/) (Tier 2) (VERIFIED)
-- ~~[Quiver Quantitative: RTX lobbying disclosures](https://www.quiverquant.com/lobbying/stock/RTX/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[Quiver Quantitative: RTX lobbying disclosures](https://www.quiverquant.com/lobbying/stock/RTX/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 - [Quiver Quantitative: Congress trading defense stocks](https://www.quiverquant.com/news/Congress+trading+in+Defense:+What+are+they+buying) (Tier 2) (VERIFIED)
 - [Quiver Quantitative: GEO Group Q1 2025 lobbying](https://www.quiverquant.com/news/Lobbying+Update:+$350,000+of+THE+GEO+GROUP+INC.+lobbying+was+just+disclosed) (Tier 2) (VERIFIED)
 - [Common Dreams: Congress members holding defense stock](https://www.commondreams.org/news/members-of-congress-who-own-defense-stock) (Tier 2) (VERIFIED)
@@ -451,7 +451,7 @@ This is not corruption in the quid-pro-quo sense. It is the structural function 
 
 - [YouTube/Washington Post: BI Incorporated ankle monitor monopoly](https://www.youtube.com?v=ftCRPoZcB9I) (Tier 4) (VERIFIED)
 - [YouTube/WBNS10TV: Wexner 2025 donations](https://www.youtube.com?v=a2kis7KKp84) (Tier 4) (VERIFIED)
-- ~~[MeidasNews: Wexner recent donations](https://meidasnews.com/news/les-wexner-donated-to-several-republican-candidates-as-recently-as-last-year)~~ (was Tier 4 — URL broken, archived by Ops) (Tier 4) (UNVERIFIED)
+- ~~[MeidasNews: Wexner recent donations](https://meidasnews.com/news/les-wexner-donated-to-several-republican-candidates-as-recently-as-last-year)~~ (was Tier 4. URL broken, archived by Ops) (Tier 4) (UNVERIFIED)
 
 #### Tier 3 (Reference/Policy)
 

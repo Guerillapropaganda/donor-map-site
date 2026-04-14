@@ -19,9 +19,9 @@ donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]] [[United Demo
 
 ### The Swing-District Survivor and AIPAC Investment
 
-Mike Lawler represents New York's 17th District — the Lower Hudson Valley, one of the most competitive congressional districts in America. Lawler won in 2022 by defeating DCCC chairman Sean Patrick Maloney, making him one of the highest-profile Republican freshman. His 2024 reelection made him the rare Republican who can win in a Biden +10 district.
+Mike Lawler represents New York's 17th District, the Lower Hudson Valley, one of the most competitive congressional districts in America. Lawler won in 2022 by defeating DCCC chairman Sean Patrick Maloney, making him one of the highest-profile Republican freshman. His 2024 reelection made him the rare Republican who can win in a Biden +10 district.
 
-Lawler's political survival depends on a specific coalition: moderate suburban voters, pro-Israel donors, and enough Democratic crossover to overcome the district's partisan lean. AIPAC and its affiliated United Democracy Project (UDP) super PAC invested heavily in Lawler's races — recognizing that a vulnerable Republican who is locked in on Israel policy is a more reliable vote than a safe-seat Democrat who might waver under progressive pressure.
+Lawler's political survival depends on a specific coalition: moderate suburban voters, pro-Israel donors, and enough Democratic crossover to overcome the district's partisan lean. AIPAC and its affiliated United Democracy Project (UDP) super PAC invested heavily in Lawler's races, recognizing that a vulnerable Republican who is locked in on Israel policy is a more reliable vote than a safe-seat Democrat who might waver under progressive pressure.
 
 ---
 
@@ -36,7 +36,7 @@ Lawler's foreign policy positions are calibrated to maintain AIPAC support: unco
 
 ### Sources
 
-- ~~[Congress.gov: Mike Lawler member profile](https://www.congress.gov/member/michael-lawler/L000599)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[Congress.gov: Mike Lawler campaign finance summary](https://www.congress.gov/search?q=Mike%20Lawler&searchResultViewType=expanded)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Mike Lawler member profile](https://www.congress.gov/member/michael-lawler/L000599)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Mike Lawler campaign finance summary](https://www.congress.gov/search?q=Mike%20Lawler&searchResultViewType=expanded)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Ballotpedia: Mike Lawler](https://ballotpedia.org/Mike_Lawler) (Tier 3) (VERIFIED)
 

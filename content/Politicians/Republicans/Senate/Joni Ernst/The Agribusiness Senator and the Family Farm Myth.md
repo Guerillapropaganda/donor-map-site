@@ -177,11 +177,11 @@ Retirement before the 2026 cycle avoided forcing a defense of the contradiction 
 ### Sources
 
 - [FEC Candidate: Sen. Joni Ernst campaign finance summary](https://www.fec.gov/data/candidate/S4IA00129/) (Tier 1) (VERIFIED)
-- ~~[The Hill: Kochs max out for Iowa Republican](https://www.thehill.com/blogs/ballot-box/senate-races/212609-kochs-max-out-for-ernst-in-iowa/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Kochs max out for Iowa Republican](https://www.thehill.com/blogs/ballot-box/senate-races/212609-kochs-max-out-for-ernst-in-iowa/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Think Progress: Iowa Senate Nominee Says The Koch Network 'Started My Trajectory'](https://thinkprogress.org/iowa-senate-nominee-says-the-koch-network-started-my-trajectory-56712b88d7e/) (Tier 2) (VERIFIED)
 - [USDA NASS: Iowa Farm Statistics 2020](https://www.nass.usda.gov/Statistics_by_State/Iowa/Publications/index.php) (Tier 1) (VERIFIED)
 - [Wikipedia: Concentrated Animal Feeding Operations](https://en.wikipedia.org/wiki/Concentrated_animal_feeding_operation) (Tier 3) (VERIFIED)
-- ~~[National Resources Defense Council: Factory Farming Impacts](https://www.nrdc.org/stories/factory-farming-air-pollution)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[National Resources Defense Council: Factory Farming Impacts](https://www.nrdc.org/stories/factory-farming-air-pollution)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Environmental Protection Agency: CAFOs Overview](https://www.epa.gov/npdes/animal-feeding-operations-afos) (Tier 1) (VERIFIED)
 - [U.S. Senator Joni Ernst: Agriculture Priorities](https://www.ernst.senate.gov/priorities/agriculture) (Tier 1) (VERIFIED)
 - [NBC News: Republican Sen. Joni Ernst won't seek re-election in Iowa in 2026](https://www.nbcnews.com/politics/2026-election/republican-sen-joni-ernst-wont-seek-re-election-iowa-2026-rcna228053) (Tier 2) (VERIFIED)

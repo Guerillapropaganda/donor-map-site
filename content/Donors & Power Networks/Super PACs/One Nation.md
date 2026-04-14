@@ -81,9 +81,9 @@ One Nation's massive spending has successfully protected McConnell-aligned Repub
 
 ### Class Analysis
 
-One Nation exemplifies how dark money enables wealthy donors to exert political power while remaining completely anonymous: the organization spends tens of millions of dollars annually without disclosing a single donor's identity. The 501(c)(4) structure — ostensibly for "social welfare" — is entirely a legal fiction; One Nation operates as a Super PAC but avoids the donor disclosure requirements that Super PACs must follow. The organization's function is to prevent the Democratic process from working as intended: Republican voters prefer Trump and populist candidates, but One Nation's massive, anonymous spending allows billionaire donors to overrule grassroots preference and install their preferred moderate Republicans. One Nation's existence and success reveals that the restriction on campaign spending is not a financial limit but a donor anonymity structure.
+One Nation exemplifies how dark money enables wealthy donors to exert political power while remaining completely anonymous: the organization spends tens of millions of dollars annually without disclosing a single donor's identity. The 501(c)(4) structure, ostensibly for "social welfare", is entirely a legal fiction; One Nation operates as a Super PAC but avoids the donor disclosure requirements that Super PACs must follow. The organization's function is to prevent the Democratic process from working as intended: Republican voters prefer Trump and populist candidates, but One Nation's massive, anonymous spending allows billionaire donors to overrule grassroots preference and install their preferred moderate Republicans. One Nation's existence and success reveals that the restriction on campaign spending is not a financial limit but a donor anonymity structure.
 
-### Financial Overview (990 Filing — 2023)
+### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
 
 | Metric | Amount |

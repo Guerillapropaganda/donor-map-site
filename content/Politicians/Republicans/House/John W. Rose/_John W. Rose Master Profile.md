@@ -1,5 +1,5 @@
 ---
-title: "John W. Rose Master Profile"
+title: "John W. Rose"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

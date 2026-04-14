@@ -1,5 +1,5 @@
 ---
-title: "Antony Blinken Master Profile"
+title: "Antony Blinken"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

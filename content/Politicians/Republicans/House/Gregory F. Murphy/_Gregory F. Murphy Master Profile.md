@@ -1,5 +1,5 @@
 ---
-title: "Gregory F. Murphy Master Profile"
+title: "Gregory F. Murphy"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

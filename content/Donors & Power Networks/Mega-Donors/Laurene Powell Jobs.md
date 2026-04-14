@@ -70,7 +70,7 @@ tags: #donor
 
 [[Laurene Powell Jobs|Laurene Powell Jobs]]. Born 1963. Widow of Apple co-founder Steve Jobs (married 1991–2011). Founder and president of Emerson Collective (2011–present). Co-founder and board chair of XQ Institute. Owner and chair of The Atlantic magazine (majority stake since 2017). Net worth: $11.9–15 billion (Bloomberg, 2025), primarily inherited from Steve Jobs' estate ($14.1B in Apple shares and 7.3% Disney stake at his death).
 
-The inheritance model matters: Powell Jobs did not build her wealth. She inherited the controlling power to spend it, which makes her a pure donor-class operator—no business to protect, no labor to suppress, just capital deployed through philanthropic and media infrastructure to shape Democratic politics.
+The inheritance model matters: Powell Jobs did not build her wealth. She inherited the controlling power to spend it, which makes her a pure donor-class operator, no business to protect, no labor to suppress, just capital deployed through philanthropic and media infrastructure to shape Democratic politics.
 
 ---
 
@@ -86,17 +86,17 @@ The pattern: all cause areas that allow billionaire leadership, media visibility
 
 | Date | Recipient/Event | Amount | Policy Context | Gap |
 |------|-----------------|--------|-----------------|-----|
-| 2012 | Democratic Senatorial Campaign Committee | $30.8K | Democratic Senate infrastructure | — |
-| 2014 | [[Senate Majority PAC|Senate Majority PAC]] | $500K | Midterm Democratic Senate | — |
+| 2012 | Democratic Senatorial Campaign Committee | $30.8K | Democratic Senate infrastructure |, |
+| 2014 | [[Senate Majority PAC|Senate Majority PAC]] | $500K | Midterm Democratic Senate |, |
 | 2016 | Hillary Clinton (direct) | $2M | Presidential campaign | 6 months |
 | 2016 | Hillary Clinton (bundled/raised) | $4M | Presidential fundraising | 6 months |
-| 2016 | Federal-level campaigns (total) | $2.3M | Top 100 donor cycle | — |
+| 2016 | Federal-level campaigns (total) | $2.3M | Top 100 donor cycle |, |
 | 2017 | ACRONYM | unreported | Democratic digital/data infrastructure | 3 years |
 | 2020 | Biden campaign | $700K | Presidential campaign | 8 months |
-| 2023 | Biden/Harris reelection campaign | ~$1M | Incumbent Democratic ticket | — |
-| 2023–24 | [[_Kamala Harris Master Profile|Kamala Harris]] (direct, quiet donations) | millions (unreported) | Harris 2024 campaign + backup infrastructure | — |
-| 2024 | Biden Victory Fund | $929.6K | Transition to Harris campaign | — |
-| 2024 | DNC | $400K+ | Democratic National Committee | — |
+| 2023 | Biden/Harris reelection campaign | ~$1M | Incumbent Democratic ticket |, |
+| 2023–24 | [[_Kamala Harris Master Profile|Kamala Harris]] (direct, quiet donations) | millions (unreported) | Harris 2024 campaign + backup infrastructure |, |
+| 2024 | Biden Victory Fund | $929.6K | Transition to Harris campaign |, |
+| 2024 | DNC | $400K+ | Democratic National Committee |, |
 
 **Total identified 2012–2024:** $8.5M+ (federal level only; state/local and "quiet" bundled giving likely 3–5x higher).
 
@@ -134,21 +134,21 @@ Compare: Musk bought Twitter to control information flow and amplify his politic
 
 No political enemies documented (unlike Musk or Koch). Her positions are systematically non-threatening to existing wealth structures. Education reform bypasses public funding fights. Immigration reform positions workers as innovation opportunity, not power-builders. Climate giving flows to market-based solutions (carbon credits, venture energy companies) rather than fossil fuel divestment or systemic energy transformation.
 
-Opposition to philanthropic power itself is structural rather than personal—labor unions (CTA) and progressive organizations have challenged billionaire-led education and climate agendas, but without naming Powell Jobs specifically.
+Opposition to philanthropic power itself is structural rather than personal, labor unions (CTA) and progressive organizations have challenged billionaire-led education and climate agendas, but without naming Powell Jobs specifically.
 
 ---
 
 ### Connected Policy Areas
 
-[[Education - Donors and Backers]] — XQ Institute, College Track, $50M+ super school challenge, venture-backed high school redesign (avoids public school funding fights)
+[[Education - Donors and Backers]]. XQ Institute, College Track, $50M+ super school challenge, venture-backed high school redesign (avoids public school funding fights)
 
-[[Immigration - Donors and Backers]] — Documentary advocacy, innovation incubator, policy influence, "Dream Is Now" (2013 film), artist/storyteller infrastructure
+[[Immigration - Donors and Backers]]. Documentary advocacy, innovation incubator, policy influence, "Dream Is Now" (2013 film), artist/storyteller infrastructure
 
-[[Climate Philanthropy - The Green Billionaires]] — $3.5B committed over ten years, beyond-carbon approach, impact investing framework (market-based not systemic)
+[[Climate Philanthropy - The Green Billionaires]], $3.5B committed over ten years, beyond-carbon approach, impact investing framework (market-based not systemic)
 
-[[Democratic Donor Network]] — Top 100 federal donor, Kamala Harris relationship, Democratic establishment infrastructure
+[[Democratic Donor Network]]. Top 100 federal donor, Kamala Harris relationship, Democratic establishment infrastructure
 
-Media Ownership and Donor Influence — The Atlantic, Axios funding, Gimlet Media, editorial power as unregulated donor leverage
+Media Ownership and Donor Influence. The Atlantic, Axios funding, Gimlet Media, editorial power as unregulated donor leverage
 
 ---
 
@@ -165,33 +165,33 @@ The Atlantic acquisition completes the picture. Billionaires buy media propertie
 ### Sources
 
 ### Political Donations & Timeline:
-- [OpenSecrets — Laurene Powell Jobs donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Laurene%20Powell%20Jobs) (Tier 1) (VERIFIED)
-- [Fortune — "Laurene Powell Jobs is one of Kamala Harris' biggest bankrollers"](https://fortune.com/2024/09/26/laurene-powell-jobs-kamala-harris-biggest-donor-friends/) (Tier 2) (VERIFIED)
-- [Ballotpedia — Laurene Powell Jobs](https://ballotpedia.org/Laurene_Powell_Jobs) (Tier 2) (VERIFIED)
-- [Philanthropynewsdigest — Jobs' wife pushes education, immigration policy reform](https://candid.org/blogs/) (Tier 2) (VERIFIED)
+- [OpenSecrets. Laurene Powell Jobs donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Laurene%20Powell%20Jobs) (Tier 1) (VERIFIED)
+- [Fortune, "Laurene Powell Jobs is one of Kamala Harris' biggest bankrollers"](https://fortune.com/2024/09/26/laurene-powell-jobs-kamala-harris-biggest-donor-friends/) (Tier 2) (VERIFIED)
+- [Ballotpedia. Laurene Powell Jobs](https://ballotpedia.org/Laurene_Powell_Jobs) (Tier 2) (VERIFIED)
+- [Philanthropynewsdigest. Jobs' wife pushes education, immigration policy reform](https://candid.org/blogs/) (Tier 2) (VERIFIED)
 
 ### Emerson Collective & Structure:
-- [Wikipedia — Emerson Collective](https://en.wikipedia.org/wiki/Emerson_Collective) (Tier 3) (VERIFIED)
-- [InfluenceWatch — Emerson Collective (Waverley Street Foundation)](https://www.influencewatch.org/non-profit/emerson-collective/) (Tier 2) (VERIFIED)
-- [NCRP — Learning from Emerson Collective's philanthropic recipe](https://ncrp.org/resources/learning-from-emerson-collectives-philanthropic-recipe-for-these-times/) (Tier 2) (VERIFIED)
+- [Wikipedia. Emerson Collective](https://en.wikipedia.org/wiki/Emerson_Collective) (Tier 3) (VERIFIED)
+- [InfluenceWatch. Emerson Collective (Waverley Street Foundation)](https://www.influencewatch.org/non-profit/emerson-collective/) (Tier 2) (VERIFIED)
+- [NCRP. Learning from Emerson Collective's philanthropic recipe](https://ncrp.org/resources/learning-from-emerson-collectives-philanthropic-recipe-for-these-times/) (Tier 2) (VERIFIED)
 
 ### The Atlantic & Media:
-- [NPR — Powell Jobs to buy stake in The Atlantic](https://www.npr.org/2017/07/28/540006091/laurene-powell-jobs-to-buy-stake-in-the-atlantic) (Tier 2) (VERIFIED)
-- [Axios — Powell Jobs buys majority stake in The Atlantic](https://www.axios.com/2017/12/15/laurene-powell-jobs-buys-majority-stake-in-the-atlantic-1513304509) (Tier 2) (VERIFIED)
+- [NPR. Powell Jobs to buy stake in The Atlantic](https://www.npr.org/2017/07/28/540006091/laurene-powell-jobs-to-buy-stake-in-the-atlantic) (Tier 2) (VERIFIED)
+- [Axios. Powell Jobs buys majority stake in The Atlantic](https://www.axios.com/2017/12/15/laurene-powell-jobs-buys-majority-stake-in-the-atlantic-1513304509) (Tier 2) (VERIFIED)
 
 ### XQ Institute & Education:
-- [Inside Philanthropy — XQ Institute mission to remake high school](https://insidephilanthropy.com/home/laurene-powell-jobs-xq-institute-is-on-a-mission-to-remake-high-school) (Tier 2) (NEEDS REVIEW)
-- [Philanthropynewsdigest — Powell Jobs launches $50M super school challenge](https://candid.org/blogs/) (Tier 2) (VERIFIED)
+- [Inside Philanthropy. XQ Institute mission to remake high school](https://insidephilanthropy.com/home/laurene-powell-jobs-xq-institute-is-on-a-mission-to-remake-high-school) (Tier 2) (NEEDS REVIEW)
+- [Philanthropynewsdigest. Powell Jobs launches $50M super school challenge](https://candid.org/blogs/) (Tier 2) (VERIFIED)
 
 ### Net Worth & Inheritance:
-- ~~[Bloomberg Billionaires Index — Laurene Powell Jobs](https://www.bloomberg.com/billionaires/profiles/laurene-p-jobs/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- [Wikipedia — Laurene Powell Jobs](https://en.wikipedia.org/wiki/Laurene_Powell_Jobs) (Tier 3) (VERIFIED)
+- ~~[Bloomberg Billionaires Index. Laurene Powell Jobs](https://www.bloomberg.com/billionaires/profiles/laurene-p-jobs/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- [Wikipedia. Laurene Powell Jobs](https://en.wikipedia.org/wiki/Laurene_Powell_Jobs) (Tier 3) (VERIFIED)
 
 ### Climate Giving:
-- [Inside Philanthropy — Who will get Powell Jobs' $3.5 billion climate gift?](https://www.philanthropy.com/news/who-will-get-powell-jobss-3-5-billion-gift-for-climate-work/) (Tier 2) (VERIFIED)
+- [Inside Philanthropy. Who will get Powell Jobs' $3.5 billion climate gift?](https://www.philanthropy.com/news/who-will-get-powell-jobss-3-5-billion-gift-for-climate-work/) (Tier 2) (VERIFIED)
 
 ### Immigration Work:
-- [Washington Post — Laurene Powell Jobs' quest in education, immigration, media](https://www.washingtonpost.com/news/style/wp/2018/06/11/feature/the-quest-of-laurene-powell-jobs/) (Tier 2) (VERIFIED)
+- [Washington Post. Laurene Powell Jobs' quest in education, immigration, media](https://www.washingtonpost.com/news/style/wp/2018/06/11/feature/the-quest-of-laurene-powell-jobs/) (Tier 2) (VERIFIED)
 
 ---
 

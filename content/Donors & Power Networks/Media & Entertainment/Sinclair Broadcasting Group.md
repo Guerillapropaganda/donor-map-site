@@ -162,7 +162,7 @@ This creates **asymmetric information environment:** Americans receiving local n
 
 Sinclair also illustrates **media ownership consolidation risks:** 40%+ of Americans receiving primary local news from single corporate entity means Sinclair can shape political information environment in 185+ markets simultaneously. No opposing organization has comparable local news infrastructure to counter Sinclair's messaging.
 
-The "must-run" segments reveal **how corporate ownership corrupts journalism:** Rather than journalists deciding what to cover and how to frame stories, centralized corporate directives (Smith family + corporate headquarters) determine content. This is journalism in name only — the form of journalism (local news anchors, newscast format) without journalistic independence.
+The "must-run" segments reveal **how corporate ownership corrupts journalism:** Rather than journalists deciding what to cover and how to frame stories, centralized corporate directives (Smith family + corporate headquarters) determine content. This is journalism in name only, the form of journalism (local news anchors, newscast format) without journalistic independence.
 
 Sinclair's success also reveals **regulatory capture in media:** FCC nominally regulates broadcast station ownership and content, yet has permitted Sinclair to grow to 185+ stations (exceeding older ownership limits) and has not enforced rules against manipulative "must-run" content segments. This regulatory forbearance allows corporate political messaging to operate as "news" without FCC objection.
 
@@ -170,11 +170,11 @@ Sinclair's success also reveals **regulatory capture in media:** FCC nominally r
 
 ### Sources
 
-- ~~[OpenSecrets: Sinclair Broadcasting company profile](https://www.opensecrets.org/orgs/sinclair-broadcast-group/summary)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Sinclair Broadcasting company profile](https://www.opensecrets.org/orgs/sinclair-broadcast-group/summary)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [NPR: Sinclair Broadcast Group Forces Nearly 200 Station Anchors To Read Same Script](https://www.npr.org/2018/04/02/598916366/sinclair-broadcast-group-forces-nearly-200-station-anchors-to-read-same-script) (Tier 2) (VERIFIED)
 - [NPR: Sinclair Broadcasting and local news consolidation](https://www.npr.org/2018/04/02/598916366/sinclair-broadcast-group-forces-nearly-200-station-anchors-to-read-same-script) (Tier 2) (VERIFIED)
 - [FCC: Broadcast station ownership limits and Sinclair compliance](https://www.fcc.gov/document/sinclair-broadcast-group-approval) (Tier 1) (NEEDS REVIEW)
-- ~~[Pew Research: Local news trust and Sinclair's market penetration](https://www.pewresearch.org/journalism/2023/06/13/local-news-media-landscape/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Pew Research: Local news trust and Sinclair's market penetration](https://www.pewresearch.org/journalism/2023/06/13/local-news-media-landscape/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ---
 

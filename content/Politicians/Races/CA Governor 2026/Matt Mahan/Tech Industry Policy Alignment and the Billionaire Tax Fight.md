@@ -24,7 +24,7 @@ donors: (Silicon Valley tech billionaires, developer networks)
 
 ### The Billionaire Tax Fight
 
-**The Proposal:** California's "2026 Billionaire Tax Act" — a proposed ballot measure imposing a 5% one-time tax on billionaires residing in the state.
+**The Proposal:** California's "2026 Billionaire Tax Act", a proposed ballot measure imposing a 5% one-time tax on billionaires residing in the state.
 
 ### Mahan's Opposition Statements:
 - "We need a rising economic tide to lift all boats, not a political plan that will sink California's innovation economy"
@@ -32,7 +32,7 @@ donors: (Silicon Valley tech billionaires, developer networks)
 - "Driving billionaires out of state might feel good in the short run but working people (as is almost always the case) will pick up the tab for this political ploy"
 - "Having California go it alone on a wealth tax is incredibly risky, and it particularly threatens the industry that my community, San Jose, Silicon Valley, relies on"
 
-**His alternative:** "Closing the massive loopholes nationally that allow the wealthiest among us to essentially never pay taxes on many capital gains" — a federal-level solution he would have no authority to implement as governor.
+**His alternative:** "Closing the massive loopholes nationally that allow the wealthiest among us to essentially never pay taxes on many capital gains", a federal-level solution he would have no authority to implement as governor.
 
 > [!contradiction]
 > The sequence matters: Mahan announced his opposition to the billionaire tax → 25+ billionaires maxed out contributions → outside spending groups funded by billionaires spent $4.8M on TV ads. The policy position preceded the funding. Mahan didn't change his position to attract donors — but he also didn't need to. The tech class found a candidate whose sincere beliefs happen to serve their financial interests. This is how donor-class politics works at its most efficient: no corruption required, just alignment.
@@ -47,7 +47,7 @@ donors: (Silicon Valley tech billionaires, developer networks)
 - 30-day permit requirements for local governments
 - Simplified building code
 - Support for factory-built/modular housing
-- "Smart Growth San José" — housing near transit/jobs, not suburban sprawl
+- "Smart Growth San José", housing near transit/jobs, not suburban sprawl
 
 ### Who benefits:
 - Real estate developers (reduced fees, faster permits)
@@ -71,7 +71,7 @@ donors: (Silicon Valley tech billionaires, developer networks)
 - Declined facial recognition use in San Jose (progressive credential)
 - Regular data deletion protocols (privacy credential)
 
-**The class function:** Mahan's AI position threads a needle — enough progressive gestures (no facial recognition, data deletion) to maintain Democratic credibility, but no structural regulation that would constrain the AI companies his donors run. "Upskilling courses" puts the burden of AI disruption on workers (learn new skills) rather than on companies (slow deployment). The tech industry's preferred outcome.
+**The class function:** Mahan's AI position threads a needle, enough progressive gestures (no facial recognition, data deletion) to maintain Democratic credibility, but no structural regulation that would constrain the AI companies his donors run. "Upskilling courses" puts the burden of AI disruption on workers (learn new skills) rather than on companies (slow deployment). The tech industry's preferred outcome.
 
 ---
 
@@ -84,7 +84,7 @@ donors: (Silicon Valley tech billionaires, developer networks)
 ### Garry's List (Garry Tan):
 - "Voter education" nonprofit
 - Supports "common-sense pro-growth policies"
-- Functions as dark money support — 501(c)(4) status means limited disclosure requirements
+- Functions as dark money support, 501(c)(4) status means limited disclosure requirements
 - Founded by YC CEO who also maxed out directly to Mahan
 
 **The pattern:** Direct contributions ($8.5M) + independent expenditure ($4.8M) + dark money support (Garry's List, undisclosed) = $24M+ total support. The billionaire class uses every available channel simultaneously.

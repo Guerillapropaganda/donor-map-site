@@ -1,5 +1,5 @@
 ---
-title: "Dan Coats Master Profile"
+title: "Dan Coats"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

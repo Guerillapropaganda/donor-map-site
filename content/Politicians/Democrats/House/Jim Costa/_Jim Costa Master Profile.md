@@ -1,5 +1,5 @@
 ---
-title: "Jim Costa Master Profile"
+title: "Jim Costa"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

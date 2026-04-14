@@ -1,5 +1,5 @@
 ---
-title: "Troy E. Nehls Master Profile"
+title: "Troy E. Nehls"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

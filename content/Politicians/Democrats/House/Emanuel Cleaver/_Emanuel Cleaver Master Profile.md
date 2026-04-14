@@ -1,5 +1,5 @@
 ---
-title: "Emanuel Cleaver Master Profile"
+title: "Emanuel Cleaver"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

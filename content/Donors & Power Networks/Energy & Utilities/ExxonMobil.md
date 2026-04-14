@@ -74,7 +74,7 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### Who They Are
 
-[[ExxonMobil|ExxonMobil]] is the world's largest integrated energy company by revenue, headquartered in Irving, Texas. The corporation operates globally in upstream (exploration and production), downstream (refining, marketing), and chemical segments. As of 2024, Darren Woods serves as Chairman and CEO—a position he has held since January 2017, following [[_Rex Tillerson Master Profile|Rex Tillerson]]'s departure to serve as Secretary of State (2017-2018) under [[_Donald Trump Master Profile|Trump]].
+[[ExxonMobil|ExxonMobil]] is the world's largest integrated energy company by revenue, headquartered in Irving, Texas. The corporation operates globally in upstream (exploration and production), downstream (refining, marketing), and chemical segments. As of 2024, Darren Woods serves as Chairman and CEO, a position he has held since January 2017, following [[_Rex Tillerson Master Profile|Rex Tillerson]]'s departure to serve as Secretary of State (2017-2018) under [[_Donald Trump Master Profile|Trump]].
 
 In May 2024, ExxonMobil completed its $59.5 billion all-stock acquisition of Pioneer Natural Resources, more than doubling its Permian Basin footprint to over 1.4 million net acres with an estimated 16 billion barrels of oil equivalent resource. The company's Permian production is projected to reach 2 million barrels of oil equivalent per day by 2027.
 
@@ -85,10 +85,10 @@ In May 2024, ExxonMobil completed its $59.5 billion all-stock acquisition of Pio
 
 ### What They Want
 
-**Core objective:** Sustained profitability in oil and gas operations with regulatory certainty that minimizes transition risk. ExxonMobil's stated strategy balances traditional hydrocarbon production with selective low-carbon capital allocation—particularly carbon capture and storage (CCS) and direct air capture (DAC), leveraging federal subsidies via the Inflation Reduction Act.
+**Core objective:** Sustained profitability in oil and gas operations with regulatory certainty that minimizes transition risk. ExxonMobil's stated strategy balances traditional hydrocarbon production with selective low-carbon capital allocation, particularly carbon capture and storage (CCS) and direct air capture (DAC), leveraging federal subsidies via the Inflation Reduction Act.
 
 ### Policy priorities:
-- Preservation of federal tax credits for carbon capture (Section 45Q — ExxonMobil's primary financial beneficiary)
+- Preservation of federal tax credits for carbon capture (Section 45Q. ExxonMobil's primary financial beneficiary)
 - Favorable depreciation schedules and deductions for oil and gas operations
 - Regulatory predictability in methane and emissions standards (with compliance flexibility for large operators)
 - Permitting efficiency for upstream projects and acquisitions
@@ -106,27 +106,27 @@ In May 2024, ExxonMobil completed its $59.5 billion all-stock acquisition of Pio
 
 | Cycle | Total (All Sources) | PAC Only | % Democrat | % Republican |
 |-------|---------------------|----------|------------|--------------|
-| 2024  | $1,885,072          | $803,250 | 43.5%      | 56.5%        |
-| 2022  | $1,573,513          | $847,500 | 38.1%      | 61.9%        |
-| 2020  | $3,163,457          | $1,190,925 | 38.9%    | 61.1%        |
-| 2018  | $2,326,340          | $1,364,950 | 34.3%    | 65.7%        |
-| 2016  | $2,822,349          | $1,449,250 | 32.3%    | 67.7%        |
-| 2014  | $2,136,989          | $1,601,750 | 11.8%    | 88.2%        |
-| 2012  | $3,037,384          | $1,679,000 | 11.3%    | 88.7%        |
-| 2010  | $1,498,214          | $1,083,950 | 13.9%    | 86.1%        |
-| 2008  | $1,526,891          | $716,998   | 23.4%    | 76.6%        |
-| 2006  | $897,777            | $700,450   | 12.2%    | 87.8%        |
-| 2004  | $997,557            | $729,485   | 11.9%    | 88.1%        |
-| 2002  | $1,208,318          | $730,200   | 9.1%     | 90.9%        |
-| 2000  | $1,451,555          | $729,100   | 10.1%    | 89.9%        |
+| 2024 | $1,885,072 | $803,250 | 43.5% | 56.5% |
+| 2022 | $1,573,513 | $847,500 | 38.1% | 61.9% |
+| 2020 | $3,163,457 | $1,190,925 | 38.9% | 61.1% |
+| 2018 | $2,326,340 | $1,364,950 | 34.3% | 65.7% |
+| 2016 | $2,822,349 | $1,449,250 | 32.3% | 67.7% |
+| 2014 | $2,136,989 | $1,601,750 | 11.8% | 88.2% |
+| 2012 | $3,037,384 | $1,679,000 | 11.3% | 88.7% |
+| 2010 | $1,498,214 | $1,083,950 | 13.9% | 86.1% |
+| 2008 | $1,526,891 | $716,998 | 23.4% | 76.6% |
+| 2006 | $897,777 | $700,450 | 12.2% | 87.8% |
+| 2004 | $997,557 | $729,485 | 11.9% | 88.1% |
+| 2002 | $1,208,318 | $730,200 | 9.1% | 90.9% |
+| 2000 | $1,451,555 | $729,100 | 10.1% | 89.9% |
 
-**The 2016 Inflection Point:** From 2000–2014, ExxonMobil gave 85–91% of its contributions to Republicans. After 2016—the year of the first major state attorney general climate misconduct investigations and growing [[Environmental, Social, and Governance|ESG]] investor pressure—that split shifted dramatically. By 2024, Democrats received 43% of total contributions. The PAC-only 2024 D/R split was 29.4% D / 70.6% R, indicating the shift toward Democrats is more pronounced in employee individual giving than in direct PAC strategy.
+**The 2016 Inflection Point:** From 2000–2014, ExxonMobil gave 85–91% of its contributions to Republicans. After 2016, the year of the first major state attorney general climate misconduct investigations and growing [[Environmental, Social, and Governance|ESG]] investor pressure, that split shifted dramatically. By 2024, Democrats received 43% of total contributions. The PAC-only 2024 D/R split was 29.4% D / 70.6% R, indicating the shift toward Democrats is more pronounced in employee individual giving than in direct PAC strategy.
 
 **2012 Peak:** The 2012 cycle saw the highest PAC-only spending ($1,679,000), coinciding with active debates over clean energy regulation and a political environment favorable to oil industry positions.
 
 **2014 Extreme:** The 2014 cycle shows the most lopsided Republican lean (88.2% R) of any cycle, corresponding to the Tea Party wave and aggressive Republican-led opposition to [[EPA|EPA]] regulations.
 
-**Post-2016 Rebalancing:** The strategic shift reflects transactional risk management: state-level climate litigation against Exxon began in 2015–2016, and Democratic control of regulatory agencies (especially California) created financial exposure. The bipartisan hedge is not ideological—it is insurance against Democratic electoral gains.
+**Post-2016 Rebalancing:** The strategic shift reflects transactional risk management: state-level climate litigation against Exxon began in 2015–2016, and Democratic control of regulatory agencies (especially California) created financial exposure. The bipartisan hedge is not ideological, it is insurance against Democratic electoral gains.
 
 ---
 
@@ -142,9 +142,9 @@ In May 2024, ExxonMobil completed its $59.5 billion all-stock acquisition of Pio
 | 2003 | $7,660,000 | Energy Policy Act debates begin |
 | 2004 | $7,860,000 | Energy bill negotiations |
 | 2005 | $7,300,000 | Energy Policy Act of 2005 signed |
-| 2006 | $14,540,000 | **~2× spike** — post-Katrina energy debate; CAFE standards |
+| 2006 | $14,540,000 | **~2× spike**, post-Katrina energy debate; CAFE standards |
 | 2007 | $16,940,000 | Energy Independence & Security Act debate |
-| 2008 | $29,000,000 | **All-time peak** — Waxman-Markey cap-and-trade debate |
+| 2008 | $29,000,000 | **All-time peak**. Waxman-Markey cap-and-trade debate |
 | 2009 | $27,610,000 | Waxman-Markey passes House; Senate fight begins |
 | 2010 | $12,450,000 | Cap-and-trade dies in Senate; EPA endangerment rule |
 | 2011 | $12,730,000 | EPA Clean Air Act regulations; hydraulic fracturing debate |
@@ -171,7 +171,7 @@ In May 2024, ExxonMobil completed its $59.5 billion all-stock acquisition of Pio
 
 ### Top Recipients
 
-### 2024 Election Cycle — Top Candidates:
+### 2024 Election Cycle. Top Candidates:
 
 | Candidate | Party | State | Amount | Notes |
 |-----------|-------|-------|--------|-------|
@@ -206,18 +206,18 @@ In May 2024, ExxonMobil completed its $59.5 billion all-stock acquisition of Pio
 
 | Date | Internal Knowledge | Public Denial | Source |
 |------|-------------------|--------------|--------|
-| **1957** | Roger Revelle (Humble Oil/Exxon predecessor) co-publishes landmark CO₂ research with Hans Suess, establishing framework for understanding fossil fuel emissions | — | [Scientific American](https://www.scientificamerican.com/article/exxon-knew-about-climate-change-almost-40-years-ago/) (VERIFIED) (UNVERIFIED) |
-| **July 1977** | Senior scientist James Black briefs Management Committee: "There is general scientific agreement that the most likely manner in which mankind is influencing the global climate is through carbon dioxide release from the burning of fossil fuels" | — | [Scientific American](https://www.scientificamerican.com/article/exxon-knew-about-climate-change-almost-40-years-ago/) (UNVERIFIED) |
-| **1978** | Black warns that doubling atmospheric CO₂ would raise temperatures 2–3°C with a 5–10 year window to act before effects become irreversible | — | [Scientific American](https://www.scientificamerican.com/article/exxon-knew-about-climate-change-almost-40-years-ago/) (UNVERIFIED) |
-| **1979–1982** | Exxon equips supertanker Esso Atlantic with CO₂ measurement instruments; funds climate modeling research. 1982 internal report warns consequences could be "catastrophic" and "not reversible" | — | [Scientific American](https://www.scientificamerican.com/article/exxon-knew-about-climate-change-almost-40-years-ago/) (UNVERIFIED) |
-| **1984** | Exxon presents internal climate projections at company conference, showing temperature increases closely aligned with contemporary scientific models | — | [Scientific American](https://www.scientificamerican.com/article/exxon-knew-about-climate-change-almost-40-years-ago/) (UNVERIFIED) |
-| **1988** | — | NASA scientist James Hansen testifies before Senate that human-caused warming is detectable. Exxon's public response: "the science is still controversial and uncertain" | [Scientific American](https://www.scientificamerican.com/article/exxon-knew-about-climate-change-almost-40-years-ago/) (UNVERIFIED) |
-| **1989** | — | Exxon co-founds Global Climate Coalition; launches 600+ advertorials in major newspapers (1989–2010) casting doubt on climate science under "Perspectives" column heading | [Scientific American](https://www.scientificamerican.com/article/exxon-knew-about-climate-change-almost-40-years-ago/) (UNVERIFIED) |
+| **1957** | Roger Revelle (Humble Oil/Exxon predecessor) co-publishes landmark CO₂ research with Hans Suess, establishing framework for understanding fossil fuel emissions |, | [Scientific American](https://www.scientificamerican.com/article/exxon-knew-about-climate-change-almost-40-years-ago/) (VERIFIED) (UNVERIFIED) |
+| **July 1977** | Senior scientist James Black briefs Management Committee: "There is general scientific agreement that the most likely manner in which mankind is influencing the global climate is through carbon dioxide release from the burning of fossil fuels" |, | [Scientific American](https://www.scientificamerican.com/article/exxon-knew-about-climate-change-almost-40-years-ago/) (UNVERIFIED) |
+| **1978** | Black warns that doubling atmospheric CO₂ would raise temperatures 2–3°C with a 5–10 year window to act before effects become irreversible |, | [Scientific American](https://www.scientificamerican.com/article/exxon-knew-about-climate-change-almost-40-years-ago/) (UNVERIFIED) |
+| **1979–1982** | Exxon equips supertanker Esso Atlantic with CO₂ measurement instruments; funds climate modeling research. 1982 internal report warns consequences could be "catastrophic" and "not reversible" |, | [Scientific American](https://www.scientificamerican.com/article/exxon-knew-about-climate-change-almost-40-years-ago/) (UNVERIFIED) |
+| **1984** | Exxon presents internal climate projections at company conference, showing temperature increases closely aligned with contemporary scientific models |, | [Scientific American](https://www.scientificamerican.com/article/exxon-knew-about-climate-change-almost-40-years-ago/) (UNVERIFIED) |
+| **1988** |, | NASA scientist James Hansen testifies before Senate that human-caused warming is detectable. Exxon's public response: "the science is still controversial and uncertain" | [Scientific American](https://www.scientificamerican.com/article/exxon-knew-about-climate-change-almost-40-years-ago/) (UNVERIFIED) |
+| **1989** |, | Exxon co-founds Global Climate Coalition; launches 600+ advertorials in major newspapers (1989–2010) casting doubt on climate science under "Perspectives" column heading | [Scientific American](https://www.scientificamerican.com/article/exxon-knew-about-climate-change-almost-40-years-ago/) (UNVERIFIED) |
 | **1995** | Internal GCC briefing led by Exxon scientist acknowledges: "The greenhouse effect and potential impact of human emissions of greenhouse gases such as CO₂ on climate is well established and cannot be denied" | Global Climate Coalition publicly denies same consensus | [Wikipedia: ExxonMobil Climate Change Denial](https://en.wikipedia.org/wiki/ExxonMobil_climate_change_denial) (VERIFIED) (UNVERIFIED) |
-| **2002** | — | Global Climate Coalition dissolves after major members (Ford, GM, DaimlerChrysler, BP, Shell) resign citing scientific evidence | [Scientific American](https://www.scientificamerican.com/article/exxon-knew-about-climate-change-almost-40-years-ago/) (UNVERIFIED) |
-| **2015** | — | InsideClimate News investigative series documents Exxon's internal research vs. public communications gap; state AG investigations (NY, MA, CA) triggered | [InsideClimate News: The Road Not Taken](https://insideclimatenews.org/project/exxon-the-road-not-taken/) (VERIFIED) (UNVERIFIED) |
-| **Aug 2017** | — | Supran & Oreskes publish peer-reviewed analysis: internal documents and peer-reviewed papers consistent with climate consensus; advertorials "overwhelmingly" promoted doubt | [Supran & Oreskes: Environmental Research Letters](https://cssn.org/wp-content/uploads/2020/12/Assessing-ExxonMobils-climate-change-communications-1977%E2%80%932014-Geoffrey-Supran-.pdf) (VERIFIED) (UNVERIFIED) |
-| **Jan 2023** | Harvard study analyzes 32 internal documents + 72 peer-reviewed papers (1977–2003): Exxon's internal models predicted warming with 63–83% accuracy, average 72% skill score—sometimes exceeding NASA's accuracy | — | [Harvard Gazette: Exxon scientists predicted global warming with 'shocking skill and accuracy'](https://news.harvard.edu/gazette/story/2023/01/harvard-led-analysis-finds-exxonmobil-internal-research-accurately-predicted-climate-change/) (VERIFIED) (UNVERIFIED) |
+| **2002** |, | Global Climate Coalition dissolves after major members (Ford, GM, DaimlerChrysler, BP, Shell) resign citing scientific evidence | [Scientific American](https://www.scientificamerican.com/article/exxon-knew-about-climate-change-almost-40-years-ago/) (UNVERIFIED) |
+| **2015** |, | InsideClimate News investigative series documents Exxon's internal research vs. public communications gap; state AG investigations (NY, MA, CA) triggered | [InsideClimate News: The Road Not Taken](https://insideclimatenews.org/project/exxon-the-road-not-taken/) (VERIFIED) (UNVERIFIED) |
+| **Aug 2017** |, | Supran & Oreskes publish peer-reviewed analysis: internal documents and peer-reviewed papers consistent with climate consensus; advertorials "overwhelmingly" promoted doubt | [Supran & Oreskes: Environmental Research Letters](https://cssn.org/wp-content/uploads/2020/12/Assessing-ExxonMobils-climate-change-communications-1977%E2%80%932014-Geoffrey-Supran-.pdf) (VERIFIED) (UNVERIFIED) |
+| **Jan 2023** | Harvard study analyzes 32 internal documents + 72 peer-reviewed papers (1977–2003): Exxon's internal models predicted warming with 63–83% accuracy, average 72% skill score, sometimes exceeding NASA's accuracy |, | [Harvard Gazette: Exxon scientists predicted global warming with 'shocking skill and accuracy'](https://news.harvard.edu/gazette/story/2023/01/harvard-led-analysis-finds-exxonmobil-internal-research-accurately-predicted-climate-change/) (VERIFIED) (UNVERIFIED) |
 
 > [!money] **Key Finding:**
 > This is not a case of genuine scientific uncertainty exploited by partisans. Exxon possessed superior scientific knowledge and made a choice to systematically fund its public contradiction for 25+ years (1989–2015+). The company's current pivot to carbon capture messaging (2020s-present) functions as reputation rehabilitation for the same structural interest: maximizing hydrocarbon production while appearing to address the crisis they spent decades denying.
@@ -244,13 +244,13 @@ In May 2024, ExxonMobil completed its $59.5 billion all-stock acquisition of Pio
 | Heartland Institute | $686,500 | 1998–~2006 | 2000–2003 | Dropped c. 2006 |
 | Global Climate Coalition | Founding member (1989–2002) | 1989–2002 | Dissolved 2002 | Membership/fees not grant-tracked |
 
-**Concentration Analysis (2000–2003):** Between 2000 and 2003, ExxonMobil donated $8,678,450 to approximately 40 organizations—roughly $2.2M per year, more than double the per-year pace of later years. This was the peak intensity period of organized denial funding, coinciding with post-Kyoto Protocol positioning and resistance to mandatory emissions reductions.
+**Concentration Analysis (2000–2003):** Between 2000 and 2003, ExxonMobil donated $8,678,450 to approximately 40 organizations, roughly $2.2M per year, more than double the per-year pace of later years. This was the peak intensity period of organized denial funding, coinciding with post-Kyoto Protocol positioning and resistance to mandatory emissions reductions.
 
 **Strategic shifts:** Exxon dropped CEI (~2006) and Heartland (~2006) after public pledges by CEO Lee Raymond's successor [[_Rex Tillerson Master Profile|Rex Tillerson]] to reform climate communications. However, Exxon immediately increased U.S. Chamber Foundation funding ($4.8M+ from 2014–2019), illustrating the pivot from explicit denial funding to funding ambiguously-framed "energy policy" organizations.
 
 ---
 
-### Policy Outcomes — Donation-to-Policy Timeline
+### Policy Outcomes. Donation-to-Policy Timeline
 
 | Date | Recipient/Target | Amount | Policy Return | Time Gap |
 |------|------------------|--------|---|---|
@@ -259,13 +259,13 @@ In May 2024, ExxonMobil completed its $59.5 billion all-stock acquisition of Pio
 | 2009 | Carbon tax public endorsement (Climate Leadership Council founding) | $1M+ over time | No federal carbon tax enacted; position functions as talking point blocking alternative regulations | Ongoing/null |
 | 2009–2010 | Capitol Hill lobbying surge during cap-and-trade debate | $29M (2008), $27.6M (2009) | Waxman-Markey dies in Senate without vote | 1 year |
 | 2014–2016 | Clean Power Plan opposition; API coordinated litigation | ~$12–13M annually | EPA Clean Power Plan finalized (Aug 2015); Trump pledges repeal during 2016 campaign | 1–2 years |
-| 2017 | [[_Rex Tillerson Master Profile|Rex Tillerson]] appointed Secretary of State | — | Direct Exxon interests represented in Trump State Department; Russia policy favorable to Exxon Rosneft interests | Immediate |
-| 2017 | Trump EPA directs Clean Power Plan review | — | Clean Power Plan repeal initiated; methane rule rollback ordered | Concurrent |
+| 2017 | [[_Rex Tillerson Master Profile|Rex Tillerson]] appointed Secretary of State |, | Direct Exxon interests represented in Trump State Department; Russia policy favorable to Exxon Rosneft interests | Immediate |
+| 2017 | Trump EPA directs Clean Power Plan review |, | Clean Power Plan repeal initiated; methane rule rollback ordered | Concurrent |
 | 2018–2024 | PAC contributions to methane regulation skeptics; API coordinated opposition | $600k+ annually | EPA methane rule (Dec 2023) passes despite industry opposition; Exxon lobbies for "Alternate Means" compliance pathways (approved) | 5+ years |
 | 2021–2022 | Manchin lobbying via McCoy undercover admits "every week" contact | ~$500k+ to Manchin-aligned PACs | Build Back Better climate provisions killed; BBB becomes Inflation Reduction Act with fossil fuel concessions | 1 year |
 | 2022 | IRA Section 45Q lobbying (carbon capture tax credit preservation) | $6M+ direct; API coordinated | IRA passed (Aug 2022) with $45Q expansion; Exxon beneficiary of $331M+ in DOE grants for CCS projects | Concurrent |
-| 2025 | Trump administration budget engagement; fossil fuel industry $249–450M spending in 2024 | — | **One Big Beautiful Bill Act:** $70.5B in new fossil fuel subsidies; Endangerment Finding repeal (Feb 2026); LNG export resumption; Alaska 13M acres opened | 1–3 months |
-| 2025–2026 | — | — | **Offshore Drilling Expansion:** 1.3B acres in 5-year program, most expansive in decades (Atlantic, Pacific, California, Florida coasts) | Policy phase |
+| 2025 | Trump administration budget engagement; fossil fuel industry $249–450M spending in 2024 |, | **One Big Beautiful Bill Act:** $70.5B in new fossil fuel subsidies; Endangerment Finding repeal (Feb 2026); LNG export resumption; Alaska 13M acres opened | 1–3 months |
+| 2025–2026 |, |, | **Offshore Drilling Expansion:** 1.3B acres in 5-year program, most expansive in decades (Atlantic, Pacific, California, Florida coasts) | Policy phase |
 
 > [!money] **ROI on Climate Deception:**
 > Total documented ExxonMobil climate denial funding: $33.8M (1997–2015). Return on investment: The defeat of cap-and-trade legislation alone saved the industry an estimated $100B–$1T in avoided compliance costs. The 2025 One Big Beautiful Bill Act's $70.5B in new fossil fuel subsidies represents 21× return on the $3.3B estimated through 2019. The Endangerment Finding repeal (Feb 2026) eliminates the legal foundation for all federal climate regulation—potentially the most valuable policy outcome in the industry's history, worth trillions in preserved fossil fuel demand and avoided stranded asset writedowns.
@@ -294,8 +294,8 @@ In May 2024, ExxonMobil completed its $59.5 billion all-stock acquisition of Pio
 
 ### Regulatory wins:
 - **Section 45Q Tax Credit Expansion (IRA, Aug 2022):** ExxonMobil received at least $331 million in federal DOE grants for carbon capture projects in Texas. CEO Woods explicitly stated in Nov 2024 that repealing these credits would "materially change" CCS investment calculus, confirming direct policy-to-business-model dependence.
-- **Methane Rule Exemptions (EPA Dec 2023):** EPA's final rule included compliance pathways favorable to large operators. Exxon's "Alternate Means of Emissions Limitation" application (approved) allows airplane-based detection rather than on-site monitoring—regulatory accommodation not available to smaller producers.
-- **Permian Permitting Efficiency (2024–2025):** Pioneer acquisition faced minimal regulatory friction. FTC consent order (Jan 2025) barred only board nomination—left operational integration intact. Exxon now controls 1.4M+ acres of low-cost Permian resource.
+- **Methane Rule Exemptions (EPA Dec 2023):** EPA's final rule included compliance pathways favorable to large operators. Exxon's "Alternate Means of Emissions Limitation" application (approved) allows airplane-based detection rather than on-site monitoring, regulatory accommodation not available to smaller producers.
+- **Permian Permitting Efficiency (2024–2025):** Pioneer acquisition faced minimal regulatory friction. FTC consent order (Jan 2025) barred only board nomination, left operational integration intact. Exxon now controls 1.4M+ acres of low-cost Permian resource.
 - **Clean Power Plan Repeal (2017):** Exxon's API coordination and Trump administration alignment (via Tillerson, 2017–2018) delivered the repeal of the single most consequential climate regulation on the books.
 
 ### Access and influence:
@@ -308,7 +308,7 @@ In May 2024, ExxonMobil completed its $59.5 billion all-stock acquisition of Pio
 
 ### Revolving Door: The Government-to-Industry Pipeline
 
-**Scale:** 75.76% of ExxonMobil's 66 registered federal lobbyists in 2024 had prior government experience—making Exxon's lobbying operation one of the most "revolving door"-dense in Washington.
+**Scale:** 75.76% of ExxonMobil's 66 registered federal lobbyists in 2024 had prior government experience, making Exxon's lobbying operation one of the most "revolving door"-dense in Washington.
 
 ### Key Individual Cases:
 
@@ -321,7 +321,7 @@ In May 2024, ExxonMobil completed its $59.5 billion all-stock acquisition of Pio
 | **Dipka Bhambhani** | ExxonMobil government affairs | EPA Senior Adviser, Public Affairs (2025, Trump II) | Direct industry-to-regulator transition; now shaping EPA messaging under Trump administration. |
 | **Andrew Rapp** | Petrie Partners (energy investment bank serving Exxon, ConocoPhillips, others) | DOE Senior Advisor, International Relations (2025, Trump II) | Energy sector appointee to top energy policy role. |
 
-**The Mechanism:** The revolving door operates through three channels: (1) **Energy consultancy bridge**—former EPA officials join consulting firms (FTI Consulting, McKinsey) as "energy portfolio" advisors, then rotate into energy company roles or back to government; (2) **Regulatory capture via appointment**—energy company-aligned lawyers appointed to senior regulatory positions (SEC enforcement, EPA); (3) **Back-and-forth cycling**—Preston Wells Griffith (EPA/DOE ↔ consulting ↔ DOE) creates institutional relationships between current regulators and industry.
+**The Mechanism:** The revolving door operates through three channels: (1) **Energy consultancy bridge**, former EPA officials join consulting firms (FTI Consulting, McKinsey) as "energy portfolio" advisors, then rotate into energy company roles or back to government; (2) **Regulatory capture via appointment**, energy company-aligned lawyers appointed to senior regulatory positions (SEC enforcement, EPA); (3) **Back-and-forth cycling**, Preston Wells Griffith (EPA/DOE ↔ consulting ↔ DOE) creates institutional relationships between current regulators and industry.
 
 > [!money] **Financial Incentives:**
 > - EPA official salary: $120K–$180K
@@ -336,9 +336,9 @@ In May 2024, ExxonMobil completed its $59.5 billion all-stock acquisition of Pio
 
 ExxonMobil operates within a structural contradiction that defines fossil fuel politics: the company cannot maximize shareholder value without maximizing hydrocarbon extraction, yet hydrocarbon extraction at scale creates climate risk that threatens regulatory environment, investor confidence, and long-term profitability. The resolution of this contradiction is delegation: Exxon extracts; [[American Petroleum Institute|API]] and trade groups lobby; revolving door personnel ensure regulatory alignment; climate denial funding buys time.
 
-**The knowledge-denial paradox** is the key to understanding ExxonMobil's class function. The company's internal scientists accurately predicted warming decades before the company funded its public denial. This is not negligence or uncertainty—it is choice. The choice reflects a structural fact: in a capitalist economy, fossil fuel companies will externalize climate risk as long as the cost of extraction is lower than the cost of not extracting. Accurate internal climate knowledge makes that choice explicit; therefore, it must be hidden.
+**The knowledge-denial paradox** is the key to understanding ExxonMobil's class function. The company's internal scientists accurately predicted warming decades before the company funded its public denial. This is not negligence or uncertainty, it is choice. The choice reflects a structural fact: in a capitalist economy, fossil fuel companies will externalize climate risk as long as the cost of extraction is lower than the cost of not extracting. Accurate internal climate knowledge makes that choice explicit; therefore, it must be hidden.
 
-**The carbon tax strategy** reveals the same logic. Exxon endorse a policy (carbon tax) it knows will never pass, which allows the company to appear climate-responsible to investors while blocking policies (cap-and-trade, regulatory phase-out) that might actually constrain profits. This is not hypocrisy—it is rational capital accumulation: maintain the appearance of climate concern while ensuring that appearance never translates into policy that threatens extraction.
+**The carbon tax strategy** reveals the same logic. Exxon endorse a policy (carbon tax) it knows will never pass, which allows the company to appear climate-responsible to investors while blocking policies (cap-and-trade, regulatory phase-out) that might actually constrain profits. This is not hypocrisy, it is rational capital accumulation: maintain the appearance of climate concern while ensuring that appearance never translates into policy that threatens extraction.
 
 **The revolving door** serves the structural function of regulatory continuity. When an EPA official leaves for consulting or energy industry, they carry relationships and policy knowledge. When they cycle back to government, they carry institutional loyalty to the sector they just served. The result is a regulatory apparatus that is captured before any individual industry actor lobbies it. The lobbying then happens within a framework that was pre-shaped by prior revolving door personnel.
 
@@ -348,7 +348,7 @@ ExxonMobil operates within a structural contradiction that defines fossil fuel p
 
 ### Sources
 
-### Political Contributions — Tier 1:
+### Political Contributions. Tier 1:
 - [OpenSecrets: ExxonMobil donor profile](https://www.opensecrets.org/orgs/exxon-mobil/summary?id=D000000129) (Tier 1) (VERIFIED) (UNVERIFIED)
 - [OpenSecrets: ExxonMobil PAC profile 2024](https://www.opensecrets.org/political-action-committees-pacs/C00121368/summary/2024) (Tier 1) (VERIFIED) (UNVERIFIED)
 - [OpenSecrets: ExxonMobil totals](https://www.opensecrets.org/orgs/exxon-mobil/totals?id=D000000129) (Tier 1) (VERIFIED) (UNVERIFIED)
@@ -357,14 +357,14 @@ ExxonMobil operates within a structural contradiction that defines fossil fuel p
 - [ExxonMobil: 2024 Corporate political contributions disclosure](https://corporate.exxonmobil.com/who-we-are/policy/political-contributions/corporate-political-contributions) (Tier 1) (VERIFIED)
 - [ExxonMobil: PAC contribution data](https://corporate.exxonmobil.com/who-we-are/policy/political-contributions/pac-contribution-data) (Tier 1) (VERIFIED)
 
-### Lobbying — Tier 1:
-- ~~[OpenSecrets: ExxonMobil Lobbying Profile](https://www.opensecrets.org/orgs/exxon-mobil/lobbying?id=D000000129)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1) (UNVERIFIED)
+### Lobbying. Tier 1:
+- ~~[OpenSecrets: ExxonMobil Lobbying Profile](https://www.opensecrets.org/orgs/exxon-mobil/lobbying?id=D000000129)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1) (UNVERIFIED)
 - [Center for American Progress: 2011 Was Very Good to ExxonMobil](https://www.americanprogress.org/article/2011-was-very-good-to-exxonmobil/) (Tier 2) (VERIFIED) (UNVERIFIED)
 
-### Climate & Internal Knowledge — Tier 1-2:
+### Climate & Internal Knowledge. Tier 1-2:
 - [Harvard Gazette: Exxon scientists predicted global warming with 'shocking skill and accuracy'](https://news.harvard.edu/gazette/story/2023/01/harvard-led-analysis-finds-exxonmobil-internal-research-accurately-predicted-climate-change/) (Tier 2)
 - [Scientific American: Exxon knew about climate change almost 40 years ago](https://www.scientificamerican.com/article/exxon-knew-about-climate-change-almost-40-years-ago/) (Tier 2) (VERIFIED)
-- ~~[Science journal: Assessing ExxonMobil's global warming projections](https://www.science.org/doi/10.1126/science.abk0063)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1) (UNVERIFIED)
+- ~~[Science journal: Assessing ExxonMobil's global warming projections](https://www.science.org/doi/10.1126/science.abk0063)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1) (UNVERIFIED)
 - [Inside Climate News: The Road Not Taken investigation](https://insideclimatenews.org/project/exxon-the-road-not-taken/) (Tier 2) (VERIFIED)
 - [Supran & Oreskes: Assessing ExxonMobil's Climate Change Communications (1977–2014)](https://cssn.org/wp-content/uploads/2020/12/Assessing-ExxonMobils-climate-change-communications-1977%E2%80%932014-Geoffrey-Supran-.pdf) (VERIFIED) (Tier 1 academic) (UNVERIFIED)
 - [Wikipedia: ExxonMobil Climate Change Denial](https://en.wikipedia.org/wiki/ExxonMobil_climate_change_denial) (Tier 3)
@@ -383,34 +383,34 @@ The Pioneer acquisition ($59.5B, May 2024) reveals the class strategy for the en
 
 ---
 
-### Climate Denial Funding — Tier 2:
+### Climate Denial Funding. Tier 2:
 - [DeSmog: ExxonMobil Funding Climate Science Denial](https://www.desmog.com/exxonmobil-funding-climate-science-denial/) (Tier 2) (VERIFIED)
 - [Union of Concerned Scientists: ExxonMobil Climate Denial Funding 1998–2014 (PDF)](https://www.ucs.org/sites/default/files/attach/2015/07/ExxonMobil-Climate-Denial-Funding-1998-2014.pdf) (Tier 2) (VERIFIED)
 
-### Carbon Tax Contradiction — Tier 2:
+### Carbon Tax Contradiction. Tier 2:
 - [Union of Concerned Scientists: To find out if ExxonMobil really supports a carbon tax, just follow the money](https://blog.ucs.org/elliott-negin/to-find-out-if-exxonmobil-really-supports-a-carbon-tax-just-follow-the-money/) (Tier 2) (VERIFIED)
 - [Energy and Policy Institute: ExxonMobil Opposed Carbon Tax Bills](https://energyandpolicy.org/exxonmobil-opposed-carbon-tax-bills/) (Tier 2) (VERIFIED)
 
-### Policy Outcomes — Tier 2:
-- [Greenpeace Unearthed: Undercover Investigation — Keith McCoy Admissions](https://unearthed.greenpeace.org/2021/06/30/exxon-climate-change-undercover/) (Tier 2) (VERIFIED)
+### Policy Outcomes. Tier 2:
+- [Greenpeace Unearthed: Undercover Investigation. Keith McCoy Admissions](https://unearthed.greenpeace.org/2021/06/30/exxon-climate-change-undercover/) (Tier 2) (VERIFIED)
 - [InfluenceMap: ExxonMobil Lobbying Report (PDF)](https://influencemap.org/site/data/000/310/ExxonMobil_Lobbying_May_2018.pdf) (Tier 2) (NEEDS REVIEW)
 - [ExxonKnews: With Methane Rules on the Chopping Block](https://www.exxonknews.org/p/with-methane-rules-on-the-chopping) (Tier 2) (VERIFIED)
 
-### Revolving Door — Tier 2:
+### Revolving Door. Tier 2:
 - [Sludge: Exxon Consultant Revolves Back to DOE](https://readsludge.com/2025/03/26/exxon-consultant-revolves-back-to-doe/) (Tier 2) (VERIFIED)
 - [Revolving Door Project: Climate and Environment](https://therevolvingdoorproject.org/tag/climate/) (Tier 2) (VERIFIED)
 - [Public Citizen: Trump Appointees Tracker](https://www.citizen.org/article/tracker-trump-appointees-in-the-pocket-of-big-corporations/) (Tier 2) (VERIFIED)
-- ~~[Politico: Exxon, Mobile, Russia Sanctions, Rex Tillerson](https://www.politico.com/story/2016/12/exxon-mobile-russia-sanctions-rex-tillerson-232770)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
-- [ExxonMobil: Conflict of Interest Agreement — Tillerson](https://corporate.exxonmobil.com/news/news-releases/2017/0103_exxonmobil-and-tillerson-reach-agreement-to-comply-with-conflict-of-interest-requirements) (Tier 1) (VERIFIED)
+- ~~[Politico: Exxon, Mobile, Russia Sanctions, Rex Tillerson](https://www.politico.com/story/2016/12/exxon-mobile-russia-sanctions-rex-tillerson-232770)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- [ExxonMobil: Conflict of Interest Agreement. Tillerson](https://corporate.exxonmobil.com/news/news-releases/2017/0103_exxonmobil-and-tillerson-reach-agreement-to-comply-with-conflict-of-interest-requirements) (Tier 1) (VERIFIED)
 
-### Financial Data — Tier 1:
+### Financial Data. Tier 1:
 - [ExxonMobil: Full-year 2022 results](https://corporate.exxonmobil.com/news/news-releases/2023/0131_exxonmobil-announces-full-year-2022-results) (Tier 1) (VERIFIED)
 - [ExxonMobil: 2023 results announcement](https://corporate.exxonmobil.com/news/news-releases/2024/0202_exxonmobil-announces-2023-results) (Tier 1) (VERIFIED)
 - [ExxonMobil: 2024 results announcement](https://corporate.exxonmobil.com/news/news-releases/2025/0131_exxonmobil-announces-2024-results) (Tier 1) (VERIFIED)
 
-### Pioneer Acquisition — Tier 1:
-- [ExxonMobil: Press release — Pioneer acquisition completed (May 2024)](https://corporate.exxonmobil.com/news/news-releases/2024/0503_exxonmobil-completes-acquisition-of-pioneer-natural-resources) (Tier 1) (VERIFIED)
-- [FTC: Final consent order — Exxon-Pioneer merger (Jan 2025)](https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-approves-final-order-exxon-pioneer-deal) (Tier 1) (VERIFIED)
+### Pioneer Acquisition. Tier 1:
+- [ExxonMobil: Press release. Pioneer acquisition completed (May 2024)](https://corporate.exxonmobil.com/news/news-releases/2024/0503_exxonmobil-completes-acquisition-of-pioneer-natural-resources) (Tier 1) (VERIFIED)
+- [FTC: Final consent order. Exxon-Pioneer merger (Jan 2025)](https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-approves-final-order-exxon-pioneer-deal) (Tier 1) (VERIFIED)
 
 ---
 

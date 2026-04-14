@@ -41,6 +41,6 @@ Murray's HELP Committee chairmanship produced the most progressive healthcare le
 - [Congress.gov: Patty Murray member profile](https://www.congress.gov/member/patty-murray/M001111) (Tier 1) (VERIFIED)
 - [FEC Candidate: Patty Murray campaign finance summary](https://www.fec.gov/data/candidate/S2WA00189/) (Tier 1) (VERIFIED)
 - [FEC Candidate: Patty Murray top industries](https://www.fec.gov/data/candidate/S2WA00189/) (Tier 1) (VERIFIED)
-- ~~[Seattle Times: Murray, Boeing, and Washington defense economy](https://www.seattletimes.com/murray-boeing/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Seattle Times: Murray, Boeing, and Washington defense economy](https://www.seattletimes.com/murray-boeing/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Ballotpedia: Patty Murray](https://ballotpedia.org/Patty_Murray) (Tier 3) (VERIFIED)
 

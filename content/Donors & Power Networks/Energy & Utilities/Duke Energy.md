@@ -86,7 +86,7 @@ Favorable rate increases from state utility commissions, coal ash cleanup cost r
 
 ### What They've Gotten
 
-**Coal Ash Socialization:** Duke Energy's coal ash crisis — the 2014 Dan River coal ash spill contaminated 70 miles of the Dan River — resulted in $1.1 billion in cleanup costs. Duke successfully lobbied the North Carolina Utilities Commission to recover $546 million of those costs from ratepayers, socializing the cost of Duke's pollution while privatizing the profits from decades of coal generation that created the ash.
+**Coal Ash Socialization:** Duke Energy's coal ash crisis, the 2014 Dan River coal ash spill contaminated 70 miles of the Dan River, resulted in $1.1 billion in cleanup costs. Duke successfully lobbied the North Carolina Utilities Commission to recover $546 million of those costs from ratepayers, socializing the cost of Duke's pollution while privatizing the profits from decades of coal generation that created the ash.
 
 **North Carolina Political Capture:** Duke Energy's influence over North Carolina politics has been documented extensively: the company's PAC and employee contributions to state legislators, its lobbying of the Utilities Commission, and the revolving door between Duke management and state regulatory bodies. Former Duke Energy CEO Jim Rogers was one of the most politically active utility executives in American history.
 
@@ -106,7 +106,7 @@ North Carolina's political system runs through Duke Energy's influence network. 
 ### Sources
 
 - [OpenSecrets: Duke Energy organizational profile](https://www.opensecrets.org/orgs/duke-energy/summary?id=D000000477) (Tier 1)
-- ~~[NC DEQ: Coal ash management data](https://deq.nc.gov/about/divisions/waste-management/coal-ash-management)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[NC DEQ: Coal ash management data](https://deq.nc.gov/about/divisions/waste-management/coal-ash-management)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Ballotpedia: Duke Energy](https://ballotpedia.org/Duke_Energy) (Tier 3) (VERIFIED)
 
 ---

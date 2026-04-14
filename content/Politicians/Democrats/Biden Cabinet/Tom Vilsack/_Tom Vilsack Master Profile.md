@@ -1,5 +1,5 @@
 ---
-title: "Tom Vilsack Master Profile"
+title: "Tom Vilsack"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -1,5 +1,5 @@
 ---
-title: "David J. Taylor Master Profile"
+title: "David J. Taylor"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

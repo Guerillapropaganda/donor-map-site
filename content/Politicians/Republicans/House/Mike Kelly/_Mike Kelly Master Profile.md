@@ -1,5 +1,5 @@
 ---
-title: "Mike Kelly Master Profile"
+title: "Mike Kelly"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

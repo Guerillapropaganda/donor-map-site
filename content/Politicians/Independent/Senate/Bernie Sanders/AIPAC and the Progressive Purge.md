@@ -17,7 +17,7 @@ donors: [[AIPAC - American Israel Public Affairs Committee]], [[Haim Saban]], [[
 
 ### [[AIPAC - American Israel Public Affairs Committee|AIPAC]] and the Progressive Purge
 
-Sanders criticized AIPAC's influence, supported conditioning military aid to Israel, and called for Palestinian rights. The donor class's response was not to defeat Sanders — it was to destroy the politicians he inspired. AIPAC's 2024 primary spending is the vault's most direct example of donor-class discipline: spend $20 million to unseat a progressive, and every other Democrat gets the message.
+Sanders criticized AIPAC's influence, supported conditioning military aid to Israel, and called for Palestinian rights. The donor class's response was not to defeat Sanders, it was to destroy the politicians he inspired. AIPAC's 2024 primary spending is the vault's most direct example of donor-class discipline: spend $20 million to unseat a progressive, and every other Democrat gets the message.
 
 ---
 
@@ -32,13 +32,13 @@ Sanders is the most prominent U.S. senator to consistently break with the bipart
 - Called for U.S. recognition of Palestinian statehood
 - Post-October 7: called for ceasefire, opposed unconditional military aid, criticized Israeli military operations in Gaza
 
-Sanders's position costs nothing financially — he doesn't need AIPAC money because his small-dollar model funds his campaigns. But it costs his allies everything.
+Sanders's position costs nothing financially, he doesn't need AIPAC money because his small-dollar model funds his campaigns. But it costs his allies everything.
 
 ---
 
 ### The 2024 Primary Purge
 
-> [!money] Follow the Money — AIPAC's Disciplinary Spending
+> [!money] Follow the Money. AIPAC's Disciplinary Spending
 > **AIPAC [[United Democracy Project - UDP|United Democracy Project]] (UDP):** $51.8 million spent in 2024
 > **AIPAC PAC:** $37.9 million spent in 2024
 > **Combined:** $126.9 million in 2024 election spending
@@ -53,15 +53,15 @@ Sanders: "You got AIPAC telling any Democrat who stands up to Netanyahu, 'Guess 
 
 ---
 
-### [[DMFI - Democratic Majority for Israel|DMFI]] — The Junior Partner
+### [[DMFI - Democratic Majority for Israel|DMFI]]. The Junior Partner
 
 Democratic Majority for Israel (DMFI) operates alongside AIPAC as a within-party enforcement mechanism:
 
 - $6.7 million raised (2023–2024)
 - Supported the same Bowman and Bush primary challengers AIPAC backed
-- Targets specifically Democratic primaries — it exists to enforce pro-Israel positioning within the Democratic Party, not between parties
+- Targets specifically Democratic primaries, it exists to enforce pro-Israel positioning within the Democratic Party, not between parties
 
-See [[DMFI - Democratic Majority for Israel]] — DMFI's function is to make the AIPAC spending look like intra-party debate rather than external donor-class imposition.
+See [[DMFI - Democratic Majority for Israel]]. DMFI's function is to make the AIPAC spending look like intra-party debate rather than external donor-class imposition.
 
 ---
 
@@ -69,11 +69,11 @@ See [[DMFI - Democratic Majority for Israel]] — DMFI's function is to make the
 
 The AIPAC spending pattern demonstrates the vault's thesis in real time:
 
-**Step 1:** Sanders takes anti-AIPAC positions (costs him nothing — small-dollar funded)
+**Step 1:** Sanders takes anti-AIPAC positions (costs him nothing, small-dollar funded)
 **Step 2:** Younger progressives follow Sanders's lead on Israel (Bowman, Bush, Tlaib, Omar)
 **Step 3:** AIPAC spends $10–20 million per primary to unseat them
 **Step 4:** Every other Democrat sees what happened
-**Step 5:** Self-censorship — most Democrats won't touch Israel policy because the cost is visible and immediate
+**Step 5:** Self-censorship, most Democrats won't touch Israel policy because the cost is visible and immediate
 
 The donor class doesn't need to defeat Sanders directly. He's in a safe Vermont seat funded by small donors. Instead, it defeats the politicians he inspires. The message is structural: the anti-donor model can protect one senator. It cannot protect a movement. Every progressive who follows Sanders's lead on Israel faces $20 million in primary opposition from the donor class's most aggressive spending operation.
 

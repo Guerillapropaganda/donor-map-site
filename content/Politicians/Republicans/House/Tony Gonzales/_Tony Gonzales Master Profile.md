@@ -1,5 +1,5 @@
 ---
-title: "Tony Gonzales Master Profile"
+title: "Tony Gonzales"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

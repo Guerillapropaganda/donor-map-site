@@ -89,7 +89,7 @@ Kavanaugh's career demonstrates the refinement of the executive power pipeline: 
 ### Sources
 
 ### Tier 1 (Primary Documents)
-- ~~[Supreme Court Opinion PDF: West Virginia v. EPA, 579 U.S. ___ (2022)](https://www.supremecourt.gov/opinions/21pdf/20-1530_new6o1f.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Supreme Court Opinion PDF: West Virginia v. EPA, 579 U.S. ___ (2022)](https://www.supremecourt.gov/opinions/21pdf/20-1530_new6o1f.pdf)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Senate Judiciary Committee: Kavanaugh Confirmation Hearing Transcript](https://www.senate.gov/pagelayout/general/one_item_and_teasers/waf.htm) (Tier 1) (VERIFIED)
 
 ### Tier 2 (Investigative Journalism)

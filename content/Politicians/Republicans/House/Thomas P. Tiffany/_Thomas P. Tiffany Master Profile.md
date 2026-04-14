@@ -1,5 +1,5 @@
 ---
-title: "Thomas P. Tiffany Master Profile"
+title: "Thomas P. Tiffany"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

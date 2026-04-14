@@ -170,14 +170,14 @@ Both networks are funded by billionaires using identical mechanisms. Both billio
 ### Sources
 
 ### [[Koch Network - Charles Koch|Koch Network]] Spending & Structure
-- ~~[Koch political operation spent nearly $550 million during 2024 cycle. DNYUZ](https://dnyuz.com/2025/12/20/koch-political-operation-spent-nearly-550-million-during-2024-cycle/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[Koch network's flagship super PAC pours big money into 2024 elections. OpenSecrets News](https://www.opensecrets.org/news/2024/08/koch-network-flagship-super-pac-pours-big-money-into-2024-elections/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Koch political operation spent nearly $550 million during 2024 cycle. DNYUZ](https://dnyuz.com/2025/12/20/koch-political-operation-spent-nearly-550-million-during-2024-cycle/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Koch network's flagship super PAC pours big money into 2024 elections. OpenSecrets News](https://www.opensecrets.org/news/2024/08/koch-network-flagship-super-pac-pours-big-money-into-2024-elections/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Americans for Prosperity Profile: Summary. OpenSecrets](https://www.opensecrets.org/orgs/americans-for-prosperity/summary?id=D000024046) (Tier 1) (VERIFIED)
-- ~~[Koch Super PAC Shatters Its Election Spending Record. EXPOSEDbyCMD](https://www.exposedbycmd.org/2024/11/05/koch-super-pac-shatters-its-election-spending-record/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Koch Super PAC Shatters Its Election Spending Record. EXPOSEDbyCMD](https://www.exposedbycmd.org/2024/11/05/koch-super-pac-shatters-its-election-spending-record/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ### Stand Together & Koch Network Distribution
-- ~~[Charles Koch's "Stand Together" Donor Conduits Move $176 Million. EXPOSEDbyCMD](https://www.exposedbycmd.org/2023/12/20/charles-kochs-stand-together-donor-conduits-move-176-million/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[Son of a Koch: $1.2 Billion Infusion Into Chase Koch's Dark Money Group. EXPOSEDbyCMD](https://www.exposedbycmd.org/2022/08/09/son-of-a-koch-1-2-billion-infusion-into-chase-kochs-dark-money-group-suggests-political-ambitions/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Charles Koch's "Stand Together" Donor Conduits Move $176 Million. EXPOSEDbyCMD](https://www.exposedbycmd.org/2023/12/20/charles-kochs-stand-together-donor-conduits-move-176-million/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Son of a Koch: $1.2 Billion Infusion Into Chase Koch's Dark Money Group. EXPOSEDbyCMD](https://www.exposedbycmd.org/2022/08/09/son-of-a-koch-1-2-billion-infusion-into-chase-kochs-dark-money-group-suggests-political-ambitions/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ### Soros/Arabella Network Spending
 - [Soros Open Society Foundations: Financial Figures](https://www.opensocietyfoundations.org/who-we-are/financials) (Tier 1) (VERIFIED)

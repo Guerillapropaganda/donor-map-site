@@ -1,5 +1,5 @@
 ---
-title: "Sam T. Liccardo Master Profile"
+title: "Sam T. Liccardo"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

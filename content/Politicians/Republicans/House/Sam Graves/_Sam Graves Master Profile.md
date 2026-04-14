@@ -3,7 +3,7 @@ title: "Sam Graves"
 type: politician
 bioguide-id: "G000546"
 content-readiness: ready
-central-thesis: "Sam Graves chairs the largest committee in Congress — and every industry it regulates funds his campaigns. OpenSecrets data shows Graves as the #1 recipient of contributions from airlines, trucking, railroads, and air transport in the 2022 cycle, ..."
+central-thesis: "Sam Graves chairs the largest committee in Congress , and every industry it regulates funds his campaigns. OpenSecrets data shows Graves as the #1 recipient of contributions from airlines, trucking, railroads, and air transport in the 2022 cycle, ..."
 last-updated: 2026-04-13
 source-tier: 1
 parent: null
@@ -36,19 +36,19 @@ donors:
 
 ## Who They Are
 
-Sam Graves has represented Missouri's 6th Congressional District since 2001 — now in his 13th term — and chairs the House Transportation and Infrastructure Committee. The T&I Committee has jurisdiction over every mode of American transportation: aviation (FAA), highways and bridges (Federal Highway Administration), transit and rail (FRA, Amtrak), pipelines (PHMSA), maritime transport, and the Army Corps of Engineers. It is the largest committee in Congress and oversees trillions in infrastructure spending.
+Sam Graves has represented Missouri's 6th Congressional District since 2001, now in his 13th term, and chairs the House Transportation and Infrastructure Committee. The T&I Committee has jurisdiction over every mode of American transportation: aviation (FAA), highways and bridges (Federal Highway Administration), transit and rail (FRA, Amtrak), pipelines (PHMSA), maritime transport, and the Army Corps of Engineers. It is the largest committee in Congress and oversees trillions in infrastructure spending.
 
 Before Congress, Graves served in the Missouri state legislature (1993-2001). He holds a degree in agronomy from the University of Missouri (1986) and has worked as a farmer and businessman. He is also a dedicated general aviation pilot who owns and restores vintage aircraft including a Piper PA-11 Cub Special, a Beech AT-10, and co-owns a North American T-6 Texan.
 
-His net worth is modest by congressional standards — approximately $473,000 (2018 estimate).
+His net worth is modest by congressional standards, approximately $473,000 (2018 estimate).
 
 ---
 
 ## The Central Thesis
 
-Sam Graves chairs the largest committee in Congress — and every industry it regulates funds his campaigns. OpenSecrets data shows Graves as the #1 recipient of contributions from airlines, trucking, railroads, and air transport in the 2022 cycle, with top-three rankings in sea transport and construction services. This is the jurisdiction premium in its purest form: the committee chair IS the industry's investment, and every transportation sector pays tribute.
+Sam Graves chairs the largest committee in Congress, and every industry it regulates funds his campaigns. OpenSecrets data shows Graves as the #1 recipient of contributions from airlines, trucking, railroads, and air transport in the 2022 cycle, with top-three rankings in sea transport and construction services. This is the jurisdiction premium in its purest form: the committee chair IS the industry's investment, and every transportation sector pays tribute.
 
-The T&I Committee controls the authorization of the surface transportation bill (currently $1.2 trillion under the Infrastructure Investment and Jobs Act), FAA reauthorization, water resources development, and pipeline safety. Every dollar of that spending flows through contractors, construction firms, and transportation companies — and those companies fund the chair who determines which projects get authorized. Graves is the toll collector on every road, rail line, and runway in America.
+The T&I Committee controls the authorization of the surface transportation bill (currently $1.2 trillion under the Infrastructure Investment and Jobs Act), FAA reauthorization, water resources development, and pipeline safety. Every dollar of that spending flows through contractors, construction firms, and transportation companies, and those companies fund the chair who determines which projects get authorized. Graves is the toll collector on every road, rail line, and runway in America.
 
 ---
 
@@ -94,27 +94,27 @@ The T&I Committee jurisdiction-to-donor overlap is near-total. Aviation donors �
 ### Pipeline: Transportation Industry → T&I Authorization
 | Date | Type | Event | Donor | Amount | Gap |
 |------|------|-------|-------|--------|-----|
-| 2001-2024 | DONATION | Career #1 recipient from airlines, trucking, railroads | Transport industry | Top recipient | — |
-| 2001-2024 | ← POLICY | Annual FAA, FHWA, FRA authorizations | — | Trillions over career | Ongoing |
-| 2021 | ← POLICY | Bipartisan Infrastructure Law ($1.2 trillion) | — | $1.2T | — |
-| 2023 | ← POLICY | FAA Reauthorization Act | — | $105B/5yr | — |
-| 2023 | ROLE | Named T&I Committee Chair | — | — | — |
+| 2001-2024 | DONATION | Career #1 recipient from airlines, trucking, railroads | Transport industry | Top recipient |, |
+| 2001-2024 | ← POLICY | Annual FAA, FHWA, FRA authorizations |, | Trillions over career | Ongoing |
+| 2021 | ← POLICY | Bipartisan Infrastructure Law ($1.2 trillion) |, | $1.2T |, |
+| 2023 | ← POLICY | FAA Reauthorization Act |, | $105B/5yr |, |
+| 2023 | ROLE | Named T&I Committee Chair |, |, |, |
 
 ### Pipeline: Aviation Interest → FAA Oversight (Personal)
 | Date | Type | Event | Donor | Amount | Gap |
 |------|------|-------|-------|--------|-----|
-| Ongoing | PERSONAL | Graves is a general aviation pilot; owns multiple aircraft | — | — | — |
-| Ongoing | ← POLICY | Chairs committee overseeing FAA, which regulates general aviation | — | — | — |
-| 2023 | ← ACTION | Aggressively questions FAA Administrator on drone regulation | — | — | — |
-| Ongoing | ← NOTE | The committee chair who oversees aviation regulation is personally subject to that regulation as a pilot and aircraft owner | — | — | — |
+| Ongoing | PERSONAL | Graves is a general aviation pilot; owns multiple aircraft |, |, |, |
+| Ongoing | ← POLICY | Chairs committee overseeing FAA, which regulates general aviation |, |, |, |
+| 2023 | ← ACTION | Aggressively questions FAA Administrator on drone regulation |, |, |, |
+| Ongoing | ← NOTE | The committee chair who oversees aviation regulation is personally subject to that regulation as a pilot and aircraft owner |, |, |, |
 
-### Pipeline: Ethics Investigation — Renewable Fuels (2009)
+### Pipeline: Ethics Investigation. Renewable Fuels (2009)
 | Date | Type | Event | Donor | Amount | Gap |
 |------|------|-------|-------|--------|-----|
-| 2009 | ← ACTION | Invites wife's business partner to testify at Small Business Committee hearing on biodiesel/ethanol regulation | — | — | — |
-| 2009 | ← NOTE | Failed to disclose financial link between wife and witness | — | — | — |
-| 2009 | ← ETHICS | OCE finds "substantial reason to believe appearance of conflict of interest was created" | — | — | — |
-| 2009 | ← CLEARED | House Ethics Committee ends investigation; finds no violation | — | — | — |
+| 2009 | ← ACTION | Invites wife's business partner to testify at Small Business Committee hearing on biodiesel/ethanol regulation |, |, |, |
+| 2009 | ← NOTE | Failed to disclose financial link between wife and witness |, |, |, |
+| 2009 | ← ETHICS | OCE finds "substantial reason to believe appearance of conflict of interest was created" |, |, |, |
+| 2009 | ← CLEARED | House Ethics Committee ends investigation; finds no violation |, |, |, |
 
 ---
 
@@ -130,21 +130,21 @@ Graves brands himself as a Missouri farmer and small-government conservative. He
 
 ## Analytical Patterns
 
-**Donor-Class Override:** The jurisdiction premium pattern is so complete that the distinction between "donor influence" and "committee function" collapses. When every transportation company funds the T&I chair, and the T&I chair authorizes every transportation program, the system isn't being corrupted — it IS the system. The donors aren't overriding public interest. They've defined their interest AS the public interest through infrastructure framing.
+**Donor-Class Override:** The jurisdiction premium pattern is so complete that the distinction between "donor influence" and "committee function" collapses. When every transportation company funds the T&I chair, and the T&I chair authorizes every transportation program, the system isn't being corrupted, it IS the system. The donors aren't overriding public interest. They've defined their interest AS the public interest through infrastructure framing.
 
-**Both-Sides Illusion:** Transportation infrastructure is one of the most bipartisan spending categories. Democrats and Republicans on T&I both receive transportation industry money and both vote for infrastructure bills. The partisan fights are about labor provisions, environmental standards, and transit vs. highways — not whether to spend the money. The infrastructure-industrial complex funds both sides.
+**Both-Sides Illusion:** Transportation infrastructure is one of the most bipartisan spending categories. Democrats and Republicans on T&I both receive transportation industry money and both vote for infrastructure bills. The partisan fights are about labor provisions, environmental standards, and transit vs. highways, not whether to spend the money. The infrastructure-industrial complex funds both sides.
 
-**Genuine Win + Structural Limit:** Infrastructure spending produces real benefits — roads, bridges, airports, rail improvements. These are genuine public goods. The structural limit: the spending is shaped by the industries that fund the committee, not by public need. Highway money flows disproportionately to road expansion over transit. Airport money follows airlines' hub preferences. Rail money goes to freight railroads, not passenger rail. The public gets infrastructure. The donors get the infrastructure they want.
+**Genuine Win + Structural Limit:** Infrastructure spending produces real benefits, roads, bridges, airports, rail improvements. These are genuine public goods. The structural limit: the spending is shaped by the industries that fund the committee, not by public need. Highway money flows disproportionately to road expansion over transit. Airport money follows airlines' hub preferences. Rail money goes to freight railroads, not passenger rail. The public gets infrastructure. The donors get the infrastructure they want.
 
 ---
 
 ## Rhetorical Signature Moves
 
-**"Infrastructure isn't partisan"** — The bipartisan framing that protects transportation spending from fiscal scrutiny. The function: ensure T&I authorizations pass with large bipartisan majorities, insulating the spending from the budget fights that affect other committees.
+**"Infrastructure isn't partisan"**. The bipartisan framing that protects transportation spending from fiscal scrutiny. The function: ensure T&I authorizations pass with large bipartisan majorities, insulating the spending from the budget fights that affect other committees.
 
-**"As a pilot myself"** — The personal-experience credential that functions like military credentials for Armed Services members. Graves' aviation hobby positions him as someone who understands FAA regulation firsthand. The function: claim regulatory expertise that's actually personal interest.
+**"As a pilot myself"**. The personal-experience credential that functions like military credentials for Armed Services members. Graves' aviation hobby positions him as someone who understands FAA regulation firsthand. The function: claim regulatory expertise that's actually personal interest.
 
-**"Missouri needs this project"** — The constituency-service framing that makes every transportation earmark a local necessity. The function: justify directing federal infrastructure spending to politically advantageous locations.
+**"Missouri needs this project"**. The constituency-service framing that makes every transportation earmark a local necessity. The function: justify directing federal infrastructure spending to politically advantageous locations.
 
 ---
 
@@ -153,7 +153,7 @@ Graves brands himself as a Missouri farmer and small-government conservative. He
 - [FEC Candidate: Sam Graves donor profile](https://www.fec.gov/data/candidate/H0MO06073/) (Tier 1) (VERIFIED)
 - [FEC Candidate: Sam Graves industry donors](https://www.fec.gov/data/candidate/H0MO06073/) (Tier 1) (VERIFIED)
 - [OpenSecrets: Sam Graves net worth](https://www.opensecrets.org/personal-finances/sam-graves/net-worth?cid=N00013323) (Tier 1) (VERIFIED)
-- ~~[Congress.gov: Sam Graves](https://www.congress.gov/member/sam-graves/G000546)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Sam Graves](https://www.congress.gov/member/sam-graves/G000546)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [House Transportation Committee: Chairman Sam Graves](https://transportation.house.gov/about/ranking-member-sam-graves/) (Tier 1) (VERIFIED)
 - [OCE: Referral regarding Rep. Sam Graves](https://conduct.house.gov/reports/investigations/oce-referral-regarding-representative-graves) (Tier 1) (VERIFIED)
 - [House Ethics Committee: Report on Sam Graves (111th Congress)](https://www.govinfo.gov/content/pkg/CRPT-111hrpt320/html/CRPT-111hrpt320.htm) (Tier 1) (VERIFIED)

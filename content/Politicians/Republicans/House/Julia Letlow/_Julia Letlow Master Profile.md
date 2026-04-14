@@ -1,5 +1,5 @@
 ---
-title: "Julia Letlow Master Profile"
+title: "Julia Letlow"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

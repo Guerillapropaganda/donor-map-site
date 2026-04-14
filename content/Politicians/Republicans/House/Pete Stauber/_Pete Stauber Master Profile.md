@@ -1,5 +1,5 @@
 ---
-title: "Pete Stauber Master Profile"
+title: "Pete Stauber"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

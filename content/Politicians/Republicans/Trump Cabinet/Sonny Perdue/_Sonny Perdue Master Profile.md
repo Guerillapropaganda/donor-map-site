@@ -1,5 +1,5 @@
 ---
-title: "Sonny Perdue Master Profile"
+title: "Sonny Perdue"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -62,13 +62,13 @@ We don't just track who donates. We track who lobbies. We track who manufactures
 
 ### Featured Investigation: The Cuba Fuel Blockade
 
-On March 16, 2026, Cuba's national power grid collapsed. Ten million people went dark. The cause: a U.S. fuel blockade — Operation Southern Spear — that intercepted oil shipments to the island while sanctions cut off every alternative supply.
+On March 16, 2026, Cuba's national power grid collapsed. Ten million people went dark. The cause: a U.S. fuel blockade. Operation Southern Spear, that intercepted oil shipments to the island while sanctions cut off every alternative supply.
 
-The Secretary of State managing this policy is [[_Marco Rubio Master Profile|Marco Rubio]]. His career was funded by the [[Fanjul Family - Florida Crystals|Fanjul sugar dynasty]] — the family that directly benefits from the elimination of Cuban agricultural competition. Their 2024 political spending: $2.9 million. The Trump administration's $50 million conviction-day fundraiser was hosted at a Fanjul estate.
+The Secretary of State managing this policy is [[_Marco Rubio Master Profile|Marco Rubio]]. His career was funded by the [[Fanjul Family - Florida Crystals|Fanjul sugar dynasty]], the family that directly benefits from the elimination of Cuban agricultural competition. Their 2024 political spending: $2.9 million. The Trump administration's $50 million conviction-day fundraiser was hosted at a Fanjul estate.
 
-Behind the blockade, three donor pipelines converge: the sugar oligarchy gets permanent protection from Cuban competition. The [[LARA Fund - Mauricio Claver-Carone|LARA Fund]] — a $750M private equity vehicle run by Trump's former Latin America envoy — is positioned to acquire Cuban infrastructure at fire-sale prices once the "distress" is sufficient. And [[_Mario Diaz-Balart Master Profile|Rep. Mario Diaz-Balart]], Vice Chair of House Appropriations and the top congressional recipient of Fanjul money, ensures Congress funds the operation and blocks any reversal.
+Behind the blockade, three donor pipelines converge: the sugar oligarchy gets permanent protection from Cuban competition. The [[LARA Fund - Mauricio Claver-Carone|LARA Fund]], a $750M private equity vehicle run by Trump's former Latin America envoy, is positioned to acquire Cuban infrastructure at fire-sale prices once the "distress" is sufficient. And [[_Mario Diaz-Balart Master Profile|Rep. Mario Diaz-Balart]], Vice Chair of House Appropriations and the top congressional recipient of Fanjul money, ensures Congress funds the operation and blocks any reversal.
 
-This is not diplomacy. This is economic warfare with a donor-class return on investment — documented in real time, with receipts.
+This is not diplomacy. This is economic warfare with a donor-class return on investment, documented in real time, with receipts.
 
 ### [[Operation Southern Spear and the Cuba Fuel Blockade|Read the full investigation →]]
 
@@ -76,7 +76,7 @@ This is not diplomacy. This is economic warfare with a donor-class return on inv
 
 ### The Supreme Court Was Purchased
 
-Start with [[Leonard Leo]] and the [[Federalist Society]]. Follow the money through [[Judicial Crisis Network]]. Then read the justices — [[_Clarence Thomas Master Profile|Thomas]] (Harlan Crow's 30-year patronage), [[_Samuel Alito Master Profile|Alito]] (the Fisher trip), [[_Neil Gorsuch Master Profile|Gorsuch]], [[_Brett Kavanaugh Master Profile|Kavanaugh]], [[_Amy Coney Barrett Master Profile|Barrett]]. The conservative majority was built through a 40-year investment by a small number of billionaires. The return: Citizens United, Dobbs, Chevron.
+Start with [[Leonard Leo]] and the [[Federalist Society]]. Follow the money through [[Judicial Crisis Network]]. Then read the justices, [[_Clarence Thomas Master Profile|Thomas]] (Harlan Crow's 30-year patronage), [[_Samuel Alito Master Profile|Alito]] (the Fisher trip), [[_Neil Gorsuch Master Profile|Gorsuch]], [[_Brett Kavanaugh Master Profile|Kavanaugh]], [[_Amy Coney Barrett Master Profile|Barrett]]. The conservative majority was built through a 40-year investment by a small number of billionaires. The return: Citizens United, Dobbs, Chevron.
 
 ---
 
@@ -94,19 +94,19 @@ Analytical pieces that trace money across party lines. These are the patterns th
 
 ### Start Here
 
-**[[Follow the Money - Guided Tour]]** — Nine curated trails through the database. The Cuba blockade, Wall Street, defense, pharma, dark money, the Supreme Court, the Trump Cabinet, the consent machine, and the Israel Lobby. Start with one and follow the links.
+**[[Follow the Money - Guided Tour]]**. Nine curated trails through the database. The Cuba blockade, Wall Street, defense, pharma, dark money, the Supreme Court, the Trump Cabinet, the consent machine, and the Israel Lobby. Start with one and follow the links.
 
-**[[Browse by Pattern]]** — Explore the database by analytical pattern: Revolving Door, Two-Audience Problem, Donor-Class Override, Dark Money Symmetry.
+**[[Browse by Pattern]]**. Explore the database by analytical pattern: Revolving Door, Two-Audience Problem, Donor-Class Override, Dark Money Symmetry.
 
-**[[Politicians Index]]** — Every politician in the database, organized by party and chamber.
+**[[Politicians Index]]**. Every politician in the database, organized by party and chamber.
 
-**[[Donors & Power Networks Index]]** — Every donor, PAC, and dark money network, organized by sector.
+**[[Donors & Power Networks Index]]**. Every donor, PAC, and dark money network, organized by sector.
 
 ---
 
 ### What's Coming
 
-The database is expanding. Committee power mapping — which donors buy seats on which committees. Corporate crime tracking — when the donors break the law and keep donating. State-level expansion — governors, state legislators, and the ALEC pipeline. The model grows as the connections reveal themselves.
+The database is expanding. Committee power mapping, which donors buy seats on which committees. Corporate crime tracking, when the donors break the law and keep donating. State-level expansion, governors, state legislators, and the ALEC pipeline. The model grows as the connections reveal themselves.
 
 ---
 

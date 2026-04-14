@@ -1,5 +1,5 @@
 ---
-title: "Dale W. Strong Master Profile"
+title: "Dale W. Strong"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

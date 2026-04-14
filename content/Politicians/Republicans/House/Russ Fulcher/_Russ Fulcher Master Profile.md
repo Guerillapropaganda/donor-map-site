@@ -1,5 +1,5 @@
 ---
-title: "Russ Fulcher Master Profile"
+title: "Russ Fulcher"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

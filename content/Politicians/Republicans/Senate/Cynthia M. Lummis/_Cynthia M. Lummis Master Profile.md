@@ -1,5 +1,5 @@
 ---
-title: "Cynthia M. Lummis Master Profile"
+title: "Cynthia M. Lummis"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -144,7 +144,7 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]]: single-paye
 - [California Legislature: SB-562 The Healthy California Act (2017)](https://leginfo.legislature.ca.gov/faces/home.xhtml?bill_id=201720180SB562) (Tier 1) (VERIFIED)
 - [California Legislature: AB-1400 Guaranteed Health Care for All (2021–2022)](https://leginfo.legislature.ca.gov/faces/home.xhtml?bill_id=202120220AB1400) (Tier 1) (VERIFIED)
 - [California Legislature: AB-2200 Guaranteed Health Care for All (2023–2024)](https://leginfo.legislature.ca.gov/faces/home.xhtml?bill_id=202320240AB2200) (Tier 1) (VERIFIED)
-- ~~[Assemblymember Ash Kalra: Statement on CalCare (AB 2200) killed in Appropriations, May 16, 2024](https://kalra.asmdc.org/press-releases/20240516-assemblymember-ash-kalra-releases-statement-calcare)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Assemblymember Ash Kalra: Statement on CalCare (AB 2200) killed in Appropriations, May 16, 2024](https://kalra.asmdc.org/press-releases/20240516-assemblymember-ash-kalra-releases-statement-calcare)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [National Nurses United: CalCare advocacy and bill history](https://www.nationalnursesunited.org/calcare) (Tier 2) (VERIFIED)
 - [Wikipedia: CalCare legislative history](https://en.wikipedia.org/wiki/CalCare) (Tier 3) (VERIFIED)
 
@@ -174,7 +174,7 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]]: single-paye
 ### Legislative Record
 
 - [California Legislature: AB-2542 Racial Justice Act. Criminal procedure: discrimination (2020)](https://leginfo.legislature.ca.gov/faces/home.xhtml?bill_id=201920200AB2542) (Tier 1) (VERIFIED)
-- ~~[Assemblymember Kalra: Governor Signs Landmark Legislation Advancing Racial Justice in California (Sept. 30, 2020)](https://kalra.asmdc.org/press-releases/20200930-governor-signs-landmark-legislation-advancing-racial-justice-california)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Assemblymember Kalra: Governor Signs Landmark Legislation Advancing Racial Justice in California (Sept. 30, 2020)](https://kalra.asmdc.org/press-releases/20200930-governor-signs-landmark-legislation-advancing-racial-justice-california)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ---
 

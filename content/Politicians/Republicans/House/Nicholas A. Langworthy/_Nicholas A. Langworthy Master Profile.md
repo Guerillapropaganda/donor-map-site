@@ -1,5 +1,5 @@
 ---
-title: "Nicholas A. Langworthy Master Profile"
+title: "Nicholas A. Langworthy"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

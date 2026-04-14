@@ -22,9 +22,9 @@ Aaron Maté is a Canadian writer and journalist best known as a primary reporter
 
 ### FEC Record
 
-**Status:** N/A — Canadian citizen; ineligible for U.S. federal campaign contributions.
+**Status:** N/A. Canadian citizen; ineligible for U.S. federal campaign contributions.
 
-The FEC API returns 0 results for "MATE, AARON" — confirmed no contributions, consistent with non-citizen status. Maté's influence on U.S. politics operates entirely through journalism (The Grayzone, Useful Idiots) and media commentary, not campaign finance. His Canadian citizenship is analytically relevant: it places him outside the donor-to-policy pipeline this vault tracks while allowing him to shape U.S. political discourse from a position the FEC cannot regulate.
+The FEC API returns 0 results for "MATE, AARON", confirmed no contributions, consistent with non-citizen status. Maté's influence on U.S. politics operates entirely through journalism (The Grayzone, Useful Idiots) and media commentary, not campaign finance. His Canadian citizenship is analytically relevant: it places him outside the donor-to-policy pipeline this vault tracks while allowing him to shape U.S. political discourse from a position the FEC cannot regulate.
 
 - [FEC: Aaron Maté individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=MATE%2C+AARON) (Tier 1) (VERIFIED)
 
@@ -32,11 +32,11 @@ The FEC API returns 0 results for "MATE, AARON" — confirmed no contributions, 
 
 Maté's income sources combine precarity and independence:
 
-1. **[[The Grayzone]]** — Patreon-funded outlet; Maté receives salary from Patreon revenue pool (shared among staff: Max Blumenthal, Anya Parampil, Wyatt Reed, Dan Cohen, others)
-2. **Patreon direct** — Personal Patreon account separate from Grayzone; $1-$100/month tiers from individual subscribers
-3. **Useful Idiots podcast** — Co-hosted with Katie Halper; Patreon-funded ($3,830-$19,150 monthly based on 2020 data); revenue split between co-hosts
-4. **Speaking engagements** — Anti-war conferences, progressive organizations, university events
-5. **Freelance journalism** — Occasional articles for left-media outlets
+1. **[[The Grayzone]]**. Patreon-funded outlet; Maté receives salary from Patreon revenue pool (shared among staff: Max Blumenthal, Anya Parampil, Wyatt Reed, Dan Cohen, others)
+2. **Patreon direct**. Personal Patreon account separate from Grayzone; $1-$100/month tiers from individual subscribers
+3. **Useful Idiots podcast**. Co-hosted with Katie Halper; Patreon-funded ($3,830-$19,150 monthly based on 2020 data); revenue split between co-hosts
+4. **Speaking engagements**. Anti-war conferences, progressive organizations, university events
+5. **Freelance journalism**. Occasional articles for left-media outlets
 
 The Grayzone operates on stated model of reader/listener funding through Patreon. Blumenthal claims funding comes from "private friends of mine who are basically progressive Americans who support progressive media." However, reporting suggests financial backing may include sources beyond small-dollar Patreon funding (see Funding Questions section below).
 
@@ -49,11 +49,11 @@ The Grayzone operates on stated model of reader/listener funding through Patreon
 
 ### Secondary/undisclosed funding (allegations):
 - Research by Institute for Strategic Dialogue (2022) found that Grayzone staff and contributors received funding sources raising conflict-of-interest questions:
-  - Anya Parampil, Wyatt Reed, Mohamed Elmaazi, Jeremy Loffredo, Kit Klarenberg, Dan Cohen, Rania Khalek all received payments from Russian government media at some point
-  - Maté worked as briefer for Russia's UN mission
-  - Maté, Blumenthal, Parampil, and others received "Serena Shim Awards" from Association for Investment in Popular Action Committees (Assad-aligned organization); Blumenthal received $20,000 alongside award
+ - Anya Parampil, Wyatt Reed, Mohamed Elmaazi, Jeremy Loffredo, Kit Klarenberg, Dan Cohen, Rania Khalek all received payments from Russian government media at some point
+ - Maté worked as briefer for Russia's UN mission
+ - Maté, Blumenthal, Parampil, and others received "Serena Shim Awards" from Association for Investment in Popular Action Committees (Assad-aligned organization); Blumenthal received $20,000 alongside award
 
-**What this suggests:** The Grayzone's stated Patreon-only funding model may understate actual income sources. Professional staff salaries require baseline funding Patreon alone unlikely to provide. Additional sources—whether Russian government ties, foreign state media employment, or undisclosed donors—appear to supplement stated funding model.
+**What this suggests:** The Grayzone's stated Patreon-only funding model may understate actual income sources. Professional staff salaries require baseline funding Patreon alone unlikely to provide. Additional sources, whether Russian government ties, foreign state media employment, or undisclosed donors, appear to supplement stated funding model.
 
 **Impact:** Creates structural conflict of interest where Maté's journalism on Russia, Syria, Russiagate benefits from undisclosed funding streams potentially connected to actors he covers.
 
@@ -125,11 +125,11 @@ If funding sources include Russian government connections as critics allege, the
 
 #### Who benefits from Maté and The Grayzone's existence
 
-1. **Progressive listeners wanting alternative to mainstream media** — Gain voice articulating anti-imperialist, Russia-sympathetic positions; feel part of community resisting propaganda
-2. **Russian foreign policy interests** — Whether through employment arrangements, award networks, or geopolitical alignment, Russia benefits from English-language media voice questioning NATO expansion, Russiagate, and anti-Assad narratives
-3. **Syrian government interests** — Skeptical coverage of chemical weapons allegations, Western intervention narratives help delegitimize international opposition to Assad regime
-4. **Independent media entrepreneurs** — Maté's success validates model of crowdfunded journalism outside institutional gatekeeping; spawns imitators
-5. **Anti-war progressives** — Gain intellectual framework for opposing Democratic foreign policy; voting base for anti-war Democratic primary candidates
+1. **Progressive listeners wanting alternative to mainstream media**. Gain voice articulating anti-imperialist, Russia-sympathetic positions; feel part of community resisting propaganda
+2. **Russian foreign policy interests**. Whether through employment arrangements, award networks, or geopolitical alignment, Russia benefits from English-language media voice questioning NATO expansion, Russiagate, and anti-Assad narratives
+3. **Syrian government interests**. Skeptical coverage of chemical weapons allegations, Western intervention narratives help delegitimize international opposition to Assad regime
+4. **Independent media entrepreneurs**. Maté's success validates model of crowdfunded journalism outside institutional gatekeeping; spawns imitators
+5. **Anti-war progressives**. Gain intellectual framework for opposing Democratic foreign policy; voting base for anti-war Democratic primary candidates
 
 #### Who loses
 - Syrians: Chemical weapons attacks become subject of journalistic debate rather than established fact; international accountability mechanisms undermined
@@ -164,9 +164,9 @@ Patreon revenue (60-70%), freelance journalism (20-30%), speaking engagements (1
 
 - [Aaron Maté - Wikipedia](https://en.wikipedia.org/wiki/Aaron_Mat%C3%A9) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
 - [The Grayzone - Wikipedia](https://en.wikipedia.org/wiki/The_Grayzone) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
-- ~~[The Grayzone — SourceWatch](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/The_Grayzone)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (Chrome verified 2026-03-27)
-- [Public Mistrust of Gaza Coverage Is Opening Space for Russia-Linked Media on the Left — New Lines Magazine](https://newlinesmag.com/argument/public-mistrust-of-gaza-coverage-is-opening-space-for-russia-linked-media-on-the-left/) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
-- [The Grayzone's Aaron Maté testifies at UN on OPCW Syria cover-up — The Grayzone](https://thegrayzone.com/2020/09/29/grayzones-aaron-mate-testifies-at-un-on-opcw-syria-cover-up/) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
-- ~~[Aaron Maté wins Izzy Award for Russiagate coverage — Various sources](https://www.izzieaward.org/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2) (Chrome verified 2026-03-27)
-- [Useful Idiots with Aaron Maté and Katie Halper — Podcast](https://www.usefulidiotspodcast.com/) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
-- [Aaron Maté — The Grayzone](https://thegrayzone.com/author/aaron-mate/) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
+- ~~[The Grayzone. SourceWatch](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/The_Grayzone)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (Chrome verified 2026-03-27)
+- [Public Mistrust of Gaza Coverage Is Opening Space for Russia-Linked Media on the Left. New Lines Magazine](https://newlinesmag.com/argument/public-mistrust-of-gaza-coverage-is-opening-space-for-russia-linked-media-on-the-left/) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
+- [The Grayzone's Aaron Maté testifies at UN on OPCW Syria cover-up. The Grayzone](https://thegrayzone.com/2020/09/29/grayzones-aaron-mate-testifies-at-un-on-opcw-syria-cover-up/) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
+- ~~[Aaron Maté wins Izzy Award for Russiagate coverage. Various sources](https://www.izzieaward.org/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2) (Chrome verified 2026-03-27)
+- [Useful Idiots with Aaron Maté and Katie Halper. Podcast](https://www.usefulidiotspodcast.com/) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
+- [Aaron Maté. The Grayzone](https://thegrayzone.com/author/aaron-mate/) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)

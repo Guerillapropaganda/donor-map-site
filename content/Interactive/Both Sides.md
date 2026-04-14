@@ -7,7 +7,7 @@ tags:
 
 # Both Sides
 
-The same donors fund **both parties**. This graph shows who hedges their bets — proving money buys access regardless of which team is in power.
+The same donors fund **both parties**. This graph shows who hedges their bets, proving money buys access regardless of which team is in power.
 
 <div id="dm-both-sides" class="dm-interactive-container"></div>
 

@@ -1,5 +1,5 @@
 ---
-title: "Andrew S. Clyde Master Profile"
+title: "Andrew S. Clyde"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

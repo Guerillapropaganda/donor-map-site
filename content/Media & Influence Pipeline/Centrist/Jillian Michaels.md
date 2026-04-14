@@ -24,7 +24,7 @@ Jillian Michaels is a fitness celebrity and television personality best known as
 
 **Total:** $0 | **Contributions:** 0 | **API-verified:** 2026-03-27
 
-No FEC individual contributions found. The FEC API returns 0 results for "MICHAELS, JILLIAN" — no contributions on record for the fitness celebrity turned political commentator. A wellness entrepreneur with significant personal wealth ($18M+ estimated net worth) making $0 in political contributions while hosting a political commentary show — her political engagement is exclusively through media platform, not campaign finance. The celebrity-to-commentator pipeline bypasses the donor system entirely.
+No FEC individual contributions found. The FEC API returns 0 results for "MICHAELS, JILLIAN", no contributions on record for the fitness celebrity turned political commentator. A wellness entrepreneur with significant personal wealth ($18M+ estimated net worth) making $0 in political contributions while hosting a political commentary show, her political engagement is exclusively through media platform, not campaign finance. The celebrity-to-commentator pipeline bypasses the donor system entirely.
 
 - [FEC: Jillian Michaels individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=MICHAELS%2C+JILLIAN) (Tier 1) (VERIFIED)
 
@@ -32,11 +32,11 @@ No FEC individual contributions found. The FEC API returns 0 results for "MICHAE
 
 Michaels' revenue structure reveals the transition from entertainment celebrity to media infrastructure participant:
 
-1. **Fitness Brand IP** — The Biggest Loser appearances, personal training apps, fitness merchandise, endorsements (Peak Performance supplements, fitness equipment): estimated $500K-1M annually
-2. **Social Media Sponsorships** — Instagram brand partnerships (fitness equipment, wellness supplements): estimated $200-400K annually
-3. **Valuetainment Compensation** — "Her Take" hosting role includes fixed compensation (estimated $100-250K annually), platform infrastructure, production support, cross-promotion through Valuetainment network
-4. **Appearance/Speaking Fees** — Paid podcast appearances, speaking engagements, consulting: estimated $100-300K annually
-5. **Direct Audience Monetization** — Patreon/membership programs, personal coaching: minimal ($20-50K annually)
+1. **Fitness Brand IP**. The Biggest Loser appearances, personal training apps, fitness merchandise, endorsements (Peak Performance supplements, fitness equipment): estimated $500K-1M annually
+2. **Social Media Sponsorships**. Instagram brand partnerships (fitness equipment, wellness supplements): estimated $200-400K annually
+3. **Valuetainment Compensation**, "Her Take" hosting role includes fixed compensation (estimated $100-250K annually), platform infrastructure, production support, cross-promotion through Valuetainment network
+4. **Appearance/Speaking Fees**. Paid podcast appearances, speaking engagements, consulting: estimated $100-300K annually
+5. **Direct Audience Monetization**. Patreon/membership programs, personal coaching: minimal ($20-50K annually)
 
 **Key dynamic:** Michaels' shift to Valuetainment represents monetization of her existing celebrity brand into political infrastructure. Valuetainment provides production infrastructure, distribution network, and audience access; Michaels provides celebrity legitimacy and existing audience trust. The arrangement requires minimal audience acquisition (she brings existing 1M+ followers) but depends entirely on Valuetainment platform infrastructure and Patrick Bet-David's network.
 
@@ -58,25 +58,25 @@ Michaels' revenue structure reveals the transition from entertainment celebrity 
 
 #### Centrist Positioning Maintained Through
 
-1. **"Women's Perspective" Framing** — "Her Take" marketed as "alternative to The View"; brands itself as female-forward but actually provides right-adjacent commentary in women-hosted format
-2. **Personal Transformation Narrative Applied to Politics** — Fitness expertise (body transformation through discipline) translates to political messaging (social transformation through individual responsibility); obscures structural policy analysis
-3. **Celebration of Controversy** — "Her Take" episodes feature provocative debate moments (documented case: co-host threw tampon at co-panelist during Gaza debate); treats political issues as entertainment conflict rather than structural analysis
-4. **Bipartisan Aesthetic Without Structural Analysis** — Panel includes rotating guests "across political spectrum"; appearance of balance without examination of which guests serve which donor interests
-5. **Fitness-Brand Authority Transfer** — Michaels' credibility in fitness/body transformation implicitly transfers to political commentary; audiences perceive her as "disciplined" and therefore credible on policy
+1. **"Women's Perspective" Framing**, "Her Take" marketed as "alternative to The View"; brands itself as female-forward but actually provides right-adjacent commentary in women-hosted format
+2. **Personal Transformation Narrative Applied to Politics**. Fitness expertise (body transformation through discipline) translates to political messaging (social transformation through individual responsibility); obscures structural policy analysis
+3. **Celebration of Controversy**, "Her Take" episodes feature provocative debate moments (documented case: co-host threw tampon at co-panelist during Gaza debate); treats political issues as entertainment conflict rather than structural analysis
+4. **Bipartisan Aesthetic Without Structural Analysis**. Panel includes rotating guests "across political spectrum"; appearance of balance without examination of which guests serve which donor interests
+5. **Fitness-Brand Authority Transfer**. Michaels' credibility in fitness/body transformation implicitly transfers to political commentary; audiences perceive her as "disciplined" and therefore credible on policy
 
 #### Key Narrative Function
 
-Michaels' fitness brand background makes her appear non-partisan (fitness transcends politics) and transforms her into trusted advisor on "life transformation." Her political messaging emphasizes individual responsibility, personal discipline, and resistance to "woke orthodoxy"—all consistent with her fitness brand positioning. This creates psychological coherence: the trainer who demanded personal accountability now demands personal political accountability, obscuring structural power analysis.
+Michaels' fitness brand background makes her appear non-partisan (fitness transcends politics) and transforms her into trusted advisor on "life transformation." Her political messaging emphasizes individual responsibility, personal discipline, and resistance to "woke orthodoxy", all consistent with her fitness brand positioning. This creates psychological coherence: the trainer who demanded personal accountability now demands personal political accountability, obscuring structural power analysis.
 
 ### The Audience Capture Model
 
 Michaels' audience retention depends on:
 
-1. **Existing Celebrity Brand Trust** — Audience already trusts her from fitness/TV career; psychological transfer occurs where fitness credibility implies political credibility
-2. **Controversy-Driven Engagement** — "Her Take" deliberately features heated debates and dramatic moments (tampon incident viral); controversy drives YouTube algorithm engagement
-3. **Celebrity Identification** — Audience members see themselves reflected in Michaels' positioning (discipline, skepticism of "woke" culture); parasocial identification drives subscriptions
-4. **Valuetainment Network Effects** — Michaels benefits from Valuetainment's existing audience (Patrick Bet-David PBD Podcast millions of followers); cross-promotion drives Her Take viewership
-5. **Team Sports Dynamics** — Panel format (rotating hosts including [[Ana Kasparian]], Lindy Li, Amy Dangerfield) creates team identification; audiences choose "side" within show, driving repeat engagement
+1. **Existing Celebrity Brand Trust**. Audience already trusts her from fitness/TV career; psychological transfer occurs where fitness credibility implies political credibility
+2. **Controversy-Driven Engagement**, "Her Take" deliberately features heated debates and dramatic moments (tampon incident viral); controversy drives YouTube algorithm engagement
+3. **Celebrity Identification**. Audience members see themselves reflected in Michaels' positioning (discipline, skepticism of "woke" culture); parasocial identification drives subscriptions
+4. **Valuetainment Network Effects**. Michaels benefits from Valuetainment's existing audience (Patrick Bet-David PBD Podcast millions of followers); cross-promotion drives Her Take viewership
+5. **Team Sports Dynamics**. Panel format (rotating hosts including [[Ana Kasparian]], Lindy Li, Amy Dangerfield) creates team identification; audiences choose "side" within show, driving repeat engagement
 
 #### Audience Effect
 
@@ -84,11 +84,11 @@ Michaels' fitness celebrity status pre-programs audiences toward accepting her p
 
 ### What Their Funders Got
 
-1. **Valuetainment Media** — Celebrity legitimacy for centrist-right media platform; Michaels' 1M+ Instagram followers become accessible audience for Valuetainment ecosystem; "Her Take" becomes flagship talent draw
-2. **[[Patrick Bet-David]]** — Realization of long-stated goal (2022-2025) to create "The View for the right"; Michaels provides celebrity hosting that avoids appearance of partisan programming (she's a fitness expert, not a political operative)
-3. **Right-Adjacent Political Infrastructure** — Michaels' centrist positioning and female-hosted format make Valuetainment content more palatable to centrist audiences uncomfortable with explicitly partisan right-wing media; her participation legitimates Valuetainment as "balanced" rather than right-leaning
-4. **Fitness Sponsorships/Endorsements** — Valuetainment visibility amplifies Michaels' fitness brand; Her Take appearances drive supplement and equipment sales to audience demographics
-5. **Centrist Media Infrastructure** — Michaels' fitness-brand-to-politics conversion proves that celebrity capital can substitute for journalism credentials; demonstrates viability of "celebrity commentator" model in centrist media
+1. **Valuetainment Media**. Celebrity legitimacy for centrist-right media platform; Michaels' 1M+ Instagram followers become accessible audience for Valuetainment ecosystem; "Her Take" becomes flagship talent draw
+2. **[[Patrick Bet-David]]**. Realization of long-stated goal (2022-2025) to create "The View for the right"; Michaels provides celebrity hosting that avoids appearance of partisan programming (she's a fitness expert, not a political operative)
+3. **Right-Adjacent Political Infrastructure**. Michaels' centrist positioning and female-hosted format make Valuetainment content more palatable to centrist audiences uncomfortable with explicitly partisan right-wing media; her participation legitimates Valuetainment as "balanced" rather than right-leaning
+4. **Fitness Sponsorships/Endorsements**. Valuetainment visibility amplifies Michaels' fitness brand; Her Take appearances drive supplement and equipment sales to audience demographics
+5. **Centrist Media Infrastructure**. Michaels' fitness-brand-to-politics conversion proves that celebrity capital can substitute for journalism credentials; demonstrates viability of "celebrity commentator" model in centrist media
 
 ### Timeline
 
@@ -109,18 +109,18 @@ Michaels' fitness celebrity status pre-programs audiences toward accepting her p
 
 #### Who Benefits from Jillian Michaels Existing in Political Media
 
-1. **Valuetainment Media** — Celebrity talent for flagship show; immediate audience access; legitimacy transfer (fitness expert → political expert by proximity)
-2. **Patrick Bet-David/Valuetainment Investments Group** — Achieves stated goal of "The View for the right" with celebrity legitimacy; Michaels' presence makes centrist-right content appear more balanced
-3. **Right-Adjacent Political Infrastructure** — Michaels' female-hosted, centrist positioning makes right-wing talking points more palatable to undecided audiences; "Her Take" becomes propaganda vehicle disguised as entertainment
-4. **Fitness Sponsorships/Endorsements** — Valuetainment visibility amplifies supplement and equipment sales to younger audiences; political platform becomes marketing vehicle
-5. **Tech Platforms (YouTube, etc.)** — Michaels' controversy-driven debate format optimizes for algorithm engagement; Valuetainment show generates hours of watch time, training recommendation algorithms
+1. **Valuetainment Media**. Celebrity talent for flagship show; immediate audience access; legitimacy transfer (fitness expert → political expert by proximity)
+2. **Patrick Bet-David/Valuetainment Investments Group**. Achieves stated goal of "The View for the right" with celebrity legitimacy; Michaels' presence makes centrist-right content appear more balanced
+3. **Right-Adjacent Political Infrastructure**. Michaels' female-hosted, centrist positioning makes right-wing talking points more palatable to undecided audiences; "Her Take" becomes propaganda vehicle disguised as entertainment
+4. **Fitness Sponsorships/Endorsements**. Valuetainment visibility amplifies supplement and equipment sales to younger audiences; political platform becomes marketing vehicle
+5. **Tech Platforms (YouTube, etc.)**. Michaels' controversy-driven debate format optimizes for algorithm engagement; Valuetainment show generates hours of watch time, training recommendation algorithms
 
 #### Who Benefits from Michaels' Specific Positioning
 
-- **Centrist Super PACs/Dark Money Networks** — Her fitness-brand credibility transfers to political credibility; her audience (women, fitness-focused, health-conscious) becomes accessible for centrist messaging; appearance of "balanced" female panel obscures right-leaning infrastructure
-- **Right-Wing Political Donors Funding Valuetainment** — Michaels' celebrity status and "strong woman" positioning provide cover for right-adjacent political media; her presence legitimates Valuetainment as "balanced" rather than partisan
-- **Fitness Industry** — Michaels' political platform amplifies fitness brand; supplement companies access her audience through sponsorships; health/fitness commodification intensifies
-- **Status-Quo Political Economy** — Michaels' fitness-brand-to-politics conversion proves that celebrity capital substitutes for institutional accountability; demonstrates that entertainment credentials equal political credibility in centrist media infrastructure
+- **Centrist Super PACs/Dark Money Networks**. Her fitness-brand credibility transfers to political credibility; her audience (women, fitness-focused, health-conscious) becomes accessible for centrist messaging; appearance of "balanced" female panel obscures right-leaning infrastructure
+- **Right-Wing Political Donors Funding Valuetainment**. Michaels' celebrity status and "strong woman" positioning provide cover for right-adjacent political media; her presence legitimates Valuetainment as "balanced" rather than partisan
+- **Fitness Industry**. Michaels' political platform amplifies fitness brand; supplement companies access her audience through sponsorships; health/fitness commodification intensifies
+- **Status-Quo Political Economy**. Michaels' fitness-brand-to-politics conversion proves that celebrity capital substitutes for institutional accountability; demonstrates that entertainment credentials equal political credibility in centrist media infrastructure
 
 ### Capture Architecture
 
@@ -143,11 +143,11 @@ Michaels' fitness celebrity status pre-programs audiences toward accepting her p
 
 ### Sources
 
-- [BOLD NEW PODCAST / TALK SHOW "HER TAKE" AIRS EVERY FRIDAY — Yahoo Finance](https://finance.yahoo.com/news/bold-podcast-talk-show-her-190000209.html) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
+- [BOLD NEW PODCAST / TALK SHOW "HER TAKE" AIRS EVERY FRIDAY. Yahoo Finance](https://finance.yahoo.com/news/bold-podcast-talk-show-her-190000209.html) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
 - [Her Take - Valuetainment](https://valuetainment.com/her-take/) (Tier 3) (VERIFIED) (Chrome verified 2026-03-27)
-- ~~[Jillian Michaels Abruptly Quits 'Her Take' Podcast — Medium](https://medium.com/@PeterBahi2/jillian-michaels-abruptly-quits-her-take-podcast-e453f86e56d2)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3) (Chrome verified 2026-03-27)
-- [Patrick Bet-David on X — Valuetainment](https://x.com/patrickbetdavid/status/1918282164245766442) (Tier 3) (VERIFIED) (Chrome verified 2026-03-27)
+- ~~[Jillian Michaels Abruptly Quits 'Her Take' Podcast. Medium](https://medium.com/@PeterBahi2/jillian-michaels-abruptly-quits-her-take-podcast-e453f86e56d2)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3) (Chrome verified 2026-03-27)
+- [Patrick Bet-David on X. Valuetainment](https://x.com/patrickbetdavid/status/1918282164245766442) (Tier 3) (VERIFIED) (Chrome verified 2026-03-27)
 - [Jillian Michaels on X](https://x.com/JillianMichaels/status/1856419009820012642) (Tier 3) (VERIFIED) (Chrome verified 2026-03-27)
-- [Pro-Trump Pundit Throws a Tampon at Liberal Co-Host During Debate — Mediaite](https://www.mediaite.com/media/podcasts/watch-pro-trump-pundit-throws-a-tampon-at-liberal-co-host-during-utterly-bizarre-debate/) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
+- [Pro-Trump Pundit Throws a Tampon at Liberal Co-Host During Debate. Mediaite](https://www.mediaite.com/media/podcasts/watch-pro-trump-pundit-throws-a-tampon-at-liberal-co-host-during-utterly-bizarre-debate/) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
 - [Ana Kasparian - Wikipedia](https://en.wikipedia.org/wiki/Ana_Kasparian) (Tier 3) (VERIFIED) (Chrome verified 2026-03-27)
 

@@ -11,7 +11,7 @@ related: "[[_Chris Wright Master Profile]]"
 ---
 #chris-wright #liberty-energy #fracking #lng #doe #regulatory-capture #class-analysis #follow-the-money
 
-donors: (Liberty Energy, fossil fuel industry — no separate nodes)
+donors: (Liberty Energy, fossil fuel industry, no separate nodes)
 
 ---
 
@@ -38,7 +38,7 @@ donors: (Liberty Energy, fossil fuel industry — no separate nodes)
 ### The Policy-to-Profit Pipeline
 
 ### LNG Export Acceleration:
-Wright reversed the Biden administration's pause on LNG export permits within weeks of taking office. DOE has approved applications for 9.5+ billion cubic feet per day. LNG exports expand the market for fracking-produced natural gas — directly benefiting Liberty Energy's customers and the entire hydraulic fracturing industry Wright built.
+Wright reversed the Biden administration's pause on LNG export permits within weeks of taking office. DOE has approved applications for 9.5+ billion cubic feet per day. LNG exports expand the market for fracking-produced natural gas, directly benefiting Liberty Energy's customers and the entire hydraulic fracturing industry Wright built.
 
 ### Renewable Energy Destruction:
 - 70% cut to Office of Energy Efficiency and Renewable Energy proposed in FY2026 budget
@@ -48,7 +48,7 @@ Wright reversed the Biden administration's pause on LNG export permits within we
 
 ### National Lab Reorientation:
 - Nuclear power financing prioritized (via DOE Loan Programs Office)
-- Permitting reforms at 17 national labs — eased regulations described as "burdensome"
+- Permitting reforms at 17 national labs, eased regulations described as "burdensome"
 - Solar/wind/EV research deprioritized
 - Maintained: nuclear fusion, high-performance computing, quantum, AI
 

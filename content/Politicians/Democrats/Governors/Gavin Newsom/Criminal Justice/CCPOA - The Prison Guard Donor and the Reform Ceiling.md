@@ -118,10 +118,10 @@ Criminal justice reform in Newsom's framework is consistently framed as pilot pr
 
 - [FPPC: CCPOA contribution filings](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1) (VERIFIED)
 - [CalMatters: Why California's prison guard union is spending like never before on Gavin Newsom](https://calmatters.org/justice/2024/07/ccpoa-gavin-newsom/) (Tier 2) (VERIFIED)
-- ~~[CalMatters: California prison guards put bullseye on Democratic legislator](https://calmatters.org/category/politics/2020/09/california-prison-guards-ad-democratic-legislator/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[CalMatters: California prison guards put bullseye on Democratic legislator](https://calmatters.org/category/politics/2020/09/california-prison-guards-ad-democratic-legislator/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [CalMatters: 2023 contract](https://calmatters.org/justice/2023/08/ccpoa-contract-2023-california-prisons/) (Tier 2) (VERIFIED)
 - [CalMatters: 2025 contract](https://calmatters.org/justice/2025/06/ccpoa-contract-furloughs/) (Tier 2) (VERIFIED)
 - [CalMatters: Per-prisoner cost](https://calmatters.org/justice/2024/01/california-prison-cost-per-inmate/) (Tier 2) (VERIFIED)
 - [LAO: 2025-26 CDCR Budget (overtime, per-prisoner cost)](https://lao.ca.gov/Publications/Report/5085) (Tier 1) (VERIFIED)
-- ~~[CalMatters: Prop 36 passes overwhelmingly](https://calmatters.org/category/politics/elections/2024/11/prop-36-california-election-result/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[CalMatters: Prop 36 passes overwhelmingly](https://calmatters.org/category/politics/elections/2024/11/prop-36-california-election-result/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 

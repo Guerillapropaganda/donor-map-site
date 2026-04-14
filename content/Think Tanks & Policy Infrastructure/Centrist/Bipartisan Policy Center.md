@@ -242,7 +242,7 @@ The Bipartisan Policy Center is the most structurally revealing think tank in th
 - [Media Bias/Fact Check: Bipartisan Policy Center](https://mediabiasfactcheck.com/bipartisan-policy-center/) (Tier 3) (VERIFIED)
 - [Bipartisan Policy Center: Corporate Council, current corporate sponsors](https://bipartisanpolicy.org/support-bpc/corporate-council/) (Tier 3) (VERIFIED)
 - [Harvard Safra Center for Ethics: Lab Dispatches Vol. 3, think tank funding and funder interests analysis (PDF)](https://www.ethics.harvard.edu/sites/g/files/omnuum9911/files/lab_dispatches_vol3.pdf) (Tier 2) (VERIFIED)
-- ~~[SourceWatch: National Commission on Energy Policy. BPC's energy industry origin](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/National_Commission_on_Energy_Policy)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[SourceWatch: National Commission on Energy Policy. BPC's energy industry origin](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/National_Commission_on_Energy_Policy)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Quincy Institute: Big Ideas and Big Money. Think Tank Funding in America (includes BPC analysis)](https://quincyinst.org/research/big-ideas-and-big-money-think-tank-funding-in-america/) (Tier 2) (VERIFIED)
 - [Responsible Statecraft: Weapons makers, foreign states lavish $32 million on US think tanks (includes BPC data)](https://responsiblestatecraft.org/think-tank-funding-tracker/) (Tier 2) (VERIFIED)
 

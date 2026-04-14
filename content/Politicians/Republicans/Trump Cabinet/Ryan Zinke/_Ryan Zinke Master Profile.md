@@ -1,5 +1,5 @@
 ---
-title: "Ryan Zinke Master Profile"
+title: "Ryan Zinke"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

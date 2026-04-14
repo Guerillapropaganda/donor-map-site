@@ -1,5 +1,5 @@
 ---
-title: "Eleanor Holmes Norton Master Profile"
+title: "Eleanor Holmes Norton"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

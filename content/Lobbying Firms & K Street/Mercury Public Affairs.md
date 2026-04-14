@@ -64,11 +64,11 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### Who They Are
 
-Mercury Public Affairs is a bipartisan lobbying and strategic communications firm that operates one of Washington's most aggressive foreign government practices — and one of the stranger business models in K Street history: a firm simultaneously employed by Trump-adjacent clients, foreign governments including Ukraine, and Chinese tech and telecom companies that are nominally targets of Trump's trade war. The common thread is the revolving door, not ideology.
+Mercury Public Affairs is a bipartisan lobbying and strategic communications firm that operates one of Washington's most aggressive foreign government practices, and one of the stranger business models in K Street history: a firm simultaneously employed by Trump-adjacent clients, foreign governments including Ukraine, and Chinese tech and telecom companies that are nominally targets of Trump's trade war. The common thread is the revolving door, not ideology.
 
 Mercury traces its roots to 1998 and expanded significantly through a merger with Clark & Weinstock around 2011-2012, becoming the current combined firm operating as Mercury LLC. It is headquartered in Washington DC with offices in multiple US states and internationally. Its foreign government lobbying arm (registered separately on FARA as Mercury Public Affairs LLC) pulled in $3.63 million in foreign government fees in 2025 alone, representing Ukraine, India, Armenia, Qatar, and Thailand simultaneously.
 
-The defining story of Mercury is the firm's capacity to survive scandal and reorient toward whoever holds power. Mercury was "Company A" in Robert Mueller's 2017 indictment of Paul Manafort — targeted for lobbying on behalf of Ukrainian autocrat Viktor Yanukovych's political party without registering as foreign agents. The other company in the indictment (the Podesta Group, "Company B") shut down. Mercury hired a Trump campaign communications director the day after the 2017 inauguration, repositioned as a Trump-adjacent shop, and is now grossing $25 million a year while simultaneously lobbying for Chinese tech firms against the administration's own stated China policy.
+The defining story of Mercury is the firm's capacity to survive scandal and reorient toward whoever holds power. Mercury was "Company A" in Robert Mueller's 2017 indictment of Paul Manafort, targeted for lobbying on behalf of Ukrainian autocrat Viktor Yanukovych's political party without registering as foreign agents. The other company in the indictment (the Podesta Group, "Company B") shut down. Mercury hired a Trump campaign communications director the day after the 2017 inauguration, repositioned as a Trump-adjacent shop, and is now grossing $25 million a year while simultaneously lobbying for Chinese tech firms against the administration's own stated China policy.
 
 > [!money]
 > Mercury's 2025 FARA income ($3.63M) represents just one revenue stream. The lobbying arm billed $25.42M across 129 clients. The firm takes fees from governments hostile to each other (Ukraine and Qatar; India and China-backed companies), from companies under US national security scrutiny (Gotion, TP-Link, Xiaomi), and from US firms facing those same scrutinized competitors. The client list is not a policy position — it is a fee structure.
@@ -81,51 +81,51 @@ The defining story of Mercury is the firm's capacity to survive scandal and reor
 
 #### Chinese / National Security Risk
 
-- **Alibaba Group** ($320,000) — Lobbied by Bryan Lanza (Trump transition aide). Mercury represented Alibaba when it faced potential sanctions.
-- **Tencent Holdings (Tencent America)** — Hired Mercury in April 2025 for work related to the NDAA (National Defense Authorization Act). Lobbied by Bryan Lanza and John Lonergan.
-- **Gotion Inc** — Chinese-owned EV battery manufacturer building a US factory that has faced state-level national security pushback. Lobbied by multiple Mercury lobbyists.
-- **Xiaomi Inc (Beijing Xiaomi Mobile Software)** — Chinese smartphone maker designated by the Trump DOD in 2021 as a "Communist Chinese Military Company." Designation later reversed. Now a Mercury client.
-- **TP-Link Systems** — Chinese-owned router manufacturer under active national security investigation by Commerce, DOD, and DOJ.
+- **Alibaba Group** ($320,000). Lobbied by Bryan Lanza (Trump transition aide). Mercury represented Alibaba when it faced potential sanctions.
+- **Tencent Holdings (Tencent America)**. Hired Mercury in April 2025 for work related to the NDAA (National Defense Authorization Act). Lobbied by Bryan Lanza and John Lonergan.
+- **Gotion Inc**. Chinese-owned EV battery manufacturer building a US factory that has faced state-level national security pushback. Lobbied by multiple Mercury lobbyists.
+- **Xiaomi Inc (Beijing Xiaomi Mobile Software)**. Chinese smartphone maker designated by the Trump DOD in 2021 as a "Communist Chinese Military Company." Designation later reversed. Now a Mercury client.
+- **TP-Link Systems**. Chinese-owned router manufacturer under active national security investigation by Commerce, DOD, and DOJ.
 
 #### Foreign Governments (FARA)
 
-- **Stand With Ukraine** ($500,305) — Ukraine advocacy organization; top FARA client in 2025
-- **Embassy of India** ($325,000) — India hired Mercury under FARA (David Vitter as lead, Aug–Nov 2025, $75K/month) specifically to fight Trump's 50% tariff threat on Indian goods — combining an existing 25% tariff with a new 25% levy effective August 27, 2025. The contract supplemented India's existing $1.8M annual deal with SHW Partners. Mercury's assignment: federal lobbying, media outreach, digital strategy. Context: India faces looming tariff escalation on US imports at a scale that could reshape bilateral trade.
-- **Embassy of Armenia** ($300,417) — Armenian government; Mercury has lobbied for Armenia since it cut ties with Turkey-connected clients
-- **Government of Qatar** ($300,000) — Also a Ballard Partners FARA client; Mercury and Ballard both carry Qatari fees simultaneously
-- **National Economic & Social Development Board (Thailand)** ($280,393) — Thai government economic agency
+- **Stand With Ukraine** ($500,305). Ukraine advocacy organization; top FARA client in 2025
+- **Embassy of India** ($325,000). India hired Mercury under FARA (David Vitter as lead, Aug–Nov 2025, $75K/month) specifically to fight Trump's 50% tariff threat on Indian goods, combining an existing 25% tariff with a new 25% levy effective August 27, 2025. The contract supplemented India's existing $1.8M annual deal with SHW Partners. Mercury's assignment: federal lobbying, media outreach, digital strategy. Context: India faces looming tariff escalation on US imports at a scale that could reshape bilateral trade.
+- **Embassy of Armenia** ($300,417). Armenian government; Mercury has lobbied for Armenia since it cut ties with Turkey-connected clients
+- **Government of Qatar** ($300,000). Also a Ballard Partners FARA client; Mercury and Ballard both carry Qatari fees simultaneously
+- **National Economic & Social Development Board (Thailand)** ($280,393). Thai government economic agency
 
 #### Energy / Industrial
 
-- **Aiteo Group** ($620,000) — Nigerian oil company; highest-billing client in 2025
-- **Venture Global LNG** — LNG export terminal company; active lobbying on export approvals
-- **AltaGas / Washington Gas Light** ($200,000) — Canadian energy company
-- **Caithness Energy** ($80,000) — Independent power producer
-- **Ameren Corp** ($200,000) — Midwest electric utility
+- **Aiteo Group** ($620,000). Nigerian oil company; highest-billing client in 2025
+- **Venture Global LNG**. LNG export terminal company; active lobbying on export approvals
+- **AltaGas / Washington Gas Light** ($200,000). Canadian energy company
+- **Caithness Energy** ($80,000). Independent power producer
+- **Ameren Corp** ($200,000). Midwest electric utility
 
 #### Tech / Finance
 
-- **OpenAI** — AI company; lobbied by Jonathan Pyatt
-- **Oracle Corp (Oracle America)** — Enterprise software and cloud
-- **Qualcomm Inc** — Semiconductor manufacturer
-- **[[Bank of America]]** ($120,000) — Major US commercial bank
-- **Blue Cross/Blue Shield (Horizon NJ)** ($200,000) — Health insurance
-- **Bayer AG** ($180,000) — German pharma/agriculture conglomerate
+- **OpenAI**. AI company; lobbied by Jonathan Pyatt
+- **Oracle Corp (Oracle America)**. Enterprise software and cloud
+- **Qualcomm Inc**. Semiconductor manufacturer
+- **[[Bank of America]]** ($120,000). Major US commercial bank
+- **Blue Cross/Blue Shield (Horizon NJ)** ($200,000). Health insurance
+- **Bayer AG** ($180,000). German pharma/agriculture conglomerate
 
 ---
 
 ### The Revolving Door
 
-24 registered lobbyists in 2025. 11 (45.8%) carry revolving door profiles. 3 former members of Congress — the highest elected-official density in the Phase 2 build queue.
+24 registered lobbyists in 2025. 11 (45.8%) carry revolving door profiles. 3 former members of Congress, the highest elected-official density in the Phase 2 build queue.
 
 | Name | Former Position | Lobbies For | Notes |
 |------|----------------|-------------|-------|
-| **Susie Wiles** | Trump 2020 FL campaign director; Trump 2024 presidential campaign co-chair (concurrent with Mercury role) | Mercury clients across Miami/DC offices, 2021–2024 | Mercury tapped Wiles in 2021 as Co-Chair of Miami and Washington DC offices; named Co-Chair of global public strategy in February 2022. She simultaneously co-chaired Trump's 2024 presidential campaign while registered at Mercury — running the campaign that put her boss in the White House from a lobbying firm's office. She did not dissociate from Mercury until after Trump's election. Became White House Chief of Staff January 20, 2025 — the first woman in the role. Mercury's description of her as a "top Republican political strategist" obscures the revolving door: she ran the president's winning campaign from inside a foreign government lobbying shop, then walked into the most powerful staff position in the federal government. |
+| **Susie Wiles** | Trump 2020 FL campaign director; Trump 2024 presidential campaign co-chair (concurrent with Mercury role) | Mercury clients across Miami/DC offices, 2021–2024 | Mercury tapped Wiles in 2021 as Co-Chair of Miami and Washington DC offices; named Co-Chair of global public strategy in February 2022. She simultaneously co-chaired Trump's 2024 presidential campaign while registered at Mercury, running the campaign that put her boss in the White House from a lobbying firm's office. She did not dissociate from Mercury until after Trump's election. Became White House Chief of Staff January 20, 2025, the first woman in the role. Mercury's description of her as a "top Republican political strategist" obscures the revolving door: she ran the president's winning campaign from inside a foreign government lobbying shop, then walked into the most powerful staff position in the federal government. |
 | **Vin Weber** | U.S. Rep. MN-02 (R, 1981–1993) | American Public Education, Gallaudet University, National Agricultural Genotyping Center | Mercury founding partner. Headed Manafort/Ukraine lobbying work ($1.02M from European Centre for a Modern Ukraine). Investigated by Mueller probe; DOJ dropped 2019. |
 | **Cheri Bustos** | U.S. Rep. IL-17 (D, 2013–2023) | Aiteo Group, Ameren, OpenAI, Oracle, Korea Zinc, Tencent | Former DCCC chair. Provides Democratic House caucus access and Midwest government relations. |
 | **David Vitter** | U.S. Senator LA (R, 2005–2017); Rep. LA-01 (1999–2005) | Alphamin Resources, AltaGas, Caithness Energy, Korea Zinc, Pharmaceutical Care Management Assn, Tencent | Former Senator who resigned amid prostitution scandal. Now lobbies energy, mining, and pharma clients. |
 | **Bryan Lanza** | Trump 2016 campaign communications director; Trump Transition comms director; Trump 2024 senior campaign adviser | Alibaba, Tencent, Gotion, TP-Link, Xiaomi, Bank of America, Bayer, Venture Global LNG, Lukoil (personal consulting, Dec 2025), and 40+ others | Mercury's access-to-sanctioned-entities specialist. Hired days after Trump's 2017 inauguration. Represents Chinese firms under Trump's trade/national security policy AND consulted for sanctioned Russian oil giant Lukoil on $22B asset divestiture. Treasury extended Lukoil's deadline within weeks. |
-| **Peter Kucik** | U.S. Treasury OFAC, Senior Sanctions Policy Advisor (7 years). Worked with OFAC Director and Under Secretary for Terrorism and Financial Intelligence on sanctions for Libya, Myanmar, Cuba. Coordinated with NSC, State, Commerce on Executive Orders and regulations. | Alphamin Resources, AltaGas, Gotion, Korea Zinc, SV Management Switzerland, Bot Auto, Endeavor Energy | Mercury's sanctions navigation specialist. A former architect of U.S. sanctions policy now helps clients navigate those same sanctions — including firms under active national security scrutiny. The OFAC-to-lobbying pipeline personified. |
+| **Peter Kucik** | U.S. Treasury OFAC, Senior Sanctions Policy Advisor (7 years). Worked with OFAC Director and Under Secretary for Terrorism and Financial Intelligence on sanctions for Libya, Myanmar, Cuba. Coordinated with NSC, State, Commerce on Executive Orders and regulations. | Alphamin Resources, AltaGas, Gotion, Korea Zinc, SV Management Switzerland, Bot Auto, Endeavor Energy | Mercury's sanctions navigation specialist. A former architect of U.S. sanctions policy now helps clients navigate those same sanctions, including firms under active national security scrutiny. The OFAC-to-lobbying pipeline personified. |
 | **Jonathan Pyatt** | Chief of Staff to Rep. Cheri Bustos (D-IL); Deputy Chief of Staff to Rep. Debbie Wasserman Schultz (D-FL); Senior Advisor at DCCC; architect of House Democrats' 2018 "For the People" midterm message | OpenAI, Ameren, Cedar Innovation Foundation, Soybean Growers, Solana Policy Institute | Followed Bustos from Congress to Mercury. Previously EVP at Venn Strategies (healthcare lobbying). Provides deep Democratic House caucus institutional knowledge. |
 | **Michael McSherry** | VA Federal Liaison for Gov. Jim Gilmore (R); Executive Director, Republican Governors' Association; Reagan 1984 campaign field director; Trump 2016 delegate strategist; Dole 1996 mid-Atlantic political director | Korea Zinc, Danaher, Pharmaceutical Care Management Assn, Power & Communications Contractors, Shutterstock, Stand with Parkland, Webgroup Czech Republic | Four decades of Republican campaign and government infrastructure, from Reagan through Trump. |
 | **Michael Soliman** | Government background (revolving door flagged) | Blue Cross/Blue Shield (Horizon NJ), Hackensack Meridian Health, Academy Bus | New Jersey health sector revolving door |
@@ -145,20 +145,20 @@ The defining story of Mercury is the firm's capacity to survive scandal and reor
 ### The Manafort/Ukraine machine (2012–2017):
 Mercury, directed by Vin Weber, received $1.02 million from Paul Manafort's European Centre for a Modern Ukraine to lobby Congress during the 2012 Ukrainian elections. The work included: lobbying to support Viktor Yanukovych's political standing, opposing the release of his jailed political rival Yulia Tymoshenko, and cultivating favorable congressional sentiment toward a pro-Russia government. All without registering as foreign agents under FARA. Mueller named Mercury as "Company A" in Manafort's 2017 indictment. Mercury subsequently filed retroactive FARA disclosures.
 
-### ZTE — the founding China deal (2018):
+### ZTE, the founding China deal (2018):
 ZTE, the Chinese telecom giant, was placed on the Commerce Department's entity list in 2018, threatening to destroy the company. One day after Trump publicly expressed sympathy for ZTE, the company hired Bryan Lanza and Mercury ($75,000/month via Hogan Lovells). Two weeks later, a deal was announced allowing ZTE to continue operating. Mercury did not deliver the deal alone, but the proximity is documented.
 
 ### Alibaba sanctions defense:
 Mercury's Alibaba team, featuring Bryan Lanza, worked to fend off potential sanctions against the company during the first Trump term. Alibaba remained a Mercury client into 2025 ($320K).
 
 ### Tencent / NDAA defense (2025):
-Tencent hired Mercury in April 2025 for work related to the National Defense Authorization Act — specifically on provisions that could restrict or sanction Chinese tech companies. Lobbied by Bryan Lanza and John Lonergan.
+Tencent hired Mercury in April 2025 for work related to the National Defense Authorization Act, specifically on provisions that could restrict or sanction Chinese tech companies. Lobbied by Bryan Lanza and John Lonergan.
 
 ### Gotion EV batteries:
 Gotion Inc, the Chinese-owned EV battery manufacturer, has faced state-level bans and federal national security scrutiny for its planned Michigan factory. Mercury lobbies for Gotion in Washington, using multiple revolving door lobbyists, while the company is simultaneously under investigation.
 
-### Lukoil — sanctioned Russian oil (December 2025):
-In December 2025, sanctioned Russian oil giant Lukoil hired Bryan Lanza and Mercury to assist with the divestiture of its international assets after the U.S. Treasury sanctioned the company in October 2025 as part of pressure on Russia over the Ukraine war. Lukoil's international division (based in Austria) operates refineries, oil fields, and 2,000+ gas stations worldwide, including 200+ in the United States — assets valued at $22 billion in 2024. Mercury/Lanza interfaced with Treasury to secure an extension of the divestiture deadline from December 13 to January 17, 2026. The same firm that represents Ukraine (Stand With Ukraine, $500K) simultaneously took fees from a sanctioned Russian company whose parent funds the Russian state — and the same lobbyist (Lanza) who represents Chinese firms under Trump scrutiny now represented a Russian firm under Trump sanctions. Note: Lanza's Lukoil consulting was personal, not through Mercury's registered lobbying practice, but the access network is identical.
+### Lukoil, sanctioned Russian oil (December 2025):
+In December 2025, sanctioned Russian oil giant Lukoil hired Bryan Lanza and Mercury to assist with the divestiture of its international assets after the U.S. Treasury sanctioned the company in October 2025 as part of pressure on Russia over the Ukraine war. Lukoil's international division (based in Austria) operates refineries, oil fields, and 2,000+ gas stations worldwide, including 200+ in the United States, assets valued at $22 billion in 2024. Mercury/Lanza interfaced with Treasury to secure an extension of the divestiture deadline from December 13 to January 17, 2026. The same firm that represents Ukraine (Stand With Ukraine, $500K) simultaneously took fees from a sanctioned Russian company whose parent funds the Russian state, and the same lobbyist (Lanza) who represents Chinese firms under Trump scrutiny now represented a Russian firm under Trump sanctions. Note: Lanza's Lukoil consulting was personal, not through Mercury's registered lobbying practice, but the access network is identical.
 
 > [!money]
 > The Lukoil engagement is the clearest demonstration of Mercury's business model: sanctions create market demand for access, and Mercury sells access to the officials who impose sanctions. Peter Kucik spent seven years at Treasury OFAC designing sanctions policy. Bryan Lanza's Trump campaign credentials get calls returned at Treasury. Together they offer sanctioned entities the complete package: regulatory expertise plus political access. Lukoil reportedly secured a Treasury deadline extension within weeks of hiring Mercury.
@@ -190,16 +190,16 @@ In December 2025, sanctioned Russian oil giant Lukoil hired Bryan Lanza and Merc
 Mercury maintains genuine bipartisan infrastructure, more effectively than most firms:
 
 ### Republican access:
-- Vin Weber — Former Republican House leadership member; New Gingrich ally; Conservative movement credibility
-- David Vitter — Former Republican Senator; energy/finance relationships
-- Bryan Lanza — Direct Trump campaign/transition access
+- Vin Weber. Former Republican House leadership member; New Gingrich ally; Conservative movement credibility
+- David Vitter. Former Republican Senator; energy/finance relationships
+- Bryan Lanza. Direct Trump campaign/transition access
 
 ### Democratic access:
-- Cheri Bustos — Former DCCC chair; deep relationships in House Democratic caucus, particularly Midwest members
-- Toby Moffett — Former Democratic Congressman from Connecticut (1975–1983); decades of Democratic relationships
+- Cheri Bustos. Former DCCC chair; deep relationships in House Democratic caucus, particularly Midwest members
+- Toby Moffett. Former Democratic Congressman from Connecticut (1975–1983); decades of Democratic relationships
 
 ### The foreign government play:
-Mercury's simultaneous representation of Ukraine (Stand With Ukraine, $500K) and Qatar (Government of Qatar, $300K) — two governments with competing interests in the Middle East and Central Asia — is only possible because Mercury doesn't take positions. It sells relationships. The firm is not advising on policy. It is maintaining access in both directions.
+Mercury's simultaneous representation of Ukraine (Stand With Ukraine, $500K) and Qatar (Government of Qatar, $300K), two governments with competing interests in the Middle East and Central Asia, is only possible because Mercury doesn't take positions. It sells relationships. The firm is not advising on policy. It is maintaining access in both directions.
 
 ---
 
@@ -207,11 +207,11 @@ Mercury's simultaneous representation of Ukraine (Stand With Ukraine, $500K) and
 
 Mercury is the firm that demonstrates what survives scandal in Washington: not integrity, but utility. After being named in a federal indictment for illegal foreign lobbying, Mercury did three things: (1) filed retroactive FARA disclosures, (2) hired the Trump campaign's communications director, and (3) continued representing foreign governments and Chinese tech companies. None of this required reform. It required repositioning.
 
-The Bryan Lanza business model is the core analytical finding: a firm retains a Trump loyalist not to influence Trump, but to launder Chinese companies' access risk. Alibaba, Tencent, ZTE, Gotion, Xiaomi, and TP-Link are all under scrutiny from a president who publicly campaigns on confronting China. By employing Lanza, Mercury signals to those companies that they can navigate the scrutiny — not by changing their behavior, but by paying the right intermediary. This is conflict laundering as a service.
+The Bryan Lanza business model is the core analytical finding: a firm retains a Trump loyalist not to influence Trump, but to launder Chinese companies' access risk. Alibaba, Tencent, ZTE, Gotion, Xiaomi, and TP-Link are all under scrutiny from a president who publicly campaigns on confronting China. By employing Lanza, Mercury signals to those companies that they can navigate the scrutiny, not by changing their behavior, but by paying the right intermediary. This is conflict laundering as a service.
 
-The structural function: Mercury demonstrates that the revolving door is not a bug in the system but its core feature. Vin Weber spent twelve years in Congress building relationships, then spent three decades monetizing them — including for Ukrainian autocrats. David Vitter's Senate tenure is now a billing asset. Cheri Bustos's four terms as a progressive Democratic Congresswoman are now a line item in Mercury's pitch deck. The content of their political careers is irrelevant. The access they accumulated is the product.
+The structural function: Mercury demonstrates that the revolving door is not a bug in the system but its core feature. Vin Weber spent twelve years in Congress building relationships, then spent three decades monetizing them, including for Ukrainian autocrats. David Vitter's Senate tenure is now a billing asset. Cheri Bustos's four terms as a progressive Democratic Congresswoman are now a line item in Mercury's pitch deck. The content of their political careers is irrelevant. The access they accumulated is the product.
 
-The Peter Kucik hire is the purest expression of this logic. OFAC sanctions create market demand: every new sanctions designation creates a new potential client who needs help navigating the regulatory architecture Kucik helped build. Mercury doesn't just sell access to power — it sells knowledge of the internal machinery of enforcement to the entities being enforced against. Kucik's seven years drafting Executive Orders, license authorizations, and SDN List delisting procedures at Treasury are now available to companies on the wrong side of those same instruments. Mercury simultaneously represented Stand With Ukraine ($500K) while Lanza personally consulted for Lukoil — a company sanctioned specifically to pressure Russia over the war in Ukraine. The firm does not experience this as a contradiction. It experiences it as diversified revenue.
+The Peter Kucik hire is the purest expression of this logic. OFAC sanctions create market demand: every new sanctions designation creates a new potential client who needs help navigating the regulatory architecture Kucik helped build. Mercury doesn't just sell access to power, it sells knowledge of the internal machinery of enforcement to the entities being enforced against. Kucik's seven years drafting Executive Orders, license authorizations, and SDN List delisting procedures at Treasury are now available to companies on the wrong side of those same instruments. Mercury simultaneously represented Stand With Ukraine ($500K) while Lanza personally consulted for Lukoil, a company sanctioned specifically to pressure Russia over the war in Ukraine. The firm does not experience this as a contradiction. It experiences it as diversified revenue.
 
 ---
 

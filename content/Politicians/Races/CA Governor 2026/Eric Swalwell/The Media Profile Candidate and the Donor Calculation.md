@@ -120,7 +120,7 @@ In a primary where voters are making choices based on actual governance records 
 
 - [GovTrack: Rep. Eric Swalwell Congressional Record](https://www.govtrack.us/congress/members/eric_swalwell/412514) (Tier 1) (VERIFIED)
 - [ProPublica: Rep. Eric Swalwell Voting Record](https://projects.propublica.org/represent/members/S001193-eric-swalwell/) (Tier 1) (NEEDS REVIEW)
-- ~~[Congress.gov: Rep. Eric Swalwell Sponsored Bills](https://www.congress.gov/member/eric-swalwell/S001193)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Rep. Eric Swalwell Sponsored Bills](https://www.congress.gov/member/eric-swalwell/S001193)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Emerson College Polling: California 2026 Poll](https://emersoncollegepolling.com/california-2026-poll-swalwell-takes-lead-in-governor-primary-25-undecided-election-for-la-mayor-wide-open/) (Tier 2) (VERIFIED)
 - [CapRadio: California's powerful labor forces are divided](https://www.capradio.org/articles/2026/03/18/californias-powerful-labor-forces-are-divided-on-who-should-be-the-states-next-governor/) (Tier 2) (VERIFIED)
 

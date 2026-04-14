@@ -1,5 +1,5 @@
 ---
-title: "Eric Shinseki Master Profile"
+title: "Eric Shinseki"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

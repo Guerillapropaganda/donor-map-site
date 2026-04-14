@@ -27,18 +27,18 @@ total-assets: 1038719
 
 ### Who They Are
 
-The Jewish Community Relations Council of the Bay Area ([[JCRC Bay Area|JCRC Bay Area]]) is a community relations and advocacy organization representing Jewish institutions in the San Francisco Bay Area — the geographic heart of Newsom's political base. It coordinates responses to antisemitism, advocates on Israel-related policy, and serves as a liaison between Jewish community organizations and elected officials.
+The Jewish Community Relations Council of the Bay Area ([[JCRC Bay Area|JCRC Bay Area]]) is a community relations and advocacy organization representing Jewish institutions in the San Francisco Bay Area, the geographic heart of Newsom's political base. It coordinates responses to antisemitism, advocates on Israel-related policy, and serves as a liaison between Jewish community organizations and elected officials.
 
-Unlike [[JPAC - Jewish Public Affairs Committee of California|JPAC]] (which operates in Sacramento), JCRC Bay Area operates at the local and regional level — it is the Bay Area-specific arm of a national network of JCRCs. It functions as the community relationship maintenance layer between Newsom and the Bay Area Jewish donor ecosystem.
+Unlike [[JPAC - Jewish Public Affairs Committee of California|JPAC]] (which operates in Sacramento), JCRC Bay Area operates at the local and regional level, it is the Bay Area-specific arm of a national network of JCRCs. It functions as the community relationship maintenance layer between Newsom and the Bay Area Jewish donor ecosystem.
 
 ---
 
 ### What They Want
 
-— Strong California-Israel relationship maintenance
-— Elected official access and responsiveness on Israel-related concerns
-— Opposition to anti-Israel speech on campuses and in state-funded institutions
-— Rapid and visible response from elected officials when Jewish community concerns are raised
+, Strong California-Israel relationship maintenance
+, Elected official access and responsiveness on Israel-related concerns
+, Opposition to anti-Israel speech on campuses and in state-funded institutions
+, Rapid and visible response from elected officials when Jewish community concerns are raised
 
 ---
 
@@ -46,7 +46,7 @@ Unlike [[JPAC - Jewish Public Affairs Committee of California|JPAC]] (which oper
 
 JCRC Bay Area operates through relationship management and rapid-response coordination rather than direct campaign contributions. When an elected official says something the Jewish community finds concerning, JCRC Bay Area is often the organization coordinating the response call.
 
-The clearest documented example in Newsom's record: after his March 2026 "apartheid state" comment on a progressive podcast, Newsom's staff convened a Zoom call with Jewish community leaders — coordinated through JCRC Bay Area — to reassure them his position hadn't changed. This happened within days of the comment. — J Weekly, March 2026.
+The clearest documented example in Newsom's record: after his March 2026 "apartheid state" comment on a progressive podcast, Newsom's staff convened a Zoom call with Jewish community leaders, coordinated through JCRC Bay Area, to reassure them his position hadn't changed. This happened within days of the comment. J Weekly, March 2026.
 
 This is what real political access looks like: not just the donation but the direct line to the governor's staff when something goes wrong.
 
@@ -54,9 +54,9 @@ This is what real political access looks like: not just the donation but the dir
 
 ### What They've Gotten (Newsom)
 
-— Rapid damage control response after the March 2026 "apartheid" comment — staff Zoom within days.
-— 2019 ethnic studies curriculum reversal — JCRC Bay Area was among the organizations that pushed back. [See: [[Early History and Background Ties 2003-2019]]]
-— Ongoing access: the fact that Newsom's staff knows to call JCRC Bay Area when Jewish community damage control is needed is itself a measure of the relationship.
+, Rapid damage control response after the March 2026 "apartheid" comment, staff Zoom within days.
+, 2019 ethnic studies curriculum reversal. JCRC Bay Area was among the organizations that pushed back. [See: [[Early History and Background Ties 2003-2019]]]
+, Ongoing access: the fact that Newsom's staff knows to call JCRC Bay Area when Jewish community damage control is needed is itself a measure of the relationship.
 
 ---
 
@@ -68,15 +68,15 @@ JCRC Bay Area connects upward to the Jewish Community Federation of San Francisc
 
 ### Research Gaps
 
-— JCRC Bay Area formal lobbying activity (if any) at state level
-— Board membership and any direct donor connections to Newsom's campaign committee
-— Full documentation of JCRC's role in 2019 ethnic studies reversal
+, JCRC Bay Area formal lobbying activity (if any) at state level
+, Board membership and any direct donor connections to Newsom's campaign committee
+, Full documentation of JCRC's role in 2019 ethnic studies reversal
 
 ---
 
 ### Connected Policy Areas
 
-Israel — community relationship management, post-October 7 response, ethnic studies, donor access
+Israel, community relationship management, post-October 7 response, ethnic studies, donor access
 
 ---
 

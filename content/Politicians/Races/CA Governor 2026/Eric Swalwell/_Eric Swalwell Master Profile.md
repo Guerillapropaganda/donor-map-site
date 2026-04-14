@@ -1,8 +1,8 @@
 ---
-title: "Eric Swalwell Master Profile"
+title: "Eric Swalwell"
 type: politician
 content-readiness: draft
-central-thesis: "Eric Swalwell is the media profile candidate — his visibility derives from cable news appearances (MSNBC, CNN, Fox News) and his prominent role in Trump impeachment proceedings, not from legislative accomplishment. His political brand is 'anti-Tru..."
+central-thesis: "Eric Swalwell is the media profile candidate , his visibility derives from cable news appearances (MSNBC, CNN, Fox News) and his prominent role in Trump impeachment proceedings, not from legislative accomplishment. His political brand is 'anti-Tru..."
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -35,7 +35,7 @@ donors: [[SEIU - Service Employees International Union]] · [[California Nurses 
 
 ## Who He Is
 
-Eric Swalwell. U.S. Representative (CA-15, East Bay, 2013–present). 2019 presidential candidate (briefly, withdrew before Iowa caucuses). 2026 California governor candidate. Leading in March 2026 polling (17%, Emerson College). Won 24% of delegates at February 2026 Democratic Convention — highest of any candidate. Net worth: $200,000–$1.2 million (2023 disclosure).
+Eric Swalwell. U.S. Representative (CA-15, East Bay, 2013–present). 2019 presidential candidate (briefly, withdrew before Iowa caucuses). 2026 California governor candidate. Leading in March 2026 polling (17%, Emerson College). Won 24% of delegates at February 2026 Democratic Convention, highest of any candidate. Net worth: $200,000–$1.2 million (2023 disclosure).
 
 ---
 
@@ -87,9 +87,9 @@ Swalwell's labor endorsement (SEIU, CNA) represents public sector and healthcare
 
 ## Analytical Patterns
 
-**The Genuine Win + Structural Limit** — Swalwell's impeachment work was genuine congressional activity, and his impeachment votes were real legislative positions. But impeachment stopped short of structural consequence: Trump was acquitted, survived presidency, ran again in 2024. The impeachment investigation provided cable news visibility but did not result in conviction or structural constraint on presidential power. Swalwell's anti-Trump messaging was real but limited to investigation rhetoric, not legislative structural reform.
+**The Genuine Win + Structural Limit**. Swalwell's impeachment work was genuine congressional activity, and his impeachment votes were real legislative positions. But impeachment stopped short of structural consequence: Trump was acquitted, survived presidency, ran again in 2024. The impeachment investigation provided cable news visibility but did not result in conviction or structural constraint on presidential power. Swalwell's anti-Trump messaging was real but limited to investigation rhetoric, not legislative structural reform.
 
-**The Media Profile Substitute** — Swalwell's political power derives from cable news appearances rather than legislative accomplishment. His voting record shows 100% Biden alignment (no independent votes), meaning his power exists entirely through media visibility and institutional Democratic support. The pattern: when power is media-based rather than legislative-based, the candidate is vulnerable to media cycle changes. If Trump ceases to dominate news cycle, Swalwell's primary political brand evaporates.
+**The Media Profile Substitute**. Swalwell's political power derives from cable news appearances rather than legislative accomplishment. His voting record shows 100% Biden alignment (no independent votes), meaning his power exists entirely through media visibility and institutional Democratic support. The pattern: when power is media-based rather than legislative-based, the candidate is vulnerable to media cycle changes. If Trump ceases to dominate news cycle, Swalwell's primary political brand evaporates.
 
 ---
 
@@ -105,15 +105,15 @@ Swalwell's labor endorsement (SEIU, CNA) represents public sector and healthcare
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2024-11 | Democratic institutional donors + early money | $3.1M raised | 2024-2025 cycle | Formally enters 2026 race; SEIU endorses — 750K union members represent massive ground game advantage |
-| 2026-02 | Democratic Convention delegates | Institutional backing (24% delegate share) | 2025-2026 | Highest delegate count of any candidate at convention — indicates party insider support not reflected in fundraising totals |
-| 2026-03 | Hollywood donor list (celebrity endorsements) | $50K total from celebrities | 2025-2026 | Symbolic value — endorsement photos and media coverage worth more than actual dollars |
+| 2024-11 | Democratic institutional donors + early money | $3.1M raised | 2024-2025 cycle | Formally enters 2026 race; SEIU endorses, 750K union members represent massive ground game advantage |
+| 2026-02 | Democratic Convention delegates | Institutional backing (24% delegate share) | 2025-2026 | Highest delegate count of any candidate at convention, indicates party insider support not reflected in fundraising totals |
+| 2026-03 | Hollywood donor list (celebrity endorsements) | $50K total from celebrities | 2025-2026 | Symbolic value, endorsement photos and media coverage worth more than actual dollars |
 
-#### Labor (SEIU — Public Sector Alignment)
+#### Labor (SEIU. Public Sector Alignment)
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2024-2025 | [[SEIU - Service Employees International Union|SEIU]] (750K California members) | Endorsement + ground game infrastructure | 2024-2025 | SEIU endorsement is the single most valuable labor asset in CA governor's race — phone banking, door knocking, voter mobilization at scale |
+| 2024-2025 | [[SEIU - Service Employees International Union|SEIU]] (750K California members) | Endorsement + ground game infrastructure | 2024-2025 | SEIU endorsement is the single most valuable labor asset in CA governor's race, phone banking, door knocking, voter mobilization at scale |
 
 > [!money]
 > Swalwell's fundraising is modest relative to Steyer ($66.7M) and Mahan ($24M), but his convention delegate lead (24%) indicates institutional Democratic support not reflected in media coverage. His SEIU endorsement is worth more than his direct fundraising: 750,000 union members represent a massive ground game advantage. Swalwell's advantage is institutional + labor (SEIU) + media profile, not financial. The question is whether this combination can overcome Steyer's spending advantage and Mahan's tech money in a statewide race.
@@ -134,7 +134,7 @@ Swalwell's labor endorsement (SEIU, CNA) represents public sector and healthcare
 
 **Vulnerability:** In a crowded primary (8 Democrats, 2+ Republicans), 17% is a plurality, not a majority. If Democratic consolidation occurs around one candidate, Swalwell could finish fourth. If the race remains fractured, his SEIU ground game and convention momentum could push him to top-two.
 
-**The Cable News Effect:** Swalwell's polling lead appears driven by media visibility more than legislative record. His advantage is fragile — if his media profile becomes a liability (cable news overexposure, Trump impeachment becomes less salient), polling could collapse.
+**The Cable News Effect:** Swalwell's polling lead appears driven by media visibility more than legislative record. His advantage is fragile, if his media profile becomes a liability (cable news overexposure, Trump impeachment becomes less salient), polling could collapse.
 
 ---
 
@@ -150,11 +150,11 @@ Swalwell's labor endorsement (SEIU, CNA) represents public sector and healthcare
 ## Sources
 
 - [FEC Candidate: Eric Swalwell campaign finance](https://www.fec.gov/data/candidate/H2CA15094/) (Tier 1) (VERIFIED)
-- ~~[FollowTheMoney.org: Eric Swalwell 2026 Campaign Finance](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=Eric%20Swalwell#[%7B1%7Cgro=d-id)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
+- ~~[FollowTheMoney.org: Eric Swalwell 2026 Campaign Finance](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=Eric%20Swalwell#[%7B1%7Cgro=d-id)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 1)
 - [Emerson College Polling: California 2026 Poll - Swalwell Takes Lead in Governor Primary](https://emersoncollegepolling.com/california-2026-poll-swalwell-takes-lead-in-governor-primary-25-undecided-election-for-la-mayor-wide-open/) (Tier 2) (VERIFIED)
 - [CalMatters: Republican Steve Hilton leads California governor fundraising](https://calmatters.org/politics/2026/02/governors-race-fundraising-reports/) (Tier 2) (VERIFIED)
 - [CapRadio: California's powerful labor forces are divided on who should be the state's next governor](https://www.capradio.org/articles/2026/03/18/californias-powerful-labor-forces-are-divided-on-who-should-be-the-states-next-governor/) (Tier 2) (VERIFIED)
-- ~~[The Hill: Eric Swalwell gains momentum in California governor race](https://thehill.com/homenews/campaign/5787942-swalwell-surge-california-gubernatorial-race/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Eric Swalwell gains momentum in California governor race](https://thehill.com/homenews/campaign/5787942-swalwell-surge-california-gubernatorial-race/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [PBS News: Swalwell sees attacks from left and right as California's race for governor heats up](https://www.pbs.org/newshour/politics/swalwell-sees-attacks-from-left-and-right-as-californias-race-for-governor-heats-up) (Tier 2) (VERIFIED)
 - [ProPublica: Rep. Eric Swalwell Voting Record](https://projects.propublica.org/represent/members/S001193-eric-swalwell/) (Tier 1) (NEEDS REVIEW)
 - [GovTrack: Rep. Eric Swalwell Congressional Record](https://www.govtrack.us/congress/members/eric_swalwell/412514) (Tier 1) (VERIFIED)

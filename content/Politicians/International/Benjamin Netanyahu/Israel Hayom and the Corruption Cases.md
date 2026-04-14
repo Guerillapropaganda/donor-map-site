@@ -15,19 +15,19 @@ donors: [[Miriam Adelson]]
 
 ---
 
-### Israel Hayom — The Propaganda Machine
+### Israel Hayom. The Propaganda Machine
 
-27.4% weekday readership. That is market dominance. Distributed free — Sheldon Adelson invested $50M+ to launch it in 2007, specifically to counter-balance Haaretz's critical coverage and support Netanyahu politically. [[Miriam Adelson|Miriam Adelson]] inherited the empire.
+27.4% weekday readership. That is market dominance. Distributed free. Sheldon Adelson invested $50M+ to launch it in 2007, specifically to counter-balance Haaretz's critical coverage and support Netanyahu politically. [[Miriam Adelson|Miriam Adelson]] inherited the empire.
 
 **The mechanism:** Free distribution undercuts competitors economically. Yedioth Ahronoth and Haaretz have to charge for readers. Israel Hayom costs nothing. The market logic collapses. Israel Hayom wins through capital investment, not competitive merit.
 
-**The 2014 "Israel Hayom Law":** Legislation designed to ban free newspapers, explicitly targeting Israel Hayom. Passed first reading 43-23 but never became law. Netanyahu opposed it — because he needed Israel Hayom's propaganda support more than he needed a legally "fair" media market. Class analysis: democracy persists, but oligarchic media ownership makes certain political outcomes inevitable.
+**The 2014 "Israel Hayom Law":** Legislation designed to ban free newspapers, explicitly targeting Israel Hayom. Passed first reading 43-23 but never became law. Netanyahu opposed it, because he needed Israel Hayom's propaganda support more than he needed a legally "fair" media market. Class analysis: democracy persists, but oligarchic media ownership makes certain political outcomes inevitable.
 
-**Bild partnership (June 2024):** Israel Hayom announced partnership with Germany's largest newspaper — signaling expansion beyond Israel. Adelson's media empire consolidating international reach.
+**Bild partnership (June 2024):** Israel Hayom announced partnership with Germany's largest newspaper, signaling expansion beyond Israel. Adelson's media empire consolidating international reach.
 
 ---
 
-### Case 1000 — The Gift Transaction
+### Case 1000. The Gift Transaction
 
 **The charges:** Bribery, misconduct, breach of trust. Netanyahu allegedly received valuable gifts from Hollywood producer Arnon Milchan and Australian billionaire James Packer. The quid pro quo: Netanyahu advanced Milchan's U.S. visa interests and favorable tax exemption legislation in return.
 
@@ -37,21 +37,21 @@ donors: [[Miriam Adelson]]
 
 ---
 
-### Case 2000 — The Media Quid Pro Quo
+### Case 2000. The Media Quid Pro Quo
 
 **The most damaging case.** Netanyahu allegedly negotiated with Yedioth Ahronoth owner Aron Mozes for favorable coverage in exchange for legislation to slow Israel Hayom's growth. This case reveals the media-power transaction most directly.
 
-**The specifics:** Netanyahu offered to support legislation that would impose restrictions on free newspaper distribution — specifically designed to hurt Israel Hayom. Why would Netanyahu do this? Because he was negotiating with Mozes for Yedioth's editorial support. If Mozes complied, Netanyahu would slow Israel Hayom. If Mozes refused, Netanyahu would leave Israel Hayom's market dominance intact.
+**The specifics:** Netanyahu offered to support legislation that would impose restrictions on free newspaper distribution, specifically designed to hurt Israel Hayom. Why would Netanyahu do this? Because he was negotiating with Mozes for Yedioth's editorial support. If Mozes complied, Netanyahu would slow Israel Hayom. If Mozes refused, Netanyahu would leave Israel Hayom's market dominance intact.
 
 This is a pure protection racket. Media owner faces competition from Adelson's Israel Hayom. Netanyahu offers to eliminate the competitor in exchange for favorable coverage. Mozes declined. Netanyahu followed through (allegedly) by not implementing restrictions.
 
-**The class structure it reveals:** Israeli politics is conducted through media owner negotiations, not democratic deliberation. Netanyahu doesn't campaign for office through public debate. He negotiates with oligarch media owners for coverage, offering regulatory benefits in return. The mechanism is transaction. The outcome is predetermined — whichever media owner Netanyahu makes a deal with will provide the coverage. Israeli voters then choose among candidates who are already pre-selected by the media oligarchy.
+**The class structure it reveals:** Israeli politics is conducted through media owner negotiations, not democratic deliberation. Netanyahu doesn't campaign for office through public debate. He negotiates with oligarch media owners for coverage, offering regulatory benefits in return. The mechanism is transaction. The outcome is predetermined, whichever media owner Netanyahu makes a deal with will provide the coverage. Israeli voters then choose among candidates who are already pre-selected by the media oligarchy.
 
 **Status (as of March 2026):** Prosecution rested July 2024. Netanyahu's testimony ongoing.
 
 ---
 
-### Case 4000 — The Bezeq Bribery (Most Serious)
+### Case 4000. The Bezeq Bribery (Most Serious)
 
 > [!money]
 > **The charge:** Netanyahu advanced regulatory benefits worth $250 million or more to Bezeq telecom shareholder Shaul Elovitch in exchange for positive coverage from Elovitch's news site (Walla!). Carries up to 10 years imprisonment.
@@ -72,7 +72,7 @@ This is a pure protection racket. Media owner faces competition from Adelson's I
 
 **Netanyahu's testimony:** Began December 2024. Cross-examination ongoing as of March 2026. He has denied all charges.
 
-**The pardon request:** December 2024. Netanyahu submitted a pardon request to President Isaac Herzog while the trial was still ongoing. Herzog rejected it as "extremely problematic" — citing that Netanyahu had made no admission of guilt and sought to avoid trial verdict.
+**The pardon request:** December 2024. Netanyahu submitted a pardon request to President Isaac Herzog while the trial was still ongoing. Herzog rejected it as "extremely problematic", citing that Netanyahu had made no admission of guilt and sought to avoid trial verdict.
 
 **The significance:** This is extraordinary. Netanyahu did not resign. He did not face the verdict. He requested presidential immunity while maintaining his position as Prime Minister. The request reveals the core truth: Netanyahu believes that the presidential pardon power should protect him from democratic accountability. Herzog's refusal (and Herzog is a Netanyahu ally) indicates even the Israeli political establishment recognized the danger of allowing a Prime Minister to pardon himself out of unlawful trials.
 
@@ -80,7 +80,7 @@ This is a pure protection racket. Media owner faces competition from Adelson's I
 
 ### Sources
 
-- [Wikipedia — Trial of [[_Benjamin Netanyahu Master Profile|Benjamin Netanyahu]]](https://en.wikipedia.org/wiki/Trial_of_Benjamin_Netanyahu) (Tier 3)
-- ~~[Times of Israel — Netanyahu trial updates](https://www.timesofisrael.com/tag/netanyahu-trial/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[Haaretz — Netanyahu corruption cases analysis](https://www.haaretz.com/misc/tags/TAG_netanyahu_corruption)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Wikipedia. Trial of [[_Benjamin Netanyahu Master Profile|Benjamin Netanyahu]]](https://en.wikipedia.org/wiki/Trial_of_Benjamin_Netanyahu) (Tier 3)
+- ~~[Times of Israel. Netanyahu trial updates](https://www.timesofisrael.com/tag/netanyahu-trial/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Haaretz. Netanyahu corruption cases analysis](https://www.haaretz.com/misc/tags/TAG_netanyahu_corruption)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 

@@ -7,9 +7,9 @@ source-tier: 1
 parent: null
 category: right
 platform: multi-platform
-related: "[[The Shared Sponsor Map — Corporate Advertisers Funding Both Left and Right Political Media]] · [[Rebekah Mercer]] · [[Peter Thiel]] · [[Koch Network - Charles Koch]] · [[Tim Pool]] · [[Steven Crowder]] · [[Rumble]] · [[Tenet Media]] · [[Matt Walsh]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Laura Ingraham]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Dave Rubin]] · [[Dan Bongino]] · [[The Daily Wire]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Candace Owens]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Jimmy Dore]] · [[Ben Shapiro]] · [[Andrew Klavan]] · [[TYT Network - The Young Turks]] · [[Sam Seder]] · [[Rachel Maddow]] · [[Pod Save America]] · [[Kyle Kulinski]] · [[John Oliver]] · [[Hasan Piker]] · [[David Pakman]]"
+related: "[[The Shared Sponsor Map , Corporate Advertisers Funding Both Left and Right Political Media]] · [[Rebekah Mercer]] · [[Peter Thiel]] · [[Koch Network - Charles Koch]] · [[Tim Pool]] · [[Steven Crowder]] · [[Rumble]] · [[Tenet Media]] · [[Matt Walsh]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Laura Ingraham]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Dave Rubin]] · [[Dan Bongino]] · [[The Daily Wire]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Candace Owens]] · [[The Platform Dependency Spectrum , Revenue Vulnerability Across Political Media]] · [[Jimmy Dore]] · [[Ben Shapiro]] · [[Andrew Klavan]] · [[TYT Network - The Young Turks]] · [[Sam Seder]] · [[Rachel Maddow]] · [[Pod Save America]] · [[Kyle Kulinski]] · [[John Oliver]] · [[Hasan Piker]] · [[David Pakman]]"
 stories: >-
-  [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political
+  [[The Platform Dependency Spectrum , Revenue Vulnerability Across Political
   Media]]
 ---
 
@@ -186,7 +186,7 @@ The Putin interview represents the endpoint of this logic: Carlson's "anti-estab
 - [Variety: Tucker Carlson's Fox News Exit Tied to Dominion Lawsuit](https://variety.com/2023/tv/news/tucker-carlson-fox-news-exit-dominion-lawsuit-twitter-show-1235613404/) (Tier 2) (VERIFIED)
 - [Fortune: Tucker Carlson's new media company gets seed funding, 1789 Capital $15M](https://fortune.com/2023/10/17/tucker-carlson-media-company-funding-1789-15-million-seed-capital/) (Tier 2) (VERIFIED)
 - [TheWrap: Tucker Carlson Courts GOP Megadonors Rebekah Mercer, Peter Thiel](https://www.thewrap.com/tucker-carlson-gop-donors-mercer-thiel-media-company/) (Tier 2) (VERIFIED)
-- ~~[Axios: Tucker Carlson buys out investors in his media company (June 2025)](https://www.axios.com/2025/06/13/tucker-carlson-investors)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Axios: Tucker Carlson buys out investors in his media company (June 2025)](https://www.axios.com/2025/06/13/tucker-carlson-investors)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Axios: Tucker Carlson lands first major ad deal, investment interest for new media company](https://www.axios.com/2023/07/17/tucker-carlson-ad-deal-new-media-company) (Tier 2) (VERIFIED)
 - [Washington Post: Tucker Carlson said he hates Trump 'passionately'. Dominion lawsuit texts](https://www.washingtonpost.com/media/2023/03/07/fox-news-dominion-tucker-carlson-texts/) (Tier 1) (VERIFIED)
 - [NPR: How Tucker Carlson mainstreamed fringe conspiracy theories](https://www.npr.org/2023/04/25/1171800317/how-tucker-carlsons-extremist-narratives-shaped-fox-news-and-conservative-politi) (Tier 2) (VERIFIED)

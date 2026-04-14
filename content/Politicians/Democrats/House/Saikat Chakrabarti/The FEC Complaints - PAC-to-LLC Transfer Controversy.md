@@ -76,11 +76,11 @@ Coverage varied significantly by outlet:
 - Washington Post (March 5, 2019): Reported facts with reference to complaint
 
 ### Unverified claims:
-- NY Post (August 3, 2019): Reported "Feds probing" based on anonymous sources only — **no indictment was ever filed** against [[_Saikat Chakrabarti Master Profile|Chakrabarti]]
+- NY Post (August 3, 2019): Reported "Feds probing" based on anonymous sources only, **no indictment was ever filed** against [[_Saikat Chakrabarti Master Profile|Chakrabarti]]
 
 ### Related Disclosure Issue
 
-Washington Examiner (April 2022) reported that [[_Alexandria Ocasio-Cortez Master Profile|AOC]]'s campaign and ex-Chief of Staff [[_Saikat Chakrabarti Master Profile|Chakrabarti]] failed to disclose $1M in expenses — a separate but related compliance matter.
+Washington Examiner (April 2022) reported that [[_Alexandria Ocasio-Cortez Master Profile|AOC]]'s campaign and ex-Chief of Staff [[_Saikat Chakrabarti Master Profile|Chakrabarti]] failed to disclose $1M in expenses, a separate but related compliance matter.
 
 ---
 
@@ -98,4 +98,4 @@ Washington Examiner (April 2022) reported that [[_Alexandria Ocasio-Cortez Maste
 - CNN, Commentary on disclosure requirements (March 6, 2019) (Tier 3)
 - Heritage Foundation, Hans Von Spakovsky, "Ocasio-Cortez and top aide should be investigated for possible campaign violations" (March 12, 2019) (Tier 4): https://www.heritage.org/election-integrity/commentary/ocasio-cortez-and-top-aide-should-be-investigated-possible-campaign
 - Capital Research Center, "Ocasio-Cortez, Justice Democrats, and the Art of the Scam PAC" (March 25, 2019) (Tier 4): https://capitalresearch.org/article/ocasio-cortez-justice-democrats-and-the-art-of-the-scam-pac/
-- NY Post, "Feds probing" (August 3, 2019) (Tier 2) — **UNVERIFIED**: Anonymous sources only; no indictment ever filed
+- NY Post, "Feds probing" (August 3, 2019) (Tier 2), **UNVERIFIED**: Anonymous sources only; no indictment ever filed

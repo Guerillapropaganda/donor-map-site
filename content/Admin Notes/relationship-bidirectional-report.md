@@ -20,204 +20,204 @@ An orphan is a connection where A lists B in its `related:` frontmatter but B do
 
 ## Orphans
 
-- **ADM - Archer Daniels Midland** (corporation) → **The Veterans Affairs and Iowa Agriculture** (sub-note) — `Donors & Power Networks/Agriculture/ADM - Archer Daniels Midland.md`
-- **ADM - Archer Daniels Midland** (corporation) → **American Farm Bureau Federation** (donor) — `Donors & Power Networks/Agriculture/ADM - Archer Daniels Midland.md`
-- **Agribusiness Donor Bloc** (donor) → **Tyson Foods** (corporation) — `Donors & Power Networks/Agriculture/Agribusiness Donor Bloc.md`
-- **Agribusiness Donor Bloc** (donor) → **American Farm Bureau Federation** (donor) — `Donors & Power Networks/Agriculture/Agribusiness Donor Bloc.md`
-- **Agricultural Labor Vulnerability Donors** (donor) → **H-2A Guest Worker Pipeline and Farmworker Vulnerability** (sub-note) — `Donors & Power Networks/Agriculture/Agricultural Labor Vulnerability Donors.md`
-- **Agricultural Labor Vulnerability Donors** (donor) → **Sanctuary State - SB 54 and What It Actually Does** (sub-note) — `Donors & Power Networks/Agriculture/Agricultural Labor Vulnerability Donors.md`
-- **Agricultural Labor Vulnerability Donors** (donor) → **Gavin Newsom Master Profile** (politician) — `Donors & Power Networks/Agriculture/Agricultural Labor Vulnerability Donors.md`
-- **Agricultural Labor Vulnerability Donors** (donor) → **Donald Trump Master Profile** (politician) — `Donors & Power Networks/Agriculture/Agricultural Labor Vulnerability Donors.md`
-- **Agricultural Labor Vulnerability Donors** (donor) → **JCRC Bay Area** (donor) — `Donors & Power Networks/Agriculture/Agricultural Labor Vulnerability Donors.md`
-- **Agricultural Labor Vulnerability Donors** (donor) → **JPAC - Jewish Public Affairs Committee of California** (donor) — `Donors & Power Networks/Agriculture/Agricultural Labor Vulnerability Donors.md`
-- **Agricultural Labor Vulnerability Donors** (donor) → **J Street** (donor) — `Donors & Power Networks/Agriculture/Agricultural Labor Vulnerability Donors.md`
-- **Agricultural Labor Vulnerability Donors** (donor) → **Christians United for Israel** (donor) — `Donors & Power Networks/Agriculture/Agricultural Labor Vulnerability Donors.md`
-- **Agricultural Labor Vulnerability Donors** (donor) → **American Friends of the Likud** (donor) — `Donors & Power Networks/Agriculture/Agricultural Labor Vulnerability Donors.md`
-- **American Farm Bureau Federation** (donor) → **Trade and Tariffs - Donors and Backers** (sub-note) — `Donors & Power Networks/Agriculture/American Farm Bureau Federation.md`
-- **American Farm Bureau Federation** (donor) → **Agriculture - Donors and Backers** (sub-note) — `Donors & Power Networks/Agriculture/American Farm Bureau Federation.md`
-- **American Farm Bureau Federation** (donor) → **Farm Subsidies, SNAP Cuts, and the Tariff Bailout - Who Actually Got Paid** (sub-note) — `Donors & Power Networks/Agriculture/American Farm Bureau Federation.md`
-- **American Farm Bureau Federation** (donor) → **Koch Network - Charles Koch** (donor) — `Donors & Power Networks/Agriculture/American Farm Bureau Federation.md`
-- **American Farm Bureau Federation** (donor) → **Donald Trump Master Profile** (politician) — `Donors & Power Networks/Agriculture/American Farm Bureau Federation.md`
-- **American Farm Bureau Federation** (donor) → **American Federation for Children** (donor) — `Donors & Power Networks/Agriculture/American Farm Bureau Federation.md`
-- **American Farm Bureau Federation** (donor) → **National Education Association** (donor) — `Donors & Power Networks/Agriculture/American Farm Bureau Federation.md`
-- **American Farm Bureau Federation** (donor) → **Walton Family Foundation** (donor) — `Donors & Power Networks/Agriculture/American Farm Bureau Federation.md`
-- **American Farm Bureau Federation** (donor) → **Defense Contractors Bloc** (donor) — `Donors & Power Networks/Agriculture/American Farm Bureau Federation.md`
-- **American Farm Bureau Federation** (donor) → **Insurance Industry** (donor) — `Donors & Power Networks/Agriculture/American Farm Bureau Federation.md`
-- **CA Farm Bureau Federation** (donor) → **Immigration - Donors and Backers** (sub-note) — `Donors & Power Networks/Agriculture/CA Farm Bureau Federation.md`
-- **CA Farm Bureau Federation** (donor) → **Western Growers Association** (donor) — `Donors & Power Networks/Agriculture/CA Farm Bureau Federation.md`
-- **CA Farm Bureau Federation** (donor) → **California Farm Bureau Federation** (donor) — `Donors & Power Networks/Agriculture/CA Farm Bureau Federation.md`
-- **CA Farm Bureau Federation** (donor) → **Agricultural Labor Vulnerability Donors** (donor) — `Donors & Power Networks/Agriculture/CA Farm Bureau Federation.md`
-- **California Farm Bureau Federation** (donor) → **Gavin Newsom Master Profile** (politician) — `Donors & Power Networks/Agriculture/California Farm Bureau Federation.md`
-- **California Farm Bureau Federation** (donor) → **Farmworker Union Rights - AB 2183 Veto and Reversal** (sub-note) — `Donors & Power Networks/Agriculture/California Farm Bureau Federation.md`
-- **California Farm Bureau Federation** (donor) → **H-2A Guest Worker Pipeline and Farmworker Vulnerability** (sub-note) — `Donors & Power Networks/Agriculture/California Farm Bureau Federation.md`
-- **California Farm Bureau Federation** (donor) → **Immigration - Donors and Backers** (sub-note) — `Donors & Power Networks/Agriculture/California Farm Bureau Federation.md`
-- **California Farm Bureau Federation** (donor) → **Labor - Donors and Backers** (sub-note) — `Donors & Power Networks/Agriculture/California Farm Bureau Federation.md`
-- **California Farm Bureau Federation** (donor) → **Haim Saban** (donor) — `Donors & Power Networks/Agriculture/California Farm Bureau Federation.md`
-- **California Farm Bureau Federation** (donor) → **JPAC - Jewish Public Affairs Committee of California** (donor) — `Donors & Power Networks/Agriculture/California Farm Bureau Federation.md`
-- **California Farm Bureau Federation** (donor) → **JCRC Bay Area** (donor) — `Donors & Power Networks/Agriculture/California Farm Bureau Federation.md`
-- **California Farm Bureau Federation** (donor) → **J Street** (donor) — `Donors & Power Networks/Agriculture/California Farm Bureau Federation.md`
-- **California Farm Bureau Federation** (donor) → **Christians United for Israel** (donor) — `Donors & Power Networks/Agriculture/California Farm Bureau Federation.md`
-- **Cargill** (corporation) → **The Veterans Affairs and Iowa Agriculture** (sub-note) — `Donors & Power Networks/Agriculture/Cargill.md`
-- **Cargill** (corporation) → **Agriculture - Donors and Backers** (sub-note) — `Donors & Power Networks/Agriculture/Cargill.md`
-- **Cargill** (corporation) → **American Farm Bureau Federation** (donor) — `Donors & Power Networks/Agriculture/Cargill.md`
-- **Cargill** (corporation) → **National Cattlemen's Beef Association** (donor) — `Donors & Power Networks/Agriculture/Cargill.md`
-- **Fanjul Family - Florida Crystals** (donor) → **The Immigration Flip - From Gang of Eight to Border Hawk** (sub-note) — `Donors & Power Networks/Agriculture/Fanjul Family - Florida Crystals.md`
-- **Fanjul Family - Florida Crystals** (donor) → **The Defense Contractor Pipeline and the Hawkish Foreign Policy** (sub-note) — `Donors & Power Networks/Agriculture/Fanjul Family - Florida Crystals.md`
-- **Fanjul Family - Florida Crystals** (donor) → **Marco Rubio Master Profile** (politician) — `Donors & Power Networks/Agriculture/Fanjul Family - Florida Crystals.md`
-- **Fanjul Family - Florida Crystals** (donor) → **Donald Trump Master Profile** (politician) — `Donors & Power Networks/Agriculture/Fanjul Family - Florida Crystals.md`
-- **Fanjul Family - Florida Crystals** (donor) → **American Farm Bureau Federation** (donor) — `Donors & Power Networks/Agriculture/Fanjul Family - Florida Crystals.md`
-- **Fanjul Family - Florida Crystals** (donor) → **Lockheed Martin** (corporation) — `Donors & Power Networks/Agriculture/Fanjul Family - Florida Crystals.md`
-- **Fanjul Family - Florida Crystals** (donor) → **General Dynamics** (corporation) — `Donors & Power Networks/Agriculture/Fanjul Family - Florida Crystals.md`
-- **Fanjul Family - Florida Crystals** (donor) → **DeVos Family** (donor) — `Donors & Power Networks/Agriculture/Fanjul Family - Florida Crystals.md`
-- **Fanjul Family - Florida Crystals** (donor) → **Defense Contractors Bloc** (donor) — `Donors & Power Networks/Agriculture/Fanjul Family - Florida Crystals.md`
-- **Fanjul Family - Florida Crystals** (donor) → **American Iron and Steel Institute** (donor) — `Donors & Power Networks/Agriculture/Fanjul Family - Florida Crystals.md`
-- **Fanjul Family - Florida Crystals** (donor) → **Insurance Industry** (donor) — `Donors & Power Networks/Agriculture/Fanjul Family - Florida Crystals.md`
-- **John Deere** (corporation) → **The Oversight Legacy and Agricultural Protection** (sub-note) — `Donors & Power Networks/Agriculture/John Deere.md`
-- **John Deere** (corporation) → **American Farm Bureau Federation** (donor) — `Donors & Power Networks/Agriculture/John Deere.md`
-- **Monsanto - Bayer** (corporation) → **American Farm Bureau Federation** (donor) — `Donors & Power Networks/Agriculture/Monsanto - Bayer.md`
-- **Monsanto - Bayer** (corporation) → **Koch Industries** (corporation) — `Donors & Power Networks/Agriculture/Monsanto - Bayer.md`
-- **National Cattlemen's Beef Association** (donor) → **Agriculture - Donors and Backers** (sub-note) — `Donors & Power Networks/Agriculture/National Cattlemen's Beef Association.md`
-- **National Cattlemen's Beef Association** (donor) → **The Oversight Chair and the Investigation Theater** (sub-note) — `Donors & Power Networks/Agriculture/National Cattlemen's Beef Association.md`
-- **National Cattlemen's Beef Association** (donor) → **Farm Subsidies, SNAP Cuts, and the Tariff Bailout - Who Actually Got Paid** (sub-note) — `Donors & Power Networks/Agriculture/National Cattlemen's Beef Association.md`
-- **National Cattlemen's Beef Association** (donor) → **Donald Trump Master Profile** (politician) — `Donors & Power Networks/Agriculture/National Cattlemen's Beef Association.md`
-- **National Cattlemen's Beef Association** (donor) → **DeVos Family** (donor) — `Donors & Power Networks/Agriculture/National Cattlemen's Beef Association.md`
-- **National Cattlemen's Beef Association** (donor) → **American Iron and Steel Institute** (donor) — `Donors & Power Networks/Agriculture/National Cattlemen's Beef Association.md`
-- **National Cattlemen's Beef Association** (donor) → **Defense Contractors Bloc** (donor) — `Donors & Power Networks/Agriculture/National Cattlemen's Beef Association.md`
-- **Tyson Foods** (corporation) → **Agriculture - Donors and Backers** (sub-note) — `Donors & Power Networks/Agriculture/Tyson Foods.md`
-- **Tyson Foods** (corporation) → **American Farm Bureau Federation** (donor) — `Donors & Power Networks/Agriculture/Tyson Foods.md`
-- **Tyson Foods** (corporation) → **National Cattlemen's Beef Association** (donor) — `Donors & Power Networks/Agriculture/Tyson Foods.md`
-- **Western Growers Association** (donor) → **Gavin Newsom Master Profile** (politician) — `Donors & Power Networks/Agriculture/Western Growers Association.md`
-- **Western Growers Association** (donor) → **Farmworker Union Rights - AB 2183 Veto and Reversal** (sub-note) — `Donors & Power Networks/Agriculture/Western Growers Association.md`
-- **Western Growers Association** (donor) → **H-2A Guest Worker Pipeline and Farmworker Vulnerability** (sub-note) — `Donors & Power Networks/Agriculture/Western Growers Association.md`
-- **Western Growers Association** (donor) → **Immigration - Donors and Backers** (sub-note) — `Donors & Power Networks/Agriculture/Western Growers Association.md`
-- **Western Growers Association** (donor) → **Labor - Donors and Backers** (sub-note) — `Donors & Power Networks/Agriculture/Western Growers Association.md`
-- **Western Growers Association** (donor) → **Haim Saban** (donor) — `Donors & Power Networks/Agriculture/Western Growers Association.md`
-- **Western Growers Association** (donor) → **JPAC - Jewish Public Affairs Committee of California** (donor) — `Donors & Power Networks/Agriculture/Western Growers Association.md`
-- **Western Growers Association** (donor) → **JCRC Bay Area** (donor) — `Donors & Power Networks/Agriculture/Western Growers Association.md`
-- **Western Growers Association** (donor) → **J Street** (donor) — `Donors & Power Networks/Agriculture/Western Growers Association.md`
-- **Western Growers Association** (donor) → **Christians United for Israel** (donor) — `Donors & Power Networks/Agriculture/Western Growers Association.md`
-- **Aramark** (corporation) → **CoreCivic - Private Prisons** (corporation) — `Donors & Power Networks/Carceral State/Aramark.md`
-- **Bail Bond Industry** (donor) → **Gavin Newsom Master Profile** (politician) — `Donors & Power Networks/Carceral State/Bail Bond Industry.md`
-- **CCPOA - California Correctional Peace Officers Association** (corporation) → **Budget Priorities - What California Actually Funds** (sub-note) — `Donors & Power Networks/Carceral State/CCPOA - California Correctional Peace Officers Association.md`
-- **CCPOA - California Correctional Peace Officers Association** (corporation) → **Gun and Public Safety - Donors and Backers** (sub-note) — `Donors & Power Networks/Carceral State/CCPOA - California Correctional Peace Officers Association.md`
-- **CCPOA - California Correctional Peace Officers Association** (corporation) → **CCPOA - The Prison Guard Donor and the Reform Ceiling** (sub-note) — `Donors & Power Networks/Carceral State/CCPOA - California Correctional Peace Officers Association.md`
-- **CCPOA - California Correctional Peace Officers Association** (corporation) → **San Quentin - COVID Disaster and Rehabilitation Theater** (sub-note) — `Donors & Power Networks/Carceral State/CCPOA - California Correctional Peace Officers Association.md`
-- **CCPOA - California Correctional Peace Officers Association** (corporation) → **Policing Reform - George Floyd Era** (sub-note) — `Donors & Power Networks/Carceral State/CCPOA - California Correctional Peace Officers Association.md`
-- **CCPOA - California Correctional Peace Officers Association** (corporation) → **Criminal Justice - Donors and Backers** (sub-note) — `Donors & Power Networks/Carceral State/CCPOA - California Correctional Peace Officers Association.md`
-- **CCPOA - California Correctional Peace Officers Association** (corporation) → **Uber** (corporation) — `Donors & Power Networks/Carceral State/CCPOA - California Correctional Peace Officers Association.md`
-- **CCPOA - California Correctional Peace Officers Association** (corporation) → **UnitedHealth Group - Optum** (corporation) — `Donors & Power Networks/Carceral State/CCPOA - California Correctional Peace Officers Association.md`
-- **CCPOA - California Correctional Peace Officers Association** (corporation) → **Kaiser Permanente** (corporation) — `Donors & Power Networks/Carceral State/CCPOA - California Correctional Peace Officers Association.md`
-- **CCPOA - California Correctional Peace Officers Association** (corporation) → **PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts** (corporation) — `Donors & Power Networks/Carceral State/CCPOA - California Correctional Peace Officers Association.md`
-- **CCPOA - California Correctional Peace Officers Association** (corporation) → **Johnson & Johnson** (corporation) — `Donors & Power Networks/Carceral State/CCPOA - California Correctional Peace Officers Association.md`
-- **CoreCivic - Private Prisons** (corporation) → **Immigration Enforcement - The Detention Economy** (sub-note) — `Donors & Power Networks/Carceral State/CoreCivic - Private Prisons.md`
-- **CoreCivic - Private Prisons** (corporation) → **Immigration - Donors and Backers** (sub-note) — `Donors & Power Networks/Carceral State/CoreCivic - Private Prisons.md`
-- **CoreCivic - Private Prisons** (corporation) → **Criminal Justice - Donors and Backers** (sub-note) — `Donors & Power Networks/Carceral State/CoreCivic - Private Prisons.md`
-- **CoreCivic - Private Prisons** (corporation) → **Fraternal Order of Police** (donor) — `Donors & Power Networks/Carceral State/CoreCivic - Private Prisons.md`
-- **CoreCivic - Private Prisons** (corporation) → **CoreCivic** (corporation) — `Donors & Power Networks/Carceral State/CoreCivic - Private Prisons.md`
-- **CoreCivic - Private Prisons** (corporation) → **GEO Group - Private Prison Industrial Complex** (corporation) — `Donors & Power Networks/Carceral State/CoreCivic - Private Prisons.md`
-- **CoreCivic - Private Prisons** (corporation) → **Uber** (corporation) — `Donors & Power Networks/Carceral State/CoreCivic - Private Prisons.md`
-- **CoreCivic** (corporation) → **Criminal Justice and DOJ - Donors and Backers** (sub-note) — `Donors & Power Networks/Carceral State/CoreCivic.md`
-- **CoreCivic** (corporation) → **Brian Kemp** (state-politician) — `Donors & Power Networks/Carceral State/CoreCivic.md`
-- **CoreCivic** (corporation) → **Gavin Newsom Master Profile** (politician) — `Donors & Power Networks/Carceral State/CoreCivic.md`
-- **CoreCivic** (corporation) → **Private Detention - AB 32** (sub-note) — `Donors & Power Networks/Carceral State/CoreCivic.md`
-- **CoreCivic** (corporation) → **Immigration - Donors and Backers** (sub-note) — `Donors & Power Networks/Carceral State/CoreCivic.md`
-- **CoreCivic** (corporation) → **Chad Bianco Master Profile** (politician) — `Donors & Power Networks/Carceral State/CoreCivic.md`
-- **CoreCivic** (corporation) → **Lyft** (corporation) — `Donors & Power Networks/Carceral State/CoreCivic.md`
-- **CoreCivic** (corporation) → **UnitedHealth Group - Optum** (corporation) — `Donors & Power Networks/Carceral State/CoreCivic.md`
-- **CoreCivic** (corporation) → **Kaiser Permanente** (corporation) — `Donors & Power Networks/Carceral State/CoreCivic.md`
-- **CoreCivic** (corporation) → **PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts** (corporation) — `Donors & Power Networks/Carceral State/CoreCivic.md`
-- **CoreCivic** (corporation) → **Johnson & Johnson** (corporation) — `Donors & Power Networks/Carceral State/CoreCivic.md`
-- **GEO Group - Private Prison Industrial Complex** (corporation) → **Gavin Newsom Master Profile** (politician) — `Donors & Power Networks/Carceral State/GEO Group.md`
-- **GEO Group - Private Prison Industrial Complex** (corporation) → **Private Detention - AB 32** (sub-note) — `Donors & Power Networks/Carceral State/GEO Group.md`
-- **GEO Group - Private Prison Industrial Complex** (corporation) → **CoreCivic** (corporation) — `Donors & Power Networks/Carceral State/GEO Group.md`
-- **GEO Group - Private Prison Industrial Complex** (corporation) → **Immigration - Donors and Backers** (sub-note) — `Donors & Power Networks/Carceral State/GEO Group.md`
-- **GEO Group - Private Prison Industrial Complex** (corporation) → **Donald Trump Master Profile** (politician) — `Donors & Power Networks/Carceral State/GEO Group.md`
-- **GEO Group - Private Prison Industrial Complex** (corporation) → **Chad Bianco Master Profile** (politician) — `Donors & Power Networks/Carceral State/GEO Group.md`
-- **GEO Group - Private Prison Industrial Complex** (corporation) → **Save America PAC** (pac) — `Donors & Power Networks/Carceral State/GEO Group.md`
-- **GEO Group - Private Prison Industrial Complex** (corporation) → **Congressional Leadership Fund** (pac) — `Donors & Power Networks/Carceral State/GEO Group.md`
-- **GEO Group - Private Prison Industrial Complex** (corporation) → **Senate Leadership Fund** (pac) — `Donors & Power Networks/Carceral State/GEO Group.md`
-- **GEO Group - Private Prison Industrial Complex** (corporation) → **ALEC - American Legislative Exchange Council** (donor) — `Donors & Power Networks/Carceral State/GEO Group.md`
-- **GEO Group - Private Prison Industrial Complex** (corporation) → **Marco Rubio Master Profile** (politician) — `Donors & Power Networks/Carceral State/GEO Group.md`
-- **GEO Group - Private Prison Industrial Complex** (corporation) → **Pam Bondi Master Profile** (politician) — `Donors & Power Networks/Carceral State/GEO Group.md`
-- **GEO Group - Private Prison Industrial Complex** (corporation) → **Lyft** (corporation) — `Donors & Power Networks/Carceral State/GEO Group.md`
-- **GEO Group - Private Prison Industrial Complex** (corporation) → **UnitedHealth Group - Optum** (corporation) — `Donors & Power Networks/Carceral State/GEO Group.md`
-- **GEO Group - Private Prison Industrial Complex** (corporation) → **Kaiser Permanente** (corporation) — `Donors & Power Networks/Carceral State/GEO Group.md`
-- **GEO Group - Private Prison Industrial Complex** (corporation) → **PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts** (corporation) — `Donors & Power Networks/Carceral State/GEO Group.md`
-- **GEO Group - Private Prison Industrial Complex** (corporation) → **Johnson & Johnson** (corporation) — `Donors & Power Networks/Carceral State/GEO Group.md`
-- **Prison Policy Initiative** (reference) → **CoreCivic** (corporation) — `Donors & Power Networks/Carceral State/Prison Policy Initiative.md`
-- **Prison Policy Initiative** (reference) → **CCPOA - California Correctional Peace Officers Association** (corporation) — `Donors & Power Networks/Carceral State/Prison Policy Initiative.md`
-- **Securus Technologies - Aventiv** (corporation) → **CoreCivic** (corporation) — `Donors & Power Networks/Carceral State/Securus Technologies - Aventiv.md`
-- **Securus Technologies - Aventiv** (corporation) → **CCPOA - California Correctional Peace Officers Association** (corporation) — `Donors & Power Networks/Carceral State/Securus Technologies - Aventiv.md`
-- **ViaPath Technologies - GTL** (corporation) → **CoreCivic** (corporation) — `Donors & Power Networks/Carceral State/ViaPath Technologies - GTL.md`
-- **ViaPath Technologies - GTL** (corporation) → **CCPOA - California Correctional Peace Officers Association** (corporation) — `Donors & Power Networks/Carceral State/ViaPath Technologies - GTL.md`
-- **Bacardi - Bacardi USA** (corporation) → **Marco Rubio Master Profile** (politician) — `Donors & Power Networks/Corporate/Bacardi - Bacardi USA.md`
-- **Bacardi - Bacardi USA** (corporation) → **Fanjul Family - Florida Crystals** (donor) — `Donors & Power Networks/Corporate/Bacardi - Bacardi USA.md`
-- **ActBlue** (donor) → **Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion** (story) — `Donors & Power Networks/Dark Money/ActBlue.md`
-- **ActBlue** (donor) → **Dan Osborn Master Profile** (politician) — `Donors & Power Networks/Dark Money/ActBlue.md`
-- **ActBlue** (donor) → **2024-2026 Campaign Finance and Democratic Infrastructure** (sub-note) — `Donors & Power Networks/Dark Money/ActBlue.md`
-- **ActBlue** (donor) → **The Housing Progressive and Wall Street Tension** (sub-note) — `Donors & Power Networks/Dark Money/ActBlue.md`
-- **ActBlue** (donor) → **The Medicare for All Retreat - Two Audiences and One Calculation** (sub-note) — `Donors & Power Networks/Dark Money/ActBlue.md`
-- **ActBlue** (donor) → **The CFPB and the Limits of Reform Within the System** (sub-note) — `Donors & Power Networks/Dark Money/ActBlue.md`
-- **ActBlue** (donor) → **The 2020 Campaign and the Donor Class Consolidation** (sub-note) — `Donors & Power Networks/Dark Money/ActBlue.md`
-- **ActBlue** (donor) → **The Climate Hawk and Green New Deal Limits** (sub-note) — `Donors & Power Networks/Dark Money/ActBlue.md`
-- **ActBlue** (donor) → **The Labor-HHS Appropriations Chair and Nutrition Policy** (sub-note) — `Donors & Power Networks/Dark Money/ActBlue.md`
-- **ActBlue** (donor) → **The Progressive Caucus and the Squad's Institutional Wing** (sub-note) — `Donors & Power Networks/Dark Money/ActBlue.md`
-- **ActBlue** (donor) → **The Oversight Committee and the Anti-Corruption Brand** (sub-note) — `Donors & Power Networks/Dark Money/ActBlue.md`
-- **ActBlue** (donor) → **The Education Committee and Labor Alignment** (sub-note) — `Donors & Power Networks/Dark Money/ActBlue.md`
-- **ActBlue** (donor) → **Future Forward USA Action** (pac) — `Donors & Power Networks/Dark Money/ActBlue.md`
-- **ActBlue** (donor) → **Senate Majority PAC** (pac) — `Donors & Power Networks/Dark Money/ActBlue.md`
-- **ActBlue** (donor) → **House Majority PAC** (pac) — `Donors & Power Networks/Dark Money/ActBlue.md`
-- **ActBlue** (donor) → **Ohio Federation of Teachers** (donor) — `Donors & Power Networks/Dark Money/ActBlue.md`
-- **ALEC - American Legislative Exchange Council** (donor) → **Koch Network - Charles Koch** (donor) — `Donors & Power Networks/Dark Money/ALEC - American Legislative Exchange Council.md`
-- **ALEC - American Legislative Exchange Council** (donor) → **DonorsTrust** (pac) — `Donors & Power Networks/Dark Money/ALEC - American Legislative Exchange Council.md`
-- **ALEC - American Legislative Exchange Council** (donor) → **Heritage Foundation** (think-tank) — `Donors & Power Networks/Dark Money/ALEC - American Legislative Exchange Council.md`
-- **ALEC - American Legislative Exchange Council** (donor) → **Federalist Society** (think-tank) — `Donors & Power Networks/Dark Money/ALEC - American Legislative Exchange Council.md`
-- **ALEC - American Legislative Exchange Council** (donor) → **ExxonMobil** (corporation) — `Donors & Power Networks/Dark Money/ALEC - American Legislative Exchange Council.md`
-- **ALEC - American Legislative Exchange Council** (donor) → **American Federation for Children** (donor) — `Donors & Power Networks/Dark Money/ALEC - American Legislative Exchange Council.md`
-- **ALEC - American Legislative Exchange Council** (donor) → **Insurance Industry** (donor) — `Donors & Power Networks/Dark Money/ALEC - American Legislative Exchange Council.md`
-- **ALEC - American Legislative Exchange Council** (donor) → **Walton Family Foundation** (donor) — `Donors & Power Networks/Dark Money/ALEC - American Legislative Exchange Council.md`
-- **ALEC - American Legislative Exchange Council** (donor) → **National Education Association** (donor) — `Donors & Power Networks/Dark Money/ALEC - American Legislative Exchange Council.md`
-- **Alliance Defending Freedom** (donor) → **Federalist Society** (think-tank) — `Donors & Power Networks/Dark Money/Alliance Defending Freedom.md`
-- **Alliance Defending Freedom** (donor) → **Heritage Foundation** (think-tank) — `Donors & Power Networks/Dark Money/Alliance Defending Freedom.md`
-- **Alliance Defending Freedom** (donor) → **Council for National Policy** (donor) — `Donors & Power Networks/Dark Money/Alliance Defending Freedom.md`
-- **Alliance Defending Freedom** (donor) → **Bradley Foundation** (donor) — `Donors & Power Networks/Dark Money/Alliance Defending Freedom.md`
-- **Alliance Defending Freedom** (donor) → **American Federation for Children** (donor) — `Donors & Power Networks/Dark Money/Alliance Defending Freedom.md`
-- **Alliance Defending Freedom** (donor) → **National Education Association** (donor) — `Donors & Power Networks/Dark Money/Alliance Defending Freedom.md`
-- **Alliance Defending Freedom** (donor) → **Walton Family Foundation** (donor) — `Donors & Power Networks/Dark Money/Alliance Defending Freedom.md`
-- **Alliance Defending Freedom** (donor) → **US Chamber of Commerce** (donor) — `Donors & Power Networks/Dark Money/Alliance Defending Freedom.md`
-- **Alliance Defending Freedom** (donor) → **Insurance Industry** (donor) — `Donors & Power Networks/Dark Money/Alliance Defending Freedom.md`
-- **America First Policy Institute** (donor) → **Federalist Society** (think-tank) — `Donors & Power Networks/Dark Money/America First Policy Institute.md`
-- **America First Policy Institute** (donor) → **Linda McMahon Master Profile** (politician) — `Donors & Power Networks/Dark Money/America First Policy Institute.md`
-- **America First Policy Institute** (donor) → **Heritage Foundation** (think-tank) — `Donors & Power Networks/Dark Money/America First Policy Institute.md`
-- **America First Policy Institute** (donor) → **Council for National Policy** (donor) — `Donors & Power Networks/Dark Money/America First Policy Institute.md`
-- **America First Policy Institute** (donor) → **Leonard Leo** (donor) — `Donors & Power Networks/Dark Money/America First Policy Institute.md`
-- **America First Policy Institute** (donor) → **DeVos Family** (donor) — `Donors & Power Networks/Dark Money/America First Policy Institute.md`
-- **America First Policy Institute** (donor) → **American Federation for Children** (donor) — `Donors & Power Networks/Dark Money/America First Policy Institute.md`
-- **America First Policy Institute** (donor) → **Walton Family Foundation** (donor) — `Donors & Power Networks/Dark Money/America First Policy Institute.md`
-- **America First Policy Institute** (donor) → **National Education Association** (donor) — `Donors & Power Networks/Dark Money/America First Policy Institute.md`
-- **America First Policy Institute** (donor) → **Insurance Industry** (donor) — `Donors & Power Networks/Dark Money/America First Policy Institute.md`
-- **American Action Network** (donor) → **Heritage Foundation** (think-tank) — `Donors & Power Networks/Dark Money/American Action Network.md`
-- **American Action Network** (donor) → **US Chamber of Commerce** (donor) — `Donors & Power Networks/Dark Money/American Action Network.md`
-- **American Action Network** (donor) → **ALEC - American Legislative Exchange Council** (donor) — `Donors & Power Networks/Dark Money/American Action Network.md`
-- **American Action Network** (donor) → **Business Roundtable** (donor) — `Donors & Power Networks/Dark Money/American Action Network.md`
-- **American Action Network** (donor) → **Insurance Industry** (donor) — `Donors & Power Networks/Dark Money/American Action Network.md`
-- **American Action Network** (donor) → **DeVos Family** (donor) — `Donors & Power Networks/Dark Money/American Action Network.md`
-- **American Action Network** (donor) → **National Education Association** (donor) — `Donors & Power Networks/Dark Money/American Action Network.md`
-- **American Action Network** (donor) → **Walton Family Foundation** (donor) — `Donors & Power Networks/Dark Money/American Action Network.md`
-- **American Enterprise Institute** (donor) → **Koch Industries** (corporation) — `Donors & Power Networks/Dark Money/American Enterprise Institute.md`
-- **American Enterprise Institute** (donor) → **Council for National Policy** (donor) — `Donors & Power Networks/Dark Money/American Enterprise Institute.md`
-- **American Enterprise Institute** (donor) → **DeVos Family** (donor) — `Donors & Power Networks/Dark Money/American Enterprise Institute.md`
-- **American Enterprise Institute** (donor) → **American Federation for Children** (donor) — `Donors & Power Networks/Dark Money/American Enterprise Institute.md`
-- **American Enterprise Institute** (donor) → **Walton Family Foundation** (donor) — `Donors & Power Networks/Dark Money/American Enterprise Institute.md`
-- **American Enterprise Institute** (donor) → **National Education Association** (donor) — `Donors & Power Networks/Dark Money/American Enterprise Institute.md`
-- **American Enterprise Institute** (donor) → **Insurance Industry** (donor) — `Donors & Power Networks/Dark Money/American Enterprise Institute.md`
-- **Americans for Tax Reform - Grover Norquist** (donor) → **Club for Growth** (pac) — `Donors & Power Networks/Dark Money/Americans for Tax Reform - Grover Norquist.md`
-- **Americans for Tax Reform - Grover Norquist** (donor) → **Heritage Foundation** (think-tank) — `Donors & Power Networks/Dark Money/Americans for Tax Reform - Grover Norquist.md`
-- **Americans for Tax Reform - Grover Norquist** (donor) → **ALEC - American Legislative Exchange Council** (donor) — `Donors & Power Networks/Dark Money/Americans for Tax Reform - Grover Norquist.md`
-- **Americans for Tax Reform - Grover Norquist** (donor) → **Koch Industries** (corporation) — `Donors & Power Networks/Dark Money/Americans for Tax Reform - Grover Norquist.md`
-- **Americans for Tax Reform - Grover Norquist** (donor) → **DeVos Family** (donor) — `Donors & Power Networks/Dark Money/Americans for Tax Reform - Grover Norquist.md`
-- **Americans for Tax Reform - Grover Norquist** (donor) → **National Education Association** (donor) — `Donors & Power Networks/Dark Money/Americans for Tax Reform - Grover Norquist.md`
-- **Americans for Tax Reform - Grover Norquist** (donor) → **Insurance Industry** (donor) — `Donors & Power Networks/Dark Money/Americans for Tax Reform - Grover Norquist.md`
-- **Americans for Tax Reform - Grover Norquist** (donor) → **Walton Family Foundation** (donor) — `Donors & Power Networks/Dark Money/Americans for Tax Reform - Grover Norquist.md`
-- **Americans for Tax Reform - Grover Norquist** (donor) → **American Federation for Children** (donor) — `Donors & Power Networks/Dark Money/Americans for Tax Reform - Grover Norquist.md`
-- _...and 4443 more_
+- **ADM - Archer Daniels Midland** (corporation) → **The Veterans Affairs and Iowa Agriculture** (sub-note), `Donors & Power Networks/Agriculture/ADM - Archer Daniels Midland.md`
+- **ADM - Archer Daniels Midland** (corporation) → **American Farm Bureau Federation** (donor), `Donors & Power Networks/Agriculture/ADM - Archer Daniels Midland.md`
+- **Agribusiness Donor Bloc** (donor) → **Tyson Foods** (corporation), `Donors & Power Networks/Agriculture/Agribusiness Donor Bloc.md`
+- **Agribusiness Donor Bloc** (donor) → **American Farm Bureau Federation** (donor), `Donors & Power Networks/Agriculture/Agribusiness Donor Bloc.md`
+- **Agricultural Labor Vulnerability Donors** (donor) → **H-2A Guest Worker Pipeline and Farmworker Vulnerability** (sub-note), `Donors & Power Networks/Agriculture/Agricultural Labor Vulnerability Donors.md`
+- **Agricultural Labor Vulnerability Donors** (donor) → **Sanctuary State - SB 54 and What It Actually Does** (sub-note), `Donors & Power Networks/Agriculture/Agricultural Labor Vulnerability Donors.md`
+- **Agricultural Labor Vulnerability Donors** (donor) → **Gavin Newsom Master Profile** (politician), `Donors & Power Networks/Agriculture/Agricultural Labor Vulnerability Donors.md`
+- **Agricultural Labor Vulnerability Donors** (donor) → **Donald Trump Master Profile** (politician), `Donors & Power Networks/Agriculture/Agricultural Labor Vulnerability Donors.md`
+- **Agricultural Labor Vulnerability Donors** (donor) → **JCRC Bay Area** (donor), `Donors & Power Networks/Agriculture/Agricultural Labor Vulnerability Donors.md`
+- **Agricultural Labor Vulnerability Donors** (donor) → **JPAC - Jewish Public Affairs Committee of California** (donor), `Donors & Power Networks/Agriculture/Agricultural Labor Vulnerability Donors.md`
+- **Agricultural Labor Vulnerability Donors** (donor) → **J Street** (donor), `Donors & Power Networks/Agriculture/Agricultural Labor Vulnerability Donors.md`
+- **Agricultural Labor Vulnerability Donors** (donor) → **Christians United for Israel** (donor), `Donors & Power Networks/Agriculture/Agricultural Labor Vulnerability Donors.md`
+- **Agricultural Labor Vulnerability Donors** (donor) → **American Friends of the Likud** (donor), `Donors & Power Networks/Agriculture/Agricultural Labor Vulnerability Donors.md`
+- **American Farm Bureau Federation** (donor) → **Trade and Tariffs - Donors and Backers** (sub-note), `Donors & Power Networks/Agriculture/American Farm Bureau Federation.md`
+- **American Farm Bureau Federation** (donor) → **Agriculture - Donors and Backers** (sub-note), `Donors & Power Networks/Agriculture/American Farm Bureau Federation.md`
+- **American Farm Bureau Federation** (donor) → **Farm Subsidies, SNAP Cuts, and the Tariff Bailout - Who Actually Got Paid** (sub-note), `Donors & Power Networks/Agriculture/American Farm Bureau Federation.md`
+- **American Farm Bureau Federation** (donor) → **Koch Network - Charles Koch** (donor), `Donors & Power Networks/Agriculture/American Farm Bureau Federation.md`
+- **American Farm Bureau Federation** (donor) → **Donald Trump Master Profile** (politician), `Donors & Power Networks/Agriculture/American Farm Bureau Federation.md`
+- **American Farm Bureau Federation** (donor) → **American Federation for Children** (donor), `Donors & Power Networks/Agriculture/American Farm Bureau Federation.md`
+- **American Farm Bureau Federation** (donor) → **National Education Association** (donor), `Donors & Power Networks/Agriculture/American Farm Bureau Federation.md`
+- **American Farm Bureau Federation** (donor) → **Walton Family Foundation** (donor), `Donors & Power Networks/Agriculture/American Farm Bureau Federation.md`
+- **American Farm Bureau Federation** (donor) → **Defense Contractors Bloc** (donor), `Donors & Power Networks/Agriculture/American Farm Bureau Federation.md`
+- **American Farm Bureau Federation** (donor) → **Insurance Industry** (donor), `Donors & Power Networks/Agriculture/American Farm Bureau Federation.md`
+- **CA Farm Bureau Federation** (donor) → **Immigration - Donors and Backers** (sub-note), `Donors & Power Networks/Agriculture/CA Farm Bureau Federation.md`
+- **CA Farm Bureau Federation** (donor) → **Western Growers Association** (donor), `Donors & Power Networks/Agriculture/CA Farm Bureau Federation.md`
+- **CA Farm Bureau Federation** (donor) → **California Farm Bureau Federation** (donor), `Donors & Power Networks/Agriculture/CA Farm Bureau Federation.md`
+- **CA Farm Bureau Federation** (donor) → **Agricultural Labor Vulnerability Donors** (donor), `Donors & Power Networks/Agriculture/CA Farm Bureau Federation.md`
+- **California Farm Bureau Federation** (donor) → **Gavin Newsom Master Profile** (politician), `Donors & Power Networks/Agriculture/California Farm Bureau Federation.md`
+- **California Farm Bureau Federation** (donor) → **Farmworker Union Rights - AB 2183 Veto and Reversal** (sub-note), `Donors & Power Networks/Agriculture/California Farm Bureau Federation.md`
+- **California Farm Bureau Federation** (donor) → **H-2A Guest Worker Pipeline and Farmworker Vulnerability** (sub-note), `Donors & Power Networks/Agriculture/California Farm Bureau Federation.md`
+- **California Farm Bureau Federation** (donor) → **Immigration - Donors and Backers** (sub-note), `Donors & Power Networks/Agriculture/California Farm Bureau Federation.md`
+- **California Farm Bureau Federation** (donor) → **Labor - Donors and Backers** (sub-note), `Donors & Power Networks/Agriculture/California Farm Bureau Federation.md`
+- **California Farm Bureau Federation** (donor) → **Haim Saban** (donor), `Donors & Power Networks/Agriculture/California Farm Bureau Federation.md`
+- **California Farm Bureau Federation** (donor) → **JPAC - Jewish Public Affairs Committee of California** (donor), `Donors & Power Networks/Agriculture/California Farm Bureau Federation.md`
+- **California Farm Bureau Federation** (donor) → **JCRC Bay Area** (donor), `Donors & Power Networks/Agriculture/California Farm Bureau Federation.md`
+- **California Farm Bureau Federation** (donor) → **J Street** (donor), `Donors & Power Networks/Agriculture/California Farm Bureau Federation.md`
+- **California Farm Bureau Federation** (donor) → **Christians United for Israel** (donor), `Donors & Power Networks/Agriculture/California Farm Bureau Federation.md`
+- **Cargill** (corporation) → **The Veterans Affairs and Iowa Agriculture** (sub-note), `Donors & Power Networks/Agriculture/Cargill.md`
+- **Cargill** (corporation) → **Agriculture - Donors and Backers** (sub-note), `Donors & Power Networks/Agriculture/Cargill.md`
+- **Cargill** (corporation) → **American Farm Bureau Federation** (donor), `Donors & Power Networks/Agriculture/Cargill.md`
+- **Cargill** (corporation) → **National Cattlemen's Beef Association** (donor), `Donors & Power Networks/Agriculture/Cargill.md`
+- **Fanjul Family - Florida Crystals** (donor) → **The Immigration Flip - From Gang of Eight to Border Hawk** (sub-note), `Donors & Power Networks/Agriculture/Fanjul Family - Florida Crystals.md`
+- **Fanjul Family - Florida Crystals** (donor) → **The Defense Contractor Pipeline and the Hawkish Foreign Policy** (sub-note), `Donors & Power Networks/Agriculture/Fanjul Family - Florida Crystals.md`
+- **Fanjul Family - Florida Crystals** (donor) → **Marco Rubio Master Profile** (politician), `Donors & Power Networks/Agriculture/Fanjul Family - Florida Crystals.md`
+- **Fanjul Family - Florida Crystals** (donor) → **Donald Trump Master Profile** (politician), `Donors & Power Networks/Agriculture/Fanjul Family - Florida Crystals.md`
+- **Fanjul Family - Florida Crystals** (donor) → **American Farm Bureau Federation** (donor), `Donors & Power Networks/Agriculture/Fanjul Family - Florida Crystals.md`
+- **Fanjul Family - Florida Crystals** (donor) → **Lockheed Martin** (corporation), `Donors & Power Networks/Agriculture/Fanjul Family - Florida Crystals.md`
+- **Fanjul Family - Florida Crystals** (donor) → **General Dynamics** (corporation), `Donors & Power Networks/Agriculture/Fanjul Family - Florida Crystals.md`
+- **Fanjul Family - Florida Crystals** (donor) → **DeVos Family** (donor), `Donors & Power Networks/Agriculture/Fanjul Family - Florida Crystals.md`
+- **Fanjul Family - Florida Crystals** (donor) → **Defense Contractors Bloc** (donor), `Donors & Power Networks/Agriculture/Fanjul Family - Florida Crystals.md`
+- **Fanjul Family - Florida Crystals** (donor) → **American Iron and Steel Institute** (donor), `Donors & Power Networks/Agriculture/Fanjul Family - Florida Crystals.md`
+- **Fanjul Family - Florida Crystals** (donor) → **Insurance Industry** (donor), `Donors & Power Networks/Agriculture/Fanjul Family - Florida Crystals.md`
+- **John Deere** (corporation) → **The Oversight Legacy and Agricultural Protection** (sub-note), `Donors & Power Networks/Agriculture/John Deere.md`
+- **John Deere** (corporation) → **American Farm Bureau Federation** (donor), `Donors & Power Networks/Agriculture/John Deere.md`
+- **Monsanto - Bayer** (corporation) → **American Farm Bureau Federation** (donor), `Donors & Power Networks/Agriculture/Monsanto - Bayer.md`
+- **Monsanto - Bayer** (corporation) → **Koch Industries** (corporation), `Donors & Power Networks/Agriculture/Monsanto - Bayer.md`
+- **National Cattlemen's Beef Association** (donor) → **Agriculture - Donors and Backers** (sub-note), `Donors & Power Networks/Agriculture/National Cattlemen's Beef Association.md`
+- **National Cattlemen's Beef Association** (donor) → **The Oversight Chair and the Investigation Theater** (sub-note), `Donors & Power Networks/Agriculture/National Cattlemen's Beef Association.md`
+- **National Cattlemen's Beef Association** (donor) → **Farm Subsidies, SNAP Cuts, and the Tariff Bailout - Who Actually Got Paid** (sub-note), `Donors & Power Networks/Agriculture/National Cattlemen's Beef Association.md`
+- **National Cattlemen's Beef Association** (donor) → **Donald Trump Master Profile** (politician), `Donors & Power Networks/Agriculture/National Cattlemen's Beef Association.md`
+- **National Cattlemen's Beef Association** (donor) → **DeVos Family** (donor), `Donors & Power Networks/Agriculture/National Cattlemen's Beef Association.md`
+- **National Cattlemen's Beef Association** (donor) → **American Iron and Steel Institute** (donor), `Donors & Power Networks/Agriculture/National Cattlemen's Beef Association.md`
+- **National Cattlemen's Beef Association** (donor) → **Defense Contractors Bloc** (donor), `Donors & Power Networks/Agriculture/National Cattlemen's Beef Association.md`
+- **Tyson Foods** (corporation) → **Agriculture - Donors and Backers** (sub-note), `Donors & Power Networks/Agriculture/Tyson Foods.md`
+- **Tyson Foods** (corporation) → **American Farm Bureau Federation** (donor), `Donors & Power Networks/Agriculture/Tyson Foods.md`
+- **Tyson Foods** (corporation) → **National Cattlemen's Beef Association** (donor), `Donors & Power Networks/Agriculture/Tyson Foods.md`
+- **Western Growers Association** (donor) → **Gavin Newsom Master Profile** (politician), `Donors & Power Networks/Agriculture/Western Growers Association.md`
+- **Western Growers Association** (donor) → **Farmworker Union Rights - AB 2183 Veto and Reversal** (sub-note), `Donors & Power Networks/Agriculture/Western Growers Association.md`
+- **Western Growers Association** (donor) → **H-2A Guest Worker Pipeline and Farmworker Vulnerability** (sub-note), `Donors & Power Networks/Agriculture/Western Growers Association.md`
+- **Western Growers Association** (donor) → **Immigration - Donors and Backers** (sub-note), `Donors & Power Networks/Agriculture/Western Growers Association.md`
+- **Western Growers Association** (donor) → **Labor - Donors and Backers** (sub-note), `Donors & Power Networks/Agriculture/Western Growers Association.md`
+- **Western Growers Association** (donor) → **Haim Saban** (donor), `Donors & Power Networks/Agriculture/Western Growers Association.md`
+- **Western Growers Association** (donor) → **JPAC - Jewish Public Affairs Committee of California** (donor), `Donors & Power Networks/Agriculture/Western Growers Association.md`
+- **Western Growers Association** (donor) → **JCRC Bay Area** (donor), `Donors & Power Networks/Agriculture/Western Growers Association.md`
+- **Western Growers Association** (donor) → **J Street** (donor), `Donors & Power Networks/Agriculture/Western Growers Association.md`
+- **Western Growers Association** (donor) → **Christians United for Israel** (donor), `Donors & Power Networks/Agriculture/Western Growers Association.md`
+- **Aramark** (corporation) → **CoreCivic - Private Prisons** (corporation), `Donors & Power Networks/Carceral State/Aramark.md`
+- **Bail Bond Industry** (donor) → **Gavin Newsom Master Profile** (politician), `Donors & Power Networks/Carceral State/Bail Bond Industry.md`
+- **CCPOA - California Correctional Peace Officers Association** (corporation) → **Budget Priorities - What California Actually Funds** (sub-note), `Donors & Power Networks/Carceral State/CCPOA - California Correctional Peace Officers Association.md`
+- **CCPOA - California Correctional Peace Officers Association** (corporation) → **Gun and Public Safety - Donors and Backers** (sub-note), `Donors & Power Networks/Carceral State/CCPOA - California Correctional Peace Officers Association.md`
+- **CCPOA - California Correctional Peace Officers Association** (corporation) → **CCPOA - The Prison Guard Donor and the Reform Ceiling** (sub-note), `Donors & Power Networks/Carceral State/CCPOA - California Correctional Peace Officers Association.md`
+- **CCPOA - California Correctional Peace Officers Association** (corporation) → **San Quentin - COVID Disaster and Rehabilitation Theater** (sub-note), `Donors & Power Networks/Carceral State/CCPOA - California Correctional Peace Officers Association.md`
+- **CCPOA - California Correctional Peace Officers Association** (corporation) → **Policing Reform - George Floyd Era** (sub-note), `Donors & Power Networks/Carceral State/CCPOA - California Correctional Peace Officers Association.md`
+- **CCPOA - California Correctional Peace Officers Association** (corporation) → **Criminal Justice - Donors and Backers** (sub-note), `Donors & Power Networks/Carceral State/CCPOA - California Correctional Peace Officers Association.md`
+- **CCPOA - California Correctional Peace Officers Association** (corporation) → **Uber** (corporation), `Donors & Power Networks/Carceral State/CCPOA - California Correctional Peace Officers Association.md`
+- **CCPOA - California Correctional Peace Officers Association** (corporation) → **UnitedHealth Group - Optum** (corporation), `Donors & Power Networks/Carceral State/CCPOA - California Correctional Peace Officers Association.md`
+- **CCPOA - California Correctional Peace Officers Association** (corporation) → **Kaiser Permanente** (corporation), `Donors & Power Networks/Carceral State/CCPOA - California Correctional Peace Officers Association.md`
+- **CCPOA - California Correctional Peace Officers Association** (corporation) → **PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts** (corporation), `Donors & Power Networks/Carceral State/CCPOA - California Correctional Peace Officers Association.md`
+- **CCPOA - California Correctional Peace Officers Association** (corporation) → **Johnson & Johnson** (corporation), `Donors & Power Networks/Carceral State/CCPOA - California Correctional Peace Officers Association.md`
+- **CoreCivic - Private Prisons** (corporation) → **Immigration Enforcement - The Detention Economy** (sub-note), `Donors & Power Networks/Carceral State/CoreCivic - Private Prisons.md`
+- **CoreCivic - Private Prisons** (corporation) → **Immigration - Donors and Backers** (sub-note), `Donors & Power Networks/Carceral State/CoreCivic - Private Prisons.md`
+- **CoreCivic - Private Prisons** (corporation) → **Criminal Justice - Donors and Backers** (sub-note), `Donors & Power Networks/Carceral State/CoreCivic - Private Prisons.md`
+- **CoreCivic - Private Prisons** (corporation) → **Fraternal Order of Police** (donor), `Donors & Power Networks/Carceral State/CoreCivic - Private Prisons.md`
+- **CoreCivic - Private Prisons** (corporation) → **CoreCivic** (corporation), `Donors & Power Networks/Carceral State/CoreCivic - Private Prisons.md`
+- **CoreCivic - Private Prisons** (corporation) → **GEO Group - Private Prison Industrial Complex** (corporation), `Donors & Power Networks/Carceral State/CoreCivic - Private Prisons.md`
+- **CoreCivic - Private Prisons** (corporation) → **Uber** (corporation), `Donors & Power Networks/Carceral State/CoreCivic - Private Prisons.md`
+- **CoreCivic** (corporation) → **Criminal Justice and DOJ - Donors and Backers** (sub-note), `Donors & Power Networks/Carceral State/CoreCivic.md`
+- **CoreCivic** (corporation) → **Brian Kemp** (state-politician), `Donors & Power Networks/Carceral State/CoreCivic.md`
+- **CoreCivic** (corporation) → **Gavin Newsom Master Profile** (politician), `Donors & Power Networks/Carceral State/CoreCivic.md`
+- **CoreCivic** (corporation) → **Private Detention - AB 32** (sub-note), `Donors & Power Networks/Carceral State/CoreCivic.md`
+- **CoreCivic** (corporation) → **Immigration - Donors and Backers** (sub-note), `Donors & Power Networks/Carceral State/CoreCivic.md`
+- **CoreCivic** (corporation) → **Chad Bianco Master Profile** (politician), `Donors & Power Networks/Carceral State/CoreCivic.md`
+- **CoreCivic** (corporation) → **Lyft** (corporation), `Donors & Power Networks/Carceral State/CoreCivic.md`
+- **CoreCivic** (corporation) → **UnitedHealth Group - Optum** (corporation), `Donors & Power Networks/Carceral State/CoreCivic.md`
+- **CoreCivic** (corporation) → **Kaiser Permanente** (corporation), `Donors & Power Networks/Carceral State/CoreCivic.md`
+- **CoreCivic** (corporation) → **PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts** (corporation), `Donors & Power Networks/Carceral State/CoreCivic.md`
+- **CoreCivic** (corporation) → **Johnson & Johnson** (corporation), `Donors & Power Networks/Carceral State/CoreCivic.md`
+- **GEO Group - Private Prison Industrial Complex** (corporation) → **Gavin Newsom Master Profile** (politician), `Donors & Power Networks/Carceral State/GEO Group.md`
+- **GEO Group - Private Prison Industrial Complex** (corporation) → **Private Detention - AB 32** (sub-note), `Donors & Power Networks/Carceral State/GEO Group.md`
+- **GEO Group - Private Prison Industrial Complex** (corporation) → **CoreCivic** (corporation), `Donors & Power Networks/Carceral State/GEO Group.md`
+- **GEO Group - Private Prison Industrial Complex** (corporation) → **Immigration - Donors and Backers** (sub-note), `Donors & Power Networks/Carceral State/GEO Group.md`
+- **GEO Group - Private Prison Industrial Complex** (corporation) → **Donald Trump Master Profile** (politician), `Donors & Power Networks/Carceral State/GEO Group.md`
+- **GEO Group - Private Prison Industrial Complex** (corporation) → **Chad Bianco Master Profile** (politician), `Donors & Power Networks/Carceral State/GEO Group.md`
+- **GEO Group - Private Prison Industrial Complex** (corporation) → **Save America PAC** (pac), `Donors & Power Networks/Carceral State/GEO Group.md`
+- **GEO Group - Private Prison Industrial Complex** (corporation) → **Congressional Leadership Fund** (pac), `Donors & Power Networks/Carceral State/GEO Group.md`
+- **GEO Group - Private Prison Industrial Complex** (corporation) → **Senate Leadership Fund** (pac), `Donors & Power Networks/Carceral State/GEO Group.md`
+- **GEO Group - Private Prison Industrial Complex** (corporation) → **ALEC - American Legislative Exchange Council** (donor), `Donors & Power Networks/Carceral State/GEO Group.md`
+- **GEO Group - Private Prison Industrial Complex** (corporation) → **Marco Rubio Master Profile** (politician), `Donors & Power Networks/Carceral State/GEO Group.md`
+- **GEO Group - Private Prison Industrial Complex** (corporation) → **Pam Bondi Master Profile** (politician), `Donors & Power Networks/Carceral State/GEO Group.md`
+- **GEO Group - Private Prison Industrial Complex** (corporation) → **Lyft** (corporation), `Donors & Power Networks/Carceral State/GEO Group.md`
+- **GEO Group - Private Prison Industrial Complex** (corporation) → **UnitedHealth Group - Optum** (corporation), `Donors & Power Networks/Carceral State/GEO Group.md`
+- **GEO Group - Private Prison Industrial Complex** (corporation) → **Kaiser Permanente** (corporation), `Donors & Power Networks/Carceral State/GEO Group.md`
+- **GEO Group - Private Prison Industrial Complex** (corporation) → **PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts** (corporation), `Donors & Power Networks/Carceral State/GEO Group.md`
+- **GEO Group - Private Prison Industrial Complex** (corporation) → **Johnson & Johnson** (corporation), `Donors & Power Networks/Carceral State/GEO Group.md`
+- **Prison Policy Initiative** (reference) → **CoreCivic** (corporation), `Donors & Power Networks/Carceral State/Prison Policy Initiative.md`
+- **Prison Policy Initiative** (reference) → **CCPOA - California Correctional Peace Officers Association** (corporation), `Donors & Power Networks/Carceral State/Prison Policy Initiative.md`
+- **Securus Technologies - Aventiv** (corporation) → **CoreCivic** (corporation), `Donors & Power Networks/Carceral State/Securus Technologies - Aventiv.md`
+- **Securus Technologies - Aventiv** (corporation) → **CCPOA - California Correctional Peace Officers Association** (corporation), `Donors & Power Networks/Carceral State/Securus Technologies - Aventiv.md`
+- **ViaPath Technologies - GTL** (corporation) → **CoreCivic** (corporation), `Donors & Power Networks/Carceral State/ViaPath Technologies - GTL.md`
+- **ViaPath Technologies - GTL** (corporation) → **CCPOA - California Correctional Peace Officers Association** (corporation), `Donors & Power Networks/Carceral State/ViaPath Technologies - GTL.md`
+- **Bacardi - Bacardi USA** (corporation) → **Marco Rubio Master Profile** (politician), `Donors & Power Networks/Corporate/Bacardi - Bacardi USA.md`
+- **Bacardi - Bacardi USA** (corporation) → **Fanjul Family - Florida Crystals** (donor), `Donors & Power Networks/Corporate/Bacardi - Bacardi USA.md`
+- **ActBlue** (donor) → **Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion** (story), `Donors & Power Networks/Dark Money/ActBlue.md`
+- **ActBlue** (donor) → **Dan Osborn Master Profile** (politician), `Donors & Power Networks/Dark Money/ActBlue.md`
+- **ActBlue** (donor) → **2024-2026 Campaign Finance and Democratic Infrastructure** (sub-note), `Donors & Power Networks/Dark Money/ActBlue.md`
+- **ActBlue** (donor) → **The Housing Progressive and Wall Street Tension** (sub-note), `Donors & Power Networks/Dark Money/ActBlue.md`
+- **ActBlue** (donor) → **The Medicare for All Retreat - Two Audiences and One Calculation** (sub-note), `Donors & Power Networks/Dark Money/ActBlue.md`
+- **ActBlue** (donor) → **The CFPB and the Limits of Reform Within the System** (sub-note), `Donors & Power Networks/Dark Money/ActBlue.md`
+- **ActBlue** (donor) → **The 2020 Campaign and the Donor Class Consolidation** (sub-note), `Donors & Power Networks/Dark Money/ActBlue.md`
+- **ActBlue** (donor) → **The Climate Hawk and Green New Deal Limits** (sub-note), `Donors & Power Networks/Dark Money/ActBlue.md`
+- **ActBlue** (donor) → **The Labor-HHS Appropriations Chair and Nutrition Policy** (sub-note), `Donors & Power Networks/Dark Money/ActBlue.md`
+- **ActBlue** (donor) → **The Progressive Caucus and the Squad's Institutional Wing** (sub-note), `Donors & Power Networks/Dark Money/ActBlue.md`
+- **ActBlue** (donor) → **The Oversight Committee and the Anti-Corruption Brand** (sub-note), `Donors & Power Networks/Dark Money/ActBlue.md`
+- **ActBlue** (donor) → **The Education Committee and Labor Alignment** (sub-note), `Donors & Power Networks/Dark Money/ActBlue.md`
+- **ActBlue** (donor) → **Future Forward USA Action** (pac), `Donors & Power Networks/Dark Money/ActBlue.md`
+- **ActBlue** (donor) → **Senate Majority PAC** (pac), `Donors & Power Networks/Dark Money/ActBlue.md`
+- **ActBlue** (donor) → **House Majority PAC** (pac), `Donors & Power Networks/Dark Money/ActBlue.md`
+- **ActBlue** (donor) → **Ohio Federation of Teachers** (donor), `Donors & Power Networks/Dark Money/ActBlue.md`
+- **ALEC - American Legislative Exchange Council** (donor) → **Koch Network - Charles Koch** (donor), `Donors & Power Networks/Dark Money/ALEC - American Legislative Exchange Council.md`
+- **ALEC - American Legislative Exchange Council** (donor) → **DonorsTrust** (pac), `Donors & Power Networks/Dark Money/ALEC - American Legislative Exchange Council.md`
+- **ALEC - American Legislative Exchange Council** (donor) → **Heritage Foundation** (think-tank), `Donors & Power Networks/Dark Money/ALEC - American Legislative Exchange Council.md`
+- **ALEC - American Legislative Exchange Council** (donor) → **Federalist Society** (think-tank), `Donors & Power Networks/Dark Money/ALEC - American Legislative Exchange Council.md`
+- **ALEC - American Legislative Exchange Council** (donor) → **ExxonMobil** (corporation), `Donors & Power Networks/Dark Money/ALEC - American Legislative Exchange Council.md`
+- **ALEC - American Legislative Exchange Council** (donor) → **American Federation for Children** (donor), `Donors & Power Networks/Dark Money/ALEC - American Legislative Exchange Council.md`
+- **ALEC - American Legislative Exchange Council** (donor) → **Insurance Industry** (donor), `Donors & Power Networks/Dark Money/ALEC - American Legislative Exchange Council.md`
+- **ALEC - American Legislative Exchange Council** (donor) → **Walton Family Foundation** (donor), `Donors & Power Networks/Dark Money/ALEC - American Legislative Exchange Council.md`
+- **ALEC - American Legislative Exchange Council** (donor) → **National Education Association** (donor), `Donors & Power Networks/Dark Money/ALEC - American Legislative Exchange Council.md`
+- **Alliance Defending Freedom** (donor) → **Federalist Society** (think-tank), `Donors & Power Networks/Dark Money/Alliance Defending Freedom.md`
+- **Alliance Defending Freedom** (donor) → **Heritage Foundation** (think-tank), `Donors & Power Networks/Dark Money/Alliance Defending Freedom.md`
+- **Alliance Defending Freedom** (donor) → **Council for National Policy** (donor), `Donors & Power Networks/Dark Money/Alliance Defending Freedom.md`
+- **Alliance Defending Freedom** (donor) → **Bradley Foundation** (donor), `Donors & Power Networks/Dark Money/Alliance Defending Freedom.md`
+- **Alliance Defending Freedom** (donor) → **American Federation for Children** (donor), `Donors & Power Networks/Dark Money/Alliance Defending Freedom.md`
+- **Alliance Defending Freedom** (donor) → **National Education Association** (donor), `Donors & Power Networks/Dark Money/Alliance Defending Freedom.md`
+- **Alliance Defending Freedom** (donor) → **Walton Family Foundation** (donor), `Donors & Power Networks/Dark Money/Alliance Defending Freedom.md`
+- **Alliance Defending Freedom** (donor) → **US Chamber of Commerce** (donor), `Donors & Power Networks/Dark Money/Alliance Defending Freedom.md`
+- **Alliance Defending Freedom** (donor) → **Insurance Industry** (donor), `Donors & Power Networks/Dark Money/Alliance Defending Freedom.md`
+- **America First Policy Institute** (donor) → **Federalist Society** (think-tank), `Donors & Power Networks/Dark Money/America First Policy Institute.md`
+- **America First Policy Institute** (donor) → **Linda McMahon Master Profile** (politician), `Donors & Power Networks/Dark Money/America First Policy Institute.md`
+- **America First Policy Institute** (donor) → **Heritage Foundation** (think-tank), `Donors & Power Networks/Dark Money/America First Policy Institute.md`
+- **America First Policy Institute** (donor) → **Council for National Policy** (donor), `Donors & Power Networks/Dark Money/America First Policy Institute.md`
+- **America First Policy Institute** (donor) → **Leonard Leo** (donor), `Donors & Power Networks/Dark Money/America First Policy Institute.md`
+- **America First Policy Institute** (donor) → **DeVos Family** (donor), `Donors & Power Networks/Dark Money/America First Policy Institute.md`
+- **America First Policy Institute** (donor) → **American Federation for Children** (donor), `Donors & Power Networks/Dark Money/America First Policy Institute.md`
+- **America First Policy Institute** (donor) → **Walton Family Foundation** (donor), `Donors & Power Networks/Dark Money/America First Policy Institute.md`
+- **America First Policy Institute** (donor) → **National Education Association** (donor), `Donors & Power Networks/Dark Money/America First Policy Institute.md`
+- **America First Policy Institute** (donor) → **Insurance Industry** (donor), `Donors & Power Networks/Dark Money/America First Policy Institute.md`
+- **American Action Network** (donor) → **Heritage Foundation** (think-tank), `Donors & Power Networks/Dark Money/American Action Network.md`
+- **American Action Network** (donor) → **US Chamber of Commerce** (donor), `Donors & Power Networks/Dark Money/American Action Network.md`
+- **American Action Network** (donor) → **ALEC - American Legislative Exchange Council** (donor), `Donors & Power Networks/Dark Money/American Action Network.md`
+- **American Action Network** (donor) → **Business Roundtable** (donor), `Donors & Power Networks/Dark Money/American Action Network.md`
+- **American Action Network** (donor) → **Insurance Industry** (donor), `Donors & Power Networks/Dark Money/American Action Network.md`
+- **American Action Network** (donor) → **DeVos Family** (donor), `Donors & Power Networks/Dark Money/American Action Network.md`
+- **American Action Network** (donor) → **National Education Association** (donor), `Donors & Power Networks/Dark Money/American Action Network.md`
+- **American Action Network** (donor) → **Walton Family Foundation** (donor), `Donors & Power Networks/Dark Money/American Action Network.md`
+- **American Enterprise Institute** (donor) → **Koch Industries** (corporation), `Donors & Power Networks/Dark Money/American Enterprise Institute.md`
+- **American Enterprise Institute** (donor) → **Council for National Policy** (donor), `Donors & Power Networks/Dark Money/American Enterprise Institute.md`
+- **American Enterprise Institute** (donor) → **DeVos Family** (donor), `Donors & Power Networks/Dark Money/American Enterprise Institute.md`
+- **American Enterprise Institute** (donor) → **American Federation for Children** (donor), `Donors & Power Networks/Dark Money/American Enterprise Institute.md`
+- **American Enterprise Institute** (donor) → **Walton Family Foundation** (donor), `Donors & Power Networks/Dark Money/American Enterprise Institute.md`
+- **American Enterprise Institute** (donor) → **National Education Association** (donor), `Donors & Power Networks/Dark Money/American Enterprise Institute.md`
+- **American Enterprise Institute** (donor) → **Insurance Industry** (donor), `Donors & Power Networks/Dark Money/American Enterprise Institute.md`
+- **Americans for Tax Reform - Grover Norquist** (donor) → **Club for Growth** (pac), `Donors & Power Networks/Dark Money/Americans for Tax Reform - Grover Norquist.md`
+- **Americans for Tax Reform - Grover Norquist** (donor) → **Heritage Foundation** (think-tank), `Donors & Power Networks/Dark Money/Americans for Tax Reform - Grover Norquist.md`
+- **Americans for Tax Reform - Grover Norquist** (donor) → **ALEC - American Legislative Exchange Council** (donor), `Donors & Power Networks/Dark Money/Americans for Tax Reform - Grover Norquist.md`
+- **Americans for Tax Reform - Grover Norquist** (donor) → **Koch Industries** (corporation), `Donors & Power Networks/Dark Money/Americans for Tax Reform - Grover Norquist.md`
+- **Americans for Tax Reform - Grover Norquist** (donor) → **DeVos Family** (donor), `Donors & Power Networks/Dark Money/Americans for Tax Reform - Grover Norquist.md`
+- **Americans for Tax Reform - Grover Norquist** (donor) → **National Education Association** (donor), `Donors & Power Networks/Dark Money/Americans for Tax Reform - Grover Norquist.md`
+- **Americans for Tax Reform - Grover Norquist** (donor) → **Insurance Industry** (donor), `Donors & Power Networks/Dark Money/Americans for Tax Reform - Grover Norquist.md`
+- **Americans for Tax Reform - Grover Norquist** (donor) → **Walton Family Foundation** (donor), `Donors & Power Networks/Dark Money/Americans for Tax Reform - Grover Norquist.md`
+- **Americans for Tax Reform - Grover Norquist** (donor) → **American Federation for Children** (donor), `Donors & Power Networks/Dark Money/Americans for Tax Reform - Grover Norquist.md`
+- _..and 4443 more_

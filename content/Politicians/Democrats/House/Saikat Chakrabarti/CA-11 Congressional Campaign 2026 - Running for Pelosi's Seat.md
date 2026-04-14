@@ -36,7 +36,7 @@ The top-two primary is scheduled for June 2, 2026, with 10 total candidates (9 D
 - Chakrabarti: $1,769,248 raised, $1,470,000 self-loans, $0 PAC, $112,266 COH
 - Chan: $174,385 raised, $0 self-loans, $7,000 PAC, ~$119,531 COH
 
-Despite lower overall fundraising than Wiener, Chakrabarti achieved 5,724 individual donors in one quarter—more than 2.5 times Wiener's 2,226, suggesting stronger small-donor enthusiasm but offset by massive self-funding.
+Despite lower overall fundraising than Wiener, Chakrabarti achieved 5,724 individual donors in one quarter, more than 2.5 times Wiener's 2,226, suggesting stronger small-donor enthusiasm but offset by massive self-funding.
 
 **Total Disbursements (through end 2025):** $1,656,981.25
 
@@ -57,7 +57,7 @@ Despite lower overall fundraising than Wiener, Chakrabarti achieved 5,724 indivi
 
 ### Neutral/Opposed:
 - [[_Alexandria Ocasio-Cortez Master Profile|AOC]]: No endorsement as of April 2, 2026
-- Democratic Socialists of America—SF: Explicitly declined on August 12, 2025, stating Chakrabarti is "not a DSA member or a socialist...not endorsed by our Chapter"
+- Democratic Socialists of America, SF: Explicitly declined on August 12, 2025, stating Chakrabarti is "not a DSA member or a socialist..not endorsed by our Chapter"
 - [[_Nancy Pelosi Master Profile|Pelosi]]: No endorsement
 
 ### Other Endorsements:
@@ -147,7 +147,7 @@ Despite his anti-establishment rhetoric, Chakrabarti has received support from A
 - Jeremy Stoppelman (Yelp CEO)
 - Dede Wilsey (wealthy San Francisco arts patron/philanthropist)
 
-Notably, all four major funders of the pro-Chakrabarti super PAC also donated to [[_Scott Wiener Master Profile|Wiener]], suggesting wealthy tech sector hedging. Abundant Future ran mailers attacking Chakrabarti with the message "Saikat Chakrabarti sends Greetings from Maryland"—a self-sabotaging attack raising questions about the super PAC's true allegiances.
+Notably, all four major funders of the pro-Chakrabarti super PAC also donated to [[_Scott Wiener Master Profile|Wiener]], suggesting wealthy tech sector hedging. Abundant Future ran mailers attacking Chakrabarti with the message "Saikat Chakrabarti sends Greetings from Maryland", a self-sabotaging attack raising questions about the super PAC's true allegiances.
 
 ### Local Donation Pattern Contradictions:
 In 2024–2025, Chakrabarti donated $10,000 to GrowSF-backed centrist candidate Bilal Mahmood over DSA-backed progressive Dean Preston, and $500 to Michael Lai over progressive challenger Chyanne Chen. These donations contradict his progressive primary positioning.
@@ -160,7 +160,7 @@ The Abundant Future super PAC reflects broader tech sector hedging. Patrick Coll
 - Pivoted to Republican giving in October 2024 ($41,700 to NRCC)
 - Stripe employee giving shifted from 99.93% Democratic (2016) to 75% Democratic / 25% Republican (2024)
 
-This sector-wide rebalancing suggests tech leadership—which Chakrabarti cultivated through his Justice Democrats work—is hedging against sustained Democratic control while maintaining appearance of progressive legitimacy through simultaneous funding of insurgent Democrats like Chakrabarti.
+This sector-wide rebalancing suggests tech leadership, which Chakrabarti cultivated through his Justice Democrats work, is hedging against sustained Democratic control while maintaining appearance of progressive legitimacy through simultaneous funding of insurgent Democrats like Chakrabarti.
 
 ### Research Status
 
@@ -179,6 +179,6 @@ This sector-wide rebalancing suggests tech leadership—which Chakrabarti cultiv
 - Working Families Party "California WFP Endorses Connie Chan" (February 20, 2026): https://workingfamilies.org/2026/02/california-wfp-endorses-connie-chan-for-congress/ (Tier 3)
 - Ballotpedia "Nine Democrats and One Republican Running in CA-11" (March 5, 2026): https://news.ballotpedia.org/2026/03/05/nine-democrats-and-one-republican-are-running-in-the-top-two-primary-for-californias-11th-congressional-district-on-june-2-2026/ (Tier 3)
 - The Downballot "Morning Digest" (April 1, 2026): https://www.the-downballot.com/p/morning-digest-democrats-are-demanding (Tier 3)
-- Democratic Socialists of America—SF Tweet (August 12, 2025): https://x.com/DSA_SF/status/1955122465014944215 (Tier 4)
+- Democratic Socialists of America, SF Tweet (August 12, 2025): https://x.com/DSA_SF/status/1955122465014944215 (Tier 4)
 - Phoenix Project "The Mystery of Saikat Chakrabarti" (November 2025): https://www.phoenixprojectnow.com/phoenix-review/blog/the-mystery-of-saikat-chakrabarti (Tier 4)
 - Gazetteer SF "What Makes Saikat Run" (October 20, 2025): https://sf.gazetteer.co/what-makes-saikat-run (Tier 4)

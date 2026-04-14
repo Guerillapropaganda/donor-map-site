@@ -1,5 +1,5 @@
 ---
-title: "Val T. Hoyle Master Profile"
+title: "Val T. Hoyle"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

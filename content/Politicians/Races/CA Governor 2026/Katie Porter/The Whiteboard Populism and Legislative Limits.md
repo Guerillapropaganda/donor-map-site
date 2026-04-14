@@ -21,7 +21,7 @@ donors: [[PhRMA]] [[JPMorgan Chase]] [[Wells Fargo]]
 
 Katie Porter's congressional career produced a portfolio of viral hearing moments that defined a new form of political communication: the whiteboard confrontation. Her most-viewed moments included forcing JPMorgan CEO Jamie Dimon to admit his bank's tellers couldn't survive on their wages, breaking down pharmaceutical pricing to show CEO profit margins, and calculating corporate executive compensation against worker pay.
 
-These moments performed a specific political function: they made complex corporate malfeasance accessible to non-expert audiences through visual simplification and direct confrontation. The whiteboard became a political brand — merchandise, social media content, fundraising hooks — that generated national name recognition and small-dollar donations.
+These moments performed a specific political function: they made complex corporate malfeasance accessible to non-expert audiences through visual simplification and direct confrontation. The whiteboard became a political brand, merchandise, social media content, fundraising hooks, that generated national name recognition and small-dollar donations.
 
 ---
 
@@ -31,10 +31,10 @@ The structural problem with Porter's approach: congressional hearings have no en
 
 | Hearing Target | What Porter Exposed | What Changed |
 |---------------|---------------------|--------------|
-| Jamie Dimon (JPMorgan) | Bank tellers can't survive on wages | Nothing — wages remained |
-| Mark Zuckerberg (Meta) | Privacy violations and data practices | Nothing — practices continued |
-| Pharma CEOs (multiple) | Drug pricing exceeds production costs 10-100x | Nothing — prices increased |
-| Oil executives | Climate denial and lobbying | Nothing — lobbying increased |
+| Jamie Dimon (JPMorgan) | Bank tellers can't survive on wages | Nothing, wages remained |
+| Mark Zuckerberg (Meta) | Privacy violations and data practices | Nothing, practices continued |
+| Pharma CEOs (multiple) | Drug pricing exceeds production costs 10-100x | Nothing, prices increased |
+| Oil executives | Climate denial and lobbying | Nothing, lobbying increased |
 
 The pattern is consistent: viral moment → media coverage → small-dollar fundraising surge → zero policy change. The hearings served Porter's brand and the Democratic Party's populist messaging. They did not serve the consumers Porter claimed to champion.
 
@@ -45,7 +45,7 @@ The pattern is consistent: viral moment → media coverage → small-dollar fund
 
 ### Sources
 
-- ~~[Congress.gov: Katie Porter donor profile](https://www.congress.gov/search?q=Katie%20Porter&searchResultViewType=expanded)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Katie Porter donor profile](https://www.congress.gov/search?q=Katie%20Porter&searchResultViewType=expanded)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Congress.gov: Katie Porter member page](https://www.congress.gov/member/katie-porter/P000618) (Tier 1) (VERIFIED)
 - [Ballotpedia: Katie Porter](https://ballotpedia.org/Katie_Porter) (Tier 3) (VERIFIED)
 

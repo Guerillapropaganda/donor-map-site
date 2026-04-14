@@ -29,7 +29,7 @@ regulatory-agencies:
   - "Health and Human Services Department"
   - "Homeland Security Department"
   - "Internal Revenue Service"
-related: "[[Koch Network - Charles Koch]] · [[Bradley Foundation]] · [[DonorsTrust]] · [[ExxonMobil]] · [[Heritage Foundation]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Center for American Progress]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Brennan Center for Justice]] · [[Mercatus Center]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[RAND Corporation]] · [[Council on Foreign Relations]] · [[Center for a New American Security]] · [[Brookings Institution]] · [[Atlantic Council]] · [[Aspen Institute]] · [[State Policy Network]] · [[Stand Together]]"
+related: "[[Koch Network - Charles Koch]] · [[Bradley Foundation]] · [[DonorsTrust]] · [[ExxonMobil]] · [[Heritage Foundation]] · [[Cross-Think-Tank Donor Map , The Both-Sides Illusion With Receipts]] · [[The Think Tank Money Map , Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door , A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline , How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Center for American Progress]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Brennan Center for Justice]] · [[Mercatus Center]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[RAND Corporation]] · [[Council on Foreign Relations]] · [[Center for a New American Security]] · [[Brookings Institution]] · [[Atlantic Council]] · [[Aspen Institute]] · [[State Policy Network]] · [[Stand Together]]"
 ein: "237432162"
 nonprofit-status: "501(c)(3)"
 total-revenue: 67482807
@@ -351,12 +351,12 @@ The revolving door completes the circuit: research produced → personnel traine
 
 - [Cato Institute: Cato Handbook for Policymakers (9th Edition, 2022)](https://www.cato.org/cato-handbook-policymakers/cato-handbook-policymakers-9th-edition-2022) (VERIFIED) (Tier 3, institutional source)
 - [Cato Institute: Policy on Social Security Choice](https://www.cato.org/policy-report/september/october-1995/cato-launches-social-security-privatization-effort) (Tier 3) (VERIFIED)
-- ~~[Cato Institute: Repealing Obamacare (Handbook chapter)](https://www.cato.org/cato-handbook-policymakers/cato-handbook-policymakers-9th-edition-2022/cato-handbook-policy-makers-8th-edition-2017/4-repealing-obamacare)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[Cato Institute: Repealing Obamacare (Handbook chapter)](https://www.cato.org/cato-handbook-policymakers/cato-handbook-policymakers-9th-edition-2022/cato-handbook-policy-makers-8th-edition-2017/4-repealing-obamacare)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Cato Institute: King v. Burwell scholarship by Michael Cannon](https://www.cato-unbound.org/) (Tier 3) (VERIFIED)
 - [Cato Institute: Medicare for All Opposition Commentary](https://www.cato.org/commentary/medicare-all-would-mean-worse-care-all) (Tier 3) (VERIFIED)
 - [Cato Institute: TrumpRx Criticism (February 2026)](https://www.cato.org/blog/trumprx-when-government-tries-build-market) (Tier 3) (VERIFIED)
 - [Cato Institute: Climate and Energy Policy Analysis - Travis Fisher](https://www.cato.org/blog/how-inflation-reduction-act-bankrolls-epa-overreach) (Tier 3) (VERIFIED)
-- ~~[Cato Institute: Minimum Wage Policy](https://www.cato.org/cato-handbook-policymakers/cato-handbook-policymakers-9th-edition-2022/cato-handbook-policymakers-9th-edition-2022/minimum-wage)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[Cato Institute: Minimum Wage Policy](https://www.cato.org/cato-handbook-policymakers/cato-handbook-policymakers-9th-edition-2022/cato-handbook-policymakers-9th-edition-2022/minimum-wage)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Cato Institute: Taxing Wealth and Capital Income (August 2019)](https://www.cato.org/tax-budget-bulletin/taxing-wealth-capital-income) (Tier 3) (VERIFIED)
 - [Cato Institute: Wealth and Taxes (February 2020)](https://www.cato.org/publications/tax-budget-bulletin/wealth-taxes) (Tier 3) (VERIFIED)
 - [Cato Institute: Fossil Fuel Subsidies Commentary (June 2025)](https://www.cato.org/blog/fossil-fuel-subsidies-are-mostly-fiction-real-energy-subsidies-should-go) (Tier 3) (VERIFIED)
@@ -366,11 +366,11 @@ The revolving door completes the circuit: research produced → personnel traine
 ### Investigative Reporting:
 
 - [ProPublica Trump Town: Cato Institute](https://projects.propublica.org/trump-town/organizations/cato-institute) (Tier 2) (VERIFIED)
-- ~~[Science/AAAS: U.S. think tank shuts down prominent center that challenged climate science](https://www.science.org/content/article/us-think-tank-shuts-down-prominent-center-challenged-climate-science)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Science/AAAS: U.S. think tank shuts down prominent center that challenged climate science](https://www.science.org/content/article/us-think-tank-shuts-down-prominent-center-challenged-climate-science)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Center for Public Integrity: Behind the climate skepticism curtain. The Koch family and the Cato Institute](https://publicintegrity.org/environment/behind-the-climate-skepticism-curtain-the-koch-family-and-the-cato-institute/) (Tier 2) (VERIFIED)
 - [TIME: In DC Speech, Charles Koch Decries 'the Mess' Country Is In](https://time.com/7282130/charles-koch-speech-trump-tariffs/) (Tier 2) (VERIFIED)
 - [Fortune: Trump Tariffs Are 'a Recipe for Making Americans Worse Off,' Cato Institute Says](https://fortune.com/2025/03/26/trump-tariffs-kudlow-fox-recipe-making-americans-worse-off-cato-institute/) (Tier 2) (VERIFIED)
-- ~~[Politico: Conservative realignment article on Koch-Trump fracture](https://www.politico.com/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Politico: Conservative realignment article on Koch-Trump fracture](https://www.politico.com/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [E&E News: Cato closes its climate shop after Patrick Michaels departure](https://www.eenews.net/articles/cato-closes-its-climate-shop-pat-michaels-is-out/) (Tier 2) (VERIFIED)
 - [The American Prospect: Biggest Deal. Lobbying Take Social Security Private](https://prospect.org/2001/12/19/biggest-deal-lobbying-take-social-security-private/) (Tier 2) (VERIFIED)
 
@@ -378,7 +378,7 @@ The revolving door completes the circuit: research produced → personnel traine
 
 - [DeSmog: Cato Institute profile](https://www.desmog.com/cato-institute/) (Tier 2) (VERIFIED)
 - [Climate Investigations Center: Patrick Michaels fossil fuel funding timeline](https://climateinvestigations.org/patrick-michaels-climate-denial/) (Tier 2) (VERIFIED)
-- ~~[SourceWatch: Cato Institute](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Cato_Institute)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[SourceWatch: Cato Institute](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Cato_Institute)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [InfluenceWatch: Cato Institute](https://www.influencewatch.org/non-profit/cato-institute/) (Tier 2) (VERIFIED)
 - [Think Tank Funding Tracker: Cato Institute](https://thinktankfundingtracker.org/think-tank/cato-institute/) (Tier 2) (VERIFIED)
 - [Greenpeace USA: Koch network funding to Cato (1986–2015 data)](https://www.greenpeace.org/global/) (Tier 2) (VERIFIED)

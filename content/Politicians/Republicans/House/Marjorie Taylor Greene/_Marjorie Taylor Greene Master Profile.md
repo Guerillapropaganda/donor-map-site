@@ -1,8 +1,8 @@
 ---
-title: Marjorie Taylor Greene Master Profile
+title: Marjorie Taylor Greene
 type: politician
 content-readiness: ready
-central-thesis: "MTG monetizes outrage — her donor model is built on small-dollar fundraising triggered by controversy, making her the right-wing mirror of the progressive fundraising model. But unlike AOC, whose controversies emerge from substantive policy challe..."
+central-thesis: "MTG monetizes outrage , her donor model is built on small-dollar fundraising triggered by controversy, making her the right-wing mirror of the progressive fundraising model. But unlike AOC, whose controversies emerge from substantive policy challe..."
 last-updated: 2026-04-13
 source-tier: 1
 parent: null
@@ -32,7 +32,7 @@ donors: [[MAGA Small Dollar Base]] · Construction Industry - Taylor Commercial
 
 ## Who She Is
 
-Marjorie Taylor Greene. Born May 27, 1974, Milledgeville, Georgia. Republican. U.S. Representative for Georgia's 14th congressional district (2021–present). Businesswoman prior to politics: co-owner and manager of Taylor Commercial, her father's commercial construction company (origin of her personal wealth). CrossFit gym owner. QAnon adherent before election, who partially recanted conspiracy theories after taking office under political pressure. Stripped of committee assignments in February 2021 — the first such action since 1979 — then reinstated to the Budget Committee and Homeland Security Committee in 2023 when Republicans took the majority. Closest House ally of [[_Donald Trump Master Profile|Donald Trump]]. Raised $12.5 million in the 2022 cycle, $72.7% from small-dollar donors — the highest small-dollar share of any federal lawmaker at that point. Never not in controversy.
+Marjorie Taylor Greene. Born May 27, 1974, Milledgeville, Georgia. Republican. U.S. Representative for Georgia's 14th congressional district (2021–present). Businesswoman prior to politics: co-owner and manager of Taylor Commercial, her father's commercial construction company (origin of her personal wealth). CrossFit gym owner. QAnon adherent before election, who partially recanted conspiracy theories after taking office under political pressure. Stripped of committee assignments in February 2021, the first such action since 1979, then reinstated to the Budget Committee and Homeland Security Committee in 2023 when Republicans took the majority. Closest House ally of [[_Donald Trump Master Profile|Donald Trump]]. Raised $12.5 million in the 2022 cycle, $72.7% from small-dollar donors, the highest small-dollar share of any federal lawmaker at that point. Never not in controversy.
 
 ---
 
@@ -52,13 +52,13 @@ Marjorie Taylor Greene. Born May 27, 1974, Milledgeville, Georgia. Republican. U
 ## Donor Class Map
 
 ### The Outrage Fundraising Machine:
-- [[The Outrage Fundraising Machine - How Controversy Becomes Cash]] — $12.5M raised in 2022, 72.7% from small-dollar donors. Every controversy generates a donation spike. The email list is the core asset; the controversies are the content. Raised nearly $5M in early 2024. Committee removal (2021) was her single largest fundraising trigger.
+- [[The Outrage Fundraising Machine - How Controversy Becomes Cash]], $12.5M raised in 2022, 72.7% from small-dollar donors. Every controversy generates a donation spike. The email list is the core asset; the controversies are the content. Raised nearly $5M in early 2024. Committee removal (2021) was her single largest fundraising trigger.
 
 ### The Family Wealth Base:
-- Taylor Commercial: father's commercial construction company, Georgia-based. Greene managed it for years. Government contracts constitute part of the revenue base — the same government she rhetorically attacks. Net worth estimated at several million dollars prior to her congressional salary.
+- Taylor Commercial: father's commercial construction company, Georgia-based. Greene managed it for years. Government contracts constitute part of the revenue base, the same government she rhetorically attacks. Net worth estimated at several million dollars prior to her congressional salary.
 
 ### The MAGA Ecosystem:
-- Trump donor network, right-wing media ecosystem (Fox News, OAN, Newsmax, podcasts), and affiliated PACs. Greene is the House face of the MAGA brand — not its ideological architect but its most visible cultural performer.
+- Trump donor network, right-wing media ecosystem (Fox News, OAN, Newsmax, podcasts), and affiliated PACs. Greene is the House face of the MAGA brand, not its ideological architect but its most visible cultural performer.
 
 ---
 
@@ -83,9 +83,9 @@ The committee stripping followed.
 
 **February 2021:** Stripped of Education and Labor Committee and Budget Committee assignments. First member stripped of assignments since 1979. The full House voted 230–199.
 
-**January 2023:** When Republicans took the majority, Greene was reinstated — given assignments to the Homeland Security Committee and the Oversight Committee. Speaker McCarthy rewarded her loyalty.
+**January 2023:** When Republicans took the majority, Greene was reinstated, given assignments to the Homeland Security Committee and the Oversight Committee. Speaker McCarthy rewarded her loyalty.
 
-**2024:** Filed a motion to oust Speaker Johnson — the same weapon Gaetz used against McCarthy. The motion failed. Greene did not have the votes McCarthy had (all Democrats voting with a handful of Republicans). Johnson survived.
+**2024:** Filed a motion to oust Speaker Johnson, the same weapon Gaetz used against McCarthy. The motion failed. Greene did not have the votes McCarthy had (all Democrats voting with a handful of Republicans). Johnson survived.
 
 The reinstatement-then-ouster-attempt cycle demonstrates the logic of the chaos function: institutional power is accepted when useful, attacked when it produces insufficient extremism.
 
@@ -95,34 +95,34 @@ The reinstatement-then-ouster-attempt cycle demonstrates the logic of the chaos 
 
 Greene aligned with the Department of Government Efficiency (DOGE) framework and Trump's deregulatory agenda. Her positioning as a DOGE supporter represents the QAnon-to-MAGA mainstreaming pipeline: the conspiracy theory framework (compromised deep state controlling the government) is converted into policy language (bureaucratic waste and misconduct) that accomplishes the same donor-class deregulatory goals through different optics.
 
-- [[From QAnon to DOGE - The Mainstreaming Pipeline]] — the ideological evolution from conspiracy theory to deregulatory policy, and how the MAGA movement converted fringe beliefs into governing agenda
+- [[From QAnon to DOGE - The Mainstreaming Pipeline]], the ideological evolution from conspiracy theory to deregulatory policy, and how the MAGA movement converted fringe beliefs into governing agenda
 
 ---
 
 ## Donation-to-Policy Timeline
 
-*Note: MTG inverts the normal donor model — she manufactures controversy that drives small-dollar fundraising rather than doing favors for large donors. The donors ARE the base. 72.7% from small-dollar donors.*
+*Note: MTG inverts the normal donor model, she manufactures controversy that drives small-dollar fundraising rather than doing favors for large donors. The donors ARE the base. 72.7% from small-dollar donors.*
 
 #### MAGA Small-Dollar / Outrage Fundraising
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2021-02 | MAGA small-dollar donors — persecution narrative after committee removal | $3.2M raised in 24 hours (MAGA record at time) | 2021-02 (triggered by committee stripping) | House committee removal becomes single largest fundraising event; the lesson: controversy generates cash; she has applied it systematically ever since |
-| 2024-05 | Trump small-dollar network + MAGA donor base | $10M+ 2024 cycle (72.7% small-dollar) | 2024 (ongoing cycle) | Oversight Committee investigations on Democratic officials and "deep state" — reward to MAGA donor base for continued small-dollar funding |
+| 2021-02 | MAGA small-dollar donors, persecution narrative after committee removal | $3.2M raised in 24 hours (MAGA record at time) | 2021-02 (triggered by committee stripping) | House committee removal becomes single largest fundraising event; the lesson: controversy generates cash; she has applied it systematically ever since |
+| 2024-05 | Trump small-dollar network + MAGA donor base | $10M+ 2024 cycle (72.7% small-dollar) | 2024 (ongoing cycle) | Oversight Committee investigations on Democratic officials and "deep state", reward to MAGA donor base for continued small-dollar funding |
 
 #### Trump Endorsement Machine
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2020-11 | Trump endorsement — the single most valuable political asset for MAGA fundraising activation | Endorsement (worth $3M+ in small-dollar activation) | 2020-Q2 | MTG wins GA-14; becomes first QAnon-adjacent member of Congress; signals MAGA donor base that conspiratorial politics is now viable |
+| 2020-11 | Trump endorsement, the single most valuable political asset for MAGA fundraising activation | Endorsement (worth $3M+ in small-dollar activation) | 2020-Q2 | MTG wins GA-14; becomes first QAnon-adjacent member of Congress; signals MAGA donor base that conspiratorial politics is now viable |
 | 2022-03 | Trump re-election endorsement: "MTG is a warrior" | Endorsement + $5M+ cycle | 2022 | Each Trump endorsement ($3M-5M small-dollar activation) monetized by being Trump's most reliable House enforcer |
 
 #### MAGA Megadonors / Thiel Network
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2023-10 | [[Peter Thiel]]-backed Restore America PAC + MAGA megadonors opposed to McCarthy's "deals" | $1M+ to MTG-aligned candidates | 2021-2022 | MTG files motion to vacate against McCarthy — first Speaker removal in House history; MAGA enforcer role cemented |
-| 2024-05 | MAGA donor-threat mechanism (motion to vacate as leverage) | Leverage, not direct funding | 2024 | MTG files motion to vacate against Johnson — withdrawn after Trump signals support; demonstrates she controls the MAGA donor-threat mechanism over the Speaker |
+| 2023-10 | [[Peter Thiel]]-backed Restore America PAC + MAGA megadonors opposed to McCarthy's "deals" | $1M+ to MTG-aligned candidates | 2021-2022 | MTG files motion to vacate against McCarthy, first Speaker removal in House history; MAGA enforcer role cemented |
+| 2024-05 | MAGA donor-threat mechanism (motion to vacate as leverage) | Leverage, not direct funding | 2024 | MTG files motion to vacate against Johnson, withdrawn after Trump signals support; demonstrates she controls the MAGA donor-threat mechanism over the Speaker |
 
 > [!money] The Damning Sequences
 > **The persecution-fundraising loop:** House committee removal (Feb 2021) → $3.2M raised in 24 hours. MTG's political model inverts the normal donor relationship: she manufactures controversy that drives small-dollar fundraising rather than doing favors for large donors. The donors ARE the base.
@@ -145,22 +145,22 @@ Greene is the right-wing mirror of the progressive small-dollar fundraising mode
 
 ## Analytical Patterns
 
-**The Genuine Win + Structural Limit** — Greene's procedural obstruction (amendment bombs, motion to vacate) produces real institutional chaos that paralyzes House function, benefiting the deregulatory donor class by making new regulation impossible. But her obstruction stops short of threatening her own family's government-dependent construction business (Taylor Commercial).
+**The Genuine Win + Structural Limit**. Greene's procedural obstruction (amendment bombs, motion to vacate) produces real institutional chaos that paralyzes House function, benefiting the deregulatory donor class by making new regulation impossible. But her obstruction stops short of threatening her own family's government-dependent construction business (Taylor Commercial).
 
-**The Villain Framing** — Greene blames the "deep state," "woke" institutions, and Democratic "elites" as external villains threatening freedom and traditional values. This deflects from examining her actual material position: millionaire heiress born to construction industry wealth dependent on government contracts. The villain is bureaucratic overreach; the beneficiary (construction industry, deregulatory interests) remains hidden.
+**The Villain Framing**. Greene blames the "deep state," "woke" institutions, and Democratic "elites" as external villains threatening freedom and traditional values. This deflects from examining her actual material position: millionaire heiress born to construction industry wealth dependent on government contracts. The villain is bureaucratic overreach; the beneficiary (construction industry, deregulatory interests) remains hidden.
 
-**The Two-Audience Problem** — Greene performs as an anti-establishment populist fighting for ordinary people to her MAGA base, while her actual governance record serves concentrated wealth through obstruction and deregulation. Her cultural confrontation keeps constituent attention on culture war rather than the economic class structure that positions her as wealthy while her supporters remain working-class.
+**The Two-Audience Problem**. Greene performs as an anti-establishment populist fighting for ordinary people to her MAGA base, while her actual governance record serves concentrated wealth through obstruction and deregulation. Her cultural confrontation keeps constituent attention on culture war rather than the economic class structure that positions her as wealthy while her supporters remain working-class.
 
-**The Pilot Program** — Greene's controversial statements and actions serve as demonstrations of MAGA loyalty rather than substantive policy. Each controversy generates small-dollar donations, but produces no legislative output or policy advancement — the controversy itself is the product.
+**The Pilot Program**. Greene's controversial statements and actions serve as demonstrations of MAGA loyalty rather than substantive policy. Each controversy generates small-dollar donations, but produces no legislative output or policy advancement, the controversy itself is the product.
 
 ---
 
 ## Rhetorical Signature Moves
 
-1. **The confrontation as content:** Greene is skilled at creating confrontational moments — ambushing colleagues in hallways, screaming at reporters, filing politically targeted motions — that generate media coverage, which generates donation emails, which generate cash.
+1. **The confrontation as content:** Greene is skilled at creating confrontational moments, ambushing colleagues in hallways, screaming at reporters, filing politically targeted motions, that generate media coverage, which generates donation emails, which generate cash.
 2. **The Trump mirror:** Greene's central identity is loyalty to Trump. Every Trump position she amplifies; every Trump enemy she attacks. This keeps her in Trump's favor and in the MAGA media ecosystem simultaneously.
 3. **The ordinary American appeal:** Despite her construction company wealth and CrossFit brand, Greene consistently frames herself as a regular person fighting for regular people against elites. The cultural signifiers (Southern accent, direct talk, gym culture) do the work of concealing the class position.
-4. **The victimhood fundraiser:** Committee stripping, censure attempts, media attacks — each are immediately converted into fundraising emails. Being persecuted by the establishment is the product she sells to the MAGA small-dollar base.
+4. **The victimhood fundraiser:** Committee stripping, censure attempts, media attacks, each are immediately converted into fundraising emails. Being persecuted by the establishment is the product she sells to the MAGA small-dollar base.
 
 ---
 

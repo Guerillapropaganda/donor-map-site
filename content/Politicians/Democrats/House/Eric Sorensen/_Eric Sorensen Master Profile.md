@@ -1,5 +1,5 @@
 ---
-title: "Eric Sorensen Master Profile"
+title: "Eric Sorensen"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -61,13 +61,13 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### Who They Are
 
-[[George Soros]] is a Hungarian-American investor and philanthropist with an estimated net worth of $6.7 billion as of 2024, down from his peak of $28 billion in 2015 due to extensive charitable giving. Soros built his wealth through currency speculation, most famously "breaking the Bank of England" in 1992 by shorting the pound sterling when it was overvalued within the European Exchange Rate Mechanism — earning $1 billion in a single day. After managing the Quantum Fund for four decades, Soros increasingly shifted focus to philanthropy and political influence beginning in the 1980s. His career trajectory represents the transformation from pure financial speculation to billionaire-driven social engineering through strategic political spending.
+[[George Soros]] is a Hungarian-American investor and philanthropist with an estimated net worth of $6.7 billion as of 2024, down from his peak of $28 billion in 2015 due to extensive charitable giving. Soros built his wealth through currency speculation, most famously "breaking the Bank of England" in 1992 by shorting the pound sterling when it was overvalued within the European Exchange Rate Mechanism, earning $1 billion in a single day. After managing the Quantum Fund for four decades, Soros increasingly shifted focus to philanthropy and political influence beginning in the 1980s. His career trajectory represents the transformation from pure financial speculation to billionaire-driven social engineering through strategic political spending.
 
 ---
 
 ### What They Want
 
-Soros's stated political vision centers on "liberal democracy" — a framework emphasizing civil liberties, free press, and institutional rule of law. His actual spending patterns reveal a secondary priority: **preventing right-wing political dominance in the United States.** Soros donated $24.5 million in the 2024 cycle alone to Democratic infrastructure, with a documented strategy shift beginning in 2025: moving capital from federal politics toward **state-level judicial elections**, particularly in swing states where Republican state courts have begun overturning progressive precedents.
+Soros's stated political vision centers on "liberal democracy", a framework emphasizing civil liberties, free press, and institutional rule of law. His actual spending patterns reveal a secondary priority: **preventing right-wing political dominance in the United States.** Soros donated $24.5 million in the 2024 cycle alone to Democratic infrastructure, with a documented strategy shift beginning in 2025: moving capital from federal politics toward **state-level judicial elections**, particularly in swing states where Republican state courts have begun overturning progressive precedents.
 
 His effective altruism-adjacent framing positions political spending as defending "democratic institutions" rather than consolidating billionaire class power. This rhetorical move is distinctive to liberal billionaires: conservative donors (Koch, Adelson) frame giving as "market freedom" while liberal donors (Soros, Bloomberg) frame identical activities as defending "democracy."
 
@@ -78,14 +78,14 @@ His effective altruism-adjacent framing positions political spending as defendin
 ### Federal Democratic Infrastructure (Primary Legacy)
 - [[Senate Majority PAC|Senate Majority PAC]] (501c4 dark money): $15.3M (2024) as largest single donor
 - [[House Majority PAC|House Majority PAC]] (501c4 dark money): $4.2M (2024)
-- [[Future Forward USA Action|Future Forward USA Action]] (superPAC): $3.8M (2024) — coordinate with Moskovitz-led vehicle
+- [[Future Forward USA Action|Future Forward USA Action]] (superPAC): $3.8M (2024), coordinate with Moskovitz-led vehicle
 - Democratic Senatorial Campaign Committee (direct): $500K (2024)
 - Democratic Senatorial Campaign Committee (Soros-controlled Democracy PAC): $125M designated toward Senate races through 2025
 
 ### State-Level Judicial Elections (New Strategy 2025-2026)
 - Wisconsin state court elections: $2M committed (March 2025) to defeat Republican judicial candidates
 - Michigan state courts: $1.5M (2024-2025) following abortion rights ballot initiative victory
-- Pennsylvania Supreme Court: $2.3M (2024) — successful defense against Republican takeover attempt
+- Pennsylvania Supreme Court: $2.3M (2024), successful defense against Republican takeover attempt
 - Nevada state judicial races: emerging focus for 2026
 
 ### justice system Reform Through DA Elections
@@ -112,9 +112,9 @@ Wisconsin's 2025 state court election (following Soros funding) represents a new
 
 ### The Contradiction: "Democracy Defender" Using Identical Mechanisms He Opposes
 
-Soros has been a consistent critic of dark money in American politics, emphasizing that unlimited anonymous political spending undermines democratic accountability. The [[Open Society Foundations]]' public statements repeatedly condemn Citizens United and call for campaign finance reform. Simultaneously, Soros funnels $15+ million annually through [[Senate Majority PAC|Senate Majority PAC]] and [[House Majority PAC|House Majority PAC]] — 501c4 dark money vehicles that operate identically to Republican dark money organizations and refuse to disclose donors.
+Soros has been a consistent critic of dark money in American politics, emphasizing that unlimited anonymous political spending undermines democratic accountability. The [[Open Society Foundations]]' public statements repeatedly condemn Citizens United and call for campaign finance reform. Simultaneously, Soros funnels $15+ million annually through [[Senate Majority PAC|Senate Majority PAC]] and [[House Majority PAC|House Majority PAC]], 501c4 dark money vehicles that operate identically to Republican dark money organizations and refuse to disclose donors.
 
-The contradiction is not accidental — it's structural. Soros and his advisors argue that unilateral Democratic disarmament would hand power to Republicans using dark money. This is strategically rational within the current system, but it requires accepting the political logic that unlimited billionaire spending is necessary. By arguing "we must do it because they do it," Soros validates the very system he claims to oppose.
+The contradiction is not accidental, it's structural. Soros and his advisors argue that unilateral Democratic disarmament would hand power to Republicans using dark money. This is strategically rational within the current system, but it requires accepting the political logic that unlimited billionaire spending is necessary. By arguing "we must do it because they do it," Soros validates the very system he claims to oppose.
 
 A secondary contradiction emerged sharply during the 2022-2024 period: Soros's [[Open Society Foundations]] funded organizations criticizing billionaire influence in politics, while simultaneously deploying unprecedented billionaire spending on Democratic infrastructure. The institutional cognitive dissonance is striking: Open Society grants to Campaign Legal Center (campaign finance reform advocacy) and Common Cause (dark money criticism) coexist with Soros's $15M+ annual dark money spending.
 
@@ -147,12 +147,12 @@ The 2025 strategy shift from federal politics to state judicial elections reveal
 ### Sources
 
 - [FEC: George Soros individual contributions 2004-2024](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=soros) (Tier 1) (VERIFIED)
-- ~~[OpenSecrets: Senate Majority PAC spending 2024](https://www.opensecrets.org/groups/240364)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[OpenSecrets: George Soros donor profile](https://www.opensecrets.org/donor/top/soros-george)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[OpenSecrets: Senate Majority PAC spending 2024](https://www.opensecrets.org/groups/240364)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: George Soros donor profile](https://www.opensecrets.org/donor/top/soros-george)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [ProPublica: "George Soros's Quiet Influence on U.S. justice system"](https://www.propublica.org/article/police-politicians-undermined-reform-prosecutors-chicago-philadelphia) (Tier 2) (VERIFIED)
-- ~~[Wall Street Journal: "George Soros Is Done Trying to Change the World"](https://www.wsj.com/articles/george-soros-says-he-is-done-trying-to-change-the-world-11581961205)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[New York Times: "George Soros Is Giving His Billions to Democrats. And They're Nervous."](https://www.nytimes.com/2023/10/17/us/politics/soros-donations-democrats.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[Wisconsin State Journal: "Soros gives $2M to Wisconsin state court elections 2025"](https://madison.com/news/local/government-and-politics/elections)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[Wall Street Journal: "George Soros Is Done Trying to Change the World"](https://www.wsj.com/articles/george-soros-says-he-is-done-trying-to-change-the-world-11581961205)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[New York Times: "George Soros Is Giving His Billions to Democrats. And They're Nervous."](https://www.nytimes.com/2023/10/17/us/politics/soros-donations-democrats.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Wisconsin State Journal: "Soros gives $2M to Wisconsin state court elections 2025"](https://madison.com/news/local/government-and-politics/elections)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Open Society Foundations: Annual reports and grant databases](https://www.opensocietyfoundations.org/publications) (Tier 1) (VERIFIED)
 
 ---

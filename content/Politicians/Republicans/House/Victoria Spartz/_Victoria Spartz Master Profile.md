@@ -1,5 +1,5 @@
 ---
-title: "Victoria Spartz Master Profile"
+title: "Victoria Spartz"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

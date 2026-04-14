@@ -30,7 +30,7 @@ donors: [[GEO Group]] · [[Ballard Partners]]
 | Letitia James | Indicted | NY AG; won $454M misconduct judgment against Trump |
 | Eric Adams | Corruption charges dismissed | Adams cooperated on immigration enforcement |
 
-The pattern: Trump's political opponents are indicted. Trump's political allies receive favorable treatment. The DOJ's prosecutorial discretion — theoretically independent of political influence — operates as an extension of the White House's political strategy.
+The pattern: Trump's political opponents are indicted. Trump's political allies receive favorable treatment. The DOJ's prosecutorial discretion, theoretically independent of political influence, operates as an extension of the White House's political strategy.
 
 ---
 
@@ -55,19 +55,19 @@ While the political prosecutions draw attention, the DOJ's enforcement posture t
 - **[[GEO Group|GEO Group]]:** Former Bondi client. Profits from ICE expansion. No recusal.
 - **Ballard Partners:** Former Bondi employer. Continues to lobby DOJ. No restrictions after February 2026.
 - **Pfizer:** Bondi provided legal services. Pfizer involved in 5 DOJ investigations. Public Citizen requested oversight hearing.
-- **Warner Bros./Netflix-Paramount:** Ballard Partners represents these entities. Ethics agreement restricts Bondi involvement — until it expires.
+- **Warner Bros./Netflix-Paramount:** Ballard Partners represents these entities. Ethics agreement restricts Bondi involvement, until it expires.
 
-The political prosecutions are visible. The enforcement gaps — cases not brought, investigations not pursued, subpoenas not issued against donor-class interests — are invisible by design.
+The political prosecutions are visible. The enforcement gaps, cases not brought, investigations not pursued, subpoenas not issued against donor-class interests, are invisible by design.
 
 ---
 
 ### The Epstein Investigation
 
-House Oversight Chair James Comer subpoenaed Bondi (March 2026) to testify on DOJ's handling of the Jeffrey Epstein investigation. The inquiry investigated "possible mismanagement" of the federal probe. Bondi was criticized for "willfully looking the other way" — a charge that echoes her Florida AG pattern: aggressive enforcement in some areas, conspicuous inaction in others.
+House Oversight Chair James Comer subpoenaed Bondi (March 2026) to testify on DOJ's handling of the Jeffrey Epstein investigation. The inquiry investigated "possible mismanagement" of the federal probe. Bondi was criticized for "willfully looking the other way", a charge that echoes her Florida AG pattern: aggressive enforcement in some areas, conspicuous inaction in others.
 
 ---
 
 ### Sources
 
-- [Public Citizen: Conflicted Justice — Bondi lobbying conflicts report](https://www.citizen.org/article/conflicted-justice/) (Tier 2) (VERIFIED)
+- [Public Citizen: Conflicted Justice. Bondi lobbying conflicts report](https://www.citizen.org/article/conflicted-justice/) (Tier 2) (VERIFIED)
 - [Senator Warren: Demand Bondi recuse from Warner Bros. deal review](https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-demand-bondi-recuse-from-warner-bros-deal-review-amid-apparent-conflicts-of-interest-trump-doj-cloud-of-corruption) (Tier 1) (VERIFIED)

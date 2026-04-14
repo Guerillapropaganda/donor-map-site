@@ -16,21 +16,21 @@ related: "[[Owen Jones]]"
 
 ### Who They Are
 
-UK left media outlet founded June 2011 from UK student protests by Aaron Bastani and Ash Sarkar (James Butler co-founder). ~15,000 monthly donors. Est. annual revenue £1.5-1.7M. 25 staff, all earning flat £19/hour (~£31,600/year), 32-hour weeks. Corporate structure: Thousand Hands Ltd (company 11245029), private company limited by guarantee — no shareholders, no dividends. Net worth £407,140, cash £455,670.
+UK left media outlet founded June 2011 from UK student protests by Aaron Bastani and Ash Sarkar (James Butler co-founder). ~15,000 monthly donors. Est. annual revenue £1.5-1.7M. 25 staff, all earning flat £19/hour (~£31,600/year), 32-hour weeks. Corporate structure: Thousand Hands Ltd (company 11245029), private company limited by guarantee, no shareholders, no dividends. Net worth £407,140, cash £455,670.
 
 ### The Funding Model
 
-Direct individual donations: 76-89% of income. YouTube ads: 16%. Merch and events: 8%. Foundation funding negligible: £3,000 from Barry Amiel and Norman Melburn Trust (2016), £2,000 (2019). No Patreon — donations through own website (avoiding platform fees). Regulated by IMPRESS (UK independent press regulator). UK context matters: UK charity law doesn't recognize journalism as charitable purpose, so the US foundation-dependency model is structurally unavailable.
+Direct individual donations: 76-89% of income. YouTube ads: 16%. Merch and events: 8%. Foundation funding negligible: £3,000 from Barry Amiel and Norman Melburn Trust (2016), £2,000 (2019). No Patreon, donations through own website (avoiding platform fees). Regulated by IMPRESS (UK independent press regulator). UK context matters: UK charity law doesn't recognize journalism as charitable purpose, so the US foundation-dependency model is structurally unavailable.
 
 This funding model is the cleanest of any left media operation analyzed. No external capital, no institutional alignment, no individual mega-donor controlling the outlet.
 
 ### FEC Record
 
-Status: N/A — UK organization; ineligible for U.S. federal campaign contributions.
+Status: N/A. UK organization; ineligible for U.S. federal campaign contributions.
 
 ### Who Funds Them
 
-15,000 monthly donors providing 76-89% of revenue. Total foundation grants across 15 years: approximately £5,000 (Barry Amiel Trust only). The cleanest funding model in this entire batch. UK media context: 90% of newspaper market controlled by three companies (Media Reform Coalition data) — Novara exists in the structural gaps created by corporate consolidation.
+15,000 monthly donors providing 76-89% of revenue. Total foundation grants across 15 years: approximately £5,000 (Barry Amiel Trust only). The cleanest funding model in this entire batch. UK media context: 90% of newspaper market controlled by three companies (Media Reform Coalition data). Novara exists in the structural gaps created by corporate consolidation.
 
 ### What They Push
 
@@ -38,7 +38,7 @@ Democratic socialism, Labour left politics, anti-austerity. During Corbyn era (2
 
 ### The Audience Capture Model
 
-UK left-leaning 25-34 year olds. Content stays within audience's ideological comfort zone. The flat pay structure (£19/hr for everyone) is the most egalitarian model in this entire analysis — no editorial class capturing outsized compensation. Staff are not incentivized to ascend a prestige hierarchy; they are incentivized to keep the outlet functioning and the mission aligned.
+UK left-leaning 25-34 year olds. Content stays within audience's ideological comfort zone. The flat pay structure (£19/hr for everyone) is the most egalitarian model in this entire analysis, no editorial class capturing outsized compensation. Staff are not incentivized to ascend a prestige hierarchy; they are incentivized to keep the outlet functioning and the mission aligned.
 
 Vulnerability: YouTube platform dependency. October 2021, YouTube terminated Novara's channel (BBC covered the story); reinstatement came after three days but exposed the fragility of platform-dependent media.
 
@@ -48,15 +48,15 @@ Left media infrastructure in a UK market dominated by three corporations. Corbyn
 
 ### Class Analysis
 
-Novara is the most structurally independent outlet in this batch alongside Jacobin. The UK context — no foundation funding available for journalism, no US-style dark money infrastructure, regulated by IMPRESS rather than subject to corporate media consolidation — creates independence by exclusion rather than choice.
+Novara is the most structurally independent outlet in this batch alongside Jacobin. The UK context, no foundation funding available for journalism, no US-style dark money infrastructure, regulated by IMPRESS rather than subject to corporate media consolidation, creates independence by exclusion rather than choice.
 
 The flat pay structure (all staff earning £19/hr) means no one at Novara earns enough to join the professional-managerial class their audience belongs to. Staff are younger, less compensated, and more ideologically committed than counterparts at foundation-funded outlets. The trade-off: less institutional stability. Two structural vulnerabilities: YouTube platform dependency (channel terminated 2021, reinstated after 3 days) and libel exposure (Gary Lubner case, 2024, where Novara admitted "failed in its duties").
 
-Unlike Richardson (subscriber-captured), Novara faces direct donor alignment risk — 15,000 donors giving money for "democratic socialism" content could withdraw support if Novara shifted right. But this is still weaker than foundation capture because donors are numerous, small-dollar, and easily replaceable. The model creates audience-donor alignment rather than single-funder control.
+Unlike Richardson (subscriber-captured), Novara faces direct donor alignment risk, 15,000 donors giving money for "democratic socialism" content could withdraw support if Novara shifted right. But this is still weaker than foundation capture because donors are numerous, small-dollar, and easily replaceable. The model creates audience-donor alignment rather than single-funder control.
 
 ### Capture Architecture
 
-Revenue: 76-89% crowdfunding + 16% YouTube ads + 8% events/merch. Platform: YouTube (primary video), own website (donations), Instagram, Twitter. Editorial red line: post-Corbyn UK left positioning — cannot stray right of Labour without losing donor base; cannot strongly criticize Corbyn without losing audience. Vulnerabilities: YouTube dependency, UK libel law, small-dollar volatility if donors defect en masse.
+Revenue: 76-89% crowdfunding + 16% YouTube ads + 8% events/merch. Platform: YouTube (primary video), own website (donations), Instagram, Twitter. Editorial red line: post-Corbyn UK left positioning, cannot stray right of Labour without losing donor base; cannot strongly criticize Corbyn without losing audience. Vulnerabilities: YouTube dependency, UK libel law, small-dollar volatility if donors defect en masse.
 
 > [!money]
 > £1.5-1.7M annual revenue across 15,000 monthly donors is ~£100-113 per donor per year. Losing 5% of donors costs £75-85K annually (5% of total budget). This creates incentives toward donor-base stability but not top-down control. Unlike foundation funding, donor diversity reduces single-point-of-failure capture. Unlike Substack (Richardson), YouTube ads are volatile and subject to platform policy changes (demonstrated 2021).
@@ -80,7 +80,7 @@ Revenue: 76-89% crowdfunding + 16% YouTube ads + 8% events/merch. Platform: YouT
 - [Novara Media: funding page](https://novaramedia.com/about/how-we-are-funded/) (Tier 3) (VERIFIED)
 - [Press Gazette: Novara supporters scale](https://pressgazette.co.uk/publishers/digital-journalism/novara-media-15000-supporters-youtube-events-north-editor-craig-gent/) (Tier 2) (VERIFIED)
 - [Companies House: Thousand Hands Ltd](https://find-and-update.company-information.service.gov.uk/company/11245029) (Tier 1) (VERIFIED)
-- ~~[Company Check: Thousand Hands financial data](https://companycheck.co.uk/company/11245029/THOUSAND-HANDS-LTD/companies-house-data)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Company Check: Thousand Hands financial data](https://companycheck.co.uk/company/11245029/THOUSAND-HANDS-LTD/companies-house-data)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [InfluenceWatch: Novara Media profile](https://www.influencewatch.org/for-profit/novara-media/) (Tier 3) (VERIFIED)
 - [BBC: YouTube termination coverage](https://www.bbc.com/news/technology-59052155) (Tier 2) (VERIFIED)
 - [Media Reform Coalition: UK media ownership](https://www.mediareform.org.uk/wp-content/uploads/2023/10/Who-Owns-the-UK-Media-2023.pdf) (Tier 2) (VERIFIED)

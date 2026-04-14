@@ -1,5 +1,5 @@
 ---
-title: "Zach Wahls Master Profile"
+title: "Zach Wahls"
 type: state-politician
 current-office: "Iowa State Senator (2019–present)"
 candidate-for: "US Senate 2026 (IA, Democratic primary)"
@@ -9,7 +9,7 @@ last-updated: '2026-04-11'
 source-tier: 1
 parent: null
 party: "Democrat"
-chamber: "Senate"  # refers to the federal race he is running in, not a current seat
+chamber: "Senate" # refers to the federal race he is running in, not a current seat
 state: "Iowa"
 state-abbr: "IA"
 top-donors:
@@ -24,7 +24,7 @@ known-gaps:
   - "Top-donor industry breakdown beyond 'progressive donor networks' generic label"
 related: "[[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[2026 Senate Primary Races]] · [[Iowa Long Shot and the Rural Democrat Question]]"
 last-enriched: "2026-04-10"
-internal-notes: "[JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
+internal-notes: "[JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID , same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
 ---
 #zach-wahls #iowa #senate #2026 #progressive #same-sex-parents #rural-democrat #warren-endorsed #class-analysis
 
@@ -60,7 +60,7 @@ Zach Wahls' political identity is anchored to a single moment: his testimony bef
 
 ### The testimony (summary):
 - Addressed his two mothers
-- Stated "My family really isn't so different from yours" — the central claim
+- Stated "My family really isn't so different from yours", the central claim
 - Defended his mothers' relationship and family as stable, loving, functional
 - Argued that the amendment would harm families like his
 - Delivered with youthful earnestness and directness that resonated across demographics
@@ -199,15 +199,15 @@ The 2026 general election will likely pit Wahls against Republican incumbent Jon
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2011-01 | Zero campaign funding — pure activist credential from viral Iowa House testimony defending same-sex marriage (15M+ YouTube views by 2012) | $0 campaign; 15M+ views | January 31, 2011 | DNC Convention speech (2012); national LGBTQ+ advocacy profile established; political identity anchored to single authentic moment |
-| 2018 | Local donor base — Democratic-leaning District 37 (Coralville, college-town progressive) | State-level campaign fundraising | 2018 | Elected Iowa state senator; transitions from activist to electoral politics; represents island of blue in increasingly red state |
+| 2011-01 | Zero campaign funding, pure activist credential from viral Iowa House testimony defending same-sex marriage (15M+ YouTube views by 2012) | $0 campaign; 15M+ views | January 31, 2011 | DNC Convention speech (2012); national LGBTQ+ advocacy profile established; political identity anchored to single authentic moment |
+| 2018 | Local donor base. Democratic-leaning District 37 (Coralville, college-town progressive) | State-level campaign fundraising | 2018 | Elected Iowa state senator; transitions from activist to electoral politics; represents island of blue in increasingly red state |
 
 #### Warren Endorsement / Small-Dollar Long-Shot Model
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2025-06 | Small-dollar donors — retirees and teachers as top donor occupations; $400K first-day haul (claimed Iowa Senate record) | $400K first day; $1.3M total by fall 2025 | June 11, 2025 launch | Warren endorses — unlocks progressive donor network for Iowa long-shot; fundraising far below competitive threshold ($10-20M typical) |
-| 2025-2026 | National progressive money question — $1.3M vs. opponent's $4M+ with Senate Leadership Fund backing ($5.2M committed) | $1.3M total; structural 3:1 fundraising disadvantage | 2025-2026 (ongoing) | Tests whether progressive identity politics + small-dollar model can compete in deep-red territory; Iowa's 8+ point Trump margin suggests structural ceiling regardless of funding |
+| 2025-06 | Small-dollar donors, retirees and teachers as top donor occupations; $400K first-day haul (claimed Iowa Senate record) | $400K first day; $1.3M total by fall 2025 | June 11, 2025 launch | Warren endorses, unlocks progressive donor network for Iowa long-shot; fundraising far below competitive threshold ($10-20M typical) |
+| 2025-2026 | National progressive money question, $1.3M vs. opponent's $4M+ with Senate Leadership Fund backing ($5.2M committed) | $1.3M total; structural 3:1 fundraising disadvantage | 2025-2026 (ongoing) | Tests whether progressive identity politics + small-dollar model can compete in deep-red territory; Iowa's 8+ point Trump margin suggests structural ceiling regardless of funding |
 
 > [!money] The Damning Sequences
 > **The long-shot funding question (2025-2026):** Wahls has raised $1.3M for a Senate race that typically requires $10-20M. His Republican opponent (Hinson) has $4M+ and [[Senate Leadership Fund|Senate Leadership Fund]] backing ($5.2M committed). Warren's endorsement provides progressive credibility but may not translate to competitive fundraising in a state Trump won by 8+ points. The fundamental question: is Wahls a genuine Senate contender funded by progressive donors, or a progressive cause célèbre whose campaign exists primarily to mobilize national donor signaling without realistic electoral path?
@@ -247,9 +247,9 @@ The answer to this question will determine whether Wahls' campaign is a serious 
 
 ## Analytical Patterns
 
-**The Pilot Program** — Wahls' 2011 viral testimony functioned as a pilot program for LGBTQ+ rights advocacy, demonstrating that direct, personal appeals around family rights could mobilize voters and reshape cultural conversation. His 2018 state senate election victory demonstrated that this model could work locally in a blue-leaning district. However, the 2026 Senate campaign tests whether pilot programs scale: can identity-based advocacy around family rights mobilize voters in a state that decisively rejected Democrats in 2016 and 2020? The structural question is whether cultural progressivism translates to electoral viability in electorally hostile territory, or whether it remains limited to favorable environments.
+**The Pilot Program**. Wahls' 2011 viral testimony functioned as a pilot program for LGBTQ+ rights advocacy, demonstrating that direct, personal appeals around family rights could mobilize voters and reshape cultural conversation. His 2018 state senate election victory demonstrated that this model could work locally in a blue-leaning district. However, the 2026 Senate campaign tests whether pilot programs scale: can identity-based advocacy around family rights mobilize voters in a state that decisively rejected Democrats in 2016 and 2020? The structural question is whether cultural progressivism translates to electoral viability in electorally hostile territory, or whether it remains limited to favorable environments.
 
-**The Two-Audience Problem** — Wahls must maintain authenticity with national progressive donors and LGBTQ+ communities who are investing in his long-shot Iowa campaign, while simultaneously performing viability to Iowa voters skeptical of identity politics framing and Democratic politics more broadly. His family story is powerful in progressive contexts; it may alienate rural conservative voters who view LGBTQ+ advocacy as threatening. The contradiction: he can't win a general election without Iowa voters, but his base's enthusiasm is partially rooted in cultural politics that Iowa voters may reject.
+**The Two-Audience Problem**. Wahls must maintain authenticity with national progressive donors and LGBTQ+ communities who are investing in his long-shot Iowa campaign, while simultaneously performing viability to Iowa voters skeptical of identity politics framing and Democratic politics more broadly. His family story is powerful in progressive contexts; it may alienate rural conservative voters who view LGBTQ+ advocacy as threatening. The contradiction: he can't win a general election without Iowa voters, but his base's enthusiasm is partially rooted in cultural politics that Iowa voters may reject.
 
 ---
 
@@ -260,10 +260,10 @@ The answer to this question will determine whether Wahls' campaign is a serious 
 - [Elizabeth Warren backs Zach Wahls in Iowa U.S. Senate race](https://www.thegazette.com/news/elections/elizabeth-warren-backs-zach-wahls-in-iowa-s-democratic-u-s-senate-primary/article_d360eb4e-edad-4493-b803-b4b21c77e7f0.html) (Tier 2) (VERIFIED)
 - [Democratic U.S. Senate candidates Zach Wahls, Josh Turek tout new endorsements](https://iowacapitaldispatch.com/2025/11/18/democratic-u-s-senate-candidates-zach-wahls-josh-turek-tout-new-endorsements/) (Tier 2)
 - [Zach Wahls, who defended his lesbian moms' right to marry, reflects on political victory](https://www.nbcnews.com/feature/nbc-out/zach-wahls-who-defended-his-lesbian-moms-right-marry-reflects-n935441) (Tier 2) (VERIFIED)
-- ~~[Democratic state Sen. Zach Wahls launches campaign for U.S. Senate held by Sen. Joni Ernst](https://www.iowapublicradio.org/political-news/2025-06-11/democrat-iowa-senator-zach-wahls-campaign-for-u-s-senate-held-by-sen-joni-ernst)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Democratic state Sen. Zach Wahls launches campaign for U.S. Senate held by Sen. Joni Ernst](https://www.iowapublicradio.org/political-news/2025-06-11/democrat-iowa-senator-zach-wahls-campaign-for-u-s-senate-held-by-sen-joni-ernst)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Zach Wahls – Iowa State Senator](https://repbio.org/zach-wahls/) (Tier 3) (VERIFIED)
 - [Ten years later, Zach Wahls reflects on 2011 viral speech about family](https://cbs2iowa.com/news/local/ten-years-later-zach-wahls-reflects-on-2011-viral-speech-about-family) (Tier 2) (VERIFIED)
-- ~~[FollowTheMoney.org: Zach Wahls Iowa Senate 2026](https://www.followthemoney.org/tools/election-overview?eid=46081947)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
+- ~~[FollowTheMoney.org: Zach Wahls Iowa Senate 2026](https://www.followthemoney.org/tools/election-overview?eid=46081947)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 1)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

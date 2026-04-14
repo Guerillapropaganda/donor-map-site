@@ -1,5 +1,5 @@
 ---
-title: John Fetterman Master Profile
+title: John Fetterman
 type: politician
 content-readiness: ready
 central-thesis: "John Fetterman's post-election transformation raises a fundamental question about authenticity in working-class populism: was the 2022 small-dollar, hoodie-wearing, anti-establishment brand genuine or electoral packaging designed to win a swing st..."
@@ -60,10 +60,10 @@ John Fetterman's post-election transformation raises a fundamental question abou
 ## Donor Class Map
 
 ### The Small-Dollar Myth and the Post-Election Shift:
-- [[The Small-Dollar Campaign and the Post-Election Drift]] — 2022: 53% of $48.5M from donations under $200; average contribution $27; 140,251 individual donors. Post-election: shift to AIPAC alignment ($250,000+ since election), Republican donor recruitment (April 2024 reporting), establishment figure integration. The small-dollar model was the vehicle; the destination was always donor alignment.
+- [[The Small-Dollar Campaign and the Post-Election Drift]], 2022: 53% of $48.5M from donations under $200; average contribution $27; 140,251 individual donors. Post-election: shift to AIPAC alignment ($250,000+ since election), Republican donor recruitment (April 2024 reporting), establishment figure integration. The small-dollar model was the vehicle; the destination was always donor alignment.
 
 ### The Pro-Israel Hardline and Progressive Betrayal:
-- [[The Israel Hardline and the Progressive Betrayal Question]] — Post-October 7, 2023: unconditional support for Israel with "no" conditions on military aid; AIPAC hosting in DC office (February 2026); declared willingness to support Israel regardless of Trump administration pressure; received ~$250K from pro-Israel donors since 2023. Pennsylvania progressives who funded 2022 campaign now report feeling betrayed.
+- [[The Israel Hardline and the Progressive Betrayal Question]]. Post-October 7, 2023: unconditional support for Israel with "no" conditions on military aid; AIPAC hosting in DC office (February 2026); declared willingness to support Israel regardless of Trump administration pressure; received ~$250K from pro-Israel donors since 2023. Pennsylvania progressives who funded 2022 campaign now report feeling betrayed.
 
 ### The Republican Donor Pivot:
 - Fetterman began attracting Republican donors in early 2024, coinciding with his Israel hardline and rightward positioning on immigration and crime. The intercept (April 2024) documented this shift as explicitly tied to his post-October 7 positioning.
@@ -88,24 +88,24 @@ John Fetterman's post-election transformation raises a fundamental question abou
 
 ## Donation-to-Policy Timeline
 
-*Note: Fetterman is the vault's clearest case of a donor base swap — the 2022 small-dollar grassroots base was replaced by an AIPAC-aligned and Republican donor network within 24 months of taking office.*
+*Note: Fetterman is the vault's clearest case of a donor base swap, the 2022 small-dollar grassroots base was replaced by an AIPAC-aligned and Republican donor network within 24 months of taking office.*
 
 #### Small-Dollar Model (2022 Campaign)
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2022-11 | Small-dollar grassroots donors — 140,251 individuals, avg $27 | $25.5M (53% of $48.5M total) | 2021-2022 | Fetterman elected on populist working-class platform: pro-union, anti-corporate, progressive positioning aligned with small-dollar base |
+| 2022-11 | Small-dollar grassroots donors, 140,251 individuals, avg $27 | $25.5M (53% of $48.5M total) | 2021-2022 | Fetterman elected on populist working-class platform: pro-union, anti-corporate, progressive positioning aligned with small-dollar base |
 | 2022-05 | Small-dollar surge continues through stroke recovery | Part of $48.5M total | 2022 (mid-campaign) | Stroke mid-campaign becomes authenticity narrative; continues race on populist platform; grassroots fundraising accelerates |
 
 #### Israel Lobby / AIPAC Pivot
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2023-10 | AIPAC-aligned and pro-Israel donor network | $250K+ cumulative since election | 2023-Q4 (post-October 7 surge) | Fetterman declares unconditional Israel support — "I'm not going to put conditions on aid"; complete break from progressive foreign policy positioning |
-| 2024-02 | Establishment/centrist donor network (shift from small-dollar base) | Part of donor base transition | 2023-2024 | Fetterman declares "I am not a progressive" — publicly distances from the 140,251 small-dollar donors who funded his campaign |
-| 2024-04 | Republican donors — recruited specifically via Israel hardline and immigration enforcement positioning | New GOP donor class documented by The Intercept | 2024 | Cross-party donor recruitment: Republican money flows to a Democratic senator because his Israel and immigration positions serve their donor class interests |
-| 2024-H1 | Law-enforcement donors + AIPAC network (immigration hawkishness aligns with pro-Israel donor preferences) | Part of donor base transition | 2024 | Immigration rhetoric shifts rightward — enforcement-focused framing replaces nuanced prosecutorial approach from AG tenure |
-| 2026-02 | AIPAC delegation (direct institutional relationship) | Advisory council positioning | 2025-2026 | Fetterman hosts AIPAC delegation in DC office; declares willingness to support Israel "regardless of Trump administration pressure" — donor relationship now fully institutionalized |
+| 2023-10 | AIPAC-aligned and pro-Israel donor network | $250K+ cumulative since election | 2023-Q4 (post-October 7 surge) | Fetterman declares unconditional Israel support, "I'm not going to put conditions on aid"; complete break from progressive foreign policy positioning |
+| 2024-02 | Establishment/centrist donor network (shift from small-dollar base) | Part of donor base transition | 2023-2024 | Fetterman declares "I am not a progressive", publicly distances from the 140,251 small-dollar donors who funded his campaign |
+| 2024-04 | Republican donors, recruited specifically via Israel hardline and immigration enforcement positioning | New GOP donor class documented by The Intercept | 2024 | Cross-party donor recruitment: Republican money flows to a Democratic senator because his Israel and immigration positions serve their donor class interests |
+| 2024-H1 | Law-enforcement donors + AIPAC network (immigration hawkishness aligns with pro-Israel donor preferences) | Part of donor base transition | 2024 | Immigration rhetoric shifts rightward, enforcement-focused framing replaces nuanced prosecutorial approach from AG tenure |
+| 2026-02 | AIPAC delegation (direct institutional relationship) | Advisory council positioning | 2025-2026 | Fetterman hosts AIPAC delegation in DC office; declares willingness to support Israel "regardless of Trump administration pressure", donor relationship now fully institutionalized |
 
 > [!money] The Damning Sequences
 > **⚠️ 12-month flag:** $25.5M from 140,251 small-dollar progressive donors (2021-2022) → unconditional Israel support, "not a progressive" declaration, Republican donor recruitment (2023-2024). The 140,251 individuals who funded his populist campaign received a senator who declared himself "not a progressive" within two years. The donor base swap is complete: progressive small-dollar donors funded the 2022 campaign; AIPAC and Republican donors fund the 2026 reelection positioning.
@@ -128,7 +128,7 @@ The Pennsylvania context matters: a $500K net-worth senator in a swing state is 
 
 ## Rhetorical Signature Moves
 
-1. **The anti-establishment aesthetic that masks establishment alignment:** Fetterman's hoodie and shorts are deployed as proof of authenticity and distance from power—yet they now serve as visual camouflage for hardline establishment positioning on Israel and immigration.
+1. **The anti-establishment aesthetic that masks establishment alignment:** Fetterman's hoodie and shorts are deployed as proof of authenticity and distance from power, yet they now serve as visual camouflage for hardline establishment positioning on Israel and immigration.
 
 2. **The "I haven't changed a lick" denial:** When confronted about his post-election shift, Fetterman denies any change ("I'm a really strong, unapologetic supporter of Israel and it's really not going to change"), erasing the gap between 2022 populism and 2024 establishment alignment.
 
@@ -174,19 +174,19 @@ The Pennsylvania context matters: a $500K net-worth senator in a swing state is 
 
 ## Analytical Patterns
 
-**The Genuine Win + Structural Limit** — Fetterman's 2022 campaign was genuinely grassroots-powered small-dollar fundraising, raising $25.5M from 140,251 individual donors averaging $27 each. This represents real mobilization of working-class voters in a swing state, defeating a celebrity-backed opponent. However, the victory stopped short of threatening donor-class interests: his post-election positioning has shown that small-dollar victory does not produce policy independence from establishment donors once the senator enters office. The structural limit is: small-dollar campaigns can win elections, but governance requires alignment with the donor class that provides continued access and infrastructure.
+**The Genuine Win + Structural Limit**. Fetterman's 2022 campaign was genuinely grassroots-powered small-dollar fundraising, raising $25.5M from 140,251 individual donors averaging $27 each. This represents real mobilization of working-class voters in a swing state, defeating a celebrity-backed opponent. However, the victory stopped short of threatening donor-class interests: his post-election positioning has shown that small-dollar victory does not produce policy independence from establishment donors once the senator enters office. The structural limit is: small-dollar campaigns can win elections, but governance requires alignment with the donor class that provides continued access and infrastructure.
 
-**The Villain Framing** — Fetterman positions his Israel hardline as authentic conviction rooted in personal values, using stroke recovery and transitional trauma to explain any apparent policy shifts ("I haven't changed a lick"). This frames his attraction to Republican donors and AIPAC alignment as consistency rather than capture. The mechanism: blame external forces (stroke complexity, recovery challenges) rather than acknowledging that donor relationships have reshaped his political position. The working-class brand that won him office becomes the cover for establishment integration.
+**The Villain Framing**. Fetterman positions his Israel hardline as authentic conviction rooted in personal values, using stroke recovery and transitional trauma to explain any apparent policy shifts ("I haven't changed a lick"). This frames his attraction to Republican donors and AIPAC alignment as consistency rather than capture. The mechanism: blame external forces (stroke complexity, recovery challenges) rather than acknowledging that donor relationships have reshaped his political position. The working-class brand that won him office becomes the cover for establishment integration.
 
-**The Two-Audience Problem** — Fetterman must maintain credibility with the small-dollar grassroots base that funded him (progressives, union members, working-class Pennsylvanians) while performing alignment with the new donor constituencies (AIPAC, Republican mega-donors, establishment financial interests) that now fund his political future. He manages this through aesthetic consistency (the hoodie remains) while shifting policy substance (from progressive to hawkish). The contradiction is visible in his statement "I'm not a progressive" — alienating his base to signal establishment availability.
+**The Two-Audience Problem**. Fetterman must maintain credibility with the small-dollar grassroots base that funded him (progressives, union members, working-class Pennsylvanians) while performing alignment with the new donor constituencies (AIPAC, Republican mega-donors, establishment financial interests) that now fund his political future. He manages this through aesthetic consistency (the hoodie remains) while shifting policy substance (from progressive to hawkish). The contradiction is visible in his statement "I'm not a progressive", alienating his base to signal establishment availability.
 
 ---
 
-### March 2026 Update — Mullin DHS Confirmation Crossover Vote
+### March 2026 Update. Mullin DHS Confirmation Crossover Vote
 
 **March 19, 2026:** Fetterman cast the deciding committee vote (8-7) to advance [[_Markwayne Mullin Master Profile|Markwayne Mullin]]'s nomination as DHS Secretary, after Republican Chairman [[_Rand Paul Master Profile|Rand Paul]] announced he would vote no. Without Fetterman's crossover, the nomination would have died in committee.
 
-**March 24, 2026:** The full Senate confirmed Mullin 54-45. Fetterman and Martin Heinrich (D-NM) were the only Democratic yes votes. This is Fetterman's most significant crossover vote to date — confirming a Trump Cabinet nominee during a DHS partial shutdown caused by immigration enforcement disputes.
+**March 24, 2026:** The full Senate confirmed Mullin 54-45. Fetterman and Martin Heinrich (D-NM) were the only Democratic yes votes. This is Fetterman's most significant crossover vote to date, confirming a Trump Cabinet nominee during a DHS partial shutdown caused by immigration enforcement disputes.
 
 > [!money] The crossover pattern tracks the donor shift
 > Fetterman's Republican donor pipeline — at least 14 registered GOP donors since October 2023, plus significant PAC contributions — correlates with increasing crossover votes on Trump nominees and Israel-related policies. The Mullin vote demonstrates that the donor realignment has moved beyond Israel into broader establishment alignment.
@@ -202,7 +202,7 @@ The Pennsylvania context matters: a $500K net-worth senator in a swing state is 
 - [FEC Candidate: John Fetterman Campaign Finance Summary](https://www.fec.gov/data/candidate/S6PA00274/) (Tier 1) (VERIFIED)
 - [FEC: John Fetterman Candidate Profile](https://www.fec.gov/data/candidate/S6PA00274/) (Tier 1) (VERIFIED)
 - [The Intercept: Since October, Sen. John Fetterman Has Been Building a Roster of Republican Donors](https://theintercept.com/2024/04/19/john-fetterman-israel-gop-donors/) (Tier 2) (VERIFIED)
-- [The Nation: Senator John Fetterman Is a Progressive Icon, a Republican Hate Figure—and a Pro-Israel Pinup](https://www.thenation.com/article/politics/fetterman-israel-palestine-progressives/) (Tier 2) (VERIFIED)
+- [The Nation: Senator John Fetterman Is a Progressive Icon, a Republican Hate Figure, and a Pro-Israel Pinup](https://www.thenation.com/article/politics/fetterman-israel-palestine-progressives/) (Tier 2) (VERIFIED)
 - [Pittsburgh Post-Gazette: Sen. John Fetterman sparks a backlash with staunch support for Israel](https://www.post-gazette.com/news/politics-nation/2023/11/03/john-fetterman-israel-hamas-progressives/stories/202311050075) (Tier 2) (VERIFIED)
 - [Algemeiner: Fetterman Hosts AIPAC, Bondi Survivor in DC Office](https://www.algemeiner.com/2026/02/26/fetterman-hosts-aipac-bondi-survivor-dc-office/) (Tier 2) (VERIFIED)
 - [AIPAC Tracker on X: Fetterman AIPAC donations ($250,000)](https://x.com/TrackAIPAC/status/1775962933354512886?lang=en) (Tier 3) (VERIFIED)

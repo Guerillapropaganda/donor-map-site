@@ -1,5 +1,5 @@
 ---
-title: Elizabeth Warren Master Profile
+title: Elizabeth Warren
 type: politician
 content-readiness: ready
 last-updated: '2026-04-14'
@@ -43,7 +43,7 @@ needs-reenrichment: true
 reenrich-reason: >-
   Congress + GovTrack enrichment never populated; bioguide-id W000817 just added
   so pipeline can now look her up. Also: source-types previously listed DOJ
-  which was a false-positive from the engine scan — removed.
+  which was a false-positive from the engine scan , removed.
 known-gaps:
   - >-
     Congress.gov legislative record not yet populated (bioguide-id W000817 added
@@ -71,11 +71,11 @@ editorial-review-date: '2026-04-10'
 editorial-reviewer: Research Claude
 editorial-result: ready-candidate
 editorial-notes: >-
-  Depth review 2026-04-10. BODY NOT TOUCHED — the central thesis ('what happens
+  Depth review 2026-04-10. BODY NOT TOUCHED , the central thesis ('what happens
   when a politician's funding IS clean'), donor class map (96.2% individual
   contributions, 0.7% PAC), and the CFPB architect → CFPB destroyed arc are all
   excellent. Structural test case for the vault. FIXED (Research Claude): added
-  bioguide-id W000817 (unblocks Congress pipeline — was the reason 'No
+  bioguide-id W000817 (unblocks Congress pipeline , was the reason 'No
   legislative record from Congress.gov' was a persistent gap), removed
   false-positive DOJ from source-types (engine scan artifact, same class of
   error as Whitehouse DOJ strip), expanded issues 1→8 entries, added committees
@@ -83,7 +83,7 @@ editorial-notes: >-
   with the small-dollar model (96.2% individual), added structured opposes
   (Fairshake, Griffin, corporate PACs), expanded related to include full
   anti-donor + squad coalition, cleaned known-gaps (removed factually-wrong 'No
-  mapped relationships' — 12+ wikilinks exist). REMOVED: body inline dataview
+  mapped relationships' , 12+ wikilinks exist). REMOVED: body inline dataview
   'donors: [[ActBlue]] · ...' per frontmatter-only rule. REMOVED: double '---'
   separator artifact. STAYS draft per tightened Vault Rules: known-gaps
   explicitly cite missing Congress.gov + GovTrack pipeline data. Flagged
@@ -98,7 +98,7 @@ editorial-notes: >-
 
 Elizabeth Herring Warren. Born June 22, 1949. Harvard Law professor, bankruptcy law expert, and architect of the Consumer Financial Protection Bureau. U.S. Senator from Massachusetts (2013–present). 2020 Democratic presidential candidate (third place). Author of 19 books on economic policy and family finances. The most intellectually serious financial critic in the Senate and the rare Democratic politician whose policy agenda genuinely threatens the donor class.
 
-Warren's political origin story is working-class: grew up in Oklahoma, her family repeatedly on the edge of economic collapse. Her academic career was built on documenting exactly the economic exploitation the vault analyzes — how predatory lending and medical debt destroy middle-class families. She moved from academia to political practice in 2007, proposing the CFPB as a structural answer to financial predation. The question Warren's career poses: what happens when a politician whose expertise is understanding the donor class's mechanisms enters a political system controlled by that same donor class?
+Warren's political origin story is working-class: grew up in Oklahoma, her family repeatedly on the edge of economic collapse. Her academic career was built on documenting exactly the economic exploitation the vault analyzes, how predatory lending and medical debt destroy middle-class families. She moved from academia to political practice in 2007, proposing the CFPB as a structural answer to financial predation. The question Warren's career poses: what happens when a politician whose expertise is understanding the donor class's mechanisms enters a political system controlled by that same donor class?
 
 ---
 
@@ -112,14 +112,14 @@ Warren's political origin story is working-class: grew up in Oklahoma, her famil
 ## The Core Contradiction
 
 Warren simultaneously:
-— Created the CFPB, returning $21+ billion to defrauded consumers
-— Proposed structural wealth redistribution (wealth tax, breaking up too-big-to-fail banks)
-— Built her political identity on opposing Wall Street
-— Refused corporate PAC money and built a small-dollar funding model to prove she could do so
-— Achieved almost none of her structural policy agenda
-— Watched her agency dismantled without Democratic Party defense
+, Created the CFPB, returning $21+ billion to defrauded consumers
+, Proposed structural wealth redistribution (wealth tax, breaking up too-big-to-fail banks)
+, Built her political identity on opposing Wall Street
+, Refused corporate PAC money and built a small-dollar funding model to prove she could do so
+, Achieved almost none of her structural policy agenda
+, Watched her agency dismantled without Democratic Party defense
 
-The pattern is the inverse of typical donor capture: Warren is not corrupted by her funding because she refuses it. Instead, the system constrains her through structural mechanisms that don't require corruption — Senate rules (60-vote filibuster), party procedure (Schumer's floor control), electoral opposition ([[Fairshake PAC|Fairshake PAC]]'s $10M+ anti-Warren-ally spending), and the simple fact that the Democratic Party's elected officials, whatever their rhetoric, take Wall Street money that creates conflicting incentives.
+The pattern is the inverse of typical donor capture: Warren is not corrupted by her funding because she refuses it. Instead, the system constrains her through structural mechanisms that don't require corruption. Senate rules (60-vote filibuster), party procedure (Schumer's floor control), electoral opposition ([[Fairshake PAC|Fairshake PAC]]'s $10M+ anti-Warren-ally spending), and the simple fact that the Democratic Party's elected officials, whatever their rhetoric, take Wall Street money that creates conflicting incentives.
 
 Warren proves that clean funding is necessary but not sufficient. An individual politician's refusal of donor money doesn't overcome a party captured by donors. The CFPB's destruction demonstrates the final lesson: when the donor class moves against reform, the political system doesn't defend it.
 
@@ -127,7 +127,7 @@ Warren proves that clean funding is necessary but not sufficient. An individual 
 
 ## Donor Class Map
 
-> [!money] Top Donors & Funding Networks — The Anti-Model
+> [!money] Top Donors & Funding Networks. The Anti-Model
 > **2024 Senate cycle:** $9.04 million raised / $7.91 million spent
 > **Individual contributions:** $8.7 million (96.2% of total)
 > **PAC money:** $59,800 (minimal — Warren made rejecting corporate PAC money a public commitment)
@@ -141,27 +141,27 @@ The vault's thesis is that donors control politicians. Warren's exemption from d
 - [[Kenneth Griffin|Kenneth Griffin]]'s $32 million hedge fund operations
 - Wall Street Democrats' Wall Street fundraising (Schumer's $10.4M from securities/investment)
 
-Warren's grassroots funding base — educated professionals, academics, small-dollar donors — cannot match the concentrated capital defending the financial system she opposes. She has built the correct anti-donor model. The system she opposes is simply wealthier.
+Warren's grassroots funding base, educated professionals, academics, small-dollar donors, cannot match the concentrated capital defending the financial system she opposes. She has built the correct anti-donor model. The system she opposes is simply wealthier.
 
 ---
 
-### What She Built — and What They Destroyed
+### What She Built, and What They Destroyed
 
 ### The CFPB (Consumer Financial Protection Bureau):
 Warren conceived the CFPB in a 2007 Harvard Law Review article titled "Unsafe at Any Rate." The premise was radical: financial products (mortgages, credit cards, payday loans) are as dangerous to families as unsafe cars or defective toys. The government regulates physical products through the Consumer Product Safety Commission. Warren proposed an equivalent agency for financial products.
 
-The CFPB was created as part of the Dodd-Frank reform package (2010). Warren was passed over as its first director because Republicans threatened to block her confirmation — she ran for Senate instead. Under its first decade:
+The CFPB was created as part of the Dodd-Frank reform package (2010). Warren was passed over as its first director because Republicans threatened to block her confirmation, she ran for Senate instead. Under its first decade:
 - **$21+ billion returned to consumers** who were defrauded by financial institutions (Wells Fargo, Equifax, predatory lenders, student loan servicers, payday lenders)
 - **4.4+ million consumer complaints** received and investigated
 - **Regulations limiting** payday lending rates, credit card fees, mortgage predatory terms, student loan servicing abuse
-- **Enforcement mechanism** with real teeth — fines producing actual consumer refunds, not just penalties paid to government
+- **Enforcement mechanism** with real teeth, fines producing actual consumer refunds, not just penalties paid to government
 
 The CFPB is the single most consequential financial regulation policy created since 2008. It is also proof of the system's limits.
 
 ### Why the CFPB Was Permitted:
 The financial crisis of 2008 created a political window when financial regulation became inevitable. The CFPB was permitted because:
 
-1. **Post-2008 political moment:** Public anger at Wall Street made some financial regulation politically necessary. The CFPB was the compromise — regulating consumer-facing predatory practices while leaving the structural architecture of finance (derivatives, proprietary trading, leverage ratios) untouched.
+1. **Post-2008 political moment:** Public anger at Wall Street made some financial regulation politically necessary. The CFPB was the compromise, regulating consumer-facing predatory practices while leaving the structural architecture of finance (derivatives, proprietary trading, leverage ratios) untouched.
 
 2. **Predatory lending is not core financial capital:** The $21 billion returned to consumers came from misconduct at the margins of the system. Constraining payday lenders and mortgage scammers doesn't threaten Wall Street banks' core wealth-generation mechanisms. Mortgages, credit cards, and loans remain profitable. Banks simply cannot commit the most egregious misconduct.
 
@@ -172,14 +172,14 @@ The CFPB was also constrained in ways that protected financial capital:
 
 - **Jurisdiction exemptions:** Banks under $10 billion in assets are exempt. Insurance is largely exempt. Securities trading is outside CFPB jurisdiction.
 - **Enforcement constraints:** Fines are set at levels that amount to cost-of-doing-business, not existential financial threat. A $5 billion fine against a $2 trillion institution is 0.25% of assets.
-- **Structural finance untouched:** The CFPB regulates consumer products, not the mechanisms that created the 2008 crisis — derivatives, proprietary trading, excessive leverage, regulatory arbitrage.
+- **Structural finance untouched:** The CFPB regulates consumer products, not the mechanisms that created the 2008 crisis, derivatives, proprietary trading, excessive leverage, regulatory arbitrage.
 
 Warren's broader financial regulation agenda (breaking up too-big-to-fail banks, wealth tax, financial transaction tax) never passed. The CFPB is regulation of consumer-facing behavior within constraints that preserve financial capital's structural power.
 
 ### The Destruction (2025):
 In 2025, the Trump administration, through DOGE ([[Elon Musk|Elon Musk]]'s "Department of Government Efficiency"), targeted the CFPB for dismantlement. The agency that Warren conceived to protect working people from financial predation is being destroyed by a billionaire whose wealth depends on the deregulated financial system the CFPB was designed to constrain.
 
-Critically: the Democratic Party, which could have made CFPB defense central to its political identity, did not. The agency became an orphan — something Warren built but the party would not defend when threatened. The arc — creation, effectiveness, destruction — is a complete case study in how the donor class handles genuine threats to its interests.
+Critically: the Democratic Party, which could have made CFPB defense central to its political identity, did not. The agency became an orphan, something Warren built but the party would not defend when threatened. The arc, creation, effectiveness, destruction, is a complete case study in how the donor class handles genuine threats to its interests.
 
 ---
 
@@ -197,15 +197,15 @@ And she is also the proof of why that model, while possible, doesn't change the 
 
 ## Rhetorical Signature Moves
 
-1. **"Let me tell you about..."** — Warren's characteristic structure is narrative-driven: tell the story of one family destroyed by predatory lending, then pivot to the structural analysis. The rhetorical move from personal to systemic is the signature of her academic training. Other politicians tell stories and stop. Warren tells stories to make the structural argument.
+1. **"Let me tell you about."**. Warren's characteristic structure is narrative-driven: tell the story of one family destroyed by predatory lending, then pivot to the structural analysis. The rhetorical move from personal to systemic is the signature of her academic training. Other politicians tell stories and stop. Warren tells stories to make the structural argument.
 
-2. **The whiteboard explainer** — Warren frequently breaks down complex financial instruments visually. This comes from her teaching practice and serves a strategic function: it makes financial predation legible and her opposition to it appear expert rather than ideological.
+2. **The whiteboard explainer**. Warren frequently breaks down complex financial instruments visually. This comes from her teaching practice and serves a strategic function: it makes financial predation legible and her opposition to it appear expert rather than ideological.
 
-3. **"I have a plan for that"** — During her 2020 campaign, Warren had documented policy proposals for nearly every question. The brand is "this is not rhetoric — this is design." Where other candidates offer vision, Warren offers specification. This creates a perception of seriousness that carries into fundraising (the small-dollar base respects competence) but also creates vulnerability (specific plans can be fact-checked, attacked, costed).
+3. **"I have a plan for that"**. During her 2020 campaign, Warren had documented policy proposals for nearly every question. The brand is "this is not rhetoric, this is design." Where other candidates offer vision, Warren offers specification. This creates a perception of seriousness that carries into fundraising (the small-dollar base respects competence) but also creates vulnerability (specific plans can be fact-checked, attacked, costed).
 
-4. **Controlled anger** — Warren's public anger at financial predation and Wall Street is consistent with her academic work and her funding base. Unlike performative anger (which candidates use strategically), Warren's anger reads as genuine because it aligns with her decades-long career trajectory.
+4. **Controlled anger**. Warren's public anger at financial predation and Wall Street is consistent with her academic work and her funding base. Unlike performative anger (which candidates use strategically), Warren's anger reads as genuine because it aligns with her decades-long career trajectory.
 
-5. **The direct challenge to the donor class** — Warren explicitly names Wall Street, crypto industry, and hedge fund capital as enemies. No other major Democratic senator does this consistently. The directness is both her strength (credibility with anti-donor-class voters) and her constraint (it makes her powerful enemies and ensures opposition from people with more money).
+5. **The direct challenge to the donor class**. Warren explicitly names Wall Street, crypto industry, and hedge fund capital as enemies. No other major Democratic senator does this consistently. The directness is both her strength (credibility with anti-donor-class voters) and her constraint (it makes her powerful enemies and ensures opposition from people with more money).
 
 ---
 
@@ -217,24 +217,24 @@ And she is also the proof of why that model, while possible, doesn't change the 
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2012 | 300,000+ individual donors (defeat Scott Brown) | $38.3M raised; 68% individual contributions | 2011-2012 cycle | First Senate seat; small-dollar model proven at scale — Warren refuses super PAC support |
+| 2012 | 300,000+ individual donors (defeat Scott Brown) | $38.3M raised; 68% individual contributions | 2011-2012 cycle | First Senate seat; small-dollar model proven at scale. Warren refuses super PAC support |
 | 2020 | Small-dollar presidential donors (avg $28/donation) | $38M+ raised | 2019-2020 cycle | Proves small-dollar model at presidential scale; loses to Biden after donor-class consolidation behind a single candidate |
-| 2022 | Massachusetts small-dollar base (Senate reelection) | $27M raised | 2021-2022 cycle | Strong reelection; introduces Digital Asset Anti-Money Laundering Act — crypto regulation becomes her signature agenda |
+| 2022 | Massachusetts small-dollar base (Senate reelection) | $27M raised | 2021-2022 cycle | Strong reelection; introduces Digital Asset Anti-Money Laundering Act, crypto regulation becomes her signature agenda |
 
 #### The CFPB Pipeline (Academic → Policy → Destruction)
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2010 | No donor funding (academic proposal) | N/A | 2007 (Harvard Law Review publication) | CFPB created as part of Dodd-Frank — Warren's structural proposal becomes law but she is passed over as director. $21B returned to defrauded consumers over 15 years |
-| 2025 | Trump/DOGE (donor-class instrument) | N/A — destruction, not donation | 2024 cycle (Musk $290M, Wall Street to GOP) | CFPB targeted for dismantlement — Warren's greatest legislative achievement destroyed without Democratic Party defense. Wall Street Democrats didn't mobilize |
+| 2010 | No donor funding (academic proposal) | N/A | 2007 (Harvard Law Review publication) | CFPB created as part of Dodd-Frank. Warren's structural proposal becomes law but she is passed over as director. $21B returned to defrauded consumers over 15 years |
+| 2025 | Trump/DOGE (donor-class instrument) | N/A, destruction, not donation | 2024 cycle (Musk $290M, Wall Street to GOP) | CFPB targeted for dismantlement. Warren's greatest legislative achievement destroyed without Democratic Party defense. Wall Street Democrats didn't mobilize |
 
 #### Crypto Industry Opposition (The Disciplinary Response)
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2023-2024 | [[Fairshake PAC]] (Coinbase $45M, a16z $43M, Ripple $45M) | $195M+ total cycle spending | 2023-2024 | $10M+ spent against Warren-aligned candidates ([[_Katie Porter Master Profile|Porter]], Bowman) — disciplinary message: supporting Warren's agenda has electoral consequences |
-| 2023-2024 | Crypto industry (aggregate opposition) | $10M+ against Warren allies specifically | 2023-2024 | Warren herself is safe (small-dollar base, reelection not until 2028); her allies are targeted — the donor class defeats the movement by defeating its members, not its leader |
-| 2016 | Wall Street-aligned Democratic establishment | Institutional pressure, not direct funding | 2015-2016 | Warren refuses to endorse [[_Bernie Sanders Master Profile|Sanders]] (backs Clinton) — positioning as party insider constrains anti-donor-class coalition building |
+| 2023-2024 | [[Fairshake PAC]] (Coinbase $45M, a16z $43M, Ripple $45M) | $195M+ total cycle spending | 2023-2024 | $10M+ spent against Warren-aligned candidates ([[_Katie Porter Master Profile|Porter]], Bowman), disciplinary message: supporting Warren's agenda has electoral consequences |
+| 2023-2024 | Crypto industry (aggregate opposition) | $10M+ against Warren allies specifically | 2023-2024 | Warren herself is safe (small-dollar base, reelection not until 2028); her allies are targeted, the donor class defeats the movement by defeating its members, not its leader |
+| 2016 | Wall Street-aligned Democratic establishment | Institutional pressure, not direct funding | 2015-2016 | Warren refuses to endorse [[_Bernie Sanders Master Profile|Sanders]] (backs Clinton), positioning as party insider constrains anti-donor-class coalition building |
 
 > [!money] The Damning Sequences
 > **Crypto disciplinary spending (2023-2024):** When Warren pushed crypto regulation, the industry spent $195M+ in the election cycle, including $10M+ directly against Warren-aligned Democrats. The classic donor-class response: don't defeat the threat directly, defeat her allies to signal electoral consequences for supporting her agenda.
@@ -257,7 +257,7 @@ And she is also the proof of why that model, while possible, doesn't change the 
 
 ---
 
-## Class Analysis — The Exception That Proves the Rule
+## Class Analysis. The Exception That Proves the Rule
 
 Warren is the vault's exception and the exception proves the rule in reverse: she is the politician whose funding model actually breaks from the donor class, yet she is still structurally constrained.
 
@@ -284,8 +284,8 @@ Warren is the vault's case study in the limits of individual resistance within a
 - [FEC Candidate: Elizabeth Warren 2024 Donor Industries](https://www.fec.gov/data/candidate/P00009621/) (Tier 1) (VERIFIED)
 - [FEC: Elizabeth Warren Candidate Filing Data](https://www.fec.gov/data/candidate/S2MA00170/) (Tier 1) (VERIFIED)
 - [Consumer Financial Protection Bureau: CFPB History and Impact](https://www.consumerfinance.gov/about-us/) (Tier 1) (VERIFIED)
-- ~~[Consumer Financial Protection Bureau: Consumer Relief Data](https://www.consumerfinance.gov/about-us/newsroom/cfpb-ordered-return-about-21-billion-in-relief-to-consumers/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- [Boston Globe: CFPB Shutdown — Elizabeth Warren Fights to Save Agency She Conceived](https://www.bostonglobe.com/2025/02/10/nation/cfpb-elizabeth-warren-trump-elon-musk/) (Tier 2) (VERIFIED)
+- ~~[Consumer Financial Protection Bureau: Consumer Relief Data](https://www.consumerfinance.gov/about-us/newsroom/cfpb-ordered-return-about-21-billion-in-relief-to-consumers/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- [Boston Globe: CFPB Shutdown. Elizabeth Warren Fights to Save Agency She Conceived](https://www.bostonglobe.com/2025/02/10/nation/cfpb-elizabeth-warren-trump-elon-musk/) (Tier 2) (VERIFIED)
 - [CoinDesk: Crypto PAC Fairshake Claims Another Win Against Elizabeth Warren Ally](https://www.coindesk.com/policy2024/08/07/crypto-pac-fairshake-claims-another-win-against-elizabeth-warren-ally-with-bush-loss) (Tier 2) (VERIFIED)
 - [Boston Globe: As Crypto Industry Looks to Widen Influence, Elizabeth Warren Emerges as Target](https://www.bostonglobe.com/2024/03/15/metro/elizabeth-warren-reelection-crypto-industry/) (Tier 2) (VERIFIED)
 
@@ -293,7 +293,7 @@ Warren is the vault's case study in the limits of individual resistance within a
 
 ### The Four Patterns in Warren's Record
 
-#### 1. The Genuine Win + Structural Limit — CFPB Creation and Destruction
+#### 1. The Genuine Win + Structural Limit. CFPB Creation and Destruction
 
 Warren achieved a genuine structural victory: the CFPB was created, enforcement returned $21+ billion to defrauded consumers, and predatory lending was materially constrained.
 
@@ -306,21 +306,21 @@ The structural limits were built into its design:
 > [!contradiction]
 > The final lesson: genuine reforms can be created but also destroyed. The CFPB's 2025 dismantlement demonstrates that legislative victories are only as permanent as the party's willingness to defend them. The Democratic Party — with which Warren has served 13 years — did not mobilize a defense when the Trump administration moved to dismantle the agency. Individual politician achievement doesn't survive institutional abandonment.
 
-[Boston Globe: CFPB Shutdown — Elizabeth Warren Fights to Save Agency She Conceived](https://www.bostonglobe.com/2025/02/10/nation/cfpb-elizabeth-warren-trump-elon-musk/) (Tier 2)
+[Boston Globe: CFPB Shutdown. Elizabeth Warren Fights to Save Agency She Conceived](https://www.bostonglobe.com/2025/02/10/nation/cfpb-elizabeth-warren-trump-elon-musk/) (Tier 2)
 
-#### 2. The Two-Audience Problem — Medicare for All Co-sponsorship and Abandonment
+#### 2. The Two-Audience Problem. Medicare for All Co-sponsorship and Abandonment
 
 **2016 M4A positioning:** Warren was slow to co-sponsor Medicare for All, waiting until the political window was already closed. She did co-sponsor; she did not champion.
 
 **2020 Presidential Campaign:** Warren publicly dropped M4A support in late 2019, claiming she would "protect Medicare" and pursue alternatives. The timing:
 - M4A co-sponsor retreat began mid-2019 when Warren's campaign faced donor pressure
 - Her shift from M4A champion to "plan for that" (different plans for different constituencies) reflected the two-audience problem:
-  - To progressive primary voters: "I'm serious about structural healthcare reform"
-  - To moderate donors and [[AIPAC - American Israel Public Affairs Committee|AIPAC]]: "I'll find a market-compatible solution"
+ - To progressive primary voters: "I'm serious about structural healthcare reform"
+ - To moderate donors and [[AIPAC - American Israel Public Affairs Committee|AIPAC]]: "I'll find a market-compatible solution"
 
 The public position (small-dollar donors, CNA endorsement) was genuine. The private positioning (donor-compatible healthcare reform) was also genuine. Warren managed both simultaneously until forced to choose, and chose the Democratic establishment's path.
 
-#### 3. The Pilot Program — Clean Funding Model as Structural Weakness
+#### 3. The Pilot Program. Clean Funding Model as Structural Weakness
 
 Warren's $9.04M in 2024 Senate funding (96% individual contributions) is celebrated as proof that clean funding works. It is also proof that clean funding is insufficient.
 
@@ -332,9 +332,9 @@ Her 2024 funding was outmatched by:
 > [!money]
 > Warren proved that individual senators can build alternative funding models. She did not prove that individual senators can overcome concentrated capital defending the financial system they oppose. Her small-dollar base (educated professionals, academics, nonprofit workers) cannot match the concentrated wealth defending Wall Street, crypto monopolies, and hedge fund capital. Warren's funding is clean; the system she opposes is simply wealthier.
 
-Warren's 2020 presidential campaign ($38M+, avg $28/donation) showed the model can scale. It also showed that scaling the model doesn't overcome the DNC machinery and donor-class consolidation behind Biden. Bloomberg's $500M placeholder function, Obama's phone calls, the three-day consolidation — these aren't funding questions; they're institutional power questions that small-dollar models cannot answer.
+Warren's 2020 presidential campaign ($38M+, avg $28/donation) showed the model can scale. It also showed that scaling the model doesn't overcome the DNC machinery and donor-class consolidation behind Biden. Bloomberg's $500M placeholder function, Obama's phone calls, the three-day consolidation, these aren't funding questions; they're institutional power questions that small-dollar models cannot answer.
 
-#### 4. The Villain Framing — Wall Street as External Enemy Rather Than Party Structure
+#### 4. The Villain Framing. Wall Street as External Enemy Rather Than Party Structure
 
 Warren's rhetoric frames Wall Street and crypto industry as external villains to be opposed, not as the Democratic Party's core funding base. This allows her to:
 - Propose aggressive regulation without attacking Democratic colleagues who take Wall Street money

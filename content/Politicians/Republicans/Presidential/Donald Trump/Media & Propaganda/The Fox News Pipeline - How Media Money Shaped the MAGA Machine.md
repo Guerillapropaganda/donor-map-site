@@ -41,7 +41,7 @@ The relationship reached its full expression in 2024-2025. Murdoch appeared at T
 
 Sources:
 - [The Washington Post: Rupert Murdoch hands control of Fox media empire to son Lachlan Murdoch](https://www.washingtonpost.com/style/media/2023/09/21/rupert-murdoch-steps-down-fox-news-corp/) (Tier 2) (VERIFIED)
-- ~~[The Hill: Murdoch attended Trump inauguration](https://thehill.com/homenews/media/5300617-la-times-owner-meets-with-trump-in-saudi-arabia/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Murdoch attended Trump inauguration](https://thehill.com/homenews/media/5300617-la-times-owner-meets-with-trump-in-saudi-arabia/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ---
 
@@ -61,7 +61,7 @@ The dynamic is critical. The legal consequence of knowingly broadcasting false e
 This represents media capture through market dynamics rather than direct ownership. Fox News is not owned by Trump. It is controlled by Trump through his political power and audience demand. The network must serve its MAGA audience or lose them to competing outlets (Newsmax, OAN). That competition incentivizes extremism and alignment.
 
 Sources:
-- ~~[Susman Godfrey: Fox News Dominion settlement](https://www.susmangodfrey.com/wins/fox-news-to-pay-787-5-million-to-defamations-claims-brought-by-susman-godfrey-client-dominion-voting-systems/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Susman Godfrey: Fox News Dominion settlement](https://www.susmangodfrey.com/wins/fox-news-to-pay-787-5-million-to-defamations-claims-brought-by-susman-godfrey-client-dominion-voting-systems/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [NBC News: Fox News settles Dominion](https://www.nbcnews.com/media/fox-news-settles-dominion-defamation-lawsuit-rcna80285) (Tier 2) (VERIFIED)
 - [Washington Post: Fox News Dominion settlement](https://www.washingtonpost.com/media/2023/04/18/fox-news-dominion-settlement/) (Tier 2) (VERIFIED)
 

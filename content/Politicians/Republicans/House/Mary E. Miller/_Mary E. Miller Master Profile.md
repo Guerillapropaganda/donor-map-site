@@ -1,5 +1,5 @@
 ---
-title: "Mary E. Miller Master Profile"
+title: "Mary E. Miller"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

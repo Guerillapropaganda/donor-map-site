@@ -1,5 +1,5 @@
 ---
-title: "Ryan Mackenzie Master Profile"
+title: "Ryan Mackenzie"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -1,5 +1,5 @@
 ---
-title: "Lizzie Fletcher Master Profile"
+title: "Lizzie Fletcher"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

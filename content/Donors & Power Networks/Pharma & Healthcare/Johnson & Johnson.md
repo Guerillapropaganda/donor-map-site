@@ -52,9 +52,9 @@ fda-recalls-class-i: 2
 
 Johnson & Johnson (J&J). One of the largest pharmaceutical and medical device companies in the world with $85 billion in annual revenue (2024). J&J operates across three segments: pharmaceuticals (Janssen), medical devices, and consumer health (spun off as Kenvue in 2023). J&J PAC contributes $1.5-2 million per cycle and the company spends $8-10 million annually on lobbying.
 
-J&J has faced extraordinary legal liability: $8.9 billion in proposed settlements for its talc/asbestos cancer cases (affecting 60,000+ plaintiffs) and participation in the $26 billion national opioid settlement. The company's legal strategy — including a controversial "Texas Two-Step" bankruptcy maneuver to limit talc liability — has drawn congressional scrutiny and judicial rejection.
+J&J has faced extraordinary legal liability: $8.9 billion in proposed settlements for its talc/asbestos cancer cases (affecting 60,000+ plaintiffs) and participation in the $26 billion national opioid settlement. The company's legal strategy, including a controversial "Texas Two-Step" bankruptcy maneuver to limit talc liability, has drawn congressional scrutiny and judicial rejection.
 
-- ~~[OpenSecrets: Johnson & Johnson organizational profile](https://www.opensecrets.org/orgs/johnson-johnson/summary?id=D000000385)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Johnson & Johnson organizational profile](https://www.opensecrets.org/orgs/johnson-johnson/summary?id=D000000385)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -72,7 +72,7 @@ Bipartisan distribution targeting Finance Committee (Medicare drug pricing), Jud
 
 ### What They've Gotten
 
-**Medicare Negotiation Limited (Pre-2022):** For decades, J&J and PhRMA successfully prevented Medicare from negotiating drug prices — a prohibition worth hundreds of billions to the pharmaceutical industry. The IRA's 2022 negotiation authority covers only 10 drugs initially, preserving the majority of the industry's pricing power.
+**Medicare Negotiation Limited (Pre-2022):** For decades, J&J and PhRMA successfully prevented Medicare from negotiating drug prices, a prohibition worth hundreds of billions to the pharmaceutical industry. The IRA's 2022 negotiation authority covers only 10 drugs initially, preserving the majority of the industry's pricing power.
 
 **Patent Evergreening Protected:** The pharmaceutical patent system allows J&J and peers to extend market exclusivity through secondary patents, product modifications, and regulatory strategies. Congressional legislation to limit patent evergreening has repeatedly stalled.
 
@@ -94,11 +94,11 @@ The liability strategy reveals the corporate class position with equal clarity. 
 ### Sources
 
 - [OpenSecrets: Johnson & Johnson organizational profile](https://www.opensecrets.org/orgs/johnson-johnson/summary?id=D000000385) (Tier 1)
-- ~~[OpenSecrets: J&J lobbying expenditures](https://www.opensecrets.org/orgs/johnson-johnson/lobbying?id=D000000385)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: J&J lobbying expenditures](https://www.opensecrets.org/orgs/johnson-johnson/lobbying?id=D000000385)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - ~~[Reuters: J&J talc settlement and bankruptcy strategy](https://www.reuters.com/business/healthcare-pharmaceuticals/jnj-talc-settlement/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
 - [Ballotpedia: Johnson & Johnson political spending](https://ballotpedia.org/Johnson_&_Johnson) (Tier 3) (VERIFIED)
 
-### Financial Overview (990 Filing — 2023)
+### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |
 |--------|--------|

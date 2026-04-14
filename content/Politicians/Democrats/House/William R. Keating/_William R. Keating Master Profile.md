@@ -1,5 +1,5 @@
 ---
-title: "William R. Keating Master Profile"
+title: "William R. Keating"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

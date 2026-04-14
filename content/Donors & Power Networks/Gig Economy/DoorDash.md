@@ -39,57 +39,57 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### Who They Are
 
-[[DoorDash|DoorDash]] is a San Francisco-based food delivery app platform, the largest in the US by market share. Co-founded by Tony Xu, Stanley Tang, Andy Fang, and Evan Moore. Its delivery driver workforce is entirely classified as independent contractors — its unit economics depend on that classification. DoorDash went public in December 2020, five weeks after Prop 22 passed. That timing was not a coincidence.
+[[DoorDash|DoorDash]] is a San Francisco-based food delivery app platform, the largest in the US by market share. Co-founded by Tony Xu, Stanley Tang, Andy Fang, and Evan Moore. Its delivery driver workforce is entirely classified as independent contractors, its unit economics depend on that classification. DoorDash went public in December 2020, five weeks after Prop 22 passed. That timing was not a coincidence.
 
 ---
 
 ### What They Want
 
-— Independent contractor classification for all delivery drivers
-— No gig worker protections at state or federal level
-— Prop 22 preserved and defended in courts
-— Favorable regulatory environment for app-based delivery
-— No federal reclassification through the PRO Act
+, Independent contractor classification for all delivery drivers
+, No gig worker protections at state or federal level
+, Prop 22 preserved and defended in courts
+, Favorable regulatory environment for app-based delivery
+, No federal reclassification through the PRO Act
 
 ---
 
 ### Who They Fund
 
-**Prop 22 campaign (2020)** — DoorDash contributed $52.1 million to Yes on Prop 22, the second-largest individual contributor (behind [[Uber|Uber]]'s $59.5M but ahead of [[Lyft|Lyft]]'s $49M). DoorDash outspent [[Lyft|Lyft]] despite being a smaller company — because the stakes were higher. The IPO was coming. [Source: Ballotpedia / Cal-Access — Tier 1]
+**Prop 22 campaign (2020)**. DoorDash contributed $52.1 million to Yes on Prop 22, the second-largest individual contributor (behind [[Uber|Uber]]'s $59.5M but ahead of [[Lyft|Lyft]]'s $49M). DoorDash outspent [[Lyft|Lyft]] despite being a smaller company, because the stakes were higher. The IPO was coming. [Source: Ballotpedia / Cal-Access. Tier 1]
 
-**Prop 22 legal defense** — DoorDash, along with Lyft and Instacart, funded the legal defense through the California Supreme Court's July 2024 ruling upholding Prop 22 as constitutional. [Source: Ballotpedia — Tier 1]
+**Prop 22 legal defense**. DoorDash, along with Lyft and Instacart, funded the legal defense through the California Supreme Court's July 2024 ruling upholding Prop 22 as constitutional. [Source: Ballotpedia. Tier 1]
 
-**DashPAC** — DoorDash formed its political action committee (DashPAC) on July 7, 2022. Raised $163,075 in the 2023-2024 federal cycle. This is the formalization of DoorDash's post-Prop 22 political infrastructure — moving from ballot-measure-only spending to permanent political operations. [Source: OpenSecrets / The Hill — Tier 1/2]
+**DashPAC**. DoorDash formed its political action committee (DashPAC) on July 7, 2022. Raised $163,075 in the 2023-2024 federal cycle. This is the formalization of DoorDash's post-Prop 22 political infrastructure, moving from ballot-measure-only spending to permanent political operations. [Source: OpenSecrets / The Hill. Tier 1/2]
 
-**2021 Newsom recall** — DoorDash executives and spouses contributed approximately $500,000 to the anti-recall effort. This is the clearest documented financial connection between DoorDash's leadership and Newsom's political survival. [Source: CalMatters — Tier 2]
+**2021 Newsom recall**. DoorDash executives and spouses contributed approximately $500,000 to the anti-recall effort. This is the clearest documented financial connection between DoorDash's leadership and Newsom's political survival. [Source: CalMatters. Tier 2]
 
 > [!money]
 > $500,000 from DoorDash executives to save the governor who stayed silent while they spent $52 million to gut his own labor law. That's the transaction laid bare.
 
 ### Tony Xu personal donations:
-— 2019: $3,050 to [[_Pete Buttigieg Master Profile|Pete Buttigieg]] (Win The Era PAC)
-— 2020: $7,200 to Democratic National Committee
-— 2020: $2,800 to [[_Joe Biden Master Profile|Joe Biden]] presidential campaign
-— 2020: $10,000 to Biden Victory Fund
-— 2021: Major supporter of Stand With Asian Americans campaign ($10M total to Asian American organizations — charitable, not political)
-[Source: OpenSecrets donor lookup — Tier 1]
+, 2019: $3,050 to [[_Pete Buttigieg Master Profile|Pete Buttigieg]] (Win The Era PAC)
+, 2020: $7,200 to Democratic National Committee
+, 2020: $2,800 to [[_Joe Biden Master Profile|Joe Biden]] presidential campaign
+, 2020: $10,000 to Biden Victory Fund
+, 2021: Major supporter of Stand With Asian Americans campaign ($10M total to Asian American organizations, charitable, not political)
+[Source: OpenSecrets donor lookup. Tier 1]
 
 Stanley Tang: No documented personal political donations found.
 
-**[[_Gavin Newsom Master Profile|Gavin Newsom]] — direct campaigns:** No direct corporate DoorDash contributions to Newsom campaigns identified beyond the executive recall donations. The relationship, like [[Uber|Uber]] and Lyft, operates through structural channels.
+**[[_Gavin Newsom Master Profile|Gavin Newsom]], direct campaigns:** No direct corporate DoorDash contributions to Newsom campaigns identified beyond the executive recall donations. The relationship, like [[Uber|Uber]] and Lyft, operates through structural channels.
 
-**California lobbying:** Federal lobbying documented at $1.64M (2024) and $2.38M (2025). California state-level lobbying figures not separately itemized in available sources but DoorDash hired Sacramento lobbyists during the 2020 pandemic period. [Source: OpenSecrets — Tier 1]
+**California lobbying:** Federal lobbying documented at $1.64M (2024) and $2.38M (2025). California state-level lobbying figures not separately itemized in available sources but DoorDash hired Sacramento lobbyists during the 2020 pandemic period. [Source: OpenSecrets. Tier 1]
 
-**[[Flex Association]]** — DoorDash is a co-founding member of the Flex Association (est. 2021), the post-Prop 22 trade association alongside Uber, Lyft, Grubhub, HopSkipDrive, Instacart, and Shipt. [Source: The Hill — Tier 2]
+**[[Flex Association]]**. DoorDash is a co-founding member of the Flex Association (est. 2021), the post-Prop 22 trade association alongside Uber, Lyft, Grubhub, HopSkipDrive, Instacart, and Shipt. [Source: The Hill. Tier 2]
 
 ---
 
 ### What They've Gotten
 
-— Prop 22 passed November 2020. Delivery drivers remain contractors.
-— California Supreme Court upheld Prop 22, July 2024 — DoorDash funded the legal defense.
-— Newsom silent during the Prop 22 campaign. [See: [[Prop 22 - The $200M Corporate Rollback]]]
-— No subsequent state-level regulation of app-based delivery worker classification.
+, Prop 22 passed November 2020. Delivery drivers remain contractors.
+, California Supreme Court upheld Prop 22, July 2024. DoorDash funded the legal defense.
+, Newsom silent during the Prop 22 campaign. [See: [[Prop 22 - The $200M Corporate Rollback]]]
+, No subsequent state-level regulation of app-based delivery worker classification.
 
 ---
 
@@ -104,17 +104,17 @@ The class analysis is straightforward: DoorDash spent $52 million on a ballot me
 
 ### Enemies / Opposition
 
-— [[SEIU - Service Employees International Union|SEIU]] — led No on 22 campaign
-— [[California Labor Federation|California Labor Federation]] — opposed Prop 22
-— Gig Workers Collective — frontline worker organizing
-— AB5 author Lorena Gonzalez
+, [[SEIU - Service Employees International Union|SEIU]], led No on 22 campaign
+, [[California Labor Federation|California Labor Federation]], opposed Prop 22
+, Gig Workers Collective, frontline worker organizing
+, AB5 author Lorena Gonzalez
 
 ---
 
 ### Connected Policy Areas
 
-Labor — AB5, Prop 22, gig worker classification, Flex Association
-IPO/corporate finance — Prop 22 as pre-IPO regulatory investment
+Labor. AB5, Prop 22, gig worker classification, Flex Association
+IPO/corporate finance. Prop 22 as pre-IPO regulatory investment
 
 ---
 
@@ -122,12 +122,12 @@ IPO/corporate finance — Prop 22 as pre-IPO regulatory investment
 
 - [Ballotpedia: Prop 22 campaign finance](https://ballotpedia.org/California_Proposition_22,_App-Based_Drivers_as_Contractors_and_Labor_Policies_Initiative_%282020%29) (Tier 1) (VERIFIED)
 - [California Secretary of State / Cal-Access: Prop 22 committee filings](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx) (Tier 1) (VERIFIED)
-- ~~[LA Times: Prop 22 spending totals](https://www.latimes.com/business/story/2020-10-20/prop-22-gig-workers-uber-lyft-record-spending)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[LA Times: Prop 22 spending totals](https://www.latimes.com/business/story/2020-10-20/prop-22-gig-workers-uber-lyft-record-spending)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [CNBC: Prop 22 and DoorDash IPO](https://www.cnbc.com/2020/11/05/california-prop-22-win-improves-doordash-instacart-ipo-prospects.html) (Tier 2) (VERIFIED)
-- ~~[CalMatters: Newsom recall donors](https://calmatters.org/category/politics/2021/10/newsom-recall-big-donors/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[CalMatters: Newsom recall donors](https://calmatters.org/category/politics/2021/10/newsom-recall-big-donors/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [OpenSecrets: DoorDash PAC and lobbying](https://www.opensecrets.org/orgs/doordash-inc/summary?id=D000072628) (Tier 1) (VERIFIED)
-- ~~[The Hill: DashPAC formation](https://thehill.com/lobbying/3550101-doordash-expands-political-footprint-with-new-pac/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[The Hill: Flex Association](https://thehill.com/business-a-lobbying/business-a-lobbying/597404-gig-companies-launch-lobbying-group-to-counter-pro/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: DashPAC formation](https://thehill.com/lobbying/3550101-doordash-expands-political-footprint-with-new-pac/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Flex Association](https://thehill.com/business-a-lobbying/business-a-lobbying/597404-gig-companies-launch-lobbying-group-to-counter-pro/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ---
 

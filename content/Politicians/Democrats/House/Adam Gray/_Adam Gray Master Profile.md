@@ -1,5 +1,5 @@
 ---
-title: "Adam Gray Master Profile"
+title: "Adam Gray"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -1,5 +1,5 @@
 ---
-title: "Mark B. Messmer Master Profile"
+title: "Mark B. Messmer"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

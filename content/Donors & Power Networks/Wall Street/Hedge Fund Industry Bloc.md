@@ -39,7 +39,7 @@ Preservation of carried interest tax treatment (taxing fund manager profits at 2
 
 ### What They've Gotten
 
-**Carried Interest Survival:** The carried interest loophole — which allows hedge fund and private equity managers to pay the 20% capital gains rate on performance fees rather than the 37% ordinary income rate — has survived every tax reform attempt since 2007. The IRA's 2022 "carried interest reform" extended the holding period from 1 year to 3 years but preserved the preferential rate — a modification designed to appear reformist while changing almost nothing in practice.
+**Carried Interest Survival:** The carried interest loophole, which allows hedge fund and private equity managers to pay the 20% capital gains rate on performance fees rather than the 37% ordinary income rate, has survived every tax reform attempt since 2007. The IRA's 2022 "carried interest reform" extended the holding period from 1 year to 3 years but preserved the preferential rate, a modification designed to appear reformist while changing almost nothing in practice.
 
 **SEC Regulatory Capture:** The SEC's Division of Investment Management oversees hedge fund regulation but is staffed largely by lawyers who previously worked at, or plan to work at, hedge funds and their law firms. This Revolving Door ensures that regulation reflects the industry's risk tolerance rather than investors' or the public's.
 
@@ -51,6 +51,6 @@ Preservation of carried interest tax treatment (taxing fund manager profits at 2
 ### Sources
 
 - [FEC Receipts: Hedge fund industry spending](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
-- ~~[SEC: Investment adviser registration statistics](https://www.sec.gov/divisions/investment/ia-registration-stats.shtml)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[SEC: Investment adviser registration statistics](https://www.sec.gov/divisions/investment/ia-registration-stats.shtml)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Ballotpedia: Hedge fund political spending](https://ballotpedia.org/Hedge_Fund_Industry_Bloc) (Tier 3) (VERIFIED)
 

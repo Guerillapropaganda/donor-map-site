@@ -21,7 +21,7 @@ donors: [[Boeing]] [[Amazon]] [[Microsoft]]
 
 ### The Commerce Committee Chair and Washington Economy
 
-Maria Cantwell chairs the Senate Commerce, Science, and Transportation Committee — jurisdiction over aviation, telecommunications, technology, trade, and transportation. The committee's oversight includes Boeing (Washington state's largest manufacturer), Amazon (headquartered in Seattle), and Microsoft (headquartered in Redmond). Cantwell's committee jurisdiction directly covers her state's three largest employers.
+Maria Cantwell chairs the Senate Commerce, Science, and Transportation Committee, jurisdiction over aviation, telecommunications, technology, trade, and transportation. The committee's oversight includes Boeing (Washington state's largest manufacturer), Amazon (headquartered in Seattle), and Microsoft (headquartered in Redmond). Cantwell's committee jurisdiction directly covers her state's three largest employers.
 
 The Boeing relationship: Cantwell has been Boeing's most reliable Senate advocate for decades, supporting Ex-Im Bank financing (which funds foreign purchases of Boeing aircraft), opposing aviation safety regulations that Boeing considers burdensome, and defending Boeing's tax treatment. After the 737 MAX crashes (346 deaths), Cantwell supported bipartisan safety legislation while protecting Boeing from the most aggressive regulatory proposals.
 

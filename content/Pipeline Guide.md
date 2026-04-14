@@ -4,7 +4,7 @@ type: system
 last-updated: 2026-04-08
 ---
 
-# Pipeline Guide — The Donor Map
+# Pipeline Guide. The Donor Map
 
 How data flows from government APIs into vault profiles. Code Claude maintains these pipelines. Research Claude reads the output.
 
@@ -42,8 +42,8 @@ How data flows from government APIs into vault profiles. Code Claude maintains t
 | **Nonprofit 990** | propublica.org/nonprofits | 2 | None | IRS 990 tax filings, revenue, exec comp |
 | **Public Accountability** | publicaccountability.org | 2 | None | UC Berkeley public records (1.9B records) |
 | **Wikipedia** | wikidata.org + en.wikipedia.org | 3 | None | Entity IDs, descriptions, key facts |
-| **Lobbying Cross-Ref** | Local vault analysis | — | None | Influence chains: lobbying → donations → committees |
-| **Auto-Connection Engine** | Local vault analysis | — | None | Maps relationships: donor↔politician bidirectional, shared donors, opposition enforcement |
+| **Lobbying Cross-Ref** | Local vault analysis |, | None | Influence chains: lobbying → donations → committees |
+| **Auto-Connection Engine** | Local vault analysis |, | None | Maps relationships: donor↔politician bidirectional, shared donors, opposition enforcement |
 | **RSS** | Various feeds | 2-3 | None | News event matching against profiles |
 
 ## Scripts
@@ -114,30 +114,30 @@ Pipeline options: `fec`, `fec-summary`, `congress`, `committee`, `propublica`, `
 
 ## Engine-wide known incidents (shared infrastructure)
 
-These are bugs in the shared libraries (`scripts/lib/`) or the GitHub Actions workflow — they affect multiple pipelines at once and deserve their own section so each pipeline cheatsheet doesn't have to re-document them.
+These are bugs in the shared libraries (`scripts/lib/`) or the GitHub Actions workflow, they affect multiple pipelines at once and deserve their own section so each pipeline cheatsheet doesn't have to re-document them.
 
 ### FileCache null/undefined conflation (fixed 2026-04-11)
 
-**Incident:** `FileCache.get(key)` in `scripts/lib/shared.cjs` returns `null` for BOTH "missing key" and "cached null value" — it never returns `undefined`. Two pipelines short-circuited their own API calls on a cold cache by checking `if (cached !== undefined) return cached`:
+**Incident:** `FileCache.get(key)` in `scripts/lib/shared.cjs` returns `null` for BOTH "missing key" and "cached null value", it never returns `undefined`. Two pipelines short-circuited their own API calls on a cold cache by checking `if (cached !== undefined) return cached`:
 - `scripts/wikipedia-pipeline.cjs` (3 sites: wbsearchentities, wbgetentities, Wikipedia summary)
 - `scripts/opensanctions-pipeline.cjs` (1 site: match batch cache)
 
-Both pipelines silently reported "not found" / "cached" for every profile on the first run with an empty cache, because `null !== undefined` is always true. Verified against John Boozman, Neil Gorsuch, Jan Koum — all have Wikidata entries but the pipeline never fetched them.
+Both pipelines silently reported "not found" / "cached" for every profile on the first run with an empty cache, because `null !== undefined` is always true. Verified against John Boozman, Neil Gorsuch, Jan Koum, all have Wikidata entries but the pipeline never fetched them.
 
 **Fix:** All four sites now use `if (cached != null) return cached` (loose-equality catches both null and undefined). Trade-off: negative results are no longer cached across runs for these pipelines, but the cost is acceptable (single API call per unknown profile, not a hot loop).
 
-**Quality check rule:** When writing any pipeline against `FileCache`, check the return value of `get()` with `!= null`, never `!== undefined`. Consider this a required code-review item. If you genuinely need to distinguish "missing" from "cached null", write a wrapper that stores a sentinel (e.g., empty string) for negative results and checks for it explicitly — do not rely on `undefined`.
+**Quality check rule:** When writing any pipeline against `FileCache`, check the return value of `get()` with `!= null`, never `!== undefined`. Consider this a required code-review item. If you genuinely need to distinguish "missing" from "cached null", write a wrapper that stores a sentinel (e.g. empty string) for negative results and checks for it explicitly, do not rely on `undefined`.
 
 ### Api-config env-var naming: two valid conventions (2026-04-11)
 
 **Background:** The engine's GitHub Secrets use non-standard names (`FECAPI`, `CONGRESSAPI`, `LDAAPI`, `SAMAPI`, `DOLAPI`, `LOBBYVIEWAPI`, `COURTLISTENERAPI`, `OPENSANCTIONSAPI`) that get written to `.env` by the workflow. For local runs, `scripts/lib/api-config.cjs` expected the conventional names (`FEC_API_KEY`, `CONGRESS_API_KEY`, etc.), so a developer who pasted their GitHub-Secret values verbatim into `donor-map-engine/.env` saw every pipeline fall back to `DEMO_KEY` without any obvious error.
 
-**Fix:** `api-config.cjs` now resolves keys via a `pickKey(...names)` helper that tries multiple name variants in order. **Both** naming conventions work:
+**Fix:** `api-config.cjs` now resolves keys via a `pickKey(.names)` helper that tries multiple name variants in order. **Both** naming conventions work:
 ```
 FEC_API_KEY=...       # standard name
 FECAPI=...            # GitHub-Secret name (also accepted)
 ```
-No migration needed — either style resolves correctly.
+No migration needed, either style resolves correctly.
 
 **Quality check rule:** Any new API added to `api-config.cjs` should register both the standard name and the GitHub-Secret name via `pickKey()`. If you see a `env.FOO_API_KEY || process.env.FOO_API_KEY` pattern elsewhere in the file, refactor it to use `pickKey()` when you're in there.
 
@@ -145,32 +145,32 @@ No migration needed — either style resolves correctly.
 
 **Incident:** FEC's `DEMO_KEY` has a 40 req/hr limit. Historically the FEC pipeline would print a warning and continue, meaning the first 40-odd profiles succeeded and the rest silently returned "not found" due to 429s. Those 429 responses then poisoned the `fec-not-found-cache` so the profiles STAYED "not found" on subsequent runs until the cache expired.
 
-**Fix:** `apiConfig.requireRealKeys(...names)` now hard-fails the process if a required key is missing or equals `DEMO_KEY`. Currently called by:
+**Fix:** `apiConfig.requireRealKeys(.names)` now hard-fails the process if a required key is missing or equals `DEMO_KEY`. Currently called by:
 - `scripts/fec-pipeline.cjs` → requires `fec`
 - `scripts/congress-pipeline.cjs` → requires `congress`
 
-Add `apiConfig.requireRealKeys(...)` near the top of any new pipeline that needs a registered key to function correctly (LDA, SAM, LobbyView, CourtListener, DOL/OSHA, OpenSanctions).
+Add `apiConfig.requireRealKeys(.)` near the top of any new pipeline that needs a registered key to function correctly (LDA, SAM, LobbyView, CourtListener, DOL/OSHA, OpenSanctions).
 
-**Override for local debugging only:** `ALLOW_DEMO_KEYS=1 node scripts/fec-pipeline.cjs ...`. Never set this environment variable in CI or in any `--write` run.
+**Override for local debugging only:** `ALLOW_DEMO_KEYS=1 node scripts/fec-pipeline.cjs .`. Never set this environment variable in CI or in any `--write` run.
 
 ### GitHub Actions `api-enrichment.yml` stale-log contamination (fixed 2026-04-11)
 
-**Incident:** The workflow cached the entire `reports/` directory via `actions/cache@v4` with `restore-keys: pipeline-caches-`, and the per-pipeline "Written to vault" counts were grepped out of `reports/logs/*.log` files at commit time. When the parallel-run step hit its 25-minute timeout (happened on both of the 2026-04-09 scheduled runs), the new logs never overwrote the old cached logs. The commit-message step then reported **stale counts from the previous run**, making it look like every run was producing the same per-pipeline write counts (e.g. `courtlistener:14 doj-press:15 fara:2 federal-register:10 gleif:8 govtrack:4 lda:7 nhtsa-recalls:8 nonprofit-990:10 sec-edgar:9 usaspending-awards:3 usaspending:4`) across totally different file totals (93 → 125 → 220 → 452). Smoking gun: commits `f0473ec8`, `0cc2eeeb`, `d19255cf`, `e2cb82cf`, `cdace094`, `6d3dbd68`, `182fde48`, `0cc9bfa0`, `ce987e39` — identical per-pipeline counts, wildly different file totals.
+**Incident:** The workflow cached the entire `reports/` directory via `actions/cache@v4` with `restore-keys: pipeline-caches-`, and the per-pipeline "Written to vault" counts were grepped out of `reports/logs/*.log` files at commit time. When the parallel-run step hit its 25-minute timeout (happened on both of the 2026-04-09 scheduled runs), the new logs never overwrote the old cached logs. The commit-message step then reported **stale counts from the previous run**, making it look like every run was producing the same per-pipeline write counts (e.g. `courtlistener:14 doj-press:15 fara:2 federal-register:10 gleif:8 govtrack:4 lda:7 nhtsa-recalls:8 nonprofit-990:10 sec-edgar:9 usaspending-awards:3 usaspending:4`) across totally different file totals (93 → 125 → 220 → 452). Smoking gun: commits `f0473ec8`, `0cc2eeeb`, `d19255cf`, `e2cb82cf`, `cdace094`, `6d3dbd68`, `182fde48`, `0cc9bfa0`, `ce987e39`, identical per-pipeline counts, wildly different file totals.
 
 Secondary impact: the `wait` step in the parallel runner never returned when a single slow pipeline hung past 25 minutes, so the auto-connection engine that runs after `wait` never executed on those runs.
 
 **Fix (three-part):**
-1. **Exclude `reports/logs/` from the cache path** via `!reports/logs` pattern — only data caches persist across runs.
+1. **Exclude `reports/logs/` from the cache path** via `!reports/logs` pattern, only data caches persist across runs.
 2. **Wipe `reports/logs/` at the start of each parallel-run step** (`rm -rf reports/logs` before `mkdir -p`) as defence-in-depth.
 3. **Bump the parallel-step timeout** from 25 → 30 minutes, and the job timeout from 35 → 40 minutes, to give slow pipelines more headroom.
 
-**Quality check rule:** If two consecutive enrichment commits show **identical** per-pipeline counts in their subject lines but different file-change totals, assume log contamination and investigate. Also: do NOT cache log files — cache DATA files only (the `*-cache.json` inventories that pipelines themselves write to `reports/` for memoization).
+**Quality check rule:** If two consecutive enrichment commits show **identical** per-pipeline counts in their subject lines but different file-change totals, assume log contamination and investigate. Also: do NOT cache log files, cache DATA files only (the `*-cache.json` inventories that pipelines themselves write to `reports/` for memoization).
 
 **Follow-up TODO:** Some pipelines may genuinely run longer than 30 minutes on a full batch. If the 30-min timeout still fires on scheduled runs, split the workflow into "fast pipelines" (< 5 min each) and "slow pipelines" (> 5 min) running as separate jobs, or trim the `--limit=` on the slowest offenders (candidates from experience: `opensanctions --limit=50`, `wikipedia --limit=30`, `gleif --limit=30`). Measure before cutting.
 
 ### GitHub Actions scheduled runs silently stop firing (diagnosed + kicked 2026-04-10)
 
-**Incident:** The `api-enrichment.yml` workflow's scheduled cron (`0 2/8/14/20 * * *`) stopped firing after 2026-04-09 17:44Z. Over the next 24 hours, four expected slots passed with zero `event: schedule` runs in the history — only `event: workflow_dispatch` entries from manual triggers. The workflow metadata still showed `state: active` and the YAML file was unchanged on `main`. No error, no notification, no disabled flag. Silent failure.
+**Incident:** The `api-enrichment.yml` workflow's scheduled cron (`0 2/8/14/20 * * *`) stopped firing after 2026-04-09 17:44Z. Over the next 24 hours, four expected slots passed with zero `event: schedule` runs in the history, only `event: workflow_dispatch` entries from manual triggers. The workflow metadata still showed `state: active` and the YAML file was unchanged on `main`. No error, no notification, no disabled flag. Silent failure.
 
 **Root cause (suspected):** Both scheduled runs that DID fire on 2026-04-09 (11:33Z and 17:44Z) hit the 25-minute parallel-step timeout (25m14s and 25m24s durations). GitHub Actions has undocumented behavior where repeated scheduled failures can cause the scheduler to pause firing for that workflow without marking it disabled. This is not in GitHub's public docs but is a well-known community workaround. The "stale log contamination" bug documented above was the root cause of the timeouts.
 
@@ -182,15 +182,15 @@ Secondary impact: the `wait` step in the parallel runner never returned when a s
    sleep 3
    gh workflow enable api-enrichment.yml
    ```
-   Verify via `gh api repos/.../actions/workflows/{id} --jq '.updated_at'` — a fresh timestamp confirms the toggle took effect. Applied 2026-04-10 20:32Z (commit following this Pipeline Guide edit).
+ Verify via `gh api repos/./actions/workflows/{id} --jq '.updated_at'`, a fresh timestamp confirms the toggle took effect. Applied 2026-04-10 20:32Z (commit following this Pipeline Guide edit).
 
-**Quality check rule:** Preflight should now include a "scheduled runs health" check: `gh run list --workflow=api-enrichment.yml --limit 5 --json event,createdAt` and look for at least one `schedule` event in the last 12 hours. If none, the scheduler is stuck — apply the disable/enable toggle. Add this to `.claude/commands/preflight.md` as Step 4b when a recurrence forces the issue.
+**Quality check rule:** Preflight should now include a "scheduled runs health" check: `gh run list --workflow=api-enrichment.yml --limit 5 --json event,createdAt` and look for at least one `schedule` event in the last 12 hours. If none, the scheduler is stuck, apply the disable/enable toggle. Add this to `.claude/commands/preflight.md` as Step 4b when a recurrence forces the issue.
 
-**Follow-up:** If the scheduler stops again after this fix holds, the cause is NOT the timeout-induced pause — it's something else (repo inactivity auto-disable, workflow file corruption, GitHub-side incident). Check `gh api /repos/.../actions/workflows/{id} --jq '.state'` first.
+**Follow-up:** If the scheduler stops again after this fix holds, the cause is NOT the timeout-induced pause, it's something else (repo inactivity auto-disable, workflow file corruption, GitHub-side incident). Check `gh api /repos/./actions/workflows/{id} --jq '.state'` first.
 
 ### updateFrontmatter scalar/list hybrid corruption (fixed 2026-04-10)
 
-**Incident:** `scripts/lib/shared.cjs::updateFrontmatter()` had two code paths for writing frontmatter fields — scalar and array — and each had its own regex for finding the existing field. Neither path correctly handled the case where the existing value was in a DIFFERENT form than the new value being written. Specifically: when a pipeline wrote `donors: "comma,separated,string"` to a profile whose existing `donors:` field was a YAML list, the scalar-write regex `/^donors:.*$/m` replaced only the `donors:` line itself but left the indented `  - "..."` continuation lines underneath, creating:
+**Incident:** `scripts/lib/shared.cjs::updateFrontmatter()` had two code paths for writing frontmatter fields, scalar and array, and each had its own regex for finding the existing field. Neither path correctly handled the case where the existing value was in a DIFFERENT form than the new value being written. Specifically: when a pipeline wrote `donors: "comma,separated,string"` to a profile whose existing `donors:` field was a YAML list, the scalar-write regex `/^donors:.*$/m` replaced only the `donors:` line itself but left the indented ` - "."` continuation lines underneath, creating:
 
 ```yaml
 donors: "League of Conservation Voters,Trial Lawyers,..."
@@ -203,19 +203,19 @@ This is invalid YAML (`bad indentation of a mapping entry`) and broke the Quartz
 
 Smoking gun in the diff: a single 2-line change on 2026-04-10 at 22:59Z converted `donors:` from a clean list to the hybrid state, and the deploy log showed `content/Politicians/Democrats/Senate/Sheldon Whitehouse/_Sheldon Whitehouse Master Profile.md: bad indentation of a mapping entry (64:3)`.
 
-**Fix (fixed in engine commit after this Pipeline Guide edit):** Both write paths in `updateFrontmatter()` now use a single `fullFieldRegex(key)` helper that matches the key line PLUS any indented continuation lines (list items, wrapped values, etc.) before replacement. This guarantees the old field is fully removed regardless of its existing form. Test suite exercises four scenarios: scalar-replacing-list, array-replacing-list, array-replacing-scalar, and new-key insertion — all pass.
+**Fix (fixed in engine commit after this Pipeline Guide edit):** Both write paths in `updateFrontmatter()` now use a single `fullFieldRegex(key)` helper that matches the key line PLUS any indented continuation lines (list items, wrapped values, etc.) before replacement. This guarantees the old field is fully removed regardless of its existing form. Test suite exercises four scenarios: scalar-replacing-list, array-replacing-list, array-replacing-scalar, and new-key insertion, all pass.
 
 **Quality check rule:** Any regex that replaces a YAML mapping entry in frontmatter MUST consume continuation lines (`[ \t]{2,}[^\n]*` pattern) or it will leak orphaned continuation lines when the value type changes. If you see a regex like `^key:.*$` used for frontmatter replacement, assume it's broken and switch to the full-field pattern.
 
 **Preventive: vault-wide YAML sanity scan.** `scripts/yaml-sanity-scan.cjs` in the site repo validates every profile's frontmatter with `js-yaml` and reports any that fail. Run it after any bulk pipeline run that writes frontmatter fields. Zero-tolerance: any broken YAML blocks the Quartz deploy, so catch it pre-commit.
 
-**Root cause of the pipeline passing scalar donors to begin with:** separate issue — some pipeline (suspected: auto-connection or a merge script) was passing a comma-separated string where the field semantically should be an array. The `updateFrontmatter` fix makes this class of mismatch safe regardless of caller intent, but the caller-side bug should still be identified and corrected in a follow-up.
+**Root cause of the pipeline passing scalar donors to begin with:** separate issue, some pipeline (suspected: auto-connection or a merge script) was passing a comma-separated string where the field semantically should be an array. The `updateFrontmatter` fix makes this class of mismatch safe regardless of caller intent, but the caller-side bug should still be identified and corrected in a follow-up.
 
-### Bulk bioguide contamination — C001091 (Castro) + B001296 waves (fixed 2026-04-10)
+### Bulk bioguide contamination. C001091 (Castro) + B001296 waves (fixed 2026-04-10)
 
-**Incident:** A vault-wide scan of `bioguide-id` frontmatter values turned up **19 unrelated profiles all sharing `C001091`** (Joaquin Castro's bioguide) and **3 more sharing `B001296`** — 22 total profiles with the same wrong-ID pattern. Affected profiles crossed party, chamber, and era: Bowman, Morelle, Pelosi, Gottheimer, Padilla, Coons, Schumer, Clinton, Hickenlooper, Stratton, Cooper, Wahls, Sinema, Crenshaw, Salazar, Gaetz, Rick Scott, Ted Cruz, Tuberville (all C001091); Daniel Biss, Donna Miller, Melissa Bean (all B001296).
+**Incident:** A vault-wide scan of `bioguide-id` frontmatter values turned up **19 unrelated profiles all sharing `C001091`** (Joaquin Castro's bioguide) and **3 more sharing `B001296`**, 22 total profiles with the same wrong-ID pattern. Affected profiles crossed party, chamber, and era: Bowman, Morelle, Pelosi, Gottheimer, Padilla, Coons, Schumer, Clinton, Hickenlooper, Stratton, Cooper, Wahls, Sinema, Crenshaw, Salazar, Gaetz, Rick Scott, Ted Cruz, Tuberville (all C001091); Daniel Biss, Donna Miller, Melissa Bean (all B001296).
 
-**Root cause (pattern-matched):** Same class of bug as the A000383 Alan Armstrong incident. A past bulk-set script almost certainly fell through to `candidates[0]?.bioguideId` when a Congress.gov name search failed. The `q=` parameter on `/v3/member` does NOT do semantic name matching — it returns alphabetical hits. Any script that iterates profile titles and hits the API naively, then uses the first result as a fallback, will pin entire batches to whoever is first alphabetically. A-last-name runs pinned to Alan Armstrong (A000383); C-last-name runs pinned to Joaquin Castro (C001091). B001296 has a smaller footprint, suggesting a partial run on a different batch.
+**Root cause (pattern-matched):** Same class of bug as the A000383 Alan Armstrong incident. A past bulk-set script almost certainly fell through to `candidates[0]?.bioguideId` when a Congress.gov name search failed. The `q=` parameter on `/v3/member` does NOT do semantic name matching, it returns alphabetical hits. Any script that iterates profile titles and hits the API naively, then uses the first result as a fallback, will pin entire batches to whoever is first alphabetically. A-last-name runs pinned to Alan Armstrong (A000383); C-last-name runs pinned to Joaquin Castro (C001091). B001296 has a smaller footprint, suggesting a partial run on a different batch.
 
 **Critical pipeline safety risk observed in real-time:** Bowman was in the janitor-flagged `needs-reenrichment: true` set from today's zombie-profile cleanup. The running enrichment pipeline (`24269046614`) would have used his Bowman-labeled profile's `bioguide-id: C001091` to call `https://api.congress.gov/v3/member/C001091`, fetched Joaquin Castro's legislative record, and written it to Bowman's body as a fresh `<!-- auto:congress -->` block. Exact repeat of the A000383 incident. Pipeline was cancelled mid-run (`gh run cancel 24269046614` at ~24 minutes elapsed) before the contamination could land.
 

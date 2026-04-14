@@ -11,11 +11,11 @@ parent: null
 
 ---
 
-### 2026-03-27 Connection Audit — Cross-Section Link Report
+### 2026-03-27 Connection Audit. Cross-Section Link Report
 
-**Task:** Automated scheduled run — connection-mapper
+**Task:** Automated scheduled run, connection-mapper
 **Method:** Wikilink frequency count across all 6 vault sections; outgoing link analysis on top 10 hub nodes; reciprocal link check on 5 random donor nodes.
-**Chrome status:** UNAVAILABLE — no API or URL verification performed. This is a structural audit only.
+**Chrome status:** UNAVAILABLE, no API or URL verification performed. This is a structural audit only.
 
 ---
 
@@ -24,12 +24,12 @@ parent: null
 **Hub nodes** are defined as any donor node or politician master profile referenced by 30+ other vault files. The top 10 by reference count are listed below.
 
 The 6 vault sections scanned:
-1. **Politicians** — `topics/Politicians/`
-2. **Donors & Power Networks** — `topics/Donors & Power Networks/`
-3. **Stories** — `topics/Stories/`
-4. **Media & Influence Pipeline** — `topics/Media & Influence Pipeline/`
-5. **Think Tanks & Policy Infrastructure** — `topics/Think Tanks & Policy Infrastructure/`
-6. **Lobbying Firms & K Street** — `topics/Lobbying Firms & K Street/`
+1. **Politicians**, `topics/Politicians/`
+2. **Donors & Power Networks**, `topics/Donors & Power Networks/`
+3. **Stories**, `topics/Stories/`
+4. **Media & Influence Pipeline**, `topics/Media & Influence Pipeline/`
+5. **Think Tanks & Policy Infrastructure**, `topics/Think Tanks & Policy Infrastructure/`
+6. **Lobbying Firms & K Street**, `topics/Lobbying Firms & K Street/`
 
 #### Hub Reference Counts (Full Vault)
 
@@ -58,7 +58,7 @@ For each hub: **Sections Linked** = sections the hub's own file currently links 
 | _Donald Trump Master Profile | 454 | (same) | Think Tanks & Policy Infrastructure | 2 files |
 | _Donald Trump Master Profile | 454 | (same) | Lobbying Firms & K Street | 5 files |
 | AIPAC - American Israel Public Affairs Committee | 385 | Politicians, Donors & Power Networks, Media & Influence Pipeline, Think Tanks, Lobbying | Stories | 37 files (AIPAC Illinois Shell PAC Operation, 2026 Senate Races, Illinois/Georgia/Michigan primaries) |
-| Koch Network - Charles Koch | 375 | **ALL 6 SECTIONS** | — | No missing sections |
+| Koch Network - Charles Koch | 375 | **ALL 6 SECTIONS** |, | No missing sections |
 | _Gavin Newsom Master Profile | 240 | Politicians, Donors & Power Networks | Stories | 17 files |
 | _Gavin Newsom Master Profile | 240 | (same) | Media & Influence Pipeline | 0 files |
 | _Gavin Newsom Master Profile | 240 | (same) | Think Tanks & Policy Infrastructure | 0 files |
@@ -84,7 +84,7 @@ For each hub: **Sections Linked** = sections the hub's own file currently links 
 | Peter Thiel | 154 | (same) | Think Tanks & Policy Infrastructure | 1 file |
 | Peter Thiel | 154 | (same) | Lobbying Firms & K Street | 1 file |
 
-**Notable finding:** Koch Network is the only top-10 hub with outgoing links to all 6 sections — it is the best-connected hub node in the vault. All others have at least one section gap. Goldman Sachs has a particularly notable Think Tank gap: 17 think tank files reference Goldman Sachs but Goldman Sachs itself contains no outgoing links to the Think Tanks section.
+**Notable finding:** Koch Network is the only top-10 hub with outgoing links to all 6 sections, it is the best-connected hub node in the vault. All others have at least one section gap. Goldman Sachs has a particularly notable Think Tank gap: 17 think tank files reference Goldman Sachs but Goldman Sachs itself contains no outgoing links to the Think Tanks section.
 
 ---
 
@@ -123,7 +123,7 @@ Five donor nodes selected at random from `topics/Donors & Power Networks/`. For 
 | J Street | _John Hickenlooper Master Profile | Politician → Donor | Hickenlooper profile mentions J Street; no wikilink |
 | J Street | _Sheldon Whitehouse Master Profile | Politician → Donor | Whitehouse profile mentions J Street; no wikilink |
 
-**Observation:** The J Street gap is the most systemic — 5 of 8 politician profiles that mention J Street lack a wikilink. Cargill has no reciprocal links at all across 5 politician profiles that all name it explicitly. The 85 Fund gap is analytically significant: Sheldon Whitehouse has made The 85 Fund the centerpiece of his dark money crusade, yet his master profile doesn't link to the donor node.
+**Observation:** The J Street gap is the most systemic, 5 of 8 politician profiles that mention J Street lack a wikilink. Cargill has no reciprocal links at all across 5 politician profiles that all name it explicitly. The 85 Fund gap is analytically significant: Sheldon Whitehouse has made The 85 Fund the centerpiece of his dark money crusade, yet his master profile doesn't link to the donor node.
 
 ---
 
@@ -135,15 +135,15 @@ Ranked by analytical impact and reference volume.
 |----------|--------|-----------|
 | **1** | Add outgoing links from `Elon Musk.md` → Stories section (substantive story files) + Media & Influence Pipeline (7 files) | Elon Musk is 8th most-referenced hub (162 refs) with NO outgoing links to Stories or Media. [[Joe Rogan]], Tucker Carlson, Bari Weiss, Matt Taibbi all tied to Musk editorially. Missing connections weaken the network graph. |
 | **2** | Add outgoing links from `Goldman Sachs.md` → Think Tanks & Policy Infrastructure (17 files: Brookings, CFR, Atlantic Council, RAND, CAP, Third Way, Aspen) | Goldman Sachs funds or places alumni at 17 think tank nodes that reference it but receive no link from Goldman Sachs itself. This is the revolving door gap with the highest file count in a single missing section. |
-| **3** | Add `[[The 85 Fund]]` wikilink to `_Sheldon Whitehouse Master Profile.md` | Whitehouse has made The 85 Fund his primary rhetorical weapon — it appears prominently in his profile text but has no functional wikilink. Highest-impact single politician→donor link gap. |
-| **4** | Add outgoing links from `Peter Thiel.md` → Media & Influence Pipeline (18 files) | Peter Thiel is 10th most-referenced hub (154 refs). 18 media personality files reference him, including Bari Weiss, Glenn Greenwald, Joe Rogan, Lex Fridman, Matt Taibbi — all of whom received Thiel funding or platforming. No outgoing links from Thiel's own file to Media section. |
+| **3** | Add `[[The 85 Fund]]` wikilink to `_Sheldon Whitehouse Master Profile.md` | Whitehouse has made The 85 Fund his primary rhetorical weapon, it appears prominently in his profile text but has no functional wikilink. Highest-impact single politician→donor link gap. |
+| **4** | Add outgoing links from `Peter Thiel.md` → Media & Influence Pipeline (18 files) | Peter Thiel is 10th most-referenced hub (154 refs). 18 media personality files reference him, including Bari Weiss, Glenn Greenwald, Joe Rogan, Lex Fridman, Matt Taibbi, all of whom received Thiel funding or platforming. No outgoing links from Thiel's own file to Media section. |
 | **5** | Add `[[Cargill]]` wikilinks to Klobuchar, Thompson, Fischer, Ernst, Tuberville master profiles | Cargill is named in the revolving door section of Klobuchar's profile with specific staff detail (Anne Knapke). Zero reciprocal wikilinks across 5 Agriculture Committee–adjacent senators/representatives is a systematic gap. |
 
 ---
 
 ### Methodology Notes
 
-- All wikilink counts performed via `grep -roh '\[\[...\]\]'` across vault `.md` files, deduped by `uniq -c`.
+- All wikilink counts performed via `grep -roh '\[\[..\]\]'` across vault `.md` files, deduped by `uniq -c`.
 - "Sections linked" = outgoing wikilinks in hub file that resolve to a filename in that section.
 - "Files referencing hub" = files in a given section containing the hub's name string (whether or not as a formal wikilink).
 - SCOTUS profiles are nested under `Politicians/` and counted in the Politicians section for this audit.

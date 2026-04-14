@@ -87,7 +87,7 @@ In May 2024 the New York Times reported that an upside down American flag had fl
 ### Sources
 
 - [Inside Climate News. Alito's Recusal in Oil Case Renews Questions About Justice's Investments (January 2026)](https://insideclimatenews.org/news/13012026/supreme-court-justice-samuel-alito-oil-investments-recusal/) (Tier 2) (VERIFIED)
-- ~~[Constitutional Accountability Center. Justice Alito's Stock Portfolio Stands Apart on US Supreme Court](https://www.theusconstitution.org/news/justice-alitos-stock-portfolio-stands-apart-on-us-supreme-court/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Constitutional Accountability Center. Justice Alito's Stock Portfolio Stands Apart on US Supreme Court](https://www.theusconstitution.org/news/justice-alitos-stock-portfolio-stands-apart-on-us-supreme-court/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Newsweek. Samuel Alito Recuses From Chevron Climate Case Days Before Supreme Court Arguments (March 2026)](https://www.newsweek.com/supreme-court-alito-recusal-chevron-case-11332936) (Tier 2) (VERIFIED)
 - [Slate. Sam Alito's Latest Reversal at the Supreme Court Is an Absolute Embarrassment (March 2026)](https://slate.com/news-and-politics/2026/03/sam-alito-supreme-court-embarrassment.html) (Tier 2) (VERIFIED)
 - [New Republic. The Supreme Court's Ethics Code Is a Joke. Big Oil Knows That](https://newrepublic.com/article/203669/coney-barett-oil-climate-alito-conflicts) (Tier 2) (VERIFIED)

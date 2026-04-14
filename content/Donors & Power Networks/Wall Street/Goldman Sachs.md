@@ -203,7 +203,7 @@ Goldman's bipartisan giving reflects this reality: donate to whoever is in power
 - [Goldman Sachs Lobbying Profile. OpenSecrets](https://lda.gov/filings/public/filing/search/) (Tier 1)
 - [Goldman Sachs PAC Finance Summary 2025–2026. BeautifyData](https://beautifydata.com/us-campaign-donations/2025-2026/pac-summary/the-goldman-sachs-group-inc-political-action-committee) (Tier 3) (VERIFIED)
 - [U.S. banks' IPOs and political money contributions. ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S1572308922000808) (Tier 2) (VERIFIED)
-- ~~[Goldman Sachs Keeps Its Wallet Closed to Politicians, Parties. Bloomberg](https://www.bloomberg.com/news/articles/2021-07-08/goldman-sachs-keeps-its-wallet-closed-to-politicians-parties)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Goldman Sachs Keeps Its Wallet Closed to Politicians, Parties. Bloomberg](https://www.bloomberg.com/news/articles/2021-07-08/goldman-sachs-keeps-its-wallet-closed-to-politicians-parties)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [THE GOLDMAN SACHS GROUP, INC. POLITICAL ACTION COMMITTEE. FEC.gov](https://www.fec.gov/data/committee/C00350744/?tab=summary) (Tier 1) (VERIFIED)
 
 ### Financial Overview (990 Filing, 2023)

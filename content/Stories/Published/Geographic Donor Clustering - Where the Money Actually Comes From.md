@@ -6,7 +6,7 @@ editor-vouched: true
 last-updated: 2026-04-13
 source-tier: 1
 parent: null
-related: "[[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]] · [[Harris-Newsom Donor Class Fracture]] · [[2028 Presidential Landscape]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Georgia 2026 Senate Race]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[New York House Races 2026]] · [[Illinois House Primaries 2026 - The PAC Laboratory]] · [[AIPAC Illinois Shell PAC Operation]] · [[Research Methodology and Data Sources]] · [[_Gavin Newsom Master Profile]] · [[_Donald Trump Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[Koch Network - Charles Koch]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Intra-Republican Contradiction Map]] · [[Schumer-McConnell Senate Leadership Mirror - Same Money, Different Caucuses]] · [[Pelosi-McCarthy House Leadership Mirror - Same Corporate Apparatus, Different Brand]] · [[How Money Captures Media — The Donor Map Media Pipeline]] · [[Booker-Scott Donor Class Mirror - Two Black Senators, One Donor Class]] · [[Tech Billionaires Switch Parties on Regulatory Self-Interest]] · [[Schwarzman and Singer Fund Every Republican Faction]] · [[ALEC Legislative Language Layer - Who Actually Writes the Laws]] · [[Crypto Industry Buys Both Parties in One Cycle]] · [[Illinois 2026 Senate Race]] · [[2026 House Money Map]]"
+related: "[[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]] · [[Harris-Newsom Donor Class Fracture]] · [[2028 Presidential Landscape]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Georgia 2026 Senate Race]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[New York House Races 2026]] · [[Illinois House Primaries 2026 - The PAC Laboratory]] · [[AIPAC Illinois Shell PAC Operation]] · [[Research Methodology and Data Sources]] · [[_Gavin Newsom Master Profile]] · [[_Donald Trump Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[Koch Network - Charles Koch]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Intra-Republican Contradiction Map]] · [[Schumer-McConnell Senate Leadership Mirror - Same Money, Different Caucuses]] · [[Pelosi-McCarthy House Leadership Mirror - Same Corporate Apparatus, Different Brand]] · [[How Money Captures Media , The Donor Map Media Pipeline]] · [[Booker-Scott Donor Class Mirror - Two Black Senators, One Donor Class]] · [[Tech Billionaires Switch Parties on Regulatory Self-Interest]] · [[Schwarzman and Singer Fund Every Republican Faction]] · [[ALEC Legislative Language Layer - Who Actually Writes the Laws]] · [[Crypto Industry Buys Both Parties in One Cycle]] · [[Illinois 2026 Senate Race]] · [[2026 House Money Map]]"
 ---
 #investigation #methodology-layer #geographic-clustering #donor-geography #class-analysis #follow-the-money
 tags: #story
@@ -166,14 +166,14 @@ The politicians who violate this pattern are revealing:
 - [FEC Candidate: Tim Scott Campaign Finance Summary](https://www.fec.gov/data/candidate/P80008063/) (Tier 1) (VERIFIED)
 - [FEC Candidate: Adam Schiff Campaign Finance Summary](https://www.fec.gov/data/candidate/H0CA27085/) (Tier 1) (VERIFIED)
 - [FEC Candidate: Bernie Sanders Campaign Finance Summary](https://www.fec.gov/data/candidate/H8VT01016/) (Tier 1) (VERIFIED)
-- ~~[FEC Candidate: Alexandria Ocasio-Cortez Campaign Finance Summary](https://www.fec.gov/data/candidate/H8NY15148/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[Washington Post: See how your neighborhood is giving to Harris and Trump (2024)](https://www.washingtonpost.com/elections/interactive/2024/trump-harris-donors-zip-code-map/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[FEC Candidate: Alexandria Ocasio-Cortez Campaign Finance Summary](https://www.fec.gov/data/candidate/H8NY15148/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Washington Post: See how your neighborhood is giving to Harris and Trump (2024)](https://www.washingtonpost.com/elections/interactive/2024/trump-harris-donors-zip-code-map/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ### Nationalization of Elections (Academic):
 - [OpenSecrets Special Report: Outside Money, Inside Influence: How National Donors Shaped the 2024 Congressional Elections](https://www.opensecrets.org/news/reports/outside-money-inside-influence) (Tier 1) (VERIFIED)
 - [OpenSecrets: How National Donors Shaped the 2024 Congressional Elections](https://www.opensecrets.org/news/2025/05/special-report-how-national-donors-shaped-the-2024-congressional-elections) (Tier 1) (VERIFIED)
 - ~~[Nicholas Jacobs and Wasike Gil Imboywa: The Nationalization of Individual Campaign Contributions in U.S. Senate Elections, 1984-2020](https://journals.sagepub.com/doi/10.1177/1532673X231220639)~~ (URL broken, archived by Ops) (Sage Journals, Tier 2) (Tier 2)
-- ~~[The Hill: Why a Few Dozen Zip Codes Dominate Political Giving](https://thehill.com/opinion/campaign/592517-why-a-few-dozen-zip-codes-dominate-political-giving/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Why a Few Dozen Zip Codes Dominate Political Giving](https://thehill.com/opinion/campaign/592517-why-a-few-dozen-zip-codes-dominate-political-giving/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ### Zip Code Concentration Studies:
 - [OpenSecrets: Top Zip Codes Contributing Money](https://www.opensecrets.org/elections-overview) (Tier 1) (VERIFIED)
@@ -182,7 +182,7 @@ The politicians who violate this pattern are revealing:
 - [Common Dreams: Just 12 Super-Rich Donors Spent $3.4 Billion to Sway US Elections Since 2009](https://www.commondreams.org/news/2021/04/20/just-12-super-rich-donors-spent-34-billion-sway-us-elections-2009-study) (Tier 3) (VERIFIED)
 
 ### Demographic Analysis of Donor Geography:
-- ~~[Democracy NC: Color of Money - Charlotte Named North Carolina's Political Money Center](https://democracync.org/research/charlotte-named-north-carolinas-political-money-center-color-money-shows-need-campaign-reform/-center-color-money-shows-need-campaign-reform/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Democracy NC: Color of Money - Charlotte Named North Carolina's Political Money Center](https://democracync.org/research/charlotte-named-north-carolinas-political-money-center-color-money-shows-need-campaign-reform/-center-color-money-shows-need-campaign-reform/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ---
 

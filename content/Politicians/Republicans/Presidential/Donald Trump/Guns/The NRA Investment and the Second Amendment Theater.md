@@ -96,7 +96,7 @@ The manufacturers are not just donors. They are voter mobilization infrastructur
 
 - [OpenSecrets. NRA Lobbying Profile and Outside Spending](https://www.opensecrets.org/orgs/national-rifle-assn/totals?id=D000000082) (Tier 1) (VERIFIED)
 - [The Trace. NRA 2020 Election Spending (August 2020)](https://www.thetrace.org/2020/08/nra-2020-election-spending-trump/) (Tier 2) (VERIFIED)
-- ~~[Supreme Court. Garland v. Cargill (Bump Stocks, June 14, 2024)](https://www.supremecourt.gov/opinions/23pdf/22-976_c07d.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Supreme Court. Garland v. Cargill (Bump Stocks, June 14, 2024)](https://www.supremecourt.gov/opinions/23pdf/22-976_c07d.pdf)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [ProPublica. Gun Makers Shared Customer Data with Political Operatives](https://www.propublica.org/article/gunmakers-owners-sensitive-personal-information-glock-remington-nssf) (Tier 2) (VERIFIED)
 - [Center for American Progress. Gun Lobby Donations Driving GOP Opposition to Gun Control](https://www.americanprogressaction.org/article/gun-lobby-donations-are-driving-the-gops-increasingly-extreme-opposition-to-gun-control/) (Tier 2) (VERIFIED)
 - [CNN. Red Flag Law Explainer and Trump Position (August 2019)](https://www.cnn.com/2019/08/05/politics/red-flag-gun-law-explainer-donald-trump) (Tier 3) (VERIFIED)

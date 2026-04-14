@@ -29,10 +29,10 @@ donors: [[Tech and Media Donors]] · [[Entertainment and Hollywood Donors]]
 - Clients: BBC, international media organizations
 - Geographic focus: East Africa, Middle East, global corruption networks
 - Notable projects:
-  - ISIS war crimes documentation
-  - East African death squad investigations
-  - Corruption exposés
-  - Institutional dysfunction investigation
+ - ISIS war crimes documentation
+ - East African death squad investigations
+ - Corruption exposés
+ - Institutional dysfunction investigation
 
 ### Key Documentary Credit:
 Ossoff served as executive producer on documentaries with journalist Stacey Dooley:

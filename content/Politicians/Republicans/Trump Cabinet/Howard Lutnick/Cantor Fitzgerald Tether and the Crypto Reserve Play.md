@@ -32,7 +32,7 @@ donors: [[Crypto Industry Bloc]]
 | Convertible debt | Undisclosed position in Tether |
 | Undisclosed loan | Cantor and Tether lending "near-identical amounts" (Protos investigation) |
 
-Tether issues USDT — the world's largest stablecoin by market cap ($142B). Its reserves are supposed to be 1:1 backed by Treasury securities. Cantor Fitzgerald holds nearly all of those Treasuries. The custodian relationship makes Cantor the financial infrastructure underlying the world's most-used cryptocurrency.
+Tether issues USDT, the world's largest stablecoin by market cap ($142B). Its reserves are supposed to be 1:1 backed by Treasury securities. Cantor Fitzgerald holds nearly all of those Treasuries. The custodian relationship makes Cantor the financial infrastructure underlying the world's most-used cryptocurrency.
 
 ---
 
@@ -40,7 +40,7 @@ Tether issues USDT — the world's largest stablecoin by market cap ($142B). Its
 
 In March 2025, Cantor launched a $2 billion Bitcoin financing business with custodians Anchorage Digital and Copper. The timing: one month after Lutnick was confirmed as Commerce Secretary.
 
-Simultaneously, Lutnick family trusts — controlled by son Brandon — began purchasing Bitcoin company stock while Lutnick advocated for crypto-favorable policy from his government position.
+Simultaneously, Lutnick family trusts, controlled by son Brandon, began purchasing Bitcoin company stock while Lutnick advocated for crypto-favorable policy from his government position.
 
 ---
 

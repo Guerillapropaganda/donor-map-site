@@ -1,5 +1,5 @@
 ---
-title: "Sylvia R. Garcia Master Profile"
+title: "Sylvia R. Garcia"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

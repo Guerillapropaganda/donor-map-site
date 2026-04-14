@@ -69,7 +69,7 @@ Relaxed television station ownership limits (allowing more station acquisitions)
 
 ### Sources
 
-- ~~[OpenSecrets: Sinclair Broadcast Group](https://www.opensecrets.org/orgs/sinclair-broadcast-group/summary?id=D000029897)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Sinclair Broadcast Group](https://www.opensecrets.org/orgs/sinclair-broadcast-group/summary?id=D000029897)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [FCC: Station ownership filings](https://www.fcc.gov/media/television/tv-station-profiles) (Tier 1) (NEEDS REVIEW)
 - [Deadspin: Sinclair script compilation](https://www.youtube.com?v=_fHfgU8oMSo) (Tier 2) (VERIFIED)
 - [Ballotpedia: Sinclair Broadcast Group](https://ballotpedia.org/Sinclair_Broadcast_Group) (Tier 3) (VERIFIED)

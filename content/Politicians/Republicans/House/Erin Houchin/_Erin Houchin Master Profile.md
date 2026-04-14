@@ -1,5 +1,5 @@
 ---
-title: "Erin Houchin Master Profile"
+title: "Erin Houchin"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

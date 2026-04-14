@@ -64,7 +64,7 @@ The Axovant pattern reveals the profit mechanism: Identify a failed drug (GSK pa
 
 ## The QVT Financial Pipeline and Martin Shkreli
 
-Before founding Roivant, Ramaswamy was a partner at QVT Financial (2007–2014), managing the biotech portfolio for a multi-billion dollar hedge fund. QVT's biotech positions included Martin Shkreli's Retrophin — the company Shkreli founded before he went on to Turing Pharmaceuticals and the infamous Daraprim price hike (5,556% overnight increase).
+Before founding Roivant, Ramaswamy was a partner at QVT Financial (2007–2014), managing the biotech portfolio for a multi-billion dollar hedge fund. QVT's biotech positions included Martin Shkreli's Retrophin, the company Shkreli founded before he went on to Turing Pharmaceuticals and the infamous Daraprim price hike (5,556% overnight increase).
 
 Ramaswamy's position on Shkreli:
 - Called Shkreli "brilliant" in public interviews
@@ -72,13 +72,13 @@ Ramaswamy's position on Shkreli:
 - Criticized the DOJ for prosecuting Shkreli, characterizing his misconduct as "victimless"
 - The misconduct in question: Retrophin accounting manipulation that artificially inflated asset values
 
-The pipeline: hedge fund biotech speculation (QVT, 2007-2014) → biotech entrepreneurship (Roivant, 2014+) → pharmaceutical deregulation advocacy (Trump DOGE, 2024-25) → pharmaceutical deregulation politics (Ohio governor, FDA gutting platform). Each stage serves the same class interest — pharma industry profit maximization without regulatory constraint — while the political brand evolves from Wall Street insider to "anti-establishment populist."
+The pipeline: hedge fund biotech speculation (QVT, 2007-2014) → biotech entrepreneurship (Roivant, 2014+) → pharmaceutical deregulation advocacy (Trump DOGE, 2024-25) → pharmaceutical deregulation politics (Ohio governor, FDA gutting platform). Each stage serves the same class interest, pharma industry profit maximization without regulatory constraint, while the political brand evolves from Wall Street insider to "anti-establishment populist."
 
 ---
 
 ## The Strive Asset Management Vector: Deregulation as Fiduciary Duty
 
-In 2022, Ramaswamy founded Strive Asset Management — a hedge fund and investment management firm managing $400+ million in assets. Strive's explicit investment thesis: oppose ESG (Environmental, Social, and Governance) regulations and fund political candidates who promise deregulation. The firm's core argument: ESG constraints reduce returns; deregulation increases returns.
+In 2022, Ramaswamy founded Strive Asset Management, a hedge fund and investment management firm managing $400+ million in assets. Strive's explicit investment thesis: oppose ESG (Environmental, Social, and Governance) regulations and fund political candidates who promise deregulation. The firm's core argument: ESG constraints reduce returns; deregulation increases returns.
 
 For Ramaswamy personally, this creates a fiduciary double-bind: As Strive's founder and portfolio manager, he has a legal duty to maximize returns for investors. His personal holdings in Roivant (worth $565-670M) directly benefit from FDA deregulation. His Strive portfolio benefits from any deregulation across biotech and finance. His political campaign benefits from billionaire funding (which Strive's deregulation platform attracts).
 
@@ -105,7 +105,7 @@ As Ohio governor candidate, Ramaswamy has proposed eliminating Ohio's state capi
 
 In 2020, at the height of Black Lives Matter organizing, Ramaswamy's Roivant Sciences established **Roivant Social Ventures** (RSV), a nonprofit foundation supporting pro-DEI and pro-ESG initiatives in biotech and pharmaceutical companies. RSV's stated mission: "Promote health equity and diversity in life sciences." The foundation made grants to organizations focused on racial justice in healthcare.
 
-In 2021, Ramaswamy published **"Woke, Inc.: Inside Corporate America's Social Justice Scam"** — a New York Times bestseller arguing that corporate DEI is a "self-interested scam" designed to distract from real economic injustice. He launched his 2024 presidential campaign explicitly opposing DEI in government and corporations.
+In 2021, Ramaswamy published **"Woke, Inc.: Inside Corporate America's Social Justice Scam"**, a New York Times bestseller arguing that corporate DEI is a "self-interested scam" designed to distract from real economic injustice. He launched his 2024 presidential campaign explicitly opposing DEI in government and corporations.
 
 The contradiction:
 - Roivant Social Ventures funded DEI
@@ -146,13 +146,13 @@ Class impact analysis:
 - Billionaire capital gains: For Ramaswamy at $2.4B wealth, a 10% annual return = $240M/year. Capital gains tax elimination saves ~$7.2M/year
 - Worker services funded by state income tax: public education, state colleges, Medicaid, transportation, infrastructure
 
-Who benefits from capital gains tax elimination? Primarily people with capital gains — billionaires and large investors. Who pays? Working-class Ohioans who depend on state services funded by income tax.
+Who benefits from capital gains tax elimination? Primarily people with capital gains, billionaires and large investors. Who pays? Working-class Ohioans who depend on state services funded by income tax.
 
 ---
 
 ## Analytical Patterns
 
-**The Founder-Investor Wealth Transfer:** Ramaswamy has repeatedly used the same pattern: identify failing pharma assets (Axovant, others), create entities to develop them, raise capital from investors, sell personal shares before results, let the company fail after he's extracted wealth. This is not misconduct (legally) — it's the allowed structure of venture capital. But the economic function is wealth transfer from investors to founders.
+**The Founder-Investor Wealth Transfer:** Ramaswamy has repeatedly used the same pattern: identify failing pharma assets (Axovant, others), create entities to develop them, raise capital from investors, sell personal shares before results, let the company fail after he's extracted wealth. This is not misconduct (legally), it's the allowed structure of venture capital. But the economic function is wealth transfer from investors to founders.
 
 **The Regulatory Capture Playbook:** Each stage of Ramaswamy's career has positioned him closer to regulatory power over his own industry. QVT (influence over biotech). Roivant (founder of biotech). Strive (investor activist opposing regulation). DOGE (government position with no execution). Ohio governor (state-level deregulation). Each position serves the same material interest.
 
@@ -167,4 +167,4 @@ Who benefits from capital gains tax elimination? Primarily people with capital g
 ### Verified
 - [SEC EDGAR: Roivant Sciences filings and ownership structure](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=roivant&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1) (VERIFIED)
 - [FDA CDER: Drug approval timelines and accelerated pathways](https://www.fda.gov/drugs) (Tier 1) (VERIFIED)
-- ~~[Washington Post: Vivek Ramaswamy's push for FDA changes could boost his wealth](https://www.washingtonpost.com/business/2024/11/25/vivek-ramaswamy-conflicts-doge-fda/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Washington Post: Vivek Ramaswamy's push for FDA changes could boost his wealth](https://www.washingtonpost.com/business/2024/11/25/vivek-ramaswamy-conflicts-doge-fda/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

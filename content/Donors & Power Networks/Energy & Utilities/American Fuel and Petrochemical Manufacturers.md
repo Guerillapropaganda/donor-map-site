@@ -130,7 +130,7 @@ AFPM is the fossil fuel industry's collective action vehicle, a $61.4M trade ass
 - [AFPM: About Us](https://afpm.org/about-us/about-us) (Tier 3) (VERIFIED)
 - [AFPM: History](https://afpm.org/about-afpm/our-history) (Tier 3) (VERIFIED)
 - [AFPM: CEO Chet Thompson](https://www.afpm.org/about-afpm/staff-directory/chet-thompson-president-and-ceo) (Tier 3) (VERIFIED)
-- ~~[AFPM: Statement on Trump executive orders](https://www.afpm.org/newsroom/news/afpm-statement-president-trumps-executive-orders-unleashing-american-energy)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3) (URL NEEDED)
+- ~~[AFPM: Statement on Trump executive orders](https://www.afpm.org/newsroom/news/afpm-statement-president-trumps-executive-orders-unleashing-american-energy)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3) (URL NEEDED)
 - [Wikipedia: AFPM](https://en.wikipedia.org/wiki/American_Fuel_and_Petrochemical_Manufacturers) (Tier 4) (VERIFIED)
 - [ProPublica: AFPM 990 filings](https://projects.propublica.org/nonprofits/organizations/130433430) (Tier 1) (VERIFIED)
 - [OpenSecrets: AFPM contributions](https://www.opensecrets.org/orgs/american-fuel-petrochemical-manufacturers/summary?id=D000000481) (Tier 1) (VERIFIED)

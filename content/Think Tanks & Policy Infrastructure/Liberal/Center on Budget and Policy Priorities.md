@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: liberal
 tax-status: 501c3
-related: "[[George Soros]] · [[Open Society Foundations]] · [[Democracy Alliance]] · [[AFL-CIO]] · [[Center for American Progress]] · [[Economic Policy Institute]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[Urban Institute]] · [[Brennan Center for Justice]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Mercatus Center]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[RAND Corporation]] · [[Council on Foreign Relations]] · [[Center for a New American Security]] · [[Brookings Institution]] · [[Atlantic Council]] · [[Aspen Institute]]"
+related: "[[George Soros]] · [[Open Society Foundations]] · [[Democracy Alliance]] · [[AFL-CIO]] · [[Center for American Progress]] · [[Economic Policy Institute]] · [[The Idea Laundering Pipeline , How Think Tank Research Becomes Law]] · [[The Think Tank Money Map , Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door , A Cross-Think-Tank Personnel Map]] · [[Urban Institute]] · [[Brennan Center for Justice]] · [[Cross-Think-Tank Donor Map , The Both-Sides Illusion With Receipts]] · [[Mercatus Center]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[RAND Corporation]] · [[Council on Foreign Relations]] · [[Center for a New American Security]] · [[Brookings Institution]] · [[Atlantic Council]] · [[Aspen Institute]]"
 court-cases: 159
 last-enriched: "2026-04-08"
 court-jurisdictions:
@@ -237,22 +237,22 @@ The Democracy Alliance connection and the Arabella Advisors dark money pipeline 
 ### Sources
 
 - [ProPublica Nonprofit Explorer: Center on Budget and Policy Priorities, Form 990 data](https://projects.propublica.org/nonprofits/organizations/521234565) (Tier 1) (VERIFIED)
-- ~~[CBPP: About page](https://www.cbpp.org/about)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[CBPP: About page](https://www.cbpp.org/about)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [CBPP: Finances page](https://www.cbpp.org/about/finances) (Tier 3) (VERIFIED)
-- ~~[CBPP: Board page](https://www.cbpp.org/about/board)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[CBPP: Board page](https://www.cbpp.org/about/board)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Wikipedia: Center on Budget and Policy Priorities](https://en.wikipedia.org/wiki/Center_on_Budget_and_Policy_Priorities) (Tier 3) (VERIFIED)
 - [InfluenceWatch: Center on Budget and Policy Priorities](https://www.influencewatch.org/non-profit/center-on-budget-and-policy-priorities/) (Tier 3) (VERIFIED)
 - [OpenSecrets: Center on Budget & Policy Priorities profile](https://www.opensecrets.org/orgs/center-on-budget-policy-priorities/summary?id=D000044495) (Tier 1) (VERIFIED)
 - [CBPP: Sharon Parrott named president announcement](https://www.cbpp.org/press/press-releases/cbpp-announces-sharon-parrott-as-new-president) (Tier 3) (VERIFIED)
 - [USDA: Statement on Intent to Nominate Stacy Dean as Under Secretary for Food, Nutrition, and Consumer Services](https://www.usda.gov/about-usda/news/press-releases/2022/05/13/statement-agriculture-secretary-tom-vilsack-intent-nominate-stacy-dean-serve-under-secretary-food) (Tier 1) (VERIFIED)
 - [Jewish Insider: Meet Aviva Aron-Dine, the White House's newest econ wonk (2022)](https://jewishinsider.com/2022/06/aviva-aron-dine-national-economic-council-white-house/) (Tier 2) (VERIFIED)
-- ~~[The Hill: Working for lasting change (CBPP at 40)](https://thehill.com/policy/finance/547825-working-for-lasting-change/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[CBPP: American Rescue Plan Act Includes Critical Expansions of CTC and EITC](https://www.cbpp.org/research/federal-tax/american-rescue-plan-act-includes-critical-expansions-of-child-tax-credit-and)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[The Hill: Working for lasting change (CBPP at 40)](https://thehill.com/policy/finance/547825-working-for-lasting-change/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[CBPP: American Rescue Plan Act Includes Critical Expansions of CTC and EITC](https://www.cbpp.org/research/federal-tax/american-rescue-plan-act-includes-critical-expansions-of-child-tax-credit-and)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [CBPP: State Priorities Partnership](https://www.cbpp.org/the-state-priorities-partnership) (Tier 3) (VERIFIED)
 - [Open Philanthropy: Case Study. Center on Budget and Policy Priorities (think tank effectiveness and influence analysis)](https://www.openphilanthropy.org/wp-content/uploads/Case_Study_Center_on_Budget_and_Policy_Priorities.pdf) (Tier 2) (VERIFIED)
 - [MacArthur Foundation: Center on Budget and Policy Priorities grant history ($8.45M total)](https://www.macfound.org/grantee/center-on-budget-and-policy-priorities-990/) (Tier 1) (VERIFIED)
-- ~~[CBPP: Executive Action Watch, real-time tracker of Trump executive actions affecting federal budget and safety net](https://www.cbpp.org/research/federal-budget/executive-action-watch)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
-- ~~[CBPP: Administration's Radical Personnel Cuts Bypassed Congress and Lacked Transparency (2025)](https://www.cbpp.org/research/federal-budget/administrations-radical-personnel-cuts-bypassed-congress-and-lacked)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[CBPP: Executive Action Watch, real-time tracker of Trump executive actions affecting federal budget and safety net](https://www.cbpp.org/research/federal-budget/executive-action-watch)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[CBPP: Administration's Radical Personnel Cuts Bypassed Congress and Lacked Transparency (2025)](https://www.cbpp.org/research/federal-budget/administrations-radical-personnel-cuts-bypassed-congress-and-lacked)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->

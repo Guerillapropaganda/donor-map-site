@@ -11,7 +11,7 @@ related: "[[_Linda McMahon Master Profile]]"
 ---
 #linda-mcmahon #education #school-choice #vouchers #privatization #project-2025 #class-analysis #follow-the-money
 
-donors: (Private education and for-profit charter networks — no specific nodes)
+donors: (Private education and for-profit charter networks, no specific nodes)
 
 ---
 
@@ -25,13 +25,13 @@ donors: (Private education and for-profit charter networks — no specific nodes
 ### The Policy Agenda
 
 ### Education Savings Accounts (ESAs):
-McMahon supports Arizona-model ESAs — accounts funded with taxpayer money that parents can spend on private school tuition, homeschool materials, tutoring, or other education expenses. The model diverts per-pupil funding from public schools to private spending.
+McMahon supports Arizona-model ESAs, accounts funded with taxpayer money that parents can spend on private school tuition, homeschool materials, tutoring, or other education expenses. The model diverts per-pupil funding from public schools to private spending.
 
 ### Voucher Expansion:
 Federal voucher programs that allow public education dollars to fund private and religious school tuition. The mechanism: taxpayer money flows to institutions with no public accountability, no standardized testing requirements, and no obligation to serve all students.
 
 ### Project 2025 Alignment:
-The Heritage Foundation's Project 2025 education chapter — co-authored by former DeVos appointees Robert S. Eitel and Jim Blew — calls for:
+The Heritage Foundation's Project 2025 education chapter, co-authored by former DeVos appointees Robert S. Eitel and Jim Blew, calls for:
 - Expanding federal vouchers modeled on Arizona's ESA program
 - Eliminating the Department of Education's regulatory authority
 - Redirecting Title I and IDEA funding to "portable" accounts
@@ -60,7 +60,7 @@ The difference: DeVos was a donor-class advocate appointed to implement someone 
 
 ### Sources
 
-- [ProPublica: These activists want to dismantle public schools — Now they run the Education Department](https://www.propublica.org/article/education-department-public-schools-activists-linda-mcmahon-trump) (Tier 2) (VERIFIED)
+- [ProPublica: These activists want to dismantle public schools. Now they run the Education Department](https://www.propublica.org/article/education-department-public-schools-activists-linda-mcmahon-trump) (Tier 2) (VERIFIED)
 - [The Nation: The MAGA think tank behind Linda McMahon's education agenda](https://www.thenation.com/article/society/the-maga-think-tank-behind-linda-mcmahons-education-agenda/) (Tier 2) (VERIFIED)
 - [Global Project Against Hate and Extremism: AFPI has taken over the Department of Education](https://globalextremism.org/post/afpi-has-taken-over-the-department-of-education/) (Tier 2) (VERIFIED)
 

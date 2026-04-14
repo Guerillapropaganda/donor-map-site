@@ -17,7 +17,7 @@ profiles:
 **Source:** ~~[The Hill](https://thehill.com/homenews/campaign/5813774-maine-senate-race-graham-platner/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-03
 
-Graham Platner, an oyster farmer with a plainspoken style, isn’t a typical Senate candidate. But in a cycle where political outsiders are increasingly gaining traction, candidates like him are no longer outliers — they’re becoming contenders.&#160; Platner’s candidacy is an early test of that shift. In Maine, where Sen. Susan Collins (R) has long defied&#8230;
+Graham Platner, an oyster farmer with a plainspoken style, isn’t a typical Senate candidate. But in a cycle where political outsiders are increasingly gaining traction, candidates like him are no longer outliers, they’re becoming contenders.&#160; Platner’s candidacy is an early test of that shift. In Maine, where Sen. Susan Collins (R) has long defied&#8230;
 
 ---
 

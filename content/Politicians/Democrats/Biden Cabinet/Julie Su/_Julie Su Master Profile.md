@@ -1,5 +1,5 @@
 ---
-title: "Julie Su Master Profile"
+title: "Julie Su"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

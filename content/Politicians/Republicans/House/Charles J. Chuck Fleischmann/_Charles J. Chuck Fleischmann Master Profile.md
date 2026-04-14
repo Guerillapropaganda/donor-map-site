@@ -1,5 +1,5 @@
 ---
-title: "Charles J. Chuck Fleischmann Master Profile"
+title: "Charles J. Chuck Fleischmann"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

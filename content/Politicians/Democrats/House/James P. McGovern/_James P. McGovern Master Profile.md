@@ -1,5 +1,5 @@
 ---
-title: "James P. McGovern Master Profile"
+title: "James P. McGovern"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

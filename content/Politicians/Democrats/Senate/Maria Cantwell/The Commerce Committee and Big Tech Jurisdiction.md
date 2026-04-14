@@ -21,7 +21,7 @@ donors: [[Amazon]] [[Microsoft]] [[Boeing]] [[Google - Alphabet]]
 
 ### The Commerce Committee and Washington State Tech
 
-Maria Cantwell chaired the Senate Commerce, Science, and Transportation Committee (2021-2025) — the committee with jurisdiction over tech regulation, telecommunications, privacy, AI, and transportation. Cantwell represents Washington State, home to Amazon (Seattle HQ), Microsoft (Redmond), Boeing (commercial aviation), and a massive tech ecosystem.
+Maria Cantwell chaired the Senate Commerce, Science, and Transportation Committee (2021-2025), the committee with jurisdiction over tech regulation, telecommunications, privacy, AI, and transportation. Cantwell represents Washington State, home to Amazon (Seattle HQ), Microsoft (Redmond), Boeing (commercial aviation), and a massive tech ecosystem.
 
 Her Commerce Committee jurisdiction gave her direct power over the regulatory environment affecting her state's largest employers and her top donors. Amazon employees are among Cantwell's largest contributor groups. Microsoft PAC contributes in every cycle. Boeing's commercial aviation operations depend on FAA oversight that routes through Cantwell's committee.
 
@@ -38,7 +38,7 @@ Cantwell authored the American Innovation and Choice Online Act (targeting tech 
 
 ### The Privacy Legislation Stalemate
 
-Cantwell championed federal privacy legislation — the American Privacy Rights Act — but the bill stalled over disagreements about preemption of stronger state laws (California's CCPA). The stalemate served the tech industry: without federal privacy law, companies face a patchwork of state regulations that large firms (Amazon, Google, Microsoft) can manage but smaller competitors cannot. The absence of federal privacy law functions as a competitive moat for Big Tech — and Cantwell's inability to pass privacy legislation preserves that moat.
+Cantwell championed federal privacy legislation, the American Privacy Rights Act, but the bill stalled over disagreements about preemption of stronger state laws (California's CCPA). The stalemate served the tech industry: without federal privacy law, companies face a patchwork of state regulations that large firms (Amazon, Google, Microsoft) can manage but smaller competitors cannot. The absence of federal privacy law functions as a competitive moat for Big Tech, and Cantwell's inability to pass privacy legislation preserves that moat.
 
 ---
 

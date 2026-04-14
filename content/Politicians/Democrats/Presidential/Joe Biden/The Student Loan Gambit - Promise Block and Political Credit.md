@@ -167,11 +167,11 @@ The higher education industry gave Biden campaign contributions (university trus
 ### Sources
 
 - [Federal Reserve: Report on Household Debt including student loans](https://www.federalreserve.gov/releases/g19/default.htm) (Tier 1) (VERIFIED)
-- ~~[CNBC: Biden v. Nebraska Supreme Court decision analysis](https://www.cnbc.com/2023/06/30/supreme-court-blocks-biden-student-loan-forgiveness-plan.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[CNBC: Biden v. Nebraska Supreme Court decision analysis](https://www.cnbc.com/2023/06/30/supreme-court-blocks-biden-student-loan-forgiveness-plan.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [FEC Receipts: Higher education contributions to Biden 2020](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
 - [Department of Education: SAVE Plan enrollment and impact](https://studentaid.gov/manage-loans/repayment/plans/income-driven/save) (Tier 1) (VERIFIED)
 - [Education Trust: Analysis of student debt by income and race](https://edtrust.org/event/student-debt-crisis-and-its-impact-on-black-women/) (Tier 2) (VERIFIED)
 - [ProPublica: After Years of Troubles, Largest Student-Loan Servicers Get Stepped-up Oversight](https://www.propublica.org/article/after-years-of-troubles-largest-student-loan-servicers-get-stepped-up-overs) (Tier 2) (VERIFIED)
-- ~~[New York Times: Biden's Student Loan Forgiveness Plan Blocked by Supreme Court](https://www.nytimes.com/2023/06/30/us/politics/supreme-court-loan-forgiveness-ruling.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[New York Times: Biden's Student Loan Forgiveness Plan Blocked by Supreme Court](https://www.nytimes.com/2023/06/30/us/politics/supreme-court-loan-forgiveness-ruling.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Center for American Progress: Tuition reform options and costs](https://www.americanprogress.org/?s=The%20Student%20Loan%20Gambit%20-%20Promise%20Block%20and%20Political%20Credit) (Tier 2) (VERIFIED)
 

@@ -29,21 +29,21 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### Who They Are
 
-Palantir Technologies (NYSE: PLTR). The data analytics and surveillance technology company co-founded by [[Peter Thiel]] in 2003, with $2.87 billion in annual revenue (2024). Palantir's core business is government contracts — its Gotham, Foundry, and AIP (Artificial Intelligence Platform) products provide data integration, analytics, and AI capabilities for the CIA, NSA, DHS, ICE, the U.S. Army, and dozens of other federal agencies. Federal contracts grew from $541.2 million in 2024 to $970.5 million in 2025, making Palantir the most politically consequential tech company in the defense-intelligence sector.
+Palantir Technologies (NYSE: PLTR). The data analytics and surveillance technology company co-founded by [[Peter Thiel]] in 2003, with $2.87 billion in annual revenue (2024). Palantir's core business is government contracts, its Gotham, Foundry, and AIP (Artificial Intelligence Platform) products provide data integration, analytics, and AI capabilities for the CIA, NSA, DHS, ICE, the U.S. Army, and dozens of other federal agencies. Federal contracts grew from $541.2 million in 2024 to $970.5 million in 2025, making Palantir the most politically consequential tech company in the defense-intelligence sector.
 
-Palantir's political operation extends far beyond Thiel's personal contributions. The company spent $5.77 million on federal lobbying in 2024 and $6.08 million in 2025. Its PAC and affiliated individuals contributed $4.94 million in the 2024 election cycle. CEO Alex Karp has become an increasingly visible political operator, giving $360,000 to Biden-Harris joint fundraising in 2023, then pivoting to contribute $1 million to MAGA Inc. in 2024 — a bipartisan hedging strategy that ensures Palantir's contract pipeline survives regardless of which party holds power.
+Palantir's political operation extends far beyond Thiel's personal contributions. The company spent $5.77 million on federal lobbying in 2024 and $6.08 million in 2025. Its PAC and affiliated individuals contributed $4.94 million in the 2024 election cycle. CEO Alex Karp has become an increasingly visible political operator, giving $360,000 to Biden-Harris joint fundraising in 2023, then pivoting to contribute $1 million to MAGA Inc. in 2024, a bipartisan hedging strategy that ensures Palantir's contract pipeline survives regardless of which party holds power.
 
 ---
 
 ### What They Want
 
-Palantir's political objectives are structural, not ideological — the company needs the federal government to keep buying its surveillance and data analytics products at scale:
+Palantir's political objectives are structural, not ideological, the company needs the federal government to keep buying its surveillance and data analytics products at scale:
 
-- **Expanded defense and intelligence budgets** — every dollar added to the Pentagon's AI and data analytics line items flows directly to Palantir's revenue
-- **Immigration enforcement infrastructure** — ICE's surveillance and deportation operations depend on Palantir's technology, making immigration enforcement spending a direct revenue stream
-- **Resistance to procurement reform** — Palantir lobbies against competitive bidding rules that would open government AI contracts to competitors; the company benefits from sole-source and limited-competition contracts
-- **AI adoption mandates across federal agencies** — the company's AIP platform positions it to capture AI modernization spending across every civilian and military agency
-- **Favorable data privacy and surveillance regulation** — Palantir opposes restrictions on government data collection and cross-agency data sharing that would limit the scope of its products
+- **Expanded defense and intelligence budgets**, every dollar added to the Pentagon's AI and data analytics line items flows directly to Palantir's revenue
+- **Immigration enforcement infrastructure**. ICE's surveillance and deportation operations depend on Palantir's technology, making immigration enforcement spending a direct revenue stream
+- **Resistance to procurement reform**. Palantir lobbies against competitive bidding rules that would open government AI contracts to competitors; the company benefits from sole-source and limited-competition contracts
+- **AI adoption mandates across federal agencies**, the company's AIP platform positions it to capture AI modernization spending across every civilian and military agency
+- **Favorable data privacy and surveillance regulation**. Palantir opposes restrictions on government data collection and cross-agency data sharing that would limit the scope of its products
 
 ---
 
@@ -65,11 +65,11 @@ Palantir's political spending in the 2024 cycle ($4.94 million total from PAC an
 | Mission Iowa | $90,000 | Outside Group (Conservative) |
 | Democratic Senatorial Campaign Committee | $87,874 | Party Committee |
 
-The pattern: $2+ million to Trump-aligned groups, but six-figure contributions to both Democratic and Republican party committees. This is access insurance — Palantir needs contracts from whichever administration is in power.
+The pattern: $2+ million to Trump-aligned groups, but six-figure contributions to both Democratic and Republican party committees. This is access insurance. Palantir needs contracts from whichever administration is in power.
 
-**Peter Thiel's personal political operation** amplifies the corporate spending: Thiel gave $1.7+ million to federal candidates and parties in the 2024 cycle, spent $15 million helping JD Vance win his 2022 Senate race, and contributed $1.5 million to Club for Growth Action in February 2026. Thiel's political network — which installed Vance as Vice President — represents the most successful venture-capital-to-political-power conversion in modern American politics.
+**Peter Thiel's personal political operation** amplifies the corporate spending: Thiel gave $1.7+ million to federal candidates and parties in the 2024 cycle, spent $15 million helping JD Vance win his 2022 Senate race, and contributed $1.5 million to Club for Growth Action in February 2026. Thiel's political network, which installed Vance as Vice President, represents the most successful venture-capital-to-political-power conversion in modern American politics.
 
-**Lobbying apparatus:** 65-71% of Palantir's registered lobbyists previously held government jobs (OpenSecrets revolving door data, 2023-2024). In 2024, Palantir hired Miller Strategies — whose founder Jeff Miller was one of Trump's biggest lobbyist bundlers — to lobby on defense policy and appropriations.
+**Lobbying apparatus:** 65-71% of Palantir's registered lobbyists previously held government jobs (OpenSecrets revolving door data, 2023-2024). In 2024, Palantir hired Miller Strategies, whose founder Jeff Miller was one of Trump's biggest lobbyist bundlers, to lobby on defense policy and appropriations.
 
 ---
 
@@ -79,13 +79,13 @@ Palantir's political investment has produced extraordinary returns:
 
 #### Defense & Military
 
-- **U.S. Army Enterprise Agreement (2024):** A 10-year, potentially $10 billion contract making Palantir the Army's primary data and AI platform — the single largest contract in Palantir's history
+- **U.S. Army Enterprise Agreement (2024):** A 10-year, potentially $10 billion contract making Palantir the Army's primary data and AI platform, the single largest contract in Palantir's history
 - **Army Vantage expansion (Dec 2024):** A 4-year, $619 million contract to expand data operations across the entire U.S. Army
-- **Federal contract growth:** From $4.4 million (2009) to $541 million (2024) to $970.5 million (2025) — a 220x increase in 16 years
+- **Federal contract growth:** From $4.4 million (2009) to $541 million (2024) to $970.5 million (2025), a 220x increase in 16 years
 
 #### Immigration Enforcement
 
-- **ImmigrationOS contract (April 2025):** A $30 million no-bid contract to build ICE's next-generation deportation tracking system — designed to streamline identification, apprehension, and removal of immigrants
+- **ImmigrationOS contract (April 2025):** A $30 million no-bid contract to build ICE's next-generation deportation tracking system, designed to streamline identification, apprehension, and removal of immigrants
 - **ICE FALCON system:** Palantir's existing Investigative Case Management platform already powers ICE's immigration enforcement operations, integrating data from passport records, Social Security files, IRS records, and license plate readers
 - **CBP and DHS contracts:** Ongoing surveillance infrastructure contracts across the immigration enforcement apparatus
 
@@ -100,13 +100,13 @@ Palantir's political investment has produced extraordinary returns:
 
 | Date | Recipient/Target | Amount | Policy Return | Time Gap |
 |------|-------------------|--------|---------------|----------|
-| 2022 | JD Vance Senate campaign (Thiel) | $15,000,000 | Vance elected to Senate, later VP — direct Thiel network in White House | 2 years to VP |
+| 2022 | JD Vance Senate campaign (Thiel) | $15,000,000 | Vance elected to Senate, later VP, direct Thiel network in White House | 2 years to VP |
 | 2023 | Biden-Harris joint fundraising (Karp) | $360,000 | Maintained Democratic access during Biden admin contract awards | Ongoing |
 | 2024 | MAGA Inc (Karp) | $1,000,000 | Pivoted to Trump orbit ahead of 2024 election; Trump admin expanded contracts | 6-12 months |
 | 2024 | Make America Great Again Inc (PAC/affiliates) | $1,000,000 | Trump admin awarded $30M ImmigrationOS no-bid contract | ~6 months |
 | 2024 | Miller Strategies hired (lobbying) | $5,770,000 (total lobbying) | Miller's Trump connections → defense appropriations access | Immediate |
 | 2024 | Republican National Committee | $344,914 | Army Enterprise Agreement ($10B potential) awarded Dec 2024 | ~6 months |
-| Feb 2026 | Club for Growth Action (Thiel) | $1,500,000 | Ongoing — positions Thiel network for 2026 midterms | Pending |
+| Feb 2026 | Club for Growth Action (Thiel) | $1,500,000 | Ongoing, positions Thiel network for 2026 midterms | Pending |
 | 2025 | Federal lobbying spend | $6,080,000 | Federal contracts nearly doubled to $970.5M | Same year |
 
 > [!money]
@@ -116,7 +116,7 @@ Palantir's political investment has produced extraordinary returns:
 
 ### Class Analysis
 
-Palantir represents the most sophisticated fusion of surveillance technology and political power in the American donor landscape. The company's business model is structurally dependent on government spending — making its political operation not a sideline but a core business function. Every dollar Palantir spends on lobbying and contributions is a direct investment in its own revenue pipeline.
+Palantir represents the most sophisticated fusion of surveillance technology and political power in the American donor landscape. The company's business model is structurally dependent on government spending, making its political operation not a sideline but a core business function. Every dollar Palantir spends on lobbying and contributions is a direct investment in its own revenue pipeline.
 
 > [!contradiction]
 > **The Karp Contradiction:** CEO Alex Karp publicly identifies as progressive, has spoken about social justice, and donated to Biden-Harris in 2023. Yet Palantir builds the surveillance infrastructure that powers ICE deportation operations, military AI targeting systems, and cross-agency data mining. Karp's $1 million pivot to MAGA Inc in 2024 — after years of progressive rhetoric — reveals the fundamental truth: Palantir's political identity is whatever generates the most government contracts. The progressive branding is customer acquisition for Democratic administrations; the MAGA donations are customer acquisition for Republican ones.
@@ -124,19 +124,19 @@ Palantir represents the most sophisticated fusion of surveillance technology and
 > [!contradiction]
 > **The Innovation Narrative:** Palantir markets itself as a Silicon Valley disruptor fighting Pentagon bureaucracy and legacy defense contractors. In reality, the company's growth strategy depends on the same mechanisms as traditional defense contractors: revolving door hiring (66-71% of its lobbyists are ex-government), sole-source contracting, and political contributions to appropriations committee members. Palantir doesn't disrupt the military-industrial complex — it extends it into the surveillance-data complex while wearing a tech company's branding.
 
-The Thiel network's political architecture — from Palantir's founding with CIA venture capital (In-Q-Tel) to JD Vance's installation as Vice President — represents the most complete donor-to-state-power pipeline in the vault. Palantir is simultaneously the Thiel network's primary government revenue vehicle and the surveillance infrastructure through which the state exercises control. The company profits from building the tools of state power while its founder funds the politicians who authorize that power's expansion.
+The Thiel network's political architecture, from Palantir's founding with CIA venture capital (In-Q-Tel) to JD Vance's installation as Vice President, represents the most complete donor-to-state-power pipeline in the vault. Palantir is simultaneously the Thiel network's primary government revenue vehicle and the surveillance infrastructure through which the state exercises control. The company profits from building the tools of state power while its founder funds the politicians who authorize that power's expansion.
 
 ---
 
 ### Sources
 
-- [OpenSecrets: Palantir Technologies summary — contributions and lobbying](https://www.opensecrets.org/orgs/palantir-technologies/summary?id=D000055177) (Tier 1) (VERIFIED) (Chrome)
+- [OpenSecrets: Palantir Technologies summary, contributions and lobbying](https://www.opensecrets.org/orgs/palantir-technologies/summary?id=D000055177) (Tier 1) (VERIFIED) (Chrome)
 - [Senate LDA Filings: Palantir Technologies lobbying profile](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED) (Chrome)
 - [USASpending: Palantir Technologies Inc. federal award recipient profile](https://www.usaspending.gov/recipient/1ea8a9a4-3726-3491-9040-66950bb67606-P/all) (Tier 1) (VERIFIED) (Chrome)
 - [Tech Transparency Project: Inside Palantir's Expanding Influence Operation](https://www.techtransparencyproject.org/articles/inside-palantirs-expanding-influence-operation) (Tier 2) (VERIFIED) (Chrome)
-- ~~[The Hill: Palantir courts major federal contracts — and controversy — in Trump era](https://thehill.com/policy/technology/5667232-palantir-trump-administration-surveillance/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (Chrome)
+- ~~[The Hill: Palantir courts major federal contracts, and controversy, in Trump era](https://thehill.com/policy/technology/5667232-palantir-trump-administration-surveillance/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (Chrome)
 - [ACLU: All the Ways Palantir is Assisting Trump's Abusive Removal Campaign](https://www.aclu.org/news/privacy-technology/palantir-deportation-roundup) (Tier 2) (VERIFIED) (Chrome)
-- [Revolving Door Project: Oligarchs and the Trump Admin — Peter Thiel](https://therevolvingdoorproject.org/billionaires-and-the-trump-admin-peter-thiel/) (Tier 2) (VERIFIED) (Chrome)
+- [Revolving Door Project: Oligarchs and the Trump Admin. Peter Thiel](https://therevolvingdoorproject.org/billionaires-and-the-trump-admin-peter-thiel/) (Tier 2) (VERIFIED) (Chrome)
 - [Ballotpedia: Peter Thiel](https://ballotpedia.org/Peter_Thiel) (Tier 3) (VERIFIED)
 
 ---

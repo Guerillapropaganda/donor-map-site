@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: liberal
 tax-status: 501c3
-related: "[[Goldman Sachs]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[Center for American Progress]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Brennan Center for Justice]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Mercatus Center]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[RAND Corporation]] · [[Council on Foreign Relations]] · [[Center for a New American Security]] · [[Brookings Institution]] · [[Atlantic Council]] · [[Aspen Institute]] · [[Gates Foundation]]"
+related: "[[Goldman Sachs]] · [[The Think Tank Money Map , Budget, Funding Sources, and the Illusion of Independence]] · [[Center for American Progress]] · [[The Revolving Door , A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline , How Think Tank Research Becomes Law]] · [[Brennan Center for Justice]] · [[Cross-Think-Tank Donor Map , The Both-Sides Illusion With Receipts]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Mercatus Center]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[RAND Corporation]] · [[Council on Foreign Relations]] · [[Center for a New American Security]] · [[Brookings Institution]] · [[Atlantic Council]] · [[Aspen Institute]] · [[Gates Foundation]]"
 lei: "984500C6P0VF15B8E658"
 lei-jurisdiction: "IN"
 ein: "520880375"
@@ -166,7 +166,7 @@ Urban's revolving door runs primarily between Democratic administrations and the
 ### Progressive foundations (Gates, Ford, MacArthur, Annie E. Casey, RWJF) got:
 - Quantitative research supporting the policy programs they also fund, a validation loop
 - Evidence base for progressive policy priorities: housing affordability, healthcare access, criminal justice reform, anti-poverty programs
-- Institutional legitimacy: "Urban Institute research shows.." carries more weight than "the Ford Foundation believes.."
+- Institutional legitimacy: "Urban Institute research shows." carries more weight than "the Ford Foundation believes."
 - A permanent research infrastructure that outlasts individual grants
 
 ### The Democratic policy establishment got:
@@ -200,10 +200,10 @@ The Urban Institute is the institutional embodiment of American liberalism's cor
 - [InfluenceWatch: Urban Institute](https://www.influencewatch.org/non-profit/urban-institute/) (Tier 3) (VERIFIED)
 - [Media Bias/Fact Check: Urban Institute](https://mediabiasfactcheck.com/urban-institute/) (Tier 3) (VERIFIED)
 - [MacArthur Foundation: Urban Institute Grant](https://www.macfound.org/grantee/urban-institute-23/) (Tier 1) (VERIFIED)
-- ~~[Urban Institute: Organizational Principles](https://www.urban.org/about/organizational-principles)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
-- ~~[Tax Policy Center: About](https://taxpolicycenter.org/about)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[Urban Institute: Organizational Principles](https://www.urban.org/about/organizational-principles)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[Tax Policy Center: About](https://taxpolicycenter.org/about)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Urban Institute: The Transfer Income Model (TRIM)](https://www.urban.org/research/data-methods/data-analysis/quantitative-data-analysis/microsimulation/transfer-income-model-trim) (Tier 3) (VERIFIED)
-- ~~[Urban Institute: Sarah Rosen Wartell biography](https://www.urban.org/author/sarah-rosen-wartell)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[Urban Institute: Sarah Rosen Wartell biography](https://www.urban.org/author/sarah-rosen-wartell)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Wikipedia: Tax Policy Center](https://en.wikipedia.org/wiki/Tax_Policy_Center) (Tier 3) (VERIFIED)
 - [Urban Institute: 2024 Financial Report](https://www.urban.org/sites/default/files/2025-11/Urban-Institute-2024-Financials.pdf) (Tier 1) (VERIFIED)
 - [USAspending.gov: Urban Institute Federal Awards](https://www.usaspending.gov/search/?filters=%7B%22keyword%22%3A%22Urban+Institute%22%7D) (Tier 1) (VERIFIED)

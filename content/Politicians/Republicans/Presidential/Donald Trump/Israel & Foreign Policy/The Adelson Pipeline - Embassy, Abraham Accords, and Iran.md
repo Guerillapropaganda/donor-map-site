@@ -117,7 +117,7 @@ The spending created a structural veto over Middle East policy debate in Congres
 - [OpenSecrets. Miriam Adelson and Preserve America PAC 2024 Cycle](https://www.opensecrets.org/donor-lookup/) (Tier 1) (VERIFIED)
 - [OpenSecrets. AIPAC and United Democracy Project 2024 Cycle Spending](https://www.opensecrets.org/political-action-committees-pacs/aipac/C00797670/summary/2024) (Tier 1) (VERIFIED)
 - [State Department. Abraham Accords Signing Ceremony (September 15, 2020)](https://www.state.gov/the-abraham-accords/) (Tier 1) (VERIFIED)
-- ~~[New York Times. Kushner's Firm Received $2 Billion From Saudi Fund (April 2022)](https://www.nytimes.com/2022/04/10/us/jared-kushner-saudi-investment-fund.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[New York Times. Kushner's Firm Received $2 Billion From Saudi Fund (April 2022)](https://www.nytimes.com/2022/04/10/us/jared-kushner-saudi-investment-fund.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ### Voting Record
 

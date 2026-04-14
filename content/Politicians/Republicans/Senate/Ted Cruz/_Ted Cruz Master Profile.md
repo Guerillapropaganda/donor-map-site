@@ -1,5 +1,5 @@
 ---
-title: Ted Cruz Master Profile
+title: Ted Cruz
 type: politician
 content-readiness: ready
 central-thesis: >-
@@ -61,14 +61,14 @@ internal-notes: >-
   fix-bioguide-contamination.cjs because the profile was sharing a contaminated
   wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually
   verified against bioguide.congress.gov/search. needs-reenrichment flipped from
-  false to true — the next scheduled pipeline run will now populate correct
+  false to true , the next scheduled pipeline run will now populate correct
   Congress.gov auto-blocks.
 
   [JANITOR 2026-04-11] Bioguide contamination cleared by
   fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091'
   (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell
   through to candidates[0]?.bioguideId when a name search failed. 19 unrelated
-  profiles all had the same wrong ID — same class of bug as the A000383 Alan
+  profiles all had the same wrong ID , same class of bug as the A000383 Alan
   Armstrong incident documented in the Pipeline Guide. The wrong ID has been
   removed. A correct bioguide must be added manually (verify at
   bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this
@@ -103,13 +103,13 @@ Ted Cruz. Senior Senator from Texas (2013–present). Princeton undergraduate, H
 ## Donor Class Map
 
 ### The Texas Energy Machine:
-- [[Oil Gas and the Texas Energy Donor Base]] — $4.8M career from oil and gas. Wilks brothers (fracking billionaires) gave $15M in 2012 alone. Climate denial as legislative service. Texas grid failure (246+ dead) caused by the deregulatory framework his donors fund him to maintain. Cruz fled to Cancún; his donors' profits were unaffected.
+- [[Oil Gas and the Texas Energy Donor Base]], $4.8M career from oil and gas. Wilks brothers (fracking billionaires) gave $15M in 2012 alone. Climate denial as legislative service. Texas grid failure (246+ dead) caused by the deregulatory framework his donors fund him to maintain. Cruz fled to Cancún; his donors' profits were unaffected.
 
 ### The Goldman Sachs Household:
-- [[Goldman Sachs and the Heidi Cruz Connection]] — $1.43M in undisclosed loans for 2012 campaign. Heidi Cruz is Goldman Managing Director (est. $1-5M annual compensation). Every Cruz vote on banking regulation affects his household income. FEC fined him $35K — a rounding error on the undisclosed amount. The conflict of interest is total and permanent.
+- [[Goldman Sachs and the Heidi Cruz Connection]], $1.43M in undisclosed loans for 2012 campaign. Heidi Cruz is Goldman Managing Director (est. $1-5M annual compensation). Every Cruz vote on banking regulation affects his household income. FEC fined him $35K, a rounding error on the undisclosed amount. The conflict of interest is total and permanent.
 
 ### The $192 Million Reelection:
-- [[The 2024 Race - Most Expensive Senate Campaign in History]] — Most expensive Senate race ever. [[Robert Mercer|Robert Mercer]]: $31M+ single largest career donor (hedge fund billionaire buying deregulation). Crypto pivot: personal Bitcoin investments + $350K Bitcoin Freedom PAC + legislative advocacy against SEC regulation. Leaked 2026 recordings: privately criticizes Trump tariffs to donors while publicly performing loyalty.
+- [[The 2024 Race - Most Expensive Senate Campaign in History]]. Most expensive Senate race ever. [[Robert Mercer|Robert Mercer]]: $31M+ single largest career donor (hedge fund billionaire buying deregulation). Crypto pivot: personal Bitcoin investments + $350K Bitcoin Freedom PAC + legislative advocacy against SEC regulation. Leaked 2026 recordings: privately criticizes Trump tariffs to donors while publicly performing loyalty.
 
 ---
 
@@ -145,9 +145,9 @@ The leaked 2026 recordings are the class analysis in audio form. Cruz privately 
 
 ## Analytical Patterns
 
-**The Two-Audience Problem** — Cruz performs "America First" populist messaging to Trump voters while his household income depends on Goldman Sachs profitability (wife is Managing Director) and his campaign is funded by Robert Mercer ($31M+), fracking billionaires ($15M), and emerging crypto networks. His leaked 2026 recordings reveal private criticism of Trump's tariffs to donor audiences while he performs public MAGA loyalty. Voters receive populist theater; the donor class receives consistent service on deregulation and capital preferencing.
+**The Two-Audience Problem**. Cruz performs "America First" populist messaging to Trump voters while his household income depends on Goldman Sachs profitability (wife is Managing Director) and his campaign is funded by Robert Mercer ($31M+), fracking billionaires ($15M), and emerging crypto networks. His leaked 2026 recordings reveal private criticism of Trump's tariffs to donor audiences while he performs public MAGA loyalty. Voters receive populist theater; the donor class receives consistent service on deregulation and capital preferencing.
 
-**The Genuine Win + Structural Limit** — Cruz has secured genuine policy victories on tax cuts for capital, deregulation frameworks, and anti-environment policy that serve his oil/gas and finance donors. These victories are material and substantial. However, they stop short of threatening the broader capital concentration architecture: tax cuts preserve nominally progressive structure; deregulation maintains regulatory agencies; energy policy protects fossil fuel extraction rights while avoiding challenges to energy oligopoly structures. The wins are real but structurally bounded to serve specific donor class interests rather than challenging systemic inequality.
+**The Genuine Win + Structural Limit**. Cruz has secured genuine policy victories on tax cuts for capital, deregulation frameworks, and anti-environment policy that serve his oil/gas and finance donors. These victories are material and substantial. However, they stop short of threatening the broader capital concentration architecture: tax cuts preserve nominally progressive structure; deregulation maintains regulatory agencies; energy policy protects fossil fuel extraction rights while avoiding challenges to energy oligopoly structures. The wins are real but structurally bounded to serve specific donor class interests rather than challenging systemic inequality.
 
 ---
 
@@ -157,19 +157,19 @@ The leaked 2026 recordings are the class analysis in audio form. Cruz privately 
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2015-2016 | Wilks brothers (fracking billionaires, Wilks Bros LLC) — largest single donor | $15M to Keep the Promise PAC | 2015-07 | Cruz opposes EPA Clean Power Plan, supports Keystone XL, advocates lifting crude oil export ban, pushes LNG export acceleration — every position serves Wilks energy portfolio |
+| 2015-2016 | Wilks brothers (fracking billionaires, Wilks Bros LLC), largest single donor | $15M to Keep the Promise PAC | 2015-07 | Cruz opposes EPA Clean Power Plan, supports Keystone XL, advocates lifting crude oil export ban, pushes LNG export acceleration, every position serves Wilks energy portfolio |
 
 #### Wall Street / Finance
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2016 | Robert Mercer (hedge fund) + FIRE sector (Goldman Sachs personal loan disclosed) | $11M+ Mercer; $4.59M career FIRE total | 2015-2016 cycle | Cruz opposes Dodd-Frank reform, supports carried interest preservation, opposes CFPB — wife Heidi managed Goldman's wealth division while Cruz attacked "New York money" |
+| 2016 | Robert Mercer (hedge fund) + FIRE sector (Goldman Sachs personal loan disclosed) | $11M+ Mercer; $4.59M career FIRE total | 2015-2016 cycle | Cruz opposes Dodd-Frank reform, supports carried interest preservation, opposes CFPB, wife Heidi managed Goldman's wealth division while Cruz attacked "New York money" |
 
 #### Tech / Crypto
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2024-2025 | [[Fairshake PAC]] + crypto industry PACs | $5.7M in 2024 cycle | 2024 | Cruz co-sponsors crypto-friendly bills; opposes crypto regulation; advocates light-touch digital asset framework — same cycle as donations |
+| 2024-2025 | [[Fairshake PAC]] + crypto industry PACs | $5.7M in 2024 cycle | 2024 | Cruz co-sponsors crypto-friendly bills; opposes crypto regulation; advocates light-touch digital asset framework, same cycle as donations |
 
 #### Defense
 
@@ -191,7 +191,7 @@ The leaked 2026 recordings are the class analysis in audio form. Cruz privately 
 1. **The constitutional originalist:** Princeton debate champion turned Supreme Court litigator. Deploys elaborate constitutional arguments to justify positions that happen to align perfectly with donor interests. The intellectual packaging makes the donor service look principled.
 2. **The culture warrior:** Cancún Ted pivots to culture war attacks (CRT, trans athletes, "woke" corporations) when donor-class issues require distraction. The culture war is the cover for the donor-class agenda.
 3. **The populist misconduct:** Attacks "coastal elites" while his wife manages money at Goldman Sachs. The Tea Party brand survives only because the voters who believe it don't see the FEC filings.
-4. **The podcast senator:** Launched "Verdict with Ted Cruz" — building a media brand that monetizes the attention his controversies generate. The personal brand and the donor service reinforce each other: the brand draws viewers, the viewers validate the "fighter" image, and the image justifies the donor investment.
+4. **The podcast senator:** Launched "Verdict with Ted Cruz", building a media brand that monetizes the attention his controversies generate. The personal brand and the donor service reinforce each other: the brand draws viewers, the viewers validate the "fighter" image, and the image justifies the donor investment.
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "J. French Hill Master Profile"
+title: "J. French Hill"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -21,9 +21,9 @@ donors: [[Goldman Sachs]] [[Koch Network - Charles Koch]] [[US Chamber of Commer
 
 ### The Tax-Writer for the Donor Class
 
-Jason Smith chairs the House Ways and Means Committee — the most powerful committee in Congress, with jurisdiction over all federal taxation. Smith's top priority as chairman is extending and making permanent the 2017 Tax Cuts and Jobs Act provisions that expire at the end of 2025. The TCJA extension represents approximately $4.6 trillion in tax benefits over 10 years — the largest single legislative priority for the corporate donor class in the current Congress.
+Jason Smith chairs the House Ways and Means Committee, the most powerful committee in Congress, with jurisdiction over all federal taxation. Smith's top priority as chairman is extending and making permanent the 2017 Tax Cuts and Jobs Act provisions that expire at the end of 2025. The TCJA extension represents approximately $4.6 trillion in tax benefits over 10 years, the largest single legislative priority for the corporate donor class in the current Congress.
 
-Smith represents Missouri's 8th District — rural southeastern Missouri, one of the poorest regions in the state. His constituency would benefit most from earned income tax credits and child tax credit expansion. His legislative agenda benefits corporations and high-income households whose TCJA provisions are expiring.
+Smith represents Missouri's 8th District, rural southeastern Missouri, one of the poorest regions in the state. His constituency would benefit most from earned income tax credits and child tax credit expansion. His legislative agenda benefits corporations and high-income households whose TCJA provisions are expiring.
 
 ---
 
@@ -31,7 +31,7 @@ Smith represents Missouri's 8th District — rural southeastern Missouri, one of
 
 The TCJA's expiring provisions include individual rate reductions, pass-through income deductions (Section 199A), estate tax exemption increases, and expanded standard deductions. Making these permanent would cost $4.6 trillion over 10 years. The beneficiaries are overwhelmingly high-income: the Tax Policy Center estimates that 65% of TCJA extension benefits flow to the top 20% of earners.
 
-Smith's Ways and Means Committee is the vehicle for this extension. The committee's donors — Goldman Sachs, Koch Network, Chamber of Commerce, Blackstone, National Association of Realtors — are the direct beneficiaries of the provisions Smith is extending.
+Smith's Ways and Means Committee is the vehicle for this extension. The committee's donors. Goldman Sachs, Koch Network, Chamber of Commerce, Blackstone, National Association of Realtors, are the direct beneficiaries of the provisions Smith is extending.
 
 > [!money]
 > The Ways and Means chairman is extending $4.6 trillion in tax benefits for his donors. The committee that writes the tax code is funded by the entities that benefit from the tax code it writes. This is not corruption — it is the design. The committee's fundraising structure ensures that whoever chairs it will be funded by the industries under its jurisdiction, creating permanent alignment between the tax-writer and the tax-beneficiary.

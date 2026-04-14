@@ -1,5 +1,5 @@
 ---
-title: "Andrea Salinas Master Profile"
+title: "Andrea Salinas"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

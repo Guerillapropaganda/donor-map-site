@@ -41,11 +41,11 @@ aliases:
 
 ### Who They Are
 
-Priorities USA Action (FEC ID: C00495861) is the flagship Democratic Super PAC, founded in 2011 by former Obama administration staffers Bill Burton and Sean Sweeney. The organization was explicitly modeled after Karl Rove's American Crossroads — its name a deliberate backhanded homage to the Republican dark money operation it was built to counter. Priorities USA Action became the dominant outside spending vehicle for three consecutive Democratic presidential campaigns: Obama (2012), Clinton (2016), and Biden (2020).
+Priorities USA Action (FEC ID: C00495861) is the flagship Democratic Super PAC, founded in 2011 by former Obama administration staffers Bill Burton and Sean Sweeney. The organization was explicitly modeled after Karl Rove's American Crossroads, its name a deliberate backhanded homage to the Republican dark money operation it was built to counter. Priorities USA Action became the dominant outside spending vehicle for three consecutive Democratic presidential campaigns: Obama (2012), Clinton (2016), and Biden (2020).
 
 Under chairman Guy Cecil (2015–2023), the organization raised more than $650 million total and built one of the most sophisticated in-house digital and analytics operations in Democratic politics. Cecil, a former political director for Hillary Clinton's 2008 campaign and executive director of the DSCC, transformed Priorities from a traditional TV-ad Super PAC into a multi-platform political infrastructure operation. Danielle Butterfield succeeded Cecil as executive director in 2023 and oversaw the PAC's pivot to an all-digital strategy for 2024.
 
-Priorities USA Action operates alongside a 501(c)(4) nonprofit affiliate — Priorities USA — which can accept unlimited donations without disclosing donors. This dual structure allows the organization to function simultaneously as a transparent Super PAC (disclosed donors) and a dark money conduit (undisclosed donors), mirroring the exact infrastructure Democrats publicly denounce when Republicans use it.
+Priorities USA Action operates alongside a 501(c)(4) nonprofit affiliate. Priorities USA, which can accept unlimited donations without disclosing donors. This dual structure allows the organization to function simultaneously as a transparent Super PAC (disclosed donors) and a dark money conduit (undisclosed donors), mirroring the exact infrastructure Democrats publicly denounce when Republicans use it.
 
 ### FEC Financial Summary (C00495861)
 
@@ -73,7 +73,7 @@ Priorities USA Action's stated mission is to elect Democrats and defend voting r
 
 2. **A digital advertising and voter targeting machine.** Priorities pioneered Democratic digital ad spending, building an in-house analytics operation that outspent the Trump campaign online in battleground states for over a year leading into the 2020 election. The organization's i360-equivalent voter data capabilities make it a critical piece of Democratic campaign infrastructure.
 
-3. **A dark money vehicle that launders donor anonymity.** The 501(c)(4) arm accepts undisclosed contributions, allowing wealthy donors to influence elections without public accountability — the same mechanism Democrats attack when it appears as Americans for Prosperity, One Nation, or any Republican-aligned dark money group.
+3. **A dark money vehicle that launders donor anonymity.** The 501(c)(4) arm accepts undisclosed contributions, allowing wealthy donors to influence elections without public accountability, the same mechanism Democrats attack when it appears as Americans for Prosperity, One Nation, or any Republican-aligned dark money group.
 
 ### Who Funds Them
 
@@ -86,21 +86,21 @@ Priorities USA Action's disclosed donor base reads as a directory of Democratic 
 | 2012 | Fred Eychaner, Jeffrey Katzenberg, Irwin Jacobs, Jon Stryker | $66M raised total |
 | 2016 | Donald Sussman ($20M), Haim & Cheryl Saban ($12.2M), George Soros ($9.5M), James Simons ($7M), Fred Eychaner ($5M) | $175M+ raised total |
 | 2020 | Michael Bloomberg ($19.2M), Donald Sussman ($8M), James Simons ($4M), SEIU ($4M), AFT ($2M) | $139M raised total |
-| 2024 | Reduced donor base — pivot to digital-only strategy | $10.9M raised total |
+| 2024 | Reduced donor base, pivot to digital-only strategy | $10.9M raised total |
 
 **Funding sources by sector:** Wall Street hedge fund managers (Sussman, Simons, Soros), entertainment industry (Katzenberg, Spielberg, Saban), labor unions (SEIU, AFT, AFSCME), and tech donors. The 501(c)(4) arm's donors are undisclosed, making the total funding picture incomplete by design.
 
-### Money Flow — Source to Impact
+### Money Flow. Source to Impact
 
 | Date | Source → Recipient | Amount | Electoral/Policy Impact | Time Gap |
 |------|-------------------|--------|------------------------|----------|
-| 2011 | Burton/Sweeney → Priorities USA Action founded | — | Created primary Democratic Super PAC infrastructure post-Citizens United | — |
+| 2011 | Burton/Sweeney → Priorities USA Action founded |, | Created primary Democratic Super PAC infrastructure post-Citizens United |, |
 | 2012 | Mega-donors → Obama reelection | $65.2M raised | Obama wins reelection; Super PAC model validated for Democrats | Cycle |
 | 2015-2016 | Sussman ($20M), Saban ($12.2M), Soros ($9.5M) → Clinton campaign support | $175M+ raised, $132M spent | Largest outside spender in 2016 presidential race; Clinton loses despite massive spending advantage | Cycle |
 | 2016 | Priorities USA (c4) → Priorities USA Action | Undisclosed amounts | Dark money flows from nonprofit arm to Super PAC, shielding donor identities | Immediate |
 | 2019-2020 | Bloomberg ($19.2M), Sussman ($8M), Simons ($4M) → Biden campaign support | $139M raised, $138M spent | Biden wins; Priorities outspent Trump campaign digitally in 6 battleground states for 12+ months | Cycle |
 | 2020 | SEIU ($4M), AFT ($2M), AFSCME → Priorities USA Action | $8M+ from labor | Labor unions fund Super PAC that supports candidates who then owe policy debts to those unions | 1-4 years |
-| 2023 | Cecil departure → Butterfield takes over; pivot to all-digital | — | Organization abandons TV advertising, restructures as digital-first operation | — |
+| 2023 | Cecil departure → Butterfield takes over; pivot to all-digital |, | Organization abandons TV advertising, restructures as digital-first operation |, |
 | 2024 | Reduced donor pool → Digital-only strategy | $10.9M raised, $2.2M IE | Dramatic fundraising decline (92% drop from 2020); eclipsed by [[Future Forward USA Action]]; 146 IE transactions supporting Harris/opposing Trump via digital ad buys (Google, Snap, Roku, Hulu, Spotify, Univision) | Cycle |
 | 2025–2026 | Minimal activity → Near-dormant | $1.2M receipts, $0 contributions | Zero individual contributions; $0 independent expenditures; organization functionally inactive | Current |
 
@@ -109,18 +109,18 @@ Priorities USA Action's disclosed donor base reads as a directory of Democratic 
 
 ### The Dark Money Contradiction
 
-Priorities USA Action embodies the central contradiction of Democratic campaign finance: the party's leaders denounce dark money while their electoral infrastructure depends on it. The dual Super PAC / 501(c)(4) structure is identical in function to the Koch network's Americans for Prosperity / AFP Foundation model — unlimited disclosed spending through the PAC, unlimited undisclosed spending through the nonprofit.
+Priorities USA Action embodies the central contradiction of Democratic campaign finance: the party's leaders denounce dark money while their electoral infrastructure depends on it. The dual Super PAC / 501(c)(4) structure is identical in function to the Koch network's Americans for Prosperity / AFP Foundation model, unlimited disclosed spending through the PAC, unlimited undisclosed spending through the nonprofit.
 
 > [!contradiction]
 > Democrats ran on campaign finance reform in every cycle from 2012 to 2024 while Priorities USA's 501(c)(4) arm accepted anonymous donations to fund the very campaigns promising to end anonymous donations. The organization's existence is a structural argument against its own party's platform: if dark money is corrupting, then Priorities USA is corrupt. If it isn't, then the platform plank is performative. Democratic leaders resolve this contradiction by arguing they must use the current rules to win elections that will change the rules — a promise that remains unfulfilled after four presidential cycles and $650M+ in spending.
 
 ### Class Analysis
 
-Priorities USA Action is not a grassroots operation. Its funding comes overwhelmingly from individuals worth $100M+ — hedge fund billionaires, entertainment industry executives, and Wall Street financiers. The organization converts extreme wealth concentration into electoral influence through a mechanism (Super PACs) that was created by a Supreme Court ruling (Citizens United) that the Democratic Party claims to oppose.
+Priorities USA Action is not a grassroots operation. Its funding comes overwhelmingly from individuals worth $100M+, hedge fund billionaires, entertainment industry executives, and Wall Street financiers. The organization converts extreme wealth concentration into electoral influence through a mechanism (Super PACs) that was created by a Supreme Court ruling (Citizens United) that the Democratic Party claims to oppose.
 
-The labor union donations (SEIU, AFT, AFSCME) provide useful optics — they allow Priorities to claim a "broad coalition" of support — but union contributions represent a small fraction of total funding. The real money comes from the donor class, and the donor class gets what it pays for: a Democratic Party that talks about inequality while depending on the most unequal distribution of political spending in American history.
+The labor union donations (SEIU, AFT, AFSCME) provide useful optics, they allow Priorities to claim a "broad coalition" of support, but union contributions represent a small fraction of total funding. The real money comes from the donor class, and the donor class gets what it pays for: a Democratic Party that talks about inequality while depending on the most unequal distribution of political spending in American history.
 
-The 2024 fundraising collapse reveals another structural truth: mega-donors don't have loyalty to institutions, they have loyalty to winning. When [[Future Forward USA Action]] emerged as the more effective vehicle, donors simply redirected their money. Priorities USA didn't lose its donors to apathy — it lost them to a competitor. The donors are the constant; the organizations are disposable.
+The 2024 fundraising collapse reveals another structural truth: mega-donors don't have loyalty to institutions, they have loyalty to winning. When [[Future Forward USA Action]] emerged as the more effective vehicle, donors simply redirected their money. Priorities USA didn't lose its donors to apathy, it lost them to a competitor. The donors are the constant; the organizations are disposable.
 
 ---
 
@@ -141,7 +141,7 @@ The 2024 fundraising collapse reveals another structural truth: mega-donors don'
 - [OpenSecrets: Priorities USA / Priorities USA Action org profile](https://www.opensecrets.org/orgs/priorities-usa-priorities-usa-action/summary?id=D000065503) (Tier 1) (VERIFIED) (Chrome verified 2026-03-26)
 
 ### Investigative Journalism (Tier 2):
-- [Center for Public Integrity: How Democrats use dark money — and win elections](https://publicintegrity.org/politics/how-democrats-use-dark-money-and-win-elections/) (Tier 2) (VERIFIED) (Chrome verified 2026-03-26)
+- [Center for Public Integrity: How Democrats use dark money, and win elections](https://publicintegrity.org/politics/how-democrats-use-dark-money-and-win-elections/) (Tier 2) (VERIFIED) (Chrome verified 2026-03-26)
 
 ### Reference (Tier 3):
 - [Ballotpedia: Priorities USA Action](https://ballotpedia.org/Priorities_USA_Action) (Tier 3) (VERIFIED) (Chrome verified 2026-03-26)

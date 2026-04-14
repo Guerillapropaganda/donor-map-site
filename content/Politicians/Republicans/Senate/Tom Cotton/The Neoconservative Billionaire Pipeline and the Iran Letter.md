@@ -59,7 +59,7 @@ Cotton's dark money operation: America One Policies, a 501(c)(4) nonprofit incor
 ### Sources
 
 - [LobeLog: EXCLUSIVE: Emergency Committee for Israel Spends Big on Rep. Cotton](https://lobelog.com/exclusive-emergency-committee-for-israel-spends-big-on-rep-tom-cotton/) (Tier 2) (VERIFIED)
-- ~~[Congress.gov: Sen. Tom Cotton - Campaign Finance Summary](https://www.congress.gov/search?q=Tom%20Cotton&searchResultViewType=expanded)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Sen. Tom Cotton - Campaign Finance Summary](https://www.congress.gov/search?q=Tom%20Cotton&searchResultViewType=expanded)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [NPR: Tom Cotton: The Freshman Senator Behind The Iran Letter](https://www.npr.org/2015/03/13/392845709/tom-cotton-the-freshman-senator-behind-the-iran-letter) (Tier 2) (VERIFIED)
 - [Daily Beast: Tom Cotton's Run for Senate in Arkansas Makes Him the New Neocon Darling](https://www.thedailybeast.com/tom-cottons-run-for-senate-in-arkansas-makes-him-the-new-neocon-darling/) (Tier 2) (VERIFIED)
-- ~~[Congress.gov: Sen. Tom Cotton - Other Data](https://www.congress.gov/search?q=Tom%20Cotton&searchResultViewType=expanded)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Congress.gov: Sen. Tom Cotton - Other Data](https://www.congress.gov/search?q=Tom%20Cotton&searchResultViewType=expanded)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

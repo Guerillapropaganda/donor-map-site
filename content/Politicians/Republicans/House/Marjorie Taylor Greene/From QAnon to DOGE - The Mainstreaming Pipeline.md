@@ -104,5 +104,5 @@ This is the mainstreaming pipeline. It moves from: conspiracy theory (can't be s
 - [Wikipedia: Marjorie Taylor Greene, conspiracy theories and controversies](https://en.wikipedia.org/wiki/Marjorie_Taylor_Greene) (Tier 3) (VERIFIED)
 - [The Week: MTG's biggest controversies](https://theweek.com/politics/marjorie-taylor-greene-controversy) (Tier 2) (VERIFIED)
 - [New Republic: The Ascension of Marjorie Taylor Greene](https://newrepublic.com/article/161222/ascension-marjorie-taylor-greene) (Tier 2) (VERIFIED)
-- ~~[The Hill: MTG and Washington's broken incentives](https://thehill.com/opinion/congress-blog/4651899-we-need-to-talk-about-marjorie-taylor-greene-and-washingtons-broken-incentives/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[The Hill: MTG says she no longer believes in QAnon theories](https://thehill.com/homenews/house/5591006-marjorie-taylor-greene-qanon-rejection/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: MTG and Washington's broken incentives](https://thehill.com/opinion/congress-blog/4651899-we-need-to-talk-about-marjorie-taylor-greene-and-washingtons-broken-incentives/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: MTG says she no longer believes in QAnon theories](https://thehill.com/homenews/house/5591006-marjorie-taylor-greene-qanon-rejection/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

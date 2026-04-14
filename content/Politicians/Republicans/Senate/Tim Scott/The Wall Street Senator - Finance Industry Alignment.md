@@ -42,7 +42,7 @@ The diversity brand serves the financial donor class by providing a messenger wh
 
 ### Sources
 
-- ~~[Congress.gov: Tim Scott member profile](https://www.congress.gov/member/tim-scott/S001184)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Tim Scott member profile](https://www.congress.gov/member/tim-scott/S001184)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [FEC Candidate: Tim Scott campaign finance summary](https://www.fec.gov/data/candidate/P80008063/) (Tier 1) (VERIFIED)
 - [FEC Candidate: Tim Scott top industries](https://www.fec.gov/data/candidate/P80008063/) (Tier 1) (VERIFIED)
 - [IRS: Opportunity Zone program regulations](https://www.irs.gov/credits-deductions/businesses/opportunity-zones) (Tier 1) (VERIFIED)

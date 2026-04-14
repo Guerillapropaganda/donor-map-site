@@ -1,5 +1,5 @@
 ---
-title: "Jack Lew Master Profile"
+title: "Jack Lew"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

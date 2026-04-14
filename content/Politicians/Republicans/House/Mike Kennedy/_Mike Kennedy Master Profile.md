@@ -1,5 +1,5 @@
 ---
-title: "Mike Kennedy Master Profile"
+title: "Mike Kennedy"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

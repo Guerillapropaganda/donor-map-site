@@ -86,9 +86,9 @@ Opposition to strict fiduciary standards (which would require brokers to act in 
 
 ### What They've Gotten
 
-**Fiduciary Rule Kill:** The DOL's fiduciary rule — which would have required all retirement advisers to act in clients' best interest — was killed in 2018 after industry lobbying. Schwab and the brokerage industry successfully argued that the rule would reduce access to financial advice for small investors. The alternative: the SEC's weaker "Regulation Best Interest" standard, which requires disclosure of conflicts of interest but does not require advisers to actually prioritize clients' interests.
+**Fiduciary Rule Kill:** The DOL's fiduciary rule, which would have required all retirement advisers to act in clients' best interest, was killed in 2018 after industry lobbying. Schwab and the brokerage industry successfully argued that the rule would reduce access to financial advice for small investors. The alternative: the SEC's weaker "Regulation Best Interest" standard, which requires disclosure of conflicts of interest but does not require advisers to actually prioritize clients' interests.
 
-**Retirement Account Growth:** The 401(k)/IRA system — which channels retirement savings through private brokerages and fund companies — generates asset management fees that sustain the entire retail financial services industry. Every dollar saved for retirement generates ongoing management fees for Schwab and its competitors. The system's architecture — tax-advantaged savings flowing through private intermediaries — is itself a political product, designed by the financial services industry and maintained through lobbying.
+**Retirement Account Growth:** The 401(k)/IRA system, which channels retirement savings through private brokerages and fund companies, generates asset management fees that sustain the entire retail financial services industry. Every dollar saved for retirement generates ongoing management fees for Schwab and its competitors. The system's architecture, tax-advantaged savings flowing through private intermediaries, is itself a political product, designed by the financial services industry and maintained through lobbying.
 
 > [!money]
 > The American retirement system routes $35+ trillion in retirement savings through private financial institutions — generating $100+ billion annually in management fees, advisory fees, and transaction costs. Schwab's $9.9 trillion in client assets generates billions in annual revenue from this architecture. The fiduciary rule's defeat preserved the industry's ability to recommend higher-fee products over lower-fee alternatives — a difference worth billions annually across the industry. Schwab's $3-5 million annual lobbying investment protects a revenue stream that depends entirely on the political architecture of the retirement savings system.
@@ -101,7 +101,7 @@ Opposition to strict fiduciary standards (which would require brokers to act in 
 - [SEC: Regulation Best Interest](https://www.sec.gov/regulation-best-interest) (Tier 1) (NEEDS REVIEW)
 - [Ballotpedia: Charles Schwab](https://ballotpedia.org/Charles_Schwab_Corporation) (Tier 3) (VERIFIED)
 
-### Financial Overview (990 Filing — 2023)
+### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |
 |--------|--------|

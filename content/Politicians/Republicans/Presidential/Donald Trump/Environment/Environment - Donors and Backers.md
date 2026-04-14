@@ -31,10 +31,10 @@ Maps the fossil fuel donor network that funded the most comprehensive environmen
 |------|-------|--------|--------|
 | 2020-01-01 | Harold Hamm donates to Trump reelection campaign (exact date pending) | $1,600,000 | FEC filings |
 | 2024-01-01 | Harold Hamm donates to Trump 2024 campaign (exact date pending) | $1,000,000 | FEC filings |
-| 2025-01-01 | Interior Secretary Doug Burgum (Trump appointee) oversees 22 BLM lease sales benefiting Continental Resources (Hamm company); 6,027 permits issued (exact dates pending) | — | BLM records |
+| 2025-01-01 | Interior Secretary Doug Burgum (Trump appointee) oversees 22 BLM lease sales benefiting Continental Resources (Hamm company); 6,027 permits issued (exact dates pending) |, | BLM records |
 | 2016-01-01 | Kelcy Warren donates to Trump aligned entities (exact dates pending) | $7,000,000 | FEC filings |
 | 2024-01-01 | Kelcy Warren donates to Trump 2024 campaign (exact date pending) | $5,000,000 | FEC filings |
-| 2016-01-01 | Dakota Access Pipeline completed (enabled by Trump administration FERC deregulation) | — | FERC records |
+| 2016-01-01 | Dakota Access Pipeline completed (enabled by Trump administration FERC deregulation) |, | FERC records |
 | 2016-01-01 | Tim Dunn makes major donations to Texas energy policy aligned candidates (exact date pending) | Unknown | FEC filings |
 | 2016-01-01 | Richard Uihlein donates to conservative causes including broad deregulatory agenda (exact date pending) | $80,000,000 | FEC filings |
 
@@ -56,12 +56,12 @@ Maps the fossil fuel donor network that funded the most comprehensive environmen
 
 | Date | Event | Amount | Source |
 |------|-------|--------|--------|
-| 2017-02-17 | Scott Pruitt confirmed as EPA Administrator (resigned 2018) | — | Senate voting records |
-| 2000-2017 | Pruitt as Oklahoma AG: sued EPA 14 times in coordination with fossil fuel companies (exact dates pending) | — | Oklahoma AG records |
-| 2018-07-09 | Andrew Wheeler confirmed as EPA Administrator (2018-2021) | — | Senate voting records |
+| 2017-02-17 | Scott Pruitt confirmed as EPA Administrator (resigned 2018) |, | Senate voting records |
+| 2000-2017 | Pruitt as Oklahoma AG: sued EPA 14 times in coordination with fossil fuel companies (exact dates pending) |, | Oklahoma AG records |
+| 2018-07-09 | Andrew Wheeler confirmed as EPA Administrator (2018-2021) |, | Senate voting records |
 | 2005-2017 | Wheeler worked as coal lobbyist at Faegre Baker Daniels representing Murray Energy (exact dates pending) | $300K to $3.3M in fees | Lobbying disclosure |
-| 2017-01-20 | Wheeler serves as chief counsel to Senator James Inhofe (climate change denier) prior to EPA role | — | Senate records |
-| 2021-01-20 | Lee Zeldin considered for EPA Administrator role (later appointed to other role) | — | Trump administration records |
+| 2017-01-20 | Wheeler serves as chief counsel to Senator James Inhofe (climate change denier) prior to EPA role |, | Senate records |
+| 2021-01-20 | Lee Zeldin considered for EPA Administrator role (later appointed to other role) |, | Trump administration records |
 | 2013-2021 | Zeldin as Republican Congressman (NY): receives funding from fossil fuel PACs while in Congress (exact dates pending) | Unknown | FEC filings |
 
 > [!money]
@@ -74,11 +74,11 @@ Maps the fossil fuel donor network that funded the most comprehensive environmen
 | Date | Event | Amount | Source |
 |------|-------|--------|--------|
 | 2016-2024 | Koch network spending on deregulation agenda (exact dates pending) | $500,000,000+ per cycle | OpenSecrets |
-| 2024-01-01 | Chevron deference overturned; Clean Power Plan repealed; Paris withdrawal (policy returns from Koch investment) | — | Supreme Court records |
+| 2024-01-01 | Chevron deference overturned; Clean Power Plan repealed; Paris withdrawal (policy returns from Koch investment) |, | Supreme Court records |
 | 2016-2024 | Harold Hamm donates to Trump campaigns (exact dates pending) | $2,600,000 | FEC filings |
-| 2025-01-01 | BLM lease sales benefiting Hamm's Continental Resources: 22 sales, 6,027 permits, $356.6M in revenue on 328,000 acres | — | BLM records |
+| 2025-01-01 | BLM lease sales benefiting Hamm's Continental Resources: 22 sales, 6,027 permits, $356.6M in revenue on 328,000 acres |, | BLM records |
 | 2016-2024 | Kelcy Warren donates to Trump aligned entities (exact dates pending) | $5,000,000+ | FEC filings |
-| 2016-2024 | Dakota Access Pipeline completion; FERC deregulation (policy returns from Warren investment) | — | Federal records |
+| 2016-2024 | Dakota Access Pipeline completion; FERC deregulation (policy returns from Warren investment) |, | Federal records |
 | 2016-2026 | Industry collective spending on Trump campaigns and PACs (exact dates pending) | Unknown | FEC filings |
 | 2024-2040 | Fossil fuel tax incentives ($18B), IRA clean energy credits repealed, rolling lease sales mandated through 2040 | $18,000,000,000 | Congressional records |
 

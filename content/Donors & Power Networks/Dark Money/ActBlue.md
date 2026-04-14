@@ -63,9 +63,9 @@ total-political-spend: "$1,765,636"
 
 ### Who They Are
 
-ActBlue is the Democratic Party's primary financial infrastructure — a nonprofit fundraising platform founded in 2004 that has processed $16 billion+ in donations since inception (as of 2025). It is not simply a payment processor: ActBlue functions as the gatekeeper determining which candidates, causes, and small-dollar movements access Democratic donor networks and receive funding. The organization processes donations for federal candidates, state-level races, ballot initiatives, and grassroots advocacy campaigns — operating as a nonprofit payment processor with 3.95% transaction fees.
+ActBlue is the Democratic Party's primary financial infrastructure, a nonprofit fundraising platform founded in 2004 that has processed $16 billion+ in donations since inception (as of 2025). It is not simply a payment processor: ActBlue functions as the gatekeeper determining which candidates, causes, and small-dollar movements access Democratic donor networks and receive funding. The organization processes donations for federal candidates, state-level races, ballot initiatives, and grassroots advocacy campaigns, operating as a nonprofit payment processor with 3.95% transaction fees.
 
-ActBlue processes approximately 10.7 million individual contributions quarterly during peak election cycles. In Q1 2024 alone, ActBlue processed $460 million. During the 2024 election cycle, ActBlue generated $3.8 billion in processed donations, more than double WinRed's (Republican equivalent) $1.8 billion. The organization's scale makes it functionally equivalent to a central bank for Democratic politics — no Democratic money moves without flowing through ActBlue's infrastructure.
+ActBlue processes approximately 10.7 million individual contributions quarterly during peak election cycles. In Q1 2024 alone, ActBlue processed $460 million. During the 2024 election cycle, ActBlue generated $3.8 billion in processed donations, more than double WinRed's (Republican equivalent) $1.8 billion. The organization's scale makes it functionally equivalent to a central bank for Democratic politics, no Democratic money moves without flowing through ActBlue's infrastructure.
 
 The company employs 200+ staff, operates data infrastructure holding behavioral records on 200 million+ Americans, and has become the subject of federal investigation over misconduct vulnerabilities and the treatment of unallocated ("earmarked") donations.
 
@@ -73,9 +73,9 @@ The company employs 200+ staff, operates data infrastructure holding behavioral 
 
 ### What They Want
 
-ActBlue's public mission: provide Democrats with technologically superior, cheaper fundraising infrastructure than Republicans. Its structural function: concentrate Democratic donor capital into vehicles that maximize billionaire and mega-donor influence while claiming to democratize small-dollar giving. The "platform" framing — ActBlue as neutral infrastructure — obscures its role as an active political player with veto power over candidate viability.
+ActBlue's public mission: provide Democrats with technologically superior, cheaper fundraising infrastructure than Republicans. Its structural function: concentrate Democratic donor capital into vehicles that maximize billionaire and mega-donor influence while claiming to democratize small-dollar giving. The "platform" framing. ActBlue as neutral infrastructure, obscures its role as an active political player with veto power over candidate viability.
 
-Unspoken but material goal: maintain market dominance in Democratic fundraising. With $3.8B processed annually, ActBlue captures $150+ million in annual fees, making it a highly profitable "nonprofit" — effectively an interest in keeping Democratic funding concentrated and dependent on its platform.
+Unspoken but material goal: maintain market dominance in Democratic fundraising. With $3.8B processed annually, ActBlue captures $150+ million in annual fees, making it a highly profitable "nonprofit", effectively an interest in keeping Democratic funding concentrated and dependent on its platform.
 
 ---
 
@@ -95,11 +95,11 @@ Unspoken but material goal: maintain market dominance in Democratic fundraising.
 
 ### What They've Gotten
 
-ActBlue's return on political investment is structural dominance. Since 2004, ActBlue has built the technical and financial backbone of Democratic fundraising — making the organization indispensable to Democratic viability. No Democrat can raise significant money without using ActBlue infrastructure. This creates a monopoly: ActBlue controls which campaigns have capital access.
+ActBlue's return on political investment is structural dominance. Since 2004, ActBlue has built the technical and financial backbone of Democratic fundraising, making the organization indispensable to Democratic viability. No Democrat can raise significant money without using ActBlue infrastructure. This creates a monopoly: ActBlue controls which campaigns have capital access.
 
-Specific policy outcomes tied to ActBlue funding: Georgia Senate flips (2020) enabled by ActBlue small-dollar dominance reversed Republican Senate control. 2024 Harris campaign processed $2.1B through ActBlue, overwhelming Biden's 2020 total and establishing presidential-level reliance on the platform. Progressive ballot initiatives in states like California — Prop 32 (minimum wage), abortion rights measures — were funded through ActBlue coordination, allowing grassroots donors to aggregate capital rapidly.
+Specific policy outcomes tied to ActBlue funding: Georgia Senate flips (2020) enabled by ActBlue small-dollar dominance reversed Republican Senate control. 2024 Harris campaign processed $2.1B through ActBlue, overwhelming Biden's 2020 total and establishing presidential-level reliance on the platform. Progressive ballot initiatives in states like California. Prop 32 (minimum wage), abortion rights measures, were funded through ActBlue coordination, allowing grassroots donors to aggregate capital rapidly.
 
-The organization has positioned itself as a technical innovator, claiming superior misconduct detection and user experience compared to Republicans' WinRed. However, this claim collapsed in 2024 when investigations revealed ActBlue weakened anti-misconduct safeguards and allowed systematic reuse of stolen credit card information — creating a scam that donors attributed to misconduct rates, not platform vulnerability.
+The organization has positioned itself as a technical innovator, claiming superior misconduct detection and user experience compared to Republicans' WinRed. However, this claim collapsed in 2024 when investigations revealed ActBlue weakened anti-misconduct safeguards and allowed systematic reuse of stolen credit card information, creating a scam that donors attributed to misconduct rates, not platform vulnerability.
 
 ---
 
@@ -107,7 +107,7 @@ The organization has positioned itself as a technical innovator, claiming superi
 
 ActBlue's political power extends beyond money flow. The organization maintains detailed behavioral data on 200+ million Americans: donation history, donation timing, donation amounts, issue alignment (derived from candidates supported), demographic information volunteered during signup. This is a voter behavior database rivaling commercial data brokers.
 
-ActBlue uses this data to profile Democratic donors, predict giving behavior, and shape which campaigns receive platform visibility and donor recommendations. The organization shares this data with Democratic infrastructure partners — in opaque arrangements with limited public documentation. A Democratic campaign using ActBlue does not just receive money; it receives donor list recommendations, segment-specific messaging suggestions, and predictive models of likely supporters.
+ActBlue uses this data to profile Democratic donors, predict giving behavior, and shape which campaigns receive platform visibility and donor recommendations. The organization shares this data with Democratic infrastructure partners, in opaque arrangements with limited public documentation. A Democratic campaign using ActBlue does not just receive money; it receives donor list recommendations, segment-specific messaging suggestions, and predictive models of likely supporters.
 
 This is infrastructure control disguised as neutral technology.
 
@@ -154,12 +154,12 @@ The comparison to WinRed reveals the bipartisan nature of the grift. Both platfo
 
 ### Sources
 
-- ~~[OpenSecrets: ActBlue organization profile](https://www.opensecrets.org/orgs/actblue/summary?id=D000021585)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: ActBlue organization profile](https://www.opensecrets.org/orgs/actblue/summary?id=D000021585)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Campaign Legal Center: "One of the Largest Financial Operations in Politics Is Shrouded in Secrecy"](https://campaignlegal.org/update/one-largest-financial-operations-politics-shrouded-secrecy) (Tier 2) (VERIFIED)
 - [Texas Attorney General Ken Paxton: Investigation into ActBlue fraud and suspicious donations](https://www.texasattorneygeneral.gov/news/releases/investigation-actblue-attorney-general-ken-paxton-uncovers-large-number-suspicious-donations-made) (Tier 1) (VERIFIED)
 - [House Administration Committee: Chairman Steil releases findings from ActBlue subpoena](https://republicans-cha.house.gov/2024/12/chairman-steil-releases-findings-from-subpoena-of-actblue) (Tier 1) (VERIFIED)
 - [Washington Examiner: "Chaos and fraud: A look at the allegations facing ActBlue"](https://www.washingtonexaminer.com/news/investigations/3348194/allegations-facing-actblue) (Tier 2) (NEEDS REVIEW)
-- [CNN: "Political fundraisers WinRed and ActBlue are taking..."](https://www.cnn.com/interactive/2024/10/politics/political-fundraising-elderly-election-invs-dg/) (Tier 2) (VERIFIED)
+- [CNN: "Political fundraisers WinRed and ActBlue are taking."](https://www.cnn.com/interactive/2024/10/politics/political-fundraising-elderly-election-invs-dg/) (Tier 2) (VERIFIED)
 - [FEC Advisory Opinion 2014-13: Contributions earmarked for multiple committees](https://www.fec.gov/updates/ao-2014-13-contributions-earmarked-for-multiple-committees/) (Tier 1) (VERIFIED)
 
 ---

@@ -50,7 +50,7 @@ related: >-
 cross-vault-triangulation-count: 12
 audit-a-plus-passed: '2026-04-11'
 aliases:
-  - AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E
+  - AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES P E O P L E
 ---
 #donor #union #AFSCME #public-sector #labor #class-analysis #follow-the-money #california #national #county #municipal #Janus #pensions
 
@@ -130,7 +130,7 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: AFS
 
 - [OpenSecrets: Service Employees International Union profile](https://www.opensecrets.org/orgs/american-fedn-of-st-cnty-munic-employees/summary?id=D000000061) (Tier 1) (VERIFIED)
 - [Senate LDA Filings: AFSCME organizational profile](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
-- ~~[Supreme Court: Janus v. AFSCME (2018)](https://supreme.justia.com/cases/federal/us/585/16-1466/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Supreme Court: Janus v. AFSCME (2018)](https://supreme.justia.com/cases/federal/us/585/16-1466/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ---
 

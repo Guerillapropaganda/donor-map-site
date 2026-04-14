@@ -30,7 +30,7 @@ An open seat race following Senator [[_Joni Ernst Master Profile|Joni Ernst]]'s 
 
 ### The Donor Class Question
 
-Iowa's political economy is controlled by agricultural commodity interests (ethanol producers, seed companies, fertilizer manufacturers, John Deere, land-grant agricultural research networks). Both Republican and Democratic candidates receive ethanol money, but Hinson's much larger war chest gives her an early advantage. Regardless of which Democrat wins, the ethanol lobby gets significant influence: Hinson represents direct access; any Democrat represents a candidate they've already helped fund and shape. Iowa's shift to +13 Trump is not ideological — it reflects rural abandonment by Democratic donor networks in favor of coastal tech/finance money. The race is really about whether residual Democratic rural infrastructure can compete against Republican donor consolidation in agricultural regions.
+Iowa's political economy is controlled by agricultural commodity interests (ethanol producers, seed companies, fertilizer manufacturers, John Deere, land-grant agricultural research networks). Both Republican and Democratic candidates receive ethanol money, but Hinson's much larger war chest gives her an early advantage. Regardless of which Democrat wins, the ethanol lobby gets significant influence: Hinson represents direct access; any Democrat represents a candidate they've already helped fund and shape. Iowa's shift to +13 Trump is not ideological, it reflects rural abandonment by Democratic donor networks in favor of coastal tech/finance money. The race is really about whether residual Democratic rural infrastructure can compete against Republican donor consolidation in agricultural regions.
 
 ### Cross-References
 

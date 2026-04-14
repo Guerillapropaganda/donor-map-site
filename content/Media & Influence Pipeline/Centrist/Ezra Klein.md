@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: centrist
 platform: multi-platform
-related: "[[Bari Weiss]] · [[Pod Save America]] · [[_Media Pipeline Framework]] · [[Sam Seder]] · [[Rachel Maddow]] · [[Kyle Kulinski]] · [[TYT Network - The Young Turks]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Matt Walsh]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Rumble]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Dave Rubin]] · [[Jimmy Dore]] · [[Dan Bongino]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Candace Owens]] · [[Ben Shapiro]] · [[Andrew Klavan]] · [[John Oliver]] · [[Hasan Piker]] · [[David Pakman]] · [[Crooked Media]] · [[Cenk Uygur]]"
+related: "[[Bari Weiss]] · [[Pod Save America]] · [[_Media Pipeline Framework]] · [[Sam Seder]] · [[Rachel Maddow]] · [[Kyle Kulinski]] · [[TYT Network - The Young Turks]] · [[The Platform Dependency Spectrum , Revenue Vulnerability Across Political Media]] · [[Matt Walsh]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Rumble]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Dave Rubin]] · [[Jimmy Dore]] · [[Dan Bongino]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Candace Owens]] · [[Ben Shapiro]] · [[Andrew Klavan]] · [[John Oliver]] · [[Hasan Piker]] · [[David Pakman]] · [[Crooked Media]] · [[Cenk Uygur]]"
 donors: "[]"
 ---
 
@@ -164,7 +164,7 @@ Ezra Klein represents **technocratic centrism as class function**, the mechanism
 - [Variety: "NBCUniversal Buys $200 Million Stake in Vox Media" (Aug 12, 2015)](https://variety.com/2015/digital/news/nbcuniversal-vox-media-1201568784/) (Tier 2) (VERIFIED)
 - [Comcast: "NBCUniversal Announces Strategic Investment in Vox Media" (2015)](https://corporate.comcast.com/news-information/news-feed/nbcuniversal-announces-strategic-investment-in-vox-media) (Tier 1) (VERIFIED)
 - [Semafor: "The New York Times' Ezra Klein Problem" (Aug 18, 2024)](https://www.semafor.com/article/08/18/2024/the-new-york-times-ezra-klein-problem) (Tier 2) (VERIFIED)
-- ~~[The Hill: "NYT Columnist Makes Case That Biden Should Not Run Again" (Feb 2024)](https://thehill.com/homenews/media/4474046-ezra-klein-biden-step-down-2024-democrats/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: "NYT Columnist Makes Case That Biden Should Not Run Again" (Feb 2024)](https://thehill.com/homenews/media/4474046-ezra-klein-biden-step-down-2024-democrats/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [HuffPost: "Prominent NYT Columnist Tells Biden To Step Aside" (Feb 2024)](https://www.huffpost.com/entry/ezra-klein-joe-biden_n_65cf996be4b043f1c0ab07bc) (Tier 2) (VERIFIED)
 - [Washington Post: "Ezra Klein Leaves Vox for New York Times" (Nov 20, 2020)](https://www.washingtonpost.com/lifestyle/media/ezra-klein-vox-departure-digital-media/2020/11/20/289730ea-2b5d-11eb-92b7-6ef17b3fe3b4_story.html) (Tier 2) (VERIFIED)
 - [Variety: "Vox Co-Founder Ezra Klein Exiting for NY Times" (Nov 2020)](https://variety.com/2020/digital/news/vox-ezra-klein-lauren-williams-leaving-1234836784/) (Tier 2) (VERIFIED)

@@ -41,9 +41,9 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### Who They Are
 
-The Healthcare Sector is the single largest lobbying force in American politics — and has been for 25 consecutive years. It is not one industry but a coalition of structurally aligned subsectors: pharmaceuticals, health insurance, hospitals and health systems, medical devices, pharmacy benefit managers (PBMs), physician groups, and nursing home chains. What unites them is a shared policy agenda: preserve the private insurance model, protect pharmaceutical pricing power, expand government healthcare spending (which flows as revenue to private providers), block single-payer proposals, and shape every regulatory framework that governs healthcare delivery.
+The Healthcare Sector is the single largest lobbying force in American politics, and has been for 25 consecutive years. It is not one industry but a coalition of structurally aligned subsectors: pharmaceuticals, health insurance, hospitals and health systems, medical devices, pharmacy benefit managers (PBMs), physician groups, and nursing home chains. What unites them is a shared policy agenda: preserve the private insurance model, protect pharmaceutical pricing power, expand government healthcare spending (which flows as revenue to private providers), block single-payer proposals, and shape every regulatory framework that governs healthcare delivery.
 
-Combined healthcare lobbying in 2024: **$743.9 million** — the highest total of any sector in federal lobbying. Combined political contributions (PACs + individuals giving $200+): **$443 million** in the 2024 election cycle. The healthcare sector has outspent every other industry in lobbying since 1998, with cumulative pharmaceutical-alone lobbying exceeding **$6.1 billion from 1999 to 2024**.
+Combined healthcare lobbying in 2024: **$743.9 million**, the highest total of any sector in federal lobbying. Combined political contributions (PACs + individuals giving $200+): **$443 million** in the 2024 election cycle. The healthcare sector has outspent every other industry in lobbying since 1998, with cumulative pharmaceutical-alone lobbying exceeding **$6.1 billion from 1999 to 2024**.
 
 ### Sector breakdown (2024 lobbying):
 - Pharmaceuticals/Health Products: $384.5M (top sub-sector; top spender since 1999)
@@ -65,20 +65,20 @@ The sector's legislative priorities converge across subsectors into a coherent c
 
 **Hospital/health system industry:** Maintain private hospital reimbursement rates above Medicare rates. Block surprise billing regulations (fought and partially lost 2019-2022). Resist site-neutral payment rules that would lower hospital prices. Maintain nonprofit tax exemptions (worth $28 billion+ annually) without stringent community benefit requirements.
 
-**Unified across subsectors:** Kill every proposal for single-payer, universal, or government-administered healthcare. The "Partnership for America's Health Care Future" — a coalition including PhRMA, AHIP (America's Health Insurance Plans), AHA, and others — spent **$143 million lobbying in 2018 alone** explicitly to prevent single-payer from becoming a viable legislative option.
+**Unified across subsectors:** Kill every proposal for single-payer, universal, or government-administered healthcare. The "Partnership for America's Health Care Future", a coalition including PhRMA, AHIP (America's Health Insurance Plans), AHA, and others, spent **$143 million lobbying in 2018 alone** explicitly to prevent single-payer from becoming a viable legislative option.
 
 ---
 
 ### Who They Fund
 
-The healthcare sector's political giving is aggressively bipartisan — a structural feature, not an accident. Both parties receive substantial funding to ensure that regardless of which party controls healthcare legislation, the sector's fundamental interests are protected. In the 2024 cycle, the sector split approximately 55% Republican / 45% Democrat on direct candidate contributions, with the split narrowing or reversing when Democratic legislators hold key committee positions.
+The healthcare sector's political giving is aggressively bipartisan, a structural feature, not an accident. Both parties receive substantial funding to ensure that regardless of which party controls healthcare legislation, the sector's fundamental interests are protected. In the 2024 cycle, the sector split approximately 55% Republican / 45% Democrat on direct candidate contributions, with the split narrowing or reversing when Democratic legislators hold key committee positions.
 
-### Key recipients (committee access — 2024 cycle):
+### Key recipients (committee access, 2024 cycle):
 
 | Date | Recipient/Target | Amount | Policy Return | Time Gap |
 |------|-----------------|--------|---------------|----------|
 | 2003 | Medicare Part D passage | PhRMA: $62M lobbying (2002-2003) | No Medicare drug price negotiation written into law; CBO estimated $1T cost over 10 years from which pharma profited | 0–12 months |
-| 2009–2010 | ACA passage negotiations | PhRMA: $1.2M/day lobbying during early 2009 | Deal: no Medicare price negotiation, no Canadian imports, 10-year monopoly protections on biologics — despite insurer and hospital opposition to ACA | Concurrent |
+| 2009–2010 | ACA passage negotiations | PhRMA: $1.2M/day lobbying during early 2009 | Deal: no Medicare price negotiation, no Canadian imports, 10-year monopoly protections on biologics, despite insurer and hospital opposition to ACA | Concurrent |
 | 2018 | "Partnership for America's Health Care Future" formed | $143M lobbying | Progressive candidates shifted from Medicare for All to "improve the ACA" messaging; M4A blocked from becoming Democratic platform policy | 6–18 months |
 | 2019 | Sector vs. Medicare for All | $500M+ (multi-cycle) | None of the 4 major M4A bills (2019-2020) reached Senate floor vote; no Democratic primary candidate ran on full M4A after Biden entered race | 12–18 months |
 | 2021–2022 | IRA drug pricing provisions | Pharma: record $373M lobbying in 2021 | IRA ultimately passed, but limited Medicare negotiation to 10 drugs initially (out of 12,000+ branded drugs); biologics protected; small molecule drugs advantaged; net pharma spending impact <2% of revenue | 18–24 months |
@@ -92,17 +92,17 @@ The healthcare sector's political giving is aggressively bipartisan — a struct
 
 ### What They've Gotten
 
-The healthcare sector's return on political investment is measurable in structural outcomes: the United States is the only developed nation without universal healthcare. Americans pay the highest drug prices in the world — 2.5x to 4x the prices paid in comparable countries. Healthcare consumes 18% of U.S. GDP. Administrative costs alone account for an estimated 34% of total healthcare expenditures (versus 12-25% in other OECD nations) — the direct cost of maintaining a multi-payer private insurance system that lobbying protects.
+The healthcare sector's return on political investment is measurable in structural outcomes: the United States is the only developed nation without universal healthcare. Americans pay the highest drug prices in the world, 2.5x to 4x the prices paid in comparable countries. Healthcare consumes 18% of U.S. GDP. Administrative costs alone account for an estimated 34% of total healthcare expenditures (versus 12-25% in other OECD nations), the direct cost of maintaining a multi-payer private insurance system that lobbying protects.
 
 ### Structural victories (what didn't happen):
-- Harry Truman's national health insurance proposal (1945, 1949): blocked by AMA's "socialized medicine" campaign — then the most expensive lobbying effort in U.S. history.
+- Harry Truman's national health insurance proposal (1945, 1949): blocked by AMA's "socialized medicine" campaign, then the most expensive lobbying effort in U.S. history.
 - Clinton healthcare reform (1993-1994): blocked by AHIP's "Harry and Louise" campaign ($100M+) and insurance industry coordination.
 - Medicare drug price negotiation: blocked from 1997 to 2021 (Medicare Part D 2003 explicitly prohibited it). IRA 2022 finally allowed negotiation for 10 drugs in Year 1.
 - Public option: blocked in ACA (2010), blocked in Build Back Better (2021-2022).
 - Medicare for All: never reached committee vote despite House majority (2019-2021).
 
 ### What did happen:
-- ACA individual mandate (2010): required all Americans to purchase private insurance — a policy the insurance industry itself designed and advocated for as the "alternative" to single-payer.
+- ACA individual mandate (2010): required all Americans to purchase private insurance, a policy the insurance industry itself designed and advocated for as the "alternative" to single-payer.
 - Medicare Advantage expansion: privatized portion of Medicare, generating $500B+ in annual payments to private insurers; documented 25% overpayment above Traditional Medicare costs.
 - Biologic drug exclusivity (12 years under ACA): delayed generic competition for expensive biologic drugs by up to a decade beyond base patent terms.
 
@@ -113,7 +113,7 @@ The healthcare sector's return on political investment is measurable in structur
 
 ### Class Analysis
 
-The healthcare sector exemplifies what political economists call "regulatory capture at scale" — but it is more precisely described as *structural capture*: the sector doesn't merely shape regulations, it shapes the framework within which healthcare policy is even conceivable. The Overton Window of American healthcare politics is defined by healthcare sector lobbying. "Medicare for All" became politically radioactive — not because Americans oppose it (polling shows 60%+ support), but because the sector deployed $143M in a single year to make it politically uninhabitable for Democratic candidates.
+The healthcare sector exemplifies what political economists call "regulatory capture at scale", but it is more precisely described as *structural capture*: the sector doesn't merely shape regulations, it shapes the framework within which healthcare policy is even conceivable. The Overton Window of American healthcare politics is defined by healthcare sector lobbying. "Medicare for All" became politically radioactive, not because Americans oppose it (polling shows 60%+ support), but because the sector deployed $143M in a single year to make it politically uninhabitable for Democratic candidates.
 
 The class function is threefold:
 
@@ -121,28 +121,28 @@ The class function is threefold:
 
 **Second:** The bipartisan funding model creates a structural guarantee. Both parties receive healthcare money; both parties protect healthcare's core interests. Democrats receive money to "improve" the private system rather than replace it; Republicans receive money to block any expansion of public coverage. The result is a Overton Window bounded on both ends by healthcare industry interests.
 
-**Third:** The sector uses its own workforce — 16 million+ healthcare workers — as political cover. Attacks on "socialized medicine" are framed as threats to healthcare jobs, innovation, and patient choice. In practice, the sector's legislative victories have concentrated profits in fewer large insurers, hospitals, and pharmaceutical companies while suppressing wages for the nurses, home care workers, and hospital staff who constitute the actual healthcare workforce.
+**Third:** The sector uses its own workforce, 16 million+ healthcare workers, as political cover. Attacks on "socialized medicine" are framed as threats to healthcare jobs, innovation, and patient choice. In practice, the sector's legislative victories have concentrated profits in fewer large insurers, hospitals, and pharmaceutical companies while suppressing wages for the nurses, home care workers, and hospital staff who constitute the actual healthcare workforce.
 
-The PMC study (1999-2018) documented that $4.7 billion in pharmaceutical lobbying during that period produced return on investment impossible to calculate precisely but structurally evident: the United States pays $500 billion more annually in drug costs than if it paid Canadian prices for the same drugs. A $4.7 billion lobbying investment that produces $500 billion+ in annual protected revenue represents a 100:1 return ratio — the most efficient capital deployment in the American political system.
+The PMC study (1999-2018) documented that $4.7 billion in pharmaceutical lobbying during that period produced return on investment impossible to calculate precisely but structurally evident: the United States pays $500 billion more annually in drug costs than if it paid Canadian prices for the same drugs. A $4.7 billion lobbying investment that produces $500 billion+ in annual protected revenue represents a 100:1 return ratio, the most efficient capital deployment in the American political system.
 
 ---
 
 ### Connected Policy Areas
 
-- [[PhRMA]] — lead pharmaceutical trade association; top lobbying spender annually
-- [[Blue Cross Blue Shield Association]] — insurance lobby coordinating center
-- [[American Hospital Association]] — hospital system lobbying coordination
-- [[Medicare for All]] — the structural threat the sector spends to prevent
-- [[Insurance Industry]] — the private insurance model the sector protects
-- [[Pharmaceutical Industry Bloc]] — individual pharma company political operations
+- [[PhRMA]], lead pharmaceutical trade association; top lobbying spender annually
+- [[Blue Cross Blue Shield Association]], insurance lobby coordinating center
+- [[American Hospital Association]], hospital system lobbying coordination
+- [[Medicare for All]], the structural threat the sector spends to prevent
+- [[Insurance Industry]], the private insurance model the sector protects
+- [[Pharmaceutical Industry Bloc]], individual pharma company political operations
 
 ---
 
 ### Sources
 
 - [FEC Receipts: Health Sector Summary](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
-- [FEC Receipts: Health Sector Total — 2024 contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
-- [FEC Receipts: Health Lobbying — 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
+- [FEC Receipts: Health Sector Total, 2024 contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
+- [FEC Receipts: Health Lobbying, 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
 - [Senate LDA Filings: Pharmaceuticals/Health Products Lobbying Profile](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
 - [OpenSecrets: Big Pharma, insurers, hospitals team up to kill Medicare for All](https://www.opensecrets.org/news/2019/03/big-pharma-insurers-hospitals-team-up-to-kill-medicare-for-all/) (Tier 1) (VERIFIED)
 - [OpenSecrets: Federal lobbying set new record in 2024](https://www.opensecrets.org/news/2025/02/federal-lobbying-set-new-record-in-2024/) (Tier 1) (VERIFIED)

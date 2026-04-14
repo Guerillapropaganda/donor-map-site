@@ -1,5 +1,5 @@
 ---
-title: "Barry Loudermilk Master Profile"
+title: "Barry Loudermilk"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

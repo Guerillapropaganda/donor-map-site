@@ -56,7 +56,7 @@ The ballroom is not a fundraiser. It's a corruption mechanism operating in plain
 ### Sources (all Chrome-verified VALID):
 - [Public Citizen: Banquet of Greed. Trump Ballroom Donors Feast on Federal Funds and Favors](https://www.citizen.org/article/banquet-of-greed-trump-ballroom-donors-feast-on-federal-funds-and-favors/) (Tier 2) (VERIFIED)
 - [Public Citizen: Corporate Donors to Trump's White House Ballroom Beset by Conflicts, Received $279 Billion in Government Contracts](https://www.citizen.org/news/corporate-donors-to-trumps-white-house-ballroom-beset-by-conflicts-received-279-billion-in-government-contracts-in-the-past-five-years/) (Tier 2) (VERIFIED)
-- ~~[Washington Post: Report details ballroom donors' federal contracts, enforcement actions](https://www.washingtonpost.com/politics/2025/11/03/trump-ballroom-donors-contracts-enforcement/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Washington Post: Report details ballroom donors' federal contracts, enforcement actions](https://www.washingtonpost.com/politics/2025/11/03/trump-ballroom-donors-contracts-enforcement/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 > [!money]
 > 14 of 24 ballroom donors had federal enforcement actions suspended. The causal chain is direct: donate to the president's building → government stops prosecuting your company → government keeps paying your contracts. Total enforcement benefit to donor companies is incalculable; $279B in contracts is just the baseline.
@@ -202,7 +202,7 @@ Washington Post data: Musk's companies have received over $38 billion in U.S. go
 
 ### Sources (Chrome-verified 2026-03-26):
 - Washington Post: Elon Musk's business empire is built on $38 billion in government funding (URL: `https://www.washingtonpost.com/technology/interactive/2025/elon-musk-business-government-contracts-funding/`) (Tier 2)
-- Fortune: The person ruling on Elon Musk's DOGE conflicts of interest is..Elon Musk (URL: `https://fortune.com/2025/02/06/elon-musk-conflicts-interest-doge-tesla-spacex/`) (Tier 2)
+- Fortune: The person ruling on Elon Musk's DOGE conflicts of interest is.Elon Musk (URL: `https://fortune.com/2025/02/06/elon-musk-conflicts-interest-doge-tesla-spacex/`) (Tier 2)
 
 ---
 
@@ -264,17 +264,17 @@ Based on the above findings, the following vault builds are recommended:
 
 | URL | Status | Outlet | Story |
 |-----|--------|--------|-------|
-| citizen.org/article/banquet-of-greed.. | VALID | Public Citizen | DIAMOND-01 |
-| citizen.org/news/corporate-donors-to-trumps-white-house-ballroom.. | VALID | Public Citizen | DIAMOND-01 |
-| washingtonpost.com/politics/2025/11/03/trump-ballroom-donors.. | VALID | WaPo | DIAMOND-01 |
-| chicagotribune.com/2026/03/23/aipac-behind-secretive-pacs.. | VALID | Chicago Tribune | DIAMOND-02 |
-| readsludge.com/2026/03/01/here-is-how-much-aipac.. | VALID | Sludge | DIAMOND-02 |
-| jns.org/u.s.-news/aipac-other-pro-israel-groups.. | VALID | JNS | DIAMOND-02 |
-| theintercept.com/2025/12/30/aipac-campaigns-elections.. | VALID | The Intercept | DIAMOND-02 |
-| nbcnews.com/politics/2026-election/aipac-super-pac-funded.. | VALID | NBC News | DIAMOND-02 |
-| opensecrets.org/news/2026/01/trump-ballroom-donors-poised.. | VALID | OpenSecrets | GOLD-01 |
+| citizen.org/article/banquet-of-greed. | VALID | Public Citizen | DIAMOND-01 |
+| citizen.org/news/corporate-donors-to-trumps-white-house-ballroom. | VALID | Public Citizen | DIAMOND-01 |
+| washingtonpost.com/politics/2025/11/03/trump-ballroom-donors. | VALID | WaPo | DIAMOND-01 |
+| chicagotribune.com/2026/03/23/aipac-behind-secretive-pacs. | VALID | Chicago Tribune | DIAMOND-02 |
+| readsludge.com/2026/03/01/here-is-how-much-aipac. | VALID | Sludge | DIAMOND-02 |
+| jns.org/u.s.-news/aipac-other-pro-israel-groups. | VALID | JNS | DIAMOND-02 |
+| theintercept.com/2025/12/30/aipac-campaigns-elections. | VALID | The Intercept | DIAMOND-02 |
+| nbcnews.com/politics/2026-election/aipac-super-pac-funded. | VALID | NBC News | DIAMOND-02 |
+| opensecrets.org/news/2026/01/trump-ballroom-donors-poised. | VALID | OpenSecrets | GOLD-01 |
 | cnn.com/2026/03/13/politics/trump-fundraise-email-soldier | VALID | CNN | GOLD-02 |
-| fortune.com/2025/05/23/president-trump-tax-bill-carried-interest.. | VALID | Fortune | GOLD-03 |
+| fortune.com/2025/05/23/president-trump-tax-bill-carried-interest. | VALID | Fortune | GOLD-03 |
 
 ### 11 VALID / 0 BROKEN
 
@@ -351,7 +351,7 @@ The CLARITY Act (broader digital asset market structure) is now advancing in 202
 
 ### Verified sources (Chrome-confirmed this run):
 - [CNBC: Senate passes landmark GENIUS Act stablecoin bill](https://www.cnbc.com/2025/06/17/genius-stablecoin-bill-crypto.html) (Tier 2) (VERIFIED)
-- ~~[CryptoNews: Senator Gillibrand's Role in Stablecoin Regulation – $217,000 in Crypto Donations](https://cryptonews.net/news/legal/30976724/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[CryptoNews: Senator Gillibrand's Role in Stablecoin Regulation – $217,000 in Crypto Donations](https://cryptonews.net/news/legal/30976724/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Congress.gov: S.394. GENIUS Act of 2025](https://www.congress.gov/bill/119th-congress/senate-bill/394/text) (Tier 1) (VERIFIED)
 
 ### Vault connections:
@@ -444,7 +444,7 @@ Run 1 captured the AIPAC Illinois spending story pre-results. Final March 18 res
 2-for-4 despite $22M+ in spending. Biss (IL-9 winner) is a Jewish progressive who explicitly blasted AIPAC in his victory speech. The lobby's candidate in that race finished third. AIPAC claimed credit for the two wins and acknowledged losses in the other two.
 
 ### Verified sources (Chrome-confirmed this run):
-- ~~[Axios: AIPAC notches its first real 2026 Democratic primary wins in Illinois](https://www.axios.com/2026/03/18/aipac-illinois-primary-biss-abughazaleh-bean)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Axios: AIPAC notches its first real 2026 Democratic primary wins in Illinois](https://www.axios.com/2026/03/18/aipac-illinois-primary-biss-abughazaleh-bean)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [WBEZ: Pro-Israel group's donors and affiliates pour $13.7 million into Chicago-area primaries](https://www.wbez.org/politics/2026/02/27/aipac-pro-israel-groups-chicago-area-democratic-congressional-primaries-miller-conyears-ervin-bean-fine) (Tier 2) (VERIFIED)
 - [NBC News: AIPAC super PAC funded big-spending Illinois groups](https://www.nbcnews.com/politics/2026-election/aipac-super-pac-funded-illinois-groups-democratic-primaries-israel-rcna264379) (Tier 2)
 - [The Intercept: AIPAC Stays Out of Illinois Senate Race. Its Donors Back Juliana Stratton](https://theintercept.com/2026/03/12/aipac-illinois-senate-stratton-kelly-krishnamoorthi/) (Tier 2) (VERIFIED)

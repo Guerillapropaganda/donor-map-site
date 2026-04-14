@@ -1,5 +1,5 @@
 ---
-title: "Mazie K. Hirono Master Profile"
+title: "Mazie K. Hirono"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -12,7 +12,7 @@ known-gaps:
 
 ### Donors & Power Networks/
 
-All donor nodes organized by sector. This is the analytical backbone of the vault — politicians are understood through their funding.
+All donor nodes organized by sector. This is the analytical backbone of the vault, politicians are understood through their funding.
 
 ### Sector Folders
 
@@ -38,7 +38,7 @@ All donor nodes organized by sector. This is the analytical backbone of the vaul
 ### Naming Convention
 
 - Named after the entity: `Koch Network - Charles Koch.md`
-- Full names, not abbreviations — use wikilink aliases for display
+- Full names, not abbreviations, use wikilink aliases for display
 - YAML `type` should be `donor`, `pac`, or `corporation` depending on the entity
 
 ### Note Anatomy (Donor Nodes)

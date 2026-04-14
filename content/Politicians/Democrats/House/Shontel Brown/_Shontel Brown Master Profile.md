@@ -1,5 +1,5 @@
 ---
-title: "Shontel Brown Master Profile"
+title: "Shontel Brown"
 type: politician
 content-readiness: draft
 last-updated: 2026-04-10
@@ -33,7 +33,7 @@ fec-candidate-id: "H2OH11169"
 
 ## Who She Is
 
-Shontel Brown. U.S. Representative for Ohio's 11th Congressional District since November 2021. Former Cuyahoga County Council member. Defeated [[_Nina Turner Master Profile|Nina Turner]] in two consecutive Democratic primary elections — the August 2021 special election (to replace Marcia Fudge after she was appointed HUD Secretary) and the May 2022 rematch. Both victories were heavily supported by Democratic Majority for Israel (DMFI), making Brown the earliest high-profile case of the DMFI primary enforcement model that AIPAC later scaled against Bowman and Bush in 2024.
+Shontel Brown. U.S. Representative for Ohio's 11th Congressional District since November 2021. Former Cuyahoga County Council member. Defeated [[_Nina Turner Master Profile|Nina Turner]] in two consecutive Democratic primary elections, the August 2021 special election (to replace Marcia Fudge after she was appointed HUD Secretary) and the May 2022 rematch. Both victories were heavily supported by Democratic Majority for Israel (DMFI), making Brown the earliest high-profile case of the DMFI primary enforcement model that AIPAC later scaled against Bowman and Bush in 2024.
 
 Brown's OH-11 victories are the vault's foundational precedent for the DMFI/AIPAC primary intervention strategy documented in [[DMFI - Democratic Majority for Israel|DMFI's profile]].
 
@@ -41,7 +41,7 @@ Brown's OH-11 victories are the vault's foundational precedent for the DMFI/AIPA
 
 ## The Central Thesis
 
-*Stub — needs full development.*
+*Stub, needs full development.*
 
 Brown's two primary victories over Turner established the proof of concept for the DMFI primary enforcement model. DMFI spent $2M+ in the 2021 special election and $3.1M combined (support + oppose) in the 2022 rematch. Brown's institutional credibility as a sitting county council member combined with concentrated outside spending overwhelmed Turner's small-dollar grassroots model. HuffPost's Daniel Marans noted: "there's no question that DMFI played a pivotal role." Every subsequent AIPAC primary intervention (2022, 2024) builds on the OH-11 template.
 

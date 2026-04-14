@@ -1,5 +1,5 @@
 ---
-title: "Wilbur Ross Master Profile"
+title: "Wilbur Ross"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -1,5 +1,5 @@
 ---
-title: "Norma J. Torres Master Profile"
+title: "Norma J. Torres"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

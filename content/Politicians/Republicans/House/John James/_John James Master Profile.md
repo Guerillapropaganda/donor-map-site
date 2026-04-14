@@ -1,5 +1,5 @@
 ---
-title: "John James Master Profile"
+title: "John James"
 type: politician
 content-readiness: draft
 last-updated: 2026-04-12

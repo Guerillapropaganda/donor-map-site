@@ -1,5 +1,5 @@
 ---
-title: "Warren Davidson Master Profile"
+title: "Warren Davidson"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

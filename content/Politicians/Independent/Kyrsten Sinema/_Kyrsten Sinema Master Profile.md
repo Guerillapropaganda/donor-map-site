@@ -1,8 +1,8 @@
 ---
-title: Kyrsten Sinema Master Profile
+title: Kyrsten Sinema
 type: politician
 content-readiness: ready
-central-thesis: "Kyrsten Sinema is the defining illustration of donor-class capture functioning at maximum efficiency. The carried interest kill alone — her decision to block a tax provision that would have cost the private equity industry $6.5–14 billion per deca..."
+central-thesis: "Kyrsten Sinema is the defining illustration of donor-class capture functioning at maximum efficiency. The carried interest kill alone , her decision to block a tax provision that would have cost the private equity industry $6.5–14 billion per deca..."
 last-updated: 2026-04-13
 source-tier: 1
 parent: null
@@ -41,7 +41,7 @@ total-spent: "$12,945,617"
 cash-on-hand: "4276880.44"
 fec-cycle: 2024
 last-enriched: "2026-04-11"
-internal-notes: "[MANUAL 2026-04-11] Bioguide recovered: S001191. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true — the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
+internal-notes: "[MANUAL 2026-04-11] Bioguide recovered: S001191. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true , the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
 
 [JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
 ---
@@ -74,19 +74,19 @@ Kyrsten Sinema. Former U.S. Senator from Arizona (2019–2025). Left the Democra
 ## Donor Class Map
 
 ### The Carried Interest Kill and the Wall Street Fundraising Surge:
-- [[The Carried Interest Kill and the Wall Street Fundraising Surge]] — Deep dive on the $6.5–14 billion loophole preservation, quarter-by-quarter fundraising shift, August 2022 IRA negotiations, private equity donations (Blackstone $287K, Carlyle $196K, Apollo $145K), and the 1% stock buyback excise tax as inadequate replacement.
+- [[The Carried Interest Kill and the Wall Street Fundraising Surge]]. Deep dive on the $6.5–14 billion loophole preservation, quarter-by-quarter fundraising shift, August 2022 IRA negotiations, private equity donations (Blackstone $287K, Carlyle $196K, Apollo $145K), and the 1% stock buyback excise tax as inadequate replacement.
 
 ### The Filibuster Votes and the Voting Rights Blockade:
-- [[The Filibuster Votes and the Voting Rights Blockade]] — Deep dive on January 2022 votes to preserve the filibuster, blocking the Freedom to Vote Act and John Lewis Voting Rights Act, the speech claiming support for voting rights while voting to block them, corporate PAC money (~$2M in 2021–2022), and the Arizona Democratic Party censure.
+- [[The Filibuster Votes and the Voting Rights Blockade]]. Deep dive on January 2022 votes to preserve the filibuster, blocking the Freedom to Vote Act and John Lewis Voting Rights Act, the speech claiming support for voting rights while voting to block them, corporate PAC money (~$2M in 2021–2022), and the Arizona Democratic Party censure.
 
-### From Senate to K Street — The Revolving Door:
-- [[From Senate to K Street - The Revolving Door]] — Deep dive on the party switch to Independent (December 9, 2022), decision not to seek reelection despite $10.6M war chest, Hogan Lovells hire (March 2025), Coinbase Global Advisory Council (January 2025), AI Infrastructure Coalition, the speed of the revolving door (under 90 days from leaving Senate to lobbying), and what Sinema's post-Senate career reveals about who she was serving all along.
+### From Senate to K Street. The Revolving Door:
+- [[From Senate to K Street - The Revolving Door]]. Deep dive on the party switch to Independent (December 9, 2022), decision not to seek reelection despite $10.6M war chest, Hogan Lovells hire (March 2025), Coinbase Global Advisory Council (January 2025), AI Infrastructure Coalition, the speed of the revolving door (under 90 days from leaving Senate to lobbying), and what Sinema's post-Senate career reveals about who she was serving all along.
 
 ---
 
 ### The Sinema-Manchin Donor-Class Bloc
 
-Sinema and [[_Joe Manchin Master Profile|Joe Manchin]] operated as a two-person donor-class veto in the 50-50 Senate (2021–2023). The bloc functioned as the donor class's insurance policy: the 50-50 Senate meant any single defection could kill legislation. The donor class didn't need 50 senators—it needed two.
+Sinema and [[_Joe Manchin Master Profile|Joe Manchin]] operated as a two-person donor-class veto in the 50-50 Senate (2021–2023). The bloc functioned as the donor class's insurance policy: the 50-50 Senate meant any single defection could kill legislation. The donor class didn't need 50 senators, it needed two.
 
 | Issue | Sinema Position | Manchin Position | Policy Outcome | Donor Beneficiary |
 |-------|-----------------|------------------|-----------------|-------------------|
@@ -110,22 +110,22 @@ Sinema and [[_Joe Manchin Master Profile|Joe Manchin]] operated as a two-person 
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2022-08 | Securities/investment industry — Blackstone ($287K+), Carlyle ($196K), Apollo ($145K+) | ~$1M in a single year | 2021-2022 (surge concentrated before IRA vote) | Sinema forces removal of carried interest loophole closure from IRA — preserves $6.5-14B/decade tax advantage for PE executives |
+| 2022-08 | Securities/investment industry. Blackstone ($287K+), Carlyle ($196K), Apollo ($145K+) | ~$1M in a single year | 2021-2022 (surge concentrated before IRA vote) | Sinema forces removal of carried interest loophole closure from IRA, preserves $6.5-14B/decade tax advantage for PE executives |
 | 2022-08 | Private equity donor class (continued) | Part of $1M surge | 2021-2022 | Wins PE exemption from corporate minimum tax (worth additional $35B to PE sector); approves 1% stock buyback excise as inadequate replacement |
 
 #### Corporate PACs / Anti-Reform
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2021 | Low-wage employer donor class (shift from small-dollar to corporate) | ~$2M corporate PAC in 2021-2022 cycle | 2021-Q2/Q3 (dramatic shift) | Votes against $15 minimum wage (theatrical thumbs-down gesture) — first major signal of donor-class alignment |
-| 2022-01 | Corporate PACs benefiting from Senate gridlock | Part of $2M corporate PAC cycle | 2021-2022 | Votes twice with Republicans against filibuster reform — kills Freedom to Vote Act and John Lewis VRA. Arizona Democratic Party censures her |
+| 2021 | Low-wage employer donor class (shift from small-dollar to corporate) | ~$2M corporate PAC in 2021-2022 cycle | 2021-Q2/Q3 (dramatic shift) | Votes against $15 minimum wage (theatrical thumbs-down gesture), first major signal of donor-class alignment |
+| 2022-01 | Corporate PACs benefiting from Senate gridlock | Part of $2M corporate PAC cycle | 2021-2022 | Votes twice with Republicans against filibuster reform, kills Freedom to Vote Act and John Lewis VRA. Arizona Democratic Party censures her |
 
 #### Revolving Door (Post-Senate Capitalization)
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2025-01 | Coinbase (crypto industry she regulated) | Advisory Council appointment | 11 days after leaving Senate | Joins Coinbase Global Advisory Council — the crypto industry she protected in Senate now pays her salary |
-| 2025-03 | Hogan Lovells (AI, crypto, regulatory lobbying) | Senior Advisor position | 90 days after leaving Senate | Founds AI Infrastructure Coalition backed by Microsoft, Meta, [[ExxonMobil]], NextEra — same sectors she protected in the Senate |
+| 2025-01 | Coinbase (crypto industry she regulated) | Advisory Council appointment | 11 days after leaving Senate | Joins Coinbase Global Advisory Council, the crypto industry she protected in Senate now pays her salary |
+| 2025-03 | Hogan Lovells (AI, crypto, regulatory lobbying) | Senior Advisor position | 90 days after leaving Senate | Founds AI Infrastructure Coalition backed by Microsoft, Meta, [[ExxonMobil]], NextEra, same sectors she protected in the Senate |
 
 > [!money] The Damning Sequences
 > **⚠️ 6-month flag:** $1M surge from securities/investment (calendar year 2021–2022) → forces carried interest loophole closure out of IRA (August 2022). The $1M investment preserved $6.5–14B per decade in tax advantages for PE executives. The ratio of investment to return — approximately 6,500:1 to 14,000:1 — makes this the most efficiently documented donor capture in the Senate's modern history.
@@ -150,11 +150,11 @@ The revolving door completed the exchange. Sinema left the Senate on January 3, 
 
 1. **The maverick brand:** Sinema marketed herself as an "independent thinker" above partisan divides. This positioning obscured the reality: she was not independent of donors; she was independent only from her own party's voters while deeply dependent on Wall Street.
 
-2. **The wine-sipping Senate floor aesthetics:** Sinema performed a particular style of Senate femininity — elegant, composed, visibly enjoying wine and conversation on the Senate floor. The aesthetics were the message: *I am above the partisan chaos*. The aesthetics distracted from the policy: she was voting with Republicans against voting rights.
+2. **The wine-sipping Senate floor aesthetics:** Sinema performed a particular style of Senate femininity, elegant, composed, visibly enjoying wine and conversation on the Senate floor. The aesthetics were the message: *I am above the partisan chaos*. The aesthetics distracted from the policy: she was voting with Republicans against voting rights.
 
-3. **The "bipartisan" framing:** Sinema described her positions (filibuster preservation, voting rights obstruction) as necessary compromises and bipartisan positioning. In reality, she was adopting the position that protected donor interests — which happened to align with Republican positions because both donors and Republicans benefit from the status quo.
+3. **The "bipartisan" framing:** Sinema described her positions (filibuster preservation, voting rights obstruction) as necessary compromises and bipartisan positioning. In reality, she was adopting the position that protected donor interests, which happened to align with Republican positions because both donors and Republicans benefit from the status quo.
 
-4. **The "moderate" defense:** When criticized, Sinema invoked moderation and pragmatism. Protecting carried interest tax breaks for billionaire PE managers is not moderate — it is captured. The framing shifted attention from the substance (whose interests are protected) to the tone (are we being reasonable).
+4. **The "moderate" defense:** When criticized, Sinema invoked moderation and pragmatism. Protecting carried interest tax breaks for billionaire PE managers is not moderate, it is captured. The framing shifted attention from the substance (whose interests are protected) to the tone (are we being reasonable).
 
 5. **The progressive past:** Sinema continued to reference her prior advocacy work and social justice positioning long after her legislative record contradicted it. The biography was the brand, even as the votes told a different story.
 
@@ -162,9 +162,9 @@ The revolving door completed the exchange. Sinema left the Senate on January 3, 
 
 ## Analytical Patterns
 
-**The Villain Framing** — Sinema frames her post-election transition to Independent status and her refusal to seek reelection as principled independence and exhaustion from partisan warfare. She positions herself as above politics. The actual framing obscures: she was censured by her own party, faced strong primary challenger, abandoned her small-dollar base, and moved directly into lobbying for industries she had protected in the Senate. The villain framing (partisan Democrats forcing her out) replaces class analysis (Wall Street and PE donors purchased her loyalty, then hired her after her Senate service ended).
+**The Villain Framing**. Sinema frames her post-election transition to Independent status and her refusal to seek reelection as principled independence and exhaustion from partisan warfare. She positions herself as above politics. The actual framing obscures: she was censured by her own party, faced strong primary challenger, abandoned her small-dollar base, and moved directly into lobbying for industries she had protected in the Senate. The villain framing (partisan Democrats forcing her out) replaces class analysis (Wall Street and PE donors purchased her loyalty, then hired her after her Senate service ended).
 
-**The Genuine Win + Structural Limit** — Sinema's carried interest protection ($6.5-14B/decade loophole preservation) represents a genuine donor-class victory — the most efficiently documented quid pro quo in modern Senate history. However, the structural limit is that even with this victory, she couldn't avoid primary challenge and ultimately withdrew from electoral politics entirely. The win was so complete that it made her electoral future unnecessary — the industries she served hired her directly once she left office, making continued Senate service obsolete.
+**The Genuine Win + Structural Limit**. Sinema's carried interest protection ($6.5-14B/decade loophole preservation) represents a genuine donor-class victory, the most efficiently documented quid pro quo in modern Senate history. However, the structural limit is that even with this victory, she couldn't avoid primary challenge and ultimately withdrew from electoral politics entirely. The win was so complete that it made her electoral future unnecessary, the industries she served hired her directly once she left office, making continued Senate service obsolete.
 
 ---
 
@@ -177,7 +177,7 @@ The revolving door completed the exchange. Sinema left the Senate on January 3, 
 - [NPR: Kyrsten Sinema leaves Democratic Party, registers as independent](https://www.npr.org/2022/12/09/1141827943/sinema-leaves-democratic-party-independent) (Tier 2) (VERIFIED)
 - [NPR: Kyrsten Sinema censured by Arizona Democratic Party](https://www.npr.org/2022/01/22/1075088298/kyrsten-sinema-censure-arizona-democrats-filibuster-vote) (Tier 2) (VERIFIED)
 - [Washington Post: Kyrsten Sinema switches party to independent](https://www.washingtonpost.com/politics/2022/12/09/kyrsten-sinema-independent/) (Tier 2) (VERIFIED)
-- ~~[The Hill: Warren rips Sinema over post-Senate influence career](https://thehill.com/homenews/senate/5685025-warren-slams-sinema-corporate-interests/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Warren rips Sinema over post-Senate influence career](https://thehill.com/homenews/senate/5685025-warren-slams-sinema-corporate-interests/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Hogan Lovells: Senator Kyrsten Sinema joins firm](https://www.hoganlovells.com/en/news/hogan-lovells-welcomes-senator-kyrsten-sinema) (Tier 2) (VERIFIED)
 - [Coinbase: Welcomes Four New Political and Economic Leaders to Global Advisory Council](https://www.coinbase.com/blog/Coinbase-Welcomes-Four-New-Political-and-Economic-Leaders-to-the-Global-Advisory-Council) (Tier 2) (VERIFIED)
 - [CNN: Sinema censured by Arizona Democratic Party over filibuster stance](https://www.cnn.com/2022/01/22/politics/sinema-censured-arizona-democratic-party/index.html) (Tier 2) (VERIFIED)

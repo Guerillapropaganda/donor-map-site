@@ -157,6 +157,6 @@ Ana Navarro's media career serves two structural functions for the donor class:
 - [Mediaite: CNN Blows Off Contributor Ana Navarro's DNC Speech, Airs Gavin Newsom Interview Instead](https://www.mediaite.com/politics/election-2024/cnn-blows-off-contributor-ana-navarros-dnc-speech-airs-gavin-newsom-interview-instead/) (Tier 2) (VERIFIED)
 - [The Grayzone: Contra-supporting CNN pundit Ana Navarro lobbied for corrupt right-wing Latin American governments](https://thegrayzone.com/2020/03/01/contras-cnn-ana-navarro-lobbying-corruption/) (VERIFIED) (Tier 4, cites FARA primary documents; The Grayzone has documented geopolitical biases; FARA disclosures themselves are Tier 1 government records, independent verification recommended) (FARA documents: verify independently via https://efile.fara.gov)
 - [CNN Profile: Ana Navarro](https://www.cnn.com/profiles/ana-navarro) (Tier 3) (VERIFIED)
-- ~~[TIME: Ana Navarro Is Engaging Across Party Lines. Latino Leaders 2024](https://time.com/collections/latino-leaders-2024/7012293/ana-navarro-latino-leaders/atino-leaders/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[TIME: Ana Navarro Is Engaging Across Party Lines. Latino Leaders 2024](https://time.com/collections/latino-leaders-2024/7012293/ana-navarro-latino-leaders/atino-leaders/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [FEC: Ana Navarro individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=NAVARRO%2C+ANA) (Tier 1)
 

@@ -1,5 +1,5 @@
 ---
-title: "Addison P. McDowell Master Profile"
+title: "Addison P. McDowell"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

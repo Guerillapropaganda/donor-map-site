@@ -53,13 +53,13 @@ donors: "[[Western Growers Association]]"
 
 ## Who They Are
 
-John Hoeven. Republican senator from North Dakota since 2011. Previously served as North Dakota's governor for ten years (2000-2010) — the longest-serving governor in the state's history. Serves on the Agriculture, Nutrition, and Forestry Committee and the Appropriations Committee in the 119th Congress, chairing the Agriculture Appropriations Subcommittee. Also sits on the Energy and Water Development, Defense, Interior, and Transportation Appropriations subcommittees. Former member of the Senate Energy and Natural Resources Committee and the Indian Affairs Committee. Before politics, spent over a decade in banking, including serving as president of the Bank of North Dakota (the nation's only state-owned bank) from 1993 to 2000. Estimated net worth $22-97 million (varying estimates), making him one of the wealthiest U.S. senators. Significant personal wealth derived from banking — he and his wife own up to $55 million in Westbrand Inc., a private bank holding company. Also holds personal investments in 68 oil-producing wells in North Dakota through Mainstream Investors LLC, plus 33 additional Bakken wells through Whiting Petroleum. PAC contributions: 43.56% of fundraising in 2019-2024 cycle.
+John Hoeven. Republican senator from North Dakota since 2011. Previously served as North Dakota's governor for ten years (2000-2010), the longest-serving governor in the state's history. Serves on the Agriculture, Nutrition, and Forestry Committee and the Appropriations Committee in the 119th Congress, chairing the Agriculture Appropriations Subcommittee. Also sits on the Energy and Water Development, Defense, Interior, and Transportation Appropriations subcommittees. Former member of the Senate Energy and Natural Resources Committee and the Indian Affairs Committee. Before politics, spent over a decade in banking, including serving as president of the Bank of North Dakota (the nation's only state-owned bank) from 1993 to 2000. Estimated net worth $22-97 million (varying estimates), making him one of the wealthiest U.S. senators. Significant personal wealth derived from banking, he and his wife own up to $55 million in Westbrand Inc. a private bank holding company. Also holds personal investments in 68 oil-producing wells in North Dakota through Mainstream Investors LLC, plus 33 additional Bakken wells through Whiting Petroleum. PAC contributions: 43.56% of fundraising in 2019-2024 cycle.
 
 ---
 
 ## The Central Thesis
 
-Hoeven's donor-class function is to serve as the intersection point where North Dakota's extraction economy meets federal appropriations power. A banker-turned-governor-turned-senator who personally invests in Bakken oil wells while writing federal energy and agriculture policy, Hoeven doesn't just serve the extraction class — he is the extraction class. He championed both the Keystone XL pipeline (introduced Senate Bill 1 to approve it) and the Dakota Access Pipeline (while personally invested in 68+ oil wells that would benefit from pipeline access), and sits on the Indian Affairs Committee despite the Standing Rock Sioux Tribe's opposition to the pipeline that crosses their treaty lands. His Appropriations Committee position controls the federal dollars flowing to agriculture and energy — the two industries that dominate North Dakota's economy and his personal financial portfolio. The donor-class function and the personal financial interest are indistinguishable.
+Hoeven's donor-class function is to serve as the intersection point where North Dakota's extraction economy meets federal appropriations power. A banker-turned-governor-turned-senator who personally invests in Bakken oil wells while writing federal energy and agriculture policy, Hoeven doesn't just serve the extraction class, he is the extraction class. He championed both the Keystone XL pipeline (introduced Senate Bill 1 to approve it) and the Dakota Access Pipeline (while personally invested in 68+ oil wells that would benefit from pipeline access), and sits on the Indian Affairs Committee despite the Standing Rock Sioux Tribe's opposition to the pipeline that crosses their treaty lands. His Appropriations Committee position controls the federal dollars flowing to agriculture and energy, the two industries that dominate North Dakota's economy and his personal financial portfolio. The donor-class function and the personal financial interest are indistinguishable.
 
 ---
 
@@ -94,28 +94,28 @@ Hoeven's donor-class function is to serve as the intersection point where North 
 | Date | Event/Contribution | Amount | Policy Action | Time Gap |
 |------|-------------------|--------|---------------|----------|
 | 2011-2014 | Oil & gas industry contributions + personal Bakken investments | Ongoing | Introduced Keystone XL pipeline approval legislation (Senate Bill 1) | Concurrent |
-| 2013 | Co-sponsored Keystone XL with Baucus (bipartisan) | — | Legislation passed Senate and House with bipartisan support; vetoed by Obama | 0 months |
-| 2015 | Reintroduced Keystone XL as Senate Bill 1 in new Congress | — | First bill of the session — signaled energy industry as top Republican priority | 0 months |
+| 2013 | Co-sponsored Keystone XL with Baucus (bipartisan) |, | Legislation passed Senate and House with bipartisan support; vetoed by Obama | 0 months |
+| 2015 | Reintroduced Keystone XL as Senate Bill 1 in new Congress |, | First bill of the session, signaled energy industry as top Republican priority | 0 months |
 | 2016 | Personal investments in 68+ Bakken oil wells disclosed | $11K-$171K per well | Championed Dakota Access Pipeline while sitting on Indian Affairs Committee | Concurrent |
-| 2016-09 | Standing Rock protests escalate | — | Called for pipeline completion, said delays "prolong disruption"; did not disclose personal well investments | 0 months |
-| 2017-01 | Trump executive order advancing DAPL and Keystone XL | — | Hoeven praised orders; pipeline directly benefits his Bakken well investments | 0 months |
-| 2019-2024 | PAC contributions at 43.56% of fundraising | Ongoing | Controls Agriculture Appropriations subcommittee — directs federal farm and energy spending | Concurrent |
+| 2016-09 | Standing Rock protests escalate |, | Called for pipeline completion, said delays "prolong disruption"; did not disclose personal well investments | 0 months |
+| 2017-01 | Trump executive order advancing DAPL and Keystone XL |, | Hoeven praised orders; pipeline directly benefits his Bakken well investments | 0 months |
+| 2019-2024 | PAC contributions at 43.56% of fundraising | Ongoing | Controls Agriculture Appropriations subcommittee, directs federal farm and energy spending | Concurrent |
 
 ---
 
 ## Policy Area Notes
 
 ### Energy & Pipelines (Core Function):
-- Introduced Senate Bill 1 (2015) to approve Keystone XL pipeline — first legislation of the session
+- Introduced Senate Bill 1 (2015) to approve Keystone XL pipeline, first legislation of the session
 - Championed Dakota Access Pipeline while personally invested in 68+ Bakken oil wells that benefit from pipeline access
 - 14 of his Whiting Petroleum wells named "Wahpeton" (after the Sisseton Wahpeton Oyate Tribe that opposed DAPL) located within 18 miles of the Dakota Access Watford City terminal
 - Sits on Indian Affairs Committee while advocating for pipeline over Standing Rock Sioux objections
-- Framed pipelines as "safer than rail" for transporting Bakken crude — true, but the structural question is who profits
+- Framed pipelines as "safer than rail" for transporting Bakken crude, true, but the structural question is who profits
 
 ### Agriculture & Appropriations:
-- Chairs Agriculture Appropriations Subcommittee — controls federal spending on farming, rural development, FDA
+- Chairs Agriculture Appropriations Subcommittee, controls federal spending on farming, rural development, FDA
 - Also sits on Energy and Water Development, Defense, and Interior Appropriations subcommittees
-- Agriculture policy directly serves North Dakota's farming economy — the state's second-largest industry after energy
+- Agriculture policy directly serves North Dakota's farming economy, the state's second-largest industry after energy
 - Appropriations power over both energy and agriculture funding creates a one-stop-shop for North Dakota's extraction economy
 
 ### Banking & Finance:
@@ -127,7 +127,7 @@ Hoeven's donor-class function is to serve as the intersection point where North 
 
 ## Class Analysis
 
-John Hoeven is not a senator who serves the extraction class. He is the extraction class. With personal investments in 68 oil-producing wells through Mainstream Investors LLC and 33 more Bakken wells through Whiting Petroleum, Hoeven writes federal energy policy that directly increases the value of his own portfolio. The banker-turned-governor-turned-senator holds up to $55 million in Westbrand Inc., a private bank holding company, while sitting on the Appropriations Committee that controls federal dollars flowing to North Dakota's two dominant industries: oil and agriculture.
+John Hoeven is not a senator who serves the extraction class. He is the extraction class. With personal investments in 68 oil-producing wells through Mainstream Investors LLC and 33 more Bakken wells through Whiting Petroleum, Hoeven writes federal energy policy that directly increases the value of his own portfolio. The banker-turned-governor-turned-senator holds up to $55 million in Westbrand Inc. a private bank holding company, while sitting on the Appropriations Committee that controls federal dollars flowing to North Dakota's two dominant industries: oil and agriculture.
 
 The Standing Rock conflict exposes the class structure with perfect clarity. Hoeven sat on the Indian Affairs Committee while championing the Dakota Access Pipeline over the Standing Rock Sioux Tribe's sovereign objections. Fourteen of his Whiting Petroleum wells are named "Wahpeton," after the Sisseton Wahpeton Oyate Tribe, and sit within 18 miles of the Dakota Access terminal. The senator chose extraction profits over tribal sovereignty because the extraction profits were literally his own.
 
@@ -139,19 +139,19 @@ The "energy independence" framing is the rhetorical mechanism that makes all of 
 
 ## Rhetorical Signature Moves
 
-- **"Energy independence" nationalism:** Every pipeline and drilling expansion is framed as reducing dependence on foreign oil and strengthening national security — never as enriching the extraction companies (and the senator personally) who profit from increased production.
-- **"Safety" framing for pipelines:** Argues pipelines are safer than rail for oil transport — a real argument, but one that conveniently forecloses the question of whether extraction should expand at all.
-- **"North Dakota values" populism:** Frames energy and agriculture policy as defending the livelihoods of ordinary North Dakotans — farmers and roughnecks. Obscures that the primary beneficiaries of pipeline access and favorable appropriations are corporate landowners, energy companies, and the senator himself.
+- **"Energy independence" nationalism:** Every pipeline and drilling expansion is framed as reducing dependence on foreign oil and strengthening national security, never as enriching the extraction companies (and the senator personally) who profit from increased production.
+- **"Safety" framing for pipelines:** Argues pipelines are safer than rail for oil transport, a real argument, but one that conveniently forecloses the question of whether extraction should expand at all.
+- **"North Dakota values" populism:** Frames energy and agriculture policy as defending the livelihoods of ordinary North Dakotans, farmers and roughnecks. Obscures that the primary beneficiaries of pipeline access and favorable appropriations are corporate landowners, energy companies, and the senator himself.
 - **"Bipartisan" cover:** Partnered with Democrats (Baucus, Manchin) on Keystone XL to present it as common-sense economic policy rather than donor-class extraction advocacy.
 
 ---
 
 ## Analytical Patterns
 
-- **Donor-Class Override:** The Standing Rock Sioux Tribe — whose reservation sits in Hoeven's state — opposed the Dakota Access Pipeline over water safety and treaty rights. Hoeven championed the pipeline anyway, while personally profiting from Bakken oil investments. The Indian Affairs Committee member chose extraction profits over tribal sovereignty.
-- **Self-Funding as Independence (Inverted):** Hoeven's wealth comes from the same industries he regulates — banking and energy. Unlike billionaire self-funders who claim independence, Hoeven's personal investments create direct conflicts of interest that are never framed as corruption.
-- **Two-Audience Problem:** Tells North Dakota voters he's fighting for their jobs and economic security. His personal financial disclosures reveal that "their" interests and his investment portfolio are indistinguishable — the policy serves both, but the senator profits disproportionately.
-- **Genuine Win + Structural Limit:** Pipeline access does create jobs and economic activity in North Dakota — a genuine benefit. But the structural winners are the energy companies and investors (including Hoeven) who profit from the expanded capacity, while the environmental and sovereignty costs fall on indigenous communities.
+- **Donor-Class Override:** The Standing Rock Sioux Tribe, whose reservation sits in Hoeven's state, opposed the Dakota Access Pipeline over water safety and treaty rights. Hoeven championed the pipeline anyway, while personally profiting from Bakken oil investments. The Indian Affairs Committee member chose extraction profits over tribal sovereignty.
+- **Self-Funding as Independence (Inverted):** Hoeven's wealth comes from the same industries he regulates, banking and energy. Unlike billionaire self-funders who claim independence, Hoeven's personal investments create direct conflicts of interest that are never framed as corruption.
+- **Two-Audience Problem:** Tells North Dakota voters he's fighting for their jobs and economic security. His personal financial disclosures reveal that "their" interests and his investment portfolio are indistinguishable, the policy serves both, but the senator profits disproportionately.
+- **Genuine Win + Structural Limit:** Pipeline access does create jobs and economic activity in North Dakota, a genuine benefit. But the structural winners are the energy companies and investors (including Hoeven) who profit from the expanded capacity, while the environmental and sovereignty costs fall on indigenous communities.
 
 ---
 
@@ -159,7 +159,7 @@ The "energy independence" framing is the rhetorical mechanism that makes all of 
 
 - [FEC Candidate: John Hoeven campaign finance summary](https://www.fec.gov/data/candidate/S0ND00093/) (Tier 1) (VERIFIED)
 - [FEC: John Hoeven candidate overview](https://www.fec.gov/data/candidate/S0ND00093/) (Tier 1) (VERIFIED)
-- ~~[Congress.gov: John Hoeven committee assignments](https://www.congress.gov/member/john-hoeven/H001061/committees)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: John Hoeven committee assignments](https://www.congress.gov/member/john-hoeven/H001061/committees)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Hoeven.senate.gov: Keystone XL pipeline legislation](https://www.hoeven.senate.gov/news/news-releases/hoeven-baucus-bipartisan-group-of-senators-introduce-legislation-to-approve-the-keystone-xl-pipeline) (Tier 1) (VERIFIED)
 - [Hoeven.senate.gov: Statement on DAPL and Keystone XL executive orders](https://www.hoeven.senate.gov/news/news-releases/hoeven-statements-on-president-trumps-executive-orders-advancing-the-keystone-xl-and-dakota-access-pipelines) (Tier 1) (VERIFIED)
 - [DeSmog: Senator promoting Dakota Access Pipeline invests in Bakken oil wells](https://www.desmog.com/2016/09/01/john-hoeven-dakota-access-pipeline-investments/) (Tier 2) (VERIFIED)

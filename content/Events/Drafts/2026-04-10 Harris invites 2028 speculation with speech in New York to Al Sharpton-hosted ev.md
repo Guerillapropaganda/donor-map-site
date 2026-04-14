@@ -16,7 +16,7 @@ profiles:
 **Source:** ~~[The Hill](https://thehill.com/homenews/campaign/5824734-kamala-harris-candidate-waiting/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-10
 
-Former Vice President Kamala Harris is increasingly behaving like a candidate in waiting for the 2028 presidential election. Harris — who lost the 2024 presidential election to President Trump — is stepping up her public and online presence, frequently weighing in on the war in Iran, and notably declining to shut down speculation on a future…
+Former Vice President Kamala Harris is increasingly behaving like a candidate in waiting for the 2028 presidential election. Harris, who lost the 2024 presidential election to President Trump, is stepping up her public and online presence, frequently weighing in on the war in Iran, and notably declining to shut down speculation on a future…
 
 ---
 

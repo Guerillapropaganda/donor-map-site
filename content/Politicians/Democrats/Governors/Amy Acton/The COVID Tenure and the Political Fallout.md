@@ -46,7 +46,7 @@ The class analysis: Acton's removal exposes the mechanism by which corporate int
 
 ### Documented Householder Pressure:
 - House Speaker Larry Householder publicly opposed Acton's health orders as "unconstitutional" [(Ohio Capital Journal: May 2020)](https://ohiocapitaljournal.com/tag/larry-householder/) (Tier 2) (VERIFIED)
-- Householder supporters introduced bill limiting health director emergency authority to 14 days, explicitly targeting Acton's orders ~~[(Tier 1: Ohio House Bill 442)](https://www.legislature.ohio.gov/legislation/legislation-summary?id=GA133-HB-442)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- Householder supporters introduced bill limiting health director emergency authority to 14 days, explicitly targeting Acton's orders ~~[(Tier 1: Ohio House Bill 442)](https://www.legislature.ohio.gov/legislation/legislation-summary?id=GA133-HB-442)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - Ohio Senate unanimously blocked the House bill on May 20, 2020, suggesting even Republican senators found Householder's approach extreme [(Ohio Capital Journal: May 2020)](https://ohiocapitaljournal.com/2020/05/20/ohio-senate-votes-against-bill-to-limit-state-health-directors-power/) (Tier 2) (VERIFIED)
 - Householder demanded Acton sign reopening orders for county fairs; Acton refused on epidemiological grounds [(Tier 2: NPR reporting on her resignation)](https://www.npr.org/2020/08/06/899679894/public-health-officials-discuss-why-they-quit-during-the-covid-19-pandemic) (Tier 2) (VERIFIED)
 
@@ -83,7 +83,7 @@ Acton's COVID fame created what the vault identifies as a **Crisis-Generated Pol
 - "Lockdown lady" framing pins her for school closures, economic shutdown, mental health impacts
 - Opposition research will circulate photos of empty storefronts, unemployment statistics from 2020
 - Ramaswamy (primary opponent) already positioned her as "a health director who overreached" [(NOTUS: Ramaswamy and Acton in Ohio's Governor Race)](https://www.notus.org/2026-election/vivek-ramaswamy-amy-acton-fundraising-in-ohios-governor-race) (Tier 3) (VERIFIED)
-- Armed protesters with antisemitic signs appeared at her home in 2020; that footage will resurface ~~[(Tier 2: WKYC reporting, 2020)](https://www.wkyc.com/article/news/politics/armed-protesters-gather-at-home-of-ohio-health-director-amy-acton/95-578654340)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- Armed protesters with antisemitic signs appeared at her home in 2020; that footage will resurface ~~[(Tier 2: WKYC reporting, 2020)](https://www.wkyc.com/article/news/politics/armed-protesters-gather-at-home-of-ohio-health-director-amy-acton/95-578654340)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ### Democratic Counter-Frame (Acton's strategy):
 Instead of defending lockdowns, Acton positions her resignation as principled stand against corruption. Frame: "I wouldn't sign orders that violated my Hippocratic Oath to a legislature that was itself corrupt. Larry Householder was later convicted of a $60 million bribery scheme. I chose medical ethics over political pressure."
@@ -111,11 +111,11 @@ This flips the narrative: Republicans who attack her "overreach" must explain wh
 - [Ohio Health Director Amy Acton Resigns Over Political Pressure | NPR](https://www.npr.org/2020/08/06/899679894/public-health-officials-discuss-why-they-quit-during-the-covid-19-pandemic) (Tier 2) (VERIFIED)
 - [Amy Acton Resigns as Ohio Health Director | ABC News](https://abcnews.com/US/amy-acton-ohios-embattled-health-director-resigns-amid/story?id=71202353?id=71220436) (Tier 2) (VERIFIED)
 - [Former Ohio House Speaker Larry Householder Convicted of Racketeering and Bribery | U.S. Department of Justice](https://www.justice.gov/usao-sdoh/pr/former-ohio-house-speaker-sentenced-20-years-prison-leading-racketeering-conspiracy) (Tier 1) (VERIFIED)
-- ~~[FirstEnergy Bribery Scheme and Ohio HB 6: The Corruption Case Behind Acton's Resignation | Ohio Capital Journal](https://ohiocapitaljournal.com/2021/06/householder-guilty-verdict/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[Ohio House Bill 442: Limiting Health Director Emergency Powers | Ohio General Assembly](https://www.legislature.ohio.gov/legislation/legislation-summary?id=GA133-HB-442)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[FirstEnergy Bribery Scheme and Ohio HB 6: The Corruption Case Behind Acton's Resignation | Ohio Capital Journal](https://ohiocapitaljournal.com/2021/06/householder-guilty-verdict/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Ohio House Bill 442: Limiting Health Director Emergency Powers | Ohio General Assembly](https://www.legislature.ohio.gov/legislation/legislation-summary?id=GA133-HB-442)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Protesters gather outside of Dr. Amy Acton's home | Cleveland Jewish News](https://www.clevelandjewishnews.com/news/local_news/protesters-gather-outside-of-dr-amy-acton-s-home/article_fc0a516c-8d7b-11ea-b3ef-fbbfcd2244ef.html) (Tier 2) (VERIFIED)
-- ~~[Amy Acton COVID-19 Response: Daily Press Conferences Build National Profile | Politico](https://www.politico.com/news/2020/04/amy-acton-ohio-governor-speculation)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[Ohio Senate Blocks House Effort to Limit Health Director Powers | Cleveland.com](https://www.cleveland.com/politics/2020/05/ohio-senate-blocks-house-bill-limiting-health-directors-power.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Amy Acton COVID-19 Response: Daily Press Conferences Build National Profile | Politico](https://www.politico.com/news/2020/04/amy-acton-ohio-governor-speculation)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Ohio Senate Blocks House Effort to Limit Health Director Powers | Cleveland.com](https://www.cleveland.com/politics/2020/05/ohio-senate-blocks-house-bill-limiting-health-directors-power.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Ohio Capital Journal: Ex-FirstEnergy executives, Ohio utility regulator charged by state in bailout and bribery scandal](https://ohiocapitaljournal.com/2024/02/12/ex-first-energy-executives-ohio-utility-regulator-charged-by-state-in-bailout-and-bribery-scandal/) (Tier 2) (VERIFIED)
 
 ---

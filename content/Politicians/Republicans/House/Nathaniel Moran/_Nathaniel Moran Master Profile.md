@@ -1,5 +1,5 @@
 ---
-title: "Nathaniel Moran Master Profile"
+title: "Nathaniel Moran"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -1,5 +1,5 @@
 ---
-title: "John J. McGuire Master Profile"
+title: "John J. McGuire"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

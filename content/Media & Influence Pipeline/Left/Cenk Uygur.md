@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: left
 platform: multi-platform
-related: "[[Jeffrey Katzenberg]] · [[Greycroft]] · [[WndrCo]] · [[TYT Network - The Young Turks]] · [[Ana Kasparian]] · [[Sam Seder]] · [[Kyle Kulinski]] · [[Rachel Maddow]] · [[Pod Save America]] · [[John Oliver]] · [[Hasan Piker]] · [[David Pakman]] · [[Briahna Joy Gray]] · [[Ezra Klein]] · [[Breaking Points with Krystal and Saagar]] · [[Abby Phillip]] · [[The Daily Wire]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Rumble]] · [[Patrick Bet-David]] · [[Michael Knowles]] · [[Matt Walsh]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Jimmy Dore]] · [[Jesse Watters]] · [[Jeremy Boreing]] · [[James O'Keefe]]"
+related: "[[Jeffrey Katzenberg]] · [[Greycroft]] · [[WndrCo]] · [[TYT Network - The Young Turks]] · [[Ana Kasparian]] · [[Sam Seder]] · [[Kyle Kulinski]] · [[Rachel Maddow]] · [[Pod Save America]] · [[John Oliver]] · [[Hasan Piker]] · [[David Pakman]] · [[Briahna Joy Gray]] · [[Ezra Klein]] · [[Breaking Points with Krystal and Saagar]] · [[Abby Phillip]] · [[The Daily Wire]] · [[The Platform Dependency Spectrum , Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Rumble]] · [[Patrick Bet-David]] · [[Michael Knowles]] · [[Matt Walsh]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Jimmy Dore]] · [[Jesse Watters]] · [[Jeremy Boreing]] · [[James O'Keefe]]"
 ---
 
 #media-pipeline #left #independence-theater #audience-capture #revolving-door #labor-contradiction #venture-capital
@@ -175,17 +175,17 @@ Patterns present: **Independence Theater**, **Audience Capture**, **Revolving Do
 - [Tubefilter: The Young Turks Raises $20 Million From Jeffrey Katzenberg's WndrCo, Greycroft, 3L Capital, More](https://www.tubefilter.com/2017/08/08/the-young-turks-20-million-funding-jeffrey-katzenberg-wndrco/) (Tier 3) (VERIFIED)
 - [TheWrap: The Young Turks Raise $4 Million From a Republican Politician](https://www.thewrap.com/young-turks-raise-4-million-republican-politician/) (Tier 2) (VERIFIED)
 - [FEC: UYGUR, CENK. Candidate overview (P40015752)](https://www.fec.gov/data/candidate/P40015752/) (Tier 1) (VERIFIED)
-- ~~[The Hill: Democratic presidential candidate Cenk Uygur raises more than $250K since campaign launch](https://thehill.com/homenews/campaign/4327418-democratic-presidential-candidate-cenk-uygur-raises-250k/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Democratic presidential candidate Cenk Uygur raises more than $250K since campaign launch](https://thehill.com/homenews/campaign/4327418-democratic-presidential-candidate-cenk-uygur-raises-250k/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [The New Republic: The Myth of the Progressive Boss](https://newrepublic.com/article/156757/myth-progressive-boss) (Tier 2) (VERIFIED)
 - [In These Times: The Young Turks Union Fight Gets Nastier With Charges of Retaliatory Firing, Withholding Raises](https://inthesetimes.com/article/the-young-turks-union-cenk-uygur-labor-organizing) (Tier 2) (VERIFIED)
 - [HuffPost: The Young Turks' Progressive Founder Urged His Staff Not To Unionize](https://www.huffpost.com/entry/the-young-turks-progressive-founder-urged-his-staff-not-to-unionize_n_5e540686c5b6ad3de3823a32) (Tier 2) (VERIFIED)
 - [Digiday: With cash from Jeffrey Katzenberg, The Young Turks looks to grow paid subscribers](https://digiday.com/media/with-cash-from-katzenberg-the-young-turks-look-to-grow-paid-subscribers/) (Tier 3) (VERIFIED)
 - [Digiday: The Young Turks now has 27k paying subscribers accounting for half of its revenue](https://digiday.com/media/young-turks-now-27k-paying-subscribers-accounting-half-revenue/) (Tier 3) (VERIFIED)
 - [Deadline: IATSE Launches Drive To Unionize The Young Turks Online News Site](https://deadline.com/2020/02/iatse-launches-drive-to-unionize-the-young-turks-news-site-1202858884/) (Tier 2) (VERIFIED)
-- ~~[Axios: How The Young Turks will spend its $20 million](https://www.axios.com/2017/12/15/how-the-young-turks-will-spend-its-20-million-1513304718)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Axios: How The Young Turks will spend its $20 million](https://www.axios.com/2017/12/15/how-the-young-turks-will-spend-its-20-million-1513304718)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Hollywood Reporter: The Young Turks Raises $20 Million in Latest Funding Round](https://www.hollywoodreporter.com/news/general-news/left-leaning-political-video-network-young-turks-raises-20-million-1027360/) (Tier 2) (VERIFIED)
 - [Variety: The Young Turks CEO Cenk Uygur Touts Political News Strategy](https://variety.com/2024/digital/news/cenk-uygur-young-turks-election-1236192092/) (Tier 2) (VERIFIED)
-- ~~[The Hill: Cenk Uygur signals optimism after Donald Trump election win](https://thehill.com/homenews/campaign/5015727-cenk-uygur-donald-trump-optimism-2024-election/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Cenk Uygur signals optimism after Donald Trump election win](https://thehill.com/homenews/campaign/5015727-cenk-uygur-donald-trump-optimism-2024-election/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Wikipedia: Cenk Uygur](https://en.wikipedia.org/wiki/Cenk_Uygur) (Tier 3) (VERIFIED)
 - [Wikipedia: The Young Turks](https://en.wikipedia.org/wiki/The_Young_Turks) (Tier 3) (VERIFIED)
 - [Ballotpedia: Cenk Uygur](https://ballotpedia.org/Cenk_Uygur) (Tier 3) (VERIFIED)

@@ -1,5 +1,5 @@
 ---
-title: "Kirsten E. Gillibrand Master Profile"
+title: "Kirsten E. Gillibrand"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

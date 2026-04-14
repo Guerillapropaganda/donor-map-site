@@ -47,17 +47,17 @@ donors:
 
 ## Who They Are
 
-Ron Wyden. Democrat, Oregon. Senior Senator since 1996. Ranking Member, Senate Finance Committee (119th Congress); previously Chair (118th Congress). The Finance Committee controls approximately 50% of the federal budget — all federal tax legislation, Social Security, Medicare, Medicaid, trade, and the debt ceiling. As ranking member, Wyden remains the Democratic Party's lead voice on every tax and healthcare policy debate.
+Ron Wyden. Democrat, Oregon. Senior Senator since 1996. Ranking Member, Senate Finance Committee (119th Congress); previously Chair (118th Congress). The Finance Committee controls approximately 50% of the federal budget, all federal tax legislation, Social Security, Medicare, Medicaid, trade, and the debt ceiling. As ranking member, Wyden remains the Democratic Party's lead voice on every tax and healthcare policy debate.
 
-Born 1949 in Wichita, Kansas. Stanford University (B.A. Political Science, 1971), University of Oregon (J.D., 1974). Founded the Oregon Gray Panthers (senior advocacy) at age 25. Directed Oregon Legal Services for the Elderly. U.S. House of Representatives (1981-1996, 15 years), then won a 1996 special election to fill Bob Packwood's Senate seat. Now the longest-serving member of Oregon's congressional delegation.
+Born 1949 in Wichita, Kansas. Stanford University (B.A. Political Science, 1971), University of Oregon (J.D. 1974). Founded the Oregon Gray Panthers (senior advocacy) at age 25. Directed Oregon Legal Services for the Elderly. U.S. House of Representatives (1981-1996, 15 years), then won a 1996 special election to fill Bob Packwood's Senate seat. Now the longest-serving member of Oregon's congressional delegation.
 
-Married to Nancy Bass Wyden — CEO and owner of the Strand Book Store, the iconic 180-year-old New York City literary landmark (2.5 million books, 200+ employees). Nancy Bass Wyden's estimated net worth: $12-56 million (varies by source), with significant holdings in Apple, Microsoft, Amazon, Google, and Manhattan commercial real estate. The senator who writes tax policy is married to a multimillionaire whose wealth is directly affected by that policy.
+Married to Nancy Bass Wyden. CEO and owner of the Strand Book Store, the iconic 180-year-old New York City literary landmark (2.5 million books, 200+ employees). Nancy Bass Wyden's estimated net worth: $12-56 million (varies by source), with significant holdings in Apple, Microsoft, Amazon, Google, and Manhattan commercial real estate. The senator who writes tax policy is married to a multimillionaire whose wealth is directly affected by that policy.
 
 ---
 
 ## The Central Thesis
 
-Wyden is the reform Democrat whose reforms never pass. His brand is powerful: privacy crusader, billionaire tax champion, surveillance opponent, tech-accountability advocate. He has introduced the Billionaires Income Tax at least four times (2021, 2023, 2025). He has fought Section 702 surveillance reauthorization for over a decade. He has proposed the most comprehensive privacy legislation in U.S. history. None of it has become law. Meanwhile, the policies he successfully advances — CHIPS Act semiconductor funding for Intel's Oregon operations ($36 billion investment), trade promotion authority that benefits tech companies, crypto tax-reporting rules that satisfy innovation-first framing — serve the donor class and his wife's portfolio. Nancy Bass Wyden holds $3 million+ in Big Tech stocks (Apple, Microsoft, Amazon, Google). Wyden led the Biden administration to adopt what the Revolving Door Project called "Big Tech's anti-regulatory framework in international trade negotiations." Five ethics experts told Rolling Stone the situation "poses a conflict of interest." The reform brand is real as aspiration; the structural function is to propose ambitious legislation that fails while advancing donor-friendly policy that succeeds.
+Wyden is the reform Democrat whose reforms never pass. His brand is powerful: privacy crusader, billionaire tax champion, surveillance opponent, tech-accountability advocate. He has introduced the Billionaires Income Tax at least four times (2021, 2023, 2025). He has fought Section 702 surveillance reauthorization for over a decade. He has proposed the most comprehensive privacy legislation in U.S. history. None of it has become law. Meanwhile, the policies he successfully advances. CHIPS Act semiconductor funding for Intel's Oregon operations ($36 billion investment), trade promotion authority that benefits tech companies, crypto tax-reporting rules that satisfy innovation-first framing, serve the donor class and his wife's portfolio. Nancy Bass Wyden holds $3 million+ in Big Tech stocks (Apple, Microsoft, Amazon, Google). Wyden led the Biden administration to adopt what the Revolving Door Project called "Big Tech's anti-regulatory framework in international trade negotiations." Five ethics experts told Rolling Stone the situation "poses a conflict of interest." The reform brand is real as aspiration; the structural function is to propose ambitious legislation that fails while advancing donor-friendly policy that succeeds.
 
 ---
 
@@ -74,7 +74,7 @@ Wyden is the reform Democrat whose reforms never pass. His brand is powerful: pr
 **FEC Candidate ID:** S6OR00110
 
 ### Campaign Fundraising:
-- Nike Inc.: $79,992 (2019-2024 cycle) — Oregon's marquee corporation
+- Nike Inc.: $79,992 (2019-2024 cycle). Oregon's marquee corporation
 - Pharmaceutical PACs: $55,000+ (2022 cycle alone)
 - San Pablo Lytton Casino: $49,900 (top 2024 joint fundraising donor)
 
@@ -107,17 +107,17 @@ Wyden is the reform Democrat whose reforms never pass. His brand is powerful: pr
 | Date | Event | Amount/Value | Source |
 |------|-------|-------------|--------|
 | 1996-present | Career fundraising from tech, pharma, professional class | $7M+ cash on hand | OpenSecrets |
-| 2015 | Co-authored bipartisan Trade Promotion Authority (with Hatch, Ryan) | — | Finance Committee |
-| 2019 | Proposed largest privacy overhaul in U.S. history | — (never passed) | Wyden.senate.gov |
-| 2020 | Section 702 reform amendment defeated (59-37, one vote short) | — | Senate vote |
-| 2021 | Introduced Billionaires Income Tax (#1) | — (never passed) | Finance Committee |
-| 2021 | Filed crypto tax-reporting amendment (with Toomey, Lummis) — innovation-friendly | — | Roll Call |
+| 2015 | Co-authored bipartisan Trade Promotion Authority (with Hatch, Ryan) |, | Finance Committee |
+| 2019 | Proposed largest privacy overhaul in U.S. history |, (never passed) | Wyden.senate.gov |
+| 2020 | Section 702 reform amendment defeated (59-37, one vote short) |, | Senate vote |
+| 2021 | Introduced Billionaires Income Tax (#1) |, (never passed) | Finance Committee |
+| 2021 | Filed crypto tax-reporting amendment (with Toomey, Lummis), innovation-friendly |, | Roll Call |
 | 2022 | Pharma PAC contributions | $55,000+ | The Lund Report |
-| 2023 | Reintroduced Billionaires Income Tax (#2) | — (never passed) | Finance Committee |
+| 2023 | Reintroduced Billionaires Income Tax (#2) |, (never passed) | Finance Committee |
 | 2024 | Intel $36B Oregon investment (CHIPS Act beneficiary) | $36B | OPB |
 | 2024 | Nike donations to Wyden | $79,992 | OpenSecrets |
-| 2025 | Reintroduced Billionaires Income Tax (#3) | — (never passed) | Finance Committee |
-| 2026 | Government Surveillance Reform Act introduced | — (pending) | Wyden.senate.gov |
+| 2025 | Reintroduced Billionaires Income Tax (#3) |, (never passed) | Finance Committee |
+| 2026 | Government Surveillance Reform Act introduced |, (pending) | Wyden.senate.gov |
 
 ---
 
@@ -133,23 +133,23 @@ Wyden represents Oregon, home to Intel, Nike, HP, and the Silicon Forest tech co
 
 ## Analytical Patterns
 
-**Genuine Win + Structural Limit:** Wyden's Medicaid defense is genuine — he helped block $1.2 trillion in Medicaid cuts (2015) and $880 billion (2025-2026). His ACA defense is consistent and real. His CHIPS Act advocacy delivered tangible jobs to Oregon. But his most ambitious proposals — billionaire tax, privacy overhaul, surveillance reform — never pass. The genuine wins protect the existing system; the aspirational proposals that would restructure it remain aspirational. The structural limit is that reforms threatening to his donor class (tech regulation, billionaire taxation) are introduced but never enacted, while policies serving his donor class (CHIPS funding, trade promotion, innovation-friendly crypto rules) become law.
+**Genuine Win + Structural Limit:** Wyden's Medicaid defense is genuine, he helped block $1.2 trillion in Medicaid cuts (2015) and $880 billion (2025-2026). His ACA defense is consistent and real. His CHIPS Act advocacy delivered tangible jobs to Oregon. But his most ambitious proposals, billionaire tax, privacy overhaul, surveillance reform, never pass. The genuine wins protect the existing system; the aspirational proposals that would restructure it remain aspirational. The structural limit is that reforms threatening to his donor class (tech regulation, billionaire taxation) are introduced but never enacted, while policies serving his donor class (CHIPS funding, trade promotion, innovation-friendly crypto rules) become law.
 
 **Two-Audience Problem:** For progressive voters: billionaire tax champion, privacy crusader, surveillance opponent, anti-corporate reformer. For the tech sector and professional-class donors: CHIPS Act funding, trade promotion authority that prevents state-level tech regulation, crypto rules that don't stifle innovation, pharmaceutical pricing reforms that arrive slowly and incrementally. The reform rhetoric sustains the progressive base; the policy outcomes serve the donor class.
 
-**Revolving Door (Family):** Nancy Bass Wyden's $3M+ tech portfolio creates a family revolving door through investment rather than employment. Wyden shapes trade and tax policy affecting Apple, Microsoft, Amazon, and Google while his wife holds significant stock in all four. His response — "separate finances, don't discuss work" — is the same defense used by every politician in the vault whose family benefits from their committee jurisdiction. Five ethics experts confirmed the conflict of interest exists; no law was broken.
+**Revolving Door (Family):** Nancy Bass Wyden's $3M+ tech portfolio creates a family revolving door through investment rather than employment. Wyden shapes trade and tax policy affecting Apple, Microsoft, Amazon, and Google while his wife holds significant stock in all four. His response, "separate finances, don't discuss work", is the same defense used by every politician in the vault whose family benefits from their committee jurisdiction. Five ethics experts confirmed the conflict of interest exists; no law was broken.
 
-**Reform Treadmill:** The Billionaires Income Tax has been introduced at least four times. It has never advanced. Each reintroduction generates progressive media coverage ("Wyden fights for billionaire accountability!") that sustains his brand without threatening the underlying tax structure. The reform bill is not a legislative vehicle — it's a marketing asset. It costs nothing to introduce and delivers infinite brand value.
+**Reform Treadmill:** The Billionaires Income Tax has been introduced at least four times. It has never advanced. Each reintroduction generates progressive media coverage ("Wyden fights for billionaire accountability!") that sustains his brand without threatening the underlying tax structure. The reform bill is not a legislative vehicle, it's a marketing asset. It costs nothing to introduce and delivers infinite brand value.
 
 ---
 
 ## Rhetorical Signature Moves
 
-Wyden's signature is the policy-wonk reformer — he leads with technical proposals (mark-to-market taxation, warrant requirements for Section 702 searches, comprehensive privacy frameworks) that signal seriousness and expertise. The technical framing serves a dual purpose: it impresses policy-engaged progressives who want substance, and it makes the failure to pass seem like a technical challenge rather than a structural one. "The bill is complex" is a more comfortable explanation than "the bill threatens my donors."
+Wyden's signature is the policy-wonk reformer, he leads with technical proposals (mark-to-market taxation, warrant requirements for Section 702 searches, comprehensive privacy frameworks) that signal seriousness and expertise. The technical framing serves a dual purpose: it impresses policy-engaged progressives who want substance, and it makes the failure to pass seem like a technical challenge rather than a structural one. "The bill is complex" is a more comfortable explanation than "the bill threatens my donors."
 
-On privacy and surveillance, Wyden channels genuine constitutional concern — his Section 702 opposition is consistent, specific, and constitutionally grounded. This is his most authentic policy space. But even here, his privacy advocacy aligns with tech company preferences: companies prefer federal preemption of state privacy laws (which Wyden's trade advocacy supports) over a patchwork of state regulations.
+On privacy and surveillance, Wyden channels genuine constitutional concern, his Section 702 opposition is consistent, specific, and constitutionally grounded. This is his most authentic policy space. But even here, his privacy advocacy aligns with tech company preferences: companies prefer federal preemption of state privacy laws (which Wyden's trade advocacy supports) over a patchwork of state regulations.
 
-On tax policy, he frames himself as the counterweight to Crapo — the progressive voice on a committee controlled by Republicans. This framing allows him to propose ambitious reforms, have them blocked by the Republican majority, and claim credit for fighting the good fight without ever facing the test of whether he'd actually pass his own proposals with a working majority.
+On tax policy, he frames himself as the counterweight to Crapo, the progressive voice on a committee controlled by Republicans. This framing allows him to propose ambitious reforms, have them blocked by the Republican majority, and claim credit for fighting the good fight without ever facing the test of whether he'd actually pass his own proposals with a working majority.
 
 ---
 
@@ -165,7 +165,7 @@ On tax policy, he frames himself as the counterweight to Crapo — the progressi
 - [Revolving Door Project: Wyden Unethically Champions Big Tech Anti-Regulatory Push](https://therevolvingdoorproject.org/release-wyden-unethically-champions-big-techs-anti-regulatory-push-despite-wifes-massive-investments-in-apple-microsoft-amazon-and-google/) (Tier 2) (VERIFIED)
 - [The Lund Report: Pharma Showers Key Oregon Lawmakers with Money](https://www.thelundreport.org/content/pharma-showers-key-oregon-lawmakers-money) (Tier 2) (VERIFIED)
 - [OPB: Intel Investment in Oregon Tied to Federal Funding](https://www.opb.org/article/2024/03/20/intel-investment-oregon-federal-funding/) (Tier 2) (VERIFIED)
-- [Tax Policy Center: Wyden's Billionaires Income Tax — Ambitious but Problematic](https://taxpolicycenter.org/taxvox/wydens-billionaire-income-tax-ambitious-problematic) (Tier 2) (VERIFIED)
+- [Tax Policy Center: Wyden's Billionaires Income Tax. Ambitious but Problematic](https://taxpolicycenter.org/taxvox/wydens-billionaire-income-tax-ambitious-problematic) (Tier 2) (VERIFIED)
 - [Brennan Center: Senate Vote Signals Hope for Surveillance Reform](https://www.brennancenter.org/our-work/analysis-opinion/surprising-senate-vote-signals-new-hope-surveillance-reform) (Tier 2) (VERIFIED)
 - [Ballotpedia: Ron Wyden](https://ballotpedia.org/Ron_Wyden) (Tier 3) (VERIFIED)
 

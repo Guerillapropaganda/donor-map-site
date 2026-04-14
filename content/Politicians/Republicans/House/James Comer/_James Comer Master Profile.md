@@ -2,7 +2,7 @@
 title: "James Comer"
 type: politician
 content-readiness: draft
-central-thesis: "Comer is the investigator who doesn't investigate himself. His Oversight Committee gavel gives him the most powerful investigative tool in Congress — unilateral subpoena power — and he has deployed it almost exclusively as a partisan weapon. The B..."
+central-thesis: "Comer is the investigator who doesn't investigate himself. His Oversight Committee gavel gives him the most powerful investigative tool in Congress , unilateral subpoena power , and he has deployed it almost exclusively as a partisan weapon. The B..."
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -53,17 +53,17 @@ donors:
 
 ## Who They Are
 
-James Comer. Republican, Kentucky's 1st District (rural western Kentucky). Born 1972. First elected to Congress in 2016. Chair, House Oversight and Accountability Committee (118th and 119th Congress) — one of only three House committee chairs with unilateral subpoena power, meaning he can issue subpoenas without a committee vote or ranking member consultation.
+James Comer. Republican, Kentucky's 1st District (rural western Kentucky). Born 1972. First elected to Congress in 2016. Chair, House Oversight and Accountability Committee (118th and 119th Congress), one of only three House committee chairs with unilateral subpoena power, meaning he can issue subpoenas without a committee vote or ranking member consultation.
 
 Western Kentucky University (B.S. in Agriculture, 1993). President of Kentucky FFA. Kentucky House of Representatives (2000-2012, elected at age 27, named National Republican Freshman Legislator of the Year). Kentucky Agriculture Commissioner (2012-2016). Multimillionaire farmer with approximately 1,600 acres of Kentucky farmland.
 
-His district is R+24 (17th most Republican in the country), median household income $57,072, dominated by corn and soybean agriculture, Fort Campbell Army Base, and the remnants of coal country. Comer wins with 75% of the vote. The district's safety means his real constituency is the party infrastructure and donor class that elevated him to the committee chairmanship — not the voters who rubber-stamp him every two years.
+His district is R+24 (17th most Republican in the country), median household income $57,072, dominated by corn and soybean agriculture, Fort Campbell Army Base, and the remnants of coal country. Comer wins with 75% of the vote. The district's safety means his real constituency is the party infrastructure and donor class that elevated him to the committee chairmanship, not the voters who rubber-stamp him every two years.
 
 ---
 
 ## The Central Thesis
 
-Comer is the investigator who doesn't investigate himself. His Oversight Committee gavel gives him the most powerful investigative tool in Congress — unilateral subpoena power — and he has deployed it almost exclusively as a partisan weapon. The Biden family investigation consumed 18+ months, produced zero charges against President Biden, and relied on a central informant (Alexander Smirnov) who was charged with felony lying. Meanwhile, Comer dropped investigations into Trump's presidential profiteering and Jared Kushner's $2 billion Saudi deal, explicitly stating: "There have been so many investigations of President Trump. I don't feel like we need to spend a whole lot of time investigating President Trump." The investigation-as-product is the key: high-profile hearings generate Fox News coverage, which generates donor engagement, which generates campaign cash — regardless of whether the investigation produces evidence. The oversight power isn't being used for oversight. It's being used for content production.
+Comer is the investigator who doesn't investigate himself. His Oversight Committee gavel gives him the most powerful investigative tool in Congress, unilateral subpoena power, and he has deployed it almost exclusively as a partisan weapon. The Biden family investigation consumed 18+ months, produced zero charges against President Biden, and relied on a central informant (Alexander Smirnov) who was charged with felony lying. Meanwhile, Comer dropped investigations into Trump's presidential profiteering and Jared Kushner's $2 billion Saudi deal, explicitly stating: "There have been so many investigations of President Trump. I don't feel like we need to spend a whole lot of time investigating President Trump." The investigation-as-product is the key: high-profile hearings generate Fox News coverage, which generates donor engagement, which generates campaign cash, regardless of whether the investigation produces evidence. The oversight power isn't being used for oversight. It's being used for content production.
 
 ---
 
@@ -133,14 +133,14 @@ Comer's stated reasoning: "There have been so many investigations of President T
 
 | Date | Event | Amount/Value | Source |
 |------|-------|-------------|--------|
-| 2016 | Elected to Congress | — | Ballotpedia |
-| 2018 | Hemp Farming Act (original cosponsor) signed into law | — | Congress.gov |
+| 2016 | Elected to Congress |, | Ballotpedia |
+| 2018 | Hemp Farming Act (original cosponsor) signed into law |, | Congress.gov |
 | 2022 | Farm Team Properties valued at $500K-$1M | $500K-$1M | Financial disclosure |
-| Jan 2023 | Becomes Oversight Chair; launches Biden investigation | — | Oversight Committee |
-| 2023-2024 | Biden investigation: 18+ months of hearings | — | Congressional Record |
-| Feb 2024 | Smirnov charged with felony lying | — | DOJ indictment |
-| Aug 2024 | Investigation ends: zero charges against President Biden | — | CNN, Washington Post |
-| 2025 | Creates DOGE Subcommittee; aligns with Musk efficiency agenda | — | Fox News |
+| Jan 2023 | Becomes Oversight Chair; launches Biden investigation |, | Oversight Committee |
+| 2023-2024 | Biden investigation: 18+ months of hearings |, | Congressional Record |
+| Feb 2024 | Smirnov charged with felony lying |, | DOJ indictment |
+| Aug 2024 | Investigation ends: zero charges against President Biden |, | CNN, Washington Post |
+| 2025 | Creates DOGE Subcommittee; aligns with Musk efficiency agenda |, | Fox News |
 
 ---
 
@@ -156,11 +156,11 @@ The investigation-as-content model serves the donor class indirectly but powerfu
 
 ## Analytical Patterns
 
-**Investigation-as-Spectacle:** The Biden probe is the vault's purest example of oversight power deployed for content production rather than accountability. The investigation generated 18 months of hearings, press conferences, and media coverage — sustaining GOP base engagement and fundraising — without producing evidence, charges, or policy outcomes. The subpoena power was the product; the investigation was the marketing.
+**Investigation-as-Spectacle:** The Biden probe is the vault's purest example of oversight power deployed for content production rather than accountability. The investigation generated 18 months of hearings, press conferences, and media coverage, sustaining GOP base engagement and fundraising, without producing evidence, charges, or policy outcomes. The subpoena power was the product; the investigation was the marketing.
 
 **Both-Sides Illusion (inverted):** Comer attacked Biden family financial arrangements (shell companies, family loans, land deals) that mirror his own financial structure. Farm Team Properties, the $200,000 brother loan, the donor land purchase, and the family land swaps are structurally identical to the Biden family patterns Comer investigated. The investigation frames one party's financial arrangements as unlawful while leaving identical arrangements in the investigator's own family unexamined.
 
-**Genuine Win + Structural Limit:** The Hemp Farming Act (2018 Farm Bill) was a genuine legislative accomplishment — legalizing hemp nationwide benefits agricultural producers in his district. But it's his only significant legislative achievement. As Oversight Chair with enormous power, Comer's actual legislative productivity is near zero. His focus is investigations and hearings, not legislation.
+**Genuine Win + Structural Limit:** The Hemp Farming Act (2018 Farm Bill) was a genuine legislative accomplishment, legalizing hemp nationwide benefits agricultural producers in his district. But it's his only significant legislative achievement. As Oversight Chair with enormous power, Comer's actual legislative productivity is near zero. His focus is investigations and hearings, not legislation.
 
 **Selective Oversight as Donor Service:** By directing all investigative resources at Democrats and refusing to investigate Trump or Kushner, Comer signals to conservative donors that oversight power will never be turned on them. The absence of investigation is the product the donor class purchases.
 
@@ -168,9 +168,9 @@ The investigation-as-content model serves the donor class indirectly but powerfu
 
 ## Rhetorical Signature Moves
 
-Comer's rhetorical signature is the promissory note — he consistently promises imminent revelations that never arrive. "We're going to have multiple referrals." "We have the bank records." "This is just the beginning." Each promise generates a news cycle, and the audience never demands delivery because the next promise arrives before the last one expires. The rhetoric is structured like a TV season: cliffhangers that sustain engagement without resolution.
+Comer's rhetorical signature is the promissory note, he consistently promises imminent revelations that never arrive. "We're going to have multiple referrals." "We have the bank records." "This is just the beginning." Each promise generates a news cycle, and the audience never demands delivery because the next promise arrives before the last one expires. The rhetoric is structured like a TV season: cliffhangers that sustain engagement without resolution.
 
-On DOGE and government efficiency, Comer has adopted Musk's language wholesale — "What Elon Musk is doing... is what the American people want" — positioning Oversight Committee authority as the legislative vehicle for Trump's efficiency agenda. Critics of Musk's involvement have "Musk Derangement Syndrome." The rhetorical move is to frame billionaire restructuring of government as populist reform.
+On DOGE and government efficiency, Comer has adopted Musk's language wholesale, "What Elon Musk is doing. is what the American people want", positioning Oversight Committee authority as the legislative vehicle for Trump's efficiency agenda. Critics of Musk's involvement have "Musk Derangement Syndrome." The rhetorical move is to frame billionaire restructuring of government as populist reform.
 
 ---
 
@@ -178,7 +178,7 @@ On DOGE and government efficiency, Comer has adopted Musk's language wholesale �
 
 - [FEC Candidate: James Comer Campaign Finance Summary](https://www.fec.gov/data/candidate/H6KY01110/) (Tier 1) (VERIFIED)
 - [FEC: Comer for Congress (C00588764)](https://www.fec.gov/data/candidate/H6KY01110/) (Tier 1) (VERIFIED)
-- ~~[Congress.gov: James Comer Member Profile](https://www.congress.gov/member/james-comer/C001108)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: James Comer Member Profile](https://www.congress.gov/member/james-comer/C001108)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Fortune: Comer's Kentucky Land Shell Company](https://fortune.com/2023/12/14/james-comer-kentucky-land-shell-company-hunter-biden-probe/) (Tier 2) (VERIFIED)
 - [NPR: FBI Informant Smirnov Charged with Lying About Bidens](https://www.npr.org/2024/02/20/1232789953/alexander-smirnov-fbi-informant-biden-hunter-ukraine) (Tier 2) (VERIFIED)
 - [PBS: Smirnov Guilty Plea](https://www.pbs.org/newshour/politics/former-fbi-informant-to-plead-guilty-to-lying-about-fake-bribery-scheme-involving-the-bidens) (Tier 2) (VERIFIED)

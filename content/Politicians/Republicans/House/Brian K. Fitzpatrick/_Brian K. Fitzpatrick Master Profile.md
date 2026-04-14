@@ -1,5 +1,5 @@
 ---
-title: "Brian K. Fitzpatrick Master Profile"
+title: "Brian K. Fitzpatrick"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

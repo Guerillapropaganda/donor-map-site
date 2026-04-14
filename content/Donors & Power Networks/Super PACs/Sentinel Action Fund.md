@@ -57,9 +57,9 @@ Policy outcomes aligned with Heritage Foundation ideology:
 
 ### 2022 Midterms (documented $20M+ spending):
 ### Senate Races:
-- J.D. Vance (Ohio) — $5M+ in pro-Vance ads
-- Herschel Walker (Georgia) — $3M+ despite Walker's scandals
-- Blake Masters (Arizona) — $4M+ despite Masters' fringe positions
+- J.D. Vance (Ohio), $5M+ in pro-Vance ads
+- Herschel Walker (Georgia), $3M+ despite Walker's scandals
+- Blake Masters (Arizona), $4M+ despite Masters' fringe positions
 - Other Republican Senate candidates ($8M+ distributed)
 
 ### House Races:
@@ -114,7 +114,7 @@ Sentinel Action Fund exemplifies **think tank capture of electoral politics:** T
 - Elected politicians implement Heritage policy
 - Regulatory agencies (staffed by Heritage alumni) enforce Heritage-friendly regulations
 
-This closed loop means Heritage Foundation — funded by a handful of mega-donors (Barre Seid, Ken Griffin, and others) — effectively controls substantial Republican legislative and regulatory output.
+This closed loop means Heritage Foundation, funded by a handful of mega-donors (Barre Seid, Ken Griffin, and others), effectively controls substantial Republican legislative and regulatory output.
 
 Sentinel also illustrates **speculative mega-donor spending:** Barre Seid and Ken Griffin fund Sentinel without clear evidence that the spending significantly affects outcomes (2022 saw Sentinel-backed candidates lose in multiple races). The funding continues because mega-donors perceive access and influence value beyond direct electoral impact.
 
@@ -122,11 +122,11 @@ Sentinel also illustrates **speculative mega-donor spending:** Barre Seid and Ke
 
 ### Sources
 
-- ~~[OpenSecrets: Sentinel Action Fund organizational profile](https://www.opensecrets.org/orgs/sentinel-action-fund/summary)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Sentinel Action Fund organizational profile](https://www.opensecrets.org/orgs/sentinel-action-fund/summary)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [FEC: Sentinel Action Fund filings](https://www.fec.gov/data/committee/C00811166/) (Tier 1) (VERIFIED)
 - [Heritage Foundation: About and Policy Priorities](https://www.heritage.org/about-heritage/impact) (Tier 2) (VERIFIED)
 - [OpenSecrets: Sentinel Action Fund PAC Profile 2022](https://www.opensecrets.org/political-action-committees-pacs/sentinel-action-fund/c00811166/summary/2022) (Tier 1) (VERIFIED)
-- ~~[Campaign Finance Institute: Super PAC effectiveness research](https://www.cfinst.org/research/super-pacs)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[Campaign Finance Institute: Super PAC effectiveness research](https://www.cfinst.org/research/super-pacs)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 
 ---
 

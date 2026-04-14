@@ -70,7 +70,7 @@ Scott claimed to place his wealth in a "blind trust" to avoid conflicts of inter
 ### Sources
 
 - [Roll Call: Rick Scott Spent Record $64 Million of His Own Money in Florida Senate Race](https://rollcall.com/2018/12/10/rick-scott-spent-record-64-million-of-his-own-money-in-florida-senate-race/) (Tier 2) (VERIFIED)
-- ~~[The Hill: Rick Scott funded three-quarters of his Senate campaign, to tune of $63.6M](https://thehill.com/homenews/campaign/420635-rick-scott-funded-three-quarters-of-senate-campaign-to-tune-of-636-million/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Rick Scott funded three-quarters of his Senate campaign, to tune of $63.6M](https://thehill.com/homenews/campaign/420635-rick-scott-funded-three-quarters-of-senate-campaign-to-tune-of-636-million/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [WRAL: Wealthy Candidate Set Up a Blind Trust That Wasn't Blind](https://www.wral.com/to-avoid-conflicts-florida-s-rick-scott-created-a-trust-blind-in-name-only/17922383/) (Tier 2) (VERIFIED)
 - [Orlando Sentinel: Gov. [[Rick Scott]], wife disclose details about their investments, blind trust](https://www.orlandosentinel.com/2018/07/27/gov-rick-scott-wife-disclose-details-about-their-investments-blind-trust/) (Tier 2)
 - [Florida Phoenix: Rick Scott's super PAC funded in part by big sugar interests](https://floridaphoenix.com/2024/09/12/rick-scotts-super-pac-funded-in-part-by-big-sugar-interests/) (Tier 2) (VERIFIED)

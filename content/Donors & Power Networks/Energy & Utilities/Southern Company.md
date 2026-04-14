@@ -56,7 +56,7 @@ Southern Company. The second-largest utility company in the United States ($25 b
 
 Southern Company PAC is one of the largest utility PACs in the country ($3-5 million per cycle), with lobbying spending of $10-15 million annually. Southern Company's political operation extends to state-level regulatory capture: the company has systematically influenced the appointment of Public Service Commission (PSC) members in Georgia and Alabama who approve its rate increases.
 
-- ~~[OpenSecrets: Southern Company organizational profile](https://www.opensecrets.org/orgs/southern-co/summary?id=D000000180)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Southern Company organizational profile](https://www.opensecrets.org/orgs/southern-co/summary?id=D000000180)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ---
 

@@ -66,7 +66,7 @@ NMHC is a 501(c)(6) trade association founded 1978, headquartered in Washington,
 
 ### What They Want
 
-NMHC lobbies on tax policy (Section 1031 like-kind exchanges, LIHTC expansion, carried interest provisions), housing supply legislation, and opposes federal rent control. The organization has been actively opposing the RealPage antitrust litigation — the DOJ case alleging that landlords using RealPage's revenue management software engaged in algorithmic rent-fixing. NMHC filed amicus briefs defending the use of algorithmic pricing tools, positioning the industry against the DOJ's theory that shared pricing data constitutes price-fixing.
+NMHC lobbies on tax policy (Section 1031 like-kind exchanges, LIHTC expansion, carried interest provisions), housing supply legislation, and opposes federal rent control. The organization has been actively opposing the RealPage antitrust litigation, the DOJ case alleging that landlords using RealPage's revenue management software engaged in algorithmic rent-fixing. NMHC filed amicus briefs defending the use of algorithmic pricing tools, positioning the industry against the DOJ's theory that shared pricing data constitutes price-fixing.
 
 ---
 
@@ -102,7 +102,7 @@ NMHC lobbies on tax policy (Section 1031 like-kind exchanges, LIHTC expansion, c
 
 ### Class Analysis
 
-NMHC represents the apartment industry's ownership class — the developers, REITs, and institutional investors who own and profit from the 40 million Americans who rent apartments. The bipartisan giving is a class strategy, not bipartisanship: the apartment industry needs Democratic votes for LIHTC expansion and housing supply legislation, and Republican votes for tax provisions and deregulation. The RealPage amicus brief is the most revealing position — NMHC is defending the right of landlords to use algorithmic tools that coordinate pricing across properties, which the DOJ argues constitutes price-fixing. This is the class interest distilled: the ability to extract maximum rent from tenants using technology that replaces overt collusion with algorithmic coordination.
+NMHC represents the apartment industry's ownership class, the developers, REITs, and institutional investors who own and profit from the 40 million Americans who rent apartments. The bipartisan giving is a class strategy, not bipartisanship: the apartment industry needs Democratic votes for LIHTC expansion and housing supply legislation, and Republican votes for tax provisions and deregulation. The RealPage amicus brief is the most revealing position. NMHC is defending the right of landlords to use algorithmic tools that coordinate pricing across properties, which the DOJ argues constitutes price-fixing. This is the class interest distilled: the ability to extract maximum rent from tenants using technology that replaces overt collusion with algorithmic coordination.
 
 > [!contradiction]
 > NMHC advocates for "housing supply" legislation (more construction) while simultaneously defending RealPage's algorithmic pricing tools that the DOJ alleges allow landlords to coordinate rent increases. Building more housing doesn't lower rents if the owners can algorithmically optimize pricing across the entire supply.
@@ -117,7 +117,7 @@ NMHC represents the apartment industry's ownership class — the developers, REI
 - [NMHC: 2025 Impact Report](https://www.nmhc.org/contentassets/41a9b83b8183488d9125a7e0a259a561/2025-nmhc-impact-report.pdf) (Tier 3) (VERIFIED)
 - [NMHC: Newsroom](https://www.nmhc.org/news/nmhc-news/) (Tier 3) (VERIFIED)
 - [ProPublica: NMHC 990 filings](https://projects.propublica.org/nonprofits/organizations/521127504) (Tier 1) (VERIFIED)
-- ~~[OpenSecrets: NMHC contributions](https://www.opensecrets.org/orgs/national-multi-family-housing-council/summary?id=D000025696)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: NMHC contributions](https://www.opensecrets.org/orgs/national-multi-family-housing-council/summary?id=D000025696)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [OpenSecrets: NMHC summary (alt ID)](https://www.opensecrets.org/orgs/national-multifamily-housing-council/summary?id=D000000755) (Tier 1) (VERIFIED)
 - [OpenSecrets: NMHC PAC](https://www.opensecrets.org/political-action-committees-pacs/national-multifamily-housing-council/C00130773/summary/2022) (Tier 1) (VERIFIED)
 - [NAA/NMHC: Letter to DOJ on regulations](https://naahq.org/naa-nmhc-and-rettc-letter-doj-highlighting-burdensome-regulations) (Tier 2) (VERIFIED)
@@ -125,7 +125,7 @@ NMHC represents the apartment industry's ownership class — the developers, REI
 
 ---
 
-### Financial Overview (990 Filing — 2023)
+### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |
 |--------|--------|

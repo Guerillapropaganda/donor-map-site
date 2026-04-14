@@ -125,7 +125,7 @@ MassMutual represents the regulatory capture of an industry built on information
 
 ---
 
-### Financial Overview (990 Filing — 2023)
+### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |
 |--------|--------|

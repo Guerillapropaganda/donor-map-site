@@ -40,7 +40,7 @@ related: "[[Blackstone Group]] · [[Kenneth Griffin]] · [[Real Estate Industry 
 
 ### Who They Are
 
-Blackstone Real Estate. The real estate investment arm of Blackstone Group, the world's largest private equity firm. Blackstone Real Estate manages $330+ billion in real estate assets — making it the single largest commercial and residential real estate owner in America. The portfolio includes 300,000+ residential units (single-family rentals, apartments, student housing), warehouse and logistics properties, office buildings, and hospitality assets. CEO Steve Schwarzman is one of the Republican Party's largest donors ($200M+ lifetime political contributions).
+Blackstone Real Estate. The real estate investment arm of Blackstone Group, the world's largest private equity firm. Blackstone Real Estate manages $330+ billion in real estate assets, making it the single largest commercial and residential real estate owner in America. The portfolio includes 300,000+ residential units (single-family rentals, apartments, student housing), warehouse and logistics properties, office buildings, and hospitality assets. CEO Steve Schwarzman is one of the Republican Party's largest donors ($200M+ lifetime political contributions).
 
 Blackstone Real Estate's political significance: the firm's massive housing portfolio makes it a structural player in America's housing affordability crisis. Blackstone's acquisition of single-family homes (50,000+ through subsidiary Invitation Homes) has been cited by housing advocates as a driver of rent increases and homeownership decline. The firm's political operation fights rent control, tenant protection, and affordable housing mandates that would constrain the returns on its residential portfolio.
 

@@ -101,7 +101,7 @@ Centene's structural function in American healthcare is converting public health
 
 ### Sources
 
-- ~~[OpenSecrets: Centene Corporation lobbying and PAC](https://www.opensecrets.org/orgs/centene-corp/summary?id=D000024795)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Centene Corporation lobbying and PAC](https://www.opensecrets.org/orgs/centene-corp/summary?id=D000024795)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [SEC: Centene 10-K filings](https://www.sec.gov/cgi-bin/browse-edgar?company=Centene%20Corporation&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1) (VERIFIED)
 - [Ballotpedia: Healthcare industry lobbying](https://ballotpedia.org/Centene_Corporation) (Tier 3) (VERIFIED)
 

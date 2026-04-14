@@ -64,7 +64,7 @@ tags: #donor
 
 ### Who They Are
 
-[[MAGA Inc]] is the largest super PAC in American politics, reporting $304 million in cash during the 2024 cycle. Established in 2022 as the primary outside spending vehicle for [[_Donald Trump Master Profile|Donald Trump]]'s political operation, [[MAGA Inc]] functions as the financial nucleus of the MAGA movement — the place where billionaire money converts into television ads, ground operations, and political power.
+[[MAGA Inc]] is the largest super PAC in American politics, reporting $304 million in cash during the 2024 cycle. Established in 2022 as the primary outside spending vehicle for [[_Donald Trump Master Profile|Donald Trump]]'s political operation, [[MAGA Inc]] functions as the financial nucleus of the MAGA movement, the place where billionaire money converts into television ads, ground operations, and political power.
 
 The PAC is led by Taylor Budowich, a Trump communications operative who transitioned into the super PAC world. While technically independent of Trump's campaign (as required by law), the revolving door between [[MAGA Inc]] leadership and Trump's official orbit makes the "independence" a legal fiction. Former Trump campaign officials populate the PAC's vendor list and strategic leadership.
 
@@ -89,7 +89,7 @@ The PAC's populist branding obscures a familiar pattern: billionaires funding a 
 | Phil Ruffin | $5M+ | Casino/hotel regulation |
 | Robert Bigelow | $5M+ | Space contracts, immigration |
 
-Three donors — Mellon, Adelson, and Yass — account for over 80% of [[MAGA Inc]]'s war chest. This is not a grassroots fundraising operation. It's a billionaire consortium.
+Three donors. Mellon, Adelson, and Yass, account for over 80% of [[MAGA Inc]]'s war chest. This is not a grassroots fundraising operation. It's a billionaire consortium.
 
 ### What They've Gotten
 
@@ -105,19 +105,19 @@ The return on [[MAGA Inc]] investment began immediately upon Trump's 2025 inaugu
 
 ### The Concentration Problem
 
-[[MAGA Inc]] represents the most extreme donor concentration in super PAC history. When three individuals fund 80%+ of a $304M political operation, the question isn't whether they'll get policy returns — it's how directly the quid pro quo operates.
+[[MAGA Inc]] represents the most extreme donor concentration in super PAC history. When three individuals fund 80%+ of a $304M political operation, the question isn't whether they'll get policy returns, it's how directly the quid pro quo operates.
 
-The [[Jeff Yass]] case is the most transparent: Yass held a $33 billion stake in ByteDance (TikTok's parent) through Susquehanna International Group. Trump had previously supported a TikTok ban. After Yass began writing checks to [[MAGA Inc]] in early 2024, Trump reversed his position entirely, calling a TikTok ban something that would "make Facebook too powerful." The timeline — donation followed by policy reversal — is the donor-first thesis in its purest form.
+The [[Jeff Yass]] case is the most transparent: Yass held a $33 billion stake in ByteDance (TikTok's parent) through Susquehanna International Group. Trump had previously supported a TikTok ban. After Yass began writing checks to [[MAGA Inc]] in early 2024, Trump reversed his position entirely, calling a TikTok ban something that would "make Facebook too powerful." The timeline, donation followed by policy reversal, is the donor-first thesis in its purest form.
 
 [[Timothy Mellon]]'s contributions are equally telling. The reclusive banking and railroad heir, whose grandfather was Treasury Secretary Andrew Mellon, has given more money to a single political vehicle than any individual in American history. His $165M+ to [[MAGA Inc]] bought the most expensive policy agenda in politics: immigration crackdowns that align with his ideological priorities and deregulation that benefits his business holdings.
 
-The legal framework that enables this — *Citizens United* allowing unlimited super PAC contributions, combined with FEC non-enforcement of coordination rules — means [[MAGA Inc]] operates as a de facto extension of the Trump campaign funded by a handful of billionaires. The populist base provides the votes; the billionaire donor class provides the money and collects the policy returns.
+The legal framework that enables this, *Citizens United* allowing unlimited super PAC contributions, combined with FEC non-enforcement of coordination rules, means [[MAGA Inc]] operates as a de facto extension of the Trump campaign funded by a handful of billionaires. The populist base provides the votes; the billionaire donor class provides the money and collects the policy returns.
 
 ---
 
-### 2026 Midterm War Chest — Updated March 22, 2026
+### 2026 Midterm War Chest. Updated March 22, 2026
 
-[[MAGA Inc]] enters the 2026 midterms with **$294–$304 million** cash on hand — by far the largest super PAC war chest in American history. The PAC raised **$289 million in 2025 alone**, with 96% coming from donors who gave $1M+ each.
+[[MAGA Inc]] enters the 2026 midterms with **$294–$304 million** cash on hand, by far the largest super PAC war chest in American history. The PAC raised **$289 million in 2025 alone**, with 96% coming from donors who gave $1M+ each.
 
 ### New Major Donors (2025-2026 cycle):
 | Donor | Amount | Background | Policy Interest |
@@ -149,9 +149,9 @@ The legal framework that enables this — *Citizens United* allowing unlimited s
 - [OpenSecrets: MAGA Inc donor and spending data](https://www.opensecrets.org/political-action-committees-pacs/maga-inc/C00892471/summary/2024) (Tier 1) (VERIFIED)
 - [OpenSecrets: Billionaire Timothy Mellon has poured $165 million into 2024 elections](https://www.opensecrets.org/news/2024/08/heir-to-andrew-mellons-fortune-spends-over-165-million-to-support-trumps-reelection/) (Tier 1) (VERIFIED)
 - [Fortune: TikTok might survive its U.S. ban thanks to Trump's cozy relationship with Jeff Yass](https://fortune.com/2024/12/09/trump-jeff-yass-tiktok-avoid-ban/) (Tier 2) (VERIFIED)
-- [Slate: Jeff Yass — The powerful TikTok billionaire suddenly all over the news](https://slate.com/news-and-politics/2024/03/tiktok-trump-yass-truth-social-club-for-growth-republicans-megadonor.html) (Tier 2) (VERIFIED)
+- [Slate: Jeff Yass. The powerful TikTok billionaire suddenly all over the news](https://slate.com/news-and-politics/2024/03/tiktok-trump-yass-truth-social-club-for-growth-republicans-megadonor.html) (Tier 2) (VERIFIED)
 - [Campaign Legal Center: Straw donor scheme involving MAGA Inc contributions](https://campaignlegal.org/press-releases/campaign-legal-center-calls-fec-investigate-apparent-straw-donor-scheme-involving) (Tier 2) (VERIFIED)
-- [Campaign Legal Center: FEC complaint — Save America soft money transfer to MAGA Inc](https://campaignlegal.org/press-releases/breaking-campaign-legal-center-files-fec-complaint-against-former-president-donald) (Tier 2) (VERIFIED)
+- [Campaign Legal Center: FEC complaint. Save America soft money transfer to MAGA Inc](https://campaignlegal.org/press-releases/breaking-campaign-legal-center-files-fec-complaint-against-former-president-donald) (Tier 2) (VERIFIED)
 
 ---
 

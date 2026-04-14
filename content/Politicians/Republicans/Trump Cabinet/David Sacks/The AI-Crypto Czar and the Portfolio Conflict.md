@@ -92,5 +92,5 @@ The core problem is not the specific holdings Sacks disclosed, it's the portfoli
 - [Gizmodo: 438+ reasons to question Sacks in government, portfolio analysis](https://gizmodo.com/david-sacks-possible-conflicts-2000693709) (Tier 2) (VERIFIED)
 - [CNBC: Full breakdown of $200M crypto divestment](https://www.cnbc.com/2025/03/14/david-sacks-sold-200-million-in-crypto-holdings-before-taking-wh-job.html) (Tier 2) (VERIFIED)
 - [Palantir: Corporate AI capabilities description](https://www.palantir.com/platforms/aip/) (Tier 2) (VERIFIED)
-- ~~[OpenSecrets: David Sacks donor history](https://www.opensecrets.org/donor-lookup/results?name=david+sacks)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: David Sacks donor history](https://www.opensecrets.org/donor-lookup/results?name=david+sacks)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 

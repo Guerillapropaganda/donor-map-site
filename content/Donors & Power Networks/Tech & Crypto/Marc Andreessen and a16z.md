@@ -17,5 +17,5 @@ known-gaps:
 
 > **Redirect:** This note exists to resolve `[[Marc Andreessen and a16z]]` wikilinks. The canonical profile is [[Marc Andreessen & Horowitz]].
 
-See **[[Marc Andreessen & Horowitz]]** for the full donor node — FEC contributions, Fairshake PAC, Leading the Future super PAC, PCAST appointment, revolving door, class analysis.
+See **[[Marc Andreessen & Horowitz]]** for the full donor node. FEC contributions, Fairshake PAC, Leading the Future super PAC, PCAST appointment, revolving door, class analysis.
 

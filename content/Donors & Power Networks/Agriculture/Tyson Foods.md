@@ -118,7 +118,7 @@ lobbying-filings: 30
 
 Tyson Foods. The largest US poultry producer and second-largest meat processor ($53 billion revenue, 2024), headquartered in Springdale, Arkansas. Tyson operates across poultry, beef, pork, and prepared foods, employing approximately 139,000 workers in processing plants nationwide. The company's PAC contributes $500,000-$800,000 per cycle, with additional individual contributions from executives and lobbying spending of $2-4 million annually.
 
-Tyson's political significance lies at the intersection of agricultural policy, labor policy, and immigration enforcement. The meatpacking industry depends on immigrant labor — documented and undocumented — making immigration policy an existential business issue for Tyson and its competitors.
+Tyson's political significance lies at the intersection of agricultural policy, labor policy, and immigration enforcement. The meatpacking industry depends on immigrant labor, documented and undocumented, making immigration policy an existential business issue for Tyson and its competitors.
 
 - [OpenSecrets: Tyson Foods organizational profile](https://www.opensecrets.org/orgs/tyson-foods/summary?id=D000000443) (Tier 1) (VERIFIED)
 
@@ -132,7 +132,7 @@ Opposition to EPA regulation of agricultural waste (poultry litter runoff), favo
 
 ### What They've Gotten
 
-**Line Speed Waivers:** USDA granted Tyson and other poultry processors waivers to increase processing line speeds — a change that increases production volume but also increases worker injury rates. Worker safety advocacy groups documented increased repetitive stress injuries following line speed increases.
+**Line Speed Waivers:** USDA granted Tyson and other poultry processors waivers to increase processing line speeds, a change that increases production volume but also increases worker injury rates. Worker safety advocacy groups documented increased repetitive stress injuries following line speed increases.
 
 **Immigration Enforcement Pattern:** Immigration enforcement has historically targeted workers rather than employers. Tyson has faced periodic ICE raids at processing plants but has never been subject to corporate prosecution for systematic employment of undocumented workers. The enforcement pattern serves the company: deported workers are replaced; the employer faces no structural consequences.
 
@@ -157,7 +157,7 @@ Tyson's $220 million in federal contracts, primarily through the Department of A
 
 - [OpenSecrets: Tyson Foods organizational profile](https://www.opensecrets.org/orgs/tyson-foods/summary?id=D000000443) (Tier 1)
 - [ProPublica: Meatpacking worker safety investigations](https://www.propublica.org/article/tyson-foods-secret-recipe-for-carving-up-workers-comp) (Tier 2) (VERIFIED)
-- ~~[Ballotpedia: Tyson Foods](https://ballotpedia.org/Tyson_Foods)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[Ballotpedia: Tyson Foods](https://ballotpedia.org/Tyson_Foods)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 
 ### Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

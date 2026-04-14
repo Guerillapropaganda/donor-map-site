@@ -1,11 +1,11 @@
 ---
-title: "Contradiction 19 — Student Loan Industry Buys Bipartisan Protection for the Creditor Class"
+title: "Contradiction 19 , Student Loan Industry Buys Bipartisan Protection for the Creditor Class"
 type: story
 content-readiness: ready
 last-updated: 2026-04-10
 source-tier: 2
 parent: null
-related: "[[Prison Telecom Monopoly Profits From Bipartisan Neglect]] · [[_Joe Biden Master Profile|Biden]] · [[_Kyrsten Sinema Master Profile|Sinema]] · [[_Joe Manchin Master Profile|Manchin]] · [[_Chuck Schumer Master Profile|Schumer]] · [[_Mitch McConnell Master Profile|McConnell]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Payday Lending Survives Through Bipartisan Protection]] · [[Water Privatization: Both Parties Sell Public Infrastructure to Donors]] · [[Contradiction 20 — Tech Monopolies Buy Antitrust Protection From Both Parties]]"
+related: "[[Prison Telecom Monopoly Profits From Bipartisan Neglect]] · [[_Joe Biden Master Profile|Biden]] · [[_Kyrsten Sinema Master Profile|Sinema]] · [[_Joe Manchin Master Profile|Manchin]] · [[_Chuck Schumer Master Profile|Schumer]] · [[_Mitch McConnell Master Profile|McConnell]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Payday Lending Survives Through Bipartisan Protection]] · [[Water Privatization: Both Parties Sell Public Infrastructure to Donors]] · [[Contradiction 20 , Tech Monopolies Buy Antitrust Protection From Both Parties]]"
 ---
 #contradiction #student-loans #bankruptcy #CFPB #for-profit-colleges #class-analysis
 

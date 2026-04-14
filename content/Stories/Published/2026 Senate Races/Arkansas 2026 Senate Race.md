@@ -44,13 +44,13 @@ All of these major donors flow their contributions overwhelmingly to Republican 
 
 Arkansas's top industries and corporations have created a tightly integrated political donor class. Stephens Inc, one of the nation's largest private investment firms, leads this ecosystem. Combined with agricultural processors (Mountaire, Tyson), retail giants (Walmart, Walton Family interests), and regional banking (Arvest), these entities represent the economic spine of the state.
 
-[!contradiction] This donor ecosystem flows money overwhelmingly to Republicans, yet many of these same corporations—particularly Walmart and Tyson—publicly oppose policies that some of their Arkansas-funded politicians actively support, including anti-LGBTQ+ legislation. At the national level, these corporations market themselves as progressive; in Arkansas, their donations fuel legislators who advance traditional conservative social policies.
+[!contradiction] This donor ecosystem flows money overwhelmingly to Republicans, yet many of these same corporations, particularly Walmart and Tyson, publicly oppose policies that some of their Arkansas-funded politicians actively support, including anti-LGBTQ+ legislation. At the national level, these corporations market themselves as progressive; in Arkansas, their donations fuel legislators who advance traditional conservative social policies.
 
 ### Cotton's Donor-Policy Pipeline
 
 Tom Cotton's political record contains a striking contradiction regarding agriculture, the state's foundational industry.
 
-Cotton has voted against the Farm Bill—the central legislation governing American agriculture—twice. This is a remarkable position for a senator representing Arkansas, where agricultural production and food processing are core economic engines. Mountaire Corp and Tyson Foods are among the state's largest employers and major political donors, and both operate in the agricultural value chain.
+Cotton has voted against the Farm Bill, the central legislation governing American agriculture, twice. This is a remarkable position for a senator representing Arkansas, where agricultural production and food processing are core economic engines. Mountaire Corp and Tyson Foods are among the state's largest employers and major political donors, and both operate in the agricultural value chain.
 
 Shoffner, who sold her family farm due to economic pressures, has made Cotton's Farm Bill votes a centerpiece of her campaign messaging. The contradiction is pointed: Cotton represents an agricultural state, receives donations from agricultural industry leaders, yet votes against their primary legislative vehicle.
 

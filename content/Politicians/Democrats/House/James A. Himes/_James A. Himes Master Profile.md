@@ -1,5 +1,5 @@
 ---
-title: "James A. Himes Master Profile"
+title: "James A. Himes"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

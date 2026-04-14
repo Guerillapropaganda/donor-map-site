@@ -55,7 +55,7 @@ Expansion of market share in low-cost generic drug production without threatenin
 
 ### Who They Fund
 
-> [!money] Follow the Money — Civica Rx → California
+> [!money] Follow the Money. Civica Rx → California
 > **CalRx Partnership (2023):** $50 million state contract to manufacture three biosimilar insulins (glargine, lispro, aspart) for the state's branded CalRx insulin line.
 >
 > **Pricing Promise:** Civica committed to manufacturing insulin at a maximum retail price of $30 per vial and $55 per box of five prefilled pens, compared to brand-name prices exceeding $300 per vial.
@@ -96,18 +96,18 @@ This is not failure or corruption. This is the system working as designed. The n
 
 ### Enemies / Opposition
 
-[[United Farm Workers]] — no direct connection, but farmworker organizations oppose solutions that provide targeted relief without addressing underlying labor-dependent cost structures in agriculture.
+[[United Farm Workers]], no direct connection, but farmworker organizations oppose solutions that provide targeted relief without addressing underlying labor-dependent cost structures in agriculture.
 
-Pharmacy Benefit Managers — maintain gatekeeping power regardless of Civica's manufacturing success.
+Pharmacy Benefit Managers, maintain gatekeeping power regardless of Civica's manufacturing success.
 
-Pharmaceutical corporations — not opponents in any material sense. Civica operates entirely within the bounds of expired-patent generics, leaving patent-protected profits untouched.
+Pharmaceutical corporations, not opponents in any material sense. Civica operates entirely within the bounds of expired-patent generics, leaving patent-protected profits untouched.
 
 ---
 
 ### Sources
 
 - [Civica Rx: California Selects Civica Rx as Its Insulin Manufacturing Partner (2023)](https://civicarx.org/california-selects-civica-rx-as-its-insulin-manufacturing-partner/) (Tier 1) (VERIFIED)
-- ~~[California Health & Human Services: Governor Newsom announces affordable CalRx insulin, $11 a pen (2025)](https://www.chhs.ca.gov/blog/2025/10/17/governor-newsom-announces-affordable-calrx-insulin-11-a-pen-will-soon-be-available-for-purchase/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[California Health & Human Services: Governor Newsom announces affordable CalRx insulin, $11 a pen (2025)](https://www.chhs.ca.gov/blog/2025/10/17/governor-newsom-announces-affordable-calrx-insulin-11-a-pen-will-soon-be-available-for-purchase/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [CalMatters: Affordable insulin is coming: California to launch $11 state-branded pens as part of CalRx initiative (2025)](https://calmatters.org/health/2025/10/insulin-california-announcement/) (Tier 2) (VERIFIED)
 - [Intermountain Healthcare: Not-for-profit Generic Drug Company Officially Established (2018)](https://news.intermountainhealth.org/not-for-profit-generic-drug-company-officially-established-attracts-interest-of-more-than-120-health-organizations/) (Tier 1) (VERIFIED)
 - [West Health: Nonprofit Generic Drug Company Co-Founded by Gary and Mary West Foundation Will Manufacture Low-Cost Insulin](https://westhealth.org/news/nonprofit-generic-drug-company-co-founded-by-gary-and-mary-west-foundation-will-manufacture-and-distribute-low-cost-insulin/) (Tier 1) (VERIFIED)

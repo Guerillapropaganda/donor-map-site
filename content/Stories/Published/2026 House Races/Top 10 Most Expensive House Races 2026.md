@@ -22,7 +22,7 @@ The 2026 midterm cycle is on pace to become the most expensive in history, drive
 
 ### The Spending Supercycle
 
-Through the first six months of 2025, 951 House candidates raised $455.9 million—a 63% increase over the same period in 2023. The Democratic House Majority PAC set a record with $121 million raised in 2025, while the Republican Congressional Leadership Fund brought in $72 million. FEC data through mid-2026 shows total political ad spending at $2.74 billion, a 57% increase over 2024 at the same point, with projections placing the full-year total at $10.8 billion.
+Through the first six months of 2025, 951 House candidates raised $455.9 million, a 63% increase over the same period in 2023. The Democratic House Majority PAC set a record with $121 million raised in 2025, while the Republican Congressional Leadership Fund brought in $72 million. FEC data through mid-2026 shows total political ad spending at $2.74 billion, a 57% increase over 2024 at the same point, with projections placing the full-year total at $10.8 billion.
 
 The most expensive races cluster in a narrow band of battleground geography: New York (3 races in top 10), California (3), Colorado, Arizona, Alaska, Oregon, and Virginia. Each represents a potential 3-seat pickup opportunity.
 
@@ -30,15 +30,15 @@ The most expensive races cluster in a narrow band of battleground geography: New
 
 | Rank | Race | Total Combined | Candidate | Outside | Rating |
 |------|------|-----------------|-----------|---------|--------|
-| 1 | CA-45 | $51,495,382 | $16.7M | $34.8M | — |
-| 2 | NY-19 | $45,860,536 | $15.2M | $30.7M | — |
-| 3 | AK-01 | $45,004,053 | $17.3M | $27.7M | — |
+| 1 | CA-45 | $51,495,382 | $16.7M | $34.8M |, |
+| 2 | NY-19 | $45,860,536 | $15.2M | $30.7M |, |
+| 3 | AK-01 | $45,004,053 | $17.3M | $27.7M |, |
 | 4 | NY-17 | $44,780,122 | $18.5M | $26.3M | Toss-up |
 | 5 | AZ-01 | $43,747,974 | $17.9M | $25.9M | Toss-up |
-| 6 | CA-27 | $43,530,383 | $16.7M | $26.8M | — |
+| 6 | CA-27 | $43,530,383 | $16.7M | $26.8M |, |
 | 7 | VA-07 | $41,601,907 | $25.6M | $16.0M | Lean D |
-| 8 | OR-05 | $40,566,178 | $14.1M | $26.4M | — |
-| 9 | CA-41 | $40,497,855 | $20.3M | $20.2M | — |
+| 8 | OR-05 | $40,566,178 | $14.1M | $26.4M |, |
+| 9 | CA-41 | $40,497,855 | $20.3M | $20.2M |, |
 | 10 | CO-08 | $40,358,027 | $11.2M | $29.2M | Toss-up |
 
 [!money] Outside spending accounts for 60% of the top ten races' total expenditure, reflecting the ceiling-breaking behavior of party super PACs in response to the three-seat threshold.
@@ -49,7 +49,7 @@ The most expensive races cluster in a narrow band of battleground geography: New
 
 **Matchup:** Marcus Lawler (R) vs Sophia Chatzky (D)
 
-Chatzky's personal financial commitment—$5 million in self-loans—signals both confidence and necessity. The district represents House Majority PAC's flagship investment at $12.1 million, flanked by Congressional Leadership Fund's $11.2 million. Battleground New York PAC pledged an additional $6 million. The concentration of party apparatus spending here reflects NY-17's status as the campaign's crown jewel and a potential path to majority control.
+Chatzky's personal financial commitment, $5 million in self-loans, signals both confidence and necessity. The district represents House Majority PAC's flagship investment at $12.1 million, flanked by Congressional Leadership Fund's $11.2 million. Battleground New York PAC pledged an additional $6 million. The concentration of party apparatus spending here reflects NY-17's status as the campaign's crown jewel and a potential path to majority control.
 
 **Fundraising:** Candidate spending averages $18.5M in top ten races; Lawler and Chatzky collectively raised $18.5M in candidate funds, with outside groups adding $26.3M.
 
@@ -71,7 +71,7 @@ The out-of-state donor concentration (88.5%) creates a structural contradiction:
 
 **Matchup:** Juan Ciscomani (R) vs JoAnna Mendoza (D, retired Marine)
 
-Ciscomani carried this seat in 2024 with only the slimmest of margins in a district Trump won by less than one point. Mendoza brings military credentials via the DCCC Red to Blue program. Ciscomani secured $34.1 million in community project funding—discretionary capital that functions as a quasi-electoral buffer, allowing him to claim credit for district improvements while running for reelection.
+Ciscomani carried this seat in 2024 with only the slimmest of margins in a district Trump won by less than one point. Mendoza brings military credentials via the DCCC Red to Blue program. Ciscomani secured $34.1 million in community project funding, discretionary capital that functions as a quasi-electoral buffer, allowing him to claim credit for district improvements while running for reelection.
 
 ### IA-01: Six-Vote Destiny ($35M+)
 
@@ -88,13 +88,13 @@ Democrats collectively raised $9 million in 2025 alone, establishing a financial
 - Congressional Leadership Fund: $6.79M
 - America PAC (Musk): $1.06M
 
-The America PAC allocation reveals fragmentary Republican spending—Musk's $1.06 million, while significant, paled against the HMP/CLF coordination.
+The America PAC allocation reveals fragmentary Republican spending, Musk's $1.06 million, while significant, paled against the HMP/CLF coordination.
 
 ### PA-07: The Freshman in Peril ($56.7M projected)
 
 **Matchup:** Robert Mackenzie (R, freshman) vs Democratic primary winner
 
-Mackenzie won by one point in 2024 with a two-year total of $37 million. QuiverQuant projects the race will consume $56.7 million over two years—a 53% spending increase despite no significant change in underlying competitiveness. His freshman status makes him vulnerable to a second-wave challenge.
+Mackenzie won by one point in 2024 with a two-year total of $37 million. QuiverQuant projects the race will consume $56.7 million over two years, a 53% spending increase despite no significant change in underlying competitiveness. His freshman status makes him vulnerable to a second-wave challenge.
 
 ### Outside Group Hierarchy:
 - House Majority PAC: $14.1M
@@ -110,7 +110,7 @@ Brink's ambassadorial background and foreign policy credentials create narrative
 
 **Matchup:** Tony Van Orden (R) vs Rebecca Cooke (D, repeat challenger)
 
-Cooke outpaced Van Orden in Q4 2025 fundraising, reversing traditional Republican fundraising advantages in Wisconsin. Over two years, Democrats outspent Republicans by $4.05 million—rare for a traditionally Republican-leaning district. The margin suggests shifting momentum toward the Democratic challenger.
+Cooke outpaced Van Orden in Q4 2025 fundraising, reversing traditional Republican fundraising advantages in Wisconsin. Over two years, Democrats outspent Republicans by $4.05 million, rare for a traditionally Republican-leaning district. The margin suggests shifting momentum toward the Democratic challenger.
 
 ### CO-08: The Smallest-Margin Incumbent ($40.4M)
 
@@ -122,13 +122,13 @@ Evans's 0.7-point victory in 2024 placed her among the most vulnerable freshmen.
 
 ### CA-40: Young Kim (R)
 
-Kim raised $1.5 million in Q4 2025, maintaining a $5.5 million cash position. Her media buy of $3.25 million represented one of the cycle's largest. California's Proposition 50 redistricting moved CA-40 further Republican—the only House district nationally to shift rightward. This defensive requirement paradoxically requires offensive-level spending to protect an improving seat.
+Kim raised $1.5 million in Q4 2025, maintaining a $5.5 million cash position. Her media buy of $3.25 million represented one of the cycle's largest. California's Proposition 50 redistricting moved CA-40 further Republican, the only House district nationally to shift rightward. This defensive requirement paradoxically requires offensive-level spending to protect an improving seat.
 
 **CA-41:** $40.5 million combined, with balanced candidate ($20.3M) and outside ($20.2M) spending.
 
 ### The Dark Money Pipeline: $71M in 2025
 
-[!contradiction] The official party super PACs—HMP, CLF, DCCC, NRCC—account for only a portion of the total outside spending infrastructure. In 2025, four major party-aligned nonprofits transferred $71 million to affiliated super PACs, a 65% increase over the 2022/2024 midcycle average. This dark money pipeline is asymmetrically loaded:
+[!contradiction] The official party super PACs, HMP, CLF, DCCC, NRCC, account for only a portion of the total outside spending infrastructure. In 2025, four major party-aligned nonprofits transferred $71 million to affiliated super PACs, a 65% increase over the 2022/2024 midcycle average. This dark money pipeline is asymmetrically loaded:
 
 | Recipient | Amount | Source Nonprofit | Party |
 |-----------|--------|------------------|-------|
@@ -137,7 +137,7 @@ Kim raised $1.5 million in Q4 2025, maintaining a $5.5 million cash position. He
 | House Majority PAC | $11M | House Majority Forward | D |
 | Senate Majority PAC | $8M | Majority Forward | D |
 
-Republican-aligned nonprofits directed 75% of the $71 million dark money transfer—$52 million to GOP super PACs versus $19 million to Democratic counterparts. The asymmetry reflects different fundraising architectures: Republican dark money channels (One Nation, AAN) have consolidated significantly greater nonprofit reserves than Democratic equivalents.
+Republican-aligned nonprofits directed 75% of the $71 million dark money transfer, $52 million to GOP super PACs versus $19 million to Democratic counterparts. The asymmetry reflects different fundraising architectures: Republican dark money channels (One Nation, AAN) have consolidated significantly greater nonprofit reserves than Democratic equivalents.
 
 ### New Entrants: Fairshake and the AI Super PAC
 
@@ -172,7 +172,7 @@ Based on FEC data through Q2 2026 and QuiverQuant modeling, the following races 
 - NY-19: $45.9M+
 - AK-01: $45.0M+
 
-The full cycle is tracking toward $10.8 billion in total political ad spending—up from $6.8 billion in 2024. The House races represent approximately 15-18% of total spend, or $1.6-1.9 billion, driven by the three-seat threshold.
+The full cycle is tracking toward $10.8 billion in total political ad spending, up from $6.8 billion in 2024. The House races represent approximately 15-18% of total spend, or $1.6-1.9 billion, driven by the three-seat threshold.
 
 ---
 

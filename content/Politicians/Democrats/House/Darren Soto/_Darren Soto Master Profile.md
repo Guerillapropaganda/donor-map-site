@@ -1,5 +1,5 @@
 ---
-title: "Darren Soto Master Profile"
+title: "Darren Soto"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

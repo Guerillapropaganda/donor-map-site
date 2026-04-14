@@ -75,7 +75,7 @@ REBNY's funding flows to: every significant NYC mayoral candidate (bipartisan), 
 | 2013 | Jobs for New York PAC deployment (NYC Council cycle) | $7M | Independent expenditures exceeding candidate spending caps; developer electoral dominance | Same cycle |
 | 2014 | NY state-level elections | $21.7M (>10% of all state campaign money) | 421-a continuation, developer tax incentives, Housing Stability and Tenant Protection Act blocking | Ongoing to 2019+ |
 | 2014-2019 | Assembly Speaker Heastie + soft-opposition Assembly members | $5M+ (LLC-routed) | Good Cause Eviction blocking/weakening; agenda control | 5-10 years |
-| 2024 | Good Cause Eviction legislation | $8M+ (estimated) | Passed "weakest in US" version—major exemptions for new construction, small landlords, high-rent units | 5 years (from 2019 introduction) |
+| 2024 | Good Cause Eviction legislation | $8M+ (estimated) | Passed "weakest in US" version, major exemptions for new construction, small landlords, high-rent units | 5 years (from 2019 introduction) |
 | 2024 | 485-x tax abatement successor | $4M+ (estimated lobbying) | 485-x passed with REBNY support, replacing expired 421-a | 2 years (from 421-a expiration 2022) |
 | 2025 | Jobs for New York PAC (NYC Council cycle) | $415K + $2M+ Cuomo PAC | Targeted progressive Council members like Alexa Avilés; backed Andrew Cuomo mayoral run | Same cycle |
 | 2025 | NYC independent expenditure campaign | $82.95M total (RE executives: $2M+) | Record IE spending; real estate backing Cuomo mayoral campaign | Same cycle |
@@ -102,11 +102,11 @@ REBNY's most consequential policy victory has been the **repeated blocking and w
 3. Framing GCE as incompatible with new development incentives
 4. Pairing it with 421-a restoration as a "grand bargain" that diluted protections
 
-...REBNY ensured that when GCE finally passed in 2024, it was what Legal Aid called **"the weakest Good Cause law in the country"** — with major exemptions for new construction, small landlords, and units above certain rent thresholds.
+.REBNY ensured that when GCE finally passed in 2024, it was what Legal Aid called **"the weakest Good Cause law in the country"**, with major exemptions for new construction, small landlords, and units above certain rent thresholds.
 
 #### Jobs for New York PAC: Circumventing Candidate Spending Caps
 
-REBNY operates **"Jobs for New York"**, an independent expenditure committee that spent approximately **$7 million in the 2013 NYC Council cycle** — all raised from real estate firms. Donors included the Dursts, Tishmans, Silversteins, and Leonard Litwin. The PAC far exceeded the $168,000 candidate spending cap in most races it targeted.
+REBNY operates **"Jobs for New York"**, an independent expenditure committee that spent approximately **$7 million in the 2013 NYC Council cycle**, all raised from real estate firms. Donors included the Dursts, Tishmans, Silversteins, and Leonard Litwin. The PAC far exceeded the $168,000 candidate spending cap in most races it targeted.
 
 In the 2025 NYC cycle, Jobs for New York raised **$415,000** and targeted progressive Council members like [[Alexa Avilés]], with contributions from Extell, RXR, Rudin Management, TF Cornerstone, and Rockrose ($45,000 each). Total NYC independent expenditures hit an all-time record of **$82.95 million** in the 2025 cycle, driven substantially by real estate backing [[Andrew Cuomo|Cuomo's]] mayoral run (with over **$2 million** from real estate executives flowing to a Cuomo-aligned PAC).
 
@@ -127,7 +127,7 @@ New York developers pioneered the use of the **LLC loophole** to circumvent camp
 
 ### National Replication Model
 
-REBNY's model—combining trade association lobbying, LLC-routed donations, and aggressive independent expenditures in local races—has been replicated by real estate boards nationwide:
+REBNY's model, combining trade association lobbying, LLC-routed donations, and aggressive independent expenditures in local races, has been replicated by real estate boards nationwide:
 
 - **San Francisco:** [[Kilroy Realty]] and allies funded [[Neighbors for a Better San Francisco]] with **$1.2M+**
 - **Los Angeles:** **BOMA/GLA PAC** operates a similar model
@@ -143,20 +143,20 @@ REBNY's success in blocking rent regulation and housing expansion while maintain
 
 REBNY's political power exists to extract maximum rent from NYC residents, not to solve housing. Every NYC mayor for 30 years has accepted REBNY's frame that developer interests and housing affordability are compatible. Governor Hochul has demonstrated direct alignment with REBNY interests, blocking tenant protections and supporting developer tax incentives in exchange for campaign support.
 
-REBNY's influence operates through both direct campaign contributions and structural economic control: major real estate corporations control media companies, employ thousands, and dominate NYC's political economy. This creates a situation where politicians fear opposing REBNY regardless of donation size—property owners control real estate, employment, and media narratives simultaneously.
+REBNY's influence operates through both direct campaign contributions and structural economic control: major real estate corporations control media companies, employ thousands, and dominate NYC's political economy. This creates a situation where politicians fear opposing REBNY regardless of donation size, property owners control real estate, employment, and media narratives simultaneously.
 
 ---
 
 ### Sources
 
-- ~~[Politico: REBNY members gave a tenth of all NY campaign money (2015 analysis)](https://www.politico.com/states/new-york/albany/story/2015/04/rebny-members-gave-a-tenth-of-all-ny-campaign-money-021345)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[Politico: REBNY members gave a tenth of all NY campaign money (2015 analysis)](https://www.politico.com/states/new-york/albany/story/2015/04/rebny-members-gave-a-tenth-of-all-ny-campaign-money-021345)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 - [Holland & Knight/Law360: NY 421-a restoration and Good Cause Eviction analysis](https://www.hklaw.com/-/media/files/insights/publications/2024/02/law360_lycoyannis_ny421arestoration.pdf) (Tier 2) (VERIFIED)
 - [NY Housing Conference: 421-a and Good Cause Eviction policy briefs](https://thenyhc.org/2024/01/10/nyhc-releases-new-policy-briefs-on-421a-and-good-cause-eviction/) (Tier 3) (VERIFIED)
 - [The Real Deal: REBNY PAC backs candidates, targets Avilés](https://therealdeal.com/new-york/2025/04/29/rebny-pac-backs-ling-ye-spends-to-unseat-aviles/) (Tier 2) (VERIFIED)
 - [Jacobin: Corporate money in NYC Council elections](https://jacobin.com/2025/06/corporate-money-nyc-council-elections) (Tier 2) (VERIFIED)
 - [Met Council on Housing: What REBNY bought for its money](https://thetenant.org/what-has-rebny-bought-for-its-money/) (Tier 2) (VERIFIED) (UNVERIFIED)
 - [REBNY: Official site and advocacy](https://www.rebny.com/) (Tier 3) (VERIFIED)
-- ~~[New York State Joint Commission on Public Ethics: Campaign finance filings](https://publicreporting.elections.ny.gov/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[New York State Joint Commission on Public Ethics: Campaign finance filings](https://publicreporting.elections.ny.gov/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [FEC Receipts: Real Estate industry political spending profile](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
 
 ---

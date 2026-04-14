@@ -2,7 +2,7 @@
 title: "Carlos Gimenez"
 type: politician
 content-readiness: ready
-central-thesis: "Gimenez is the Miami infrastructure nexus — the politician whose donor base reveals the connection between South Florida real estate capital, defense contractors, and Cuba embargo enforcement. His documented donors include MasTec (content-readiness: ready1,200), Lennar..."
+central-thesis: "Gimenez is the Miami infrastructure nexus , the politician whose donor base reveals the connection between South Florida real estate capital, defense contractors, and Cuba embargo enforcement. His documented donors include MasTec (content-readiness: ready1,200), Lennar..."
 last-updated: 2026-04-13
 source-tier: 1
 parent: null
@@ -40,10 +40,10 @@ editorial-reviewer: "Research Claude"
 editorial-result: block
 editorial-blockers:
   - "No last-enriched date in frontmatter (Code Claude: run enrichment pipeline)"
-  - "Unresolved Crowley Maritime contradiction — needs investigation"
+  - "Unresolved Crowley Maritime contradiction , needs investigation"
   - "Wikipedia URL broken: points to All-In podcast instead of Carlos Gimenez"
   - "Connections incomplete: Rubio, Diaz-Balart, Salazar, MasTec, Fanjul mentioned in body but not all in YAML"
-  - "StoneColdTruth.com source is Tier 4 (Roger Stone) — claims need independent verification"
+  - "StoneColdTruth.com source is Tier 4 (Roger Stone) , claims need independent verification"
 verified-blocks:
   - voting-records
   - committee-assignments
@@ -65,17 +65,17 @@ donors: [[MasTec - Mas Canosa Family]] · [[Fanjul Family - Florida Crystals]]
 
 ## Who He Is
 
-Carlos Gimenez. U.S. Representative, Florida's 28th Congressional District (R). Born January 17, 1954, in Havana, Cuba — the first Cuban-born member currently serving in Congress. Former Miami-Dade County Mayor (2011-2020). Former career firefighter-paramedic — the first to serve in Congress. Chair of the House Transportation Subcommittee.
+Carlos Gimenez. U.S. Representative, Florida's 28th Congressional District (R). Born January 17, 1954, in Havana, Cuba, the first Cuban-born member currently serving in Congress. Former Miami-Dade County Mayor (2011-2020). Former career firefighter-paramedic, the first to serve in Congress. Chair of the House Transportation Subcommittee.
 
 OpenSecrets CID: N00046394.
 
-Career arc: Miami-Dade Fire Department → City of Miami Commissioner → Miami-Dade County Mayor (2011-2020) → U.S. House (2021-present). Gimenez's path runs through Miami's Cuban-American political machine — from local governance to the federal Cuba bloc alongside Diaz-Balart and Salazar.
+Career arc: Miami-Dade Fire Department → City of Miami Commissioner → Miami-Dade County Mayor (2011-2020) → U.S. House (2021-present). Gimenez's path runs through Miami's Cuban-American political machine, from local governance to the federal Cuba bloc alongside Diaz-Balart and Salazar.
 
 ---
 
 ## The Central Thesis
 
-Gimenez is the Miami infrastructure nexus — the politician whose donor base reveals the connection between South Florida real estate capital, defense contractors, and Cuba embargo enforcement. His documented donors include MasTec ($11,200), Lennar Corporation ($28,000), and sugar industry PACs. As Transportation Subcommittee Chair, he has oversight authority over the same defense contractors and infrastructure companies that fund his campaigns — and that stand to profit from post-embargo Cuban reconstruction.
+Gimenez is the Miami infrastructure nexus, the politician whose donor base reveals the connection between South Florida real estate capital, defense contractors, and Cuba embargo enforcement. His documented donors include MasTec ($11,200), Lennar Corporation ($28,000), and sugar industry PACs. As Transportation Subcommittee Chair, he has oversight authority over the same defense contractors and infrastructure companies that fund his campaigns, and that stand to profit from post-embargo Cuban reconstruction.
 
 ---
 
@@ -103,7 +103,7 @@ Gimenez is the Miami infrastructure nexus — the politician whose donor base re
 - Michigan Sugar Co.: documented contributions
 
 ### Defense / Transportation
-- Crowley Maritime (controversy — see Core Contradiction)
+- Crowley Maritime (controversy, see Core Contradiction)
 - Defense sector contributors tied to Transportation Subcommittee oversight
 
 ---
@@ -140,19 +140,19 @@ Gimenez is the Miami infrastructure nexus — the politician whose donor base re
 
 ### The Crowley Maritime Double Standard
 
-The most damaging contradiction in Gimenez's profile is the Crowley Maritime situation. Crowley is a major DoD contractor ($2.3B in Defense Freight Transportation Services contracts, $343M in Maritime Prepositioning Force contracts) that has simultaneously operated cargo shipping through Cuba's Mariel Port since 2001 — a port managed by the Cuban military. Gimenez's 2023 Security Act targets Chinese operations in Caribbean ports but makes no mention of Crowley's Cuba operations.
+The most damaging contradiction in Gimenez's profile is the Crowley Maritime situation. Crowley is a major DoD contractor ($2.3B in Defense Freight Transportation Services contracts, $343M in Maritime Prepositioning Force contracts) that has simultaneously operated cargo shipping through Cuba's Mariel Port since 2001, a port managed by the Cuban military. Gimenez's 2023 Security Act targets Chinese operations in Caribbean ports but makes no mention of Crowley's Cuba operations.
 
-Critics — including General Michael Flynn and Roger Stone — have accused Gimenez of "shielding" a defense contractor doing business with the Cuban regime he publicly opposes. Whether this reflects willful protection of a donor-connected contractor or deliberate policy carve-out for a DoD asset is unresolved — but the double standard is documented.
+Critics, including General Michael Flynn and Roger Stone, have accused Gimenez of "shielding" a defense contractor doing business with the Cuban regime he publicly opposes. Whether this reflects willful protection of a donor-connected contractor or deliberate policy carve-out for a DoD asset is unresolved, but the double standard is documented.
 
 ---
 
 ### Committee Leverage
 
-Gimenez's Transportation Subcommittee chairmanship is the single most important structural fact about his donor relationships. The subcommittee has oversight authority over federal highway funding, port security, maritime contracts, transit grants, and infrastructure permitting — the exact policy arenas his top donors operate in.
+Gimenez's Transportation Subcommittee chairmanship is the single most important structural fact about his donor relationships. The subcommittee has oversight authority over federal highway funding, port security, maritime contracts, transit grants, and infrastructure permitting, the exact policy arenas his top donors operate in.
 
 - **Infrastructure contractors (MasTec, NV2A):** write checks to the member who chairs oversight of the federal programs they bid on
 - **Real estate developers (Lennar):** benefit from transportation oversight that shapes corridor development, transit-oriented density, and federal infrastructure siting decisions that drive land values in Miami-Dade
-- **Maritime / defense (Crowley):** falls under the subcommittee's port security and maritime oversight scope — the same scope Gimenez used to draft the 2023 Security Act targeting Chinese port operations while omitting Crowley
+- **Maritime / defense (Crowley):** falls under the subcommittee's port security and maritime oversight scope, the same scope Gimenez used to draft the 2023 Security Act targeting Chinese port operations while omitting Crowley
 
 The subcommittee is not an accident of committee assignment. It is the structural position that monetizes the donor relationships. This is the textbook revolving door / donor-class override pattern: the regulator is paid by the regulated, and the regulation is shaped to the regulated's interest.
 
@@ -162,8 +162,8 @@ The subcommittee is not an accident of committee assignment. It is the structura
 
 Gimenez's donor base is positioned for a specific future contingency: the end of the Cuba embargo. When (not if) the embargo is lifted or relaxed, three of his donor sectors are first-in-line beneficiaries:
 
-1. **Miami construction / real estate (Lennar, NV2A, MasTec):** Cuba's housing stock and infrastructure are in collapse after six decades of U.S. embargo and internal regime dysfunction. The FL contractors closest to Miami — with existing Cuban-American workforce ties, Spanish-language operations, and familiarity with the market — are positioned as first movers. Gimenez's donor list maps to that contractor bench.
-2. **Sugar industry (Fanjul bloc, sugar PACs):** Cuba was the world's largest sugar exporter before 1959. Embargo lift returns Cuban sugar to world markets — which threatens U.S. sugar price supports. The Fanjul family's historical Cuban holdings and U.S. political operation are structured to manage that transition to Fanjul advantage.
+1. **Miami construction / real estate (Lennar, NV2A, MasTec):** Cuba's housing stock and infrastructure are in collapse after six decades of U.S. embargo and internal regime dysfunction. The FL contractors closest to Miami, with existing Cuban-American workforce ties, Spanish-language operations, and familiarity with the market, are positioned as first movers. Gimenez's donor list maps to that contractor bench.
+2. **Sugar industry (Fanjul bloc, sugar PACs):** Cuba was the world's largest sugar exporter before 1959. Embargo lift returns Cuban sugar to world markets, which threatens U.S. sugar price supports. The Fanjul family's historical Cuban holdings and U.S. political operation are structured to manage that transition to Fanjul advantage.
 3. **Maritime / logistics (Crowley):** Already operating through Mariel under Cuban military oversight. Embargo lift converts Crowley's existing Cuba presence into dominant market share.
 
 The public posture is maximalist anti-Castroism. The donor positioning is post-embargo accommodation. Both can be true simultaneously because the donors profit from the transition, not the status quo.
@@ -184,13 +184,13 @@ The Crowley Maritime contradiction is the sharpest class signal. Crowley is a ma
 
 **Donor-Class Override:** Real estate and infrastructure donors ($61,600+ from Lennar, MasTec, NV2A alone) buy access to the Transportation Subcommittee chair who oversees their industry. The policy outcomes serve the construction lobby, not the FL-28 constituency.
 
-**Both-Sides Illusion (Within Bloc):** Gimenez, Diaz-Balart, and Salazar share donors and coordinated positions on Cuba — functioning as a single donor-service bloc rather than three independent representatives. The three are publicly presented as distinct voices; in donor terms they are one bundled service.
+**Both-Sides Illusion (Within Bloc):** Gimenez, Diaz-Balart, and Salazar share donors and coordinated positions on Cuba, functioning as a single donor-service bloc rather than three independent representatives. The three are publicly presented as distinct voices; in donor terms they are one bundled service.
 
 **Villain Framing:** Gimenez frames China as the primary threat in Caribbean port security while shielding a U.S. defense contractor operating under Cuban military oversight. The China villain diverts attention from the Cuba policy contradiction.
 
 **Two-Audience Problem:** Public rhetoric to the Cuban-American exile base is maximalist embargo militance. Private donor positioning prepares for post-embargo reconstruction contracts. The same career serves both audiences because the contradiction is never surfaced in either audience's information environment.
 
-**Revolving Door (Local → Federal):** Gimenez's career arc — Miami-Dade Fire → City Commissioner → County Mayor → U.S. House — concentrated the same donor relationships at each level, then scaled them to federal oversight. The donor base did not change when the office changed.
+**Revolving Door (Local → Federal):** Gimenez's career arc. Miami-Dade Fire → City Commissioner → County Mayor → U.S. House, concentrated the same donor relationships at each level, then scaled them to federal oversight. The donor base did not change when the office changed.
 
 ---
 
@@ -198,7 +198,7 @@ The Crowley Maritime contradiction is the sharpest class signal. Crowley is a ma
 
 - [FEC Candidate: Carlos Gimenez campaign finance summary](https://www.fec.gov/data/candidate/H0FL26036/) (Tier 1) (VERIFIED)
 - [Florida Politics: Gimenez adds $260K in Q1 through unions, GOP donors](https://floridapolitics.com/archives/519728-carlos-gimenez-adds-260k-in-q1-through-unions-gop-donors/) (Tier 2) (VERIFIED)
-- [StoneColdTruth: Why Is Rep. Gimenez Shielding a Defense Contractor Operating Under Cuban Military Oversight?](https://www.stonecoldtruth.com/p/why-is-rep-carlos-gimenez-shielding) (VERIFIED) (Tier 4 — verify independently)
+- [StoneColdTruth: Why Is Rep. Gimenez Shielding a Defense Contractor Operating Under Cuban Military Oversight?](https://www.stonecoldtruth.com/p/why-is-rep-carlos-gimenez-shielding) (VERIFIED) (Tier 4, verify independently)
 - ~~[Wikipedia: Carlos Gimenez (politician)](https://en.wikipedia.org/wiki/All-In_(podcast)~~ (URL broken, archived by Ops))) (Tier 3)
 
 ---

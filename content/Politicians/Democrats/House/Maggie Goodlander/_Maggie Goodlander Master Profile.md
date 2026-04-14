@@ -1,5 +1,5 @@
 ---
-title: "Maggie Goodlander Master Profile"
+title: "Maggie Goodlander"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

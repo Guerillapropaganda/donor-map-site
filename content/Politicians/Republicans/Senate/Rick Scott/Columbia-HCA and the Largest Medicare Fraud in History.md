@@ -13,7 +13,7 @@ related: "[[_Rick Scott Master Profile]]"
 ---
 #rick-scott #columbia-hca #medicare-fraud #healthcare #class-analysis #follow-the-money
 
-donors: (Columbia/HCA — source of fortune, not donor to politics)
+donors: (Columbia/HCA, source of fortune, not donor to politics)
 
 ---
 
@@ -28,19 +28,19 @@ donors: (Columbia/HCA — source of fortune, not donor to politics)
 
 | Date | Event | Amount | Source |
 |------|-------|--------|--------|
-| 1989-01-01 | Rick Scott becomes CEO of Columbia/HCA; begins aggressive expansion and billing practices (exact date pending) | — | Corporate records |
+| 1989-01-01 | Rick Scott becomes CEO of Columbia/HCA; begins aggressive expansion and billing practices (exact date pending) |, | Corporate records |
 | 1990-1997 | Columbia/HCA commits systematic Medicare misconduct: false billing, unnecessary tests, fake diagnosis codes (exact dates pending) | $1,700,000,000 in deceptive claims | DOJ records |
-| 1997-07-01 | FBI raids Columbia/HCA Nashville headquarters and 30+ hospitals (exact date pending) | — | FBI records |
-| 1997-07-01 | Rick Scott resigns as CEO days after FBI raids (exact date pending) | — | Corporate records |
+| 1997-07-01 | FBI raids Columbia/HCA Nashville headquarters and 30+ hospitals (exact date pending) |, | FBI records |
+| 1997-07-01 | Rick Scott resigns as CEO days after FBI raids (exact date pending) |, | Corporate records |
 | 2000-06-01 | Columbia/HCA settles misconduct charges with federal government for record amount (exact date pending) | $1,700,000,000 | DOJ settlement |
-| 2000-01-01 | Columbia/HCA receives 14 felony convictions (exact date pending) | — | Federal court records |
+| 2000-01-01 | Columbia/HCA receives 14 felony convictions (exact date pending) |, | Federal court records |
 | 1997-07-01 | Scott receives separation settlement and severance upon departure (exact date pending) | $14,980,000 | Corporate records |
 | 1997-07-01 | Scott receives five-year consulting contract at $950K per year (exact date pending) | $4,750,000 | Corporate records |
 | 1997-07-01 | Scott receives 10 million shares of Columbia/HCA stock upon departure (exact date pending) | $350,000,000+ | Corporate records |
 | 1997-07-01 | Total value of Scott's departure package from company | $370,000,000+ | Corporate records |
 | 2010-01-01 | Scott uses proceeds to fund Florida gubernatorial campaign (exact date pending) | $150,000,000 | Campaign finance records |
 
-**What Columbia/HCA did:** The company ran a systematic plan to extract maximum reimbursement from Medicare and Medicaid by inflating bills, ordering unnecessary tests, and submitting deceptive claims. The misconduct was not incidental — it was the business model. Columbia/HCA's growth strategy under Scott was aggressive acquisition of hospitals combined with aggressive billing practices designed to maximize government revenue extraction.
+**What Columbia/HCA did:** The company ran a systematic plan to extract maximum reimbursement from Medicare and Medicaid by inflating bills, ordering unnecessary tests, and submitting deceptive claims. The misconduct was not incidental, it was the business model. Columbia/HCA's growth strategy under Scott was aggressive acquisition of hospitals combined with aggressive billing practices designed to maximize government revenue extraction.
 
 ---
 
@@ -61,7 +61,7 @@ donors: (Columbia/HCA — source of fortune, not donor to politics)
 
 ### The Fifth Amendment
 
-When questioned about the misconduct, Scott invoked the Fifth Amendment — the right against self-incrimination — 75 times in a single deposition. The future governor and senator refused to answer questions about the company's billing practices under oath. His public position: "mistakes were made." His legal position: answering questions might incriminate him.
+When questioned about the misconduct, Scott invoked the Fifth Amendment, the right against self-incrimination, 75 times in a single deposition. The future governor and senator refused to answer questions about the company's billing practices under oath. His public position: "mistakes were made." His legal position: answering questions might incriminate him.
 
 ---
 

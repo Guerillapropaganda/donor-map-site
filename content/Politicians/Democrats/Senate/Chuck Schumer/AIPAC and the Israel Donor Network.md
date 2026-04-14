@@ -32,13 +32,13 @@ donors: [[AIPAC - American Israel Public Affairs Committee]] · [[Miriam Adelson
 | AIPAC direct/affiliated PACs | Significant portion |
 | Individual pro-Israel donors | Bundling networks |
 
-AIPAC's [[United Democracy Project - UDP|United Democracy Project]] spent $100M+ in the 2024 cycle alone, primarily in Democratic primaries to defeat Israel-critical candidates. Schumer is not a target of this spending — he is its beneficiary and enabler. His position as Majority Leader gives AIPAC's agenda floor access that money alone cannot buy.
+AIPAC's [[United Democracy Project - UDP|United Democracy Project]] spent $100M+ in the 2024 cycle alone, primarily in Democratic primaries to defeat Israel-critical candidates. Schumer is not a target of this spending, he is its beneficiary and enabler. His position as Majority Leader gives AIPAC's agenda floor access that money alone cannot buy.
 
 ---
 
 ### The March 2024 Speech
 
-On March 14, 2024, Schumer delivered a Senate floor speech calling for new elections in Israel and criticizing Netanyahu as an obstacle to peace. The speech was unprecedented — the highest-ranking Jewish American elected official publicly breaking with an Israeli prime minister.
+On March 14, 2024, Schumer delivered a Senate floor speech calling for new elections in Israel and criticizing Netanyahu as an obstacle to peace. The speech was unprecedented, the highest-ranking Jewish American elected official publicly breaking with an Israeli prime minister.
 
 **What it appeared to be:** A courageous break with AIPAC orthodoxy.
 
@@ -51,7 +51,7 @@ On March 14, 2024, Schumer delivered a Senate floor speech calling for new elect
 
 ### The Structural Function
 
-Schumer's value to the pro-Israel donor network is not primarily about his own votes — it's about floor control. As Majority Leader, Schumer determines:
+Schumer's value to the pro-Israel donor network is not primarily about his own votes, it's about floor control. As Majority Leader, Schumer determines:
 - Which resolutions reach the floor
 - Which amendments get votes
 - Which nominees advance

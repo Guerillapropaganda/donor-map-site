@@ -1,5 +1,5 @@
 ---
-title: "Leon Panetta Master Profile"
+title: "Leon Panetta"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

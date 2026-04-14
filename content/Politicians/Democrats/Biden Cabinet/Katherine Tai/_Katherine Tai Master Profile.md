@@ -1,5 +1,5 @@
 ---
-title: "Katherine Tai Master Profile"
+title: "Katherine Tai"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

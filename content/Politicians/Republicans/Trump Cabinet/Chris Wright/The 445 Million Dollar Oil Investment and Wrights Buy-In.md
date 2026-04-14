@@ -31,10 +31,10 @@ donors: [[Harold Hamm]]
 | 2024-01-01 | Wright contributes to Americans for Prosperity Action (Koch super PAC) | $100,000 | OpenSecrets |
 | 2024-01-01 | Wright contributes to Truth and Courage PAC (Ted Cruz re-election super PAC) | $25,000 | OpenSecrets |
 | 2024-01-01 | Wright's total 2024 personal contributions ($528K) represent buy-in to Trump/Koch political infrastructure | $528,390 | OpenSecrets |
-| 2024-11-01 | Trump wins 2024 election; Wright's $528K investment positioned for Energy Department position | — | Election results |
-| 2025-01-01 | Trump appoints Wright as Energy Secretary (return on investment: $45.1B budget control) | — | Trump announcement |
+| 2024-11-01 | Trump wins 2024 election; Wright's $528K investment positioned for Energy Department position |, | Election results |
+| 2025-01-01 | Trump appoints Wright as Energy Secretary (return on investment: $45.1B budget control) |, | Trump announcement |
 
-Wright swore off supporting Trump in 2016. By 2024, he reversed course and became a major donor — the ideological shift tracked the opportunity.
+Wright swore off supporting Trump in 2016. By 2024, he reversed course and became a major donor, the ideological shift tracked the opportunity.
 
 ---
 
@@ -46,9 +46,9 @@ Wright swore off supporting Trump in 2016. By 2024, he reversed course and becam
 | 2024-01-01 | Oil/gas industry funds advertising (pro-Trump messaging, pro-industry policy advocacy) | $80,000,000 | Brennan Center, Climate Power |
 | 2024-01-01 | Oil/gas industry conducts Congressional lobbying to protect industry interests and oppose regulation | $243,000,000 | OpenSecrets lobbying data |
 | 2024-01-01 | Oil/gas industry total influence spending (donations + ads + lobbying) | $445,000,000+ | Brennan Center "Fossil Fuel Donors See Major Returns" |
-| 2024-06-01 | Trump explicitly asks oil executives to raise $1 billion for his campaign (documented quid pro quo request) | — | Trump recorded statements |
-| 2024-11-01 | Trump wins 2024 election; oil/gas industry awaits policy returns on $445M investment | — | Election results |
-| 2025-01-01 | Wright appointed Energy Secretary; industry begins collecting returns (LNG exports, renewable research cuts) | — | Trump appointment |
+| 2024-06-01 | Trump explicitly asks oil executives to raise $1 billion for his campaign (documented quid pro quo request) |, | Trump recorded statements |
+| 2024-11-01 | Trump wins 2024 election; oil/gas industry awaits policy returns on $445M investment |, | Election results |
+| 2025-01-01 | Wright appointed Energy Secretary; industry begins collecting returns (LNG exports, renewable research cuts) |, | Trump appointment |
 
 ### Key individual donors:
 - [[Kelcy Warren|Kelcy Warren]] (Energy Transfer Partners CEO): $25M to Trump inaugural
@@ -76,7 +76,7 @@ Within Wright's first year as Energy Secretary:
 
 ### Sources
 
-- [OpenSecrets: Trump administration profile — Chris Wright](https://www.opensecrets.org/members-of-congress/summary?name=445%20Million%20Dollar%20Oil%20Investment%20and%20Wrights%20Buy-In) (Tier 2) (VERIFIED)
+- [OpenSecrets: Trump administration profile. Chris Wright](https://www.opensecrets.org/members-of-congress/summary?name=445%20Million%20Dollar%20Oil%20Investment%20and%20Wrights%20Buy-In) (Tier 2) (VERIFIED)
 - Common Dreams: Big oil's $445M investment in Trump (Tier 2)
 - Climate Power: Oil and gas industry $450M spending report (Tier 2)
 - Brennan Center: Fossil fuel donors see major returns (Tier 2)

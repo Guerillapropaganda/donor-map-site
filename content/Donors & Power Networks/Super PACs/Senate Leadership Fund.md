@@ -62,19 +62,19 @@ aliases:
 
 ### Who They Are
 
-Senate Leadership Fund (SLF). The institutional machinery of Republican Senate control — a super PAC (FEC ID: C00571703) that operates as the single largest outside spending vehicle dedicated to maintaining a Republican Senate majority. Founded January 20, 2015 by supporters of then-Senate Majority Leader [[_Mitch McConnell Master Profile|Mitch McConnell]] (R-KY), SLF is run by Steven Law, McConnell's former chief of staff (1991–1997), making it functionally an extension of McConnell's personal power base even after his December 2024 retirement as leader.
+Senate Leadership Fund (SLF). The institutional machinery of Republican Senate control, a super PAC (FEC ID: C00571703) that operates as the single largest outside spending vehicle dedicated to maintaining a Republican Senate majority. Founded January 20, 2015 by supporters of then-Senate Majority Leader [[_Mitch McConnell Master Profile|Mitch McConnell]] (R-KY), SLF is run by Steven Law, McConnell's former chief of staff (1991–1997), making it functionally an extension of McConnell's personal power base even after his December 2024 retirement as leader.
 
-SLF raised $298,859,707 and spent $296,600,299 in the 2024 cycle, making $211,092,912 in independent expenditures. Individual donors of $200+ contributed $283,910,184 — meaning virtually all of SLF's money comes from large-dollar donors. This is the most concentrated mega-donor funding operation in Republican politics.
+SLF raised $298,859,707 and spent $296,600,299 in the 2024 cycle, making $211,092,912 in independent expenditures. Individual donors of $200+ contributed $283,910,184, meaning virtually all of SLF's money comes from large-dollar donors. This is the most concentrated mega-donor funding operation in Republican politics.
 
-SLF operates in tandem with One Nation, its 501(c)(4) dark money sister organization. One Nation handles undisclosed "issue advocacy" spending that influences Senate races without triggering FEC disclosure requirements. Together, SLF and One Nation constitute the complete Republican Senate leadership outside political operation — one track for disclosed spending, one for anonymous spending.
+SLF operates in tandem with One Nation, its 501(c)(4) dark money sister organization. One Nation handles undisclosed "issue advocacy" spending that influences Senate races without triggering FEC disclosure requirements. Together, SLF and One Nation constitute the complete Republican Senate leadership outside political operation, one track for disclosed spending, one for anonymous spending.
 
-**The Thune transition:** After McConnell retired as leader, Senate Majority Leader John Thune (R-SD) inherited the SLF apparatus. The organization shattered its off-year fundraising record in 2025, raising $180 million (SLF + One Nation combined) — with $100M+ in cash on hand entering 2026. One-third of 2025 donations came from first-time contributors, signaling the donor base is expanding beyond McConnell's original coalition.
+**The Thune transition:** After McConnell retired as leader, Senate Majority Leader John Thune (R-SD) inherited the SLF apparatus. The organization shattered its off-year fundraising record in 2025, raising $180 million (SLF + One Nation combined), with $100M+ in cash on hand entering 2026. One-third of 2025 donations came from first-time contributors, signaling the donor base is expanding beyond McConnell's original coalition.
 
 ---
 
-### The Money — FEC Financial Summary (2024 Cycle)
+### The Money. FEC Financial Summary (2024 Cycle)
 
-### SLF (C00571703) — OpenSecrets/FEC:
+### SLF (C00571703). OpenSecrets/FEC:
 
 | Category | Amount |
 |----------|--------|
@@ -85,19 +85,19 @@ SLF operates in tandem with One Nation, its 501(c)(4) dark money sister organiza
 | Begin cash on hand | $3,823,269 |
 | End cash on hand | $6,082,677 |
 
-**Key metric:** $283.9M of $298.9M (95%) came from individual donors giving $200+. This is the most donor-concentrated major super PAC in American politics — no grassroots component whatsoever.
+**Key metric:** $283.9M of $298.9M (95%) came from individual donors giving $200+. This is the most donor-concentrated major super PAC in American politics, no grassroots component whatsoever.
 
 ### Spending growth trajectory:
 
 | Cycle | Total Raised | Growth |
 |-------|-------------|--------|
-| 2016 | $71M+ | — |
+| 2016 | $71M+ |, |
 | 2018 | $85M+ | +20% |
 | 2020 | $95M+ | +12% |
 | 2022 | $113M+ | +19% |
 | 2024 | $299M | +165% |
 
-The 2024 spike — from $113M to $299M — reflects the escalating cost of defending/expanding a narrow Senate majority in a presidential year. SLF nearly tripled its fundraising in one cycle, driven primarily by Ken Griffin's $30M and the broader hedge fund/financial services donor class responding to perceived regulatory threats under a potential Democratic administration.
+The 2024 spike, from $113M to $299M, reflects the escalating cost of defending/expanding a narrow Senate majority in a presidential year. SLF nearly tripled its fundraising in one cycle, driven primarily by Ken Griffin's $30M and the broader hedge fund/financial services donor class responding to perceived regulatory threats under a potential Democratic administration.
 
 ---
 
@@ -114,7 +114,7 @@ The 2024 spike — from $113M to $299M — reflects the escalating cost of defen
 | One Nation (501(c)(4) dark money) | Undisclosed (est. $70M+ into 2024 Senate races) | Anonymous corporate/individual donors; all of the above |
 | [[Peter Thiel]] | $3M+ (historical) | Tech policy, national security contracting |
 
-**The Griffin concentration:** Ken Griffin's $30M represented 25.8% of SLF's disclosed 2024 fundraising total — more than one-quarter of the Republican Senate's outside spending apparatus from a single hedge fund billionaire. Griffin was the fifth-largest individual political donor in the 2024 cycle ($100M total across all vehicles). When a single donor controls 25%+ of a chamber's leadership spending, that donor controls the chamber's priorities.
+**The Griffin concentration:** Ken Griffin's $30M represented 25.8% of SLF's disclosed 2024 fundraising total, more than one-quarter of the Republican Senate's outside spending apparatus from a single hedge fund billionaire. Griffin was the fifth-largest individual political donor in the 2024 cycle ($100M total across all vehicles). When a single donor controls 25%+ of a chamber's leadership spending, that donor controls the chamber's priorities.
 
 ---
 
@@ -122,7 +122,7 @@ The 2024 spike — from $113M to $299M — reflects the escalating cost of defen
 
 SLF's nominal mission is maintaining Republican Senate control. Its actual function is converting mega-donor preferences into Senate votes:
 
-**Financial deregulation:** Griffin's Citadel focus — securities/derivatives regulation, opposition to SEC enforcement, protection of high-frequency trading practices, carried interest loophole preservation. This is the dominant donor interest: the hedge fund class funds SLF to ensure the Senate never votes for financial regulation that threatens their business models.
+**Financial deregulation:** Griffin's Citadel focus, securities/derivatives regulation, opposition to SEC enforcement, protection of high-frequency trading practices, carried interest loophole preservation. This is the dominant donor interest: the hedge fund class funds SLF to ensure the Senate never votes for financial regulation that threatens their business models.
 
 **Tax policy protection:** Permanent corporate rate at 21% (2017 TCJA), opposition to wealth taxes, capital gains preferential treatment, pass-through deduction defense. Every major SLF donor benefits directly from maintaining the current tax structure.
 
@@ -134,15 +134,15 @@ SLF's nominal mission is maintaining Republican Senate control. Its actual funct
 
 ---
 
-### Where They Spend — The 2024 Battlefield
+### Where They Spend. The 2024 Battlefield
 
 SLF's $211M in independent expenditures concentrated on competitive Senate races:
 
-**2024 focus states:** Pennsylvania (critical swing), Montana (Jon Tester defeat), Ohio (Sherrod Brown defeat — coordinated with crypto PAC spending), Nevada (Jacky Rosen defense), Arizona (Sinema replacement). SLF spending was decisive in multiple races — the Montana and Ohio victories that expanded the Republican majority to 53 seats were SLF priority targets.
+**2024 focus states:** Pennsylvania (critical swing), Montana (Jon Tester defeat), Ohio (Sherrod Brown defeat, coordinated with crypto PAC spending), Nevada (Jacky Rosen defense), Arizona (Sinema replacement). SLF spending was decisive in multiple races, the Montana and Ohio victories that expanded the Republican majority to 53 seats were SLF priority targets.
 
 **2026 positioning:** SLF has pledged $42M in Maine (targeting Sen. Susan Collins' open seat or challenger), with early ad buys in Texas (supporting Sen. John Cornyn). The organization enters 2026 with $100M+ cash on hand and a $180M off-year fundraising record.
 
-**The spending asymmetry:** SLF's $299M in 2024 vs. [[Senate Majority PAC]]'s ~$200M creates a structural Republican advantage in Senate outside spending. The gap reflects the concentration of mega-donor wealth on the Republican side — hedge fund billionaires writing $10-30M checks vs. the more diffuse Democratic donor coalition of tech, labor, entertainment, and trial lawyers.
+**The spending asymmetry:** SLF's $299M in 2024 vs. [[Senate Majority PAC]]'s ~$200M creates a structural Republican advantage in Senate outside spending. The gap reflects the concentration of mega-donor wealth on the Republican side, hedge fund billionaires writing $10-30M checks vs. the more diffuse Democratic donor coalition of tech, labor, entertainment, and trial lawyers.
 
 ---
 
@@ -150,23 +150,23 @@ SLF's $211M in independent expenditures concentrated on competitive Senate races
 
 [[One Nation]], SLF's 501(c)(4) sister organization, is the anonymous spending channel:
 
-**Structure:** One Nation does not disclose donors, runs "issue advocacy" spending in Senate races, and transfers funds to SLF. One Nation put at least $70M into key 2024 Senate swing states — money from donors who want to influence Senate outcomes without public identification.
+**Structure:** One Nation does not disclose donors, runs "issue advocacy" spending in Senate races, and transfers funds to SLF. One Nation put at least $70M into key 2024 Senate swing states, money from donors who want to influence Senate outcomes without public identification.
 
-**Function:** Corporations and individuals who would face backlash from visible political spending (pharma companies opposing drug pricing, financial firms opposing regulation, fossil fuel companies opposing climate policy) donate to One Nation anonymously. One Nation then either runs its own issue ads or transfers funds to SLF. The voter sees "One Nation" or "Senate Leadership Fund" — never the actual corporate donor.
+**Function:** Corporations and individuals who would face backlash from visible political spending (pharma companies opposing drug pricing, financial firms opposing regulation, fossil fuel companies opposing climate policy) donate to One Nation anonymously. One Nation then either runs its own issue ads or transfers funds to SLF. The voter sees "One Nation" or "Senate Leadership Fund", never the actual corporate donor.
 
-**The McConnell design:** McConnell built the SLF/One Nation dual structure specifically to maximize both spending power and donor protection. Steven Law runs both organizations. The strategic coordination ensures that One Nation runs "issue advocacy" during legislative battles while SLF handles candidate-focused spending during elections — one operation, two legal structures, maximum anonymity for corporate donors.
+**The McConnell design:** McConnell built the SLF/One Nation dual structure specifically to maximize both spending power and donor protection. Steven Law runs both organizations. The strategic coordination ensures that One Nation runs "issue advocacy" during legislative battles while SLF handles candidate-focused spending during elections, one operation, two legal structures, maximum anonymity for corporate donors.
 
 ---
 
-### The Ken Griffin Thesis — One Billionaire Owns the Republican Senate
+### The Ken Griffin Thesis. One Billionaire Owns the Republican Senate
 
 Ken Griffin's $100M+ lifetime investment in SLF represents the most concentrated individual control of a legislative chamber's outside spending apparatus in modern American politics. The structural logic:
 
 Griffin gives $30M → SLF spends $211M in independent expenditures → Republican Senate majority maintained → Senate votes consistently against financial regulation, for tax policy protecting hedge fund profits, for judicial nominees who rule favorably on corporate liability → Griffin's Citadel profits increase → Griffin reinvests profits in next cycle's SLF contributions.
 
-The return calculation: Griffin's $30M in 2024 helped maintain a Senate majority that will block any financial regulation threatening Citadel's estimated $65B+ in assets under management. Even a 0.1% regulatory impact on AUM would cost $65M — making Griffin's $30M political investment the most efficient portfolio insurance in the financial industry. The ROI is incalculable because the investment prevents regulatory costs that would dwarf the political spending.
+The return calculation: Griffin's $30M in 2024 helped maintain a Senate majority that will block any financial regulation threatening Citadel's estimated $65B+ in assets under management. Even a 0.1% regulatory impact on AUM would cost $65M, making Griffin's $30M political investment the most efficient portfolio insurance in the financial industry. The ROI is incalculable because the investment prevents regulatory costs that would dwarf the political spending.
 
-The contrast with Democratic donor structure is the key insight: SLF serves financial capital concentrated in a handful of firms (Citadel, Elliott, Appaloosa, Blackstone). [[Senate Majority PAC]] serves a more diffuse coalition. Republican Senate mega-donor concentration creates structural dependence on financial deregulation — it's not a policy choice, it's a funding requirement.
+The contrast with Democratic donor structure is the key insight: SLF serves financial capital concentrated in a handful of firms (Citadel, Elliott, Appaloosa, Blackstone). [[Senate Majority PAC]] serves a more diffuse coalition. Republican Senate mega-donor concentration creates structural dependence on financial deregulation, it's not a policy choice, it's a funding requirement.
 
 ---
 
@@ -174,15 +174,15 @@ The contrast with Democratic donor structure is the key insight: SLF serves fina
 
 McConnell built SLF as his personal power machine from 2015 to 2024. The organization survived his retirement as leader because the infrastructure transcends the individual:
 
-**McConnell's legacy:** SLF gave McConnell leverage that no Senate leader since LBJ possessed — the ability to fund or defund any Republican senator's campaign through outside spending. This created structural dependence: senators who voted with McConnell received SLF protection; those who didn't faced reduced support or potential primary exposure.
+**McConnell's legacy:** SLF gave McConnell leverage that no Senate leader since LBJ possessed, the ability to fund or defund any Republican senator's campaign through outside spending. This created structural dependence: senators who voted with McConnell received SLF protection; those who didn't faced reduced support or potential primary exposure.
 
-**Thune's inheritance:** John Thune inherited a $299M fundraising apparatus, a $100M+ cash reserve, and the Griffin/hedge fund donor coalition. The $180M off-year fundraising record under Thune signals that the donor class transferred its loyalty from McConnell personally to the SLF institutional structure — the machine outlived its creator.
+**Thune's inheritance:** John Thune inherited a $299M fundraising apparatus, a $100M+ cash reserve, and the Griffin/hedge fund donor coalition. The $180M off-year fundraising record under Thune signals that the donor class transferred its loyalty from McConnell personally to the SLF institutional structure, the machine outlived its creator.
 
-**Steven Law's continuity:** Law has run SLF since its founding and served as McConnell's chief of staff. His continued leadership ensures institutional memory and donor relationships persist through the leadership transition. Law is the structural constant — leaders change, the money machine continues.
+**Steven Law's continuity:** Law has run SLF since its founding and served as McConnell's chief of staff. His continued leadership ensures institutional memory and donor relationships persist through the leadership transition. Law is the structural constant, leaders change, the money machine continues.
 
 ---
 
-### Money Flow — Source to Impact
+### Money Flow. Source to Impact
 
 | Date | Source → Recipient | Amount | Electoral/Policy Impact | Time Gap |
 |------|-------------------|--------|------------------------|----------|
@@ -213,13 +213,13 @@ McConnell built SLF as his personal power machine from 2015 to 2024. The organiz
 
 ### Sources
 
-- [OpenSecrets: Senate Leadership Fund PAC summary — $299M raised, 2024 cycle (C00571703)](https://www.opensecrets.org/political-action-committees-pacs/C00571703/summary/2024) (Tier 1) (VERIFIED)
+- [OpenSecrets: Senate Leadership Fund PAC summary, $299M raised, 2024 cycle (C00571703)](https://www.opensecrets.org/political-action-committees-pacs/C00571703/summary/2024) (Tier 1) (VERIFIED)
 - [FEC: Senate Leadership Fund committee filings (C00571703)](https://www.fec.gov/data/committee/C00571703/?tab=summary) (Tier 1) (VERIFIED)
 - [OpenSecrets: Senate Leadership Fund organization profile](https://www.opensecrets.org/orgs/senate-leadership-fund/summary?id=D000068516) (Tier 1) (VERIFIED)
-- [FactCheck.org: Senate Leadership Fund — donors, spending, One Nation relationship](https://www.factcheck.org/2024/07/senate-leadership-fund-4/) (Tier 2) (VERIFIED)
-- [ArtNews: Kenneth Griffin donated $100M to 2024 election — SLF largest recipient](https://www.artnews.com/art-news/news/billionaire-collector-kenneth-griffin-donated-100-million-2024-election-senate-leadership-fund-1234724065/) (Tier 2) (VERIFIED)
-- [Free Beacon: Thune-aligned SLF sets off-year fundraising record — $180M haul](https://freebeacon.com/latest-news/thune-aligned-senate-leadership-fund-shatters-its-off-year-fundraising-record-with-180-million-haul/) (Tier 2) (VERIFIED)
-- ~~[Axios: The 2026 midterms spending explosion has begun](https://www.axios.com/2026/02/03/2025-campaign-fundraising)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [FactCheck.org: Senate Leadership Fund, donors, spending, One Nation relationship](https://www.factcheck.org/2024/07/senate-leadership-fund-4/) (Tier 2) (VERIFIED)
+- [ArtNews: Kenneth Griffin donated $100M to 2024 election. SLF largest recipient](https://www.artnews.com/art-news/news/billionaire-collector-kenneth-griffin-donated-100-million-2024-election-senate-leadership-fund-1234724065/) (Tier 2) (VERIFIED)
+- [Free Beacon: Thune-aligned SLF sets off-year fundraising record, $180M haul](https://freebeacon.com/latest-news/thune-aligned-senate-leadership-fund-shatters-its-off-year-fundraising-record-with-180-million-haul/) (Tier 2) (VERIFIED)
+- ~~[Axios: The 2026 midterms spending explosion has begun](https://www.axios.com/2026/02/03/2025-campaign-fundraising)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Ballotpedia: Senate Leadership Fund](https://ballotpedia.org/Senate_Leadership_Fund) (Tier 3) (VERIFIED)
 - [Ballotpedia: One Nation (One Mission) 501(c)(4)](https://ballotpedia.org/One_Mission) (Tier 3) (VERIFIED)
 

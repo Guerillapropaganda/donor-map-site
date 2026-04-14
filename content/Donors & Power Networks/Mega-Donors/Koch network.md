@@ -20,7 +20,7 @@ court-jurisdictions:
   - "District Court, S.D. California"
   - "District Court, S.D. New York"
   - "District Court, W.D. Washington"
-related: "[[Intra-Republican Contradiction Map]] · [[South Carolina 2026 Senate Race]] · [[Pete Hegseth Master Profile]] · [[Shelley Moore Capito]] · [[Jerry Moran]] · [[Mike Lee]] · [[Veterans and Military - Donors and Backers]] · [[Paul Ryan]] · [[John Boehner]] · [[Lee Zeldin Master Profile]] · [[The Fossil Fuel Op-Ed Pipeline and the Donor-to-Deregulation Map]] · [[Kristi Noem]] · [[Doug Burgum Master Profile]] · [[John Hoeven]] · [[John Barrasso]] · [[Jim Inhofe]] · [[The Culture War Economy - Who Profits From Division]] · [[The Freedom Caucus and the Koch Network Politics of Obstruction]] · [[Bryan Steil]] · [[Steve Hilton]] · [[The Both-Sides Illusion (Media Edition) — Shared Infrastructure Behind Opposing Voices]] · [[CalSTRS - California State Teachers' Retirement System]] · [[Koch Network - Charles Koch]] · [[Americans for Prosperity]] · [[Stand Together]] · [[Koch - Koch Industries]] · [[Koch vs Soros Mirror Image Dark Money Machines]] · [[ALEC Legislative Language Layer - Who Actually Writes the Laws]] · [[Ron Johnson]] · [[Markwayne Mullin]] · [[The VA Privatization Pipeline - Who Profits From Veteran Healthcare]] · [[Steve Scalise]] · [[Bruce Westerman]] · [[Walmart]] · [[Elliott Management]] · [[Carlyle Group]] · [[DonorsTrust]] · [[Susquehanna International Group]]"
+related: "[[Intra-Republican Contradiction Map]] · [[South Carolina 2026 Senate Race]] · [[Pete Hegseth Master Profile]] · [[Shelley Moore Capito]] · [[Jerry Moran]] · [[Mike Lee]] · [[Veterans and Military - Donors and Backers]] · [[Paul Ryan]] · [[John Boehner]] · [[Lee Zeldin Master Profile]] · [[The Fossil Fuel Op-Ed Pipeline and the Donor-to-Deregulation Map]] · [[Kristi Noem]] · [[Doug Burgum Master Profile]] · [[John Hoeven]] · [[John Barrasso]] · [[Jim Inhofe]] · [[The Culture War Economy - Who Profits From Division]] · [[The Freedom Caucus and the Koch Network Politics of Obstruction]] · [[Bryan Steil]] · [[Steve Hilton]] · [[The Both-Sides Illusion (Media Edition) , Shared Infrastructure Behind Opposing Voices]] · [[CalSTRS - California State Teachers' Retirement System]] · [[Koch Network - Charles Koch]] · [[Americans for Prosperity]] · [[Stand Together]] · [[Koch - Koch Industries]] · [[Koch vs Soros Mirror Image Dark Money Machines]] · [[ALEC Legislative Language Layer - Who Actually Writes the Laws]] · [[Ron Johnson]] · [[Markwayne Mullin]] · [[The VA Privatization Pipeline - Who Profits From Veteran Healthcare]] · [[Steve Scalise]] · [[Bruce Westerman]] · [[Walmart]] · [[Elliott Management]] · [[Carlyle Group]] · [[DonorsTrust]] · [[Susquehanna International Group]]"
 lei: "391200KFDASVUTIYEP51"
 lei-jurisdiction: "DE"
 cross-vault-triangulation-count: 19
@@ -34,7 +34,7 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### Who They Are
 
-The Koch network. A redirect node for lowercase "Koch network" wikilink references. The Koch political network is the most sophisticated donor operation in American politics — a $500M+ per cycle operation that includes Americans for Prosperity (grassroots), Stand Together (umbrella organization), Koch Industries (corporate funding), i360 (voter data), and dozens of allied think tanks, university programs, and judicial organizations.
+The Koch network. A redirect node for lowercase "Koch network" wikilink references. The Koch political network is the most sophisticated donor operation in American politics, a $500M+ per cycle operation that includes Americans for Prosperity (grassroots), Stand Together (umbrella organization), Koch Industries (corporate funding), i360 (voter data), and dozens of allied think tanks, university programs, and judicial organizations.
 
 See [[Koch Network - Charles Koch]] for the complete donor node, and [[Koch - Koch Industries]] for the corporate entity analysis.
 
@@ -45,7 +45,7 @@ See [[Koch Network - Charles Koch]] for the complete donor node, and [[Koch - Ko
 
 ### Sources
 
-- ~~[OpenSecrets: Koch network spending](https://www.opensecrets.org/outsidespending/donor_detail?cycle=2024&id=U0000003535&type=I&super=N&name=Koch+Industries)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Koch network spending](https://www.opensecrets.org/outsidespending/donor_detail?cycle=2024&id=U0000003535&type=I&super=N&name=Koch+Industries)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Ballotpedia: Koch network](https://ballotpedia.org/Koch_network) (Tier 3) (VERIFIED)
 
 ### Federal Court Records (CourtListener)

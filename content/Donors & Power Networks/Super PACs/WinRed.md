@@ -35,9 +35,9 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### Who They Are
 
-WinRed. The Republican Party's official online fundraising platform, launched in 2019 as the GOP counterpart to ActBlue. WinRed processes small-dollar donations for Republican candidates, committees, and PACs. In the 2024 cycle, WinRed processed over $2 billion in donations — making it one of the largest financial intermediaries in American politics.
+WinRed. The Republican Party's official online fundraising platform, launched in 2019 as the GOP counterpart to ActBlue. WinRed processes small-dollar donations for Republican candidates, committees, and PACs. In the 2024 cycle, WinRed processed over $2 billion in donations, making it one of the largest financial intermediaries in American politics.
 
-WinRed's political significance extends beyond transaction processing. The platform has been criticized for using dark patterns — pre-checked recurring donation boxes, confusing opt-out language, and aggressive default settings — that resulted in millions of dollars in unwitting recurring charges to donors. The New York Times reported in 2021 that the Trump campaign refunded $122 million in donations that were charged through pre-checked recurring boxes donors did not intentionally authorize.
+WinRed's political significance extends beyond transaction processing. The platform has been criticized for using dark patterns, pre-checked recurring donation boxes, confusing opt-out language, and aggressive default settings, that resulted in millions of dollars in unwitting recurring charges to donors. The New York Times reported in 2021 that the Trump campaign refunded $122 million in donations that were charged through pre-checked recurring boxes donors did not intentionally authorize.
 
 - [FEC: WinRed filings](https://www.fec.gov/data/committee/C00694323/) (Tier 1) (VERIFIED)
 
@@ -47,14 +47,14 @@ WinRed's political significance extends beyond transaction processing. The platf
 
 WinRed's pre-checked recurring donation box was the single most controversial fundraising mechanism in modern political history. Donors who intended to make a one-time contribution were enrolled in recurring weekly or monthly donations through a pre-checked box that required active unchecking to avoid. The result: millions of small-dollar donors were charged repeatedly without understanding they had authorized recurring payments.
 
-The Trump campaign's $122 million in refunds represents only the donors who successfully disputed charges. The total amount extracted through the dark pattern mechanism — including donors who did not dispute, did not notice, or could not navigate the refund process — is estimated to be significantly higher.
+The Trump campaign's $122 million in refunds represents only the donors who successfully disputed charges. The total amount extracted through the dark pattern mechanism, including donors who did not dispute, did not notice, or could not navigate the refund process, is estimated to be significantly higher.
 
 > [!money]
 > WinRed's dark pattern mechanism extracted $122 million in disputed recurring donations from Trump supporters alone. The donors targeted were overwhelmingly elderly, low-income, and digitally unsophisticated — the same working-class supporters Trump claims to champion. The platform designed to fund the populist movement was extracting money from the populists through deceptive design.
 
 ---
 
-### Financial Overview (990 Filing — 2016)
+### Financial Overview (990 Filing, 2016)
 <!-- auto:propublica-990 start -->
 
 | Metric | Amount |

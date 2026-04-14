@@ -7,7 +7,7 @@ central-thesis: >-
   Wasserman Schultz is the Both-Sides Illusion made flesh. She is a Democrat
   funded by the same sugar PACs and Israel lobby money that funds the Republican
   Cuba hawks. Her presence in the sugar-defense-Israel coalition proves that the
-  embargo — and ...
+  embargo , and ...
 last-updated: '2026-04-14'
 source-tier: 1
 parent: null
@@ -52,13 +52,13 @@ Debbie Wasserman Schultz. U.S. Representative, Florida's 25th Congressional Dist
 
 OpenSecrets CID: N00026106.
 
-Career arc: Florida House (1992-2000) → Florida Senate (2000-2004) → U.S. House (2005-present) → DNC Chair (2011-2016, resigned amid email scandal) → continued House service. Wasserman Schultz is the vault's primary Democratic example of the sugar-AIPAC bipartisan donor axis — the same donors that fund Rubio and Diaz-Balart also fund her.
+Career arc: Florida House (1992-2000) → Florida Senate (2000-2004) → U.S. House (2005-present) → DNC Chair (2011-2016, resigned amid email scandal) → continued House service. Wasserman Schultz is the vault's primary Democratic example of the sugar-AIPAC bipartisan donor axis, the same donors that fund Rubio and Diaz-Balart also fund her.
 
 ---
 
 ## The Central Thesis
 
-Wasserman Schultz is the Both-Sides Illusion made flesh. She is a Democrat funded by the same sugar PACs and Israel lobby money that funds the Republican Cuba hawks. Her presence in the sugar-defense-Israel coalition proves that the embargo — and the sugar subsidy system it protects — survives not because of Republican ideology but because of bipartisan donor capture. When the Fanjul brothers split their donations between parties, Wasserman Schultz is one of the Democrats who receives.
+Wasserman Schultz is the Both-Sides Illusion made flesh. She is a Democrat funded by the same sugar PACs and Israel lobby money that funds the Republican Cuba hawks. Her presence in the sugar-defense-Israel coalition proves that the embargo, and the sugar subsidy system it protects, survives not because of Republican ideology but because of bipartisan donor capture. When the Fanjul brothers split their donations between parties, Wasserman Schultz is one of the Democrats who receives.
 
 ---
 
@@ -88,7 +88,7 @@ Wasserman Schultz is the Both-Sides Illusion made flesh. She is a Democrat funde
 ### Broader Democratic Establishment
 - Healthcare/pharma donors
 - Finance sector PACs
-- 48 PAC donations worth $96,000 in a single reporting quarter — indicating broad establishment support
+- 48 PAC donations worth $96,000 in a single reporting quarter, indicating broad establishment support
 
 ---
 
@@ -102,9 +102,9 @@ Wasserman Schultz is the Both-Sides Illusion made flesh. She is a Democrat funde
 
 ---
 
-### The DNC Scandal — Democratic Donor Infrastructure
+### The DNC Scandal. Democratic Donor Infrastructure
 
-Wasserman Schultz resigned as DNC Chair in July 2016 after WikiLeaks published emails showing DNC staff bias toward Hillary Clinton over Bernie Sanders during the primary. Former DNC Chair Donna Brazile later alleged that Wasserman Schultz allowed the Clinton campaign to take over DNC finances and operations before Clinton secured the nomination — undermining primary fairness.
+Wasserman Schultz resigned as DNC Chair in July 2016 after WikiLeaks published emails showing DNC staff bias toward Hillary Clinton over Bernie Sanders during the primary. Former DNC Chair Donna Brazile later alleged that Wasserman Schultz allowed the Clinton campaign to take over DNC finances and operations before Clinton secured the nomination, undermining primary fairness.
 
 The scandal reveals how donor infrastructure operates at the party level: the DNC's financial dependency on Clinton-aligned donors created institutional capture. Wasserman Schultz's role was to manage that capture, not prevent it.
 
@@ -112,7 +112,7 @@ The scandal reveals how donor infrastructure operates at the party level: the DN
 
 ### The Both-Sides Proof
 
-The vault's core thesis — donors control politicians, not the other way around — finds its clearest bipartisan proof in the Florida sugar coalition:
+The vault's core thesis, donors control politicians, not the other way around, finds its clearest bipartisan proof in the Florida sugar coalition:
 
 | Politician | Party | Sugar PAC Money | AIPAC Money | Cuba Position |
 |-----------|-------|-----------------|-------------|---------------|
@@ -139,7 +139,7 @@ The DNC chairmanship (2011-2016) exposed the party-level version of the same don
 
 **Two-Audience Problem:** Progressive messaging for the Democratic base; sugar industry and AIPAC loyalty for the donors. The contradiction is sustainable because most voters don't track PAC contributions.
 
-**Donor-Class Override:** The sugar program costs consumers $2.4-$4B annually and damages the Everglades. Wasserman Schultz — who represents a South Florida district affected by Everglades pollution — never opposes the program that causes it. Donor interest overrides constituent interest.
+**Donor-Class Override:** The sugar program costs consumers $2.4-$4B annually and damages the Everglades. Wasserman Schultz, who represents a South Florida district affected by Everglades pollution, never opposes the program that causes it. Donor interest overrides constituent interest.
 
 ---
 

@@ -72,13 +72,13 @@ wikipedia-extract: 'DonorsTrust is an American nonprofit donor-advised fund that
 
 ### Who They Are
 
-Donors Capital Fund is a 501(c)(3) donor-advised fund founded in 1999, headquartered in Alexandria, Virginia. It is a supporting organization affiliated with DonorsTrust — together they function as the conservative movement's anonymous funding pipeline. The structure allows wealthy donors to make tax-deductible contributions that are distributed to ideologically aligned organizations without public disclosure of the original donor. Leadership includes President/CEO Lawson R. Bader (who simultaneously chairs the State Policy Network board — a direct structural link between the funding conduit and one of its largest beneficiaries) and CFO Jeffrey C. Zysik. The founding benefactor was Bruce H. Jacobs.
+Donors Capital Fund is a 501(c)(3) donor-advised fund founded in 1999, headquartered in Alexandria, Virginia. It is a supporting organization affiliated with DonorsTrust, together they function as the conservative movement's anonymous funding pipeline. The structure allows wealthy donors to make tax-deductible contributions that are distributed to ideologically aligned organizations without public disclosure of the original donor. Leadership includes President/CEO Lawson R. Bader (who simultaneously chairs the State Policy Network board, a direct structural link between the funding conduit and one of its largest beneficiaries) and CFO Jeffrey C. Zysik. The founding benefactor was Bruce H. Jacobs.
 
 ---
 
 ### What They Want
 
-Donors Capital Fund exists to protect donor anonymity while funding organizations that advance limited government, deregulation, free enterprise, and personal responsibility — the policy agenda of the conservative donor class. The DAF structure is the mechanism: donors get an immediate tax deduction, Donors Capital Fund holds and distributes the money, and recipient organizations never have to disclose where the money originally came from. This is legal dark money infrastructure optimized for scale.
+Donors Capital Fund exists to protect donor anonymity while funding organizations that advance limited government, deregulation, free enterprise, and personal responsibility, the policy agenda of the conservative donor class. The DAF structure is the mechanism: donors get an immediate tax deduction, Donors Capital Fund holds and distributes the money, and recipient organizations never have to disclose where the money originally came from. This is legal dark money infrastructure optimized for scale.
 
 ---
 
@@ -126,7 +126,7 @@ Donors Capital Fund exists to protect donor anonymity while funding organization
 
 ### Class Analysis
 
-Donors Capital Fund is the conservative donor class's anonymity machine. The DAF structure solves the fundamental problem of political spending for the ultra-wealthy: how to fund ideological infrastructure at scale while avoiding public accountability. The tax deduction makes the government effectively subsidize conservative movement building. The anonymity shields donors from consumer boycotts, shareholder activism, and public pressure. The shared leadership with State Policy Network (Lawson Bader chairs both) reveals this isn't an arm's-length grant operation — it's an integrated funding pipeline where the bank president also sits on the board of the borrower. DonorsTrust's $195M in 2024 distributions (up 22% YoY) shows the system is accelerating, not contracting.
+Donors Capital Fund is the conservative donor class's anonymity machine. The DAF structure solves the fundamental problem of political spending for the ultra-wealthy: how to fund ideological infrastructure at scale while avoiding public accountability. The tax deduction makes the government effectively subsidize conservative movement building. The anonymity shields donors from consumer boycotts, shareholder activism, and public pressure. The shared leadership with State Policy Network (Lawson Bader chairs both) reveals this isn't an arm's-length grant operation, it's an integrated funding pipeline where the bank president also sits on the board of the borrower. DonorsTrust's $195M in 2024 distributions (up 22% YoY) shows the system is accelerating, not contracting.
 
 > [!contradiction]
 > Donors Capital Fund promotes "personal responsibility" and "transparency in government" while its entire structural purpose is to eliminate transparency in political spending. The organization exists to ensure the donor class can shape policy without being held personally responsible for the outcomes.
@@ -135,12 +135,12 @@ Donors Capital Fund is the conservative donor class's anonymity machine. The DAF
 
 ### Sources
 
-- ~~[ProPublica: Donors Capital Fund 990](https://projects.propublica.org/nonprofits/organizations/522087327)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[ProPublica: Donors Capital Fund 990](https://projects.propublica.org/nonprofits/organizations/522087327)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [InfluenceWatch: Donors Capital Fund](https://www.influencewatch.org/non-profit/donors-capital-fund/) (Tier 3) (VERIFIED)
-- ~~[CMD: 100+ funders of State Policy Network revealed](https://www.exposedbycmd.org/2020/09/21/more-than-100-funders-state-policy-network-revealed/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[CMD: Dark money conduit funneled $195M in 2024](https://www.exposedbycmd.org/2025/11/21/dark-money-donor-conduit-funneled-195-million-to-right-wing-groups-in-2024/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[CMD: 100+ funders of State Policy Network revealed](https://www.exposedbycmd.org/2020/09/21/more-than-100-funders-state-policy-network-revealed/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[CMD: Dark money conduit funneled $195M in 2024](https://www.exposedbycmd.org/2025/11/21/dark-money-donor-conduit-funneled-195-million-to-right-wing-groups-in-2024/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [DonorsTrust: Directors and Staff](https://www.donorstrust.org/who-we-are/directors-and-staff/) (Tier 3) (VERIFIED)
-- ~~[SourceWatch: Donors Capital Fund](https://sourcewatch.org/index.php/Donors_Capital_Fund)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[SourceWatch: Donors Capital Fund](https://sourcewatch.org/index.php/Donors_Capital_Fund)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Mother Jones: DonorsTrust dark money](https://www.motherjones.com/politics/2013/02/donors-trust-donor-capital-fund-dark-money-koch-bradley-devos/) (Tier 2) (VERIFIED)
 - [DeSmog: Donors Capital Fund](https://www.desmog.com/donors-capital-fund/) (Tier 2) (VERIFIED)
 

@@ -1,5 +1,5 @@
 ---
-title: "Jimmy Patronis Master Profile"
+title: "Jimmy Patronis"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -1,5 +1,5 @@
 ---
-title: "James R. Walkinshaw Master Profile"
+title: "James R. Walkinshaw"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

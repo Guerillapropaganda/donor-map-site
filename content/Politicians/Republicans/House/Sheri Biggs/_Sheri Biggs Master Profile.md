@@ -1,5 +1,5 @@
 ---
-title: "Sheri Biggs Master Profile"
+title: "Sheri Biggs"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -1,5 +1,5 @@
 ---
-title: "David G. Valadao Master Profile"
+title: "David G. Valadao"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

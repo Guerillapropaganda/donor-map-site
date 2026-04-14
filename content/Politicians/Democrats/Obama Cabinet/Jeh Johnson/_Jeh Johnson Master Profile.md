@@ -1,5 +1,5 @@
 ---
-title: "Jeh Johnson Master Profile"
+title: "Jeh Johnson"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

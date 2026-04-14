@@ -1,5 +1,5 @@
 ---
-title: "Lisa Blunt Rochester Master Profile"
+title: "Lisa Blunt Rochester"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

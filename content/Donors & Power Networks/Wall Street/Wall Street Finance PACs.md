@@ -24,7 +24,7 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### Who They Are
 
-Wall Street Finance PACs. The collective PAC operation of the financial services industry — including Goldman Sachs PAC, JPMorgan PAC, Citigroup PAC, Bank of America PAC, Morgan Stanley PAC, and dozens of hedge fund, private equity, and insurance company PACs. Combined Wall Street PAC contributions: $50-75M per cycle, aggressively bipartisan (typically 55-60% Republican, 40-45% Democratic).
+Wall Street Finance PACs. The collective PAC operation of the financial services industry, including Goldman Sachs PAC, JPMorgan PAC, Citigroup PAC, Bank of America PAC, Morgan Stanley PAC, and dozens of hedge fund, private equity, and insurance company PACs. Combined Wall Street PAC contributions: $50-75M per cycle, aggressively bipartisan (typically 55-60% Republican, 40-45% Democratic).
 
 See [[Financial Services Donors]] and [[Securities & Investment Industry]] for comprehensive analysis.
 

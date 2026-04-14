@@ -67,7 +67,7 @@ Each victory expands the legal territory in which religious objections override 
 
 ### Sources
 
-- ~~[IRS: ADF 990 filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Alliance%20Defending%20Freedom&city=&state=All+States&country=US)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[IRS: ADF 990 filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Alliance%20Defending%20Freedom&city=&state=All+States&country=US)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Supreme Court: ADF case record](https://www.supremecourt.gov/search.aspx?Search=Alliance%20Defending%20Freedom) (Tier 1) (VERIFIED)
 - [Ballotpedia: Alliance Defending Freedom](https://ballotpedia.org/Alliance_Defending_Freedom) (Tier 3) (VERIFIED)
 

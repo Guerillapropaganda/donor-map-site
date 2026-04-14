@@ -1,5 +1,5 @@
 ---
-title: "Adriano Espaillat Master Profile"
+title: "Adriano Espaillat"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

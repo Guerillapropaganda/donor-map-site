@@ -22,7 +22,7 @@ known-gaps:
 
 ### Who They Are
 
-The Republican Party Apparatus. The institutional infrastructure of the Republican Party — the Republican National Committee (RNC), National Republican Senatorial Committee (NRSC), National Republican Congressional Committee (NRCC), and the ecosystem of allied organizations (Republican Governors Association, Republican Attorneys General Association) that collectively raise and deploy $2-3B per cycle to elect Republicans at every level of government.
+The Republican Party Apparatus. The institutional infrastructure of the Republican Party, the Republican National Committee (RNC), National Republican Senatorial Committee (NRSC), National Republican Congressional Committee (NRCC), and the ecosystem of allied organizations (Republican Governors Association, Republican Attorneys General Association) that collectively raise and deploy $2-3B per cycle to elect Republicans at every level of government.
 
 The Trump era transformed the Republican Party apparatus from an institution that served the party's candidates into an extension of a single political figure. The RNC under Trump-allied leadership directed party resources toward Trump's legal defense, loyalty-tested staff, and redirected small-dollar fundraising from party-building to Trump-specific operations. This institutional capture means the party apparatus now functions as the Trump organization's political infrastructure rather than as an independent institution serving the broader Republican coalition.
 
@@ -43,6 +43,6 @@ The class function of the Republican Party apparatus under Trump is to convert p
 
 ### Sources
 
-- ~~[OpenSecrets: Republican Party fundraising](https://www.opensecrets.org/parties/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Republican Party fundraising](https://www.opensecrets.org/parties/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Ballotpedia: Republican National Committee](https://ballotpedia.org/Republican_Party_Apparatus) (Tier 3) (VERIFIED)
 

@@ -23,7 +23,7 @@ The 2026 primaries are the first major test of: (1) Trump's continued influence 
 
 ### The Donor Map Implications
 
-The 2026 primaries are where the vault's donor-policy analysis becomes predictive: which candidates attract which donors reveals which policy outcomes are being purchased before the election. Early primary fundraising data shows the same donor patterns mapped throughout this vault — tech donors favoring deregulatory candidates, defense donors favoring hawks, pharma donors funding committee members, and dark money flowing through the same 501(c)(4) channels to both parties.
+The 2026 primaries are where the vault's donor-policy analysis becomes predictive: which candidates attract which donors reveals which policy outcomes are being purchased before the election. Early primary fundraising data shows the same donor patterns mapped throughout this vault, tech donors favoring deregulatory candidates, defense donors favoring hawks, pharma donors funding committee members, and dark money flowing through the same 501(c)(4) channels to both parties.
 
 > [!money]
 > The 2026 Senate primaries are the next frontier of the donor map — the races where the vault's analytical framework becomes a real-time tool for tracking who is purchasing whom. Every competitive Senate primary will feature the same donor-policy patterns documented in this vault: defense industry funding hawks, Wall Street funding committee chairs, pharma funding anyone on Finance or HELP, and dark money flowing through the same anonymous channels to both parties. The 2026 cycle is where the research meets the present tense.

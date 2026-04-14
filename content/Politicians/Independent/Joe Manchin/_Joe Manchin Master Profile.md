@@ -1,9 +1,9 @@
 ---
-title: "Joe Manchin Master Profile"
+title: "Joe Manchin"
 type: politician
 bioguide-id: "M001183"
 content-readiness: ready
-central-thesis: "Joe Manchin is the donor class's most efficient investment in modern American politics. A single senator — one vote — killed content-readiness: ready86 billion in climate legislation (Build Back Better's clean electricity program, methane fees, EV incentives), then ext..."
+central-thesis: "Joe Manchin is the donor class's most efficient investment in modern American politics. A single senator , one vote , killed content-readiness: ready86 billion in climate legislation (Build Back Better's clean electricity program, methane fees, EV incentives), then ext..."
 last-updated: 2026-04-13
 source-tier: 1
 parent: null
@@ -34,7 +34,7 @@ donors: [[Fossil Fuel Bloc]]
 
 ## Who He Is
 
-Joe Manchin. Former U.S. Senator from West Virginia (2010–2025). Former Governor of West Virginia (2005–2010). Switched from Democrat to Independent in 2024 after declining to seek reelection. Explored a No Labels presidential bid before withdrawing. Founder of Enersystems Inc., a coal brokerage firm that paid him ~$500,000/year in dividends while he served in the Senate. Daughter Heather Bresch served as CEO of Mylan Pharmaceuticals during the EpiPen price scandal (391% increase). Net worth: ~$8 million.
+Joe Manchin. Former U.S. Senator from West Virginia (2010–2025). Former Governor of West Virginia (2005–2010). Switched from Democrat to Independent in 2024 after declining to seek reelection. Explored a No Labels presidential bid before withdrawing. Founder of Enersystems Inc. a coal brokerage firm that paid him ~$500,000/year in dividends while he served in the Senate. Daughter Heather Bresch served as CEO of Mylan Pharmaceuticals during the EpiPen price scandal (391% increase). Net worth: ~$8 million.
 
 ---
 
@@ -59,7 +59,7 @@ Joe Manchin. Former U.S. Senator from West Virginia (2010–2025). Former Govern
 |---|---|---|---|---|
 | 2005–2010 (House/Special) | $109,850 | $178,700 | ~$342K | $646,248 |
 | 2007–2012 (Senate) | $263,650 | $388,200 | ~$683K | $1,404,648 |
-| 2013–2018 (Senate) | $172,095 | $169,252 | — | $437,090 |
+| 2013–2018 (Senate) | $172,095 | $169,252 |, | $437,090 |
 | 2017–2022 (Senate) | $1,243,116 | $552,107 | Included | $2,246,567 |
 | **Career Total** | **~$1.2M+** | **$647,452** | **#1 industry 2010, 2012** | **$5M+** |
 
@@ -74,13 +74,13 @@ Sources: [OpenSecrets Industries pages, 2010–2022 cycles](https://www.fec.gov/
 ---
 
 ### The Personal Coal Income:
-- [[Enersystems and the Personal Coal Fortune]] — $5.2M in dividends (2011–2020), ~$500K/year. Peak annual income: $613K (2022). Company buys waste coal, sells to Grant Town Power Plant. Every climate policy that closes coal plants reduces Manchin's personal income. He didn't need coal donors to tell him how to vote — his bank account told him.
+- [[Enersystems and the Personal Coal Fortune]], $5.2M in dividends (2011–2020), ~$500K/year. Peak annual income: $613K (2022). Company buys waste coal, sells to Grant Town Power Plant. Every climate policy that closes coal plants reduces Manchin's personal income. He didn't need coal donors to tell him how to vote, his bank account told him.
 
 ### The Legislative Kill Shot:
-- [[The BBB Kill and IRA Fossil Fuel Concessions]] — Killed $186B in BBB climate provisions single-handedly. Extracted Mountain Valley Pipeline (303-mile natural gas pipeline, legislative mandate bypassing courts), mandatory fossil fuel lease sales tied to renewables, weakened methane fees. The IRA's "climate bill" structurally guarantees continued fossil fuel extraction because Manchin demanded it.
+- [[The BBB Kill and IRA Fossil Fuel Concessions]]. Killed $186B in BBB climate provisions single-handedly. Extracted Mountain Valley Pipeline (303-mile natural gas pipeline, legislative mandate bypassing courts), mandatory fossil fuel lease sales tied to renewables, weakened methane fees. The IRA's "climate bill" structurally guarantees continued fossil fuel extraction because Manchin demanded it.
 
 ### The Family Pharma Extraction:
-- [[The Bresch-EpiPen Scandal and Family Enrichment]] — Daughter Heather Bresch: Mylan CEO, $18.9M/year compensation. EpiPen: $57 → $609 (391% increase). WVU retroactively awarded Bresch an MBA she didn't earn while Manchin was governor. Manchin said he was "very proud of her." The senator represents America's poorest state; his daughter extracted wealth from it by pricing medication beyond reach.
+- [[The Bresch-EpiPen Scandal and Family Enrichment]]. Daughter Heather Bresch: Mylan CEO, $18.9M/year compensation. EpiPen: $57 → $609 (391% increase). WVU retroactively awarded Bresch an MBA she didn't earn while Manchin was governor. Manchin said he was "very proud of her." The senator represents America's poorest state; his daughter extracted wealth from it by pricing medication beyond reach.
 
 ---
 
@@ -109,19 +109,19 @@ Manchin and [[_Kyrsten Sinema Master Profile|Kyrsten Sinema]] operated as a two-
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2011-2024 | [[Enersystems and the Personal Coal Fortune|Enersystems]] (Manchin's own coal brokerage) | $500K–$613K/year personal dividends; $5.2M+ total (2011–2020) | Ongoing (entire Senate career) | Every climate vote serves his personal financial interest — Enersystems income and fossil fuel donor interests are identical |
+| 2011-2024 | [[Enersystems and the Personal Coal Fortune|Enersystems]] (Manchin's own coal brokerage) | $500K–$613K/year personal dividends; $5.2M+ total (2011–2020) | Ongoing (entire Senate career) | Every climate vote serves his personal financial interest. Enersystems income and fossil fuel donor interests are identical |
 | 2021 Q3 (Jul–Oct) | Oil/gas executives: [[ConocoPhillips|Ryan Lance]] (CEO), [[Kelcy Warren]] (Energy Transfer), [[Harold Hamm]] (Continental), Jeffery Hildebrand (Hilcorp), Richard Kinder (Kinder Morgan) | $400K+ in single quarter | Jul 2021 (3 months before CEPP kill) | **Most documented donation-to-policy sequence in vault:** Manchin kills $150B Clean Energy Performance Program within 6 weeks of $400K fossil fuel surge. PACs from all six donors maxed at $5K each simultaneously |
-| 2021 Q3 (Jul–Oct) | Company PACs: [[ConocoPhillips]] PAC, [[Energy Transfer Partners]] PAC, HollyFrontier PAC, Williams PAC, Plains All American PAC, [[Enterprise Products Partners]] PAC | 6 PACs × $5K = $30K | Jul 2021 (same quarter) | CEPP killed Oct 15, 2021 — coordinated PAC donations across all major pipeline/production operators |
+| 2021 Q3 (Jul–Oct) | Company PACs: [[ConocoPhillips]] PAC, [[Energy Transfer Partners]] PAC, HollyFrontier PAC, Williams PAC, Plains All American PAC, [[Enterprise Products Partners]] PAC | 6 PACs × $5K = $30K | Jul 2021 (same quarter) | CEPP killed Oct 15, 2021, coordinated PAC donations across all major pipeline/production operators |
 | 2021-11 | Oil/gas industry + electric utility PACs | $336.5K cumulative (131K oil/gas PACs + 205.5K utility PACs) | 2015-2021 | Torpedoes Build Back Better: kills $186B in climate provisions (CEPP, methane fees, EV incentives, clean electricity fund) |
 | 2022-07 | [[Enterprise Products Partners]] (top donor: $159K cycle total; son-in-law employed there since 2020) | $159K cumulative 2017–2022; lobbied for 45Q carbon capture credit | 2017-2022 | IRA passed with 45Q carbon capture tax credit (Manchin demanded this in July 2021 memo to Schumer). Enterprise positioned for "game changer" CCS business |
 | 2022-08 | Fossil fuel + utility donors (IRA negotiations) | Part of career $2.2M+ energy sector donations | 2021-2022 | IRA signed with Manchin's fossil fuel concessions: mandatory offshore/onshore oil & gas lease sales tied to renewable approvals; Mountain Valley Pipeline mandate; weaker methane fees |
-| 2022-02 | [[Equitrans Midstream]] (MVP co-owner) + related pipeline donors | $15,800+ (2017–2022 cycle) | 2021-2022 | Mountain Valley Pipeline inserted as standalone permitting reform rider—303-mile pipeline approved via congressional mandate bypassing environmental court review |
+| 2022-02 | [[Equitrans Midstream]] (MVP co-owner) + related pipeline donors | $15,800+ (2017–2022 cycle) | 2021-2022 | Mountain Valley Pipeline inserted as standalone permitting reform rider, 303-mile pipeline approved via congressional mandate bypassing environmental court review |
 
 #### Dark Money / Post-Senate Capitalization
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2023-09 | No Labels ($70M anonymous corporate money) | $70M organizational backing | 2023 | Manchin explores presidential bid funded by anonymous corporate donors — the exploration demonstrates national corporate networks willing to fund his donor-class protection |
+| 2023-09 | No Labels ($70M anonymous corporate money) | $70M organizational backing | 2023 | Manchin explores presidential bid funded by anonymous corporate donors, the exploration demonstrates national corporate networks willing to fund his donor-class protection |
 | 2024-11 | Lobbying/advisory industry | Enersystems continues operating | Post-Senate | Senate term ends; transitions to lobbying/advisory; $500K/year coal income continues regardless |
 
 > [!money]
@@ -131,7 +131,7 @@ Manchin and [[_Kyrsten Sinema Master Profile|Kyrsten Sinema]] operated as a two-
 
 ### No Labels and the Dark Money Presidential Flirtation
 
-No Labels — the "centrist" organization funded by $70 million in largely anonymous corporate money — recruited Manchin for a potential 2024 presidential run. The organization's donor base includes corporate interests who wanted a spoiler candidate to prevent progressive legislation.
+No Labels, the "centrist" organization funded by $70 million in largely anonymous corporate money, recruited Manchin for a potential 2024 presidential run. The organization's donor base includes corporate interests who wanted a spoiler candidate to prevent progressive legislation.
 
 Manchin attended No Labels events, publicly considered the bid, and ultimately declined in February 2024. The exploration itself served a purpose: it demonstrated that Manchin's donor-class relationships extended beyond West Virginia coal into national corporate networks willing to fund a presidential campaign to protect their interests.
 
@@ -139,9 +139,9 @@ Manchin attended No Labels events, publicly considered the bid, and ultimately d
 
 ## Rhetorical Signature Moves
 
-1. **The reluctant no:** "I just can't get there" — Manchin frames every donor-class vote as a painful personal struggle. The reluctance is the brand. The anguish is performed. The vote is predetermined by the financial interest.
-2. **The houseboat:** Manchin lives on a houseboat docked on the Potomac — "Almost Heaven," named after the John Denver song about West Virginia. The folksy touch masks the $500,000/year coal income and the $8 million net worth.
-3. **The bipartisan fetish:** "I just want to find common ground." In practice, "bipartisan" means the position that both parties' donor classes can accept — which is always the position that protects existing wealth.
+1. **The reluctant no:** "I just can't get there". Manchin frames every donor-class vote as a painful personal struggle. The reluctance is the brand. The anguish is performed. The vote is predetermined by the financial interest.
+2. **The houseboat:** Manchin lives on a houseboat docked on the Potomac, "Almost Heaven," named after the John Denver song about West Virginia. The folksy touch masks the $500,000/year coal income and the $8 million net worth.
+3. **The bipartisan fetish:** "I just want to find common ground." In practice, "bipartisan" means the position that both parties' donor classes can accept, which is always the position that protects existing wealth.
 4. **The West Virginia defense:** "I have to represent my state." But West Virginia's interests (healthcare, opioid treatment, economic diversification) conflict directly with Manchin's donor interests (continued fossil fuel dependency, pharmaceutical pricing freedom, no climate transition).
 
 ---
@@ -160,9 +160,9 @@ The Manchin-Kyrsten Sinema bloc functioned as the donor class's two-person insur
 
 ## Analytical Patterns
 
-**The Villain Framing** — Manchin frames his coal industry opposition to climate policy as representing the interests of West Virginia constituents ("I have to represent my state") rather than acknowledging that his personal coal income ($500K/year from Enersystems) creates identical interests with fossil fuel donors. When critics point to his conflict of interest, he frames opposition to his votes as coastal elitist condescension to West Virginia values, converting structural class analysis into regional resentment.
+**The Villain Framing**. Manchin frames his coal industry opposition to climate policy as representing the interests of West Virginia constituents ("I have to represent my state") rather than acknowledging that his personal coal income ($500K/year from Enersystems) creates identical interests with fossil fuel donors. When critics point to his conflict of interest, he frames opposition to his votes as coastal elitist condescension to West Virginia values, converting structural class analysis into regional resentment.
 
-**The Genuine Win + Structural Limit** — Manchin's position as the sole Senate Democrat capable of killing legislation created genuine leverage for specific policy outcomes (Mountain Valley Pipeline approval, fossil fuel lease sales tied to renewable permitting, weaker methane fees in the IRA). These are real wins for the fossil fuel industry. However, they stop short of structural advantage: the Inflation Reduction Act still passed with significant climate investments ($369B). The structural limit is that even a senator with veto power over his party's legislation cannot prevent legislation entirely — he can only constrain it to formats that serve donor interests.
+**The Genuine Win + Structural Limit**. Manchin's position as the sole Senate Democrat capable of killing legislation created genuine leverage for specific policy outcomes (Mountain Valley Pipeline approval, fossil fuel lease sales tied to renewable permitting, weaker methane fees in the IRA). These are real wins for the fossil fuel industry. However, they stop short of structural advantage: the Inflation Reduction Act still passed with significant climate investments ($369B). The structural limit is that even a senator with veto power over his party's legislation cannot prevent legislation entirely, he can only constrain it to formats that serve donor interests.
 
 ---
 

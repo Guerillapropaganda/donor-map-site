@@ -1,8 +1,8 @@
 ---
-title: "Tom Steyer Master Profile"
+title: "Tom Steyer"
 type: politician
 content-readiness: draft
-central-thesis: "Tom Steyer is the billionaire who wants to tax billionaires — the donor class's self-appointed class traitor. His campaign is built on the most visible contradiction in this vault: a man who made billions from fossil fuel hedge fund investments no..."
+central-thesis: "Tom Steyer is the billionaire who wants to tax billionaires , the donor class's self-appointed class traitor. His campaign is built on the most visible contradiction in this vault: a man who made billions from fossil fuel hedge fund investments no..."
 last-updated: 2026-04-09
 source-tier: 1
 parent: null
@@ -59,31 +59,31 @@ Peak income: $189.3 million (2014). Combined income 2009–2017 with spouse: $1.
 Steyer's profile is unique in this vault: he is simultaneously the donor and the candidate. There is no external donor class map because the money comes from one person.
 
 ### The Self-Funding Machine:
-- [[The Self-Funded Billionaire Model]] — $66.7M into the 2026 race. 85% of all advertising spending in the governor's race. Burns $200K per 30-second primetime ad. The financial structure of buying an election outright.
+- [[The Self-Funded Billionaire Model]], $66.7M into the 2026 race. 85% of all advertising spending in the governor's race. Burns $200K per 30-second primetime ad. The financial structure of buying an election outright.
 
 ### The Fossil Fuel Fortune:
-- [[Farallon Capital and the Fossil Fuel Fortune]] — How Steyer made billions from exactly the industry he now opposes. The timeline of profit, divestment, and political reinvention.
+- [[Farallon Capital and the Fossil Fuel Fortune]]. How Steyer made billions from exactly the industry he now opposes. The timeline of profit, divestment, and political reinvention.
 
 ### The Political Infrastructure:
-- [[NextGen America and the Climate-to-Politics Pipeline]] — $170M+ spent since 2013 on climate-focused candidates. The PAC that built Steyer's political brand before he ran for anything.
+- [[NextGen America and the Climate-to-Politics Pipeline]], $170M+ spent since 2013 on climate-focused candidates. The PAC that built Steyer's political brand before he ran for anything.
 
 ### The Populist Paradox:
-- [[The Populist Billionaire Contradiction]] — CNA endorsement, single-payer healthcare, corporate taxation platform — all funded by one man's personal wealth. The class analysis of a billionaire running against billionaire power.
+- [[The Populist Billionaire Contradiction]]. CNA endorsement, single-payer healthcare, corporate taxation platform, all funded by one man's personal wealth. The class analysis of a billionaire running against billionaire power.
 
 ---
 
 ## Analytical Patterns
 
-**The Genuine Win + Structural Limit** — Steyer's NextGen America spending has genuinely elected climate-focused candidates to office and built grassroots climate infrastructure. These are real policy victories at the margin. But they stop short of structural change: fossil fuel production continues, carbon emissions continue, oil prices continue to control energy policy. His climate activism is real but bounded by the reality that individual politicians, even climate-focused ones, cannot overcome structural energy industry power. The structural limit: billions spent on climate candidates has not resulted in structural energy transformation.
+**The Genuine Win + Structural Limit**. Steyer's NextGen America spending has genuinely elected climate-focused candidates to office and built grassroots climate infrastructure. These are real policy victories at the margin. But they stop short of structural change: fossil fuel production continues, carbon emissions continue, oil prices continue to control energy policy. His climate activism is real but bounded by the reality that individual politicians, even climate-focused ones, cannot overcome structural energy industry power. The structural limit: billions spent on climate candidates has not resulted in structural energy transformation.
 
-**[[The Populist Billionaire Contradiction]]** — Steyer's entire campaign (self-funded, anti-corporate, pro-worker) is a billionaire performing populism. The contradiction is not hypocrisy but structural: a billionaire's personal fortune will never replace democratic power. Voters may temporarily trust Steyer because his wealth means he "won't be beholden to corporate interests," but the underlying relationship (one man's fortune, no matter how progressive, substituting for democratic control of resources) is oligarchic. He offers the solution to donor corruption (a bigger donor), not the elimination of donation-based politics.
+**[[The Populist Billionaire Contradiction]]**. Steyer's entire campaign (self-funded, anti-corporate, pro-worker) is a billionaire performing populism. The contradiction is not hypocrisy but structural: a billionaire's personal fortune will never replace democratic power. Voters may temporarily trust Steyer because his wealth means he "won't be beholden to corporate interests," but the underlying relationship (one man's fortune, no matter how progressive, substituting for democratic control of resources) is oligarchic. He offers the solution to donor corruption (a bigger donor), not the elimination of donation-based politics.
 
 ---
 
 ### Labor Coalition
 
-- **[[CNA - California Nurses Association|California Nurses Association]] (CNA):** Endorsed February 3, 2026 — cited single-payer healthcare commitment, corporate accountability, taxing billionaires/corporations
-- **United Domestic Workers (UDW/[[AFSCME - American Federation of State County and Municipal Employees|AFSCME]] Local 3930):** Endorsed — 250,000 home care and child care workers
+- **[[CNA - California Nurses Association|California Nurses Association]] (CNA):** Endorsed February 3, 2026, cited single-payer healthcare commitment, corporate accountability, taxing billionaires/corporations
+- **United Domestic Workers (UDW/[[AFSCME - American Federation of State County and Municipal Employees|AFSCME]] Local 3930):** Endorsed, 250,000 home care and child care workers
 - **California School Employees Association:** Endorsed
 - **California Federation of Labor:** Endorsed (shared with Porter, Swalwell, Villaraigosa)
 
@@ -94,7 +94,7 @@ Steyer's profile is unique in this vault: he is simultaneously the donor and the
 
 ### 2026 Race Position
 
-**Polling:** ~10–11% (third or fourth depending on poll). 37% unfavorable — tied with Porter for highest.
+**Polling:** ~10–11% (third or fourth depending on poll). 37% unfavorable, tied with Porter for highest.
 
 **Fundraising:** $66.7 million invested (almost entirely self-funded). Accounts for 85% of all advertising spending in the race. Outspends all other candidates combined 2-to-1.
 
@@ -125,7 +125,7 @@ Steyer's profile is unique in this vault: he is simultaneously the donor and the
 
 1. **The reformed sinner:** "I made money in fossil fuels, and then I changed." The conversion narrative makes climate credibility personal rather than structural.
 2. **The outsider billionaire:** "Sacramento is broken. I'm not part of it." Positions wealth as independence rather than privilege.
-3. **The affordability frame:** Every policy is about cost of living — housing, utilities, healthcare. Avoids ideological labels.
+3. **The affordability frame:** Every policy is about cost of living, housing, utilities, healthcare. Avoids ideological labels.
 4. **The self-funding defense:** "I don't take corporate money." Technically true because he doesn't need it. The defense obscures that self-funding is the ultimate form of donor-class politics.
 
 ---
@@ -138,16 +138,16 @@ Steyer's profile is unique in this vault: he is simultaneously the donor and the
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2003-10 | Farallon Capital (Steyer's hedge fund) → PT Kaltim Prima Coal | $200M approx. | 2003 investment | Coal mine financing enabling 41 million tons annual production through 2030+ — carbon emissions ongoing |
-| 2005-2008 | Farallon Capital → India Bulls Power | $158M (18% stake) | 2005-2008 investments | Coal-fired power generation expansion in India — extraction continues generating returns after Steyer exits |
-| 2012-10 | Steyer retires from Farallon | N/A | 26 years of fossil fuel-adjacent investing | Announces divestment and pivot to environmental activism — but Farallon investments continue operating |
+| 2003-10 | Farallon Capital (Steyer's hedge fund) → PT Kaltim Prima Coal | $200M approx. | 2003 investment | Coal mine financing enabling 41 million tons annual production through 2030+, carbon emissions ongoing |
+| 2005-2008 | Farallon Capital → India Bulls Power | $158M (18% stake) | 2005-2008 investments | Coal-fired power generation expansion in India, extraction continues generating returns after Steyer exits |
+| 2012-10 | Steyer retires from Farallon | N/A | 26 years of fossil fuel-adjacent investing | Announces divestment and pivot to environmental activism, but Farallon investments continue operating |
 
 #### Climate / Political Spending (2013-Present)
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
 | 2013 | Steyer personal funds → NextGen America | $170M+ total (2013-2017) | 2013-2017 cycles | PAC/501(c)(4) for climate candidate support; Democratic climate-focused Senate candidates funded |
-| 2014 | NextGen Climate → 2014 midterms | $74M (2014 cycle) | 2014 | Support for Democratic climate Senate candidates — spending-as-activism model established |
+| 2014 | NextGen Climate → 2014 midterms | $74M (2014 cycle) | 2014 | Support for Democratic climate Senate candidates, spending-as-activism model established |
 
 #### 2026 Governor Campaign (Self-Funded)
 
@@ -155,7 +155,7 @@ Steyer's profile is unique in this vault: he is simultaneously the donor and the
 |------|-------|--------|-------|----------------|
 | 2026-02 | California Nurses Association | Endorsement (in-kind) | 2026-02-03 | Single-payer healthcare commitment formalized in campaign platform |
 | 2026-03 | Steyer personal fortune → campaign | $66.7M total (ongoing) | 2025-2026 | "Make California Affordable" platform: break utility monopolies, single-payer healthcare, corporate tax increases; 85% of all statewide gubernatorial advertising |
-| 2026-03 | Steyer → campaign ad reservations | $36.6M+ in ad buys ($200K per 30-second spot) | 2026 | Spending-to-saturation model — outspends all other candidates combined in television advertising |
+| 2026-03 | Steyer → campaign ad reservations | $36.6M+ in ad buys ($200K per 30-second spot) | 2026 | Spending-to-saturation model, outspends all other candidates combined in television advertising |
 
 > [!money]
 > **26-year gap** between fossil fuel wealth extraction (1986-2012) and climate policy spending (2013+). The Farallon investments Steyer approved continue generating carbon emissions and industry profits; NextGen climate spending has not reversed the carbon impact of those earlier decisions. Steyer's climate activism is funded by the extracted value of the very fossil fuel investments he now opposes. His $66.7M self-funded governor campaign is the ultimate expression of the Self-Funding as Independence pattern: "I don't take corporate money" is technically true because he doesn't need it. The defense obscures that self-funding is the ultimate form of donor-class politics — the billionaire IS the donor class.
@@ -167,7 +167,7 @@ Steyer's profile is unique in this vault: he is simultaneously the donor and the
 - [SF Examiner: Steyer self-funding analysis](https://www.sfexaminer.com/news/politics/steyer-self-funding-spending-dwarfs-gubernatorial-rivals/article_111f9db5-5cb0-412b-b7bd-59825b45df7c.html) (Tier 2) (VERIFIED)
 - [Mercury News: Campaign spending breakdown](https://www.mercurynews.com/2026/02/03/california-governors-race-tom-steyer/) (Tier 2) (VERIFIED)
 - [TIME: The Billionaire Activist Who Wants to Be California's Governor](https://time.com/7335185/tom-steyer-california-governor-2026-billionaire-newsom/) (Tier 2) (VERIFIED)
-- ~~[OpenSecrets: Campaign Finance Data](https://www.opensecrets.org/members-of-congress/summary?displayname=Tom%20Steyer)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Campaign Finance Data](https://www.opensecrets.org/members-of-congress/summary?displayname=Tom%20Steyer)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - California Nurses Association: CNA endorsement announcement (Tier 1)
 - [CalMatters: Governor race reporting](https://calmatters.org/politics/2026/02/governors-race-fundraising-reports/) (Tier 2) (VERIFIED)
 - The Hill: Farallon divestment timeline (Tier 2)

@@ -45,7 +45,7 @@ As of March 2026, Ellison's net worth stands at approximately $201 billion, rank
 
 Ellison's business interests center on two strategic objectives: (1) securing and expanding government cloud infrastructure contracts for Oracle, and (2) positioning himself as a trusted intermediary between Silicon Valley technology and Trump-era national security policy. His political spending defends Oracle's position as a critical government technology vendor while ensuring regulatory environment favorable to tech consolidation.
 
-Oracle depends on three revenue streams tied directly to government relationships: Pentagon cloud computing contracts (JWCC), federal healthcare IT services ($1B+ annually from VA), and intelligence community surveillance infrastructure. Ellison's political alignment with Republicans—particularly Trump—reflects Oracle's structural dependence on military and intelligence budgets that expand under Republican administrations.
+Oracle depends on three revenue streams tied directly to government relationships: Pentagon cloud computing contracts (JWCC), federal healthcare IT services ($1B+ annually from VA), and intelligence community surveillance infrastructure. Ellison's political alignment with Republicans, particularly Trump, reflects Oracle's structural dependence on military and intelligence budgets that expand under Republican administrations.
 
 The TikTok deal (announced January 2026) reveals his third strategic priority: consolidating control over American digital media infrastructure. With his son David leading Paramount, the Ellisons now position themselves to control content distribution (Paramount), algorithmic recommendation (TikTok), and cloud infrastructure underlying both.
 
@@ -103,7 +103,7 @@ This creates a self-reinforcing cycle where:
 
 The distinction is critical: Ellison is not buying policy change (like a pharma donor lobbying FDA for drug approval). Ellison is buying *continued dependence*. Every dollar donated to Republican candidates who vote for Pentagon budgets returns multiples through JWCC task orders and intelligence community infrastructure upgrades.
 
-[!money] **Ellison's political donations are not campaign finance — they are security infrastructure maintenance fees.**
+[!money] **Ellison's political donations are not campaign finance, they are security infrastructure maintenance fees.**
 
 The TikTok deal demonstrates this mechanism in real time. Oracle did not invent a TikTok solution; Trump administration policy created the problem (forced divestment). Ellison positioned Oracle to provide the solution (cloud hosting + algorithm management). The "$14 billion deal" is actually a federal subsidy of Oracle cloud infrastructure, with American user data as the product.
 
@@ -127,15 +127,15 @@ The TikTok deal demonstrates this mechanism in real time. Oracle did not invent 
 
 | Date | Event | Amount | Outcome | Time Gap |
 |------|-------|--------|---------|----------|
-| 1977 | CIA contracts Oracle to build relational database | $50K initial | Oracle founded; CIA becomes founding customer | — |
-| 2008 | Obama presidency begins | — | Ellison tech advisor access continues across administrations | — |
-| 2012 | Lanai land purchase; Romney super PAC donations | $1M+ | Hawaii real estate empire begins; Republican alignment solidifies | — |
-| 2015 | Pentagon JEDI procurement announced | — | Oracle begins advocating for multi-vendor alternative | — |
-| 2020 | Trump reelection; Ellison 2020 fundraiser at Rancho Mirage estate | $500K+ | Trump support signaled; Ellison hosts six-figure donor events | — |
-| 2021 | JEDI contract canceled; JWCC multi-vendor approach adopted | — | Oracle lobbying success; positioned for JWCC awards | 1 year |
+| 1977 | CIA contracts Oracle to build relational database | $50K initial | Oracle founded; CIA becomes founding customer |, |
+| 2008 | Obama presidency begins |, | Ellison tech advisor access continues across administrations |, |
+| 2012 | Lanai land purchase; Romney super PAC donations | $1M+ | Hawaii real estate empire begins; Republican alignment solidifies |, |
+| 2015 | Pentagon JEDI procurement announced |, | Oracle begins advocating for multi-vendor alternative |, |
+| 2020 | Trump reelection; Ellison 2020 fundraiser at Rancho Mirage estate | $500K+ | Trump support signaled; Ellison hosts six-figure donor events |, |
+| 2021 | JEDI contract canceled; JWCC multi-vendor approach adopted |, | Oracle lobbying success; positioned for JWCC awards | 1 year |
 | 2022 | Opportunity Matters Fund donations begin; [[Tim Scott]] $15M | $31M total | Tim Scott elevated as Republican presidential prospect; Oracle access secured | 1 year |
-| 2023 | Lanai Hawaii residency abandoned; Palm Beach estate purchase ($173M) | — | Strategic repositioning near Trump Mar-a-Lago; Florida residency established | — |
-| 2024 | JWCC task orders begin; Ellison meets Trump at Mar-a-Lago | — | Pentagon infrastructure work begins; Trump transition alignment begins | — |
+| 2023 | Lanai Hawaii residency abandoned; Palm Beach estate purchase ($173M) |, | Strategic repositioning near Trump Mar-a-Lago; Florida residency established |, |
+| 2024 | JWCC task orders begin; Ellison meets Trump at Mar-a-Lago |, | Pentagon infrastructure work begins; Trump transition alignment begins |, |
 | 2026 | TikTok deal closes; Oracle controls US TikTok cloud/algorithm | $14B Oracle consortium | Regulatory capture complete; Ellison controls media recommendation infrastructure | 6 months |
 
 ### Sources
@@ -147,7 +147,7 @@ The TikTok deal demonstrates this mechanism in real time. Oracle did not invent 
 - [Yahoo Finance: Larry Ellison Palm Beach estate $173M near Mar-a-Lago](https://finance.yahoo.com/news/larry-ellison-makes-173-million-201947008.html) (Tier 2) (VERIFIED)
 - [NPR: TikTok Oracle-led ownership deal structure](https://www.npr.org/2025/01/25/g-s1-44779/tiktok-ban-deal-trump-oracle) (Tier 2) (VERIFIED)
 - [OpenSecrets News: Oracle invested millions in government influence before TikTok deal](https://www.opensecrets.org/news/2025/09/oracle-invested-millions-in-government-influence-before-winning-a-major-stake-in-tiktok/) (Tier 2) (VERIFIED)
-- ~~[Yahoo Finance: Larry Ellison net worth 2025 peak $393B](https://finance.yahoo.com/news/larry-ellison-net-worth-update-from-topping-musk-in-2025-to-losing-19-of-his-wealth-in-2026-203114110.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Yahoo Finance: Larry Ellison net worth 2025 peak $393B](https://finance.yahoo.com/news/larry-ellison-net-worth-update-from-topping-musk-in-2025-to-losing-19-of-his-wealth-in-2026-203114110.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Gizmodo: Larry Ellison's Oracle started as CIA project](https://gizmodo.com/larry-ellisons-oracle-started-as-a-cia-project-1636592238) (Tier 2) (VERIFIED)
 - [Fortune: Larry Ellison $450M Florida real estate investment](https://fortune.com/article/larry-ellison-florida-real-estate-450-million-mar-a-lago/) (Tier 2) (VERIFIED)
 
@@ -169,7 +169,7 @@ The TikTok deal demonstrates this mechanism in real time. Oracle did not invent 
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
 
-### Financial Overview (990 Filing — 2023)
+### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |
 |--------|--------|

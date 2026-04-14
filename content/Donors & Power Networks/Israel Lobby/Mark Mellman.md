@@ -32,7 +32,7 @@ tax-year: "2024"
 
 Mark Mellman. Democratic pollster and political consultant. Founder and president of The Mellman Group (polling and political strategy firm). Former President of the American Association of Political Consultants. Founded Democratic Majority for Israel (DMFI) on January 29, 2019, in direct response to polling showing declining support for Israel among Democrats and younger voters, coinciding with the election of Ilhan Omar and Rashida Tlaib.
 
-Mellman is the architect of the DMFI primary enforcement model documented extensively in [[DMFI - Democratic Majority for Israel|DMFI's profile]]. Under his leadership, DMFI and DMFI PAC intervened in Democratic primaries from 2020 forward to defeat progressive candidates who criticized Israeli policy — starting with the 2020 presidential primary attacks on [[_Bernie Sanders Master Profile|Bernie Sanders]] ($1.4M), continuing with the 2021 Ohio 11th special election against [[_Nina Turner Master Profile|Nina Turner]] ($2M+), and scaling through the 2022 and 2024 House primary cycles.
+Mellman is the architect of the DMFI primary enforcement model documented extensively in [[DMFI - Democratic Majority for Israel|DMFI's profile]]. Under his leadership, DMFI and DMFI PAC intervened in Democratic primaries from 2020 forward to defeat progressive candidates who criticized Israeli policy, starting with the 2020 presidential primary attacks on [[_Bernie Sanders Master Profile|Bernie Sanders]] ($1.4M), continuing with the 2021 Ohio 11th special election against [[_Nina Turner Master Profile|Nina Turner]] ($2M+), and scaling through the 2022 and 2024 House primary cycles.
 
 In May 2025, [[Brian Romick]] (former senior advisor to House Majority Leader Steny Hoyer) succeeded Mellman as DMFI President and CEO, with former Rep. [[Kathy Manning]] becoming Board Chair.
 
@@ -40,9 +40,9 @@ In May 2025, [[Brian Romick]] (former senior advisor to House Majority Leader St
 
 ## The Central Thesis
 
-*Stub — needs full development.*
+*Stub, needs full development.*
 
-Mellman is the operative layer of the Israel lobby's Democratic primary enforcement model. He does not provide capital (that comes from DMFI donors like Stacy Schusterman, Gary Lauder, Reid Hoffman) or the political brand (that's AIPAC's). He provides the strategic infrastructure — polling, messaging, targeting — that makes the spending effective inside Democratic primaries specifically. The DMFI-AIPAC division of labor documented in the vault exists because Mellman built the "Democratic brand" that AIPAC's bipartisan-but-Republican-heavy donor base could not credibly provide.
+Mellman is the operative layer of the Israel lobby's Democratic primary enforcement model. He does not provide capital (that comes from DMFI donors like Stacy Schusterman, Gary Lauder, Reid Hoffman) or the political brand (that's AIPAC's). He provides the strategic infrastructure, polling, messaging, targeting, that makes the spending effective inside Democratic primaries specifically. The DMFI-AIPAC division of labor documented in the vault exists because Mellman built the "Democratic brand" that AIPAC's bipartisan-but-Republican-heavy donor base could not credibly provide.
 
 ---
 

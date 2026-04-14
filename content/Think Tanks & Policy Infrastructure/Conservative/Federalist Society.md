@@ -1,19 +1,59 @@
 ---
-title: "Federalist Society"
+title: Federalist Society
 type: think-tank
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: '2026-04-14'
 source-tier: 1
 parent: null
 category: conservative
 tax-status: 501c3
-related: "[[Leonard Leo]] · [[Koch Network - Charles Koch]] · [[DonorsTrust]] · [[Bradley Foundation]] · [[Marble Freedom Trust]] · [[The 85 Fund]] · [[Judicial Crisis Network]] · [[Barre Seid]] · [[Harlan Crow]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Economic Policy Institute]] · [[Center on Budget and Policy Priorities]] · [[Center for American Progress]] · [[Brennan Center for Justice]] · [[Mercatus Center]] · [[Heartland Institute]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[RAND Corporation]] · [[Council on Foreign Relations]] · [[Center for a New American Security]] · [[Brookings Institution]] · [[Atlantic Council]] · [[Aspen Institute]] · [[The SCOTUS Capture - From Bork to Barrett]] · [[The Both-Sides Dark Money Illusion]] · [[People of Praise and the Federalist Society as Parallel Selection Pipelines]] · [[Alexander Acosta Master Profile]] · [[Mike Lee]] · [[Chuck Grassley]] · [[The Judiciary-Agriculture Dual Pipeline]] · [[Three Justices in Four Years - The Leonard Leo Investment and Its Returns]] · [[Project 2025 - The Blueprint They Followed]] · [[Sheldon Whitehouse]]"
+related: >-
+  [[Leonard Leo]] · [[Koch Network - Charles Koch]] · [[DonorsTrust]] ·
+  [[Bradley Foundation]] · [[Marble Freedom Trust]] · [[The 85 Fund]] ·
+  [[Judicial Crisis Network]] · [[Barre Seid]] · [[Harlan Crow]] ·
+  [[Cross-Think-Tank Donor Map , The Both-Sides Illusion With Receipts]] ·
+  [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover
+  Institution]] · [[Heritage Foundation]] · [[The Think Tank Money Map , Budget,
+  Funding Sources, and the Illusion of Independence]] · [[The Revolving Door , A
+  Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline , How Think
+  Tank Research Becomes Law]] · [[Urban Institute]] · [[Economic Policy
+  Institute]] · [[Center on Budget and Policy Priorities]] · [[Center for
+  American Progress]] · [[Brennan Center for Justice]] · [[Mercatus Center]] ·
+  [[Heartland Institute]] · [[Claremont Institute]] · [[Cato Institute]] ·
+  [[American Enterprise Institute]] · [[Third Way]] · [[RAND Corporation]] ·
+  [[Council on Foreign Relations]] · [[Center for a New American Security]] ·
+  [[Brookings Institution]] · [[Atlantic Council]] · [[Aspen Institute]] · [[The
+  SCOTUS Capture - From Bork to Barrett]] · [[The Both-Sides Dark Money
+  Illusion]] · [[People of Praise and the Federalist Society as Parallel
+  Selection Pipelines]] · [[Alexander Acosta Master Profile]] · [[Mike Lee]] ·
+  [[Chuck Grassley]] · [[The Judiciary-Agriculture Dual Pipeline]] · [[Three
+  Justices in Four Years - The Leonard Leo Investment and Its Returns]] ·
+  [[Project 2025 - The Blueprint They Followed]] · [[Sheldon Whitehouse]]
 federal-register-mentions: 2
-last-enriched: "2026-04-11"
+last-enriched: '2026-04-11'
 regulatory-agencies:
-  - "Federal Trade Commission"
-ein: "815109948"
-nonprofit-status: "501(c)(3)"
+  - Federal Trade Commission
+ein: '815109948'
+nonprofit-status: 501(c)(3)
+sec-filings: 677
+sec-form-types:
+  - 10-K
+  - 10-K/A
+  - 424B3
+  - '497'
+  - 8-K
+  - DEF 14A
+  - DEFA14A
+  - DEFC14A
+  - EX-1
+  - EX-10.1
+  - EX-99.(E)
+  - EX-99.1
+  - N-CSR
+  - N-CSRS
+  - PRE 14A
+  - PX14A6G
+  - U-13-60
 ---
 
 #think-tank #conservative #judicial #federalist-society #leonard-leo #scotus #judicial-pipeline #originalism #dark-money #deregulation
@@ -211,14 +251,14 @@ The structural function: the Federalist Society converts donor money into judici
 - [ProPublica: How a Secretive Billionaire Handed His Fortune to Leo (Barre Seid / Marble Freedom Trust)](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (Tier 2) (VERIFIED)
 - [CREW: Leonard Leo's Firm Rakes In Millions from Dark Money Network](https://www.citizensforethics.org/reports-investigations/crew-investigations/leonard-leos-firm-continues-to-rake-in-millions-from-his-own-dark-money-network/) (Tier 2) (VERIFIED)
 - [CREW: Leo-Tied Nonprofits Paid His Businesses $90 Million](https://www.citizensforethics.org/reports-investigations/crew-investigations/leonard-leo-tied-nonprofits-businesses-88-million/) (Tier 2) (VERIFIED)
-- ~~[CMD: DonorsTrust Funneled $134 Million to Right-Wing Groups in 2022](https://www.exposedbycmd.org/2023/11/17/donorstrust-funneled-134-million-to-right-wing-groups-in-2022/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[Yale Daily News: How the Federalist Society Shaped America's Judiciary](https://yaledailynews.com/blog/2024/11/04/how-the-federalist-society-shaped-americas-judiciary/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[CMD: DonorsTrust Funneled $134 Million to Right-Wing Groups in 2022](https://www.exposedbycmd.org/2023/11/17/donorstrust-funneled-134-million-to-right-wing-groups-in-2022/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Yale Daily News: How the Federalist Society Shaped America's Judiciary](https://yaledailynews.com/blog/2024/11/04/how-the-federalist-society-shaped-americas-judiciary/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [NBC News: Trump Aims to Build a MAGA Judiciary, Breaking with Traditional Conservatives](https://www.nbcnews.com/politics/trump-administration/trump-aims-build-maga-judiciary-breaking-traditional-conservatives-rcna210785) (Tier 2) (VERIFIED)
 - [Christian Science Monitor: Trump's Attacks on Federalist Society Signal a Search for MAGA Judges](https://www.csmonitor.com/USA/Justice/2025/0604/trump-leonard-leo-federalist-society) (Tier 2) (VERIFIED)
 - [Bloomberg Law: Trump's First Judicial Nominees Have Federalist Society Ties](https://news.bloomberglaw.com/us-law-week/trumps-first-judicial-nominees-have-federalist-society-ties) (Tier 2) (VERIFIED)
 - [Roll Call: Trump's 2025 Saw 26 Lifetime Judicial Nominees Approved](https://rollcall.com/2025/12/30/trumps-2025-saw-26-lifetime-judicial-nominees-approved/) (Tier 2) (VERIFIED)
 - [Senator Whitehouse: The Third Federalist Society (Scheme Speech)](https://www.whitehouse.senate.gov/news/speeches/the-third-federalist-society/) (Tier 2) (VERIFIED)
-- ~~[Time: Trump Calls Leo "Sleazebag," Criticizes Federalist Society](https://time.com/7289940/trump-federalist-society-leonard-leo-sleazebag-bad-advice-judges-tariffs/g-bad-advice-judges-tariffs/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Time: Trump Calls Leo "Sleazebag," Criticizes Federalist Society](https://time.com/7289940/trump-federalist-society-leonard-leo-sleazebag-bad-advice-judges-tariffs/g-bad-advice-judges-tariffs/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [CNN: Massive Dark Money Donation, $1.6 Billion to Conservative Group](https://www.cnn.com/2022/08/22/politics/dark-money-donation-conservative-group-invs) (Tier 2) (VERIFIED)
 - [The Leadership Conference: Project 2025 and the Project to Take Over Our Courts](https://civilrights.org/blog/project-2025-and-the-project-to-take-over-our-courts-and-our-rights/) (Tier 3) (VERIFIED)
 - [The Intercept: Leonard Leo Is Funneling Dark Money Into Law Schools](https://theintercept.com/2024/05/29/leonard-leo-donor-law-schools/) (Tier 2) (VERIFIED)
@@ -227,7 +267,7 @@ The structural function: the Federalist Society converts donor money into judici
 - [Senator Whitehouse: Scheme 18. Leonard Leo's $1.6 Billion Payday](https://www.whitehouse.senate.gov/news/speeches/scheme-18_leonard-leos-16-billion-payday/) (Tier 2) (VERIFIED)
 - [Courthouse News: House GOP Slams DC Attorney General Investigating Leonard Leo Nonprofits](https://www.courthousenews.com/house-gop-slam-d-c-attorney-general-investigating-leonard-leo-nonprofits/) (Tier 2) (VERIFIED)
 - [Rolling Stone: Supreme Court Architect Leonard Leo Expands His Dark-Money Operation](https://www.rollingstone.com/politics/politics-features/leonard-leo-dark-money-supreme-court-trump-1234972151/) (Tier 2) (VERIFIED)
-- ~~[Politico: Trump Goes After Leonard Leo and the Federalist Society in Fury Over Court Ruling (May 29, 2025)](https://www.politico.com/news/2025/05/29/trump-goes-after-leonard-leo-and-the-federalist-society-in-fury-over-court-ruling-00375813)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Politico: Trump Goes After Leonard Leo and the Federalist Society in Fury Over Court Ruling (May 29, 2025)](https://www.politico.com/news/2025/05/29/trump-goes-after-leonard-leo-and-the-federalist-society-in-fury-over-court-ruling-00375813)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ---
 

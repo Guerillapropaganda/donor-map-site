@@ -1,5 +1,5 @@
 ---
-title: "Cory Mills Master Profile"
+title: "Cory Mills"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

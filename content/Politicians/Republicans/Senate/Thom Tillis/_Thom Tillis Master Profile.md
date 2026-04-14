@@ -1,5 +1,5 @@
 ---
-title: Thom Tillis Master Profile
+title: Thom Tillis
 type: politician
 content-readiness: ready
 central-thesis: "Thom Tillis is the pharmaceutical industry's most documented senator in the vault's research. His opposition to drug pricing reform, his intellectual property hawkishness, and his consistent legislative service to pharmaceutical and biotech intere..."
@@ -59,13 +59,13 @@ donors: [[Pharmaceutical Industry Bloc]], [[Tech IP and Patent Lobbying]], [[Koc
 
 ## Who He Is
 
-Thom Tillis. U.S. Senator from North Carolina (2015–2025, retired). Born August 30, 1960, in Jacksonville, Florida. Businessman and real estate developer. Served as North Carolina House Speaker (2011–2014) before being elected to Senate. Announced June 29, 2025, that he would not seek reelection to a third term in 2026. Narrowly reelected in 2020 (50.7%), raising concerns about 2026 vulnerability in a swing state. The pharmaceutical industry's most reliable Senate investment—with voting record and legislative sponsorship data to prove it.
+Thom Tillis. U.S. Senator from North Carolina (2015–2025, retired). Born August 30, 1960, in Jacksonville, Florida. Businessman and real estate developer. Served as North Carolina House Speaker (2011–2014) before being elected to Senate. Announced June 29, 2025, that he would not seek reelection to a third term in 2026. Narrowly reelected in 2020 (50.7%), raising concerns about 2026 vulnerability in a swing state. The pharmaceutical industry's most reliable Senate investment, with voting record and legislative sponsorship data to prove it.
 
 ---
 
 ## The Central Thesis
 
-Thom Tillis is the pharmaceutical industry's most documented senator in the vault's research. His opposition to drug pricing reform, his intellectual property hawkishness, and his consistent legislative service to pharmaceutical and biotech interests trace directly to pharmaceutical industry donations. The North Carolina Research Triangle (home to major pharma, biotech, and life sciences companies: Novo Nordisk, GlaxoSmithKline, Biogen facilities) makes the donor-policy connection geographic as well as financial. Tillis didn't become the pharma-friendly senator because he was pre-disposed to that position—he became it because the industry funded him to become it. His voting record and legislative sponsorship provide a detailed map of pharmaceutical industry preferences translated into Senate action.
+Thom Tillis is the pharmaceutical industry's most documented senator in the vault's research. His opposition to drug pricing reform, his intellectual property hawkishness, and his consistent legislative service to pharmaceutical and biotech interests trace directly to pharmaceutical industry donations. The North Carolina Research Triangle (home to major pharma, biotech, and life sciences companies: Novo Nordisk, GlaxoSmithKline, Biogen facilities) makes the donor-policy connection geographic as well as financial. Tillis didn't become the pharma-friendly senator because he was pre-disposed to that position, he became it because the industry funded him to become it. His voting record and legislative sponsorship provide a detailed map of pharmaceutical industry preferences translated into Senate action.
 
 ---
 
@@ -85,7 +85,7 @@ Thom Tillis is the pharmaceutical industry's most documented senator in the vaul
 ## Donor Class Map
 
 ### Pharmaceutical and Biotech Industry:
-- [[Pharmaceutical Industry Bloc]] — The primary beneficiary of Tillis's legislative record. $156,000+ from pharma PACs in 2019 alone (largest total of any Congress member). Top donors: Genentech ($22,500, documented largest), Biogen ($20,000), Pfizer ($20,000), Amgen ($19,500). Across his Senate career (2015–2025), documented pharma donations: $262,126+. Tillis's legislative sponsorship of pharma-friendly bills (Lower Costs, More Cures Act, patent extension provisions in multiple bills) directly benefited these donors.
+- [[Pharmaceutical Industry Bloc]]. The primary beneficiary of Tillis's legislative record. $156,000+ from pharma PACs in 2019 alone (largest total of any Congress member). Top donors: Genentech ($22,500, documented largest), Biogen ($20,000), Pfizer ($20,000), Amgen ($19,500). Across his Senate career (2015–2025), documented pharma donations: $262,126+. Tillis's legislative sponsorship of pharma-friendly bills (Lower Costs, More Cures Act, patent extension provisions in multiple bills) directly benefited these donors.
 
 ### Intellectual Property and Patent Protection:
 - Tech and pharmaceutical industries converge on intellectual property protection. Tillis has been aggressive on patent defense, opposing measures that would weaken pharmaceutical patent monopolies. This alignment serves both pharma (drug patents) and tech (software patents, trade secret protection).
@@ -100,28 +100,28 @@ Thom Tillis is the pharmaceutical industry's most documented senator in the vaul
 
 ## Donation-to-Policy Timeline
 
-*Note: Tillis received more pharma PAC money than any other Congress member in 2019 ($156K+) and co-sponsored the industry-preferred alternative to Grassley's drug pricing cap within weeks of peak donation accumulation. The timing is not coincidental — the industry was purchasing legislative sponsorship.*
+*Note: Tillis received more pharma PAC money than any other Congress member in 2019 ($156K+) and co-sponsored the industry-preferred alternative to Grassley's drug pricing cap within weeks of peak donation accumulation. The timing is not coincidental, the industry was purchasing legislative sponsorship.*
 
 #### Pharmaceutical Industry / Drug Pricing Opposition
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2019-12 | Pharmaceutical PACs — Genentech ($22,500), Biogen ($20,000), Pfizer ($20,000), Amgen ($19,500); largest pharma PAC recipient in Congress | $156,000+ pharma PACs in 2019 alone; $262,126+ career | 2019 Q1-Q4 | Co-sponsors "Lower Costs, More Cures Act" (Dec 19, 2019) — pharma-friendly alternative to Grassley's drug pricing cap; receives $20K+ pharma donations within one week of sponsorship |
-| 2020-01 | Same pharmaceutical PAC network — reward cycle for sponsoring industry-preferred legislation | Part of $262K+ career pharma | 2019–2020 ongoing | Publicly opposes Grassley's drug pricing cap provisions (Jan 2020); consistent opposition to drug price negotiation throughout Senate career |
+| 2019-12 | Pharmaceutical PACs. Genentech ($22,500), Biogen ($20,000), Pfizer ($20,000), Amgen ($19,500); largest pharma PAC recipient in Congress | $156,000+ pharma PACs in 2019 alone; $262,126+ career | 2019 Q1-Q4 | Co-sponsors "Lower Costs, More Cures Act" (Dec 19, 2019), pharma-friendly alternative to Grassley's drug pricing cap; receives $20K+ pharma donations within one week of sponsorship |
+| 2020-01 | Same pharmaceutical PAC network, reward cycle for sponsoring industry-preferred legislation | Part of $262K+ career pharma | 2019–2020 ongoing | Publicly opposes Grassley's drug pricing cap provisions (Jan 2020); consistent opposition to drug price negotiation throughout Senate career |
 
 #### Patent Protection / Research Triangle Geography
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2015-2025 | North Carolina Research Triangle biotech — Novo Nordisk, GlaxoSmithKline, Biogen facilities; geographic donor base framed as "local business support" | Part of career pharma/biotech funding | 2015–2025 ongoing | Patent extension provisions in multiple bills; opposition to weakening pharmaceutical patent monopolies; geographic proximity frames industry capture as constituency service |
+| 2015-2025 | North Carolina Research Triangle biotech. Novo Nordisk, GlaxoSmithKline, Biogen facilities; geographic donor base framed as "local business support" | Part of career pharma/biotech funding | 2015–2025 ongoing | Patent extension provisions in multiple bills; opposition to weakening pharmaceutical patent monopolies; geographic proximity frames industry capture as constituency service |
 | 2024-Q3 | Final-cycle pharma PAC contributions despite retirement vulnerability | Pharma PACs maintain support through final cycle | 2024 | Relationship stable through retirement announcement (June 29, 2025); pharmaceutical industry investment preserved without policy reversion risk |
 
 #### Immigration Collapse / Trump Deference
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2024-02 | Immigration deal collapse — Tillis calls bipartisan border bill "extraordinary tools," then flips when Trump opposes it | Political capital spent | 2024 | Votes against his own bill; calls killing it "immoral" but defers to Trump pressure; immigration brand was theater — pharmaceutical positioning, by contrast, never collapsed |
-| 2025-06 | Retirement announcement — exits before 2026 vulnerability in swing state | $0 (preserves exit) | 2025 | Avoids competitive primary (Trump-aligned) and general (Democratic turnout); pharmaceutical industry retains investment without reelection risk |
+| 2024-02 | Immigration deal collapse. Tillis calls bipartisan border bill "extraordinary tools," then flips when Trump opposes it | Political capital spent | 2024 | Votes against his own bill; calls killing it "immoral" but defers to Trump pressure; immigration brand was theater, pharmaceutical positioning, by contrast, never collapsed |
+| 2025-06 | Retirement announcement, exits before 2026 vulnerability in swing state | $0 (preserves exit) | 2025 | Avoids competitive primary (Trump-aligned) and general (Democratic turnout); pharmaceutical industry retains investment without reelection risk |
 
 > [!money] The Documented Pattern
 > Tillis's relationship with the pharmaceutical industry is the vault's clearest example of pharmaceutical PAC donation-to-legislation timing. He received more pharma PAC money than any other Congress member in 2019 ($156,000+) and co-sponsored the industry-preferred alternative to Grassley's drug pricing proposal within weeks of peak donation accumulation. The timing is not coincidental. The industry was purchasing legislative sponsorship.
@@ -140,9 +140,9 @@ The class function is clear when you compare Tillis's pharmaceutical positioning
 
 ## Analytical Patterns
 
-**The Genuine Win + Structural Limit** — Tillis has secured genuine policy victories on pharmaceutical industry protection: opposition to drug price caps, support for patent extension provisions, advocacy for innovation incentives without price controls. These are real, material wins that benefit pharmaceutical PAC donors and his North Carolina biotech district. However, the victories stop short of threatening the underlying pharmaceutical profit extraction mechanism: innovation incentives preserve patent monopolies rather than challenging pharmaceutical pricing power structures; opposition to price negotiation maintains industry revenue extraction while avoiding broader questions about healthcare access equity.
+**The Genuine Win + Structural Limit**. Tillis has secured genuine policy victories on pharmaceutical industry protection: opposition to drug price caps, support for patent extension provisions, advocacy for innovation incentives without price controls. These are real, material wins that benefit pharmaceutical PAC donors and his North Carolina biotech district. However, the victories stop short of threatening the underlying pharmaceutical profit extraction mechanism: innovation incentives preserve patent monopolies rather than challenging pharmaceutical pricing power structures; opposition to price negotiation maintains industry revenue extraction while avoiding broader questions about healthcare access equity.
 
-**The Villain Framing** — Tillis frames drug price regulation as "stifling innovation" and "government overreach" rather than engaging with class analysis of who benefits from unregulated pharmaceutical pricing. He blames regulatory agencies for healthcare costs rather than examining how pharmaceutical industry market power structures determine pricing. This framing allows him to advocate pharmaceutical industry protection while positioning himself as defending innovation and consumer choice rather than as blocking price negotiation for taxpayers and patients.
+**The Villain Framing**. Tillis frames drug price regulation as "stifling innovation" and "government overreach" rather than engaging with class analysis of who benefits from unregulated pharmaceutical pricing. He blames regulatory agencies for healthcare costs rather than examining how pharmaceutical industry market power structures determine pricing. This framing allows him to advocate pharmaceutical industry protection while positioning himself as defending innovation and consumer choice rather than as blocking price negotiation for taxpayers and patients.
 
 ---
 
@@ -154,7 +154,7 @@ The class function is clear when you compare Tillis's pharmaceutical positioning
 
 3. **The Research Triangle Defender:** Invokes North Carolina's biotech and pharmaceutical industry as justification for pharma-friendly votes. Geographic identity (NC senator defending NC industry) masks donor-class capture.
 
-4. **The Immigration Dealmaker (Failed):** In 2024, Tillis initially supported bipartisan border security legislation, calling it "extraordinary tools." When Trump opposed the bill, Tillis flipped his position within weeks, voting against his own bill. The shift revealed that his dealmaking brand was theater—he deferred to Trump pressure despite calling the deal "immoral" to oppose. The collapse showed the limits of his actual independence.
+4. **The Immigration Dealmaker (Failed):** In 2024, Tillis initially supported bipartisan border security legislation, calling it "extraordinary tools." When Trump opposed the bill, Tillis flipped his position within weeks, voting against his own bill. The shift revealed that his dealmaking brand was theater, he deferred to Trump pressure despite calling the deal "immoral" to oppose. The collapse showed the limits of his actual independence.
 
 ---
 
@@ -162,11 +162,11 @@ The class function is clear when you compare Tillis's pharmaceutical positioning
 
 In early 2024, Tillis participated in bipartisan Senate negotiations on border security and immigration reform. He called the emerging compromise "extraordinary tools for President Trump" and seemed genuinely committed.
 
-By February 2024, Trump publicly opposed the bill. Tillis immediately reversed position. He called killing the bill "immoral" — but voted against it anyway.
+By February 2024, Trump publicly opposed the bill. Tillis immediately reversed position. He called killing the bill "immoral", but voted against it anyway.
 
 The immigration collapse is important because it demonstrates Tillis's actual operational structure: when donor interests align with Trump's position, Tillis performs dealmaking; when they conflict, Tillis defers to Trump pressure. His immigration rhetoric was never independent. It collapsed instantly when challenged.
 
-This differs from his pharmaceutical positioning, which has been completely stable across his entire Senate career. The pharmaceutical industry has never pressured Tillis to flip. The consistency proves that pharmaceutical PAC donations have fully aligned Tillis's interests with industry interests — there's no tension, no collapse point, just consistent service.
+This differs from his pharmaceutical positioning, which has been completely stable across his entire Senate career. The pharmaceutical industry has never pressured Tillis to flip. The consistency proves that pharmaceutical PAC donations have fully aligned Tillis's interests with industry interests, there's no tension, no collapse point, just consistent service.
 
 ---
 

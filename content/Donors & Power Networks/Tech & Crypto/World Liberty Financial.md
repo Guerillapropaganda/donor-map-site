@@ -76,7 +76,7 @@ WLFI's planned expansion into tokenized commodities and debit cards requires reg
 - [Fortune: How a 'spy sheikh' bought 49% of Trump's flagship crypto company](https://fortune.com/2026/02/02/world-liberty-financial-spy-sheikh-500-million-trump-family-conflicts-of-interest/) (Tier 2) (VERIFIED)
 - [Washington Post: Trump family crypto firm sold major stake to UAE investment firm](https://www.washingtonpost.com/politics/2026/02/01/trump-uae-crypto-world-liberty-financial/) (Tier 2) (VERIFIED)
 - [Democracy Now: UAE Chips Deal Linked to $2B Investment in Trump Family Cryptocurrency Firm](https://www.democracynow.org/2025/9/16/headlines/nyt_uae_chips_deal_linked_to_2b_investment_in_trump_family_cryptocurrency_firm) (Tier 2) (VERIFIED)
-- ~~[The Block: Trump says he was unaware of $500M UAE investment](https://www.theblock.co/post/388191/president-trump-says-he-was-unaware-of-500-million-uae-investment-in-world-liberty-financial)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (VERIFIED)
+- ~~[The Block: Trump says he was unaware of $500M UAE investment](https://www.theblock.co/post/388191/president-trump-says-he-was-unaware-of-500-million-uae-investment-in-world-liberty-financial)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (VERIFIED)
 
 ---
 

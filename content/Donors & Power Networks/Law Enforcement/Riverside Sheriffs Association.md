@@ -43,9 +43,9 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### Who They Are
 
-The [[IBEW Local 440 - Riverside|Riverside]] Sheriffs' Association is the exclusive employee organization representing over 3,500 members across Riverside County — sheriff's deputies, correctional officers, coroner's office staff, district attorney investigators, and probation department employees. It is the county's most powerful public employee union. President: Bill Young. Executive Director: Captain Evan Petersen (28-year RCSD veteran). Operates a Political Action Committee (Riverside Sheriffs' Association Public Education Fund) that evaluates and endorses candidates for local, state, and federal offices.
+The [[IBEW Local 440 - Riverside|Riverside]] Sheriffs' Association is the exclusive employee organization representing over 3,500 members across Riverside County, sheriff's deputies, correctional officers, coroner's office staff, district attorney investigators, and probation department employees. It is the county's most powerful public employee union. President: Bill Young. Executive Director: Captain Evan Petersen (28-year RCSD veteran). Operates a Political Action Committee (Riverside Sheriffs' Association Public Education Fund) that evaluates and endorses candidates for local, state, and federal offices.
 
-The RSA's primary political spending vehicle is slate mailers — bundled candidate endorsement mailers sent to registered voters countywide. This is how the bulk of its political money flows: not as direct contributions but as slate mailer spending that shows up differently on campaign finance reports.
+The RSA's primary political spending vehicle is slate mailers, bundled candidate endorsement mailers sent to registered voters countywide. This is how the bulk of its political money flows: not as direct contributions but as slate mailer spending that shows up differently on campaign finance reports.
 
 ---
 
@@ -58,41 +58,41 @@ But the RSA's institutional function extends far beyond worker representation. I
 > [!contradiction]
 > The RSA did not break with Stan Sniff over policy direction — it broke with him over control. The body camera dispute was a labor grievance, not a reform grievance. The RSA's objection was that deputies wanted the right to view footage before making statements on critical incidents — meaning before crafting their account of what happened. The accountability tool threatened the union's ability to protect its members from consequences. That is the class function: a working-class organization that functions as a shield against accountability for state violence.
 
-Compare to [[CCPOA - California Correctional Peace Officers Association|CCPOA]] ([[CCPOA - California Correctional Peace Officers Association]]): same structural dynamic at the state level. CCPOA protects prison guard headcount by opposing parole expansion. RSA protects deputy autonomy by opposing civilian oversight. Different unions, same pattern — labor organization as institutional barrier to accountability over the people in their custody.
+Compare to [[CCPOA - California Correctional Peace Officers Association|CCPOA]] ([[CCPOA - California Correctional Peace Officers Association]]): same structural dynamic at the state level. CCPOA protects prison guard headcount by opposing parole expansion. RSA protects deputy autonomy by opposing civilian oversight. Different unions, same pattern, labor organization as institutional barrier to accountability over the people in their custody.
 
 ---
 
 ### What They Want
 
-— No civilian oversight commission, review board, or independent monitoring of the Riverside County Sheriff's Department. RSA position (Bill Young): "Civilian oversight commissions are greatly misplaced." Their argument: voters elect the sheriff every four years, and that is sufficient accountability.
-— Right of deputies to review body camera footage before making statements on use-of-force incidents — the original grievance against Sniff.
-— Favorable contract terms: pay, overtime, staffing levels, disciplinary procedures that protect deputies.
-— A sheriff who answers to the RSA, not to county supervisors, the state DOJ, or civilian review bodies.
-— Political control over related county offices — Board of Supervisors, DA, judges — through endorsements and slate mailer spending.
+, No civilian oversight commission, review board, or independent monitoring of the Riverside County Sheriff's Department. RSA position (Bill Young): "Civilian oversight commissions are greatly misplaced." Their argument: voters elect the sheriff every four years, and that is sufficient accountability.
+, Right of deputies to review body camera footage before making statements on use-of-force incidents, the original grievance against Sniff.
+, Favorable contract terms: pay, overtime, staffing levels, disciplinary procedures that protect deputies.
+, A sheriff who answers to the RSA, not to county supervisors, the state DOJ, or civilian review bodies.
+, Political control over related county offices. Board of Supervisors, DA, judges, through endorsements and slate mailer spending.
 
 ---
 
 ### Who They Fund
 
-### [[_Chad Bianco Master Profile|Chad Bianco]] — 2018 Sheriff (the flagship investment):
+### [[_Chad Bianco Master Profile|Chad Bianco]], 2018 Sheriff (the flagship investment):
 > [!money]
 > — 2017: $254,592 of $268,752 total raised (94.7%). Breakdown: $125,000 direct monetary + $129,000+ in slate mailers. [Source: Press Enterprise, May 2018 — Tier 2]
 > — 2018 primary cycle: $339,647 of $357,608 total raised (94.9%). [Source: Press Enterprise — Tier 2]
 
-— October 2018 general election stretch: Additional $100,000 direct contribution (Oct. 9) + $29,200 slate mailer (Oct. 12).
-— Total 2018 cycle: Over $1 million when all direct contributions, slate mailers, and independent expenditures are counted. [Source: Press Enterprise — Tier 2]
+, October 2018 general election stretch: Additional $100,000 direct contribution (Oct. 9) + $29,200 slate mailer (Oct. 12).
+, Total 2018 cycle: Over $1 million when all direct contributions, slate mailers, and independent expenditures are counted. [Source: Press Enterprise. Tier 2]
 
-### [[_Chad Bianco Master Profile|Chad Bianco]] — 2022 Sheriff:
-— Bianco won outright in the June 2022 primary with ~60% of the vote against former colleague Michael Lujan. No general election.
-— As of late May 2022, Bianco's campaign had ~$863,000 cash on hand, more than half raised since January 2022. [Source: Spectrum News 1 / Press Enterprise June 2022 — Tier 2]
-— Opponent Lujan raised only ~$38,000 total (cash on hand: ~$22,300) — a 38-to-1 funding disparity. [Source: Press Enterprise, June 2022 — Tier 2]
-— RSA endorsed and funded Bianco. Specific FPPC-verified dollar figures for RSA's 2022 direct contributions and slate mailers remain unverified — Riverside County local filings not yet pulled. [research needed: pull Form 460s from Riverside County Registrar for 2022 Bianco committee]
+### [[_Chad Bianco Master Profile|Chad Bianco]], 2022 Sheriff:
+, Bianco won outright in the June 2022 primary with ~60% of the vote against former colleague Michael Lujan. No general election.
+, As of late May 2022, Bianco's campaign had ~$863,000 cash on hand, more than half raised since January 2022. [Source: Spectrum News 1 / Press Enterprise June 2022. Tier 2]
+, Opponent Lujan raised only ~$38,000 total (cash on hand: ~$22,300), a 38-to-1 funding disparity. [Source: Press Enterprise, June 2022. Tier 2]
+, RSA endorsed and funded Bianco. Specific FPPC-verified dollar figures for RSA's 2022 direct contributions and slate mailers remain unverified. Riverside County local filings not yet pulled. [research needed: pull Form 460s from Riverside County Registrar for 2022 Bianco committee]
 
-### [[_Chad Bianco Master Profile|Chad Bianco]] — 2026 Governor:
-— RSA endorsed Bianco for governor in May 2025. [Source: Uken Report, May 2025 — Tier 2]
-— Bianco raised $1.64 million in his first fundraising period (2025), with $1.1 million on hand. [Source: KESQ, July 2025 — Tier 2]
-— Santa Barbara County Deputy Sheriffs' Association PAC contributed **$30,000** to Bianco's governor campaign (July 2025) — early sign of statewide law enforcement union support. [Source: KESQ — Tier 2]
-— RSA direct financial contribution to governor campaign not yet confirmed in public filings. [research needed: Cal-Access state filings for Bianco for Governor committee]
+### [[_Chad Bianco Master Profile|Chad Bianco]], 2026 Governor:
+, RSA endorsed Bianco for governor in May 2025. [Source: Uken Report, May 2025. Tier 2]
+, Bianco raised $1.64 million in his first fundraising period (2025), with $1.1 million on hand. [Source: KESQ, July 2025. Tier 2]
+, Santa Barbara County Deputy Sheriffs' Association PAC contributed **$30,000** to Bianco's governor campaign (July 2025), early sign of statewide law enforcement union support. [Source: KESQ. Tier 2]
+, RSA direct financial contribution to governor campaign not yet confirmed in public filings. [research needed: Cal-Access state filings for Bianco for Governor committee]
 
 ### Board of Supervisors and local races:
 > [!money]
@@ -107,9 +107,9 @@ Compare to [[CCPOA - California Correctional Peace Officers Association|CCPOA]] 
 Coordinates with Laborers' International Union of North America Local 777 and deputy district attorneys' union.
 
 ### State races:
-— Endorsed Kristie Bruce-Lane for State Senate.
-— Endorsed State Senator Rosilicie Ochoa Bogh for re-election (February 2025). [Source: press reports — Tier 2]
-— Broader state-level independent expenditure data needs FPPC research.
+, Endorsed Kristie Bruce-Lane for State Senate.
+, Endorsed State Senator Rosilicie Ochoa Bogh for re-election (February 2025). [Source: press reports. Tier 2]
+, Broader state-level independent expenditure data needs FPPC research.
 
 **Research still needed:** FPPC-verified direct contribution amounts from RSA PAC/Public Education Fund to Bianco 2022 sheriff committee (Form 460, Riverside County Registrar). Full cycle-by-cycle slate mailer totals. Cal-Access filings for state races.
 
@@ -117,33 +117,33 @@ Coordinates with Laborers' International Union of North America Local 777 and de
 
 ### What They've Gotten
 
-— **A sheriff who owes his career to the union.** Bianco's 2018 victory was funded almost entirely by the RSA. That is not a donor relationship — it is a patron-client relationship. The sheriff cannot politically survive without the RSA.
-— **No civilian oversight.** As of 2026, Riverside County has no independent civilian oversight body for the sheriff's department. RSA has opposed every proposal — Supervisor Jose Medina's 2025 ad hoc committee motion, the 2025 ballot initiative for an Independent Sheriff's Civilian Oversight Committee. Both blocked or stalled.
-— **Body camera footage review.** After the 2015–2016 dispute with Sniff, the RSA secured the right for deputies to review body camera footage before making statements on critical incidents. This is the institutional protection that precipitated the break with Sniff and the investment in Bianco.
-— **No systemic accountability after the jail death crisis.** 18 deaths in 2022. RSA response (Bill Young): "Drug overdoses and inmate-on-inmate violence constitute the vast majority of inmate deaths." The union's framing deflects institutional responsibility onto inmates themselves. No deputies disciplined for the death spike. The whistleblower captain (Kristine Flores) who reported excessive force was the one who lost her job.
-— **$77M in misconduct settlements 2010–2020:** Riverside County paid ~$77 million in sheriff's department misconduct settlements between 2010 and 2020 — among the costliest in the nation. Breakdown: ~$63M for excessive force cases; ~$12M for false arrests. Neighboring Orange County (50% more residents) paid just $14M over the same period. [Source: KESQ, March 2022 — Tier 2]
-— **Nearly $100M and growing:** Civil settlements approached $100 million total by 2024. Key recent settlements: **Christopher Zumwalt wrongful death — $7.5 million** (December 2023); **Aaron Aubrey wrongful death — $1.8 million** (August 2024). $13.5M+ in settlements related to in-custody jail deaths since 2020, with at least a dozen additional cases still pending. [Source: Prison Legal News / Riverside Record / multiple press reports 2023–2025 — Tier 2]
-— **Jail death trend update:** In-custody deaths declined from a record **101 in 2022** to **63 in 2024** — a 37% decline. Total: **251 deaths in custody 2012–2024** (average 19/year). The 2022 spike remains the analytical flashpoint — the decline does not erase the systemic failures documented during the crisis year. [Source: Press Enterprise, Sept. 2025 — Tier 2]
-— **Protection of the disciplinary framework.** The RSA's contract structures insulate deputies from external accountability. Internal discipline is controlled by the sheriff — who is controlled by the RSA. External oversight is opposed. The circle closes.
+, **A sheriff who owes his career to the union.** Bianco's 2018 victory was funded almost entirely by the RSA. That is not a donor relationship, it is a patron-client relationship. The sheriff cannot politically survive without the RSA.
+, **No civilian oversight.** As of 2026, Riverside County has no independent civilian oversight body for the sheriff's department. RSA has opposed every proposal. Supervisor Jose Medina's 2025 ad hoc committee motion, the 2025 ballot initiative for an Independent Sheriff's Civilian Oversight Committee. Both blocked or stalled.
+, **Body camera footage review.** After the 2015–2016 dispute with Sniff, the RSA secured the right for deputies to review body camera footage before making statements on critical incidents. This is the institutional protection that precipitated the break with Sniff and the investment in Bianco.
+, **No systemic accountability after the jail death crisis.** 18 deaths in 2022. RSA response (Bill Young): "Drug overdoses and inmate-on-inmate violence constitute the vast majority of inmate deaths." The union's framing deflects institutional responsibility onto inmates themselves. No deputies disciplined for the death spike. The whistleblower captain (Kristine Flores) who reported excessive force was the one who lost her job.
+, **$77M in misconduct settlements 2010–2020:** Riverside County paid ~$77 million in sheriff's department misconduct settlements between 2010 and 2020, among the costliest in the nation. Breakdown: ~$63M for excessive force cases; ~$12M for false arrests. Neighboring Orange County (50% more residents) paid just $14M over the same period. [Source: KESQ, March 2022. Tier 2]
+, **Nearly $100M and growing:** Civil settlements approached $100 million total by 2024. Key recent settlements: **Christopher Zumwalt wrongful death, $7.5 million** (December 2023); **Aaron Aubrey wrongful death, $1.8 million** (August 2024). $13.5M+ in settlements related to in-custody jail deaths since 2020, with at least a dozen additional cases still pending. [Source: Prison Legal News / Riverside Record / multiple press reports 2023–2025. Tier 2]
+, **Jail death trend update:** In-custody deaths declined from a record **101 in 2022** to **63 in 2024**, a 37% decline. Total: **251 deaths in custody 2012–2024** (average 19/year). The 2022 spike remains the analytical flashpoint, the decline does not erase the systemic failures documented during the crisis year. [Source: Press Enterprise, Sept. 2025. Tier 2]
+, **Protection of the disciplinary framework.** The RSA's contract structures insulate deputies from external accountability. Internal discipline is controlled by the sheriff, who is controlled by the RSA. External oversight is opposed. The circle closes.
 
 ---
 
 ### Enemies / Opposition
 
-— Riverside County social justice coalitions pushing the 2025 civilian oversight ballot initiative
-— ACLU of Southern California (jail conditions advocacy)
-— Families of inmates who died in custody — multiple federal civil rights lawsuits naming Bianco and Riverside County
-— Former Captain Kristine Flores (whistleblower, wrongful termination suit pending)
-— California Department of Justice (active pattern-and-practice investigation)
-— Supervisor Jose Medina (proposed oversight ad hoc committee)
+, Riverside County social justice coalitions pushing the 2025 civilian oversight ballot initiative
+, ACLU of Southern California (jail conditions advocacy)
+, Families of inmates who died in custody, multiple federal civil rights lawsuits naming Bianco and Riverside County
+, Former Captain Kristine Flores (whistleblower, wrongful termination suit pending)
+, California Department of Justice (active pattern-and-practice investigation)
+, Supervisor Jose Medina (proposed oversight ad hoc committee)
 
 ---
 
 ### Connected Policy Areas
 
-Jail Deaths and Use of Force — 2022 death spike, DOJ investigation, deputy misconduct, whistleblower retaliation
-justice system — structural parallel to CCPOA as law enforcement union blocking reform
-2026 Governor Race — if Bianco wins, the RSA's model of police-union-purchases-executive scales from county to state
+Jail Deaths and Use of Force, 2022 death spike, DOJ investigation, deputy misconduct, whistleblower retaliation
+justice system, structural parallel to CCPOA as law enforcement union blocking reform
+2026 Governor Race, if Bianco wins, the RSA's model of police-union-purchases-executive scales from county to state
 
 ---
 
@@ -155,7 +155,7 @@ justice system — structural parallel to CCPOA as law enforcement union blockin
 - [Press Enterprise: RSA body camera lawsuit](https://web.archive.org/web/2015/https:/www.pe.com/2015/01/28/riverside-county-sheriff8217s-union-sues-to-stop-body-camera-use/) (Tier 2) (NEEDS REVIEW)
 - [Press Enterprise: supervisor donor data](https://www.pressenterprise.com/2024/02/21/whos-giving-the-most-money-to-riverside-county-supervisor-candidates/) (Tier 2) (VERIFIED)
 - [Press Enterprise: RSA supervisor donations 2016–2024](https://www.pressenterprise.com/2025/09/05/how-much-is-this-union-giving-to-riverside-county-supervisors/) (Tier 2) (VERIFIED)
-- [RSA official site: civilian oversight opposition](https://www.rcdsa.org/about/rcdsa-news/response-to-call-for-riverside-county-police-review-commission) (VERIFIED) (Tier 4 — union's own statement) (Tier 2)
+- [RSA official site: civilian oversight opposition](https://www.rcdsa.org/about/rcdsa-news/response-to-call-for-riverside-county-police-review-commission) (VERIFIED) (Tier 4, union's own statement) (Tier 2)
 - [SB Sun: civilian oversight ballot initiative](https://www.sbsun.com/2025/11/12/riverside-county-social-justice-groups-will-take-sheriffs-oversight-proposal-to-voters/) (Tier 2) (VERIFIED)
 - [ProPublica: RSA nonprofit filings](https://projects.propublica.org/nonprofits/organizations/956203844) (Tier 1) (VERIFIED)
 - [KESQ: $77M in misconduct settlements](https://kesq.com/news/2022/03/11/riverside-county-paid-77m-in-settlements-for-police-misconduct-report/) (Tier 2) (VERIFIED)

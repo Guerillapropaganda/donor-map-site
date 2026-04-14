@@ -11,7 +11,7 @@ related: "[[_John Thune Master Profile]] · [[_Mitch McConnell Master Profile]]"
 ---
 #john-thune #majority-leader #mcconnell #leadership #fundraising #class-analysis
 
-donors: [[PhRMA]] · [[NextEra Energy]] · (Goldman Sachs, Citigroup, Blackstone — finance sector)
+donors: [[PhRMA]] · [[NextEra Energy]] · (Goldman Sachs, Citigroup, Blackstone, finance sector)
 
 ---
 
@@ -37,7 +37,7 @@ donors: [[PhRMA]] · [[NextEra Energy]] · (Goldman Sachs, Citigroup, Blackstone
 
 ### The Secret Ballot Dynamic
 
-The Senate Republican leadership election uses a secret ballot — meaning individual senators' votes are not disclosed. This mechanism is critical to understanding how Thune won:
+The Senate Republican leadership election uses a secret ballot, meaning individual senators' votes are not disclosed. This mechanism is critical to understanding how Thune won:
 
 - MAGA-aligned senators could publicly support [[_Rick Scott Master Profile|Rick Scott]] while privately voting for Thune
 - Establishment senators could avoid the political cost of opposing the Trump-endorsed candidate
@@ -56,7 +56,7 @@ The Senate Republican leadership election uses a secret ballot — meaning indiv
 | October 2016 | Thune calls for Trump to withdraw post-Access Hollywood |
 | 2020–2021 | Calls Trump's post-election actions "inexcusable" |
 | 2022 | Trump threatens to primary Thune |
-| March 2024 | Mar-a-Lago dinner with wife Kim — "put an end to differences" |
+| March 2024 | Mar-a-Lago dinner with wife Kim, "put an end to differences" |
 | November 2024 | Trump privately backs Thune for Majority Leader |
 | 2025 | Clears controversial Trump nominees, blocks tariff rebukes |
 
@@ -68,5 +68,5 @@ The reconciliation follows the standard donor-class pattern: Trump needs Senate 
 
 - [NBC News: Senate Republicans elect John Thune as their new leader, replacing Mitch McConnell](https://www.nbcnews.com/politics/congress/senate-republicans-choose-new-leader-mitch-mcconnell-steps-rcna179670) (Tier 2) (VERIFIED)
 - [CNN: Who is John Thune, the next Senate majority leader?](https://edition.cnn.com/2024/11/13/politics/john-thune-senate-republican-leader/) (Tier 2) (VERIFIED)
-- ~~[Axios: Thune cuts $4 million check in major leadership play](https://www.axios.com/2024/09/10/john-thune-senate-gop-leadership-race-money-2024-election)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Axios: Thune cuts $4 million check in major leadership play](https://www.axios.com/2024/09/10/john-thune-senate-gop-leadership-race-money-2024-election)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [NPR: Republican leadership elections: John Thune, Mike Johnson picked by their party](https://www.npr.org/2024/11/13/nx-s1-5188585/house-senate-republican-leadership) (Tier 2) (VERIFIED)

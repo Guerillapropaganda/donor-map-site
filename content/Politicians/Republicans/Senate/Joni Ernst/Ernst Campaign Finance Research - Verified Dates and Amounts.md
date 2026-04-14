@@ -36,7 +36,7 @@ donors: [[Koch Network - Charles Koch]], [[Agribusiness Donor Bloc]], [[Ethanol 
 - **Recipients:** Ernst campaign (2014)
 - **Amount:** $2,600 each × 4 family members = $10,400 total
 - **Specifics:** Charles Koch, his wife, his son, and his daughter-in-law each maxed out contributions
-- **Sources:** ~~[The Hill: Kochs max out for Iowa Republican](https://www.thehill.com/blogs/ballot-box/senate-races/212609-kochs-max-out-for-ernst-in-iowa/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- **Sources:** ~~[The Hill: Kochs max out for Iowa Republican](https://www.thehill.com/blogs/ballot-box/senate-races/212609-kochs-max-out-for-ernst-in-iowa/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ### Koch Industries Direct Corporate Contribution
 - **Donor:** Koch Industries (corporate)
@@ -65,7 +65,7 @@ donors: [[Koch Network - Charles Koch]], [[Agribusiness Donor Bloc]], [[Ethanol 
 - **Total Group Spending (2014):** $412,006 (94% of total $438,084 budget went to advertising campaigns)
 - **Targets:** Primary campaign TV ads attacking Ernst's GOP rival Mark Jacobs (energy executive opposed to carbon limits)
 - **Legal Status:** Alleged to have broken law in aiding Ernst's primary win per complaint filed by Center for Media and Democracy (CMD) and Citizens for Responsibility and Ethics in Washington (CREW)
-- **Sources:** ~~[PR Watch: CMD and CREW Allege Koch-Backed Group Broke the Law](https://www.prwatch.org/news/2016/01/13025/cmd-and-crew-broke-law)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2); [DeSmog: Trees of Liberty](https://www.desmog.com/trees-liberty/) (Tier 3) (VERIFIED); ~~[Conservative Transparency: Trees of Liberty](http://conservativetransparency.org/org/trees-of-liberty/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3); [Citizens for Ethics: Complaint Ernst-backing Koch group broke the law](https://www.citizensforethics.org/legal-action/legal-complaints/complaint-ernst-backing-koch-group-broke-law/) (Tier 2) (VERIFIED)
+- **Sources:** ~~[PR Watch: CMD and CREW Allege Koch-Backed Group Broke the Law](https://www.prwatch.org/news/2016/01/13025/cmd-and-crew-broke-law)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2); [DeSmog: Trees of Liberty](https://www.desmog.com/trees-liberty/) (Tier 3) (VERIFIED); ~~[Conservative Transparency: Trees of Liberty](http://conservativetransparency.org/org/trees-of-liberty/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3); [Citizens for Ethics: Complaint Ernst-backing Koch group broke the law](https://www.citizensforethics.org/legal-action/legal-complaints/complaint-ernst-backing-koch-group-broke-law/) (Tier 2) (VERIFIED)
 
 ### 60 Plus Association
 - **Amount:** $1-1.5 million

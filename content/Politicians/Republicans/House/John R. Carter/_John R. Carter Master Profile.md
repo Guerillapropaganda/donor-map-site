@@ -1,5 +1,5 @@
 ---
-title: "John R. Carter Master Profile"
+title: "John R. Carter"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

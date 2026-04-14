@@ -7,7 +7,7 @@ source-tier: 2
 parent: null
 category: centrist
 platform: multi-platform
-related: "[[Bari Weiss]] · [[Matt Taibbi]] · [[Ezra Klein]] · [[TYT Network - The Young Turks]] · [[Rachel Maddow]] · [[Pod Save America]] · [[Sam Seder]] · [[Kyle Kulinski]] · [[The Daily Wire]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Rumble]] · [[Patrick Bet-David]] · [[Michael Knowles]] · [[Matt Walsh]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Jimmy Dore]] · [[Jesse Watters]] · [[Jeremy Boreing]] · [[James O'Keefe]]"
+related: "[[Bari Weiss]] · [[Matt Taibbi]] · [[Ezra Klein]] · [[TYT Network - The Young Turks]] · [[Rachel Maddow]] · [[Pod Save America]] · [[Sam Seder]] · [[Kyle Kulinski]] · [[The Daily Wire]] · [[The Platform Dependency Spectrum , Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Rumble]] · [[Patrick Bet-David]] · [[Michael Knowles]] · [[Matt Walsh]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Jimmy Dore]] · [[Jesse Watters]] · [[Jeremy Boreing]] · [[James O'Keefe]]"
 ---
 
 #media-pipeline #centrist #CNN #corporate-media #institutional-capture #warner-bros-discovery #paramount
@@ -176,7 +176,7 @@ The Paramount acquisition is the denouement. Under WBD, CNN moderated. Under Par
 ### Sources
 
 - [Wikipedia: Abby Phillip](https://en.wikipedia.org/wiki/Abby_Phillip) (Tier 3) (VERIFIED)
-- ~~[The Hill: CNN moderator criticized for question to Sanders](https://thehill.com/homenews/media/478340-cnn-moderator-criticized-for-question-to-sanders/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[The Hill: CNN moderator criticized for question to Sanders](https://thehill.com/homenews/media/478340-cnn-moderator-criticized-for-question-to-sanders/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [FAIR: The Big Loser in the Iowa Debate? CNN's Reputation](https://fair.org/home/the-big-loser-in-the-iowa-debate-cnns-reputation/) (Tier 2) (VERIFIED)
 - [Rolling Stone (Taibbi): CNN's Debate Performance Was Villainous and Shameful](https://www.rollingstone.com/politics/political-commentary/january-democratic-debate-2020-cnn-bernie-sanders-elizabeth-warren-938365/) (Tier 2) (VERIFIED)
 - [Mediaite: CNN Debate Moderator Abby Phillip Doesn't Accept Bernie's Denial](https://www.mediaite.com/election-2020/cnn-debate-moderator-abby-phillip-doesnt-accept-bernies-denial-that-he-said-women-cant-win-in-2020/) (Tier 3) (VERIFIED)

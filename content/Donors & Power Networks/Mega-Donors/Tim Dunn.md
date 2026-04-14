@@ -27,7 +27,7 @@ court-jurisdictions:
   - "United States Bankruptcy Court, D. Delaware"
   - "United States Bankruptcy Court, S.D. New York"
 total-political-spend: "$9,908,147"
-related: "[[The National Security-to-Senate Pipeline]] · [[Barbara Lee]] · [[Mike Lee]] · [[Wilks Brothers — Dan and Farris Wilks]] · [[_Mike Rogers Master Profile]] · [[Great Lakes Conservatives Fund]] · [[Tim Dunn]] · [[America First Policy Institute]]"
+related: "[[The National Security-to-Senate Pipeline]] · [[Barbara Lee]] · [[Mike Lee]] · [[Wilks Brothers , Dan and Farris Wilks]] · [[_Mike Rogers Master Profile]] · [[Great Lakes Conservatives Fund]] · [[Tim Dunn]] · [[America First Policy Institute]]"
 sec-filings: 63
 sec-form-types:
   - "10-K/A"

@@ -1,5 +1,5 @@
 ---
-title: "Mike Haridopolos Master Profile"
+title: "Mike Haridopolos"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

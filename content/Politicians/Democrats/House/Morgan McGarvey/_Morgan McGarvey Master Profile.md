@@ -1,5 +1,5 @@
 ---
-title: "Morgan McGarvey Master Profile"
+title: "Morgan McGarvey"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

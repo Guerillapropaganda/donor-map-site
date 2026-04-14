@@ -1,9 +1,9 @@
 ---
-title: "Cathy McMorris Rodgers Master Profile"
+title: "Cathy McMorris Rodgers"
 type: politician
 bioguide-id: "M001159"
 content-readiness: draft
-central-thesis: "Cathy McMorris Rodgers was the #1 corporate PAC recipient in the entire House of Representatives — $3 million in corporate PAC money in the 2020 cycle alone, 40% more than any other House member. As Energy & Commerce Committee chair (2023–2022), s..."
+central-thesis: "Cathy McMorris Rodgers was the #1 corporate PAC recipient in the entire House of Representatives , $3 million in corporate PAC money in the 2020 cycle alone, 40% more than any other House member. As Energy & Commerce Committee chair (2023–2022), s..."
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -81,27 +81,27 @@ donors: Corporate PACs - Energy & Commerce Sector · [[Oil & Gas PACs]] · [[Koc
 
 ## Donation-to-Policy Timeline
 
-*Note: McMorris Rodgers was the #1 corporate PAC recipient in the entire House — $3M in a single cycle. As Energy & Commerce chair, she controlled regulation of the exact industries that funded her at record levels. The "innovation" rhetoric was monopoly protection.*
+*Note: McMorris Rodgers was the #1 corporate PAC recipient in the entire House, $3M in a single cycle. As Energy & Commerce chair, she controlled regulation of the exact industries that funded her at record levels. The "innovation" rhetoric was monopoly protection.*
 
 #### Telecom / Net Neutrality Opposition
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2017-12 | AT&T PAC ($38,500), Comcast PAC ($30,000), Charter ($25,000), Verizon — telecom/broadband total $200K+ | $200K+ telecom/broadband career | 2010–2020 ongoing | Votes against net neutrality; opposes FCC Title II common-carrier designation — protects AT&T/Comcast ability to charge for prioritized access (monopoly rent-seeking framed as "defending innovation") |
-| 2023-02 | Same telecom donor base — chair authority escalates service | Part of $3M 2020 cycle | 2020–2023 ongoing | As Energy & Commerce chair, blocks net neutrality restoration bills; opposes FCC Title II re-adoption; 6 years of consistent telecom monopoly protection |
+| 2017-12 | AT&T PAC ($38,500), Comcast PAC ($30,000), Charter ($25,000), Verizon, telecom/broadband total $200K+ | $200K+ telecom/broadband career | 2010–2020 ongoing | Votes against net neutrality; opposes FCC Title II common-carrier designation, protects AT&T/Comcast ability to charge for prioritized access (monopoly rent-seeking framed as "defending innovation") |
+| 2023-02 | Same telecom donor base, chair authority escalates service | Part of $3M 2020 cycle | 2020–2023 ongoing | As Energy & Commerce chair, blocks net neutrality restoration bills; opposes FCC Title II re-adoption; 6 years of consistent telecom monopoly protection |
 
 #### Energy / Oil & Gas / Climate Deregulation
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2023-06 | [[Koch Network - Charles Koch|Koch Industries]] ($280K+), [[Marathon Petroleum]], [[Chevron]], Exxon — oil & gas total $270K | $270K oil & gas per cycle; $280K Koch network | 2010–2023 ongoing | Votes to block EPA climate regulations; advances energy deregulation agenda; "energy independence" rhetoric masks protection of fossil fuel donor portfolio from carbon regulation |
+| 2023-06 | [[Koch Network - Charles Koch|Koch Industries]] ($280K+), [[Marathon Petroleum]], [[Chevron]], Exxon, oil & gas total $270K | $270K oil & gas per cycle; $280K Koch network | 2010–2023 ongoing | Votes to block EPA climate regulations; advances energy deregulation agenda; "energy independence" rhetoric masks protection of fossil fuel donor portfolio from carbon regulation |
 
 #### Pharma / Corporate PAC Machine
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2023-12 | Pfizer, Merck, AstraZeneca — pharma PACs $150K+; total corporate PACs $3M (2020 cycle, highest in House) | $3M total corporate PACs (2020); $150K+ pharma | 2020 cycle | Opposes Medicare drug price negotiation; blocks pharma transparency measures; "innovation" language protects drug pricing from regulatory challenge |
-| 2024 | TikTok ban cosponsor — tech donor alignment (Microsoft $20K, Amazon $23.4K) shapes even rare bipartisan votes; retires mid-2024 | $100K+ tech PACs | 2020–2024 | Cosponsors TikTok ban legislation; voting "yes" aligns with domestic tech donors (Microsoft, Amazon) competing against TikTok; 19-year career ends |
+| 2023-12 | Pfizer, Merck, AstraZeneca, pharma PACs $150K+; total corporate PACs $3M (2020 cycle, highest in House) | $3M total corporate PACs (2020); $150K+ pharma | 2020 cycle | Opposes Medicare drug price negotiation; blocks pharma transparency measures; "innovation" language protects drug pricing from regulatory challenge |
+| 2024 | TikTok ban cosponsor, tech donor alignment (Microsoft $20K, Amazon $23.4K) shapes even rare bipartisan votes; retires mid-2024 | $100K+ tech PACs | 2020–2024 | Cosponsors TikTok ban legislation; voting "yes" aligns with domestic tech donors (Microsoft, Amazon) competing against TikTok; 19-year career ends |
 
 ---
 
@@ -151,11 +151,11 @@ Her committee position turned her funded-by relationship into actual regulatory 
 
 ## Analytical Patterns
 
-**The Genuine Win + Structural Limit** — McMorris Rodgers's net neutrality opposition is a real legislative victory for AT&T and Comcast, but stops short of threatening the broadband market structurally. She protects incumbent monopoly power without dismantling the telecom infrastructure itself, preserving both monopoly rents and corporate donors' position.
+**The Genuine Win + Structural Limit**. McMorris Rodgers's net neutrality opposition is a real legislative victory for AT&T and Comcast, but stops short of threatening the broadband market structurally. She protects incumbent monopoly power without dismantling the telecom infrastructure itself, preserving both monopoly rents and corporate donors' position.
 
-**The Villain Framing** — McMorris Rodgers frames government regulation as the external villain threatening innovation and market competition, while deflecting from examining her actual material position: she is literally paid by the companies she claims would suffer from regulation. The villain is bureaucratic overreach; the beneficiary (telecom and oil majors) remains structurally invisible.
+**The Villain Framing**. McMorris Rodgers frames government regulation as the external villain threatening innovation and market competition, while deflecting from examining her actual material position: she is literally paid by the companies she claims would suffer from regulation. The villain is bureaucratic overreach; the beneficiary (telecom and oil majors) remains structurally invisible.
 
-**The Two-Audience Problem** — McMorris Rodgers performs as a "free market" conservative defending innovation and competition to her Eastern Washington district, while privately voting to protect monopoly power (telecom, energy) from competitive pressure and regulatory oversight. The free market language masks the actual function: blocking competition in favor of incumbent market control.
+**The Two-Audience Problem**. McMorris Rodgers performs as a "free market" conservative defending innovation and competition to her Eastern Washington district, while privately voting to protect monopoly power (telecom, energy) from competitive pressure and regulatory oversight. The free market language masks the actual function: blocking competition in favor of incumbent market control.
 
 ---
 
@@ -164,7 +164,7 @@ Her committee position turned her funded-by relationship into actual regulatory 
 1. **The "Innovation" Frame:** Net neutrality opposition and pharma deregulation presented as "pro-innovation," when they actually protect incumbent monopolies from competitive threats.
 2. **"Government Overreach" Language:** Blocking EPA carbon rules framed as defending "energy independence" and "rural America" from coastal elites.
 3. **"Free Market" Rhetoric:** Every regulation she opposed was characterized as "government picking winners and losers," while her actual positions protected specific winners (her donors).
-4. **Rural District Positioning:** Representing Eastern Washington's agricultural/rural base, she positioned herself as defending "Washington families" from regulatory harm — while actually serving oil, pharma, and telecom interests.
+4. **Rural District Positioning:** Representing Eastern Washington's agricultural/rural base, she positioned herself as defending "Washington families" from regulatory harm, while actually serving oil, pharma, and telecom interests.
 
 ---
 
@@ -173,10 +173,10 @@ Her committee position turned her funded-by relationship into actual regulatory 
 - [FEC Candidate: Cathy McMorris Rodgers donor profile, 2020 cycle](https://www.fec.gov/data/candidate/H4WA05077/) (Tier 1) (VERIFIED)
 - [FEC Candidate: Cathy McMorris Rodgers PAC receipts](https://www.fec.gov/data/candidate/H4WA05077/) (Tier 1) (VERIFIED)
 - [House Energy & Commerce Committee roster](https://energycommerce.house.gov/subcommittees) (Tier 1) (VERIFIED)
-- ~~[Fight for the Future: Net Neutrality opposition record](https://fightforthefuture.org/tracking-net-neutrality-opposition/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Fight for the Future: Net Neutrality opposition record](https://fightforthefuture.org/tracking-net-neutrality-opposition/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Seattle Times: What a WA rep's No. 1 ranking in corporate cash means for the climate](https://www.seattletimes.com/seattle-news/politics/what-a-wa-reps-no-1-ranking-in-corporate-cash-means-for-the-climate/) (Tier 2) (VERIFIED)
 - [ProPublica: McMorris Rodgers voting record](https://projects.propublica.org/represent/) (Tier 1) (VERIFIED)
-- ~~[Congress.gov: House Energy and Commerce Committee](https://www.congress.gov/committee/house-energy-and-commerce/hsif00)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: House Energy and Commerce Committee](https://www.congress.gov/committee/house-energy-and-commerce/hsif00)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

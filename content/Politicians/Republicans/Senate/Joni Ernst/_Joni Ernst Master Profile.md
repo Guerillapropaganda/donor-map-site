@@ -1,5 +1,5 @@
 ---
-title: "Joni Ernst Master Profile"
+title: "Joni Ernst"
 type: politician
 content-readiness: ready
 central-thesis: "Joni Ernst rode the Tea Party wave and rural authenticity (farm background, military service) into the Senate, but her donor base is Koch money and corporate agribusiness, not family farmers. Iowa's agricultural consolidation over the past 40 year..."
@@ -42,13 +42,13 @@ donors: [[Koch Network - Charles Koch]], [[Agribusiness Donor Bloc]], [[Ethanol 
 
 ## Who She Is
 
-Joni Ernst. U.S. Senator from Iowa (2015–2026, retiring). Born July 1, 1970, in Montgomery County, Iowa. Iraq War combat veteran (Lieutenant Colonel, U.S. Army Reserve). Iowa State Senator (2011–2014). Famous for farm-based brand identity ("make 'em squeal" TV ads from her 2014 House campaign referencing pig farming background). Won her Senate seat in 2014 with massive [[Koch Network - Charles Koch|Koch Network]] support. Reelected in 2020 with 6.6-point margin (51.8%) — comfortable but showing Iowa's gradual shift away from Republicans. Announced September 2, 2025, that she would not seek reelection in 2026. The vault's case study in how Koch Network money and agribusiness donations fund politicians whose "family farmer" brand masks corporate agricultural capture.
+Joni Ernst. U.S. Senator from Iowa (2015–2026, retiring). Born July 1, 1970, in Montgomery County, Iowa. Iraq War combat veteran (Lieutenant Colonel, U.S. Army Reserve). Iowa State Senator (2011–2014). Famous for farm-based brand identity ("make 'em squeal" TV ads from her 2014 House campaign referencing pig farming background). Won her Senate seat in 2014 with massive [[Koch Network - Charles Koch|Koch Network]] support. Reelected in 2020 with 6.6-point margin (51.8%), comfortable but showing Iowa's gradual shift away from Republicans. Announced September 2, 2025, that she would not seek reelection in 2026. The vault's case study in how Koch Network money and agribusiness donations fund politicians whose "family farmer" brand masks corporate agricultural capture.
 
 ---
 
 ## The Central Thesis
 
-Joni Ernst rode the Tea Party wave and rural authenticity (farm background, military service) into the Senate, but her donor base is Koch money and corporate agribusiness, not family farmers. Iowa's agricultural consolidation over the past 40 years has concentrated farmland into corporate agriculture operations. Ernst represents the interests of ethanol corporations, meatpacking conglomerates, and agricultural input companies (Monsanto/Bayer, John Deere, fertilizer manufacturers) — not the family farmers who still claim to be her constituency. She explicitly credited the Koch Network with "starting my trajectory." Her legislative record — farm bill votes, ethanol subsidies, opposition to concentrated animal feeding operation (CAFO) regulation, fossil fuel alignment — reflects Koch Network and agribusiness priorities, not family farm interests. The contradiction between her "make 'em squeal" farm brand and her corporate agriculture donor base is the core of her political function.
+Joni Ernst rode the Tea Party wave and rural authenticity (farm background, military service) into the Senate, but her donor base is Koch money and corporate agribusiness, not family farmers. Iowa's agricultural consolidation over the past 40 years has concentrated farmland into corporate agriculture operations. Ernst represents the interests of ethanol corporations, meatpacking conglomerates, and agricultural input companies (Monsanto/Bayer, John Deere, fertilizer manufacturers), not the family farmers who still claim to be her constituency. She explicitly credited the Koch Network with "starting my trajectory." Her legislative record, farm bill votes, ethanol subsidies, opposition to concentrated animal feeding operation (CAFO) regulation, fossil fuel alignment, reflects Koch Network and agribusiness priorities, not family farm interests. The contradiction between her "make 'em squeal" farm brand and her corporate agriculture donor base is the core of her political function.
 
 ---
 
@@ -66,12 +66,12 @@ Joni Ernst rode the Tea Party wave and rural authenticity (farm background, mili
 ## Donor Class Map
 
 ### The Koch Network:
-- [[Koch Network - Charles Koch]] — the single largest political force in Ernst's career. [[Charles Koch]], his wife, his son and daughter-in-law each maxed out contributions ($2,600 each) to Ernst. Koch Industries directly donated $5,000. But Koch Network outside spending was the decisive factor: $12 million+ in 2014 from Koch-aligned super PACs ([[Americans for Prosperity|Americans for Prosperity]], Freedom Partners Action Fund, 60 Plus Association, American Future Fund, National Federation of Independent Business). Ernst acknowledged the Koch Network "started my trajectory." The relationship has been continuous throughout her Senate career.
+- [[Koch Network - Charles Koch]], the single largest political force in Ernst's career. [[Charles Koch]], his wife, his son and daughter-in-law each maxed out contributions ($2,600 each) to Ernst. Koch Industries directly donated $5,000. But Koch Network outside spending was the decisive factor: $12 million+ in 2014 from Koch-aligned super PACs ([[Americans for Prosperity|Americans for Prosperity]], Freedom Partners Action Fund, 60 Plus Association, American Future Fund, National Federation of Independent Business). Ernst acknowledged the Koch Network "started my trajectory." The relationship has been continuous throughout her Senate career.
 
 ### Agribusiness: Ethanol, Meatpacking, Agricultural Input Companies:
-- [[Ethanol Industry]] — Ernst is a Biofuels Caucus co-chair. She has advocated for Renewable Fuel Standard (RFS) support, E15 year-round fuel access, and tax incentives for ethanol producers. Ethanol companies (Archer Daniels Midland (ADM), Valero Energy, POET LLC) have donated to her campaigns. The ethanol industry is not small family farmers; it's multinational agribusiness. Ethanol subsidies primarily benefit large-scale commodity corn producers and the multinational companies that process corn into ethanol.
-- [[Meatpacking Corporations]] — Tyson Foods, Cargill, JBS USA operate large concentrated animal feeding operations (CAFOs) in Iowa. Ernst has consistently opposed regulations on CAFOs and concentrated agriculture. This serves the meatpacking companies' interest in avoiding environmental and animal welfare regulation.
-- Agricultural Input Companies — John Deere, Bayer/Monsanto, fertilizer manufacturers. Ernst's opposition to regulation serves their interests.
+- [[Ethanol Industry]]. Ernst is a Biofuels Caucus co-chair. She has advocated for Renewable Fuel Standard (RFS) support, E15 year-round fuel access, and tax incentives for ethanol producers. Ethanol companies (Archer Daniels Midland (ADM), Valero Energy, POET LLC) have donated to her campaigns. The ethanol industry is not small family farmers; it's multinational agribusiness. Ethanol subsidies primarily benefit large-scale commodity corn producers and the multinational companies that process corn into ethanol.
+- [[Meatpacking Corporations]]. Tyson Foods, Cargill, JBS USA operate large concentrated animal feeding operations (CAFOs) in Iowa. Ernst has consistently opposed regulations on CAFOs and concentrated agriculture. This serves the meatpacking companies' interest in avoiding environmental and animal welfare regulation.
+- Agricultural Input Companies. John Deere, Bayer/Monsanto, fertilizer manufacturers. Ernst's opposition to regulation serves their interests.
 
 ### Farm Bill Votes:
 - Ernst consistently votes for farm bill provisions that benefit large-scale commodity producers and agricultural corporations. The Farm Bill is structured to provide the vast majority of subsidy money to large industrial operations, not to small family farms. Ernst's voting record reflects this.
@@ -85,7 +85,7 @@ Joni Ernst rode the Tea Party wave and rural authenticity (farm background, mili
 
 Ernst's 2014 Senate race was the clearest demonstration of Koch Network political power in that election cycle.
 
-Ernst ran against Democratic incumbent Tom Harkin (retiring). The Koch Network decided to make this race a priority — specifically, to defeat anyone who might challenge their agriculture and energy policy preferences.
+Ernst ran against Democratic incumbent Tom Harkin (retiring). The Koch Network decided to make this race a priority, specifically, to defeat anyone who might challenge their agriculture and energy policy preferences.
 
 ### The Outside Spending:
 Koch-aligned super PACs and groups spent approximately $12 million in the Iowa race supporting Ernst or attacking her Democratic opponent. This was more than Ernst's own campaign raised.
@@ -108,7 +108,7 @@ This is structural transparency: the Koch Network funds politicians explicitly, 
 ### Farm Policy Service to Agribusiness: The Legislative Record
 
 ### Farm Bill Votes:
-Ernst votes consistently for farm bill provisions that funnel the majority of subsidy money to large-scale commodity producers (corn, soybeans) and large livestock operations. The Farm Bill is not structured to support family farmers — it's structured to support industrial agriculture. The largest percentage of subsidy money goes to roughly 10% of farms, almost all of which are large-scale industrial operations.
+Ernst votes consistently for farm bill provisions that funnel the majority of subsidy money to large-scale commodity producers (corn, soybeans) and large livestock operations. The Farm Bill is not structured to support family farmers, it's structured to support industrial agriculture. The largest percentage of subsidy money goes to roughly 10% of farms, almost all of which are large-scale industrial operations.
 
 Ernst's voting record reflects this. She votes for subsidy continuation and expansion even as the structure of subsidies has consolidated American agriculture into larger and larger operations.
 
@@ -118,36 +118,36 @@ Ernst champions the Renewable Fuel Standard (RFS), which mandates that gasoline 
 The RFS benefits large commodity corn producers (who sell corn to ethanol processors) and the multinational corporations that operate ethanol plants. Small family farmers do not benefit proportionately.
 
 ### CAFO Opposition:
-Ernst has consistently opposed regulations on concentrated animal feeding operations (CAFOs) — large-scale industrial livestock operations that consolidate thousands of animals in single facilities. CAFOs are environmental and animal welfare disasters, creating massive pollution, antibiotic resistance propagation, and animal suffering.
+Ernst has consistently opposed regulations on concentrated animal feeding operations (CAFOs), large-scale industrial livestock operations that consolidate thousands of animals in single facilities. CAFOs are environmental and animal welfare disasters, creating massive pollution, antibiotic resistance propagation, and animal suffering.
 
-But CAFO regulation would threaten Tyson Foods, Cargill, JBS USA — the multinational meatpacking companies that operate CAFOs and donate to Ernst's campaigns. Ernst's opposition serves these donors' interests.
+But CAFO regulation would threaten Tyson Foods, Cargill, JBS USA, the multinational meatpacking companies that operate CAFOs and donate to Ernst's campaigns. Ernst's opposition serves these donors' interests.
 
 ---
 
 ## Donation-to-Policy Timeline
 
-*Note: Koch Network spent $12M+ to elect Ernst — equal to her own fundraising. She publicly thanked them: "really started my trajectory." The "hog farm" brand is the product; corporate agriculture is the customer. Retirement in 2025 avoids exposing the contradiction in a competitive reelection.*
+*Note: Koch Network spent $12M+ to elect Ernst, equal to her own fundraising. She publicly thanked them: "really started my trajectory." The "hog farm" brand is the product; corporate agriculture is the customer. Retirement in 2025 avoids exposing the contradiction in a competitive reelection.*
 
 #### Koch Network / Dark Money Foundation
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2014 | [[Koch Network - Charles Koch|Koch Network]] — AFP ($3-4M), Freedom Partners ($1.5-2M), 60 Plus ($1-1.5M), American Future Fund ($1-1.5M), NFIB ($1M+) | $12M+ outside spending (equal to Ernst's own $12M) | 2014 Senate race | Ernst wins Iowa with Koch-funded 74% dark money advantage ($17.5M of $23.6M non-party spending was dark money); Koch gains reliable Senate vote |
-| 2014-06 | Koch direct: Charles Koch family ($10,400 maxed out); Koch Industries ($5,000) | $15,400 direct; $12M+ outside | 2014 | Ernst at Koch retreat (St. Regis Monarch Beach): "the exposure to this group and to this network...really started my trajectory" |
+| 2014 | [[Koch Network - Charles Koch|Koch Network]]. AFP ($3-4M), Freedom Partners ($1.5-2M), 60 Plus ($1-1.5M), American Future Fund ($1-1.5M), NFIB ($1M+) | $12M+ outside spending (equal to Ernst's own $12M) | 2014 Senate race | Ernst wins Iowa with Koch-funded 74% dark money advantage ($17.5M of $23.6M non-party spending was dark money); Koch gains reliable Senate vote |
+| 2014-06 | Koch direct: Charles Koch family ($10,400 maxed out); Koch Industries ($5,000) | $15,400 direct; $12M+ outside | 2014 | Ernst at Koch retreat (St. Regis Monarch Beach): "the exposure to this group and to this network.really started my trajectory" |
 
 #### Agribusiness / Ethanol Industry
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
 | 2017 | Ethanol industry (ADM, Valero, POET) + agribusiness PACs | $130K+ agriculture PAC per cycle | 2015–ongoing | Co-signs bipartisan letter with 38 senators urging strong RFS; fights own party's EPA on small-refinery waivers (2018-2019: "Pruitt did lie"); serves multinational ethanol processors, not family farmers |
-| 2018-12 | Corporate agribusiness — top 10% of farms receive majority of subsidies | Part of $1.8M career corporate PACs | 2017–2018 | Votes YES on 2018 Farm Bill; subsidy structure benefits industrial agriculture; CAFO regulation opposed (protects Tyson, Cargill, JBS) |
+| 2018-12 | Corporate agribusiness, top 10% of farms receive majority of subsidies | Part of $1.8M career corporate PACs | 2017–2018 | Votes YES on 2018 Farm Bill; subsidy structure benefits industrial agriculture; CAFO regulation opposed (protects Tyson, Cargill, JBS) |
 
 #### Meatpacking / CAFO Protection
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2025 | Meatpacking industry (Tyson Foods, Cargill, JBS USA) — operate Iowa CAFOs | Part of agribusiness donor base | 2020–ongoing | Co-sponsors EATS Act to override California Prop 12 livestock welfare requirements; serves meatpacking corporations opposing animal welfare regulation |
-| 2025-09 | Retirement announcement — exits before 2026 vulnerability | $20.8M raised in 2020 (outraised 2.3x) | 11 years of Koch service | Agricultural consolidation increasingly visible contradiction with "family farmer" brand; retirement avoids competitive exposure |
+| 2025 | Meatpacking industry (Tyson Foods, Cargill, JBS USA), operate Iowa CAFOs | Part of agribusiness donor base | 2020–ongoing | Co-sponsors EATS Act to override California Prop 12 livestock welfare requirements; serves meatpacking corporations opposing animal welfare regulation |
+| 2025-09 | Retirement announcement, exits before 2026 vulnerability | $20.8M raised in 2020 (outraised 2.3x) | 11 years of Koch service | Agricultural consolidation increasingly visible contradiction with "family farmer" brand; retirement avoids competitive exposure |
 
 > [!money] The Damning Sequences
 > **Koch money → Senate seat → legislative service (2014-2025):** Koch Network spent $12M+ to elect Ernst in 2014 — equal to her own campaign's fundraising. Ernst publicly acknowledged Koch Network "started my trajectory." Her 11-year Senate career delivered: consistent RFS/ethanol support (serving Koch-aligned agribusiness), farm bill votes that funnel subsidies to industrial agriculture, and opposition to CAFO regulation protecting Tyson/Cargill/JBS. The $12M Koch investment purchased a decade of legislative service.
@@ -170,9 +170,9 @@ Joni Ernst announced her retirement in September 2025, avoiding a 2026 reelectio
 
 ## Analytical Patterns
 
-**The Genuine Win + Structural Limit** — Ernst has secured genuine policy victories on ethanol subsidies, farm bill provisions, and agricultural infrastructure that deliver real benefits to Iowa's agricultural sector. However, these victories accrue primarily to large-scale industrial agriculture, agribusiness conglomerates, and input manufacturers—not to family farmers. Her "support for Iowa farmers" is structurally real but directed at corporate agriculture rather than at the family farm consolidation crisis that actually threatens her constituency.
+**The Genuine Win + Structural Limit**. Ernst has secured genuine policy victories on ethanol subsidies, farm bill provisions, and agricultural infrastructure that deliver real benefits to Iowa's agricultural sector. However, these victories accrue primarily to large-scale industrial agriculture, agribusiness conglomerates, and input manufacturers, not to family farmers. Her "support for Iowa farmers" is structurally real but directed at corporate agriculture rather than at the family farm consolidation crisis that actually threatens her constituency.
 
-**The Villain Framing** — Ernst blamed "government overreach" and "regulatory burden" for family farm struggles rather than addressing agricultural consolidation, commodity market dynamics, or the specific structure of farm subsidies that favor large operations. By framing the problem as external regulation rather than internal market concentration, she avoids class analysis of how corporate agriculture is displacing family farms—the exact displacement her Koch Network donors' deregulatory agenda accelerates.
+**The Villain Framing**. Ernst blamed "government overreach" and "regulatory burden" for family farm struggles rather than addressing agricultural consolidation, commodity market dynamics, or the specific structure of farm subsidies that favor large operations. By framing the problem as external regulation rather than internal market concentration, she avoids class analysis of how corporate agriculture is displacing family farms, the exact displacement her Koch Network donors' deregulatory agenda accelerates.
 
 ---
 
@@ -192,7 +192,7 @@ Joni Ernst announced her retirement in September 2025, avoiding a 2026 reelectio
 
 Ernst announced September 2, 2025, that she would not seek reelection in 2026.
 
-The political reality: Iowa is shifting. Ernst won in 2020 with 51.8% — a comfortable margin, but a 6.6-point shift from her 2014 performance (57.3%). The state is moving toward Democrats; Republican margins are declining. A third-term reelection in 2026 would have been competitive, risky.
+The political reality: Iowa is shifting. Ernst won in 2020 with 51.8%, a comfortable margin, but a 6.6-point shift from her 2014 performance (57.3%). The state is moving toward Democrats; Republican margins are declining. A third-term reelection in 2026 would have been competitive, risky.
 
 Iowa is also experiencing agricultural consolidation that undermines her farm-based brand. Corporate agriculture is not growing smaller or more locally-owned. Farmland is consolidating faster than ever. The contradiction between her "family farmer" brand and her corporate agriculture voting record was becoming increasingly visible.
 
@@ -203,8 +203,8 @@ Retirement avoided the risk of a difficult 2026 campaign while preserving her ex
 ## Sources
 
 - [FEC Candidate: Sen. Joni Ernst campaign finance summary](https://www.fec.gov/data/candidate/S4IA00129/) (Tier 1) (VERIFIED)
-- ~~[The Hill: Kochs max out for Iowa Republican](https://www.thehill.com/blogs/ballot-box/senate-races/212609-kochs-max-out-for-ernst-in-iowa/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[Real Koch Facts: More Koch Money for Top Crony Joni Ernst](http://realkochfacts.com/more-koch-money-for-top-crony-joni-ernst/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[The Hill: Kochs max out for Iowa Republican](https://www.thehill.com/blogs/ballot-box/senate-races/212609-kochs-max-out-for-ernst-in-iowa/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Real Koch Facts: More Koch Money for Top Crony Joni Ernst](http://realkochfacts.com/more-koch-money-for-top-crony-joni-ernst/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Think Progress: Iowa Senate Nominee Says The Koch Network 'Started My Trajectory'](https://thinkprogress.org/iowa-senate-nominee-says-the-koch-network-started-my-trajectory-56712b88d7e/) (Tier 2) (VERIFIED)
 - [HuffPost: At Koch Retreat, Top GOP Senate Candidates Credited Koch Network For Their Rise](https://www.huffpost.com/entry/koch-brothers-ernst-cotton-gardner_n_5718773) (Tier 2) (VERIFIED)
 - [NBC News: Republican Sen. Joni Ernst won't seek re-election in Iowa in 2026](https://www.nbcnews.com/politics/2026-election/republican-sen-joni-ernst-wont-seek-re-election-iowa-2026-rcna228053) (Tier 2) (VERIFIED)

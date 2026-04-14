@@ -184,7 +184,7 @@ What makes Sixteen Thirty distinctive is not the scale of spending but the perma
 - [Capital Research Center: Out of Darkness, Cash Part 1](https://capitalresearch.org/article/out-of-darkness-cash-part-1/) (Tier 3) (VERIFIED)
 - [House Oversight Committee: Comer Investigation into Chorus Program](https://oversight.house.gov/release/comer-launches-investigation-into-sixteen-thirty-funds-reported-secretive-chorus-program-effort-to-evade-campaign-finance-laws/) (Tier 1) (VERIFIED)
 - [Arabella Advisors - InfluenceWatch](https://www.influencewatch.org/for-profit/arabella-advisors/) (Tier 3)
-- ~~[Tablet Magazine: Examining Arabella Advisors Dark Money Lobbying Power](https://www.tabletmag.com/sections/news/articles/for-profit-dc-firm-staging-americas-grassroots-movements-arabella-advisors)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Tablet Magazine: Examining Arabella Advisors Dark Money Lobbying Power](https://www.tabletmag.com/sections/news/articles/for-profit-dc-firm-staging-americas-grassroots-movements-arabella-advisors)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Free Beacon: Inside Dem Dark Money Behemoth Arabella Advisors](https://freebeacon.com/democrats/inside-dem-dark-money-behemoth-arabella-advisors-failed-attempt-to-create-an-astroturf-influencer-army/) (Tier 3) (VERIFIED)
 - [CampaignNow: The $1.5 Billion Machine. Arabella 2024 Dark Money Blitz](https://www.campaignnow.com/blog/the-1.5-billion-machine-inside-arabella-advisors-2024-dark-money-blitz-and-its-ballot-box-results) (Tier 3) (VERIFIED)
 

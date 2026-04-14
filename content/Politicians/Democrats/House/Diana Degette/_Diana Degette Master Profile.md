@@ -1,5 +1,5 @@
 ---
-title: "Diana Degette Master Profile"
+title: "Diana Degette"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

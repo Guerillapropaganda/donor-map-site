@@ -13,7 +13,7 @@ related: "[[_Jared Kushner Master Profile]] · [[_Donald Trump Master Profile]]"
 ---
 #kushner #kushner-companies #slumlord #real-estate #class-analysis #follow-the-money #charles-kushner #pardon #ambassador #tenant-abuse
 
-donors: (Kushner Companies — internal family firm)
+donors: (Kushner Companies, internal family firm)
 
 ---
 
@@ -26,18 +26,18 @@ Kushner Companies: family real estate empire headquartered in Florham Park, New 
 ### The Slumlord Record
 
 ### New York (East Village):
-ProPublica and the New York Times investigation labeled Kushner a "tier one predator" — the most aggressive category in the city's harassment tracking system. Documented pattern: purchased buildings with rent-stabilized tenants, then engaged in aggressive campaigns to force them out. Tactics included: unnecessary construction creating dust and noise, failure to address mold and water damage, fire code violations left unrepaired, and direct pressure on elderly and low-income tenants to vacate.
+ProPublica and the New York Times investigation labeled Kushner a "tier one predator", the most aggressive category in the city's harassment tracking system. Documented pattern: purchased buildings with rent-stabilized tenants, then engaged in aggressive campaigns to force them out. Tactics included: unnecessary construction creating dust and noise, failure to address mold and water damage, fire code violations left unrepaired, and direct pressure on elderly and low-income tenants to vacate.
 
 ### Maryland (Westminster Management):
 - **$3.25 million fine** (September 2024) for systematic maintenance failures and excessive tenant fees
 - Investigation documented a pattern of charging tenants for repairs that were the landlord's legal responsibility
 - Aggressive fee structure designed to extract maximum revenue from low-income tenants
 
-**Netflix documentary:** "Dirty Money" Season 2, Episode 3: "Slumlord Millionaire." Documented Kushner family rental practices across multiple states. The title itself — slumlord millionaire — captures the class structure: wealth extracted from the poorest tenants funds the family's political ambitions.
+**Netflix documentary:** "Dirty Money" Season 2, Episode 3: "Slumlord Millionaire." Documented Kushner family rental practices across multiple states. The title itself, slumlord millionaire, captures the class structure: wealth extracted from the poorest tenants funds the family's political ambitions.
 
 ---
 
-### Charles Kushner — The Family History
+### Charles Kushner. The Family History
 
 > [!contradiction] Convicted, Pardoned, Ambassador
 > **2005 conviction:** Tax evasion, illegal campaign contributions, and witness tampering. The witness tampering charge: hired a prostitute to seduce his brother-in-law (who was cooperating with federal investigators), secretly recorded the encounter, and sent the tape to his sister.
@@ -48,11 +48,11 @@ ProPublica and the New York Times investigation labeled Kushner a "tier one pred
 >
 > **May 2025:** Senate confirmed Charles Kushner as U.S. Ambassador to France (51–45). A man convicted of hiring a prostitute to blackmail his own family member now represents the United States in Paris.
 
-The pardon-to-ambassadorship pipeline is the most transparent exercise of family privilege in the Trump orbit. It required no donor class, no policy justification, no structural analysis — just a father-in-law's power to erase a legal record and install the family patriarch in a prestige posting.
+The pardon-to-ambassadorship pipeline is the most transparent exercise of family privilege in the Trump orbit. It required no donor class, no policy justification, no structural analysis, just a father-in-law's power to erase a legal record and install the family patriarch in a prestige posting.
 
 ---
 
-### Class Analysis — Extraction at Every Level
+### Class Analysis. Extraction at Every Level
 
 The Kushner family extracts from every class position simultaneously:
 
@@ -62,12 +62,12 @@ The Kushner family extracts from every class position simultaneously:
 
 **From the justice system:** conviction → presidential pardon → ambassadorship. The legal system that punishes ordinary people is reversed for the Kushner family. Wealth and political connection transform a prison sentence into a Paris posting.
 
-The Kushner operation doesn't choose one extraction method — it runs all of them simultaneously. Tenants fund the real estate empire. The real estate empire funds the political positioning. The political positioning creates government access. The government access creates sovereign wealth fund relationships. The sovereign wealth fund relationships generate management fees. Every level feeds the next.
+The Kushner operation doesn't choose one extraction method, it runs all of them simultaneously. Tenants fund the real estate empire. The real estate empire funds the political positioning. The political positioning creates government access. The government access creates sovereign wealth fund relationships. The sovereign wealth fund relationships generate management fees. Every level feeds the next.
 
 ---
 
 ### Sources
 
-- ~~[DOJ: Charles Kushner conviction (2005), case records](https://www.justice.gov/archive/tax/txdv05618.htm)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[DOJ: Charles Kushner conviction (2005), case records](https://www.justice.gov/archive/tax/txdv05618.htm)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [U.S. Senate: Ambassador confirmation vote (51-45, May 2025)](https://www.senate.gov/senators/senators-contact.htm) (Tier 1) (VERIFIED)
 

@@ -1,5 +1,5 @@
 ---
-title: "Thomas Massie Master Profile"
+title: "Thomas Massie"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

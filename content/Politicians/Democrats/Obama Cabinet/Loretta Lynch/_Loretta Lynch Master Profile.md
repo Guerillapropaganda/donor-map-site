@@ -1,5 +1,5 @@
 ---
-title: "Loretta Lynch Master Profile"
+title: "Loretta Lynch"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -1,5 +1,5 @@
 ---
-title: "Neal P. Dunn Master Profile"
+title: "Neal P. Dunn"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

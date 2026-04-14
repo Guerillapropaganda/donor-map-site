@@ -103,7 +103,7 @@ Newsom's administration can pressure non-compliant counties through state fundin
 - [CalMatters: Why a CA sheriff is planning to break the state's sanctuary law](https://calmatters.org/justice/2025/02/sanctuary-state-amador-sheriff/) (Tier 2) (VERIFIED)
 - ~~[American Civil Liberties Union: State vs. Local SB 54 Compliance Map](https://www.aclu.org/news/immigrants-rights/california-sanctuary-county-compliance-2024/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
 - ~~[Center for American Progress: SB 54 Implementation Analysis (2020-2024)](https://www.americanprogress.org/article/sb54-compliance-california/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
-- ~~[CalMatters: California lawsuits against Donald Trump, won and lost](https://calmatters.org/category/politics/2025/01/california-lawsuits-against-donald-trump/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[CalMatters: California lawsuits against Donald Trump, won and lost](https://calmatters.org/category/politics/2025/01/california-lawsuits-against-donald-trump/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Immigrant Defenders Law Center: SB 54 Enforcement Patterns (2025 update)](https://www.immigrantdefenders.org/sb54-gaps) (Tier 2) (VERIFIED)
 
 ---
@@ -112,7 +112,7 @@ Newsom's administration can pressure non-compliant counties through state fundin
 
 "California will not be a part of your mass deportation.". Newsom, January 2025, responding to Trump's executive orders on immigration enforcement.
 
-"We need to expand SB 54.. We need to expand farmworker protections.. We need to make sanctuary real.". Newsom campaign statement, 2026 (noting no legislative action on SB 54 expansion despite six years in office).
+"We need to expand SB 54. We need to expand farmworker protections. We need to make sanctuary real.". Newsom campaign statement, 2026 (noting no legislative action on SB 54 expansion despite six years in office).
 
 ---
 

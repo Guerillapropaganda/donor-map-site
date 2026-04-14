@@ -190,7 +190,7 @@ The Genuine Win + Structural Limit pattern appears in Leidos' VA healthcare work
 - [PR Newswire: Leidos awarded $390M NSA signals intelligence contract](https://www.prnewswire.com/news-releases/leidos-awarded-390-million-nsa-signals-intelligence-contract-302417279.html) (Tier 2) (VERIFIED)
 - [FedScoop: ODNI awards Leidos $375M technology and analytical services contract](https://fedscoop.com/odni-awards-leidos-375m-technology-and-analytical-services-contract/) (Tier 2) (VERIFIED)
 - [Virginia Business: DHS cancels $2.4B Leidos contract](https://virginiabusiness.com/dhs-says-it-is-canceling-2-4b-leidos-contract/) (Tier 2) (VERIFIED)
-- ~~[POGO: Brass Parachutes. The Problem of the Pentagon Revolving Door](https://www.pogo.org/reports/brass-parachutes)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[POGO: Brass Parachutes. The Problem of the Pentagon Revolving Door](https://www.pogo.org/reports/brass-parachutes)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [POGO: From Battlefield to Boardroom. Facilitating the DoD Revolving Door](https://www.pogo.org/analyses/from-battlefield-to-boardroom-facilitating-dod-revolving-door) (Tier 2) (VERIFIED)
 - [Defense News: Leidos taps Rolls-Royce executive Bell as next CEO](https://www.defensenews.com/industry/2023/02/27/leidos-taps-rolls-royce-executive-bell-as-next-ceo/) (Tier 2) (VERIFIED)
 

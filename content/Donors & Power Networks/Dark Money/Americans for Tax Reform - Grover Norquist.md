@@ -31,9 +31,9 @@ aliases:
 
 ### Who They Are
 
-Americans for Tax Reform (ATR). A conservative anti-tax advocacy organization founded in 1985 by Grover Norquist at the request of President Ronald Reagan. ATR's power derives from a single mechanism: the "Taxpayer Protection Pledge" — a written commitment by elected officials to oppose any net tax increase. 95%+ of Republican members of Congress and 1,000+ state legislators have signed the pledge, making Norquist the most influential unelected figure in American tax policy for four decades.
+Americans for Tax Reform (ATR). A conservative anti-tax advocacy organization founded in 1985 by Grover Norquist at the request of President Ronald Reagan. ATR's power derives from a single mechanism: the "Taxpayer Protection Pledge", a written commitment by elected officials to oppose any net tax increase. 95%+ of Republican members of Congress and 1,000+ state legislators have signed the pledge, making Norquist the most influential unelected figure in American tax policy for four decades.
 
-ATR is a 501(c)(4) that does not disclose its donors but receives funding from corporate interests and conservative foundations. The organization's annual "Wednesday Meeting" in Washington brings together 150+ conservative leaders weekly — the most important regular gathering in conservative movement politics.
+ATR is a 501(c)(4) that does not disclose its donors but receives funding from corporate interests and conservative foundations. The organization's annual "Wednesday Meeting" in Washington brings together 150+ conservative leaders weekly, the most important regular gathering in conservative movement politics.
 
 ---
 
@@ -45,9 +45,9 @@ No net tax increases (the pledge), reduced government spending (to justify tax c
 
 ### What They've Gotten
 
-**The Pledge Monopoly:** The Taxpayer Protection Pledge has constrained Republican tax policy for 40 years. The pledge's simplicity is its genius: by reducing tax policy to a yes/no commitment, Norquist eliminated the possibility of bipartisan tax reform that includes any revenue increases. The Bush tax cuts (2001, 2003), the Trump tax cuts (2017), and the consistent Republican opposition to revenue-positive tax reform all operate within the pledge's constraints. The pledge does not just prevent tax increases — it prevents the conversation about tax increases.
+**The Pledge Monopoly:** The Taxpayer Protection Pledge has constrained Republican tax policy for 40 years. The pledge's simplicity is its genius: by reducing tax policy to a yes/no commitment, Norquist eliminated the possibility of bipartisan tax reform that includes any revenue increases. The Bush tax cuts (2001, 2003), the Trump tax cuts (2017), and the consistent Republican opposition to revenue-positive tax reform all operate within the pledge's constraints. The pledge does not just prevent tax increases, it prevents the conversation about tax increases.
 
-**The Wednesday Meeting:** ATR's weekly gathering coordinates conservative political strategy across organizations: the Heritage Foundation, NRA, Federalist Society, Club for Growth, and dozens of other groups. The meeting functions as conservative movement infrastructure — a regular coordination mechanism that the progressive movement lacks.
+**The Wednesday Meeting:** ATR's weekly gathering coordinates conservative political strategy across organizations: the Heritage Foundation, NRA, Federalist Society, Club for Growth, and dozens of other groups. The meeting functions as conservative movement infrastructure, a regular coordination mechanism that the progressive movement lacks.
 
 > [!money]
 > Norquist's genius was converting a simple pledge into a binding constraint on an entire political party: the Taxpayer Protection Pledge costs ATR almost nothing to administer but constrains trillions of dollars in tax policy. Republican members who break the pledge face primary challenges funded by ATR allies (Club for Growth, Koch network). Members who keep the pledge deliver tax policy that serves ATR's corporate donors. The mechanism: a piece of paper signed by a candidate creates a permanent obligation to the donor class that funds anti-tax organizations, enforced through the threat of primary challenges that cost far more than ATR itself spends. The pledge is the most efficient political leverage device in American politics — minimal investment, maximum constraint.
@@ -66,6 +66,6 @@ The class function is straightforward. The pledge prevents tax increases on the 
 
 - [OpenSecrets: Americans for Tax Reform](https://www.opensecrets.org/orgs/americans-for-tax-reform/summary?id=D000029588) (Tier 1) (VERIFIED)
 - [ATR: Taxpayer Protection Pledge signers list](https://atr.org/pledge-database/) (Tier 1) (VERIFIED)
-- ~~[IRS: ATR 990 filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Americans%20for%20Tax%20Reform%20-%20Grover%20Norquist&city=&state=All+States&country=US)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[IRS: ATR 990 filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Americans%20for%20Tax%20Reform%20-%20Grover%20Norquist&city=&state=All+States&country=US)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Ballotpedia: Americans for Tax Reform](https://ballotpedia.org/Americans_for_Tax_Reform) (Tier 3) (VERIFIED)
 

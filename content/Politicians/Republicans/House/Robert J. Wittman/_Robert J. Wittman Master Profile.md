@@ -1,5 +1,5 @@
 ---
-title: "Robert J. Wittman Master Profile"
+title: "Robert J. Wittman"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

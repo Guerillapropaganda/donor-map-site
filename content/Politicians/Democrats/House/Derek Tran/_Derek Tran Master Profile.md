@@ -1,5 +1,5 @@
 ---
-title: "Derek Tran Master Profile"
+title: "Derek Tran"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

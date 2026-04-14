@@ -1,5 +1,5 @@
 ---
-title: "Dusty Johnson Master Profile"
+title: "Dusty Johnson"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

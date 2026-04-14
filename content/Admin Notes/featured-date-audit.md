@@ -19,11 +19,11 @@ Generated: 2026-04-11T09:11:46.966Z
 
 _None yet._
 
-## Below tier — should not be featured once enforcement is enabled
+## Below tier, should not be featured once enforcement is enabled
 
-- **Raytheon (RTX Corporation)** _(ready)_ — featured 2026-04-10 — `Donors & Power Networks/Defense & Intelligence/Raytheon (RTX).md`
-- **AIPAC - American Israel Public Affairs Committee** _(ready)_ — featured 2026-04-03 — `Donors & Power Networks/Israel Lobby/AIPAC - American Israel Public Affairs Committee.md`
-- **Koch Network - Charles Koch** _(draft)_ — featured 2026-04-17 — `Donors & Power Networks/Mega-Donors/Koch Network - Charles Koch.md`
+- **Raytheon (RTX Corporation)** _(ready)_, featured 2026-04-10, `Donors & Power Networks/Defense & Intelligence/Raytheon (RTX).md`
+- **AIPAC - American Israel Public Affairs Committee** _(ready)_, featured 2026-04-03, `Donors & Power Networks/Israel Lobby/AIPAC - American Israel Public Affairs Committee.md`
+- **Koch Network - Charles Koch** _(draft)_, featured 2026-04-17, `Donors & Power Networks/Mega-Donors/Koch Network - Charles Koch.md`
 
 ## How to resolve
 

@@ -2,7 +2,7 @@
 title: "Condoleezza Rice"
 type: politician
 content-readiness: draft
-central-thesis: "Condoleezza Rice exemplifies the academic-military-industrial revolving door. Her Stanford provost credentials and intellectual framing ('mushroom cloud' rhetoric, democracy promotion doctrine) provided moral cover for the Iraq War — the most cons..."
+central-thesis: "Condoleezza Rice exemplifies the academic-military-industrial revolving door. Her Stanford provost credentials and intellectual framing ('mushroom cloud' rhetoric, democracy promotion doctrine) provided moral cover for the Iraq War , the most cons..."
 last-updated: 2026-04-09
 source-tier: 1
 parent: null
@@ -51,7 +51,7 @@ Condoleezza Rice. National Security Advisor (2001–2005), Secretary of State (2
 
 #### Energy Sector (Chevron)
 - **Chevron board of directors (1991–2001):** $250,000+ in board compensation and stock options; direct access to energy sector strategic planning during post-Cold War oil transition
-- **MV Condoleezza Rice oil tanker:** Named after Rice during her board tenure — symbolic integration of her identity with energy industry
+- **MV Condoleezza Rice oil tanker:** Named after Rice during her board tenure, symbolic integration of her identity with energy industry
 - **Chevron's Iraq interests:** Chevron operates in Iraq under current government contracts; Iraq sanctions regime (1991–2003) benefited oil majors by restricting Iraqi oil production, supporting price maintenance
 
 #### Defense Contractor Network
@@ -107,7 +107,7 @@ The pattern: energy sector → government → academia. At each stage, Rice's po
 
 **Genuine Win + Structural Limit:** Rice's intellectual framework (realism, democracy promotion) is sophisticated, but it operated entirely within donor-class constraints. She never challenged the underlying military-industrial-energy nexus; she legitimized it using academic language.
 
-**Credibility as Weapon:** Rice's most valuable asset was not military rank or defense budgets — it was intellectual credibility. The Bush administration deployed her sophisticated foreign policy rhetoric to overcome public skepticism about Iraq. Her credibility was the weapon that made the war possible.
+**Credibility as Weapon:** Rice's most valuable asset was not military rank or defense budgets, it was intellectual credibility. The Bush administration deployed her sophisticated foreign policy rhetoric to overcome public skepticism about Iraq. Her credibility was the weapon that made the war possible.
 
 **Dark Money Symmetry:** Rice's post-government path (return to Stanford, corporate board seats, think tank positions) is funded through university endowments and donor networks invisible to campaign finance law. Her credibility recovery costs millions but leaves no FEC fingerprint.
 
@@ -115,13 +115,13 @@ The pattern: energy sector → government → academia. At each stage, Rice's po
 
 ## Sources
 
-- ~~[FEC: Condoleezza Rice campaign finance (if applicable)](https://www.fec.gov/data/candidate/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[Stanford University: Condoleezza Rice bio - CISAC Director](https://cisac.stanford.edu/about/director)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[ProPublica: Condoleezza Rice Revolving Door](https://projects.propublica.org/revolving-door-searchable-database/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[FEC: Condoleezza Rice campaign finance (if applicable)](https://www.fec.gov/data/candidate/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Stanford University: Condoleezza Rice bio - CISAC Director](https://cisac.stanford.edu/about/director)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[ProPublica: Condoleezza Rice Revolving Door](https://projects.propublica.org/revolving-door-searchable-database/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Wikipedia: Condoleezza Rice - Chevron board service](https://en.wikipedia.org/wiki/Condoleezza_Rice) (Tier 3) (VERIFIED)
-- ~~[The Guardian: The MV Condoleezza Rice - Chevron oil tanker](https://www.theguardian.com/world/2008/jan/20/usa.chevron)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ProPublica: Condoleezza Rice on Lockheed Martin connections (Tier 2) (URL NEEDED — fabricated slug; no ProPublica article found on Rice/private equity/Lockheed connections)
-- ~~[Council on Foreign Relations: Condoleezza Rice biography](https://www.cfr.org/experts/condoleezza-rice)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[The Guardian: The MV Condoleezza Rice - Chevron oil tanker](https://www.theguardian.com/world/2008/jan/20/usa.chevron)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ProPublica: Condoleezza Rice on Lockheed Martin connections (Tier 2) (URL NEEDED, fabricated slug; no ProPublica article found on Rice/private equity/Lockheed connections)
+- ~~[Council on Foreign Relations: Condoleezza Rice biography](https://www.cfr.org/experts/condoleezza-rice)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Hoover Institution: Condoleezza Rice - Senior Fellow](https://www.hoover.org/profiles/condoleezza-rice) (Tier 1) (VERIFIED)
 
 ### Influence Network (Cross-Reference)

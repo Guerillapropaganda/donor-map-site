@@ -1,5 +1,5 @@
 ---
-title: "Andrew R. Garbarino Master Profile"
+title: "Andrew R. Garbarino"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

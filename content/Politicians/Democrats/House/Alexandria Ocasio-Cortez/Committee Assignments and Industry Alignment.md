@@ -33,7 +33,7 @@ Financial Services membership from 2019-2023 positioned AOC within one of the mo
 
 **Securities & Investment breakdown:** $2,668,832 combined across campaign and leadership PAC
 
-**2024 campaign cycle:** $78,806 from Securities & Investment sector — substantially lower than peers (comparison members like Sinema and Gottheimer received $1M+)
+**2024 campaign cycle:** $78,806 from Securities & Investment sector, substantially lower than peers (comparison members like Sinema and Gottheimer received $1M+)
 
 ### Donor Profile Shift Dynamics
 

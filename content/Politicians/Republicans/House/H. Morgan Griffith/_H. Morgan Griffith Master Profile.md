@@ -1,5 +1,5 @@
 ---
-title: "H. Morgan Griffith Master Profile"
+title: "H. Morgan Griffith"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -1,5 +1,5 @@
 ---
-title: "Madeleine Dean Master Profile"
+title: "Madeleine Dean"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

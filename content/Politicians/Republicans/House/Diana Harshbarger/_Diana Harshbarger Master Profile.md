@@ -1,5 +1,5 @@
 ---
-title: "Diana Harshbarger Master Profile"
+title: "Diana Harshbarger"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -1,8 +1,8 @@
 ---
-title: "Matt Gaetz Master Profile"
+title: "Matt Gaetz"
 type: politician
 content-readiness: ready
-central-thesis: "Gaetz is the donor class's chaos agent — his function is not to pass legislation but to make government dysfunctional enough that regulation becomes impossible. His father's $30M+ fortune from the healthcare industry means he doesn't need the dono..."
+central-thesis: "Gaetz is the donor class's chaos agent , his function is not to pass legislation but to make government dysfunctional enough that regulation becomes impossible. His father's $30M+ fortune from the healthcare industry means he doesn't need the dono..."
 last-updated: 2026-04-13
 source-tier: 1
 parent: null
@@ -26,7 +26,7 @@ known-gaps:
   - "No mapped relationships"
 related: "[[_Donald Trump Master Profile]] · [[Kevin McCarthy]] · [[Freedom Caucus]]"
 last-enriched: "2026-04-11"
-internal-notes: "[MANUAL 2026-04-11] Bioguide recovered: G000578. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true — the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
+internal-notes: "[MANUAL 2026-04-11] Bioguide recovered: G000578. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true , the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
 
 [JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
 issues:
@@ -50,7 +50,7 @@ donors: Don Gaetz Family Fortune · [[MAGA Small Dollar Base]]
 
 ## Who He Is
 
-Matt Gaetz. Born May 7, 1982, Hollywood, Florida. Republican. U.S. Representative for Florida's 1st congressional district (2017–November 2024). Resigned from Congress after Trump nominated him as Attorney General — before the House Ethics Committee could release its report on him. The Ethics report was released in December 2024 after his resignation. His father, Don Gaetz, is the former Florida Senate President and co-founder of VITAS Healthcare, which sold for $406 million in 2004. Don and Victoria Gaetz's net worth: approximately $29.6 million. Matt Gaetz's own net worth: estimated $700,000–$1 million, largely from his congressional salary — he is functionally dependent on his family's wealth for his political position. Never indicted by the DOJ on sex trafficking charges despite FBI investigation beginning 2021. Attorney General nomination withdrawn November 21, 2024, after Senate Republicans signaled they would not confirm him.
+Matt Gaetz. Born May 7, 1982, Hollywood, Florida. Republican. U.S. Representative for Florida's 1st congressional district (2017–November 2024). Resigned from Congress after Trump nominated him as Attorney General, before the House Ethics Committee could release its report on him. The Ethics report was released in December 2024 after his resignation. His father, Don Gaetz, is the former Florida Senate President and co-founder of VITAS Healthcare, which sold for $406 million in 2004. Don and Victoria Gaetz's net worth: approximately $29.6 million. Matt Gaetz's own net worth: estimated $700,000–$1 million, largely from his congressional salary, he is functionally dependent on his family's wealth for his political position. Never indicted by the DOJ on sex trafficking charges despite FBI investigation beginning 2021. Attorney General nomination withdrawn November 21, 2024, after Senate Republicans signaled they would not confirm him.
 
 ---
 
@@ -70,7 +70,7 @@ Matt Gaetz. Born May 7, 1982, Hollywood, Florida. Republican. U.S. Representativ
 ## Donor Class Map
 
 ### The Family Fortune:
-- [[The Gaetz Family Fortune and the Self-Funded Disruptor]] — Don Gaetz co-founded VITAS Healthcare. The Hospice Care Reimbursement Act (1982), which Don successfully lobbied Congress to pass, made hospice costs reimbursable by Medicare. Don then helped convert a nonprofit hospice into VITAS, a for-profit company that sold for $406 million in 2004. This is the original accumulation of the Gaetz family fortune: a politician lobbied for Medicare coverage of his industry, then profited from the coverage he created.
+- [[The Gaetz Family Fortune and the Self-Funded Disruptor]]. Don Gaetz co-founded VITAS Healthcare. The Hospice Care Reimbursement Act (1982), which Don successfully lobbied Congress to pass, made hospice costs reimbursable by Medicare. Don then helped convert a nonprofit hospice into VITAS, a for-profit company that sold for $406 million in 2004. This is the original accumulation of the Gaetz family fortune: a politician lobbied for Medicare coverage of his industry, then profited from the coverage he created.
 
 ### The MAGA Small-Dollar Machine:
 - Gaetz raised money from the MAGA small-dollar base primarily through controversy. His fundraising model mirrors MTG's: controversy generates media attention, attention generates donation solicitations, donations fund more controversy.
@@ -82,7 +82,7 @@ Matt Gaetz. Born May 7, 1982, Hollywood, Florida. Republican. U.S. Representativ
 
 ### The McCarthy Ouster
 
-On October 3, 2023, Gaetz filed a motion to vacate against Speaker [[_Kevin McCarthy Master Profile|Kevin McCarthy]]. The vote: 216–210. All 208 Democrats voted with 8 Republicans to remove McCarthy — the first Speaker removed in American history.
+On October 3, 2023, Gaetz filed a motion to vacate against Speaker [[_Kevin McCarthy Master Profile|Kevin McCarthy]]. The vote: 216–210. All 208 Democrats voted with 8 Republicans to remove McCarthy, the first Speaker removed in American history.
 
 > [!money]
 > Gaetz's stated justification: McCarthy made a deal with Democrats to avoid a government shutdown. The real context: Gaetz had personal grievances with McCarthy going back to the debt ceiling fight, and the removal served to demonstrate the Freedom Caucus's power to extract concessions — at the cost of three weeks of House paralysis. The donor class's deregulatory interests are served by a dysfunctional House that cannot pass regulation. Whether Gaetz calculated this or simply acted on personal grievance, the outcome was the same.
@@ -90,9 +90,9 @@ On October 3, 2023, Gaetz filed a motion to vacate against Speaker [[_Kevin McCa
 The resulting speaker election:
 - [[_Jim Jordan Master Profile|Jim Jordan]] (Freedom Caucus chair, Gaetz ally): nominated, failed three floor votes
 - Tom Emmer: elected by Republicans, immediately withdrew after Trump opposition
-- [[_Mike Johnson Master Profile|Mike Johnson]]: elected on fourth attempt — an obscure Louisiana Republican with MAGA maximalist views who had helped coordinate the effort to overturn the 2020 election
+- [[_Mike Johnson Master Profile|Mike Johnson]]: elected on fourth attempt, an obscure Louisiana Republican with MAGA maximalist views who had helped coordinate the effort to overturn the 2020 election
 
-- [[The McCarthy Ouster and the Politics of Institutional Destruction]] — full analysis
+- [[The McCarthy Ouster and the Politics of Institutional Destruction]], full analysis
 
 ---
 
@@ -115,20 +115,20 @@ The DOJ investigated beginning in 2021 and declined to bring charges. Gaetz resi
 
 ## Donation-to-Policy Timeline
 
-*Note: Gaetz inverts the normal donor model — his family's $29.6M fortune makes him independent of corporate donors, which makes him useful as a chaos agent whose dysfunction benefits the deregulatory donor class without requiring direct patronage. The family fortune is itself the product of legislative capture: Don Gaetz lobbied Congress to pass hospice Medicare reimbursement, then profited from the market he created.*
+*Note: Gaetz inverts the normal donor model, his family's $29.6M fortune makes him independent of corporate donors, which makes him useful as a chaos agent whose dysfunction benefits the deregulatory donor class without requiring direct patronage. The family fortune is itself the product of legislative capture: Don Gaetz lobbied Congress to pass hospice Medicare reimbursement, then profited from the market he created.*
 
 #### Family Fortune / Original Accumulation
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2004 | Don Gaetz — co-founded VITAS Healthcare using Medicare hospice legislation (Hospice Care Reimbursement Act, 1982) that Don helped lobby into existence | $406M (VITAS sale); family fortune $29.6M | 1982-2004 (22-year accumulation) | Matt Gaetz enters politics on family wealth and name — functionally dependent on $29.6M fortune for political standing; personal net worth only ~$700K–$1M |
-| 2004-2016 | Don Gaetz political infrastructure (Florida State Senate President) — built political machine Matt inherits | Political infrastructure value | 2004-2012 (Don's tenure) | Matt enters Congress from FL-1 (R+16 safe seat) using family name, wealth, and political connections |
+| 2004 | Don Gaetz, co-founded VITAS Healthcare using Medicare hospice legislation (Hospice Care Reimbursement Act, 1982) that Don helped lobby into existence | $406M (VITAS sale); family fortune $29.6M | 1982-2004 (22-year accumulation) | Matt Gaetz enters politics on family wealth and name, functionally dependent on $29.6M fortune for political standing; personal net worth only ~$700K–$1M |
+| 2004-2016 | Don Gaetz political infrastructure (Florida State Senate President), built political machine Matt inherits | Political infrastructure value | 2004-2012 (Don's tenure) | Matt enters Congress from FL-1 (R+16 safe seat) using family name, wealth, and political connections |
 
 #### MAGA Small-Dollar / Outrage Fundraising
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2021-01 | MAGA small-dollar base — January 6 certification vote cements "most loyal Trump Republican" positioning | Small-dollar surge | 2017-2021 (MAGA maximalist positioning) | Votes against certifying 2020 election results — fundraising and media value from loyalty performance |
+| 2021-01 | MAGA small-dollar base. January 6 certification vote cements "most loyal Trump Republican" positioning | Small-dollar surge | 2017-2021 (MAGA maximalist positioning) | Votes against certifying 2020 election results, fundraising and media value from loyalty performance |
 | 2023-10 | MAGA donor base + deregulatory interests served by House dysfunction | Chaos value > dollar value | 2017-ongoing | McCarthy ouster: removes first Speaker in history → House paralyzed 3 weeks → produces [[_Mike Johnson Master Profile|Mike Johnson]] (MAGA maximalist who coordinated election certification opposition) |
 
 #### Wealth-as-Immunity / Accountability Shield
@@ -136,7 +136,7 @@ The DOJ investigated beginning in 2021 and declined to bring charges. Gaetz resi
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
 | 2021-2024 | Family wealth ($29.6M) functioning as legal shield | Protection value: unlawful non-prosecution | Lifetime family backstop | FBI/DOJ sex trafficking investigation → no charges; family wealth and political connections provide protection unavailable to ordinary Americans |
-| 2024-11 | Trump loyalty investment → AG nomination (reward for chaos-agent performance) | Nomination value | 2017-2024 (7 years of loyalty) | Trump nominates Gaetz as Attorney General; Senate Republicans signal no confirmation; Gaetz withdraws; Ethics report released after resignation — "substantial evidence" of statutory rape, drug use, improper gifts |
+| 2024-11 | Trump loyalty investment → AG nomination (reward for chaos-agent performance) | Nomination value | 2017-2024 (7 years of loyalty) | Trump nominates Gaetz as Attorney General; Senate Republicans signal no confirmation; Gaetz withdraws; Ethics report released after resignation, "substantial evidence" of statutory rape, drug use, improper gifts |
 
 > [!money] The Damning Sequences
 > **The original accumulation loop:** Don Gaetz lobbies Congress to pass hospice Medicare reimbursement → Congress passes Hospice Care Reimbursement Act (1982) → Don converts nonprofit hospice to for-profit VITAS → VITAS sells for $406M (2004). The family fortune is built on a politician using legislative access to create a market and then profiting from that market. The structure Matt Gaetz later uses — political power as protection from accountability — is inherited directly from this model.
@@ -159,21 +159,21 @@ The House Ethics Committee found "substantial evidence" that Gaetz engaged in se
 
 ## Analytical Patterns
 
-**The Genuine Win + Structural Limit** — Gaetz's McCarthy ouster is a real institutional victory producing three weeks of House paralysis, which benefits the deregulatory donor class by preventing new regulation and slowing congressional function. But this victory stops short of threatening his family's for-profit healthcare industry base (VITAS Healthcare), and he maintains Republican control of the House.
+**The Genuine Win + Structural Limit**. Gaetz's McCarthy ouster is a real institutional victory producing three weeks of House paralysis, which benefits the deregulatory donor class by preventing new regulation and slowing congressional function. But this victory stops short of threatening his family's for-profit healthcare industry base (VITAS Healthcare), and he maintains Republican control of the House.
 
-**The Villain Framing** — Gaetz frames McCarthy and institutional leadership as the compromised external enemies requiring removal and replacement. This deflects from examining his actual material position: his political career depends entirely on family wealth ($29.6M) derived from his father's strategy of lobbying Congress to pass hospice Medicare reimbursement, then profiting from that reimbursement through VITAS. The villain is leadership incompetence; the beneficiary (donor class deregulation interests) remains hidden.
+**The Villain Framing**. Gaetz frames McCarthy and institutional leadership as the compromised external enemies requiring removal and replacement. This deflects from examining his actual material position: his political career depends entirely on family wealth ($29.6M) derived from his father's strategy of lobbying Congress to pass hospice Medicare reimbursement, then profiting from that reimbursement through VITAS. The villain is leadership incompetence; the beneficiary (donor class deregulation interests) remains hidden.
 
-**The Two-Audience Problem** — Gaetz performs as the anti-establishment chaos agent fighting corruption to his MAGA base, while privately serving the deregulatory interests that benefit from House dysfunction. His family wealth and healthcare industry background contradict the populist outsider image.
+**The Two-Audience Problem**. Gaetz performs as the anti-establishment chaos agent fighting corruption to his MAGA base, while privately serving the deregulatory interests that benefit from House dysfunction. His family wealth and healthcare industry background contradict the populist outsider image.
 
-**The Pilot Program** — Gaetz's committee assignments and legislative output are minimal; his function is demonstrated through chaos creation (McCarthy ouster) rather than legislative accomplishment. The chaos itself is the product delivered to the small-dollar donor base.
+**The Pilot Program**. Gaetz's committee assignments and legislative output are minimal; his function is demonstrated through chaos creation (McCarthy ouster) rather than legislative accomplishment. The chaos itself is the product delivered to the small-dollar donor base.
 
 ---
 
 ## Rhetorical Signature Moves
 
-1. **The outsider brand:** Gaetz performed hostility to the institutional norms of Congress — calling colleagues compromised, attacking leadership, threatening procedural chaos — as a fundraising and media strategy. The "chaos" is the product.
-2. **The MAGA maximalism:** Gaetz consistently positioned himself as the most pure Trump loyalist in the House. This served multiple functions: it differentiated him within the caucus, generated small-dollar donations from the MAGA base, and provided political protection — attacking Gaetz meant attacking Trump.
-3. **The media fluency:** Gaetz is a more sophisticated media performer than most Congress members. Fox News appearances, podcast appearances, Substack-era media — he understood that congressional power in the MAGA era comes from media attention as much as committee assignments.
+1. **The outsider brand:** Gaetz performed hostility to the institutional norms of Congress, calling colleagues compromised, attacking leadership, threatening procedural chaos, as a fundraising and media strategy. The "chaos" is the product.
+2. **The MAGA maximalism:** Gaetz consistently positioned himself as the most pure Trump loyalist in the House. This served multiple functions: it differentiated him within the caucus, generated small-dollar donations from the MAGA base, and provided political protection, attacking Gaetz meant attacking Trump.
+3. **The media fluency:** Gaetz is a more sophisticated media performer than most Congress members. Fox News appearances, podcast appearances, Substack-era media, he understood that congressional power in the MAGA era comes from media attention as much as committee assignments.
 4. **The personal grievance as policy:** The McCarthy ouster was, at its core, a personal conflict elevated to constitutional procedure. Gaetz's ability to use institutional mechanisms for personal ends is the clearest expression of the chaos-agent function.
 
 ---

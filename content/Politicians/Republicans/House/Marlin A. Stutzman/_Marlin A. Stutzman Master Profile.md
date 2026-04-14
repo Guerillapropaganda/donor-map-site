@@ -1,5 +1,5 @@
 ---
-title: "Marlin A. Stutzman Master Profile"
+title: "Marlin A. Stutzman"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

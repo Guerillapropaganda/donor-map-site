@@ -1,5 +1,5 @@
 ---
-title: "Ann Wagner Master Profile"
+title: "Ann Wagner"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

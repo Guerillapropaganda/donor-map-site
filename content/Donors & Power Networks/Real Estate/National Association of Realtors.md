@@ -80,11 +80,11 @@ aliases:
 
 ### Who They Are
 
-The National Association of Realtors. The single largest lobbying spender in the United States — $86.4 million in 2024, ranking #1 out of 9,200 organizations tracked by OpenSecrets. NAR represents 1.5 million members (real estate agents, brokers, property managers) and operates with annual revenue of $360 million. CEO Nykia Wright received $2.55 million in total compensation in 2024. Total 2024 political footprint: $17.5 million in contributions (rank #56 of 40,455 organizations), $86.4 million in lobbying (#1), and $50.98 million in total federal political ecosystem (#35 of 660). (UNVERIFIED)
+The National Association of Realtors. The single largest lobbying spender in the United States, $86.4 million in 2024, ranking #1 out of 9,200 organizations tracked by OpenSecrets. NAR represents 1.5 million members (real estate agents, brokers, property managers) and operates with annual revenue of $360 million. CEO Nykia Wright received $2.55 million in total compensation in 2024. Total 2024 political footprint: $17.5 million in contributions (rank #56 of 40,455 organizations), $86.4 million in lobbying (#1), and $50.98 million in total federal political ecosystem (#35 of 660). (UNVERIFIED)
 
-NAR is the political infrastructure of the real estate industry — the lobbying operation that ensures housing policy in America serves property values over housing access. The organization's political spending dwarfs most individual mega-donors and rivals the largest corporate PACs. Its structural power comes from a simple fact: every elected official at every level of government touches housing policy, and NAR buys access to all of them.
+NAR is the political infrastructure of the real estate industry, the lobbying operation that ensures housing policy in America serves property values over housing access. The organization's political spending dwarfs most individual mega-donors and rivals the largest corporate PACs. Its structural power comes from a simple fact: every elected official at every level of government touches housing policy, and NAR buys access to all of them.
 
-The organization entered 2023-2024 in simultaneous crisis on three fronts: a $1.8 billion antitrust verdict for conspiring to inflate broker commissions, a sexual harassment scandal that forced the resignation of its president and CEO, and the replacement president's resignation after claiming she was being blackmailed. The crises exposed an organization whose internal culture matched its external function — extracting maximum value while resisting accountability.
+The organization entered 2023-2024 in simultaneous crisis on three fronts: a $1.8 billion antitrust verdict for conspiring to inflate broker commissions, a sexual harassment scandal that forced the resignation of its president and CEO, and the replacement president's resignation after claiming she was being blackmailed. The crises exposed an organization whose internal culture matched its external function, extracting maximum value while resisting accountability.
 
 ---
 
@@ -92,21 +92,21 @@ The organization entered 2023-2024 in simultaneous crisis on three fronts: a $1.
 
 NAR's legislative agenda is the real estate industry's wish list, lobbied through 80+ registered lobbyists and $86.4 million in annual spending. In 2024, NAR lobbied on at least 9 bills in Congress:
 
-**Support:** Mortgage interest deduction preservation. 1031 like-kind exchange preservation (allowing investors to defer capital gains indefinitely by rolling profits into new properties). Opportunity Zone expansion. SALT cap restoration (H.R.1326 — SALT Act, 8 lobbying reports). Reduced regulatory burdens on housing development. Mortgage credit access deregulation. SAFE Banking Act (S.1323, 8 reports). SECURE Notarization Act (H.R.3069, 12 reports). Neighborhood Homes Investment Act (S.657, 14 reports — most heavily lobbied bill).
+**Support:** Mortgage interest deduction preservation. 1031 like-kind exchange preservation (allowing investors to defer capital gains indefinitely by rolling profits into new properties). Opportunity Zone expansion. SALT cap restoration (H.R.1326. SALT Act, 8 lobbying reports). Reduced regulatory burdens on housing development. Mortgage credit access deregulation. SAFE Banking Act (S.1323, 8 reports). SECURE Notarization Act (H.R.3069, 12 reports). Neighborhood Homes Investment Act (S.657, 14 reports, most heavily lobbied bill).
 
 **Oppose:** Rent control at any level of government. Inclusionary zoning mandates. Fair housing enforcement expansion. Transaction taxes or transfer taxes. Regulations that slow real estate development timelines. Any policy that constrains housing prices or transaction volume.
 
-The pattern: NAR supports policies that increase the volume and price of real estate transactions (which generate commissions for its members) and opposes policies that constrain prices or volume (which reduce commissions). The policy agenda is not about housing — it's about transactions.
+The pattern: NAR supports policies that increase the volume and price of real estate transactions (which generate commissions for its members) and opposes policies that constrain prices or volume (which reduce commissions). The policy agenda is not about housing, it's about transactions.
 
 ---
 
-### Who They Fund — The Bipartisan Access Machine
+### Who They Fund. The Bipartisan Access Machine
 
-NAR's political operation is the textbook bipartisan access strategy: buy every committee chair, every relevant incumbent, every potential gatekeeper on housing policy regardless of party. The RPAC (Realtors Political Action Committee) is the largest PAC contributor to federal candidates, distributing $4.19 million directly to candidates in 2024 — with a deliberate near-perfect bipartisan split: **49.01% to Democrats, 50.60% to Republicans**. (UNVERIFIED)
+NAR's political operation is the textbook bipartisan access strategy: buy every committee chair, every relevant incumbent, every potential gatekeeper on housing policy regardless of party. The RPAC (Realtors Political Action Committee) is the largest PAC contributor to federal candidates, distributing $4.19 million directly to candidates in 2024, with a deliberate near-perfect bipartisan split: **49.01% to Democrats, 50.60% to Republicans**. (UNVERIFIED)
 
 NAR gives **identical $120,000 contributions to all six major party committees**: DNC, DCCC, DSCC, RNC, NRCC, and NRSC. The **Bipartisan Real Estate Caucus** in Congress now has **122 members**, cultivated through years of giving and staffed by **535 Federal Political Coordinators** who maintain relationships with 100% of Congress. (UNVERIFIED)
 
-### 2024 Cycle — Contributions by Party of Recipient:
+### 2024 Cycle. Contributions by Party of Recipient:
 
 | Cycle | Total | Democrats | % Dems | Republicans | % Repubs |
 |-------|-------|-----------|--------|-------------|----------|
@@ -116,9 +116,9 @@ NAR gives **identical $120,000 contributions to all six major party committees**
 | 2018 | $5,341,343 | $2,658,754 | 50.0% | $2,657,384 | 50.0% |
 | 2016 | $5,820,232 | $2,363,068 | 42.3% | $3,222,891 | 57.7% |
 
-Total contributions tripled from $5.3 million (2018) to $17.5 million (2024) — a spending explosion that coincided with the antitrust litigation and the organization's fight to preserve its commission structure.
+Total contributions tripled from $5.3 million (2018) to $17.5 million (2024), a spending explosion that coincided with the antitrust litigation and the organization's fight to preserve its commission structure.
 
-**2024 Direct Candidate Contributions:** When you strip out PAC-to-PAC transfers, NAR's direct candidate giving skews heavily Republican: $3.58M to Republicans (69.0%) vs. $2.36M to Democrats (30.6%). And 94% of candidate contributions go to incumbents ($5.6M) vs. just 6% to challengers ($354K). NAR doesn't invest in change — it buys access to existing power.
+**2024 Direct Candidate Contributions:** When you strip out PAC-to-PAC transfers, NAR's direct candidate giving skews heavily Republican: $3.58M to Republicans (69.0%) vs. $2.36M to Democrats (30.6%). And 94% of candidate contributions go to incumbents ($5.6M) vs. just 6% to challengers ($354K). NAR doesn't invest in change, it buys access to existing power.
 
 ### 2024 Top Recipients:
 
@@ -135,9 +135,9 @@ Total contributions tripled from $5.3 million (2018) to $17.5 million (2024) —
 | Beth Van Duyne (R-TX24) | $178,500 | Candidate |
 | Steve Scalise (R-LA01) | $164,500 | Candidate |
 
-NAR's PAC also funneled $1.27 million to legislators who voted to overturn the 2020 election results — funding insurrection-sympathetic members while publicly claiming nonpartisan commitment to housing policy.
+NAR's PAC also funneled $1.27 million to legislators who voted to overturn the 2020 election results, funding insurrection-sympathetic members while publicly claiming nonpartisan commitment to housing policy.
 
-**Independent Expenditure Recipients — Top Targets via IE (2024 Cycle):** (UNVERIFIED)
+**Independent Expenditure Recipients. Top Targets via IE (2024 Cycle):** (UNVERIFIED)
 
 | Candidate | Party | IE Amount | Cycle |
 |-----------|-------|-----------|-------|
@@ -150,9 +150,9 @@ NAR's PAC also funneled $1.27 million to legislators who voted to overturn the 2
 | Chris Van Hollen | D-MD | $926,062 | 2016 |
 | Kyrsten Sinema | D-AZ | $358,200 | 2014 |
 
-NAR achieved a **97% win rate** on supported candidates in 2024. Notably, NAR never spends money opposing candidates — all independent expenditure is positive "for" spending, which insulates it from antagonizing any politician. (UNVERIFIED)
+NAR achieved a **97% win rate** on supported candidates in 2024. Notably, NAR never spends money opposing candidates, all independent expenditure is positive "for" spending, which insulates it from antagonizing any politician. (UNVERIFIED)
 
-### 2024 Full Political Ecosystem — All Channels:
+### 2024 Full Political Ecosystem. All Channels:
 
 | Category | Amount |
 |----------|--------|
@@ -188,7 +188,7 @@ NAR has been the **#1 or #2 largest lobbying spender** in the country every year
 | 2021 | $44.0M | Top 2 | Biden 1031 exchange fight |
 | 2022 | $81.7M | **#1** | Inflation Reduction Act fight |
 | 2023 | $52.4M | Top 2 | |
-| 2024 | $86.4M | **#1** | Record — largest by any org in 2024 |
+| 2024 | $86.4M | **#1** | Record, largest by any org in 2024 |
 
 (UNVERIFIED)
 
@@ -199,7 +199,7 @@ NAR has been the **#1 or #2 largest lobbying spender** in the country every year
 
 ### The APOA Dark Money Channel
 
-While the above-the-line PAC maintains scrupulous bipartisan balance, NAR established the **American Property Owners Alliance (APOA)** in 2020 — a 501(c)(4) nonprofit funded entirely by NAR membership dues. A **New York Times investigation (December 2024)** revealed that of $12.8 million in APOA grants since its creation, nearly **$10 million went to Republican-aligned super PACs and groups with conservative agendas**. The largest single recipient was **[[One Nation]]** ($7 million), a dark money group aligned with [[Senate Leadership Fund|Mitch McConnell]] that feeds into the broader Republican infrastructure. NAR earmarked $6.6 million for APOA in 2025. (UNVERIFIED)
+While the above-the-line PAC maintains scrupulous bipartisan balance, NAR established the **American Property Owners Alliance (APOA)** in 2020, a 501(c)(4) nonprofit funded entirely by NAR membership dues. A **New York Times investigation (December 2024)** revealed that of $12.8 million in APOA grants since its creation, nearly **$10 million went to Republican-aligned super PACs and groups with conservative agendas**. The largest single recipient was **[[One Nation]]** ($7 million), a dark money group aligned with [[Senate Leadership Fund|Mitch McConnell]] that feeds into the broader Republican infrastructure. NAR earmarked $6.6 million for APOA in 2025. (UNVERIFIED)
 
 The APOA dark money structure serves a specific strategic purpose: it allows NAR to direct partisan Republican spending while maintaining the bipartisan fiction of its above-the-line PAC. The 49-51 split in RPAC contributions goes to both parties; the $10 million in APOA grants flows overwhelmingly to Republican super PACs. This separation allows NAR to claim nonpartisan status in official testimony and PAC disclosures while covertly amplifying Republican power through dark money vehicles. (UNVERIFIED)
 
@@ -212,24 +212,24 @@ The APOA dark money structure serves a specific strategic purpose: it allows NAR
 
 NAR's strategic architecture ensures that no significant housing reform passes regardless of which party controls Congress:
 
-1. **Universal ownership** — Near-$10,000 maximum contributions to virtually every incumbent in both parties
-2. **Symmetric party committee giving** — Identical $120,000 checks to all six party committees
-3. **122-member Bipartisan Real Estate Caucus** — A private legislative caucus inside Congress
-4. **535 Federal Political Coordinators** — One assigned to every member of Congress, maintaining year-round relationships
-5. **Independent expenditure deterrent** — The implicit threat of $1M+ in spending against non-compliant members
-6. **97% win rate** — Self-perpetuating loyalty: politicians know NAR-backed candidates almost always win
-7. **APOA dark money layer** — Partisan conservative spending that doesn't appear on the bipartisan ledger
-8. **State preemption strategy** — Using state-level lobbying to preempt local rent control and tenant protections
+1. **Universal ownership**. Near-$10,000 maximum contributions to virtually every incumbent in both parties
+2. **Symmetric party committee giving**. Identical $120,000 checks to all six party committees
+3. **122-member Bipartisan Real Estate Caucus**. A private legislative caucus inside Congress
+4. **535 Federal Political Coordinators**. One assigned to every member of Congress, maintaining year-round relationships
+5. **Independent expenditure deterrent**. The implicit threat of $1M+ in spending against non-compliant members
+6. **97% win rate**. Self-perpetuating loyalty: politicians know NAR-backed candidates almost always win
+7. **APOA dark money layer**. Partisan conservative spending that doesn't appear on the bipartisan ledger
+8. **State preemption strategy**. Using state-level lobbying to preempt local rent control and tenant protections
 
 (UNVERIFIED)
 
 ---
 
-### What They've Gotten — Policy Outcomes Protected
+### What They've Gotten. Policy Outcomes Protected
 
 **Mortgage Interest Deduction (MID):** During the 2017 Tax Cuts and Jobs Act debate, the House initially proposed reducing the MID cap from $1 million to $500,000. NAR lobbying preserved a higher $750,000 cap in the final bill. In 2025, the MID was **permanently preserved** in the "One Big Beautiful Bill Act." (UNVERIFIED)
 
-**1031 Like-Kind Exchange:** President Biden's 2021 American Families Plan proposed capping 1031 exchanges at $500,000 for individuals. NAR, the Federation of Exchange Accommodators, and the real estate industry lobby **killed the proposal entirely** — it was dropped from Build Back Better and never enacted despite reappearing in annual budget proposals through 2025. (UNVERIFIED)
+**1031 Like-Kind Exchange:** President Biden's 2021 American Families Plan proposed capping 1031 exchanges at $500,000 for individuals. NAR, the Federation of Exchange Accommodators, and the real estate industry lobby **killed the proposal entirely**, it was dropped from Build Back Better and never enacted despite reappearing in annual budget proposals through 2025. (UNVERIFIED)
 
 **Rent Control Opposition:** NAR directly funded campaigns to defeat rent control measures in Iowa, Delaware, Pasadena (CA), and Orange County (FL) in 2024 alone. NAR also co-filed the Supreme Court case **Alabama Association of Realtors v. HHS** (2021) that struck down the CDC eviction moratorium. (UNVERIFIED)
 
@@ -262,15 +262,15 @@ NAR's strategic architecture ensures that no significant housing reform passes r
 
 ### The Revolving Door
 
-**Shannon McGahn (NAR Chief Advocacy Officer):** NAR hired Shannon McGahn as its Senior Vice President of Government Affairs in 2018, later promoting her to Chief Advocacy Officer in 2020 — the first woman to hold the position in NAR's 110-year history. McGahn's career is a revolving door case study: nearly two decades on Capitol Hill, including work on the House Financial Services Committee during the 2008 financial crisis and service as counselor to Treasury Secretary Steven Mnuchin, where she helped pass the 2017 Tax Cuts and Jobs Act — legislation that preserved the mortgage interest deduction and 1031 exchanges that NAR had lobbied for.
+**Shannon McGahn (NAR Chief Advocacy Officer):** NAR hired Shannon McGahn as its Senior Vice President of Government Affairs in 2018, later promoting her to Chief Advocacy Officer in 2020, the first woman to hold the position in NAR's 110-year history. McGahn's career is a revolving door case study: nearly two decades on Capitol Hill, including work on the House Financial Services Committee during the 2008 financial crisis and service as counselor to Treasury Secretary Steven Mnuchin, where she helped pass the 2017 Tax Cuts and Jobs Act, legislation that preserved the mortgage interest deduction and 1031 exchanges that NAR had lobbied for.
 
-McGahn is also the wife of Don McGahn, who served as White House Counsel under Trump (2017-2019) and previously served as chairman of the Federal Election Commission. The NAR hire placed the spouse of Trump's top legal advisor in charge of the real estate industry's government affairs operation — a connection that provided direct access to the administration shaping housing, tax, and regulatory policy.
+McGahn is also the wife of Don McGahn, who served as White House Counsel under Trump (2017-2019) and previously served as chairman of the Federal Election Commission. The NAR hire placed the spouse of Trump's top legal advisor in charge of the real estate industry's government affairs operation, a connection that provided direct access to the administration shaping housing, tax, and regulatory policy.
 
-**Mark Calabria (NAR Senior Economist → Senate Banking → HUD → Cato → FHFA → OMB Housing):** Mark Calabria exemplifies the multi-cycle revolving door path through the real estate industry and housing regulation. He began as a senior economist at NAR, moved to the Senate Banking Committee staff, then became director of the [[Federal Housing Finance Agency (FHFA)]] under Trump (2019-2021), where he pushed to end the conservatorship of Fannie Mae and Freddie Mac — a policy position that directly served real estate investor interests. He then moved to the [[Cato Institute]] (libertarian think tank funded by the Koch network and structurally opposed to housing regulation) and returned in 2025 as OMB Housing Director under Trump, where he directly influences housing finance policy that benefits his former industry. Calabria's path reveals the systematic capture mechanism: move from industry lobby to government regulator to ideological think tank to government again, each step providing ratification for the previous one. (UNVERIFIED)
+**Mark Calabria (NAR Senior Economist → Senate Banking → HUD → Cato → FHFA → OMB Housing):** Mark Calabria exemplifies the multi-cycle revolving door path through the real estate industry and housing regulation. He began as a senior economist at NAR, moved to the Senate Banking Committee staff, then became director of the [[Federal Housing Finance Agency (FHFA)]] under Trump (2019-2021), where he pushed to end the conservatorship of Fannie Mae and Freddie Mac, a policy position that directly served real estate investor interests. He then moved to the [[Cato Institute]] (libertarian think tank funded by the Koch network and structurally opposed to housing regulation) and returned in 2025 as OMB Housing Director under Trump, where he directly influences housing finance policy that benefits his former industry. Calabria's path reveals the systematic capture mechanism: move from industry lobby to government regulator to ideological think tank to government again, each step providing ratification for the previous one. (UNVERIFIED)
 
-**Brian Montgomery (HUD FHA Commissioner — Twice):** The only person to lead the FHA twice — under Bush (2005-09) and Trump (2018-20). Between his two FHA tenures, Montgomery ran [[Collingwood Group]], a private consulting firm that marketed itself as helping clients "gain more business from federal agencies." His second stint as HUD Deputy Secretary (2020-21) further cemented real estate industry access to the agency overseeing housing policy. The Collingwood model — leverage government experience to sell access back to the industry — is the textbook definition of the revolving door. (UNVERIFIED)
+**Brian Montgomery (HUD FHA Commissioner. Twice):** The only person to lead the FHA twice, under Bush (2005-09) and Trump (2018-20). Between his two FHA tenures, Montgomery ran [[Collingwood Group]], a private consulting firm that marketed itself as helping clients "gain more business from federal agencies." His second stint as HUD Deputy Secretary (2020-21) further cemented real estate industry access to the agency overseeing housing policy. The Collingwood model, leverage government experience to sell access back to the industry, is the textbook definition of the revolving door. (UNVERIFIED)
 
-**Bill Pulte (PE Executive → FHFA Director, 2025-present):** Bill Pulte represents the most direct instance of PE-to-regulator capture in recent housing policy history. Upon confirmation as FHFA Director in 2025, Pulte fired Freddie Mac CEO Diana Reid, removed most GSE board members, appointed himself as chair of both Fannie Mae and Freddie Mac boards, and dissolved the Division of Public Interest Examination — the office overseeing affordable housing, consumer protection, and diversity initiatives. A GAO investigation was opened in December 2025 over allegations that Pulte used mortgage data to target political opponents. Meanwhile, PE firms have disproportionately relied on GSE financing: 52% of PE-owned manufactured housing parks are financed by Fannie Mae or Freddie Mac, compared to just 9% of all parks nationwide — meaning Pulte's regulatory decisions directly benefit the industry he came from. (UNVERIFIED)
+**Bill Pulte (PE Executive → FHFA Director, 2025-present):** Bill Pulte represents the most direct instance of PE-to-regulator capture in recent housing policy history. Upon confirmation as FHFA Director in 2025, Pulte fired Freddie Mac CEO Diana Reid, removed most GSE board members, appointed himself as chair of both Fannie Mae and Freddie Mac boards, and dissolved the Division of Public Interest Examination, the office overseeing affordable housing, consumer protection, and diversity initiatives. A GAO investigation was opened in December 2025 over allegations that Pulte used mortgage data to target political opponents. Meanwhile, PE firms have disproportionately relied on GSE financing: 52% of PE-owned manufactured housing parks are financed by Fannie Mae or Freddie Mac, compared to just 9% of all parks nationwide, meaning Pulte's regulatory decisions directly benefit the industry he came from. (UNVERIFIED)
 
 > [!money]
 > **The Revolving Door as Structural Capture**
@@ -279,7 +279,7 @@ McGahn is also the wife of Don McGahn, who served as White House Counsel under T
 
 ---
 
-### Top Independent Expenditure Recipients — Historical IE Maximums
+### Top Independent Expenditure Recipients. Historical IE Maximums
 
 NAR's largest single-cycle independent expenditure investments reveal priority targets across decades. These represent peak spending on individual candidates:
 
@@ -294,13 +294,13 @@ NAR's largest single-cycle independent expenditure investments reveal priority t
 | Chris Van Hollen | D-MD | House Budget Committee | $926,062 | 2016 | Democratic budget leverage; MID defense |
 | Kyrsten Sinema | D-AZ | Senate candidate → Moderate Swing | $358,200 | 2014 | Long-term bipartisan positioning; 2021 1031 defense |
 
-NAR's IE spending pattern reveals clear priorities: committee chairs controlling housing, banking, and tax policy, with heavy emphasis on Senate seats that control filibuster dynamics. The bipartisan distribution serves a strategic purpose — ensuring that neither party can build a sustainable housing reform coalition without antagonizing NAR. (UNVERIFIED)
+NAR's IE spending pattern reveals clear priorities: committee chairs controlling housing, banking, and tax policy, with heavy emphasis on Senate seats that control filibuster dynamics. The bipartisan distribution serves a strategic purpose, ensuring that neither party can build a sustainable housing reform coalition without antagonizing NAR. (UNVERIFIED)
 
 ---
 
 ### The 97% Win Rate and Never-Oppose Doctrine
 
-NAR achieved a **97% win rate** on supported candidates in 2024. Critically, NAR's doctrine is never to spend opposing any candidate — all independent expenditure is positive "for" spending. This asymmetry serves a specific strategic function: it insulates NAR from antagonizing any politician, even those who oppose its agenda. Every member of Congress knows that NAR will not actively campaign against them, only for. This removes the primary incentive structure that would otherwise drive politicians to resist NAR pressure — the fear of retaliation. The bipartisan model combines this never-oppose doctrine with universal low-level giving: every relevant incumbent gets $5,000-$10,000 from RPAC annually, ensuring baseline access, plus the implicit threat of IE spending ($1M+) for those who become non-compliant. The model works because punishment (high IE spending) is theoretically possible but never deployed against either party. (UNVERIFIED)
+NAR achieved a **97% win rate** on supported candidates in 2024. Critically, NAR's doctrine is never to spend opposing any candidate, all independent expenditure is positive "for" spending. This asymmetry serves a specific strategic function: it insulates NAR from antagonizing any politician, even those who oppose its agenda. Every member of Congress knows that NAR will not actively campaign against them, only for. This removes the primary incentive structure that would otherwise drive politicians to resist NAR pressure, the fear of retaliation. The bipartisan model combines this never-oppose doctrine with universal low-level giving: every relevant incumbent gets $5,000-$10,000 from RPAC annually, ensuring baseline access, plus the implicit threat of IE spending ($1M+) for those who become non-compliant. The model works because punishment (high IE spending) is theoretically possible but never deployed against either party. (UNVERIFIED)
 
 ---
 
@@ -312,21 +312,21 @@ NAR is the dominant player, but the real estate industry's total federal lobbyin
 
 ### The Antitrust Reckoning
 
-In October 2023, a Missouri federal jury found NAR liable for conspiring to inflate real estate broker commissions, awarding $1.8 billion in damages to a class of 500,000 home sellers (*Burnett v. National Association of Realtors*). The case exposed NAR's mandatory commission-sharing rules: sellers' agents were required to offer commissions to buyers' agents through Multiple Listing Services, effectively forcing sellers to pay both sides of the transaction — typically 5-6% of the home sale price.
+In October 2023, a Missouri federal jury found NAR liable for conspiring to inflate real estate broker commissions, awarding $1.8 billion in damages to a class of 500,000 home sellers (*Burnett v. National Association of Realtors*). The case exposed NAR's mandatory commission-sharing rules: sellers' agents were required to offer commissions to buyers' agents through Multiple Listing Services, effectively forcing sellers to pay both sides of the transaction, typically 5-6% of the home sale price.
 
 In March 2024, NAR agreed to a $418 million settlement and committed to eliminating the mandatory commission-sharing rules. The new rules took effect August 17, 2024, ending the practice that had inflated real estate transaction costs for decades.
 
-The antitrust case revealed NAR's core function: the organization existed not just to lobby government but to enforce an industry-wide pricing cartel. The mandatory commission rules were the mechanism — every MLS in America required sellers to pay buyers' agents, and NAR controlled the MLS system. The $418 million settlement is the price of getting caught; the decades of inflated commissions extracted from American homebuyers and sellers dwarf the penalty.
+The antitrust case revealed NAR's core function: the organization existed not just to lobby government but to enforce an industry-wide pricing cartel. The mandatory commission rules were the mechanism, every MLS in America required sellers to pay buyers' agents, and NAR controlled the MLS system. The $418 million settlement is the price of getting caught; the decades of inflated commissions extracted from American homebuyers and sellers dwarf the penalty.
 
 ---
 
-### Institutional Crisis — Sexual Harassment and Leadership Collapse
+### Institutional Crisis. Sexual Harassment and Leadership Collapse
 
 NAR's antitrust reckoning coincided with an internal crisis that exposed the organization's culture. In August 2023, the New York Times published an investigation documenting 16 allegations of sexual harassment or abusive conduct against NAR President Kenny Parcell, based on accounts from 29 current and former employees. Parcell resigned within two days.
 
-In November 2023, CEO Bob Goldberg resigned — just days after the $1.8 billion antitrust verdict and three months after the harassment scandal broke. His replacement, Tracy Kasper, was appointed president in 2024 but resigned in January 2024, claiming she was being blackmailed. Three leadership departures in five months — an organization in freefall.
+In November 2023, CEO Bob Goldberg resigned, just days after the $1.8 billion antitrust verdict and three months after the harassment scandal broke. His replacement, Tracy Kasper, was appointed president in 2024 but resigned in January 2024, claiming she was being blackmailed. Three leadership departures in five months, an organization in freefall.
 
-The dual crises — antitrust liability and sexual harassment — are not coincidental. Both reflect an organization that operated as a closed system: internally, a culture of impunity where leadership faced no accountability; externally, a cartel that extracted billions from consumers while spending $86 million annually to prevent regulatory oversight. The internal culture and the external function served the same principle: those with power extract value from those without it.
+The dual crises, antitrust liability and sexual harassment, are not coincidental. Both reflect an organization that operated as a closed system: internally, a culture of impunity where leadership faced no accountability; externally, a cartel that extracted billions from consumers while spending $86 million annually to prevent regulatory oversight. The internal culture and the external function served the same principle: those with power extract value from those without it.
 
 ---
 

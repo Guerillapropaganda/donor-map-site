@@ -64,7 +64,7 @@ Klobuchar herself acknowledged the structural reality in December 2024 after thr
 
 ### Sources
 
-- ~~[Congress.gov: American Innovation and Choice Online Act (S.2992)](https://www.congress.gov/bill/117th-congress/senate-bill/2992)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: American Innovation and Choice Online Act (S.2992)](https://www.congress.gov/bill/117th-congress/senate-bill/2992)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [FEC Candidate: Amy Klobuchar industries. Communications/Electronics career total](https://www.fec.gov/data/candidate/S6MN00267/) (Tier 1) (VERIFIED)
 - [FEC Candidate: Amy Klobuchar contributors 2022 cycle. Microsoft $39,467](https://www.fec.gov/data/candidate/S6MN00267/) (Tier 1) (VERIFIED)
 - [OpenSecrets: Google ramped up federal lobbying ahead of DOJ antitrust showdown](https://www.opensecrets.org/news/2023/10/google-ramped-up-federal-lobbying-ahead-of-doj-antitrust-showdown/) (Tier 1) (VERIFIED)

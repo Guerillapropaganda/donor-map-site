@@ -1,5 +1,5 @@
 ---
-title: "Ed Case Master Profile"
+title: "Ed Case"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

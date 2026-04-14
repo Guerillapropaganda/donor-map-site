@@ -21,46 +21,46 @@ The education class analysis: curriculum control is a form of power. Whose histo
 ---
 
 ### What the Original Curriculum Was
-In 2019, California's Department of Education released a draft ethnic studies curriculum developed by a committee of educators, academics, and community representatives. The draft was comprehensive — it included units on African American, Chicano/Latino, Asian American, and Native American histories and struggles.
+In 2019, California's Department of Education released a draft ethnic studies curriculum developed by a committee of educators, academics, and community representatives. The draft was comprehensive, it included units on African American, Chicano/Latino, Asian American, and Native American histories and struggles.
 
-It also included references to the Palestinian experience, the BDS movement, and figures like Linda Sarsour — a Palestinian American activist. It named colonialism, settler colonialism, and liberation movements including ones that were critical of US and Israeli policy.
+It also included references to the Palestinian experience, the BDS movement, and figures like Linda Sarsour, a Palestinian American activist. It named colonialism, settler colonialism, and liberation movements including ones that were critical of US and Israeli policy.
 
 ---
 
 ### What Happened to It
-Jewish community organizations — including the California Legislative Jewish Caucus, JPAC, ADL, and [[JCRC Bay Area|JCRC Bay Area]] — objected to the curriculum's inclusion of pro-Palestinian content, characterizing it as antisemitic.
+Jewish community organizations, including the California Legislative Jewish Caucus, JPAC, ADL, and [[JCRC Bay Area|JCRC Bay Area]], objected to the curriculum's inclusion of pro-Palestinian content, characterizing it as antisemitic.
 
 Newsom's response in his first year as governor: he told Jewish News of Northern California the draft "will never see the light of day," called it "offensive," and issued an unconditional public apology to California's Jewish community. No equivalent consultation had been done with Palestinian American community organizations whose history was being debated.
 
 The curriculum went through multiple revisions over the following two years. By the time the final version was approved in 2021:
-— The Palestinian experience and BDS references had been removed.
-— The Arab American and Sikh American community units that were added in later drafts were also criticized by various groups.
-— The final curriculum was broadly praised by Jewish organizations and criticized by Palestinian American educators as erasing their community's history.
+, The Palestinian experience and BDS references had been removed.
+, The Arab American and Sikh American community units that were added in later drafts were also criticized by various groups.
+, The final curriculum was broadly praised by Jewish organizations and criticized by Palestinian American educators as erasing their community's history.
 
 In 2021, the legislature passed and Newsom signed AB 101, making ethnic studies a high school graduation requirement. The course that became required is the sanitized version, not the original draft.
 
 ---
 
 ### The Class Analysis on Curriculum Control
-Who decides what history gets taught in public schools determines whose community children are taught to see as legitimate political subjects. Palestinian American children in California public schools will graduate having taken a mandatory ethnic studies course in which their community's history — including the Nakba, including occupation, including resistance — is largely absent.
+Who decides what history gets taught in public schools determines whose community children are taught to see as legitimate political subjects. Palestinian American children in California public schools will graduate having taken a mandatory ethnic studies course in which their community's history, including the Nakba, including occupation, including resistance, is largely absent.
 
-The donor class mechanism here is not money flowing to Newsom directly — it is the pro-Israel institutional network (JPAC, JCRC, the Legislative Jewish Caucus) applying political pressure through constituent relationships, and Newsom capitulating within months of taking office. The same network that funded his campaigns, organized his 2008 Israel trip, and provides donor infrastructure is the network that killed the original ethnic studies curriculum. [See: [[Pro-Israel Donor Network Deep Dive]] and [[Early History and Background Ties 2003-2019]]]
+The donor class mechanism here is not money flowing to Newsom directly, it is the pro-Israel institutional network (JPAC, JCRC, the Legislative Jewish Caucus) applying political pressure through constituent relationships, and Newsom capitulating within months of taking office. The same network that funded his campaigns, organized his 2008 Israel trip, and provides donor infrastructure is the network that killed the original ethnic studies curriculum. [See: [[Pro-Israel Donor Network Deep Dive]] and [[Early History and Background Ties 2003-2019]]]
 
-The question worth asking for content: who fought for the original curriculum? Teachers, ethnic studies educators, Palestinian American community organizations, Chicano Studies scholars — people without comparable institutional donor power. Who won? The side with the money and the access.
+The question worth asking for content: who fought for the original curriculum? Teachers, ethnic studies educators, Palestinian American community organizations, Chicano Studies scholars, people without comparable institutional donor power. Who won? The side with the money and the access.
 
 ---
 
 ### The Broader Narrative Control Question
-The ethnic studies fight is a specific instance of a general principle: in a class society, the ruling class controls the narrative. That includes the official educational narrative. The battle over ethnic studies in California was a battle over whether the official educational narrative would include the perspectives of oppressed communities — and the outcome reflected who had more institutional power in the room.
+The ethnic studies fight is a specific instance of a general principle: in a class society, the ruling class controls the narrative. That includes the official educational narrative. The battle over ethnic studies in California was a battle over whether the official educational narrative would include the perspectives of oppressed communities, and the outcome reflected who had more institutional power in the room.
 
 Newsom made the calculation within his first year that apologizing to the Jewish community cost him less than defending the original curriculum. That calculation was correct from a donor-class preservation standpoint. It was also a direct use of educational policy to silence a marginalized community's history.
 
 ---
 
 ### Key Quotes
-"This draft is offensive in so many ways... it will never see the light of day." — Newsom, to Jewish News of Northern California, 2019, on the ethnic studies draft.
+"This draft is offensive in so many ways. it will never see the light of day.". Newsom, to Jewish News of Northern California, 2019, on the ethnic studies draft.
 
-"The final curriculum erases our history. Our children deserve better." — Palestinian American educators and community advocates, paraphrased position on the final approved version.
+"The final curriculum erases our history. Our children deserve better.". Palestinian American educators and community advocates, paraphrased position on the final approved version.
 
 ---
 
@@ -68,13 +68,13 @@ Newsom made the calculation within his first year that apologizing to the Jewish
 
 | Date | Event/Contribution | Amount | Policy Action/Outcome | Time Gap |
 |------|-------------------|--------|----------------------|----------|
-| 2018 | Newsom elected with JPAC + JCRC backing | $200K+ | Pro-Israel donor network involved in electoral win | — |
-| 2019 | Draft ethnic studies curriculum released (includes Palestinian content, BDS references) | — | Curriculum available for public review | — |
-| 2019 | JPAC, JCRC, ADL object to curriculum as antisemitic | — | Pressure campaign launched within weeks of draft release | — |
-| 2019 | Newsom tells Jewish News "draft will never see the light of day"; unconditional apology | — | Curriculum effectively killed within months of Newsom taking office | 1st year |
-| 2019–2021 | Multiple curriculum revisions; Palestinian content removed | — | Arab American and Sikh units also criticized and weakened | 2 years |
-| 2021 | AB 101 signed (ethnic studies high school graduation requirement) | — | Required course is sanitized version; Palestinians largely absent from curriculum | 2 years |
-| 2021–2026 | Sanitized curriculum taught statewide to all CA high school students | — | Palestinian American students graduate having taken ethnic studies that erases their community | Ongoing |
+| 2018 | Newsom elected with JPAC + JCRC backing | $200K+ | Pro-Israel donor network involved in electoral win |, |
+| 2019 | Draft ethnic studies curriculum released (includes Palestinian content, BDS references) |, | Curriculum available for public review |, |
+| 2019 | JPAC, JCRC, ADL object to curriculum as antisemitic |, | Pressure campaign launched within weeks of draft release |, |
+| 2019 | Newsom tells Jewish News "draft will never see the light of day"; unconditional apology |, | Curriculum effectively killed within months of Newsom taking office | 1st year |
+| 2019–2021 | Multiple curriculum revisions; Palestinian content removed |, | Arab American and Sikh units also criticized and weakened | 2 years |
+| 2021 | AB 101 signed (ethnic studies high school graduation requirement) |, | Required course is sanitized version; Palestinians largely absent from curriculum | 2 years |
+| 2021–2026 | Sanitized curriculum taught statewide to all CA high school students |, | Palestinian American students graduate having taken ethnic studies that erases their community | Ongoing |
 
 > [!money]
 > The donor class mechanism: JPAC, JCRC, ADL apply institutional political pressure; Newsom capitulates within months. Same network that funded his campaigns, organized 2008 Israel trip, and provides donor infrastructure kills the original curriculum. Palestinian American community organizations lacked comparable power.
@@ -86,11 +86,11 @@ Newsom made the calculation within his first year that apologizing to the Jewish
 
 #### The Genuine Win + Structural Limit
 
-AB 101 is a genuine win: ethnic studies is now required in California high schools. That's a real achievement for educators who fought for it. The structural limit is absolute: the curriculum that became required is the one that erases the very communities whose history should have been taught. A "win" that comes with the condition of sanitization is a structured defeat. Palestinian American students did get an ethnic studies course — one that doesn't include their people's history.
+AB 101 is a genuine win: ethnic studies is now required in California high schools. That's a real achievement for educators who fought for it. The structural limit is absolute: the curriculum that became required is the one that erases the very communities whose history should have been taught. A "win" that comes with the condition of sanitization is a structured defeat. Palestinian American students did get an ethnic studies course, one that doesn't include their people's history.
 
 #### The Villain Framing
 
-The villain in Newsom's frame is never the pro-Israel donor network that killed the curriculum. Instead, the villain is implicitly "antisemitism" — the framing that Palestinian content in a curriculum equals antisemitism. This reframes the entire debate: the question becomes "do we want to allow antisemitic content?" instead of "whose history gets taught and who decides?" By accepting the original curriculum as problematic, Newsom concedes the frame before the negotiation begins.
+The villain in Newsom's frame is never the pro-Israel donor network that killed the curriculum. Instead, the villain is implicitly "antisemitism", the framing that Palestinian content in a curriculum equals antisemitism. This reframes the entire debate: the question becomes "do we want to allow antisemitic content?" instead of "whose history gets taught and who decides?" By accepting the original curriculum as problematic, Newsom concedes the frame before the negotiation begins.
 
 #### The Two-Audience Problem
 
@@ -102,8 +102,8 @@ The ethnic studies fight is a pure class power story. Who decides what history g
 
 ### Sources
 
-- ~~[Jewish News of Northern California: Newsom quotes on ethnic studies draft](https://jweekly.com/2019/08/16/newsom-ethnic-studies-draft-offensive/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[CalMatters: Ethnic studies required for California high school students](https://calmatters.org/category/education/k-12-education/2021/10/ethnic-studies-requirement/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[EdSource: Ethnic studies revision process](https://edsource.org/2020/california-revised-ethnic-studies-curriculum)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Jewish News of Northern California: Newsom quotes on ethnic studies draft](https://jweekly.com/2019/08/16/newsom-ethnic-studies-draft-offensive/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[CalMatters: Ethnic studies required for California high school students](https://calmatters.org/category/education/k-12-education/2021/10/ethnic-studies-requirement/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[EdSource: Ethnic studies revision process](https://edsource.org/2020/california-revised-ethnic-studies-curriculum)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Arab American Institute: Palestinian American community response](https://www.aaiusa.org/) (Tier 2) (VERIFIED)
 

@@ -1,5 +1,5 @@
 ---
-title: Raphael Warnock Master Profile
+title: Raphael Warnock
 type: politician
 content-readiness: ready
 central-thesis: "Raphael Warnock represents the moral authority brand in Democratic politics: a pastor from MLK's pulpit brings authenticity and historic weight to political messaging, particularly on racial justice and inequality. Yet Warnock's donor base and pol..."
@@ -57,7 +57,7 @@ donors:
 editorial-review-date: '2026-04-10'
 editorial-reviewer: "Research Claude"
 editorial-result: verified-candidate
-editorial-notes: "Flagged for David's verified sign-off. Qualifies on merits: 4 Tier 1 source types (FEC, Congress.gov with verified bioguide W000790, GovTrack, warnock.senate.gov). Strong class analysis framing: 'moral authority brand vs. corporate Democrat alignment' — the MLK pulpit as political asset question. 2020 vs 2022 donor base shift documented (2020: unemployed median donor, grassroots-heavy; 2022: 92% out-of-state, tech/entertainment/finance dominant). Core contradiction well-drawn: Ebenezer Baptist pulpit grants moral authority derived from King's Poor People's Campaign legacy, but Senate record aligns with healthcare/tech donor interests, not King's economic vision. Donation-to-policy timeline broken down by sector (National Donor Machine, Tech/Infrastructure, Healthcare/Pharma). FIXED: converted opposes field from YAML folded scalar to single-line quoted string (same pattern that broke Tucker Carlson and Hillary Clinton — preventive fix). FIXED: removed inline body donors:: and profile-status:: dataview lines per frontmatter-only rule. FIXED: removed duplicate --- after frontmatter. Added bioguide-id W000790, committees list, structured opposes/donors, expanded issues. Zero A000383 contamination, zero (URL NEEDED) tags, DOJ auto-block already stripped earlier this session. Ready for editor review."
+editorial-notes: "Flagged for David's verified sign-off. Qualifies on merits: 4 Tier 1 source types (FEC, Congress.gov with verified bioguide W000790, GovTrack, warnock.senate.gov). Strong class analysis framing: 'moral authority brand vs. corporate Democrat alignment' , the MLK pulpit as political asset question. 2020 vs 2022 donor base shift documented (2020: unemployed median donor, grassroots-heavy; 2022: 92% out-of-state, tech/entertainment/finance dominant). Core contradiction well-drawn: Ebenezer Baptist pulpit grants moral authority derived from King's Poor People's Campaign legacy, but Senate record aligns with healthcare/tech donor interests, not King's economic vision. Donation-to-policy timeline broken down by sector (National Donor Machine, Tech/Infrastructure, Healthcare/Pharma). FIXED: converted opposes field from YAML folded scalar to single-line quoted string (same pattern that broke Tucker Carlson and Hillary Clinton , preventive fix). FIXED: removed inline body donors:: and profile-status:: dataview lines per frontmatter-only rule. FIXED: removed duplicate --- after frontmatter. Added bioguide-id W000790, committees list, structured opposes/donors, expanded issues. Zero A000383 contamination, zero (URL NEEDED) tags, DOJ auto-block already stripped earlier this session. Ready for editor review."
 needs-reenrichment: true
 reenrich-reason: "re-run congress pipeline"
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
@@ -91,10 +91,10 @@ Raphael Warnock represents the moral authority brand in Democratic politics: a p
 ## Donor Class Map
 
 ### The $170 Million Georgia Machine and the National Donor Base:
-- [[The $170 Million Georgia Machine and the National Donor Base]] — Combined 2020–2022 fundraising: $170+ million. 2022: $161 million from non-Georgia; only $8.7 million (5%) from Georgia donors. Largest donor states: California ($13.4M), Georgia ($7.3M), New York ($6.9M). Tech/entertainment/finance donors dominate. This is not a Georgia politician powered by Georgia; this is a national Democratic machine using Georgia as a launchpad.
+- [[The $170 Million Georgia Machine and the National Donor Base]]. Combined 2020–2022 fundraising: $170+ million. 2022: $161 million from non-Georgia; only $8.7 million (5%) from Georgia donors. Largest donor states: California ($13.4M), Georgia ($7.3M), New York ($6.9M). Tech/entertainment/finance donors dominate. This is not a Georgia politician powered by Georgia; this is a national Democratic machine using Georgia as a launchpad.
 
 ### The Moral Authority Brand and the Corporate Democrat Question:
-- [[The Moral Authority Brand and the Corporate Democrat Question]] — Ebenezer Baptist Church pulpit provides MLK moral authority; Senate record reflects corporate-Democratic alignment. CNA single-payer pressure unanswered. Healthcare donor alignment. Gap between moral language and policy substance.
+- [[The Moral Authority Brand and the Corporate Democrat Question]]. Ebenezer Baptist Church pulpit provides MLK moral authority; Senate record reflects corporate-Democratic alignment. CNA single-payer pressure unanswered. Healthcare donor alignment. Gap between moral language and policy substance.
 
 ---
 
@@ -102,7 +102,7 @@ Raphael Warnock represents the moral authority brand in Democratic politics: a p
 
 ### 2020 Special Election:
 - Total raised: $100+ million in two months
-- Median donor: "unemployed" (students, homemakers, retirees) — lowest net-worth donor group
+- Median donor: "unemployed" (students, homemakers, retirees), lowest net-worth donor group
 - Top 10 donors made up only 1% of total (unusually low concentration)
 - Geographic: Out-of-state contributions concentrated late in cycle
 - Strategy: Grassroots-heavy special election with late mega-donor surge
@@ -122,13 +122,13 @@ Raphael Warnock represents the moral authority brand in Democratic politics: a p
 
 ### The Moral Authority Brand: MLK Pulpit as Political Asset
 
-Warnock's position as pastor of Ebenezer Baptist Church is not incidental to his political power—it is foundational. The pulpit grants him:
+Warnock's position as pastor of Ebenezer Baptist Church is not incidental to his political power, it is foundational. The pulpit grants him:
 - Historic credibility on racial justice (MLK's literal pulpit)
 - Moral authority on poverty and inequality (church's traditional focus)
 - Visibility and accessibility to national media
 - Legitimacy with Black voters and progressive constituencies
 
-Yet the pulpit also creates a gap: church messaging emphasizes economic justice and care for the poor; Senate donor relationships emphasize tech, entertainment, finance—sectors that profit from inequality. Warnock navigates this gap through moral language about racial justice while accepting donor relationships unconstrained by economic justice demands.
+Yet the pulpit also creates a gap: church messaging emphasizes economic justice and care for the poor; Senate donor relationships emphasize tech, entertainment, finance, sectors that profit from inequality. Warnock navigates this gap through moral language about racial justice while accepting donor relationships unconstrained by economic justice demands.
 
 ---
 
@@ -148,28 +148,28 @@ This is the corporate-democrat template: use moral authority language ("everyone
 
 ## Donation-to-Policy Timeline
 
-*Note: Warnock's $170M+ combined fundraising is overwhelmingly non-Georgian — 95.2% from out-of-state in 2022. The senator from Georgia is funded by California, New York, and Massachusetts. The moral authority of MLK's pulpit is real; the funding base is a national Democratic donor operation using Georgia as a launchpad.*
+*Note: Warnock's $170M+ combined fundraising is overwhelmingly non-Georgian, 95.2% from out-of-state in 2022. The senator from Georgia is funded by California, New York, and Massachusetts. The moral authority of MLK's pulpit is real; the funding base is a national Democratic donor operation using Georgia as a launchpad.*
 
 #### National Donor Machine / Out-of-State
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2021-01 | National Democratic donor surge — grassroots-heavy with low-net-worth median donor; 95% from out-of-state; CA and NY dominate | $100M+ in two months; only 5% from Georgia | 2020-Q3 through 2021-01 (runoff) | Warnock elected to Senate; national donor network gains Senate majority; positioned on Agriculture, Education, Commerce committees |
+| 2021-01 | National Democratic donor surge, grassroots-heavy with low-net-worth median donor; 95% from out-of-state; CA and NY dominate | $100M+ in two months; only 5% from Georgia | 2020-Q3 through 2021-01 (runoff) | Warnock elected to Senate; national donor network gains Senate majority; positioned on Agriculture, Education, Commerce committees |
 | 2022-12 | Donor base shifts to high-net-worth individuals; California $13.4M (largest donor state, 73% more than Georgia's $5.03M); Alphabet/Google employees top donor at $309,500 | $115M+ total; 95.2% from out-of-state | 2022 cycle | Wins reelection vs. Herschel Walker on national Democratic money; TV/Movies/Music sector ~$1M led all candidates by industry |
 
 #### Tech / Infrastructure
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2021-H2 | Tech sector donors (broadband expansion beneficiaries) + construction industry | Part of $100M+ donor base | 2020-2021 | Votes for Infrastructure Investment and Jobs Act — bipartisan infrastructure bill aligned with tech/construction donor interests |
-| 2022 | Alphabet/Google employees ($309,500 — top single donor source); tech sector concentration intensifying | $309.5K from Alphabet alone | 2022 cycle | Tech-friendly voting record; no antitrust advocacy; moral authority brand provides progressive cover for tech-aligned positioning |
+| 2021-H2 | Tech sector donors (broadband expansion beneficiaries) + construction industry | Part of $100M+ donor base | 2020-2021 | Votes for Infrastructure Investment and Jobs Act, bipartisan infrastructure bill aligned with tech/construction donor interests |
+| 2022 | Alphabet/Google employees ($309,500, top single donor source); tech sector concentration intensifying | $309.5K from Alphabet alone | 2022 cycle | Tech-friendly voting record; no antitrust advocacy; moral authority brand provides progressive cover for tech-aligned positioning |
 
 #### Healthcare / Pharmaceutical
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2022-02 | Healthcare sector donors (pharmaceutical, insurance companies) — accepted despite CNA single-payer pressure | Healthcare sector contributions (ongoing) | 2021-2022 | Introduces Affordable Insulin Now Act ($35/month cap) — targeted reform that avoids single-payer despite pastoring MLK's church and its economic justice tradition; protects broader pharmaceutical industry structure |
-| 2022-08 | Pharmaceutical industry (limited reform protects core revenue while providing electoral cover) | Part of national donor base | 2020-ongoing | Votes YES on Inflation Reduction Act — insulin cap + Medicare drug negotiation with major pharmaceutical carve-outs; the smallest possible reform that avoids threatening the pharmaceutical donor class |
+| 2022-02 | Healthcare sector donors (pharmaceutical, insurance companies), accepted despite CNA single-payer pressure | Healthcare sector contributions (ongoing) | 2021-2022 | Introduces Affordable Insulin Now Act ($35/month cap), targeted reform that avoids single-payer despite pastoring MLK's church and its economic justice tradition; protects broader pharmaceutical industry structure |
+| 2022-08 | Pharmaceutical industry (limited reform protects core revenue while providing electoral cover) | Part of national donor base | 2020-ongoing | Votes YES on Inflation Reduction Act, insulin cap + Medicare drug negotiation with major pharmaceutical carve-outs; the smallest possible reform that avoids threatening the pharmaceutical donor class |
 
 > [!money] The Damning Sequences
 > **The Georgia-that-isn't-Georgia funding model (2020-2022):** Warnock raised $170M+ combined across two cycles. In 2022, only $8.7M (5%) came from Georgia donors. California alone contributed $13.4M. The senator from Georgia is funded by California, New York, and Massachusetts. The moral authority of MLK's pulpit is real; the funding base is a national Democratic donor operation using Georgia as infrastructure.
@@ -206,7 +206,7 @@ The healthcare positioning makes the mechanism visible. Warnock pastors a church
 - Born Savannah, Georgia
 - Ph.D. Theology, Union Theological Seminary (2008)
 - Master of Divinity, Union Theological Seminary (2002)
-- B.A. Morehouse College (1999) — Martin Luther King Jr.'s alma mater
+- B.A. Morehouse College (1999). Martin Luther King Jr.'s alma mater
 
 ### Ministry Career:
 - Pastoral assistant, Douglas Memorial Community Church, Baltimore (2001–2005)
@@ -246,9 +246,9 @@ The healthcare positioning makes the mechanism visible. Warnock pastors a church
 
 ## Analytical Patterns
 
-**The Genuine Win + Structural Limit** — Warnock's 2020 special election victory over Kelly Loeffler represented a genuine grassroots mobilization of Georgia voters, powered by the moral authority of Ebenezer Baptist Church and authentic grassroots fundraising (low-net-worth median donor). However, by 2022, the fundraising model had shifted to high-net-worth donors ($95.2% from out-of-state), and Warnock still delivered real policy (insulin cap, drug price negotiation). The structural limit is that moral authority + senate seat = moderate healthcare reform (not single-payer), demonstrating that even the most credentialed progressive voice operates within constraints set by healthcare-sector donors.
+**The Genuine Win + Structural Limit**. Warnock's 2020 special election victory over Kelly Loeffler represented a genuine grassroots mobilization of Georgia voters, powered by the moral authority of Ebenezer Baptist Church and authentic grassroots fundraising (low-net-worth median donor). However, by 2022, the fundraising model had shifted to high-net-worth donors ($95.2% from out-of-state), and Warnock still delivered real policy (insulin cap, drug price negotiation). The structural limit is that moral authority + senate seat = moderate healthcare reform (not single-payer), demonstrating that even the most credentialed progressive voice operates within constraints set by healthcare-sector donors.
 
-**The Villain Framing** — When CNA organizing applied pressure for single-payer support, Warnock framed his limited drug pricing reform as authentic compassion rather than acknowledging donor-class constraints. He positioned himself as answering to Georgia voters while 95% of his funding came from outside the state. The moral authority of MLK's pulpit becomes the rhetorical framework that deflects class analysis: criticism of his healthcare policy limitations can be framed as insufficient appreciation for his moral positioning and racial justice credentials.
+**The Villain Framing**. When CNA organizing applied pressure for single-payer support, Warnock framed his limited drug pricing reform as authentic compassion rather than acknowledging donor-class constraints. He positioned himself as answering to Georgia voters while 95% of his funding came from outside the state. The moral authority of MLK's pulpit becomes the rhetorical framework that deflects class analysis: criticism of his healthcare policy limitations can be framed as insufficient appreciation for his moral positioning and racial justice credentials.
 
 ---
 

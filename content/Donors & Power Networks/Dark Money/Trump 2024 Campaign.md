@@ -39,11 +39,11 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### Who They Are
 
-The Trump 2024 Campaign was not a single entity but a constellation of fundraising vehicles that collectively raised $1.45 billion for Donald Trump's presidential bid. The campaign committee — Donald J Trump for President 2024 — raised $463.7 million. But the real money flowed through a network of super PACs and affiliated committees that raised nearly $989 million in outside money, with the largest vehicles being Make America Great Again Inc ($410.5M), America PAC ($263.5M, Elon Musk's personal operation), Preserve America PAC ($114.8M, Miriam Adelson's vehicle), and Save America ($99.7M, Trump's leadership PAC).
+The Trump 2024 Campaign was not a single entity but a constellation of fundraising vehicles that collectively raised $1.45 billion for Donald Trump's presidential bid. The campaign committee. Donald J Trump for President 2024, raised $463.7 million. But the real money flowed through a network of super PACs and affiliated committees that raised nearly $989 million in outside money, with the largest vehicles being Make America Great Again Inc ($410.5M), America PAC ($263.5M, Elon Musk's personal operation), Preserve America PAC ($114.8M, Miriam Adelson's vehicle), and Save America ($99.7M, Trump's leadership PAC).
 
-The structural innovation of the 2024 campaign was its explicit outsourcing of core campaign functions to super PACs. America PAC, funded almost entirely by Elon Musk, ran the ground game — voter contact, canvassing, door-knocking — that campaigns traditionally handle internally. MAGA Inc handled television advertising. This arrangement allowed the campaign to accept unlimited contributions for its most expensive operations while maintaining the campaign committee for direct mail, small-dollar fundraising, and legal compliance. The Campaign Legal Center flagged this structure as potentially illegal coordination between the campaign and its allied super PACs.
+The structural innovation of the 2024 campaign was its explicit outsourcing of core campaign functions to super PACs. America PAC, funded almost entirely by Elon Musk, ran the ground game, voter contact, canvassing, door-knocking, that campaigns traditionally handle internally. MAGA Inc handled television advertising. This arrangement allowed the campaign to accept unlimited contributions for its most expensive operations while maintaining the campaign committee for direct mail, small-dollar fundraising, and legal compliance. The Campaign Legal Center flagged this structure as potentially illegal coordination between the campaign and its allied super PACs.
 
-The fundraising breakdown reveals the concentration: 69.4% of campaign committee funds came from large contributions (over $200), while only 28.8% came from small-dollar donors. At the super PAC level, the concentration was even more extreme — 96% of MAGA Inc's money came from donors who gave $1 million or more. The 2024 Trump operation was, by design, a billionaire-funded candidacy with a populist small-dollar overlay.
+The fundraising breakdown reveals the concentration: 69.4% of campaign committee funds came from large contributions (over $200), while only 28.8% came from small-dollar donors. At the super PAC level, the concentration was even more extreme, 96% of MAGA Inc's money came from donors who gave $1 million or more. The 2024 Trump operation was, by design, a billionaire-funded candidacy with a populist small-dollar overlay.
 
 ---
 
@@ -51,32 +51,32 @@ The fundraising breakdown reveals the concentration: 69.4% of campaign committee
 
 The Trump 2024 campaign's donor structure reveals its policy commitments more clearly than any platform document. Each major funding bloc contributed with explicit or implicit expectations:
 
-**Israel lobby / Adelson bloc:** Miriam Adelson's $106M+ through Preserve America PAC came with well-documented expectations on Israel policy — full diplomatic support, opposition to Palestinian statehood, and favorable treatment for the Adelson family's business interests (Las Vegas Sands, Dallas Mavericks). In Trump's first term, the Adelsons donated tens of millions and received the U.S. Embassy move to Jerusalem. The 2024 contribution was an escalation of the same transactional model.
+**Israel lobby / Adelson bloc:** Miriam Adelson's $106M+ through Preserve America PAC came with well-documented expectations on Israel policy, full diplomatic support, opposition to Palestinian statehood, and favorable treatment for the Adelson family's business interests (Las Vegas Sands, Dallas Mavericks). In Trump's first term, the Adelsons donated tens of millions and received the U.S. Embassy move to Jerusalem. The 2024 contribution was an escalation of the same transactional model.
 
-**Tech / crypto bloc:** [[a16z - Andreessen Horowitz|a16z]] ($7M+), [[_David Sacks Master Profile|David Sacks]], and the broader crypto industry wanted regulatory relief — specifically, the replacement of SEC Chair Gary Gensler, favorable cryptocurrency legislation (the FIT21 Act and stablecoin framework), and AI regulation that favored incumbent tech platforms over open-source alternatives.
+**Tech / crypto bloc:** [[a16z - Andreessen Horowitz|a16z]] ($7M+), [[_David Sacks Master Profile|David Sacks]], and the broader crypto industry wanted regulatory relief, specifically, the replacement of SEC Chair Gary Gensler, favorable cryptocurrency legislation (the FIT21 Act and stablecoin framework), and AI regulation that favored incumbent tech platforms over open-source alternatives.
 
 **Fossil fuel / energy bloc:** Energy Transfer LP ($12.5M), oil and gas interests ($25.8M total) sought pipeline approvals, LNG export expansion, rollback of EPA emissions regulations, and withdrawal from Paris Climate Agreement commitments.
 
-**Wall Street / securities bloc:** Securities and investment firms contributed $246.3M — the largest industry sector — seeking deregulation of financial services, favorable tax treatment for carried interest and capital gains, and reduced enforcement by the SEC and CFPB.
+**Wall Street / securities bloc:** Securities and investment firms contributed $246.3M, the largest industry sector, seeking deregulation of financial services, favorable tax treatment for carried interest and capital gains, and reduced enforcement by the SEC and CFPB.
 
-**Immigration restrictionists:** Timothy Mellon's $150M came through an heir whose family fortune was built on immigrant labor in the 19th century steel and banking industries. Mellon's policy priority was immigration restriction and border enforcement — the issue that animated his largest previous contribution ($53M to a Trump super PAC in 2020).
+**Immigration restrictionists:** Timothy Mellon's $150M came through an heir whose family fortune was built on immigrant labor in the 19th century steel and banking industries. Mellon's policy priority was immigration restriction and border enforcement, the issue that animated his largest previous contribution ($53M to a Trump super PAC in 2020).
 
 ---
 
-### Money Flow — Source to Impact
+### Money Flow. Source to Impact
 
 | Date | Source → Recipient | Amount | Electoral/Policy Impact | Time Gap |
 |------|-------------------|--------|------------------------|----------|
 | 2023-04 | Save America → Trump legal expenses | $40M+ | Leadership PAC funds diverted to cover Trump's defense costs | Ongoing |
-| 2024-Q1 | Timothy Mellon → MAGA Inc | $50M | Single largest individual contribution to any 2024 super PAC at that point | — |
-| 2024-06 | Miriam Adelson → Preserve America PAC | $100M | Largest single Adelson contribution; Israel policy expectations explicit | — |
-| 2024-07 | Elon Musk → America PAC | $75M (initial) | Musk takes over ground game operations; PAC runs canvassing in swing states | — |
-| 2024-Q3 | Timothy Mellon → MAGA Inc (cumulative) | $150M | Mellon becomes second-largest individual donor in U.S. election history | — |
-| 2024-Q3 | Andreessen Horowitz → Trump-allied groups | $7M+ | a16z crypto/tech agenda integrated into campaign platform | — |
-| 2024-10 | Energy Transfer LP → Trump campaign ecosystem | $12.5M | Pipeline and fossil fuel deregulation commitments secured | — |
-| 2024-11 | Combined super PAC spending | $1.02B spent | Trump wins presidency; donor class achieves policy capture of executive branch | — |
+| 2024-Q1 | Timothy Mellon → MAGA Inc | $50M | Single largest individual contribution to any 2024 super PAC at that point |, |
+| 2024-06 | Miriam Adelson → Preserve America PAC | $100M | Largest single Adelson contribution; Israel policy expectations explicit |, |
+| 2024-07 | Elon Musk → America PAC | $75M (initial) | Musk takes over ground game operations; PAC runs canvassing in swing states |, |
+| 2024-Q3 | Timothy Mellon → MAGA Inc (cumulative) | $150M | Mellon becomes second-largest individual donor in U.S. election history |, |
+| 2024-Q3 | Andreessen Horowitz → Trump-allied groups | $7M+ | a16z crypto/tech agenda integrated into campaign platform |, |
+| 2024-10 | Energy Transfer LP → Trump campaign ecosystem | $12.5M | Pipeline and fossil fuel deregulation commitments secured |, |
+| 2024-11 | Combined super PAC spending | $1.02B spent | Trump wins presidency; donor class achieves policy capture of executive branch |, |
 | 2025-01 | Donors → Inaugural Committee | $300M+ | Record-breaking inauguration funded by same mega-donor network; Adelson front-row seat | 2 months |
-| 2025-01 | Musk appointed DOGE co-lead | $277M invested | Musk gets direct authority over federal spending — the regulator becomes the regulated | 3 months |
+| 2025-01 | Musk appointed DOGE co-lead | $277M invested | Musk gets direct authority over federal spending, the regulator becomes the regulated | 3 months |
 | 2025-01 | David Sacks appointed AI/Crypto Czar | $7M+ (a16z bloc) | Tech/crypto donors get their man inside the White House to write AI and crypto policy | 3 months |
 | 2025-02 | SEC Chair Gensler replaced | $200M+ (crypto bloc) | Crypto industry's top regulatory target removed; new SEC chair favors industry | 4 months |
 
@@ -85,26 +85,26 @@ The Trump 2024 campaign's donor structure reveals its policy commitments more cl
 
 ---
 
-### Campaign Infrastructure — The Super PAC Network
+### Campaign Infrastructure. The Super PAC Network
 
 The 2024 Trump operation used a multi-layered super PAC structure that allowed different donor blocs to fund different campaign functions while maintaining the appearance of independence:
 
 **Make America Great Again Inc ($410.5M raised):** The primary super PAC, funded overwhelmingly by mega-donors ($1M+ contributions accounted for 96% of funds). Handled television advertising and major media buys. Timothy Mellon was the single largest contributor at $150M.
 
-**America PAC ($263.5M raised):** Elon Musk's personal political vehicle, which functionally replaced the traditional campaign ground game. America PAC ran canvassing operations, voter registration drives, and get-out-the-vote efforts in swing states — operations that would normally be managed by the campaign committee. Musk contributed $277M total through this vehicle, making it the most expensive single-donor political operation in U.S. history.
+**America PAC ($263.5M raised):** Elon Musk's personal political vehicle, which functionally replaced the traditional campaign ground game. America PAC ran canvassing operations, voter registration drives, and get-out-the-vote efforts in swing states, operations that would normally be managed by the campaign committee. Musk contributed $277M total through this vehicle, making it the most expensive single-donor political operation in U.S. history.
 
 **Preserve America PAC ($114.8M raised):** Miriam Adelson's vehicle, primarily funded by the Adelson family fortune (Las Vegas Sands casino empire). Focused on pro-Trump advertising with particular emphasis on Israel policy and national security messaging.
 
 **Save America ($99.7M raised):** Trump's leadership PAC, which became controversial for diverting tens of millions in small-dollar donor contributions to Trump's defense legal fees. The Campaign Legal Center filed complaints alleging that Save America operated as an illegal slush fund, using money donated for political purposes to cover personal legal expenses.
 
-**Additional vehicles:** Right for America ($72.5M), Turnout for America ($45.7M), Duty to America PAC ($23.6M), RBG PAC ($20.5M), and SAG PAC ($16.9M) — each targeting specific donor networks or issue constituencies.
+**Additional vehicles:** Right for America ($72.5M), Turnout for America ($45.7M), Duty to America PAC ($23.6M), RBG PAC ($20.5M), and SAG PAC ($16.9M), each targeting specific donor networks or issue constituencies.
 
 > [!contradiction]
 > The Trump campaign's populist branding — "the movement of the forgotten men and women" — coexisted with the most billionaire-dependent fundraising operation in American history. Small-dollar donors contributed $133.5M to the campaign committee (28.8% of committee funds), but the real power sat with approximately 20 mega-donors who contributed $750M+ through super PACs. The small-dollar donors provided democratic legitimacy; the mega-donors provided the money that actually won the election. The grassroots base was essential for turnout and enthusiasm, but the policy agenda was written by the check-writers.
 
 ---
 
-### Top Contributors — The Donor Class Map
+### Top Contributors. The Donor Class Map
 
 ### OpenSecrets data, 2024 cycle (campaign + outside groups combined):
 
@@ -135,29 +135,29 @@ The 2024 Trump operation used a multi-layered super PAC structure that allowed d
 
 ### Class Analysis
 
-The Trump 2024 campaign is the most transparent case study in American history of the donor-class purchase of executive power. The operation's financial structure — 96% mega-donor funding at the super PAC level, explicit outsourcing of campaign operations to billionaire-funded vehicles, and documented policy commitments to major contributors — eliminates the usual ambiguity about whether donations "buy" policy outcomes.
+The Trump 2024 campaign is the most transparent case study in American history of the donor-class purchase of executive power. The operation's financial structure, 96% mega-donor funding at the super PAC level, explicit outsourcing of campaign operations to billionaire-funded vehicles, and documented policy commitments to major contributors, eliminates the usual ambiguity about whether donations "buy" policy outcomes.
 
-The class function operates on three levels. First, the campaign itself served as a marketplace: donors contributed nine-figure sums with specific policy expectations, and the administration delivered those policies within months of taking office. Musk's $277M bought DOGE — direct authority over the federal budget by the nation's richest man. Adelson's $106M bought continued U.S. alignment with Israeli policy priorities. The crypto industry's collective investment bought the removal of their chief regulator and the installation of an industry ally as AI/Crypto Czar.
+The class function operates on three levels. First, the campaign itself served as a marketplace: donors contributed nine-figure sums with specific policy expectations, and the administration delivered those policies within months of taking office. Musk's $277M bought DOGE, direct authority over the federal budget by the nation's richest man. Adelson's $106M bought continued U.S. alignment with Israeli policy priorities. The crypto industry's collective investment bought the removal of their chief regulator and the installation of an industry ally as AI/Crypto Czar.
 
-Second, the super PAC structure itself is a class instrument. By outsourcing core campaign functions (ground game, advertising, voter contact) to unlimited-contribution super PACs, the 2024 operation made the campaign structurally dependent on billionaire funding in a way that previous campaigns — which relied more heavily on the $3,300-per-person campaign committee limit — were not. The legal fiction of super PAC "independence" allowed a small number of billionaires to fund and effectively control campaign operations that nominally belonged to the candidate.
+Second, the super PAC structure itself is a class instrument. By outsourcing core campaign functions (ground game, advertising, voter contact) to unlimited-contribution super PACs, the 2024 operation made the campaign structurally dependent on billionaire funding in a way that previous campaigns, which relied more heavily on the $3,300-per-person campaign committee limit, were not. The legal fiction of super PAC "independence" allowed a small number of billionaires to fund and effectively control campaign operations that nominally belonged to the candidate.
 
-Third, the Save America leadership PAC revealed the patron-client dynamic in its purest form. Small-dollar donors — the populist base — contributed tens of millions believing their money would fund political operations. Instead, it funded Trump's personal legal defense. The donors who actually shaped policy were the mega-donors who contributed through super PACs with explicit transactional expectations. The small-dollar base provided votes; the donor class provided governance.
+Third, the Save America leadership PAC revealed the patron-client dynamic in its purest form. Small-dollar donors, the populist base, contributed tens of millions believing their money would fund political operations. Instead, it funded Trump's personal legal defense. The donors who actually shaped policy were the mega-donors who contributed through super PACs with explicit transactional expectations. The small-dollar base provided votes; the donor class provided governance.
 
-The broader structural pattern: billionaires contributed nearly 20% of all donations in the 2024 federal election cycle. The Trump campaign was the leading edge of this concentration, but the dynamic extends across both parties. The 2024 election proved that American presidential campaigns are now, in financial terms, competitions between rival billionaire coalitions — with voters serving as the ratifying audience for decisions made by the donor class.
+The broader structural pattern: billionaires contributed nearly 20% of all donations in the 2024 federal election cycle. The Trump campaign was the leading edge of this concentration, but the dynamic extends across both parties. The 2024 election proved that American presidential campaigns are now, in financial terms, competitions between rival billionaire coalitions, with voters serving as the ratifying audience for decisions made by the donor class.
 
 ---
 
 ### Sources
 
-- [OpenSecrets: Donald Trump 2024 summary — campaign and outside group fundraising totals](https://www.opensecrets.org/2024-presidential-race?id=N00023864) (Tier 1) (VERIFIED)
+- [OpenSecrets: Donald Trump 2024 summary, campaign and outside group fundraising totals](https://www.opensecrets.org/2024-presidential-race?id=N00023864) (Tier 1) (VERIFIED)
 - [OpenSecrets: Donald Trump 2024 top contributors](https://www.opensecrets.org/2024-presidential-race?id=N00023864) (Tier 1) (VERIFIED)
 - [OpenSecrets: Donald Trump 2024 top industries](https://www.opensecrets.org/2024-presidential-race?id=N00023864) (Tier 1) (VERIFIED)
 - [Brennan Center: Unprecedented Big Money Surge for Super PAC Tied to Trump](https://www.brennancenter.org/our-work/analysis-opinion/unprecedented-big-money-surge-super-pac-tied-trump) (Tier 2) (VERIFIED)
 - [Brennan Center: Megadonors Playing Larger Role in Presidential Race, FEC Data Shows](https://www.brennancenter.org/our-work/analysis-opinion/megadonors-playing-larger-role-presidential-race-fec-data-shows) (Tier 2) (VERIFIED)
-- [Sludge: The Final Pre-Election Reports Are In — Here Are Trump's 20 Largest Donors](https://readsludge.com/2024/10/25/the-final-pre-election-reports-are-in-here-are-trumps-20-largest-donors/) (Tier 2) (VERIFIED)
+- [Sludge: The Final Pre-Election Reports Are In. Here Are Trump's 20 Largest Donors](https://readsludge.com/2024/10/25/the-final-pre-election-reports-are-in-here-are-trumps-20-largest-donors/) (Tier 2) (VERIFIED)
 - [NBC News: Some of the biggest pro-Trump donors of 2024 are lining up for administration jobs](https://www.nbcnews.com/politics/donald-trump/biggest-trump-donors-2024-are-lining-administration-jobs-rcna180645) (Tier 2) (VERIFIED)
 - [CBS News: The megadonors who fueled Trump and the Republican Party and what they may want](https://www.cbsnews.com/news/trump-megadonors-2024-election/) (Tier 2) (VERIFIED)
-- [Quartz: They gave Donald Trump millions — here's what they want](https://qz.com/donald-trump-campaign-donors-elon-musk-timothy-mellon-1851706388) (Tier 2) (VERIFIED)
+- [Quartz: They gave Donald Trump millions, here's what they want](https://qz.com/donald-trump-campaign-donors-elon-musk-timothy-mellon-1851706388) (Tier 2) (VERIFIED)
 - [Common Dreams: Billionaires Gave Nearly 20% of Donations in 2024 US Federal Elections](https://www.commondreams.org/news/billionaire-political-donations-2024) (Tier 3) (VERIFIED)
 - [Campaign Legal Center: Trump is Illegally Using Soft Money to Run for President in 2024](https://campaignlegal.org/update/trump-illegally-using-soft-money-run-president-2024) (Tier 2) (VERIFIED)
 

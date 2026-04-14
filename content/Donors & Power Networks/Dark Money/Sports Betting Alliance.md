@@ -65,7 +65,7 @@ The Sports Betting Alliance exemplifies emerging industry regulatory capture: a 
 
 ### Sources
 
-- ~~[OpenSecrets: Sports betting dark money spending](https://www.opensecrets.org/groups/sports-betting-alliance)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Sports betting dark money spending](https://www.opensecrets.org/groups/sports-betting-alliance)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [ProPublica: Sports betting industry influence on states](https://www.propublica.org/article/illinois-gambling-expansion-bill-sports-betting-video-gambling) (Tier 2) (VERIFIED)
 - [Center for Responsive Politics: Gambling industry contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
 - [NPR: The Story Behind the Sports Betting Boom. DraftKings, FanDuel, and state lobbying](https://www.npr.org/2023/04/06/1168349259/the-story-behind-the-sports-betting-boom) (VERIFIED) (

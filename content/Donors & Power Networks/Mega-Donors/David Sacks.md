@@ -1,8 +1,8 @@
 ---
-title: David Sacks
+title: David Sacks (Donor Network)
 type: donor
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: '2026-04-14'
 source-tier: 1
 parent: null
 sector: Mega-Donors
@@ -45,7 +45,7 @@ sec-form-types:
   - SC 13D/A
 total-political-spend: '$458,349'
 court-cases: 98
-last-enriched: "2026-04-10"
+last-enriched: '2026-04-10'
 court-jurisdictions:
   - Court of Appeals for the First Circuit
   - 'District Court, C.D. California'
@@ -57,15 +57,29 @@ court-jurisdictions:
   - 'District Court, N.D. Illinois'
   - 'District Court, N.D. Ohio'
   - 'District Court, S.D. New York'
-donors: "[[World Liberty Financial]] · [[Silicon Valley Donors]] · [[Marc Andreessen & Horowitz]] · [[Founders Fund]] · [[Crypto Industry Bloc]] · [[Peter Thiel]] · [[Palantir Technologies]] · [[Narya Capital]] · [[Trump 2024 Campaign]]"
-related: "[[The 2024 Tech Billionaire Network]] · [[Bernie Moreno]] · [[Sherrod Brown]] · [[Steve Witkoff]] · [[The Billionaire Cabinet - Wealthiest Administration in History]] · [[The Thiel-Adjacent Tech Pipeline]] · [[Ajay Royan]] · [[_David Sacks Master Profile|Sacks]] · [[Peter Thiel]] · [[Founders Fund]] · [[_JD Vance Master Profile|Vance]] · [[Cryptocurrency Industry]] · [[Fairshake PAC]] · [[Palantir]] · [[_Donald Trump Master Profile|Trump]] · [[Anduril Industries]] · [[Tech Billionaires Switch Parties on Regulatory Self-Interest]] · [[Trump Crypto - The President as Personal Profiteer]] · [[Elon Musk]]"
+donors: >-
+  [[World Liberty Financial]] · [[Silicon Valley Donors]] · [[Marc Andreessen &
+  Horowitz]] · [[Founders Fund]] · [[Crypto Industry Bloc]] · [[Peter Thiel]] ·
+  [[Palantir Technologies]] · [[Narya Capital]] · [[Trump 2024 Campaign]]
+related: >-
+  [[The 2024 Tech Billionaire Network]] · [[Bernie Moreno]] · [[Sherrod Brown]]
+  · [[Steve Witkoff]] · [[The Billionaire Cabinet - Wealthiest Administration in
+  History]] · [[The Thiel-Adjacent Tech Pipeline]] · [[Ajay Royan]] · [[_David
+  Sacks Master Profile|Sacks]] · [[Peter Thiel]] · [[Founders Fund]] · [[_JD
+  Vance Master Profile|Vance]] · [[Cryptocurrency Industry]] · [[Fairshake PAC]]
+  · [[Palantir]] · [[_Donald Trump Master Profile|Trump]] · [[Anduril
+  Industries]] · [[Tech Billionaires Switch Parties on Regulatory
+  Self-Interest]] · [[Trump Crypto - The President as Personal Profiteer]] ·
+  [[Elon Musk]]
 stories: '[[The Billionaire Cabinet - Wealthiest Administration in History]]'
 federal-register-mentions: 1
 regulatory-agencies:
-  - "Health and Human Services Department"
-  - "National Institutes of Health"
+  - Health and Human Services Department
+  - National Institutes of Health
 cross-vault-triangulation-count: 19
-audit-a-plus-passed: "2026-04-11"
+audit-a-plus-passed: '2026-04-11'
+aliases:
+  - David Sacks
 ---
 #david-sacks #paypal-mafia #craft-ventures #crypto #republican #ai-czar #trump #revolving-door #class-analysis #follow-the-money #defense-tech #stablecoin #genius-act #all-in-podcast
 
@@ -266,7 +280,7 @@ Vance worked at Mithril Capital (Thiel fund), launched Narya Capital with Thiel 
 - **March 5, 2025:** 11-page waiver by David Warrington covering all "particular matters of general applicability" in digital asset industry. Issued one month after Trump fired OGE director.
 - **June 2025:** Second waiver specifically addressing AI holdings
 
-Kathleen Clark (Washington University): "These are sham ethics waivers. They lack rigorous objective ethics analysis ensuring public policy serves public benefit. They were aimed at enabling Sacks to profit from government position.. like a presidential pardon in advance."
+Kathleen Clark (Washington University): "These are sham ethics waivers. They lack rigorous objective ethics analysis ensuring public policy serves public benefit. They were aimed at enabling Sacks to profit from government position. like a presidential pardon in advance."
 
 Elizabeth Warren (May 2025 letter to OGE): Questioned waivers while Sacks simultaneously co-hosted "$1.5 million-a-head dinner for crypto industry players" while shaping federal crypto policy.
 
@@ -371,26 +385,26 @@ By March 2026, $500M+ in personal portfolio wealth appreciation from policies Sa
 - [KQED: The South Africa Connection](https://www.kqed.org/news/12041022) (Tier 2) (VERIFIED)
 - [Wikipedia: David Sacks](https://en.wikipedia.org/wiki/David_Sacks) (Tier 3) (VERIFIED)
 - [FEC Receipts: David Sacks Donor Lookup](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=david%20sacks) (Tier 1) (VERIFIED)
-- ~~[Bloomberg: Venture Capitalist David Sacks Is All In on Donald Trump](https://www.bloomberg.com/news/articles/2024-06-05/venture-capitalist-david-sacks-is-all-in-on-donald-trump)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[Bloomberg: Venture Capitalist David Sacks Is All In on Donald Trump](https://www.bloomberg.com/news/articles/2024-06-05/venture-capitalist-david-sacks-is-all-in-on-donald-trump)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 - [LA Times: Early Donations Archive](https://enewspaper.latimes.com/infinity/article_share.aspx?guid=7d571eb8-2efa-4ebd-ae9b-ee59f68191a2) (Tier 2) (VERIFIED)
 - [OpenSecrets News: Tech Billionaires Signal Support for Trump Vice President JD Vance](https://www.opensecrets.org/news/2024/07/tech-billionaires-signal-support-for-trump-vice-president-jd-vance/) (Tier 1) (VERIFIED) (UNVERIFIED)
 - [CNBC: Trump Hits Tech Fundraiser in San Francisco](https://www.cnbc.com/2024/06/06/trump-hits-tech-fundraiser-in-san-francisco-some-guests-pay-300000.html) (Tier 2) (VERIFIED)
-- ~~[New York Times: Trump Sacks Silicon Valley Donors](https://www.nytimes.com/2024/06/06/us/politics/trump-sacks-silicon-valley-donors.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
-- ~~[Politico: Trump Fundraiser California Silicon Valley Los Angeles](https://www.politico.com/news/2024/06/06/trump-fundraiser-california-silicon-valley-los-angeles-00162207)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[New York Times: Trump Sacks Silicon Valley Donors](https://www.nytimes.com/2024/06/06/us/politics/trump-sacks-silicon-valley-donors.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[Politico: Trump Fundraiser California Silicon Valley Los Angeles](https://www.politico.com/news/2024/06/06/trump-fundraiser-california-silicon-valley-los-angeles-00162207)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 - [USA Today: David Sacks Full RNC Speech Video](https://www.usatoday.com/videos/news/politics/elections/2024/07/15/watch-david-sacks-full-rnc-speech/74418983007/) (Tier 2) (VERIFIED)
 - [SFist: Billionaire David Sacks Takes His Turn Bashing San Francisco at RNC](https://sfist.com/2024/07/17/billionaire-david-sacks-takes-his-turn-bashing-san-francisco-at-rnc/) (Tier 2) (VERIFIED)
-- ~~[Politico: Crypto Czar Appointment](https://www.politico.com/live-updates/2024/12/05/congress/a-crypto-czar-00192955)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[Politico: Crypto Czar Appointment](https://www.politico.com/live-updates/2024/12/05/congress/a-crypto-czar-00192955)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 - [White House: Executive Order Digital Financial Technology](https://www.whitehouse.gov/fact-sheets/2025/01/fact-sheet-executive-order-to-establish-united-states-leadership-in-digital-financial-technology/) (Tier 1) (VERIFIED)
 - [Merkle Science: David Sacks Press Conference Recap](https://www.merklescience.com/blog/david-sacks-press-conference-recap-us-crypto-regulation-compliance) (Tier 3) (VERIFIED)
 - [AP News: Bitcoin Reserve Trump Crypto Sacks](https://apnews.com/article/bitcoin-reserve-trump-crypto-sacks-5c91a1ab3dab9a8c86d4bc42b8db3f8f) (Tier 1) (VERIFIED)
-- ~~[Reuters: Trump Signs Order Establish Strategic Bitcoin Reserve](https://www.reuters.com/technology/trump-signs-order-establish-strategic-bitcoin-reserve-white-house-crypto-czar-2025-03-07/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[Reuters: Trump Signs Order Establish Strategic Bitcoin Reserve](https://www.reuters.com/technology/trump-signs-order-establish-strategic-bitcoin-reserve-white-house-crypto-czar-2025-03-07/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 - [The Lever: Trump Issues Ethics Waiver for His AI/Crypto Czar](https://www.levernews.com/trump-issues-ethics-waiver-for-his-ai-crypto-czar/) (Tier 2) (VERIFIED)
 - [TechCrunch: David Sacks and the Blurred Lines of Government Service](https://techcrunch.com/2025/07/19/david-sacks-and-the-blurred-lines-of-government-service/) (Tier 2) (VERIFIED)
 - [JD Supra: Senate Passes Landmark Legislation (GENIUS Act)](https://www.jdsupra.com/legalnews/senate-passes-landmark-legislation-to-2315421/) (Tier 3) (VERIFIED)
 - [CNBC: Trump Crypto Czar Sacks Stablecoin Bill Unlock Trillions](https://www.cnbc.com/2025/05/21/trump-crypto-czar-sacks-stablecoin-bill-unlock-trillions-for-treasury.html) (Tier 2) (VERIFIED)
-- ~~[Ropes & Gray: Trump Attempts to Preempt State AI Regulation Through Executive Order](https://www.ropesgray.com/en/insights/alerts/2025/12/trump-attempts-to-preempt-state-ai-regulation-through-executive-order)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3) (UNVERIFIED)
-- ~~[Axios: Trump Signs Executive Order State AI Laws](https://www.axios.com/2025/12/11/trump-signs-executive-order-state-ai-laws)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
-- ~~[New York Times: David Sacks' White House Profits](https://www.nytimes.com/2025/11/30/technology/david-sacks-white-house-profits.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[Ropes & Gray: Trump Attempts to Preempt State AI Regulation Through Executive Order](https://www.ropesgray.com/en/insights/alerts/2025/12/trump-attempts-to-preempt-state-ai-regulation-through-executive-order)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3) (UNVERIFIED)
+- ~~[Axios: Trump Signs Executive Order State AI Laws](https://www.axios.com/2025/12/11/trump-signs-executive-order-state-ai-laws)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[New York Times: David Sacks' White House Profits](https://www.nytimes.com/2025/11/30/technology/david-sacks-white-house-profits.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 - [Fortune Crypto: David Sacks Bitcoin Coinbase Robinhood 200 Million Divestments](https://fortune.com/crypto/2025/03/14/david-sacks-bitcoin-coinbase-robinhood-200-million-divestments-crypto-portfolio/) (Tier 2) (VERIFIED)
 - [NPR: Trump Tech Adviser David Sacks Under Fire Over Vast AI Investments](https://www.npr.org/2025/12/12/nx-s1-5631823/david-sacks-ai-advisor-investment-conflicts) (Tier 2) (VERIFIED)
 - [KERA/NPR: Trump Tech Adviser AI Investments](https://www.keranews.org/2025-12-12/trump-tech-adviser-david-sacks-under-fire-over-vast-ai-investments) (Tier 2) (VERIFIED)

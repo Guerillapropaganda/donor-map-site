@@ -63,10 +63,10 @@ issues:
 #### Membership Numbers
 - **Claimed:** "1/4 of all state legislators" (~2,000)
 - **Actual Paid Members (per Form 990):**
-  - 2024: 496 paid individual legislator members
-  - 2023: 512 paid individual legislator members
-  - 2022: 485 paid individual legislator members
-  - Average: ~500 actual dues-paying legislators nationwide
+ - 2024: 496 paid individual legislator members
+ - 2023: 512 paid individual legislator members
+ - 2022: 485 paid individual legislator members
+ - Average: ~500 actual dues-paying legislators nationwide
 
 **Critical Discrepancy:** ALEC inflates claimed membership by 400% by counting anyone who attended a single ALEC event/training as a "member" without paying dues. The actual committed network is ~500 legislators. (Source: ALEC Form 990 via ProPublica, Tier 1)
 
@@ -93,11 +93,11 @@ issues:
 
 ### Sources for Funding Section (All Tier 1-2)
 
-- [ProPublica Nonprofit Explorer: ALEC](https://projects.propublica.org/nonprofits/organizations/520140979) (VERIFIED) (Tier 1 — Form 990 filings)
-- ~~[EXPOSEDbyCMD: Who Funds ALEC?](https://www.exposedbycmd.org/2025/07/18/who-funds-alec/)~~ (URL broken, archived by Ops) (Tier 2 — 2025 investigative analysis)
-- ~~[EXPOSEDbyCMD: ALEC's Funding Revealed](https://www.exposedbycmd.org/2023/07/25/alecs-funding-revealed/)~~ (URL broken, archived by Ops) (Tier 2 — $41.7M breakdown 2017-2021)
-- ~~[EXPOSEDbyCMD: Bradley Foundation Bankrolls ALEC](https://www.exposedbycmd.org/2021/08/20/bradley-foundation-bankrolls-controversial-alec-voter-software)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- [ALEC Membership Page](https://alec.org/membership/) (VERIFIED) (Tier 2 — official disclosure)
+- [ProPublica Nonprofit Explorer: ALEC](https://projects.propublica.org/nonprofits/organizations/520140979) (VERIFIED) (Tier 1. Form 990 filings)
+- ~~[EXPOSEDbyCMD: Who Funds ALEC?](https://www.exposedbycmd.org/2025/07/18/who-funds-alec/)~~ (URL broken, archived by Ops) (Tier 2, 2025 investigative analysis)
+- ~~[EXPOSEDbyCMD: ALEC's Funding Revealed](https://www.exposedbycmd.org/2023/07/25/alecs-funding-revealed/)~~ (URL broken, archived by Ops) (Tier 2, $41.7M breakdown 2017-2021)
+- ~~[EXPOSEDbyCMD: Bradley Foundation Bankrolls ALEC](https://www.exposedbycmd.org/2021/08/20/bradley-foundation-bankrolls-controversial-alec-voter-software)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- [ALEC Membership Page](https://alec.org/membership/) (VERIFIED) (Tier 2, official disclosure)
 
 ---
 
@@ -114,7 +114,7 @@ issues:
 - ~25% lifted 30%+ language directly from ALEC model
 - 25 of 30 states adopting SYG laws used ALEC model (ProPublica analysis)
 - **West Virginia HB 2734:** 80% identical to ALEC model (~849 of 1,050 words matching)
-- **Model removed from ALEC website post-Trayvon Martin (April 2012)** — public pressure forced ALEC to scrub the bill
+- **Model removed from ALEC website post-Trayvon Martin (April 2012)**, public pressure forced ALEC to scrub the bill
 
 **Beneficiaries:** NRA, Walmart (justice system Task Force chair when SYG promoted)
 
@@ -162,7 +162,7 @@ issues:
 - Private prison industry beneficiary: Corrections Corporation of America (CCA) was executive committee member of ALEC Public Safety & Elections Task Force
 - **Key Finding:** ALEC produced massive incarceration expansion legislation that directly increased private prison profits. After 2015, ALEC rebranded with "justice system reform" language while model bills remained punitive.
 
-**Recent Shift (2015+):** ALEC adopted "Justice Safety Valve Act" allowing judicial discretion for nonviolent offenders — positioned as "reform" while maintaining mandatory minimums for violent crimes.
+**Recent Shift (2015+):** ALEC adopted "Justice Safety Valve Act" allowing judicial discretion for nonviolent offenders, positioned as "reform" while maintaining mandatory minimums for violent crimes.
 
 ### Tort Reform Model Bills
 
@@ -189,13 +189,13 @@ issues:
 - Model drafted to criminalize undercover investigation of factory farms
 - Created "terrorist registry" for conviction
 - States adopting (with constitutional challenges):
-  - Iowa (2010) — challenged
-  - Oklahoma
-  - Indiana
-  - Utah
-  - North Dakota
-  - Arkansas
-  - Kansas
+ - Iowa (2010), challenged
+ - Oklahoma
+ - Indiana
+ - Utah
+ - North Dakota
+ - Arkansas
+ - Kansas
 - 5+ states' ag-gag laws struck down as unconstitutional (First Amendment violations)
 - 14 agricultural industry members in ALEC documented funding this model
 
@@ -251,7 +251,7 @@ issues:
 |---|---|---|---|---|---|
 | State AI Policy Toolkit (7 model policies) | 2024 | Promoting adoption | Multiple in discussion | "Light-touch" regulation; pro-business | ALEC.org (Tier 2) |
 
-**ALEC Framing:** "Golden Age of AI Innovation" — model policies designed to remove "obsolete regulations" impeding AI adoption, not regulate AI risks.
+**ALEC Framing:** "Golden Age of AI Innovation", model policies designed to remove "obsolete regulations" impeding AI adoption, not regulate AI risks.
 **Beneficiary:** Tech corporations (implicit, not yet fully identified)
 
 ### ESG / Anti-ESG Legislation
@@ -364,7 +364,7 @@ ALEC publicly claimed it faced a "funding crisis" post-exodus, but recovered thr
 ### Sources for Revolving Door (Limited Tier 3 Data)
 
 - [Britannica: American Legislative Exchange Council](https://www.britannica.com/topic/American-Legislative-Exchange-Council) (Tier 3) (VERIFIED)
-- ~~[SourceWatch: ALEC Politicians](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/ALEC_Politicians)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[SourceWatch: ALEC Politicians](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/ALEC_Politicians)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 
 **Note:** The revolving door section is data-limited because ALEC's 501(c)(3) status exempts it from lobbying disclosures that would track staff movements.
 
@@ -424,7 +424,7 @@ ALEC published "Essential Policy Solutions for 2025" including:
 
 - [ALEC: Exploring Essential Policy Solutions for 2025](https://alec.org/article/exploring-alecs-essential-policy-solutions-for-2025/) (Tier 2) (VERIFIED)
 - [ALEC: State AI Policy Toolkit](https://alec.org/publication/state-ai-policy-toolkit-the-alec-guide-to-a-golden-age-of-artificial-intelligence-innovation/) (Tier 2) (VERIFIED)
-- ~~[Exposed by CMD: ALEC Grid Stability Bills 2024](https://www.exposedbycmd.org/2025/11/12/alec-pushes-power-grid-stability-bills-to-favor-fossil-fuels-over-renewables)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Exposed by CMD: ALEC Grid Stability Bills 2024](https://www.exposedbycmd.org/2025/11/12/alec-pushes-power-grid-stability-bills-to-favor-fossil-fuels-over-renewables)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [CleanTechnica: ALEC Anti-Renewable Legislation Ohio](https://cleantechnica.com/2026/02/24/alec-pushes-idiotic-anti-renewable-legislation-in-ohio/amp) (Tier 2) (NEEDS REVIEW)
 
 ---
@@ -455,7 +455,7 @@ ALEC published "Essential Policy Solutions for 2025" including:
 
 **As of 2024-2025:** No public disclosure of investigation outcome
 
-**Finding:** The IRS has not publicly reported whether it opened a formal investigation, conducted audit, or made determination on ALEC's tax status. This lack of transparency is itself notable — either investigation was stalled or results were not publicly disclosed.
+**Finding:** The IRS has not publicly reported whether it opened a formal investigation, conducted audit, or made determination on ALEC's tax status. This lack of transparency is itself notable, either investigation was stalled or results were not publicly disclosed.
 
 ### Recent Legal Challenges (2021-2024)
 
@@ -474,7 +474,7 @@ ALEC published "Essential Policy Solutions for 2025" including:
 ### Sources for IRS/Legal Section (Tier 1-2)
 
 - [Center for Public Integrity: ALEC Faces New Challenge to Tax-Exempt Status](https://publicintegrity.org/politics/alec-faces-new-challenge-to-tax-exempt-status/) (Tier 2) (VERIFIED)
-- [Common Cause: Whistleblower Complaint](https://www.commoncause.org/resources/alec-whistleblower-complaint/) (VERIFIED) (Tier 1 — original complaint)
+- [Common Cause: Whistleblower Complaint](https://www.commoncause.org/resources/alec-whistleblower-complaint/) (VERIFIED) (Tier 1, original complaint)
 - [Wisconsin Examiner: ALEC and Campaign Violations](https://wisconsinexaminer.com/2021/07/27/is-alec-helping-republicans-campaign-in-violation-of-its-tax-status/) (Tier 2) (VERIFIED)
 - [Common Cause: ALEC Losing Clout & Legitimacy](https://www.commoncause.org/articles/alec-losing-clout-legitimacy-amid-ongoing-controversy-and-tax-fraud/) (Tier 2) (VERIFIED)
 
@@ -520,7 +520,7 @@ ALEC published "Essential Policy Solutions for 2025" including:
 
 ### Pipeline:
 - ALEC writes model bills in states
-- Heritage Foundation translates to federal policy (Project 2025 — 900+ page Trump administration policy manual)
+- Heritage Foundation translates to federal policy (Project 2025, 900+ page Trump administration policy manual)
 - Project 2025 calls on states to enact laws (ALEC model bills) creating litigation basis for federal court challenges
 - Federalist Society judges (vetted by Heritage pipeline) rule on constitutionality
 
@@ -569,9 +569,9 @@ ALEC published "Essential Policy Solutions for 2025" including:
 ### Sources for Connections Section (Tier 1-2)
 
 - [The Intercept: Charles Koch Doubles Down on ALEC as Others Flee](https://theintercept.com/2018/11/29/alec-corporate-funders-charles-koch/) (Tier 2) (VERIFIED)
-- ~~[EXPOSEDbyCMD: Charles Koch $176 Million Network](https://www.exposedbycmd.org/2023/12/20/charles-kochs-stand-together-donor-conduits-move-176-million/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[SourceWatch: SPN Ties to ALEC](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/SPN_Ties_to_ALEC)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
-- ~~[ALEC Exposed: State Policy Network Pipeline](https://www.alecexposed.org/wiki/ALEC_Exposedwiki/EXPOSED:_The_State_Policy_Network)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[EXPOSEDbyCMD: Charles Koch $176 Million Network](https://www.exposedbycmd.org/2023/12/20/charles-kochs-stand-together-donor-conduits-move-176-million/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[SourceWatch: SPN Ties to ALEC](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/SPN_Ties_to_ALEC)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[ALEC Exposed: State Policy Network Pipeline](https://www.alecexposed.org/wiki/ALEC_Exposedwiki/EXPOSED:_The_State_Policy_Network)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Heritage Foundation Project 2025 Documentation](https://www.aclu.org/project-2025-explained) (Tier 2) (VERIFIED)
 - [Energy & Policy Institute: ALEC Energy Task Force](https://energyandpolicy.org/american-legislative-exchange-council/) (Tier 2) (VERIFIED)
 
@@ -597,11 +597,11 @@ ALEC solves the donor class's scaling problem. Instead of hiring lobbyists in al
 
 For the donor class: ALEC is the private legislature.
 For politicians: ALEC is the source of "ready-made" legislation that appears substantive but serves corporate interests.
-For voters: ALEC is invisible — a politician introduces "their" bill; the corporate authorship remains hidden unless investigators trace language matching.
+For voters: ALEC is invisible, a politician introduces "their" bill; the corporate authorship remains hidden unless investigators trace language matching.
 
 ### The Dark Money Connection
 
-ALEC operates on 35% undisclosed funding while simultaneously drafting legislation to protect dark money from disclosure. This is not corruption in the traditional sense (bribery, quid pro quo). This is the donor class purchasing structural invisibility — the ability to write law, fund law, and shield the funding from scrutiny.
+ALEC operates on 35% undisclosed funding while simultaneously drafting legislation to protect dark money from disclosure. This is not corruption in the traditional sense (bribery, quid pro quo). This is the donor class purchasing structural invisibility, the ability to write law, fund law, and shield the funding from scrutiny.
 
 ---
 

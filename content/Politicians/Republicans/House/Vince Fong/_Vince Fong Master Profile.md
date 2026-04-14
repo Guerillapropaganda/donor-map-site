@@ -1,5 +1,5 @@
 ---
-title: "Vince Fong Master Profile"
+title: "Vince Fong"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

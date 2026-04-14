@@ -1,5 +1,5 @@
 ---
-title: "Danny K. Davis Master Profile"
+title: "Danny K. Davis"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

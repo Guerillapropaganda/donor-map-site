@@ -1,33 +1,59 @@
 ---
-title: "Ballard Partners"
+title: Ballard Partners
 type: lobbying-firm
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: '2026-04-14'
 source-tier: 1
 parent: null
-annual-revenue: "$88.1M (2025)"
+annual-revenue: $88.1M (2025)
 lobbyist-count: 38
 fara-clients: 14
-revolving-door-pct: "29.7%"
-related: "[[Palantir Technologies]] · [[GEO Group]] · [[JPMorgan Chase]] · [[UnitedHealth Group - Optum|UnitedHealth Group]] · [[Fossil Fuel Bloc]] · [[_Lobbying Firms Framework]] · [[K&L Gates]] · [[Brownstein Hyatt Farber Schreck]] · [[Prime Policy Group]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Crossroads Strategies]] · [[Cassidy & Associates]] · [[Alpine Group]] · [[Forbes Tate Partners]] · [[Thorn Run Partners]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Cornerstone Government Affairs]] · [[Capitol Counsel]] · [[BGR Group]] · [[Akin Gump Strauss Hauer & Feld]] · [[The DOJ as Political Weapon and Donor Shield]] · [[Qatar Lobbying and the Revolving Door to DOJ]] · [[Donald Trump Master Profile]] · [[Squire Patton Boggs]] · [[Invariant]] · [[Holland & Knight]]"
+revolving-door-pct: 29.7%
+related: >-
+  [[Palantir Technologies]] · [[GEO Group]] · [[JPMorgan Chase]] ·
+  [[UnitedHealth Group - Optum|UnitedHealth Group]] · [[Fossil Fuel Bloc]] ·
+  [[_Lobbying Firms Framework]] · [[K&L Gates]] · [[Brownstein Hyatt Farber
+  Schreck]] · [[Prime Policy Group]] · [[Peck Madigan Jones (now Tiber Creek
+  Group)]] · [[Crossroads Strategies]] · [[Cassidy & Associates]] · [[Alpine
+  Group]] · [[Forbes Tate Partners]] · [[Thorn Run Partners]] · [[Subject Matter
+  (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] ·
+  [[Cornerstone Government Affairs]] · [[Capitol Counsel]] · [[BGR Group]] ·
+  [[Akin Gump Strauss Hauer & Feld]] · [[The DOJ as Political Weapon and Donor
+  Shield]] · [[Qatar Lobbying and the Revolving Door to DOJ]] · [[Donald Trump
+  Master Profile]] · [[Squire Patton Boggs]] · [[Invariant]] · [[Holland &
+  Knight]]
 court-cases: 33
-last-enriched: "2026-04-07"
+last-enriched: '2026-04-07'
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 court-jurisdictions:
-  - "District Court, D. Nevada"
-  - "District Court, District of Columbia"
-  - "District Court, M.D. Florida"
-  - "District Court, N.D. California"
-  - "District Court, S.D. New York"
-  - "United States Bankruptcy Court, D. New Jersey"
-  - "United States Bankruptcy Court, S.D. Florida."
-fara-status: "registrant"
+  - 'District Court, D. Nevada'
+  - 'District Court, District of Columbia'
+  - 'District Court, M.D. Florida'
+  - 'District Court, N.D. California'
+  - 'District Court, S.D. New York'
+  - 'United States Bankruptcy Court, D. New Jersey'
+  - 'United States Bankruptcy Court, S.D. Florida.'
+fara-status: registrant
 fara-records: 1
 cross-vault-triangulation-count: 22
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: >-
+  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: •
+  LDA data is missing entirely. This profile was promoted to ready without ever
+  having lda enrichment run on it. The needs-reenrichment flag has been set. The
+  next scheduled pipeline run will pick it up automatically.
+lei: 254900Z96JBXAI3OVT57
+sec-filings: 17
+sec-form-types:
+  - 10-K
+  - 424B4
+  - D
+  - DRS
+  - EX-99.2
+  - EX-99.3
+  - PX14A6G
+  - S-1
+  - S-1/A
 ---
 
 #lobbying #k-street #trump #revolving-door #fara #foreign-government #tech #defense #pharma #energy #crypto
@@ -36,9 +62,9 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### Who They Are
 
-Ballard Partners is the defining lobbying firm of the Trump era — founded in 1998 by Brian D. Ballard in Tallahassee, Florida, and catapulted to the #1 spot in the country by the sheer premium corporations are willing to pay for proximity to Donald Trump. The firm opened a Washington DC office in 2017 immediately following Trump's first election victory, and by 2025 it had become the highest-grossing lobbying firm in the United States, pulling in $88.12 million from 350 clients in a single year — a 355% increase over its $19.34 million in 2024.
+Ballard Partners is the defining lobbying firm of the Trump era, founded in 1998 by Brian D. Ballard in Tallahassee, Florida, and catapulted to the #1 spot in the country by the sheer premium corporations are willing to pay for proximity to Donald Trump. The firm opened a Washington DC office in 2017 immediately following Trump's first election victory, and by 2025 it had become the highest-grossing lobbying firm in the United States, pulling in $88.12 million from 350 clients in a single year, a 355% increase over its $19.34 million in 2024.
 
-The central proposition of Ballard Partners is not expertise or legislative strategy — it's access. Brian Ballard has been a major Trump fundraiser and loyalist since at least 2015, which means any company that hires Ballard is purchasing a direct line to Trump's personal network. When Trump wins, Ballard wins. The firm employs two people who became the two most powerful positions in Trump's White House: Pam Bondi (Attorney General) and Susie Wiles (Chief of Staff) both worked at Ballard before joining the administration. This is not coincidental. It is the business model.
+The central proposition of Ballard Partners is not expertise or legislative strategy, it's access. Brian Ballard has been a major Trump fundraiser and loyalist since at least 2015, which means any company that hires Ballard is purchasing a direct line to Trump's personal network. When Trump wins, Ballard wins. The firm employs two people who became the two most powerful positions in Trump's White House: Pam Bondi (Attorney General) and Susie Wiles (Chief of Staff) both worked at Ballard before joining the administration. This is not coincidental. It is the business model.
 
 The firm operates from about a dozen offices across the US and internationally, including Boston, Chicago, Los Angeles, Sacramento, Washington DC, Istanbul, Tel Aviv, Nigeria, and Saudi Arabia.
 
@@ -53,67 +79,67 @@ The firm operates from about a dozen offices across the US and internationally, 
 
 #### Tech / Crypto / AI
 
-- **ByteDance (TikTok)** — Hired Ballard in 2024 as Congress moved to ban TikTok. Lobbied by Stephen Klopp and Michael LaRosa.
-- **AMD (Advanced Micro Devices)** — $400,000 (2025)
-- **Palantir Technologies** — Lobbied by Jeff B. Miller. Defense AI surveillance firm.
-- **TP-Link Systems** — Chinese-owned router manufacturer under national security scrutiny
-- **Ripple** — Crypto payments firm; lobbied amid crypto deregulation push
-- **Payward Inc (Kraken)** — Crypto exchange; major beneficiary of crypto-friendly Trump admin
-- **Blockchain US** — Crypto industry group; lobbied by Stephen Klopp and Thomas Boodry
-- **Shein Group** — Chinese fast fashion firm; hired Ballard to fight tariffs and duty loopholes
-- **Lenovo Group** — Chinese tech firm; lobbied by Thomas Boodry and Sylvester Lukis
+- **ByteDance (TikTok)**. Hired Ballard in 2024 as Congress moved to ban TikTok. Lobbied by Stephen Klopp and Michael LaRosa.
+- **AMD (Advanced Micro Devices)**, $400,000 (2025)
+- **Palantir Technologies**. Lobbied by Jeff B. Miller. Defense AI surveillance firm.
+- **TP-Link Systems**. Chinese-owned router manufacturer under national security scrutiny
+- **Ripple**. Crypto payments firm; lobbied amid crypto deregulation push
+- **Payward Inc (Kraken)**. Crypto exchange; major beneficiary of crypto-friendly Trump admin
+- **Blockchain US**. Crypto industry group; lobbied by Stephen Klopp and Thomas Boodry
+- **Shein Group**. Chinese fast fashion firm; hired Ballard to fight tariffs and duty loopholes
+- **Lenovo Group**. Chinese tech firm; lobbied by Thomas Boodry and Sylvester Lukis
 
 #### Defense / Aerospace
 
-- **[[L3Harris Technologies]]** — Major defense electronics contractor
-- **Rolls-Royce North America** — Defense engines/propulsion; lobbied by multiple Ballard lobbyists including Jeff B. Miller
-- **Leonardo DRS** — Defense electronics subsidiary of Italy's Leonardo SpA
-- **[[Booz Allen Hamilton]]** — Government IT/defense contractor
-- **Parsons Government Services** — Defense/infrastructure contractor
+- **[[L3Harris Technologies]]**. Major defense electronics contractor
+- **Rolls-Royce North America**. Defense engines/propulsion; lobbied by multiple Ballard lobbyists including Jeff B. Miller
+- **Leonardo DRS**. Defense electronics subsidiary of Italy's Leonardo SpA
+- **[[Booz Allen Hamilton]]**. Government IT/defense contractor
+- **Parsons Government Services**. Defense/infrastructure contractor
 
 #### Healthcare / Pharma
 
-- **Merck, Sharp & Dohme** — Top pharma company; lobbied by Brian Ballard and multiple others
-- **[[Novo Nordisk]]** — Danish pharma (Ozempic maker); $large billing
-- **Alkermes** — Addiction treatment pharma; lobbied by Alison Anway
-- **Novavax** — COVID vaccine maker navigating federal contracts
-- **UnitedHealth Group** — Largest health insurer in the US; lobbied by multiple Ballard lobbyists
+- **Merck, Sharp & Dohme**. Top pharma company; lobbied by Brian Ballard and multiple others
+- **[[Novo Nordisk]]**. Danish pharma (Ozempic maker); $large billing
+- **Alkermes**. Addiction treatment pharma; lobbied by Alison Anway
+- **Novavax**. COVID vaccine maker navigating federal contracts
+- **UnitedHealth Group**. Largest health insurer in the US; lobbied by multiple Ballard lobbyists
 
 #### Energy
 
-- **[[NextEra Energy]]** — Florida-based utility/renewable energy giant
-- **Chevron Corp** — Major oil company; lobbied by multiple Ballard lobbyists
-- **TotalEnergies (Mozambique Area 1)** — LNG project lobbying
-- **Bloom Energy** — Clean energy/fuel cells
-- **Terra Solar US** — Solar energy
+- **[[NextEra Energy]]**. Florida-based utility/renewable energy giant
+- **Chevron Corp**. Major oil company; lobbied by multiple Ballard lobbyists
+- **TotalEnergies (Mozambique Area 1)**. LNG project lobbying
+- **Bloom Energy**. Clean energy/fuel cells
+- **Terra Solar US**. Solar energy
 
 #### Finance
 
-- **JPMorgan Chase & Co** — Largest US bank; lobbied by Grace Colvin, Patrick Kilcur, Sylvester Lukis
-- **New York Stock Exchange** — Lobbied by multiple Ballard lobbyists
-- **Moore Capital Management** — Hedge fund
-- **Fidelity National Financial** — Insurance/title company
+- **JPMorgan Chase & Co**. Largest US bank; lobbied by Grace Colvin, Patrick Kilcur, Sylvester Lukis
+- **New York Stock Exchange**. Lobbied by multiple Ballard lobbyists
+- **Moore Capital Management**. Hedge fund
+- **Fidelity National Financial**. Insurance/title company
 
 #### Private Prisons / Carceral
 
-- **GEO Group / Paragon Systems (via Securitas AB)** — Private prison and detention firm. GEO Group has been a Ballard client. Under Trump's second term, GEO Group secured major contracts for mass deportation detention. Lobbied by Stephen Klopp.
+- **GEO Group / Paragon Systems (via Securitas AB)**. Private prison and detention firm. GEO Group has been a Ballard client. Under Trump's second term, GEO Group secured major contracts for mass deportation detention. Lobbied by Stephen Klopp.
 
 #### Foreign Governments (FARA registrations)
 
-- **Government of Qatar** — Pam Bondi registered as foreign agent, lobbied at $115K/month
-- **Peoples Democratic Party of Nigeria** — Susie Wiles registered as foreign agent (2019)
-- **Government of Japan** — FARA registration
-- **Ministry of Communication and Medias of the Democratic Republic of Congo** — FARA registration
-- **Government of Kosovo** — FARA registration
-- **Government of Turkey / Halkbank** — FARA registration
-- **Government of Guatemala** — FARA registration
-- **Government of the Dominican Republic** — FARA registration
-- **Government of Mali** — FARA registration
-- **Government of Liberia** — FARA registration
-- **Government of Zimbabwe** — FARA registration
-- **Maldives Marketing and Public Relations Corporation** — FARA registration
-- **Saudi Arabia** — Active FARA registration
-- **Libyan Armed Forces (Khalifa Haftar)** — $2 million FARA contract signed March 2026 for government relations, strategic consulting, and engagement with US executive branch officials. Six-month auto-renewing term. Team: Brian Ballard, Robert Wexler, Jasmine Zaki (MENA practice chief), Micah Ketchel (critical minerals chair), Syl Lukis. Haftar commands the Libyan National Army, a coalition of militias controlling eastern Libya and its oilfields; the UN recognizes the rival Tripoli-based Government of National Unity as the legitimate government. Human rights groups have accused Haftar's forces of brutality and atrocities.
+- **Government of Qatar**. Pam Bondi registered as foreign agent, lobbied at $115K/month
+- **Peoples Democratic Party of Nigeria**. Susie Wiles registered as foreign agent (2019)
+- **Government of Japan**. FARA registration
+- **Ministry of Communication and Medias of the Democratic Republic of Congo**. FARA registration
+- **Government of Kosovo**. FARA registration
+- **Government of Turkey / Halkbank**. FARA registration
+- **Government of Guatemala**. FARA registration
+- **Government of the Dominican Republic**. FARA registration
+- **Government of Mali**. FARA registration
+- **Government of Liberia**. FARA registration
+- **Government of Zimbabwe**. FARA registration
+- **Maldives Marketing and Public Relations Corporation**. FARA registration
+- **Saudi Arabia**. Active FARA registration
+- **Libyan Armed Forces (Khalifa Haftar)**, $2 million FARA contract signed March 2026 for government relations, strategic consulting, and engagement with US executive branch officials. Six-month auto-renewing term. Team: Brian Ballard, Robert Wexler, Jasmine Zaki (MENA practice chief), Micah Ketchel (critical minerals chair), Syl Lukis. Haftar commands the Libyan National Army, a coalition of militias controlling eastern Libya and its oilfields; the UN recognizes the rival Tripoli-based Government of National Unity as the legitimate government. Human rights groups have accused Haftar's forces of brutality and atrocities.
 
 ---
 
@@ -143,19 +169,19 @@ The firm operates from about a dozen offices across the US and internationally, 
 ### What They Deliver
 
 ### TikTok ban delay:
-ByteDance hired Ballard in 2024 as Congress was finalizing legislation to force a sale or ban TikTok. After Trump's inauguration in January 2025, he repeatedly delayed enforcement of the ban. As of mid-2025, TikTok was still operating in the US. ByteDance paid Ballard throughout this period. Correlation is not proof — but the outcome matches the client interest exactly.
+ByteDance hired Ballard in 2024 as Congress was finalizing legislation to force a sale or ban TikTok. After Trump's inauguration in January 2025, he repeatedly delayed enforcement of the ban. As of mid-2025, TikTok was still operating in the US. ByteDance paid Ballard throughout this period. Correlation is not proof, but the outcome matches the client interest exactly.
 
 ### Nippon Steel / U.S. Steel acquisition:
 Biden blocked the Nippon Steel acquisition of U.S. Steel in January 2025, citing national security. Nippon Steel hired Ballard. By June 2025, the Trump administration approved the $15 billion deal. The reversal directly followed Ballard's engagement.
 
 ### GEO Group and mass deportation:
-GEO Group (private prison/detention operator) has been a Ballard client. Under Trump's second term, GEO Group secured expanded federal detention contracts as the mass deportation program scaled up. Ballard's Stephen Klopp lobbied for Securitas/Paragon Systems (detention/security) while simultaneously lobbying for the Florida Sheriffs Association and Major County Sheriffs — the law enforcement network that feeds the deportation pipeline.
+GEO Group (private prison/detention operator) has been a Ballard client. Under Trump's second term, GEO Group secured expanded federal detention contracts as the mass deportation program scaled up. Ballard's Stephen Klopp lobbied for Securitas/Paragon Systems (detention/security) while simultaneously lobbying for the Florida Sheriffs Association and Major County Sheriffs, the law enforcement network that feeds the deportation pipeline.
 
 ### Crypto deregulation:
-Ballard represents Ripple, Kraken (Payward), Blockchain US, and ByteDance — a concentrated crypto client stack. The Trump administration's SEC dropped its case against Ripple, reversed Biden-era crypto enforcement, and moved toward a strategic Bitcoin reserve. Multiple Ballard crypto clients were direct beneficiaries of the regulatory pivot.
+Ballard represents Ripple, Kraken (Payward), Blockchain US, and ByteDance, a concentrated crypto client stack. The Trump administration's SEC dropped its case against Ripple, reversed Biden-era crypto enforcement, and moved toward a strategic Bitcoin reserve. Multiple Ballard crypto clients were direct beneficiaries of the regulatory pivot.
 
 ### Libyan warlord contract (March 2026):
-Ballard signed a $2 million FARA-registered contract with the General Command of the Libyan Armed Forces — the military apparatus controlled by Khalifa Haftar, an 82-year-old warlord whose forces have been accused of mass killings, forced disappearances, and attacks on civilians by the UN and human rights organizations. The team includes Brian Ballard personally, Democratic former Congressman Robert Wexler (providing bipartisan cover), and the firm's MENA practice chief. The contract scope includes engagement with US executive branch officials — meaning Ballard is using its Trump access premium to promote a foreign military commander whom the UN does not recognize as Libya's legitimate ruler. The deal was filed with FARA on March 13, 2026.
+Ballard signed a $2 million FARA-registered contract with the General Command of the Libyan Armed Forces, the military apparatus controlled by Khalifa Haftar, an 82-year-old warlord whose forces have been accused of mass killings, forced disappearances, and attacks on civilians by the UN and human rights organizations. The team includes Brian Ballard personally, Democratic former Congressman Robert Wexler (providing bipartisan cover), and the firm's MENA practice chief. The contract scope includes engagement with US executive branch officials, meaning Ballard is using its Trump access premium to promote a foreign military commander whom the UN does not recognize as Libya's legitimate ruler. The deal was filed with FARA on March 13, 2026.
 
 ### FARA enforcement rollback:
 Bondi's DOJ in 2025 directed prosecutors to deprioritize FARA enforcement unless conduct resembled "traditional espionage." This directly reduced legal risk for Ballard Partners and every other firm with foreign government clients. Bondi made this decision as sitting AG while her former employer continued lobbying for a dozen-plus foreign governments. The March 2026 Haftar contract illustrates the downstream consequence: Ballard took on a foreign military client accused of atrocities, under a FARA enforcement regime that its own former employee softened.
@@ -186,18 +212,18 @@ Bondi's DOJ in 2025 directed prosecutors to deprioritize FARA enforcement unless
 Ballard is fundamentally a Trump-access shop, but the firm maintains structural bipartisan coverage:
 
 ### Democratic access layer:
-- **Robert Wexler** — Former Democratic Congressman (FL-19, 1997–2010). Provides Democratic Hill access and is active on foreign government and finance clients.
-- **Joe Buscaino** — Former Democratic LA City Councilmember. Provides California and municipal government access.
-- **Michael LaRosa** — Former White House Social Secretary under Biden; now lobbies for ByteDance, UnitedHealth, Harvard, among others.
+- **Robert Wexler**. Former Democratic Congressman (FL-19, 1997–2010). Provides Democratic Hill access and is active on foreign government and finance clients.
+- **Joe Buscaino**. Former Democratic LA City Councilmember. Provides California and municipal government access.
+- **Michael LaRosa**. Former White House Social Secretary under Biden; now lobbies for ByteDance, UnitedHealth, Harvard, among others.
 
 ### Republican access core:
-- **Brian D. Ballard** — Trump fundraiser, Florida Republican kingmaker
-- **Jeff B. Miller** — Former Republican Chair of House Veterans Affairs Committee
-- **Leonard Curry** — Former Republican Mayor of Jacksonville
-- **Hunter Morgen** — Former Member of Congress (Republican)
+- **Brian D. Ballard**. Trump fundraiser, Florida Republican kingmaker
+- **Jeff B. Miller**. Former Republican Chair of House Veterans Affairs Committee
+- **Leonard Curry**. Former Republican Mayor of Jacksonville
+- **Hunter Morgen**. Former Member of Congress (Republican)
 
 ### 2026 expansion:
-- **Rich Haselwood** — Joined Ballard's Washington DC office in March 2026 after a lengthy career at Reynolds American (R.J. Reynolds subsidiary), where he served as Senior Director of State Government Relations. Named one of The Hill's Top Lobbyists in 2021 and 2024. His arrival expands Ballard's consumer products/tobacco regulatory portfolio and adds a top-tier lobbyist who has navigated the intersection of corporate government relations and federal regulatory strategy for decades.
+- **Rich Haselwood**. Joined Ballard's Washington DC office in March 2026 after a lengthy career at Reynolds American (R.J. Reynolds subsidiary), where he served as Senior Director of State Government Relations. Named one of The Hill's Top Lobbyists in 2021 and 2024. His arrival expands Ballard's consumer products/tobacco regulatory portfolio and adds a top-tier lobbyist who has navigated the intersection of corporate government relations and federal regulatory strategy for decades.
 
 The bipartisan model serves a specific function: it allows Ballard to claim it can lobby regardless of which party controls Congress or agency leadership. But the core value proposition is pure Trump access, and the revenue spike from $19M to $88M in one year proves it.
 
@@ -230,7 +256,7 @@ The Bondi-Wiles-to-Cabinet pipeline reveals the deeper structural logic. These a
 
 This is not "revolving door" in the traditional sense. This is the deliberate construction of a loyalty pipeline: fundraise for Trump → employ Trump loyalists → wait for Trump to win → collect premium from corporations that need the loyalists → loyalists move into the White House and Justice Department → Ballard's foreign government clients get softened enforcement.
 
-The March 2026 Haftar contract closes the loop. Bondi's DOJ softened FARA enforcement in 2025. Fourteen months later, her former employer signed a $2 million contract to represent a Libyan warlord accused of atrocities by the UN — filed under the very FARA regime Bondi weakened. The team includes Brian Ballard personally and Democratic former Congressman Robert Wexler, providing bipartisan cover for a client whose forces the international community considers illegitimate. The structural function is now complete: Ballard Partners doesn't just convert political proximity into institutional leverage — it shapes the regulatory environment that governs its own business, then exploits the space it created.
+The March 2026 Haftar contract closes the loop. Bondi's DOJ softened FARA enforcement in 2025. Fourteen months later, her former employer signed a $2 million contract to represent a Libyan warlord accused of atrocities by the UN, filed under the very FARA regime Bondi weakened. The team includes Brian Ballard personally and Democratic former Congressman Robert Wexler, providing bipartisan cover for a client whose forces the international community considers illegitimate. The structural function is now complete: Ballard Partners doesn't just convert political proximity into institutional leverage, it shapes the regulatory environment that governs its own business, then exploits the space it created.
 
 The structural function: Ballard Partners is the firm that converts political proximity into institutional leverage. It is what happens when campaign finance and lobbying collapse into a single transactional system.
 
@@ -247,12 +273,12 @@ The structural function: Ballard Partners is the firm that converts political pr
 - [Read Sludge: Trump-Tied Ballard Partners Becomes the Highest-Paid Lobbying Firm in D.C. (Sep 2025)](https://readsludge.com/2025/09/08/trump-tied-ballard-partners-becomes-the-highest-paid-lobbying-firm-in-d-c/) (Tier 2) (VERIFIED)
 - [ABC News: Lobbying firm with close ties to Trump is poised to profit from new administration (Dec 2024)](https://abcnews.com/US/lobbying-firm-close-ties-trump-poised-profit-new/story?id=116417198) (Tier 2) (VERIFIED)
 - [Senate Judiciary Committee Democrats: Pam Bondi's Extensive Lobbying For Wealthy Special Interests And Foreign Government (Jan 2025)](https://www.judiciary.senate.gov/press/dem/releases/pam-bondis-extensive-lobbying-for-wealthy-special-interests-and-foreign-government-poses-serious-conflict-of-interest) (Tier 1) (VERIFIED)
-- [Jacobin: Ballard Partners Is the Lobbyist King of the Trump Era (Aug 2025)](https://jacobin.com/2025/08/ballard-lobbying-trump-crypto-regulation) (VERIFIED) (Tier 4 — partisan, verify claims independently)
+- [Jacobin: Ballard Partners Is the Lobbyist King of the Trump Era (Aug 2025)](https://jacobin.com/2025/08/ballard-lobbying-trump-crypto-regulation) (VERIFIED) (Tier 4, partisan, verify claims independently)
 - [Wikipedia: Ballard Partners](https://en.wikipedia.org/wiki/Ballard_Partners) (Tier 3) (VERIFIED)
 - [Washington Post: Firm with ties to Trump officials signs deal to lobby for Libyan warlord (Mar 21, 2026)](https://www.washingtonpost.com/national-security/2026/03/21/firm-with-ties-trump-officials-signs-deal-lobby-libyan-warlord/) (Tier 2) (VERIFIED)
 - [O'Dwyer's: Ballard Inks $2M Pact with Libyan Armed Forces (Mar 17, 2026)](https://www.odwyerpr.com/story/public/24464/2026-03-17/ballard-inks-2m-pact-with-libyan-armed-forces.html) (Tier 3) (VERIFIED)
 - [Middle East Eye: US lobby firm secures $2m contract to whitewash image of Libya's Haftar](https://www.middleeasteye.net/news/us-lobby-firm-secures-2m-contract-whitewash-khalifa-haftars-image) (Tier 2) (VERIFIED)
-- ~~[FARA Filing: Ballard Partners — Libyan Armed Forces (received Mar 13, 2026)](https://efile.fara.gov/docs/7070-Exhibit-AB-20260313-1.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[FARA Filing: Ballard Partners. Libyan Armed Forces (received Mar 13, 2026)](https://efile.fara.gov/docs/7070-Exhibit-AB-20260313-1.pdf)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [STAT News: Pharma companies turn to Trump-connected firms for FDA lobbying (Feb 23, 2026)](https://www.statnews.com/2026/02/23/fda-lobbying-trump-connected-firms-cash-in/) (Tier 2) (VERIFIED)
 - [OpenSecrets News: Pharma industry and Ballard Partners dominate the lobbying space in second quarter of 2025](https://www.opensecrets.org/news/2025/07/pharma-industry-and-ballard-partners-dominate-the-lobbying-space-in-second-quarter-of-2025/) (Tier 1) (VERIFIED)
 - [Florida Politics: Rich Haselwood joins Ballard Partners' Washington office (Mar 2026)](https://floridapolitics.com/archives/785587-rich-haselwood-joins-ballard-partners-washington-office/) (Tier 3) (VERIFIED)

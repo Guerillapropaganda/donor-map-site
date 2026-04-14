@@ -29,25 +29,25 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### Who They Are
 
-California State Building and Construction Trades Council — the umbrella coordinating body for all building trades unions in California. Nearly 500,000 construction workers. 65,000 apprentices. 157 affiliated unions from 14 construction crafts. 22 local/regional building trades councils. 125 Joint Apprenticeship Training Committees (JATCs).
+California State Building and Construction Trades Council, the umbrella coordinating body for all building trades unions in California. Nearly 500,000 construction workers. 65,000 apprentices. 157 affiliated unions from 14 construction crafts. 22 local/regional building trades councils. 125 Joint Apprenticeship Training Committees (JATCs).
 
 The 14 crafts: IBEW (electricians), Laborers, Ironworkers, Plumbers/Pipefitters, Carpenters (note: Carpenters withdrew from the AFL-CIO in 2001 and have a complicated relationship with the Building Trades), Operating Engineers, Sheet Metal Workers, Painters, Boilermakers, Elevator Constructors, Roofers, Bricklayers, Insulators, Cement Masons.
 
-This is where [[IBEW Local 477 - San Bernardino|IBEW Local 477]], Local 440, and the other electrical locals coordinate California political strategy with the other building trades. The council doesn't replace individual union political operations — it aggregates them for statewide legislative fights.
+This is where [[IBEW Local 477 - San Bernardino|IBEW Local 477]], Local 440, and the other electrical locals coordinate California political strategy with the other building trades. The council doesn't replace individual union political operations, it aggregates them for statewide legislative fights.
 
 ---
 
 ### The Two Core Fights
 
 ### 1. Prevailing Wage:
-California's prevailing wage threshold ($1,000+ for public works) is among the strongest in the nation. It requires contractors on public projects to pay the locally established union-scale wage. This is the building trades' floor — without it, non-union contractors underbid union shops on every public project.
+California's prevailing wage threshold ($1,000+ for public works) is among the strongest in the nation. It requires contractors on public projects to pay the locally established union-scale wage. This is the building trades' floor, without it, non-union contractors underbid union shops on every public project.
 
-The Koch network's [[Americans for Prosperity|Americans for Prosperity]] has state chapters in all 37 states actively opposing prevailing wage laws. DOGE targeted Davis-Bacon enforcement at the federal Department of Labor. The prevailing wage fight is not a California issue — it's the front line of the national anti-union campaign, and California is the strongest fortification.
+The Koch network's [[Americans for Prosperity|Americans for Prosperity]] has state chapters in all 37 states actively opposing prevailing wage laws. DOGE targeted Davis-Bacon enforcement at the federal Department of Labor. The prevailing wage fight is not a California issue, it's the front line of the national anti-union campaign, and California is the strongest fortification.
 
 ### 2. Project Labor Agreements (PLAs):
-PLAs guarantee union wages, hiring preferences (including apprenticeship utilization), and working conditions on large construction projects. They're the mechanism that turns a prevailing wage floor into actual union market share — PLAs don't just set the rate, they require that the work goes through the union hiring hall.
+PLAs guarantee union wages, hiring preferences (including apprenticeship utilization), and working conditions on large construction projects. They're the mechanism that turns a prevailing wage floor into actual union market share. PLAs don't just set the rate, they require that the work goes through the union hiring hall.
 
-> [!contradiction] The SB 984 Veto — The Defining Loss
+> [!contradiction] The SB 984 Veto. The Defining Loss
 > September 29, 2024: Newsom vetoed SB 984, the bill that would have mandated PLAs on state-funded construction projects.
 >
 > The building trades endorsed Newsom. The building trades' members built the infrastructure Newsom uses for political photo ops. The building trades' PACs contributed to Newsom's campaigns. And Newsom vetoed the bill that would have guaranteed their members work on state projects.
@@ -60,7 +60,7 @@ PLAs guarantee union wages, hiring preferences (including apprenticeship utiliza
 
 ### The Apprenticeship Pipeline
 
-65,000 apprentices across 125 JATCs. This is the building trades' structural advantage over non-union labor — a pipeline of trained workers with documented skills, safety certifications, and career progression. The non-union model trains on the job (cheaper, faster, less safe). The union model trains through multi-year registered apprenticeships (more expensive, more comprehensive, higher skill floor).
+65,000 apprentices across 125 JATCs. This is the building trades' structural advantage over non-union labor, a pipeline of trained workers with documented skills, safety certifications, and career progression. The non-union model trains on the job (cheaper, faster, less safe). The union model trains through multi-year registered apprenticeships (more expensive, more comprehensive, higher skill floor).
 
 The apprenticeship argument is the building trades' strongest case for PLAs: when you require apprenticeship utilization on public projects, you get workers trained to a higher standard. When you don't, you get whoever the lowest-bidding contractor hires.
 
@@ -82,15 +82,15 @@ The 22 local/regional building trades councils operate very differently by geogr
 
 ---
 
-### Class Analysis — The Building Trades' Dual Position
+### Class Analysis. The Building Trades' Dual Position
 
 The building trades occupy a unique class position that makes their politics more complicated than any other union sector in the vault:
 
-**Aligned with capital on the need for projects:** Building trades workers need construction projects to exist. When developers build, when the state funds infrastructure, when the IRA creates clean energy projects — that's work. The building trades' interest in project volume aligns with the developer class's interest in construction. This is why building trades often support projects that environmental or community groups oppose.
+**Aligned with capital on the need for projects:** Building trades workers need construction projects to exist. When developers build, when the state funds infrastructure, when the IRA creates clean energy projects, that's work. The building trades' interest in project volume aligns with the developer class's interest in construction. This is why building trades often support projects that environmental or community groups oppose.
 
 **Opposed to capital on labor terms:** The building trades want that work done at union wages, with union safety standards, through union hiring halls. The developer class wants the cheapest labor possible. This is where the conflict lives.
 
-The result: building trades end up allied with developers on approving projects and fighting developers on how those projects are staffed. The PLA is the mechanism that resolves this tension — it lets the project happen while guaranteeing union labor terms. When Newsom vetoed SB 984, he sided with the developer class on the labor terms while continuing to approve the projects. The building trades got the work. They didn't get the guarantee that it would be their work.
+The result: building trades end up allied with developers on approving projects and fighting developers on how those projects are staffed. The PLA is the mechanism that resolves this tension, it lets the project happen while guaranteeing union labor terms. When Newsom vetoed SB 984, he sided with the developer class on the labor terms while continuing to approve the projects. The building trades got the work. They didn't get the guarantee that it would be their work.
 
 ---
 

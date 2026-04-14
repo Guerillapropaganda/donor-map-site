@@ -1,5 +1,5 @@
 ---
-title: "Mike Quigley Master Profile"
+title: "Mike Quigley"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

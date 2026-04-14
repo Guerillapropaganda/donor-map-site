@@ -1,5 +1,5 @@
 ---
-title: "Zachary Nunn Master Profile"
+title: "Zachary Nunn"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -1,5 +1,5 @@
 ---
-title: "Margaret Wood Hassan Master Profile"
+title: "Margaret Wood Hassan"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

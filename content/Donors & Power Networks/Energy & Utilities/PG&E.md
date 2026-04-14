@@ -33,22 +33,22 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### Who They Are
 
-Pacific Gas and Electric Company (PG&E) is a regulated investor-owned utility serving 16 million Californians across Northern and Central California — roughly 70,000 square miles of territory. It is a monopoly: residential and small business customers have no alternative provider. It is regulated by the California Public Utilities Commission (CPUC), whose commissioners are appointed by the governor.
+Pacific Gas and Electric Company (PG&E) is a regulated investor-owned utility serving 16 million Californians across Northern and Central California, roughly 70,000 square miles of territory. It is a monopoly: residential and small business customers have no alternative provider. It is regulated by the California Public Utilities Commission (CPUC), whose commissioners are appointed by the governor.
 
 PG&E Corp is the publicly traded parent company (NYSE: PCG). Shareholders are primarily institutional investors. Ratepayers are working- and middle-class Californians with no exit option.
 
-In 2020, PG&E pleaded guilty to 84 counts of involuntary manslaughter for deaths caused by the 2018 Camp Fire. This is not alleged — it is an entered guilty plea.
+In 2020, PG&E pleaded guilty to 84 counts of involuntary manslaughter for deaths caused by the 2018 Camp Fire. This is not alleged, it is an entered guilty plea.
 
 ---
 
 ### What They Want
 
-— Continued private, shareholder-owned operation of California's electrical grid (oppose any state or municipal takeover)
-— Rate increases approved by CPUC to fund infrastructure, wildfire mitigation, and profit margin
-— Liability caps and socialized wildfire costs (not borne by shareholders)
-— CPUC appointments favorable to utility interests
-— No unlawful accountability for executives
-— Protection of utility revenue from distributed generation (rooftop solar, battery storage)
+, Continued private, shareholder-owned operation of California's electrical grid (oppose any state or municipal takeover)
+, Rate increases approved by CPUC to fund infrastructure, wildfire mitigation, and profit margin
+, Liability caps and socialized wildfire costs (not borne by shareholders)
+, CPUC appointments favorable to utility interests
+, No unlawful accountability for executives
+, Protection of utility revenue from distributed generation (rooftop solar, battery storage)
 
 ---
 
@@ -62,14 +62,14 @@ In 2020, PG&E pleaded guilty to 84 counts of involuntary manslaughter for deaths
 > [Source: Washington Post, Nov. 2019 / Sacramento Bee / FPPC — Tier 1/2]
 
 ### California lobbying:
-— 2023: $3.1 million
-— 2024: $5.04 million
-— Total since 2005: Nearly $40 million in California lobbying expenditures
-[Source: CalMatters lobbying tracker — Tier 2]
+, 2023: $3.1 million
+, 2024: $5.04 million
+, Total since 2005: Nearly $40 million in California lobbying expenditures
+[Source: CalMatters lobbying tracker. Tier 2]
 
-**California Democratic Party and legislative campaigns** — PG&E has historically been a major contributor to California legislative races and party infrastructure, with particular focus on CPUC-adjacent legislators.
+**California Democratic Party and legislative campaigns**. PG&E has historically been a major contributor to California legislative races and party infrastructure, with particular focus on CPUC-adjacent legislators.
 
-**FPPC fine:** In November 2024, Newsom was fined $13,000 by the FPPC for failing to timely disclose $14.3 million in behested payments between 2019–2024 (18 late filings). Classified as negligent rather than willful. PG&E's role in those specific late filings is not itemized in public reporting. [Source: FPPC Stipulation, Nov. 2024 — Tier 1]
+**FPPC fine:** In November 2024, Newsom was fined $13,000 by the FPPC for failing to timely disclose $14.3 million in behested payments between 2019–2024 (18 late filings). Classified as negligent rather than willful. PG&E's role in those specific late filings is not itemized in public reporting. [Source: FPPC Stipulation, Nov. 2024. Tier 1]
 
 **Partially confirmed.** Direct campaign contributions documented ($208.4K). Representation Project donations documented ($290K–$358K). **Remaining research:** Specific FPPC Form 803 behested payment entries naming PG&E as payor; CPUC commissioner appointment backgrounds and PG&E connections.
 
@@ -77,34 +77,34 @@ In 2020, PG&E pleaded guilty to 84 counts of involuntary manslaughter for deaths
 
 ### What They've Gotten
 
-— AB 1054 (2019): Wildfire liability fund — socializes wildfire costs onto ratepayers, caps shareholder exposure. Signed by Newsom.
-— State takeover blocked (2019): Newsom opposed public ownership during bankruptcy, supported private reorganization.
-— No executive unlawful accountability: 84 people killed, company pleaded guilty, no individual executives charged.
-— NEM 3.0 (2023): Newsom's CPUC cut rooftop solar credits dramatically, protecting PG&E's revenue from distributed generation competition.
-— Diablo Canyon extension (2022): Newsom reversed planned closure, extending PG&E's nuclear revenue stream.
-— Consistent rate increases approved through CPUC throughout Newsom's tenure — California now among highest residential electricity rates in the continental US.
+, AB 1054 (2019): Wildfire liability fund, socializes wildfire costs onto ratepayers, caps shareholder exposure. Signed by Newsom.
+, State takeover blocked (2019): Newsom opposed public ownership during bankruptcy, supported private reorganization.
+, No executive unlawful accountability: 84 people killed, company pleaded guilty, no individual executives charged.
+, NEM 3.0 (2023): Newsom's CPUC cut rooftop solar credits dramatically, protecting PG&E's revenue from distributed generation competition.
+, Diablo Canyon extension (2022): Newsom reversed planned closure, extending PG&E's nuclear revenue stream.
+, Consistent rate increases approved through CPUC throughout Newsom's tenure. California now among highest residential electricity rates in the continental US.
 
 ---
 
 ### The Structural Leverage
 
-PG&E doesn't need to buy Newsom with $208K. The structural leverage is larger: a governor who seriously threatened PG&E's existence would face a grid reliability crisis, job losses, and a coordinated institutional response. The donations are relationship maintenance. The real power is that PG&E is too embedded in California's infrastructure to make a political enemy of — which gives the company enormous implicit leverage regardless of what's on the contribution disclosure form.
+PG&E doesn't need to buy Newsom with $208K. The structural leverage is larger: a governor who seriously threatened PG&E's existence would face a grid reliability crisis, job losses, and a coordinated institutional response. The donations are relationship maintenance. The real power is that PG&E is too embedded in California's infrastructure to make a political enemy of, which gives the company enormous implicit leverage regardless of what's on the contribution disclosure form.
 
 ---
 
 ### Enemies / Opposition
 
-— TURN (The Utility Reform Network) — consumer ratepayer advocacy
-— Center for Biological Diversity — environmental litigation
-— California Environmental Justice Alliance — communities impacted by utility decisions
-— City of San Francisco — attempted municipal takeover during 2019 bankruptcy
-— Camp Fire survivors and victims' families
+, TURN (The Utility Reform Network), consumer ratepayer advocacy
+, Center for Biological Diversity, environmental litigation
+, California Environmental Justice Alliance, communities impacted by utility decisions
+, City of San Francisco, attempted municipal takeover during 2019 bankruptcy
+, Camp Fire survivors and victims' families
 
 ---
 
 ### Connected Policy Areas
 
-Environment — wildfires, utility regulation, clean energy, NEM 3.0, Diablo Canyon
+Environment, wildfires, utility regulation, clean energy, NEM 3.0, Diablo Canyon
 
 ---
 
@@ -115,9 +115,9 @@ Environment — wildfires, utility regulation, clean energy, NEM 3.0, Diablo Can
 - [SF Chronicle: PG&E guilty plea](https://www.sfchronicle.com/california-wildfires/article/PG-E-pleads-guilty-to-84-counts-of-involuntary-15331371.php) (Tier 2) (VERIFIED)
 - [CalMatters: California lobbying spending tracker](https://calmatters.org/data/2025/04/california-lobbying-spending-2024/) (Tier 2) (VERIFIED)
 - [FPPC: Contribution filings / behested payment database](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1) (VERIFIED)
-- ~~[FPPC: Newsom stipulation Nov. 2024 $13K fine](https://lunar.fppc.ca.gov/content/dam/fppc/documents/Stipulations/2024/november/5-Newsom-for-Governor-2018-Stip.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[FPPC: Newsom stipulation Nov. 2024 $13K fine](https://lunar.fppc.ca.gov/content/dam/fppc/documents/Stipulations/2024/november/5-Newsom-for-Governor-2018-Stip.pdf)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
-### Financial Overview (990 Filing — 2023)
+### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |
 |--------|--------|

@@ -1,5 +1,5 @@
 ---
-title: "Laurel M. Lee Master Profile"
+title: "Laurel M. Lee"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -1,5 +1,5 @@
 ---
-title: "Brandon Gill Master Profile"
+title: "Brandon Gill"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

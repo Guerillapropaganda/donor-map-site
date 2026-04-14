@@ -102,7 +102,7 @@ Mithril sits within the broader Thiel venture ecosystem alongside [[Founders Fun
 - [Peter Thiel - Mithril](https://www.mithril.com/our-founders/peter-thiel/) (Tier 3) (VERIFIED)
 - [Ajay Royan - Mithril](https://www.mithril.com/our-founders/ajay-royan/) (Tier 3) (VERIFIED)
 - [Mithril Capital – Info, Investments & Portfolio](https://vc-mapping.gilion.com/vc-firms/mithril-capital-management) (Tier 3) (VERIFIED)
-- ~~[Mithril Capital Management - Crunchbase Company Profile & Funding](https://www.crunchbase.com/organization/mithril-capital-management)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[Mithril Capital Management - Crunchbase Company Profile & Funding](https://www.crunchbase.com/organization/mithril-capital-management)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Mithril Capital Management Portfolio Investments - CB Insights](https://www.cbinsights.com/investor/mithril-capital-management) (Tier 3) (VERIFIED)
 - [Invivyd Appoints Ajay Royan, Founder of Mithril Capital, to its Board of Directors](https://investors.adagiotx.com/news-releases/news-release-details/invivyd-appoints-ajay-royan-founder-mithril-capital-its-board/) (Tier 2)
 - [Ajay Royan | Fractyl Health](https://www.fractyl.com/team/ajay-royan/) (Tier 3)

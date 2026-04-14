@@ -1,5 +1,5 @@
 ---
-title: "Dan Sullivan Master Profile"
+title: "Dan Sullivan"
 type: politician
 content-readiness: draft
 last-updated: 2026-04-12

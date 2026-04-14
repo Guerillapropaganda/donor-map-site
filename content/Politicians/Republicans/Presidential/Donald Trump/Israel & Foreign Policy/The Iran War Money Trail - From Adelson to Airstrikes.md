@@ -141,7 +141,7 @@ The Shajarah Tayyebeh elementary school for girls in Iran was struck by a missil
 
 **GLOBAL CONTAGION: THE WORKING CLASS EVERYWHERE PAYS**.
 
-The inflation spike from Strait of Hormuz closure threatens families in the U.S., Iran, and globally. Fertilizer represents one-third of global trade through the Strait. Fertilizer prices will double by Q2 2026. Food prices will follow. Families spending 30-40% of income on food will absorb the cost. Wage growth won't match inflation. That's the structural function of recession combined with inflation: capital holds the line on wages while prices spike.
+The inflation spike from Strait of Hormuz closure threatens families in the U.S. Iran, and globally. Fertilizer represents one-third of global trade through the Strait. Fertilizer prices will double by Q2 2026. Food prices will follow. Families spending 30-40% of income on food will absorb the cost. Wage growth won't match inflation. That's the structural function of recession combined with inflation: capital holds the line on wages while prices spike.
 
 UK inflation is projected to breach 5% in 2026. Germany faces 4.8%. Sub-Saharan Africa faces 6.2%. These aren't marginal adjustments. These are the bounds of recession in the developing world. Poor households in Africa, South Asia, and the Middle East are already reporting reduced calorie consumption. A 50% fertilizer price spike means 30% less agricultural yield on the same land. That translates to food shortages for the 800M people in the global South living on less than $2/day.
 
@@ -175,7 +175,7 @@ Total Adelson family investment: $190M+ across four political cycles. Total geop
 - [Miriam Adelson gives $100 million to Trump campaign Times of Israel](https://www.timesofisrael.com/miriam-adelson-gives-100-million-to-trump-campaign-making-good-on-reported-pledge/) (Tier 2) (VERIFIED)
 - [Trump tell-all cites Adelson's bankrolled Israel embassy move Responsible Statecraft](https://responsiblestatecraft.org/2022/10/07/new-book-highlights-how-campaign-money-influences-us-foreign-policy/) (Tier 2) (VERIFIED)
 - [Sheldon Adelson's Fortune Helped Turn the GOP Into the Party of Israeli Apartheid The Intercept](https://theintercept.com/2021/01/12/sheldon-adelson-trump-israel-republican-party/) (Tier 2) (VERIFIED)
-- ~~[Oil prices, recession: What happens if Strait of Hormuz stays closed Axios](https://www.axios.com/2026/03/12/oil-prices-iran-strait-of-hormuz)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Oil prices, recession: What happens if Strait of Hormuz stays closed Axios](https://www.axios.com/2026/03/12/oil-prices-iran-strait-of-hormuz)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [How Strait of Hormuz closure can become tipping point for global economy CNBC](https://www.cnbc.com/2026/03/11/strait-of-hormuz-closure-shipping-economy-oil.html) (Tier 2) (VERIFIED)
 - [What the closure of the Strait of Hormuz means for the global economy Dallas Federal Reserve](https://www.dallasfed.org/research/economics/2026/0320) (Tier 1) (VERIFIED)
 - [2026 Strait of Hormuz crisis Wikipedia](https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis) (Tier 3) (VERIFIED)

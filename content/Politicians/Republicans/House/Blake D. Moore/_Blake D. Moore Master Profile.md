@@ -1,5 +1,5 @@
 ---
-title: "Blake D. Moore Master Profile"
+title: "Blake D. Moore"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

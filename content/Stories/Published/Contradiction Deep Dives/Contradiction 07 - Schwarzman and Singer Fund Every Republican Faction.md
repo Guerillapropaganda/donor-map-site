@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 issues:
   - "Wall Street & Finance"
-related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Stephen Schwarzman|Stephen Schwarzman]] · [[Paul Singer|Paul Singer]] · [[_Susan Collins Master Profile|Susan Collins]] · [[Elliott Management|Elliott Management]] · [[Blackstone|Blackstone]] · [[Intra-Republican Contradiction Map]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]] · [[Schumer-McConnell Senate Leadership Mirror - Same Money, Different Caucuses]] · [[Pelosi-McCarthy House Leadership Mirror - Same Corporate Apparatus, Different Brand]] · [[How Money Captures Media — The Donor Map Media Pipeline]] · [[Booker-Scott Donor Class Mirror - Two Black Senators, One Donor Class]] · [[Tech Billionaires Switch Parties on Regulatory Self-Interest]] · [[Crypto Industry Buys Both Parties in One Cycle]] · [[ALEC Legislative Language Layer - Who Actually Writes the Laws]] · [[Harris-Newsom Donor Class Fracture]]"
+related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Stephen Schwarzman|Stephen Schwarzman]] · [[Paul Singer|Paul Singer]] · [[_Susan Collins Master Profile|Susan Collins]] · [[Elliott Management|Elliott Management]] · [[Blackstone|Blackstone]] · [[Intra-Republican Contradiction Map]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]] · [[Schumer-McConnell Senate Leadership Mirror - Same Money, Different Caucuses]] · [[Pelosi-McCarthy House Leadership Mirror - Same Corporate Apparatus, Different Brand]] · [[How Money Captures Media , The Donor Map Media Pipeline]] · [[Booker-Scott Donor Class Mirror - Two Black Senators, One Donor Class]] · [[Tech Billionaires Switch Parties on Regulatory Self-Interest]] · [[Crypto Industry Buys Both Parties in One Cycle]] · [[ALEC Legislative Language Layer - Who Actually Writes the Laws]] · [[Harris-Newsom Donor Class Fracture]]"
 ---
 #investigation #contradiction #schwarzman #singer #wall-street #republican #class-analysis
 tags: #analysis #story
@@ -108,7 +108,7 @@ The class analysis: Both donors are funding the Republican Party's debate over *
 
 [Rolling Stone: [[_Susan Collins Master Profile|Susan Collins]] Raked in Wall Street Cash Before Advancing Trump Tax Bill](https://www.rollingstone.com/politics/politics-features/susan-collins-trump-tax-bill-wall-street-private-equity-1235420525/) (Tier 2)
 
-~~[Bloomberg: Schwarzman, OpenAI's Brockman Boost $102 Million Trump War Chest](https://www.bloomberg.com/news/articles/2026-01-02/schwarzman-openai-s-brockman-boost-102-million-trump-war-chest)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+~~[Bloomberg: Schwarzman, OpenAI's Brockman Boost $102 Million Trump War Chest](https://www.bloomberg.com/news/articles/2026-01-02/schwarzman-openai-s-brockman-boost-102-million-trump-war-chest)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 [OpenSecrets: [[Paul Singer|Paul Singer]] donor profile 2024](https://www.opensecrets.org/outside-spending/donor_detail/2024?id=U0000000066&name=Singer,+Paul&super_only=S&type=I) (Tier 1)
 
@@ -122,7 +122,7 @@ The class analysis: Both donors are funding the Republican Party's debate over *
 
 [Capital & Main: How the Carried Interest Loophole Makes the Super-Rich Super-Richer](https://capitalandmain.com/how-the-carried-interest-loophole-makes-the-super-rich-super-richer-0621) (Tier 2) (VERIFIED)
 
-~~[Bloomberg: Blackstone's Schwarzman Took Home a Near-Record $1.24 Billion in 2025](https://www.bloomberg.com/news/articles/2026-02-27/blackstone-s-schwarzman-reaped-near-record-1-24-billion-in-2025)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+~~[Bloomberg: Blackstone's Schwarzman Took Home a Near-Record $1.24 Billion in 2025](https://www.bloomberg.com/news/articles/2026-02-27/blackstone-s-schwarzman-reaped-near-record-1-24-billion-in-2025)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 [Axios: Blackstone CEO and GOP megadonor Steve Schwarzman says he won't help Trump during 2024 primary](https://www.axios.com/2022/11/16/trump-stephen-schwarzman-2024-presidential-race) (Tier 2) (VERIFIED)
 

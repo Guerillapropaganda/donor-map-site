@@ -35,7 +35,7 @@ total-assets: 13408716
 
 Citizens for Responsibility and Ethics in Washington (CREW) is a 501(c)(3) legal advocacy organization founded in 2001 by Democratic Party operatives as a progressive counterweight to conservative watchdog groups like Judicial Watch, the Rutherford Institute, and the National Legal and Policy Center. CREW files ethics complaints, FOIA lawsuits, and legal challenges targeting government corruption and conflicts of interest. The organization's founding directors were Louis Mayberg, a Democratic donor, and Mark Penn, a Clinton political strategist. Its founding executive director was Melanie Sloan, who served until 2014 and previously worked as counsel for the Senate Judiciary Committee under Joe Biden and the House Judiciary Committee under Charles Schumer and John Conyers.
 
-CREW's 2024 revenue was $11.15 million — a 67% surge over the prior year's $6.69 million, driven by the second Trump administration's return to power. This revenue pattern is the organization's defining financial signature: CREW's budget tracks precisely to Trump's political status. Revenue was $1.93 million in 2016 (pre-Trump), surged to $7.78 million in 2017 (Trump inauguration), hit $9.06 million in 2020 (election year), dropped to $6.4-6.7 million during 2022-2023 (Biden years), then surged again to $11.15 million in 2024 (Trump's return). The organization's financial survival is structurally dependent on Republican power — specifically, on Donald Trump's political presence.
+CREW's 2024 revenue was $11.15 million, a 67% surge over the prior year's $6.69 million, driven by the second Trump administration's return to power. This revenue pattern is the organization's defining financial signature: CREW's budget tracks precisely to Trump's political status. Revenue was $1.93 million in 2016 (pre-Trump), surged to $7.78 million in 2017 (Trump inauguration), hit $9.06 million in 2020 (election year), dropped to $6.4-6.7 million during 2022-2023 (Biden years), then surged again to $11.15 million in 2024 (Trump's return). The organization's financial survival is structurally dependent on Republican power, specifically, on Donald Trump's political presence.
 
 Current leadership: Donald K. Sherman, President and CEO. Noah Bookbinder served as President and CEO from 2015 through 2024, earning $371,589 in his final year. Board chair: Beth Nolan. Vice chair: Wayne Jordan. Notable board members include former Senator Claire McCaskill (D-MO).
 
@@ -45,11 +45,11 @@ Current leadership: Donald K. Sherman, President and CEO. Noah Bookbinder served
 
 CREW's stated mission is nonpartisan government accountability: ethics enforcement, anti-corruption litigation, FOIA transparency, and campaign finance reform. The organization's actual targeting pattern tells a different story.
 
-Between 2004 and 2017, 84% of CREW's FEC complaints targeted conservative politicians and organizations. The organization's most prominent legal actions — the Colorado 14th Amendment disqualification case against Trump, dozens of lawsuits against both Trump administrations, ethics complaints against Republican members of Congress — overwhelmingly target one party. This is not an accident; it is the organization's structural function within the progressive donor infrastructure.
+Between 2004 and 2017, 84% of CREW's FEC complaints targeted conservative politicians and organizations. The organization's most prominent legal actions, the Colorado 14th Amendment disqualification case against Trump, dozens of lawsuits against both Trump administrations, ethics complaints against Republican members of Congress, overwhelmingly target one party. This is not an accident; it is the organization's structural function within the progressive donor infrastructure.
 
 CREW's core operational objectives are: (1) generate legal and ethical pressure on Republican officials through complaints, FOIA litigation, and constitutional challenges; (2) produce media-ready investigations that feed the progressive media ecosystem; (3) serve as the legal arm of the Democratic donor network's accountability infrastructure; and (4) defend government institutional norms that progressive funders view as under threat from Republican governance.
 
-The organization's tactical innovation is weaponizing government transparency and ethics mechanisms — tools designed to be nonpartisan — as instruments of partisan legal warfare. CREW files the FOIA request; the documents become the story; the story becomes the political weapon. This is the same model used by Judicial Watch against Democrats.
+The organization's tactical innovation is weaponizing government transparency and ethics mechanisms, tools designed to be nonpartisan, as instruments of partisan legal warfare. CREW files the FOIA request; the documents become the story; the story becomes the political weapon. This is the same model used by Judicial Watch against Democrats.
 
 ---
 
@@ -74,7 +74,7 @@ CREW's funding comes overwhelmingly from contributions (96.6% of 2024 revenue), 
 - Service Employees International Union (SEIU)
 
 ### Leadership-era funding patterns:
-- Under Melanie Sloan (2001-2014): CREW received $150,000 from a nonprofit connected to John Sperling, founder of the University of Phoenix, during the same period CREW attacked proposed regulations that would tighten reporting requirements on the for-profit education industry. Sperling's Aurora Foundation routed money through pass-through nonprofits associated with a Sacramento Democratic political consultancy that subsequently funded CREW. This pay-for-play pattern — a donor funding the watchdog to attack the donor's regulatory critics — is the most damaging allegation against CREW's claimed nonpartisan status.
+- Under Melanie Sloan (2001-2014): CREW received $150,000 from a nonprofit connected to John Sperling, founder of the University of Phoenix, during the same period CREW attacked proposed regulations that would tighten reporting requirements on the for-profit education industry. Sperling's Aurora Foundation routed money through pass-through nonprofits associated with a Sacramento Democratic political consultancy that subsequently funded CREW. This pay-for-play pattern, a donor funding the watchdog to attack the donor's regulatory critics, is the most damaging allegation against CREW's claimed nonpartisan status.
 - Under David Brock (board chairman 2014-2016): CREW was integrated into Brock's political operation alongside Media Matters, American Bridge, and Correct the Record. Brock's network declared $40M in anti-Trump spending in 2017, with CREW described as "a particular locus of activity." During Brock's tenure, CREW walked away from pursuing Hillary Clinton's email records despite a State Department Inspector General finding that CREW's FOIA request had been improperly denied.
 - Under Norman Eisen/Noah Bookbinder (2016-2024): Revenue surged from $555,735 in net assets (2016) to $11.2 million in net assets (2024). The Trump-era fundraising boom transformed CREW from a small operation into a well-funded legal advocacy machine.
 
@@ -85,15 +85,15 @@ CREW's funding comes overwhelmingly from contributions (96.6% of 2024 revenue), 
 
 ### What They've Gotten
 
-CREW's legal and investigative output is substantial, and its victories are genuine — which makes the class analysis more interesting, not less.
+CREW's legal and investigative output is substantial, and its victories are genuine, which makes the class analysis more interesting, not less.
 
 ### Major legal actions and outcomes:
 
-**Colorado 14th Amendment case (2023-2024):** CREW filed suit in September 2023 on behalf of six Colorado voters seeking to disqualify Trump from the 2024 ballot under Section 3 of the 14th Amendment's insurrection clause. The Colorado Supreme Court ruled Trump ineligible — a historic decision — but the U.S. Supreme Court reversed in *Trump v. Anderson* (March 2024), ruling that Congress, not state courts, enforces Section 3.
+**Colorado 14th Amendment case (2023-2024):** CREW filed suit in September 2023 on behalf of six Colorado voters seeking to disqualify Trump from the 2024 ballot under Section 3 of the 14th Amendment's insurrection clause. The Colorado Supreme Court ruled Trump ineligible, a historic decision, but the U.S. Supreme Court reversed in *Trump v. Anderson* (March 2024), ruling that Congress, not state courts, enforces Section 3.
 
 **Trump administration lawsuits (2017-2021, 2025-present):** CREW filed emoluments clause lawsuits, FOIA challenges, ethics complaints, and records requests throughout Trump's first term. In January 2025, eight days after Trump's second inauguration, CREW and Democracy Forward sued to block the Schedule F executive order enabling mass firing of civil servants. CREW subsequently sued DOGE over transparency violations and challenged the deletion of public law enforcement databases.
 
-**Ethics complaints:** CREW's "Most compromised Members of Congress" annual reports and ethics complaints have targeted both parties — Tom DeLay (R), Rick Renzi (R), and others faced investigations influenced by CREW complaints — though the targeting ratio heavily favors Republicans.
+**Ethics complaints:** CREW's "Most compromised Members of Congress" annual reports and ethics complaints have targeted both parties. Tom DeLay (R), Rick Renzi (R), and others faced investigations influenced by CREW complaints, though the targeting ratio heavily favors Republicans.
 
 **FOIA litigation:** CREW has won significant Freedom of Information Act cases forcing disclosure of government records, including Secret Service visitor logs, White House communications, and agency decision-making documents.
 
@@ -101,7 +101,7 @@ CREW's legal and investigative output is substantial, and its victories are genu
 
 | Date | Recipient/Target | Amount | Policy Return | Time Gap |
 |------|-----------------|--------|---------------|----------|
-| 2001 | CREW founded by Democratic operatives | Founding capital | Progressive legal infrastructure created as counterweight to Judicial Watch | — |
+| 2001 | CREW founded by Democratic operatives | Founding capital | Progressive legal infrastructure created as counterweight to Judicial Watch |, |
 | 2010-2011 | Sperling/Aurora Foundation → CREW | $150,000+ | CREW attacks for-profit university regulation critics during Obama DOE rulemaking | Concurrent |
 | 2014 | David Brock becomes board chairman | Integration into Brock network | CREW walks away from Clinton email FOIA pursuit; refocuses on Republican targets | Immediate |
 | 2017 | Brock network anti-Trump operation | $40M declared across network | CREW becomes "particular locus" of Trump administration legal challenges | Immediate |
@@ -117,28 +117,28 @@ CREW's legal and investigative output is substantial, and its victories are genu
 
 ### Class Analysis
 
-CREW occupies a specific structural position in the American political ecosystem: it is the progressive donor class's legal enforcement arm, deploying government ethics and transparency mechanisms as partisan weapons while maintaining the institutional credibility of nonpartisan status. This is not a conspiracy — it is a business model, and it has an exact conservative mirror image.
+CREW occupies a specific structural position in the American political ecosystem: it is the progressive donor class's legal enforcement arm, deploying government ethics and transparency mechanisms as partisan weapons while maintaining the institutional credibility of nonpartisan status. This is not a conspiracy, it is a business model, and it has an exact conservative mirror image.
 
 > [!contradiction]
 > CREW is a "nonpartisan ethics watchdog" that files 84% of its complaints against one party, is funded entirely by progressive foundations and Democratic donors, was chaired by the Democratic Party's most aggressive political operative (David Brock), has board members who are former Democratic senators (McCaskill), and whose revenue doubles when Republicans hold power. The contradiction is not that CREW does bad work — its FOIA victories and ethics investigations are legally sound — but that the "nonpartisan" label disguises a structural function within the Democratic political operation. Judicial Watch performs the identical function for the Republican donor class. The symmetry is exact: both are 501(c)(3) organizations, both claim nonpartisan status, both overwhelmingly target the opposing party, both are funded by their party's donor infrastructure, and both use ethics law and FOIA as political weapons. The "watchdog" label is the dark money equivalent of camouflage.
 
 **Pattern: Both-Sides Illusion.** CREW and Judicial Watch present themselves as independent watchdogs while serving as the legal arms of opposing donor networks. The existence of symmetric partisan watchdogs creates the illusion of accountability while ensuring that ethics enforcement is weaponized rather than neutral.
 
-**Pattern: Dark Money Symmetry.** CREW's 501(c)(3) status shields its donor list from disclosure — the same dark money structure Democrats claim to oppose. Progressive donors fund a dark money organization to fight dark money influence in politics.
+**Pattern: Dark Money Symmetry.** CREW's 501(c)(3) status shields its donor list from disclosure, the same dark money structure Democrats claim to oppose. Progressive donors fund a dark money organization to fight dark money influence in politics.
 
-**Pattern: Genuine Win + Structural Limit.** CREW's legal victories are real: FOIA disclosures, ethics investigations, even a state supreme court disqualification ruling. But these victories operate within a structural constraint — CREW will never investigate the progressive donor network that funds it. The watchdog watches one direction.
+**Pattern: Genuine Win + Structural Limit.** CREW's legal victories are real: FOIA disclosures, ethics investigations, even a state supreme court disqualification ruling. But these victories operate within a structural constraint. CREW will never investigate the progressive donor network that funds it. The watchdog watches one direction.
 
-**The revenue trap:** CREW's financial dependency on Republican power creates an institutional incentive to escalate conflict rather than resolve it. A CREW that succeeds in eliminating government corruption would eliminate its own revenue stream. The donor class funds a permanent opposition legal infrastructure, not a reform organization — because permanent opposition generates permanent fundraising.
+**The revenue trap:** CREW's financial dependency on Republican power creates an institutional incentive to escalate conflict rather than resolve it. A CREW that succeeds in eliminating government corruption would eliminate its own revenue stream. The donor class funds a permanent opposition legal infrastructure, not a reform organization, because permanent opposition generates permanent fundraising.
 
 ---
 
 ### Enemies / Opposition
 
-- **Judicial Watch** — Conservative mirror image; files FOIA and ethics complaints overwhelmingly targeting Democrats
-- **America First Legal** — Stephen Miller's legal organization; conservative counterweight founded specifically to oppose CREW-style progressive legal advocacy
-- **Republican members of Congress** — CREW's "Most compromised" lists and ethics complaints generate political opposition
-- **For-profit education industry** — Sperling controversy revealed CREW's vulnerability to donor capture
-- **Trump administration** — CREW's primary litigation target across both terms
+- **Judicial Watch**. Conservative mirror image; files FOIA and ethics complaints overwhelmingly targeting Democrats
+- **America First Legal**. Stephen Miller's legal organization; conservative counterweight founded specifically to oppose CREW-style progressive legal advocacy
+- **Republican members of Congress**. CREW's "Most compromised" lists and ethics complaints generate political opposition
+- **For-profit education industry**. Sperling controversy revealed CREW's vulnerability to donor capture
+- **Trump administration**. CREW's primary litigation target across both terms
 
 ---
 

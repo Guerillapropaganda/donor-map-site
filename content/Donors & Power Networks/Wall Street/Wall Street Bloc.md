@@ -11,7 +11,7 @@ issues:
   - "Wall Street & Finance"
 lobbying-spend: 1048100
 lobbying-filings: 87
-related: "[[Kyrsten Sinema Master Profile]] · [[The Carried Interest Kill and the Wall Street Fundraising Surge]] · [[Financial Services Donors]] · [[Securities & Investment Industry]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Wall Street Finance Networks]] · [[Goldman Sachs — The Government Sachs Alumni Network]]"
+related: "[[Kyrsten Sinema Master Profile]] · [[The Carried Interest Kill and the Wall Street Fundraising Surge]] · [[Financial Services Donors]] · [[Securities & Investment Industry]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Wall Street Finance Networks]] · [[Goldman Sachs , The Government Sachs Alumni Network]]"
 cross-vault-triangulation-count: 6
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline; run pipelines"
@@ -26,7 +26,7 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### Who They Are
 
-The Wall Street Bloc. A redirect node consolidating references to Wall Street's collective political operation. The Wall Street bloc encompasses commercial banking, investment banking, private equity, hedge funds, insurance, and asset management — collectively the largest single-sector donor in American politics. Combined political spending: $1B+ per cycle through all channels.
+The Wall Street Bloc. A redirect node consolidating references to Wall Street's collective political operation. The Wall Street bloc encompasses commercial banking, investment banking, private equity, hedge funds, insurance, and asset management, collectively the largest single-sector donor in American politics. Combined political spending: $1B+ per cycle through all channels.
 
 See [[Financial Services Donors]], [[Securities & Investment Industry]], and [[Goldman Sachs - Wall Street Titan]] for comprehensive analysis of Wall Street's bipartisan donor strategy, revolving door, and regulatory capture.
 

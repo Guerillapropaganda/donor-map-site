@@ -1,5 +1,5 @@
 ---
-title: "Michelle Fischbach Master Profile"
+title: "Michelle Fischbach"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

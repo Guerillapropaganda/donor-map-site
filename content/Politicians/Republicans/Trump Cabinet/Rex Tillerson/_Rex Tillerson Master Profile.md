@@ -30,7 +30,7 @@ Rex Tillerson (born March 23, 1952, Texas) spent 41 years at ExxonMobil, rising 
 
 ## The Central Thesis
 
-Tillerson's career is the fossil fuel revolving door in its purest form: 41 years building wealth and relationships inside the world's most powerful oil company, then a brief stint as Secretary of State where his primary qualification was his relationship with Putin (built through Exxon's $300B Arctic venture with Rosneft), followed by a return to private wealth. His nomination was a direct gift from the fossil fuel donor class to itself — installing one of their own at the top of U.S. foreign policy.
+Tillerson's career is the fossil fuel revolving door in its purest form: 41 years building wealth and relationships inside the world's most powerful oil company, then a brief stint as Secretary of State where his primary qualification was his relationship with Putin (built through Exxon's $300B Arctic venture with Rosneft), followed by a return to private wealth. His nomination was a direct gift from the fossil fuel donor class to itself, installing one of their own at the top of U.S. foreign policy.
 
 ---
 
@@ -76,23 +76,23 @@ No sub-notes built yet. Key policy areas for future documentation:
 
 ## Rhetorical Signature Moves
 
-Tillerson operates with corporate executive framing: measured language, institutional deference, process-oriented thinking. As Secretary of State, he reportedly clashed with Trump by insisting on institutional processes and interagency coordination — the opposite of Trump's instinctive, personality-driven approach. His public statements since leaving office have been minimal, consistent with a corporate executive who views public commentary as unnecessary risk.
+Tillerson operates with corporate executive framing: measured language, institutional deference, process-oriented thinking. As Secretary of State, he reportedly clashed with Trump by insisting on institutional processes and interagency coordination, the opposite of Trump's instinctive, personality-driven approach. His public statements since leaving office have been minimal, consistent with a corporate executive who views public commentary as unnecessary risk.
 
 ---
 
 ## Analytical Patterns
 
-- **Revolving Door** — 41 years at Exxon → Secretary of State → retirement. The most direct fossil-fuel-to-government pipeline in modern history.
-- **Donor-Class Override** — Nomination served Exxon's geopolitical interests (Russia sanctions relief, energy diplomacy) rather than foreign policy expertise.
-- **Two-Audience Problem** — Presented as a skilled diplomat and CEO to the Senate; functioned as a fossil fuel industry representative at State.
+- **Revolving Door**, 41 years at Exxon → Secretary of State → retirement. The most direct fossil-fuel-to-government pipeline in modern history.
+- **Donor-Class Override**. Nomination served Exxon's geopolitical interests (Russia sanctions relief, energy diplomacy) rather than foreign policy expertise.
+- **Two-Audience Problem**. Presented as a skilled diplomat and CEO to the Senate; functioned as a fossil fuel industry representative at State.
 
 ---
 
 ## Sources
 
 - [Wikipedia: Rex Tillerson](https://en.wikipedia.org/wiki/Rex_Tillerson) (Tier 4) (VERIFIED)
-- ~~[Politico: Exxon Russia sanctions and Tillerson](https://www.politico.com/story/2016/12/exxon-mobile-russia-sanctions-rex-tillerson-232770)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[The Hill: Tillerson discloses assets up to $400M](https://thehill.com/homenews/administration/312928-tillerson-discloses-assets-worth-up-to-400m/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Politico: Exxon Russia sanctions and Tillerson](https://www.politico.com/story/2016/12/exxon-mobile-russia-sanctions-rex-tillerson-232770)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Tillerson discloses assets up to $400M](https://thehill.com/homenews/administration/312928-tillerson-discloses-assets-worth-up-to-400m/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Scripps News: Exxon $180M severance package](https://www.scrippsnews.com/business/company-news/exxon-crafts-180m-severance-package-for-ceo-rex-tillerson) (Tier 2) (VERIFIED)
 - [CBS News: Tillerson Exxon pay $27.2M](https://www.cbsnews.com/news/exxon-ceo-tillersons-pay-rises-to-272-million/) (Tier 2) (VERIFIED)
 - [UT Austin: Tillerson $16M donation](https://news.utexas.edu/2025/09/17/tillerson-investments-in-civics-engineering-and-longhorn-band-prepare-future-leaders/) (Tier 2) (VERIFIED)

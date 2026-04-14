@@ -22,7 +22,7 @@ Boston College history professor. Substack newsletter "Letters from an American.
 
 ### The Funding Model
 
-Pure Substack subscriptions ($5/month or $50/year). The cleanest revenue model in terms of institutional independence — zero outside funding sources. But the audience demographics create structural alignment: subscribers are "older, with extremely high educational attainment, predominantly female, and very highly politically engaged" (Nate Silver) — the Democratic donor class. Richardson's model proves that the absence of formal funders does not equal independence from class interests.
+Pure Substack subscriptions ($5/month or $50/year). The cleanest revenue model in terms of institutional independence, zero outside funding sources. But the audience demographics create structural alignment: subscribers are "older, with extremely high educational attainment, predominantly female, and very highly politically engaged" (Nate Silver), the Democratic donor class. Richardson's model proves that the absence of formal funders does not equal independence from class interests.
 
 ### FEC Record
 
@@ -52,13 +52,13 @@ Subscribers got daily historical context that reinforces Democratic Party loyalt
 
 ### Class Analysis
 
-Richardson represents the paradox of subscriber-funded media: formally independent but structurally captured by audience demographics. Her 217,500 paid subscribers ARE the professional-managerial class whose interests align with the Democratic establishment. Content that challenges those interests — class analysis of Democratic donor networks, critique of professional-class privilege, analysis of how "democracy vs. autocracy" framing obscures class conflict — would threaten the revenue model.
+Richardson represents the paradox of subscriber-funded media: formally independent but structurally captured by audience demographics. Her 217,500 paid subscribers ARE the professional-managerial class whose interests align with the Democratic establishment. Content that challenges those interests, class analysis of Democratic donor networks, critique of professional-class privilege, analysis of how "democracy vs. autocracy" framing obscures class conflict, would threaten the revenue model.
 
 The invisible hand of subscription economics produces the same editorial alignment as foundation funding, just without the paper trail. Foundation-funded outlets at least require annual reports and audits. Substack profits are opaque. No one can see whether Richardson turns down speaking fees from MoveOn or refuses interviews with progressive senators. The audience capture is total, but it is also perfectly plausible deniability.
 
 ### Capture Architecture
 
-Revenue model: 100% Substack subscriptions ($5-12M annual). Audience: college-educated, older, female, politically engaged Democrats. Platform: Substack. Editorial red line: anything that challenges Democratic Party as the vehicle of democracy — because the entire brand IS that framework.
+Revenue model: 100% Substack subscriptions ($5-12M annual). Audience: college-educated, older, female, politically engaged Democrats. Platform: Substack. Editorial red line: anything that challenges Democratic Party as the vehicle of democracy, because the entire brand IS that framework.
 
 > [!money]
 > At $5-12M annual revenue, the $50/year paid tier creates a tight revenue-to-editorial loop. Losing even 10% of paid subscribers ($1.5-2.4M) would represent a crisis. This dependency shapes content: historical pieces criticizing Democratic Party orthodoxy would alienate the exact demographic paying for the newsletter. Unlike foundation funding, subscriber revenue requires constant audience satisfaction. The model is structurally independent but behaviorally captured.
@@ -71,7 +71,7 @@ Revenue model: 100% Substack subscriptions ($5-12M annual). Audience: college-ed
 | 2017-2020 | Rapid subscriber growth during Trump administration | Democratic-leaning audiences, college-educated professionals | Growing to ~1M total | Anti-Trump framing drives initial growth among affluent progressives |
 | 2021 | Estimated 1M+ total subscribers; ~150K paid | Substack, subscribers | ~$3-4M annual | Becomes one of top 5 Substack newsletters; speaking circuit accelerates |
 | 2022 | "American Conversations" interview series launches | Senators Chris Coons, Padilla, Smith | Speaking fees $50K+ per event | Exclusive Democratic Senate access; becomes de facto party communications channel |
-| 2023 | Biden interview; "Mr. President, it's such a joy..." | Joe Biden, HCR | N/A | Peak establishment alignment; Nate Silver publishes critical analysis |
+| 2023 | Biden interview; "Mr. President, it's such a joy.." | Joe Biden, HCR | N/A | Peak establishment alignment; Nate Silver publishes critical analysis |
 | 2024 | Estimated 2.9M total subscribers; ~217K paid | Democratic voters, professional-managerial class | ~$5-12M annual | Operates as most popular Democratic newsletter; rivals institutional media outlets |
 
 ### Sources

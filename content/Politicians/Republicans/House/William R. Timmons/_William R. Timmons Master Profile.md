@@ -1,5 +1,5 @@
 ---
-title: "William R. Timmons Master Profile"
+title: "William R. Timmons"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

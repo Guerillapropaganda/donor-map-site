@@ -32,7 +32,7 @@ donors: []
 | [[_Andy Beshear Master Profile|Andy Beshear]] | Attorney General | 2016–2019 |
 | [[_Andy Beshear Master Profile|Andy Beshear]] | Governor | 2019–present |
 
-Steve Beshear's legacy: expanded Medicaid under the ACA (uninsured rate dropped from 20%+ to 8%), reduced unemployment from 10.7% to 4.9%, set export records four consecutive years. The father's Medicaid expansion became the son's most durable political asset — the healthcare access that kept Andy competitive in rural Kentucky.
+Steve Beshear's legacy: expanded Medicaid under the ACA (uninsured rate dropped from 20%+ to 8%), reduced unemployment from 10.7% to 4.9%, set export records four consecutive years. The father's Medicaid expansion became the son's most durable political asset, the healthcare access that kept Andy competitive in rural Kentucky.
 
 ---
 

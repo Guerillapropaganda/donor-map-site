@@ -1,5 +1,5 @@
 ---
-title: "Dwight Evans Master Profile"
+title: "Dwight Evans"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

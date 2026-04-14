@@ -154,7 +154,7 @@ Apple occupies a unique position: a corporation that extracts value through cons
 - [DOJ: United States v. Apple Inc. antitrust complaint (2024)](https://www.justice.gov/archives/opa/pr/justice-department-sues-apple-monopolizing-smartphone-markets) (Tier 1) (VERIFIED)
 - [SEC: Apple 10-K filing, offshore cash and repatriation](https://www.sec.gov/cgi-bin/browse-edgar?company=apple&CIK=&type=10-K) (Tier 1) (VERIFIED)
 - [Washington Post: Senators want to rein in Apple and Google's app store dominance](https://www.washingtonpost.com/technology/2021/08/11/apple-google-senators-app-store-conflict/) (Tier 2) (VERIFIED)
-- ~~[The Verge: Apple right-to-repair reversal and self-service repair pricing](https://www.theverge.com/apple-self-service-repair-pricing/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[The Verge: Apple right-to-repair reversal and self-service repair pricing](https://www.theverge.com/apple-self-service-repair-pricing/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Ballotpedia: Apple Inc political spending](https://ballotpedia.org/Apple_Inc.) (Tier 3) (VERIFIED)
 
 ---

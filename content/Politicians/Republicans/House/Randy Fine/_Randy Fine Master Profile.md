@@ -1,5 +1,5 @@
 ---
-title: "Randy Fine Master Profile"
+title: "Randy Fine"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -1,5 +1,5 @@
 ---
-title: "John R. Curtis Master Profile"
+title: "John R. Curtis"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

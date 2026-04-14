@@ -35,7 +35,7 @@ donors: [[Robert Mercer]], [[Rebekah Mercer]]
 | Division focus | Hostile takeover defense, then entertainment sector |
 | LA relocation | 1987, expanded Goldman's entertainment presence |
 
-Bannon's Goldman career was in the era of corporate raiders and leveraged buyouts — the financial mechanisms that enriched Wall Street while destroying American manufacturing employment. The irony: the populist warrior's formative career was in the exact financial industry whose practices created the economic dislocation that "economic nationalism" claims to address.
+Bannon's Goldman career was in the era of corporate raiders and leveraged buyouts, the financial mechanisms that enriched Wall Street while destroying American manufacturing employment. The irony: the populist warrior's formative career was in the exact financial industry whose practices created the economic dislocation that "economic nationalism" claims to address.
 
 ---
 
@@ -56,7 +56,7 @@ Bannon's most profitable investment was a Goldman-era deal: he accepted a stake 
 | Federal charges | wire misconduct, money laundering conspiracy |
 | Trump pardon | January 19, 2021 (final hours, federal only) |
 | NY state charges | Indicted September 2022 (pardon doesn't cover state) |
-| NY guilty plea | February 11, 2025 — plan to deceive in the First Degree (Class E felony) |
+| NY guilty plea | February 11, 2025, plan to deceive in the First Degree (Class E felony) |
 | NY sentence | 3-year conditional discharge (no prison) |
 | NY restrictions | Cannot serve as officer/director of NY charities |
 
@@ -81,7 +81,7 @@ Bannon's most profitable investment was a Goldman-era deal: he accepted a stake 
 
 ### War Room: The Post-Conviction Influence Operation
 
-Bannon's War Room podcast — launched as "War Room: Impeachment" (October 2019), then "War Room: Pandemic" (2020) — operates from a Capitol Hill townhouse as Bannon's primary influence vehicle since his White House departure. Trump has told others he watches the program and cites specific interviews. The podcast functions as:
+Bannon's War Room podcast, launched as "War Room: Impeachment" (October 2019), then "War Room: Pandemic" (2020), operates from a Capitol Hill townhouse as Bannon's primary influence vehicle since his White House departure. Trump has told others he watches the program and cites specific interviews. The podcast functions as:
 
 - Informal advisory channel to Trump (without formal government role)
 - Messaging coordination platform for MAGA-aligned media
@@ -95,5 +95,5 @@ Bannon's War Room podcast — launched as "War Room: Impeachment" (October 2019)
 
 ### Sources
 
-- ~~[DOJ: Contempt sentencing](https://www.justice.gov/usao-sdny/pr)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[Axios: $750K Breitbart salary](https://www.axios.com/results?q=Goldman-to-Fraud%20Pipeline%20and%20the%20Conviction%20Record)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[DOJ: Contempt sentencing](https://www.justice.gov/usao-sdny/pr)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Axios: $750K Breitbart salary](https://www.axios.com/results?q=Goldman-to-Fraud%20Pipeline%20and%20the%20Conviction%20Record)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

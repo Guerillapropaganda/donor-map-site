@@ -1,5 +1,5 @@
 ---
-title: "Gina Haspel Master Profile"
+title: "Gina Haspel"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

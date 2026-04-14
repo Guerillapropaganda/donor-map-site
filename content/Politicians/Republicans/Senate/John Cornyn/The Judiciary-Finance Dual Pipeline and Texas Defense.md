@@ -21,7 +21,7 @@ donors: [[ExxonMobil]] [[Lockheed Martin]] [[Koch Industries]] [[Goldman Sachs]]
 
 ### The Senior Texas Senator
 
-Cornyn's Judiciary and Finance Committee seats give him jurisdiction over the two most fundraising-productive committee portfolios in the Senate. Judiciary controls judicial nominations, antitrust, immigration, and justice system — attracting contributions from law firms, tech companies, and advocacy organizations. Finance controls tax policy, healthcare (Medicare/Medicaid), and trade — attracting contributions from every industry affected by the tax code.
+Cornyn's Judiciary and Finance Committee seats give him jurisdiction over the two most fundraising-productive committee portfolios in the Senate. Judiciary controls judicial nominations, antitrust, immigration, and justice system, attracting contributions from law firms, tech companies, and advocacy organizations. Finance controls tax policy, healthcare (Medicare/Medicaid), and trade, attracting contributions from every industry affected by the tax code.
 
 Cornyn served as Senate Republican Whip (2013-2019) and was the runner-up for Republican leader in 2024 (losing to John Thune). His leadership ambitions require maintaining the broadest possible donor base, and his dual committee portfolio ensures contributions from virtually every major industry sector.
 
@@ -40,7 +40,7 @@ The border is Cornyn's other jurisdiction-donor alignment: he negotiated the fai
 
 ### Sources
 
-- ~~[Congress.gov: John Cornyn member profile](https://www.congress.gov/member/john-cornyn/C001056)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: John Cornyn member profile](https://www.congress.gov/member/john-cornyn/C001056)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [FEC Candidate: John Cornyn campaign finance summary](https://www.fec.gov/data/candidate/S2TX00106/) (Tier 1) (VERIFIED)
 - [Ballotpedia: John Cornyn](https://ballotpedia.org/John_Cornyn) (Tier 3) (VERIFIED)
 

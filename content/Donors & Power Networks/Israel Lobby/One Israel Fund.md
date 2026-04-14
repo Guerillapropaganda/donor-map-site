@@ -50,11 +50,11 @@ One Israel Fund exemplifies how U.S. tax law is weaponized to support foreign oc
 ### Sources
 
 - [ProPublica: U.S. Nonprofits Funding West Bank Settlements](https://projects.propublica.org/nonprofits/organizations/113195338) (Tier 2) (VERIFIED)
-- ~~[IRS Form 990: One Israel Fund Tax Filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=One%20Israel%20Fund&city=&state=All+States&country=US)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[IRS Form 990: One Israel Fund Tax Filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=One%20Israel%20Fund&city=&state=All+States&country=US)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ---
 
-### Financial Overview (990 Filing — 2023)
+### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |
 |--------|--------|

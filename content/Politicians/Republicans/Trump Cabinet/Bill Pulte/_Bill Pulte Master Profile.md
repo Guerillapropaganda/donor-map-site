@@ -2,7 +2,7 @@
 title: "Bill Pulte"
 type: politician
 content-readiness: draft
-central-thesis: "Pulte is a trust fund heir who leveraged inherited wealth into a political brand (Twitter philanthropy, Trump loyalty) and then into a regulatory position (FHFA Director) where he controls Fannie Mae and Freddie Mac — the entities that backstop th..."
+central-thesis: "Pulte is a trust fund heir who leveraged inherited wealth into a political brand (Twitter philanthropy, Trump loyalty) and then into a regulatory position (FHFA Director) where he controls Fannie Mae and Freddie Mac , the entities that backstop th..."
 last-updated: 2026-04-02
 source-tier: 1
 parent: null
@@ -24,13 +24,13 @@ None yet. Potential sub-notes: GAO probe, politically motivated mortgage miscond
 
 ## Who They Are
 
-Bill Pulte (born May 28, 1988, Michigan/Washington, D.C.) is the grandson of PulteGroup founder William J. Pulte. He founded Pulte Capital Partners (2011), a private equity firm in building products ($30M revenue by 2014). He gained fame for "Twitter philanthropy" — giving away money to followers starting in 2019. He served on the PulteGroup board (2016–2020) and founded the Blight Authority (2015) for urban renewal. Confirmed as FHFA Director 56–43 in March 2025. Estimated net worth: $100–105M.
+Bill Pulte (born May 28, 1988, Michigan/Washington, D.C.) is the grandson of PulteGroup founder William J. Pulte. He founded Pulte Capital Partners (2011), a private equity firm in building products ($30M revenue by 2014). He gained fame for "Twitter philanthropy", giving away money to followers starting in 2019. He served on the PulteGroup board (2016–2020) and founded the Blight Authority (2015) for urban renewal. Confirmed as FHFA Director 56–43 in March 2025. Estimated net worth: $100–105M.
 
 ---
 
 ## The Central Thesis
 
-Pulte is a trust fund heir who leveraged inherited wealth into a political brand (Twitter philanthropy, Trump loyalty) and then into a regulatory position (FHFA Director) where he controls Fannie Mae and Freddie Mac — the entities that backstop the entire U.S. housing market. His tenure has been marked by the weaponization of regulatory authority: using FHFA's power to refer Trump critics to the DOJ for mortgage misconduct investigations. He represents the donor-class capture of a regulatory agency — not through industry lobbying, but through direct installation of a political loyalist.
+Pulte is a trust fund heir who leveraged inherited wealth into a political brand (Twitter philanthropy, Trump loyalty) and then into a regulatory position (FHFA Director) where he controls Fannie Mae and Freddie Mac, the entities that backstop the entire U.S. housing market. His tenure has been marked by the weaponization of regulatory authority: using FHFA's power to refer Trump critics to the DOJ for mortgage misconduct investigations. He represents the donor-class capture of a regulatory agency, not through industry lobbying, but through direct installation of a political loyalist.
 
 ---
 
@@ -47,13 +47,13 @@ Pulte is a trust fund heir who leveraged inherited wealth into a political brand
 > Pulte is a heavy Republican donor and close Trump ally. His political spending operates through personal donations and LLC structures. A $500K contribution via LLC to a pro-Trump PAC in 2021 was alleged to be an illegal conduit donation.
 
 ## Known political spending:
-- $500K via LLC to pro-Trump PAC (2021) — alleged illegal conduit donation
+- $500K via LLC to pro-Trump PAC (2021), alleged illegal conduit donation
 - Close Trump ally with personal relationship
 - Republican donor (specific federal contribution records need FEC API pull)
 
 ### Suspicious financial activity:
 - Team Pulte Inc. (philanthropic foundation) funded with $200K
-- Team Pulte made $65K donation to One World Love LLC (2023) — questioned as potential conduit for Trump-related legal funds
+- Team Pulte made $65K donation to One World Love LLC (2023), questioned as potential conduit for Trump-related legal funds
 
 ## Net worth sources:
 - Pulte Capital Partners (private equity, building products)
@@ -90,15 +90,15 @@ No sub-notes built yet. Key policy areas:
 
 ## Rhetorical Signature Moves
 
-Pulte uses populist framing — "fighting misconduct," "protecting taxpayers" — to justify politically motivated actions. The mortgage misconduct referrals are framed as regulatory enforcement rather than political retaliation. His Twitter persona (generous, direct, man-of-the-people) provides cover for wielding institutional power on behalf of a political faction.
+Pulte uses populist framing, "fighting misconduct," "protecting taxpayers", to justify politically motivated actions. The mortgage misconduct referrals are framed as regulatory enforcement rather than political retaliation. His Twitter persona (generous, direct, man-of-the-people) provides cover for wielding institutional power on behalf of a political faction.
 
 ---
 
 ## Analytical Patterns
 
-- **Donor-Class Override** — Pulte uses FHFA regulatory authority to serve Trump's political interests rather than housing market stability. The DOJ referrals target Trump critics, not actual misconduct patterns.
-- **Self-Funding as Independence** — His $100M+ net worth from family wealth and private equity provides financial independence, but his policy actions serve Trump's political loyalty test rather than independent judgment.
-- **Villain Framing** — Trump critics referred to DOJ are framed as "mortgage fraudsters," converting political opposition into unlawful allegations.
+- **Donor-Class Override**. Pulte uses FHFA regulatory authority to serve Trump's political interests rather than housing market stability. The DOJ referrals target Trump critics, not actual misconduct patterns.
+- **Self-Funding as Independence**. His $100M+ net worth from family wealth and private equity provides financial independence, but his policy actions serve Trump's political loyalty test rather than independent judgment.
+- **Villain Framing**. Trump critics referred to DOJ are framed as "mortgage fraudsters," converting political opposition into unlawful allegations.
 
 ---
 
@@ -109,7 +109,7 @@ Pulte uses populist framing — "fighting misconduct," "protecting taxpayers" �
 - [Mother Jones: Pulte charity mystery, Trump J6 defendants](https://www.motherjones.com/politics/2026/02/bill-pulte-donald-trump-jan-6-defendants-donation-charity-mystery/) (Tier 2) (VERIFIED)
 - [Yahoo Finance: Pulte net worth](https://finance.yahoo.com/news/bill-pulte-net-worth-2025-035242434.html) (Tier 3) (VERIFIED)
 - [Axios: Pulte GAO probe over mortgage fraud referrals](https://www.axios.com/2025/12/04/pulte-trump-gao-probe-mortgage-fraud) (Tier 2) (VERIFIED)
-- ~~[Axios: Pulte Jerome Powell DOJ referral](https://www.axios.com/2026/01/12/bill-pulte-housing-regulator-jerome-powell-doj)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Axios: Pulte Jerome Powell DOJ referral](https://www.axios.com/2026/01/12/bill-pulte-housing-regulator-jerome-powell-doj)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [CNN: GAO investigation into Pulte mortgage referrals](https://www.cnn.com/2025/12/04/business/government-accountability-office-investigation-bill-pulte-mortgage-referrals) (Tier 2) (VERIFIED)
 
 ---

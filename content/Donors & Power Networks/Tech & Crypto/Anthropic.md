@@ -57,7 +57,7 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 Anthropic PBC. An AI safety company and developer of the Claude family of large language models, founded in 2021 by former OpenAI researchers Dario and Daniela Amodei. Anthropic has raised $10+ billion in funding, primarily from Google ($2 billion) and Amazon ($4 billion), making it one of the most well-funded AI startups in history.
 
-Anthropic's political significance lies in its positioning as the "responsible AI" alternative to OpenAI and Meta — advocating for safety-focused AI regulation while simultaneously developing frontier AI models that would be subject to that regulation. The company's lobbying spending has grown rapidly alongside its market position.
+Anthropic's political significance lies in its positioning as the "responsible AI" alternative to OpenAI and Meta, advocating for safety-focused AI regulation while simultaneously developing frontier AI models that would be subject to that regulation. The company's lobbying spending has grown rapidly alongside its market position.
 
 ---
 
@@ -69,9 +69,9 @@ AI safety regulation that establishes testing and evaluation requirements for fr
 
 ### What They've Gotten
 
-**Safety-As-Moat Strategy:** Anthropic's advocacy for AI safety regulation serves a dual purpose: genuine safety commitment (the company was founded specifically to develop AI safely) and competitive advantage (safety requirements create compliance costs that larger companies can absorb but smaller competitors cannot). This dynamic — where safety regulation simultaneously serves public interest and incumbent commercial interest — is common across regulated industries but particularly significant in AI, where the regulatory framework is being built from scratch.
+**Safety-As-Moat Strategy:** Anthropic's advocacy for AI safety regulation serves a dual purpose: genuine safety commitment (the company was founded specifically to develop AI safely) and competitive advantage (safety requirements create compliance costs that larger companies can absorb but smaller competitors cannot). This dynamic, where safety regulation simultaneously serves public interest and incumbent commercial interest, is common across regulated industries but particularly significant in AI, where the regulatory framework is being built from scratch.
 
-**Government Engagement:** Anthropic has engaged extensively with Congress, the White House, and NIST on AI policy — helping to shape the executive orders, voluntary commitments, and potential legislation that will govern the AI industry. The company's positioning as the "safety-focused" AI lab gives it credibility in policy conversations that more commercially aggressive competitors lack.
+**Government Engagement:** Anthropic has engaged extensively with Congress, the White House, and NIST on AI policy, helping to shape the executive orders, voluntary commitments, and potential legislation that will govern the AI industry. The company's positioning as the "safety-focused" AI lab gives it credibility in policy conversations that more commercially aggressive competitors lack.
 
 > [!money]
 > Anthropic's safety-as-moat strategy illustrates how frontier AI companies can simultaneously advocate for genuine safety measures and competitive advantage. Safety regulation creates barriers to entry: testing requirements, red-teaming mandates, and evaluation frameworks require infrastructure that well-funded companies have already built and under-funded competitors have not. Anthropic's advocacy for safety regulation is not cynical — the safety commitment is genuine — but it is also not commercially neutral. The policy output serves both public safety and Anthropic's market position.

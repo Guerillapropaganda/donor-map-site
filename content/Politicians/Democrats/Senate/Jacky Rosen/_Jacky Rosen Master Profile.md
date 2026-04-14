@@ -1,5 +1,5 @@
 ---
-title: "Jacky Rosen Master Profile"
+title: "Jacky Rosen"
 type: politician
 content-readiness: draft
 last-updated: 2026-04-12

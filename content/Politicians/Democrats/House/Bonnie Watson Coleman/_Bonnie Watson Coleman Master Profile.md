@@ -1,5 +1,5 @@
 ---
-title: "Bonnie Watson Coleman Master Profile"
+title: "Bonnie Watson Coleman"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

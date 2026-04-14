@@ -1,5 +1,5 @@
 ---
-title: "James E. Clyburn Master Profile"
+title: "James E. Clyburn"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -19,9 +19,9 @@ donors: [[Amazon]] [[UPS]] FedEx
 
 ### The Inland Empire's Warehouse Economy
 
-Aguilar's district sits in the Inland Empire — the logistics hub that processes 40%+ of all goods entering the United States through the ports of Los Angeles and Long Beach. The region's economy is dominated by massive warehouse and distribution centers operated by Amazon, Walmart, Target, and logistics companies. San Bernardino County has 4,000+ warehouses covering 1+ billion square feet — one of the highest concentrations of warehouse space in the world.
+Aguilar's district sits in the Inland Empire, the logistics hub that processes 40%+ of all goods entering the United States through the ports of Los Angeles and Long Beach. The region's economy is dominated by massive warehouse and distribution centers operated by Amazon, Walmart, Target, and logistics companies. San Bernardino County has 4,000+ warehouses covering 1+ billion square feet, one of the highest concentrations of warehouse space in the world.
 
-The political economy: warehouse jobs are the Inland Empire's largest employment sector, paying $15-22/hour with minimal benefits. The region has some of the worst air quality in the United States — diesel pollution from truck traffic serving the warehouses creates asthma rates 2-3x the national average. Aguilar represents workers who depend on warehouse employment for survival while suffering the health consequences of that employment.
+The political economy: warehouse jobs are the Inland Empire's largest employment sector, paying $15-22/hour with minimal benefits. The region has some of the worst air quality in the United States, diesel pollution from truck traffic serving the warehouses creates asthma rates 2-3x the national average. Aguilar represents workers who depend on warehouse employment for survival while suffering the health consequences of that employment.
 
 ---
 

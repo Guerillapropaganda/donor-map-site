@@ -29,7 +29,7 @@ Boeing moved its headquarters to Chicago in 2001 (and later to Arlington, VA in 
 
 ### The Bipartisan Defense Consensus
 
-Duckworth reliably votes for National Defense Authorization Act (NDAA) packages that increase defense spending — typically $850+ billion annually. Her votes are consistent with both Democratic defense-state senators and Republican defense hawks, reflecting the structural bipartisanship of the defense spending pipeline. The NDAA passes with overwhelming bipartisan margins every year because the spending serves both parties' donors and constituencies.
+Duckworth reliably votes for National Defense Authorization Act (NDAA) packages that increase defense spending, typically $850+ billion annually. Her votes are consistent with both Democratic defense-state senators and Republican defense hawks, reflecting the structural bipartisanship of the defense spending pipeline. The NDAA passes with overwhelming bipartisan margins every year because the spending serves both parties' donors and constituencies.
 
 > [!money]
 > Duckworth's biography — combat wounds, military sacrifice — provides the moral authority that makes defense spending increases politically unchallengeable. [[Boeing]], Lockheed, Raytheon, and General Dynamics PACs contribute to the senator whose committee authorizes their contracts and whose personal sacrifice makes questioning defense spending politically costly. The biographical shield and the committee jurisdiction create a reinforcing loop: the moral authority enables the committee assignment; the committee assignment generates the donor relationships; the donors fund the senator whose moral authority protects the spending.
@@ -38,7 +38,7 @@ Duckworth reliably votes for National Defense Authorization Act (NDAA) packages 
 
 ### Sources
 
-- ~~[Congress.gov: Tammy Duckworth Armed Services Committee](https://www.congress.gov/member/tammy-duckworth/D000622)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Tammy Duckworth Armed Services Committee](https://www.congress.gov/member/tammy-duckworth/D000622)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [FEC Candidate: Tammy Duckworth defense sector contributions](https://www.fec.gov/data/candidate/H6IL06141/) (Tier 1) (VERIFIED)
 - [Ballotpedia: Tammy Duckworth](https://ballotpedia.org/Tammy_Duckworth) (Tier 3) (VERIFIED)
 

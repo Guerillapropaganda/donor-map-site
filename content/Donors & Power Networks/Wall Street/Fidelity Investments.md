@@ -67,7 +67,7 @@ Fidelity successfully lobbied to shape the definition of "fiduciary" in Departme
 
 ### Class Analysis
 
-Fidelity exemplifies how supposedly consumer-friendly companies use political power to preserve business models that harm their customers. The company's opposition to fiduciary duty requirements — rules that would require advisors to act in clients' interests — shows that Fidelity's political spending is fundamentally about the right to deceive customers for profit. Its pivot into crypto custody demonstrates how financial institutions use political influence to enter emerging markets before regulatory frameworks exist, allowing them to shape regulation to their advantage. The Johnson family's continued control means Fidelity's political interests remain hidden from public disclosure — a private company can give money to politicians without the transparency required of public companies.
+Fidelity exemplifies how supposedly consumer-friendly companies use political power to preserve business models that harm their customers. The company's opposition to fiduciary duty requirements, rules that would require advisors to act in clients' interests, shows that Fidelity's political spending is fundamentally about the right to deceive customers for profit. Its pivot into crypto custody demonstrates how financial institutions use political influence to enter emerging markets before regulatory frameworks exist, allowing them to shape regulation to their advantage. The Johnson family's continued control means Fidelity's political interests remain hidden from public disclosure, a private company can give money to politicians without the transparency required of public companies.
 
 ### Sources
 

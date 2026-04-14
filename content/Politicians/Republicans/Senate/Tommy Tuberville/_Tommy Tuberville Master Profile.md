@@ -1,8 +1,8 @@
 ---
-title: "Tommy Tuberville Master Profile"
+title: "Tommy Tuberville"
 type: politician
 content-readiness: ready
-central-thesis: "Tommy Tuberville demonstrates that the donor class doesn't need competent politicians — it needs compliant ones. His ignorance of basic governance (named the three branches of government as 'the House, the Senate, and the executive'; described D-D..."
+central-thesis: "Tommy Tuberville demonstrates that the donor class doesn't need competent politicians , it needs compliant ones. His ignorance of basic governance (named the three branches of government as 'the House, the Senate, and the executive'; described D-D..."
 last-updated: 2026-04-13
 source-tier: 1
 parent: null
@@ -46,7 +46,7 @@ committees:
   - "Senate Committee on Health, Education, Labor, and Pensions"
   - "Senate Committee on Veterans' Affairs"
   - "Senate Special Committee on Aging"
-internal-notes: "[MANUAL 2026-04-11] Bioguide recovered: T000278. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true — the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
+internal-notes: "[MANUAL 2026-04-11] Bioguide recovered: T000278. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true , the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
 
 [JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
 ---
@@ -79,13 +79,13 @@ Tommy Tuberville. Junior Senator from Alabama (2021–present). Former head foot
 ## Donor Class Map
 
 ### The STOCK Act Violations:
-- [[The STOCK Act Violations and the Enforcement Void]] — 130+ trades worth up to $3.56M disclosed late in 2021 alone. 400+ stock trades in 2023, 270+ in 2024. Ranked top 5 in Congress for trading volume. Defense stock trading while on Armed Services Committee. Zero enforcement consequences despite watchdog ethics complaints filed.
+- [[The STOCK Act Violations and the Enforcement Void]], 130+ trades worth up to $3.56M disclosed late in 2021 alone. 400+ stock trades in 2023, 270+ in 2024. Ranked top 5 in Congress for trading volume. Defense stock trading while on Armed Services Committee. Zero enforcement consequences despite watchdog ethics complaints filed.
 
 ### The Military Blockade as Defense Contractor Cover:
-- [[The Military Promotion Blockade and the Culture War as Donor Cover]] — 10-month hold on 450+ military promotions (Feb–Dec 2023). Framed as opposition to Pentagon abortion travel policy. Meanwhile: BAE Systems, [[Lockheed Martin|Lockheed Martin]], L3Harris, Leidos, Kratos, and Parsons all donated to Tuberville during the blockade period. Pacific Fleet, Pacific Air Forces, Air Combat Command, Northern Command, Cyber Command, and Space Command left without confirmed leadership. The "pro-life" framing masked a 10-month degradation of Pentagon command capacity funded by the defense industry.
+- [[The Military Promotion Blockade and the Culture War as Donor Cover]], 10-month hold on 450+ military promotions (Feb–Dec 2023). Framed as opposition to Pentagon abortion travel policy. Meanwhile: BAE Systems, [[Lockheed Martin|Lockheed Martin]], L3Harris, Leidos, Kratos, and Parsons all donated to Tuberville during the blockade period. Pacific Fleet, Pacific Air Forces, Air Combat Command, Northern Command, Cyber Command, and Space Command left without confirmed leadership. The "pro-life" framing masked a 10-month degradation of Pentagon command capacity funded by the defense industry.
 
 ### Agriculture and Alabama Business Interests:
-Alabama's agricultural economy — poultry, cattle, row crops — funds Tuberville through the Agriculture Committee. His farming donor base overlaps with his football-era connections: Alabama business interests who backed his Senate run and continue to fund his PAC (Coach PAC).
+Alabama's agricultural economy, poultry, cattle, row crops, funds Tuberville through the Agriculture Committee. His farming donor base overlaps with his football-era connections: Alabama business interests who backed his Senate run and continue to fund his PAC (Coach PAC).
 
 ---
 
@@ -120,36 +120,36 @@ Alabama is the fifth-poorest state in America. 46th in healthcare, 48th in educa
 
 ## Analytical Patterns
 
-**The Manufactured Populist** — Tuberville's value to the donor class is his celebrity credibility (famous football coach) combined with his ignorance (doesn't understand basic governance structures). The ignorance is structural: a senator who doesn't understand what he's doing cannot audit what he's being used for. His committees (Armed Services, Agriculture) are among the most lucrative in Congress for defense contractors and agricultural corporations. The donor class gets legislative access without requiring a functionally competent legislator to understand the implications of what he's voting for.
+**The Manufactured Populist**. Tuberville's value to the donor class is his celebrity credibility (famous football coach) combined with his ignorance (doesn't understand basic governance structures). The ignorance is structural: a senator who doesn't understand what he's doing cannot audit what he's being used for. His committees (Armed Services, Agriculture) are among the most lucrative in Congress for defense contractors and agricultural corporations. The donor class gets legislative access without requiring a functionally competent legislator to understand the implications of what he's voting for.
 
-**The Pilot Program** — Tuberville's military promotion blockade (Feb-Dec 2023) is presented as a culture war stand on abortion travel policy. However, the actual function is cover for defense contractor consolidation of military leadership during a period of command vacancy: Pacific Fleet, Cyber Command, and Space Command operated without confirmed commanders while defense contractors donated. The "pro-life" framing masks the degradation of Pentagon command capacity funded by the defense industry. The blockade appears to be a standalone issue; the actual function is structural reorganization serving donor interests.
+**The Pilot Program**. Tuberville's military promotion blockade (Feb-Dec 2023) is presented as a culture war stand on abortion travel policy. However, the actual function is cover for defense contractor consolidation of military leadership during a period of command vacancy: Pacific Fleet, Cyber Command, and Space Command operated without confirmed commanders while defense contractors donated. The "pro-life" framing masks the degradation of Pentagon command capacity funded by the defense industry. The blockade appears to be a standalone issue; the actual function is structural reorganization serving donor interests.
 
 ---
 
 ## Donation-to-Policy Timeline
 
-*Note: Tuberville is the manufactured populist — a famous football coach whose ignorance of governance is structural, not accidental. A senator who doesn't understand what he's doing can't audit what he's being used for. The 9-month military blockade achieved zero policy but generated $3M+ in fundraising.*
+*Note: Tuberville is the manufactured populist, a famous football coach whose ignorance of governance is structural, not accidental. A senator who doesn't understand what he's doing can't audit what he's being used for. The 9-month military blockade achieved zero policy but generated $3M+ in fundraising.*
 
 #### Trump Endorsement / Alabama Agribusiness
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2020 | Trump endorsement + Alabama agribusiness (Alfa Corporation, Alabama Farm Bureau) | Endorsement + $5M+ raised | 2020 | Tuberville defeats Jeff Sessions in primary runoff — zero political experience; Trump endorsement converts outside money directly into Senate seat |
-| 2024 | Alabama agribusiness donors — Farm Bureau, Alfa Corp | Part of $20.8M+ career | 2020–ongoing | Supports crop insurance subsidies, agribusiness deregulation on Agriculture Subcommittee; co-sponsors EATS Act overriding California Prop 12 livestock welfare (serves Tyson, Cargill, JBS) |
+| 2020 | Trump endorsement + Alabama agribusiness (Alfa Corporation, Alabama Farm Bureau) | Endorsement + $5M+ raised | 2020 | Tuberville defeats Jeff Sessions in primary runoff, zero political experience; Trump endorsement converts outside money directly into Senate seat |
+| 2024 | Alabama agribusiness donors. Farm Bureau, Alfa Corp | Part of $20.8M+ career | 2020–ongoing | Supports crop insurance subsidies, agribusiness deregulation on Agriculture Subcommittee; co-sponsors EATS Act overriding California Prop 12 livestock welfare (serves Tyson, Cargill, JBS) |
 
 #### Defense Contractors / Military Blockade Contradiction
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2021 | Defense contractors (Northrop Grumman, Raytheon, L3Harris, SAIC PACs) — begin donating upon Armed Services assignment | $500K+ first cycle | 2021–ongoing | Votes for NDAA increases; defense contractor donors fund the senator whose 9-month blockade damaged the military they profit from |
-| 2023-02 | BAE Systems, [[Lockheed Martin|Lockheed Martin]], L3Harris, Leidos, Kratos, Parsons — donated during blockade period | Donations continued through blockade | 2023 | 450+ military promotions held 10 months (Feb–Dec 2023); Pacific Fleet, Cyber Command, Space Command without confirmed leaders; "pro-life" framing masks readiness degradation |
+| 2021 | Defense contractors (Northrop Grumman, Raytheon, L3Harris, SAIC PACs), begin donating upon Armed Services assignment | $500K+ first cycle | 2021–ongoing | Votes for NDAA increases; defense contractor donors fund the senator whose 9-month blockade damaged the military they profit from |
+| 2023-02 | BAE Systems, [[Lockheed Martin|Lockheed Martin]], L3Harris, Leidos, Kratos, Parsons, donated during blockade period | Donations continued through blockade | 2023 | 450+ military promotions held 10 months (Feb–Dec 2023); Pacific Fleet, Cyber Command, Space Command without confirmed leaders; "pro-life" framing masks readiness degradation |
 
 #### STOCK Act / Performance Fundraising
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2023-Q2-Q4 | Conservative social issue donors (Susan B. Anthony Pro-Life America) + MAGA small-dollar surge during holds | $3M+ fundraising spike | Concurrent with holds | Hold achieves zero policy change (DOD policy unchanged); $3M+ raised — the disruption IS the product |
-| 2022-2024 | Financial industry ($200K+) — Tuberville trades in sectors he oversees (defense, finance, agriculture) | 130+ STOCK Act violations; 400+ trades (2023); $3.56M+ disclosed late | Ongoing | Zero enforcement consequences; ranked top 5 in Congress for trading volume; Senate Ethics Committee review produces no sanctions |
+| 2023-Q2-Q4 | Conservative social issue donors (Susan B. Anthony Pro-Life America) + MAGA small-dollar surge during holds | $3M+ fundraising spike | Concurrent with holds | Hold achieves zero policy change (DOD policy unchanged); $3M+ raised, the disruption IS the product |
+| 2022-2024 | Financial industry ($200K+). Tuberville trades in sectors he oversees (defense, finance, agriculture) | 130+ STOCK Act violations; 400+ trades (2023); $3.56M+ disclosed late | Ongoing | Zero enforcement consequences; ranked top 5 in Congress for trading volume; Senate Ethics Committee review produces no sanctions |
 
 > [!money] The Damning Sequences
 > **The abortion hold fundraising machine:** Zero policy achieved from 9-month military promotion hold (200+ generals/admirals blocked) → $3M+ fundraising surge. The hold was not about changing DOD policy — it was a fundraising mechanism. Conservative donors paid for the disruption itself.
@@ -160,17 +160,17 @@ Alabama is the fifth-poorest state in America. 46th in healthcare, 48th in educa
 
 ## Rhetorical Signature Moves
 
-1. **The coach analogy:** Everything is framed through football metaphor — discipline, teamwork, winning. The analogy masks policy illiteracy with cultural credibility. Alabama voters trust a coach; donors trust a compliant committee member.
+1. **The coach analogy:** Everything is framed through football metaphor, discipline, teamwork, winning. The analogy masks policy illiteracy with cultural credibility. Alabama voters trust a coach; donors trust a compliant committee member.
 2. **The culture war blockade:** Tuberville uses social-conservative framing (abortion, woke military) to cover actions that primarily serve financial interests (committee access, trading windows, donor maintenance). The abortion framing of the military blockade is the case study.
-3. **The everyman outsider:** "I'm not a politician" — deployed to explain every policy error and avoid accountability. The outsider brand is the product; the committee assignments are the actual value delivered to donors.
+3. **The everyman outsider:** "I'm not a politician", deployed to explain every policy error and avoid accountability. The outsider brand is the product; the committee assignments are the actual value delivered to donors.
 4. **The Trump proxy:** Tuberville's continued relevance inside the Alabama Republican Party is entirely Trump-derived. He performs loyalty to Trump to maintain access to the national MAGA donor pipeline.
 
 ---
 
 ## Sources
 
-- ~~[Congress.gov: Tuberville campaign finance summary](https://www.congress.gov/search?q=Tommy%20Tuberville&searchResultViewType=expanded)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[Congress.gov: Tuberville industry donors](https://www.congress.gov/search?q=Tommy%20Tuberville&searchResultViewType=expanded)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Tuberville campaign finance summary](https://www.congress.gov/search?q=Tommy%20Tuberville&searchResultViewType=expanded)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Tuberville industry donors](https://www.congress.gov/search?q=Tommy%20Tuberville&searchResultViewType=expanded)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [CNBC: Tuberville STOCK Act violations, 130+ trades](https://www.cnbc.com/2021/07/27/china-critic-sen-tommy-tuberville-of-alabama-violated-stock-act.html) (Tier 2) (VERIFIED)
 - [Alabama Reporter: Tuberville defense stock trading while on Armed Services Committee](https://www.alreporter.com/2024/12/30/tuberville-involved-in-defense-stock-trading-while-on-armed-services-committee/) (Tier 2) (VERIFIED)
 - [Alabama Reporter: Defense contractors donated during promotions hold](https://www.alreporter.com/2023/10/11/report-tuberville-got-financial-support-from-defense-contractors-amid-confirmations-hold/) (Tier 2) (VERIFIED)

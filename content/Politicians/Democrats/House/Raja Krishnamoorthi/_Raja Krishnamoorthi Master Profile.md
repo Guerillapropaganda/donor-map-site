@@ -2,7 +2,7 @@
 title: "Raja Krishnamoorthi"
 type: politician
 content-readiness: ready
-central-thesis: "Krishnamoorthi is the bipartisan national security technocrat — a Democrat who provides liberal cover for the anti-China consensus that serves both defense industry donors and tech competitors seeking to eliminate Chinese competition from the Amer..."
+central-thesis: "Krishnamoorthi is the bipartisan national security technocrat , a Democrat who provides liberal cover for the anti-China consensus that serves both defense industry donors and tech competitors seeking to eliminate Chinese competition from the Amer..."
 last-updated: 2026-04-13
 source-tier: 1
 parent: null
@@ -68,15 +68,15 @@ SORT file.name ASC
 
 Representative Raja Krishnamoorthi (D-IL-08). Member of the House Oversight Committee and the Select Committee on the Chinese Communist Party. Krishnamoorthi is best known nationally for co-authoring the bipartisan TikTok ban legislation (the Protecting Americans from Foreign Adversary Controlled Applications Act) and for his work on the CCP Select Committee investigating Chinese economic competition and technology threats.
 
-Krishnamoorthi represents Illinois's 8th District (Chicago suburbs), one of the most educated and affluent districts in the Midwest. Before Congress, he worked as a special assistant in the Illinois Attorney General's office and as a tech entrepreneur. He ran for the U.S. Senate in 2026 to replace retiring Sen. [[Dick Durbin]], raising $19 million — more than all his primary rivals combined — and spending $29 million on campaign ads. He lost the Democratic primary to Lt. Gov. Juliana Stratton on March 17, 2026, despite his massive fundraising advantage.
+Krishnamoorthi represents Illinois's 8th District (Chicago suburbs), one of the most educated and affluent districts in the Midwest. Before Congress, he worked as a special assistant in the Illinois Attorney General's office and as a tech entrepreneur. He ran for the U.S. Senate in 2026 to replace retiring Sen. [[Dick Durbin]], raising $19 million, more than all his primary rivals combined, and spending $29 million on campaign ads. He lost the Democratic primary to Lt. Gov. Juliana Stratton on March 17, 2026, despite his massive fundraising advantage.
 
 ---
 
 ## The Central Thesis
 
-Krishnamoorthi is the bipartisan national security technocrat — a Democrat who provides liberal cover for the anti-China consensus that serves both defense industry donors and tech competitors seeking to eliminate Chinese competition from the American market. The TikTok ban is the signature case: framed as national security and children's privacy, the legislation eliminates a Chinese competitor from the American social media market while leaving American surveillance platforms (Meta, Google) untouched. His committee work makes anti-China economic policy bipartisan, ensuring it cannot be dismissed as Republican xenophobia.
+Krishnamoorthi is the bipartisan national security technocrat, a Democrat who provides liberal cover for the anti-China consensus that serves both defense industry donors and tech competitors seeking to eliminate Chinese competition from the American market. The TikTok ban is the signature case: framed as national security and children's privacy, the legislation eliminates a Chinese competitor from the American social media market while leaving American surveillance platforms (Meta, Google) untouched. His committee work makes anti-China economic policy bipartisan, ensuring it cannot be dismissed as Republican xenophobia.
 
-The deeper story emerged in his 2026 Senate race: Krishnamoorthi's donor base revealed a politician whose bipartisan positioning attracted money from both sides of the aisle — including significant contributions from Trump-aligned donors and MAGA-connected tech executives. The question is whether the "bipartisan national security hawk" brand is a principled position or a fundraising strategy that appeals to the donor class regardless of party.
+The deeper story emerged in his 2026 Senate race: Krishnamoorthi's donor base revealed a politician whose bipartisan positioning attracted money from both sides of the aisle, including significant contributions from Trump-aligned donors and MAGA-connected tech executives. The question is whether the "bipartisan national security hawk" brand is a principled position or a fundraising strategy that appeals to the donor class regardless of party.
 
 ---
 
@@ -92,19 +92,19 @@ Krishnamoorthi ran for Senate as a Democrat opposing Trump's agenda while accept
 ## Donor Class Map
 
 ### Health Professionals ($1.1M)
-Krishnamoorthi's largest donor industry. The Chicago suburbs' concentration of healthcare professionals — doctors, hospital administrators, pharmaceutical executives — made this a natural base. These donors want regulatory stability and opposition to single-payer healthcare, which Krishnamoorthi has not championed despite being a Democrat.
+Krishnamoorthi's largest donor industry. The Chicago suburbs' concentration of healthcare professionals, doctors, hospital administrators, pharmaceutical executives, made this a natural base. These donors want regulatory stability and opposition to single-payer healthcare, which Krishnamoorthi has not championed despite being a Democrat.
 
 ### Attorneys and Corporate Law ($1M+)
-Attorneys represent Krishnamoorthi's single largest donor industry by aggregate volume. Kirkland & Ellis, Chicago's most powerful corporate law firm, contributed $334,000 — his single largest employer-source of donations. The firm represents private equity, corporate mergers, and regulatory defense — its partners donate to politicians who understand and protect corporate legal frameworks.
+Attorneys represent Krishnamoorthi's single largest donor industry by aggregate volume. Kirkland & Ellis, Chicago's most powerful corporate law firm, contributed $334,000, his single largest employer-source of donations. The firm represents private equity, corporate mergers, and regulatory defense, its partners donate to politicians who understand and protect corporate legal frameworks.
 
 ### Tech Industry and Corporate PACs ($120K+ in corporate PACs alone)
-Krishnamoorthi's CCP Select Committee profile and TikTok legislation have made him increasingly attractive to American tech companies that benefit from Chinese competitor restrictions. He accepted over $120,000 in corporate PAC contributions from [[Google]], Amazon, Booz Allen Hamilton, Microsoft, T-Mobile, NextEra Energy, Union Pacific, and [[Lockheed Martin]] — notably, many of the same companies funding Trump's $300 million White House ballroom construction. His bipartisan positioning on tech regulation makes him valuable to both Silicon Valley Democrats and MAGA-aligned tech figures.
+Krishnamoorthi's CCP Select Committee profile and TikTok legislation have made him increasingly attractive to American tech companies that benefit from Chinese competitor restrictions. He accepted over $120,000 in corporate PAC contributions from [[Google]], Amazon, Booz Allen Hamilton, Microsoft, T-Mobile, NextEra Energy, Union Pacific, and [[Lockheed Martin]], notably, many of the same companies funding Trump's $300 million White House ballroom construction. His bipartisan positioning on tech regulation makes him valuable to both Silicon Valley Democrats and MAGA-aligned tech figures.
 
 ### MAGA-Connected Donors ($90K+)
 The most revealing donor category. Krishnamoorthi accepted contributions from:
-- **Shyam Sankar** — Palantir CTO, Trump adviser; Palantir holds $30M ICE contract for immigration enforcement tools
-- **Marc Andreessen** — Venture capitalist, major Trump donor and tech industry MAGA figure
-- **Michael Pillsbury** — Heritage Foundation senior adviser, China hawk
+- **Shyam Sankar**. Palantir CTO, Trump adviser; Palantir holds $30M ICE contract for immigration enforcement tools
+- **Marc Andreessen**. Venture capitalist, major Trump donor and tech industry MAGA figure
+- **Michael Pillsbury**. Heritage Foundation senior adviser, China hawk
 
 > [!money]
 > The MAGA donor problem illustrates the bipartisan technocrat trap: Krishnamoorthi's anti-China positioning attracted money from Trump-aligned tech and defense figures who see the CCP Select Committee as advancing their interests regardless of party. When the Chicago Sun-Times exposed these connections, Krishnamoorthi faced the two-audience problem — his progressive Democratic primary voters saw Trump donor money as disqualifying, while the donors saw a useful bipartisan vehicle. Pattern: **Two-Audience Problem** + **Both-Sides Illusion**.
@@ -115,7 +115,7 @@ The most revealing donor category. Krishnamoorthi accepted contributions from:
 
 Krishnamoorthi co-authored the Protecting Americans from Foreign Adversary Controlled Applications Act with Rep. Mike Gallagher (R-WI), which passed the House in March 2024 with overwhelming bipartisan support. The legislation required ByteDance to divest TikTok's U.S. operations or face a ban.
 
-The class analysis: the legislation was framed as national security and children's privacy protection. The structural beneficiaries were American social media platforms (Meta, Google/YouTube, Snap) that compete directly with TikTok for advertising revenue and user attention. Meta and Google's surveillance practices are functionally identical to the data collection concerns raised about TikTok — the difference is ownership nationality, not user privacy protection.
+The class analysis: the legislation was framed as national security and children's privacy protection. The structural beneficiaries were American social media platforms (Meta, Google/YouTube, Snap) that compete directly with TikTok for advertising revenue and user attention. Meta and Google's surveillance practices are functionally identical to the data collection concerns raised about TikTok, the difference is ownership nationality, not user privacy protection.
 
 Krishnamoorthi's role was essential: a Democrat co-sponsoring the bill ensured it could not be dismissed as anti-Asian xenophobia or Republican overreach. His Indian heritage and national security credentials provided the bipartisan cover the legislation needed.
 
@@ -123,7 +123,7 @@ Krishnamoorthi's role was essential: a Democrat co-sponsoring the bill ensured i
 
 ### The 2026 Senate Race and Its Lessons
 
-Krishnamoorthi's $29 million Senate campaign — the most expensive in the Illinois primary — demonstrated both the power and the limits of donor-class fundraising:
+Krishnamoorthi's $29 million Senate campaign, the most expensive in the Illinois primary, demonstrated both the power and the limits of donor-class fundraising:
 
 | Metric | Krishnamoorthi | Stratton (winner) |
 |--------|---------------|-------------------|
@@ -132,7 +132,7 @@ Krishnamoorthi's $29 million Senate campaign — the most expensive in the Illin
 | Funding model | Retail professional-class donors | Pritzker machine + labor |
 | Outcome | Lost primary | Won primary |
 
-The Stratton victory showed that institutional Democratic support (governor's backing, labor unions, party apparatus) still outweighs raw fundraising in a Democratic primary — a structural lesson about the limits of the donor-class model when it faces organized institutional opposition.
+The Stratton victory showed that institutional Democratic support (governor's backing, labor unions, party apparatus) still outweighs raw fundraising in a Democratic primary, a structural lesson about the limits of the donor-class model when it faces organized institutional opposition.
 
 ---
 
@@ -150,11 +150,11 @@ Krishnamoorthi's $29 million Senate campaign, the most expensive in the Illinois
 
 ## Rhetorical Signature Moves
 
-**The Bipartisan National Security Voice**: Every tech and China issue filtered through national security framing — TikTok is not a competitor to American platforms, it is a "national security threat." This framing makes corporate protectionism sound like patriotism.
+**The Bipartisan National Security Voice**: Every tech and China issue filtered through national security framing. TikTok is not a competitor to American platforms, it is a "national security threat." This framing makes corporate protectionism sound like patriotism.
 
 **The Immigrant Success Story**: Krishnamoorthi's background as the son of Indian immigrants is central to his brand. It provides credibility on immigration issues and connects him to the Indian-American professional donor class that funds his campaigns through retail $1,000-$2,000 contributions.
 
-**The Oversight Investigator**: Committee hearings as theater — Krishnamoorthi uses Oversight and CCP Select Committee questioning to build media clips and position himself as a serious policy figure. The committee work serves dual purposes: genuine investigation and personal brand-building for higher office.
+**The Oversight Investigator**: Committee hearings as theater. Krishnamoorthi uses Oversight and CCP Select Committee questioning to build media clips and position himself as a serious policy figure. The committee work serves dual purposes: genuine investigation and personal brand-building for higher office.
 
 ---
 
@@ -169,7 +169,7 @@ Krishnamoorthi's $29 million Senate campaign, the most expensive in the Illinois
 - [Chicago Sun-Times: Stratton defeats Krishnamoorthi in Senate primary](https://chicago.suntimes.com/elections/2026/03/17/us-senate-illinois-primary-results) (Tier 2) (VERIFIED)
 - [American Prospect: Illinois Senate primary features millions in outside spending](https://prospect.org/2026/03/17/illinois-senate-primary-super-pac-spending-juliana-stratton-raja-krishnamoorthi/) (Tier 2) (VERIFIED)
 - [Ballotpedia: Raja Krishnamoorthi](https://ballotpedia.org/Raja_Krishnamoorthi) (Tier 3) (VERIFIED)
-- ~~[FollowTheMoney: Raja Krishnamoorthi](https://www.followthemoney.org/tools/election-overview?eid=6265333&default=candidate)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
+- ~~[FollowTheMoney: Raja Krishnamoorthi](https://www.followthemoney.org/tools/election-overview?eid=6265333&default=candidate)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 1)
 
 ---
 

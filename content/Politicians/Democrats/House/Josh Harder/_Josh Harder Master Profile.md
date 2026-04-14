@@ -1,5 +1,5 @@
 ---
-title: "Josh Harder Master Profile"
+title: "Josh Harder"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

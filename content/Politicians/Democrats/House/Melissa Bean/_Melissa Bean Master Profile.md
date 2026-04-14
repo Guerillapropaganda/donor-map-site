@@ -1,5 +1,5 @@
 ---
-title: "Melissa Bean Master Profile"
+title: "Melissa Bean"
 type: politician
 content-readiness: ready
 central-thesis: "Melissa Bean represents a new prototype in the 2026 election cycle: the 'comeback candidate' funded by a coalition of emerging donor interests (AI tech, cryptocurrency, pro-Israel infrastructure). Her 2026 primary victory was almost entirely depen..."
@@ -36,7 +36,7 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 related: "[[AIPAC - American Israel Public Affairs Committee]] · [[Think Big AI PAC]] · [[Elect Chicago Women PAC]]"
-internal-notes: "[MANUAL 2026-04-11] Bioguide recovered: B001253. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true — the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
+internal-notes: "[MANUAL 2026-04-11] Bioguide recovered: B001253. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true , the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
 
 [JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'B001296' ((unknown — smaller 3-file contamination)), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 3 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
 last-enriched: "2026-04-13"
@@ -74,7 +74,7 @@ Melissa L. Bean was born January 22, 1962, in Chicago to a Serbian-American fami
 
 ## The Core Contradiction
 
-Bean's central contradiction is between her identity as a former congresswoman making an independent comeback and her actual status as a proxy candidate for coordinated donor networks. She is framed as a proven legislator returning to fix the damage of 15 years of Republican representation, yet her primary victory was purchased almost entirely by outside donors aligned with tech, crypto, and pro-Israel interests. The secondary contradiction: Bean's background as a telecom consultant and JPMorgan Chase executive (2019-2025) suggests deep ties to financial and tech sectors, yet her campaign narrative emphasizes her working-class family origins and small-business consulting background. The class contradiction is stark: Bean positioned herself as reclaiming a seat for Democrats while her actual funding base represents elite tech, finance, and pro-Israel infrastructure—interests entirely disconnected from working-class voters in IL-8. Her 15-year absence from elected office means voters have no recent record to evaluate; they see only the narrative of the "experienced former congresswoman" and the $7M in outside spending validating her candidacy.
+Bean's central contradiction is between her identity as a former congresswoman making an independent comeback and her actual status as a proxy candidate for coordinated donor networks. She is framed as a proven legislator returning to fix the damage of 15 years of Republican representation, yet her primary victory was purchased almost entirely by outside donors aligned with tech, crypto, and pro-Israel interests. The secondary contradiction: Bean's background as a telecom consultant and JPMorgan Chase executive (2019-2025) suggests deep ties to financial and tech sectors, yet her campaign narrative emphasizes her working-class family origins and small-business consulting background. The class contradiction is stark: Bean positioned herself as reclaiming a seat for Democrats while her actual funding base represents elite tech, finance, and pro-Israel infrastructure, interests entirely disconnected from working-class voters in IL-8. Her 15-year absence from elected office means voters have no recent record to evaluate; they see only the narrative of the "experienced former congresswoman" and the $7M in outside spending validating her candidacy.
 
 > [!contradiction]
 > Bean is positioned as an "experienced former congresswoman returning to serve," yet her primary victory was 78-89% dependent on outside super PAC spending ($7M vs. estimated $800K-1M candidate fundraising). She claims to be a champion of working-class interests despite 6 years (2019-2025) as CEO of Mesirow Wealth Advisors and years at JPMorgan Chase. Her donor coalition (AI tech, crypto, pro-Israel groups) has no stated commitment to labor, housing, or economic justice for IL-8 working families. The 15-year absence means voters cannot evaluate her recent record; they rely entirely on narrative and outside spending validation.
@@ -100,21 +100,21 @@ Bean's central contradiction is between her identity as a former congresswoman m
 
 ## Donation-to-Policy Timeline
 
-*Note: Bean returned to politics after 15 years with no current legislative record — a perfect vessel for donor projection. Think Big AI PAC ($1.1M), AIPAC-affiliated Elect Chicago Women ($3.9M), crypto PAC Protect Progress ($557K), and New Democrat Majority ($935K) collectively spent $7M+ to win her primary — dwarfing her own fundraising 7-to-1.*
+*Note: Bean returned to politics after 15 years with no current legislative record, a perfect vessel for donor projection. Think Big AI PAC ($1.1M), AIPAC-affiliated Elect Chicago Women ($3.9M), crypto PAC Protect Progress ($557K), and New Democrat Majority ($935K) collectively spent $7M+ to win her primary, dwarfing her own fundraising 7-to-1.*
 
 #### Multi-Donor Super PAC Coalition / The $7M Blank Slate
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
 | 2026-Q1 | Think Big AI PAC ($1.1M) + Elect Chicago Women/AIPAC ($3.9M) + Protect Progress/crypto ($557K) + New Democrat Majority ($935K) | $7M+ combined super PAC spending | 2026 Q1 | Primary victory purchased 7-to-1 over candidate fundraising; AI, AIPAC, crypto, and corporate centrist donor coalition installs preferred candidate in IL-8 |
-| 2026-03-17 | Bean wins Democratic primary — 78-89% dependent on outside super PAC spending ($7M vs. estimated $800K-1M candidate fundraising) | $7M+ outside vs. ~$1M candidate | March 17, 2026 | 15-year absence from office means no record to evaluate; voters see "experienced former congresswoman" validated by $7M in outside spending; donors see blank slate |
+| 2026-03-17 | Bean wins Democratic primary, 78-89% dependent on outside super PAC spending ($7M vs. estimated $800K-1M candidate fundraising) | $7M+ outside vs. ~$1M candidate | March 17, 2026 | 15-year absence from office means no record to evaluate; voters see "experienced former congresswoman" validated by $7M in outside spending; donors see blank slate |
 
 #### JPMorgan-to-Congress Revolving Door
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2011-2019 | Post-Congress career: President and CEO, Executives Club of Chicago — corporate networking and executive class integration | Corporate finance relationship-building | 2011-2019 | Builds Wall Street connections that later fund return to Congress; revolving door infrastructure laid |
-| 2019-2025 | CEO of Mesirow Wealth Advisors; Midwest operations chair at JPMorgan Chase — deep integration into finance infrastructure | JPMorgan Chase and wealth management alignment | 2019-2025 | 6 years in Wall Street finance → returns to Congress backed by industries she served; the donor class didn't need to capture her — she was already inside |
+| 2011-2019 | Post-Congress career: President and CEO, Executives Club of Chicago, corporate networking and executive class integration | Corporate finance relationship-building | 2011-2019 | Builds Wall Street connections that later fund return to Congress; revolving door infrastructure laid |
+| 2019-2025 | CEO of Mesirow Wealth Advisors; Midwest operations chair at JPMorgan Chase, deep integration into finance infrastructure | JPMorgan Chase and wealth management alignment | 2019-2025 | 6 years in Wall Street finance → returns to Congress backed by industries she served; the donor class didn't need to capture her, she was already inside |
 
 > [!money] The Damning Sequences
 > **The $7M blank slate (2026):** Bean returned to politics after 15 years with no current legislative record, making her a perfect vessel for donor projection. Think Big AI PAC ($1.1M), AIPAC-affiliated Elect Chicago Women ($3.9M), crypto PAC Protect Progress ($557K), and New Democrat Majority ($935K) collectively spent $7M+ to win her primary — dwarfing her own fundraising 7-to-1. A candidate who spent 6 years as CEO of Mesirow Wealth Advisors and Midwest chair at JPMorgan Chase was purchased into office by AI, crypto, pro-Israel, and corporate centrist money. The working-class origin story is the brand. The $7M super PAC coalition is the product.
@@ -133,21 +133,21 @@ Bean represents a new model of donor-class power projection. Rather than corrupt
 
 ## Analytical Patterns
 
-**The Pilot Program** — Bean's career itself is the pilot program: instead of building a full progressive primary candidacy from scratch, the AI/crypto/pro-Israel donor coalition "tested" her viability by funding her primary entry with $7M in outside spending. She is the demonstration that their coordinated investment model works — that multiple donor constituencies can align around a single "blank slate" candidate (15-year absence from office, no recent legislative record) and purchase her into office. If successful in IL-8, the model replicates across swing-district races: test candidate + coordinated mega-donor coalition + 7-to-1 outside spending advantage = electoral success regardless of grassroots support.
+**The Pilot Program**. Bean's career itself is the pilot program: instead of building a full progressive primary candidacy from scratch, the AI/crypto/pro-Israel donor coalition "tested" her viability by funding her primary entry with $7M in outside spending. She is the demonstration that their coordinated investment model works, that multiple donor constituencies can align around a single "blank slate" candidate (15-year absence from office, no recent legislative record) and purchase her into office. If successful in IL-8, the model replicates across swing-district races: test candidate + coordinated mega-donor coalition + 7-to-1 outside spending advantage = electoral success regardless of grassroots support.
 
-**The Two-Audience Problem** — Bean presented herself as an "experienced legislator returning to serve" to voters, while her actual profile (6 years at JPMorgan Chase, CEO of Mesirow Wealth Advisors) signals to donors that she understands finance sector interests intimately. One message: "I'm back to fix Republican damage" to the district; the other message: "I understand Wall Street" to the donor class funding her. Each audience believes they bought a champion for their interests. Neither receives clarity that the donor coalition (AI, crypto, pro-Israel, corporate centrist) controls the relationship.
+**The Two-Audience Problem**. Bean presented herself as an "experienced legislator returning to serve" to voters, while her actual profile (6 years at JPMorgan Chase, CEO of Mesirow Wealth Advisors) signals to donors that she understands finance sector interests intimately. One message: "I'm back to fix Republican damage" to the district; the other message: "I understand Wall Street" to the donor class funding her. Each audience believes they bought a champion for their interests. Neither receives clarity that the donor coalition (AI, crypto, pro-Israel, corporate centrist) controls the relationship.
 
 ---
 
 ## Rhetorical Signature Moves
 
-1. **"Experienced Legislator Returning to Fix Republican Damage"** — Bean emphasizes her 6 years in Congress (2005-2011) as proof of legislative competence, while ignoring her 15-year absence. This rhetoric appeals to voters wanting "experienced" leadership while providing no recent track record to evaluate.
+1. **"Experienced Legislator Returning to Fix Republican Damage"**. Bean emphasizes her 6 years in Congress (2005-2011) as proof of legislative competence, while ignoring her 15-year absence. This rhetoric appeals to voters wanting "experienced" leadership while providing no recent track record to evaluate.
 
-2. **"First Democrat to Represent the District"** — Bean invokes her historic 2004 victory as proof of her electoral viability, a narrative designed to create momentum ("she did it before, she can do it again") while obscuring the reality that her 2026 victory is dependent on $7M in outside spending, not grassroots support.
+2. **"First Democrat to Represent the District"**. Bean invokes her historic 2004 victory as proof of her electoral viability, a narrative designed to create momentum ("she did it before, she can do it again") while obscuring the reality that her 2026 victory is dependent on $7M in outside spending, not grassroots support.
 
-3. **"Working-Class Background to Corporate Leadership"** — Bean frames her career progression from telecom work to JPMorgan Chase CEO as an American success story, yet this narrative masks her integration into elite financial and tech sectors and suggests her policy priorities align with corporate interests rather than working-class voters.
+3. **"Working-Class Background to Corporate Leadership"**. Bean frames her career progression from telecom work to JPMorgan Chase CEO as an American success story, yet this narrative masks her integration into elite financial and tech sectors and suggests her policy priorities align with corporate interests rather than working-class voters.
 
-4. **"Unity and Pragmatism"** — Bean's rhetorical positioning emphasizes her "pragmatic" centrism and "coalition-building," coded language for alignment with corporate donors and centrist New Democrat policy agenda rather than progressive constituency interests.
+4. **"Unity and Pragmatism"**. Bean's rhetorical positioning emphasizes her "pragmatic" centrism and "coalition-building," coded language for alignment with corporate donors and centrist New Democrat policy agenda rather than progressive constituency interests.
 
 ### Biographical Facts
 
@@ -161,7 +161,7 @@ Bean represents a new model of donor-class power projection. Rather than corrupt
 
 **Primary Victory:** March 17, 2026
 
-**Education:** B.A., Roosevelt University (2002); A.A., Oakton Community College (1982); Maine East High School (1980)
+**Education:** B.A. Roosevelt University (2002); A.A. Oakton Community College (1982); Maine East High School (1980)
 
 **Prior Congressional Service:** U.S. House Representative, IL-8 (2005-2011)
 
@@ -177,7 +177,7 @@ Bean represents a new model of donor-class power projection. Rather than corrupt
 - [FEC: Illinois 8th District 2026 Primary Results](https://www.fec.gov/data/elections/house/IL/08/2026/) (Tier 1) (VERIFIED)
 - [In Illinois's Eighth District, AIPAC and AI Try to Buy a Seat: The American Prospect](https://prospect.org/2026/03/12/illinois-eighth-congressional-district-aipac-ai-bean-ahmed/) (Tier 2) (VERIFIED)
 - [Melissa Bean wins 8th Congressional District primary, moves to reclaim seat she lost 16 years ago: Chicago Sun-Times](https://chicago.suntimes.com/elections/2026/03/17/us-house-illinois-8th-congressional-district-primary-results) (Tier 2) (VERIFIED)
-- [Super PAC scorecard — how outside spending groups fared in efforts to influence Illinois primary voters: WBEZ Chicago](https://www.wbez.org/government-politics/elections/2026/03/18/illinois-primary-super-pac-spending-aipac-cryptocurrency-ai-sports-betting) (Tier 2) (VERIFIED)
+- [Super PAC scorecard, how outside spending groups fared in efforts to influence Illinois primary voters: WBEZ Chicago](https://www.wbez.org/government-politics/elections/2026/03/18/illinois-primary-super-pac-spending-aipac-cryptocurrency-ai-sports-betting) (Tier 2) (VERIFIED)
 - [Cryptocurrency, AI join in $31 million super PAC blitz in 4 congressional primaries: WBEZ Chicago](https://www.wbez.org/government-politics/elections/2026/03/13/cryptocurrency-ai-join-in-31-million-super-pac-blitz-in-four-congressional-primaries) (Tier 2) (VERIFIED)
 - [AI, crypto industries dump millions into Illinois primaries to mixed results: CNBC](https://www.cnbc.com/2026/03/18/ai-crpyto-illinois-primaries-2026-elections.html) (Tier 3) (VERIFIED)
 - [AIPAC super PAC funded big-spending Illinois groups, as Democratic fights over Israel spread: NBC News](https://www.nbcnews.com/politics/2026-election/aipac-super-pac-funded-illinois-groups-democratic-primaries-israel-rcna264379) (Tier 2) (VERIFIED)

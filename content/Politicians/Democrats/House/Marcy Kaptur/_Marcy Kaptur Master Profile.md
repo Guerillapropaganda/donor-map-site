@@ -1,5 +1,5 @@
 ---
-title: "Marcy Kaptur Master Profile"
+title: "Marcy Kaptur"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

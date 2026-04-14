@@ -1,5 +1,5 @@
 ---
-title: "Jefferson van Drew Master Profile"
+title: "Jefferson van Drew"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

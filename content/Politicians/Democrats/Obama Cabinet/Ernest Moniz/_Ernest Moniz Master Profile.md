@@ -1,5 +1,5 @@
 ---
-title: "Ernest Moniz Master Profile"
+title: "Ernest Moniz"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

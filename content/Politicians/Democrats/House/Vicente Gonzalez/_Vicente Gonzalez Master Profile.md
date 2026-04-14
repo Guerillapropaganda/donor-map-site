@@ -1,5 +1,5 @@
 ---
-title: "Vicente Gonzalez Master Profile"
+title: "Vicente Gonzalez"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

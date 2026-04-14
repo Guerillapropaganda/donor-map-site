@@ -154,7 +154,7 @@ The 2024-2025 fracture exposed the network's contingent nature. The unified anti
 - [NBC News: "Billionaires poured millions of dollars into presidential super PACs in August"](https://www.nbcnews.com/politics/2024-election/billionaires-millions-dollars-super-pac-august-fec-filings-rcna172097) (Tier 2) (VERIFIED)
 - [Brennan Center for Justice: "Megadonors Playing Larger Role in Presidential Race"](https://www.brennancenter.org/our-work/analysis-opinion/megadonors-playing-larger-role-presidential-race-fec-data-shows) (Tier 2) (VERIFIED)
 - [SF Standard: "Major Silicon Valley Democratic donors have kept wallets closed"](https://sfstandard.com/2025/08/08/major-silicon-valley-democratic-donors-have-kept-their-wallets-closed-year/) (Tier 2) (VERIFIED)
-- ~~[American Immigration Council: "H-1B Visa Program Overview"](https://www.americanimmigrationcouncil.org/research/h-1b-visa-program-overview)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[American Immigration Council: "H-1B Visa Program Overview"](https://www.americanimmigrationcouncil.org/research/h-1b-visa-program-overview)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ---
 

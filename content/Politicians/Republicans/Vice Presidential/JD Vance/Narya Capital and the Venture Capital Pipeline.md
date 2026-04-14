@@ -149,7 +149,7 @@ Standard conflict-of-interest enforcement mechanisms fail in this scenario:
 ### Tier 1 (Primary/Government):
 - [FEC: JD VANCE FOR SENATE INC. - committee overview](https://www.fec.gov/data/committee/C00783142/?cycle=2024) (Tier 1) (VERIFIED)
 - [OpenSecrets.org: Sen. J D Vance Financial Disclosures](https://www.fec.gov/data/candidate/S2OH00436/) (Tier 1) (VERIFIED)
-- ~~[Congress.gov: J. D. Vance voting record](https://www.congress.gov/member/j-vance/V000137)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: J. D. Vance voting record](https://www.congress.gov/member/j-vance/V000137)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ### Tier 2 (Major Journalism):
 - [Accountable.US: VP Vance Retained Stake In Venture Capital Fund](https://accountable.us/report-vp-vance-retained-stake-in-venture-capital-fund-invested-in-multiple-defense-contractors-awarded-millions-by-the-trump-administration/) (Tier 2) (NEEDS REVIEW)

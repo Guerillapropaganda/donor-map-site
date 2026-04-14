@@ -19,7 +19,7 @@ donors: [[Rupert Murdoch]], [[Elon Musk]], [[Patrick Soon-Shiong]], [[Christophe
 
 ---
 
-### Media and Propaganda — Donors and Backers
+### Media and Propaganda. Donors and Backers
 
 ---
 
@@ -28,7 +28,7 @@ donors: [[Rupert Murdoch]], [[Elon Musk]], [[Patrick Soon-Shiong]], [[Christophe
 
 ---
 
-### The Fox News Ecosystem — Coverage as In-Kind Donation
+### The Fox News Ecosystem. Coverage as In-Kind Donation
 
 [[Rupert Murdoch]] owns Fox News and Fox Corp. The relationship with Trump is symbiotic. Fox provides favorable coverage that benefits Trump's political position. Trump provides deregulation and regulatory forbearance that benefits Murdoch's business interests.
 
@@ -41,11 +41,11 @@ The 2023 Dominion defamation settlement required Fox to pay $787.5 million for b
 Sources:
 - [NBC News: Fox News settles Dominion defamation lawsuit](https://www.nbcnews.com/media/fox-news-settles-dominion-defamation-lawsuit-rcna80285) (Tier 2) (VERIFIED)
 - [FEC Independent Expenditures: Murdoch donor profile](https://www.fec.gov/data/independent-expenditures/?q=K.%20Rupert%20Murdoch) (Tier 1) (VERIFIED)
-- ~~[The Hill: News Corp and Fox Corp Trump account matching](https://thehill.com/homenews/media/5745359-news-fox-corp-matching-federal-contribution-to-trump-accounts/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: News Corp and Fox Corp Trump account matching](https://thehill.com/homenews/media/5745359-news-fox-corp-matching-federal-contribution-to-trump-accounts/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ---
 
-### Sinclair Broadcasting — Must-Run Segments and Corporate Editorial Control
+### Sinclair Broadcasting. Must-Run Segments and Corporate Editorial Control
 
 [[Sinclair Broadcasting Group]] owns 193 local television stations across the United States. This distributed network of ostensibly local news operations functions as a national propaganda apparatus when corporate mandates are imposed from the top.
 
@@ -58,11 +58,11 @@ Sinclair's relationship to Trump was one of tactical alignment, not direct finan
 Sources:
 - [NBC News: Sinclair drops Boris Epshteyn segments](https://www.nbcnews.com/business/business-news/sinclair-drops-boris-epshteyn-other-political-analysts-n1099796) (Tier 2) (VERIFIED)
 - [Media Matters: Sinclair must-run segments](https://www.mediamatters.org/boris-epshteyn/sinclair-broadcast-group-drops-boris-epshteyns-must-run-segments) (Tier 2) (VERIFIED)
-- ~~[The Hill: Sinclair boosting Epshteyn airtime](https://thehill.com/homenews/media/341336-sinclair-boosting-airtime-for-former-trump-official-epshteyn/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Sinclair boosting Epshteyn airtime](https://thehill.com/homenews/media/341336-sinclair-boosting-airtime-for-former-trump-official-epshteyn/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ---
 
-### Trump Media and Truth Social — The Grifted Platform
+### Trump Media and Truth Social. The Grifted Platform
 
 [[Trump Media & Technology Group]] holds the ticker symbol DJT. Trump controls the majority stake in a company structured as a public corporation. The business model does not depend on customers. It depends on stock value.
 
@@ -78,13 +78,13 @@ The pattern is the same as Trump's other branded merchandise. The customer is bu
 
 Sources:
 - [CNN: DJT stock quote and analysis](https://www.cnn.com/markets/stocks/DJT) (Tier 1) (VERIFIED)
-- ~~[Yahoo Finance: Trump Media & Technology Group stock](https://finance.yahoo.com/quote/DJT/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Yahoo Finance: Trump Media & Technology Group stock](https://finance.yahoo.com/quote/DJT/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Variety: Trump Media Q1 2024 revenue and losses](https://variety.com/2024/digital/news/trump-truth-social-media-q1-2024-revenue-net-loss-1236010937/) (Tier 2) (VERIFIED)
 - [StockTitan: Trump Media full year 2025 results](https://www.stocktitan.net/news/DJT/trump-media-technology-group-reports-full-year-2025-4mvfx7xljcai.html) (Tier 3) (VERIFIED)
 
 ---
 
-### Newsmax and OAN — The Extreme Outlet Infrastructure
+### Newsmax and OAN. The Extreme Outlet Infrastructure
 
 [[Christopher Ruddy]] owns Newsmax. Newsmax operates as an outlet more extreme than Fox News, positioned to capture the audience that believes Fox has become insufficiently loyal to Trump.
 
@@ -103,7 +103,7 @@ Sources:
 
 ---
 
-### Elon Musk and Twitter/X — Algorithm Capture and Platform Manipulation
+### Elon Musk and Twitter/X. Algorithm Capture and Platform Manipulation
 
 [[Elon Musk]] purchased Twitter for $44 billion in October 2022. By mid-2024, he had transformed the platform into a MAGA megaphone.
 
@@ -122,7 +122,7 @@ Sources:
 
 ---
 
-### Patrick Soon-Shiong and the Los Angeles Times — Billionaire Editorial Control
+### Patrick Soon-Shiong and the Los Angeles Times. Billionaire Editorial Control
 
 [[Patrick Soon-Shiong]] purchased the Los Angeles Times in 2018. By October 2024, during the presidential election, he exercised direct editorial control in a way that benefited Trump.
 
@@ -137,13 +137,13 @@ In May 2025, Soon-Shiong met with Trump in Saudi Arabia during the president's f
 The pattern is identical across these outlets. Billionaire ownership. Editorial decisions made to benefit Trump. Coverage that provides in-kind value to Trump's political operation. The difference is that Soon-Shiong's ownership of a major newspaper functions at the level of a major metropolitan area's information ecosystem, while Murdoch's Fox operates at national scale.
 
 Sources:
-- ~~[The Hill: LA Times owner meets with Trump in Saudi Arabia](https://thehill.com/homenews/media/5300617-la-times-owner-meets-with-trump-in-saudi-arabia/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: LA Times owner meets with Trump in Saudi Arabia](https://thehill.com/homenews/media/5300617-la-times-owner-meets-with-trump-in-saudi-arabia/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [FAIR: LA Times non-endorsement](https://fair.org/home/la-times-non-endorsement-another-sign-of-our-billionaire-dominated-politics/) (Tier 2) (VERIFIED)
 - [Fox News: Soon-Shiong discusses relationship with Trump](https://www.foxnews.com/media/los-angeles-times-owner-patrick-soon-shiong-discusses-relationship-trump-fight-cure-cancer) (Tier 2) (VERIFIED)
 
 ---
 
-### Jeff Bezos and the Washington Post — Editorial Retreat Under Pressure
+### Jeff Bezos and the Washington Post. Editorial Retreat Under Pressure
 
 [[Jeff Bezos]] purchased the Washington Post in 2013. For a decade it operated as an independent newsroom. By 2024, that arrangement ended.
 
@@ -167,7 +167,7 @@ Sources:
 
 ---
 
-### Class Analysis — Media as Donor Infrastructure vs. Journalism
+### Class Analysis. Media as Donor Infrastructure vs. Journalism
 
 The outlets documented above are not neutral. They are owned by billionaires whose ownership structure aligns them with Trump's donor class. The coverage decisions are not primarily editorial decisions. They are business decisions made by owners whose interests are served by Trump's policies.
 

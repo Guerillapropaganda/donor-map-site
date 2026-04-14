@@ -27,9 +27,9 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### Who They Are
 
-The Health Insurance Industry Bloc. The combined political operation of America's health insurance industry: UnitedHealth Group ($371 billion revenue), Elevance Health ($170 billion), Cigna ($195 billion), CVS/Aetna ($357 billion), Humana ($106 billion), and the Blue Cross Blue Shield Association (covering 115 million Americans). Collectively, these companies control 90%+ of the private health insurance market and deploy $175-200 million annually in lobbying — the second-largest industry lobbying spend after pharmaceuticals.
+The Health Insurance Industry Bloc. The combined political operation of America's health insurance industry: UnitedHealth Group ($371 billion revenue), Elevance Health ($170 billion), Cigna ($195 billion), CVS/Aetna ($357 billion), Humana ($106 billion), and the Blue Cross Blue Shield Association (covering 115 million Americans). Collectively, these companies control 90%+ of the private health insurance market and deploy $175-200 million annually in lobbying, the second-largest industry lobbying spend after pharmaceuticals.
 
-The industry's trade association, America's Health Insurance Plans (AHIP), coordinates lobbying strategy and messaging. The insurance lobby's greatest victory: killing the public option in 2009-2010 and shaping the ACA's architecture to mandate private insurance coverage — converting a healthcare reform into an insurance industry business plan.
+The industry's trade association, America's Health Insurance Plans (AHIP), coordinates lobbying strategy and messaging. The insurance lobby's greatest victory: killing the public option in 2009-2010 and shaping the ACA's architecture to mandate private insurance coverage, converting a healthcare reform into an insurance industry business plan.
 
 - [FEC Receipts: Health insurance industry lobbying](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
 

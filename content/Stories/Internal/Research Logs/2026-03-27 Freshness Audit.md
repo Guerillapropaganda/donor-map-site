@@ -7,7 +7,7 @@ source-tier: null
 parent: null
 ---
 
-# 2026-03-27 Freshness Audit — Cross-Section Integration Gap Report
+# 2026-03-27 Freshness Audit. Cross-Section Integration Gap Report
 
 **Automated run.** Audits "ready" profiles that predate the three new vault sections completed 2026-03-25: Media & Influence Pipeline, Think Tanks & Policy Infrastructure, and Lobbying Firms & K Street.
 
@@ -18,11 +18,11 @@ parent: null
 | Metric | Count |
 |--------|-------|
 | Total "ready" files scanned | 551 |
-| — Donor nodes (ready) | 349 |
-| — Politician master profiles (ready) | 202 |
+|. Donor nodes (ready) | 349 |
+|. Politician master profiles (ready) | 202 |
 | Stale files (last-updated before 2026-03-25) | **489** |
-| — Stale donor nodes | 321 |
-| — Stale politician profiles | 168 |
+|. Stale donor nodes | 321 |
+|. Stale politician profiles | 168 |
 | Stale files missing ALL three cross-section link types | **466 (95%)** |
 | Stale files missing at least one cross-section link type | **489 (100%)** |
 
@@ -38,13 +38,13 @@ parent: null
 | Think Tanks & Policy Infrastructure | 2026-03-25 | 25 profiles |
 | Lobbying Firms & K Street | 2026-03-25 | 22 profiles |
 | Fox News institutional profile | 2026-03-26 | 1 file |
-| Cross-Section Integration Protocol adopted | 2026-03-26 | — |
+| Cross-Section Integration Protocol adopted | 2026-03-26 |, |
 
-Any "ready" file with `last-updated` before 2026-03-25 was built before these sections existed. These KEY DATES appear current as of this audit run (2026-03-27) — no new sections have been detected since 2026-03-26.
+Any "ready" file with `last-updated` before 2026-03-25 was built before these sections existed. These KEY DATES appear current as of this audit run (2026-03-27), no new sections have been detected since 2026-03-26.
 
 ---
 
-## Donor Nodes — Top 20 Flagged Files
+## Donor Nodes. Top 20 Flagged Files
 
 Sorted by total vault reference count (most-referenced first). Cross-section links checked via wikilink scan only (not plain-text mention).
 
@@ -75,7 +75,7 @@ Sorted by total vault reference count (most-referenced first). Cross-section lin
 
 ---
 
-## Politician Master Profiles — Top 20 Flagged Files
+## Politician Master Profiles. Top 20 Flagged Files
 
 Sorted by total vault reference count. All 20 are missing all three cross-section link types.
 
@@ -104,7 +104,7 @@ Sorted by total vault reference count. All 20 are missing all three cross-sectio
 
 ---
 
-## Priority Action List — Top 10 Files to Update
+## Priority Action List. Top 10 Files to Update
 
 Ranked by **Score = reference count × number of missing cross-section link types**. Higher score = higher structural impact from integration gap.
 
@@ -124,15 +124,15 @@ Ranked by **Score = reference count × number of missing cross-section link type
 ### What "updating" means for each file
 
 For each file, cross-section integration requires adding wikilinks in the appropriate sections:
-- **Media links**: Add `[[Media Personality Name]]` references in donor's "What They Want" or politician's "Rhetorical Signature Moves" / "Donor Class Map" sections, pointing to relevant Media & Influence Pipeline profiles (e.g., Fox News anchors for right-wing donors, MSNBC hosts for Dem-aligned donors)
-- **Think Tank links**: Add `[[Think Tank Name]]` wikilinks in "Policy Return" analysis sections, pointing to think tanks that received funding or produced policy justifications (e.g., Heritage Foundation for Koch-adjacent donors, Brookings for Wall Street Dems)
+- **Media links**: Add `[[Media Personality Name]]` references in donor's "What They Want" or politician's "Rhetorical Signature Moves" / "Donor Class Map" sections, pointing to relevant Media & Influence Pipeline profiles (e.g. Fox News anchors for right-wing donors, MSNBC hosts for Dem-aligned donors)
+- **Think Tank links**: Add `[[Think Tank Name]]` wikilinks in "Policy Return" analysis sections, pointing to think tanks that received funding or produced policy justifications (e.g. Heritage Foundation for Koch-adjacent donors, Brookings for Wall Street Dems)
 - **Lobbying links**: Add `[[Lobbying Firm Name]]` wikilinks in "Revolving Door" or "Policy Return" sections, pointing to K Street firms that lobbied on the donor's behalf or employed their revolving-door staff
 
 ---
 
 ## Methodology Notes
 
-- **Cross-section link check**: Wikilink scan only (`[[...]]` patterns). Plain-text mentions of firm names are not counted as cross-links.
+- **Cross-section link check**: Wikilink scan only (`[[..]]` patterns). Plain-text mentions of firm names are not counted as cross-links.
 - **Reference count**: Number of `[[stem]]` wikilinks to the file found across the entire vault (all `.md` files).
 - **Stale threshold**: `last-updated` before 2026-03-25 (day the new sections were completed).
 - **Excluded from politician scan**: `_README.md` files. Only files starting with `_` are treated as master profiles.
@@ -142,7 +142,7 @@ For each file, cross-section integration requires adding wikilinks in the approp
 
 ## KEY DATES Status Check
 
-As of 2026-03-27, no new vault sections appear to have been completed beyond those listed in the task configuration. The KEY DATES in the scheduled task prompt are current. If David adds new sections (e.g., additional Media Pipeline expansions, new lobbying firm builds), the task configuration should be updated to reflect the new completion date.
+As of 2026-03-27, no new vault sections appear to have been completed beyond those listed in the task configuration. The KEY DATES in the scheduled task prompt are current. If David adds new sections (e.g. additional Media Pipeline expansions, new lobbying firm builds), the task configuration should be updated to reflect the new completion date.
 
 ---
 

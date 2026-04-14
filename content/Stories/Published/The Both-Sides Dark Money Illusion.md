@@ -17,7 +17,7 @@ source-types:
 
 ### The Symmetry Argument
 
-Both parties claim the other's dark money network is corrupting democracy while operating their own. Democrats point to DonorsTrust, the Koch network, and the Judicial Crisis Network. Republicans point to Arabella Advisors, the Sixteen Thirty Fund, and Demand Justice. Both are correct — and both use this symmetry to justify their own dark money operations.
+Both parties claim the other's dark money network is corrupting democracy while operating their own. Democrats point to DonorsTrust, the Koch network, and the Judicial Crisis Network. Republicans point to Arabella Advisors, the Sixteen Thirty Fund, and Demand Justice. Both are correct, and both use this symmetry to justify their own dark money operations.
 
 ---
 
@@ -27,7 +27,7 @@ Both parties claim the other's dark money network is corrupting democracy while 
 - DonorsTrust / Donors Capital Fund: $1 billion+ distributed since 1999 to conservative organizations without disclosing original donors
 - Judicial Crisis Network (now Concord Fund): $30-50 million per judicial confirmation cycle, funded judicial confirmations from Gorsuch through Barrett
 - Koch Network: Americans for Prosperity, Stand Together, and dozens of affiliated organizations spending $400-500 million per cycle
-- Marble Freedom Trust (Leonard Leo): $1.6 billion from a single donation (Barre Seid, 2020) — the largest known political donation in American history
+- Marble Freedom Trust (Leonard Leo): $1.6 billion from a single donation (Barre Seid, 2020), the largest known political donation in American history
 
 ### Liberal Dark Money Infrastructure:
 - Arabella Advisors: Manages a network of pass-through organizations (Sixteen Thirty Fund, New Venture Fund, Windward Fund, Hopewell Fund) that collectively spent $1.6+ billion from 2020-2022
@@ -43,7 +43,7 @@ Dark money serves identical structural functions for both parties: it allows wea
 
 **Issue Advocacy Without Disclosure:** 501(c)(4) organizations can spend unlimited amounts on "issue advocacy" without disclosing donors. This creates a channel for corporations and billionaires to fund political campaigns through intermediary organizations that obscure the money's origin.
 
-**Judicial Nominations:** Both sides use dark money to fund judicial confirmation campaigns — advertising, opposition research, and grassroots pressure on senators. The judicial dark money system ensures that lifetime-appointed judges are selected through a process influenced by anonymous donors.
+**Judicial Nominations:** Both sides use dark money to fund judicial confirmation campaigns, advertising, opposition research, and grassroots pressure on senators. The judicial dark money system ensures that lifetime-appointed judges are selected through a process influenced by anonymous donors.
 
 **State-Level Policy:** Dark money organizations fund state legislative campaigns, ballot initiatives, and regulatory advocacy. ALEC (conservative) and the State Innovation Exchange (progressive) both channel policy recommendations to state legislators, funded by undisclosed donors.
 

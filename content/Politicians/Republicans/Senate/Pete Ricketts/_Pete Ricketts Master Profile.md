@@ -1,5 +1,5 @@
 ---
-title: "Pete Ricketts Master Profile"
+title: "Pete Ricketts"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

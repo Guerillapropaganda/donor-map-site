@@ -22,7 +22,7 @@ court-jurisdictions:
   - "District Court, E.D. Pennsylvania"
 ein: "393347513"
 nonprofit-status: "501(c)(3)"
-related: "[[Goldman Sachs]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[Urban Institute]] · [[Center for American Progress]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Brennan Center for Justice]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Mercatus Center]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[RAND Corporation]] · [[Council on Foreign Relations]] · [[Center for a New American Security]] · [[Brookings Institution]] · [[Atlantic Council]]"
+related: "[[Goldman Sachs]] · [[The Think Tank Money Map , Budget, Funding Sources, and the Illusion of Independence]] · [[Urban Institute]] · [[Center for American Progress]] · [[The Revolving Door , A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline , How Think Tank Research Becomes Law]] · [[Brennan Center for Justice]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Cross-Think-Tank Donor Map , The Both-Sides Illusion With Receipts]] · [[Mercatus Center]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[RAND Corporation]] · [[Council on Foreign Relations]] · [[Center for a New American Security]] · [[Brookings Institution]] · [[Atlantic Council]]"
 lei: "8156003490CA31174D93"
 lei-jurisdiction: "IT"
 sec-filings: 4003
@@ -243,17 +243,17 @@ The Bezos endowment marks a new phase: institutional capture by a single mega-do
 - [OpenSecrets: Aspen Institute profile](https://www.opensecrets.org/orgs/aspen-institute/summary?id=D000044180) (Tier 1) (VERIFIED)
 - [Washington Free Beacon: How the Aspen Institute Helps Deep-Pocketed Donors Influence Congress (2025)](https://freebeacon.com/politics/how-the-aspen-institute-helps-deep-pocketed-donors-influence-congress/) (Tier 2) (VERIFIED)
 - [Aspen Institute: Congressional Program](https://www.aspeninstitute.org/programs/congressional-program/) (Tier 3) (VERIFIED)
-- ~~[Aspen Institute: Transparency page (contributor list)](https://www.aspeninstitute.org/transparency/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
-- ~~[Aspen Institute: Statement of Standards](https://www.aspeninstitute.org/statement-of-standards/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[Aspen Institute: Transparency page (contributor list)](https://www.aspeninstitute.org/transparency/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[Aspen Institute: Statement of Standards](https://www.aspeninstitute.org/statement-of-standards/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Wikipedia: Aspen Ideas Festival](https://en.wikipedia.org/wiki/Aspen_Ideas_Festival) (Tier 3) (VERIFIED)
 - [Aspen Daily News: Aspen Institute crafts conflict of interest policy](https://www.aspendailynews.com/aspen-institute-crafts-conflict-of-interest-policy/article_684f8195-d8aa-51c1-b61b-8dba98aef0e0.html) (Tier 2) (VERIFIED)
 - [CPR News: When Congress Members Travel the World on Private Dime, Their Families Do Too](https://www.cpr.org/2024/09/24/congress-members-and-family-travel-paid-by-private-interest-groups/) (Tier 2) (VERIFIED)
-- ~~[Aspen Institute: Aspen Institute and Bezos Family Foundation Announce Center for Rising Generations](https://www.aspeninstitute.org/news/aspen-institute-announces-center-for-rising-generations/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
-- ~~[SourceWatch: Aspen Institute / Aspen Strategy Group](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch?title=Aspen_Institute_/_Aspen_Strategy_Group)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[Aspen Institute: Aspen Institute and Bezos Family Foundation Announce Center for Rising Generations](https://www.aspeninstitute.org/news/aspen-institute-announces-center-for-rising-generations/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[SourceWatch: Aspen Institute / Aspen Strategy Group](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch?title=Aspen_Institute_/_Aspen_Strategy_Group)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [New Republic: The Atlantic Is Better Off Without the Aspen Ideas Festival, criticism of corporate sponsorship inhibiting subversive ideas (2021)](https://newrepublic.com/article/164189/atlantic-nbc-aspen-ideas-festival) (Tier 2) (VERIFIED)
 - [Aspen Journalism: The Aspen 50. Forbes billionaires in Pitkin County (2024)](https://aspenjournalism.org/the-aspen-50-forbes-billionaires-in-pitkin-county/) (Tier 3) (VERIFIED)
 - [Aspen Times: 'Globalism' prompts Pentagon to withdraw senior military officials from Aspen Security Forum (Jul 2025)](https://www.aspentimes.com/news/globalism-prompts-pentagon-to-withdraw-senior-military-officials-from-aspen-security-forum/) (Tier 2) (VERIFIED)
-- ~~[Aspen Institute: Dan Porterfield to Complete Transformational Tenure as President and CEO in Summer 2026 (Sep 2025)](https://www.aspeninstitute.org/blog-posts/dan-porterfield-to-complete-transformational-tenure-as-aspen-institute-president-and-ceo-in-summer-2026/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[Aspen Institute: Dan Porterfield to Complete Transformational Tenure as President and CEO in Summer 2026 (Sep 2025)](https://www.aspeninstitute.org/blog-posts/dan-porterfield-to-complete-transformational-tenure-as-aspen-institute-president-and-ceo-in-summer-2026/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->

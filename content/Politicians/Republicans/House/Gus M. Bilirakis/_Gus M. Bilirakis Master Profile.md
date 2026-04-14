@@ -1,5 +1,5 @@
 ---
-title: "Gus M. Bilirakis Master Profile"
+title: "Gus M. Bilirakis"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

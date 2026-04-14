@@ -56,7 +56,7 @@ This response is characteristic: It acknowledges California's longer closures wi
 
 ### The Structural Reality: Superintendent vs. Districts
 
-The superintendent's actual legal power is limited. California's superintendent does not directly control districts — California has nearly 1,000 school districts with elected or appointed boards that govern their own operations. The superintendent's role is advisory and representative.
+The superintendent's actual legal power is limited. California's superintendent does not directly control districts. California has nearly 1,000 school districts with elected or appointed boards that govern their own operations. The superintendent's role is advisory and representative.
 
 During COVID-19:
 - Local districts made closure decisions
@@ -105,7 +105,7 @@ Charter school billionaires assembled $22.5M for an independent committee suppor
 Hastings' $7M was the largest single contribution to any 2018 candidate or initiative. The charter school money was massive and concentrated.
 
 ### 2026 Outlook:
-If Villaraigosa remains viable in the 2026 race, charter school billionaires will likely deploy similar money against Thurmond. A CTA-backed Thurmond would become the explicit target of billionaire education reform money — creating a direct donor-war dynamic: billionaires vs. teachers union.
+If Villaraigosa remains viable in the 2026 race, charter school billionaires will likely deploy similar money against Thurmond. A CTA-backed Thurmond would become the explicit target of billionaire education reform money, creating a direct donor-war dynamic: billionaires vs. teachers union.
 
 ### The Class Analysis:
 This is the clearest donor-class contest in the 2026 race:
@@ -164,7 +164,7 @@ The CTA non-endorsement through March 2026 may reflect CTA's uncertainty about w
 ### Sources
 
 - [EdSource: Schools chief uses influence to shape policy during pandemic, but lacks power to make big decisions](https://edsource.org/2021/state-schools-chief-lacks-power-to-make-big-decisions-uses-influence-to-shape-policy-during-pandemic/651480) (Tier 2) (VERIFIED)
-- [CalMatters: Billionaires vs teachers union — charter school fight amps up race for California governor](https://calmatters.org/education/2018/05/billionaires-vs-teachers-union-a-fight-over-charter-schools-amps-up-race-for-california-governor/) (Tier 2) (VERIFIED)
+- [CalMatters: Billionaires vs teachers union, charter school fight amps up race for California governor](https://calmatters.org/education/2018/05/billionaires-vs-teachers-union-a-fight-over-charter-schools-amps-up-race-for-california-governor/) (Tier 2) (VERIFIED)
 - [EdSource: Tony Thurmond cruises to reelection as California state superintendent](https://edsource.org/2022/tony-thurmond-cruises-to-re-election-as-california-state-superintendent/681035) (Tier 2) (VERIFIED)
-- ~~[San Diego Union-Tribune: Netflix CEO Reed Hastings donates $7 million to pro-Villaraigosa group](https://www.sandiegouniontribune.com/la-pol-ca-essential-politics-updates-netflix-ceo-and-ed-reform-advocate-reed-1523495119-htmlstory.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[San Diego Union-Tribune: Netflix CEO Reed Hastings donates $7 million to pro-Villaraigosa group](https://www.sandiegouniontribune.com/la-pol-ca-essential-politics-updates-netflix-ceo-and-ed-reform-advocate-reed-1523495119-htmlstory.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 

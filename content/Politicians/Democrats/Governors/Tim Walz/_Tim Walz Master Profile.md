@@ -38,11 +38,11 @@ fec-cycle: 2018
 
 ## Who They Are
 
-Tim Walz is Vice President of the United States (2025–present, under Kamala Harris). He was Governor of Minnesota (2019–2025) and represented Minnesota's 1st Congressional District in the U.S. House (2007–2019). Before politics, Walz was a public school teacher and football coach, served 24 years in the Minnesota Army National Guard, and lived in a rural district. His political brand is "authentic working-class Democrat" — the anti-Hillary Clinton to compensate for Harris's donor-class image.
+Tim Walz is Vice President of the United States (2025–present, under Kamala Harris). He was Governor of Minnesota (2019–2025) and represented Minnesota's 1st Congressional District in the U.S. House (2007–2019). Before politics, Walz was a public school teacher and football coach, served 24 years in the Minnesota Army National Guard, and lived in a rural district. His political brand is "authentic working-class Democrat", the anti-Hillary Clinton to compensate for Harris's donor-class image.
 
 ## The Central Thesis
 
-Walz's authenticity is genuine: he taught school, coached football, served in the National Guard, and built Minnesota Democratic politics through labor union relationships rather than Wall Street finance. The question is whether this authenticity translates to policy independence from donor classes or whether he represents the newest iteration of the two-audience problem — a working-class messenger delivering centrist policy to working-class audiences while reassuring the professional class that nothing fundamental will change.
+Walz's authenticity is genuine: he taught school, coached football, served in the National Guard, and built Minnesota Democratic politics through labor union relationships rather than Wall Street finance. The question is whether this authenticity translates to policy independence from donor classes or whether he represents the newest iteration of the two-audience problem, a working-class messenger delivering centrist policy to working-class audiences while reassuring the professional class that nothing fundamental will change.
 
 ## The Core Contradiction
 
@@ -78,26 +78,26 @@ Walz's authenticity is genuine: he taught school, coached football, served in th
 Walz performs authentic working-class politics through rhetoric, personal narrative, and labor union relationships. Simultaneously, his governance serves centrist corporate interests through tax policy, healthcare preservation, and regulatory capture. Different audiences see different Walz: workers see the public school teacher; corporations see the business-friendly governor. Both versions are real; they're just aimed at different audiences.
 
 ### Pattern: Authenticity as Political Technology
-Walz's working-class authenticity is not fake — his teaching and coaching careers are genuine. However, his authenticity is deployed politically as a tool to build trust with working-class audiences who will then accept centrist policy that does not serve their material interests. It's the newest version of the populist bait-and-switch: "He's one of us, so he would never betray us." That premise masks centrist governance.
+Walz's working-class authenticity is not fake, his teaching and coaching careers are genuine. However, his authenticity is deployed politically as a tool to build trust with working-class audiences who will then accept centrist policy that does not serve their material interests. It's the newest version of the populist bait-and-switch: "He's one of us, so he would never betray us." That premise masks centrist governance.
 
 ### Pattern: Genuine Win + Structural Limit
 As Minnesota Governor, Walz achieved real wins: Medicaid expansion (real healthcare for vulnerable people), paid family leave (real support for working families), public school funding increases (real for teachers and students), and Minneapolis 2040 zoning reform (real opportunity for housing affordability). All are genuine. All operate within limits: Medicaid expansion preserves insurance industry profits; paid leave does not challenge work culture; school funding does not reorient school purpose toward working-class economic power; zoning reform does not redistribute ownership of housing stock to workers.
 
 ## Class Analysis
 
-Walz represents the labor-aligned lane of Democratic politics that has been nearly invisible since the 1980s — a politician genuinely rooted in union politics and working-class life. His presence on the Harris ticket was a strategic choice to address the authenticity gap the Biden-Harris administration faced with working-class voters.
+Walz represents the labor-aligned lane of Democratic politics that has been nearly invisible since the 1980s, a politician genuinely rooted in union politics and working-class life. His presence on the Harris ticket was a strategic choice to address the authenticity gap the Biden-Harris administration faced with working-class voters.
 
-The question is whether this authenticity can translate to policy independence or whether Walz will become the translator between working-class voters and donor-class policy — the person who speaks workers' language while delivering capital's agenda. His Minnesota record suggests the latter. His VP role, which requires managing Harris's donor relationships, points in the same direction.
+The question is whether this authenticity can translate to policy independence or whether Walz will become the translator between working-class voters and donor-class policy, the person who speaks workers' language while delivering capital's agenda. His Minnesota record suggests the latter. His VP role, which requires managing Harris's donor relationships, points in the same direction.
 
-He is not compromised in the transactional sense. He believes in progressive values and labor solidarity. The trap is more sophisticated: he can deliver real wins on specific issues while the overall structure — the fact that corporations dominate policy outcomes — remains intact. That's the structural function of labor-aligned Democrats in a donor-class system: manage working-class politics safely while preserving capital's ultimate authority.
+He is not compromised in the transactional sense. He believes in progressive values and labor solidarity. The trap is more sophisticated: he can deliver real wins on specific issues while the overall structure, the fact that corporations dominate policy outcomes, remains intact. That's the structural function of labor-aligned Democrats in a donor-class system: manage working-class politics safely while preserving capital's ultimate authority.
 
 ## Sources
 
 - [Minnesota Secretary of State Campaign Finance: Tim Walz](https://www.sos.state.mn.us/) (Tier 1) (NEEDS REVIEW)
-- ~~[Open Secrets: Tim Walz Political Profile](https://www.opensecrets.org/politicians/tim-walz)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Open Secrets: Tim Walz Political Profile](https://www.opensecrets.org/politicians/tim-walz)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [House Clerk: Tim Walz Congressional Voting Record](https://clerk.house.gov/) (Tier 1) (VERIFIED)
 - [Minnesota State Legislature: Tim Walz Bills](https://www.revisor.mn.gov/) (Tier 1) (VERIFIED)
-- ~~[FEC 2024 Vice Presidential Campaign Finance](https://www.fec.gov/data/candidate/P00010802/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[FEC 2024 Vice Presidential Campaign Finance](https://www.fec.gov/data/candidate/P00010802/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [CalMatters: Harris-Walz Ticket Donor Analysis](https://calmatters.org/) (Tier 2) (VERIFIED)
 - [Minnesota Public Radio: Walz Governorship Policy Record](https://www.mprnews.org/) (Tier 2) (VERIFIED)
 

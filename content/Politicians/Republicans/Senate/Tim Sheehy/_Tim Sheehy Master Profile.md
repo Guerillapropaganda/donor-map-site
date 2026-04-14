@@ -1,5 +1,5 @@
 ---
-title: "Tim Sheehy Master Profile"
+title: "Tim Sheehy"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

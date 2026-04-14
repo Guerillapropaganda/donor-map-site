@@ -8,7 +8,7 @@ parent: null
 sector: "Defense & Intelligence"
 entity-type: "Corporation"
 featured-date: "2026-04-10"
-spotlight-reason: "Highest reach in the database — funds 22 politicians across both parties. Board members cycle through Pentagon leadership. Defense budget hit $886B."
+spotlight-reason: "Highest reach in the database , funds 22 politicians across both parties. Board members cycle through Pentagon leadership. Defense budget hit $886B."
 shareable-stat: "22 politicians funded. Board-to-Pentagon pipeline. $886B defense budget."
 politicians-funded:
   - "Donald Trump"
@@ -376,8 +376,8 @@ RTX represents the defense sector's structural capture of the American state. Th
 - [OpenSecrets: RTX Corp Profile](https://www.opensecrets.org/orgs/rtx-corp/summary?id=D000072615) (Tier 1) (VERIFIED)
 - [OpenSecrets: RTX PAC Candidate Recipients 2024](https://www.opensecrets.org/political-action-committees-pacs/rtx-corp/C00097568/candidate-recipients/2024) (Tier 1) (VERIFIED)
 - [Senate LDA Filings: RTX Lobbying Profile](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
-- ~~[OpenSecrets: Mark Esper Revolving Door Profile](https://www.opensecrets.org/revolving-door/esper-mark/summary?id=70733)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[OpenSecrets: Lloyd Austin Revolving Door Profile](https://www.opensecrets.org/revolving-door/lloyd-austin/summary?id=82688)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Mark Esper Revolving Door Profile](https://www.opensecrets.org/revolving-door/esper-mark/summary?id=70733)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Lloyd Austin Revolving Door Profile](https://www.opensecrets.org/revolving-door/lloyd-austin/summary?id=82688)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [RTX 2025 Annual Results](https://www.rtx.com/news/news-center/2026/01/27/rtx-reports-2025-results-and-announces-2026-outlook/) (VERIFIED)
 - [RTX 2024 Annual Results](https://raytheon.mediaroom.com/2025-01-28-RTX-Reports-2024-Results-and-Announces-2025-Outlook) (VERIFIED)
 - [House Foreign Affairs Committee: Faulkner deposition excerpts](https://democrats-foreignaffairs.house.gov/_cache/files/9/7/974fcf1a-f596-4775-b15d-c543996d12fe/E1BDC43C68CEB64B31CF8C5ADB217899.faulkner-excerpts.pdf) (VERIFIED)

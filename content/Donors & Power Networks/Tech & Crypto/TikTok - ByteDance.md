@@ -36,7 +36,7 @@ TikTok's political significance: the app has become the battlefield for U.S.-Chi
 
 ### What They Want
 
-Survival: preventing the forced sale or ban of TikTok's U.S. operations. TikTok has offered "Project Texas" — a plan to store U.S. user data on Oracle servers in the United States, with CFIUS oversight — as an alternative to divestiture. The company lobbies for any solution that preserves ByteDance ownership while addressing national security concerns.
+Survival: preventing the forced sale or ban of TikTok's U.S. operations. TikTok has offered "Project Texas", a plan to store U.S. user data on Oracle servers in the United States, with CFIUS oversight, as an alternative to divestiture. The company lobbies for any solution that preserves ByteDance ownership while addressing national security concerns.
 
 ---
 
@@ -54,7 +54,7 @@ The Supreme Court upheld the law in January 2025. The implementation has been co
 ### Sources
 
 - [OpenSecrets: TikTok/ByteDance lobbying](https://www.opensecrets.org/orgs/bytedance-inc/summary?id=D000073174) (Tier 1) (VERIFIED)
-- ~~[Congress.gov: Protecting Americans from Foreign Adversary Controlled Applications Act](https://www.congress.gov/bill/118th-congress/house-bill/7521)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Protecting Americans from Foreign Adversary Controlled Applications Act](https://www.congress.gov/bill/118th-congress/house-bill/7521)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Supreme Court: TikTok v. Garland](https://www.supremecourt.gov/search.aspx?Search=TikTok%20-%20ByteDance) (Tier 1) (VERIFIED)
 - [Ballotpedia: TikTok ban](https://ballotpedia.org/TikTok_-_ByteDance) (Tier 3) (VERIFIED)
 

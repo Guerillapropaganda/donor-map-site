@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: centrist
 tax-status: 501c3
-related: "[[Koch Network - Charles Koch]] · [[Goldman Sachs]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Center for American Progress]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Economic Policy Institute]] · [[Center on Budget and Policy Priorities]] · [[Brennan Center for Justice]] · [[Mercatus Center]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[Council on Foreign Relations]] · [[Center for a New American Security]] · [[Brookings Institution]] · [[Atlantic Council]] · [[Aspen Institute]]"
+related: "[[Koch Network - Charles Koch]] · [[Goldman Sachs]] · [[Cross-Think-Tank Donor Map , The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Center for American Progress]] · [[The Think Tank Money Map , Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door , A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline , How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Economic Policy Institute]] · [[Center on Budget and Policy Priorities]] · [[Brennan Center for Justice]] · [[Mercatus Center]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[Council on Foreign Relations]] · [[Center for a New American Security]] · [[Brookings Institution]] · [[Atlantic Council]] · [[Aspen Institute]]"
 ein: "951958142"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-08"
@@ -190,7 +190,7 @@ RAND's revolving door operates differently from most think tanks. Rather than a 
 - Nuclear deterrence doctrine that sustained Cold War-era military budgets for 45 years
 - Counterinsurgency theory that extended U.S. involvement in Vietnam
 - Post-9/11 analysis supporting expanded military and intelligence operations
-- $500 million in FFRDC contracts (2017–2019) producing research that recommends.. more defense spending
+- $500 million in FFRDC contracts (2017–2019) producing research that recommends. more defense spending
 
 ### Open Philanthropy / tech billionaires got:
 - Direct influence on Biden's AI Executive Order through RAND-drafted reporting requirements
@@ -231,20 +231,20 @@ The Daniel Ellsberg case is the exception that proves the rule. When a RAND anal
 ### Sources
 
 - [ProPublica Nonprofit Explorer: Rand Corporation (EIN 95-1958142)](https://projects.propublica.org/nonprofits/organizations/951958142) (Tier 1) (VERIFIED)
-- ~~[RAND: A Brief History of the RAND Corporation](https://www.rand.org/about/history.html)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
-- ~~[RAND: How We Are Funded. List of Funders FY2025](https://www.rand.org/about/how-we-are-funded.html)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
-- ~~[RAND: About RAND](https://www.rand.org/about.html)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
-- ~~[RAND: Federally Funded Research and Development Centers](https://www.rand.org/about/ffrdc.html)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
-- ~~[RAND: Leadership and Board of Trustees](https://www.rand.org/about/leadership.html)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
-- ~~[RAND: Consolidated Financial Statements FY2024 and FY2023](https://www.rand.org/pubs/corporate_pubs/CPA1263.html)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[RAND: 2024 Annual Report](https://www.rand.org/pubs/corporate_pubs/CPA1065-5.html)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
-- ~~[RAND: Jason Matheny Named President and CEO](https://www.rand.org/news/press/2022/06/07.html)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[RAND: A Brief History of the RAND Corporation](https://www.rand.org/about/history.html)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[RAND: How We Are Funded. List of Funders FY2025](https://www.rand.org/about/how-we-are-funded.html)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[RAND: About RAND](https://www.rand.org/about.html)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[RAND: Federally Funded Research and Development Centers](https://www.rand.org/about/ffrdc.html)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[RAND: Leadership and Board of Trustees](https://www.rand.org/about/leadership.html)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[RAND: Consolidated Financial Statements FY2024 and FY2023](https://www.rand.org/pubs/corporate_pubs/CPA1263.html)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[RAND: 2024 Annual Report](https://www.rand.org/pubs/corporate_pubs/CPA1065-5.html)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[RAND: Jason Matheny Named President and CEO](https://www.rand.org/news/press/2022/06/07.html)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [OpenSecrets: Rand Corp Profile](https://www.opensecrets.org/orgs/rand-corp/summary?id=D000036957) (Tier 1) (VERIFIED)
 - [Inkstick Media: How Pentagon Spending Perpetuates Pentagon Spending](https://inkstickmedia.com/how-pentagon-spending-perpetuates-pentagon-spending/) (Tier 2) (VERIFIED)
-- ~~[Project on Government Oversight: Brass Parachutes. The Problem of the Pentagon Revolving Door](https://www.pogo.org/reports/brass-parachutes)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Project on Government Oversight: Brass Parachutes. The Problem of the Pentagon Revolving Door](https://www.pogo.org/reports/brass-parachutes)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [InfluenceWatch: RAND Corporation](https://www.influencewatch.org/non-profit/rand-corporation/) (Tier 3) (VERIFIED)
 - [Wikipedia: RAND Corporation](https://en.wikipedia.org/wiki/RAND_Corporation) (Tier 3) (VERIFIED)
-- ~~[RAND: Matthew Pottinger and Stefanie Tompkins Elected to Board](https://www.rand.org/news/press/2025/03/matthew-pottinger-and-stefanie-tompkins-elected-to.html)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[RAND: Matthew Pottinger and Stefanie Tompkins Elected to Board](https://www.rand.org/news/press/2025/03/matthew-pottinger-and-stefanie-tompkins-elected-to.html)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Surf Santa Monica: RAND Lays Off Nearly One-Third of Remaining Workforce](https://www.surfsantamonica.com/ssm_site/the_lookout/news/News-2025/October-2025/10_24_2025_RAND_Lays_Off_Nearly_One_Third_of_Remaining_Workforce.html) (Tier 3) (VERIFIED)
 
 ### Tax Filings (IRS 990)

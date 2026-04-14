@@ -9,7 +9,7 @@ status: open
 
 Three optional free services that add monitoring without needing code changes. Set them up when you have 15 min. Skip any you don't want.
 
-## 1. UptimeRobot — Is the site down?
+## 1. UptimeRobot. Is the site down?
 
 **What it does.** Pings thedonormap.org every 5 minutes. Emails / texts you within 5 min if it goes down.
 
@@ -31,9 +31,9 @@ Done. You'll only hear from UptimeRobot when something breaks.
 
 ---
 
-## 2. Healthchecks.io — Did the dispatcher stop running?
+## 2. Healthchecks.io. Did the dispatcher stop running?
 
-**What it does.** The Attention Dispatcher is supposed to run every 30 min. If it stops (crash, laptop asleep, bug), you never find out — the Attention Queue just goes stale silently. Healthchecks.io fixes that. The dispatcher pings a unique URL every time it runs. If Healthchecks stops hearing from it, it emails you.
+**What it does.** The Attention Dispatcher is supposed to run every 30 min. If it stops (crash, laptop asleep, bug), you never find out, the Attention Queue just goes stale silently. Healthchecks.io fixes that. The dispatcher pings a unique URL every time it runs. If Healthchecks stops hearing from it, it emails you.
 
 **Why.** Silent automation failures are the worst kind. A dead scheduler looks exactly like a working one from the outside.
 
@@ -51,9 +51,9 @@ After that, if the dispatcher ever stops running for 40 minutes, you get an emai
 
 ---
 
-## 3. Sentry — JS errors in the Ops app
+## 3. Sentry. JS errors in the Ops app
 
-**What it does.** Captures every uncaught exception in the Ops app (localhost:3333) — stack trace, URL, user action, timestamp. Free tier is 5k events/month which is way more than you'll ever hit solo.
+**What it does.** Captures every uncaught exception in the Ops app (localhost:3333), stack trace, URL, user action, timestamp. Free tier is 5k events/month which is way more than you'll ever hit solo.
 
 **Why.** Right now, if the Ops app crashes silently, you just see a blank screen. Sentry gives you the exact line and reproduction steps.
 
@@ -68,11 +68,11 @@ After that, if the dispatcher ever stops running for 40 minutes, you get an emai
 
 ## What I already installed locally (no accounts needed)
 
-- `husky` — git hooks manager
-- `.husky/pre-commit` — blocks em dashes, banned AI vocab, defamation-prone words, verified-profile regressions, broken YAML, duplicate bioguide IDs
-- `.husky/pre-push` — runs `tsc --noEmit` to catch TypeScript errors before they reach GitHub Actions
-- `scripts/attention-dispatcher.cjs` — background scheduler that auto-runs all 5 Attention Queue producers every 30 min to 2 hr
-- `scripts/attention-dispatcher.bat` — double-click to start the dispatcher on Windows
+- `husky`, git hooks manager
+- `.husky/pre-commit`, blocks em dashes, banned AI vocab, defamation-prone words, verified-profile regressions, broken YAML, duplicate bioguide IDs
+- `.husky/pre-push`, runs `tsc --noEmit` to catch TypeScript errors before they reach GitHub Actions
+- `scripts/attention-dispatcher.cjs`, background scheduler that auto-runs all 5 Attention Queue producers every 30 min to 2 hr
+- `scripts/attention-dispatcher.bat`, double-click to start the dispatcher on Windows
 
 **To make the dispatcher run automatically on Windows login:**
 1. Press `Win+R`, type `shell:startup`, hit Enter

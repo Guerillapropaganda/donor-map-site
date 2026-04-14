@@ -1,8 +1,8 @@
 ---
-title: "Pam Bondi Master Profile"
+title: "Pam Bondi"
 type: politician
 content-readiness: draft
-central-thesis: "Pam Bondi is the proof that the revolving door doesn't just create conflicts of interest — it is the operating model. As Florida AG, she dropped the Trump University fraud investigation after soliciting a $25,000 donation. She fired attorneys inve..."
+central-thesis: "Pam Bondi is the proof that the revolving door doesn't just create conflicts of interest , it is the operating model. As Florida AG, she dropped the Trump University fraud investigation after soliciting a $25,000 donation. She fired attorneys inve..."
 last-updated: 2026-03-24
 source-tier: 1
 parent: null
@@ -27,7 +27,7 @@ donors: Trump Foundation · Florida Corporate Donors · Tobacco Industry · [[Ph
 
 ## Who She Is
 
-Pam Bondi. Attorney General of the United States (2025–present). Former Florida Attorney General (2011–2019). Confirmed 54-46 (one Democrat — Fetterman — voted yes). Nominated after [[_Matt Gaetz Master Profile|Matt Gaetz]] withdrew. The defining story: in 2013, Bondi personally solicited a $25,000 donation from Trump's Foundation to her PAC while her office was reviewing whether to join New York's misconduct lawsuit against Trump University. She dropped the investigation. Trump Foundation later paid a $2,500 IRS fine for the illegal political contribution. Post-AG: Ballard Partners lobbyist ($1M+/year) for 30+ clients including Amazon, [[Uber|Uber]], GM, [[GEO Group|GEO Group]] (private prisons), and Qatar ($115K/month FARA-registered foreign lobbying). Defended Trump in first impeachment trial. Now runs the DOJ — overseeing enforcement against her former lobbying clients. White House ethics agreement expires after one year. Directed millions from businesses under investigation to unregistered charities as Florida AG. Fired two attorneys investigating foreclosure misconduct by LPS — a donor. The Attorney General whose career is a case study in how donor money shapes prosecutorial decisions.
+Pam Bondi. Attorney General of the United States (2025–present). Former Florida Attorney General (2011–2019). Confirmed 54-46 (one Democrat. Fetterman, voted yes). Nominated after [[_Matt Gaetz Master Profile|Matt Gaetz]] withdrew. The defining story: in 2013, Bondi personally solicited a $25,000 donation from Trump's Foundation to her PAC while her office was reviewing whether to join New York's misconduct lawsuit against Trump University. She dropped the investigation. Trump Foundation later paid a $2,500 IRS fine for the illegal political contribution. Post-AG: Ballard Partners lobbyist ($1M+/year) for 30+ clients including Amazon, [[Uber|Uber]], GM, [[GEO Group|GEO Group]] (private prisons), and Qatar ($115K/month FARA-registered foreign lobbying). Defended Trump in first impeachment trial. Now runs the DOJ, overseeing enforcement against her former lobbying clients. White House ethics agreement expires after one year. Directed millions from businesses under investigation to unregistered charities as Florida AG. Fired two attorneys investigating foreclosure misconduct by LPS, a donor. The Attorney General whose career is a case study in how donor money shapes prosecutorial decisions.
 
 ---
 
@@ -47,40 +47,40 @@ Pam Bondi. Attorney General of the United States (2025–present). Former Florid
 ## Donor Class Map
 
 ### The Trump University $25K and the Pay-to-Play Model:
-- [[The Trump University 25K and the Pay-to-Play Model]] — 2013: Bondi personally solicited $25K from Trump Foundation while reviewing whether to join NY AG's Trump University misconduct case. Donation received 4 days after review announcement. Investigation dropped. Trump Foundation: $2,500 IRS fine. Florida students: no restitution. LPS foreclosure: fired investigating attorneys, never subpoenaed again. $20.2M directed from investigated businesses to charities. The AG office as a fundraising instrument.
+- [[The Trump University 25K and the Pay-to-Play Model]], 2013: Bondi personally solicited $25K from Trump Foundation while reviewing whether to join NY AG's Trump University misconduct case. Donation received 4 days after review announcement. Investigation dropped. Trump Foundation: $2,500 IRS fine. Florida students: no restitution. LPS foreclosure: fired investigating attorneys, never subpoenaed again. $20.2M directed from investigated businesses to charities. The AG office as a fundraising instrument.
 
 ## Qatar Lobbying and the Revolving Door to DOJ:
-- [[Qatar Lobbying and the Revolving Door to DOJ]] — Ballard Partners: $1M+/year for 30+ clients. Qatar: $115K/month FARA-registered (July 2019–2024). [[Amazon]], [[Uber|Uber]], GM, GEO Group. Impeachment defense (November 2019). One-year ethics agreement. GEO Group profits from her immigration enforcement. Ballard Partners lobbies the DOJ she runs. The ethics agreement expires; the conflicts don't.
+- [[Qatar Lobbying and the Revolving Door to DOJ]]. Ballard Partners: $1M+/year for 30+ clients. Qatar: $115K/month FARA-registered (July 2019–2024). [[Amazon]], [[Uber|Uber]], GM, GEO Group. Impeachment defense (November 2019). One-year ethics agreement. GEO Group profits from her immigration enforcement. Ballard Partners lobbies the DOJ she runs. The ethics agreement expires; the conflicts don't.
 
 ### The DOJ as Political Weapon:
-- [[The DOJ as Political Weapon and Donor Shield]] — Indicted Comey and Letitia James. Pushed Adams case dismissal. "Zealous advocacy" directive threatens prosecutors' careers. Largest prosecutor resignation wave since Watergate. Immigration enforcement reallocated from child exploitation cases. GEO Group (former client) benefits from ICE expansion. The AG serves Trump's political interests while protecting the donor class's institutional access.
+- [[The DOJ as Political Weapon and Donor Shield]]. Indicted Comey and Letitia James. Pushed Adams case dismissal. "Zealous advocacy" directive threatens prosecutors' careers. Largest prosecutor resignation wave since Watergate. Immigration enforcement reallocated from child exploitation cases. GEO Group (former client) benefits from ICE expansion. The AG serves Trump's political interests while protecting the donor class's institutional access.
 
 ---
 
 ## Donation-to-Policy Timeline
 
-*Note: Bondi is the revolving door as operating model — $25K Trump Foundation donation killed a misconduct investigation; $5M+ in lobbying fees funded the career transition to AG; the one-year ethics agreement is a countdown timer on the appearance of propriety.*
+*Note: Bondi is the revolving door as operating model, $25K Trump Foundation donation killed a misconduct investigation; $5M+ in lobbying fees funded the career transition to AG; the one-year ethics agreement is a countdown timer on the appearance of propriety.*
 
 #### Trump Foundation / The Pay-to-Play Model
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2013-09 | [[_Donald Trump Master Profile|Donald Trump]] Foundation — $25,000 to Bondi's PAC (Let's Get to Work); Bondi personally solicited | $25,000 | September 2013 (4 days before policy drop) | Bondi's office drops review of joining NY AG's Trump University misconduct lawsuit; Trump Foundation pays $2,500 IRS fine for illegal political contribution |
-| 2014 | LPS (Lender Processing Services) — donor to Bondi campaigns | Undisclosed contributions | 2011–2013 | Bondi fires two attorneys investigating LPS foreclosure misconduct; office "never issued another subpoena to any foreclosure mill" afterward |
-| 2011–2018 | Businesses under Florida AG investigation — directed to charities connected to Bondi's network | $20.2M directed from investigated businesses | 2011–2018 AG tenure | Florida AG office operated as fundraising instrument; businesses under investigation directed charitable donations to Bondi-connected organizations |
+| 2013-09 | [[_Donald Trump Master Profile|Donald Trump]] Foundation, $25,000 to Bondi's PAC (Let's Get to Work); Bondi personally solicited | $25,000 | September 2013 (4 days before policy drop) | Bondi's office drops review of joining NY AG's Trump University misconduct lawsuit; Trump Foundation pays $2,500 IRS fine for illegal political contribution |
+| 2014 | LPS (Lender Processing Services), donor to Bondi campaigns | Undisclosed contributions | 2011–2013 | Bondi fires two attorneys investigating LPS foreclosure misconduct; office "never issued another subpoena to any foreclosure mill" afterward |
+| 2011–2018 | Businesses under Florida AG investigation, directed to charities connected to Bondi's network | $20.2M directed from investigated businesses | 2011–2018 AG tenure | Florida AG office operated as fundraising instrument; businesses under investigation directed charitable donations to Bondi-connected organizations |
 
 #### Qatar Lobbying / The Revolving Door to DOJ
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
 | 2025-02 | Qatar ($115K/month FARA-registered, 2019–2024) + Ballard Partners: Amazon, Uber, GM, GEO Group ($1M+/year) | $5M+ career lobbying income; $1.38M/year Qatar alone | 2019–2024 | AG confirmed 54-46 (Gaetz withdrawal consolation); one-year ethics recusal begins; GEO Group profits from immigration enforcement; Ballard Partners lobbies the DOJ she runs |
-| 2026-02 | Ethics clock expiration — all former-client restrictions formally end | All recusals lifted | February 2026 | Amazon, Uber, GM, Qatar, GEO Group restrictions expire; the conflicts that required the ethics agreement persist without the agreement |
+| 2026-02 | Ethics clock expiration, all former-client restrictions formally end | All recusals lifted | February 2026 | Amazon, Uber, GM, Qatar, GEO Group restrictions expire; the conflicts that required the ethics agreement persist without the agreement |
 
 #### The DOJ as Political Weapon / Trump Loyalty
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2025 | Trump political network — impeachment defense (2019) as audition; $25K Foundation donation (2013) as original transaction | Loyalty capital | 2013–2024 | referrals targeting Trump opponents (Comey, Letitia James); largest prosecutor resignation wave since Watergate; "zealous advocacy" directive; ICE detention expansion benefits former client GEO Group |
+| 2025 | Trump political network, impeachment defense (2019) as audition; $25K Foundation donation (2013) as original transaction | Loyalty capital | 2013–2024 | referrals targeting Trump opponents (Comey, Letitia James); largest prosecutor resignation wave since Watergate; "zealous advocacy" directive; ICE detention expansion benefits former client GEO Group |
 
 > [!money] The Damning Sequences
 > **⚠️ 4-day flag:** Trump Foundation $25K donation to Bondi's PAC (September 17, 2013) → Bondi's office formally drops Trump University fraud review (announced September 2013). The donation was received four days after a local consumer advocacy group asked Bondi to join New York's lawsuit. This is the most documented pay-to-play sequence in Bondi's career — and the one that defines the pattern.
@@ -101,7 +101,7 @@ The class function is straightforward: Bondi converts prosecutorial authority in
 
 ## Rhetorical Signature Moves
 
-1. **The law-and-order prosecutor:** Bondi's brand as Florida AG was tough prosecution — pill mills, sex trafficking, consumer protection. The brand obscures the pattern: aggressive enforcement against targets without donor protection, minimal enforcement against donors. The brand is the price of the exemptions.
+1. **The law-and-order prosecutor:** Bondi's brand as Florida AG was tough prosecution, pill mills, sex trafficking, consumer protection. The brand obscures the pattern: aggressive enforcement against targets without donor protection, minimal enforcement against donors. The brand is the price of the exemptions.
 2. **The Trump defender:** Impeachment trial loyalty proved her value. The defense was audition, not conviction. Loyalty to Trump purchased the AG nomination when Gaetz failed.
 3. **The anti-trafficking advocate:** Qatar lobbying was framed as "anti-human trafficking leading into World Cup." The framing: humanitarian cover for $115K/month foreign government lobbying.
 4. **The ethics pledge:** One-year ethics agreement presented as conflict resolution. The reality: a countdown timer on the appearance of propriety. After February 2026, all former-client restrictions expire.
@@ -110,11 +110,11 @@ The class function is straightforward: Bondi converts prosecutorial authority in
 
 ## Analytical Patterns
 
-**The Genuine Win + Structural Limit** — Bondi executed selective prosecutorial actions (Comey indictment, political opponent targeting, GEO Group detention expansion) that serve Trump's interests. Yet these actions operate within executive prosecutorial authority — they don't fundamentally restructure DOJ institutional independence, they optimize it for political loyalty through personnel pressure ("zealous advocacy" directives) while maintaining the appearance of institutional process.
+**The Genuine Win + Structural Limit**. Bondi executed selective prosecutorial actions (Comey indictment, political opponent targeting, GEO Group detention expansion) that serve Trump's interests. Yet these actions operate within executive prosecutorial authority, they don't fundamentally restructure DOJ institutional independence, they optimize it for political loyalty through personnel pressure ("zealous advocacy" directives) while maintaining the appearance of institutional process.
 
-**The Two-Audience Problem** — To Trump and MAGA base, Bondi is the AG weaponizing the DOJ against political opponents. To her former lobbying clients (Amazon, Uber, GEO Group, Qatar), she's the insider with one-year ethics agreements covering conflicts before restrictions expire. To the Senate, she's the law-and-order prosecutor. The identical prosecutorial discretion serves three audiences through different narrative frames.
+**The Two-Audience Problem**. To Trump and MAGA base, Bondi is the AG weaponizing the DOJ against political opponents. To her former lobbying clients (Amazon, Uber, GEO Group, Qatar), she's the insider with one-year ethics agreements covering conflicts before restrictions expire. To the Senate, she's the law-and-order prosecutor. The identical prosecutorial discretion serves three audiences through different narrative frames.
 
-**The Villain Framing** — Bondi frames prosecutorial autonomy as the need for "zealous advocacy" and DOJ independence as obstruction, deflecting from the class analysis: she's using prosecutorial power to protect the donor networks she formerly represented while targeting the political opponents of the network that appointed her.
+**The Villain Framing**. Bondi frames prosecutorial autonomy as the need for "zealous advocacy" and DOJ independence as obstruction, deflecting from the class analysis: she's using prosecutorial power to protect the donor networks she formerly represented while targeting the political opponents of the network that appointed her.
 
 ---
 
@@ -134,14 +134,14 @@ The class function is straightforward: Bondi converts prosecutorial authority in
 
 ### Recent Developments
 
-**March 2026 — Epstein Files Subpoena:** The House Oversight Committee subpoenaed Bondi for an **April 14 deposition** on the DOJ's compliance with the Epstein Files Transparency Act — the law Trump himself signed. The subpoena passed 24-19, with five Republicans joining Democrats. The DOJ called it "unnecessary." Bondi had previously clashed with the committee at a February hearing, refusing to commit to full disclosure.
+**March 2026. Epstein Files Subpoena:** The House Oversight Committee subpoenaed Bondi for an **April 14 deposition** on the DOJ's compliance with the Epstein Files Transparency Act, the law Trump himself signed. The subpoena passed 24-19, with five Republicans joining Democrats. The DOJ called it "unnecessary." Bondi had previously clashed with the committee at a February hearing, refusing to commit to full disclosure.
 - [CNBC: House panel subpoenas AG Pam Bondi for April 14 deposition in Epstein probe](https://www.cnbc.com/2026/03/17/epstein-pam-bondi-trump-doj-subpoena.html) (Tier 2) (VERIFIED)
 - [CNN: House Oversight chair subpoenas Attorney General Pam Bondi for deposition in Epstein probe](https://www.cnn.com/2026/03/17/politics/pam-bondi-subpoena-house-comer-epstein) (Tier 2) (VERIFIED)
 
-**March 2026 — Ethics Capture Proposal:** Bondi proposed a rule allowing the DOJ to take over state bar investigations of its own lawyers' ethics violations and freeze those probes during the DOJ's "independent review." In practice: a mechanism for Bondi to quash state bar discipline of DOJ attorneys who lie to courts — protecting the political infrastructure's legal operatives from outside accountability.
+**March 2026. Ethics Capture Proposal:** Bondi proposed a rule allowing the DOJ to take over state bar investigations of its own lawyers' ethics violations and freeze those probes during the DOJ's "independent review." In practice: a mechanism for Bondi to quash state bar discipline of DOJ attorneys who lie to courts, protecting the political infrastructure's legal operatives from outside accountability.
 - [Slate: Pam Bondi's ludicrous new scheme to protect lying DOJ lawyers](https://slate.com/news-and-politics/2026/03/pam-bondi-lying-doj-supreme-court-florida.html) (Tier 2) (VERIFIED)
 
-**March 2026 — NJ US Attorney Appointment Ruled Illegal:** A federal judge ruled Bondi violated federal law when she replaced the interim NJ US attorney with a "triumvirate" of attorneys — calling it an illegal attempt to circumvent the constitutional appointment process. Ongoing pattern of Bondi treating the DOJ's structural rules as obstacles to executive control.
+**March 2026. NJ US Attorney Appointment Ruled Illegal:** A federal judge ruled Bondi violated federal law when she replaced the interim NJ US attorney with a "triumvirate" of attorneys, calling it an illegal attempt to circumvent the constitutional appointment process. Ongoing pattern of Bondi treating the DOJ's structural rules as obstacles to executive control.
 - [Democracy Docket: Judge disqualifies 'triumvirate' leading NJ US attorney's office](https://www.democracydocket.com/news-alerts/judge-disqualifies-new-jersey-us-attorneys-office-trio/) (Tier 2) (VERIFIED)
 
 ### Voting Record

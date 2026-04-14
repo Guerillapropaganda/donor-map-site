@@ -122,7 +122,7 @@ Newsom's approach to corporate subsidies is straightforward: when corporations a
 - [Coltura: Electric Vehicle Rebate California 2026 analysis](https://coltura.org/electric-vehicle-rebate-california/) (Tier 3) (VERIFIED)
 
 - [California Legislative Analyst's Office: tax expenditures](https://lao.ca.gov/Publications/Report/4539) (Tier 1) (VERIFIED)
-- ~~[CalMatters: California's Hollywood subsidies, has the film tax credit been worth it?](https://calmatters.org/category/economy/2020/01/is-california-hollywood-tax-credit-worth-it/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[CalMatters: California's Hollywood subsidies, has the film tax credit been worth it?](https://calmatters.org/category/economy/2020/01/is-california-hollywood-tax-credit-worth-it/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [California Film Commission: tax credit program](https://film.ca.gov/tax-credit/) (Tier 1) (VERIFIED)
 - [Good Jobs First: California corporate subsidy tracker](https://goodjobsfirst.org/?s=Corporate%20Subsidies%20and%20the%20Business%20Climate%20Argument) (Tier 2)
 

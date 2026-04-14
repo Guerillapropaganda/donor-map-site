@@ -2,7 +2,7 @@
 title: "Jason Smith"
 type: politician
 content-readiness: ready
-central-thesis: "Smith is the rural poor kid who writes tax policy for the rich. His Ways & Means gavel gives him authorship over every major tax provision in America — and the industries that benefit from those provisions fund his campaign at rates that exploded ..."
+central-thesis: "Smith is the rural poor kid who writes tax policy for the rich. His Ways & Means gavel gives him authorship over every major tax provision in America , and the industries that benefit from those provisions fund his campaign at rates that exploded ..."
 last-updated: 2026-04-13
 source-tier: 1
 parent: null
@@ -51,9 +51,9 @@ donors: [[Real Estate Roundtable]]
 
 ## Who They Are
 
-Jason Smith. Republican, Missouri's 8th District (rural southeast Missouri). Won a 2013 special election at age 29. Chair, House Ways and Means Committee — the most powerful tax-writing body in Congress, with jurisdiction over all federal tax policy, trade and tariffs, Social Security, Medicare, and welfare programs. Youngest Ways & Means Chair in over 150 years and the first Missourian since John Phelps in 1859.
+Jason Smith. Republican, Missouri's 8th District (rural southeast Missouri). Won a 2013 special election at age 29. Chair, House Ways and Means Committee, the most powerful tax-writing body in Congress, with jurisdiction over all federal tax policy, trade and tariffs, Social Security, Medicare, and welfare programs. Youngest Ways & Means Chair in over 150 years and the first Missourian since John Phelps in 1859.
 
-Smith's background is the brand: grew up in poverty in Salem, Missouri — lived in a trailer on his grandparents' property, pumped water from a cistern. Family farm started by his great-grandfather, which he still operates. University of Missouri (agriculture economics and business), then Oklahoma City University law school. Worked as a real estate agent and attorney before Congress. The biography is real and politically powerful — it gives him the working-class credibility to sell tax policy that primarily benefits the wealthy.
+Smith's background is the brand: grew up in poverty in Salem, Missouri, lived in a trailer on his grandparents' property, pumped water from a cistern. Family farm started by his great-grandfather, which he still operates. University of Missouri (agriculture economics and business), then Oklahoma City University law school. Worked as a real estate agent and attorney before Congress. The biography is real and politically powerful, it gives him the working-class credibility to sell tax policy that primarily benefits the wealthy.
 
 His district is the poorest in Missouri: median household income ~$56,000, poverty rate 15.5% (vs. 12.4% national), 86.9% rural, two-hour stretches without a hospital. The constituency that elected him to the Ways & Means chairmanship is among the least likely to benefit from the tax provisions he writes.
 
@@ -61,7 +61,7 @@ His district is the poorest in Missouri: median household income ~$56,000, pover
 
 ## The Central Thesis
 
-Smith is the rural poor kid who writes tax policy for the rich. His Ways & Means gavel gives him authorship over every major tax provision in America — and the industries that benefit from those provisions fund his campaign at rates that exploded the moment he took the chair. PAC donations surged from $16,000 in Q1 2021 to $618,000 in Q1 2023 — a 38x increase that maps precisely to his ascension. His signature legislative achievement — making the Section 199A pass-through deduction permanent in the "One Big Beautiful Bill" (July 2025) — delivers nearly 60% of its benefits to the top 1% of earners. He frames it as relief for "26 million small businesses." The framing is the product: a rural poverty biography that makes corporate tax policy sound like populism.
+Smith is the rural poor kid who writes tax policy for the rich. His Ways & Means gavel gives him authorship over every major tax provision in America, and the industries that benefit from those provisions fund his campaign at rates that exploded the moment he took the chair. PAC donations surged from $16,000 in Q1 2021 to $618,000 in Q1 2023, a 38x increase that maps precisely to his ascension. His signature legislative achievement, making the Section 199A pass-through deduction permanent in the "One Big Beautiful Bill" (July 2025), delivers nearly 60% of its benefits to the top 1% of earners. He frames it as relief for "26 million small businesses." The framing is the product: a rural poverty biography that makes corporate tax policy sound like populism.
 
 ---
 
@@ -107,12 +107,12 @@ Smith is the rural poor kid who writes tax policy for the rich. His Ways & Means
 |------|-------|-------------|--------|
 | Jan 2023 | Becomes Ways & Means Chair | PAC donations 38x spike | Bloomberg Tax |
 | 2023-2024 | Health insurance PAC contributions | $30,000+ | Healthcare Uncovered |
-| 2024 | Shepherds TCJA extension through committee | — | Congress.gov |
-| July 2025 | "One Big Beautiful Bill" signed — TCJA made permanent | $730B 199A cost over 10 years | Tax Foundation |
+| 2024 | Shepherds TCJA extension through committee |, | Congress.gov |
+| July 2025 | "One Big Beautiful Bill" signed. TCJA made permanent | $730B 199A cost over 10 years | Tax Foundation |
 | July 2025 | Section 199A made permanent (his #1 priority) | ~60% of benefits to top 1% | ProPublica |
 | July 2025 | SALT cap raised $10K → $40K | Benefits high-income homeowners | Kirkland & Ellis |
-| July 2025 | Carried interest preserved | $10B+/year benefit to fund managers | — |
-| July 2025 | 1031 exchanges preserved | $6B/year revenue cost | — |
+| July 2025 | Carried interest preserved | $10B+/year benefit to fund managers |, |
+| July 2025 | 1031 exchanges preserved | $6B/year revenue cost |, |
 | July 2025 | Bonus depreciation made permanent | Benefits capital-intensive corporations | Tax Foundation |
 | July 2025 | Opportunity Zones made permanent with rural enhancements | 50% of prior benefits to 1% of zones | ProPublica |
 
@@ -136,15 +136,15 @@ Smith's district is the poorest in Missouri: median household income approximate
 
 **Genuine Win + Structural Limit:** Smith secured rural-specific Opportunity Zone enhancements (30% basis step-up after 5 years for rural investments) and farm tax provisions. These are real, if modest, wins for his constituents. But they exist within a $730 billion package whose primary beneficiaries are the donor class, not rural Missouri.
 
-**Self-Funding as Independence (inverted):** Smith isn't self-funded, but his rural-poverty biography creates a similar framing — he can't be an elite because he grew up in a trailer. The biography substitutes for financial independence as a credibility mechanism.
+**Self-Funding as Independence (inverted):** Smith isn't self-funded, but his rural-poverty biography creates a similar framing, he can't be an elite because he grew up in a trailer. The biography substitutes for financial independence as a credibility mechanism.
 
 ---
 
 ## Rhetorical Signature Moves
 
-Smith's signature is the biographical pivot — every tax policy argument routes through the trailer, the cistern, the family farm. He opens with poverty, pivots to "small business," and lands on corporate tax provisions. The rhetorical trick is the word "small": Section 199A covers "26 million small businesses," but the deduction's primary beneficiaries are pass-through entities with $1M+ income. The word "small" does the populist work while the policy does the donor-class work.
+Smith's signature is the biographical pivot, every tax policy argument routes through the trailer, the cistern, the family farm. He opens with poverty, pivots to "small business," and lands on corporate tax provisions. The rhetorical trick is the word "small": Section 199A covers "26 million small businesses," but the deduction's primary beneficiaries are pass-through entities with $1M+ income. The word "small" does the populist work while the policy does the donor-class work.
 
-On trade, he adopts Trump's protectionist language — "treating countries how they treat us" — while chairing the committee that writes tariff policy affecting the agricultural exports his district depends on. On healthcare, he rated 0% by both the Alliance for Retired Americans and the National Committee to Preserve Social Security & Medicare, despite publicly claiming Republicans "won't cut" those programs.
+On trade, he adopts Trump's protectionist language, "treating countries how they treat us", while chairing the committee that writes tariff policy affecting the agricultural exports his district depends on. On healthcare, he rated 0% by both the Alliance for Retired Americans and the National Committee to Preserve Social Security & Medicare, despite publicly claiming Republicans "won't cut" those programs.
 
 ---
 
@@ -152,7 +152,7 @@ On trade, he adopts Trump's protectionist language — "treating countries how t
 
 - [FEC Candidate: Jason Smith Campaign Finance Summary](https://www.fec.gov/data/candidate/P20005559/) (Tier 1) (VERIFIED)
 - [FEC: Jason Smith for Congress Committee (C00541862)](https://www.fec.gov/data/committee/C00541862/) (Tier 1) (VERIFIED)
-- ~~[Congress.gov: Rep. Jason Smith Member Profile](https://www.congress.gov/member/jason-smith/S001195)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Rep. Jason Smith Member Profile](https://www.congress.gov/member/jason-smith/S001195)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [House Ways and Means Committee: Chairman Jason Smith](https://waysandmeans.house.gov/the-chairman/) (Tier 1) (VERIFIED)
 - [Tax Foundation: One Big Beautiful Bill Act Tax Changes](https://taxfoundation.org/research/all/federal/one-big-beautiful-bill-act-tax-changes/) (Tier 1) (VERIFIED)
 - [ProPublica: Secret IRS Files Reveal How the Ultrawealthy Gained by Shaping Trump's Tax Cut](https://www.propublica.org/article/secret-irs-files-reveal-how-much-the-ultrawealthy-gained-by-shaping-trumps-big-beautiful-tax-cut) (Tier 2) (VERIFIED)

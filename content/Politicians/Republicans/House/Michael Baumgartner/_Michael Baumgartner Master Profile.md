@@ -1,5 +1,5 @@
 ---
-title: "Michael Baumgartner Master Profile"
+title: "Michael Baumgartner"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

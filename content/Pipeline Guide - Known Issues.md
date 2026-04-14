@@ -13,7 +13,7 @@ Technical reference for pipeline bugs, workarounds, and fixes. Both Claudes chec
 ## Active Issues
 
 ### Congress Pipeline: Hardcoded to 119th Congress
-**Status:** Open — engine fix needed
+**Status:** Open, engine fix needed
 **Impact:** Former members (Cori Bush, Sherrod Brown, etc.) get 0 bills because the pipeline only queries the current Congress.
 **Root cause:** `CONGRESS_NUM = 119` in `congress-pipeline.cjs` line 32. Former members served in earlier congresses (117th, 118th).
 **Workaround:** Manually set `bills-sponsored` and `bills-cosponsored` from Congress.gov API: `https://api.congress.gov/v3/member/{BIOGUIDE_ID}/sponsored-legislation`
@@ -48,7 +48,7 @@ Technical reference for pipeline bugs, workarounds, and fixes. Both Claudes chec
 **Date fixed:** 2026-04-09
 **Impact:** Wrong FEC data pulled for 9 profiles with wrong-state IDs, 7 with presidential IDs, 17 with legacy House IDs.
 **Fix:** All corrected via FEC.gov lookup. Categories:
-- 9 wrong-state (e.g., Bobby Scott/VA had a GA ID)
+- 9 wrong-state (e.g. Bobby Scott/VA had a GA ID)
 - 7 presidential → Senate (Booker, Warren, Tim Scott, etc.)
 - 17 House → Senate (Markey, Sanders, Duckworth, etc.)
 
@@ -70,7 +70,7 @@ Technical reference for pipeline bugs, workarounds, and fixes. Both Claudes chec
 
 ### Connection Removal Bug (Aliases)
 **Date fixed:** 2026-04-09
-**Impact:** Couldn't remove connections using alias names (e.g., "AIPAC" for `[[AIPAC - American Israel Public Affairs Committee|AIPAC]]`).
+**Impact:** Couldn't remove connections using alias names (e.g. "AIPAC" for `[[AIPAC - American Israel Public Affairs Committee|AIPAC]]`).
 **Root cause:** Regex matched target as reference name only, not alias position.
 **Fix:** Added second regex to match `[[anything|target]]` pattern.
 
@@ -86,8 +86,8 @@ Technical reference for pipeline bugs, workarounds, and fixes. Both Claudes chec
 
 When debugging why enrichment didn't work for a profile:
 
-1. **Check `fec-candidate-id` / `bioguide-id`** — wrong ID = wrong data or no match
-2. **Check `last-enriched`** — if missing, pipeline may have skipped the profile
+1. **Check `fec-candidate-id` / `bioguide-id`**, wrong ID = wrong data or no match
+2. **Check `last-enriched`**, if missing, pipeline may have skipped the profile
 3. **Check the auto-block** — empty markers (`<!-- auto:X start --><!-- auto:X end -->`) mean the API returned nothing
 4. **Check the enrichment log** — `content/Vault Maintenance/Auto-Enrichment Log.md`
 5. **Check if former member** — Congress pipeline only queries 119th Congress (active bug)

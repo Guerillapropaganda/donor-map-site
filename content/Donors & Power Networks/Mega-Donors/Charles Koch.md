@@ -31,9 +31,9 @@ regulatory-agencies:
 
 ### Who He Is
 
-Charles Koch. CEO of Koch Industries ($125 billion revenue — the largest private company in the United States), co-founder of the Koch political network, and one of the most influential political operatives in modern American history. Net worth: $60+ billion (2024). With his late brother David Koch (died 2019), Charles built a political infrastructure that rivals the Republican Party itself in scope, spending, and influence.
+Charles Koch. CEO of Koch Industries ($125 billion revenue, the largest private company in the United States), co-founder of the Koch political network, and one of the most influential political operatives in modern American history. Net worth: $60+ billion (2024). With his late brother David Koch (died 2019), Charles built a political infrastructure that rivals the Republican Party itself in scope, spending, and influence.
 
-The Koch political network — operating through Americans for Prosperity, Stand Together, DonorsTrust, the Libre Initiative, and dozens of other organizations — spends $400-500 million per cycle on political campaigns, issue advocacy, think tank funding, judicial nominations, and state-level policy. The network's infrastructure includes donor conferences (twice-yearly gatherings of 500+ wealthy donors), advocacy organizations in all 50 states, and relationships with thousands of state and federal legislators.
+The Koch political network, operating through Americans for Prosperity, Stand Together, DonorsTrust, the Libre Initiative, and dozens of other organizations, spends $400-500 million per cycle on political campaigns, issue advocacy, think tank funding, judicial nominations, and state-level policy. The network's infrastructure includes donor conferences (twice-yearly gatherings of 500+ wealthy donors), advocacy organizations in all 50 states, and relationships with thousands of state and federal legislators.
 
 ---
 
@@ -56,7 +56,7 @@ Reduced government regulation (across every sector), lower taxes (particularly c
 
 ### Sources
 
-- ~~[OpenSecrets: Koch Industries political spending](https://www.opensecrets.org/orgs/koch-industries/summary?id=D000000186)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Koch Industries political spending](https://www.opensecrets.org/orgs/koch-industries/summary?id=D000000186)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Ballotpedia: Charles Koch](https://ballotpedia.org/Charles_Koch) (Tier 3) (VERIFIED)
 
 ---
@@ -75,7 +75,7 @@ Reduced government regulation (across every sector), lower taxes (particularly c
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
 
-### Financial Overview (990 Filing — 2023)
+### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |
 |--------|--------|

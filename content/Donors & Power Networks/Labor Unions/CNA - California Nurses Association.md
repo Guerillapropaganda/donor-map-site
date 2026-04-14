@@ -65,7 +65,7 @@ Introduced by Assemblymember Ash Kalra (see: [[Ash Kalra]]). Cleared Assembly He
 Introduced February 7, 2024, again by Kalra as the "California Guaranteed Health Care for All Act." Killed May 16, 2024 in Appropriations Committee by chair Assemblymember Buffy Wicks. Same pattern: introduced, organized around, killed in committee before reaching a floor vote.
 
 ### SB 770. The Betrayal:
-Newsom signed SB 770 in 2023. CNA called it "a complete betrayal of nurses' fight for a single-payer health care policy." CNA organizer Alyssa Kang: "This is a flip-flop from a governor who said..'I'm tired of politicians saying they support single payer but it's too soon, too expensive.' This is absolutely unacceptable." SB 770 preserved the market-based system CNA was trying to replace, while claiming to advance "universal coverage."
+Newsom signed SB 770 in 2023. CNA called it "a complete betrayal of nurses' fight for a single-payer health care policy." CNA organizer Alyssa Kang: "This is a flip-flop from a governor who said.'I'm tired of politicians saying they support single payer but it's too soon, too expensive.' This is absolutely unacceptable." SB 770 preserved the market-based system CNA was trying to replace, while claiming to advance "universal coverage."
 
 > [!contradiction] The Newsom Promise and the Newsom Record
 > **2017 campaign:** Newsom said "I'm tired of politicians saying they support single payer but that it's too soon, too expensive or someone else's problem." Pledged to "lead the effort." CNA decorated a campaign bus: "Nurses Trust Newsom. He shares our values and fights for our patients."

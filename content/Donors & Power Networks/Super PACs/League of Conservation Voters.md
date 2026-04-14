@@ -93,13 +93,13 @@ aliases:
 
 ### Who They Are
 
-The League of Conservation Voters is a 501(c)(4) nonprofit founded in 1970 by Marion Edey with support from David Brower. Headquartered in Washington, D.C. President Gene Karpinski leads the organization. Over 2 million members and 30+ state affiliates. LCV publishes the National Environmental Scorecard, rating every member of Congress on environmental votes — one of the most influential accountability tools in environmental politics. The LCV Victory Fund is its super PAC arm for direct electoral spending.
+The League of Conservation Voters is a 501(c)(4) nonprofit founded in 1970 by Marion Edey with support from David Brower. Headquartered in Washington, D.C. President Gene Karpinski leads the organization. Over 2 million members and 30+ state affiliates. LCV publishes the National Environmental Scorecard, rating every member of Congress on environmental votes, one of the most influential accountability tools in environmental politics. The LCV Victory Fund is its super PAC arm for direct electoral spending.
 
 ---
 
 ### What They Want
 
-LCV's mission is to build political power for environmental protection. In practice, this means electing pro-environment Democrats and defeating anti-environment Republicans. The organization lobbies Congress on climate legislation, clean energy investment, and environmental justice. It operates as the electoral arm of the environmental movement — translating climate advocacy into votes and campaign spending.
+LCV's mission is to build political power for environmental protection. In practice, this means electing pro-environment Democrats and defeating anti-environment Republicans. The organization lobbies Congress on climate legislation, clean energy investment, and environmental justice. It operates as the electoral arm of the environmental movement, translating climate advocacy into votes and campaign spending.
 
 ---
 
@@ -122,7 +122,7 @@ LCV's mission is to build political power for environmental protection. In pract
 ### Lobbying:
 - 2024: $760K
 
-**Key function:** The National Environmental Scorecard rates every member of Congress on environmental votes. This is widely cited in campaign literature and serves as both an accountability tool and an electoral weapon — low scores become attack ad material.
+**Key function:** The National Environmental Scorecard rates every member of Congress on environmental votes. This is widely cited in campaign literature and serves as both an accountability tool and an electoral weapon, low scores become attack ad material.
 
 ---
 
@@ -138,7 +138,7 @@ LCV's mission is to build political power for environmental protection. In pract
 
 ### Class Analysis
 
-LCV occupies an unusual position in the donor-class framework: it's a mass-membership organization (2M+ members) that also receives significant dark money ($18.9M from the Sixteen Thirty Fund in 2021 alone). The $120M in 2024 election spending puts it in the same weight class as corporate PACs, but funded by a mix of small donors and liberal foundation money rather than industry profits. LCV's function is to create electoral consequences for anti-environment votes — its Scorecard is the stick, its campaign spending is the enforcement. The organization operates as the counter-force to fossil fuel industry spending (AFPM's $8.95M lobbying, Enterprise Products' $768K contributions), but at a much larger scale on the electoral side. The dark money criticism is valid — the Sixteen Thirty Fund is as opaque as DonorsTrust — but LCV's policy agenda serves the public interest in a way that fossil fuel lobbying does not.
+LCV occupies an unusual position in the donor-class framework: it's a mass-membership organization (2M+ members) that also receives significant dark money ($18.9M from the Sixteen Thirty Fund in 2021 alone). The $120M in 2024 election spending puts it in the same weight class as corporate PACs, but funded by a mix of small donors and liberal foundation money rather than industry profits. LCV's function is to create electoral consequences for anti-environment votes, its Scorecard is the stick, its campaign spending is the enforcement. The organization operates as the counter-force to fossil fuel industry spending (AFPM's $8.95M lobbying, Enterprise Products' $768K contributions), but at a much larger scale on the electoral side. The dark money criticism is valid, the Sixteen Thirty Fund is as opaque as DonorsTrust, but LCV's policy agenda serves the public interest in a way that fossil fuel lobbying does not.
 
 > [!contradiction]
 > LCV denounces conservative dark money while receiving $18.9M from the Sixteen Thirty Fund — a liberal dark money hub that uses the same 501(c)(4) anonymity structure. The organizations differ in policy direction (climate protection vs. fossil fuel promotion) but use identical structural mechanisms to shield donor identities.

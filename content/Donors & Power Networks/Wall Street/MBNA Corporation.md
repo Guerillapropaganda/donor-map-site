@@ -67,7 +67,7 @@ occ-charter-numbers:
 
 MBNA Corporation. The former credit card giant based in Wilmington, Delaware, that was Joe Biden's single largest career donor before its 2006 acquisition by Bank of America. MBNA employees and executives contributed $200,000+ to Biden campaigns over two decades, making the Delaware-based company Biden's financial patron during his Senate tenure. Biden's son Hunter Biden was hired as a consultant by MBNA.
 
-MBNA's political significance is concentrated in one event: the 2005 Bankruptcy Abuse Prevention and Consumer Protection Act (BAPCPA). Biden was one of the bill's most prominent Democratic supporters, breaking with his party to champion legislation that made it harder for consumers to discharge credit card debt through bankruptcy — directly benefiting MBNA's core business of consumer credit lending. The bill passed and became law, representing one of the credit card industry's most significant legislative victories.
+MBNA's political significance is concentrated in one event: the 2005 Bankruptcy Abuse Prevention and Consumer Protection Act (BAPCPA). Biden was one of the bill's most prominent Democratic supporters, breaking with his party to champion legislation that made it harder for consumers to discharge credit card debt through bankruptcy, directly benefiting MBNA's core business of consumer credit lending. The bill passed and became law, representing one of the credit card industry's most significant legislative victories.
 
 ---
 
@@ -83,10 +83,10 @@ The MBNA-Biden relationship is the most documented donor-policy pipeline in Bide
 ### Sources
 
 - [FEC Candidate: Joe Biden career donors - MBNA](https://www.fec.gov/data/candidate/P60012143/) (Tier 1) (VERIFIED)
-- ~~[Congress.gov: Bankruptcy Abuse Prevention Act S. 256](https://www.congress.gov/bill/109th-congress/senate-bill/256)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Bankruptcy Abuse Prevention Act S. 256](https://www.congress.gov/bill/109th-congress/senate-bill/256)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Ballotpedia: 2005 Bankruptcy Act](https://ballotpedia.org/MBNA_Corporation) (Tier 3) (VERIFIED)
 
-### Financial Overview (990 Filing — 2020)
+### Financial Overview (990 Filing, 2020)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |
 |--------|--------|

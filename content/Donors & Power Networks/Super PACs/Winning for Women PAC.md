@@ -24,9 +24,9 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### Who They Are
 
-Winning for Women is a hybrid PAC/super PAC (Carey committee) founded in 2017 by Annie Dickerson, a longtime political strategist and adviser to billionaire hedge fund manager Paul Singer. The organization operates two arms: Winning for Women, Inc. PAC (FEC ID: C00646703), which makes direct candidate contributions, and the WFW Action Fund, which makes independent expenditures — the real spending vehicle. The PAC is headquartered in Washington, DC, and describes its mission as electing Republican women to federal office while advancing free-market principles and a strong national defense.
+Winning for Women is a hybrid PAC/super PAC (Carey committee) founded in 2017 by Annie Dickerson, a longtime political strategist and adviser to billionaire hedge fund manager Paul Singer. The organization operates two arms: Winning for Women, Inc. PAC (FEC ID: C00646703), which makes direct candidate contributions, and the WFW Action Fund, which makes independent expenditures, the real spending vehicle. The PAC is headquartered in Washington, DC, and describes its mission as electing Republican women to federal office while advancing free-market principles and a strong national defense.
 
-Dickerson's connection to Singer is the organizational DNA. Singer — founder of Elliott Management and one of the Republican Party's largest donors — has used Dickerson as a political strategist for years, and the Winning for Women infrastructure functions as a Singer-aligned vehicle for shaping the composition of the Republican congressional caucus. The PAC's board and advisory network include prominent Republican women operatives, and its events have featured House GOP leadership including former Speaker Kevin McCarthy and Conference Chair [[_Elise Stefanik Master Profile|Elise Stefanik]], who raised over $800K at a single WFW event.
+Dickerson's connection to Singer is the organizational DNA. Singer, founder of Elliott Management and one of the Republican Party's largest donors, has used Dickerson as a political strategist for years, and the Winning for Women infrastructure functions as a Singer-aligned vehicle for shaping the composition of the Republican congressional caucus. The PAC's board and advisory network include prominent Republican women operatives, and its events have featured House GOP leadership including former Speaker Kevin McCarthy and Conference Chair [[_Elise Stefanik Master Profile|Elise Stefanik]], who raised over $800K at a single WFW event.
 
 The PAC claims a network of over 800,000 members who provide small-dollar and grassroots support. In its most recent full cycle, WFW and related entities raised approximately $17 million, directing nearly $4 million in hard dollars to endorsed candidates. The organization positions itself as the Republican counterpart to [[EMILY's List]], though it operates at a fraction of EMILY's List's scale ($17M vs. $1B+ cumulative).
 
@@ -37,11 +37,11 @@ The PAC claims a network of over 800,000 members who provide small-dollar and gr
 
 ### What They Want
 
-Winning for Women's stated goal is increasing the number of Republican women in Congress. The structural function is more specific: WFW serves as a candidate-quality filter for the Republican establishment, intervening in primaries to support women candidates the leadership considers electable — and spending against candidates (including Republican men and women) it considers liabilities.
+Winning for Women's stated goal is increasing the number of Republican women in Congress. The structural function is more specific: WFW serves as a candidate-quality filter for the Republican establishment, intervening in primaries to support women candidates the leadership considers electable, and spending against candidates (including Republican men and women) it considers liabilities.
 
 The PAC's ideological positioning is center-right Republican: pro-business, pro-defense, with flexible social positioning that accommodates both traditional and Trump-aligned Republican women. The organization endorses candidates based on electability in competitive districts rather than ideological purity, making it a vehicle for the establishment wing of the party to shape primary outcomes under the politically palatable banner of gender equity.
 
-The deeper structural interest: WFW's donor base — led by Citadel LLC, Stephens Inc, and the Congressional Leadership Fund — wants a Republican House majority populated by candidates who will win general elections and govern predictably. Gender equity is the branding; candidate-quality selection is the product.
+The deeper structural interest: WFW's donor base, led by Citadel LLC, Stephens Inc, and the Congressional Leadership Fund, wants a Republican House majority populated by candidates who will win general elections and govern predictably. Gender equity is the branding; candidate-quality selection is the product.
 
 ---
 
@@ -77,7 +77,7 @@ WFW's endorsement and spending targets are concentrated in competitive House rac
 
 **Challengers/Open Seats:** Wendy Davis (IN), Nancy Dahlstrom (AK), Laurie Buckhout (NC), Alison Esposito (NY), Leslie Lewallen (OR), Mary Draves (MI)
 
-**Senate:** Susan Collins (ME), Ashley Hinson (IA — Senate bid)
+**Senate:** Susan Collins (ME), Ashley Hinson (IA. Senate bid)
 
 The pattern: WFW targets swing and competitive districts where a Republican woman is either defending a vulnerable seat or challenging a Democratic incumbent. The endorsement list reads as a roadmap of the House Republican majority's most endangered flanks.
 
@@ -90,18 +90,18 @@ The pattern: WFW targets swing and competitive districts where a Republican woma
 
 WFW's track record reveals the organization's dual function: general election support for Republican women AND primary intervention against candidates the establishment considers unelectable.
 
-### Money Flow — Source to Impact
+### Money Flow. Source to Impact
 
 | Date | Source → Recipient | Amount | Electoral/Policy Impact | Time Gap |
 |------|-------------------|--------|------------------------|---------|
-| 2018 | Paul Singer network → WFW launch | ~$86K (IEs) | First cycle; modest spending for Republicans only | — |
+| 2018 | Paul Singer network → WFW launch | ~$86K (IEs) | First cycle; modest spending for Republicans only |, |
 | 2020 | WFW Action Fund → 15 House races | $3,362,243 | 93% general election success rate; 9 supported candidates won; helped flip seats in GOP's gain of women members | Same cycle |
-| 2020 | WFW → against Republican primary candidates | $626,623 | Primary gatekeeping function begins — spending against GOP candidates deemed unelectable | Same cycle |
-| 2022 | WFW Action Fund → House races | $7,706,485 | Peak spending cycle; 17% general success rate — worst cycle performance | Same cycle |
-| 2022 | WFW → against Republican primary candidates | $3,253,551 | Nearly half of all spending was AGAINST Republicans in primaries — massive primary intervention | Same cycle |
+| 2020 | WFW → against Republican primary candidates | $626,623 | Primary gatekeeping function begins, spending against GOP candidates deemed unelectable | Same cycle |
+| 2022 | WFW Action Fund → House races | $7,706,485 | Peak spending cycle; 17% general success rate, worst cycle performance | Same cycle |
+| 2022 | WFW → against Republican primary candidates | $3,253,551 | Nearly half of all spending was AGAINST Republicans in primaries, massive primary intervention | Same cycle |
 | 2022 | WFW → SC-01 primary (against Katie Arrington) | ~$560,000 | Spent against Trump-endorsed Arrington to protect establishment candidate | Same cycle |
 | 2024 | Citadel ($1M) + Stephens ($750K) + CLF ($700K) → WFW | $4,657,996 | For Republicans: $3.24M; Against Dems: $934K; Against Republicans: $489K | Same cycle |
-| 2024 | WFW → general election (5 candidates) | $1,614,780 | 20% success by candidate; 44% by money — mixed results in tough cycle | Same cycle |
+| 2024 | WFW → general election (5 candidates) | $1,614,780 | 20% success by candidate; 44% by money, mixed results in tough cycle | Same cycle |
 
 > [!money]
 > **The spending trajectory tells the real story: $86K (2018) → $3.4M (2020) → $7.7M (2022) → $4.7M (2024).** The 2022 peak is the most revealing data point — nearly half of WFW's $7.7M in spending that cycle ($3.25M) went AGAINST Republican candidates in primaries, not against Democrats in generals. WFW's primary function in 2022 was not electing Republican women; it was blocking Republican candidates the establishment considered toxic. The 2022 SC-01 primary — where WFW spent ~$560K against Trump-endorsed Katie Arrington — is the prototype: the PAC exists to enforce establishment candidate quality in Republican primaries, using gender equity as the justification for what is functionally a party-discipline operation. By 2024, primary intervention spending dropped to $489K as the party consolidated, but the structural function remains.
@@ -126,17 +126,17 @@ WFW's track record reveals the organization's dual function: general election su
 
 ### Class Analysis
 
-Winning for Women is a case study in how the donor class uses identity-based framing to enforce structural power. The organization's stated mission — electing Republican women — is real but secondary to its structural function: providing Wall Street, hedge fund capital, and the Republican establishment a vehicle to shape the composition of the congressional caucus through primary intervention.
+Winning for Women is a case study in how the donor class uses identity-based framing to enforce structural power. The organization's stated mission, electing Republican women, is real but secondary to its structural function: providing Wall Street, hedge fund capital, and the Republican establishment a vehicle to shape the composition of the congressional caucus through primary intervention.
 
 The class mechanics operate on three levels:
 
-**First, donor-class candidate selection.** Citadel's Ken Griffin, Stephens Inc, and the Congressional Leadership Fund don't contribute $2.45M in a single cycle because they care about gender representation in Congress. They contribute because WFW's endorsement and spending apparatus filters for candidates who will be reliable votes for Wall Street's legislative priorities — deregulation, tax policy, trade — while also winning general elections. The "women" framing is the packaging; the product is business-friendly Republican governance.
+**First, donor-class candidate selection.** Citadel's Ken Griffin, Stephens Inc, and the Congressional Leadership Fund don't contribute $2.45M in a single cycle because they care about gender representation in Congress. They contribute because WFW's endorsement and spending apparatus filters for candidates who will be reliable votes for Wall Street's legislative priorities, deregulation, tax policy, trade, while also winning general elections. The "women" framing is the packaging; the product is business-friendly Republican governance.
 
-**Second, primary gatekeeping.** The 2022 spending data is the smoking gun: $3.25M spent against Republican candidates in primaries. This is the establishment's immune system, attacking candidates who might win primaries but lose generals — or worse, win generals but govern unpredictably. The gender equity brand provides cover that a generic establishment PAC cannot: opposing a Republican candidate because she's "not the right woman for the district" plays differently than opposing her because she's "not aligned with Wall Street's legislative agenda," even when the underlying calculation is identical.
+**Second, primary gatekeeping.** The 2022 spending data is the smoking gun: $3.25M spent against Republican candidates in primaries. This is the establishment's immune system, attacking candidates who might win primaries but lose generals, or worse, win generals but govern unpredictably. The gender equity brand provides cover that a generic establishment PAC cannot: opposing a Republican candidate because she's "not the right woman for the district" plays differently than opposing her because she's "not aligned with Wall Street's legislative agenda," even when the underlying calculation is identical.
 
-**Third, the EMILY's List asymmetry.** WFW is structurally positioned as the Republican answer to EMILY's List, but the comparison reveals more than it conceals. EMILY's List operates at 50-100x WFW's scale ($1B+ cumulative vs. ~$20M cumulative for WFW). This asymmetry reflects a real structural difference: Democratic women donors are more organized, more numerous, and more ideologically motivated around gender representation. WFW's comparatively modest scale suggests that Republican mega-donors fund the organization instrumentally — as one tool among many for shaping the caucus — rather than from a deep commitment to gender equity in Republican politics. Annie Dickerson herself acknowledged this in 2017: she had to sell donors on the concept by arguing it wasn't "identity politics."
+**Third, the EMILY's List asymmetry.** WFW is structurally positioned as the Republican answer to EMILY's List, but the comparison reveals more than it conceals. EMILY's List operates at 50-100x WFW's scale ($1B+ cumulative vs. ~$20M cumulative for WFW). This asymmetry reflects a real structural difference: Democratic women donors are more organized, more numerous, and more ideologically motivated around gender representation. WFW's comparatively modest scale suggests that Republican mega-donors fund the organization instrumentally, as one tool among many for shaping the caucus, rather than from a deep commitment to gender equity in Republican politics. Annie Dickerson herself acknowledged this in 2017: she had to sell donors on the concept by arguing it wasn't "identity politics."
 
-The pattern this reveals: **Self-Funding as Independence** inverted. WFW doesn't claim independence — it claims identity alignment. But the donor list (Citadel, Stephens, CLF) reveals that the identity framing serves the same structural function as independence claims: it provides a narrative frame that obscures the donor class's actual interest in controlling who represents them in Congress.
+The pattern this reveals: **Self-Funding as Independence** inverted. WFW doesn't claim independence, it claims identity alignment. But the donor list (Citadel, Stephens, CLF) reveals that the identity framing serves the same structural function as independence claims: it provides a narrative frame that obscures the donor class's actual interest in controlling who represents them in Congress.
 
 ---
 

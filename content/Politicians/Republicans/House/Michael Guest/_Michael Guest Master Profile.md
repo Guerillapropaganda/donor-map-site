@@ -1,5 +1,5 @@
 ---
-title: "Michael Guest Master Profile"
+title: "Michael Guest"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

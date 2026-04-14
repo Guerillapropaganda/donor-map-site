@@ -67,9 +67,9 @@ Johnson has positioned himself as the crypto industry's congressional champion:
 
 ### Sources
 
-- ~~[Congress.gov: Mike Johnson campaign finance summary](https://www.congress.gov/search?q=Mike%20Johnson&searchResultViewType=expanded)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Mike Johnson campaign finance summary](https://www.congress.gov/search?q=Mike%20Johnson&searchResultViewType=expanded)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [The Intercept: AIPAC contributions after Israel aid package](https://theintercept.com/2024/01/20/israel-aipac-house-mike-johnson/) (Tier 2) (VERIFIED)
-- ~~[The Hill: Speaker Johnson Q3 fundraising record](https://thehill.com/homenews/house/4932824-mike-johnson-fundraising-house-republicans/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Speaker Johnson Q3 fundraising record](https://thehill.com/homenews/house/4932824-mike-johnson-fundraising-house-republicans/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Bitcoin Magazine: Speaker Johnson on crypto](https://bitcoinmagazine.com/politics/house-speaker-mike-johnson-on-congress-crypto-were-in-this-together) (Tier 2) (VERIFIED)
 - [CNBC: Mike Johnson's Louisiana donors](https://www.cnbc.com/2023/10/31/mike-johnsons-donors-could-become-key-funders-for-house-gop.html) (Tier 2) (VERIFIED)
 - [Rolling Stone: Tim Dunn Texas oil billionaire](https://www.rollingstone.com/politics/politics-features/tim-dunn-texas-oil-billionaire-trump-donor-1235033143/) (Tier 2) (VERIFIED)

@@ -32,10 +32,10 @@ donors: Miles White - Abbott Labs
 | Net cost per donor | $19 (gift card minus donation) |
 | Donors generated | 20,000 in 48 hours |
 | Total gift card cost | ~$400,000 |
-| Debate qualified | Yes — first Republican debate, Milwaukee |
+| Debate qualified | Yes, first Republican debate, Milwaukee |
 | Legal status | Divided expert opinion on straw donation laws |
 
-The economics: Burgum spent approximately $400,000 in gift cards to generate 20,000 donors who gave approximately $20,000 in total donations. The cost-per-qualifying-donor: $19. The function: converting wealth into the appearance of grassroots support. The RNC's donor threshold — designed to prove grassroots viability — was defeated by a billionaire willing to buy donors at $19 each.
+The economics: Burgum spent approximately $400,000 in gift cards to generate 20,000 donors who gave approximately $20,000 in total donations. The cost-per-qualifying-donor: $19. The function: converting wealth into the appearance of grassroots support. The RNC's donor threshold, designed to prove grassroots viability, was defeated by a billionaire willing to buy donors at $19 each.
 
 ---
 
@@ -47,11 +47,11 @@ The economics: Burgum spent approximately $400,000 in gift cards to generate 20,
 | 2023-06-07 | 21 other wealthy donors contribute to Best of America during June 2023 fundraising push | $9,000,000 | FEC filings |
 | 2023-06-30 | Best of America PAC completes June fundraising with average donation of $501,000 per donor | $11,000,000 | FEC filings |
 | 2023-06-30 | North Dakota and fossil fuel industry PACs (Petroleum Council, Lignite Energy Council, Minn-Dak Coop) contribute to Burgum's super PAC | Included in $11M | FEC filings |
-| 2023-07-01 | Burgum uses super PAC funds for summer presidential campaign advertising blitz | — | Campaign records |
+| 2023-07-01 | Burgum uses super PAC funds for summer presidential campaign advertising blitz |, | Campaign records |
 
 Additional identified donors included Steve Stenehjem (First International Bank CEO), Josh Duhamel (actor), J. Frank Harrison III (Coca-Cola CEO), Thomas J. Tierney (eBay chairman), Michael Fascitelli (Milwaukee Bucks owner), and Patrick Meenan and Ryan Kruizenga (Microsoft executives).
 
-The North Dakota Petroleum Council PAC, Lignite Energy Council PAC, and Minn-Dak Farmers Cooperative PAC also contributed — the fossil fuel industry backing one of its own.
+The North Dakota Petroleum Council PAC, Lignite Energy Council PAC, and Minn-Dak Farmers Cooperative PAC also contributed, the fossil fuel industry backing one of its own.
 
 ---
 
@@ -68,4 +68,4 @@ Burgum was one of two finalists for Trump's VP pick alongside [[_JD Vance Master
 
 - [OpenSecrets: Burgum 2024 presidential fundraising](https://www.opensecrets.org/members-of-congress/summary?name=20%20Dollar%20Gift%20Card%20Campaign%20and%20the%20Self-Funding%20Architecture) (Tier 1) (VERIFIED)
 - CBS News: Gift card legal questions (Tier 2)
-- ~~[Axios: Burgum VP consideration](https://www.axios.com/results?q=20%20Dollar%20Gift%20Card%20Campaign%20and%20the%20Self-Funding%20Architecture)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Axios: Burgum VP consideration](https://www.axios.com/results?q=20%20Dollar%20Gift%20Card%20Campaign%20and%20the%20Self-Funding%20Architecture)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

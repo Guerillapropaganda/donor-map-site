@@ -88,9 +88,9 @@ The DNI appointment rewards all three utilities simultaneously. The intelligence
 
 ### Sources
 
-- ~~[Washington Post: Gabbard-Assad meeting (January 2017)](https://www.washingtonpost.com/investigations/2025/01/21/tulsi-gabbard-syria-assad-nomination/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Washington Post: Gabbard-Assad meeting (January 2017)](https://www.washingtonpost.com/investigations/2025/01/21/tulsi-gabbard-syria-assad-nomination/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [ABC News: Gabbard's views on Russia shaped in part by Kremlin propaganda outlet, ex-aides say](https://abcnews.com/US/gabbards-views-russia-shaped-part-kremlin-propaganda-outlet/story?id=116430097) (Tier 2) (VERIFIED)
-- ~~[Washington Post: Gabbard Section 702 reversal at confirmation](https://www.washingtonpost.com/national-security/2025/01/28/tulsi-gabbard-section-702-fisa-surveillance/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Washington Post: Gabbard Section 702 reversal at confirmation](https://www.washingtonpost.com/national-security/2025/01/28/tulsi-gabbard-section-702-fisa-surveillance/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [NPR: Gabbard confirmed as DNI](https://www.npr.org/2025/02/12/nx-s1-5294635/tulsi-gabbard-confirmed-dni-intelligence-senate) (Tier 2) (VERIFIED)
 - [CNN: Hillary Clinton suggests Russians are 'grooming' Tulsi Gabbard for third-party run](https://www.cnn.com/2019/10/18/politics/hillary-clinton-tulsi-gabbard) (Tier 2) (VERIFIED)
 - [The Intercept: Tulsi Gabbard is a rising progressive star, despite her support for Hindu nationalists](https://theintercept.com/2019/01/05/tulsi-gabbard-2020-hindu-nationalist-modi/) (Tier 2) (VERIFIED)

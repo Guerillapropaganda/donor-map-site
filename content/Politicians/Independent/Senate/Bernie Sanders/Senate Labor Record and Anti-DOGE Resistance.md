@@ -34,18 +34,18 @@ Sanders used the Budget Committee chairmanship to conduct the most aggressive co
 ### Walmart hearings:
 - Documented $6.2 billion annual taxpayer cost: food stamps, housing assistance, and Medicaid for Walmart workers whose wages are too low to survive on
 - Introduced the Stop WALMART Act (with Ro Khanna): would have taxed large corporations for the public assistance their workers require
-- Framing: Walmart doesn't underpay workers — taxpayers subsidize Walmart's labor costs
+- Framing: Walmart doesn't underpay workers, taxpayers subsidize Walmart's labor costs
 
 ### Minimum wage:
 - Introduced Raise the Wage Act: $17/hour by 2028–2030 (benefiting 22+ million workers)
 - Previous version ($15/hour) was stripped from the American Rescue Plan by Senate parliamentarian ruling (2021)
-- Sanders attempted to override the parliamentarian — 42 Democrats supported, 8 Democrats voted against (including Manchin and Sinema)
+- Sanders attempted to override the parliamentarian, 42 Democrats supported, 8 Democrats voted against (including Manchin and Sinema)
 
 ---
 
-### PRO Act — The Structural Reform That Didn't Pass
+### PRO Act. The Structural Reform That Didn't Pass
 
-Sanders co-sponsored the Protecting the Right to Organize Act — the most significant proposed labor reform since the Wagner Act (1935).
+Sanders co-sponsored the Protecting the Right to Organize Act, the most significant proposed labor reform since the Wagner Act (1935).
 
 ### What it would have done:
 - Card check: union certification through majority sign-up (no employer-manipulated elections)
@@ -60,7 +60,7 @@ The PRO Act is the vault's measuring stick: every senator who claims to be pro-l
 
 ---
 
-### Senate HELP Committee — Ranking Member (2023–Present)
+### Senate HELP Committee. Ranking Member (2023–Present)
 
 After losing the Budget Committee chairmanship when Republicans took the Senate, Sanders became Ranking Member on the Health, Education, Labor & Pensions Committee:
 
@@ -73,7 +73,7 @@ After losing the Budget Committee chairmanship when Republicans took the Senate,
 
 ### Anti-DOGE Resistance (2025–2026)
 
-> [!money] Follow the Money — Fighting the Billionaire Government
+> [!money] Follow the Money. Fighting the Billionaire Government
 > When [[Elon Musk|Elon Musk]]'s DOGE operation began dismantling federal agencies — including the NLRB, CFPB, and agencies that regulate Musk's own companies — Sanders became the most visible opposition figure in the Senate.
 >
 > **"Hands Off!" rallies:** 1,400+ events organized nationwide. 600,000+ RSVPs. The largest grassroots political mobilization outside of a presidential campaign since the Women's March.
@@ -86,21 +86,21 @@ After losing the Budget Committee chairmanship when Republicans took the Senate,
 >
 > **February 2026:** Campaigning in California for billionaire wealth tax ballot measure.
 
-At 84, Sanders remains the most effective opposition voice to the Trump-Musk oligarchy documented across the vault. See [[DOGE - The Billionaires Government]] — Musk's $40 billion+ in federal contracts while running the agency that cuts regulators of his own companies.
+At 84, Sanders remains the most effective opposition voice to the Trump-Musk oligarchy documented across the vault. See [[DOGE - The Billionaires Government]]. Musk's $40 billion+ in federal contracts while running the agency that cuts regulators of his own companies.
 
 ---
 
-### Class Analysis — The Senate Trap
+### Class Analysis. The Senate Trap
 
 Sanders's Senate record demonstrates the structural limits of legislative insurgency:
 
 **What the Senate allows:** Investigations (Amazon, Walmart), rhetorical opposition (DOGE), budget amendments (minimum wage attempts), co-sponsorship of bills that will die (PRO Act, Medicare for All).
 
-**What the Senate blocks:** Structural reform. The filibuster requires 60 votes. The donor class funds enough senators on both sides to ensure labor reform, healthcare reform, and tax reform never reach 60. Sanders's chairmanship of Budget was his highest-leverage position — and even that couldn't override the filibuster.
+**What the Senate blocks:** Structural reform. The filibuster requires 60 votes. The donor class funds enough senators on both sides to ensure labor reform, healthcare reform, and tax reform never reach 60. Sanders's chairmanship of Budget was his highest-leverage position, and even that couldn't override the filibuster.
 
-**The question for labor:** Sanders's model — use Senate committee authority to investigate, introduce bills that frame the debate, build public support for class-based politics — has shifted the Overton window. $15 minimum wage went from fringe to mainstream. Medicare for All went from unthinkable to co-sponsored by 16 senators. But the structural power hasn't shifted: the PRO Act is still dead, Janus still stands, single-payer is still off the table, and the donor class still controls the nominating process.
+**The question for labor:** Sanders's model, use Senate committee authority to investigate, introduce bills that frame the debate, build public support for class-based politics, has shifted the Overton window. $15 minimum wage went from fringe to mainstream. Medicare for All went from unthinkable to co-sponsored by 16 senators. But the structural power hasn't shifted: the PRO Act is still dead, Janus still stands, single-payer is still off the table, and the donor class still controls the nominating process.
 
-Is the Sanders model a viable path to structural change, or is it the progressive version of the containment model — where the fight itself substitutes for victory?
+Is the Sanders model a viable path to structural change, or is it the progressive version of the containment model, where the fight itself substitutes for victory?
 
 ---
 

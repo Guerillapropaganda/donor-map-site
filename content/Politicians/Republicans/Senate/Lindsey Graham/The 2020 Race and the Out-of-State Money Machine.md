@@ -13,7 +13,7 @@ related: "[[_Lindsey Graham Master Profile]] · [[The McConnell Dark Money Empir
 ---
 #lindsey-graham #2020-election #out-of-state #jaime-harrison #dark-money #class-analysis #follow-the-money
 
-donors: [[Senate Leadership Fund]] · (One Nation — dark money)
+donors: [[Senate Leadership Fund]] · (One Nation, dark money)
 
 ---
 
@@ -55,7 +55,7 @@ Both candidates were funded primarily by national donors, not South Carolinians.
 > [!contradiction]
 > Graham represents one of the poorest states in the South. South Carolina's median household income: ~$56,000. Graham's donor base: 86% from outside South Carolina, dominated by defense contractors, lobbyist bundlers, and national conservative donors. The senator's financial dependence on out-of-state money means his constituent accountability is to national donor networks, not South Carolina voters. The voters provide the seat. The donors provide the money. The policy serves the donors.
 
-Graham's on-air fundraising plea during the 2020 campaign — begging viewers for donations on Fox News — went viral and illustrated the nationalized fundraising model. He wasn't asking South Carolinians. He was asking Fox News viewers nationwide.
+Graham's on-air fundraising plea during the 2020 campaign, begging viewers for donations on Fox News, went viral and illustrated the nationalized fundraising model. He wasn't asking South Carolinians. He was asking Fox News viewers nationwide.
 
 ---
 

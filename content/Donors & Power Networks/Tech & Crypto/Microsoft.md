@@ -115,7 +115,7 @@ Microsoft represents the corporate capture of government technology infrastructu
 - [Department of Defense: JWCC cloud contract award](https://www.defense.gov/News/Releases/Release/Article/3239378/) (Tier 1) (NEEDS REVIEW)
 - [SEC: Microsoft 10-K filing](https://www.sec.gov/cgi-bin/browse-edgar?company=microsoft&CIK=&type=10-K) (Tier 1) (VERIFIED)
 - [Washington Post: How Microsoft earned lawmakers trust in Silicon Valley battles](https://www.washingtonpost.com/technology/2022/01/19/microsoft-antitrust-lobbying-washington-reputation/) (Tier 2) (VERIFIED)
-- ~~[The Verge: Microsoft Activision acquisition and antitrust fight](https://www.theverge.com/microsoft-activision-acquisition/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[The Verge: Microsoft Activision acquisition and antitrust fight](https://www.theverge.com/microsoft-activision-acquisition/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Ballotpedia: Microsoft political spending](https://ballotpedia.org/Microsoft) (Tier 3) (VERIFIED)
 
 ### Lobbying Activity

@@ -40,7 +40,7 @@ donors: [[Koch Network - Charles Koch|Koch Network]] · [[Goldman Sachs]] · [[J
 
 ## Who He Is
 
-Paul Ryan. U.S. Representative (WI-1, 1999–2019). Speaker of the House (2015–2019). 2012 Vice Presidential nominee (with Mitt Romney). Fox Corporation board member (2019–present). Koch network beneficiary and ideological aligned congressman — chairman of the House Budget Committee (2011–2015) and Ways & Means Committee (2015–2019). Presented himself as "policy wonk" and "serious fiscal conservative" focused on deficit reduction and entitlement reform. Net worth: $6–15 million (2019 disclosure).
+Paul Ryan. U.S. Representative (WI-1, 1999–2019). Speaker of the House (2015–2019). 2012 Vice Presidential nominee (with Mitt Romney). Fox Corporation board member (2019–present). Koch network beneficiary and ideological aligned congressman, chairman of the House Budget Committee (2011–2015) and Ways & Means Committee (2015–2019). Presented himself as "policy wonk" and "serious fiscal conservative" focused on deficit reduction and entitlement reform. Net worth: $6–15 million (2019 disclosure).
 
 ---
 
@@ -85,9 +85,9 @@ Paul Ryan. U.S. Representative (WI-1, 1999–2019). Speaker of the House (2015�
 - **2016–2017:** Ryan chairs House Ways & Means Committee; Koch network mobilizes Americans for Prosperity to support tax cut legislation; [[Goldman Sachs]], JPMorgan, and financial sector maximize lobbying for corporate rate reduction
 - **December 2017:** Ryan shepherds Tax Cuts and Jobs Act through House; bill reduces corporate tax rate from 35% to 21%, provides $1.9 trillion in upward wealth transfer
 - **Direct benefit timeline:**
-  - Corporate tax cuts: Immediate revenue loss to government; immediate profit increase for corporations and shareholders
-  - Individual tax cuts (especially top earners): Immediate benefit to high-income taxpayers
-  - Financial sector: Deregulation + tax cuts = dual benefit
+ - Corporate tax cuts: Immediate revenue loss to government; immediate profit increase for corporations and shareholders
+ - Individual tax cuts (especially top earners): Immediate benefit to high-income taxpayers
+ - Financial sector: Deregulation + tax cuts = dual benefit
 - **Time gap:** Tax cuts passed December 2017; Ryan announces retirement July 2018. The sequence: deliver the legislative priority, collect the political payoff, exit Congress
 
 > [!money]
@@ -129,9 +129,9 @@ The post-Congress transition confirms the transaction. Ryan moved seamlessly fro
 
 ## Analytical Patterns
 
-**Donor-Class Override:** Ryan's entire congressional career was shaped by donor-class interests (Koch network, finance sector), not constituent interests. Wisconsin workers did not benefit from corporate tax cuts; Wall Street and Koch Industries did. Ryan's rhetoric about fiscal responsibility was purely performative — designed to make donor-class legislation sound intellectually serious.
+**Donor-Class Override:** Ryan's entire congressional career was shaped by donor-class interests (Koch network, finance sector), not constituent interests. Wisconsin workers did not benefit from corporate tax cuts; Wall Street and Koch Industries did. Ryan's rhetoric about fiscal responsibility was purely performative, designed to make donor-class legislation sound intellectually serious.
 
-**Genuine Win + Structural Limit:** Ryan's tax cut was a "genuine win" for donors (corporate rate reduction delivered), but it stopped short of threatening the federal government's capacity to spend. The deficit increased, but federal spending continued. Ryan never attempted structural entitlement reform (his stated goal) — he only attacked taxes. This pattern: deliver donor-class victories while avoiding structural change that might trigger voter backlash.
+**Genuine Win + Structural Limit:** Ryan's tax cut was a "genuine win" for donors (corporate rate reduction delivered), but it stopped short of threatening the federal government's capacity to spend. The deficit increased, but federal spending continued. Ryan never attempted structural entitlement reform (his stated goal), he only attacked taxes. This pattern: deliver donor-class victories while avoiding structural change that might trigger voter backlash.
 
 **The Policy Wonk as Delivery Mechanism:** Ryan's primary value to the Koch network was not his intellect but his ability to deliver legislation while maintaining credibility as a "serious thinker." His "policy wonk" brand made corporate tax cuts sound intellectually defensible, not just plutocratic. Donors pay for credibility more than for policy arguments.
 
@@ -142,12 +142,12 @@ The post-Congress transition confirms the transaction. Ryan moved seamlessly fro
 ## Sources
 
 - [FEC Candidate: Paul Ryan donor profile](https://www.fec.gov/data/candidate/P80003353/) (Tier 1) (VERIFIED)
-- ~~[FEC: Paul Ryan campaign finance (CID: N00004357)](https://www.fec.gov/data/candidate/H2WI01055/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[Center on Budget and Policy Priorities: Tax Cuts and Jobs Act deficit impact analysis](https://www.cbpp.org/sites/default/files/atoms/files/2020-10-14_tcja_deficit_impact_brief.pdf)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- [ProPublica: Paul Ryan Reading Guide — Koch network, budget policy, donor relationships](https://www.propublica.org/article/paul-ryan-reading-guide-the-best-reporting-on-the-vp-candidate) (Tier 2) (VERIFIED)
-- ~~[The Guardian: Paul Ryan's 2017 tax bill - deficit impact](https://www.theguardian.com/us-news/2017/dec/20/republicans-tax-bill-paul-ryan-deficit)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[FEC: Paul Ryan campaign finance (CID: N00004357)](https://www.fec.gov/data/candidate/H2WI01055/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Center on Budget and Policy Priorities: Tax Cuts and Jobs Act deficit impact analysis](https://www.cbpp.org/sites/default/files/atoms/files/2020-10-14_tcja_deficit_impact_brief.pdf)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- [ProPublica: Paul Ryan Reading Guide. Koch network, budget policy, donor relationships](https://www.propublica.org/article/paul-ryan-reading-guide-the-best-reporting-on-the-vp-candidate) (Tier 2) (VERIFIED)
+- ~~[The Guardian: Paul Ryan's 2017 tax bill - deficit impact](https://www.theguardian.com/us-news/2017/dec/20/republicans-tax-bill-paul-ryan-deficit)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Wikipedia: Tax Cuts and Jobs Act - Paul Ryan role](https://en.wikipedia.org/wiki/Tax_Cuts_and_Jobs_Act_of_2017) (Tier 3) (VERIFIED)
-- ~~[Congress.gov: Paul Ryan voting record](https://www.congress.gov/member/paul-ryan/R000570)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Paul Ryan voting record](https://www.congress.gov/member/paul-ryan/R000570)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [CNN: Former House Speaker Paul Ryan joins board of Fox Corporation (Mar 2019)](https://www.cnn.com/2019/03/19/media/paul-ryan-fox-corporation/index.html) (Tier 2) (VERIFIED)
 
 ## Influence Network (Cross-Reference)

@@ -15,7 +15,7 @@ donors: [[Rupert Murdoch]] [[Koch Network - Charles Koch]]
 
 ---
 
-### Fox News to Pentagon — The Media-Military Pipeline
+### Fox News to Pentagon. The Media-Military Pipeline
 
 > [!money]
 > [[_Pete Hegseth Master Profile|Pete Hegseth]] earned $4.6 million in salary from Fox News over two years (2022–2024), plus $900,000 in speaking fees (40 events), and $498,000+ in book advances. Total pre-Pentagon income: $6.3–9 million over two years. Fox News didn't just employ Hegseth — it created him. The weekend couch became the audition stage for Secretary of Defense. Trump watched Fox & Friends Weekend, liked what he saw, and appointed a television personality to run the largest military in the world. The pipeline from Koch-funded advocacy to Fox News to the Pentagon is seamless: each stage built Hegseth's brand while serving the conservative donor ecosystem.
@@ -31,7 +31,7 @@ donors: [[Rupert Murdoch]] [[Koch Network - Charles Koch]]
 | 2023-01-01 | Hegseth begins paid speaking circuit while maintaining Fox position | $900,000 (40 events, 2023–2024) | Financial disclosure |
 | 2024-01-01 | Hegseth receives advance for "The War on Warriors" book | $348,000 | Financial disclosure |
 | 2024-01-01 | Hegseth continues Fox salary while collecting book royalties from published works | $100,000–$1M (ongoing) | Financial disclosure |
-| 2024-11-01 | Trump nominates Hegseth as Secretary of Defense after decade-long Fox audition | — | Trump announcement |
+| 2024-11-01 | Trump nominates Hegseth as Secretary of Defense after decade-long Fox audition |, | Trump announcement |
 | 2024-12-01 | Hegseth confirmed as Secretary of Defense, controlling $850B defense budget | $253,100 salary | Government salary records |
 
 ---
@@ -40,9 +40,9 @@ donors: [[Rupert Murdoch]] [[Koch Network - Charles Koch]]
 
 Hegseth's Fox career was a decade-long audition for Trump's attention:
 
-**2014–2024:** Co-host of Fox & Friends Weekend — Trump's known viewing habit. The show's format (friendly couch chat, culture war segments, military valorization) perfectly aligned with Trump's preferences.
+**2014–2024:** Co-host of Fox & Friends Weekend. Trump's known viewing habit. The show's format (friendly couch chat, culture war segments, military valorization) perfectly aligned with Trump's preferences.
 
-**War crimes advocacy (2019):** Hegseth used his Fox platform to lobby Trump directly — on air — to pardon servicemembers convicted or accused of war crimes: Army Lt. Clint Lorance (murder), Major Mathew Golsteyn (war crimes charges), Navy SEAL Eddie Gallagher (war crimes charges). Trump granted the pardons. Hegseth also hosted Blackwater founder Erik Prince to discuss the "unfair prosecutions" of Blackwater employees who killed 17 Iraqi civilians at Nisour Square.
+**War crimes advocacy (2019):** Hegseth used his Fox platform to lobby Trump directly, on air, to pardon servicemembers convicted or accused of war crimes: Army Lt. Clint Lorance (murder), Major Mathew Golsteyn (war crimes charges), Navy SEAL Eddie Gallagher (war crimes charges). Trump granted the pardons. Hegseth also hosted Blackwater founder Erik Prince to discuss the "unfair prosecutions" of Blackwater employees who killed 17 Iraqi civilians at Nisour Square.
 
 > [!money]
 > The war crimes pardon advocacy wasn't journalism — it was a policy pitch delivered through television directly to the president. Hegseth identified something Trump wanted to hear (military loyalty over rules of engagement) and used his Fox platform to deliver it. The pardons served as proof of concept: Hegseth could move Trump's policy positions through media performance. The Defense Secretary appointment was the reward for a decade of demonstrated loyalty through the screen.

@@ -1,5 +1,5 @@
 ---
-title: "Joe Neguse Master Profile"
+title: "Joe Neguse"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

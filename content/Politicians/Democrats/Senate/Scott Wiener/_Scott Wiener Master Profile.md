@@ -2,7 +2,7 @@
 title: "Scott Wiener"
 type: politician
 content-readiness: draft
-central-thesis: "Wiener is the YIMBY movement's legislative champion — a pro-housing Democrat whose landmark bills (SB 35, SB 50, SB 827) have reshaped California development policy. But his funding reveals the core tension: over $500K from real estate interests a..."
+central-thesis: "Wiener is the YIMBY movement's legislative champion , a pro-housing Democrat whose landmark bills (SB 35, SB 50, SB 827) have reshaped California development policy. But his funding reveals the core tension: over $500K from real estate interests a..."
 last-updated: 2026-04-07
 source-tier: 1
 parent: null
@@ -35,7 +35,7 @@ Scott Wiener (born May 11, 1970, San Francisco) represents California's 11th Sen
 
 ## The Central Thesis
 
-Wiener is the YIMBY movement's legislative champion — a pro-housing Democrat whose landmark bills (SB 35, SB 50, SB 827) have reshaped California development policy. But his funding reveals the core tension: over $500K from real estate interests across his career. He serves the progressive constituency's desire for more housing while also serving real estate developers' desire for fewer regulatory barriers to construction. These interests align on housing supply but diverge on tenant protections, rent control, and the question of who profits from new construction.
+Wiener is the YIMBY movement's legislative champion, a pro-housing Democrat whose landmark bills (SB 35, SB 50, SB 827) have reshaped California development policy. But his funding reveals the core tension: over $500K from real estate interests across his career. He serves the progressive constituency's desire for more housing while also serving real estate developers' desire for fewer regulatory barriers to construction. These interests align on housing supply but diverge on tenant protections, rent control, and the question of who profits from new construction.
 
 ---
 
@@ -71,14 +71,14 @@ Wiener is the YIMBY movement's legislative champion — a pro-housing Democrat w
 | Date | Money In | Amount | Policy Out | Time Gap |
 |------|----------|--------|------------|----------|
 | Career | Real estate developers | $500K+ | SB 35 (streamlined housing approvals), SB 827, SB 50 (transit-oriented density) | Ongoing |
-| Career | Tech industry donors | Undisclosed | SB 1047 (AI regulation — vetoed by Newsom) | Ongoing |
+| Career | Tech industry donors | Undisclosed | SB 1047 (AI regulation, vetoed by Newsom) | Ongoing |
 
 ---
 
 ## Policy Area Notes
 
 No sub-notes built yet. Key policy areas:
-- Housing (SB 35, SB 50, SB 827 — pro-density, streamlined approvals)
+- Housing (SB 35, SB 50, SB 827, pro-density, streamlined approvals)
 - AI regulation (SB 1047, vetoed by Newsom)
 - Psychedelic therapy legalization
 - Anti-conversion therapy legislation
@@ -89,14 +89,14 @@ No sub-notes built yet. Key policy areas:
 
 ## Rhetorical Signature Moves
 
-Wiener uses technocratic framing — "supply and demand," "evidence-based housing policy," "cutting red tape" — that appeals to both progressive urbanists and developer interests. This language obscures the distributional question: more housing built by whom, for whom, at what price point? He positions opposition to his bills as NIMBYism, which is effective but collapses legitimate tenant protection concerns into bad-faith obstructionism.
+Wiener uses technocratic framing, "supply and demand," "evidence-based housing policy," "cutting red tape", that appeals to both progressive urbanists and developer interests. This language obscures the distributional question: more housing built by whom, for whom, at what price point? He positions opposition to his bills as NIMBYism, which is effective but collapses legitimate tenant protection concerns into bad-faith obstructionism.
 
 ---
 
 ## Analytical Patterns
 
-- **Genuine Win + Structural Limit** — His housing bills genuinely increase supply, but stop short of requiring affordability mandates that would threaten developer profit margins.
-- **Two-Audience Problem** — One message for YIMBY activists and housing advocates (more housing, lower rents), another message implicit in his donor relationships (fewer regulations, higher returns on development).
+- **Genuine Win + Structural Limit**. His housing bills genuinely increase supply, but stop short of requiring affordability mandates that would threaten developer profit margins.
+- **Two-Audience Problem**. One message for YIMBY activists and housing advocates (more housing, lower rents), another message implicit in his donor relationships (fewer regulations, higher returns on development).
 
 ---
 
@@ -113,7 +113,7 @@ Wiener uses technocratic framing — "supply and demand," "evidence-based housin
 - [Lawfare: Wiener on SB 53](https://www.lawfaremedia.org/article/scaling-laws--sen.-scott-wiener-on-california-senate-bill-53) (Tier 2) (VERIFIED)
 - [Forward: Wiener steps down from Jewish Caucus](https://forward.com/fast-forward/799791/facing-backlash-after-accusing-israel-of-genocide-scott-wiener-steps-down-as-calif-jewish-caucus-co-chair/) (Tier 2) (VERIFIED)
 - [SF Chronicle: Wiener and Pelosi endorsement](https://www.sfchronicle.com/politics/article/scott-wiener-democrats-nancy-pelosi-21360874.php) (Tier 2) (VERIFIED)
-- ~~[NYT: Pelosi and Wiener congressional race](https://www.nytimes.com/2025/10/22/us/pelosi-congress-scott-wiener.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[NYT: Pelosi and Wiener congressional race](https://www.nytimes.com/2025/10/22/us/pelosi-congress-scott-wiener.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [The Advocate: Wiener endorsed by five organizations](https://www.advocate.com/politics/scott-wiener-endorsed-five-organizations) (Tier 3) (VERIFIED)
 
 ---

@@ -8,45 +8,45 @@ last-updated: '2026-04-11'
 generated-by: scripts/morning-briefing.cjs
 ---
 
-# Morning Briefing — 2026-04-11
+# Morning Briefing, 2026-04-11
 
 Generated: 2026-04-11T09:11:45.759Z
 
-## 🎯 Sign-off queue — mechanically ready for A+
+## 🎯 Sign-off queue, mechanically ready for A+
 
 **124 profiles** passed every automated A+ check and are waiting only on your manual editorial sign-off.
 
 Top 10 oldest (by stamp date):
 
-- `2026-04-11` **ADM - Archer Daniels Midland** (corporation) — `Donors & Power Networks/Agriculture/ADM - Archer Daniels Midland.md`
-- `2026-04-11` **American Farm Bureau Federation** (donor) — `Donors & Power Networks/Agriculture/American Farm Bureau Federation.md`
-- `2026-04-11` **Monsanto - Bayer** (corporation) — `Donors & Power Networks/Agriculture/Monsanto - Bayer.md`
-- `2026-04-11` **GEO Group - Private Prison Industrial Complex** (corporation) — `Donors & Power Networks/Carceral State/GEO Group.md`
-- `2026-04-11` **Alliance Defending Freedom** (donor) — `Donors & Power Networks/Dark Money/Alliance Defending Freedom.md`
-- `2026-04-11` **American Action Network** (donor) — `Donors & Power Networks/Dark Money/American Action Network.md`
-- `2026-04-11` **American Enterprise Institute** (donor) — `Donors & Power Networks/Dark Money/American Enterprise Institute.md`
-- `2026-04-11` **Bradley Foundation** (donor) — `Donors & Power Networks/Dark Money/Bradley Foundation.md`
-- `2026-04-11` **Bradley Impact Fund** (donor) — `Donors & Power Networks/Dark Money/Bradley Impact Fund.md`
-- `2026-04-11` **Business Council of Alabama** (donor) — `Donors & Power Networks/Dark Money/Business Council of Alabama.md`
+- `2026-04-11` **ADM - Archer Daniels Midland** (corporation), `Donors & Power Networks/Agriculture/ADM - Archer Daniels Midland.md`
+- `2026-04-11` **American Farm Bureau Federation** (donor), `Donors & Power Networks/Agriculture/American Farm Bureau Federation.md`
+- `2026-04-11` **Monsanto - Bayer** (corporation), `Donors & Power Networks/Agriculture/Monsanto - Bayer.md`
+- `2026-04-11` **GEO Group - Private Prison Industrial Complex** (corporation), `Donors & Power Networks/Carceral State/GEO Group.md`
+- `2026-04-11` **Alliance Defending Freedom** (donor), `Donors & Power Networks/Dark Money/Alliance Defending Freedom.md`
+- `2026-04-11` **American Action Network** (donor), `Donors & Power Networks/Dark Money/American Action Network.md`
+- `2026-04-11` **American Enterprise Institute** (donor), `Donors & Power Networks/Dark Money/American Enterprise Institute.md`
+- `2026-04-11` **Bradley Foundation** (donor), `Donors & Power Networks/Dark Money/Bradley Foundation.md`
+- `2026-04-11` **Bradley Impact Fund** (donor), `Donors & Power Networks/Dark Money/Bradley Impact Fund.md`
+- `2026-04-11` **Business Council of Alabama** (donor), `Donors & Power Networks/Dark Money/Business Council of Alabama.md`
 
-## 💎 S-tier candidates — have angle + original-finding, no narrative sign-off
+## 💎 S-tier candidates, have angle + original-finding, no narrative sign-off
 
 _None yet. S-tier candidates need: `angle`, 3+ `exclusive-connections`, `original-finding`._
 
-## 🕸 Super-connectors — top cross-vault triangulation
+## 🕸 Super-connectors, top cross-vault triangulation
 
-These profiles have connections that appear across many unrelated vault profiles — likely strong S-tier candidates:
+These profiles have connections that appear across many unrelated vault profiles, likely strong S-tier candidates:
 
-- **Koch Industries** (corporation) — 35 triangulations
-- **AIPAC - American Israel Public Affairs Committee** (donor) — 33 triangulations
-- **JPMorgan Chase** (corporation) — 33 triangulations
-- **Elon Musk** (donor) — 32 triangulations
-- **Koch Network - Charles Koch** (donor) — 32 triangulations
-- **Crypto Industry Bloc** (corporation) — 32 triangulations
-- **Google - Alphabet** (corporation) — 32 triangulations
-- **ExxonMobil** (corporation) — 31 triangulations
-- **Chevron** (corporation) — 29 triangulations
-- **Miriam Adelson** (donor) — 28 triangulations
+- **Koch Industries** (corporation), 35 triangulations
+- **AIPAC - American Israel Public Affairs Committee** (donor), 33 triangulations
+- **JPMorgan Chase** (corporation), 33 triangulations
+- **Elon Musk** (donor), 32 triangulations
+- **Koch Network - Charles Koch** (donor), 32 triangulations
+- **Crypto Industry Bloc** (corporation), 32 triangulations
+- **Google - Alphabet** (corporation), 32 triangulations
+- **ExxonMobil** (corporation), 31 triangulations
+- **Chevron** (corporation), 29 triangulations
+- **Miriam Adelson** (donor), 28 triangulations
 
 ## ⚠️ Anomaly-flagged profiles
 

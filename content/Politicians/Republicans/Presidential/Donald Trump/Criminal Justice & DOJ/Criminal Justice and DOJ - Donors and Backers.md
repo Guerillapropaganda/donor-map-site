@@ -37,13 +37,13 @@ The clearest transactional donor-to-policy connection in the Trump record. Indiv
 | Date | Event | Amount | Source |
 |------|-------|--------|--------|
 | 2016-01-01 | Kushner family donates to Trump campaign and inaugural committee (exact dates pending) | $1,100,000 | FEC filings |
-| 2021-01-20 | Charles Kushner pardoned (tax evasion, witness tampering) on Trump's last day in office | — | White House records |
+| 2021-01-20 | Charles Kushner pardoned (tax evasion, witness tampering) on Trump's last day in office |, | White House records |
 | 2016-01-01 | Elliott Broidy bundles donations to Trump aligned entities (exact dates pending) | $600,000 | FEC filings |
-| 2021-01-20 | Elliott Broidy pardoned (conspiracy to violate foreign lobbying laws) on Trump's last day in office | — | White House records |
+| 2021-01-20 | Elliott Broidy pardoned (conspiracy to violate foreign lobbying laws) on Trump's last day in office |, | White House records |
 | 2016-01-01 | Trevor Milton donates to Trump aligned PACs (exact dates pending) | $2,000,000 | FEC filings |
-| 2021-01-20 | Trevor Milton pardoned (securities violations, Nikola Corporation) on Trump's last day in office | — | White House records |
+| 2021-01-20 | Trevor Milton pardoned (securities violations, Nikola Corporation) on Trump's last day in office |, | White House records |
 | 2016-01-01 | Betancourt family donates to Trump interests (exact dates pending) | $3,500,000 | FEC filings |
-| 2021-01-20 | Maikel Moreno pardoned (money laundering) on Trump's last day in office (Betancourt family interest) | — | White House records |
+| 2021-01-20 | Maikel Moreno pardoned (money laundering) on Trump's last day in office (Betancourt family interest) |, | White House records |
 
 > [!money]
 > Only 25 of 238 first term clemency actions went through the DOJ Office of the Pardon Attorney. The remaining 213 bypassed institutional review entirely. The ad hoc process created a direct channel from donor to pardon with no systematic filter for identifying or preventing transactional clemency. When the institutional review is bypassed, the only qualification for clemency is proximity to power. And proximity is purchased.

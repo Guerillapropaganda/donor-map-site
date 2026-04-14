@@ -43,9 +43,9 @@ The moderate positioning creates a specific donor incentive structure:
 
 1. **Premium pricing:** A "swing vote" is worth more than a guaranteed vote. Donors who need a 50th or 51st senator will pay premium for the senator who appears persuadable. Collins's "undecided" positioning on key votes generates fundraising pressure from both sides.
 
-2. **ACA vote (2017):** Collins voted against skinny repeal — preserving the moderate brand. Insurance donors ($1.17M career) got their preferred outcome (ACA preserved). The vote looked independent but aligned perfectly with insurance industry interests.
+2. **ACA vote (2017):** Collins voted against skinny repeal, preserving the moderate brand. Insurance donors ($1.17M career) got their preferred outcome (ACA preserved). The vote looked independent but aligned perfectly with insurance industry interests.
 
-3. **Kavanaugh vote (2018):** Collins voted for confirmation — rewarded with $1.8M from national conservative donors. The "agonizing deliberation" performance maximized the drama and the fundraising from supporters.
+3. **Kavanaugh vote (2018):** Collins voted for confirmation, rewarded with $1.8M from national conservative donors. The "agonizing deliberation" performance maximized the drama and the fundraising from supporters.
 
 4. **Tax bill vote (2017):** Collins voted for Trump tax cuts after Schwarzman's $2M and dropped her carried interest amendment. Private equity got its preferred outcome. Collins got her "reluctant yes" brand intact.
 
@@ -56,7 +56,7 @@ The moderate positioning creates a specific donor incentive structure:
 
 ### The Defense Connection
 
-Collins sits on Defense Appropriations and Armed Services. General Dynamics ($163K+ career) owns Bath Iron Works — Maine's largest manufacturing employer. Collins's husband Thomas Daffron holds stock in 12+ defense contractors including Raytheon, [[Lockheed Martin|Lockheed Martin]], [[Boeing|Boeing]], and Honeywell. The defense spending Collins secures for BIW serves both her state's economy and her household's investment portfolio.
+Collins sits on Defense Appropriations and Armed Services. General Dynamics ($163K+ career) owns Bath Iron Works. Maine's largest manufacturing employer. Collins's husband Thomas Daffron holds stock in 12+ defense contractors including Raytheon, [[Lockheed Martin|Lockheed Martin]], [[Boeing|Boeing]], and Honeywell. The defense spending Collins secures for BIW serves both her state's economy and her household's investment portfolio.
 
 ---
 

@@ -55,6 +55,6 @@ UDP/AIPAC's spending is funded by a relatively small number of wealthy donors, m
 
 - [OpenSecrets: AIPAC PAC spending](https://www.opensecrets.org/political-action-committees-pacs/aipac/C00104638/summary/2024) (Tier 1) (VERIFIED)
 - [FEC: United Democracy Project filings](https://www.fec.gov/data/committee/C00798231/) (Tier 1) (VERIFIED)
-- ~~[OpenSecrets: DMFI spending](https://www.opensecrets.org/political-action-committees-pacs/democratic-majority-for-israel/C00764431/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: DMFI spending](https://www.opensecrets.org/political-action-committees-pacs/democratic-majority-for-israel/C00764431/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Ballotpedia: 2024 AIPAC primary spending](https://ballotpedia.org/AIPAC) (Tier 3) (VERIFIED)
 

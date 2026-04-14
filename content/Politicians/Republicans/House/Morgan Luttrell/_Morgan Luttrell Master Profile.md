@@ -1,5 +1,5 @@
 ---
-title: "Morgan Luttrell Master Profile"
+title: "Morgan Luttrell"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

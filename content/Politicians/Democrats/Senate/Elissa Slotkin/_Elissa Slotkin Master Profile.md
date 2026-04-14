@@ -1,5 +1,5 @@
 ---
-title: "Elissa Slotkin Master Profile"
+title: "Elissa Slotkin"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -12,2446 +12,2446 @@ generated-by: scripts/connection-suggester.cjs
 
 Generated: 2026-04-11T09:11:46.770Z
 
-These are candidate relationships that _should_ probably exist based on committee-to-sector overlap, but aren't currently in the vault. Each suggestion needs Research Claude review — some will be real hits, others will be noise (e.g., a donor's sector is technically "Wall Street" but they never actually gave to this politician).
+These are candidate relationships that _should_ probably exist based on committee-to-sector overlap, but aren't currently in the vault. Each suggestion needs Research Claude review, some will be real hits, others will be noise (e.g. a donor's sector is technically "Wall Street" but they never actually gave to this politician).
 
 **Total suggestions:** 2446 across 63 politicians.
 
-## Adam Smith  _(16 candidates)_
+## Adam Smith _(16 candidates)_
 
 - **American Iron and Steel Institute** _(Defense & Intelligence)_
-  - Adam Smith is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to American Iron and Steel Institute is documented.
+ - Adam Smith is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to American Iron and Steel Institute is documented.
 - **Anduril Industries** _(Defense & Intelligence)_
-  - Adam Smith is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Anduril Industries is documented.
+ - Adam Smith is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Anduril Industries is documented.
 - **BAE Systems** _(Defense & Intelligence)_
-  - Adam Smith is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to BAE Systems is documented.
+ - Adam Smith is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to BAE Systems is documented.
 - **Bechtel Corporation** _(Defense & Intelligence)_
-  - Adam Smith is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Bechtel Corporation is documented.
+ - Adam Smith is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Bechtel Corporation is documented.
 - **Boeing Defense** _(Defense & Intelligence)_
-  - Adam Smith is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Boeing Defense is documented.
+ - Adam Smith is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Boeing Defense is documented.
 - **Booz Allen Hamilton** _(Defense & Intelligence)_
-  - Adam Smith is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Booz Allen Hamilton is documented.
+ - Adam Smith is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Booz Allen Hamilton is documented.
 - **Defense Contractors Bloc** _(Defense & Intelligence)_
-  - Adam Smith is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Contractors Bloc is documented.
+ - Adam Smith is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Contractors Bloc is documented.
 - **Defense Contractors** _(Defense & Intelligence)_
-  - Adam Smith is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Contractors is documented.
+ - Adam Smith is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Contractors is documented.
 - **Defense Industry Bloc** _(Defense & Intelligence)_
-  - Adam Smith is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Industry Bloc is documented.
+ - Adam Smith is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Industry Bloc is documented.
 - **Defense Industry** _(Defense & Intelligence)_
-  - Adam Smith is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Industry is documented.
+ - Adam Smith is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Industry is documented.
 - **General Dynamics** _(Defense & Intelligence)_
-  - Adam Smith is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to General Dynamics is documented.
+ - Adam Smith is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to General Dynamics is documented.
 - **Honeywell International** _(Defense & Intelligence)_
-  - Adam Smith is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Honeywell International is documented.
+ - Adam Smith is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Honeywell International is documented.
 - **L3 Technologies** _(Defense & Intelligence)_
-  - Adam Smith is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to L3 Technologies is documented.
+ - Adam Smith is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to L3 Technologies is documented.
 - **L3Harris Technologies** _(Defense & Intelligence)_
-  - Adam Smith is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to L3Harris Technologies is documented.
+ - Adam Smith is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to L3Harris Technologies is documented.
 - **Leidos** _(Defense & Intelligence)_
-  - Adam Smith is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Leidos is documented.
+ - Adam Smith is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Leidos is documented.
 - **Nucor Corporation** _(Defense & Intelligence)_
-  - Adam Smith is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Nucor Corporation is documented.
+ - Adam Smith is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Nucor Corporation is documented.
 
-## Angie Craig Master Profile  _(13 candidates)_
+## Angie Craig Master Profile _(13 candidates)_
 
 - **ADM - Archer Daniels Midland** _(Agriculture)_
-  - Angie Craig Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to ADM - Archer Daniels Midland is documented.
+ - Angie Craig Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to ADM - Archer Daniels Midland is documented.
 - **Agribusiness Donor Bloc** _(Agriculture)_
-  - Angie Craig Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Agribusiness Donor Bloc is documented.
+ - Angie Craig Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Agribusiness Donor Bloc is documented.
 - **Agricultural Labor Vulnerability Donors** _(Agriculture)_
-  - Angie Craig Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Agricultural Labor Vulnerability Donors is documented.
+ - Angie Craig Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Agricultural Labor Vulnerability Donors is documented.
 - **American Farm Bureau Federation** _(Agriculture)_
-  - Angie Craig Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to American Farm Bureau Federation is documented.
+ - Angie Craig Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to American Farm Bureau Federation is documented.
 - **CA Farm Bureau Federation** _(Agriculture)_
-  - Angie Craig Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to CA Farm Bureau Federation is documented.
+ - Angie Craig Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to CA Farm Bureau Federation is documented.
 - **California Farm Bureau Federation** _(Agriculture)_
-  - Angie Craig Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to California Farm Bureau Federation is documented.
+ - Angie Craig Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to California Farm Bureau Federation is documented.
 - **Cargill** _(Agriculture)_
-  - Angie Craig Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Cargill is documented.
+ - Angie Craig Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Cargill is documented.
 - **Fanjul Family - Florida Crystals** _(Agriculture)_
-  - Angie Craig Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Fanjul Family - Florida Crystals is documented.
+ - Angie Craig Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Fanjul Family - Florida Crystals is documented.
 - **John Deere** _(Agriculture)_
-  - Angie Craig Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to John Deere is documented.
+ - Angie Craig Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to John Deere is documented.
 - **Monsanto - Bayer** _(Agriculture)_
-  - Angie Craig Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Monsanto - Bayer is documented.
+ - Angie Craig Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Monsanto - Bayer is documented.
 - **National Cattlemen's Beef Association** _(Agriculture)_
-  - Angie Craig Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to National Cattlemen's Beef Association is documented.
+ - Angie Craig Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to National Cattlemen's Beef Association is documented.
 - **Tyson Foods** _(Agriculture)_
-  - Angie Craig Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Tyson Foods is documented.
+ - Angie Craig Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Tyson Foods is documented.
 - **Western Growers Association** _(Agriculture)_
-  - Angie Craig Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Western Growers Association is documented.
+ - Angie Craig Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Western Growers Association is documented.
 
-## Ayanna Pressley Master Profile  _(30 candidates)_
+## Ayanna Pressley Master Profile _(30 candidates)_
 
 - **Apollo Global Management** _(Wall Street)_
-  - Ayanna Pressley Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Apollo Global Management is documented.
+ - Ayanna Pressley Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Apollo Global Management is documented.
 - **Bank of America** _(Wall Street)_
-  - Ayanna Pressley Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Bank of America is documented.
+ - Ayanna Pressley Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Bank of America is documented.
 - **BlackRock** _(Wall Street)_
-  - Ayanna Pressley Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to BlackRock is documented.
+ - Ayanna Pressley Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to BlackRock is documented.
 - **Blackstone Group** _(Wall Street)_
-  - Ayanna Pressley Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Blackstone Group is documented.
+ - Ayanna Pressley Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Blackstone Group is documented.
 - **Blackstone Real Estate Political Operation** _(Wall Street)_
-  - Ayanna Pressley Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Blackstone Real Estate Political Operation is documented.
+ - Ayanna Pressley Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Blackstone Real Estate Political Operation is documented.
 - **CalPERS** _(Wall Street)_
-  - Ayanna Pressley Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to CalPERS is documented.
+ - Ayanna Pressley Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to CalPERS is documented.
 - **CalSTRS - California State Teachers' Retirement System** _(Wall Street)_
-  - Ayanna Pressley Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to CalSTRS - California State Teachers' Retirement System is documented.
+ - Ayanna Pressley Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to CalSTRS - California State Teachers' Retirement System is documented.
 - **Carlyle Group** _(Wall Street)_
-  - Ayanna Pressley Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Carlyle Group is documented.
+ - Ayanna Pressley Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Carlyle Group is documented.
 - **Charles Schwab** _(Wall Street)_
-  - Ayanna Pressley Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Charles Schwab is documented.
+ - Ayanna Pressley Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Charles Schwab is documented.
 - **Citadel - Kenneth Griffin** _(Wall Street)_
-  - Ayanna Pressley Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Citadel - Kenneth Griffin is documented.
+ - Ayanna Pressley Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Citadel - Kenneth Griffin is documented.
 - **Citigroup** _(Wall Street)_
-  - Ayanna Pressley Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Citigroup is documented.
+ - Ayanna Pressley Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Citigroup is documented.
 - **Elliott Management** _(Wall Street)_
-  - Ayanna Pressley Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Elliott Management is documented.
+ - Ayanna Pressley Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Elliott Management is documented.
 - **Fidelity Investments** _(Wall Street)_
-  - Ayanna Pressley Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Fidelity Investments is documented.
+ - Ayanna Pressley Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Fidelity Investments is documented.
 - **Financial Services Donors** _(Wall Street)_
-  - Ayanna Pressley Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Financial Services Donors is documented.
+ - Ayanna Pressley Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Financial Services Donors is documented.
 - **Goldman Sachs** _(Wall Street)_
-  - Ayanna Pressley Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Goldman Sachs is documented.
+ - Ayanna Pressley Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Goldman Sachs is documented.
 - **Hedge Fund Industry Bloc** _(Wall Street)_
-  - Ayanna Pressley Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Hedge Fund Industry Bloc is documented.
+ - Ayanna Pressley Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Hedge Fund Industry Bloc is documented.
 - **JPMorgan Chase** _(Wall Street)_
-  - Ayanna Pressley Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to JPMorgan Chase is documented.
+ - Ayanna Pressley Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to JPMorgan Chase is documented.
 - **Lawrence Summers** _(Wall Street)_
-  - Ayanna Pressley Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Lawrence Summers is documented.
+ - Ayanna Pressley Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Lawrence Summers is documented.
 - **MassMutual** _(Wall Street)_
-  - Ayanna Pressley Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to MassMutual is documented.
+ - Ayanna Pressley Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to MassMutual is documented.
 - **MBNA Corporation** _(Wall Street)_
-  - Ayanna Pressley Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to MBNA Corporation is documented.
-- _...and 10 more_
+ - Ayanna Pressley Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to MBNA Corporation is documented.
+- _..and 10 more_
 
-## Frank Pallone  _(28 candidates)_
+## Frank Pallone _(28 candidates)_
 
 - **Alabama Power** _(Energy & Utilities)_
-  - Frank Pallone is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Alabama Power is documented.
+ - Frank Pallone is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Alabama Power is documented.
 - **American Fuel and Petrochemical Manufacturers** _(Energy & Utilities)_
-  - Frank Pallone is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to American Fuel and Petrochemical Manufacturers is documented.
+ - Frank Pallone is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to American Fuel and Petrochemical Manufacturers is documented.
 - **American Petroleum Institute** _(Energy & Utilities)_
-  - Frank Pallone is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to American Petroleum Institute is documented.
+ - Frank Pallone is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to American Petroleum Institute is documented.
 - **Chevron** _(Energy & Utilities)_
-  - Frank Pallone is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Chevron is documented.
+ - Frank Pallone is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Chevron is documented.
 - **ConocoPhillips** _(Energy & Utilities)_
-  - Frank Pallone is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to ConocoPhillips is documented.
+ - Frank Pallone is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to ConocoPhillips is documented.
 - **Consumer Energy Alliance** _(Energy & Utilities)_
-  - Frank Pallone is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Consumer Energy Alliance is documented.
+ - Frank Pallone is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Consumer Energy Alliance is documented.
 - **Devon Energy** _(Energy & Utilities)_
-  - Frank Pallone is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Devon Energy is documented.
+ - Frank Pallone is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Devon Energy is documented.
 - **Drummond Co.** _(Energy & Utilities)_
-  - Frank Pallone is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Drummond Co. is documented.
+ - Frank Pallone is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Drummond Co. is documented.
 - **Duke Energy** _(Energy & Utilities)_
-  - Frank Pallone is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Duke Energy is documented.
+ - Frank Pallone is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Duke Energy is documented.
 - **Enterprise Products Partners** _(Energy & Utilities)_
-  - Frank Pallone is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Enterprise Products Partners is documented.
+ - Frank Pallone is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Enterprise Products Partners is documented.
 - **Ethanol Industry** _(Energy & Utilities)_
-  - Frank Pallone is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Ethanol Industry is documented.
+ - Frank Pallone is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Ethanol Industry is documented.
 - **ExxonMobil** _(Energy & Utilities)_
-  - Frank Pallone is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to ExxonMobil is documented.
+ - Frank Pallone is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to ExxonMobil is documented.
 - **Fossil Fuel Bloc** _(Energy & Utilities)_
-  - Frank Pallone is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Fossil Fuel Bloc is documented.
+ - Frank Pallone is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Fossil Fuel Bloc is documented.
 - **Halliburton** _(Energy & Utilities)_
-  - Frank Pallone is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Halliburton is documented.
+ - Frank Pallone is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Halliburton is documented.
 - **Hawaiian Electric Company** _(Energy & Utilities)_
-  - Frank Pallone is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Hawaiian Electric Company is documented.
+ - Frank Pallone is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Hawaiian Electric Company is documented.
 - **Koch Industries** _(Energy & Utilities)_
-  - Frank Pallone is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Koch Industries is documented.
+ - Frank Pallone is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Koch Industries is documented.
 - **Marathon Petroleum** _(Energy & Utilities)_
-  - Frank Pallone is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Marathon Petroleum is documented.
+ - Frank Pallone is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Marathon Petroleum is documented.
 - **NextEra Energy** _(Energy & Utilities)_
-  - Frank Pallone is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to NextEra Energy is documented.
+ - Frank Pallone is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to NextEra Energy is documented.
 - **Occidental Petroleum** _(Energy & Utilities)_
-  - Frank Pallone is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Occidental Petroleum is documented.
+ - Frank Pallone is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Occidental Petroleum is documented.
 - **Petrochemical Industry Bloc** _(Energy & Utilities)_
-  - Frank Pallone is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Petrochemical Industry Bloc is documented.
-- _...and 8 more_
+ - Frank Pallone is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Petrochemical Industry Bloc is documented.
+- _..and 8 more_
 
-## Gregory Meeks  _(30 candidates)_
+## Gregory Meeks _(30 candidates)_
 
 - **American Friends of the Likud** _(Israel Lobby)_
-  - Gregory Meeks is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to American Friends of the Likud is documented.
+ - Gregory Meeks is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to American Friends of the Likud is documented.
 - **Christians United for Israel** _(Israel Lobby)_
-  - Gregory Meeks is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Christians United for Israel is documented.
+ - Gregory Meeks is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Christians United for Israel is documented.
 - **Haim Saban** _(Israel Lobby)_
-  - Gregory Meeks is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Haim Saban is documented.
+ - Gregory Meeks is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Haim Saban is documented.
 - **J Street** _(Israel Lobby)_
-  - Gregory Meeks is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to J Street is documented.
+ - Gregory Meeks is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to J Street is documented.
 - **JCRC Bay Area** _(Israel Lobby)_
-  - Gregory Meeks is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to JCRC Bay Area is documented.
+ - Gregory Meeks is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to JCRC Bay Area is documented.
 - **Jewish Democratic Council of America** _(Israel Lobby)_
-  - Gregory Meeks is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Jewish Democratic Council of America is documented.
+ - Gregory Meeks is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Jewish Democratic Council of America is documented.
 - **JPAC - Jewish Public Affairs Committee of California** _(Israel Lobby)_
-  - Gregory Meeks is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to JPAC - Jewish Public Affairs Committee of California is documented.
+ - Gregory Meeks is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to JPAC - Jewish Public Affairs Committee of California is documented.
 - **Mark Mellman** _(Israel Lobby)_
-  - Gregory Meeks is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Mark Mellman is documented.
+ - Gregory Meeks is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Mark Mellman is documented.
 - **One Israel Fund** _(Israel Lobby)_
-  - Gregory Meeks is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to One Israel Fund is documented.
+ - Gregory Meeks is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to One Israel Fund is documented.
 - **Republican Jewish Coalition** _(Israel Lobby)_
-  - Gregory Meeks is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Republican Jewish Coalition is documented.
+ - Gregory Meeks is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Republican Jewish Coalition is documented.
 - **American Iron and Steel Institute** _(Defense & Intelligence)_
-  - Gregory Meeks is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to American Iron and Steel Institute is documented.
+ - Gregory Meeks is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to American Iron and Steel Institute is documented.
 - **Anduril Industries** _(Defense & Intelligence)_
-  - Gregory Meeks is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Anduril Industries is documented.
+ - Gregory Meeks is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Anduril Industries is documented.
 - **BAE Systems** _(Defense & Intelligence)_
-  - Gregory Meeks is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to BAE Systems is documented.
+ - Gregory Meeks is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to BAE Systems is documented.
 - **Bechtel Corporation** _(Defense & Intelligence)_
-  - Gregory Meeks is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Bechtel Corporation is documented.
+ - Gregory Meeks is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Bechtel Corporation is documented.
 - **Boeing Defense** _(Defense & Intelligence)_
-  - Gregory Meeks is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Boeing Defense is documented.
+ - Gregory Meeks is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Boeing Defense is documented.
 - **Boeing** _(Defense & Intelligence)_
-  - Gregory Meeks is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Boeing is documented.
+ - Gregory Meeks is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Boeing is documented.
 - **Booz Allen Hamilton** _(Defense & Intelligence)_
-  - Gregory Meeks is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Booz Allen Hamilton is documented.
+ - Gregory Meeks is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Booz Allen Hamilton is documented.
 - **Defense Contractors Bloc** _(Defense & Intelligence)_
-  - Gregory Meeks is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Defense Contractors Bloc is documented.
+ - Gregory Meeks is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Defense Contractors Bloc is documented.
 - **Defense Contractors** _(Defense & Intelligence)_
-  - Gregory Meeks is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Defense Contractors is documented.
+ - Gregory Meeks is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Defense Contractors is documented.
 - **Defense Industry Bloc** _(Defense & Intelligence)_
-  - Gregory Meeks is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Defense Industry Bloc is documented.
-- _...and 10 more_
+ - Gregory Meeks is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Defense Industry Bloc is documented.
+- _..and 10 more_
 
-## Jamie Raskin  _(58 candidates)_
-
-- **ActBlue** _(Dark Money)_
-  - Jamie Raskin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ActBlue is documented.
-- **ALEC - American Legislative Exchange Council** _(Dark Money)_
-  - Jamie Raskin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ALEC - American Legislative Exchange Council is documented.
-- **Alliance Defending Freedom** _(Dark Money)_
-  - Jamie Raskin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Alliance Defending Freedom is documented.
-- **America First Policy Institute** _(Dark Money)_
-  - Jamie Raskin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America First Policy Institute is documented.
-- **America Votes** _(Dark Money)_
-  - Jamie Raskin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America Votes is documented.
-- **American Action Network** _(Dark Money)_
-  - Jamie Raskin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Action Network is documented.
-- **American Enterprise Institute** _(Dark Money)_
-  - Jamie Raskin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Enterprise Institute is documented.
-- **Americans for Tax Reform - Grover Norquist** _(Dark Money)_
-  - Jamie Raskin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Americans for Tax Reform - Grover Norquist is documented.
-- **Arabella Advisors** _(Dark Money)_
-  - Jamie Raskin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Arabella Advisors is documented.
-- **Ballard Partners** _(Dark Money)_
-  - Jamie Raskin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Ballard Partners is documented.
-- **Bradley Foundation** _(Dark Money)_
-  - Jamie Raskin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Bradley Foundation is documented.
-- **Bradley Impact Fund** _(Dark Money)_
-  - Jamie Raskin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Bradley Impact Fund is documented.
-- **Brady Campaign** _(Dark Money)_
-  - Jamie Raskin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Brady Campaign is documented.
-- **Business Council of Alabama** _(Dark Money)_
-  - Jamie Raskin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Business Council of Alabama is documented.
-- **Business Roundtable** _(Dark Money)_
-  - Jamie Raskin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Business Roundtable is documented.
-- **Center for American Progress** _(Dark Money)_
-  - Jamie Raskin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Center for American Progress is documented.
-- **Concerned Veterans for America** _(Dark Money)_
-  - Jamie Raskin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Concerned Veterans for America is documented.
-- **Conservative Partnership Institute** _(Dark Money)_
-  - Jamie Raskin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Conservative Partnership Institute is documented.
-- **Council for National Policy** _(Dark Money)_
-  - Jamie Raskin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Council for National Policy is documented.
-- **CREW - Citizens for Responsibility and Ethics in Washington** _(Dark Money)_
-  - Jamie Raskin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to CREW - Citizens for Responsibility and Ethics in Washington is documented.
-- _...and 38 more_
-
-## Jerry Nadler  _(60 candidates)_
+## Jamie Raskin _(58 candidates)_
 
 - **ActBlue** _(Dark Money)_
-  - Jerry Nadler is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ActBlue is documented.
+ - Jamie Raskin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ActBlue is documented.
 - **ALEC - American Legislative Exchange Council** _(Dark Money)_
-  - Jerry Nadler is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ALEC - American Legislative Exchange Council is documented.
+ - Jamie Raskin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ALEC - American Legislative Exchange Council is documented.
 - **Alliance Defending Freedom** _(Dark Money)_
-  - Jerry Nadler is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Alliance Defending Freedom is documented.
+ - Jamie Raskin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Alliance Defending Freedom is documented.
 - **America First Policy Institute** _(Dark Money)_
-  - Jerry Nadler is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America First Policy Institute is documented.
+ - Jamie Raskin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America First Policy Institute is documented.
 - **America Votes** _(Dark Money)_
-  - Jerry Nadler is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America Votes is documented.
+ - Jamie Raskin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America Votes is documented.
 - **American Action Network** _(Dark Money)_
-  - Jerry Nadler is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Action Network is documented.
+ - Jamie Raskin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Action Network is documented.
 - **American Enterprise Institute** _(Dark Money)_
-  - Jerry Nadler is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Enterprise Institute is documented.
+ - Jamie Raskin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Enterprise Institute is documented.
 - **Americans for Tax Reform - Grover Norquist** _(Dark Money)_
-  - Jerry Nadler is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Americans for Tax Reform - Grover Norquist is documented.
+ - Jamie Raskin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Americans for Tax Reform - Grover Norquist is documented.
 - **Arabella Advisors** _(Dark Money)_
-  - Jerry Nadler is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Arabella Advisors is documented.
+ - Jamie Raskin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Arabella Advisors is documented.
 - **Ballard Partners** _(Dark Money)_
-  - Jerry Nadler is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Ballard Partners is documented.
+ - Jamie Raskin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Ballard Partners is documented.
 - **Bradley Foundation** _(Dark Money)_
-  - Jerry Nadler is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Bradley Foundation is documented.
+ - Jamie Raskin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Bradley Foundation is documented.
 - **Bradley Impact Fund** _(Dark Money)_
-  - Jerry Nadler is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Bradley Impact Fund is documented.
+ - Jamie Raskin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Bradley Impact Fund is documented.
 - **Brady Campaign** _(Dark Money)_
-  - Jerry Nadler is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Brady Campaign is documented.
+ - Jamie Raskin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Brady Campaign is documented.
 - **Business Council of Alabama** _(Dark Money)_
-  - Jerry Nadler is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Business Council of Alabama is documented.
+ - Jamie Raskin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Business Council of Alabama is documented.
 - **Business Roundtable** _(Dark Money)_
-  - Jerry Nadler is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Business Roundtable is documented.
+ - Jamie Raskin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Business Roundtable is documented.
 - **Center for American Progress** _(Dark Money)_
-  - Jerry Nadler is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Center for American Progress is documented.
+ - Jamie Raskin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Center for American Progress is documented.
 - **Concerned Veterans for America** _(Dark Money)_
-  - Jerry Nadler is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Concerned Veterans for America is documented.
+ - Jamie Raskin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Concerned Veterans for America is documented.
 - **Conservative Partnership Institute** _(Dark Money)_
-  - Jerry Nadler is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Conservative Partnership Institute is documented.
+ - Jamie Raskin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Conservative Partnership Institute is documented.
 - **Council for National Policy** _(Dark Money)_
-  - Jerry Nadler is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Council for National Policy is documented.
+ - Jamie Raskin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Council for National Policy is documented.
 - **CREW - Citizens for Responsibility and Ethics in Washington** _(Dark Money)_
-  - Jerry Nadler is on a committee matching /judiciary/ which regulates Dark Money, but no connection to CREW - Citizens for Responsibility and Ethics in Washington is documented.
-- _...and 40 more_
+ - Jamie Raskin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to CREW - Citizens for Responsibility and Ethics in Washington is documented.
+- _..and 38 more_
 
-## Jim Himes  _(32 candidates)_
+## Jerry Nadler _(60 candidates)_
+
+- **ActBlue** _(Dark Money)_
+ - Jerry Nadler is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ActBlue is documented.
+- **ALEC - American Legislative Exchange Council** _(Dark Money)_
+ - Jerry Nadler is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ALEC - American Legislative Exchange Council is documented.
+- **Alliance Defending Freedom** _(Dark Money)_
+ - Jerry Nadler is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Alliance Defending Freedom is documented.
+- **America First Policy Institute** _(Dark Money)_
+ - Jerry Nadler is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America First Policy Institute is documented.
+- **America Votes** _(Dark Money)_
+ - Jerry Nadler is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America Votes is documented.
+- **American Action Network** _(Dark Money)_
+ - Jerry Nadler is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Action Network is documented.
+- **American Enterprise Institute** _(Dark Money)_
+ - Jerry Nadler is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Enterprise Institute is documented.
+- **Americans for Tax Reform - Grover Norquist** _(Dark Money)_
+ - Jerry Nadler is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Americans for Tax Reform - Grover Norquist is documented.
+- **Arabella Advisors** _(Dark Money)_
+ - Jerry Nadler is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Arabella Advisors is documented.
+- **Ballard Partners** _(Dark Money)_
+ - Jerry Nadler is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Ballard Partners is documented.
+- **Bradley Foundation** _(Dark Money)_
+ - Jerry Nadler is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Bradley Foundation is documented.
+- **Bradley Impact Fund** _(Dark Money)_
+ - Jerry Nadler is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Bradley Impact Fund is documented.
+- **Brady Campaign** _(Dark Money)_
+ - Jerry Nadler is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Brady Campaign is documented.
+- **Business Council of Alabama** _(Dark Money)_
+ - Jerry Nadler is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Business Council of Alabama is documented.
+- **Business Roundtable** _(Dark Money)_
+ - Jerry Nadler is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Business Roundtable is documented.
+- **Center for American Progress** _(Dark Money)_
+ - Jerry Nadler is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Center for American Progress is documented.
+- **Concerned Veterans for America** _(Dark Money)_
+ - Jerry Nadler is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Concerned Veterans for America is documented.
+- **Conservative Partnership Institute** _(Dark Money)_
+ - Jerry Nadler is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Conservative Partnership Institute is documented.
+- **Council for National Policy** _(Dark Money)_
+ - Jerry Nadler is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Council for National Policy is documented.
+- **CREW - Citizens for Responsibility and Ethics in Washington** _(Dark Money)_
+ - Jerry Nadler is on a committee matching /judiciary/ which regulates Dark Money, but no connection to CREW - Citizens for Responsibility and Ethics in Washington is documented.
+- _..and 40 more_
+
+## Jim Himes _(32 candidates)_
 
 - **AIPAC - American Israel Public Affairs Committee** _(Israel Lobby)_
-  - Jim Himes is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to AIPAC - American Israel Public Affairs Committee is documented.
+ - Jim Himes is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to AIPAC - American Israel Public Affairs Committee is documented.
 - **American Friends of the Likud** _(Israel Lobby)_
-  - Jim Himes is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to American Friends of the Likud is documented.
+ - Jim Himes is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to American Friends of the Likud is documented.
 - **Christians United for Israel** _(Israel Lobby)_
-  - Jim Himes is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Christians United for Israel is documented.
+ - Jim Himes is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Christians United for Israel is documented.
 - **Haim Saban** _(Israel Lobby)_
-  - Jim Himes is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Haim Saban is documented.
+ - Jim Himes is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Haim Saban is documented.
 - **J Street** _(Israel Lobby)_
-  - Jim Himes is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to J Street is documented.
+ - Jim Himes is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to J Street is documented.
 - **JCRC Bay Area** _(Israel Lobby)_
-  - Jim Himes is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to JCRC Bay Area is documented.
+ - Jim Himes is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to JCRC Bay Area is documented.
 - **Jewish Democratic Council of America** _(Israel Lobby)_
-  - Jim Himes is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Jewish Democratic Council of America is documented.
+ - Jim Himes is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Jewish Democratic Council of America is documented.
 - **JPAC - Jewish Public Affairs Committee of California** _(Israel Lobby)_
-  - Jim Himes is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to JPAC - Jewish Public Affairs Committee of California is documented.
+ - Jim Himes is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to JPAC - Jewish Public Affairs Committee of California is documented.
 - **Mark Mellman** _(Israel Lobby)_
-  - Jim Himes is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Mark Mellman is documented.
+ - Jim Himes is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Mark Mellman is documented.
 - **NORPAC** _(Israel Lobby)_
-  - Jim Himes is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to NORPAC is documented.
+ - Jim Himes is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to NORPAC is documented.
 - **One Israel Fund** _(Israel Lobby)_
-  - Jim Himes is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to One Israel Fund is documented.
+ - Jim Himes is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to One Israel Fund is documented.
 - **Republican Jewish Coalition** _(Israel Lobby)_
-  - Jim Himes is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Republican Jewish Coalition is documented.
+ - Jim Himes is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Republican Jewish Coalition is documented.
 - **American Iron and Steel Institute** _(Defense & Intelligence)_
-  - Jim Himes is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to American Iron and Steel Institute is documented.
+ - Jim Himes is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to American Iron and Steel Institute is documented.
 - **Anduril Industries** _(Defense & Intelligence)_
-  - Jim Himes is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Anduril Industries is documented.
+ - Jim Himes is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Anduril Industries is documented.
 - **BAE Systems** _(Defense & Intelligence)_
-  - Jim Himes is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to BAE Systems is documented.
+ - Jim Himes is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to BAE Systems is documented.
 - **Bechtel Corporation** _(Defense & Intelligence)_
-  - Jim Himes is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Bechtel Corporation is documented.
+ - Jim Himes is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Bechtel Corporation is documented.
 - **Boeing Defense** _(Defense & Intelligence)_
-  - Jim Himes is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Boeing Defense is documented.
+ - Jim Himes is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Boeing Defense is documented.
 - **Boeing** _(Defense & Intelligence)_
-  - Jim Himes is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Boeing is documented.
+ - Jim Himes is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Boeing is documented.
 - **Booz Allen Hamilton** _(Defense & Intelligence)_
-  - Jim Himes is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Booz Allen Hamilton is documented.
+ - Jim Himes is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Booz Allen Hamilton is documented.
 - **Defense Contractors Bloc** _(Defense & Intelligence)_
-  - Jim Himes is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Defense Contractors Bloc is documented.
-- _...and 12 more_
+ - Jim Himes is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Defense Contractors Bloc is documented.
+- _..and 12 more_
 
-## Pramila Jayapal  _(59 candidates)_
+## Pramila Jayapal _(59 candidates)_
 
 - **ALEC - American Legislative Exchange Council** _(Dark Money)_
-  - Pramila Jayapal is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ALEC - American Legislative Exchange Council is documented.
+ - Pramila Jayapal is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ALEC - American Legislative Exchange Council is documented.
 - **Alliance Defending Freedom** _(Dark Money)_
-  - Pramila Jayapal is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Alliance Defending Freedom is documented.
+ - Pramila Jayapal is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Alliance Defending Freedom is documented.
 - **America First Policy Institute** _(Dark Money)_
-  - Pramila Jayapal is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America First Policy Institute is documented.
+ - Pramila Jayapal is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America First Policy Institute is documented.
 - **America Votes** _(Dark Money)_
-  - Pramila Jayapal is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America Votes is documented.
+ - Pramila Jayapal is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America Votes is documented.
 - **American Action Network** _(Dark Money)_
-  - Pramila Jayapal is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Action Network is documented.
+ - Pramila Jayapal is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Action Network is documented.
 - **American Enterprise Institute** _(Dark Money)_
-  - Pramila Jayapal is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Enterprise Institute is documented.
+ - Pramila Jayapal is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Enterprise Institute is documented.
 - **Americans for Tax Reform - Grover Norquist** _(Dark Money)_
-  - Pramila Jayapal is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Americans for Tax Reform - Grover Norquist is documented.
+ - Pramila Jayapal is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Americans for Tax Reform - Grover Norquist is documented.
 - **Arabella Advisors** _(Dark Money)_
-  - Pramila Jayapal is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Arabella Advisors is documented.
+ - Pramila Jayapal is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Arabella Advisors is documented.
 - **Ballard Partners** _(Dark Money)_
-  - Pramila Jayapal is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Ballard Partners is documented.
+ - Pramila Jayapal is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Ballard Partners is documented.
 - **Bradley Foundation** _(Dark Money)_
-  - Pramila Jayapal is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Bradley Foundation is documented.
+ - Pramila Jayapal is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Bradley Foundation is documented.
 - **Bradley Impact Fund** _(Dark Money)_
-  - Pramila Jayapal is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Bradley Impact Fund is documented.
+ - Pramila Jayapal is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Bradley Impact Fund is documented.
 - **Brady Campaign** _(Dark Money)_
-  - Pramila Jayapal is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Brady Campaign is documented.
+ - Pramila Jayapal is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Brady Campaign is documented.
 - **Business Council of Alabama** _(Dark Money)_
-  - Pramila Jayapal is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Business Council of Alabama is documented.
+ - Pramila Jayapal is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Business Council of Alabama is documented.
 - **Business Roundtable** _(Dark Money)_
-  - Pramila Jayapal is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Business Roundtable is documented.
+ - Pramila Jayapal is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Business Roundtable is documented.
 - **Center for American Progress** _(Dark Money)_
-  - Pramila Jayapal is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Center for American Progress is documented.
+ - Pramila Jayapal is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Center for American Progress is documented.
 - **Concerned Veterans for America** _(Dark Money)_
-  - Pramila Jayapal is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Concerned Veterans for America is documented.
+ - Pramila Jayapal is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Concerned Veterans for America is documented.
 - **Conservative Partnership Institute** _(Dark Money)_
-  - Pramila Jayapal is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Conservative Partnership Institute is documented.
+ - Pramila Jayapal is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Conservative Partnership Institute is documented.
 - **Council for National Policy** _(Dark Money)_
-  - Pramila Jayapal is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Council for National Policy is documented.
+ - Pramila Jayapal is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Council for National Policy is documented.
 - **CREW - Citizens for Responsibility and Ethics in Washington** _(Dark Money)_
-  - Pramila Jayapal is on a committee matching /judiciary/ which regulates Dark Money, but no connection to CREW - Citizens for Responsibility and Ethics in Washington is documented.
+ - Pramila Jayapal is on a committee matching /judiciary/ which regulates Dark Money, but no connection to CREW - Citizens for Responsibility and Ethics in Washington is documented.
 - **Demand Justice** _(Dark Money)_
-  - Pramila Jayapal is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Demand Justice is documented.
-- _...and 39 more_
+ - Pramila Jayapal is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Demand Justice is documented.
+- _..and 39 more_
 
-## Ro Khanna Master Profile  _(80 candidates)_
+## Ro Khanna Master Profile _(80 candidates)_
 
 - **American Iron and Steel Institute** _(Defense & Intelligence)_
-  - Ro Khanna Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to American Iron and Steel Institute is documented.
+ - Ro Khanna Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to American Iron and Steel Institute is documented.
 - **Anduril Industries** _(Defense & Intelligence)_
-  - Ro Khanna Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Anduril Industries is documented.
+ - Ro Khanna Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Anduril Industries is documented.
 - **BAE Systems** _(Defense & Intelligence)_
-  - Ro Khanna Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to BAE Systems is documented.
+ - Ro Khanna Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to BAE Systems is documented.
 - **Bechtel Corporation** _(Defense & Intelligence)_
-  - Ro Khanna Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Bechtel Corporation is documented.
+ - Ro Khanna Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Bechtel Corporation is documented.
 - **Boeing Defense** _(Defense & Intelligence)_
-  - Ro Khanna Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Boeing Defense is documented.
+ - Ro Khanna Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Boeing Defense is documented.
 - **Boeing** _(Defense & Intelligence)_
-  - Ro Khanna Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Boeing is documented.
+ - Ro Khanna Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Boeing is documented.
 - **Booz Allen Hamilton** _(Defense & Intelligence)_
-  - Ro Khanna Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Booz Allen Hamilton is documented.
+ - Ro Khanna Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Booz Allen Hamilton is documented.
 - **Defense Contractors Bloc** _(Defense & Intelligence)_
-  - Ro Khanna Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Contractors Bloc is documented.
+ - Ro Khanna Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Contractors Bloc is documented.
 - **Defense Contractors** _(Defense & Intelligence)_
-  - Ro Khanna Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Contractors is documented.
+ - Ro Khanna Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Contractors is documented.
 - **Defense Industry Bloc** _(Defense & Intelligence)_
-  - Ro Khanna Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Industry Bloc is documented.
+ - Ro Khanna Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Industry Bloc is documented.
 - **Defense Industry** _(Defense & Intelligence)_
-  - Ro Khanna Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Industry is documented.
+ - Ro Khanna Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Industry is documented.
 - **General Dynamics** _(Defense & Intelligence)_
-  - Ro Khanna Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to General Dynamics is documented.
+ - Ro Khanna Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to General Dynamics is documented.
 - **Honeywell International** _(Defense & Intelligence)_
-  - Ro Khanna Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Honeywell International is documented.
+ - Ro Khanna Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Honeywell International is documented.
 - **L3 Technologies** _(Defense & Intelligence)_
-  - Ro Khanna Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to L3 Technologies is documented.
+ - Ro Khanna Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to L3 Technologies is documented.
 - **L3Harris Technologies** _(Defense & Intelligence)_
-  - Ro Khanna Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to L3Harris Technologies is documented.
+ - Ro Khanna Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to L3Harris Technologies is documented.
 - **Leidos** _(Defense & Intelligence)_
-  - Ro Khanna Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Leidos is documented.
+ - Ro Khanna Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Leidos is documented.
 - **Lockheed Martin** _(Defense & Intelligence)_
-  - Ro Khanna Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Lockheed Martin is documented.
+ - Ro Khanna Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Lockheed Martin is documented.
 - **Northrop Grumman** _(Defense & Intelligence)_
-  - Ro Khanna Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Northrop Grumman is documented.
+ - Ro Khanna Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Northrop Grumman is documented.
 - **Nucor Corporation** _(Defense & Intelligence)_
-  - Ro Khanna Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Nucor Corporation is documented.
+ - Ro Khanna Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Nucor Corporation is documented.
 - **Raytheon (RTX Corporation)** _(Defense & Intelligence)_
-  - Ro Khanna Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Raytheon (RTX Corporation) is documented.
-- _...and 60 more_
+ - Ro Khanna Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Raytheon (RTX Corporation) is documented.
+- _..and 60 more_
 
-## Zoe Lofgren  _(60 candidates)_
+## Zoe Lofgren _(60 candidates)_
 
 - **ActBlue** _(Dark Money)_
-  - Zoe Lofgren is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ActBlue is documented.
+ - Zoe Lofgren is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ActBlue is documented.
 - **ALEC - American Legislative Exchange Council** _(Dark Money)_
-  - Zoe Lofgren is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ALEC - American Legislative Exchange Council is documented.
+ - Zoe Lofgren is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ALEC - American Legislative Exchange Council is documented.
 - **Alliance Defending Freedom** _(Dark Money)_
-  - Zoe Lofgren is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Alliance Defending Freedom is documented.
+ - Zoe Lofgren is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Alliance Defending Freedom is documented.
 - **America First Policy Institute** _(Dark Money)_
-  - Zoe Lofgren is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America First Policy Institute is documented.
+ - Zoe Lofgren is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America First Policy Institute is documented.
 - **America Votes** _(Dark Money)_
-  - Zoe Lofgren is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America Votes is documented.
+ - Zoe Lofgren is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America Votes is documented.
 - **American Action Network** _(Dark Money)_
-  - Zoe Lofgren is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Action Network is documented.
+ - Zoe Lofgren is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Action Network is documented.
 - **American Enterprise Institute** _(Dark Money)_
-  - Zoe Lofgren is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Enterprise Institute is documented.
+ - Zoe Lofgren is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Enterprise Institute is documented.
 - **Americans for Tax Reform - Grover Norquist** _(Dark Money)_
-  - Zoe Lofgren is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Americans for Tax Reform - Grover Norquist is documented.
+ - Zoe Lofgren is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Americans for Tax Reform - Grover Norquist is documented.
 - **Arabella Advisors** _(Dark Money)_
-  - Zoe Lofgren is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Arabella Advisors is documented.
+ - Zoe Lofgren is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Arabella Advisors is documented.
 - **Ballard Partners** _(Dark Money)_
-  - Zoe Lofgren is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Ballard Partners is documented.
+ - Zoe Lofgren is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Ballard Partners is documented.
 - **Bradley Foundation** _(Dark Money)_
-  - Zoe Lofgren is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Bradley Foundation is documented.
+ - Zoe Lofgren is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Bradley Foundation is documented.
 - **Bradley Impact Fund** _(Dark Money)_
-  - Zoe Lofgren is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Bradley Impact Fund is documented.
+ - Zoe Lofgren is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Bradley Impact Fund is documented.
 - **Brady Campaign** _(Dark Money)_
-  - Zoe Lofgren is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Brady Campaign is documented.
+ - Zoe Lofgren is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Brady Campaign is documented.
 - **Business Council of Alabama** _(Dark Money)_
-  - Zoe Lofgren is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Business Council of Alabama is documented.
+ - Zoe Lofgren is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Business Council of Alabama is documented.
 - **Business Roundtable** _(Dark Money)_
-  - Zoe Lofgren is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Business Roundtable is documented.
+ - Zoe Lofgren is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Business Roundtable is documented.
 - **Center for American Progress** _(Dark Money)_
-  - Zoe Lofgren is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Center for American Progress is documented.
+ - Zoe Lofgren is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Center for American Progress is documented.
 - **Concerned Veterans for America** _(Dark Money)_
-  - Zoe Lofgren is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Concerned Veterans for America is documented.
+ - Zoe Lofgren is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Concerned Veterans for America is documented.
 - **Conservative Partnership Institute** _(Dark Money)_
-  - Zoe Lofgren is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Conservative Partnership Institute is documented.
+ - Zoe Lofgren is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Conservative Partnership Institute is documented.
 - **Council for National Policy** _(Dark Money)_
-  - Zoe Lofgren is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Council for National Policy is documented.
+ - Zoe Lofgren is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Council for National Policy is documented.
 - **CREW - Citizens for Responsibility and Ethics in Washington** _(Dark Money)_
-  - Zoe Lofgren is on a committee matching /judiciary/ which regulates Dark Money, but no connection to CREW - Citizens for Responsibility and Ethics in Washington is documented.
-- _...and 40 more_
+ - Zoe Lofgren is on a committee matching /judiciary/ which regulates Dark Money, but no connection to CREW - Citizens for Responsibility and Ethics in Washington is documented.
+- _..and 40 more_
 
-## Josh Gottheimer Master Profile  _(62 candidates)_
+## Josh Gottheimer Master Profile _(62 candidates)_
 
 - **Apollo Global Management** _(Wall Street)_
-  - Josh Gottheimer Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Apollo Global Management is documented.
+ - Josh Gottheimer Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Apollo Global Management is documented.
 - **Bank of America** _(Wall Street)_
-  - Josh Gottheimer Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Bank of America is documented.
+ - Josh Gottheimer Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Bank of America is documented.
 - **BlackRock** _(Wall Street)_
-  - Josh Gottheimer Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to BlackRock is documented.
+ - Josh Gottheimer Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to BlackRock is documented.
 - **Blackstone Group** _(Wall Street)_
-  - Josh Gottheimer Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Blackstone Group is documented.
+ - Josh Gottheimer Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Blackstone Group is documented.
 - **Blackstone Real Estate Political Operation** _(Wall Street)_
-  - Josh Gottheimer Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Blackstone Real Estate Political Operation is documented.
+ - Josh Gottheimer Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Blackstone Real Estate Political Operation is documented.
 - **CalPERS** _(Wall Street)_
-  - Josh Gottheimer Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to CalPERS is documented.
+ - Josh Gottheimer Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to CalPERS is documented.
 - **CalSTRS - California State Teachers' Retirement System** _(Wall Street)_
-  - Josh Gottheimer Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to CalSTRS - California State Teachers' Retirement System is documented.
+ - Josh Gottheimer Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to CalSTRS - California State Teachers' Retirement System is documented.
 - **Carlyle Group** _(Wall Street)_
-  - Josh Gottheimer Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Carlyle Group is documented.
+ - Josh Gottheimer Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Carlyle Group is documented.
 - **Charles Schwab** _(Wall Street)_
-  - Josh Gottheimer Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Charles Schwab is documented.
+ - Josh Gottheimer Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Charles Schwab is documented.
 - **Citadel - Kenneth Griffin** _(Wall Street)_
-  - Josh Gottheimer Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Citadel - Kenneth Griffin is documented.
+ - Josh Gottheimer Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Citadel - Kenneth Griffin is documented.
 - **Citigroup** _(Wall Street)_
-  - Josh Gottheimer Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Citigroup is documented.
+ - Josh Gottheimer Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Citigroup is documented.
 - **Elliott Management** _(Wall Street)_
-  - Josh Gottheimer Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Elliott Management is documented.
+ - Josh Gottheimer Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Elliott Management is documented.
 - **Fidelity Investments** _(Wall Street)_
-  - Josh Gottheimer Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Fidelity Investments is documented.
+ - Josh Gottheimer Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Fidelity Investments is documented.
 - **Financial Services Donors** _(Wall Street)_
-  - Josh Gottheimer Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Financial Services Donors is documented.
+ - Josh Gottheimer Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Financial Services Donors is documented.
 - **Goldman Sachs** _(Wall Street)_
-  - Josh Gottheimer Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Goldman Sachs is documented.
+ - Josh Gottheimer Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Goldman Sachs is documented.
 - **Hedge Fund Industry Bloc** _(Wall Street)_
-  - Josh Gottheimer Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Hedge Fund Industry Bloc is documented.
+ - Josh Gottheimer Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Hedge Fund Industry Bloc is documented.
 - **JPMorgan Chase** _(Wall Street)_
-  - Josh Gottheimer Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to JPMorgan Chase is documented.
+ - Josh Gottheimer Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to JPMorgan Chase is documented.
 - **Lawrence Summers** _(Wall Street)_
-  - Josh Gottheimer Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Lawrence Summers is documented.
+ - Josh Gottheimer Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Lawrence Summers is documented.
 - **MassMutual** _(Wall Street)_
-  - Josh Gottheimer Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to MassMutual is documented.
+ - Josh Gottheimer Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to MassMutual is documented.
 - **MBNA Corporation** _(Wall Street)_
-  - Josh Gottheimer Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to MBNA Corporation is documented.
-- _...and 42 more_
+ - Josh Gottheimer Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to MBNA Corporation is documented.
+- _..and 42 more_
 
-## Alex Padilla  _(87 candidates)_
+## Alex Padilla _(87 candidates)_
 
 - **Alabama Power** _(Energy & Utilities)_
-  - Alex Padilla is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Alabama Power is documented.
+ - Alex Padilla is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Alabama Power is documented.
 - **American Fuel and Petrochemical Manufacturers** _(Energy & Utilities)_
-  - Alex Padilla is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to American Fuel and Petrochemical Manufacturers is documented.
+ - Alex Padilla is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to American Fuel and Petrochemical Manufacturers is documented.
 - **American Petroleum Institute** _(Energy & Utilities)_
-  - Alex Padilla is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to American Petroleum Institute is documented.
+ - Alex Padilla is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to American Petroleum Institute is documented.
 - **Chevron** _(Energy & Utilities)_
-  - Alex Padilla is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Chevron is documented.
+ - Alex Padilla is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Chevron is documented.
 - **ConocoPhillips** _(Energy & Utilities)_
-  - Alex Padilla is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to ConocoPhillips is documented.
+ - Alex Padilla is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to ConocoPhillips is documented.
 - **Consumer Energy Alliance** _(Energy & Utilities)_
-  - Alex Padilla is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Consumer Energy Alliance is documented.
+ - Alex Padilla is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Consumer Energy Alliance is documented.
 - **Devon Energy** _(Energy & Utilities)_
-  - Alex Padilla is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Devon Energy is documented.
+ - Alex Padilla is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Devon Energy is documented.
 - **Drummond Co.** _(Energy & Utilities)_
-  - Alex Padilla is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Drummond Co. is documented.
+ - Alex Padilla is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Drummond Co. is documented.
 - **Duke Energy** _(Energy & Utilities)_
-  - Alex Padilla is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Duke Energy is documented.
+ - Alex Padilla is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Duke Energy is documented.
 - **Enterprise Products Partners** _(Energy & Utilities)_
-  - Alex Padilla is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Enterprise Products Partners is documented.
+ - Alex Padilla is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Enterprise Products Partners is documented.
 - **Ethanol Industry** _(Energy & Utilities)_
-  - Alex Padilla is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Ethanol Industry is documented.
+ - Alex Padilla is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Ethanol Industry is documented.
 - **ExxonMobil** _(Energy & Utilities)_
-  - Alex Padilla is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to ExxonMobil is documented.
+ - Alex Padilla is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to ExxonMobil is documented.
 - **Fossil Fuel Bloc** _(Energy & Utilities)_
-  - Alex Padilla is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Fossil Fuel Bloc is documented.
+ - Alex Padilla is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Fossil Fuel Bloc is documented.
 - **Halliburton** _(Energy & Utilities)_
-  - Alex Padilla is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Halliburton is documented.
+ - Alex Padilla is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Halliburton is documented.
 - **Hawaiian Electric Company** _(Energy & Utilities)_
-  - Alex Padilla is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Hawaiian Electric Company is documented.
+ - Alex Padilla is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Hawaiian Electric Company is documented.
 - **Koch Industries** _(Energy & Utilities)_
-  - Alex Padilla is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Koch Industries is documented.
+ - Alex Padilla is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Koch Industries is documented.
 - **Marathon Petroleum** _(Energy & Utilities)_
-  - Alex Padilla is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Marathon Petroleum is documented.
+ - Alex Padilla is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Marathon Petroleum is documented.
 - **NextEra Energy** _(Energy & Utilities)_
-  - Alex Padilla is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to NextEra Energy is documented.
+ - Alex Padilla is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to NextEra Energy is documented.
 - **Occidental Petroleum** _(Energy & Utilities)_
-  - Alex Padilla is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Occidental Petroleum is documented.
+ - Alex Padilla is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Occidental Petroleum is documented.
 - **Petrochemical Industry Bloc** _(Energy & Utilities)_
-  - Alex Padilla is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Petrochemical Industry Bloc is documented.
-- _...and 67 more_
+ - Alex Padilla is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Petrochemical Industry Bloc is documented.
+- _..and 67 more_
 
-## Amy Klobuchar  _(73 candidates)_
+## Amy Klobuchar _(73 candidates)_
 
 - **ADM - Archer Daniels Midland** _(Agriculture)_
-  - Amy Klobuchar is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to ADM - Archer Daniels Midland is documented.
+ - Amy Klobuchar is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to ADM - Archer Daniels Midland is documented.
 - **Agribusiness Donor Bloc** _(Agriculture)_
-  - Amy Klobuchar is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Agribusiness Donor Bloc is documented.
+ - Amy Klobuchar is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Agribusiness Donor Bloc is documented.
 - **Agricultural Labor Vulnerability Donors** _(Agriculture)_
-  - Amy Klobuchar is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Agricultural Labor Vulnerability Donors is documented.
+ - Amy Klobuchar is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Agricultural Labor Vulnerability Donors is documented.
 - **American Farm Bureau Federation** _(Agriculture)_
-  - Amy Klobuchar is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to American Farm Bureau Federation is documented.
+ - Amy Klobuchar is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to American Farm Bureau Federation is documented.
 - **CA Farm Bureau Federation** _(Agriculture)_
-  - Amy Klobuchar is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to CA Farm Bureau Federation is documented.
+ - Amy Klobuchar is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to CA Farm Bureau Federation is documented.
 - **California Farm Bureau Federation** _(Agriculture)_
-  - Amy Klobuchar is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to California Farm Bureau Federation is documented.
+ - Amy Klobuchar is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to California Farm Bureau Federation is documented.
 - **Cargill** _(Agriculture)_
-  - Amy Klobuchar is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Cargill is documented.
+ - Amy Klobuchar is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Cargill is documented.
 - **Fanjul Family - Florida Crystals** _(Agriculture)_
-  - Amy Klobuchar is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Fanjul Family - Florida Crystals is documented.
+ - Amy Klobuchar is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Fanjul Family - Florida Crystals is documented.
 - **John Deere** _(Agriculture)_
-  - Amy Klobuchar is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to John Deere is documented.
+ - Amy Klobuchar is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to John Deere is documented.
 - **Monsanto - Bayer** _(Agriculture)_
-  - Amy Klobuchar is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Monsanto - Bayer is documented.
+ - Amy Klobuchar is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Monsanto - Bayer is documented.
 - **National Cattlemen's Beef Association** _(Agriculture)_
-  - Amy Klobuchar is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to National Cattlemen's Beef Association is documented.
+ - Amy Klobuchar is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to National Cattlemen's Beef Association is documented.
 - **Tyson Foods** _(Agriculture)_
-  - Amy Klobuchar is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Tyson Foods is documented.
+ - Amy Klobuchar is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Tyson Foods is documented.
 - **Western Growers Association** _(Agriculture)_
-  - Amy Klobuchar is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Western Growers Association is documented.
+ - Amy Klobuchar is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Western Growers Association is documented.
 - **ActBlue** _(Dark Money)_
-  - Amy Klobuchar is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ActBlue is documented.
+ - Amy Klobuchar is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ActBlue is documented.
 - **ALEC - American Legislative Exchange Council** _(Dark Money)_
-  - Amy Klobuchar is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ALEC - American Legislative Exchange Council is documented.
+ - Amy Klobuchar is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ALEC - American Legislative Exchange Council is documented.
 - **Alliance Defending Freedom** _(Dark Money)_
-  - Amy Klobuchar is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Alliance Defending Freedom is documented.
+ - Amy Klobuchar is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Alliance Defending Freedom is documented.
 - **America First Policy Institute** _(Dark Money)_
-  - Amy Klobuchar is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America First Policy Institute is documented.
+ - Amy Klobuchar is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America First Policy Institute is documented.
 - **America Votes** _(Dark Money)_
-  - Amy Klobuchar is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America Votes is documented.
+ - Amy Klobuchar is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America Votes is documented.
 - **American Action Network** _(Dark Money)_
-  - Amy Klobuchar is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Action Network is documented.
+ - Amy Klobuchar is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Action Network is documented.
 - **American Enterprise Institute** _(Dark Money)_
-  - Amy Klobuchar is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Enterprise Institute is documented.
-- _...and 53 more_
+ - Amy Klobuchar is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Enterprise Institute is documented.
+- _..and 53 more_
 
-## Bob Menendez  _(31 candidates)_
+## Bob Menendez _(31 candidates)_
 
 - **American Friends of the Likud** _(Israel Lobby)_
-  - Bob Menendez is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to American Friends of the Likud is documented.
+ - Bob Menendez is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to American Friends of the Likud is documented.
 - **Christians United for Israel** _(Israel Lobby)_
-  - Bob Menendez is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Christians United for Israel is documented.
+ - Bob Menendez is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Christians United for Israel is documented.
 - **Haim Saban** _(Israel Lobby)_
-  - Bob Menendez is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Haim Saban is documented.
+ - Bob Menendez is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Haim Saban is documented.
 - **J Street** _(Israel Lobby)_
-  - Bob Menendez is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to J Street is documented.
+ - Bob Menendez is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to J Street is documented.
 - **JCRC Bay Area** _(Israel Lobby)_
-  - Bob Menendez is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to JCRC Bay Area is documented.
+ - Bob Menendez is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to JCRC Bay Area is documented.
 - **Jewish Democratic Council of America** _(Israel Lobby)_
-  - Bob Menendez is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Jewish Democratic Council of America is documented.
+ - Bob Menendez is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Jewish Democratic Council of America is documented.
 - **JPAC - Jewish Public Affairs Committee of California** _(Israel Lobby)_
-  - Bob Menendez is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to JPAC - Jewish Public Affairs Committee of California is documented.
+ - Bob Menendez is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to JPAC - Jewish Public Affairs Committee of California is documented.
 - **Mark Mellman** _(Israel Lobby)_
-  - Bob Menendez is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Mark Mellman is documented.
+ - Bob Menendez is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Mark Mellman is documented.
 - **NORPAC** _(Israel Lobby)_
-  - Bob Menendez is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to NORPAC is documented.
+ - Bob Menendez is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to NORPAC is documented.
 - **One Israel Fund** _(Israel Lobby)_
-  - Bob Menendez is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to One Israel Fund is documented.
+ - Bob Menendez is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to One Israel Fund is documented.
 - **Republican Jewish Coalition** _(Israel Lobby)_
-  - Bob Menendez is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Republican Jewish Coalition is documented.
+ - Bob Menendez is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Republican Jewish Coalition is documented.
 - **American Iron and Steel Institute** _(Defense & Intelligence)_
-  - Bob Menendez is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to American Iron and Steel Institute is documented.
+ - Bob Menendez is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to American Iron and Steel Institute is documented.
 - **Anduril Industries** _(Defense & Intelligence)_
-  - Bob Menendez is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Anduril Industries is documented.
+ - Bob Menendez is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Anduril Industries is documented.
 - **BAE Systems** _(Defense & Intelligence)_
-  - Bob Menendez is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to BAE Systems is documented.
+ - Bob Menendez is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to BAE Systems is documented.
 - **Bechtel Corporation** _(Defense & Intelligence)_
-  - Bob Menendez is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Bechtel Corporation is documented.
+ - Bob Menendez is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Bechtel Corporation is documented.
 - **Boeing Defense** _(Defense & Intelligence)_
-  - Bob Menendez is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Boeing Defense is documented.
+ - Bob Menendez is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Boeing Defense is documented.
 - **Boeing** _(Defense & Intelligence)_
-  - Bob Menendez is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Boeing is documented.
+ - Bob Menendez is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Boeing is documented.
 - **Booz Allen Hamilton** _(Defense & Intelligence)_
-  - Bob Menendez is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Booz Allen Hamilton is documented.
+ - Bob Menendez is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Booz Allen Hamilton is documented.
 - **Defense Contractors Bloc** _(Defense & Intelligence)_
-  - Bob Menendez is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Defense Contractors Bloc is documented.
+ - Bob Menendez is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Defense Contractors Bloc is documented.
 - **Defense Contractors** _(Defense & Intelligence)_
-  - Bob Menendez is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Defense Contractors is documented.
-- _...and 11 more_
+ - Bob Menendez is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Defense Contractors is documented.
+- _..and 11 more_
 
-## Chris Coons Master Profile  _(91 candidates)_
+## Chris Coons Master Profile _(91 candidates)_
 
 - **ActBlue** _(Dark Money)_
-  - Chris Coons Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ActBlue is documented.
+ - Chris Coons Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ActBlue is documented.
 - **ALEC - American Legislative Exchange Council** _(Dark Money)_
-  - Chris Coons Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ALEC - American Legislative Exchange Council is documented.
+ - Chris Coons Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ALEC - American Legislative Exchange Council is documented.
 - **Alliance Defending Freedom** _(Dark Money)_
-  - Chris Coons Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Alliance Defending Freedom is documented.
+ - Chris Coons Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Alliance Defending Freedom is documented.
 - **America First Policy Institute** _(Dark Money)_
-  - Chris Coons Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America First Policy Institute is documented.
+ - Chris Coons Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America First Policy Institute is documented.
 - **America Votes** _(Dark Money)_
-  - Chris Coons Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America Votes is documented.
+ - Chris Coons Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America Votes is documented.
 - **American Action Network** _(Dark Money)_
-  - Chris Coons Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Action Network is documented.
+ - Chris Coons Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Action Network is documented.
 - **American Enterprise Institute** _(Dark Money)_
-  - Chris Coons Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Enterprise Institute is documented.
+ - Chris Coons Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Enterprise Institute is documented.
 - **Americans for Tax Reform - Grover Norquist** _(Dark Money)_
-  - Chris Coons Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Americans for Tax Reform - Grover Norquist is documented.
+ - Chris Coons Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Americans for Tax Reform - Grover Norquist is documented.
 - **Arabella Advisors** _(Dark Money)_
-  - Chris Coons Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Arabella Advisors is documented.
+ - Chris Coons Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Arabella Advisors is documented.
 - **Ballard Partners** _(Dark Money)_
-  - Chris Coons Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Ballard Partners is documented.
+ - Chris Coons Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Ballard Partners is documented.
 - **Bradley Foundation** _(Dark Money)_
-  - Chris Coons Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Bradley Foundation is documented.
+ - Chris Coons Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Bradley Foundation is documented.
 - **Bradley Impact Fund** _(Dark Money)_
-  - Chris Coons Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Bradley Impact Fund is documented.
+ - Chris Coons Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Bradley Impact Fund is documented.
 - **Brady Campaign** _(Dark Money)_
-  - Chris Coons Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Brady Campaign is documented.
+ - Chris Coons Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Brady Campaign is documented.
 - **Business Council of Alabama** _(Dark Money)_
-  - Chris Coons Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Business Council of Alabama is documented.
+ - Chris Coons Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Business Council of Alabama is documented.
 - **Business Roundtable** _(Dark Money)_
-  - Chris Coons Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Business Roundtable is documented.
+ - Chris Coons Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Business Roundtable is documented.
 - **Center for American Progress** _(Dark Money)_
-  - Chris Coons Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Center for American Progress is documented.
+ - Chris Coons Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Center for American Progress is documented.
 - **Concerned Veterans for America** _(Dark Money)_
-  - Chris Coons Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Concerned Veterans for America is documented.
+ - Chris Coons Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Concerned Veterans for America is documented.
 - **Conservative Partnership Institute** _(Dark Money)_
-  - Chris Coons Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Conservative Partnership Institute is documented.
+ - Chris Coons Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Conservative Partnership Institute is documented.
 - **Council for National Policy** _(Dark Money)_
-  - Chris Coons Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Council for National Policy is documented.
+ - Chris Coons Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Council for National Policy is documented.
 - **CREW - Citizens for Responsibility and Ethics in Washington** _(Dark Money)_
-  - Chris Coons Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to CREW - Citizens for Responsibility and Ethics in Washington is documented.
-- _...and 71 more_
+ - Chris Coons Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to CREW - Citizens for Responsibility and Ethics in Washington is documented.
+- _..and 71 more_
 
-## Chris Murphy Master Profile  _(31 candidates)_
+## Chris Murphy Master Profile _(31 candidates)_
 
 - **AIPAC - American Israel Public Affairs Committee** _(Israel Lobby)_
-  - Chris Murphy Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to AIPAC - American Israel Public Affairs Committee is documented.
+ - Chris Murphy Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to AIPAC - American Israel Public Affairs Committee is documented.
 - **American Friends of the Likud** _(Israel Lobby)_
-  - Chris Murphy Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to American Friends of the Likud is documented.
+ - Chris Murphy Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to American Friends of the Likud is documented.
 - **Christians United for Israel** _(Israel Lobby)_
-  - Chris Murphy Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Christians United for Israel is documented.
+ - Chris Murphy Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Christians United for Israel is documented.
 - **Haim Saban** _(Israel Lobby)_
-  - Chris Murphy Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Haim Saban is documented.
+ - Chris Murphy Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Haim Saban is documented.
 - **J Street** _(Israel Lobby)_
-  - Chris Murphy Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to J Street is documented.
+ - Chris Murphy Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to J Street is documented.
 - **JCRC Bay Area** _(Israel Lobby)_
-  - Chris Murphy Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to JCRC Bay Area is documented.
+ - Chris Murphy Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to JCRC Bay Area is documented.
 - **Jewish Democratic Council of America** _(Israel Lobby)_
-  - Chris Murphy Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Jewish Democratic Council of America is documented.
+ - Chris Murphy Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Jewish Democratic Council of America is documented.
 - **JPAC - Jewish Public Affairs Committee of California** _(Israel Lobby)_
-  - Chris Murphy Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to JPAC - Jewish Public Affairs Committee of California is documented.
+ - Chris Murphy Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to JPAC - Jewish Public Affairs Committee of California is documented.
 - **Mark Mellman** _(Israel Lobby)_
-  - Chris Murphy Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Mark Mellman is documented.
+ - Chris Murphy Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Mark Mellman is documented.
 - **NORPAC** _(Israel Lobby)_
-  - Chris Murphy Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to NORPAC is documented.
+ - Chris Murphy Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to NORPAC is documented.
 - **One Israel Fund** _(Israel Lobby)_
-  - Chris Murphy Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to One Israel Fund is documented.
+ - Chris Murphy Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to One Israel Fund is documented.
 - **Republican Jewish Coalition** _(Israel Lobby)_
-  - Chris Murphy Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Republican Jewish Coalition is documented.
+ - Chris Murphy Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Republican Jewish Coalition is documented.
 - **American Iron and Steel Institute** _(Defense & Intelligence)_
-  - Chris Murphy Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to American Iron and Steel Institute is documented.
+ - Chris Murphy Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to American Iron and Steel Institute is documented.
 - **Anduril Industries** _(Defense & Intelligence)_
-  - Chris Murphy Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Anduril Industries is documented.
+ - Chris Murphy Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Anduril Industries is documented.
 - **BAE Systems** _(Defense & Intelligence)_
-  - Chris Murphy Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to BAE Systems is documented.
+ - Chris Murphy Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to BAE Systems is documented.
 - **Bechtel Corporation** _(Defense & Intelligence)_
-  - Chris Murphy Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Bechtel Corporation is documented.
+ - Chris Murphy Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Bechtel Corporation is documented.
 - **Boeing Defense** _(Defense & Intelligence)_
-  - Chris Murphy Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Boeing Defense is documented.
+ - Chris Murphy Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Boeing Defense is documented.
 - **Boeing** _(Defense & Intelligence)_
-  - Chris Murphy Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Boeing is documented.
+ - Chris Murphy Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Boeing is documented.
 - **Booz Allen Hamilton** _(Defense & Intelligence)_
-  - Chris Murphy Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Booz Allen Hamilton is documented.
+ - Chris Murphy Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Booz Allen Hamilton is documented.
 - **Defense Contractors Bloc** _(Defense & Intelligence)_
-  - Chris Murphy Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Defense Contractors Bloc is documented.
-- _...and 11 more_
+ - Chris Murphy Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Defense Contractors Bloc is documented.
+- _..and 11 more_
 
-## Chuck Schumer Master Profile  _(31 candidates)_
+## Chuck Schumer Master Profile _(31 candidates)_
 
 - **American Friends of the Likud** _(Israel Lobby)_
-  - Chuck Schumer Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to American Friends of the Likud is documented.
+ - Chuck Schumer Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to American Friends of the Likud is documented.
 - **Christians United for Israel** _(Israel Lobby)_
-  - Chuck Schumer Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Christians United for Israel is documented.
+ - Chuck Schumer Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Christians United for Israel is documented.
 - **Haim Saban** _(Israel Lobby)_
-  - Chuck Schumer Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Haim Saban is documented.
+ - Chuck Schumer Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Haim Saban is documented.
 - **J Street** _(Israel Lobby)_
-  - Chuck Schumer Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to J Street is documented.
+ - Chuck Schumer Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to J Street is documented.
 - **JCRC Bay Area** _(Israel Lobby)_
-  - Chuck Schumer Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to JCRC Bay Area is documented.
+ - Chuck Schumer Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to JCRC Bay Area is documented.
 - **Jewish Democratic Council of America** _(Israel Lobby)_
-  - Chuck Schumer Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Jewish Democratic Council of America is documented.
+ - Chuck Schumer Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Jewish Democratic Council of America is documented.
 - **JPAC - Jewish Public Affairs Committee of California** _(Israel Lobby)_
-  - Chuck Schumer Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to JPAC - Jewish Public Affairs Committee of California is documented.
+ - Chuck Schumer Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to JPAC - Jewish Public Affairs Committee of California is documented.
 - **Mark Mellman** _(Israel Lobby)_
-  - Chuck Schumer Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Mark Mellman is documented.
+ - Chuck Schumer Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Mark Mellman is documented.
 - **NORPAC** _(Israel Lobby)_
-  - Chuck Schumer Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to NORPAC is documented.
+ - Chuck Schumer Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to NORPAC is documented.
 - **One Israel Fund** _(Israel Lobby)_
-  - Chuck Schumer Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to One Israel Fund is documented.
+ - Chuck Schumer Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to One Israel Fund is documented.
 - **Republican Jewish Coalition** _(Israel Lobby)_
-  - Chuck Schumer Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Republican Jewish Coalition is documented.
+ - Chuck Schumer Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Republican Jewish Coalition is documented.
 - **American Iron and Steel Institute** _(Defense & Intelligence)_
-  - Chuck Schumer Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to American Iron and Steel Institute is documented.
+ - Chuck Schumer Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to American Iron and Steel Institute is documented.
 - **Anduril Industries** _(Defense & Intelligence)_
-  - Chuck Schumer Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Anduril Industries is documented.
+ - Chuck Schumer Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Anduril Industries is documented.
 - **BAE Systems** _(Defense & Intelligence)_
-  - Chuck Schumer Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to BAE Systems is documented.
+ - Chuck Schumer Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to BAE Systems is documented.
 - **Bechtel Corporation** _(Defense & Intelligence)_
-  - Chuck Schumer Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Bechtel Corporation is documented.
+ - Chuck Schumer Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Bechtel Corporation is documented.
 - **Boeing Defense** _(Defense & Intelligence)_
-  - Chuck Schumer Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Boeing Defense is documented.
+ - Chuck Schumer Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Boeing Defense is documented.
 - **Boeing** _(Defense & Intelligence)_
-  - Chuck Schumer Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Boeing is documented.
+ - Chuck Schumer Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Boeing is documented.
 - **Booz Allen Hamilton** _(Defense & Intelligence)_
-  - Chuck Schumer Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Booz Allen Hamilton is documented.
+ - Chuck Schumer Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Booz Allen Hamilton is documented.
 - **Defense Contractors Bloc** _(Defense & Intelligence)_
-  - Chuck Schumer Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Defense Contractors Bloc is documented.
+ - Chuck Schumer Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Defense Contractors Bloc is documented.
 - **Defense Contractors** _(Defense & Intelligence)_
-  - Chuck Schumer Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Defense Contractors is documented.
-- _...and 11 more_
+ - Chuck Schumer Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Defense Contractors is documented.
+- _..and 11 more_
 
-## Debbie Stabenow Master Profile  _(13 candidates)_
+## Debbie Stabenow Master Profile _(13 candidates)_
 
 - **ADM - Archer Daniels Midland** _(Agriculture)_
-  - Debbie Stabenow Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to ADM - Archer Daniels Midland is documented.
+ - Debbie Stabenow Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to ADM - Archer Daniels Midland is documented.
 - **Agribusiness Donor Bloc** _(Agriculture)_
-  - Debbie Stabenow Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Agribusiness Donor Bloc is documented.
+ - Debbie Stabenow Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Agribusiness Donor Bloc is documented.
 - **Agricultural Labor Vulnerability Donors** _(Agriculture)_
-  - Debbie Stabenow Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Agricultural Labor Vulnerability Donors is documented.
+ - Debbie Stabenow Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Agricultural Labor Vulnerability Donors is documented.
 - **American Farm Bureau Federation** _(Agriculture)_
-  - Debbie Stabenow Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to American Farm Bureau Federation is documented.
+ - Debbie Stabenow Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to American Farm Bureau Federation is documented.
 - **CA Farm Bureau Federation** _(Agriculture)_
-  - Debbie Stabenow Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to CA Farm Bureau Federation is documented.
+ - Debbie Stabenow Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to CA Farm Bureau Federation is documented.
 - **California Farm Bureau Federation** _(Agriculture)_
-  - Debbie Stabenow Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to California Farm Bureau Federation is documented.
+ - Debbie Stabenow Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to California Farm Bureau Federation is documented.
 - **Cargill** _(Agriculture)_
-  - Debbie Stabenow Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Cargill is documented.
+ - Debbie Stabenow Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Cargill is documented.
 - **Fanjul Family - Florida Crystals** _(Agriculture)_
-  - Debbie Stabenow Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Fanjul Family - Florida Crystals is documented.
+ - Debbie Stabenow Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Fanjul Family - Florida Crystals is documented.
 - **John Deere** _(Agriculture)_
-  - Debbie Stabenow Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to John Deere is documented.
+ - Debbie Stabenow Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to John Deere is documented.
 - **Monsanto - Bayer** _(Agriculture)_
-  - Debbie Stabenow Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Monsanto - Bayer is documented.
+ - Debbie Stabenow Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Monsanto - Bayer is documented.
 - **National Cattlemen's Beef Association** _(Agriculture)_
-  - Debbie Stabenow Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to National Cattlemen's Beef Association is documented.
+ - Debbie Stabenow Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to National Cattlemen's Beef Association is documented.
 - **Tyson Foods** _(Agriculture)_
-  - Debbie Stabenow Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Tyson Foods is documented.
+ - Debbie Stabenow Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Tyson Foods is documented.
 - **Western Growers Association** _(Agriculture)_
-  - Debbie Stabenow Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Western Growers Association is documented.
+ - Debbie Stabenow Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Western Growers Association is documented.
 
-## Dick Durbin  _(59 candidates)_
+## Dick Durbin _(59 candidates)_
 
 - **ActBlue** _(Dark Money)_
-  - Dick Durbin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ActBlue is documented.
+ - Dick Durbin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ActBlue is documented.
 - **ALEC - American Legislative Exchange Council** _(Dark Money)_
-  - Dick Durbin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ALEC - American Legislative Exchange Council is documented.
+ - Dick Durbin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ALEC - American Legislative Exchange Council is documented.
 - **Alliance Defending Freedom** _(Dark Money)_
-  - Dick Durbin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Alliance Defending Freedom is documented.
+ - Dick Durbin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Alliance Defending Freedom is documented.
 - **America First Policy Institute** _(Dark Money)_
-  - Dick Durbin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America First Policy Institute is documented.
+ - Dick Durbin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America First Policy Institute is documented.
 - **America Votes** _(Dark Money)_
-  - Dick Durbin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America Votes is documented.
+ - Dick Durbin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America Votes is documented.
 - **American Action Network** _(Dark Money)_
-  - Dick Durbin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Action Network is documented.
+ - Dick Durbin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Action Network is documented.
 - **American Enterprise Institute** _(Dark Money)_
-  - Dick Durbin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Enterprise Institute is documented.
+ - Dick Durbin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Enterprise Institute is documented.
 - **Americans for Tax Reform - Grover Norquist** _(Dark Money)_
-  - Dick Durbin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Americans for Tax Reform - Grover Norquist is documented.
+ - Dick Durbin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Americans for Tax Reform - Grover Norquist is documented.
 - **Arabella Advisors** _(Dark Money)_
-  - Dick Durbin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Arabella Advisors is documented.
+ - Dick Durbin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Arabella Advisors is documented.
 - **Ballard Partners** _(Dark Money)_
-  - Dick Durbin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Ballard Partners is documented.
+ - Dick Durbin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Ballard Partners is documented.
 - **Bradley Foundation** _(Dark Money)_
-  - Dick Durbin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Bradley Foundation is documented.
+ - Dick Durbin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Bradley Foundation is documented.
 - **Bradley Impact Fund** _(Dark Money)_
-  - Dick Durbin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Bradley Impact Fund is documented.
+ - Dick Durbin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Bradley Impact Fund is documented.
 - **Brady Campaign** _(Dark Money)_
-  - Dick Durbin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Brady Campaign is documented.
+ - Dick Durbin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Brady Campaign is documented.
 - **Business Council of Alabama** _(Dark Money)_
-  - Dick Durbin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Business Council of Alabama is documented.
+ - Dick Durbin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Business Council of Alabama is documented.
 - **Business Roundtable** _(Dark Money)_
-  - Dick Durbin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Business Roundtable is documented.
+ - Dick Durbin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Business Roundtable is documented.
 - **Center for American Progress** _(Dark Money)_
-  - Dick Durbin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Center for American Progress is documented.
+ - Dick Durbin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Center for American Progress is documented.
 - **Concerned Veterans for America** _(Dark Money)_
-  - Dick Durbin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Concerned Veterans for America is documented.
+ - Dick Durbin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Concerned Veterans for America is documented.
 - **Conservative Partnership Institute** _(Dark Money)_
-  - Dick Durbin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Conservative Partnership Institute is documented.
+ - Dick Durbin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Conservative Partnership Institute is documented.
 - **Council for National Policy** _(Dark Money)_
-  - Dick Durbin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Council for National Policy is documented.
+ - Dick Durbin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Council for National Policy is documented.
 - **CREW - Citizens for Responsibility and Ethics in Washington** _(Dark Money)_
-  - Dick Durbin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to CREW - Citizens for Responsibility and Ethics in Washington is documented.
-- _...and 39 more_
+ - Dick Durbin is on a committee matching /judiciary/ which regulates Dark Money, but no connection to CREW - Citizens for Responsibility and Ethics in Washington is documented.
+- _..and 39 more_
 
-## Ed Markey  _(1 candidates)_
+## Ed Markey _(1 candidates)_
 
 - **Bernie Marcus** _(Retail)_
-  - Ed Markey is on a committee matching /commerce/ which regulates Retail, but no connection to Bernie Marcus is documented.
+ - Ed Markey is on a committee matching /commerce/ which regulates Retail, but no connection to Bernie Marcus is documented.
 
-## Elizabeth Warren Master Profile  _(49 candidates)_
+## Elizabeth Warren Master Profile _(49 candidates)_
 
 - **Apollo Global Management** _(Wall Street)_
-  - Elizabeth Warren Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Apollo Global Management is documented.
+ - Elizabeth Warren Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Apollo Global Management is documented.
 - **Bank of America** _(Wall Street)_
-  - Elizabeth Warren Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Bank of America is documented.
+ - Elizabeth Warren Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Bank of America is documented.
 - **BlackRock** _(Wall Street)_
-  - Elizabeth Warren Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to BlackRock is documented.
+ - Elizabeth Warren Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to BlackRock is documented.
 - **Blackstone Group** _(Wall Street)_
-  - Elizabeth Warren Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Blackstone Group is documented.
+ - Elizabeth Warren Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Blackstone Group is documented.
 - **Blackstone Real Estate Political Operation** _(Wall Street)_
-  - Elizabeth Warren Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Blackstone Real Estate Political Operation is documented.
+ - Elizabeth Warren Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Blackstone Real Estate Political Operation is documented.
 - **CalPERS** _(Wall Street)_
-  - Elizabeth Warren Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to CalPERS is documented.
+ - Elizabeth Warren Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to CalPERS is documented.
 - **CalSTRS - California State Teachers' Retirement System** _(Wall Street)_
-  - Elizabeth Warren Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to CalSTRS - California State Teachers' Retirement System is documented.
+ - Elizabeth Warren Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to CalSTRS - California State Teachers' Retirement System is documented.
 - **Carlyle Group** _(Wall Street)_
-  - Elizabeth Warren Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Carlyle Group is documented.
+ - Elizabeth Warren Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Carlyle Group is documented.
 - **Charles Schwab** _(Wall Street)_
-  - Elizabeth Warren Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Charles Schwab is documented.
+ - Elizabeth Warren Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Charles Schwab is documented.
 - **Citadel - Kenneth Griffin** _(Wall Street)_
-  - Elizabeth Warren Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Citadel - Kenneth Griffin is documented.
+ - Elizabeth Warren Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Citadel - Kenneth Griffin is documented.
 - **Citigroup** _(Wall Street)_
-  - Elizabeth Warren Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Citigroup is documented.
+ - Elizabeth Warren Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Citigroup is documented.
 - **Elliott Management** _(Wall Street)_
-  - Elizabeth Warren Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Elliott Management is documented.
+ - Elizabeth Warren Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Elliott Management is documented.
 - **Fidelity Investments** _(Wall Street)_
-  - Elizabeth Warren Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Fidelity Investments is documented.
+ - Elizabeth Warren Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Fidelity Investments is documented.
 - **Financial Services Donors** _(Wall Street)_
-  - Elizabeth Warren Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Financial Services Donors is documented.
+ - Elizabeth Warren Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Financial Services Donors is documented.
 - **Goldman Sachs** _(Wall Street)_
-  - Elizabeth Warren Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Goldman Sachs is documented.
+ - Elizabeth Warren Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Goldman Sachs is documented.
 - **Hedge Fund Industry Bloc** _(Wall Street)_
-  - Elizabeth Warren Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Hedge Fund Industry Bloc is documented.
+ - Elizabeth Warren Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Hedge Fund Industry Bloc is documented.
 - **JPMorgan Chase** _(Wall Street)_
-  - Elizabeth Warren Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to JPMorgan Chase is documented.
+ - Elizabeth Warren Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to JPMorgan Chase is documented.
 - **Lawrence Summers** _(Wall Street)_
-  - Elizabeth Warren Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Lawrence Summers is documented.
+ - Elizabeth Warren Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Lawrence Summers is documented.
 - **MassMutual** _(Wall Street)_
-  - Elizabeth Warren Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to MassMutual is documented.
+ - Elizabeth Warren Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to MassMutual is documented.
 - **MBNA Corporation** _(Wall Street)_
-  - Elizabeth Warren Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to MBNA Corporation is documented.
-- _...and 29 more_
+ - Elizabeth Warren Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to MBNA Corporation is documented.
+- _..and 29 more_
 
-## Jack Reed  _(17 candidates)_
+## Jack Reed _(17 candidates)_
 
 - **American Iron and Steel Institute** _(Defense & Intelligence)_
-  - Jack Reed is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to American Iron and Steel Institute is documented.
+ - Jack Reed is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to American Iron and Steel Institute is documented.
 - **Anduril Industries** _(Defense & Intelligence)_
-  - Jack Reed is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Anduril Industries is documented.
+ - Jack Reed is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Anduril Industries is documented.
 - **BAE Systems** _(Defense & Intelligence)_
-  - Jack Reed is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to BAE Systems is documented.
+ - Jack Reed is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to BAE Systems is documented.
 - **Bechtel Corporation** _(Defense & Intelligence)_
-  - Jack Reed is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Bechtel Corporation is documented.
+ - Jack Reed is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Bechtel Corporation is documented.
 - **Boeing Defense** _(Defense & Intelligence)_
-  - Jack Reed is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Boeing Defense is documented.
+ - Jack Reed is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Boeing Defense is documented.
 - **Booz Allen Hamilton** _(Defense & Intelligence)_
-  - Jack Reed is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Booz Allen Hamilton is documented.
+ - Jack Reed is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Booz Allen Hamilton is documented.
 - **Defense Contractors Bloc** _(Defense & Intelligence)_
-  - Jack Reed is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Contractors Bloc is documented.
+ - Jack Reed is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Contractors Bloc is documented.
 - **Defense Contractors** _(Defense & Intelligence)_
-  - Jack Reed is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Contractors is documented.
+ - Jack Reed is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Contractors is documented.
 - **Defense Industry Bloc** _(Defense & Intelligence)_
-  - Jack Reed is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Industry Bloc is documented.
+ - Jack Reed is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Industry Bloc is documented.
 - **Defense Industry** _(Defense & Intelligence)_
-  - Jack Reed is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Industry is documented.
+ - Jack Reed is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Industry is documented.
 - **Honeywell International** _(Defense & Intelligence)_
-  - Jack Reed is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Honeywell International is documented.
+ - Jack Reed is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Honeywell International is documented.
 - **L3 Technologies** _(Defense & Intelligence)_
-  - Jack Reed is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to L3 Technologies is documented.
+ - Jack Reed is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to L3 Technologies is documented.
 - **L3Harris Technologies** _(Defense & Intelligence)_
-  - Jack Reed is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to L3Harris Technologies is documented.
+ - Jack Reed is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to L3Harris Technologies is documented.
 - **Leidos** _(Defense & Intelligence)_
-  - Jack Reed is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Leidos is documented.
+ - Jack Reed is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Leidos is documented.
 - **Northrop Grumman** _(Defense & Intelligence)_
-  - Jack Reed is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Northrop Grumman is documented.
+ - Jack Reed is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Northrop Grumman is documented.
 - **Nucor Corporation** _(Defense & Intelligence)_
-  - Jack Reed is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Nucor Corporation is documented.
+ - Jack Reed is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Nucor Corporation is documented.
 - **Raytheon (RTX Corporation)** _(Defense & Intelligence)_
-  - Jack Reed is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Raytheon (RTX Corporation) is documented.
+ - Jack Reed is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Raytheon (RTX Corporation) is documented.
 
-## Jeanne Shaheen Master Profile  _(46 candidates)_
+## Jeanne Shaheen Master Profile _(46 candidates)_
 
 - **American Iron and Steel Institute** _(Defense & Intelligence)_
-  - Jeanne Shaheen Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to American Iron and Steel Institute is documented.
+ - Jeanne Shaheen Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to American Iron and Steel Institute is documented.
 - **Anduril Industries** _(Defense & Intelligence)_
-  - Jeanne Shaheen Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Anduril Industries is documented.
+ - Jeanne Shaheen Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Anduril Industries is documented.
 - **Bechtel Corporation** _(Defense & Intelligence)_
-  - Jeanne Shaheen Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Bechtel Corporation is documented.
+ - Jeanne Shaheen Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Bechtel Corporation is documented.
 - **Boeing Defense** _(Defense & Intelligence)_
-  - Jeanne Shaheen Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Boeing Defense is documented.
+ - Jeanne Shaheen Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Boeing Defense is documented.
 - **Boeing** _(Defense & Intelligence)_
-  - Jeanne Shaheen Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Boeing is documented.
+ - Jeanne Shaheen Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Boeing is documented.
 - **Booz Allen Hamilton** _(Defense & Intelligence)_
-  - Jeanne Shaheen Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Booz Allen Hamilton is documented.
+ - Jeanne Shaheen Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Booz Allen Hamilton is documented.
 - **Defense Contractors Bloc** _(Defense & Intelligence)_
-  - Jeanne Shaheen Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Contractors Bloc is documented.
+ - Jeanne Shaheen Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Contractors Bloc is documented.
 - **Defense Contractors** _(Defense & Intelligence)_
-  - Jeanne Shaheen Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Contractors is documented.
+ - Jeanne Shaheen Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Contractors is documented.
 - **Defense Industry Bloc** _(Defense & Intelligence)_
-  - Jeanne Shaheen Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Industry Bloc is documented.
+ - Jeanne Shaheen Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Industry Bloc is documented.
 - **General Dynamics** _(Defense & Intelligence)_
-  - Jeanne Shaheen Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to General Dynamics is documented.
+ - Jeanne Shaheen Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to General Dynamics is documented.
 - **Honeywell International** _(Defense & Intelligence)_
-  - Jeanne Shaheen Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Honeywell International is documented.
+ - Jeanne Shaheen Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Honeywell International is documented.
 - **L3 Technologies** _(Defense & Intelligence)_
-  - Jeanne Shaheen Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to L3 Technologies is documented.
+ - Jeanne Shaheen Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to L3 Technologies is documented.
 - **L3Harris Technologies** _(Defense & Intelligence)_
-  - Jeanne Shaheen Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to L3Harris Technologies is documented.
+ - Jeanne Shaheen Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to L3Harris Technologies is documented.
 - **Leidos** _(Defense & Intelligence)_
-  - Jeanne Shaheen Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Leidos is documented.
+ - Jeanne Shaheen Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Leidos is documented.
 - **Lockheed Martin** _(Defense & Intelligence)_
-  - Jeanne Shaheen Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Lockheed Martin is documented.
+ - Jeanne Shaheen Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Lockheed Martin is documented.
 - **Nucor Corporation** _(Defense & Intelligence)_
-  - Jeanne Shaheen Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Nucor Corporation is documented.
+ - Jeanne Shaheen Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Nucor Corporation is documented.
 - **Raytheon (RTX Corporation)** _(Defense & Intelligence)_
-  - Jeanne Shaheen Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Raytheon (RTX Corporation) is documented.
+ - Jeanne Shaheen Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Raytheon (RTX Corporation) is documented.
 - **AIPAC - American Israel Public Affairs Committee** _(Israel Lobby)_
-  - Jeanne Shaheen Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to AIPAC - American Israel Public Affairs Committee is documented.
+ - Jeanne Shaheen Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to AIPAC - American Israel Public Affairs Committee is documented.
 - **American Friends of the Likud** _(Israel Lobby)_
-  - Jeanne Shaheen Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to American Friends of the Likud is documented.
+ - Jeanne Shaheen Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to American Friends of the Likud is documented.
 - **Christians United for Israel** _(Israel Lobby)_
-  - Jeanne Shaheen Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Christians United for Israel is documented.
-- _...and 26 more_
+ - Jeanne Shaheen Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Christians United for Israel is documented.
+- _..and 26 more_
 
-## John Hickenlooper  _(26 candidates)_
+## John Hickenlooper _(26 candidates)_
 
 - **Alabama Power** _(Energy & Utilities)_
-  - John Hickenlooper is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Alabama Power is documented.
+ - John Hickenlooper is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Alabama Power is documented.
 - **American Fuel and Petrochemical Manufacturers** _(Energy & Utilities)_
-  - John Hickenlooper is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to American Fuel and Petrochemical Manufacturers is documented.
+ - John Hickenlooper is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to American Fuel and Petrochemical Manufacturers is documented.
 - **Chevron** _(Energy & Utilities)_
-  - John Hickenlooper is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Chevron is documented.
+ - John Hickenlooper is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Chevron is documented.
 - **ConocoPhillips** _(Energy & Utilities)_
-  - John Hickenlooper is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to ConocoPhillips is documented.
+ - John Hickenlooper is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to ConocoPhillips is documented.
 - **Consumer Energy Alliance** _(Energy & Utilities)_
-  - John Hickenlooper is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Consumer Energy Alliance is documented.
+ - John Hickenlooper is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Consumer Energy Alliance is documented.
 - **Devon Energy** _(Energy & Utilities)_
-  - John Hickenlooper is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Devon Energy is documented.
+ - John Hickenlooper is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Devon Energy is documented.
 - **Drummond Co.** _(Energy & Utilities)_
-  - John Hickenlooper is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Drummond Co. is documented.
+ - John Hickenlooper is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Drummond Co. is documented.
 - **Duke Energy** _(Energy & Utilities)_
-  - John Hickenlooper is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Duke Energy is documented.
+ - John Hickenlooper is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Duke Energy is documented.
 - **Enterprise Products Partners** _(Energy & Utilities)_
-  - John Hickenlooper is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Enterprise Products Partners is documented.
+ - John Hickenlooper is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Enterprise Products Partners is documented.
 - **Ethanol Industry** _(Energy & Utilities)_
-  - John Hickenlooper is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Ethanol Industry is documented.
+ - John Hickenlooper is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Ethanol Industry is documented.
 - **ExxonMobil** _(Energy & Utilities)_
-  - John Hickenlooper is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to ExxonMobil is documented.
+ - John Hickenlooper is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to ExxonMobil is documented.
 - **Halliburton** _(Energy & Utilities)_
-  - John Hickenlooper is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Halliburton is documented.
+ - John Hickenlooper is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Halliburton is documented.
 - **Hawaiian Electric Company** _(Energy & Utilities)_
-  - John Hickenlooper is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Hawaiian Electric Company is documented.
+ - John Hickenlooper is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Hawaiian Electric Company is documented.
 - **Koch Industries** _(Energy & Utilities)_
-  - John Hickenlooper is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Koch Industries is documented.
+ - John Hickenlooper is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Koch Industries is documented.
 - **Marathon Petroleum** _(Energy & Utilities)_
-  - John Hickenlooper is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Marathon Petroleum is documented.
+ - John Hickenlooper is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Marathon Petroleum is documented.
 - **NextEra Energy** _(Energy & Utilities)_
-  - John Hickenlooper is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to NextEra Energy is documented.
+ - John Hickenlooper is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to NextEra Energy is documented.
 - **Occidental Petroleum** _(Energy & Utilities)_
-  - John Hickenlooper is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Occidental Petroleum is documented.
+ - John Hickenlooper is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Occidental Petroleum is documented.
 - **Petrochemical Industry Bloc** _(Energy & Utilities)_
-  - John Hickenlooper is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Petrochemical Industry Bloc is documented.
+ - John Hickenlooper is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Petrochemical Industry Bloc is documented.
 - **PG&E - Pacific Gas and Electric** _(Energy & Utilities)_
-  - John Hickenlooper is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to PG&E - Pacific Gas and Electric is documented.
+ - John Hickenlooper is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to PG&E - Pacific Gas and Electric is documented.
 - **PG&E** _(Energy & Utilities)_
-  - John Hickenlooper is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to PG&E is documented.
-- _...and 6 more_
+ - John Hickenlooper is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to PG&E is documented.
+- _..and 6 more_
 
-## Maria Cantwell  _(1 candidates)_
+## Maria Cantwell _(1 candidates)_
 
 - **Bernie Marcus** _(Retail)_
-  - Maria Cantwell is on a committee matching /commerce/ which regulates Retail, but no connection to Bernie Marcus is documented.
+ - Maria Cantwell is on a committee matching /commerce/ which regulates Retail, but no connection to Bernie Marcus is documented.
 
-## Mark Warner  _(31 candidates)_
-
-- **AIPAC - American Israel Public Affairs Committee** _(Israel Lobby)_
-  - Mark Warner is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to AIPAC - American Israel Public Affairs Committee is documented.
-- **American Friends of the Likud** _(Israel Lobby)_
-  - Mark Warner is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to American Friends of the Likud is documented.
-- **Christians United for Israel** _(Israel Lobby)_
-  - Mark Warner is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Christians United for Israel is documented.
-- **Haim Saban** _(Israel Lobby)_
-  - Mark Warner is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Haim Saban is documented.
-- **J Street** _(Israel Lobby)_
-  - Mark Warner is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to J Street is documented.
-- **JCRC Bay Area** _(Israel Lobby)_
-  - Mark Warner is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to JCRC Bay Area is documented.
-- **Jewish Democratic Council of America** _(Israel Lobby)_
-  - Mark Warner is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Jewish Democratic Council of America is documented.
-- **JPAC - Jewish Public Affairs Committee of California** _(Israel Lobby)_
-  - Mark Warner is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to JPAC - Jewish Public Affairs Committee of California is documented.
-- **Mark Mellman** _(Israel Lobby)_
-  - Mark Warner is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Mark Mellman is documented.
-- **NORPAC** _(Israel Lobby)_
-  - Mark Warner is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to NORPAC is documented.
-- **One Israel Fund** _(Israel Lobby)_
-  - Mark Warner is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to One Israel Fund is documented.
-- **Republican Jewish Coalition** _(Israel Lobby)_
-  - Mark Warner is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Republican Jewish Coalition is documented.
-- **American Iron and Steel Institute** _(Defense & Intelligence)_
-  - Mark Warner is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to American Iron and Steel Institute is documented.
-- **Anduril Industries** _(Defense & Intelligence)_
-  - Mark Warner is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Anduril Industries is documented.
-- **BAE Systems** _(Defense & Intelligence)_
-  - Mark Warner is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to BAE Systems is documented.
-- **Bechtel Corporation** _(Defense & Intelligence)_
-  - Mark Warner is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Bechtel Corporation is documented.
-- **Boeing Defense** _(Defense & Intelligence)_
-  - Mark Warner is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Boeing Defense is documented.
-- **Boeing** _(Defense & Intelligence)_
-  - Mark Warner is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Boeing is documented.
-- **Booz Allen Hamilton** _(Defense & Intelligence)_
-  - Mark Warner is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Booz Allen Hamilton is documented.
-- **Defense Contractors Bloc** _(Defense & Intelligence)_
-  - Mark Warner is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Defense Contractors Bloc is documented.
-- _...and 11 more_
-
-## Martin Heinrich Master Profile  _(31 candidates)_
+## Mark Warner _(31 candidates)_
 
 - **AIPAC - American Israel Public Affairs Committee** _(Israel Lobby)_
-  - Martin Heinrich Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to AIPAC - American Israel Public Affairs Committee is documented.
+ - Mark Warner is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to AIPAC - American Israel Public Affairs Committee is documented.
 - **American Friends of the Likud** _(Israel Lobby)_
-  - Martin Heinrich Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to American Friends of the Likud is documented.
+ - Mark Warner is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to American Friends of the Likud is documented.
 - **Christians United for Israel** _(Israel Lobby)_
-  - Martin Heinrich Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Christians United for Israel is documented.
+ - Mark Warner is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Christians United for Israel is documented.
 - **Haim Saban** _(Israel Lobby)_
-  - Martin Heinrich Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Haim Saban is documented.
+ - Mark Warner is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Haim Saban is documented.
 - **J Street** _(Israel Lobby)_
-  - Martin Heinrich Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to J Street is documented.
+ - Mark Warner is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to J Street is documented.
 - **JCRC Bay Area** _(Israel Lobby)_
-  - Martin Heinrich Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to JCRC Bay Area is documented.
+ - Mark Warner is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to JCRC Bay Area is documented.
 - **Jewish Democratic Council of America** _(Israel Lobby)_
-  - Martin Heinrich Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Jewish Democratic Council of America is documented.
+ - Mark Warner is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Jewish Democratic Council of America is documented.
 - **JPAC - Jewish Public Affairs Committee of California** _(Israel Lobby)_
-  - Martin Heinrich Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to JPAC - Jewish Public Affairs Committee of California is documented.
+ - Mark Warner is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to JPAC - Jewish Public Affairs Committee of California is documented.
 - **Mark Mellman** _(Israel Lobby)_
-  - Martin Heinrich Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Mark Mellman is documented.
+ - Mark Warner is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Mark Mellman is documented.
 - **NORPAC** _(Israel Lobby)_
-  - Martin Heinrich Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to NORPAC is documented.
+ - Mark Warner is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to NORPAC is documented.
 - **One Israel Fund** _(Israel Lobby)_
-  - Martin Heinrich Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to One Israel Fund is documented.
+ - Mark Warner is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to One Israel Fund is documented.
 - **Republican Jewish Coalition** _(Israel Lobby)_
-  - Martin Heinrich Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Republican Jewish Coalition is documented.
+ - Mark Warner is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Republican Jewish Coalition is documented.
 - **American Iron and Steel Institute** _(Defense & Intelligence)_
-  - Martin Heinrich Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to American Iron and Steel Institute is documented.
+ - Mark Warner is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to American Iron and Steel Institute is documented.
 - **Anduril Industries** _(Defense & Intelligence)_
-  - Martin Heinrich Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Anduril Industries is documented.
+ - Mark Warner is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Anduril Industries is documented.
 - **BAE Systems** _(Defense & Intelligence)_
-  - Martin Heinrich Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to BAE Systems is documented.
+ - Mark Warner is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to BAE Systems is documented.
 - **Bechtel Corporation** _(Defense & Intelligence)_
-  - Martin Heinrich Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Bechtel Corporation is documented.
+ - Mark Warner is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Bechtel Corporation is documented.
 - **Boeing Defense** _(Defense & Intelligence)_
-  - Martin Heinrich Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Boeing Defense is documented.
+ - Mark Warner is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Boeing Defense is documented.
 - **Boeing** _(Defense & Intelligence)_
-  - Martin Heinrich Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Boeing is documented.
+ - Mark Warner is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Boeing is documented.
 - **Booz Allen Hamilton** _(Defense & Intelligence)_
-  - Martin Heinrich Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Booz Allen Hamilton is documented.
+ - Mark Warner is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Booz Allen Hamilton is documented.
 - **Defense Contractors Bloc** _(Defense & Intelligence)_
-  - Martin Heinrich Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Defense Contractors Bloc is documented.
-- _...and 11 more_
+ - Mark Warner is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Defense Contractors Bloc is documented.
+- _..and 11 more_
 
-## Raphael Warnock Master Profile  _(44 candidates)_
+## Martin Heinrich Master Profile _(31 candidates)_
+
+- **AIPAC - American Israel Public Affairs Committee** _(Israel Lobby)_
+ - Martin Heinrich Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to AIPAC - American Israel Public Affairs Committee is documented.
+- **American Friends of the Likud** _(Israel Lobby)_
+ - Martin Heinrich Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to American Friends of the Likud is documented.
+- **Christians United for Israel** _(Israel Lobby)_
+ - Martin Heinrich Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Christians United for Israel is documented.
+- **Haim Saban** _(Israel Lobby)_
+ - Martin Heinrich Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Haim Saban is documented.
+- **J Street** _(Israel Lobby)_
+ - Martin Heinrich Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to J Street is documented.
+- **JCRC Bay Area** _(Israel Lobby)_
+ - Martin Heinrich Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to JCRC Bay Area is documented.
+- **Jewish Democratic Council of America** _(Israel Lobby)_
+ - Martin Heinrich Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Jewish Democratic Council of America is documented.
+- **JPAC - Jewish Public Affairs Committee of California** _(Israel Lobby)_
+ - Martin Heinrich Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to JPAC - Jewish Public Affairs Committee of California is documented.
+- **Mark Mellman** _(Israel Lobby)_
+ - Martin Heinrich Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Mark Mellman is documented.
+- **NORPAC** _(Israel Lobby)_
+ - Martin Heinrich Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to NORPAC is documented.
+- **One Israel Fund** _(Israel Lobby)_
+ - Martin Heinrich Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to One Israel Fund is documented.
+- **Republican Jewish Coalition** _(Israel Lobby)_
+ - Martin Heinrich Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Republican Jewish Coalition is documented.
+- **American Iron and Steel Institute** _(Defense & Intelligence)_
+ - Martin Heinrich Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to American Iron and Steel Institute is documented.
+- **Anduril Industries** _(Defense & Intelligence)_
+ - Martin Heinrich Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Anduril Industries is documented.
+- **BAE Systems** _(Defense & Intelligence)_
+ - Martin Heinrich Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to BAE Systems is documented.
+- **Bechtel Corporation** _(Defense & Intelligence)_
+ - Martin Heinrich Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Bechtel Corporation is documented.
+- **Boeing Defense** _(Defense & Intelligence)_
+ - Martin Heinrich Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Boeing Defense is documented.
+- **Boeing** _(Defense & Intelligence)_
+ - Martin Heinrich Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Boeing is documented.
+- **Booz Allen Hamilton** _(Defense & Intelligence)_
+ - Martin Heinrich Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Booz Allen Hamilton is documented.
+- **Defense Contractors Bloc** _(Defense & Intelligence)_
+ - Martin Heinrich Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Defense Contractors Bloc is documented.
+- _..and 11 more_
+
+## Raphael Warnock Master Profile _(44 candidates)_
 
 - **Apollo Global Management** _(Wall Street)_
-  - Raphael Warnock Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Apollo Global Management is documented.
+ - Raphael Warnock Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Apollo Global Management is documented.
 - **Bank of America** _(Wall Street)_
-  - Raphael Warnock Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Bank of America is documented.
+ - Raphael Warnock Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Bank of America is documented.
 - **BlackRock** _(Wall Street)_
-  - Raphael Warnock Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to BlackRock is documented.
+ - Raphael Warnock Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to BlackRock is documented.
 - **Blackstone Group** _(Wall Street)_
-  - Raphael Warnock Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Blackstone Group is documented.
+ - Raphael Warnock Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Blackstone Group is documented.
 - **Blackstone Real Estate Political Operation** _(Wall Street)_
-  - Raphael Warnock Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Blackstone Real Estate Political Operation is documented.
+ - Raphael Warnock Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Blackstone Real Estate Political Operation is documented.
 - **CalPERS** _(Wall Street)_
-  - Raphael Warnock Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to CalPERS is documented.
+ - Raphael Warnock Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to CalPERS is documented.
 - **CalSTRS - California State Teachers' Retirement System** _(Wall Street)_
-  - Raphael Warnock Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to CalSTRS - California State Teachers' Retirement System is documented.
+ - Raphael Warnock Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to CalSTRS - California State Teachers' Retirement System is documented.
 - **Carlyle Group** _(Wall Street)_
-  - Raphael Warnock Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Carlyle Group is documented.
+ - Raphael Warnock Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Carlyle Group is documented.
 - **Charles Schwab** _(Wall Street)_
-  - Raphael Warnock Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Charles Schwab is documented.
+ - Raphael Warnock Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Charles Schwab is documented.
 - **Citadel - Kenneth Griffin** _(Wall Street)_
-  - Raphael Warnock Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Citadel - Kenneth Griffin is documented.
+ - Raphael Warnock Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Citadel - Kenneth Griffin is documented.
 - **Citigroup** _(Wall Street)_
-  - Raphael Warnock Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Citigroup is documented.
+ - Raphael Warnock Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Citigroup is documented.
 - **Elliott Management** _(Wall Street)_
-  - Raphael Warnock Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Elliott Management is documented.
+ - Raphael Warnock Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Elliott Management is documented.
 - **Fidelity Investments** _(Wall Street)_
-  - Raphael Warnock Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Fidelity Investments is documented.
+ - Raphael Warnock Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Fidelity Investments is documented.
 - **Financial Services Donors** _(Wall Street)_
-  - Raphael Warnock Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Financial Services Donors is documented.
+ - Raphael Warnock Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Financial Services Donors is documented.
 - **Goldman Sachs** _(Wall Street)_
-  - Raphael Warnock Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Goldman Sachs is documented.
+ - Raphael Warnock Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Goldman Sachs is documented.
 - **Hedge Fund Industry Bloc** _(Wall Street)_
-  - Raphael Warnock Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Hedge Fund Industry Bloc is documented.
+ - Raphael Warnock Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Hedge Fund Industry Bloc is documented.
 - **JPMorgan Chase** _(Wall Street)_
-  - Raphael Warnock Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to JPMorgan Chase is documented.
+ - Raphael Warnock Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to JPMorgan Chase is documented.
 - **Lawrence Summers** _(Wall Street)_
-  - Raphael Warnock Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Lawrence Summers is documented.
+ - Raphael Warnock Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Lawrence Summers is documented.
 - **MassMutual** _(Wall Street)_
-  - Raphael Warnock Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to MassMutual is documented.
+ - Raphael Warnock Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to MassMutual is documented.
 - **MBNA Corporation** _(Wall Street)_
-  - Raphael Warnock Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to MBNA Corporation is documented.
-- _...and 24 more_
+ - Raphael Warnock Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to MBNA Corporation is documented.
+- _..and 24 more_
 
-## Richard Blumenthal  _(80 candidates)_
+## Richard Blumenthal _(80 candidates)_
 
 - **American Iron and Steel Institute** _(Defense & Intelligence)_
-  - Richard Blumenthal is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to American Iron and Steel Institute is documented.
+ - Richard Blumenthal is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to American Iron and Steel Institute is documented.
 - **Anduril Industries** _(Defense & Intelligence)_
-  - Richard Blumenthal is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Anduril Industries is documented.
+ - Richard Blumenthal is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Anduril Industries is documented.
 - **BAE Systems** _(Defense & Intelligence)_
-  - Richard Blumenthal is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to BAE Systems is documented.
+ - Richard Blumenthal is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to BAE Systems is documented.
 - **Bechtel Corporation** _(Defense & Intelligence)_
-  - Richard Blumenthal is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Bechtel Corporation is documented.
+ - Richard Blumenthal is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Bechtel Corporation is documented.
 - **Boeing Defense** _(Defense & Intelligence)_
-  - Richard Blumenthal is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Boeing Defense is documented.
+ - Richard Blumenthal is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Boeing Defense is documented.
 - **Boeing** _(Defense & Intelligence)_
-  - Richard Blumenthal is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Boeing is documented.
+ - Richard Blumenthal is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Boeing is documented.
 - **Booz Allen Hamilton** _(Defense & Intelligence)_
-  - Richard Blumenthal is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Booz Allen Hamilton is documented.
+ - Richard Blumenthal is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Booz Allen Hamilton is documented.
 - **Defense Contractors Bloc** _(Defense & Intelligence)_
-  - Richard Blumenthal is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Contractors Bloc is documented.
+ - Richard Blumenthal is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Contractors Bloc is documented.
 - **Defense Contractors** _(Defense & Intelligence)_
-  - Richard Blumenthal is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Contractors is documented.
+ - Richard Blumenthal is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Contractors is documented.
 - **Defense Industry Bloc** _(Defense & Intelligence)_
-  - Richard Blumenthal is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Industry Bloc is documented.
+ - Richard Blumenthal is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Industry Bloc is documented.
 - **Defense Industry** _(Defense & Intelligence)_
-  - Richard Blumenthal is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Industry is documented.
+ - Richard Blumenthal is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Industry is documented.
 - **General Dynamics** _(Defense & Intelligence)_
-  - Richard Blumenthal is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to General Dynamics is documented.
+ - Richard Blumenthal is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to General Dynamics is documented.
 - **Honeywell International** _(Defense & Intelligence)_
-  - Richard Blumenthal is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Honeywell International is documented.
+ - Richard Blumenthal is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Honeywell International is documented.
 - **L3 Technologies** _(Defense & Intelligence)_
-  - Richard Blumenthal is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to L3 Technologies is documented.
+ - Richard Blumenthal is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to L3 Technologies is documented.
 - **L3Harris Technologies** _(Defense & Intelligence)_
-  - Richard Blumenthal is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to L3Harris Technologies is documented.
+ - Richard Blumenthal is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to L3Harris Technologies is documented.
 - **Leidos** _(Defense & Intelligence)_
-  - Richard Blumenthal is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Leidos is documented.
+ - Richard Blumenthal is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Leidos is documented.
 - **Lockheed Martin** _(Defense & Intelligence)_
-  - Richard Blumenthal is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Lockheed Martin is documented.
+ - Richard Blumenthal is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Lockheed Martin is documented.
 - **Northrop Grumman** _(Defense & Intelligence)_
-  - Richard Blumenthal is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Northrop Grumman is documented.
+ - Richard Blumenthal is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Northrop Grumman is documented.
 - **Nucor Corporation** _(Defense & Intelligence)_
-  - Richard Blumenthal is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Nucor Corporation is documented.
+ - Richard Blumenthal is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Nucor Corporation is documented.
 - **Raytheon (RTX Corporation)** _(Defense & Intelligence)_
-  - Richard Blumenthal is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Raytheon (RTX Corporation) is documented.
-- _...and 60 more_
+ - Richard Blumenthal is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Raytheon (RTX Corporation) is documented.
+- _..and 60 more_
 
-## Sheldon Whitehouse  _(52 candidates)_
+## Sheldon Whitehouse _(52 candidates)_
 
 - **ActBlue** _(Dark Money)_
-  - Sheldon Whitehouse is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ActBlue is documented.
+ - Sheldon Whitehouse is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ActBlue is documented.
 - **ALEC - American Legislative Exchange Council** _(Dark Money)_
-  - Sheldon Whitehouse is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ALEC - American Legislative Exchange Council is documented.
+ - Sheldon Whitehouse is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ALEC - American Legislative Exchange Council is documented.
 - **Alliance Defending Freedom** _(Dark Money)_
-  - Sheldon Whitehouse is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Alliance Defending Freedom is documented.
+ - Sheldon Whitehouse is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Alliance Defending Freedom is documented.
 - **America First Policy Institute** _(Dark Money)_
-  - Sheldon Whitehouse is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America First Policy Institute is documented.
+ - Sheldon Whitehouse is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America First Policy Institute is documented.
 - **America Votes** _(Dark Money)_
-  - Sheldon Whitehouse is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America Votes is documented.
+ - Sheldon Whitehouse is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America Votes is documented.
 - **American Action Network** _(Dark Money)_
-  - Sheldon Whitehouse is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Action Network is documented.
+ - Sheldon Whitehouse is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Action Network is documented.
 - **American Enterprise Institute** _(Dark Money)_
-  - Sheldon Whitehouse is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Enterprise Institute is documented.
+ - Sheldon Whitehouse is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Enterprise Institute is documented.
 - **Americans for Tax Reform - Grover Norquist** _(Dark Money)_
-  - Sheldon Whitehouse is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Americans for Tax Reform - Grover Norquist is documented.
+ - Sheldon Whitehouse is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Americans for Tax Reform - Grover Norquist is documented.
 - **Ballard Partners** _(Dark Money)_
-  - Sheldon Whitehouse is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Ballard Partners is documented.
+ - Sheldon Whitehouse is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Ballard Partners is documented.
 - **Bradley Foundation** _(Dark Money)_
-  - Sheldon Whitehouse is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Bradley Foundation is documented.
+ - Sheldon Whitehouse is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Bradley Foundation is documented.
 - **Bradley Impact Fund** _(Dark Money)_
-  - Sheldon Whitehouse is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Bradley Impact Fund is documented.
+ - Sheldon Whitehouse is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Bradley Impact Fund is documented.
 - **Business Council of Alabama** _(Dark Money)_
-  - Sheldon Whitehouse is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Business Council of Alabama is documented.
+ - Sheldon Whitehouse is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Business Council of Alabama is documented.
 - **Business Roundtable** _(Dark Money)_
-  - Sheldon Whitehouse is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Business Roundtable is documented.
+ - Sheldon Whitehouse is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Business Roundtable is documented.
 - **Center for American Progress** _(Dark Money)_
-  - Sheldon Whitehouse is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Center for American Progress is documented.
+ - Sheldon Whitehouse is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Center for American Progress is documented.
 - **Concerned Veterans for America** _(Dark Money)_
-  - Sheldon Whitehouse is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Concerned Veterans for America is documented.
+ - Sheldon Whitehouse is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Concerned Veterans for America is documented.
 - **Conservative Partnership Institute** _(Dark Money)_
-  - Sheldon Whitehouse is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Conservative Partnership Institute is documented.
+ - Sheldon Whitehouse is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Conservative Partnership Institute is documented.
 - **Council for National Policy** _(Dark Money)_
-  - Sheldon Whitehouse is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Council for National Policy is documented.
+ - Sheldon Whitehouse is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Council for National Policy is documented.
 - **CREW - Citizens for Responsibility and Ethics in Washington** _(Dark Money)_
-  - Sheldon Whitehouse is on a committee matching /judiciary/ which regulates Dark Money, but no connection to CREW - Citizens for Responsibility and Ethics in Washington is documented.
+ - Sheldon Whitehouse is on a committee matching /judiciary/ which regulates Dark Money, but no connection to CREW - Citizens for Responsibility and Ethics in Washington is documented.
 - **Democracy Alliance** _(Dark Money)_
-  - Sheldon Whitehouse is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Democracy Alliance is documented.
+ - Sheldon Whitehouse is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Democracy Alliance is documented.
 - **Democratic Donor Network** _(Dark Money)_
-  - Sheldon Whitehouse is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Democratic Donor Network is documented.
-- _...and 32 more_
+ - Sheldon Whitehouse is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Democratic Donor Network is documented.
+- _..and 32 more_
 
-## Tammy Duckworth  _(14 candidates)_
+## Tammy Duckworth _(14 candidates)_
 
 - **American Iron and Steel Institute** _(Defense & Intelligence)_
-  - Tammy Duckworth is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to American Iron and Steel Institute is documented.
+ - Tammy Duckworth is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to American Iron and Steel Institute is documented.
 - **Anduril Industries** _(Defense & Intelligence)_
-  - Tammy Duckworth is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Anduril Industries is documented.
+ - Tammy Duckworth is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Anduril Industries is documented.
 - **BAE Systems** _(Defense & Intelligence)_
-  - Tammy Duckworth is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to BAE Systems is documented.
+ - Tammy Duckworth is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to BAE Systems is documented.
 - **Bechtel Corporation** _(Defense & Intelligence)_
-  - Tammy Duckworth is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Bechtel Corporation is documented.
+ - Tammy Duckworth is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Bechtel Corporation is documented.
 - **Boeing Defense** _(Defense & Intelligence)_
-  - Tammy Duckworth is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Boeing Defense is documented.
+ - Tammy Duckworth is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Boeing Defense is documented.
 - **Booz Allen Hamilton** _(Defense & Intelligence)_
-  - Tammy Duckworth is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Booz Allen Hamilton is documented.
+ - Tammy Duckworth is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Booz Allen Hamilton is documented.
 - **Defense Contractors** _(Defense & Intelligence)_
-  - Tammy Duckworth is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Contractors is documented.
+ - Tammy Duckworth is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Contractors is documented.
 - **Defense Industry Bloc** _(Defense & Intelligence)_
-  - Tammy Duckworth is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Industry Bloc is documented.
+ - Tammy Duckworth is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Industry Bloc is documented.
 - **Defense Industry** _(Defense & Intelligence)_
-  - Tammy Duckworth is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Industry is documented.
+ - Tammy Duckworth is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Industry is documented.
 - **Honeywell International** _(Defense & Intelligence)_
-  - Tammy Duckworth is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Honeywell International is documented.
+ - Tammy Duckworth is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Honeywell International is documented.
 - **L3 Technologies** _(Defense & Intelligence)_
-  - Tammy Duckworth is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to L3 Technologies is documented.
+ - Tammy Duckworth is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to L3 Technologies is documented.
 - **Leidos** _(Defense & Intelligence)_
-  - Tammy Duckworth is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Leidos is documented.
+ - Tammy Duckworth is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Leidos is documented.
 - **Nucor Corporation** _(Defense & Intelligence)_
-  - Tammy Duckworth is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Nucor Corporation is documented.
+ - Tammy Duckworth is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Nucor Corporation is documented.
 - **Raytheon (RTX Corporation)** _(Defense & Intelligence)_
-  - Tammy Duckworth is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Raytheon (RTX Corporation) is documented.
+ - Tammy Duckworth is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Raytheon (RTX Corporation) is documented.
 
-## Brian Mast  _(30 candidates)_
+## Brian Mast _(30 candidates)_
 
 - **American Friends of the Likud** _(Israel Lobby)_
-  - Brian Mast is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to American Friends of the Likud is documented.
+ - Brian Mast is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to American Friends of the Likud is documented.
 - **Christians United for Israel** _(Israel Lobby)_
-  - Brian Mast is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Christians United for Israel is documented.
+ - Brian Mast is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Christians United for Israel is documented.
 - **Haim Saban** _(Israel Lobby)_
-  - Brian Mast is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Haim Saban is documented.
+ - Brian Mast is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Haim Saban is documented.
 - **J Street** _(Israel Lobby)_
-  - Brian Mast is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to J Street is documented.
+ - Brian Mast is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to J Street is documented.
 - **JCRC Bay Area** _(Israel Lobby)_
-  - Brian Mast is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to JCRC Bay Area is documented.
+ - Brian Mast is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to JCRC Bay Area is documented.
 - **Jewish Democratic Council of America** _(Israel Lobby)_
-  - Brian Mast is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Jewish Democratic Council of America is documented.
+ - Brian Mast is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Jewish Democratic Council of America is documented.
 - **JPAC - Jewish Public Affairs Committee of California** _(Israel Lobby)_
-  - Brian Mast is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to JPAC - Jewish Public Affairs Committee of California is documented.
+ - Brian Mast is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to JPAC - Jewish Public Affairs Committee of California is documented.
 - **Mark Mellman** _(Israel Lobby)_
-  - Brian Mast is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Mark Mellman is documented.
+ - Brian Mast is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Mark Mellman is documented.
 - **One Israel Fund** _(Israel Lobby)_
-  - Brian Mast is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to One Israel Fund is documented.
+ - Brian Mast is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to One Israel Fund is documented.
 - **Republican Jewish Coalition** _(Israel Lobby)_
-  - Brian Mast is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Republican Jewish Coalition is documented.
+ - Brian Mast is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Republican Jewish Coalition is documented.
 - **American Iron and Steel Institute** _(Defense & Intelligence)_
-  - Brian Mast is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to American Iron and Steel Institute is documented.
+ - Brian Mast is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to American Iron and Steel Institute is documented.
 - **Anduril Industries** _(Defense & Intelligence)_
-  - Brian Mast is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Anduril Industries is documented.
+ - Brian Mast is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Anduril Industries is documented.
 - **BAE Systems** _(Defense & Intelligence)_
-  - Brian Mast is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to BAE Systems is documented.
+ - Brian Mast is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to BAE Systems is documented.
 - **Bechtel Corporation** _(Defense & Intelligence)_
-  - Brian Mast is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Bechtel Corporation is documented.
+ - Brian Mast is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Bechtel Corporation is documented.
 - **Boeing Defense** _(Defense & Intelligence)_
-  - Brian Mast is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Boeing Defense is documented.
+ - Brian Mast is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Boeing Defense is documented.
 - **Boeing** _(Defense & Intelligence)_
-  - Brian Mast is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Boeing is documented.
+ - Brian Mast is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Boeing is documented.
 - **Booz Allen Hamilton** _(Defense & Intelligence)_
-  - Brian Mast is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Booz Allen Hamilton is documented.
+ - Brian Mast is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Booz Allen Hamilton is documented.
 - **Defense Contractors Bloc** _(Defense & Intelligence)_
-  - Brian Mast is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Defense Contractors Bloc is documented.
+ - Brian Mast is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Defense Contractors Bloc is documented.
 - **Defense Contractors** _(Defense & Intelligence)_
-  - Brian Mast is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Defense Contractors is documented.
+ - Brian Mast is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Defense Contractors is documented.
 - **Defense Industry Bloc** _(Defense & Intelligence)_
-  - Brian Mast is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Defense Industry Bloc is documented.
-- _...and 10 more_
+ - Brian Mast is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Defense Industry Bloc is documented.
+- _..and 10 more_
 
-## Chip Roy Master Profile  _(59 candidates)_
+## Chip Roy Master Profile _(59 candidates)_
 
 - **ActBlue** _(Dark Money)_
-  - Chip Roy Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ActBlue is documented.
+ - Chip Roy Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ActBlue is documented.
 - **ALEC - American Legislative Exchange Council** _(Dark Money)_
-  - Chip Roy Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ALEC - American Legislative Exchange Council is documented.
+ - Chip Roy Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ALEC - American Legislative Exchange Council is documented.
 - **Alliance Defending Freedom** _(Dark Money)_
-  - Chip Roy Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Alliance Defending Freedom is documented.
+ - Chip Roy Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Alliance Defending Freedom is documented.
 - **America First Policy Institute** _(Dark Money)_
-  - Chip Roy Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America First Policy Institute is documented.
+ - Chip Roy Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America First Policy Institute is documented.
 - **America Votes** _(Dark Money)_
-  - Chip Roy Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America Votes is documented.
+ - Chip Roy Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America Votes is documented.
 - **American Action Network** _(Dark Money)_
-  - Chip Roy Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Action Network is documented.
+ - Chip Roy Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Action Network is documented.
 - **American Enterprise Institute** _(Dark Money)_
-  - Chip Roy Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Enterprise Institute is documented.
+ - Chip Roy Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Enterprise Institute is documented.
 - **Americans for Tax Reform - Grover Norquist** _(Dark Money)_
-  - Chip Roy Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Americans for Tax Reform - Grover Norquist is documented.
+ - Chip Roy Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Americans for Tax Reform - Grover Norquist is documented.
 - **Arabella Advisors** _(Dark Money)_
-  - Chip Roy Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Arabella Advisors is documented.
+ - Chip Roy Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Arabella Advisors is documented.
 - **Ballard Partners** _(Dark Money)_
-  - Chip Roy Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Ballard Partners is documented.
+ - Chip Roy Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Ballard Partners is documented.
 - **Bradley Foundation** _(Dark Money)_
-  - Chip Roy Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Bradley Foundation is documented.
+ - Chip Roy Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Bradley Foundation is documented.
 - **Bradley Impact Fund** _(Dark Money)_
-  - Chip Roy Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Bradley Impact Fund is documented.
+ - Chip Roy Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Bradley Impact Fund is documented.
 - **Brady Campaign** _(Dark Money)_
-  - Chip Roy Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Brady Campaign is documented.
+ - Chip Roy Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Brady Campaign is documented.
 - **Business Council of Alabama** _(Dark Money)_
-  - Chip Roy Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Business Council of Alabama is documented.
+ - Chip Roy Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Business Council of Alabama is documented.
 - **Business Roundtable** _(Dark Money)_
-  - Chip Roy Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Business Roundtable is documented.
+ - Chip Roy Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Business Roundtable is documented.
 - **Center for American Progress** _(Dark Money)_
-  - Chip Roy Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Center for American Progress is documented.
+ - Chip Roy Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Center for American Progress is documented.
 - **Concerned Veterans for America** _(Dark Money)_
-  - Chip Roy Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Concerned Veterans for America is documented.
+ - Chip Roy Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Concerned Veterans for America is documented.
 - **Conservative Partnership Institute** _(Dark Money)_
-  - Chip Roy Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Conservative Partnership Institute is documented.
+ - Chip Roy Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Conservative Partnership Institute is documented.
 - **Council for National Policy** _(Dark Money)_
-  - Chip Roy Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Council for National Policy is documented.
+ - Chip Roy Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Council for National Policy is documented.
 - **CREW - Citizens for Responsibility and Ethics in Washington** _(Dark Money)_
-  - Chip Roy Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to CREW - Citizens for Responsibility and Ethics in Washington is documented.
-- _...and 39 more_
+ - Chip Roy Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to CREW - Citizens for Responsibility and Ethics in Washington is documented.
+- _..and 39 more_
 
-## Dan Crenshaw Master Profile  _(56 candidates)_
+## Dan Crenshaw Master Profile _(56 candidates)_
 
 - **Alabama Power** _(Energy & Utilities)_
-  - Dan Crenshaw Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Alabama Power is documented.
+ - Dan Crenshaw Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Alabama Power is documented.
 - **American Fuel and Petrochemical Manufacturers** _(Energy & Utilities)_
-  - Dan Crenshaw Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to American Fuel and Petrochemical Manufacturers is documented.
+ - Dan Crenshaw Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to American Fuel and Petrochemical Manufacturers is documented.
 - **American Petroleum Institute** _(Energy & Utilities)_
-  - Dan Crenshaw Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to American Petroleum Institute is documented.
+ - Dan Crenshaw Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to American Petroleum Institute is documented.
 - **Chevron** _(Energy & Utilities)_
-  - Dan Crenshaw Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Chevron is documented.
+ - Dan Crenshaw Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Chevron is documented.
 - **Consumer Energy Alliance** _(Energy & Utilities)_
-  - Dan Crenshaw Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Consumer Energy Alliance is documented.
+ - Dan Crenshaw Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Consumer Energy Alliance is documented.
 - **Devon Energy** _(Energy & Utilities)_
-  - Dan Crenshaw Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Devon Energy is documented.
+ - Dan Crenshaw Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Devon Energy is documented.
 - **Drummond Co.** _(Energy & Utilities)_
-  - Dan Crenshaw Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Drummond Co. is documented.
+ - Dan Crenshaw Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Drummond Co. is documented.
 - **Duke Energy** _(Energy & Utilities)_
-  - Dan Crenshaw Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Duke Energy is documented.
+ - Dan Crenshaw Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Duke Energy is documented.
 - **Enterprise Products Partners** _(Energy & Utilities)_
-  - Dan Crenshaw Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Enterprise Products Partners is documented.
+ - Dan Crenshaw Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Enterprise Products Partners is documented.
 - **Ethanol Industry** _(Energy & Utilities)_
-  - Dan Crenshaw Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Ethanol Industry is documented.
+ - Dan Crenshaw Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Ethanol Industry is documented.
 - **Fossil Fuel Bloc** _(Energy & Utilities)_
-  - Dan Crenshaw Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Fossil Fuel Bloc is documented.
+ - Dan Crenshaw Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Fossil Fuel Bloc is documented.
 - **Halliburton** _(Energy & Utilities)_
-  - Dan Crenshaw Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Halliburton is documented.
+ - Dan Crenshaw Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Halliburton is documented.
 - **Hawaiian Electric Company** _(Energy & Utilities)_
-  - Dan Crenshaw Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Hawaiian Electric Company is documented.
+ - Dan Crenshaw Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Hawaiian Electric Company is documented.
 - **Marathon Petroleum** _(Energy & Utilities)_
-  - Dan Crenshaw Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Marathon Petroleum is documented.
+ - Dan Crenshaw Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Marathon Petroleum is documented.
 - **NextEra Energy** _(Energy & Utilities)_
-  - Dan Crenshaw Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to NextEra Energy is documented.
+ - Dan Crenshaw Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to NextEra Energy is documented.
 - **Occidental Petroleum** _(Energy & Utilities)_
-  - Dan Crenshaw Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Occidental Petroleum is documented.
+ - Dan Crenshaw Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Occidental Petroleum is documented.
 - **Petrochemical Industry Bloc** _(Energy & Utilities)_
-  - Dan Crenshaw Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Petrochemical Industry Bloc is documented.
+ - Dan Crenshaw Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Petrochemical Industry Bloc is documented.
 - **PG&E - Pacific Gas and Electric** _(Energy & Utilities)_
-  - Dan Crenshaw Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to PG&E - Pacific Gas and Electric is documented.
+ - Dan Crenshaw Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to PG&E - Pacific Gas and Electric is documented.
 - **PG&E** _(Energy & Utilities)_
-  - Dan Crenshaw Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to PG&E is documented.
+ - Dan Crenshaw Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to PG&E is documented.
 - **Southern Company** _(Energy & Utilities)_
-  - Dan Crenshaw Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Southern Company is documented.
-- _...and 36 more_
+ - Dan Crenshaw Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Southern Company is documented.
+- _..and 36 more_
 
-## French Hill  _(26 candidates)_
+## French Hill _(26 candidates)_
 
 - **Apollo Global Management** _(Wall Street)_
-  - French Hill is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Apollo Global Management is documented.
+ - French Hill is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Apollo Global Management is documented.
 - **BlackRock** _(Wall Street)_
-  - French Hill is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to BlackRock is documented.
+ - French Hill is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to BlackRock is documented.
 - **Blackstone Group** _(Wall Street)_
-  - French Hill is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Blackstone Group is documented.
+ - French Hill is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Blackstone Group is documented.
 - **Blackstone Real Estate Political Operation** _(Wall Street)_
-  - French Hill is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Blackstone Real Estate Political Operation is documented.
+ - French Hill is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Blackstone Real Estate Political Operation is documented.
 - **CalPERS** _(Wall Street)_
-  - French Hill is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to CalPERS is documented.
+ - French Hill is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to CalPERS is documented.
 - **CalSTRS - California State Teachers' Retirement System** _(Wall Street)_
-  - French Hill is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to CalSTRS - California State Teachers' Retirement System is documented.
+ - French Hill is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to CalSTRS - California State Teachers' Retirement System is documented.
 - **Carlyle Group** _(Wall Street)_
-  - French Hill is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Carlyle Group is documented.
+ - French Hill is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Carlyle Group is documented.
 - **Charles Schwab** _(Wall Street)_
-  - French Hill is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Charles Schwab is documented.
+ - French Hill is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Charles Schwab is documented.
 - **Citadel - Kenneth Griffin** _(Wall Street)_
-  - French Hill is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Citadel - Kenneth Griffin is documented.
+ - French Hill is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Citadel - Kenneth Griffin is documented.
 - **Elliott Management** _(Wall Street)_
-  - French Hill is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Elliott Management is documented.
+ - French Hill is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Elliott Management is documented.
 - **Fidelity Investments** _(Wall Street)_
-  - French Hill is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Fidelity Investments is documented.
+ - French Hill is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Fidelity Investments is documented.
 - **Financial Services Donors** _(Wall Street)_
-  - French Hill is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Financial Services Donors is documented.
+ - French Hill is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Financial Services Donors is documented.
 - **Hedge Fund Industry Bloc** _(Wall Street)_
-  - French Hill is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Hedge Fund Industry Bloc is documented.
+ - French Hill is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Hedge Fund Industry Bloc is documented.
 - **Lawrence Summers** _(Wall Street)_
-  - French Hill is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Lawrence Summers is documented.
+ - French Hill is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Lawrence Summers is documented.
 - **MassMutual** _(Wall Street)_
-  - French Hill is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to MassMutual is documented.
+ - French Hill is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to MassMutual is documented.
 - **MBNA Corporation** _(Wall Street)_
-  - French Hill is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to MBNA Corporation is documented.
+ - French Hill is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to MBNA Corporation is documented.
 - **Morgan Stanley** _(Wall Street)_
-  - French Hill is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Morgan Stanley is documented.
+ - French Hill is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Morgan Stanley is documented.
 - **Private Equity Industry Bloc** _(Wall Street)_
-  - French Hill is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Private Equity Industry Bloc is documented.
+ - French Hill is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Private Equity Industry Bloc is documented.
 - **QVT Financial** _(Wall Street)_
-  - French Hill is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to QVT Financial is documented.
+ - French Hill is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to QVT Financial is documented.
 - **Securities & Investment Industry** _(Wall Street)_
-  - French Hill is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Securities & Investment Industry is documented.
-- _...and 6 more_
+ - French Hill is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Securities & Investment Industry is documented.
+- _..and 6 more_
 
-## Glenn Thompson  _(13 candidates)_
+## Glenn Thompson _(13 candidates)_
 
 - **ADM - Archer Daniels Midland** _(Agriculture)_
-  - Glenn Thompson is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to ADM - Archer Daniels Midland is documented.
+ - Glenn Thompson is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to ADM - Archer Daniels Midland is documented.
 - **Agribusiness Donor Bloc** _(Agriculture)_
-  - Glenn Thompson is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Agribusiness Donor Bloc is documented.
+ - Glenn Thompson is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Agribusiness Donor Bloc is documented.
 - **Agricultural Labor Vulnerability Donors** _(Agriculture)_
-  - Glenn Thompson is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Agricultural Labor Vulnerability Donors is documented.
+ - Glenn Thompson is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Agricultural Labor Vulnerability Donors is documented.
 - **American Farm Bureau Federation** _(Agriculture)_
-  - Glenn Thompson is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to American Farm Bureau Federation is documented.
+ - Glenn Thompson is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to American Farm Bureau Federation is documented.
 - **CA Farm Bureau Federation** _(Agriculture)_
-  - Glenn Thompson is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to CA Farm Bureau Federation is documented.
+ - Glenn Thompson is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to CA Farm Bureau Federation is documented.
 - **California Farm Bureau Federation** _(Agriculture)_
-  - Glenn Thompson is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to California Farm Bureau Federation is documented.
+ - Glenn Thompson is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to California Farm Bureau Federation is documented.
 - **Cargill** _(Agriculture)_
-  - Glenn Thompson is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Cargill is documented.
+ - Glenn Thompson is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Cargill is documented.
 - **Fanjul Family - Florida Crystals** _(Agriculture)_
-  - Glenn Thompson is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Fanjul Family - Florida Crystals is documented.
+ - Glenn Thompson is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Fanjul Family - Florida Crystals is documented.
 - **John Deere** _(Agriculture)_
-  - Glenn Thompson is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to John Deere is documented.
+ - Glenn Thompson is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to John Deere is documented.
 - **Monsanto - Bayer** _(Agriculture)_
-  - Glenn Thompson is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Monsanto - Bayer is documented.
+ - Glenn Thompson is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Monsanto - Bayer is documented.
 - **National Cattlemen's Beef Association** _(Agriculture)_
-  - Glenn Thompson is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to National Cattlemen's Beef Association is documented.
+ - Glenn Thompson is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to National Cattlemen's Beef Association is documented.
 - **Tyson Foods** _(Agriculture)_
-  - Glenn Thompson is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Tyson Foods is documented.
+ - Glenn Thompson is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Tyson Foods is documented.
 - **Western Growers Association** _(Agriculture)_
-  - Glenn Thompson is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Western Growers Association is documented.
+ - Glenn Thompson is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Western Growers Association is documented.
 
-## Jim Jordan Master Profile  _(59 candidates)_
+## Jim Jordan Master Profile _(59 candidates)_
 
 - **ActBlue** _(Dark Money)_
-  - Jim Jordan Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ActBlue is documented.
+ - Jim Jordan Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ActBlue is documented.
 - **ALEC - American Legislative Exchange Council** _(Dark Money)_
-  - Jim Jordan Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ALEC - American Legislative Exchange Council is documented.
+ - Jim Jordan Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ALEC - American Legislative Exchange Council is documented.
 - **Alliance Defending Freedom** _(Dark Money)_
-  - Jim Jordan Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Alliance Defending Freedom is documented.
+ - Jim Jordan Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Alliance Defending Freedom is documented.
 - **America First Policy Institute** _(Dark Money)_
-  - Jim Jordan Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America First Policy Institute is documented.
+ - Jim Jordan Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America First Policy Institute is documented.
 - **America Votes** _(Dark Money)_
-  - Jim Jordan Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America Votes is documented.
+ - Jim Jordan Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America Votes is documented.
 - **American Action Network** _(Dark Money)_
-  - Jim Jordan Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Action Network is documented.
+ - Jim Jordan Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Action Network is documented.
 - **American Enterprise Institute** _(Dark Money)_
-  - Jim Jordan Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Enterprise Institute is documented.
+ - Jim Jordan Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Enterprise Institute is documented.
 - **Americans for Tax Reform - Grover Norquist** _(Dark Money)_
-  - Jim Jordan Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Americans for Tax Reform - Grover Norquist is documented.
+ - Jim Jordan Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Americans for Tax Reform - Grover Norquist is documented.
 - **Arabella Advisors** _(Dark Money)_
-  - Jim Jordan Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Arabella Advisors is documented.
+ - Jim Jordan Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Arabella Advisors is documented.
 - **Ballard Partners** _(Dark Money)_
-  - Jim Jordan Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Ballard Partners is documented.
+ - Jim Jordan Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Ballard Partners is documented.
 - **Bradley Foundation** _(Dark Money)_
-  - Jim Jordan Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Bradley Foundation is documented.
+ - Jim Jordan Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Bradley Foundation is documented.
 - **Bradley Impact Fund** _(Dark Money)_
-  - Jim Jordan Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Bradley Impact Fund is documented.
+ - Jim Jordan Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Bradley Impact Fund is documented.
 - **Brady Campaign** _(Dark Money)_
-  - Jim Jordan Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Brady Campaign is documented.
+ - Jim Jordan Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Brady Campaign is documented.
 - **Business Council of Alabama** _(Dark Money)_
-  - Jim Jordan Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Business Council of Alabama is documented.
+ - Jim Jordan Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Business Council of Alabama is documented.
 - **Business Roundtable** _(Dark Money)_
-  - Jim Jordan Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Business Roundtable is documented.
+ - Jim Jordan Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Business Roundtable is documented.
 - **Center for American Progress** _(Dark Money)_
-  - Jim Jordan Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Center for American Progress is documented.
+ - Jim Jordan Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Center for American Progress is documented.
 - **Concerned Veterans for America** _(Dark Money)_
-  - Jim Jordan Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Concerned Veterans for America is documented.
+ - Jim Jordan Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Concerned Veterans for America is documented.
 - **Conservative Partnership Institute** _(Dark Money)_
-  - Jim Jordan Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Conservative Partnership Institute is documented.
+ - Jim Jordan Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Conservative Partnership Institute is documented.
 - **Council for National Policy** _(Dark Money)_
-  - Jim Jordan Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Council for National Policy is documented.
+ - Jim Jordan Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Council for National Policy is documented.
 - **CREW - Citizens for Responsibility and Ethics in Washington** _(Dark Money)_
-  - Jim Jordan Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to CREW - Citizens for Responsibility and Ethics in Washington is documented.
-- _...and 39 more_
+ - Jim Jordan Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to CREW - Citizens for Responsibility and Ethics in Washington is documented.
+- _..and 39 more_
 
-## Jodey Arrington  _(12 candidates)_
+## Jodey Arrington _(12 candidates)_
 
 - **ADM - Archer Daniels Midland** _(Agriculture)_
-  - Jodey Arrington is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to ADM - Archer Daniels Midland is documented.
+ - Jodey Arrington is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to ADM - Archer Daniels Midland is documented.
 - **Agribusiness Donor Bloc** _(Agriculture)_
-  - Jodey Arrington is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Agribusiness Donor Bloc is documented.
+ - Jodey Arrington is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Agribusiness Donor Bloc is documented.
 - **Agricultural Labor Vulnerability Donors** _(Agriculture)_
-  - Jodey Arrington is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Agricultural Labor Vulnerability Donors is documented.
+ - Jodey Arrington is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Agricultural Labor Vulnerability Donors is documented.
 - **CA Farm Bureau Federation** _(Agriculture)_
-  - Jodey Arrington is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to CA Farm Bureau Federation is documented.
+ - Jodey Arrington is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to CA Farm Bureau Federation is documented.
 - **California Farm Bureau Federation** _(Agriculture)_
-  - Jodey Arrington is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to California Farm Bureau Federation is documented.
+ - Jodey Arrington is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to California Farm Bureau Federation is documented.
 - **Cargill** _(Agriculture)_
-  - Jodey Arrington is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Cargill is documented.
+ - Jodey Arrington is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Cargill is documented.
 - **Fanjul Family - Florida Crystals** _(Agriculture)_
-  - Jodey Arrington is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Fanjul Family - Florida Crystals is documented.
+ - Jodey Arrington is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Fanjul Family - Florida Crystals is documented.
 - **John Deere** _(Agriculture)_
-  - Jodey Arrington is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to John Deere is documented.
+ - Jodey Arrington is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to John Deere is documented.
 - **Monsanto - Bayer** _(Agriculture)_
-  - Jodey Arrington is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Monsanto - Bayer is documented.
+ - Jodey Arrington is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Monsanto - Bayer is documented.
 - **National Cattlemen's Beef Association** _(Agriculture)_
-  - Jodey Arrington is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to National Cattlemen's Beef Association is documented.
+ - Jodey Arrington is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to National Cattlemen's Beef Association is documented.
 - **Tyson Foods** _(Agriculture)_
-  - Jodey Arrington is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Tyson Foods is documented.
+ - Jodey Arrington is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Tyson Foods is documented.
 - **Western Growers Association** _(Agriculture)_
-  - Jodey Arrington is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Western Growers Association is documented.
+ - Jodey Arrington is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Western Growers Association is documented.
 
-## Maria Elvira Salazar  _(61 candidates)_
+## Maria Elvira Salazar _(61 candidates)_
 
 - **Apollo Global Management** _(Wall Street)_
-  - Maria Elvira Salazar is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Apollo Global Management is documented.
+ - Maria Elvira Salazar is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Apollo Global Management is documented.
 - **Bank of America** _(Wall Street)_
-  - Maria Elvira Salazar is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Bank of America is documented.
+ - Maria Elvira Salazar is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Bank of America is documented.
 - **BlackRock** _(Wall Street)_
-  - Maria Elvira Salazar is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to BlackRock is documented.
+ - Maria Elvira Salazar is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to BlackRock is documented.
 - **Blackstone Group** _(Wall Street)_
-  - Maria Elvira Salazar is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Blackstone Group is documented.
+ - Maria Elvira Salazar is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Blackstone Group is documented.
 - **Blackstone Real Estate Political Operation** _(Wall Street)_
-  - Maria Elvira Salazar is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Blackstone Real Estate Political Operation is documented.
+ - Maria Elvira Salazar is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Blackstone Real Estate Political Operation is documented.
 - **CalPERS** _(Wall Street)_
-  - Maria Elvira Salazar is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to CalPERS is documented.
+ - Maria Elvira Salazar is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to CalPERS is documented.
 - **CalSTRS - California State Teachers' Retirement System** _(Wall Street)_
-  - Maria Elvira Salazar is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to CalSTRS - California State Teachers' Retirement System is documented.
+ - Maria Elvira Salazar is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to CalSTRS - California State Teachers' Retirement System is documented.
 - **Carlyle Group** _(Wall Street)_
-  - Maria Elvira Salazar is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Carlyle Group is documented.
+ - Maria Elvira Salazar is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Carlyle Group is documented.
 - **Charles Schwab** _(Wall Street)_
-  - Maria Elvira Salazar is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Charles Schwab is documented.
+ - Maria Elvira Salazar is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Charles Schwab is documented.
 - **Citadel - Kenneth Griffin** _(Wall Street)_
-  - Maria Elvira Salazar is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Citadel - Kenneth Griffin is documented.
+ - Maria Elvira Salazar is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Citadel - Kenneth Griffin is documented.
 - **Citigroup** _(Wall Street)_
-  - Maria Elvira Salazar is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Citigroup is documented.
+ - Maria Elvira Salazar is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Citigroup is documented.
 - **Elliott Management** _(Wall Street)_
-  - Maria Elvira Salazar is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Elliott Management is documented.
+ - Maria Elvira Salazar is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Elliott Management is documented.
 - **Fidelity Investments** _(Wall Street)_
-  - Maria Elvira Salazar is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Fidelity Investments is documented.
+ - Maria Elvira Salazar is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Fidelity Investments is documented.
 - **Financial Services Donors** _(Wall Street)_
-  - Maria Elvira Salazar is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Financial Services Donors is documented.
+ - Maria Elvira Salazar is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Financial Services Donors is documented.
 - **Goldman Sachs** _(Wall Street)_
-  - Maria Elvira Salazar is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Goldman Sachs is documented.
+ - Maria Elvira Salazar is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Goldman Sachs is documented.
 - **Hedge Fund Industry Bloc** _(Wall Street)_
-  - Maria Elvira Salazar is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Hedge Fund Industry Bloc is documented.
+ - Maria Elvira Salazar is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Hedge Fund Industry Bloc is documented.
 - **JPMorgan Chase** _(Wall Street)_
-  - Maria Elvira Salazar is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to JPMorgan Chase is documented.
+ - Maria Elvira Salazar is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to JPMorgan Chase is documented.
 - **Lawrence Summers** _(Wall Street)_
-  - Maria Elvira Salazar is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Lawrence Summers is documented.
+ - Maria Elvira Salazar is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Lawrence Summers is documented.
 - **MassMutual** _(Wall Street)_
-  - Maria Elvira Salazar is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to MassMutual is documented.
+ - Maria Elvira Salazar is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to MassMutual is documented.
 - **MBNA Corporation** _(Wall Street)_
-  - Maria Elvira Salazar is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to MBNA Corporation is documented.
-- _...and 41 more_
+ - Maria Elvira Salazar is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to MBNA Corporation is documented.
+- _..and 41 more_
 
-## Mike Rogers  _(17 candidates)_
+## Mike Rogers _(17 candidates)_
 
 - **American Iron and Steel Institute** _(Defense & Intelligence)_
-  - Mike Rogers is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to American Iron and Steel Institute is documented.
+ - Mike Rogers is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to American Iron and Steel Institute is documented.
 - **Anduril Industries** _(Defense & Intelligence)_
-  - Mike Rogers is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Anduril Industries is documented.
+ - Mike Rogers is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Anduril Industries is documented.
 - **BAE Systems** _(Defense & Intelligence)_
-  - Mike Rogers is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to BAE Systems is documented.
+ - Mike Rogers is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to BAE Systems is documented.
 - **Bechtel Corporation** _(Defense & Intelligence)_
-  - Mike Rogers is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Bechtel Corporation is documented.
+ - Mike Rogers is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Bechtel Corporation is documented.
 - **Boeing Defense** _(Defense & Intelligence)_
-  - Mike Rogers is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Boeing Defense is documented.
+ - Mike Rogers is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Boeing Defense is documented.
 - **Booz Allen Hamilton** _(Defense & Intelligence)_
-  - Mike Rogers is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Booz Allen Hamilton is documented.
+ - Mike Rogers is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Booz Allen Hamilton is documented.
 - **Defense Contractors Bloc** _(Defense & Intelligence)_
-  - Mike Rogers is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Contractors Bloc is documented.
+ - Mike Rogers is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Contractors Bloc is documented.
 - **Defense Contractors** _(Defense & Intelligence)_
-  - Mike Rogers is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Contractors is documented.
+ - Mike Rogers is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Contractors is documented.
 - **Defense Industry Bloc** _(Defense & Intelligence)_
-  - Mike Rogers is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Industry Bloc is documented.
+ - Mike Rogers is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Industry Bloc is documented.
 - **Defense Industry** _(Defense & Intelligence)_
-  - Mike Rogers is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Industry is documented.
+ - Mike Rogers is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Industry is documented.
 - **General Dynamics** _(Defense & Intelligence)_
-  - Mike Rogers is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to General Dynamics is documented.
+ - Mike Rogers is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to General Dynamics is documented.
 - **Honeywell International** _(Defense & Intelligence)_
-  - Mike Rogers is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Honeywell International is documented.
+ - Mike Rogers is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Honeywell International is documented.
 - **L3 Technologies** _(Defense & Intelligence)_
-  - Mike Rogers is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to L3 Technologies is documented.
+ - Mike Rogers is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to L3 Technologies is documented.
 - **L3Harris Technologies** _(Defense & Intelligence)_
-  - Mike Rogers is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to L3Harris Technologies is documented.
+ - Mike Rogers is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to L3Harris Technologies is documented.
 - **Leidos** _(Defense & Intelligence)_
-  - Mike Rogers is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Leidos is documented.
+ - Mike Rogers is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Leidos is documented.
 - **Northrop Grumman** _(Defense & Intelligence)_
-  - Mike Rogers is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Northrop Grumman is documented.
+ - Mike Rogers is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Northrop Grumman is documented.
 - **Nucor Corporation** _(Defense & Intelligence)_
-  - Mike Rogers is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Nucor Corporation is documented.
+ - Mike Rogers is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Nucor Corporation is documented.
 
-## Rick Crawford  _(45 candidates)_
+## Rick Crawford _(45 candidates)_
 
 - **ADM - Archer Daniels Midland** _(Agriculture)_
-  - Rick Crawford is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to ADM - Archer Daniels Midland is documented.
+ - Rick Crawford is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to ADM - Archer Daniels Midland is documented.
 - **Agribusiness Donor Bloc** _(Agriculture)_
-  - Rick Crawford is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Agribusiness Donor Bloc is documented.
+ - Rick Crawford is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Agribusiness Donor Bloc is documented.
 - **Agricultural Labor Vulnerability Donors** _(Agriculture)_
-  - Rick Crawford is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Agricultural Labor Vulnerability Donors is documented.
+ - Rick Crawford is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Agricultural Labor Vulnerability Donors is documented.
 - **American Farm Bureau Federation** _(Agriculture)_
-  - Rick Crawford is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to American Farm Bureau Federation is documented.
+ - Rick Crawford is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to American Farm Bureau Federation is documented.
 - **CA Farm Bureau Federation** _(Agriculture)_
-  - Rick Crawford is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to CA Farm Bureau Federation is documented.
+ - Rick Crawford is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to CA Farm Bureau Federation is documented.
 - **California Farm Bureau Federation** _(Agriculture)_
-  - Rick Crawford is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to California Farm Bureau Federation is documented.
+ - Rick Crawford is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to California Farm Bureau Federation is documented.
 - **Cargill** _(Agriculture)_
-  - Rick Crawford is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Cargill is documented.
+ - Rick Crawford is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Cargill is documented.
 - **Fanjul Family - Florida Crystals** _(Agriculture)_
-  - Rick Crawford is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Fanjul Family - Florida Crystals is documented.
+ - Rick Crawford is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Fanjul Family - Florida Crystals is documented.
 - **John Deere** _(Agriculture)_
-  - Rick Crawford is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to John Deere is documented.
+ - Rick Crawford is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to John Deere is documented.
 - **Monsanto - Bayer** _(Agriculture)_
-  - Rick Crawford is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Monsanto - Bayer is documented.
+ - Rick Crawford is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Monsanto - Bayer is documented.
 - **National Cattlemen's Beef Association** _(Agriculture)_
-  - Rick Crawford is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to National Cattlemen's Beef Association is documented.
+ - Rick Crawford is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to National Cattlemen's Beef Association is documented.
 - **Tyson Foods** _(Agriculture)_
-  - Rick Crawford is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Tyson Foods is documented.
+ - Rick Crawford is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Tyson Foods is documented.
 - **Western Growers Association** _(Agriculture)_
-  - Rick Crawford is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Western Growers Association is documented.
+ - Rick Crawford is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Western Growers Association is documented.
 - **AIPAC - American Israel Public Affairs Committee** _(Israel Lobby)_
-  - Rick Crawford is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to AIPAC - American Israel Public Affairs Committee is documented.
+ - Rick Crawford is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to AIPAC - American Israel Public Affairs Committee is documented.
 - **American Friends of the Likud** _(Israel Lobby)_
-  - Rick Crawford is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to American Friends of the Likud is documented.
+ - Rick Crawford is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to American Friends of the Likud is documented.
 - **Christians United for Israel** _(Israel Lobby)_
-  - Rick Crawford is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Christians United for Israel is documented.
+ - Rick Crawford is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Christians United for Israel is documented.
 - **Haim Saban** _(Israel Lobby)_
-  - Rick Crawford is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Haim Saban is documented.
+ - Rick Crawford is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Haim Saban is documented.
 - **J Street** _(Israel Lobby)_
-  - Rick Crawford is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to J Street is documented.
+ - Rick Crawford is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to J Street is documented.
 - **JCRC Bay Area** _(Israel Lobby)_
-  - Rick Crawford is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to JCRC Bay Area is documented.
+ - Rick Crawford is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to JCRC Bay Area is documented.
 - **Jewish Democratic Council of America** _(Israel Lobby)_
-  - Rick Crawford is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Jewish Democratic Council of America is documented.
-- _...and 25 more_
+ - Rick Crawford is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Jewish Democratic Council of America is documented.
+- _..and 25 more_
 
-## Cathy McMorris Rodgers Master Profile  _(25 candidates)_
+## Cathy McMorris Rodgers Master Profile _(25 candidates)_
 
 - **Alabama Power** _(Energy & Utilities)_
-  - Cathy McMorris Rodgers Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Alabama Power is documented.
+ - Cathy McMorris Rodgers Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Alabama Power is documented.
 - **American Fuel and Petrochemical Manufacturers** _(Energy & Utilities)_
-  - Cathy McMorris Rodgers Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to American Fuel and Petrochemical Manufacturers is documented.
+ - Cathy McMorris Rodgers Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to American Fuel and Petrochemical Manufacturers is documented.
 - **American Petroleum Institute** _(Energy & Utilities)_
-  - Cathy McMorris Rodgers Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to American Petroleum Institute is documented.
+ - Cathy McMorris Rodgers Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to American Petroleum Institute is documented.
 - **ConocoPhillips** _(Energy & Utilities)_
-  - Cathy McMorris Rodgers Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to ConocoPhillips is documented.
+ - Cathy McMorris Rodgers Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to ConocoPhillips is documented.
 - **Consumer Energy Alliance** _(Energy & Utilities)_
-  - Cathy McMorris Rodgers Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Consumer Energy Alliance is documented.
+ - Cathy McMorris Rodgers Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Consumer Energy Alliance is documented.
 - **Devon Energy** _(Energy & Utilities)_
-  - Cathy McMorris Rodgers Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Devon Energy is documented.
+ - Cathy McMorris Rodgers Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Devon Energy is documented.
 - **Drummond Co.** _(Energy & Utilities)_
-  - Cathy McMorris Rodgers Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Drummond Co. is documented.
+ - Cathy McMorris Rodgers Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Drummond Co. is documented.
 - **Duke Energy** _(Energy & Utilities)_
-  - Cathy McMorris Rodgers Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Duke Energy is documented.
+ - Cathy McMorris Rodgers Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Duke Energy is documented.
 - **Enterprise Products Partners** _(Energy & Utilities)_
-  - Cathy McMorris Rodgers Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Enterprise Products Partners is documented.
+ - Cathy McMorris Rodgers Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Enterprise Products Partners is documented.
 - **Ethanol Industry** _(Energy & Utilities)_
-  - Cathy McMorris Rodgers Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Ethanol Industry is documented.
+ - Cathy McMorris Rodgers Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Ethanol Industry is documented.
 - **ExxonMobil** _(Energy & Utilities)_
-  - Cathy McMorris Rodgers Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to ExxonMobil is documented.
+ - Cathy McMorris Rodgers Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to ExxonMobil is documented.
 - **Fossil Fuel Bloc** _(Energy & Utilities)_
-  - Cathy McMorris Rodgers Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Fossil Fuel Bloc is documented.
+ - Cathy McMorris Rodgers Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Fossil Fuel Bloc is documented.
 - **Halliburton** _(Energy & Utilities)_
-  - Cathy McMorris Rodgers Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Halliburton is documented.
+ - Cathy McMorris Rodgers Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Halliburton is documented.
 - **Hawaiian Electric Company** _(Energy & Utilities)_
-  - Cathy McMorris Rodgers Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Hawaiian Electric Company is documented.
+ - Cathy McMorris Rodgers Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Hawaiian Electric Company is documented.
 - **NextEra Energy** _(Energy & Utilities)_
-  - Cathy McMorris Rodgers Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to NextEra Energy is documented.
+ - Cathy McMorris Rodgers Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to NextEra Energy is documented.
 - **Occidental Petroleum** _(Energy & Utilities)_
-  - Cathy McMorris Rodgers Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Occidental Petroleum is documented.
+ - Cathy McMorris Rodgers Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Occidental Petroleum is documented.
 - **Petrochemical Industry Bloc** _(Energy & Utilities)_
-  - Cathy McMorris Rodgers Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Petrochemical Industry Bloc is documented.
+ - Cathy McMorris Rodgers Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Petrochemical Industry Bloc is documented.
 - **PG&E - Pacific Gas and Electric** _(Energy & Utilities)_
-  - Cathy McMorris Rodgers Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to PG&E - Pacific Gas and Electric is documented.
+ - Cathy McMorris Rodgers Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to PG&E - Pacific Gas and Electric is documented.
 - **PG&E** _(Energy & Utilities)_
-  - Cathy McMorris Rodgers Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to PG&E is documented.
+ - Cathy McMorris Rodgers Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to PG&E is documented.
 - **Southern Company** _(Energy & Utilities)_
-  - Cathy McMorris Rodgers Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Southern Company is documented.
-- _...and 5 more_
+ - Cathy McMorris Rodgers Master Profile is on a committee matching /energy/ which regulates Energy & Utilities, but no connection to Southern Company is documented.
+- _..and 5 more_
 
-## Frank Lucas Master Profile  _(11 candidates)_
+## Frank Lucas Master Profile _(11 candidates)_
 
 - **ADM - Archer Daniels Midland** _(Agriculture)_
-  - Frank Lucas Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to ADM - Archer Daniels Midland is documented.
+ - Frank Lucas Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to ADM - Archer Daniels Midland is documented.
 - **Agribusiness Donor Bloc** _(Agriculture)_
-  - Frank Lucas Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Agribusiness Donor Bloc is documented.
+ - Frank Lucas Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Agribusiness Donor Bloc is documented.
 - **Agricultural Labor Vulnerability Donors** _(Agriculture)_
-  - Frank Lucas Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Agricultural Labor Vulnerability Donors is documented.
+ - Frank Lucas Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Agricultural Labor Vulnerability Donors is documented.
 - **CA Farm Bureau Federation** _(Agriculture)_
-  - Frank Lucas Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to CA Farm Bureau Federation is documented.
+ - Frank Lucas Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to CA Farm Bureau Federation is documented.
 - **California Farm Bureau Federation** _(Agriculture)_
-  - Frank Lucas Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to California Farm Bureau Federation is documented.
+ - Frank Lucas Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to California Farm Bureau Federation is documented.
 - **Cargill** _(Agriculture)_
-  - Frank Lucas Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Cargill is documented.
+ - Frank Lucas Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Cargill is documented.
 - **Fanjul Family - Florida Crystals** _(Agriculture)_
-  - Frank Lucas Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Fanjul Family - Florida Crystals is documented.
+ - Frank Lucas Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Fanjul Family - Florida Crystals is documented.
 - **John Deere** _(Agriculture)_
-  - Frank Lucas Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to John Deere is documented.
+ - Frank Lucas Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to John Deere is documented.
 - **Monsanto - Bayer** _(Agriculture)_
-  - Frank Lucas Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Monsanto - Bayer is documented.
+ - Frank Lucas Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Monsanto - Bayer is documented.
 - **Tyson Foods** _(Agriculture)_
-  - Frank Lucas Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Tyson Foods is documented.
+ - Frank Lucas Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Tyson Foods is documented.
 - **Western Growers Association** _(Agriculture)_
-  - Frank Lucas Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Western Growers Association is documented.
+ - Frank Lucas Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Western Growers Association is documented.
 
-## Chuck Grassley  _(71 candidates)_
+## Chuck Grassley _(71 candidates)_
 
 - **ADM - Archer Daniels Midland** _(Agriculture)_
-  - Chuck Grassley is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to ADM - Archer Daniels Midland is documented.
+ - Chuck Grassley is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to ADM - Archer Daniels Midland is documented.
 - **Agribusiness Donor Bloc** _(Agriculture)_
-  - Chuck Grassley is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Agribusiness Donor Bloc is documented.
+ - Chuck Grassley is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Agribusiness Donor Bloc is documented.
 - **Agricultural Labor Vulnerability Donors** _(Agriculture)_
-  - Chuck Grassley is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Agricultural Labor Vulnerability Donors is documented.
+ - Chuck Grassley is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Agricultural Labor Vulnerability Donors is documented.
 - **American Farm Bureau Federation** _(Agriculture)_
-  - Chuck Grassley is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to American Farm Bureau Federation is documented.
+ - Chuck Grassley is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to American Farm Bureau Federation is documented.
 - **CA Farm Bureau Federation** _(Agriculture)_
-  - Chuck Grassley is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to CA Farm Bureau Federation is documented.
+ - Chuck Grassley is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to CA Farm Bureau Federation is documented.
 - **California Farm Bureau Federation** _(Agriculture)_
-  - Chuck Grassley is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to California Farm Bureau Federation is documented.
+ - Chuck Grassley is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to California Farm Bureau Federation is documented.
 - **Cargill** _(Agriculture)_
-  - Chuck Grassley is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Cargill is documented.
+ - Chuck Grassley is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Cargill is documented.
 - **Fanjul Family - Florida Crystals** _(Agriculture)_
-  - Chuck Grassley is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Fanjul Family - Florida Crystals is documented.
+ - Chuck Grassley is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Fanjul Family - Florida Crystals is documented.
 - **John Deere** _(Agriculture)_
-  - Chuck Grassley is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to John Deere is documented.
+ - Chuck Grassley is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to John Deere is documented.
 - **Monsanto - Bayer** _(Agriculture)_
-  - Chuck Grassley is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Monsanto - Bayer is documented.
+ - Chuck Grassley is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Monsanto - Bayer is documented.
 - **National Cattlemen's Beef Association** _(Agriculture)_
-  - Chuck Grassley is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to National Cattlemen's Beef Association is documented.
+ - Chuck Grassley is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to National Cattlemen's Beef Association is documented.
 - **Tyson Foods** _(Agriculture)_
-  - Chuck Grassley is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Tyson Foods is documented.
+ - Chuck Grassley is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Tyson Foods is documented.
 - **Western Growers Association** _(Agriculture)_
-  - Chuck Grassley is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Western Growers Association is documented.
+ - Chuck Grassley is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Western Growers Association is documented.
 - **ActBlue** _(Dark Money)_
-  - Chuck Grassley is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ActBlue is documented.
+ - Chuck Grassley is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ActBlue is documented.
 - **ALEC - American Legislative Exchange Council** _(Dark Money)_
-  - Chuck Grassley is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ALEC - American Legislative Exchange Council is documented.
+ - Chuck Grassley is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ALEC - American Legislative Exchange Council is documented.
 - **Alliance Defending Freedom** _(Dark Money)_
-  - Chuck Grassley is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Alliance Defending Freedom is documented.
+ - Chuck Grassley is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Alliance Defending Freedom is documented.
 - **America First Policy Institute** _(Dark Money)_
-  - Chuck Grassley is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America First Policy Institute is documented.
+ - Chuck Grassley is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America First Policy Institute is documented.
 - **America Votes** _(Dark Money)_
-  - Chuck Grassley is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America Votes is documented.
+ - Chuck Grassley is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America Votes is documented.
 - **American Action Network** _(Dark Money)_
-  - Chuck Grassley is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Action Network is documented.
+ - Chuck Grassley is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Action Network is documented.
 - **American Enterprise Institute** _(Dark Money)_
-  - Chuck Grassley is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Enterprise Institute is documented.
-- _...and 51 more_
+ - Chuck Grassley is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Enterprise Institute is documented.
+- _..and 51 more_
 
-## Deb Fischer  _(33 candidates)_
+## Deb Fischer _(33 candidates)_
 
 - **American Iron and Steel Institute** _(Defense & Intelligence)_
-  - Deb Fischer is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to American Iron and Steel Institute is documented.
+ - Deb Fischer is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to American Iron and Steel Institute is documented.
 - **Anduril Industries** _(Defense & Intelligence)_
-  - Deb Fischer is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Anduril Industries is documented.
+ - Deb Fischer is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Anduril Industries is documented.
 - **BAE Systems** _(Defense & Intelligence)_
-  - Deb Fischer is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to BAE Systems is documented.
+ - Deb Fischer is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to BAE Systems is documented.
 - **Bechtel Corporation** _(Defense & Intelligence)_
-  - Deb Fischer is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Bechtel Corporation is documented.
+ - Deb Fischer is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Bechtel Corporation is documented.
 - **Boeing Defense** _(Defense & Intelligence)_
-  - Deb Fischer is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Boeing Defense is documented.
+ - Deb Fischer is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Boeing Defense is documented.
 - **Boeing** _(Defense & Intelligence)_
-  - Deb Fischer is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Boeing is documented.
+ - Deb Fischer is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Boeing is documented.
 - **Booz Allen Hamilton** _(Defense & Intelligence)_
-  - Deb Fischer is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Booz Allen Hamilton is documented.
+ - Deb Fischer is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Booz Allen Hamilton is documented.
 - **Defense Contractors Bloc** _(Defense & Intelligence)_
-  - Deb Fischer is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Contractors Bloc is documented.
+ - Deb Fischer is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Contractors Bloc is documented.
 - **Defense Contractors** _(Defense & Intelligence)_
-  - Deb Fischer is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Contractors is documented.
+ - Deb Fischer is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Contractors is documented.
 - **Defense Industry Bloc** _(Defense & Intelligence)_
-  - Deb Fischer is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Industry Bloc is documented.
+ - Deb Fischer is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Industry Bloc is documented.
 - **Defense Industry** _(Defense & Intelligence)_
-  - Deb Fischer is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Industry is documented.
+ - Deb Fischer is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Industry is documented.
 - **General Dynamics** _(Defense & Intelligence)_
-  - Deb Fischer is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to General Dynamics is documented.
+ - Deb Fischer is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to General Dynamics is documented.
 - **Honeywell International** _(Defense & Intelligence)_
-  - Deb Fischer is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Honeywell International is documented.
+ - Deb Fischer is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Honeywell International is documented.
 - **L3 Technologies** _(Defense & Intelligence)_
-  - Deb Fischer is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to L3 Technologies is documented.
+ - Deb Fischer is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to L3 Technologies is documented.
 - **L3Harris Technologies** _(Defense & Intelligence)_
-  - Deb Fischer is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to L3Harris Technologies is documented.
+ - Deb Fischer is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to L3Harris Technologies is documented.
 - **Leidos** _(Defense & Intelligence)_
-  - Deb Fischer is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Leidos is documented.
+ - Deb Fischer is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Leidos is documented.
 - **Lockheed Martin** _(Defense & Intelligence)_
-  - Deb Fischer is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Lockheed Martin is documented.
+ - Deb Fischer is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Lockheed Martin is documented.
 - **Northrop Grumman** _(Defense & Intelligence)_
-  - Deb Fischer is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Northrop Grumman is documented.
+ - Deb Fischer is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Northrop Grumman is documented.
 - **Nucor Corporation** _(Defense & Intelligence)_
-  - Deb Fischer is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Nucor Corporation is documented.
+ - Deb Fischer is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Nucor Corporation is documented.
 - **Raytheon (RTX Corporation)** _(Defense & Intelligence)_
-  - Deb Fischer is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Raytheon (RTX Corporation) is documented.
-- _...and 13 more_
+ - Deb Fischer is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Raytheon (RTX Corporation) is documented.
+- _..and 13 more_
 
-## Jerry Moran  _(13 candidates)_
+## Jerry Moran _(13 candidates)_
 
 - **ADM - Archer Daniels Midland** _(Agriculture)_
-  - Jerry Moran is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to ADM - Archer Daniels Midland is documented.
+ - Jerry Moran is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to ADM - Archer Daniels Midland is documented.
 - **Agribusiness Donor Bloc** _(Agriculture)_
-  - Jerry Moran is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Agribusiness Donor Bloc is documented.
+ - Jerry Moran is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Agribusiness Donor Bloc is documented.
 - **Agricultural Labor Vulnerability Donors** _(Agriculture)_
-  - Jerry Moran is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Agricultural Labor Vulnerability Donors is documented.
+ - Jerry Moran is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Agricultural Labor Vulnerability Donors is documented.
 - **American Farm Bureau Federation** _(Agriculture)_
-  - Jerry Moran is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to American Farm Bureau Federation is documented.
+ - Jerry Moran is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to American Farm Bureau Federation is documented.
 - **CA Farm Bureau Federation** _(Agriculture)_
-  - Jerry Moran is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to CA Farm Bureau Federation is documented.
+ - Jerry Moran is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to CA Farm Bureau Federation is documented.
 - **California Farm Bureau Federation** _(Agriculture)_
-  - Jerry Moran is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to California Farm Bureau Federation is documented.
+ - Jerry Moran is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to California Farm Bureau Federation is documented.
 - **Cargill** _(Agriculture)_
-  - Jerry Moran is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Cargill is documented.
+ - Jerry Moran is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Cargill is documented.
 - **Fanjul Family - Florida Crystals** _(Agriculture)_
-  - Jerry Moran is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Fanjul Family - Florida Crystals is documented.
+ - Jerry Moran is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Fanjul Family - Florida Crystals is documented.
 - **John Deere** _(Agriculture)_
-  - Jerry Moran is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to John Deere is documented.
+ - Jerry Moran is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to John Deere is documented.
 - **Monsanto - Bayer** _(Agriculture)_
-  - Jerry Moran is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Monsanto - Bayer is documented.
+ - Jerry Moran is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Monsanto - Bayer is documented.
 - **National Cattlemen's Beef Association** _(Agriculture)_
-  - Jerry Moran is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to National Cattlemen's Beef Association is documented.
+ - Jerry Moran is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to National Cattlemen's Beef Association is documented.
 - **Tyson Foods** _(Agriculture)_
-  - Jerry Moran is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Tyson Foods is documented.
+ - Jerry Moran is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Tyson Foods is documented.
 - **Western Growers Association** _(Agriculture)_
-  - Jerry Moran is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Western Growers Association is documented.
+ - Jerry Moran is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Western Growers Association is documented.
 
-## Jim Inhofe  _(18 candidates)_
+## Jim Inhofe _(18 candidates)_
 
 - **American Iron and Steel Institute** _(Defense & Intelligence)_
-  - Jim Inhofe is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to American Iron and Steel Institute is documented.
+ - Jim Inhofe is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to American Iron and Steel Institute is documented.
 - **Anduril Industries** _(Defense & Intelligence)_
-  - Jim Inhofe is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Anduril Industries is documented.
+ - Jim Inhofe is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Anduril Industries is documented.
 - **BAE Systems** _(Defense & Intelligence)_
-  - Jim Inhofe is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to BAE Systems is documented.
+ - Jim Inhofe is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to BAE Systems is documented.
 - **Bechtel Corporation** _(Defense & Intelligence)_
-  - Jim Inhofe is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Bechtel Corporation is documented.
+ - Jim Inhofe is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Bechtel Corporation is documented.
 - **Boeing Defense** _(Defense & Intelligence)_
-  - Jim Inhofe is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Boeing Defense is documented.
+ - Jim Inhofe is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Boeing Defense is documented.
 - **Boeing** _(Defense & Intelligence)_
-  - Jim Inhofe is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Boeing is documented.
+ - Jim Inhofe is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Boeing is documented.
 - **Booz Allen Hamilton** _(Defense & Intelligence)_
-  - Jim Inhofe is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Booz Allen Hamilton is documented.
+ - Jim Inhofe is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Booz Allen Hamilton is documented.
 - **Defense Contractors Bloc** _(Defense & Intelligence)_
-  - Jim Inhofe is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Contractors Bloc is documented.
+ - Jim Inhofe is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Contractors Bloc is documented.
 - **Defense Contractors** _(Defense & Intelligence)_
-  - Jim Inhofe is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Contractors is documented.
+ - Jim Inhofe is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Contractors is documented.
 - **Defense Industry Bloc** _(Defense & Intelligence)_
-  - Jim Inhofe is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Industry Bloc is documented.
+ - Jim Inhofe is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Industry Bloc is documented.
 - **Defense Industry** _(Defense & Intelligence)_
-  - Jim Inhofe is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Industry is documented.
+ - Jim Inhofe is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Industry is documented.
 - **General Dynamics** _(Defense & Intelligence)_
-  - Jim Inhofe is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to General Dynamics is documented.
+ - Jim Inhofe is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to General Dynamics is documented.
 - **Honeywell International** _(Defense & Intelligence)_
-  - Jim Inhofe is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Honeywell International is documented.
+ - Jim Inhofe is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Honeywell International is documented.
 - **L3 Technologies** _(Defense & Intelligence)_
-  - Jim Inhofe is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to L3 Technologies is documented.
+ - Jim Inhofe is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to L3 Technologies is documented.
 - **L3Harris Technologies** _(Defense & Intelligence)_
-  - Jim Inhofe is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to L3Harris Technologies is documented.
+ - Jim Inhofe is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to L3Harris Technologies is documented.
 - **Leidos** _(Defense & Intelligence)_
-  - Jim Inhofe is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Leidos is documented.
+ - Jim Inhofe is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Leidos is documented.
 - **Nucor Corporation** _(Defense & Intelligence)_
-  - Jim Inhofe is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Nucor Corporation is documented.
+ - Jim Inhofe is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Nucor Corporation is documented.
 - **Raytheon (RTX Corporation)** _(Defense & Intelligence)_
-  - Jim Inhofe is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Raytheon (RTX Corporation) is documented.
+ - Jim Inhofe is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Raytheon (RTX Corporation) is documented.
 
-## Jim Risch  _(30 candidates)_
+## Jim Risch _(30 candidates)_
 
 - **American Friends of the Likud** _(Israel Lobby)_
-  - Jim Risch is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to American Friends of the Likud is documented.
+ - Jim Risch is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to American Friends of the Likud is documented.
 - **Christians United for Israel** _(Israel Lobby)_
-  - Jim Risch is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Christians United for Israel is documented.
+ - Jim Risch is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Christians United for Israel is documented.
 - **Haim Saban** _(Israel Lobby)_
-  - Jim Risch is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Haim Saban is documented.
+ - Jim Risch is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Haim Saban is documented.
 - **J Street** _(Israel Lobby)_
-  - Jim Risch is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to J Street is documented.
+ - Jim Risch is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to J Street is documented.
 - **JCRC Bay Area** _(Israel Lobby)_
-  - Jim Risch is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to JCRC Bay Area is documented.
+ - Jim Risch is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to JCRC Bay Area is documented.
 - **Jewish Democratic Council of America** _(Israel Lobby)_
-  - Jim Risch is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Jewish Democratic Council of America is documented.
+ - Jim Risch is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Jewish Democratic Council of America is documented.
 - **JPAC - Jewish Public Affairs Committee of California** _(Israel Lobby)_
-  - Jim Risch is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to JPAC - Jewish Public Affairs Committee of California is documented.
+ - Jim Risch is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to JPAC - Jewish Public Affairs Committee of California is documented.
 - **Mark Mellman** _(Israel Lobby)_
-  - Jim Risch is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Mark Mellman is documented.
+ - Jim Risch is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Mark Mellman is documented.
 - **One Israel Fund** _(Israel Lobby)_
-  - Jim Risch is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to One Israel Fund is documented.
+ - Jim Risch is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to One Israel Fund is documented.
 - **Republican Jewish Coalition** _(Israel Lobby)_
-  - Jim Risch is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Republican Jewish Coalition is documented.
+ - Jim Risch is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Republican Jewish Coalition is documented.
 - **American Iron and Steel Institute** _(Defense & Intelligence)_
-  - Jim Risch is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to American Iron and Steel Institute is documented.
+ - Jim Risch is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to American Iron and Steel Institute is documented.
 - **Anduril Industries** _(Defense & Intelligence)_
-  - Jim Risch is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Anduril Industries is documented.
+ - Jim Risch is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Anduril Industries is documented.
 - **BAE Systems** _(Defense & Intelligence)_
-  - Jim Risch is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to BAE Systems is documented.
+ - Jim Risch is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to BAE Systems is documented.
 - **Bechtel Corporation** _(Defense & Intelligence)_
-  - Jim Risch is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Bechtel Corporation is documented.
+ - Jim Risch is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Bechtel Corporation is documented.
 - **Boeing Defense** _(Defense & Intelligence)_
-  - Jim Risch is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Boeing Defense is documented.
+ - Jim Risch is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Boeing Defense is documented.
 - **Boeing** _(Defense & Intelligence)_
-  - Jim Risch is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Boeing is documented.
+ - Jim Risch is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Boeing is documented.
 - **Booz Allen Hamilton** _(Defense & Intelligence)_
-  - Jim Risch is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Booz Allen Hamilton is documented.
+ - Jim Risch is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Booz Allen Hamilton is documented.
 - **Defense Contractors Bloc** _(Defense & Intelligence)_
-  - Jim Risch is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Defense Contractors Bloc is documented.
+ - Jim Risch is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Defense Contractors Bloc is documented.
 - **Defense Contractors** _(Defense & Intelligence)_
-  - Jim Risch is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Defense Contractors is documented.
+ - Jim Risch is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Defense Contractors is documented.
 - **Defense Industry Bloc** _(Defense & Intelligence)_
-  - Jim Risch is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Defense Industry Bloc is documented.
-- _...and 10 more_
+ - Jim Risch is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Defense Industry Bloc is documented.
+- _..and 10 more_
 
-## John Boozman  _(12 candidates)_
+## John Boozman _(12 candidates)_
 
 - **ADM - Archer Daniels Midland** _(Agriculture)_
-  - John Boozman is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to ADM - Archer Daniels Midland is documented.
+ - John Boozman is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to ADM - Archer Daniels Midland is documented.
 - **Agribusiness Donor Bloc** _(Agriculture)_
-  - John Boozman is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Agribusiness Donor Bloc is documented.
+ - John Boozman is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Agribusiness Donor Bloc is documented.
 - **Agricultural Labor Vulnerability Donors** _(Agriculture)_
-  - John Boozman is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Agricultural Labor Vulnerability Donors is documented.
+ - John Boozman is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Agricultural Labor Vulnerability Donors is documented.
 - **American Farm Bureau Federation** _(Agriculture)_
-  - John Boozman is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to American Farm Bureau Federation is documented.
+ - John Boozman is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to American Farm Bureau Federation is documented.
 - **CA Farm Bureau Federation** _(Agriculture)_
-  - John Boozman is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to CA Farm Bureau Federation is documented.
+ - John Boozman is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to CA Farm Bureau Federation is documented.
 - **California Farm Bureau Federation** _(Agriculture)_
-  - John Boozman is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to California Farm Bureau Federation is documented.
+ - John Boozman is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to California Farm Bureau Federation is documented.
 - **Cargill** _(Agriculture)_
-  - John Boozman is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Cargill is documented.
+ - John Boozman is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Cargill is documented.
 - **Fanjul Family - Florida Crystals** _(Agriculture)_
-  - John Boozman is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Fanjul Family - Florida Crystals is documented.
+ - John Boozman is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Fanjul Family - Florida Crystals is documented.
 - **John Deere** _(Agriculture)_
-  - John Boozman is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to John Deere is documented.
+ - John Boozman is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to John Deere is documented.
 - **Monsanto - Bayer** _(Agriculture)_
-  - John Boozman is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Monsanto - Bayer is documented.
+ - John Boozman is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Monsanto - Bayer is documented.
 - **National Cattlemen's Beef Association** _(Agriculture)_
-  - John Boozman is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to National Cattlemen's Beef Association is documented.
+ - John Boozman is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to National Cattlemen's Beef Association is documented.
 - **Western Growers Association** _(Agriculture)_
-  - John Boozman is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Western Growers Association is documented.
+ - John Boozman is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Western Growers Association is documented.
 
-## John Cornyn  _(90 candidates)_
+## John Cornyn _(90 candidates)_
 
 - **ActBlue** _(Dark Money)_
-  - John Cornyn is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ActBlue is documented.
+ - John Cornyn is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ActBlue is documented.
 - **ALEC - American Legislative Exchange Council** _(Dark Money)_
-  - John Cornyn is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ALEC - American Legislative Exchange Council is documented.
+ - John Cornyn is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ALEC - American Legislative Exchange Council is documented.
 - **Alliance Defending Freedom** _(Dark Money)_
-  - John Cornyn is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Alliance Defending Freedom is documented.
+ - John Cornyn is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Alliance Defending Freedom is documented.
 - **America First Policy Institute** _(Dark Money)_
-  - John Cornyn is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America First Policy Institute is documented.
+ - John Cornyn is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America First Policy Institute is documented.
 - **America Votes** _(Dark Money)_
-  - John Cornyn is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America Votes is documented.
+ - John Cornyn is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America Votes is documented.
 - **American Action Network** _(Dark Money)_
-  - John Cornyn is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Action Network is documented.
+ - John Cornyn is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Action Network is documented.
 - **American Enterprise Institute** _(Dark Money)_
-  - John Cornyn is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Enterprise Institute is documented.
+ - John Cornyn is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Enterprise Institute is documented.
 - **Americans for Tax Reform - Grover Norquist** _(Dark Money)_
-  - John Cornyn is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Americans for Tax Reform - Grover Norquist is documented.
+ - John Cornyn is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Americans for Tax Reform - Grover Norquist is documented.
 - **Arabella Advisors** _(Dark Money)_
-  - John Cornyn is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Arabella Advisors is documented.
+ - John Cornyn is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Arabella Advisors is documented.
 - **Ballard Partners** _(Dark Money)_
-  - John Cornyn is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Ballard Partners is documented.
+ - John Cornyn is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Ballard Partners is documented.
 - **Bradley Foundation** _(Dark Money)_
-  - John Cornyn is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Bradley Foundation is documented.
+ - John Cornyn is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Bradley Foundation is documented.
 - **Bradley Impact Fund** _(Dark Money)_
-  - John Cornyn is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Bradley Impact Fund is documented.
+ - John Cornyn is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Bradley Impact Fund is documented.
 - **Brady Campaign** _(Dark Money)_
-  - John Cornyn is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Brady Campaign is documented.
+ - John Cornyn is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Brady Campaign is documented.
 - **Business Council of Alabama** _(Dark Money)_
-  - John Cornyn is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Business Council of Alabama is documented.
+ - John Cornyn is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Business Council of Alabama is documented.
 - **Business Roundtable** _(Dark Money)_
-  - John Cornyn is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Business Roundtable is documented.
+ - John Cornyn is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Business Roundtable is documented.
 - **Center for American Progress** _(Dark Money)_
-  - John Cornyn is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Center for American Progress is documented.
+ - John Cornyn is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Center for American Progress is documented.
 - **Concerned Veterans for America** _(Dark Money)_
-  - John Cornyn is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Concerned Veterans for America is documented.
+ - John Cornyn is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Concerned Veterans for America is documented.
 - **Conservative Partnership Institute** _(Dark Money)_
-  - John Cornyn is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Conservative Partnership Institute is documented.
+ - John Cornyn is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Conservative Partnership Institute is documented.
 - **Council for National Policy** _(Dark Money)_
-  - John Cornyn is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Council for National Policy is documented.
+ - John Cornyn is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Council for National Policy is documented.
 - **CREW - Citizens for Responsibility and Ethics in Washington** _(Dark Money)_
-  - John Cornyn is on a committee matching /judiciary/ which regulates Dark Money, but no connection to CREW - Citizens for Responsibility and Ethics in Washington is documented.
-- _...and 70 more_
+ - John Cornyn is on a committee matching /judiciary/ which regulates Dark Money, but no connection to CREW - Citizens for Responsibility and Ethics in Washington is documented.
+- _..and 70 more_
 
-## John Hoeven  _(13 candidates)_
+## John Hoeven _(13 candidates)_
 
 - **ADM - Archer Daniels Midland** _(Agriculture)_
-  - John Hoeven is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to ADM - Archer Daniels Midland is documented.
+ - John Hoeven is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to ADM - Archer Daniels Midland is documented.
 - **Agribusiness Donor Bloc** _(Agriculture)_
-  - John Hoeven is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Agribusiness Donor Bloc is documented.
+ - John Hoeven is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Agribusiness Donor Bloc is documented.
 - **Agricultural Labor Vulnerability Donors** _(Agriculture)_
-  - John Hoeven is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Agricultural Labor Vulnerability Donors is documented.
+ - John Hoeven is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Agricultural Labor Vulnerability Donors is documented.
 - **American Farm Bureau Federation** _(Agriculture)_
-  - John Hoeven is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to American Farm Bureau Federation is documented.
+ - John Hoeven is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to American Farm Bureau Federation is documented.
 - **CA Farm Bureau Federation** _(Agriculture)_
-  - John Hoeven is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to CA Farm Bureau Federation is documented.
+ - John Hoeven is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to CA Farm Bureau Federation is documented.
 - **California Farm Bureau Federation** _(Agriculture)_
-  - John Hoeven is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to California Farm Bureau Federation is documented.
+ - John Hoeven is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to California Farm Bureau Federation is documented.
 - **Cargill** _(Agriculture)_
-  - John Hoeven is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Cargill is documented.
+ - John Hoeven is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Cargill is documented.
 - **Fanjul Family - Florida Crystals** _(Agriculture)_
-  - John Hoeven is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Fanjul Family - Florida Crystals is documented.
+ - John Hoeven is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Fanjul Family - Florida Crystals is documented.
 - **John Deere** _(Agriculture)_
-  - John Hoeven is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to John Deere is documented.
+ - John Hoeven is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to John Deere is documented.
 - **Monsanto - Bayer** _(Agriculture)_
-  - John Hoeven is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Monsanto - Bayer is documented.
+ - John Hoeven is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Monsanto - Bayer is documented.
 - **National Cattlemen's Beef Association** _(Agriculture)_
-  - John Hoeven is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to National Cattlemen's Beef Association is documented.
+ - John Hoeven is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to National Cattlemen's Beef Association is documented.
 - **Tyson Foods** _(Agriculture)_
-  - John Hoeven is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Tyson Foods is documented.
+ - John Hoeven is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Tyson Foods is documented.
 - **Western Growers Association** _(Agriculture)_
-  - John Hoeven is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Western Growers Association is documented.
+ - John Hoeven is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Western Growers Association is documented.
 
-## John Kennedy Master Profile  _(90 candidates)_
+## John Kennedy Master Profile _(90 candidates)_
 
 - **Apollo Global Management** _(Wall Street)_
-  - John Kennedy Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Apollo Global Management is documented.
+ - John Kennedy Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Apollo Global Management is documented.
 - **Bank of America** _(Wall Street)_
-  - John Kennedy Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Bank of America is documented.
+ - John Kennedy Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Bank of America is documented.
 - **BlackRock** _(Wall Street)_
-  - John Kennedy Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to BlackRock is documented.
+ - John Kennedy Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to BlackRock is documented.
 - **Blackstone Group** _(Wall Street)_
-  - John Kennedy Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Blackstone Group is documented.
+ - John Kennedy Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Blackstone Group is documented.
 - **Blackstone Real Estate Political Operation** _(Wall Street)_
-  - John Kennedy Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Blackstone Real Estate Political Operation is documented.
+ - John Kennedy Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Blackstone Real Estate Political Operation is documented.
 - **CalPERS** _(Wall Street)_
-  - John Kennedy Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to CalPERS is documented.
+ - John Kennedy Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to CalPERS is documented.
 - **CalSTRS - California State Teachers' Retirement System** _(Wall Street)_
-  - John Kennedy Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to CalSTRS - California State Teachers' Retirement System is documented.
+ - John Kennedy Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to CalSTRS - California State Teachers' Retirement System is documented.
 - **Carlyle Group** _(Wall Street)_
-  - John Kennedy Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Carlyle Group is documented.
+ - John Kennedy Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Carlyle Group is documented.
 - **Charles Schwab** _(Wall Street)_
-  - John Kennedy Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Charles Schwab is documented.
+ - John Kennedy Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Charles Schwab is documented.
 - **Citadel - Kenneth Griffin** _(Wall Street)_
-  - John Kennedy Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Citadel - Kenneth Griffin is documented.
+ - John Kennedy Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Citadel - Kenneth Griffin is documented.
 - **Citigroup** _(Wall Street)_
-  - John Kennedy Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Citigroup is documented.
+ - John Kennedy Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Citigroup is documented.
 - **Elliott Management** _(Wall Street)_
-  - John Kennedy Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Elliott Management is documented.
+ - John Kennedy Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Elliott Management is documented.
 - **Fidelity Investments** _(Wall Street)_
-  - John Kennedy Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Fidelity Investments is documented.
+ - John Kennedy Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Fidelity Investments is documented.
 - **Financial Services Donors** _(Wall Street)_
-  - John Kennedy Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Financial Services Donors is documented.
+ - John Kennedy Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Financial Services Donors is documented.
 - **Goldman Sachs** _(Wall Street)_
-  - John Kennedy Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Goldman Sachs is documented.
+ - John Kennedy Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Goldman Sachs is documented.
 - **Hedge Fund Industry Bloc** _(Wall Street)_
-  - John Kennedy Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Hedge Fund Industry Bloc is documented.
+ - John Kennedy Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Hedge Fund Industry Bloc is documented.
 - **JPMorgan Chase** _(Wall Street)_
-  - John Kennedy Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to JPMorgan Chase is documented.
+ - John Kennedy Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to JPMorgan Chase is documented.
 - **Lawrence Summers** _(Wall Street)_
-  - John Kennedy Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Lawrence Summers is documented.
+ - John Kennedy Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to Lawrence Summers is documented.
 - **MassMutual** _(Wall Street)_
-  - John Kennedy Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to MassMutual is documented.
+ - John Kennedy Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to MassMutual is documented.
 - **MBNA Corporation** _(Wall Street)_
-  - John Kennedy Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to MBNA Corporation is documented.
-- _...and 70 more_
+ - John Kennedy Master Profile is on a committee matching /banking|financial services/ which regulates Wall Street, but no connection to MBNA Corporation is documented.
+- _..and 70 more_
 
-## Joni Ernst Master Profile  _(12 candidates)_
+## Joni Ernst Master Profile _(12 candidates)_
 
 - **ADM - Archer Daniels Midland** _(Agriculture)_
-  - Joni Ernst Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to ADM - Archer Daniels Midland is documented.
+ - Joni Ernst Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to ADM - Archer Daniels Midland is documented.
 - **Agricultural Labor Vulnerability Donors** _(Agriculture)_
-  - Joni Ernst Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Agricultural Labor Vulnerability Donors is documented.
+ - Joni Ernst Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Agricultural Labor Vulnerability Donors is documented.
 - **American Farm Bureau Federation** _(Agriculture)_
-  - Joni Ernst Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to American Farm Bureau Federation is documented.
+ - Joni Ernst Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to American Farm Bureau Federation is documented.
 - **CA Farm Bureau Federation** _(Agriculture)_
-  - Joni Ernst Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to CA Farm Bureau Federation is documented.
+ - Joni Ernst Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to CA Farm Bureau Federation is documented.
 - **California Farm Bureau Federation** _(Agriculture)_
-  - Joni Ernst Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to California Farm Bureau Federation is documented.
+ - Joni Ernst Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to California Farm Bureau Federation is documented.
 - **Cargill** _(Agriculture)_
-  - Joni Ernst Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Cargill is documented.
+ - Joni Ernst Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Cargill is documented.
 - **Fanjul Family - Florida Crystals** _(Agriculture)_
-  - Joni Ernst Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Fanjul Family - Florida Crystals is documented.
+ - Joni Ernst Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Fanjul Family - Florida Crystals is documented.
 - **John Deere** _(Agriculture)_
-  - Joni Ernst Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to John Deere is documented.
+ - Joni Ernst Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to John Deere is documented.
 - **Monsanto - Bayer** _(Agriculture)_
-  - Joni Ernst Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Monsanto - Bayer is documented.
+ - Joni Ernst Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Monsanto - Bayer is documented.
 - **National Cattlemen's Beef Association** _(Agriculture)_
-  - Joni Ernst Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to National Cattlemen's Beef Association is documented.
+ - Joni Ernst Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to National Cattlemen's Beef Association is documented.
 - **Tyson Foods** _(Agriculture)_
-  - Joni Ernst Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Tyson Foods is documented.
+ - Joni Ernst Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Tyson Foods is documented.
 - **Western Growers Association** _(Agriculture)_
-  - Joni Ernst Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Western Growers Association is documented.
+ - Joni Ernst Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Western Growers Association is documented.
 
-## Markwayne Mullin  _(18 candidates)_
+## Markwayne Mullin _(18 candidates)_
 
 - **American Iron and Steel Institute** _(Defense & Intelligence)_
-  - Markwayne Mullin is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to American Iron and Steel Institute is documented.
+ - Markwayne Mullin is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to American Iron and Steel Institute is documented.
 - **Anduril Industries** _(Defense & Intelligence)_
-  - Markwayne Mullin is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Anduril Industries is documented.
+ - Markwayne Mullin is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Anduril Industries is documented.
 - **BAE Systems** _(Defense & Intelligence)_
-  - Markwayne Mullin is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to BAE Systems is documented.
+ - Markwayne Mullin is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to BAE Systems is documented.
 - **Bechtel Corporation** _(Defense & Intelligence)_
-  - Markwayne Mullin is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Bechtel Corporation is documented.
+ - Markwayne Mullin is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Bechtel Corporation is documented.
 - **Boeing Defense** _(Defense & Intelligence)_
-  - Markwayne Mullin is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Boeing Defense is documented.
+ - Markwayne Mullin is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Boeing Defense is documented.
 - **Boeing** _(Defense & Intelligence)_
-  - Markwayne Mullin is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Boeing is documented.
+ - Markwayne Mullin is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Boeing is documented.
 - **Booz Allen Hamilton** _(Defense & Intelligence)_
-  - Markwayne Mullin is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Booz Allen Hamilton is documented.
+ - Markwayne Mullin is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Booz Allen Hamilton is documented.
 - **Defense Contractors Bloc** _(Defense & Intelligence)_
-  - Markwayne Mullin is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Contractors Bloc is documented.
+ - Markwayne Mullin is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Contractors Bloc is documented.
 - **Defense Contractors** _(Defense & Intelligence)_
-  - Markwayne Mullin is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Contractors is documented.
+ - Markwayne Mullin is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Contractors is documented.
 - **Defense Industry Bloc** _(Defense & Intelligence)_
-  - Markwayne Mullin is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Industry Bloc is documented.
+ - Markwayne Mullin is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Industry Bloc is documented.
 - **Defense Industry** _(Defense & Intelligence)_
-  - Markwayne Mullin is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Industry is documented.
+ - Markwayne Mullin is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Industry is documented.
 - **General Dynamics** _(Defense & Intelligence)_
-  - Markwayne Mullin is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to General Dynamics is documented.
+ - Markwayne Mullin is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to General Dynamics is documented.
 - **Honeywell International** _(Defense & Intelligence)_
-  - Markwayne Mullin is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Honeywell International is documented.
+ - Markwayne Mullin is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Honeywell International is documented.
 - **L3Harris Technologies** _(Defense & Intelligence)_
-  - Markwayne Mullin is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to L3Harris Technologies is documented.
+ - Markwayne Mullin is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to L3Harris Technologies is documented.
 - **Leidos** _(Defense & Intelligence)_
-  - Markwayne Mullin is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Leidos is documented.
+ - Markwayne Mullin is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Leidos is documented.
 - **Northrop Grumman** _(Defense & Intelligence)_
-  - Markwayne Mullin is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Northrop Grumman is documented.
+ - Markwayne Mullin is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Northrop Grumman is documented.
 - **Nucor Corporation** _(Defense & Intelligence)_
-  - Markwayne Mullin is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Nucor Corporation is documented.
+ - Markwayne Mullin is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Nucor Corporation is documented.
 - **Raytheon (RTX Corporation)** _(Defense & Intelligence)_
-  - Markwayne Mullin is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Raytheon (RTX Corporation) is documented.
+ - Markwayne Mullin is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Raytheon (RTX Corporation) is documented.
 
-## Mike Lee  _(59 candidates)_
+## Mike Lee _(59 candidates)_
 
 - **ActBlue** _(Dark Money)_
-  - Mike Lee is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ActBlue is documented.
+ - Mike Lee is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ActBlue is documented.
 - **ALEC - American Legislative Exchange Council** _(Dark Money)_
-  - Mike Lee is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ALEC - American Legislative Exchange Council is documented.
+ - Mike Lee is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ALEC - American Legislative Exchange Council is documented.
 - **Alliance Defending Freedom** _(Dark Money)_
-  - Mike Lee is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Alliance Defending Freedom is documented.
+ - Mike Lee is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Alliance Defending Freedom is documented.
 - **America First Policy Institute** _(Dark Money)_
-  - Mike Lee is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America First Policy Institute is documented.
+ - Mike Lee is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America First Policy Institute is documented.
 - **America Votes** _(Dark Money)_
-  - Mike Lee is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America Votes is documented.
+ - Mike Lee is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America Votes is documented.
 - **American Action Network** _(Dark Money)_
-  - Mike Lee is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Action Network is documented.
+ - Mike Lee is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Action Network is documented.
 - **American Enterprise Institute** _(Dark Money)_
-  - Mike Lee is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Enterprise Institute is documented.
+ - Mike Lee is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Enterprise Institute is documented.
 - **Americans for Tax Reform - Grover Norquist** _(Dark Money)_
-  - Mike Lee is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Americans for Tax Reform - Grover Norquist is documented.
+ - Mike Lee is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Americans for Tax Reform - Grover Norquist is documented.
 - **Arabella Advisors** _(Dark Money)_
-  - Mike Lee is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Arabella Advisors is documented.
+ - Mike Lee is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Arabella Advisors is documented.
 - **Ballard Partners** _(Dark Money)_
-  - Mike Lee is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Ballard Partners is documented.
+ - Mike Lee is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Ballard Partners is documented.
 - **Bradley Foundation** _(Dark Money)_
-  - Mike Lee is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Bradley Foundation is documented.
+ - Mike Lee is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Bradley Foundation is documented.
 - **Bradley Impact Fund** _(Dark Money)_
-  - Mike Lee is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Bradley Impact Fund is documented.
+ - Mike Lee is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Bradley Impact Fund is documented.
 - **Brady Campaign** _(Dark Money)_
-  - Mike Lee is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Brady Campaign is documented.
+ - Mike Lee is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Brady Campaign is documented.
 - **Business Council of Alabama** _(Dark Money)_
-  - Mike Lee is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Business Council of Alabama is documented.
+ - Mike Lee is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Business Council of Alabama is documented.
 - **Business Roundtable** _(Dark Money)_
-  - Mike Lee is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Business Roundtable is documented.
+ - Mike Lee is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Business Roundtable is documented.
 - **Center for American Progress** _(Dark Money)_
-  - Mike Lee is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Center for American Progress is documented.
+ - Mike Lee is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Center for American Progress is documented.
 - **Concerned Veterans for America** _(Dark Money)_
-  - Mike Lee is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Concerned Veterans for America is documented.
+ - Mike Lee is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Concerned Veterans for America is documented.
 - **Conservative Partnership Institute** _(Dark Money)_
-  - Mike Lee is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Conservative Partnership Institute is documented.
+ - Mike Lee is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Conservative Partnership Institute is documented.
 - **Council for National Policy** _(Dark Money)_
-  - Mike Lee is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Council for National Policy is documented.
+ - Mike Lee is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Council for National Policy is documented.
 - **CREW - Citizens for Responsibility and Ethics in Washington** _(Dark Money)_
-  - Mike Lee is on a committee matching /judiciary/ which regulates Dark Money, but no connection to CREW - Citizens for Responsibility and Ethics in Washington is documented.
-- _...and 39 more_
+ - Mike Lee is on a committee matching /judiciary/ which regulates Dark Money, but no connection to CREW - Citizens for Responsibility and Ethics in Washington is documented.
+- _..and 39 more_
 
-## Rick Scott Master Profile  _(52 candidates)_
+## Rick Scott Master Profile _(52 candidates)_
 
 - **American Iron and Steel Institute** _(Defense & Intelligence)_
-  - Rick Scott Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to American Iron and Steel Institute is documented.
+ - Rick Scott Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to American Iron and Steel Institute is documented.
 - **Anduril Industries** _(Defense & Intelligence)_
-  - Rick Scott Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Anduril Industries is documented.
+ - Rick Scott Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Anduril Industries is documented.
 - **BAE Systems** _(Defense & Intelligence)_
-  - Rick Scott Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to BAE Systems is documented.
+ - Rick Scott Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to BAE Systems is documented.
 - **Bechtel Corporation** _(Defense & Intelligence)_
-  - Rick Scott Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Bechtel Corporation is documented.
+ - Rick Scott Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Bechtel Corporation is documented.
 - **Boeing Defense** _(Defense & Intelligence)_
-  - Rick Scott Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Boeing Defense is documented.
+ - Rick Scott Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Boeing Defense is documented.
 - **Boeing** _(Defense & Intelligence)_
-  - Rick Scott Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Boeing is documented.
+ - Rick Scott Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Boeing is documented.
 - **Booz Allen Hamilton** _(Defense & Intelligence)_
-  - Rick Scott Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Booz Allen Hamilton is documented.
+ - Rick Scott Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Booz Allen Hamilton is documented.
 - **Defense Contractors Bloc** _(Defense & Intelligence)_
-  - Rick Scott Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Contractors Bloc is documented.
+ - Rick Scott Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Contractors Bloc is documented.
 - **Defense Contractors** _(Defense & Intelligence)_
-  - Rick Scott Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Contractors is documented.
+ - Rick Scott Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Contractors is documented.
 - **Defense Industry Bloc** _(Defense & Intelligence)_
-  - Rick Scott Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Industry Bloc is documented.
+ - Rick Scott Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Industry Bloc is documented.
 - **Defense Industry** _(Defense & Intelligence)_
-  - Rick Scott Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Industry is documented.
+ - Rick Scott Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Industry is documented.
 - **General Dynamics** _(Defense & Intelligence)_
-  - Rick Scott Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to General Dynamics is documented.
+ - Rick Scott Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to General Dynamics is documented.
 - **Honeywell International** _(Defense & Intelligence)_
-  - Rick Scott Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Honeywell International is documented.
+ - Rick Scott Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Honeywell International is documented.
 - **L3 Technologies** _(Defense & Intelligence)_
-  - Rick Scott Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to L3 Technologies is documented.
+ - Rick Scott Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to L3 Technologies is documented.
 - **L3Harris Technologies** _(Defense & Intelligence)_
-  - Rick Scott Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to L3Harris Technologies is documented.
+ - Rick Scott Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to L3Harris Technologies is documented.
 - **Leidos** _(Defense & Intelligence)_
-  - Rick Scott Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Leidos is documented.
+ - Rick Scott Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Leidos is documented.
 - **Lockheed Martin** _(Defense & Intelligence)_
-  - Rick Scott Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Lockheed Martin is documented.
+ - Rick Scott Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Lockheed Martin is documented.
 - **Northrop Grumman** _(Defense & Intelligence)_
-  - Rick Scott Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Northrop Grumman is documented.
+ - Rick Scott Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Northrop Grumman is documented.
 - **Nucor Corporation** _(Defense & Intelligence)_
-  - Rick Scott Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Nucor Corporation is documented.
+ - Rick Scott Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Nucor Corporation is documented.
 - **Raytheon (RTX Corporation)** _(Defense & Intelligence)_
-  - Rick Scott Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Raytheon (RTX Corporation) is documented.
-- _...and 32 more_
+ - Rick Scott Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Raytheon (RTX Corporation) is documented.
+- _..and 32 more_
 
-## Roger Marshall  _(13 candidates)_
+## Roger Marshall _(13 candidates)_
 
 - **ADM - Archer Daniels Midland** _(Agriculture)_
-  - Roger Marshall is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to ADM - Archer Daniels Midland is documented.
+ - Roger Marshall is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to ADM - Archer Daniels Midland is documented.
 - **Agribusiness Donor Bloc** _(Agriculture)_
-  - Roger Marshall is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Agribusiness Donor Bloc is documented.
+ - Roger Marshall is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Agribusiness Donor Bloc is documented.
 - **Agricultural Labor Vulnerability Donors** _(Agriculture)_
-  - Roger Marshall is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Agricultural Labor Vulnerability Donors is documented.
+ - Roger Marshall is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Agricultural Labor Vulnerability Donors is documented.
 - **American Farm Bureau Federation** _(Agriculture)_
-  - Roger Marshall is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to American Farm Bureau Federation is documented.
+ - Roger Marshall is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to American Farm Bureau Federation is documented.
 - **CA Farm Bureau Federation** _(Agriculture)_
-  - Roger Marshall is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to CA Farm Bureau Federation is documented.
+ - Roger Marshall is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to CA Farm Bureau Federation is documented.
 - **California Farm Bureau Federation** _(Agriculture)_
-  - Roger Marshall is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to California Farm Bureau Federation is documented.
+ - Roger Marshall is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to California Farm Bureau Federation is documented.
 - **Cargill** _(Agriculture)_
-  - Roger Marshall is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Cargill is documented.
+ - Roger Marshall is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Cargill is documented.
 - **Fanjul Family - Florida Crystals** _(Agriculture)_
-  - Roger Marshall is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Fanjul Family - Florida Crystals is documented.
+ - Roger Marshall is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Fanjul Family - Florida Crystals is documented.
 - **John Deere** _(Agriculture)_
-  - Roger Marshall is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to John Deere is documented.
+ - Roger Marshall is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to John Deere is documented.
 - **Monsanto - Bayer** _(Agriculture)_
-  - Roger Marshall is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Monsanto - Bayer is documented.
+ - Roger Marshall is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Monsanto - Bayer is documented.
 - **National Cattlemen's Beef Association** _(Agriculture)_
-  - Roger Marshall is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to National Cattlemen's Beef Association is documented.
+ - Roger Marshall is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to National Cattlemen's Beef Association is documented.
 - **Tyson Foods** _(Agriculture)_
-  - Roger Marshall is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Tyson Foods is documented.
+ - Roger Marshall is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Tyson Foods is documented.
 - **Western Growers Association** _(Agriculture)_
-  - Roger Marshall is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Western Growers Association is documented.
+ - Roger Marshall is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to Western Growers Association is documented.
 
-## Roger Wicker  _(16 candidates)_
+## Roger Wicker _(16 candidates)_
 
 - **American Iron and Steel Institute** _(Defense & Intelligence)_
-  - Roger Wicker is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to American Iron and Steel Institute is documented.
+ - Roger Wicker is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to American Iron and Steel Institute is documented.
 - **Anduril Industries** _(Defense & Intelligence)_
-  - Roger Wicker is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Anduril Industries is documented.
+ - Roger Wicker is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Anduril Industries is documented.
 - **BAE Systems** _(Defense & Intelligence)_
-  - Roger Wicker is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to BAE Systems is documented.
+ - Roger Wicker is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to BAE Systems is documented.
 - **Bechtel Corporation** _(Defense & Intelligence)_
-  - Roger Wicker is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Bechtel Corporation is documented.
+ - Roger Wicker is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Bechtel Corporation is documented.
 - **Boeing Defense** _(Defense & Intelligence)_
-  - Roger Wicker is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Boeing Defense is documented.
+ - Roger Wicker is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Boeing Defense is documented.
 - **Boeing** _(Defense & Intelligence)_
-  - Roger Wicker is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Boeing is documented.
+ - Roger Wicker is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Boeing is documented.
 - **Booz Allen Hamilton** _(Defense & Intelligence)_
-  - Roger Wicker is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Booz Allen Hamilton is documented.
+ - Roger Wicker is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Booz Allen Hamilton is documented.
 - **Defense Contractors Bloc** _(Defense & Intelligence)_
-  - Roger Wicker is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Contractors Bloc is documented.
+ - Roger Wicker is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Contractors Bloc is documented.
 - **Defense Contractors** _(Defense & Intelligence)_
-  - Roger Wicker is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Contractors is documented.
+ - Roger Wicker is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Contractors is documented.
 - **Defense Industry Bloc** _(Defense & Intelligence)_
-  - Roger Wicker is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Industry Bloc is documented.
+ - Roger Wicker is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Industry Bloc is documented.
 - **Defense Industry** _(Defense & Intelligence)_
-  - Roger Wicker is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Industry is documented.
+ - Roger Wicker is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Industry is documented.
 - **Honeywell International** _(Defense & Intelligence)_
-  - Roger Wicker is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Honeywell International is documented.
+ - Roger Wicker is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Honeywell International is documented.
 - **L3 Technologies** _(Defense & Intelligence)_
-  - Roger Wicker is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to L3 Technologies is documented.
+ - Roger Wicker is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to L3 Technologies is documented.
 - **L3Harris Technologies** _(Defense & Intelligence)_
-  - Roger Wicker is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to L3Harris Technologies is documented.
+ - Roger Wicker is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to L3Harris Technologies is documented.
 - **Leidos** _(Defense & Intelligence)_
-  - Roger Wicker is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Leidos is documented.
+ - Roger Wicker is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Leidos is documented.
 - **Nucor Corporation** _(Defense & Intelligence)_
-  - Roger Wicker is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Nucor Corporation is documented.
+ - Roger Wicker is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Nucor Corporation is documented.
 
-## Ted Cruz Master Profile  _(93 candidates)_
+## Ted Cruz Master Profile _(93 candidates)_
 
 - **Bernie Marcus** _(Retail)_
-  - Ted Cruz Master Profile is on a committee matching /commerce/ which regulates Retail, but no connection to Bernie Marcus is documented.
+ - Ted Cruz Master Profile is on a committee matching /commerce/ which regulates Retail, but no connection to Bernie Marcus is documented.
 - **ActBlue** _(Dark Money)_
-  - Ted Cruz Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ActBlue is documented.
+ - Ted Cruz Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ActBlue is documented.
 - **ALEC - American Legislative Exchange Council** _(Dark Money)_
-  - Ted Cruz Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ALEC - American Legislative Exchange Council is documented.
+ - Ted Cruz Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to ALEC - American Legislative Exchange Council is documented.
 - **Alliance Defending Freedom** _(Dark Money)_
-  - Ted Cruz Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Alliance Defending Freedom is documented.
+ - Ted Cruz Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Alliance Defending Freedom is documented.
 - **America First Policy Institute** _(Dark Money)_
-  - Ted Cruz Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America First Policy Institute is documented.
+ - Ted Cruz Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America First Policy Institute is documented.
 - **America Votes** _(Dark Money)_
-  - Ted Cruz Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America Votes is documented.
+ - Ted Cruz Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to America Votes is documented.
 - **American Action Network** _(Dark Money)_
-  - Ted Cruz Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Action Network is documented.
+ - Ted Cruz Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Action Network is documented.
 - **American Enterprise Institute** _(Dark Money)_
-  - Ted Cruz Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Enterprise Institute is documented.
+ - Ted Cruz Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to American Enterprise Institute is documented.
 - **Americans for Tax Reform - Grover Norquist** _(Dark Money)_
-  - Ted Cruz Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Americans for Tax Reform - Grover Norquist is documented.
+ - Ted Cruz Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Americans for Tax Reform - Grover Norquist is documented.
 - **Arabella Advisors** _(Dark Money)_
-  - Ted Cruz Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Arabella Advisors is documented.
+ - Ted Cruz Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Arabella Advisors is documented.
 - **Ballard Partners** _(Dark Money)_
-  - Ted Cruz Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Ballard Partners is documented.
+ - Ted Cruz Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Ballard Partners is documented.
 - **Bradley Foundation** _(Dark Money)_
-  - Ted Cruz Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Bradley Foundation is documented.
+ - Ted Cruz Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Bradley Foundation is documented.
 - **Bradley Impact Fund** _(Dark Money)_
-  - Ted Cruz Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Bradley Impact Fund is documented.
+ - Ted Cruz Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Bradley Impact Fund is documented.
 - **Brady Campaign** _(Dark Money)_
-  - Ted Cruz Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Brady Campaign is documented.
+ - Ted Cruz Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Brady Campaign is documented.
 - **Business Council of Alabama** _(Dark Money)_
-  - Ted Cruz Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Business Council of Alabama is documented.
+ - Ted Cruz Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Business Council of Alabama is documented.
 - **Business Roundtable** _(Dark Money)_
-  - Ted Cruz Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Business Roundtable is documented.
+ - Ted Cruz Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Business Roundtable is documented.
 - **Center for American Progress** _(Dark Money)_
-  - Ted Cruz Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Center for American Progress is documented.
+ - Ted Cruz Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Center for American Progress is documented.
 - **Concerned Veterans for America** _(Dark Money)_
-  - Ted Cruz Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Concerned Veterans for America is documented.
+ - Ted Cruz Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Concerned Veterans for America is documented.
 - **Conservative Partnership Institute** _(Dark Money)_
-  - Ted Cruz Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Conservative Partnership Institute is documented.
+ - Ted Cruz Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Conservative Partnership Institute is documented.
 - **Council for National Policy** _(Dark Money)_
-  - Ted Cruz Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Council for National Policy is documented.
-- _...and 73 more_
+ - Ted Cruz Master Profile is on a committee matching /judiciary/ which regulates Dark Money, but no connection to Council for National Policy is documented.
+- _..and 73 more_
 
-## Tommy Tuberville Master Profile  _(32 candidates)_
+## Tommy Tuberville Master Profile _(32 candidates)_
 
 - **American Iron and Steel Institute** _(Defense & Intelligence)_
-  - Tommy Tuberville Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to American Iron and Steel Institute is documented.
+ - Tommy Tuberville Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to American Iron and Steel Institute is documented.
 - **Anduril Industries** _(Defense & Intelligence)_
-  - Tommy Tuberville Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Anduril Industries is documented.
+ - Tommy Tuberville Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Anduril Industries is documented.
 - **BAE Systems** _(Defense & Intelligence)_
-  - Tommy Tuberville Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to BAE Systems is documented.
+ - Tommy Tuberville Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to BAE Systems is documented.
 - **Bechtel Corporation** _(Defense & Intelligence)_
-  - Tommy Tuberville Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Bechtel Corporation is documented.
+ - Tommy Tuberville Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Bechtel Corporation is documented.
 - **Boeing Defense** _(Defense & Intelligence)_
-  - Tommy Tuberville Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Boeing Defense is documented.
+ - Tommy Tuberville Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Boeing Defense is documented.
 - **Boeing** _(Defense & Intelligence)_
-  - Tommy Tuberville Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Boeing is documented.
+ - Tommy Tuberville Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Boeing is documented.
 - **Booz Allen Hamilton** _(Defense & Intelligence)_
-  - Tommy Tuberville Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Booz Allen Hamilton is documented.
+ - Tommy Tuberville Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Booz Allen Hamilton is documented.
 - **Defense Contractors Bloc** _(Defense & Intelligence)_
-  - Tommy Tuberville Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Contractors Bloc is documented.
+ - Tommy Tuberville Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Contractors Bloc is documented.
 - **Defense Contractors** _(Defense & Intelligence)_
-  - Tommy Tuberville Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Contractors is documented.
+ - Tommy Tuberville Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Contractors is documented.
 - **Defense Industry** _(Defense & Intelligence)_
-  - Tommy Tuberville Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Industry is documented.
+ - Tommy Tuberville Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Defense Industry is documented.
 - **General Dynamics** _(Defense & Intelligence)_
-  - Tommy Tuberville Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to General Dynamics is documented.
+ - Tommy Tuberville Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to General Dynamics is documented.
 - **Honeywell International** _(Defense & Intelligence)_
-  - Tommy Tuberville Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Honeywell International is documented.
+ - Tommy Tuberville Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Honeywell International is documented.
 - **L3 Technologies** _(Defense & Intelligence)_
-  - Tommy Tuberville Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to L3 Technologies is documented.
+ - Tommy Tuberville Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to L3 Technologies is documented.
 - **L3Harris Technologies** _(Defense & Intelligence)_
-  - Tommy Tuberville Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to L3Harris Technologies is documented.
+ - Tommy Tuberville Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to L3Harris Technologies is documented.
 - **Leidos** _(Defense & Intelligence)_
-  - Tommy Tuberville Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Leidos is documented.
+ - Tommy Tuberville Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Leidos is documented.
 - **Lockheed Martin** _(Defense & Intelligence)_
-  - Tommy Tuberville Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Lockheed Martin is documented.
+ - Tommy Tuberville Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Lockheed Martin is documented.
 - **Northrop Grumman** _(Defense & Intelligence)_
-  - Tommy Tuberville Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Northrop Grumman is documented.
+ - Tommy Tuberville Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Northrop Grumman is documented.
 - **Nucor Corporation** _(Defense & Intelligence)_
-  - Tommy Tuberville Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Nucor Corporation is documented.
+ - Tommy Tuberville Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Nucor Corporation is documented.
 - **Raytheon (RTX Corporation)** _(Defense & Intelligence)_
-  - Tommy Tuberville Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Raytheon (RTX Corporation) is documented.
+ - Tommy Tuberville Master Profile is on a committee matching /armed services|defense/ which regulates Defense & Intelligence, but no connection to Raytheon (RTX Corporation) is documented.
 - **ADM - Archer Daniels Midland** _(Agriculture)_
-  - Tommy Tuberville Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to ADM - Archer Daniels Midland is documented.
-- _...and 12 more_
+ - Tommy Tuberville Master Profile is on a committee matching /agriculture|\bhelp\b/ which regulates Agriculture, but no connection to ADM - Archer Daniels Midland is documented.
+- _..and 12 more_
 
-## Howard Lutnick Master Profile  _(1 candidates)_
+## Howard Lutnick Master Profile _(1 candidates)_
 
 - **Bernie Marcus** _(Retail)_
-  - Howard Lutnick Master Profile is on a committee matching /commerce/ which regulates Retail, but no connection to Bernie Marcus is documented.
+ - Howard Lutnick Master Profile is on a committee matching /commerce/ which regulates Retail, but no connection to Bernie Marcus is documented.
 
-## John Ratcliffe Master Profile  _(30 candidates)_
+## John Ratcliffe Master Profile _(30 candidates)_
 
 - **AIPAC - American Israel Public Affairs Committee** _(Israel Lobby)_
-  - John Ratcliffe Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to AIPAC - American Israel Public Affairs Committee is documented.
+ - John Ratcliffe Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to AIPAC - American Israel Public Affairs Committee is documented.
 - **American Friends of the Likud** _(Israel Lobby)_
-  - John Ratcliffe Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to American Friends of the Likud is documented.
+ - John Ratcliffe Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to American Friends of the Likud is documented.
 - **Christians United for Israel** _(Israel Lobby)_
-  - John Ratcliffe Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Christians United for Israel is documented.
+ - John Ratcliffe Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Christians United for Israel is documented.
 - **Haim Saban** _(Israel Lobby)_
-  - John Ratcliffe Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Haim Saban is documented.
+ - John Ratcliffe Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Haim Saban is documented.
 - **J Street** _(Israel Lobby)_
-  - John Ratcliffe Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to J Street is documented.
+ - John Ratcliffe Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to J Street is documented.
 - **JCRC Bay Area** _(Israel Lobby)_
-  - John Ratcliffe Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to JCRC Bay Area is documented.
+ - John Ratcliffe Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to JCRC Bay Area is documented.
 - **Jewish Democratic Council of America** _(Israel Lobby)_
-  - John Ratcliffe Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Jewish Democratic Council of America is documented.
+ - John Ratcliffe Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Jewish Democratic Council of America is documented.
 - **JPAC - Jewish Public Affairs Committee of California** _(Israel Lobby)_
-  - John Ratcliffe Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to JPAC - Jewish Public Affairs Committee of California is documented.
+ - John Ratcliffe Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to JPAC - Jewish Public Affairs Committee of California is documented.
 - **Mark Mellman** _(Israel Lobby)_
-  - John Ratcliffe Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Mark Mellman is documented.
+ - John Ratcliffe Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Mark Mellman is documented.
 - **NORPAC** _(Israel Lobby)_
-  - John Ratcliffe Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to NORPAC is documented.
+ - John Ratcliffe Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to NORPAC is documented.
 - **One Israel Fund** _(Israel Lobby)_
-  - John Ratcliffe Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to One Israel Fund is documented.
+ - John Ratcliffe Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to One Israel Fund is documented.
 - **Republican Jewish Coalition** _(Israel Lobby)_
-  - John Ratcliffe Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Republican Jewish Coalition is documented.
+ - John Ratcliffe Master Profile is on a committee matching /foreign|intelligence/ which regulates Israel Lobby, but no connection to Republican Jewish Coalition is documented.
 - **American Iron and Steel Institute** _(Defense & Intelligence)_
-  - John Ratcliffe Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to American Iron and Steel Institute is documented.
+ - John Ratcliffe Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to American Iron and Steel Institute is documented.
 - **Anduril Industries** _(Defense & Intelligence)_
-  - John Ratcliffe Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Anduril Industries is documented.
+ - John Ratcliffe Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Anduril Industries is documented.
 - **BAE Systems** _(Defense & Intelligence)_
-  - John Ratcliffe Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to BAE Systems is documented.
+ - John Ratcliffe Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to BAE Systems is documented.
 - **Bechtel Corporation** _(Defense & Intelligence)_
-  - John Ratcliffe Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Bechtel Corporation is documented.
+ - John Ratcliffe Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Bechtel Corporation is documented.
 - **Boeing Defense** _(Defense & Intelligence)_
-  - John Ratcliffe Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Boeing Defense is documented.
+ - John Ratcliffe Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Boeing Defense is documented.
 - **Boeing** _(Defense & Intelligence)_
-  - John Ratcliffe Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Boeing is documented.
+ - John Ratcliffe Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Boeing is documented.
 - **Booz Allen Hamilton** _(Defense & Intelligence)_
-  - John Ratcliffe Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Booz Allen Hamilton is documented.
+ - John Ratcliffe Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Booz Allen Hamilton is documented.
 - **Defense Contractors Bloc** _(Defense & Intelligence)_
-  - John Ratcliffe Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Defense Contractors Bloc is documented.
-- _...and 10 more_
+ - John Ratcliffe Master Profile is on a committee matching /foreign|intelligence/ which regulates Defense & Intelligence, but no connection to Defense Contractors Bloc is documented.
+- _..and 10 more_

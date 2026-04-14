@@ -37,7 +37,7 @@ Acton's healthcare messaging centers four policy pillars:
 ### Rhetorical Frame:
 Acton emphasizes "whole-of-government approach" to healthcare costs. She does not frame healthcare as inherently a problem of insurance company profit extraction. Her framing is "affordability crisis" (which affects working families) rather than "insurance industry extraction" (which identifies the mechanism). This is a genuine win frame but a structural limit frame: it names the problem without naming the profiteer.
 
-~~[(Tier 1: Amy Acton Healthcare Plan, campaign website)](https://www.amyacton.com/healthcare-plan)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+~~[(Tier 1: Amy Acton Healthcare Plan, campaign website)](https://www.amyacton.com/healthcare-plan)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -152,13 +152,13 @@ Acton can win the first category; she cannot address the second without dismantl
 
 ### Sources
 
-- ~~[Amy Acton Healthcare Plan | Campaign Website](https://www.amyacton.com/healthcare-plan)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[Ohio Marketplace Enrollment Decline 2017-2026 | Centers for Medicare and Medicaid Services](https://www.cms.gov/marketplace-state-data/ohio)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[Hospital Closures Threatening Rural Ohio | Ohio Hospital Association](https://www.ohiohospitals.org/advocacy/rural-hospitals-at-risk)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[Medicaid's Role in Birth Coverage: National Data | Kaiser Family Foundation](https://www.kff.org/medicaid/state-indicator/births-covered-by-medicaid/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Amy Acton Healthcare Plan | Campaign Website](https://www.amyacton.com/healthcare-plan)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Ohio Marketplace Enrollment Decline 2017-2026 | Centers for Medicare and Medicaid Services](https://www.cms.gov/marketplace-state-data/ohio)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Hospital Closures Threatening Rural Ohio | Ohio Hospital Association](https://www.ohiohospitals.org/advocacy/rural-hospitals-at-risk)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Medicaid's Role in Birth Coverage: National Data | Kaiser Family Foundation](https://www.kff.org/medicaid/state-indicator/births-covered-by-medicaid/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [CBS News: The billionaire who fueled JD Vance's rapid rise. Peter Thiel and biotech connections](https://www.cbsnews.com/news/jd-vance-trump-vp-peter-thiel-billionaire/) (Tier 2) (VERIFIED)
-- ~~[DOGE Federal Workforce Cuts: 75% Reduction Plan | Politico](https://www.politico.com/news/2024/11/doge-federal-workforce-cuts)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[FDA Deregulation as Pharma Industry Benefit | STAT News](https://www.statnews.com/article/fda-deregulation-pharma/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[DOGE Federal Workforce Cuts: 75% Reduction Plan | Politico](https://www.politico.com/news/2024/11/doge-federal-workforce-cuts)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[FDA Deregulation as Pharma Industry Benefit | STAT News](https://www.statnews.com/article/fda-deregulation-pharma/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Health Insurance Industry Lobbying Spending (2020-2026) | OpenSecrets](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
 - [NPR: As Sanders Calls for Medicare for All, a Twist on That Plan Gains Traction](https://www.npr.org/sections/health-shots/2019/04/11/711902886/as-sanders-calls-for-medicare-for-all-a-twist-on-that-plan-gains-traction) (Tier 2) (VERIFIED)
 

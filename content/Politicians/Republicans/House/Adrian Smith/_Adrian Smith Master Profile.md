@@ -1,5 +1,5 @@
 ---
-title: "Adrian Smith Master Profile"
+title: "Adrian Smith"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

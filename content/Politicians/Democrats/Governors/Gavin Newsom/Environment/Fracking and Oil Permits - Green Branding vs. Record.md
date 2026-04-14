@@ -17,9 +17,9 @@ donors: [[Chevron]] | [[Western States Petroleum Association]]
 Newsom has built a national brand as a climate champion. He hosts climate summits, signs executive orders, positions California as the global model for green transition, and attacks Republican climate denial in national media appearances. On the world stage, California under Newsom is the clean energy state.
 
 ### The Record
-California is the 7th largest oil-producing state in the United States. During Newsom's tenure, his administration issued thousands of new oil and gas drilling permits — in some years more than his predecessor Jerry Brown. The oil and gas industry is one of the largest employers in the Central Valley, California's poorest region, giving any governor political reasons to protect it.
+California is the 7th largest oil-producing state in the United States. During Newsom's tenure, his administration issued thousands of new oil and gas drilling permits, in some years more than his predecessor Jerry Brown. The oil and gas industry is one of the largest employers in the Central Valley, California's poorest region, giving any governor political reasons to protect it.
 
-These two facts exist simultaneously. The branding is not entirely false — California has made genuine progress on clean energy. But the gap between the green rhetoric and the permitting record is the story.
+These two facts exist simultaneously. The branding is not entirely false. California has made genuine progress on clean energy. But the gap between the green rhetoric and the permitting record is the story.
 
 ---
 
@@ -27,48 +27,48 @@ These two facts exist simultaneously. The branding is not entirely false — Cal
 In 2021, Newsom signed an executive order directing state agencies to phase out new hydraulic fracturing (fracking) permits by 2024. He called it a significant climate action and used it in national climate messaging.
 
 What happened:
-— The California Geologic Energy Management Division (CalGEM) continued issuing new drilling permits, including in some cases for operations adjacent to fracking-dependent infrastructure.
-— Environmental groups documented that the pace of new conventional drilling permits did not meaningfully decline in the years following the executive order.
-— The 2024 deadline came and went without a clean audit of compliance.
-— Newsom did not push for legislation to codify the ban — an executive order can be reversed by the next governor with a stroke of a pen.
+, The California Geologic Energy Management Division (CalGEM) continued issuing new drilling permits, including in some cases for operations adjacent to fracking-dependent infrastructure.
+, Environmental groups documented that the pace of new conventional drilling permits did not meaningfully decline in the years following the executive order.
+, The 2024 deadline came and went without a clean audit of compliance.
+, Newsom did not push for legislation to codify the ban, an executive order can be reversed by the next governor with a stroke of a pen.
 
-The fracking pledge was real in the narrow technical sense — new fracking permits declined. The broader oil production picture — conventional drilling, steam injection, other extraction methods — did not. — Capital & Main, 2022.
+The fracking pledge was real in the narrow technical sense, new fracking permits declined. The broader oil production picture, conventional drilling, steam injection, other extraction methods, did not. Capital & Main, 2022.
 
 ---
 
-### SB 1137 — The Setback Law and the Oil Industry Referendum
-In 2022, California passed SB 1137, requiring a 3,200-foot buffer zone between new oil and gas wells and homes, schools, and healthcare facilities. This was a significant health protection — oil well proximity is associated with respiratory illness, low birth weight, and cancer, with documented disproportionate impact on Latino communities in the Central Valley.
+### SB 1137. The Setback Law and the Oil Industry Referendum
+In 2022, California passed SB 1137, requiring a 3,200-foot buffer zone between new oil and gas wells and homes, schools, and healthcare facilities. This was a significant health protection, oil well proximity is associated with respiratory illness, low birth weight, and cancer, with documented disproportionate impact on Latino communities in the Central Valley.
 
-The oil industry — led by the [[Western States Petroleum Association|Western States Petroleum Association]] — immediately launched a referendum campaign to put SB 1137 on the November 2024 ballot for repeal. Sound familiar? Same tactic as the restaurant industry used against the FAST Act. [See: [[FAST Act and the AB 1228 Deal]]]
+The oil industry, led by the [[Western States Petroleum Association|Western States Petroleum Association]], immediately launched a referendum campaign to put SB 1137 on the November 2024 ballot for repeal. Sound familiar? Same tactic as the restaurant industry used against the FAST Act. [See: [[FAST Act and the AB 1228 Deal]]]
 
-Newsom publicly supported SB 1137 and opposed the referendum. Unlike the FAST Act situation — where he was largely passive during the Prop 22 fight — he did campaign against the repeal attempt. The referendum was ultimately withdrawn before the 2024 ballot after the oil industry assessed it couldn't win.
+Newsom publicly supported SB 1137 and opposed the referendum. Unlike the FAST Act situation, where he was largely passive during the Prop 22 fight, he did campaign against the repeal attempt. The referendum was ultimately withdrawn before the 2024 ballot after the oil industry assessed it couldn't win.
 
 This is a genuine win to credit, and it shows that when the political cost of fighting is manageable, he fights.
 
 ---
 
 ### The Central Valley Class Dimension
-The oil industry in California is concentrated in the Central Valley — Kern County produces the majority of California's oil. The workforce is predominantly working-class, often Latino, in communities with limited economic alternatives. The industry uses this as political cover: attacking oil production is attacking working-class jobs.
+The oil industry in California is concentrated in the Central Valley. Kern County produces the majority of California's oil. The workforce is predominantly working-class, often Latino, in communities with limited economic alternatives. The industry uses this as political cover: attacking oil production is attacking working-class jobs.
 
 The class analysis cuts both ways here:
-— Oil workers are working class and their jobs are real.
-— The communities living near oil wells — also working class, also predominantly Latino — bear the health costs of that production.
-— The oil company owners and shareholders are capital.
-— Newsom's permitting record has served capital while the working-class communities on both sides of the equation — workers and neighbors — get managed rather than protected.
+, Oil workers are working class and their jobs are real.
+, The communities living near oil wells, also working class, also predominantly Latino, bear the health costs of that production.
+, The oil company owners and shareholders are capital.
+, Newsom's permitting record has served capital while the working-class communities on both sides of the equation, workers and neighbors, get managed rather than protected.
 
-The just transition question — what replaces oil jobs in the Central Valley — is one Newsom has gestured at without funding seriously. That's the tell.
+The just transition question, what replaces oil jobs in the Central Valley, is one Newsom has gestured at without funding seriously. That's the tell.
 
 ---
 
 ### Drilling Permit Data
-During Newsom's first term (2019–2022), California issued approximately 15,000–20,000 new oil and gas drilling permits. Environmental groups including the Center for Biological Diversity documented this and challenged the permitting record against Newsom's climate rhetoric. — Center for Biological Diversity, 2021. [Tier 2]
+During Newsom's first term (2019–2022), California issued approximately 15,000–20,000 new oil and gas drilling permits. Environmental groups including the Center for Biological Diversity documented this and challenged the permitting record against Newsom's climate rhetoric. Center for Biological Diversity, 2021. [Tier 2]
 
-Specific annual permit counts by year are available through CalGEM's public database — this is a primary source research priority for building out the content on this note.
+Specific annual permit counts by year are available through CalGEM's public database, this is a primary source research priority for building out the content on this note.
 
 ### Research needed:
-— CalGEM annual permit data 2019–2026 (primary source)
-— Specific permit counts by year vs. Brown administration comparison
-— WSPA and [[Chevron|Chevron]] contribution data to Newsom (FPPC)
+, CalGEM annual permit data 2019–2026 (primary source)
+, Specific permit counts by year vs. Brown administration comparison
+, WSPA and [[Chevron|Chevron]] contribution data to Newsom (FPPC)
 
 ---
 
@@ -87,10 +87,10 @@ Specific annual permit counts by year are available through CalGEM's public data
 | Date | Event/Contribution | Amount | Policy Action/Outcome | Time Gap |
 |------|-------------------|--------|----------------------|----------|
 | 2019 | Oil/gas industry donations to Newsom | ~$1.5M ([[Chevron|Chevron]], WSPA, independent operators) | Inaugural as governor; 15,000–20,000 drilling permits issued during 1st term | Starting baseline |
-| 2021 (June) | Newsom executive order to phase out fracking | — | Pledge to end new fracking permits by 2024; CalGEM continues approvals | Contradictory timeline |
-| 2022 | SB 1137 oil setback law (genuine win against oil industry) | — | Newsom supports; oil industry launches referendum campaign | Genuine opposition |
+| 2021 (June) | Newsom executive order to phase out fracking |, | Pledge to end new fracking permits by 2024; CalGEM continues approvals | Contradictory timeline |
+| 2022 | SB 1137 oil setback law (genuine win against oil industry) |, | Newsom supports; oil industry launches referendum campaign | Genuine opposition |
 | 2024 | Oil industry referendum campaign funding | $20M+ (to repeal SB 1137) | Referendum withdrawn after industry assessment it would lose; Newsom's public opposition mattered | Defensive win |
-| 2024 (deadline) | Fracking phase-out deadline arrives | — | No clean audit of compliance; executive order not codified in legislation; permits continued | Policy lapsed |
+| 2024 (deadline) | Fracking phase-out deadline arrives |, | No clean audit of compliance; executive order not codified in legislation; permits continued | Policy lapsed |
 
 ---
 
@@ -121,7 +121,7 @@ The SB 1137 setback law is real, but it is a single regulation in a complex perm
 ### Sources
 
 - [Capital & Main: drilling permits under Newsom](https://capitalandmain.com/push-to-make-big-oil-pay-for-climate-damage-losing-steam-in-california-legislature) (Tier 2) (VERIFIED)
-- ~~[Center for Biological Diversity: permit tracking](https://www.biologicaldiversity.org/programs/energy-justice/california/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Center for Biological Diversity: permit tracking](https://www.biologicaldiversity.org/programs/energy-justice/california/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [CalGEM: drilling permit database](https://www.conservation.ca.gov/calgem) (Tier 1) (VERIFIED)
-- ~~[CalMatters: Oil industry withdraws controversial oil well ballot measure](https://calmatters.org/category/environment/2024/06/oil-ballot-california/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[CalMatters: Oil industry withdraws controversial oil well ballot measure](https://calmatters.org/category/environment/2024/06/oil-ballot-california/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 

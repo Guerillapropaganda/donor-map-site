@@ -1,5 +1,5 @@
 ---
-title: "Joe Courtney Master Profile"
+title: "Joe Courtney"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

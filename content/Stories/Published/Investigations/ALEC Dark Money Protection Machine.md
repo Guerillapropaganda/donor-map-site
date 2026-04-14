@@ -131,8 +131,8 @@ The divide is stark: ALEC states are creating legal infrastructure for unaccount
 ### Sources
 
 - [ProPublica: A Discreet Nonprofit Brings Together Politicians and Corporations to Write 'Model Bills'](https://www.propublica.org/article/a-discreet-nonprofit-brings-together-politicians-and-corporations-to-write-) (Tier 2) (VERIFIED)
-- ~~[EXPOSEDbyCMD: ALEC State Lawmakers Lead Campaign to Conceal Conservative Donors](https://www.exposedbycmd.org/2023/07/13/alec-state-lawmakers-lead-campaign-to-conceal-conservative-donors/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[OpenSecrets: ALEC Funding and Members](https://www.opensecrets.org/orgs/all-profiles?cache=1775442294)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[IRS Form 990: ALEC (ProPublica Nonprofit Explorer)](https://projects.propublica.org/nonprofits/organizations/351663067)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[EXPOSEDbyCMD: ALEC State Lawmakers Lead Campaign to Conceal Conservative Donors](https://www.exposedbycmd.org/2023/07/13/alec-state-lawmakers-lead-campaign-to-conceal-conservative-donors/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[OpenSecrets: ALEC Funding and Members](https://www.opensecrets.org/orgs/all-profiles?cache=1775442294)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[IRS Form 990: ALEC (ProPublica Nonprofit Explorer)](https://projects.propublica.org/nonprofits/organizations/351663067)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [State Legislative Records: Personal Privacy Protection Act Tracking](https://ballotpedia.org/ALEC_Dark_Money_Protection_Machine) (Tier 2) (VERIFIED)
 

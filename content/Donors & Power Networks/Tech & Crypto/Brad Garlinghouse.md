@@ -45,7 +45,7 @@ Garlinghouse is documented in [[Fairshake PAC]] primarily in two capacities:
 
 ## The Central Thesis
 
-*Stub — needs full development.*
+*Stub, needs full development.*
 
 Garlinghouse is the operational lead of the vault's clearest legislative transaction: Ripple contributed $49M to Fairshake in 2024 → Ripple got direct input on the GENIUS Act stablecoin framework → Trump signed the legislation July 2025 → Ripple's SEC lawsuit was settled on favorable terms (reduced from $125M ordered / $2B demanded to $50M). The timeline documented in [[Fairshake PAC]]'s Legislative Victories section reads as a direct investment return: political spending → industry-drafted legislation → enforcement relief.
 

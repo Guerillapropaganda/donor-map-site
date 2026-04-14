@@ -1,5 +1,5 @@
 ---
-title: "Steven Chu Master Profile"
+title: "Steven Chu"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -15,15 +15,15 @@ donors: [[CNA - California Nurses Association]] · [[Blue Shield of California]]
 
 ---
 
-### Medicare for All — The Policy That Broke the Party
+### Medicare for All. The Policy That Broke the Party
 
-Medicare for All is the policy the vault's entire healthcare donor section exists to prevent. Every healthcare corporation documented — Blue Shield, Kaiser, UnitedHealth, [[Anthem - Elevance Health|Anthem]] — would lose its business model under single-payer. Sanders made it a presidential-level issue. The healthcare donor class ensured it never became law.
+Medicare for All is the policy the vault's entire healthcare donor section exists to prevent. Every healthcare corporation documented. Blue Shield, Kaiser, UnitedHealth, [[Anthem - Elevance Health|Anthem]], would lose its business model under single-payer. Sanders made it a presidential-level issue. The healthcare donor class ensured it never became law.
 
 ---
 
 ### The Legislative History
 
-**S.1804 (2017):** Sanders introduced the Medicare for All Act in the Senate with 16 co-sponsors — the most co-sponsors a single-payer bill had ever received. Co-sponsors: Harris, Warren, Booker, Gillibrand, Leahy, Markey, Merkley, Murphy, Schatz, Whitehouse, Blumenthal, Franken, Heinrich, Hirono, Warren, and Jeff Merkley.
+**S.1804 (2017):** Sanders introduced the Medicare for All Act in the Senate with 16 co-sponsors, the most co-sponsors a single-payer bill had ever received. Co-sponsors: Harris, Warren, Booker, Gillibrand, Leahy, Markey, Merkley, Murphy, Schatz, Whitehouse, Blumenthal, Franken, Heinrich, Hirono, Warren, and Jeff Merkley.
 
 **S.1129 (2019):** Updated Medicare for All Act. Co-sponsors included Harris, Warren, Booker, Gillibrand, and 10+ other Democratic senators.
 
@@ -37,28 +37,28 @@ Medicare for All is the policy the vault's entire healthcare donor section exist
 ### Cost estimates:
 - Urban Institute: $32 trillion over 10 years in new federal spending
 - CBO (2022 scenarios): Federal health subsidies would increase from $1.5 trillion to $3 trillion annually depending on reimbursement rates
-- Mercatus Center (Koch-funded): $32.6 trillion over 10 years — but also found $2 trillion in net savings vs. current system
+- Mercatus Center (Koch-funded): $32.6 trillion over 10 years, but also found $2 trillion in net savings vs. current system
 - Sanders's response: "Yes, it will cost more in taxes. But you will no longer pay premiums, deductibles, or copays. For the average family, total healthcare costs go down."
 
-The cost debate was the healthcare donor class's primary weapon: frame single-payer as "government spending" rather than "replacing private spending." The Mercatus study — funded by Koch — accidentally proved Sanders's point: single-payer costs more in federal spending but less in total spending. The Koch network buried its own finding.
+The cost debate was the healthcare donor class's primary weapon: frame single-payer as "government spending" rather than "replacing private spending." The Mercatus study, funded by Koch, accidentally proved Sanders's point: single-payer costs more in federal spending but less in total spending. The Koch network buried its own finding.
 
 ---
 
 ### The CNA/NNU Alliance
 
-National Nurses United endorsed Sanders in both 2016 and 2020 — the only major union to back Sanders over the institutional Democratic candidate in both cycles.
+National Nurses United endorsed Sanders in both 2016 and 2020, the only major union to back Sanders over the institutional Democratic candidate in both cycles.
 
 **2016:** NNU was the first major union endorsement of the Sanders campaign. 100% scorecard on their questionnaire. Overwhelming member support in internal poll. Together, they elevated Medicare for All from a fringe policy position to a mainstream presidential primary debate.
 
 **2020:** NNU formally re-endorsed at their Oakland offices. Joint elevation of Medicare for All as the campaign's defining policy position.
 
-**The structural relationship:** CNA doesn't endorse Sanders for access or incremental wins — the transactional model that defines most union-politician relationships (see [[SEIU - Service Employees International Union]], [[California Labor Federation]]). CNA endorses Sanders because his policy agenda would eliminate the healthcare profit model they fight daily. It's ideological alignment, not political exchange.
+**The structural relationship:** CNA doesn't endorse Sanders for access or incremental wins, the transactional model that defines most union-politician relationships (see [[SEIU - Service Employees International Union]], [[California Labor Federation]]). CNA endorses Sanders because his policy agenda would eliminate the healthcare profit model they fight daily. It's ideological alignment, not political exchange.
 
-See [[CNA - California Nurses Association]] and [[Ash Kalra]] for the California version of the same fight — CalCare (AB 1400, AB 2200) following the identical pattern: CNA organizes, a progressive legislator introduces, the healthcare donor class kills it through Democratic leadership.
+See [[CNA - California Nurses Association]] and [[Ash Kalra]] for the California version of the same fight. CalCare (AB 1400, AB 2200) following the identical pattern: CNA organizes, a progressive legislator introduces, the healthcare donor class kills it through Democratic leadership.
 
 ---
 
-### Co-Sponsor Behavior — The Retreat Pattern
+### Co-Sponsor Behavior. The Retreat Pattern
 
 > [!contradiction] Co-Sponsorship as Performance
 > Harris, Warren, Booker, Gillibrand — all co-sponsored Medicare for All in the Senate. All abandoned it when running for president.
@@ -75,14 +75,14 @@ See [[CNA - California Nurses Association]] and [[Ash Kalra]] for the California
 
 ### The Healthcare Donor Class Response
 
-**Federal lobbying (2024):** Healthcare and pharmaceutical companies spent **$745 million+** on federal lobbying — the single largest special interest spending category.
+**Federal lobbying (2024):** Healthcare and pharmaceutical companies spent **$745 million+** on federal lobbying, the single largest special interest spending category.
 
 ### California state-level (documented in Kalra node):
 - California Hospital Association: $3.5 million lobbying
 - California Chamber of Commerce: $3.4 million (single-payer designated "job killer")
 - [[Kaiser Permanente|Kaiser Permanente]]: explicit opposition, calling single-payer "costly, disruptive and detrimental"
 
-**The structural kill mechanism:** Medicare for All never failed a vote. It was never allowed to reach a vote. In Congress, the Senate filibuster ensures 60 votes are needed — mathematically impossible when the healthcare industry funds enough senators on both sides. In California, Democratic leadership (Rendon, Wicks) used procedural authority to prevent floor votes. The donor class doesn't need to win a vote — it needs to prevent one.
+**The structural kill mechanism:** Medicare for All never failed a vote. It was never allowed to reach a vote. In Congress, the Senate filibuster ensures 60 votes are needed, mathematically impossible when the healthcare industry funds enough senators on both sides. In California, Democratic leadership (Rendon, Wicks) used procedural authority to prevent floor votes. The donor class doesn't need to win a vote, it needs to prevent one.
 
 ---
 

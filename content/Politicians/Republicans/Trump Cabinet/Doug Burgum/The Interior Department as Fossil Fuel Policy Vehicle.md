@@ -33,7 +33,7 @@ donors: [[Harold Hamm|Harold Hamm]], [[Leonard Leo]]
 | Climate policies | Eliminated all Biden-era "harmful, coercive climate policies" |
 | Monument review | Revisiting national monument land protections |
 | Energy council | Chairs National Energy Dominance Council |
-| Fast-track eligibility | Fossil fuels only — renewables excluded |
+| Fast-track eligibility | Fossil fuels only, renewables excluded |
 
 ---
 
@@ -62,7 +62,7 @@ As Interior Secretary (2025–present), Burgum:
 
 ### The National Energy Dominance Council
 
-The council — created by executive order, chaired by Burgum — coordinates energy policy across the cabinet:
+The council, created by executive order, chaired by Burgum, coordinates energy policy across the cabinet:
 
 - Interior Secretary Burgum (chair): public lands, drilling, leasing
 - Energy Secretary [[_Chris Wright Master Profile|Chris Wright]]: energy production, LNG exports

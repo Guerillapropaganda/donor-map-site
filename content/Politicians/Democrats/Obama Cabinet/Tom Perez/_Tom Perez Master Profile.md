@@ -1,5 +1,5 @@
 ---
-title: "Tom Perez Master Profile"
+title: "Tom Perez"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

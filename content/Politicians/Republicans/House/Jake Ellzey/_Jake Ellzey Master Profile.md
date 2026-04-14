@@ -1,5 +1,5 @@
 ---
-title: "Jake Ellzey Master Profile"
+title: "Jake Ellzey"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

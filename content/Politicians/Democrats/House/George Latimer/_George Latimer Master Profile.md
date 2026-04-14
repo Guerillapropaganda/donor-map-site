@@ -1,5 +1,5 @@
 ---
-title: "George Latimer Master Profile"
+title: "George Latimer"
 type: politician
 bioguide-id: "L000606"
 content-readiness: draft
@@ -37,17 +37,17 @@ fec-candidate-id: "H4NY16087"
 
 ## Who He Is
 
-George Latimer. U.S. Representative for New York's 16th Congressional District since January 2025. Former Westchester County Executive (2018–2024). Defeated incumbent [[_Jamaal Bowman Master Profile|Jamaal Bowman]] in the June 2024 Democratic primary in the most expensive House primary in American history — a race defined by $14.9M+ in independent expenditures from AIPAC's United Democracy Project supporting Latimer and opposing Bowman.
+George Latimer. U.S. Representative for New York's 16th Congressional District since January 2025. Former Westchester County Executive (2018–2024). Defeated incumbent [[_Jamaal Bowman Master Profile|Jamaal Bowman]] in the June 2024 Democratic primary in the most expensive House primary in American history, a race defined by $14.9M+ in independent expenditures from AIPAC's United Democracy Project supporting Latimer and opposing Bowman.
 
-Latimer is the vault's canonical case of the politician produced by donor-class primary spending: AIPAC did not recruit him from obscurity — he was a long-serving local official — but the primary spending of $14.9M from UDP alone made the race structurally unwinnable for Bowman. Latimer's House tenure is the direct output of that spending.
+Latimer is the vault's canonical case of the politician produced by donor-class primary spending: AIPAC did not recruit him from obscurity, he was a long-serving local official, but the primary spending of $14.9M from UDP alone made the race structurally unwinnable for Bowman. Latimer's House tenure is the direct output of that spending.
 
 ---
 
 ## The Central Thesis
 
-*Stub — needs full development.*
+*Stub, needs full development.*
 
-Latimer represents the structural outcome of AIPAC's primary enforcement model applied at maximum scale. His campaign did not need to win the argument on Israel policy — the $14.9M UDP spending established the frame (Bowman's fire alarm, his policing positions) and saturated the airwaves. Latimer's own voting record since taking office confirms the donor-class expectations: pro-crypto (voted for FIT21), pro-Israel aid, establishment Democratic coalition alignment.
+Latimer represents the structural outcome of AIPAC's primary enforcement model applied at maximum scale. His campaign did not need to win the argument on Israel policy, the $14.9M UDP spending established the frame (Bowman's fire alarm, his policing positions) and saturated the airwaves. Latimer's own voting record since taking office confirms the donor-class expectations: pro-crypto (voted for FIT21), pro-Israel aid, establishment Democratic coalition alignment.
 
 ---
 

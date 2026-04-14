@@ -32,7 +32,7 @@ If the state transferred a COVID outbreak into a nursing home and 28 residents d
 
 ### Part Two: The Rehabilitation Announcement
 
-In 2023, Newsom announced a plan to transform San Quentin into a "campus of opportunity" — a rehabilitation-focused facility modeled on Scandinavian rehabilitation prisons, specifically Norway's Bastøy Prison. He called it a "redemption center." The plan includes vocational training, education programs, and eventually allowing incarcerated people to move around the facility more freely.
+In 2023, Newsom announced a plan to transform San Quentin into a "campus of opportunity", a rehabilitation-focused facility modeled on Scandinavian rehabilitation prisons, specifically Norway's Bastøy Prison. He called it a "redemption center." The plan includes vocational training, education programs, and eventually allowing incarcerated people to move around the facility more freely.
 
 The budget allocated approximately $360 million for the transformation.
 
@@ -42,11 +42,11 @@ The budget allocated approximately $360 million for the transformation.
 
 This deserves honest analysis rather than reflexive dismissal or uncritical celebration.
 
-**What's genuine:** Rehabilitation-focused corrections, if actually implemented, produces better outcomes — lower recidivism, less reoffending, less victimization. Norway's model has decades of evidence behind it. Moving toward that model in California would be a real shift. Newsom is the first California governor to explicitly frame a prison transformation in rehabilitation rather than punishment terms.
+**What's genuine:** Rehabilitation-focused corrections, if actually implemented, produces better outcomes, lower recidivism, less reoffending, less victimization. Norway's model has decades of evidence behind it. Moving toward that model in California would be a real shift. Newsom is the first California governor to explicitly frame a prison transformation in rehabilitation rather than punishment terms.
 
-**What to watch:** The transformation is happening at one facility. The system has 32 state prisons and roughly 95,000 people incarcerated. San Quentin houses approximately 4,000. The rehabilitation announcement does not represent a systemic shift — it's a pilot that serves as a national messaging vehicle for Newsom's 2028 positioning.
+**What to watch:** The transformation is happening at one facility. The system has 32 state prisons and roughly 95,000 people incarcerated. San Quentin houses approximately 4,000. The rehabilitation announcement does not represent a systemic shift, it's a pilot that serves as a national messaging vehicle for Newsom's 2028 positioning.
 
-**The [[CCPOA - California Correctional Peace Officers Association|CCPOA]] constraint:** Any genuine rehabilitation model that reduces recidivism eventually reduces the prison population. Fewer people returning to prison means fewer prisoners, fewer guards, smaller budget. CCPOA's institutional interest runs directly against the long-term logic of successful rehabilitation. Whether San Quentin's transformation actually produces those outcomes — and whether CDCR has the political room to scale it — depends on who has more leverage with the governor.
+**The [[CCPOA - California Correctional Peace Officers Association|CCPOA]] constraint:** Any genuine rehabilitation model that reduces recidivism eventually reduces the prison population. Fewer people returning to prison means fewer prisoners, fewer guards, smaller budget. CCPOA's institutional interest runs directly against the long-term logic of successful rehabilitation. Whether San Quentin's transformation actually produces those outcomes, and whether CDCR has the political room to scale it, depends on who has more leverage with the governor.
 
 **The 2028 read:** "I turned San Quentin into a redemption center" is a powerful campaign story. It costs relatively little in political capital (one facility, photo ops with Scandinavian prison officials) while generating significant national coverage. It is not evidence of a fundamental reckoning with the carceral state. It is evidence that Newsom understands how to do symbolic reform that maximizes political value per dollar spent.
 
@@ -86,7 +86,7 @@ This deserves honest analysis rather than reflexive dismissal or uncritical cele
 
 ### 2. The Villain Framing
 
-The San Quentin COVID disaster is framed as a bureaucratic error: "the transfer was a mistake." This distributes blame to low-level CDCR officials and bad judgment calls. The structural problem — that CDCR is managed by officials appointed by the governor, that accountability never reached the top, that ratepayers and the taxpayer-funded settlement absorbed the cost — is deflected by calling it a "mistake." The story becomes about the accident, not about the system that produced the negligence and protected decision-makers.
+The San Quentin COVID disaster is framed as a bureaucratic error: "the transfer was a mistake." This distributes blame to low-level CDCR officials and bad judgment calls. The structural problem, that CDCR is managed by officials appointed by the governor, that accountability never reached the top, that ratepayers and the taxpayer-funded settlement absorbed the cost, is deflected by calling it a "mistake." The story becomes about the accident, not about the system that produced the negligence and protected decision-makers.
 
 ### 3. The Two-Audience Problem
 
@@ -105,8 +105,8 @@ The San Quentin rehabilitation transformation is explicitly a pilot. The rhetori
 
 ### Sources
 
-- ~~[LA Times: San Quentin COVID transfer and deaths](https://www.latimes.com/california/story/2020-06-30/san-quentin-coronavirus-outbreak)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[State Auditor: CDCR COVID transfer review](https://www.auditor.ca.gov/reports/2020-128/index.html)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- [CalMatters: San Quentin prison — Newsom plan calls for rehab focus](https://calmatters.org/justice/2023/03/san-quentin-prison-gavin-newsom/) (Tier 2) (VERIFIED)
-- ~~[NY Times: Norway prison model comparison](https://www.nytimes.com/2023/03/17/us/san-quentin-prison-california-newsom.html)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[LA Times: San Quentin COVID transfer and deaths](https://www.latimes.com/california/story/2020-06-30/san-quentin-coronavirus-outbreak)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[State Auditor: CDCR COVID transfer review](https://www.auditor.ca.gov/reports/2020-128/index.html)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- [CalMatters: San Quentin prison. Newsom plan calls for rehab focus](https://calmatters.org/justice/2023/03/san-quentin-prison-gavin-newsom/) (Tier 2) (VERIFIED)
+- ~~[NY Times: Norway prison model comparison](https://www.nytimes.com/2023/03/17/us/san-quentin-prison-california-newsom.html)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 

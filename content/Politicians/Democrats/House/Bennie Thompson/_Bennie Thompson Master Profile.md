@@ -2,7 +2,7 @@
 title: "Bennie Thompson"
 type: politician
 content-readiness: ready
-central-thesis: "Bennie Thompson is the civil rights organizer who became the surveillance state's Democratic gatekeeper. His career arc — from SNCC activism to chairing the committee that oversees DHS, TSA, ICE, and CBP — is a map of how the Democratic Party abso..."
+central-thesis: "Bennie Thompson is the civil rights organizer who became the surveillance state's Democratic gatekeeper. His career arc , from SNCC activism to chairing the committee that oversees DHS, TSA, ICE, and CBP , is a map of how the Democratic Party abso..."
 last-updated: 2026-04-13
 source-tier: 1
 parent: null
@@ -41,17 +41,17 @@ donors:
 
 ## Who They Are
 
-Bennie Thompson has represented Mississippi's 2nd Congressional District since 1993. The district is one of the poorest in America — 26%+ poverty rate, majority-Black, spanning the Mississippi Delta from Jackson to the Arkansas border. Before Congress, Thompson was a civil rights organizer with the Student Nonviolent Coordinating Committee (SNCC) and served as an alderman and mayor in Bolton, Mississippi.
+Bennie Thompson has represented Mississippi's 2nd Congressional District since 1993. The district is one of the poorest in America, 26%+ poverty rate, majority-Black, spanning the Mississippi Delta from Jackson to the Arkansas border. Before Congress, Thompson was a civil rights organizer with the Student Nonviolent Coordinating Committee (SNCC) and served as an alderman and mayor in Bolton, Mississippi.
 
 He serves as Ranking Member of the House Homeland Security Committee and chaired it from 2019 to 2023. His most prominent role was chairing the January 6th Select Committee (2021-2023), which conducted the most high-profile congressional investigation in decades. He also chairs or has chaired subcommittees overseeing TSA, FEMA, cybersecurity, and border security.
 
-Thompson is 65% PAC-funded — one of the highest PAC-dependency ratios in the House. His campaign has received contributions from 434 lobbying organizations. His net worth is approximately $1.5 million, derived primarily from rental properties in the Jackson, Mississippi area.
+Thompson is 65% PAC-funded, one of the highest PAC-dependency ratios in the House. His campaign has received contributions from 434 lobbying organizations. His net worth is approximately $1.5 million, derived primarily from rental properties in the Jackson, Mississippi area.
 
 ---
 
 ## The Central Thesis
 
-Bennie Thompson is the civil rights organizer who became the surveillance state's Democratic gatekeeper. His career arc — from SNCC activism to chairing the committee that oversees DHS, TSA, ICE, and CBP — is a map of how the Democratic Party absorbed civil rights energy into institutional management. Thompson doesn't dismantle the surveillance apparatus. He manages it. His committee approves the budgets, oversees the contracts, and shapes the legislation that determines how much power DHS has and who it targets. The January 6th investigation was his highest-profile moment — genuine accountability work that also demonstrated the limits of congressional investigation (referrals but no structural reform of the agencies that failed).
+Bennie Thompson is the civil rights organizer who became the surveillance state's Democratic gatekeeper. His career arc, from SNCC activism to chairing the committee that oversees DHS, TSA, ICE, and CBP, is a map of how the Democratic Party absorbed civil rights energy into institutional management. Thompson doesn't dismantle the surveillance apparatus. He manages it. His committee approves the budgets, oversees the contracts, and shapes the legislation that determines how much power DHS has and who it targets. The January 6th investigation was his highest-profile moment, genuine accountability work that also demonstrated the limits of congressional investigation (referrals but no structural reform of the agencies that failed).
 
 ---
 
@@ -80,7 +80,7 @@ Bennie Thompson is the civil rights organizer who became the surveillance state'
 - Homeland security contractors (committee jurisdiction overlap)
 - Transportation industry PACs (TSA oversight)
 - Democratic leadership PACs
-- Labor unions (AFSCME, SEIU — government employee unions)
+- Labor unions (AFSCME, SEIU, government employee unions)
 - Trial lawyers
 
 > [!money]
@@ -96,18 +96,18 @@ Homeland Security Committee jurisdiction includes DHS ($60B+ budget), TSA, FEMA,
 ### Pipeline: Homeland Security Industry → Committee Oversight
 | Date | Type | Event | Donor | Amount | Gap |
 |------|------|-------|-------|--------|-----|
-| 2003-2024 | DONATION | Career homeland security contractor PAC contributions | Defense/DHS contractors | 65% PAC ratio | — |
-| 2003-2024 | ← POLICY | Committee approves DHS authorization and procurement annually | — | $60B+ budget | Ongoing |
-| 2019-2023 | ← POLICY | Chairs committee during largest DHS budget expansion | — | — | — |
+| 2003-2024 | DONATION | Career homeland security contractor PAC contributions | Defense/DHS contractors | 65% PAC ratio |, |
+| 2003-2024 | ← POLICY | Committee approves DHS authorization and procurement annually |, | $60B+ budget | Ongoing |
+| 2019-2023 | ← POLICY | Chairs committee during largest DHS budget expansion |, |, |, |
 
 ### Pipeline: January 6th Investigation → Accountability Without Structural Reform
 | Date | Type | Event | Donor | Amount | Gap |
 |------|------|-------|-------|--------|-----|
-| 2021 | ROLE | Appointed January 6th Select Committee Chair | — | — | — |
-| 2021-2022 | ← ACTION | 10 public hearings, 1,000+ witness interviews | — | — | — |
-| 2022 | ← ACTION | Committee refers Trump for prosecution (4 charges) | — | — | — |
-| 2023 | ← OUTCOME | Final report released; no structural DHS/Capitol Police reform passed | — | — | — |
-| 2023 | ← NOTE | Investigation produced accountability theater — referrals but no institutional reform of the agencies that failed on January 6th | — | — | — |
+| 2021 | ROLE | Appointed January 6th Select Committee Chair |, |, |, |
+| 2021-2022 | ← ACTION | 10 public hearings, 1,000+ witness interviews |, |, |, |
+| 2022 | ← ACTION | Committee refers Trump for prosecution (4 charges) |, |, |, |
+| 2023 | ← OUTCOME | Final report released; no structural DHS/Capitol Police reform passed |, |, |, |
+| 2023 | ← NOTE | Investigation produced accountability theater, referrals but no institutional reform of the agencies that failed on January 6th |, |, |, |
 
 ---
 
@@ -123,11 +123,11 @@ The January 6th investigation was Thompson's highest-profile moment and his clea
 
 ## Analytical Patterns
 
-**Genuine Win + Structural Limit:** The January 6th investigation was genuine — the hearings produced real evidence, real referrals, and real public accountability. But the structural limit is that the investigation produced no reform of DHS, Capitol Police, or the intelligence failures that allowed the breach. The committee investigated the event without reforming the institutions. Thompson's other legislative work follows the same pattern: genuine oversight that stops short of structural change to the homeland security apparatus.
+**Genuine Win + Structural Limit:** The January 6th investigation was genuine, the hearings produced real evidence, real referrals, and real public accountability. But the structural limit is that the investigation produced no reform of DHS, Capitol Police, or the intelligence failures that allowed the breach. The committee investigated the event without reforming the institutions. Thompson's other legislative work follows the same pattern: genuine oversight that stops short of structural change to the homeland security apparatus.
 
 **Revolving Door (institutional version):** Thompson didn't personally revolve between government and industry. But his committee is the revolving door's busiest terminal. DHS officials cycle to homeland security contractors and back. Thompson's committee oversees this ecosystem and is funded by it. The 434 lobbying organizations are the revolving door's client list.
 
-**Donor-Class Override (inverted):** Thompson's district needs economic investment, healthcare, infrastructure — none of which the Homeland Security Committee provides. His committee position serves Washington's homeland security industry, not Mississippi's Delta communities. The committee gavel gives Thompson power in Washington funded by Washington's money, while his district remains one of the poorest in America. The gavel's value is to the donor class, not the constituency.
+**Donor-Class Override (inverted):** Thompson's district needs economic investment, healthcare, infrastructure, none of which the Homeland Security Committee provides. His committee position serves Washington's homeland security industry, not Mississippi's Delta communities. The committee gavel gives Thompson power in Washington funded by Washington's money, while his district remains one of the poorest in America. The gavel's value is to the donor class, not the constituency.
 
 **Dark Money Symmetry:** Both parties fund the surveillance state equally. Thompson's Democratic oversight of DHS mirrors Republican enthusiasm for the same agencies. The partisan fights are about who the surveillance targets (immigrants vs. domestic extremists), not whether the surveillance apparatus should exist.
 
@@ -135,18 +135,18 @@ The January 6th investigation was Thompson's highest-profile moment and his clea
 
 ## Rhetorical Signature Moves
 
-**"Protecting the homeland"** — The post-9/11 framing that makes DHS expansion bipartisan. Thompson uses the same national security language as Republicans when defending the committee's jurisdiction and budget.
+**"Protecting the homeland"**. The post-9/11 framing that makes DHS expansion bipartisan. Thompson uses the same national security language as Republicans when defending the committee's jurisdiction and budget.
 
-**Civil rights biography as credential** — The SNCC background is invoked to establish moral authority. It functions to legitimize surveillance oversight from a Democrat who would otherwise be vulnerable to accusations of enabling the same agencies that targeted the civil rights movement.
+**Civil rights biography as credential**. The SNCC background is invoked to establish moral authority. It functions to legitimize surveillance oversight from a Democrat who would otherwise be vulnerable to accusations of enabling the same agencies that targeted the civil rights movement.
 
-**"Thorough and fair investigation"** — The January 6th Committee framing. Emphasizes process legitimacy. The function: establish that the investigation was procedurally sound to inoculate against partisan delegitimization.
+**"Thorough and fair investigation"**. The January 6th Committee framing. Emphasizes process legitimacy. The function: establish that the investigation was procedurally sound to inoculate against partisan delegitimization.
 
 ---
 
 ### Connected Profiles
 
-- [[_Donald Trump Master Profile|Trump]] — January 6th investigation target
-- [[_Nancy Pelosi Master Profile|Pelosi]] — January 6th Committee appointment
+- [[_Donald Trump Master Profile|Trump]]. January 6th investigation target
+- [[_Nancy Pelosi Master Profile|Pelosi]]. January 6th Committee appointment
 
 ---
 
@@ -156,13 +156,13 @@ The January 6th investigation was Thompson's highest-profile moment and his clea
 - [FEC Candidate: Bennie Thompson industry donors](https://www.fec.gov/data/candidate/H4MS02068/) (Tier 1) (VERIFIED)
 - [FEC Candidate: Bennie Thompson contributors](https://www.fec.gov/data/candidate/H4MS02068/) (Tier 1) (VERIFIED)
 - [House.gov: Bennie Thompson official biography](https://benniethompson.house.gov/about) (Tier 1) (VERIFIED)
-- ~~[Congress.gov: January 6th Select Committee Final Report](https://www.congress.gov/committee/house-select-committee-to-investigate-the-january-6th-attack/hlij00)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[DHS.gov: Budget-in-Brief FY2024](https://www.dhs.gov/sites/default/files/2023-03/DHS%20BIB%20-%20web%20version.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: January 6th Select Committee Final Report](https://www.congress.gov/committee/house-select-committee-to-investigate-the-january-6th-attack/hlij00)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[DHS.gov: Budget-in-Brief FY2024](https://www.dhs.gov/sites/default/files/2023-03/DHS%20BIB%20-%20web%20version.pdf)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [FEC Receipts: Defense & Homeland Security lobbying](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
 - [Washington Post: 6 questions the Jan. 6 committee aims to answer about the attack](https://www.washingtonpost.com/politics/2022/06/09/jan6-committee-questions-hearings/) (Tier 2) (VERIFIED)
-- [NPR: Bennie Thompson — From Civil Rights to January 6th](https://www.npr.org/2022/06/08/1102909009/jan-6-committee-members-capitol-attack-thompson) (Tier 2) (VERIFIED)
+- [NPR: Bennie Thompson. From Civil Rights to January 6th](https://www.npr.org/2022/06/08/1102909009/jan-6-committee-members-capitol-attack-thompson) (Tier 2) (VERIFIED)
 - [The Intercept: How Post-9/11 Visions of an Imperiled Homeland Supercharged U.S. Immigration Enforcement](https://theintercept.com/2021/09/10/immigration-enforcement-homeland-security-911/) (Tier 2) (VERIFIED)
-- ~~[Mississippi Today: Bennie Thompson Profile](https://mississippitoday.org/category/the-capitol/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Mississippi Today: Bennie Thompson Profile](https://mississippitoday.org/category/the-capitol/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Ballotpedia: Bennie Thompson](https://ballotpedia.org/Bennie_Thompson) (Tier 3) (VERIFIED)
 - [Wikipedia: Bennie Thompson](https://en.wikipedia.org/wiki/Bennie_Thompson) (Tier 3) (VERIFIED)
 

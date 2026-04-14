@@ -1,5 +1,5 @@
 ---
-title: "Kat Cammack Master Profile"
+title: "Kat Cammack"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

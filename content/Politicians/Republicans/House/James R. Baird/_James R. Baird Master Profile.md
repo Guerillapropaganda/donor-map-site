@@ -1,5 +1,5 @@
 ---
-title: "James R. Baird Master Profile"
+title: "James R. Baird"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

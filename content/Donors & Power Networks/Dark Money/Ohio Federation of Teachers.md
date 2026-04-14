@@ -32,11 +32,11 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### Who They Are
 
-Ohio Federation of Teachers (OFT). The AFT (American Federation of Teachers) state affiliate in Ohio, representing 14,749 members (2024 LM-2 filing) across 55 local unions — including primary and secondary school teachers, college and university faculty, adjuncts, graduate workers, and support staff. OFT is affiliated with the AFT nationally and, through the AFT, with the AFL-CIO labor federation. The union was originally chartered as the Ohio State Federation of Teachers in 1938, making it one of the AFT's earliest state federations — the AFT established it as an experimental model in 1933 before formal chartering.
+Ohio Federation of Teachers (OFT). The AFT (American Federation of Teachers) state affiliate in Ohio, representing 14,749 members (2024 LM-2 filing) across 55 local unions, including primary and secondary school teachers, college and university faculty, adjuncts, graduate workers, and support staff. OFT is affiliated with the AFT nationally and, through the AFT, with the AFL-CIO labor federation. The union was originally chartered as the Ohio State Federation of Teachers in 1938, making it one of the AFT's earliest state federations, the AFT established it as an experimental model in 1933 before formal chartering.
 
-OFT is significantly smaller than the Ohio Education Association (OEA), the NEA-affiliated teachers union in Ohio with over 120,000 members. This size disparity shapes OFT's political strategy: where OEA can deploy large-scale member mobilization and direct campaign contributions ($1.06M in federal contributions in 2024), OFT operates through coalition politics, grassroots organizing, and issue advocacy — particularly the anti-voucher legal and legislative campaigns that have defined Ohio education politics since 2023.
+OFT is significantly smaller than the Ohio Education Association (OEA), the NEA-affiliated teachers union in Ohio with over 120,000 members. This size disparity shapes OFT's political strategy: where OEA can deploy large-scale member mobilization and direct campaign contributions ($1.06M in federal contributions in 2024), OFT operates through coalition politics, grassroots organizing, and issue advocacy, particularly the anti-voucher legal and legislative campaigns that have defined Ohio education politics since 2023.
 
-OFT's most prominent locals are the Cincinnati Federation of Teachers, the Cleveland Teachers Union, and the Toledo Federation of Teachers — all in urban districts where the voucher expansion's financial impact is most severe. President Melissa Cropper, who also serves as secretary-treasurer of We Are Ohio (a state coalition preserving workers' rights) and chair of the Coalition for Public Education, has positioned OFT as the most vocal union opponent of Ohio's EdChoice voucher program.
+OFT's most prominent locals are the Cincinnati Federation of Teachers, the Cleveland Teachers Union, and the Toledo Federation of Teachers, all in urban districts where the voucher expansion's financial impact is most severe. President Melissa Cropper, who also serves as secretary-treasurer of We Are Ohio (a state coalition preserving workers' rights) and chair of the Coalition for Public Education, has positioned OFT as the most vocal union opponent of Ohio's EdChoice voucher program.
 
 - [DOL: OFT LM-2 Annual Report (File 513-310), fiscal year ending 06/30/2024](https://olmsapps.dol.gov/query/orgReport.do?rptId=898218&rptForm=LM2Form) (Tier 1) (VERIFIED)
 - [InfluenceWatch: Ohio Federation of Teachers (OFT)](https://www.influencewatch.org/labor-union/ohio-federation-of-teachers-oft/) (Tier 3) (VERIFIED)
@@ -47,21 +47,21 @@ OFT's most prominent locals are the Cincinnati Federation of Teachers, the Cleve
 
 OFT's policy agenda centers on defending public education funding against the voucher privatization wave that has accelerated under Ohio's Republican supermajority. The union's core demands: full implementation of the Fair School Funding Plan (passed in 2021 but never fully funded), repeal or reduction of the universal EdChoice voucher expansion (2023), accountability requirements for private schools receiving public voucher funds, protection of collective bargaining rights for public school employees, and adequate teacher compensation to address Ohio's growing teacher shortage.
 
-The deeper structural goal is survival. Ohio's EdChoice voucher program spent over $1 billion in fiscal year 2025 — money redirected from public school budgets to private schools with no accountability requirements comparable to public schools. The 2025-2027 biennial budget allocates $2.44 billion for vouchers, a 17% increase over the prior biennium. Every dollar spent on vouchers is a dollar OFT's members' schools don't receive. The voucher fight is not abstract education policy for OFT — it is a direct threat to the jobs, class sizes, and working conditions of the union's 14,749 members.
+The deeper structural goal is survival. Ohio's EdChoice voucher program spent over $1 billion in fiscal year 2025, money redirected from public school budgets to private schools with no accountability requirements comparable to public schools. The 2025-2027 biennial budget allocates $2.44 billion for vouchers, a 17% increase over the prior biennium. Every dollar spent on vouchers is a dollar OFT's members' schools don't receive. The voucher fight is not abstract education policy for OFT, it is a direct threat to the jobs, class sizes, and working conditions of the union's 14,749 members.
 
-OFT has also been a consistent voice for anti-gerrymandering reform, endorsing the Citizens Not Politicians campaign for Ohio Issue 1 (2024) — the redistricting reform ballot measure. Cropper explicitly connected redistricting to education policy: under a different redistricting process, she argued, the Republican supermajority that expanded universal vouchers might not exist, and public school funding would follow the Ohio Constitution's requirements.
+OFT has also been a consistent voice for anti-gerrymandering reform, endorsing the Citizens Not Politicians campaign for Ohio Issue 1 (2024), the redistricting reform ballot measure. Cropper explicitly connected redistricting to education policy: under a different redistricting process, she argued, the Republican supermajority that expanded universal vouchers might not exist, and public school funding would follow the Ohio Constitution's requirements.
 
 ---
 
 ### Who They Fund
 
-OFT's political spending operates through a COPE (Committee on Political Education) fund — voluntary member contributions separate from dues money. The union endorses almost exclusively Democratic candidates, with endorsements approved by a majority vote of OFT's Executive Council composed of member leaders from every local.
+OFT's political spending operates through a COPE (Committee on Political Education) fund, voluntary member contributions separate from dues money. The union endorses almost exclusively Democratic candidates, with endorsements approved by a majority vote of OFT's Executive Council composed of member leaders from every local.
 
 ### Financial overview (LM-2 filing, fiscal year ending 06/30/2024):
 
 | Category | Amount | % of Total Spending |
 |----------|--------|-------------------|
-| Total Receipts | $2,360,559 | — |
+| Total Receipts | $2,360,559 |, |
 | Total Disbursements | $2,523,019 | 100% |
 | Political Activities & Lobbying | $330,771 | 13.1% |
 | Contributions, Gifts & Grants | $249,887 | 9.9% |
@@ -81,7 +81,7 @@ OFT's political spending operates through a COPE (Committee on Political Educati
 
 OFT's endorsement pattern reveals the structural limitation: the union endorses Democrats who lose statewide (Whaley lost the 2022 governor's race; Tim Ryan lost the Senate race) while occasionally supporting winning candidates in safe Democratic urban districts (Beatty, Brown, Sykes). The union's political operation is effective at maintaining relationships with Democratic legislators but cannot generate the electoral outcomes needed to change state policy.
 
-- [DOL: OFT LM-2 Annual Report — Statement B (Receipts and Disbursements)](https://olmsapps.dol.gov/query/orgReport.do?rptId=898218&rptForm=LM2Form) (Tier 1) (VERIFIED)
+- [DOL: OFT LM-2 Annual Report. Statement B (Receipts and Disbursements)](https://olmsapps.dol.gov/query/orgReport.do?rptId=898218&rptForm=LM2Form) (Tier 1) (VERIFIED)
 - [OFT: 2022 Endorsements](https://www.oft-aft.org/user/login?destination=/news/oft-votes-endorsements-and-voter-information-2022-election) (Tier 3) (VERIFIED)
 - [FEC Receipts: Teachers Unions industry summary 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
 
@@ -89,40 +89,40 @@ OFT's endorsement pattern reveals the structural limitation: the union endorses 
 
 ### What They've Gotten
 
-The answer, structurally, is defeat — with one significant exception.
+The answer, structurally, is defeat, with one significant exception.
 
-### The voucher timeline — OFT's losing battle:
+### The voucher timeline. OFT's losing battle:
 
 ### Donation-to-Policy Timeline
 
 | Date | Recipient/Target | Amount | Policy Return | Time Gap |
 |------|-----------------|--------|---------------|---------|
-| 2013 | Ohio legislature / EdChoice pilot | — | Income-based voucher program created — limited to low-income students | — |
-| 2021 | Fair School Funding Plan (HB 110) | OFT advocacy spending | Bipartisan funding formula passed — but never fully funded by legislature | Ongoing |
-| 2023-07 | Ohio budget (HB 33) | OFT lobbying + coalition | Universal EdChoice expansion passes — every Ohio student eligible for vouchers regardless of income | 0 |
+| 2013 | Ohio legislature / EdChoice pilot |, | Income-based voucher program created, limited to low-income students |, |
+| 2021 | Fair School Funding Plan (HB 110) | OFT advocacy spending | Bipartisan funding formula passed, but never fully funded by legislature | Ongoing |
+| 2023-07 | Ohio budget (HB 33) | OFT lobbying + coalition | Universal EdChoice expansion passes, every Ohio student eligible for vouchers regardless of income | 0 |
 | 2024-01 | Vouchers Hurt Ohio coalition / lawsuit | OFT + 300+ school districts | Constitutional challenge filed against EdChoice expansion | 6 months |
-| 2024-10 | Issue 1 anti-gerrymandering campaign | OFT endorsement + advocacy | Issue 1 passes — Citizens Redistricting Commission created | 12 months |
+| 2024-10 | Issue 1 anti-gerrymandering campaign | OFT endorsement + advocacy | Issue 1 passes. Citizens Redistricting Commission created | 12 months |
 | 2025-06 | Franklin County court ruling | Legal coalition | Judge Jaiza Page rules EdChoice unconstitutional in 47-page decision | 18 months |
-| 2025-06 | Ohio biennial budget (FY2026-2027) | $580K political spending (FY2024) | Legislature allocates $2.44B for vouchers — 17% increase — despite court ruling | 0 |
-| 2025-10 | FY2025 voucher spending report | — | Ohio spent $1B+ on vouchers in FY2025; $492.8M from EdChoice Expansion alone | — |
-| 2026-02 | HB 671 (retaliatory bill) | — | Rep. Jamie Callender introduces bill to strip state funding from 300+ districts challenging vouchers in court | 8 months |
+| 2025-06 | Ohio biennial budget (FY2026-2027) | $580K political spending (FY2024) | Legislature allocates $2.44B for vouchers, 17% increase, despite court ruling | 0 |
+| 2025-10 | FY2025 voucher spending report |, | Ohio spent $1B+ on vouchers in FY2025; $492.8M from EdChoice Expansion alone |, |
+| 2026-02 | HB 671 (retaliatory bill) |, | Rep. Jamie Callender introduces bill to strip state funding from 300+ districts challenging vouchers in court | 8 months |
 
 > [!money]
 > The timeline reveals labor's structural powerlessness in a Republican supermajority. OFT helped build the Vouchers Hurt Ohio coalition (300+ school districts) and won a constitutional ruling declaring EdChoice unconstitutional — and the legislature responded by increasing voucher spending to $2.44B and introducing legislation to punish districts that joined the lawsuit. The court victory is real but may prove pyrrhic: Republican legislators have signaled they will either appeal, modify the program to survive constitutional review, or simply defund districts that challenge them. OFT spent $580K on political activities in FY2024; the voucher program it opposes received $1B+ in the same fiscal year. That's a 1,700:1 spending ratio — public money flowing to private schools vs. the union budget fighting to stop it.
 
-**The one win: Issue 1 (2024) — redistricting reform.** OFT endorsed and advocated for the Citizens Not Politicians ballot measure, which passed and created a Citizens Redistricting Commission to replace the gerrymandered maps that gave Republicans their supermajority. If implemented, redistricting reform could eventually weaken the supermajority that expanded vouchers — but the timeline is years, not months, and Republican legal challenges to the commission's authority are already underway.
+**The one win: Issue 1 (2024), redistricting reform.** OFT endorsed and advocated for the Citizens Not Politicians ballot measure, which passed and created a Citizens Redistricting Commission to replace the gerrymandered maps that gave Republicans their supermajority. If implemented, redistricting reform could eventually weaken the supermajority that expanded vouchers, but the timeline is years, not months, and Republican legal challenges to the commission's authority are already underway.
 
 ---
 
 ### Class Analysis
 
-The Ohio Federation of Teachers is a case study in the structural limits of public sector unionism under conditions of donor-class capture. OFT's 14,749 members — teachers, professors, school staff — perform the essential public function of education. Their union spends $580K per year on political activities to defend public education funding. The forces arrayed against them spend billions.
+The Ohio Federation of Teachers is a case study in the structural limits of public sector unionism under conditions of donor-class capture. OFT's 14,749 members, teachers, professors, school staff, perform the essential public function of education. Their union spends $580K per year on political activities to defend public education funding. The forces arrayed against them spend billions.
 
-The voucher expansion is not an education policy — it is a wealth transfer mechanism. Ohio's EdChoice program redirects over $1 billion annually from public school budgets (funded by property taxes and state allocations) to private schools, many of which are religious institutions with no accountability requirements comparable to public schools. The beneficiaries: private school operators, religious institutions, and upper-income families who were already paying private school tuition and now receive public subsidies. The losers: public school students in the urban districts where OFT's members work — Cincinnati, Cleveland, Toledo — where every diverted dollar means larger class sizes, fewer support staff, and deteriorating facilities.
+The voucher expansion is not an education policy, it is a wealth transfer mechanism. Ohio's EdChoice program redirects over $1 billion annually from public school budgets (funded by property taxes and state allocations) to private schools, many of which are religious institutions with no accountability requirements comparable to public schools. The beneficiaries: private school operators, religious institutions, and upper-income families who were already paying private school tuition and now receive public subsidies. The losers: public school students in the urban districts where OFT's members work. Cincinnati, Cleveland, Toledo, where every diverted dollar means larger class sizes, fewer support staff, and deteriorating facilities.
 
-The class dynamics are explicit. The DeVos family, the Walton Foundation, and conservative dark money networks have spent decades building the intellectual and political infrastructure for school privatization. Ohio's Republican supermajority — funded by these same donor networks — delivered universal vouchers in 2023. OFT's response (coalition-building, litigation, political advocacy) has produced symbolic victories (court rulings, ballot measure wins) but no structural reversal of the privatization trend. The $2.44B voucher budget for 2026-2027 is the donor class's answer to OFT's $580K political operation.
+The class dynamics are explicit. The DeVos family, the Walton Foundation, and conservative dark money networks have spent decades building the intellectual and political infrastructure for school privatization. Ohio's Republican supermajority, funded by these same donor networks, delivered universal vouchers in 2023. OFT's response (coalition-building, litigation, political advocacy) has produced symbolic victories (court rulings, ballot measure wins) but no structural reversal of the privatization trend. The $2.44B voucher budget for 2026-2027 is the donor class's answer to OFT's $580K political operation.
 
-The deeper pattern: OFT represents workers who serve the public. The donor class that funds Ohio Republicans profits from privatizing what those workers do. The union's political spending cannot compete with the structural advantages of a donor class that has already captured the legislature, because the legislature controls the budget that funds the schools that employ OFT's members. The circular trap — public workers fighting for public funding against politicians funded by the private interests that benefit from defunding public services — is the defining dynamic of public sector unionism in red-state America.
+The deeper pattern: OFT represents workers who serve the public. The donor class that funds Ohio Republicans profits from privatizing what those workers do. The union's political spending cannot compete with the structural advantages of a donor class that has already captured the legislature, because the legislature controls the budget that funds the schools that employ OFT's members. The circular trap, public workers fighting for public funding against politicians funded by the private interests that benefit from defunding public services, is the defining dynamic of public sector unionism in red-state America.
 
 > [!contradiction]
 > Ohio's Republican supermajority passed the Fair School Funding Plan in 2021 — a bipartisan formula that would have adequately funded public schools — and then refused to fully fund it while simultaneously expanding universal vouchers to $2.44B. The same legislature that agreed public schools needed more money chose to redirect that money to private schools instead. The contradiction resolves when you follow the money: public school funding serves students and teachers; voucher funding serves the privatization donor class. The legislature chose its donors over its own legislation.

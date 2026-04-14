@@ -2,7 +2,7 @@
 title: "Bryan Steil"
 type: politician
 content-readiness: ready
-central-thesis: "Bryan Steil chairs the committee that writes federal election law — and his top donor sector is securities and investment ($721,840 in 2023-2024 alone), with Blackstone Group as a top individual donor ($56,500). Wall Street banks (Wells Fargo, Mor..."
+central-thesis: "Bryan Steil chairs the committee that writes federal election law , and his top donor sector is securities and investment ($721,840 in 2023-2024 alone), with Blackstone Group as a top individual donor ($56,500). Wall Street banks (Wells Fargo, Mor..."
 last-updated: 2026-04-13
 source-tier: 1
 parent: null
@@ -45,19 +45,19 @@ donors: [[Koch Network - Charles Koch|Koch Network]]
 
 ## Who They Are
 
-Bryan Steil represents Wisconsin's 1st Congressional District (southeast Wisconsin — Janesville, Racine, Kenosha) and chairs the House Administration Committee — the committee with jurisdiction over federal election law, campaign finance, House operations, FEC oversight, contested elections, and the Capitol complex. He also serves on the Financial Services Committee.
+Bryan Steil represents Wisconsin's 1st Congressional District (southeast Wisconsin. Janesville, Racine, Kenosha) and chairs the House Administration Committee, the committee with jurisdiction over federal election law, campaign finance, House operations, FEC oversight, contested elections, and the Capitol complex. He also serves on the Financial Services Committee.
 
 Steil is Paul Ryan's protégé and successor. He worked as an aide to Ryan in 2003, then spent a decade in Wisconsin manufacturing as a corporate attorney for Regal Beloit (electric motors) and Charter NEX Film (plastics) before winning Ryan's seat when Ryan retired as Speaker in 2018. He holds a JD from the University of Wisconsin and a BS in business from Georgetown.
 
-The House Administration Committee is often called "the Mayor of Capitol Hill" — it runs the House's internal operations. But its jurisdiction over federal election law makes it the most consequential committee for democratic infrastructure: who can vote, how they vote, how campaigns are financed, and how elections are administered.
+The House Administration Committee is often called "the Mayor of Capitol Hill", it runs the House's internal operations. But its jurisdiction over federal election law makes it the most consequential committee for democratic infrastructure: who can vote, how they vote, how campaigns are financed, and how elections are administered.
 
 ---
 
 ## The Central Thesis
 
-Bryan Steil chairs the committee that writes federal election law — and his top donor sector is securities and investment ($721,840 in 2023-2024 alone), with Blackstone Group as a top individual donor ($56,500). Wall Street banks (Wells Fargo, Morgan Stanley, Citigroup, BMO) and major corporations (Comcast, Deloitte, Koch Industries) all gave maximum PAC contributions. The committee that governs how money flows into elections is chaired by a congressman funded by the financial industry that benefits most from the current campaign finance system.
+Bryan Steil chairs the committee that writes federal election law, and his top donor sector is securities and investment ($721,840 in 2023-2024 alone), with Blackstone Group as a top individual donor ($56,500). Wall Street banks (Wells Fargo, Morgan Stanley, Citigroup, BMO) and major corporations (Comcast, Deloitte, Koch Industries) all gave maximum PAC contributions. The committee that governs how money flows into elections is chaired by a congressman funded by the financial industry that benefits most from the current campaign finance system.
 
-Steil's election reform agenda — the "Make Elections Great Again" (MEGA) Act — would require photo ID to vote, ban ranked choice voting, ban ballot harvesting, ban universal vote-by-mail, and require mail-in ballots to arrive by Election Day. These provisions disproportionately restrict voting access for demographics that lean Democratic. The man funded by Wall Street is writing the rules for who gets to vote — and his rules make it harder for the people most likely to vote against Wall Street's preferred candidates.
+Steil's election reform agenda, the "Make Elections Great Again" (MEGA) Act, would require photo ID to vote, ban ranked choice voting, ban ballot harvesting, ban universal vote-by-mail, and require mail-in ballots to arrive by Election Day. These provisions disproportionately restrict voting access for demographics that lean Democratic. The man funded by Wall Street is writing the rules for who gets to vote, and his rules make it harder for the people most likely to vote against Wall Street's preferred candidates.
 
 ---
 
@@ -88,7 +88,7 @@ Steil's election reform agenda — the "Make Elections Great Again" (MEGA) Act �
 5. Misc manufacturing
 
 ### Key Organizational Contributors:
-1. Blackstone Group ($56,500 — 2023-2024)
+1. Blackstone Group ($56,500, 2023-2024)
 2. [[Wells Fargo]], Morgan Stanley, Citigroup, BMO (max PAC donations)
 3. Koch Industries (max PAC donation)
 4. Comcast, Deloitte (max PAC donations)
@@ -104,22 +104,22 @@ Steil's election reform agenda — the "Make Elections Great Again" (MEGA) Act �
 ### Pipeline: Wall Street → Campaign Finance / Election Law
 | Date | Type | Event | Donor | Amount | Gap |
 |------|------|-------|-------|--------|-----|
-| 2019-2024 | DONATION | Career Wall Street contributions (securities, banking, insurance) | Financial sector | Top sector | — |
-| 2023 | ROLE | Named House Administration Committee Chair | — | — | — |
-| 2023-2024 | DONATION | $721,840 from securities & investment in single cycle | Wall Street | $721K | — |
-| 2024 | ← POLICY | Launches ActBlue investigation (Democratic donation platform) — does NOT investigate Republican fundraising platforms | — | — | — |
-| 2025 | ← POLICY | American Confidence in Elections Act — "most conservative election integrity bill in 20 years" | — | — | — |
-| 2026 | ← POLICY | MEGA Act — photo ID, ban ranked choice voting, ban ballot harvesting, ban universal mail voting | — | — | — |
-| 2026 | ← NOTE | Wall Street funds the chair who writes election rules. The rules restrict voting access for demographics hostile to Wall Street's preferred candidates. The financial industry's campaign donations protect the campaign finance system that allows the financial industry to donate. | — | — | — |
+| 2019-2024 | DONATION | Career Wall Street contributions (securities, banking, insurance) | Financial sector | Top sector |, |
+| 2023 | ROLE | Named House Administration Committee Chair |, |, |, |
+| 2023-2024 | DONATION | $721,840 from securities & investment in single cycle | Wall Street | $721K |, |
+| 2024 | ← POLICY | Launches ActBlue investigation (Democratic donation platform), does NOT investigate Republican fundraising platforms |, |, |, |
+| 2025 | ← POLICY | American Confidence in Elections Act, "most conservative election integrity bill in 20 years" |, |, |, |
+| 2026 | ← POLICY | MEGA Act, photo ID, ban ranked choice voting, ban ballot harvesting, ban universal mail voting |, |, |, |
+| 2026 | ← NOTE | Wall Street funds the chair who writes election rules. The rules restrict voting access for demographics hostile to Wall Street's preferred candidates. The financial industry's campaign donations protect the campaign finance system that allows the financial industry to donate. |, |, |, |
 
 ### Pipeline: Paul Ryan → Succession → Institutional Power
 | Date | Type | Event | Donor | Amount | Gap |
 |------|------|-------|-------|--------|-----|
-| 2003 | CAREER | Steil works as aide to Paul Ryan | — | — | — |
-| 2018 | SUCCESSION | Ryan retires as Speaker; Steil wins Ryan's seat | — | — | 15 years |
-| 2023 | ROLE | Steil named House Administration Chair — institutional power over election law | — | — | 5 years |
-| 2025-2026 | ← POLICY | Uses chairmanship to write election rules that advantage Republican candidates | — | — | — |
-| 2026 | ← NOTE | Ryan's protégé now controls the committee that writes the rules of American democracy. The succession wasn't just a seat — it was an institutional pipeline from Speaker's office to election-law gavel. | — | — | — |
+| 2003 | CAREER | Steil works as aide to Paul Ryan |, |, |, |
+| 2018 | SUCCESSION | Ryan retires as Speaker; Steil wins Ryan's seat |, |, | 15 years |
+| 2023 | ROLE | Steil named House Administration Chair, institutional power over election law |, |, | 5 years |
+| 2025-2026 | ← POLICY | Uses chairmanship to write election rules that advantage Republican candidates |, |, |, |
+| 2026 | ← NOTE | Ryan's protégé now controls the committee that writes the rules of American democracy. The succession wasn't just a seat, it was an institutional pipeline from Speaker's office to election-law gavel. |, |, |, |
 
 ---
 
@@ -135,23 +135,23 @@ Steil is Paul Ryan's protege and successor. He worked as Ryan's aide in 2003, sp
 
 ## Analytical Patterns
 
-**Donor-Class Override (systemic):** Steil's Wall Street funding doesn't override his constituents' interests on a single policy issue — it overrides democratic infrastructure itself. The election laws his committee writes determine who votes, how campaigns are financed, and which candidates are viable. When Wall Street funds the election-law chairman, it's not buying a vote on banking regulation. It's buying influence over the rules of the game that determine every other policy outcome.
+**Donor-Class Override (systemic):** Steil's Wall Street funding doesn't override his constituents' interests on a single policy issue, it overrides democratic infrastructure itself. The election laws his committee writes determine who votes, how campaigns are financed, and which candidates are viable. When Wall Street funds the election-law chairman, it's not buying a vote on banking regulation. It's buying influence over the rules of the game that determine every other policy outcome.
 
-**Both-Sides Illusion (campaign finance):** Steil investigates ActBlue (Democratic donation platform) while his own campaign accepts maximum PAC donations from Wall Street. The investigation implies that one party's fundraising is suspect while the other's is legitimate — when both parties operate within the same campaign finance system that both parties' committee members protect from fundamental reform.
+**Both-Sides Illusion (campaign finance):** Steil investigates ActBlue (Democratic donation platform) while his own campaign accepts maximum PAC donations from Wall Street. The investigation implies that one party's fundraising is suspect while the other's is legitimate, when both parties operate within the same campaign finance system that both parties' committee members protect from fundamental reform.
 
-**Revolving Door (institutional succession):** Steil didn't revolve between government and industry in the traditional sense. He inherited a congressional seat and an institutional power pipeline from Paul Ryan — the former Speaker who was himself a champion of deregulation and Wall Street-friendly policy. The Ryan-to-Steil succession ensures continuity of the institutional relationship between the Wisconsin 1st seat and the financial industry donor network.
+**Revolving Door (institutional succession):** Steil didn't revolve between government and industry in the traditional sense. He inherited a congressional seat and an institutional power pipeline from Paul Ryan, the former Speaker who was himself a champion of deregulation and Wall Street-friendly policy. The Ryan-to-Steil succession ensures continuity of the institutional relationship between the Wisconsin 1st seat and the financial industry donor network.
 
-**Genuine Win + Structural Limit:** Steil's election security provisions — CVV verification for online donations, FEC fine enforcement — address real vulnerabilities in the campaign finance system. The structural limit: these technical fixes coexist with a broader election law agenda (voter ID, mail-in ballot restrictions, ranked choice voting bans) that restricts voting access rather than expanding it.
+**Genuine Win + Structural Limit:** Steil's election security provisions. CVV verification for online donations, FEC fine enforcement, address real vulnerabilities in the campaign finance system. The structural limit: these technical fixes coexist with a broader election law agenda (voter ID, mail-in ballot restrictions, ranked choice voting bans) that restricts voting access rather than expanding it.
 
 ---
 
 ## Rhetorical Signature Moves
 
-**"Election integrity"** — The framing that makes voting restrictions sound like misconduct prevention. The function: position restrictions on who can vote as protection of the vote's value rather than suppression of eligible voters.
+**"Election integrity"**. The framing that makes voting restrictions sound like misconduct prevention. The function: position restrictions on who can vote as protection of the vote's value rather than suppression of eligible voters.
 
-**"Make Elections Great Again"** — The Trump-branded election law package. The function: align election law changes with the MAGA movement's narrative that elections are rigged, justifying restrictions as corrections.
+**"Make Elections Great Again"**. The Trump-branded election law package. The function: align election law changes with the MAGA movement's narrative that elections are rigged, justifying restrictions as corrections.
 
-**"Secure our elections"** — The security framing for campaign finance investigations. The function: make ActBlue investigations sound like cybersecurity protection rather than partisan opposition research.
+**"Secure our elections"**. The security framing for campaign finance investigations. The function: make ActBlue investigations sound like cybersecurity protection rather than partisan opposition research.
 
 ---
 
@@ -159,7 +159,7 @@ Steil is Paul Ryan's protege and successor. He worked as Ryan's aide in 2003, sp
 
 - [FEC Candidate: Bryan Steil donor profile](https://www.fec.gov/data/candidate/H8WI01156/) (Tier 1) (VERIFIED)
 - [FEC Candidate: Bryan Steil industry donors](https://www.fec.gov/data/candidate/H8WI01156/) (Tier 1) (VERIFIED)
-- ~~[Congress.gov: Bryan Steil](https://www.congress.gov/member/bryan-steil/S001213)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Bryan Steil](https://www.congress.gov/member/bryan-steil/S001213)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [House Administration Committee: Meet the Chairman](https://cha.house.gov/meet-the-chairman) (Tier 1) (VERIFIED)
 - [House.gov: Steil introduces MEGA Act election reform package](https://steil.house.gov/media/press-releases/steil-introduces-election-reform-package) (Tier 1) (VERIFIED)
 - [House Administration: American Confidence in Elections Act](https://cha.house.gov/press-releases?ContentRecord_id=5379E658-0B3B-4FB9-8B02-281F6A927D73) (Tier 1) (VERIFIED)

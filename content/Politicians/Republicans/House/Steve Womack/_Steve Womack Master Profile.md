@@ -1,5 +1,5 @@
 ---
-title: "Steve Womack Master Profile"
+title: "Steve Womack"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

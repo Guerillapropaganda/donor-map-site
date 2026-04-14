@@ -1,5 +1,5 @@
 ---
-title: "Maxwell Frost Master Profile"
+title: "Maxwell Frost"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

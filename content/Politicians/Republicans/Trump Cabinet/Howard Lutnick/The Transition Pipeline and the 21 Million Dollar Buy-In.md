@@ -29,13 +29,13 @@ Lutnick and [[_Scott Bessent Master Profile|Scott Bessent]] were the final two c
 - **Team Lutnick:** [[Elon Musk|Elon Musk]] (called Bessent "business-as-usual"), tech-crypto-billionaire faction
 - **Team Bessent:** Jamie Dimon, David Bass, traditional Wall Street finance faction
 
-Musk publicly lobbied for Lutnick: "Lutnick will actually enact change." Trump chose Bessent for Treasury (confirmed 68-29) and gave Lutnick Commerce (confirmed 51-45 — much narrower). But Commerce controls tariff enforcement — arguably more operational leverage than Treasury in an administration built on trade war.
+Musk publicly lobbied for Lutnick: "Lutnick will actually enact change." Trump chose Bessent for Treasury (confirmed 68-29) and gave Lutnick Commerce (confirmed 51-45, much narrower). But Commerce controls tariff enforcement, arguably more operational leverage than Treasury in an administration built on trade war.
 
 ---
 
 ### The Transition Pipeline
 
-As co-chair of the transition team (August 2024), Lutnick directed personnel selection across the entire government — including the agencies that regulate his own financial empire. The transition co-chair selects the people who will oversee the policies that affect his wealth. The Commerce Secretary then implements those policies directly.
+As co-chair of the transition team (August 2024), Lutnick directed personnel selection across the entire government, including the agencies that regulate his own financial empire. The transition co-chair selects the people who will oversee the policies that affect his wealth. The Commerce Secretary then implements those policies directly.
 
 > [!money]
 > The pipeline: $21M in contributions → transition co-chair (personnel selection power) → Commerce Secretary (policy implementation power) → White House ethics waiver (conflict-of-interest license) → family firm profits from every policy decision. Each step builds on the last. The donations purchased the transition role. The transition role purchased the nomination. The nomination came with a government-issued permission slip to profit from the position. Total cost: $21M. Declared assets in the relevant sectors: $800M+. Return on investment: incalculable, because the Commerce Secretary sets the terms of his own return.

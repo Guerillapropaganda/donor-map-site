@@ -1,5 +1,5 @@
 ---
-title: "Jeff Hurd Master Profile"
+title: "Jeff Hurd"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

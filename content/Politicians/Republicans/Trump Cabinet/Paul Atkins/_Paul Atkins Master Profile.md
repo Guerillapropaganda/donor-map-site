@@ -1,5 +1,5 @@
 ---
-title: "Paul Atkins Master Profile"
+title: "Paul Atkins"
 type: politician
 content-readiness: draft
 last-updated: '2026-04-09'
@@ -28,15 +28,15 @@ known-gaps:
 
 Paul Atkins. Chair of the U.S. Securities and Exchange Commission, sworn in April 22, 2025, replacing Gary Gensler. Previously served as SEC Commissioner from 2002 to 2008 under President George W. Bush. Founded Patomak Global Advisors (financial regulation consulting firm) in 2009. Nominated by Donald Trump in December 2024; confirmed by the Senate in April 2025.
 
-Atkins is documented extensively in [[Fairshake PAC]] as the central figure of the 2025 SEC Enforcement Collapse — the near-complete dismantling of SEC crypto enforcement that constitutes, per the vault's analysis, the single highest-value return on Fairshake's $195M 2024 spending.
+Atkins is documented extensively in [[Fairshake PAC]] as the central figure of the 2025 SEC Enforcement Collapse, the near-complete dismantling of SEC crypto enforcement that constitutes, per the vault's analysis, the single highest-value return on Fairshake's $195M 2024 spending.
 
 ---
 
 ## The Central Thesis
 
-*Stub — needs full development.*
+*Stub, needs full development.*
 
-Atkins is the regulatory end of the crypto industry's 2024 political investment. Fairshake PAC spent approximately $195M in the 2024 election cycle. The Trump administration installed Atkins as SEC Chair in April 2025. Within months, the SEC dismissed lawsuits against Coinbase, Binance, Kraken, Gemini, Uniswap, Yuga Labs, and Ripple — including cases where courts had already ruled in the SEC's favor. 2025 enforcement actions dropped to 13 (from 33 in 2024), a 60% decline. Total 2025 penalties: $142M (less than 3% of 2024). Atkins is the human instrument of the "direct causation" pattern the vault documents between crypto spending and regulatory outcomes.
+Atkins is the regulatory end of the crypto industry's 2024 political investment. Fairshake PAC spent approximately $195M in the 2024 election cycle. The Trump administration installed Atkins as SEC Chair in April 2025. Within months, the SEC dismissed lawsuits against Coinbase, Binance, Kraken, Gemini, Uniswap, Yuga Labs, and Ripple, including cases where courts had already ruled in the SEC's favor. 2025 enforcement actions dropped to 13 (from 33 in 2024), a 60% decline. Total 2025 penalties: $142M (less than 3% of 2024). Atkins is the human instrument of the "direct causation" pattern the vault documents between crypto spending and regulatory outcomes.
 
 ---
 

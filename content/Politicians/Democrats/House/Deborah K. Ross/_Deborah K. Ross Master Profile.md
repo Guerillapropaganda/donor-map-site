@@ -1,5 +1,5 @@
 ---
-title: "Deborah K. Ross Master Profile"
+title: "Deborah K. Ross"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

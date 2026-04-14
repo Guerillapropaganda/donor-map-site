@@ -1,5 +1,5 @@
 ---
-title: "Sarah McBride Master Profile"
+title: "Sarah McBride"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

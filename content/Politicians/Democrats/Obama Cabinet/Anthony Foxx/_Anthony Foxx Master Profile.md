@@ -1,5 +1,5 @@
 ---
-title: "Anthony Foxx Master Profile"
+title: "Anthony Foxx"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

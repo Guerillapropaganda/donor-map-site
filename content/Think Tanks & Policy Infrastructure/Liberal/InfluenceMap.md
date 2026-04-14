@@ -39,7 +39,7 @@ The U.S. entity (Influencemap Inc) reported $1.16M in revenue. The UK parent is 
 
 ### What They Want
 
-InfluenceMap does not engage in direct lobbying or endorse candidates. Its function is exposure — quantifying the gap between corporate climate rhetoric and corporate climate lobbying. It scores companies on an A+ to F scale for climate policy engagement. Its analyses have been referenced by the IPCC, UN, and EU regulatory bodies. In the context of this vault, InfluenceMap is a counter-power institution: it generates the data that environmental groups, investors, and regulators use to hold fossil fuel companies and trade associations accountable.
+InfluenceMap does not engage in direct lobbying or endorse candidates. Its function is exposure, quantifying the gap between corporate climate rhetoric and corporate climate lobbying. It scores companies on an A+ to F scale for climate policy engagement. Its analyses have been referenced by the IPCC, UN, and EU regulatory bodies. In the context of this vault, InfluenceMap is a counter-power institution: it generates the data that environmental groups, investors, and regulators use to hold fossil fuel companies and trade associations accountable.
 
 ---
 
@@ -66,7 +66,7 @@ InfluenceMap does not engage in direct lobbying or endorse candidates. Its funct
 InfluenceMap's Carbon Majors database update attributed 57% of global CO2 emissions since 2016 to just 80 fossil fuel producers. Its 2024–2025 reports documented growing gaps between corporate climate pledges and actual lobbying behavior, particularly in the automotive and financial sectors. The organization has specifically documented how trade associations like AFPM, the American Petroleum Institute, and the U.S. Chamber of Commerce lobby against climate policy while their member companies make public sustainability pledges.
 
 ### Vault-relevant findings:
-- AFPM identified as one of the top obstructors of climate policy — a direct data point connecting the AFPM donor node to InfluenceMap's accountability work
+- AFPM identified as one of the top obstructors of climate policy, a direct data point connecting the AFPM donor node to InfluenceMap's accountability work
 - FinanceMap platform expanded to cover asset manager climate voting records
 - Climate Action 100+ benchmark methodology developed by InfluenceMap
 
@@ -74,11 +74,11 @@ InfluenceMap's Carbon Majors database update attributed 57% of global CO2 emissi
 
 ### Class Analysis
 
-InfluenceMap occupies a specific structural position in the political economy of climate: it produces the data that makes corporate climate hypocrisy legible. The A+ to F scoring system and the Carbon Majors database convert abstract lobbying activity into concrete, citable metrics that investors, regulators, and journalists can act on. Its effectiveness depends on maintaining methodological independence — which depends on philanthropic funding that doesn't come with conditions. The organization faces ongoing criticism from industry groups that characterize its methodology as biased, which is itself a data point about its effectiveness as an accountability mechanism.
+InfluenceMap occupies a specific structural position in the political economy of climate: it produces the data that makes corporate climate hypocrisy legible. The A+ to F scoring system and the Carbon Majors database convert abstract lobbying activity into concrete, citable metrics that investors, regulators, and journalists can act on. Its effectiveness depends on maintaining methodological independence, which depends on philanthropic funding that doesn't come with conditions. The organization faces ongoing criticism from industry groups that characterize its methodology as biased, which is itself a data point about its effectiveness as an accountability mechanism.
 
 ---
 
-### Financial Overview (990 Filing — 2023)
+### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
 
 | Metric | Amount |

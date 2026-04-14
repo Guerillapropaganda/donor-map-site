@@ -1,8 +1,8 @@
 ---
-title: "Bernie Sanders Master Profile"
+title: "Bernie Sanders"
 type: politician
 content-readiness: ready
-central-thesis: "Sanders is the vault's exception — the politician who built a funding model independent of the donor class and ran it at presidential scale. Twice. The exception proves the rule: the institutional Democratic Party mobilized every available mechani..."
+central-thesis: "Sanders is the vault's exception , the politician who built a funding model independent of the donor class and ran it at presidential scale. Twice. The exception proves the rule: the institutional Democratic Party mobilized every available mechani..."
 last-updated: 2026-04-13
 source-tier: 1
 parent: null
@@ -29,10 +29,10 @@ committees:
 former-committees:
   - "Budget (Chair, 118th Congress 2023–2025)"
 top-donors:
-  - "SEIU — Service Employees International Union"
-  - "CNA — California Nurses Association / National Nurses United"
-  - "Teamsters — International Brotherhood of Teamsters"
-  - "IBEW — International Brotherhood of Electrical Workers"
+  - "SEIU , Service Employees International Union"
+  - "CNA , California Nurses Association / National Nurses United"
+  - "Teamsters , International Brotherhood of Teamsters"
+  - "IBEW , International Brotherhood of Electrical Workers"
   - "Small-dollar individual donors (8.7M unique donations in 2020, avg $19–21)"
 source-types:
   - FEC
@@ -42,7 +42,7 @@ reenrich-reason: "Congress + GovTrack enrichment never populated; bioguide-id S0
 known-gaps:
   - "Congress.gov legislative record not yet populated (bioguide-id S000033 added 2026-04-10; awaits next pipeline run)"
   - "GovTrack voting record not yet populated (awaits pipeline run)"
-  - "FEC auto-block shows cycle 2006 with $4,189 raised — stale data; 2016 presidential ($237M) and 2020 presidential ($250M+) cycles not yet surfaced in auto-block"
+  - "FEC auto-block shows cycle 2006 with $4,189 raised , stale data; 2016 presidential ($237M) and 2020 presidential ($250M+) cycles not yet surfaced in auto-block"
   - "Sub-notes (Anti-Donor Model, Medicare for All, AIPAC Progressive Purge, Senate Labor Record) referenced in body but not yet linked as sub-profiles"
 related: "[[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Rashida Tlaib Master Profile|Tlaib]] · [[_Ilhan Omar Master Profile|Omar]] · [[_Cori Bush Master Profile|Cori Bush]] · [[_Jamaal Bowman Master Profile|Jamaal Bowman]] · [[_Summer Lee Master Profile|Summer Lee]] · [[Justice Democrats and Brand New Congress - The Infrastructure He Built|Justice Democrats]] · [[CNA - California Nurses Association]] · [[SEIU - Service Employees International Union]] · [[Teamsters - International Brotherhood of Teamsters]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[AIPAC - American Israel Public Affairs Committee]] · [[DMFI - Democratic Majority for Israel]] · [[Koch Network - Charles Koch]] · [[Michael Bloomberg]] · [[ActBlue]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[Blue Shield of California]]"
 opposes:
@@ -53,7 +53,7 @@ opposes:
 editorial-review-date: '2026-04-10'
 editorial-reviewer: "Research Claude"
 editorial-result: ready-candidate
-editorial-notes: "Depth review 2026-04-10. BODY IS EXCEPTIONAL — arguably the strongest class analysis narrative in the vault. 'Exception that proves the rule' framing is the vault's canonical anti-donor case study. Four analytical patterns documented (Small-Dollar Model + Structural Limit, Two-Audience Problem / Sheepdog Function, ActBlue Dependency, Billionaire-Class vs Party-as-Institution Villain Framing). Body not touched in this pass. FIXED (Research Claude): party Democrat→Independent with caucus: Democratic (he's the longest-serving Independent in Congress, this was a factual error), added bioguide-id S000033 (enables Congress pipeline), expanded issues list from 1 to 9 entries, added committees + former-committees (HELP Ranking Member, Budget Chair 118th), expanded top-donors to include small-dollar model, structured opposes field, expanded related wikilinks to include Squad members and anti-donor coalition, cleaned known-gaps (removed factually-wrong 'No mapped relationships' — 17 wikilinks exist). REMOVED: body inline dataview 'donors: [[...]]' line per frontmatter-only rule. REMOVED: body inline dataview 'research-status:: ready' line. REMOVED: double '---' separator artifact. STAYS draft per tightened Vault Rules: known-gaps explicitly cite missing Congress.gov + GovTrack pipeline data, and stale FEC auto-block (shows 2006 cycle). Cannot promote to ready until pipeline repopulates with correct bioguide-driven enrichment. Flagged needs-reenrichment: true so next pipeline run picks him up. Once clean data lands, re-review for verified-candidate flag."
+editorial-notes: "Depth review 2026-04-10. BODY IS EXCEPTIONAL , arguably the strongest class analysis narrative in the vault. 'Exception that proves the rule' framing is the vault's canonical anti-donor case study. Four analytical patterns documented (Small-Dollar Model + Structural Limit, Two-Audience Problem / Sheepdog Function, ActBlue Dependency, Billionaire-Class vs Party-as-Institution Villain Framing). Body not touched in this pass. FIXED (Research Claude): party Democrat→Independent with caucus: Democratic (he's the longest-serving Independent in Congress, this was a factual error), added bioguide-id S000033 (enables Congress pipeline), expanded issues list from 1 to 9 entries, added committees + former-committees (HELP Ranking Member, Budget Chair 118th), expanded top-donors to include small-dollar model, structured opposes field, expanded related wikilinks to include Squad members and anti-donor coalition, cleaned known-gaps (removed factually-wrong 'No mapped relationships' , 17 wikilinks exist). REMOVED: body inline dataview 'donors: [[...]]' line per frontmatter-only rule. REMOVED: body inline dataview 'research-status:: ready' line. REMOVED: double '---' separator artifact. STAYS draft per tightened Vault Rules: known-gaps explicitly cite missing Congress.gov + GovTrack pipeline data, and stale FEC auto-block (shows 2006 cycle). Cannot promote to ready until pipeline repopulates with correct bioguide-driven enrichment. Flagged needs-reenrichment: true so next pipeline run picks him up. Once clean data lands, re-review for verified-candidate flag."
 last-enriched: "2026-04-11"
 ---
 #sanders #master-profile #senator #independent #democratic-socialist #class-analysis #follow-the-money #vermont #labor #single-payer #medicare-for-all #small-dollar #anti-donor
@@ -64,13 +64,13 @@ last-enriched: "2026-04-11"
 
 Bernard Sanders. Born September 8, 1941, Brooklyn, New York. Independent (caucuses with Democrats). U.S. Senator from Vermont (2007–present). Former U.S. Representative (1991–2007). Former Mayor of Burlington, Vermont (1981–1989). 2016 and 2020 Democratic presidential candidate.
 
-The longest-serving independent in U.S. congressional history. Self-described democratic socialist. The politician who named the donor class as the enemy and built a funding model to prove it could be done differently — nearly half a billion dollars raised across two presidential campaigns with an average donation under $30 and zero corporate PAC money.
+The longest-serving independent in U.S. congressional history. Self-described democratic socialist. The politician who named the donor class as the enemy and built a funding model to prove it could be done differently, nearly half a billion dollars raised across two presidential campaigns with an average donation under $30 and zero corporate PAC money.
 
 ---
 
 ## The Central Thesis
 
-Sanders is the vault's exception — the politician who built a funding model independent of the donor class and ran it at presidential scale. Twice. The exception proves the rule: the institutional Democratic Party mobilized every available mechanism to ensure the anti-donor-class candidate lost and the donor-class-compatible candidate won. The 2020 consolidation (three candidates dropping out in 72 hours to endorse Biden) is the most visible example. The [[AIPAC - American Israel Public Affairs Committee|AIPAC]] primary purge of Sanders-aligned progressives ($23M+ to unseat Bowman and Bush) is the most recent.
+Sanders is the vault's exception, the politician who built a funding model independent of the donor class and ran it at presidential scale. Twice. The exception proves the rule: the institutional Democratic Party mobilized every available mechanism to ensure the anti-donor-class candidate lost and the donor-class-compatible candidate won. The 2020 consolidation (three candidates dropping out in 72 hours to endorse Biden) is the most visible example. The [[AIPAC - American Israel Public Affairs Committee|AIPAC]] primary purge of Sanders-aligned progressives ($23M+ to unseat Bowman and Bush) is the most recent.
 
 Sanders proved the alternative is possible. The donor class proved it has the institutional power to stop it. Both things are true simultaneously.
 
@@ -79,10 +79,10 @@ Sanders proved the alternative is possible. The donor class proved it has the in
 ## The Core Contradiction
 
 Sanders simultaneously:
-— Raised $487 million+ across two presidential campaigns from working-class donors
-— Proved that a major campaign can operate without corporate PACs, Super PACs, or bundlers
-— Lost both primaries to donor-class-funded candidates
-— Watched the Democratic Party adopt his rhetoric while rejecting his structural reforms
+, Raised $487 million+ across two presidential campaigns from working-class donors
+, Proved that a major campaign can operate without corporate PACs, Super PACs, or bundlers
+, Lost both primaries to donor-class-funded candidates
+, Watched the Democratic Party adopt his rhetoric while rejecting his structural reforms
 
 The contradiction is the vault's central question in reverse: if donors control politicians, what happens when a politician refuses donors? The answer: he shifts the debate, moves the Overton window, and loses. The PRO Act is co-sponsored and dead. Medicare for All is mainstream and impossible. $15 minimum wage is bipartisan language and still not federal law. Sanders changed what Democrats say. He did not change what the donor class allows them to do.
 
@@ -90,12 +90,12 @@ The contradiction is the vault's central question in reverse: if donors control 
 
 ## Donor Class Map
 
-Sanders doesn't have a donor class map in the traditional vault sense. He has an anti-donor map — the forces that opposed him and the alliance that supported him:
+Sanders doesn't have a donor class map in the traditional vault sense. He has an anti-donor map, the forces that opposed him and the alliance that supported him:
 
 **The Two Presidential Campaigns:** [[The Anti-Donor Model - Two Presidential Campaigns]]
 2016: $237M raised, avg $27, 2M+ donors, $0 corporate PAC. 2020: $250M+, avg $19-21, 8.7M donations, $0 corporate PAC. DNC machinery in 2016, three-day consolidation in 2020. Bloomberg's $500M moderate-lane placeholder. Obama's phone calls. The containment operation.
 
-**Medicare for All — The Policy That Broke the Party:** [[Medicare for All - The Policy That Broke the Party]]
+**Medicare for All. The Policy That Broke the Party:** [[Medicare for All - The Policy That Broke the Party]]
 S.1129 with 16 co-sponsors who all retreated. Harris, Warren, Booker co-sponsored when free, abandoned when real. Healthcare industry $745M+ annual federal lobbying. CNA/NNU: only union to endorse Sanders twice, ideological alliance not transactional. The co-sponsor retreat pattern as performative progressivism.
 
 **AIPAC and the Progressive Purge:** [[AIPAC and the Progressive Purge]]
@@ -115,17 +115,17 @@ Budget Committee: Amazon investigation, Walmart $6.2B taxpayer subsidy, Raise th
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
 | 2016-Q1 | 8.7M individual donors ($27 avg contribution, 2016 campaign) | $227M raised | 2015-2016 cycle | Medicare for All becomes centerpiece of Democratic primary; forces Clinton to adopt $15 minimum wage and TPP opposition |
-| 2020-Q1 | 8.7M individual donations ($19 avg contribution) | $167M raised | 2019-2020 cycle | Wins Nevada, New Hampshire — runs on Medicare for All, Green New Deal, $15 minimum wage; proves small-dollar model at presidential scale |
+| 2020-Q1 | 8.7M individual donations ($19 avg contribution) | $167M raised | 2019-2020 cycle | Wins Nevada, New Hampshire, runs on Medicare for All, Green New Deal, $15 minimum wage; proves small-dollar model at presidential scale |
 | 2023-2024 | Senate small-dollar donors + union support | $20M+ Senate cycle | 2023-2024 | Chairs Budget Committee; uses platform for Amazon investigation, Walmart worker subsidy hearing, Raise the Wage Act |
 
 #### Labor Union Alignment (Ideology → Endorsement, Not Reverse)
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2016-01 | National Nurses United (NNU) super PAC | $4.6M (96% of outside spending supporting Sanders) | 2016 cycle | Medicare for All — NNU's primary legislative demand — reflects Sanders's decades-long position. NNU endorsed him because he had championed it for years |
-| 2016-02 | Communications Workers of America (CWA) — endorsed after democratic member vote | $1M+ union infrastructure | 2016 cycle | TPP opposition included in Democratic Party platform; Sanders forces Clinton to adopt the position |
-| 2017-09 | NNU (renewed support) | Institutional support | 2017 | Sanders introduces S.1804 Medicare for All Act — reflects NNU agenda precisely; 15 Senate co-sponsors |
-| 2023-2024 | [[SEIU - Service Employees International Union|SEIU]], [[UFCW - United Food and Commercial Workers|UFCW]], [[Teamsters - International Brotherhood of Teamsters|Teamsters]], [[IBEW - International Brotherhood of Electrical Workers|IBEW]] | Ongoing union support | 2023-2024 | Budget Committee hearings: Amazon investigation, Walmart $6.2B taxpayer subsidy exposed, Raise the Wage Act — union agenda items delivered |
+| 2016-01 | National Nurses United (NNU) super PAC | $4.6M (96% of outside spending supporting Sanders) | 2016 cycle | Medicare for All. NNU's primary legislative demand, reflects Sanders's decades-long position. NNU endorsed him because he had championed it for years |
+| 2016-02 | Communications Workers of America (CWA), endorsed after democratic member vote | $1M+ union infrastructure | 2016 cycle | TPP opposition included in Democratic Party platform; Sanders forces Clinton to adopt the position |
+| 2017-09 | NNU (renewed support) | Institutional support | 2017 | Sanders introduces S.1804 Medicare for All Act, reflects NNU agenda precisely; 15 Senate co-sponsors |
+| 2023-2024 | [[SEIU - Service Employees International Union|SEIU]], [[UFCW - United Food and Commercial Workers|UFCW]], [[Teamsters - International Brotherhood of Teamsters|Teamsters]], [[IBEW - International Brotherhood of Electrical Workers|IBEW]] | Ongoing union support | 2023-2024 | Budget Committee hearings: Amazon investigation, Walmart $6.2B taxpayer subsidy exposed, Raise the Wage Act, union agenda items delivered |
 
 > [!money] The Counter-Model
 > Sanders's donor profile is structurally different from every other politician in this vault. The absence of corporate PAC money is verified and consistent across his career.
@@ -138,15 +138,15 @@ Budget Committee: Amazon investigation, Walmart $6.2B taxpayer subsidy, Raise th
 
 ## Rhetorical Signature Moves
 
-1. **The Class Frame:** Sanders names the enemy — "the billionaire class," "the corporate elite," "the oligarchy." No other major Democratic politician uses class language this directly. Newsom says "California values." Harris says "the future we can build." Sanders says "billionaires are buying elections." The directness is what makes him dangerous to the donor class and why the institutional party had to contain him.
+1. **The Class Frame:** Sanders names the enemy, "the billionaire class," "the corporate elite," "the oligarchy." No other major Democratic politician uses class language this directly. Newsom says "California values." Harris says "the future we can build." Sanders says "billionaires are buying elections." The directness is what makes him dangerous to the donor class and why the institutional party had to contain him.
 
-2. **The Litmus Test:** Sanders introduces legislation he knows will fail (PRO Act, Medicare for All, $17 minimum wage) specifically to create a public record of who supports structural change and who doesn't. The bill isn't the point — the vote (or non-vote) is the point. Every senator's position on the PRO Act is now documented. Every co-sponsor's retreat from Medicare for All is now visible.
+2. **The Litmus Test:** Sanders introduces legislation he knows will fail (PRO Act, Medicare for All, $17 minimum wage) specifically to create a public record of who supports structural change and who doesn't. The bill isn't the point, the vote (or non-vote) is the point. Every senator's position on the PRO Act is now documented. Every co-sponsor's retreat from Medicare for All is now visible.
 
-3. **The Pivot from Personal to Structural:** When attacked personally — "too old," "not a real Democrat," "can't win" — Sanders pivots to structural analysis. "It's not about me. It's about whether we're going to stand up to the billionaire class." The pivot denies the donor class its preferred frame (personality, electability) and forces the class frame (power, money, structural reform).
+3. **The Pivot from Personal to Structural:** When attacked personally, "too old," "not a real Democrat," "can't win". Sanders pivots to structural analysis. "It's not about me. It's about whether we're going to stand up to the billionaire class." The pivot denies the donor class its preferred frame (personality, electability) and forces the class frame (power, money, structural reform).
 
 4. **The Endorsement Refusal:** Sanders refused Super PAC support, refused corporate PAC money, refused bundler dinners. The refusal itself is the message: the alternative model exists. Every other candidate's acceptance of donor-class money becomes visible by contrast.
 
-5. **The Post-Loss Integration:** After losing both primaries, Sanders endorsed the Democratic nominee and campaigned for them. This is either strategic pragmatism (prevent Trump, maintain influence within the party) or the sheepdog function (channel insurgent energy back into the institution that defeated it). The vault doesn't resolve this — both analyses have evidence.
+5. **The Post-Loss Integration:** After losing both primaries, Sanders endorsed the Democratic nominee and campaigned for them. This is either strategic pragmatism (prevent Trump, maintain influence within the party) or the sheepdog function (channel insurgent energy back into the institution that defeated it). The vault doesn't resolve this, both analyses have evidence.
 
 ---
 
@@ -159,13 +159,13 @@ Budget Committee: Amazon investigation, Walmart $6.2B taxpayer subsidy, Raise th
 
 ---
 
-## Class Analysis — The Exception That Proves the Rule
+## Class Analysis. The Exception That Proves the Rule
 
-The vault's central thesis: donors control politicians. Sanders is the exception — and the exception proves the rule.
+The vault's central thesis: donors control politicians. Sanders is the exception, and the exception proves the rule.
 
 What Sanders proved: a presidential campaign can be funded by the working class. $487 million from 10+ million donations averaging under $30.
 
-What the donor class proved: the institutional Democratic Party will unify to prevent that model from winning. DNC structural advantages, media narrative-setting, coordinated candidate withdrawals, AIPAC primary spending — every mechanism was deployed.
+What the donor class proved: the institutional Democratic Party will unify to prevent that model from winning. DNC structural advantages, media narrative-setting, coordinated candidate withdrawals, AIPAC primary spending, every mechanism was deployed.
 
 The question for the vault: is there a path from "possible" to "victorious" that doesn't run through the institutions the donor class controls? Sanders showed the money can come from workers. He did not show how workers can overcome the institutional apparatus the donor class built with 50 years of investment.
 
@@ -181,16 +181,16 @@ Detailed sourcing is in each sub-note. Key sources for the master profile:
 - [Federal Election Commission: Candidate Filings](https://www.fec.gov/data/filings/) (Tier 1) (VERIFIED)
 - [AIPAC 2024 Election Spending](https://www.opensecrets.org/orgs/american-israel-public-affairs-cmte/summary?id=D000046963) (Tier 1) (VERIFIED)
 - [National Nurses United: Endorsements](https://www.nationalnursesunited.org/nnu-endorsements) (Tier 2) (VERIFIED)
-- NPR — "Hands Off!" rallies (1,400+ events), DOGE opposition (Tier 2)
-- PBS — Super Tuesday consolidation timeline (Tier 2)
-- Common Dreams — Average donation analysis ($27/$19) (Tier 2)
-- Morning Consult — Sanders 68% Vermont approval (2026) (Tier 2)
+- NPR, "Hands Off!" rallies (1,400+ events), DOGE opposition (Tier 2)
+- PBS. Super Tuesday consolidation timeline (Tier 2)
+- Common Dreams. Average donation analysis ($27/$19) (Tier 2)
+- Morning Consult. Sanders 68% Vermont approval (2026) (Tier 2)
 
 ---
 
 ### The Four Patterns in Sanders' Record
 
-#### 1. The Genuine Win + Structural Limit — Small-Dollar Model at Presidential Scale
+#### 1. The Genuine Win + Structural Limit. Small-Dollar Model at Presidential Scale
 
 Sanders proved what other politicians claimed impossible: a major presidential campaign funded entirely by working-class small donors.
 
@@ -199,12 +199,12 @@ Sanders proved what other politicians claimed impossible: a major presidential c
 
 This is a genuine structural achievement. The alternative funding model exists. It can be built at scale. It can fund a competitive presidential campaign.
 
-The structural limit: the alternative funding model cannot overcome the Democratic Party's institutional apparatus that the donor class built over 50 years. DNC machinery, media gatekeeping, coordinated candidate withdrawals, AIPAC primary spending — these aren't funding questions. They're institutional power questions that small-dollar models cannot answer.
+The structural limit: the alternative funding model cannot overcome the Democratic Party's institutional apparatus that the donor class built over 50 years. DNC machinery, media gatekeeping, coordinated candidate withdrawals, AIPAC primary spending, these aren't funding questions. They're institutional power questions that small-dollar models cannot answer.
 
 > [!money]
 > **The Sequence:** Sanders proved the money can come from workers. He did not prove workers can overcome the institutional apparatus the donor class controls. The 2020 consolidation (Buttigieg, Klobuchar, Bloomberg dropping out in 72 hours to endorse Biden) was not a funding problem — it was an institutional decision. Obama's phone calls, the DNC's procedural advantages, the media's narrative-setting — these operate independent of campaign fundraising. Sanders' $250M+ from workers could not overcome $500M from Bloomberg (placeholder function) + institutional party machinery + media dismissal.
 
-#### 2. The Two-Audience Problem — Revolutionary Rhetoric vs. Institutional Integration
+#### 2. The Two-Audience Problem. Revolutionary Rhetoric vs. Institutional Integration
 
 Sanders' stated position:
 - Revolution is necessary
@@ -221,7 +221,7 @@ Sanders' actual trajectory:
 
 **The Test:** If Sanders' integration were strategic pragmatism, his Senate record post-2020 would show escalating confrontation with Democratic leadership. Instead, his record (Budget Committee oversight, DOGE resistance, anti-Trump messaging) operates within Democratic Party framework, not against it. The revolutionaryintention may be genuine, but the institutional position has shifted toward integration.
 
-#### 3. The Pilot Program — [[ActBlue|ActBlue]] Dependency and Small-Dollar Infrastructure Limits
+#### 3. The Pilot Program, [[ActBlue|ActBlue]] Dependency and Small-Dollar Infrastructure Limits
 
 Sanders' fundraising runs through [[ActBlue|ActBlue]], the Democratic Party's small-dollar platform. This creates structural dependencies:
 
@@ -235,7 +235,7 @@ Sanders' fundraising runs through [[ActBlue|ActBlue]], the Democratic Party's sm
 >
 > The small-dollar model is real. It is not independent from Democratic Party infrastructure. Full independence would require building alternative fundraising platforms, email lists, and payment infrastructure outside Democratic Party control. Sanders has not done this. After losing, he could have used his 8.7M donor list to build independent infrastructure. He did not. The choice to remain within Democratic Party structures rather than build outside them defines the limit of the model's challenge to the system.
 
-#### 4. The Villain Framing — Billionaire Class as External Enemy Rather Than Party-as-Institution
+#### 4. The Villain Framing. Billionaire Class as External Enemy Rather Than Party-as-Institution
 
 Sanders' rhetoric frames opposition as:
 - "The billionaire class" (Musk, Adelson, Bloomberg, Koch)

@@ -1,5 +1,5 @@
 ---
-title: "Scott H. Peters Master Profile"
+title: "Scott H. Peters"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

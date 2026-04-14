@@ -78,7 +78,7 @@ Paul's libertarian media presence, frequent television appearances, the Senate f
 
 - [OpenSecrets: Rand Paul career contributors](https://www.opensecrets.org/members-of-congress/contributors?cid=N00030836&cycle=CAREER) (Tier 1) (VERIFIED)
 - [OpenSecrets: Koch Industries PAC contributions to federal candidates](https://www.opensecrets.org/orgs/koch-industries/recipients?id=D000000186) (Tier 1) (VERIFIED)
-- ~~[CNN Money: Rand Paul first presidential candidate to accept Bitcoin](https://money.cnn.com/2015/04/07/technology/rand-paul-bitcoin/index.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[CNN Money: Rand Paul first presidential candidate to accept Bitcoin](https://money.cnn.com/2015/04/07/technology/rand-paul-bitcoin/index.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Newsweek: Rand Paul's campaign will accept Bitcoin](https://www.newsweek.com/yes-rand-pauls-campaign-will-accept-bitcoin-320479) (Tier 2) (VERIFIED)
 - [WBUR Cognoscenti: Bitcoin and campaign finance loopholes](https://www.wbur.org/cognoscenti/2015/04/17/virtual-currency-in-politics-renee-loth) (Tier 2) (VERIFIED)
 - [Wikipedia: Political activities of the Koch brothers](https://en.wikipedia.org/wiki/Political_activities_of_the_Koch_brothers) (Tier 3) (VERIFIED)

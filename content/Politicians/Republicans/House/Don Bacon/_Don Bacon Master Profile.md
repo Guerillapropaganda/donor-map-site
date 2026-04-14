@@ -1,5 +1,5 @@
 ---
-title: "Don Bacon Master Profile"
+title: "Don Bacon"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

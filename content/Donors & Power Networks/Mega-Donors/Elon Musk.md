@@ -55,7 +55,7 @@ audit-a-plus-passed: "2026-04-11"
 
 Elon Reeve Musk. Born June 28, 1971, Pretoria, South Africa. CEO of Tesla, SpaceX (merged with xAI, February 2026). Owner of X (formerly Twitter). Former head of DOGE (Department of Government Efficiency, January–May 2025).
 
-Net worth trajectory: $400B (December 2024) → $500B (October 2025) → $700B (December 2025) → $676–900B (March 2026). Bloomberg conservative estimate: $676B. Forbes: ~$852B. Oxfam analysis: approaching $900B, roughly $200B from becoming the world's first trillionaire. His wealth exceeds the GDP of all but ~20 countries. ~~[Source: ~~[Bloomberg Billionaires Index](https://www.bloomberg.com/billionaires/profiles/elon-r-musk/)~~ (was Tier 1 — URL broken, archived by Ops)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1); [Investormint: Elon Musk's Net Worth 2026](https://investormint.com/investing/elon-musk-net-worth) (Tier 2) (VERIFIED)]
+Net worth trajectory: $400B (December 2024) → $500B (October 2025) → $700B (December 2025) → $676–900B (March 2026). Bloomberg conservative estimate: $676B. Forbes: ~$852B. Oxfam analysis: approaching $900B, roughly $200B from becoming the world's first trillionaire. His wealth exceeds the GDP of all but ~20 countries. ~~[Source: ~~[Bloomberg Billionaires Index](https://www.bloomberg.com/billionaires/profiles/elon-r-musk/)~~ (was Tier 1. URL broken, archived by Ops)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1); [Investormint: Elon Musk's Net Worth 2026](https://investormint.com/investing/elon-musk-net-worth) (Tier 2) (VERIFIED)]
 
 Born in Pretoria during apartheid. Father Errol Musk: partial owner of an emerald mine. Extent of family wealth disputed. The origin matters less than the current class position: the wealthiest person in human history, who ran the government agencies regulating his own companies, feuded publicly with the president he bought, and is now actively intervening in foreign elections.
 
@@ -158,7 +158,7 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]]: DOGE target
 
 ### The SpaceX-xAI Merger, $1.25 Trillion
 
-February 2, 2026: SpaceX and xAI merged into the most valuable private company in history. SpaceX valued at $1 trillion, xAI at $250 billion. Combined entity: $1.25 trillion. Musk holds ~43% ownership stake. ~~[Source: [CNBC: SpaceX-xAI merger](https://web.archive.org/web/2026/https:/www.cnbc.com/2026/02/02/spacex-xai-merger.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)]
+February 2, 2026: SpaceX and xAI merged into the most valuable private company in history. SpaceX valued at $1 trillion, xAI at $250 billion. Combined entity: $1.25 trillion. Musk holds ~43% ownership stake. ~~[Source: [CNBC: SpaceX-xAI merger](https://web.archive.org/web/2026/https:/www.cnbc.com/2026/02/02/spacex-xai-merger.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)]
 
 **xAI infrastructure:** Colossus supercomputer in Memphis (former Electrolux factory, Boxtown district). Colossus 2 online January 2026. $659 million expansion for 312,000 sq ft building. 2GW compute target. Southaven, Mississippi facility: 1 million GPU target by 2026. Uses wastewater for cooling.
 
@@ -287,7 +287,7 @@ OBBBA terminated IRA §30D (New Clean Vehicle Credit, $7,500), §25E (Used Clean
 
 ### America First Legal. The Secret $43 Million
 
-In 2022, Musk secretly donated at least $43 million to an America First Legal (AFL) subsidiary. AFL is Stephen Miller's organization. Its Treasurer at the time was Russell Vought, who then became Trump's OMB Director. DeSmog documents Musk ties to Project 2025 architects through this donation chain. The money was dark money until disclosure, and it paid for the legal infrastructure that now runs immigration enforcement and the dismantling of DEI. Source: ~~[DeSmog: Musk tied to Project 2025](https://www.desmog.com/2025/06/02/map-70-percent-trump-cabinet-tie-project-2025-heritage-afpi-convention-states-dunn-doge/ject-2025-heritage-afpi-convention-states-dunn-doge/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2).
+In 2022, Musk secretly donated at least $43 million to an America First Legal (AFL) subsidiary. AFL is Stephen Miller's organization. Its Treasurer at the time was Russell Vought, who then became Trump's OMB Director. DeSmog documents Musk ties to Project 2025 architects through this donation chain. The money was dark money until disclosure, and it paid for the legal infrastructure that now runs immigration enforcement and the dismantling of DEI. Source: ~~[DeSmog: Musk tied to Project 2025](https://www.desmog.com/2025/06/02/map-70-percent-trump-cabinet-tie-project-2025-heritage-afpi-convention-states-dunn-doge/ject-2025-heritage-afpi-convention-states-dunn-doge/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2).
 
 ---
 
@@ -332,7 +332,7 @@ Six individuals accounted for over $900 million in 2024 election spending. That'
 ### Political Spending:
 - [OpenSecrets. Elon Musk 2024 donor profile](https://www.fec.gov/data/independent-expenditures/?q=Elon%20Musk) (Tier 1)
 - [OpenSecrets News, 2024 political donors ranking](https://www.opensecrets.org/news/2025/03/elon-musk-tops-list-of-2024-political-donors-but-six-others-gave-more-than-100-million) (Tier 1) (VERIFIED)
-- ~~[The Hill. Musk contributes to Trump super PAC](https://www.thehill.com/homenews/campaign/4953444-elon-musk-contributes-trump-super-pac/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill. Musk contributes to Trump super PAC](https://www.thehill.com/homenews/campaign/4953444-elon-musk-contributes-trump-super-pac/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [NBC News. Elon Musk's quarter-billion-dollar 2024 spending](https://www.nbcnews.com/politics/2024-election/elon-musk-spent-quarter-billion-dollars-electing-trump-financing-myste-rcna182922) (Tier 2) (VERIFIED)
 - [Al Jazeera. Musk's $75M pro-Trump group contribution](https://www.aljazeera.com/news/2024/10/16/musk-gave-seventy-five-million-to-pro-trump-group-underscoring-influence-on-race) (Tier 2) (VERIFIED)
 
@@ -369,7 +369,7 @@ Six individuals accounted for over $900 million in 2024 election spending. That'
 ### Legal:
 - [CNBC. SEC settlement talks March 2026](https://www.cnbc.com/2026/03/17/elon-musk-sec-in-talks-to-settle-government-lawsuit-over-twitter-deal.html) (Tier 2) (VERIFIED)
 - [SEC.gov. Elon R. Musk litigation release](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26219) (Tier 1) (VERIFIED)
-- ~~[Bloomberg. Musk seeks dismissal of SEC lawsuit](https://www.bloomberg.com/news/articles/2025-08-29/musk-seeks-dismissal-of-sec-suit-over-twitter-stake-disclosure)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Bloomberg. Musk seeks dismissal of SEC lawsuit](https://www.bloomberg.com/news/articles/2025-08-29/musk-seeks-dismissal-of-sec-suit-over-twitter-stake-disclosure)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ### Net Worth:
 - [Bloomberg Billionaires Index](https://www.bloomberg.com/billionaires/profiles/elon-r-musk/) (Tier 1)
@@ -408,7 +408,7 @@ Six individuals accounted for over $900 million in 2024 election spending. That'
 
 **DOGE self-assessment (March 2026):** Musk told PBS that DOGE was "only somewhat successful" and that he "wouldn't do it again." This is the first major public admission from Musk that the operation fell short, corroborating the Cavanaugh deposition findings above.
 
-- ~~[Bloomberg: Elon Musk Plans Terafab Chip Facility in Austin with Tesla, SpaceX, xAI](https://www.bloomberg.com/news/articles/2026-03-22/elon-musk-says-tesla-xai-spacex-terafab-to-start-in-austin)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Bloomberg: Elon Musk Plans Terafab Chip Facility in Austin with Tesla, SpaceX, xAI](https://www.bloomberg.com/news/articles/2026-03-22/elon-musk-says-tesla-xai-spacex-terafab-to-start-in-austin)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Fortune: Elon Musk's retreat from DOGE has lifted Tesla's valuation by $158 billion](https://fortune.com/article/elon-musk-doge-tesla-stock-market-cap-outlook/) (Tier 2) (VERIFIED)
 - [PBS: Elon Musk says DOGE was only 'somewhat successful' and he wouldn't do it again](https://www.pbs.org/newshour/politics/elon-musk-says-doge-was-only-somewhat-successful-and-he-wouldnt-do-it-again) (Tier 2) (VERIFIED)
 
@@ -418,7 +418,7 @@ Six individuals accounted for over $900 million in 2024 election spending. That'
 
 **DHS shutdown deepens Musk contradictions:** With the DHS shutdown in its 38th day (March 24), 366 TSA officers have quit and callout rates are 5x normal. ICE agents are now deployed to airports to cover TSA shortfalls. Musk's earlier offer to pay TSA salaries remains unresolved, the architect of government destruction offering to personally subsidize the wreckage.
 
-- ~~[Bloomberg: Appeals court blocks Musk deposition in DOGE fight](https://www.bloomberg.com/news/articles/2026-03-04/elon-musk-deposition-blocked-by-appeals-court-in-doge-fight)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Bloomberg: Appeals court blocks Musk deposition in DOGE fight](https://www.bloomberg.com/news/articles/2026-03-04/elon-musk-deposition-blocked-by-appeals-court-in-doge-fight)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Government Executive: Inside DOGE's early days of chaos](https://www.govexec.com/management/2026/03/inside-doges-early-days-pressure-campaigns-rule-breaking-and-chaos/412193/) (Tier 2) (VERIFIED)
 
 ---

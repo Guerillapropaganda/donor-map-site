@@ -1,5 +1,5 @@
 ---
-title: "Katherine M. Clark Master Profile"
+title: "Katherine M. Clark"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

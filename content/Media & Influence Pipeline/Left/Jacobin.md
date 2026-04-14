@@ -28,13 +28,13 @@ Revenue has grown substantially:
 
 Subscriptions historically represent 65-93% of total revenue. No advertising income. Secondary revenue from book sales, events (including the "How We Win" conferences co-organized with DSA Fund and The Nation), and Catalyst journal subscriptions. Foundation funding minimal: Annenberg Foundation grant of $100K (2017). Alex Payne, early Twitter employee, donated approximately $100K in stock (2014).
 
-Structural liability: $2.93M in deferred lifetime subscription obligations as of 2024 — representing prepaid multi-year subscriptions. This obligation is a feature of the subscription model, not a sign of crisis, but creates long-term revenue visibility and financial predictability.
+Structural liability: $2.93M in deferred lifetime subscription obligations as of 2024, representing prepaid multi-year subscriptions. This obligation is a feature of the subscription model, not a sign of crisis, but creates long-term revenue visibility and financial predictability.
 
-IRS 990 filings available via ProPublica. No major foundation grants from Ford, Soros, MacArthur, or other left-aligned institutional funders. The organization's own marketing has joked: "Lenin didn't have Ford Foundation money — he had Stalin rob banks instead" — signaling awareness of its departure from foundation-captured models.
+IRS 990 filings available via ProPublica. No major foundation grants from Ford, Soros, MacArthur, or other left-aligned institutional funders. The organization's own marketing has joked: "Lenin didn't have Ford Foundation money, he had Stalin rob banks instead", signaling awareness of its departure from foundation-captured models.
 
 ### FEC Record
 
-Pending API query — run `fecDonorLookup()` for Bhaskar Sunkara principal.
+Pending API query, run `fecDonorLookup()` for Bhaskar Sunkara principal.
 
 ### Who Funds Them
 
@@ -50,20 +50,20 @@ Academic legitimacy project: *Catalyst* journal (launched 2017) publishes peer-r
 
 ### The Audience Capture Model
 
-Jacobin's 75,000 paid subscribers are largely educated socialists — a specific professional-managerial class (PMC) subset that tolerates and purchases class analysis but exists in tension with the magazine's working-class power rhetoric. The structural contradiction: a magazine promoting worker power that pays freelancers approximately 7 cents per word, placing it below median freelance rates for general-interest publishing. Subscription model means content must satisfy the educated-socialist subscriber demographic, creating invisible editorial constraints around what kind of class analysis is publishable. Class analysis that threatens subscriber-class interests (university employment, nonprofit sector work, professional-managerial positions, editorial roles in left media) faces implicit resistance from the audience that must be satisfied for revenue stability.
+Jacobin's 75,000 paid subscribers are largely educated socialists, a specific professional-managerial class (PMC) subset that tolerates and purchases class analysis but exists in tension with the magazine's working-class power rhetoric. The structural contradiction: a magazine promoting worker power that pays freelancers approximately 7 cents per word, placing it below median freelance rates for general-interest publishing. Subscription model means content must satisfy the educated-socialist subscriber demographic, creating invisible editorial constraints around what kind of class analysis is publishable. Class analysis that threatens subscriber-class interests (university employment, nonprofit sector work, professional-managerial positions, editorial roles in left media) faces implicit resistance from the audience that must be satisfied for revenue stability.
 
 > [!contradiction]
 > Jacobin's editorial rhetoric emphasizes working-class power and material conditions, yet its own labor practices (7 cents/word freelancer pay) and subscription base (educated PMC socialists) reproduce the class hierarchies it critiques. The magazine is captured not by foundations, but by its own audience.
 
 ### What Their Funders Got
 
-Subscribers received a publications platform for socialist thought and strategy — the magazine they wanted to exist. DSA received reading group infrastructure leading directly to membership recruitment (Julia Salazar case as proof of concept). Sunkara built a media and publishing empire: The Nation (became president, February 2022), Catalyst journal (launched 2017), acquisition and subsequent sale of the UK magazine *Tribune* (2021-2022). The funders are the audience — and the audience got the magazine they wanted and the intellectual infrastructure they sought.
+Subscribers received a publications platform for socialist thought and strategy, the magazine they wanted to exist. DSA received reading group infrastructure leading directly to membership recruitment (Julia Salazar case as proof of concept). Sunkara built a media and publishing empire: The Nation (became president, February 2022), Catalyst journal (launched 2017), acquisition and subsequent sale of the UK magazine *Tribune* (2021-2022). The funders are the audience, and the audience got the magazine they wanted and the intellectual infrastructure they sought.
 
 ### Class Analysis
 
 Jacobin is the most structurally independent outlet in the left media batch, but independence does not mean absence of constraints. The subscription model escapes foundation capture but introduces audience capture. The PMC subscriber base tolerates class analysis abstractly but may resist analysis that threatens their own class position. The *Tribune* acquisition (2021) and subsequent sale controversy revealed the sharpest contradiction: UK workers accused Sunkara of acting as an "asset-stripper" or robber baron, directly reproducing the labor relations his magazine critiques. The accusation that Jacobin's publisher was exploiting workers at a socialist publication created cognitive dissonance in the left media ecosystem and exposed the PMC contradictions embedded in Jacobin's model.
 
-Jacobin is analytically important because it explicitly does what this vault does: class analysis. The vault's critical question becomes: Is Jacobin's funding model consistent with its analysis? The answer is: partially consistent, with specific constraints. Funded by working and professional-class subscribers, not foundations — which is genuinely independent. But the subscriber base shapes editorial red lines in ways that Jacobin's own framework would flag as capture, if applied to another institution.
+Jacobin is analytically important because it explicitly does what this vault does: class analysis. The vault's critical question becomes: Is Jacobin's funding model consistent with its analysis? The answer is: partially consistent, with specific constraints. Funded by working and professional-class subscribers, not foundations, which is genuinely independent. But the subscriber base shapes editorial red lines in ways that Jacobin's own framework would flag as capture, if applied to another institution.
 
 ### Capture Architecture
 
@@ -71,7 +71,7 @@ Jacobin is analytically important because it explicitly does what this vault doe
 
 **Audience**: Educated socialists (PMC subset). 75,000 print subscribers with likely higher median education and income than U.S. population average. Digital audience (3M+ monthly) broader but less committed revenue source.
 
-**Editorial red lines**: Class analysis that threatens subscriber-class economic interests (university employment, nonprofit work, professional managerial positions, left media employment). The *Tribune* sale controversy made this implicit red line explicit — worker accusations of exploitation exposed the tension between Jacobin's rhetoric and the power relations embedded in its business model.
+**Editorial red lines**: Class analysis that threatens subscriber-class economic interests (university employment, nonprofit work, professional managerial positions, left media employment). The *Tribune* sale controversy made this implicit red line explicit, worker accusations of exploitation exposed the tension between Jacobin's rhetoric and the power relations embedded in its business model.
 
 **Structural vulnerability**: $2.93M deferred lifetime subscription obligations create long-term revenue visibility but also long-term commitment to satisfaction of subscriber-audience expectations.
 
@@ -99,7 +99,7 @@ Jacobin is analytically important because it explicitly does what this vault doe
 - [ProPublica: Jacobin Foundation 990s](https://projects.propublica.org/nonprofits/organizations/464332395) (Tier 1) (VERIFIED)
 - [CJR: The ABCs of Jacobin](https://www.cjr.org/special_report/the-abcs-of-jacobin-socialist-magazine.php) (Tier 2) (VERIFIED)
 - [InfluenceWatch: Jacobin](https://www.influencewatch.org/non-profit/jacobin/) (Tier 3) (VERIFIED)
-- ~~[The Nation: Bhaskar Sunkara president announcement](https://www.thenation.com/article/news/jacobin-sunkara-nation/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[The Nation: Bhaskar Sunkara president announcement](https://www.thenation.com/article/news/jacobin-sunkara-nation/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Payday Report: Tribune workers wage dispute](https://paydayreport.com/jacobin-publisher-accused-of-reneging-on-wage-deal-in-takeover-of-british-magazine-the-tribune/) (Tier 3) (VERIFIED)
 
 ---

@@ -2,7 +2,7 @@
 title: "Andrew Cuomo"
 type: politician
 content-readiness: ready
-central-thesis: "Cuomo is the real estate donor class's preferred Democrat — a moderate who delivers on their core agenda (development-friendly regulation, property tax limits, opposition to rent control) while maintaining the progressive brand necessary to win in..."
+central-thesis: "Cuomo is the real estate donor class's preferred Democrat , a moderate who delivers on their core agenda (development-friendly regulation, property tax limits, opposition to rent control) while maintaining the progressive brand necessary to win in..."
 last-updated: 2026-04-13
 source-tier: 1
 parent: null
@@ -34,13 +34,13 @@ None yet. Potential sub-notes: Real estate donor network, COVID nursing home dea
 
 ## Who They Are
 
-Andrew Cuomo (born December 6, 1957, New York) served as the 56th Governor of New York (2011–2021), NY Attorney General (2007–2010), and HUD Secretary under Clinton (1997–2001). He resigned as governor in August 2021 amid sexual harassment allegations from 11 women. He attempted a political comeback in 2025 with a NYC mayoral campaign — lost the Democratic primary to Zohran Mamdani, then lost the general election running on his independent "Fight and Deliver" party line (Mamdani ~47–50%, Cuomo 25–31%). Estimated net worth: $10–14M. A DOJ unlawful probe into his COVID-era nursing home testimony opened in May 2025.
+Andrew Cuomo (born December 6, 1957, New York) served as the 56th Governor of New York (2011–2021), NY Attorney General (2007–2010), and HUD Secretary under Clinton (1997–2001). He resigned as governor in August 2021 amid sexual harassment allegations from 11 women. He attempted a political comeback in 2025 with a NYC mayoral campaign, lost the Democratic primary to Zohran Mamdani, then lost the general election running on his independent "Fight and Deliver" party line (Mamdani ~47–50%, Cuomo 25–31%). Estimated net worth: $10–14M. A DOJ unlawful probe into his COVID-era nursing home testimony opened in May 2025.
 
 ---
 
 ## The Central Thesis
 
-Cuomo is the real estate donor class's preferred Democrat — a moderate who delivers on their core agenda (development-friendly regulation, property tax limits, opposition to rent control) while maintaining the progressive brand necessary to win in New York. His 2025 mayoral campaign made this explicit: the Fix the City super PAC raised $25M, with over $6M from real estate donors, $8.3M from Michael Bloomberg, and $1M from DoorDash. The real estate industry bet $6M+ on Cuomo's comeback because he's the kind of Democrat they can do business with.
+Cuomo is the real estate donor class's preferred Democrat, a moderate who delivers on their core agenda (development-friendly regulation, property tax limits, opposition to rent control) while maintaining the progressive brand necessary to win in New York. His 2025 mayoral campaign made this explicit: the Fix the City super PAC raised $25M, with over $6M from real estate donors, $8.3M from Michael Bloomberg, and $1M from DoorDash. The real estate industry bet $6M+ on Cuomo's comeback because he's the kind of Democrat they can do business with.
 
 ---
 
@@ -101,7 +101,7 @@ No sub-notes built yet. Key policy areas:
 
 ## Rhetorical Signature Moves
 
-Cuomo uses "executive competence" framing — the experienced manager who "gets things done" in contrast to progressive idealists. His COVID-era press conferences made him a national figure by projecting calm authority. The "Fight and Deliver" party name for his independent run distilled his brand: action over ideology. This framing appeals to the donor class because it signals that policy will be practical (i.e., negotiable) rather than ideological (i.e., threatening to donor interests).
+Cuomo uses "executive competence" framing, the experienced manager who "gets things done" in contrast to progressive idealists. His COVID-era press conferences made him a national figure by projecting calm authority. The "Fight and Deliver" party name for his independent run distilled his brand: action over ideology. This framing appeals to the donor class because it signals that policy will be practical (i.e. negotiable) rather than ideological (i.e. threatening to donor interests).
 
 ---
 
@@ -115,9 +115,9 @@ The 2025 mayoral race made the class dynamics explicit. Cuomo received endorseme
 
 ## Analytical Patterns
 
-- **Both-Sides Illusion** — Cuomo received endorsements from both Trump and Bloomberg, signaling that the donor class transcends party when a politician reliably serves their interests.
-- **Genuine Win + Structural Limit** — Same-sex marriage and gun control were genuine progressive wins, but they didn't threaten real estate profits or the economic interests of his core donors.
-- **Dark Money Symmetry** — The Fix the City super PAC operated with the same opacity that Democrats criticize in Republican dark money. $25M in outside spending to rehabilitate a politician who resigned in disgrace.
+- **Both-Sides Illusion**. Cuomo received endorsements from both Trump and Bloomberg, signaling that the donor class transcends party when a politician reliably serves their interests.
+- **Genuine Win + Structural Limit**. Same-sex marriage and gun control were genuine progressive wins, but they didn't threaten real estate profits or the economic interests of his core donors.
+- **Dark Money Symmetry**. The Fix the City super PAC operated with the same opacity that Democrats criticize in Republican dark money. $25M in outside spending to rehabilitate a politician who resigned in disgrace.
 
 ---
 
@@ -126,10 +126,10 @@ The 2025 mayoral race made the class dynamics explicit. Cuomo received endorseme
 - [Britannica: Andrew Cuomo](https://www.britannica.com/biography/Andrew-Cuomo) (Tier 3) (VERIFIED)
 - [Ballotpedia: Andrew Cuomo](https://ballotpedia.org/Andrew_Cuomo) (Tier 3) (VERIFIED)
 - [Wikipedia: Andrew Cuomo](https://en.wikipedia.org/wiki/Andrew_Cuomo) (Tier 4) (VERIFIED)
-- ~~[NYT: Cuomo tax return, millionaire income](https://www.nytimes.com/2025/10/29/nyregion/cuomo-tax-return-millionaire.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[NYT: Cuomo campaign finance](https://www.nytimes.com/2025/06/24/nyregion/andrew-cuomo-campaign-finance.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[NYT: Cuomo DOJ investigation](https://www.nytimes.com/2025/05/20/us/politics/andrew-cuomo-investigation-doj.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[Politico: Cuomo political career reaches operatic conclusion](https://www.politico.com/news/2025/11/05/andrew-cuomos-political-career-reaches-an-operatic-conclusion-00637590)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[NYT: Cuomo tax return, millionaire income](https://www.nytimes.com/2025/10/29/nyregion/cuomo-tax-return-millionaire.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[NYT: Cuomo campaign finance](https://www.nytimes.com/2025/06/24/nyregion/andrew-cuomo-campaign-finance.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[NYT: Cuomo DOJ investigation](https://www.nytimes.com/2025/05/20/us/politics/andrew-cuomo-investigation-doj.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Politico: Cuomo political career reaches operatic conclusion](https://www.politico.com/news/2025/11/05/andrew-cuomos-political-career-reaches-an-operatic-conclusion-00637590)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [USA Today: NYC mayor election results](https://www.usatoday.com/story/news/politics/elections/2025/11/04/nyc-mayor-election-mamdani-vs-cuomo-results/86572353007/) (Tier 2) (VERIFIED)
 - [CNBC: Mamdani/Cuomo mayoral race, billionaire spending](https://www.cnbc.com/2025/10/30/mamdani-cuomo-nyc-mayor-bid-billionaire-spending.html) (Tier 2) (VERIFIED)
 - [Fox News: Cuomo endorsements and polls](https://www.foxnews.com/politics/cuomo-picks-up-endorsements-rises-polls-comeback-campaign-nears-finish-line) (Tier 3) (VERIFIED)

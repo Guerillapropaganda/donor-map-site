@@ -15,7 +15,7 @@ related: "[[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[Sunrise Movement
 
 ### Organizational Founding and Structure
 
-New Consensus was founded in 2017 by [[_Saikat Chakrabarti Master Profile|Chakrabarti]] and Zack Exley. The organization is registered as a 501(c)(3) public charity (EIN: 82-3053965) headquartered at 1025 Vermont Ave NW, Washington, DC 20005. Its stated mission is "Designing comprehensive, detailed plans for governments to achieve economic renewal and transformation" — explicitly modeled after "mass economic mobilizations of the past."
+New Consensus was founded in 2017 by [[_Saikat Chakrabarti Master Profile|Chakrabarti]] and Zack Exley. The organization is registered as a 501(c)(3) public charity (EIN: 82-3053965) headquartered at 1025 Vermont Ave NW, Washington, DC 20005. Its stated mission is "Designing comprehensive, detailed plans for governments to achieve economic renewal and transformation", explicitly modeled after "mass economic mobilizations of the past."
 
 > [!quote]
 > "Designing comprehensive, detailed plans for governments to achieve economic renewal and transformation"
@@ -50,7 +50,7 @@ Donor identities remain shielded: 501(c)(3) status permits Schedule B protection
 - Saikat Chakrabarti: Director, President. $0 compensation (all years).
 - Zack Exley: Executive Director. $178,122.
 - Megan Hernandez: Director, Treasurer. $0.
-- Robert Hockett: Senior Fellow. $140,000 (FY2022 only) — Cornell Law professor; no longer listed.
+- Robert Hockett: Senior Fellow. $140,000 (FY2022 only). Cornell Law professor; no longer listed.
 - Demond Drummer: Director, Secretary. $60,000 (FY2022); departed to PolicyLink.
 
 **Current status (early 2026):** The organization operates with skeleton crew. Website lists only three active personnel: Chakrabarti, Exley, and Bill O'Toole (researcher).
@@ -76,7 +76,7 @@ New Consensus served as the intellectual and socialization apparatus for the Gre
 
 ### The GND FAQ Debacle (February 2019)
 
-A leaked FAQ document accompanying the GND resolution promised "economic security for all who are unable or unwilling to work" — language that became fodder for conservative critics attacking the proposal as welfare expansion.
+A leaked FAQ document accompanying the GND resolution promised "economic security for all who are unable or unwilling to work", language that became fodder for conservative critics attacking the proposal as welfare expansion.
 
 > [!contradiction]
 > [[_Saikat Chakrabarti Master Profile|Chakrabarti]] dismissed the FAQ as "bad copy mistakenly published," yet Robert Hockett (New Consensus Senior Fellow) falsely told Tucker Carlson on Fox News that the FAQ had been "doctored" — a claim contradicted by NPR reporters who received the document directly from [[_Alexandria Ocasio-Cortez Master Profile|AOC]]'s office. The FAQ was subsequently deleted, but the reputational damage and messaging incoherence persisted.
@@ -99,24 +99,24 @@ This episode revealed either strategic incompetence or coordinated obfuscation r
 - Workforce development programs
 - AI preparation and public ownership frameworks
 
-The Mission document is explicitly "written for the president who enters the White House in 2029" — a transparent framing that this is [[_Saikat Chakrabarti Master Profile|Chakrabarti]]'s own electoral platform masquerading as a nonprofit policy product.
+The Mission document is explicitly "written for the president who enters the White House in 2029", a transparent framing that this is [[_Saikat Chakrabarti Master Profile|Chakrabarti]]'s own electoral platform masquerading as a nonprofit policy product.
 
 ---
 
 ### 2026 Status and Mission Creep
 
-By October 2025, Politico described New Consensus as "a few guys in San Francisco" — indicating drastically reduced operational capacity relative to its 2019 peak. The organization has functionally merged with [[_Saikat Chakrabarti Master Profile|Chakrabarti]]'s congressional campaign machinery.
+By October 2025, Politico described New Consensus as "a few guys in San Francisco", indicating drastically reduced operational capacity relative to its 2019 peak. The organization has functionally merged with [[_Saikat Chakrabarti Master Profile|Chakrabarti]]'s congressional campaign machinery.
 
 > [!money]
 > Zack Exley simultaneously holds two positions: Executive Director of New Consensus and campaign manager for [[_Saikat Chakrabarti Master Profile|Chakrabarti]]'s 2026 campaign. Mission for America serves as both nonprofit policy output and electoral platform literature. This represents mission-nonprofit hybridization that obscures the boundary between 501(c)(3) work and candidate promotion.
 
-Total assets as of FY2023: $145,593 — a 91% decline from FY2019 peak.
+Total assets as of FY2023: $145,593, a 91% decline from FY2019 peak.
 
 ---
 
 ### Compensation as Chief of Staff (2019 Context)
 
-[[_Saikat Chakrabarti Master Profile|Chakrabarti]] drew $80,000 as [[_Alexandria Ocasio-Cortez Master Profile|AOC]]'s Chief of Staff — substantially below the disclosed range of $146,830–$177,292 for congressional CoS positions. This salary level placed him below the $126,000 disclosure threshold, shielding his broader wealth from public tax filings and financial transparency.
+[[_Saikat Chakrabarti Master Profile|Chakrabarti]] drew $80,000 as [[_Alexandria Ocasio-Cortez Master Profile|AOC]]'s Chief of Staff, substantially below the disclosed range of $146,830–$177,292 for congressional CoS positions. This salary level placed him below the $126,000 disclosure threshold, shielding his broader wealth from public tax filings and financial transparency.
 
 > [!contradiction]
 > This suppressed compensation structure raises questions about external income sources funding [[_Saikat Chakrabarti Master Profile|Chakrabarti]]'s living costs and whether New Consensus served as a compensation mechanism for political work nominally assigned to the House payroll.

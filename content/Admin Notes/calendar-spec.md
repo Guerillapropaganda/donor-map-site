@@ -1,5 +1,5 @@
 ---
-title: Ops Calendar Tab — Code Claude Spec
+title: Ops Calendar Tab , Code Claude Spec
 type: admin-note
 note-type: code
 priority: normal
@@ -7,10 +7,10 @@ status: open
 last-updated: '2026-04-10'
 spec-owner: research-claude
 build-owner: code-claude
-target-completion: 2026-04-10  # Phase 1 Day 1
+target-completion: 2026-04-10 # Phase 1 Day 1
 ---
 
-# Ops Calendar Tab — Build Spec
+# Ops Calendar Tab. Build Spec
 
 **To Code Claude:** build a calendar/schedule tab for the Ops app at `localhost:3333` that reads the sprint schedule from `content/Admin Notes/sprint-schedule.md` and renders a month-grid view with phase coloring, daily task lists, and progress tracking.
 
@@ -28,7 +28,7 @@ Scope for this spec: **Month grid view with phase coloring.** Research Claude's 
 - Integration with Stories/Events/Admin Notes (those are separate file trees, outside v1 scope)
 
 **DO build:**
-- Month grid April 10-30 (just those 21 days — not the whole month)
+- Month grid April 10-30 (just those 21 days, not the whole month)
 - Phase color-coding (Phase 1 / Phase 2 / Phase 3 as three visual bands)
 - Per-day task list pulled from sprint-schedule.md
 - Per-day completion checkboxes (state persisted outside sprint-schedule.md)
@@ -77,9 +77,9 @@ Under each `## {Section Name}` header, there is a ` ```yaml ` fenced block with 
 | `## North Star targets (priority order)` | Array of targets with `id`, `rank`, `metric`, `baseline`, `goal`, `current`, `description` | Progress bars above the grid |
 | `## Phases` | Array of phases with `id`, `name`, `theme`, `start`, `end`, `days`, `hours_budget`, `exit_criteria` | Phase bands across the grid |
 | `## Daily block template (weekday)` | Array of time blocks with `time`, `block`, `owner`, `work`, `category`, `duration_hours` | Expanded day-detail popover |
-| `## Phase 1 — must-complete tasks` | Object with `code_claude`, `research_claude`, `david` arrays of tasks | Task list on Phase 1 days |
-| `## Phase 2 — must-complete tasks` | Same structure | Task list on Phase 2 days |
-| `## Phase 3 — must-complete tasks` | Same structure | Task list on Phase 3 days |
+| `## Phase 1, must-complete tasks` | Object with `code_claude`, `research_claude`, `david` arrays of tasks | Task list on Phase 1 days |
+| `## Phase 2, must-complete tasks` | Same structure | Task list on Phase 2 days |
+| `## Phase 3, must-complete tasks` | Same structure | Task list on Phase 3 days |
 | `## Risk register` | Array of risks with `id`, `name`, `likelihood`, `impact`, `mitigation` | Optional risk sidebar (v1: not shown) |
 | `## April 30 review process` | Object with `sprint_close`, `verification_checks` | Mark Apr 30 as "SPRINT CLOSE" day |
 
@@ -138,7 +138,7 @@ export async function parseSprintSchedule(): Promise<SprintSchedule> {
 }
 ```
 
-**Re-read the file on every route load** — no caching. The schedule can change mid-sprint and the calendar should reflect edits immediately.
+**Re-read the file on every route load**, no caching. The schedule can change mid-sprint and the calendar should reflect edits immediately.
 
 ## State persistence: sprint-state.json
 
@@ -226,7 +226,7 @@ If `ops/data/sprint-state.json` doesn't exist, the GET handler creates it with e
 └──────────────────────────────────────────────────────────────────┘
 ```
 
-### Color palette (strict — per `content/Design System.md`)
+### Color palette (strict, per `content/Design System.md`)
 
 - Base background: cream `#f5f0eb`
 - Text primary: black `#0a0a0a`
@@ -382,7 +382,7 @@ Ship when all of these are true:
 
 ## How to test during development
 
-Since `sprint-schedule.md` lives in the vault (outside the ops directory), make sure the file path resolution works from the Ops dev server. The schedule file should be at `../content/Admin Notes/sprint-schedule.md` relative to `ops/`. Verify `process.cwd()` resolves correctly when the Next.js dev server starts.
+Since `sprint-schedule.md` lives in the vault (outside the ops directory), make sure the file path resolution works from the Ops dev server. The schedule file should be at `./content/Admin Notes/sprint-schedule.md` relative to `ops/`. Verify `process.cwd()` resolves correctly when the Next.js dev server starts.
 
 Test scenarios:
 1. Fresh load with no `sprint-state.json` → should auto-create
@@ -392,21 +392,21 @@ Test scenarios:
 
 ## Questions Code Claude should resolve before building
 
-(None expected — spec is self-contained. If you hit a genuine ambiguity, ask David in chat, don't guess.)
+(None expected, spec is self-contained. If you hit a genuine ambiguity, ask David in chat, don't guess.)
 
 ## When you finish
 
 1. Commit in logical chunks (parser / API route / components / styles)
 2. Run `/session-save` at the end of your session
 3. Update `content/Session State.md` with a "Calendar tab shipped" entry under your session
-4. Tag Research Claude in the next Session State: "Calendar ready at /calendar — check it renders your sprint data correctly"
+4. Tag Research Claude in the next Session State: "Calendar ready at /calendar, check it renders your sprint data correctly"
 
 ## Related specs in the vault (for context)
 
-- `content/Design System.md` — brutalist design rules
-- `content/Vault Rules.md` — frontmatter-only rule, URL editor-only rule
-- `content/Pipeline Guide.md` — API cheatsheet reference (unrelated to calendar but you should read it at session start)
-- `C:\Users\third\.claude\plans\cheeky-knitting-fox.md` — the full strategic plan this calendar tracks (local, not in git)
+- `content/Design System.md`, brutalist design rules
+- `content/Vault Rules.md`, frontmatter-only rule, URL editor-only rule
+- `content/Pipeline Guide.md`. API cheatsheet reference (unrelated to calendar but you should read it at session start)
+- `C:\Users\third\.claude\plans\cheeky-knitting-fox.md`, the full strategic plan this calendar tracks (local, not in git)
 
 ---
 

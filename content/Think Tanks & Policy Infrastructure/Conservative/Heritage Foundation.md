@@ -1,32 +1,88 @@
 ---
-title: "Heritage Foundation"
+title: Heritage Foundation
 type: think-tank
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: '2026-04-14'
 source-tier: 1
 parent: null
 category: conservative
 tax-status: 501c3
-lei: "5493006YU7R03XUJSX56"
-lei-jurisdiction: "US-DC"
-related: "[[Heritage Foundation|Heritage Foundation (donor node)]] · [[Koch Network - Charles Koch]] · [[Charles Koch]] · [[Bradley Foundation]] · [[Leonard Leo]] · [[Federalist Society]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Center for American Progress]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Brennan Center for Justice]] · [[Mercatus Center]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heartland Institute]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[RAND Corporation]] · [[Council on Foreign Relations]] · [[Center for a New American Security]] · [[Brookings Institution]] · [[Atlantic Council]] · [[Aspen Institute]] · [[Jim Risch]] · [[Schedule F and the Deep State Purge - Replacing Civil Servants with Loyalists]] · [[Jodey Arrington]] · [[State Policy Network]] · [[Kristi Noem]] · [[Chuck Grassley]] · [[The Culture War Economy - Who Profits From Division]] · [[Social Policy and Culture War - Donors and Backers]] · [[Project 2025 - The Blueprint They Followed]] · [[Tom Cole]] · [[Paul Ryan]]"
-fara-status: "registrant"
+lei: 5493006YU7R03XUJSX56
+lei-jurisdiction: US-DC
+related: >-
+  [[Heritage Foundation|Heritage Foundation (donor node)]] · [[Koch Network -
+  Charles Koch]] · [[Charles Koch]] · [[Bradley Foundation]] · [[Leonard Leo]] ·
+  [[Federalist Society]] · [[Cross-Think-Tank Donor Map , The Both-Sides
+  Illusion With Receipts]] · [[The Think Tank Money Map , Budget, Funding
+  Sources, and the Illusion of Independence]] · [[The Revolving Door , A
+  Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline , How Think
+  Tank Research Becomes Law]] · [[Urban Institute]] · [[Center for American
+  Progress]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy
+  Institute]] · [[Brennan Center for Justice]] · [[Mercatus Center]] ·
+  [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover
+  Institution]] · [[Heartland Institute]] · [[Claremont Institute]] · [[Cato
+  Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[RAND
+  Corporation]] · [[Council on Foreign Relations]] · [[Center for a New American
+  Security]] · [[Brookings Institution]] · [[Atlantic Council]] · [[Aspen
+  Institute]] · [[Jim Risch]] · [[Schedule F and the Deep State Purge -
+  Replacing Civil Servants with Loyalists]] · [[Jodey Arrington]] · [[State
+  Policy Network]] · [[Kristi Noem]] · [[Chuck Grassley]] · [[The Culture War
+  Economy - Who Profits From Division]] · [[Social Policy and Culture War -
+  Donors and Backers]] · [[Project 2025 - The Blueprint They Followed]] · [[Tom
+  Cole]] · [[Paul Ryan]]
+fara-status: registrant
 fara-records: 2
 fara-countries:
-  - "KOREA SOUTH"
+  - KOREA SOUTH
 federal-register-mentions: 139
-last-enriched: "2026-04-08"
+last-enriched: '2026-04-08'
 regulatory-agencies:
-  - "Commodity Futures Trading Commission"
-  - "Education Department"
-  - "Employment and Training Administration"
-  - "Energy Department"
-  - "Executive Office of the President"
-  - "Federal Communications Commission"
-  - "Federal Railroad Administration"
-  - "Federal Trade Commission"
-  - "Homeland Security Department"
-  - "Interior Department"
+  - Commodity Futures Trading Commission
+  - Education Department
+  - Employment and Training Administration
+  - Energy Department
+  - Executive Office of the President
+  - Federal Communications Commission
+  - Federal Railroad Administration
+  - Federal Trade Commission
+  - Homeland Security Department
+  - Interior Department
+ein: '237327730'
+nonprofit-status: 501(c)(3)
+total-revenue: 147027845
+total-assets: 413819868
+sec-filings: 3784
+sec-form-types:
+  - 10-K
+  - 10-Q
+  - '3'
+  - '4'
+  - '425'
+  - '5'
+  - 6-K
+  - 8-K
+  - CORRESP
+  - DEF 14A
+  - DEFA14A
+  - DEFR14A
+  - DFAN14A
+  - EX-1
+  - EX-10.7
+  - EX-2
+  - EX-21
+  - EX-3
+  - EX-4.47
+  - EX-99
+  - EX-99.1
+  - EX-99.4
+  - EX-99.6
+  - EX-99.C16
+  - N-30B-2
+  - PREC14A
+  - SC 13D
+  - SC 13G
+lobbying-spend: 1622000
+lobbying-filings: 57
 ---
 
 #think-tank #conservative #project-2025 #dark-money #revolving-door #idea-laundering #regulatory-capture #judicial-pipeline #501c3
@@ -284,7 +340,7 @@ Heritage has declared major school choice victories across Arizona, Indiana, Flo
 
 Heritage's position on technology antitrust represents its most publicly visible internal contradiction. In August 2021, Heritage published "Five Conservative Principles to Apply Against Weaponized Antitrust," arguing conservatives should "reject central planning, defend the consumer welfare standard," and that using antitrust against Big Tech would "give the Left its potentially most dangerous weapon to reshape the economy." Six months later, in February 2022, Heritage published "Combating Big Tech's Totalitarianism: A Road Map" (Kara Frederick), calling for aggressive antitrust investigations against Google, Amazon, Apple, Meta, and Microsoft, banning self-preferencing, and explicitly recommending that Google should not bundle its operating system, app store, and search app. Heritage President Kevin Roberts declared in February 2022: "Big Tech is an enemy of the American people."
 
-The libertarian Cato Institute reviewed Heritage's 2022 road map and concluded: "What this antitrust agenda amounts to is an attempt to use and expand laws and federal agency powers to achieve outcomes they were not designed for.. The agenda starts from the political ambition of browbeating these companies into changing their content policies." The contradiction is explained by Heritage's actual governing principle: not free markets or consumer welfare standards, but the financial interests of its donor base and political interests of the conservative movement.
+The libertarian Cato Institute reviewed Heritage's 2022 road map and concluded: "What this antitrust agenda amounts to is an attempt to use and expand laws and federal agency powers to achieve outcomes they were not designed for. The agenda starts from the political ambition of browbeating these companies into changing their content policies." The contradiction is explained by Heritage's actual governing principle: not free markets or consumer welfare standards, but the financial interests of its donor base and political interests of the conservative movement.
 
 ---
 
@@ -454,7 +510,7 @@ The December 2025 staff exodus, 12+ senior Heritage employees leaving over antis
 - [OpenSecrets: Heritage Foundation organizational profile](https://www.opensecrets.org/orgs/heritage-foundation/summary?id=D000034435) (Tier 1) (VERIFIED)
 - [DeSmog: 6 Billionaire Fortunes Bankrolling Project 2025](https://www.desmog.com/2024/08/14/project-2025-billionaire-donor-heritage-foundation-donald-trump-jd-vance-charles-koch-peter-coors/) (Tier 2) (VERIFIED)
 - [DeSmog: Mapped. How 6 Billionaire Family Fortunes Fund Project 2025](https://www.desmog.com/2024/10/25/project-2025-trump-mapped-how-6-billionaire-family-fortunes-fund-climate-denial/) (Tier 2) (VERIFIED)
-- ~~[DeSmog: MAPPED, 70 Percent of Trump's Cabinet Tied to Project 2025 Groups](https://www.desmog.com/2025/06/02/map-70-percent-trump-cabinet-tie-project-2025-heritage-afpi-convention-states-dunn-doge/ject-2025-heritage-afpi-convention-states-dunn-doge/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[DeSmog: MAPPED, 70 Percent of Trump's Cabinet Tied to Project 2025 Groups](https://www.desmog.com/2025/06/02/map-70-percent-trump-cabinet-tie-project-2025-heritage-afpi-convention-states-dunn-doge/ject-2025-heritage-afpi-convention-states-dunn-doge/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [ProPublica: Heritage Foundation Staffers Flood Federal Agencies With Thousands of Information Requests](https://www.propublica.org/article/have-government-employees-mentioned-climate-change-voting-or-gender-identity-the-heritage-foundation-wants-to-know) (Tier 2) (VERIFIED)
 - [Revolving Door Project: Former Trump Officials Wrote 25 of the 30 Chapters in the Project 2025 Playbook](https://therevolvingdoorproject.org/former-trump-officials-wrote-25-of-the-30-chapters-in-the-project-2025-playbook/) (Tier 2) (VERIFIED)
 - [Revolving Door Project: Heritage Lays the Foundation for Schedule F](https://therevolvingdoorproject.org/heritage-lays-the-foundation-for-schedule-f/) (Tier 2) (VERIFIED)
@@ -462,9 +518,9 @@ The December 2025 staff exodus, 12+ senior Heritage employees leaving over antis
 - [Media Matters: Project 2025 Organizer Heritage Foundation Gave $1 Million for Trump's Convention](https://www.mediamatters.org/project-2025/project-2025-organizer-heritage-foundation-gave-1-million-trumps-convention) (Tier 2) (VERIFIED)
 - [Campaign Legal Center: CLC Sues Heritage Action for Violating Disclosure Laws](https://campaignlegal.org/update/clc-sues-secret-money-group-heritage-action-violating-disclosure-laws) (Tier 2) (VERIFIED)
 - [19th News: How Much of Project 2025 Has Been Implemented?](https://19thnews.org/2025/12/project-2025-heritage-foundation-progress/) (Tier 2) (VERIFIED)
-- ~~[Axios: Project 2025 Architects Lay Out 2026 Policy Vision](https://www.axios.com/2025/12/09/trump-china-project-2026-2025-policy-heritage-foundation-abortion)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Axios: Project 2025 Architects Lay Out 2026 Policy Vision](https://www.axios.com/2025/12/09/trump-china-project-2026-2025-policy-heritage-foundation-abortion)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Newsweek: Heritage Foundation Project 2026 Plan Released](https://www.newsweek.com/project-2026-heritage-foundation-document-11183162) (Tier 2) (VERIFIED)
-- ~~[PR Watch: Koch, Bradley Money Fuels Trump's Right-Wing Echo Chamber](https://www.prwatch.org/news/2019/07/13482/koch-bradley-money-fuels-trumps-right-wing-echo-chamber)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[PR Watch: Koch, Bradley Money Fuels Trump's Right-Wing Echo Chamber](https://www.prwatch.org/news/2019/07/13482/koch-bradley-money-fuels-trumps-right-wing-echo-chamber)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [The Conversation: Heritage Foundation's 50-Year History of Steering GOP Lawmaking](https://theconversation.com/usheritage-foundations-project-2025-is-just-the-latest-action-plan-from-a-group-with-an-over-50-year-history-of-steering-gop-lawmaking-234542) (Tier 2) (NEEDS REVIEW)
 - [Climate Investigations Center: Heritage Foundation climate funding](https://climateinvestigations.org/heritage-foundation/) (Tier 2) (VERIFIED)
 - [World Resources Institute: Heritage Foundation Analysis of Climate Policy](https://www.wri.org/insights/heritage-foundation-gets-it-wrong-costs-and-benefits-climate-action) (Tier 2) (VERIFIED)
@@ -475,7 +531,7 @@ The December 2025 staff exodus, 12+ senior Heritage employees leaving over antis
 - [Cato Institute: Heritage Antitrust Contradiction Review](https://www.cato.org/blog/all-roads-lead-big-government-heritage-takes-big-tech) (Tier 2) (VERIFIED)
 - [Brennan Center: Project 2025 Criminal Justice Analysis](https://www.brennancenter.org/our-work/analysis-opinion/project-2025s-plan-criminal-justice-under-trump) (Tier 2) (VERIFIED)
 - [Vipul Naik Donation Database: Bradley Foundation to Heritage](https://donations.vipulnaik.com/donor.php?donor=The+Lynde+and+Harry+Bradley+Foundation) (Tier 1) (VERIFIED)
-- ~~[SourceWatch: Heritage Foundation donor profiles](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Heritage_Foundation)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[SourceWatch: Heritage Foundation donor profiles](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Heritage_Foundation)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [InfluenceWatch: Sarah Scaife Foundation and Heritage](https://www.influencewatch.org/non-profit/sarah-scaife-foundation/) (Tier 2) (VERIFIED)
 - [InfluenceWatch: Lynde and Harry Bradley Foundation](https://www.influencewatch.org/non-profit/lynde-and-harry-bradley-foundation-inc/) (Tier 2) (VERIFIED)
 - [ACLU: Project 2025, Explained](https://www.aclu.org/project-2025-explained) (Tier 3) (VERIFIED)

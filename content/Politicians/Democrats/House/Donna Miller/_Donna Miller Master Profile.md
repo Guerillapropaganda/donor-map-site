@@ -1,15 +1,15 @@
 ---
-title: "Donna Miller Master Profile"
+title: "Donna Miller"
 type: local-politician
 current-office: "Cook County Commissioner, District 6 (Illinois)"
-candidate-for: "US House 2026 (Illinois, Democratic primary — exact district needs verification from FEC filing H6IL02355)"
+candidate-for: "US House 2026 (Illinois, Democratic primary , exact district needs verification from FEC filing H6IL02355)"
 content-readiness: draft
-central-thesis: "Donna Miller's 2026 primary victory represents the most visible and controversial deployment of AIPAC's shell PAC infrastructure in the 2026 cycle. The 'Affordable Chicago Now' super PAC—which Miller's opponents explicitly identified as an AIPAC s..."
+central-thesis: "Donna Miller's 2026 primary victory represents the most visible and controversial deployment of AIPAC's shell PAC infrastructure in the 2026 cycle. The 'Affordable Chicago Now' super PAC, which Miller's opponents explicitly identified as an AIPAC s..."
 last-updated: 2026-04-11
 source-tier: 1
 parent: null
 party: "Democrat"
-chamber: "House"  # refers to the federal race she is running in, not a current seat
+chamber: "House" # refers to the federal race she is running in, not a current seat
 top-donors:
   - "AIPAC"
   - "United Democracy Project"
@@ -29,7 +29,7 @@ last-enriched: "2026-04-10"
 wikipedia-url: "https://en.wikipedia.org/wiki/Donna_Miller"
 wikipedia-extract: "Donna Lynne Miller is an American politician currently serving as a Cook County commissioner, representing the board's 6th district."
 born: "1965-09-07"
-internal-notes: "[JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'B001296' ((unknown — smaller 3-file contamination)), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 3 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
+internal-notes: "[JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'B001296' ((unknown , smaller 3-file contamination)), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 3 unrelated profiles all had the same wrong ID , same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
 ---
 #democrat #politician #house
 tags: #democrat
@@ -48,14 +48,14 @@ donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[United D
 
 ## The Central Thesis
 
-Donna Miller's 2026 primary victory represents the most visible and controversial deployment of [[AIPAC - American Israel Public Affairs Committee|AIPAC]]'s shell PAC infrastructure in the 2026 cycle. The "Affordable Chicago Now" super PAC—which Miller's opponents explicitly identified as an AIPAC shell group—spent $4.4M in her race, constituting the dominant outside spending force. This was not subtle influence; it was overt and contentious. The central thesis: Miller won her primary because she was identified as the candidate most aligned with pro-Israel policy interests, and AIPAC deployed unprecedented financial firepower to ensure her nomination. Her campaign raised only $2M through late February, with approximately two-thirds coming from recent AIPAC/UDP donors. This means Miller's primary victory was effectively purchased by pro-Israel infrastructure: the $4.4M super PAC spending dwarfed her own fundraising, making her less of an independent candidate and more of a proxy for AIPAC's preferred South Side representation. The contradiction is stark: Miller is Black, female, and positioned as a progressive, yet she owes her political career to pro-Israel donor networks that mobilized unprecedented resources to defeat more grassroots-oriented competitors.
+Donna Miller's 2026 primary victory represents the most visible and controversial deployment of [[AIPAC - American Israel Public Affairs Committee|AIPAC]]'s shell PAC infrastructure in the 2026 cycle. The "Affordable Chicago Now" super PAC, which Miller's opponents explicitly identified as an AIPAC shell group, spent $4.4M in her race, constituting the dominant outside spending force. This was not subtle influence; it was overt and contentious. The central thesis: Miller won her primary because she was identified as the candidate most aligned with pro-Israel policy interests, and AIPAC deployed unprecedented financial firepower to ensure her nomination. Her campaign raised only $2M through late February, with approximately two-thirds coming from recent AIPAC/UDP donors. This means Miller's primary victory was effectively purchased by pro-Israel infrastructure: the $4.4M super PAC spending dwarfed her own fundraising, making her less of an independent candidate and more of a proxy for AIPAC's preferred South Side representation. The contradiction is stark: Miller is Black, female, and positioned as a progressive, yet she owes her political career to pro-Israel donor networks that mobilized unprecedented resources to defeat more grassroots-oriented competitors.
 
 > [!money]
 > Affordable Chicago Now super PAC spent $4.4M in IL-2 primary supporting Miller. Miller herself raised $2M through late February 2026, with 83% of Q4 fundraising ($875K) coming from people who had recently contributed to AIPAC or UDP. Outside spending dwarfed candidate fundraising by 2.2:1 margin.
 
 ## The Core Contradiction
 
-Miller's political identity and the donor base that propelled her to Congress represent a fundamental contradiction. She is marketed as a grassroots Chicago politician—Cook County Commissioner, healthcare consultant background, Black woman representing South Side community. Yet her actual path to Congress was paved by $4.4M in dark-money super PAC spending from an explicitly pro-Israel infrastructure, spending that exceeded her own fundraising by more than 2:1. The secondary contradiction: her opposition framed the super PAC spending as AIPAC interference, yet Miller's campaign accepted and benefited from this support, positioning herself as a politician who could be "purchased" by organized donor networks despite being marketed as representative of South Side community interests. The class contradiction is particularly acute: Miller presents as a South Side representative, but her funding base consists of wealthy pro-Israel donors, many recent AIPAC contributors, with only modest grassroots fundraising.
+Miller's political identity and the donor base that propelled her to Congress represent a fundamental contradiction. She is marketed as a grassroots Chicago politician, Cook County Commissioner, healthcare consultant background, Black woman representing South Side community. Yet her actual path to Congress was paved by $4.4M in dark-money super PAC spending from an explicitly pro-Israel infrastructure, spending that exceeded her own fundraising by more than 2:1. The secondary contradiction: her opposition framed the super PAC spending as AIPAC interference, yet Miller's campaign accepted and benefited from this support, positioning herself as a politician who could be "purchased" by organized donor networks despite being marketed as representative of South Side community interests. The class contradiction is particularly acute: Miller presents as a South Side representative, but her funding base consists of wealthy pro-Israel donors, many recent AIPAC contributors, with only modest grassroots fundraising.
 
 > [!contradiction]
 > Miller is positioned as a community-rooted South Side representative, yet 83% of her Q4 fundraising came from recent AIPAC/UDP donors, and the "Affordable Chicago Now" super PAC spent $4.4M—nearly 2.2x her total primary fundraising—to secure her nomination. She won primary debates over candidates with stronger grassroots support because AIPAC's money overwhelmed other campaigns. This represents a direct contradiction between her "community representative" political identity and her actual status as a AIPAC-funded proxy candidate.
@@ -79,21 +79,21 @@ Miller's political identity and the donor base that propelled her to Congress re
 
 ## Donation-to-Policy Timeline
 
-*Note: Affordable Chicago Now — an AIPAC shell PAC with a name designed to suggest grassroots economic priorities — spent $4.4M to elect Miller. Her own campaign raised $2M. 83% of her Q4 direct fundraising came from recent AIPAC/UDP donors. This is not a grassroots campaign supplemented by outside support — it is an AIPAC operation supplemented by a South Side candidate.*
+*Note: Affordable Chicago Now, an AIPAC shell PAC with a name designed to suggest grassroots economic priorities, spent $4.4M to elect Miller. Her own campaign raised $2M. 83% of her Q4 direct fundraising came from recent AIPAC/UDP donors. This is not a grassroots campaign supplemented by outside support, it is an AIPAC operation supplemented by a South Side candidate.*
 
 #### AIPAC Shell PAC Infrastructure / IL-2 Purchase
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2025-Q4 | AIPAC/UDP-connected individual donors — 83% of Q4 fundraising from recent AIPAC contributors | $875K Q4; ~$726K from AIPAC-connected donors | Q4 2025 | Direct campaign funding captured by pro-Israel donor network; "grassroots" fundraising narrative masks that 4 out of 5 dollars come from organized AIPAC infrastructure |
-| 2026-Q1 | Affordable Chicago Now (AIPAC shell super PAC) spends $4.4M supporting Miller — exceeds total campaign fundraising by 2.2x; AIPAC deploys $14M+ across IL primaries | $4.4M shell PAC; $14M+ IL-wide AIPAC operation | 2026 Q1 | Wins IL-2 primary with ~40%; AIPAC's preferred candidate secures South Side congressional seat; shell PAC name ("Affordable Chicago Now") designed to suggest economic priorities while funding pro-Israel foreign policy alignment |
+| 2025-Q4 | AIPAC/UDP-connected individual donors, 83% of Q4 fundraising from recent AIPAC contributors | $875K Q4; ~$726K from AIPAC-connected donors | Q4 2025 | Direct campaign funding captured by pro-Israel donor network; "grassroots" fundraising narrative masks that 4 out of 5 dollars come from organized AIPAC infrastructure |
+| 2026-Q1 | Affordable Chicago Now (AIPAC shell super PAC) spends $4.4M supporting Miller, exceeds total campaign fundraising by 2.2x; AIPAC deploys $14M+ across IL primaries | $4.4M shell PAC; $14M+ IL-wide AIPAC operation | 2026 Q1 | Wins IL-2 primary with ~40%; AIPAC's preferred candidate secures South Side congressional seat; shell PAC name ("Affordable Chicago Now") designed to suggest economic priorities while funding pro-Israel foreign policy alignment |
 
 #### Cook County Commissioner / Community Credential
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2018-2022 | Local government credential — Cook County Commissioner, 6th District | Baseline local political career | 2018-2022 | Builds "community representative" brand; healthcare consulting background provides professional credential; positioned as South Side grassroots politician |
-| 2026-03-17 | Defeats Jesse Jackson Jr. and Robert Peters — AIPAC money overwhelms competing campaigns | $4.4M AIPAC shell PAC + $2M campaign (83% AIPAC-connected) | March 17, 2026 | Beneficiary: pro-Israel infrastructure gains South Side representation; "community representative" identity deployed despite funding from donors geographically and socially disconnected from district |
+| 2018-2022 | Local government credential. Cook County Commissioner, 6th District | Baseline local political career | 2018-2022 | Builds "community representative" brand; healthcare consulting background provides professional credential; positioned as South Side grassroots politician |
+| 2026-03-17 | Defeats Jesse Jackson Jr. and Robert Peters. AIPAC money overwhelms competing campaigns | $4.4M AIPAC shell PAC + $2M campaign (83% AIPAC-connected) | March 17, 2026 | Beneficiary: pro-Israel infrastructure gains South Side representation; "community representative" identity deployed despite funding from donors geographically and socially disconnected from district |
 
 > [!money] The Damning Sequences
 > **The 2.2x ratio (2026):** Affordable Chicago Now — an AIPAC shell PAC with a name designed to suggest grassroots economic priorities — spent $4.4M to elect Miller. Her own campaign raised $2M. The outside money exceeded her fundraising by 2.2-to-1. Meanwhile, 83% of her Q4 direct campaign funding came from recent AIPAC/UDP donors. This is not a South Side grassroots campaign supplemented by outside support — it is an AIPAC operation supplemented by a South Side candidate.
@@ -104,21 +104,21 @@ Miller's political identity and the donor base that propelled her to Congress re
 
 ## Analytical Patterns
 
-**The Villain Framing** — When opponents and independent observers criticized the $4.4M super PAC spending as "AIPAC interference," Miller and her allies reframed the conversation around the *form* of the criticism rather than its substance. The "Affordable Chicago Now" shell PAC spending wasn't presented as donor capture — it was presented as a "well-funded campaign," with the word "well" doing the rhetorical work to normalize the unprecedented outside spending. By not calling it what it was (mega-donor overwhelm of a grassroots opponent), Miller's messaging deflected class analysis onto the messenger's motives.
+**The Villain Framing**. When opponents and independent observers criticized the $4.4M super PAC spending as "AIPAC interference," Miller and her allies reframed the conversation around the *form* of the criticism rather than its substance. The "Affordable Chicago Now" shell PAC spending wasn't presented as donor capture, it was presented as a "well-funded campaign," with the word "well" doing the rhetorical work to normalize the unprecedented outside spending. By not calling it what it was (mega-donor overwhelm of a grassroots opponent), Miller's messaging deflected class analysis onto the messenger's motives.
 
-**The Two-Audience Problem** — Miller presented herself as a South Side community representative to voters, while her actual funding came from recent AIPAC donors geographically and socially disconnected from her district. Two messages: "I am you" to voters; "you can reliably count on me for your foreign policy interests" to donors. Each audience received the narrative it needed to support her. Neither received clarity about which funding base was primary.
+**The Two-Audience Problem**. Miller presented herself as a South Side community representative to voters, while her actual funding came from recent AIPAC donors geographically and socially disconnected from her district. Two messages: "I am you" to voters; "you can reliably count on me for your foreign policy interests" to donors. Each audience received the narrative it needed to support her. Neither received clarity about which funding base was primary.
 
 ---
 
 ## Rhetorical Signature Moves
 
-1. **"Grassroots South Side Representative"** — Miller emphasizes her Cook County Commissioner credentials and healthcare consulting background to position herself as a working-class advocate who understands community needs. This rhetoric is powerful but masks her reliance on pro-Israel mega-donors who are entirely disconnected from South Side constituency concerns.
+1. **"Grassroots South Side Representative"**. Miller emphasizes her Cook County Commissioner credentials and healthcare consulting background to position herself as a working-class advocate who understands community needs. This rhetoric is powerful but masks her reliance on pro-Israel mega-donors who are entirely disconnected from South Side constituency concerns.
 
-2. **"Fighting for Affordable Housing and Healthcare"** — The ironic name of the super PAC funding her campaign ("Affordable Chicago Now") suggests grassroots economic priorities, yet the actual super PAC is an AIPAC infrastructure group with no stated commitment to housing or healthcare policy.
+2. **"Fighting for Affordable Housing and Healthcare"**. The ironic name of the super PAC funding her campaign ("Affordable Chicago Now") suggests grassroots economic priorities, yet the actual super PAC is an AIPAC infrastructure group with no stated commitment to housing or healthcare policy.
 
-3. **"Community-Oriented Leadership"** — Miller's Cook County Commissioner record is presented as proof of her commitment to "the community," a rhetorical strategy that conflates local constituency service with the reality that her congressional path was funded by organized pro-Israel donors.
+3. **"Community-Oriented Leadership"**. Miller's Cook County Commissioner record is presented as proof of her commitment to "the community," a rhetorical strategy that conflates local constituency service with the reality that her congressional path was funded by organized pro-Israel donors.
 
-4. **"Black Woman Breaking Barriers"** — Miller's identity as a Black woman is central to her political brand and appeals to South Side voters concerned with representation. This identity-based rhetoric is deployed even as her funding comes from wealthy pro-Israel donors (many non-Black, non-South Side) who had other political motivations for supporting her candidacy.
+4. **"Black Woman Breaking Barriers"**. Miller's identity as a Black woman is central to her political brand and appeals to South Side voters concerned with representation. This identity-based rhetoric is deployed even as her funding comes from wealthy pro-Israel donors (many non-Black, non-South Side) who had other political motivations for supporting her candidacy.
 
 ### Biographical Facts
 

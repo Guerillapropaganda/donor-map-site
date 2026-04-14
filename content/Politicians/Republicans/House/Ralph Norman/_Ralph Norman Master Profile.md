@@ -1,5 +1,5 @@
 ---
-title: "Ralph Norman Master Profile"
+title: "Ralph Norman"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -1,5 +1,5 @@
 ---
-title: "Jennifer L. McClellan Master Profile"
+title: "Jennifer L. McClellan"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

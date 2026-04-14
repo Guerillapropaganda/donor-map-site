@@ -33,9 +33,9 @@ donors: [[_JB Pritzker Master Profile|JB Pritzker]]
 
 ### The DGA Power Play
 
-Pritzker's $24–27M DGA contribution gave him outsized influence over Democratic gubernatorial races nationally. In Illinois, the DGA spent $19 million on primary ads promoting Darren Bailey — Pritzker's preferred, weaker Republican opponent — over Richard Irvin, a more competitive moderate.
+Pritzker's $24–27M DGA contribution gave him outsized influence over Democratic gubernatorial races nationally. In Illinois, the DGA spent $19 million on primary ads promoting Darren Bailey. Pritzker's preferred, weaker Republican opponent, over Richard Irvin, a more competitive moderate.
 
-The strategy: use DGA money to select your own opponent, then spend $152M to defeat the opponent you chose. The entire general election was pre-determined in the primary — funded by the same billionaire on both sides of the transaction.
+The strategy: use DGA money to select your own opponent, then spend $152M to defeat the opponent you chose. The entire general election was pre-determined in the primary, funded by the same billionaire on both sides of the transaction.
 
 ---
 

@@ -79,7 +79,7 @@ The Ohio AFL-CIO represents labor's constraint within Democratic Party politics:
 
 ### Sources
 
-- ~~[OpenSecrets: Ohio AFL-CIO spending 2024](https://www.opensecrets.org/organizations/ohio-afl-cio)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Ohio AFL-CIO spending 2024](https://www.opensecrets.org/organizations/ohio-afl-cio)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [OpenSecrets: AFL-CIO political spending profile](https://www.opensecrets.org/orgs/afl-cio/summary?id=D000000088) (VERIFIED)
 
 ---

@@ -92,7 +92,7 @@ The Carlyle background shapes Youngkin's governing style in observable ways:
 
 ### Sources
 
-- ~~[Bloomberg: Glenn Youngkin at Carlyle Racked Up Bad Bets Before Entering Virginia Politics](https://www.bloomberg.com/news/articles/2021-08-04/ex-carlyle-boss-racked-up-bad-bets-before-switching-to-politics)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Bloomberg: Glenn Youngkin at Carlyle Racked Up Bad Bets Before Entering Virginia Politics](https://www.bloomberg.com/news/articles/2021-08-04/ex-carlyle-boss-racked-up-bad-bets-before-switching-to-politics)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [NBC Washington: GOP Candidate's Private Equity Resume Draws Scrutiny in Va.](https://www.nbcwashington.com/news/local/gop-candidates-private-equity-resume-draws-scrutiny-in-va/2716941/) (Tier 2) (VERIFIED)
 - [CNBC: Former Carlyle Group co-CEO Glenn Youngkin on his run for Virginia governor](https://www.cnbc.com/video/2021/03/25/former-carlyle-group-co-ceo-glenn-youngkin-virginia-governor.html) (Tier 2) (VERIFIED)
 - [Wikipedia: Glenn Youngkin](https://en.wikipedia.org/wiki/Glenn_Youngkin) (Tier 3) (VERIFIED)

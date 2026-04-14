@@ -1,8 +1,8 @@
 ---
-title: "Joseph Morelle Master Profile"
+title: "Joseph Morelle"
 type: politician
 content-readiness: ready
-central-thesis: "Morelle is the institutional Democrat — a career legislator who spent nearly three decades in the Albany Assembly before moving to Congress, where he now oversees the mechanics of federal elections from the House Administration Committee. His dono..."
+central-thesis: "Morelle is the institutional Democrat , a career legislator who spent nearly three decades in the Albany Assembly before moving to Congress, where he now oversees the mechanics of federal elections from the House Administration Committee. His dono..."
 last-updated: 2026-04-13
 source-tier: 1
 parent: null
@@ -43,7 +43,7 @@ committees:
   - "House Committee on House Administration"
   - "Joint Committee of Congress on the Library"
   - "Joint Committee on Printing"
-internal-notes: "[MANUAL 2026-04-11] Bioguide recovered: M001206. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true — the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
+internal-notes: "[MANUAL 2026-04-11] Bioguide recovered: M001206. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true , the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
 
 [JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
 total-raised: "$1,130,491"
@@ -68,13 +68,13 @@ donors: [[Labor Unions]] · Corporate PACs · Democratic Leadership PACs
 
 **Current committee assignment:** House Administration (Ranking Member).
 
-**The Albany succession:** Morelle's career is a pure political machine product — 28 years in the New York State Assembly, elevated to Majority Leader by Sheldon Silver, then moved to Congress to fill Louise Slaughter's seat. The House Administration Committee is the congressional housekeeping committee: it oversees election security, voting rights, federal elections, Capitol operations, and the day-to-day management of the House. It's not a donor magnet — it's an institutional power position, the committee that controls the mechanics of how Congress operates and how federal elections are conducted.
+**The Albany succession:** Morelle's career is a pure political machine product, 28 years in the New York State Assembly, elevated to Majority Leader by Sheldon Silver, then moved to Congress to fill Louise Slaughter's seat. The House Administration Committee is the congressional housekeeping committee: it oversees election security, voting rights, federal elections, Capitol operations, and the day-to-day management of the House. It's not a donor magnet, it's an institutional power position, the committee that controls the mechanics of how Congress operates and how federal elections are conducted.
 
 ---
 
 ## The Central Thesis
 
-Morelle is the institutional Democrat — a career legislator who spent nearly three decades in the Albany Assembly before moving to Congress, where he now oversees the mechanics of federal elections from the House Administration Committee. His donor model is party-machine rather than industry-capture: PAC contributions ($702,000 in his first campaign, more than half his total) tilted toward unions and Democratic leadership committees rather than corporate interests. His fundraising reflects institutional positioning — Harris Corporation PAC ($10,000), UnitedHealth Group ($2,500), Walmart ($2,000) — but the dominant donor class is organized labor (boilermakers, bricklayers, postal workers, machinists, teachers, aerospace workers) and Democratic committee money. This is the profile of a party operator, not an industry senator. The analytical value is different from a Schatz or Coons: Morelle represents the institutional infrastructure of the Democratic Party itself — the machine that manages elections, controls House operations, and maintains the party's procedural power.
+Morelle is the institutional Democrat, a career legislator who spent nearly three decades in the Albany Assembly before moving to Congress, where he now oversees the mechanics of federal elections from the House Administration Committee. His donor model is party-machine rather than industry-capture: PAC contributions ($702,000 in his first campaign, more than half his total) tilted toward unions and Democratic leadership committees rather than corporate interests. His fundraising reflects institutional positioning. Harris Corporation PAC ($10,000), UnitedHealth Group ($2,500), Walmart ($2,000), but the dominant donor class is organized labor (boilermakers, bricklayers, postal workers, machinists, teachers, aerospace workers) and Democratic committee money. This is the profile of a party operator, not an industry senator. The analytical value is different from a Schatz or Coons: Morelle represents the institutional infrastructure of the Democratic Party itself, the machine that manages elections, controls House operations, and maintains the party's procedural power.
 
 > [!money]
 > **Campaign finance (2018 cycle):** Raised $1.6 million. PAC contributions: $702,000+ (nearly half of total). Individual contributions: $893,000. PAC tilt: unions and Democratic committees over corporations. Top PAC contributors included labor unions (boilermakers, bricklayers, postal workers, machinists, teachers, aerospace workers) and Democratic leadership PACs. Corporate PAC notable contributions: Harris Corporation ($10,000), UnitedHealth Group ($2,500), Walmart ($2,000). Safe district allows institutional focus over constituent-service fundraising pressure.
@@ -104,13 +104,13 @@ Morelle is the institutional Democrat — a career legislator who spent nearly t
 
 | Date | Type | Event | Donor/Amount | Gap |
 |------|------|-------|-------------|-----|
-| 1990 | Election | Elected to New York State Assembly | Local Democratic machine support | 0 — career start |
+| 1990 | Election | Elected to New York State Assembly | Local Democratic machine support | 0, career start |
 | 1990–2018 | Career | 28 years in NY Assembly; elevated to Majority Leader by Speaker Sheldon Silver (2013) | Institutional party loyalty | Career-long machine advancement |
-| 2018 | Succession | Louise Slaughter dies; Morelle wins special election to succeed her | $1.6M raised; $702K PAC (union-heavy) | Machine succession — party cleared path |
+| 2018 | Succession | Louise Slaughter dies; Morelle wins special election to succeed her | $1.6M raised; $702K PAC (union-heavy) | Machine succession, party cleared path |
 | 2018 | Donation | Harris Corporation PAC: $10,000 (top corporate donor) | L3Harris: major Rochester-area employer | Constituent/donor overlap |
 | 2019–2024 | Policy | House Administration Committee work: election security, voting rights, Capitol operations | Institutional positioning; no major industry donor overlap | Committee serves party infrastructure, not donor class |
 | 2024 | Position | ← Becomes Ranking Member, House Administration Committee | Democratic institutional power | Machine career → institutional gatekeeper |
-| 2025–2026 | Policy | Opposes SAVE Act (voter suppression); releases Native American voting rights report; defends overseas voting | No donor-class driver — this is party infrastructure work | Voting rights work serves Democratic Party institutional interests |
+| 2025–2026 | Policy | Opposes SAVE Act (voter suppression); releases Native American voting rights report; defends overseas voting | No donor-class driver, this is party infrastructure work | Voting rights work serves Democratic Party institutional interests |
 
 > [!money] The Machine Model
 > Morelle's donor profile is structurally different from the industry-capture profiles that dominate the vault. His PAC money comes primarily from labor unions and Democratic leadership committees — the institutional party infrastructure — not from the corporate industries that fund most of his colleagues. The House Administration Committee has no major industry lobby the way Agriculture (agribusiness), Armed Services (defense), or Finance (Wall Street) do. Morelle's value to the party is operational, not transactional: he manages the mechanics of elections and House operations. The money that funds him reflects institutional loyalty rather than policy purchase. This is what the party machine looks like at the congressional level — advancement through loyalty, funding through labor/party infrastructure, and committee assignments that serve the party's institutional needs.
@@ -131,23 +131,23 @@ His son of a union plumber origin story is genuine, not performed. But even genu
 
 ## Analytical Patterns
 
-**Machine Politics as Structure:** Morelle's career represents the Democratic Party's internal power structure — advancement through institutional loyalty (28 years in the Assembly, elevated by Silver, succession to Slaughter's seat, House Administration Ranking Member). The machine model operates differently from donor-class capture: instead of industry money driving policy, party loyalty drives committee assignment, and committee assignment serves the party's institutional interests (election management, voting rights, Capitol operations).
+**Machine Politics as Structure:** Morelle's career represents the Democratic Party's internal power structure, advancement through institutional loyalty (28 years in the Assembly, elevated by Silver, succession to Slaughter's seat, House Administration Ranking Member). The machine model operates differently from donor-class capture: instead of industry money driving policy, party loyalty drives committee assignment, and committee assignment serves the party's institutional interests (election management, voting rights, Capitol operations).
 
-**Genuine Win + Structural Limit:** The voting rights work is the genuine win — opposing voter suppression, documenting Native American voting barriers, defending election access. The structural limit: the Democratic Party's election security champion operates within a party that controls its own internal succession through the same machine dynamics it critiques in Republican voter suppression. The voting rights work defends democratic participation against Republican restrictions while the internal party structure that produced Morelle restricts participation through institutional gatekeeping.
+**Genuine Win + Structural Limit:** The voting rights work is the genuine win, opposing voter suppression, documenting Native American voting barriers, defending election access. The structural limit: the Democratic Party's election security champion operates within a party that controls its own internal succession through the same machine dynamics it critiques in Republican voter suppression. The voting rights work defends democratic participation against Republican restrictions while the internal party structure that produced Morelle restricts participation through institutional gatekeeping.
 
-**Both-Sides Illusion (Internal Variant):** Republicans restrict voting through legislative voter suppression (SAVE Act, ID requirements, registration barriers). Democrats restrict political access through institutional gatekeeping (party clearing fields, machine succession, leadership PAC funding decisions). Morelle's career embodies the Democratic variant while his committee work opposes the Republican variant. Both parties manage who participates in the political system — they just use different mechanisms.
+**Both-Sides Illusion (Internal Variant):** Republicans restrict voting through legislative voter suppression (SAVE Act, ID requirements, registration barriers). Democrats restrict political access through institutional gatekeeping (party clearing fields, machine succession, leadership PAC funding decisions). Morelle's career embodies the Democratic variant while his committee work opposes the Republican variant. Both parties manage who participates in the political system, they just use different mechanisms.
 
 ---
 
 ## Rhetorical Signature Moves
 
-1. **Louise Slaughter's Successor:** Morelle inherits the progressive credentialing of Louise Slaughter, Rochester's beloved longtime representative. Framing the succession as continuity with Slaughter's legacy positions Morelle within a progressive tradition he may not fully share — Slaughter was an activist progressive; Morelle is a party institutionalist.
+1. **Louise Slaughter's Successor:** Morelle inherits the progressive credentialing of Louise Slaughter, Rochester's beloved longtime representative. Framing the succession as continuity with Slaughter's legacy positions Morelle within a progressive tradition he may not fully share. Slaughter was an activist progressive; Morelle is a party institutionalist.
 
-2. **Defending Democracy:** As House Administration Ranking Member, Morelle frames every position as defending democratic participation — opposing the SAVE Act, releasing voting rights reports, protecting overseas ballots. The democracy-defense framing makes institutional party work look like populist activism.
+2. **Defending Democracy:** As House Administration Ranking Member, Morelle frames every position as defending democratic participation, opposing the SAVE Act, releasing voting rights reports, protecting overseas ballots. The democracy-defense framing makes institutional party work look like populist activism.
 
 3. **Union Family Background:** Son of a Plumbers and Pipefitters union member, Korean War veteran. The working-class Rochester origin story is genuine and anchors Morelle's labor-aligned funding base in personal biography rather than strategic positioning.
 
-4. **Institutional Competence:** 28 years in the Assembly, Majority Leader, institutional advancement. Morelle frames experience and seniority as qualification — the opposite of insurgent populism. This is the machine's self-justification: experience equals competence equals the right to govern.
+4. **Institutional Competence:** 28 years in the Assembly, Majority Leader, institutional advancement. Morelle frames experience and seniority as qualification, the opposite of insurgent populism. This is the machine's self-justification: experience equals competence equals the right to govern.
 
 ---
 

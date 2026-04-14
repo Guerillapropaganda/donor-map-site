@@ -1,5 +1,5 @@
 ---
-title: "Lloyd Doggett Master Profile"
+title: "Lloyd Doggett"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

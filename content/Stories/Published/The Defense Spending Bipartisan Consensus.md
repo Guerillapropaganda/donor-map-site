@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 issues:
   - "Defense & Military"
-related: "[[Think Tank Capture - Foreign Governments Writing US Policy]] · [[The Revolving Door - How Government Service Becomes Industry Employment]] · [[The Nuestra América Convoy — How the Donor Class Attacked a Humanitarian Mission]] · [[Defense Contractor 450000 Percent ROI]] · [[South Carolina 2026 Senate Race]] · [[Lockheed Martin]] · [[Raytheon (RTX)]] · [[Boeing]] · [[General Dynamics]] · [[Northrop Grumman]] · [[How Committee Jurisdiction Drives Fundraising]]"
+related: "[[Think Tank Capture - Foreign Governments Writing US Policy]] · [[The Revolving Door - How Government Service Becomes Industry Employment]] · [[The Nuestra América Convoy , How the Donor Class Attacked a Humanitarian Mission]] · [[Defense Contractor 450000 Percent ROI]] · [[South Carolina 2026 Senate Race]] · [[Lockheed Martin]] · [[Raytheon (RTX)]] · [[Boeing]] · [[General Dynamics]] · [[Northrop Grumman]] · [[How Committee Jurisdiction Drives Fundraising]]"
 source-types:
   - Congress
   - FEC
@@ -19,7 +19,7 @@ corroboration-count: 2
 
 ### The $886 Billion Consensus
 
-The 2024 National Defense Authorization Act: $886 billion. Passed with bipartisan supermajorities — 310-118 in the House, 87-13 in the Senate. In a Congress that cannot agree on government funding, disaster relief, or basic appropriations, the NDAA passes every year with overwhelming support. The defense budget has increased every year for a decade, regardless of which party controls Congress or the White House.
+The 2024 National Defense Authorization Act: $886 billion. Passed with bipartisan supermajorities, 310-118 in the House, 87-13 in the Senate. In a Congress that cannot agree on government funding, disaster relief, or basic appropriations, the NDAA passes every year with overwhelming support. The defense budget has increased every year for a decade, regardless of which party controls Congress or the White House.
 
 This consensus is not organic. It is manufactured through the most sophisticated industrial lobbying operation in American history.
 
@@ -27,7 +27,7 @@ This consensus is not organic. It is manufactured through the most sophisticated
 
 ### How the Consensus Is Built
 
-**District-Level Dependencies:** The top five defense contractors (Lockheed Martin, RTX, Boeing, Northrop Grumman, General Dynamics) maintain operations in 48+ states and 400+ congressional districts. Every major weapons system is designed to distribute production across the maximum number of districts: the F-35 has suppliers in 45 states, ensuring that 90 senators have a constituency interest in the program's continuation. This is not coincidental; it is the defense industry's primary political strategy — distribute production to create congressional dependencies.
+**District-Level Dependencies:** The top five defense contractors (Lockheed Martin, RTX, Boeing, Northrop Grumman, General Dynamics) maintain operations in 48+ states and 400+ congressional districts. Every major weapons system is designed to distribute production across the maximum number of districts: the F-35 has suppliers in 45 states, ensuring that 90 senators have a constituency interest in the program's continuation. This is not coincidental; it is the defense industry's primary political strategy, distribute production to create congressional dependencies.
 
 **The Revolving Door:** The defense industry employs more former government officials than any other sector. Between 2019 and 2023, 700+ former senior DOD officials moved to defense contractor positions. The career path: serve at the Pentagon making procurement decisions, leave government to join the contractors who benefit from those decisions, then lobby former colleagues for future contracts. The revolving door is not corruption; it is the personnel system that ensures the defense consensus is self-perpetuating.
 
@@ -57,6 +57,6 @@ The Pentagon has failed its annual financial audit every year since audits began
 
 - [FEC Receipts: Defense industry lobbying totals](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
 - [DOD: Annual financial audit results](https://comptroller.defense.gov/ODCFO/audit.aspx) (Tier 1) (NEEDS REVIEW)
-- ~~[Congress.gov: National Defense Authorization Act for Fiscal Year 2024](https://www.congress.gov/bill/118th-congress/house-bill/2670)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: National Defense Authorization Act for Fiscal Year 2024](https://www.congress.gov/bill/118th-congress/house-bill/2670)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Ballotpedia: Defense spending](https://ballotpedia.org/Federal_policy_on_defense_spending) (Tier 3) (VERIFIED)
 

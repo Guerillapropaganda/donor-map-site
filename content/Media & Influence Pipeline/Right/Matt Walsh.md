@@ -6,7 +6,7 @@ last-updated: 2026-04-13
 source-tier: 1
 parent: null
 category: right
-related: "[[Ben Shapiro]] · [[Candace Owens]] · [[Steven Crowder]] · [[Charlie Kirk]] · [[_Media Pipeline Framework]] · [[Jordan Peterson]] · [[Dave Rubin]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tenet Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Rumble]] · [[Laura Ingraham]] · [[Jesse Watters]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Dan Bongino]] · [[The Daily Wire]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[Christopher Rufo]] · [[Andrew Klavan]] · [[TYT Network - The Young Turks]] · [[Sam Seder]] · [[Jimmy Dore]] · [[Rachel Maddow]] · [[Pod Save America]] · [[Kyle Kulinski]] · [[John Oliver]] · [[Hasan Piker]] · [[David Pakman]] · [[Crooked Media]] · [[Cenk Uygur]] · [[Briahna Joy Gray]] · [[Fox News - Murdoch Media Empire]] · [[Valuetainment]] · [[The Free Press]]"
+related: "[[Ben Shapiro]] · [[Candace Owens]] · [[Steven Crowder]] · [[Charlie Kirk]] · [[_Media Pipeline Framework]] · [[Jordan Peterson]] · [[Dave Rubin]] · [[The Platform Dependency Spectrum , Revenue Vulnerability Across Political Media]] · [[Tenet Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Rumble]] · [[Laura Ingraham]] · [[Jesse Watters]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Dan Bongino]] · [[The Daily Wire]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[Christopher Rufo]] · [[Andrew Klavan]] · [[TYT Network - The Young Turks]] · [[Sam Seder]] · [[Jimmy Dore]] · [[Rachel Maddow]] · [[Pod Save America]] · [[Kyle Kulinski]] · [[John Oliver]] · [[Hasan Piker]] · [[David Pakman]] · [[Crooked Media]] · [[Cenk Uygur]] · [[Briahna Joy Gray]] · [[Fox News - Murdoch Media Empire]] · [[Valuetainment]] · [[The Free Press]]"
 donors: "[[Wilks Brothers]]"
 ---
 
@@ -168,7 +168,7 @@ Matt Walsh represents **the culture war content factory**, the industrialization
 - [HuffPost: "This State Tried To Pass Anti-Trans Laws For Years. Then A Right-Wing Media Star Got Involved."](https://www.huffpost.com/entry/matt-walsh-anti-trans-push-tennessee_n_653fd5e8e4b032ae1c9c0497) (Tier 2) (VERIFIED)
 - [Nashville Scene: "Anti-Trans Rally Led by Matt Walsh Brings Right-Wing Media Stars to Nashville"](https://www.nashvillescene.com/news/pithinthewind/anti-trans-rally-led-by-matt-walsh-brings-right-wing-media-stars-to-nashville/article_62c08340-5160-11ed-81bb-53478d4387aa.html) (Tier 2) (VERIFIED)
 - [NBC News: "Tennessee GOP urges pediatric clinic to stop providing gender-affirming surgeries"](https://www.nbcnews.com/nbc-out/out-politics-and-policy/tennessee-gop-urges-pediatric-clinic-stop-providing-gender-affirming-s-rcna50181) (Tier 2) (VERIFIED)
-- ~~[Axios: "The Daily Wire eyes growth investment in 2025"](https://www.axios.com/2024/12/10/the-daily-wire-eyes-growth-investment-in-2025)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Axios: "The Daily Wire eyes growth investment in 2025"](https://www.axios.com/2024/12/10/the-daily-wire-eyes-growth-investment-in-2025)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Inside Radio: "Matt Walsh's Podcast Is Again The Fastest Growing Among Conservatives"](https://www.insideradio.com/free/matt-walsh-s-podcast-is-again-the-fastest-growing-among-conservatives-analysis-shows/article_04ad9746-eb3a-11ee-b2f1-3b9ea599804f.html) (Tier 3) (VERIFIED)
 - [Media Matters: Matt Walsh Tag Page](https://www.mediamatters.org/matt-walsh) (Tier 2) (VERIFIED)
 

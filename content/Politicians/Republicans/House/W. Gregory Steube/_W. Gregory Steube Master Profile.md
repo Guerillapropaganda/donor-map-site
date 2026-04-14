@@ -1,5 +1,5 @@
 ---
-title: "W. Gregory Steube Master Profile"
+title: "W. Gregory Steube"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

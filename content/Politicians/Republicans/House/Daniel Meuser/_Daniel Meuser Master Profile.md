@@ -1,5 +1,5 @@
 ---
-title: "Daniel Meuser Master Profile"
+title: "Daniel Meuser"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

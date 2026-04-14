@@ -1,5 +1,5 @@
 ---
-title: "David Rouzer Master Profile"
+title: "David Rouzer"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

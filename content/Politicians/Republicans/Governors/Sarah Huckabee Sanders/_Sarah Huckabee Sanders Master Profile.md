@@ -1,5 +1,5 @@
 ---
-title: "Sarah Huckabee Sanders Master Profile"
+title: "Sarah Huckabee Sanders"
 type: politician
 content-readiness: draft
 central-thesis: "Sarah Huckabee Sanders monetized the Trump brand into a governorship and is now using that governorship to implement a corporate donor agenda that mirrors the national Republican platform. She is not a independent political force; she is a transmi..."
@@ -30,13 +30,13 @@ donors: Trump Network Small-Dollar Donors · [[Walton Family Foundation]] · Ark
 
 Sarah Elisabeth Huckabee Sanders. Born August 13, 1982. Governor of Arkansas (2023–present). Former White House Press Secretary (2017–2019). Daughter of Mike Huckabee (former Arkansas Governor 1996–2007). Political career built entirely on proximity to power and family dynasty.
 
-Sanders became nationally known through her role as Trump's Press Secretary, where she spent two years defending Trump's policies and managing media messaging. She is one of the most visible Trump loyalists to successfully translate White House proximity into statewide electoral power. Her 2022 Arkansas gubernatorial campaign raised $12.8 million, with 66% from out-of-state donors — primarily small-dollar Trump supporters nationwide who saw her as a Trump-branded political product.
+Sanders became nationally known through her role as Trump's Press Secretary, where she spent two years defending Trump's policies and managing media messaging. She is one of the most visible Trump loyalists to successfully translate White House proximity into statewide electoral power. Her 2022 Arkansas gubernatorial campaign raised $12.8 million, with 66% from out-of-state donors, primarily small-dollar Trump supporters nationwide who saw her as a Trump-branded political product.
 
 ---
 
 ## The Central Thesis
 
-Sarah Huckabee Sanders monetized the Trump brand into a governorship and is now using that governorship to implement a corporate donor agenda that mirrors the national Republican platform. She is not a independent political force; she is a transmission mechanism for downstream capital interests. Her signature policies — the LEARNS Act (education vouchers), child labor law rollback, and general business deregulation — serve Arkansas's wealthiest interests (primarily the Walton family of Walmart) while her rhetorical brand remains anchored to Trump loyalty and culture war positioning.
+Sarah Huckabee Sanders monetized the Trump brand into a governorship and is now using that governorship to implement a corporate donor agenda that mirrors the national Republican platform. She is not a independent political force; she is a transmission mechanism for downstream capital interests. Her signature policies, the LEARNS Act (education vouchers), child labor law rollback, and general business deregulation, serve Arkansas's wealthiest interests (primarily the Walton family of Walmart) while her rhetorical brand remains anchored to Trump loyalty and culture war positioning.
 
 The contradiction: a Trump loyalist implementing Walmart-aligned policy in a state (Arkansas) that both are deeply embedded in economically. The LEARNS Act's education vouchers funnel public money to private schools; the [[Walton Family Foundation|Walton Family Foundation]] is the primary funder of the privatization network. Sanders signed the law; the Waltons profit. Sanders gets to position herself as an education reformer; the Waltons get to extract public funding into private operations. The donor class gets policy; Sanders gets brand and positioning.
 
@@ -61,7 +61,7 @@ The $19,000 lectern scandal reveals the underlying dynamic: Sanders' office enga
 - Limited documentation of specific major donors (small-dollar fundraising structure)
 
 ### The [[Walton Family Foundation|Walton Family Foundation]]:
-- [[The LEARNS Act and the Education Privatization Donor Network]] — Voucher program, Walton Foundation connections, charter school expansion, public school hollowing
+- [[The LEARNS Act and the Education Privatization Donor Network]]. Voucher program, Walton Foundation connections, charter school expansion, public school hollowing
 - Primary beneficiary of Sanders' education policy
 - $500K donation by Jim Walton to defeat educational rights amendment (2024)
 
@@ -75,7 +75,7 @@ The $19,000 lectern scandal reveals the underlying dynamic: Sanders' office enga
 ### Key Policy Outcomes
 
 ### The LEARNS Act (2023) - Education Privatization
-Signed into law in 2023, the LEARNS Act created the Educational Freedom Account (EFA) program — a school voucher system that diverts state education funds to private schools. The program phases in over three years:
+Signed into law in 2023, the LEARNS Act created the Educational Freedom Account (EFA) program, a school voucher system that diverts state education funds to private schools. The program phases in over three years:
 
 - Year 1 (2023-24): Available to students in F-rated schools, Level 5 support schools, first-time kindergarteners, military children, students with disabilities, homeless students
 - Year 2 (2024-25): Expands to D-rated schools, veterans' children, first responders' children
@@ -113,21 +113,21 @@ The scandal reveals the personal enrichment pattern: Sanders' office engages in 
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2021-2022 | Trump small-dollar donors nationwide — 66% out-of-state; Sanders as Trump-branded political product | $12.8M total raised; $8.4M from out-of-state | 2021–2022 | Wins Arkansas governorship; Trump brand provides political cover for corporate privatization agenda; no major individual donor obligations from small-dollar model |
+| 2021-2022 | Trump small-dollar donors nationwide, 66% out-of-state; Sanders as Trump-branded political product | $12.8M total raised; $8.4M from out-of-state | 2021–2022 | Wins Arkansas governorship; Trump brand provides political cover for corporate privatization agenda; no major individual donor obligations from small-dollar model |
 
 #### Walton Family Foundation / Education Privatization
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2023-03 | [[Walton Family Foundation]] — $407M spent since 1997 on charter school and privatization infrastructure in Arkansas | Part of $407M Walton privatization network | 2022–2023 | Signs LEARNS Act (education vouchers) — funnels public education money to private schools; phased expansion reaches universal eligibility by 2025-26; Walton Foundation's privatization infrastructure is the primary beneficiary |
+| 2023-03 | [[Walton Family Foundation]], $407M spent since 1997 on charter school and privatization infrastructure in Arkansas | Part of $407M Walton privatization network | 2022–2023 | Signs LEARNS Act (education vouchers), funnels public education money to private schools; phased expansion reaches universal eligibility by 2025-26; Walton Foundation's privatization infrastructure is the primary beneficiary |
 | 2024-05 | Jim Walton donates $500K to defeat education rights amendment requiring standards for voucher schools | $500K direct from Jim Walton | 2024 | Walton money blocks accountability measures for the voucher program Sanders created; privatization without oversight is the donor class preference |
 
 #### Arkansas Business Class / Child Labor Deregulation
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2023-03 | Arkansas business class — employers, agriculture, retail/commerce interests benefit from reduced labor protections | Part of Arkansas business donor base | 2022–2023 | Signs "Youth Hiring Act" eliminating work permits for children under 16 — removes age verification, parental consent, state work-condition verification; signed weeks after Packers Sanitation caught employing 102 children in hazardous jobs |
-| 2023-09 | Personal enrichment pattern — $19K custom lectern through Beckett Events; audit finds 7 potential state law violations | $19,000 lectern; $0 accountability | 2023 | Dismisses state audit as "waste of taxpayer resources"; personal enrichment spending while cutting public school funding relative to inflation; the governing contradiction made physical |
+| 2023-03 | Arkansas business class, employers, agriculture, retail/commerce interests benefit from reduced labor protections | Part of Arkansas business donor base | 2022–2023 | Signs "Youth Hiring Act" eliminating work permits for children under 16, removes age verification, parental consent, state work-condition verification; signed weeks after Packers Sanitation caught employing 102 children in hazardous jobs |
+| 2023-09 | Personal enrichment pattern, $19K custom lectern through Beckett Events; audit finds 7 potential state law violations | $19,000 lectern; $0 accountability | 2023 | Dismisses state audit as "waste of taxpayer resources"; personal enrichment spending while cutting public school funding relative to inflation; the governing contradiction made physical |
 
 > [!money]
 > Sanders' policy record shows a single donor class interest: privatization and deregulation. The LEARNS Act delivers public money to private schools and the Walton Foundation's privatization network. The child labor rollback serves employers seeking cheaper, less-protected labor. The lectern purchase suggests personal spending patterns disconnected from fiscal constraint. The timing between policy and donor benefit is tighter than the public record documents — more detailed campaign finance research is needed.
@@ -158,20 +158,20 @@ The Huckabee dynasty is the mechanism. Mike Huckabee governed for the same Arkan
 
 ## Analytical Patterns
 
-**The Genuine Win + Structural Limit** — Sanders' LEARNS Act (education vouchers) is a real policy victory for privatization donors, but stops short of threatening the Trump base that funds her campaign. The voucher program extracts public money to private schools without dismantling public education entirely, maintaining both the appearance of choice and the donor-class advantage.
+**The Genuine Win + Structural Limit**. Sanders' LEARNS Act (education vouchers) is a real policy victory for privatization donors, but stops short of threatening the Trump base that funds her campaign. The voucher program extracts public money to private schools without dismantling public education entirely, maintaining both the appearance of choice and the donor-class advantage.
 
-**The Villain Framing** — Sanders frames public education as "failing" and bloated, blaming school bureaucrats and "woke" teachers as the external villains threatening children. This deflects from examining who actually funds her: small-dollar Trump supporters nationally (66% of $12.8M raised) and Arkansas's wealthiest interests (Walton Foundation). The villain is the education establishment; the beneficiary (private schools, Walton donors) remains hidden.
+**The Villain Framing**. Sanders frames public education as "failing" and bloated, blaming school bureaucrats and "woke" teachers as the external villains threatening children. This deflects from examining who actually funds her: small-dollar Trump supporters nationally (66% of $12.8M raised) and Arkansas's wealthiest interests (Walton Foundation). The villain is the education establishment; the beneficiary (private schools, Walton donors) remains hidden.
 
-**The Two-Audience Problem** — Sanders performs as a Trump loyalist defending children and parental rights to her base, while implementing the Walton Family Foundation's corporate privatization agenda. Trump populism is the rhetorical mask; education privatization and child labor deregulation are the material policy. The contradiction goes unacknowledged.
+**The Two-Audience Problem**. Sanders performs as a Trump loyalist defending children and parental rights to her base, while implementing the Walton Family Foundation's corporate privatization agenda. Trump populism is the rhetorical mask; education privatization and child labor deregulation are the material policy. The contradiction goes unacknowledged.
 
 ---
 
 ## Sources
 
-- [Ballotpedia: Sarah Huckabee Sanders — campaign finance and donor data](https://ballotpedia.org/Sarah_Huckabee_Sanders) (Tier 3) (VERIFIED)
-- ~~[Arkansas Secretary of State: Campaign contributions](https://www.sos.arkansas.gov/elections/campaign-finance)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Ballotpedia: Sarah Huckabee Sanders, campaign finance and donor data](https://ballotpedia.org/Sarah_Huckabee_Sanders) (Tier 3) (VERIFIED)
+- ~~[Arkansas Secretary of State: Campaign contributions](https://www.sos.arkansas.gov/elections/campaign-finance)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
-- ~~[KARK: Sarah Huckabee Sanders raises $12.8M for governor race](https://www.kark.com/news/your-local-election-hq/arkansas-governor-candidate-sarah-huckabee-sanders-raises-over-12-8-million-total-for-campaign-66-from-out-of-state-donations/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[KARK: Sarah Huckabee Sanders raises $12.8M for governor race](https://www.kark.com/news/your-local-election-hq/arkansas-governor-candidate-sarah-huckabee-sanders-raises-over-12-8-million-total-for-campaign-66-from-out-of-state-donations/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [CNN: Sarah Huckabee Sanders signs bill rolling back child labor protections](https://www.cnn.com/2023/03/08/politics/sarah-huckabee-sanders-arkansas-child-labor/index.html) (Tier 2) (VERIFIED)
 - [NPR: Arkansas Gov. Sarah Huckabee Sanders office under fire for buying $19,000 lectern](https://www.cnn.com/2023/01/10/politics/sarah-huckabee-sanders-inauguration/index.html) (Tier 2) (VERIFIED)
 - [ABC News: Sarah Sanders office potentially violated state law in $19K lectern controversy](https://abcnews.com/Politics/sarah-sanders-office-potentially-violated-law-lectern-controversy/story?id=109308721?id=109308721) (Tier 2) (VERIFIED)

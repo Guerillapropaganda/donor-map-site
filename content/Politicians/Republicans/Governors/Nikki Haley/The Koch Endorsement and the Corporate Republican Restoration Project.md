@@ -96,6 +96,6 @@ The restoration project failed in 2024. Its institutional infrastructure. AFP's 
 - [NBC News: Koch network faces internal scrutiny after Nikki Haley endorsement](https://www.nbcnews.com/politics/2024-election/koch-network-faces-internal-scrutiny-nikki-haley-endorsement-rcna127838) (Tier 2) (VERIFIED)
 - [ABC News: Charles Koch's anti-Trump group endorses Nikki Haley in Republican primary](https://abcnews.go.com/Politics/major-anti-trump-group-set-endorse-republican-rivals/story?id=105206338) (Tier 2) (NEEDS REVIEW)
 - [CBS News: Koch Brothers network endorses Nikki Haley for president](https://www.cbsnews.com/news/koch-brothers-endorse-nikki-haley-president/) (Tier 2) (VERIFIED)
-- ~~[The Hill: Koch-affiliated group backs Nikki Haley for president](https://thehill.com/homenews/campaign/4330733-koch-group-afp-action-backs-nikki-haley/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Koch-affiliated group backs Nikki Haley for president](https://thehill.com/homenews/campaign/4330733-koch-group-afp-action-backs-nikki-haley/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [AFP Action: Endorsement Memo (November 2023)](https://afpaction.com/wp-content/uploads/2023/11/AFPA-Endorsement-Memo-.pdf) (Tier 1) (VERIFIED)
 - [OpenSecrets: Nikki Haley 2024 presidential fundraising](https://www.opensecrets.org/news/2023/02/nikki-haley-launches-2024-presidential-campaign-after-years-of-raising-big-money/) (Tier 1) (VERIFIED)

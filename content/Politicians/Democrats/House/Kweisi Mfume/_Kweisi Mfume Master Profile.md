@@ -1,5 +1,5 @@
 ---
-title: "Kweisi Mfume Master Profile"
+title: "Kweisi Mfume"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

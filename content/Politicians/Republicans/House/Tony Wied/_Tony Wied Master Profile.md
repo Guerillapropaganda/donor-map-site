@@ -1,5 +1,5 @@
 ---
-title: "Tony Wied Master Profile"
+title: "Tony Wied"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -15,15 +15,15 @@ donors: [[Koch Network - Charles Koch]] · [[AIPAC - American Israel Public Affa
 
 ---
 
-### The Anti-Donor Model — Two Presidential Campaigns
+### The Anti-Donor Model. Two Presidential Campaigns
 
 Sanders built what no other presidential candidate has built: a funding model that could compete at scale without the donor class. Nearly half a billion dollars raised across two campaigns with an average donation under $30 and zero corporate PAC money. The model proved the alternative is possible. The donor class proved it has the institutional power to stop it.
 
 ---
 
-### 2016 — The Proof of Concept
+### 2016. The Proof of Concept
 
-> [!money] Follow the Money — What $27 Built
+> [!money] Follow the Money. What $27 Built
 > **Total raised:** ~$237 million
 > **Average donation:** $27
 > **Small-dollar percentage (under $200):** 58% (vs. Clinton's 19%)
@@ -31,21 +31,21 @@ Sanders built what no other presidential candidate has built: a funding model th
 > **Corporate PAC money:** $0
 > **Super PAC support:** $0 (Sanders refused Super PAC support)
 
-Sanders entered the 2016 primary as a fringe candidate polling at 3%. By February 2016, he had won New Hampshire by 22 points and forced Clinton — the most heavily funded non-incumbent in Democratic primary history — into a prolonged contest that lasted until June.
+Sanders entered the 2016 primary as a fringe candidate polling at 3%. By February 2016, he had won New Hampshire by 22 points and forced Clinton, the most heavily funded non-incumbent in Democratic primary history, into a prolonged contest that lasted until June.
 
 ### The DNC machinery against Sanders:
-- DNC vice chair [[_Tulsi Gabbard Master Profile|Tulsi Gabbard]] resigned February 28, 2016 to endorse Sanders — the first institutional break with Clinton (see [[_Tulsi Gabbard Master Profile|Tulsi Gabbard]])
+- DNC vice chair [[_Tulsi Gabbard Master Profile|Tulsi Gabbard]] resigned February 28, 2016 to endorse Sanders, the first institutional break with Clinton (see [[_Tulsi Gabbard Master Profile|Tulsi Gabbard]])
 - Leaked DNC emails (WikiLeaks, July 2016) revealed DNC officials discussing how to undermine Sanders's campaign: using his religion (or lack thereof), scheduling debates to minimize his exposure, coordinating with Clinton campaign
 - DNC Chair Debbie Wasserman Schultz resigned the day before the Democratic National Convention over the revelations
 - Donna Brazile (interim DNC chair) later admitted Clinton's campaign had "effective control" of the DNC's finances and operations before the primary began
 
-**Result:** Clinton won 2,842 delegates to Sanders's 1,865. Clinton's 16.9 million votes to Sanders's 13.2 million. The margin was real — but so was the structural advantage: DNC debate scheduling, superdelegate commitments before voting began, media coverage patterns, and donor-class institutional support.
+**Result:** Clinton won 2,842 delegates to Sanders's 1,865. Clinton's 16.9 million votes to Sanders's 13.2 million. The margin was real, but so was the structural advantage: DNC debate scheduling, superdelegate commitments before voting began, media coverage patterns, and donor-class institutional support.
 
 ---
 
-### 2020 — The Containment Operation
+### 2020. The Containment Operation
 
-> [!money] Follow the Money — The Model Scaled
+> [!money] Follow the Money. The Model Scaled
 > **Total raised:** $250+ million
 > **Average donation:** $19–21 (dropped as donor base expanded)
 > **Individual donations:** 8.7 million+
@@ -69,15 +69,15 @@ Sanders entered 2020 as the frontrunner by February. After winning Nevada on Feb
 >
 > Sanders publicly called it coordination. The Biden campaign denied it. The structural analysis doesn't require a conspiracy — it only requires recognizing that every major institution in the Democratic Party (donors, consultants, media, party officials) had an interest in stopping Sanders, and they all acted on that interest at the same time.
 
-**The Bloomberg factor:** Bloomberg's $500+ million self-funded campaign served two functions. First, it split the moderate lane during early states (drawing votes from Biden). Second, when Bloomberg dropped out and endorsed Biden, his spending apparatus and donor network transferred to Biden's operation. Bloomberg later spent $100+ million supporting Biden in the general. See [[Michael Bloomberg]] — the "good billionaire" whose spending on gun control and climate doesn't threaten wealth, and whose $500 million presidential vanity campaign functioned as a moderate-lane placeholder until the consolidation.
+**The Bloomberg factor:** Bloomberg's $500+ million self-funded campaign served two functions. First, it split the moderate lane during early states (drawing votes from Biden). Second, when Bloomberg dropped out and endorsed Biden, his spending apparatus and donor network transferred to Biden's operation. Bloomberg later spent $100+ million supporting Biden in the general. See [[Michael Bloomberg]], the "good billionaire" whose spending on gun control and climate doesn't threaten wealth, and whose $500 million presidential vanity campaign functioned as a moderate-lane placeholder until the consolidation.
 
-**Obama's role:** Former President Obama made phone calls to Buttigieg before his withdrawal. Obama publicly stated he did not orchestrate the consolidation, but his influence over the moderate lane — and his private conversations with candidates — shaped the timing.
+**Obama's role:** Former President Obama made phone calls to Buttigieg before his withdrawal. Obama publicly stated he did not orchestrate the consolidation, but his influence over the moderate lane, and his private conversations with candidates, shaped the timing.
 
-**Result:** Biden won 2,687 delegates to Sanders's 1,073. The margin was decisive — but it only became decisive after Super Tuesday. Before the consolidation, Sanders was winning. After, it was over.
+**Result:** Biden won 2,687 delegates to Sanders's 1,073. The margin was decisive, but it only became decisive after Super Tuesday. Before the consolidation, Sanders was winning. After, it was over.
 
 ---
 
-### The Model vs. The Machine — Structural Analysis
+### The Model vs. The Machine. Structural Analysis
 
 ### What the Sanders model proved:
 1. A presidential campaign can raise $250 million from working-class donors averaging $19–21
@@ -89,9 +89,9 @@ Sanders entered 2020 as the frontrunner by February. After winning Nevada on Feb
 1. Institutional consolidation can reverse electoral momentum in 72 hours
 2. The media's narrative-setting power (Biden's "comeback") shapes voter perception faster than grassroots organizing
 3. DNC structural advantages (debate scheduling, superdelegate rules, fundraising infrastructure) compound over time
-4. The Democratic Party's institutional apparatus — consultants, media, party officials, major donors — will unify to prevent an anti-donor candidate from winning, even if they have to do it in the last 48 hours
+4. The Democratic Party's institutional apparatus, consultants, media, party officials, major donors, will unify to prevent an anti-donor candidate from winning, even if they have to do it in the last 48 hours
 
-**The 2016 vs. 2020 evolution:** In 2016, the containment was passive — DNC structural advantages, debate scheduling, superdelegate commitments. In 2020, it was active — coordinated withdrawals, endorsements, and Bloomberg's $500M moderate-lane placeholder. The donor class learned from 2016 that passive containment almost wasn't enough. By 2020, they didn't leave it to chance.
+**The 2016 vs. 2020 evolution:** In 2016, the containment was passive. DNC structural advantages, debate scheduling, superdelegate commitments. In 2020, it was active, coordinated withdrawals, endorsements, and Bloomberg's $500M moderate-lane placeholder. The donor class learned from 2016 that passive containment almost wasn't enough. By 2020, they didn't leave it to chance.
 
 ---
 

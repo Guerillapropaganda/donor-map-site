@@ -9,7 +9,7 @@ tags:
 
 Trace the pipeline: **Donor → Politician → Policy**. Every connection is sourced from FEC filings, OpenSecrets data, and congressional voting records.
 
-Select a donor or politician to see where the money goes — and what it buys.
+Select a donor or politician to see where the money goes, and what it buys.
 
 <div id="dm-money-flow" class="dm-interactive-container"></div>
 

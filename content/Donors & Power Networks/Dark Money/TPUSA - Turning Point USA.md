@@ -52,15 +52,15 @@ TPUSA's funding directly enabled Trump's 2020 field operations and January 6 mob
 
 ### Class Analysis
 
-TPUSA represents a new oligarchic model: dark money youth mobilization disguised as grassroots organizing. Kirk's operation allows mega-donors to fund youth activism without accountability, creating the illusion of generational conservative movement while maintaining total top-down control. The organization serves a structural function for the donor class: mobilizing young people to defend billionaire tax rates and corporate deregulation while framing these interests as "freedom" and "anti-woke." TPUSA's dual purpose—cultural grievance mobilization + financial infrastructure for GOP—reveals how the Republican donor class uses cultural war to suppress labor organizing and redistribute wealth upward.
+TPUSA represents a new oligarchic model: dark money youth mobilization disguised as grassroots organizing. Kirk's operation allows mega-donors to fund youth activism without accountability, creating the illusion of generational conservative movement while maintaining total top-down control. The organization serves a structural function for the donor class: mobilizing young people to defend billionaire tax rates and corporate deregulation while framing these interests as "freedom" and "anti-woke." TPUSA's dual purpose, cultural grievance mobilization + financial infrastructure for GOP, reveals how the Republican donor class uses cultural war to suppress labor organizing and redistribute wealth upward.
 
 ### Sources
 
-- ~~[OpenSecrets: Turning Point USA spending 2024](https://www.opensecrets.org/groups/turning-point-usa/516850)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Turning Point USA spending 2024](https://www.opensecrets.org/groups/turning-point-usa/516850)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [ProPublica: Turning Point USA funding and structure](https://www.propublica.org/article/at-this-trump-favored-charity-financial-reporting-is-questionable-and-insiders-are-cashing-in) (Tier 2) (VERIFIED)
-- [Washington Post: January 6 funding and TPUSA buses — Publix heiress Julie Fancelli spent $3M on Jan. 6 rally, Kirk groups received $1.25M for buses](https://www.washingtonpost.com/politics/2022/12/22/publix-heiress-jan-6-financing/) (Tier 2) (VERIFIED)
+- [Washington Post: January 6 funding and TPUSA buses. Publix heiress Julie Fancelli spent $3M on Jan. 6 rally, Kirk groups received $1.25M for buses](https://www.washingtonpost.com/politics/2022/12/22/publix-heiress-jan-6-financing/) (Tier 2) (VERIFIED)
 - [Rolling Stone: Charlie Kirk TPUSA investigation](https://www.rollingstone.com/politics/politics-news/charlie-kirk-turning-point-usa-founder-dead-1235424931/) (Tier 2) (VERIFIED)
-- ~~[SourceWatch: Turning Point USA — dark money funding, donors, and organizational profile](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Turning_Point_USA)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[SourceWatch: Turning Point USA, dark money funding, donors, and organizational profile](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Turning_Point_USA)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->

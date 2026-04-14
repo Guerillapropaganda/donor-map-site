@@ -1,5 +1,5 @@
 ---
-title: "Linda Thomas-Greenfield Master Profile"
+title: "Linda Thomas-Greenfield"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

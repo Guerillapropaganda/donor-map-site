@@ -131,7 +131,7 @@ The Transportation record is Buttigieg's primary credential for 2028. The questi
 - [PBS News: Buttigieg on why rail safety measures stalled one year after East Palestine](https://www.pbs.org/newshour/show/buttigieg-on-why-rail-safety-measures-have-stalled-one-year-after-east-palestine-disaster) (Tier 2) (VERIFIED)
 - [CNN: Pete Buttigieg starts to rethink his role after East Palestine](https://www.cnn.com/2023/03/05/politics/pete-buttigieg-ohio-train-derailment/index.html) (Tier 2) (VERIFIED)
 - [ABC News: Buttigieg responds to East Palestine criticism](https://abcnews.go.com/Politics/buttigieg-responds-east-palestine-criticism-calls-trumps-trip/story?id=97642497) (Tier 2) (NEEDS REVIEW)
-- ~~[The Hill: Buttigieg gets hit from right and left in East Palestine crisis](https://thehill.com/policy/energy-environment/3877199-buttigieg-gets-hit-from-right-left-in-east-palestine-crisis/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Buttigieg gets hit from right and left in East Palestine crisis](https://thehill.com/policy/energy-environment/3877199-buttigieg-gets-hit-from-right-left-in-east-palestine-crisis/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [CBS News: Buttigieg says not speaking sooner about Ohio derailment is "lesson learned"](https://www.cbsnews.com/news/ohio-train-derailment-pete-buttigieg/) (Tier 2) (VERIFIED)
 - [TIME: Transportation Secretary Buttigieg visits East Palestine](https://time.com/6257945/pete-buttigieg-east-palestine-ohio-train/) (Tier 2) (VERIFIED)
 - [NPR: Infrastructure law yields big money but little political benefit](https://www.npr.org/2024/11/15/nx-s1-5192915/infrastructure-law-biden-no-political-benefit) (Tier 2) (VERIFIED)

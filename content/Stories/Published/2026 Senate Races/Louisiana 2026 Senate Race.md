@@ -27,7 +27,7 @@ tags: #analysis #story
 
 Louisiana's 2026 Senate race has become a three-way Republican primary bloodbath. Incumbent Bill Cassidy, a six-year senator who seemed politically invulnerable in 2021, now faces a competitive field where he does not lead. The reason: his January 6 impeachment vote against former President Trump, who has made Cassidy's primary defeat a personal project.
 
-The Republican primary will be decided May 16, 2026, with a runoff June 27 if no candidate exceeds 50%. Polling as of late 2025 shows the race deadlocked at near parity: Cassidy 26%, Julia Letlow 23%, John Fleming 23%. This volatility reflects a fractured GOP coalition split between the Trump-aligned right wing and the pharmaceutical/defense establishment lane. The general election is academic—a Republican will easily hold this deep red seat regardless of the primary outcome.
+The Republican primary will be decided May 16, 2026, with a runoff June 27 if no candidate exceeds 50%. Polling as of late 2025 shows the race deadlocked at near parity: Cassidy 26%, Julia Letlow 23%, John Fleming 23%. This volatility reflects a fractured GOP coalition split between the Trump-aligned right wing and the pharmaceutical/defense establishment lane. The general election is academic, a Republican will easily hold this deep red seat regardless of the primary outcome.
 
 The Democratic field is functionally nonexistent. Candidates include Nick Albares, Gary Crockett, and Jamie Davis (a farmer who has raised just $17K). This is not a competitive general.
 
@@ -45,7 +45,7 @@ The Democratic field is functionally nonexistent. Candidates include Nick Albare
 
 ### The Trump Factor
 
-Donald Trump has made Cassidy a 2026 priority. Cassidy's January 6 impeachment vote—one of only seven Senate Republicans to vote for conviction—has made him a symbol of establishment Republicans who Trump views as insufficiently loyal. Trump has endorsed Julia Letlow, providing her with the coalition's most potent single asset: access to Trump's base and Trump's media oxygen.
+Donald Trump has made Cassidy a 2026 priority. Cassidy's January 6 impeachment vote, one of only seven Senate Republicans to vote for conviction, has made him a symbol of establishment Republicans who Trump views as insufficiently loyal. Trump has endorsed Julia Letlow, providing her with the coalition's most potent single asset: access to Trump's base and Trump's media oxygen.
 
 Governor Jeff Landry, Louisiana's top executive, has also backed Letlow, signaling state-level institutional support that extends beyond Trump's endorsement. This creates a pincer movement: Trump handles the activation and narrative, while Landry provides electoral machinery.
 
@@ -55,7 +55,7 @@ Cassidy's counter-strategy has been to attempt to isolate Trump on the impeachme
 
 Louisiana's economic foundation is fossil fuel extraction. This reality is baked into every candidate's donor profile.
 
-Cassidy is the 12th-largest recipient of oil and gas money in the Senate, with $1.91M in career contributions. His appointment to the Senate Health Committee gave him natural access to energy industry donors seeking favorable health care/climate policy. Fleming has received $604K in oil and gas contributions over his career—substantially less than Cassidy, but still deeply embedded in energy sector capital.
+Cassidy is the 12th-largest recipient of oil and gas money in the Senate, with $1.91M in career contributions. His appointment to the Senate Health Committee gave him natural access to energy industry donors seeking favorable health care/climate policy. Fleming has received $604K in oil and gas contributions over his career, substantially less than Cassidy, but still deeply embedded in energy sector capital.
 
 Letlow's oil/gas ties are less developed, which may be a strategic advantage in a general election (if she reaches one) but is irrelevant in the Republican primary, where oil and gas donors universally prefer candidates who will reliably vote against climate regulation.
 
@@ -79,7 +79,7 @@ Letlow's fundraising numbers ($2.0M raised, $2.4M cash) are modest relative to C
 
 ### Key Takeaway
 
-This race represents a collision between Trump's personal vendetta against establishment Republicans (Cassidy) and the institutional power of Louisiana's oil, pharma, and defense industries (who have hedged across all candidates). The Republican primary will likely be decided by which coalition can better activate Republican primary voters: Trump's MAGA base or the donor networks that have traditionally controlled Louisiana politics. The general election result is predetermined—a Republican victory.
+This race represents a collision between Trump's personal vendetta against establishment Republicans (Cassidy) and the institutional power of Louisiana's oil, pharma, and defense industries (who have hedged across all candidates). The Republican primary will likely be decided by which coalition can better activate Republican primary voters: Trump's MAGA base or the donor networks that have traditionally controlled Louisiana politics. The general election result is predetermined, a Republican victory.
 
 ### Cross-References
 

@@ -1,5 +1,5 @@
 ---
-title: "Jerrold Nadler Master Profile"
+title: "Jerrold Nadler"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

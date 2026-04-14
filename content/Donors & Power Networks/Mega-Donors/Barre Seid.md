@@ -85,8 +85,8 @@ This asymmetry means conservative jurisprudence is more directly purchased by in
 ### Sources
 
 - [ProPublica: Barre Seid and the $1.6B donation](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (Tier 2) (VERIFIED)
-- ~~[OpenSecrets: Marble Freedom Trust](https://www.opensecrets.org/orgs/marble-freedom-trust/summary)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[IRS Form 990: Judicial Education Project / The 85 Fund (2021-2022)](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Barre%20Seid&city=&state=All+States&country=US)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Marble Freedom Trust](https://www.opensecrets.org/orgs/marble-freedom-trust/summary)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[IRS Form 990: Judicial Education Project / The 85 Fund (2021-2022)](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Barre%20Seid&city=&state=All+States&country=US)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Leonard Leo Marble Freedom Trust network map](https://www.documentcloud.org/documents/21144404-marble-trust-recipients/) (Tier 2) (VERIFIED)
 - [SCOTUSblog: Dobbs v. Jackson and Federalist Society judicial campaign](https://www.scotusblog.com/cases/case-files/dobbs-v-jackson-womens-health-organization/) (Tier 3) (VERIFIED)
 

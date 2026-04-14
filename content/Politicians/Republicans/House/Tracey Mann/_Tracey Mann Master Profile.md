@@ -1,5 +1,5 @@
 ---
-title: "Tracey Mann Master Profile"
+title: "Tracey Mann"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

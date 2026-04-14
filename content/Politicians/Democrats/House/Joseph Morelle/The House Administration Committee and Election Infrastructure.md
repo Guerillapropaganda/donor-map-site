@@ -21,9 +21,9 @@ donors: [[SEIU - Service Employees International Union|SEIU]]
 
 ### The House Administration Ranking Member
 
-Joseph Morelle serves as ranking member on the House Administration Committee — one of the least visible but most consequential committees in the House. House Administration oversees federal elections, campaign finance regulation, the Capitol complex, and the Smithsonian Institution. The committee's jurisdiction includes the Federal Election Commission, election security, and voting rights — the regulatory framework that governs how American democracy operates.
+Joseph Morelle serves as ranking member on the House Administration Committee, one of the least visible but most consequential committees in the House. House Administration oversees federal elections, campaign finance regulation, the Capitol complex, and the Smithsonian Institution. The committee's jurisdiction includes the Federal Election Commission, election security, and voting rights, the regulatory framework that governs how American democracy operates.
 
-Morelle represents New York's 25th District (Rochester area), a manufacturing and education economy. His committee assignment has minimal connection to his district's economic interests — House Administration is a governance committee, not an industry committee — but it gives him jurisdiction over election infrastructure at a time when election administration has become the most contested political issue in America.
+Morelle represents New York's 25th District (Rochester area), a manufacturing and education economy. His committee assignment has minimal connection to his district's economic interests. House Administration is a governance committee, not an industry committee, but it gives him jurisdiction over election infrastructure at a time when election administration has become the most contested political issue in America.
 
 ---
 

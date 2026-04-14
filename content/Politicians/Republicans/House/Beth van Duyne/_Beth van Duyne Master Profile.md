@@ -1,5 +1,5 @@
 ---
-title: "Beth van Duyne Master Profile"
+title: "Beth van Duyne"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

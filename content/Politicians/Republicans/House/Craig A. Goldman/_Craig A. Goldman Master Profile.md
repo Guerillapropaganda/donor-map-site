@@ -1,5 +1,5 @@
 ---
-title: "Craig A. Goldman Master Profile"
+title: "Craig A. Goldman"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

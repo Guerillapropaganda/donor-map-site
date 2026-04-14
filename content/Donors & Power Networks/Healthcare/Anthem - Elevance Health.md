@@ -36,13 +36,13 @@ Anthem, rebranded as **Elevance Health** in 2022, is one of the largest for-prof
 
 CEO Gail Boudreaux earned **$20.5 million** in total compensation in 2024 ($1.6M salary, $1.1M bonus, $4.2M stock options, $12.6M stock awards). The five highest-paid executives collectively earned over $60 million.
 
-Elevance operates its own PBM subsidiary, **IngenioRx** (rebranded from Anthem's pharmacy services), managing drug benefits for its insured population. This creates the same vertical integration conflict as [[UnitedHealth Group - Optum|UnitedHealth/Optum]]: the insurer controls which drugs are covered, at what price, through its own pharmacy benefit manager — extracting profit at every stage of the healthcare transaction.
+Elevance operates its own PBM subsidiary, **IngenioRx** (rebranded from Anthem's pharmacy services), managing drug benefits for its insured population. This creates the same vertical integration conflict as [[UnitedHealth Group - Optum|UnitedHealth/Optum]]: the insurer controls which drugs are covered, at what price, through its own pharmacy benefit manager, extracting profit at every stage of the healthcare transaction.
 
 ---
 
 ### What They Want
 
-- Preservation of private insurance market — no single-payer legislation at state or federal level
+- Preservation of private insurance market, no single-payer legislation at state or federal level
 - Minimal PBM transparency regulation (Elevance has its own PBM, IngenioRx)
 - Favorable Medicare Advantage contracts and rate increases (projecting 7-9% MA enrollment growth for 2025)
 - Favorable Medi-Cal managed care contracts in California
@@ -60,8 +60,8 @@ Elevance operates its own PBM subsidiary, **IngenioRx** (rebranded from Anthem's
 - Bipartisan distribution: funds members of both parties on key health committees (Energy & Commerce, Finance, Ways & Means, HELP)
 
 ### California State-Level:
-- **[[_Gavin Newsom Master Profile|Gavin Newsom]]** — $130,000 to Newsom's campaigns since 2011
-- **California Democratic Party** — $513,000 since 2007
+- **[[_Gavin Newsom Master Profile|Gavin Newsom]]**, $130,000 to Newsom's campaigns since 2011
+- **California Democratic Party**, $513,000 since 2007
 
 ### Federal Lobbying:
 - **$10.6 million** in federal lobbying spending (2024)
@@ -70,7 +70,7 @@ Elevance operates its own PBM subsidiary, **IngenioRx** (rebranded from Anthem's
 - Lobbies on: Medicare Advantage rate methodology, Medicaid managed care requirements, PBM regulation, ACA marketplace rules, prior authorization reform
 
 ### Industry Association:
-- Member of **AHIP (America's Health Insurance Plans)** — the insurance industry's primary lobbying organization, which spent $6.2 million on lobbying in the 2024 cycle
+- Member of **AHIP (America's Health Insurance Plans)**, the insurance industry's primary lobbying organization, which spent $6.2 million on lobbying in the 2024 cycle
 
 ---
 
@@ -78,13 +78,13 @@ Elevance operates its own PBM subsidiary, **IngenioRx** (rebranded from Anthem's
 
 ### California:
 - Single-payer (AB 1400 / CalCare) died without Newsom's support in January 2022. Anthem's California business survives.
-- PBM oversight vetoed in September 2024 — protects IngenioRx from transparency requirements.
-- "Universal coverage" framing (Medi-Cal expansion) brought new customers into managed care rather than eliminating the insurance industry. Anthem participates in Medi-Cal managed care — more covered lives means more premium revenue.
+- PBM oversight vetoed in September 2024, protects IngenioRx from transparency requirements.
+- "Universal coverage" framing (Medi-Cal expansion) brought new customers into managed care rather than eliminating the insurance industry. Anthem participates in Medi-Cal managed care, more covered lives means more premium revenue.
 
 ### Federal:
 - Medicare Advantage continues to grow as the primary vehicle for privatizing Medicare. Elevance projects 7-9% MA enrollment growth for 2025. Each new MA enrollee shifts a Medicare beneficiary from the public program into a for-profit insurance plan.
-- PBM reform legislation repeatedly stalled in Congress despite bipartisan support — protecting Elevance's IngenioRx subsidiary from transparency mandates.
-- ACA marketplace continues as employer-sponsored + individual market model rather than single-payer — Elevance sells plans on every exchange where it operates.
+- PBM reform legislation repeatedly stalled in Congress despite bipartisan support, protecting Elevance's IngenioRx subsidiary from transparency mandates.
+- ACA marketplace continues as employer-sponsored + individual market model rather than single-payer. Elevance sells plans on every exchange where it operates.
 
 > [!money]
 > The insurance industry's combined lobbying ($16M+/quarter) and PAC spending ($3M+ per cycle per company) buys a very specific outcome: the continued existence of private health insurance as the American default. Every policy "win" — Medi-Cal expansion, ACA marketplace growth, Medicare Advantage enrollment increases — routes more people through private insurers rather than public programs. The industry doesn't need to kill universal coverage directly. It just needs to ensure that "universal coverage" means universal enrollment in private insurance.
@@ -98,19 +98,19 @@ Anthem's contribution profile mirrors the broader insurance industry pattern acr
 | Company | Direct to Newsom | To CA Dem Party | Federal PAC (2024 cycle) | Federal Lobbying (2024) |
 |---------|-----------------|----------------|------------------------|----------------------|
 | **Anthem/Elevance** | $130K | $513K | $3.17M raised | $10.6M |
-| [[Blue Shield of California]] | $99K | $2.7M | — (state only) | — |
-| [[UnitedHealth Group - Optum]] | $131K | — | $4.5M+ raised | $12.4M |
+| [[Blue Shield of California]] | $99K | $2.7M |, (state only) |, |
+| [[UnitedHealth Group - Optum]] | $131K |, | $4.5M+ raised | $12.4M |
 | **Combined** | **$360K+** | **$3.2M+** | **$7.7M+** | **$23M+** |
 
-The combined picture: three companies spent $360K+ on one governor, $3.2M+ on one state party, $7.7M+ through federal PACs, and $23M+ on federal lobbying — and the structural result is that single-payer remains politically impossible in both California and Washington. The insurance bloc doesn't coordinate formally; it doesn't need to. Each company independently funds the same politicians and lobbies against the same reforms because their class interests are identical.
+The combined picture: three companies spent $360K+ on one governor, $3.2M+ on one state party, $7.7M+ through federal PACs, and $23M+ on federal lobbying, and the structural result is that single-payer remains politically impossible in both California and Washington. The insurance bloc doesn't coordinate formally; it doesn't need to. Each company independently funds the same politicians and lobbies against the same reforms because their class interests are identical.
 
 ---
 
 ### Class Analysis
 
-Elevance Health is a pure extraction machine: it sits between patients and doctors, collects premiums, denies claims, and pays executives $20M+/year. The rebranding from "Anthem" to "Elevance Health" in 2022 was itself a class signal — removing the word "insurance" from the corporate identity while the business model remained entirely insurance-based. The company doesn't provide healthcare. It provides access to healthcare, contingent on payment, subject to denial, and profitable regardless of patient outcomes.
+Elevance Health is a pure extraction machine: it sits between patients and doctors, collects premiums, denies claims, and pays executives $20M+/year. The rebranding from "Anthem" to "Elevance Health" in 2022 was itself a class signal, removing the word "insurance" from the corporate identity while the business model remained entirely insurance-based. The company doesn't provide healthcare. It provides access to healthcare, contingent on payment, subject to denial, and profitable regardless of patient outcomes.
 
-The Medicare Advantage expansion is the long game. Each year, more Medicare beneficiaries are enrolled in MA plans — Elevance projects 7-9% growth in 2025 alone. This isn't market competition; it's structural privatization. The public Medicare program slowly shrinks as private insurers absorb its beneficiaries, collect government payments, and add profit extraction on top. Elevance's lobbying ensures this trend continues: favorable MA rate methodology, no public option competition, no single-payer alternative.
+The Medicare Advantage expansion is the long game. Each year, more Medicare beneficiaries are enrolled in MA plans. Elevance projects 7-9% growth in 2025 alone. This isn't market competition; it's structural privatization. The public Medicare program slowly shrinks as private insurers absorb its beneficiaries, collect government payments, and add profit extraction on top. Elevance's lobbying ensures this trend continues: favorable MA rate methodology, no public option competition, no single-payer alternative.
 
 ---
 
@@ -119,10 +119,10 @@ The Medicare Advantage expansion is the long game. Each year, more Medicare bene
 - [OpenSecrets: Elevance Health PAC Profile, 2023-2024 cycle](https://www.opensecrets.org/political-action-committees-pacs/elevance-health/C00197228/summary/2024) (Tier 1) (VERIFIED)
 - [OpenSecrets: Elevance Health Lobbying Profile](https://www.opensecrets.org/orgs/elevance-health/lobbying?id=D000023159) (Tier 1) (VERIFIED)
 - [FEC: Elevance Health PAC filings](https://www.fec.gov/data/committee/C00197228/) (Tier 1) (VERIFIED)
-- [The Lever: Newsom's Big Choice — Single Payer or His Insurance Donors](https://www.levernews.com/newsoms-big-choice-single-payer-or-his-insurance-donors/) (Tier 2) (VERIFIED)
+- [The Lever: Newsom's Big Choice. Single Payer or His Insurance Donors](https://www.levernews.com/newsoms-big-choice-single-payer-or-his-insurance-donors/) (Tier 2) (VERIFIED)
 - [Fierce Healthcare: Elevance Health Q4 2024 earnings, $175.2B revenue](https://www.fiercehealthcare.com/payers/elevance-health-beats-profit-misses-revenue-mixed-q4) (Tier 2) (VERIFIED)
-- ~~[Becker's Payer Issues: Elevance Health 5 highest-paid executives 2024](https://www.beckerspayer.com/payer/elevance-healths-5-highest-paid-executives-2025/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[National Institute on Money in Politics: FollowTheMoney.org — Anthem/Elevance state contributions](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=Anthem%20-%20Elevance%20Health#[%7B1%7Cgro=d-id)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
+- ~~[Becker's Payer Issues: Elevance Health 5 highest-paid executives 2024](https://www.beckerspayer.com/payer/elevance-healths-5-highest-paid-executives-2025/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[National Institute on Money in Politics: FollowTheMoney.org. Anthem/Elevance state contributions](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=Anthem%20-%20Elevance%20Health#[%7B1%7Cgro=d-id)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 1)
 
 ---
 

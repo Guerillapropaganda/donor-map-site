@@ -1,5 +1,5 @@
 ---
-title: "Jared F. Golden Master Profile"
+title: "Jared F. Golden"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -95,9 +95,9 @@ Brady deployed $8-12M in direct electoral spending in 2020-2024 cycles, funding 
 
 ### What They've Gotten
 
-Brady's electoral spending has established gun safety as a signature Democratic issue in swing state politics. Democratic candidates in Nevada, Arizona, and Colorado now proactively campaign on gun regulation, partly because Brady's spending elevates the issue. Brady-supported ballot initiatives succeeded in Colorado (2023, extreme risk protection orders) and Washington state (2022, assault weapon restrictions). However, Brady's actual policy victories at federal level remain minimal—no major gun regulation has passed Congress since Brady's founding, revealing the limits of single-issue advocacy against donor interests (gun manufacturers, NRA funders) with greater political power.
+Brady's electoral spending has established gun safety as a signature Democratic issue in swing state politics. Democratic candidates in Nevada, Arizona, and Colorado now proactively campaign on gun regulation, partly because Brady's spending elevates the issue. Brady-supported ballot initiatives succeeded in Colorado (2023, extreme risk protection orders) and Washington state (2022, assault weapon restrictions). However, Brady's actual policy victories at federal level remain minimal, no major gun regulation has passed Congress since Brady's founding, revealing the limits of single-issue advocacy against donor interests (gun manufacturers, NRA funders) with greater political power.
 
-> [!contradiction] Brady frames gun violence as a crisis requiring immediate regulation while accepting that federal policy has stalled for decades. This contradiction reveals that Brady's real function is delivering pro-gun-control votes to Democratic candidates, not advancing policy. Brady's electoral spending increases Democratic turnout on gun issues but hasn't translated to legislative power—a classic case of donors funding electoral politics rather than policy change.
+> [!contradiction] Brady frames gun violence as a crisis requiring immediate regulation while accepting that federal policy has stalled for decades. This contradiction reveals that Brady's real function is delivering pro-gun-control votes to Democratic candidates, not advancing policy. Brady's electoral spending increases Democratic turnout on gun issues but hasn't translated to legislative power, a classic case of donors funding electoral politics rather than policy change.
 
 ### Class Analysis
 
@@ -105,8 +105,8 @@ Brady represents issue-based donor infrastructure serving Democratic electoral p
 
 ### Sources
 
-- ~~[OpenSecrets: Brady PAC political spending profile](https://www.opensecrets.org/orgs/brady-campaign-to-prevent-gun-violence/summary?id=D000031462)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[OpenSecrets: Brady PAC electoral spending](https://www.opensecrets.org/pacs/brady-pac)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Brady PAC political spending profile](https://www.opensecrets.org/orgs/brady-campaign-to-prevent-gun-violence/summary?id=D000031462)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Brady PAC electoral spending](https://www.opensecrets.org/pacs/brady-pac)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [IRS Form 990: Brady Campaign nonprofit financials](https://projects.propublica.org/nonprofits/organizations/237321017) (Tier 1) (VERIFIED)
 - [Washington Post: After El Paso and Dayton shootings, gun-control groups seize momentum](https://www.washingtonpost.com/politics/2019/08/13/people-are-fed-up-after-el-paso-dayton-shootings-gun-control-groups-seize-momentum/) (Tier 2) (VERIFIED)
 

@@ -46,9 +46,9 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### Who They Are
 
-Airbnb Inc. The world's largest short-term rental platform ($11 billion revenue, 2024), connecting 5+ million hosts with travelers in 220+ countries. Airbnb has fundamentally reshaped urban housing markets — converting long-term rental housing into short-term tourist accommodation, reducing housing supply, and driving up rents in cities worldwide.
+Airbnb Inc. The world's largest short-term rental platform ($11 billion revenue, 2024), connecting 5+ million hosts with travelers in 220+ countries. Airbnb has fundamentally reshaped urban housing markets, converting long-term rental housing into short-term tourist accommodation, reducing housing supply, and driving up rents in cities worldwide.
 
-Airbnb's political operation ($5-10 million annually in lobbying, plus significant state and local spending) focuses on preventing cities from regulating short-term rentals. The company has fought registration requirements, occupancy limits, and zoning restrictions in hundreds of jurisdictions — often outspending local housing advocacy organizations 10:1.
+Airbnb's political operation ($5-10 million annually in lobbying, plus significant state and local spending) focuses on preventing cities from regulating short-term rentals. The company has fought registration requirements, occupancy limits, and zoning restrictions in hundreds of jurisdictions, often outspending local housing advocacy organizations 10:1.
 
 ---
 
@@ -60,7 +60,7 @@ Preemption of local short-term rental regulations, reduced hotel tax requirement
 
 ### What They've Gotten
 
-**Housing Market Transformation:** Airbnb's most consequential political achievement is what has happened in the absence of regulation: the platform has converted hundreds of thousands of long-term rental units into short-term tourist accommodation in cities worldwide. In popular markets (New York, Barcelona, Amsterdam, San Francisco), Airbnb has measurably reduced housing supply and increased rents — studies estimate 1-3% rent increases in high-impact neighborhoods. The company's lobbying prevents the regulatory responses that would limit this housing conversion.
+**Housing Market Transformation:** Airbnb's most consequential political achievement is what has happened in the absence of regulation: the platform has converted hundreds of thousands of long-term rental units into short-term tourist accommodation in cities worldwide. In popular markets (New York, Barcelona, Amsterdam, San Francisco), Airbnb has measurably reduced housing supply and increased rents, studies estimate 1-3% rent increases in high-impact neighborhoods. The company's lobbying prevents the regulatory responses that would limit this housing conversion.
 
 **Data Withholding:** Airbnb has successfully resisted city requirements to share host data that would allow enforcement of short-term rental regulations. Without data on which properties are listed, how often they're rented, and who owns them, cities cannot enforce registration requirements, occupancy limits, or tax collection. Airbnb's data withholding strategy converts an information asymmetry into a regulatory advantage.
 

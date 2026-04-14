@@ -1,5 +1,5 @@
 ---
-title: "Marcia Fudge Master Profile"
+title: "Marcia Fudge"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

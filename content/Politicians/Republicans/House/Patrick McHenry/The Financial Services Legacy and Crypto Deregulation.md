@@ -21,9 +21,9 @@ donors: [[Goldman Sachs]] [[Coinbase]] [[Fairshake PAC]]
 
 ### The Financial Services Chairman Emeritus
 
-Patrick McHenry chaired the House Financial Services Committee (2023-2024) before retiring from Congress. McHenry's chairmanship was defined by crypto deregulation: he co-authored FIT21 with [[_French Hill Master Profile|French Hill]], advanced the bill through committee, and secured its bipartisan House passage. McHenry was the crypto industry's most important legislative ally — the chairman who made the industry's regulatory framework a committee priority.
+Patrick McHenry chaired the House Financial Services Committee (2023-2024) before retiring from Congress. McHenry's chairmanship was defined by crypto deregulation: he co-authored FIT21 with [[_French Hill Master Profile|French Hill]], advanced the bill through committee, and secured its bipartisan House passage. McHenry was the crypto industry's most important legislative ally, the chairman who made the industry's regulatory framework a committee priority.
 
-McHenry represented North Carolina's 10th District — western North Carolina, including Charlotte's banking suburbs. Charlotte is the second-largest banking center in America (Bank of America headquarters, Wells Fargo East Coast hub), making McHenry's Financial Services chairmanship a natural extension of his district's economy.
+McHenry represented North Carolina's 10th District, western North Carolina, including Charlotte's banking suburbs. Charlotte is the second-largest banking center in America (Bank of America headquarters, Wells Fargo East Coast hub), making McHenry's Financial Services chairmanship a natural extension of his district's economy.
 
 ---
 
@@ -40,7 +40,7 @@ McHenry received substantial crypto industry contributions: Coinbase PAC and emp
 
 ### Sources
 
-- ~~[Congress.gov: Patrick McHenry member profile](https://www.congress.gov/member/patrick-mchenry/M001156)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Patrick McHenry member profile](https://www.congress.gov/member/patrick-mchenry/M001156)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [FEC Candidate: Patrick McHenry campaign finance summary](https://www.fec.gov/data/candidate/H4NC10047/) (Tier 1) (VERIFIED)
 - [Ballotpedia: Patrick McHenry](https://ballotpedia.org/Patrick_McHenry) (Tier 3) (VERIFIED)
 

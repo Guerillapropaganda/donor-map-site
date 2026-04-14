@@ -62,7 +62,7 @@ ELPC distributes $15-20M annually across: legal litigation operations, regulator
 
 ### What They've Gotten
 
-ELPC litigation successfully blocked or delayed multiple coal plant expansions and forced early retirements of coal facilities across the Midwest. The organization's regulatory advocacy helped advance renewable portfolio standards in Illinois and Wisconsin. ELPC-supported state legislators and governors have enacted clean energy incentives and electric vehicle adoption policies. However, ELPC's litigation strategy has achieved incremental plant closures while fossil fuel infrastructure remains largely intact—the organization's framing of climate change as a technical/regulatory problem rather than a wealth and power problem has constrained actual victory.
+ELPC litigation successfully blocked or delayed multiple coal plant expansions and forced early retirements of coal facilities across the Midwest. The organization's regulatory advocacy helped advance renewable portfolio standards in Illinois and Wisconsin. ELPC-supported state legislators and governors have enacted clean energy incentives and electric vehicle adoption policies. However, ELPC's litigation strategy has achieved incremental plant closures while fossil fuel infrastructure remains largely intact, the organization's framing of climate change as a technical/regulatory problem rather than a wealth and power problem has constrained actual victory.
 
 > [!contradiction] ELPC positions itself as fighting climate change while accepting that its donor base includes foundations created from fossil fuel wealth (Rockefeller Brothers Fund, et al.) and accepting that actual carbon emissions remain largely unchanged. The organization's regulatory approach allows utilities to maintain profit models while slowly transitioning to renewables, rather than challenging the for-profit utility model itself.
 
@@ -72,10 +72,10 @@ ELPC represents NGO environmental infrastructure controlled by foundation fundin
 
 ### Sources
 
-- ~~[IRS Form 990: ELPC nonprofit financials](https://projects.propublica.org/nonprofits/organizations/521544430)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[Inside Philanthropy: Environmental foundation funding](https://www.insidephilanthropy.com/environmental-nonprofits/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[IRS Form 990: ELPC nonprofit financials](https://projects.propublica.org/nonprofits/organizations/521544430)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Inside Philanthropy: Environmental foundation funding](https://www.insidephilanthropy.com/environmental-nonprofits/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
-### Financial Overview (990 Filing — 2023)
+### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |
 |--------|--------|

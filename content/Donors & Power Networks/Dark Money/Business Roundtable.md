@@ -62,11 +62,11 @@ total-political-spend: "$110,825"
 
 ### Who They Are
 
-The Business Roundtable (BRT). An association of approximately 200 CEOs of America's largest corporations, representing companies with combined annual revenues exceeding $10 trillion and more than 20 million employees. Unlike the [[US Chamber of Commerce]], which maintains a facade of small business representation, the BRT openly represents the CEO class — its membership list reads like the Fortune 200.
+The Business Roundtable (BRT). An association of approximately 200 CEOs of America's largest corporations, representing companies with combined annual revenues exceeding $10 trillion and more than 20 million employees. Unlike the [[US Chamber of Commerce]], which maintains a facade of small business representation, the BRT openly represents the CEO class, its membership list reads like the Fortune 200.
 
 **Current chair (2025):** Chuck Robbins, CEO of Cisco. Past chairs include Jamie Dimon (JPMorgan Chase), who remains on the board as an at-large member. The 2025 board includes CEOs from The Home Depot (Ted Decker), Citi (Jane Fraser), Nasdaq (Adena Friedman), FedEx (Raj Subramaniam), TIAA (Thasunda Brown Duckett), and virtually every other major American corporation.
 
-The BRT's lobbying operation is the most direct channel through which the CEO class communicates its legislative priorities to Congress and the White House. Total lobbying expenditure: $33.5 million in 2025 — a 43% increase over 2024's $23.4 million, and the largest year-over-year increase among top Washington lobbying spenders. The surge tracks the TCJA extension fight: the BRT deployed 68 tax lobbyists in 2024 alone, making it the fifth-largest lobbying entity on tax issues.
+The BRT's lobbying operation is the most direct channel through which the CEO class communicates its legislative priorities to Congress and the White House. Total lobbying expenditure: $33.5 million in 2025, a 43% increase over 2024's $23.4 million, and the largest year-over-year increase among top Washington lobbying spenders. The surge tracks the TCJA extension fight: the BRT deployed 68 tax lobbyists in 2024 alone, making it the fifth-largest lobbying entity on tax issues.
 
 - [OpenSecrets: Business Roundtable lobbying profile](https://www.opensecrets.org/orgs/business-roundtable/lobbying?id=D000032202) (Tier 1) (VERIFIED)
 - [Business Roundtable: 2025 Board of Directors](https://www.businessroundtable.org/business-roundtable-announces-2025-ceo-board-of-directors-and-policy-committee-leadership) (Tier 1) (VERIFIED)
@@ -77,16 +77,16 @@ The BRT's lobbying operation is the most direct channel through which the CEO cl
 
 The BRT's priorities are the CEO class's priorities: corporate tax reduction (and permanent extension of the 2017 TCJA), reduced regulation across energy, technology, and financial sectors, favorable trade policy, immigration reform (increased high-skill labor supply via H-1B expansion), and opposition to antitrust enforcement that would constrain corporate consolidation. The BRT was the leading private-sector lobby for the 2017 Tax Cuts and Jobs Act and deployed its CEO membership as public spokespeople for the corporate rate cut.
 
-**2025 TCJA campaign:** The BRT's Q1 2025 lobbying spend hit $6.86 million — 35% above its historical quarterly average of $5.09 million — driven almost entirely by the TCJA extension fight. The organization targeted restoration of R&D expense deductions (American Innovation and R&D Competitiveness Act), permanent extension of the 21% corporate rate, and preservation of the 20% pass-through income deduction. The campaign succeeded: the 2017 tax framework was made permanent, including lower individual rates, the pass-through deduction, and business tax breaks for R&D, depreciation, and interest expenses.
+**2025 TCJA campaign:** The BRT's Q1 2025 lobbying spend hit $6.86 million, 35% above its historical quarterly average of $5.09 million, driven almost entirely by the TCJA extension fight. The organization targeted restoration of R&D expense deductions (American Innovation and R&D Competitiveness Act), permanent extension of the 21% corporate rate, and preservation of the 20% pass-through income deduction. The campaign succeeded: the 2017 tax framework was made permanent, including lower individual rates, the pass-through deduction, and business tax breaks for R&D, depreciation, and interest expenses.
 
-In 2019, the BRT issued a much-publicized "Statement on the Purpose of a Corporation" declaring that corporations should serve all stakeholders, not just shareholders. The statement was signed by 181 CEOs — including Jeff Bezos, Tim Cook, Mary Barra, and Safra Catz — and framed as a fundamental shift from shareholder primacy to stakeholder capitalism.
+In 2019, the BRT issued a much-publicized "Statement on the Purpose of a Corporation" declaring that corporations should serve all stakeholders, not just shareholders. The statement was signed by 181 CEOs, including Jeff Bezos, Tim Cook, Mary Barra, and Safra Catz, and framed as a fundamental shift from shareholder primacy to stakeholder capitalism.
 
 > [!contradiction] The Stakeholder Capitalism Fraud
 > The BRT's 2019 stakeholder capitalism statement was signed by 181 CEOs pledging to serve employees, communities, and the environment — not just shareholders. Harvard Law School's Program on Corporate Governance concluded in 2021 that the statement represented "no meaningful commitment" and was "mostly for show." In the three years following the statement, BRT member companies continued stock buyback programs worth hundreds of billions, lobbied against the PRO Act (labor organizing protections), opposed the Build Back Better Act (climate and social spending), and pushed for permanent corporate tax reduction. The statement was a press release designed to defuse inequality backlash, not a policy commitment. Zero changes in corporate behavior, lobbying priorities, or political spending followed.
 
 - [Legis1: Business Roundtable deploys $6.86M for tax agenda in Q1 2025](https://legis1.com/news/business-roundtable-deploys-6-86m-for-ambitious-tax-agenda-in-q1-2025/) (Tier 2) (VERIFIED)
 - [Harvard Law Forum: Six reasons we don't trust the BRT stakeholder promise](https://corpgov.law.harvard.edu/2019/09/02/six-reasons-we-dont-trust-the-new-stakeholder-promise-from-the-business-roundtable/) (Tier 2) (VERIFIED)
-- [Roosevelt Institute: Shareholders first — what hasn't changed since BRT statement](https://rooseveltinstitute.org/blog/shareholders-first-what-hasnt-changed-since-the-business-roundtables-2019-statement/) (Tier 2) (VERIFIED)
+- [Roosevelt Institute: Shareholders first, what hasn't changed since BRT statement](https://rooseveltinstitute.org/blog/shareholders-first-what-hasnt-changed-since-the-business-roundtables-2019-statement/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -94,9 +94,9 @@ In 2019, the BRT issued a much-publicized "Statement on the Purpose of a Corpora
 
 The BRT does not operate a PAC but exerts influence through three channels that are more powerful than direct contributions.
 
-**Channel 1 — CEO bundling networks:** Individual BRT member CEOs are among the largest political donors in the country. Dimon, Larry Fink (BlackRock), Stephen Schwarzman (Blackstone), and others contribute millions personally and through their corporate PACs. When the BRT signals a priority, the CEO bundling network activates across 200 companies simultaneously.
+**Channel 1. CEO bundling networks:** Individual BRT member CEOs are among the largest political donors in the country. Dimon, Larry Fink (BlackRock), Stephen Schwarzman (Blackstone), and others contribute millions personally and through their corporate PACs. When the BRT signals a priority, the CEO bundling network activates across 200 companies simultaneously.
 
-**Channel 2 — Direct lobbying ($33.5M in 2025):** The BRT maintains an aggressive in-house lobbying operation targeting tax policy, trade, immigration, and deregulation. The organization's lobbying spend has escalated dramatically:
+**Channel 2. Direct lobbying ($33.5M in 2025):** The BRT maintains an aggressive in-house lobbying operation targeting tax policy, trade, immigration, and deregulation. The organization's lobbying spend has escalated dramatically:
 
 | Year | Lobbying Spend | Key Focus |
 |------|---------------|-----------|
@@ -105,7 +105,7 @@ The BRT does not operate a PAC but exerts influence through three channels that 
 | 2024 | $23,400,000 | TCJA extension groundwork, 68 tax lobbyists deployed |
 | 2025 | $33,500,000 | TCJA permanent extension campaign (+43% YoY) |
 
-**Channel 3 — CEO-to-politician relationships:** The BRT's structural power does not depend on campaign contributions. When 200 CEOs representing $10 trillion in revenue speak with one voice, the message functions as implicit instruction. Corporate investment, job creation, and location decisions follow the policy environment — and every member of Congress understands that BRT priorities shape those decisions.
+**Channel 3. CEO-to-politician relationships:** The BRT's structural power does not depend on campaign contributions. When 200 CEOs representing $10 trillion in revenue speak with one voice, the message functions as implicit instruction. Corporate investment, job creation, and location decisions follow the policy environment, and every member of Congress understands that BRT priorities shape those decisions.
 
 - [OpenSecrets: Business Roundtable lobbying totals](https://www.opensecrets.org/orgs/business-roundtable/totals?id=D000032202) (Tier 1) (VERIFIED)
 - [Public Citizen: Corporate America dominates tax lobbying](https://www.citizen.org/article/corporate-america-dominates-tax-lobbying/) (Tier 2) (VERIFIED)
@@ -114,14 +114,14 @@ The BRT does not operate a PAC but exerts influence through three channels that 
 
 ### What They've Gotten
 
-### Tax Cuts and Jobs Act (2017) — The BRT's Masterpiece:
+### Tax Cuts and Jobs Act (2017). The BRT's Masterpiece:
 
 The BRT's top legislative priority for a decade. The corporate rate cut from 35% to 21% generated approximately $320 billion in annual tax savings for BRT member companies. Jamie Dimon personally lobbied Congress, appeared at White House meetings, and attended the signing ceremony. The BRT spent an estimated $82 million on tax lobbying in 2017 (across the full lobbying apparatus, not just BRT-specific spending).
 
-> [!money] The TCJA ROI — $82M In, $320B+ Out
+> [!money] The TCJA ROI, $82M In, $320B+ Out
 > The BRT and its member companies spent approximately $82 million on tax lobbying in 2017. The resulting corporate rate cut from 35% to 21% generates $320+ billion annually in corporate tax savings for BRT member companies. Over the TCJA's initial 8-year window (2018-2025), that's $2.56 trillion in cumulative tax savings. The 2025 permanent extension adds trillions more over the next decade. The lobbying investment produced a return of approximately 3,900-to-1 measured in first-year tax savings alone — and the return compounds every year the law remains in effect. This is the vault's highest documented lobbying ROI for economy-wide legislation.
 
-**TCJA Permanent Extension (2025):** The BRT's $33.5 million lobbying surge succeeded in making the TCJA framework permanent — including the corporate rate, pass-through deductions, R&D expensing, and accelerated depreciation. The extension eliminates the scheduled expiration of key provisions, locking in the CEO class's tax architecture indefinitely.
+**TCJA Permanent Extension (2025):** The BRT's $33.5 million lobbying surge succeeded in making the TCJA framework permanent, including the corporate rate, pass-through deductions, R&D expensing, and accelerated depreciation. The extension eliminates the scheduled expiration of key provisions, locking in the CEO class's tax architecture indefinitely.
 
 **PRO Act Defeat:** The BRT lobbied aggressively against the Protecting the Right to Organize Act, which would have expanded union organizing rights, banned captive audience meetings, and overridden state right-to-work laws. Despite House passage in 2021 and Biden administration support, the PRO Act never received a Senate vote. The BRT's opposition was part of a broader corporate anti-labor coalition that included the [[US Chamber of Commerce]] and the National Association of Manufacturers.
 
@@ -134,8 +134,8 @@ The BRT's top legislative priority for a decade. The corporate rate cut from 35%
 | Date | Event/Lobbying | Amount | Policy Outcome | Time Gap |
 |------|---------------|--------|----------------|----------|
 | 2017 | BRT leads corporate TCJA lobbying campaign | $82M (coalition) | Corporate rate cut 35% → 21%; $320B+ annual savings | Immediate |
-| 2017-12 | Dimon attends White House TCJA signing | — | JPMorgan alone saved $3.7B in taxes in 2018 | Immediate |
-| 2019-08 | BRT "Statement on Purpose of Corporation" | $0 (PR) | Zero policy changes; buybacks, anti-labor lobbying continue | — |
+| 2017-12 | Dimon attends White House TCJA signing |, | JPMorgan alone saved $3.7B in taxes in 2018 | Immediate |
+| 2019-08 | BRT "Statement on Purpose of Corporation" | $0 (PR) | Zero policy changes; buybacks, anti-labor lobbying continue |, |
 | 2021 | BRT lobbies against PRO Act | Part of $19.7M annual spend | PRO Act dies without Senate vote despite House passage | Concurrent |
 | 2023-2024 | BRT deploys 68 tax lobbyists for TCJA extension | $23.4M (2024) | Groundwork for permanent extension | 12-18 months |
 | 2025-Q1 | BRT lobbying surge for TCJA permanence | $6.86M (single quarter) | TCJA framework made permanent | Immediate |
@@ -146,11 +146,11 @@ The BRT's top legislative priority for a decade. The corporate rate cut from 35%
 
 ### Class Analysis
 
-The Business Roundtable is the donor class's boardroom — the venue where the CEO class coordinates its legislative agenda without the intermediary of PACs, super PACs, or dark money. Where the [[US Chamber of Commerce]] operates through mass lobbying and dark money ($746M+ cumulative), the BRT operates through direct CEO-to-politician relationships backed by the implicit threat of capital mobility.
+The Business Roundtable is the donor class's boardroom, the venue where the CEO class coordinates its legislative agenda without the intermediary of PACs, super PACs, or dark money. Where the [[US Chamber of Commerce]] operates through mass lobbying and dark money ($746M+ cumulative), the BRT operates through direct CEO-to-politician relationships backed by the implicit threat of capital mobility.
 
-The BRT's structural function is distinct from any other node in the vault. It does not need to buy politicians through campaign contributions because it represents the employers of 20 million Americans and the revenue base of the corporate tax system. When the BRT communicates a priority, every member of Congress understands that the policy environment shapes where $10 trillion in corporate revenue gets invested, where jobs get created, and which districts benefit. The political operation is the CEO class governing directly — without the intermediary of elections.
+The BRT's structural function is distinct from any other node in the vault. It does not need to buy politicians through campaign contributions because it represents the employers of 20 million Americans and the revenue base of the corporate tax system. When the BRT communicates a priority, every member of Congress understands that the policy environment shapes where $10 trillion in corporate revenue gets invested, where jobs get created, and which districts benefit. The political operation is the CEO class governing directly, without the intermediary of elections.
 
-The 2019 stakeholder capitalism statement is the clearest example of the BRT's rhetorical function: absorbing public anger about inequality by performing concern, while the lobbying operation continues to extract tax reductions, deregulation, and anti-labor policy. The statement was signed while the BRT was simultaneously lobbying against the PRO Act, opposing Build Back Better, and pushing for permanent corporate tax cuts. The gap between the public statement and the lobbying record is the BRT's core contradiction — and the class analysis in miniature.
+The 2019 stakeholder capitalism statement is the clearest example of the BRT's rhetorical function: absorbing public anger about inequality by performing concern, while the lobbying operation continues to extract tax reductions, deregulation, and anti-labor policy. The statement was signed while the BRT was simultaneously lobbying against the PRO Act, opposing Build Back Better, and pushing for permanent corporate tax cuts. The gap between the public statement and the lobbying record is the BRT's core contradiction, and the class analysis in miniature.
 
 The TCJA is the BRT's signature achievement: $320+ billion annually in corporate tax savings, now permanent, generated by a lobbying investment that represents a rounding error on the returns. No other lobbying investment in the vault produces returns at this scale. The Koch Network's $400M/cycle political operation protects Koch Industries' regulatory environment. The BRT's $33.5M lobbying budget shapes the tax code for every Fortune 500 company simultaneously.
 

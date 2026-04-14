@@ -1,5 +1,5 @@
 ---
-title: "Abraham J. Hamadeh Master Profile"
+title: "Abraham J. Hamadeh"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

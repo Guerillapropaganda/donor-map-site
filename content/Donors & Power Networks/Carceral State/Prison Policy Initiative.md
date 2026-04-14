@@ -14,11 +14,11 @@ related: "[[CoreCivic - Private Prisons]] · [[CoreCivic]] · [[GEO Group]] · [
 
 ### What It Is
 
-The Prison Policy Initiative is a research and advocacy organization that produces the most comprehensive data on mass incarceration in the United States. PPI's data is included here as a reference node — providing the factual foundation for the vault's carceral state analysis.
+The Prison Policy Initiative is a research and advocacy organization that produces the most comprehensive data on mass incarceration in the United States. PPI's data is included here as a reference node, providing the factual foundation for the vault's carceral state analysis.
 
 ### Key Data Points (2024):
 - 1.9 million people incarcerated in the United States (jails, state prisons, federal prisons, immigration detention)
-- US incarceration rate: 531 per 100,000 — the highest in the world
+- US incarceration rate: 531 per 100,000, the highest in the world
 - 3.6 million people on probation, 803,000 on parole
 - Total carceral control: approximately 5.8 million Americans
 - Annual cost of incarceration: $182 billion (taxpayer-funded)
@@ -31,7 +31,7 @@ Mass incarceration is a $182 billion annual industry. The beneficiaries include:
 
 **Private Prison Companies:** [[CoreCivic]] and [[GEO Group]] operate facilities holding 8% of federal prisoners and 18-20% of immigration detainees. Combined revenue: $4+ billion.
 
-**Prison Telecom:** [[Securus Technologies - Aventiv|Securus]] and [[ViaPath Technologies - GTL|ViaPath]] monopolize prison telephone and tablet services, charging incarcerated people and their families $0.25-$1.00 per minute for phone calls — rates that are 10-50x higher than consumer rates.
+**Prison Telecom:** [[Securus Technologies - Aventiv|Securus]] and [[ViaPath Technologies - GTL|ViaPath]] monopolize prison telephone and tablet services, charging incarcerated people and their families $0.25-$1.00 per minute for phone calls, rates that are 10-50x higher than consumer rates.
 
 **Guard Unions:** [[CCPOA - California Correctional Peace Officers Association|CCPOA]] in California is the most politically powerful guard union, spending $8+ million per cycle to oppose decarceration and elect "tough on crime" candidates.
 

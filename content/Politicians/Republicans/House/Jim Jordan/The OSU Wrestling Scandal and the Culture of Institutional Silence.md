@@ -24,9 +24,9 @@ donors: (No specific donors identified in text)
 
 ### The Strauss Abuse
 
-Dr. Richard Strauss was a team physician at Ohio State from 1978 to 1998, serving the wrestling, gymnastics, and other athletic programs. An independent investigation commissioned by the university (conducted by Perkins Coie, released May 2019) found that Strauss sexually abused at least 177 students across his tenure. The investigation concluded that university personnel — coaches, administrators, athletic department staff — were aware of complaints about Strauss and failed to act. Strauss died by suicide in 2005.
+Dr. Richard Strauss was a team physician at Ohio State from 1978 to 1998, serving the wrestling, gymnastics, and other athletic programs. An independent investigation commissioned by the university (conducted by Perkins Coie, released May 2019) found that Strauss sexually abused at least 177 students across his tenure. The investigation concluded that university personnel, coaches, administrators, athletic department staff, were aware of complaints about Strauss and failed to act. Strauss died by suicide in 2005.
 
-The university's investigation found that complaints about Strauss were "an open secret" within the athletic department. Wrestlers described mandatory examinations in which Strauss groped athletes, conducted unnecessary genital examinations, and made sexually suggestive comments — in the team's shower facilities, in locker rooms, and in his office.
+The university's investigation found that complaints about Strauss were "an open secret" within the athletic department. Wrestlers described mandatory examinations in which Strauss groped athletes, conducted unnecessary genital examinations, and made sexually suggestive comments, in the team's shower facilities, in locker rooms, and in his office.
 
 ---
 
@@ -36,9 +36,9 @@ Six former Ohio State wrestlers have publicly stated that Jordan knew about Stra
 
 **Mike DiSabato** (2018): First to publicly accuse Jordan of knowing. Said abuse was discussed openly in the wrestling room and that Jordan was present for those conversations.
 
-**Dunyasha Yetts** (2018): Told CNN that he and fellow wrestlers reported Strauss's conduct directly to Jordan. "I remember I had a conversation with Jordan about it... He just snickered."
+**Dunyasha Yetts** (2018): Told CNN that he and fellow wrestlers reported Strauss's conduct directly to Jordan. "I remember I had a conversation with Jordan about it. He just snickered."
 
-**Mark Coleman** (UFC Hall of Famer, 2018): Initially supported Jordan, then reversed, stating: "There's no way unless he's got dementia or something that he's got releasing releasing him releasing things releasing his releasing his memory releasing releases — that releasing... There's no way he didn't know what was going on."
+**Mark Coleman** (UFC Hall of Famer, 2018): Initially supported Jordan, then reversed, stating: "There's no way unless he's got dementia or something that he's got releasing releasing him releasing things releasing his releasing his memory releasing releases, that releasing. There's no way he didn't know what was going on."
 
 **Referee Adam Feeney** testified that when he reported seeing Strauss showering with a wrestler, Jordan responded: "Yeah, that's Strauss."
 
@@ -52,7 +52,7 @@ Jordan has categorically denied any knowledge of abuse. His public statements ha
 
 Initial denial (July 2018): "I never saw any abuse, never heard about any abuse, and never had any abuse reported to me."
 
-Subsequent framing: Jordan repositioned the accusations as a political attack — specifically linking the timing of DiSabato's public statements to Jordan's role defending Trump in the Russia investigation. "This is another prior incident dredged up to muddy the waters."
+Subsequent framing: Jordan repositioned the accusations as a political attack, specifically linking the timing of DiSabato's public statements to Jordan's role defending Trump in the Russia investigation. "This is another prior incident dredged up to muddy the waters."
 
 > [!contradiction]
 > Jordan's defense strategy mirrors the institutional pattern the Perkins Coie investigation described: when abuse is reported, reframe it as an attack on the institution (or the individual) rather than address the substance. The university failed to act on complaints for 20 years. Jordan's response to the wrestlers' testimony follows the same structural logic: deny, reframe as political attack, decline to engage with the specific allegations. The man who has spent his congressional career demanding that others testify under oath about what they knew and when has never testified under oath about what he knew about Strauss.
@@ -61,7 +61,7 @@ Subsequent framing: Jordan repositioned the accusations as a political attack �
 
 ### The Unresolved Question
 
-No formal investigation has specifically examined Jordan's knowledge. The Perkins Coie investigation focused on institutional failures broadly — not on individual coaches' roles. The Department of Education opened a Title IX investigation into Ohio State's handling of the abuse. The university paid $60 million+ in settlements with survivors.
+No formal investigation has specifically examined Jordan's knowledge. The Perkins Coie investigation focused on institutional failures broadly, not on individual coaches' roles. The Department of Education opened a Title IX investigation into Ohio State's handling of the abuse. The university paid $60 million+ in settlements with survivors.
 
 Jordan has never been subpoenaed to testify about his knowledge. He has never voluntarily offered testimony. The six wrestlers' accounts remain on the public record, uncontested under oath by Jordan.
 

@@ -11,7 +11,7 @@ last-updated: 2026-04-11
 
 Generated: 2026-04-11T20:13:47.328Z
 Mode: WRITE
-Script: [scripts/migrate-frontmatter-to-relationships-jsonl.cjs](../../scripts/migrate-frontmatter-to-relationships-jsonl.cjs)
+Script: [scripts/migrate-frontmatter-to-relationships-jsonl.cjs](././scripts/migrate-frontmatter-to-relationships-jsonl.cjs)
 
 ## Summary
 
@@ -87,11 +87,11 @@ create the missing profiles or remove the dangling links.
 | CalSTRS | 4 |
 | Google | 4 |
 | Meta | 4 |
-| _...and 374 more_ | |
+| _..and 374 more_ | |
 
 ## Title collisions encountered
 
-Target titles that matched multiple profiles. These edges were skipped —
+Target titles that matched multiple profiles. These edges were skipped , 
 disambiguation via `from_slug` / `to_slug` requires manual review.
 
 | Target title | References that collided |
@@ -115,10 +115,10 @@ disambiguation via `from_slug` / `to_slug` requires manual review.
 ## Notes
 
 - All edges are tagged `source: frontmatter-migration`, `confidence: 0.5`. Corroborated edges
-  (where the same relationship was found on both endpoints' frontmatter) are upgraded to `0.6`.
-- Monetary edges have `null` amount / cycle — they are exempt from the type-required-extras
-  check via the `MIGRATION_SOURCES` allowlist in `scripts/lib/relationship-edge-validator.cjs`.
-  The Phase 3 Part 2 categorizer will upgrade them once Tier 1 pipeline data (FEC, LDA) fills
-  in the missing metadata.
+ (where the same relationship was found on both endpoints' frontmatter) are upgraded to `0.6`.
+- Monetary edges have `null` amount / cycle, they are exempt from the type-required-extras
+ check via the `MIGRATION_SOURCES` allowlist in `scripts/lib/relationship-edge-validator.cjs`.
+ The Phase 3 Part 2 categorizer will upgrade them once Tier 1 pipeline data (FEC, LDA) fills
+ in the missing metadata.
 - No profile `.md` files were modified. Frontmatter fields are still the canonical legacy view.
-  Phase 3 Parts 2–4 will gradually rewire consumers to read from `data/relationships.jsonl`.
+ Phase 3 Parts 2–4 will gradually rewire consumers to read from `data/relationships.jsonl`.

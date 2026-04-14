@@ -1,5 +1,5 @@
 ---
-title: "Saikat Chakrabarti Master Profile"
+title: "Saikat Chakrabarti"
 type: politician
 content-readiness: ready
 central-thesis: "Chakrabarti is the vault's most structurally unusual figure: a centimillionaire (content-readiness: ready67M+ disclosed net worth) who built the progressive insurgent infrastructure that the donor class has spent the last decade trying to contain. He designed the Justi..."
@@ -32,7 +32,7 @@ checklist-na:
   - "voting-records: Never held elected office (candidate)"
   - "committee-assignments: Never held elected office (candidate)"
 known-gaps:
-  - FEC Brand New Congress LLC transfers under 3-3 deadlock (MUR 7592) — no final resolution
+  - FEC Brand New Congress LLC transfers under 3-3 deadlock (MUR 7592) , no final resolution
 editorial-review-date: "2026-04-09"
 editorial-reviewer: "Research Claude"
 editorial-result: pass
@@ -50,16 +50,16 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### Sub-Notes
 
-- [[Justice Democrats and Brand New Congress - The Infrastructure He Built]] — Founding, casting call model, FEC filings, PAC-to-LLC controversy, win rates
-- [[The FEC Complaints - PAC-to-LLC Transfer Controversy]] — MUR 7575/7580/7592/7626, Brand New Congress LLC, $1.04M transfers, 3-3 deadlock
-- [[CA-11 Congressional Campaign 2026 - Running for Pelosi's Seat]] — FEC filings, self-funding, Wiener/Chan primary, endorsement map, polling
-- [[New Consensus and the Green New Deal Architecture]] — Think tank 990s, Mission for America, GND drafting role, organizational merger with campaign
+- [[Justice Democrats and Brand New Congress - The Infrastructure He Built]]. Founding, casting call model, FEC filings, PAC-to-LLC controversy, win rates
+- [[The FEC Complaints - PAC-to-LLC Transfer Controversy]]. MUR 7575/7580/7592/7626, Brand New Congress LLC, $1.04M transfers, 3-3 deadlock
+- [[CA-11 Congressional Campaign 2026 - Running for Pelosi's Seat]]. FEC filings, self-funding, Wiener/Chan primary, endorsement map, polling
+- [[New Consensus and the Green New Deal Architecture]]. Think tank 990s, Mission for America, GND drafting role, organizational merger with campaign
 
 ---
 
 ## Who He Is
 
-Saikat Chakrabarti. Born January 12, 1986, Fort Worth, Texas. Bengali immigrant family — father born in Dhaka, displaced during Partition, squatted in an abandoned house in Kolkata, emigrated to the US in 1979 with no money. Paul Laurence Dunbar High School, Fort Worth. BA in Computer Science, Harvard University, 2007. One year at Bridgewater Associates (Ray Dalio's hedge fund) straight out of Harvard. Co-founded Mockingbird (web wireframing startup) in San Francisco, 2009. Founding engineer (second engineer) at Stripe, February 2011 to May 2013 — approximately 27 months. Director of Organizing Technology on [[_Bernie Sanders Master Profile|Bernie Sanders]]' 2016 presidential campaign. Co-founded Brand New Congress (April 2016) and Justice Democrats (January 2017). Served as [[_Alexandria Ocasio-Cortez Master Profile|Alexandria Ocasio-Cortez]]'s first Chief of Staff, January to August 2019 — the seven months that produced the Green New Deal resolution. Co-founded New Consensus think tank (2017). Currently a candidate for Congress in California's 11th district (San Francisco), the seat [[_Nancy Pelosi Master Profile|Nancy Pelosi]] held for 37 years. Top-two primary: June 2, 2026.
+Saikat Chakrabarti. Born January 12, 1986, Fort Worth, Texas. Bengali immigrant family, father born in Dhaka, displaced during Partition, squatted in an abandoned house in Kolkata, emigrated to the US in 1979 with no money. Paul Laurence Dunbar High School, Fort Worth. BA in Computer Science, Harvard University, 2007. One year at Bridgewater Associates (Ray Dalio's hedge fund) straight out of Harvard. Co-founded Mockingbird (web wireframing startup) in San Francisco, 2009. Founding engineer (second engineer) at Stripe, February 2011 to May 2013, approximately 27 months. Director of Organizing Technology on [[_Bernie Sanders Master Profile|Bernie Sanders]]' 2016 presidential campaign. Co-founded Brand New Congress (April 2016) and Justice Democrats (January 2017). Served as [[_Alexandria Ocasio-Cortez Master Profile|Alexandria Ocasio-Cortez]]'s first Chief of Staff, January to August 2019, the seven months that produced the Green New Deal resolution. Co-founded New Consensus think tank (2017). Currently a candidate for Congress in California's 11th district (San Francisco), the seat [[_Nancy Pelosi Master Profile|Nancy Pelosi]] held for 37 years. Top-two primary: June 2, 2026.
 
 ---
 
@@ -92,7 +92,7 @@ Saikat Chakrabarti. Born January 12, 1986, Fort Worth, Texas. Bengali immigrant 
 | Blue Owl GP Stakes funds | $500K–$1M each | Capital Gains | Varied |
 | SF rental properties (2) | $500K–$1M each | Rent | $15K–$50K each |
 
-Total disclosed minimum net worth: at least $167 million. True ceiling unknowable — both Stripe and Fidelity positions only require ">$50M" disclosure. [House Financial Disclosure #10063516](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10063516.pdf) (Tier 1) (VERIFIED), [Business Insider (Bryan Metzger, August 2025)](https://www.businessinsider.com/saikat-chakrabarti-net-worth-nancy-pelosi-primary-challenger-2025-8) (Tier 2) (VERIFIED)
+Total disclosed minimum net worth: at least $167 million. True ceiling unknowable, both Stripe and Fidelity positions only require ">$50M" disclosure. [House Financial Disclosure #10063516](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10063516.pdf) (Tier 1) (VERIFIED), [Business Insider (Bryan Metzger, August 2025)](https://www.businessinsider.com/saikat-chakrabarti-net-worth-nancy-pelosi-primary-challenger-2025-8) (Tier 2) (VERIFIED)
 
 ### Post-Stripe Investment Portfolio:
 
@@ -107,7 +107,7 @@ Everybody Techworks, Inc. (voter data tools, $50K–$100K), Reach Progress PBC (
 
 ## Donation-to-Policy Timeline
 
-*Note: Chakrabarti inverts the vault's standard model. He doesn't receive donations that predict his votes — he deploys personal wealth that builds political infrastructure. The timeline tracks wealth → organization → policy rather than donation → politician → policy.*
+*Note: Chakrabarti inverts the vault's standard model. He doesn't receive donations that predict his votes, he deploys personal wealth that builds political infrastructure. The timeline tracks wealth → organization → policy rather than donation → politician → policy.*
 
 | Date | Investment/Action | Amount | Infrastructure Output |
 |------|-------------------|--------|-----------------------|
@@ -131,7 +131,7 @@ Everybody Techworks, Inc. (voter data tools, $50K–$100K), Reach Progress PBC (
 
 **2016–2017:** Co-founds Brand New Congress (April 2016) and Justice Democrats (January 2017). The model: open nominations, centralized campaign services, no corporate PAC money pledge. Cenk Uygur and Kyle Kulinski are JD co-founders; both depart by December 2017.
 
-**2018:** Justice Democrats recruits AOC. She defeats Joe Crowley in the NY-14 primary — the signature win of the casting-call model. JD raises $2.7M; BNC raises $602K. Win rate: 1 general election win out of 30+ endorsed candidates.
+**2018:** Justice Democrats recruits AOC. She defeats Joe Crowley in the NY-14 primary, the signature win of the casting-call model. JD raises $2.7M; BNC raises $602K. Win rate: 1 general election win out of 30+ endorsed candidates.
 
 **2019:** Seven months as AOC's CoS. Drafts the Green New Deal. Wages public war with Pelosi and the Democratic Caucus via Twitter. Calls moderate Democrats "the New Southern Democrats." Hakeem Jeffries' caucus account fires back. Emanuel Cleaver calls him "a snot-nosed punk." Pelosi convenes a closed-door meeting: "Do not tweet about our members." Departs August 2, 2019 alongside communications director Corbin Trent.
 
@@ -155,13 +155,13 @@ Justice Democrats endorsing their own co-founder completes the circle. Chakrabar
 
 ## Rhetorical Signature Moves
 
-1. **The immigrant origin anchor:** Deploys his father's Partition displacement and immigration-with-nothing story as class credentials. Authentic in origin but serves the same structural function as AOC's bartender-to-Congress narrative — insulating a wealthy candidate from elite criticism.
+1. **The immigrant origin anchor:** Deploys his father's Partition displacement and immigration-with-nothing story as class credentials. Authentic in origin but serves the same structural function as AOC's bartender-to-Congress narrative, insulating a wealthy candidate from elite criticism.
 
 2. **The self-aware wealth frame:** "While I worked 'hard' at Stripe, I did not work harder than teachers or nurses." Preemptively acknowledges the contradiction rather than denying it. This is more honest than most wealthy candidates but doesn't resolve the structural tension.
 
-3. **The party-fighter positioning:** "If you want someone who's going to get along, to go along, then I'm not your guy." Positions himself as the insurgent in a race where his primary opponent (Wiener) has the full institutional backing. The framing works because it's historically accurate — he did build the infrastructure that challenged party leadership.
+3. **The party-fighter positioning:** "If you want someone who's going to get along, to go along, then I'm not your guy." Positions himself as the insurgent in a race where his primary opponent (Wiener) has the full institutional backing. The framing works because it's historically accurate, he did build the infrastructure that challenged party leadership.
 
-4. **The policy-as-platform pivot:** Uses the Mission for America (New Consensus's flagship document) as both think tank output and campaign platform. The think tank and the campaign are functionally merged — Zack Exley serves as both New Consensus ED and campaign manager.
+4. **The policy-as-platform pivot:** Uses the Mission for America (New Consensus's flagship document) as both think tank output and campaign platform. The think tank and the campaign are functionally merged. Zack Exley serves as both New Consensus ED and campaign manager.
 
 ---
 
@@ -174,11 +174,11 @@ Justice Democrats endorsing their own co-founder completes the circle. Chakrabar
 
 ### The Infrastructure Builder Who Becomes the Candidate
 
-No other figure in the vault built the political organizations, recruited the candidates, drafted the flagship legislation, AND then entered the pipeline as a candidate themselves. Reid Hoffman invested in progressive infrastructure but never ran. SBF bought influence but never organized. Chakrabarti is unique: he designed the machine, staffed it, watched it produce results (AOC, Bowman, Bush), and is now feeding himself through it. Justice Democrats endorsed him March 30, 2026 — the organization he co-founded is now endorsing its own creator.
+No other figure in the vault built the political organizations, recruited the candidates, drafted the flagship legislation, AND then entered the pipeline as a candidate themselves. Reid Hoffman invested in progressive infrastructure but never ran. SBF bought influence but never organized. Chakrabarti is unique: he designed the machine, staffed it, watched it produce results (AOC, Bowman, Bush), and is now feeding himself through it. Justice Democrats endorsed him March 30, 2026, the organization he co-founded is now endorsing its own creator.
 
 ### The Pelosi Seat as Symbolic Target
 
-Running for Pelosi's CA-11 is not incidental. Pelosi is the institutional figure whose authority Chakrabarti challenged most directly — the "do not tweet" confrontation, the GND dismissal, the CoS departure. Taking her seat would be the most visible conversion of insurgent energy into institutional power in the vault. That he's polling at 9% on Polymarket and received 0 delegate votes from the California Democratic Party suggests the institution is containing him the same way it contained the Squad — through endorsement denial, institutional backing of alternatives, and the structural advantage of name recognition (Wiener: 92%, Chakrabarti: 45%).
+Running for Pelosi's CA-11 is not incidental. Pelosi is the institutional figure whose authority Chakrabarti challenged most directly, the "do not tweet" confrontation, the GND dismissal, the CoS departure. Taking her seat would be the most visible conversion of insurgent energy into institutional power in the vault. That he's polling at 9% on Polymarket and received 0 delegate votes from the California Democratic Party suggests the institution is containing him the same way it contained the Squad, through endorsement denial, institutional backing of alternatives, and the structural advantage of name recognition (Wiener: 92%, Chakrabarti: 45%).
 
 ---
 
@@ -186,14 +186,14 @@ Running for Pelosi's CA-11 is not incidental. Pelosi is the institutional figure
 
 ### Verified
 - [FEC: Saikat for Congress committee (C00897314)](https://www.fec.gov/data/committee/C00897314/) (Tier 1) (VERIFIED)
-- ~~[FEC: Candidate H6CA11219](https://www.fec.gov/data/candidate/H6CA11219/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[FEC: Candidate H6CA11219](https://www.fec.gov/data/candidate/H6CA11219/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [House Financial Disclosure #10063516](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10063516.pdf) (Tier 1)
 - [FEC: Justice Democrats PAC (C00630665)](https://www.fec.gov/data/committee/C00630665/) (Tier 1) (VERIFIED)
 - [FEC: Brand New Congress PAC (C00613810)](https://www.fec.gov/data/committee/C00613810/) (Tier 1) (VERIFIED)
 - [FEC: MUR 7575 (Matter Under Review)](https://www.fec.gov/data/legal/matter-under-review/7575/) (Tier 1) (VERIFIED)
 - [ProPublica Nonprofit Explorer: New Consensus 990s (EIN 82-3053965)](https://projects.propublica.org/nonprofits/organizations/823053965) (Tier 1) (VERIFIED)
 - [Business Insider: Chakrabarti net worth (Bryan Metzger, August 2025)](https://www.businessinsider.com/saikat-chakrabarti-net-worth-nancy-pelosi-primary-challenger-2025-8) (Tier 2) (VERIFIED)
-- ~~[Politico: SF establishment moves to sink progressive (March 27, 2026)](https://www.politico.com/news/2026/03/27/san-franciscos-establishment-moves-to-sink-a-progressive-house-candidate-00847914)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Politico: SF establishment moves to sink progressive (March 27, 2026)](https://www.politico.com/news/2026/03/27/san-franciscos-establishment-moves-to-sink-a-progressive-house-candidate-00847914)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Politico: Chakrabarti magazine profile (October 2025)](https://www.politico.com/news/magazine/2025/10/30/saikat-chakrabarti-nancy-pelosi-democratic-party-00624012) (Tier 2) (VERIFIED)
 - [Washington Examiner: Disclosure loophole (February 2019)](https://www.washingtonexaminer.com/news/646156/aoc-living-wage-rules-allow-her-staff-to-dodge-financial-disclosure-laws/) (Tier 2) (VERIFIED)
 - [Drop Site News: JD endorsement (Ryan Grim, March 30, 2026)](https://www.dropsitenews.com/p/justice-democrats-adam-hamawy-saikat-chakrabarti-endorsement) (Tier 2) (VERIFIED)

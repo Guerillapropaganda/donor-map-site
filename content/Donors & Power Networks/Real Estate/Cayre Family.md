@@ -58,7 +58,7 @@ The Cayre family exemplifies how New York real estate wealth translates directly
 
 ### Sources
 
-- ~~[New York Times: NYC developer political contributions](https://www.nytimes.com/2024/01/developer-contributions.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[New York Times: NYC developer political contributions](https://www.nytimes.com/2024/01/developer-contributions.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->

@@ -1,5 +1,5 @@
 ---
-title: "Ted Budd Master Profile"
+title: "Ted Budd"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

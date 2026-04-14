@@ -160,8 +160,8 @@ The both-sides framing, "crypto has Democrats and Republicans", obscures the act
 
 ### Sherrod Brown / Ohio Race (Tier 2)
 - [CoinDesk: "Crypto PACs Dominate Ohio Senate Race, Spending $40M on Sherrod Brown's Foe"](https://www.coindesk.com/policy2024/09/26/crypto-pacs-dominate-ohio-senate-race-spending-40m-on-sherrod-browns-foe) (Tier 2) (VERIFIED)
-- ~~[Bloomberg: "Crypto Spenders Get Big Win With Ohio's Bernie Moreno Defeating Sherrod Brown"](https://www.bloomberg.com/news/articles/2024-11-06/crypto-spenders-get-big-win-with-ohio-s-bernie-moreno-defeating-sherrod-brown)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[Washington Post: "In Critical Ohio Senate Race, Crypto Cash Looks to Tip the Scales"](https://www.washingtonpost.com/business/2024/09/20/ohio-senate-race-crypto-cash/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Bloomberg: "Crypto Spenders Get Big Win With Ohio's Bernie Moreno Defeating Sherrod Brown"](https://www.bloomberg.com/news/articles/2024-11-06/crypto-spenders-get-big-win-with-ohio-s-bernie-moreno-defeating-sherrod-brown)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Washington Post: "In Critical Ohio Senate Race, Crypto Cash Looks to Tip the Scales"](https://www.washingtonpost.com/business/2024/09/20/ohio-senate-race-crypto-cash/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ### [[_Katie Porter Master Profile|Katie Porter]] (Tier 2)
 - [CoinDesk: "Crypto Political Group Fairshake Targets California Senate Candidate Katie Porter"](https://www.coindesk.com/policy2024/02/13/crypto-political-group-fairshake-targets-california-democrat-sen-katie-porter) (Tier 2) (VERIFIED)

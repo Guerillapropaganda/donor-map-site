@@ -26,21 +26,21 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### Who They Are
 
-The Defense Contractors Bloc. The five prime contractors — Lockheed Martin, RTX (Raytheon), Northrop Grumman, Boeing, and General Dynamics — and hundreds of subcontractors that together constitute the military-industrial complex. Combined Pentagon contract revenue 2020-2024: $2.4 trillion — roughly 54% of all DOD spending over that period. Total 2024-cycle political contributions: $43.5 million. Annual lobbying: $159 million (2024). The industry employs 700,000+ workers, maintains operations in 48+ states, and distributes weapons production across 400+ congressional districts.
+The Defense Contractors Bloc. The five prime contractors. Lockheed Martin, RTX (Raytheon), Northrop Grumman, Boeing, and General Dynamics, and hundreds of subcontractors that together constitute the military-industrial complex. Combined Pentagon contract revenue 2020-2024: $2.4 trillion, roughly 54% of all DOD spending over that period. Total 2024-cycle political contributions: $43.5 million. Annual lobbying: $159 million (2024). The industry employs 700,000+ workers, maintains operations in 48+ states, and distributes weapons production across 400+ congressional districts.
 
-The defense industry is the paradigm case of bipartisan capture: it funds both parties simultaneously, because its revenue depends on a bipartisan spending consensus rather than partisan control. The National Defense Authorization Act (NDAA) passes every year with supermajorities — $886B in FY2024 passed 310-118 in the House and 87-13 in the Senate — in a Congress that cannot agree on disaster relief, healthcare, or government funding. The bipartisan consensus is not organic. It is manufactured through district dependency, revolving door hiring, and think tank funding that ensures the only "responsible" position on defense is more.
+The defense industry is the paradigm case of bipartisan capture: it funds both parties simultaneously, because its revenue depends on a bipartisan spending consensus rather than partisan control. The National Defense Authorization Act (NDAA) passes every year with supermajorities, $886B in FY2024 passed 310-118 in the House and 87-13 in the Senate, in a Congress that cannot agree on disaster relief, healthcare, or government funding. The bipartisan consensus is not organic. It is manufactured through district dependency, revolving door hiring, and think tank funding that ensures the only "responsible" position on defense is more.
 
 ### What They Want
 
 Annual defense budget increases (achieved every year for a decade+). Favorable cost-plus procurement rules that insulate contractors from cost overruns. Continued overseas military commitments that drive weapons consumption. Opposition to audit mechanisms and cost-overrun accountability. The revolving door that places former Pentagon officials in contractor leadership and former industry executives in Pentagon procurement roles. Think tank infrastructure that frames maximum defense spending as foreign policy consensus rather than industry interest.
 
-The industry does not primarily want policy wins on discrete issues — it wants a permanent institutional environment in which the baseline expectation is that the defense budget rises year over year, procurement decisions are made by officials who will become industry employees, and the intellectual infrastructure for defense policy is funded by the people who build the weapons.
+The industry does not primarily want policy wins on discrete issues, it wants a permanent institutional environment in which the baseline expectation is that the defense budget rises year over year, procurement decisions are made by officials who will become industry employees, and the intellectual infrastructure for defense policy is funded by the people who build the weapons.
 
 ---
 
 ### Who They Fund
 
-### 2024 Cycle — Top Contributors by Company
+### 2024 Cycle. Top Contributors by Company
 
 | Rank | Company | Total | To Dems | To Repubs | Lean |
 |------|---------|-------|---------|-----------|------|
@@ -52,23 +52,23 @@ The industry does not primarily want policy wins on discrete issues — it wants
 | 6 | Anduril Industries | $2,315,256 | $872,143 | $1,442,043 | Rep |
 | 7 | General Dynamics | $2,232,417 | $1,065,895 | $1,124,140 | Rep |
 
-The bipartisan split pattern is near-uniform: the three legacy primes (Lockheed, Northrop, RTX) lean Democrat; the more Trump-aligned tech/defense firms (General Atomics, L3Harris, Anduril) lean Republican. The industry funds both parties because it doesn't need to pick a winner — it needs the winner to believe defense spending is a civic obligation.
+The bipartisan split pattern is near-uniform: the three legacy primes (Lockheed, Northrop, RTX) lean Democrat; the more Trump-aligned tech/defense firms (General Atomics, L3Harris, Anduril) lean Republican. The industry funds both parties because it doesn't need to pick a winner, it needs the winner to believe defense spending is a civic obligation.
 
 ### Top Congressional Recipients, 2024 Cycle
 
-The top House recipients are uniformly members of the Armed Services Committee or the Defense Appropriations Subcommittee — the committees that write defense budgets and procurement rules:
+The top House recipients are uniformly members of the Armed Services Committee or the Defense Appropriations Subcommittee, the committees that write defense budgets and procurement rules:
 
-- Ken Calvert (R-CA) — Chair, Defense Appropriations Subcommittee: **$835,198**
-- Mike Rogers (R-AL) — Chair, House Armed Services Committee: **$535,000**
-- Rob Wittman (R-VA) — Vice Chair, House Armed Services Committee: **$499,876**
+- Ken Calvert (R-CA). Chair, Defense Appropriations Subcommittee: **$835,198**
+- Mike Rogers (R-AL). Chair, House Armed Services Committee: **$535,000**
+- Rob Wittman (R-VA). Vice Chair, House Armed Services Committee: **$499,876**
 
 The investment is precise: funding flows to the members who write the authorization and appropriations bills, not to members who merely vote for them.
 
 ### Think Tank Capture
 
-Defense contractors lavished $32 million on Washington D.C. think tanks between 2019 and 2023, according to the Think Tank Funding Tracker. The Atlantic Council received $2.53 million from Pentagon contractors in 2024 alone — RTX, Northrop Grumman, and Lockheed Martin each gave $100,000+. CSIS received $250,000+ donations from Lockheed Martin, Northrop Grumman, General Atomics, General Dynamics, and RTX individually. The Center for a New American Security (CNAS) received $6.6M from 2019-2023.
+Defense contractors lavished $32 million on Washington D.C. think tanks between 2019 and 2023, according to the Think Tank Funding Tracker. The Atlantic Council received $2.53 million from Pentagon contractors in 2024 alone. RTX, Northrop Grumman, and Lockheed Martin each gave $100,000+. CSIS received $250,000+ donations from Lockheed Martin, Northrop Grumman, General Atomics, General Dynamics, and RTX individually. The Center for a New American Security (CNAS) received $6.6M from 2019-2023.
 
-The result: every major DC think tank that produces defense policy analysis is funded by the companies whose revenues depend on defense policy. The Ukraine debate was dominated by contractor-funded analysts at contractor-funded institutions — a fact disclosed in funding statements that Washington journalists routinely ignore.
+The result: every major DC think tank that produces defense policy analysis is funded by the companies whose revenues depend on defense policy. The Ukraine debate was dominated by contractor-funded analysts at contractor-funded institutions, a fact disclosed in funding statements that Washington journalists routinely ignore.
 
 ---
 
@@ -77,12 +77,12 @@ The result: every major DC think tank that produces defense policy analysis is f
 | Date | Recipient/Target | Amount | Policy Return | Time Gap |
 |------|-----------------|--------|---------------|----------|
 | 2020 cycle | Defense sector (all contractors) | $50M contributions + $139M lobbying | $740B NDAA FY2021 signed Dec 2020; F-35 production funded at full rate | 1–12 months |
-| 2021–2022 | CSIS, Atlantic Council, CNAS (think tank funding) | $20M+ (2019-2023 tranche) | Ukraine supplemental aid debate — every major DC think tank recommends more weapons spending; $61B Ukraine package passes | Ongoing |
-| 2023 H1 | Congress (Armed Services + Appropriations) | $70M lobbying (first half alone) | $886B NDAA FY2024 passes 310-118 House, 87-13 Senate — supermajority in gridlocked Congress | 3–6 months |
+| 2021–2022 | CSIS, Atlantic Council, CNAS (think tank funding) | $20M+ (2019-2023 tranche) | Ukraine supplemental aid debate, every major DC think tank recommends more weapons spending; $61B Ukraine package passes | Ongoing |
+| 2023 H1 | Congress (Armed Services + Appropriations) | $70M lobbying (first half alone) | $886B NDAA FY2024 passes 310-118 House, 87-13 Senate, supermajority in gridlocked Congress | 3–6 months |
 | 2024 cycle | Ken Calvert (R-CA), Defense Appropriations Chair | $835,198 | Defense Appropriations Subcommittee maintains contractor-favorable procurement rules; no cost-overrun accountability | Continuous |
 | 2024 cycle | Mike Rogers (R-AL), Armed Services Chair | $535,000 | House Armed Services Committee advances $895B FY2025 NDAA; rejects audit enforcement amendments | Continuous |
 | 2024 cycle | Lockheed Martin → political system | $4,671,856 | F-35 program continues at $1.7T lifetime cost; Lockheed paid $1.7B by mid-2025 despite 50% aircraft readiness rate | Ongoing |
-| 2019–2023 | Revolving door — 700+ placements | Non-monetary | Former DOD officials become contractor lobbyists and executives; former industry executives appointed to Pentagon procurement roles | Structural |
+| 2019–2023 | Revolving door, 700+ placements | Non-monetary | Former DOD officials become contractor lobbyists and executives; former industry executives appointed to Pentagon procurement roles | Structural |
 | 2024 cycle | Anduril Industries | $2,315,256 | Emerging defense tech firms receive multi-year DoD contract commitments valued in billions; Anduril TITAN contract announced | 6–24 months |
 
 > [!money]
@@ -94,17 +94,17 @@ The result: every major DC think tank that produces defense policy analysis is f
 
 ### The Budget Floor
 
-The NDAA has passed every single year without fail — the only major federal legislation with a perfect passage record. FY2024: $886B. FY2025: $895B. The Pentagon has failed its financial audit every year since audits began in 2018. Congress has responded by continuing to increase the budget. There is no other industry in which a company receiving $100+ billion in annual government contracts can fail five consecutive audits without losing a dollar of business.
+The NDAA has passed every single year without fail, the only major federal legislation with a perfect passage record. FY2024: $886B. FY2025: $895B. The Pentagon has failed its financial audit every year since audits began in 2018. Congress has responded by continuing to increase the budget. There is no other industry in which a company receiving $100+ billion in annual government contracts can fail five consecutive audits without losing a dollar of business.
 
 ### The F-35: Cost Overrun as Business Model
 
-The F-35 program is the clearest window into how the defense contracting system actually operates. The plane is now projected to cost $1.7 trillion over its lifetime — the most expensive weapons program in human history. It is 10 years late and 80% over its original budget. In 2024, Lockheed delivered 110 aircraft, all late by an average of 238 days. The Block 4 modernization upgrade faces an additional $1.2 billion in cost overruns. Despite all of this, the F-35 Joint Program Office paid Lockheed $1.7 billion by July 2025 without applying economic adjustments, despite the aircraft achieving only a 50% readiness rate.
+The F-35 program is the clearest window into how the defense contracting system actually operates. The plane is now projected to cost $1.7 trillion over its lifetime, the most expensive weapons program in human history. It is 10 years late and 80% over its original budget. In 2024, Lockheed delivered 110 aircraft, all late by an average of 238 days. The Block 4 modernization upgrade faces an additional $1.2 billion in cost overruns. Despite all of this, the F-35 Joint Program Office paid Lockheed $1.7 billion by July 2025 without applying economic adjustments, despite the aircraft achieving only a 50% readiness rate.
 
-The F-35 has suppliers in 45 states. This is not a feature of the aircraft — it's a feature of the political strategy. Canceling or cutting the F-35 would threaten jobs in 45 states, making it impossible for any member of Congress to vote against it regardless of performance.
+The F-35 has suppliers in 45 states. This is not a feature of the aircraft, it's a feature of the political strategy. Canceling or cutting the F-35 would threaten jobs in 45 states, making it impossible for any member of Congress to vote against it regardless of performance.
 
 ### The $2.4 Trillion Tranche
 
-Between 2020 and 2024, Pentagon contractors received $2.4 trillion in contracts — 54% of total DOD spending of $4.4 trillion. The top five companies (Lockheed Martin, RTX, Northrop Grumman, Boeing, General Dynamics) captured the largest shares. Emerging tech firms (SpaceX, Palantir, Anduril) are entering the top tier as multi-year contracts begin to flow.
+Between 2020 and 2024, Pentagon contractors received $2.4 trillion in contracts, 54% of total DOD spending of $4.4 trillion. The top five companies (Lockheed Martin, RTX, Northrop Grumman, Boeing, General Dynamics) captured the largest shares. Emerging tech firms (SpaceX, Palantir, Anduril) are entering the top tier as multi-year contracts begin to flow.
 
 ### The Revolving Door Returns
 
@@ -117,11 +117,11 @@ The Project on Government Oversight's "Brass Parachutes" report documented 645 i
 
 ### Class Analysis
 
-The defense contractor bloc's class function is distinct from most donor sectors. The industry does not primarily buy favorable regulation to increase profits from a private market — it buys the size of its own market. The federal defense budget IS the industry's revenue base. Political investment is not a supplement to the business; it is the business.
+The defense contractor bloc's class function is distinct from most donor sectors. The industry does not primarily buy favorable regulation to increase profits from a private market, it buys the size of its own market. The federal defense budget IS the industry's revenue base. Political investment is not a supplement to the business; it is the business.
 
-This produces a unique structural dynamic: the industry's political operation is not designed to influence Congress to adopt policies that benefit contractors — it is designed to ensure that Congress believes it has no choice but to fund the military at current or higher levels. The geographic distribution of supply chains, the revolving door that fills oversight positions with former industry employees, and the think tank infrastructure that defines the "mainstream" range of defense policy debate all serve a single function: making defense spending cuts politically unthinkable.
+This produces a unique structural dynamic: the industry's political operation is not designed to influence Congress to adopt policies that benefit contractors, it is designed to ensure that Congress believes it has no choice but to fund the military at current or higher levels. The geographic distribution of supply chains, the revolving door that fills oversight positions with former industry employees, and the think tank infrastructure that defines the "mainstream" range of defense policy debate all serve a single function: making defense spending cuts politically unthinkable.
 
-The Both-Sides Illusion operates at sector scale. Lockheed Martin gave $2.47M to Democrats and $2.13M to Republicans in the 2024 cycle. RTX gave $1.54M to Democrats and $1.28M to Republicans. The industry does not have a preferred party because it doesn't need one — it has a preferred policy (spend more) and funds whoever controls the committees that implement it.
+The Both-Sides Illusion operates at sector scale. Lockheed Martin gave $2.47M to Democrats and $2.13M to Republicans in the 2024 cycle. RTX gave $1.54M to Democrats and $1.28M to Republicans. The industry does not have a preferred party because it doesn't need one, it has a preferred policy (spend more) and funds whoever controls the committees that implement it.
 
 > [!contradiction]
 > The defense industry's revolving door is the most institutionalized corruption in American politics — former officials become contractor employees who lobby their former colleagues who will become contractor employees. Senator Elizabeth Warren's investigation found 672 people working for top 20 defense contractors who had previously worked as government officials, military officers, or congressional staff. Proposed legislation to impose a four-year cooling-off period has been introduced multiple times and blocked every time — by the same Armed Services Committee members who receive the industry's top contributions.
@@ -130,23 +130,23 @@ The Both-Sides Illusion operates at sector scale. Lockheed Martin gave $2.47M to
 
 ### Enemies / Opposition
 
-**Quincy Institute for Responsible Statecraft** — the only major Washington think tank not funded by defense contractors; produces the "Profits of War" research series and the Think Tank Funding Tracker.
+**Quincy Institute for Responsible Statecraft**, the only major Washington think tank not funded by defense contractors; produces the "Profits of War" research series and the Think Tank Funding Tracker.
 
-**Project on Government Oversight (POGO)** — "Brass Parachutes" revolving door documentation; tracks Pentagon audit failures and cost overrun accountability gaps.
+**Project on Government Oversight (POGO)**, "Brass Parachutes" revolving door documentation; tracks Pentagon audit failures and cost overrun accountability gaps.
 
-**Senator Elizabeth Warren** — sustained legislative effort to impose revolving door restrictions; has held hearings on revolving door but legislation repeatedly fails.
+**Senator Elizabeth Warren**, sustained legislative effort to impose revolving door restrictions; has held hearings on revolving door but legislation repeatedly fails.
 
-**Senator Bernie Sanders** — votes against NDAA increases; among the 13 Senate votes against FY2024 NDAA.
+**Senator Bernie Sanders**, votes against NDAA increases; among the 13 Senate votes against FY2024 NDAA.
 
 ---
 
 ### Connected Policy Areas
 
-- [[FY2024 NDAA]] — $886B authorization; the annual product of contractor lobbying
-- [[Pentagon Audit Failures]] — five consecutive failed audits with no budget consequences
-- [[F-35 Program]] — paradigm case of cost-plus contracting and geographic supply chain strategy
-- [[Revolving Door]] — structural mechanism that converts Pentagon officials into contractor lobbyists
-- [[Think Tank Capture]] — Atlantic Council, CSIS, CNAS all contractor-funded; defines "mainstream" defense policy
+- [[FY2024 NDAA]], $886B authorization; the annual product of contractor lobbying
+- [[Pentagon Audit Failures]], five consecutive failed audits with no budget consequences
+- [[F-35 Program]], paradigm case of cost-plus contracting and geographic supply chain strategy
+- [[Revolving Door]], structural mechanism that converts Pentagon officials into contractor lobbyists
+- [[Think Tank Capture]]. Atlantic Council, CSIS, CNAS all contractor-funded; defines "mainstream" defense policy
 
 ---
 
@@ -154,13 +154,13 @@ The Both-Sides Illusion operates at sector scale. Lockheed Martin gave $2.47M to
 
 - [FEC Receipts: Defense Sector Summary, 2024 cycle](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
 - [FEC Receipts: Defense Top Contributors, 2024 cycle](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
-- [OpenSecrets: Capitalizing on Conflict — defense contractors and arms sales lobbying](https://www.opensecrets.org/news/reports/capitalizing-on-conflict/defense-contractors) (Tier 1) (VERIFIED)
+- [OpenSecrets: Capitalizing on Conflict, defense contractors and arms sales lobbying](https://www.opensecrets.org/news/reports/capitalizing-on-conflict/defense-contractors) (Tier 1) (VERIFIED)
 - [OpenSecrets: Defense contractors spent $70 million lobbying ahead of NDAA](https://www.opensecrets.org/news/2023/10/defense-contractors-spent-70-million-lobbying-ahead-of-annual-defense-budget-bill-ndaa/) (Tier 1) (VERIFIED)
 - [OpenSecrets: Revolving door lobbyists help defense contractors in 2023](https://www.opensecrets.org/news/2023/05/revolving-door-lobbyists-help-defense-contractors-get-off-to-strong-start-in-2023/) (Tier 1) (VERIFIED)
-- [Congress.gov: H.R.2670 — National Defense Authorization Act for Fiscal Year 2024](https://www.congress.gov/bill/118th-congress/house-bill/2670) (Tier 1) (VERIFIED)
-- ~~[POGO: Brass Parachutes — The Problem of the Pentagon Revolving Door](https://www.pogo.org/reports/brass-parachutes)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Congress.gov: H.R.2670. National Defense Authorization Act for Fiscal Year 2024](https://www.congress.gov/bill/118th-congress/house-bill/2670) (Tier 1) (VERIFIED)
+- ~~[POGO: Brass Parachutes. The Problem of the Pentagon Revolving Door](https://www.pogo.org/reports/brass-parachutes)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Responsible Statecraft: When 80 percent of US generals go to work for arms makers](https://responsiblestatecraft.org/pentagon-revolving-door/) (Tier 2) (VERIFIED)
-- [Quincy Institute: Profits of War — Top Beneficiaries of Pentagon Spending, 2020-2024](https://quincyinst.org/research/profits-of-war-top-beneficiaries-of-pentagon-spending-2020-2024/) (Tier 2) (VERIFIED)
+- [Quincy Institute: Profits of War. Top Beneficiaries of Pentagon Spending, 2020-2024](https://quincyinst.org/research/profits-of-war-top-beneficiaries-of-pentagon-spending-2020-2024/) (Tier 2) (VERIFIED)
 - [Quincy Institute: Defense Contractor Funded Think Tanks Dominate Ukraine Debate](https://quincyinst.org/research/defense-contractor-funded-think-tanks-dominate-ukraine-debate/) (Tier 2) (VERIFIED)
 - [Responsible Statecraft: Weapons makers lavish $32 million on US think tanks](https://responsiblestatecraft.org/think-tank-funding-tracker/) (Tier 2) (VERIFIED)
 - [Think Tank Funding Tracker: Atlantic Council](https://thinktankfundingtracker.org/think-tank/atlantic-council/) (Tier 2) (VERIFIED)

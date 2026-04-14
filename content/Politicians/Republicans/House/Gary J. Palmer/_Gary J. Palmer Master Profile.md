@@ -1,5 +1,5 @@
 ---
-title: "Gary J. Palmer Master Profile"
+title: "Gary J. Palmer"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

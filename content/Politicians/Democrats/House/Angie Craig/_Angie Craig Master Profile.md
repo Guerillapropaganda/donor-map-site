@@ -1,9 +1,9 @@
 ---
-title: "Angie Craig Master Profile"
+title: "Angie Craig"
 type: politician
 bioguide-id: "C001119"
 content-readiness: ready
-central-thesis: "Craig is the medical device industry's graduate in Congress — a former St. Jude Medical vice president and PAC director who entered politics in the district where the industry is headquartered, then used swing-district survival skills to climb to ..."
+central-thesis: "Craig is the medical device industry's graduate in Congress , a former St. Jude Medical vice president and PAC director who entered politics in the district where the industry is headquartered, then used swing-district survival skills to climb to ..."
 last-updated: 2026-04-13
 source-tier: 1
 parent: null
@@ -42,13 +42,13 @@ donors: Medical Device Industry · St. Jude Medical · Abbott Laboratories · Ag
 
 **Current committee assignment:** Agriculture (Ranking Member).
 
-**The career arc:** Craig's path — from medical device corporate executive and PAC director to Congress to Agriculture Committee Ranking Member to Senate candidate — is the profile's structural story. She spent a decade inside the medical device industry managing corporate communications and directing political spending, then entered politics in the district where that industry is headquartered. Her Agriculture Committee gavel now gives her jurisdiction over farm bill spending, nutrition programs, and rural development — the issues that define Minnesota's 2nd District outside the suburban core. The Senate campaign adds a new chapter: using the Agriculture Ranking Member position as a statewide credential in a farm state.
+**The career arc:** Craig's path, from medical device corporate executive and PAC director to Congress to Agriculture Committee Ranking Member to Senate candidate, is the profile's structural story. She spent a decade inside the medical device industry managing corporate communications and directing political spending, then entered politics in the district where that industry is headquartered. Her Agriculture Committee gavel now gives her jurisdiction over farm bill spending, nutrition programs, and rural development, the issues that define Minnesota's 2nd District outside the suburban core. The Senate campaign adds a new chapter: using the Agriculture Ranking Member position as a statewide credential in a farm state.
 
 ---
 
 ## The Central Thesis
 
-Craig is the medical device industry's graduate in Congress — a former St. Jude Medical vice president and PAC director who entered politics in the district where the industry is headquartered, then used swing-district survival skills to climb to the top Democratic position on the House Agriculture Committee. St. Jude employees and PAC gave her $125,000 in her first campaign — without Craig's candidacy, the company's political giving favored Republicans. She was the top recipient from the Medical Devices & Supplies industry in the 2021–2022 cycle. Her insulin cap legislation ($35/month copay) is her signature achievement and progressive credential — a genuine reform that passed the House and became law for Medicare recipients. But the insulin cap targeted pharmaceutical companies (insulin manufacturers), not the medical device industry she came from. Craig's medical device donors never faced equivalent legislative threat. The Agriculture Committee Ranking Member position now adds a second donor pipeline — agribusiness — as she positions for the 2026 Minnesota Senate race.
+Craig is the medical device industry's graduate in Congress, a former St. Jude Medical vice president and PAC director who entered politics in the district where the industry is headquartered, then used swing-district survival skills to climb to the top Democratic position on the House Agriculture Committee. St. Jude employees and PAC gave her $125,000 in her first campaign, without Craig's candidacy, the company's political giving favored Republicans. She was the top recipient from the Medical Devices & Supplies industry in the 2021–2022 cycle. Her insulin cap legislation ($35/month copay) is her signature achievement and progressive credential, a genuine reform that passed the House and became law for Medicare recipients. But the insulin cap targeted pharmaceutical companies (insulin manufacturers), not the medical device industry she came from. Craig's medical device donors never faced equivalent legislative threat. The Agriculture Committee Ranking Member position now adds a second donor pipeline, agribusiness, as she positions for the 2026 Minnesota Senate race.
 
 > [!money]
 > **Campaign finance:** St. Jude Medical employees and PAC contributed $125,000 to her first campaign. Top recipient from Medical Devices & Supplies industry (2021–2022 cycle). Raised $2.2 million in Q3 2025 for Senate campaign, more than doubling primary rival Lt. Gov. Peggy Flanagan's $914,000. Transferred $650,000+ from House campaign to Senate campaign. Received $100,000+ from Majority Fund (House Democratic leadership PAC). Running in one of the most competitive 2026 Senate races nationally.
@@ -79,12 +79,12 @@ Craig is the medical device industry's graduate in Congress — a former St. Jud
 
 | Date | Type | Event | Donor/Amount | Gap |
 |------|------|-------|-------------|-----|
-| 2005–2015 | Career | VP Communications at St. Jude Medical; director of company PAC | N/A — pre-political career inside medical device industry | PAC management = industry donor network building |
-| 2016 | Election | First Congressional campaign — loses by <7,000 votes | St. Jude Medical PAC + employees: $125,000 | Direct — industry funds her entry into politics |
+| 2005–2015 | Career | VP Communications at St. Jude Medical; director of company PAC | N/A, pre-political career inside medical device industry | PAC management = industry donor network building |
+| 2016 | Election | First Congressional campaign, loses by <7,000 votes | St. Jude Medical PAC + employees: $125,000 | Direct, industry funds her entry into politics |
 | 2018 | Election | Wins MN-2, defeating Republican Jason Lewis | Medical device + Democratic base | 0 |
 | 2021–2022 | Donation | Top Congressional recipient from Medical Devices & Supplies industry | Medical device industry donations | Concurrent with committee service |
-| 2022 | Policy | ← Passes Affordable Insulin Now Act through House ($35/month copay) | Target: pharmaceutical manufacturers (Eli Lilly, Novo Nordisk, Sanofi) — NOT medical device industry | Progressive credential built on attacking different industry sector than donor base |
-| 2024-12 | Appointment | ← Becomes Ranking Member, House Agriculture Committee — first woman, first openly LGBTQ+ person | Agribusiness donor pipeline opens | New committee = new donor class |
+| 2022 | Policy | ← Passes Affordable Insulin Now Act through House ($35/month copay) | Target: pharmaceutical manufacturers (Eli Lilly, Novo Nordisk, Sanofi). NOT medical device industry | Progressive credential built on attacking different industry sector than donor base |
+| 2024-12 | Appointment | ← Becomes Ranking Member, House Agriculture Committee, first woman, first openly LGBTQ+ person | Agribusiness donor pipeline opens | New committee = new donor class |
 | 2025-04 | Election | Announces 2026 Senate campaign to succeed Tina Smith | $2.2M Q3 fundraising; $650K transferred from House | Agriculture RM + Senate ambition = dual fundraising engine |
 | 2025–2026 | Positioning | Agriculture RM position used as statewide credential in farm state Senate race | Agribusiness access; rural Minnesota constituency appeal | Committee jurisdiction serves campaign strategy |
 
@@ -95,7 +95,7 @@ Craig is the medical device industry's graduate in Congress — a former St. Jud
 
 ## Analytical Patterns
 
-**Genuine Win + Structural Limit:** The insulin cap is the genuine win — $35/month copay for Medicare recipients, real legislation that became law. The structural limit: the reform targeted pharmaceutical manufacturers while leaving the medical device industry untouched. Craig's progressive health care credential was built on attacking a different part of the health care industry than the one that funds her.
+**Genuine Win + Structural Limit:** The insulin cap is the genuine win, $35/month copay for Medicare recipients, real legislation that became law. The structural limit: the reform targeted pharmaceutical manufacturers while leaving the medical device industry untouched. Craig's progressive health care credential was built on attacking a different part of the health care industry than the one that funds her.
 
 **Two-Audience Problem:** Progressive voters and health care advocates hear: took on Big Pharma, capped insulin at $35, first LGBTQ+ Agriculture Ranking Member. Medical device donors hear: former industry VP who directed our PAC, top recipient of our contributions, never legislated against our industry. Agribusiness hears: new Agriculture Ranking Member with farm bill jurisdiction in a farm state. Three audiences, three messages, one career.
 
@@ -115,15 +115,15 @@ Craig's 2026 Senate campaign adds a second donor pipeline through her Agricultur
 
 ## Rhetorical Signature Moves
 
-1. **Took on Big Pharma:** The insulin cap is her signature line — repeated in every campaign context, every health care debate. The framing positions Craig as an anti-corporate crusader. The distinction between pharmaceutical companies (targeted) and medical device companies (donor base) disappears in the rhetoric.
+1. **Took on Big Pharma:** The insulin cap is her signature line, repeated in every campaign context, every health care debate. The framing positions Craig as an anti-corporate crusader. The distinction between pharmaceutical companies (targeted) and medical device companies (donor base) disappears in the rhetoric.
 
 2. **Swing District Survivor:** Four wins in a purple district. Craig frames this as proof of bipartisan appeal and pragmatic effectiveness. The swing-district survival also requires maintaining corporate donor relationships that wouldn't be necessary in a safe seat.
 
 3. **First LGBTQ+ Credential:** First openly LGBTQ+ Congressmember from Minnesota. First openly LGBTQ+ Agriculture Committee Ranking Member. The identity milestones are real and provide progressive credentialing independent of any donor analysis.
 
-4. **Farm State Democrat:** The Agriculture Committee position positions Craig as a champion of rural Minnesota for the Senate race. The farm state identity is being built for statewide appeal — suburban swing district member becomes rural champion through committee assignment.
+4. **Farm State Democrat:** The Agriculture Committee position positions Craig as a champion of rural Minnesota for the Senate race. The farm state identity is being built for statewide appeal, suburban swing district member becomes rural champion through committee assignment.
 
-5. **Corporate Experience as Competence:** Craig frames her St. Jude Medical career as real-world business experience — she understands how the economy works, how companies operate, how to create jobs. The framing makes industry-insider status look like practical qualification rather than donor-class positioning.
+5. **Corporate Experience as Competence:** Craig frames her St. Jude Medical career as real-world business experience, she understands how the economy works, how companies operate, how to create jobs. The framing makes industry-insider status look like practical qualification rather than donor-class positioning.
 
 ---
 

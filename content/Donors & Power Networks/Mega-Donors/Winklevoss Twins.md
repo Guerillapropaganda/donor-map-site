@@ -33,7 +33,7 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### Who They Are
 
-Cameron and Tyler Winklevoss. Founders of the Gemini cryptocurrency exchange, early Bitcoin investors (claimed to hold 1% of all Bitcoin in circulation, worth $1-2 billion at peak), and among the most politically active figures in the crypto donor class. The Winklevoss twins — known for their Facebook origin dispute with Mark Zuckerberg — have invested heavily in Republican politics, contributing $1+ million to Trump-aligned campaigns and PACs.
+Cameron and Tyler Winklevoss. Founders of the Gemini cryptocurrency exchange, early Bitcoin investors (claimed to hold 1% of all Bitcoin in circulation, worth $1-2 billion at peak), and among the most politically active figures in the crypto donor class. The Winklevoss twins, known for their Facebook origin dispute with Mark Zuckerberg, have invested heavily in Republican politics, contributing $1+ million to Trump-aligned campaigns and PACs.
 
 The twins' political strategy: align the crypto industry with Republican politics by framing crypto deregulation as a free-market, anti-establishment issue. Their endorsement of Trump (2024) and contributions to Republican candidates represent the crypto industry's bet that Republican governance will produce the favorable regulatory framework the industry needs to survive and grow.
 
@@ -47,7 +47,7 @@ Crypto-friendly regulation (regulatory clarity without restrictive oversight), o
 
 ### What They've Gotten
 
-**Trump Crypto Alignment:** The Winklevoss twins' early and aggressive political support for Trump contributed to Trump's adoption of a pro-crypto platform — a dramatic shift from his previous description of Bitcoin as "a scam." Trump's 2024 campaign embraced crypto, promising favorable regulation, opposing a central bank digital currency (CBDC), and courting the crypto donor class. The Winklevoss investment helped shift Republican Party positioning on crypto from skepticism to advocacy.
+**Trump Crypto Alignment:** The Winklevoss twins' early and aggressive political support for Trump contributed to Trump's adoption of a pro-crypto platform, a dramatic shift from his previous description of Bitcoin as "a scam." Trump's 2024 campaign embraced crypto, promising favorable regulation, opposing a central bank digital currency (CBDC), and courting the crypto donor class. The Winklevoss investment helped shift Republican Party positioning on crypto from skepticism to advocacy.
 
 > [!money]
 > The Winklevoss twins' political spending demonstrates how crypto wealth purchases political positioning: $1+ million in contributions to Trump and Republican campaigns contributed to a platform shift that frames crypto deregulation as official Republican policy. The investment protects Gemini's business model (which depends on regulatory treatment of crypto exchanges) and the twins' Bitcoin holdings (which depend on continued market legitimacy). The political strategy: convert crypto wealth into political influence that produces the regulatory framework that protects crypto wealth.

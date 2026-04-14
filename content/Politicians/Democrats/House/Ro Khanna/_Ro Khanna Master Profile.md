@@ -1,8 +1,8 @@
 ---
-title: "Ro Khanna Master Profile"
+title: "Ro Khanna"
 type: politician
 content-readiness: ready
-central-thesis: "Khanna is the test case for whether progressive politics and tech industry money can coexist — and the answer so far is: barely, and with visible structural compromises. His district is the tech industry. His individual donors are tech executives ..."
+central-thesis: "Khanna is the test case for whether progressive politics and tech industry money can coexist , and the answer so far is: barely, and with visible structural compromises. His district is the tech industry. His individual donors are tech executives ..."
 last-updated: 2026-04-12
 source-tier: 1
 parent: null
@@ -67,7 +67,7 @@ donors:
 editorial-review-date: '2026-04-10'
 editorial-reviewer: "Research Claude"
 editorial-result: verified-candidate
-editorial-notes: "Flagged for David's verified sign-off. Qualifies on merits: 4 Tier 1 source types (FEC candidate page, Congress.gov with verified bioguide K000389, GovTrack, khanna.house.gov official press release on NDAA vote), 7 Tier 2 journalism sources documenting the 2026 wealth tax backlash, exceptional class analysis (tolerated/managed/intolerable dissent hierarchy), detailed donation-to-policy timeline with specific amounts, Influence Network Cross-Reference auto-block showing Apple/Microsoft donate→lobby→committee chains. The 2026 Silicon Valley backlash section is the vault's clearest contemporary case study of donor-class enforcement: wealth tax endorsement triggered coordinated primary challenge (Ethan Agarwal, Garry Tan, Chamath Palihapitiya) within weeks. FIXED: removed stale DOJ from source-types (all vault DOJ blocks stripped this session — bogus API index-size bug). FIXED: removed inline body donors:: dataview line per frontmatter-only rule. FIXED: known-gaps (was wrongly listing 'No mapped relationships'). Added bioguide-id, fec-committee-id, structured opposes/donors. No A000383 contamination. No (URL NEEDED) tags. Ready for editor review."
+editorial-notes: "Flagged for David's verified sign-off. Qualifies on merits: 4 Tier 1 source types (FEC candidate page, Congress.gov with verified bioguide K000389, GovTrack, khanna.house.gov official press release on NDAA vote), 7 Tier 2 journalism sources documenting the 2026 wealth tax backlash, exceptional class analysis (tolerated/managed/intolerable dissent hierarchy), detailed donation-to-policy timeline with specific amounts, Influence Network Cross-Reference auto-block showing Apple/Microsoft donate→lobby→committee chains. The 2026 Silicon Valley backlash section is the vault's clearest contemporary case study of donor-class enforcement: wealth tax endorsement triggered coordinated primary challenge (Ethan Agarwal, Garry Tan, Chamath Palihapitiya) within weeks. FIXED: removed stale DOJ from source-types (all vault DOJ blocks stripped this session , bogus API index-size bug). FIXED: removed inline body donors:: dataview line per frontmatter-only rule. FIXED: known-gaps (was wrongly listing 'No mapped relationships'). Added bioguide-id, fec-committee-id, structured opposes/donors. No A000383 contamination. No (URL NEEDED) tags. Ready for editor review."
 related: "[[_Bernie Sanders Master Profile|Bernie Sanders]] · [[_Pramila Jayapal Master Profile|Jayapal]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Rashida Tlaib Master Profile|Tlaib]] · [[Alphabet - Google|Google]] · [[Apple]] · [[Marc Andreessen & Horowitz]] · [[Meta]] · [[Eric Schmidt]] · [[_Matt Mahan Master Profile]] · [[_Eric Swalwell Master Profile]] · [[Wilson Sonsini Goodrich & Rosati]] · [[Accel Partners]] · [[Ethan Agarwal]] · [[Garry Tan]] · [[Chamath Palihapitiya]] · [[Microsoft]]"
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
   • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
@@ -97,19 +97,19 @@ SORT title ASC
 
 ## Who He Is
 
-Ro Khanna (Rohit Khanna). Democrat, California's 17th District (Silicon Valley — Cupertino, Santa Clara, Fremont, Sunnyvale). The district contains the headquarters of Apple and Intel and sits at the center of the global tech industry's physical infrastructure. First South Asian elected to Congress from Northern California. Before Congress: patent attorney, Stanford and Santa Clara University lecturer, and Deputy Assistant Secretary of Commerce under Obama. Elected in 2016 after defeating incumbent Mike Honda. Re-elected in 2018, 2020, 2022, 2024. Member of the House Armed Services Committee (Ranking Member, Subcommittee on Cyber, Innovative Technologies and Information Systems) and House Oversight and Government Reform Committee.
+Ro Khanna (Rohit Khanna). Democrat, California's 17th District (Silicon Valley. Cupertino, Santa Clara, Fremont, Sunnyvale). The district contains the headquarters of Apple and Intel and sits at the center of the global tech industry's physical infrastructure. First South Asian elected to Congress from Northern California. Before Congress: patent attorney, Stanford and Santa Clara University lecturer, and Deputy Assistant Secretary of Commerce under Obama. Elected in 2016 after defeating incumbent Mike Honda. Re-elected in 2018, 2020, 2022, 2024. Member of the House Armed Services Committee (Ranking Member, Subcommittee on Cyber, Innovative Technologies and Information Systems) and House Oversight and Government Reform Committee.
 
-Khanna co-chaired Bernie Sanders's 2020 presidential campaign — his most significant ideological affiliation signal. He has since positioned himself as the progressive wing's most credible bridge candidate: someone who can speak to both grassroots progressives (Medicare for All, wealth tax, anti-war) and Silicon Valley institutional power (tech workers as his literal constituents, tech executives as his individual donors).
+Khanna co-chaired Bernie Sanders's 2020 presidential campaign, his most significant ideological affiliation signal. He has since positioned himself as the progressive wing's most credible bridge candidate: someone who can speak to both grassroots progressives (Medicare for All, wealth tax, anti-war) and Silicon Valley institutional power (tech workers as his literal constituents, tech executives as his individual donors).
 
-By 2025–2026 he had openly positioned himself for a potential 2028 presidential run, organizing rallies in battleground states and early-primary states (including JD Vance's home state of Ohio, New Hampshire, and suburban Detroit), accumulating a $15.5M war chest, and deploying an "economic patriotism" framing designed to compete with both Trump-era populism and Democratic establishment centrism. He raised $3.6M in Q1 2025 alone — a presidential-level fundraising pace from a House member.
+By 2025–2026 he had openly positioned himself for a potential 2028 presidential run, organizing rallies in battleground states and early-primary states (including JD Vance's home state of Ohio, New Hampshire, and suburban Detroit), accumulating a $15.5M war chest, and deploying an "economic patriotism" framing designed to compete with both Trump-era populism and Democratic establishment centrism. He raised $3.6M in Q1 2025 alone, a presidential-level fundraising pace from a House member.
 
 ---
 
 ## The Central Thesis
 
-**Khanna is the test case for whether progressive politics and tech industry money can coexist — and the answer so far is: barely, and with visible structural compromises.** His district is the tech industry. His individual donors are tech executives and employees. His policy positions on defense, healthcare, and climate are genuinely progressive. But on the policy areas where tech has the most financial stake — antitrust enforcement, AI regulation, gig worker protections — his positions are calibrated to maintain access without triggering the donor-class backlash that would make his district unworkable.
+**Khanna is the test case for whether progressive politics and tech industry money can coexist, and the answer so far is: barely, and with visible structural compromises.** His district is the tech industry. His individual donors are tech executives and employees. His policy positions on defense, healthcare, and climate are genuinely progressive. But on the policy areas where tech has the most financial stake, antitrust enforcement, AI regulation, gig worker protections, his positions are calibrated to maintain access without triggering the donor-class backlash that would make his district unworkable.
 
-The contradiction sharpened in 2025–2026 as Khanna backed a wealth tax on billionaires. Silicon Valley megadonors responded by organizing a primary challenge funded by tech money — proving that the donor-class tolerance for his progressive positioning had a price ceiling, and that price was taxing the people who fund him.
+The contradiction sharpened in 2025–2026 as Khanna backed a wealth tax on billionaires. Silicon Valley megadonors responded by organizing a primary challenge funded by tech money, proving that the donor-class tolerance for his progressive positioning had a price ceiling, and that price was taxing the people who fund him.
 
 ---
 
@@ -126,7 +126,7 @@ The contradiction sharpened in 2025–2026 as Khanna backed a wealth tax on bill
 
 Career raised: $31,239,055. Career spent: $20,529,962. Cash on hand (end 2024): $10,709,091.
 
-Khanna founded the No PAC Caucus and has pledged not to accept corporate PAC money or lobbyist contributions. This is a genuine structural distinction with real political consequences — it limits some forms of institutional pressure and gives him credibility with progressive grassroots donors.
+Khanna founded the No PAC Caucus and has pledged not to accept corporate PAC money or lobbyist contributions. This is a genuine structural distinction with real political consequences, it limits some forms of institutional pressure and gives him credibility with progressive grassroots donors.
 
 But the "no-PAC" pledge obscures the actual donor alignment. His top contributors are all individual employees of the same tech companies that benefit from congressional policy:
 
@@ -150,7 +150,7 @@ But the "no-PAC" pledge obscures the actual donor alignment. His top contributor
 | Lawyers/Law Firms | $1,659,332 | $1,659,332 | $0 |
 | Internet | $1,265,677 | $1,265,677 | $0 |
 
-**The structural argument:** Individual tech employee contributions from Apple, Google, and Microsoft accomplish functionally similar donor-alignment work as corporate PACs — the individuals' wealth and interests are derived from the same companies. The distinction is real (individual employees aren't corporate directives) but narrower than the "no-PAC" branding implies. Securities & Investment at $6.3M career total is the dominant sector — not tech companies directly, but the venture capital and finance ecosystem that funds them.
+**The structural argument:** Individual tech employee contributions from Apple, Google, and Microsoft accomplish functionally similar donor-alignment work as corporate PACs, the individuals' wealth and interests are derived from the same companies. The distinction is real (individual employees aren't corporate directives) but narrower than the "no-PAC" branding implies. Securities & Investment at $6.3M career total is the dominant sector, not tech companies directly, but the venture capital and finance ecosystem that funds them.
 
 #### 2024 Cycle Detail (OpenSecrets, 2023–2024)
 
@@ -162,7 +162,7 @@ Top industries (2024 cycle): Securities & Investment ($1,669,797), Retired ($753
 
 Source of funds (2024 cycle): 93.53% large individual contributions, 6.39% small individual contributions (<$200), 0.00% PAC contributions, 0.00% candidate self-financing.
 
-The 93.53% large-donor ratio is the key structural number. Khanna's "no-PAC" pledge means zero corporate PAC money — but 93% of his funding comes from large individual donors ($200+), overwhelmingly from Silicon Valley and Wall Street. Small donors (<$200) provide only 6.39%. This is not a grassroots-funded operation — it is an individual-donor-funded operation where the individuals are tech executives, venture capitalists, and securities professionals.
+The 93.53% large-donor ratio is the key structural number. Khanna's "no-PAC" pledge means zero corporate PAC money, but 93% of his funding comes from large individual donors ($200+), overwhelmingly from Silicon Valley and Wall Street. Small donors (<$200) provide only 6.39%. This is not a grassroots-funded operation, it is an individual-donor-funded operation where the individuals are tech executives, venture capitalists, and securities professionals.
 
 #### 2025–2026 Cycle (FEC, as of 12/31/2025)
 
@@ -181,7 +181,7 @@ Committee: RO FOR CONGRESS INC (C00503185).
 
 | Date | Money In | Amount | Policy Out | Time Gap |
 |------|----------|--------|------------|----------|
-| 2016–2024 | Alphabet/Google employees | $535,248 career | Co-founded Antitrust Caucus, grilled Google CEO Pichai in 2020 hearing — but no enacted legislation restricting Google | Ongoing |
+| 2016–2024 | Alphabet/Google employees | $535,248 career | Co-founded Antitrust Caucus, grilled Google CEO Pichai in 2020 hearing, but no enacted legislation restricting Google | Ongoing |
 | 2024 cycle | Securities & Investment sector | $1,669,797 | No legislation targeting hedge fund carried interest loophole or financial transaction tax advanced | Concurrent |
 | 2024 cycle | Andreessen Horowitz employees | $40,600 | No AI regulation bills sponsored that would restrict VC-backed AI startups | Concurrent |
 | 2024 cycle | Apple Inc employees | $59,556 | No antitrust action targeting Apple specifically despite Apple Park in district | Concurrent |
@@ -191,8 +191,8 @@ Committee: RO FOR CONGRESS INC (C00503185).
 
 | Date | Money In | Amount | Policy Out | Time Gap |
 |------|----------|--------|------------|----------|
-| 2023–2024 | JStreetPAC | $46,950 | Moderate Israel-Palestine positioning — criticism of Netanyahu but no BDS support, no conditioning aid | Concurrent |
-| 2023 | No defense PAC money | $0 | Sole HASC "no" vote on $886B FY2024 NDAA — genuine institutional dissent | N/A |
+| 2023–2024 | JStreetPAC | $46,950 | Moderate Israel-Palestine positioning, criticism of Netanyahu but no BDS support, no conditioning aid | Concurrent |
+| 2023 | No defense PAC money | $0 | Sole HASC "no" vote on $886B FY2024 NDAA, genuine institutional dissent | N/A |
 | 2024 | No defense PAC money | $0 | Sole HASC "no" vote on FY2025 NDAA | N/A |
 
 > [!money]
@@ -200,19 +200,19 @@ Committee: RO FOR CONGRESS INC (C00503185).
 
 ---
 
-### The Silicon Valley Backlash — 2026
+### The Silicon Valley Backlash, 2026
 
 The most analytically significant recent development: Khanna's support for a California wealth tax triggered a coordinated donor-class response from within his own constituency.
 
 The proposal: a one-time 5% tax on individuals with net worths exceeding $1 billion, designed to recoup approximately $90 billion in Medicaid funds stripped from California by the Republican federal budget. Khanna voiced public support for the ballot initiative.
 
-The response was immediate and organized. By early 2026, wealthy Silicon Valley donors were coordinating on private WhatsApp chats and conference calls to fund a primary challenger. The challenger: Ethan Agarwal, a tech entrepreneur who had briefly run for California governor, now jumping into the Democratic primary for CA-17. Agarwal's announced backers include Garry Tan (CEO of Y Combinator) and venture capitalist Chamath Palihapitiya — representing the donor-class preference for progressive rhetoric without structural redistribution.
+The response was immediate and organized. By early 2026, wealthy Silicon Valley donors were coordinating on private WhatsApp chats and conference calls to fund a primary challenger. The challenger: Ethan Agarwal, a tech entrepreneur who had briefly run for California governor, now jumping into the Democratic primary for CA-17. Agarwal's announced backers include Garry Tan (CEO of Y Combinator) and venture capitalist Chamath Palihapitiya, representing the donor-class preference for progressive rhetoric without structural redistribution.
 
 The SF Standard reported the challenge also connected to Khanna's congressional stock trading practices, adding a second pressure vector.
 
-**The pattern this fits:** Khanna had navigated the Two-Audience Problem for years — telling progressives he'd hold tech accountable, telling tech donors he understood the industry. The wealth tax broke the arrangement by crossing the line that separates *rhetorical* progressive positioning from *structural* donor-class threat. Taxing unrealized gains on accumulated wealth is not something tech megadonors can accommodate through access and relationship management. It requires removal.
+**The pattern this fits:** Khanna had navigated the Two-Audience Problem for years, telling progressives he'd hold tech accountable, telling tech donors he understood the industry. The wealth tax broke the arrangement by crossing the line that separates *rhetorical* progressive positioning from *structural* donor-class threat. Taxing unrealized gains on accumulated wealth is not something tech megadonors can accommodate through access and relationship management. It requires removal.
 
-This mirrors the Bowman case at a different register: Bowman was removed via AIPAC's super PAC infrastructure. Khanna is facing a donor-organized primary challenge funded by individual tech wealth. Different mechanism, same structural logic — donor class identifies the threat and funds its elimination.
+This mirrors the Bowman case at a different register: Bowman was removed via AIPAC's super PAC infrastructure. Khanna is facing a donor-organized primary challenge funded by individual tech wealth. Different mechanism, same structural logic, donor class identifies the threat and funds its elimination.
 
 > [!contradiction]
 > **The backlash proves the thesis.** Khanna's progressive positioning on defense spending, healthcare, and even antitrust rhetoric was tolerated by his donor class for years — because none of it structurally threatened their wealth. The moment he endorsed a policy that would actually tax billionaires' accumulated capital, the donor class moved to replace him. The speed and coordination of the response — WhatsApp organizing, named VC backers, a candidate filed within weeks — demonstrates that the "tolerance" was always conditional on avoiding the one policy area that matters most to the people who fund him.
@@ -221,13 +221,13 @@ This mirrors the Bowman case at a different register: Bowman was removed via AIP
 
 ### Legislative Record
 
-**Defense and Military Spending:** Khanna serves on HASC as Ranking Member of the Subcommittee on Cyber, Innovative Technologies and Information Systems (CITI). He was the sole HASC member to vote against the NDAA in both FY2024 ($886 billion) and FY2025 — opposing what he describes as bloated defense contractor spending and insufficient acquisition controls. In FY2024, the committee vote was 57-1, with Khanna the lone dissenter. He has explicitly argued that defense contractors systematically overcharge the government. This is genuine institutional dissent from a committee where defense industry money dominates both parties — and it is structurally enabled by the fact that Khanna takes no defense PAC money and his Silicon Valley donor base has no stake in defense procurement.
+**Defense and Military Spending:** Khanna serves on HASC as Ranking Member of the Subcommittee on Cyber, Innovative Technologies and Information Systems (CITI). He was the sole HASC member to vote against the NDAA in both FY2024 ($886 billion) and FY2025, opposing what he describes as bloated defense contractor spending and insufficient acquisition controls. In FY2024, the committee vote was 57-1, with Khanna the lone dissenter. He has explicitly argued that defense contractors systematically overcharge the government. This is genuine institutional dissent from a committee where defense industry money dominates both parties, and it is structurally enabled by the fact that Khanna takes no defense PAC money and his Silicon Valley donor base has no stake in defense procurement.
 
-**Antitrust:** Co-founded the Congressional Antitrust Caucus. Participated directly in the historic 2020 House antitrust hearing where Jeff Bezos, Tim Cook, Mark Zuckerberg, and Sundar Pichai testified. Khanna questioned executives on monopoly power and data practices. Supported multiple antitrust reform bills targeting Big Tech platform dominance. Has sponsored 180 bills across his congressional career (Congress.gov). His antitrust work is real and has produced legislative proposals — it has not produced enacted law.
+**Antitrust:** Co-founded the Congressional Antitrust Caucus. Participated directly in the historic 2020 House antitrust hearing where Jeff Bezos, Tim Cook, Mark Zuckerberg, and Sundar Pichai testified. Khanna questioned executives on monopoly power and data practices. Supported multiple antitrust reform bills targeting Big Tech platform dominance. Has sponsored 180 bills across his congressional career (Congress.gov). His antitrust work is real and has produced legislative proposals, it has not produced enacted law.
 
 **Medicare for All:** Consistent cosponsor of the Medicare for All Act across multiple Congresses. Part of [[_Pramila Jayapal Master Profile|Jayapal]]'s coalition. Has not been a lead sponsor or primary architect of the legislation.
 
-**Economic Patriotism / Trade:** Khanna has developed an "economic patriotism" framework that attempts to bridge progressive economics and trade skepticism — supporting domestic manufacturing investment, opposing offshoring incentives in the tax code, and arguing for a trade policy that prioritizes American workers over multinational supply chain optimization. This framing is designed for a presidential primary audience and has been deployed in battleground-state rallies throughout 2025–2026.
+**Economic Patriotism / Trade:** Khanna has developed an "economic patriotism" framework that attempts to bridge progressive economics and trade skepticism, supporting domestic manufacturing investment, opposing offshoring incentives in the tax code, and arguing for a trade policy that prioritizes American workers over multinational supply chain optimization. This framing is designed for a presidential primary audience and has been deployed in battleground-state rallies throughout 2025–2026.
 
 **Gig Economy:** Despite representing the district where the gig economy's corporate infrastructure is headquartered, Khanna has been careful on gig worker classification issues. He supported California's AB5 in principle but has not been the congressional driver of federal gig worker protection legislation. The structural constraint is obvious: Uber, Lyft, and DoorDash are his district's economy.
 
@@ -237,27 +237,27 @@ This mirrors the Bowman case at a different register: Bowman was removed via AIP
 
 ## Analytical Patterns
 
-**Two-Audience Problem:** Khanna tells progressive voters he will hold tech accountable. He tells tech donors and constituents he understands the industry and will protect American innovation. The wealth tax broke this equilibrium — it was a structural position that the tech donor class couldn't absorb through relationship management. The Agarwal primary challenge is the donor class's response to a structural threat.
+**Two-Audience Problem:** Khanna tells progressive voters he will hold tech accountable. He tells tech donors and constituents he understands the industry and will protect American innovation. The wealth tax broke this equilibrium, it was a structural position that the tech donor class couldn't absorb through relationship management. The Agarwal primary challenge is the donor class's response to a structural threat.
 
-**Genuine Win + Structural Limit:** Khanna's NDAA dissent is a genuine win — sole opposition to an $886B defense budget from within the Armed Services Committee. But the structural limit is that his defense votes cost his donor class nothing. The defense industry isn't funding him. His "genuine wins" cluster in policy areas where his donors have no financial stake. Where donors are exposed (antitrust, gig economy, AI regulation), the wins are rhetorical rather than legislative.
+**Genuine Win + Structural Limit:** Khanna's NDAA dissent is a genuine win, sole opposition to an $886B defense budget from within the Armed Services Committee. But the structural limit is that his defense votes cost his donor class nothing. The defense industry isn't funding him. His "genuine wins" cluster in policy areas where his donors have no financial stake. Where donors are exposed (antitrust, gig economy, AI regulation), the wins are rhetorical rather than legislative.
 
 **Selective Antitrust:** Khanna's antitrust aggression is real and documented against Amazon (data practices, third-party seller surveillance). It is calibrated on Google (largest career donor entity, $535,248) and absent on Apple (district HQ). The pattern: aggressive where his donors aren't exposed, careful where they are.
 
-**Self-Funding as Independence (Individual vs. PAC):** The No-PAC pledge provides genuine independence from certain institutional pressures and creates authentic progressive credentials. It does not create independence from Silicon Valley individual donor preferences — which is where the actual structural constraint lives. A 93.53% large-individual-donor ratio is not grassroots funding.
+**Self-Funding as Independence (Individual vs. PAC):** The No-PAC pledge provides genuine independence from certain institutional pressures and creates authentic progressive credentials. It does not create independence from Silicon Valley individual donor preferences, which is where the actual structural constraint lives. A 93.53% large-individual-donor ratio is not grassroots funding.
 
-**The 2028 Presidential Calculus:** Khanna's entire 2025–2026 trajectory — battleground rallies, early-state visits, $15.5M war chest, "economic patriotism" messaging — is a presidential positioning operation. The analytical question: does this positioning make him more or less likely to challenge donor-class interests? The Agarwal challenge provides the answer: the moment he endorsed the wealth tax, his donor class moved to remove him. A presidential campaign requiring $100M+ in fundraising will make him more dependent on the same tech and finance donors, not less.
+**The 2028 Presidential Calculus:** Khanna's entire 2025–2026 trajectory, battleground rallies, early-state visits, $15.5M war chest, "economic patriotism" messaging, is a presidential positioning operation. The analytical question: does this positioning make him more or less likely to challenge donor-class interests? The Agarwal challenge provides the answer: the moment he endorsed the wealth tax, his donor class moved to remove him. A presidential campaign requiring $100M+ in fundraising will make him more dependent on the same tech and finance donors, not less.
 
-**Both-Sides Illusion:** Khanna and his primary challenger Ethan Agarwal are both funded by Silicon Valley money. The "contest" is between a progressive who occasionally threatens donor interests and a candidate who won't. The donor class wins either way — the question is only how much progressive rhetoric they have to tolerate.
+**Both-Sides Illusion:** Khanna and his primary challenger Ethan Agarwal are both funded by Silicon Valley money. The "contest" is between a progressive who occasionally threatens donor interests and a candidate who won't. The donor class wins either way, the question is only how much progressive rhetoric they have to tolerate.
 
 ---
 
 ## Rhetorical Signature Moves
 
-- **"Economic Patriotism":** Frames progressive trade and industrial policy in nationalist language — designed to appeal to working-class voters without triggering the "socialist" framing that has damaged other progressive presidential attempts.
+- **"Economic Patriotism":** Frames progressive trade and industrial policy in nationalist language, designed to appeal to working-class voters without triggering the "socialist" framing that has damaged other progressive presidential attempts.
 - **No PAC as Identity:** Deploys the No PAC pledge as a substitute for the deeper structural independence question (individual tech donors vs. corporate PACs). The 93% large-donor ratio undermines the implied grassroots positioning.
 - **Progressive Credibility via Sanders:** His 2020 Sanders co-chairmanship is his primary credentialing mechanism with the grassroots left. It provides cover for donor relationships that would otherwise strain his progressive brand.
-- **Tech Worker as Constituent:** Frames tech industry engagement as constituent service rather than donor servicing — his district contains Apple's headquarters, so defending tech is "representing his constituents." This framing obscures the difference between representing workers and representing the executives who fund him.
-- **"Progressive Capitalist":** Self-describes as a "progressive capitalist" — a framing designed to signal that his progressive positions won't threaten the underlying capital accumulation model. This is the reassurance language aimed at the donor class.
+- **Tech Worker as Constituent:** Frames tech industry engagement as constituent service rather than donor servicing, his district contains Apple's headquarters, so defending tech is "representing his constituents." This framing obscures the difference between representing workers and representing the executives who fund him.
+- **"Progressive Capitalist":** Self-describes as a "progressive capitalist", a framing designed to signal that his progressive positions won't threaten the underlying capital accumulation model. This is the reassurance language aimed at the donor class.
 
 ---
 
@@ -267,11 +267,11 @@ Khanna represents the structural contradiction of progressive politics funded by
 
 **Tolerated dissent:** Defense spending (no donor stake), healthcare rhetoric (no enacted threat), trade policy (aligned with tech's domestic manufacturing interests), fossil fuel opposition (tech industry is broadly climate-aligned). These positions generate progressive credentials at zero cost to his funding base.
 
-**Managed dissent:** Antitrust rhetoric (produces hearings and caucus leadership but no enacted legislation that restricts Google, Apple, or Microsoft). This is the performative zone — enough to maintain progressive brand, not enough to threaten donor interests.
+**Managed dissent:** Antitrust rhetoric (produces hearings and caucus leadership but no enacted legislation that restricts Google, Apple, or Microsoft). This is the performative zone, enough to maintain progressive brand, not enough to threaten donor interests.
 
-**Intolerable dissent:** Wealth taxation. The one position that directly threatened the accumulated capital of his donor class triggered immediate, coordinated removal effort. The speed of the Agarwal challenge — from WhatsApp organizing to candidate filing in weeks — reveals the pre-existing infrastructure for donor-class enforcement.
+**Intolerable dissent:** Wealth taxation. The one position that directly threatened the accumulated capital of his donor class triggered immediate, coordinated removal effort. The speed of the Agarwal challenge, from WhatsApp organizing to candidate filing in weeks, reveals the pre-existing infrastructure for donor-class enforcement.
 
-The class function Khanna serves: he demonstrates that progressive politics can be *performed* within the tech-funded ecosystem, creating a pressure valve for progressive energy that might otherwise organize independently of the donor class. His 2028 presidential candidacy, if it proceeds, will test whether that pressure valve can scale to the national level — or whether the wealth tax backlash marks the permanent boundary of donor-class tolerance.
+The class function Khanna serves: he demonstrates that progressive politics can be *performed* within the tech-funded ecosystem, creating a pressure valve for progressive energy that might otherwise organize independently of the donor class. His 2028 presidential candidacy, if it proceeds, will test whether that pressure valve can scale to the national level, or whether the wealth tax backlash marks the permanent boundary of donor-class tolerance.
 
 ---
 
@@ -284,7 +284,7 @@ The class function Khanna serves: he demonstrates that progressive politics can 
 - [Khanna.house.gov: Statement on lone NDAA no vote](https://khanna.house.gov/media/press-releases/statement-khanna-long-no-vote-ndaa-out-house-armed-services-committee) (Tier 1) (VERIFIED)
 - [Common Dreams: Khanna says he is "proud" of lone no vote against $886B military budget](https://www.commondreams.org/news/khanna-no-vote-military-budget) (Tier 2) (VERIFIED)
 - [Common Dreams: Khanna hits back as Silicon Valley oligarchs threaten primary challenge](https://www.commondreams.org/news/khanna-tech-oligarchs) (Tier 2) (VERIFIED)
-- ~~[The Hill: Ro Khanna faces primary challenge, Silicon Valley backlash over wealth tax](https://thehill.com/policy/technology/5776595-khanna-agarwal-california-congressional/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Ro Khanna faces primary challenge, Silicon Valley backlash over wealth tax](https://thehill.com/policy/technology/5776595-khanna-agarwal-california-congressional/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [CNBC: California's Ro Khanna faces Silicon Valley backlash after embracing wealth tax](https://www.cnbc.com/2025/12/29/silicon-valley-ro-khanna-faces-tech-backlash-over-wealth-tax.html) (Tier 2) (VERIFIED)
 - [SF Standard: Ro Khanna to face primary challenger amid stock trading, billionaire tax backlash](https://sfstandard.com/2026/03/03/ro-khanna-ethan-agarwal-congress/) (Tier 2) (VERIFIED)
 - [NBC News: Ro Khanna wonders who might lead Democrats in 2028](https://www.nbcnews.com/politics/congress/rep-ro-khanna-lead-democrats-2028-rcna201509) (Tier 2) (VERIFIED)
