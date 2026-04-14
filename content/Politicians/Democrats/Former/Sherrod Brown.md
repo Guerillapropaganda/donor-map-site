@@ -30,7 +30,8 @@ related: >-
   Bloc]] · [[_JD Vance Master Profile]] · [[Ohio Federation of Teachers]] ·
   [[Bernie Moreno]] · [[Frank Pallone]] · [[Mark Takano]] · [[Pete Aguilar]] ·
   [[Debbie Stabenow Master Profile]] · [[Gary Peters Master Profile]] ·
-  [[Barbara Lee]] · [[Maxine Waters]] · [[Eric Swalwell Master Profile]]
+  [[Barbara Lee]] · [[Maxine Waters]] · [[Eric Swalwell Master Profile]] ·
+  [[Mike Lee]]
 editorial-review-date: '2026-04-08'
 editorial-reviewer: Research Claude
 editorial-result: block
