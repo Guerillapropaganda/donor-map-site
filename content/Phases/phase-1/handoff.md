@@ -76,7 +76,17 @@ After that:
 - [ ] `npx quartz build` clean (no regressions)
 - [ ] Phase 1 retrospective written
 
-**Progress: ~55% (7 of 11 core deliverables shipped this session).**
+**Progress: ~82% (9 of 11 core deliverables shipped this session).**
+
+### Deliverables shipped since the 55% checkpoint
+8. **Quartz `{{src:ID}}` transformer plugin** (`quartz/plugins/transformers/source-refs.ts` + `quartz/util/sources-store.ts` TS mirror). Registered in `quartz.config.ts` right before `ObsidianFlavoredMarkdown`. Runs at `textTransform` stage so the resulting markdown links flow through every downstream plugin naturally. Unknown IDs (`src_999999`) left literal for editor visibility. Full-vault build verified: 2,279 files parsed in 32s, 8,673 emitted, 3 known-good refs resolved correctly in test profile output, exit 0.
+
+9. **Ops `/sources` review page** (`ops/src/app/sources/page.tsx` + `ops/src/app/api/source-registry/route.ts` + `ops/src/lib/sources-store.ts`). Full filter controls (status, tier, source_type, host, entity, freetext search), 100-per-page pagination with status count summary row as clickable filter buckets, per-row status dropdown with optimistic update + toast feedback, atomic JSONL write via temp-file rename. Defaults to `needs_review` bucket (the 1,041-source triage pile from the bot-block classifier fix). API renamed from `/api/sources` to `/api/source-registry` to avoid collision with the pre-existing Source Hunter feature — that was a live discovery during implementation, documented in commit.
+
+### Remaining Phase 1 work
+1. **Pipeline migration** — migrate one enrichment pipeline (FEC or Congress.gov) to write through `sources-store.cjs` instead of embedding raw URLs in profile bodies. This is the last real coding task.
+2. **Documentation updates** — CLAUDE.md (Query Engine + Source Registry discipline sections), Vault Rules.md (Structured Data Layer section), Pipeline Guide.md (sources-store integration section).
+3. **Phase 1 retrospective** — written via `phase-transition` skill when transitioning to Phase 2.
 
 ## Decisions made this session
 
