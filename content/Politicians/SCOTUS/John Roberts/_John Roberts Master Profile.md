@@ -171,5 +171,5 @@ The personal financial structure mirrors the institutional one. Roberts's estima
 
 - [[Koch Network - Charles Koch]] — $21.3M lobbying spend (Agriculture, Banking, Bankruptcy)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
 <!-- auto:influence-cross-ref end -->

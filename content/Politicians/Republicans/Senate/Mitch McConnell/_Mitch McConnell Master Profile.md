@@ -238,7 +238,7 @@ McConnell announced retirement February 20, 2025 after multiple health episodes 
 - [[Koch Network - Charles Koch]] — $21.3M lobbying spend (Agriculture, Banking, Bankruptcy)
 - [[Timothy Mellon]] — $1.9M lobbying spend (Banking, Energy/Nuclear, Financial Institutions/Investments/Securities)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
 <!-- auto:influence-cross-ref end -->
 
 ### Campaign Finance (FEC)

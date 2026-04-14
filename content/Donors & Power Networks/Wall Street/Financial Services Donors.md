@@ -2,7 +2,7 @@
 title: "Financial Services Donors"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-13
+last-updated: 2026-04-14
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -10,7 +10,7 @@ entity-type: "Individual Donor"
 issues:
   - "Wall Street & Finance"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-13"
+last-enriched: "2026-04-14"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 ofac-programs:
@@ -104,5 +104,5 @@ The financial services industry is the ultimate bipartisan donor: both parties' 
 
 - [[Dick Durbin]] (Judiciary)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
 <!-- auto:influence-cross-ref end -->

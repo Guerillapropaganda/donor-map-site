@@ -288,7 +288,7 @@ Grijalva spent two decades fighting battles with no corporate lobby behind them.
 - [GovTrack: Raul Grijalva](https://www.govtrack.us/congress/members/400162) (Tier 1)
 <!-- auto:voting-record end -->
 
-<!-- auto:voting-record pending-merge 2026-04-13 -->
+<!-- auto:voting-record pending-merge 2026-04-14 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

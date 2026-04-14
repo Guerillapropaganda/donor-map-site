@@ -2,7 +2,7 @@
 title: "Western Growers Association"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-14
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -34,9 +34,9 @@ ein: "751972150"
 annual-revenue: "$236K"
 net-assets: "$849K"
 tax-year: "2023"
-total-political-spend: "$481,034"
+total-political-spend: "$479,534"
 court-cases: 44
-last-enriched: "2026-04-13"
+last-enriched: "2026-04-14"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 court-jurisdictions:
@@ -403,21 +403,21 @@ The PAGA reform spending ($9.5 million coalition) reveals the second dimension. 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Western%20Growers%20Association) (Tier 1)
 <!-- auto:fec-donor end -->
 
-<!-- auto:fec-donor pending-merge 2026-04-13 -->
+<!-- auto:fec-donor pending-merge 2026-04-14 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
 | Metric | Value |
 |--------|-------|
-| Total Political Spend | $481,034 |
-| Contributions | 323 |
+| Total Political Spend | $479,534 |
+| Contributions | 321 |
 
 **Top recipients:**
 
 | Recipient | Amount | Party |
 |-----------|--------|-------|
 | AMERICAN FUTURE FUND POLITICAL ACTION | $120,000 | — |
-| HOEVEN FOR SENATE | $17,500 | REP |
+| HOEVEN FOR SENATE | $16,000 | REP |
 | RNC REPUBLICAN NATIONAL STATE ELECTION COMMITTEE | $15,863 | — |
 | MCCARTHY VICTORY FUND | $15,000 | — |
 | KEVIN MCCARTHY FOR CONGRESS | $12,500 | REP |

@@ -192,7 +192,7 @@ Cole's personal net worth grew from $3.2 million in 2008 to $9.4 million in 2024
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-13 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-14 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -206,7 +206,7 @@ Cole's personal net worth grew from $3.2 million in 2008 to $9.4 million in 2024
 
 - **Northrop Grumman** donates → Lobbies on **Defense & Military** → This member sits on **Appropriations**
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 

@@ -388,5 +388,5 @@ Meta is the vault's clearest case of surveillance capitalism — a business mode
 - [[Donald Trump]] — lobbying: $36.5M
 - [[Amy Klobuchar]] (Antitrust (Judiciary), Judiciary, Agriculture) — lobbying: $36.5M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
 <!-- auto:influence-cross-ref end -->

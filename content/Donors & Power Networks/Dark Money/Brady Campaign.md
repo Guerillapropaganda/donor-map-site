@@ -2,13 +2,13 @@
 title: "Brady Campaign"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-14
 source-tier: 2
 parent: null
 sector: "Dark Money"
 entity-type: "Individual Donor"
 court-cases: 410
-last-enriched: "2026-04-13"
+last-enriched: "2026-04-14"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 court-jurisdictions:
@@ -199,7 +199,7 @@ Brady represents issue-based donor infrastructure serving Democratic electoral p
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-13 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-14 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -211,25 +211,25 @@ Brady represents issue-based donor infrastructure serving Democratic electoral p
 
 **Funded politicians:**
 
-- [[Jerrold Nadler]] — lobbying: $836K
-- [[Jerry Nadler]] (Judiciary, Antitrust (Judiciary)) — lobbying: $836K
-- [[James E. Clyburn]] — lobbying: $836K
 - [[Gina McCarthy]] — lobbying: $836K
 - [[Kevin McCarthy]] — lobbying: $836K
-- [[Robert Menendez]] — lobbying: $836K
-- [[Bob Menendez]] (Foreign Relations) — lobbying: $836K
 - [[Wes Moore]] — lobbying: $836K
 - [[Gwen Moore]] — lobbying: $836K
 - [[Barry Moore]] — lobbying: $836K
 - [[Blake D. Moore]] — lobbying: $836K
 - [[Riley M. Moore]] — lobbying: $836K
 - [[Tim Moore]] — lobbying: $836K
+- [[Jerrold Nadler]] — lobbying: $836K
+- [[Jerry Nadler]] (Judiciary, Antitrust (Judiciary)) — lobbying: $836K
+- [[James E. Clyburn]] — lobbying: $836K
+- [[Robert Menendez]] — lobbying: $836K
+- [[Bob Menendez]] (Foreign Relations) — lobbying: $836K
 - [[Melissa Bean]] — lobbying: $836K
 - [[Aaron Bean]] — lobbying: $836K
 - [[Linda McMahon]] (Education & Labor) — lobbying: $836K
 - [[Salud O. Carbajal]] — lobbying: $836K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 

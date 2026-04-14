@@ -2,7 +2,7 @@
 title: "Elizabeth Warren Master Profile"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-14
 source-tier: 1
 parent: null
 party: "Democrat"

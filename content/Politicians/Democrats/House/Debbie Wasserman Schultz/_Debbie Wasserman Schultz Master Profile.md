@@ -4,7 +4,7 @@ type: politician
 bioguide-id: "W000797"
 content-readiness: ready
 central-thesis: "Wasserman Schultz is the Both-Sides Illusion made flesh. She is a Democrat funded by the same sugar PACs and Israel lobby money that funds the Republican Cuba hawks. Her presence in the sugar-defense-Israel coalition proves that the embargo — and ..."
-last-updated: 2026-04-13
+last-updated: 2026-04-14
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -19,7 +19,7 @@ top-donors:
   - "AIPAC"
 total-received: "$1,785,365"
 fec-candidate-id: "H4FL20023"
-last-enriched: "2026-04-13"
+last-enriched: "2026-04-14"
 needs-reenrichment: true
 reenrich-reason: "run voting pipeline; run congress pipeline"
 donors: "[[UNITE HERE]] · [[Bacardi - Bacardi USA]]"

@@ -217,6 +217,25 @@ Centene's structural function in American healthcare is converting public health
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
 <!-- auto:influence-cross-ref end -->
 
+<!-- auto:influence-cross-ref pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 2 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | None |
+
+**Funded politicians:**
+
+- [[Joe Manchin]] — lobbying: $10.6M
+- [[Jon Husted]] — lobbying: $10.6M
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
+
+<!-- auto:influence-cross-ref pending-merge end -->
+
 ### Financial Overview (990 Filing — 2023)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |

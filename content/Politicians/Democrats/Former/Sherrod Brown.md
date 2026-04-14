@@ -3,7 +3,7 @@ title: "Sherrod Brown"
 type: politician
 content-readiness: ready
 central-thesis: "Brown represents the structural ceiling of labor-backed politics in post-2020 America. Despite being the Senate's most pro-labor voting record, highest AFL-CIO rating, strongest defense of trade protections for manufacturing workers, and deepest r..."
-last-updated: 2026-04-13
+last-updated: 2026-04-14
 source-tier: 1
 parent: null
 fec-candidate-id: "S6OH00163"
@@ -52,7 +52,7 @@ total-raised: "$14,356,451"
 total-spent: "$4,456,809"
 cash-on-hand: "9899641.92"
 fec-cycle: 2026
-last-enriched: "2026-04-13"
+last-enriched: "2026-04-14"
 bioguide-id: "B001313"
 issues:
   - "Agriculture and Food"
@@ -189,7 +189,7 @@ The class lesson Brown's defeat teaches is that labor movements cannot own polit
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H2OH13033/) (Tier 1)
 <!-- auto:fec-politician end -->
 
-<!-- auto:fec-politician pending-merge 2026-04-13 -->
+<!-- auto:fec-politician pending-merge 2026-04-14 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -358,6 +358,35 @@ _No committee data found._
 
 - [Congress.gov: Sherrod Brown](https://www.congress.gov/member/e000179) (Tier 1)
 <!-- auto:voting-record end -->
+
+<!-- auto:voting-record pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+**Key Votes**
+
+| 2024-12-21 | H.R. 10545 (118th): American Relief Act, 2025 | **Yea** | Bill Passed |
+| 2024-12-21 | H.R. 82 (118th): Social Security Fairness Act of 2023 | **Yea** | Bill Passed |
+| 2024-12-20 | S.Amdt. 3331 (Crapo) to H.R. 82: To delay the repeal of the Government pension offset and windfall elimination provision | **Nay** | Amendment Rejected |
+| 2024-12-20 | S.Amdt. 3360 (Cruz) to H.R. 82: In the nature of a substitute. | **Nay** | Amendment Rejected |
+| 2024-12-20 | S.Amdt. 3352 (Paul) to H.R. 82: To provide for automatic continuing resolutions. | **Nay** | Amendment Rejected |
+| 2024-12-20 | S.Amdt. 3346 (Paul) to H.R. 82: To adjust the normal and early retirement ages for Social Security benefits and increase | **Nay** | Amendment Rejected |
+| 2024-12-20 | On the Nomination PN2245: Serena Raquel Murillo, of California, to be United States District Judge for the Central Distr | **Yea** | Nomination Confirmed |
+| 2024-12-20 | Motion to Invoke Cloture: Serena Raquel Murillo to be U.S. District Judge for the Central District of California: Serena | **Yea** | Cloture Motion Agreed to |
+| 2024-12-20 | On the Nomination PN2244: Benjamin J. Cheeks, of California, to be United States District Judge for the Southern Distric | **Yea** | Nomination Confirmed |
+| 2024-12-20 | Motion to Invoke Cloture: Benjamin J. Cheeks to be U.S. District Judge for the Southern District of California: Benjamin | **Yea** | Cloture Motion Agreed to |
+| 2024-12-18 | S. 4367 (118th): Thomas R. Carper Water Resources Development Act of 2024 | **Yea** | Motion Agreed to |
+| 2024-12-18 | Motion to Invoke Cloture: Motion to Proceed to H.R. 82 | **Yea** | Cloture on the Motion to Proceed Agreed to |
+| 2024-12-18 | H.R. 5009 (118th): To authorize appropriations for fiscal year 2025 for military activities of the Department of Defense | **Yea** | Motion Agreed to |
+| 2024-12-16 | Motion to Invoke Cloture: Motion to Concur in the House Amendment to the Senate Amendment to H.R. 5009 | **Yea** | Cloture Motion Agreed to |
+| 2024-12-12 | On the Nomination PN1980: Matthew James Marzano, of Illinois, to be a Member of the Nuclear Regulatory Commission for th | **Yea** | Nomination Confirmed |
+
+**Sources**
+
+- [Congress.gov: Sherrod Brown](https://www.congress.gov/member/e000179) (Tier 1)
+- [GovTrack: Sherrod Brown](https://www.govtrack.us/congress/members/400050) (Tier 1)
+
+<!-- auto:voting-record pending-merge end -->
 
 ### Wikipedia
 <!-- auto:wikipedia start -->

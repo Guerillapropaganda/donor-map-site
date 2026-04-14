@@ -2,7 +2,7 @@
 title: "California Farm Bureau Federation"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-14
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -34,7 +34,7 @@ annual-revenue: "$12.9M"
 net-assets: "$73.5M"
 tax-year: "2023"
 federal-register-mentions: 23
-last-enriched: "2026-04-13"
+last-enriched: "2026-04-14"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 regulatory-agencies:
@@ -84,8 +84,8 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 wikidata-id: "Q126731054"
 total-political-spend: "$891,442"
-lobbying-spend: 10762474
-lobbying-filings: 119
+lobbying-spend: 10784974
+lobbying-filings: 120
 ---
 #donor #agricultural-employer #farm-bureau #labor-opponent #immigration #H-2A #farmworkers #follow-the-money #california #lobbying #dual-opponent
 
@@ -178,7 +178,7 @@ The Farm Bureau's most revealing feature is what it does not do. It does not adv
 
 <!-- auto:propublica-990 end -->
 
-<!-- auto:propublica-990 pending-merge 2026-04-13 -->
+<!-- auto:propublica-990 pending-merge 2026-04-14 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -434,6 +434,28 @@ The Farm Bureau's most revealing feature is what it does not do. It does not adv
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=California%20Farm%20Bureau%20Federation) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
+<!-- auto:lda-lobbying pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $10.8M |
+| Quarterly Filings | 120 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 54 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Accounting, Agriculture, Banking, Bankruptcy, Budget/Appropriations, Civil Rights/Civil Liberties, Clean Air and Water (quality), Communications/Broadcasting/Radio/TV, Copyright/Patent/Trademark, Defense, Disaster Planning/Emergencies, Economics/Economic Development, Education, Energy/Nuclear, Environment/Superfund, Financial Institutions/Investments/Securities, Food Industry (safety, labeling, etc.), Fuel/Gas/Oil, Gaming/Gambling/Casino, Government Issues, Health Issues, Homeland Security, Housing, Immigration, Indian/Native American Affairs, Insurance, Labor Issues/Antitrust/Workplace, Manufacturing, Marine/Maritime/Boating/Fisheries, Media (information/publishing), Medical/Disease Research/Clinical Labs, Medicare/Medicaid, Natural Resources, Pharmacy, Railroads, Retirement, Science/Technology, Small Business, Tariff (miscellaneous tariff bills), Taxation/Internal Revenue Code, Telecommunications, Torts, Trade (domestic/foreign), Transportation, Trucking/Shipping, Unemployment, Urban Development/Municipalities, Utilities, Veterans, Waste (hazardous/solid/interstate/nuclear), Welfare
+
+**Lobbying firms:** ACG ADVOCACY, ALSTON & BIRD LLP, ASSOCIATION OF CALIFORNIA WATER AGENCIES, BGR GOVERNMENT AFFAIRS, BLUE SHIELD OF CALIFORNIA, BRYANT CHRISTIE INC., CALIFORNIA AND NEVADA CREDIT UNION LEAGUES, CALIFORNIA ASSOCIATION OF REALTORS, CALIFORNIA CHILDREN'S HOSPITAL ASSOCIATION, CALIFORNIA FORESTRY ASSOCIATION, CALIFORNIA HOSPITAL ASSOCIATION, CALIFORNIA LIFE SCIENCES, CALIFORNIA MEDICAL ASSOCIATION INC., CALIFORNIA STATE UNIVERSITY, CAPITOL CORE GROUP, INC., CARPI & CLAY, INC, CONNECTOR INC., CORNERSTONE GOVERNMENT AFFAIRS, INC., COZEN O'CONNOR PUBLIC STRATEGIES, DENTONS US LLP, DOWNS GOVERNMENT AFFAIRS, DUTKO WORLDWIDE, LLC, EHRLICH & ASSOCIATES, ENS RESOURCES, INC., FONTENOT HEALTH POLICY LLC, FORBES-TATE, GOVERNMENT COUNSEL, LLC, HALEY & ASSOCIATES, HARO SOLUTIONS LLC, HOLLAND & KNIGHT LLP, IMPACT HEALTH POLICY PARTNERS, KANNER & ASSOCIATES, LLC, KING & SPALDING LLP, MARK VARGAS, MCALLISTER & QUINN, LLC, METROPOLITAN WATER DISTRICT OF SOUTHERN CALIFORNIA, MG HOUSING STRATEGIES LLC, MO STRATEGIES, INC., NATIONAL GROUP, LLP, NORTHERN CALIFORNIA POWER AGENCY, OLSSON, FRANK, WEEDA, TERMAN & MATZ, PC, ORSO GROUP, PACIFIC ATLANTIC PARTNERS, PAUL V. BEDDOE GOVERNMENT AFFAIRS, LLC, POTOMAC PARTNERS DC, POWERS PYLES SUTTER & VERVILLE, P.C., RBW GROUP, LLC, ROBERTSON, MONAGLE, & EASTAUGH LLC (FKA ROBERTSON, MONAGLE & EASTAUGH PC), SOUTHERN CALIFORNIA PUBLIC RADIO, TELEGRAPH AVENUE ADVISORS, TROUTMAN STATEGIES, TRUMAN KEITH JONES, UNIVERSITY OF CALIFORNIA, UNIVERSITY OF CALIFORNIA STUDENT ASSOCIATION
+
+**Agencies contacted:** AMTRAK - Natl Railroad Passenger Corporation, Administration for Children & Families (ACF), Agriculture, Dept of (USDA), Army, Dept of (Corps of Engineers), Bureau of Reclamation, Centers For Disease Control & Prevention (CDC), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Consumer Financial Protection Bureau (CFPB), Council on Environmental Quality (CEQ) +49 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=California%20Farm%20Bureau%20Federation) (Tier 1)
+
+<!-- auto:lda-lobbying pending-merge end -->
+
 ### Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
@@ -457,25 +479,25 @@ The Farm Bureau's most revealing feature is what it does not do. It does not adv
 
 **Funded politicians:**
 
-- [[John Boehner]] (Finance) — lobbying: $10.7M
-- [[Gina McCarthy]] — lobbying: $10.7M
-- [[Kevin McCarthy]] — lobbying: $10.7M
-- [[Bennie Thompson]] (Homeland Security) — lobbying: $10.7M
-- [[Mike Thompson]] — lobbying: $10.7M
-- [[Glenn Thompson]] (Agriculture) — lobbying: $10.7M
-- [[Jim Costa]] — lobbying: $10.7M
-- [[Shalanda Young]] — lobbying: $10.7M
-- [[Todd Young]] — lobbying: $10.7M
-- [[Andy Kim]] — lobbying: $10.7M
-- [[Young Kim]] — lobbying: $10.7M
-- [[Debbie Stabenow]] (Agriculture) — lobbying: $10.7M
-- [[Jimmy Panetta]] — lobbying: $10.7M
-- [[Leon Panetta]] — lobbying: $10.7M
-- [[Nathaniel Moran]] — lobbying: $10.7M
-- [[Jerry Moran]] (Veterans' Affairs, Agriculture) — lobbying: $10.7M
-- [[Sonny Perdue]] — lobbying: $10.7M
-- [[Lindsey Graham]] — lobbying: $10.7M
-- [[Jared F. Golden]] — lobbying: $10.7M
+- [[John Boehner]] (Finance) — lobbying: $10.8M
+- [[Gina McCarthy]] — lobbying: $10.8M
+- [[Kevin McCarthy]] — lobbying: $10.8M
+- [[Bennie Thompson]] (Homeland Security) — lobbying: $10.8M
+- [[Mike Thompson]] — lobbying: $10.8M
+- [[Glenn Thompson]] (Agriculture) — lobbying: $10.8M
+- [[Jim Costa]] — lobbying: $10.8M
+- [[Shalanda Young]] — lobbying: $10.8M
+- [[Todd Young]] — lobbying: $10.8M
+- [[Andy Kim]] — lobbying: $10.8M
+- [[Young Kim]] — lobbying: $10.8M
+- [[Debbie Stabenow]] (Agriculture) — lobbying: $10.8M
+- [[Jimmy Panetta]] — lobbying: $10.8M
+- [[Leon Panetta]] — lobbying: $10.8M
+- [[Nathaniel Moran]] — lobbying: $10.8M
+- [[Jerry Moran]] (Veterans' Affairs, Agriculture) — lobbying: $10.8M
+- [[Sonny Perdue]] — lobbying: $10.8M
+- [[Lindsey Graham]] — lobbying: $10.8M
+- [[Jared F. Golden]] — lobbying: $10.8M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
 <!-- auto:influence-cross-ref end -->

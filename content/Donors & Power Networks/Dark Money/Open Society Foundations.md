@@ -234,7 +234,7 @@ The donor class needs its progressive wing. OSF provides it, professionally mana
 
 - [[Gavin Newsom]] — contracts: $19K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
 <!-- auto:influence-cross-ref end -->
 
 ### Tax Filings (IRS 990)

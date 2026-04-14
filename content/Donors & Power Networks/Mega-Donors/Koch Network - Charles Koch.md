@@ -1092,5 +1092,5 @@ This architecture allows the Koch Network to:
 - [[Shelley Moore Capito]] (Environment & Public Works) — lobbying: $21.3M
 - [[Pete Hegseth]] — lobbying: $21.3M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
 <!-- auto:influence-cross-ref end -->

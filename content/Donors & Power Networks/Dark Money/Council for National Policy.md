@@ -2,7 +2,7 @@
 title: "Council for National Policy"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-13
+last-updated: 2026-04-14
 source-tier: 1
 parent: null
 sector: "Dark Money"

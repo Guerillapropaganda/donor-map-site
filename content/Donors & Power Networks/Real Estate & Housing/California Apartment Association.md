@@ -175,7 +175,7 @@ Housing, rent control, supply-side framework, tenant rights
 - [[Gavin Newsom]] — lobbying: $10.4M
 - [[Antonio Villaraigosa]] — lobbying: $10.4M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
 <!-- auto:influence-cross-ref end -->
 
 ### Vehicle Safety (NHTSA)
