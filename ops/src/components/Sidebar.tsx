@@ -26,6 +26,12 @@ const NAV_ITEMS = [
   { href: "/operations", label: "Operations", icon: "shield" },
   { href: "/docs", label: "System Docs", icon: "book" },
   { href: "/scripts", label: "Scripts", icon: "terminal" },
+  // Phase 2+ query engine + auth surfaces (added 2026-04-14)
+  { href: "/sources", label: "Source Registry", icon: "globe" },
+  { href: "/class-tags", label: "Class Tags", icon: "target" },
+  { href: "/query", label: "Query Engine", icon: "search" },
+  { href: "/account", label: "Account", icon: "user" },
+  { href: "/pricing", label: "Pricing", icon: "dollar" },
 ]
 
 const ICONS: Record<string, string> = {

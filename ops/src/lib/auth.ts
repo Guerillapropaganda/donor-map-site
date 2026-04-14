@@ -2,7 +2,8 @@
  * auth.ts — Phase 2.5 Auth & Gating helpers
  *
  * Bridges Clerk authentication (session lookups) with our own users.jsonl
- * tier system. Every /api/* route that needs gating calls requireTier()
+ * tier system via ops/src/lib/users-store.ts (TS-native, webpack-
+ * compatible). Every /api/* route that needs gating calls requireTier()
  * at the top.
  *
  * Usage in an API route:
@@ -10,79 +11,34 @@
  *   import { requireTier } from "@/lib/auth"
  *   export async function POST(req: NextRequest) {
  *     const gate = await requireTier(req, "researcher")
- *     if (!gate.ok) return gate.response
+ *     if (!gate.ok) return gate.response!
  *     // ... normal handler, gate.user is populated ...
  *   }
  *
  * Anonymous users get a 401. Logged-in users below the required tier
- * get a 402 Payment Required. Rate-limited users get a 429.
+ * get a 402 Payment Required. Rate-limited users get a 429 (rate
+ * limits live in lib/rate-limit.ts).
  *
  * ADMIN bypass: users with is_admin=true bypass all tier checks.
- *
- * NOTE: The Clerk SDK import at the top will fail until someone runs
- * `npm install @clerk/nextjs` in the ops/ directory. The setup steps
- * are documented in content/Admin Notes/phase-2.5-setup.md.
  */
 
 import { NextRequest, NextResponse } from "next/server"
-import { createRequire } from "module"
-import path from "path"
+import {
+  addOrFindUser,
+  getUserByClerkId,
+  tierAtLeast,
+  type UserRecord,
+  type Tier,
+} from "./users-store"
 
-const require = createRequire(import.meta.url)
-
-// ─── Repo root + users store (via CJS) ───────────────────────────────
-
-function findRepoRoot(startDir: string): string {
-  const fs = require("fs")
-  let dir = startDir
-  for (let i = 0; i < 8; i++) {
-    if (fs.existsSync(path.join(dir, "scripts", "lib", "users-store.cjs"))) return dir
-    if (fs.existsSync(path.join(dir, ".git"))) return dir
-    const parent = path.dirname(dir)
-    if (parent === dir) break
-    dir = parent
-  }
-  return startDir
-}
-
-const root = findRepoRoot(process.cwd())
-const usersStore = require(path.join(root, "scripts", "lib", "users-store.cjs"))
-const usersSchema = require(path.join(root, "scripts", "lib", "users-schema.cjs"))
-
-export type Tier = "anonymous" | "free-auth" | "researcher" | "newsroom" | "patron" | "admin"
-
-export interface UserRecord {
-  id: string
-  clerk_id: string | null
-  email: string
-  tier: Tier
-  stripe_customer_id: string | null
-  stripe_subscription_id: string | null
-  is_admin: boolean
-  rate_limit_override: number | null
-  expires: string | null
-  [k: string]: any
-}
+export type { UserRecord, Tier }
 
 // ─── Clerk session lookup ────────────────────────────────────────────
 
-/**
- * Fetch the current Clerk session's user id. Returns null if anonymous.
- *
- * This dynamically imports @clerk/nextjs so the route file still type-
- * checks (and still builds the rest of the module) even if the Clerk
- * package isn't installed yet. The auth() call throws in that case,
- * and we treat throw as "anonymous" for graceful degradation during
- * the Phase 2.5 rollout.
- */
-async function getClerkUserId(req: NextRequest): Promise<string | null> {
+async function getClerkUserId(): Promise<string | null> {
   try {
-    // Dynamic import so the module loads before @clerk/nextjs is installed
     const clerk = await import("@clerk/nextjs/server").catch(() => null)
-    if (!clerk || typeof (clerk as any).auth !== "function") {
-      // SDK not installed yet — Phase 2.5 pre-install mode
-      return null
-    }
+    if (!clerk || typeof (clerk as any).auth !== "function") return null
     const session = await (clerk as any).auth()
     return session?.userId || null
   } catch {
@@ -90,11 +46,7 @@ async function getClerkUserId(req: NextRequest): Promise<string | null> {
   }
 }
 
-/**
- * Fetch the current Clerk session's user email. Same graceful-fallback
- * pattern as getClerkUserId.
- */
-async function getClerkUserEmail(req: NextRequest): Promise<string | null> {
+async function getClerkUserEmail(): Promise<string | null> {
   try {
     const clerk = await import("@clerk/nextjs/server").catch(() => null)
     if (!clerk || typeof (clerk as any).currentUser !== "function") return null
@@ -105,28 +57,29 @@ async function getClerkUserEmail(req: NextRequest): Promise<string | null> {
   }
 }
 
-// ─── User lookup (ours, backed by users.jsonl) ───────────────────────
+// ─── User resolution ─────────────────────────────────────────────────
 
 /**
- * Resolve the request to one of our user records. Creates a record on
- * first login (free-auth tier) if the Clerk user isn't in our store yet.
+ * Resolve the request to one of our user records. Creates a free-auth
+ * record on first login if the Clerk user isn't in our store yet.
  * Returns null if the request is anonymous.
  */
-export async function currentUser(req: NextRequest): Promise<UserRecord | null> {
-  const clerkId = await getClerkUserId(req)
+export async function currentUser(
+  _req?: NextRequest,
+): Promise<UserRecord | null> {
+  const clerkId = await getClerkUserId()
   if (!clerkId) return null
 
-  let rec = usersStore.getUserByClerkId(clerkId)
-  if (rec) return rec
+  const existing = getUserByClerkId(clerkId)
+  if (existing) return existing
 
-  // First-login backfill — create a free-auth record
-  const email = (await getClerkUserEmail(req)) || `${clerkId}@unknown.clerk`
-  rec = usersStore.addOrFindUser({
+  // First-login backfill
+  const email = (await getClerkUserEmail()) || `${clerkId}@unknown.clerk`
+  return addOrFindUser({
     clerk_id: clerkId,
     email,
     tier: "free-auth",
   })
-  return rec
 }
 
 // ─── Tier gating ─────────────────────────────────────────────────────
@@ -137,13 +90,6 @@ export interface GateResult {
   user: UserRecord | null
 }
 
-/**
- * Returns a gate result. If `ok` is true, the caller proceeds with the
- * request handler (and can read gate.user). If false, the caller returns
- * gate.response directly.
- *
- * Admin users bypass ALL gates regardless of required tier.
- */
 export async function requireTier(
   req: NextRequest,
   requiredTier: Tier,
@@ -155,7 +101,6 @@ export async function requireTier(
     return { ok: true, user }
   }
 
-  // Anonymous path
   if (!user) {
     if (requiredTier === "anonymous") return { ok: true, user: null }
     return {
@@ -172,9 +117,7 @@ export async function requireTier(
     }
   }
 
-  // Tier hierarchy check
-  const passes = usersSchema.tierAtLeast(user.tier, requiredTier)
-  if (!passes) {
+  if (!tierAtLeast(user.tier, requiredTier)) {
     return {
       ok: false,
       user,
@@ -193,10 +136,6 @@ export async function requireTier(
   return { ok: true, user }
 }
 
-/**
- * Admin-only gate. Returns 403 for any non-admin user. Use this on
- * Ops-internal routes like /api/class-tags and /api/source-registry.
- */
 export async function requireAdmin(req: NextRequest): Promise<GateResult> {
   const user = await currentUser(req)
   if (!user || !user.is_admin) {

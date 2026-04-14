@@ -47,10 +47,20 @@ try {
   // @ts-ignore — dynamic import, may not resolve at build time yet
   const mod = require("@clerk/nextjs/server")
   if (mod && typeof mod.clerkMiddleware === "function") {
-    clerkMiddleware = mod.clerkMiddleware((auth: any, req: NextRequest) => {
-      if (isPublicPath(req.nextUrl.pathname)) return
-      // Clerk will redirect to sign-in if there's no session
-      auth().protect()
+    // Pass-through middleware. Clerk attaches session context to
+    // every request so downstream route handlers can call auth()
+    // and currentUser(), but middleware itself does NOT block
+    // anything — individual routes protect themselves via
+    // requireTier() / requireAdmin() from lib/auth.ts.
+    //
+    // Earlier version called auth.protect() on every non-public
+    // path, which caused API routes (dashboard internal fetches
+    // for /api/alerts etc) to return HTML redirect responses
+    // instead of JSON, breaking the dashboard loader. Moving the
+    // gating to route handlers fixes that cleanly — route handlers
+    // already return 401/402/403 as proper JSON responses.
+    clerkMiddleware = mod.clerkMiddleware(async () => {
+      // no-op: routes handle their own auth
     })
   }
 } catch {
