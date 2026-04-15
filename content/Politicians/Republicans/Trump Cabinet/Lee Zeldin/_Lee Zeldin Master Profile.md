@@ -1,36 +1,34 @@
 ---
-title: "Lee Zeldin"
+title: Lee Zeldin
 type: politician
 content-readiness: ready
 central-thesis: "Lee Zeldin's EPA appointment is the donor-to-deregulation pipeline in its most transparent form. Congressional career: oil and gas industry donated $410K+, Koch Industries $60K+. Post-government: Leonard Leo's CRC Advisors paid him $3K+ for fossil..."
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Cabinet"
+party: Republican
+chamber: Cabinet
 issues:
-  - "Environment"
-  - "Housing"
-top-donors:
-  - "Leonard Leo"
-  - "Koch Network - Charles Koch"
+  - Environment
+  - Housing
+top-donors: "[[DCCC]], [[Leonard Leo]], [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]], [[Koch Network - Charles Koch]], [[HOUSE MAJORITY PAC]]"
 govtrack-id: 412646
 bills-sponsored: 0
 bills-cosponsored: 0
-total-received: "$781,455"
-fec-candidate-id: "H8NY01148"
+total-received: $781,455
+fec-candidate-id: H8NY01148
 source-types:
   - FEC
   - GovTrack
 corroboration-count: 2
 known-gaps:
-  - "No legislative record from Congress.gov"
-  - "No mapped relationships"
+  - No legislative record from Congress.gov
+  - No mapped relationships
 related: "[[_Donald Trump Master Profile]] · [[_Doug Burgum Master Profile]] · [[Leonard Leo]] · [[Koch Network - Charles Koch|Koch Network]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
-wikidata-id: "Q16221257"
+wikidata-id: Q16221257
 last-enriched: "2026-04-10"
-wikipedia-url: "https://en.wikipedia.org/wiki/Lee_Zeldin"
-wikipedia-extract: "Lee Michael Zeldin is an American politician and lawyer serving as the 17th administrator of the Environmental Protection Agency (EPA) since January 2025."
+wikipedia-url: https://en.wikipedia.org/wiki/Lee_Zeldin
+wikipedia-extract: Lee Michael Zeldin is an American politician and lawyer serving as the 17th administrator of the Environmental Protection Agency (EPA) since January 2025.
 born: "1980-01-30"
 ---
 

@@ -1,43 +1,38 @@
 ---
-title: "Lockheed Martin"
+title: Lockheed Martin
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Defense & Intelligence"
-entity-type: "Corporation"
-politicians-funded:
-  - "Kay Granger"
-  - "Ken Calvert"
-  - "Mike Rogers"
+sector: Defense & Intelligence
+entity-type: Corporation
+politicians-funded: "[[Roger Wicker]], [[Jack Reed]], [[Mike Rogers]], [[Rosa DeLauro]], [[Adam Smith]], [[Tammy Duckworth]], [[Tom Cole]], [[Lindsey Graham]], [[Colin Powell]], [[Ken Calvert]], [[Kay Granger]]"
 issues:
-  - "Defense & Military"
+  - Defense & Military
 federal-awards-total: 51259703736
 federal-contracts-count: 25
 federal-grants-count: 25
 ein: 946107683
-annual-revenue: "$137K"
-net-assets: "$74K"
+annual-revenue: $137K
+net-assets: $74K
 tax-year: "2014"
-lei: "DPRBOZP0K5RM2YE8UU08"
-lei-jurisdiction: "US-MD"
+lei: DPRBOZP0K5RM2YE8UU08
+lei-jurisdiction: US-MD
 subawards-issued: 50
 subawards-issued-amount: 2946802998
 subawards-received: 50
 subawards-received-amount: 2946802998
-top-federal-agency: "National Aeronautics and Space Administration"
+top-federal-agency: National Aeronautics and Space Administration
 top-naics-code: "561990"
 related: "[[Palantir Technologies]] · [[Think Tank Capture - Foreign Governments Writing US Policy]] · [[Defense Contractor 450000 Percent ROI]] · [[Northrop Grumman]] · [[Palantir Technologies Political Operation]] · [[Boeing Defense]] · [[Raytheon Technologies]] · [[General Dynamics]] · [[Booz Allen Hamilton]] · [[Raytheon (RTX Corporation)]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Lockheed Martin Buys Defense Hawks in Both Parties]] · [[South Carolina 2026 Senate Race]] · [[Defense Contractor Conflicts and Stock Holdings]] · [[The Secretary of State and Sugar-Defense-Israel Donor Triangle]] · [[The China Hawk and National Security State]] · [[The National Security Hawk and Arkansas Defense]] · [[The Defense-China Hawk and the Military-Industrial Alignment]] · [[The Moderate Brand as Donor Strategy]] · [[The Defense Appropriations Pipeline - Mississippi Military Spending]] · [[Lindsey Graham Master Profile]] · [[The Agriculture-Defense Dual Donor Axis]] · [[_Kay Granger Master Profile]] · [[_Ken Calvert Master Profile]] · [[_Mike Rogers Master Profile]] · [[Americans for Prosperity]] · [[Donor Registry - Master Index]] · [[Defense Industry Bloc]] · [[The Judiciary-Finance Dual Pipeline and Texas Defense]] · [[Koch Industries]] · [[Eli Lilly]] · [[ExxonMobil]] · [[WSPA - Western States Petroleum Association]] · [[Valero Energy]] · [[Merck]] · [[Novo Nordisk]] · [[Moderna]] · [[Johnson & Johnson]] · [[Gilead Sciences]] · [[Centene Corporation]] · [[AbbVie]]"
 ftc-enforcement-actions: 2
 ftc-hsr-notices: 23
 last-enriched: "2026-04-10"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 cross-vault-triangulation-count: 24
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

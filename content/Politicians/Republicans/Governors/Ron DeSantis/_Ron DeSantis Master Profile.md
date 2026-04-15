@@ -2,25 +2,16 @@
 title: Ron DeSantis
 type: politician
 content-readiness: ready
-central-thesis: >-
-  DeSantis is the donor class's backup plan. When Trump became criminally
-  indicted and legally toxic heading into 2024, billionaires like Ken Griffin
-  ($5M+ to DeSantis's 2022 reelection), the Koch network, and Club for
-  Growth-aligned donors rallied ...
-last-updated: '2026-04-14'
+central-thesis: DeSantis is the donor class's backup plan. When Trump became criminally indicted and legally toxic heading into 2024, billionaires like Ken Griffin ($5M+ to DeSantis's 2022 reelection), the Koch network, and Club for Growth-aligned donors rallied ...
+last-updated: "2026-04-14"
 source-tier: 1
 parent: null
 party: Republican
 chamber: Governor
 state: Florida
 state-abbr: FL
-top-donors:
-  - Kenneth Griffin
-  - Koch Network - Charles Koch
-  - Fossil Fuel Bloc
-  - Club for Growth
-  - Lennar Corporation
-total-received: '$375,129'
+top-donors: "[[GOOD FIGHT]], [[READY TO WIN]], [[Kenneth Griffin]], [[Fossil Fuel Bloc]], [[Sfa Fund, Inc]], [[Club for Growth]], [[Walt Disney Company]], [[Koch Network - Charles Koch]], [[NEVER BACK DOWN INC.]], [[Lennar Corporation]], [[MAKE AMERICA GREAT AGAIN INC.]]"
+total-received: $375,129
 fec-candidate-id: P40013039
 source-types:
   - FEC
@@ -29,14 +20,9 @@ known-gaps:
   - No voting record data
   - No mapped relationships
 executive-actions: 25
-last-enriched: '2026-04-10'
-opposes: '[[SFA FUND, INC]] · [[MAKE AMERICA GREAT AGAIN INC.]]'
-related: >-
-  [[_Donald Trump Master Profile]] · [[Kenneth Griffin]] · [[Koch Network -
-  Charles Koch]] · [[Peter Thiel]] · [[Elon Musk]] · [[_Gavin Newsom Master
-  Profile]] · [[The $150 Million Collapse - When Donor Money Can't Buy a
-  Primary]] · [[The Disney War and the Limits of Culture War Governance]] ·
-  [[Rand Paul Master Profile]]
+last-enriched: "2026-04-10"
+opposes: "[[SFA FUND, INC]] · [[MAKE AMERICA GREAT AGAIN INC.]]"
+related: "[[_Donald Trump Master Profile]] · [[Kenneth Griffin]] · [[Koch Network - Charles Koch]] · [[Peter Thiel]] · [[Elon Musk]] · [[_Gavin Newsom Master Profile]] · [[The $150 Million Collapse - When Donor Money Can't Buy a Primary]] · [[The Disney War and the Limits of Culture War Governance]] · [[Rand Paul Master Profile]]"
 opensanctions-status: pep
 opensanctions-matches: 1
 opensanctions-datasets:
@@ -47,9 +33,9 @@ opensanctions-datasets:
   - us_plural_legislators
   - wikidata
   - us_congress
-total-raised: '$375,129'
-total-spent: '$375,129'
-cash-on-hand: '0.00'
+total-raised: $375,129
+total-spent: $375,129
+cash-on-hand: "0.00"
 fec-cycle: 2024
 ---
 

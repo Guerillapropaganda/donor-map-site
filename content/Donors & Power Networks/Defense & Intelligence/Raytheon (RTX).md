@@ -1,41 +1,20 @@
 ---
-title: "Raytheon (RTX Corporation)"
+title: Raytheon (RTX Corporation)
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Defense & Intelligence"
-entity-type: "Corporation"
+sector: Defense & Intelligence
+entity-type: Corporation
 featured-date: "2026-04-10"
-spotlight-reason: "Highest reach in the database , funds 22 politicians across both parties. Board members cycle through Pentagon leadership. Defense budget hit $886B."
-shareable-stat: "22 politicians funded. Board-to-Pentagon pipeline. $886B defense budget."
-politicians-funded:
-  - "Donald Trump"
-  - "Lloyd Austin"
-  - "Mark Esper"
-  - "Mike Rogers"
-  - "Rob Wittman"
-  - "Adam Smith"
-  - "Salud Carbajal"
-  - "Seth Moulton"
-  - "Rosa DeLauro"
-  - "Hal Rogers"
-  - "Mike Simpson"
-  - "Mike Johnson"
-  - "Steve Scalise"
-  - "Hakeem Jeffries"
-  - "Katherine Clark"
-  - "Rick Scott"
-  - "Martin Heinrich"
-  - "Roger Wicker"
-  - "John Barrasso"
-  - "Mark Meadows"
-  - "Greg Gianforte"
+spotlight-reason: Highest reach in the database , funds 22 politicians across both parties. Board members cycle through Pentagon leadership. Defense budget hit $886B.
+shareable-stat: 22 politicians funded. Board-to-Pentagon pipeline. $886B defense budget.
+politicians-funded: "[[Adam Smith]], [[Rick Scott]], [[Hakeem Jeffries]], [[John Barrasso]], [[Steve Scalise]], [[Seth Moulton]], [[Lloyd Austin]], [[Martin Heinrich]], [[Mike Johnson]], [[Mike Rogers]], [[Mark Esper]], [[Roger Wicker]], [[Rosa DeLauro]], [[Donald Trump]]"
 issues:
-  - "Defense & Military"
-lei: "I07WOS4YJ0N7YRFE7309"
-lei-jurisdiction: "US-DE"
+  - Defense & Military
+lei: I07WOS4YJ0N7YRFE7309
+lei-jurisdiction: US-DE
 subawards-issued: 50
 subawards-issued-amount: 51876611853
 subawards-received: 50

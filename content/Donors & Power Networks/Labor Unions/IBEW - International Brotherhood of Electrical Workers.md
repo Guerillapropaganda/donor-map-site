@@ -1,36 +1,30 @@
 ---
-title: "IBEW - International Brotherhood of Electrical Workers"
+title: IBEW - International Brotherhood of Electrical Workers
 type: donor
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Labor Unions"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Donna Miller"
-  - "Stephen Miller"
-  - "Rand Paul"
-  - "Bennie Thompson"
-  - "Glenn Thompson"
-  - "Rick Larsen"
+sector: Labor Unions
+entity-type: Individual Donor
+politicians-funded: "[[Glenn Thompson]], [[Rand Paul]], [[Donna Miller]], [[Bennie Thompson]], [[Stephen Miller]], [[Rick Larsen]]"
 issues:
-  - "Labor & Workers"
-  - "Infrastructure"
+  - Labor & Workers
+  - Infrastructure
 federal-register-mentions: 6
 last-enriched: "2026-04-09"
 regulatory-agencies:
-  - "Federal Railroad Administration"
-  - "Labor Department"
-  - "Nuclear Regulatory Commission"
-  - "Occupational Safety and Health Administration"
-  - "Transportation Department"
+  - Federal Railroad Administration
+  - Labor Department
+  - Nuclear Regulatory Commission
+  - Occupational Safety and Health Administration
+  - Transportation Department
 ein: "611602482"
-nonprofit-status: "501(c)(5)"
-total-political-spend: "$4,861,275"
+nonprofit-status: 501(c)(5)
+total-political-spend: $4,861,275
 related: "[[Bernie Sanders Master Profile]] · [[Glenn Thompson]] · [[Senate Labor Record and Anti-DOGE Resistance]] · [[VP Labor Record - What Unions Got and Didn't Get]] · [[Rick Larsen]] · [[Legislative Record as Speaker]] · [[Bennie Thompson]] · [[Nancy Pelosi Master Profile]] · [[IBEW Local 477 - San Bernardino]] · [[IBEW Local 440 - Riverside]] · [[IBEW California State Association]] · [[California Building and Construction Trades Council]] · [[_Gavin Newsom Master Profile]] · [[_Donald Trump Master Profile]] · [[PG&E]] · [[California Labor Federation]] · [[Fossil Fuel Deregulation - The Climate Donors]] · [[Kamala Harris Master Profile]] · [[Koch Network - Charles Koch]] · [[Elon Musk]]"
-lei: "984500ACFC0ND2E37927"
-lei-jurisdiction: "CA"
+lei: 984500ACFC0ND2E37927
+lei-jurisdiction: CA
 cross-vault-triangulation-count: 18
 audit-a-plus-passed: "2026-04-11"
 ---

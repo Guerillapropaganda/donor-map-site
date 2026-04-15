@@ -1,46 +1,45 @@
 ---
-title: "Occidental Petroleum"
+title: Occidental Petroleum
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Energy & Utilities"
-entity-type: "Corporation"
-lei: "IM7X0T3ECJW4C1T7ON55"
-lei-jurisdiction: "US-DE"
+sector: Energy & Utilities
+entity-type: Corporation
+lei: IM7X0T3ECJW4C1T7ON55
+lei-jurisdiction: US-DE
 related: "[[Valero Energy]] · [[Kevin McCarthy Master Profile]] · [[Marathon Petroleum]] · [[The Energy Committee and Houston Petrochemical Pipeline]] · [[Environment - Donors and Backers]] · [[WSPA - Western States Petroleum Association]] · [[PG&E - Pacific Gas and Electric]] · [[Holland & Knight]] · [[Koch Industries]] · [[ConocoPhillips]] · [[Devon Energy]] · [[Halliburton]] · [[ExxonMobil]] · [[Chevron]] · [[NextEra Energy]] · [[Southern Company]] · [[Duke Energy]] · [[Raytheon (RTX Corporation)]] · [[Palantir Technologies]] · [[Palantir Technologies Political Operation]] · [[Eli Lilly]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Johnson & Johnson]] · [[Gilead Sciences]]"
 court-cases: 2807
 last-enriched: "2026-04-09"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 court-jurisdictions:
-  - "Court of Appeals for the Fifth Circuit"
-  - "Court of Appeals for the First Circuit"
-  - "Court of Appeals for the Ninth Circuit"
-  - "District Court, C.D. California"
-  - "District Court, D. Colorado"
-  - "District Court, D. Minnesota"
-  - "District Court, D. New Jersey"
-  - "District Court, D. New Mexico"
-  - "District Court, N.D. California"
-  - "District Court, N.D. Illinois"
+  - Court of Appeals for the Fifth Circuit
+  - Court of Appeals for the First Circuit
+  - Court of Appeals for the Ninth Circuit
+  - District Court, C.D. California
+  - District Court, D. Colorado
+  - District Court, D. Minnesota
+  - District Court, D. New Jersey
+  - District Court, D. New Mexico
+  - District Court, N.D. California
+  - District Court, N.D. Illinois
 federal-register-mentions: 87
 regulatory-agencies:
-  - "Antitrust Division"
-  - "Employee Benefits Security Administration"
-  - "Energy Department"
-  - "Federal Energy Regulatory Commission"
-  - "Federal Trade Commission"
-  - "Fish and Wildlife Service"
-  - "Interior Department"
-  - "Justice Department"
-  - "Labor Department"
-  - "Land Management Bureau"
+  - Antitrust Division
+  - Employee Benefits Security Administration
+  - Energy Department
+  - Federal Energy Regulatory Commission
+  - Federal Trade Commission
+  - Fish and Wildlife Service
+  - Interior Department
+  - Justice Department
+  - Labor Department
+  - Land Management Bureau
 cross-vault-triangulation-count: 15
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+politicians-funded: "[[Kevin McCarthy]]"
 ---
 
 <!-- auto:data-panel start -->

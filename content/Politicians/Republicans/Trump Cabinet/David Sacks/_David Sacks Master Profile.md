@@ -1,25 +1,22 @@
 ---
-title: "David Sacks"
+title: David Sacks
 type: politician
 content-readiness: draft
-central-thesis: "Sacks is the PayPal Mafia's man in government , a tech VC (Craft Ventures) who went from funding companies to funding deregulation of the industries he's invested in. His AI/Crypto Czar role puts a venture capitalist in charge of regulating the te..."
-last-updated: 2026-04-09
+central-thesis: Sacks is the PayPal Mafia's man in government , a tech VC (Craft Ventures) who went from funding companies to funding deregulation of the industries he's invested in. His AI/Crypto Czar role puts a venture capitalist in charge of regulating the te...
+last-updated: 2026-04-09T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Cabinet"
+party: Republican
+chamber: Cabinet
 issues:
-  - "Technology"
-top-donors:
-  - "Elon Musk"
-  - "Peter Thiel"
-  - "Craft Ventures"
+  - Technology
+top-donors: "[[Marc Andreessen & Horowitz]], [[Peter Thiel]], [[World Liberty Financial]], [[Narya Capital]], [[Trump 2024 Campaign]], [[Craft Ventures]], [[Silicon Valley Donors]], [[Elon Musk]], [[Crypto Industry Bloc]], [[Founders Fund]], [[Palantir Technologies]]"
 source-types:
   - FEC
 known-gaps:
-  - "No legislative record from Congress.gov"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No legislative record from Congress.gov
+  - No voting record data
+  - No mapped relationships
 related: "[[_Donald Trump Master Profile]] · [[Peter Thiel]] · [[Elon Musk]] · [[_JD Vance Master Profile]] · [[Crypto Industry Bloc]]"
 ---
 

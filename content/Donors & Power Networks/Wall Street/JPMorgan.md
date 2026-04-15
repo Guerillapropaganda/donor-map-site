@@ -1,72 +1,73 @@
 ---
-title: "JPMorgan Chase"
+title: JPMorgan Chase
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Wall Street"
-entity-type: "Corporation"
+sector: Wall Street
+entity-type: Corporation
 issues:
-  - "Wall Street & Finance"
+  - Wall Street & Finance
 lobbying-spend: 9800000
 lobbying-filings: 56
 sec-filings: 10000
 sec-form-types:
-  - "13F-HR"
-  - "424B2"
-  - "424B3"
-  - "ARS"
-  - "EX-10.17"
-  - "EX-10.2"
-  - "EX-2.1"
-  - "EX-4.3"
-  - "EX-5.35"
-  - "EX-99.1"
-  - "EX-99.13"
-  - "N-CEN"
-  - "N-CEN/A"
-  - "N-CSRS"
-  - "N-Q"
-  - "NPORT-EX"
-  - "NPORT-P"
-  - "NPORT-P/A"
-  - "POSASR"
-  - "S-4"
-  - "SC 13D/A"
+  - 13F-HR
+  - 424B2
+  - 424B3
+  - ARS
+  - EX-10.17
+  - EX-10.2
+  - EX-2.1
+  - EX-4.3
+  - EX-5.35
+  - EX-99.1
+  - EX-99.13
+  - N-CEN
+  - N-CEN/A
+  - N-CSRS
+  - N-Q
+  - NPORT-EX
+  - NPORT-P
+  - NPORT-P/A
+  - POSASR
+  - S-4
+  - SC 13D/A
 ein: "237049738"
-annual-revenue: "$155.8M"
-net-assets: "$442.1M"
+annual-revenue: $155.8M
+net-assets: $442.1M
 tax-year: "2023"
 subawards-issued: 50
 subawards-issued-amount: 1009778941592127500
 subawards-received: 50
 subawards-received-amount: 1009778941592127500
-top-federal-agency: "Pension Benefit Guaranty Corporation"
+top-federal-agency: Pension Benefit Guaranty Corporation
 top-naics-code: "523930"
 federal-register-mentions: 395
 last-enriched: "2026-04-11"
 regulatory-agencies:
-  - "Comptroller of the Currency"
-  - "Consumer Financial Protection Bureau"
-  - "Employee Benefits Security Administration"
-  - "Federal Deposit Insurance Corporation"
-  - "Federal Reserve System"
-  - "Federal Trade Commission"
-  - "Labor Department"
-  - "National Credit Union Administration"
-  - "Neighborhood Reinvestment Corporation"
-  - "Securities and Exchange Commission"
+  - Comptroller of the Currency
+  - Consumer Financial Protection Bureau
+  - Employee Benefits Security Administration
+  - Federal Deposit Insurance Corporation
+  - Federal Reserve System
+  - Federal Trade Commission
+  - Labor Department
+  - National Credit Union Administration
+  - Neighborhood Reinvestment Corporation
+  - Securities and Exchange Commission
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-lei: "8I5DZWZKVSZI1NUHU748"
-lei-jurisdiction: "US-DE"
-nonprofit-status: "501(c)(3)"
+lei: 8I5DZWZKVSZI1NUHU748
+lei-jurisdiction: US-DE
+nonprofit-status: 501(c)(3)
 total-revenue: 2245488721
 total-assets: 1219377637
 related: "[[The Wall Street Senator - Finance Industry Alignment]] · [[John Boehner]] · [[The Whiteboard Populism and Legislative Limits]] · [[The Judiciary Committee and Criminal Justice Reform Limits]] · [[The Delaware Corporate Senator - Biden's Legislative Lieutenant]] · [[Joe Biden Master Profile]] · [[Barack Obama Master Profile]] · [[The Bank Bailout and the Prosecution That Never Came]] · [[The Ways and Means Gavel and Corporate Tax Architecture]] · [[Melissa Bean's Corporate Background]] · [[The Financial Services Committee and Wall Street Oversight]] · [[The Wall Street Democrat - Goldman Sachs to Congress Pipeline]] · [[The Foreign Affairs Committee and Wall Street-Queens Axis]] · [[Brookings Institution]] · [[The Shared Sponsor Map , Corporate Advertisers Funding Both Left and Right Political Media]] · [[Ballard Partners]] · [[Charles Schwab]] · [[Paul Ryan]] · [[Cory Booker]] · [[Goldman Sachs - Wall Street Titan]] · [[BlackRock]] · [[Blackstone Group]] · [[Wall Street Finance PACs]] · [[Morgan Stanley]] · [[Bank of America]] · [[Wells Fargo]] · [[Goldman Sachs]] · [[Citigroup]] · [[Wall Street Finance Networks]] · [[_Chuck Schumer Master Profile]] · [[_French Hill Master Profile]] · [[PhRMA]] · [[The Wall Street-Schumer Funding Axis]] · [[Wall Street Bloc]] · [[Goldman Sachs , The Government Sachs Alumni Network]] · [[Financial Services Donors]] · [[Citadel - Kenneth Griffin]] · [[CalPERS]] · [[Tim Geithner]] · [[Business Roundtable]]"
 cross-vault-triangulation-count: 33
 audit-a-plus-passed: "2026-04-11"
+politicians-funded: "[[John Boehner]], [[Cory Booker]], [[Barack Obama]], [[Joe Biden]], [[Paul Ryan]]"
 ---
 
 <!-- auto:data-panel start -->

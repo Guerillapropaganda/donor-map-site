@@ -1,47 +1,45 @@
 ---
-title: "Amy Klobuchar"
+title: Amy Klobuchar
 type: politician
 content-readiness: ready
-central-thesis: "Amy Klobuchar is the Senate's antitrust brand , and the brand is the product. Her antitrust subcommittee chairmanship gives her jurisdiction over the largest corporations in America. Her legislative proposals would meaningfully constrain Big Tech'..."
-last-updated: 2026-04-13
+central-thesis: Amy Klobuchar is the Senate's antitrust brand , and the brand is the product. Her antitrust subcommittee chairmanship gives her jurisdiction over the largest corporations in America. Her legislative proposals would meaningfully constrain Big Tech'...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "Senate"
-state: "Minnesota"
-state-abbr: "MN"
+party: Democrat
+chamber: Senate
+state: Minnesota
+state-abbr: MN
 committees:
-  - "Antitrust (Judiciary)"
-  - "Judiciary"
-  - "Agriculture"
+  - Antitrust (Judiciary)
+  - Judiciary
+  - Agriculture
 issues:
-  - "Agriculture and Food"
-  - "Armed Forces and National Security"
-  - "Commerce"
-  - "Crime and Law Enforcement"
-  - "Education"
-  - "Finance and Financial Sector"
-  - "Foreign Trade and International Finance"
-  - "Government Operations and Politics"
-  - "Health"
-  - "Housing and Community Development"
+  - Agriculture and Food
+  - Armed Forces and National Security
+  - Commerce
+  - Crime and Law Enforcement
+  - Education
+  - Finance and Financial Sector
+  - Foreign Trade and International Finance
+  - Government Operations and Politics
+  - Health
+  - Housing and Community Development
 top-donors:
-  - "Google - Alphabet"
-  - "Amazon"
-  - "Goldman Sachs"
-  - "Apple"
-  - "Meta - Facebook"
-total-received: "$2,401,862"
-fec-candidate-id: "S6MN00267"
-donors: "[[Jewish Democratic Council of America]] · [[Fraternal Order of Police]]"
+  - Google - Alphabet
+  - Amazon
+  - Goldman Sachs
+  - Apple
+  - Meta - Facebook
+total-received: $2,401,862
+fec-candidate-id: S6MN00267
+donors: "[[Jewish Democratic Council of America]] · [[Fraternal Order of Police]] · [[Goldman Sachs]] · [[Google - Alphabet]] · [[Meta - Facebook]] · [[United Breast Cancer Support Pac]] · [[Apple]] · [[Amazon]]"
 related: "[[Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides]] · [[_Chuck Grassley Master Profile|Grassley]] · [[_Chuck Schumer Master Profile|Schumer]] · [[Google - Alphabet]] · [[Amazon]] · [[Meta - Facebook]] · [[Apple]] · [[Microsoft]] · [[Goldman Sachs]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Google]] · [[Meta]] · [[Michael Bloomberg]]"
 last-enriched: "2026-04-11"
 needs-reenrichment: true
-reenrich-reason: "re-run fec pipeline"
-internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC-CANDIDATE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-bioguide-id: "K000367"
+reenrich-reason: re-run fec pipeline
+internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • FEC-CANDIDATE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+bioguide-id: K000367
 ---
 
 <!-- auto:data-panel start -->

@@ -1,49 +1,47 @@
 ---
-title: "Jack Reed"
+title: Jack Reed
 type: politician
 content-readiness: ready
-central-thesis: "Jack Reed is the military-industrial complex's most credentialed Democrat. West Point, Army Ranger, 82nd Airborne, Harvard Kennedy School, Harvard Law — the CV is impeccable. He parlayed it into the Senate's most important defense position, where ..."
-last-updated: 2026-04-15
+central-thesis: Jack Reed is the military-industrial complex's most credentialed Democrat. West Point, Army Ranger, 82nd Airborne, Harvard Kennedy School, Harvard Law — the CV is impeccable. He parlayed it into the Senate's most important defense position, where ...
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "Senate"
-state: "Rhode Island"
-state-abbr: "RI"
+party: Democrat
+chamber: Senate
+state: Rhode Island
+state-abbr: RI
 committees:
-  - "Armed Services"
+  - Armed Services
 leadership-roles:
-  - "Ranking Member"
+  - Ranking Member
 issues:
-  - "Armed Forces and National Security"
-  - "Congress"
-  - "Education"
-  - "Finance and Financial Sector"
-  - "Government Operations and Politics"
-  - "Health"
-  - "International Affairs"
-  - "Taxation"
-  - "Transportation and Public Works"
+  - Armed Forces and National Security
+  - Congress
+  - Education
+  - Finance and Financial Sector
+  - Government Operations and Politics
+  - Health
+  - International Affairs
+  - Taxation
+  - Transportation and Public Works
 top-donors:
-  - "Lockheed Martin"
-  - "Boeing"
+  - Lockheed Martin
+  - Boeing
 stock-trades: 1
-fec-candidate-id: "S6RI00163"
-donors: "[[General Dynamics]] · [[NORPAC]]"
+fec-candidate-id: S6RI00163
+donors: "[[General Dynamics]] · [[NORPAC]] · [[Planned Parenthood Votes]] · [[Lockheed Martin]] · [[National Republican Senatorial Committee]] · [[Boeing]] · [[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]]"
 related: "[[General Dynamics]] · [[_Roger Wicker Master Profile|Wicker]] · [[Lockheed Martin]] · [[Boeing]]"
 last-enriched: "2026-04-11"
 needs-reenrichment: true
-reenrich-reason: "re-run congress pipeline"
+reenrich-reason: re-run congress pipeline
 govtrack-id: 300081
 bills-sponsored: 35
 bills-cosponsored: 238
-website: "https://www.reed.senate.gov"
-phone: "202-224-4642"
-bioguide-id: "R000122"
-internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
-  • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-total-received: "$3,297,809"
+website: https://www.reed.senate.gov
+phone: 202-224-4642
+bioguide-id: R000122
+internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+total-received: $3,297,809
 ---
 
 <!-- auto:data-panel start -->

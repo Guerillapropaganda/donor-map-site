@@ -1,36 +1,32 @@
 ---
-title: "Mario Diaz-Balart"
+title: Mario Diaz-Balart
 type: politician
-bioguide-id: "D000600"
+bioguide-id: D000600
 content-readiness: ready
-central-thesis: "Diaz-Balart is the legislative architect of the Cuba embargo's permanence. His Appropriations position — specifically the NSRP subcommittee chairmanship — gives him direct control over State Department funding, Cuba democracy programs, Radio/TV Ma..."
-last-updated: 2026-04-13
+central-thesis: Diaz-Balart is the legislative architect of the Cuba embargo's permanence. His Appropriations position — specifically the NSRP subcommittee chairmanship — gives him direct control over State Department funding, Cuba democracy programs, Radio/TV Ma...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "House"
-state: "Florida"
-state-abbr: "FL"
+party: Republican
+chamber: House
+state: Florida
+state-abbr: FL
 district: "26"
 committees:
-  - "Appropriations"
+  - Appropriations
 issues:
-  - "Israel & Foreign Policy"
-  - "Defense & Military"
+  - Israel & Foreign Policy
+  - Defense & Military
 top-donors:
-  - "Fanjul Family - Florida Crystals"
-  - "AIPAC"
-donors: "[[MasTec - Mas Canosa Family]] · [[LARA Fund - Mauricio Claver-Carone]] · [[Bacardi - Bacardi USA]]"
+  - Fanjul Family - Florida Crystals
+  - AIPAC
+donors: "[[MasTec - Mas Canosa Family]] · [[LARA Fund - Mauricio Claver-Carone]] · [[Bacardi - Bacardi USA]] · [[NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE]] · [[Fanjul Family - Florida Crystals]] · [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]] · [[HOUSE MAJORITY PAC]]"
 related: "[[Real Estate Lobby Funds the Housing Crisis From Both Sides]] · [[_Marco Rubio Master Profile|Rubio]] · [[_Maria Elvira Salazar Master Profile|Salazar]] · [[_Carlos Gimenez Master Profile|Gimenez]] · [[_Donald Trump Master Profile|Trump]] · [[Fanjul Family - Florida Crystals]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
-total-received: "$1,175,788"
-fec-candidate-id: "H2FL25018"
+total-received: $1,175,788
+fec-candidate-id: H2FL25018
 needs-reenrichment: true
-reenrich-reason: "run voting pipeline; run congress pipeline; run pipelines"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-  • No last-enriched date is set. The pipelines have never touched this file.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: run voting pipeline; run congress pipeline; run pipelines
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

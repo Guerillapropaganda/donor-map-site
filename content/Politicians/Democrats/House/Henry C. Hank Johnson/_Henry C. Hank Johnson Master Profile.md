@@ -1,27 +1,28 @@
 ---
-title: "Henry C. Hank Johnson"
+title: Henry C. Hank Johnson
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Georgia"
-state-abbr: "GA"
+party: Democrat
+chamber: House
+state: Georgia
+state-abbr: GA
 district: "4"
-bioguide-id: "J000288"
+bioguide-id: J000288
 govtrack-id: 412199
 born: "1954-10-02"
-wikidata-id: "Q983537"
-website: "https://hankjohnson.house.gov"
-phone: "202-225-1605"
+wikidata-id: Q983537
+website: https://hankjohnson.house.gov
+phone: 202-225-1605
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
+top-donors: "[[Western Growers Association]]"
 ---
 
 

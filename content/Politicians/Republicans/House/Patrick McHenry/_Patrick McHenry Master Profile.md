@@ -1,33 +1,30 @@
 ---
-title: "Patrick McHenry"
+title: Patrick McHenry
 type: politician
 content-readiness: ready
 central-thesis: "Patrick McHenry's congressional career is the perfected architecture of Wall Street legislative capture: a Congressman who spent 20 years writing financial regulation that explicitly benefited his donors, then cashed out to those same donors' firm..."
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "House"
-state: "North Carolina"
-state-abbr: "NC"
+party: Republican
+chamber: House
+state: North Carolina
+state-abbr: NC
 district: "10"
 issues:
-  - "Congress"
-  - "Crime and Law Enforcement"
-  - "Economics and Public Finance"
-  - "Education"
-  - "Energy"
-  - "Environmental Protection"
-  - "Finance and Financial Sector"
-  - "Foreign Trade and International Finance"
-  - "Government Operations and Politics"
-  - "Health"
-top-donors:
-  - "Securities & Investment Industry"
-  - "Kenneth Griffin"
-  - "Crypto Industry Bloc"
-total-received: "$2,203,814"
-fec-candidate-id: "H4NC10047"
+  - Congress
+  - Crime and Law Enforcement
+  - Economics and Public Finance
+  - Education
+  - Energy
+  - Environmental Protection
+  - Finance and Financial Sector
+  - Foreign Trade and International Finance
+  - Government Operations and Politics
+  - Health
+top-donors: "[[CRYPTO INNOVATION]], [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]], [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]], [[Securities & Investment Industry]], [[Kenneth Griffin]], [[FAIRSHAKE]], [[Crypto Industry Bloc]]"
+total-received: $2,203,814
+fec-candidate-id: H4NC10047
 last-enriched: "2026-04-10"
 source-types:
   - Congress
@@ -35,13 +32,13 @@ source-types:
   - FEC
 corroboration-count: 3
 known-gaps:
-  - "No voting record data"
-  - "No mapped relationships"
+  - No voting record data
+  - No mapped relationships
 govtrack-id: 400644
 bills-sponsored: 124
 bills-cosponsored: 1487
 related: "[[_Donald Trump Master Profile]] · [[_Mike Johnson Master Profile]] · [[Crypto Industry Bloc|Crypto Industry Bloc]] · [[Citadel - Kenneth Griffin|Kenneth Griffin]] · [[Apollo Global Management]]"
-bioguide-id: "M001156"
+bioguide-id: M001156
 ---
 
 <!-- auto:data-panel start -->

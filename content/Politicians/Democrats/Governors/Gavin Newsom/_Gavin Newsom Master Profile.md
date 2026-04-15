@@ -2,12 +2,8 @@
 title: Gavin Newsom
 type: politician
 content-readiness: ready
-central-thesis: >-
-  Newsom is the perfect specimen of the donor-class Democrat: genuinely
-  progressive on social and cultural issues (immigration, LGBTQ rights,
-  abortion, gun control), reliably capital-aligned on economic structure (taxes
-  on wealth, corporate subsidie...
-last-updated: '2026-04-14'
+central-thesis: "Newsom is the perfect specimen of the donor-class Democrat: genuinely progressive on social and cultural issues (immigration, LGBTQ rights, abortion, gun control), reliably capital-aligned on economic structure (taxes on wealth, corporate subsidie..."
+last-updated: "2026-04-14"
 source-tier: 1
 parent: null
 party: Democrat
@@ -16,40 +12,15 @@ state: California
 state-abbr: CA
 issues:
   - Technology
-top-donors:
-  - Elon Musk
-  - Michael Bloomberg
-  - Haim Saban
-  - SEIU - Service Employees International Union
-  - CNA - California Nurses Association
-  - AIPAC - American Israel Public Affairs Committee
-  - Blue Shield of California
-  - UnitedHealth Group - Optum
-  - Kaiser Permanente
-  - Lennar Corporation
-  - National Association of Realtors
+top-donors: "[[California Nurses Association]], [[Chevron]], [[Lyft]], [[Lennar Corporation]], [[Western States Petroleum Association]], [[JPAC - Jewish Public Affairs Committee of California]], [[IBEW California State Association]], [[Dustin Moskovitz]], [[California Restaurant Association]], [[George Soros]], [[Elon Musk]], [[Eli Broad Foundation]], [[CalSTRS - California State Teachers' Retirement System]], [[Koch Network - Charles Koch]], [[Teamsters - International Brotherhood of Teamsters]], [[PG&E - Pacific Gas and Electric]], [[National Association of Realtors]], [[Kaiser Permanente]], [[Agricultural Labor Vulnerability Donors]], [[Open Society Foundations]], [[Anthem - Elevance Health]], [[California Building and Construction Trades Council]], [[Michael Bloomberg]], [[Reid Hoffman]], [[CTA - California Teachers Association]], [[California Apartment Association]], [[SEIU - Service Employees International Union]], [[UFCW - United Food and Commercial Workers]], [[Bail Bond Industry]], [[California Labor Federation]], [[DoorDash]], [[AIPAC - American Israel Public Affairs Committee]], [[GEO Group - Private Prison Industrial Complex]], [[Uber]], [[Real Estate Development Industry Bloc]], [[CNA - California Nurses Association]], [[UnitedHealth Group - Optum]], [[CCPOA - California Correctional Peace Officers Association]], [[Civica Rx]], [[Fossil Fuel Bloc]], [[CoreCivic]], [[PG&E]], [[JCRC Bay Area]], [[PORAC - Peace Officers Research Association of California]], [[Blue Shield of California]], [[WSPA - Western States Petroleum Association]], [[Haim Saban]], [[CalPERS]], [[California Charter Schools Association]]"
 known-gaps:
   - No FEC contribution data
   - No legislative record from Congress.gov
   - No voting record data
   - No mapped relationships
 executive-actions: 10
-last-enriched: '2026-04-09'
-related: >-
-  [[_Donald Trump Master Profile]] · [[_Chad Bianco Master Profile]] · [[_Kamala
-  Harris Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[_Bernie Sanders
-  Master Profile]] · [[_Josh Shapiro Master Profile|Josh Shapiro]] · [[_Pete
-  Buttigieg Master Profile|Pete Buttigieg]] · [[Gretchen Whitmer]] ·
-  [[_Alexandria Ocasio-Cortez Master Profile|Alexandria Ocasio-Cortez]] ·
-  [[PG&E]] · [[Blue Shield of California]] · [[UnitedHealth Group - Optum]] ·
-  [[Kaiser Permanente]] · [[CCPOA - California Correctional Peace Officers
-  Association]] · [[California Restaurant Association]] · [[Uber]] · [[Lyft]] ·
-  [[DoorDash]] · [[Haim Saban]] · [[CTA - California Teachers Association]] ·
-  [[Chevron]] · [[IBEW Local 477 - San Bernardino|IBEW Local 477]] · [[SEIU -
-  Service Employees International Union]] · [[CNA - California Nurses
-  Association]] · [[California Labor Federation]] · [[California Building and
-  Construction Trades Council]] · [[Elon Musk]] · [[Michael Bloomberg]] · [[Koch
-  Network - Charles Koch]] · [[Ron DeSantis Master Profile]]
+last-enriched: "2026-04-09"
+related: "[[_Donald Trump Master Profile]] · [[_Chad Bianco Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Josh Shapiro Master Profile|Josh Shapiro]] · [[_Pete Buttigieg Master Profile|Pete Buttigieg]] · [[Gretchen Whitmer]] · [[_Alexandria Ocasio-Cortez Master Profile|Alexandria Ocasio-Cortez]] · [[PG&E]] · [[Blue Shield of California]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[CCPOA - California Correctional Peace Officers Association]] · [[California Restaurant Association]] · [[Uber]] · [[Lyft]] · [[DoorDash]] · [[Haim Saban]] · [[CTA - California Teachers Association]] · [[Chevron]] · [[IBEW Local 477 - San Bernardino|IBEW Local 477]] · [[SEIU - Service Employees International Union]] · [[CNA - California Nurses Association]] · [[California Labor Federation]] · [[California Building and Construction Trades Council]] · [[Elon Musk]] · [[Michael Bloomberg]] · [[Koch Network - Charles Koch]] · [[Ron DeSantis Master Profile]]"
 ---
 
 <!-- auto:data-panel start -->

@@ -1,26 +1,27 @@
 ---
-title: "Ruben Gallego"
+title: Ruben Gallego
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "Senate"
-state: "Arizona"
-state-abbr: "AZ"
-bioguide-id: "G000574"
+party: Democrat
+chamber: Senate
+state: Arizona
+state-abbr: AZ
+bioguide-id: G000574
 govtrack-id: 412612
 born: "1979-11-20"
-wikidata-id: "Q16218474"
-website: "https://www.gallego.senate.gov"
-phone: "202-224-4521"
+wikidata-id: Q16218474
+website: https://www.gallego.senate.gov
+phone: 202-224-4521
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
+top-donors: "[[Fairshake PAC]]"
 ---
 
 

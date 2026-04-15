@@ -1,43 +1,37 @@
 ---
-title: "Mohammed bin Salman"
+title: Mohammed bin Salman
 type: donor
 content-readiness: draft
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Foreign Influence"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Jared Kushner"
-  - "Donald Trump"
-  - "Bernie Sanders"
+sector: Foreign Influence
+entity-type: Individual Donor
+politicians-funded: "[[Jared Kushner]], [[Donald Trump]], [[Bernie Sanders]]"
 sec-filings: 31
 sec-form-types:
-  - "10-Q"
-  - "424B5"
+  - 10-Q
+  - 424B5
   - "425"
-  - "EX-99"
-  - "EX-99.1"
-  - "EX-99.4"
-  - "EX-99.D"
-  - "EX-99.D-1"
-  - "EX-99.D-2"
-  - "EX-99.D-3"
-  - "EX-99.D-4"
-  - "EX-99.D-5"
-  - "FWP"
-  - "N-CSR"
-  - "PX14A6G"
+  - EX-99
+  - EX-99.1
+  - EX-99.4
+  - EX-99.D
+  - EX-99.D-1
+  - EX-99.D-2
+  - EX-99.D-3
+  - EX-99.D-4
+  - EX-99.D-5
+  - FWP
+  - N-CSR
+  - PX14A6G
 related: "[[Saudi Arabia - Kingdom Investment]] · [[_Jared Kushner Master Profile]] · [[_Donald Trump Master Profile]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Haim Saban]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Christians United for Israel]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[JCRC Bay Area]] · [[J Street]] · [[American Friends of the Likud]] · [[Blue Shield of California]] · [[Anthem - Elevance Health]] · [[American Gaming Association]] · [[United Arab Emirates - Influence Operation]] · [[Turkey - Erdogan Lobbying Operation]]"
-lei: "2549005BTTUZTS9QQP67"
-lei-jurisdiction: "SA"
+lei: 2549005BTTUZTS9QQP67
+lei-jurisdiction: SA
 cross-vault-triangulation-count: 7
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline; run pipelines"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-  • No last-enriched date is set. The pipelines have never touched this file.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: run fec pipeline; run pipelines
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

@@ -1,29 +1,29 @@
 ---
-title: "AbbVie"
+title: AbbVie
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Pharma & Healthcare"
-entity-type: "Corporation"
+sector: Pharma & Healthcare
+entity-type: Corporation
 issues:
-  - "Healthcare"
+  - Healthcare
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-11"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 subawards-issued: 50
 subawards-issued-amount: 1009778941592127500
 subawards-received: 50
 subawards-received-amount: 1009778941592127500
-top-federal-agency: "Department of Defense"
+top-federal-agency: Department of Defense
 top-naics-code: "423450"
-lei: "5493003YLH4WVSPWMC20"
-lei-jurisdiction: "BE"
+lei: 5493003YLH4WVSPWMC20
+lei-jurisdiction: BE
 ein: "460827839"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 total-revenue: 67617104
 total-assets: 217738010
 federal-awards-total: 378082
@@ -32,30 +32,29 @@ federal-grants-count: 0
 related: "[[Moderna]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[Brett Guthrie Master Profile]] · [[Merck]] · [[Eli Lilly]] · [[The HELP Committee and Prescription Drug Pricing]] · [[Cornerstone Government Affairs]] · [[PhRMA]] · [[Pfizer]] · [[Johnson & Johnson]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]] · [[Gilead Sciences]] · [[Centene Corporation]] · [[Palantir Technologies]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[UnitedHealth Group - Optum]] · [[Tenet Healthcare]] · [[Kaiser Permanente]] · [[Humana]] · [[Hospital Corporation of America - HCA]]"
 federal-register-mentions: 121
 regulatory-agencies:
-  - "Centers for Medicare & Medicaid Services"
-  - "Commerce Department"
-  - "Federal Trade Commission"
-  - "Food and Drug Administration"
-  - "Foreign-Trade Zones Board"
-  - "Health and Human Services Department"
-  - "International Trade Commission"
-  - "Treasury Department"
+  - Centers for Medicare & Medicaid Services
+  - Commerce Department
+  - Federal Trade Commission
+  - Food and Drug Administration
+  - Foreign-Trade Zones Board
+  - Health and Human Services Department
+  - International Trade Commission
+  - Treasury Department
 court-cases: 12951
 court-jurisdictions:
-  - "District Court, C.D. California"
-  - "District Court, D. New Jersey"
-  - "District Court, D. Oregon"
-  - "District Court, D. Puerto Rico"
-  - "District Court, D. Rhode Island"
-  - "District Court, District of Columbia"
-  - "District Court, N.D. Illinois"
-  - "District Court, S.D. Florida"
-  - "District Court, W.D. Washington"
-  - "United States Bankruptcy Court, E.D. Virginia"
+  - District Court, C.D. California
+  - District Court, D. New Jersey
+  - District Court, D. Oregon
+  - District Court, D. Puerto Rico
+  - District Court, D. Rhode Island
+  - District Court, District of Columbia
+  - District Court, N.D. Illinois
+  - District Court, S.D. Florida
+  - District Court, W.D. Washington
+  - United States Bankruptcy Court, E.D. Virginia
 cross-vault-triangulation-count: 12
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+politicians-funded: "[[Brett Guthrie]]"
 ---
 
 <!-- auto:data-panel start -->

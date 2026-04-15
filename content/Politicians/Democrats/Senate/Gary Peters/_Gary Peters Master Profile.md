@@ -1,50 +1,47 @@
 ---
-title: "Gary Peters"
+title: Gary Peters
 type: politician
 content-readiness: ready
-central-thesis: "Peters is the Democratic Party's quiet operator , a former Wall Street investment advisor who became the party's Senate fundraising chief while chairing the committee that oversees the homeland security and cybersecurity industries. His 22-year ca..."
-last-updated: 2026-04-13
+central-thesis: Peters is the Democratic Party's quiet operator , a former Wall Street investment advisor who became the party's Senate fundraising chief while chairing the committee that oversees the homeland security and cybersecurity industries. His 22-year ca...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "Senate"
-state: "Michigan"
-state-abbr: "MI"
+party: Democrat
+chamber: Senate
+state: Michigan
+state-abbr: MI
 committees:
-  - "Homeland Security"
+  - Homeland Security
 issues:
-  - "Defense & Military"
-  - "Wall Street & Finance"
-top-donors:
-  - "Defense Industry"
-  - "UAW - United Auto Workers"
-  - "Real Estate Industry"
-fec-candidate-id: "S4MI00355"
-bioguide-id: "P000595"
+  - Defense & Military
+  - Wall Street & Finance
+top-donors: "[[Real Estate Industry]], [[Defense Industry]], [[Insurance Industry]], [[American Action Network]], [[UAW - United Auto Workers]], [[Blue Shield of California]], [[AFGE - American Federation of Government Employees]]"
+fec-candidate-id: S4MI00355
+bioguide-id: P000595
 govtrack-id: 412305
 bills-sponsored: 70
 bills-cosponsored: 228
-website: "https://www.peters.senate.gov"
-phone: "202-224-6221"
+website: https://www.peters.senate.gov
+phone: 202-224-6221
 stock-trades: 133
 stock-trade-tickers:
-  - "CVS"
-  - "SHW"
-  - "T"
-  - "DWDP"
-  - "ARCC"
-  - "SPG"
-  - "IVZ"
-  - "TFC"
-  - "TOT"
-  - "GIS"
+  - CVS
+  - SHW
+  - T
+  - DWDP
+  - ARCC
+  - SPG
+  - IVZ
+  - TFC
+  - TOT
+  - GIS
 source-types:
   - FEC
   - GovTrack
 corroboration-count: 2
 known-gaps:
-  - "No legislative record from Congress.gov"
-  - "No mapped relationships"
+  - No legislative record from Congress.gov
+  - No mapped relationships
 related: "[[_Debbie Stabenow Master Profile|Debbie Stabenow]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Brian Schatz Master Profile|Brian Schatz]]"
 ---
 

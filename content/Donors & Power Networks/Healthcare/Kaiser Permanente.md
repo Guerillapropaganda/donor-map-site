@@ -1,48 +1,45 @@
 ---
-title: "Kaiser Permanente"
+title: Kaiser Permanente
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Healthcare"
-entity-type: "Corporation"
-politicians-funded:
-  - "Gavin Newsom"
+sector: Healthcare
+entity-type: Corporation
+politicians-funded: "[[Nancy Pelosi]], [[Gavin Newsom]]"
 issues:
-  - "Healthcare"
+  - Healthcare
 subawards-issued: 50
 subawards-issued-amount: 1009778941592127500
 subawards-received: 50
 subawards-received-amount: 1009778941592127500
 ein: "943382057"
-annual-revenue: "$23.0M"
-net-assets: "$30.0M"
+annual-revenue: $23.0M
+net-assets: $30.0M
 tax-year: "2023"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-08"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
-nonprofit-status: "501(c)(5)"
+reenrich-reason: run lda pipeline
+nonprofit-status: 501(c)(5)
 total-revenue: 23524060
 total-assets: 28875574
 related: "[[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Medicare for All - The Policy That Broke the Party]] · [[Nancy Pelosi Master Profile]] · [[Legislative Record as Speaker]] · [[Buffy Wicks]] · [[Anthony Rendon]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Mental Health CARE Court and Forced Treatment]] · [[Healthcare - Donors and Backers]] · [[Economic Policy - Donors and Backers]] · [[CTA - California Teachers Association]] · [[Bernie Sanders Master Profile]] · [[Blue Shield of California]] · [[UnitedHealth Group - Optum]] · [[_Gavin Newsom Master Profile]] · [[IBEW Local 477 - San Bernardino|IBEW Local 477]] · [[CNA - California Nurses Association]] · [[SEIU - Service Employees International Union]] · [[Johnson & Johnson]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Purdue Pharma - Sackler Family]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[Palantir Technologies]] · [[Tenet Healthcare]]"
 sec-filings: 10000
 sec-form-types:
-  - "EX-10.13"
-  - "EX-99"
-  - "EX-99.1"
-  - "FWP"
-  - "N-MFP"
-  - "N-MFP1"
-  - "N-MFP1/A"
-  - "N-MFP2"
-  - "N-MFP3"
+  - EX-10.13
+  - EX-99
+  - EX-99.1
+  - FWP
+  - N-MFP
+  - N-MFP1
+  - N-MFP1/A
+  - N-MFP2
+  - N-MFP3
 cross-vault-triangulation-count: 21
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

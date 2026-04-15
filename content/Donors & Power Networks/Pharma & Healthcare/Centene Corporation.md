@@ -1,78 +1,77 @@
 ---
-title: "Centene Corporation"
+title: Centene Corporation
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Pharma & Healthcare"
-entity-type: "Corporation"
-politicians-funded:
-  - "Joe Manchin"
+sector: Pharma & Healthcare
+entity-type: Corporation
+politicians-funded: "[[Jon Husted]], [[Joe Manchin]]"
 issues:
-  - "Social Safety Net"
-  - "Healthcare"
+  - Social Safety Net
+  - Healthcare
 federal-awards-total: 38306385
 federal-contracts-count: 12
 federal-grants-count: 0
 federal-register-mentions: 13
 last-enriched: "2026-04-10"
 regulatory-agencies:
-  - "Employee Benefits Security Administration"
-  - "Federal Trade Commission"
-  - "Labor Department"
+  - Employee Benefits Security Administration
+  - Federal Trade Commission
+  - Labor Department
 sec-filings: 10000
 sec-form-types:
-  - "10-K"
-  - "10-Q"
+  - 10-K
+  - 10-Q
   - "3"
   - "4"
-  - "4/A"
-  - "424B2"
+  - 4/A
+  - 424B2
   - "425"
-  - "8-A12G"
-  - "8-K"
-  - "DEF 14A"
-  - "DEFA14A"
-  - "EX-10.1"
-  - "EX-10.10"
-  - "EX-10.21B"
-  - "EX-10.24"
-  - "EX-10.25C"
-  - "EX-10.4"
-  - "EX-10.6"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "FWP"
-  - "PRE 14A"
-  - "S-3/A"
-  - "S-4/A"
-  - "S-8"
-  - "SC 13G/A"
-  - "SCHEDULE 13G"
-  - "SCHEDULE 13G/A"
+  - 8-A12G
+  - 8-K
+  - DEF 14A
+  - DEFA14A
+  - EX-10.1
+  - EX-10.10
+  - EX-10.21B
+  - EX-10.24
+  - EX-10.25C
+  - EX-10.4
+  - EX-10.6
+  - EX-99.1
+  - EX-99.2
+  - FWP
+  - PRE 14A
+  - S-3/A
+  - S-4/A
+  - S-8
+  - SC 13G/A
+  - SCHEDULE 13G
+  - SCHEDULE 13G/A
 lobbying-spend: 10590000
 lobbying-filings: 52
 ein: 851888769
-annual-revenue: "$8K"
-net-assets: "$306"
+annual-revenue: $8K
+net-assets: $306
 tax-year: "2023"
 court-cases: 675
 court-jurisdictions:
-  - "District Court, D. Delaware"
-  - "District Court, E.D. California"
-  - "District Court, E.D. Missouri"
-  - "District Court, E.D. New York"
-  - "District Court, E.D. Wisconsin"
-  - "District Court, M.D. Florida"
-  - "District Court, N.D. California"
-  - "District Court, N.D. Illinois"
-  - "District Court, S.D. New York"
+  - District Court, D. Delaware
+  - District Court, E.D. California
+  - District Court, E.D. Missouri
+  - District Court, E.D. New York
+  - District Court, E.D. Wisconsin
+  - District Court, M.D. Florida
+  - District Court, N.D. California
+  - District Court, N.D. Illinois
+  - District Court, S.D. New York
 related: "[[Blue Cross Blue Shield Association]] · [[Jon Husted Master Profile]] · [[UnitedHealth Group - Optum]] · [[Insurance Industry Bloc]] · [[_Joe Manchin Master Profile|Manchin]] · [[Johnson & Johnson]] · [[Moderna]] · [[Merck]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[AbbVie]] · [[Palantir Technologies]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Tenet Healthcare]]"
-top-federal-agency: "General Services Administration"
+top-federal-agency: General Services Administration
 top-naics-code: "624190"
-lei: "549300Z7JJ4TQSQGT333"
-lei-jurisdiction: "US-DE"
+lei: 549300Z7JJ4TQSQGT333
+lei-jurisdiction: US-DE
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 cross-vault-triangulation-count: 8

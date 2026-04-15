@@ -1,38 +1,34 @@
 ---
-title: "Goldman Sachs"
+title: Goldman Sachs
 type: donor
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Wall Street"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "John Kennedy"
-  - "French Hill"
-  - "Hakeem Jeffries"
-  - "Mark Warner"
+sector: Wall Street
+entity-type: Individual Donor
+politicians-funded: "[[French Hill]], [[Amy Klobuchar]], [[Chris Murphy]], [[Hakeem Jeffries]], [[Gregory Meeks]], [[John Boehner]], [[John Kennedy]], [[Cory Booker]], [[Mark Warner]], [[Tim Scott]], [[Jim Himes]], [[Barack Obama]], [[Joe Biden]], [[John Thune]], [[John Cornyn]], [[Paul Ryan]], [[Chuck Schumer]], [[Wes Moore]], [[Maxine Waters]], [[Scott Bessent]]"
 issues:
-  - "Wall Street & Finance"
-total-political-spend: "$1,328,690"
+  - Wall Street & Finance
+total-political-spend: $1,328,690
 ein: "311678646"
-annual-revenue: "$-1,397,309"
-net-assets: "$648.2M"
+annual-revenue: $-1,397,309
+net-assets: $648.2M
 tax-year: "2023"
 federal-register-mentions: 800
 last-enriched: "2026-04-08"
 regulatory-agencies:
-  - "Comptroller of the Currency"
-  - "Employee Benefits Security Administration"
-  - "Energy Department"
-  - "Federal Deposit Insurance Corporation"
-  - "Federal Energy Regulatory Commission"
-  - "Federal Reserve System"
-  - "Labor Department"
-  - "Securities and Exchange Commission"
-  - "Treasury Department"
+  - Comptroller of the Currency
+  - Employee Benefits Security Administration
+  - Energy Department
+  - Federal Deposit Insurance Corporation
+  - Federal Energy Regulatory Commission
+  - Federal Reserve System
+  - Labor Department
+  - Securities and Exchange Commission
+  - Treasury Department
 related: "[[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Goldman Sachs Funds Both Sides of Financial Regulation]] · [[Scott Bessent Master Profile]] · [[Wall Street Deregulation and the 3-3-3 Agenda]] · [[The Trump Fundraiser Pipeline and Wall Street Nomination Battle]] · [[The Wall Street Senator - Finance Industry Alignment]] · [[The Intellectual Property and Banking Donor Pipeline]] · [[The Performative Populism and Goldman Sachs Marriage]] · [[Goldman Sachs and the Heidi Cruz Connection]] · [[The Finance Committee and Tax Industry Alignment]] · [[John Thune Master Profile]] · [[The Judiciary-Finance Dual Pipeline and Texas Defense]] · [[The Financial Services Legacy and Crypto Deregulation]] · [[The Ways and Means Chair and TCJA Extension]] · [[The FIT21 Act and Crypto Industry Capture]] · [[The Finance Committee and Corporate Tax Enforcement]] · [[Mark Warner]] · [[The Judiciary Committee and Criminal Justice Reform Limits]] · [[The Pharma Money and Newark Poverty Paradox]] · [[Chuck Schumer Master Profile]] · [[The Wall Street-Schumer Funding Axis]] · [[_Donald Trump Master Profile]] · [[_Gavin Newsom Master Profile]] · [[Chris Murphy Master Profile]] · [[The Delaware Corporate Senator - Biden's Legislative Lieutenant]] · [[Joe Biden Master Profile]] · [[Barack Obama Master Profile]] · [[The Post-Presidency Capitalization - From Hope and Change to Martha's Vineyard]] · [[The Bank Bailout and the Prosecution That Never Came]] · [[The Ways and Means Gavel and Corporate Tax Architecture]] · [[The Small Business Committee and Puerto Rican Diaspora]] · [[The Financial Services Committee and Wall Street Oversight]] · [[Jim Himes]] · [[The Wall Street Democrat - Goldman Sachs to Congress Pipeline]] · [[The Foreign Affairs Committee and Wall Street-Queens Axis]] · [[The Energy and Commerce Committee and Telecom-Pharma Jurisdiction]]"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 total-revenue: 47401657
 total-assets: 690470487
 cross-vault-triangulation-count: 24

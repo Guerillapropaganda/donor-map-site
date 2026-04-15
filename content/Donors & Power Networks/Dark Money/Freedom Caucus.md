@@ -1,36 +1,30 @@
 ---
-title: "House Freedom Caucus"
+title: House Freedom Caucus
 type: donor
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Dark Money"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Jim Jordan"
-  - "Chip Roy"
-  - "Andy Harris"
-  - "Scott Perry"
+sector: Dark Money
+entity-type: Individual Donor
+politicians-funded: "[[Scott Perry]], [[Andy Harris]], [[Chip Roy]], [[Jim Jordan]]"
 issues:
-  - "Dark Money & Campaign Finance"
+  - Dark Money & Campaign Finance
 ein: "994082114"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-11"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 total-revenue: 1000410
 total-assets: 485221
 related: "[[US Chamber of Commerce]] · [[_Jim Jordan Master Profile|Jim Jordan]] · [[_Chip Roy Master Profile|Chip Roy]] · [[Koch Network - Charles Koch|Koch Network]] · [[Club for Growth]] · [[Heritage Foundation]] · [[Americans for Prosperity]] · [[_Andy Harris Master Profile|Andy Harris]] · [[_Scott Perry Master Profile|Scott Perry]] · [[DeVos Family]] · [[National Education Association]] · [[American Federation for Children]] · [[Insurance Industry]] · [[Walton Family Foundation]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[Defense Industry Bloc]] · [[American Iron and Steel Institute]]"
 lobbying-spend: 2440844
 lobbying-filings: 100
 cross-vault-triangulation-count: 10
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-wikidata-id: "Q19881038"
-wikipedia-url: "https://en.wikipedia.org/wiki/Freedom_Caucus"
-wikipedia-extract: "The Freedom Caucus, also known as the House Freedom Caucus, is a congressional caucus of conservative members of the Republican Party in the United States House of Representatives."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+wikidata-id: Q19881038
+wikipedia-url: https://en.wikipedia.org/wiki/Freedom_Caucus
+wikipedia-extract: The Freedom Caucus, also known as the House Freedom Caucus, is a congressional caucus of conservative members of the Republican Party in the United States House of Representatives.
 ---
 
 <!-- auto:data-panel start -->

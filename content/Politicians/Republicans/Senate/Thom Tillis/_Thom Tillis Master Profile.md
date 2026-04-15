@@ -2,8 +2,8 @@
 title: Thom Tillis
 type: politician
 content-readiness: ready
-central-thesis: "Thom Tillis is the pharmaceutical industry's most documented senator in the vault's research. His opposition to drug pricing reform, his intellectual property hawkishness, and his consistent legislative service to pharmaceutical and biotech intere..."
-last-updated: 2026-04-13
+central-thesis: Thom Tillis is the pharmaceutical industry's most documented senator in the vault's research. His opposition to drug pricing reform, his intellectual property hawkishness, and his consistent legislative service to pharmaceutical and biotech intere...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Republican
@@ -12,14 +12,11 @@ state: North Carolina
 state-abbr: NC
 issues:
   - Healthcare
-top-donors:
-  - Pharmaceutical Industry Bloc
-  - Tech IP and Patent Lobbying
-  - Koch Network - Charles Koch
+top-donors: "[[NEA ADVOCACY FUND]], [[Insurance Industry]], [[SMP]], [[Tech IP and Patent Lobbying]], [[Senate Majority PAC]], [[DSCC]], [[Pharmaceutical Industry Bloc]], [[Koch Network - Charles Koch]], [[DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE]]"
 govtrack-id: 412668
 bills-sponsored: 53
 bills-cosponsored: 318
-website: 'https://www.tillis.senate.gov'
+website: https://www.tillis.senate.gov
 phone: 202-224-6342
 stock-trades: 99
 stock-trade-tickers:
@@ -33,8 +30,8 @@ stock-trade-tickers:
   - VSI
   - TYPE
   - TXRH
-total-received: '$8,072,231'
-fec-candidate-id: "S4NC00162"
+total-received: $8,072,231
+fec-candidate-id: S4NC00162
 source-types:
   - Congress
   - FEC
@@ -44,8 +41,8 @@ known-gaps:
   - No mapped relationships
 opposes: "[[SMP]] · [[DSCC]] · [[DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE]] · [[SENATE MAJORITY PAC]] · [[NEA ADVOCACY FUND]]"
 related: "[[Pharmaceutical Industry Bloc]] · [[Tech IP and Patent Lobbying]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile]]"
-total-raised: "$8,072,231"
-total-spent: "$5,232,134"
+total-raised: $8,072,231
+total-spent: $5,232,134
 cash-on-hand: "3675005.14"
 fec-cycle: 2026
 last-enriched: "2026-04-10"

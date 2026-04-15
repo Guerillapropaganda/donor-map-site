@@ -1,52 +1,51 @@
 ---
-title: "Defense Industry"
+title: Defense Industry
 type: donor
 content-readiness: draft
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Defense & Intelligence"
-entity-type: "Individual Donor"
+sector: Defense & Intelligence
+entity-type: Individual Donor
 issues:
-  - "Defense & Military"
+  - Defense & Military
 ein: 42982768
-annual-revenue: "$82K"
-net-assets: "$202K"
+annual-revenue: $82K
+net-assets: $202K
 tax-year: "2023"
 federal-register-mentions: 200
 last-enriched: "2026-04-10"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 regulatory-agencies:
-  - "Air Force Department"
-  - "Antitrust Division"
-  - "Commerce Department"
-  - "Defense Department"
-  - "Environmental Protection Agency"
-  - "Executive Office of the President"
-  - "Federal Procurement Policy Office"
-  - "General Services Administration"
-  - "Industry and Security Bureau"
-  - "International Trade Administration"
-lei: "5299006DUWIX3AEL2A58"
-lei-jurisdiction: "US-DE"
+  - Air Force Department
+  - Antitrust Division
+  - Commerce Department
+  - Defense Department
+  - Environmental Protection Agency
+  - Executive Office of the President
+  - Federal Procurement Policy Office
+  - General Services Administration
+  - Industry and Security Bureau
+  - International Trade Administration
+lei: 5299006DUWIX3AEL2A58
+lei-jurisdiction: US-DE
 related: "[[Tom Cotton Master Profile]] · [[Martin Heinrich Master Profile]] · [[Jeanne Shaheen Master Profile]] · [[Gary Peters Master Profile]] · [[Defense Industry Bloc]] · [[Defense Contractors]] · [[Defense Contractors Bloc]] · [[Fanjul Family - Florida Crystals]] · [[National Cattlemen's Beef Association]] · [[American Farm Bureau Federation]] · [[DeVos Family]] · [[Insurance Industry]] · [[Walton Family Foundation]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[National Education Association]]"
-nonprofit-status: "501(c)(6)"
+nonprofit-status: 501(c)(6)
 total-revenue: 995455
 total-assets: 1266724
 court-cases: 895
 court-jurisdictions:
-  - "District Court, D. Maine"
-  - "District Court, D. Maryland"
-  - "District Court, D. South Carolina"
-  - "District Court, District of Columbia"
-  - "District Court, E.D. California"
-  - "District Court, E.D. Pennsylvania"
-  - "United States Bankruptcy Court, E.D. California"
+  - District Court, D. Maine
+  - District Court, D. Maryland
+  - District Court, D. South Carolina
+  - District Court, District of Columbia
+  - District Court, E.D. California
+  - District Court, E.D. Pennsylvania
+  - United States Bankruptcy Court, E.D. California
 cross-vault-triangulation-count: 5
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+politicians-funded: "[[Gary Peters]], [[Tom Cotton]], [[Jeanne Shaheen]], [[Martin Heinrich]]"
 ---
 
 <!-- auto:data-panel start -->

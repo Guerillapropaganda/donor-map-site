@@ -2,12 +2,8 @@
 title: Donald Trump
 type: politician
 content-readiness: draft
-central-thesis: >-
-  Trump is not a donor-class Democrat (like Newsom) or a police-class
-  authoritarian (like Bianco). He is something the existing political categories
-  struggle to contain: a billionaire populist fraud who scams in every direction
-  simultaneously , extr...
-last-updated: '2026-04-14'
+central-thesis: "Trump is not a donor-class Democrat (like Newsom) or a police-class authoritarian (like Bianco). He is something the existing political categories struggle to contain: a billionaire populist fraud who scams in every direction simultaneously , extr..."
+last-updated: "2026-04-14"
 source-tier: 1
 parent: null
 party: Republican
@@ -26,60 +22,17 @@ top-donors:
 govtrack-id: 412733
 bills-sponsored: 0
 bills-cosponsored: 0
-last-enriched: '2026-04-08'
+last-enriched: "2026-04-08"
 needs-reenrichment: true
 reenrich-reason: run congress pipeline
-opposes: >-
-  [[Barack Obama Master Profile]] · [[_Gavin Newsom Master Profile]] · [[_Joe
-  Biden Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Nancy Pelosi
-  Master Profile]] · [[_Chuck Schumer Master Profile]] · [[_Elizabeth Warren
-  Master Profile]] · [[_Adam Schiff Master Profile]] · [[_Alexandria
-  Ocasio-Cortez Master Profile]] · [[_Ilhan Omar Master Profile]] · [[_Rashida
-  Tlaib Master Profile]] · [[_Maxine Waters Master Profile]] · [[_Jamie Raskin
-  Master Profile]] · [[Hillary Clinton Master Profile]]
-donors: >-
-  [[Elon Musk]] · [[Peter Thiel]] · [[Miriam Adelson]] · [[Jeffrey Yass]] ·
-  [[Timothy Mellon]] · [[Richard and Elizabeth Uihlein|Richard Uihlein]] ·
-  [[Kenneth Griffin]] · [[Crypto Industry Bloc]] · [[GEO Group]]
-related: >-
-  [[The Culture War Economy - Who Profits From Division]] · [[Vivek Ramaswamy
-  Master Profile]] · [[_Chad Bianco Master Profile]] · [[Jeff Yass]] · [[_David
-  Sacks Master Profile|David Sacks]] · [[_JD Vance Master Profile]] · [[_Jared
-  Kushner Master Profile]] · [[_Benjamin Netanyahu Master Profile]] · [[Rupert
-  Murdoch]] · [[CoreCivic]] · [[Teamsters - International Brotherhood of
-  Teamsters]] · [[IBEW - International Brotherhood of Electrical Workers]] ·
-  [[Trump Donor Network - The Full Map]] · [[Term 1 vs Term 2 - Trump
-  Comparison]] · [[Trump Crypto - The President as Personal Profiteer]] · [[DOGE
-  - The Billionaires Government]] · [[2017 Tax Cuts - The related: .5 Trillion
-  Receipt]] · [[Fossil Fuel Deregulation - The Climate Donors]] · [[The Palantir
-  State - Surveillance as Policy]] · [[Immigration Enforcement - The Detention
-  Economy]] · [[Project 2025 - The Blueprint They Followed]] · [[The Billionaire
-  Cabinet - Wealthiest Administration in History]] · [[The Iran War - Defense
-  Donors and the DOGE Readiness Gap]] · [[The Kash Patel FBI - Loyalty Over Law
-  and the Weaponization of Federal Law Enforcement]] · [[RFK Jr and the HHS
-  Demolition - Make America Healthy Again Meets Pharma Deregulation]] ·
-  [[Schedule F and the Deep State Purge - Replacing Civil Servants with
-  Loyalists]] · [[The Insurrection Investment - Who Funded January 6th and What
-  They Got]] · [[The Fox News Pipeline - How Media Money Shaped the MAGA
-  Machine]] · [[The Grift Machine - How Trump Monetized the Presidency]] · [[The
-  VA Privatization Pipeline - Who Profits From Veteran Healthcare]] · [[Ken
-  Griffin]] · [[Social Policy and Culture War - Donors and Backers]] · [[Ballard
-  Partners]] · [[BGR Group]] · [[Akin Gump Strauss Hauer & Feld]] · [[Mercury
-  Public Affairs]] · [[Squire Patton Boggs]] · [[Holland & Knight]] ·
-  [[Brownstein Hyatt Farber Schreck]] · [[Invariant]] · [[Howard Lutnick Master
-  Profile]] · [[Scott Bessent Master Profile]]
-total-received: '$3,852,435'
+opposes: "[[Barack Obama Master Profile]] · [[_Gavin Newsom Master Profile]] · [[_Joe Biden Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[_Chuck Schumer Master Profile]] · [[_Elizabeth Warren Master Profile]] · [[_Adam Schiff Master Profile]] · [[_Alexandria Ocasio-Cortez Master Profile]] · [[_Ilhan Omar Master Profile]] · [[_Rashida Tlaib Master Profile]] · [[_Maxine Waters Master Profile]] · [[_Jamie Raskin Master Profile]] · [[Hillary Clinton Master Profile]]"
+donors: "[[Elon Musk]] · [[Peter Thiel]] · [[Miriam Adelson]] · [[Jeffrey Yass]] · [[Timothy Mellon]] · [[Richard and Elizabeth Uihlein]] · [[Kenneth Griffin]] · [[Crypto Industry Bloc]] · [[GEO Group]] · [[World Liberty Financial]] · [[Republican Party Apparatus]] · [[Stephen Schwarzman]] · [[Bernard Marcus]] · [[FF PAC]] · [[MAGA Inc]] · [[DeVos Family]] · [[Christopher Ruddy]] · [[Founders Fund]] · [[Lennar Corporation]] · [[AB PAC]] · [[American Farm Bureau Federation]] · [[Northrop Grumman]] · [[Agricultural Labor Vulnerability Donors]] · [[Fossil Fuel Bloc]] · [[Dustin Moskovitz]] · [[Goldman Sachs , The Government Sachs Alumni Network]] · [[US Chamber of Commerce]] · [[Michael Bloomberg]] · [[Fox News Pipeline to Power]] · [[MAKE AMERICA GREAT AGAIN INC.]] · [[Ken Griffin]] · [[Sheldon & Miriam Adelson]] · [[PRIORITIES USA ACTION]] · [[Jeffrey Epstein Network]] · [[Fraternal Order of Police]] · [[Bernie Marcus]] · [[Les Wexner - Wexner Family Enterprises]] · [[CoreCivic]] · [[Rupert Murdoch]] · [[Meta - Facebook]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Trump Organization]] · [[Concerned Veterans for America]] · [[National Association of Manufacturers]] · [[Jan Koum]] · [[Real Estate Development Industry Bloc]] · [[National Rifle Association]] · [[Blackstone Group]] · [[Susquehanna International Group]] · [[Ben Horowitz]] · [[David Sacks (Donor Network)]] · [[GEO Group - Private Prison Industrial Complex]] · [[Think Big AI]] · [[Nucor Corporation]] · [[Oracle]] · [[Trump Donor Coalition]] · [[CREW - Citizens for Responsibility and Ethics in Washington]] · [[Bradley Foundation]] · [[David Sacks]] · [[Uber]] · [[Real Estate Roundtable]] · [[Palantir Technologies Political Operation]] · [[Defense Contractors Bloc]] · [[Kelcy Warren]] · [[Amazon]] · [[Meatpacking Corporations]] · [[Kelcy Warren - Energy Transfer Partners]] · [[David McIntosh]] · [[Silicon Valley Donors]] · [[National Cattlemen's Beef Association]] · [[L3Harris Technologies]] · [[Breitbart News and the Mercer-Bannon Media Pipeline]] · [[Federalist Society]] · [[Citadel - Kenneth Griffin]] · [[Eric Schmidt]] · [[ExxonMobil]] · [[Robert Mercer]] · [[RBG PAC]] · [[American Iron and Steel Institute]] · [[Preserve America]] · [[Leonard Leo]] · [[Google - Alphabet]] · [[FTX - Sam Bankman-Fried]] · [[Koch Network - Charles Koch]] · [[Business Roundtable]] · [[Mohammed bin Salman]] · [[Cambridge Analytica and the Data Weaponization of Elections]] · [[Teamsters - International Brotherhood of Teamsters]] · [[Trump Victory]] · [[Trump Media & Technology Group]] · [[Palantir Technologies]] · [[Marc Andreessen & Horowitz]] · [[Fanjul Family - Florida Crystals]] · [[Trump 2024 Campaign]] · [[WinRed]] · [[Save America PAC]] · [[Harold Hamm]] · [[Brian Armstrong]] · [[MAGA Small Dollar Base]] · [[Rebekah Mercer]] · [[Raytheon (RTX Corporation)]] · [[Republican Jewish Coalition]] · [[Brad Garlinghouse]]"
+related: "[[The Culture War Economy - Who Profits From Division]] · [[Vivek Ramaswamy Master Profile]] · [[_Chad Bianco Master Profile]] · [[Jeff Yass]] · [[_David Sacks Master Profile|David Sacks]] · [[_JD Vance Master Profile]] · [[_Jared Kushner Master Profile]] · [[_Benjamin Netanyahu Master Profile]] · [[Rupert Murdoch]] · [[CoreCivic]] · [[Teamsters - International Brotherhood of Teamsters]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Trump Donor Network - The Full Map]] · [[Term 1 vs Term 2 - Trump Comparison]] · [[Trump Crypto - The President as Personal Profiteer]] · [[DOGE - The Billionaires Government]] · [[2017 Tax Cuts - The related: .5 Trillion Receipt]] · [[Fossil Fuel Deregulation - The Climate Donors]] · [[The Palantir State - Surveillance as Policy]] · [[Immigration Enforcement - The Detention Economy]] · [[Project 2025 - The Blueprint They Followed]] · [[The Billionaire Cabinet - Wealthiest Administration in History]] · [[The Iran War - Defense Donors and the DOGE Readiness Gap]] · [[The Kash Patel FBI - Loyalty Over Law and the Weaponization of Federal Law Enforcement]] · [[RFK Jr and the HHS Demolition - Make America Healthy Again Meets Pharma Deregulation]] · [[Schedule F and the Deep State Purge - Replacing Civil Servants with Loyalists]] · [[The Insurrection Investment - Who Funded January 6th and What They Got]] · [[The Fox News Pipeline - How Media Money Shaped the MAGA Machine]] · [[The Grift Machine - How Trump Monetized the Presidency]] · [[The VA Privatization Pipeline - Who Profits From Veteran Healthcare]] · [[Ken Griffin]] · [[Social Policy and Culture War - Donors and Backers]] · [[Ballard Partners]] · [[BGR Group]] · [[Akin Gump Strauss Hauer & Feld]] · [[Mercury Public Affairs]] · [[Squire Patton Boggs]] · [[Holland & Knight]] · [[Brownstein Hyatt Farber Schreck]] · [[Invariant]] · [[Howard Lutnick Master Profile]] · [[Scott Bessent Master Profile]]"
+total-received: $3,852,435
 fec-candidate-id: P80001571
-internal-notes: >-
-  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: •
-  CONGRESS data is missing entirely. This profile was promoted to ready without
-  ever having congress enrichment run on it. The needs-reenrichment flag has
-  been set. The next scheduled pipeline run will pick it up automatically.
-
-  [URL Check 2026-04-08] 29 URLs checked: 25 ok, 2 broken, 2 slow. BROKEN: CBO
-  TCJA analysis, The Hill Palantir contracts. SLOW: Federal Register 2026 EOs,
-  GovTrack.us | [URL Check 2026-04-08] 25 checked: 24 ok, 1 broken, 0 slow. |
-  BROKEN: Preserving America's Game
+internal-notes: |-
+  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+  [URL Check 2026-04-08] 29 URLs checked: 25 ok, 2 broken, 2 slow. BROKEN: CBO TCJA analysis, The Hill Palantir contracts. SLOW: Federal Register 2026 EOs, GovTrack.us | [URL Check 2026-04-08] 25 checked: 24 ok, 1 broken, 0 slow. | BROKEN: Preserving America's Game
 executive-orders: 474
 presidential-memoranda: 167
 proclamations: 706

@@ -1,38 +1,35 @@
 ---
-title: "Nucor Corporation"
+title: Nucor Corporation
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Defense & Intelligence"
-entity-type: "Corporation"
-politicians-funded:
-  - "Donald Trump"
+sector: Defense & Intelligence
+entity-type: Corporation
+politicians-funded: "[[Donald Trump]]"
 subawards-issued: 50
 subawards-issued-amount: 51876611853
 subawards-received: 50
 subawards-received-amount: 51876611853
-top-federal-agency: "Department of Agriculture"
+top-federal-agency: Department of Agriculture
 top-naics-code: "331110"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-09"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 federal-awards-total: 0
 federal-contracts-count: 1
 federal-grants-count: 1
 related: "[[Trade and Tariffs - Donors and Backers]] · [[Tariff Wars - The Working Class Tax Disguised as Trade Policy]] · [[American Iron and Steel Institute]] · [[_Donald Trump Master Profile|Trump]]"
 court-cases: 634
 court-jurisdictions:
-  - "District Court, S.D. Indiana"
-  - "District Court, S.D. Texas"
-  - "United States Court of International Trade"
+  - District Court, S.D. Indiana
+  - District Court, S.D. Texas
+  - United States Court of International Trade
 cross-vault-triangulation-count: 4
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

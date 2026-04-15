@@ -1,36 +1,32 @@
 ---
-title: "Bill Gates"
+title: Bill Gates
 type: donor
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Mega-Donors"
-entity-type: "Individual Donor"
+sector: Mega-Donors
+entity-type: Individual Donor
 issues:
-  - "Education"
-  - "Energy & Climate"
-total-political-spend: "$652,713"
-politicians-funded:
-  - "Frank Lucas"
-  - "Martin Heinrich"
-  - "Debbie Stabenow"
-  - "Rosa DeLauro"
+  - Education
+  - Energy & Climate
+total-political-spend: $652,713
+politicians-funded: "[[Frank Lucas]], [[Martin Heinrich]], [[Rosa DeLauro]], [[Debbie Stabenow]]"
 related: "[[Economic Policy Institute]] · [[Rosa DeLauro]] · [[Microsoft]] · [[Walton Family Foundation]] · [[Eli Broad Foundation]] · [[DeVos Family]]"
 last-enriched: "2026-04-10"
 court-cases: 1299
 court-jurisdictions:
-  - "Court of Appeals for the Eighth Circuit"
-  - "Court of Appeals for the Ninth Circuit"
-  - "District Court, C.D. California"
-  - "District Court, D. Connecticut"
-  - "District Court, N.D. Alabama"
-  - "District Court, N.D. New York"
-  - "District Court, S.D. California"
-  - "District Court, S.D. New York"
-  - "United States Bankruptcy Court, D. Delaware"
-lei: "254900958LQ75NB9GC08"
-lei-jurisdiction: "US-WA"
+  - Court of Appeals for the Eighth Circuit
+  - Court of Appeals for the Ninth Circuit
+  - District Court, C.D. California
+  - District Court, D. Connecticut
+  - District Court, N.D. Alabama
+  - District Court, N.D. New York
+  - District Court, S.D. California
+  - District Court, S.D. New York
+  - United States Bankruptcy Court, D. Delaware
+lei: 254900958LQ75NB9GC08
+lei-jurisdiction: US-WA
 cross-vault-triangulation-count: 5
 audit-a-plus-passed: "2026-04-11"
 ---

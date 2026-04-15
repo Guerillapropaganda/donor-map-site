@@ -1,23 +1,24 @@
 ---
-title: "Katie Britt"
+title: Katie Britt
 type: politician
-bioguide-id: "B001319"
-chamber: "Senate"
-party: "Republican"
+bioguide-id: B001319
+chamber: Senate
+party: Republican
 content-readiness: draft
-central-thesis: "Katie Britt is the Republican donor class's manufactured rising star. She did not build a political movement, cultivate grassroots support, or develop an independent power base. She was built from component parts by the Alabama business lobby. She..."
-last-updated: 2026-04-06
+central-thesis: Katie Britt is the Republican donor class's manufactured rising star. She did not build a political movement, cultivate grassroots support, or develop an independent power base. She was built from component parts by the Alabama business lobby. She...
+last-updated: 2026-04-06T00:00:00.000Z
 source-tier: 1
 parent: null
-total-received: "$5,988,486"
-fec-candidate-id: "S2AL00145"
+total-received: $5,988,486
+fec-candidate-id: S2AL00145
 source-types:
   - FEC
 known-gaps:
-  - "No legislative record from Congress.gov"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No legislative record from Congress.gov
+  - No voting record data
+  - No mapped relationships
 related: "[[Business Council of Alabama]] · [[Alabama Power]] · [[Drummond Co|Drummond Co.]]"
+top-donors: "[[Alabama Conservatives Fund]], [[Alabama Christian Conservatives]], [[Conservative Outsider Pac Inc]], [[CLUB FOR GROWTH ACTION]]"
 ---
 #katie-britt #senate #alabama #rising-star #business-council #donor-class-project #manufactured
 

@@ -1,77 +1,75 @@
 ---
-title: "ConocoPhillips"
+title: ConocoPhillips
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Energy & Utilities"
-entity-type: "Corporation"
-politicians-funded:
-  - "Lisa Murkowski"
-  - "Dan Sullivan"
+sector: Energy & Utilities
+entity-type: Corporation
+politicians-funded: "[[Lisa Murkowski]], [[Dan Crenshaw]], [[Dan Sullivan]], [[John Kennedy]]"
 issues:
-  - "Energy & Climate"
+  - Energy & Climate
 sec-filings: 10000
 sec-form-types:
   - "144"
   - "4"
-  - "424B2"
-  - "424B3"
-  - "424B5"
+  - 424B2
+  - 424B3
+  - 424B5
   - "425"
-  - "8-K"
-  - "ARS"
-  - "DEF 14A"
-  - "DEFA14A"
-  - "DEFM14A"
-  - "EX-1"
-  - "EX-1.1"
-  - "EX-10.1"
-  - "EX-10.2"
-  - "EX-10.3"
-  - "EX-10.5"
-  - "EX-2"
-  - "EX-2.1"
-  - "EX-21"
-  - "EX-5.1"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "EX-99.4"
-  - "POSASR"
-  - "PX14A6G"
-  - "S-3"
-  - "S-3/A"
-  - "S-3ASR"
-  - "S-4"
-  - "S-4/A"
-  - "S-8"
-  - "SCHEDULE 13G/A"
+  - 8-K
+  - ARS
+  - DEF 14A
+  - DEFA14A
+  - DEFM14A
+  - EX-1
+  - EX-1.1
+  - EX-10.1
+  - EX-10.2
+  - EX-10.3
+  - EX-10.5
+  - EX-2
+  - EX-2.1
+  - EX-21
+  - EX-5.1
+  - EX-99.1
+  - EX-99.2
+  - EX-99.4
+  - POSASR
+  - PX14A6G
+  - S-3
+  - S-3/A
+  - S-3ASR
+  - S-4
+  - S-4/A
+  - S-8
+  - SCHEDULE 13G/A
 ein: "202555951"
-annual-revenue: "$262K"
-net-assets: "$5.8M"
+annual-revenue: $262K
+net-assets: $5.8M
 tax-year: "2023"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-10"
-lei: "WPTL2Z3FIYTHSP5V2253"
-lei-jurisdiction: "US-DE"
+lei: WPTL2Z3FIYTHSP5V2253
+lei-jurisdiction: US-DE
 court-cases: 4295
 court-jurisdictions:
-  - "Court of Appeals for the D.C. Circuit"
-  - "Court of Appeals for the Fifth Circuit"
-  - "Court of Appeals for the Third Circuit"
-  - "District Court, D. Alaska"
-  - "District Court, District of Columbia"
-  - "District Court, M.D. Louisiana"
-  - "District Court, S.D. Indiana"
-  - "District Court, S.D. Texas"
-  - "District Court, W.D. Oklahoma"
-  - "United States Court of International Trade"
+  - Court of Appeals for the D.C. Circuit
+  - Court of Appeals for the Fifth Circuit
+  - Court of Appeals for the Third Circuit
+  - District Court, D. Alaska
+  - District Court, District of Columbia
+  - District Court, M.D. Louisiana
+  - District Court, S.D. Indiana
+  - District Court, S.D. Texas
+  - District Court, W.D. Oklahoma
+  - United States Court of International Trade
 lobbying-spend: 17930000
 lobbying-filings: 39
 related: "[[WSPA - Western States Petroleum Association]] · [[Alaska 2026 Senate Race]] · [[The EPW Committee and West Virginia Energy Transition]] · [[The Energy Committee and Alaska Oil Dependency]] · [[John Kennedy Master Profile]] · [[The Folksy Populist Brand and Petrochemical Reality]] · [[Koch Industries]] · [[The Homeland Security Committee and Oklahoma Energy]] · [[The Budget Committee and Texas Energy]] · [[Dan Crenshaw Master Profile]] · [[The Energy Committee and Houston Petrochemical Pipeline]] · [[PG&E - Pacific Gas and Electric]] · [[Valero Energy]] · [[Occidental Petroleum]] · [[ExxonMobil]] · [[Chevron]] · [[Marathon Petroleum]] · [[Fossil Fuel Bloc]] · [[American Petroleum Institute]] · [[_Lisa Murkowski Master Profile|Murkowski]] · [[_Dan Sullivan Master Profile|Sullivan]] · [[NextEra Energy]] · [[Southern Company]] · [[Halliburton]] · [[Duke Energy]] · [[Devon Energy]] · [[Palantir Technologies Political Operation]] · [[Raytheon Technologies]] · [[Instacart]] · [[Uber]] · [[Lyft]] · [[UnitedHealth Group - Optum]] · [[Eli Lilly]]"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 total-revenue: 138485
 total-assets: 5548963
 cross-vault-triangulation-count: 21

@@ -1,49 +1,47 @@
 ---
-title: "Richard Blumenthal"
+title: Richard Blumenthal
 type: politician
 content-readiness: ready
-central-thesis: "Richard Blumenthal is the attorney general-turned-senator who built a career on holding powerful institutions accountable , and then became the ranking member of the committee that oversees the institution responsible for veteran care. His donor p..."
-last-updated: 2026-04-15
+central-thesis: Richard Blumenthal is the attorney general-turned-senator who built a career on holding powerful institutions accountable , and then became the ranking member of the committee that oversees the institution responsible for veteran care. His donor p...
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "Senate"
-state: "Connecticut"
-state-abbr: "CT"
+party: Democrat
+chamber: Senate
+state: Connecticut
+state-abbr: CT
 committees:
-  - "Veterans' Affairs"
-  - "Judiciary"
-  - "Armed Services"
+  - Veterans' Affairs
+  - Judiciary
+  - Armed Services
 leadership-roles:
-  - "Ranking Member"
-total-received: "$619,810"
-fec-candidate-id: "S0CT00177"
-bioguide-id: "B001277"
+  - Ranking Member
+total-received: $619,810
+fec-candidate-id: S0CT00177
+bioguide-id: B001277
 govtrack-id: 412490
 bills-sponsored: 102
 bills-cosponsored: 625
-website: "https://www.blumenthal.senate.gov"
-phone: "202-224-2823"
+website: https://www.blumenthal.senate.gov
+phone: 202-224-2823
 stock-trades: 50
 last-enriched: "2026-04-12"
 needs-reenrichment: true
-reenrich-reason: "run congress pipeline"
-donors: "[[Google - Alphabet]]"
+reenrich-reason: run congress pipeline
+donors: "[[Google - Alphabet]], [[Connecticut Patriots Pac]], [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]], [[Restoration PAC]]"
 related: "[[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[_Jerry Moran Master Profile|Jerry Moran]] · [[_Ed Markey Master Profile|Ed Markey]] · [[_Donald Trump Master Profile|Trump]]"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 issues:
-  - "Agriculture and Food"
-  - "Armed Forces and National Security"
-  - "Commerce"
-  - "Crime and Law Enforcement"
-  - "Environmental Protection"
-  - "Finance and Financial Sector"
-  - "Health"
-  - "International Affairs"
-  - "Native Americans"
-  - "Taxation"
+  - Agriculture and Food
+  - Armed Forces and National Security
+  - Commerce
+  - Crime and Law Enforcement
+  - Environmental Protection
+  - Finance and Financial Sector
+  - Health
+  - International Affairs
+  - Native Americans
+  - Taxation
 ---
 
 <!-- auto:data-panel start -->

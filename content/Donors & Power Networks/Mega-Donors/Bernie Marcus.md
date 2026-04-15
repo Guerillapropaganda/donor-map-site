@@ -1,19 +1,16 @@
 ---
-title: "Bernie Marcus"
+title: Bernie Marcus
 type: donor
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-11T00:00:00.000Z
 source-tier: null
 parent: null
-sector: "Retail"
-entity-type: "Individual Donor"
+sector: Retail
+entity-type: Individual Donor
 issues:
   - Israel & Foreign Policy
   - Republican Politics
-politicians-funded:
-  - "Donald Trump"
-  - "George Latimer"
-  - "Wesley Bell"
+politicians-funded: "[[George Latimer]], [[Donald Trump]], [[Wesley Bell]]"
 related: "[[United Democracy Project - UDP]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Donald Trump Master Profile]] · [[_Jamaal Bowman Master Profile]]"
 source-types: []
 known-gaps:
@@ -22,10 +19,10 @@ known-gaps:
   - Home Depot co-founder, Marcus Foundation documentation needed
   - Full FEC contribution history needed
 ein: "581720888"
-annual-revenue: "$615"
-net-assets: "$39K"
+annual-revenue: $615
+net-assets: $39K
 tax-year: "2023"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-11"
 total-revenue: 10716
 total-assets: 38536

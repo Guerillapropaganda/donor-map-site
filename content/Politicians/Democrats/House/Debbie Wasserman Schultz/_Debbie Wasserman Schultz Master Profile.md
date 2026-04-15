@@ -3,42 +3,28 @@ title: Debbie Wasserman Schultz
 type: politician
 bioguide-id: W000797
 content-readiness: ready
-central-thesis: >-
-  Wasserman Schultz is the Both-Sides Illusion made flesh. She is a Democrat
-  funded by the same sugar PACs and Israel lobby money that funds the Republican
-  Cuba hawks. Her presence in the sugar-defense-Israel coalition proves that the
-  embargo , and ...
-last-updated: 2026-04-15
+central-thesis: Wasserman Schultz is the Both-Sides Illusion made flesh. She is a Democrat funded by the same sugar PACs and Israel lobby money that funds the Republican Cuba hawks. Her presence in the sugar-defense-Israel coalition proves that the embargo , and ...
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Democrat
 chamber: House
 state: Florida
 state-abbr: FL
-district: '25'
+district: "25"
 issues:
   - Israel & Foreign Policy
 top-donors:
   - Fanjul Family - Florida Crystals
   - AIPAC
-total-received: "$1,785,365"
-fec-candidate-id: "H4FL20023"
+total-received: $1,785,365
+fec-candidate-id: H4FL20023
 last-enriched: "2026-04-15"
 needs-reenrichment: true
 reenrich-reason: run voting pipeline; run congress pipeline
-donors: '[[UNITE HERE]] · [[Bacardi - Bacardi USA]]'
-related: >-
-  [[_Marco Rubio Master Profile|Rubio]] · [[_Mario Diaz-Balart Master
-  Profile|Diaz-Balart]] · [[Fanjul Family - Florida Crystals]] · [[AIPAC -
-  American Israel Public Affairs Committee|AIPAC]] · [[_Bob Menendez Master
-  Profile|Menendez]] · [[Rick Scott Master Profile]]
-internal-notes: >-
-  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: •
-  VOTING data is missing entirely. This profile was promoted to ready without
-  ever having voting enrichment run on it. • CONGRESS data is missing entirely.
-  This profile was promoted to ready without ever having congress enrichment run
-  on it. The needs-reenrichment flag has been set. The next scheduled pipeline
-  run will pick it up automatically.
+donors: "[[UNITE HERE]] · [[Bacardi - Bacardi USA]] · [[America's Renewal Pac, Inc.]] · [[United for Common Sense]] · [[Citizens Against Aipac Corruption]] · [[Fanjul Family - Florida Crystals]] · [[Patriot Majority Pac]]"
+related: "[[_Marco Rubio Master Profile|Rubio]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[Fanjul Family - Florida Crystals]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Bob Menendez Master Profile|Menendez]] · [[Rick Scott Master Profile]]"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

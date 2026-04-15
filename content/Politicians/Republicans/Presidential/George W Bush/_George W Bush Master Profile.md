@@ -2,13 +2,13 @@
 title: George W. Bush
 type: politician
 content-readiness: ready
-central-thesis: "Bush's presidency was the largest wealth transfer to the donor class in postwar U.S. history, achieved through tax cuts for the wealthy, deregulation of finance and energy sectors, and a $2 trillion Iraq War that enriched defense contractors. The ..."
-last-updated: 2026-04-12
+central-thesis: Bush's presidency was the largest wealth transfer to the donor class in postwar U.S. history, achieved through tax cuts for the wealthy, deregulation of finance and energy sectors, and a $2 trillion Iraq War that enriched defense contractors. The ...
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Republican
 chamber: Presidential
-total-received: '$377,846,444'
+total-received: $377,846,444
 fec-candidate-id: P00003335
 source-types:
   - Congress
@@ -22,10 +22,10 @@ presidential-memoranda: 131
 proclamations: 942
 last-enriched: "2026-04-10"
 opposes: "[[DNC SERVICES CORPORATION/DEMOCRATIC NATIONAL COMMITTEE]] · [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]] · [[NRA POLITICAL VICTORY FUND]]"
-donors: "[[REPUBLICAN NATIONAL COMMITTEE]] · [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]] · [[NRA POLITICAL VICTORY FUND]] · [[REPUBLICAN PARTY OF FLORIDA]]"
-wikidata-id: "Q207"
-wikipedia-url: "https://en.wikipedia.org/wiki/George_W._Bush"
-wikipedia-extract: "George Walker Bush is an American politician, businessman, and former United States Air Force officer who was the 43rd president of the United States, serving from 2001 to 2009."
+donors: "[[REPUBLICAN NATIONAL COMMITTEE]] · [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]] · [[NRA POLITICAL VICTORY FUND]] · [[REPUBLICAN PARTY OF FLORIDA]] · [[DNC SERVICES CORPORATION/DEMOCRATIC NATIONAL COMMITTEE]]"
+wikidata-id: Q207
+wikipedia-url: https://en.wikipedia.org/wiki/George_W._Bush
+wikipedia-extract: George Walker Bush is an American politician, businessman, and former United States Air Force officer who was the 43rd president of the United States, serving from 2001 to 2009.
 born: "1946-07-06"
 ---
 

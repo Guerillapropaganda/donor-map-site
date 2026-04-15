@@ -3,7 +3,7 @@ title: John Fetterman
 type: politician
 content-readiness: ready
 central-thesis: "John Fetterman's post-election transformation raises a fundamental question about authenticity in working-class populism: was the 2022 small-dollar, hoodie-wearing, anti-establishment brand genuine or electoral packaging designed to win a swing st..."
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Democrat
@@ -12,14 +12,13 @@ state: Pennsylvania
 state-abbr: PA
 issues:
   - Israel & Foreign Policy
-top-donors:
-  - AIPAC - American Israel Public Affairs Committee
-total-received: '$9,034,481'
+top-donors: "[[Senate Leadership Fund]], [[AIPAC - American Israel Public Affairs Committee]], [[NRSC]], [[PRIORITIES USA ACTION]], [[MAKE AMERICA GREAT AGAIN INC.]], [[Devon Energy]], [[AMERICAN CROSSROADS]]"
+total-received: $9,034,481
 fec-candidate-id: S6PA00274
 govtrack-id: 456877
 bills-sponsored: 24
 bills-cosponsored: 296
-website: 'https://www.fetterman.senate.gov'
+website: https://www.fetterman.senate.gov
 phone: 202-224-4254
 source-types:
   - FEC

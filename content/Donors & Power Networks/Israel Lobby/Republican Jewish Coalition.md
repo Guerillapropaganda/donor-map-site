@@ -1,45 +1,33 @@
 ---
-title: "Republican Jewish Coalition"
+title: Republican Jewish Coalition
 type: donor
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Israel Lobby"
-entity-type: "Individual Donor"
+sector: Israel Lobby
+entity-type: Individual Donor
 ein: "521386172"
-annual-revenue: "$6.4M"
-net-assets: "$3.4M"
+annual-revenue: $6.4M
+net-assets: $3.4M
 tax-year: "2023"
 court-cases: 15
 last-enriched: "2026-04-10"
 court-jurisdictions:
-  - "District Court, D. Massachusetts"
-  - "District Court, District of Columbia"
-  - "District Court, E.D. Virginia"
-  - "District Court, N.D. California"
-  - "District Court, N.D. New York"
-  - "District Court, N.D. Texas"
-  - "District Court, S.D. New York"
-  - "District Court, W.D. Pennsylvania"
-nonprofit-status: "501(c)(4)"
+  - District Court, D. Massachusetts
+  - District Court, District of Columbia
+  - District Court, E.D. Virginia
+  - District Court, N.D. California
+  - District Court, N.D. New York
+  - District Court, N.D. Texas
+  - District Court, S.D. New York
+  - District Court, W.D. Pennsylvania
+nonprofit-status: 501(c)(4)
 total-revenue: 13380498
 total-assets: 4294171
 related: "[[Lindsey Graham Master Profile]] · [[Mike Lawler Master Profile]] · [[Jan Koum]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Sheldon Adelson]] · [[Miriam Adelson]] · [[NORPAC]] · [[John Cornyn]] · [[Dan Goldman]] · [[Sherrod Brown]]"
-total-political-spend: "$3,644,594"
-politicians-funded:
-  - "Lindsey Graham"
-  - "Mike Lawler"
-  - "Donald Trump"
-  - "Ted Cruz"
-  - "Sherrod Brown"
-  - "Shontel Brown"
-  - "Michael Whatley"
-  - "John Cornyn"
-  - "Angie Craig"
-  - "Dan Goldman"
-  - "Donna Miller"
-  - "Stephen Miller"
+total-political-spend: $3,644,594
+politicians-funded: "[[Mike Lawler]], [[Sherrod Brown]], [[Ted Cruz]], [[Donna Miller]], [[Shontel Brown]], [[Angie Craig]], [[Dan Goldman]], [[Lindsey Graham]], [[Michael Whatley]], [[Stephen Miller]], [[John Cornyn]], [[Donald Trump]]"
 cross-vault-triangulation-count: 5
 audit-a-plus-passed: "2026-04-11"
 ---

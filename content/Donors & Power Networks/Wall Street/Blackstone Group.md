@@ -1,19 +1,16 @@
 ---
-title: "Blackstone Group"
+title: Blackstone Group
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Wall Street"
-entity-type: "Corporation"
-politicians-funded:
-  - "Donald Trump"
-  - "Chuck Schumer"
-  - "Susan Collins"
+sector: Wall Street
+entity-type: Corporation
+politicians-funded: "[[Mike Lee]], [[Chuck Schumer]], [[Donald Trump]], [[Susan Collins]]"
 issues:
-  - "Wall Street & Finance"
-  - "Housing"
+  - Wall Street & Finance
+  - Housing
 subawards-issued: 50
 subawards-issued-amount: 1009778941592127500
 subawards-received: 50
@@ -28,16 +25,16 @@ related: "[[The Wall Street Senator - Finance Industry Alignment]] · [[The Ways
 court-cases: 1595
 last-enriched: "2026-04-10"
 court-jurisdictions:
-  - "Court of Appeals for the Second Circuit"
-  - "District Court, D. Delaware"
-  - "District Court, D. Massachusetts"
-  - "District Court, D. Nevada"
-  - "District Court, D. New Hampshire"
-  - "District Court, D. South Carolina"
-  - "District Court, E.D. New York"
-  - "District Court, E.D. Texas"
-  - "District Court, N.D. California"
-  - "District Court, N.D. New York"
+  - Court of Appeals for the Second Circuit
+  - District Court, D. Delaware
+  - District Court, D. Massachusetts
+  - District Court, D. Nevada
+  - District Court, D. New Hampshire
+  - District Court, D. South Carolina
+  - District Court, E.D. New York
+  - District Court, E.D. Texas
+  - District Court, N.D. California
+  - District Court, N.D. New York
 occ-enforcement-actions: 1
 occ-active-actions: 0
 occ-charter-numbers:

@@ -1,25 +1,23 @@
 ---
-title: "Josh Shapiro"
+title: Josh Shapiro
 type: politician
 content-readiness: ready
-central-thesis: "Josh Shapiro's political rise is a case study in corporate-Democratic coalition building. His $68M gubernatorial race , the most expensive in Pennsylvania history , was funded by Bloomberg ($2.5M), Soros ($500K), 240+ corporate CEOs, coal executiv..."
-last-updated: 2026-04-13
+central-thesis: Josh Shapiro's political rise is a case study in corporate-Democratic coalition building. His $68M gubernatorial race , the most expensive in Pennsylvania history , was funded by Bloomberg ($2.5M), Soros ($500K), 240+ corporate CEOs, coal executiv...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "Governor"
-state: "Pennsylvania"
-state-abbr: "PA"
+party: Democrat
+chamber: Governor
+state: Pennsylvania
+state-abbr: PA
 issues:
-  - "Israel & Foreign Policy"
-top-donors:
-  - "Michael Bloomberg"
-  - "AIPAC - American Israel Public Affairs Committee"
+  - Israel & Foreign Policy
+top-donors: "[[AIPAC - American Israel Public Affairs Committee]], [[Jeffrey Yass]], [[Michael Bloomberg]]"
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record from Congress.gov"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record from Congress.gov
+  - No voting record data
+  - No mapped relationships
 related: "[[_Andy Beshear Master Profile]] · [[_Wes Moore Master Profile]] · [[_JB Pritzker Master Profile]]"
 ---
 

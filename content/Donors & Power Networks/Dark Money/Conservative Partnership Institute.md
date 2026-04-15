@@ -1,38 +1,37 @@
 ---
-title: "Conservative Partnership Institute"
+title: Conservative Partnership Institute
 type: donor
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Dark Money"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Wes Moore"
+sector: Dark Money
+entity-type: Individual Donor
+politicians-funded: "[[Wes Moore]]"
 issues:
-  - "Dark Money & Campaign Finance"
+  - Dark Money & Campaign Finance
 federal-register-mentions: 1
 last-enriched: "2026-04-10"
 regulatory-agencies:
-  - "Energy Department"
+  - Energy Department
 court-cases: 15
 court-jurisdictions:
-  - "Court of Appeals for the Fifth Circuit"
-  - "District Court, D. Minnesota"
-  - "District Court, District of Columbia"
-  - "District Court, M.D. North Carolina"
-  - "District Court, N.D. California"
-  - "District Court, S.D. Florida"
-  - "District Court, S.D. New York"
+  - Court of Appeals for the Fifth Circuit
+  - District Court, D. Minnesota
+  - District Court, District of Columbia
+  - District Court, M.D. North Carolina
+  - District Court, N.D. California
+  - District Court, S.D. Florida
+  - District Court, S.D. New York
 related: "[[DeVos Family]] · [[America First Legal and the Dark Money Architecture]] · [[The Project 2025 Pipeline and the Center for Renewing America]] · [[Christian Nationalism and the Theological Budget]] · [[Bradley Impact Fund]] · [[_Donald Trump Master Profile|Trump]] · [[Heritage Foundation]] · [[America First Policy Institute]] · [[DonorsTrust]] · [[American Federation for Children]] · [[National Education Association]] · [[Walton Family Foundation]] · [[Defense Contractors Bloc]] · [[Insurance Industry]] · [[American Iron and Steel Institute]] · [[Defense Industry]] · [[American Petroleum Institute]] · [[Petrochemical Industry Bloc]] · [[Western States Petroleum Association]] · [[Defense Industry Bloc]] · [[US Chamber of Commerce]]"
 ein: "821470217"
-annual-revenue: "$19.5M"
-net-assets: "$71.1M"
+annual-revenue: $19.5M
+net-assets: $71.1M
 tax-year: "2023"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 total-revenue: 34690942
 total-assets: 72296824
-total-political-spend: "$5,380"
+total-political-spend: $5,380
 cross-vault-triangulation-count: 11
 audit-a-plus-passed: "2026-04-11"
 ---

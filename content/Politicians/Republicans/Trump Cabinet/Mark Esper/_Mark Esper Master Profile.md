@@ -1,16 +1,17 @@
 ---
-title: "Mark Esper"
+title: Mark Esper
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "Secretary of Defense (2019-2020)"
+party: Republican
+chamber: Secretary of Defense (2019-2020)
 known-gaps:
-  - "No mapped relationships"
-  - "No donor network analysis"
+  - No mapped relationships
+  - No donor network analysis
 source-types:
   - Congress
+top-donors: "[[Raytheon (RTX Corporation)]]"
 ---
 
 

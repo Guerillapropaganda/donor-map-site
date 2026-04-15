@@ -1,30 +1,31 @@
 ---
-title: "Steve Witkoff"
+title: Steve Witkoff
 type: politician
 content-readiness: ready
-central-thesis: "Witkoff is the purest embodiment of the Trump administration's merger of personal profit and public diplomacy. As Middle East envoy, he negotiates with the same Gulf state leaders whose sovereign wealth funds invest in his business ventures and th..."
-last-updated: 2026-04-13
+central-thesis: Witkoff is the purest embodiment of the Trump administration's merger of personal profit and public diplomacy. As Middle East envoy, he negotiates with the same Gulf state leaders whose sovereign wealth funds invest in his business ventures and th...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Cabinet"
+party: Republican
+chamber: Cabinet
 issues:
-  - "Housing"
-  - "Technology"
-  - "Israel & Foreign Policy"
+  - Housing
+  - Technology
+  - Israel & Foreign Policy
 last-enriched: "2026-04-10"
 source-types:
   - DOJ
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record from Congress.gov"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record from Congress.gov
+  - No voting record data
+  - No mapped relationships
 related: "[[_Donald Trump Master Profile|Trump]] · [[_Jared Kushner Master Profile|Jared Kushner]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[World Liberty Financial]] · [[Crypto Industry Bloc]] · [[Real Estate Development Industry Bloc]] · [[_David Sacks Master Profile|David Sacks]]"
-wikidata-id: "Q16189572"
-wikipedia-url: "https://en.wikipedia.org/wiki/Steve_Witkoff"
-wikipedia-extract: "Steven Charles Witkoff is an American real estate developer, investor, and founder of the Witkoff Group."
+wikidata-id: Q16189572
+wikipedia-url: https://en.wikipedia.org/wiki/Steve_Witkoff
+wikipedia-extract: Steven Charles Witkoff is an American real estate developer, investor, and founder of the Witkoff Group.
 born: "1957-03-15"
+top-donors: "[[World Liberty Financial]]"
 ---
 
 <!-- auto:data-panel start -->

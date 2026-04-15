@@ -1,22 +1,21 @@
 ---
-title: "JCRC Bay Area"
+title: JCRC Bay Area
 type: donor
 content-readiness: draft
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Israel Lobby"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Gavin Newsom"
+sector: Israel Lobby
+entity-type: Individual Donor
+politicians-funded: "[[Gavin Newsom]]"
 issues:
-  - "Israel & Foreign Policy"
+  - Israel & Foreign Policy
 related: "[[Haim Saban]] · [[Ethnic Studies - Whose History Gets Taught]] · [[DMFI - Democratic Majority for Israel]] · [[_Gavin Newsom Master Profile]] · [[Pro-Israel Donor Network Deep Dive]] · [[Early History and Background Ties 2003-2019]] · [[Post-October 7 Positions and Flip History]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[J Street]] · [[Christians United for Israel]] · [[American Friends of the Likud]] · [[Blue Shield of California]] · [[Anthem - Elevance Health]] · [[American Gaming Association]] · [[Mohammed bin Salman]] · [[United Arab Emirates - Influence Operation]] · [[Saudi Arabia - Kingdom Investment]] · [[Turkey - Erdogan Lobbying Operation]] · [[Israel - Government Lobbying Operation]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]]"
 known-gaps:
-  - "No FEC contribution data"
-  - "No lobbying disclosure data"
+  - No FEC contribution data
+  - No lobbying disclosure data
 ein: "510647928"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-10"
 total-revenue: 631909
 total-assets: 1038719

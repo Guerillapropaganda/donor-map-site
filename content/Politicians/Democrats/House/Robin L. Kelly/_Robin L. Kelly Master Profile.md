@@ -1,27 +1,28 @@
 ---
-title: "Robin L. Kelly"
+title: Robin L. Kelly
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "Illinois"
-state-abbr: "IL"
+party: Democrat
+chamber: House
+state: Illinois
+state-abbr: IL
 district: "2"
-bioguide-id: "K000385"
+bioguide-id: K000385
 govtrack-id: 412595
 born: "1956-04-30"
-wikidata-id: "Q3437091"
-website: "https://robinkelly.house.gov"
-phone: "202-225-0773"
+wikidata-id: Q3437091
+website: https://robinkelly.house.gov
+phone: 202-225-0773
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
+top-donors: "[[CA Farm Bureau Federation]]"
 ---
 
 

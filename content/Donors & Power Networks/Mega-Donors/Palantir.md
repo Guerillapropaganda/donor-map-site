@@ -1,63 +1,58 @@
 ---
-title: "Palantir Technologies"
+title: Palantir Technologies
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Mega-Donors"
-entity-type: "Corporation"
-politicians-funded:
-  - "JD Vance"
-  - "David Sacks"
-  - "Donald Trump"
+sector: Mega-Donors
+entity-type: Corporation
+politicians-funded: "[[David Sacks (Donor Network)]], [[JD Vance]], [[Donald Trump]], [[David Sacks]]"
 issues:
-  - "Defense & Military"
-  - "Immigration"
+  - Defense & Military
+  - Immigration
 court-cases: 252
 last-enriched: "2026-04-10"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 court-jurisdictions:
-  - "Court of Appeals for the D.C. Circuit"
-  - "Court of Appeals for the Tenth Circuit"
-  - "District Court, C.D. California"
-  - "District Court, District of Columbia"
-  - "District Court, E.D. California"
-  - "District Court, E.D. New York"
-  - "District Court, M.D. Florida"
-  - "District Court, N.D. California"
-  - "District Court, N.D. Mississippi"
-  - "District Court, S.D. New York"
+  - Court of Appeals for the D.C. Circuit
+  - Court of Appeals for the Tenth Circuit
+  - District Court, C.D. California
+  - District Court, District of Columbia
+  - District Court, E.D. California
+  - District Court, E.D. New York
+  - District Court, M.D. Florida
+  - District Court, N.D. California
+  - District Court, N.D. Mississippi
+  - District Court, S.D. New York
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 federal-register-mentions: 8
 regulatory-agencies:
-  - "Antitrust Division"
-  - "Federal Communications Commission"
-  - "Federal Trade Commission"
-  - "Justice Department"
-  - "Securities and Exchange Commission"
+  - Antitrust Division
+  - Federal Communications Commission
+  - Federal Trade Commission
+  - Justice Department
+  - Securities and Exchange Commission
 subawards-issued: 9
 subawards-issued-amount: 50130060
 subawards-received: 9
 subawards-received-amount: 50130060
-top-federal-agency: "Department of Defense"
+top-federal-agency: Department of Defense
 top-naics-code: "511210"
-lei: "549300UVN46B3BBDHO85"
-lei-jurisdiction: "US-DE"
+lei: 549300UVN46B3BBDHO85
+lei-jurisdiction: US-DE
 related: "[[Palantir Technologies Political Operation]] · [[Invariant]] · [[Cornerstone Government Affairs]] · [[Brownstein Hyatt Farber Schreck]] · [[Ballard Partners]] · [[Alpine Group]] · [[Ajay Royan]] · [[Lockheed Martin]] · [[General Dynamics]] · [[Northrop Grumman]] · [[Booz Allen Hamilton]] · [[Raytheon (RTX Corporation)]] · [[Boeing Defense]] · [[Founders Fund]] · [[Peter Thiel]] · [[_JD Vance Master Profile|JD Vance]] · [[_David Sacks Master Profile|David Sacks]] · [[Anduril Industries]] · [[_Donald Trump Master Profile|Donald Trump]] · [[Koch Industries]] · [[Raytheon Technologies]] · [[_Josh Gottheimer Master Profile]] · [[Eric Schmidt]] · [[Donor Registry - Master Index]] · [[Defense Industry Bloc]] · [[Eli Lilly]] · [[Johnson & Johnson]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Gilead Sciences]] · [[Centene Corporation]] · [[AbbVie]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[UnitedHealth Group - Optum]]"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
-
-[URL Check 2026-04-08] 25 checked: 16 ok, 1 broken, 8 slow. | BROKEN: Source: CourtListener / RECAP | SLOW: Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Order Approving a Proposed Rule Change, as Modified by Amendment No. 2, To Allow Companies To List in Connection With a Direct Listing With a Primary Offering in Which the Company Will Sell Shares Itself in the Opening Auction on the First Day of Trading on Nasdaq and To Explain How the Opening Transaction for Such a Listing Will Be Effected | SLOW: Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules | SLOW: Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules | SLOW: Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Allow Companies To List in Connection With a Direct Listing With a Primary Offering In Which the Company Will Sell Shares Itself In the Opening Auction on the First Day of Trading on Nasdaq and To Explain How the Opening Transaction for Such a Listing Will Be Effected | SLOW: Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules | SLOW: Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules | SLOW: Source: Federal Register | SLOW: Source: GLEIF"
+internal-notes: |-
+  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+  [URL Check 2026-04-08] 25 checked: 16 ok, 1 broken, 8 slow. | BROKEN: Source: CourtListener / RECAP | SLOW: Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Order Approving a Proposed Rule Change, as Modified by Amendment No. 2, To Allow Companies To List in Connection With a Direct Listing With a Primary Offering in Which the Company Will Sell Shares Itself in the Opening Auction on the First Day of Trading on Nasdaq and To Explain How the Opening Transaction for Such a Listing Will Be Effected | SLOW: Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules | SLOW: Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules | SLOW: Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Allow Companies To List in Connection With a Direct Listing With a Primary Offering In Which the Company Will Sell Shares Itself In the Opening Auction on the First Day of Trading on Nasdaq and To Explain How the Opening Transaction for Such a Listing Will Be Effected | SLOW: Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules | SLOW: Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules | SLOW: Source: Federal Register | SLOW: Source: GLEIF
 federal-awards-total: 1168645041
 federal-contracts-count: 25
 federal-grants-count: 0
-wikidata-id: "Q2047336"
-wikipedia-url: "https://en.wikipedia.org/wiki/Palantir"
-wikipedia-extract: "Palantir Technologies Inc. is an American publicly traded company that develops data integration and analytics platforms enabling government agencies, militaries, and corporations to combine and analy..."
+wikidata-id: Q2047336
+wikipedia-url: https://en.wikipedia.org/wiki/Palantir
+wikipedia-extract: Palantir Technologies Inc. is an American publicly traded company that develops data integration and analytics platforms enabling government agencies, militaries, and corporations to combine and analy...
 founded: "2003-00-00"
 cross-vault-triangulation-count: 28
 ---

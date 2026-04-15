@@ -2,15 +2,12 @@
 title: Peter Thiel
 type: donor
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Mega-Donors
 entity-type: Individual Donor
-politicians-funded:
-  - Donald Trump
-  - JD Vance
-  - David Sacks
+politicians-funded: "[[Dan Bongino]], [[Donald Trump]], [[Matt Mahan]], [[Glenn Greenwald]], [[Nate Silver]], [[David Sacks]], [[Vivek Ramaswamy]], [[Mike Johnson]], [[David Sacks (Donor Network)]], [[Bari Weiss]], [[JD Vance]], [[Russell Brand]], [[Lex Fridman]]"
 subawards-issued: 50
 subawards-issued-amount: 1009778941592127500
 subawards-received: 50
@@ -18,41 +15,31 @@ subawards-received-amount: 1009778941592127500
 federal-register-mentions: 1
 last-enriched: "2026-04-10"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 regulatory-agencies:
   - Federal Trade Commission
 related: "[[The Billionaire Cabinet - Self-Dealing as Governance]] · [[The Contractor Beneficiaries - Who Replaced the Civil Servants]] · [[DOGE - The Billionaires Government]] · [[Mike Johnson Master Profile]] · [[Vivek Ramaswamy Master Profile]] · [[Matt Mahan Master Profile]] · [[The Thiel-Adjacent Tech Pipeline]] · [[Dan Bongino]] · [[Russell Brand]] · [[Nate Silver]] · [[Lex Fridman]] · [[Glenn Greenwald]] · [[_Donald Trump Master Profile]] · [[Elon Musk]] · [[_JD Vance Master Profile]] · [[_David Sacks Master Profile|David Sacks]] · [[The Thiel Pipeline - From Yale to VP]] · [[The 2024 Tech Billionaire Network]] · [[Narya Capital and the Venture Capital Pipeline]] · [[Hillbilly Elegy and the Class Fraud]] · [[The PayPal Mafia and the Venture Capital Governing Class]] · [[The Palantir State - Surveillance as Policy]] · [[Section 702 - The Warrantless Surveillance Expansion]] · [[The Billionaire Cabinet - Wealthiest Administration in History]] · [[The AIPAC-Thiel-Fossil Fuel Speaker Fundraising Explosion]] · [[The Silicon Valley Billionaire Donor Map]] · [[Bari Weiss]] · [[Ohio 2026 - The Donor Pipeline Comparison - Acton vs Ramaswamy]] · [[How Money Captures Media , The Donor Map Media Pipeline]]"
 lobbying-spend: 1684850
 lobbying-filings: 106
-stories: >-
-  [[The 2024 Tech Billionaire Network]] · [[Hillbilly Elegy and the Class
-  Fraud]] · [[Narya Capital and the Venture Capital Pipeline]] · [[The PayPal
-  Mafia and the Venture Capital Governing Class]] · [[The Palantir State -
-  Surveillance as Policy]] · [[Section 702 - The Warrantless Surveillance
-  Expansion]] · [[The Billionaire Cabinet - Wealthiest Administration in
-  History]] · [[The AIPAC-Thiel-Fossil Fuel Speaker Fundraising Explosion]] ·
-  [[The Silicon Valley Billionaire Donor Map]] · [[The Thiel Pipeline - From
-  Yale to VP]]
+stories: "[[The 2024 Tech Billionaire Network]] · [[Hillbilly Elegy and the Class Fraud]] · [[Narya Capital and the Venture Capital Pipeline]] · [[The PayPal Mafia and the Venture Capital Governing Class]] · [[The Palantir State - Surveillance as Policy]] · [[Section 702 - The Warrantless Surveillance Expansion]] · [[The Billionaire Cabinet - Wealthiest Administration in History]] · [[The AIPAC-Thiel-Fossil Fuel Speaker Fundraising Explosion]] · [[The Silicon Valley Billionaire Donor Map]] · [[The Thiel Pipeline - From Yale to VP]]"
 court-cases: 261
 court-jurisdictions:
-  - "Court of Appeals for the Fifth Circuit"
-  - "Court of Appeals for the Tenth Circuit"
-  - "District Court, D. Colorado"
-  - "District Court, D. Delaware"
-  - "District Court, D. Massachusetts"
-  - "District Court, E.D. North Carolina"
-  - "District Court, N.D. California"
-  - "District Court, N.D. Georgia"
-  - "District Court, N.D. Ohio"
-  - "District Court, N.D. Texas"
-wikidata-id: "Q705525"
-wikipedia-url: "https://en.wikipedia.org/wiki/Peter_Thiel"
-wikipedia-extract: "Peter Andreas Thiel is a German and American entrepreneur, venture capitalist, and conservative political activist."
+  - Court of Appeals for the Fifth Circuit
+  - Court of Appeals for the Tenth Circuit
+  - District Court, D. Colorado
+  - District Court, D. Delaware
+  - District Court, D. Massachusetts
+  - District Court, E.D. North Carolina
+  - District Court, N.D. California
+  - District Court, N.D. Georgia
+  - District Court, N.D. Ohio
+  - District Court, N.D. Texas
+wikidata-id: Q705525
+wikipedia-url: https://en.wikipedia.org/wiki/Peter_Thiel
+wikipedia-extract: Peter Andreas Thiel is a German and American entrepreneur, venture capitalist, and conservative political activist.
 born: "1967-10-11"
 cross-vault-triangulation-count: 19
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

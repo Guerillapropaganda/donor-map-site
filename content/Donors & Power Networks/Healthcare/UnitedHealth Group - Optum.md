@@ -1,35 +1,34 @@
 ---
-title: "UnitedHealth Group - Optum"
+title: UnitedHealth Group - Optum
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Healthcare"
-entity-type: "Corporation"
-politicians-funded:
-  - "Gavin Newsom"
+sector: Healthcare
+entity-type: Corporation
+politicians-funded: "[[Nancy Pelosi]], [[Kamala Harris]], [[Gavin Newsom]], [[Joe Biden]]"
 lobbying-spend: 25055000
 lobbying-filings: 55
 sec-filings: 52
 sec-form-types:
-  - "10-K"
-  - "10-K/A"
+  - 10-K
+  - 10-K/A
   - "4"
-  - "424B4"
-  - "8-K"
-  - "DEF 14A"
-  - "DEFA14A"
-  - "DFAN14A"
-  - "DRS/A"
-  - "EX-10.11"
-  - "EX-10.31"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "PART II AND III"
-  - "S-1"
-  - "S-1/A"
-  - "SCHEDULE 13G/A"
+  - 424B4
+  - 8-K
+  - DEF 14A
+  - DEFA14A
+  - DFAN14A
+  - DRS/A
+  - EX-10.11
+  - EX-10.31
+  - EX-99.1
+  - EX-99.2
+  - PART II AND III
+  - S-1
+  - S-1/A
+  - SCHEDULE 13G/A
 subawards-issued: 50
 subawards-issued-amount: 1009778941592127500
 subawards-received: 50
@@ -37,8 +36,8 @@ subawards-received-amount: 1009778941592127500
 federal-register-mentions: 2
 last-enriched: "2026-04-11"
 regulatory-agencies:
-  - "Employment and Training Administration"
-  - "Labor Department"
+  - Employment and Training Administration
+  - Labor Department
 related: "[[Civica Rx]] · [[Healthcare - Donors and Backers]] · [[Medicare for All - The Policy That Broke the Party]] · [[Kamala Harris Master Profile]] · [[Joe Biden Master Profile]] · [[The Pharmaceutical Deal and the IRA - Ten Drugs Out of Twelve Thousand]] · [[Moderna]] · [[The ACA - Insurance Industry Capture Disguised as Healthcare Reform]] · [[Nancy Pelosi Master Profile]] · [[Kaiser Permanente]] · [[Legislative Record as Speaker]] · [[The Energy and Commerce Committee and Telecom-Pharma Jurisdiction]] · [[Anthony Rendon]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Economic Policy - Donors and Backers]] · [[CTA - California Teachers Association]] · [[The Insurance Industry Public Option Kill]] · [[Bernie Sanders Master Profile]] · [[Barack Obama Master Profile]] · [[The Labor-HHS Appropriations Chair and Nutrition Policy]] · [[Josh Green Master Profile]] · [[_Gavin Newsom Master Profile]] · [[COVID No-Bid Contracts - Blue Shield and UnitedHealth]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Single-Payer Broken Promise]] · [[Uber]] · [[Lyft]] · [[Anthem - Elevance Health Political Operation]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Purdue Pharma - Sackler Family]] · [[Novo Nordisk]] · [[Merck]] · [[Johnson & Johnson]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]]"
 cross-vault-triangulation-count: 25
 audit-a-plus-passed: "2026-04-11"

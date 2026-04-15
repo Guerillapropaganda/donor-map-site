@@ -1,38 +1,39 @@
 ---
-title: "Walton Family Foundation"
+title: Walton Family Foundation
 type: donor
 content-readiness: draft
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Education"
-entity-type: "Individual Donor"
-lei: "549300EHSRWZEI5Q4G61"
-lei-jurisdiction: "US-DE"
+sector: Education
+entity-type: Individual Donor
+lei: 549300EHSRWZEI5Q4G61
+lei-jurisdiction: US-DE
 ein: "472066714"
-annual-revenue: "$81K"
-net-assets: "$1.9M"
+annual-revenue: $81K
+net-assets: $1.9M
 tax-year: "2023"
 related: "[[Virginia Foxx]] · [[Sarah Huckabee Sanders Master Profile]] · [[The LEARNS Act and the Education Privatization Donor Network]] · [[Michael Bennet]] · [[Buffy Wicks]] · [[Education - Donors and Backers]] · [[Charter Schools and the Billionaire Reform Movement]] · [[California Charter Schools Association]] · [[Eli Broad Foundation]] · [[DeVos Family]] · [[American Federation for Children]] · [[National Education Association]] · [[US Chamber of Commerce]] · [[Insurance Industry]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[American Iron and Steel Institute]]"
 known-gaps:
-  - "No FEC contribution data"
-  - "No lobbying disclosure data"
+  - No FEC contribution data
+  - No lobbying disclosure data
 court-cases: 36
 last-enriched: "2026-04-09"
 court-jurisdictions:
-  - "Court of Appeals for the Eighth Circuit"
-  - "Court of Appeals for the Ninth Circuit"
-  - "District Court, D. Maryland"
-  - "District Court, D. New Jersey"
-  - "District Court, D. Utah"
-  - "District Court, E.D. Arkansas"
-  - "District Court, E.D. Virginia"
-  - "District Court, N.D. California"
-  - "District Court, N.D. Oklahoma"
-  - "United States Court of International Trade"
-nonprofit-status: "501(c)(3)"
+  - Court of Appeals for the Eighth Circuit
+  - Court of Appeals for the Ninth Circuit
+  - District Court, D. Maryland
+  - District Court, D. New Jersey
+  - District Court, D. Utah
+  - District Court, E.D. Arkansas
+  - District Court, E.D. Virginia
+  - District Court, N.D. California
+  - District Court, N.D. Oklahoma
+  - United States Court of International Trade
+nonprofit-status: 501(c)(3)
 total-revenue: 455437
 total-assets: 1873781
+politicians-funded: "[[Virginia Foxx]], [[Sarah Huckabee Sanders]]"
 ---
 
 <!-- auto:data-panel start -->

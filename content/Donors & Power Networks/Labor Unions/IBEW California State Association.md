@@ -1,21 +1,20 @@
 ---
-title: "IBEW California State Association"
+title: IBEW California State Association
 type: donor
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Labor Unions"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Gavin Newsom"
+sector: Labor Unions
+entity-type: Individual Donor
+politicians-funded: "[[Gavin Newsom]]"
 known-gaps:
-  - "No FEC contribution data"
-  - "No lobbying disclosure data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No lobbying disclosure data
+  - No mapped relationships
 related: "[[IBEW - International Brotherhood of Electrical Workers]] · [[IBEW Local 477 - San Bernardino]] · [[IBEW Local 440 - Riverside]] · [[California Building and Construction Trades Council]] · [[PG&E]] · [[_Gavin Newsom Master Profile]] · [[California Labor Federation]]"
 ein: "940362021"
-nonprofit-status: "501(c)(5)"
+nonprofit-status: 501(c)(5)
 last-enriched: "2026-04-11"
 total-revenue: 4354834
 total-assets: 13058415

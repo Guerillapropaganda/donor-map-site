@@ -1,27 +1,22 @@
 ---
-title: "GEO Group - Private Prison Industrial Complex"
+title: GEO Group - Private Prison Industrial Complex
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Carceral State"
-entity-type: "Corporation"
-politicians-funded:
-  - "Gavin Newsom"
-  - "Donald Trump"
-  - "Chad Bianco"
-  - "Marco Rubio"
-  - "Pam Bondi"
+sector: Carceral State
+entity-type: Corporation
+politicians-funded: "[[Marco Rubio]], [[Chad Bianco]], [[Donald Trump]], [[Gavin Newsom]], [[Pam Bondi]]"
 federal-contracts: "959292"
 ofac-sdn-match: "true"
 last-enriched: "2026-04-11"
 ofac-programs:
-  - "NPWMD] [IFSR"
-  - "IRAN-EO13871"
-  - "BELARUS-EO14038"
-  - "RUSSIA-EO14024"
-  - "IRAN-EO13902"
+  - NPWMD] [IFSR
+  - IRAN-EO13871
+  - BELARUS-EO14038
+  - RUSSIA-EO14024
+  - IRAN-EO13902
 subawards-issued: 50
 subawards-issued-amount: 1009778941592127500
 subawards-received: 50

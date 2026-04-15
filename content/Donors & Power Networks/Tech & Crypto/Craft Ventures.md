@@ -1,14 +1,14 @@
 ---
-title: "Craft Ventures"
+title: Craft Ventures
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Tech & Crypto"
-entity-type: "Corporation"
+sector: Tech & Crypto
+entity-type: Corporation
 issues:
-  - "Technology"
+  - Technology
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-07"
@@ -17,6 +17,7 @@ lobbying-spend: 1665000
 lobbying-filings: 38
 cross-vault-triangulation-count: 0
 audit-a-plus-passed: "2026-04-11"
+politicians-funded: "[[David Sacks]]"
 ---
 
 

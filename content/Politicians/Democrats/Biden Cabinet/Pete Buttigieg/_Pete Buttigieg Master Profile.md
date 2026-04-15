@@ -2,16 +2,15 @@
 title: Pete Buttigieg
 type: politician
 content-readiness: ready
-central-thesis: "Buttigieg is the McKinsey candidate , a donor-class product designed in a lab. His 2020 campaign was funded by bundlers from finance, tech, and consulting; his Transportation tenure delivered bipartisan infrastructure money that flowed disproporti..."
-last-updated: 2026-04-13
+central-thesis: Buttigieg is the McKinsey candidate , a donor-class product designed in a lab. His 2020 campaign was funded by bundlers from finance, tech, and consulting; his Transportation tenure delivered bipartisan infrastructure money that flowed disproporti...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Democrat
 chamber: Cabinet
 state: Indiana
 state-abbr: IN
-top-donors:
-  - Finance and Tech Bundler Network
+top-donors: "[[Women Speak Out Pac]], [[Dream Defenders Fight Pac]], [[Votevets]], [[Equality California Votes]], [[DoorDash]], [[Finance and Tech Bundler Network]]"
 fec-candidate-id: P00010298
 source-types:
   - FEC
@@ -19,10 +18,7 @@ known-gaps:
   - No legislative record from Congress.gov
   - No voting record data
   - No mapped relationships
-related: >-
-  [[_Gretchen Whitmer Master Profile]] · [[_Kamala Harris Master Profile]] ·
-  [[_Josh Shapiro Master Profile|Josh Shapiro]] · [[_Wes Moore Master
-  Profile|Wes Moore]]
+related: "[[_Gretchen Whitmer Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Josh Shapiro Master Profile|Josh Shapiro]] · [[_Wes Moore Master Profile|Wes Moore]]"
 ---
 
 <!-- auto:data-panel start -->

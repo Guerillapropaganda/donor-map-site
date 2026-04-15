@@ -1,50 +1,46 @@
 ---
-title: "Walt Disney Company"
+title: Walt Disney Company
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Media & Entertainment"
-entity-type: "Corporation"
-politicians-funded:
-  - "Ron DeSantis"
-lei: "549300GZKULIZ0WOW665"
-lei-jurisdiction: "US-DE"
+sector: Media & Entertainment
+entity-type: Corporation
+politicians-funded: "[[Ron DeSantis]]"
+lei: 549300GZKULIZ0WOW665
+lei-jurisdiction: US-DE
 sec-filings: 10000
 sec-form-types:
   - "144"
   - "3"
   - "4"
-  - "424B2"
-  - "424B5"
+  - 424B2
+  - 424B5
   - "425"
-  - "8-K"
-  - "DEFA14A"
-  - "EX-10.2"
-  - "EX-10.B"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "FWP"
-  - "N-PX"
-  - "PROXY VOTING RECORD"
-  - "S-3ASR"
-  - "S-8 POS"
-  - "SC TO-I"
-  - "SCHEDULE 13D/A"
-  - "SCHEDULE 13G/A"
+  - 8-K
+  - DEFA14A
+  - EX-10.2
+  - EX-10.B
+  - EX-99.1
+  - EX-99.2
+  - FWP
+  - N-PX
+  - PROXY VOTING RECORD
+  - S-3ASR
+  - S-8 POS
+  - SC TO-I
+  - SCHEDULE 13D/A
+  - SCHEDULE 13G/A
 ein: 956037079
-annual-revenue: "$2.3M"
-net-assets: "$681K"
+annual-revenue: $2.3M
+net-assets: $681K
 tax-year: "2023"
 related: "[[News Corp - Fox Corporation]] · [[Comcast - NBCUniversal]] · [[Google - Alphabet]] · [[_Ron DeSantis Master Profile|DeSantis]] · [[iHeartMedia]] · [[Verizon]] · [[Sinclair Broadcast Group]] · [[AT&T]]"
 cross-vault-triangulation-count: 7
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline; run pipelines"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-  • No last-enriched date is set. The pipelines have never touched this file.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: run lda pipeline; run pipelines
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

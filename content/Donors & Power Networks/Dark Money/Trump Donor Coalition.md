@@ -1,28 +1,25 @@
 ---
-title: "Trump Donor Coalition"
+title: Trump Donor Coalition
 type: donor
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Dark Money"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Donald Trump"
+sector: Dark Money
+entity-type: Individual Donor
+politicians-funded: "[[Donald Trump]]"
 issues:
-  - "Dark Money & Campaign Finance"
+  - Dark Money & Campaign Finance
 related: "[[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Bill Hagerty]] · [[_Donald Trump Master Profile|Trump]] · [[Miriam Adelson]] · [[Elon Musk]] · [[Timothy Mellon]] · [[America PAC - Elon Musk]] · [[Jeffrey Yass]] · [[Senate Leadership Fund]] · [[Congressional Leadership Fund]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[Haim Saban]] · [[American Friends of the Likud]] · [[AIPAC - American Israel Public Affairs Committee]] · [[JCRC Bay Area]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[J Street]] · [[Christians United for Israel]] · [[Blue Shield of California]] · [[Anthem - Elevance Health]] · [[American Gaming Association]] · [[United Arab Emirates - Influence Operation]] · [[Turkey - Erdogan Lobbying Operation]]"
 lobbying-spend: 40000
 lobbying-filings: 4
 ein: "363550786"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-09"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 cross-vault-triangulation-count: 14
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

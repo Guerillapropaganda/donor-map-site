@@ -1,16 +1,17 @@
 ---
-title: "American Future Fund"
+title: American Future Fund
 type: donor
 content-readiness: raw
 editorial-status: stub
-sector: "Political Committees"
-entity-type: "PAC"
-last-updated: 2026-04-14
+sector: Political Committees
+entity-type: PAC
+last-updated: 2026-04-14T00:00:00.000Z
 source-tier: 1
 aliases:
-  - "AMERICAN FUTURE FUND"
+  - AMERICAN FUTURE FUND
 known-gaps:
-  - "Auto-created stub for relationship edge resolution. Full editorial content pending , needs Research Claude to fill in donors, politicians funded, ideology, and class analysis."
+  - Auto-created stub for relationship edge resolution. Full editorial content pending , needs Research Claude to fill in donors, politicians funded, ideology, and class analysis.
+politicians-funded: "[[Rick Larsen]], [[Kyrsten Sinema]], [[Martin Heinrich]]"
 ---
 
 ## Auto-Created Stub

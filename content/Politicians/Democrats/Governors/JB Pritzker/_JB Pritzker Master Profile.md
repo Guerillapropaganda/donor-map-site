@@ -3,16 +3,14 @@ title: JB Pritzker
 type: politician
 content-readiness: draft
 central-thesis: "JB Pritzker is the Democratic donor class in its purest form: the donor IS the politician. He didn't need bundlers, super PACs, or industry favors , he wrote himself $323 million in checks. The self-funding eliminates the intermediary between weal..."
-last-updated: '2026-04-09'
+last-updated: "2026-04-09"
 source-tier: 1
 parent: null
 party: Democrat
 chamber: Governor
 state: Illinois
 state-abbr: IL
-top-donors:
-  - Democratic Governors Association
-  - UNITE HERE
+top-donors: "[[Democratic Governors Association]], [[Illinois Future PAC]], [[UNITE HERE]]"
 source-types:
   - Congress
   - FEC

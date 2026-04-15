@@ -1,33 +1,25 @@
 ---
-title: "AFGE - American Federation of Government Employees"
+title: AFGE - American Federation of Government Employees
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-09T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Labor Unions"
-entity-type: "Individual Donor"
+sector: Labor Unions
+entity-type: Individual Donor
 ein: "251331251"
-annual-revenue: "$253K"
-net-assets: "$112K"
+annual-revenue: $253K
+net-assets: $112K
 tax-year: "2023"
-total-political-spend: "$664,400"
-politicians-funded:
-  - "Tammy Baldwin"
-  - "Gary Peters"
-  - "Bobby Scott"
-  - "Rick Scott"
-  - "Tim Scott"
-  - "Frank Pallone"
-  - "Kyrsten Sinema"
-  - "Lisa Murkowski"
+total-political-spend: $664,400
+politicians-funded: "[[Rick Scott]], [[Bobby Scott]], [[Kyrsten Sinema]], [[Tammy Baldwin]], [[Gary Peters]], [[Lisa Murkowski]], [[Tim Scott]], [[Frank Pallone]]"
 federal-register-mentions: 1
 last-enriched: "2026-04-09"
 regulatory-agencies:
-  - "Homeland Security Department"
-  - "Personnel Management Office"
+  - Homeland Security Department
+  - Personnel Management Office
 related: "[[Lisa Murkowski]] · [[Tim Scott]] · [[Frank Pallone]] · [[Bobby Scott]]"
-nonprofit-status: "tax-exempt"
+nonprofit-status: tax-exempt
 cross-vault-triangulation-count: 2
 audit-a-plus-passed: "2026-04-11"
 ---

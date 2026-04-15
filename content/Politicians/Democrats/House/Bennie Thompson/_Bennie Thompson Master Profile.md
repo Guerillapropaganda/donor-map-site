@@ -1,36 +1,34 @@
 ---
-title: "Bennie Thompson"
+title: Bennie Thompson
 type: politician
 content-readiness: ready
-central-thesis: "Bennie Thompson is the civil rights organizer who became the surveillance state's Democratic gatekeeper. His career arc , from SNCC activism to chairing the committee that oversees DHS, TSA, ICE, and CBP , is a map of how the Democratic Party abso..."
-last-updated: 2026-04-15
+central-thesis: Bennie Thompson is the civil rights organizer who became the surveillance state's Democratic gatekeeper. His career arc , from SNCC activism to chairing the committee that oversees DHS, TSA, ICE, and CBP , is a map of how the Democratic Party abso...
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "House"
-state: "Mississippi"
-state-abbr: "MS"
+party: Democrat
+chamber: House
+state: Mississippi
+state-abbr: MS
 district: "6"
 committees:
-  - "Homeland Security"
+  - Homeland Security
 leadership-roles:
-  - "Ranking Member"
-total-received: "$608,726"
-fec-candidate-id: "H4MS02068"
-bioguide-id: "T000193"
+  - Ranking Member
+total-received: $608,726
+fec-candidate-id: H4MS02068
+bioguide-id: T000193
 govtrack-id: 400402
 bills-sponsored: 14
 bills-cosponsored: 355
-website: "https://benniethompson.house.gov"
-phone: "202-225-5876"
-donors: "[[IBEW - International Brotherhood of Electrical Workers]] · [[Blue Shield of California]] · [[American Gaming Association]] · [[California Farm Bureau Federation]] · [[National Cattlemen's Beef Association]] · [[CA Farm Bureau Federation]]"
+website: https://benniethompson.house.gov
+phone: 202-225-5876
+donors: "[[IBEW - International Brotherhood of Electrical Workers]] · [[Blue Shield of California]] · [[American Gaming Association]] · [[California Farm Bureau Federation]] · [[National Cattlemen's Beef Association]] · [[CA Farm Bureau Federation]] · [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]]"
 last-enriched: "2026-04-15"
 needs-reenrichment: true
-reenrich-reason: "run congress pipeline"
+reenrich-reason: run congress pipeline
 related: "[[_Donald Trump Master Profile|Trump]] · [[_Nancy Pelosi Master Profile|Pelosi]]"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

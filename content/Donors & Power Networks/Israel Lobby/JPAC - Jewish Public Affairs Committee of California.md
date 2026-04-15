@@ -1,32 +1,29 @@
 ---
-title: "JPAC - Jewish Public Affairs Committee of California"
+title: JPAC - Jewish Public Affairs Committee of California
 type: donor
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Israel Lobby"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Gavin Newsom"
+sector: Israel Lobby
+entity-type: Individual Donor
+politicians-funded: "[[Gavin Newsom]]"
 issues:
-  - "Israel & Foreign Policy"
+  - Israel & Foreign Policy
 ofac-sdn-match: "true"
 last-enriched: "2026-04-15"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 ofac-programs:
-  - "BELARUS"
-  - "GLOMAG"
+  - BELARUS
+  - GLOMAG
 related: "[[Ethnic Studies - Whose History Gets Taught]] · [[_Gavin Newsom Master Profile]] · [[Pro-Israel Donor Network Deep Dive]] · [[Early History and Background Ties 2003-2019]] · [[Post-October 7 Positions and Flip History]] · [[JCRC Bay Area]] · [[Haim Saban]] · [[J Street]] · [[Christians United for Israel]] · [[American Friends of the Likud]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Blue Shield of California]] · [[Anthem - Elevance Health]] · [[American Gaming Association]] · [[Mohammed bin Salman]] · [[Israel - Government Lobbying Operation]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[California Charter Schools Association]]"
 ein: "680028695"
-nonprofit-status: "501(c)(4)"
+nonprofit-status: 501(c)(4)
 total-revenue: 841076
 total-assets: 358764
 cross-vault-triangulation-count: 9
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

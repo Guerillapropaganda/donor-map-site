@@ -1,69 +1,66 @@
 ---
-title: "Carlyle Group"
+title: Carlyle Group
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Wall Street"
-entity-type: "Corporation"
-politicians-funded:
-  - "Glenn Youngkin"
+sector: Wall Street
+entity-type: Corporation
+politicians-funded: "[[Glenn Youngkin]]"
 issues:
-  - "Wall Street & Finance"
-  - "Defense & Military"
+  - Wall Street & Finance
+  - Defense & Military
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-10"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 ein: 850703768
-annual-revenue: "$62.1M"
-net-assets: "$8.9M"
+annual-revenue: $62.1M
+net-assets: $8.9M
 tax-year: "2023"
 sec-filings: 10000
 sec-form-types:
-  - "10-K"
-  - "13F-HR"
+  - 10-K
+  - 13F-HR
   - "144"
   - "3"
   - "4"
-  - "8-K"
-  - "D"
-  - "D/A"
-  - "EX-23.1"
-  - "EX-23.3"
-  - "EX-99"
-  - "S-8 POS"
-  - "SC 13D/A"
-  - "SCHEDULE 13D/A"
-  - "SCHEDULE 13G/A"
-top-federal-agency: "Department of Defense"
+  - 8-K
+  - D
+  - D/A
+  - EX-23.1
+  - EX-23.3
+  - EX-99
+  - S-8 POS
+  - SC 13D/A
+  - SCHEDULE 13D/A
+  - SCHEDULE 13G/A
+top-federal-agency: Department of Defense
 top-naics-code: "336611"
 related: "[[American Enterprise Institute]] · [[Council on Foreign Relations]] · [[Blackstone Real Estate Political Operation]] · [[_Glenn Youngkin Master Profile|Glenn Youngkin]] · [[Goldman Sachs]] · [[Blackstone Group]] · [[Defense Industry Bloc]] · [[Private Equity Industry Bloc]] · [[Lockheed Martin]] · [[ManTech International]] · [[Koch Network - Charles Koch|Koch Network]] · [[Securities & Investment Industry]] · [[Goldman Sachs , The Government Sachs Alumni Network]] · [[CalPERS]] · [[Tim Geithner]]"
-lei: "529900NGGVF94UK6PG95"
-lei-jurisdiction: "US-DE"
+lei: 529900NGGVF94UK6PG95
+lei-jurisdiction: US-DE
 court-cases: 847
 court-jurisdictions:
-  - "Court of Appeals for the Eleventh Circuit"
-  - "District Court, C.D. California"
-  - "District Court, D. Arizona"
-  - "District Court, D. Delaware"
-  - "District Court, D. Minnesota"
-  - "District Court, District of Columbia"
-  - "District Court, E.D. New York"
-  - "District Court, N.D. Illinois"
-  - "District Court, S.D. New York"
-  - "District Court, W.D. Kentucky"
+  - Court of Appeals for the Eleventh Circuit
+  - District Court, C.D. California
+  - District Court, D. Arizona
+  - District Court, D. Delaware
+  - District Court, D. Minnesota
+  - District Court, District of Columbia
+  - District Court, E.D. New York
+  - District Court, N.D. Illinois
+  - District Court, S.D. New York
+  - District Court, W.D. Kentucky
 occ-enforcement-actions: 2
 occ-active-actions: 1
 occ-charter-numbers:
   - "2212"
 occ-cmp-dollars: 3000
 cross-vault-triangulation-count: 13
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

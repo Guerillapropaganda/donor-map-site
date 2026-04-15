@@ -1,34 +1,29 @@
 ---
-title: "Judicial Crisis Network"
+title: Judicial Crisis Network
 type: donor
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Dark Money"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Neil Gorsuch"
-  - "Amy Coney Barrett"
-  - "Brett Kavanaugh"
-  - "Sheldon Whitehouse"
-  - "Clarence Thomas"
+sector: Dark Money
+entity-type: Individual Donor
+politicians-funded: "[[Clarence Thomas]], [[Brett Kavanaugh]], [[Neil Gorsuch]], [[Sheldon Whitehouse]], [[Amy Coney Barrett]]"
 issues:
-  - "Dark Money & Campaign Finance"
+  - Dark Money & Campaign Finance
 lobbying-spend: 248300
 lobbying-filings: 23
 court-cases: 17
 last-enriched: "2026-04-09"
 court-jurisdictions:
-  - "Court of Appeals for the Tenth Circuit"
-  - "District Court, C.D. California"
-  - "District Court, D. Massachusetts"
-  - "District Court, District of Columbia"
-  - "District Court, E.D. Arkansas"
-  - "District Court, M.D. Tennessee"
-  - "District Court, S.D. Indiana"
+  - Court of Appeals for the Tenth Circuit
+  - District Court, C.D. California
+  - District Court, D. Massachusetts
+  - District Court, District of Columbia
+  - District Court, E.D. Arkansas
+  - District Court, M.D. Tennessee
+  - District Court, S.D. Indiana
 related: "[[DeVos Family]] · [[The Stolen Seat and the McConnell-Leo Pipeline]] · [[Three Justices in Four Years - The Leonard Leo Investment and Its Returns]] · [[Judicial - Donors and Backers]] · [[The SCOTUS Capture - From Bork to Barrett]] · [[Council for National Policy]] · [[The Dark Money Crusader and Court Reform]] · [[The Dark Money Crusade and Judicial Reform]] · [[Leonard Leo]] · [[_Neil Gorsuch Master Profile|Gorsuch]] · [[_Amy Coney Barrett Master Profile|Barrett]] · [[_Brett Kavanaugh Master Profile|Kavanaugh]] · [[Koch Network - Charles Koch]] · [[Donors Trust]] · [[Federalist Society]] · [[_Sheldon Whitehouse Master Profile|Whitehouse]] · [[_Clarence Thomas Master Profile|Thomas]] · [[American Federation for Children]] · [[National Education Association]] · [[Walton Family Foundation]] · [[US Chamber of Commerce]] · [[Insurance Industry]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[American Iron and Steel Institute]]"
-total-political-spend: "$75,000"
+total-political-spend: $75,000
 cross-vault-triangulation-count: 18
 audit-a-plus-passed: "2026-04-11"
 ---

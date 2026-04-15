@@ -1,49 +1,49 @@
 ---
-title: "Carlos Gimenez"
+title: Carlos Gimenez
 type: politician
 content-readiness: ready
 central-thesis: "Gimenez is the Miami infrastructure nexus , the politician whose donor base reveals the connection between South Florida real estate capital, defense contractors, and Cuba embargo enforcement. His documented donors include MasTec (content-readiness: ready1,200), Lennar..."
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "House"
-state: "Florida"
-state-abbr: "FL"
+party: Republican
+chamber: House
+state: Florida
+state-abbr: FL
 district: "28"
 committees:
-  - "Transportation & Infrastructure"
+  - Transportation & Infrastructure
 issues:
-  - "Housing"
-  - "Defense & Military"
+  - Housing
+  - Defense & Military
 top-donors:
-  - "MasTec - Mas Canosa Family"
-  - "Fanjul Family - Florida Crystals"
-total-received: "$301,979"
-fec-candidate-id: "H0FL26036"
-bioguide-id: "G000593"
+  - MasTec - Mas Canosa Family
+  - Fanjul Family - Florida Crystals
+total-received: $301,979
+fec-candidate-id: H0FL26036
+bioguide-id: G000593
 govtrack-id: 456809
 bills-sponsored: 8
 bills-cosponsored: 113
-website: "https://gimenez.house.gov"
-phone: "202-225-2778"
-donors: "[[Bacardi - Bacardi USA]]"
+website: https://gimenez.house.gov
+phone: 202-225-2778
+donors: "[[Bacardi - Bacardi USA]], [[HOUSE MAJORITY PAC]], [[Fanjul Family - Florida Crystals]], [[South Florida Residents First]], [[LCV VICTORY FUND]], [[MasTec - Mas Canosa Family]], [[WOMEN VOTE!]], [[DCCC]]"
 related: "[[Lennar Corporation]] · [[_Marco Rubio Master Profile|Rubio]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[_Maria Elvira Salazar Master Profile|Salazar]] · [[MasTec - Mas Canosa Family]] · [[Fanjul Family - Florida Crystals]]"
 source-types:
   - FEC
   - GovTrack
 corroboration-count: 2
 known-gaps:
-  - "No legislative record from Congress.gov"
+  - No legislative record from Congress.gov
 editorial-review-date: "2026-04-08"
-editorial-reviewer: "Research Claude"
+editorial-reviewer: Research Claude
 editorial-result: block
 editorial-blockers:
   - "No last-enriched date in frontmatter (Code Claude: run enrichment pipeline)"
-  - "Unresolved Crowley Maritime contradiction , needs investigation"
+  - Unresolved Crowley Maritime contradiction , needs investigation
   - "Wikipedia URL broken: points to All-In podcast instead of Carlos Gimenez"
   - "Connections incomplete: Rubio, Diaz-Balart, Salazar, MasTec, Fanjul mentioned in body but not all in YAML"
-  - "StoneColdTruth.com source is Tier 4 (Roger Stone) , claims need independent verification"
+  - StoneColdTruth.com source is Tier 4 (Roger Stone) , claims need independent verification
 verified-blocks:
   - voting-records
   - committee-assignments
@@ -51,11 +51,8 @@ verified-blocks:
   - fec-data
   - source-diversity
 needs-reenrichment: true
-reenrich-reason: "run congress pipeline; run pipelines"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-  • No last-enriched date is set. The pipelines have never touched this file.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: run congress pipeline; run pipelines
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

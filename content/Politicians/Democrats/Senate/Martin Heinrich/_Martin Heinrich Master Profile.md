@@ -1,29 +1,27 @@
 ---
-title: "Martin Heinrich"
+title: Martin Heinrich
 type: politician
 content-readiness: ready
-central-thesis: "Heinrich is the nuclear weapons complex's senator , an engineer who started his career inside the weapons labs, built his committee portfolio around the agencies that fund them, and has doubled their budgets. New Mexico's economy is structurally d..."
-last-updated: 2026-04-13
+central-thesis: Heinrich is the nuclear weapons complex's senator , an engineer who started his career inside the weapons labs, built his committee portfolio around the agencies that fund them, and has doubled their budgets. New Mexico's economy is structurally d...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "Senate"
-state: "New Mexico"
-state-abbr: "NM"
+party: Democrat
+chamber: Senate
+state: New Mexico
+state-abbr: NM
 committees:
-  - "Intelligence"
+  - Intelligence
 issues:
-  - "Defense & Military"
-top-donors:
-  - "Defense Industry"
-  - "Tech Industry"
-bioguide-id: "H001046"
+  - Defense & Military
+top-donors: "[[American Petroleum Institute]], [[Tech Industry]], [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]], [[Bill Gates]], [[Raytheon (RTX Corporation)]], [[NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE]], [[AMERICAN FUTURE FUND]], [[Defense Industry]]"
+bioguide-id: H001046
 govtrack-id: 412281
 bills-sponsored: 39
 bills-cosponsored: 329
-website: "https://www.heinrich.senate.gov"
-phone: "202-224-5521"
-fec-candidate-id: "S2NM00088"
+website: https://www.heinrich.senate.gov
+phone: 202-224-5521
+fec-candidate-id: S2NM00088
 last-enriched: "2026-04-08"
 source-types:
   - DOJ
@@ -31,8 +29,8 @@ source-types:
   - GovTrack
 corroboration-count: 3
 known-gaps:
-  - "No legislative record from Congress.gov"
-  - "No mapped relationships"
+  - No legislative record from Congress.gov
+  - No mapped relationships
 related: "[[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Jeanne Shaheen Master Profile|Jeanne Shaheen]]"
 ---
 

@@ -1,25 +1,21 @@
 ---
-title: "George Latimer"
+title: George Latimer
 type: politician
-bioguide-id: "L000606"
+bioguide-id: L000606
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-10T00:00:00.000Z
 source-tier: null
 parent: null
-party: "Democrat"
-chamber: "House"
-state: "New York"
-state-abbr: "NY"
+party: Democrat
+chamber: House
+state: New York
+state-abbr: NY
 district: "16"
 issues:
   - Israel & Foreign Policy
   - Local Government
 related: "[[_Jamaal Bowman Master Profile]] · [[United Democracy Project - UDP]] · [[DMFI - Democratic Majority for Israel]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Fairshake PAC]]"
-donors:
-  - "AIPAC"
-  - "United Democracy Project"
-  - "DMFI PAC"
-  - "Fairshake PAC"
+donors: "[[DMFI - Democratic Majority for Israel]], [[Bernie Marcus]], [[Fairshake PAC]], [[DMFI PAC]], [[UNITED DEMOCRACY PROJECT ('UDP')]], [[JUSTICE DEMOCRATS PAC]], [[United Democracy Project - UDP]]"
 source-types: []
 known-gaps:
   - Stub created 2026-04-09 to preserve vault connections
@@ -27,8 +23,8 @@ known-gaps:
   - No FEC candidate ID verified
   - No pipeline enrichment
 last-enriched: "2026-04-10"
-total-received: "$280,886"
-fec-candidate-id: "H4NY16087"
+total-received: $280,886
+fec-candidate-id: H4NY16087
 ---
 
 

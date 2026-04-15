@@ -1,18 +1,18 @@
 ---
-title: "Summer Lee"
+title: Summer Lee
 type: politician
 content-readiness: ready
 central-thesis: "Summer Lee is the vault's proof that AIPAC's override mechanism is actuarial, not absolute. The same donor class that successfully spent content-readiness: ready4.5M to defeat Bowman in NY-16 and $8.5M to defeat Bush in MO-01 failed twice to defeat Lee in PA-12 , despi..."
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "House"
-state: "Pennsylvania"
-state-abbr: "PA"
+party: Democrat
+chamber: House
+state: Pennsylvania
+state-abbr: PA
 district: "12"
-bioguide-id: "L000299"
-fec-candidate-id: "H2PA18200"
+bioguide-id: L000299
+fec-candidate-id: H2PA18200
 issues:
   - Israel & Foreign Policy
   - Labor
@@ -20,14 +20,11 @@ issues:
   - Healthcare
   - Environmental Justice
 related: "[[_Jamaal Bowman Master Profile]] · [[_Cori Bush Master Profile]] · [[_Ilhan Omar Master Profile]] · [[_Rashida Tlaib Master Profile]] · [[_Alexandria Ocasio-Cortez Master Profile]] · [[Justice Democrats and Brand New Congress - The Infrastructure He Built]] · [[United Democracy Project - UDP]] · [[DMFI - Democratic Majority for Israel]] · [[AIPAC - American Israel Public Affairs Committee]]"
-donors:
-  - "Justice Democrats PAC"
-  - "Courage to Change PAC"
-  - "Working Families Party"
+donors: "[[Courage to Change PAC]], [[JUSTICE DEMOCRATS PAC]], [[Justice Democrats PAC]]"
 opposes:
-  - "United Democracy Project"
-  - "DMFI PAC"
-  - "AIPAC"
+  - United Democracy Project
+  - DMFI PAC
+  - AIPAC
 source-types:
   - FEC
   - Congress
@@ -41,16 +38,13 @@ known-gaps:
   - 2024 primary UDP spending total needs verification against FEC IE records
 last-enriched: "2026-04-11"
 needs-reenrichment: true
-reenrich-reason: "run voting pipeline; re-run congress pipeline"
-total-received: "$1,134,454"
-editorial-review-date: '2026-04-10'
-editorial-reviewer: "Research Claude"
+reenrich-reason: run voting pipeline; re-run congress pipeline
+total-received: $1,134,454
+editorial-review-date: "2026-04-10"
+editorial-reviewer: Research Claude
 editorial-result: ready-candidate
 editorial-notes: "Strong draft promoted to ready 2026-04-10. Central thesis, AIPAC survival analysis, FEC auto-block populated, class analysis added. Core gaps: committee assignments, bill counts, GovTrack. FEC ID H2PA18200 may reflect old district , flag for David to verify. Candidate for verified promotion once committee/bill data added via pipeline."
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
-  • Congress.gov data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. • Congress.gov data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 

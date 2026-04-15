@@ -1,27 +1,28 @@
 ---
-title: "Jim Costa"
+title: Jim Costa
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "California"
-state-abbr: "CA"
+party: Democrat
+chamber: House
+state: California
+state-abbr: CA
 district: "21"
-bioguide-id: "C001059"
+bioguide-id: C001059
 govtrack-id: 400618
 born: "1952-04-13"
-wikidata-id: "Q675869"
-website: "https://costa.house.gov"
-phone: "202-225-3341"
+wikidata-id: Q675869
+website: https://costa.house.gov
+phone: 202-225-3341
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
+top-donors: "[[National Cattlemen's Beef Association]], [[California Farm Bureau Federation]]"
 ---
 
 

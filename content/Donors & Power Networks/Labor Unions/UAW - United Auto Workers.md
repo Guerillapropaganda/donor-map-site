@@ -1,34 +1,30 @@
 ---
-title: "UAW - United Auto Workers"
+title: UAW - United Auto Workers
 type: donor
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Labor Unions"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Frank Pallone"
-  - "Tammy Baldwin"
-  - "Mark Takano"
-  - "Pete Aguilar"
+sector: Labor Unions
+entity-type: Individual Donor
+politicians-funded: "[[Tammy Baldwin]], [[Pete Aguilar]], [[Frank Pallone]], [[Sherrod Brown]], [[Gary Peters]], [[Debbie Stabenow]], [[Mark Takano]]"
 issues:
-  - "Labor & Workers"
+  - Labor & Workers
 sec-filings: 15
 sec-form-types:
-  - "10-K"
-  - "10-Q"
-  - "ARS"
-  - "EX-99.1"
-  - "N-CSR"
+  - 10-K
+  - 10-Q
+  - ARS
+  - EX-99.1
+  - N-CSR
 ein: "340200249"
-annual-revenue: "$104K"
-net-assets: "$180K"
+annual-revenue: $104K
+net-assets: $180K
 tax-year: "2016"
 related: "[[Michigan 2026 Senate Race]] · [[Gary Peters Master Profile]] · [[Ohio 2026 Special Senate Election]] · [[AFL-CIO]] · [[SEIU - Service Employees International Union|SEIU]] · [[_Debbie Stabenow Master Profile|Stabenow]] · [[_Sherrod Brown Master Profile|Sherrod Brown]] · [[_Joe Biden Master Profile|Biden]] · [[_Kamala Harris Master Profile|Harris]] · [[_Donald Trump Master Profile|Trump]] · [[Pete Aguilar]] · [[Mark Takano]] · [[Frank Pallone]] · [[United Auto Workers]] · [[General Motors]] · [[Ford Motor Company]]"
-nonprofit-status: "501(c)(5)"
+nonprofit-status: 501(c)(5)
 last-enriched: "2026-04-09"
-total-political-spend: "$3,283,200"
+total-political-spend: $3,283,200
 cross-vault-triangulation-count: 12
 audit-a-plus-passed: "2026-04-11"
 ---

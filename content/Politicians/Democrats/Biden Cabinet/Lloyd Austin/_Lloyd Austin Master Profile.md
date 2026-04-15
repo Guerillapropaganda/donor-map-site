@@ -1,16 +1,17 @@
 ---
-title: "Lloyd Austin"
+title: Lloyd Austin
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "Secretary of Defense"
+party: Democrat
+chamber: Secretary of Defense
 known-gaps:
-  - "No mapped relationships"
-  - "No donor network analysis"
+  - No mapped relationships
+  - No donor network analysis
 source-types:
   - Congress
+top-donors: "[[Raytheon (RTX Corporation)]]"
 ---
 
 

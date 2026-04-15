@@ -1,49 +1,41 @@
 ---
-title: "American Petroleum Institute"
+title: American Petroleum Institute
 type: donor
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Energy & Utilities"
-entity-type: "Individual Donor"
+sector: Energy & Utilities
+entity-type: Individual Donor
 issues:
-  - "Dark Money & Campaign Finance"
-  - "Energy & Climate"
+  - Dark Money & Campaign Finance
+  - Energy & Climate
 ein: "130433430"
-annual-revenue: "$267.6M"
-net-assets: "$122.9M"
+annual-revenue: $267.6M
+net-assets: $122.9M
 tax-year: "2023"
 ofac-sdn-match: "true"
 last-enriched: "2026-04-09"
 ofac-programs:
-  - "RUSSIA-EO14024"
-nonprofit-status: "501(c)(6)"
+  - RUSSIA-EO14024
+nonprofit-status: 501(c)(6)
 total-revenue: 268010806
 total-assets: 109879063
 related: "[[Petrochemical Industry Bloc]] · [[The Energy Committee and Alaska Oil Dependency]] · [[The EPA Demolition - Pruitt to Wheeler to Zeldin]] · [[Environment - Donors and Backers]] · [[The Oversight Chair and the Investigation Theater]] · [[John Hickenlooper]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Jim Inhofe]] · [[Lauren Boebert]] · [[The Energy Committee and Houston Petrochemical Pipeline]] · [[Republican Party Apparatus]] · [[Ron Johnson]] · [[John Barrasso]] · [[Steve Scalise]] · [[Bruce Westerman]] · [[ExxonMobil]] · [[Chevron]] · [[Koch Network - Charles Koch|Koch network]] · [[Americans for Prosperity|AFP]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[Better Jobs Together]] · [[Senate Leadership Fund]] · [[Congressional Leadership Fund]] · [[Western States Petroleum Association]] · [[Trump Donor Coalition]] · [[American Action Network]] · [[National Association of Manufacturers]] · [[American Gaming Association]] · [[American Iron and Steel Institute]] · [[Defense Contractors Bloc]] · [[DeVos Family]] · [[Walton Family Foundation]] · [[Insurance Industry]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Haim Saban]]"
-total-political-spend: "$24,891,220"
-politicians-funded:
-  - "Steve Scalise"
-  - "Henry Cuellar"
-  - "John Barrasso"
-  - "Mike Johnson"
-  - "Ron Johnson"
-  - "Kevin McCarthy"
-  - "Martin Heinrich"
-  - "Bruce Westerman"
+total-political-spend: $24,891,220
+politicians-funded: "[[Bruce Westerman]], [[Martin Heinrich]], [[John Barrasso]], [[Mike Johnson]], [[John Hickenlooper]], [[Henry Cuellar]], [[Kevin McCarthy]], [[Steve Scalise]], [[Ron Johnson]]"
 federal-register-mentions: 2501
 regulatory-agencies:
-  - "Commerce Department"
-  - "Energy Department"
-  - "Environmental Protection Agency"
-  - "Federal Communications Commission"
-  - "Federal Energy Regulatory Commission"
-  - "Homeland Security Department"
-  - "International Trade Administration"
-  - "Labor Department"
-  - "Occupational Safety and Health Administration"
-  - "Pipeline and Hazardous Materials Safety Administration"
+  - Commerce Department
+  - Energy Department
+  - Environmental Protection Agency
+  - Federal Communications Commission
+  - Federal Energy Regulatory Commission
+  - Homeland Security Department
+  - International Trade Administration
+  - Labor Department
+  - Occupational Safety and Health Administration
+  - Pipeline and Hazardous Materials Safety Administration
 cross-vault-triangulation-count: 23
 audit-a-plus-passed: "2026-04-11"
 ---

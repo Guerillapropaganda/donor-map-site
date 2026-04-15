@@ -1,91 +1,89 @@
 ---
-title: "Uber"
+title: Uber
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Gig Economy"
-entity-type: "Corporation"
-politicians-funded:
-  - "Gavin Newsom"
-  - "Donald Trump"
+sector: Gig Economy
+entity-type: Corporation
+politicians-funded: "[[Donald Trump]], [[Gavin Newsom]]"
 issues:
-  - "Technology"
+  - Technology
 sec-filings: 10000
 sec-form-types:
   - "144"
   - "4"
-  - "424B3"
+  - 424B3
   - "425"
-  - "497K"
-  - "6-K"
-  - "8-K"
-  - "ARS"
-  - "D"
-  - "DEF 14A"
-  - "DEFA14A"
-  - "DRS/A"
-  - "EX-10.1"
-  - "EX-10.11"
-  - "EX-10.12"
-  - "EX-10.13"
-  - "EX-10.14"
-  - "EX-10.2"
-  - "EX-10.21"
-  - "EX-10.23"
-  - "EX-10.24"
-  - "EX-10.25"
-  - "EX-10.3"
-  - "EX-10.8"
-  - "EX-10.9"
-  - "EX-4.2"
-  - "EX-4.3"
-  - "EX-4.6"
-  - "EX-5.1"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "EX-99.4"
-  - "EX-99.5"
-  - "EX-99.6"
-  - "FWP"
-  - "LETTER"
-  - "NPORT-EX"
-  - "PRE 14A"
-  - "PX14A6G"
-  - "S-4"
-  - "S-4/A"
-  - "SCHEDULE 13G"
-  - "SCHEDULE 13G/A"
-  - "TEXT-EXTRACT"
+  - 497K
+  - 6-K
+  - 8-K
+  - ARS
+  - D
+  - DEF 14A
+  - DEFA14A
+  - DRS/A
+  - EX-10.1
+  - EX-10.11
+  - EX-10.12
+  - EX-10.13
+  - EX-10.14
+  - EX-10.2
+  - EX-10.21
+  - EX-10.23
+  - EX-10.24
+  - EX-10.25
+  - EX-10.3
+  - EX-10.8
+  - EX-10.9
+  - EX-4.2
+  - EX-4.3
+  - EX-4.6
+  - EX-5.1
+  - EX-99.1
+  - EX-99.2
+  - EX-99.4
+  - EX-99.5
+  - EX-99.6
+  - FWP
+  - LETTER
+  - NPORT-EX
+  - PRE 14A
+  - PX14A6G
+  - S-4
+  - S-4/A
+  - SCHEDULE 13G
+  - SCHEDULE 13G/A
+  - TEXT-EXTRACT
 ein: "884207935"
-nonprofit-status: "501(c)(6)"
+nonprofit-status: 501(c)(6)
 last-enriched: "2026-04-09"
 total-revenue: 127381
 total-assets: 272824
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-lei: "8156000D95B737A14284"
-lei-jurisdiction: "IT"
+lei: 8156000D95B737A14284
+lei-jurisdiction: IT
 federal-register-mentions: 94
 regulatory-agencies:
-  - "Commerce Department"
-  - "Federal Communications Commission"
-  - "Federal Motor Carrier Safety Administration"
-  - "Federal Trade Commission"
-  - "Fish and Wildlife Service"
-  - "Interior Department"
-  - "International Trade Administration"
-  - "Labor Department"
-  - "Management and Budget Office"
-  - "National Highway Traffic Safety Administration"
+  - Commerce Department
+  - Federal Communications Commission
+  - Federal Motor Carrier Safety Administration
+  - Federal Trade Commission
+  - Fish and Wildlife Service
+  - Interior Department
+  - International Trade Administration
+  - Labor Department
+  - Management and Budget Office
+  - National Highway Traffic Safety Administration
 lobbying-spend: 10190000
 lobbying-filings: 57
 subawards-issued: 50
 subawards-issued-amount: 35631187
 subawards-received: 50
 subawards-received-amount: 35631187
-top-federal-agency: "Department of Defense"
+top-federal-agency: Department of Defense
 top-naics-code: "238910"
 related: "[[Instacart]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Fossil Fuel Bloc]] · [[GEO Group - Private Prison Industrial Complex]] · [[CoreCivic]] · [[_Gavin Newsom Master Profile]] · [[AB5 - Gig Worker Classification]] · [[Prop 22 - The $200M Corporate Rollback]] · [[Labor - Donors and Backers]] · [[Lyft]] · [[DoorDash]] · [[_Donald Trump Master Profile]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Johnson & Johnson]] · [[Moderna]] · [[Novo Nordisk]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[Raytheon Technologies]]"
 federal-awards-total: 1913339677
@@ -94,10 +92,10 @@ federal-grants-count: 25
 cpsc-recalls: 1
 court-cases: 28822
 court-jurisdictions:
-  - "District Court, D. Maryland"
-  - "District Court, N.D. California"
-  - "District Court, S.D. Florida"
-  - "District Court, W.D. Texas"
+  - District Court, D. Maryland
+  - District Court, N.D. California
+  - District Court, S.D. Florida
+  - District Court, W.D. Texas
 cross-vault-triangulation-count: 14
 audit-a-plus-passed: "2026-04-11"
 ---

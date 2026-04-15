@@ -1,57 +1,54 @@
 ---
-title: "Morgan Stanley"
+title: Morgan Stanley
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Wall Street"
-entity-type: "Corporation"
-politicians-funded:
-  - "Chuck Schumer"
+sector: Wall Street
+entity-type: Corporation
+politicians-funded: "[[Chuck Schumer]]"
 issues:
-  - "Wall Street & Finance"
+  - Wall Street & Finance
 federal-contracts: "22671"
 ein: "136155650"
-annual-revenue: "$1.0M"
-net-assets: "$18.6M"
+annual-revenue: $1.0M
+net-assets: $18.6M
 tax-year: "2023"
 related: "[[The Wall Street Democrat - Goldman Sachs to Congress Pipeline]] · [[Charles Schwab]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Citigroup]] · [[Bank of America]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[Wall Street Finance Networks]]"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-09"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 total-revenue: 10243579
 total-assets: 15848073
 court-cases: 35789
 court-jurisdictions:
-  - "District Court, C.D. California"
-  - "District Court, D. South Carolina"
-  - "District Court, E.D. New York"
-  - "District Court, N.D. California"
-  - "District Court, N.D. Georgia"
-  - "District Court, S.D. New York"
-  - "District Court, W.D. Texas"
-  - "United States Bankruptcy Court, D. Colorado"
-  - "United States Bankruptcy Court, S.D. Texas"
+  - District Court, C.D. California
+  - District Court, D. South Carolina
+  - District Court, E.D. New York
+  - District Court, N.D. California
+  - District Court, N.D. Georgia
+  - District Court, S.D. New York
+  - District Court, W.D. Texas
+  - United States Bankruptcy Court, D. Colorado
+  - United States Bankruptcy Court, S.D. Texas
 federal-register-mentions: 1494
 regulatory-agencies:
-  - "Antitrust Division"
-  - "Comptroller of the Currency"
-  - "Employee Benefits Security Administration"
-  - "Energy Department"
-  - "Federal Deposit Insurance Corporation"
-  - "Federal Energy Regulatory Commission"
-  - "Federal Reserve System"
-  - "Federal Trade Commission"
-  - "Justice Department"
-  - "Labor Department"
-lei: "IGJSJL3JD5P30I6NJZ34"
-lei-jurisdiction: "US-DE"
+  - Antitrust Division
+  - Comptroller of the Currency
+  - Employee Benefits Security Administration
+  - Energy Department
+  - Federal Deposit Insurance Corporation
+  - Federal Energy Regulatory Commission
+  - Federal Reserve System
+  - Federal Trade Commission
+  - Justice Department
+  - Labor Department
+lei: IGJSJL3JD5P30I6NJZ34
+lei-jurisdiction: US-DE
 cross-vault-triangulation-count: 7
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

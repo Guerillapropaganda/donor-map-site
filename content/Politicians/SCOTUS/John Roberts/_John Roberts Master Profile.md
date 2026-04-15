@@ -1,24 +1,22 @@
 ---
-title: "John Roberts"
+title: John Roberts
 type: politician
 content-readiness: ready
-central-thesis: "John Roberts is the donor class's long-game strategist on the Supreme Court. While Thomas and Alito deliver reliable conservative votes and accumulate ethics scandals, Roberts manages the Court's institutional legitimacy , strategically joining li..."
-last-updated: 2026-04-13
+central-thesis: John Roberts is the donor class's long-game strategist on the Supreme Court. While Thomas and Alito deliver reliable conservative votes and accumulate ethics scandals, Roberts manages the Court's institutional legitimacy , strategically joining li...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-chamber: "SCOTUS"
-top-donors:
-  - "Leonard Leo"
-  - "Koch Network - Charles Koch"
-total-received: "$167,173"
-fec-candidate-id: "H2AL05169"
+chamber: SCOTUS
+top-donors: "[[Koch Network - Charles Koch]], [[Leonard Leo]]"
+total-received: $167,173
+fec-candidate-id: H2AL05169
 source-types:
   - Congress
   - FEC
 corroboration-count: 2
 known-gaps:
-  - "No voting record data"
-  - "No mapped relationships"
+  - No voting record data
+  - No mapped relationships
 related: "[[Leonard Leo]] · [[_Clarence Thomas Master Profile]] · [[_Samuel Alito Master Profile]] · [[Koch Network - Charles Koch]]"
 ---
 

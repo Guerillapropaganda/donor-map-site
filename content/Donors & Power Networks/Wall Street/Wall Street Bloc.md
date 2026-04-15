@@ -1,24 +1,22 @@
 ---
-title: "Wall Street Bloc"
+title: Wall Street Bloc
 type: donor
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Wall Street"
-entity-type: "Individual Donor"
+sector: Wall Street
+entity-type: Individual Donor
 issues:
-  - "Wall Street & Finance"
+  - Wall Street & Finance
 lobbying-spend: 1048100
 lobbying-filings: 87
 related: "[[Kyrsten Sinema Master Profile]] · [[The Carried Interest Kill and the Wall Street Fundraising Surge]] · [[Financial Services Donors]] · [[Securities & Investment Industry]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Wall Street Finance Networks]] · [[Goldman Sachs , The Government Sachs Alumni Network]]"
 cross-vault-triangulation-count: 6
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline; run pipelines"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-  • No last-enriched date is set. The pipelines have never touched this file.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: run fec pipeline; run pipelines
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+politicians-funded: "[[Kyrsten Sinema]]"
 ---
 
 <!-- auto:data-panel start -->

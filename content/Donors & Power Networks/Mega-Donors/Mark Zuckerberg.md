@@ -1,44 +1,36 @@
 ---
-title: "Mark Zuckerberg"
+title: Mark Zuckerberg
 type: donor
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Mega-Donors"
-entity-type: "Individual Donor"
+sector: Mega-Donors
+entity-type: Individual Donor
 issues:
-  - "Technology"
-  - "Antitrust & Monopoly"
+  - Technology
+  - Antitrust & Monopoly
 last-enriched: "2026-04-10"
 related: "[[Cory Booker]] · [[Think Big AI PAC and AI Policy Alignment]] · [[Paul Ryan]] · [[John Boehner]] · [[Meta - Facebook]] · [[Elon Musk]] · [[Silicon Valley Democratic Donor Network]] · [[Joel Kaplan]] · [[Chan Zuckerberg Initiative]] · [[TikTok - ByteDance]] · [[Fairshake PAC - Crypto Super PAC]] · [[Jeff Bezos]]"
-total-political-spend: "$114,701"
-politicians-funded:
-  - "Chuck Schumer"
-  - "Marco Rubio"
-  - "Paul Ryan"
-  - "Nancy Pelosi"
-  - "John Boehner"
-  - "Katie Porter"
-  - "Cory Booker"
-
+total-political-spend: $114,701
+politicians-funded: "[[Marco Rubio]], [[John Boehner]], [[Chuck Schumer]], [[Paul Ryan]], [[Cory Booker]], [[Katie Porter]], [[Nancy Pelosi]]"
 sec-filings: 9611
 sec-form-types:
   - "144"
   - "4"
-  - "SC 13G/A"
+  - SC 13G/A
 court-cases: 1764
 court-jurisdictions:
-  - "Court of Appeals for the Eighth Circuit"
-  - "Court of Appeals for the First Circuit"
-  - "Court of Appeals for the Third Circuit"
-  - "District Court, D. Delaware"
-  - "District Court, D. New Jersey"
-  - "District Court, E.D. New York"
-  - "District Court, M.D. Florida"
-  - "District Court, M.D. Pennsylvania"
-  - "District Court, N.D. California"
-  - "District Court, N.D. Illinois"
+  - Court of Appeals for the Eighth Circuit
+  - Court of Appeals for the First Circuit
+  - Court of Appeals for the Third Circuit
+  - District Court, D. Delaware
+  - District Court, D. New Jersey
+  - District Court, E.D. New York
+  - District Court, M.D. Florida
+  - District Court, M.D. Pennsylvania
+  - District Court, N.D. California
+  - District Court, N.D. Illinois
 cross-vault-triangulation-count: 9
 audit-a-plus-passed: "2026-04-11"
 ---

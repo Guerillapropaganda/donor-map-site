@@ -2,7 +2,7 @@
 title: National Association of Realtors
 type: corporation
 content-readiness: ready
-last-updated: '2026-04-14'
+last-updated: "2026-04-14"
 source-tier: 1
 parent: null
 sector: Real Estate
@@ -10,15 +10,15 @@ entity-type: Corporation
 issues:
   - Housing
   - Antitrust & Monopoly
-federal-contracts: '2616134'
+federal-contracts: "2616134"
 sec-filings: 7570
 sec-form-types:
   - 10-K
   - 10-K/A
-  - '144'
-  - '4'
+  - "144"
+  - "4"
   - 40-24B2
-  - '425'
+  - "425"
   - 8-K
   - DEF 14A
   - DEFA14A
@@ -36,12 +36,12 @@ sec-form-types:
   - SC TO-T
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: '2026-04-09'
+last-enriched: "2026-04-09"
 needs-reenrichment: true
 reenrich-reason: run lda pipeline
 lei: 549300HH1QGPI9FI1510
 lei-jurisdiction: US-IL
-ein: '361520690'
+ein: "361520690"
 nonprofit-status: 501(c)(6)
 total-revenue: 839996863
 total-assets: 1078254728
@@ -57,23 +57,13 @@ regulatory-agencies:
   - Justice Department
   - Labor Department
   - National Labor Relations Board
-related: >-
-  [[Housing - Donors and Backers]] · [[The Ways and Means Chair and TCJA
-  Extension]] · [[Gavin Newsom Master Profile]] · [[The Real Estate President
-  and the Fair Housing Demolition]] · [[3.5 Million Units - Broken Promise]] ·
-  [[Shannon McGahn]] · [[Senate Leadership Fund]] · [[Congressional Leadership
-  Fund]] · [[Lennar Corporation]] · [[Real Estate Industry Bloc]] · [[Real
-  Estate Board of New York]] · [[Invitation Homes - Institutional Landlords]] ·
-  [[CBRE Group]] · [[Blackstone Real Estate]]
+related: "[[Housing - Donors and Backers]] · [[The Ways and Means Chair and TCJA Extension]] · [[Gavin Newsom Master Profile]] · [[The Real Estate President and the Fair Housing Demolition]] · [[3.5 Million Units - Broken Promise]] · [[Shannon McGahn]] · [[Senate Leadership Fund]] · [[Congressional Leadership Fund]] · [[Lennar Corporation]] · [[Real Estate Industry Bloc]] · [[Real Estate Board of New York]] · [[Invitation Homes - Institutional Landlords]] · [[CBRE Group]] · [[Blackstone Real Estate]]"
 cross-vault-triangulation-count: 11
-internal-notes: >-
-  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: •
-  LDA data is missing entirely. This profile was promoted to ready without ever
-  having lda enrichment run on it. The needs-reenrichment flag has been set. The
-  next scheduled pipeline run will pick it up automatically.
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 aliases:
-  - "NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND"
-  - "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE"
+  - NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND
+  - NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE
+politicians-funded: "[[Gavin Newsom]]"
 ---
 
 <!-- auto:data-panel start -->

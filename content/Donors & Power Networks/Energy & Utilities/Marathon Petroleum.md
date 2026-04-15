@@ -1,101 +1,98 @@
 ---
-title: "Marathon Petroleum"
+title: Marathon Petroleum
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Energy & Utilities"
-entity-type: "Corporation"
-politicians-funded:
-  - "John Barrasso"
+sector: Energy & Utilities
+entity-type: Corporation
+politicians-funded: "[[Cathy McMorris Rodgers]], [[Kevin McCarthy]], [[John Barrasso]]"
 issues:
-  - "Energy & Climate"
-  - "Dark Money & Campaign Finance"
+  - Energy & Climate
+  - Dark Money & Campaign Finance
 federal-awards-total: 437282470
 federal-contracts-count: 25
 federal-grants-count: 2
-top-federal-agency: "Department of Defense"
+top-federal-agency: Department of Defense
 top-naics-code: "324110"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-10"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 sec-filings: 10000
 sec-form-types:
-  - "10-12B/A"
-  - "11-K"
+  - 10-12B/A
+  - 11-K
   - "144"
   - "4"
-  - "424B2"
+  - 424B2
   - "425"
-  - "8-K"
-  - "ARS"
-  - "DEF 14A"
-  - "DEFA14A"
-  - "EX-10.1"
-  - "EX-10.14"
-  - "EX-10.2"
-  - "EX-10.3"
-  - "EX-10.5"
-  - "EX-10.57"
-  - "EX-10.6"
-  - "EX-10.65"
-  - "EX-2.1"
-  - "EX-21.1"
-  - "EX-8.1"
-  - "EX-99.1"
-  - "FWP"
-  - "NPORT-EX"
-  - "NPORT-P"
-  - "POSASR"
-  - "PRE 14A"
-  - "PX14A6G"
-  - "S-3ASR"
-  - "SC 13D"
-  - "SC TO-I"
-  - "SC TO-I/A"
-  - "SCHEDULE 13G/A"
+  - 8-K
+  - ARS
+  - DEF 14A
+  - DEFA14A
+  - EX-10.1
+  - EX-10.14
+  - EX-10.2
+  - EX-10.3
+  - EX-10.5
+  - EX-10.57
+  - EX-10.6
+  - EX-10.65
+  - EX-2.1
+  - EX-21.1
+  - EX-8.1
+  - EX-99.1
+  - FWP
+  - NPORT-EX
+  - NPORT-P
+  - POSASR
+  - PRE 14A
+  - PX14A6G
+  - S-3ASR
+  - SC 13D
+  - SC TO-I
+  - SC TO-I/A
+  - SCHEDULE 13G/A
 related: "[[Valero Energy]] · [[Kevin McCarthy Master Profile]] · [[Occidental Petroleum]] · [[Cathy McMorris Rodgers Master Profile]] · [[Rashida Tlaib]] · [[WSPA - Western States Petroleum Association]] · [[PG&E - Pacific Gas and Electric]] · [[ExxonMobil]] · [[Chevron]] · [[ConocoPhillips]] · [[Halliburton]] · [[Koch Industries]] · [[American Fuel and Petrochemical Manufacturers]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[_John Barrasso Master Profile|Barrasso]] · [[NextEra Energy]] · [[Southern Company]] · [[Duke Energy]] · [[Devon Energy]] · [[Raytheon (RTX Corporation)]] · [[Palantir Technologies]] · [[Eli Lilly]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Johnson & Johnson]] · [[Gilead Sciences]]"
 ein: "464439930"
-annual-revenue: "$5.1M"
-net-assets: "$13.4M"
+annual-revenue: $5.1M
+net-assets: $13.4M
 tax-year: "2020"
 federal-contracts: "51405"
 federal-register-mentions: 105
 regulatory-agencies:
-  - "Antitrust Division"
-  - "Employment and Training Administration"
-  - "Energy Department"
-  - "Environmental Protection Agency"
-  - "Federal Energy Regulatory Commission"
-  - "Federal Trade Commission"
-  - "Fish and Wildlife Service"
-  - "Interior Department"
-  - "Justice Department"
-  - "Labor Department"
+  - Antitrust Division
+  - Employment and Training Administration
+  - Energy Department
+  - Environmental Protection Agency
+  - Federal Energy Regulatory Commission
+  - Federal Trade Commission
+  - Fish and Wildlife Service
+  - Interior Department
+  - Justice Department
+  - Labor Department
 court-cases: 2284
 court-jurisdictions:
-  - "District Court, C.D. California"
-  - "District Court, D. Kansas"
-  - "District Court, D. Minnesota"
-  - "District Court, E.D. Louisiana"
-  - "District Court, E.D. Texas"
-  - "District Court, M.D. Louisiana"
-  - "District Court, N.D. California"
-  - "District Court, N.D. Ohio"
-  - "District Court, S.D. Florida"
-  - "District Court, S.D. Texas"
-lei: "3BNYRYQHD39K4LCKQF12"
-lei-jurisdiction: "US-DE"
-nonprofit-status: "501(c)(3)"
+  - District Court, C.D. California
+  - District Court, D. Kansas
+  - District Court, D. Minnesota
+  - District Court, E.D. Louisiana
+  - District Court, E.D. Texas
+  - District Court, M.D. Louisiana
+  - District Court, N.D. California
+  - District Court, N.D. Ohio
+  - District Court, S.D. Florida
+  - District Court, S.D. Texas
+lei: 3BNYRYQHD39K4LCKQF12
+lei-jurisdiction: US-DE
+nonprofit-status: 501(c)(3)
 total-revenue: 2916203
 total-assets: 1240962
 cross-vault-triangulation-count: 18
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

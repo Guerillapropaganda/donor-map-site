@@ -1,16 +1,17 @@
 ---
-title: "Lisa Jackson"
+title: Lisa Jackson
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "EPA Administrator (2009-2013)"
+party: Democrat
+chamber: EPA Administrator (2009-2013)
 known-gaps:
-  - "No mapped relationships"
-  - "No donor network analysis"
+  - No mapped relationships
+  - No donor network analysis
 source-types:
   - Congress
+top-donors: "[[Western Growers Association]], [[CA Farm Bureau Federation]]"
 ---
 
 

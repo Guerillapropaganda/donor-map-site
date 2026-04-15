@@ -1,52 +1,49 @@
 ---
-title: "Jodey Arrington"
+title: Jodey Arrington
 type: politician
 content-readiness: ready
-central-thesis: "Jodey Arrington's structural function is to translate corporate tax and energy priorities into the federal budget. As Budget Committee chair, he controls the reconciliation process , the procedural vehicle that bypasses the Senate filibuster and s..."
-last-updated: 2026-04-12
+central-thesis: Jodey Arrington's structural function is to translate corporate tax and energy priorities into the federal budget. As Budget Committee chair, he controls the reconciliation process , the procedural vehicle that bypasses the Senate filibuster and s...
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "House"
-state: "Texas"
-state-abbr: "TX"
+party: Republican
+chamber: House
+state: Texas
+state-abbr: TX
 district: "19"
 committees:
-  - "Budget"
-  - "Ways & Means"
-  - "Agriculture"
+  - Budget
+  - Ways & Means
+  - Agriculture
 issues:
-  - "Agriculture and Food"
-  - "Armed Forces and National Security"
-  - "Congress"
-  - "Crime and Law Enforcement"
-  - "Economics and Public Finance"
-  - "Emergency Management"
-  - "Energy"
-  - "Environmental Protection"
-  - "Foreign Trade and International Finance"
-  - "Government Operations and Politics"
-top-donors:
-  - "Americans for Prosperity"
-  - "American Farm Bureau Federation"
-  - "Heritage Foundation"
-total-received: "$1,678,317"
-fec-candidate-id: "H6TX19099"
+  - Agriculture and Food
+  - Armed Forces and National Security
+  - Congress
+  - Crime and Law Enforcement
+  - Economics and Public Finance
+  - Emergency Management
+  - Energy
+  - Environmental Protection
+  - Foreign Trade and International Finance
+  - Government Operations and Politics
+top-donors: "[[Heritage Foundation]], [[American Farm Bureau Federation]], [[Americans for Prosperity]]"
+total-received: $1,678,317
+fec-candidate-id: H6TX19099
 govtrack-id: 412726
 bills-sponsored: 54
 bills-cosponsored: 79
-website: "https://arrington.house.gov"
-phone: "202-225-4005"
+website: https://arrington.house.gov
+phone: 202-225-4005
 source-types:
   - Congress
   - FEC
   - GovTrack
 corroboration-count: 3
 known-gaps:
-  - "No mapped relationships"
+  - No mapped relationships
 related: "[[_Donald Trump Master Profile|Trump]] · [[Heritage Foundation]] · [[Americans for Prosperity]] · [[American Farm Bureau Federation]]"
 last-enriched: "2026-04-10"
-bioguide-id: "A000375"
+bioguide-id: A000375
 ---
 
 <!-- auto:data-panel start -->

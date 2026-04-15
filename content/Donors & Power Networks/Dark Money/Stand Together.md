@@ -1,67 +1,66 @@
 ---
-title: "Stand Together"
+title: Stand Together
 type: donor
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Dark Money"
-entity-type: "Individual Donor"
+sector: Dark Money
+entity-type: Individual Donor
 issues:
-  - "Dark Money & Campaign Finance"
+  - Dark Money & Campaign Finance
 ein: "912166417"
-annual-revenue: "$1.9M"
-net-assets: "$291K"
+annual-revenue: $1.9M
+net-assets: $291K
 tax-year: "2021"
 federal-register-mentions: 35
 last-enriched: "2026-04-08"
 regulatory-agencies:
-  - "Alcohol, Tobacco, Firearms, and Explosives Bureau"
-  - "Education Department"
-  - "Executive Office of the President"
-  - "Justice Department"
-  - "Labor Department"
-  - "Veterans Employment and Training Service"
+  - Alcohol, Tobacco, Firearms, and Explosives Bureau
+  - Education Department
+  - Executive Office of the President
+  - Justice Department
+  - Labor Department
+  - Veterans Employment and Training Service
 sec-filings: 263
 sec-form-types:
   - "425"
-  - "6-K"
-  - "8-K"
-  - "DEF 14A"
-  - "DEFA14A"
-  - "DFAN14A"
-  - "EX-10.(L)"
-  - "EX-10.1"
-  - "EX-10.F"
-  - "EX-10.J"
-  - "EX-14"
-  - "EX-14.1"
-  - "EX-17"
-  - "EX-99"
-  - "EX-99.1"
-  - "EX-99.1 CHARTER"
-  - "EX-99.2"
-  - "FWP"
-  - "N-30D"
-  - "PX14A6G"
+  - 6-K
+  - 8-K
+  - DEF 14A
+  - DEFA14A
+  - DFAN14A
+  - EX-10.(L)
+  - EX-10.1
+  - EX-10.F
+  - EX-10.J
+  - EX-14
+  - EX-14.1
+  - EX-17
+  - EX-99
+  - EX-99.1
+  - EX-99.1 CHARTER
+  - EX-99.2
+  - FWP
+  - N-30D
+  - PX14A6G
 lobbying-spend: 6505000
 lobbying-filings: 89
 court-cases: 883
 court-jurisdictions:
-  - "District Court, D. Arizona"
-  - "District Court, D. Connecticut"
-  - "District Court, D. Maryland"
-  - "District Court, D. Oregon"
-  - "District Court, District of Columbia"
-  - "District Court, E.D. Pennsylvania"
-  - "District Court, E.D. Virginia"
-  - "District Court, N.D. California"
-  - "District Court, N.D. New York"
-  - "District Court, S.D. California"
-total-political-spend: "$84,259,968"
-politicians-funded:
-  - "Bryan Steil"
-nonprofit-status: "501(c)(3)"
+  - District Court, D. Arizona
+  - District Court, D. Connecticut
+  - District Court, D. Maryland
+  - District Court, D. Oregon
+  - District Court, District of Columbia
+  - District Court, E.D. Pennsylvania
+  - District Court, E.D. Virginia
+  - District Court, N.D. California
+  - District Court, N.D. New York
+  - District Court, S.D. California
+total-political-spend: $84,259,968
+politicians-funded: "[[Bryan Steil]]"
+nonprofit-status: 501(c)(3)
 total-revenue: 1852719
 total-assets: 290992
 related: "[[US Chamber of Commerce]] · [[The Libertarian Brand and Donor Class Service]] · [[Americans for Tax Reform - Grover Norquist]] · [[Bryan Steil]] · [[The Criminal Justice Reform and Bipartisan Alliance]] · [[Koch Network - Charles Koch|Charles Koch]] · [[Americans for Prosperity]] · [[Heritage Foundation]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[Cato Institute]] · [[Donors Trust]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[DeVos Family]] · [[Insurance Industry]] · [[National Education Association]] · [[Walton Family Foundation]] · [[American Federation for Children]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[Defense Industry Bloc]] · [[American Iron and Steel Institute]]"

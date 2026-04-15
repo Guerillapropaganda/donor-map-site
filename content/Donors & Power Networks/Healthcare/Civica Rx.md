@@ -1,16 +1,15 @@
 ---
-title: "Civica Rx"
+title: Civica Rx
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Healthcare"
-entity-type: "Corporation"
-politicians-funded:
-  - "Gavin Newsom"
+sector: Healthcare
+entity-type: Corporation
+politicians-funded: "[[Gavin Newsom]]"
 issues:
-  - "Healthcare"
+  - Healthcare
 subawards-issued: 50
 subawards-issued-amount: 1009778941592127500
 subawards-received: 50
@@ -19,21 +18,19 @@ nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-09"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 court-cases: 2
 court-jurisdictions:
-  - "Court of Appeals for the Second Circuit"
-  - "District Court, N.D. Ohio"
+  - Court of Appeals for the Second Circuit
+  - District Court, N.D. Ohio
 related: "[[UnitedHealth Group - Optum]] · [[CalRx - The Genuine Win With Caveats]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Healthcare - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Blue Cross Blue Shield Association|Blue Cross Blue Shield]] · [[Kaiser Permanente]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Johnson & Johnson]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Purdue Pharma - Sackler Family]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]]"
 sec-filings: 7
 sec-form-types:
-  - "DEF 14A"
-  - "EX-99.1"
-  - "EX-99.2"
+  - DEF 14A
+  - EX-99.1
+  - EX-99.2
 cross-vault-triangulation-count: 9
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

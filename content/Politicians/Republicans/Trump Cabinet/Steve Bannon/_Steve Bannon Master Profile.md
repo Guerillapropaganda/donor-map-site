@@ -1,25 +1,23 @@
 ---
-title: "Steve Bannon"
+title: Steve Bannon
 type: politician
 content-readiness: draft
 central-thesis: "Steve Bannon's entire political rise was funded by a single billionaire: Robert Mercer. Breitbart (content-readiness: draft0M investment), Cambridge Analytica (content-readiness: draft5-20M, Bannon as VP), Government Accountability Institute ($3.7M for 'Clinton Cash' operation), Make Americ..."
-last-updated: 2026-04-07
+last-updated: 2026-04-07T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Cabinet"
-top-donors:
-  - "Robert Mercer"
-  - "Rebekah Mercer"
+party: Republican
+chamber: Cabinet
+top-donors: "[[Jeffrey Epstein Network]], [[Breitbart News and the Mercer-Bannon Media Pipeline]], [[Rebekah Mercer]], [[Cambridge Analytica and the Data Weaponization of Elections]], [[Robert Mercer]]"
 last-enriched: "2026-04-07"
 source-types:
   - DOJ
   - FEC
 corroboration-count: 2
 known-gaps:
-  - "No legislative record from Congress.gov"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No legislative record from Congress.gov
+  - No voting record data
+  - No mapped relationships
 related: "[[_Donald Trump Master Profile]] · [[Robert Mercer]] · [[Rebekah Mercer]] · [[Cambridge Analytica and the Data Weaponization of Elections]] · [[Breitbart News and the Mercer-Bannon Media Pipeline]]"
 ---
 

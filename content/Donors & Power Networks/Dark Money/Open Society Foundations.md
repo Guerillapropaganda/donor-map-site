@@ -1,42 +1,39 @@
 ---
-title: "Open Society Foundations"
+title: Open Society Foundations
 type: donor
 content-readiness: draft
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Dark Money"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Gavin Newsom"
+sector: Dark Money
+entity-type: Individual Donor
+politicians-funded: "[[Gavin Newsom]]"
 issues:
-  - "Dark Money & Campaign Finance"
+  - Dark Money & Campaign Finance
 federal-contracts: "18849"
 ein: "273743368"
-annual-revenue: "$0"
-net-assets: "$553"
+annual-revenue: $0
+net-assets: $553
 tax-year: "2016"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-09"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 related: "[[Center on Budget and Policy Priorities]] · [[Ryan Grim]] · [[Jeremy Scahill]] · [[Drop Site News]] · [[Crooked Media]] · [[George Soros]] · [[_Gavin Newsom Master Profile]] · [[Democracy Alliance]] · [[Sixteen Thirty Fund]] · [[New Venture Fund]] · [[Ocean Conservancy]] · [[Trial Lawyers Fund]] · [[National Progressive Donor Networks]] · [[Media Matters]] · [[Legal Sector Donors]] · [[Finance and Tech Bundler Network]] · [[Environmental Law & Policy Center]] · [[Democratic Small Dollar Networks]] · [[Small Dollar Donors - ActBlue]]"
 court-cases: 138
 court-jurisdictions:
-  - "Court of Appeals for the D.C. Circuit"
-  - "Court of Appeals for the First Circuit"
-  - "District Court, C.D. California"
-  - "District Court, D. Colorado"
-  - "District Court, D. Maryland"
-  - "District Court, D. Massachusetts"
-  - "District Court, District of Columbia"
-  - "District Court, E.D. Pennsylvania"
-  - "District Court, N.D. Illinois"
-  - "District Court, S.D. California"
+  - Court of Appeals for the D.C. Circuit
+  - Court of Appeals for the First Circuit
+  - District Court, C.D. California
+  - District Court, D. Colorado
+  - District Court, D. Maryland
+  - District Court, D. Massachusetts
+  - District Court, District of Columbia
+  - District Court, E.D. Pennsylvania
+  - District Court, N.D. Illinois
+  - District Court, S.D. California
 cross-vault-triangulation-count: 10
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

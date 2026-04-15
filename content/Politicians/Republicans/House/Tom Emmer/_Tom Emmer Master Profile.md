@@ -1,27 +1,28 @@
 ---
-title: "Tom Emmer"
+title: Tom Emmer
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "Minnesota"
-state-abbr: "MN"
+party: Republican
+chamber: House
+state: Minnesota
+state-abbr: MN
 district: "6"
-bioguide-id: "E000294"
+bioguide-id: E000294
 govtrack-id: 412639
 born: "1961-03-03"
-wikidata-id: "Q7815723"
-website: "https://emmer.house.gov"
-phone: "202-225-2331"
+wikidata-id: Q7815723
+website: https://emmer.house.gov
+phone: 202-225-2331
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
+top-donors: "[[Western Growers Association]]"
 ---
 
 

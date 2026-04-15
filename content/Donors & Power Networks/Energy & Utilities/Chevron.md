@@ -1,39 +1,38 @@
 ---
-title: "Chevron"
+title: Chevron
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Energy & Utilities"
-entity-type: "Corporation"
-politicians-funded:
-  - "Gavin Newsom"
+sector: Energy & Utilities
+entity-type: Corporation
+politicians-funded: "[[Gavin Newsom]], [[Condoleezza Rice]], [[Kevin McCarthy]], [[John Cornyn]], [[Cathy McMorris Rodgers]]"
 court-cases: 44045
 last-enriched: "2026-04-10"
 court-jurisdictions:
-  - "District Court, District of Columbia"
-  - "District Court, E.D. Wisconsin"
-  - "District Court, S.D. Illinois"
-  - "District Court, S.D. Indiana"
-  - "District Court, S.D. Texas"
-  - "District Court, W.D. Michigan"
-  - "District Court, W.D. Washington"
+  - District Court, District of Columbia
+  - District Court, E.D. Wisconsin
+  - District Court, S.D. Illinois
+  - District Court, S.D. Indiana
+  - District Court, S.D. Texas
+  - District Court, W.D. Michigan
+  - District Court, W.D. Washington
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 ein: 510189525
-annual-revenue: "$222K"
-net-assets: "$781K"
+annual-revenue: $222K
+net-assets: $781K
 tax-year: "2023"
 related: "[[Valero Energy]] · [[Alaska 2026 Senate Race]] · [[The Fossil Fuel Op-Ed Pipeline and the Donor-to-Deregulation Map]] · [[The Performative Populism and Goldman Sachs Marriage]] · [[Michael Whatley Oil and Gas Lobbying History]] · [[The Energy Committee and Alaska Oil Dependency]] · [[Kevin McCarthy Master Profile]] · [[Occidental Petroleum]] · [[WSPA - Western States Petroleum Association]] · [[PG&E - Pacific Gas and Electric]] · [[Koch Industries]] · [[HBW Resources]] · [[Cathy McMorris Rodgers Master Profile]] · [[The Energy Committee and Houston Petrochemical Pipeline]] · [[Condoleezza Rice]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Economic Policy - Donors and Backers]] · [[John Cornyn]] · [[_Gavin Newsom Master Profile]] · [[Fracking and Oil Permits - Green Branding vs. Record]] · [[Environment - Donors and Backers]] · [[Western States Petroleum Association]] · [[American Petroleum Institute]] · [[ExxonMobil]] · [[ConocoPhillips]] · [[Marathon Petroleum]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Johnson & Johnson]] · [[Moderna]] · [[Novo Nordisk]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[Raytheon Technologies]]"
 federal-awards-total: 192677628
 federal-contracts-count: 25
 federal-grants-count: 5
-lei: "254900JAIX71VO1NS489"
-lei-jurisdiction: "MT"
+lei: 254900JAIX71VO1NS489
+lei-jurisdiction: MT
 ftc-enforcement-actions: 4
 ftc-hsr-notices: 30
-top-federal-agency: "Department of Defense"
+top-federal-agency: Department of Defense
 top-naics-code: "324110"
 cross-vault-triangulation-count: 29
 audit-a-plus-passed: "2026-04-11"

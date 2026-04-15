@@ -1,40 +1,41 @@
 ---
-title: "Telecom Industry"
+title: Telecom Industry
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-08T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Media & Entertainment"
-entity-type: "Individual Donor"
+sector: Media & Entertainment
+entity-type: Individual Donor
 court-cases: 479
 last-enriched: "2026-04-08"
 court-jurisdictions:
-  - "Court of Appeals for the Fifth Circuit"
-  - "District Court, C.D. California"
-  - "District Court, E.D. California"
-  - "District Court, E.D. Texas"
-  - "District Court, N.D. California"
-  - "District Court, N.D. Texas"
-  - "District Court, W.D. Texas"
-  - "United States Bankruptcy Court, E.D. New York"
+  - Court of Appeals for the Fifth Circuit
+  - District Court, C.D. California
+  - District Court, E.D. California
+  - District Court, E.D. Texas
+  - District Court, N.D. California
+  - District Court, N.D. Texas
+  - District Court, W.D. Texas
+  - United States Bankruptcy Court, E.D. New York
 lobbying-spend: 9020027
 lobbying-filings: 97
-total-political-spend: "$270,182"
+total-political-spend: $270,182
 related: "[[Mark Warner]] · [[AT&T - WarnerMedia]] · [[Verizon]] · [[Comcast - NBCUniversal]] · [[iHeartMedia]]"
-lei: "549300D3EIDZJB62TR20"
-lei-jurisdiction: "QA"
+lei: 549300D3EIDZJB62TR20
+lei-jurisdiction: QA
 federal-register-mentions: 13
 regulatory-agencies:
-  - "Agriculture Department"
-  - "Defense Department"
-  - "Federal Communications Commission"
-  - "Federal Deposit Insurance Corporation"
-  - "Federal Reserve System"
-  - "Rural Utilities Service"
-  - "Securities and Exchange Commission"
+  - Agriculture Department
+  - Defense Department
+  - Federal Communications Commission
+  - Federal Deposit Insurance Corporation
+  - Federal Reserve System
+  - Rural Utilities Service
+  - Securities and Exchange Commission
 cross-vault-triangulation-count: 5
 audit-a-plus-passed: "2026-04-11"
+politicians-funded: "[[Mark Warner]]"
 ---
 
 <!-- auto:data-panel start -->

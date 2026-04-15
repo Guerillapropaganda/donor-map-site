@@ -1,54 +1,53 @@
 ---
-title: "Bradley Foundation"
+title: Bradley Foundation
 type: donor
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Dark Money"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Donald Trump"
+sector: Dark Money
+entity-type: Individual Donor
+politicians-funded: "[[Donald Trump]]"
 issues:
-  - "Dark Money & Campaign Finance"
-  - "Energy & Climate"
-  - "Infrastructure"
+  - Dark Money & Campaign Finance
+  - Energy & Climate
+  - Infrastructure
 lobbying-spend: 3489500
 lobbying-filings: 75
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
 ein: "330771070"
-annual-revenue: "$2K"
-net-assets: "$3.5M"
+annual-revenue: $2K
+net-assets: $3.5M
 tax-year: "2023"
-total-political-spend: "$150,500"
+total-political-spend: $150,500
 last-enriched: "2026-04-10"
 related: "[[American Federation for Children]] · [[Cross-Think-Tank Donor Map , The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[James O'Keefe]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Heritage Foundation]] · [[Federalist Society]] · [[ALEC - American Legislative Exchange Council]] · [[Koch Network - Charles Koch]] · [[DonorsTrust]] · [[America First Legal]] · [[_Donald Trump Master Profile|Trump]] · [[DeVos Family]] · [[Bradley Impact Fund]] · [[National Education Association]] · [[US Chamber of Commerce]] · [[Walton Family Foundation]] · [[Insurance Industry]] · [[Defense Contractors Bloc]] · [[American Iron and Steel Institute]] · [[Defense Industry]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[Defense Industry Bloc]] · [[The 85 Fund]]"
 sec-filings: 1623
 sec-form-types:
-  - "10-K"
-  - "424A"
-  - "424B4"
-  - "DEF 14A"
-  - "DEFA14A"
-  - "EX-99"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "N-CSR"
-  - "PRE 14A"
-  - "S-1"
-  - "S-1/A"
+  - 10-K
+  - 424A
+  - 424B4
+  - DEF 14A
+  - DEFA14A
+  - EX-99
+  - EX-99.1
+  - EX-99.2
+  - N-CSR
+  - PRE 14A
+  - S-1
+  - S-1/A
 court-cases: 79
 court-jurisdictions:
-  - "Court of Appeals for the Federal Circuit"
-  - "Court of Appeals for the Ninth Circuit"
-  - "Court of Appeals for the Second Circuit"
-  - "District Court, D. Delaware"
-  - "District Court, District of Columbia"
-  - "District Court, N.D. Texas"
-  - "District Court, S.D. New York"
-  - "United States Bankruptcy Court, S.D. Texas"
-nonprofit-status: "501(c)(3)"
+  - Court of Appeals for the Federal Circuit
+  - Court of Appeals for the Ninth Circuit
+  - Court of Appeals for the Second Circuit
+  - District Court, D. Delaware
+  - District Court, District of Columbia
+  - District Court, N.D. Texas
+  - District Court, S.D. New York
+  - United States Bankruptcy Court, S.D. Texas
+nonprofit-status: 501(c)(3)
 total-revenue: 9465
 total-assets: 3513570
 cross-vault-triangulation-count: 23

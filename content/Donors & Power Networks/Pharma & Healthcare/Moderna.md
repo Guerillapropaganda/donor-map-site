@@ -1,74 +1,73 @@
 ---
-title: "Moderna"
+title: Moderna
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Pharma & Healthcare"
-entity-type: "Corporation"
+sector: Pharma & Healthcare
+entity-type: Corporation
 issues:
-  - "Healthcare"
+  - Healthcare
 ein: 871807181
-annual-revenue: "$2.0M"
-net-assets: "$37.8M"
+annual-revenue: $2.0M
+net-assets: $37.8M
 tax-year: "2023"
 subawards-issued: 50
 subawards-issued-amount: 1009778941592127500
 subawards-received: 50
 subawards-received-amount: 1009778941592127500
-top-federal-agency: "Department of Defense"
+top-federal-agency: Department of Defense
 top-naics-code: "325412"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-09"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 related: "[[Merck]] · [[Joe Biden Master Profile]] · [[The Pharmaceutical Deal and the IRA - Ten Drugs Out of Twelve Thousand]] · [[Johnson & Johnson]] · [[AbbVie]] · [[UnitedHealth Group - Optum]] · [[Pfizer]] · [[PhRMA]] · [[Pharmaceutical Industry Bloc]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[Palantir Technologies]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Tenet Healthcare]] · [[Kaiser Permanente]] · [[Humana]] · [[Hospital Corporation of America - HCA]]"
 sec-filings: 10000
 sec-form-types:
-  - "10-K"
+  - 10-K
   - "144"
   - "4"
-  - "6-K"
-  - "8-K"
-  - "ARS"
-  - "DEF 14A"
-  - "DEFA14A"
-  - "EX-10"
-  - "EX-10.1"
-  - "EX-10.16"
-  - "EX-10.18"
-  - "EX-10.2"
-  - "EX-10.23"
-  - "EX-10.3"
-  - "EX-10.32"
-  - "EX-10.4"
-  - "EX-10.40"
-  - "EX-10.5"
-  - "EX-10.6"
-  - "EX-10.7"
-  - "EX-19"
-  - "EX-21.1"
-  - "EX-4.17"
-  - "EX-4.18"
-  - "EX-4.19"
-  - "EX-4.20"
-  - "EX-4.24"
-  - "EX-99"
-  - "EX-99.(A)(1)(H)"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "EX-99.3"
-  - "FWP"
-  - "NPORT-P"
-  - "PX14A6G"
-  - "S-8"
-  - "SCHEDULE 13G/A"
+  - 6-K
+  - 8-K
+  - ARS
+  - DEF 14A
+  - DEFA14A
+  - EX-10
+  - EX-10.1
+  - EX-10.16
+  - EX-10.18
+  - EX-10.2
+  - EX-10.23
+  - EX-10.3
+  - EX-10.32
+  - EX-10.4
+  - EX-10.40
+  - EX-10.5
+  - EX-10.6
+  - EX-10.7
+  - EX-19
+  - EX-21.1
+  - EX-4.17
+  - EX-4.18
+  - EX-4.19
+  - EX-4.20
+  - EX-4.24
+  - EX-99
+  - EX-99.(A)(1)(H)
+  - EX-99.1
+  - EX-99.2
+  - EX-99.3
+  - FWP
+  - NPORT-P
+  - PX14A6G
+  - S-8
+  - SCHEDULE 13G/A
 cross-vault-triangulation-count: 12
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+politicians-funded: "[[Joe Biden]]"
 ---
 
 <!-- auto:data-panel start -->

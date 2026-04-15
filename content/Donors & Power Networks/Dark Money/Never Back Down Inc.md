@@ -1,17 +1,18 @@
 ---
-title: "Never Back Down Inc."
+title: Never Back Down Inc.
 type: donor
 content-readiness: raw
-sector: "Dark Money"
-entity-type: "Super PAC"
-committee-type: "Super PAC (Independent Expenditure-Only)"
-committee-id: "C00857011"
-fec-url: "https://www.fec.gov/data/committee/C00857011/"
+sector: Dark Money
+entity-type: Super PAC
+committee-type: Super PAC (Independent Expenditure-Only)
+committee-id: C00857011
+fec-url: https://www.fec.gov/data/committee/C00857011/
 last-updated: "2026-04-15"
 source-tier: 1
 fec-ie-support: "null"
-fec-ie-oppose: "$18,881,648"
+fec-ie-oppose: $18,881,648
 aliases:
-  - "Fight Right Inc"
-  - "FIGHT RIGHT INC"
+  - Fight Right Inc
+  - FIGHT RIGHT INC
+politicians-funded: "[[Nikki Haley]], [[Ron DeSantis]]"
 ---

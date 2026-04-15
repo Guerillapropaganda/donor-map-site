@@ -1,25 +1,24 @@
 ---
-title: "Finance and Tech Bundler Network"
+title: Finance and Tech Bundler Network
 type: donor
 content-readiness: draft
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Dark Money"
-entity-type: "Individual Donor"
+sector: Dark Money
+entity-type: Individual Donor
 issues:
-  - "Wall Street & Finance"
-  - "Technology"
+  - Wall Street & Finance
+  - Technology
 related: "[[Legal Sector Donors]] · [[Pete Buttigieg Master Profile]] · [[The Transportation Record - Infrastructure Money and Industry Relationships]] · [[The McKinsey Years and the Consulting-to-Politics Pipeline]] · [[Goldman Sachs]] · [[Silicon Valley Donors]] · [[Jeffrey Katzenberg]] · [[Democratic Donor Network]] · [[Trial Lawyers Fund]] · [[Ocean Conservancy]] · [[National Progressive Donor Networks]] · [[Sixteen Thirty Fund]] · [[Open Society Foundations]] · [[New Venture Fund]] · [[Media Matters]] · [[Environmental Law & Policy Center]] · [[Entertainment and Hollywood Donors]] · [[Democratic Small Dollar Networks]] · [[Small Dollar Donors - ActBlue]] · [[Ohio Federation of Teachers]]"
 last-enriched: "2026-04-08"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 lobbying-spend: 7197209
 lobbying-filings: 102
 cross-vault-triangulation-count: 8
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+politicians-funded: "[[Pete Buttigieg]]"
 ---
 
 <!-- auto:data-panel start -->

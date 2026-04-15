@@ -1,75 +1,74 @@
 ---
-title: "Defense Contractors"
+title: Defense Contractors
 type: donor
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Defense & Intelligence"
-entity-type: "Individual Donor"
+sector: Defense & Intelligence
+entity-type: Individual Donor
 ein: 20654518
-annual-revenue: "$1.3M"
-net-assets: "$2.2M"
+annual-revenue: $1.3M
+net-assets: $2.2M
 tax-year: "2023"
 federal-register-mentions: 327
 last-enriched: "2026-04-10"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 regulatory-agencies:
-  - "Defense Acquisition Regulations System"
-  - "Defense Department"
-  - "Executive Office of the President"
-  - "Federal Aviation Administration"
-  - "Federal Communications Commission"
-  - "Federal Procurement Policy Office"
-  - "General Services Administration"
-  - "Management and Budget Office"
-  - "National Aeronautics and Space Administration"
-  - "Small Business Administration"
+  - Defense Acquisition Regulations System
+  - Defense Department
+  - Executive Office of the President
+  - Federal Aviation Administration
+  - Federal Communications Commission
+  - Federal Procurement Policy Office
+  - General Services Administration
+  - Management and Budget Office
+  - National Aeronautics and Space Administration
+  - Small Business Administration
 court-cases: 1288
 court-jurisdictions:
-  - "Court of Appeals for the D.C. Circuit"
-  - "District Court, C.D. California"
-  - "District Court, D. Connecticut"
-  - "District Court, D. Kansas"
-  - "District Court, E.D. Michigan"
-  - "District Court, E.D. Virginia"
-  - "District Court, N.D. California"
-  - "District Court, W.D. Oklahoma"
-  - "United States Court of Federal Claims"
+  - Court of Appeals for the D.C. Circuit
+  - District Court, C.D. California
+  - District Court, D. Connecticut
+  - District Court, D. Kansas
+  - District Court, E.D. Michigan
+  - District Court, E.D. Virginia
+  - District Court, N.D. California
+  - District Court, W.D. Oklahoma
+  - United States Court of Federal Claims
 related: "[[Defense Contractors Bloc]] · [[Texas 2026 Senate Race]] · [[Katie Britt]] · [[Virginia 2026 Senate Race]] · [[Chris Murphy Master Profile]] · [[Mark Warner]] · [[Insurance Industry]] · [[Defense Industry Bloc]] · [[Lockheed Martin]] · [[Boeing Defense]] · [[Raytheon (RTX)]] · [[Northrop Grumman]] · [[Palantir Technologies]] · [[Anduril Industries]] · [[General Dynamics]] · [[Fanjul Family - Florida Crystals]] · [[Kevin McCarthy Master Profile]] · [[National Cattlemen's Beef Association]] · [[American Farm Bureau Federation]] · [[DeVos Family]] · [[Walton Family Foundation]] · [[National Education Association]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[American Federation for Children]]"
 sec-filings: 10000
 sec-form-types:
-  - "10-K"
-  - "10-K/A"
-  - "10-Q"
-  - "10KSB"
-  - "10SB12G/A"
-  - "424B3"
-  - "424B5"
+  - 10-K
+  - 10-K/A
+  - 10-Q
+  - 10KSB
+  - 10SB12G/A
+  - 424B3
+  - 424B5
   - "425"
   - "497"
-  - "6-K"
-  - "8-K"
-  - "8-K/A"
-  - "CORRESP"
-  - "DEF 14A"
-  - "DEFR14A"
-  - "EX-99"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "EX-99.2.PDF"
-  - "LETTER"
-  - "PX14A6G"
-  - "SC 13D"
-  - "XML"
-nonprofit-status: "501(c)(6)"
+  - 6-K
+  - 8-K
+  - 8-K/A
+  - CORRESP
+  - DEF 14A
+  - DEFR14A
+  - EX-99
+  - EX-99.1
+  - EX-99.2
+  - EX-99.2.PDF
+  - LETTER
+  - PX14A6G
+  - SC 13D
+  - XML
+nonprofit-status: 501(c)(6)
 total-revenue: 1233598
 total-assets: 2061369
 cross-vault-triangulation-count: 16
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+politicians-funded: "[[Mark Warner]]"
 ---
 
 <!-- auto:data-panel start -->

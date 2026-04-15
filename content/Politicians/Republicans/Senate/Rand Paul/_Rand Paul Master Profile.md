@@ -1,37 +1,35 @@
 ---
-title: "Rand Paul"
+title: Rand Paul
 type: politician
 content-readiness: ready
 central-thesis: "Rand Paul sells libertarianism as principle but delivers it as policy that benefits the donor class , specifically: deregulation for finance and tech, tax cuts for the wealthy, and obstruction of social spending that the working class depends on. ..."
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Senate"
-state: "Kentucky"
-state-abbr: "KY"
-top-donors:
-  - "Koch Network - Charles Koch"
-  - "Cryptocurrency Industry"
+party: Republican
+chamber: Senate
+state: Kentucky
+state-abbr: KY
+top-donors: "[[Cryptocurrency Industry]], [[IBEW - International Brotherhood of Electrical Workers]], [[Koch Network - Charles Koch]], [[Barre Seid]], [[Larry Ellison]], [[Jeffrey Yass]]"
 govtrack-id: 412492
 bills-sponsored: 48
 bills-cosponsored: 59
-website: "https://www.paul.senate.gov"
-phone: "202-224-4343"
-total-received: "$11,515"
-fec-candidate-id: "H4OH19044"
+website: https://www.paul.senate.gov
+phone: 202-224-4343
+total-received: $11,515
+fec-candidate-id: H4OH19044
 source-types:
   - Congress
   - FEC
   - GovTrack
 corroboration-count: 3
 known-gaps:
-  - "No mapped relationships"
+  - No mapped relationships
 related: "[[_Mitch McConnell Master Profile]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile]]"
 last-enriched: "2026-04-10"
-bioguide-id: "P000603"
+bioguide-id: P000603
 issues:
-  - "Crime and Law Enforcement"
+  - Crime and Law Enforcement
 ---
 
 <!-- auto:data-panel start -->

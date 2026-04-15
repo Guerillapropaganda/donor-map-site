@@ -1,91 +1,82 @@
 ---
-title: "Tech Industry"
+title: Tech Industry
 type: donor
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Tech & Crypto"
-entity-type: "Individual Donor"
+sector: Tech & Crypto
+entity-type: Individual Donor
 issues:
-  - "Technology"
-  - "Antitrust & Monopoly"
+  - Technology
+  - Antitrust & Monopoly
 ein: 954538000
-annual-revenue: "$249K"
-net-assets: "$131K"
+annual-revenue: $249K
+net-assets: $131K
 tax-year: "2023"
-total-political-spend: "$336,000"
-politicians-funded:
-  - "Zoe Lofgren"
-  - "Cathy McMorris Rodgers"
-  - "Hakeem Jeffries"
-  - "Mark Warner"
-  - "Gerry Connolly"
-  - "Adam Smith"
-  - "Jason Smith"
-  - "Mike Collins"
-  - "Susan Collins"
+total-political-spend: $336,000
+politicians-funded: "[[Gerry Connolly]], [[Jason Smith]], [[Zoe Lofgren]], [[Susan Collins]], [[Mark Warner]], [[Martin Heinrich]], [[Adam Smith]], [[Cathy McMorris Rodgers]], [[Mike Collins]], [[Hakeem Jeffries]]"
 federal-register-mentions: 53
 last-enriched: "2026-04-09"
 regulatory-agencies:
-  - "Commerce Department"
-  - "Consumer Financial Protection Bureau"
-  - "Education Department"
-  - "Federal Communications Commission"
-  - "Federal Trade Commission"
-  - "Homeland Security Department"
-  - "Industry and Security Bureau"
-  - "International Trade Commission"
+  - Commerce Department
+  - Consumer Financial Protection Bureau
+  - Education Department
+  - Federal Communications Commission
+  - Federal Trade Commission
+  - Homeland Security Department
+  - Industry and Security Bureau
+  - International Trade Commission
 sec-filings: 10000
 sec-form-types:
-  - "6-K"
-  - "8-K"
-  - "8-K/A"
-  - "CORRESP"
-  - "DEFA14A"
-  - "DFAN14A"
-  - "EX-1"
-  - "EX-10.1"
-  - "EX-10.11"
-  - "EX-10.12"
-  - "EX-10.13"
-  - "EX-10.14"
-  - "EX-10.15"
-  - "EX-10.18"
-  - "EX-10.19"
-  - "EX-10.32"
-  - "EX-10.33"
-  - "EX-10.36"
-  - "EX-10.37"
-  - "EX-10.38"
-  - "EX-10.47"
-  - "EX-10.48"
-  - "EX-10.54"
-  - "EX-2.1(A)"
-  - "EX-2.1(B)"
-  - "EX-4.6"
-  - "EX-4.65"
-  - "EX-4.66"
-  - "EX-4.8"
-  - "EX-99"
-  - "EX-99.(A)(5)(EE)"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "EX-99.3"
-  - "EX-99.4"
-  - "FWP"
-  - "LETTER"
-  - "PX14A6G"
-  - "SC 13D"
+  - 6-K
+  - 8-K
+  - 8-K/A
+  - CORRESP
+  - DEFA14A
+  - DFAN14A
+  - EX-1
+  - EX-10.1
+  - EX-10.11
+  - EX-10.12
+  - EX-10.13
+  - EX-10.14
+  - EX-10.15
+  - EX-10.18
+  - EX-10.19
+  - EX-10.32
+  - EX-10.33
+  - EX-10.36
+  - EX-10.37
+  - EX-10.38
+  - EX-10.47
+  - EX-10.48
+  - EX-10.54
+  - EX-2.1(A)
+  - EX-2.1(B)
+  - EX-4.6
+  - EX-4.65
+  - EX-4.66
+  - EX-4.8
+  - EX-99
+  - EX-99.(A)(5)(EE)
+  - EX-99.1
+  - EX-99.2
+  - EX-99.3
+  - EX-99.4
+  - FWP
+  - LETTER
+  - PX14A6G
+  - SC 13D
 related: "[[Colorado 2026 Senate Race]] · [[Martin Heinrich Master Profile]] · [[Mark Warner]] · [[Zoe Lofgren]] · [[Gerry Connolly]] · [[Virginia 2026 Senate Race]] · [[Jon Ossoff Master Profile]] · [[Jason Smith]] · [[Adam Smith]] · [[Silicon Valley Donors]] · [[Google - Alphabet]] · [[Meta - Facebook]] · [[a16z - Andreessen Horowitz|a16z]] · [[Tech IP and Patent Lobbying]]"
 court-cases: 1270
 court-jurisdictions:
-  - "Court of Appeals for the D.C. Circuit"
-  - "Court of Appeals for the Ninth Circuit"
-  - "District Court, C.D. California"
-  - "District Court, District of Columbia"
-  - "District Court, N.D. California"
-  - "District Court, S.D. New York"
+  - Court of Appeals for the D.C. Circuit
+  - Court of Appeals for the Ninth Circuit
+  - District Court, C.D. California
+  - District Court, District of Columbia
+  - District Court, N.D. California
+  - District Court, S.D. New York
 cross-vault-triangulation-count: 9
 audit-a-plus-passed: "2026-04-11"
 ---

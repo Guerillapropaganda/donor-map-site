@@ -1,62 +1,53 @@
 ---
-title: "Christopher Ruddy"
+title: Christopher Ruddy
 type: donor
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Media & Entertainment"
-entity-type: "Individual Donor"
+sector: Media & Entertainment
+entity-type: Individual Donor
 sec-filings: 159
 sec-form-types:
-  - "10-K"
-  - "10-K/A"
+  - 10-K
+  - 10-K/A
   - "3"
-  - "D"
-  - "D/A"
-  - "DEF 14A"
-  - "EX-1.1"
-  - "EX-10.1"
-  - "EX-10.4"
-  - "EX-10.5"
-  - "EX-24"
-  - "EX-24.1"
-  - "EX-3.1"
-  - "EX-31.1"
-  - "EX-32.1"
-  - "EX-32.2"
-  - "EX-4.1"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "EX-99.77C VOTES"
-  - "EX1A-1 UNDR AGMT"
-  - "EX1A-2A CHARTER"
-  - "EX1A-2B BYLAWS"
-  - "EX1A-4 SUBS AGMT"
-  - "EX1A-5 VOTG TRST"
-  - "EX1A-6 MAT CTRCT"
-  - "N-CSRS"
-  - "PART II AND III"
-  - "RW"
-  - "S-1"
-  - "S-1/A"
-  - "S-8"
-  - "SB-2"
-  - "SB-2/A"
-  - "SCHEDULE 13D"
+  - D
+  - D/A
+  - DEF 14A
+  - EX-1.1
+  - EX-10.1
+  - EX-10.4
+  - EX-10.5
+  - EX-24
+  - EX-24.1
+  - EX-3.1
+  - EX-31.1
+  - EX-32.1
+  - EX-32.2
+  - EX-4.1
+  - EX-99.1
+  - EX-99.2
+  - EX-99.77C VOTES
+  - EX1A-1 UNDR AGMT
+  - EX1A-2A CHARTER
+  - EX1A-2B BYLAWS
+  - EX1A-4 SUBS AGMT
+  - EX1A-5 VOTG TRST
+  - EX1A-6 MAT CTRCT
+  - N-CSRS
+  - PART II AND III
+  - RW
+  - S-1
+  - S-1/A
+  - S-8
+  - SB-2
+  - SB-2/A
+  - SCHEDULE 13D
 related: "[[Media and Propaganda - Donors and Backers]] · [[John McCain]] · [[Mitt Romney]] · [[The Ramaswamy 32 Days - DOGE Co-Lead to Ohio Governor Candidate]] · [[Mike Rogers]] · [[John Boehner]] · [[The Gubernatorial Pivot - From Sheriff to Culture War Candidate]]"
 last-enriched: "2026-04-09"
-total-political-spend: "$2,273,803"
-politicians-funded:
-  - "Donald Trump"
-  - "Ted Cruz"
-  - "The Gubernatorial Pivot - From Sheriff to Culture War Candidate"
-  - "The Ramaswamy 32 Days - DOGE Co-Lead to Ohio Governor Candidate"
-  - "John Boehner"
-  - "Mitt Romney"
-  - "Mike Rogers"
-  - "John McCain"
-  - "Marco Rubio"
+total-political-spend: $2,273,803
+politicians-funded: "[[Donald Trump]], [[Mitt Romney]], [[Ted Cruz]], [[The Ramaswamy 32 Days - DOGE Co-Lead to Ohio Governor Candidate]], [[The Gubernatorial Pivot - From Sheriff to Culture War Candidate]], [[Mike Rogers]], [[John Boehner]], [[John McCain]], [[Marco Rubio]]"
 cross-vault-triangulation-count: 3
 audit-a-plus-passed: "2026-04-11"
 ---

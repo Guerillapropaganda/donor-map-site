@@ -1,29 +1,26 @@
 ---
-title: "Bernie Moreno"
+title: Bernie Moreno
 type: politician
-chamber: "Senate"
-party: "Republican"
+chamber: Senate
+party: Republican
 content-readiness: ready
-central-thesis: "Moreno's 2024 victory represents the most concentrated single-industry political investment in recent Senate history. The crypto industry spent $40M+ (Defend American Jobs $22.8M alone) to elect Moreno, a crypto entrepreneur who had already divest..."
-last-updated: 2026-04-13
+central-thesis: Moreno's 2024 victory represents the most concentrated single-industry political investment in recent Senate history. The crypto industry spent $40M+ (Defend American Jobs $22.8M alone) to elect Moreno, a crypto entrepreneur who had already divest...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-bioguide-id: "M001242"
+bioguide-id: M001242
 govtrack-id: 456967
 bills-sponsored: 23
 bills-cosponsored: 159
-website: "https://www.moreno.senate.gov"
-phone: "202-224-2315"
-total-received: "$1,879,101"
-fec-candidate-id: "S4OH00192"
-donors: "[[David Sacks]] · [[NORPAC]] · [[Fairshake PAC]]"
+website: https://www.moreno.senate.gov
+phone: 202-224-2315
+total-received: $1,879,101
+fec-candidate-id: S4OH00192
+donors: "[[David Sacks]] · [[NORPAC]] · [[Fairshake PAC]] · [[David Sacks (Donor Network)]] · [[Buckeye Leadership Fund, Inc.]] · [[WinSenate]] · [[AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION]] · [[Senate Leadership Fund]] · [[Defend American Jobs]]"
 related: "[[_Donald Trump Master Profile]] · [[_JD Vance Master Profile]] · [[Crypto Industry Bloc]] · [[Peter Thiel]]"
 needs-reenrichment: true
-reenrich-reason: "run congress pipeline; run pipelines"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-  • No last-enriched date is set. The pipelines have never touched this file.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: run congress pipeline; run pipelines
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #bernie-moreno #senate #ohio #crypto-industry #trump-backed #auto-dealer #class-analysis
 tags: #republican

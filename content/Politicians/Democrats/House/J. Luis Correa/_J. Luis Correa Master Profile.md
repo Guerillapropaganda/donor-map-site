@@ -1,27 +1,28 @@
 ---
-title: "J. Luis Correa"
+title: J. Luis Correa
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "House"
-state: "California"
-state-abbr: "CA"
+party: Democrat
+chamber: House
+state: California
+state-abbr: CA
 district: "46"
-bioguide-id: "C001110"
+bioguide-id: C001110
 govtrack-id: 412688
 born: "1958-01-24"
-wikidata-id: "Q6685454"
-website: "https://correa.house.gov"
-phone: "202-225-2965"
+wikidata-id: Q6685454
+website: https://correa.house.gov
+phone: 202-225-2965
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
+top-donors: "[[Business Roundtable]]"
 ---
 
 

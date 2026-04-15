@@ -1,25 +1,24 @@
 ---
-title: "Harlan Crow"
+title: Harlan Crow
 type: donor
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Mega-Donors"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "John Cornyn"
+sector: Mega-Donors
+entity-type: Individual Donor
+politicians-funded: "[[John Cornyn]], [[Clarence Thomas]], [[Mike Crapo]]"
 issues:
-  - "Housing"
+  - Housing
 ein: "752805870"
-annual-revenue: "$109"
-net-assets: "$4K"
+annual-revenue: $109
+net-assets: $4K
 tax-year: "2023"
-total-political-spend: "$4,649,518"
+total-political-spend: $4,649,518
 related: "[[Twenty Years of Financial Disclosure Failures]] · [[The Koch-Leo-Crow Triangle and Donor Summit Access]] · [[The Harlan Crow Gift Empire]] · [[Ginni Thomas - The Political Arm and Financial Conflicts]] · [[Mike Crapo]] · [[John Cornyn]] · [[Federalist Society]] · [[American Enterprise Institute]] · [[_Clarence Thomas Master Profile]] · [[Leonard Leo]] · [[Koch Network - Charles Koch]] · [[Jeffrey Epstein Network]]"
 lobbying-spend: 400000
 lobbying-filings: 8
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-10"
 total-revenue: 1170447
 total-assets: 3096767

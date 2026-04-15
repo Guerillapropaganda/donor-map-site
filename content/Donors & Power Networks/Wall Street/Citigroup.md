@@ -1,26 +1,24 @@
 ---
-title: "Citigroup"
+title: Citigroup
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Wall Street"
-entity-type: "Corporation"
-politicians-funded:
-  - "Chuck Schumer"
-  - "French Hill"
+sector: Wall Street
+entity-type: Corporation
+politicians-funded: "[[Joe Biden]], [[Chuck Schumer]], [[French Hill]], [[Wes Moore]]"
 issues:
-  - "Wall Street & Finance"
+  - Wall Street & Finance
 ein: 806098935
-annual-revenue: "$131K"
-net-assets: "$2.7M"
+annual-revenue: $131K
+net-assets: $2.7M
 tax-year: "2023"
 subawards-issued: 50
 subawards-issued-amount: 1009778941592127500
 subawards-received: 50
 subawards-received-amount: 1009778941592127500
-top-federal-agency: "Department of Homeland Security"
+top-federal-agency: Department of Homeland Security
 top-naics-code: "339113"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
@@ -33,30 +31,30 @@ federal-grants-count: 0
 related: "[[Wall Street Deregulation and the 3-3-3 Agenda]] · [[The Delaware Corporate Senator - Biden's Legislative Lieutenant]] · [[Joe Biden Master Profile]] · [[The Bank Bailout and the Prosecution That Never Came]] · [[Wes Moore Master Profile]] · [[Center for American Progress]] · [[Barack Obama Master Profile]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Bank of America]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_French Hill Master Profile|French Hill]] · [[The Financial Services Committee and Wall Street Oversight]] · [[Wells Fargo]] · [[Morgan Stanley]] · [[Tim Geithner]]"
 sec-filings: 10000
 sec-form-types:
-  - "424B2"
-  - "424B3"
-  - "424B4"
-  - "424B8"
+  - 424B2
+  - 424B3
+  - 424B4
+  - 424B8
   - "425"
-  - "CORRESP"
-  - "EX-10.1"
-  - "EX-16"
-  - "EX-21.01"
-  - "EX-23.(H)(1)"
-  - "EX-35"
-  - "EX-35.3"
-  - "EX-35.4"
-  - "EX-35.5"
-  - "EX-4.9"
-  - "EX-5.02"
-  - "EX-99.2"
-  - "EX-99.H"
-  - "EX-99.H.1"
-  - "MA"
-  - "NPORT-P"
-  - "POSASR"
-  - "S-3"
-  - "S-3ASR"
+  - CORRESP
+  - EX-10.1
+  - EX-16
+  - EX-21.01
+  - EX-23.(H)(1)
+  - EX-35
+  - EX-35.3
+  - EX-35.4
+  - EX-35.5
+  - EX-4.9
+  - EX-5.02
+  - EX-99.2
+  - EX-99.H
+  - EX-99.H.1
+  - MA
+  - NPORT-P
+  - POSASR
+  - S-3
+  - S-3ASR
 cross-vault-triangulation-count: 14
 audit-a-plus-passed: "2026-04-11"
 ---

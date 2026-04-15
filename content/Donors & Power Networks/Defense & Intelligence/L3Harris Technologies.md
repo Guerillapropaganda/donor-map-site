@@ -1,71 +1,68 @@
 ---
-title: "L3Harris Technologies"
+title: L3Harris Technologies
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Defense & Intelligence"
-entity-type: "Corporation"
-politicians-funded:
-  - "Donald Trump"
+sector: Defense & Intelligence
+entity-type: Corporation
+politicians-funded: "[[Donald Trump]]"
 issues:
-  - "Defense & Military"
+  - Defense & Military
 federal-awards-total: 5907320427
 federal-contracts-count: 25
 federal-grants-count: 2
 court-cases: 166
 last-enriched: "2026-04-11"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 court-jurisdictions:
-  - "District Court, C.D. California"
-  - "District Court, D. Maryland"
-  - "District Court, M.D. Florida"
-  - "District Court, N.D. Georgia"
-  - "District Court, N.D. Indiana"
-  - "District Court, S.D. New York"
-  - "District Court, S.D. Ohio"
-  - "United States Bankruptcy Court, S.D. Texas"
+  - District Court, C.D. California
+  - District Court, D. Maryland
+  - District Court, M.D. Florida
+  - District Court, N.D. Georgia
+  - District Court, N.D. Indiana
+  - District Court, S.D. New York
+  - District Court, S.D. Ohio
+  - United States Bankruptcy Court, S.D. Texas
 sec-filings: 10000
 sec-form-types:
-  - "10-K"
+  - 10-K
   - "144"
   - "4"
-  - "424B2"
-  - "8-K"
-  - "ARS"
-  - "DEF 14A"
-  - "DEFA14A"
-  - "EX-10.2"
-  - "EX-10.W.II"
-  - "EX-10.Z"
-  - "EX-15"
-  - "EX-15.1"
-  - "EX-21"
-  - "EX-23"
-  - "EX-5"
-  - "EX-5.1"
-  - "EX-99.1"
-  - "EX-99.8"
-  - "N-PX"
-  - "NPORT-P"
-  - "S-8"
-  - "SC 13D"
-  - "SCHEDULE 13G/A"
+  - 424B2
+  - 8-K
+  - ARS
+  - DEF 14A
+  - DEFA14A
+  - EX-10.2
+  - EX-10.W.II
+  - EX-10.Z
+  - EX-15
+  - EX-15.1
+  - EX-21
+  - EX-23
+  - EX-5
+  - EX-5.1
+  - EX-99.1
+  - EX-99.8
+  - N-PX
+  - NPORT-P
+  - S-8
+  - SC 13D
+  - SCHEDULE 13G/A
 subawards-issued: 50
 subawards-issued-amount: 9882497978
 subawards-received: 50
 subawards-received-amount: 9882497978
-top-federal-agency: "Department of Transportation"
+top-federal-agency: Department of Transportation
 top-naics-code: "336413"
 related: "[[Palantir Technologies Political Operation]] · [[Tammy Duckworth]] · [[Lockheed Martin]] · [[Raytheon (RTX)|Raytheon]] · [[Northrop Grumman]] · [[Boeing]] · [[General Dynamics]] · [[_Donald Trump Master Profile|Trump]] · [[The Iran War Money Trail - From Adelson to Airstrikes]] · [[Heritage Foundation]] · [[Raytheon Technologies]] · [[Raytheon (RTX Corporation)]] · [[Leidos]] · [[Booz Allen Hamilton]] · [[Boeing Defense]] · [[Valero Energy]] · [[WSPA - Western States Petroleum Association]] · [[Instacart]] · [[Flex Association]] · [[Airbnb]] · [[Lyft]] · [[Uber]]"
-lei: "549300UTE50ZMDBG8A20"
-lei-jurisdiction: "US-DE"
+lei: 549300UTE50ZMDBG8A20
+lei-jurisdiction: US-DE
 cross-vault-triangulation-count: 13
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ftc-enforcement-actions: 0
 ftc-hsr-notices: 1
 ---

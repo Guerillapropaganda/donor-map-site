@@ -1,63 +1,60 @@
 ---
-title: "Tammy Duckworth"
+title: Tammy Duckworth
 type: politician
 content-readiness: ready
-central-thesis: "Duckworth's military sacrifice provides moral authority that converts directly into policy authority on defense spending — the most donor-lucrative jurisdiction in Congress. Her Armed Services Committee seat and combat veteran status make her the ..."
-last-updated: 2026-04-15
+central-thesis: Duckworth's military sacrifice provides moral authority that converts directly into policy authority on defense spending — the most donor-lucrative jurisdiction in Congress. Her Armed Services Committee seat and combat veteran status make her the ...
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "Senate"
-state: "Illinois"
-state-abbr: "IL"
+party: Democrat
+chamber: Senate
+state: Illinois
+state-abbr: IL
 committees:
-  - "Armed Services"
+  - Armed Services
 issues:
-  - "Agriculture and Food"
-  - "Armed Forces and National Security"
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Environmental Protection"
-  - "Government Operations and Politics"
-  - "Health"
-  - "International Affairs"
-  - "Labor and Employment"
-  - "Native Americans"
-  - "Science, Technology, Communications"
+  - Agriculture and Food
+  - Armed Forces and National Security
+  - Civil Rights and Liberties, Minority Issues
+  - Environmental Protection
+  - Government Operations and Politics
+  - Health
+  - International Affairs
+  - Labor and Employment
+  - Native Americans
+  - Science, Technology, Communications
 top-donors:
-  - "Boeing"
-  - "Lockheed Martin"
-  - "General Dynamics"
-  - "Raytheon (RTX)"
-  - "AFSCME"
-  - "SEIU"
+  - Boeing
+  - Lockheed Martin
+  - General Dynamics
+  - Raytheon (RTX)
+  - AFSCME
+  - SEIU
 stock-trades: 15
 stock-trade-tickers:
-  - "CAT"
-  - "BBL"
-  - "GS"
-  - "SOUHY"
-  - "DWDP"
-  - "ABT"
-  - "JNJ"
-  - "CC"
-  - "INTC"
-  - "DVMT"
-total-received: "$385,884"
-fec-candidate-id: "S6IL00292"
-donors: "[[Democracy Alliance]]"
-bioguide-id: "D000622"
+  - CAT
+  - BBL
+  - GS
+  - SOUHY
+  - DWDP
+  - ABT
+  - JNJ
+  - CC
+  - INTC
+  - DVMT
+total-received: $385,884
+fec-candidate-id: S6IL00292
+donors: "[[Democracy Alliance]], [[Boeing]], [[General Dynamics]], [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]], [[FREEDOMWORKS FOR AMERICA]], [[Lockheed Martin]], [[NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE]]"
+bioguide-id: D000622
 govtrack-id: 412533
 bills-sponsored: 47
 bills-cosponsored: 423
-website: "https://www.duckworth.senate.gov"
-phone: "202-224-2854"
+website: https://www.duckworth.senate.gov
+phone: 202-224-2854
 related: "[[_Dick Durbin Master Profile|Durbin]] · [[Boeing]] · [[Lockheed Martin]] · [[General Dynamics]] · [[Raytheon (RTX)]] · [[L3Harris Technologies]] · [[Defense Contractors Bloc]] · [[Dick Durbin]] · [[_Kamala Harris Master Profile]] · [[Northrop Grumman]]"
 needs-reenrichment: true
-reenrich-reason: "run congress pipeline; run pipelines"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-  • No last-enriched date is set. The pipelines have never touched this file.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: run congress pipeline; run pipelines
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 last-enriched: "2026-04-12"
 ---
 

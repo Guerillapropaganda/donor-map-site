@@ -1,30 +1,25 @@
 ---
-title: "Marco Rubio"
+title: Marco Rubio
 type: politician
 content-readiness: ready
-central-thesis: "Rubio went from 'Little Marco' to Secretary of State by becoming useful , his hawkish foreign policy (anti-China, anti-Cuba, pro-Israel) serves defense contractor donors and his conversion from Trump critic to loyalist mirrors the entire Republica..."
-last-updated: 2026-04-13
+central-thesis: Rubio went from 'Little Marco' to Secretary of State by becoming useful , his hawkish foreign policy (anti-China, anti-Cuba, pro-Israel) serves defense contractor donors and his conversion from Trump critic to loyalist mirrors the entire Republica...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Cabinet"
-state: "Florida"
-state-abbr: "FL"
-top-donors:
-  - "Miriam Adelson"
-  - "AIPAC - American Israel Public Affairs Committee"
-  - "Fanjul Family - Florida Crystals"
-  - "MasTec - Mas Canosa Family"
-  - "LARA Fund - Mauricio Claver-Carone"
-total-received: "$48,331,862"
-fec-candidate-id: "P60006723"
+party: Republican
+chamber: Cabinet
+state: Florida
+state-abbr: FL
+top-donors: "[[GEO Group - Private Prison Industrial Complex]], [[Mark Zuckerberg]], [[MasTec - Mas Canosa Family]], [[Fanjul Family - Florida Crystals]], [[LARA Fund - Mauricio Claver-Carone]], [[AIPAC - American Israel Public Affairs Committee]], [[Larry Ellison]], [[Bacardi - Bacardi USA]], [[Christopher Ruddy]], [[Miriam Adelson]]"
+total-received: $48,331,862
+fec-candidate-id: P60006723
 source-types:
   - Congress
   - FEC
 corroboration-count: 2
 known-gaps:
-  - "No voting record data"
-  - "No mapped relationships"
+  - No voting record data
+  - No mapped relationships
 related: "[[_Donald Trump Master Profile]] · [[Miriam Adelson]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Koch Network - Charles Koch]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[_Rick Scott Master Profile|Rick Scott]] · [[_Maria Elvira Salazar Master Profile|Salazar]]"
 ---
 

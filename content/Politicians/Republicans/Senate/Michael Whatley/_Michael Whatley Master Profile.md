@@ -3,7 +3,7 @@ title: Michael Whatley
 type: politician
 content-readiness: ready
 central-thesis: "Michael Whatley's political career exemplifies the revolving door between fossil fuel lobbying and Republican Party leadership. His professional life centers on three interlocking interests: oil and gas industry advocacy (HBW Resources, Consumer E..."
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 2
 parent: null
 party: Republican
@@ -14,7 +14,7 @@ top-donors:
   - Consumer Energy Alliance
   - HBW Resources
   - Susan B. Anthony Pro-Life America PAC
-total-received: '$6,273,539'
+total-received: $6,273,539
 fec-candidate-id: S6NC00415
 source-types:
   - FEC
@@ -23,7 +23,7 @@ known-gaps:
   - No voting record data
   - No mapped relationships
 related: "[[North Carolina 2026 Senate Race]] · [[Michael Whatley Oil and Gas Lobbying History]] · [[Susan B. Anthony Pro-Life America PAC]] · [[Consumer Energy Alliance]]"
-donors: "[[Susan B. Anthony Pro-Life America PAC]] · [[HBW Resources]]"
+donors: "[[Susan B. Anthony Pro-Life America PAC]] · [[HBW Resources]] · [[Consumer Energy Alliance]] · [[Paul Singer]] · [[AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION]] · [[Tim Dunn]] · [[NORPAC]] · [[Republican Jewish Coalition]]"
 ---
 
 <!-- auto:data-panel start -->

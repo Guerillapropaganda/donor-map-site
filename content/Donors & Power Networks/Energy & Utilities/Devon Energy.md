@@ -1,45 +1,42 @@
 ---
-title: "Devon Energy"
+title: Devon Energy
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Energy & Utilities"
-entity-type: "Corporation"
-politicians-funded:
-  - "James Lankford"
-  - "Markwayne Mullin"
-  - "John Fetterman"
+sector: Energy & Utilities
+entity-type: Corporation
+politicians-funded: "[[Markwayne Mullin]], [[James Lankford]], [[John Fetterman]]"
 issues:
-  - "Energy & Climate"
+  - Energy & Climate
 lobbying-spend: 810000
 lobbying-filings: 18
 last-enriched: "2026-04-10"
 ein: "365040938"
-annual-revenue: "$1"
-net-assets: "$1"
+annual-revenue: $1
+net-assets: $1
 tax-year: "2023"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 related: "[[Valero Energy]] · [[ConocoPhillips]] · [[Koch Industries]] · [[ExxonMobil]] · [[Fossil Fuel Bloc]] · [[_James Lankford Master Profile|Lankford]] · [[_Markwayne Mullin Master Profile|Mullin]] · [[WSPA - Western States Petroleum Association]] · [[Southern Company]] · [[PG&E - Pacific Gas and Electric]] · [[Occidental Petroleum]] · [[NextEra Energy]] · [[Palantir Technologies Political Operation]] · [[Raytheon Technologies]] · [[Instacart]] · [[Uber]] · [[Lyft]] · [[UnitedHealth Group - Optum]] · [[Eli Lilly]]"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 total-revenue: 1
 total-assets: 1
 federal-register-mentions: 110
 regulatory-agencies:
-  - "Antitrust Division"
-  - "Energy Department"
-  - "Environmental Protection Agency"
-  - "Federal Energy Regulatory Commission"
-  - "Federal Trade Commission"
-  - "Interior Department"
-  - "Justice Department"
-  - "Land Management Bureau"
-  - "Natural Resources Revenue Office"
-  - "Securities and Exchange Commission"
-lei: "54930042348RKR3ZPN35"
-lei-jurisdiction: "US-DE"
+  - Antitrust Division
+  - Energy Department
+  - Environmental Protection Agency
+  - Federal Energy Regulatory Commission
+  - Federal Trade Commission
+  - Interior Department
+  - Justice Department
+  - Land Management Bureau
+  - Natural Resources Revenue Office
+  - Securities and Exchange Commission
+lei: 54930042348RKR3ZPN35
+lei-jurisdiction: US-DE
 cross-vault-triangulation-count: 10
 audit-a-plus-passed: "2026-04-11"
 ---

@@ -1,42 +1,22 @@
 ---
-title: "CA Farm Bureau Federation"
+title: CA Farm Bureau Federation
 type: donor
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Agriculture"
-entity-type: "Individual Donor"
+sector: Agriculture
+entity-type: Individual Donor
 related: "[[Labor - Donors and Backers]] · [[Immigration - Donors and Backers]] · [[Western Growers Association]] · [[California Farm Bureau Federation]] · [[Agricultural Labor Vulnerability Donors]]"
 known-gaps:
-  - "No FEC contribution data"
-  - "No lobbying disclosure data"
+  - No FEC contribution data
+  - No lobbying disclosure data
 ein: "912158769"
-nonprofit-status: "501(c)(5)"
+nonprofit-status: 501(c)(5)
 last-enriched: "2026-04-13"
 internal-notes: "[CODE @ 2026-04-13] Pipeline: fec completed for CA Farm Bureau Federation. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24360089891"
-total-political-spend: "$216,324"
-politicians-funded:
-  - "Bennie Thompson"
-  - "Mike Thompson"
-  - "Glenn Thompson"
-  - "Russell Fry"
-  - "Jonathan L. Jackson"
-  - "Lisa Jackson"
-  - "Ronny Jackson"
-  - "Ketanji Brown Jackson"
-  - "Danny K. Davis"
-  - "Donald G. Davis"
-  - "Chris Murphy"
-  - "Gregory F. Murphy"
-  - "Robin L. Kelly"
-  - "Mark Kelly"
-  - "John Kelly"
-  - "Mike Kelly"
-  - "Trent Kelly"
-  - "Brad Knott"
-  - "Lindsey Graham"
-  - "Cindy Hyde-Smith"
+total-political-spend: $216,324
+politicians-funded: "[[Robin L. Kelly]], [[Ketanji Brown Jackson]], [[Donald G. Davis]], [[Cindy Hyde-Smith]], [[Mike Kelly]], [[Trent Kelly]], [[Lindsey Graham]], [[Bennie Thompson]], [[Jonathan L. Jackson]], [[Danny K. Davis]], [[Russell Fry]], [[Gregory F. Murphy]], [[Mike Thompson]], [[Lisa Jackson]], [[Chris Murphy]], [[Mark Kelly]], [[Glenn Thompson]], [[Ronny Jackson]], [[Brad Knott]], [[John Kelly]]"
 ---
 
 

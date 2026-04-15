@@ -1,41 +1,37 @@
 ---
-title: "Tammy Baldwin"
+title: Tammy Baldwin
 type: politician
 content-readiness: ready
 central-thesis: "### Baldwin is the rare progressive who wins in a swing state by anchoring her progressive economic agenda to specific Wisconsin industries , dairy, manufacturing, healthcare , rather than abstract ideology. Her donor architecture reveals the stru..."
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "Senate"
-state: "Wisconsin"
-state-abbr: "WI"
+party: Democrat
+chamber: Senate
+state: Wisconsin
+state-abbr: WI
 issues:
-  - "Agriculture and Food"
-  - "Armed Forces and National Security"
-  - "Government Operations and Politics"
-  - "Health"
-  - "International Affairs"
-  - "Labor and Employment"
-  - "Native Americans"
-  - "Taxation"
-  - "Transportation and Public Works"
-top-donors:
-  - "Blue Cross Blue Shield Association"
-  - "SEIU"
-  - "EMILY's List"
-  - "JStreetPAC"
-fec-candidate-id: "S2WI00219"
+  - Agriculture and Food
+  - Armed Forces and National Security
+  - Government Operations and Politics
+  - Health
+  - International Affairs
+  - Labor and Employment
+  - Native Americans
+  - Taxation
+  - Transportation and Public Works
+top-donors: "[[UAW - United Auto Workers]], [[Insurance Industry]], [[American Principles Project Pac]], [[AFGE - American Federation of Government Employees]], [[National Nurses United]], [[Votevets]], [[Blue Cross Blue Shield Association]], [[Protect the Vote]]"
+fec-candidate-id: S2WI00219
 source-types:
   - Congress
   - FEC
 corroboration-count: 2
 known-gaps:
-  - "No voting record data"
-  - "No mapped relationships"
+  - No voting record data
+  - No mapped relationships
 related: "[[_Ron Johnson Master Profile|Ron Johnson]] · [[_Amy Klobuchar Master Profile|Klobuchar]] · [[Blue Cross Blue Shield Association]] · [[SEIU - Service Employees International Union|SEIU]] · [[_Chuck Schumer Master Profile|Schumer]] · [[_Elizabeth Warren Master Profile|Warren]]"
 last-enriched: "2026-04-10"
-bioguide-id: "B001230"
+bioguide-id: B001230
 ---
 
 <!-- auto:data-panel start -->

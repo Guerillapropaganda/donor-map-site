@@ -1,39 +1,28 @@
 ---
-title: "Joe Biden"
+title: Joe Biden
 type: politician
 content-readiness: ready
 central-thesis: "Biden is the structural Democrat. He genuinely believes he fights for working people , and he has done some real things (the ACA expansion, the IRA's clean energy investment, the content-readiness: ready5 minimum wage push, the union tiebreaker votes). But his politica..."
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "Presidential"
-state: "Delaware"
-state-abbr: "DE"
+party: Democrat
+chamber: Presidential
+state: Delaware
+state-abbr: DE
 issues:
-  - "Wall Street & Finance"
-top-donors:
-  - "MBNA Corporation"
-  - "Pharmaceutical Industry"
-  - "Goldman Sachs"
-  - "JPMorgan Chase"
-  - "Citigroup"
-  - "UnitedHealth Group - Optum"
-  - "Pfizer"
-  - "Moderna"
-fec-candidate-id: "P60012143"
+  - Wall Street & Finance
+top-donors: "[[Democratic Small Dollar Networks]], [[CLUB FOR GROWTH ACTION]], [[Citigroup]], [[Ford Motor Company]], [[Trial Lawyers Fund]], [[MAKE AMERICA GREAT AGAIN INC.]], [[Jeffrey Katzenberg]], [[ActBlue]], [[Tim Geithner]], [[DoorDash]], [[JPMorgan Chase]], [[General Motors]], [[Pharmaceutical Industry]], [[Goldman Sachs]], [[MBNA Corporation]], [[Sam Bankman-Fried]], [[Entertainment and Hollywood Donors]], [[Reed Hastings]], [[Haim Saban]], [[Lawrence Summers]], [[Moderna]], [[Americas Pac]], [[UnitedHealth Group - Optum]]"
+fec-candidate-id: P60012143
 opposes: "[[_Donald Trump Master Profile]]"
 related: "[[Cory Booker]] · [[_Barack Obama Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Gavin Newsom Master Profile]] · [[MBNA Corporation]] · [[Pfizer]] · [[Moderna]] · [[Johnson & Johnson]] · [[UnitedHealth Group - Optum]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Citigroup]] · [[Tim Geithner]] · [[Blue Shield of California]] · [[Kaiser Permanente]] · [[Joe Biden Donor Network - The Full Map]] · [[Joe Biden Executive Orders Timeline]] · [[IRA and Climate Donor Alignment]] · [[CHIPS Act and Silicon Valley]] · [[Student Loan Cancellation Theater]] · [[Afghanistan Withdrawal and the Military-Industrial Base]] · [[The Bankruptcy Bill and MBNA - The Credit Card Senator's Defining Vote]] · [[The Pharmaceutical Deal and the IRA - Ten Drugs Out of Twelve Thousand]] · [[The Defense Budget Pipeline - Record Peacetime Spending and Contractor Profits]] · [[The Student Loan Gambit - Promise Block and Political Credit]]"
 last-enriched: "2026-04-08"
 needs-reenrichment: true
-reenrich-reason: "run voting pipeline; run congress pipeline"
+reenrich-reason: run voting pipeline; run congress pipeline
 executive-orders: 162
 presidential-memoranda: 160
 proclamations: 747
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

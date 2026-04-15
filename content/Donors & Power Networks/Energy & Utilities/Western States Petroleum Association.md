@@ -1,61 +1,58 @@
 ---
-title: "Western States Petroleum Association"
+title: Western States Petroleum Association
 type: donor
 content-readiness: draft
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Energy & Utilities"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Gavin Newsom"
+sector: Energy & Utilities
+entity-type: Individual Donor
+politicians-funded: "[[Gavin Newsom]]"
 lobbying-spend: 5300420
 lobbying-filings: 105
 sec-filings: 179
 sec-form-types:
-  - "10-K"
-  - "10-K/A"
-  - "10-Q"
-  - "10KSB"
-  - "10KSB/A"
-  - "424B3"
-  - "8-K"
-  - "DEF 14A"
-  - "EX-10.1"
-  - "EX-99"
-  - "EX-99.01"
-  - "EX-99.1"
-  - "MA-I"
-  - "MA-I/A"
-  - "PRE 14A"
-  - "PREC14A"
-  - "PRER14A"
-  - "PX14A6G"
-  - "SB-2"
-  - "SB-2/A"
-  - "SC 14F1"
+  - 10-K
+  - 10-K/A
+  - 10-Q
+  - 10KSB
+  - 10KSB/A
+  - 424B3
+  - 8-K
+  - DEF 14A
+  - EX-10.1
+  - EX-99
+  - EX-99.01
+  - EX-99.1
+  - MA-I
+  - MA-I/A
+  - PRE 14A
+  - PREC14A
+  - PRER14A
+  - PX14A6G
+  - SB-2
+  - SB-2/A
+  - SC 14F1
 ein: "950596680"
-annual-revenue: "$36.1M"
-net-assets: "$13.1M"
+annual-revenue: $36.1M
+net-assets: $13.1M
 tax-year: "2023"
 federal-register-mentions: 76
 last-enriched: "2026-04-09"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 regulatory-agencies:
-  - "Commerce Department"
-  - "Environmental Protection Agency"
-  - "National Oceanic and Atmospheric Administration"
-  - "Pipeline and Hazardous Materials Safety Administration"
-  - "Transportation Department"
+  - Commerce Department
+  - Environmental Protection Agency
+  - National Oceanic and Atmospheric Administration
+  - Pipeline and Hazardous Materials Safety Administration
+  - Transportation Department
 related: "[[Valero Energy]] · [[_Gavin Newsom Master Profile]] · [[Fracking and Oil Permits - Green Branding vs. Record]] · [[Environment - Donors and Backers]] · [[Chevron]] · [[California Restaurant Association]] · [[American Petroleum Institute]] · [[PG&E]] · [[Fossil Fuel Bloc]] · [[Petrochemical Industry Bloc]] · [[ALEC - American Legislative Exchange Council]] · [[US Chamber of Commerce]] · [[DeVos Family]] · [[Insurance Industry]] · [[Walton Family Foundation]] · [[National Education Association]]"
-nonprofit-status: "501(c)(6)"
+nonprofit-status: 501(c)(6)
 total-revenue: 56147294
 total-assets: 16493191
 cross-vault-triangulation-count: 9
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

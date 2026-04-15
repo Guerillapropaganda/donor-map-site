@@ -1,73 +1,70 @@
 ---
-title: "Gates Foundation"
+title: Gates Foundation
 type: donor
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Mega-Donors"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Barack Obama"
+sector: Mega-Donors
+entity-type: Individual Donor
+politicians-funded: "[[Barack Obama]]"
 sec-filings: 7626
 sec-form-types:
-  - "10-Q"
+  - 10-Q
   - "3"
   - "4"
-  - "8-K"
-  - "EX-10.13"
-  - "EX-10.15"
-  - "EX-10.3"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "SC 13D"
-  - "SC 13D/A"
-  - "SC 13G"
-  - "SC 13G/A"
-  - "SCHEDULE 13G"
-  - "SCHEDULE 13G/A"
-  - "XML"
-lei: "335800ELY8A4QWLXQW56"
-lei-jurisdiction: "US-WA"
+  - 8-K
+  - EX-10.13
+  - EX-10.15
+  - EX-10.3
+  - EX-99.1
+  - EX-99.2
+  - SC 13D
+  - SC 13D/A
+  - SC 13G
+  - SC 13G/A
+  - SCHEDULE 13G
+  - SCHEDULE 13G/A
+  - XML
+lei: 335800ELY8A4QWLXQW56
+lei-jurisdiction: US-WA
 ein: "562618866"
-annual-revenue: "$7.8B"
-net-assets: "$77.0B"
+annual-revenue: $7.8B
+net-assets: $77.0B
 tax-year: "2023"
 related: "[[Michael Bennet]] · [[Koch Network - Charles Koch|Koch Network]] · [[Walton Family Foundation]] · [[_Barack Obama Master Profile|Obama]] · [[New America]] · [[Urban Institute]] · [[Brookings Institution]]"
 federal-register-mentions: 18
 last-enriched: "2026-04-09"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 regulatory-agencies:
-  - "Agency for International Development"
-  - "Antitrust Division"
-  - "Centers for Disease Control and Prevention"
-  - "Education Department"
-  - "Employment and Training Administration"
-  - "Environmental Protection Agency"
-  - "Federal Communications Commission"
-  - "Health and Human Services Department"
-  - "Housing and Urban Development Department"
-  - "Justice Department"
+  - Agency for International Development
+  - Antitrust Division
+  - Centers for Disease Control and Prevention
+  - Education Department
+  - Employment and Training Administration
+  - Environmental Protection Agency
+  - Federal Communications Commission
+  - Health and Human Services Department
+  - Housing and Urban Development Department
+  - Justice Department
 court-cases: 603
 court-jurisdictions:
-  - "Court of Appeals for the D.C. Circuit"
-  - "Court of Appeals for the Ninth Circuit"
-  - "District Court, D. Arizona"
-  - "District Court, D. Delaware"
-  - "District Court, District of Columbia"
-  - "District Court, E.D. New York"
-  - "District Court, N.D. Alabama"
-  - "District Court, N.D. California"
-  - "District Court, N.D. Illinois"
-  - "District Court, N.D. New York"
-nonprofit-status: "501(c)(3)"
+  - Court of Appeals for the D.C. Circuit
+  - Court of Appeals for the Ninth Circuit
+  - District Court, D. Arizona
+  - District Court, D. Delaware
+  - District Court, District of Columbia
+  - District Court, E.D. New York
+  - District Court, N.D. Alabama
+  - District Court, N.D. California
+  - District Court, N.D. Illinois
+  - District Court, N.D. New York
+nonprofit-status: 501(c)(3)
 total-revenue: 8186448170
 total-assets: 78673465696
 cross-vault-triangulation-count: 6
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

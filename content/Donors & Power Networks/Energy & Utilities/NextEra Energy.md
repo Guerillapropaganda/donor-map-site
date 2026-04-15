@@ -1,76 +1,75 @@
 ---
-title: "NextEra Energy"
+title: NextEra Energy
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Energy & Utilities"
-entity-type: "Corporation"
+sector: Energy & Utilities
+entity-type: Corporation
 federal-awards-total: 19305761
 federal-contracts-count: 25
 federal-grants-count: 2
 ein: "650031452"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-07"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 total-revenue: 23163816
 total-assets: 78162606
 federal-register-mentions: 797
 regulatory-agencies:
-  - "Energy Department"
-  - "Federal Communications Commission"
-  - "Federal Energy Regulatory Commission"
-  - "Fish and Wildlife Service"
-  - "Interior Department"
-  - "Labor Department"
-  - "Nuclear Regulatory Commission"
-  - "Veterans Employment and Training Service"
+  - Energy Department
+  - Federal Communications Commission
+  - Federal Energy Regulatory Commission
+  - Fish and Wildlife Service
+  - Interior Department
+  - Labor Department
+  - Nuclear Regulatory Commission
+  - Veterans Employment and Training Service
 court-cases: 987
 court-jurisdictions:
-  - "Court of Appeals for the D.C. Circuit"
-  - "Court of Appeals for the Federal Circuit"
-  - "Court of Appeals for the Ninth Circuit"
-  - "Court of Appeals for the Tenth Circuit"
-  - "District Court, D. Maryland"
-  - "District Court, D. New Jersey"
-  - "District Court, District of Columbia"
-  - "District Court, E.D. Texas"
-  - "District Court, S.D. California"
-  - "District Court, S.D. Florida"
+  - Court of Appeals for the D.C. Circuit
+  - Court of Appeals for the Federal Circuit
+  - Court of Appeals for the Ninth Circuit
+  - Court of Appeals for the Tenth Circuit
+  - District Court, D. Maryland
+  - District Court, D. New Jersey
+  - District Court, District of Columbia
+  - District Court, E.D. Texas
+  - District Court, S.D. California
+  - District Court, S.D. Florida
 sec-filings: 10000
 sec-form-types:
-  - "10-K"
-  - "10-K/A"
-  - "10-Q"
+  - 10-K
+  - 10-K/A
+  - 10-Q
   - "144"
   - "4"
-  - "424B2"
-  - "424B5"
-  - "8-K"
-  - "ARS"
-  - "DEF 14A"
-  - "DEFA14A"
-  - "EX-10.(B)"
-  - "EX-10.(D)"
-  - "EX-99"
-  - "EX-99.99"
-  - "EX-99.A"
-  - "EX-99.B"
-  - "EX-FILING FEES"
-  - "FWP"
-  - "PX14A6G"
-  - "S-3ASR"
-  - "S-3D"
-  - "SCHEDULE 13G/A"
+  - 424B2
+  - 424B5
+  - 8-K
+  - ARS
+  - DEF 14A
+  - DEFA14A
+  - EX-10.(B)
+  - EX-10.(D)
+  - EX-99
+  - EX-99.99
+  - EX-99.A
+  - EX-99.B
+  - EX-FILING FEES
+  - FWP
+  - PX14A6G
+  - S-3ASR
+  - S-3D
+  - SCHEDULE 13G/A
 related: "[[Valero Energy]] · [[John Thune Master Profile]] · [[The McConnell Succession and the Majority Leader Fundraising Machine]] · [[ExxonMobil]] · [[Koch Industries]] · [[Fossil Fuel Bloc]] · [[WSPA - Western States Petroleum Association]] · [[Southern Company]] · [[PG&E - Pacific Gas and Electric]] · [[Occidental Petroleum]] · [[Marathon Petroleum]] · [[Palantir Technologies Political Operation]] · [[Raytheon Technologies]] · [[Instacart]] · [[Uber]] · [[Lyft]] · [[UnitedHealth Group - Optum]] · [[Eli Lilly]]"
-top-federal-agency: "Department of Defense"
+top-federal-agency: Department of Defense
 top-naics-code: "221112"
 cross-vault-triangulation-count: 8
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+politicians-funded: "[[John Thune]]"
 ---
 
 <!-- auto:data-panel start -->

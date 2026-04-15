@@ -1,26 +1,23 @@
 ---
-title: "Samuel Alito"
+title: Samuel Alito
 type: politician
 content-readiness: ready
-central-thesis: "Samuel Alito is the quieter version of the Thomas model , fewer gifts, the same structural capture. His 2008 Alaska fishing trip with Paul Singer was arranged by Leonard Leo, the same architect who secured Alito's nomination after engineering Harr..."
-last-updated: 2026-04-13
+central-thesis: Samuel Alito is the quieter version of the Thomas model , fewer gifts, the same structural capture. His 2008 Alaska fishing trip with Paul Singer was arranged by Leonard Leo, the same architect who secured Alito's nomination after engineering Harr...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-chamber: "SCOTUS"
-top-donors:
-  - "Leonard Leo"
-  - "Paul Singer"
-  - "Koch Network - Charles Koch"
+chamber: SCOTUS
+top-donors: "[[Koch Network - Charles Koch]], [[Paul Singer]], [[Leonard Leo]], [[Federalist Society]]"
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record from Congress.gov"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record from Congress.gov
+  - No voting record data
+  - No mapped relationships
 related: "[[Leonard Leo]] · [[_Clarence Thomas Master Profile]] · [[Koch Network - Charles Koch]]"
-wikidata-id: "Q11138"
+wikidata-id: Q11138
 last-enriched: "2026-04-10"
-wikipedia-url: "https://en.wikipedia.org/wiki/Samuel_Alito"
-wikipedia-extract: "Samuel Anthony Alito Jr. is an American jurist who serves as an associate justice of the Supreme Court of the United States. He was nominated to the high court by President George W."
+wikipedia-url: https://en.wikipedia.org/wiki/Samuel_Alito
+wikipedia-extract: Samuel Anthony Alito Jr. is an American jurist who serves as an associate justice of the Supreme Court of the United States. He was nominated to the high court by President George W.
 born: "1950-01-01"
 ---
 

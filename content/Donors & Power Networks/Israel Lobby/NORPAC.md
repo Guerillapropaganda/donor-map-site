@@ -1,58 +1,46 @@
 ---
-title: "NORPAC"
+title: NORPAC
 type: donor
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Israel Lobby"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Bernie Moreno"
-  - "Michael Whatley"
-  - "Bill Cassidy"
-  - "Jim Risch"
-  - "Jack Reed"
-  - "Tim Walberg"
-  - "Tom Cotton"
-  - "Brian Mast"
-  - "Mike Lawler"
-  - "Ritchie Torres"
-  - "Gregory Meeks"
-  - "John Hickenlooper"
+sector: Israel Lobby
+entity-type: Individual Donor
+politicians-funded: "[[Bill Cassidy]], [[Mike Lawler]], [[Jack Reed]], [[Tom Cotton]], [[Bernie Moreno]], [[John Hickenlooper]], [[Ritchie Torres]], [[Brian Mast]], [[Gregory Meeks]], [[Tim Walberg]], [[Michael Whatley]], [[Jim Risch]]"
 federal-register-mentions: 42
 last-enriched: "2026-04-09"
 regulatory-agencies:
-  - "Commerce Department"
-  - "Employment and Training Administration"
-  - "Federal Election Commission"
-  - "Federal Trade Commission"
-  - "International Trade Administration"
-  - "International Trade Commission"
-  - "Labor Department"
-  - "National Oceanic and Atmospheric Administration"
-lei: "9845000814B4D365EG29"
-lei-jurisdiction: "IN"
+  - Commerce Department
+  - Employment and Training Administration
+  - Federal Election Commission
+  - Federal Trade Commission
+  - International Trade Administration
+  - International Trade Commission
+  - Labor Department
+  - National Oceanic and Atmospheric Administration
+lei: 9845000814B4D365EG29
+lei-jurisdiction: IN
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
 ein: "352841377"
-nonprofit-status: "501(c)(4)"
+nonprofit-status: 501(c)(4)
 total-revenue: 2327
 total-assets: 51394
 related: "[[Ritchie Torres]] · [[Jamaal Bowman Master Profile]] · [[Jim Risch]] · [[Bernie Moreno]] · [[Tim Walberg]] · [[Brian Mast]] · [[John Hickenlooper]] · [[Jack Reed]] · [[Gregory Meeks]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[Republican Jewish Coalition]] · [[Miriam Adelson]] · [[United Democracy Project - UDP]]"
-total-political-spend: "$1,857,124"
+total-political-spend: $1,857,124
 court-cases: 141
 court-jurisdictions:
-  - "District Court, D. Colorado"
-  - "District Court, D. Hawaii"
-  - "District Court, D. Nevada"
-  - "District Court, D. Oregon"
-  - "District Court, N.D. Georgia"
-  - "District Court, N.D. Illinois"
-  - "District Court, N.D. Texas"
-  - "United States Bankruptcy Court, D. Delaware"
-  - "United States Bankruptcy Court, D. Utah"
-  - "United States Bankruptcy Court, M.D. Florida"
+  - District Court, D. Colorado
+  - District Court, D. Hawaii
+  - District Court, D. Nevada
+  - District Court, D. Oregon
+  - District Court, N.D. Georgia
+  - District Court, N.D. Illinois
+  - District Court, N.D. Texas
+  - United States Bankruptcy Court, D. Delaware
+  - United States Bankruptcy Court, D. Utah
+  - United States Bankruptcy Court, M.D. Florida
 cross-vault-triangulation-count: 9
 audit-a-plus-passed: "2026-04-11"
 ---

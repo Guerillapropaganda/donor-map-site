@@ -1,30 +1,26 @@
 ---
-title: "Lindsey Graham"
+title: Lindsey Graham
 type: politician
-bioguide-id: "G000359"
+bioguide-id: G000359
 content-readiness: draft
-central-thesis: "Lindsey Graham is the Senate's purest demonstration that political identity follows money. He was John McCain's ideological twin , interventionist, bipartisan, immigration-moderate , because McCain's donor network rewarded that positioning. When M..."
-last-updated: 2026-03-27
+central-thesis: Lindsey Graham is the Senate's purest demonstration that political identity follows money. He was John McCain's ideological twin , interventionist, bipartisan, immigration-moderate , because McCain's donor network rewarded that positioning. When M...
+last-updated: 2026-03-27T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Senate"
-state: "South Carolina"
-state-abbr: "SC"
+party: Republican
+chamber: Senate
+state: South Carolina
+state-abbr: SC
 issues:
-  - "Defense & Military"
-  - "Israel & Foreign Policy"
-top-donors:
-  - "AIPAC"
-  - "Lockheed Martin"
-  - "Boeing"
-  - "Republican Jewish Coalition"
+  - Defense & Military
+  - Israel & Foreign Policy
+top-donors: "[[California Farm Bureau Federation]], [[Boeing]], [[CA Farm Bureau Federation]], [[Lockheed Martin]], [[Patrick Soon-Shiong]], [[Republican Jewish Coalition]], [[Democracy Alliance]]"
 source-types:
   - FEC
 known-gaps:
-  - "No legislative record from Congress.gov"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No legislative record from Congress.gov
+  - No voting record data
+  - No mapped relationships
 related: "[[_Donald Trump Master Profile|Trump]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Pete Hegseth Master Profile|Hegseth]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Brett Kavanaugh Master Profile|Kavanaugh]] · [[Leonard Leo]]"
 ---
 

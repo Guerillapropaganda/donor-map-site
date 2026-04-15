@@ -1,20 +1,19 @@
 ---
-title: "CTA - California Teachers Association"
+title: CTA - California Teachers Association
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Education"
-entity-type: "Corporation"
-politicians-funded:
-  - "Gavin Newsom"
+sector: Education
+entity-type: Corporation
+politicians-funded: "[[Tony Thurmond]], [[Gavin Newsom]]"
 issues:
-  - "Labor & Workers"
-  - "Education"
+  - Labor & Workers
+  - Education
 ein: 942552809
-annual-revenue: "$89K"
-net-assets: "$316K"
+annual-revenue: $89K
+net-assets: $316K
 tax-year: "2023"
 lobbying-spend: 160000
 lobbying-filings: 8

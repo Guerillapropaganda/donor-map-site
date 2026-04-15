@@ -1,59 +1,54 @@
 ---
-title: "Kelcy Warren"
+title: Kelcy Warren
 type: donor
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-08T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Mega-Donors"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Greg Abbott"
-  - "Ted Cruz"
-  - "Donald Trump"
+sector: Mega-Donors
+entity-type: Individual Donor
+politicians-funded: "[[Greg Abbott]], [[Donald Trump]], [[Ted Cruz]]"
 issues:
-  - "Energy & Climate"
+  - Energy & Climate
 court-cases: 33
 last-enriched: "2026-04-08"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 court-jurisdictions:
-  - "Court of Appeals for the Sixth Circuit"
-  - "District Court, D. Delaware"
-  - "District Court, D. Maryland"
-  - "District Court, D. North Dakota"
-  - "District Court, District of Columbia"
-  - "District Court, E.D. Michigan"
-  - "District Court, E.D. Pennsylvania"
-  - "District Court, N.D. California"
-  - "District Court, N.D. Texas"
-  - "District Court, S.D. Iowa"
+  - Court of Appeals for the Sixth Circuit
+  - District Court, D. Delaware
+  - District Court, D. Maryland
+  - District Court, D. North Dakota
+  - District Court, District of Columbia
+  - District Court, E.D. Michigan
+  - District Court, E.D. Pennsylvania
+  - District Court, N.D. California
+  - District Court, N.D. Texas
+  - District Court, S.D. Iowa
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
 ein: 367285069
-annual-revenue: "$8K"
-net-assets: "$94K"
+annual-revenue: $8K
+net-assets: $94K
 tax-year: "2015"
 related: "[[Environment - Donors and Backers]] · [[DAPL Survives Both Parties - The Bipartisan Fossil Fuel Consensus]] · [[_Greg Abbott Master Profile]] · [[_Ted Cruz Master Profile]] · [[_Donald Trump Master Profile]] · [[Kelcy Warren - Energy Transfer Partners|Energy Transfer Partners]]"
 sec-filings: 506
 sec-form-types:
   - "4"
-  - "4/A"
+  - 4/A
   - "425"
-  - "8-K"
-  - "DEFA14A"
-  - "EX-24."
-  - "EX-3.13.1"
-  - "EX-99.1"
-  - "EX-99.8"
-  - "POS AM"
-  - "S-8 POS"
-  - "SC 13D"
-  - "SC 13D/A"
+  - 8-K
+  - DEFA14A
+  - EX-24.
+  - EX-3.13.1
+  - EX-99.1
+  - EX-99.8
+  - POS AM
+  - S-8 POS
+  - SC 13D
+  - SC 13D/A
 cross-vault-triangulation-count: 4
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

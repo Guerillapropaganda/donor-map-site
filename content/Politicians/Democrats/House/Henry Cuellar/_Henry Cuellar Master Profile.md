@@ -1,41 +1,42 @@
 ---
-title: "Henry Cuellar"
+title: Henry Cuellar
 type: politician
 content-readiness: ready
 central-thesis: "Henry Cuéllar is the most explicit donor-to-policy case in this vault: foreign bribes converted directly into legislative action. Azerbaijan's state oil company paid $300,000+ to Cuéllar through intermediaries 2014-2021. The payments were document..."
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "House"
-state: "Texas"
-state-abbr: "TX"
+party: Democrat
+chamber: House
+state: Texas
+state-abbr: TX
 district: "28"
 issues:
-  - "Energy & Climate"
-total-received: "$1,189,858"
-fec-candidate-id: "H2TX23082"
+  - Energy & Climate
+total-received: $1,189,858
+fec-candidate-id: H2TX23082
 source-types:
   - DOJ
   - FEC
 corroboration-count: 2
 known-gaps:
-  - "No legislative record from Congress.gov"
-  - "No voting record data"
-  - "No mapped relationships"
-bioguide-id: "C001063"
+  - No legislative record from Congress.gov
+  - No voting record data
+  - No mapped relationships
+bioguide-id: C001063
 govtrack-id: 400657
 bills-sponsored: 2
 bills-cosponsored: 150
-website: "https://cuellar.house.gov"
-phone: "202-225-1640"
+website: https://cuellar.house.gov
+phone: 202-225-1640
 related: "[[_Donald Trump Master Profile]] · [[_Greg Abbott Master Profile]]"
-total-raised: "$1,189,858"
-total-spent: "$754,501"
+total-raised: $1,189,858
+total-spent: $754,501
 cash-on-hand: "483316.29"
 fec-cycle: 2026
 last-enriched: "2026-04-10"
 fec-debt: "238000.00"
+top-donors: "[[Western Growers Association]], [[American Petroleum Institute]], [[Mainstream Democrats Pac]], [[Congressional Leadership Fund]], [[NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND]], [[NRCC]]"
 ---
 
 <!-- auto:data-panel start -->

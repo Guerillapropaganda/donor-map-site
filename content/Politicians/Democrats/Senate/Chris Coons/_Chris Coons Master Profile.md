@@ -1,36 +1,35 @@
 ---
-title: "Chris Coons"
+title: Chris Coons
 type: politician
 content-readiness: ready
-central-thesis: "Coons is Big Pharma's man in the Senate , Jacobin's phrase, but the evidence is structural. Delaware is home to DuPont, AstraZeneca, and the corporate incorporation industry that shelters more than 1.8 million business entities. Coons's committee ..."
-last-updated: 2026-04-15
+central-thesis: Coons is Big Pharma's man in the Senate , Jacobin's phrase, but the evidence is structural. Delaware is home to DuPont, AstraZeneca, and the corporate incorporation industry that shelters more than 1.8 million business entities. Coons's committee ...
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "Senate"
-state: "Delaware"
-state-abbr: "DE"
+party: Democrat
+chamber: Senate
+state: Delaware
+state-abbr: DE
 issues:
-  - "Agriculture and Food"
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Commerce"
-  - "Crime and Law Enforcement"
-  - "Education"
-  - "Finance and Financial Sector"
-  - "Health"
-  - "Immigration"
-  - "International Affairs"
-  - "Public Lands and Natural Resources"
-top-donors:
-  - "PhRMA"
+  - Agriculture and Food
+  - Civil Rights and Liberties, Minority Issues
+  - Commerce
+  - Crime and Law Enforcement
+  - Education
+  - Finance and Financial Sector
+  - Health
+  - Immigration
+  - International Affairs
+  - Public Lands and Natural Resources
+top-donors: "[[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]]"
 stock-trades: 24
 stock-trade-tickers:
-  - "NFLX"
-  - "AAPL"
-  - "MSFT"
-total-received: "$5,285,973"
-fec-candidate-id: "S0DE00092"
-bioguide-id: "C001088"
+  - NFLX
+  - AAPL
+  - MSFT
+total-received: $5,285,973
+fec-candidate-id: S0DE00092
+bioguide-id: C001088
 source-types:
   - Congress
   - FEC
@@ -39,18 +38,18 @@ corroboration-count: 3
 needs-reenrichment: true
 reenrich-reason: "Bioguide recovered 2026-04-11 (was contaminated, now verified): C001088. Next pipeline run should populate Congress.gov + GovTrack auto-blocks with correct data."
 known-gaps:
-  - "No mapped relationships"
+  - No mapped relationships
 last-enriched: "2026-04-11"
 related: "[[_Joe Biden Master Profile|Joe Biden]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
 committees:
-  - "Senate Committee on Appropriations"
-  - "Senate Committee on Foreign Relations"
-  - "Senate Committee on Small Business and Entrepreneurship"
-  - "Senate Committee on the Judiciary"
-  - "Senate Select Committee on Ethics"
-internal-notes: "[MANUAL 2026-04-11] Bioguide recovered: C001088. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true , the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
-
-[JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
+  - Senate Committee on Appropriations
+  - Senate Committee on Foreign Relations
+  - Senate Committee on Small Business and Entrepreneurship
+  - Senate Committee on the Judiciary
+  - Senate Select Committee on Ethics
+internal-notes: |-
+  [MANUAL 2026-04-11] Bioguide recovered: C001088. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true , the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
+  [JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided.
 ---
 
 <!-- auto:data-panel start -->

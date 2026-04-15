@@ -1,18 +1,16 @@
 ---
-title: "MasTec - Mas Canosa Family"
+title: MasTec - Mas Canosa Family
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-08T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Real Estate"
-entity-type: "Corporation"
-politicians-funded:
-  - "Marco Rubio"
-  - "Mario Diaz-Balart"
+sector: Real Estate
+entity-type: Corporation
+politicians-funded: "[[Marco Rubio]], [[Carlos Gimenez]], [[Mario Diaz-Balart]]"
 issues:
-  - "Infrastructure"
-  - "Housing"
+  - Infrastructure
+  - Housing
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-07"
@@ -29,7 +27,7 @@ source-types:
   - USASpending
 corroboration-count: 3
 known-gaps:
-  - "No SEC corporate filings"
+  - No SEC corporate filings
 cross-vault-triangulation-count: 10
 audit-a-plus-passed: "2026-04-11"
 ---

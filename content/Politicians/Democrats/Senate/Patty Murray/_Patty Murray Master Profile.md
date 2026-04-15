@@ -1,55 +1,51 @@
 ---
-title: "Patty Murray"
+title: Patty Murray
 type: politician
-bioguide-id: "M001111"
+bioguide-id: M001111
 content-readiness: ready
 central-thesis: "Patty Murray exemplifies the unsexy, unglamorous accumulation of structural power in the Senate: appropriations control, committee seniority, and the ability to direct billions of dollars to home-state industries. Unlike dramatic figures who draw ..."
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "Senate"
-state: "Washington"
-state-abbr: "WA"
+party: Democrat
+chamber: Senate
+state: Washington
+state-abbr: WA
 committees:
-  - "Appropriations"
+  - Appropriations
 issues:
-  - "Armed Forces and National Security"
-  - "Finance and Financial Sector"
-  - "Foreign Trade and International Finance"
-  - "Government Operations and Politics"
-  - "Health"
-  - "Labor and Employment"
-  - "Native Americans"
-  - "Social Welfare"
+  - Armed Forces and National Security
+  - Finance and Financial Sector
+  - Foreign Trade and International Finance
+  - Government Operations and Politics
+  - Health
+  - Labor and Employment
+  - Native Americans
+  - Social Welfare
 top-donors:
-  - "Boeing"
-  - "Defense Industry Bloc"
-  - "Pharmaceutical Industry Bloc"
-  - "Microsoft"
+  - Boeing
+  - Defense Industry Bloc
+  - Pharmaceutical Industry Bloc
+  - Microsoft
 stock-trades: 161
 stock-trade-tickers:
-  - "WMB"
-  - "WRK"
-  - "WFC"
-  - "WBA"
-  - "WMT"
-  - "VZ"
-  - "UTX"
-  - "UPS"
-  - "UN"
-  - "USB"
-donors: "[[Jeff Bezos]]"
-total-received: "$3,798,925"
-fec-candidate-id: "S2WA00189"
+  - WMB
+  - WRK
+  - WFC
+  - WBA
+  - WMT
+  - VZ
+  - UTX
+  - UPS
+  - UN
+  - USB
+donors: "[[Jeff Bezos]], [[Pharmaceutical Industry Bloc]], [[Crossroads Grassroots Policy Strategies]], [[Evergreen Principles PAC]], [[National Republican Senatorial Committee]], [[Defense Industry Bloc]], [[Microsoft]], [[Boeing]], [[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]], [[WOMEN VOTE!]], [[ESAFUND]]"
+total-received: $3,798,925
+fec-candidate-id: S2WA00189
 related: "[[Boeing]] · [[Pharmaceutical Industry Bloc]] · [[Defense Industry Bloc]] · [[Microsoft]]"
 needs-reenrichment: true
-reenrich-reason: "run voting pipeline; run congress pipeline; run pipelines"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-  • No last-enriched date is set. The pipelines have never touched this file.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: run voting pipeline; run congress pipeline; run pipelines
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 last-enriched: "2026-04-12"
 ---
 

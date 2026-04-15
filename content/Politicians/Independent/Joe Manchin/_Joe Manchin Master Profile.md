@@ -1,28 +1,27 @@
 ---
-title: "Joe Manchin"
+title: Joe Manchin
 type: politician
-bioguide-id: "M001183"
+bioguide-id: M001183
 content-readiness: ready
 central-thesis: "Joe Manchin is the donor class's most efficient investment in modern American politics. A single senator , one vote , killed content-readiness: ready86 billion in climate legislation (Build Back Better's clean electricity program, methane fees, EV incentives), then ext..."
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Independent"
-chamber: "Senate"
-state: "West Virginia"
-state-abbr: "WV"
-top-donors:
-  - "Fossil Fuel Bloc"
-total-received: "$11,923,091"
-fec-candidate-id: "S0WV00090"
+party: Independent
+chamber: Senate
+state: West Virginia
+state-abbr: WV
+top-donors: "[[SMP]], [[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]], [[MAJORITY FORWARD]], [[National Republican Senatorial Committee]], [[NRSC]], [[Insurance Industry]], [[Fossil Fuel Bloc]], [[ExxonMobil]], [[Centene Corporation]], [[Senate Leadership Fund]]"
+total-received: $11,923,091
+fec-candidate-id: S0WV00090
 source-types:
   - FEC
   - SEC
 corroboration-count: 2
 known-gaps:
-  - "No legislative record from Congress.gov"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No legislative record from Congress.gov
+  - No voting record data
+  - No mapped relationships
 related: "[[Koch Network - Charles Koch]] · [[Fossil Fuel Bloc]] · [[_Kyrsten Sinema Master Profile|Kyrsten Sinema]] · [[_Chuck Schumer Master Profile]]"
 ---
 

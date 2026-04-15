@@ -1,28 +1,26 @@
 ---
-title: "Nikki Haley"
+title: Nikki Haley
 type: politician
 content-readiness: ready
 central-thesis: "Haley is the donor class's 'electability' candidate , the corporate-friendly, defense-hawk Republican who could theoretically win general elections by assembling the pre-Trump GOP coalition: suburban voters, defense establishment, Wall Street, and..."
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Governor"
-state: "South Carolina"
-state-abbr: "SC"
+party: Republican
+chamber: Governor
+state: South Carolina
+state-abbr: SC
 issues:
-  - "Wall Street & Finance"
-top-donors:
-  - "Koch Network - Charles Koch"
-  - "Kenneth Griffin"
-total-received: "$58,378,348"
-fec-candidate-id: "P40010977"
+  - Wall Street & Finance
+top-donors: "[[AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION]], [[Kenneth Griffin]], [[Sfa Fund, Inc]], [[Fossil Fuel Bloc]], [[Americans for Prosperity]], [[NEVER BACK DOWN INC.]], [[Jan Koum]], [[MAKE AMERICA GREAT AGAIN INC.]], [[Adelson Family]], [[Koch Network - Charles Koch]], [[FIGHT RIGHT INC]]"
+total-received: $58,378,348
+fec-candidate-id: P40010977
 source-types:
   - FEC
 known-gaps:
-  - "No legislative record from Congress.gov"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No legislative record from Congress.gov
+  - No voting record data
+  - No mapped relationships
 last-enriched: "2026-04-09"
 related: "[[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile]] · [[_Ron DeSantis Master Profile]] · [[The Koch Endorsement and the Corporate Republican Restoration Project]] · [[The Defense Industry Pipeline and South Carolina's Military Economy]]"
 ---

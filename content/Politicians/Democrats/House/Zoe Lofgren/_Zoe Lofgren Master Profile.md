@@ -1,51 +1,49 @@
 ---
-title: "Zoe Lofgren"
+title: Zoe Lofgren
 type: politician
 content-readiness: ready
-central-thesis: "Zoe Lofgren is Silicon Valley's member of Congress — funded by Apple, Google, Meta, Cisco, and the entire tech ecosystem, representing the district where those companies are headquartered. When Big Tech antitrust legislation came before the Judici..."
-last-updated: 2026-04-13
+central-thesis: Zoe Lofgren is Silicon Valley's member of Congress — funded by Apple, Google, Meta, Cisco, and the entire tech ecosystem, representing the district where those companies are headquartered. When Big Tech antitrust legislation came before the Judici...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "House"
-state: "California"
-state-abbr: "CA"
+party: Democrat
+chamber: House
+state: California
+state-abbr: CA
 district: "6"
 committees:
-  - "House Committee on Science, Space, and Technology"
-  - "House Committee on the Judiciary"
+  - House Committee on Science, Space, and Technology
+  - House Committee on the Judiciary
 leadership-roles:
-  - "Ranking Member"
+  - Ranking Member
 issues:
-  - "Animals"
-  - "Armed Forces and National Security"
-  - "Arts, Culture, Religion"
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Commerce"
-  - "Crime and Law Enforcement"
-  - "Economics and Public Finance"
-  - "Education"
-  - "Energy"
-  - "Finance and Financial Sector"
-total-received: "$1,274,233"
-fec-candidate-id: "H4CA16049"
-donors: "[[Tech Industry]] · [[Google - Alphabet]]"
+  - Animals
+  - Armed Forces and National Security
+  - Arts, Culture, Religion
+  - Civil Rights and Liberties, Minority Issues
+  - Commerce
+  - Crime and Law Enforcement
+  - Economics and Public Finance
+  - Education
+  - Energy
+  - Finance and Financial Sector
+total-received: $1,274,233
+fec-candidate-id: H4CA16049
+donors: "[[Tech Industry]] · [[Google - Alphabet]] · [[Courage California Super Pac]]"
 related: "[[Brian Babin]] · [[_Donald Trump Master Profile|Trump]]"
 last-enriched: "2026-04-11"
 needs-reenrichment: true
-reenrich-reason: "re-run congress pipeline"
-bioguide-id: "L000397"
-internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
-  • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-total-raised: "$1,274,233"
-total-spent: "$797,141"
+reenrich-reason: re-run congress pipeline
+bioguide-id: L000397
+internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+total-raised: $1,274,233
+total-spent: $797,141
 cash-on-hand: "716844.09"
 fec-cycle: 2026
 fec-debt: "13611.65"
-wikidata-id: "Q218217"
-wikipedia-url: "https://en.wikipedia.org/wiki/Zoe_Lofgren"
-wikipedia-extract: 'Susan Ellen "Zoe" Lofgren is an American politician and lawyer serving as a U.S. representative from California.'
+wikidata-id: Q218217
+wikipedia-url: https://en.wikipedia.org/wiki/Zoe_Lofgren
+wikipedia-extract: Susan Ellen "Zoe" Lofgren is an American politician and lawyer serving as a U.S. representative from California.
 born: "1947-12-21"
 ---
 

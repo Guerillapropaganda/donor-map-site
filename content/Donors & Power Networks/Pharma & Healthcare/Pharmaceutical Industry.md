@@ -1,81 +1,78 @@
 ---
-title: "Pharmaceutical Industry"
+title: Pharmaceutical Industry
 type: donor
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Pharma & Healthcare"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Bernie Sanders"
+sector: Pharma & Healthcare
+entity-type: Individual Donor
+politicians-funded: "[[Kyrsten Sinema]], [[Barack Obama]], [[Joe Biden]], [[Pam Bondi]], [[Bernie Sanders]], [[Dick Durbin]]"
 issues:
-  - "Healthcare"
-  - "Social Safety Net"
-  - "Dark Money & Campaign Finance"
+  - Healthcare
+  - Social Safety Net
+  - Dark Money & Campaign Finance
 ein: 431985339
-annual-revenue: "$4.1M"
-net-assets: "$615K"
+annual-revenue: $4.1M
+net-assets: $615K
 tax-year: "2023"
 sec-filings: 10000
 sec-form-types:
-  - "424B2"
-  - "497K"
-  - "6-K"
-  - "8-K"
-  - "CORRESP"
-  - "DEF 14C"
-  - "DEFA14A"
-  - "EX-1"
-  - "EX-10.55"
-  - "EX-10.6"
-  - "EX-15.4"
-  - "EX-20"
-  - "EX-99"
-  - "EX-99.01"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "FWP"
-  - "LETTER"
-  - "POS AM"
-  - "PRE 14C"
-  - "PREC14C"
-  - "PX14A6G"
-  - "S-1"
-  - "S-1/A"
+  - 424B2
+  - 497K
+  - 6-K
+  - 8-K
+  - CORRESP
+  - DEF 14C
+  - DEFA14A
+  - EX-1
+  - EX-10.55
+  - EX-10.6
+  - EX-15.4
+  - EX-20
+  - EX-99
+  - EX-99.01
+  - EX-99.1
+  - EX-99.2
+  - FWP
+  - LETTER
+  - POS AM
+  - PRE 14C
+  - PREC14C
+  - PX14A6G
+  - S-1
+  - S-1/A
 related: "[[Pam Bondi Master Profile]] · [[Kyrsten Sinema Master Profile]] · [[Joe Biden Master Profile]] · [[The Pharmaceutical Deal and the IRA - Ten Drugs Out of Twelve Thousand]] · [[Barack Obama Master Profile]] · [[The ACA - Insurance Industry Capture Disguised as Healthcare Reform]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Dick Durbin]] · [[Pharmaceutical Industry Bloc]] · [[PhRMA]] · [[Gilead Sciences]] · [[Moderna]] · [[AbbVie]] · [[Eli Lilly]] · [[Merck]] · [[Johnson & Johnson]] · [[Novo Nordisk]] · [[Insurance Industry]] · [[Healthcare Sector]] · [[Contradiction 03 - PhRMA Kills Drug Negotiation From Both Sides]]"
 federal-register-mentions: 623
 last-enriched: "2026-04-08"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 regulatory-agencies:
-  - "Centers for Medicare & Medicaid Services"
-  - "Commerce Department"
-  - "Drug Enforcement Administration"
-  - "Environmental Protection Agency"
-  - "Food and Drug Administration"
-  - "Health and Human Services Department"
-  - "Industry and Security Bureau"
-  - "Justice Department"
-  - "National Institutes of Health"
+  - Centers for Medicare & Medicaid Services
+  - Commerce Department
+  - Drug Enforcement Administration
+  - Environmental Protection Agency
+  - Food and Drug Administration
+  - Health and Human Services Department
+  - Industry and Security Bureau
+  - Justice Department
+  - National Institutes of Health
 court-cases: 7107
 court-jurisdictions:
-  - "Court of Appeals for the Eighth Circuit"
-  - "Court of Appeals for the Third Circuit"
-  - "District Court, D. Delaware"
-  - "District Court, D. Maryland"
-  - "District Court, D. Massachusetts"
-  - "District Court, D. Minnesota"
-  - "District Court, D. New Jersey"
-  - "District Court, D. Rhode Island"
-  - "District Court, E.D. Arkansas"
-  - "District Court, E.D. Michigan"
-lei: "558600DGUQYRUVIRPA94"
-lei-jurisdiction: "SA"
+  - Court of Appeals for the Eighth Circuit
+  - Court of Appeals for the Third Circuit
+  - District Court, D. Delaware
+  - District Court, D. Maryland
+  - District Court, D. Massachusetts
+  - District Court, D. Minnesota
+  - District Court, D. New Jersey
+  - District Court, D. Rhode Island
+  - District Court, E.D. Arkansas
+  - District Court, E.D. Michigan
+lei: 558600DGUQYRUVIRPA94
+lei-jurisdiction: SA
 cross-vault-triangulation-count: 17
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

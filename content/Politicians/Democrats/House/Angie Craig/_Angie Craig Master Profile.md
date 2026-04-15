@@ -1,33 +1,34 @@
 ---
-title: "Angie Craig"
+title: Angie Craig
 type: politician
-bioguide-id: "C001119"
+bioguide-id: C001119
 content-readiness: ready
-central-thesis: "Craig is the medical device industry's graduate in Congress , a former St. Jude Medical vice president and PAC director who entered politics in the district where the industry is headquartered, then used swing-district survival skills to climb to ..."
-last-updated: 2026-04-13
+central-thesis: Craig is the medical device industry's graduate in Congress , a former St. Jude Medical vice president and PAC director who entered politics in the district where the industry is headquartered, then used swing-district survival skills to climb to ...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "House"
-state: "Minnesota"
-state-abbr: "MN"
+party: Democrat
+chamber: House
+state: Minnesota
+state-abbr: MN
 district: "2"
 committees:
-  - "Agriculture"
+  - Agriculture
 issues:
-  - "Agriculture"
-total-received: "$6,788,377"
-fec-candidate-id: "S6MN00499"
+  - Agriculture
+total-received: $6,788,377
+fec-candidate-id: S6MN00499
 last-enriched: "2026-04-08"
 source-types:
   - DOJ
   - FEC
 corroboration-count: 2
 known-gaps:
-  - "No legislative record from Congress.gov"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No legislative record from Congress.gov
+  - No voting record data
+  - No mapped relationships
 related: "[[_Debbie Stabenow Master Profile|Debbie Stabenow]]"
+top-donors: "[[Center Forward Committee]], [[DMFI PAC]], [[Republican Jewish Coalition]]"
 ---
 
 <!-- auto:data-panel start -->

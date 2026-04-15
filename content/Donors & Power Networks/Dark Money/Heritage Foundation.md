@@ -1,69 +1,66 @@
 ---
-title: "Heritage Foundation"
+title: Heritage Foundation
 type: donor
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Dark Money"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Jim Risch"
-  - "Donna Miller"
-  - "Stephen Miller"
+sector: Dark Money
+entity-type: Individual Donor
+politicians-funded: "[[Jim Risch]], [[Jodey Arrington]], [[Donna Miller]], [[Stephen Miller]]"
 issues:
-  - "Dark Money & Campaign Finance"
+  - Dark Money & Campaign Finance
 ein: "237327730"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-10"
 total-revenue: 147027845
 total-assets: 413819868
 sec-filings: 3784
 sec-form-types:
-  - "10-K"
-  - "10-Q"
+  - 10-K
+  - 10-Q
   - "3"
   - "4"
   - "425"
   - "5"
-  - "6-K"
-  - "8-K"
-  - "CORRESP"
-  - "DEF 14A"
-  - "DEFA14A"
-  - "DEFR14A"
-  - "DFAN14A"
-  - "EX-1"
-  - "EX-10.7"
-  - "EX-2"
-  - "EX-21"
-  - "EX-3"
-  - "EX-4.47"
-  - "EX-99"
-  - "EX-99.1"
-  - "EX-99.4"
-  - "EX-99.6"
-  - "EX-99.C16"
-  - "N-30B-2"
-  - "PREC14A"
-  - "SC 13D"
-  - "SC 13G"
-lei: "5493006YU7R03XUJSX56"
-lei-jurisdiction: "US-DC"
+  - 6-K
+  - 8-K
+  - CORRESP
+  - DEF 14A
+  - DEFA14A
+  - DEFR14A
+  - DFAN14A
+  - EX-1
+  - EX-10.7
+  - EX-2
+  - EX-21
+  - EX-3
+  - EX-4.47
+  - EX-99
+  - EX-99.1
+  - EX-99.4
+  - EX-99.6
+  - EX-99.C16
+  - N-30B-2
+  - PREC14A
+  - SC 13D
+  - SC 13G
+lei: 5493006YU7R03XUJSX56
+lei-jurisdiction: US-DC
 related: "[[American Federation for Children]] · [[Project 2025 - The Blueprint They Followed]] · [[Leonard Leo]] · [[Koch Network - Charles Koch]] · [[Federalist Society]] · [[_Donald Trump Master Profile|Trump]] · [[Three Justices in Four Years - The Leonard Leo Investment and Its Returns|Leo Judicial Pipeline]] · [[DeVos Family]] · [[Bradley Foundation]] · [[National Education Association]] · [[US Chamber of Commerce]] · [[Walton Family Foundation]] · [[Insurance Industry]] · [[Defense Contractors Bloc]] · [[American Iron and Steel Institute]] · [[Defense Industry]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[Defense Industry Bloc]] · [[The 85 Fund]]"
-total-political-spend: "$1,007,158"
+total-political-spend: $1,007,158
 federal-register-mentions: 139
 regulatory-agencies:
-  - "Commodity Futures Trading Commission"
-  - "Education Department"
-  - "Employment and Training Administration"
-  - "Energy Department"
-  - "Executive Office of the President"
-  - "Federal Communications Commission"
-  - "Federal Railroad Administration"
-  - "Federal Trade Commission"
-  - "Homeland Security Department"
-  - "Interior Department"
+  - Commodity Futures Trading Commission
+  - Education Department
+  - Employment and Training Administration
+  - Energy Department
+  - Executive Office of the President
+  - Federal Communications Commission
+  - Federal Railroad Administration
+  - Federal Trade Commission
+  - Homeland Security Department
+  - Interior Department
 lobbying-spend: 1622000
 lobbying-filings: 57
 cross-vault-triangulation-count: 12

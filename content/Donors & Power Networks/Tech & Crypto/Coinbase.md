@@ -1,39 +1,38 @@
 ---
-title: "Coinbase"
+title: Coinbase
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Tech & Crypto"
-entity-type: "Corporation"
-politicians-funded:
-  - "French Hill"
+sector: Tech & Crypto
+entity-type: Corporation
+politicians-funded: "[[French Hill]]"
 issues:
-  - "Technology"
+  - Technology
 court-cases: 3698
 last-enriched: "2026-04-08"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 court-jurisdictions:
-  - "District Court, D. Nevada"
-  - "District Court, D. New Jersey"
-  - "District Court, D. South Carolina"
-  - "District Court, E.D. Michigan"
-  - "District Court, E.D. New York"
-  - "District Court, E.D. Tennessee"
-  - "District Court, E.D. Virginia"
-  - "District Court, M.D. Alabama"
-  - "District Court, M.D. Tennessee"
-  - "District Court, N.D. California"
+  - District Court, D. Nevada
+  - District Court, D. New Jersey
+  - District Court, D. South Carolina
+  - District Court, E.D. Michigan
+  - District Court, E.D. New York
+  - District Court, E.D. Tennessee
+  - District Court, E.D. Virginia
+  - District Court, M.D. Alabama
+  - District Court, M.D. Tennessee
+  - District Court, N.D. California
 subawards-issued: 50
 subawards-issued-amount: 51876611853
 subawards-received: 50
 subawards-received-amount: 51876611853
-top-federal-agency: "Department of Justice"
+top-federal-agency: Department of Justice
 top-naics-code: "523160"
-lei: "549300QHD76EP6ZKTT48"
-lei-jurisdiction: "US-DE"
+lei: 549300QHD76EP6ZKTT48
+lei-jurisdiction: US-DE
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 related: "[[Crypto PAC Regulatory Capture - Fairshake 2026]] · [[Crypto and AIPAC's Georgia Strategy]] · [[Crypto and Tech - Donors and Backers]] · [[The Financial Services Legacy and Crypto Deregulation]] · [[The FIT21 Act and Crypto Industry Capture]] · [[From Senate to K Street - The Revolving Door]] · [[Crypto vs. Institutional Democrats in Illinois]] · [[Cryptocurrency Industry Bloc , Fairshake PAC Network]] · [[Crypto Industry Bloc]] · [[Cryptocurrency Industry]] · [[Fairshake PAC]] · [[Marc Andreessen & Horowitz]] · [[_French Hill Master Profile|French Hill]] · [[FTX - Sam Bankman-Fried]] · [[Paul Atkins Master Profile]] · [[Brian Armstrong]] · [[Winklevoss Twins]] · [[Ross Stevens]]"
@@ -41,9 +40,7 @@ federal-awards-total: 0
 federal-contracts-count: 3
 federal-grants-count: 0
 cross-vault-triangulation-count: 12
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

@@ -1,39 +1,38 @@
 ---
-title: "Susan Collins"
+title: Susan Collins
 type: politician
-bioguide-id: "C001035"
+bioguide-id: C001035
 content-readiness: ready
 central-thesis: "Susan Collins has perfected the most profitable brand in the Senate: the reluctant moderate. Her 'careful deliberation' on every major vote generates maximum fundraising pressure from both sides , and she reliably delivers for the donor class ever..."
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Senate"
-state: "Maine"
-state-abbr: "ME"
-top-donors:
-  - "Blackstone"
+party: Republican
+chamber: Senate
+state: Maine
+state-abbr: ME
+top-donors: "[[WOMEN VOTE!]], [[DSCC]], [[Blackstone Group]], [[American Gaming Association]], [[Tech Industry]], [[NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND]], [[SMP]]"
 stock-trades: 441
 stock-trade-tickers:
-  - "FB"
-  - "RHT"
-  - "AXP"
-  - "DAL"
-  - "CELG"
-  - "CRM"
-  - "MSFT"
-  - "HON"
-  - "SRCL"
-  - "COP"
-total-received: "$10,153,542"
-fec-candidate-id: "S6ME00159"
+  - FB
+  - RHT
+  - AXP
+  - DAL
+  - CELG
+  - CRM
+  - MSFT
+  - HON
+  - SRCL
+  - COP
+total-received: $10,153,542
+fec-candidate-id: S6ME00159
 source-types:
   - Congress
   - FEC
 corroboration-count: 2
 known-gaps:
-  - "No voting record data"
-  - "No mapped relationships"
+  - No voting record data
+  - No mapped relationships
 related: "[[_Mitch McConnell Master Profile]] · [[The McConnell-Leo Judicial Pipeline]] · [[Blackstone]]"
 ---
 

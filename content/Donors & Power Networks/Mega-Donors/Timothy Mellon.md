@@ -1,40 +1,35 @@
 ---
-title: "Timothy Mellon"
+title: Timothy Mellon
 type: donor
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Mega-Donors"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Donald Trump"
-  - "Greg Abbott"
-  - "JD Vance"
+sector: Mega-Donors
+entity-type: Individual Donor
+politicians-funded: "[[Mitch McConnell]], [[Greg Abbott]], [[Donald Trump]], [[JD Vance]]"
 issues:
-  - "Immigration"
+  - Immigration
 lobbying-spend: 1860000
 lobbying-filings: 51
 related: "[[Mitch McConnell Master Profile]] · [[The Insurrection Investment - Who Funded January 6th and What They Got]] · [[The Wall Contractor Money - Who Got Paid to Build What]] · [[Fossil Fuel Deregulation - The Climate Donors]] · [[Operation Lone Star and the Border Militarization Spending Machine]] · [[Timothy Mellon Funds Trump and RFK Jr Simultaneously]] · [[_Donald Trump Master Profile]] · [[_Greg Abbott Master Profile|Greg Abbott]] · [[Immigration Enforcement - The Detention Economy]] · [[Koch Network - Charles Koch]] · [[GEO Group]] · [[CoreCivic]] · [[Miriam Adelson]] · [[Elon Musk]] · [[_JD Vance Master Profile]] · [[Adelson 250M Republican Kingmaker Pledge]] · [[2028 Presidential Landscape]] · [[Senate Leadership Fund]] · [[MAGA Inc]] · [[Congressional Leadership Fund]] · [[Adelson Family]] · [[Trump Donor Coalition]]"
 court-cases: 16
 last-enriched: "2026-04-10"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 court-jurisdictions:
-  - "District Court, C.D. California"
-  - "District Court, D. Connecticut"
-  - "District Court, D. Delaware"
-  - "District Court, D. Maine"
-  - "District Court, D. Wyoming"
-  - "District Court, District of Columbia"
-  - "District Court, S.D. New York"
-  - "District Court, W.D. North Carolina"
-  - "District Court, W.D. Texas"
-  - "United States Bankruptcy Court, D. Nevada"
+  - District Court, C.D. California
+  - District Court, D. Connecticut
+  - District Court, D. Delaware
+  - District Court, D. Maine
+  - District Court, D. Wyoming
+  - District Court, District of Columbia
+  - District Court, S.D. New York
+  - District Court, W.D. North Carolina
+  - District Court, W.D. Texas
+  - United States Bankruptcy Court, D. Nevada
 cross-vault-triangulation-count: 16
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

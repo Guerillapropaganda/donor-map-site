@@ -1,30 +1,31 @@
 ---
-title: "America First Policy Institute"
+title: America First Policy Institute
 type: donor
 content-readiness: draft
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Dark Money"
-entity-type: "Individual Donor"
+sector: Dark Money
+entity-type: Individual Donor
 issues:
-  - "Dark Money & Campaign Finance"
-fara-status: "registrant"
+  - Dark Money & Campaign Finance
+fara-status: registrant
 fara-records: 2
 fara-countries:
-  - "ARMENIA"
+  - ARMENIA
 ein: "854202763"
-annual-revenue: "$27.3M"
-net-assets: "$9.9M"
+annual-revenue: $27.3M
+net-assets: $9.9M
 tax-year: "2023"
 related: "[[Federalist Society]] · [[Linda McMahon Master Profile]] · [[Heritage Foundation]] · [[Council for National Policy]] · [[Leonard Leo]] · [[DeVos Family]] · [[American Federation for Children]] · [[Walton Family Foundation]] · [[National Education Association]] · [[Insurance Industry]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[American Iron and Steel Institute]]"
 known-gaps:
-  - "No FEC contribution data"
-  - "No lobbying disclosure data"
-nonprofit-status: "501(c)(3)"
+  - No FEC contribution data
+  - No lobbying disclosure data
+nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-09"
 total-revenue: 54851367
 total-assets: 25178547
+politicians-funded: "[[Linda McMahon]]"
 ---
 
 <!-- auto:data-panel start -->

@@ -2,15 +2,11 @@
 title: Sherrod Brown
 type: politician
 content-readiness: ready
-central-thesis: >-
-  Brown represents the structural ceiling of labor-backed politics in post-2020
-  America. Despite being the Senate's most pro-labor voting record, highest
-  AFL-CIO rating, strongest defense of trade protections for manufacturing
-  workers, and deepest r...
-last-updated: 2026-04-15
+central-thesis: Brown represents the structural ceiling of labor-backed politics in post-2020 America. Despite being the Senate's most pro-labor voting record, highest AFL-CIO rating, strongest defense of trade protections for manufacturing workers, and deepest r...
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-fec-candidate-id: "S6OH00163"
+fec-candidate-id: S6OH00163
 govtrack-id: 400050
 bills-sponsored: 897
 bills-cosponsored: 7312
@@ -18,32 +14,18 @@ party: Democrat
 chamber: Senate
 state: Ohio
 state-abbr: OH
-donors: >-
-  [[David Sacks]] · [[UAW - United Auto Workers]] · [[California Nurses
-  Association]] · [[American Iron and Steel Institute]] · [[Ohio Democratic
-  Party]] · [[Ken Griffin]] · [[Fraternal Order of Police]] · [[Republican
-  Jewish Coalition]] · [[Lawrence Summers]]
-related: >-
-  [[Crypto Industry Buys Both Parties in One Cycle]] · [[Ohio 2026 Special
-  Senate Election]] · [[Jon Husted Master Profile]] · [[Bob Casey]] ·
-  [[Teamsters - International Brotherhood of Teamsters]] · [[Crypto Industry
-  Bloc]] · [[_JD Vance Master Profile]] · [[Ohio Federation of Teachers]] ·
-  [[Bernie Moreno]] · [[Frank Pallone]] · [[Mark Takano]] · [[Pete Aguilar]] ·
-  [[Debbie Stabenow Master Profile]] · [[Gary Peters Master Profile]] ·
-  [[Barbara Lee]] · [[Maxine Waters]] · [[Eric Swalwell Master Profile]] ·
-  [[Mike Lee]]
-editorial-review-date: '2026-04-08'
+donors: "[[David Sacks]] · [[UAW - United Auto Workers]] · [[California Nurses Association]] · [[American Iron and Steel Institute]] · [[Ohio Democratic Party]] · [[Ken Griffin]] · [[Fraternal Order of Police]] · [[Republican Jewish Coalition]] · [[Lawrence Summers]] · [[Buckeye Values PAC]] · [[Crossroads Grassroots Policy Strategies]] · [[WinSenate]] · [[Conservation Ohio]] · [[AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION]] · [[David Sacks (Donor Network)]] · [[Ruralvote.org]] · [[AMERICAN CROSSROADS]] · [[Senate Leadership Fund]]"
+related: "[[Crypto Industry Buys Both Parties in One Cycle]] · [[Ohio 2026 Special Senate Election]] · [[Jon Husted Master Profile]] · [[Bob Casey]] · [[Teamsters - International Brotherhood of Teamsters]] · [[Crypto Industry Bloc]] · [[_JD Vance Master Profile]] · [[Ohio Federation of Teachers]] · [[Bernie Moreno]] · [[Frank Pallone]] · [[Mark Takano]] · [[Pete Aguilar]] · [[Debbie Stabenow Master Profile]] · [[Gary Peters Master Profile]] · [[Barbara Lee]] · [[Maxine Waters]] · [[Eric Swalwell Master Profile]] · [[Mike Lee]]"
+editorial-review-date: "2026-04-08"
 editorial-reviewer: Research Claude
 editorial-result: block
 editorial-blockers:
-  - 'Bills 0/0 wrong — 18-year senator, needs re-enrichment with correct FEC ID'
+  - Bills 0/0 wrong — 18-year senator, needs re-enrichment with correct FEC ID
   - No source-types computed
   - No last-enriched date
   - No committee data — chaired Senate Banking Committee (needs enrichment)
   - OpenSecrets URL present — must move to Archived per Vault Rules
-  - >-
-    Body has duplicate related:/donors: fields outside frontmatter (cleanup
-    needed)
+  - "Body has duplicate related:/donors: fields outside frontmatter (cleanup needed)"
 verified-blocks:
   - connections
 known-gaps:
@@ -63,36 +45,29 @@ opensanctions-datasets:
   - ru_mfa_sanctions
 needs-reenrichment: true
 reenrich-reason: demote to draft
-internal-notes: >-
-  [JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: •
-  The profile's own known-gaps field says it needs a fresh pipeline run. The
-  needs-reenrichment flag has been set. The next scheduled pipeline run will
-  pick it up automatically.
-total-raised: '$14,356,451'
-total-spent: '$4,456,809'
-cash-on-hand: '9899641.92'
+internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • The profile's own known-gaps field says it needs a fresh pipeline run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+total-raised: $14,356,451
+total-spent: $4,456,809
+cash-on-hand: "9899641.92"
 fec-cycle: 2026
 last-enriched: "2026-04-15"
 bioguide-id: B001313
 issues:
   - Agriculture and Food
   - Armed Forces and National Security
-  - 'Arts, Culture, Religion'
-  - 'Civil Rights and Liberties, Minority Issues'
+  - Arts, Culture, Religion
+  - Civil Rights and Liberties, Minority Issues
   - Congress
   - Crime and Law Enforcement
   - Economics and Public Finance
   - Education
   - Finance and Financial Sector
   - Government Operations and Politics
-total-received: "$14,356,451"
+total-received: $14,356,451
 wikidata-id: Q381880
-wikipedia-url: 'https://en.wikipedia.org/wiki/Sherrod_Brown'
-wikipedia-extract: >-
-  Sherrod Campbell Brown is an American politician who served from 2007 to 2025
-  as a United States senator from Ohio. A member of the Democratic Party, he was
-  the U.S.
-born: '1952-11-09'
+wikipedia-url: https://en.wikipedia.org/wiki/Sherrod_Brown
+wikipedia-extract: Sherrod Campbell Brown is an American politician who served from 2007 to 2025 as a United States senator from Ohio. A member of the Democratic Party, he was the U.S.
+born: "1952-11-09"
 ---
 #sherrod-brown #senate #ohio #labor #populist #class-analysis #2024-defeat
 tags: #democrat

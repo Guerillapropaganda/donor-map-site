@@ -1,40 +1,35 @@
 ---
-title: "ExxonMobil"
+title: ExxonMobil
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Energy & Utilities"
-entity-type: "Corporation"
-politicians-funded:
-  - "Rex Tillerson"
-  - "Donald Trump"
-  - "Joe Manchin"
-  - "Ted Cruz"
-  - "John Barrasso"
+sector: Energy & Utilities
+entity-type: Corporation
+politicians-funded: "[[John Cornyn]], [[John Kennedy]], [[Rex Tillerson]], [[Dan Crenshaw]], [[Donald Trump]], [[Ted Cruz]], [[Joe Manchin]], [[John Barrasso]]"
 issues:
-  - "Energy & Climate"
+  - Energy & Climate
 court-cases: 6535
 last-enriched: "2026-04-09"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 court-jurisdictions:
-  - "Court of Appeals for the Sixth Circuit"
-  - "District Court, C.D. California"
-  - "District Court, D. Guam"
-  - "District Court, D. New Mexico"
-  - "District Court, E.D. Louisiana"
-  - "District Court, M.D. Louisiana"
-  - "District Court, N.D. California"
-  - "District Court, N.D. Texas"
-  - "District Court, S.D. Indiana"
-  - "District Court, S.D. Texas"
+  - Court of Appeals for the Sixth Circuit
+  - District Court, C.D. California
+  - District Court, D. Guam
+  - District Court, D. New Mexico
+  - District Court, E.D. Louisiana
+  - District Court, M.D. Louisiana
+  - District Court, N.D. California
+  - District Court, N.D. Texas
+  - District Court, S.D. Indiana
+  - District Court, S.D. Texas
 ein: "136082357"
-annual-revenue: "$6.0M"
-net-assets: "$108.5M"
+annual-revenue: $6.0M
+net-assets: $108.5M
 tax-year: "2023"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 total-revenue: 4713229
 total-assets: 78357234
 federal-awards-total: 7553962
@@ -44,29 +39,27 @@ subawards-issued: 50
 subawards-issued-amount: 51876611853
 subawards-received: 50
 subawards-received-amount: 51876611853
-top-federal-agency: "Department of Defense"
+top-federal-agency: Department of Defense
 top-naics-code: "324191"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 related: "[[WSPA - Western States Petroleum Association]] · [[Alaska 2026 Senate Race]] · [[ConocoPhillips]] · [[The Performative Populism and Goldman Sachs Marriage]] · [[The Energy Committee and Alaska Oil Dependency]] · [[John Kennedy Master Profile]] · [[Koch Industries]] · [[The Folksy Populist Brand and Petrochemical Reality]] · [[The Judiciary-Finance Dual Pipeline and Texas Defense]] · [[John Barrasso]] · [[The EPA Demolition - Pruitt to Wheeler to Zeldin]] · [[PG&E - Pacific Gas and Electric]] · [[Valero Energy]] · [[Occidental Petroleum]] · [[Marathon Petroleum]] · [[Halliburton]] · [[Environment - Donors and Backers]] · [[Dan Crenshaw Master Profile]] · [[The Energy Committee and Houston Petrochemical Pipeline]] · [[The Science Committee and Texas Petrochemical Pipeline]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Cato Institute]] · [[Fossil Fuel Bloc]] · [[American Petroleum Institute|API]] · [[Chevron]] · [[PG&E]] · [[_Rex Tillerson Master Profile|Rex Tillerson]] · [[_Donald Trump Master Profile|Trump]] · [[_Joe Manchin Master Profile|Manchin]] · [[Carbon Capture & Sequestration Policy]] · [[Methane Regulation]] · [[Energy Transition]] · [[Council on Foreign Relations]] · [[NextEra Energy]] · [[Southern Company]] · [[Duke Energy]] · [[Devon Energy]] · [[Palantir Technologies Political Operation]] · [[Instacart]] · [[Raytheon Technologies]] · [[Uber]] · [[Lyft]] · [[UnitedHealth Group - Optum]] · [[Eli Lilly]] · [[Novo Nordisk]]"
 federal-register-mentions: 563
 regulatory-agencies:
-  - "Antitrust Division"
-  - "Energy Department"
-  - "Environmental Protection Agency"
-  - "Federal Energy Regulatory Commission"
-  - "Federal Trade Commission"
-  - "Fish and Wildlife Service"
-  - "Interior Department"
-  - "Justice Department"
-  - "Ocean Energy Management Bureau"
-  - "Pipeline and Hazardous Materials Safety Administration"
-lei: "549300QUCKLMUO3B0I31"
-lei-jurisdiction: "BE"
+  - Antitrust Division
+  - Energy Department
+  - Environmental Protection Agency
+  - Federal Energy Regulatory Commission
+  - Federal Trade Commission
+  - Fish and Wildlife Service
+  - Interior Department
+  - Justice Department
+  - Ocean Energy Management Bureau
+  - Pipeline and Hazardous Materials Safety Administration
+lei: 549300QUCKLMUO3B0I31
+lei-jurisdiction: BE
 cross-vault-triangulation-count: 31
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

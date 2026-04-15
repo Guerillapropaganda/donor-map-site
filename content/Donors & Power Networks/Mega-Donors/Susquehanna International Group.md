@@ -1,55 +1,52 @@
 ---
-title: "Susquehanna International Group"
+title: Susquehanna International Group
 type: donor
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Mega-Donors"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Donald Trump"
+sector: Mega-Donors
+entity-type: Individual Donor
+politicians-funded: "[[Donald Trump]]"
 issues:
-  - "Technology"
-total-political-spend: "$500"
+  - Technology
+total-political-spend: $500
 federal-register-mentions: 179
 last-enriched: "2026-04-06"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 regulatory-agencies:
-  - "Securities and Exchange Commission"
+  - Securities and Exchange Commission
 related: "[[The Ohio Governor Race and the Billionaire Super PAC]] · [[Jeff Yass Follows TikTok Money Across Every Candidate]] · [[Club for Growth]] · [[Fairshake PAC - Crypto Super PAC]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch|Koch Network]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Jeffrey Yass]]"
-lei: "549300UHLZVQ1CWNT812"
-lei-jurisdiction: "US-DE"
+lei: 549300UHLZVQ1CWNT812
+lei-jurisdiction: US-DE
 sec-filings: 2228
 sec-form-types:
-  - "13F-HR"
-  - "13F-HR/A"
-  - "13F-NT"
-  - "13F-NT/A"
+  - 13F-HR
+  - 13F-HR/A
+  - 13F-NT
+  - 13F-NT/A
   - "4"
-  - "8-K"
-  - "ARS"
-  - "DEF 14A"
-  - "DEFA14A"
-  - "EX-99.1"
-  - "EX-99.8"
-  - "N-CEN"
-  - "N-PX"
-  - "NPORT-EX"
-  - "NPORT-P"
-  - "NPORT-P/A"
-  - "SC 13G"
-  - "SC 13G/A"
-  - "SCHEDULE 13G/A"
-fara-status: "registrant"
+  - 8-K
+  - ARS
+  - DEF 14A
+  - DEFA14A
+  - EX-99.1
+  - EX-99.8
+  - N-CEN
+  - N-PX
+  - NPORT-EX
+  - NPORT-P
+  - NPORT-P/A
+  - SC 13G
+  - SC 13G/A
+  - SCHEDULE 13G/A
+fara-status: registrant
 fara-records: 2
 fara-countries:
-  - "DOMINICAN REPUBLIC"
+  - DOMINICAN REPUBLIC
 cross-vault-triangulation-count: 7
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

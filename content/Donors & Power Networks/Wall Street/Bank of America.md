@@ -1,44 +1,42 @@
 ---
-title: "Bank of America"
+title: Bank of America
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Wall Street"
-entity-type: "Corporation"
-politicians-funded:
-  - "French Hill"
-  - "Tim Scott"
+sector: Wall Street
+entity-type: Corporation
+politicians-funded: "[[Tim Scott]], [[French Hill]]"
 issues:
-  - "Wall Street & Finance"
+  - Wall Street & Finance
 ein: "200721133"
-annual-revenue: "$220.2M"
-net-assets: "$7.6M"
+annual-revenue: $220.2M
+net-assets: $7.6M
 tax-year: "2023"
 federal-register-mentions: 828
 last-enriched: "2026-04-10"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 regulatory-agencies:
-  - "Commodity Futures Trading Commission"
-  - "Comptroller of the Currency"
-  - "Consumer Financial Protection Bureau"
-  - "Federal Communications Commission"
-  - "Federal Deposit Insurance Corporation"
-  - "Federal Housing Finance Agency"
-  - "Federal Reserve System"
-  - "Housing and Urban Development Department"
-  - "Justice Department"
-  - "Securities and Exchange Commission"
+  - Commodity Futures Trading Commission
+  - Comptroller of the Currency
+  - Consumer Financial Protection Bureau
+  - Federal Communications Commission
+  - Federal Deposit Insurance Corporation
+  - Federal Housing Finance Agency
+  - Federal Reserve System
+  - Housing and Urban Development Department
+  - Justice Department
+  - Securities and Exchange Commission
 related: "[[The Wall Street Senator - Finance Industry Alignment]] · [[The Intellectual Property and Banking Donor Pipeline]] · [[The Delaware Corporate Senator - Biden's Legislative Lieutenant]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Citigroup]] · [[_French Hill Master Profile|French Hill]] · [[_Tim Scott Master Profile|Tim Scott]] · [[Wells Fargo]] · [[Morgan Stanley]]"
 subawards-issued: 9
 subawards-issued-amount: 912260
 subawards-received: 9
 subawards-received-amount: 912260
-top-federal-agency: "Department of Defense"
+top-federal-agency: Department of Defense
 top-naics-code: "522110"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 total-revenue: 218843611
 total-assets: 10062101
 federal-awards-total: 180306
@@ -46,16 +44,16 @@ federal-contracts-count: 4
 federal-grants-count: 3
 sec-filings: 10000
 sec-form-types:
-  - "424B2"
-  - "EX-10"
-  - "EX-99"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "EX-99.3 OTHER FIN ST"
-  - "EX-99.4 ACQ AGREEMNT"
-  - "FWP"
-  - "N-Q"
-  - "NPORT-P"
+  - 424B2
+  - EX-10
+  - EX-99
+  - EX-99.1
+  - EX-99.2
+  - EX-99.3 OTHER FIN ST
+  - EX-99.4 ACQ AGREEMNT
+  - FWP
+  - N-Q
+  - NPORT-P
 occ-enforcement-actions: 115
 occ-active-actions: 95
 occ-charter-numbers:
@@ -70,9 +68,7 @@ occ-charter-numbers:
   - "21944"
 occ-cmp-dollars: 491299530
 cross-vault-triangulation-count: 10
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

@@ -1,29 +1,24 @@
 ---
-title: "Amy Acton"
+title: Amy Acton
 type: politician
 content-readiness: ready
 central-thesis: "Amy Acton represents a structurally different Democratic funding model: a genuinely grassroots-financed campaign ($5.3 million raised, 96% of contributions under content-readiness: ready00, $28 average donation, 52,000 individual donors) backed by institutional labor u..."
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "Governor"
-state: "Ohio"
-state-abbr: "OH"
-top-donors:
-  - "Ohio Democratic Party"
-  - "Ohio Federation of Teachers"
-  - "UAW"
-  - "AFGE"
-  - "Ohio AFL-CIO"
+party: Democrat
+chamber: Governor
+state: Ohio
+state-abbr: OH
+top-donors: "[[Ohio Federation of Teachers]], [[Ohio AFL-CIO]], [[Ohio Democratic Party]]"
 source-types:
   - Congress
   - DOJ
 corroboration-count: 2
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 related: "[[_Vivek Ramaswamy Master Profile|Vivek Ramaswamy]] · [[Ohio Democratic Party]] · [[EMILY's List]] · [[UAW - United Auto Workers|UAW]] · [[AFGE - American Federation of Government Employees|AFGE]] · [[Ohio AFL-CIO]] · [[Ohio Federation of Teachers]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[_Amy Acton Master Profile]] · [[Ohio 2026 - The Donor Pipeline Comparison - Acton vs Ramaswamy]] · [[The COVID Tenure and the Political Fallout]] · [[The Healthcare Platform and the Insurance Industry Question]] · [[The Labor Coalition and What Unions Expect]]"
 ---
 

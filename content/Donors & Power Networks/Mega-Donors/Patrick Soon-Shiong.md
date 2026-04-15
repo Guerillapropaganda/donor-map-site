@@ -1,20 +1,14 @@
 ---
-title: "Patrick Soon-Shiong"
+title: Patrick Soon-Shiong
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-09T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Mega-Donors"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Cathy McMorris Rodgers"
-  - "Mike Johnson"
-  - "Ron Johnson"
-  - "Lindsey Graham"
-  - "Kevin McCarthy"
-  - "John McCain"
-total-political-spend: "$735,621"
+sector: Mega-Donors
+entity-type: Individual Donor
+politicians-funded: "[[Ron Johnson]], [[Cathy McMorris Rodgers]], [[John McCain]], [[Mike Johnson]], [[Kevin McCarthy]], [[Lindsey Graham]]"
+total-political-spend: $735,621
 last-enriched: "2026-04-09"
 related: "[[Media and Propaganda - Donors and Backers]] · [[Ron Johnson]] · [[John McCain]] · [[_Donald Trump Master Profile|Trump]] · [[_Kamala Harris Master Profile|Kamala Harris]] · [[Entertainment and Hollywood Donors]] · [[Media & Influence Pipeline]]"
 lobbying-spend: 0

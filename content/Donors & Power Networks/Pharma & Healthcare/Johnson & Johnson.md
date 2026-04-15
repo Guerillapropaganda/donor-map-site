@@ -1,36 +1,36 @@
 ---
-title: "Johnson & Johnson"
+title: Johnson & Johnson
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Pharma & Healthcare"
-entity-type: "Corporation"
+sector: Pharma & Healthcare
+entity-type: Corporation
 issues:
-  - "Healthcare"
+  - Healthcare
 ein: "760552018"
-annual-revenue: "$477K"
-net-assets: "$1.3M"
+annual-revenue: $477K
+net-assets: $1.3M
 tax-year: "2023"
 ofac-sdn-match: "true"
 last-enriched: "2026-04-15"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 ofac-programs:
-  - "GLOMAG"
+  - GLOMAG
 subawards-issued: 2
 subawards-issued-amount: 4948
 subawards-received: 2
 subawards-received-amount: 4948
-top-federal-agency: "Department of Defense"
+top-federal-agency: Department of Defense
 top-naics-code: "423450"
 federal-awards-total: 41140658
 federal-contracts-count: 25
 federal-grants-count: 1
 cpsc-recalls: 3
 related: "[[Moderna]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[AbbVie]] · [[Merck]] · [[Eli Lilly]] · [[The Pharma Money and Newark Poverty Paradox]] · [[Cornerstone Government Affairs]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Cigna Group]] · [[CVS Health - Aetna]] · [[Blue Cross Blue Shield Association]] · [[Cory Booker]] · [[PhRMA]] · [[Pfizer]] · [[UnitedHealth Group - Optum]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]] · [[Gilead Sciences]] · [[Centene Corporation]] · [[Palantir Technologies]] · [[Tenet Healthcare]] · [[Kaiser Permanente]] · [[Humana]] · [[Hospital Corporation of America - HCA]] · [[Civica Rx]] · [[Anthem - Elevance Health Political Operation]]"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 total-revenue: 359319
 total-assets: 1224754
 nhtsa-recalls: 0
@@ -38,11 +38,10 @@ nhtsa-complaints: 0
 ftc-enforcement-actions: 6
 ftc-hsr-notices: 50
 cross-vault-triangulation-count: 17
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 fda-recalls: 110
 fda-recalls-class-i: 2
+politicians-funded: "[[Cory Booker]]"
 ---
 
 <!-- auto:data-panel start -->

@@ -1,35 +1,35 @@
 ---
-title: "John Boehner"
+title: John Boehner
 type: politician
 content-readiness: ready
-central-thesis: "John Boehner exemplifies the professional legislative operative deployed by the donor class to manage Congress. His public brand is 'regular guy conservative' — orange tan, golf outings, emotional authenticity (crying at press conferences). This b..."
-last-updated: 2026-04-13
+central-thesis: John Boehner exemplifies the professional legislative operative deployed by the donor class to manage Congress. His public brand is 'regular guy conservative' — orange tan, golf outings, emotional authenticity (crying at press conferences). This b...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "House"
+party: Republican
+chamber: House
 district: "8"
 committees:
-  - "Finance"
+  - Finance
 top-donors:
-  - "Tobacco Industry/Reynolds American"
-  - "Altria - Philip Morris"
-  - "Koch Network"
-  - "Goldman Sachs"
-  - "JPMorgan Chase"
-  - "Real Estate/Commercial Property"
-fec-candidate-id: "H0OH08029"
+  - Tobacco Industry/Reynolds American
+  - Altria - Philip Morris
+  - Koch Network
+  - Goldman Sachs
+  - JPMorgan Chase
+  - Real Estate/Commercial Property
+fec-candidate-id: H0OH08029
 source-types:
   - Congress
   - FEC
 corroboration-count: 2
 known-gaps:
-  - "No voting record data"
-  - "No mapped relationships"
-donors: "[[Mark Zuckerberg]] · [[Koch network]] · [[Christopher Ruddy]] · [[California Farm Bureau Federation]]"
+  - No voting record data
+  - No mapped relationships
+donors: "[[Mark Zuckerberg]] · [[Koch network]] · [[Christopher Ruddy]] · [[California Farm Bureau Federation]] · [[MOVEON.ORG POLITICAL ACTION]] · [[JPMorgan Chase]] · [[Goldman Sachs]] · [[Koch Network]]"
 related: "[[JPMorgan Chase]] · [[Koch network]] · [[Koch Network - Charles Koch|Koch Network]] · [[Paul Ryan]] · [[Donald Trump]] · [[Tobacco Industry]] · [[Cannabis Legalization Movement]] · [[Reynolds American]] · [[Altria]]"
 last-enriched: "2026-04-10"
-bioguide-id: "B000589"
+bioguide-id: B000589
 govtrack-id: 400036
 bills-sponsored: 130
 bills-cosponsored: 1725

@@ -1,35 +1,34 @@
 ---
-title: "Robert Mercer"
+title: Robert Mercer
 type: donor
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Mega-Donors"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Donald Trump"
+sector: Mega-Donors
+entity-type: Individual Donor
+politicians-funded: "[[Ted Cruz]], [[Donald Trump]], [[Steve Bannon]]"
 issues:
-  - "Dark Money & Campaign Finance"
+  - Dark Money & Campaign Finance
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
 last-enriched: "2026-04-11"
 related: "[[The Supermajority Rulings and the Donor-Class Returns]] · [[Steve Bannon Master Profile]] · [[The Mercer Investment and the Construction of Populist Infrastructure]] · [[The Goldman-to-Fraud Pipeline and the Conviction Record]] · [[The Project 2025 Pipeline and the Center for Renewing America]] · [[The 2024 Race - Most Expensive Senate Campaign in History]] · [[Rebekah Mercer]] · [[_Donald Trump Master Profile]] · [[_Ted Cruz Master Profile]] · [[Koch Network - Charles Koch]] · [[Leonard Leo]] · [[Renaissance Technologies and the 7 Billion Dollar Tax Settlement]] · [[Cambridge Analytica and the Data Weaponization of Elections]] · [[Breitbart News and the Mercer-Bannon Media Pipeline]]"
-lei: "213800EIIUUJGZ8VRD59"
-lei-jurisdiction: "GB"
-total-political-spend: "$2,042,848"
+lei: 213800EIIUUJGZ8VRD59
+lei-jurisdiction: GB
+total-political-spend: $2,042,848
 court-cases: 175
 court-jurisdictions:
-  - "District Court, D. New Jersey"
-  - "District Court, D. South Carolina"
-  - "District Court, District of Columbia"
-  - "District Court, E.D. Virginia"
-  - "District Court, N.D. California"
-  - "District Court, N.D. Ohio"
-  - "District Court, S.D. New York"
-  - "District Court, S.D. Ohio"
-  - "District Court, W.D. Oklahoma"
-  - "United States Bankruptcy Court, E.D. Michigan"
+  - District Court, D. New Jersey
+  - District Court, D. South Carolina
+  - District Court, District of Columbia
+  - District Court, E.D. Virginia
+  - District Court, N.D. California
+  - District Court, N.D. Ohio
+  - District Court, S.D. New York
+  - District Court, S.D. Ohio
+  - District Court, W.D. Oklahoma
+  - United States Bankruptcy Court, E.D. Michigan
 cross-vault-triangulation-count: 12
 audit-a-plus-passed: "2026-04-11"
 ---

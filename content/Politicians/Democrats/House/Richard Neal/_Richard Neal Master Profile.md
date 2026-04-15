@@ -1,39 +1,36 @@
 ---
-title: "Richard Neal"
+title: Richard Neal
 type: politician
 content-readiness: ready
-central-thesis: "Richard Neal's congressional career is the institutional mechanism by which the insurance and pharmaceutical industries prevented American healthcare reform for 35 years. His job was never to pass legislation advancing working-class healthcare int..."
-last-updated: 2026-04-13
+central-thesis: Richard Neal's congressional career is the institutional mechanism by which the insurance and pharmaceutical industries prevented American healthcare reform for 35 years. His job was never to pass legislation advancing working-class healthcare int...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "House"
-state: "Massachusetts"
-state-abbr: "MA"
+party: Democrat
+chamber: House
+state: Massachusetts
+state-abbr: MA
 district: "1"
 committees:
-  - "Ways & Means"
+  - Ways & Means
 issues:
-  - "Healthcare"
-top-donors:
-  - "MassMutual"
-  - "Fidelity Investments"
-  - "Blue Cross Blue Shield"
-total-received: "$1,411,406"
-fec-candidate-id: "H8MA02041"
-bioguide-id: "N000015"
+  - Healthcare
+top-donors: "[[Fidelity Investments]], [[Ohio Democratic Party]], [[NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE]], [[MassMutual]], [[JUSTICE DEMOCRATS PAC]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[AFSCME - American Federation of State County and Municipal Employees]]"
+total-received: $1,411,406
+fec-candidate-id: H8MA02041
+bioguide-id: N000015
 govtrack-id: 400291
 bills-sponsored: 3
 bills-cosponsored: 108
-website: "https://neal.house.gov"
-phone: "202-225-5601"
+website: https://neal.house.gov
+phone: 202-225-5601
 source-types:
   - FEC
   - GovTrack
 corroboration-count: 2
 known-gaps:
-  - "No legislative record from Congress.gov"
-  - "No mapped relationships"
+  - No legislative record from Congress.gov
+  - No mapped relationships
 related: "[[_Nancy Pelosi Master Profile]] · [[_Chuck Schumer Master Profile]] · [[_Elizabeth Warren Master Profile]] · [[MassMutual]] · [[Fidelity Investments]] · [[Blue Cross Blue Shield Association|Blue Cross Blue Shield]]"
 ---
 

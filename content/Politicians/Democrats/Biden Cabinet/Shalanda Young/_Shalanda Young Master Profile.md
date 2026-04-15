@@ -1,16 +1,17 @@
 ---
-title: "Shalanda Young"
+title: Shalanda Young
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "OMB Director"
+party: Democrat
+chamber: OMB Director
 known-gaps:
-  - "No mapped relationships"
-  - "No donor network analysis"
+  - No mapped relationships
+  - No donor network analysis
 source-types:
   - Congress
+top-donors: "[[California Farm Bureau Federation]]"
 ---
 
 

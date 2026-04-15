@@ -1,41 +1,40 @@
 ---
-title: "American Action Network"
+title: American Action Network
 type: donor
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Dark Money"
-entity-type: "Individual Donor"
+sector: Dark Money
+entity-type: Individual Donor
 issues:
-  - "Dark Money & Campaign Finance"
-  - "Healthcare"
-  - "Tax Policy"
+  - Dark Money & Campaign Finance
+  - Healthcare
+  - Tax Policy
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
 ein: "270730508"
-annual-revenue: "$46.2M"
-net-assets: "$16.3M"
+annual-revenue: $46.2M
+net-assets: $16.3M
 tax-year: "2023"
 court-cases: 56
 last-enriched: "2026-04-09"
 court-jurisdictions:
-  - "Court of Appeals for the D.C. Circuit"
-  - "District Court, District of Columbia"
-  - "District Court, E.D. Texas"
-  - "District Court, M.D. North Carolina"
-  - "District Court, N.D. Illinois"
-  - "District Court, S.D. New York"
-  - "United States Bankruptcy Court, D. Delaware"
-nonprofit-status: "501(c)(4)"
+  - Court of Appeals for the D.C. Circuit
+  - District Court, District of Columbia
+  - District Court, E.D. Texas
+  - District Court, M.D. North Carolina
+  - District Court, N.D. Illinois
+  - District Court, S.D. New York
+  - United States Bankruptcy Court, D. Delaware
+nonprofit-status: 501(c)(4)
 total-revenue: 74081200
 total-assets: 35265577
-fara-status: "registrant"
+fara-status: registrant
 fara-records: 1
 related: "[[National Association of Manufacturers]] · [[Congressional Leadership Fund]] · [[Heritage Foundation]] · [[US Chamber of Commerce]] · [[Republican Party Apparatus]] · [[PhRMA]] · [[One Nation]] · [[ALEC - American Legislative Exchange Council]] · [[Business Roundtable]] · [[American Petroleum Institute]] · [[Insurance Industry]] · [[DeVos Family]] · [[National Education Association]] · [[Walton Family Foundation]] · [[American Federation for Children]] · [[Petrochemical Industry Bloc]] · [[Western States Petroleum Association]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[Defense Contractors]] · [[Defense Contractors Bloc]]"
-total-political-spend: "$176,798,895"
-politicians-funded:
-  - "Gary Peters"
+total-political-spend: $176,798,895
+politicians-funded: "[[Gary Peters]]"
 cross-vault-triangulation-count: 12
 audit-a-plus-passed: "2026-04-11"
 ---

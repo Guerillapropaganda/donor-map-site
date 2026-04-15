@@ -1,46 +1,38 @@
 ---
-title: "Blue Shield of California"
+title: Blue Shield of California
 type: donor
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Healthcare"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Nancy Pelosi"
-  - "Bobby Scott"
-  - "Rick Scott"
-  - "Tim Scott"
-  - "Gary Peters"
-  - "Bennie Thompson"
-  - "Glenn Thompson"
-  - "Pete Aguilar"
-total-political-spend: "$1,646,997"
+sector: Healthcare
+entity-type: Individual Donor
+politicians-funded: "[[Nancy Pelosi]], [[Tim Scott]], [[Gary Peters]], [[Glenn Thompson]], [[Bobby Scott]], [[Bennie Thompson]], [[Kamala Harris]], [[Rick Scott]], [[Pete Aguilar]], [[Gavin Newsom]]"
+total-political-spend: $1,646,997
 ein: 942822302
-annual-revenue: "$21.9M"
-net-assets: "$77.4M"
+annual-revenue: $21.9M
+net-assets: $77.4M
 tax-year: "2023"
 federal-register-mentions: 4
 last-enriched: "2026-04-10"
 regulatory-agencies:
-  - "Antitrust Division"
-  - "Employment and Training Administration"
-  - "Federal Trade Commission"
-  - "Health Care Finance Administration"
-  - "Health and Human Services Department"
-  - "Justice Department"
-  - "Labor Department"
+  - Antitrust Division
+  - Employment and Training Administration
+  - Federal Trade Commission
+  - Health Care Finance Administration
+  - Health and Human Services Department
+  - Justice Department
+  - Labor Department
 lobbying-spend: 3803687
 lobbying-filings: 110
 court-cases: 1615
 court-jurisdictions:
-  - "District Court, C.D. California"
-  - "District Court, N.D. Alabama"
-  - "District Court, N.D. California"
-  - "District Court, N.D. Illinois"
-  - "District Court, S.D. California"
-  - "United States Bankruptcy Court, C.D. California"
+  - District Court, C.D. California
+  - District Court, N.D. Alabama
+  - District Court, N.D. California
+  - District Court, N.D. Illinois
+  - District Court, S.D. California
+  - United States Bankruptcy Court, C.D. California
 related: "[[Anthem - Elevance Health]] · [[Medicare for All - The Policy That Broke the Party]] · [[Glenn Thompson]] · [[Tim Scott]] · [[Kamala Harris Master Profile]] · [[Pete Aguilar]] · [[Nancy Pelosi Master Profile]] · [[Legislative Record as Speaker]] · [[Buffy Wicks]] · [[Bobby Scott]] · [[Bennie Thompson]] · [[Haim Saban]] · [[American Gaming Association]] · [[Anthony Rendon]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Mental Health CARE Court and Forced Treatment]] · [[Healthcare - Donors and Backers]] · [[Economic Policy - Donors and Backers]] · [[Bernie Sanders Master Profile]] · [[_Gavin Newsom Master Profile]] · [[Single-Payer Broken Promise]] · [[COVID No-Bid Contracts - Blue Shield and UnitedHealth]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[CNA - California Nurses Association]] · [[Kaiser Permanente]] · [[JCRC Bay Area]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[J Street]] · [[Christians United for Israel]] · [[American Friends of the Likud]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Mohammed bin Salman]] · [[United Arab Emirates - Influence Operation]] · [[Saudi Arabia - Kingdom Investment]] · [[Turkey - Erdogan Lobbying Operation]] · [[Israel - Government Lobbying Operation]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]]"
 cross-vault-triangulation-count: 27
 audit-a-plus-passed: "2026-04-11"

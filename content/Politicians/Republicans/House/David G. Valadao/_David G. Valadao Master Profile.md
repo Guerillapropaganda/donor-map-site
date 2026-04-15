@@ -1,27 +1,28 @@
 ---
-title: "David G. Valadao"
+title: David G. Valadao
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
-party: "Republican"
-chamber: "House"
-state: "California"
-state-abbr: "CA"
+party: Republican
+chamber: House
+state: California
+state-abbr: CA
 district: "22"
-bioguide-id: "V000129"
+bioguide-id: V000129
 govtrack-id: 412515
 born: "1977-04-14"
-wikidata-id: "Q3528567"
-website: "https://valadao.house.gov"
-phone: "202-225-4695"
+wikidata-id: Q3528567
+website: https://valadao.house.gov
+phone: 202-225-4695
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record"
-  - "No voting record"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record
+  - No voting record
+  - No mapped relationships
+top-donors: "[[National Cattlemen's Beef Association]]"
 ---
 
 

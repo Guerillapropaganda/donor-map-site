@@ -1,26 +1,25 @@
 ---
-title: "Tony Thurmond"
+title: Tony Thurmond
 type: politician
 content-readiness: draft
-central-thesis: "Tony Thurmond is the education establishment candidate , his superintendent tenure represents the interests of California Teachers Association (CTA) and public education institutional networks, in direct conflict with the charter school billionair..."
-last-updated: 2026-03-23
+central-thesis: Tony Thurmond is the education establishment candidate , his superintendent tenure represents the interests of California Teachers Association (CTA) and public education institutional networks, in direct conflict with the charter school billionair...
+last-updated: 2026-03-23T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "Governor"
-state: "California"
-state-abbr: "CA"
+party: Democrat
+chamber: Governor
+state: California
+state-abbr: CA
 committees:
-  - "Education & Labor"
+  - Education & Labor
 issues:
-  - "Education"
-top-donors:
-  - "CTA - California Teachers Association"
+  - Education
+top-donors: "[[CTA - California Teachers Association]]"
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record from Congress.gov"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record from Congress.gov
+  - No voting record data
+  - No mapped relationships
 related: "[[CTA - California Teachers Association]] · [[Charter Schools and the Billionaire Reform Movement]] · [[_Gavin Newsom Master Profile]]"
 ---
 

@@ -1,27 +1,24 @@
 ---
-title: "California Building and Construction Trades Council"
+title: California Building and Construction Trades Council
 type: donor
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Labor Unions"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Gavin Newsom"
+sector: Labor Unions
+entity-type: Individual Donor
+politicians-funded: "[[Gavin Newsom]], [[Antonio Villaraigosa]]"
 issues:
-  - "Labor & Workers"
-  - "Infrastructure"
+  - Labor & Workers
+  - Infrastructure
 lobbying-spend: 10479974
 lobbying-filings: 106
 related: "[[Antonio Villaraigosa Master Profile]] · [[The Real Estate Mayor and the 2026 Donor Coalition]] · [[VP Labor Record - What Unions Got and Didn't Get]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[IBEW California State Association]] · [[IBEW Local 477 - San Bernardino]] · [[IBEW Local 440 - Riverside]] · [[_Gavin Newsom Master Profile]] · [[California Labor Federation]] · [[Koch Network - Charles Koch]] · [[DOGE - The Billionaires Government]] · [[Newsom 2028 - The Donor Class Presidential Campaign]]"
 last-enriched: "2026-04-09"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 cross-vault-triangulation-count: 12
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->
