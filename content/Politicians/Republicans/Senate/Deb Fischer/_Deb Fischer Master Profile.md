@@ -1,39 +1,37 @@
 ---
-title: "Deb Fischer"
+title: Deb Fischer
 type: politician
 content-readiness: ready
 central-thesis: "Deb Fischer chairs the subcommittee that oversees the content-readiness: ready41 billion Sentinel ICBM replacement program — built by Northrop Grumman — while STRATCOM headquarters sits in her state. She secured over $4 billion in Sentinel funding in the FY2026 NDAA al..."
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Senate"
-state: "Nebraska"
-state-abbr: "NE"
+party: Republican
+chamber: Senate
+state: Nebraska
+state-abbr: NE
 committees:
-  - "Armed Services"
-  - "Agriculture"
+  - Armed Services
+  - Agriculture
 issues:
-  - "Government Operations and Politics"
-  - "Public Lands and Natural Resources"
+  - Government Operations and Politics
+  - Public Lands and Natural Resources
 top-donors:
-  - "AIPAC"
+  - AIPAC
 govtrack-id: 412556
 bills-sponsored: 30
 bills-cosponsored: 154
-website: "https://www.fischer.senate.gov"
-phone: "202-224-6551"
-total-received: "$572,417"
-fec-candidate-id: "S2NE00094"
-donors: "[[Insurance Industry]]"
+website: https://www.fischer.senate.gov
+phone: 202-224-6551
+total-received: $572,417
+fec-candidate-id: S2NE00094
+donors: "[[Insurance Industry]], [[ESAFUND]], [[Retire Career Politicians]], [[ENDING SPENDING ACTION FUND]]"
 related: "[[Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides]] · [[_Donald Trump Master Profile|Trump]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
 last-enriched: "2026-04-10"
 needs-reenrichment: true
-reenrich-reason: "re-run congress pipeline"
-bioguide-id: "F000463"
-internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
-  • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: re-run congress pipeline
+bioguide-id: F000463
+internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

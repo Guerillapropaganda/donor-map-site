@@ -1,26 +1,23 @@
 ---
-title: "IBEW Local 477 - San Bernardino"
+title: IBEW Local 477 - San Bernardino
 type: donor
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Labor Unions"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Chad Bianco"
+sector: Labor Unions
+entity-type: Individual Donor
+politicians-funded: "[[Chad Bianco]]"
 related: "[[UFCW - United Food and Commercial Workers]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[IBEW California State Association]] · [[IBEW Local 440 - Riverside]] · [[California Building and Construction Trades Council]] · [[_Chad Bianco Master Profile]] · [[Riverside Sheriffs Association]] · [[Teamsters - International Brotherhood of Teamsters]]"
 ein: "812607816"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-08"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 total-revenue: 204827
 total-assets: 89679
 cross-vault-triangulation-count: 8
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

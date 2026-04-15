@@ -1,26 +1,24 @@
 ---
-title: "Amy Coney Barrett"
+title: Amy Coney Barrett
 type: politician
 content-readiness: draft
-central-thesis: "Amy Coney Barrett's confirmation is the culmination of a 30-year project to capture the Supreme Court through dark money. Leonard Leo built the Federalist Society pipeline that selected every conservative justice since Roberts. The $22 million JCN..."
-last-updated: 2026-04-08
+central-thesis: Amy Coney Barrett's confirmation is the culmination of a 30-year project to capture the Supreme Court through dark money. Leonard Leo built the Federalist Society pipeline that selected every conservative justice since Roberts. The $22 million JCN...
+last-updated: 2026-04-08T00:00:00.000Z
 source-tier: 1
 parent: null
-chamber: "SCOTUS"
+chamber: SCOTUS
 issues:
-  - "Dark Money & Campaign Finance"
-  - "Reproductive Rights"
-top-donors:
-  - "Leonard Leo"
-  - "Judicial Crisis Network"
+  - Dark Money & Campaign Finance
+  - Reproductive Rights
+top-donors: "[[Leonard Leo]], [[Judicial Crisis Network]]"
 last-enriched: "2026-04-08"
 source-types:
   - DOJ
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record from Congress.gov"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record from Congress.gov
+  - No voting record data
+  - No mapped relationships
 related: "[[_Brett Kavanaugh Master Profile]] · [[_Samuel Alito Master Profile]] · [[_Clarence Thomas Master Profile]] · [[Leonard Leo]] · [[_Mitch McConnell Master Profile]]"
 ---
 

@@ -1,39 +1,37 @@
 ---
-title: "Jim Risch"
+title: Jim Risch
 type: politician
 content-readiness: draft
-central-thesis: "Jim Risch chairs the committee that oversees arms sales, foreign aid, and international diplomacy — and his top donors include General Atomics (a major defense contractor and nuclear technology company), defense industry PACs, and pro-Israel organ..."
-last-updated: 2026-04-10
+central-thesis: Jim Risch chairs the committee that oversees arms sales, foreign aid, and international diplomacy — and his top donors include General Atomics (a major defense contractor and nuclear technology company), defense industry PACs, and pro-Israel organ...
+last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Senate"
-state: "Idaho"
-state-abbr: "ID"
+party: Republican
+chamber: Senate
+state: Idaho
+state-abbr: ID
 committees:
-  - "Foreign Relations"
+  - Foreign Relations
 issues:
-  - "Agriculture and Food"
-  - "Armed Forces and National Security"
-  - "Crime and Law Enforcement"
-  - "Education"
-  - "Energy"
-  - "Government Operations and Politics"
-  - "Health"
-  - "Housing and Community Development"
-  - "International Affairs"
-  - "Law"
+  - Agriculture and Food
+  - Armed Forces and National Security
+  - Crime and Law Enforcement
+  - Education
+  - Energy
+  - Government Operations and Politics
+  - Health
+  - Housing and Community Development
+  - International Affairs
+  - Law
 top-donors:
-  - "AIPAC"
+  - AIPAC
 related: "[[Idaho 2026 Senate Race]] · [[_Donald Trump Master Profile|Trump]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
-donors: "[[NORPAC]] · [[Heritage Foundation]]"
+donors: "[[NORPAC]] · [[Heritage Foundation]] · [[AIPAC - American Israel Public Affairs Committee]]"
 last-enriched: "2026-04-10"
 needs-reenrichment: true
-reenrich-reason: "re-run congress pipeline"
-bioguide-id: "R000584"
-internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
-  • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: re-run congress pipeline
+bioguide-id: R000584
+internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

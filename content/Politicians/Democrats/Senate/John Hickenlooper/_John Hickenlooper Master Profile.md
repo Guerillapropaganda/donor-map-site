@@ -1,33 +1,33 @@
 ---
-title: "John Hickenlooper"
+title: John Hickenlooper
 type: politician
 content-readiness: ready
-central-thesis: "Hickenlooper is the fossil fuel industry's preferred kind of Democrat , one who speaks the language of environmental concern while protecting the industry's operating space. As Colorado governor, he was the state's top recipient of oil and gas cam..."
-last-updated: 2026-04-13
+central-thesis: Hickenlooper is the fossil fuel industry's preferred kind of Democrat , one who speaks the language of environmental concern while protecting the industry's operating space. As Colorado governor, he was the state's top recipient of oil and gas cam...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "Senate"
-state: "Colorado"
-state-abbr: "CO"
+party: Democrat
+chamber: Senate
+state: Colorado
+state-abbr: CO
 issues:
-  - "Agriculture and Food"
-  - "Armed Forces and National Security"
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Crime and Law Enforcement"
-  - "Education"
-  - "Energy"
-  - "Environmental Protection"
-  - "Finance and Financial Sector"
-  - "Foreign Trade and International Finance"
-  - "Government Operations and Politics"
+  - Agriculture and Food
+  - Armed Forces and National Security
+  - Civil Rights and Liberties, Minority Issues
+  - Crime and Law Enforcement
+  - Education
+  - Energy
+  - Environmental Protection
+  - Finance and Financial Sector
+  - Foreign Trade and International Finance
+  - Government Operations and Politics
 top-donors:
-  - "Fossil Fuel Bloc"
-  - "American Petroleum Institute"
-  - "Brownstein Hyatt Farber Schreck"
-total-received: "$7,607,184"
-fec-candidate-id: "S0CO00575"
-bioguide-id: "H000273"
+  - Fossil Fuel Bloc
+  - American Petroleum Institute
+  - Brownstein Hyatt Farber Schreck
+total-received: $7,607,184
+fec-candidate-id: S0CO00575
+bioguide-id: H000273
 last-enriched: "2026-04-11"
 source-types:
   - Congress
@@ -37,32 +37,32 @@ corroboration-count: 3
 needs-reenrichment: true
 reenrich-reason: "Bioguide recovered 2026-04-11 (was contaminated, now verified): H000273. Next pipeline run should populate Congress.gov + GovTrack auto-blocks with correct data."
 known-gaps:
-  - "No voting record data"
-  - "No mapped relationships"
-donors: "[[NORPAC]]"
+  - No voting record data
+  - No mapped relationships
+donors: "[[NORPAC]], [[Brownstein Hyatt Farber Schreck]], [[FAIR SHARE ACTION]], [[SMP]], [[American Petroleum Institute]], [[Fossil Fuel Bloc]], [[NRSC]], [[Senate Leadership Fund]], [[ESAFUND]]"
 related: "[[Fossil Fuel Bloc]] · [[American Petroleum Institute]] · [[Silicon Valley Democratic Donor Network]] · [[_Michael Bennet Master Profile|Michael Bennet]] · [[Brownstein Hyatt Farber Schreck]]"
 govtrack-id: 456797
 bills-sponsored: 106
 bills-cosponsored: 879
-website: "https://www.hickenlooper.senate.gov"
-phone: "202-224-5941"
-opensanctions-status: "pep-sanctioned"
+website: https://www.hickenlooper.senate.gov
+phone: 202-224-5941
+opensanctions-status: pep-sanctioned
 opensanctions-matches: 2
 opensanctions-datasets:
-  - "ann_pep_positions"
-  - "wd_categories"
-  - "wd_peps"
-  - "wikidata"
-  - "ru_mfa_sanctions"
-  - "us_congress"
+  - ann_pep_positions
+  - wd_categories
+  - wd_peps
+  - wikidata
+  - ru_mfa_sanctions
+  - us_congress
 committees:
-  - "Senate Committee on Commerce, Science, and Transportation"
-  - "Senate Committee on Energy and Natural Resources"
-  - "Senate Committee on Health, Education, Labor, and Pensions"
-  - "Senate Committee on Small Business and Entrepreneurship"
-internal-notes: "[MANUAL 2026-04-11] Bioguide recovered: H000273. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true , the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
-
-[JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
+  - Senate Committee on Commerce, Science, and Transportation
+  - Senate Committee on Energy and Natural Resources
+  - Senate Committee on Health, Education, Labor, and Pensions
+  - Senate Committee on Small Business and Entrepreneurship
+internal-notes: |-
+  [MANUAL 2026-04-11] Bioguide recovered: H000273. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true , the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
+  [JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided.
 ---
 
 <!-- auto:data-panel start -->

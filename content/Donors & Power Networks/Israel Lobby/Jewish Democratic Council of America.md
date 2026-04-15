@@ -1,28 +1,26 @@
 ---
-title: "Jewish Democratic Council of America"
+title: Jewish Democratic Council of America
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-08T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Israel Lobby"
-entity-type: "Individual Donor"
+sector: Israel Lobby
+entity-type: Individual Donor
 ein: "821919054"
-annual-revenue: "$2.3M"
-net-assets: "$525K"
+annual-revenue: $2.3M
+net-assets: $525K
 tax-year: "2023"
-total-political-spend: "$112,605"
-politicians-funded:
-  - "Amy Klobuchar"
-  - "Paul Ryan"
-nonprofit-status: "501(c)(4)"
+total-political-spend: $112,605
+politicians-funded: "[[Amy Klobuchar]], [[Paul Ryan]]"
+nonprofit-status: 501(c)(4)
 last-enriched: "2026-04-08"
 total-revenue: 2588140
 total-assets: 470240
-fara-status: "registrant"
+fara-status: registrant
 fara-records: 2
 fara-countries:
-  - "SYRIA"
+  - SYRIA
 related: "[[John Fetterman Master Profile]] · [[Paul Ryan]] · [[Amy Klobuchar]]"
 cross-vault-triangulation-count: 2
 audit-a-plus-passed: "2026-04-11"

@@ -493,7 +493,7 @@ Lockheed Martin's PAC splits roughly 55% Republican, 45% Democrat. This is not a
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
-<!-- auto:usaspending-subawards pending-merge 2026-04-11 -->
+<!-- auto:usaspending-subawards pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -532,8 +532,8 @@ Lockheed Martin's PAC splits roughly 55% Republican, 45% Democrat. This is not a
 | Agency | Amount |
 |--------|--------|
 | National Aeronautics and Space Administration | $4.0B |
-| Department of Homeland Security | $670.2M |
-| Department of Commerce | $488.9M |
+| Department of Homeland Security | $673.3M |
+| Department of Commerce | $489.0M |
 | Department of Transportation | $170.9M |
 | General Services Administration | $130.2M |
 | Department of Justice | $34.1M |

@@ -1,112 +1,109 @@
 ---
-title: "Tyson Foods"
+title: Tyson Foods
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Agriculture"
-entity-type: "Corporation"
-politicians-funded:
-  - "John Boozman"
+sector: Agriculture
+entity-type: Corporation
+politicians-funded: "[[John Boozman]]"
 issues:
-  - "Agriculture"
-  - "Labor & Workers"
-  - "Immigration"
-top-federal-agency: "Department of Agriculture"
+  - Agriculture
+  - Labor & Workers
+  - Immigration
+top-federal-agency: Department of Agriculture
 top-naics-code: "311615"
 ein: 476014039
-nonprofit-status: "501(c)(3)"
-last-enriched: "2026-04-15"
+nonprofit-status: 501(c)(3)
+last-enriched: "2026-04-11"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 total-revenue: 1
 total-assets: 321518
 federal-register-mentions: 74
 regulatory-agencies:
-  - "Agricultural Marketing Service"
-  - "Agriculture Department"
-  - "Children and Families Administration"
-  - "Consumer Financial Protection Bureau"
-  - "Employment and Training Administration"
-  - "Environmental Protection Agency"
-  - "Federal Aviation Administration"
-  - "Federal Maritime Commission"
-  - "Food and Nutrition Service"
-  - "Health and Human Services Department"
+  - Agricultural Marketing Service
+  - Agriculture Department
+  - Children and Families Administration
+  - Consumer Financial Protection Bureau
+  - Employment and Training Administration
+  - Environmental Protection Agency
+  - Federal Aviation Administration
+  - Federal Maritime Commission
+  - Food and Nutrition Service
+  - Health and Human Services Department
 related: "[[Cargill]] · [[Agriculture - Donors and Backers]] · [[The Farm Bill - The Bipartisan Subsidy Machine]] · [[American Farm Bureau Federation]] · [[_John Boozman Master Profile|Boozman]] · [[National Cattlemen's Beef Association]] · [[Monsanto - Bayer]] · [[John Deere]] · [[ADM - Archer Daniels Midland]] · [[Meatpacking Corporations]] · [[United Farm Workers]] · [[Agribusiness Donor Bloc]]"
 court-cases: 14512
 court-jurisdictions:
-  - "Court of Appeals for the Tenth Circuit"
-  - "District Court, C.D. California"
-  - "District Court, C.D. Illinois"
-  - "District Court, D. Oregon"
-  - "District Court, E.D. Arkansas"
-  - "District Court, E.D. Washington"
-  - "District Court, M.D. Alabama"
-  - "District Court, S.D. Florida"
-  - "District Court, S.D. Illinois"
-  - "District Court, W.D. Oklahoma"
+  - Court of Appeals for the Tenth Circuit
+  - District Court, C.D. California
+  - District Court, C.D. Illinois
+  - District Court, D. Oregon
+  - District Court, E.D. Arkansas
+  - District Court, E.D. Washington
+  - District Court, M.D. Alabama
+  - District Court, S.D. Florida
+  - District Court, S.D. Illinois
+  - District Court, W.D. Oklahoma
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-federal-awards-total: 219988618
+federal-awards-total: 218070634
 federal-contracts-count: 25
 federal-grants-count: 0
 cross-vault-triangulation-count: 9
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 fda-recalls: 7
 fda-recalls-class-i: 1
 sec-filings: 10000
 sec-form-types:
-  - "10-K"
+  - 10-K
   - "4"
-  - "424B5"
-  - "8-K"
-  - "DEFA14A"
-  - "DFAN14A"
-  - "EX-10"
-  - "EX-10.1"
-  - "EX-10.11"
-  - "EX-10.12"
-  - "EX-10.13"
-  - "EX-10.18"
-  - "EX-10.19"
-  - "EX-10.2"
-  - "EX-10.4"
-  - "EX-10.5"
-  - "EX-10.65"
-  - "EX-14"
-  - "EX-14.1"
-  - "EX-21"
-  - "EX-99"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "EX-99.4"
-  - "EX-99.A.15"
-  - "FWP"
-  - "NPORT-P"
-  - "PROXY VOTING RECORD"
-  - "PX14A6G"
-  - "SC 13G"
-  - "SC 13G/A"
-  - "SC TO-C"
-  - "SC TO-T"
-  - "SC TO-T/A"
-  - "SC14D9C"
-  - "SCHEDULE 13D/A"
-  - "SCHEDULE 13G/A"
-  - "XML"
-annual-revenue: "$1"
-net-assets: "$322K"
+  - 424B5
+  - 8-K
+  - DEFA14A
+  - DFAN14A
+  - EX-10
+  - EX-10.1
+  - EX-10.11
+  - EX-10.12
+  - EX-10.13
+  - EX-10.18
+  - EX-10.19
+  - EX-10.2
+  - EX-10.4
+  - EX-10.5
+  - EX-10.65
+  - EX-14
+  - EX-14.1
+  - EX-21
+  - EX-99
+  - EX-99.1
+  - EX-99.2
+  - EX-99.4
+  - EX-99.A.15
+  - FWP
+  - NPORT-P
+  - PROXY VOTING RECORD
+  - PX14A6G
+  - SC 13G
+  - SC 13G/A
+  - SC TO-C
+  - SC TO-T
+  - SC TO-T/A
+  - SC14D9C
+  - SCHEDULE 13D/A
+  - SCHEDULE 13G/A
+  - XML
+annual-revenue: $1
+net-assets: $322K
 tax-year: "2019"
-wikidata-id: "Q1325987"
-wikipedia-url: "https://en.wikipedia.org/wiki/Tyson_Foods"
-wikipedia-extract: "Tyson Foods, Inc. is an American multinational corporation based in Springdale, Arkansas that operates in the food industry."
+wikidata-id: Q1325987
+wikipedia-url: https://en.wikipedia.org/wiki/Tyson_Foods
+wikipedia-extract: Tyson Foods, Inc. is an American multinational corporation based in Springdale, Arkansas that operates in the food industry.
 founded: "1935-01-01"
-lei: "WD6L6041MNRW1JE49D58"
-lei-jurisdiction: "US-DE"
+lei: WD6L6041MNRW1JE49D58
+lei-jurisdiction: US-DE
 lobbying-spend: 5030000
 lobbying-filings: 30
 ---
@@ -240,7 +237,7 @@ Tyson's $220 million in federal contracts, primarily through the Department of A
 - ~~[Source: USASpending.gov Subawards](https://www.usaspending.gov/search)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:usaspending-subawards end -->
 
-<!-- auto:usaspending-subawards pending-merge 2026-04-11 -->
+<!-- auto:usaspending-subawards pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -439,6 +436,31 @@ Tyson's $220 million in federal contracts, primarily through the Department of A
 - [Source: USASpending.gov](https://www.usaspending.gov/recipient/388ab88d-74c2-54ac-19e4-cb2df60ad520-C/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
+<!-- auto:usaspending pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $218.1M |
+| Contracts (recent 3yr) | 25 ($490.1M sampled) |
+| Grants (recent 3yr) | 0 ($0 sampled) |
+| Federal Agencies | 1 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $29.6M | Department of Agriculture | COMMODITIES FOR USG FOOD DONATIONS: 2000009015/4400001627/4100026817/CHICKEN WHOLE BAGGED FRZ CTN-36 |
+| $28.5M | Department of Agriculture | COMMODITIES FOR USG FOOD DONATIONS: 2000010990/4100032985/CHICKEN LARGE CHILLED -BULK |
+| $27.5M | Department of Agriculture | COMMODITIES FOR USG FOOD DONATIONS: 2000010352/4100031038/CHICKEN LARGE CHILLED -BULK |
+| $26.7M | Department of Agriculture | COMMODITIES FOR USG FOOD DONATIONS: 2000010261/4100030713/CHICKEN LARGE CHILLED -BULK |
+| $25.4M | Department of Agriculture | COMMODITIES FOR USG FOOD DONATIONS: 2000011083/4100033455/CHICKEN LARGE CHILLED -BULK |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/388ab88d-74c2-54ac-19e4-cb2df60ad520-C/latest) (Tier 1)
+
+<!-- auto:usaspending pending-merge end -->
+
 ### FDA Enforcement (openFDA)
 <!-- auto:fda-enforcement start -->
 | Metric | Value |
@@ -469,6 +491,40 @@ _Variant firm names in FDA data: Tyson Foods Discovery Center; Tyson Foods, inc.
 
 - [Source: openFDA / FDA Enforcement Reports](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?search_api_fulltext=Tyson%20Foods) (Tier 1) (VERIFIED)
 <!-- auto:fda-enforcement end -->
+
+<!-- auto:fda-enforcement pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Total FDA recalls | 7 |
+| Food recalls | 7 |
+| **Class I (life-threatening)** | **1** |
+| Class II (temporary/reversible) | 6 |
+| Most recent | 2018-10-19 |
+| Earliest | 2017-05-11 |
+
+**Class I recalls (life-threatening):**
+
+- [food] **F-1475-2018** (2018-04-27): Vans gluten free Original 6 WAFFLES NET WT 9 OZ (255g) INGREDIENTS:***VAN'S GLUTEN FREE MIX (BROWN RICE FLOUR, POTATO STARCH, RICE FLOUR, SOY FLOUR),***RICE FLOUR,***SUNFLOWER AND/OR SOY LECITHIN***CO
+  - Reason: The firm was notified that they failed to include the allergens milk & wheat in their ingredient statement.
+
+**Recent recalls:**
+
+- [food] [Class II] F-0363-2019 (2018-10-19): Pierre Philly Style Chicken Sandwich, item 1238, 12 units packaged per case Net Wt. 4.99 LBS (2.27 kg) KEEP FROZEN
+- [food] [Class II] F-0365-2019 (2018-10-19): Steak-EZE Philly Cheesesteak Sandwich, item 06433, Net Wt 5.15 OZ., 4 sandwiches per case KEEP FROZEN
+- [food] [Class II] F-0364-2019 (2018-10-19): TGIF All American Slider, item 5461, 4 cartons of 4 sandwiches per case NET WT 10 OZ KEEP FROZEN
+- [food] [Class II] F-0362-2019 (2018-10-19): Pierre Philly Style Cheesesteak Sandwich, item 1125, 12 units packaged per case Net Wt. 4.65 LBS (2.11 kg) KEEP FROZEN
+- [food] [Class I] F-1475-2018 (2018-04-27): Vans gluten free Original 6 WAFFLES NET WT 9 OZ (255g) INGREDIENTS:***VAN'S GLUTEN FREE MIX (BROWN RICE FLOUR, POTATO STARCH, RICE FLOUR, SOY FLOUR),***RICE FLOUR,***SUNFLOWER AND/OR SOY LECITHIN***CO
+- [food] [Class II] F-2247-2017 (2017-05-11): Chef Pierre 10 Spinach Quiche, and 6/10 Frozen Quiche, 38 oz. packed in a paper carton, keep frozen
+- ... and 1 more
+
+_Variant firm names in FDA data: Tyson Foods Discovery Center; Tyson Foods, inc._
+
+- [Source: openFDA / FDA Enforcement Reports](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?search_api_fulltext=Tyson%20Foods) (Tier 1)
+
+<!-- auto:fda-enforcement pending-merge end -->
 
 ### SEC Filing Activity
 <!-- auto:sec-edgar start -->

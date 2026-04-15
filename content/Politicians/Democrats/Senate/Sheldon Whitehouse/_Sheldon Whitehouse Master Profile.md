@@ -1,56 +1,56 @@
 ---
-title: "Sheldon Whitehouse"
+title: Sheldon Whitehouse
 type: politician
 content-readiness: draft
-central-thesis: "Whitehouse is the Senate's dark money watchdog who is himself embedded in the donor infrastructure he critiques. His 'Scheme' floor speech series (80+ documented speeches, 2016–present) is the most detailed public accounting of right-wing judicial..."
-last-updated: 2026-04-15
+central-thesis: Whitehouse is the Senate's dark money watchdog who is himself embedded in the donor infrastructure he critiques. His 'Scheme' floor speech series (80+ documented speeches, 2016–present) is the most detailed public accounting of right-wing judicial...
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "Senate"
-state: "Rhode Island"
-state-abbr: "RI"
-bioguide-id: "W000802"
+party: Democrat
+chamber: Senate
+state: Rhode Island
+state-abbr: RI
+bioguide-id: W000802
 committees:
-  - "Environment & Public Works (Ranking Member, 119th Congress)"
-  - "Judiciary"
-  - "Finance"
+  - Environment & Public Works (Ranking Member, 119th Congress)
+  - Judiciary
+  - Finance
 former-committees:
-  - "Budget (Chair, 118th Congress 2023-2025)"
+  - Budget (Chair, 118th Congress 2023-2025)
 issues:
-  - "Agriculture and Food"
-  - "Armed Forces and National Security"
-  - "Commerce"
-  - "Crime and Law Enforcement"
-  - "Education"
-  - "Energy"
-  - "Environmental Protection"
-  - "Finance and Financial Sector"
-  - "Government Operations and Politics"
-  - "Health"
+  - Agriculture and Food
+  - Armed Forces and National Security
+  - Commerce
+  - Crime and Law Enforcement
+  - Education
+  - Energy
+  - Environmental Protection
+  - Finance and Financial Sector
+  - Government Operations and Politics
+  - Health
 top-donors:
   - "League of Conservation Voters ($193K career, #1 contributor)"
-  - "Trial Lawyers / Law Firms ($3.3M career)"
-  - "Securities & Investment ($2.2M career)"
-  - "Environment industry ($619K career direct)"
+  - Trial Lawyers / Law Firms ($3.3M career)
+  - Securities & Investment ($2.2M career)
+  - Environment industry ($619K career direct)
   - "Pro-Israel / AIPAC network ($617K career, $147K in 2024 = #1 2024 contributor)"
-total-received: "$365,144"
-fec-candidate-id: "S6RI00221"
+total-received: $365,144
+fec-candidate-id: S6RI00221
 stock-trades: 687
 stock-trade-tickers:
-  - "GILD"
-  - "FB"
-  - "IBM"
-  - "T"
-  - "BIIB"
-  - "NVDA"
-  - "BMY"
-  - "C"
-  - "AAPL"
-  - "AMGN"
+  - GILD
+  - FB
+  - IBM
+  - T
+  - BIIB
+  - NVDA
+  - BMY
+  - C
+  - AAPL
+  - AMGN
 last-enriched: "2026-04-11"
 needs-reenrichment: true
-reenrich-reason: "re-run congress pipeline"
+reenrich-reason: re-run congress pipeline
 source-types:
   - Congress
   - FEC
@@ -60,31 +60,29 @@ known-gaps:
   - Sandra Whitehouse / Ocean Conservancy payment total ($2.69M since 2010) needs direct financial disclosure citation (currently cited via FACT ethics complaint, Tier 2)
   - 80+ "Scheme" floor speeches and 300+ "Time to Wake Up" speeches need complete catalog for verified promotion (a few are cited, most aren't)
 opposes:
-  - "Leonard Leo"
-  - "Federalist Society"
-  - "Koch Network"
-  - "DonorsTrust"
-  - "Judicial Crisis Network"
-  - "Marble Freedom Trust"
-donors: "League of Conservation Voters ($193K career, #1),Trial Lawyers Fund,Motley Rice LLC,Thornton Law Firm,Environmental Law & Policy Center,Ocean Conservancy,Demand Justice,Brady Campaign,AIPAC network ($147K 2024 cycle),Fraternal Order of Police · [[Fraternal Order of Police]]"
-editorial-review-date: '2026-04-10'
-editorial-reviewer: "Research Claude"
+  - Leonard Leo
+  - Federalist Society
+  - Koch Network
+  - DonorsTrust
+  - Judicial Crisis Network
+  - Marble Freedom Trust
+donors: "[[Fraternal Order of Police]] · [[MOVEON.ORG POLITICAL ACTION]] · [[DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE]] · [[Judicial Crisis Network]] · [[National Republican Senatorial Committee]] · [[Roosevelt Society Action]] · [[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]]"
+editorial-review-date: "2026-04-10"
+editorial-reviewer: Research Claude
 editorial-result: verified-candidate
 editorial-notes: "Flagged for David's verified sign-off. Qualifies on merits: 4+ Tier 1 source types (FEC candidate page, Congress.gov DISCLOSE Act, multiple whitehouse.senate.gov primary-source speeches, Senate Budget Committee). EXCEPTIONAL class analysis: 'the dark money crusader who is himself embedded in the donor infrastructure he critiques.' Three contradictions documented with numbers: (1) Sandra Whitehouse $2.69M from Ocean Conservancy while Whitehouse voted for $6.9M in 2024 federal grants to Ocean Conservancy, (2) silence on AIPAC's $127M 2024 spending while AIPAC was his #1 2024 contributor at $147K, (3) Democratic dark money symmetry (Arabella, Demand Justice mirror the Leo infrastructure he critiques). 80+ 'Scheme' floor speeches + 300+ 'Time to Wake Up' climate speeches are the vault's most-cited primary-source watchdog work. FIXED: removed inline body donors:: dataview line per frontmatter-only rule. FIXED: replaced single-entry 'Fraternal Order of Police' frontmatter donors field with the real donor list (merge script artifact from yesterday's consolidate-dual-related-fields run). FIXED: removed stale DOJ from source-types (vault DOJ blocks all stripped — engine false positive). Added bioguide-id W000802, structured opposes (Leo/Federalist/Koch), former-committees (Budget Chair 118th), expanded issues. No (URL NEEDED) tags. No A000383 contamination. DOJ block already cleaned this morning. Ready for editor review."
 related: "[[Leonard Leo]] · [[_Clarence Thomas Master Profile]] · [[Federalist Society]] · [[Demand Justice]] · [[Arabella Advisors]] · [[Trial Lawyers Fund]] · [[Ocean Conservancy]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Judicial Crisis Network]] · [[Koch Network - Charles Koch]] · [[DonorsTrust]] · [[League of Conservation Voters]] · [[Environmental Law & Policy Center]] · [[Brady Campaign]]"
-opensanctions-status: "pep-sanctioned"
+opensanctions-status: pep-sanctioned
 opensanctions-matches: 2
 opensanctions-datasets:
-  - "wd_categories"
-  - "ann_pep_positions"
-  - "everypolitician"
-  - "wd_peps"
-  - "wikidata"
-  - "us_congress"
-  - "ru_mfa_sanctions"
-internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
-  • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+  - wd_categories
+  - ann_pep_positions
+  - everypolitician
+  - wd_peps
+  - wikidata
+  - us_congress
+  - ru_mfa_sanctions
+internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

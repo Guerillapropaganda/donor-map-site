@@ -1,24 +1,22 @@
 ---
-title: "Pharmaceutical Industry Bloc"
+title: Pharmaceutical Industry Bloc
 type: donor
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Pharma & Healthcare"
-entity-type: "Individual Donor"
+sector: Pharma & Healthcare
+entity-type: Individual Donor
 issues:
-  - "Healthcare"
-  - "Social Safety Net"
+  - Healthcare
+  - Social Safety Net
 federal-contracts: "5976"
 related: "[[New Hampshire 2026 Senate Race]] · [[Thom Tillis Master Profile]] · [[The Pharma Senator and the Research Triangle Donor Pipeline]] · [[The Intellectual Property and Banking Donor Pipeline]] · [[Patty Murray]] · [[Bob Casey]] · [[PhRMA]] · [[Pfizer]] · [[AbbVie]] · [[Eli Lilly]] · [[Merck]] · [[Novo Nordisk]] · [[Johnson & Johnson]] · [[Gilead Sciences]] · [[Purdue Pharma - Sackler Family]] · [[Cory Booker]] · [[Pharmaceutical Industry]] · [[Moderna]] · [[Healthcare Sector]]"
 cross-vault-triangulation-count: 17
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline; run pipelines"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-  • No last-enriched date is set. The pipelines have never touched this file.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: run fec pipeline; run pipelines
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+politicians-funded: "[[Patty Murray]], [[Thom Tillis]]"
 ---
 
 <!-- auto:data-panel start -->

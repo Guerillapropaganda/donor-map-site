@@ -1,60 +1,55 @@
 ---
-title: "Trump Organization"
+title: Trump Organization
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Wall Street"
-entity-type: "Corporation"
-politicians-funded:
-  - "Donald Trump"
-  - "Jared Kushner"
+sector: Wall Street
+entity-type: Corporation
+politicians-funded: "[[Donald Trump]], [[Jared Kushner]]"
 issues:
-  - "Housing"
+  - Housing
 related: "[[Housing - Donors and Backers]] · [[_Donald Trump Master Profile|Trump]] · [[_Jared Kushner Master Profile|Kushner]] · [[Trump Donor Coalition]] · [[Trump Media & Technology Group]]"
 sec-filings: 1884
 sec-form-types:
-  - "10-K"
-  - "10-K/A"
-  - "10-Q"
-  - "10KSB"
-  - "10KSB/A"
+  - 10-K
+  - 10-K/A
+  - 10-Q
+  - 10KSB
+  - 10KSB/A
   - "4"
-  - "424B3"
+  - 424B3
   - "425"
   - "497"
-  - "8-K"
-  - "8-K/A"
-  - "DEF 14A"
-  - "EX-10"
-  - "EX-10.1"
-  - "EX-10.10"
-  - "EX-10.17"
-  - "EX-10.3"
-  - "EX-10.4"
-  - "EX-10.7"
-  - "EX-10.83"
-  - "EX-10.9"
-  - "EX-4.2.1"
-  - "EX-99"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "EX-99.4"
-  - "PRE 14C"
-  - "S-1/A"
-  - "SC 13D"
-  - "SC 13D/A"
-  - "SC 13G/A"
-  - "SCHEDULE 13D"
-  - "SCHEDULE 13D/A"
+  - 8-K
+  - 8-K/A
+  - DEF 14A
+  - EX-10
+  - EX-10.1
+  - EX-10.10
+  - EX-10.17
+  - EX-10.3
+  - EX-10.4
+  - EX-10.7
+  - EX-10.83
+  - EX-10.9
+  - EX-4.2.1
+  - EX-99
+  - EX-99.1
+  - EX-99.2
+  - EX-99.4
+  - PRE 14C
+  - S-1/A
+  - SC 13D
+  - SC 13D/A
+  - SC 13G/A
+  - SCHEDULE 13D
+  - SCHEDULE 13D/A
 cross-vault-triangulation-count: 5
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline; run pipelines"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-  • No last-enriched date is set. The pipelines have never touched this file.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: run lda pipeline; run pipelines
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

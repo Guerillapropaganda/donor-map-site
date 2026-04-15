@@ -429,6 +429,38 @@ The transition is the most visible evidence that Democratic leadership is a dono
 - ~~[Source: Congress.gov](https://www.congress.gov/member/J000294)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
+<!-- auto:congress-legislation pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democrat |
+| State | NY |
+| Chamber | House |
+| Bills Sponsored | 133 |
+| Bills Cosponsored | 1582 |
+
+**Policy areas:** Civil Rights and Liberties, Minority Issues, Commerce, Congress, Crime and Law Enforcement, Education, Finance and Financial Sector, Government Operations and Politics, Health, International Affairs, Labor and Employment, Public Lands and Natural Resources, Taxation, Transportation and Public Works
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 625 | Recognizing the 50th anniversary of the independence of the Republic of Cabo Ver… | Referred to the House Committee on Foreign Affairs. |
+| 13 | Reserved for the Minority Leader. | — |
+| 11 | Reserved for the Minority Leader. | — |
+| 19 | Reserved for the Minority Leader. | — |
+| 16 | Reserved for the Minority Leader. | — |
+| 1396 | Recognizing a half century of the independence of the Republic of Cabo Verde and… | Referred to the House Committee on Foreign Affairs. |
+| 19 | Reserved for the Minority Leader. | Introduced in House |
+| 18 | Reserved for the Minority Leader. | Introduced in House |
+
+- [Source: Congress.gov](https://www.congress.gov/member/J000294) (Tier 1)
+
+<!-- auto:congress-legislation pending-merge end -->
+
 ### Campaign Finance Summary (FEC)
 <!-- auto:fec-summary start -->
 | Metric | Value |
@@ -456,12 +488,52 @@ The transition is the most visible evidence that Democratic leadership is a dono
 - {{src:src_006189}} (Tier 1)
 <!-- auto:fec-summary end -->
 
+<!-- auto:fec-summary pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $10,327,241 |
+| Total Spent | $9,417,063 |
+| Cash on Hand | 5864742.02 |
+| Individual Contributions | $2,259,645 |
+| PAC Contributions | $1,224,500 |
+| Coverage Through | 2025-12-31 |
+
+**Fundraising history:**
+
+| Cycle | Raised | Spent | Cash on Hand |
+|-------|--------|-------|-------------|
+| 2026 | $10,327,241 | $9,417,063 | 5864742.02 |
+| 2024 | $22,977,197 | $20,238,858 | 4954564.65 |
+| 2022 | $6,037,500 | $5,966,557 | 2216225.11 |
+| 2020 | $4,201,480 | $3,325,841 | 2145321.91 |
+| 2018 | $1,744,153 | $1,486,075 | 1269682.34 |
+| 2016 | $1,294,870 | $791,629 | 1011604.86 |
+| ... | 2 more cycles available | | |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2NY10092/) (Tier 1)
+
+<!-- auto:fec-summary pending-merge end -->
+
 ### Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
 _No committee data found._
 
 - ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
+
+<!-- auto:committee-assignments pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+_No committee data found._
+
+- [Source: Congress.gov](https://www.congress.gov/member/J000294) (Tier 1)
+
+<!-- auto:committee-assignments pending-merge end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->

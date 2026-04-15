@@ -1,48 +1,49 @@
 ---
-title: "Rick Crawford"
+title: Rick Crawford
 type: politician
 content-readiness: ready
-central-thesis: "Rick Crawford is the loyalty appointee who chairs America's intelligence oversight committee , a former EOD technician and Arkansas rice farmer who got the gavel not because of intelligence expertise but because his predecessor was too supportive ..."
-last-updated: 2026-04-13
+central-thesis: Rick Crawford is the loyalty appointee who chairs America's intelligence oversight committee , a former EOD technician and Arkansas rice farmer who got the gavel not because of intelligence expertise but because his predecessor was too supportive ...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "House"
-state: "Arkansas"
-state-abbr: "AR"
+party: Republican
+chamber: House
+state: Arkansas
+state-abbr: AR
 district: "1"
 committees:
-  - "Intelligence"
-  - "Agriculture"
+  - Intelligence
+  - Agriculture
 leadership-roles:
-  - "Chair"
+  - Chair
 issues:
-  - "Agriculture and Food"
-  - "Armed Forces and National Security"
-  - "Congress"
-  - "Crime and Law Enforcement"
-  - "Environmental Protection"
-  - "Foreign Trade and International Finance"
-  - "Government Operations and Politics"
-  - "Health"
-  - "International Affairs"
-  - "Labor and Employment"
-total-received: "$525,029"
-fec-candidate-id: "H0AR01083"
+  - Agriculture and Food
+  - Armed Forces and National Security
+  - Congress
+  - Crime and Law Enforcement
+  - Environmental Protection
+  - Foreign Trade and International Finance
+  - Government Operations and Politics
+  - Health
+  - International Affairs
+  - Labor and Employment
+total-received: $525,029
+fec-candidate-id: H0AR01083
 source-types:
   - Congress
   - FEC
 corroboration-count: 2
 known-gaps:
-  - "No voting record data"
-  - "No mapped relationships"
+  - No voting record data
+  - No mapped relationships
 related: "[[_Donald Trump Master Profile|Trump]]"
-total-raised: "$525,029"
-total-spent: "$342,238"
+total-raised: $525,029
+total-spent: $342,238
 cash-on-hand: "1013618.58"
 fec-cycle: 2026
 last-enriched: "2026-04-11"
-bioguide-id: "C001087"
+bioguide-id: C001087
+top-donors: "[[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]], [[HOUSE MAJORITY PAC]], [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]]"
 ---
 
 <!-- auto:data-panel start -->

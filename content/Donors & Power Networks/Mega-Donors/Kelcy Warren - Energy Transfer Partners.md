@@ -1,36 +1,31 @@
 ---
-title: "Kelcy Warren - Energy Transfer Partners"
+title: Kelcy Warren - Energy Transfer Partners
 type: donor
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Mega-Donors"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Donald Trump"
-  - "Greg Abbott"
+sector: Mega-Donors
+entity-type: Individual Donor
+politicians-funded: "[[Donald Trump]], [[Greg Abbott]]"
 issues:
-  - "Energy & Climate"
+  - Energy & Climate
 sec-filings: 15
 sec-form-types:
-  - "10-K"
+  - 10-K
   - "144"
   - "4"
-  - "424B2"
-  - "424B5"
+  - 424B2
+  - 424B5
   - "425"
-  - "8-K"
-  - "EX-99.1"
-  - "FWP"
+  - 8-K
+  - EX-99.1
+  - FWP
 related: "[[The Power Grid Failure and the Fossil Fuel Protection Racket]] · [[Fossil Fuel Bloc]] · [[_Donald Trump Master Profile|Trump]] · [[_Greg Abbott Master Profile|Greg Abbott]] · [[Koch Network - Charles Koch|Koch Network]] · [[American Petroleum Institute]]"
 cross-vault-triangulation-count: 5
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline; run pipelines"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-  • No last-enriched date is set. The pipelines have never touched this file.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: run fec pipeline; run pipelines
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

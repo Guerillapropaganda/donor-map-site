@@ -1,34 +1,29 @@
 ---
-title: "Lawrence Summers"
+title: Lawrence Summers
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Wall Street"
-entity-type: "Individual Donor"
+sector: Wall Street
+entity-type: Individual Donor
 issues:
-  - "Wall Street & Finance"
+  - Wall Street & Finance
 lobbying-spend: 67750
 lobbying-filings: 13
 source-types:
   - LDA
 known-gaps:
-  - "No FEC contribution data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No mapped relationships
 federal-register-mentions: 2
 last-enriched: "2026-04-11"
 regulatory-agencies:
-  - "Commodity Futures Trading Commission"
-  - "State Department"
-total-political-spend: "$401,797"
-politicians-funded:
-  - "Joe Biden"
-  - "Sherrod Brown"
-  - "Shontel Brown"
-  - "Kamala Harris"
-  - "Barack Obama"
-related: "[[Sherrod Brown]] · [[Kamala Harris]]"
+  - Commodity Futures Trading Commission
+  - State Department
+total-political-spend: $401,797
+politicians-funded: "[[Sherrod Brown]], [[Kamala Harris]], [[Barack Obama]], [[Shontel Brown]], [[Joe Biden]]"
+related: "[[Sherrod Brown]]"
 ---
 
 

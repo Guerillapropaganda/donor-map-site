@@ -16,20 +16,20 @@ state: New Jersey
 state-abbr: NJ
 district: '6'
 committees:
-  - House Committee on Energy and Commerce
+  - "House Committee on Energy and Commerce"
 leadership-roles:
   - Ranking Member
 issues:
-  - Agriculture and Food
-  - Armed Forces and National Security
-  - 'Arts, Culture, Religion'
-  - 'Civil Rights and Liberties, Minority Issues'
-  - Commerce
-  - Congress
-  - Economics and Public Finance
-  - Energy
-  - Environmental Protection
-  - Finance and Financial Sector
+  - "Agriculture and Food"
+  - "Armed Forces and National Security"
+  - "Arts, Culture, Religion"
+  - "Civil Rights and Liberties, Minority Issues"
+  - "Commerce"
+  - "Congress"
+  - "Economics and Public Finance"
+  - "Energy"
+  - "Environmental Protection"
+  - "Finance and Financial Sector"
 top-donors:
   - Pfizer
   - PhRMA
@@ -46,9 +46,9 @@ bills-cosponsored: 6690
 website: 'https://pallone.house.gov'
 phone: 202-225-4671
 bioguide-id: P000034
-total-raised: '$1,311,209'
-total-spent: '$1,257,401'
-cash-on-hand: '3125718.74'
+total-raised: "$1,311,209"
+total-spent: "$1,257,401"
+cash-on-hand: "3125718.74"
 fec-cycle: 2026
 internal-notes: >-
   [JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: •
@@ -396,6 +396,38 @@ The class function is clear: Pallone is the progressive validator for industries
 - ~~[Source: Congress.gov](https://www.congress.gov/member/P000034)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
+<!-- auto:congress-legislation pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democrat |
+| State | NJ |
+| Chamber | House |
+| Bills Sponsored | 577 |
+| Bills Cosponsored | 6691 |
+
+**Policy areas:** Agriculture and Food, Armed Forces and National Security, Arts, Culture, Religion, Civil Rights and Liberties, Minority Issues, Commerce, Congress, Economics and Public Finance, Energy, Environmental Protection, Finance and Financial Sector, Government Operations and Politics, Health, Immigration, International Affairs, Labor and Employment, Public Lands and Natural Resources, Science, Technology, Communications, Sports and Recreation, Taxation, Transportation and Public Works, Water Resources Development
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 1045 | Calling on the Secretary of Education to work with stakeholders to immediately e… | Referred to the House Committee on Education and Workforce. |
+| 7407 | Prohibiting Tianeptine and Other Dangerous Products Act of 2026 | Referred to the House Committee on Energy and Commerce. |
+| 7372 | Safety is Not For Sale Act | Forwarded by Subcommittee to Full Committee by Voice Vote. |
+| 6292 | Don’t Sell Kids’ Data Act of 2025 | Forwarded by Subcommittee to Full Committee in the Nature of a Substitute (Amended) by Voice Vote. |
+| 6166 | Lowering Drug Costs for American Families Act | Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 5448 | Protecting Free Vaccines Act | Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 5484 | National Flood Insurance Program Reauthorization and Reform Act of 2025 | Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management. |
+| 648 | Celebrating 50 years of Bruce Springsteen's album, "Born to Run". | Referred to the House Committee on Education and Workforce. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/P000034) (Tier 1)
+
+<!-- auto:congress-legislation pending-merge end -->
+
 ### Campaign Finance Summary (FEC)
 <!-- auto:fec-summary start -->
 | Metric | Value |
@@ -423,6 +455,36 @@ The class function is clear: Pallone is the progressive validator for industries
 - {{src:src_006246}} (Tier 1)
 <!-- auto:fec-summary end -->
 
+<!-- auto:fec-summary pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $1,311,209 |
+| Total Spent | $1,257,401 |
+| Cash on Hand | 3125718.74 |
+| Individual Contributions | $404,090 |
+| PAC Contributions | $878,107 |
+| Coverage Through | 2025-12-31 |
+
+**Fundraising history:**
+
+| Cycle | Raised | Spent | Cash on Hand |
+|-------|--------|-------|-------------|
+| 2026 | $1,311,209 | $1,257,401 | 3125718.74 |
+| 2024 | $3,462,887 | $3,077,720 | 3071910.32 |
+| 2022 | $3,144,740 | $3,795,593 | 2686743.08 |
+| 2020 | $3,240,051 | $2,030,033 | 3337595.75 |
+| 2018 | $2,810,635 | $1,722,277 | 2127577.21 |
+| 2016 | $2,415,229 | $1,879,868 | 1039220.84 |
+| ... | 14 more cycles available | | |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8NJ03073/) (Tier 1)
+
+<!-- auto:fec-summary pending-merge end -->
+
 ### Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
 **Committees:**
@@ -431,6 +493,18 @@ The class function is clear: Pallone is the progressive validator for industries
 
 - ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
+
+<!-- auto:committee-assignments pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+**Committees:**
+
+- House Committee on Energy and Commerce
+
+- [Source: Congress.gov](https://www.congress.gov/member/P000034) (Tier 1)
+
+<!-- auto:committee-assignments pending-merge end -->
 
 ### Wikipedia
 <!-- auto:wikipedia start -->

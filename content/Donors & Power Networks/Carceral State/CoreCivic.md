@@ -11,7 +11,7 @@ politicians-funded:
   - "Gavin Newsom"
   - "Donald Trump"
   - "Chad Bianco"
-federal-awards-total: 549517348
+federal-awards-total: 552105918
 federal-contracts-count: 25
 federal-grants-count: 0
 court-cases: 3058
@@ -203,13 +203,13 @@ SCOTUS. Al Otro Lado asylum arrival doctrine
 - ~~[Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-CoreCivic)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1) (NEEDS REVIEW: Results page lands with no results)
 <!-- auto:usaspending end -->
 
-<!-- auto:usaspending pending-merge 2026-04-11 -->
+<!-- auto:usaspending pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
 | Metric | Value |
 |--------|-------|
-| All-Time Federal Awards | $549.5M |
+| All-Time Federal Awards | $552.1M |
 | Contracts (recent 3yr) | 25 ($1.9B sampled) |
 | Grants (recent 3yr) | 0 ($0 sampled) |
 | Federal Agencies | 2 |
@@ -224,7 +224,7 @@ SCOTUS. Al Otro Lado asylum arrival doctrine
 | $103.7M | Department of Homeland Security | FUNDS FOR NEW TASK ORDER FOR CDF SAN DIEGO, CA. |
 | $87.9M | Department of Homeland Security | NEW TASK ORDER FOR DETENTION SERVICES AT THE OTAY MESA DETENTION CENTER |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/b7ab6cd4-f511-cfe7-c92f-b20d45921e9c-P/latest) (Tier 1) (VERIFIED)
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/b7ab6cd4-f511-cfe7-c92f-b20d45921e9c-P/latest) (Tier 1)
 
 <!-- auto:usaspending pending-merge end -->
 
@@ -383,20 +383,20 @@ SCOTUS. Al Otro Lado asylum arrival doctrine
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
-<!-- auto:usaspending-subawards pending-merge 2026-04-11 -->
+<!-- auto:usaspending-subawards pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
 | Metric | Value |
 |--------|-------|
-| Top Federal Agency | Department of Homeland Security ($978.1M) |
+| Top Federal Agency | Department of Homeland Security ($982.7M) |
 | Primary NAICS Sector | Security Guards and Patrol Services |
 
 **Federal agency spending breakdown:**
 
 | Agency | Amount |
 |--------|--------|
-| Department of Homeland Security | $978.1M |
+| Department of Homeland Security | $982.7M |
 | Department of Justice | $551.2M |
 
 **Federal spending by industry sector (NAICS):**
@@ -404,7 +404,7 @@ SCOTUS. Al Otro Lado asylum arrival doctrine
 | Sector | Amount |
 |--------|--------|
 | Security Guards and Patrol Services (561612) | $1.1B |
-| Other Justice, Public Order, and Safety Activities (922190) | $238.4M |
+| Other Justice, Public Order, and Safety Activities (922190) | $243.0M |
 | Other Residential Care Facilities (623990) | $122.5M |
 | Facilities Support Services (561210) | $90.1M |
 | Furniture Merchant Wholesalers (423210) | $500K |

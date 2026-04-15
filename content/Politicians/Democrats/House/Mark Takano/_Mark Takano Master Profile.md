@@ -1,7 +1,7 @@
 ---
 title: Mark Takano
 type: politician
-bioguide-id: T000472
+bioguide-id: "T000472"
 content-readiness: ready
 central-thesis: >-
   Mark Takano is the PACT Act's Democratic architect — the chairman who
@@ -17,7 +17,8 @@ state: California
 state-abbr: CA
 district: '39'
 committees:
-  - Veterans' Affairs
+  - "House Committee on Education and Workforce"
+  - "House Committee on Veterans' Affairs"
 leadership-roles:
   - Ranking Member
 total-received: '$524,547'
@@ -32,7 +33,18 @@ internal-notes: >-
   says it was enriched. The pipeline thinks it's already done and won't refresh
   it. Needs a re-run. The needs-reenrichment flag has been set. The next
   scheduled pipeline run will pick it up automatically.
-last-enriched: '2026-04-13'
+last-enriched: "2026-04-15"
+issues:
+  - "Agriculture and Food"
+  - "Armed Forces and National Security"
+  - "Civil Rights and Liberties, Minority Issues"
+  - "Commerce"
+  - "Crime and Law Enforcement"
+  - "Economics and Public Finance"
+  - "Education"
+  - "Energy"
+  - "Government Operations and Politics"
+  - "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -243,3 +255,48 @@ Takano's class position as a former teacher is not incidental. He spent 24 years
 
 - {{src:src_006046}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+**Committees:**
+
+- House Committee on Education and Workforce
+- House Committee on Veterans' Affairs
+
+**Subcommittees:**
+
+- Health, Employment, Labor, and Pensions
+- Higher Education and Workforce Development
+- Workforce Protections
+
+- [Source: Congress.gov](https://www.congress.gov/member/T000472) (Tier 1)
+<!-- auto:committee-assignments end -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democrat |
+| State | CA |
+| Chamber | House |
+| Bills Sponsored | 223 |
+| Bills Cosponsored | 3828 |
+
+**Policy areas:** Agriculture and Food, Armed Forces and National Security, Civil Rights and Liberties, Minority Issues, Commerce, Crime and Law Enforcement, Economics and Public Finance, Education, Energy, Government Operations and Politics, Health, Immigration, Labor and Employment, Science, Technology, Communications, Taxation
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 1162 | Supporting the goals and ideals of Glisten's (formerly GLSEN's) 2026 Day of Sile… | Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 7853 | PrEP Access and Coverage Act of 2026 | Referred to the Committee on Energy and Commerce, and in addition to the Committees on Oversight and Government Reform, Ways and Means, Veterans' Affairs, Armed Services, Natural Resources, Financial Services, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 7238 | Commission on Equity and Reconciliation in the Uniformed Services Act | Referred to the Committee on Armed Services, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 7048 | Unsubscribe Act of 2025 | Referred to the House Committee on Energy and Commerce. |
+| 5786 | White House NOT FOR SALE Act | Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 5787 | BALL Act | Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management. |
+| 5723 | Fraud Reduction And Uncovering Deception (FRAUD) in VA Disability Exams Act | Forwarded by Subcommittee to Full Committee by Voice Vote. |
+| 5535 | Veteran Service Recognition Act of 2025 | Referred to the Committee on the Judiciary, and in addition to the Committees on Veterans' Affairs, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/T000472) (Tier 1)
+<!-- auto:congress-legislation end -->

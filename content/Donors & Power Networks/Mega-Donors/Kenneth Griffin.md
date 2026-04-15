@@ -1,55 +1,53 @@
 ---
-title: "Kenneth Griffin"
+title: Kenneth Griffin
 type: donor
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Mega-Donors"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "DOGE - The Billionaires Government"
-  - "Maria Elvira Salazar"
+sector: Mega-Donors
+entity-type: Individual Donor
+politicians-funded: "[[Ron DeSantis]], [[Nikki Haley]], [[Maria Elvira Salazar]], [[Donald Trump]], [[Patrick McHenry]], [[DOGE - The Billionaires Government]]"
 issues:
-  - "Wall Street & Finance"
+  - Wall Street & Finance
 court-cases: 168
 last-enriched: "2026-04-10"
 court-jurisdictions:
-  - "Court of Appeals for the Eleventh Circuit"
-  - "District Court, D. Massachusetts"
-  - "District Court, D. New Jersey"
-  - "District Court, D. South Carolina"
-  - "District Court, E.D. Louisiana"
-  - "District Court, E.D. New York"
-  - "District Court, M.D. Florida"
-  - "District Court, N.D. California"
-  - "District Court, S.D. Illinois"
-  - "District Court, S.D. New York"
+  - Court of Appeals for the Eleventh Circuit
+  - District Court, D. Massachusetts
+  - District Court, D. New Jersey
+  - District Court, D. South Carolina
+  - District Court, E.D. Louisiana
+  - District Court, E.D. New York
+  - District Court, M.D. Florida
+  - District Court, N.D. California
+  - District Court, S.D. Illinois
+  - District Court, S.D. New York
 ein: "362167797"
-annual-revenue: "$86K"
-net-assets: "$83K"
+annual-revenue: $86K
+net-assets: $83K
 tax-year: "2023"
 sec-filings: 4674
 sec-form-types:
-  - "EX-99.1"
-  - "SC 13G"
-  - "SC 13G/A"
-  - "SC TO-I/A"
-  - "SC TO-T/A"
-  - "SCHEDULE 13G"
-  - "SCHEDULE 13G/A"
-nonprofit-status: "501(c)(3)"
+  - EX-99.1
+  - SC 13G
+  - SC 13G/A
+  - SC TO-I/A
+  - SC TO-T/A
+  - SCHEDULE 13G
+  - SCHEDULE 13G/A
+nonprofit-status: 501(c)(3)
 total-revenue: 285378654
 total-assets: 433034472
 federal-register-mentions: 5
 regulatory-agencies:
-  - "Environmental Protection Agency"
-  - "Federal Emergency Management Agency"
-  - "Federal Motor Carrier Safety Administration"
-  - "Securities and Exchange Commission"
-  - "Transportation Department"
+  - Environmental Protection Agency
+  - Federal Emergency Management Agency
+  - Federal Motor Carrier Safety Administration
+  - Securities and Exchange Commission
+  - Transportation Department
 related: "[[Intra-Republican Contradiction Map]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[2017 Tax Cuts - The $1.5 Trillion Receipt]] · [[Patrick McHenry Master Profile]] · [[Ron DeSantis Master Profile]] · [[The Disney War and the Limits of Culture War Governance]] · [[The $150 Million Collapse - When Donor Money Can't Buy a Primary]] · [[Nikki Haley Master Profile]] · [[Blackstone Real Estate Political Operation]] · [[_Donald Trump Master Profile]] · [[Securities & Investment Industry]] · [[DOGE - The Billionaires Government]] · [[Maria Elvira Salazar]] · [[Elizabeth Warren Master Profile]]"
-total-political-spend: "$108,324,551"
+total-political-spend: $108,324,551
 cross-vault-triangulation-count: 10
 audit-a-plus-passed: "2026-04-11"
 opposes: "[[Elizabeth Warren Master Profile]]"

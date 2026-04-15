@@ -1,52 +1,51 @@
 ---
-title: "ADM - Archer Daniels Midland"
+title: ADM - Archer Daniels Midland
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Agriculture"
-entity-type: "Corporation"
-politicians-funded:
-  - "Dick Durbin"
+sector: Agriculture
+entity-type: Corporation
+politicians-funded: "[[Dick Durbin]]"
 issues:
-  - "Agriculture"
+  - Agriculture
 lobbying-spend: 2101600
 lobbying-filings: 96
 last-enriched: "2026-04-09"
-lei: "549300KDUEM5IEU30490"
-lei-jurisdiction: "VN"
-lei-parent: "ARCHER-DANIELS-MIDLAND COMPANY"
+lei: 549300KDUEM5IEU30490
+lei-jurisdiction: VN
+lei-parent: ARCHER-DANIELS-MIDLAND COMPANY
 related: "[[Monsanto - Bayer]] · [[The Veterans Affairs and Iowa Agriculture]] · [[The Oversight Legacy and Agricultural Protection]] · [[John Deere]] · [[The Farm Bill - The Bipartisan Subsidy Machine]] · [[Cargill]] · [[American Farm Bureau Federation]] · [[_Dick Durbin Master Profile|Durbin]] · [[Tyson Foods]] · [[Ethanol Industry]] · [[Agribusiness Donor Bloc]]"
 federal-register-mentions: 8
 regulatory-agencies:
-  - "Securities and Exchange Commission"
+  - Securities and Exchange Commission
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 cross-vault-triangulation-count: 11
 audit-a-plus-passed: "2026-04-11"
 sec-filings: 1170
 sec-form-types:
-  - "13F-HR"
+  - 13F-HR
   - "4"
-  - "424B2"
+  - 424B2
   - "487"
   - "497"
-  - "ARS"
-  - "DEF 14A"
-  - "DEFA14A"
-  - "DFAN14A"
-  - "EX-10.1"
-  - "EX-10.15"
-  - "EX-10.2"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "EX-99.A1"
-  - "FWP"
-  - "INFORMATION TABLE"
-  - "N-PX"
-  - "N-PX/A"
-  - "SCHEDULE 13G/A"
+  - ARS
+  - DEF 14A
+  - DEFA14A
+  - DFAN14A
+  - EX-10.1
+  - EX-10.15
+  - EX-10.2
+  - EX-99.1
+  - EX-99.2
+  - EX-99.A1
+  - FWP
+  - INFORMATION TABLE
+  - N-PX
+  - N-PX/A
+  - SCHEDULE 13G/A
 internal-notes: "[CODE @ 2026-04-13] Pipeline: epa-echo FAILED for ADM - Archer Daniels Midland. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24359636746"
 ---
 

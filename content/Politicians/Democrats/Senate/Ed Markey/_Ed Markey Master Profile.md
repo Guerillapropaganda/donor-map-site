@@ -1,37 +1,38 @@
 ---
-title: "Ed Markey"
+title: Ed Markey
 type: politician
 content-readiness: ready
-central-thesis: "Ed Markey is the telecom law architect who became the Green New Deal's Senate champion — a 50-year career arc from writing the laws that built the internet economy to proposing the framework to decarbonize it. His donor profile reflects the tensio..."
-last-updated: 2026-04-13
+central-thesis: Ed Markey is the telecom law architect who became the Green New Deal's Senate champion — a 50-year career arc from writing the laws that built the internet economy to proposing the framework to decarbonize it. His donor profile reflects the tensio...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "Senate"
-state: "Massachusetts"
-state-abbr: "MA"
+party: Democrat
+chamber: Senate
+state: Massachusetts
+state-abbr: MA
 committees:
-  - "Small Business"
-  - "Commerce"
+  - Small Business
+  - Commerce
 leadership-roles:
-  - "Ranking Member"
+  - Ranking Member
 issues:
-  - "Energy & Climate"
-fec-candidate-id: "S4MA00028"
+  - Energy & Climate
+fec-candidate-id: S4MA00028
 source-types:
   - Congress
   - FEC
   - GovTrack
 corroboration-count: 3
 known-gaps:
-  - "No mapped relationships"
+  - No mapped relationships
 last-enriched: "2026-04-09"
 govtrack-id: 400253
 bills-sponsored: 116
 bills-cosponsored: 364
-website: "https://www.markey.senate.gov"
-phone: "202-224-2742"
+website: https://www.markey.senate.gov
+phone: 202-224-2742
 related: "[[_Alexandria Ocasio-Cortez Master Profile|Alexandria Ocasio-Cortez]] · [[_Richard Blumenthal Master Profile|Richard Blumenthal]]"
+top-donors: "[[Sierra Club Independent Action]], [[League of Conservation Voters]]"
 ---
 
 <!-- auto:data-panel start -->

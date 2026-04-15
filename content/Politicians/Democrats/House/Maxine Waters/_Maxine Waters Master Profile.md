@@ -1,37 +1,34 @@
 ---
-title: "Maxine Waters"
+title: Maxine Waters
 type: politician
 content-readiness: ready
-central-thesis: "Waters is the populist gatekeeper of Wall Street regulation. Her Financial Services Committee position makes her the person every bank, insurer, crypto exchange, and real estate lobby needs to engage with — whether she's in the majority or minorit..."
-last-updated: 2026-04-13
+central-thesis: Waters is the populist gatekeeper of Wall Street regulation. Her Financial Services Committee position makes her the person every bank, insurer, crypto exchange, and real estate lobby needs to engage with — whether she's in the majority or minorit...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "House"
-state: "California"
-state-abbr: "CA"
+party: Democrat
+chamber: House
+state: California
+state-abbr: CA
 district: "43"
 leadership-roles:
-  - "Ranking Member"
+  - Ranking Member
 top-donors:
-  - "Goldman Sachs"
-bioguide-id: "W000187"
+  - Goldman Sachs
+bioguide-id: W000187
 govtrack-id: 400422
 bills-sponsored: 40
 bills-cosponsored: 182
-website: "https://waters.house.gov"
-phone: "202-225-2201"
-donors: "[[California Nurses Association]]"
+website: https://waters.house.gov
+phone: 202-225-2201
+donors: "[[California Nurses Association]], [[Goldman Sachs]]"
 related: "[[The Wall Street Democrat - Goldman Sachs to Congress Pipeline]] · [[Gregory Meeks]] · [[_Donald Trump Master Profile|Trump]] · [[Goldman Sachs]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[SEIU - Service Employees International Union|SEIU]] · [[Frank Pallone]]"
 last-enriched: "2026-04-13"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline; run congress pipeline"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-total-received: "$431,662"
-fec-candidate-id: "H4CA23011"
+reenrich-reason: run fec pipeline; run congress pipeline
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+total-received: $431,662
+fec-candidate-id: H4CA23011
 ---
 
 <!-- auto:data-panel start -->

@@ -1,17 +1,16 @@
 ---
-title: "Mike Pompeo"
+title: Mike Pompeo
 type: politician
 content-readiness: ready
-central-thesis: "Pompeo is the Koch brothers' direct product , Koch Industries funded his Kansas congressional campaigns, he built his pre-political business career with Koch venture capital seed money, he served their interests at CIA and State, and his post-gove..."
-last-updated: 2026-04-13
+central-thesis: Pompeo is the Koch brothers' direct product , Koch Industries funded his Kansas congressional campaigns, he built his pre-political business career with Koch venture capital seed money, he served their interests at CIA and State, and his post-gove...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Cabinet"
-state: "Kansas"
-state-abbr: "KS"
-top-donors:
-  - "Koch Network - Charles Koch"
+party: Republican
+chamber: Cabinet
+state: Kansas
+state-abbr: KS
+top-donors: "[[Koch Network - Charles Koch]]"
 govtrack-id: 412431
 bills-sponsored: 0
 bills-cosponsored: 0
@@ -20,8 +19,8 @@ source-types:
   - GovTrack
 corroboration-count: 2
 known-gaps:
-  - "No legislative record from Congress.gov"
-  - "No mapped relationships"
+  - No legislative record from Congress.gov
+  - No mapped relationships
 related: "[[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile]]"
 ---
 

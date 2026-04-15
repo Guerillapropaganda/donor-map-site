@@ -1,73 +1,65 @@
 ---
-title: "Fraternal Order of Police"
+title: Fraternal Order of Police
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Law Enforcement"
-entity-type: "Individual Donor"
+sector: Law Enforcement
+entity-type: Individual Donor
 ein: "933414548"
-nonprofit-status: "501(c)(8)"
+nonprofit-status: 501(c)(8)
 last-enriched: "2026-04-09"
 court-cases: 5883
 court-jurisdictions:
-  - "Court of Appeals for the D.C. Circuit"
-  - "Court of Appeals for the Second Circuit"
-  - "Court of Appeals for the Third Circuit"
-  - "District Court, D. South Carolina"
-  - "District Court, E.D. Tennessee"
-  - "District Court, N.D. Illinois"
-  - "District Court, S.D. Florida"
-  - "District Court, S.D. Illinois"
-  - "District Court, S.D. Ohio"
-  - "District Court, W.D. Pennsylvania"
+  - Court of Appeals for the D.C. Circuit
+  - Court of Appeals for the Second Circuit
+  - Court of Appeals for the Third Circuit
+  - District Court, D. South Carolina
+  - District Court, E.D. Tennessee
+  - District Court, N.D. Illinois
+  - District Court, S.D. Florida
+  - District Court, S.D. Illinois
+  - District Court, S.D. Ohio
+  - District Court, W.D. Pennsylvania
 lobbying-spend: 2529500
 lobbying-filings: 64
 sec-filings: 288
 sec-form-types:
-  - "10-K"
-  - "10-Q"
-  - "10KSB"
-  - "10KSB/A"
-  - "10QSB"
-  - "424B3"
-  - "485BPOS"
-  - "8-K"
-  - "DEF 14A"
-  - "EX-13"
-  - "EX-99"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "PRE 14A"
-  - "S-1"
-  - "S-1/A"
-  - "S-4"
-  - "S-4/A"
-  - "SC 14F1"
-related: "[[The Sheriff-to-Governor Pipeline and Law Enforcement Politics]] · [[International Association of Chiefs of Police]] · [[CCPOA - California Correctional Peace Officers Association|CCPOA]] · [[PORAC - Peace Officers Research Association of California|PORAC]] · [[Mark Green]] · [[Markwayne Mullin]] · [[John Cornyn]] · [[Amy Klobuchar]] · [[Sheldon Whitehouse]] · [[Sherrod Brown]] · [[CoreCivic - Private Prisons]] · [[Josh Green]]"
+  - 10-K
+  - 10-Q
+  - 10KSB
+  - 10KSB/A
+  - 10QSB
+  - 424B3
+  - 485BPOS
+  - 8-K
+  - DEF 14A
+  - EX-13
+  - EX-99
+  - EX-99.1
+  - EX-99.2
+  - PRE 14A
+  - S-1
+  - S-1/A
+  - S-4
+  - S-4/A
+  - SC 14F1
+related: "[[The Sheriff-to-Governor Pipeline and Law Enforcement Politics]] · [[International Association of Chiefs of Police]] · [[CCPOA - California Correctional Peace Officers Association|CCPOA]] · [[PORAC - Peace Officers Research Association of California|PORAC]] · [[Mark Green]] · [[Markwayne Mullin]] · [[John Cornyn]] · [[Amy Klobuchar]] · [[Sheldon Whitehouse]] · [[Sherrod Brown]] · [[CoreCivic - Private Prisons]]"
 federal-register-mentions: 29
 regulatory-agencies:
-  - "Defense Department"
-  - "Education Department"
-  - "Employee Benefits Security Administration"
-  - "Federal Communications Commission"
-  - "Federal Contract Compliance Programs Office"
-  - "Federal Election Commission"
-  - "Federal Motor Carrier Safety Administration"
-  - "Federal Reserve System"
-  - "Federal Trade Commission"
-  - "Fish and Wildlife Service"
-total-political-spend: "$454,168"
-politicians-funded:
-  - "Josh Green"
-  - "Mark Green"
-  - "Donald Trump"
-  - "John Cornyn"
-  - "Sherrod Brown"
-  - "Amy Klobuchar"
-  - "Markwayne Mullin"
-  - "Sheldon Whitehouse"
+  - Defense Department
+  - Education Department
+  - Employee Benefits Security Administration
+  - Federal Communications Commission
+  - Federal Contract Compliance Programs Office
+  - Federal Election Commission
+  - Federal Motor Carrier Safety Administration
+  - Federal Reserve System
+  - Federal Trade Commission
+  - Fish and Wildlife Service
+total-political-spend: $454,168
+politicians-funded: "[[Mark Green]], [[Sheldon Whitehouse]], [[John Cornyn]], [[Donald Trump]], [[Markwayne Mullin]], [[Amy Klobuchar]], [[Sherrod Brown]], [[Josh Green]]"
 cross-vault-triangulation-count: 4
 audit-a-plus-passed: "2026-04-11"
 ---

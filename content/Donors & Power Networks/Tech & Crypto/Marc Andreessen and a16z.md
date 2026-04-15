@@ -1,16 +1,17 @@
 ---
-title: "Marc Andreessen and a16z"
+title: Marc Andreessen and a16z
 type: donor
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-08T00:00:00.000Z
 source-tier: null
 parent: null
-sector: "Tech & Crypto"
-entity-type: "Individual Donor"
+sector: Tech & Crypto
+entity-type: Individual Donor
 related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Lex Fridman]] · [[Bari Weiss]] · [[Matt Taibbi]] · [[Joe Rogan]]"
 known-gaps:
-  - "No FEC contribution data"
-  - "No lobbying disclosure data"
+  - No FEC contribution data
+  - No lobbying disclosure data
+politicians-funded: "[[Bari Weiss]], [[Lex Fridman]]"
 ---
 
 

@@ -1,24 +1,22 @@
 ---
-title: "Scott Bessent"
+title: Scott Bessent
 type: politician
 content-readiness: draft
 central-thesis: "Scott Bessent proves the donor class has no party , only interests. He spent 13 years managing George Soros's money, helped break the Bank of England for content-readiness: draft billion profit, launched his own fund with $2 billion of Soros's capital, then pivoted to ..."
-last-updated: 2026-04-09
+last-updated: 2026-04-09T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Cabinet"
+party: Republican
+chamber: Cabinet
 issues:
-  - "Wall Street & Finance"
-top-donors:
-  - "Goldman Sachs"
-  - "Elon Musk"
+  - Wall Street & Finance
+top-donors: "[[Elon Musk]], [[Goldman Sachs]]"
 source-types:
   - FEC
 known-gaps:
-  - "No legislative record from Congress.gov"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No legislative record from Congress.gov
+  - No voting record data
+  - No mapped relationships
 related: "[[_Donald Trump Master Profile]] · [[Goldman Sachs]] · [[The Wall Street-Schumer Funding Axis]] · [[_Chuck Schumer Master Profile]] · [[Elon Musk|Elon Musk - Tesla SpaceX X]]"
 ---
 

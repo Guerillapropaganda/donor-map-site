@@ -1,62 +1,63 @@
 ---
-title: "Microsoft"
+title: Microsoft
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Tech & Crypto"
-entity-type: "Corporation"
+sector: Tech & Crypto
+entity-type: Corporation
 issues:
-  - "Technology"
-  - "Antitrust & Monopoly"
-  - "Defense & Military"
+  - Technology
+  - Antitrust & Monopoly
+  - Defense & Military
 lobbying-spend: 20724000
 lobbying-filings: 56
 ein: 916374992
-annual-revenue: "$956K"
-net-assets: "$2.8M"
+annual-revenue: $956K
+net-assets: $2.8M
 tax-year: "2022"
 court-cases: 92830
 last-enriched: "2026-04-08"
 court-jurisdictions:
-  - "Court of Appeals for the First Circuit"
-  - "District Court, D. Delaware"
-  - "District Court, D. Kansas"
-  - "District Court, E.D. Pennsylvania"
-  - "District Court, E.D. Texas"
-  - "District Court, N.D. California"
-  - "District Court, N.D. Illinois"
-  - "District Court, N.D. New York"
-  - "District Court, S.D. Florida"
-  - "District Court, S.D. New York"
+  - Court of Appeals for the First Circuit
+  - District Court, D. Delaware
+  - District Court, D. Kansas
+  - District Court, E.D. Pennsylvania
+  - District Court, E.D. Texas
+  - District Court, N.D. California
+  - District Court, N.D. Illinois
+  - District Court, N.D. New York
+  - District Court, S.D. Florida
+  - District Court, S.D. New York
 cpsc-recalls: 1
 subawards-issued: 50
 subawards-issued-amount: 350724763
 subawards-received: 50
 subawards-received-amount: 350724763
-top-federal-agency: "Department of Defense"
+top-federal-agency: Department of Defense
 top-naics-code: "541512"
-lei: "967600DJA1Q8K13MZ845"
-lei-jurisdiction: "BE"
+lei: 967600DJA1Q8K13MZ845
+lei-jurisdiction: BE
 federal-register-mentions: 10000
 regulatory-agencies:
-  - "Agriculture Department"
-  - "Commerce Department"
-  - "Defense Department"
-  - "Education Department"
-  - "Energy Department"
-  - "Federal Communications Commission"
-  - "Federal Energy Regulatory Commission"
-  - "Food and Nutrition Service"
-  - "Housing and Urban Development Department"
-  - "National Oceanic and Atmospheric Administration"
+  - Agriculture Department
+  - Commerce Department
+  - Defense Department
+  - Education Department
+  - Energy Department
+  - Federal Communications Commission
+  - Federal Energy Regulatory Commission
+  - Food and Nutrition Service
+  - Housing and Urban Development Department
+  - National Oceanic and Atmospheric Administration
 related: "[[The Judiciary Committee and Tech Accountability]] · [[The Appropriations Vice Chair and Defense-Healthcare Axis]] · [[The Venture Capital Senator - Tech Wealth in the Senate]] · [[The Commerce Committee and Boeing Washington]] · [[The Commerce Committee and Big Tech Jurisdiction]] · [[The Climate and Commerce Committee Jurisdiction]] · [[The Antitrust Crusade and Legislative Stalling]] · [[The Immigration and Administration Committees - Silicon Valley Gatekeeper]] · [[Ro Khanna Master Profile]] · [[The Silicon Valley Progressive and Tech Industry Alignment]] · [[Patty Murray]] · [[Google - Alphabet]] · [[Amazon]] · [[Apple]] · [[OpenAI]] · [[Palantir Technologies]] · [[Cathy McMorris Rodgers Master Profile]] · [[Amy Klobuchar]] · [[Oracle]] · [[Pramila Jayapal]] · [[Nvidia]] · [[Meta - Facebook]] · [[Anthropic]] · [[AI Regulation and Tech Donors]] · [[Bill Gates]]"
 federal-awards-total: 470321891
 federal-contracts-count: 25
 federal-grants-count: 0
 cross-vault-triangulation-count: 18
 audit-a-plus-passed: "2026-04-11"
+politicians-funded: "[[Patty Murray]]"
 ---
 
 <!-- auto:data-panel start -->

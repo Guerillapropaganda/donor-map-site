@@ -1,24 +1,23 @@
 ---
-title: "Barre Seid"
+title: Barre Seid
 type: donor
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Mega-Donors"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Rand Paul"
+sector: Mega-Donors
+entity-type: Individual Donor
+politicians-funded: "[[Rand Paul]]"
 ein: "363342443"
-annual-revenue: "$642K"
-net-assets: "$341K"
+annual-revenue: $642K
+net-assets: $341K
 tax-year: "2023"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-11"
 total-revenue: 701289
 total-assets: 279469
 related: "[[Federalist Society]] · [[Leonard Leo]] · [[Marble Freedom Trust]] · [[The 85 Fund]] · [[Sentinel Action Fund]] · [[_Clarence Thomas Master Profile|Thomas]]"
-total-political-spend: "$266,480"
+total-political-spend: $266,480
 cross-vault-triangulation-count: 6
 audit-a-plus-passed: "2026-04-11"
 ---

@@ -1,61 +1,58 @@
 ---
-title: "Real Estate Roundtable"
+title: Real Estate Roundtable
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Real Estate"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Donald Trump"
+sector: Real Estate
+entity-type: Individual Donor
+politicians-funded: "[[Jason Smith]], [[Donald Trump]]"
 issues:
-  - "Housing"
-  - "Dark Money & Campaign Finance"
+  - Housing
+  - Dark Money & Campaign Finance
 ein: "521128863"
-annual-revenue: "$8.0M"
-net-assets: "$7.1M"
+annual-revenue: $8.0M
+net-assets: $7.1M
 tax-year: "2024"
 ofac-sdn-match: "true"
 last-enriched: "2026-04-15"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 ofac-programs:
-  - "SDNTK"
-  - "UKRAINE-EO13662] [RUSSIA-EO14024"
-  - "SDGT"
-  - "PAARSSR-EO13894"
-  - "RUSSIA-EO14024"
-  - "IRAN-EO13846"
-  - "GLOMAG"
-  - "DPRK2"
-  - "ILLICIT-DRUGS-EO14059"
-  - "TCO"
+  - SDNTK
+  - UKRAINE-EO13662] [RUSSIA-EO14024
+  - SDGT
+  - PAARSSR-EO13894
+  - RUSSIA-EO14024
+  - IRAN-EO13846
+  - GLOMAG
+  - DPRK2
+  - ILLICIT-DRUGS-EO14059
+  - TCO
 related: "[[Housing - Donors and Backers]] · [[Jason Smith]] · [[The Real Estate President and the Fair Housing Demolition]] · [[_Donald Trump Master Profile|Trump]] · [[Real Estate Industry Bloc]] · [[CBRE Group]] · [[Blackstone Real Estate]]"
-nonprofit-status: "501(c)(6)"
+nonprofit-status: 501(c)(6)
 total-revenue: 8265540
 total-assets: 6316098
 sec-filings: 2952
 sec-form-types:
-  - "10-K/A"
+  - 10-K/A
   - "4"
-  - "424B3"
+  - 424B3
   - "425"
-  - "6-K"
-  - "8-K"
-  - "8-K12G3"
-  - "ARS"
-  - "DEF 14A"
-  - "DEFA14A"
-  - "DFAN14A"
-  - "EX-99"
-  - "EX-99.1"
-  - "LETTER"
-  - "PX14A6G"
+  - 6-K
+  - 8-K
+  - 8-K12G3
+  - ARS
+  - DEF 14A
+  - DEFA14A
+  - DFAN14A
+  - EX-99
+  - EX-99.1
+  - LETTER
+  - PX14A6G
 cross-vault-triangulation-count: 7
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

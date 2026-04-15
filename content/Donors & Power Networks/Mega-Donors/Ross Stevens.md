@@ -1,59 +1,58 @@
 ---
-title: "Ross Stevens"
+title: Ross Stevens
 type: donor
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Mega-Donors"
-entity-type: "Individual Donor"
+sector: Mega-Donors
+entity-type: Individual Donor
 issues:
-  - "Technology"
-  - "Wall Street & Finance"
+  - Technology
+  - Wall Street & Finance
 court-cases: 24
 last-enriched: "2026-04-06"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 court-jurisdictions:
-  - "District Court, D. Connecticut"
-  - "District Court, D. Delaware"
-  - "District Court, D. New Hampshire"
-  - "District Court, D. South Carolina"
-  - "District Court, N.D. California"
-  - "District Court, S.D. New York"
-  - "District Court, W.D. Wisconsin"
-  - "United States Bankruptcy Court, C.D. California"
-  - "United States Bankruptcy Court, D. Delaware"
-  - "United States Bankruptcy Court, D. Oregon"
+  - District Court, D. Connecticut
+  - District Court, D. Delaware
+  - District Court, D. New Hampshire
+  - District Court, D. South Carolina
+  - District Court, N.D. California
+  - District Court, S.D. New York
+  - District Court, W.D. Wisconsin
+  - United States Bankruptcy Court, C.D. California
+  - United States Bankruptcy Court, D. Delaware
+  - United States Bankruptcy Court, D. Oregon
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
 sec-filings: 1666
 sec-form-types:
-  - "EX-99"
-  - "EX-99.(16)"
-  - "EX-99.(K)(3)"
-  - "EX-99.(K)(4)"
-  - "EX-99.(K)(5)"
-  - "EX-99.(Q)"
-  - "EX-99.(Q)(2)"
-  - "EX-99.(S)"
-  - "EX-99.(T)"
-  - "EX-99.12 TAX OPINION"
-  - "EX-99.16"
-  - "EX-99.CERT"
-  - "LETTER"
-  - "SC 13G"
-  - "SC 13G/A"
-  - "TEXT-EXTRACT"
+  - EX-99
+  - EX-99.(16)
+  - EX-99.(K)(3)
+  - EX-99.(K)(4)
+  - EX-99.(K)(5)
+  - EX-99.(Q)
+  - EX-99.(Q)(2)
+  - EX-99.(S)
+  - EX-99.(T)
+  - EX-99.12 TAX OPINION
+  - EX-99.16
+  - EX-99.CERT
+  - LETTER
+  - SC 13G
+  - SC 13G/A
+  - TEXT-EXTRACT
 related: "[[The Ohio Governor Race and the Billionaire Super PAC]] · [[Ohio 2026 Governor Race - The Structural Landscape]] · [[Fairshake PAC - Crypto Super PAC]] · [[Crypto Industry Bloc]] · [[Coinbase]] · [[Club for Growth]] · [[Vivek Ramaswamy]] · [[Vivek Ramaswamy Master Profile]]"
 lobbying-spend: 925000
 lobbying-filings: 70
-lei: "549300Q6W4JNCJR4LU44"
-lei-jurisdiction: "US-WI"
+lei: 549300Q6W4JNCJR4LU44
+lei-jurisdiction: US-WI
 cross-vault-triangulation-count: 6
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+politicians-funded: "[[Vivek Ramaswamy]]"
 ---
 
 <!-- auto:data-panel start -->

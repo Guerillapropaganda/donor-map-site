@@ -1,65 +1,60 @@
 ---
-title: "Founders Fund"
+title: Founders Fund
 type: donor
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Tech & Crypto"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "JD Vance"
-  - "David Sacks"
-  - "Donald Trump"
+sector: Tech & Crypto
+entity-type: Individual Donor
+politicians-funded: "[[Donald Trump]], [[David Sacks (Donor Network)]], [[JD Vance]], [[David Sacks]]"
 issues:
-  - "Technology"
-  - "Defense & Military"
-  - "Dark Money & Campaign Finance"
+  - Technology
+  - Defense & Military
+  - Dark Money & Campaign Finance
 federal-contracts: "2662"
 ein: "863992946"
-annual-revenue: "$1.2M"
-net-assets: "$421K"
+annual-revenue: $1.2M
+net-assets: $421K
 tax-year: "2023"
-lei: "254900B4R5J7N0865R59"
-lei-jurisdiction: "LU"
+lei: 254900B4R5J7N0865R59
+lei-jurisdiction: LU
 related: "[[Joe Rogan]] · [[Invariant]] · [[Ajay Royan]] · [[Peter Thiel]] · [[Palantir Technologies]] · [[_JD Vance Master Profile|JD Vance]] · [[_David Sacks Master Profile|David Sacks]] · [[Mithril Capital]] · [[Elon Musk]] · [[Anduril Industries]] · [[_Donald Trump Master Profile|Donald Trump]] · [[Silicon Valley Donors]] · [[Palantir Technologies Political Operation]] · [[Narya Capital]]"
 court-cases: 157
 last-enriched: "2026-04-09"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 court-jurisdictions:
-  - "Court of Appeals for the Fifth Circuit"
-  - "District Court, D. Delaware"
-  - "District Court, D. Massachusetts"
-  - "District Court, E.D. New York"
-  - "District Court, E.D. Pennsylvania"
-  - "District Court, E.D. Texas"
-  - "District Court, N.D. California"
-  - "District Court, N.D. Georgia"
-  - "District Court, N.D. Texas"
-  - "District Court, S.D. New York"
-nonprofit-status: "501(c)(3)"
+  - Court of Appeals for the Fifth Circuit
+  - District Court, D. Delaware
+  - District Court, D. Massachusetts
+  - District Court, E.D. New York
+  - District Court, E.D. Pennsylvania
+  - District Court, E.D. Texas
+  - District Court, N.D. California
+  - District Court, N.D. Georgia
+  - District Court, N.D. Texas
+  - District Court, S.D. New York
+nonprofit-status: 501(c)(3)
 total-revenue: 1887693
 total-assets: 1396799
 sec-filings: 9104
 sec-form-types:
   - "3"
   - "4"
-  - "4/A"
-  - "D"
-  - "D/A"
-  - "EX-24.4_990308"
-  - "EX-99.28.H.40"
-  - "EX-99.28.N.3"
-  - "SC 13D"
-  - "SC 13D/A"
-  - "SC 13G"
-  - "SC 13G/A"
-  - "SCHEDULE 13D"
+  - 4/A
+  - D
+  - D/A
+  - EX-24.4_990308
+  - EX-99.28.H.40
+  - EX-99.28.N.3
+  - SC 13D
+  - SC 13D/A
+  - SC 13G
+  - SC 13G/A
+  - SCHEDULE 13D
 cross-vault-triangulation-count: 14
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

@@ -1,52 +1,49 @@
 ---
-title: "Cori Bush"
+title: Cori Bush
 type: politician
 content-readiness: ready
 central-thesis: "Bush's political trajectory is a case study in how the donor class neutralizes progressive insurgents through a multi-pressure vector strategy. The triggering event is legible in the Congressional record: on October 25, 2023, Bush introduced H.Res..."
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "Former House"
-state: "Missouri"
-state-abbr: "MO"
+party: Democrat
+chamber: Former House
+state: Missouri
+state-abbr: MO
 district: "1"
-bioguide-id: "B001224"
+bioguide-id: B001224
 govtrack-id: 456829
 bills-sponsored: 38
 bills-cosponsored: 756
-total-received: "$534,492"
-fec-candidate-id: "H8MO01143"
-fec-committee-id: "C00638767"
+total-received: $534,492
+fec-candidate-id: H8MO01143
+fec-committee-id: C00638767
 issues:
-  - "Agriculture and Food"
-  - "Armed Forces and National Security"
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Crime and Law Enforcement"
-  - "Education"
-  - "Environmental Protection"
-  - "Finance and Financial Sector"
-  - "Government Operations and Politics"
-  - "Health"
-  - "Housing and Community Development"
+  - Agriculture and Food
+  - Armed Forces and National Security
+  - Civil Rights and Liberties, Minority Issues
+  - Crime and Law Enforcement
+  - Education
+  - Environmental Protection
+  - Finance and Financial Sector
+  - Government Operations and Politics
+  - Health
+  - Housing and Community Development
 related: "[[_Jamaal Bowman Master Profile|Jamaal Bowman]] · [[Justice Democrats and Brand New Congress - The Infrastructure He Built]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[_Alexandria Ocasio-Cortez Master Profile|Alexandria Ocasio-Cortez]] · [[_Ilhan Omar Master Profile|Ilhan Omar]] · [[_Ayanna Pressley Master Profile|Ayanna Pressley]] · [[United Democracy Project - UDP]] · [[Fairshake PAC]] · [[Bernie Sanders Master Profile]] · [[Pramila Jayapal]]"
-donors:
-  - "Justice Democrats PAC"
-  - "Working Families Party PAC"
-  - "Small dollar grassroots"
+donors: "[[FAIRSHAKE]], [[Mainstream Democrats Pac]], [[Justice Democrats PAC]], [[UNITED DEMOCRACY PROJECT ('UDP')]], [[JUSTICE DEMOCRATS PAC]]"
 opposes:
-  - "AIPAC"
-  - "United Democracy Project"
-  - "Fairshake PAC"
-  - "Mainstream Democrats PAC"
-  - "Wesley Bell"
+  - AIPAC
+  - United Democracy Project
+  - Fairshake PAC
+  - Mainstream Democrats PAC
+  - Wesley Bell
 source-types:
   - Congress
   - FEC
   - GovTrack
 corroboration-count: 3
-editorial-review-date: '2026-04-10'
-editorial-reviewer: "Research Claude"
+editorial-review-date: "2026-04-10"
+editorial-reviewer: Research Claude
 editorial-result: pass
 editorial-blockers: []
 editorial-notes: "Two-pass review on 2026-04-10: (Pass 1 — cleanup) Fixed 8 flags from Code Claude demotion aftermath: folded auto:govtrack pending-merge into main block, fixed [!contradiction-cleared] non-standard callout, fixed 3 broken wikilinks (Bowman/Justice Democrats/Pressley), structured donors/opposes as YAML lists, added issues field, restored known-gaps, updated editorial state block→pass, chamber House→Former House, added N/A note under dangling Committee Assignments section. (Pass 2 — pipeline integration) Integrated fresh pipeline data from 2026-04-10 engine fix verification: added H.Res. 786 ceasefire resolution (Oct 25, 2023) as the trigger event in Central Thesis, added H.Res. 634 (Unhoused Persons Bill of Rights), H.Con.Res. 92 (Mary Meachum Freedom Crossing), H.R. 8470 (Helping Families Heal Act) to Donation-to-Policy Timeline, built 5-cycle FEC fundraising arc table (2018 $177K → 2024 $4.17M → 2026 $534K), added full 2024 IE spending breakdown table ($13.97M opposition vs $4.4M support = 3.17x ratio), strengthened Grassroots-Only Rebrand with $0 PAC specifics, added 3 new Analytical Patterns (Multi-Pressure Vector Targeting, Fundraising Arc Inversion, Grassroots Insulation Limit). Profile now at 5 analytical patterns matching depth of Tlaib/Omar/Pressley/Khanna/Whitehouse/Warnock verified-candidates. Pipeline data all verified clean post-engine-fixes. No A000383 contamination, no DOJ false positives. Ready for David's verified sign-off decision."
@@ -66,20 +63,18 @@ known-gaps:
   - Federal indictment (Aug 2025) outcome pending — court filings need citation once resolved
 last-enriched: "2026-04-15"
 needs-reenrichment: true
-reenrich-reason: "re-run congress pipeline"
-internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
-  • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
-
-[URL Check 2026-04-09] 12 checked: 8 ok, 3 broken, 1 slow. | BROKEN: bush.house.gov: About | BROKEN: Politico: Cori Bush comeback bid | BROKEN: Source: Congress.gov | SLOW: Source: GovTrack.us | [RESEARCH] Needs Research Claude: Connections sparse: only 1 in YAML, body mentions AIPAC/Justice Democrats/DMFI not mapped | [RESEARCH] Needs Research Claude: Unresolved [!contradiction] about anti-establishment brand vs self-dealing | [RESEARCH] Needs Research Claude: bush.house.gov marked (URL NEEDED) — site likely dead since she left office | [RESEARCH] Needs Research Claude: committee-assignments: N/A (lost 2024 primary, no longer in Congress) | [URL Check 2026-04-09] 11 checked: 8 ok, 3 broken, 0 slow. | BROKEN: Politico: Cori Bush announces 2026 comeback bid | BROKEN: Source: Congress.gov | BROKEN: Source: Congress.gov | [CODE @ 2026-04-09] Pipeline: congress completed for Cori Bush. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24174767515 | [CODE @ 2026-04-10] DEMOTED ready→draft. Reasons: (1) auto:congress-legislation and auto:committee-assignments blocks contained wrong bioguide A000383 (pipeline fuzzy-match bug, now fixed) — removed. (2) auto:govtrack block showed 0/0 bills but frontmatter says 39/756 — stripped for re-run. (3) Body marker falsely said (VERIFIED) on stale data. Needs Research Claude re-review after pipelines run fresh. | [CODE @ 2026-04-10] Pipeline: govtrack completed for Cori Bush. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24252644830 | [CODE @ 2026-04-10] Pipeline: congress completed for Cori Bush. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24254283707"
-total-raised: "$534,492"
-total-spent: "$352,962"
+reenrich-reason: re-run congress pipeline
+internal-notes: |-
+  [JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+  [URL Check 2026-04-09] 12 checked: 8 ok, 3 broken, 1 slow. | BROKEN: bush.house.gov: About | BROKEN: Politico: Cori Bush comeback bid | BROKEN: Source: Congress.gov | SLOW: Source: GovTrack.us | [RESEARCH] Needs Research Claude: Connections sparse: only 1 in YAML, body mentions AIPAC/Justice Democrats/DMFI not mapped | [RESEARCH] Needs Research Claude: Unresolved [!contradiction] about anti-establishment brand vs self-dealing | [RESEARCH] Needs Research Claude: bush.house.gov marked (URL NEEDED) — site likely dead since she left office | [RESEARCH] Needs Research Claude: committee-assignments: N/A (lost 2024 primary, no longer in Congress) | [URL Check 2026-04-09] 11 checked: 8 ok, 3 broken, 0 slow. | BROKEN: Politico: Cori Bush announces 2026 comeback bid | BROKEN: Source: Congress.gov | BROKEN: Source: Congress.gov | [CODE @ 2026-04-09] Pipeline: congress completed for Cori Bush. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24174767515 | [CODE @ 2026-04-10] DEMOTED ready→draft. Reasons: (1) auto:congress-legislation and auto:committee-assignments blocks contained wrong bioguide A000383 (pipeline fuzzy-match bug, now fixed) — removed. (2) auto:govtrack block showed 0/0 bills but frontmatter says 39/756 — stripped for re-run. (3) Body marker falsely said (VERIFIED) on stale data. Needs Research Claude re-review after pipelines run fresh. | [CODE @ 2026-04-10] Pipeline: govtrack completed for Cori Bush. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24252644830 | [CODE @ 2026-04-10] Pipeline: congress completed for Cori Bush. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24254283707
+total-raised: $534,492
+total-spent: $352,962
 cash-on-hand: "203864.16"
 fec-cycle: 2026
 fec-debt: "13374.55"
-wikidata-id: "Q98084800"
-wikipedia-url: "https://en.wikipedia.org/wiki/Cori_Bush"
-wikipedia-extract: "Cori Anika Bush is an American politician, nurse, pastor, and Black Lives Matter activist who served as the U.S. representative for Missouri's 1st congressional district from 2021 to 2025."
+wikidata-id: Q98084800
+wikipedia-url: https://en.wikipedia.org/wiki/Cori_Bush
+wikipedia-extract: Cori Anika Bush is an American politician, nurse, pastor, and Black Lives Matter activist who served as the U.S. representative for Missouri's 1st congressional district from 2021 to 2025.
 born: "1976-07-21"
 ---
 
@@ -253,7 +248,7 @@ The DOJ indictment over $102,500 in security payments to Bush's husband compound
 - [Source: Congress.gov](https://www.congress.gov/member/cori-bush/B001224) (Tier 1) (VERIFIED: Removed from bad)
 <!-- auto:congress-legislation end -->
 
-<!-- auto:congress-legislation pending-merge 2026-04-11 -->
+<!-- auto:congress-legislation pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -281,7 +276,7 @@ The DOJ indictment over $102,500 in security payments to Bush's husband compound
 | 4901 | Reproductive Health Care Accessibility Act | Referred to the Subcommittee on Health. |
 | 4699 | The People’s Response Act | Referred to the Subcommittee on Health. |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/B001224)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Source: Congress.gov](https://www.congress.gov/member/B001224) (Tier 1)
 
 <!-- auto:congress-legislation pending-merge end -->
 
@@ -489,6 +484,16 @@ _No committee data found._
 - ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
+<!-- auto:committee-assignments pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+_No committee data found._
+
+- [Source: Congress.gov](https://www.congress.gov/member/B001224) (Tier 1)
+
+<!-- auto:committee-assignments pending-merge end -->
+
 ### Campaign Finance Summary (FEC)
 <!-- auto:fec-summary start -->
 | Metric | Value |
@@ -514,6 +519,35 @@ _No committee data found._
 
 - {{src:src_006283}} (Tier 1)
 <!-- auto:fec-summary end -->
+
+<!-- auto:fec-summary pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $534,492 |
+| Total Spent | $352,962 |
+| Cash on Hand | 203864.16 |
+| Debt | 13374.55 |
+| Individual Contributions | $377,596 |
+| PAC Contributions | $0 |
+| Coverage Through | 2025-12-31 |
+
+**Fundraising history:**
+
+| Cycle | Raised | Spent | Cash on Hand |
+|-------|--------|-------|-------------|
+| 2026 | $534,492 | $352,962 | 203864.16 |
+| 2024 | $4,165,846 | $4,154,359 | 22333.49 |
+| 2022 | $2,448,937 | $2,522,593 | 10847.18 |
+| 2020 | $1,429,837 | $1,345,334 | 84502.71 |
+| 2018 | $177,038 | $177,038 | 0.00 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8MO01143/) (Tier 1)
+
+<!-- auto:fec-summary pending-merge end -->
 
 ### Wikipedia
 <!-- auto:wikipedia start -->

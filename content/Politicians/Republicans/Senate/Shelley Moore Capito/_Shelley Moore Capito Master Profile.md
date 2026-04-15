@@ -2,8 +2,8 @@
 title: Shelley Moore Capito
 type: politician
 content-readiness: ready
-central-thesis: "Shelley Moore Capito chairs the committee that regulates the fossil fuel industry — and the fossil fuel industry is her largest donor class, her state's economic backbone, and her family's employer. The EPW Committee oversees the EPA, the Clean Ai..."
-last-updated: 2026-04-13
+central-thesis: Shelley Moore Capito chairs the committee that regulates the fossil fuel industry — and the fossil fuel industry is her largest donor class, her state's economic backbone, and her family's employer. The EPW Committee oversees the EPA, the Clean Ai...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Republican
@@ -15,9 +15,8 @@ committees:
 issues:
   - Environment
   - Infrastructure
-top-donors:
-  - Koch Network
-total-received: '$4,455,752'
+top-donors: "[[TAKE ME HOME WV ACTION]], [[Senate Majority PAC]], [[US CHAMBER OF COMMERCE]], [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]], [[Koch Network]]"
+total-received: $4,455,752
 fec-candidate-id: S4WV00159
 stock-trades: 347
 stock-trade-tickers:
@@ -34,7 +33,7 @@ stock-trade-tickers:
 govtrack-id: 400061
 bills-sponsored: 24
 bills-cosponsored: 278
-website: 'https://www.capito.senate.gov'
+website: https://www.capito.senate.gov
 phone: 202-224-6472
 source-types:
   - FEC
@@ -43,7 +42,7 @@ corroboration-count: 2
 known-gaps:
   - No legislative record from Congress.gov
   - No mapped relationships
-opposes: '[[SENATE MAJORITY PAC]]'
+opposes: "[[SENATE MAJORITY PAC]]"
 related: "[[_Joe Manchin Master Profile|Manchin]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch|Koch Network]]"
 ---
 

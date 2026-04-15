@@ -1,23 +1,24 @@
 ---
-title: "Chris Christie"
+title: Chris Christie
 type: politician
-party: "Independent"
+party: Independent
 content-readiness: draft
-central-thesis: "Christie's political career is a demonstration of how prosecuting a billionaire creates permanent class consequences. In 2005, as U.S. Attorney for New Jersey, Christie secured guilty pleas from Charles Kushner for tax evasion, campaign finance vi..."
-last-updated: 2026-04-07
+central-thesis: Christie's political career is a demonstration of how prosecuting a billionaire creates permanent class consequences. In 2005, as U.S. Attorney for New Jersey, Christie secured guilty pleas from Charles Kushner for tax evasion, campaign finance vi...
+last-updated: 2026-04-07T00:00:00.000Z
 source-tier: 1
 parent: null
-total-received: "$7,628,085"
-fec-candidate-id: "P60008521"
+total-received: $7,628,085
+fec-candidate-id: P60008521
 source-types:
   - Congress
   - DOJ
   - FEC
 corroboration-count: 3
 known-gaps:
-  - "No voting record data"
-  - "No mapped relationships"
+  - No voting record data
+  - No mapped relationships
 related: "[[_Jared Kushner Master Profile]] · [[_Donald Trump Master Profile]]"
+top-donors: "[[Conservative Solutions PAC]], [[America Leads]], [[Tell It Like It Is Pac]]"
 ---
 #christie #independent #former-governor #new-jersey #bridgegate #anti-trump #kushner-vendetta #2024-candidate #class-analysis
 tags: #independent

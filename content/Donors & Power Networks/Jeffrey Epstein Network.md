@@ -1,32 +1,26 @@
 ---
-title: "Jeffrey Epstein Network"
+title: Jeffrey Epstein Network
 type: donor
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-09T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Jeffrey Epstein Network.md"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Donald Trump"
-  - "JD Vance"
-  - "Steve Bannon"
-  - "Robert F. Kennedy Jr."
+sector: Jeffrey Epstein Network.md
+entity-type: Individual Donor
+politicians-funded: "[[JD Vance]], [[Steve Bannon]], [[Donald Trump]]"
 issues:
-  - "Dark Money & Campaign Finance"
+  - Dark Money & Campaign Finance
 lobbying-spend: 1699750
 lobbying-filings: 70
 related: "[[Les Wexner - Wexner Family Enterprises]] · [[Leonard Leo]] · [[Peter Thiel]] · [[Harlan Crow]] · [[_Donald Trump Master Profile]] · [[_JD Vance Master Profile]] · [[Steve Bannon]]"
 court-cases: 1
 last-enriched: "2026-04-09"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 court-jurisdictions:
-  - "District Court, S.D. New York"
+  - District Court, S.D. New York
 cross-vault-triangulation-count: 6
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

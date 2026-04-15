@@ -418,7 +418,7 @@ L3Harris represents the defense sector's "invisible infrastructure" model of pol
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
-<!-- auto:usaspending-subawards pending-merge 2026-04-11 -->
+<!-- auto:usaspending-subawards pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -454,7 +454,7 @@ L3Harris represents the defense sector's "invisible infrastructure" model of pol
 |--------|--------|
 | Department of Transportation | $3.3B |
 | National Aeronautics and Space Administration | $1.6B |
-| Department of Commerce | $645.8M |
+| Department of Commerce | $645.4M |
 | Department of Homeland Security | $223.1M |
 | General Services Administration | $220.7M |
 | Department of Energy | $77.3M |
@@ -465,7 +465,7 @@ L3Harris represents the defense sector's "invisible infrastructure" model of pol
 
 | Sector | Amount |
 |--------|--------|
-| Other Aircraft Parts and Auxiliary Equipment Manufacturing (336413) | $7.9B |
+| Other Aircraft Parts and Auxiliary Equipment Manufacturing (336413) | $8.0B |
 | Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing (334220) | $6.1B |
 | Engineering Services (541330) | $4.8B |
 | Other Communications Equipment Manufacturing (334290) | $3.8B |

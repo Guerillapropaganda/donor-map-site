@@ -1,53 +1,52 @@
 ---
-title: "CalPERS"
+title: CalPERS
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-09T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Wall Street"
-entity-type: "Corporation"
-politicians-funded:
-  - "Gavin Newsom"
+sector: Wall Street
+entity-type: Corporation
+politicians-funded: "[[Betty Yee]], [[Gavin Newsom]]"
 issues:
-  - "Wall Street & Finance"
+  - Wall Street & Finance
 subawards-issued: 50
 subawards-issued-amount: 1009778941592127500
 subawards-received: 50
 subawards-received-amount: 1009778941592127500
-lei: "549300ZK777GYOOK5750"
-lei-jurisdiction: "LU"
+lei: 549300ZK777GYOOK5750
+lei-jurisdiction: LU
 sec-filings: 10000
 sec-form-types:
-  - "8-K"
-  - "CORRESP"
-  - "DEFA14A"
-  - "EX-10.20"
-  - "EX-10.25"
-  - "EX-10.27"
-  - "EX-5"
-  - "EX-99"
-  - "EX-99.(A)(8)"
-  - "EX-99.1"
-  - "PX14A6G"
-  - "PX14A6N"
-  - "SC 13D"
-  - "SC 13G"
-  - "SC TO-C"
+  - 8-K
+  - CORRESP
+  - DEFA14A
+  - EX-10.20
+  - EX-10.25
+  - EX-10.27
+  - EX-5
+  - EX-99
+  - EX-99.(A)(8)
+  - EX-99.1
+  - PX14A6G
+  - PX14A6N
+  - SC 13D
+  - SC 13G
+  - SC TO-C
 related: "[[Betty Yee Master Profile]] · [[The Controller Record and the Fiscal Accountability Question]] · [[CalSTRS - California State Teachers' Retirement System]] · [[CalSTRS]] · [[_Gavin Newsom Master Profile|Gavin Newsom]] · [[Blackstone Group]] · [[Carlyle Group]] · [[Apollo Global Management]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[SEIU - Service Employees International Union|SEIU]]"
 court-cases: 1381
 last-enriched: "2026-04-08"
 court-jurisdictions:
-  - "Court of Appeals for the D.C. Circuit"
-  - "District Court, C.D. California"
-  - "District Court, D. Maine"
-  - "District Court, D. Massachusetts"
-  - "District Court, D. Nevada"
-  - "District Court, District of Columbia"
-  - "District Court, E.D. California"
-  - "District Court, N.D. California"
-  - "District Court, N.D. Illinois"
-  - "District Court, S.D. California"
+  - Court of Appeals for the D.C. Circuit
+  - District Court, C.D. California
+  - District Court, D. Maine
+  - District Court, D. Massachusetts
+  - District Court, D. Nevada
+  - District Court, District of Columbia
+  - District Court, E.D. California
+  - District Court, N.D. California
+  - District Court, N.D. Illinois
+  - District Court, S.D. California
 lobbying-spend: 480000
 lobbying-filings: 14
 cross-vault-triangulation-count: 9

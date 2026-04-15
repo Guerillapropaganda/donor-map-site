@@ -1,40 +1,38 @@
 ---
-title: "Bryan Steil"
+title: Bryan Steil
 type: politician
 content-readiness: ready
-central-thesis: "Bryan Steil chairs the committee that writes federal election law — and his top donor sector is securities and investment ($721,840 in 2023-2024 alone), with Blackstone Group as a top individual donor ($56,500). Wall Street banks (Wells Fargo, Mor..."
-last-updated: 2026-04-13
+central-thesis: Bryan Steil chairs the committee that writes federal election law — and his top donor sector is securities and investment ($721,840 in 2023-2024 alone), with Blackstone Group as a top individual donor ($56,500). Wall Street banks (Wells Fargo, Mor...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "House"
-state: "Wisconsin"
-state-abbr: "WI"
+party: Republican
+chamber: House
+state: Wisconsin
+state-abbr: WI
 district: "1"
 issues:
-  - "Armed Forces and National Security"
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Commerce"
-  - "Congress"
-  - "Crime and Law Enforcement"
-  - "Economics and Public Finance"
-  - "Education"
-  - "Finance and Financial Sector"
-  - "Government Operations and Politics"
-  - "Health"
+  - Armed Forces and National Security
+  - Civil Rights and Liberties, Minority Issues
+  - Commerce
+  - Congress
+  - Crime and Law Enforcement
+  - Economics and Public Finance
+  - Education
+  - Finance and Financial Sector
+  - Government Operations and Politics
+  - Health
 top-donors:
-  - "Koch Network"
-total-received: "$3,443,146"
-fec-candidate-id: "H8WI01156"
-donors: "[[Insurance Industry]] · [[Stand Together]] · [[National Restaurant Association]]"
+  - Koch Network
+total-received: $3,443,146
+fec-candidate-id: H8WI01156
+donors: "[[Insurance Industry]] · [[Stand Together]] · [[National Restaurant Association]] · [[AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION]] · [[NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE]] · [[Koch Network]] · [[FAIRSHAKE]] · [[HMP]]"
 last-enriched: "2026-04-10"
 needs-reenrichment: true
-reenrich-reason: "re-run congress pipeline"
+reenrich-reason: re-run congress pipeline
 related: "[[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch|Koch Network]]"
-bioguide-id: "S001213"
-internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
-  • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+bioguide-id: S001213
+internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

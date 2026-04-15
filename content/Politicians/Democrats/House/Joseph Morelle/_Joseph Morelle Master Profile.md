@@ -1,32 +1,31 @@
 ---
-title: "Joseph Morelle"
+title: Joseph Morelle
 type: politician
 content-readiness: ready
-central-thesis: "Morelle is the institutional Democrat , a career legislator who spent nearly three decades in the Albany Assembly before moving to Congress, where he now oversees the mechanics of federal elections from the House Administration Committee. His dono..."
-last-updated: 2026-04-13
+central-thesis: Morelle is the institutional Democrat , a career legislator who spent nearly three decades in the Albany Assembly before moving to Congress, where he now oversees the mechanics of federal elections from the House Administration Committee. His dono...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "House"
-state: "New York"
-state-abbr: "NY"
+party: Democrat
+chamber: House
+state: New York
+state-abbr: NY
 district: "25"
 issues:
-  - "Agriculture and Food"
-  - "Armed Forces and National Security"
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Commerce"
-  - "Congress"
-  - "Crime and Law Enforcement"
-  - "Education"
-  - "Finance and Financial Sector"
-  - "Government Operations and Politics"
-  - "Health"
-top-donors:
-  - "Labor Unions"
-total-received: "$1,130,491"
-fec-candidate-id: "H8NY25105"
-bioguide-id: "M001206"
+  - Agriculture and Food
+  - Armed Forces and National Security
+  - Civil Rights and Liberties, Minority Issues
+  - Commerce
+  - Congress
+  - Crime and Law Enforcement
+  - Education
+  - Finance and Financial Sector
+  - Government Operations and Politics
+  - Health
+top-donors: "[[Labor Unions]], [[Planned Parenthood Votes]], [[Congressional Leadership Fund]], [[NEA ADVOCACY FUND]]"
+total-received: $1,130,491
+fec-candidate-id: H8NY25105
+bioguide-id: M001206
 source-types:
   - FEC
   - GovTrack
@@ -34,25 +33,25 @@ corroboration-count: 2
 needs-reenrichment: true
 reenrich-reason: "Bioguide recovered 2026-04-11 (was contaminated, now verified): M001206. Next pipeline run should populate Congress.gov + GovTrack auto-blocks with correct data."
 known-gaps:
-  - "No legislative record from Congress.gov"
-  - "No mapped relationships"
+  - No legislative record from Congress.gov
+  - No mapped relationships
 related: "[[_Chuck Schumer Master Profile|Chuck Schumer]]"
-last-enriched: "2026-04-13"
+last-enriched: "2026-04-15"
 committees:
-  - "House Committee on Appropriations"
-  - "House Committee on House Administration"
-  - "Joint Committee of Congress on the Library"
-  - "Joint Committee on Printing"
-internal-notes: "[MANUAL 2026-04-11] Bioguide recovered: M001206. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true , the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
-
-[JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
-total-raised: "$1,130,491"
-total-spent: "$880,386"
+  - House Committee on Appropriations
+  - House Committee on House Administration
+  - Joint Committee of Congress on the Library
+  - Joint Committee on Printing
+internal-notes: |-
+  [MANUAL 2026-04-11] Bioguide recovered: M001206. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true , the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
+  [JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided.
+total-raised: $1,130,491
+total-spent: $880,386
 cash-on-hand: "630309.86"
 fec-cycle: 2026
-wikidata-id: "Q6285623"
-wikipedia-url: "https://en.wikipedia.org/wiki/Joseph_Morelle"
-wikipedia-extract: "Joseph D. Morelle is an American politician serving as the U.S. representative for New York's 25th congressional district since 2018."
+wikidata-id: Q6285623
+wikipedia-url: https://en.wikipedia.org/wiki/Joseph_Morelle
+wikipedia-extract: Joseph D. Morelle is an American politician serving as the U.S. representative for New York's 25th congressional district since 2018.
 born: "1957-04-29"
 ---
 
@@ -251,6 +250,27 @@ party:: Democrat
 - ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
+<!-- auto:committee-assignments pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+**Committees:**
+
+- House Committee on Appropriations
+- House Committee on House Administration
+- Joint Committee of Congress on the Library
+- Joint Committee on Printing
+
+**Subcommittees:**
+
+- Commerce, Justice, Science, and Related Agencies
+- Defense
+- Modernization and Innovation
+
+- [Source: Congress.gov](https://www.congress.gov/member/M001206) (Tier 1)
+
+<!-- auto:committee-assignments pending-merge end -->
+
 ### Legislative Activity (Congress.gov)
 <!-- auto:congress-legislation start -->
 | Metric | Value |
@@ -279,6 +299,38 @@ party:: Democrat
 
 - ~~[Source: Congress.gov](https://www.congress.gov/member/M001206)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+<!-- auto:congress-legislation pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democrat |
+| State | NY |
+| Chamber | House |
+| Bills Sponsored | 131 |
+| Bills Cosponsored | 1816 |
+
+**Policy areas:** Agriculture and Food, Armed Forces and National Security, Civil Rights and Liberties, Minority Issues, Commerce, Congress, Crime and Law Enforcement, Education, Government Operations and Politics, Health, Immigration, International Affairs, Labor and Employment, Science, Technology, Communications, Taxation
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 1098 | Expressing support for the designation of March 3, 2026, as "National Triple-Neg… | Referred to the House Committee on Oversight and Government Reform. |
+| 7404 | Fair Repair Act | Referred to the House Committee on Energy and Commerce. |
+| 982 | Providing for consideration of the bill (H.R. 6039) to advance commonsense prior… | Motion to Discharge Committee filed by Mr. Morelle. Petition No: 119-14. (<a href="https://clerk.house.gov/DischargePetition/2026012114">Discharge petition</a> text with signatures.) |
+| 6694 | To designate the facility of the United States Postal Service located at 130 Nor… | Referred to the House Committee on Oversight and Government Reform. |
+| 6471 | Justice in Sentencing for Survivors Act of 2025 | Referred to the House Committee on the Judiciary. |
+| 6307 | Hunger Clearinghouse Enhancement Act of 2025 | Referred to the House Committee on Education and Workforce. |
+| 5918 | Protect Law Enforcement Task Forces Act | Referred to the House Committee on the Judiciary. |
+| 726 | Supporting the recognition of September 16, 2025, as "National Voter Registratio… | Referred to the House Committee on House Administration. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/M001206) (Tier 1)
+
+<!-- auto:congress-legislation pending-merge end -->
 
 ### Campaign Finance Summary (FEC)
 <!-- auto:fec-summary start -->

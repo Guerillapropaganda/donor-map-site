@@ -1,42 +1,39 @@
 ---
-title: "Roger Wicker"
+title: Roger Wicker
 type: politician
 content-readiness: ready
 central-thesis: "Wicker is the defense-state senator who chairs the defense committee. The structural alignment is total: Mississippi's largest employer (Huntington Ingalls), Mississippi's military bases (Stennis, Keesler, Columbus, Camp Shelby), and the defense c..."
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Senate"
-state: "Mississippi"
-state-abbr: "MS"
+party: Republican
+chamber: Senate
+state: Mississippi
+state-abbr: MS
 committees:
-  - "Armed Services"
+  - Armed Services
 issues:
-  - "Defense & Military"
+  - Defense & Military
 top-donors:
-  - "Lockheed Martin"
-  - "Northrop Grumman"
-bioguide-id: "W000437"
+  - Lockheed Martin
+  - Northrop Grumman
+bioguide-id: W000437
 govtrack-id: 400432
 bills-sponsored: 39
 bills-cosponsored: 237
-website: "https://www.wicker.senate.gov"
-phone: "202-224-6253"
+website: https://www.wicker.senate.gov
+phone: 202-224-6253
 stock-trades: 8
 stock-trade-tickers:
-  - "GDV"
-  - "BIF"
-donors: "[[Raytheon (RTX Corporation)]] · [[General Dynamics]]"
+  - GDV
+  - BIF
+donors: "[[Raytheon (RTX Corporation)]] · [[General Dynamics]] · [[Lockheed Martin]] · [[DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE]] · [[Northrop Grumman]]"
 related: "[[Telecom Buys Net Neutrality's Death From Both Sides]] · [[The Armed Services Ranking Member and Defense Bipartisanship]] · [[Lockheed Martin]] · [[Northrop Grumman]] · [[Raytheon (RTX)|Raytheon]] · [[_Donald Trump Master Profile|Trump]]"
-total-received: "$286,732"
-fec-candidate-id: "S8MS00196"
+total-received: $286,732
+fec-candidate-id: S8MS00196
 needs-reenrichment: true
-reenrich-reason: "run congress pipeline; run pipelines"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-  • No last-enriched date is set. The pipelines have never touched this file.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: run congress pipeline; run pipelines
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

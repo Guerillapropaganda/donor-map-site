@@ -1,63 +1,58 @@
 ---
-title: "Tim Dunn"
+title: Tim Dunn
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Mega-Donors"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Michael Whatley"
-  - "Barbara Lee"
-  - "Mike Lee"
-  - "Donna Miller"
-  - "Stephen Miller"
+sector: Mega-Donors
+entity-type: Individual Donor
+politicians-funded: "[[Barbara Lee]], [[Stephen Miller]], [[Mike Lee]], [[Michael Whatley]], [[Donna Miller]]"
 court-cases: 43
 last-enriched: "2026-04-07"
 court-jurisdictions:
-  - "Court of Appeals for the Second Circuit"
-  - "Court of Appeals for the Sixth Circuit"
-  - "District Court, D. Connecticut"
-  - "District Court, E.D. Virginia"
-  - "District Court, N.D. California"
-  - "District Court, S.D. New York"
-  - "District Court, W.D. Texas"
-  - "United States Bankruptcy Court, C.D. California"
-  - "United States Bankruptcy Court, D. Delaware"
-  - "United States Bankruptcy Court, S.D. New York"
-total-political-spend: "$9,908,147"
-related: "[[The National Security-to-Senate Pipeline]] · [[Barbara Lee]] · [[Mike Lee]] · [[Wilks Brothers , Dan and Farris Wilks]] · [[_Mike Rogers Master Profile]] · [[Great Lakes Conservatives Fund]] · [[Tim Dunn]] · [[America First Policy Institute]] · [[Stephen Miller]]"
+  - Court of Appeals for the Second Circuit
+  - Court of Appeals for the Sixth Circuit
+  - District Court, D. Connecticut
+  - District Court, E.D. Virginia
+  - District Court, N.D. California
+  - District Court, S.D. New York
+  - District Court, W.D. Texas
+  - United States Bankruptcy Court, C.D. California
+  - United States Bankruptcy Court, D. Delaware
+  - United States Bankruptcy Court, S.D. New York
+total-political-spend: $9,908,147
+related: "[[The National Security-to-Senate Pipeline]] · [[Barbara Lee]] · [[Mike Lee]] · [[Wilks Brothers , Dan and Farris Wilks]] · [[_Mike Rogers Master Profile]] · [[Great Lakes Conservatives Fund]] · [[Tim Dunn]] · [[America First Policy Institute]]"
 sec-filings: 63
 sec-form-types:
-  - "10-K/A"
-  - "424B1"
-  - "424B3"
+  - 10-K/A
+  - 424B1
+  - 424B3
   - "425"
-  - "D"
-  - "DEF 14A"
-  - "DEFM14A"
-  - "DEFR14A"
-  - "DFAN14A"
-  - "EX-10.1"
-  - "EX-10.17"
-  - "EX-10.18"
-  - "EX-10.2"
-  - "EX-10.37"
-  - "EX-10.52"
-  - "EX-2"
-  - "EX-2.1"
-  - "EX-24"
-  - "EX-99.1"
-  - "EX-99.5"
-  - "F-3"
-  - "F-3/A"
-  - "N-30D"
-  - "N-CSR"
-  - "PRE 14A"
-  - "PREM14A"
-  - "S-4"
-  - "S-4/A"
+  - D
+  - DEF 14A
+  - DEFM14A
+  - DEFR14A
+  - DFAN14A
+  - EX-10.1
+  - EX-10.17
+  - EX-10.18
+  - EX-10.2
+  - EX-10.37
+  - EX-10.52
+  - EX-2
+  - EX-2.1
+  - EX-24
+  - EX-99.1
+  - EX-99.5
+  - F-3
+  - F-3/A
+  - N-30D
+  - N-CSR
+  - PRE 14A
+  - PREM14A
+  - S-4
+  - S-4/A
 cross-vault-triangulation-count: 6
 audit-a-plus-passed: "2026-04-11"
 ---

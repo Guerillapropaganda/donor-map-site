@@ -1,46 +1,44 @@
 ---
-title: "Jason Smith"
+title: Jason Smith
 type: politician
 content-readiness: ready
-central-thesis: "Smith is the rural poor kid who writes tax policy for the rich. His Ways & Means gavel gives him authorship over every major tax provision in America — and the industries that benefit from those provisions fund his campaign at rates that exploded ..."
-last-updated: 2026-04-13
+central-thesis: Smith is the rural poor kid who writes tax policy for the rich. His Ways & Means gavel gives him authorship over every major tax provision in America — and the industries that benefit from those provisions fund his campaign at rates that exploded ...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "House"
-state: "Missouri"
-state-abbr: "MO"
+party: Republican
+chamber: House
+state: Missouri
+state-abbr: MO
 district: "8"
 committees:
-  - "Ways & Means"
+  - Ways & Means
 top-donors:
-  - "Real Estate Roundtable"
-fec-candidate-id: "H4MO08162"
+  - Real Estate Roundtable
+fec-candidate-id: H4MO08162
 last-enriched: "2026-04-10"
 needs-reenrichment: true
-reenrich-reason: "re-run congress pipeline"
+reenrich-reason: re-run congress pipeline
 govtrack-id: 412596
 bills-sponsored: 7
 bills-cosponsored: 27
-website: "https://jasonsmith.house.gov"
-phone: "202-225-4404"
-donors: "[[American Gaming Association]] · [[National Association of Manufacturers]] · [[Tech Industry]] · [[National Restaurant Association]] · [[ActBlue]]"
+website: https://jasonsmith.house.gov
+phone: 202-225-4404
+donors: "[[American Gaming Association]] · [[National Association of Manufacturers]] · [[Tech Industry]] · [[National Restaurant Association]] · [[ActBlue]] · [[Real Estate Roundtable]]"
 related: "[[Real Estate Lobby Funds the Housing Crisis From Both Sides]] · [[The Ways and Means Gavel and Corporate Tax Architecture]] · [[Real Estate Roundtable]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[Mike Crapo]]"
-bioguide-id: "S001195"
+bioguide-id: S001195
 issues:
-  - "Agriculture and Food"
-  - "Armed Forces and National Security"
-  - "Arts, Culture, Religion"
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Congress"
-  - "Crime and Law Enforcement"
-  - "Education"
-  - "Environmental Protection"
-  - "Families"
-  - "Foreign Trade and International Finance"
-internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
-  • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+  - Agriculture and Food
+  - Armed Forces and National Security
+  - Arts, Culture, Religion
+  - Civil Rights and Liberties, Minority Issues
+  - Congress
+  - Crime and Law Enforcement
+  - Education
+  - Environmental Protection
+  - Families
+  - Foreign Trade and International Finance
+internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

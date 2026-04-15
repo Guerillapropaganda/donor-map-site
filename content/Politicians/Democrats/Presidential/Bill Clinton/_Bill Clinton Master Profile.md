@@ -1,16 +1,16 @@
 ---
-title: "Bill Clinton"
+title: Bill Clinton
 type: politician
 content-readiness: draft
-central-thesis: "Clinton is the pivot point in American political history where the Democratic Party became structurally indistinguishable from Republican finance capitalism on economic policy. He did not accidentally drift toward Wall Street — he was cultivated b..."
-last-updated: 2026-04-10
+central-thesis: Clinton is the pivot point in American political history where the Democratic Party became structurally indistinguishable from Republican finance capitalism on economic policy. He did not accidentally drift toward Wall Street — he was cultivated b...
+last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "Presidential"
+party: Democrat
+chamber: Presidential
 issues:
-  - "Wall Street & Finance"
-fec-candidate-id: "P60012333"
+  - Wall Street & Finance
+fec-candidate-id: P60012333
 last-enriched: "2026-04-08"
 source-types:
   - Congress
@@ -19,12 +19,12 @@ source-types:
   - Treasury
 corroboration-count: 4
 known-gaps:
-  - "No voting record data"
-  - "No mapped relationships"
+  - No voting record data
+  - No mapped relationships
 executive-orders: 310
 presidential-memoranda: 89
 proclamations: 761
-donors: "[[Media Matters]]"
+donors: "[[Media Matters]], [[REPUBLICAN NATIONAL COMMITTEE]]"
 ---
 
 

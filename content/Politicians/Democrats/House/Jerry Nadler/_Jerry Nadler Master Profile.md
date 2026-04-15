@@ -1,32 +1,32 @@
 ---
-title: "Jerry Nadler"
+title: Jerry Nadler
 type: politician
 content-readiness: draft
-central-thesis: "Nadler's donor-class function is more complex than most profiles in this vault because he genuinely served as a check on executive power (two Trump impeachments) and pursued progressive policy outcomes (marijuana legalization, LGBTQ+ rights, 9/11 ..."
-last-updated: 2026-04-11
+central-thesis: Nadler's donor-class function is more complex than most profiles in this vault because he genuinely served as a check on executive power (two Trump impeachments) and pursued progressive policy outcomes (marijuana legalization, LGBTQ+ rights, 9/11 ...
+last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "House"
-state: "New York"
-state-abbr: "NY"
+party: Democrat
+chamber: House
+state: New York
+state-abbr: NY
 district: "12"
 committees:
-  - "Judiciary"
-  - "Antitrust (Judiciary)"
+  - Judiciary
+  - Antitrust (Judiciary)
 issues:
-  - "Antitrust & Monopoly"
-  - "Housing"
-  - "Israel & Foreign Policy"
+  - Antitrust & Monopoly
+  - Housing
+  - Israel & Foreign Policy
 source-types:
   - Congress
   - FEC
   - GovTrack
 corroboration-count: 3
 known-gaps:
-  - "No mapped relationships"
+  - No mapped relationships
 related: "[[_Donald Trump Master Profile|Trump]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[J Street]]"
-donors: "[[Brady Campaign]]"
+donors: "[[Brady Campaign]], [[J Street]]"
 ---
 
 <!-- auto:data-panel start -->
