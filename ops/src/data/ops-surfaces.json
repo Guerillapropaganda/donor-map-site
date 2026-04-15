@@ -1,0 +1,1002 @@
+{
+  "generated_at": "2026-04-15T03:23:07.134Z",
+  "stats": {
+    "total_pages": 29,
+    "pages_in_sidebar": 27,
+    "orphan_pages": 2,
+    "total_api_routes": 59,
+    "public_apis": 50,
+    "admin_apis": 7,
+    "tier_apis": 2,
+    "orphan_dependencies": 2
+  },
+  "sidebar_order": [
+    {
+      "route": "/",
+      "label": "Dashboard"
+    },
+    {
+      "route": "/attention",
+      "label": "Attention Queue"
+    },
+    {
+      "route": "/pipelines",
+      "label": "Pipelines"
+    },
+    {
+      "route": "/signoff-queue",
+      "label": "Sign-off Queue"
+    },
+    {
+      "route": "/notes",
+      "label": "Notes & Queues"
+    },
+    {
+      "route": "/tips",
+      "label": "Public Tips"
+    },
+    {
+      "route": "/urls",
+      "label": "URL Manager"
+    },
+    {
+      "route": "/source-hunter",
+      "label": "Source Hunter"
+    },
+    {
+      "route": "/relationships",
+      "label": "Relationships"
+    },
+    {
+      "route": "/editor",
+      "label": "Editor"
+    },
+    {
+      "route": "/publisher",
+      "label": "Publisher"
+    },
+    {
+      "route": "/profile",
+      "label": "Profile View"
+    },
+    {
+      "route": "/money-trail",
+      "label": "Money Trail"
+    },
+    {
+      "route": "/capitol-trades",
+      "label": "Capitol Trades"
+    },
+    {
+      "route": "/calendar",
+      "label": "Calendar"
+    },
+    {
+      "route": "/alerts",
+      "label": "Alerts"
+    },
+    {
+      "route": "/distribution",
+      "label": "Distribution"
+    },
+    {
+      "route": "/rules",
+      "label": "Rulebook"
+    },
+    {
+      "route": "/operations",
+      "label": "Operations"
+    },
+    {
+      "route": "/docs",
+      "label": "System Docs"
+    },
+    {
+      "route": "/scripts",
+      "label": "Scripts"
+    },
+    {
+      "route": "/sources",
+      "label": "Source Registry"
+    },
+    {
+      "route": "/class-tags",
+      "label": "Class Tags"
+    },
+    {
+      "route": "/policies",
+      "label": "Policies"
+    },
+    {
+      "route": "/query",
+      "label": "Query Engine"
+    },
+    {
+      "route": "/account",
+      "label": "Account"
+    },
+    {
+      "route": "/pricing",
+      "label": "Pricing"
+    }
+  ],
+  "pages": [
+    {
+      "route": "/",
+      "label": "Dashboard",
+      "file": "ops/src/app/page.tsx",
+      "type": "page",
+      "api_dependencies": [
+        "/api/activity?limit=15&type=:param",
+        "/api/attention-queue",
+        "/api/status",
+        "/api/vault${refresh ? "
+      ],
+      "in_sidebar": true
+    },
+    {
+      "route": "/attention",
+      "label": "Attention Queue",
+      "file": "ops/src/app/attention/page.tsx",
+      "type": "page",
+      "api_dependencies": [
+        "/api/attention-queue",
+        "/api/attention-queue/reject"
+      ],
+      "in_sidebar": true
+    },
+    {
+      "route": "/pipelines",
+      "label": "Pipelines",
+      "file": "ops/src/app/pipelines/page.tsx",
+      "type": "page",
+      "api_dependencies": [
+        "/api/pipelines"
+      ],
+      "in_sidebar": true
+    },
+    {
+      "route": "/signoff-queue",
+      "label": "Sign-off Queue",
+      "file": "ops/src/app/signoff-queue/page.tsx",
+      "type": "page",
+      "api_dependencies": [
+        "/api/vault"
+      ],
+      "in_sidebar": true
+    },
+    {
+      "route": "/notes",
+      "label": "Notes & Queues",
+      "file": "ops/src/app/notes/page.tsx",
+      "type": "page",
+      "api_dependencies": [
+        "/api/notes",
+        "/api/vault"
+      ],
+      "in_sidebar": true
+    },
+    {
+      "route": "/tips",
+      "label": "Public Tips",
+      "file": "ops/src/app/tips/page.tsx",
+      "type": "page",
+      "api_dependencies": [
+        "/api/tips"
+      ],
+      "in_sidebar": true
+    },
+    {
+      "route": "/urls",
+      "label": "URL Manager",
+      "file": "ops/src/app/urls/page.tsx",
+      "type": "page",
+      "api_dependencies": [
+        "/api/urls${refresh ? ",
+        "/api/urls/check",
+        "/api/urls/save"
+      ],
+      "in_sidebar": true
+    },
+    {
+      "route": "/source-hunter",
+      "label": "Source Hunter",
+      "file": "ops/src/app/source-hunter/page.tsx",
+      "type": "page",
+      "api_dependencies": [
+        "/api/sources?q=:param&type=:param"
+      ],
+      "in_sidebar": true
+    },
+    {
+      "route": "/relationships",
+      "label": "Relationships",
+      "file": "ops/src/app/relationships/page.tsx",
+      "type": "page",
+      "api_dependencies": [
+        "/api/connections",
+        "/api/pipelines",
+        "/api/relationship-notes",
+        "/api/relationship-notes?source=:param",
+        "/api/relationships",
+        "/api/suggestions",
+        "/api/suggestions/scan",
+        "/api/suggestions?:param",
+        "/api/vault"
+      ],
+      "in_sidebar": true
+    },
+    {
+      "route": "/editor",
+      "label": "Editor",
+      "file": "ops/src/app/editor/page.tsx",
+      "type": "page",
+      "api_dependencies": [
+        "/api/edit",
+        "/api/profile?path=:param",
+        "/api/vault"
+      ],
+      "in_sidebar": true
+    },
+    {
+      "route": "/publisher",
+      "label": "Publisher",
+      "file": "ops/src/app/publisher/page.tsx",
+      "type": "page",
+      "api_dependencies": [
+        "/api/publish"
+      ],
+      "in_sidebar": true
+    },
+    {
+      "route": "/profile",
+      "label": "Profile View",
+      "file": "ops/src/app/profile/page.tsx",
+      "type": "page",
+      "api_dependencies": [
+        "/api/connections",
+        "/api/pipelines",
+        "/api/pipelines/pull",
+        "/api/pipelines/status?after=:param",
+        "/api/profile/checklist",
+        "/api/profile/connections",
+        "/api/profile/notes",
+        "/api/profile/readiness",
+        "/api/profile?path=:param",
+        "/api/urls/check",
+        "/api/urls/save",
+        "/api/vault"
+      ],
+      "in_sidebar": true
+    },
+    {
+      "route": "/money-trail",
+      "label": "Money Trail",
+      "file": "ops/src/app/money-trail/page.tsx",
+      "type": "page",
+      "api_dependencies": [
+        "/api/money-trail"
+      ],
+      "in_sidebar": true
+    },
+    {
+      "route": "/capitol-trades",
+      "label": "Capitol Trades",
+      "file": "ops/src/app/capitol-trades/page.tsx",
+      "type": "page",
+      "api_dependencies": [
+        "/api/capitol-trades",
+        "/api/committee-conflicts",
+        "/api/crypto-conflicts",
+        "/api/lobby-trades",
+        "/api/trade-stories",
+        "/api/unusual-activity"
+      ],
+      "in_sidebar": true
+    },
+    {
+      "route": "/calendar",
+      "label": "Calendar",
+      "file": "ops/src/app/calendar/page.tsx",
+      "type": "page",
+      "api_dependencies": [],
+      "in_sidebar": true
+    },
+    {
+      "route": "/alerts",
+      "label": "Alerts",
+      "file": "ops/src/app/alerts/page.tsx",
+      "type": "page",
+      "api_dependencies": [
+        "/api/alerts"
+      ],
+      "in_sidebar": true
+    },
+    {
+      "route": "/distribution",
+      "label": "Distribution",
+      "file": "ops/src/app/distribution/page.tsx",
+      "type": "page",
+      "api_dependencies": [
+        "/api/vault"
+      ],
+      "in_sidebar": true
+    },
+    {
+      "route": "/rules",
+      "label": "Rulebook",
+      "file": "ops/src/app/rules/page.tsx",
+      "type": "page",
+      "api_dependencies": [
+        "/api/rulebook"
+      ],
+      "in_sidebar": true
+    },
+    {
+      "route": "/operations",
+      "label": "Operations",
+      "file": "ops/src/app/operations/page.tsx",
+      "type": "page",
+      "api_dependencies": [
+        "/api/operations"
+      ],
+      "in_sidebar": true
+    },
+    {
+      "route": "/docs",
+      "label": "System Docs",
+      "file": "ops/src/app/docs/page.tsx",
+      "type": "page",
+      "api_dependencies": [
+        "/api/docs"
+      ],
+      "in_sidebar": true
+    },
+    {
+      "route": "/scripts",
+      "label": "Scripts",
+      "file": "ops/src/app/scripts/page.tsx",
+      "type": "page",
+      "api_dependencies": [
+        "/api/scripts"
+      ],
+      "in_sidebar": true
+    },
+    {
+      "route": "/sources",
+      "label": "Source Registry",
+      "file": "ops/src/app/sources/page.tsx",
+      "type": "page",
+      "api_dependencies": [
+        "/api/source-registry?:param",
+        "/api/source-registry?id=:param"
+      ],
+      "in_sidebar": true
+    },
+    {
+      "route": "/class-tags",
+      "label": "Class Tags",
+      "file": "ops/src/app/class-tags/page.tsx",
+      "type": "page",
+      "api_dependencies": [
+        "/api/class-tags?:param",
+        "/api/class-tags?entity_id=:param"
+      ],
+      "in_sidebar": true
+    },
+    {
+      "route": "/policies",
+      "label": "Policies",
+      "file": "ops/src/app/policies/page.tsx",
+      "type": "page",
+      "api_dependencies": [
+        "/api/policies",
+        "/api/policies/:param/preview",
+        "/api/policies/demote",
+        "/api/policies/promote",
+        "/api/policies/publish"
+      ],
+      "in_sidebar": true
+    },
+    {
+      "route": "/query",
+      "label": "Query Engine",
+      "file": "ops/src/app/query/page.tsx",
+      "type": "page",
+      "api_dependencies": [
+        "/api/query"
+      ],
+      "in_sidebar": true
+    },
+    {
+      "route": "/account",
+      "label": "Account",
+      "file": "ops/src/app/account/page.tsx",
+      "type": "page",
+      "api_dependencies": [],
+      "in_sidebar": true
+    },
+    {
+      "route": "/pricing",
+      "label": "Pricing",
+      "file": "ops/src/app/pricing/page.tsx",
+      "type": "page",
+      "api_dependencies": [
+        "/api/stripe/checkout"
+      ],
+      "in_sidebar": true
+    },
+    {
+      "route": "/sign-in",
+      "label": "/sign-in",
+      "file": "ops/src/app/sign-in/[[...sign-in]]/page.tsx",
+      "type": "page",
+      "api_dependencies": [
+        "/api/auth/bypass-status"
+      ],
+      "in_sidebar": false
+    },
+    {
+      "route": "/sign-up",
+      "label": "/sign-up",
+      "file": "ops/src/app/sign-up/[[...sign-up]]/page.tsx",
+      "type": "page",
+      "api_dependencies": [],
+      "in_sidebar": false
+    }
+  ],
+  "api_routes": [
+    {
+      "route": "/api/activity",
+      "file": "ops/src/app/api/activity/route.ts",
+      "type": "api",
+      "methods": [
+        "GET"
+      ],
+      "auth": "public"
+    },
+    {
+      "route": "/api/alerts",
+      "file": "ops/src/app/api/alerts/route.ts",
+      "type": "api",
+      "methods": [
+        "GET"
+      ],
+      "auth": "public"
+    },
+    {
+      "route": "/api/attention-queue",
+      "file": "ops/src/app/api/attention-queue/route.ts",
+      "type": "api",
+      "methods": [
+        "GET"
+      ],
+      "auth": "public"
+    },
+    {
+      "route": "/api/attention-queue/reject",
+      "file": "ops/src/app/api/attention-queue/reject/route.ts",
+      "type": "api",
+      "methods": [
+        "POST"
+      ],
+      "auth": "public"
+    },
+    {
+      "route": "/api/auth/bypass-status",
+      "file": "ops/src/app/api/auth/bypass-status/route.ts",
+      "type": "api",
+      "methods": [
+        "GET"
+      ],
+      "auth": "public"
+    },
+    {
+      "route": "/api/capitol-trades",
+      "file": "ops/src/app/api/capitol-trades/route.ts",
+      "type": "api",
+      "methods": [
+        "GET"
+      ],
+      "auth": "public"
+    },
+    {
+      "route": "/api/class-tags",
+      "file": "ops/src/app/api/class-tags/route.ts",
+      "type": "api",
+      "methods": [
+        "GET",
+        "PATCH"
+      ],
+      "auth": "admin"
+    },
+    {
+      "route": "/api/commits",
+      "file": "ops/src/app/api/commits/route.ts",
+      "type": "api",
+      "methods": [
+        "GET"
+      ],
+      "auth": "public"
+    },
+    {
+      "route": "/api/committee-conflicts",
+      "file": "ops/src/app/api/committee-conflicts/route.ts",
+      "type": "api",
+      "methods": [
+        "GET"
+      ],
+      "auth": "public"
+    },
+    {
+      "route": "/api/connections",
+      "file": "ops/src/app/api/connections/route.ts",
+      "type": "api",
+      "methods": [
+        "GET"
+      ],
+      "auth": "public"
+    },
+    {
+      "route": "/api/crypto-conflicts",
+      "file": "ops/src/app/api/crypto-conflicts/route.ts",
+      "type": "api",
+      "methods": [
+        "GET"
+      ],
+      "auth": "public"
+    },
+    {
+      "route": "/api/docs",
+      "file": "ops/src/app/api/docs/route.ts",
+      "type": "api",
+      "methods": [
+        "GET"
+      ],
+      "auth": "public"
+    },
+    {
+      "route": "/api/edit",
+      "file": "ops/src/app/api/edit/route.ts",
+      "type": "api",
+      "methods": [
+        "PUT",
+        "DELETE"
+      ],
+      "auth": "public"
+    },
+    {
+      "route": "/api/enrichment-history",
+      "file": "ops/src/app/api/enrichment-history/route.ts",
+      "type": "api",
+      "methods": [
+        "GET"
+      ],
+      "auth": "public"
+    },
+    {
+      "route": "/api/enrichment-history/diff",
+      "file": "ops/src/app/api/enrichment-history/diff/route.ts",
+      "type": "api",
+      "methods": [
+        "GET"
+      ],
+      "auth": "public"
+    },
+    {
+      "route": "/api/enrichment-log",
+      "file": "ops/src/app/api/enrichment-log/route.ts",
+      "type": "api",
+      "methods": [
+        "GET"
+      ],
+      "auth": "public"
+    },
+    {
+      "route": "/api/lobby-trades",
+      "file": "ops/src/app/api/lobby-trades/route.ts",
+      "type": "api",
+      "methods": [
+        "GET"
+      ],
+      "auth": "public"
+    },
+    {
+      "route": "/api/money-trail",
+      "file": "ops/src/app/api/money-trail/route.ts",
+      "type": "api",
+      "methods": [
+        "GET"
+      ],
+      "auth": "public"
+    },
+    {
+      "route": "/api/notes",
+      "file": "ops/src/app/api/notes/route.ts",
+      "type": "api",
+      "methods": [
+        "GET",
+        "POST",
+        "PUT"
+      ],
+      "auth": "public"
+    },
+    {
+      "route": "/api/operations",
+      "file": "ops/src/app/api/operations/route.ts",
+      "type": "api",
+      "methods": [
+        "GET",
+        "POST",
+        "PUT",
+        "DELETE"
+      ],
+      "auth": "public"
+    },
+    {
+      "route": "/api/pipeline-health",
+      "file": "ops/src/app/api/pipeline-health/route.ts",
+      "type": "api",
+      "methods": [
+        "GET"
+      ],
+      "auth": "public"
+    },
+    {
+      "route": "/api/pipelines",
+      "file": "ops/src/app/api/pipelines/route.ts",
+      "type": "api",
+      "methods": [
+        "GET",
+        "POST"
+      ],
+      "auth": "public"
+    },
+    {
+      "route": "/api/pipelines/logs",
+      "file": "ops/src/app/api/pipelines/logs/route.ts",
+      "type": "api",
+      "methods": [
+        "GET"
+      ],
+      "auth": "public"
+    },
+    {
+      "route": "/api/pipelines/pull",
+      "file": "ops/src/app/api/pipelines/pull/route.ts",
+      "type": "api",
+      "methods": [
+        "POST"
+      ],
+      "auth": "public"
+    },
+    {
+      "route": "/api/pipelines/status",
+      "file": "ops/src/app/api/pipelines/status/route.ts",
+      "type": "api",
+      "methods": [
+        "GET"
+      ],
+      "auth": "public"
+    },
+    {
+      "route": "/api/policies",
+      "file": "ops/src/app/api/policies/route.ts",
+      "type": "api",
+      "methods": [
+        "GET"
+      ],
+      "auth": "admin"
+    },
+    {
+      "route": "/api/policies/:slug/preview",
+      "file": "ops/src/app/api/policies/[slug]/preview/route.ts",
+      "type": "api",
+      "methods": [
+        "GET"
+      ],
+      "auth": "admin"
+    },
+    {
+      "route": "/api/policies/demote",
+      "file": "ops/src/app/api/policies/demote/route.ts",
+      "type": "api",
+      "methods": [
+        "POST"
+      ],
+      "auth": "admin"
+    },
+    {
+      "route": "/api/policies/promote",
+      "file": "ops/src/app/api/policies/promote/route.ts",
+      "type": "api",
+      "methods": [
+        "POST"
+      ],
+      "auth": "admin"
+    },
+    {
+      "route": "/api/policies/publish",
+      "file": "ops/src/app/api/policies/publish/route.ts",
+      "type": "api",
+      "methods": [
+        "POST"
+      ],
+      "auth": "admin"
+    },
+    {
+      "route": "/api/profile",
+      "file": "ops/src/app/api/profile/route.ts",
+      "type": "api",
+      "methods": [
+        "GET"
+      ],
+      "auth": "public"
+    },
+    {
+      "route": "/api/profile/checklist",
+      "file": "ops/src/app/api/profile/checklist/route.ts",
+      "type": "api",
+      "methods": [
+        "POST"
+      ],
+      "auth": "public"
+    },
+    {
+      "route": "/api/profile/connections",
+      "file": "ops/src/app/api/profile/connections/route.ts",
+      "type": "api",
+      "methods": [
+        "POST"
+      ],
+      "auth": "public"
+    },
+    {
+      "route": "/api/profile/notes",
+      "file": "ops/src/app/api/profile/notes/route.ts",
+      "type": "api",
+      "methods": [
+        "POST"
+      ],
+      "auth": "public"
+    },
+    {
+      "route": "/api/profile/readiness",
+      "file": "ops/src/app/api/profile/readiness/route.ts",
+      "type": "api",
+      "methods": [
+        "POST"
+      ],
+      "auth": "public"
+    },
+    {
+      "route": "/api/publish",
+      "file": "ops/src/app/api/publish/route.ts",
+      "type": "api",
+      "methods": [
+        "POST"
+      ],
+      "auth": "public"
+    },
+    {
+      "route": "/api/query",
+      "file": "ops/src/app/api/query/route.ts",
+      "type": "api",
+      "methods": [
+        "GET",
+        "POST"
+      ],
+      "auth": "tier:free-auth"
+    },
+    {
+      "route": "/api/relationship-notes",
+      "file": "ops/src/app/api/relationship-notes/route.ts",
+      "type": "api",
+      "methods": [
+        "GET",
+        "POST"
+      ],
+      "auth": "public"
+    },
+    {
+      "route": "/api/relationships",
+      "file": "ops/src/app/api/relationships/route.ts",
+      "type": "api",
+      "methods": [
+        "POST",
+        "DELETE"
+      ],
+      "auth": "public"
+    },
+    {
+      "route": "/api/rulebook",
+      "file": "ops/src/app/api/rulebook/route.ts",
+      "type": "api",
+      "methods": [
+        "GET",
+        "POST"
+      ],
+      "auth": "public"
+    },
+    {
+      "route": "/api/scripts",
+      "file": "ops/src/app/api/scripts/route.ts",
+      "type": "api",
+      "methods": [
+        "POST"
+      ],
+      "auth": "public"
+    },
+    {
+      "route": "/api/source-registry",
+      "file": "ops/src/app/api/source-registry/route.ts",
+      "type": "api",
+      "methods": [
+        "GET",
+        "PATCH"
+      ],
+      "auth": "admin"
+    },
+    {
+      "route": "/api/sources",
+      "file": "ops/src/app/api/sources/route.ts",
+      "type": "api",
+      "methods": [
+        "GET"
+      ],
+      "auth": "public"
+    },
+    {
+      "route": "/api/sprint-state",
+      "file": "ops/src/app/api/sprint-state/route.ts",
+      "type": "api",
+      "methods": [
+        "GET",
+        "POST"
+      ],
+      "auth": "public"
+    },
+    {
+      "route": "/api/sprint-state/day",
+      "file": "ops/src/app/api/sprint-state/day/route.ts",
+      "type": "api",
+      "methods": [
+        "POST"
+      ],
+      "auth": "public"
+    },
+    {
+      "route": "/api/sprint-state/snapshot",
+      "file": "ops/src/app/api/sprint-state/snapshot/route.ts",
+      "type": "api",
+      "methods": [
+        "POST"
+      ],
+      "auth": "public"
+    },
+    {
+      "route": "/api/sprint-state/task",
+      "file": "ops/src/app/api/sprint-state/task/route.ts",
+      "type": "api",
+      "methods": [
+        "POST"
+      ],
+      "auth": "public"
+    },
+    {
+      "route": "/api/status",
+      "file": "ops/src/app/api/status/route.ts",
+      "type": "api",
+      "methods": [
+        "GET"
+      ],
+      "auth": "public"
+    },
+    {
+      "route": "/api/stripe/checkout",
+      "file": "ops/src/app/api/stripe/checkout/route.ts",
+      "type": "api",
+      "methods": [
+        "POST"
+      ],
+      "auth": "tier:free-auth"
+    },
+    {
+      "route": "/api/stripe/webhook",
+      "file": "ops/src/app/api/stripe/webhook/route.ts",
+      "type": "api",
+      "methods": [
+        "POST"
+      ],
+      "auth": "public"
+    },
+    {
+      "route": "/api/suggestions",
+      "file": "ops/src/app/api/suggestions/route.ts",
+      "type": "api",
+      "methods": [
+        "GET",
+        "POST"
+      ],
+      "auth": "public"
+    },
+    {
+      "route": "/api/suggestions/scan",
+      "file": "ops/src/app/api/suggestions/scan/route.ts",
+      "type": "api",
+      "methods": [
+        "POST"
+      ],
+      "auth": "public"
+    },
+    {
+      "route": "/api/tips",
+      "file": "ops/src/app/api/tips/route.ts",
+      "type": "api",
+      "methods": [
+        "GET",
+        "PUT",
+        "DELETE"
+      ],
+      "auth": "public"
+    },
+    {
+      "route": "/api/trade-stories",
+      "file": "ops/src/app/api/trade-stories/route.ts",
+      "type": "api",
+      "methods": [
+        "GET"
+      ],
+      "auth": "public"
+    },
+    {
+      "route": "/api/unusual-activity",
+      "file": "ops/src/app/api/unusual-activity/route.ts",
+      "type": "api",
+      "methods": [
+        "GET"
+      ],
+      "auth": "public"
+    },
+    {
+      "route": "/api/urls",
+      "file": "ops/src/app/api/urls/route.ts",
+      "type": "api",
+      "methods": [
+        "GET"
+      ],
+      "auth": "public"
+    },
+    {
+      "route": "/api/urls/check",
+      "file": "ops/src/app/api/urls/check/route.ts",
+      "type": "api",
+      "methods": [
+        "POST"
+      ],
+      "auth": "public"
+    },
+    {
+      "route": "/api/urls/save",
+      "file": "ops/src/app/api/urls/save/route.ts",
+      "type": "api",
+      "methods": [
+        "POST"
+      ],
+      "auth": "public"
+    },
+    {
+      "route": "/api/vault",
+      "file": "ops/src/app/api/vault/route.ts",
+      "type": "api",
+      "methods": [
+        "GET"
+      ],
+      "auth": "public"
+    }
+  ],
+  "orphan_dependencies": [
+    "/ → /api/vault${refresh ? ",
+    "/urls → /api/urls${refresh ? "
+  ]
+}
