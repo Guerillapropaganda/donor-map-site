@@ -9,7 +9,7 @@ authority: Pillar 2b migration
 
 # FEC Unmatched Committees
 
-Committees found in `auto:fec-politician` body tables that could not be resolved to a vault profile via title, alias, or simple suffix strip. Total: **268** unique committees / **375** rows.
+Committees found in `auto:fec-politician` body tables that could not be resolved to a vault profile via title, alias, or simple suffix strip. Total: **267** unique committees / **373** rows.
 
 **Fix**: add an `aliases:` entry to the parent profile's frontmatter (the `buildTitleIndex` walker reads it), or create a stub profile for the committee. Re-run `migrate-fec-body-tables-to-edges.cjs --write` to pick up the new mapping.
 
@@ -18,7 +18,6 @@ Sorted by total dollar volume (support + oppose).
 | Committee | Count | Support $ | Oppose $ | Example politicians |
 |-----------|-------|-----------|----------|---------------------|
 | FIGHT RIGHT INC | 1 | $0 | $18,881,648 | Nikki Haley |
-| ENDING SPENDING ACTION FUND | 2 | $1,651,703 | $7,523,339 | Jeanne Shaheen, Deb Fischer |
 | ALABAMA CONSERVATIVES FUND | 1 | $6,460,099 | $0 | Katie Britt |
 | TELL IT LIKE IT IS PAC | 1 | $5,854,979 | $0 | Chris Christie |
 | 314 ACTION FUND | 2 | $0 | $5,775,346 | Nancy Mace, Lee Zeldin |
