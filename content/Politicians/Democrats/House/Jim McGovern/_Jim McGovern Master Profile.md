@@ -304,7 +304,8 @@ McGovern is the anti-pattern that proves the pattern across the vault. When a po
 
 **Key Votes**
 
-| 2026-04-14 | H.R. 7613: ALERT Act | **Yea** | Passed |
+| 2026-04-15 | On Agreeing to the Resolution: H RES 1174 Providing for consideration of the bills (H.R. 6387, H.R. 6398, and H.R. 6409) | **No** | Passed |
+| 2026-04-14 | H.R. 7613: To require certain aircraft to be equipped and operating with collision prevention technology, to improve hel | **Yea** | Passed |
 | 2026-04-14 | H.R. 1011: Emergency Conservation Program Improvement Act of 2025 | **Yea** | Passed |
 | 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appro | **No** | Passed |
 | 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | **Nay** | Passed |
@@ -318,11 +319,9 @@ McGovern is the anti-pattern that proves the pattern across the vault. When a po
 | 2026-03-18 | H.R. 1958: Deporting Fraudsters Act of 2026 | **Nay** | Passed |
 | 2026-03-18 | H.R. 556: Protecting Access for Hunters and Anglers Act | **No** | Passed |
 | 2026-03-17 | H.Res. 1115: Providing for consideration of the bill (H.R. 556) to prohibit the Secretary of the Interior and the Secret | **No** | Passed |
-| 2026-03-17 | S. 3971: Small Business Innovation and Economic Security Act | **Yea** | Passed |
 
 **Sources**
 
-- [Congress.gov: Jim McGovern](https://www.congress.gov/member/f000485) (Tier 1)
 - [GovTrack: Jim McGovern](https://www.govtrack.us/congress/members/400263) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->

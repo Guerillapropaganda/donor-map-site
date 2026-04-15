@@ -57,7 +57,7 @@ sec-form-types:
   - PRE 14A
   - SC TO-I
   - SC TO-I/A
-related: "[[DeVos Family]] · [[The Agriculture-Defense Dual Donor Axis]] · [[The Judiciary-Agriculture Dual Pipeline]] · [[Trade and Tariffs - Donors and Backers]] · [[Agriculture - Donors and Backers]] · [[National Cattlemen's Beef Association]] · [[Frank Lucas Master Profile]] · [[The Agriculture Committee and Arkansas Cotton]] · [[Jodey Arrington]] · [[The Agriculture Committee and Farm Subsidy Pipeline]] · [[Farm Subsidies, SNAP Cuts, and the Tariff Bailout - Who Actually Got Paid]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile|Trump]] · [[American Federation for Children]] · [[National Education Association]] · [[Walton Family Foundation]] · [[Defense Contractors Bloc]] · [[Insurance Industry]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[American Iron and Steel Institute]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[US Chamber of Commerce]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]] · [[Heritage Foundation]]"
+related: "[[DeVos Family]] · [[The Agriculture-Defense Dual Donor Axis]] · [[The Judiciary-Agriculture Dual Pipeline]] · [[Trade and Tariffs - Donors and Backers]] · [[Agriculture - Donors and Backers]] · [[National Cattlemen's Beef Association]] · [[Frank Lucas Master Profile]] · [[The Agriculture Committee and Arkansas Cotton]] · [[Jodey Arrington]] · [[The Agriculture Committee and Farm Subsidy Pipeline]] · [[Farm Subsidies, SNAP Cuts, and the Tariff Bailout - Who Actually Got Paid]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile|Trump]] · [[American Federation for Children]] · [[National Education Association]] · [[Walton Family Foundation]] · [[Defense Contractors Bloc]] · [[Insurance Industry]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[American Iron and Steel Institute]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[US Chamber of Commerce]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[Healthcare Sector]]"
 court-cases: 330
 court-jurisdictions:
   - Court of Appeals for the D.C. Circuit
@@ -343,19 +343,15 @@ The American Farm Bureau Federation is a case study in institutional identity fr
 
 | Metric | Value |
 |--------|-------|
-| Politicians Funded | 3 |
-| Committee Overlap Detected | 2 politicians |
+| Politicians Funded | 1 |
+| Committee Overlap Detected | 1 politician |
 
 **Lobby → Donate → Committee chains:**
 
-- Lobbies on **Agriculture** → Funds **Jodey Arrington** → Sits on **Agriculture**
-- Lobbies on **Budget/Appropriations** → Funds **Jodey Arrington** → Sits on **Budget**
 - Lobbies on **Agriculture** → Funds **Frank Lucas** → Sits on **Agriculture**
 
 **Funded politicians:**
 
-- [[Donald Trump]]
-- [[Jodey Arrington]] (Budget, Ways & Means, Agriculture)
 - [[Frank Lucas]] (Agriculture)
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*

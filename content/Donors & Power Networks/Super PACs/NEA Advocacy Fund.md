@@ -13,7 +13,7 @@ known-gaps:
   - Auto-created stub for relationship edge resolution. Full editorial content pending , needs Research Claude to fill in donors, politicians funded, ideology, and class analysis.
 opposes: "[[Thom Tillis]]"
 politicians-funded: "[[Thom Tillis]], [[Jamie Raskin]], [[Raja Krishnamoorthi]], [[Joseph Morelle]]"
-related: "[[Jamie Raskin]]"
+related: "[[Jamie Raskin]] · [[Raja Krishnamoorthi]]"
 ---
 
 ## Auto-Created Stub

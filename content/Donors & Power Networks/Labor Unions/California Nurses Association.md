@@ -201,24 +201,12 @@ CNA's political operation spends $10-20M per cycle on California and federal cam
 
 | Metric | Value |
 |--------|-------|
-| Politicians Funded | 7 |
+| Politicians Funded | 1 |
 | Active Lobbyist | Yes |
-| Committee Overlap Detected | 2 politicians |
-
-**Lobby → Donate → Committee chains:**
-
-- Lobbies on **Budget/Appropriations** → Funds **Jeff Merkley** → Sits on **Budget**
-- Lobbies on **Copyright/Patent/Trademark** → Funds **Mike Lee** → Sits on **Antitrust (Judiciary)**
-- Lobbies on **Immigration** → Funds **Mike Lee** → Sits on **Antitrust (Judiciary)**
+| Committee Overlap Detected | None |
 
 **Funded politicians:**
 
-- [[Gavin Newsom]] — lobbying: $10.4M
-- [[Jeff Merkley]] (Budget, Environment & Public Works) — lobbying: $10.4M
-- [[Sherrod Brown]] — lobbying: $10.4M
-- [[Barbara Lee]] — lobbying: $10.4M
-- [[Mike Lee]] (Antitrust (Judiciary)) — lobbying: $10.4M
-- [[Maxine Waters]] — lobbying: $10.4M
 - [[Eric Swalwell]] — lobbying: $10.4M
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*

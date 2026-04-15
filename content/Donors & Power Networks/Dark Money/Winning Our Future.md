@@ -12,5 +12,5 @@ source-tier: 1
 fec-ie-support: $4,344,542
 fec-ie-oppose: $30,837,440
 politicians-funded: "[[Paul Ryan]], [[Mitt Romney]]"
-related: "[[Mitt Romney]]"
+related: "[[Mitt Romney]] · [[Paul Ryan]]"
 ---

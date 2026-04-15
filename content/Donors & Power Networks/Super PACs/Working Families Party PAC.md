@@ -15,7 +15,7 @@ aliases:
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
 politicians-funded: "[[Cori Bush]], [[Summer Lee]], [[Raul Grijalva]], [[George Latimer]], [[Wesley Bell]]"
-related: "[[Wesley Bell]]"
+related: "[[Wesley Bell]] · [[Summer Lee]]"
 ---
 
 ## Auto-Created Stub

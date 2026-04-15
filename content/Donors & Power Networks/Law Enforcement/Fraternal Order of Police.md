@@ -45,7 +45,7 @@ sec-form-types:
   - S-4
   - S-4/A
   - SC 14F1
-related: "[[The Sheriff-to-Governor Pipeline and Law Enforcement Politics]] · [[International Association of Chiefs of Police]] · [[CCPOA - California Correctional Peace Officers Association|CCPOA]] · [[PORAC - Peace Officers Research Association of California|PORAC]] · [[Mark Green]] · [[Markwayne Mullin]] · [[John Cornyn]] · [[Amy Klobuchar]] · [[Sheldon Whitehouse]] · [[Sherrod Brown]] · [[CoreCivic - Private Prisons]] · [[Donald Trump]]"
+related: "[[The Sheriff-to-Governor Pipeline and Law Enforcement Politics]] · [[International Association of Chiefs of Police]] · [[CCPOA - California Correctional Peace Officers Association|CCPOA]] · [[PORAC - Peace Officers Research Association of California|PORAC]] · [[Mark Green]] · [[Markwayne Mullin]] · [[John Cornyn]] · [[Amy Klobuchar]] · [[Sheldon Whitehouse]] · [[Sherrod Brown]] · [[CoreCivic - Private Prisons]] · [[Donald Trump]] · [[Josh Green]]"
 federal-register-mentions: 29
 regulatory-agencies:
   - Defense Department

@@ -25,7 +25,7 @@ court-jurisdictions:
 nonprofit-status: 501(c)(4)
 total-revenue: 13380498
 total-assets: 4294171
-related: "[[Lindsey Graham Master Profile]] · [[Mike Lawler Master Profile]] · [[Jan Koum]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Sheldon Adelson]] · [[Miriam Adelson]] · [[NORPAC]] · [[John Cornyn]] · [[Dan Goldman]] · [[Sherrod Brown]] · [[Stephen Miller]]"
+related: "[[Lindsey Graham Master Profile]] · [[Mike Lawler Master Profile]] · [[Jan Koum]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Sheldon Adelson]] · [[Miriam Adelson]] · [[NORPAC]] · [[John Cornyn]] · [[Dan Goldman]] · [[Sherrod Brown]] · [[Stephen Miller]] · [[Ted Cruz]]"
 total-political-spend: $3,644,594
 politicians-funded: "[[Mike Lawler]], [[Sherrod Brown]], [[Ted Cruz]], [[Donna Miller]], [[Shontel Brown]], [[Angie Craig]], [[Dan Goldman]], [[Lindsey Graham]], [[Michael Whatley]], [[Stephen Miller]], [[John Cornyn]], [[Donald Trump]]"
 cross-vault-triangulation-count: 5

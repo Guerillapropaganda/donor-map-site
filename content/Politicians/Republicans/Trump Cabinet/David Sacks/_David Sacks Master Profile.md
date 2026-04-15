@@ -20,7 +20,7 @@ known-gaps:
   - No legislative record from Congress.gov
   - No voting record data
   - No mapped relationships
-related: "[[_Donald Trump Master Profile]] · [[Peter Thiel]] · [[Elon Musk]] · [[_JD Vance Master Profile]] · [[Crypto Industry Bloc]] · [[The 2024 Tech Billionaire Network]] · [[Bernie Moreno]] · [[The Billionaire Cabinet - Wealthiest Administration in History]]"
+related: "[[_Donald Trump Master Profile]] · [[Peter Thiel]] · [[Elon Musk]] · [[_JD Vance Master Profile]] · [[Crypto Industry Bloc]] · [[The 2024 Tech Billionaire Network]] · [[Bernie Moreno]] · [[The Billionaire Cabinet - Wealthiest Administration in History]] · [[Jon Ossoff]]"
 donors: "[[World Liberty Financial]] · [[Silicon Valley Donors]] · [[Marc Andreessen & Horowitz]] · [[Peter Thiel]] · [[Narya Capital]] · [[Trump 2024 Campaign]] · [[Craft Ventures]] · [[Elon Musk]] · [[Crypto Industry Bloc]] · [[Founders Fund]] · [[Palantir Technologies]]"
 ---
 

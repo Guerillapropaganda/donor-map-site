@@ -217,19 +217,14 @@ The Mas Canosa family represents the structural intersection of exile politics a
 
 | Metric | Value |
 |--------|-------|
-| Politicians Funded | 3 |
+| Politicians Funded | 2 |
 | Active Lobbyist | Yes |
-| Committee Overlap Detected | 1 politician |
-
-**Lobby → Donate → Committee chains:**
-
-- Lobbies on **Budget/Appropriations** → Funds **Mario Diaz-Balart** → Sits on **Appropriations**
+| Committee Overlap Detected | None |
 
 **Funded politicians:**
 
-- [[Marco Rubio]] — lobbying: $180K
-- [[Mario Diaz-Balart]] (Appropriations) — lobbying: $180K
 - [[Carlos Gimenez]] (Transportation & Infrastructure) — lobbying: $180K
+- [[Marco Rubio]] — lobbying: $180K
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 

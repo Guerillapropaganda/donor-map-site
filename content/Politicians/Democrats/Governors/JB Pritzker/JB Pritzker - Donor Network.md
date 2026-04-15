@@ -38,7 +38,7 @@ court-jurisdictions:
   - District Court, S.D. New York
 lobbying-spend: 5422000
 lobbying-filings: 87
-related: "[[Juliana Stratton Master Profile]] · [[The Pritzker Machine and Illinois Democratic Power]] · [[Illinois Senate Primary Money War]] · [[Corporate PAC Pledge and Its Limits]] · [[Cory Booker]] · [[The 323 Million Dollar Self-Funded Governor]] · [[Offshore Trusts Toilet Schemes and the Tax Avoidance Architecture]] · [[_JB Pritzker Master Profile|JB Pritzker]] · [[Illinois Future PAC]] · [[Democratic Donor Network]] · [[Democratic Governors Association]] · [[Think Big America]] · [[_Gavin Newsom Master Profile|Gavin Newsom]] · [[_Gretchen Whitmer Master Profile|Gretchen Whitmer]] · [[Raja Krishnamoorthi]] · [[Jon Ossoff]]"
+related: "[[Juliana Stratton Master Profile]] · [[The Pritzker Machine and Illinois Democratic Power]] · [[Illinois Senate Primary Money War]] · [[Corporate PAC Pledge and Its Limits]] · [[Cory Booker]] · [[The 323 Million Dollar Self-Funded Governor]] · [[Offshore Trusts Toilet Schemes and the Tax Avoidance Architecture]] · [[_JB Pritzker Master Profile|JB Pritzker]] · [[Illinois Future PAC]] · [[Democratic Donor Network]] · [[Democratic Governors Association]] · [[Think Big America]] · [[_Gavin Newsom Master Profile|Gavin Newsom]] · [[_Gretchen Whitmer Master Profile|Gretchen Whitmer]] · [[Raja Krishnamoorthi]] · [[Jon Ossoff]] · [[Barack Obama]]"
 donors: "[[Illinois Future PAC]]"
 nonprofit-status: 501(c)(3)
 total-revenue: 216153059

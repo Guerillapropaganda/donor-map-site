@@ -11,5 +11,5 @@ source-tier: 1
 fec-ie-support: $2,736,988
 fec-ie-oppose: null
 politicians-funded: "[[Josh Gottheimer]], [[Debbie Wasserman Schultz]]"
-related: "[[Debbie Wasserman Schultz]]"
+related: "[[Debbie Wasserman Schultz]] · [[Josh Gottheimer]]"
 ---

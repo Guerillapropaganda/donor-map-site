@@ -5,7 +5,7 @@ content-readiness: draft
 last-updated: 2026-04-15
 source-tier: 2
 parent: [[_JB Pritzker Master Profile]]
-related: "[[The 323 Million Dollar Self-Funded Governor]] · [[_JB Pritzker Master Profile]] · [[JB Pritzker (Donor Network)]]"
+related: "[[The 323 Million Dollar Self-Funded Governor]] · [[_JB Pritzker Master Profile]] · [[JB Pritzker (Donor Network)]] · [[JB Pritzker - Donor Network]]"
 ---
 #jb-pritzker #tax-avoidance #offshore #bahamas #toilets #class-analysis #follow-the-money
 

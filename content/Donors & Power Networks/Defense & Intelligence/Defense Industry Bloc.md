@@ -13,7 +13,7 @@ lobbying-spend: 2047000
 lobbying-filings: 123
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
-related: "[[Defense Contractors]] · [[Tommy Tuberville Master Profile]] · [[The STOCK Act Violations and the Enforcement Void]] · [[The Military Promotion Blockade and the Culture War as Donor Cover]] · [[The Trump Conversion and the Defense Contractor Payday]] · [[The National Security-to-Senate Pipeline]] · [[Patty Murray]] · [[Fanjul Family - Florida Crystals]] · [[Lockheed Martin]] · [[Raytheon (RTX)]] · [[Boeing]] · [[Northrop Grumman]] · [[General Dynamics]] · [[L3Harris Technologies]] · [[BAE Systems]] · [[Booz Allen Hamilton]] · [[Leidos]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[Carlyle Group]] · [[National Cattlemen's Beef Association]] · [[American Farm Bureau Federation]] · [[DeVos Family]] · [[Insurance Industry]] · [[Walton Family Foundation]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[National Education Association]] · [[Palantir Technologies]] · [[Palantir Technologies Political Operation]] · [[American Federation for Children]]"
+related: "[[Defense Contractors]] · [[Tommy Tuberville Master Profile]] · [[The STOCK Act Violations and the Enforcement Void]] · [[The Military Promotion Blockade and the Culture War as Donor Cover]] · [[The Trump Conversion and the Defense Contractor Payday]] · [[The National Security-to-Senate Pipeline]] · [[Patty Murray]] · [[Fanjul Family - Florida Crystals]] · [[Lockheed Martin]] · [[Raytheon (RTX)]] · [[Boeing]] · [[Northrop Grumman]] · [[General Dynamics]] · [[L3Harris Technologies]] · [[BAE Systems]] · [[Booz Allen Hamilton]] · [[Leidos]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[Carlyle Group]] · [[National Cattlemen's Beef Association]] · [[American Farm Bureau Federation]] · [[DeVos Family]] · [[Insurance Industry]] · [[Walton Family Foundation]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[National Education Association]] · [[Palantir Technologies]] · [[Palantir Technologies Political Operation]] · [[American Federation for Children]] · [[Boeing Defense]]"
 last-enriched: "2026-04-09"
 needs-reenrichment: true
 reenrich-reason: run fec pipeline
@@ -132,23 +132,19 @@ The Pentagon has failed its financial audit every year since audits began in 201
 
 | Metric | Value |
 |--------|-------|
-| Politicians Funded | 2 |
+| Politicians Funded | 1 |
 | Active Lobbyist | Yes |
-| Committee Overlap Detected | 2 politicians |
+| Committee Overlap Detected | 1 politician |
 
 **Lobby → Donate → Committee chains:**
 
 - Lobbies on **Budget/Appropriations** → Funds **Patty Murray** → Sits on **Appropriations**
 - Lobbies on **Defense** → Funds **Patty Murray** → Sits on **Appropriations**
 - Lobbies on **Defense & Military** → Funds **Patty Murray** → Sits on **Appropriations**
-- Lobbies on **Defense** → Funds **Tommy Tuberville** → Sits on **Senate Committee on Armed Services**
-- Lobbies on **Health Issues** → Funds **Tommy Tuberville** → Sits on **Senate Committee on Health, Education, Labor, and Pensions**
-- Lobbies on **Defense & Military** → Funds **Tommy Tuberville** → Sits on **Senate Committee on Armed Services**
 
 **Funded politicians:**
 
 - [[Patty Murray]] (Appropriations) — lobbying: $2.0M
-- [[Tommy Tuberville]] (Senate Committee on Agriculture, Nutrition, and Forestry, Senate Committee on Armed Services, Senate Committee on Health, Education, Labor, and Pensions) — lobbying: $2.0M
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 

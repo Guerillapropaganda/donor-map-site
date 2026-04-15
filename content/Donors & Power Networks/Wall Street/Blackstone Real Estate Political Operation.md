@@ -6,6 +6,7 @@ redirect-target: "[[Blackstone Real Estate]]"
 last-updated: 2026-04-15
 aliases:
   - "Blackstone Real Estate Political Operation"
+related: "[[Carlyle Group]]"
 ---
 
 # Blackstone Real Estate Political Operation

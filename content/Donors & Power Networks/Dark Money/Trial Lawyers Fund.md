@@ -18,7 +18,7 @@ needs-reenrichment: true
 reenrich-reason: run fec pipeline
 court-jurisdictions:
   - District Court, D. Massachusetts
-related: "[[Entertainment and Hollywood Donors]] · [[Sheldon Whitehouse]] · [[Democratic Donor Network]] · [[_Joe Biden Master Profile|Biden]] · [[Legal Sector Donors]] · [[Ocean Conservancy]] · [[National Progressive Donor Networks]] · [[Sixteen Thirty Fund]] · [[New Venture Fund]] · [[Open Society Foundations]] · [[Media Matters]] · [[Finance and Tech Bundler Network]] · [[Environmental Law & Policy Center]] · [[Democratic Small Dollar Networks]] · [[Small Dollar Donors - ActBlue]] · [[Ohio Federation of Teachers]] · [[Ohio Democratic Party]] · [[Democratic Party Infrastructure]] · [[Democracy Alliance]] · [[Demand Justice]]"
+related: "[[Entertainment and Hollywood Donors]] · [[Sheldon Whitehouse]] · [[Democratic Donor Network]] · [[_Joe Biden Master Profile|Biden]] · [[Legal Sector Donors]] · [[Ocean Conservancy]] · [[National Progressive Donor Networks]] · [[Sixteen Thirty Fund]] · [[New Venture Fund]] · [[Open Society Foundations]] · [[Media Matters]] · [[Finance and Tech Bundler Network]] · [[Environmental Law & Policy Center]] · [[Democratic Small Dollar Networks]] · [[Small Dollar Donors - ActBlue]] · [[Ohio Federation of Teachers]] · [[Ohio Democratic Party]] · [[Democratic Party Infrastructure]] · [[Democracy Alliance]] · [[Demand Justice]] · [[CREW - Citizens for Responsibility and Ethics in Washington]]"
 nonprofit-status: 501(c)(3)
 total-revenue: 191325
 total-assets: 304648

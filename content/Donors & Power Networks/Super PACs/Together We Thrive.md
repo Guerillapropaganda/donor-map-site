@@ -13,7 +13,7 @@ aliases:
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
 politicians-funded: "[[Barbara Lee]], [[Joseph Morelle]], [[Bobby Scott]], [[Raja Krishnamoorthi]], [[James Comer]]"
-related: "[[Bobby Scott]]"
+related: "[[Bobby Scott]] · [[James Comer]]"
 ---
 
 ## Auto-Created Stub

@@ -12,5 +12,5 @@ source-tier: 1
 fec-ie-support: $15,753,725
 fec-ie-oppose: $13,725,456
 politicians-funded: "[[Deb Fischer]], [[Dan Osborn]]"
-related: "[[Deb Fischer]]"
+related: "[[Deb Fischer]] · [[Dan Osborn]]"
 ---

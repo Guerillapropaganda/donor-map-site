@@ -21,16 +21,16 @@ needs-reenrichment: true
 reenrich-reason: run fec pipeline
 federal-register-mentions: 172
 regulatory-agencies:
-  - Environmental Protection Agency
-  - Homeland Security Department
-  - Interior Department
-  - Justice Department
-  - Labor Department
-  - Ocean Energy Management Bureau
-  - Safety and Environmental Enforcement Bureau
-  - Securities and Exchange Commission
-  - Veterans Employment and Training Service
-related: "[[National Association of Manufacturers]] · [[The Agriculture Committee and Farm Bill Politics]] · [[The Ways and Means Gavel and Corporate Tax Architecture]] · [[The Agriculture Committee and Minnesota Suburbs]] · [[The Ways and Means Chair and TCJA Extension]] · [[Akin Gump Strauss Hauer & Feld]] · [[US Chamber of Commerce]] · [[JPMorgan Chase]] · [[Goldman Sachs]] · [[Koch Network - Charles Koch]] · [[Blackstone Group]] · [[_Donald Trump Master Profile|Donald Trump]] · [[DeVos Family]] · [[National Education Association]] · [[American Federation for Children]] · [[Insurance Industry]] · [[Walton Family Foundation]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[Defense Industry Bloc]] · [[American Iron and Steel Institute]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[Healthcare Sector]]"
+  - "Environmental Protection Agency"
+  - "Homeland Security Department"
+  - "Interior Department"
+  - "Justice Department"
+  - "Labor Department"
+  - "Ocean Energy Management Bureau"
+  - "Safety and Environmental Enforcement Bureau"
+  - "Securities and Exchange Commission"
+  - "Veterans Employment and Training Service"
+related: "[[National Association of Manufacturers]] · [[The Agriculture Committee and Farm Bill Politics]] · [[The Ways and Means Gavel and Corporate Tax Architecture]] · [[The Agriculture Committee and Minnesota Suburbs]] · [[The Ways and Means Chair and TCJA Extension]] · [[Akin Gump Strauss Hauer & Feld]] · [[US Chamber of Commerce]] · [[JPMorgan Chase]] · [[Goldman Sachs]] · [[Koch Network - Charles Koch]] · [[Blackstone Group]] · [[_Donald Trump Master Profile|Donald Trump]] · [[DeVos Family]] · [[National Education Association]] · [[American Federation for Children]] · [[Insurance Industry]] · [[Walton Family Foundation]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[Defense Industry Bloc]] · [[American Iron and Steel Institute]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[Healthcare Sector]] · [[House Freedom Caucus]]"
 sec-filings: 10000
 sec-form-types:
   - 8-K

@@ -375,19 +375,15 @@ The class contradiction: the fortune funding West Bank maximalism is generated b
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
-| Politicians Funded | 8 |
+| Politicians Funded | 4 |
 | Committee Overlap Detected | None |
 
 **Funded politicians:**
 
-- [[Donald Trump]]
 - [[Benjamin Netanyahu]]
-- [[Kamala Harris]]
-- [[JD Vance]]
-- [[Marco Rubio]]
-- [[Pete Hegseth]]
-- [[Elise Stefanik]] (Education & Labor)
+- [[Donald Trump]]
 - [[Jared Kushner]]
+- [[Marco Rubio]]
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->

@@ -13,7 +13,7 @@ aliases:
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
 politicians-funded: "[[Bernie Sanders]], [[Brian Schatz]]"
-related: "[[Bernie Sanders]]"
+related: "[[Bernie Sanders]] · [[Brian Schatz]]"
 ---
 
 ## Auto-Created Stub

@@ -11,5 +11,5 @@ source-tier: 1
 fec-ie-support: $2,502
 fec-ie-oppose: null
 politicians-funded: "[[Mark Green]], [[John Thune]]"
-related: "[[Mark Green]]"
+related: "[[Mark Green]] · [[John Thune]]"
 ---

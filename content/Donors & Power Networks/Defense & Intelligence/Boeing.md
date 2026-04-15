@@ -91,7 +91,7 @@ nhtsa-complaints: 0
 nonprofit-status: 501(c)(6)
 total-revenue: 1031754
 total-assets: 589361
-related: "[[The Defense-China Hawk and the Military-Industrial Alignment]] · [[The Defense Appropriations Pipeline - Mississippi Military Spending]] · [[The Veterans Affairs Committee and Kansas Defense]] · [[The Armed Services Committee and Nebraska Defense]] · [[Tom Cole]] · [[The Appropriations Gavel and the Spending Cartel]] · [[The Transportation Committee and Infrastructure Spending]] · [[The Armed Services Committee and Defense Contractor Pipeline]] · [[The Veterans Affairs Committee and Southern Illinois Defense]] · [[Colin Powell]] · [[Volodymyr Zelenskyy]] · [[The Armed Services Committee and Illinois Defense Economy]] · [[The Appropriations Vice Chair and Defense-Healthcare Axis]] · [[The Commerce Committee and Boeing Washington]] · [[The Commerce Committee and Big Tech Jurisdiction]] · [[Northrop Grumman]] · [[The Armed Services Ranking Member and Defense Bipartisanship]] · [[The Homeland Security Committee and Michigan Defense]] · [[General Dynamics]] · [[Raytheon Technologies]] · [[Palantir Technologies]] · [[Palantir Technologies Political Operation]] · [[Lockheed Martin]] · [[_Kay Granger Master Profile|Kay Granger]] · [[Mark Kelly]] · [[_Lindsey Graham Master Profile|Lindsey Graham]] · [[Tammy Duckworth]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[Raytheon (RTX Corporation)]] · [[Leidos]] · [[L3Harris Technologies]] · [[Booz Allen Hamilton]] · [[Boeing Defense]] · [[Valero Energy]] · [[Occidental Petroleum]] · [[WSPA - Western States Petroleum Association]] · [[Instacart]] · [[Flex Association]] · [[Airbnb]] · [[Lyft]] · [[Uber]] · [[UnitedHealth Group - Optum]] · [[Novo Nordisk]] · [[Moderna]]"
+related: "[[The Defense-China Hawk and the Military-Industrial Alignment]] · [[The Defense Appropriations Pipeline - Mississippi Military Spending]] · [[The Veterans Affairs Committee and Kansas Defense]] · [[The Armed Services Committee and Nebraska Defense]] · [[Tom Cole]] · [[The Appropriations Gavel and the Spending Cartel]] · [[The Transportation Committee and Infrastructure Spending]] · [[The Armed Services Committee and Defense Contractor Pipeline]] · [[The Veterans Affairs Committee and Southern Illinois Defense]] · [[Colin Powell]] · [[Volodymyr Zelenskyy]] · [[The Armed Services Committee and Illinois Defense Economy]] · [[The Appropriations Vice Chair and Defense-Healthcare Axis]] · [[The Commerce Committee and Boeing Washington]] · [[The Commerce Committee and Big Tech Jurisdiction]] · [[Northrop Grumman]] · [[The Armed Services Ranking Member and Defense Bipartisanship]] · [[The Homeland Security Committee and Michigan Defense]] · [[General Dynamics]] · [[Raytheon Technologies]] · [[Palantir Technologies]] · [[Palantir Technologies Political Operation]] · [[Lockheed Martin]] · [[_Kay Granger Master Profile|Kay Granger]] · [[Mark Kelly]] · [[_Lindsey Graham Master Profile|Lindsey Graham]] · [[Tammy Duckworth]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[Raytheon (RTX Corporation)]] · [[Leidos]] · [[L3Harris Technologies]] · [[Booz Allen Hamilton]] · [[Boeing Defense]] · [[Valero Energy]] · [[Occidental Petroleum]] · [[WSPA - Western States Petroleum Association]] · [[Instacart]] · [[Flex Association]] · [[Airbnb]] · [[Lyft]] · [[Uber]] · [[UnitedHealth Group - Optum]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]]"
 wikidata-id: Q66
 wikipedia-url: https://en.wikipedia.org/wiki/Boeing
 wikipedia-extract: The Boeing Company is an American multinational corporation that designs and manufactures airplanes, rotorcraft, rockets, satellites, and missiles worldwide.
@@ -364,30 +364,24 @@ Fischer's dual committee position (Appropriations + Armed Services with Strategi
 
 | Metric | Value |
 |--------|-------|
-| Politicians Funded | 8 |
-| Committee Overlap Detected | 8 politicians |
+| Politicians Funded | 5 |
+| Committee Overlap Detected | 5 politicians |
 
 **Lobby → Donate → Committee chains:**
 
-- Lobbies on **Defense & Military** → Funds **Kay Granger** → Sits on **Appropriations**
-- Lobbies on **Defense & Military** → Funds **Elizabeth Warren** → Sits on **Armed Services**
 - Lobbies on **Defense & Military** → Funds **Adam Smith** → Sits on **House Committee on Armed Services**
 - Lobbies on **Defense & Military** → Funds **Jack Reed** → Sits on **Armed Services**
 - Lobbies on **Defense & Military** → Funds **Patty Murray** → Sits on **Appropriations**
 - Lobbies on **Defense & Military** → Funds **Tammy Duckworth** → Sits on **Armed Services**
 - Lobbies on **Defense & Military** → Funds **Mike Rogers** → Sits on **Armed Services**
-- Lobbies on **Defense & Military** → Funds **Tom Cole** → Sits on **Appropriations**
 
 **Funded politicians:**
 
-- [[Kay Granger]] (Appropriations)
-- [[Elizabeth Warren]] (Banking, Housing & Urban Affairs, Finance, Armed Services)
 - [[Adam Smith]] (House Committee on Armed Services)
 - [[Jack Reed]] (Armed Services)
 - [[Patty Murray]] (Appropriations)
 - [[Tammy Duckworth]] (Armed Services)
 - [[Mike Rogers]] (Armed Services)
-- [[Tom Cole]] (Appropriations)
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 

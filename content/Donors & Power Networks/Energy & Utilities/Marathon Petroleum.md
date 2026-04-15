@@ -56,7 +56,7 @@ sec-form-types:
   - SC TO-I
   - SC TO-I/A
   - SCHEDULE 13G/A
-related: "[[Valero Energy]] · [[Kevin McCarthy Master Profile]] · [[Occidental Petroleum]] · [[Cathy McMorris Rodgers Master Profile]] · [[Rashida Tlaib]] · [[WSPA - Western States Petroleum Association]] · [[PG&E - Pacific Gas and Electric]] · [[ExxonMobil]] · [[Chevron]] · [[ConocoPhillips]] · [[Halliburton]] · [[Koch Industries]] · [[American Fuel and Petrochemical Manufacturers]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[_John Barrasso Master Profile|Barrasso]] · [[NextEra Energy]] · [[Southern Company]] · [[Duke Energy]] · [[Devon Energy]] · [[Raytheon (RTX Corporation)]] · [[Palantir Technologies]] · [[Eli Lilly]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Johnson & Johnson]] · [[Gilead Sciences]] · [[Centene Corporation]] · [[AbbVie]] · [[Raytheon Technologies]]"
+related: "[[Valero Energy]] · [[Kevin McCarthy Master Profile]] · [[Occidental Petroleum]] · [[Cathy McMorris Rodgers Master Profile]] · [[Rashida Tlaib]] · [[WSPA - Western States Petroleum Association]] · [[PG&E - Pacific Gas and Electric]] · [[ExxonMobil]] · [[Chevron]] · [[ConocoPhillips]] · [[Halliburton]] · [[Koch Industries]] · [[American Fuel and Petrochemical Manufacturers]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[_John Barrasso Master Profile|Barrasso]] · [[NextEra Energy]] · [[Southern Company]] · [[Duke Energy]] · [[Devon Energy]] · [[Raytheon (RTX Corporation)]] · [[Palantir Technologies]] · [[Eli Lilly]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Johnson & Johnson]] · [[Gilead Sciences]] · [[Centene Corporation]] · [[AbbVie]] · [[Raytheon Technologies]] · [[Palantir Technologies Political Operation]]"
 ein: "464439930"
 annual-revenue: $5.1M
 net-assets: $13.4M
@@ -441,13 +441,12 @@ The 2025 policy return completes the circuit. Marathon spent years and tens of m
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
-| Politicians Funded | 3 |
+| Politicians Funded | 2 |
 | Federal Contractor | Yes |
 | Committee Overlap Detected | None |
 
 **Funded politicians:**
 
-- [[John Barrasso]] — contracts: $51K
 - [[Cathy McMorris Rodgers]] (Energy & Commerce) — contracts: $51K
 - [[Kevin McCarthy]] — contracts: $51K
 

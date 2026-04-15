@@ -331,13 +331,12 @@ The 2025 strategy shift from federal politics to state judicial elections reveal
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
-| Politicians Funded | 2 |
+| Politicians Funded | 1 |
 | Active Lobbyist | Yes |
 | Committee Overlap Detected | None |
 
 **Funded politicians:**
 
-- [[Gavin Newsom]] — lobbying: $1.5M
 - [[Wes Moore]] — lobbying: $1.5M
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*

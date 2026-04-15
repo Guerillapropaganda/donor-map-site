@@ -36,7 +36,7 @@ court-jurisdictions:
   - District Court, S.D. New York
   - United States Bankruptcy Court, D. Delaware
   - United States Judicial Panel on Multidistrict Litigation
-related: "[[FTX - Sam Bankman-Fried]] · [[Coinbase]] · [[Fairshake PAC]] · [[Crypto Industry Bloc]] · [[Debbie Stabenow]]"
+related: "[[FTX - Sam Bankman-Fried]] · [[Coinbase]] · [[Fairshake PAC]] · [[Crypto Industry Bloc]] · [[Debbie Stabenow]] · [[Joe Biden]]"
 ---
 
 <!-- auto:data-panel start -->

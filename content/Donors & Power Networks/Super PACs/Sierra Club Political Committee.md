@@ -13,7 +13,7 @@ aliases:
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
 politicians-funded: "[[Debbie Stabenow]], [[Ed Markey]], [[Gregory Meeks]], [[Ron Wyden]]"
-related: "[[Debbie Stabenow]]"
+related: "[[Debbie Stabenow]] · [[Ron Wyden]]"
 ---
 
 ## Auto-Created Stub

@@ -11,5 +11,5 @@ source-tier: 1
 fec-ie-support: $1,564,500
 fec-ie-oppose: null
 politicians-funded: "[[Angie Craig]], [[Josh Gottheimer]]"
-related: "[[Angie Craig]]"
+related: "[[Angie Craig]] · [[Josh Gottheimer]]"
 ---

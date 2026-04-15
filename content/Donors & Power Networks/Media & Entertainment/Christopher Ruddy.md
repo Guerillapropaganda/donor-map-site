@@ -44,7 +44,7 @@ sec-form-types:
   - SB-2
   - SB-2/A
   - SCHEDULE 13D
-related: "[[Media and Propaganda - Donors and Backers]] · [[John McCain]] · [[Mitt Romney]] · [[The Ramaswamy 32 Days - DOGE Co-Lead to Ohio Governor Candidate]] · [[Mike Rogers]] · [[John Boehner]] · [[The Gubernatorial Pivot - From Sheriff to Culture War Candidate]] · [[Marco Rubio]]"
+related: "[[Media and Propaganda - Donors and Backers]] · [[John McCain]] · [[Mitt Romney]] · [[The Ramaswamy 32 Days - DOGE Co-Lead to Ohio Governor Candidate]] · [[Mike Rogers]] · [[John Boehner]] · [[The Gubernatorial Pivot - From Sheriff to Culture War Candidate]] · [[Marco Rubio]] · [[Ted Cruz]]"
 last-enriched: "2026-04-09"
 total-political-spend: $2,273,803
 politicians-funded: "[[Donald Trump]], [[Mitt Romney]], [[Ted Cruz]], [[The Ramaswamy 32 Days - DOGE Co-Lead to Ohio Governor Candidate]], [[The Gubernatorial Pivot - From Sheriff to Culture War Candidate]], [[Mike Rogers]], [[John Boehner]], [[John McCain]], [[Marco Rubio]]"

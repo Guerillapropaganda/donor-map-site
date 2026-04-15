@@ -13,7 +13,7 @@ aliases:
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
 politicians-funded: "[[Brendan Boyle]], [[Bennie Thompson]]"
-related: "[[Brendan Boyle]]"
+related: "[[Brendan Boyle]] · [[Bennie Thompson]]"
 ---
 
 ## Auto-Created Stub

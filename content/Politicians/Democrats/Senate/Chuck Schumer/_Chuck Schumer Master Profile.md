@@ -37,7 +37,7 @@ known-gaps:
   - No voting record data
   - No mapped relationships
 opposes: "[[_Donald Trump Master Profile]] · [[_Mitch McConnell Master Profile]]"
-related: "[[Goldman Sachs]] · [[AIPAC - American Israel Public Affairs Committee]] · [[The McConnell Dark Money Empire - SLF and One Nation]] · [[_Benjamin Netanyahu Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[Insurance Industry Writes Its Own Regulation Through Both Parties]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[Telecom Buys Net Neutrality's Death From Both Sides]]"
+related: "[[Goldman Sachs]] · [[AIPAC - American Israel Public Affairs Committee]] · [[The McConnell Dark Money Empire - SLF and One Nation]] · [[_Benjamin Netanyahu Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[Insurance Industry Writes Its Own Regulation Through Both Parties]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[Telecom Buys Net Neutrality's Death From Both Sides]] · [[AIPAC Locks Bipartisan Israel Policy While Politicians Fight on Everything Else]]"
 last-enriched: "2026-04-10"
 committees:
   - Senate Committee on Rules and Administration

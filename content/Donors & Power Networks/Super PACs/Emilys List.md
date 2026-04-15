@@ -23,7 +23,7 @@ court-jurisdictions:
 nonprofit-status: 501(c)(4)
 total-revenue: 1057103
 total-assets: 79716
-related: ">- · [[Senate Majority PAC]] · [[Democratic Senatorial Campaign Committee]] · [[Winning for Women PAC]]"
+related: ">- · [[Senate Majority PAC]] · [[Democratic Senatorial Campaign Committee]] · [[Winning for Women PAC]] · [[WinRed]]"
 cross-vault-triangulation-count: 7
 internal-notes: >-
   [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: •

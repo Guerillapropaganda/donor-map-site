@@ -11,5 +11,5 @@ source-tier: 1
 fec-ie-support: $992,581
 fec-ie-oppose: null
 politicians-funded: "[[Nina Turner]], [[Rashida Tlaib]], [[Ilhan Omar]], [[Rosa DeLauro]]"
-related: "[[Rosa DeLauro]]"
+related: "[[Rosa DeLauro]] · [[Rashida Tlaib]]"
 ---

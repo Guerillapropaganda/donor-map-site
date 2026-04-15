@@ -30,7 +30,7 @@ regulatory-agencies:
   - Homeland Security Department
   - Housing and Urban Development Department
   - Internal Revenue Service
-related: "[[Healthcare Sector]] · [[The Moderate Brand as Donor Strategy]] · [[John Thune Master Profile]] · [[John Cornyn]] · [[Deb Fischer]] · [[Bryan Steil]] · [[Mark Warner]] · [[Barack Obama Master Profile]] · [[The Maui Wildfire Response and the Rebuilding Money Trail]] · [[Chris Murphy Master Profile]] · [[Defense Contractors]] · [[Insurance Industry Bloc]] · [[UnitedHealth Group - Optum]] · [[Blue Cross Blue Shield Association]] · [[Anthem PAC]] · [[PhRMA]] · [[Centene Corporation PAC]] · [[US Chamber of Commerce]] · [[Stand Together]] · [[National Education Association]] · [[DeVos Family]] · [[Walton Family Foundation]] · [[American Federation for Children]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[Defense Contractors Bloc]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[American Petroleum Institute]] · [[Pharmaceutical Industry]] · [[Thom Tillis]] · [[Joe Manchin]]"
+related: "[[Healthcare Sector]] · [[The Moderate Brand as Donor Strategy]] · [[John Thune Master Profile]] · [[John Cornyn]] · [[Deb Fischer]] · [[Bryan Steil]] · [[Mark Warner]] · [[Barack Obama Master Profile]] · [[The Maui Wildfire Response and the Rebuilding Money Trail]] · [[Chris Murphy Master Profile]] · [[Defense Contractors]] · [[Insurance Industry Bloc]] · [[UnitedHealth Group - Optum]] · [[Blue Cross Blue Shield Association]] · [[Anthem PAC]] · [[PhRMA]] · [[Centene Corporation PAC]] · [[US Chamber of Commerce]] · [[Stand Together]] · [[National Education Association]] · [[DeVos Family]] · [[Walton Family Foundation]] · [[American Federation for Children]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[Defense Contractors Bloc]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[American Petroleum Institute]] · [[Pharmaceutical Industry]] · [[Thom Tillis]] · [[Joe Manchin]] · [[Tammy Baldwin]]"
 lobbying-spend: 25607025
 lobbying-filings: 107
 cross-vault-triangulation-count: 17
@@ -283,35 +283,14 @@ The Medicare Advantage program represents the endpoint of this strategy: a gover
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
-| Politicians Funded | 11 |
+| Politicians Funded | 1 |
 | Active Lobbyist | Yes |
 | Federal Contractor | Yes |
-| Committee Overlap Detected | 3 politicians |
-
-**Lobby → Donate → Committee chains:**
-
-- Lobbies on **Agriculture** → Funds **Deb Fischer** → Sits on **Agriculture**
-- Lobbies on **Defense** → Funds **Deb Fischer** → Sits on **Armed Services**
-- Lobbies on **Government Issues** → Funds **Gary Peters** → Sits on **Homeland Security**
-- Lobbies on **Homeland Security** → Funds **Gary Peters** → Sits on **Homeland Security**
-- Lobbies on **Banking** → Funds **John Cornyn** → Sits on **Finance**
-- Lobbies on **Copyright/Patent/Trademark** → Funds **John Cornyn** → Sits on **Judiciary**
-- Lobbies on **Financial Institutions/Investments/Securities** → Funds **John Cornyn** → Sits on **Finance**
-- Lobbies on **Medicare/Medicaid** → Funds **John Cornyn** → Sits on **Finance**
+| Committee Overlap Detected | None |
 
 **Funded politicians:**
 
-- [[Thom Tillis]] — lobbying: $25.6M — contracts: $11K
-- [[Deb Fischer]] (Armed Services, Agriculture) — lobbying: $25.6M — contracts: $11K
-- [[Wes Moore]] — lobbying: $25.6M — contracts: $11K
-- [[Joe Manchin]] — lobbying: $25.6M — contracts: $11K
-- [[Tammy Baldwin]] — lobbying: $25.6M — contracts: $11K
-- [[Mark Warner]] (Intelligence) — lobbying: $25.6M — contracts: $11K
-- [[Gary Peters]] (Homeland Security) — lobbying: $25.6M — contracts: $11K
-- [[Bryan Steil]] — lobbying: $25.6M — contracts: $11K
-- [[John Cornyn]] (Judiciary, Intelligence, Finance) — lobbying: $25.6M — contracts: $11K
 - [[Barack Obama]] — lobbying: $25.6M — contracts: $11K
-- [[John Thune]] — lobbying: $25.6M — contracts: $11K
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->

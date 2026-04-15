@@ -68,7 +68,7 @@ sec-form-types:
   - LETTER
   - PX14A6G
   - SC 13D
-related: "[[Colorado 2026 Senate Race]] · [[Martin Heinrich Master Profile]] · [[Mark Warner]] · [[Zoe Lofgren]] · [[Gerry Connolly]] · [[Virginia 2026 Senate Race]] · [[Jon Ossoff Master Profile]] · [[Jason Smith]] · [[Adam Smith]] · [[Silicon Valley Donors]] · [[Google - Alphabet]] · [[Meta - Facebook]] · [[a16z - Andreessen Horowitz|a16z]] · [[Tech IP and Patent Lobbying]] · [[Susan Collins]]"
+related: "[[Colorado 2026 Senate Race]] · [[Martin Heinrich Master Profile]] · [[Mark Warner]] · [[Zoe Lofgren]] · [[Gerry Connolly]] · [[Virginia 2026 Senate Race]] · [[Jon Ossoff Master Profile]] · [[Jason Smith]] · [[Adam Smith]] · [[Silicon Valley Donors]] · [[Google - Alphabet]] · [[Meta - Facebook]] · [[a16z - Andreessen Horowitz|a16z]] · [[Tech IP and Patent Lobbying]] · [[Susan Collins]] · [[Mike Collins]]"
 court-cases: 1270
 court-jurisdictions:
   - Court of Appeals for the D.C. Circuit

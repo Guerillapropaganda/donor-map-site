@@ -5,7 +5,7 @@ content-readiness: draft
 last-updated: 2026-04-15
 source-tier: 2
 parent: [[_JB Pritzker Master Profile]]
-related: "[[Offshore Trusts Toilet Schemes and the Tax Avoidance Architecture]] · [[_JB Pritzker Master Profile]] · [[JB Pritzker (Donor Network)]]"
+related: "[[Offshore Trusts Toilet Schemes and the Tax Avoidance Architecture]] · [[_JB Pritzker Master Profile]] · [[JB Pritzker (Donor Network)]] · [[JB Pritzker - Donor Network]]"
 ---
 #jb-pritzker #self-funded #campaign-finance #dga #think-big-america #class-analysis #follow-the-money
 

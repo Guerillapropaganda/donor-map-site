@@ -53,7 +53,7 @@ tax-year: "2023"
 nonprofit-status: 501(c)(6)
 total-revenue: 173949
 total-assets: 231861
-related: ">- · [[Linda McMahon]] · [[Shelley Moore Capito]] · [[The EPW Committee and West Virginia Energy Transition]]"
+related: ">- · [[Linda McMahon]] · [[Shelley Moore Capito]] · [[The EPW Committee and West Virginia Energy Transition]] · [[The Finance Committee and Tax Industry Alignment]]"
 federal-register-mentions: 22
 regulatory-agencies:
   - Commerce Department
@@ -409,7 +409,7 @@ The Chamber does not represent "business." It represents the capital class's int
 
 | Metric | Value |
 |--------|-------|
-| Politicians Funded | 3 |
+| Politicians Funded | 1 |
 | Active Lobbyist | Yes |
 | Committee Overlap Detected | 1 politician |
 
@@ -424,8 +424,6 @@ The Chamber does not represent "business." It represents the capital class's int
 
 **Funded politicians:**
 
-- [[Donald Trump]] — lobbying: $790K
-- [[Barack Obama]] — lobbying: $790K
 - [[John Cornyn]] (Judiciary, Intelligence, Finance) — lobbying: $790K
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*

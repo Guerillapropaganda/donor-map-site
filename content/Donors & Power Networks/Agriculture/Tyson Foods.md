@@ -16,23 +16,23 @@ top-federal-agency: Department of Agriculture
 top-naics-code: "311615"
 ein: 476014039
 nonprofit-status: 501(c)(3)
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-15"
 needs-reenrichment: true
 reenrich-reason: run lda pipeline
 total-revenue: 1
 total-assets: 321518
 federal-register-mentions: 74
 regulatory-agencies:
-  - Agricultural Marketing Service
-  - Agriculture Department
-  - Children and Families Administration
-  - Consumer Financial Protection Bureau
-  - Employment and Training Administration
-  - Environmental Protection Agency
-  - Federal Aviation Administration
-  - Federal Maritime Commission
-  - Food and Nutrition Service
-  - Health and Human Services Department
+  - "Agricultural Marketing Service"
+  - "Agriculture Department"
+  - "Children and Families Administration"
+  - "Consumer Financial Protection Bureau"
+  - "Employment and Training Administration"
+  - "Environmental Protection Agency"
+  - "Federal Aviation Administration"
+  - "Federal Maritime Commission"
+  - "Food and Nutrition Service"
+  - "Health and Human Services Department"
 related: "[[Cargill]] · [[Agriculture - Donors and Backers]] · [[The Farm Bill - The Bipartisan Subsidy Machine]] · [[American Farm Bureau Federation]] · [[_John Boozman Master Profile|Boozman]] · [[National Cattlemen's Beef Association]] · [[Monsanto - Bayer]] · [[John Deere]] · [[ADM - Archer Daniels Midland]] · [[Meatpacking Corporations]] · [[United Farm Workers]] · [[Agribusiness Donor Bloc]]"
 court-cases: 14512
 court-jurisdictions:

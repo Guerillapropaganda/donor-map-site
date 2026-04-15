@@ -21,7 +21,7 @@ known-gaps:
   - No mapped relationships
 last-enriched: "2026-04-10"
 total-political-spend: $10,212
-related: "[[_Donald Trump Master Profile]] · [[Oracle]] · [[Steve Scalise]] · [[Marco Rubio]]"
+related: "[[_Donald Trump Master Profile]] · [[Oracle]] · [[Steve Scalise]] · [[Marco Rubio]] · [[Rand Paul]]"
 federal-register-mentions: 2
 regulatory-agencies:
   - Fish and Wildlife Service

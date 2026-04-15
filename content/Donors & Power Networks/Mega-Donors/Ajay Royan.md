@@ -26,7 +26,7 @@ known-gaps:
   - No lobbying disclosure data
   - No mapped relationships
 internal-notes: "[URL Check 2026-04-09] 19 checked: 18 ok, 1 broken, 0 slow. | BROKEN: Source: CourtListener / RECAP"
-related: "[[Peter Thiel]] · [[Mithril Capital]] · [[Palantir Technologies]] · [[Founders Fund]] · [[Narya Capital]] · [[_JD Vance Master Profile|JD Vance]] · [[David Sacks]] · [[BlackSky]] · [[Marc Andreessen]] · [[David Sacks (Donor Network)]]"
+related: "[[Peter Thiel]] · [[Mithril Capital]] · [[Palantir Technologies]] · [[Founders Fund]] · [[Narya Capital]] · [[_JD Vance Master Profile|JD Vance]] · [[David Sacks]] · [[BlackSky]] · [[Marc Andreessen]] · [[David Sacks (Donor Network)]] · [[David Sacks - Donor Network]]"
 ---
 
 <!-- auto:data-panel start -->

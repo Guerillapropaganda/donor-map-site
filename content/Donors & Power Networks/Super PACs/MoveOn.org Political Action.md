@@ -12,7 +12,7 @@ aliases:
 known-gaps:
   - Auto-created stub for relationship edge resolution. Full editorial content pending , needs Research Claude to fill in donors, politicians funded, ideology, and class analysis.
 politicians-funded: "[[John Boehner]], [[Raul Grijalva]], [[Sheldon Whitehouse]], [[Rashida Tlaib]], [[Brian Schatz]]"
-related: "[[John Boehner]]"
+related: "[[John Boehner]] · [[Sheldon Whitehouse]]"
 ---
 
 ## Auto-Created Stub

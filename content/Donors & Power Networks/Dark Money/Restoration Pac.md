@@ -12,5 +12,5 @@ source-tier: 1
 fec-ie-support: "null"
 fec-ie-oppose: $47,848,182
 politicians-funded: "[[Kamala Harris]], [[Richard Blumenthal]]"
-related: "[[Kamala Harris]]"
+related: "[[Kamala Harris]] · [[Richard Blumenthal]]"
 ---

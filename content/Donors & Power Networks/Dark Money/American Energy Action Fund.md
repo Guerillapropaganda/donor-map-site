@@ -11,5 +11,5 @@ source-tier: 1
 fec-ie-support: $308,000
 fec-ie-oppose: null
 politicians-funded: "[[John Hoeven]], [[James Lankford]]"
-related: "[[John Hoeven]]"
+related: "[[John Hoeven]] · [[James Lankford]]"
 ---

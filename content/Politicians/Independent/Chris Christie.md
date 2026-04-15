@@ -4,7 +4,7 @@ type: politician
 party: Independent
 content-readiness: draft
 central-thesis: Christie's political career is a demonstration of how prosecuting a billionaire creates permanent class consequences. In 2005, as U.S. Attorney for New Jersey, Christie secured guilty pleas from Charles Kushner for tax evasion, campaign finance vi...
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 total-received: $7,628,085
@@ -17,7 +17,7 @@ corroboration-count: 3
 known-gaps:
   - No voting record data
   - No mapped relationships
-related: "[[_Jared Kushner Master Profile]] · [[_Donald Trump Master Profile]]"
+related: "[[_Jared Kushner Master Profile]] · [[_Donald Trump Master Profile]] · [[Real Estate Industry]]"
 top-donors: "[[Conservative Solutions PAC]], [[America Leads]], [[Tell It Like It Is Pac]]"
 donors: "[[Tell It Like It Is Pac]], [[America Leads]], [[Conservative Solutions PAC]]"
 ---

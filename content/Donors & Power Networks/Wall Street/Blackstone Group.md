@@ -390,7 +390,7 @@ The pension fund dynamic completes the circle. State employee pension funds, Cal
 
 | Metric | Value |
 |--------|-------|
-| Politicians Funded | 4 |
+| Politicians Funded | 1 |
 | Active Lobbyist | Yes |
 | Federal Contractor | Yes |
 | Committee Overlap Detected | 1 politician |
@@ -401,9 +401,6 @@ The pension fund dynamic completes the circle. State employee pension funds, Cal
 
 **Funded politicians:**
 
-- [[Donald Trump]] — lobbying: $4.5M — contracts: $623K
-- [[Chuck Schumer]] (Senate Committee on Rules and Administration, Senate Select Committee on Intelligence) — lobbying: $4.5M — contracts: $623K
-- [[Susan Collins]] — lobbying: $4.5M — contracts: $623K
 - [[Mike Lee]] (Antitrust (Judiciary)) — lobbying: $4.5M — contracts: $623K
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*

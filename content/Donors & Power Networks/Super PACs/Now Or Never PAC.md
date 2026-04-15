@@ -13,7 +13,7 @@ aliases:
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
 politicians-funded: "[[James Lankford]], [[Tammy Duckworth]]"
-related: "[[James Lankford]]"
+related: "[[James Lankford]] · [[Tammy Duckworth]]"
 ---
 
 ## Auto-Created Stub

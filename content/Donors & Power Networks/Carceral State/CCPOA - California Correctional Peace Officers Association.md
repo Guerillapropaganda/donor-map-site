@@ -20,7 +20,7 @@ subawards-issued: 50
 subawards-issued-amount: 51876611853
 subawards-received: 50
 subawards-received-amount: 51876611853
-related: "[[Chad Bianco Master Profile]] · [[Budget Priorities - What California Actually Funds]] · [[Gun and Public Safety - Donors and Backers]] · [[Bail Bond Industry]] · [[Aramark]] · [[CoreCivic]] · [[_Gavin Newsom Master Profile]] · [[CCPOA - The Prison Guard Donor and the Reform Ceiling]] · [[San Quentin - COVID Disaster and Rehabilitation Theater]] · [[Policing Reform - George Floyd Era]] · [[Criminal Justice - Donors and Backers]] · [[Uber]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Johnson & Johnson]] · [[Moderna]] · [[Novo Nordisk]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[Palantir Technologies]] · [[Raytheon Technologies]] · [[Palantir Technologies Political Operation]]"
+related: "[[Chad Bianco Master Profile]] · [[Budget Priorities - What California Actually Funds]] · [[Gun and Public Safety - Donors and Backers]] · [[Bail Bond Industry]] · [[Aramark]] · [[CoreCivic]] · [[_Gavin Newsom Master Profile]] · [[CCPOA - The Prison Guard Donor and the Reform Ceiling]] · [[San Quentin - COVID Disaster and Rehabilitation Theater]] · [[Policing Reform - George Floyd Era]] · [[Criminal Justice - Donors and Backers]] · [[Uber]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Johnson & Johnson]] · [[Moderna]] · [[Novo Nordisk]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[Palantir Technologies]] · [[Raytheon Technologies]] · [[Palantir Technologies Political Operation]] · [[Tenet Healthcare]]"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 cross-vault-triangulation-count: 13
@@ -259,13 +259,12 @@ The return on $2.9 million in Newsom contributions is $1.6 billion in contracts 
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
-| Politicians Funded | 2 |
+| Politicians Funded | 1 |
 | Federal Contractor | Yes |
 | Committee Overlap Detected | None |
 
 **Funded politicians:**
 
-- [[Gavin Newsom]] — contracts: $172K
 - [[Chad Bianco]] — contracts: $172K
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*

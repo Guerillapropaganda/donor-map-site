@@ -11,5 +11,5 @@ source-tier: 1
 fec-ie-support: null
 fec-ie-oppose: $7,032
 politicians-funded: "[[Pete Buttigieg]], [[Cory Booker]]"
-related: "[[Cory Booker]]"
+related: "[[Cory Booker]] · [[Pete Buttigieg]]"
 ---

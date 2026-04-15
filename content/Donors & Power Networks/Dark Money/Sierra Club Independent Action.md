@@ -11,5 +11,5 @@ source-tier: 1
 fec-ie-support: $6,515
 fec-ie-oppose: null
 politicians-funded: "[[Ed Markey]], [[Dan Goldman]], [[Bobby Scott]]"
-related: "[[Dan Goldman]]"
+related: "[[Dan Goldman]] · [[Ed Markey]]"
 ---

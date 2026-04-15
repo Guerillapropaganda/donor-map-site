@@ -12,5 +12,5 @@ source-tier: 1
 fec-ie-support: $12,170,854
 fec-ie-oppose: $145,576,184
 politicians-funded: "[[Ted Cruz]], [[Bernie Moreno]], [[Sherrod Brown]]"
-related: "[[Ted Cruz]]"
+related: "[[Ted Cruz]] · [[Bernie Moreno]]"
 ---

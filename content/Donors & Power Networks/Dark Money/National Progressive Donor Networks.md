@@ -96,13 +96,12 @@ The structural parallel to the Koch network is exact. Conservative donors coordi
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
-| Politicians Funded | 2 |
+| Politicians Funded | 1 |
 | Active Lobbyist | Yes |
 | Committee Overlap Detected | None |
 
 **Funded politicians:**
 
-- [[Tom Steyer]] — lobbying: $3.1M
 - [[Mallory McMorrow]] — lobbying: $3.1M
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*

@@ -498,6 +498,7 @@ _No committee data found for the 119th Congress._
 
 **Key Votes**
 
+| 2026-04-15 | On Agreeing to the Resolution: H RES 1174 Providing for consideration of the bills (H.R. 6387, H.R. 6398, and H.R. 6409) | **No** | Passed |
 | 2026-04-14 | H.R. 7613: To require certain aircraft to be equipped and operating with collision prevention technology, to improve hel | **Yea** | Passed |
 | 2026-04-14 | H.R. 1011: Emergency Conservation Program Improvement Act of 2025 | **Yea** | Passed |
 | 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appro | **No** | Passed |
@@ -512,11 +513,10 @@ _No committee data found for the 119th Congress._
 | 2026-03-18 | H.R. 1958: Deporting Fraudsters Act of 2026 | **Nay** | Passed |
 | 2026-03-18 | H.R. 556: Protecting Access for Hunters and Anglers Act | **No** | Passed |
 | 2026-03-17 | H.Res. 1115: Providing for consideration of the bill (H.R. 556) to prohibit the Secretary of the Interior and the Secret | **Not Voting** | Passed |
-| 2026-03-17 | S. 3971: Small Business Innovation and Economic Security Act | **Not Voting** | Passed |
 
 **Sources**
 
-- [Congress.gov: Alexandria Ocasio-Cortez](https://www.congress.gov/member/f000485) (Tier 1)
+- [Congress.gov: Alexandria Ocasio-Cortez](https://www.congress.gov/member/g000594) (Tier 1)
 - [GovTrack: Alexandria Ocasio-Cortez](https://www.govtrack.us/congress/members/412804) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->

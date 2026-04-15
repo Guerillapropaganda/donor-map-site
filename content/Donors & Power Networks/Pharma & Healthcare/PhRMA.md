@@ -23,7 +23,7 @@ regulatory-agencies:
   - Health and Human Services Department
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-related: ">- · [[Healthcare - Donors and Backers]] · [[Richard Neal]] · [[PhRMA Kills Drug Negotiation From Both Sides]]"
+related: ">- · [[Healthcare - Donors and Backers]] · [[Richard Neal]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[Brett Guthrie]]"
 cross-vault-triangulation-count: 16
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 sec-filings: 58
@@ -371,7 +371,7 @@ The Inflation Reduction Act represents the first breach in this structure. PhRMA
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
-| Politicians Funded | 6 |
+| Politicians Funded | 2 |
 | Active Lobbyist | Yes |
 | Committee Overlap Detected | 1 politician |
 
@@ -381,11 +381,7 @@ The Inflation Reduction Act represents the first breach in this structure. PhRMA
 
 **Funded politicians:**
 
-- [[Richard Neal]] (Ways & Means) — lobbying: $2.7M
-- [[Brett Guthrie]] — lobbying: $2.7M
-- [[Billy Tauzin]] — lobbying: $2.7M
 - [[Frank Pallone]] (House Committee on Energy and Commerce) — lobbying: $2.7M
-- [[Chris Coons]] (Senate Committee on Appropriations, Senate Committee on Foreign Relations, Senate Committee on Small Business and Entrepreneurship) — lobbying: $2.7M
 - [[Cory Booker]] — lobbying: $2.7M
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*

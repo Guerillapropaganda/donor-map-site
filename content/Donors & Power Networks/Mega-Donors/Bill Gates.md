@@ -12,7 +12,7 @@ issues:
   - Energy & Climate
 total-political-spend: $652,713
 politicians-funded: "[[Frank Lucas]], [[Martin Heinrich]], [[Rosa DeLauro]], [[Debbie Stabenow]]"
-related: "[[Economic Policy Institute]] · [[Rosa DeLauro]] · [[Microsoft]] · [[Walton Family Foundation]] · [[Eli Broad Foundation]] · [[DeVos Family]] · [[Martin Heinrich]]"
+related: "[[Economic Policy Institute]] · [[Rosa DeLauro]] · [[Microsoft]] · [[Walton Family Foundation]] · [[Eli Broad Foundation]] · [[DeVos Family]] · [[Martin Heinrich]] · [[Debbie Stabenow]]"
 last-enriched: "2026-04-10"
 court-cases: 1299
 court-jurisdictions:

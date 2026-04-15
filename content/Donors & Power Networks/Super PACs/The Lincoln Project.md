@@ -13,7 +13,7 @@ known-gaps:
   - Auto-created stub for relationship edge resolution. Full editorial content pending , needs Research Claude to fill in donors, politicians funded, ideology, and class analysis.
 opposes: "[[Marjorie Taylor Greene]]"
 politicians-funded: "[[Elise Stefanik]], [[Steve Scalise]], [[Marjorie Taylor Greene]]"
-related: "[[Elise Stefanik]]"
+related: "[[Elise Stefanik]] · [[Steve Scalise]]"
 ---
 
 ## Auto-Created Stub

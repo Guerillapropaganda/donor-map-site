@@ -15,5 +15,5 @@ aliases:
   - Ending Spending Action Fund
   - ENDING SPENDING ACTION FUND
 politicians-funded: "[[Deb Fischer]], [[Roger Marshall]], [[John Hickenlooper]], [[Patty Murray]], [[Dan Osborn]]"
-related: "[[Roger Marshall]]"
+related: "[[Roger Marshall]] · [[Deb Fischer]]"
 ---

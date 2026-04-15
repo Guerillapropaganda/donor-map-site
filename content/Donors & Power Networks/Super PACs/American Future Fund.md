@@ -13,7 +13,7 @@ known-gaps:
   - Auto-created stub for relationship edge resolution. Full editorial content pending , needs Research Claude to fill in donors, politicians funded, ideology, and class analysis.
 opposes: "[[Kyrsten Sinema]]"
 politicians-funded: "[[Rick Larsen]], [[Kyrsten Sinema]], [[Martin Heinrich]]"
-related: "[[Martin Heinrich]]"
+related: "[[Martin Heinrich]] · [[Rick Larsen]]"
 ---
 
 ## Auto-Created Stub

@@ -301,15 +301,13 @@ Sources: [NOTUS: Mellon-RFK-Trump donor](https://www.notus.org/2024-election/tim
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
-| Politicians Funded | 4 |
+| Politicians Funded | 2 |
 | Active Lobbyist | Yes |
 | Committee Overlap Detected | None |
 
 **Funded politicians:**
 
 - [[Donald Trump]] — lobbying: $1.9M
-- [[Greg Abbott]] — lobbying: $1.9M
-- [[JD Vance]] — lobbying: $1.9M
 - [[Mitch McConnell]] — lobbying: $1.9M
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*

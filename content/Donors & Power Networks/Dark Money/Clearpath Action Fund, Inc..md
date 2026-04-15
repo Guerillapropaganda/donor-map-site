@@ -11,5 +11,5 @@ source-tier: 1
 fec-ie-support: $437,125
 fec-ie-oppose: null
 politicians-funded: "[[John Barrasso]], [[Cathy McMorris Rodgers]], [[John Hoeven]]"
-related: "[[John Hoeven]]"
+related: "[[John Hoeven]] · [[John Barrasso]]"
 ---

@@ -13,7 +13,7 @@ aliases:
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
 politicians-funded: "[[Nancy Pelosi]], [[Elizabeth Warren]], [[Maxine Waters]]"
-related: "[[Elizabeth Warren]]"
+related: "[[Elizabeth Warren]] · [[Nancy Pelosi]]"
 ---
 
 ## Auto-Created Stub

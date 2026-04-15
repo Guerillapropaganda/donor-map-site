@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-15
 source-tier: 1
 parent: [[_Juliana Stratton Master Profile]]
-related: "[[Juliana Stratton]] · [[_JB Pritzker Master Profile|JB Pritzker]] · [[Illinois Future PAC]] · [[Dick Durbin]] · [[JB Pritzker (Donor Network)]]"
+related: "[[Juliana Stratton]] · [[_JB Pritzker Master Profile|JB Pritzker]] · [[Illinois Future PAC]] · [[Dick Durbin]] · [[JB Pritzker (Donor Network)]] · [[JB Pritzker - Donor Network]]"
 ---
 #pritzker #illinois-machine #billionaire-politics #campaign-finance #2026-senate
 

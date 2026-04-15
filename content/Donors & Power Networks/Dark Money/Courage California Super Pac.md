@@ -11,5 +11,5 @@ source-tier: 1
 fec-ie-support: $6,677
 fec-ie-oppose: null
 politicians-funded: "[[Barbara Lee]], [[Zoe Lofgren]]"
-related: "[[Zoe Lofgren]]"
+related: "[[Zoe Lofgren]] · [[Barbara Lee]]"
 ---

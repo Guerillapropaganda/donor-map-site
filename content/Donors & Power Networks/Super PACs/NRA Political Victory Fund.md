@@ -12,7 +12,7 @@ aliases:
 known-gaps:
   - Auto-created stub for relationship edge resolution. Full editorial content pending , needs Research Claude to fill in donors, politicians funded, ideology, and class analysis.
 opposes: "[[George W. Bush]]"
-related: "[[George W. Bush]] · [[John McCain]]"
+related: "[[George W. Bush]] · [[John McCain]] · [[John Thune]]"
 politicians-funded: "[[George W. Bush]], [[John McCain]], [[John Thune]], [[Bernie Sanders]]"
 ---
 

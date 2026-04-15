@@ -12,5 +12,5 @@ source-tier: 1
 fec-ie-support: $10,488,111
 fec-ie-oppose: "null"
 politicians-funded: "[[Pete Buttigieg]], [[Tammy Baldwin]]"
-related: "[[Tammy Baldwin]]"
+related: "[[Tammy Baldwin]] · [[Pete Buttigieg]]"
 ---

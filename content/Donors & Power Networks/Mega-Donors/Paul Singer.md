@@ -279,18 +279,12 @@ The $2.4 billion payout was part of a $4.65 billion settlement with four hedge f
 
 | Metric | Value |
 |--------|-------|
-| Politicians Funded | 4 |
+| Politicians Funded | 2 |
 | Active Lobbyist | Yes |
-| Committee Overlap Detected | 1 politician |
-
-**Lobby → Donate → Committee chains:**
-
-- Lobbies on **Defense** → Funds **Mike Rogers** → Sits on **Armed Services**
+| Committee Overlap Detected | None |
 
 **Funded politicians:**
 
-- [[Mike Rogers]] (Armed Services) — lobbying: $1.3M
-- [[Michael Whatley]] — lobbying: $1.3M
 - [[Tom Cotton]] — lobbying: $1.3M
 - [[Samuel Alito]] — lobbying: $1.3M
 

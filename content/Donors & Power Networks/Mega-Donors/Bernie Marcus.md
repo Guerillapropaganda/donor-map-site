@@ -11,7 +11,7 @@ issues:
   - Israel & Foreign Policy
   - Republican Politics
 politicians-funded: "[[George Latimer]], [[Donald Trump]], [[Wesley Bell]]"
-related: "[[United Democracy Project - UDP]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Donald Trump Master Profile]] · [[_Jamaal Bowman Master Profile]] · [[Wesley Bell]]"
+related: "[[United Democracy Project - UDP]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Donald Trump Master Profile]] · [[_Jamaal Bowman Master Profile]] · [[Wesley Bell]] · [[George Latimer]]"
 source-types: []
 known-gaps:
   - Stub created 2026-04-09 to preserve vault connections

@@ -17,6 +17,7 @@ ofac-sdn-match: "true"
 last-enriched: "2026-04-15"
 ofac-programs:
   - "RUSSIA-EO14024"
+related: "[[Pramila Jayapal]]"
 ---
 
 ## Auto-Created Stub

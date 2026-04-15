@@ -11,5 +11,5 @@ source-tier: 1
 fec-ie-support: $2,927,408
 fec-ie-oppose: $2,287,615
 politicians-funded: "[[Cori Bush]], [[Nina Turner]], [[Wesley Bell]], [[Henry Cuellar]], [[Dan Goldman]]"
-related: "[[Wesley Bell]]"
+related: "[[Wesley Bell]] · [[Nina Turner]]"
 ---

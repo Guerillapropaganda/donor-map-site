@@ -11,5 +11,5 @@ source-tier: 1
 fec-ie-support: $36,907
 fec-ie-oppose: $357
 politicians-funded: "[[Doug Burgum]], [[Sherrod Brown]]"
-related: "[[Sherrod Brown]]"
+related: "[[Sherrod Brown]] · [[Doug Burgum]]"
 ---

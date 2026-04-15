@@ -12,7 +12,7 @@ issues:
   - Technology
 lobbying-spend: 1258000
 lobbying-filings: 51
-related: "[[Mark Warner]] · [[Jon Ossoff Master Profile]] · [[a16z - Andreessen Horowitz|a16z]] · [[Founders Fund]] · [[Reid Hoffman]] · [[Eric Schmidt]] · [[Marc Andreessen & Horowitz]] · [[_Donald Trump Master Profile|Trump]] · [[_David Sacks Master Profile|David Sacks]] · [[Peter Thiel]] · [[Fairshake PAC]] · [[America PAC - Elon Musk|America PAC]] · [[Google - Alphabet]] · [[Meta - Facebook]] · [[Tech and Media Donors]] · [[Tech Industry]] · [[Finance and Tech Bundler Network]] · [[David Sacks (Donor Network)]]"
+related: "[[Mark Warner]] · [[Jon Ossoff Master Profile]] · [[a16z - Andreessen Horowitz|a16z]] · [[Founders Fund]] · [[Reid Hoffman]] · [[Eric Schmidt]] · [[Marc Andreessen & Horowitz]] · [[_Donald Trump Master Profile|Trump]] · [[_David Sacks Master Profile|David Sacks]] · [[Peter Thiel]] · [[Fairshake PAC]] · [[America PAC - Elon Musk|America PAC]] · [[Google - Alphabet]] · [[Meta - Facebook]] · [[Tech and Media Donors]] · [[Tech Industry]] · [[Finance and Tech Bundler Network]] · [[David Sacks (Donor Network)]] · [[David Sacks - Donor Network]]"
 ein: "330152369"
 nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-09"
@@ -188,14 +188,12 @@ Third, **preemption of democratic governance.** The December 2025 executive orde
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
-| Politicians Funded | 3 |
+| Politicians Funded | 1 |
 | Active Lobbyist | Yes |
 | Committee Overlap Detected | None |
 
 **Funded politicians:**
 
-- [[Donald Trump]] — lobbying: $1.3M
-- [[David Sacks]] — lobbying: $1.3M
 - [[Mark Warner]] (Intelligence) — lobbying: $1.3M
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*

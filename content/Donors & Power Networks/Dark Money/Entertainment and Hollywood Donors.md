@@ -12,7 +12,7 @@ federal-contracts: "997000"
 last-enriched: "2026-04-07"
 needs-reenrichment: true
 reenrich-reason: run fec pipeline
-related: "[[J Street]] · [[Jon Ossoff Master Profile]] · [[The Investigative Filmmaker Brand and the Senate Record Gap]] · [[The $30 Million Special Election and the National Donor Flood]] · [[Trial Lawyers Fund]] · [[Jeffrey Katzenberg]] · [[Haim Saban]] · [[Democratic Donor Network]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Barack Obama Master Profile|Obama]] · [[_Joe Biden Master Profile|Biden]] · [[_Hillary Clinton Master Profile|Clinton]] · [[Saban Center for Middle East Policy]] · [[Motion Picture Association]] · [[JCRC Bay Area]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[Christians United for Israel]] · [[American Friends of the Likud]] · [[Blue Shield of California]] · [[Anthem - Elevance Health]] · [[American Gaming Association]] · [[Mohammed bin Salman]] · [[United Arab Emirates - Influence Operation]] · [[Turkey - Erdogan Lobbying Operation]] · [[Saudi Arabia - Kingdom Investment]] · [[Israel - Government Lobbying Operation]] · [[Ohio Democratic Party]] · [[Ocean Conservancy]] · [[New Venture Fund]]"
+related: "[[J Street]] · [[Jon Ossoff Master Profile]] · [[The Investigative Filmmaker Brand and the Senate Record Gap]] · [[The $30 Million Special Election and the National Donor Flood]] · [[Trial Lawyers Fund]] · [[Jeffrey Katzenberg]] · [[Haim Saban]] · [[Democratic Donor Network]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Barack Obama Master Profile|Obama]] · [[_Joe Biden Master Profile|Biden]] · [[_Hillary Clinton Master Profile|Clinton]] · [[Saban Center for Middle East Policy]] · [[Motion Picture Association]] · [[JCRC Bay Area]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[Christians United for Israel]] · [[American Friends of the Likud]] · [[Blue Shield of California]] · [[Anthem - Elevance Health]] · [[American Gaming Association]] · [[Mohammed bin Salman]] · [[United Arab Emirates - Influence Operation]] · [[Turkey - Erdogan Lobbying Operation]] · [[Saudi Arabia - Kingdom Investment]] · [[Israel - Government Lobbying Operation]] · [[Ohio Democratic Party]] · [[Ocean Conservancy]] · [[New Venture Fund]] · [[National Progressive Donor Networks]]"
 lobbying-spend: 24863936
 lobbying-filings: 93
 cross-vault-triangulation-count: 12
@@ -232,16 +232,13 @@ The industry's structural function for the donor class: maintain Democratic cult
 
 | Metric | Value |
 |--------|-------|
-| Politicians Funded | 4 |
+| Politicians Funded | 1 |
 | Active Lobbyist | Yes |
 | Federal Contractor | Yes |
 | Committee Overlap Detected | None |
 
 **Funded politicians:**
 
-- [[Barack Obama]] — lobbying: $24.9M — contracts: $997K
-- [[Joe Biden]] — lobbying: $24.9M — contracts: $997K
-- [[Hillary Clinton]] — lobbying: $24.9M — contracts: $997K
 - [[Jon Ossoff]] — lobbying: $24.9M — contracts: $997K
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*

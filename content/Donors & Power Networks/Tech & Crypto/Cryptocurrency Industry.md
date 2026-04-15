@@ -28,7 +28,7 @@ regulatory-agencies:
   - Internal Revenue Service
   - Securities and Exchange Commission
   - Treasury Department
-related: "[[Rand Paul Master Profile]] · [[The Libertarian Brand and the Koch Network Reality]] · [[Crypto vs. Institutional Democrats in Illinois]] · [[Crypto Industry Bloc]] · [[Fairshake PAC]] · [[Winklevoss Twins]] · [[David Sacks]] · [[Coinbase]] · [[Marc Andreessen & Horowitz|Andreessen Horowitz]] · [[David Sacks (Donor Network)]]"
+related: "[[Rand Paul Master Profile]] · [[The Libertarian Brand and the Koch Network Reality]] · [[Crypto vs. Institutional Democrats in Illinois]] · [[Crypto Industry Bloc]] · [[Fairshake PAC]] · [[Winklevoss Twins]] · [[David Sacks]] · [[Coinbase]] · [[Marc Andreessen & Horowitz|Andreessen Horowitz]] · [[David Sacks (Donor Network)]] · [[David Sacks - Donor Network]]"
 cross-vault-triangulation-count: 7
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 politicians-funded: "[[Rand Paul]]"

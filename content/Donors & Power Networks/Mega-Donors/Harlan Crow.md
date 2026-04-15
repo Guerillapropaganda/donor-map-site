@@ -226,17 +226,12 @@ The Senate Judiciary Committee's December 2024 report found that Crow's gifts to
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
-| Politicians Funded | 2 |
+| Politicians Funded | 1 |
 | Active Lobbyist | Yes |
-| Committee Overlap Detected | 1 politician |
-
-**Lobby → Donate → Committee chains:**
-
-- Lobbies on **Financial Institutions/Investments/Securities** → Funds **John Cornyn** → Sits on **Finance**
+| Committee Overlap Detected | None |
 
 **Funded politicians:**
 
-- [[John Cornyn]] (Judiciary, Intelligence, Finance) — lobbying: $400K
 - [[Clarence Thomas]] — lobbying: $400K
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*

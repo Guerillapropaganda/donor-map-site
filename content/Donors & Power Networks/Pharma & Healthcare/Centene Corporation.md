@@ -67,7 +67,7 @@ court-jurisdictions:
   - District Court, N.D. California
   - District Court, N.D. Illinois
   - District Court, S.D. New York
-related: "[[Blue Cross Blue Shield Association]] · [[Jon Husted Master Profile]] · [[UnitedHealth Group - Optum]] · [[Insurance Industry Bloc]] · [[_Joe Manchin Master Profile|Manchin]] · [[Johnson & Johnson]] · [[Moderna]] · [[Merck]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[AbbVie]] · [[Palantir Technologies]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Tenet Healthcare]] · [[Kaiser Permanente]] · [[Palantir Technologies Political Operation]] · [[Raytheon Technologies]]"
+related: "[[Blue Cross Blue Shield Association]] · [[Jon Husted Master Profile]] · [[UnitedHealth Group - Optum]] · [[Insurance Industry Bloc]] · [[_Joe Manchin Master Profile|Manchin]] · [[Johnson & Johnson]] · [[Moderna]] · [[Merck]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[AbbVie]] · [[Palantir Technologies]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Tenet Healthcare]] · [[Kaiser Permanente]] · [[Palantir Technologies Political Operation]] · [[Raytheon Technologies]] · [[Humana]]"
 top-federal-agency: General Services Administration
 top-naics-code: "624190"
 lei: 549300Z7JJ4TQSQGT333
@@ -246,13 +246,12 @@ Centene's structural function in American healthcare is converting public health
 
 | Metric | Value |
 |--------|-------|
-| Politicians Funded | 2 |
+| Politicians Funded | 1 |
 | Active Lobbyist | Yes |
 | Committee Overlap Detected | None |
 
 **Funded politicians:**
 
-- [[Joe Manchin]] — lobbying: $10.6M
 - [[Jon Husted]] — lobbying: $10.6M
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*

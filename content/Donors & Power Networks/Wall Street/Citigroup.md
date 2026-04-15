@@ -192,20 +192,12 @@ Citigroup represents the purest form of Wall Street regulatory capture. The bank
 
 | Metric | Value |
 |--------|-------|
-| Politicians Funded | 4 |
+| Politicians Funded | 2 |
 | Active Lobbyist | Yes |
-| Committee Overlap Detected | 1 politician |
-
-**Lobby → Donate → Committee chains:**
-
-- Lobbies on **Banking** → Funds **French Hill** → Sits on **Banking**
-- Lobbies on **Financial Institutions/Investments/Securities** → Funds **French Hill** → Sits on **Banking**
-- Lobbies on **Wall Street & Finance** → Funds **French Hill** → Sits on **Banking**
+| Committee Overlap Detected | None |
 
 **Funded politicians:**
 
-- [[Chuck Schumer]] (Senate Committee on Rules and Administration, Senate Select Committee on Intelligence) — lobbying: $11.6M
-- [[French Hill]] (Banking) — lobbying: $11.6M
 - [[Wes Moore]] — lobbying: $11.6M
 - [[Joe Biden]] — lobbying: $11.6M
 

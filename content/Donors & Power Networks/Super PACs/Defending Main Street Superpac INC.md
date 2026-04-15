@@ -17,6 +17,7 @@ ofac-sdn-match: "true"
 last-enriched: "2026-04-15"
 ofac-programs:
   - "IRAN-EO13846"
+related: "[[Shelley Moore Capito]]"
 ---
 
 ## Auto-Created Stub

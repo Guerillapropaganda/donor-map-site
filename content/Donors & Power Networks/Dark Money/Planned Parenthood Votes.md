@@ -11,5 +11,5 @@ source-tier: 1
 fec-ie-support: $762
 fec-ie-oppose: null
 politicians-funded: "[[Joseph Morelle]], [[Jack Reed]], [[Gregory Meeks]], [[Raja Krishnamoorthi]], [[Jamie Raskin]]"
-related: "[[Jack Reed]]"
+related: "[[Jack Reed]] · [[Raja Krishnamoorthi]]"
 ---

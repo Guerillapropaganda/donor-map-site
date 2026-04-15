@@ -6,7 +6,7 @@ sector: Dark Money
 entity-type: Super PAC
 committee-id: C00841593
 fec-url: https://www.fec.gov/data/committee/C00841593/
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 fec-ie-support: $5,854,979
 fec-ie-oppose: null
@@ -15,6 +15,7 @@ last-enriched: "2026-04-15"
 ofac-programs:
   - RUSSIA-EO14024
 politicians-funded: "[[Chris Christie]]"
+related: "[[Chris Christie]]"
 ---
 
 ### OFAC Sanctions Screening

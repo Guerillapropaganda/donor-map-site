@@ -17,7 +17,7 @@ regulatory-agencies:
   - "Coast Guard"
   - "Federal Election Commission"
   - "Homeland Security Department"
-related: "[[JB Pritzker Master Profile]] · [[Illinois Future PAC]] · [[JB Pritzker (Donor Network)]]"
+related: "[[JB Pritzker Master Profile]] · [[Illinois Future PAC]] · [[JB Pritzker (Donor Network)]] · [[JB Pritzker - Donor Network]]"
 ein: "274862860"
 nonprofit-status: "501(c)(3)"
 total-revenue: 1131836

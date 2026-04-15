@@ -12,5 +12,5 @@ source-tier: 1
 fec-ie-support: "null"
 fec-ie-oppose: $24,760,798
 politicians-funded: "[[Patty Murray]], [[Sherrod Brown]], [[Elizabeth Warren]], [[Harry Reid]]"
-related: "[[Patty Murray]]"
+related: "[[Patty Murray]] · [[Harry Reid]]"
 ---

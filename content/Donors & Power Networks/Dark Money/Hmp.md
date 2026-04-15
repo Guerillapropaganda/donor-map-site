@@ -12,5 +12,5 @@ source-tier: 1
 fec-ie-support: "null"
 fec-ie-oppose: $11,742,125
 politicians-funded: "[[Ken Calvert]], [[Bryan Steil]]"
-related: "[[Ken Calvert]]"
+related: "[[Ken Calvert]] · [[Bryan Steil]]"
 ---

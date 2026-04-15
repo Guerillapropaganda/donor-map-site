@@ -265,7 +265,7 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: Gun
 
 | Metric | Value |
 |--------|-------|
-| Politicians Funded | 2 |
+| Politicians Funded | 1 |
 | Active Lobbyist | Yes |
 | Committee Overlap Detected | 1 politician |
 
@@ -275,7 +275,6 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: Gun
 
 **Funded politicians:**
 
-- [[Hakeem Jeffries]] — lobbying: $5.2M
 - [[Chris Murphy]] (Foreign Relations, Appropriations) — lobbying: $5.2M
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*

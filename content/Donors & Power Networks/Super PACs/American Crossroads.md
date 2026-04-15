@@ -13,7 +13,7 @@ known-gaps:
   - Auto-created stub for relationship edge resolution. Full editorial content pending , needs Research Claude to fill in donors, politicians funded, ideology, and class analysis.
 opposes: "[[Raphael Warnock]] · [[John Fetterman]]"
 politicians-funded: "[[Paul Ryan]], [[Harry Reid]], [[Jeanne Shaheen]], [[Sherrod Brown]], [[Raphael Warnock]], [[Mitt Romney]], [[John Fetterman]], [[Rick Larsen]]"
-related: "[[Mitt Romney]]"
+related: "[[Mitt Romney]] · [[Paul Ryan]]"
 ---
 
 ## Auto-Created Stub

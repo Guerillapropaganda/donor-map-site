@@ -11,6 +11,6 @@ last-updated: 2026-04-15
 source-tier: 1
 fec-ie-support: $81,072,918
 fec-ie-oppose: "null"
-related: "[[Brian Armstrong]] · [[Bernie Moreno]]"
+related: "[[Brian Armstrong]] · [[Bernie Moreno]] · [[French Hill]]"
 politicians-funded: "[[French Hill]], [[Bernie Moreno]]"
 ---

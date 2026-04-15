@@ -27,7 +27,7 @@ regulatory-agencies:
   - Regulatory Information Service Center
 lobbying-spend: 3106887
 lobbying-filings: 143
-related: "[[Pramila Jayapal]] · [[Sarah Huckabee Sanders]] · [[Raul Grijalva]] · [[Mark Takano]] · [[Jim McGovern]] · [[Bernie Sanders]]"
+related: "[[Pramila Jayapal]] · [[Sarah Huckabee Sanders]] · [[Raul Grijalva]] · [[Mark Takano]] · [[Jim McGovern]] · [[Bernie Sanders]] · [[Tammy Baldwin]]"
 cross-vault-triangulation-count: 1
 audit-a-plus-passed: "2026-04-11"
 ---

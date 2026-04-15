@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-15
 source-tier: 2
 parent: [[_Juliana Stratton Master Profile]]
-related: "[[_Juliana Stratton Master Profile|Juliana Stratton]] · [[Corporate PAC Pledge and Its Limits]] · [[_Raja Krishnamoorthi Master Profile|Raja Krishnamoorthi]] · [[JB Pritzker (Donor Network)]]"
+related: "[[_Juliana Stratton Master Profile|Juliana Stratton]] · [[Corporate PAC Pledge and Its Limits]] · [[_Raja Krishnamoorthi Master Profile|Raja Krishnamoorthi]] · [[JB Pritzker (Donor Network)]] · [[JB Pritzker - Donor Network]]"
 ---
 #juliana-stratton #illinois-2026 #campaign-finance #primary
 

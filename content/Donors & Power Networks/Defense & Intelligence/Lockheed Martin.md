@@ -25,7 +25,7 @@ subawards-received: 50
 subawards-received-amount: 2946802998
 top-federal-agency: National Aeronautics and Space Administration
 top-naics-code: "561990"
-related: "[[Palantir Technologies]] · [[Think Tank Capture - Foreign Governments Writing US Policy]] · [[Defense Contractor 450000 Percent ROI]] · [[Northrop Grumman]] · [[Palantir Technologies Political Operation]] · [[Boeing Defense]] · [[Raytheon Technologies]] · [[General Dynamics]] · [[Booz Allen Hamilton]] · [[Raytheon (RTX Corporation)]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Lockheed Martin Buys Defense Hawks in Both Parties]] · [[South Carolina 2026 Senate Race]] · [[Defense Contractor Conflicts and Stock Holdings]] · [[The Secretary of State and Sugar-Defense-Israel Donor Triangle]] · [[The China Hawk and National Security State]] · [[The National Security Hawk and Arkansas Defense]] · [[The Defense-China Hawk and the Military-Industrial Alignment]] · [[The Moderate Brand as Donor Strategy]] · [[The Defense Appropriations Pipeline - Mississippi Military Spending]] · [[Lindsey Graham Master Profile]] · [[The Agriculture-Defense Dual Donor Axis]] · [[_Kay Granger Master Profile]] · [[_Ken Calvert Master Profile]] · [[_Mike Rogers Master Profile]] · [[Americans for Prosperity]] · [[Donor Registry - Master Index]] · [[Defense Industry Bloc]] · [[The Judiciary-Finance Dual Pipeline and Texas Defense]] · [[Koch Industries]] · [[Eli Lilly]] · [[ExxonMobil]] · [[WSPA - Western States Petroleum Association]] · [[Valero Energy]] · [[Merck]] · [[Novo Nordisk]] · [[Moderna]] · [[Johnson & Johnson]] · [[Gilead Sciences]] · [[Centene Corporation]] · [[AbbVie]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[UnitedHealth Group - Optum]] · [[Tenet Healthcare]]"
+related: "[[Palantir Technologies]] · [[Think Tank Capture - Foreign Governments Writing US Policy]] · [[Defense Contractor 450000 Percent ROI]] · [[Northrop Grumman]] · [[Palantir Technologies Political Operation]] · [[Boeing Defense]] · [[Raytheon Technologies]] · [[General Dynamics]] · [[Booz Allen Hamilton]] · [[Raytheon (RTX Corporation)]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Lockheed Martin Buys Defense Hawks in Both Parties]] · [[South Carolina 2026 Senate Race]] · [[Defense Contractor Conflicts and Stock Holdings]] · [[The Secretary of State and Sugar-Defense-Israel Donor Triangle]] · [[The China Hawk and National Security State]] · [[The National Security Hawk and Arkansas Defense]] · [[The Defense-China Hawk and the Military-Industrial Alignment]] · [[The Moderate Brand as Donor Strategy]] · [[The Defense Appropriations Pipeline - Mississippi Military Spending]] · [[Lindsey Graham Master Profile]] · [[The Agriculture-Defense Dual Donor Axis]] · [[_Kay Granger Master Profile]] · [[_Ken Calvert Master Profile]] · [[_Mike Rogers Master Profile]] · [[Americans for Prosperity]] · [[Donor Registry - Master Index]] · [[Defense Industry Bloc]] · [[The Judiciary-Finance Dual Pipeline and Texas Defense]] · [[Koch Industries]] · [[Eli Lilly]] · [[ExxonMobil]] · [[WSPA - Western States Petroleum Association]] · [[Valero Energy]] · [[Merck]] · [[Novo Nordisk]] · [[Moderna]] · [[Johnson & Johnson]] · [[Gilead Sciences]] · [[Centene Corporation]] · [[AbbVie]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[UnitedHealth Group - Optum]] · [[Tenet Healthcare]] · [[Kaiser Permanente]]"
 ftc-enforcement-actions: 2
 ftc-hsr-notices: 23
 last-enriched: "2026-04-10"
@@ -386,31 +386,27 @@ Lockheed Martin's PAC splits roughly 55% Republican, 45% Democrat. This is not a
 
 | Metric | Value |
 |--------|-------|
-| Politicians Funded | 9 |
-| Committee Overlap Detected | 9 politicians |
+| Politicians Funded | 7 |
+| Committee Overlap Detected | 7 politicians |
 
 **Lobby → Donate → Committee chains:**
 
-- Lobbies on **Defense & Military** → Funds **Kay Granger** → Sits on **Appropriations**
-- Lobbies on **Defense & Military** → Funds **Ken Calvert** → Sits on **Appropriations**
-- Lobbies on **Defense & Military** → Funds **Mike Rogers** → Sits on **Armed Services**
 - Lobbies on **Defense & Military** → Funds **Adam Smith** → Sits on **House Committee on Armed Services**
 - Lobbies on **Defense & Military** → Funds **Rosa DeLauro** → Sits on **House Committee on Appropriations**
 - Lobbies on **Defense & Military** → Funds **Jack Reed** → Sits on **Armed Services**
 - Lobbies on **Defense & Military** → Funds **Tammy Duckworth** → Sits on **Armed Services**
-- Lobbies on **Defense & Military** → Funds **Tom Cole** → Sits on **Appropriations**
+- Lobbies on **Defense & Military** → Funds **Mike Rogers** → Sits on **Armed Services**
+- Lobbies on **Defense & Military** → Funds **Kay Granger** → Sits on **Appropriations**
 - Lobbies on **Defense & Military** → Funds **Roger Wicker** → Sits on **Armed Services**
 
 **Funded politicians:**
 
-- [[Kay Granger]] (Appropriations)
-- [[Ken Calvert]] (Appropriations)
-- [[Mike Rogers]] (Armed Services)
 - [[Adam Smith]] (House Committee on Armed Services)
 - [[Rosa DeLauro]] (House Committee on Appropriations)
 - [[Jack Reed]] (Armed Services)
 - [[Tammy Duckworth]] (Armed Services)
-- [[Tom Cole]] (Appropriations)
+- [[Mike Rogers]] (Armed Services)
+- [[Kay Granger]] (Appropriations)
 - [[Roger Wicker]] (Armed Services)
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*

@@ -11,7 +11,7 @@ issues:
   - Technology
   - Antitrust & Monopoly
 last-enriched: "2026-04-10"
-related: "[[Cory Booker]] · [[Think Big AI PAC and AI Policy Alignment]] · [[Paul Ryan]] · [[John Boehner]] · [[Meta - Facebook]] · [[Elon Musk]] · [[Silicon Valley Democratic Donor Network]] · [[Joel Kaplan]] · [[Chan Zuckerberg Initiative]] · [[TikTok - ByteDance]] · [[Fairshake PAC - Crypto Super PAC]] · [[Jeff Bezos]] · [[Marco Rubio]]"
+related: "[[Cory Booker]] · [[Think Big AI PAC and AI Policy Alignment]] · [[Paul Ryan]] · [[John Boehner]] · [[Meta - Facebook]] · [[Elon Musk]] · [[Silicon Valley Democratic Donor Network]] · [[Joel Kaplan]] · [[Chan Zuckerberg Initiative]] · [[TikTok - ByteDance]] · [[Fairshake PAC - Crypto Super PAC]] · [[Jeff Bezos]] · [[Marco Rubio]] · [[Chuck Schumer]]"
 total-political-spend: $114,701
 politicians-funded: "[[Marco Rubio]], [[John Boehner]], [[Chuck Schumer]], [[Paul Ryan]], [[Cory Booker]], [[Katie Porter]], [[Nancy Pelosi]]"
 sec-filings: 9611

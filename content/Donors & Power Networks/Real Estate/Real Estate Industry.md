@@ -263,22 +263,18 @@ The industry's political priorities are bipartisan by structural necessity: mort
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
-| Politicians Funded | 3 |
+| Politicians Funded | 1 |
 | Active Lobbyist | Yes |
-| Committee Overlap Detected | 2 politicians |
+| Committee Overlap Detected | 1 politician |
 
 **Lobby → Donate → Committee chains:**
 
-- Lobbies on **Budget/Appropriations** → Funds **Brian Schatz** → Sits on **Appropriations**
-- Lobbies on **Defense** → Funds **Brian Schatz** → Sits on **Appropriations**
 - Lobbies on **Government Issues** → Funds **Gary Peters** → Sits on **Homeland Security**
 - Lobbies on **Homeland Security** → Funds **Gary Peters** → Sits on **Homeland Security**
 - Lobbies on **Immigration** → Funds **Gary Peters** → Sits on **Homeland Security**
 
 **Funded politicians:**
 
-- [[Jared Kushner]] — lobbying: $32.2M
-- [[Brian Schatz]] (Appropriations) — lobbying: $32.2M
 - [[Gary Peters]] (Homeland Security) — lobbying: $32.2M
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*

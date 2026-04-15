@@ -13,7 +13,7 @@ aliases:
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
 politicians-funded: "[[Ron Wyden]], [[Ed Markey]], [[Bobby Scott]]"
-related: "[[Bobby Scott]]"
+related: "[[Bobby Scott]] · [[Ron Wyden]]"
 ---
 
 ## Auto-Created Stub

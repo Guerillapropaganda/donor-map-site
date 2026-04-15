@@ -6,6 +6,7 @@ redirect-target: "[[Marc Andreessen & Horowitz]]"
 last-updated: 2026-04-15
 aliases:
   - "Marc Andreessen and a16z"
+related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]]"
 ---
 
 # Marc Andreessen and a16z

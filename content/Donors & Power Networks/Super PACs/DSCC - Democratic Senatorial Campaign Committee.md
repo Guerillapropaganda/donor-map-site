@@ -14,7 +14,7 @@ issues:
 sec-filings: 1
 sec-form-types:
   - EX-99.(P)(II)
-related: ">- · [[2024-2026 Campaign Finance and Democratic Infrastructure]] · [[Dan Osborn]] · [[Chuck Schumer]]"
+related: ">- · [[2024-2026 Campaign Finance and Democratic Infrastructure]] · [[Dan Osborn]] · [[Chuck Schumer]] · [[Senate Majority PAC]]"
 cross-vault-triangulation-count: 9
 needs-reenrichment: true
 reenrich-reason: run fec pipeline; run pipelines

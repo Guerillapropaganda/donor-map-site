@@ -26,7 +26,7 @@ court-jurisdictions:
   - District Court, M.D. Tennessee
   - District Court, N.D. California
   - District Court, W.D. Washington
-related: "[[US Chamber of Commerce]] · [[Education - Donors and Backers]] · [[Bradley Foundation]] · [[Virginia Foxx]] · [[The DeVos to McMahon Pipeline - Public Schools as Private Profit]] · [[DeVos Family]] · [[Koch Network - Charles Koch]] · [[Heritage Foundation]] · [[Walton Family Foundation]] · [[National Education Association]] · [[California Charter Schools Association]] · [[Insurance Industry]] · [[The 85 Fund]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[American Iron and Steel Institute]] · [[Stand Together]] · [[Republican Party Apparatus]] · [[National Association of Manufacturers]]"
+related: "[[US Chamber of Commerce]] · [[Education - Donors and Backers]] · [[Bradley Foundation]] · [[Virginia Foxx]] · [[The DeVos to McMahon Pipeline - Public Schools as Private Profit]] · [[DeVos Family]] · [[Koch Network - Charles Koch]] · [[Heritage Foundation]] · [[Walton Family Foundation]] · [[National Education Association]] · [[California Charter Schools Association]] · [[Insurance Industry]] · [[The 85 Fund]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[American Iron and Steel Institute]] · [[Stand Together]] · [[Republican Party Apparatus]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]]"
 sec-filings: 9
 sec-form-types:
   - DEF 14A

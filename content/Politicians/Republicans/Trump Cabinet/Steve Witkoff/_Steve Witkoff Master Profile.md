@@ -20,7 +20,7 @@ known-gaps:
   - No legislative record from Congress.gov
   - No voting record data
   - No mapped relationships
-related: "[[_Donald Trump Master Profile|Trump]] · [[_Jared Kushner Master Profile|Jared Kushner]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[World Liberty Financial]] · [[Crypto Industry Bloc]] · [[Real Estate Development Industry Bloc]] · [[_David Sacks Master Profile|David Sacks]] · [[David Sacks (Donor Network)]]"
+related: "[[_Donald Trump Master Profile|Trump]] · [[_Jared Kushner Master Profile|Jared Kushner]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[World Liberty Financial]] · [[Crypto Industry Bloc]] · [[Real Estate Development Industry Bloc]] · [[_David Sacks Master Profile|David Sacks]] · [[David Sacks (Donor Network)]] · [[David Sacks - Donor Network]]"
 wikidata-id: Q16189572
 wikipedia-url: https://en.wikipedia.org/wiki/Steve_Witkoff
 wikipedia-extract: Steven Charles Witkoff is an American real estate developer, investor, and founder of the Witkoff Group.
