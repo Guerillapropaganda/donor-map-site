@@ -4,7 +4,7 @@ type: admin-note
 note-type: data
 priority: normal
 status: active
-last-updated: '2026-04-15-session-save-foundation-marathon'
+last-updated: '2026-04-15-session-save-pillar-2b-data-coverage'
 sprint-id: "2026-04-sprint"
 sprint-start: '2026-04-10'
 sprint-end: '2026-04-30'
@@ -1463,6 +1463,60 @@ phase_1_tasks:
       notes: |
         Session State rewritten with new Current Build Phase (foundation-stabilization: 4 of 5 pillars shipped, Pillar 2 remains), new Publication Readiness Snapshot (346/346 tags approved, Quartz TS 0, pre-commit at 9 sentinels), new Last Session covering pre-recalibration work + Pillars 1/3/5/4 + security brief filing. Previous Session section demoted from earlier cc_121 entry. Sprint-schedule cc_122-cc_129 added as ad-hoc done.
 
+    - id: cc_130
+      task: "Pillar 2a — frontmatter delta migration + renormalize + orphan prune"
+      status: done
+      completed_date: 2026-04-15
+      added_adhoc: true
+      commit: "15d1ea62f"
+      notes: |
+        Shipped Pillar 2a. scripts/migrate-frontmatter-delta.cjs walks the vault and upserts frontmatter relationship fields (related, donors, top-donors, politicians-funded, opposes, politicians-opposed, stories) into data/relationships.jsonl via upsertEdges() instead of file overwrite — safer than the original Phase 3 Part 1 migration. Results: +2,619 new edges, 13,146 updated, 27,594 → 30,213 total. Exposed two pre-existing data quality issues: (1) 16,008 stale type denormalizations where profile types had drifted (corporation→entity) but edge from_type/to_type weren't refreshed — fixed by scripts/renormalize-edge-types.cjs walking the store and rewriting denormalized fields from the current title index. (2) 612 orphan edges pointing to 29 unique titles that were referenced as wikilinks in frontmatter but never actually written as profiles (stories like "The Platform Dependency Spectrum" etc.) — removed by scripts/prune-orphan-edges.cjs with an audit log at data/relationships.pruned-orphans.jsonl. Final edge count 29,602. All 9 sentinels green. Deploy run 24436456661 ✓.
+
+    - id: cc_131
+      task: "Pillar 2b.1 — FEC body-table to canonical monetary edges migration"
+      status: done
+      completed_date: 2026-04-15
+      added_adhoc: true
+      commit: "e688fdcb5"
+      notes: |
+        Major investigation finding: the fec-summary pipeline has been writing per-donor IE (independent expenditure) amount tables into politician profile bodies as pipe-delimited markdown inside <!-- auto:fec-politician --> blocks, but NONE of this data had ever made it into data/relationships.jsonl. All 1,098 pre-existing monetary edges had amount=null, cycle=null. scripts/audit-fec-body-tables.cjs measured the scope (160 profiles, 796 rows). scripts/migrate-fec-body-tables-to-edges.cjs parses the "Top outside spenders" tables, resolves committee names against the vault title index, and upserts cycle-tagged monetary edges with role=ie-support or ie-oppose. Initial match rate 30.9% (215/695 rows). 213 new edges, 7 existing edges upgraded with real amount + cycle + role. Sample: PRIORITIES USA ACTION → Paul Ryan ie-oppose $112,336,878 cycle 2012. Also filed the broader "enrichment pipeline dark" finding: in the last 200 API Enrichment Bot commits, fec-summary fired only 3 times (April 10-11) and fec full-receipts has never run — only 5 of ~25 pipelines are active. Logged as bug-005 in commit cc_135. Deploy run 24436910871 ✓.
+
+    - id: cc_132
+      task: "Pillar 2b.2 — FEC PAC aliases + case-insensitive resolver upgrade"
+      status: done
+      completed_date: 2026-04-15
+      added_adhoc: true
+      commit: "28bc772ab"
+      notes: |
+        Addressed Pillar 2b.1's 30% match rate. scripts/add-fec-pac-aliases.cjs hand-curated mapping of 12 vault profiles → 20 new FEC-committee aliases (Club for Growth ← CLUB FOR GROWTH ACTION, Americans for Prosperity ← 4 AFP ACTION variants, Senate Majority PAC ← SMP, NRCC/NRSC/DCCC/DSCC full-name all-caps forms, National Rifle Association ← NRA POLITICAL VICTORY FUND, etc.). Conservative curation — no fuzzy matches, no cross-entity guessing (Crossroads GPS ≠ American Crossroads kept unmatched). Also upgraded migrate-fec-body-tables-to-edges.cjs with a case-insensitive resolver fallback (case-folded index) to catch SENATE MAJORITY PAC → Senate Majority PAC without the acronym capitalization trap (old titlecase turned PAC → Pac). Match rate 215 → 269 → 277 (30.9% → 38.7% → 39.9%). Also caught 8 additional stale type denormalizations from my own migration writing from_type=donor on entries the rulebook resolves to top-level entity — fixed in the same commit via renormalize-edge-types.cjs. Deploy run 24437108922 ✓.
+
+    - id: cc_133
+      task: "Pillar 2b.3 infra — FEC Committee Registry system"
+      status: done
+      completed_date: 2026-04-15
+      added_adhoc: true
+      commit: "2c897a75c"
+      notes: |
+        The clean, durable fix for FEC committee → vault profile matching. New files: scripts/lib/fec-committee-registry.cjs (reader/writer keyed by permanent FEC committee_id, not by name), scripts/fec-committee-resolver.cjs (queries /v1/committees/?q=<name>, caches raw responses to data/fec-committee-cache.jsonl, rate-limited to 1 req / 4 sec, refuses DEMO_KEY), scripts/seed-fec-committee-registry.cjs (reads cache, matches against vault title index, upserts with status=mapped or unmapped-needs-stub or unmapped-needs-review), scripts/apply-fec-committee-registry.cjs (reads registry, syncs alias lists to vault profile frontmatter). New Pipeline Guide section "FEC Committee Registry (local, authoritative)" under ## FEC documents record shape, status values, how consumers use it, and the full command workflow. bug-005 filed in content/Admin Notes/bug-queue.md with full diagnostic evidence (fec-summary 3 runs in 200 commits, fec full-receipts never, only 5 of 25 pipelines active). Ops registration: 6 new entries in route.ts allowlist + scripts/page.tsx under category:pipeline (resolver DRY/ALL, seed DRY/WRITE, apply DRY/WRITE, migrate DRY/WRITE). Deploy run 24437548477 ✓.
+
+    - id: cc_134
+      task: "Pillar 2b.3 data — FEC committee registry seeded from 298 API lookups"
+      status: done
+      completed_date: 2026-04-15
+      added_adhoc: true
+      commit: "45f9a9752"
+      notes: |
+        Ran fec-committee-resolver.cjs --all against the full unmatched committees report. 297 FEC API queries over ~20 min (4 sec rate limit), 1 cache hit, 0 failures. 278 committees matched to real FEC committee records, 20 no-FEC-match (marked unmapped-needs-review). Seeded registry: 0 mapped (expected — these 298 were already the names that didn't resolve; running the same matching logic against FEC's canonical name gives the same result), 273 unmapped-needs-stub, 20 unmapped-needs-review. The registry's real value is not auto-resolution but identification: every super PAC now has a permanent FEC committee ID + authoritative canonical name + clickable fec.gov link in content/Admin Notes/fec-unmatched-committees.md under a new "Stub profile candidates" section sorted by dollar volume. Data-quality catches: AMERICANS FOR RESPONSIBLE LEADERSHIP in body → FEC canonical AMERICANS UNITED FOR RESPONSIBLE LEADERSHIP (C00615088); MAJORITY PAC → designation Leadership PAC not Super PAC. Data files committed: data/fec-committee-cache.jsonl, data/fec-committee-metadata.json, data/fec-committee-registry.json. Deploy run 24437857309 ✓.
+
+    - id: cc_135
+      task: "Session save — 2026-04-15 Pillar 2/2b data coverage marathon"
+      status: done
+      completed_date: 2026-04-15
+      added_adhoc: true
+      commit: "(this session-save commit)"
+      notes: |
+        Fifth session-save of the day. Rewrote Session State.md with new Last Session covering Pillars 2a + 2b.1 + 2b.2 + 2b.3 infra + 2b.3 data. Moved prior "foundation-stabilization marathon" Last Session to Previous Session. Sprint-schedule cc_130-cc_135 added as ad-hoc done. North Star pipeline_bugs_closed += 0 (bug-005 OPEN, not closed; closure requires donor-map-engine repo access).
+
   research_claude:
     - id: rc_01
       task: "Write ops/CLAUDE.md (frontmatter-only + URL editor-only rules)"
@@ -1793,7 +1847,7 @@ parser_guidance:
 
 ---
 
-**Schedule last updated: 2026-04-15 (Foundation-stabilization marathon. David cleared all 346 class tag proposals. Shipped Ops /policies page + OPS_AUTH_BYPASS dev escape hatch + 5-layer deps drift defense. Then Pillar 1 auth audit (ADR-0009, 21 smoke tests, Mode C detector, sign-in recovery UX), Pillar 3 Ops surface audit (/system-health dashboard — surfaces 50 unauthed API routes), Pillar 5 bugs + deferred triage (/bugs dashboard — 269 items filterable), Pillar 4 Quartz TS 27→0 errors + pre-push strict gate. Filed cross-session security brief as reference. cc_122-cc_129 added. Pre-commit hook at 9 sentinels (was 7). Pillar 2 (data coverage / bug-003) is the only remaining pillar.)**
+**Schedule last updated: 2026-04-15 (Pillar 2/2b data coverage marathon — the "only remaining pillar" from the foundation-stabilization sprint. Shipped 5 sequential commits: Pillar 2a frontmatter delta migration + renormalize + orphan prune (+2,619 edges, fixed 16,008 stale denorms, pruned 612 orphans), Pillar 2b.1 FEC body-table → canonical monetary edges migration (+213 edges with real amount + cycle + role, initial 30.9% match rate), Pillar 2b.2 FEC PAC aliases + case-insensitive resolver upgrade (match rate 39.9%, 12 vault profiles aliased), Pillar 2b.3 infra FEC Committee Registry system (scripts/lib/fec-committee-registry.cjs + 3 CLI scripts + Pipeline Guide section + Ops registration + bug-005 filed), Pillar 2b.3 data 298 committees resolved via FEC API (278 with authoritative committee IDs + canonical names + fec.gov links, ready as stub-profile candidates sorted by $ volume). cc_130-cc_135 added. Major investigation finding: bug-005 — only 5 of ~25 pipelines active in recent API Enrichment Bot commits, fec-summary fired 3 times total in 200 commits, fec full-receipts never fired. Root cause in donor-map-engine repo. Registry is the permanent infrastructure for when bug-005 is fixed. Net monetary edges with real amount/cycle/role: 0 → ~282 this session.)**
 **Current phase: POST-BUILD foundation stabilization — 4 of 5 pillars complete, Pillar 2 (data coverage) remains**
 **Next checkpoint: Pillar 2 data coverage fix (frontmatter→canonical migration + FEC amount enrichment); after that, David's pre-launch gate reviews + other session's security brief work**
 **New data sources added 2026-04-11: FDA (pharma/device/food enforcement), OCC (national bank enforcement), FTC (mergers + historical enforcement). All three live in CI + Ops app.**
