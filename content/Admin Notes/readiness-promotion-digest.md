@@ -13,10 +13,10 @@ Prep sheet for David's next manual review session. Profiles are ranked by distan
 
 ## Summary
 
-- **Total profiles scanned:** 1236
+- **Total profiles scanned:** 1274
 - **Already passing the gate:** 0
 - **One failure away:** 30
-- **Two failures away:** 736
+- **Two failures away:** 775
 
 ## 🟢 ready → verified promotion (19)
 
@@ -62,13 +62,13 @@ These passed every other gate BUT are still marked `draft`. Skipping the `ready`
 | [minimum_wage](/content/Policies/minimum_wage.md) |
 | [student_debt](/content/Policies/student_debt.md) |
 
-## 📋 Two failures (736)
+## 📋 Two failures (775)
 
 Profiles with exactly two failures. Often the readiness flag PLUS one content issue. Two fixes away from ready.
 
 Top failure-pair patterns:
 
-- **539×** content-readiness is X, must be X + missing ## Class Analysis section (mandatory edito
+- **578×** content-readiness is X, must be X + missing ## Class Analysis section (mandatory edito
 - **180×** content-readiness is X, must be X + visible text contains strikethrough source — move 
 - **16×** content-readiness is X, must be X + visible text contains marker
 - **1×** content-readiness is X, must be X + source ref {{src

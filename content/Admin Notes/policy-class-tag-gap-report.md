@@ -17,25 +17,16 @@ For each v1 policy page, which class-tag approvals are needed to pass CLAUDE.md 
 
 | Policy | Unique entities | Approved | Pending (Rule 11 blockers) | No-proposal | No-entity |
 |---|---:|---:|---:|---:|---:|
-| [aipac_bds](/content/Policies/aipac_bds.md) | 10 | 4 | **4** | 2 | 0 |
-| [healthcare](/content/Policies/healthcare.md) | 10 | 4 | **4** | 2 | 0 |
-| [housing](/content/Policies/housing.md) | 10 | 4 | **4** | 2 | 0 |
-| [minimum_wage](/content/Policies/minimum_wage.md) | 10 | 4 | **4** | 2 | 0 |
-| [student_debt](/content/Policies/student_debt.md) | 10 | 4 | **4** | 2 | 0 |
+| [aipac_bds](/content/Policies/aipac_bds.md) | 10 | 8 | **0** | 2 | 0 |
+| [healthcare](/content/Policies/healthcare.md) | 10 | 8 | **0** | 2 | 0 |
+| [housing](/content/Policies/housing.md) | 10 | 8 | **0** | 2 | 0 |
+| [minimum_wage](/content/Policies/minimum_wage.md) | 10 | 8 | **0** | 2 | 0 |
+| [student_debt](/content/Policies/student_debt.md) | 10 | 8 | **0** | 2 | 0 |
 | [who-blocks-us](/content/Policies/who-blocks-us.md) | 20 | 0 | **0** | 0 | 20 |
 
 **Interpretation:** a policy page becomes Rule-11-unblocked when the **Pending** column hits 0. The other categories (`no-proposal`, `no-entity`) are data-completeness gaps but don't block Rule 11 specifically — they block the publication-readiness gate through other paths (entity must exist in registry, entity must have approved tags).
 
 ## aipac_bds
-
-### 🔴 Pending approval (4) — approve these in Ops /class-tags first
-
-| Entity | Citations on this page | Proposed capital_type | Proposed class_position |
-|---|---:|---|---|
-| Western Growers Association | 1 | agribusiness-capital | petty-bourgeois |
-| Majority Forward | 1 | dark-money-vehicle | — |
-| California Farm Bureau Federation | 1 | agribusiness-capital | petty-bourgeois |
-| Boeing | 1 | military-industrial | — |
 
 ### 🟡 No proposal yet (2) — entity exists, heuristic pass hasn't run
 
@@ -48,15 +39,6 @@ These entities are in `data/entities.jsonl` but don't have a record in `data/ent
 
 ## healthcare
 
-### 🔴 Pending approval (4) — approve these in Ops /class-tags first
-
-| Entity | Citations on this page | Proposed capital_type | Proposed class_position |
-|---|---:|---|---|
-| Western Growers Association | 1 | agribusiness-capital | petty-bourgeois |
-| Majority Forward | 1 | dark-money-vehicle | — |
-| California Farm Bureau Federation | 1 | agribusiness-capital | petty-bourgeois |
-| Boeing | 1 | military-industrial | — |
-
 ### 🟡 No proposal yet (2) — entity exists, heuristic pass hasn't run
 
 These entities are in `data/entities.jsonl` but don't have a record in `data/entity-class-tags-proposed.jsonl`. Run `node scripts/batch-propose-class-tags-heuristic.cjs --write` to generate proposals for them.
@@ -67,15 +49,6 @@ These entities are in `data/entities.jsonl` but don't have a record in `data/ent
 | National Republican Senatorial Committee | 1 |
 
 ## housing
-
-### 🔴 Pending approval (4) — approve these in Ops /class-tags first
-
-| Entity | Citations on this page | Proposed capital_type | Proposed class_position |
-|---|---:|---|---|
-| Western Growers Association | 1 | agribusiness-capital | petty-bourgeois |
-| Majority Forward | 1 | dark-money-vehicle | — |
-| California Farm Bureau Federation | 1 | agribusiness-capital | petty-bourgeois |
-| Boeing | 1 | military-industrial | — |
 
 ### 🟡 No proposal yet (2) — entity exists, heuristic pass hasn't run
 
@@ -88,15 +61,6 @@ These entities are in `data/entities.jsonl` but don't have a record in `data/ent
 
 ## minimum_wage
 
-### 🔴 Pending approval (4) — approve these in Ops /class-tags first
-
-| Entity | Citations on this page | Proposed capital_type | Proposed class_position |
-|---|---:|---|---|
-| Western Growers Association | 1 | agribusiness-capital | petty-bourgeois |
-| Majority Forward | 1 | dark-money-vehicle | — |
-| California Farm Bureau Federation | 1 | agribusiness-capital | petty-bourgeois |
-| Boeing | 1 | military-industrial | — |
-
 ### 🟡 No proposal yet (2) — entity exists, heuristic pass hasn't run
 
 These entities are in `data/entities.jsonl` but don't have a record in `data/entity-class-tags-proposed.jsonl`. Run `node scripts/batch-propose-class-tags-heuristic.cjs --write` to generate proposals for them.
@@ -107,15 +71,6 @@ These entities are in `data/entities.jsonl` but don't have a record in `data/ent
 | National Republican Senatorial Committee | 1 |
 
 ## student_debt
-
-### 🔴 Pending approval (4) — approve these in Ops /class-tags first
-
-| Entity | Citations on this page | Proposed capital_type | Proposed class_position |
-|---|---:|---|---|
-| Western Growers Association | 1 | agribusiness-capital | petty-bourgeois |
-| Majority Forward | 1 | dark-money-vehicle | — |
-| California Farm Bureau Federation | 1 | agribusiness-capital | petty-bourgeois |
-| Boeing | 1 | military-industrial | — |
 
 ### 🟡 No proposal yet (2) — entity exists, heuristic pass hasn't run
 
