@@ -85,7 +85,8 @@ internal-notes: >-
   having fec enrichment run on it. The needs-reenrichment flag has been set. The
   next scheduled pipeline run will pick it up automatically.
 aliases:
-  - LEAGUE OF CONSERVATION VOTERS ACTION FUND
+  - "LEAGUE OF CONSERVATION VOTERS ACTION FUND"
+  - "LCV VICTORY FUND"
 ---
 
 <!-- auto:data-panel start -->

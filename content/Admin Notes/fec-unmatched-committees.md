@@ -9,7 +9,7 @@ authority: Pillar 2b migration
 
 # FEC Unmatched Committees
 
-Committees found in `auto:fec-politician` body tables that could not be resolved to a vault profile via title, alias, or simple suffix strip. Total: **313** unique committees / **480** rows.
+Committees found in `auto:fec-politician` body tables that could not be resolved to a vault profile via title, alias, or simple suffix strip. Total: **298** unique committees / **418** rows.
 
 **Fix**: add an `aliases:` entry to the parent profile's frontmatter (the `buildTitleIndex` walker reads it), or create a stub profile for the committee. Re-run `migrate-fec-body-tables-to-edges.cjs --write` to pick up the new mapping.
 
@@ -18,13 +18,9 @@ Sorted by total dollar volume (support + oppose).
 | Committee | Count | Support $ | Oppose $ | Example politicians |
 |-----------|-------|-----------|----------|---------------------|
 | FOOD AND WATER ACTION | 1 | $1,026,511,866 | $0 | Kamala Harris |
-| FF PAC | 3 | $542,693,348 | $108,991,114 | Kamala Harris, Donald Trump, John Cornyn |
-| SMP | 7 | $20,761,414 | $157,847,271 | Catherine Cortez Masto, John Hickenlooper, Joe Manchin |
 | WINSENATE | 3 | $12,170,854 | $145,576,184 | Sherrod Brown, Bernie Moreno, Ted Cruz |
 | SFA FUND, INC | 2 | $65,502,351 | $46,974,966 | Nikki Haley, Ron DeSantis |
 | DEFEND AMERICAN JOBS | 2 | $81,072,918 | $0 | French Hill, Bernie Moreno |
-| AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION | 7 | $66,924,763 | $53,998 | Sherrod Brown, Nikki Haley, Bryan Steil |
-| CLUB FOR GROWTH ACTION | 9 | $4,557,426 | $55,030,244 | Joe Biden, Catherine Cortez Masto, Mark Kelly |
 | RESTORATION PAC | 2 | $0 | $47,848,182 | Richard Blumenthal, Kamala Harris |
 | RESTORE OUR FUTURE, INC. | 2 | $47,498,530 | $0 | Paul Ryan, Mitt Romney |
 | BEST OF AMERICA PAC | 1 | $37,448,046 | $0 | Doug Burgum |
@@ -36,9 +32,7 @@ Sorted by total dollar volume (support + oppose).
 | CROSSROADS GRASSROOTS POLICY STRATEGIES | 4 | $0 | $24,760,798 | Sherrod Brown, Elizabeth Warren, Harry Reid |
 | AMERICANS FOR RESPONSIBLE LEADERSHIP | 2 | $19,267,130 | $0 | Paul Ryan, Mitt Romney |
 | FIGHT RIGHT INC | 1 | $0 | $18,881,648 | Nikki Haley |
-| NRCC | 3 | $1,305,418 | $17,002,130 | Henry Cuellar, Jon Ossoff, Brian Mast |
 | BUCKEYE VALUES PAC | 1 | $0 | $12,774,928 | Sherrod Brown |
-| SENATE MAJORITY PAC | 2 | $0 | $12,458,275 | Shelley Moore Capito, Thom Tillis |
 | HMP | 2 | $0 | $11,742,125 | Bryan Steil, Ken Calvert |
 | TEXAS CONSERVATIVES FUND | 1 | $0 | $11,020,000 | Ted Cruz |
 | THE SENTINEL ACTION FUND | 1 | $0 | $10,655,338 | Mark Kelly |
@@ -50,7 +44,6 @@ Sorted by total dollar volume (support + oppose).
 | PUT UTAH FIRST PAC | 1 | $0 | $8,940,890 | Mike Lee |
 | EVERGREEN PRINCIPLES PAC | 1 | $0 | $8,581,846 | Patty Murray |
 | ALABAMA CHRISTIAN CONSERVATIVES | 1 | $7,601,554 | $0 | Katie Britt |
-| AMERICANS FOR PROSPERITY ACTION, INC.(AFP ACTION) | 1 | $6,910,561 | $0 | John Cornyn |
 | CONSERVATIVE SOLUTIONS PAC | 1 | $0 | $6,643,036 | Chris Christie |
 | TRUTH AND COURAGE PAC | 1 | $6,598,631 | $0 | Ted Cruz |
 | BUCKEYE LEADERSHIP FUND, INC. | 1 | $0 | $6,577,836 | Bernie Moreno |
@@ -72,7 +65,6 @@ Sorted by total dollar volume (support + oppose).
 | FREEDOMWORKS FOR AMERICA | 1 | $30,511 | $3,649,440 | Tammy Duckworth |
 | NATIONAL VICTORY ACTION FUND | 3 | $3,515,000 | $0 | Bill Hagerty, John Barrasso, Elise Stefanik |
 | UNITED DEMOCRACY PROJECT (UDP) | 2 | $223,200 | $3,205,379 | Shontel Brown, Summer Lee |
-| LCV VICTORY FUND | 3 | $0 | $3,369,927 | Carlos Gimenez, Lauren Boebert, Ken Calvert |
 | WORKING FAMILIES PARTY PAC | 5 | $1,610,370 | $1,741,195 | Cori Bush, George Latimer, Raul Grijalva |
 | AMERICAN DREAM FEDERAL ACTION | 1 | $3,310,471 | $0 | Katie Britt |
 | LIBERTY CHAMPIONS | 1 | $3,213,782 | $0 | Mike Lee |
@@ -84,7 +76,6 @@ Sorted by total dollar volume (support + oppose).
 | TEXAS FORWARD | 1 | $0 | $2,373,536 | Henry Cuellar |
 | CONSERVATIVE OUTSIDER PAC INC | 1 | $0 | $2,272,673 | Katie Britt |
 | SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION) | 3 | $2,132,995 | $106,057 | Raja Krishnamoorthi, Joe Biden, John Boehner |
-| NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE | 6 | $2,185,668 | $0 | Melissa Bean, Richard Neal, Bryan Steil |
 | FREEDOM PARTNERS ACTION FUND INC | 1 | $0 | $2,028,031 | Jeff Merkley |
 | CONSERVATIVE OUTSIDER PAC | 1 | $0 | $1,936,000 | Bill Hagerty |
 | HIGH PLAINS PAC | 1 | $1,894,880 | $0 | John Barrasso |
@@ -103,7 +94,6 @@ Sorted by total dollar volume (support + oppose).
 | LIVING UNITED FOR CHANGE IN ARIZONA | 1 | $1,214,021 | $135,590 | Joe Biden |
 | MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY | 2 | $1,293,926 | $0 | Ilhan Omar, Ilhan Omar |
 | VIGOP (VIRGIN ISLANDS REPUBLICAN PARTY) | 2 | $9,090 | $1,210,936 | Maxine Waters, Nancy Pelosi |
-| LEAGUE OF CONSERVATION VOTERS INC | 2 | $1,111,941 | $0 | Jim Himes, Brian Schatz |
 | EVERYTOWN FOR GUN SAFETY VICTORY FUND (EVERYTOWN VICTORY FUND) | 1 | $0 | $1,098,954 | Ken Calvert |
 | SOUTH FLORIDA RESIDENTS FIRST | 1 | $1,071,310 | $0 | Carlos Gimenez |
 | THE MOBILIZATION PROJECT | 1 | $1,064,894 | $0 | Cory Booker |
@@ -125,7 +115,6 @@ Sorted by total dollar volume (support + oppose).
 | EQUALITY PROJECT PAC | 2 | $736,517 | $0 | Mark Takano, Ritchie Torres |
 | COLORADO UNITED PAC | 1 | $0 | $720,000 | Lauren Boebert |
 | FIGHT CORPORATE MONOPOLIES | 1 | $0 | $650,000 | Richard Neal |
-| NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND | 11 | $230,563 | $369,689 | Chris Coons, Richard Blumenthal, Glenn Thompson |
 | THE TEA PARTY LEADERSHIP FUND | 1 | $0 | $553,540 | John Boehner |
 | AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E | 1 | $0 | $518,043 | Linda McMahon |
 | NEW PROSPERITY FOUNDATION; THE | 1 | $0 | $517,710 | Tammy Duckworth |
@@ -229,7 +218,6 @@ Sorted by total dollar volume (support + oppose).
 | FRIENDS OF THE EARTH (ACTION) INC | 1 | $40,939 | $0 | Rashida Tlaib |
 | CONNECTICUT TAXPAYERS ALLIANCE | 1 | $0 | $40,000 | Jim Himes |
 | MIDWEST GROWTH PAC | 1 | $39,950 | $0 | Bryan Steil |
-| SUSAN B ANTHONY LIST INC | 1 | $0 | $39,906 | Adam Smith |
 | COMMON SENSE FOR CONNECTICUT | 1 | $0 | $39,058 | Jim Himes |
 | NORTH STAR DAWN PAC | 1 | $37,500 | $0 | Angie Craig |
 | RURALVOTE.ORG | 2 | $36,907 | $357 | Sherrod Brown, Doug Burgum |
@@ -261,7 +249,6 @@ Sorted by total dollar volume (support + oppose).
 | ONEAMERICA VOTES | 1 | $9,956 | $0 | Pramila Jayapal |
 | CLEAN UP CONGRESS | 1 | $0 | $9,464 | Rosa DeLauro |
 | WOMEN SPEAK OUT PAC | 1 | $0 | $9,200 | Pete Buttigieg |
-| CLUB FOR GROWTH PAC | 2 | $9,118 | $0 | Steve Scalise, John Ratcliffe |
 | MASSACHUSETTS FREEZE VOTER '84 | 1 | $0 | $9,015 | Ed Markey |
 | LET AMERICA VOTE PAC | 1 | $8,884 | $0 | Tammy Baldwin |
 | PATRIOT VOICES PAC | 1 | $0 | $8,232 | Jack Reed |
@@ -299,11 +286,9 @@ Sorted by total dollar volume (support + oppose).
 | ALICE B. TOKLAS LGBTQ DEMOCRATIC CLUB FEDERAL PAC | 1 | $3,129 | $0 | Alex Padilla |
 | HUMANEUSA POLITICAL ACTION COMMITTEE | 1 | $0 | $2,799 | Maria Cantwell |
 | PLANNED PARENTHOOD NW ACTION PAC | 1 | $2,799 | $0 | Maria Cantwell |
-| EVERYTOWN FOR GUN SAFETY ACTION FUND | 3 | $0 | $2,586 | Glenn Thompson, James Comer, Brett Guthrie |
 | NATIONAL RIGHT TO LIFE VICTORY FUND | 2 | $2,502 | $0 | Mark Green, John Thune |
 | SANDRE SWANSON FOR ASSEMBLY 2010 | 2 | $2,488 | $0 | Barbara Lee, Barbara Lee |
 | HEALTH JUSTICE FOR ALL | 1 | $2,417 | $0 | Mark Warner |
-| LEAGUE OF CONSERVATION VOTERS | 2 | $0 | $2,309 | Ed Markey, John Thune |
 | HUNTER ACTION FUND (HAF) | 1 | $1,857 | $0 | Steve Scalise |
 | SAN BENITO COUNTY DEMOCRATIC CENTRAL COMMITTEE | 1 | $1,795 | $0 | Zoe Lofgren |
 | OPPORTUNITY PAC - A COALITION OF TEACHERS HEALTH CARE GIVERS FACULTY MEMBERS SCHOOL EMPLOYEES AND PUBLIC AND PR | 1 | $1,772 | $0 | Zoe Lofgren |

@@ -72,7 +72,8 @@ internal-notes: >-
   having lda enrichment run on it. The needs-reenrichment flag has been set. The
   next scheduled pipeline run will pick it up automatically.
 aliases:
-  - NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND
+  - "NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND"
+  - "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE"
 ---
 
 <!-- auto:data-panel start -->

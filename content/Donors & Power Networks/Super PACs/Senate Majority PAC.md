@@ -36,6 +36,8 @@ cross-vault-triangulation-count: 19
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+aliases:
+  - "SMP"
 ---
 
 <!-- auto:data-panel start -->

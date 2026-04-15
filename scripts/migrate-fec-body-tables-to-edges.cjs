@@ -136,7 +136,21 @@ function stripFecSuffixes(s) {
     .trim()
 }
 
+// Case-folded index for case-insensitive lookup. Built once per run.
+let _ciIndex = null
+function getCiIndex(idx) {
+  if (_ciIndex) return _ciIndex
+  _ciIndex = new Map()
+  for (const [k, v] of idx.entries()) {
+    const key = k.toLowerCase()
+    if (!_ciIndex.has(key)) _ciIndex.set(key, { origKey: k, entry: v })
+  }
+  return _ciIndex
+}
+
 function resolve(title, idx) {
+  const ci = getCiIndex(idx)
+
   const tryKey = (k, method) => {
     if (idx.has(k)) {
       const entry = idx.get(k)
@@ -146,12 +160,23 @@ function resolve(title, idx) {
     return null
   }
 
+  const tryCi = (k, method) => {
+    const hit = ci.get(k.toLowerCase())
+    if (hit) {
+      const picked = Array.isArray(hit.entry) ? hit.entry[0] : hit.entry
+      return { method, entry: picked, matchedKey: hit.origKey }
+    }
+    return null
+  }
+
   let r
   if ((r = tryKey(title, "exact"))) return r
+  if ((r = tryCi(title, "case-insensitive"))) return r
   if ((r = tryKey(titleCase(title), "titlecase"))) return r
   const stripped = stripFecSuffixes(title)
   if (stripped !== title) {
     if ((r = tryKey(stripped, "stripped"))) return r
+    if ((r = tryCi(stripped, "stripped-ci"))) return r
     if ((r = tryKey(titleCase(stripped), "stripped-tc"))) return r
   }
   const paren = title.match(/^(.+?)\s+\((.+?)\)/)
@@ -159,7 +184,7 @@ function resolve(title, idx) {
     const outer = paren[1].trim()
     const inner = paren[2].trim()
     if ((r = tryKey(outer, "paren-outer"))) return r
-    if ((r = tryKey(titleCase(outer), "paren-outer-tc"))) return r
+    if ((r = tryCi(outer, "paren-outer-ci"))) return r
     if ((r = tryKey(inner, "paren-inner"))) return r
   }
   return null

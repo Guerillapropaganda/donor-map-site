@@ -37,6 +37,8 @@ lobbying-spend: 5215000
 lobbying-filings: 42
 cross-vault-triangulation-count: 8
 audit-a-plus-passed: "2026-04-11"
+aliases:
+  - "EVERYTOWN FOR GUN SAFETY ACTION FUND"
 ---
 
 <!-- auto:data-panel start -->

@@ -10,6 +10,11 @@ entity-type: "PAC"
 related: "[[Louisiana 2026 Senate Race]] · [[Michael Whatley Master Profile]] · [[Michael Whatley RNC Authority to Senate Campaign Conversion]]"
 known-gaps:
   - "No FEC contribution data"
+aliases:
+  - "SUSAN B ANTHONY LIST INC"
+  - "SUSAN B. ANTHONY LIST"
+  - "SBA LIST"
+  - "SBA LIST PAC"
 ---
 
 
