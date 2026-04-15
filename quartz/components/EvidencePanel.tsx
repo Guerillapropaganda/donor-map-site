@@ -63,7 +63,6 @@ const EvidencePanel: QuartzComponent = ({
   const gapStat = svp?.["gap-stat"] ? String(svp["gap-stat"]) : ""
 
   // ─── Connection counts ───
-  const profileTitle = String(fm?.title ?? "").toLowerCase()
   let donorCount = 0
   let lobbyCount = 0
   let thinkTankCount = 0

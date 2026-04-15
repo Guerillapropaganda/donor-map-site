@@ -1,8 +1,8 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import { resolveRelative, simplifySlug } from "../util/path"
+import { FullSlug, resolveRelative, simplifySlug } from "../util/path"
 
 const ArticleNav: QuartzComponent = ({ fileData, allFiles }: QuartzComponentProps) => {
-  const currentSlug = fileData.slug ?? ""
+  const currentSlug: FullSlug = (fileData.slug ?? "index") as FullSlug
   const currentSimple = simplifySlug(currentSlug)
 
   // Find the parent folder of this page

@@ -1,4 +1,4 @@
-import { FilePath, FullSlug, simplifySlug, joinSegments } from "../../util/path"
+import { FullSlug, simplifySlug, joinSegments } from "../../util/path"
 import { isConstructionMode } from "../../constructionMode"
 import { QuartzEmitterPlugin } from "../types"
 import { write } from "./helpers"
@@ -101,7 +101,6 @@ export const NetworkGraphIndex: QuartzEmitterPlugin = () => {
       for (const [_tree, file] of content) {
         const fm = file.data.frontmatter
         if (!fm) continue
-        const slug = (file.data.slug ?? "").toLowerCase()
         const title = cleanTitle(String(fm.title ?? ""))
         const sourceId = titleToId.get(title)
         if (!sourceId) continue

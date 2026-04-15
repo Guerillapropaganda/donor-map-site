@@ -66,8 +66,6 @@ const DiscoveryPanel: QuartzComponent = ({
 
     if (fSlug.startsWith("politicians/") && fSlug.includes("master-profile")) {
       const donors = Array.isArray(fFm["top-donors"]) ? fFm["top-donors"] as string[] : []
-      const party = String(fFm.party ?? "")
-      const chamber = String(fFm.chamber ?? "")
       polSlugs.set(fTitle, `${basePath}/${simplifySlug(f.slug!)}`)
       if (donors.length > 0) {
         polToDonors.set(fTitle, donors.map(d => ({
@@ -80,12 +78,12 @@ const DiscoveryPanel: QuartzComponent = ({
   }
 
   // Resolve slugs
-  for (const [donor, pols] of donorToPols) {
+  for (const [, pols] of donorToPols) {
     for (const p of pols) {
       p.slug = polSlugs.get(p.name) ?? ""
     }
   }
-  for (const [pol, donors] of polToDonors) {
+  for (const [, donors] of polToDonors) {
     for (const d of donors) {
       d.slug = donorSlugs.get(d.name) ?? ""
     }

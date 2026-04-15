@@ -1,33 +1,40 @@
 #!/usr/bin/env sh
-# Pre-push warning gate for the Donor Map vault.
+# Pre-push TypeScript gate for the Donor Map vault.
 #
-# Runs tsc --noEmit in WARN-ONLY mode. It surfaces TypeScript errors so you see
-# them before GitHub Actions does, but it does NOT block the push — the real
-# build verdict comes from the GitHub Actions deploy run, which the deploy skill
-# polls for completion.
+# Runs tsc --noEmit on the Quartz build. BLOCKS the push if any TS
+# error is reported. The root tsconfig.json excludes ops/ (ops has
+# its own tsconfig + is validated separately by the ops-build CI
+# job), so this check only covers quartz/.
 #
-# Why warn-only: the repo currently has a handful of pre-existing TS errors in
-# quartz/components/scripts/networkGraph.inline.ts and networkGraphIndex.ts
-# that are unrelated to day-to-day vault work. Blocking pushes on them would
-# train us to always SKIP_HOOKS=1, which defeats the point.
-#
-# When the baseline is fully clean, flip the 'exit 0' below to 'exit 1' to make
-# this a hard gate.
+# History: before 2026-04-15 (Pillar 4) this was warn-only because
+# quartz/ had 27 pre-existing TS errors (unused vars, D3 type
+# mismatches). All 27 were fixed in Pillar 4, so the baseline is
+# clean and we flipped this to a hard gate. Any future TS regression
+# now blocks the push — fix the error, don't bypass.
 #
 # Emergency bypass: SKIP_HOOKS=1 git push ...
+# (Only use if you're absolutely certain the gate is wrong. Document
+# why in your commit message or in content/Admin Notes/bug-queue.md.)
 
 if [ "$SKIP_HOOKS" = "1" ]; then
   echo "[hooks] SKIP_HOOKS=1 — bypassing pre-push check"
   exit 0
 fi
 
-echo "--- pre-push (warn-only) ---"
-echo "  -> tsc --noEmit"
-npx tsc --noEmit 2>&1 | tail -5
-if [ $? -ne 0 ]; then
+echo "--- pre-push gate ---"
+echo "  -> tsc --noEmit (quartz only, ops excluded)"
+TS_OUTPUT=$(npx tsc --noEmit 2>&1)
+TS_EXIT=$?
+if [ $TS_EXIT -ne 0 ]; then
   echo ""
-  echo "[!] TypeScript errors present (warn-only). Push continuing."
-  echo "    Watch the GitHub Actions deploy run for the real verdict."
+  echo "[x] pre-push blocked: TypeScript errors in quartz/"
+  echo ""
+  echo "$TS_OUTPUT" | tail -30
+  echo ""
+  echo "  Fix the errors above, or set SKIP_HOOKS=1 for an emergency bypass."
+  echo "  NOTE: this gate became strict on 2026-04-15 (Pillar 4). The"
+  echo "  baseline was 0 errors at that time. Any new error is a regression."
+  exit 1
 fi
-
+echo "  ✓ 0 TypeScript errors"
 exit 0

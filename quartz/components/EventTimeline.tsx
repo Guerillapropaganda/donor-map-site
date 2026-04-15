@@ -62,7 +62,6 @@ const EventTimeline: QuartzComponent = ({
     const date = String(fFm.date ?? "")
     const source = String(fFm.source ?? "")
     const sourceUrl = String(fFm["source-url"] ?? "")
-    const type = String(fFm.type ?? "")
 
     events.push({
       title,

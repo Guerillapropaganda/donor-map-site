@@ -3,7 +3,7 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import script from "./scripts/networkGraph.inline"
 import style from "./styles/networkGraph.scss"
 
-const NetworkGraph: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
+const NetworkGraph: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
   const slug = String(fileData.slug ?? "").toLowerCase()
 
   // Only render on the network graph page
