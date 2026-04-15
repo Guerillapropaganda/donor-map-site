@@ -29,7 +29,6 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 aliases:
   - "Energy Transfer Partners"
   - "Energy Transfer"
-  - "Kelcy Warren"
 ---
 
 <!-- auto:data-panel start -->
