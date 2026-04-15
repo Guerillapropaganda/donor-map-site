@@ -2,7 +2,7 @@
 title: "Jeffrey Epstein Network"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-09
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 sector: "Jeffrey Epstein Network.md"
@@ -16,7 +16,7 @@ issues:
   - "Dark Money & Campaign Finance"
 lobbying-spend: 1699750
 lobbying-filings: 70
-related: "[[Les Wexner - Wexner Family Enterprises]] · [[Leonard Leo]] · [[Peter Thiel]] · [[Harlan Crow]] · [[_Donald Trump Master Profile]] · [[_JD Vance Master Profile]]"
+related: "[[Les Wexner - Wexner Family Enterprises]] · [[Leonard Leo]] · [[Peter Thiel]] · [[Harlan Crow]] · [[_Donald Trump Master Profile]] · [[_JD Vance Master Profile]] · [[Steve Bannon]]"
 court-cases: 1
 last-enriched: "2026-04-09"
 needs-reenrichment: true

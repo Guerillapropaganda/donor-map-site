@@ -26,7 +26,7 @@ regulatory-agencies:
   - Health and Human Services Department
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-related: ">- · [[Healthcare - Donors and Backers]]"
+related: ">- · [[Healthcare - Donors and Backers]] · [[Richard Neal]]"
 cross-vault-triangulation-count: 16
 internal-notes: >-
   [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: •

@@ -147,6 +147,65 @@ Bot-written. Research Claude reads this to see what fresh API data landed in the
 
 
 
+
+
+
+## 2026-04-15 16:57 UTC — 16 profiles
+
+**nonprofit-990 — 16 profiles:**
+- California Farm Bureau Federation — EIN 940357610, 501(c)(5), rev $29.9M ⚠️ CONFLICT
+- Cargill — EIN 416020221, 501(c)(3), rev $144.3M ⚠️ CONFLICT
+- John Deere — EIN 366051024, 501(c)(3), rev $132.8M ⚠️ CONFLICT
+- National Cattlemen's Beef Association — EIN 840738973, 501(c)(6), rev $56.5M ⚠️ CONFLICT
+- Tyson Foods — EIN 476014039, 501(c)(3), rev $1 ⚠️ CONFLICT
+- Western Growers Association — EIN 751972150, 501(c)(6), rev $266K ⚠️ CONFLICT
+- CCPOA - California Correctional Peace Officers Association — EIN 941490964, 501(c)(5), rev $35.0M ⚠️ CONFLICT
+- CoreCivic - Private Prisons — EIN 474543845, 501(c)(3), rev $144K ⚠️ CONFLICT
+- CoreCivic — EIN 823851866, 501(c)(3), rev $709K ⚠️ CONFLICT
+- ActBlue — EIN 455097038, 501(c)(4), rev $3.1M ⚠️ CONFLICT
+- Brady Campaign — EIN 237321017, 501(c)(4), rev $4.8M ⚠️ CONFLICT
+- Business Roundtable — EIN 237236607, 501(c)(6), rev $79.4M ⚠️ CONFLICT
+- CREW - Citizens for Responsibility and Ethics in Washington — EIN 30445391, 501(c)(3), rev $12.4M ⚠️ CONFLICT
+- Concerned Veterans for America — EIN 853318501, 501(c)(3), rev N/A ⚠️ CONFLICT
+- Council for National Policy — EIN 720921017, 501(c)(3), rev $4.2M ⚠️ CONFLICT
+- Democratic Donor Network — EIN 943062436, 501(c)(3), rev $161.3M ⚠️ CONFLICT
+
+**Conflicts detected: 16** (see `pending-merge` blocks in the listed profiles)
+
+---
+## 2026-04-15 16:56 UTC — 10 profiles
+
+**ProPublica — 10 profiles:**
+- California Farm Bureau Federation — $12.9M revenue, 2023 990 ⚠️ CONFLICT
+- Cargill — $2.5M revenue, 2023 990 ⚠️ CONFLICT
+- John Deere — $17.7M revenue, 2023 990 ⚠️ CONFLICT
+- National Cattlemen's Beef Association — $54.9M revenue, 2023 990 ⚠️ CONFLICT
+- Tyson Foods — $1 revenue, 2019 990 ⚠️ CONFLICT
+- CoreCivic — $511K revenue, 2024 990 ⚠️ CONFLICT
+- ActBlue — $2.0M revenue, 2023 990 ⚠️ CONFLICT
+- Brady Campaign — $4.8M revenue, 2023 990 ⚠️ CONFLICT
+- Business Roundtable — $64.5M revenue, 2023 990 ⚠️ CONFLICT
+- Council for National Policy — $3.8M revenue, 2023 990 ⚠️ CONFLICT
+
+**Conflicts detected: 10** (see `pending-merge` blocks in the listed profiles)
+
+---
+## 2026-04-15 16:55 UTC — 9 profiles
+
+**sec-edgar — 9 profiles:**
+- California Farm Bureau Federation — 291 filings, 16 form types ⚠️ CONFLICT
+- Cargill — 10000 filings, 48 form types ⚠️ CONFLICT
+- John Deere — 10000 filings, 6 form types ⚠️ CONFLICT
+- National Cattlemen's Beef Association — 108 filings, 24 form types ⚠️ CONFLICT
+- Tyson Foods — 10000 filings, 38 form types ⚠️ CONFLICT
+- Western Growers Association — 61 filings, 22 form types ⚠️ CONFLICT
+- CoreCivic — 10000 filings, 18 form types ⚠️ CONFLICT
+- ActBlue — 5 filings, 3 form types ⚠️ CONFLICT
+- Brady Campaign — 44 filings, 9 form types ⚠️ CONFLICT
+
+**Conflicts detected: 9** (see `pending-merge` blocks in the listed profiles)
+
+---
 ## 2026-04-15 16:37 UTC — 25 profiles
 
 **ofac-sdn — 25 profiles:**

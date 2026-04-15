@@ -35,8 +35,8 @@ top-donors:
   - PhRMA
 total-received: "$1,311,209"
 fec-candidate-id: "H8NJ03073"
-donors: ">- · [[UAW - United Auto Workers]]"
-related: ">- · [[Telecom Buys Net Neutrality's Death From Both Sides]]"
+donors: ">- · [[UAW - United Auto Workers]] · [[AFGE - American Federation of Government Employees]]"
+related: ">- · [[Telecom Buys Net Neutrality's Death From Both Sides]] · [[Rosa DeLauro]]"
 last-enriched: "2026-04-15"
 needs-reenrichment: true
 reenrich-reason: re-run congress pipeline

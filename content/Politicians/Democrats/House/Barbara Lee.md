@@ -17,12 +17,12 @@ fec-candidate-id: "H8CA09060"
 last-enriched: "2026-04-15"
 needs-reenrichment: true
 reenrich-reason: run congress pipeline
-donors: ">- · [[Tim Dunn]]"
+donors: ">- · [[Tim Dunn]] · [[Rebekah Mercer]]"
 bioguide-id: L000551
 govtrack-id: 400237
 bills-sponsored: 604
 bills-cosponsored: 10572
-related: ">- · [[Adam Schiff]]"
+related: ">- · [[Adam Schiff]] · [[Rebekah Mercer]]"
 internal-notes: >-
   [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: •
   CONGRESS data is missing entirely. This profile was promoted to ready without

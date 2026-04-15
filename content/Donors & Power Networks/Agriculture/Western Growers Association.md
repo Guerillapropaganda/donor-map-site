@@ -85,7 +85,7 @@ regulatory-agencies:
   - "Interior Department"
   - "Pipeline and Hazardous Materials Safety Administration"
   - "Transportation Department"
-related: "[[Agricultural Labor Vulnerability Donors]] · [[_Gavin Newsom Master Profile]] · [[Farmworker Union Rights - AB 2183 Veto and Reversal]] · [[H-2A Guest Worker Pipeline and Farmworker Vulnerability]] · [[Immigration - Donors and Backers]] · [[Labor - Donors and Backers]] · [[California Farm Bureau Federation]] · [[Haim Saban]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[JCRC Bay Area]] · [[J Street]] · [[Christians United for Israel]] · [[American Friends of the Likud]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Blue Shield of California]] · [[Anthem - Elevance Health]] · [[American Gaming Association]] · [[United Arab Emirates - Influence Operation]] · [[Turkey - Erdogan Lobbying Operation]] · [[National Association of Manufacturers]]"
+related: "[[Agricultural Labor Vulnerability Donors]] · [[_Gavin Newsom Master Profile]] · [[Farmworker Union Rights - AB 2183 Veto and Reversal]] · [[H-2A Guest Worker Pipeline and Farmworker Vulnerability]] · [[Immigration - Donors and Backers]] · [[Labor - Donors and Backers]] · [[California Farm Bureau Federation]] · [[Haim Saban]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[JCRC Bay Area]] · [[J Street]] · [[Christians United for Israel]] · [[American Friends of the Likud]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Blue Shield of California]] · [[Anthem - Elevance Health]] · [[American Gaming Association]] · [[United Arab Emirates - Influence Operation]] · [[Turkey - Erdogan Lobbying Operation]] · [[National Association of Manufacturers]] · [[Entertainment and Hollywood Donors]]"
 cross-vault-triangulation-count: 10
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
@@ -291,7 +291,7 @@ The PAGA reform spending ($9.5 million coalition) reveals the second dimension. 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/751972150) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
-<!-- auto:nonprofit-990 pending-merge 2026-04-11 -->
+<!-- auto:nonprofit-990 pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -336,7 +336,7 @@ The PAGA reform spending ($9.5 million coalition) reveals the second dimension. 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Western%20Growers%20Association%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
-<!-- auto:sec-edgar pending-merge 2026-04-11 -->
+<!-- auto:sec-edgar pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -472,3 +472,19 @@ The Western Growers Association (WGA) is an association representing family farm
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Western_Growers_Association) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q19321870) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+
+<!-- auto:wikipedia pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+The Western Growers Association (WGA) is an association representing family farmers who grow fresh produce and tree nuts in California, Arizona, Colorado and New Mexico.
+
+| Fact | Value |
+|------|-------|
+| Wikidata ID | [Q19321870](https://www.wikidata.org/wiki/Q19321870) |
+| Description | association representing farmers in the states of California and Arizona |
+
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Western_Growers_Association) (Tier 3)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q19321870) (Tier 2)
+
+<!-- auto:wikipedia pending-merge end -->

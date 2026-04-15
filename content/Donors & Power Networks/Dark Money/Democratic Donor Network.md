@@ -12,8 +12,8 @@ issues:
   - "Technology"
   - "Labor & Workers"
   - "Dark Money & Campaign Finance"
-related: "[[Ohio Democratic Party]] · [[Pod Save America]] · [[National Progressive Donor Networks]] · [[Democracy Alliance]] · [[ActBlue]] · [[Jeffrey Katzenberg]] · [[Reid Hoffman]] · [[George Soros]] · [[Senate Majority PAC]] · [[House Majority PAC]] · [[SEIU - Service Employees International Union|SEIU]] · [[AFL-CIO]] · [[Sixteen Thirty Fund]] · [[New Venture Fund]] · [[American Bridge 21st Century]] · [[Future Forward USA Action]] · [[Ohio Federation of Teachers]] · [[Open Society Foundations]] · [[Small Dollar Donors - ActBlue]] · [[Trial Lawyers Fund]] · [[Ocean Conservancy]] · [[Media Matters]] · [[Legal Sector Donors]] · [[Finance and Tech Bundler Network]] · [[Environmental Law & Policy Center]] · [[Entertainment and Hollywood Donors]] · [[Democratic Small Dollar Networks]] · [[Democratic Party Infrastructure]] · [[Demand Justice]]"
-last-enriched: "2026-04-11"
+related: "[[Ohio Democratic Party]] · [[Pod Save America]] · [[National Progressive Donor Networks]] · [[Democracy Alliance]] · [[ActBlue]] · [[Jeffrey Katzenberg]] · [[Reid Hoffman]] · [[George Soros]] · [[Senate Majority PAC]] · [[House Majority PAC]] · [[SEIU - Service Employees International Union|SEIU]] · [[AFL-CIO]] · [[Sixteen Thirty Fund]] · [[New Venture Fund]] · [[American Bridge 21st Century]] · [[Future Forward USA Action]] · [[Ohio Federation of Teachers]] · [[Open Society Foundations]] · [[Small Dollar Donors - ActBlue]] · [[Trial Lawyers Fund]] · [[Ocean Conservancy]] · [[Media Matters]] · [[Legal Sector Donors]] · [[Finance and Tech Bundler Network]] · [[Environmental Law & Policy Center]] · [[Entertainment and Hollywood Donors]] · [[Democratic Small Dollar Networks]] · [[Democratic Party Infrastructure]] · [[Demand Justice]] · [[CREW - Citizens for Responsibility and Ethics in Washington]]"
+last-enriched: "2026-04-15"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 ein: "943062436"
@@ -187,3 +187,30 @@ The network's internal contradiction is structural, not accidental. Labor delive
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/943062436) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
+
+<!-- auto:nonprofit-990 pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| EIN | 943062436 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $161.3M |
+| Total Assets | $73.4M |
+| IRS Ruling Date | 1992-02-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/943062436/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/943062436/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/943062436/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/943062436/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/943062436/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/943062436) (Tier 1)
+
+<!-- auto:nonprofit-990 pending-merge end -->

@@ -19,7 +19,7 @@ issues:
   - Police Reform
   - Healthcare
   - Environmental Justice
-related: "[[_Jamaal Bowman Master Profile]] · [[_Cori Bush Master Profile]] · [[_Ilhan Omar Master Profile]] · [[_Rashida Tlaib Master Profile]] · [[_Alexandria Ocasio-Cortez Master Profile]] · [[Justice Democrats and Brand New Congress - The Infrastructure He Built]] · [[United Democracy Project - UDP]] · [[DMFI - Democratic Majority for Israel]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Bernie Sanders]]"
+related: "[[_Jamaal Bowman Master Profile]] · [[_Cori Bush Master Profile]] · [[_Ilhan Omar Master Profile]] · [[_Rashida Tlaib Master Profile]] · [[_Alexandria Ocasio-Cortez Master Profile]] · [[Justice Democrats and Brand New Congress - The Infrastructure He Built]] · [[United Democracy Project - UDP]] · [[DMFI - Democratic Majority for Israel]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Bernie Sanders]] · [[Pramila Jayapal]]"
 donors:
   - "Justice Democrats PAC"
   - "Courage to Change PAC"

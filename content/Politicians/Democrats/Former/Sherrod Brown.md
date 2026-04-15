@@ -18,8 +18,8 @@ party: Democrat
 chamber: Senate
 state: Ohio
 state-abbr: OH
-donors: ">- · [[Lawrence Summers]]"
-related: ">- · [[Crypto Industry Buys Both Parties in One Cycle]]"
+donors: ">- · [[Lawrence Summers]] · [[Ken Griffin]]"
+related: ">- · [[Crypto Industry Buys Both Parties in One Cycle]] · [[Ohio 2026 Special Senate Election]]"
 editorial-review-date: '2026-04-08'
 editorial-reviewer: Research Claude
 editorial-result: block

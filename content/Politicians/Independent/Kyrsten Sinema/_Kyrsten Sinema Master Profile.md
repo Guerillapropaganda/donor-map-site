@@ -35,7 +35,7 @@ known-gaps:
   - No voting record data
   - No mapped relationships
 opposes: "[[DEFENDARIZONA]] · [[NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE]] · [[AMERICAN FUTURE FUND]] · [[CONGRESSIONAL LEADERSHIP FUND]]"
-related: "[[Koch Network - Charles Koch]] · [[_Joe Manchin Master Profile]] · [[_Chuck Schumer Master Profile]] · [[The Manchin-Sinema Donor-Class Veto - How Two Senators Killed a Majority]] · [[Insurance Industry Writes Its Own Regulation Through Both Parties]]"
+related: "[[Koch Network - Charles Koch]] · [[_Joe Manchin Master Profile]] · [[_Chuck Schumer Master Profile]] · [[The Manchin-Sinema Donor-Class Veto - How Two Senators Killed a Majority]] · [[Insurance Industry Writes Its Own Regulation Through Both Parties]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]]"
 total-raised: "$17,050,976"
 total-spent: "$12,945,617"
 cash-on-hand: "4276880.44"
@@ -44,7 +44,7 @@ last-enriched: "2026-04-11"
 internal-notes: "[MANUAL 2026-04-11] Bioguide recovered: S001191. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true , the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
 
 [JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
-donors: "[[Private Equity Industry Bloc]]"
+donors: "[[Private Equity Industry Bloc]] · [[AFSCME - American Federation of State County and Municipal Employees]]"
 ---
 
 <!-- auto:data-panel start -->

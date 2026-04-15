@@ -31,7 +31,7 @@ known-gaps:
 executive-actions: 25
 last-enriched: '2026-04-10'
 opposes: '[[SFA FUND, INC]] · [[MAKE AMERICA GREAT AGAIN INC.]]'
-related: ">- · [[Florida 2026 Special Senate Election]]"
+related: ">- · [[Florida 2026 Special Senate Election]] · [[Ready to Win]]"
 opensanctions-status: pep
 opensanctions-matches: 1
 opensanctions-datasets:

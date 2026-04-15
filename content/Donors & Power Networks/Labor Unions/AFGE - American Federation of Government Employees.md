@@ -2,7 +2,7 @@
 title: "AFGE - American Federation of Government Employees"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-15
 source-tier: 2
 parent: null
 sector: "Labor Unions"
@@ -26,7 +26,7 @@ last-enriched: "2026-04-09"
 regulatory-agencies:
   - "Homeland Security Department"
   - "Personnel Management Office"
-related: "[[Lisa Murkowski]] · [[Tim Scott]] · [[Frank Pallone]] · [[Bobby Scott]]"
+related: "[[Lisa Murkowski]] · [[Tim Scott]] · [[Frank Pallone]] · [[Bobby Scott]] · [[Gary Peters]]"
 nonprofit-status: "tax-exempt"
 cross-vault-triangulation-count: 2
 audit-a-plus-passed: "2026-04-11"

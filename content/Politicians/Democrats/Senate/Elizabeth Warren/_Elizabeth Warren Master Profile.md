@@ -55,7 +55,7 @@ known-gaps:
   - >-
     Wealth tax proposal votes and co-sponsor retreat pattern needs full
     enumeration
-related: ">- · [[DOGE - The Billionaires Government]]"
+related: ">- · [[DOGE - The Billionaires Government]] · [[Katie Porter Master Profile]]"
 opposes: >-
   [[_Donald Trump Master Profile]] · [[Fairshake PAC]] · [[Kenneth Griffin]] ·
   [[Crypto Industry Bloc]]
@@ -81,7 +81,7 @@ editorial-notes: >-
   explicitly cite missing Congress.gov + GovTrack pipeline data. Flagged
   needs-reenrichment: true. Once clean pipeline data lands, ready to promote to
   ready and flag verified-candidate.
-donors: "[[Crypto Industry Bloc]]"
+donors: "[[Crypto Industry Bloc]] · [[UFCW - United Food and Commercial Workers]]"
 ---
 
 <!-- auto:data-panel start -->

@@ -29,7 +29,7 @@ politicians-funded:
   - "Jared F. Golden"
 issues:
   - "Immigration"
-ein: 940357610
+ein: "940357610"
 annual-revenue: "$12.9M"
 net-assets: "$73.5M"
 tax-year: "2023"
@@ -59,7 +59,7 @@ court-jurisdictions:
 nonprofit-status: "501(c)(5)"
 total-revenue: 29941168
 total-assets: 75856990
-related: "[[Agricultural Labor Vulnerability Donors]] · [[_Gavin Newsom Master Profile]] · [[Farmworker Union Rights - AB 2183 Veto and Reversal]] · [[H-2A Guest Worker Pipeline and Farmworker Vulnerability]] · [[Immigration - Donors and Backers]] · [[Labor - Donors and Backers]] · [[Western Growers Association]] · [[Haim Saban]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[JCRC Bay Area]] · [[J Street]] · [[Christians United for Israel]] · [[American Friends of the Likud]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Blue Shield of California]] · [[Anthem - Elevance Health]] · [[American Gaming Association]] · [[United Arab Emirates - Influence Operation]] · [[Turkey - Erdogan Lobbying Operation]] · [[National Association of Manufacturers]]"
+related: "[[Agricultural Labor Vulnerability Donors]] · [[_Gavin Newsom Master Profile]] · [[Farmworker Union Rights - AB 2183 Veto and Reversal]] · [[H-2A Guest Worker Pipeline and Farmworker Vulnerability]] · [[Immigration - Donors and Backers]] · [[Labor - Donors and Backers]] · [[Western Growers Association]] · [[Haim Saban]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[JCRC Bay Area]] · [[J Street]] · [[Christians United for Israel]] · [[American Friends of the Likud]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Blue Shield of California]] · [[Anthem - Elevance Health]] · [[American Gaming Association]] · [[United Arab Emirates - Influence Operation]] · [[Turkey - Erdogan Lobbying Operation]] · [[National Association of Manufacturers]] · [[Entertainment and Hollywood Donors]]"
 sec-filings: 291
 sec-form-types:
   - "10-Q"
@@ -342,7 +342,7 @@ The Farm Bureau's most revealing feature is what it does not do. It does not adv
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/940357610) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
-<!-- auto:nonprofit-990 pending-merge 2026-04-11 -->
+<!-- auto:nonprofit-990 pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -387,7 +387,7 @@ The Farm Bureau's most revealing feature is what it does not do. It does not adv
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22California%20Farm%20Bureau%20Federation%22) (Tier 1) (NEEDS REVIEW: page full of text...not sure what it referances)
 <!-- auto:sec-edgar end -->
 
-<!-- auto:sec-edgar pending-merge 2026-04-11 -->
+<!-- auto:sec-edgar pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -418,6 +418,20 @@ The Farm Bureau's most revealing feature is what it does not do. It does not adv
 
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q126731054) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+
+<!-- auto:wikipedia pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Fact | Value |
+|------|-------|
+| Wikidata ID | [Q126731054](https://www.wikidata.org/wiki/Q126731054) |
+| Description | corporation with its principal place of business in Auburn, California |
+| Website | [https://www.cfbf.com/](https://www.cfbf.com/) |
+
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q126731054) (Tier 2)
+
+<!-- auto:wikipedia pending-merge end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-donor start -->

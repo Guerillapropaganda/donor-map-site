@@ -25,7 +25,7 @@ known-gaps:
   - "No mapped relationships"
 last-enriched: "2026-04-09"
 related: "[[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile]] · [[_Ron DeSantis Master Profile]] · [[The Koch Endorsement and the Corporate Republican Restoration Project]] · [[The Defense Industry Pipeline and South Carolina's Military Economy]] · [[Jeff Yass Follows TikTok Money Across Every Candidate]]"
-donors: "[[Americans for Prosperity]]"
+donors: "[[Americans for Prosperity]] · [[Jan Koum]]"
 ---
 
 <!-- auto:data-panel start -->

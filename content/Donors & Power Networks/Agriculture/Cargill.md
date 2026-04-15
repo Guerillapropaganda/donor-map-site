@@ -10,7 +10,7 @@ entity-type: "Corporation"
 issues:
   - "Agriculture"
   - "Trade"
-ein: 416020221
+ein: "416020221"
 annual-revenue: "$2.5M"
 net-assets: "$255.2M"
 tax-year: "2023"
@@ -24,7 +24,7 @@ federal-awards-total: 49170610
 federal-contracts-count: 25
 federal-grants-count: 10
 related: "[[The Veterans Affairs and Iowa Agriculture]] · [[The Oversight Legacy and Agricultural Protection]] · [[Agriculture - Donors and Backers]] · [[ADM - Archer Daniels Midland]] · [[Monsanto - Bayer]] · [[John Deere]] · [[The Farm Bill - The Bipartisan Subsidy Machine]] · [[Tyson Foods]] · [[American Farm Bureau Federation]] · [[National Cattlemen's Beef Association]] · [[Meatpacking Corporations]] · [[United Farm Workers]] · [[Ethanol Industry]] · [[Agribusiness Donor Bloc]]"
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-15"
 needs-reenrichment: true
 reenrich-reason: "run lda pipeline"
 sec-filings: 10000
@@ -391,7 +391,7 @@ The 42 FDA recalls (including 10 Class I, the most serious category) and 12,441 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Cargill%22) (Tier 1) (NEEDS REVIEW: Just a bunch of code. Not sure if this is useful as a source)
 <!-- auto:sec-edgar end -->
 
-<!-- auto:sec-edgar pending-merge 2026-04-11 -->
+<!-- auto:sec-edgar pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -535,6 +535,33 @@ _Variant firm names in FDA data: Cargill, Inc         Corporate Headquarters; Ca
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/416020221) (Tier 1)
 <!-- auto:nonprofit-990 end -->
 
+<!-- auto:nonprofit-990 pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| EIN | 416020221 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $144.3M |
+| Total Assets | $307.3M |
+| IRS Ruling Date | 1954-04-01 |
+| Filings on Record | 10 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/416020221/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/416020221/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/416020221/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/416020221/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/416020221/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/416020221) (Tier 1)
+
+<!-- auto:nonprofit-990 pending-merge end -->
+
 ### Wikipedia
 <!-- auto:wikipedia start -->
 Cargill, Incorporated is an American multinational food corporation based in Minnetonka, Minnesota.
@@ -551,6 +578,26 @@ Cargill, Incorporated is an American multinational food corporation based in Min
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Cargill) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q1036056) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+
+<!-- auto:wikipedia pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+Cargill, Incorporated is an American multinational food corporation based in Minnetonka, Minnesota.
+
+| Fact | Value |
+|------|-------|
+| Wikidata ID | [Q1036056](https://www.wikidata.org/wiki/Q1036056) |
+| Description | American-based international food conglomerate |
+| Founded | 1865-01-01 |
+| Website | [http://cargill.com](http://cargill.com) |
+| X/Twitter | [@Cargill](https://x.com/Cargill) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Cargill_grain_elevator_and_terminal.jpg?width=300) |
+
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Cargill) (Tier 3)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q1036056) (Tier 2)
+
+<!-- auto:wikipedia pending-merge end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->

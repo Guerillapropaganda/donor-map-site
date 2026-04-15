@@ -14,11 +14,11 @@ issues:
   - "Labor & Workers"
 lobbying-spend: 4861010
 lobbying-filings: 104
-ein: 237236607
+ein: "237236607"
 annual-revenue: "$64.5M"
 net-assets: "$47.8M"
 tax-year: "2023"
-last-enriched: "2026-04-13"
+last-enriched: "2026-04-15"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 federal-register-mentions: 172
@@ -32,7 +32,7 @@ regulatory-agencies:
   - "Safety and Environmental Enforcement Bureau"
   - "Securities and Exchange Commission"
   - "Veterans Employment and Training Service"
-related: "[[National Association of Manufacturers]] · [[The Agriculture Committee and Farm Bill Politics]] · [[The Ways and Means Gavel and Corporate Tax Architecture]] · [[The Agriculture Committee and Minnesota Suburbs]] · [[The Ways and Means Chair and TCJA Extension]] · [[Akin Gump Strauss Hauer & Feld]] · [[US Chamber of Commerce]] · [[JPMorgan Chase]] · [[Goldman Sachs]] · [[Koch Network - Charles Koch]] · [[Blackstone Group]] · [[_Donald Trump Master Profile|Donald Trump]] · [[DeVos Family]] · [[National Education Association]] · [[American Federation for Children]] · [[Insurance Industry]] · [[Walton Family Foundation]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[Defense Industry Bloc]] · [[American Iron and Steel Institute]] · [[Judicial Crisis Network]]"
+related: "[[National Association of Manufacturers]] · [[The Agriculture Committee and Farm Bill Politics]] · [[The Ways and Means Gavel and Corporate Tax Architecture]] · [[The Agriculture Committee and Minnesota Suburbs]] · [[The Ways and Means Chair and TCJA Extension]] · [[Akin Gump Strauss Hauer & Feld]] · [[US Chamber of Commerce]] · [[JPMorgan Chase]] · [[Goldman Sachs]] · [[Koch Network - Charles Koch]] · [[Blackstone Group]] · [[_Donald Trump Master Profile|Donald Trump]] · [[DeVos Family]] · [[National Education Association]] · [[American Federation for Children]] · [[Insurance Industry]] · [[Walton Family Foundation]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[Defense Industry Bloc]] · [[American Iron and Steel Institute]] · [[Judicial Crisis Network]] · [[Heritage Foundation]]"
 sec-filings: 10000
 sec-form-types:
   - "8-K"
@@ -337,6 +337,34 @@ The TCJA is the BRT's signature achievement: $320+ billion annually in corporate
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/237236607) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
+<!-- auto:nonprofit-990 pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| EIN | 237236607 |
+| Tax-Exempt Status | 501(c)(6) |
+| Total Revenue | $79.4M |
+| Total Assets | $50.2M |
+| NTEE Code | J99 |
+| IRS Ruling Date | 2017-11-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/237236607/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/237236607/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/237236607/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/237236607/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/237236607/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/237236607) (Tier 1)
+
+<!-- auto:nonprofit-990 pending-merge end -->
+
 ### Wikipedia
 <!-- auto:wikipedia start -->
 The Business Roundtable (BRT) is a nonprofit lobbyist association based in Washington, D.C. whose members are chief executive officers of major U.S. companies.
@@ -353,6 +381,26 @@ The Business Roundtable (BRT) is a nonprofit lobbyist association based in Washi
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Business_Roundtable) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q5001792) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+
+<!-- auto:wikipedia pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+The Business Roundtable (BRT) is a nonprofit lobbyist association based in Washington, D.C. whose members are chief executive officers of major U.S. companies.
+
+| Fact | Value |
+|------|-------|
+| Wikidata ID | [Q5001792](https://www.wikidata.org/wiki/Q5001792) |
+| Description | conservative lobbying organization in the United States |
+| Founded | 1972-00-00 |
+| Website | [http://businessroundtable.org/](http://businessroundtable.org/) |
+| X/Twitter | [@BizRoundtable](https://x.com/BizRoundtable) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Business_Roundtable_logo.svg?width=300) |
+
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Business_Roundtable) (Tier 3)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q5001792) (Tier 2)
+
+<!-- auto:wikipedia pending-merge end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-donor start -->

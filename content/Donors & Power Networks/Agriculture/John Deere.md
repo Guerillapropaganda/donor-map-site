@@ -13,7 +13,7 @@ issues:
 federal-awards-total: 13881681
 federal-contracts-count: 25
 federal-grants-count: 0
-ein: 366051024
+ein: "366051024"
 annual-revenue: "$17.7M"
 net-assets: "$212.6M"
 tax-year: "2023"
@@ -349,7 +349,7 @@ The political math is straightforward. John Deere's PAC contributes $1-2 million
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22John%20Deere%22) (Tier 1) (NEEDS REVIEW: Just a bunch of code...not sure context)
 <!-- auto:sec-edgar end -->
 
-<!-- auto:sec-edgar pending-merge 2026-04-11 -->
+<!-- auto:sec-edgar pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -361,9 +361,9 @@ The political math is straightforward. John Deere's PAC contributes $1-2 million
 **Notable filings:**
 
 - 2005-12-20 — **EX-21**: SUBSIDIARIES OF THE REGISTRANT
-- 2014-12-19 — **EX-21**: EX-21
-- 2012-12-17 — **EX-21**: EX-21
+- 2001-12-21 — **EX-21**: SUBSIDIARIES
 - 2010-12-17 — **EX-21**: EX-21
+- 2013-12-16 — **EX-21**: EX-21
 - 2015-12-18 — **EX-21**: EX-21
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22John%20Deere%22) (Tier 1)
@@ -540,6 +540,33 @@ The political math is straightforward. John Deere's PAC contributes $1-2 million
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/366051024) (Tier 1)
 <!-- auto:nonprofit-990 end -->
 
+<!-- auto:nonprofit-990 pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| EIN | 366051024 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $132.8M |
+| Total Assets | $220.5M |
+| IRS Ruling Date | 1949-10-01 |
+| Filings on Record | 10 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/366051024/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/366051024/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/366051024/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/366051024/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/366051024/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/366051024) (Tier 1)
+
+<!-- auto:nonprofit-990 pending-merge end -->
+
 ### Wikipedia
 <!-- auto:wikipedia start -->
 | Fact | Value |
@@ -549,6 +576,19 @@ The political math is straightforward. John Deere's PAC contributes $1-2 million
 
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q98642757) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+
+<!-- auto:wikipedia pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Fact | Value |
+|------|-------|
+| Wikidata ID | [Q98642757](https://www.wikidata.org/wiki/Q98642757) |
+| Description | brand of Deere & Company |
+
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q98642757) (Tier 2)
+
+<!-- auto:wikipedia pending-merge end -->
 
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->

@@ -228,3 +228,30 @@ Immigration enforcement and ICE funding, justice system reform, mandatory minimu
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/474543845) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
+
+<!-- auto:nonprofit-990 pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| EIN | 474543845 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $144K |
+| Total Assets | $119K |
+| NTEE Code | I05 |
+| IRS Ruling Date | 2015-11-01 |
+| Filings on Record | 5 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/474543845/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/474543845/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/474543845/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/474543845/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/474543845/2019)
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/474543845) (Tier 1)
+
+<!-- auto:nonprofit-990 pending-merge end -->

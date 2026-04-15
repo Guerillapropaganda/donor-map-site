@@ -22,7 +22,7 @@ known-gaps:
   - "No legislative record"
   - "No voting record"
   - "No mapped relationships"
-donors: "[[Western Growers Association]]"
+donors: "[[Western Growers Association]] · [[CA Farm Bureau Federation]]"
 ---
 
 

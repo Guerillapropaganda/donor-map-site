@@ -29,12 +29,12 @@ politicians-funded:
   - "Mike Carey"
 issues:
   - "Agriculture"
-ein: 840738973
+ein: "840738973"
 annual-revenue: "$54.9M"
 net-assets: "$37.3M"
 tax-year: "2023"
 court-cases: 85
-last-enriched: "2026-04-12"
+last-enriched: "2026-04-15"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 court-jurisdictions:
@@ -62,7 +62,7 @@ regulatory-agencies:
   - "Fish and Wildlife Service"
   - "Food Safety and Inspection Service"
   - "Interior Department"
-related: "[[Fanjul Family - Florida Crystals]] · [[The Agriculture-Defense Dual Donor Axis]] · [[Agriculture - Donors and Backers]] · [[Frank Lucas Master Profile]] · [[The Oversight Chair and the Investigation Theater]] · [[The Agriculture Committee and Farm Subsidy Pipeline]] · [[Farm Subsidies, SNAP Cuts, and the Tariff Bailout - Who Actually Got Paid]] · [[American Farm Bureau Federation]] · [[_Donald Trump Master Profile|Trump]] · [[DeVos Family]] · [[American Iron and Steel Institute]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[US Chamber of Commerce]] · [[Insurance Industry]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[Walton Family Foundation]] · [[National Education Association]] · [[National Association of Manufacturers]]"
+related: "[[Fanjul Family - Florida Crystals]] · [[The Agriculture-Defense Dual Donor Axis]] · [[Agriculture - Donors and Backers]] · [[Frank Lucas Master Profile]] · [[The Oversight Chair and the Investigation Theater]] · [[The Agriculture Committee and Farm Subsidy Pipeline]] · [[Farm Subsidies, SNAP Cuts, and the Tariff Bailout - Who Actually Got Paid]] · [[American Farm Bureau Federation]] · [[_Donald Trump Master Profile|Trump]] · [[DeVos Family]] · [[American Iron and Steel Institute]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[US Chamber of Commerce]] · [[Insurance Industry]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[Walton Family Foundation]] · [[National Education Association]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]]"
 nonprofit-status: "501(c)(6)"
 total-revenue: 56531773
 total-assets: 37287895
@@ -76,11 +76,12 @@ sec-form-types:
   - "10-K/A"
   - "10-K405"
   - "10-Q"
-  - "144"
-  - "4"
+  - "3"
   - "424B1"
   - "424B3"
   - "8-K"
+  - "ABS-15G"
+  - "ABS-15G/A"
   - "DEF 14A"
   - "DEFA14A"
   - "EX-13"
@@ -88,6 +89,7 @@ sec-form-types:
   - "EX-99"
   - "EX-99.1"
   - "EX-99.2"
+  - "IRANNOTICE"
   - "PRE 14A"
   - "S-8"
   - "SB-2"
@@ -460,7 +462,7 @@ Ranchers pay $1/head (mandatory checkoff) → funds flow to NCBA ($45.6M in 2020
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/840738973) (Tier 1)
 <!-- auto:nonprofit-990 end -->
 
-<!-- auto:nonprofit-990 pending-merge 2026-04-11 -->
+<!-- auto:nonprofit-990 pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -508,6 +510,29 @@ Ranchers pay $1/head (mandatory checkoff) → funds flow to NCBA ($45.6M in 2020
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22National%20Cattlemen's%20Beef%20Association%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
+<!-- auto:sec-edgar pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Total Filings | 108 |
+| Form Types | 10-K, 10-K/A, 10-K405, 10-Q, 3, 424B1, 424B3, 8-K +16 more |
+| CIK | 310522 |
+| Ticker | FNMA |
+
+**Notable filings:**
+
+- 2026-02-23 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/310522/000031052226000030/0000310522-26-000030-index.htm)
+- 2026-02-12 — **ABS-15G/A**: [FNM FILE 10 OF 10](https://www.sec.gov/Archives/edgar/data/310522/000031052226000027/0000310522-26-000027-index.htm)
+- 2026-02-12 — **ABS-15G/A**: [FNM FILE 09 OF 10](https://www.sec.gov/Archives/edgar/data/310522/000031052226000026/0000310522-26-000026-index.htm)
+- 2026-02-12 — **ABS-15G/A**: [FNM FILE 08 OF 10](https://www.sec.gov/Archives/edgar/data/310522/000031052226000025/0000310522-26-000025-index.htm)
+- 2026-02-12 — **ABS-15G/A**: [FNM FILE 07 OF 10](https://www.sec.gov/Archives/edgar/data/310522/000031052226000024/0000310522-26-000024-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22National%20Cattlemen's%20Beef%20Association%22) (Tier 1)
+
+<!-- auto:sec-edgar pending-merge end -->
+
 ### Wikipedia
 <!-- auto:wikipedia start -->
 National Cattlemen's Beef Association (NCBA) is an American trade association and lobbying group working for American beef producers.
@@ -524,6 +549,26 @@ National Cattlemen's Beef Association (NCBA) is an American trade association an
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/National_Cattlemen's_Beef_Association) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q6971302) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+
+<!-- auto:wikipedia pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+National Cattlemen's Beef Association (NCBA) is an American trade association and lobbying group working for American beef producers.
+
+| Fact | Value |
+|------|-------|
+| Wikidata ID | [Q6971302](https://www.wikidata.org/wiki/Q6971302) |
+| Description | advocate group for the cattle industry's policy positions and economic interests |
+| Founded | 1996-01-01 |
+| Website | [http://www.beefusa.org/](http://www.beefusa.org/) |
+| X/Twitter | [@beefusa](https://x.com/beefusa) |
+| Image | [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/en/thumb/0/05/National_Cattlemans%27_Beef_Association_Logo.JPG/330px-National_Cattlemans%27_Beef_Association_Logo.JPG) |
+
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/National_Cattlemen's_Beef_Association) (Tier 3)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q6971302) (Tier 2)
+
+<!-- auto:wikipedia pending-merge end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-donor start -->

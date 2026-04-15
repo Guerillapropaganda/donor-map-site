@@ -30,7 +30,7 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No mapped relationships"
 related: "[[_Raphael Warnock Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Pete Buttigieg Master Profile]] · [[Silicon Valley Donors]] · [[Tech Industry]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]]"
-donors: "[[JB Pritzker (Donor Network)]]"
+donors: "[[JB Pritzker (Donor Network)]] · [[David Sacks (Donor Network)]]"
 ---
 
 <!-- auto:data-panel start -->

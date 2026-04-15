@@ -18,11 +18,11 @@ court-jurisdictions:
   - "District Court, District of Columbia"
   - "District Court, E.D. North Carolina"
   - "District Court, W.D. Texas"
-ein: 237321017
+ein: "237321017"
 annual-revenue: "$4.8M"
 net-assets: "$8.1M"
 tax-year: "2023"
-related: "[[Sheldon Whitehouse]] · [[Bob Menendez]] · [[Jerry Nadler]]"
+related: "[[Sheldon Whitehouse]] · [[Bob Menendez]] · [[Jerry Nadler]] · [[Linda McMahon]]"
 lobbying-spend: 836000
 lobbying-filings: 34
 nonprofit-status: "501(c)(4)"
@@ -303,6 +303,34 @@ Brady represents issue-based donor infrastructure serving Democratic electoral p
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/237321017) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
+<!-- auto:nonprofit-990 pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| EIN | 237321017 |
+| Tax-Exempt Status | 501(c)(4) |
+| Total Revenue | $4.8M |
+| Total Assets | $6.2M |
+| NTEE Code | R60 |
+| IRS Ruling Date | 1974-06-01 |
+| Filings on Record | 14 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/237321017/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/237321017/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/237321017/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/237321017/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/237321017/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/237321017) (Tier 1)
+
+<!-- auto:nonprofit-990 pending-merge end -->
+
 ### SEC Filing Activity
 <!-- auto:sec-edgar start -->
 | Metric | Value |
@@ -320,6 +348,27 @@ Brady represents issue-based donor infrastructure serving Democratic electoral p
 
 - ~~[Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Brady%20Campaign%22)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+<!-- auto:sec-edgar pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Total Filings | 44 |
+| Form Types | 10-K, 485BPOS, 497, DEF 14A, DEF 14C, DEFA14A, EX-99.1, N-1A/A +1 more |
+
+**Notable filings:**
+
+- 2004-01-28 — **U5S**: FORM U5S
+- 2003-01-28 — **U5S**: ANNUAL REPORT
+- 2002-01-28 — **U5S**: FORM U5S
+- 2019-02-08 — **EX-99.1**: EX-99.1
+- 2019-04-30 — **DEFA14A**: DEFA14A
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Brady%20Campaign%22) (Tier 1)
+
+<!-- auto:sec-edgar pending-merge end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-donor start -->
@@ -390,6 +439,26 @@ Brady: United Against Gun Violence is an American nonprofit organization that ad
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Brady_Campaign) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q4955170) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+
+<!-- auto:wikipedia pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+Brady: United Against Gun Violence is an American nonprofit organization that advocates for gun control and against gun violence.
+
+| Fact | Value |
+|------|-------|
+| Wikidata ID | [Q4955170](https://www.wikidata.org/wiki/Q4955170) |
+| Description | American nonprofit organization that advocates for gun control |
+| Founded | 1974-00-00 |
+| Website | [http://www.bradycampaign.org/](http://www.bradycampaign.org/) |
+| X/Twitter | [@bradybuzz](https://x.com/bradybuzz) |
+| Image | [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Brady_Campaign_logo.svg/330px-Brady_Campaign_logo.svg.png) |
+
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Brady_Campaign) (Tier 3)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q4955170) (Tier 2)
+
+<!-- auto:wikipedia pending-merge end -->
 
 ### Federal Register Activity
 <!-- auto:federal-register start -->

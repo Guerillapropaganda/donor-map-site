@@ -30,7 +30,7 @@ wikipedia-url: "https://en.wikipedia.org/wiki/Donna_Miller"
 wikipedia-extract: "Donna Lynne Miller is an American politician currently serving as a Cook County commissioner, representing the board's 6th district."
 born: "1965-09-07"
 internal-notes: "[JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'B001296' ((unknown , smaller 3-file contamination)), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 3 unrelated profiles all had the same wrong ID , same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
-donors: "[[Tim Dunn]]"
+donors: "[[Tim Dunn]] · [[IBEW - International Brotherhood of Electrical Workers]]"
 ---
 
 <!-- auto:data-panel start -->

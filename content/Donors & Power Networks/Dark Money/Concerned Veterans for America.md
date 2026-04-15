@@ -17,14 +17,14 @@ subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
 ein: "853318501"
 nonprofit-status: "501(c)(3)"
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-15"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 court-cases: 5
 court-jurisdictions:
   - "District Court, District of Columbia"
   - "District Court, N.D. Illinois"
-related: "[[DeVos Family]] · [[Koch Network - Charles Koch]] · [[_Pete Hegseth Master Profile|Hegseth]] · [[Doug Collins]] · [[_Donald Trump Master Profile|Trump]] · [[Veterans and Military - Donors and Backers]] · [[The VA Privatization Pipeline - Who Profits From Veteran Healthcare]] · [[American Federation for Children]] · [[National Education Association]] · [[Walton Family Foundation]] · [[Defense Contractors Bloc]] · [[Insurance Industry]] · [[American Iron and Steel Institute]] · [[Defense Industry]] · [[American Petroleum Institute]] · [[Petrochemical Industry Bloc]] · [[Western States Petroleum Association]] · [[Defense Industry Bloc]] · [[US Chamber of Commerce]] · [[National Association of Manufacturers]]"
+related: "[[DeVos Family]] · [[Koch Network - Charles Koch]] · [[_Pete Hegseth Master Profile|Hegseth]] · [[Doug Collins]] · [[_Donald Trump Master Profile|Trump]] · [[Veterans and Military - Donors and Backers]] · [[The VA Privatization Pipeline - Who Profits From Veteran Healthcare]] · [[American Federation for Children]] · [[National Education Association]] · [[Walton Family Foundation]] · [[Defense Contractors Bloc]] · [[Insurance Industry]] · [[American Iron and Steel Institute]] · [[Defense Industry]] · [[American Petroleum Institute]] · [[Petrochemical Industry Bloc]] · [[Western States Petroleum Association]] · [[Defense Industry Bloc]] · [[US Chamber of Commerce]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]]"
 cross-vault-triangulation-count: 10
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
@@ -183,6 +183,22 @@ The circular logic: underfund VA → wait times increase → cite wait times as 
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/853318501) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
+
+<!-- auto:nonprofit-990 pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| EIN | 853318501 |
+| Tax-Exempt Status | 501(c)(3) |
+| NTEE Code | W30 |
+| IRS Ruling Date | 2021-07-01 |
+| Filings on Record | 0 |
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/853318501) (Tier 1)
+
+<!-- auto:nonprofit-990 pending-merge end -->
 
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->

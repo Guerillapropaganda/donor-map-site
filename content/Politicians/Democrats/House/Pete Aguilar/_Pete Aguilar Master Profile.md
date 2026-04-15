@@ -19,8 +19,8 @@ committees:
   - Appropriations
 total-received: '$3,026,029'
 fec-candidate-id: H2CA31125
-donors: ">- · [[UAW - United Auto Workers]]"
-related: ">- · [[UAW - United Auto Workers]]"
+donors: ">- · [[UAW - United Auto Workers]] · [[AFSCME - American Federation of State County and Municipal Employees]]"
+related: ">- · [[UAW - United Auto Workers]] · [[Blue Shield of California]]"
 needs-reenrichment: true
 reenrich-reason: run voting pipeline; run congress pipeline; run pipelines
 internal-notes: >-

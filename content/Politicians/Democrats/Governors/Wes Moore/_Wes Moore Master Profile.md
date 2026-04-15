@@ -22,7 +22,7 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 related: "[[_Kamala Harris Master Profile]] · [[_Josh Shapiro Master Profile]] · [[_JB Pritzker Master Profile]] · [[_Andy Beshear Master Profile]] · [[Goldman Sachs]] · [[George Soros]]"
-donors: "[[Insurance Industry]]"
+donors: "[[Insurance Industry]] · [[Conservative Partnership Institute]]"
 ---
 
 <!-- auto:data-panel start -->

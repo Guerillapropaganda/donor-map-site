@@ -20,7 +20,7 @@ corroboration-count: 2
 known-gaps:
   - No voting record data
   - No mapped relationships
-related: "[[_Kamala Harris Master Profile]] · [[_Bernie Sanders Master Profile]] · [[Offshore Trusts Toilet Schemes and the Tax Avoidance Architecture]] · [[Juliana Stratton]]"
+related: "[[_Kamala Harris Master Profile]] · [[_Bernie Sanders Master Profile]] · [[Offshore Trusts Toilet Schemes and the Tax Avoidance Architecture]] · [[Juliana Stratton]] · [[Illinois Senate Primary Money War]]"
 donors: "[[Illinois Future PAC]]"
 ---
 

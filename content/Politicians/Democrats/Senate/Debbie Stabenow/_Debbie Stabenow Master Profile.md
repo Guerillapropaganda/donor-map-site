@@ -32,7 +32,7 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No mapped relationships"
 related: "[[_Gary Peters Master Profile|Gary Peters]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[Angie Craig]]"
-donors: "[[Sam Bankman-Fried]]"
+donors: "[[Sam Bankman-Fried]] · [[Bill Gates]]"
 ---
 
 <!-- auto:data-panel start -->

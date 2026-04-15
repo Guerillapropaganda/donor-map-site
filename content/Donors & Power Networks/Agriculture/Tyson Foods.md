@@ -15,9 +15,9 @@ issues:
   - "Immigration"
 top-federal-agency: "Department of Agriculture"
 top-naics-code: "311615"
-ein: 476014039
+ein: "476014039"
 nonprofit-status: "501(c)(3)"
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-15"
 needs-reenrichment: true
 reenrich-reason: "run lda pipeline"
 total-revenue: 1
@@ -284,7 +284,7 @@ Tyson's $220 million in federal contracts, primarily through the Department of A
 - ~~[Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/476014039)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:nonprofit-990 end -->
 
-<!-- auto:nonprofit-990 pending-merge 2026-04-11 -->
+<!-- auto:nonprofit-990 pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -490,6 +490,29 @@ _Variant firm names in FDA data: Tyson Foods Discovery Center; Tyson Foods, inc.
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Tyson%20Foods%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
+<!-- auto:sec-edgar pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 10-K, 4, 424B5, 8-K, DEFA14A, DFAN14A, EX-10, EX-10.1 +30 more |
+| CIK | 100493 |
+| Ticker | TSN |
+
+**Notable filings:**
+
+- 2026-04-02 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/100493/000010049326000014/0000100493-26-000014-index.htm)
+- 2026-03-27 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/100493/000010290926002468/0000102909-26-002468-index.htm)
+- 2026-02-20 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/100493/000114036126006328/0001140361-26-006328-index.htm)
+- 2026-02-13 — **SCHEDULE 13D/A**: [SCHEDULE 13D/A](https://www.sec.gov/Archives/edgar/data/100493/000199937126003264/0001999371-26-003264-index.htm)
+- 2026-02-11 — **424B5**: [424B5](https://www.sec.gov/Archives/edgar/data/100493/000114036126004824/0001140361-26-004824-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Tyson%20Foods%22) (Tier 1)
+
+<!-- auto:sec-edgar pending-merge end -->
+
 ### Financial Overview (990 Filing — 2019)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |
@@ -535,6 +558,26 @@ Tyson Foods, Inc. is an American multinational corporation based in Springdale, 
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Tyson_Foods) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q1325987) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+
+<!-- auto:wikipedia pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+Tyson Foods, Inc. is an American multinational corporation based in Springdale, Arkansas that operates in the food industry.
+
+| Fact | Value |
+|------|-------|
+| Wikidata ID | [Q1325987](https://www.wikidata.org/wiki/Q1325987) |
+| Description | food manufacturing company |
+| Founded | 1935-01-01 |
+| Website | [http://www.tyson.com](http://www.tyson.com) |
+| X/Twitter | [@TysonFoods](https://x.com/TysonFoods) |
+| Image | [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Tyson_Foods_corporate_logo_%282024%29.svg/330px-Tyson_Foods_corporate_logo_%282024%29.svg.png) |
+
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Tyson_Foods) (Tier 3)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q1325987) (Tier 2)
+
+<!-- auto:wikipedia pending-merge end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->

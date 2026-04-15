@@ -22,8 +22,8 @@ leadership-roles:
   - Ranking Member
 total-received: '$524,547'
 fec-candidate-id: H2CA43245
-donors: ">- · [[UAW - United Auto Workers]]"
-related: ">- · [[Mike Bost]]"
+donors: ">- · [[UAW - United Auto Workers]] · [[National Nurses United]]"
+related: ">- · [[Mike Bost]] · [[National Nurses United]]"
 needs-reenrichment: true
 reenrich-reason: re-run fec pipeline
 internal-notes: >-

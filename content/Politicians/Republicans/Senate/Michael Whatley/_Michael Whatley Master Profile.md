@@ -23,7 +23,7 @@ known-gaps:
   - No voting record data
   - No mapped relationships
 related: "[[North Carolina 2026 Senate Race]] · [[Michael Whatley Oil and Gas Lobbying History]] · [[Susan B. Anthony Pro-Life America PAC]] · [[Consumer Energy Alliance]] · [[Michael Whatley RNC Authority to Senate Campaign Conversion]]"
-donors: "[[Susan B. Anthony Pro-Life America PAC]] · [[HBW Resources]] · [[Tim Dunn]]"
+donors: "[[Susan B. Anthony Pro-Life America PAC]] · [[HBW Resources]] · [[Tim Dunn]] · [[Paul Singer]]"
 ---
 
 <!-- auto:data-panel start -->

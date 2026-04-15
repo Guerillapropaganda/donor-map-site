@@ -24,7 +24,7 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
-related: "[[_Donald Trump Master Profile]] · [[Kevin McCarthy]] · [[Freedom Caucus]] · [[Marjorie Taylor Greene]]"
+related: "[[_Donald Trump Master Profile]] · [[Kevin McCarthy]] · [[Freedom Caucus]] · [[Marjorie Taylor Greene]] · [[From QAnon to DOGE - The Mainstreaming Pipeline]]"
 last-enriched: "2026-04-11"
 internal-notes: "[MANUAL 2026-04-11] Bioguide recovered: G000578. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true , the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
 

@@ -21,7 +21,7 @@ subawards-issued: 50
 subawards-issued-amount: 51876611853
 subawards-received: 50
 subawards-received-amount: 51876611853
-related: "[[Chad Bianco Master Profile]] · [[Budget Priorities - What California Actually Funds]] · [[Gun and Public Safety - Donors and Backers]] · [[Bail Bond Industry]] · [[Aramark]] · [[CoreCivic]] · [[_Gavin Newsom Master Profile]] · [[CCPOA - The Prison Guard Donor and the Reform Ceiling]] · [[San Quentin - COVID Disaster and Rehabilitation Theater]] · [[Policing Reform - George Floyd Era]] · [[Criminal Justice - Donors and Backers]] · [[Uber]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Johnson & Johnson]] · [[Moderna]] · [[Novo Nordisk]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[Palantir Technologies]]"
+related: "[[Chad Bianco Master Profile]] · [[Budget Priorities - What California Actually Funds]] · [[Gun and Public Safety - Donors and Backers]] · [[Bail Bond Industry]] · [[Aramark]] · [[CoreCivic]] · [[_Gavin Newsom Master Profile]] · [[CCPOA - The Prison Guard Donor and the Reform Ceiling]] · [[San Quentin - COVID Disaster and Rehabilitation Theater]] · [[Policing Reform - George Floyd Era]] · [[Criminal Justice - Donors and Backers]] · [[Uber]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Johnson & Johnson]] · [[Moderna]] · [[Novo Nordisk]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[Palantir Technologies]] · [[Raytheon Technologies]]"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 cross-vault-triangulation-count: 13
@@ -298,7 +298,7 @@ The return on $2.9 million in Newsom contributions is $1.6 billion in contracts 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/941490964) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
-<!-- auto:nonprofit-990 pending-merge 2026-04-11 -->
+<!-- auto:nonprofit-990 pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

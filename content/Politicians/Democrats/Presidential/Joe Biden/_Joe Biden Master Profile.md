@@ -23,7 +23,7 @@ top-donors:
   - "Moderna"
 fec-candidate-id: "P60012143"
 opposes: "[[_Donald Trump Master Profile]]"
-related: "[[Cory Booker]] · [[_Barack Obama Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Gavin Newsom Master Profile]] · [[MBNA Corporation]] · [[Pfizer]] · [[Moderna]] · [[Johnson & Johnson]] · [[UnitedHealth Group - Optum]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Citigroup]] · [[Tim Geithner]] · [[Blue Shield of California]] · [[Kaiser Permanente]] · [[Joe Biden Donor Network - The Full Map]] · [[Joe Biden Executive Orders Timeline]] · [[IRA and Climate Donor Alignment]] · [[CHIPS Act and Silicon Valley]] · [[Student Loan Cancellation Theater]] · [[Afghanistan Withdrawal and the Military-Industrial Base]] · [[The Bankruptcy Bill and MBNA - The Credit Card Senator's Defining Vote]] · [[The Pharmaceutical Deal and the IRA - Ten Drugs Out of Twelve Thousand]] · [[The Defense Budget Pipeline - Record Peacetime Spending and Contractor Profits]] · [[The Student Loan Gambit - Promise Block and Political Credit]] · [[Insurance Industry Writes Its Own Regulation Through Both Parties]]"
+related: "[[Cory Booker]] · [[_Barack Obama Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Gavin Newsom Master Profile]] · [[MBNA Corporation]] · [[Pfizer]] · [[Moderna]] · [[Johnson & Johnson]] · [[UnitedHealth Group - Optum]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Citigroup]] · [[Tim Geithner]] · [[Blue Shield of California]] · [[Kaiser Permanente]] · [[Joe Biden Donor Network - The Full Map]] · [[Joe Biden Executive Orders Timeline]] · [[IRA and Climate Donor Alignment]] · [[CHIPS Act and Silicon Valley]] · [[Student Loan Cancellation Theater]] · [[Afghanistan Withdrawal and the Military-Industrial Base]] · [[The Bankruptcy Bill and MBNA - The Credit Card Senator's Defining Vote]] · [[The Pharmaceutical Deal and the IRA - Ten Drugs Out of Twelve Thousand]] · [[The Defense Budget Pipeline - Record Peacetime Spending and Contractor Profits]] · [[The Student Loan Gambit - Promise Block and Political Credit]] · [[Insurance Industry Writes Its Own Regulation Through Both Parties]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]]"
 last-enriched: "2026-04-08"
 needs-reenrichment: true
 reenrich-reason: "run voting pipeline; run congress pipeline"
@@ -34,7 +34,7 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
   • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
   • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-donors: "[[Lawrence Summers]]"
+donors: "[[Lawrence Summers]] · [[Sam Bankman-Fried]]"
 ---
 
 <!-- auto:data-panel start -->

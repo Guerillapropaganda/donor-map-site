@@ -2,7 +2,7 @@
 title: "Patrick Soon-Shiong"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -16,7 +16,7 @@ politicians-funded:
   - "John McCain"
 total-political-spend: "$735,621"
 last-enriched: "2026-04-09"
-related: "[[Media and Propaganda - Donors and Backers]] · [[Ron Johnson]] · [[John McCain]] · [[_Donald Trump Master Profile|Trump]] · [[_Kamala Harris Master Profile|Kamala Harris]] · [[Entertainment and Hollywood Donors]] · [[Media & Influence Pipeline]]"
+related: "[[Media and Propaganda - Donors and Backers]] · [[Ron Johnson]] · [[John McCain]] · [[_Donald Trump Master Profile|Trump]] · [[_Kamala Harris Master Profile|Kamala Harris]] · [[Entertainment and Hollywood Donors]] · [[Media & Influence Pipeline]] · [[Lindsey Graham]]"
 lobbying-spend: 0
 lobbying-filings: 1
 cross-vault-triangulation-count: 5

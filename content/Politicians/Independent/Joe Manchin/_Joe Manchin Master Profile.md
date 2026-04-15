@@ -23,8 +23,8 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
-related: "[[Koch Network - Charles Koch]] · [[Fossil Fuel Bloc]] · [[_Kyrsten Sinema Master Profile|Kyrsten Sinema]] · [[_Chuck Schumer Master Profile]] · [[Insurance Industry Writes Its Own Regulation Through Both Parties]]"
-donors: "[[Centene Corporation]]"
+related: "[[Koch Network - Charles Koch]] · [[Fossil Fuel Bloc]] · [[_Kyrsten Sinema Master Profile|Kyrsten Sinema]] · [[_Chuck Schumer Master Profile]] · [[Insurance Industry Writes Its Own Regulation Through Both Parties]] · [[Williams Companies]]"
+donors: "[[Centene Corporation]] · [[Insurance Industry]]"
 ---
 
 <!-- auto:data-panel start -->

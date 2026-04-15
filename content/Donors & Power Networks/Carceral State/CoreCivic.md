@@ -29,7 +29,7 @@ court-jurisdictions:
   - "District Court, M.D. Tennessee"
   - "District Court, N.D. Ohio"
   - "District Court, S.D. California"
-ein: 823851866
+ein: "823851866"
 annual-revenue: "$511K"
 net-assets: "$52K"
 tax-year: "2024"
@@ -40,7 +40,7 @@ subawards-received: 50
 subawards-received-amount: 51876611853
 top-federal-agency: "Department of Homeland Security"
 top-naics-code: "561612"
-related: "[[Uber]] · [[Private Prison Immigration Pipeline]] · [[Family Separation - Zero Tolerance and Who Profited]] · [[Criminal Justice and DOJ - Donors and Backers]] · [[Brian Kemp]] · [[Greg Abbott Master Profile]] · [[The Judiciary Committee and Criminal Justice Reform Limits]] · [[Bail Bond Industry]] · [[Aramark]] · [[CCPOA - California Correctional Peace Officers Association]] · [[_Gavin Newsom Master Profile]] · [[Private Detention - AB 32]] · [[GEO Group]] · [[Immigration - Donors and Backers]] · [[_Donald Trump Master Profile]] · [[_Chad Bianco Master Profile]] · [[Lyft]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Johnson & Johnson]] · [[Moderna]] · [[Novo Nordisk]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[Raytheon Technologies]]"
+related: "[[Uber]] · [[Private Prison Immigration Pipeline]] · [[Family Separation - Zero Tolerance and Who Profited]] · [[Criminal Justice and DOJ - Donors and Backers]] · [[Brian Kemp]] · [[Greg Abbott Master Profile]] · [[The Judiciary Committee and Criminal Justice Reform Limits]] · [[Bail Bond Industry]] · [[Aramark]] · [[CCPOA - California Correctional Peace Officers Association]] · [[_Gavin Newsom Master Profile]] · [[Private Detention - AB 32]] · [[GEO Group]] · [[Immigration - Donors and Backers]] · [[_Donald Trump Master Profile]] · [[_Chad Bianco Master Profile]] · [[Lyft]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Johnson & Johnson]] · [[Moderna]] · [[Novo Nordisk]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[Raytheon Technologies]] · [[Palantir Technologies]]"
 nonprofit-status: "501(c)(3)"
 total-revenue: 709089
 total-assets: 27969
@@ -439,7 +439,7 @@ SCOTUS. Al Otro Lado asylum arrival doctrine
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/823851866) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
-<!-- auto:nonprofit-990 pending-merge 2026-04-11 -->
+<!-- auto:nonprofit-990 pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -559,6 +559,29 @@ SCOTUS. Al Otro Lado asylum arrival doctrine
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22CoreCivic%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
+<!-- auto:sec-edgar pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 10-K, 10-Q, 11-K, 144, 4, 424B5, 8-K, ARS +10 more |
+| CIK | 1070985 |
+| Ticker | CXW |
+
+**Notable filings:**
+
+- 2026-04-10 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/1070985/000119312526151239/0001193125-26-151239-index.htm)
+- 2026-04-01 — **4**: [4](https://www.sec.gov/Archives/edgar/data/1070985/000119312526138138/0001193125-26-138138-index.htm)
+- 2026-03-31 — **144**: [144](https://www.sec.gov/Archives/edgar/data/1070985/000199652726000004/0001996527-26-000004-index.htm)
+- 2026-03-31 — **ARS**: [ARS](https://www.sec.gov/Archives/edgar/data/1070985/000114036126012102/0001140361-26-012102-index.htm)
+- 2026-03-31 — **DEFA14A**: [DEFA14A](https://www.sec.gov/Archives/edgar/data/1070985/000114036126012101/0001140361-26-012101-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22CoreCivic%22) (Tier 1)
+
+<!-- auto:sec-edgar pending-merge end -->
+
 ### Wikipedia
 <!-- auto:wikipedia start -->
 CoreCivic, Inc. is an American private prison operator and one of the largest for-profit prison, jail and detention contractors in the United States.
@@ -575,3 +598,23 @@ CoreCivic, Inc. is an American private prison operator and one of the largest fo
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/CoreCivic) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q1135278) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+
+<!-- auto:wikipedia pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+CoreCivic, Inc. is an American private prison operator and one of the largest for-profit prison, jail and detention contractors in the United States.
+
+| Fact | Value |
+|------|-------|
+| Wikidata ID | [Q1135278](https://www.wikidata.org/wiki/Q1135278) |
+| Description | US prison-operating company |
+| Founded | 1983-01-01 |
+| Website | [https://www.corecivic.com/](https://www.corecivic.com/) |
+| X/Twitter | [@corecivic](https://x.com/corecivic) |
+| Image | [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/EdenDetCenterEdenTX.JPG/330px-EdenDetCenterEdenTX.JPG) |
+
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/CoreCivic) (Tier 3)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q1135278) (Tier 2)
+
+<!-- auto:wikipedia pending-merge end -->

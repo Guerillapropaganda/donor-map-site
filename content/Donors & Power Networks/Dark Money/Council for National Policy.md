@@ -9,12 +9,12 @@ sector: "Dark Money"
 entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
-ein: 720921017
+ein: "720921017"
 annual-revenue: "$3.8M"
 net-assets: "$3.5M"
 tax-year: "2023"
 court-cases: 21
-last-enriched: "2026-04-13"
+last-enriched: "2026-04-15"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 court-jurisdictions:
@@ -30,7 +30,7 @@ court-jurisdictions:
 nonprofit-status: "501(c)(3)"
 total-revenue: 4179564
 total-assets: 3694941
-related: "[[DeVos Family]] · [[The SCOTUS Capture - From Bork to Barrett]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[Federalist Society]] · [[Leonard Leo]] · [[Americans for Tax Reform - Grover Norquist]] · [[American Federation for Children]] · [[National Education Association]] · [[Walton Family Foundation]] · [[US Chamber of Commerce]] · [[Insurance Industry]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[American Iron and Steel Institute]] · [[National Association of Manufacturers]]"
+related: "[[DeVos Family]] · [[The SCOTUS Capture - From Bork to Barrett]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[Federalist Society]] · [[Leonard Leo]] · [[Americans for Tax Reform - Grover Norquist]] · [[American Federation for Children]] · [[National Education Association]] · [[Walton Family Foundation]] · [[US Chamber of Commerce]] · [[Insurance Industry]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[American Iron and Steel Institute]] · [[National Association of Manufacturers]] · [[Healthcare Sector]]"
 fara-status: "registrant"
 fara-records: 4
 fara-countries:
@@ -175,6 +175,34 @@ Conservative judicial appointments (the Federalist Society pipeline feeds direct
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/720921017) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
+<!-- auto:nonprofit-990 pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| EIN | 720921017 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $4.2M |
+| Total Assets | $3.7M |
+| NTEE Code | W00F |
+| IRS Ruling Date | 1992-08-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/720921017/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/720921017/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/720921017/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/720921017/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/720921017/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/720921017) (Tier 1)
+
+<!-- auto:nonprofit-990 pending-merge end -->
+
 ### Foreign Agent Activity (FARA)
 <!-- auto:fara-foreign-agents start -->
 | Metric | Value |
@@ -207,6 +235,25 @@ The Council for National Policy (CNP) is an umbrella organization and networking
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Council_for_National_Policy) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q1137011) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+
+<!-- auto:wikipedia pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+The Council for National Policy (CNP) is an umbrella organization and networking group that advocates for conservative and Republican Party initiatives in the United States.
+
+| Fact | Value |
+|------|-------|
+| Wikidata ID | [Q1137011](https://www.wikidata.org/wiki/Q1137011) |
+| Description | nonprofit organization |
+| Founded | 1981-00-00 |
+| Website | [http://cfnp.org/](http://cfnp.org/) |
+| Image | [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/en/4/46/Council_for_National_Policy_%28logo%29.jpg) |
+
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Council_for_National_Policy) (Tier 3)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q1137011) (Tier 2)
+
+<!-- auto:wikipedia pending-merge end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-donor start -->
