@@ -1,29 +1,26 @@
 ---
-title: "Walmart - Walton Family"
+title: Walmart - Walton Family
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-09
+last-updated: 2026-04-09T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Mega-Donors"
-entity-type: "Corporation"
-politicians-funded:
-  - "John Boozman"
+sector: Mega-Donors
+entity-type: Corporation
+politicians-funded: "[[John Boozman]]"
 issues:
-  - "Labor & Workers"
-  - "Tax Policy"
+  - Labor & Workers
+  - Tax Policy
 ein: "472066714"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-09"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 total-revenue: 455437
 total-assets: 1873781
 related: "[[The National Security Hawk and Arkansas Defense]] · [[_John Boozman Master Profile|Boozman]] · [[US Chamber of Commerce]] · [[Walton Family Foundation]]"
 cross-vault-triangulation-count: 3
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

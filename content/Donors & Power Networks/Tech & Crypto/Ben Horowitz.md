@@ -1,18 +1,17 @@
 ---
-title: "Ben Horowitz"
+title: Ben Horowitz
 type: donor
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-10T00:00:00.000Z
 source-tier: null
 parent: null
-sector: "Tech & Crypto"
-entity-type: "Individual Donor"
+sector: Tech & Crypto
+entity-type: Individual Donor
 issues:
   - Cryptocurrency Regulation
   - AI Policy
   - Financial Deregulation
-politicians-funded:
-  - "Donald Trump"
+politicians-funded: "[[Donald Trump]]"
 related: "[[Marc Andreessen & Horowitz]] · [[Fairshake PAC]] · [[Leading the Future]] · [[_Donald Trump Master Profile]]"
 source-types: []
 known-gaps:
@@ -22,12 +21,12 @@ known-gaps:
 court-cases: 46
 last-enriched: "2026-04-10"
 court-jurisdictions:
-  - "District Court, D. Connecticut"
-  - "District Court, D. Delaware"
-  - "District Court, D. Minnesota"
-  - "District Court, E.D. California"
-  - "District Court, N.D. California"
-  - "District Court, S.D. New York"
+  - District Court, D. Connecticut
+  - District Court, D. Delaware
+  - District Court, D. Minnesota
+  - District Court, E.D. California
+  - District Court, N.D. California
+  - District Court, S.D. New York
 ---
 
 

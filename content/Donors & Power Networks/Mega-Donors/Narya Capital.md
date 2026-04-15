@@ -1,53 +1,49 @@
 ---
-title: "Narya Capital"
+title: Narya Capital
 type: donor
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Mega-Donors"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "JD Vance"
-  - "David Sacks"
+sector: Mega-Donors
+entity-type: Individual Donor
+politicians-funded: "[[JD Vance]], [[David Sacks]], [[David Sacks (Donor Network)]]"
 issues:
-  - "Technology"
-  - "Defense & Military"
+  - Technology
+  - Defense & Military
 sec-filings: 63
 sec-form-types:
-  - "10-K"
+  - 10-K
   - "144"
   - "4"
-  - "424B3"
+  - 424B3
   - "425"
-  - "8-K"
-  - "8-K/A"
-  - "D"
-  - "DEF 14A"
-  - "EX-10.1"
-  - "EX-10.3"
-  - "EX-10.5"
-  - "EX-2.1"
-  - "EX-3"
-  - "EX-4.2"
-  - "EX-4.3"
-  - "EX-99.1"
-  - "EX-99.3"
-  - "FWP"
-  - "POS AM"
-  - "PRE 14A"
-  - "S-1"
-  - "S-1/A"
-  - "S-4"
-  - "S-4/A"
+  - 8-K
+  - 8-K/A
+  - D
+  - DEF 14A
+  - EX-10.1
+  - EX-10.3
+  - EX-10.5
+  - EX-2.1
+  - EX-3
+  - EX-4.2
+  - EX-4.3
+  - EX-99.1
+  - EX-99.3
+  - FWP
+  - POS AM
+  - PRE 14A
+  - S-1
+  - S-1/A
+  - S-4
+  - S-4/A
 last-enriched: "2026-04-07"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 related: "[[Mithril Capital]] · [[Ajay Royan]] · [[_JD Vance Master Profile|JD Vance]] · [[Peter Thiel]] · [[Founders Fund]] · [[_David Sacks Master Profile|David Sacks]] · [[Marc Andreessen]] · [[Eric Schmidt]] · [[Marc Andreessen & Horowitz]]"
 cross-vault-triangulation-count: 8
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

@@ -1,24 +1,23 @@
 ---
-title: "Valinor Enterprises"
+title: Valinor Enterprises
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-09
+last-updated: 2026-04-09T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Tech & Crypto"
-entity-type: "Corporation"
-politicians-funded:
-  - "JD Vance"
+sector: Tech & Crypto
+entity-type: Corporation
+politicians-funded: "[[JD Vance]]"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-09"
 source-types:
   - USASpending
 known-gaps:
-  - "No SEC corporate filings"
-  - "No FEC contribution data"
-  - "No lobbying disclosure data"
-  - "No mapped relationships"
+  - No SEC corporate filings
+  - No FEC contribution data
+  - No lobbying disclosure data
+  - No mapped relationships
 related: "[[_JD Vance Master Profile]] · [[Narya Capital and the Venture Capital Pipeline]] · [[Peter Thiel]] · [[The Palantir State - Surveillance as Policy]] · [[Marc Andreessen & Horowitz]]"
 ---
 

@@ -1,25 +1,23 @@
 ---
-title: "Student Loan Servicer Industry"
+title: Student Loan Servicer Industry
 type: donor
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Education"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Virginia Foxx"
-  - "Bobby Scott"
+sector: Education
+entity-type: Individual Donor
+politicians-funded: "[[Bobby Scott]], [[Virginia Foxx]]"
 issues:
-  - "Education"
+  - Education
 related: "[[The Student Loan Gambit - Promise Block and Political Credit]] · [[Apollo Global Management]] · [[_Virginia Foxx Master Profile|Foxx]] · [[_Bobby Scott Master Profile|Scott]]"
 known-gaps:
-  - "No FEC contribution data"
-  - "No lobbying disclosure data"
+  - No FEC contribution data
+  - No lobbying disclosure data
 court-cases: 1
 last-enriched: "2026-04-10"
 court-jurisdictions:
-  - "District Court, District of Columbia"
+  - District Court, District of Columbia
 ---
 
 <!-- auto:data-panel start -->

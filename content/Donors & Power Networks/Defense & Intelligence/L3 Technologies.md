@@ -1,12 +1,12 @@
 ---
-title: "L3 Technologies"
+title: L3 Technologies
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Defense & Intelligence"
-entity-type: "Corporation"
+sector: Defense & Intelligence
+entity-type: Corporation
 federal-contracts: "442675"
 federal-awards-total: 367636564
 federal-contracts-count: 25
@@ -14,64 +14,63 @@ federal-grants-count: 0
 federal-register-mentions: 32
 last-enriched: "2026-04-11"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 regulatory-agencies:
-  - "Antitrust Division"
-  - "Defense Department"
-  - "Justice Department"
+  - Antitrust Division
+  - Defense Department
+  - Justice Department
 sec-filings: 10000
 sec-form-types:
-  - "10-K"
-  - "10-Q"
-  - "11-K"
-  - "15-12B"
+  - 10-K
+  - 10-Q
+  - 11-K
+  - 15-12B
   - "425"
-  - "8-K"
-  - "8-K12B"
-  - "EX-10.(X)(VI)"
-  - "EX-10.38"
-  - "EX-10.40"
-  - "EX-10.41"
-  - "EX-10.42"
-  - "EX-21"
-  - "EX-21.1"
-  - "EX-3.1"
-  - "EX-4.1"
-  - "EX-4.3"
-  - "EX-4.4"
-  - "EX-5"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "EX-99.5"
-  - "S-8"
-  - "S-8 POS"
+  - 8-K
+  - 8-K12B
+  - EX-10.(X)(VI)
+  - EX-10.38
+  - EX-10.40
+  - EX-10.41
+  - EX-10.42
+  - EX-21
+  - EX-21.1
+  - EX-3.1
+  - EX-4.1
+  - EX-4.3
+  - EX-4.4
+  - EX-5
+  - EX-99.1
+  - EX-99.2
+  - EX-99.5
+  - S-8
+  - S-8 POS
 subawards-issued: 50
 subawards-issued-amount: 1110991781
 subawards-received: 50
 subawards-received-amount: 1110991781
-top-federal-agency: "Department of Defense"
+top-federal-agency: Department of Defense
 top-naics-code: "334511"
 related: "[[John Ratcliffe Master Profile]] · [[The Defense Contractor Revolving Door and the Consulting Pipeline]] · [[Northrop Grumman]] · [[Markwayne Mullin]]"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 court-cases: 131
 court-jurisdictions:
-  - "District Court, C.D. California"
-  - "District Court, D. Arizona"
-  - "District Court, D. New Hampshire"
-  - "District Court, D. Utah"
-  - "District Court, M.D. Florida"
-  - "District Court, M.D. Pennsylvania"
-  - "District Court, S.D. California"
-  - "District Court, S.D. New York"
-  - "United States Bankruptcy Court, N.D. California"
-  - "United States Bankruptcy Court, S.D. Texas"
+  - District Court, C.D. California
+  - District Court, D. Arizona
+  - District Court, D. New Hampshire
+  - District Court, D. Utah
+  - District Court, M.D. Florida
+  - District Court, M.D. Pennsylvania
+  - District Court, S.D. California
+  - District Court, S.D. New York
+  - United States Bankruptcy Court, N.D. California
+  - United States Bankruptcy Court, S.D. Texas
 cross-vault-triangulation-count: 2
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ftc-enforcement-actions: 4
 ftc-hsr-notices: 1
+politicians-funded: "[[John Ratcliffe]]"
 ---
 
 

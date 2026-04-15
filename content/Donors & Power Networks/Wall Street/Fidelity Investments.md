@@ -1,48 +1,47 @@
 ---
-title: "Fidelity Investments"
+title: Fidelity Investments
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Wall Street"
-entity-type: "Corporation"
+sector: Wall Street
+entity-type: Corporation
 issues:
-  - "Technology"
+  - Technology
 federal-register-mentions: 182
 last-enriched: "2026-04-10"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 regulatory-agencies:
-  - "Employee Benefits Security Administration"
-  - "Labor Department"
-  - "Securities and Exchange Commission"
+  - Employee Benefits Security Administration
+  - Labor Department
+  - Securities and Exchange Commission
 ein: "110303001"
-annual-revenue: "$14.7B"
-net-assets: "$56.7B"
+annual-revenue: $14.7B
+net-assets: $56.7B
 tax-year: "2023"
 related: "[[Richard Neal Master Profile]]"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 total-revenue: 36802245050
 total-assets: 66787000627
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 court-cases: 5541
 court-jurisdictions:
-  - "District Court, D. Kansas"
-  - "District Court, D. New Jersey"
-  - "District Court, D. Utah"
-  - "District Court, E.D. Michigan"
-  - "District Court, E.D. New York"
-  - "District Court, E.D. Pennsylvania"
-  - "District Court, M.D. Florida"
-  - "District Court, N.D. Illinois"
-  - "District Court, N.D. New York"
-  - "District Court, N.D. Ohio"
+  - District Court, D. Kansas
+  - District Court, D. New Jersey
+  - District Court, D. Utah
+  - District Court, E.D. Michigan
+  - District Court, E.D. New York
+  - District Court, E.D. Pennsylvania
+  - District Court, M.D. Florida
+  - District Court, N.D. Illinois
+  - District Court, N.D. New York
+  - District Court, N.D. Ohio
 cross-vault-triangulation-count: 0
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+politicians-funded: "[[Richard Neal]]"
 ---
 
 

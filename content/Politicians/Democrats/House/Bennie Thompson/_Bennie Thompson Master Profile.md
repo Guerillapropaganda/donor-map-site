@@ -1,47 +1,34 @@
 ---
-title: "Bennie Thompson"
+title: Bennie Thompson
 type: politician
 content-readiness: ready
-central-thesis: "Bennie Thompson is the civil rights organizer who became the surveillance state's Democratic gatekeeper. His career arc , from SNCC activism to chairing the committee that oversees DHS, TSA, ICE, and CBP , is a map of how the Democratic Party abso..."
-last-updated: 2026-04-15
+central-thesis: Bennie Thompson is the civil rights organizer who became the surveillance state's Democratic gatekeeper. His career arc , from SNCC activism to chairing the committee that oversees DHS, TSA, ICE, and CBP , is a map of how the Democratic Party abso...
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "House"
-state: "Mississippi"
-state-abbr: "MS"
+party: Democrat
+chamber: House
+state: Mississippi
+state-abbr: MS
 district: "6"
 committees:
-  - "House Committee on Homeland Security"
+  - Homeland Security
 leadership-roles:
-  - "Ranking Member"
-total-received: "$608,726"
-fec-candidate-id: "H4MS02068"
-bioguide-id: "T000193"
+  - Ranking Member
+total-received: $608,726
+fec-candidate-id: H4MS02068
+bioguide-id: T000193
 govtrack-id: 400402
 bills-sponsored: 14
 bills-cosponsored: 355
-website: "https://benniethompson.house.gov"
-phone: "202-225-5876"
-donors: "[[IBEW - International Brotherhood of Electrical Workers]] · [[Blue Shield of California]] · [[American Gaming Association]] · [[California Farm Bureau Federation]] · [[National Cattlemen's Beef Association]] · [[CA Farm Bureau Federation]]"
+website: https://benniethompson.house.gov
+phone: 202-225-5876
+donors: "[[IBEW - International Brotherhood of Electrical Workers]] · [[Blue Shield of California]] · [[American Gaming Association]] · [[California Farm Bureau Federation]] · [[National Cattlemen's Beef Association]] · [[CA Farm Bureau Federation]] · [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]]"
 last-enriched: "2026-04-15"
 needs-reenrichment: true
-reenrich-reason: "run congress pipeline"
+reenrich-reason: run congress pipeline
 related: "[[_Donald Trump Master Profile|Trump]] · [[_Nancy Pelosi Master Profile|Pelosi]]"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-issues:
-  - "Agriculture and Food"
-  - "Armed Forces and National Security"
-  - "Arts, Culture, Religion"
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Congress"
-  - "Crime and Law Enforcement"
-  - "Emergency Management"
-  - "Energy"
-  - "Environmental Protection"
-  - "Finance and Financial Sector"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->
@@ -370,40 +357,29 @@ The January 6th investigation was Thompson's highest-profile moment and his clea
 
 <!-- auto:voting-record pending-merge end -->
 
-### Committee Assignments (Congress.gov)
-<!-- auto:committee-assignments start -->
-**Committees:**
-
-- House Committee on Homeland Security
-
-- [Source: Congress.gov](https://www.congress.gov/member/T000193) (Tier 1)
-<!-- auto:committee-assignments end -->
-
-### Legislative Activity (Congress.gov)
-<!-- auto:congress-legislation start -->
+### Campaign Finance Summary (FEC)
+<!-- auto:fec-summary start -->
 | Metric | Value |
 |--------|-------|
-| Scope | Career Total |
-| Party | Democrat |
-| State | MS |
-| Chamber | House |
-| Bills Sponsored | 255 |
-| Bills Cosponsored | 5514 |
+| Election Cycle | 2026 |
+| Total Raised | $608,726 |
+| Total Spent | $819,626 |
+| Cash on Hand | 1415264.19 |
+| Individual Contributions | $145,169 |
+| PAC Contributions | $452,744 |
+| Coverage Through | 2026-03-31 |
 
-**Policy areas:** Agriculture and Food, Armed Forces and National Security, Arts, Culture, Religion, Civil Rights and Liberties, Minority Issues, Congress, Crime and Law Enforcement, Emergency Management, Energy, Environmental Protection, Finance and Financial Sector, Government Operations and Politics, Health, Immigration, International Affairs, Public Lands and Natural Resources, Taxation
+**Fundraising history:**
 
-**Recent sponsored legislation:**
+| Cycle | Raised | Spent | Cash on Hand |
+|-------|--------|-------|-------------|
+| 2026 | $608,726 | $819,626 | 1415264.19 |
+| 2024 | $1,245,201 | $1,349,946 | 1626164.23 |
+| 2022 | $1,515,666 | $1,308,305 | 1730909.56 |
+| 2020 | $1,379,892 | $1,099,404 | 1523548.27 |
+| 2018 | $1,020,602 | $1,034,484 | 1243060.41 |
+| 2016 | $1,029,909 | $1,029,507 | 1256941.99 |
+| ... | 11 more cycles available | | |
 
-| Bill | Title | Status |
-|------|-------|--------|
-| 7382 | Nonprofit Security Grant Program Transparency Act | Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
-| 1035 | Condemning Federal workforce reductions that undermine preparedness, response, a… | Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
-| 7124 | Realigning Mobile Phone Biometrics for American Privacy Protection Act | Referred to the House Committee on Homeland Security. |
-| 6548 | DHS Suicide Prevention and Resiliency for Law Enforcement Act | Referred to the House Committee on Homeland Security. |
-| 698 | Recognizing the victims, survivors, and thousands of other Americans impacted by… | Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
-| 4971 | Terrorist Watchlist Data Accuracy and Transparency Act | Referred to the House Committee on Homeland Security. |
-| 4579 | FEMA Cybersecurity Improvement Act | Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management. |
-| 4467 | Vicksburg National Military Park Boundary Modification Act | Received in the Senate. |
-
-- [Source: Congress.gov](https://www.congress.gov/member/T000193) (Tier 1)
-<!-- auto:congress-legislation end -->
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4MS02068/) (Tier 1)
+<!-- auto:fec-summary end -->

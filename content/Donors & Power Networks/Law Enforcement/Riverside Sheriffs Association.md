@@ -1,41 +1,38 @@
 ---
-title: "Riverside Sheriffs Association"
+title: Riverside Sheriffs Association
 type: donor
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Law Enforcement"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Chad Bianco"
+sector: Law Enforcement
+entity-type: Individual Donor
+politicians-funded: "[[Chad Bianco]]"
 lobbying-spend: 1806000
 lobbying-filings: 73
 court-cases: 12
 last-enriched: "2026-04-09"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 court-jurisdictions:
-  - "District Court, C.D. California"
-  - "District Court, E.D. California"
-  - "District Court, N.D. California"
-  - "District Court, S.D. California"
-  - "United States Bankruptcy Court, D. Delaware"
+  - District Court, C.D. California
+  - District Court, E.D. California
+  - District Court, N.D. California
+  - District Court, S.D. California
+  - United States Bankruptcy Court, D. Delaware
 ein: "956203844"
-annual-revenue: "$4.8M"
-net-assets: "$5.8M"
+annual-revenue: $4.8M
+net-assets: $5.8M
 tax-year: "2023"
 related: "[[The Sheriff-to-Governor Pipeline and Law Enforcement Politics]] · [[Bail Bond Industry]] · [[_Chad Bianco Master Profile]] · [[RSA - The Single-Patron Sheriff]] · [[2022 Jail Death Crisis]] · [[CA DOJ Investigation - Pattern and Practice]] · [[Deputy Misconduct and the Whistleblower Firing]] · [[PORAC - Peace Officers Research Association of California]] · [[IBEW Local 477 - San Bernardino]] · [[IBEW Local 440 - Riverside]] · [[Securus Technologies - Aventiv]]"
 sec-filings: 23
 sec-form-types:
-  - "424B3"
-nonprofit-status: "501(c)(5)"
+  - 424B3
+nonprofit-status: 501(c)(5)
 total-revenue: 5926651
 total-assets: 5851488
 cross-vault-triangulation-count: 10
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

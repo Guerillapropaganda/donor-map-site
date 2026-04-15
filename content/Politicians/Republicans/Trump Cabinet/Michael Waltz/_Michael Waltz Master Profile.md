@@ -2,15 +2,15 @@
 title: Michael Waltz
 type: politician
 content-readiness: ready
-central-thesis: "Waltz is a military-industrial revolving door figure who built personal wealth through defense contracting (Metis Solutions, $92M sale), then used that wealth and military credentials to enter Congress, then leveraged political loyalty to Trump in..."
-last-updated: 2026-04-13
+central-thesis: Waltz is a military-industrial revolving door figure who built personal wealth through defense contracting (Metis Solutions, $92M sale), then used that wealth and military credentials to enter Congress, then leveraged political loyalty to Trump in...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Republican
 chamber: Cabinet
 issues:
   - Defense & Military
-total-received: '$3,109'
+total-received: $3,109
 fec-candidate-id: H8FL06148
 related: "[[Fanjul Family - Florida Crystals]] · [[Anduril Industries]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Donald Trump]]"
 govtrack-id: 412764
@@ -21,14 +21,11 @@ source-types:
   - FEC
   - GovTrack
 corroboration-count: 3
-donors: "[[WITH HONOR FUND, INC.]] · [[AMERICAN PATRIOTS PAC]] · [[SPECIAL OPERATIONS FOR AMERICA]]"
-opposes: '[[HOUSE MAJORITY PAC]] · [[AMERICAN JOBS AND GROWTH PAC]]'
+donors: "[[WITH HONOR FUND, INC.]] · [[AMERICAN PATRIOTS PAC]] · [[SPECIAL OPERATIONS FOR AMERICA]] · [[AMERICAN JOBS AND GROWTH PAC]] · [[HOUSE MAJORITY PAC]]"
+opposes: "[[HOUSE MAJORITY PAC]] · [[AMERICAN JOBS AND GROWTH PAC]]"
 needs-reenrichment: true
-reenrich-reason: "run congress pipeline; run pipelines"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-  • No last-enriched date is set. The pipelines have never touched this file.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: run congress pipeline; run pipelines
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

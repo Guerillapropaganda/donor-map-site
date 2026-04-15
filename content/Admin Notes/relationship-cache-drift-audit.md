@@ -13,16 +13,16 @@ CLAUDE.md Rule 10 says `data/relationships.jsonl` is canonical; frontmatter fiel
 
 ## Summary
 
-- **Canonical edges loaded:** 30214
+- **Canonical edges loaded:** 30008
 - **Profiles with guarded frontmatter fields:** 1415
 - **Fully aligned (no drift):** 6
 - **Drifted profiles:** 1409
-- **In frontmatter but NOT in canonical:** 14399
-- **In canonical but NOT in frontmatter cache:** 2348
+- **In frontmatter but NOT in canonical:** 14413
+- **In canonical but NOT in frontmatter cache:** 2344
 
 ## Finding: canonical store has coverage gaps (not drift)
 
-Stale-in-frontmatter (14399) is 6× larger than missing-from-cache (2348). This pattern means **the canonical store `data/relationships.jsonl` is sparser than the frontmatter caches** — not that the caches are drifting. Frontmatter was populated by years of prior pipeline runs and manual edits; the canonical store was populated more recently via migration and is still catching up.
+Stale-in-frontmatter (14413) is 6× larger than missing-from-cache (2344). This pattern means **the canonical store `data/relationships.jsonl` is sparser than the frontmatter caches** — not that the caches are drifting. Frontmatter was populated by years of prior pipeline runs and manual edits; the canonical store was populated more recently via migration and is still catching up.
 
 **Implications:**
 
@@ -41,26 +41,26 @@ Stale-in-frontmatter (14399) is 6× larger than missing-from-cache (2348). This 
 
 | Profile | Stale in frontmatter | Missing from cache |
 |---|---:|---:|
-| [Donald Trump](/content/Politicians/Republicans/Presidential/Donald Trump/_Donald Trump Master Profile.md) | 0 | 446 |
+| [Donald Trump](/content/Politicians/Republicans/Presidential/Donald Trump/_Donald Trump Master Profile.md) | 0 | 445 |
 | [Gavin Newsom](/content/Politicians/Democrats/Governors/Gavin Newsom/_Gavin Newsom Master Profile.md) | 0 | 170 |
 | [Fairshake PAC](/content/Donors & Power Networks/Tech & Crypto/Fairshake PAC.md) | 1 | 90 |
 | [SEIU - Service Employees International Union](/content/Donors & Power Networks/Labor Unions/SEIU - Service Employees International Union.md) | 0 | 86 |
 | [Elizabeth Warren](/content/Politicians/Democrats/Senate/Elizabeth Warren/_Elizabeth Warren Master Profile.md) | 0 | 69 |
-| [Federalist Society](/content/Think Tanks & Policy Infrastructure/Conservative/Federalist Society.md) | 0 | 64 |
-| [Peter Thiel](/content/Donors & Power Networks/Mega-Donors/Peter Thiel.md) | 6 | 56 |
-| [Heritage Foundation](/content/Think Tanks & Policy Infrastructure/Conservative/Heritage Foundation.md) | 0 | 62 |
-| [Ron DeSantis](/content/Politicians/Republicans/Governors/Ron DeSantis/_Ron DeSantis Master Profile.md) | 0 | 58 |
+| [Peter Thiel](/content/Donors & Power Networks/Mega-Donors/Peter Thiel.md) | 6 | 55 |
+| [Federalist Society](/content/Think Tanks & Policy Infrastructure/Conservative/Federalist Society.md) | 0 | 60 |
+| [Ron DeSantis](/content/Politicians/Republicans/Governors/Ron DeSantis/_Ron DeSantis Master Profile.md) | 1 | 58 |
+| [Heritage Foundation](/content/Think Tanks & Policy Infrastructure/Conservative/Heritage Foundation.md) | 0 | 58 |
 | ["Koch Network - Charles Koch"](/content/Donors & Power Networks/Mega-Donors/Koch Network - Charles Koch.md) | 55 | 0 |
 | [MAGA Inc](/content/Donors & Power Networks/Super PACs/MAGA Inc.md) | 0 | 55 |
 | ["Newsom 2028 - The Donor Class Presidential Campaign"](/content/Politicians/Democrats/Governors/Gavin Newsom/Newsom 2028 - The Donor Class Presidential Campaign.md) | 54 | 0 |
 | [Barack Obama](/content/Politicians/Democrats/Presidential/Barack Obama/_Barack Obama Master Profile.md) | 2 | 52 |
+| [US Chamber of Commerce](/content/Donors & Power Networks/Dark Money/US Chamber of Commerce.md) | 0 | 53 |
 | ["Fanjul Family - Florida Crystals"](/content/Donors & Power Networks/Agriculture/Fanjul Family - Florida Crystals.md) | 52 | 0 |
-| [American Enterprise Institute](/content/Think Tanks & Policy Infrastructure/Conservative/American Enterprise Institute.md) | 0 | 52 |
-| [US Chamber of Commerce](/content/Donors & Power Networks/Dark Money/US Chamber of Commerce.md) | 0 | 51 |
 | ["AIPAC - American Israel Public Affairs Committee"](/content/Donors & Power Networks/Israel Lobby/AIPAC - American Israel Public Affairs Committee.md) | 51 | 0 |
 | [United Democracy Project - UDP](/content/Donors & Power Networks/Super PACs/United Democracy Project - UDP.md) | 0 | 50 |
 | ["Koch Industries"](/content/Donors & Power Networks/Energy & Utilities/Koch Industries.md) | 49 | 0 |
 | [Ted Cruz](/content/Politicians/Republicans/Senate/Ted Cruz/_Ted Cruz Master Profile.md) | 0 | 48 |
+| [American Enterprise Institute](/content/Think Tanks & Policy Infrastructure/Conservative/American Enterprise Institute.md) | 0 | 48 |
 | ["Elon Musk"](/content/Donors & Power Networks/Mega-Donors/Elon Musk.md) | 47 | 0 |
 | ["Rumble"](/content/Media & Influence Pipeline/Right/Rumble.md) | 46 | 0 |
 | ["ExxonMobil"](/content/Donors & Power Networks/Energy & Utilities/ExxonMobil.md) | 45 | 0 |
@@ -69,6 +69,7 @@ Stale-in-frontmatter (14399) is 6× larger than missing-from-cache (2348). This 
 | ["Leonard Leo"](/content/Donors & Power Networks/Leonard Leo.md) | 44 | 0 |
 | ["Miriam Adelson"](/content/Donors & Power Networks/Mega-Donors/Miriam Adelson.md) | 44 | 0 |
 | ["Northrop Grumman"](/content/Donors & Power Networks/Defense & Intelligence/Northrop Grumman.md) | 43 | 0 |
+| [House Majority PAC](/content/Donors & Power Networks/Super PACs/House Majority PAC.md) | 0 | 43 |
 | ["Charlie Kirk"](/content/Media & Influence Pipeline/Right/Charlie Kirk.md) | 43 | 0 |
 | ["Dave Rubin"](/content/Media & Influence Pipeline/Right/Dave Rubin.md) | 43 | 0 |
 | ["Google - Alphabet"](/content/Donors & Power Networks/Tech & Crypto/Google - Alphabet.md) | 42 | 0 |
@@ -102,7 +103,6 @@ Stale-in-frontmatter (14399) is 6× larger than missing-from-cache (2348). This 
 | ["Ben Shapiro"](/content/Media & Influence Pipeline/Right/Ben Shapiro.md) | 39 | 0 |
 | ["Christopher Rufo"](/content/Media & Influence Pipeline/Right/Christopher Rufo.md) | 39 | 0 |
 | ["Jesse Watters"](/content/Media & Influence Pipeline/Right/Jesse Watters.md) | 39 | 0 |
-| [Center for American Progress](/content/Think Tanks & Policy Infrastructure/Liberal/Center for American Progress.md) | 0 | 39 |
 | ["Chevron"](/content/Donors & Power Networks/Energy & Utilities/Chevron.md) | 38 | 0 |
 | ["Koch network"](/content/Donors & Power Networks/Mega-Donors/Koch network.md) | 38 | 0 |
 | ["Senate Leadership Fund"](/content/Donors & Power Networks/Super PACs/Senate Leadership Fund.md) | 38 | 0 |
@@ -118,6 +118,7 @@ Stale-in-frontmatter (14399) is 6× larger than missing-from-cache (2348). This 
 | ["Rachel Maddow"](/content/Media & Influence Pipeline/Left/Rachel Maddow.md) | 37 | 0 |
 | ["Sean Hannity"](/content/Media & Influence Pipeline/Right/Sean Hannity.md) | 37 | 0 |
 | ["Steven Crowder"](/content/Media & Influence Pipeline/Right/Steven Crowder.md) | 37 | 0 |
+| [Thom Tillis](/content/Politicians/Republicans/Senate/Thom Tillis/_Thom Tillis Master Profile.md) | 3 | 34 |
 | ["Haim Saban"](/content/Donors & Power Networks/Israel Lobby/Haim Saban.md) | 36 | 0 |
 | ["Joe Scarborough"](/content/Media & Influence Pipeline/Centrist/Joe Scarborough.md) | 36 | 0 |
 | ["Nicolle Wallace"](/content/Media & Influence Pipeline/Centrist/Nicolle Wallace.md) | 36 | 0 |
@@ -125,22 +126,21 @@ Stale-in-frontmatter (14399) is 6× larger than missing-from-cache (2348). This 
 | ["Pod Save America"](/content/Media & Influence Pipeline/Left/Pod Save America.md) | 36 | 0 |
 | ["Patrick Bet-David"](/content/Media & Influence Pipeline/Right/Patrick Bet-David.md) | 36 | 0 |
 | ["American Petroleum Institute"](/content/Donors & Power Networks/Energy & Utilities/American Petroleum Institute.md) | 35 | 0 |
-| [Thom Tillis](/content/Politicians/Republicans/Senate/Thom Tillis/_Thom Tillis Master Profile.md) | 1 | 34 |
+| [Center for American Progress](/content/Think Tanks & Policy Infrastructure/Liberal/Center for American Progress.md) | 0 | 35 |
 | ["DonorsTrust"](/content/Donors & Power Networks/Super PACs/DonorsTrust.md) | 34 | 0 |
-| [House Majority PAC](/content/Donors & Power Networks/Super PACs/House Majority PAC.md) | 0 | 34 |
 | ["Jake Tapper"](/content/Media & Influence Pipeline/Centrist/Jake Tapper.md) | 34 | 0 |
 | ["The Free Press"](/content/Media & Influence Pipeline/Centrist/The Free Press.md) | 34 | 0 |
 | ["Cenk Uygur"](/content/Media & Influence Pipeline/Left/Cenk Uygur.md) | 34 | 0 |
 | ["Greg Gutfeld"](/content/Media & Influence Pipeline/Right/Greg Gutfeld.md) | 34 | 0 |
 | ["Mark Levin"](/content/Media & Influence Pipeline/Right/Mark Levin.md) | 34 | 0 |
 | ["Labor - Donors and Backers"](/content/Politicians/Republicans/Presidential/Donald Trump/Labor/Labor - Donors and Backers.md) | 34 | 0 |
+| [Josh Hawley](/content/Politicians/Republicans/Senate/Josh Hawley/_Josh Hawley Master Profile.md) | 2 | 32 |
 | ["Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts"](/content/Stories/Published/Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts.md) | 34 | 0 |
 | ["ActBlue"](/content/Donors & Power Networks/Dark Money/ActBlue.md) | 33 | 0 |
 | ["ConocoPhillips"](/content/Donors & Power Networks/Energy & Utilities/ConocoPhillips.md) | 33 | 0 |
 | ["Club for Growth"](/content/Donors & Power Networks/Super PACs/Club for Growth.md) | 33 | 0 |
 | ["Ana Kasparian"](/content/Media & Influence Pipeline/Centrist/Ana Kasparian.md) | 33 | 0 |
-| [Josh Hawley](/content/Politicians/Republicans/Senate/Josh Hawley/_Josh Hawley Master Profile.md) | 1 | 32 |
-| ["Bradley Foundation"](/content/Donors & Power Networks/Dark Money/Bradley Foundation.md) | 32 | 0 |
+| [John Fetterman](/content/Politicians/Democrats/Senate/John Fetterman/_John Fetterman Master Profile.md) | 4 | 29 |
 | … +1309 more drifted profiles | | |
 
 ---

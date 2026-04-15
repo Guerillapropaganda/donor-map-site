@@ -1,36 +1,35 @@
 ---
-title: "Everytown for Gun Safety"
+title: Everytown for Gun Safety
 type: donor
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Mega-Donors"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Hakeem Jeffries"
-total-political-spend: "$39,062,644"
+sector: Mega-Donors
+entity-type: Individual Donor
+politicians-funded: "[[Chris Murphy]], [[Hakeem Jeffries]]"
+total-political-spend: $39,062,644
 federal-register-mentions: 4
 last-enriched: "2026-04-09"
 regulatory-agencies:
-  - "Alcohol, Tobacco, Firearms, and Explosives Bureau"
-  - "Justice Department"
-  - "Personnel Management Office"
+  - Alcohol, Tobacco, Firearms, and Explosives Bureau
+  - Justice Department
+  - Personnel Management Office
 court-cases: 481
 court-jurisdictions:
-  - "Court of Appeals for the D.C. Circuit"
-  - "Court of Appeals for the Eighth Circuit"
-  - "Court of Appeals for the First Circuit"
-  - "Court of Appeals for the Ninth Circuit"
-  - "Court of Appeals for the Second Circuit"
-  - "District Court, D. Maryland"
-  - "District Court, District of Columbia"
-  - "District Court, E.D. Missouri"
-  - "District Court, E.D. North Carolina"
-  - "District Court, M.D. Florida"
+  - Court of Appeals for the D.C. Circuit
+  - Court of Appeals for the Eighth Circuit
+  - Court of Appeals for the First Circuit
+  - Court of Appeals for the Ninth Circuit
+  - Court of Appeals for the Second Circuit
+  - District Court, D. Maryland
+  - District Court, District of Columbia
+  - District Court, E.D. Missouri
+  - District Court, E.D. North Carolina
+  - District Court, M.D. Florida
 ein: 208802884
-annual-revenue: "$60.7M"
-net-assets: "$23.2M"
+annual-revenue: $60.7M
+net-assets: $23.2M
 tax-year: "2023"
 related: "[[Mark Kelly]] · [[Chris Murphy Master Profile]] · [[Gun and Public Safety - Donors and Backers]] · [[Michael Bloomberg]] · [[_Gavin Newsom Master Profile]] · [[_Kamala Harris Master Profile]] · [[Koch Network - Charles Koch]] · [[Adam Schiff]]"
 lobbying-spend: 5215000
@@ -38,7 +37,7 @@ lobbying-filings: 42
 cross-vault-triangulation-count: 8
 audit-a-plus-passed: "2026-04-11"
 aliases:
-  - "EVERYTOWN FOR GUN SAFETY ACTION FUND"
+  - EVERYTOWN FOR GUN SAFETY ACTION FUND
 ---
 
 <!-- auto:data-panel start -->

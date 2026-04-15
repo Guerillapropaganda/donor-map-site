@@ -1,53 +1,51 @@
 ---
-title: "Jan Koum"
+title: Jan Koum
 type: donor
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Mega-Donors"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Donald Trump"
-  - "Nikki Haley"
+sector: Mega-Donors
+entity-type: Individual Donor
+politicians-funded: "[[Donald Trump]], [[Nikki Haley]]"
 court-cases: 50
 last-enriched: "2026-04-10"
 court-jurisdictions:
-  - "District Court, D. Delaware"
-  - "District Court, N.D. California"
-  - "District Court, N.D. Georgia"
-  - "District Court, S.D. Florida"
-  - "District Court, S.D. New York"
-  - "District Court, W.D. Texas"
-total-political-spend: "$31,584,790"
+  - District Court, D. Delaware
+  - District Court, N.D. California
+  - District Court, N.D. Georgia
+  - District Court, S.D. Florida
+  - District Court, S.D. New York
+  - District Court, W.D. Texas
+total-political-spend: $31,584,790
 sec-filings: 2516
 sec-form-types:
-  - "10-K/A"
+  - 10-K/A
   - "3"
   - "4"
-  - "424B7"
+  - 424B7
   - "5"
-  - "8-K"
-  - "D"
-  - "DEF 14A"
-  - "DEFR14A"
-  - "EX-10.1"
-  - "EX-24.3_541198"
-  - "EX-4.9"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "N-PX"
-  - "PRE 14A"
-  - "S-3ASR"
-  - "S-8"
+  - 8-K
+  - D
+  - DEF 14A
+  - DEFR14A
+  - EX-10.1
+  - EX-24.3_541198
+  - EX-4.9
+  - EX-99.1
+  - EX-99.2
+  - N-PX
+  - PRE 14A
+  - S-3ASR
+  - S-8
 source-types:
   - Courts
   - FEC
   - SEC
 corroboration-count: 3
 known-gaps:
-  - "No lobbying disclosure data"
-  - "No mapped relationships"
+  - No lobbying disclosure data
+  - No mapped relationships
 related: "[[_Donald Trump Master Profile]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Haim Saban]] · [[Miriam Adelson]] · [[Republican Jewish Coalition]]"
 ---
 

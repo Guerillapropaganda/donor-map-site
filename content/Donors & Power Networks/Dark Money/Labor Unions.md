@@ -1,37 +1,38 @@
 ---
-title: "Labor Unions"
+title: Labor Unions
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-08T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Dark Money"
-entity-type: "Individual Donor"
+sector: Dark Money
+entity-type: Individual Donor
 issues:
-  - "Labor & Workers"
+  - Labor & Workers
 ein: 936032678
-annual-revenue: "$18.3M"
-net-assets: "$57.0M"
+annual-revenue: $18.3M
+net-assets: $57.0M
 tax-year: "2023"
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
-total-political-spend: "$500"
+total-political-spend: $500
 court-cases: 5044
 last-enriched: "2026-04-07"
 court-jurisdictions:
-  - "Court of Appeals for the D.C. Circuit"
-  - "Court of Appeals for the Ninth Circuit"
-  - "District Court, C.D. California"
-  - "District Court, D. Massachusetts"
-  - "District Court, D. Minnesota"
-  - "District Court, E.D. California"
-  - "District Court, E.D. Pennsylvania"
-  - "District Court, M.D. Florida"
-  - "District Court, N.D. California"
-  - "District Court, S.D. New York"
+  - Court of Appeals for the D.C. Circuit
+  - Court of Appeals for the Ninth Circuit
+  - District Court, C.D. California
+  - District Court, D. Massachusetts
+  - District Court, D. Minnesota
+  - District Court, E.D. California
+  - District Court, E.D. Pennsylvania
+  - District Court, M.D. Florida
+  - District Court, N.D. California
+  - District Court, S.D. New York
 related: "[[Dan Osborn Master Profile]] · [[Jeff Merkley Master Profile]] · [[Joseph Morelle Master Profile]] · [[Texas 2026 Senate Race]] · [[Minnesota 2026 Senate Race]] · [[SEIU - Service Employees International Union|SEIU]] · [[UAW - United Auto Workers|UAW]] · [[California Labor Federation]] · [[Teamsters - International Brotherhood of Teamsters|Teamsters]]"
 cross-vault-triangulation-count: 6
 audit-a-plus-passed: "2026-04-11"
+politicians-funded: "[[Dan Osborn]], [[Joseph Morelle]], [[Jeff Merkley]]"
 ---
 
 <!-- auto:data-panel start -->

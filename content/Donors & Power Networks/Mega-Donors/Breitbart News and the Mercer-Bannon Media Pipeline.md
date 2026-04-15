@@ -1,19 +1,17 @@
 ---
-title: "Breitbart News and the Mercer-Bannon Media Pipeline"
+title: Breitbart News and the Mercer-Bannon Media Pipeline
 type: donor
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-08T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Mega-Donors"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Donald Trump"
-  - "Steve Bannon"
+sector: Mega-Donors
+entity-type: Individual Donor
+politicians-funded: "[[Steve Bannon]], [[Donald Trump]]"
 related: "[[Steve Bannon Master Profile]] · [[The Mercer Investment and the Construction of Populist Infrastructure]] · [[Robert Mercer]] · [[Rebekah Mercer]] · [[_Donald Trump Master Profile]]"
 known-gaps:
-  - "No FEC contribution data"
-  - "No lobbying disclosure data"
+  - No FEC contribution data
+  - No lobbying disclosure data
 ---
 
 <!-- auto:data-panel start -->

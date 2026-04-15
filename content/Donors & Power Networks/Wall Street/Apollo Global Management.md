@@ -1,70 +1,67 @@
 ---
-title: "Apollo Global Management"
+title: Apollo Global Management
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Wall Street"
-entity-type: "Corporation"
-politicians-funded:
-  - "Virginia Foxx"
+sector: Wall Street
+entity-type: Corporation
+politicians-funded: "[[Mike Lee]], [[Virginia Foxx]]"
 issues:
-  - "Wall Street & Finance"
-  - "Healthcare"
+  - Wall Street & Finance
+  - Healthcare
 ofac-sdn-match: "true"
 last-enriched: "2026-04-15"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 ofac-programs:
-  - "IRAN-EO13846"
+  - IRAN-EO13846
 ein: "815163032"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 total-revenue: 1096673
 total-assets: 82650
 court-cases: 738
 court-jurisdictions:
-  - "Court of Appeals for the Eighth Circuit"
-  - "Court of Appeals for the First Circuit"
-  - "Court of Appeals for the Tenth Circuit"
-  - "Court of Appeals for the Third Circuit"
-  - "District Court, D. Colorado"
-  - "District Court, D. Massachusetts"
-  - "District Court, D. Nevada"
-  - "District Court, E.D. New York"
-  - "District Court, S.D. Florida"
-  - "District Court, S.D. New York"
+  - Court of Appeals for the Eighth Circuit
+  - Court of Appeals for the First Circuit
+  - Court of Appeals for the Tenth Circuit
+  - Court of Appeals for the Third Circuit
+  - District Court, D. Colorado
+  - District Court, D. Massachusetts
+  - District Court, D. Nevada
+  - District Court, E.D. New York
+  - District Court, S.D. Florida
+  - District Court, S.D. New York
 sec-filings: 10000
 sec-form-types:
-  - "10-K"
-  - "10-K/A"
-  - "15-12B"
-  - "305B2"
+  - 10-K
+  - 10-K/A
+  - 15-12B
+  - 305B2
   - "4"
-  - "424B2"
-  - "424B5"
-  - "8-K"
-  - "DEFA14A"
-  - "EX-99.(A)(17)"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "EX-99.3"
-  - "FWP"
-  - "LETTER"
-  - "PROXY VOTING RECORD"
-  - "S-8"
-  - "S-8 POS"
-  - "SCHEDULE 13G/A"
+  - 424B2
+  - 424B5
+  - 8-K
+  - DEFA14A
+  - EX-99.(A)(17)
+  - EX-99.1
+  - EX-99.2
+  - EX-99.3
+  - FWP
+  - LETTER
+  - PROXY VOTING RECORD
+  - S-8
+  - S-8 POS
+  - SCHEDULE 13G/A
 related: "[[Mike Lee]] · [[The Education Committee and For-Profit College Pipeline]] · [[Patrick McHenry Master Profile]] · [[Subject Matter (now Avoq)]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Fierce Government Relations]] · [[Cornerstone Government Affairs]] · [[Brownstein Hyatt Farber Schreck]] · [[Blackstone Group]] · [[Private Equity Industry Bloc]] · [[_Virginia Foxx Master Profile|Virginia Foxx]] · [[Goldman Sachs]] · [[The Carried Interest Loophole - 30 Years of Survival]] · [[CalPERS]] · [[Student Loan Servicer Industry]]"
 federal-register-mentions: 7
 regulatory-agencies:
-  - "Energy Department"
-  - "Federal Energy Regulatory Commission"
-  - "Securities and Exchange Commission"
+  - Energy Department
+  - Federal Energy Regulatory Commission
+  - Securities and Exchange Commission
 cross-vault-triangulation-count: 13
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

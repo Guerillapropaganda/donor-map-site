@@ -1,46 +1,45 @@
 ---
-title: "Tim Geithner"
+title: Tim Geithner
 type: donor
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Mega-Donors"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Joe Biden"
+sector: Mega-Donors
+entity-type: Individual Donor
+politicians-funded: "[[Joe Biden]]"
 issues:
-  - "Wall Street & Finance"
+  - Wall Street & Finance
 sec-filings: 29
 sec-form-types:
-  - "10-12G"
-  - "10-12G/A"
-  - "10-K"
+  - 10-12G
+  - 10-12G/A
+  - 10-K
   - "425"
-  - "8-K"
-  - "DEFA14A"
-  - "EX-99.(16)(17)(D)(I)"
-  - "EX-99.1"
-  - "EX-99.17.G"
-  - "FWP"
-  - "N-CSR"
-  - "N-CSR/A"
-  - "N-CSRS"
-total-political-spend: "$469,350"
+  - 8-K
+  - DEFA14A
+  - EX-99.(16)(17)(D)(I)
+  - EX-99.1
+  - EX-99.17.G
+  - FWP
+  - N-CSR
+  - N-CSR/A
+  - N-CSRS
+total-political-spend: $469,350
 related: "[[Joe Biden Master Profile]] · [[The Bank Bailout and the Prosecution That Never Came]] · [[Tim Geithner Political Operation]] · [[Goldman Sachs]] · [[_Barack Obama Master Profile|Obama]] · [[Carlyle Group]] · [[JPMorgan Chase]] · [[Citigroup]] · [[Goldman Sachs , The Government Sachs Alumni Network]]"
 court-cases: 46
 last-enriched: "2026-04-08"
 court-jurisdictions:
-  - "Court of Appeals for the Fourth Circuit"
-  - "District Court, C.D. California"
-  - "District Court, D. Colorado"
-  - "District Court, D. Massachusetts"
-  - "District Court, D. New Mexico"
-  - "District Court, District of Columbia"
-  - "District Court, E.D. Michigan"
-  - "District Court, E.D. Pennsylvania"
-  - "District Court, N.D. California"
-  - "District Court, S.D. California"
+  - Court of Appeals for the Fourth Circuit
+  - District Court, C.D. California
+  - District Court, D. Colorado
+  - District Court, D. Massachusetts
+  - District Court, D. New Mexico
+  - District Court, District of Columbia
+  - District Court, E.D. Michigan
+  - District Court, E.D. Pennsylvania
+  - District Court, N.D. California
+  - District Court, S.D. California
 cross-vault-triangulation-count: 8
 audit-a-plus-passed: "2026-04-11"
 ---

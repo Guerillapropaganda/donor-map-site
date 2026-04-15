@@ -1,58 +1,56 @@
 ---
-title: "Adam Smith"
+title: Adam Smith
 type: politician
 content-readiness: ready
-central-thesis: "Adam Smith is the Democratic face of the military-industrial complex. His district contains Boeing's Renton operations, Washington State hosts six active-duty military installations, and his top three career donors — Boeing, Northrop Grumman, and ..."
-last-updated: 2026-04-15
+central-thesis: Adam Smith is the Democratic face of the military-industrial complex. His district contains Boeing's Renton operations, Washington State hosts six active-duty military installations, and his top three career donors — Boeing, Northrop Grumman, and ...
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "House"
-state: "Washington"
-state-abbr: "WA"
+party: Democrat
+chamber: House
+state: Washington
+state-abbr: WA
 district: "9"
 committees:
-  - "House Committee on Armed Services"
+  - House Committee on Armed Services
 leadership-roles:
-  - "Ranking Member"
+  - Ranking Member
 issues:
-  - "Agriculture and Food"
-  - "Armed Forces and National Security"
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Commerce"
-  - "Crime and Law Enforcement"
-  - "Education"
-  - "Energy"
-  - "Environmental Protection"
-  - "Health"
-  - "Housing and Community Development"
+  - Agriculture and Food
+  - Armed Forces and National Security
+  - Civil Rights and Liberties, Minority Issues
+  - Crime and Law Enforcement
+  - Economics and Public Finance
+  - Education
+  - Energy
+  - Environmental Protection
+  - Foreign Trade and International Finance
+  - Health
 top-donors:
-  - "Boeing"
-  - "Northrop Grumman"
-  - "Raytheon"
-  - "Lockheed Martin"
-fec-candidate-id: "H6WA09025"
+  - Boeing
+  - Northrop Grumman
+  - Raytheon
+  - Lockheed Martin
+fec-candidate-id: H6WA09025
 related: "[[Tom Cole]] · [[_Rosa DeLauro Master Profile|Rosa DeLauro]] · [[Boeing]] · [[Northrop Grumman]] · [[Raytheon (RTX)|Raytheon]] · [[Lockheed Martin]]"
-donors: "[[American Gaming Association]] · [[Raytheon (RTX Corporation)]] · [[National Association of Manufacturers]] · [[Tech Industry]] · [[National Restaurant Association]] · [[ActBlue]]"
+donors: "[[American Gaming Association]] · [[Raytheon (RTX Corporation)]] · [[National Association of Manufacturers]] · [[Tech Industry]] · [[National Restaurant Association]] · [[ActBlue]] · [[SUSAN B ANTHONY LIST INC]] · [[Lockheed Martin]] · [[Boeing]] · [[Northrop Grumman]]"
 last-enriched: "2026-04-15"
 needs-reenrichment: true
-reenrich-reason: "run congress pipeline"
+reenrich-reason: run congress pipeline
 govtrack-id: 400379
 bills-sponsored: 199
 bills-cosponsored: 4972
-website: "https://adamsmith.house.gov"
-phone: "202-225-8901"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
-
-[CODE @ 2026-04-10] Pipeline: fec completed for Adam Smith. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24267974287"
-bioguide-id: "S000510"
-total-raised: "$786,535"
-total-spent: "$659,320"
+website: https://adamsmith.house.gov
+phone: 202-225-8901
+internal-notes: |-
+  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+  [CODE @ 2026-04-10] Pipeline: fec completed for Adam Smith. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24267974287
+bioguide-id: S000510
+total-raised: $786,535
+total-spent: $659,320
 cash-on-hand: "697967.61"
 fec-cycle: 2026
-total-received: "$786,535"
+total-received: $786,535
 ---
 
 <!-- auto:data-panel start -->
@@ -415,6 +413,36 @@ Smith publicly supports campaign finance reform, states "corporations are not pe
 
 - {{src:src_006409}} (Tier 1)
 <!-- auto:fec-summary end -->
+
+<!-- auto:fec-summary pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $786,535 |
+| Total Spent | $659,320 |
+| Cash on Hand | 697967.61 |
+| Individual Contributions | $412,258 |
+| PAC Contributions | $326,250 |
+| Coverage Through | 2025-12-31 |
+
+**Fundraising history:**
+
+| Cycle | Raised | Spent | Cash on Hand |
+|-------|--------|-------|-------------|
+| 2026 | $786,535 | $659,320 | 697967.61 |
+| 2024 | $1,677,916 | $1,701,114 | 570752.82 |
+| 2022 | $1,386,776 | $1,378,653 | 593950.77 |
+| 2020 | $1,327,196 | $933,145 | 585827.81 |
+| 2018 | $1,415,994 | $1,623,913 | 191776.67 |
+| 2016 | $925,645 | $1,105,447 | 399695.38 |
+| ... | 10 more cycles available | | |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6WA09025/) (Tier 1)
+
+<!-- auto:fec-summary pending-merge end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->

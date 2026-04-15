@@ -1,30 +1,28 @@
 ---
-title: "California Labor Federation"
+title: California Labor Federation
 type: donor
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Labor Unions"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Gavin Newsom"
-  - "Kamala Harris"
+sector: Labor Unions
+entity-type: Individual Donor
+politicians-funded: "[[Nancy Pelosi]], [[Kamala Harris]], [[Gavin Newsom]]"
 issues:
-  - "Labor & Workers"
+  - Labor & Workers
 ein: 940362030
-annual-revenue: "$10.3M"
-net-assets: "$19.5M"
+annual-revenue: $10.3M
+net-assets: $19.5M
 tax-year: "2023"
-total-political-spend: "$1,740,356"
+total-political-spend: $1,740,356
 federal-register-mentions: 3
 last-enriched: "2026-04-09"
 regulatory-agencies:
-  - "Federal Motor Carrier Safety Administration"
-  - "Federal Railroad Administration"
-  - "Labor Department"
-  - "Occupational Safety and Health Administration"
-  - "Transportation Department"
+  - Federal Motor Carrier Safety Administration
+  - Federal Railroad Administration
+  - Labor Department
+  - Occupational Safety and Health Administration
+  - Transportation Department
 related: "[[VP Labor Record - What Unions Got and Didn't Get]] · [[Nancy Pelosi Master Profile]] · [[Labor - Donors and Backers]] · [[IBEW California State Association]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[SEIU - Service Employees International Union]] · [[California Building and Construction Trades Council]] · [[CNA - California Nurses Association]] · [[Teamsters - International Brotherhood of Teamsters]] · [[UFCW - United Food and Commercial Workers]] · [[UNITE HERE]] · [[AFSCME - American Federation of State County and Municipal Employees]] · [[_Gavin Newsom Master Profile]] · [[_Kamala Harris Master Profile]] · [[Ash Kalra]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Koch Network - Charles Koch]] · [[Labor Unions]]"
 cross-vault-triangulation-count: 17
 audit-a-plus-passed: "2026-04-11"

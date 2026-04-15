@@ -2,20 +2,20 @@
 title: Mark Green
 type: politician
 content-readiness: draft
-central-thesis: "Mark Green is the national security performace artist — the special operator who turned military credentials into political power, then used Homeland Security chairmanship primarily for partisan spectacle rather than structural oversight. His most..."
-last-updated: 2026-04-10
+central-thesis: Mark Green is the national security performace artist — the special operator who turned military credentials into political power, then used Homeland Security chairmanship primarily for partisan spectacle rather than structural oversight. His most...
+last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Republican
 chamber: House
 state: Tennessee
 state-abbr: TN
-district: '7'
+district: "7"
 committees:
   - Homeland Security
 issues:
   - Healthcare
-total-received: '$2,049,040'
+total-received: $2,049,040
 fec-candidate-id: H8TN07076
 govtrack-id: 400159
 bills-sponsored: 0
@@ -27,9 +27,9 @@ source-types:
 corroboration-count: 3
 known-gaps:
   - No mapped relationships
-opposes: '[[HOUSE MAJORITY PAC]] · [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]]'
+opposes: "[[HOUSE MAJORITY PAC]] · [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]]"
 related: "[[_Donald Trump Master Profile|Trump]] · [[_Bennie Thompson Master Profile|Thompson]]"
-donors: "[[Fraternal Order of Police]]"
+donors: "[[Fraternal Order of Police]], [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]], [[National Right to Life Victory Fund]], [[HOUSE MAJORITY PAC]], [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]]"
 ---
 
 <!-- auto:data-panel start -->

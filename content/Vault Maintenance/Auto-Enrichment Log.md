@@ -152,95 +152,67 @@ Bot-written. Research Claude reads this to see what fresh API data landed in the
 
 
 
-## 2026-04-15 17:08 UTC — 10 profiles
+## 2026-04-15 17:02 UTC — 2 profiles
 
-**usaspending-subawards — 10 profiles:**
-- Cargill — 1 issued, 1 received, 3 agencies ⚠️ CONFLICT
-- John Deere — 50 issued, 50 received, 8 agencies ⚠️ CONFLICT
-- Tyson Foods — 0 issued, 0 received, 1 agencies ⚠️ CONFLICT
-- CoreCivic — 0 issued, 0 received, 2 agencies ⚠️ CONFLICT
-- Boeing — 50 issued, 50 received, 8 agencies ⚠️ CONFLICT
-- General Dynamics — 50 issued, 50 received, 8 agencies ⚠️ CONFLICT
-- L3 Technologies — 50 issued, 50 received, 7 agencies ⚠️ CONFLICT
-- L3Harris Technologies — 50 issued, 50 received, 8 agencies ⚠️ CONFLICT
-- Lockheed Martin — 50 issued, 50 received, 7 agencies ⚠️ CONFLICT
-- Northrop Grumman — 50 issued, 50 received, 8 agencies ⚠️ CONFLICT
+**fda-enforcement — 2 profiles:**
+- Cargill — 42 FDA recalls (10 Class I) ⚠️ CONFLICT
+- Tyson Foods — 7 FDA recalls (1 Class I) ⚠️ CONFLICT
 
-**Conflicts detected: 10** (see `pending-merge` blocks in the listed profiles)
+**Conflicts detected: 2** (see `pending-merge` blocks in the listed profiles)
 
 ---
-## 2026-04-15 17:03 UTC — 5 profiles
+## 2026-04-15 16:57 UTC — 3 profiles
 
-**USAspending — 5 profiles:**
-- Cargill — 25 contracts, 10 grants ⚠️ CONFLICT
-- John Deere — 25 contracts, 0 grants ⚠️ CONFLICT
-- Tyson Foods — 25 contracts, 0 grants ⚠️ CONFLICT
-- CoreCivic — 25 contracts, 0 grants ⚠️ CONFLICT
-- Boeing — 25 contracts, 23 grants ⚠️ CONFLICT
-
-**Conflicts detected: 5** (see `pending-merge` blocks in the listed profiles)
-
----
-## 2026-04-15 17:02 UTC — 3 profiles
-
-**GovTrack — 3 profiles:**
-- Alexandria Ocasio-Cortez — 59 sponsored, 1609 cosponsored ⚠️ CONFLICT
-- Ayanna Pressley — 136 sponsored, 1817 cosponsored ⚠️ CONFLICT
-- Barbara Lee — 604 sponsored, 10572 cosponsored ⚠️ CONFLICT
+**occ-enforcement — 3 profiles:**
+- Bank of America — 115 OCC actions (95 active, $491,299,530 CMPs) ⚠️ CONFLICT
+- Carlyle Group — 2 OCC actions (1 active, $3,000 CMPs) ⚠️ CONFLICT
+- MBNA Corporation — 4 OCC actions (4 active, $0 CMPs) ⚠️ CONFLICT
 
 **Conflicts detected: 3** (see `pending-merge` blocks in the listed profiles)
 
 ---
-## 2026-04-15 16:53 UTC — 20 profiles
+## 2026-04-15 16:56 UTC — 2 profiles
 
-**Congress.gov — 20 profiles:**
-- Sherrod Brown — 14 policy areas, bioguide B001313
-- Adam Smith — 15 policy areas, bioguide S000510
-- Alexandria Ocasio-Cortez — 17 policy areas, bioguide O000172
-- Ayanna Pressley — 16 policy areas, bioguide P000617
-- Barbara Lee — 15 policy areas, bioguide L000551
-- Bennie Thompson — 16 policy areas, bioguide T000193
-- Bobby Scott — 12 policy areas, bioguide S000185
-- Brendan Boyle — 13 policy areas, bioguide B001296
-- Cori Bush — 16 policy areas, bioguide B001224
-- Debbie Wasserman Schultz — 17 policy areas, bioguide W000797
-- Frank Pallone — 21 policy areas, bioguide P000034
-- Gerry Connolly — 15 policy areas, bioguide C001078
-- Hakeem Jeffries — 13 policy areas, bioguide J000294
-- Ilhan Omar — 13 policy areas, bioguide O000173
-- Jamaal Bowman — 19 policy areas, bioguide B001223
-- Jamie Raskin — 19 policy areas, bioguide R000606
-- Jim Himes — 13 policy areas, bioguide H001047
-- Jim McGovern — 15 policy areas, bioguide M000312
-- Joseph Morelle — 14 policy areas, bioguide M001206
-- Mark Takano — 14 policy areas, bioguide T000472
+**ftc-enforcement — 2 profiles:**
+- Cargill — 0 enforcement actions + 30 HSR notices ⚠️ CONFLICT
+- Boeing — 3 enforcement actions + 16 HSR notices ⚠️ CONFLICT
+
+**Conflicts detected: 2** (see `pending-merge` blocks in the listed profiles)
 
 ---
-## 2026-04-15 16:53 UTC — 20 profiles
+## 2026-04-15 16:55 UTC — 14 profiles
 
-**committee — 20 profiles:**
-- Sherrod Brown — 0 committees, 0 subcommittees ⚠️ CONFLICT
-- Adam Smith — 1 committees, 0 subcommittees ⚠️ CONFLICT
-- Alexandria Ocasio-Cortez — 1 committees, 3 subcommittees ⚠️ CONFLICT
-- Ayanna Pressley — 2 committees, 3 subcommittees ⚠️ CONFLICT
-- Barbara Lee — 0 committees, 0 subcommittees ⚠️ CONFLICT
-- Bennie Thompson — 1 committees, 0 subcommittees
-- Bobby Scott — 0 committees, 0 subcommittees
-- Brendan Boyle — 2 committees, 2 subcommittees
-- Cori Bush — 0 committees, 0 subcommittees ⚠️ CONFLICT
-- Debbie Wasserman Schultz — 0 committees, 0 subcommittees
-- Frank Pallone — 1 committees, 0 subcommittees ⚠️ CONFLICT
-- Gerry Connolly — 0 committees, 0 subcommittees
-- Hakeem Jeffries — 0 committees, 0 subcommittees ⚠️ CONFLICT
-- Ilhan Omar — 2 committees, 2 subcommittees ⚠️ CONFLICT
-- Jamaal Bowman — 0 committees, 0 subcommittees ⚠️ CONFLICT
-- Jamie Raskin — 1 committees, 0 subcommittees ⚠️ CONFLICT
-- Jim Himes — 2 committees, 0 subcommittees
-- Jim McGovern — 2 committees, 2 subcommittees
-- Joseph Morelle — 4 committees, 3 subcommittees ⚠️ CONFLICT
-- Mark Takano — 2 committees, 3 subcommittees
+**fec-summary — 14 profiles:**
+- Sherrod Brown — 2026 raised $14,356,451, spent $4,456,809, COH 9899641.92 ⚠️ CONFLICT
+- Tim Walz — 2018 raised $113,151, spent $155,222, COH 0.00 ⚠️ CONFLICT
+- Adam Smith — 2026 raised $786,535, spent $659,320, COH 697967.61 ⚠️ CONFLICT
+- Alexandria Ocasio-Cortez — 2026 raised $23,658,045, spent $13,983,781, COH 13408910.09 ⚠️ CONFLICT
+- Ayanna Pressley — 2026 raised $687,535, spent $706,959, COH 98796.68 ⚠️ CONFLICT
+- Barbara Lee — 2024 raised $375,046, spent $427,255, COH 144.39 ⚠️ CONFLICT
+- Bennie Thompson — 2026 raised $608,726, spent $819,626, COH 1415264.19
+- Bobby Scott — 2026 raised $290,963, spent $358,184, COH 95642.17 ⚠️ CONFLICT
+- Brendan Boyle — 2026 raised $1,522,158, spent $548,110, COH 4812331.40
+- Cori Bush — 2026 raised $534,492, spent $352,962, COH 203864.16 ⚠️ CONFLICT
+- Debbie Wasserman Schultz — 2026 raised $1,785,365, spent $875,347, COH 1967326.77
+- Frank Pallone — 2026 raised $1,311,209, spent $1,257,401, COH 3125718.74 ⚠️ CONFLICT
+- Hakeem Jeffries — 2026 raised $10,327,241, spent $9,417,063, COH 5864742.02 ⚠️ CONFLICT
+- Ilhan Omar — 2026 raised $3,125,783, spent $2,329,199, COH 1120804.52 ⚠️ CONFLICT
 
-**Conflicts detected: 12** (see `pending-merge` blocks in the listed profiles)
+**Conflicts detected: 11** (see `pending-merge` blocks in the listed profiles)
+
+---
+## 2026-04-15 16:54 UTC — 9 profiles
+
+**FEC — 9 profiles:**
+- Sherrod Brown — 2026 raised $14,356,451
+- Tim Walz — 2018 raised $113,151
+- Adam Smith — 2026 raised $786,535
+- Alexandria Ocasio-Cortez — 2026 raised $23,658,045
+- Ayanna Pressley — 2026 raised $687,535
+- Barbara Lee — 2024 raised $375,046
+- Bennie Thompson — 2026 raised $608,726
+- Bobby Scott — 2026 raised $290,963
+- California Farm Bureau Federation — total political spend $892,442
 
 ---
 ## 2026-04-15 16:37 UTC — 25 profiles

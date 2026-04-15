@@ -3,7 +3,7 @@ title: Markwayne Mullin
 type: politician
 content-readiness: ready
 central-thesis: "Mullin is the energy industry's blue-collar brand , a senator whose working-class narrative provides populist cover for fossil fuel donor priorities. His structural function: replace Jim Inhofe (the Senate's most famous climate denier) with a youn..."
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Republican
@@ -12,19 +12,16 @@ state: Oklahoma
 state-abbr: OK
 committees:
   - Armed Services
-total-received: '$4,666,234'
+total-received: $4,666,234
 fec-candidate-id: S2OK00186
-donors: "[[Devon Energy]] · [[DEFEND US PAC]] · [[CRYPTO INNOVATION]] · [[Fraternal Order of Police]]"
+donors: "[[Devon Energy]] · [[DEFEND US PAC]] · [[CRYPTO INNOVATION]] · [[Fraternal Order of Police]] · [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]]"
 related: "[[Kristi Noem]] · [[_Jim Inhofe Master Profile|Jim Inhofe]] · [[Fossil Fuel Bloc]] · [[Koch Network - Charles Koch|Koch Network]] · [[_Donald Trump Master Profile|Trump]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Lockheed Martin]] · [[L3 Technologies]]"
 govtrack-id: 412568
 bills-sponsored: 23
 bills-cosponsored: 157
 needs-reenrichment: true
-reenrich-reason: "run congress pipeline; run pipelines"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-  • No last-enriched date is set. The pipelines have never touched this file.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: run congress pipeline; run pipelines
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

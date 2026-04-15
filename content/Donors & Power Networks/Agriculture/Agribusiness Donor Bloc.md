@@ -1,24 +1,23 @@
 ---
-title: "Agribusiness Donor Bloc"
+title: Agribusiness Donor Bloc
 type: donor
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Agriculture"
-entity-type: "Individual Donor"
+sector: Agriculture
+entity-type: Individual Donor
 issues:
-  - "Agriculture"
+  - Agriculture
 related: "[[Joni Ernst Master Profile]] · [[The Agribusiness Senator and the Family Farm Myth]] · [[Ernst Campaign Finance Research - Verified Dates and Amounts]] · [[The Veterans Affairs and Iowa Agriculture]] · [[ADM - Archer Daniels Midland]] · [[Cargill]] · [[Monsanto - Bayer]] · [[Tyson Foods]] · [[John Deere]] · [[American Farm Bureau Federation]] · [[Ethanol Industry]] · [[Meatpacking Corporations]]"
 last-enriched: "2026-04-08"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 cross-vault-triangulation-count: 9
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 lobbying-spend: 480000
 lobbying-filings: 17
+politicians-funded: "[[Joni Ernst]]"
 ---
 
 <!-- auto:data-panel start -->

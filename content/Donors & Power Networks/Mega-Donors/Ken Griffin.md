@@ -1,61 +1,57 @@
 ---
-title: "Ken Griffin"
+title: Ken Griffin
 type: donor
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Mega-Donors"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Kamala Harris"
-  - "Donald Trump"
-  - "Mark Kelly"
-  - "Sherrod Brown"
-total-political-spend: "$33,008,253"
+sector: Mega-Donors
+entity-type: Individual Donor
+politicians-funded: "[[Donald Trump]], [[Mark Kelly]], [[Kamala Harris]], [[Sherrod Brown]]"
+total-political-spend: $33,008,253
 court-cases: 100
 last-enriched: "2026-04-07"
 court-jurisdictions:
-  - "Court of Appeals for the Eleventh Circuit"
-  - "District Court, D. Delaware"
-  - "District Court, D. Maryland"
-  - "District Court, D. Massachusetts"
-  - "District Court, N.D. Mississippi"
-  - "District Court, S.D. Florida"
-  - "District Court, S.D. New York"
-  - "United States Bankruptcy Court, C.D. California"
-  - "United States Bankruptcy Court, N.D. Alabama"
-  - "United States Bankruptcy Court, N.D. Texas"
+  - Court of Appeals for the Eleventh Circuit
+  - District Court, D. Delaware
+  - District Court, D. Maryland
+  - District Court, D. Massachusetts
+  - District Court, N.D. Mississippi
+  - District Court, S.D. Florida
+  - District Court, S.D. New York
+  - United States Bankruptcy Court, C.D. California
+  - United States Bankruptcy Court, N.D. Alabama
+  - United States Bankruptcy Court, N.D. Texas
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
 ein: 816166962
-annual-revenue: "$230K"
-net-assets: "$2.3M"
+annual-revenue: $230K
+net-assets: $2.3M
 tax-year: "2023"
 related: "[[Donald Trump Master Profile]] · [[Mark Kelly]] · [[Sherrod Brown]] · [[Citadel - Kenneth Griffin]] · [[_Ron DeSantis Master Profile|Ron DeSantis]]"
 sec-filings: 78
 sec-form-types:
-  - "20-F"
-  - "424B3"
-  - "424B5"
-  - "424B7"
+  - 20-F
+  - 424B3
+  - 424B5
+  - 424B7
   - "425"
-  - "8-K"
-  - "ARS"
-  - "DEF 14A"
-  - "DEFM14A"
-  - "DFAN14A"
-  - "EX-10.73"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "EX-99.3"
-  - "EX-99.32"
-  - "F-1"
-  - "F-1/A"
-  - "F-4/A"
-  - "PART II AND III"
-lei: "2138007A496CEYCJKZ25"
-lei-jurisdiction: "GB"
+  - 8-K
+  - ARS
+  - DEF 14A
+  - DEFM14A
+  - DFAN14A
+  - EX-10.73
+  - EX-99.1
+  - EX-99.2
+  - EX-99.3
+  - EX-99.32
+  - F-1
+  - F-1/A
+  - F-4/A
+  - PART II AND III
+lei: 2138007A496CEYCJKZ25
+lei-jurisdiction: GB
 cross-vault-triangulation-count: 4
 audit-a-plus-passed: "2026-04-11"
 ---

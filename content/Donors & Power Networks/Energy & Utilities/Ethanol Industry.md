@@ -1,54 +1,53 @@
 ---
-title: "Ethanol Industry"
+title: Ethanol Industry
 type: donor
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-08T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Energy & Utilities"
-entity-type: "Individual Donor"
+sector: Energy & Utilities
+entity-type: Individual Donor
 issues:
-  - "Agriculture"
+  - Agriculture
 lobbying-spend: 2340000
 lobbying-filings: 33
 sec-filings: 4713
 sec-form-types:
-  - "10-K"
-  - "10-KT"
-  - "10-Q"
-  - "8-K"
-  - "CORRESP"
-  - "DEFA14A"
-  - "EX-99"
-  - "EX-99.(C)(2)"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "EX-99.4"
-  - "FWP"
-  - "XML"
+  - 10-K
+  - 10-KT
+  - 10-Q
+  - 8-K
+  - CORRESP
+  - DEFA14A
+  - EX-99
+  - EX-99.(C)(2)
+  - EX-99.1
+  - EX-99.2
+  - EX-99.4
+  - FWP
+  - XML
 ein: "300451687"
-annual-revenue: "$25K"
-net-assets: "$172K"
+annual-revenue: $25K
+net-assets: $172K
 tax-year: "2019"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-08"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 total-revenue: 25479
 total-assets: 172173
-lei: "984500B40IB4DF09CF40"
-lei-jurisdiction: "IN"
+lei: 984500B40IB4DF09CF40
+lei-jurisdiction: IN
 related: "[[Agribusiness Donor Bloc]] · [[Joni Ernst Master Profile]] · [[The Agribusiness Senator and the Family Farm Myth]] · [[Ernst Campaign Finance Research - Verified Dates and Amounts]] · [[ADM - Archer Daniels Midland]] · [[Cargill]] · [[American Farm Bureau Federation]] · [[Koch Industries]]"
 court-cases: 182
 court-jurisdictions:
-  - "Court of Appeals for the D.C. Circuit"
-  - "District Court, District of Columbia"
-  - "District Court, N.D. California"
-  - "District Court, S.D. New York"
+  - Court of Appeals for the D.C. Circuit
+  - District Court, District of Columbia
+  - District Court, N.D. California
+  - District Court, S.D. New York
 cross-vault-triangulation-count: 6
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+politicians-funded: "[[Joni Ernst]]"
 ---
 
 <!-- auto:data-panel start -->

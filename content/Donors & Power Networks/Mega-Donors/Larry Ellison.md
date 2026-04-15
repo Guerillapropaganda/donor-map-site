@@ -1,35 +1,31 @@
 ---
-title: "Larry Ellison"
+title: Larry Ellison
 type: donor
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Mega-Donors"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Steve Scalise"
-  - "Kamala Harris"
-  - "Rand Paul"
-  - "Marco Rubio"
+sector: Mega-Donors
+entity-type: Individual Donor
+politicians-funded: "[[Kamala Harris]], [[Steve Scalise]], [[Rand Paul]], [[Marco Rubio]]"
 issues:
-  - "Technology"
+  - Technology
 ein: 943269827
-annual-revenue: "$179.4M"
-net-assets: "$192.2M"
+annual-revenue: $179.4M
+net-assets: $192.2M
 tax-year: "2023"
 source-types:
   - FEC
 known-gaps:
-  - "No lobbying disclosure data"
-  - "No mapped relationships"
+  - No lobbying disclosure data
+  - No mapped relationships
 last-enriched: "2026-04-10"
-total-political-spend: "$10,212"
-related: "[[_Donald Trump Master Profile]] · [[Oracle]] · [[Steve Scalise]] · [[Rand Paul]]"
+total-political-spend: $10,212
+related: "[[_Donald Trump Master Profile]] · [[Oracle]] · [[Steve Scalise]]"
 federal-register-mentions: 2
 regulatory-agencies:
-  - "Fish and Wildlife Service"
-  - "Interior Department"
+  - Fish and Wildlife Service
+  - Interior Department
 ---
 
 <!-- auto:data-panel start -->

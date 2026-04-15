@@ -1,37 +1,33 @@
 ---
-title: "Mike Lee"
+title: Mike Lee
 type: politician
-bioguide-id: "L000577"
+bioguide-id: L000577
 content-readiness: ready
-central-thesis: "Lee's donor base is the Federalist Society network, Club for Growth ($554K career, top contributor), Koch-aligned libertarians, and Wall Street firms seeking judicial capture and statutory rollback of corporate accountability. His constitutional l..."
-last-updated: 2026-04-13
+central-thesis: Lee's donor base is the Federalist Society network, Club for Growth ($554K career, top contributor), Koch-aligned libertarians, and Wall Street firms seeking judicial capture and statutory rollback of corporate accountability. His constitutional l...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Senate"
-state: "Utah"
-state-abbr: "UT"
+party: Republican
+chamber: Senate
+state: Utah
+state-abbr: UT
 committees:
-  - "Antitrust (Judiciary)"
+  - Antitrust (Judiciary)
 issues:
-  - "Antitrust & Monopoly"
-  - "Energy & Climate"
+  - Antitrust & Monopoly
+  - Energy & Climate
 top-donors:
-  - "Koch Network"
-  - "Club for Growth"
-  - "Blackstone Group"
-  - "Apollo Global Management"
-total-received: "$6,801,272"
-fec-candidate-id: "S0UT00165"
-donors: "[[Eric Schmidt]] · [[Tim Dunn]] · [[California Nurses Association]] · [[AFSCME - American Federation of State County and Municipal Employees]] · [[Koch network]] · [[Rebekah Mercer]]"
+  - Koch Network
+  - Club for Growth
+  - Blackstone Group
+  - Apollo Global Management
+total-received: $6,801,272
+fec-candidate-id: S0UT00165
+donors: "[[Eric Schmidt]] · [[Tim Dunn]] · [[California Nurses Association]] · [[AFSCME - American Federation of State County and Municipal Employees]] · [[Koch network]] · [[Rebekah Mercer]] · [[AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION]] · [[Apollo Global Management]] · [[Blackstone Group]] · [[Club for Growth]] · [[CLUB FOR GROWTH ACTION]] · [[Put Utah First PAC]] · [[Koch Network]]"
 related: "[[John Barrasso]] · [[Chip Roy Master Profile]] · [[Apollo Global Management]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile|Trump]] · [[Crypto Industry Bloc]] · [[Club for Growth]] · [[Blackstone Group]] · [[_Mitch McConnell Master Profile|Mitch McConnell]] · [[_Chuck Grassley Master Profile|Chuck Grassley]] · [[Federalist Society]]"
 needs-reenrichment: true
-reenrich-reason: "run voting pipeline; run congress pipeline; run pipelines"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-  • No last-enriched date is set. The pipelines have never touched this file.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: run voting pipeline; run congress pipeline; run pipelines
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

@@ -1,41 +1,37 @@
 ---
-title: "James Lankford"
+title: James Lankford
 type: politician
-bioguide-id: "L000575"
+bioguide-id: L000575
 content-readiness: ready
 central-thesis: "James Lankford is the pastor-senator from oil country , a Baptist minister who chairs the Ethics Committee while his largest career donor sector (content-readiness: ready.5 million+) is the oil and gas industry that dominates his state's economy. On the Finance Committ..."
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Senate"
-state: "Oklahoma"
-state-abbr: "OK"
+party: Republican
+chamber: Senate
+state: Oklahoma
+state-abbr: OK
 committees:
-  - "Finance"
-  - "Homeland Security"
+  - Finance
+  - Homeland Security
 issues:
-  - "Armed Forces and National Security"
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Crime and Law Enforcement"
-  - "Education"
-  - "Finance and Financial Sector"
-  - "Government Operations and Politics"
-  - "Health"
-  - "Public Lands and Natural Resources"
-  - "Sports and Recreation"
-  - "Taxation"
-total-received: "$1,589,488"
-fec-candidate-id: "S4OK00232"
-donors: "[[Devon Energy]]"
+  - Armed Forces and National Security
+  - Civil Rights and Liberties, Minority Issues
+  - Crime and Law Enforcement
+  - Education
+  - Finance and Financial Sector
+  - Government Operations and Politics
+  - Health
+  - Public Lands and Natural Resources
+  - Sports and Recreation
+  - Taxation
+total-received: $1,589,488
+fec-candidate-id: S4OK00232
+donors: "[[Devon Energy]], [[Defend Oklahoma Values]], [[American Energy Action Fund]]"
 related: "[[_Donald Trump Master Profile|Trump]]"
 needs-reenrichment: true
-reenrich-reason: "run voting pipeline; run congress pipeline; run pipelines"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-  • No last-enriched date is set. The pipelines have never touched this file.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: run voting pipeline; run congress pipeline; run pipelines
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

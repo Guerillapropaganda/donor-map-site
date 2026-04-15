@@ -44,6 +44,10 @@ internal-notes: >-
   This profile was promoted to ready without ever having congress enrichment run
   on it. The needs-reenrichment flag has been set. The next scheduled pipeline
   run will pick it up automatically.
+total-raised: "$1,785,365"
+total-spent: "$875,347"
+cash-on-hand: "1967326.77"
+fec-cycle: 2026
 ---
 
 <!-- auto:data-panel start -->
@@ -274,38 +278,29 @@ The DNC chairmanship (2011-2016) exposed the party-level version of the same don
 
 <!-- auto:voting-record pending-merge end -->
 
-### Committee Assignments (Congress.gov)
-<!-- auto:committee-assignments start -->
-_No committee data found._
-
-- [Source: Congress.gov](https://www.congress.gov/member/W000797) (Tier 1)
-<!-- auto:committee-assignments end -->
-
-### Legislative Activity (Congress.gov)
-<!-- auto:congress-legislation start -->
+### Campaign Finance Summary (FEC)
+<!-- auto:fec-summary start -->
 | Metric | Value |
 |--------|-------|
-| Scope | Career Total |
-| Party | Democrat |
-| State | FL |
-| Chamber | House |
-| Bills Sponsored | 172 |
-| Bills Cosponsored | 4389 |
+| Election Cycle | 2026 |
+| Total Raised | $1,785,365 |
+| Total Spent | $875,347 |
+| Cash on Hand | 1967326.77 |
+| Individual Contributions | $1,322,746 |
+| PAC Contributions | $401,750 |
+| Coverage Through | 2025-12-31 |
 
-**Policy areas:** Agriculture and Food, Armed Forces and National Security, Civil Rights and Liberties, Minority Issues, Commerce, Crime and Law Enforcement, Economics and Public Finance, Emergency Management, Energy, Foreign Trade and International Finance, Government Operations and Politics, Health, Housing and Community Development, Immigration, International Affairs, Labor and Employment, Science, Technology, Communications, Transportation and Public Works
+**Fundraising history:**
 
-**Recent sponsored legislation:**
+| Cycle | Raised | Spent | Cash on Hand |
+|-------|--------|-------|-------------|
+| 2026 | $1,785,365 | $875,347 | 1967326.77 |
+| 2024 | $2,896,300 | $2,621,371 | 1057308.92 |
+| 2022 | $2,087,129 | $1,920,982 | 782379.35 |
+| 2020 | $2,204,638 | $1,992,619 | 616232.68 |
+| 2018 | $2,233,842 | $1,986,789 | 404213.88 |
+| 2016 | $4,037,050 | $4,242,401 | 157161.11 |
+| ... | 6 more cycles available | | |
 
-| Bill | Title | Status |
-|------|-------|--------|
-| 7857 | No Escaping Justice Act of 2026 | Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
-| 7856 | Fair Housing for Survivors Act of 2026 | Referred to the House Committee on the Judiciary. |
-| 7564 | Jaime’s Law | Referred to the House Committee on the Judiciary. |
-| 69 | Recognizing the 15th Anniversary of the January 8, 2011, Tucson, Arizona, shooti… | Referred to the House Committee on Oversight and Government Reform. |
-| 904 | Recognizing November 30, 2025, as "Yom Haplitim" or "Jewish Refugee Day". | Referred to the Committee on the Judiciary, and in addition to the Committees on Education and Workforce, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
-| 5506 | Courtney Wild Reinforcing Crime Victims’ Rights Act | Referred to the House Committee on the Judiciary. |
-| 4752 | Reducing Hereditary Cancer Act | Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
-| 4751 | To amend the Virginia Graeme Baker Pool and Spa Safety Act to reauthorize certai… | Referred to the House Committee on Energy and Commerce. |
-
-- [Source: Congress.gov](https://www.congress.gov/member/W000797) (Tier 1)
-<!-- auto:congress-legislation end -->
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4FL20023/) (Tier 1)
+<!-- auto:fec-summary end -->

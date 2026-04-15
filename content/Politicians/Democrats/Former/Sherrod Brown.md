@@ -56,9 +56,9 @@ internal-notes: >-
   The profile's own known-gaps field says it needs a fresh pipeline run. The
   needs-reenrichment flag has been set. The next scheduled pipeline run will
   pick it up automatically.
-total-raised: '$14,356,451'
-total-spent: '$4,456,809'
-cash-on-hand: '9899641.92'
+total-raised: "$14,356,451"
+total-spent: "$4,456,809"
+cash-on-hand: "9899641.92"
 fec-cycle: 2026
 last-enriched: "2026-04-15"
 bioguide-id: "B001313"
@@ -326,6 +326,34 @@ The class lesson Brown's defeat teaches is that labor movements cannot own polit
 
 - {{src:src_006846}} (Tier 1)
 <!-- auto:fec-summary end -->
+
+<!-- auto:fec-summary pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $14,356,451 |
+| Total Spent | $4,456,809 |
+| Cash on Hand | 9899641.92 |
+| Individual Contributions | $5,958,251 |
+| PAC Contributions | $600,126 |
+| Coverage Through | 2025-12-31 |
+
+**Fundraising history:**
+
+| Cycle | Raised | Spent | Cash on Hand |
+|-------|--------|-------|-------------|
+| 2026 | $14,356,451 | $4,456,809 | 9899641.92 |
+| 2024 | $103,336,341 | $104,313,356 | 394230.48 |
+| 2018 | $28,817,989 | $27,997,834 | 1371245.26 |
+| 2012 | $24,831,022 | $24,567,107 | 551089.00 |
+| 2006 | $8,937,005 | $10,752,667 | 287174.00 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6OH00163/) (Tier 1)
+
+<!-- auto:fec-summary pending-merge end -->
 
 ### Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->

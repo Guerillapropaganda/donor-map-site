@@ -1,42 +1,40 @@
 ---
-title: "Tim Scott"
+title: Tim Scott
 type: politician
 content-readiness: ready
 central-thesis: "Tim Scott is the Republican donor class's most structurally valuable senator: a Black conservative who provides racial cover for economic policies that harm Black communities, occupying the chairmanship of the committee that regulates the industri..."
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Senate"
-state: "South Carolina"
-state-abbr: "SC"
+party: Republican
+chamber: Senate
+state: South Carolina
+state-abbr: SC
 issues:
-  - "Agriculture and Food"
-  - "Armed Forces and National Security"
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Crime and Law Enforcement"
-  - "Education"
-  - "Health"
-  - "Labor and Employment"
-  - "Public Lands and Natural Resources"
+  - Agriculture and Food
+  - Armed Forces and National Security
+  - Civil Rights and Liberties, Minority Issues
+  - Crime and Law Enforcement
+  - Education
+  - Health
+  - Labor and Employment
+  - Public Lands and Natural Resources
 top-donors:
-  - "Goldman Sachs"
-  - "Blackstone"
-  - "Koch Network - Charles Koch"
-  - "AIPAC"
-  - "Senate Leadership Fund"
-  - "Michael Bloomberg"
+  - Goldman Sachs
+  - Blackstone
+  - Koch Network - Charles Koch
+  - AIPAC
+  - Senate Leadership Fund
+  - Michael Bloomberg
 related: "[[Bank of America]] · [[John Cornyn]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch]] · [[_Jared Kushner Master Profile|Jared Kushner]] · [[Michael Bloomberg]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Blackstone]] · [[Goldman Sachs]] · [[Senate Leadership Fund]]"
-donors: "[[Bank of America]] · [[AFGE - American Federation of Government Employees]] · [[Blue Shield of California]]"
-total-received: "$1,539"
-fec-candidate-id: "S4SC00240"
+donors: "[[Bank of America]] · [[AFGE - American Federation of Government Employees]] · [[Blue Shield of California]] · [[Koch Network - Charles Koch]] · [[Goldman Sachs]] · [[Michael Bloomberg]] · [[Senate Leadership Fund]]"
+total-received: $1,539
+fec-candidate-id: S4SC00240
 last-enriched: "2026-04-10"
 needs-reenrichment: true
-reenrich-reason: "re-run congress pipeline"
-bioguide-id: "S001184"
-internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
-  • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: re-run congress pipeline
+bioguide-id: S001184
+internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

@@ -45,10 +45,10 @@ bills-sponsored: 534
 bills-cosponsored: 6690
 website: 'https://pallone.house.gov'
 phone: 202-225-4671
-bioguide-id: "P000034"
-total-raised: '$1,311,209'
-total-spent: '$1,257,401'
-cash-on-hand: '3125718.74'
+bioguide-id: P000034
+total-raised: "$1,311,209"
+total-spent: "$1,257,401"
+cash-on-hand: "3125718.74"
 fec-cycle: 2026
 internal-notes: >-
   [JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: •
@@ -455,6 +455,36 @@ The class function is clear: Pallone is the progressive validator for industries
 
 - {{src:src_006246}} (Tier 1)
 <!-- auto:fec-summary end -->
+
+<!-- auto:fec-summary pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $1,311,209 |
+| Total Spent | $1,257,401 |
+| Cash on Hand | 3125718.74 |
+| Individual Contributions | $404,090 |
+| PAC Contributions | $878,107 |
+| Coverage Through | 2025-12-31 |
+
+**Fundraising history:**
+
+| Cycle | Raised | Spent | Cash on Hand |
+|-------|--------|-------|-------------|
+| 2026 | $1,311,209 | $1,257,401 | 3125718.74 |
+| 2024 | $3,462,887 | $3,077,720 | 3071910.32 |
+| 2022 | $3,144,740 | $3,795,593 | 2686743.08 |
+| 2020 | $3,240,051 | $2,030,033 | 3337595.75 |
+| 2018 | $2,810,635 | $1,722,277 | 2127577.21 |
+| 2016 | $2,415,229 | $1,879,868 | 1039220.84 |
+| ... | 14 more cycles available | | |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8NJ03073/) (Tier 1)
+
+<!-- auto:fec-summary pending-merge end -->
 
 ### Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->

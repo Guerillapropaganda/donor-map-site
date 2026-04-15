@@ -1,22 +1,20 @@
 ---
-title: "Sam Bankman-Fried"
+title: Sam Bankman-Fried
 type: donor
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-09T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Mega-Donors"
-entity-type: "Individual Donor"
+sector: Mega-Donors
+entity-type: Individual Donor
 issues:
-  - "Technology"
-total-political-spend: "$45,943,261"
-politicians-funded:
-  - "Joe Biden"
-  - "Debbie Stabenow"
+  - Technology
+total-political-spend: $45,943,261
+politicians-funded: "[[Debbie Stabenow]], [[Joe Biden]]"
 federal-register-mentions: 1
 last-enriched: "2026-04-09"
 regulatory-agencies:
-  - "Commodity Futures Trading Commission"
+  - Commodity Futures Trading Commission
 source-types:
   - DOJ
   - FEC
@@ -24,21 +22,21 @@ source-types:
   - SEC
 corroboration-count: 4
 known-gaps:
-  - "No lobbying disclosure data"
-  - "No mapped relationships"
+  - No lobbying disclosure data
+  - No mapped relationships
 court-cases: 334
 court-jurisdictions:
-  - "Court of Appeals for the Fifth Circuit"
-  - "Court of Appeals for the Second Circuit"
-  - "District Court, C.D. California"
-  - "District Court, E.D. New York"
-  - "District Court, M.D. Florida"
-  - "District Court, N.D. California"
-  - "District Court, S.D. Florida"
-  - "District Court, S.D. New York"
-  - "United States Bankruptcy Court, D. Delaware"
-  - "United States Judicial Panel on Multidistrict Litigation"
-related: "[[FTX - Sam Bankman-Fried]] · [[Coinbase]] · [[Fairshake PAC]] · [[Crypto Industry Bloc]] · [[Debbie Stabenow]]"
+  - Court of Appeals for the Fifth Circuit
+  - Court of Appeals for the Second Circuit
+  - District Court, C.D. California
+  - District Court, E.D. New York
+  - District Court, M.D. Florida
+  - District Court, N.D. California
+  - District Court, S.D. Florida
+  - District Court, S.D. New York
+  - United States Bankruptcy Court, D. Delaware
+  - United States Judicial Panel on Multidistrict Litigation
+related: "[[FTX - Sam Bankman-Fried]] · [[Coinbase]] · [[Fairshake PAC]] · [[Crypto Industry Bloc]]"
 ---
 
 <!-- auto:data-panel start -->

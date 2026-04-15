@@ -1,38 +1,37 @@
 ---
-title: "CalSTRS - California State Teachers' Retirement System"
+title: CalSTRS - California State Teachers' Retirement System
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Wall Street"
-entity-type: "Corporation"
-politicians-funded:
-  - "Gavin Newsom"
+sector: Wall Street
+entity-type: Corporation
+politicians-funded: "[[Gavin Newsom]]"
 issues:
-  - "Wall Street & Finance"
-  - "Education"
+  - Wall Street & Finance
+  - Education
 ofac-sdn-match: "true"
 last-enriched: "2026-04-07"
 ofac-programs:
-  - "RUSSIA-EO14024"
+  - RUSSIA-EO14024
 known-gaps:
-  - "No SEC corporate filings"
-  - "No FEC contribution data"
-  - "No lobbying disclosure data"
-  - "No mapped relationships"
+  - No SEC corporate filings
+  - No FEC contribution data
+  - No lobbying disclosure data
+  - No mapped relationships
 related: "[[CalPERS]] · [[National Education Association]] · [[_Gavin Newsom Master Profile|Gavin Newsom]] · [[CTA - California Teachers Association]] · [[Blackstone - Blackstone Group|Blackstone]] · [[Koch Network - Charles Koch|Koch Network]]"
 sec-filings: 245
 sec-form-types:
-  - "EX-10.1"
-  - "EX-10.2"
-  - "N-CSR"
-  - "N-CSR/A"
-  - "N-CSRS"
-  - "N-MFP"
-  - "N-MFP/A"
-  - "N-Q"
-  - "N-Q/A"
+  - EX-10.1
+  - EX-10.2
+  - N-CSR
+  - N-CSR/A
+  - N-CSRS
+  - N-MFP
+  - N-MFP/A
+  - N-Q
+  - N-Q/A
 ---
 
 <!-- auto:data-panel start -->

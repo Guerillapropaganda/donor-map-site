@@ -1,48 +1,47 @@
 ---
-title: "James Comer"
+title: James Comer
 type: politician
 content-readiness: draft
-central-thesis: "Comer is the investigator who doesn't investigate himself. His Oversight Committee gavel gives him the most powerful investigative tool in Congress — unilateral subpoena power — and he has deployed it almost exclusively as a partisan weapon. The B..."
-last-updated: 2026-04-10
+central-thesis: Comer is the investigator who doesn't investigate himself. His Oversight Committee gavel gives him the most powerful investigative tool in Congress — unilateral subpoena power — and he has deployed it almost exclusively as a partisan weapon. The B...
+last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "House"
-state: "Kentucky"
-state-abbr: "KY"
+party: Republican
+chamber: House
+state: Kentucky
+state-abbr: KY
 district: "1"
 committees:
-  - "Oversight & Reform"
+  - Oversight & Reform
 govtrack-id: 412676
 bills-sponsored: 7
 bills-cosponsored: 67
-website: "https://comer.house.gov"
-phone: "202-225-3115"
+website: https://comer.house.gov
+phone: 202-225-3115
 related: "[[The Oversight Committee and the Anti-Corruption Brand]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch]]"
-total-received: "$1,108,482"
-fec-candidate-id: "H6KY01110"
+total-received: $1,108,482
+fec-candidate-id: H6KY01110
 last-enriched: "2026-04-10"
 needs-reenrichment: true
-reenrich-reason: "re-run congress pipeline"
-bioguide-id: "C001108"
+reenrich-reason: re-run congress pipeline
+bioguide-id: C001108
 issues:
-  - "Agriculture and Food"
-  - "Armed Forces and National Security"
-  - "Commerce"
-  - "Congress"
-  - "Crime and Law Enforcement"
-  - "Environmental Protection"
-  - "Government Operations and Politics"
-  - "Health"
-  - "Housing and Community Development"
-  - "Labor and Employment"
-wikidata-id: "Q6131602"
-wikipedia-url: "https://en.wikipedia.org/wiki/James_Comer"
-wikipedia-extract: "James Richardson Comer Jr. is an American politician from Kentucky who represents the state's 1st congressional district in the United States House of Representatives."
+  - Agriculture and Food
+  - Armed Forces and National Security
+  - Commerce
+  - Congress
+  - Crime and Law Enforcement
+  - Environmental Protection
+  - Government Operations and Politics
+  - Health
+  - Housing and Community Development
+  - Labor and Employment
+wikidata-id: Q6131602
+wikipedia-url: https://en.wikipedia.org/wiki/James_Comer
+wikipedia-extract: James Richardson Comer Jr. is an American politician from Kentucky who represents the state's 1st congressional district in the United States House of Representatives.
 born: "1972-08-19"
-internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
-  • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+top-donors: "[[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]], [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]], [[EVERYTOWN FOR GUN SAFETY ACTION FUND]]"
 ---
 
 <!-- auto:data-panel start -->

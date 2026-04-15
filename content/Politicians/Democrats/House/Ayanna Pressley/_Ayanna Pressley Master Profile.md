@@ -365,6 +365,34 @@ Pressley's real power base is Labor ($278,750 career PAC) and Ideological donors
 - {{src:src_006345}} (Tier 1) (VERIFIED)
 <!-- auto:fec-summary end -->
 
+<!-- auto:fec-summary pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $687,535 |
+| Total Spent | $706,959 |
+| Cash on Hand | 98796.68 |
+| Individual Contributions | $353,529 |
+| PAC Contributions | $36,500 |
+| Coverage Through | 2025-12-31 |
+
+**Fundraising history:**
+
+| Cycle | Raised | Spent | Cash on Hand |
+|-------|--------|-------|-------------|
+| 2026 | $687,535 | $706,959 | 98796.68 |
+| 2024 | $1,432,055 | $1,636,121 | 118221.41 |
+| 2022 | $1,467,293 | $1,646,044 | 322287.03 |
+| 2020 | $2,190,613 | $1,775,676 | 501037.26 |
+| 2018 | $1,491,070 | $1,404,970 | 86099.78 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8MA07032/) (Tier 1)
+
+<!-- auto:fec-summary pending-merge end -->
+
 ### Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
 **Committees:**

@@ -1,60 +1,53 @@
 ---
-title: "National Restaurant Association"
+title: National Restaurant Association
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Restaurant & Food"
-entity-type: "Individual Donor"
+sector: Restaurant & Food
+entity-type: Individual Donor
 issues:
-  - "Labor & Workers"
+  - Labor & Workers
 federal-register-mentions: 59
 last-enriched: "2026-04-09"
 regulatory-agencies:
-  - "Agriculture Department"
-  - "Federal Trade Commission"
-  - "Food and Nutrition Service"
-  - "Labor Department"
-  - "National Labor Relations Board"
-  - "Securities and Exchange Commission"
-  - "Wage and Hour Division"
+  - Agriculture Department
+  - Federal Trade Commission
+  - Food and Nutrition Service
+  - Labor Department
+  - National Labor Relations Board
+  - Securities and Exchange Commission
+  - Wage and Hour Division
 sec-filings: 2422
 sec-form-types:
-  - "10-K"
+  - 10-K
   - "144"
   - "4"
   - "425"
-  - "6-K"
-  - "8-K"
-  - "CORRESP"
-  - "COVER"
-  - "DEF 14A"
-  - "DEFA14A"
-  - "EX-1"
-  - "EX-99"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "EX-99.3"
-  - "EX-99.A"
-  - "LETTER"
-  - "PX14A6G"
+  - 6-K
+  - 8-K
+  - CORRESP
+  - COVER
+  - DEF 14A
+  - DEFA14A
+  - EX-1
+  - EX-99
+  - EX-99.1
+  - EX-99.2
+  - EX-99.3
+  - EX-99.A
+  - LETTER
+  - PX14A6G
 ein: 361525480
-annual-revenue: "$112.6M"
-net-assets: "$206.9M"
+annual-revenue: $112.6M
+net-assets: $206.9M
 tax-year: "2023"
 lobbying-spend: 3106887
 lobbying-filings: 143
-related: "[[Starbucks]] · [[McDonalds Corporation]] · [[US Chamber of Commerce]] · [[National Association of Manufacturers]] · [[UNITE HERE]] · [[Bryan Steil]] · [[Ron Johnson]] · [[Steve Scalise]] · [[Jason Smith]] · [[Adam Smith]] · [[Mike Johnson]]"
-total-political-spend: "$1,807,500"
-politicians-funded:
-  - "Steve Scalise"
-  - "Mike Johnson"
-  - "Ron Johnson"
-  - "Kevin McCarthy"
-  - "Adam Smith"
-  - "Jason Smith"
-  - "Bryan Steil"
+related: "[[Starbucks]] · [[McDonalds Corporation]] · [[US Chamber of Commerce]] · [[National Association of Manufacturers]] · [[UNITE HERE]] · [[Bryan Steil]] · [[Ron Johnson]] · [[Steve Scalise]] · [[Jason Smith]] · [[Adam Smith]]"
+total-political-spend: $1,807,500
+politicians-funded: "[[Kevin McCarthy]], [[Steve Scalise]], [[Adam Smith]], [[Jason Smith]], [[Bryan Steil]], [[Ron Johnson]], [[Mike Johnson]]"
 cross-vault-triangulation-count: 6
 audit-a-plus-passed: "2026-04-11"
 ---

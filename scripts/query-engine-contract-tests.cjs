@@ -198,3 +198,74 @@ test("engine exports timingProximity as a direct method", () => {
 test("engine exports clear() for test teardown", () => {
   assert.equal(typeof engine.clear, "function")
 })
+
+// ─── Edge cases: Phase 6 requirement — 10 query edge cases ───────────────
+
+test("query() with no filters returns rows (empty filters object)", () => {
+  const result = engine.query({ subject: "edges", filters: {} })
+  assert.equal(result.subject, "edges")
+  assert.ok(Array.isArray(result.rows))
+  assert.ok(result.total > 0, "vault should have edges")
+})
+
+test("query() with null filters falls back gracefully", () => {
+  // null filters should behave as no-filter (not throw)
+  const result = engine.query({ subject: "edges", filters: null })
+  assert.ok(Array.isArray(result.rows))
+})
+
+test("query() with limit=1 returns exactly one row when data exists", () => {
+  const result = engine.query({ subject: "edges", filters: { limit: 1 } })
+  assert.equal(result.rows.length, 1)
+  assert.equal(result.returned, 1)
+})
+
+test("query() with very large limit does not crash or exceed total", () => {
+  const result = engine.query({ subject: "entities", filters: { limit: 9999999 } })
+  assert.ok(Array.isArray(result.rows))
+  assert.ok(result.rows.length <= result.total)
+  assert.equal(result.returned, result.rows.length)
+})
+
+test("query() entities with unicode search in name filter returns subset", () => {
+  // Should not throw on unicode input — filter may return 0 rows, that's fine
+  const result = engine.query({ subject: "entities", filters: { search: "Ñ±ü", limit: 10 } })
+  assert.ok(Array.isArray(result.rows))
+  assert.ok(result.total >= 0)
+})
+
+test("query() edges with special chars in from_name filter does not throw", () => {
+  const result = engine.query({ subject: "edges", filters: { from_name: "O'Brien & Co.", limit: 5 } })
+  assert.ok(Array.isArray(result.rows))
+})
+
+test("query() total is stable across repeated calls with same filter", () => {
+  const r1 = engine.query({ subject: "edges", filters: { limit: 100 } })
+  const r2 = engine.query({ subject: "edges", filters: { limit: 100 } })
+  assert.equal(r1.total, r2.total, "total should be deterministic")
+})
+
+test("count() returns same value as query().total for each subject", () => {
+  for (const subject of ["edges", "entities", "events"]) {
+    const counted = engine.count({ subject })
+    const queried = engine.query({ subject, filters: { limit: 0 } }).total
+    assert.equal(counted, queried, `count vs query().total mismatch for ${subject}`)
+  }
+})
+
+test("query() with offset >= total returns empty rows but correct total", () => {
+  const all = engine.query({ subject: "entities", filters: { limit: 1 } })
+  const beyondEnd = engine.query({ subject: "entities", filters: { limit: 10, offset: all.total + 100 } })
+  assert.equal(beyondEnd.rows.length, 0, "no rows beyond total")
+  assert.equal(beyondEnd.total, all.total, "total unchanged by offset")
+})
+
+test("query() on events returns event records with required shape", () => {
+  const result = engine.query({ subject: "events", filters: { limit: 5 } })
+  assert.ok(Array.isArray(result.rows))
+  // Events should have at minimum: id or title
+  for (const r of result.rows) {
+    const hasId = typeof r.id === "string" || typeof r.title === "string"
+    assert.ok(hasId, "event row must have id or title")
+  }
+})

@@ -1,23 +1,22 @@
 ---
-title: "Glenn Youngkin"
+title: Glenn Youngkin
 type: politician
 content-readiness: draft
 central-thesis: "Youngkin IS the donor class , he didn't need to be captured because he's already a private equity billionaire who purchased his own governorship. His $20M+ self-funded campaign (including a content-readiness: draft6.5M personal loan to the campaign and content-readiness: draftM to his own P..."
-last-updated: 2026-03-24
+last-updated: 2026-03-24T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Governor"
-state: "Virginia"
-state-abbr: "VA"
-top-donors:
-  - "Carlyle Group (self)"
+party: Republican
+chamber: Governor
+state: Virginia
+state-abbr: VA
+top-donors: "[[Carlyle Group]]"
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No voting record data
+  - No mapped relationships
 related: "[[Koch Network - Charles Koch]] · [[The Carlyle Group and the Private Equity Governor]] · [[The Education Culture War as Electoral Strategy]]"
 ---
 

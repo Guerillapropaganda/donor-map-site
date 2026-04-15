@@ -1,36 +1,33 @@
 ---
-title: "Glenn Thompson"
+title: Glenn Thompson
 type: politician
-bioguide-id: "T000467"
+bioguide-id: T000467
 content-readiness: draft
-central-thesis: "Glenn Thompson is the agribusiness industry's Farm Bill architect , the committee chair who writes the legislation that determines who gets fed and who gets subsidized, funded by the industries that benefit from the answer. Since becoming chair in..."
-last-updated: 2026-04-13
+central-thesis: Glenn Thompson is the agribusiness industry's Farm Bill architect , the committee chair who writes the legislation that determines who gets fed and who gets subsidized, funded by the industries that benefit from the answer. Since becoming chair in...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "House"
-state: "Pennsylvania"
-state-abbr: "PA"
+party: Republican
+chamber: House
+state: Pennsylvania
+state-abbr: PA
 district: "15"
 committees:
-  - "Agriculture"
+  - Agriculture
 issues:
-  - "Agriculture"
-total-received: "$1,227,441"
-fec-candidate-id: "H8PA05071"
-donors: "[[IBEW - International Brotherhood of Electrical Workers]] · [[Blue Shield of California]] · [[American Gaming Association]] · [[California Farm Bureau Federation]] · [[National Cattlemen's Beef Association]] · [[CA Farm Bureau Federation]]"
+  - Agriculture
+total-received: $1,227,441
+fec-candidate-id: H8PA05071
+donors: "[[IBEW - International Brotherhood of Electrical Workers]] · [[Blue Shield of California]] · [[American Gaming Association]] · [[California Farm Bureau Federation]] · [[National Cattlemen's Beef Association]] · [[CA Farm Bureau Federation]] · [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]] · [[EVERYTOWN FOR GUN SAFETY ACTION FUND]] · [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]]"
 related: "[[John Boozman]] · [[_Donald Trump Master Profile|Trump]]"
-total-raised: "$1,227,441"
-total-spent: "$1,152,094"
+total-raised: $1,227,441
+total-spent: $1,152,094
 cash-on-hand: "867140.16"
 fec-cycle: 2026
 last-enriched: "2026-04-10"
 needs-reenrichment: true
-reenrich-reason: "run voting pipeline; run congress pipeline"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: run voting pipeline; run congress pipeline
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

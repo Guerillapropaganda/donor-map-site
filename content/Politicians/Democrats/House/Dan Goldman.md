@@ -1,29 +1,29 @@
 ---
-title: "Dan Goldman"
+title: Dan Goldman
 type: politician
-chamber: "House"
-party: "Democrat"
+chamber: House
+party: Democrat
 content-readiness: ready
-central-thesis: "Goldman demonstrates how dynastic wealth purchases political power in the 21st century Democratic Party. His campaign did not build grassroots support; he self-funded $4M in primary spending in a crowded field. His Trump impeachment credentials we..."
-last-updated: 2026-04-13
+central-thesis: Goldman demonstrates how dynastic wealth purchases political power in the 21st century Democratic Party. His campaign did not build grassroots support; he self-funded $4M in primary spending in a crowded field. His Trump impeachment credentials we...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
 govtrack-id: 456923
 bills-sponsored: 32
 bills-cosponsored: 568
-website: "https://goldman.house.gov"
-phone: "202-225-7944"
-total-received: "$2,082,447"
-fec-candidate-id: "H2NY10308"
+website: https://goldman.house.gov
+phone: 202-225-7944
+total-received: $2,082,447
+fec-candidate-id: H2NY10308
 source-types:
   - FEC
   - GovTrack
 corroboration-count: 2
 known-gaps:
-  - "No legislative record from Congress.gov"
-  - "No mapped relationships"
+  - No legislative record from Congress.gov
+  - No mapped relationships
 related: "[[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Securities & Investment Industry]] · [[_Nancy Pelosi Master Profile]]"
-donors: "[[Republican Jewish Coalition]]"
+donors: "[[Republican Jewish Coalition]], [[Sierra Club Independent Action]], [[Mainstream Democrats Pac]], [[Protect Progress]]"
 ---
 #dan-goldman #house #new-york #levi-strauss-heir #impeachment-lawyer #israel-hawk #class-analysis #inherited-wealth #democrat
 tags: #democrat

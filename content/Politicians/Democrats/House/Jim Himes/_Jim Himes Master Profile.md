@@ -1,49 +1,35 @@
 ---
-title: "Jim Himes"
+title: Jim Himes
 type: politician
 content-readiness: ready
-central-thesis: "Jim Himes is the Goldman Sachs pipeline made flesh. He moved from the trading floor to Congress, represented the hedge fund corridor, sat on the committee that regulates his former industry, and consistently voted to weaken the regulations his par..."
-last-updated: 2026-04-15
+central-thesis: Jim Himes is the Goldman Sachs pipeline made flesh. He moved from the trading floor to Congress, represented the hedge fund corridor, sat on the committee that regulates his former industry, and consistently voted to weaken the regulations his par...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "House"
-state: "Connecticut"
-state-abbr: "CT"
+party: Democrat
+chamber: House
+state: Connecticut
+state-abbr: CT
 district: "4"
 committees:
-  - "House Committee on Financial Services"
-  - "House Permanent Select Committee on Intelligence"
+  - Intelligence
 leadership-roles:
-  - "Ranking Member"
+  - Ranking Member
 issues:
-  - "Armed Forces and National Security"
-  - "Arts, Culture, Religion"
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Crime and Law Enforcement"
-  - "Economics and Public Finance"
-  - "Energy"
-  - "Finance and Financial Sector"
-  - "Government Operations and Politics"
-  - "Health"
-  - "Housing and Community Development"
-top-donors:
-  - "Goldman Sachs"
-total-received: "$803,939"
-fec-candidate-id: "H8CT04172"
+  - Wall Street & Finance
+top-donors: "[[League of Conservation Voters]], [[Goldman Sachs]], [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]]"
+total-received: $803,939
+fec-candidate-id: H8CT04172
 govtrack-id: 412282
 bills-sponsored: 3
 bills-cosponsored: 157
-website: "https://himes.house.gov"
-phone: "202-225-5541"
-last-enriched: "2026-04-15"
+website: https://himes.house.gov
+phone: 202-225-5541
+last-enriched: "2026-04-13"
 needs-reenrichment: true
-reenrich-reason: "re-run fec pipeline"
+reenrich-reason: re-run fec pipeline
 related: "[[Chris Murphy Master Profile]] · [[_Nancy Pelosi Master Profile|Pelosi]] · [[_Chuck Schumer Master Profile|Schumer]] · [[Goldman Sachs - Wall Street Titan|Goldman Sachs]] · [[The Wall Street-Schumer Funding Axis]]"
-internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC-CANDIDATE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-bioguide-id: "H001047"
+internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • FEC-CANDIDATE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

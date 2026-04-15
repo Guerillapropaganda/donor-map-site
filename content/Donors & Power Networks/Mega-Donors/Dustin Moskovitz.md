@@ -1,64 +1,60 @@
 ---
-title: "Dustin Moskovitz"
+title: Dustin Moskovitz
 type: donor
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Mega-Donors"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Gavin Newsom"
-  - "Donald Trump"
+sector: Mega-Donors
+entity-type: Individual Donor
+politicians-funded: "[[Gavin Newsom]], [[Donald Trump]]"
 issues:
-  - "Technology"
-  - "Dark Money & Campaign Finance"
+  - Technology
+  - Dark Money & Campaign Finance
 sec-filings: 399
 sec-form-types:
-  - "10-K/A"
+  - 10-K/A
   - "3"
   - "4"
-  - "8-A12B"
-  - "8-K"
-  - "D"
-  - "DEF 14A"
-  - "EX-10.1"
-  - "EX-10.2"
-  - "EX-10.8"
-  - "EX-31.1"
-  - "EX-31.3"
-  - "EX-32.1"
-  - "EX-4.2"
-  - "EX-4.3"
-  - "EX-99.1"
-  - "LETTER"
-  - "S-8"
-  - "SC 13D"
-  - "SC 13D/A"
-  - "SC 13G"
-  - "SC 13G/A"
-  - "SCHEDULE 13D/A"
-  - "TEXT-EXTRACT"
+  - 8-A12B
+  - 8-K
+  - D
+  - DEF 14A
+  - EX-10.1
+  - EX-10.2
+  - EX-10.8
+  - EX-31.1
+  - EX-31.3
+  - EX-32.1
+  - EX-4.2
+  - EX-4.3
+  - EX-99.1
+  - LETTER
+  - S-8
+  - SC 13D
+  - SC 13D/A
+  - SC 13G
+  - SC 13G/A
+  - SCHEDULE 13D/A
+  - TEXT-EXTRACT
 related: "[[Tech Billionaires Switch Parties on Regulatory Self-Interest]] · [[_Gavin Newsom Master Profile]] · [[_Donald Trump Master Profile]] · [[Democratic Party Infrastructure]] · [[Future Forward USA Action]] · [[FTX - Sam Bankman-Fried]] · [[Silicon Valley Democratic Donor Network]] · [[Senate Majority PAC]]"
 court-cases: 47
 last-enriched: "2026-04-09"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 court-jurisdictions:
-  - "District Court, C.D. California"
-  - "District Court, D. Arizona"
-  - "District Court, D. Massachusetts"
-  - "District Court, D. Nebraska"
-  - "District Court, N.D. California"
-  - "District Court, S.D. New York"
-  - "United States Bankruptcy Court, D. Delaware"
+  - District Court, C.D. California
+  - District Court, D. Arizona
+  - District Court, D. Massachusetts
+  - District Court, D. Nebraska
+  - District Court, N.D. California
+  - District Court, S.D. New York
+  - United States Bankruptcy Court, D. Delaware
 federal-register-mentions: 2
 regulatory-agencies:
-  - "Federal Trade Commission"
+  - Federal Trade Commission
 cross-vault-triangulation-count: 8
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

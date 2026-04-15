@@ -1,51 +1,51 @@
 ---
-title: "John Hoeven"
+title: John Hoeven
 type: politician
 content-readiness: ready
-central-thesis: "Hoeven's donor-class function is to serve as the intersection point where North Dakota's extraction economy meets federal appropriations power. A banker-turned-governor-turned-senator who personally invests in Bakken oil wells while writing federa..."
-last-updated: 2026-04-13
+central-thesis: Hoeven's donor-class function is to serve as the intersection point where North Dakota's extraction economy meets federal appropriations power. A banker-turned-governor-turned-senator who personally invests in Bakken oil wells while writing federa...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Senate"
-state: "North Dakota"
-state-abbr: "ND"
+party: Republican
+chamber: Senate
+state: North Dakota
+state-abbr: ND
 committees:
-  - "Agriculture"
-  - "Appropriations"
+  - Agriculture
+  - Appropriations
 issues:
-  - "Energy & Climate"
-  - "Agriculture"
-total-received: "$824,977"
-fec-candidate-id: "S0ND00093"
+  - Energy & Climate
+  - Agriculture
+total-received: $824,977
+fec-candidate-id: S0ND00093
 stock-trades: 225
 stock-trade-tickers:
-  - "WTW"
-  - "IBM"
-  - "IVZ"
-  - "ABBV"
-  - "T"
-  - "CAT"
-  - "MCD"
-  - "PRU"
-  - "UPS"
-  - "DWDP"
+  - WTW
+  - IBM
+  - IVZ
+  - ABBV
+  - T
+  - CAT
+  - MCD
+  - PRU
+  - UPS
+  - DWDP
 source-types:
   - Congress
   - FEC
   - GovTrack
 corroboration-count: 3
 known-gaps:
-  - "No mapped relationships"
+  - No mapped relationships
 last-enriched: "2026-04-09"
-bioguide-id: "H001061"
+bioguide-id: H001061
 govtrack-id: 412494
 bills-sponsored: 19
 bills-cosponsored: 190
-website: "https://www.hoeven.senate.gov"
-phone: "202-224-2551"
+website: https://www.hoeven.senate.gov
+phone: 202-224-2551
 related: "[[Koch Network - Charles Koch|Koch Network]] · [[_John Barrasso Master Profile|Barrasso]] · [[_Joe Manchin Master Profile|Manchin]]"
-donors: "[[Western Growers Association]]"
+donors: "[[Western Growers Association]], [[American Energy Action Fund]], [[NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE]], [[Clearpath Action Fund, Inc.]]"
 ---
 
 <!-- auto:data-panel start -->

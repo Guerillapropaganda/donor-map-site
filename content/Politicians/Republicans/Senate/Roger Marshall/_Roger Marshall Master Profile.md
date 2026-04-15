@@ -1,40 +1,40 @@
 ---
-title: "Roger Marshall"
+title: Roger Marshall
 type: politician
 content-readiness: draft
-central-thesis: "Marshall's donor-class function is to serve as the agribusiness and healthcare industry's physician-legislator — using his medical credentials to lend authority to industry-friendly positions on health policy while using his committee seats to pro..."
-last-updated: 2026-04-11
+central-thesis: Marshall's donor-class function is to serve as the agribusiness and healthcare industry's physician-legislator — using his medical credentials to lend authority to industry-friendly positions on health policy while using his committee seats to pro...
+last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Senate"
-state: "Kansas"
-state-abbr: "KS"
+party: Republican
+chamber: Senate
+state: Kansas
+state-abbr: KS
 committees:
-  - "Agriculture"
+  - Agriculture
 issues:
-  - "Agriculture and Food"
-  - "Crime and Law Enforcement"
-  - "Education"
-  - "Emergency Management"
-  - "Energy"
-  - "Finance and Financial Sector"
-  - "Government Operations and Politics"
-  - "Health"
-  - "Immigration"
-  - "Labor and Employment"
-fec-candidate-id: "S0KS00315"
+  - Agriculture and Food
+  - Crime and Law Enforcement
+  - Education
+  - Emergency Management
+  - Energy
+  - Finance and Financial Sector
+  - Government Operations and Politics
+  - Health
+  - Immigration
+  - Labor and Employment
+fec-candidate-id: S0KS00315
 source-types:
   - Congress
   - FEC
   - GovTrack
 corroboration-count: 3
 known-gaps:
-  - "No mapped relationships"
+  - No mapped relationships
 related: "[[_John Barrasso Master Profile|Barrasso]] · [[_Ron Johnson Master Profile|Ron Johnson]]"
 last-enriched: "2026-04-11"
-bioguide-id: "M001198"
-donors: "[[Western Growers Association]]"
+bioguide-id: M001198
+donors: "[[Western Growers Association]], [[ESAFUND]], [[CLUB FOR GROWTH ACTION]]"
 ---
 
 <!-- auto:data-panel start -->

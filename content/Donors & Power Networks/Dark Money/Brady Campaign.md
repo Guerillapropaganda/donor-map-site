@@ -1,73 +1,54 @@
 ---
-title: "Brady Campaign"
+title: Brady Campaign
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Dark Money"
-entity-type: "Individual Donor"
+sector: Dark Money
+entity-type: Individual Donor
 court-cases: 410
 last-enriched: "2026-04-15"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 court-jurisdictions:
-  - "Court of Appeals for the D.C. Circuit"
-  - "District Court, D. Kansas"
-  - "District Court, D. Maryland"
-  - "District Court, District of Columbia"
-  - "District Court, E.D. North Carolina"
-  - "District Court, W.D. Texas"
+  - Court of Appeals for the D.C. Circuit
+  - District Court, D. Kansas
+  - District Court, D. Maryland
+  - District Court, District of Columbia
+  - District Court, E.D. North Carolina
+  - District Court, W.D. Texas
 ein: 237321017
-annual-revenue: "$4.8M"
-net-assets: "$8.1M"
+annual-revenue: $4.8M
+net-assets: $8.1M
 tax-year: "2023"
 related: "[[Sheldon Whitehouse]] · [[Bob Menendez]] · [[Jerry Nadler]] · [[Linda McMahon]]"
 lobbying-spend: 836000
 lobbying-filings: 34
-nonprofit-status: "501(c)(4)"
+nonprofit-status: 501(c)(4)
 total-revenue: 4821088
 total-assets: 6223865
 cross-vault-triangulation-count: 1
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 sec-filings: 44
 sec-form-types:
-  - "10-K"
-  - "485BPOS"
+  - 10-K
+  - 485BPOS
   - "497"
-  - "DEF 14A"
-  - "DEF 14C"
-  - "DEFA14A"
-  - "EX-99.1"
-  - "N-1A/A"
-  - "U5S"
-total-political-spend: "$499,761"
-politicians-funded:
-  - "Jerrold Nadler"
-  - "Jerry Nadler"
-  - "James E. Clyburn"
-  - "Gina McCarthy"
-  - "Kevin McCarthy"
-  - "Robert Menendez"
-  - "Bob Menendez"
-  - "Wes Moore"
-  - "Gwen Moore"
-  - "Barry Moore"
-  - "Blake D. Moore"
-  - "Riley M. Moore"
-  - "Tim Moore"
-  - "Melissa Bean"
-  - "Aaron Bean"
-  - "Linda McMahon"
-  - "Salud O. Carbajal"
-wikidata-id: "Q4955170"
-wikipedia-url: "https://en.wikipedia.org/wiki/Brady_Campaign"
+  - DEF 14A
+  - DEF 14C
+  - DEFA14A
+  - EX-99.1
+  - N-1A/A
+  - U5S
+total-political-spend: $499,761
+politicians-funded: "[[Barry Moore]], [[Wes Moore]], [[Bob Menendez]], [[Salud O. Carbajal]], [[Blake D. Moore]], [[Jerrold Nadler]], [[Aaron Bean]], [[Tim Moore]], [[Riley M. Moore]], [[Gina McCarthy]], [[Robert Menendez]], [[Melissa Bean]], [[Gwen Moore]], [[Kevin McCarthy]], [[Linda McMahon]], [[Jerry Nadler]], [[James E. Clyburn]]"
+wikidata-id: Q4955170
+wikipedia-url: https://en.wikipedia.org/wiki/Brady_Campaign
 wikipedia-extract: "Brady: United Against Gun Violence is an American nonprofit organization that advocates for gun control and against gun violence."
 federal-register-mentions: 1
 regulatory-agencies:
-  - "Federal Election Commission"
+  - Federal Election Commission
 ---
 
 

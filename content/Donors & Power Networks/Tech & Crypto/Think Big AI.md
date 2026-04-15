@@ -1,18 +1,17 @@
 ---
-title: "Think Big AI"
+title: Think Big AI
 type: donor
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-08T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Tech & Crypto"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Donald Trump"
+sector: Tech & Crypto
+entity-type: Individual Donor
+politicians-funded: "[[Donald Trump]]"
 related: "[[Crypto and AIPAC's Georgia Strategy]] · [[Crypto Industry Bloc]] · [[Fairshake PAC]] · [[Marc Andreessen & Horowitz]] · [[_Donald Trump Master Profile]]"
 known-gaps:
-  - "No FEC contribution data"
-  - "No lobbying disclosure data"
+  - No FEC contribution data
+  - No lobbying disclosure data
 ---
 
 <!-- auto:data-panel start -->

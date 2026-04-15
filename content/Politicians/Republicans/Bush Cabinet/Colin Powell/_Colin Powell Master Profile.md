@@ -1,28 +1,24 @@
 ---
-title: "Colin Powell"
+title: Colin Powell
 type: politician
 content-readiness: draft
-central-thesis: "Colin Powell's career demonstrates how credibility operates as political currency for the donor class. His military authority, his status as 'the most trusted man in America,' and his African American identity made him uniquely valuable to the Bus..."
-last-updated: 2026-04-07
+central-thesis: Colin Powell's career demonstrates how credibility operates as political currency for the donor class. His military authority, his status as 'the most trusted man in America,' and his African American identity made him uniquely valuable to the Bus...
+last-updated: 2026-04-07T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Cabinet"
-top-donors:
-  - "Lockheed Martin"
-  - "Boeing"
-  - "Kleiner Perkins"
-  - "Salesforce"
-fec-candidate-id: "P60003050"
+party: Republican
+chamber: Cabinet
+top-donors: "[[Boeing]], [[Lockheed Martin]]"
+fec-candidate-id: P60003050
 last-enriched: "2026-04-07"
 source-types:
   - DOJ
   - FEC
 corroboration-count: 2
 known-gaps:
-  - "No legislative record from Congress.gov"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No legislative record from Congress.gov
+  - No voting record data
+  - No mapped relationships
 related: "[[George W Bush]] · [[Dick Cheney]] · [[Lockheed Martin]] · [[Boeing]] · [[Kleiner Perkins]] · [[Defense & Intelligence/Defense Contractors]] · [[Iraq War Coalition]]"
 ---
 

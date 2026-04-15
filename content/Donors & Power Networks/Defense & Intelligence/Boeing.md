@@ -14,7 +14,7 @@ politicians-funded:
 issues:
   - "Defense & Military"
 court-cases: 35992
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-15"
 needs-reenrichment: true
 reenrich-reason: "run lda pipeline"
 court-jurisdictions:
@@ -667,6 +667,41 @@ The Boeing Company is an American multinational corporation that designs and man
 
 - [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Boeing) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->
+
+<!-- auto:ftc-enforcement pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| FTC enforcement actions (historical, ≤FY2021) | 3 |
+| HSR early termination notices (merger filings) | 16 |
+| Most recent enforcement action | 2006-10-03 |
+| Earliest enforcement action | 1996-12-06 |
+
+**Enforcement by type:**
+
+- Consent Order Accepted for Comment: 3
+
+**Recent enforcement actions (historical):**
+
+- [The Boeing Company / Lockheed Martin Corp](http://www.ftc.gov/os/caselist/0510165/0510165.shtm) (2006-10-03) — Defense � Equipment and Engineering Services
+- [Boeing Co / Hughes Electronics](http://www.ftc.gov/os/caselist/c3992.shtm) (2000-09-27) — Defense � Equipment and Engineering Services
+- [The Boeing Co](http://www.ftc.gov/os/caselist/c3723.shtm) (1996-12-06) — Defense � Equipment and Engineering Services
+
+**Recent HSR merger filings (early terminations granted):**
+
+- [Boeing Employees' Credit Union → SAFE Credit Union](https://www.ftc.gov/legal-library/browse/early-termination-notices/20260777) (2026-02-13)
+- [The Boeing Company → Argon ST, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20100883) (2010-07-19)
+- [The Boeing Company → United Launch Alliance, L.L.C.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20051491) (2006-10-06)
+- [Onex Partners L.P. → The Boeing Company](https://www.ftc.gov/legal-library/browse/early-termination-notices/20050684) (2005-03-18)
+- [L-3 Communications Holdings, Inc. → The Boeing Company](https://www.ftc.gov/legal-library/browse/early-termination-notices/20050339) (2005-02-11)
+
+> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Boeing).
+
+- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Boeing) (Tier 1)
+
+<!-- auto:ftc-enforcement pending-merge end -->
 
 ### Federal Spending (USASpending)
 <!-- auto:usaspending start -->
