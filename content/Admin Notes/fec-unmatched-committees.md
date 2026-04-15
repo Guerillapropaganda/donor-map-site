@@ -9,7 +9,7 @@ authority: Pillar 2b migration
 
 # FEC Unmatched Committees
 
-Committees found in `auto:fec-politician` body tables that could not be resolved to a vault profile via title, alias, or simple suffix strip. Total: **265** unique committees / **371** rows.
+Committees found in `auto:fec-politician` body tables that could not be resolved to a vault profile via title, alias, or simple suffix strip. Total: **264** unique committees / **370** rows.
 
 **Fix**: add an `aliases:` entry to the parent profile's frontmatter (the `buildTitleIndex` walker reads it), or create a stub profile for the committee. Re-run `migrate-fec-body-tables-to-edges.cjs --write` to pick up the new mapping.
 
@@ -26,7 +26,6 @@ Sorted by total dollar volume (support + oppose).
 | SOUTH CAROLINA PATRIOTS PAC | 1 | $0 | $4,988,211 | Nancy Mace |
 | 1820 PAC | 1 | $4,805,828 | $0 | Susan Collins |
 | TEXAS FOREVER | 1 | $0 | $4,600,814 | Ted Cruz |
-| AMERICA FIRST POLICIES INC. | 1 | $0 | $4,339,970 | Jon Ossoff |
 | FLORIDA PATRIOTS PAC | 1 | $0 | $4,243,279 | Matt Gaetz |
 | WORKING FAMILIES PARTY PAC | 6 | $2,488,740 | $1,741,195 | Cori Bush, Cori Bush, George Latimer |
 | PROTECT FREEDOM POLITICAL ACTION COMMITTEE | 3 | $1,730,000 | $2,301,252 | Matt Gaetz, Kay Granger, Mike Lee |
