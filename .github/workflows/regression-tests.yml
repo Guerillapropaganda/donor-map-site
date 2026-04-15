@@ -82,3 +82,44 @@ jobs:
             exit 1
           fi
           echo "publication-readiness-check.cjs ran cleanly"
+
+  ops-build:
+    name: Ops Next.js Build
+    runs-on: ubuntu-latest
+    # Catches the 2026-04-15 Clerk incident class: package.json lists a
+    # dep but node_modules is stale OR deps have a broken import chain.
+    # Runs `npm ci` (strict lockfile install) + `next build` (full
+    # production compile) — either step fails if deps are broken.
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 1
+
+      - name: Setup Node
+        uses: actions/setup-node@v6
+        with:
+          node-version: 22
+
+      - name: Cache ops dependencies
+        uses: actions/cache@v5
+        with:
+          path: ops/node_modules
+          key: ${{ runner.os }}-ops-node-${{ hashFiles('ops/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-ops-node-
+
+      - name: Install ops dependencies (strict lockfile)
+        working-directory: ops
+        run: npm ci
+
+      - name: Run deps-sync-check
+        run: node scripts/deps-sync-check.cjs
+
+      - name: Build Ops app (validates imports)
+        working-directory: ops
+        env:
+          # Next.js requires a NEXT_PUBLIC_ base during build. The Ops
+          # app falls back gracefully when Clerk/Stripe env vars are
+          # missing (Phase 2.5 degraded mode).
+          CI: true
+        run: npx next build

@@ -1,7 +1,7 @@
 #!/usr/bin/env sh
 # Pre-commit gate for the Donor Map vault.
 #
-# Runs seven fast sentinels before every commit:
+# Runs eight fast sentinels before every commit:
 #   1. self-review-mirror      — em dashes, banned AI vocab, defamation-prone words,
 #                                verified-profile regressions
 #   2. yaml-sanity-scan        — catches broken frontmatter before it lands
@@ -16,6 +16,10 @@
 #   7. query-engine-contract   — runs the query-engine API contract tests
 #                                (20 tests, ~250ms) locking in the 6-subject
 #                                API shape and filter behavior
+#   8. deps-staging             — if package.json is staged, require
+#                                package-lock.json to be staged too (prevents
+#                                the 2026-04-15 Clerk incident class:
+#                                deps edited without running npm install)
 #
 # If any fail, the commit is blocked. To bypass in an emergency:
 #   SKIP_HOOKS=1 git commit ...
@@ -90,6 +94,44 @@ if [ $? -ne 0 ]; then
   echo ""
   echo "[x] query engine contract tests failed — run 'node --test scripts/query-engine-contract-tests.cjs' to see details."
   exit 1
+fi
+
+# 8. Deps staging sentinel — if package.json is staged, package-lock.json
+# must also be staged (catches "edited deps without running npm install")
+echo "  -> deps-staging-sentinel"
+STAGED_PKG=$(git diff --cached --name-only | grep -E "(^|/)package\.json$" || true)
+if [ -n "$STAGED_PKG" ]; then
+  STAGED_LOCK=$(git diff --cached --name-only | grep -E "(^|/)package-lock\.json$" || true)
+  MISSING_LOCKS=""
+  for pkg in $STAGED_PKG; do
+    pkg_dir=$(dirname "$pkg")
+    if [ "$pkg_dir" = "." ]; then
+      expected_lock="package-lock.json"
+    else
+      expected_lock="$pkg_dir/package-lock.json"
+    fi
+    echo "$STAGED_LOCK" | grep -qF "$expected_lock" || MISSING_LOCKS="$MISSING_LOCKS $expected_lock"
+  done
+  if [ -n "$MISSING_LOCKS" ]; then
+    echo ""
+    echo "[x] deps-staging-sentinel blocked the commit"
+    echo ""
+    echo "    You staged a package.json change without the matching package-lock.json:"
+    for lock in $MISSING_LOCKS; do
+      echo "      missing: $lock"
+    done
+    echo ""
+    echo "    This usually means you edited package.json but forgot to run"
+    echo "    npm install (which regenerates the lockfile + node_modules)."
+    echo ""
+    echo "    Fix:"
+    echo "      1. Run \`npm install\` in the drifted directory"
+    echo "      2. \`git add <the package-lock.json>\`"
+    echo "      3. Retry the commit"
+    echo ""
+    echo "    Emergency bypass: SKIP_HOOKS=1 git commit ..."
+    exit 1
+  fi
 fi
 
 echo "--- all gates passed ---"

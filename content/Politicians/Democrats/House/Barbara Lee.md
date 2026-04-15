@@ -20,7 +20,7 @@ reenrich-reason: run congress pipeline
 donors: >-
   [[Tim Dunn]] · [[California Nurses Association]] · [[AFSCME - American
   Federation of State County and Municipal Employees]] · [[Rebekah Mercer]]
-bioguide-id: C001091
+bioguide-id: L000551
 govtrack-id: 400237
 bills-sponsored: 604
 bills-cosponsored: 10572

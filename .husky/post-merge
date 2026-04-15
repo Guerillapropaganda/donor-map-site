@@ -1,0 +1,66 @@
+#!/usr/bin/env sh
+# Post-merge hook — runs after every `git pull` or `git merge`.
+#
+# Job: detect when the merge brought in changes to package.json /
+# package-lock.json (root or ops/) and flag the developer to run
+# `npm install`. Without this, the code-is-merged / deps-not-installed
+# drift is invisible until the dev server tries a cold rebuild and
+# fails with "Module not found" — which is exactly the 2026-04-15
+# Clerk incident that hit the Ops app.
+#
+# This hook does NOT auto-install (too magical — surprises users with
+# unsolicited network activity after a pull). It WARNS loudly and prints
+# the exact command to run.
+#
+# Bypass: SKIP_HOOKS=1 disables all hooks.
+
+if [ "$SKIP_HOOKS" = "1" ]; then
+  exit 0
+fi
+
+# Which files were touched in this merge?
+# ORIG_HEAD is the pre-merge HEAD; HEAD is post-merge.
+CHANGED=$(git diff --name-only ORIG_HEAD HEAD 2>/dev/null || echo "")
+
+if [ -z "$CHANGED" ]; then
+  exit 0
+fi
+
+# Filter to package.json / package-lock.json files
+DEP_FILES_CHANGED=$(echo "$CHANGED" | grep -E "(^|/)package(-lock)?\.json$" || true)
+
+if [ -z "$DEP_FILES_CHANGED" ]; then
+  exit 0
+fi
+
+# Run the drift check. If it reports drift, print a loud warning.
+if node scripts/deps-sync-check.cjs --quiet >/dev/null 2>&1; then
+  # Exit 0 — everything in sync despite the file changes (rare, but
+  # possible if the dep changes were no-ops or already installed).
+  exit 0
+fi
+
+echo ""
+echo "════════════════════════════════════════════════════════════"
+echo "  ⚠  DEPS DRIFT DETECTED AFTER MERGE"
+echo "════════════════════════════════════════════════════════════"
+echo ""
+echo "  The merge brought in package.json / package-lock.json changes:"
+echo "$DEP_FILES_CHANGED" | sed 's/^/    /'
+echo ""
+echo "  Your node_modules is now out of sync with package.json."
+echo "  If you start the dev server without reinstalling, you will"
+echo "  hit a 'Module not found' build error (see the 2026-04-15"
+echo "  Clerk incident)."
+echo ""
+echo "  FIX — one of these:"
+echo ""
+echo "    node scripts/deps-sync-check.cjs --fix      # auto-install everywhere"
+echo ""
+echo "  Or manually:"
+node scripts/deps-sync-check.cjs 2>&1 | grep -E "^\s+cd " | sed 's/^/  /'
+echo ""
+echo "════════════════════════════════════════════════════════════"
+echo ""
+# Do NOT exit non-zero — post-merge is not a blocking hook, we just warn.
+exit 0
