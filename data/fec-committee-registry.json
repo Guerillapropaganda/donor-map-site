@@ -19,11 +19,11 @@
       "WINSENATE"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Dark Money/Winsenate.md",
+    "vault_slug": "winsenate",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.636Z",
-    "updated": "2026-04-15T05:19:23.636Z"
+    "updated": "2026-04-15T16:03:50.985Z"
   },
   "C00801910": {
     "committee_id": "C00801910",
@@ -47,11 +47,11 @@
       "FOOD AND WATER ACTION PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Dark Money/Food and Water Action.md",
+    "vault_slug": "food-and-water-action",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.637Z",
-    "updated": "2026-04-15T05:19:23.637Z"
+    "updated": "2026-04-15T16:03:50.984Z"
   },
   "C00828061": {
     "committee_id": "C00828061",
@@ -74,11 +74,11 @@
       "SFA FUND, INC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Dark Money/Sfa Fund, Inc.md",
+    "vault_slug": "sfa-fund-inc",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.637Z",
-    "updated": "2026-04-15T05:19:23.637Z"
+    "updated": "2026-04-15T16:03:50.985Z"
   },
   "C00836221": {
     "committee_id": "C00836221",
@@ -100,11 +100,11 @@
       "DEFEND AMERICAN JOBS"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Dark Money/Defend American Jobs.md",
+    "vault_slug": "defend-american-jobs",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.637Z",
-    "updated": "2026-04-15T05:19:23.637Z"
+    "updated": "2026-04-15T16:03:50.986Z"
   },
   "C00571588": {
     "committee_id": "C00571588",
@@ -131,11 +131,11 @@
       "RESTORATION PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Dark Money/Restoration Pac.md",
+    "vault_slug": "restoration-pac",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.637Z",
-    "updated": "2026-04-15T05:19:23.637Z"
+    "updated": "2026-04-15T16:03:50.986Z"
   },
   "C00490045": {
     "committee_id": "C00490045",
@@ -161,11 +161,11 @@
       "RESTORE OUR FUTURE, INC."
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Dark Money/Restore Our Future, Inc..md",
+    "vault_slug": "restore-our-future-inc",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.637Z",
-    "updated": "2026-04-15T05:19:23.637Z"
+    "updated": "2026-04-15T16:03:50.986Z"
   },
   "C00842344": {
     "committee_id": "C00842344",
@@ -187,11 +187,11 @@
       "BEST OF AMERICA PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Dark Money/Best of America Pac.md",
+    "vault_slug": "best-of-america-pac",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.637Z",
-    "updated": "2026-04-15T05:19:23.637Z"
+    "updated": "2026-04-15T16:03:50.986Z"
   },
   "C00573055": {
     "committee_id": "C00573055",
@@ -213,11 +213,11 @@
       "AMERICA LEADS"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Dark Money/America Leads.md",
+    "vault_slug": "america-leads",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.637Z",
-    "updated": "2026-04-15T05:19:23.637Z"
+    "updated": "2026-04-15T16:03:50.987Z"
   },
   "C00507525": {
     "committee_id": "C00507525",
@@ -239,11 +239,11 @@
       "WINNING OUR FUTURE"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Dark Money/Winning Our Future.md",
+    "vault_slug": "winning-our-future",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.637Z",
-    "updated": "2026-04-15T05:19:23.637Z"
+    "updated": "2026-04-15T16:03:50.988Z"
   },
   "C00891291": {
     "committee_id": "C00891291",
@@ -265,11 +265,11 @@
       "RBG PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Dark Money/Rbg Pac.md",
+    "vault_slug": "rbg-pac",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.637Z",
-    "updated": "2026-04-15T05:19:23.637Z"
+    "updated": "2026-04-15T16:03:50.988Z"
   },
   "C00492140": {
     "committee_id": "C00492140",
@@ -298,11 +298,11 @@
       "AB PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Dark Money/Ab Pac.md",
+    "vault_slug": "ab-pac",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.637Z",
-    "updated": "2026-04-15T05:19:23.637Z"
+    "updated": "2026-04-15T16:03:50.989Z"
   },
   "C00876482": {
     "committee_id": "C00876482",
@@ -324,11 +324,11 @@
       "RETIRE CAREER POLITICIANS"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Dark Money/Retire Career Politicians.md",
+    "vault_slug": "retire-career-politicians",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.637Z",
-    "updated": "2026-04-15T05:19:23.637Z"
+    "updated": "2026-04-15T16:03:50.989Z"
   },
   "C30001655": {
     "committee_id": "C30001655",
@@ -353,11 +353,11 @@
       "CROSSROADS GRASSROOTS POLICY STRATEGIES"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Dark Money/Crossroads Grassroots Policy Strategies.md",
+    "vault_slug": "crossroads-grassroots-policy-strategies",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.637Z",
-    "updated": "2026-04-15T05:19:23.637Z"
+    "updated": "2026-04-15T16:03:50.989Z"
   },
   "C00615088": {
     "committee_id": "C00615088",
@@ -380,11 +380,11 @@
       "AMERICANS UNITED FOR RESPONSIBLE LEADERSHIP"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Dark Money/Americans for Responsible Leadership.md",
+    "vault_slug": "americans-for-responsible-leadership",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.637Z",
-    "updated": "2026-04-15T05:19:23.637Z"
+    "updated": "2026-04-15T16:03:50.990Z"
   },
   "C00857011": {
     "committee_id": "C00857011",
@@ -405,11 +405,11 @@
       "FIGHT RIGHT INC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Dark Money/Fight Right Inc.md",
+    "vault_slug": "fight-right-inc",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.637Z",
-    "updated": "2026-04-15T05:19:23.637Z"
+    "updated": "2026-04-15T16:03:50.990Z"
   },
   "C00834630": {
     "committee_id": "C00834630",
@@ -431,11 +431,11 @@
       "BUCKEYE VALUES PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Dark Money/Buckeye Values Pac.md",
+    "vault_slug": "buckeye-values-pac",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.637Z",
-    "updated": "2026-04-15T05:19:23.637Z"
+    "updated": "2026-04-15T16:03:50.990Z"
   },
   "C00495028": {
     "committee_id": "C00495028",
@@ -463,11 +463,11 @@
       "HMP"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Dark Money/Hmp.md",
+    "vault_slug": "hmp",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.637Z",
-    "updated": "2026-04-15T05:19:23.637Z"
+    "updated": "2026-04-15T16:03:50.990Z"
   },
   "C00510941": {
     "committee_id": "C00510941",
@@ -493,11 +493,11 @@
       "TEXAS CONSERVATIVES FUND"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Dark Money/Texas Conservatives Fund.md",
+    "vault_slug": "texas-conservatives-fund",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.637Z",
-    "updated": "2026-04-15T05:19:23.637Z"
+    "updated": "2026-04-15T16:03:50.991Z"
   },
   "C00811166": {
     "committee_id": "C00811166",
@@ -520,11 +520,11 @@
       "THE SENTINEL ACTION FUND"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Dark Money/The Sentinel Action Fund.md",
+    "vault_slug": "the-sentinel-action-fund",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.637Z",
-    "updated": "2026-04-15T05:19:23.637Z"
+    "updated": "2026-04-15T16:03:50.991Z"
   },
   "C00418897": {
     "committee_id": "C00418897",
@@ -555,11 +555,11 @@
       "VOTEVETS"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Dark Money/Votevets.md",
+    "vault_slug": "votevets",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T16:03:50.991Z"
   },
   "C00489856": {
     "committee_id": "C00489856",
@@ -588,11 +588,11 @@
       "ESAFUND"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Dark Money/Esafund.md",
+    "vault_slug": "esafund",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T16:03:50.992Z"
   },
   "C00741009": {
     "committee_id": "C00741009",
@@ -614,11 +614,11 @@
       "AMERICANS FOR TOMORROW'S FUTURE"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Dark Money/Americans for Tomorrow's Future.md",
+    "vault_slug": "americans-for-tomorrows-future",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T16:03:50.992Z"
   },
   "C00542217": {
     "committee_id": "C00542217",
@@ -645,11 +645,11 @@
       "TEXANS FOR A CONSERVATIVE MAJORITY"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Dark Money/Texans for a Conservative Majority.md",
+    "vault_slug": "texans-for-a-conservative-majority",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T16:03:50.992Z"
   },
   "UNRESOLVED:ENDING SPENDING ACTION FUND": {
     "committee_id": "UNRESOLVED:ENDING SPENDING ACTION FUND",
@@ -695,11 +695,11 @@
       "PUT UTAH FIRST PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Dark Money/Put Utah First Pac.md",
+    "vault_slug": "put-utah-first-pac",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T16:03:50.993Z"
   },
   "C00819664": {
     "committee_id": "C00819664",
@@ -721,11 +721,11 @@
       "EVERGREEN PRINCIPLES PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Dark Money/Evergreen Principles Pac.md",
+    "vault_slug": "evergreen-principles-pac",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T16:03:50.993Z"
   },
   "C00782656": {
     "committee_id": "C00782656",
@@ -749,11 +749,11 @@
       "ALABAMA CHRISTIAN CONSERVATIVES (ACC)"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Dark Money/Alabama Christian Conservatives.md",
+    "vault_slug": "alabama-christian-conservatives",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T16:03:50.993Z"
   },
   "C00541292": {
     "committee_id": "C00541292",
@@ -776,11 +776,11 @@
       "CONSERVATIVE SOLUTIONS PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Dark Money/Conservative Solutions Pac.md",
+    "vault_slug": "conservative-solutions-pac",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T16:03:50.993Z"
   },
   "C00796045": {
     "committee_id": "C00796045",
@@ -803,11 +803,11 @@
       "TRUTH AND COURAGE PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Dark Money/Truth and Courage Pac.md",
+    "vault_slug": "truth-and-courage-pac",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T16:03:50.994Z"
   },
   "C00790923": {
     "committee_id": "C00790923",
@@ -830,11 +830,11 @@
       "BUCKEYE LEADERSHIP FUND, INC."
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Dark Money/Buckeye Leadership Fund, Inc..md",
+    "vault_slug": "buckeye-leadership-fund-inc",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T16:03:50.994Z"
   },
   "C00786152": {
     "committee_id": "C00786152",
