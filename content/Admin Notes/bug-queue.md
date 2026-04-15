@@ -31,7 +31,19 @@ Claude will normalize it on the next visit.
 
 ## open
 
-_(No open bugs right now. bug-001 + bug-002 moved to the resolved section below after Pillar 1 shipped.)_
+### bug-005: Enrichment pipeline dark — only 5 of ~25 pipelines running
+- **reported:** 2026-04-15 (Pillar 2b investigation)
+- **severity:** high
+- **where:** `donor-map-engine` repo (external pipeline orchestrator); symptom visible in `content/Vault Maintenance/Auto-Enrichment Log.md` and in the enrichment-history API that feeds the Ops pipeline-health page
+- **what:** Audit of the last 200 `API Enrichment Bot` commits shows only 5 pipelines have been running recently (`gleif`, `lda`, `ofac-sdn`, `propublica`, `stock-watcher`). The commits look normal — `API enrichment: 260 files (gleif:5 lda:7 ofac-sdn:22 propublica:13 stock-watcher:20)` — but the 20+ other pipelines in `ops/src/app/api/enrichment-history/route.ts`'s PIPELINE_LABELS map (congress, govtrack, usaspending, sec-edgar, courtlistener, fara, doj-press, federal-register, nonprofit-990, nhtsa-recalls, sec-litigation, lobbyview, fec, fec-summary, etc.) are SILENT.
+- **specific FEC finding:** `fec-summary` ran exactly 3 times in the last 200 enrichment commits (April 10–11, 2026: `fec-summary:8`, `fec-summary:11`, `fec-summary:19`). Full `fec:N` (Schedule A/E receipts) has **never** appeared in any enrichment commit. This is why 1,098 pre-existing monetary edges in `data/relationships.jsonl` had null `amount` and null `cycle` — the pipeline that was supposed to fill them never ran.
+- **impact:**
+  - Policy donor tables look thin because per-donor amounts aren't in the canonical store (worked around by Pillar 2b.1 body-table migration, but that's a one-time backfill, not a durable fix).
+  - Any non-FEC pipeline that depends on an ID the vault hasn't acquired (e.g. `fec-candidate-id` missing on 546 of 730 politicians) stays empty.
+  - Enrichment-history dashboard shows inflated "files changed" counts that don't reflect actual work (the counts include pending-merge log additions, not real vault mutations).
+- **root cause:** Unknown — must be diagnosed in the `donor-map-engine` repo. Suspects: (1) env config dropping pipeline entries, (2) silent per-pipeline failures swallowed by the orchestrator, (3) a quiet commit that shrank the default pipeline list after April 11.
+- **workaround:** None in this repo. Pillar 2b body-table migration extracted the amounts the `fec-summary` pipeline DID emit (in April) into the canonical store. Future enrichment data requires the pipelines to actually run.
+- **next step:** Diagnose in `donor-map-engine` — look at recent commits + orchestrator config + per-run logs. Once fixed, the new FEC Committee Registry (`data/fec-committee-registry.json` + `scripts/lib/fec-committee-registry.cjs`) should be plumbed into the `fec-summary` pipeline so it writes both body tables AND structured edges via `upsertEdges()` on the same run.
 
 ---
 

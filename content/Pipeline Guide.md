@@ -665,11 +665,80 @@ All 12 priority pipelines completed 2026-04-10. Refresh quarterly.
 
 ---
 
+### FEC Committee Registry (local, authoritative)
+
+**Single source of truth for FEC committee → vault profile mapping.** Lives at `data/fec-committee-registry.json`. Keyed by FEC committee ID (`C00487470`) because names drift but IDs are permanent.
+
+**Why it exists.** The `fec-summary` pipeline writes per-donor IE spending amounts into politician profile body tables as pipe-delimited markdown (inside `<!-- auto:fec-politician -->` blocks). That data never made it into `data/relationships.jsonl` — the monetary edges there were null-amount, null-cycle. Mapping 695 donor rows from the body tables into the canonical store revealed the deeper gap: **donor-map-engine writes committee names, not committee IDs, so downstream consumers can't distinguish "Club for Growth Action" (super PAC C00487470) from the advocacy 501(c)(4) parent.** The registry fixes this by storing authoritative FEC metadata keyed by the permanent ID.
+
+**Record shape:**
+```json
+{
+  "C00487470": {
+    "committee_id": "C00487470",
+    "fec_name": "CLUB FOR GROWTH ACTION",
+    "committee_type": "O",
+    "committee_type_full": "Super PAC (Independent Expenditure-Only)",
+    "designation": "U",
+    "connected_organization_name": null,
+    "candidate_ids": [],
+    "cycles": [2022, 2024, 2026],
+    "vault_profile": "Club for Growth",
+    "vault_slug": "donors & power networks/super pacs/club for growth",
+    "status": "mapped",
+    "aliases": ["CLUB FOR GROWTH ACTION"],
+    "added": "2026-04-15T04:59:00.000Z",
+    "updated": "2026-04-15T04:59:00.000Z",
+    "source": "fec-committee-resolver"
+  }
+}
+```
+
+**Status values:**
+- `mapped` — vault has a profile for the committee, `vault_profile` is populated
+- `unmapped-needs-stub` — FEC confirmed the committee exists (`committee_id` is real) but no vault profile covers it. Candidate for stub creation.
+- `unmapped-needs-review` — FEC search returned no result or ambiguous multi-match. Needs manual review.
+
+**How consumers use it:**
+1. **Pipelines writing monetary edges** (`fec-summary` in `donor-map-engine`, any future Schedule E fetcher): look up the committee ID, use `vault_profile` as the edge `from` field. If `status !== "mapped"`, either skip or flag for stub creation.
+2. **`scripts/migrate-fec-body-tables-to-edges.cjs`**: uses the registry as a lookup cache during body-table parsing so every known alias resolves cleanly.
+3. **Future Ops UI**: `/fec-committees` page for David to triage `unmapped-needs-stub` and `unmapped-needs-review` records.
+
+**How it stays populated:**
+- `scripts/fec-committee-resolver.cjs` — queries `GET /v1/committees/?q=<name>` for every committee name found in the body-table migration's unmatched report, caches raw API responses to `data/fec-committee-cache.jsonl`, and upserts into the registry. Rate-limited to 1 req / 4 sec. Safe to re-run; cache makes it idempotent.
+- `scripts/apply-fec-committee-registry.cjs` — reads the registry, syncs alias lists onto the corresponding vault profile frontmatter. Dry-run by default.
+- Future: `donor-map-engine`'s `fec-summary` pipeline should upsert the registry whenever it encounters a new committee, instead of writing just to body tables.
+
+**Gap the registry does NOT close yet.** The `fec-summary` pipeline in `donor-map-engine` still emits only markdown body tables, not structured edges. Closing this gap requires a `donor-map-engine` change so the pipeline calls the registry on each row and emits both the body table AND a monetary edge via `upsertEdges()`. Tracked in bug-005.
+
+**Commands:**
+```bash
+# Enrich top 50 unmatched committees with FEC API metadata
+node scripts/fec-committee-resolver.cjs
+
+# All of them (~20 min with rate limiting)
+node scripts/fec-committee-resolver.cjs --all
+
+# One specific committee
+node scripts/fec-committee-resolver.cjs --only="WINSENATE"
+
+# Sync registry → vault profile aliases (dry-run first)
+node scripts/apply-fec-committee-registry.cjs
+node scripts/apply-fec-committee-registry.cjs --write
+
+# Then re-run the body-table migration to pick up new matches
+node scripts/migrate-fec-body-tables-to-edges.cjs --write
+```
+
+---
+
 ### Known incidents (our vault)
 
 **No major incidents to date.** FEC is the vault's most reliable pipeline. Always verify committee/candidate ID matches the entity name before citing — a wrong digit shows a completely different entity.
 
 **Vault convention:** FEC URLs in profiles should always use canonical committee/candidate page format, never complex receipts search URLs (which are unstable and often fail to load).
+
+**2026-04-15 — bug-005: enrichment pipeline dark.** Audit found only 5 pipelines running in recent `API Enrichment Bot` commits (`gleif`, `lda`, `ofac-sdn`, `propublica`, `stock-watcher`). `fec-summary` ran 3 times total in the last 200 enrichment commits (April 10–11, 2026); `fec` full-receipts has **never** run. 20+ other pipelines in the PIPELINE_LABELS map are silent. Root cause is in `donor-map-engine` repo — suspected disabled config or silent failures. This is why 1,098 pre-existing monetary edges had null amounts and why Pillar 2b migration was necessary.
 
 ---
 
