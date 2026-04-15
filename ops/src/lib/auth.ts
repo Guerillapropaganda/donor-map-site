@@ -33,6 +33,66 @@ import {
 
 export type { UserRecord, Tier }
 
+// ─── Dev auth bypass ─────────────────────────────────────────────────
+//
+// When OPS_AUTH_BYPASS=1 AND NODE_ENV !== "production", every
+// requireTier / requireAdmin call returns a synthetic admin user.
+// This exists because Clerk's dev-mode instance periodically drops
+// user accounts, leaving David locked out of his own Ops app (2026-04-15
+// bug-001). The bypass is the escape hatch that lets local dev work
+// without fighting Clerk's ephemeral state.
+//
+// Guardrails:
+//   - Production builds hard-disable the bypass regardless of env var
+//   - A loud warning prints on first use (and every ~60s after)
+//   - The Ops UI shows a persistent yellow banner (DevModeBanner)
+//     when the bypass is active so you can't forget it's on
+//   - The synthetic user's ID is stable ("usr_dev_bypass") so rate
+//     limit buckets still work
+//
+// Turn it on: set OPS_AUTH_BYPASS=1 in ops/.env.local + restart.
+// Turn it off: remove the line + restart. That's it.
+
+const AUTH_BYPASS_ENABLED =
+  process.env.OPS_AUTH_BYPASS === "1" && process.env.NODE_ENV !== "production"
+
+const DEV_BYPASS_USER: UserRecord = {
+  id: "usr_dev_bypass",
+  clerk_id: "dev_bypass_clerk_id",
+  email: "dev@localhost",
+  tier: "admin" as Tier,
+  stripe_customer_id: null,
+  stripe_subscription_id: null,
+  created: "2026-04-15T00:00:00Z",
+  last_seen: new Date().toISOString(),
+  expires: null,
+  cancelled_at: null,
+  team_id: null,
+  is_admin: true,
+  rate_limit_override: null,
+  student_discount: false,
+  student_verification: null,
+  editor_notes: "synthetic user from OPS_AUTH_BYPASS — dev only",
+}
+
+let _lastBypassWarning = 0
+function warnBypass(source: string): void {
+  const now = Date.now()
+  if (now - _lastBypassWarning < 60_000) return
+  _lastBypassWarning = now
+  console.warn(
+    `[auth] ⚠ OPS_AUTH_BYPASS active — ${source} returning synthetic admin. Never ship this in production. Disable: remove OPS_AUTH_BYPASS from ops/.env.local.`,
+  )
+}
+
+/**
+ * Client-readable flag exposed via /api/auth/bypass-status so the
+ * Ops UI can render a banner when the bypass is active.
+ */
+export function isAuthBypassActive(): boolean {
+  return AUTH_BYPASS_ENABLED
+}
+
 // ─── Clerk session lookup ────────────────────────────────────────────
 
 async function getClerkUserId(): Promise<string | null> {
@@ -63,10 +123,17 @@ async function getClerkUserEmail(): Promise<string | null> {
  * Resolve the request to one of our user records. Creates a free-auth
  * record on first login if the Clerk user isn't in our store yet.
  * Returns null if the request is anonymous.
+ *
+ * If OPS_AUTH_BYPASS is active, always returns the synthetic admin user.
  */
 export async function currentUser(
   _req?: NextRequest,
 ): Promise<UserRecord | null> {
+  if (AUTH_BYPASS_ENABLED) {
+    warnBypass("currentUser")
+    return DEV_BYPASS_USER
+  }
+
   const clerkId = await getClerkUserId()
   if (!clerkId) return null
 
@@ -94,6 +161,12 @@ export async function requireTier(
   req: NextRequest,
   requiredTier: Tier,
 ): Promise<GateResult> {
+  // Dev bypass short-circuit — returns synthetic admin
+  if (AUTH_BYPASS_ENABLED) {
+    warnBypass("requireTier")
+    return { ok: true, user: DEV_BYPASS_USER }
+  }
+
   const user = await currentUser(req)
 
   // Admin bypass
@@ -137,6 +210,12 @@ export async function requireTier(
 }
 
 export async function requireAdmin(req: NextRequest): Promise<GateResult> {
+  // Dev bypass short-circuit
+  if (AUTH_BYPASS_ENABLED) {
+    warnBypass("requireAdmin")
+    return { ok: true, user: DEV_BYPASS_USER }
+  }
+
   const user = await currentUser(req)
   if (!user || !user.is_admin) {
     return {

@@ -3,6 +3,7 @@ import "./globals.css"
 import { Sidebar } from "@/components/Sidebar"
 import { ClientProviders } from "@/components/ClientProviders"
 import { LayoutBreadcrumbs } from "@/components/LayoutBreadcrumbs"
+import { DevModeBanner } from "@/components/DevModeBanner"
 import { ClerkProvider } from "@clerk/nextjs"
 
 export const metadata: Metadata = {
@@ -38,13 +39,16 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           <meta name="apple-mobile-web-app-capable" content="yes" />
           <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
         </head>
-        <body className="flex min-h-screen">
+        <body className="flex flex-col min-h-screen">
+          <DevModeBanner />
           <ClientProviders>
-            <Sidebar />
-            <main className="flex-1 ml-0 md:ml-56 p-4 md:p-6 overflow-auto">
-              <LayoutBreadcrumbs />
-              {children}
-            </main>
+            <div className="flex flex-1 min-h-0">
+              <Sidebar />
+              <main className="flex-1 ml-0 md:ml-56 p-4 md:p-6 overflow-auto">
+                <LayoutBreadcrumbs />
+                {children}
+              </main>
+            </div>
           </ClientProviders>
         </body>
       </html>

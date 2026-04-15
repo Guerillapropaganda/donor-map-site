@@ -31,6 +31,13 @@
       "runtimeArgs": ["/c", "cd ops && npx next dev -p %PORT%"],
       "port": 3333,
       "autoPort": true
+    },
+    {
+      "name": "ops-dashboard-bypass",
+      "runtimeExecutable": "cmd",
+      "runtimeArgs": ["/c", "cd ops && set OPS_AUTH_BYPASS=1&& npx next dev -p %PORT%"],
+      "port": 3334,
+      "autoPort": true
     }
   ]
 }
