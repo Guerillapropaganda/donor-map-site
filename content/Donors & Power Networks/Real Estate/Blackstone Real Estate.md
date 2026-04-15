@@ -43,6 +43,16 @@ lei: "549300T4DTSY6511ZQ86"
 lei-jurisdiction: "US-DE"
 cross-vault-triangulation-count: 11
 audit-a-plus-passed: "2026-04-11"
+federal-contracts: "22468"
+source-types:
+  - LDA
+  - SEC
+  - CourtListener
+  - GLEIF
+  - OFAC
+corroboration-count: 5
+aliases:
+  - "Blackstone Real Estate Political Operation"
 ---
 
 <!-- auto:data-panel start -->
@@ -287,6 +297,30 @@ Score: 12 Industry Wins, 2 Tenant Wins, 2 Compromises (with compromises represen
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Blackstone%20Real%20Estate) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
+
+### Federal Contracts
+<!-- auto:sam-contracts start -->
+| Metric | Value |
+|--------|-------|
+| Total Contracts Found | 22468 |
+| Sample Value (top 25) | $23K |
+| Year Range | 2005-2012 |
+| Federal Agencies | 1 |
+
+**Contracting agencies:** AGRICULTURE, DEPARTMENT OF
+
+**Recent contracts:**
+
+| Amount | Agency | Date |
+|--------|--------|------|
+| $650 | AGRICULTURE, DEPARTMENT OF | 2008-03-31 |
+| $550 | AGRICULTURE, DEPARTMENT OF | 2009-08-26 |
+| $350 | AGRICULTURE, DEPARTMENT OF | 2005-12-22 |
+| $0 | AGRICULTURE, DEPARTMENT OF | 2009-06-30 |
+| $0 | AGRICULTURE, DEPARTMENT OF | 2012-03-05 |
+
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Blackstone%20Real%20Estate&page=1&index=opp) (Tier 1) (VERIFIED)
+<!-- auto:sam-contracts end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
