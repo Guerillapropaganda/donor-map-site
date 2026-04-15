@@ -243,8 +243,24 @@ function main() {
   console.log("")
 
   const text = fs.readFileSync(INPUT, "utf-8")
-  const raw = parseMarkdown(text)
-  console.log(`  parsed ${raw.length} entity blocks from markdown`)
+  // Auto-detect format: raw JSONL (first non-blank line starts with '{')
+  // vs markdown with fenced blocks
+  const firstLine = text.split("\n").find((l) => l.trim())
+  const isJsonl = firstLine && firstLine.trim().startsWith("{")
+  let raw
+  if (isJsonl) {
+    raw = text
+      .split("\n")
+      .filter((l) => l.trim())
+      .map((l) => {
+        try { return JSON.parse(l) } catch { return null }
+      })
+      .filter(Boolean)
+    console.log(`  parsed ${raw.length} entity blocks from JSONL`)
+  } else {
+    raw = parseMarkdown(text)
+    console.log(`  parsed ${raw.length} entity blocks from markdown`)
+  }
 
   const nameIdx = buildNameIndex()
   const capitalSet = new Set(CAPITAL_TYPES)
