@@ -37,7 +37,9 @@ related: ">- · [[Mike Lee]] · [[Ritchie Torres]] · [[Kyrsten Sinema]]"
 cross-vault-triangulation-count: 12
 audit-a-plus-passed: "2026-04-11"
 aliases:
-  - AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES P E O P L E
+  - "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES P E O P L E"
+  - "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES - P E O P L E, QUALIFIED"
+  - "AFSCME"
 ---
 
 <!-- auto:data-panel start -->

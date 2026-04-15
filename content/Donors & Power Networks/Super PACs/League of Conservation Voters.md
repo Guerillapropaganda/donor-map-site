@@ -78,8 +78,10 @@ known-gaps:
 cross-vault-triangulation-count: 5
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 aliases:
-  - LEAGUE OF CONSERVATION VOTERS ACTION FUND
-  - LCV VICTORY FUND
+  - "LEAGUE OF CONSERVATION VOTERS ACTION FUND"
+  - "LCV VICTORY FUND"
+  - "LEAGUE OF CONSERVATION VOTERS VICTORY FUND"
+  - "LCV"
 politicians-funded: "[[Jim Himes]], [[Ed Markey]], [[Jeff Merkley]], [[John Thune]], [[Brian Schatz]]"
 ---
 

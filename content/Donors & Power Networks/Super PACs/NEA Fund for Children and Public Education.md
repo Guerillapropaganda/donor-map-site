@@ -9,7 +9,9 @@ last-updated: 2026-04-15
 source-tier: 1
 fec-committee-id: C00003251
 aliases:
-  - NEA FUND FOR CHILDREN AND PUBLIC EDUCATION
+  - "NEA FUND FOR CHILDREN AND PUBLIC EDUCATION"
+  - "NEA FUND FOR CHILDREN AND PUBLIC EDUCATION; THE (FKA NEAPAC)"
+  - "NEAPAC"
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
 politicians-funded: "[[Jamie Raskin]]"

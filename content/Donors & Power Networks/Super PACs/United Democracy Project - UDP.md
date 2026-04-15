@@ -41,7 +41,10 @@ internal-notes: >-
   have never touched this file. The needs-reenrichment flag has been set. The
   next scheduled pipeline run will pick it up automatically.
 aliases:
-  - UNITED DEMOCRACY PROJECT ('UDP')
+  - "UNITED DEMOCRACY PROJECT ('UDP')"
+  - "UNITED DEMOCRACY PROJECT (UDP)"
+  - "United Democracy Project"
+  - "UDP"
 ---
 
 <!-- auto:data-panel start -->
