@@ -1,7 +1,7 @@
 #!/usr/bin/env sh
 # Pre-commit gate for the Donor Map vault.
 #
-# Runs eight fast sentinels before every commit:
+# Runs nine fast sentinels before every commit:
 #   1. self-review-mirror      — em dashes, banned AI vocab, defamation-prone words,
 #                                verified-profile regressions
 #   2. yaml-sanity-scan        — catches broken frontmatter before it lands
@@ -20,6 +20,10 @@
 #                                package-lock.json to be staged too (prevents
 #                                the 2026-04-15 Clerk incident class:
 #                                deps edited without running npm install)
+#   9. auth-smoke              — runs the auth architecture smoke tests
+#                                (21 tests, ~70ms) locking in ADR-0009:
+#                                OPS_AUTH_BYPASS guards, tier hierarchy,
+#                                recovery docs, users.jsonl integrity
 #
 # If any fail, the commit is blocked. To bypass in an emergency:
 #   SKIP_HOOKS=1 git commit ...
@@ -93,6 +97,17 @@ node --test scripts/query-engine-contract-tests.cjs >/dev/null 2>&1
 if [ $? -ne 0 ]; then
   echo ""
   echo "[x] query engine contract tests failed — run 'node --test scripts/query-engine-contract-tests.cjs' to see details."
+  exit 1
+fi
+
+# 9. Auth architecture smoke tests (ADR-0009 contracts — 21 tests, ~70ms)
+echo "  -> auth-smoke-tests"
+node --test scripts/auth-smoke-tests.cjs >/dev/null 2>&1
+if [ $? -ne 0 ]; then
+  echo ""
+  echo "[x] auth smoke tests failed — run 'node --test scripts/auth-smoke-tests.cjs' to see details."
+  echo "    This usually means: OPS_AUTH_BYPASS guard removed, tier hierarchy changed,"
+  echo "    recovery docs deleted, or data/users.jsonl admin flag broken."
   exit 1
 fi
 

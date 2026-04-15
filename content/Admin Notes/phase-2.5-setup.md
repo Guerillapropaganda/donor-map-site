@@ -247,3 +247,94 @@ What's NOT in this commit (intentional):
 ---
 
 **Ready when you are.** Work through Steps 1-8 in order. Each step is independently verifiable — if Step 5 env vars fail, the routes return 503 with a pointer to this exact doc.
+
+---
+
+## Recovery from Clerk lockout
+
+Added 2026-04-15 after bug-001: Clerk dev-mode instance dropped David's account, blocking sign-in entirely. Full context in [ADR-0009](../Decisions/0009-auth-architecture.md).
+
+### Symptom
+You open `http://localhost:3333`, you get redirected to `/sign-in`, you type your email, and Clerk says **"Couldn't find your account"** — or you successfully sign in but every Ops page returns 401/403 errors.
+
+### Root cause (one of)
+- **Clerk dev-mode account was dropped.** Dev-mode Clerk instances have documented limitations: 5-user cap, accounts can be invalidated by Clerk's own infrastructure events, OAuth provider config can shift between deploys.
+- **You originally OAuth'd (Google/GitHub) and now the form only shows email/password.** OAuth accounts don't have email/password credentials Clerk can look up.
+- **Your `clerk_id` drifted.** After a Clerk reset, your new session has a different `user_XXX` id than the one stored in `data/users.jsonl`. We DO have an email-fallback in `addOrFindUser` that tries to relink — but it only fires if Clerk's session exposes the email to our code, which isn't always the case for fresh OAuth logins.
+
+### The fix — three paths, pick one
+
+#### Path 1: OPS_AUTH_BYPASS (recommended for local dev — PRIMARY path)
+
+This is the **primary local dev auth path** per ADR-0009, not an emergency hatch. The bypass returns a synthetic admin user for every `requireTier`/`requireAdmin` call, so you don't need Clerk at all locally.
+
+**Activate:**
+
+1. Open `ops/.env.local` in any editor (create the file if it doesn't exist)
+2. Add one line:
+   ```
+   OPS_AUTH_BYPASS=1
+   ```
+3. Save the file
+4. Restart your dev server:
+   ```bash
+   # In the terminal where `npm run dev` is running:
+   # Press Ctrl+C to stop
+   cd ops && npm run dev
+   ```
+5. Hard-refresh your browser at `http://localhost:3333` (Ctrl+Shift+R)
+
+**What you see when it works:**
+- Yellow bar across the top of every page: `⚠ OPS_AUTH_BYPASS ACTIVE`
+- Sign-in page shows a message telling you to go to the dashboard
+- Every API route (policies, class-tags, query, etc.) works as admin
+- Terminal shows `[auth] ⚠ OPS_AUTH_BYPASS active` warning every ~60s
+
+**Guardrails:**
+- Hard-disabled when `NODE_ENV === "production"` (Next.js sets this automatically in real builds)
+- Requires explicit opt-in via env var
+- Visible banner + console warning = impossible to forget it's on
+
+**Turn off:** delete the `OPS_AUTH_BYPASS=1` line from `.env.local` + restart.
+
+#### Path 2: Re-seed admin via email match
+
+If you want to keep using Clerk locally (not recommended for dev-mode, but sometimes necessary), here's the full recovery dance:
+
+1. **Sign up fresh** via any method Clerk's current dev instance offers (Google, email/password, whatever is on the sign-in page)
+2. **Note your new `clerk_id`.** Go to `http://localhost:3333/account` — if it loads, your clerk_id is in the debug info. Otherwise check the Clerk dashboard.
+3. **Run the re-seed script:**
+   ```bash
+   node scripts/seed-admin-user.cjs --email your@email.com --clerk-id user_XXXXXXXXXX
+   ```
+4. **Refresh the browser tab.** Your admin status is restored.
+
+The script finds the existing user record by email, backfills the new `clerk_id`, and sets `is_admin=true`. No data loss, no new records.
+
+#### Path 3: Upgrade to production Clerk (long-term)
+
+For **public launch** this becomes necessary — dev-mode Clerk is not acceptable for real users. Production Clerk is ~$25/mo and gives:
+- Persistent accounts (no more dev-mode drops)
+- Stable OAuth provider config
+- Production-grade session management
+- Higher user cap
+
+Upgrade path (when the time comes):
+1. In Clerk dashboard, create a production instance
+2. Replace `pk_test_*` / `sk_test_*` in `ops/.env.local` with `pk_live_*` / `sk_live_*`
+3. Re-add OAuth providers (Google, GitHub, whatever you want)
+4. Re-seed David's admin record with the new clerk_id
+5. Disable `OPS_AUTH_BYPASS` in production env vars (enforced by `NODE_ENV` guard anyway)
+6. Verify a fresh sign-in end-to-end before cutting over
+
+**Not urgent for foundation phase.** Pre-launch checklist item.
+
+### Detecting this happening in the wild
+
+`currentUser()` in `ops/src/lib/auth.ts` now logs a LOUD warning when it creates a new free-auth user via first-login backfill. If you ever see this in the server terminal:
+
+```
+[auth] fall-through first-login: created new user usr_NNNNNN (email=you@example.com, clerk_id=user_XXX, tier=free-auth). If this email was previously an admin, run 'node scripts/seed-admin-user.cjs --email you@example.com --clerk-id user_XXX' to rebind. See ADR-0009.
+```
+
+That's the Mode C drift detector firing. Run the `seed-admin-user.cjs` command shown in the message — it's pre-filled with your email and clerk_id.
