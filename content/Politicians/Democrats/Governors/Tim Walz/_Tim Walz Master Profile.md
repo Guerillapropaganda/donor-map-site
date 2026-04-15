@@ -159,8 +159,6 @@ He is not compromised in the transactional sense. He believes in progressive val
 | Individual Contributions | $22,700 |
 | PAC Contributions | $80,650 |
 | Cash on Hand | 0.00 |
-| IE Support (Super PAC) | $941,203 |
-| IE Opposition (Super PAC) | $2,002,818 |
 
 **Fundraising by cycle:**
 
@@ -171,16 +169,6 @@ He is not compromised in the transactional sense. He believes in progressive val
 | 2014 | $1,575,565 | $639,514 | $672,763 |
 | 2012 | $1,976,106 | $787,174 | $780,173 |
 | 2010 | $2,163,759 | $952,848 | $751,771 |
-
-**Top outside spenders:**
-
-| Committee | Support | Oppose |
-|-----------|---------|--------|
-| NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE | $0 | $1,935,395 |
-| SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION (SEIU COPE) | $516,807 | $0 |
-| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $212,147 | $0 |
-| BLUEGREEN ALLIANCE | $108,805 | $0 |
-| FREEDOM CLUB FEDERAL PAC | $0 | $66,000 |
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H6MN01174/) (Tier 1)
 
@@ -216,7 +204,7 @@ Timothy James Walz is an American politician, former educator, and Army National
 
 **Sources**
 
-- [Congress.gov: Tim Walz](https://www.congress.gov/member/s001193) (Tier 1)
+- [Congress.gov: Tim Walz](https://www.congress.gov/member/f000485) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->
 

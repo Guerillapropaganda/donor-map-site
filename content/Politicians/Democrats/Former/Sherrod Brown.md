@@ -425,7 +425,7 @@ _No committee data found._
 
 **Sources**
 
-- [Congress.gov: Sherrod Brown](https://www.congress.gov/member/s001193) (Tier 1)
+- [Congress.gov: Sherrod Brown](https://www.congress.gov/member/f000485) (Tier 1)
 - [GovTrack: Sherrod Brown](https://www.govtrack.us/congress/members/400050) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->

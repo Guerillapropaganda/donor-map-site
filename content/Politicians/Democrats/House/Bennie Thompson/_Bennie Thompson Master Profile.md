@@ -15,7 +15,7 @@ committees:
   - "Homeland Security"
 leadership-roles:
   - "Ranking Member"
-total-received: "$497,950"
+total-received: "$608,726"
 fec-candidate-id: "H4MS02068"
 bioguide-id: "T000193"
 govtrack-id: 400402
@@ -238,10 +238,10 @@ The January 6th investigation was Thompson's highest-profile moment and his clea
 | Metric | Value |
 |--------|-------|
 | Election Cycle | 2026 |
-| Total Raised | $497,950 |
-| Individual Contributions | $119,332 |
-| PAC Contributions | $370,598 |
-| Cash on Hand | 1544559.15 |
+| Total Raised | $608,726 |
+| Individual Contributions | $145,169 |
+| PAC Contributions | $452,744 |
+| Cash on Hand | 1415264.19 |
 | IE Support (Super PAC) | $83,665 |
 | IE Opposition (Super PAC) | $184 |
 
@@ -249,7 +249,7 @@ The January 6th investigation was Thompson's highest-profile moment and his clea
 
 | Cycle | Total Raised | Individual | PAC |
 |-------|-------------|------------|-----|
-| 2026 | $497,950 | $119,332 | $370,598 |
+| 2026 | $608,726 | $145,169 | $452,744 |
 | 2024 | $1,245,201 | $410,855 | $809,372 |
 | 2022 | $1,515,666 | $580,777 | $900,903 |
 | 2020 | $1,379,892 | $366,160 | $998,263 |
@@ -354,7 +354,7 @@ The January 6th investigation was Thompson's highest-profile moment and his clea
 
 **Sources**
 
-- [Congress.gov: Bennie Thompson](https://www.congress.gov/member/s001193) (Tier 1)
+- [Congress.gov: Bennie Thompson](https://www.congress.gov/member/f000485) (Tier 1)
 - [GovTrack: Bennie Thompson](https://www.govtrack.us/congress/members/400402) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->

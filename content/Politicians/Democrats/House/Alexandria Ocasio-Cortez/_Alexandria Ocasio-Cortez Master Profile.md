@@ -516,7 +516,7 @@ _No committee data found for the 119th Congress._
 
 **Sources**
 
-- [Congress.gov: Alexandria Ocasio-Cortez](https://www.congress.gov/member/s001193) (Tier 1)
+- [Congress.gov: Alexandria Ocasio-Cortez](https://www.congress.gov/member/f000485) (Tier 1)
 - [GovTrack: Alexandria Ocasio-Cortez](https://www.govtrack.us/congress/members/412804) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->

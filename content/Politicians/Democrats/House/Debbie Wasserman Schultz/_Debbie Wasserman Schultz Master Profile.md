@@ -265,6 +265,6 @@ The DNC chairmanship (2011-2016) exposed the party-level version of the same don
 
 **Sources**
 
-- [Congress.gov: Debbie Wasserman Schultz](https://www.congress.gov/member/s001193) (Tier 1)
+- [Congress.gov: Debbie Wasserman Schultz](https://www.congress.gov/member/f000485) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->

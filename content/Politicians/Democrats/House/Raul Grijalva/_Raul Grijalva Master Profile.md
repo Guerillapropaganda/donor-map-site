@@ -339,7 +339,7 @@ Grijalva spent two decades fighting battles with no corporate lobby behind them.
 
 **Sources**
 
-- [Congress.gov: Raul Grijalva](https://www.congress.gov/member/s001193) (Tier 1)
+- [Congress.gov: Raul Grijalva](https://www.congress.gov/member/f000485) (Tier 1)
 - [GovTrack: Raul Grijalva](https://www.govtrack.us/congress/members/400162) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->
