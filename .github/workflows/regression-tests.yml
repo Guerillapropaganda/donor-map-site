@@ -40,6 +40,9 @@ jobs:
       - name: Run query engine contract tests
         run: node --test scripts/query-engine-contract-tests.cjs
 
+      - name: Run auth architecture smoke tests
+        run: node --test scripts/auth-smoke-tests.cjs
+
   data-integrity-audit:
     name: Data Integrity Audit
     runs-on: ubuntu-latest

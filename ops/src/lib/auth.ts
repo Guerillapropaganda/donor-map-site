@@ -125,6 +125,13 @@ async function getClerkUserEmail(): Promise<string | null> {
  * Returns null if the request is anonymous.
  *
  * If OPS_AUTH_BYPASS is active, always returns the synthetic admin user.
+ *
+ * Fall-through logging (ADR-0009): when we have a Clerk session but
+ * neither clerk_id NOR email matches an existing user record, we log a
+ * LOUD warning. This is the only way we'd ever notice Mode C happening
+ * in the wild — Clerk session exists, our store has no match, we
+ * silently create a new free-auth user, and the user (possibly an
+ * admin) is orphaned. Without this log, the failure is invisible.
  */
 export async function currentUser(
   _req?: NextRequest,
@@ -140,13 +147,35 @@ export async function currentUser(
   const existing = getUserByClerkId(clerkId)
   if (existing) return existing
 
-  // First-login backfill
+  // First-login backfill — if we have an email, addOrFindUser will
+  // match by email as a fallback. The result is either:
+  //   (A) existing user record with backfilled clerk_id (clerk_id drift
+  //       recovered via email match — good, admin status preserved)
+  //   (B) new free-auth record (true first login OR complete drift
+  //       where neither clerk_id nor email matched — suspicious)
   const email = (await getClerkUserEmail()) || `${clerkId}@unknown.clerk`
-  return addOrFindUser({
+  const result = addOrFindUser({
     clerk_id: clerkId,
     email,
     tier: "free-auth",
   })
+
+  // Loud warning on Mode C (see ADR-0009): if the resulting record is
+  // brand new (matches the just-passed clerk_id AND is free-auth AND
+  // has <2 seconds of life), this was a first-login or a complete
+  // drift orphan. Real first logins are normal; drift orphans are
+  // the bug we want visibility on. Both look the same from here, so
+  // we log both and let the operator investigate if one of their
+  // admin users suddenly shows up as free-auth.
+  const now = Date.now()
+  const created = result.created ? new Date(result.created).getTime() : now
+  const isBrandNew = result.clerk_id === clerkId && now - created < 2000
+  if (isBrandNew && result.tier === "free-auth") {
+    console.warn(
+      `[auth] fall-through first-login: created new user ${result.id} (email=${email}, clerk_id=${clerkId}, tier=free-auth). If this email was previously an admin, run 'node scripts/seed-admin-user.cjs --email ${email} --clerk-id ${clerkId}' to rebind. See ADR-0009.`,
+    )
+  }
+  return result
 }
 
 // ─── Tier gating ─────────────────────────────────────────────────────
