@@ -197,6 +197,7 @@ export default function ClassTagsReviewPage() {
   const [status, setStatus] = useState<ProposalStatus | "">("pending")
   const [confidence, setConfidence] = useState<"high" | "medium" | "low" | "">("")
   const [capitalType, setCapitalType] = useState<CapitalType | "">("")
+  const [proposedBy, setProposedBy] = useState<string>("")
   const [search, setSearch] = useState("")
   const [offset, setOffset] = useState(0)
   const [activeIdx, setActiveIdx] = useState(0)
@@ -217,11 +218,12 @@ export default function ClassTagsReviewPage() {
     if (status) p.set("status", status)
     if (confidence) p.set("confidence", confidence)
     if (capitalType) p.set("capital_type", capitalType)
+    if (proposedBy) p.set("proposed_by", proposedBy)
     if (search) p.set("search", search)
     p.set("limit", String(PAGE_SIZE))
     p.set("offset", String(offset))
     return p.toString()
-  }, [status, confidence, capitalType, search, offset])
+  }, [status, confidence, capitalType, proposedBy, search, offset])
 
   const fetchProposals = useCallback(async () => {
     setLoading(true)
@@ -453,7 +455,7 @@ export default function ClassTagsReviewPage() {
       <div
         style={{
           display: "grid",
-          gridTemplateColumns: "1fr 2fr",
+          gridTemplateColumns: "1fr 1fr 2fr",
           gap: "0.5rem",
           marginBottom: "1rem",
           padding: "0.75rem",
@@ -476,6 +478,19 @@ export default function ClassTagsReviewPage() {
               {t}
             </option>
           ))}
+        </select>
+        <select
+          value={proposedBy}
+          onChange={(e) => {
+            setOffset(0)
+            setProposedBy(e.target.value)
+          }}
+          style={inputStyle}
+          title="Filter by proposer source"
+        >
+          <option value="">all proposers</option>
+          <option value="heuristic-v1">heuristic-v1</option>
+          <option value="perplexity-research-2026-04-15">perplexity-research-2026-04-15</option>
         </select>
         <input
           type="text"

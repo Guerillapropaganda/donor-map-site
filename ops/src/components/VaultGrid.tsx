@@ -47,7 +47,7 @@ export function VaultGrid({ profiles, loading, onSelect, selectedPath }: VaultGr
   const [search, setSearch] = useState("")
   const [typeFilter, setTypeFilter] = useState<string>("all")
   const [readinessFilter, setReadinessFilter] = useState<string>("all")
-  const [sortBy, setSortBy] = useState<"name" | "readiness" | "updated" | "completeness" | "stale">("readiness")
+  const [sortBy, setSortBy] = useState<"name" | "readiness" | "updated" | "completeness" | "stale" | "nearest-a-plus">("readiness")
   const [letterFilter, setLetterFilter] = useState<string>("all")
   const [sTierEligibleTopLevels, setSTierEligibleTopLevels] = useState<Set<string>>(new Set())
   const [flatToTopLevelMap, setFlatToTopLevelMap] = useState<Record<string, string>>({})

@@ -12,7 +12,7 @@ interface Props {
 
 /** THE WEB — Network graph showing connections as lines radiating from center */
 export function CardWeb({ profile, headline, subtext, width, height }: Props) {
-  const raw = profile as Record<string, unknown>
+  const raw = profile as unknown as Record<string, unknown>
   const name = profile.title.replace(/ Master Profile$/, "").replace(/^_/, "")
   const topDonors = Array.isArray(raw.topDonors) ? raw.topDonors.map(String).slice(0, 6) : []
   const related = String(raw.related || "").match(/\[\[([^\]|]+)/g)?.map(s => s.replace("[[", "")).slice(0, 8) || []

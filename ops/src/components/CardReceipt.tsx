@@ -11,7 +11,7 @@ interface CardReceiptProps {
 }
 
 export function CardReceipt({ profile, headline, subtext, width, height }: CardReceiptProps) {
-  const raw = profile as Record<string, unknown>
+  const raw = profile as unknown as Record<string, unknown>
   const amount = String(raw.careerTotal || raw.totalRaised || raw.totalReceived || raw.lobbyingSpend || profile.centralThesis?.match(/\$[\d,.]+[BMK]?/)?.[0] || "FOLLOW THE MONEY")
   const name = profile.title.replace(/ Master Profile$/, "").replace(/^_/, "")
   const topDonors = raw.topDonors || raw["top-donors"]

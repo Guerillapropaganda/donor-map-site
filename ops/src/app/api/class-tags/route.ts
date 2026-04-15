@@ -65,6 +65,7 @@ export async function GET(req: NextRequest) {
         ? (capParam as CapitalType)
         : undefined
 
+    const proposed_by = searchParams.get("proposed_by") || undefined
     const search = searchParams.get("search") || undefined
 
     const limitRaw = parseInt(searchParams.get("limit") || "50", 10)
@@ -76,6 +77,7 @@ export async function GET(req: NextRequest) {
       status,
       confidence,
       capital_type,
+      proposed_by,
       search,
       limit,
       offset,

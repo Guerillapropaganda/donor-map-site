@@ -46,7 +46,7 @@ export default function RelationshipsPage() {
   const [unconnected, setUnconnected] = useState<ConnectedProfile[]>([])
   const [unconnectedCount, setUnconnectedCount] = useState(0)
   const [recentConnections, setRecentConnections] = useState<Connection[]>([])
-  const [breakdown, setBreakdown] = useState({ related: 0, donors: 0, opposes: 0, total: 0 })
+  const [breakdown, setBreakdown] = useState({ related: 0, donors: 0, opposes: 0, stories: 0, total: 0 })
   const [loading, setLoading] = useState(true)
 
   const [tab, setTab] = useState<"list" | "explorer" | "graph" | "suggestions">("list")
@@ -517,7 +517,7 @@ export default function RelationshipsPage() {
       .text(d => d.name)
       .each(function () {
         const bbox = (this as SVGTextElement).getBBox()
-        const rect = select(this.parentNode!).select("rect")
+        const rect = select(this.parentNode as Element).select("rect")
         rect.attr("x", bbox.x - 4).attr("y", bbox.y - 2).attr("width", bbox.width + 8).attr("height", bbox.height + 4)
       })
 
@@ -599,7 +599,7 @@ export default function RelationshipsPage() {
       setUnconnected(connData.unconnected || [])
       setUnconnectedCount(connData.unconnectedCount || 0)
       setRecentConnections(connData.recentConnections || [])
-      setBreakdown(connData.breakdown || { related: 0, donors: 0, opposes: 0, total: 0 })
+      setBreakdown(connData.breakdown || { related: 0, donors: 0, opposes: 0, stories: 0, total: 0 })
       setProfiles(vaultData.profiles || [])
       setLoading(false)
     }).catch(() => setLoading(false))

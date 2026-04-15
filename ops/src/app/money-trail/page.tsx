@@ -4,7 +4,7 @@ import { useState, useEffect, useRef, useCallback } from "react"
 import {
   forceSimulation, forceManyBody, forceCenter, forceLink, forceCollide, forceX, forceY,
   select, zoom as d3Zoom, drag as d3Drag,
-  type Simulation, type SimulationNodeDatum, type SimulationLinkDatum,
+  type Simulation, type SimulationNodeDatum, type SimulationLinkDatum, type Selection,
 } from "d3"
 
 interface MoneyNode extends SimulationNodeDatum {
@@ -173,11 +173,11 @@ export default function MoneyTrailPage() {
       .attr("marker-end", "url(#money-arrow)")
 
     // Animated flow dots (pulsing dots moving along edges)
-    let flowGroup: ReturnType<typeof g.append> | null = null
+    let flowGroup: Selection<SVGGElement, unknown, null, undefined> | null = null
     if (showFlow) {
-      flowGroup = g.append("g").attr("class", "money-flow")
+      flowGroup = g.append<SVGGElement>("g").attr("class", "money-flow")
       // Create flow particles — one per edge, staggered
-      const flowDots = flowGroup.selectAll("circle")
+      const flowDots = flowGroup!.selectAll("circle")
         .data(simEdges)
         .join("circle")
         .attr("r", 2)
